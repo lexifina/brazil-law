@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. COLABORAÇÃO COM O TRÁFICO. CORRUPÇÃO PASSIVA. POLICIAL MILITAR. EXCESSO DE PRAZO. REVOGAÇÃO DE PRISÃO CAUTELAR. SUPERVENIÊNCIA DE SENTENÇA. NOVO TÍTULO. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - preso preventivamente desde 6/7/2017, pela prática, em tese, do crime de corrupção passiva e colaboração, como informante, com organização criminosa relativa a tráfico de drogas - arts. 37 da Lei n. 11.343/2006 e 317, § 1º, e 325, § 2º, ambos do Código Penal -, em que se alega constrangimento ilegal por parte do Tribunal de Justiça Militar de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 0900005-52.2019.9.26.0000), mantendo a prisão preventiva imposta pelo Juízo de Direito da 3ª Auditoria Militar (Inquérito Policial Militar n. 0002369-97.2017.9.26.0030).
+Esta, a ementa do acórdão impugnado (fls. 27/28):
+POLICIAL MILITAR - HABEAS CORPUS - PEDIDO DE CONCESSÃO DA ORDEM MEDIANTE A ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA - DECISÃO QUE DETERMINOU A CUSTÓDIA CAUTELAR PROFERIDA DE MANEIRA ADEQUADAMENTE MOTIVADA EM RAZÃO DA GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E POR EXIGÊNCIA DA MANUTENÇÃO DOS PRINCÍPIOS DE HIERARQUIA E DISCIPLINA - REQUISITOS LEGAIS QUE FORAM OBSERVADOS NA DECRETAÇÃO DA PRISÃO PREVENTIVA - EXCESSO DE PRAZO JUSTIFICADO - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+Concessão da ordem que não se mostra possível diante de decisão que determina a prisão preventiva de maneira adequadamente motivada considerando a descoberta do envolvimento de policial militar em organização criminosa durante investigação realizada pelo GAECO. As condições pessoais favoráveis não têm o condão, por si só, de garantir a liberdade do paciente quando presentes os requisitos autorizadores da manutenção da prisão. Os prazos para a conclusão da instrução criminal não são peremptórios, podendo ser flexibilizados diante das peculiaridades do caso concreto.
+Alega o impetrante, em síntese, que o paciente se encontra preso cautelarmente de forma infundada, sobretudo porque os fatos ocorreram em 2012 e 2013 e, desde essa época, não houve alteração fática sobre o que fora apurado à época até a data de hoje. A prisão preventiva foi decretada 5 anos após os fatos ocorrerem (fl. 7).
+Aduz que [NOME] é réu primário! Portador de todas as condições favoráveis para responder em liberdade! E, ainda, Policial Militar, e no período entre 2013 a 2017 foi promovido, agraciado com medalhas pela instituição e elogios que constam nos autos do referido processo (fl. 7).
+Para a defesa, há excesso de prazo para formação da culpa, sem que se possa responsabilizar a defesa e ou acusado; ultrapassados mais de um ano e sete meses de prisão para conclusão ou formação da culpa (fl. 10).
+Postula, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta.
+É o relatório.
+O presente writ perdeu o objeto.
+Isso porque, diante das informações prestadas pelo Juiz de Direito da 3ª Auditoria Militar de São Paulo/SP, foi noticiado que, em 11/3/2019, nos Autos n. 0015553-57.2018.8.26.0196, foi proferida sentença condenando o réu, ora paciente, como incurso no art. 37 da Lei n. 11.343/2006 e art. 308, § 1º, do CPM, às penas de 8 (oito) anos e 1 (um) mês de reclusão, em regime inicial fechado, e 408 (quatrocentos e oito) dias-multa.
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Confira-se o seguinte julgado deste Superior Tribunal:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. CONDENAÇÃO. EXAME DO MÉRITO. PARCIAL PREJUÍZO. SÚMULA N. 691 DO STF. SUPERAÇÃO. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. GRAVIDADE ABSTRATA DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. ORDEM CONCEDIDA.
+1. Havendo sido prolatada sentença condenatória em desfavor de um dos pacientes, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância.
+ ..
+(HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+De qualquer maneira, a tese de ausência de fundamentação idônea para a manutenção da prisão preventiva já foi analisada por esta Sexta Turma, no julgamento do HC n. 421.265/SP, também de minha relatoria, no dia 12/12/2017, ocasião em que foi denegada a ordem nesse particular.
+Ademais, com a prolação da sentença, passa a ser aplicável a Súmula 52/STJ. Logo, está superada a alegação de constrangimento ilegal por excesso de prazo na instrução.
+Pelo exposto, julgo prejudicado o presente writ (art. 34, XVIII, a, do RISTJ).
+Publique-se.
