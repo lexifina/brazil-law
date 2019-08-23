@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001. CONSTITUCIONALIDADE. ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL
+1. Acerca da prescrição do direito de pleitear repetição de indébito dos tributos lançados por homologação, ressalto que o Pleno do Supremo Tribunal Federal, em recente julgamento (RE 566621/RS, Rei. Min. ELLEN GRACIE, trânsito em julgado em 17/11/2011, publicado em 27/02/2012), com aplicação do art. 543-B, do CPC (repercussão geral), com eficácia vinculativa, reconheceu a inconstitucionalidade do art. 4o, segunda parte, da LC nº 118/2005, decidindo pela aplicação da prescrição qüinqüenal para a repetição de indébito, às ações ajuizadas a partir de 09 JUN 2005, que é o caso em apreço.
+2. Em decisão proferida pelo eminente relator Min. Ricardo Lewandowski, em embargos de declaração opostos pela UNIÃO, nos autos do RE 596177, acima mencionado, restou explicitado que: "a discussão do tema com enfoque na Lei 10.256/2001 teve sua repercussão geral reconhecida nos autos do RE 718.874/RS, de minha relatoria. Assim, o julgamento desse feito será a oportunidade adequada para o enfrentamento da matéria.".
+3. Sobre o tema o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718874/RS, em 30/03/2017, declarou que: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção.".
+4. Assim, o egrégio STF reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional n. 20/98, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+5. Considerando a constitucionalidade da exação sob a égide da Lei nº 10.256/2001, resta mantida a obrigação da empresa, na qualidade de substituto tributário, de reter e recolher a contribuição sempre que adquirir produtos rurais dos sujeitos passivos da exação
+7. Apelação a que se nega provimento.
+8. Honorários advocatícios conforme fixados na sentença.
+Os Embargos de Declaração opostos foram rejeitados com ementa nos seguintes termos:
+ROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A. RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/01. ALEGADOS VÍCIOS PROCESSUAIS DO JULGADO. EMBARGOS .DE DECLARAÇÃO. REDISCUSSÃO DO JULGADO. EMBARGOS NÃO PROVIDOS.
+Em suas razões recursais, a recorrente alega violação dos arts. 1.022 do CPC/20115 e 22-A da Lei 8.212/1991.
+Sustenta, em suma:
+Constata-se que o v. acórdão recorrido negou provimento aos embargos de declaração por aplicação da tese firmada pelo Supremo Tribunal Federal quando do julgamento do RE nº 718.874/RS, o qual declarou constitucional a contribuição devida pelo empregador rural pessoa física, o que implica em nítida contradição e omissão, uma vez que trata de contribuição diversa da discutida nesses autos, aquela devida pelo agroindústria e que, como já dito, é objeto do RE nº 611.601, cuja repercussão geral já foi reconhecida.
+Para constatar o alegado, basta passar os olhos pelos embargos de declaração manejados pela recorrente e confrontar com o acórdão proferido pelo Tribunal a quo, o qual logo em sua ementa deixa claro a aplicação do entendimento firmado no julgamento da contribuição devida pelo empregador rural pessoa natural, negando provimento aos aclaratórios por não ter havido, em tese, a configuração de qualquer das hipóteses do art. 1.022, do CPC, o que não é verdade.
+Desse modo, resta incontroversa a ofensa ao disposto no artigo 1.022. II. do Código de Processo Civil, (..)
+Portanto, bem configurada a violação do artigo 1.022, do CPC, ante a evidente omissão perpetrada pelo acórdão recorrido, eis que não julgou a constitucionalidade do artigo 22A, incisos I e II e § 5o da Lei nº 8.212/91, que trata da contribuição devida pela agroindústria, incidente sobre o valor da receita bruta proveniente da comercialização da sua produção (fl. 310, e-STJ).
+A União apresentou contrarrazões às fls. 327-334, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24 de julho de 2019.
+Verifica-se que o Supremo Tribunal Federal, nos autos do RE 611.601/RS (Rel. Min. Dias Toffoli, DJe de 18.6.2010) (Tema 281), reconheceu a existência de repercussão geral da questão relativa à constitucionalidade do artigo 1º da Lei 10.256/2001, que introduziu o artigo 22-A na Lei 8.212/1991.
+O reconhecimento da repercussão geral enseja a incidência dos artigos 543-B, § 3º, do Código de Processo Civil de 1973 e 1.039 e 1.040, incisos I e II, do Código de Processo Civil vigente, possibilitando a apreciação dos recursos sobrestados na origem, seja para declarar prejudicialidade, seja para exercer juízo de retratação, o que aconselha o retorno dos autos ao Tribunal originário.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. REPERCUSSÃO GERAL DO TEMA RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (RE 827.996/PR). DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM.
+(AgInt no AREsp 826.653/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+Diante do exposto, determino o retorno dos autos à  origem, com a respectiva baixa nesta Corte.
+Publique-se. Intimem-se.
