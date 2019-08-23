@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MUNICÍPIO DE CAJAMAR, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento. Execução fiscal. Ordem de recolhimento de valores para postagem de carta citatória. Admissibilidade. Despesas postais que não se incluem na isenção prevista no artigo 39 da Lei 6.830/80. Necessidade de observância do Provimento 2.292/15 do Conselho Superior da Magistratura. Recurso denegado" (fl. 104e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 39 da Lei 6.830/80 e 91 do CPC, sustentando que a Fazenda Pública, em sede de execução fiscal, está dispensada do recolhimento antecipado das custas para a realização do ato citatório.
+Requer, ao final, o conhecimento e o provimento do presente recurso.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 261/263e).
+Com razão a parte recorrente.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, em face de decisão que indeferiu a pretensão do MUNICÍPIO DE CAJAMAR de isenção do prévio pagamento de custas, relativas à citação postal do executado.
+O Tribunal de origem negou provimento ao Agravo de Instrumento.
+Daí a interposição do presente Recurso Especial.
+Com efeito, constata-se que o Tribunal a quo adotou entendimento dissonante da orientação firmada por esta Corte, segundo a qual, a Fazenda Pública, em sede de execução fiscal, está desobrigada de recolher antecipadamente as custas necessárias à citação, as quais serão recolhidas, ao final, pelo vencido, conforme preconiza os artigos 27 e 39 da Lei 6.830/80.
+A propósito, confira-se:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESPESAS POSTAIS DE CITAÇÃO. PRÉVIO PAGAMENTO. INEXIGIBILIDADE. ESPECIAL EFICÁCIA VINCULATIVA DOS ACÓRDÃOS PROFERIDOS NO RESP 1.107.543/SP E NO RESP 1.144.687/RS.
+1. A Primeira Seção/STJ, ao apreciar o REsp 1.107.543/SP (Rel. Min. Luiz Fux, DJe de 26.4.2010) e o REsp 1.144.687/RS (Rel. Min. Luiz Fux, DJe de 21.5.2010) ambos submetidos à sistemática prevista no art. 543-C do CPC, pacificou o entendimento no sentido de que, a Fazenda Pública, em sede de execução fiscal, está dispensada do recolhimento antecipado das custas para a realização do ato citatório, as quais serão recolhidas, ao final, pelo vencido, nos termos dos arts. 27 e 39 da Lei 6.830/80.
+2. Agravo regimental não provido" (STJ, AgRg no REsp 1.483.350/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/11/2014).
+"PROCESSO CIVIL - TRIBUTÁRIO - RECLAMAÇÃO - EXECUÇÃO FISCAL - ANTECIPAÇÃO DO RECOLHIMENTO DE DESPESAS COM ATO CITATÓRIO - ENTENDIMENTO DA CGJ/MG - ESFERA ADMINISTRATIVA - SUBMISSÃO À JURISPRUDÊNCIA DO STJ - RESP 1.017.543/SP - ART. 543-C DO CPC - ARTS. 27 DO CPC E 39 DA LEF.
+1. A Fazenda Pública, nas execuções fiscais, está dispensada do recolhimento antecipado das custas com a realização do ato citatório, que serão recolhidas, ao final, pelo sucumbente, nos termos dos arts. 27 do CPC e 39 da Lei 6.830/80.
+2. Tese firmada no REsp 1.107.543/SP, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 24/03/2010, DJe 26/04/2010, julgado segundo o procedimento do art. 543-C do CPC.
+3. Entendimento proferido pela Corregedoria-Geral da Justiça do Estado de Minas Gerais - CGJ/MG, em procedimento de consulta, por ostentar natureza administrativa, não prevalece frente à jurisprudência sedimentada do Superior Tribunal de Justiça, em julgamento representativo de controvérsia.
+4. Reclamação provida para cassar a decisão impugnada e determinar a observância da tese fixada no RESp 1107543/SP pelo juízo reclamado" (STJ, Rcl 10.252/MG, 1ª Seção, Rel. Min. Eliana Calmon, DJe de 17.4.2013).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de reconhecer que o recorrente está desobrigado de recolher, antecipadamente, as custas necessárias à citação, as quais serão recolhidas, ao final, pelo vencido.
+I.
