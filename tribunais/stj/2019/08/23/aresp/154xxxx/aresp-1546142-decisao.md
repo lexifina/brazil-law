@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se de agravo apresentado por MART MINAS DISTRIBUIÇÃO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUSPEITA DE FURTO EM SUPERMERCADO. ABORDAGEM EXCESSIVA. DANOS MORAIS "IN RE IPSA" CONFIGURADOS. RECURSO PROVIMENTO. PEDIDO JULGADO PARCIALMENTE PROCEDENTE.
+- A responsabilidade do empregador por ato de seus prepostos é objetiva, mostrando-se desnecessário averiguar acerca da caracterização de culpa da empresa empregadora. Inteligência dos arts.
+932, inciso III, e 933, ambos do Código Civil. Ademais, o fornecedor de produtos e serviços responde pela reparação dos danos causados por defeitos relativos aos produtos e prestação de serviços que disponibiliza no mercado de consumo, independentemente da existência de culpa (art.
+14 do CDC).
+- Embora o preposto tenha afirmado que a parte autora foi levada para conversar em reservado, o estabelecimento réu não produziu nenhuma prova nesse sentido, tendo em vista o ônus que lhe é atribuído pelo inciso II do artigo 373 do CPC/15.
+- Para fixação dos danos morais, deve-se levar em consideração as circunstâncias de cada caso concreto, tais como a natureza da lesão, as consequências do ato, o grau de culpa, as condições financeiras das partes, atentando-se para a sua dúplice finalidade, ou seja, meio de punição e forma de compensação à dor da vítima, não permitindo o seu enriquecimento imotivado (fl. 129).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 373, I, do CPC; e 188 do CC, trazendo o(s) seguinte(s) argumento(s):
+Da análise do processo constata-se que não consta nos autos qualquer prova que dê substrato à narrativa feita, o que conduz à improcedência do pedido.
+ .. .
+Com efeito, nota-se que o Boletim de Ocorrência lavrado pelo próprio recorrido, corrobora que não houve qualquer excesso na abordagem, assim a simples alegacão de abordagem por si só não é capaz de gerar o dano moral.
+ .. .
+Desse modo, dúvidas não restam de que a conduta do preposto da recorrente, não ultrapassou os limites do exercício regular de um direito, isto é, o de proteção do patrimônio da empresa, não havendo que se falar em ato ilícito.
+ .. .
+Vale registrar que o direito de averiguação é resguardado às empresas, desde que efetivado sem excesso ou desvio de finalidade. Assim, se criada situação suspeita, a averiguação civilizada é direito resguardado, se não existente comprovação de excesso, improcedente pretensão como a aqui infirmada pelo recorrido (fls. 176/179).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.026, § 3º, do CPC, trazendo o(s) seguinte(s) argumento(s):
+Embora se tenha considerado como inexistente qualquer omissão, contradição ou obscuridade no acórdão recorrido, não se mostra cabível no caso a aplicação da penalidade prevista artigo 1.026, § 3º do CPC, pois não houve a ocorrência de má-fé, nem evidências de que os embargos possuem caráter protelatório (fl. 184).
+É o relatório. Decido.
+No que concerne à primeira controvérsia, o Tribunal de origem decidiu:
+Restou suficientemente demonstrada a ilicitude da abordagem realizada pelos prepostos do Apelado, a qual ultrapassou a esfera do exercício regular do direito, tendo exposto o Apelante/Autor a situação vexatória, constrangedora e humilhante e, por consequência, comprovada a falha na prestação do serviço, o que traz consigo o dever de ressarcir os prejuízos morais suportados,  .. .
+Apesar de não existirem critérios rígidos para a fixação da condenação pelo dano moral, considero adequado arbitrar o valor de R$10.000,00 (dez mil reais), devendo incidir juros desde a citação e correção desde este acórdão (Súmula 362-STJ) (fls. 135/138).
+Dessa feita, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, aplica-se igualmente o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que, "in casu, rever o entendimento do Tribunal de origem, que aplicou a pena de multa prevista no art. 538, parágrafo único, do Código de Processo Civil, por considerar os embargos protelatórios, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ" (AgRg no AREsp n. 368.054/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/3/2015).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.381.439/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 9/4/2019; REsp n. 1.718.897/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019; AgInt nos EDcl no AREsp n. 1.138.645/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23/3/2018; AgRg no REsp n. 1.192.745/PE, relator Ministro Og Fernandes, Sexta Turma, DJe de 21/3/2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
