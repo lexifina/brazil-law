@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por [NOME] OTTONI WANDERLEY DE ARAÚJO PINHO, por meio dos quais se impugna decisão, de minha lavra, que conheceu em parte de seu Recurso Especial e, nessa parte, negou-lhe provimento, no bojo de ação rescisória que visa à desconstituição de condenação em honorários advocatícios.
+Nas razões dos Embargos de Declaração, o ora embargante sustenta e requer, em síntese, o seguinte:
+"5. Existe, assim, contradição entre a conclusão do acórdão rescindendo, e a sua fundamentação, pois se a decisão considerou, corretamente, que não cabe ação rescisória para discutir valor de honorários de sucumbência, deveria negar provimento a ação, que discute apenas esta matéria, confirmando, por consequência, a decisão proferida no processo original.
+6. Está certa, assim a suplicante, de que, melhor examinada a questão, os presentes embargos serão conhecido e providos, com efeito infringente, para entender que, não sendo cabível discutir a fixação de honorários de sucumbência em ação rescisória, tal demanda não deve ser conhecida, ou, se o for, o pedido deve ser desprovido, confirmando-se por inteiro a decisão rescindenda" (fl. 3.590e).
+Sem contraminuta.
+Os Embargos de Declaração não merecem prosperar.
+Cediço que os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" ou "corrigir erro material" (art. 1.022 do Código de Processo Civil).
+No caso, inexiste qualquer dos vícios que ensejariam a oposição de Embargos Declaratórios, de vez que a decisão embargada apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela embargante.
+Com efeito, consta da decisão embargada que, "conforme se observa dos autos, restou expressamente asseverado, no Tribunal de origem, que não houve, no bojo da decisão rescindenda, a realização da necessária ponderação sobre os critérios legais, estabelecidos nas alíneas do § 3º, do art. 20, do CPC/73, para a fixação dos honorários de sucumbência. (..) não havendo tal ponderação concerta, tem-se, portanto, a requerida violação a regra legal objetiva, de modo que está autorizado o ajuizamento, na espécie em comento, da ação rescisória" (fl. 3.548e).
+Inexiste, portanto, a alegada contradição, uma vez que a decisão embargada expressamente reconheceu a possibilidade de utilização, no caso, da ação rescisória.
+Ante o exposto, à míngua de vícios na decisão embargada, rejeito os Embargos de Declaração.
+I.
