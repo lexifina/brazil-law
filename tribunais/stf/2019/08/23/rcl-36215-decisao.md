@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Flavia Giatti Leuteviller Fassoni e outros afirmam haver a Corte Especial do Superior Tribunal de Justiça, no agravo em recurso especial nº 1.327.479, olvidado o decidido, sob o regime da repercussão geral, no extraordinário de nº 591.874.
+    Conforme narram, ajuizaram ação contra Autopista Litoral Sul S.A. visando o pagamento de danos materiais e morais decorrentes de falha na prestação de serviço público. Esclarecem a improcedência do pleito, mantida a óptica em segundo grau. Interposto recurso de revista, teve a sequência impedida. Não houve êxito em subsequente agravo. Em face do pronunciamento do Superior Tribunal de Justiça, sobreveio extraordinário, sem sucesso, surgindo o alegado descompasso.
+    Asseveram desrespeitado o paradigma. O Supremo teria assentado a responsabilidade objetiva de pessoa jurídica de direito privado, concessionária, relativamente a terceiros, usuários ou não do serviço. Dizem impertinente a tese adotada no recurso extraordinário nº 598.365, segundo a qual inexiste repercussão maior quando em jogo discussão sobre o preenchimento de requisitos de admissibilidade de recurso da competência de tribunal diverso. Evocam jurisprudência.
+    Sob o ângulo do risco, aludem ao desperdício da atividade judicante na origem.
+    Requerem, em sede liminar, a suspensão do ato impugnado e do curso do processo em que formalizado. Pretendem, alfim, seja cassado o pronunciamento atacado, determinando-se novo julgamento, considerado o entendimento revelado no caso piloto.
+    2. Eis a ementa do acórdão, prolatado no âmbito do agravo interno protocolado contra decisão que implicou o desprovimento de agravo em recurso especial nº 1.327.479, questionado mediante o extraordinário formalizado:
+    PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA DOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF). 2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 3. No caso concreto, o Tribunal de origem concluiu que ficou comprovada a culpa exclusiva de terceiro. Alterar tal conclusão demandaria nova análise da prova dos autos, inviável em recurso especial. 4. Agravo interno a que se nega provimento.
+    (Agravo em recurso especial nº 1.327.479, Quarta Turma do Superior Tribunal de Justiça, relator o ministro Antônio Carlos Ferreira, acórdão publicado em 17 de dezembro de 2018.)
+    Não está em debate o tema da responsabilidade civil da concessionária de serviço público. A discussão ficou restrita ao preenchimento de requisitos de admissibilidade do especial. Embora inadequado falar-se de falta de questão constitucional, possuindo o recurso previsão no artigo 105 da Lei Maior, não houve, na origem, discussão sobre a problemática da responsabilidade, a revelar ausência de prequestionamento.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 23 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
