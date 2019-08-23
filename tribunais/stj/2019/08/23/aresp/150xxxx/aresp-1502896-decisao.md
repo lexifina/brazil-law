@@ -1,0 +1,33 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIAS PAGAS E REPARAÇÃO DE DANOS. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. ART. 1022 DO CPC. VIOLAÇÃO NÃO CONFIGURADA. MERO INADIMPLEMENTO CONTRATUAL. DANO MORAL NÃO CONFIGURADO.
+1. Ação de rescisão contratual c/c restituição de quantias pagas e reparação de danos.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. O mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis. Precedentes.
+4. Agravo conhecido. Recurso especial conhecido e parcialmente provido para afastar a condenação da recorrente no que se refere à compensação por danos morais.
+DECISÃO
+Cuida-se de agravo interposto contra inadmissão de recurso especial de RESIDENCIAL SITIO MEDEIROS INCORPORACAO IMOBILIARIA LTDA fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/01/2019.
+Concluso ao gabinete em: 09/07/2019.
+Ação: de rescisão contratual cumulada com rstituição de quantias pagas e reparação de danos ajuizada por [NOME] DUTRA em desfavor de RESIDENCIAL SITIO MEDEIROS INCORPORACAO IMOBILIARIA LTDA e OUTRA, em razão do atraso na entrega de imóvel objeto de contrato de compra e venda.
+Sentença: julgou parcialmente procedente a demanda em relação à corré Residencial Sítio Medeiros Incorporação Imobiliária Ltda., e julgou extinto o feito com fulcro no art. 487, inciso I, do CPC, para declarar a rescisão do contrato em discussão, determinando a devolução do valor de R$ 74.883,85, devidamente corrigido desde o desembolso pela Tabela Prática para Cálculo de Atualização Monetária dos Débitos Judiciais do TJ/SP, com juros de mora de 1% ao mês desde a citação. Condenou, ainda, a ré ao pagamento de indenização por dano moral no valor de R$ 10.000,00, devidamente corrigido pela Tabela Prática para Cálculo de Atualização Monetária dos Débitos Judiciais do TJ/SP, desde o arbitramento, e com juros de mora de 1% ao mês desde a citação. Considerando o acolhimento parcial dos pedidos e a desistência de parte deles, determinou que cada parte arcará com suas custas e despesas processuais, e os honorários advocatícios, fixados em 10% do valor da causa, a ser arcado em 50% por cada parte.
+Acórdão: negou provimento ao apelo. A ementa restou assim redigida:
+COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. INADIMPLEMENTO DA CONSTRUTORA POR ATRASO. DANOS MORAIS. Sentença de parcial procedência, reconhecida a ilegitimidade passiva da primeira corré quanto ao pedido de rescisão contratual e de indenização pela rescisão, reconhecida a prescrição do pedido de ressarcimento de taxa SATI, e condenada a segunda corré a devolver ao autor a integralidade dos valores pagos pelo contrato, em razão da rescisão contratual declarada, no valor de R$ 74.883,85 (setenta e quatro mil, oitocentos, oitenta e três reais e oitenta e cinco centavos), bem como por danos morais no valor de R$ 10.000,00 (dez mil reais). Irresignação da ré. Alegação de inocorrência de danos morais. Atraso considerável para a entrega do imóvel. Ausência de informação adequada ao consumidor quanto ao andamento das obras e aos problemas ocorridos (art. 6º, III, CDC). Danos morais indenizáveis configurados. Responsabilidade civil configurada (arts. 186 e 927, CC). Arbitramento dos danos morais em R$ 10.000,00 (dez mil reais), pela sentença. Valor equilibrado. Sentença mantida. Sucumbência recursal (art. 85, §11, CPC). Recurso desprovido.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1022, I e II, do CPC; 31-A da Lei nº 4.591/64; 186, 187, 402, 403 e 927 do CC. Aponta negativa de prestação jurisdicional. Defende que o atraso na entrega do imóvel caracteriza mero inadimplemento contratual, não havendo que se falar em dano mora indenizável.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência de informação adequada ao consumidor do andamento das obras (art. 6º, III, CDC), o que é "é um dos elementos que leva ao reconhecimento de culpa da vendedora, nos termos dos artigos 186 e 927 do Código Civil, o que caracteriza a responsabilidade civil da embargante", e dos parâmetros adotados para a fixação da compensação, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou o art. 31-A da Lei nº 4.591/64, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da não configuração de dano moral pelo simples inadimplemento contratual (atraso na entrega de bem imóvel)
+O TJ/SP divergiu do entendimento STJ perfilhado no sentido de que o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis.
+Sobre o tema: REsp 1.642.314/SE, 3ª Turma, DJe de 22/03/2017; EDcl no AgRg no AREsp 745.577/RJ, 3ª Turma, DJe de 05/06/2017; AgRg no AREsp 316.555/RJ, 4ª Turma, Dje de 24/02/2017; AgRg no AREsp 844216 / SP; 4ª Turma, DJe 27/09/2017).
+O recurso, no ponto, merece ser acolhido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para afastar a condenação da parte ora recorrente no que se refere à compensação por danos morais.
+Fica restabelecida a distribuição dos ônus sucumbenciais fixada na sentença (e-STJ fl. 645).
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
