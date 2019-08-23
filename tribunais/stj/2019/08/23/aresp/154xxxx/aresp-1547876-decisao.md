@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+E M E N T A - RECURSO DE APELAÇÃO - DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS - ARTIGO 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR - OBRIGAÇÃO DE TRATO SUCESSIVO - TERMO INICIAL DO PRAZO PRESCRICIONAL - DESCONTO DE CADA PARCELA NO BENEFÍCIO PREVIDENCIÁRIO.
+Por se tratar de obrigação de trato sucessivo, o prazo da prescrição, previsto no artigo 27 do Código de Defesa do Consumidor, corre a partir do desconto da parcela prevista no contrato, porque o dano e sua autoria se tornaram conhecidos com cada débito no benefício previdenciário da parte autora.
+Recurso conhecido e não provido.
+É o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que a "decisão monocrática proferida por Relator não é admitida para fins de comprovação do dissídio jurisprudencial, pois a manifestação unipessoal do relator não compreende o conceito coletivo de "tribunal" almejado pela Constituição Federal" (AgInt no REsp 1765964/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2018, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1751850/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2018, DJe de 21/11/201; AgInt no REsp 1591925/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/3/2018, DJe de 20/3/2018; e AgRg no REsp 1582098/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 4/10/2016, DJe de 14/10/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
