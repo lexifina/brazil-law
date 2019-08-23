@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, que deu parcial provimento ao apelo da acusação para condenar o paciente à pena de 5 anos de reclusão, em regime inicial fechado, mais pagamento de 500 dias-multa, pelo delito de tráfico de entorpecentes.
+Neste writ, o impetrante informa que o paciente está em situação fática processual idêntica ao do corréu [NOME], beneficiado com a redução da pena por esta Corte, no HC n. 446.233/SC. Requer, assim, a extensão dos efeitos dessa decisão, nos termos do art. 580 do CPP.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 447-452).
+É o relatório.
+Decido.
+Assiste razão à defesa, uma vez que os elementos utilizados para negar a aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 são comuns ao paciente e corréu.
+Vejamos:
+O Tribunal de origem afastou o tráfico privilegiado em decisão assim motivada:
+"Por oportuno, deixo de aplicar a causa de especial de diminuição prevista no § 4º do mencionado art. 33.
+Isso porque, embora esse dispositivo legal permita, em relação ao autor do delito de tráfico de drogas, a redução da pena de um sexto a dois terços, a norma deixa claro que tal causa especial de diminuição pode ser aplicada "desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+ ..
+No caso em apreço, foram apreendidas 59 pedra de crack, porções de fragmentos de crack, pesando 4,8 gramas, mais 1 porção de maconha pesando 249,9 gramas, e 1 porção de maconha pesando 1,7 gramas.
+Ademais, os réus eram ambos conhecidos dos policiais atuantes na região e, apesar de não haver provas quanto à associação criminosa, dos autos ressaem elementos de que estes se dedicam ao comércio de drogas de forma organizada e permanente, tornando-se inviável a aplicação da causa de diminuição prevista no art. 33, § 4.º da Lei de Tóxicos" (e-STJ, fl. 317).
+Como posto no acórdão referido desta Corte, "o Tribunal de origem negou a aplicação da minorante ao paciente, por entender que a quantidade de droga apreendida e os demais elementos colhidos no feito indicariam que ele e o corréu se dedicavam "ao comércio de drogas de forma organizada e permanente"".
+Entretanto, observa-se que, além de o paciente e o corréu terem sido absolvidos pelo delito de associação para o tráfico porque ausente comprovação do vínculo subjetivo entre eles, não foi apontado elemento algum que comprove a organização e permanência dos acusados no narcotráfico.
+Dessa forma, certificada a primariedade, os bons antecedentes e à míngua de provas concretas da habitualidade delitiva do paciente, tenho como suficiente a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/6, em razão da quantidade, natureza e diversidade dos entorpecentes, nos termos do art. 42 da referida Lei (4,8g de crack, 249,9 de maconha e 1,7g de maconha).
+Nesse sentido:
+" ..
+TRÁFICO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. NEGATIVA DE INCIDÊNCIA. FUNDAMENTAÇÃO INSUFICIENTE. PEQUENA QUANTIDADE DA DROGA APREENDIDA. APLICAÇÃO NA FRAÇÃO DE 1/6 (UM SEXTO). ADEQUAÇÃO E PROPORCIONALIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Para a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Tendo o legislador previsto apenas os pressupostos para a aplicação do benefício legal, deixando, contudo, de estabelecer os parâmetros para a escolha entre a menor e a maior frações indicadas para a mitigação, devem ser consideradas as circunstâncias do caso concreto.
+3. In casu, as instâncias de origem afastaram a aplicação do benefício em razão das circunstâncias do caso concreto, como forma de indicar a prática habitual da atividade criminosa. Entretanto, a quantidade da referida droga não é relevante, impondo a sua incidência.
+4. Assim, mostra-se razoável e proporcional ao caso a redução da reprimenda em 1/6 (um sexto).
+ ..
+3. Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a pena imposta para 4 (quatro) anos e 2 (dois) meses de reclusão, e multa."
+(HC 366.232/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 9/5/2017, DJe 17/5/2017);
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/06). QUANTUM DE REDUÇÃO. PROPORCIONALIDADE. NATUREZA E QUANTIDADE DAS SUBSTÂNCIAS APREENDIDAS - 16 GRAMAS DE CRACK, 21,7 GRAMAS DE COCAÍNA E 111 GRAMAS DE MACONHA -. MODIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO.  ..  HABEAS CORPUS NÃO CONHECIDO. 1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A jurisprudência deste Tribunal Superior, firmou-se no sentido de que, na escolha do quantum de redução da pena em razão da incidência do § 4º do art. 33 da Lei n. 11.343/06, o Juiz deve levar em consideração a quantidade e a natureza das substâncias apreendidas, por expressa previsão legal (art. 42 da Lei n. 11.343/06). No caso dos autos, não se mostra desarrazoada a aplicação do quantum de redução no patamar de 1/6 (um sexto), tendo em vista a natureza e a quantidade das drogas apreendidas. 3. Sedimentou-se, nesta Corte Superior, o entendimento segundo o qual, nos delitos previstos na Lei de Drogas, a fixação do regime prisional deve observar a regra imposta no art. 33, § 2º do Código Penal em conjunto com o art. 42 da Lei 11.343/2006, que determina a consideração, preponderantemente, da natureza e quantidade da droga.
+4. Embora primária e com pena-base fixada no mínimo legal, a quantidade e a natureza da droga apreendida - 16 gramas de "cocaína" em forma de "crack", 21,7 gramas de "cocaína" e 111 gramas de Cannabis sativa L ("maconha") -, utilizadas na terceira fase da dosimetria, para modular a aplicação do redutor previsto no art. 33, § 4º da Lei de Drogas, justificam a segregação inicial em regime mais gravoso.
+ ..
+Habeas corpus não conhecido."
+(HC 389.807/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 8/8/2017, DJe 18/8/2017).
+Passo, assim, a readequação da pena.
+A pena-base fica estabelecida em 5 anos de reclusão mais 500 dias-multa, pela aferição favorável das circunstâncias judiciais, a qual fica mantida na etapa intermediária, nos termos da Súmula 231 do STJ. Na última fase, reduzo-a na fração de 1/6, pela aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, tornando-a definitiva em 4 anos e 2 meses de reclusão mais o pagamento de 416 dias-multa, ante a inexistência de outras causas de aumento e diminuição de pena.
+Diante do exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício, para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 1/6, resultando a pena final do paciente em 4 anos e 2 meses de reclusão, nos termos do art. 580 do CPP.
+Publique-se. Intimem-se
