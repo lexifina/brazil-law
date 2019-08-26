@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 66, Doc. 8):
+    “APELAÇAO CÍVEL — Mandado de Segurança — Entidade assistencial beneficente, sem fins lucrativos — Imunidade Tributária — Art. 150, VI, alínea "c", e art. 14 do CTN — Presentes os pressupostos legais para a concessão da imunidade tributária — Possibilidade de desembaraço alfandegário sem o recolhimento do ICMS sobre importação de equipamento médico.
+    Recurso improvido.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, alega-se violação aos arts. 150, VI, “c”, § 4º; e 155, § 2º, IX, “a”, da Constituição Federal, sustentando-se, em síntese, que incide o ICMS sobre as operações de importação realizadas pela recorrida, não obstante seja entidade assistencial sem fins lucrativos (fl. 73, Vol. 8).
+     A presidência desta CORTE determinou a devolução dos autos ao Tribunal de origem para que fosse aplicado o Tema 171 (RE 439.796, Rel. Min. JOAQUI BARBOSA).
+    Todavia, em juízo de retratação ao referido paradigma, o Tribunal de origem manteve o acórdão anteriormente proferido, sob os seguintes fundamentos (fls. 161-162, Vol. 8):
+    “Reexaminando os autos, conforme art. 1.030, II do Código de Processo Civil, entendo que o Acórdão proferido nos autos não merece ser reformado, pois a Irmandade da Santa Casa de Misericórdia de São Paulo é uma associação civil beneficente, de fins não econômicos, que tem como finalidade o exercício da caridade e da misericórdia para o socorro e a assistência aos enfermos, idosos, inválidos e desamparados; a manutenção de hospitais, sanatórios, asilos, escolas, creches e unidade afins para a formação da juventude e a promoção do voluntariado.
+    Assim, sendo a Santa Casa uma associação sem fins lucrativos, lhe é garantido a imunidade tributária de instituições de assistência social, sem fins lucrativos, com fulcro no artigo art. 150, VI, 'c', da Constituição Federal.
+    O v. acórdão que manteve a r. sentença, não se coaduna com o entendimento sobre a questão, emanada do E Supremo Tribunal Federal no julgamento do RE n° 439.796/PR, Tema n° 171, DJe 17/03/2014.
+    Denota-se que o Tema 171 do STF cuida de incidência de ICMS sobre operações de importação efetuadas por pessoa, física ou jurídica, que não se dedica habitualmente ao comércio ou à prestação de serviços. Contudo, o caso em tela, diferentemente cuida de imunidade tributária de instituições de assistência social, sem fins lucrativos.
+    Portanto, entendo não ser o caso de adequação do v. acórdão ao r. entendimento do Colendo Supremo Tribunal Federal, no RE n° 439/796/PR, Tema n° 174, STF.”
+    Em novo juízo de admissibilidade, o Tribunal remeteu os autos a esta CORTE (fl. 166, Vol. 8).
+    É o relatório. Decido.
+    De fato, o RE 439.796, Tema 171, da repercussão geral, não se aplica à controvérsia ora em debate. Esse recurso paradigma tratou da incidência de ICMS na importação de equipamento médico por sociedade civil não contribuinte do referido imposto, não cuidando especificamente de entidades beneficentes sem fins lucrativos, como no presente processo.
+    Passo a análise dos autos.
+    No caso, o Tribunal de origem, com base nos fatos da causa, manteve a sentença que julgou procedente o pedido ao fundamento de que a ora recorrida, entidade beneficente de assistência social, satisfaz os requisitos previstos no art. 14 do CTN, razão pela qual faz jus à imunidade tributária em relação ao ICMS sobre importação de equipamentos médicos utilizados na prestação de seus serviços de saúde vinculados às suas finalidades essenciais.
+    Esse entendimento está em consonância com a jurisprudência desta CORTE. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE DAS ENTIDADES DE ASSISTENCIAL SOCIAL RECONHECIDA COM RELAÇÃO AO ICMS INCIDENTE SOBRE PRODUTOS IMPORTADOS. PRECEDENTES. A jurisprudência da Corte orienta-se no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal, abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos. Não procede a vinculação do recurso à sistemática da repercussão geral com relação a um leading case que controverte sobre questão diversa. Agravo regimental a que se nega provimento. (ARE 803.906-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 21/11/2014)”
+    “AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, “c”) - RECURSO DE AGRAVO IMPROVIDO.(AI 785.459-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 19/12/2011)”
+    No mesmo sentido, vejam-se as seguintes decisões monocráticas: ARE 1054190/SP, Rel. Min. EDSON FACHIN, DJe de 4/9/2018; RE 1146706/SP, de minha relatoria, DJe de 2/8/2018; e ARE 1123607/SP, Rel. Min. GILMAR MENDES, DJe de 24/4/2018.
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 26 de agosto de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
