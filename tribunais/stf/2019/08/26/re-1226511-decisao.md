@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONSTRUÇÃO DO AEROPORTO INTERNACIONAL DE GUARULHOS. DESAPROPRIAÇÃO. PARCELAMENTO NOS MOLDES DO ARTIGO 33 DO ADCT. PAGAMENTOS DE PRECATÓRIO A MENOR. SALDO REMANESCENTE. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO - DESAPROPRIAÇÃO - PRECATÓRIO – SALDO REMANESCENTE - Pendência de pagamento – Alegação da Administração de ocorrência de prescrição – Ausência de inércia do credor – Prescrição afastada – Recurso desprovido.” ( Vol. 3 – p. 46)
+    Os embargos de declaração opostos ao acórdão do agravo de instrumento foram desprovidos (Vol. 4 – p. 7-9).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, assevera que o entendimento adotado pelo acórdão recorrido – para manter incólume a decisão do Juiz singular que afastou a prescrição e determinou a expedição de ofício precatório complementar – viola o artigo 100 da Constituição da República. Requer, ao final, o provimento do presente recurso, determinando-se a expedição de novo precatório (Vol. 4 – p. 17-41).
+    O recorrido deixou transcorrer in albis o prazo para apresentar contrarrazões ( Vol. 4 – p. 51).
+    O Tribunal a quo admitiu o recurso extraordinário por entender que preencheria os requisitos extrínsecos e intrínsecos (Vol. 4 – p. 57-58).
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    A jurisprudência desta Suprema Corte se firmou no sentido de que, em execuções contra a Fazenda Pública, no caso de complementação de depósitos insuficientes, faz-se necessária a expedição de novo precatório, sob o entendimento de que sua dispensa somente ocorreria quando houvesse erro material, inexatidão aritmética dos cálculos ou substituição do índice aplicado, por força de lei. Nesse sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. DESAPROPRIAÇÃO. PRECATÓRIO. PARCELAMENTO. ART. 33 DO ADCT. JUROS COMPENSATÓRIOS E MORATÓRIOS. EXCLUSÃO. INCIDÊNCIA DE JUROS MORATÓRIOS NO PAGAMENTO DE PARCELAS PAGAS EM ATRASO. EXPEDIÇÃO DE NOVO PRECATÓRIO. PRECEDENTES.
+    I. - Excluem-se os juros moratórios e compensatórios do pagamento de precatórios decorrentes de desapropriação, realizado conforme o art. 33 do ADCT, contanto que se observem as épocas próprias dos vencimentos das prestações. Os juros moratórios são cabíveis nos casos de inadimplência da Fazenda Pública no pagamento do parcelamento previsto no art. 33 do ADCT. RE 155.979/SP, Min. Marco Aurélio, ‘DJ’ de 23.02.2001; 400.413-AgR/SP, Min. Carlos Britto, ‘DJ’ de 08.11.2004, inter plures.
+    II. - Agravo não provido.” (RE 438.172-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ de 16/12/2005, grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso.
+    II – A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988.
+    III – Agravo regimental a que se nega provimento.” (ARE 722.803-AgR, rel. min. Ricardo Lewandowski, Segunda Turma, DJe de 15/8/2014, grifei)
+    “DIREITO CONSTITUCIONAL E FINANCEIRO. PRECATÓRIO ORIGINAL. VALOR REMANESCENTE. COMPLEMENTAÇÃO. NECESSIDADE DA EXPEDIÇÃO DE NOVO PRECATÓRIO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 21.3.2014. O entendimento adotado pela Corte de origem, nos moldes do que assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido.” (ARE 827.433-AgR, rel. min. Rosa Weber, Primeira Turma, DJe de 19/11/2014, grifei)
+    “Agravo regimental no agravo de instrumento. Precatório. Crédito complementar. Necessidade da expedição de novo precatório. Precedentes.
+    1. A jurisprudência da Corte pacificou o entendimento de que a complementação de valores remanescentes de precatórios judiciais, salvo nos casos de comprovada ocorrência de erro material, erro aritmético ou inexatidão dos cálculos, deverá obedecer o disposto no art. 100 da Constituição Federal, sendo necessária a expedição de novo precatório.
+    2. Agravo regimental não provido.” (RE 502.830-AgR, rel. min. Dias Toffoli, Primeira Turma, DJe de 24/11/2014, grifei)
+    Ex positis, com fundamento no artigo 932, V, do CPC/2015 c/c o artigo 21, § 2º, do RISTF, DOU PROVIMENTO ao recurso extraordinário para determinar que o pagamento do saldo remanescente apurado seja feito mediante a expedição de novo precatório.
+    Publique-se.
+    Brasília, 26 de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
