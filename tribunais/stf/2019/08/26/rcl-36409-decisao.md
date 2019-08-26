@@ -1,0 +1,25 @@
+Trata-se de reclamação constitucional ajuizada por Ernesto Fernandez Lorenzoni e outra contra decisão proferida nos autos do processo 0040852-12.2019.8.21.9000 por Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Rio Grande do Sul.
+    Alega-se desrespeito às decisões proferidas por este Supremo Tribunal Federal nos autos do RE 636.331/RJ (Tema 210) julgado sob a sistemática da repercussão geral, bem como nos autos do ARE 766.618/SP.
+    Eis a ementa do acórdão reclamado:
+    “RECURSO INOMINADO. VOO INTERNACIONAL. ATRASO QUE ACARRETOU A PERDA DE CONEXÃO E CHEGADA AO DESTINO FINAL APÓS 10 HORAS DO HORÁRIO INICIALMENTE CONTRATADO. APLICAÇÃO DA CONVENÇÃO DE MONTREAL. APLICABILIDADE DOS TRATADOS INTERNACIONAIS, NOS TERMOS DO RECURSO EXTRAORDINÁRIO Nº 636.331-RJ. DECISÃO DO STF QUE SE APLICA NOS CASOS QUE VERSAM SOBRE A FALHA NA PRESTAÇÃO DO SERVIÇO DECORRENTE DO ATRASO NO TRANSPORTE DE PASSAGEIROS, NOS TERMOS DO ART. 19. PRESCRIÇÃO BIENAL CONFORME PREVISTO NO ART. 35 DA CONVENÇÃO DE MONTREAL. SENTENÇA MANTIDA. RECURSO DESPROVIDO” (pág. 1 do documento eletrônico 5).
+    Os reclamantes narram que:
+    “[o] acórdão proferido pela 4ª Turma Recursal do Tribunal de Justiça de Porto Alegre no processo n. 0040852-12.2019.8.21.9000 confirmou a sentença, julgando extinto o pedido sem julgamento do mérito em decorrência da prescrição. Segundo entendimento da Turma Recursal, aplica-se o prazo prescricional de dois anos previstos nas Convenções Internacionais aos pedidos de indenização por danos morais [...]” (pág. 1 da petição inicial – grifos no original).
+    Sustentam que
+    “ […] o Pleno do STF, no julgamento do RE 636.331/RJ e do ARE 766.618/SP, reconheceu a aplicabilidade das convenções internacionais EXCLUSIVAMENTE aos pedidos de indenização por danos materiais decorrentes da falha na prestação de serviço em transporte aéreo internacional e A APLICAÇÃO INTEGRAL DO CDC AOS PEDIDOS DE INDENIZAÇÂO POR DANOS MORAIS DECORRENTES DA FALHA NA PRESTAÇÃO DE SERVIÇO EM TRANSPORTE AÉREO INTERNACIONAL” (pág. 2 da petição inicial – grifos no original).
+    Requerem, ao final, em síntese:
+    “[...] seja julgada procedente a reclamação constitucional, com a cassação do ato impugnado (no caso, o acórdão proferido no processo n. 0040852-12.2019.8.21.9000) para que seja afastada a prescrição constatada na decisão com a consequente determinação para a turma aprecie o pedido de danos morais objeto do referido processo” (págs. 8-9 da petição inicial).
+    É o relatório necessário. Decido.
+    Inicialmente, consigno que deixei de solicitar informações e de ouvir a Procuradoria Geral da República uma vez que há jurisprudência firmada por ambas as Turmas desta Corte sobre a matéria versada nos autos (art. 52, parágrafo único, do RISTF).
+    Bem examinados os autos, constato que a pretensão não merece acolhida.
+    O art. 988, § 5°, II, do novo Código de Processo Civil, informa que a reclamação não será admitida quando proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    No caso, o reclamante não comprovou o esgotamento das instâncias ordinárias, não havendo notícia de que tenha interposto recurso extraordinário no Juízo de origem.
+    Em consulta ao sítio eletrônico do Juízo reclamado, verifica-se que em 21/8/2019 ocorreu o trânsito em julgado do acórdão que julgou o recurso inominado no processo 0040852-12.2019.8.21.9000, razão pela qual, quanto ao Tema 210 da repercussão geral, é incabível a reclamação.
+    Ademais, ressalto que, segundo o disposto no art. 988, a reclamação somente será cabível para: a) preservar a competência do tribunal; b) garantir a autoridade das decisões do tribunal; c) garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; e d) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    Nesses termos, especificamente no que tange o alegado desrespeito à decisão no ARE 766.618/SP, de relatoria do Ministro Roberto Barroso, o pedido apresentado não se enquadra em nenhuma das hipóteses de cabimento previstas no art. 988 do NCPC.
+    É que o paradigma no ARE 766.618/SP possui efeitos, tão somente, inter partes, e não consta dos autos que o reclamante tenha sido parte e nem terceiro interessado na relação processual no paradigma citado e supostamente contrariado.
+    Em suma, os reclamantes não demonstraram a ocorrência dos pressupostos necessários para o conhecimento do presente feito, sendo pacífico na jurisprudência desta Corte que a reclamação constitucional não pode ser utilizada como sucedâneo recursal.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
