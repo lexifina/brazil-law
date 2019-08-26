@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DO COMPROVANTE DE PAGAMENTO DAS CUSTAS. ALEGADA FALHA NA DIGITALIZAÇÃO. NECESSIDADE DE COMPROVAÇÃO COM CERTIDÃO EMITIDA PELO TRIBUNAL DE ORIGEM. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+1. Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Conforme o entendimento desta Corte Superior, a alegação de erro na digitalização do comprovante de pagamento, imputada pela parte recorrente ao Poder Judiciário, não é suficiente ao afastamento da deserção, pois incumbe à parte fiscalizar a correta digitalização das peças processuais.
+3. Para o acolhimento de sua tese, seria necessária a certificação do erro pelo Tribunal de origem, o que não foi feito. Julgados: AgInt no AREsp. 1.014.232/MG, Rel. Min. REGINA HELENA COSTA, DJe 26.6.2019; AgInt no REsp. 1.703.321/DF, Rel. Min. OG FERNANDES, DJe 25.5.2018;AgInt no AREsp. 917.759/RN, Rel. Min. FRANCISCO FALCÃO, DJe 28.8.2017.
+4. Agravo Interno da Concessionária a que se nega provimento.
+AC RD O
+Vistos e relatados estes autos em que s o partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justi  a, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gon  alves, S  rgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto por SABESP - COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO, contra decisão da Presidência desta Corte Superior que, em razão da deserção, negou seguimento ao Apelo Nobre (fls. 782/783).
+2. Em seu Agravo Interno, a parte agravante aduz, em suma, que teria apresentado oportunamente o comprovante de pagamento das custas, o qual não estaria nos autos por erro de digitalização, imputável à Corte de origem.
+3. Pugna, desse modo, pela reconsideração da decisão agravada ou para que o feito seja levado à Turma competente para julgamento.
+4. As partes agravadas apresentaram suas impugnações (fls. 800/803 e 807/814). É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DO COMPROVANTE DE PAGAMENTO DAS CUSTAS. ALEGADA FALHA NA DIGITALIZAÇÃO. NECESSIDADE DE COMPROVAÇÃO COM CERTIDÃO EMITIDA PELO TRIBUNAL DE ORIGEM. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+1. Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Conforme o entendimento desta Corte Superior, a alegação de erro na digitalização do comprovante de pagamento, imputada pela parte recorrente ao Poder Judiciário, não é suficiente ao afastamento da deserção, pois incumbe à parte fiscalizar a correta digitalização das peças processuais.
+3. Para o acolhimento de sua tese, seria necessária a certificação do erro pelo Tribunal de origem, o que não foi feito. Julgados: AgInt no AREsp. 1.014.232/MG, Rel. Min. REGINA HELENA COSTA, DJe 26.6.2019; AgInt no REsp. 1.703.321/DF, Rel. Min. OG FERNANDES, DJe 25.5.2018;AgInt no AREsp. 917.759/RN, Rel. Min. FRANCISCO FALCÃO, DJe 28.8.2017.
+4. Agravo Interno da Concessionária a que se nega provimento.
+VOTO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DO COMPROVANTE DE PAGAMENTO DAS CUSTAS. ALEGADA FALHA NA DIGITALIZAÇÃO. NECESSIDADE DE COMPROVAÇÃO COM CERTIDÃO EMITIDA PELO TRIBUNAL DE ORIGEM. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+1. Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Conforme o entendimento desta Corte Superior, a alegação de erro na digitalização do comprovante de pagamento, imputada pela parte recorrente ao Poder Judiciário, não é suficiente ao afastamento da deserção, pois incumbe à parte fiscalizar a correta digitalização das peças processuais.
+3. Para o acolhimento de sua tese, seria necessária a certificação do erro pelo Tribunal de origem, o que não foi feito. Julgados: AgInt no AREsp. 1.014.232/MG, Rel. Min. REGINA HELENA COSTA, DJe 26.6.2019; AgInt no REsp. 1.703.321/DF, Rel. Min. OG FERNANDES, DJe 25.5.2018;AgInt no AREsp. 917.759/RN, Rel. Min. FRANCISCO FALCÃO, DJe 28.8.2017.
+4. Agravo Interno da Concessionária a que se nega provimento.
+1. As alegações da parte agravante não são suficientes para a modificação da decisão agravada.
+2. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+3. No mais, conforme o entendimento desta Corte Superior, a alegação de erro na digitalização do comprovante de pagamento, imputada pela parte recorrente ao Poder Judiciário, não é suficiente ao afastamento da deserção, pois incumbe à parte fiscalizar a correta digitalização das peças processuais.
+4. Para o acolhimento de sua tese seria necessária a certificação do erro pelo Tribunal de origem, o que não foi feito. Confiram-se, a propósito, os julgados a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESERÇÃO. AUSÊNCIA DE JUNTADA DOS COMPROVANTES DE PAGAMENTO DAS CUSTAS JUDICIAS E LOCAIS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o. DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+1. Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno e para o Agravo em Recurso Especial, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+2. O recurso especial não foi instruído com os comprovantes de pagamento das custas judiciais e locais. Incidência da Súmula 187/STJ: É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos.
+3. A eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente.
+4. A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+5. Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4o. do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+6. Agravo Interno improvido (AgInt no AREsp. 1.014.232/MG, Rel. Min. REGINA HELENA COSTA, DJe 26.6.2019).
+
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO NÃO COMPROVADO. COMPROVANTE DE PAGAMENTO ILEGÍVEL. DESERÇÃO. INCIDÊNCIA DO ENUNCIADO N. 187/STJ.
+1. Nos termos do Enunciado Administrativo 2/STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+2. O Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos perante esta Corte devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+3. Como consignado pela Presidência do STJ, verifica-se que o documento acostado à e-STJ, fl. 678, não se revela apto a comprovar o devido recolhimento do preparo, pois encontra-se ilegível. Aplica-se ao caso, portanto, a inteligência da Súmula 187/STJ.
+4. A mera alegação de falha do Tribunal de origem no processo de digitalização ou de extravio da guia de preparo, desacompanhada de qualquer comprovação, não se apresenta apta a afastar o óbice ao conhecimento do recurso.
+5. Agravo interno a que se nega provimento (AgInt no REsp. 1.703.321/DF, Rel. Min. OG FERNANDES, DJe 25.5.2018).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. PREPARO. AUSÊNCIA DE COMPROVAÇÃO. JUNTADA POSTERIOR DE CÓPIA DE UMA GUIA DE RECOLHIMENTO COM COMPROVANTES DE PAGAMENTO, SEM CERTIDÃO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 187 DO STJ. DESERÇÃO.
+(..).
+4. Consoante pacífica jurisprudência desta Corte, firmada à luz do CPC/1973, no ato de interposição o Recurso Especial deve estar acompanhado das guias do preparo, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção (AgInt no AREsp. 927.982/SP, Rel. Min. ASSUSETE MAGALHÃES, Segunda Turma, DJe 13.2.2017).
+5. A jurisprudência do Superior Tribunal de Justiça consolidou entendimento de que é ônus da parte aferir e fiscalizar a correta instrução do recurso interposto, sendo insuficiente a alegação de erro na digitalização quando desacompanhada de certidão comprobatória do tribunal de origem. Precedentes: (..).
+6. Agravo interno improvido (AgInt no AREsp. 917.759/RN, Rel. Min. FRANCISCO FALCÃO, DJe 28.8.2017).
+5. Ante o exposto, nega-se provimento ao Agravo Interno da Concessionária.
+6. É o voto.
