@@ -1,0 +1,63 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS PREVISTAS. CRIAÇÃO DE NOVAS VAGAS. INEXISTÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO E POSSE. EMBARGOS DE DECLARAÇÃO DOS PARTICULARES REJEITADOS.
+1. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não se verifica no caso dos autos, porquanto o acórdão embargado dirimiu todas as questões postas de maneira clara, suficiente e fundamentada.
+2. No caso dos autos, o acórdão embargado consignou que no concurso foram oferecidas 41 vagas para o Cargo de Analista Judicial - Área Administrativa, 39 vagas para Escrivão Judicial e 68 vagas para Oficial de Justiça e Avaliador, não tendo se configurado qualquer das hipóteses passíveis de convolação de sua expectativa de direito em direito líquido e certo, porquanto as vagas surgentes no prazo de validade do certame não alcançaram a sua posição na ordem de classificação.
+3. Outrossim, é assente no Superior Tribunal de Justiça o entendimento de que candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que no período de validade do concurso surjam novas vagas por criação de lei ou por força de vacância, cujo preenchimento está sujeito ao juízo de conveniência e oportunidade da Administração (RMS 47.861/MG, Rel. Min. HERMAN BENJAMIN, DJe 5.8.2015).
+4. Embargos de Declaração dos Particulares rejeitados.
+AC RD O
+Vistos e relatados estes autos em que s o partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justi  a, por unanimidade, rejeitar os embargos de declara  o, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gon  alves, S  rgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração no Recurso em Mandado de Segurança interposto por [NOME] e outros contra acórdão, assim ementado:
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA O TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ. CLASSIFICAÇÃO FORA DO NÚMERO DE VAGAS PREVISTO NO EDITAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO À NOMEAÇÃO. RECURSO ORDINÁRIO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento do STJ de que os candidatos classificados além das vagas inicialmente oferecidas pelo Edital não têm direito líquido e certo à nomeação, não sendo a criação de vagas por lei e tampouco o reconhecimento da necessidade de preenchimento dos cargos pela Administração Pública motivo suficiente para convolar a mera expectativa de direito em direito líquido e certo. Nesse sentido: AgInt nos EDcl no RMS 37.559/DF, Rel. Min. SÉRGIO KUKINA, DJe 26.8.2016.
+2. Esta orientação acompanha a tese firmada pelo STF, em repercussão geral, segundo a qual, o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no Edital. (..) a publicação de novo Edital de concurso público ou o surgimento de novas vagas durante a validade de outro anteriormente realizado não caracteriza, por si só, a necessidade de provimento imediato dos cargos. É que, a despeito da vacância dos cargos e da publicação do novo Edital durante a validade do concurso, podem surgir circunstâncias e legítimas razões de interesse público que justifiquem a inocorrência da nomeação no curto prazo, de modo a obstaculizar eventual pretensão de reconhecimento do direito subjetivo à nomeação dos aprovados em colocação além do número de vagas. Nesse contexto, a Administração Pública detém a prerrogativa de realizar a escolha entre a prorrogação de um concurso público que esteja na validade ou a realização de novo certame (RE 837.311-RG/PI, Rel. Min. LUIZ FUX, Tribunal Pleno, DJe de 18.4.2016).
+3. No caso, os impetrantes foram aprovados nas seguintes colocações:
+Cargo de Analista Judicial:
+JACQUELINE COELHO MOUSINHO (posição 241);
+[NOME] (posição 229);
+Cargo de Oficial de Justiça e Avaliador:
+ILEANO FEITOSA MELO (posição 269),
+LEANDRO DE FREITAS VIANA (posição 304);
+[NOME](posição 231);
+SAMANTHA TARCIA ARAÚJO (posição 227),
+YURI RIBEIRO DE OLIVEIRA (posição 251);
+Cargo de Escrivão Judicial:
+ANA CECILIA SARAIVA DE ALEXANDRIA (posição 334);
+DANUZA DE REZENDE BRITO PORTELA (posição 331),
+[NOME] (posição 307);
+JULLIANO MENDES MARTINS VIEIRA (posição 281),
+LENA DEMARA PINHEIRO NASCIMENTO (posição 256),
+[NOME] (posição 279) e
+MÁRIO BASÍLIO DE MELO (posição 262).
+4. No concurso foram oferecidas 41 vagas para o Cargo de Analista Judicial - Área Administrativa, 39 vagas para Escrivão Judicial e 68 vagas para Oficial de Justiça e Avaliador, não tendo se configurado qualquer das hipóteses passíveis de convolação de sua expectativa de direito em direito líquido e certo, porquanto a classificação alcançada por todos os candidatos é deveras distante do quantitativo de cargos constante do Edital do certame.
+5. Recurso Ordinário dos Particulares a que se nega provimento.
+2. Em suas razões recursais, afirmam os embargantes omissão no julgado quanto à análise de que no decorrer da validade do concurso público, a autoridade coatora permitiu a contratação de diversos servidores a título precário (comissionado), para exercer as mesmas funções a que foram regularmente aprovados (fls. 618)
+3. É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS PREVISTAS. CRIAÇÃO DE NOVAS VAGAS. INEXISTÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO E POSSE. EMBARGOS DE DECLARAÇÃO DOS PARTICULARES REJEITADOS.
+1. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não se verifica no caso dos autos, porquanto o acórdão embargado dirimiu todas as questões postas de maneira clara, suficiente e fundamentada.
+2. No caso dos autos, o acórdão embargado consignou que no concurso foram oferecidas 41 vagas para o Cargo de Analista Judicial - Área Administrativa, 39 vagas para Escrivão Judicial e 68 vagas para Oficial de Justiça e Avaliador, não tendo se configurado qualquer das hipóteses passíveis de convolação de sua expectativa de direito em direito líquido e certo, porquanto as vagas surgentes no prazo de validade do certame não alcançaram a sua posição na ordem de classificação.
+3. Outrossim, é assente no Superior Tribunal de Justiça o entendimento de que candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que no período de validade do concurso surjam novas vagas por criação de lei ou por força de vacância, cujo preenchimento está sujeito ao juízo de conveniência e oportunidade da Administração (RMS 47.861/MG, Rel. Min. HERMAN BENJAMIN, DJe 5.8.2015).
+4. Embargos de Declaração dos Particulares rejeitados.
+VOTO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS PREVISTAS. CRIAÇÃO DE NOVAS VAGAS. INEXISTÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO E POSSE. EMBARGOS DOS PARTICULARES REJEITADOS.
+1. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não se verifica no caso dos autos, porquanto o acórdão embargado dirimiu todas as questões postas de maneira clara, suficiente e fundamentada.
+2. No caso dos autos, o acórdão embargado consignou que no concurso foram oferecidas 41 vagas para o Cargo de Analista Judicial - Área Administrativa, 39 vagas para Escrivão Judicial e 68 vagas para Oficial de Justiça e Avaliador, não tendo se configurado qualquer das hipóteses passíveis de convolação de sua expectativa de direito em direito líquido e certo, porquanto as vagas surgentes no prazo de validade do certame não alcançaram a sua posição na ordem de classificação.
+3. Outrossim, é assente no Superior Tribunal de Justiça o entendimento de que candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que no período de validade do concurso surjam novas vagas por criação de lei ou por força de vacância, cujo preenchimento está sujeito ao juízo de conveniência e oportunidade da Administração (RMS 47.861/MG, Rel. Min. HERMAN BENJAMIN, DJe 5.8.2015).
+4. Embargos de Declaração dos Particulares rejeitados.
+1. Os Embargos de Declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição ou omissão, de maneira a permitir o exato conhecimento do teor do julgado. Eles não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo.
+2. As alegações deduzidas revelam o caráter nitidamente infringente dos Aclaratórios, o que não se compatibiliza com a via dos Embargos. A parte Embargante tenta rediscutir a decisão proferida como derradeira manifestação de inconformidade com o resultado do julgamento.
+3. No caso dos autos, o acórdão embargado consignou que no concurso foram oferecidas 41 vagas para o Cargo de Analista Judicial - Área Administrativa, 39 vagas para Escrivão Judicial e 68 vagas para Oficial de Justiça e Avaliador, não tendo se configurado qualquer das hipóteses passíveis de convolação de sua expectativa de direito em direito líquido e certo, porquanto as vagas surgentes no prazo de validade do certame não alcançaram a sua posição na ordem de classificação.
+4. Outrossim, é assente no Superior Tribunal de Justiça o entendimento de que candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que no período de validade do concurso surjam novas vagas por criação de lei ou por força de vacância, cujo preenchimento está sujeito ao juízo de conveniência e oportunidade da Administração (RMS 47.861/MG, Rel. Min. HERMAN BENJAMIN, DJe 5.8.2015).
+5. Esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+6. Assim, na verdade, sob a pecha de omissão, a parte embargante busca ver sua decisão modificada. Tal procedimento é incompatível com os Embargos de Declaração, e toda tentativa de desvirtuar a real função deste recurso deve ser rechaçada.
+7. Ressalte-se, por fim, que é vedado a este Tribunal apreciar a violação de dispositivos constitucionais, ainda que para fins de prequestionamento, uma vez que o julgamento de matéria de índole constitucional é reservado ao Supremo Tribunal Federal.
+8. Nesse mesmo sentido, o seguinte julgado do STJ:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. BENEFÍCIO CONCEDIDO SOB O MANTO DA LEGISLAÇÃO PRETÉRITA. MAJORAÇÃO DO PERCENTUAL. PRETENSÃO DE EXAME DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE NA VIA ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não podem ser acolhidos os Embargos de Declaração quando ausente qualquer vício consistente em omissão, contradição ou obscuridade.
+2. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição da República, sendo defeso o seu exame em âmbito de Recurso Especial.
+3. Consoante entendimento firmado neste Superior Tribunal de Justiça, o aumento do percentual do auxílio-acidente, estabelecido pela Lei 9.032/95 (lei nova mais benéfica), que alterou o § 1o., art. 86, da Lei 8.213/91, tem aplicação imediata a todos os beneficiários que estiverem na mesma situação, sem exceção, não importando tratar-se de casos pendentes de concessão ou já concedidos, em virtude de ser uma norma de ordem pública, o que não implica em retroatividade da lei, posicionamento que não sofreu qualquer alteração.
+4. Embargos de Declaração rejeitados (EDcl no AgRg no REsp. 905.139/SP, Rel. Min. JANE SILVA, DJU 12.11.2007).
+9. Sendo assim, rejeitam-se os Embargos de Declaração dos Particulares.
+10. É como voto.
