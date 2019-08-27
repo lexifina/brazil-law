@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à concessão da segurança. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, cabeça, 37, incisos I e II, e 39, § 3º, da Constituição Federal. Diz contrariados os princípios da legalidade, moralidade, publicidade e razoabilidade. Afirma a impossibilidade de proceder à posse, no cargo de soldado da Polícia Militar, de quem respondeu a processo criminal. Sustenta a prática de ato incompatível com a atividade pretendida, a justificar a reprovação do candidato na fase relativa à análise da vida pregressa.
+    2. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. BRIGADA MILITAR. SINDICÂNCIA DE VIDA PREGRESSA. EXCLUSÃO DO CERTAME.
+    1. Hipótese em que a constatação da existência de processo-crime, no qual restou extinta a punibilidade, forte no art. 107, IV, do Código Penal, com trânsito em julgado, não tem o condão de acarretar presunção de culpabilidade penal ou mesmo de inidoneidade moral e, assim, justificar a exclusão do candidato na fase de Sindicância de Vida Pregressa.
+    3. Sentença concedendo a segurança, na origem. APELAÇÃO DESPROVIDA. CONFIRMADA A SENTENÇA EM REEXAME NECESSÁRIO.
+    A decisão impugnada está em consonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. INVESTIGAÇÃO SOCIAL. INQUÉRITO POLICIAL. EXCLUSÃO DE CANDIDATO. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE NÃO CULPABILIDADE. PRECEDENTES.1. O acórdão do Tribunal de origem está alinhado à jurisprudência do Supremo Tribunal Federal no sentido de que viola o princípio constitucional da não culpabilidade (art. 5º, LVII) a exclusão de candidato de certame que responde a inquérito policial. Precedentes.2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.3. Agravo interno a que se nega provimento. (agravo regimental no recurso extraordinário com agravo nº 1.141.471, 1ª Turma, relator ministro Luís Roberto Barroso, acórdão publicado no Diário da Justiça de 17 de setembro de 2018).
+    PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL DEFICIENTE. ÔNUS DO RECORRENTE. CONCURSO PÚBLICO. POLÍCIA MILITAR. CANDIDATO ELIMINADO NA FASE DE INVESTIGAÇÃO DE VIDA PREGRESSA. EXISTÊNCIA DE TRANSAÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. PRESUNÇÃO DA INOCÊNCIA. ACORDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (agravo regimental no recurso extraordinário com agravo nº 937.620, 2ª Turma, relator ministro Teori Zavascki, acórdão publicado no Diário de Justiça de 22 de março de 2016).
+    Ressalto a inadequação da aplicação do Tema 22 da Repercussão Geral, porquanto inexiste processo penal em curso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 27 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
