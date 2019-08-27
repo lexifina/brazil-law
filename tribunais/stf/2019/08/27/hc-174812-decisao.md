@@ -1,0 +1,33 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 528.020, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que foi instaurado inquérito policial contra o paciente “para apurar a prática de delitos como de participação em organizações criminosas, tráfico de drogas, roubos, homicídios, dentre outros, perpetrados nos últimos meses na cidade de Sobral-CE e em municípios vizinhos”. Em 20.05.2019, o Juízo da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE decretou a prisão preventiva do investigado. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Ceará. A ordem foi denegada. Contudo, o Tribunal estadual determinou que fosse expedida “recomendação” ao Juízo de origem, “a fim de que designe data para realização da Audiência de Custódia”.
+    3. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 528.020, Ministro Ribeiro Dantas, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta:
+    (i) a ausência de fundamentação idônea para a decretação da custódia preventiva;
+    (ii) o excesso de prazo para a conclusão do inquérito policial;
+    (iii) a inexistência de comprovação da autoria delitiva;
+    (iv) a nulidade da prisão cautelar, por não ter sido realizada audiência de custódia.
+    5. A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pede a substituição da custódia por outra medida cautelar.
+    Decido.
+    6. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF.
+    8. Inicialmente, registro que as alegações de ausência de fundamentação idônea para a decretação da prisão preventiva, de excesso de prazo para a conclusão do inquérito policial e de inexistência de comprovação da autoria delitiva, não foram apreciadas pelo Tribunal estadual, nem pelo Superior Tribunal de Justiça, o que impede o imediato exame das matérias pelo STF, sob pena de dupla supressão de instâncias.
+    9. Ainda que assim não fosse, as peças que instruem os autos não evidenciam situação de teratologia ou ilegalidade flagrante que justifique o pronto acolhimento da pretensão defensiva.
+    10. A orientação jurisprudencial do STF é no sentido de que a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    11. Na hipótese de que se trata, o Juízo de origem não divergiu desse entendimento, ao assentar que “os representados são supostos integrantes da facção criminosa PCC — Primeiro Comando da Capital, na região de Sobral e municípios vizinhos, atuante na prática de delitos de organizações criminosas, tráfico de drogas, roubos, homicídios, dentre outros, sendo a clausura dos mesmos, medida que se impõe para acautelar o meio social de suas maléficas ações”. Transcrevo, nesse sentido, as seguintes passagens do decreto prisional:
+    “[...] os representados são supostos integrantes da facção criminosa PCC — Primeiro Comando da Capital, na região de Sobral e municípios vizinhos, atuante na prática de delitos de organizações criminosas, tráfico de drogas, roubos, homicídios, dentre outros, sendo a clausura dos mesmos, medida que se impõe para acautelar o meio social de suas maléficas ações (…).
+    […]
+    Imperioso se faz ressaltar que conforme jurisprudência do Superior Tribunal de Justiça, a periculosidade do agente, evidenciada pela gravidade concreta do delito, constitui fundamentação idônea para decretação de prisão preventiva, conforme depreende-se do seguinte julgados, in verbis:
+    […]
+    Ademais, a prisão de infratores que integram organização criminosa, inclusive em cargos de comando, serve como forma de enfraquecer a atuação de qualquer que seja a organização, visando, principalmente cessar qualquer atividade criminosa ligada facção, que neste caso, foi apurado que os incriminados, em tese, integram a organização criminosa com atuação na prática de tráfico de drogas.
+    Imperioso se faz ressaltar que os Relat6rios de Investigação Policial deixam clara a participação dos representados na facção criminosa investigada, bem como o envolvimento dos mesmos em delitos relacionados ao grupo criminoso em análise.
+    [...]”.
+    12. O STF já decidiu que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). No caso, as peças que instruem a impetração não evidenciam desídia do Poder Judiciário, notadamente se se considerar a pluralidade de investigados.
+    13. Ademais, o entendimento do STF é firme no sentido de que a “alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    14. Quanto ao mais, dou especial relevância ao fundamento adotado pelo TJ/CE, no sentido de que “a não realização da audiência de custódia, não implica ilegalidade da prisão preventiva do paciente, menos ainda de sua segregação cautelar, vez que o cerceamento da liberdade do paciente obedeceu a todas as garantias constitucionais e processuais, que tem por finalidade precípua, a de fiscalizar toda e qualquer restrição ao direito fundamental de liberdade garantido constitucionalmente”. De modo que “não há que se falar em nulidade por ausência de audiência de custódia, visto que a prisão do paciente foi devidamente fiscalizada por outros meios legalmente previstos para tanto, tratando-se sua inocorrência de mera irregularidade”.
+    15. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 27 de agosto de 2019.
+Ministro Luís Roberto Barroso
+          Relator
