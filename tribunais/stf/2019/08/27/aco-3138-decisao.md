@@ -1,0 +1,20 @@
+DESPACHO
+AÇÃO CÍVEL ORIGINÁRIA. PARAÍBA. FUNDO DE INCENTIVO À CULTURA AUGUSTO DOS ANJOS. CONVÊNIO. INSCRIÇÃO NO SISTEMA DE GESTÃO DE CONVÊNIOS E CONTRATOS DE REPASSE. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Ação cível originária, com requerimento de antecipação de tutela, ajuizada por Paraíba, em 13.6.2018, contra a União e a Fundação Nacional de Artes – Funarte para determinar “à União que se abstenha, em definitivo, de inscrever e manter inscrito o Fundo de Incentivo à Cultura Augusto dos Anjos (FIC) nos cadastros restritivos da União/Funarte (SIAFI, CAUC, CADIN ou em quaisquer outros cadastros), no que se refere ao Convênio número 812064/2014” (fl. 23, e-doc. 1).
+    2. Em 16.6.2018, o Ministro Dias Toffoli, então Relator, deferiu a medida liminar “para determinar à União que se abstenha de inscrever ou que retire a inscrição, caso efetuada, do Estado da Paraíba nos cadastros de inadimplência federais, decorrente de descumprimento do Convênio nº 812064/2014, de modo a não impedir, com esse fundamento, os repasses de recursos descritos na exordial” (fl. 7, e-doc. 21).
+    3. Em 24.7.2018, a Fundação Nacional de Artes – Funarte apresentou contestação e arguiu a incompetência deste Supremo Tribunal para conhecer da presente ação por versar a lide “interesse eminentemente patrimonial do Estado da Paraíba, não havendo questão político-institucional capaz de vulnerar o princípio federativo” (fl. 3, e-doc. 35).
+    Sustentou inexistir interesse de agir da Paraíba, pois “o meio processual utilizado pelo autor não [seria] útil, uma vez que a dívida que originou a inscrição do devedor nos cadastros de inadimplentes já foi reconhecida pelo FIC, consoante comprovam os documentos em anexo (e-mail de 18/06/2018 e Ofício FIC nº 024/2018)” (fl. 8, e-doc. 35).
+    No mérito, argumentou que, “uma vez constatada a irregularidade/inadimplência de uma pessoa física ou jurídica relativa a convênios firmados com a Administração Pública Federal, é sua obrigação proceder à inscrição do nome do inadimplente nos sistemas cadastrais existentes, já que o Poder Público tem o DEVER de zelar pela legalidade, moralidade e eficiência na gestão dos recursos públicos” (fl. 12, e-doc. 35).
+    4. Em 3.9.2018, a União apresentou contestação e salientou ser parte ilegítima para figurar no polo passivo da presente ação (e-doc. 39).
+    Explicou que “o Convênio n° 812064/2014 (peça n° 8, fls. 04/10, e-STF) não foi celebrado entre o FIC Augusto dos Anjos e a União, mas entre aquele fundo estadual e a Fundação Nacional de Artes - FUNARTE, a qual se traduz em fundação pública com personalidade jurídica própria (art. 3°, caput, da Lei n°6.312/1975)” (fl. 3-4, e-doc. 39).
+    Informou que “a inscrição do autor no Sistema de Gestão de Convênios e Contratos de Repasse — S1CONV foi promovida pela referida fundação pública federal, de modo que não cabe[ria] à União resolver pendências levadas a efeito em razão de inadimplência em convênio com ela firmado” (fl. 4, e-doc. 39).
+    Concluiu não competir “à União se manifestar sobre os convênios firmados com as entidades da Administração Indireta, razão pela qual pugna pela extinção parcial do feito sem resolução do mérito quanto a si, por ilegitimidade passiva” (fl. 6, e-doc. 39).
+    Impugnou o valor atribuído à causa pelo autor e pediu sua redução para o valor de R$ 10.000,00 (dez mil reais).
+    Argumentou não haver ofensa ao princípio da intranscendência subjetiva das sanções e ponderou que a inscrição da Paraíba no Sistema de Gestão de Convênios e Contratos de Repasse – Sincov não precisaria ser precedida de tomada de contas especial.
+    5. Vista à Paraíba para manifestar-se, no prazo máximo de dez dias, sobre a contestações apresentadas pelas rés (art. 351 do Código de Processo Civil).
+    6. Decorrido o prazo, com ou sem apresentação de réplica, manifestem-se o autor e a ré, no prazo sucessivo de dez dias, sobre provas a produzir, especificando-as e justificando-as (art. 369 do Código de Processo Civil e art. 113 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de agosto de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
