@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Dupla supressão de instâncias. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 526.262, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que foi instaurado inquérito policial contra o paciente “para apurar a prática de delitos como de participação em organizações criminosas, tráfico de drogas, roubos, homicídios, dentre outros, perpetrados nos últimos meses na cidade de Sobral-CE e em municípios vizinhos”. Em 20.05.2019, o Juízo da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE decretou a prisão preventiva do investigado. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Ceará. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 526.262, Ministro Ribeiro Dantas, indeferiu liminarmente o writ.
+    3. Neste habeas corpus, a parte impetrante sustenta:
+    (i) a ausência de fundamentação idônea para a decretação da custódia preventiva;
+    (ii) o excesso de prazo para a conclusão do inquérito policial;
+    (iii) a inexistência de comprovação da autoria delitiva;
+    (iv) a nulidade da prisão cautelar, por não ter sido realizada audiência de custódia.
+    4. A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pede a substituição da custódia por outra medida cautelar.
+    Decido.
+    5. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    6. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    7. Além disso, as teses defensivas não foram apreciadas pelo Tribunal estadual, nem pelo STJ, o que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+    8. Ainda que assim não fosse, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Dou especial relevância à informação apontada pelo Juízo de origem no sentido de que “os representados são supostos integrantes da facção criminosa PCC — Primeiro Comando da Capital, na região de Sobral e municípios vizinhos, atuante na prática de delitos de organizações criminosas, tráfico de drogas, roubos, homicídios, dentre outros, sendo a clausura dos mesmos, medida que se impõe para acautelar o meio social de suas maléficas ações”.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 27 de agosto de 2019.
+Ministro Luís Roberto Barroso
+          Relator
