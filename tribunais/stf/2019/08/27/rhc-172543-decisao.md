@@ -1,0 +1,34 @@
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça – STJ que denegou a ordem no HC 482.392/DF, de relatoria do Ministro Nefi Cordeiro, assim ementado:
+    “HABEAS CORPUS. CORRUPÇÃO PASSIVA. EXCESSO DE PRAZO DA INVESTIGAÇÃO CRIMINAL. NÃO CONFIGURAÇÃO. HABEAS CORPUS DENEGADO.
+    1. Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+    2. A eternização da investigação criminal constitui dano pessoal, com indireto risco à liberdade de locomoção, passível de enfrentamento pela via do habeas corpus.
+    3. Em investigação complexa, no bojo da Operação Zelotes, relativa à organização criminosa atuante no CARF, com vários agentes e crimes investigados, por feito com movimentação processual até meses atrás claramente constatada, não se pode admitir, por ora, como certa a mora de
+    investigação por dois anos desenvolvida.
+    4. Habeas corpus denegado, com recomendação de celeridade à definição do destino do Inquérito 685/2015 - SR/DPF/DF” (pág. 16 do vol. 3).
+    É contra essa decisão que se insurge o recorrente.
+    Registra, inicialmente, que “foi indiciado no Inquérito Policial nº 685/2015–SR/DPF/DF de 31.08.2016 com início em 11/05/2015 […], embora já tivesse sido instaurado o referido inquérito em 13/03/2014, há exatos cinco anos e dois meses (com documento falso), tendo sua suposta conduta capitulada provisoriamente no art. 317 do Código Penal, malgrado se possa perceber a ausência absoluta de base fática apurada com a consistência de suportar sequer tal indiciamento e mormente eventual formação de estrutura indiciária à caracterização de sua legitimidade passiva em eventual propositura de consequente Ação Penal” (pág. 31 do vol. 3).
+    Daí por que defende “a ausência de prova para justificar nova procrastinação do presente processo, sendo imprescindível, assim, o seu arquivamento, conforme já delineado, com base no art. 21, XV, ‘e’ e art. 213, § 4º, ‘e’, ambos do RISTF, c/c art. 18 do CPP” (pág. 84 do vol. 3).
+    Requer, ao final, liminarmente, a sustação imediata do ato de indiciamento. No mérito, pede que “seja conhecido e provido o presente Recurso Ordinário, para o fim de […] declarar NULO o INDICIAMENTO DO PACIENTE, por falta da necessária fundamentação, e excesso de prazo” (pág. 85 do vol. 3).
+    O Ministério Público Federal apresentou contrarrazões (doc. eletrônico 10).
+    É o relatório suficiente. Decido.
+    A concessão de medida urgente em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Isso porque, da breve leitura do acórdão proferido pelo Superior Tribunal de Justiça, não vislumbro, de imediato, flagrante ilegalidade ou abuso de poder a justificar a concessão de liminar. Eis o que consta do voto do Ministro Relator do STJ:
+    “Conforme informações de fl. 207 e constante dos autos, a conclusão do inquérito ocorreu em 31/8/2016, data após a qual é possível constatar movimentações no procedimento, consoante andamento juntado, existindo último ato no dia 12/6/2018, através do qual o Juízo determinou a remessa dos autos ao parquet, com baixa na distribuição (fl. 208), sinalizando que posterior devolução para análise de eventual oferecimento de denúncia deverá ser feita com referência ao feito n. 0033479-76.2015.4.01.3400.
+    Nota-se que as informações prestadas pelo Juízo de 1º grau, às fls. 193-205, datadas de 26/3/2019, não apontaram nenhuma novidade com relação ao andamento do inquérito.
+    De acordo com a sentença proferida no habeas corpus impetrado contra o indiciamento, consignou-se ao final da decisão que cabe ao MPF [...] proceder à analise do inquérito policial, podendo, dependendo do caso, requisitar novas diligências, requerer o arquivamento do IPL ou oferecer denúncia contra os investigados, caso haja elementos suficientes para tanto (fl. 145).
+    Assim, discute-se o ilegal prolongamento da investigação criminal.
+    Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+    Nesse sentido, é uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+    No entanto, apesar do indiciamento, por si só, não configurar constrangimento ilegal, a permanência na condição de indiciado por tempo prologando, no caso, mais de 2 anos, é algo a ser valorado.
+    Ainda não considero presente, porém, clara mora estatal na investigação criminal pelo período de dois anos de tramitação (meses conclusos o feito para denúncia).
+    Trata-se de causa complexa, no bojo da Operação Zelotes, relativa à organização criminosa atuante no CARF, com vários agentes e crimes investigados, por feito com movimentação processual até meses atrás claramente constatada.
+    Assim, não se pode admitir ainda a certeza da mora. Nesse sentido: RHC 79.424/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/02/2019, DJe 26/03/2019” (págs. 20-21 do vol. 3).
+    Como se vê, a decisão do Superior Tribunal de Justiça alinha-se, em tese, à jurisprudência deste Supremo Tribunal, firmada no sentido de que a demora na conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (i) evidente desídia do órgão judicial; (ii) exclusiva atuação da parte acusadora; ou (iii) outra situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal.
+    Com efeito, cabe destacar as informações prestadas pelo Juízo de primeiro grau ao Superior Tribunal de Justiça, justamente dando conta de que o inquérito policial tem regular tramitação, mormente se se considerar que referido procedimento criminal investiga “organização criminosa atuante no CARF, com vários agentes e crimes investigados”.
+    Diante de tal quadro, e sem prejuízo de apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro o pedido.
+    Oficie-se ao Juízo da 10ª Vara Federal da Seção Judiciária de Brasília, para que preste esclarecimentos sobre o atual andamento do Inquérito Policial 0033479-76.2015.4.01.3400.
+    Após, ouça-se a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 27 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
