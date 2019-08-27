@@ -1,0 +1,15 @@
+Decisão: Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que, no HC 528.321/SP, indeferiu liminarmente a impetração (eDOC 2, pp. 93-95).
+    Narra o impetrante que: a) o paciente foi preso em flagrante em 16.08.2019, convertida em prisão preventiva, pela suposta prática do delito previsto no art. 33, caput, da Lei 11.343/06; b) por ocasião do flagrante, o paciente portava 1,83 gramas de maconha para seu próprio consumo, além do valor de R$ 426,00 (quatrocentos e vinte e seis reais) obtido do trabalho que exerce junto a seu pai como gesseiro; c) as 40 pedras de crack, pesando 11,01 gramas, foram encontradas debaixo de uma pedra a uma distância de 200 metros de onde ocorreu a abordagem policial, não se podendo afirmar que lhe pertenciam; d) o paciente é usuário confesso de drogas; e) o aparelho celular que portava não era produto de furto, tendo sido adquirido por sua genitora; e) a decisão que decretou a prisão preventiva está desprovida de fundamentação idônea, pois foi proferida de forma genérica e abstrata, sem indicar a necessidade da custódia cautelar; f) é primário, menor de 21 anos, possui residência fixa, trabalho lícito e sua companheira está gestante.
+    À vista do exposto, postula pela superação da Súmula 691 do STF para que seja revogada a prisão preventiva ou, alternativamente, seja aplicada uma das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada, a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, diante dos elementos trazidos na impetração, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente habeas corpus, indefiro a liminar.
+    Solicitem-se, com urgência, informações ao Juízo da Vara Plantão – 14ª CJ da Comarca de Barretos/SP, a fim de que se manifeste acerca do contido na inicial e relate sobre o histórico do andamento processual.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 27 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
