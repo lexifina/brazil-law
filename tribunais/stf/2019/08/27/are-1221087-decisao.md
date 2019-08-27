@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL DE CARMÓPOLIS. AÇÃO DE COBRANÇA. PISO SALARIAL NACIONAL DO MAGISTÉRIO. LEI Nº 11.738/2008. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DA ADI Nº. 6147-3. DIFERENÇAS REMUNERATÓRIAS A TÍTULO DE IMPLEMENTAÇÃO RETROATIVA DO PISO NACIONAL DO ANO DE 2011. PRESCRIÇÃO QUINQUENAL DOS VALORES ATINENTES A JANEIRO E FEVEREIRO/2011. MODULAÇÃO DOS EFEITOS DA LEI Nº 11.738/2008, COM INÍCIO DE VIGÊNCIA EM 27/04/2011. REAJUSTE PROMOVIDO PELO ENTE MUNICIPAL EM JULHO/2011. DEVER DE PAGAMENTO DAS DIFERENÇAS SALARIAIS RELATIVAS A MAIO/2011, CONSOANTE DEMANDADO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO INOMINADO CONHECIDO E PARCIALMENTE PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput, da CF.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, seria imprescindível a análise da legislação infraconstitucional pertinente, o que é inviável em recurso extraordinário. Nesse sentido, cito os seguintes precedentes: ARE 1.148.682, Rel. Min. Ricardo Lewandowski; ARE 1.111.197, Rel. Min. Marco Aurélio; ARE 1.092.189, Rel. Min. Edsno Fachin.
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 27 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
