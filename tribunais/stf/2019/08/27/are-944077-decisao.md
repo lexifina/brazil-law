@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º da Emenda Constitucional nº 41/2003.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo a ementa do acórdão recorrido:
+    “GRATIFICAÇÃO DE DESEMPENHO. GDPST (MINISTÉRIO DA SAÚDE). SERVIDOR INATIVO REQUER O RECEBIMENTO DA GRATIFICAÇÃO NAS MESMAS CONDIÇÕES PAGAS AOS SERVIDORES ATIVOS CEDIDOS A OUTROS ÓRGÃOS. TERMO FINAL DOS ATRASADOS DE PARIDADE. INÍCIO DO PRIMEIRO CICLO DE AVALIAÇÃO. TERMO FINAL DOS ATRASADOS EM JANEIRO DE 2011. NORMATIZAÇÃO ESPECÍFICA PARA FINS DE PAGAMENTO DE GDPST A SERVIDORES CEDIDOS. NÃO SUBSISTE CARÁTER GENÉRICO DA REFERIDA GRATIFICAÇÃO. RECURSO DA PARTE AUTORA CONHECIDO E NÃO PROVIDO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.”
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 7º da Emenda Constitucional nº 41/2003. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO PODER EXECUTIVO CEDIDO A OUTRO PODER. GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE. LEI Nº 11.357/2006. EXTENSÃO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO” (RE 823376 AgR, Relator(a): Min. Luiz Fux, Primeira Turma, julgado em 03.5.2016, PROCESSO ELETRÔNICO DJe-111 DIVULG 31.5.2016 PUBLIC 1º.6.2016).
+    “Ementa: PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. ISONOMIA ENTRE FUNCIONÁRIOS INATIVOS E SERVIDORES ATIVOS CEDIDOS OU REQUISITADOS PARA OUTROS ÓRGÃOS QUE PERCEBEM A GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS) SEM AVALIAÇÃO INSTITUCIONAL. NECESSIDADE DE EXAME DE MATÉRIA INFRACONSTITUCIONAL E DE REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. HONORÁRIOS ADVOCATÍCIOS ADICIONAIS CORRESPONDENTES A 20% DO VALOR A ESSE TÍTULO JÁ FIXADO NO PROCESSO (CPC/2015, art. 85, § 11)” (ARE 959453 AgR, Relator(a): Min. Teori Zavascki, Segunda Turma, julgado em 30.9.2016, PROCESSO ELETRÔNICO DJe-223 DIVULG 19.10.2016 PUBLIC 20.10.2016).
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de agosto de 2019.
+Ministra Rosa Weber
+Relatora
