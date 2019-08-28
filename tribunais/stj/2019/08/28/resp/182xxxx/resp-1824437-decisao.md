@@ -1,0 +1,45 @@
+DECISÃO
+O recorrente, com fulcro no art. 105, III, "a", da Constituição Federal, se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Agravo n. 1.0231.17.008672-3/001). Aponta a a violação dos arts. 61, I, 63 e 64, todos do CP e art. 66 da Lei n. 7.210/1984, uma vez que a reincidência é circunstância pessoal que deixou de ser observada no momento da análise de benefícios da execução penal.
+Requer a correção dos cálculos penais.
+O Ministério Público Federal opinou pelo provimento do recurso.
+Decido.
+O recurso é tempestivo e preenche os demais requisitos de admissibilidade.
+O Tribunal de Justiça decidiu: "Se da sentença condenatória não consta o reconhecimento da condição de reincidente do condenado, ainda que existente, o Juízo da Execução não pode fazê-lo, sob pena de ferir a coisa julgada" (fl. 182).
+A jurisprudência deste Superior Tribunal é firme em assinalar que "a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas (HC n. 307.180/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 13/5/2015, destaquei).
+Ilustrativamente, mutatis mutandis:
+ ..
+2. A Lei n. 11.464/2007, introduzindo nova redação ao art. 2º, § 2º, da Lei dos Crimes Hediondos, previu lapsos mais gravosos à progressão de regime ao estabelecer que a promoção ao novo regime prisional dar-se-á após o resgate de 2/5 (dois quintos) da pena corporal, se o condenado for primário, e 3/5 (três quintos), se reincidente.
+3. In casu, ostentando o paciente a condição de reincidente, que emergiu com a prática de novo crime em 9/10/2008, após o trânsito em julgado do primeiro (16/9/2008), deve ser observado o lapso temporal de 3/5 de pena cumprida para fins de obtenção da progressão de regime, conforme determina o art. 2º, § 2º, da Lei n. 8.072/1990.
+4. Não há falar em aplicação do percentual de 2/5 (dois quintos) para a progressão de regime, em relação à primeira condenação, pois, unificada as penas, conforme determina o art. 111 da LEP, a reincidência deve incidir sobre o somatório das penas e não apenas na segunda condenação.
+5. Habeas corpus não conhecido.
+(HC n. 235.337/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/11/2015).
+
+ ..
+4. É firme a orientação do STJ no sentido de que, havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP.
+5. Reconhecida a reincidência, passa o apenado a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional, não havendo falar em aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as demais execuções. Precedentes.
+6. Habeas corpus não conhecido.
+(HC n. 306.921/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2017).
+A reincidência possui diversas consequências jurídico-penais, previstas tanto Código Penal quanto na Lei de Execuções Penais, razão pela qual é possível tanto ao Juiz de conhecimento como ao Juízo da Execução reconhecê-la, desde que para finalidades distintas. Das decisões proferidas sempre caberá recurso, oportunidade em que a defesa poderá contraditar e refutar o registro criminal.
+No processo de conhecimento, o fato é previsto como agravante genérica e orienta a individualização da pena, com consequências para o aumento do seu quantum, a fixação de regime prisional mais gravoso e a não aplicação do art. 44 do CP. No processo de execução, como nosso país adota o sistema progressivo de cumprimento da pena, a reincidência será analisada como circunstância pessoal do condenado, de forma global, de acordo com as condenações unificadas, para fins de individualização da execução penal e deferimento de benefícios do sistema progressivo da pena, visto que o legislador, por meio de dispositivos legais, diferenciou o tratamento entre reeducandos primários e reincidentes.
+O apenado que ostenta mais de uma condenação transitada em julgado terá que cumprir frações mais elevadas para progredir de regime, obter o livramento condicional etc., pois exige-se daquele que viola mais de uma vez o ordenamento jurídico maiores responsabilidades antes de fazer jus aos direitos que hoje integram o sistema progressivo de pena.
+Certamente, não cabe ao Juiz da Execução exasperar a pena aplicada ou agravar o regime, alterando o título judicial a cumprir, o que ensejaria a violação da coisa julgada. Contudo, é de sua competência, quanto houver condenação por mais de um crime, em processos distintos, realizar a unificação das penas e a individualização de seu resgate. Neste momento, a autoridade deverá sopesar a natureza dos crimes (hediondo ou a ele equiparados) e a circustância pessoal do reeducando (primariedade ou reincidência) para o fim exclusivo de analisar os benefícios do sistema progressivo.
+Confira-se:
+ ..
+1. A execução penal possui como pressuposto a existência de um título condenatório ou uma sentença absolutória imprópria, tendo como objetivo "fazer cumprir o comando emergente da sentença" (MARCÃO, Renato. Curso de execução penal. 13ª ed. rev. ampl. São Paulo: Saraiva, 2015, p. 31) ou decisão criminal, conforme dispõe o art. 1º da Lei de Execução Penal.
+2. Tratando-se de sentença penal condenatória, o juízo da execução deve se ater ao teor do referido decisum, no tocante ao quantum de pena, ao regime inicial, bem como ao fato de ter sido a pena privativa de liberdade substituída ou não por restritivas de direitos. Todavia, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional etc).
+3. "A individualização da pena no processo de conhecimento visa aferir e quantificar a culpa exteriorizada no fato passado. A individualização no processo de execução visa propiciar oportunidade para o livre desenvolvimento presente e efetivar a mínima dessocialização possível. Daí caber à autoridade judicial adequar a pena às condições pessoais do sentenciado" (BARROS, Carmen Silvia de Moraes. A Individualização da Pena na Execução Penal. São Paulo: Editora Revista dos Tribunais, 2001, p. 23 ).
+4. Não prospera, nessa perspectiva, o argumento de que a consideração da reincidência, apenas na fase de execução penal, revelaria o inaceitável reformatio in pejus, tendo em vista que não há falar em agravamento da reprimenda, mas apenas em individualização da pena, que na esfera de competência do juízo da execução se relaciona com institutos próprios (progressão de regime, livramento condicional etc).
+ ..
+(HC n. 378.985/ES, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 24/2/2017).
+ ..
+2. A reincidência é circunstância pessoal que interfere na execução como um todo (HC n. 307.180/RS, Ministro Felix Fisher, Quinta Turma, DJe 13/5/2015).
+3. Não há que se falar em constrangimento ilegal quando a condenação com trânsito em julgado, que o réu possui, embora tenha sido usada pelo Juiz sentenciante para agravar a pena-base a título de maus antecedentes, foi utilizada pelo Juízo da Execução Penal para fins de progressão de regime. Inexiste, no caso, reformatio in pejus ou afronta à coisa julgada.
+4. Habeas corpus não conhecido.
+(HC n. 357.357/ES, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 23/02/2017).
+ ..
+1. Não cabe ao Juiz da Execução rever a pena e o regime aplicados no título judicial a cumprir. Contudo, é de sua competência realizar o somatório das condenações (unificação das penas), analisar a natureza dos crimes (hediondo ou a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência) para fins de fruição de benefícios da LEP (AgRg no AREsp n. 1.237.581/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/8/2018).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1789290/ES, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 24/4/2019).
+Incide à hipótese, a Súmula n. 568 do STJ. O recorrido ostenta mais de uma condenação transitada em julgado. A reincidência ficou caracterizada na fase executória, oportunidade em que as penas oriundas de processos diversos foram somadas (art. 111 da LEP). Essa circunstância pessoal deve constar na guia de execução, com o único propósito de orientar a análise de direitos inerentes ao sistema progressivo (progressão de regime, livramento condicional, comutação, indulto etc.), sem nenhuma modificação do título judicial (sentença).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, a fim de determinar o reconhecimento da reincidência do recorrido pelo Juiz da Execução, com a consequente retificação do cálculo de suas penas.
+Publique-se e intimem-se.
