@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de Embargos à Execução interpostos pela União em face de execução de sentença em mandado de segurança originário da Terceira Seção deste Tribunal.
+Em síntese, a União alegou haver excesso de execução, em razão da parte autora ter apontado valor errado da remuneração para o período cobrado e aplicado o ICPA-E para atualização dos cálculos a partir de julho de 2009, quando o correto seria a variação da TR. Sustentou a necessidade de se fazerem os descontos de Imposto de Renda e a retenção do Plano de Seguridade do Servidor Público.
+Requer, assim, o acolhimento dos embargos para que seja reconhecido o excesso de execução e efetuados os descontos pretendidos.
+Acosta documentos.
+Intimada, a parte exequente defendeu o valor da remuneração utilizado em seu cálculo, em razão do contido na planilha de evolução remuneratória contida às fls. 562 dos autos principais e da remuneração que lhe foi paga ao ser reintegrado em dezembro de 2008, acostando contracheque para comprovar essa alegação. Mencionou que são devidas as verbas até dezembro de 2008, e não agosto do mesmo ano, bem como o 13º salário.
+Quanto à correção monetária, afirmou ser aplicável o IPCA-E, colacionando precedentes do STJ. Pugna, por isso, a improcedência dos embargos.
+Acosta documentos.
+Em réplica, a União requereu a suspensão do feito, alegando que o cálculo apresentado está correto, pois informado pelo Chefe da Divisão de Pagamento do servidor exequente. Nesse contexto, pleiteia a procedência dos embargos.
+O feito foi remetido à Coordenadoria de Execução Judicial para parecer, apresentado às fls. 53.
+Vieram os autos conclusos.
+É o relatório.
+DECIDO.
+BASE DE CÁLCULO
+Em relação à base de cálculo, é de se ressaltar que o documento de fls. 562, citado pela autora em sua resposta, trata-se da tabela da "Evolução Remuneratória da Carreira da Auditoria Fiscal do Trabalho", e não do cargo de "Médico do Trabalho", no qual foi determinada a reintegração do exequente, conforme os termos da segurança concedida, com os votos fazendo menção expressa ao cargo de Médico do Trabalho, como se vê às fls. 388 do processo originário.
+Dessa forma, a referida tabela não serve de base de cálculo para liquidação do julgado.
+Outrossim, o comprovante de rendimentos (fls. 670) que acompanha a planilha de cálculos apresentada pela autora (fls. 668) apresenta valores em duplicidade, incidindo duas vezes algumas rubricas, o que pode ter acontecido em razão de pagamentos proporcionais atrasados, ou ainda de terem ocorrido estornos posteriores, razão pela qual também não serve para delimitação da base de cálculo.
+A União, por sua vez, pretende o enquadramento do exequente no cargo de Médico do Trabalho, Classe C, Padrão I, conforme se denota do Ofício n. 122/2015/CGRH/SPOA/SE/MTE - fls. 9-14 dos presentes embargos -, que embasou o cálculo apresentado.
+Com efeito, o documento de fls. 556 da Execução demonstra que o autor foi reintegrado em 4/12/2008 por meio da Portaria n. 1.008, e aposentado por meio da Portaria n. 416, de 5/10/2009, exatamente no cargo de Médico do Trabalho, Classe C, Padrão I.
+Assim, resta claro que o enquadramento de Classe e Padrão feito pela União está correto - Cargo Médico do Trabalho, Classe C, Padrão I -, e sua remuneração mensal, informada nos termos do Ofício n. 122/2015/CGRH/SPOA/SE/MTE (fls. 9-14), deve ser observada como valor da base de cálculo.
+Quanto ao período, é de ser observado o termo inicial em 16/8/2008, data da distribuição do Mandado de Segurança, nos termos do § 4º do art. 14 da Lei 12.016, e o termo final em 3/12/2008, dia anterior ao cumprimento da ordem de reintegração.
+DESCONTOS INCIDENTES
+Inicialmente, consigno que a parte exequente não apresentou impugnação ao pedido de que sejam realizados os descontos a título de Imposto de Renda e Plano de Seguridade do Servidor Público, situação que importa em reconhecimento do pedido na questão.
+Registro, ad argumentandum tantum, que tal pretensão possui amparo na jurisprudência desta Corte, que possui entendimento consolidado sobre os temas, nos seguintes termos:
+a) Quanto à incidência do Imposto de Renda sobre as parcelas remuneratórias atrasadas recebidas em acumuladamente (Recurso Especial n. 1.118.429, Relator Ministro HERMAN BENJAMIN):
+TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. AÇÃO REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO. PARCELAS ATRASADAS RECEBIDAS DE FORMA ACUMULADA.
+1. O Imposto de Renda incidente sobre os benefícios pagos acumuladamente deve ser calculado de acordo com as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos, observando a renda auferida mês a mês pelo segurado. Não é legítima a cobrança de IR com parâmetro no montante global pago extemporaneamente. Precedentes do STJ.
+2. Recurso Especial não provido. Acórdão sujeito ao regime do art. 543-C do CPC e do art. 8º da Resolução STJ 8/2008.
+b) No tocante à incidência do Plano de Seguridade do Servidor Público sobre as parcelas atrasadas recebidas acumuladamente (Recurso Especial n. 1.196.777, Relator Ministro TEORI ALBINO ZAVASCKI):
+ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. RETENÇÃO NA FONTE DE CONTRIBUIÇÃO DO PLANO DE SEGURIDADE DO SERVIDOR PÚBLICO - PSS. LEI 10.887/04, ART. 16-A.
+1. A retenção na fonte da contribuição do Plano de Seguridade do Servidor Público - PSS, incidente sobre valores pagos em cumprimento
+de decisão judicial, prevista no art. 16-A da Lei 10.887/04, constitui obrigação ex lege e como tal deve ser promovida independentemente de condenação ou de prévia autorização no título executivo.
+2. Recurso Especial provido. Acórdão sujeito ao regime do art. 543-C do
+CPC e da Resolução STJ 08/08.
+c) Em relação ao Imposto de Renda sobre os juros de mora (Agravo Interno no Agravo em Recurso Especial n. 1.016.603, Relatora Ministra ASSUSETE MAGALHÃES):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE DE RETENÇÃO, NA FONTE, DO IMPOSTO DE RENDA SOBRE OS JUROS DE MORA DECORRENTES DO PAGAMENTO EXTEMPORÂNEO, A SERVIDORES PÚBLICOS, DE RENDIMENTOS TRIBUTÁVEIS, FORA DO CONTEXTO DE EXONERAÇÃO OU DEMISSÃO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 15/08/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. In casu, trata-se, na origem, de execução de sentença em ação ordinária, na qual servidores públicos pleiteiam diferenças remuneratórias, a título de reajustes, incluídos os acréscimos legais moratórios. Interposto Agravo de Instrumento, visando afastar a retenção do Imposto de Renda sobre os juros de mora, o Tribunal de origem deu provimento ao recurso, ao fundamento de que tais juros possuem natureza indenizatória. No Recurso Especial, além de divergência jurisprudencial, o Município de São Paulo apontou violação aos arts. 535, II, do CPC/73, 43 e 111, II, do CTN, e 6º da Lei 7.713/88. Inadmitido o Recurso Especial, na origem, foi interposto Agravo em Recurso Especial. Na decisão agravada, o Agravo em Recurso Especial foi conhecido, para conhecer parcialmente do Recurso Especial, e, nessa parte, dar-lhe provimento, para reconhecer a possibilidade de retenção do Imposto de Renda, na fonte, sobre os juros de mora devidos aos agravantes, por ocasião do pagamento extemporâneo de seus rendimentos tributáveis.
+III. A Primeira Seção do STJ, ao julgar, sob o rito do art. 543-C do CPC/73, o REsp 1.227.133/RS (Rel. p/ acórdão Ministro CÉSAR ASFOR ROCHA, DJe de 19/10/2011), proclamou que não incide Imposto de Renda sobre os juros moratórios vinculados a verbas trabalhistas reconhecidas em decisão judicial, quando pagos tais juros em contexto de rescisão do contrato de trabalho. No julgamento do REsp 1.089.720/RS (Rel. Ministro MAURO CAMBPELL MARQUES, DJe de 28/11/2012), a Primeira Seção reafirmou a orientação do Recurso Especial repetitivo mencionado, ocasião em que deixou consignado que é legítima a tributação dos juros de mora pelo Imposto de Renda, salvo a existência de norma isentiva específica (art. 6º, V, da Lei 7.713/88, que isenta do Imposto de Renda inclusive os juros de mora devidos no contexto de rescisão do contrato de trabalho) ou a constatação de que a verba principal, a que se referem os juros, é isenta ou fora do campo de incidência do Imposto de Renda (tese em que o acessório segue o principal).
+IV. No caso, é fato incontroverso que as verbas em questão referem-se a diferenças, a título
+de reajustes remuneratórios, pagas a destempo a servidores públicos, fora do contexto de exoneração ou demissão, bem como que os juros de mora não são incidentes sobre verbas
+principais isentas ou fora do campo de incidência do Imposto de Renda. Ao contrário, os juros decorrem do pagamento de verbas remuneratórias não isentas. Assim, é devido o pagamento, sobre essa parcela de juros de mora, do correspondente Imposto de Renda, na forma da jurisprudência desta Corte. Precedentes do STJ (AgInt no AREsp 897.171/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/09/2016; REsp 1.596.362/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/10/2016; REsp 1.524.029/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 16/08/2017).
+V. Agravo interno improvido.
+ÍNDICES DE CORREÇÃO MONETÁRIA E TAXA DE JUROS APLICÁVEIS
+No julgamento do Recurso Extraordinário n. 870.947, o Supremo Tribunal Federal assentou, em relação à correção monetária, que deve ser aplicado o IPCA-E igualmente para todas as condenações judiciais impostas à Fazenda Pública, in verbis:
+A fim de evitar qualquer lacuna sobre o tema e com o propósito de guardar coerência e uniformidade com o que decidido pelo Supremo Tribunal Federal ao julgar a questão de ordem nas ADIs nº 4.357 e 4.425, entendo que devam ser idênticos os critérios para a correção monetária de precatórios e de condenações judiciais da Fazenda Pública. Naquela oportunidade, a Corte assentou que, após 25.03.2015, todos os créditos inscritos em precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E). Nesse exato sentido, voto pela aplicação do aludido índice a todas as condenações judiciais impostas à Fazenda Pública, qualquer que seja o ente federativo de que se cuide.
+Posteriormente, em decisão monocrática em sede de embargos de declaração, ocorreu a suspensão dos efeitos dessa decisão até a análise do mérito dos embargos. E, levados a julgamento os embargos declaratórios, o resultado foi o seguinte:
+Após o voto-vista do Ministro Alexandre de Moraes, que divergia do Relator, rejeitando todos os embargos de declaração e não modulando os efeitos da decisão anteriormente proferida, no que foi acompanhado pelos Ministros Edson Fachin, Rosa Weber, Ricardo Lewandowski e Celso de Mello; do voto do Ministro Marco Aurélio que, além de acompanhar o Ministro Alexandre de Moraes, afastava a eficácia suspensiva dos embargos de declaração; e do voto do Ministro Roberto Barroso, que acompanhava o Ministro Luiz Fux (Relator) no sentido de rejeitar integralmente os embargos de declaração opostos conjuntamente pela Confederação Nacional dos Servidores Públicos (CNSP) e pela Associação Nacional dos Servidores do Poder Judiciário (ANSJ) (petição 71.736/2017) e acolher, parcialmente, os embargos de declaração opostos pelo Estado do Pará, pelo Estado do Acre (e outros) e pelo INSS (petições 73.194/2017, 73.596/2017 e 4.981/2018, respectivamente), de modo a conferir eficácia prospectiva à declaração de inconstitucionalidade do índice previsto no artigo 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, proferida pelo Plenário no presente leading case, pediu vista dos autos o Ministro Gilmar Mendes. Ausente, justificadamente, a Ministra Cármen Lúcia. Presidência do Ministro Dias Toffoli. Plenário, 20.03.2019.
+Como se vê, há 6 votos já proferidos em sentido contrário à modificação do julgamento originário - este já terminado e prolatado - sendo que, para a modulação dos efeitos da decisão, seriam necessários 8 votos em sentido diverso, nos termos do art. 27 da Lei n. 9.869, situação que, em que pese possa ocorrer, não confere plausibilidade à tese da União de que o feito deve ficar suspenso, uma vez que a suspensão dos milhares de processos que tramitam em sede de execução neste Superior Tribunal acarretaria grande prejuízo ao serviço judiciário e à duração razoável do processo.
+Além disso, observa-se que sequer o atraso na liquidação deste julgado beneficia a União, visto que lhe custa 6% de juros ao ano, mais correção monetária, enquanto a taxa SELIC está atualmente em 6% ao ano.
+Ademais, nota-se que, conforme consta da movimentação processual do Recurso Extraodinário n. 870.947, há julgamento pautado para o dia 3 de outubro próximo, de forma que indefiro a suspensão do presente feito para permitir a liquidação do julgado com a utilização do IPCA-E, estabelecendo, desde já, que sejam adotados os índices determinados pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário n. 870.947, inclusive com eventuais alterações feitas em sede de embargos de declaração lá pendentes.
+Por cautela, determino que sejam feitos dois cálculos: um utilizando a taxa referencial como correção monetária, e outro o IPCA-E, sendo que a expedição do precatório se dará pelo primeiro cálculo. Ademais, um precatório complementar deverá ser expedido quando transitar em julgado o Recurso Extraordinário n. 870.947, observando eventuais modificações no julgamento, conforme já estabelecido.
+Por fim, quanto ao termo final dos juros de mora, deve ser considerado o decidido pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário n. 579.431, apreciado pela sistemática da repercussão geral, que, analisando o Tema n. 96, veio a fixar a seguinte tese: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+Ante o exposto, julgo parcialmente procedentes os Embargos à Execução interpostos pela União a fim de determinar que a liquidação do julgado seja feita observando os seguintes parâmetros:
+Parâmetro
+Base de Cálculo do Principal
+Remuneração Médico do Trabalho, Classe C, padrão I
+Período de Incidência
+16/8/2005 a 3/12/2008
+Descontos Incidentes
+IR, inclusive sobre os juros, e PSS
+Índice de Correção Monetária
+IPCA-E
+Termo Inicial da Correção Monetária
+Cada vencimento
+Termo final da Correção Monetária
+Efetivo pagamento do precatório
+Índice de juros a serem aplicados
+0,5% ao mês - expresso no acórdão
+Termo inicial dos juros
+Cada vencimento
+Termo final dos juros
+Expedição do Precatório
+Em face da sucumbência recíproca, condeno ambas as partes a pagarem à parte adversa honorários sucumbenciais fixados em 10% sobre a diferença entre seu cálculo e o cálculo que vier a ser homologado.
+O cálculo de liquidação do julgado será feito por perito a ser nomeado pelo juízo no bojo da execução, assim que transitada em julgado a presente decisão, para evitar novas discussões e cálculos unilaterais, medida esta que importa em benefício para ambas as partes, uma vez que o cálculo elaborado por perito do juízo permite homologação mais célere, chegando antes à expedição do precatório.
+Com o trânsito em julgado da presente decisão, traslade-se cópia para o feito executório e arquive-se com baixa.
