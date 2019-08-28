@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA JANICE MARCILIO contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 314):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. PRODERJ. ADICIONAL DE CONHECIMENTO INSTITUÍDO PELA LEI 3.834/02. VANTAGEM PECUNIÁRIA QUE INCENTIVA DO APRIMORAMENTO PROFISSIONAL ATRAVÉS DE CURSOS DE APERFEIÇOAMENTO DIRETAMENTE RELACIONADOS À ÁREA DE ATUAÇÃO PROFISSIONAL DO SERVIDOR. BENEFÍCIO CONCEDIDO EM ABRIL DE 2010, QUANDO A AUTORA/APELADA JÁ ESTAVA APOSENTADA. REVISÃO DO ATO ADMINISTRATIVO. POSSIBILIDADE. SUMULA 43 DO STF. SERVIDORA QUE NÃO FAZIA JUS À INCORPORAÇÃO PLEITEADA, POR FORÇA DO ARTIGO 22 DO DECRETO ESTADUAL 2.479/79, VIGENTE À ÉPOCA, UMA VEZ QUE NA DATA DE SUA APOSENTAÇÃO  22/03/2006  NÃO ESTARIA PERCEBENDO A VANTAGEM POR MAIS DE CINCO ANOS, AINDA QUE O ADICIONAL FOSSE IMPLEMENTADO AO TEMPO DE SEU REQUERIMENTO  MAIO DE 2003 . AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA. RECURSO A QUE SE NEGA PROVIMENTO.
+Rejeitados os aclaratórios (e-STJ fls. 334/338).
+No especial obstaculizado, a parte recorrente apontou violação do art. 93, IX, da Constituição Federal, do art. 535, II, do CPC/1973, do art. 2º, § 2º, da Lei de Introdução às Normas do Direito Brasileiro e do art. 54 da Lei n. 9.784/1999. Sustentou que, não obstante os embargos de declaração opostos, manteve-se silente a Corte local acerca da alegada decadência para a revisão de ato administrativo.
+Defendeu, ainda, que foi aplicada norma estadual genérica em detrimento de local específica, bem como que transcorrido o prazo decadencial para exercício da autotutela da Administração.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de não cabimento, no tocante à matéria constitucional, suficiente prestação jurisdicional e incidência das Súmulas 83 do STJ e 280 do STF (e-STJ fls. 440/445).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Contraminuta às e-STJ fls. 482/495.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal comporta acolhida no tocante às alegações de negativa de prestação jurisdicional.
+De início, contudo, no pertinente à suposta contrariedade do art. 93 IX, da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Quanto ao mais, o art. 535 do CPC/1973 previa que os embargos de declaração seriam cabíveis quando houvesse, no acórdão ou sentença, omissão, contrariedade ou obscuridade, in verbis:
+Art. 535. Cabem embargos de declaração quando:
+I - houver, na sentença ou no acórdão, obscuridade ou contradição;
+II - for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão à parte ora recorrente, tendo em vista que o Tribunal de origem não se manifestou acerca de tema, questionado no recurso integrativo, que poderia conduzir a julgamento diverso daquele manifestado pelo aresto hostilizado, qual seja: decadência administrativa.
+Assim, estando configurada a violação do art. 535 do CPC/1973, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios para que o vício seja sanado pelo Tribunal de origem. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAR CONTRARRAZÕES AO AGRAVO REGIMENTAL. PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO. EMBARGOS DECLARATÓRIOS. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É imprescindível a intimação do agravo para apresentar contrarrazões, em atenção aos princípios da ampla defesa e do contraditório.
+2. Não tendo o Tribunal a quo se manifestado sobre questão fundamental para o julgamento da controvérsia, justifica-se a anulação do julgado por esta Corte, por afronta do artigo 535 do Código de Processo Civil.
+3. Agravo regimental desprovido. (AgRg no REsp 1.236.975/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 15/02/2012).
+PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME]. (REsp 1.337.055/PE, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/09/2012).
+Fica prejudicada a análise das irresignações remanescentes.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omissa reconhecida na fundamentação.
+Publique-se. Intimem-se.
