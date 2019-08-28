@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma Recursal do Tribunal de Justiça do Estado do Piauí, assim ementado:
+    “RECURSO INOMINADO. ADMINISTRATIVO. ACUMLAÇÃO DE APOSENTADORIA. ACUMULAÇÃO DE CARGOS. PROFESSOR E AGENTE TÉCNICO DE SERVIÇO DO INSTITUTO DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL DO ESTADO DO PIAUÍ – EMATER. COMPATIBILIDADE DE HORÁRIOS COMPROVADA. AUSÊNCIA DE MÁ-FÉ. DECADÊNCIA. CINCO ANOS.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XVI, b; e 40, § 6º, da CF. Sustenta “ser absolutamente ilegal a acumulação do cargo de Agente administrativo como cargo de professor, haja vista não possuir o primeiro a natureza técnica ou científica”.
+    O recurso não merece acolhimento. O Tribunal de origem assentou que o “princípio da segurança jurídica garante a preservação, a estabilidade e a pacificação dos fatos sociais. Na realidade, o prazo de duas décadas sem que o poder pública tomasse qualquer atitude quanto à demissão por acumulação ilegal de cargos, geraria uma confiança muito grande de que a servidora poderia se aposentar com as duas remunerações. […] Além disse, desde fevereiro de 2002 quando a interessada foi nomeada para o cargo de Professor, o Estado do Piauí ficou ciente da acumulação de cargos e, mesmo assim, permitiu que ela permanecesse acumulando-os, criando na autora a expectativa de que iria se aposentar no cargo de professor e de técnico de serviço do instituto de assistência técnica e extensão rural.”
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Nessas condições, incide, no caso, a Súmula 283/STF.
+    Ademais, para se chegar à conclusão pretendida pela parte recorrente, faz-se necessário analisar os fatos e provas constantes dos autos, procedimento vedado neste momento processual, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 28 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
