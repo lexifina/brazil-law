@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Ap. n. 0020203-64.2016.8.24.0038).
+Consta dos autos que o paciente foi condenado a 7 meses de reclusão, em regime semiaberto, e multa, por infração do art. 155, caput, c/c o art. 14, II, ambos do Código Penal, por ter tentado subtrair, mediante arrombamento de janela, um aparelho de DVD (e-STJ fl. 169).
+O Tribunal de origem negou provimento ao recurso do Ministério Público, em acórdão que recebeu a seguinte ementa (e-STJ fl. 248):
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. RÉU DENUNCIADO PELO DELITO DE ROUBO TENTADO (ART. 157, § 1º, C/C ART. 14, INCISO II, DO CÓDIGO PENAL). SENTENÇA PARCIALMENTE PROCEDENTE. CONDUTA DESCLASSIFICADA PARA O DELITO DE FURTO TENTADO. RECURSO DO MINISTÉRIO PÚBLICO. PLEITO DE CONDENAÇÃO NO DELITO DE ROUBO. ALEGAÇÃO DE QUE O CONJUNTO PROBATÓRIO NÃO DEIXA DÚVIDAS ACERCA DA OCORRÊNCIA DO DELITO DE ROUBO IMPRÓPRIO. INVIABILIDADE. AUSÊNCIA DE PROVA SEGURA NO SENTIDO DE QUE HOUVE A PRÁTICA DE VIOLÊNCIA OU GRAVE AMEAÇA, ELEMENTARES DO CRIME DE ROUBO, PELO REÚ. PROVA QUE DEIXA [NOME] A OCORRÊNCIA DO DELITO DE ROUBO IMPRÓPRIO. DESCLASSIFICAÇÃO MANTIDA.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Busca a Defensoria Pública, liminarmente e no mérito, a fixação do regime aberto de cumprimento de pena ao paciente.
+A liminar foi indeferida (e-STJ fls. 262/264).
+O Ministério Público Federal opinou pela manutenção da decisão impugnada (e-STJ fls. 306/308).
+É, em síntese, o relatório.
+Examinando os autos, infere-se que se fixou a pena-base no mínimo legal. Entretanto, não obstante o quantum da pena aplicada e o fato de terem sido consideradas favoráveis todas as circunstâncias judiciais, a sentença, mantida pelo acórdão, fixou o regime semiaberto para o início do cumprimento da reprimenda, afirmando, para tanto, que (e-STJ fl. 172):
+Face o quantum de pena privativa de liberdade aplicada, somado à reincidência, deverá esta ser cumprida em regime inicial semiaberto (CP, art. 33, § 2º, "b").
+Sobre o assunto, rememoro que, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte Superior, admite-se a imposição de regime prisional mais gravoso do que aquele que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+Confiram-se:
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME INICIAL FECHADO. LEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+ .. .
+4. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, roubo contra residência em concurso de três agentes e com emprego de arma de fogo.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal o aumento da reprimenda procedido na terceira etapa da dosimetria (HC 222.445/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/02/2016, DJe 02/03/2016, grifei).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIMES DE ROUBO MAJORADOS. TESE DE FRAGILIDADE DA PROVA DO CONCURSO FORMAL. NECESSIDADE DE EXAME APROFUNDADO DA PROVA. VIA IMPRÓPRIA. CONSUMAÇÃO DO DELITO.  .. . IMPOSIÇÃO DE REGIME MAIS GRAVOSO. PRESENÇA DE FUNDAMENTAÇÃO CONCRETA. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+ .. .
+5. Justifica-se a imposição do regime prisional mais gravoso, ainda que estabelecida a pena-base no mínimo legal ao réu primário, quando presentes fundamentos que desbordam da gravidade abstrata, e das circunstâncias comuns à espécie, evidenciando a especial reprovabilidade da conduta praticada. Precedentes.
+6. Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas do paciente RENE para 6 anos, 2 meses e 20 dias, de reclusão, e 15 dias-multa (HC 209.582/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/11/2015, DJe 03/12/2015, grifei).
+Na espécie, as instâncias ordinárias fixaram o regime prisional semiaberto levando em conta o fato de ser o ora paciente reincidente, fundamento que entendo ser suficiente para justificar a fixação do regime semiaberto, pois as circunstâncias judiciais foram consideradas favoráveis de modo que a pena-base foi fixada no mínimo legal, o que, consoante a Súmula n. 269 desta Corte, justifica, uma vez reconhecida a reincidência, o estabelecimento do regime intermediário, a saber:
+Súmula 269/STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Sob tal perspectiva, considerando o quantum da condenação (7 meses de reclusão) e o fato de não terem sido apontadas circunstâncias judiciais desfavoráveis, é correta a aplicação do regime semiaberto, conforme o disposto no art. 33, §§ 2º, "b", e 3º, do Código Penal.
+À vista de tais pressupostos, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
