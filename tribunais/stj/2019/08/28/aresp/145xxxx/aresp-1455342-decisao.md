@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta a acusação violação do art. 33, § 4º, da Lei 11.343/06.
+Sustenta que o recorrido não preenche os requisitos para aplicação do art. 33, § 4º, da Lei 11.343/06, requerendo o provimento do recurso para que seja afastada a minorante.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+É o relatório.
+DECIDO.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrido foi condenado pela prática do delito previsto no art. 33, § 4º, da Lei 11.343/06 às penas de 1 ano e 8 meses de reclusão, regime semiaberto, e 166 dias-multa. Interposto recurso por ambas as partes, o Tribunal de origem negou provimento à apelação da defesa e deu provimento em parte à da acusação, fixando a pena em 2 anos e 6 meses de reclusão, em regime semiaberto, e 250 dias-multa.
+Nas razões recursais, pretende o Ministério Público, em síntese, seja afastada a minorante prevista no art. 33, § 4º, da Lei 11.343/06, em decorrência da grande quantidade de droga apreendida com o recorrido, o que denota a dedicação à atividade criminosa.
+O voto condutor do acórdão assim decidiu quanto ao tema (fls. 200-203):
+I. DO RECURSO DO MINISTÉRIO PUBLICO.
+Em suas razões recursais, o Parquet requer, como tese principal, o afastamento da causa especial de redução de pena prevista no art. 33, § 4º da Lei 11.343/06, tendo em vista que a quantidade do entorpecente apreendido demonstra que o réu não é um traficante iniciante, dedicando-se às atividades criminosas. Subsidiariamente, requer a redução do quantum de diminuição aplicado pelo referido dispositivo.
+E, razão lhe assiste, em parte, apenas com relação à fração de redução da aludida benesse.
+No tocante à causa especial de diminuição de pena prevista no art. 33, § 4o, da Lei 11.343/06, dispõe o respectivo dispositivo legal, in verbis:
+ ..
+Como visto, o Legislador, ao estabelecer o benefício previsto no § 4o do art. 33 da Lei Antidrogas, o fez impondo algumas condições para a sua concessão, dentre as quais se destacam a necessidade de o agente ser primário e possuidor de bons antecedentes.
+Registre-se que para aplicação da causa de redução de pena estampada no referido dispositivo legal é necessária a presença simultânea de todos os requisitos nele elencados, sendo certo que a quantidade da droga apreendida, por si só, não obsta a concessão da benesse, sendo apta, tão somente, para a fixação da fração de diminuição.
+No presente caso, a Certidão de Antecedentes Criminais constante à f. 39 demonstra que o acusado é primário, de bons antecedentes, eis que não ostenta contra si nenhuma sentença penal condenatória transitada em julgado, não respondendo, também, a qualquer outra ação penal na Comarca.
+Diante disso, tem-se que o ora recorrente preenche os dois (02) primeiros requisitos.
+No que diz respeito à dedicação à atividade criminosa ou integração a organização criminosa, vê-se que, em que pese a quantidade de maconha apreendida na posse do réu, não há nos autos provas de que ele vem se dedicando às atividades criminosas ou que se associou para este fim, com estabilidade e divisão de tarefas.
+Com efeito, conforme se extrai das provas carreadas aos autos, o Apelante não era conhecido no meio policial por seu envolvimento em práticas delitivas, inexistindo no feito quaisquer indícios de que ele "(..) se dedique às atividades criminosas nem integre organização criminosa".
+De fato, extrai-se do depoimento prestado em Juízo pelo Policial Militar AGUILAR BÁRBARA DOS SANTOS (Mídia de f. 68) que o réu não era conhecido no meio Policial, sendo ele preso em patrulhamento de rotina, o que corrobora a conclusão de que não se dedicava às atividades criminosas.
+Não bastasse, o réu afirmou em Juízo que era a primeira vez que estava vendendo drogas (Mídia de f. 68).
+Como bem fundamento pelo douto Sentenciante "(..) No tocante à redução da pena prevista no §4º do art. 33 da Leinº 11.343/2006, tenho que deve ser aplicada, pois o denunciado é tecnicamente primário, portador de bons antecedentes e não há provas de que se dedique as atividades criminosas e nem integre organização criminosa, conforme CAC de f. 39" (f. 69v/70).
+Lado outro, verifica-se do Laudo Toxicológico Definitivo de f. 31/33 que foi apreendida significativa quantidade de maconha em poder do réu - seiscentos e trinta e nove gramas e setenta e sete centigramas (639,77g), além de dois (02) pinos de cocaína, pesando um grama e quarenta centigramas (1,40g).
+Todavia, tal como entendeu o Magistrado a quo, a quantidade da droga apreendida, embora possa ser tida como pequena ou ínfima, não nos permite concluir pela dedicação do réu a atividades criminosas.
+Com efeito, conforme exposto, há nos autos apenas os depoimentos dos policiais no sentido de que faziam patrulhamento de rotina, quando viram o réu em atitude suspeita, razão pela qual decidiram abordá-lo.
+Todavia, nenhum Policial foi capaz esclarecer o possível envolvimento do réu com o tráfico de drogas ou com outras atividades criminosas.
+Destaque-se que sequer foi elaborado, in casu, relatório de vida pregressa, de modo a se verificar o real grau de envolvimento do acusado com a mercancia ilícita.
+Diante desse contexto, entende-se que a tese acusatória que busca o decote do benefício relativo ao "privilégio" deve ser afastada.
+Como se vê, o Tribunal de origem entendeu, fundamentadamente, que foram preenchidos os requisitos previstos no art. 33, § 4º, da Lei 11.343/06, assentando que o recorrido é primário e de bons antecedentes. Aduz, ademais, que as provas carreadas aos autos não indicaram a dedicação à atividade criminosa ou integração a organização criminosa, circunstâncias que, no caso, não podem ser inferidas apenas pela quantidade de drogas apreendidas - 639,77 gramas de maconha e 1,40 grama de cocaína.
+Com efeito, a aplicação do mencionado benefício não fica condicionada ao disposto no art. 42 da Lei de Drogas. Trata-se de direito subjetivo do réu, de sorte que, atendidos os requisitos legais, mister a aplicação da referida causa redutora de pena, devendo os parâmetros previstos no art. 42 da Lei 11.343/2006 ser utilizados não como óbice à sua concessão, mas como vetoriais norteadoras da fixação do quantum de redução a ser aplicado no caso.
+Nesse contexto, para se chegar à conclusão diversa das instâncias ordinárias, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial, tendo em vista o óbice da Súmula 7/STJ. A propósito:
+PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DA PENA. PRETENSÃO DE AFASTAMENTO. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO. 1. Não obstante a quantidade de droga apreendida, concluiu o Tribunal de origem que o agente não se dedicava a atividades criminosas, aplicando-se, por consequência, a minorante do tráfico privilegiado, razão pela qual a reversão do julgado demandaria o revolvimento do conjunto fático probatório dos autos, o que é vedado pela Súmula 7/STJ. 2. Agravo regimental improvido (AgRg no REsp 1349506 / SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/04/2018, DJe 23/04/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI DE TÓXICOS, RECONHECIDA PELO ACÓRDÃO ATACADO. PLEITO DE AFASTAMENTO DA MINORANTE. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conquanto seja considerável a quantidade de droga apreendida, exclusivamente desta circunstância não se pode concluir, estreme de dúvidas, que o Réu se dedica a atividades criminosas, mormente porque o Tribunal de origem, soberano na análise da matéria fática, mesmo tendo notícia dela, concluiu pelo preenchimento dos requisitos necessários à concessão da benesse prevista do § 4.º do art. 33 da Lei n.º 11.343/2006.
+2. Reformar o acórdão atacado para conhecer que o Recorrido se dedica à atividade criminosa e, portanto, não preenche os requisitos para a aplicação da minorante, tal como requerido pelo Parquet federal, encontra óbice no enunciado sumular n.º 7 desta Corte.
+3. Agravo regimental desprovido (AgRg no REsp 1750695/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/10/2018, DJe 221/10/2018).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
