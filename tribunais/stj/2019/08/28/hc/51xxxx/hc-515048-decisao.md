@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000869-80.2018.8.26.0535).
+Consta dos autos que o paciente foi condenado como incurso no art. 157, caput, do Código Penal, à pena de 4 anos e 8 meses de reclusão, em regime fechado, bem como ao pagamento de 11 dias-multa (e-STJ fls. 45/49).
+Interposta apelação, o Tribunal local negou provimento ao recurso defensivo, mantendo a condenação nos termos proferidos na sentença (e-STJ fls. 18/23).
+No presente writ (e-STJ fls. 3/8), a impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão da não compensação da agravante da reincidência com a atenuante da confissão. Argumenta que o fato de a reincidência ser específica não impede a integral compensação, conforme entendimento desta Corte Superior.
+Dessa forma, requer a compensação integral entre a confissão e a reincidência e, em consequência, o redimensionamento da pena.
+O Ministério Público Federal opinou, às e-STJ fls. 63/66, pela concessão da ordem.
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que julgou o apelo defensivo, o que, de acordo com a nossa sistemática recursal, enseja a hipótese do recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade na não compensação integral entre a reincidência e a confissão.
+É cediço que, desde o julgamento do EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+Nesse sentido:
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. ELEVAÇÃO EM FACE DA NATUREZA DO BEM SUBTRAÍDO. IMPOSSIBILIDADE, IN CASU. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO COM A REINCIDÊNCIA. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. AUMENTO ACIMA DO MÍNIMO LEGAL. CRITÉRIO MATEMÁTICO. OFENSA À SÚMULA 443 DO STJ.
+(..)
+3. A Terceira Seção desta Corte, no julgamento do REsp 1.341.370/MT, submetido ao procedimento previsto no art. 543-C do Código de Processo Civil, pacificou o entendimento de que a agravante da reincidência e a atenuante da confissão espontânea, por serem igualmente preponderantes, podem ser compensadas na segunda fase da dosimetria da pena.
+(..)
+5. Habeas corpus não conhecido. Concedida a ordem, de ofício, para fixar a pena-base no mínimo legal, compensar a reincidência com a confissão espontânea e aplicar a fração mínima de 1/3 em razão das majorantes do roubo, redimensionando a pena cominada aos dois pacientes. (HC 213.994/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 15/9/2015, DJe 1/10/2015) - (grifei).
+No caso dos autos, não houve a compensação da agravante da reincidência com a atenuante da confissão, pois as instâncias ordinárias entenderam que a agravante da reincidência é circunstância que prepondera sobre a confissão, nos seguintes termos (e-STJ fl. 21):
+Não é demais dizer que o apelante (reincidente específico) já foi beneficiado com a compensação parcial da circunstância agravante da reincidência com a circunstância atenuante da confissão espontânea, não obstante a preponderância daquela sobre esta, nos termos do artigo 67 do Código Penal, de modo que não há falar em compensação integral entre ambas, como pretende a douta defesa.
+Sobre a preponderância da circunstância agravante da reincidência sobre a atenuante da confissão, cumpre destacar o entendimento do Supremo Tribunal Federal:
+(..)
+Contudo, ao contrário do que entendeu o Tribunal de origem, a reincidência específica não impede a compensação integral com a confissão.
+A Terceira Seção desta Corte, no julgamento do HC n. 365.963/SP, ocorrido em 11/10/2017, firmou a tese de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do agente que ostenta outra condenação pelo mesmo delito.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. CONFISSÃO PARCIAL. COMPENSAÇÃO COM A REINCIDÊNCIA ESPECÍFICA. SUMULA 545/STJ. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa. II - A "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 1º/8/2017).
+III - Nos termos do enunciado n. 545 da Súmula desta Corte "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal", independente de ter sido parcial, qualificada ou retratada. IV - Reconhecida a confissão pelas instâncias ordinárias, ainda que parcial, cumpre destacar que a Terceira Seção desta Corte, no julgamento do EREsp 1.154.752/RS, uniformizou o entendimento de que a aludida atenuante deve ser compensada com a agravante da reincidência.
+V - No julgamento do HC 365.963/SP, a Terceira Seção firmou o entendimento de que a reincidência, inclusive a específica, deve ser compensada integralmente com a atenuante da confissão.
+Habeas Corpus não conhecido. Ordem parcialmente concedida, de ofício, para compensar integralmente a agravante da reincidência específica com a atenuante da confissão parcial.
+(HC 477.431/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2018, DJe 01/02/2019)
+Dessa forma, tendo em vista que o fundamento utilizado para a não compensação integral é inidôneo, resta configurado o constrangimento ilegal, devendo ser compensadas integralmente a reincidência e a confissão.
+Passo a refazer a dosimetria.
+Na primeira etapa, mantenho a pena-base fixada em 4 anos de reclusão e 10 dias-multa. Na segunda fase, em razão da atenuante da confissão e agravante da reincidência, faço a compensação entre as duas, não havendo alteração na pena. Na terceira etapa, ausentes causas de aumento e diminuição da pena, fica esta definitvamente arbitrada em 4 anos de reclusão.
+Em razão do redimensionamento da pena, necessário adequar o regime inicial.
+Não obstante o patamar da pena não exceda a 4 anos de reclusão, tendo em vista que o paciente é reincidente, o regime intermediário é o que se mostra mais adequado, nos termos do art. 33, § 2º, alínea "b", do Código Penal.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para redimensionar a pena para 4 anos de reclusão e fixar o regime semiaberto.
+Intimem-se.
