@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão da 7ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0161421-28.2019.8.21.7000).
+Extrai-se dos autos que o recorrente foi preso preventivamente em 10/4/2018, acusado da suposta prática dos delitos tipificados nos arts. 157, § 3, parte final, c/c art. 14, inciso II, art. 157, § 2º, incisos I, II e V, art. 180 e art. 311 do Código Penal, art. 16, inciso III da Lei nº 10.826/03, e art.1º, § 1º e art. 2º, § 2º da Lei nº 12.850/13.
+Alegando excesso de prazo da segregação, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 160/168):
+HABEAS CORPUS. CÓDIGO PENAL CRIMES CONTRA O PATRIMÔNIO. ART 157 § 3º C/C ART 14, INCISO II. LATROCÍNIO TENTADO. ART. 157, § 2º, INCISOS I, IIE V. ROUBO MAJORADO. ART. 180, CAPUT. RECEPTAÇÃO. ART. 311, CAPUT. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ART. 16, CAPUT, E INCISO III, DA LEI 10.826/03. ART POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ART 1º, § 1º E ART. 2º, § 2º, DA LEI 12.850/13. ORGANIZAÇÃO CRIMINOSA. EMPREGO DE ARMA DE FOGO. EXCESSO DE PRAZO. NÃO CONFIGURADO.
+Ação penal com curso regular, até mesmo célere, pois encerrada a instrução. Incidência da Súmula 52- STJ.
+ORDEM DENEGADA, POR MAIORIA.
+No presente recurso, a defesa alega que o excesso de prazo foi reconhecido em relação a corréu, e que a situação prisional do paciente é idêntica, sendo o caso de concessão de efeito extensivo da revogação da prisão preventiva (e-STJ fl. 179).
+Sustenta que, tendo em vista o reconhecimento do excesso em relação ao corréu, não há que se falar em encerramento da instrução e alcance da Súmula 52 do STJ (e-STJ fl. 183).
+Ressalta as circunstâncias pessoais favoráveis do recorrente, bem como o fato de ter filho de 4 meses e pai com problemas de saúde. Defende que seria suficiente a aplicação de medidas cautelares alternativas.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório. Decido.
+Conforme destacado pelo acórdão combatido, no curso da tramitação do habeas corpus originário sobreveio o encerramento da instrução criminal, razão pela qual a matéria foi considerada superada, nos termos do enunciado nº 52 da Súmula do Superior Tribunal de Justiça, o qual dispõe que encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Destaque-se tratar-se de suposta organização criminosa voltada para a prática de roubos a bancos, com emprego de armas de fogo de grosso calibre, inclusive fuzis, e de explosivos, sendo que no episódio apurado relata-se tentativa de subtração de numerário de estabelecimento bancário, com troca de tiros com a polícia durante a fuga, invasão a residência, subtração de veículo dos moradores com a vítima sendo levada como refém. Ou seja, trata-se de delito gravíssimo, com participação de ao menos seis pessoas, compondo processo de evidente complexidade, de modo que a conclusão da instrução demonstra que vem recebendo impulso adequado.
+Diante do exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se. Intimem-se.
