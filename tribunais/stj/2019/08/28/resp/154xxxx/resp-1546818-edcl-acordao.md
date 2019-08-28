@@ -1,0 +1,60 @@
+EMENTA
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO EXTINTO INPS. VÍNCULO EMPREGATÍCIO RECONHECIDO POR SENTENÇA TRABALHISTA. TRANSMUDAÇÃO PARA O REGIME ESTATUTÁRIO. APLICABILIDADE DO ART. 243 DA LEI 8.112/1990. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. Na hipótese dos autos não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara e expressa, manifestou entendimento de que à época da edição da Lei 8.112/1990, estavam válidos os contratos de trabalho por prazo indeterminado entre o INAMPS e os Servidores substituídos, motivo pelo qual deveriam ter sido alcançados pelo regime jurídico único então estabelecido. Note-se que nem todos os substituídos estavam acorbertados pela estabilidade prevista no art. 19 do ADCT, como consignou o Magistrado singular (fls. 323). Não obstante, como anteriormente explicitado, todos, estáveis ou não, deveriam ter sido submetidos ao regime jurídico instituído pela Lei 8.112/1990, a partir de sua publicação, o que não ocorreu, já que foram enquadrados no regime da Consolidação das Leis do Trabalho. Assim, assiste razão ao ora recorrente quanto à necessidade de alteração do enquadramento dos Servidores em comento.
+3. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+4. Embargos de Declaração da UNIÃO rejeitados.
+
+AC RD O
+Vistos e relatados estes autos em que s o partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justi  a, por unanimidade, rejeitar os embargos de declara  o, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gon  alves, S  rgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos pela UNIÃO contra acórdão proferido por esta egrégia Primeira Turma, assim ementado:
+RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO EXTINTO INPS. VÍNCULO EMPREGATÍCIO RECONHECIDO POR SENTENÇA TRABALHISTA. TRANSMUDAÇÃO PARA O REGIME ESTATUTÁRIO. APLICABILIDADE DO ART. 243 DA LEI 8.112/1990. RECURSO ESPECIAL DO SINDICATO PROVIDO.
+1. É firme o entendimento do STJ de que, definido em decisão trabalhista transitada em julgado, que o Servidor ocupava emprego público quando da entrada em vigor da Lei 8.112/1990, impõe-se reconhecer o seu direito à transmudação para o regime estatutário, na forma do art. 243 da Lei 8.112/1990 (AgRg no REsp. 1.484.727/RN, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19.12.2014). No mesmo sentido: REsp. 1.009.437/MG, Rel. Min. ARNALDO ESTEVES LIMA, DJe 14.9.2009 e REsp. 967.506/SE, Rel. Min. ARNALDO ESTEVES LIMA, DJe 16.3.2009.
+2. In casu, conforme bem ressaltado pelo ilustre Ministro GURGEL DE FARIA, em esclarecedor voto vista proferido no caso em comento, deve-se considerar que, à época da edição da Lei 8.112/1990, estavam válidos os contratos de trabalho por prazo indeterminado entre o INAMPS e os Servidores substituídos, motivo pelo qual deveriam ter sido alcançados pelo regime jurídico único então estabelecido. Note-se que nem todos os substituídos estavam acorbertados pela estabilidade prevista no art. 19 do ADCT, como consignou o Magistrado singular (fls. 323). Não obstante, como anteriormente explicitado, todos, estáveis ou não, deveriam ter sido submetidos ao regime jurídico instituído pela Lei 8.112/1990, a partir de sua publicação, o que não ocorreu, já que foram enquadrados no regime da Consolidação das Leis do Trabalho. Assim, assiste razão ao ora recorrente quanto à necessidade de alteração do enquadramento dos Servidores em comento.
+3. Recurso Especial do Sindicato provido para para, cassando o aresto recorrido, reconhecer o direito dos substituídos de serem enquadrados no regime jurídico da Lei 8.112/1990, determinando o retorno dos autos à origem para que o Tribunal a quo analise os demais pleitos decorrentes do referido direito.
+2. Em suas razões, a parte embargante sustenta a inocorrência de transposição automática dos Servidores. Assevera que o julgamento exigiu interpretação constitucional, o que extrapola a competência do STJ. Pugna, por fim, pelo prequestionamento dos arts. 37, II da CF/1988 e 19, § 2o. do ADCT.
+3. É o relatório.
+EMENTA
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO EXTINTO INPS. VÍNCULO EMPREGATÍCIO RECONHECIDO POR SENTENÇA TRABALHISTA. TRANSMUDAÇÃO PARA O REGIME ESTATUTÁRIO. APLICABILIDADE DO ART. 243 DA LEI 8.112/1990. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. Na hipótese dos autos não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara e expressa, manifestou entendimento de que à época da edição da Lei 8.112/1990, estavam válidos os contratos de trabalho por prazo indeterminado entre o INAMPS e os Servidores substituídos, motivo pelo qual deveriam ter sido alcançados pelo regime jurídico único então estabelecido. Note-se que nem todos os substituídos estavam acorbertados pela estabilidade prevista no art. 19 do ADCT, como consignou o Magistrado singular (fls. 323). Não obstante, como anteriormente explicitado, todos, estáveis ou não, deveriam ter sido submetidos ao regime jurídico instituído pela Lei 8.112/1990, a partir de sua publicação, o que não ocorreu, já que foram enquadrados no regime da Consolidação das Leis do Trabalho. Assim, assiste razão ao ora recorrente quanto à necessidade de alteração do enquadramento dos Servidores em comento.
+3. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+4. Embargos de Declaração da UNIÃO rejeitados.
+
+EDcl no RECURSO ESPECIAL Nº 1.546.818 - SC (2015/0189423-5)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+EMBARGANTE
+:
+UNIÃO
+EMBARGADO
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+RAFAEL DOS SANTOS - [OAB]
+VOTO
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO EXTINTO INPS. VÍNCULO EMPREGATÍCIO RECONHECIDO POR SENTENÇA TRABALHISTA. TRANSMUDAÇÃO PARA O REGIME ESTATUTÁRIO. APLICABILIDADE DO ART. 243 DA LEI 8.112/1990. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. Na hipótese dos autos não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara e expressa, manifestou entendimento de que à época da edição da Lei 8.112/1990, estavam válidos os contratos de trabalho por prazo indeterminado entre o INAMPS e os Servidores substituídos, motivo pelo qual deveriam ter sido alcançados pelo regime jurídico único então estabelecido. Note-se que nem todos os substituídos estavam acorbertados pela estabilidade prevista no art. 19 do ADCT, como consignou o Magistrado singular (fls. 323). Não obstante, como anteriormente explicitado, todos, estáveis ou não, deveriam ter sido submetidos ao regime jurídico instituído pela Lei 8.112/1990, a partir de sua publicação, o que não ocorreu, já que foram enquadrados no regime da Consolidação das Leis do Trabalho. Assim, assiste razão ao ora recorrente quanto à necessidade de alteração do enquadramento dos Servidores em comento.
+3. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+4. Embargos de Declaração da UNIÃO rejeitados.
+1. De início, cumpre esclarecer que o art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+2. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos nos quais eivado de obscuridade, contradição ou omissão.
+3. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+4. Ressalte-se, por oportuno, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela. A respeito, confira-se:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIA. PORTARIA. EFEITOS RETROATIVOS. PAGAMENTO. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÕES. INEXISTÊNCIA. EFEITOS INFRINGENTES. INVIABILIDADE. MATÉRIA CONSTITUCIONAL. ANÁLISE. DESNECESSIDADE.
+1. A obtenção de efeitos infringentes, como pretende a embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja conseqüência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+2. No caso, inexiste qualquer vício a ser sanado. Da simples leitura do acórdão ora embargado, depreende-se, inequivocamente, que todas as questões apontadas como não enfrentadas foram, clara e explicitamente, abordadas.
+3. A solução da controvérsia posta à apreciação desta Superior Tribunal carece da análise dos dispositivos constitucionais apontados pela Embargante, na medida em que se funda exclusivamente na interpretação da legislação infraconstitucional, mormente na Lei 1.533/51 - Lei do Mandado de Segurança e na Lei 10.559/02 - Lei das Anistias.
+4. Embargos de Declaração rejeitados (EDcl no MS 11.621/DF, Rel. Min. LAURITA VAZ, DJU 23.10.2006).
+5. No presente recurso, busca a parte embargante a reapreciação do mérito da causa, não sendo esse, como visto, o escopo dos Aclaratórios.
+6. Com efeito, na hipótese dos autos não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara e expressa, manifestou entendimento de que à época da edição da Lei 8.112/1990, estavam válidos os contratos de trabalho por prazo indeterminado entre o INAMPS e os Servidores substituídos, motivo pelo qual deveriam ter sido alcançados pelo regime jurídico único então estabelecido. Note-se que nem todos os substituídos estavam acorbertados pela estabilidade prevista no art. 19 do ADCT, como consignou o Magistrado singular (fls. 323). Não obstante, como anteriormente explicitado, todos, estáveis ou não, deveriam ter sido submetidos ao regime jurídico instituído pela Lei 8.112/1990, a partir de sua publicação, o que não ocorreu, já que foram enquadrados no regime da Consolidação das Leis do Trabalho. Assim, assiste razão ao ora recorrente quanto à necessidade de alteração do enquadramento dos Servidores em comento.
+7. Com base nessas considerações, rejeitam-se os presentes Embargos de Declaração da UNIÃO.
+8. É o voto.
