@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE CONCESSÃO DE LIVRAMENTO CONDICIONAL. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. PRÁTICA DE FALTA GRAVE. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Agravo em Execução Penal n.º [CPF].
+Consta dos autos que o Paciente cumpre pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, tendo iniciado o cumprimento da reprimenda em 05/02/2016.
+Em 08/11/2018, o Juízo das Execuções Criminais da Comarca de Caxias do Sul/RS deferiu ao Apenado o pedido de livramento condicional (fls. 62/63).
+Irresignado, o Ministério Público interpôs Agravo em Execução, que foi provido pela Corte estadual para "revogar a decisão agravada no ponto em que deferiu livramento condicional ao apenado ALEX SANDRO FRANÇA [NOME], no PEC n. 147803-6, determinando a imediata expedição de mandado de prisão, a ser providenciado na origem" (fl. 99).
+Nas razões deste writ, a Impetrante sustenta, em síntese, que o Paciente preencheu os requisitos subjetivo e objetivo para a concessão do livramento condicional.
+Argumenta que o requisito subjetivo estaria "consubstanciado no atestado de conduta de carcerária, que ostenta uma conduta plenamente satisfatória" (fl. 5).
+Assevera que "eventual prática de falta grave não afeta o benefício do livramento condicional, pois tal benefício não guarda relação com o sistema progressivo de pena, logo, eventual reconhecimento da prática de falta grave, com a sanção de regressão de regime não alteram os requisitos do benefício do livramento condicional" (fl. 7).
+Requer o deferimento do pedido liminar para suspender os efeitos do acórdão impugnado. No mérito, pleiteia o restabelecimento da decisão que deferiu o livramento condicional.
+O pedido liminar foi indeferido (fls. 112-113).
+As informações foram prestadas (fls. 115-141).
+O Ministério Público Federal, em parecer de fls. 148-150, opinou pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+O Tribunal de origem, ao reformar a decisão que concedeu o livramento condicional ao Apenado, destacou que não estaria preenchido o requisito subjetivo, pois "há intercorrência, através de cometimento de falta grave, que ocasionou sua regressão de regime, o que comprova descumprimento das regras impostas para o cumprimento da pena e descaso com a execução da sanção recebida" (fl. 96).
+Como se percebe, no caso, não se constata a presença do requisito subjetivo para a concessão do livramento condicional, em razão da prática de falta grave - quando incluído no sistema de monitoramento eletrônico, o Paciente saiu "da zona de inclusão casa e bairro,  ..  tendo o apenado permanecido na condição de foragido do sistema prisional até o dia 04/09/2017" (fl. 20) -, de modo que o acórdão impugnado está em consonância com o entendimento desta Corte de Justiça, no sentido de que "a falta disciplinar de natureza grave, apesar de não interromper o prazo para a obtenção do livramento condicional, pode ser utilizada para justificar o não preenchimento do requisito subjetivo" e "para a concessão do livramento condicional, deve ser analisado o comportamento global do reeducando durante todo período de execução da reprimenda, de acordo com o art. 83, III, do Código Penal" (AgRg no AREsp 661.937/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/12/2016, DJe 15/12/2016).
+No mesmo sentido:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. AUSÊNCIA. QUATRO FALTAS GRAVES. DISCRICIONARIEDADE DO JULGADOR. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA VIA DO HABEAS CORPUS. AUSÊNCIA DE ARGUMENTOS APTOS A MODIFICAR A DECISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência deste Tribunal Superior firmou-se no sentido de que o cometimento de falta grave no curso da execução, conquanto não interrompa o lapso temporal para o livramento condicional (Súmula 441/STJ), pode impedir a concessão do benefício, por ausência do requisito subjetivo, nos termos do art. 83, III, do CP.
+II - Na hipótese vertente, as instâncias ordinárias indeferiram o pedido de livramento condicional com fundamento na ausência de requisito subjetivo, porquanto o paciente praticou quatro faltas graves, das quais duas foram de fuga e as outras duas, cometimento de novos crimes.
+III - Também é firme o posicionamento desta Corte Superior no sentido de que é inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para o livramento condicional ou outro benefício, uma vez que tal providência implica reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita. Precedentes.
+IV - No presente agravo regimental não foram impugnados os fundamentos da decisão agravada, nem tampouco foram apresentados argumentos aptos a modificá-la.
+Agravo regimental desprovido." (AgRg no HC 475.608/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/02/2019, DJe 19/02/2019.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
