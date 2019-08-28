@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535, II, DO CPC/1973. RESPONSABILIDADE CIVIL DA AUTARQUIA FEDERAL. VÍTIMA DE ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL. OMISSÃO DA AUTARQUIA FEDERAL EM FISCALIZAR ANIMAIS NA RODOVIA. MORTE DA VÍTIMA POR ANIMAL NA PISTA DE ROLAMENTO EM RODOVIA FEDERAL. FATO INCONTROVERSO. DEVER DE VIGILÂNCIA. RESPONSABILIDADE SUBJETIVA CARACTERIZADA. AGRAVO EM RECURSO ESPECIAL DA AUTARQUIA FEDERAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado na alínea a do art. 105, inciso III da Constituição Federal, interposto pelo DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT contra acórdão do egrégio TRF da 4a. Região, assim ementado:
+ADMINISTRATIVO. DANO MORAL. ACIDENTE DE TRÂNSITO. ANIMAL EM RODOVIA. FALHA NA PRESTAÇÃO DO SERVIÇO PÚBLICO. TEORIA DA CULPA ADMINISTRATIVA. QUANTUM INDENIZATÓRIO. ADEQUAÇÃO AO CASO. JUROS DE MORA.
+1. A responsabilidade por omissão estatal é subjetiva, baseada na culpa (ou dolo) da Administração, que deve restar provada pela vítima.
+2. Restou comprovado o nexo de causalidade entre a omissão da autarquia (má conservação da estrada) e a ausência de fiscalização da rodovia e o acidente de trânsito causador do dano.
+3. Adequado o quantum indenizatório aplicado, tendo em vista que o valor arbitrado a título de danos morais não pode culminar com o enriquecimento sem causa ou injustificado da parte atingida pelo ato ilícito (fls. 386/395).
+2. Os Embargos de Declaração opostos foram rejeitados (422/427).
+3. Nas razões do seu Apelo Nobre, o agravante sustenta afronta ao art. 535 do CPC/1973, aos arts. 186, 334, 393, parágrafo único, 927 e 945 do CC/2002, ao art. 82 da Lei 10.233/2001, sob os seguintes argumentos: (a) omissão do acórdão recorrida quanto ao tema: (b) ausência de nexo causa e culpa de terceiro; e (c) inexistência de responsabilidade a Autarquia Federal.
+4. É o relatório.
+5. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+6. No mais, referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Ainda, cuida-se de Ação Ordinária na qual as partes autoras, em síntese, requerem a condenação dos Entes Públicos ao pagamento de verba indenizatória por danos morais e patrimoniais experimentados pelo autor, em razão de acidente ocorrido em Rodovia Federal (fls. 386/396).
+8. Com efeito, ficou reconhecido que o acidente ocorreu em Rodovia Federal, em razão da presença de animal transitando na pista, situação que denotaria negligência na manutenção e fiscalização pelo DNIT, além de não haver nos autos quaisquer indícios de culpa exclusiva da vítima e de força maior.
+9. Desse modo, não há se falar no afastamento da Responsabilidade Civil do Ente Estatal, isso porque é dever estatal promover vigilância ostensiva e adequada, proporcionando segurança possível àqueles que trafegam pela rodovia.
+10. Assim, há conduta omissiva e culposa do Ente Público, caracterizada pela negligência, apta a responsabilizar o DNIT, nos termos do que preceitua a teoria da Responsabilidade Civil do Estado, por omissão. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE AUTOMOBILÍSTICO. ANIMAL NA PISTA. DEVER DE VIGILÂNCIA. OMISSÃO. RESPONSABILIDADE SUBJETIVA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de de Ação indenizatória, ajuizada pela parte ora agravada, com o objetivo de condenar o DNIT ao pagamento de indenização por danos morais e materiais, decorrentes de acidente automobilístico ocasionado por animal solto em rodovia federal.
+III. No caso, o Tribunal a quo afastou a responsabilidade civil do Estado na configuração do dano moral e material, em razão da falta de comprovação da culpa na conduta do DNIT, ao fundamento de que "a ocorrência de animais em faixa de rolamento da rodovia não pode traduzir, necessariamente, uma negligência do órgão estatal.
+IV. Contudo, o acórdão recorrido contraria a orientação desta Corte no sentido de ser dever estatal promover vigilância ostensiva e adequada, proporcionando segurança possível àqueles que trafegam pela rodovia, razão pela qual se verifica conduta omissiva e culposa do ente público, caracterizada pela negligência, apta à responsabilização da autarquia. Nesse sentido: STJ, REsp 1.198.534/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 20/08/2010; STJ, REsp 438.831/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, DJU de 02/08/2006.
+V. Agravo interno improvido (AgInt no AgInt no REsp. 1.631.507/CE, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.8.2018).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO - RESPONSABILIDADE CIVIL DO ESTADO - ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL - ANIMAL NA PISTA - VIOLAÇÃO DO ART. 535 DO CPC - INOCORRÊNCIA - LEGITIMIDADE DA UNIÃO E DO DNER - RESPONSABILIDADE SUBJETIVA - OMISSÃO - OCORRÊNCIA DE CULPA - PENSIONAMENTO - TERMO A QUO - REVISÃO DOS DANOS MORAIS - IMPOSSIBILIDADE - PROPORCIONALIDADE.
+(..).
+2. Legitimidade do DNER e da União para figurar no polo passivo da ação.
+3. Caracterizada a culpa do Estado em acidente envolvendo veículo e animal parado no meio da rodovia, pela ausência de policiamento e vigilância da pista.
+4. O termo a quo para o pagamento do pensionamento aos familiares da vítima é a data da ocorrência do óbito.
+5. Manutenção do valor fixado nas instâncias ordinárias por dano moral, por não se revelar nem irrisório, nem exorbitante.
+6. Recurso especial não provido (REsp. 1.198.534/RS, Rel. Min. ELIANA CALMON, DJe de 20.8.2010).
+11. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da Autarquia Federal.
+12. Publique-se. Intimações necessárias.
