@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL EM FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de adimplemento contratual em fase de cumprimento de sentença em razão de contrato de participação financeira.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por 0I S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/04/2019.
+Concluso ao gabinete em: 18/07/2019.
+Ação: adimplemento contratual em fase de cumprimento de sentença apresentado por [NOME] em face da OI S/A, em razão de contrato de participação financeira decorrente de aquisição de linha telefônica.
+Sentença: determinou a suspensão do feito até o trânsito em julgado do AGI 2016.00.2.019362-9, que analisa o cálculo do valor devido, consignou que a quantia de R$ 161.000,00, depositada judicialmente, pode ser levantada apenas após o término da fase de liquidação e indeferiu o pedido da agravante/executada de que fossem liberados os valores depositados nos autos para que o pagamento dos credores fosse feito de acordo com o processamento da recuperação judicial.
+Acórdão: negou provimento ao recurso interposto pela agravante e deu parcial provimento ao recurso do agravado, para determinar o levantamento imediato da quantia depositada judicialmente, nos termos da seguinte ementa:
+CIVIL E PROCESSO CIVIL. RECUPERAÇÃO JUDICIAL. GRUPO OI. LEVANTAMENTO DE VALORES DEPOSITADOS JUDICIALMENTE EM DATA ANTERIOR AO INÍCIO DA RECUPERAÇÃO JUDICIAL. TRÂNSITO EM JULGADO DA DECISÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VALOR INCONTROVERSO. POSSIBILIDADE DE LEVANTAMENTO IMEDIATO. PRECLUSÃO CONSUMATIVA. DECISÃO REFORMADA.
+1. O Juízo da recuperação judicial fixou exceção em que permite o levantamento de valores depositados judicialmente antes de 21/06/2016, quando forem depositados para pagamento dos credores ou nos casos em que já tenha havido a preclusão ou trânsito em julgado da sentença de embargos à execução ou da decisão final de impugnação ao cumprimento de sentença, antes da referida data.
+2. Há preclusão consumativa quando a parte interpõe dois recursos que tratam da mesma matéria e possuem a mesma finalidade.
+3. Recurso nº 0706603-52 não conhecido. Recurso nº 0704431-40 conhecido e provido. Recurso nº 0704903-41 conhecido e desprovido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1.022, II, do CPC; 6º, §2º, 47, 49, 59 e 61, da Lei 11.101/2005. Além de negativa de prestação jurisdicional, insurge-se, em síntese, contra a possibilidade de levantamento dos valores depositados, afirmando que o valor se tornou líquido após o deferimento da recuperação judicial, devendo ser pagos na forma prevista no plano de recuperação judicial devidamente aprovado pela Assembleia Geral de Credores, nos termos do art. 59 da Lei nº 11.101/05.
+Sustentou, ainda, que a parte recorrida deve habilitar seu crédito na lista geral de credores e respeitar a classificação dos créditos.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da violação do art. 1022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido assim decidiu, acerca dos supostos pontos omissos e contraditórios: "Embora a executada não tenha depositado espontaneamente o valor que se pretende levantar, a decisão de impugnação ao cumprimento de sentença transitou em julgado antes de 21/06/2016, o que tornou tal valor incontroverso antes do início da recuperação judicial, permitindo o seu levantamento de forma imediata, sem que seja necessária a sujeição ao Juízo da recuperação.
+Dessa forma, deve ser provido o recurso do exequente para que seja possível levantar a quantia depositada judicial antes de 21/06/2016, uma vez que, por ter se tornada incontroversa antes do início da recuperação judicial, enquadra-se na exceção prevista pelo Juízo do Rio de Janeiro para expedição de alvará" (e-STJ, fl. 385/386).
+"(..) Dessa forma, não há que se falar em competência do Juízo recuperacional, no caso em questão, dado que este mesmo Juízo permitiu o levantamento do valor depositado judicialmente que tenha se tornado incontroverso, sem que seja necessária a inclusão no plano e a remessa ao Juízo recuperacional" (e-STJ, fl. 434), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas.
+Recentemente foi proferida decisão no processo de recuperação judicial (Embargos no Agravo de Instrumento nº. 0034576-58.2016.8.19.0000 julgado pela 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro), em que esclarecidos os requisitos para a suspensão do processo, sendo agora possível a liberação de valores em alguns casos específicos: (a) Quando o depósito judicial/bloqueio tenha sido realizado pela OI S/A em data anterior a 21.06.2016 e, (b) Quando acontecer quaisquer das seguintes situações: (i) o depósito tenha sido feito com a expressa finalidade de pagamento pela OI S/A antes de 21/06/2016; (ii) já tenha ocorrido o trânsito em julgado de embargos à execução ou da impugnação ao cumprimento de sentença, antes de 21/06/2016, ou (iii) já tenha ocorrido a preclusão do incidente de impugnação ao cumprimento de sentença, antes de 21/06/2016.
+Dessa forma, alterar o decidido no acórdão impugnado acerca da presença dos requisitos para a liberação dos valores exige o reexame de todo o contexto fático e probatório valorado pelas instâncias ordinárias, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões CONHEÇO do agravo e, com fundamento no art. 932, III e V, a, do CPC/2015, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
