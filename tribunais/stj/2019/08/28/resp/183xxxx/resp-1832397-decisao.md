@@ -1,0 +1,23 @@
+DECISÃO
+RAFAEL THIAGO PEREIRA DA SILVA MOREIRA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 0000025-48.2018.8.26.0530.
+Depreende-se dos autos que o recorrente foi condenado a 7 anos e 4 meses de reclusão, no regime fechado, mais multa, pela prática do crime de tráfico de drogas.
+Nas razões do recurso especial, a defesa aponta ofensa ao art. 68 do Código Penal. Busca a compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal opinou pelo não conhecimento do recurso.
+Decido.
+O recurso é tempestivo e preenche os demais pressupostos de admissibilidade, motivos pelos quais conheço do especial e passo à análise da impugnação.
+I. Compensação entre confissão espontânea e reincidência - inviabilidade
+No caso, o Tribunal de origem manteve a pena imposta ao réu, com base nos seguintes fundamentos (fl. 624):
+Na segunda fase, presente a circunstância agravante da multirreincidência (fls. 250/252 - autos n. 0047157-57.2010.8.26.0506, 0034549-27.2010.8.26.0506), 0972163-70.2012.8.26.0506 as penas foram corretamente exasperadas em 1/3 (um terço), resultando em 07 (sete) anos e 04 (quatro) meses de reclusão, e 733 (setecentos e trinta e três) dias-multa.
+Não há que se falar na compensação entre a agravante da reincidência (especialmente porque o réu é multirreincidente) e a atenuante da confissão espontânea, vez que, nesse caso, a agravante da reincidência prevalece sobre a atenuante.
+Pela análise do trecho transcrito, observo que as instâncias antecedentes deixaram de proceder à compensação da atenuante da confissão em decorrência da multirreincidência do acusado.
+Acerca da compensação entre as circunstâncias agravante e atenuante reconhecidas, a matéria foi pacificada no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT. No primeiro, julgado em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" (destaquei).
+Ainda, a Terceira Seção do Superior Tribunal de Justiça afirmou a possibilidade de compensação entre a reincidência específica e a confissão, ao julgar o HC n. 365.963/SP (Rel. Ministro Felix Fischer, 3ª S., DJe 23/11/2017, grifei). Todavia, reafirmou, naquela oportunidade, não ser possível tal compensação quando se tratar de réu multirreincidente. No ponto, confira-se excerto do voto condutor do acórdão:
+Ocorre que ao se possibilitar a compensação entre as respectivas circunstâncias, denota-se que sequer foi anunciada ou mesmo ressalvada a aplicabilidade de quaisquer das espécies de reincidência, vale dizer, possibilitou-se, ainda que tacitamente, e para os referidos fins, que fossem viabilizados tanto o seu viés genérico, quanto o específico.
+Nesse sentido, não obstante a existência de arestos nesta Corte edificados em premissas diversas, entendo que a melhor hermenêutica a ser implementada na ocasião, até mesmo para se evitar descompasso e afronta à proporcionalidade, deverá ser aquela voltada à possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multirreincidência, conforme os precedentes emanados por este Tribunal Superior:  .. .
+Portanto, a Corte estadual decidiu em conformidade com o posicionamento adotado neste Superior Tribunal, razão pela qual não merece reparo o acórdão impugnado.
+II. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena após a prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Determino o envio de cópia dos autos ao Juízo da condenação para a imediata execução da pena imposta caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
