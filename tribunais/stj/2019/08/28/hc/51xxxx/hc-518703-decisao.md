@@ -1,0 +1,13 @@
+DECISÃO
+CLAYBSON CIPRIANO ROSA alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0002472-38.2017.8.26.0564.
+Depreende-se dos autos que o paciente foi condenado a pena de 2 anos e 11 meses de reclusão, no regime inicial fechado, mais multa, pela prática do crime previsto no art. 155, § 4º, I, do Código Penal. A sentença foi mantida na íntegra pelo Tribunal de origem.
+Nesta Corte, a impetrante busca, inclusive liminarmente, a substituição para o regime semiaberto, diante da ausência de justa causa para fixação do regime mais gravoso.
+Decido.
+O Juiz de primeiro grau, no que foi corroborado pela Corte estadual, exasperou a pena-base do paciente pelos maus antecedentes e pelas consequências do crime. Em que pese haver sido a reprimenda final 2 anos e 11 meses de reclusão, fixou o regime fechado, "uma vez que ele é reincidente específico e as circunstâncias judiciais não lhe são favoráveis" (fl. 18, grifei).
+Quanto à almejada modificação do regime inicial do paciente para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso dos autos, o réu, além de ser reincidente específico, possui os antecedentes e as consequências do crime avaliados como circunstâncias judiciais desfavoráveis, o que afasta a aplicação da Súmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
