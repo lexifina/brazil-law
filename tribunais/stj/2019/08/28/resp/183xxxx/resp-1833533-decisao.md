@@ -1,0 +1,54 @@
+DECISÃO
+Vistos.
+Trata-se de Recursos Especiais interpostos por RONCONI INDÚSTRIA E COMÉRCIO DE MÓVEIS E COLCHÕES LTDA contra acórdão prolatado, por unanimidade, pela 5ª Câmara do Tribunal de Justiça do Estado do Paraná no julgamento de apelação, assim ementado (fls. 132/136e):
+APELAÇÃO CÍVEL. HOMOLOGAÇÃO DE CESSÃO DE CRÉDITO. PRECATÓRIO REQUISITÓRIO. NATUREZA ALIMENTAR. ADVENTO DA EC 62/2009. AUSÊNCIA SUPERVENIENTE DE INTERESSE DE AGIR. EXTINÇÃO DO PROCEDIMENTO SEM RESOLUÇÃO DO MÉRITO (CPC, ART. 267, VI). HABILITAÇÃO NO POLO ATIVO DA EXECUÇÃO. ENUNCIADO N.º 13 DAS CÂMARAS DE DIREITO PÚBLICO DESTE TRIBUNAL. PEDIDO QUE DEVERÁ SER DIRIGIDO À PRESIDÊNCIA DESTA CORTE.
+RECURSO DESPROVIDO. De acordo com o Enunciado n.º 13 das Câmaras de Direito Público deste Tribunal (4. a e 5.a), "Com o advento da Emenda Constitucional n.º 62/2009, na cessão de crédito de precatório requisitório, a habilitação nos autos da execução não cabe mais ser requerida em primeiro grau de jurisdição, pois é mera conseqüência da aceitação da comunicação, desse ato jurídico, pela Presidência do Tribunal, sendo este o Órgão agora competente para avaliar toda a regularidade do procedimento de substituição do credor.
+Opostos embargos de declaração, foram rejeitados (fls. 154/156e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts. 567, II, do Código de Processo Civil de 1973.
+Alega que ajuizou pedido de homologação de cessão de direitos - procedimento de jurisdição voluntária - objetivando a aprovação de créditos que possui em face do Requerido, cedente do crédito descrito em precatório.
+Sustenta que, "ainda que não haja mais necessidade da homologação das cessões após o advento da Emenda Constitucional n. 62/2009, o que se pretende com a presente demanda é que a Cessionária possa participar da Execução da Sentença condenatória proferida na Ação Ordinária n. 19.047/1983, que tramitou na 1ª Vara da Fazenda Pública de Curitiba/PR, pois é legítima detentora de parte do precatório requisitório no 44.308/1998, ou seja, tem a cessionária o direito de promover a execução de seus créditos" (fl. 173e).
+Aponta que "o credor/cessionário tem o direito de substituir o cedente no processo de execução, até o limite de seus créditos" (fl. 173e), porquanto preenchidos todos os requisitos legais.
+Destaca que a "Emenda Constitucional de n. 62/2009 dispôs que as cessões restam convalidadas, não impedindo em momento algum que o cessionário se mantenha na proteção do seu direito de crédito como parte devidamente habilitada na execução de sentença da Ação originaria do crédito" (fl. 176e).
+Acrescenta que "os prejuízos são evidentes se o Cessionário não puder se habilitar na Ação que gerou o crédito, uma vez que estará sujeito à instabilidade processual e insegurança em relação ao exercício do seu direito de credito. A processabilidade, porém, pode ser desestabilizada a qualquer momento que surgir fato novo na demanda. Por isso se faz necessário o deferimento da habilitação da Cessionária na Execução de Sentença da Acão Ordinária de Indenização n. 19.047/1998, que tramitou na 1ª Vara da Fazenda Pública de Curitiba/PR" (fl. 176e).
+Com contrarrazões (fls. 267/279e), o recurso foi negado seguimento (fls. 303/305e), tendo sido interposto Agravo (fls. 309/342e).
+Em decisão de fls. 409/412e, determinei o retorno dos autos ao Tribunal de origem para que o recurso fosse processado como Agravo Regimental da decisão que negou seguimento ao Recurso Especial.
+O Sr. Vice-Presidente do Tribunal de Justiça do Estado do Paraná, monocraticamente, exerceu juízo de retratação e, passando a nova decisão de admissibilidade, admitiu o Recurso Especial (fls. 473/479e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Ao analisar a questão referente a cessão de crédito de precatório, o tribunal de origem assim consignou (fls. 132/136e):
+Como bem deixou consignado o Juiz Rogério Ribas no julgamento da apelação cível n.º 733.587-5, "Após o ajuizamento do presente pedido de homologação da cessão de crédito em 1.º grau, adveio a EC 62/09 que modificou o procedimento do art. 100 da Constituição Federal, no que toca às cessões de crédito de precatórios judiciais.
+Essa questão, envolvendo a cessão de tais créditos, alimentares ou não, está hoje pacificada nesta Corte, tanto que as Câmaras de Direito Público (4. a e 5.a, competentes para a matéria) publicaram o seguinte enunciado da sua jurisprudência dominante:
+Enunciado n. 13
+Com o advento da Emenda Constitucional n.º 62/2009, na cessão de crédito de precatório requisitório, a habilitação nos autos da execução não cabe mais ser requerida em primeiro grau de jurisdição, pois é mera conseqüência da aceitação da comunicação, desse ato jurídico, pela Presidência do Tribunal, sendo este o Órgão agora competente para avaliar toda a regularidade do procedimento de substituição do credor.
+(..)
+O enunciado fala por si, ficando evidenciada a falta de interesse de agir para postular homologação de cessão de crédito de precatório perante o juízo da execução, o mesmo se aplicando à pretensão de substituição processual (art. 567, II, CPC) ou de habilitação do novo credor; haja vista que tais medidas devem ser agora analisadas unicamente pela presidência do tribunal, ex vi das modificações trazidas pela EC 62/09 no art. 100 da Constituição Federal".
+Assim, na nova sistemática de pagamentos de precatórios inaugurada pela EC n.º 62/2009, que alterou o art. 100 da CF, o pedido de substituição processual (CPC, art. 567, II) deverá ser dirigido ao Presidente desta Corte.
+apelação.
+Nessas condições, impõe-se negar provimento à É como voto.
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 100 da Constituição da República.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014 - destaques meus).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014 - destaques meus).
+Por outro lado, no que se refere à questão da cessão de crédito em sede de execução de título judicial, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 567, II, do Código de Processo Civil de 1973.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 535 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
