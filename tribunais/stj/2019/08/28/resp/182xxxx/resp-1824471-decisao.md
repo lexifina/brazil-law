@@ -1,0 +1,36 @@
+DECISÃO
+MARCOS EDUARDO DA COSTA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0267163-76.2018.8.21.7000.
+Depreende-se dos autos que o recorrente foi condenado, em primeira instância, a 5 anos e 3 meses de reclusão, em regime inicial fechado, mais multa, pela prática de roubo simples - art. 157, caput, do Código Penal. (fls. 321-327).
+A Corte de origem negou provimento ao apelo defensivo e manteve a sentença condenatória em todos os seus termos (fls. 432-453).
+Nas razões do especial, a defesa impugna o acórdão recorrido, por violação do art. 67 do Código Penal, ao argumento de não haver sido compensada a atenuante da confissão com a agravante da reincidência, na segunda fase da dosimetria.
+Suscita divergência jurisprudencial em relação ao precedente do AgRg no AREsp n. 860.861/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 22/2/2017.
+Requer, assim, o provimento do recurso, a fim de que seja revista a dosimetria e reduzida a pena do acusado.
+Apresentadas as contrarrazões (fls. 475-482) e admitido o especial (fls. 532-541), veio o parecer do Ministério Público Federal (fls. 554-556), que opinou pelo seu provimento.
+Decido.
+O recurso é tempestivo e preenche os demais pressupostos de admissibilidade, motivos pelos quais conheço do especial e passo à análise da impugnação.
+I. Compensação entre a confissão espontânea e a reincidência - inviabilidade
+Acerca da compensação entre as circunstâncias agravante e atenuante reconhecidas, a matéria foi pacificada no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT. No primeiro, julgado em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" (destaquei).
+Ainda, a Terceira Seção do Superior Tribunal de Justiça afirmou a possibilidade de compensação entre a reincidência específica e a confissão, ao julgar o HC n. 365.963/SP (Rel. Ministro Felix Fischer, 3ª S., DJe 23/11/2017, grifei).
+Todavia, reafirmou, naquela oportunidade, não ser possível tal compensação quando se trata de réu multirreincidente. No ponto, confira-se excerto do voto condutor do acórdão:
+Ocorre que ao se possibilitar a compensação entre as respectivas circunstâncias, denota-se que sequer foi anunciada ou mesmo ressalvada a aplicabilidade de quaisquer das espécies de reincidência, vale dizer, possibilitou-se, ainda que tacitamente, e para os referidos fins, que fossem viabilizados tanto o seu viés genérico, quanto o específico.
+Nesse sentido, não obstante a existência de arestos nesta Corte edificados em premissas diversas, entendo que a melhor hermenêutica a ser implementada na ocasião, até mesmo para se evitar descompasso e afronta à proporcionalidade, deverá ser aquela voltada à possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multirreincidência, conforme os precedentes emanados por este Tribunal Superior:  ..
+In casu, ao fundamentar a sentença condenatória, o Magistrado de primeiro grau ressaltou: "o réu MARCOS EDUARDO ostenta quatro condenações definitivas transitadas em julgado anteriormente ao fato em análise, consoante certidão das fls. 189/192" (fl. 325).
+Na etapa de fixação da reprimenda, assim constou na sentença condenatória (fls. 325-326, grifei):
+ ..
+1) CIRCUNSTÂNCIAS JUDICIAIS: o réu registra maus antecedentes (fls. 189/192), pois, além da condenação que será considerada quando da valoração da reincidência, ostenta três sentenças condenatórias definitivas, a serem sopesadas nesta fase;
+ ..
+2. Circunstâncias legais: havendo concurso entre a circunstância agravante da reincidência e a circunstância atenuante da confissão espontânea, embora entenda ser possível a compensação, neste caso tenho que prepondera a agravante, considerando que se trata de reincidência especifica. Assim, elevo a pena em seis meses pela reincidência, diminuindo-a de três meses pela atenuante da confissão, resultando o apenamento definitivo, na ausência de outras causas modificadoras, em CINCO ANOS E TRÊS MESES DE RECLUSÃO.
+A Corte local, ao negar provimento ao apelo defensivo, assentou (fls. 449-450, destaquei):
+ ..
+Quanto à agravante pela reincidência, esta, nos termos do que preconiza o regramento inserto no artigo 67 do Código Penal, prepondera sobre a atenuante pela confissão espontânea, que, como adiantado, inclusive foi parcial, não englobando todas as circunstâncias as quais orbitaram o fato típico, outra não sendo a orientação adotada por este Órgão Fracionário" e pelo Pretório Excelso.
+Logo, descabido o pleito objetivando a redução da privativa de liberdade nesta segunda etapa dosimétrica ante a alegada prevalência da causa diminutiva prevista no artigo 65, inciso III, alínea "d" do Estatuto Repressivo.
+Destarte, agravada a corporal de seis meses e na sequência atenuada de três meses, queda-se a definitiva, ausentes outras moduladoras, em 05 (cinco) anos e 03 (três) meses de reclusão, mantido o regime expiatório inicialmente fechado em face das circunstâncias judiciais retro elencadas e da reincidência anotada pelo réu, nos termos do que dispõem normas contidas no artigo 33, § 2º, alínea "a" e §3º, do Estatuto Repressivo, motivo pelo qual, ademais, inalterado em face do tempo de prisão cautelar adimplido até a data da prolação do decreto singular.
+Pela leitura dos trechos destacados, verifica-se que o insurgente confessou parcialmente a prática delitiva. As instâncias antecedentes reconheceram a incidência da atenuante, mas não efetuaram a compensação integral com a agravante da reincidência, por ser específica.
+Entretanto, como bem observado pelo Juiz de primeiro grau, o acusado possuía pelo menos quatro condenações transitadas em julgado anteriores ao crime objeto deste processo e, inclusive, estava em cumprimento de prisão domiciliar quando praticou o delito em análise (fl. 325).
+Dessa forma, a Corte estadual decidiu em conformidade com o posicionamento adotado neste Superior Tribunal, razão pela qual não merece reparo.
+II. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena após a prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Determino o envio de cópia dos autos ao Juízo da condenação para a imediata execução da pena imposta caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
