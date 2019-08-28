@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Habeas Corpus n. 4007587-98.2019.8.24.0000).
+Consta dos autos que o paciente foi preso em flagrante, no dia 15/3/2019, pela suposta prática do crime tipificado no art. 155, §§ 1º e 4º, inciso I, do Código Penal.
+Em audiência de custódia, a prisão em flagrante foi convertida em preventiva.
+A defesa impetrou habeas corpus na origem, tendo a ordem sido denegada, em acórdão assim ementado (e-STJ fl. 83):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA EM TESE DOS CRIMES DE PREVISTO NO ARTIGO 155, §§ 1º E 4º, I, DO CÓDIGO PENAL. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PREENCHIDOS OS PRESSUPOSTOS DO ARTIGO 312 DO CPP. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. FUNDAMENTAÇÃO IDÔNEA. INVIBIABILIDADE DE SUBSTITUIÇÃO DA PRISÃO PELAS MEDIDAS CAUTELARES DO ART. 319 DO CPP, INSUFICIENTES, NO CASO, PARA A GARANTIA DA ORDEM PÚBLICA. ORDEM DENEGADA.
+A decisão que decretou a restrição de liberdade do paciente encontra-se amparada em fundamentação jurídica legítima, lastreada em elementos concretos depreendidos dos autos acerca das circunstâncias do caso, os quais revelaram a necessidade de se resguardar a ordem pública, haja vista o grande risco de reiteração delitiva, o que, por si só, impede a aplicação de medidas cautelares diversa da prisão.
+No Superior Tribunal de Justiça, a impetrante alega que a decisão que decretou a prisão preventiva do paciente carece de fundamentação concreta, "uma vez que justifica a prisão cautelar na cláusula geral da garantia da ordem pública, invocando, para tanto, os argumentos que externariam a suposta gravidade concreta do crime" (e-STJ fl. 7).
+Sustenta que o paciente está sendo processado por crime sem violência e grave ameaça contra a pessoa e que a reincidência não constitui um pressuposto para a prisão preventiva.
+Diante disso, pede, liminarmente, que seja expedido o competente alvará de soltura para restabelecer a liberdade do paciente.
+No mérito, pretende a declaração da "ilegalidade ocorrida, revogando-se a prisão preventiva do Paciente. Subsidiariamente, pugna pela adequação da prisão preventiva ao regime aberto, ou, ainda de forma subsidiária, seja determinada à autoridade coatora a prolação de outra decisão no que tange às medidas cautelares diversas da prisão" (e-STJ fl. 10).
+O pleito urgente foi indeferido (e-STJ fls. 95/97).
+Informações prestadas (e-STJ fls. 103/106 e 107/128).
+Parecer ministerial pelo não conhecimento do habeas corpus (e-STJ fls. 136/140).
+É, em síntese, o relatório.
+Conforme informações obtidas no sítio eletrônico do Tribunal de Justiça do Estado de Santa Catarina, sobreveio sentença condenatória em desfavor do ora paciente em 9/8/2019, proferida nos autos da Ação Penal n. 0002618-54.2019.8.24.0018, para condená-lo à pena de 3 anos, 2 meses e 12 dias de reclusão, em regime inicial semiaberto, como incurso no art. 155, §§ 1º e 4º, inciso II, c/c o art, 61, I, ambos do Código Penal, ocasião em que foi mantida a custódia preventiva.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (Sexta Turma, AgRg no RHC 50.857/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, julgado em 15/3/2016, DJe 29/3/2016).
+De mais a mais, não observo ser a hipótese de flagrante constrangimento ilegal infligido ao paciente, porquanto a prisão cautelar está devidamente motivada, conforme consignado pelo Tribunal de origem, no sentido de que "a manutenção da segregação faz efetivamente necessária para a garantia da ordem pública, tendo em conta o histórico criminal do indivíduo, especialmente em casos como o dos autos, que trata de paciente multirreincidente específico em crimes contra o patrimônio (inclusive praticados com violência e grave ameaça" (e-STJ fl. 87).
+Tal o contexto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
