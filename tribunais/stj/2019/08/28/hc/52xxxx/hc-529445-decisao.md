@@ -1,0 +1,11 @@
+DECISÃO
+O paciente, condenado, como incurso no art. 61 da Lei n. 9.605/1997, ao cumprimento de 1 ano de reclusão e multa, substituída a reprimenda privativa de liberdade por restritivas de direitos, alega ser vítima de constrangimento ilegal em decorrência da determinação de realização de audiência admonitória pelo Magistrado de primeiro grau, mesmo diante de manifesta ocorrência da prescrição.
+Neste writ, afirma a defesa que entre a data da condenação, ocorrida com a publicação do acórdão em janeiro de 2013 - o paciente foi absolvido em primeiro grau - e a data do trânsito em julgado, que se deu em 21/02/2017, haveria sido implementado o prazo prescricional de 4 anos, razão pela qual requer, liminarmente, seja sobrestada a audiência admonitória e, no mérito, reconhecida a prescrição da pretensão punitiva.
+Em que pesem os argumentos expostos pela defesa, o habeas corpus deve ser indeferido in limine. Deveras, ao julgar o AREsp n. 393.323/ES, referente ao caso sub examine, esta Corte Superior convalidou, integralmente, a decisão que inadmitiu o recurso especial da defesa, interposto contra o acórdão condenatório. Nessa hipótese, é firme o entendimento de que o trânsito em julgado retroage à data do último prazo para interposição do recurso especial, conforme se verifica, por exemplo, no seguinte precedente:
+ ..
+1. A Terceira Seção do STJ firmou entendimento de que a decisão que confirma o juízo negativo de admissibilidade do recurso especial possui natureza declaratória e, por consequência, produz efeito ex tunc, retroagindo a formação da coisa julgada à data de escoamento do prazo para a interposição de recurso admissível (EAREsp n. 386.266/SP).
+ ..
+3. Agravo regimental improvido (AgRg na PET nos EAREsp n. 682.654/RS, Rel. Ministro Nefi Cordeiro, 3ª S., DJe 4/5/2018, destaquei)
+Logo, embora o trânsito em julgado do acórdão proferido em agravo regimental, interposto contra a decisão que inadmitiu o recurso especial, haja sido o indicado pela defesa, há que se considerar, para efeitos da contagem do prazo prescricional, o último dia do prazo para a interposição do apelo extremo. Assim, observa-se que houve a interrupção do prazo ainda em 2013, de tal sorte que não transcorreu o lapso prescricional aventado.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
