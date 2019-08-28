@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado de próprio punho por [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Narra o paciente/impetrante, em síntese, que está sofrendo constrangimento ilegal praticado pelo Tribunal paulista em razão da demora injustificada do processamento e julgamento da revisão criminal por ele ajuizada no dia 30/11/2018, sem que houvesse qualquer movimentação até o presente momento.
+O paciente impetrou, originariamente, habeas corpus, com o mesmo fundamento, no Tribunal de origem, contudo, o Desembargador Relator Camilo Léllis proferiu decisão monocrática na qual não conheceu do mandamus lá impetrado, em razão de incorrer em indevida supressão de instância, determinando remessa dos autos a esta Corte Superior (e-STJ fls. 11/13).
+Pugna, ao que tudo indica, pela distribuição da Revisão Criminal n. 0049828-38.2018.8.26.0000 a uma das Câmaras Criminais do Tribunal de Justiça do Estado de São Paulo, a fim de que seja julgada imediatamente.
+O pedido liminar foi indeferido, determinando-se a remessa dos autos à Defensoria Pública do Estado de São Paulo (e-STJ fls. 21/22).
+As informações foram devidamente prestadas pela Presidência da Seção de Direito Criminal do TJSP (e-STJ fls. 27/64).
+O Ministério Público Federal opinou pelo não conhecimento do presente mandamus, em parecer assim ementado (e-STJ fl. 66):
+HABEAS CORPUS. ATO OMISSIVO DO TRIBUNAL. REVISÃO CRIMINAL. ALEGADO EXCESSO DE PRAZO NO JULGAMENTO.
+- Mora imputável à Defensoria Pública. Pelo não conhecimento.
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015 e STF, HC n. 113890, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Destarte, de início, incabível o presente habeas corpus substitutivo de recurso. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Busca-se na presente impetração o reconhecimento do excesso de prazo para o julgamento da revisão criminal pelo Tribunal a quo.
+Após a vinda das informações prestadas pela autoridade apontada como coatora, verifica-se que o ora paciente/impetrante foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de Marília/SP, nos autos da Ação Penal n. 0014104-47.2014.8.26.0344, pela prática do crime tipificado no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, e multa, sendo-lhe denegado o direito de recorrer em liberdade (e-STJ fls. 30/40).
+Irresignado, interpôs o recurso de Apelação Criminal perante a Corte local, contudo, em sessão de julgamento realizada no dia 9/8/2016, a Câmara Criminal negou provimento ao apelo defensivo, em acórdão assim ementado (e-STJ fl. 42):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - Pleito de absolvição ou desclassificação  Impossibilidade  Materialidade, autoria e destinação dos entorpecentes suficientemente comprovadas  Palavra dos agentes penitenciários às quais se confere relevo probatório  Condenação mantida - Pena que não reclama alteração  Regime mais brando que não se afigura socialmente recomendada  Sentença irreparável - Recurso desprovido.
+O acórdão transitou em julgado.
+Conforme foi apontado pela Presidência do TJSP, o ora paciente ajuizou Pedido Revisional, que foi recepcionado na Corte local em 29/11/2018, autuado sob o n. 0049828-38.2018.8.26.0000, sendo remetido, em 5/4/2019, à Defensoria Pública do Estado de São Paulo para oferecimento de razões (e-STJ fl. 28). Panorama que se mantém até a presente data.
+Ainda, consoante foi explicitado por esta relatoria, o paciente impetrou, em benefício próprio, o Habeas Corpus n. 0014913-26.2019.8.26.0000, pleiteando agilizar o julgamento da revisão criminal. O Desembargador Relator, em 9/4/2019, liminarmente, não conheceu do pleito formulado, nos termos do art. 168, § 3º, do Regimento Interno do Tribunal a quo, determinando a remessa dos autos a esta Corte Superior.
+Feitas tais considerações, em que pese o esforço argumentativo do impetrante, assevero que a irresignação defensiva não merece acolhimento, visto que a atual demora na tramitação da revisão criminal se dá principalmente em razão da inércia da Defensoria Pública estadual, que permanece com os autos para elaborar as razões da revisão criminal há mais de 1 ano.
+Nessa hipótese, não há que se falar em constrangimento ilegal, nos termos da Súmula n. 64 do Superior Tribunal de Justiça, in verbis: "Não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa."
+A propósito, em casos semelhantes, assim decidiu este Superior Tribunal de Justiça:
+PROCESSUAL PENAL. HABEAS CORPUS. REVISÃO CRIMINAL. EXCESSO DE PRAZO PARA JULGAMENTO. DEMORA IMPUTADA À DEFENSORIA PÚBLICA. SÚMULA 64 DO STJ. APLICAÇÃO.
+1. "Não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa" (Súmula 64 do STJ).
+2. Hipótese em que o paciente ingressou com revisão criminal de próprio punho perante o Tribunal de origem, tendo os autos sido remetidos à Defensoria Pública em 29/08/2014, sendo que, até o momento, eles ainda não foram devolvidos.
+3. Demonstrado que a atual demora no processamento do feito revisional é de responsabilidade exclusivamente da defesa, inexiste ilegalidade a reparar no writ.
+4. Habeas corpus denegado, com a recomendação ao Tribunal de origem de que renove a determinação ao juízo de primeiro grau para que tome as providências necessárias ao regular prosseguimento do feito
+(HC 299.590/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 1/10/2015, DJe de 15/10/2015)
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL AJUIZADA DE PRÓPRIO PUNHO PELO RÉU. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO. ABERTURA DE VISTA À DEFENSORIA PÚBLICA PARA APRESENTAÇÃO DAS RAZÕES DO PEDIDO. EVENTUAL DELONGA QUE PODE SER ATRIBUÍDA EXCLUSIVAMENTE À DEFESA. SÚMULA 64/STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Os prazos para a finalização dos atos processuais não são peremptórios, podendo ser flexibilizados diante das peculiaridades do caso concreto, em atenção e dentro dos limites da razoabilidade.
+2. Embora o art. 623 do CPP confira legitimidade ao condenado para o ajuizamento da revisão criminal, a determinação de abertura de vista à Defensoria Pública para apresentação das razões do pedido é providência adotada em benefício do requerente, com o objetivo de garantir a efetividade da ampla defesa e do contraditório.
+3. Inviável reconhecer como excessivo o decurso de pouco mais de um ano na tramitação da ação quando a delonga pode ser atribuída exclusivamente à Defensoria Pública, que ficou com os autos por 10 (dez) meses para oferecer as razões da revisional. Exegese da Súmula 64/STJ.
+4. Ordem denegada.
+(HC 300.331/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 20/11/2014, DJe de 15/12/2014)
+Ante o exposto, nego seguimento ao presente habeas corpus.
+Intimem-se.
