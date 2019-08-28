@@ -1,0 +1,32 @@
+DECISÃO
+LAERTE ROSA DOS SANTOS e [NOME] alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 0021050-95.2018.8.24.0038).
+Consta dos autos que os pacientes foram condenados à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Pleiteia a defesa, neste writ, a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, a alteração do regime inicial de cumprimento de pena e a substituição da pena.
+A liminar foi indeferida e, dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+I. Minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem manteve a não incidência do redutor pelos seguintes fundamentos (fl. 260-261, grifei):
+O magistrado singular deixou de aplicar a redutora pelos seguintes fundamentos (fl. 152):
+Na última etapa, não há como aplicar a causa de diminuição, dado que os acusados encontravam-se em plena e contínua prática do tráfico de drogas havia três semanas, conforme admitido aos policiais e por estes testemunhado em juízo, tanto que chamaram a atenção da vizinhança que formulou denúncia informal à polícia militar, e "se a prova contida nos autos evidencia a dedicação contínua do apenado à atividade criminosa, descabe a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06" (TJSC, AC nº 2009.043176-9, de Sombrio, Rei. Des. Sérgio Paladino) (fl. 152)
+A figura prevista no art. 33, § 4º, da Lei n. 11.343/06 autoriza a redução da pena de um sexto a dois terços "desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa", tratando-se de causa de diminuição de pena, a ser sopesada na terceira fase da dosimetria.
+ ..
+Na hipótese, como bem observado pelo sentenciante, é inviável a aplicação da minorante, pois, apesar do preenchimento dos outros três requisitos, ficou evidenciada a dedicação dos réus à atividade criminosa.
+Os policiais militares foram enfáticos no sentido de que, no momento da abordagem, ambos os recorrentes confessaram que estavam comercializando entorpecentes há 3 (três) semanas.
+Em total consonância com o relato dos agentes públicos é o interrogatório extrajudicial de [NOME], que informou que a mercancia dos entorpecentes, juntamente de Laerte, havia iniciado há 3 (três) semanas.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T, DJe 14/4/2014).
+Na espécie, constato que o Tribunal de origem manteve a não incidência da minorante, considerando que "apesar do preenchimento dos outros três requisitos, ficou evidenciada a dedicação dos réus à atividade criminosa", pois "os policiais militares foram enfáticos no sentido de que, no momento da abordagem, ambos os recorrentes confessaram que estavam comercializando entorpecentes há 3 (três) semanas" (fl. 260, grifei).
+Dessa forma, não identifico nenhum constrangimento ilegal no ponto em que, fundamentadamente, foi negada aos pacientes a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tendo em vista que foram apontados elementos concretos que indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+Ademais, imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que os pacientes se dedicariam a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa que, como cediço, é vedada na via estreita do habeas corpus.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+II. Regime inicial de cumprimento de pena
+Quanto à pretendida imposição de regime menos gravoso de cumprimento de pena, constato que o Tribunal de origem verifico que essa matéria não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Saliento que tal matéria deveria ter sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, por isso mesmo, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+III. Substituição da pena
+No tocante à pretendida substituição da pena privativa de liberdade por restritiva de direitos, entendo inviável a concessão do benefício, haja vista que os pacientes foram definitivamente condenados à reprimenda de 5 anos de reclusão, superior, portanto, ao limite objetivo previsto no inciso I do art. 44 do Código Penal.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
