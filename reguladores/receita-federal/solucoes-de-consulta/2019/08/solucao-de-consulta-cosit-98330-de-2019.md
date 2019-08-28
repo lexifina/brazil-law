@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98330, de 20 de agosto de 2019
+Assunto: Classificação de Mercadorias
+Mercadoria: Não configura sortido acondicionado para venda a retalho nos termos da RGI 3 b), conjunto de artigos variados, utilizado em práticas de laboratório no decorrer do curso de investigação profissional, constituído por: 1) câmeras nos formatos de botão, caneta, chaveiro e relógio, com vídeo AVI, acompanhadas de cabo USB e manuais do usuário; 2) detector de rádio frequência com bateria recarregável embutida, acompanhado de um adaptador de energia, fone de ouvido e manual do usuário; 3) cartão de memória de 32 GB acompanhado de um adaptador de cartão TF e tampa plástica; 4) lente telescópica para smartphones acompanhada de um clipe; 5) lupa e 6) maleta para transporte com cadeado. Segundo as regras do SH, cada componente segue o seu próprio regime de classificação.
+Dispositivos Legais: RGI-1 e RGI-3 b) da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.330-2019 .pdf]
