@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Apelação. Tráfico de drogas. Recurso defensivo postulando a absolvição por insuficiência probatória ou a desclassificação para o artigo 28 da Lei nº 11.343/2006, bem como a declaração de inconstilucionalidade dessa norma. Impossibilidade. Autoria e materialidade comprovadas. Existência de amplo conjunto probatório, suficiente para sustentar a condenação, nos moldes em que proferida. Réu beneficiado com a diminuição da pena na fração máxima de 2/3 (dois terços), pela aplicação do artigo 33, § 4o, da Lei nº 11.343/2006. Recurso ministerial buscando a redução para a fração de 1/3 (um terço). Possibilidade. Apreensão de razoável quantidade de cocaína, droga causadora de dependência química rápida e danos irreversíveis, que podem levar o usuário a óbito em pouco tempo de uso. Substituição da pena privativa de liberdade por duas restritivas de direitos. Impossibilidade. Circunstâncias da apreensão indicando que o benefício em questão não se mostra recomendável, alem de não ser suficiente para a reprovação c prevenção do crime. Cassação da benesse. Circunstâncias do caso concreto, bem esclarecidas nos autos, que não recomendam a fixação de regime prisional menos rigoroso. Alteração do regime inicial para o fechado. Recurso defensivo não provido. Recurso ministerial provido, expedindo-se mandado de prisão.
+Sustenta o recorrente violação do art. 33, §4º, da Lei 11.343/2006, ao argumento de que o Tribunal a quo não apresentou fundamento idôneo para não aplicar a redução da pena na fração máxima de 2/3. Aduz ser cabível a substituição da pena reclusiva por restritiva de direitos, bem como a imposição de regime inicial mais brando.
+Requer o provimento do recurso para que seja a pena reduzida na fração máxima prevista na Lei de Drogas, bem como seja fixado o regime inicial aberto e substituída a pena reclusiva por restritiva de direitos.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo parcial provimento do recurso.
+É o relatório.
+DECIDO.
+A pretensão aqui veiculada encontra-se prejudicada, tendo em vista o julgamento do Habeas Corpus 484.959/SP, de minha relatoria, sendo idênticos o pedido e a causa de pedir relativas.
+Ante o exposto, julgo prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
