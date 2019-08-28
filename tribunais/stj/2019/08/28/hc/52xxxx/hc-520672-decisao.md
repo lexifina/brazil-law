@@ -1,0 +1,26 @@
+DECISÃO
+WELLINGTON COSTA DOS REIS alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0064739-67.2017.8.19.0038).
+Depreende-se dos autos que o paciente foi condenado como incurso nos arts. 33 e 35, ambos c/c o art. 40, IV, todos da Lei n. 11.343/2006, à pena total de 9 anos e 4 meses de reclusão, no regime inicial fechado, mais multa.
+O impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que não ficou evidenciada a prática do crime previsto no art. 35 da Lei n. 11.343/2006, haja vista a ausência de estabilidade e a permanência do agente em uma sociedade criminosa.
+Requer a concessão da ordem, para que seja proclamada a absolvição do acusado em relação ao delito descrito no art. 35 da Lei n. 11.343/2006; aplicada a minorante prevista no § 4º do art. 33 da Lei de Drogas; fixado regime inicial menos gravoso e substituída a pena privativa de liberdade por restritiva de direitos.
+I. Associação para o tráfico de drogas
+O Tribunal de origem, ao condenar o paciente pela prática do crime descrito no art. 35 da Lei n. 11.343/2006, assim fundamentou (fls. 61-62):
+Por seu turno, assiste razão ao Ministério Público, quando afirma que restou comprovada a prática do crime de associação ao tráfico de entorpecentes.
+As circunstâncias do evento, notadamente o local da prisão, que é controlado pela facção criminosa autointitulada Terceiro Comando e tanto assim, que os agentes da lei foram recebidos a tiros, não deixam dúvida da inviabilidade de se efetuar o tráfico de entorpecentes no local sem que se esteja associado àquela facção criminosa.
+Do mesmo modo, restou cristalizada a incidência da majorante prevista no artigo 40, IV da Lei 1.343/06, na medida em que os comparsas do acusado se utilizavam de arma de fogo para garantirem a atuação ilícita do bando criminoso do qual aquele fazia parte, tanto assim que chegaram a trocar tiros com os agentes da lei que efetuaram a prisão de Wellington.
+Sendo assim, condeno o acusado também pela prática do crime previsto no artigo 35 c/c artigo 40, IV, ambos da Lei de Drogas.
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, o Tribunal de origem, após uma análise minuciosa dos elementos fático-probatórios colacionados aos autos, apontou elementos concretos que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhum constrangimento ilegal pelo qual estaria sendo vítima o paciente nesse ponto.
+Saliento, ademais, que qualquer outra solução que não a adotada pelas instâncias ordinárias implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível na via estreita do habeas corpus, de cognição sumária.
+II. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Porque mantida a condenação do paciente pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Isso porque a Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+Diante dessas considerações, fica mantido o afastamento da causa especial de diminuição de pena em comento.
+III. Regime inicial de cumprimento de pena e substituição da pena privativa de liberdade por restritiva de direitos
+Diante do insucesso da tese recursal que poderia levar à redução da reprimenda privativa de liberdade, ficam mantidos o regime inicial fechado, nos termos dos arts. 33, § 2º, "c", e 59, ambos do Código Penal, e a negativa de substituição da pena privativa de liberdade por restritiva de direitos, por ausência de preenchimento do requisito objetivo previsto no art. 44, I, do Código Penal.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
