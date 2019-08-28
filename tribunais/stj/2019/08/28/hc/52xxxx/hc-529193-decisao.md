@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente teve sua prisão preventiva decretada pela suposta prática do delito tipificado no art. 157, § 2º, II, c/c o art. 29, caput, do Código Penal.
+Irresignada, a defesa impetrou prévio habeas corpus perante o Tribunal de origem, que denegou a ordem em acórdão não ementado (e-STJ, fls. 22-25).
+Neste writ, o impetrante alega ausência de fundamentação idônea para a decretação da custódia cautelar, nos termos do art. 312 do Código de Processo Penal. Afirma que a segregação provisória é desnecessária e injusta, pois o paciente é primário, tem residência própria fixa e ocupação lícita.
+Requer, assim, a revogação da custódia preventiva ou sua substituição por medidas cautelares alternativas à prisão.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Na espécie, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal local manteve a custódia provisória do paciente nos seguintes termos:
+"O Paciente está sendo processado pela prática de roubo, agravado pelo concurso de agentes, porque no dia 19 de junho de 2019, por volta das 23:00 horas, na Rodovia SP 300, subtraiu em proveito comum, mediante grave ameaça, um celular avaliado em R$ 4.500,00, além da quantia de R$ 300,00, em espécie, de propriedade da vítima "M.C.M.". Consta que o pneu do carro da vítima furou e ela parou no acostamento, acionou a seguradora e enquanto aguardava atendimento, notou que alguém tentava abrir o porta malas. Acionou as travas eletrônicas, momento em que o Paciente, simulando estar armado, aproximou-se da janela do motorista e determinou que ela entregasse o celular, caso contrário atiraria.
+A vítima entregou o aparelho, mas o Paciente exigiu a entrega de dinheiro, arrebatando da vítima a quantia de trezentos reais. Posteriormente ele foi detido e a vítima o reconheceu como um dos autores do crime.
+Inicialmente anoto que a decisão atacada está fundamentada a contento, pois dela constam os motivos pelos quais a autoridade apontada como coatora considera que a constrição é necessária.
+No mais, há prova da materialidade e indícios promissores de autoria, e razões de ordem pública recomendam a manutenção do Paciente no cárcere, pois a sociedade deve ser privada do convívio de pessoa que investe violentamente contra o patrimônio alheio. E a custódia se justifica também por conveniência da instrução, pois deve-se garantir à ofendida que possa prestar seu relato em juízo com tranquilidade, sem percalços, o que a soltura do Paciente poderia não assegurar.
+Pontuo que a constrição se ampara em lei, pois a pena máxima cominada ao delito ultrapassa a quatro (4) anos (CPP, art. 313, I); na hipótese de condenação é pouco factível a fixação do regime inicial mais brando; e em razão do emprego de grave ameaça seria inviável a substituição da pena privativa de liberdade por restritiva de direitos, de modo que a custódia se mostra razoável e proporcional." (e-STJ, fls.23-24).
+Como é cediço, a teor do disposto no art. 312 do Código de Processo Penal, havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+Na hipótese, verifica-se que a custódia provisória está adequadamente motivada em elementos extraídos dos autos, tendo em vista a gravidade concreta da conduta delitiva, que evidencia a periculosidade do agente ao meio social. Segundo se verifica, o paciente, aproveitando-se da situação de vulnerabilidade da vítima, cujo carro teve o pneu furado em uma rodovia, na frente de seus dois filhos, em concurso com outro agente, subtraiu dinheiro e celular de elevado valor da vítima, mediante simulação de uso de arma de fogo.
+O Superior Tribunal de Justiça possui entendimento consolidado de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado.
+Sobre o tema, os seguintes precedentes:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. NULIDADE DO INTERROGATÓRIO POLICIAL POR AUSÊNCIA DE DEFENSOR. INOCORRÊNCIA. AUSÊNCIA DE PROVA DE AUTORIA E MATERIALIDADE DO DELITO. INADEQUAÇÃO DA VIA ELEITA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PRISÃO PREVENTIVA. FUNDAMENTOS. IMPUGNAÇÃO PREJUDICADA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA QUE AGREGA FUNDAMENTOS INÉDITOS PARA A CONSTRIÇÃO CAUTELAR. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e deste Superior Tribunal de Justiça. Contudo, ante as alegações expostas na inicial, afigura-se razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+ ..
+4. Esta Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença (ou pronúncia) superveniente possui o condão de tornar prejudicado o writ em que se busca sua revogação, desde que agregados novos e diversos fundamentos ao decreto prisional primitivo.
+Na espécie, o Magistrado pronunciante manteve a custódia cautelar em razão do modus operandi do delito, consistente no desferimento de golpes de faca contra a vítima por esta não haver remunerado o serviço de vigia de carros no dia dos fatos, circunstância não mencionada nas decisões pretéritas, constituindo fundamento adotado de forma pioneira por ocasião da pronúncia. Desse modo, diante da apresentação de fundamento original para a cautela, impõe-se reconhecer que a sentença de pronúncia constituiu novo título, que deve ser impugnado especificamente, de modo que resta esvaziado, no ponto, o objeto do presente writ.
+Habeas corpus não conhecido."
+(HC 362.452/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016).
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ROUBO E CORRUPÇÃO DE MENORES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. PERICULOSIDADE DO AGENTE. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - No caso, o decreto prisional se encontra devidamente fundamentado em
+dados concretos extraídos dos autos, que evidenciam que a liberdade do ora paciente acarretaria risco à ordem pública, tendo em vista o fundado receio de reiteração delitiva, diante da extrema periculosidade, evidenciada pelo modus operandi da conduta praticada, com o emprego de arma de fogo.
+(Precedentes).
+ ..
+Habeas corpus não conhecido."
+(HC 325.125/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2015, DJe 6/11/2015).
+
+Vale lembrar que as condições pessoais favoráveis do agente não têm o condão de, isoladamente, garantir a liberdade ao acusado, quando há, nos autos, elementos hábeis que autorizam a manutenção da medida extrema nos termos do art. 312 do CPP.
+Por fim, concluindo as instâncias de origem pela imprescindibilidade da custódia preventiva, resta clara a insuficiência e a inadequação da imposição de medidas cautelares mais brandas ao agente (HC 261.128/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 23/04/2013, DJe 29/04/2013).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
