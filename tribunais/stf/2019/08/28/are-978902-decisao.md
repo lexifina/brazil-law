@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça que deu parcial provimento a apelação do ora Recorrido, nos seguintes termos:
+    CONTRATO DE COBRANÇA E REVISIONAL DE CONTRATO - Fraude - Comprovação documental - Defesa específica e fundada - Inexistência - Pedido de produção de prova pericial - Idoneidade para permitir entendimento em sentido contrario - Ausência -Julgamento antecipado da lide – Cabimento: - Viola o princípio da Transparência e o dever de informação nas relações contratuais a falta de indicação, no contrato, da exata estruturação do curso a ser ministrado pela instituição de ensino contratada, além dos exatos critérios adotados em caso de rescisão contratual, para fins de cálculo dos valores devidos.
+    MULTA CONTRATUAL - Rescisão do contrato - Possibilidade - Valor não abusivo: - É devida a multa contratual decorrente da rescisão do contrato, livremente pactuada, quando fixada em valor que não se mostra abusivo.
+    RECURSO PARCIALMENTE PROVIDO.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 207, da Constituição da República, por violação do princípio da autonomia das instituições de ensino.
+    Vindos os autos ao Supremo Tribunal Federal, em uma primeira oportunidade, decidi monocraticamente pela aplicação do Tema 547, tendo em vista que, no julgamento do RE-RG 641.005, de relatoria do Min. Luiz Fux, esta Corte reconheceu a existência de repercussão geral da controvérsia constitucional relativa à afronta, ou não, ao princípio da autonomia universitária, em face da determinação de que o pagamento de mensalidades de instituições privadas de ensino superior seja proporcional à quantidade de disciplinas cursadas.
+    Os autos retornaram ao Tribunal de Justiça do Estado de São Paulo, cujo Presidente da Seção de Direito Privado proferiu a seguinte decisão (eDOC 8, pp. 20/21):
+    “O agravo em recurso extraordinário foi devolvido pelo Superior Tribunal de Justiça (sic) com fundamento no RE 641.005/PE para a aplicação da sistemática dos recursos repetitivos por este Tribunal de Justiça.
+    No paradigma mencionado, a Suprema Corte reconheceu a existência de repercussão geral da controvérsia constitucional assim resumida: ‘Pagamento de mensalidades de instituições privadas de ensino superior de forma proporcional à quantidade de disciplinas cursadas. Autonomia universitária. Principio da defesa do consumidor.”
+    No entanto, ante a constatação de não se encontrar o RE 641.005/PE apto para julgamento, uma vez que interposto contra acórdão proferido em sede de medida cautelar preparatória inominada, o que encontra óbice intransponível no enunciado da Súmula 735 desta Corte, que dispõe ‘Não cabe recurso extraordinário contra acórdão que defere medida liminar’, a Corte Suprema negou provimento àquela insurgência e determinou a requisição de recurso extraordinário em que se discuta a mesma controvérsia, para exame da possível substituição do leading case da repercussão geral.
+    Destarte, se o entendimento for no sentido de que este feito deve ser submetido ao tema supracitado, esta Presidência o indica desde já para que, eventualmente, possa vir a ser utilizado como tema 547 sem processo vinculado, com a devida vênia, determino a remessa destes autos ao colendo Supremo Tribunal Federal em razão da particularidade descrita nesta decisão, ficando este juízo à disposição para novo recebimento do processo em cumprimento à determinação superior, caso seja este o entendimento da Excelsa Corte.”
+    Com isso os autos retornaram ao STF.
+    É o relatório. Decido.
+    Verifica-se que o Ministro Luiz Fux determinou fosse substituído o paradigma referente ao Tema 547: ao invés do ARE 641.005/SP, o ARE ARE 798.908/SP, conforme se pode verificar no sítio eletrônico deste Tribunal.
+    Assim sendo, tendo sido modificado o paradigma, ratifico o entendimento segundo o qual se deve aplicar o Tema 547 ao caso em comento.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
