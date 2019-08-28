@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAGAMENTO DE GRATIFICAÇÃO. PRESCRIÇÃO. APRECIAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJGO, assim ementado (fls. 695-696):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. LEGISLAÇÃO. EFEITO CONCRETO. VIGÊNCIA LEGAL. TERMO INICIAL. PRESCRIÇÃO.
+FUNDO DE DIREITO. 1 Consoante entendimento pacificado da Corte Superior, a edição de norma unificando gratificações e alterando a forma de cálculo do reajuste caracteriza-se como ato único de efeito concreto, não havendo se falar em prestações de trato sucessivo com efeito de se afastar o prazo prescricional. Tendo a parte utilizado-se da via judicial após transcorrido o prazo quinquenal, previsto no art. 1º, do Decreto nº 20.910/32, prescrito se tem o seu direito de ação. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+A recorrente alega violação do artigo 4º do Decreto Lei 20.910/1932, ao argumento de que suspenso o prazo prescricional, enquanto não apreciado o processo administrativo inaugurado com o intuito de corrigir o pagamento da parcela em discussão. Defende que "a Lei n.º 88/2004 que assegurou o direito a incorporação das gratificações de representação reconhecidas em Processos Administrativos e Judiciais, ou seja, não haveria qualquer razão para atacar a norma, até porque assegurou o direito da recorrente no caso de deferimento da incorporação da gratificação de representação em processo administrativo"(fl. 708).
+Aponta, ainda, violação ao art. 189 do Código Civil, porquanto "a Lei n.º 88/2004 unificou a gratificação (VPAN), porém assegurou o direito aqueles que ingressaram com processos administrativos ainda pendentes de apreciação, ou seja, mesmo que protocolizados anteriormente teriam assegurado o direito após a vigência da lei", razão pela qual sequer teria se iniciado o prazo prescricional no presente caso, se considerado princípio da actio nata.
+Sustenta a existência de dissídio jurisprudencial, no que se refere ao curso do prazo prescricional, enquanto não apreciado o processo administrativo em que se discute o direito.
+Por fim, defende a aplicação ao caso da Súmula 85/STJ, na medida em que se discute o mero equívoco no pagamento de gratificação, e não o reconhecimento em si, tratando-se, portanto, de relação jurídica de trato sucessivo, sujeita a prescrição quinquenal, apenas.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 804-805.
+É o relatório. Passo a decidir.
+A pretensão recursal não merece prosperar.
+A Corte de origem, ao apreciar a controvérsia, assentou:
+ ..
+Com efeito, diferentemente do alegado pela apelante, a Lei Complementar do Município de Anápolis nº 88/2004 não se limitou a alterar a nomenclatura, ela unificou as gratificações e, principalmente, reformulou a forma de reajuste. A propósito, confira o seu o teor:
+ ..
+Desse modo, como bem ponderado pelo magistrado singular, a Lei Municipal nº 88/2004 trata-se de uma norma de efeitos concretos, pois ao unificar gratificações, instituindo uma nova, e, ainda, tendo reformulado o critério de reajuste, aboliu as vantagens preconizadas pelo Decreto nº 5.093/1993 e pela Lei nº 2.423/1997, e, de conseguinte, a partir da sua entrada em vigor, começou a fluir o prazo prescricional.
+ ..
+Lado outro, em relação à alegada suspensão do prazo prescricional em virtude do requerimento administrativo de revisão do valor da gratificação, infere-se que foi manejado em 26/06/2001, ou seja, em data anterior a Lei nº 88/2004. Logo, não estando o referido requerimento atacando a norma vigente, não é hábil a suspender o prazo prescricional.
+Ademais, em que pese a alegação de que no ano de 2004 foi formulado um outro requerimento administrativo de revisão do valor da gratificação, em atenção ao documento indicado, observa-se que ele nada mais é que o novo número de um processo administrativo já existente, eis que nele consta: "NR.PROCESSO: 104025871 Nº PROC. ANT.: 200115064".
+Na confluência do exposto, conheço do recurso de apelação cível, porém nego-lhe provimento, mantendo in totum, a sentença atacada, por estes e por seus próprios fundamentos.
+ ..
+Observa-se, dessa feita, que a Corte de origem aplicou ao caso entendimento consoante a jurisprudência firmada neste eg.STJ acerca do tema, segundo a qual "a supressão de vantagem de vencimentos ou proventos dos servidores públicos por força de lei configura ato único de efeitos concretos e permanentes, devendo este ser o marco inicial para a contagem prescricional" (AgInt no REsp 1.723.929/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 2/8/2019)
+No mesmo sentido:
+ADMINISTRATIVO. GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR.
+EXTINÇÃO POR LEI ESTADUAL. ATO ÚNICO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO FUNDO DE DIREITO.
+1. O STJ firmou o entendimento de que, tratando-se de ato de efeito concreto que suprimiu vantagem recebida pelo servidor, a contagem do prazo prescricional inicia-se a partir da sua publicação, não havendo falar em relação de trato sucessivo na espécie.
+2. No caso, a Gratificação de Habilitação Policial Militar - GHPM foi extinta pela Lei Estadual 7.145/1997. Assim, é de se reconhecer a prescrição do fundo de direito, nos termos do art. 1º do Decreto 20.910/1932, já que decorridos mais de cinco anos da data da edição daquele diploma legal, que suprimiu a vantagem pleiteada, e a data da distribuição da presente demanda. Precedentes: AREsp 514.626/BA, de minha relatoria, DJe 13.2.2015; AgRg no AREsp 305.547/BA, Rel.
+Ministra Eliana Calmon, Segunda Turma, DJe 6.9.2013; REsp 979.166/BA, Rel. Min. Laurita Vaz, DJ 5.10.2007.
+3. Agravo Interno não provido. (AgInt no AREsp 931.856/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/4/2017)
+Por outro lado, no que se refere especificamente a alegada violação dos arts. 4º do Decreto-lei 20.910/1932 e 189 do Código Civil, ao argumento de que o prazo prescricional estaria suspenso enquanto não apreciado seu requerimento administrativo, e que não teria se iniciado o lustro prescricional face a previsão do art. 1º da Lei Municipal 88/2004, infirmar a conclusão alcançada pela Corte de origem, pressupõe o reexame de direito local e do conjunto fático-probatório acostado aos autos, o que é vedado em sede de recurso especial, por força das Súmulas 280/STF e 7/STJ, respectivamente.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
