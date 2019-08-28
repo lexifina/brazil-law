@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito de competência estabelecido entre o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE AÇAILÂNDIA (MA), suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE IMPERATRIZ (SJ/MA), suscitado.
+O Ministério Público Federal bem sumariou os fatos que deram ensejo ao presente incidente (e-STJ fls. 765/767):
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Imperatriz - SJ/MA e o Juízo de Direito da 1ª Vara Criminal de Açailândia/MA nos autos da ação penal nº 3560-75.2016.401.3701, que apura supostos crimes de organização criminosa e roubo duplamente majorado a carga de caminhão dos correios.
+2. Narram os autos que [NOME] e demais corréus foram presos em flagrante pela Polícia Civil por supostos roubos a carga de caminhões. Por ocasião das investigações, suspeitou-se que estariam envolvidos com o roubo a caminhão dos Correios ocorrido em 14.6.2016. Com efeito, os autos foram remetidos ao Ministério Público Federal, que ofertou a denúncia por crimes previstos na Lei n. 12.850/2013 e pelo referido crime de roubo (art. 157, § 2º, I e II, do CP).
+3. Todavia, o juízo federal consignou que não há nenhuma ligação entre os presos e o roubo ao caminhão dos Correios, razão pela qual os absolveu sumariamente e, com efeito, declinou da competência, em relação aos demais delitos, para a justiça estadual. Veja-se (fls. 483/489):
+..Não vislumbro, contudo, ligação alguma entre os presos e aquela ação delituosa..Até há indícios de crime de "roubo de carga", mas não de carga pertencente à empresa pública federal.
+(..)
+Não foi apresentada nenhuma evidência de que tais mercadorias - em princípio roupas, acessórios e cosméticos femininos, além de suplementos HERBALIFE - estavam no caminhão roubado. Sequer uma caixa de encomenda dos Correios foi encontrada em nenhuma das residências vistoriadas. Nem mesmo o reconhecimento dos presos foi tentado.
+(..)
+Aliás, cabe lembrar que a Polícia Federal recusou o expediente inicialmente, mencionando expressamente que o crime não seria de competência federal.
+Tudo indica que a ação policial foi açodada e o que se vislumbra agora é a tentativa de justificá-la com a imputação de prática de crime contra os Correios sem nenhum elemento concreto de prova a sustentá-la..
+Ante o exposto, e decidindo em conjunto os feitos 2996-96.2016.401.3701 e 3560-75.2016.401.3701.. absolvo sumariamente os réus com relação à imputação do crime do art. 157 do Código Penal - roubo a caminhão dos Correios ocorrido em 14/06/2016. Por conseguinte, declino da competência para processamento da imputação de crimes da Lei 12.850/2013 em favor do juízo de direito de uma das Varas Criminais da comarca de Açailândia.
+4. Por sua vez, o Juízo de Direito da 1ª Vara Criminal Açailândia/MA nestes termos suscitou o presente conflito (e-STJ fls. 507/510):
+..No entanto, peço vênias para destacar haver o Juízo suscitado incorrido em evidente erro, na medida em que, ao absolver sumariamente os réus quanto ao crime de roubo dos caminhões dos correios, reconheceu sua competência, por via de conseqüência, para o julgamento do crime conexo descrito na denúncia, in casu, organização criminosa (art. 2o, § 2o, da Lei n. 12.850/2013)..
+Resta evidenciado que as provas relativas as infrações penais descritas na denúncia (roubo e organização criminosa) estão intrinsecamente relacionadas, ao ponto de, efetivamente, não ser possível cingir-lhes o julgamento, sob pena de incorrer em acentuado risco de deliberações judicial conflitantes.
+(..)
+Ainda que fosse possível reconhecer, isoladamente, a competência deste Juízo suscitante para o julgamento do delito relacionado à organização criminosa, o verbete sumular n. 122, do Superior Tribunal de Justiça, com aplicação analógica, determina a atração da competência para a Justiça Federal, in ver bis:
+COMPETE A JUSTIÇA FEDERAL O PROCESSO E JULGAMENTO UNIFICADO DOS CRIMES CONEXOS DE COMPETÊNCIA FEDERAL E ESTADUAL, NÃO SE APLICANDO A REGRA DO ART. 78, II, "A", DO CÓDIGO DE PROCESSO PENAL.
+Após, o Parquet se manifestou para que fosse declarada a competência do Juízo suscitado, em parecer que recebeu a seguinte ementa (e-STJ fl. 765):
+CONFLITO NEGATIVO DE COMPETÊNCIA. ORGANIZAÇÃO CRIMINOSA E ROUBO A CAMINHÃO DOS CORREIOS. CONEXÃO. PRORROGAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. ART. 81 DO CÓDIGO DE PROCESSO PENAL. - Pela competência do Juízo Federal da 1ª Vara de Imperatriz - SJ/MA.
+Às e-STJ fls. 771/780, o Tribunal Regional Federal da 1ª Região informa que deu provimento à apelação do Ministério Público Federal e determinou o retorno dos autos para o Juízo federal da 1ª Vara de Imperatriz para que prosseguisse a instrução processual, bem como solicitou ao Juízo da 2ª Vara Criminal de Açailândia (MA), o suscitante, a devolução dos autos físicos.
+Considerando que o conflito se estabeleceu entre o Juízo estadual e o Juízo comum federal e que supervenientemente foi admitida a competência da Justiça Federal, não há mais conflito a ser solucionado por esta Corte de Justiça, encontrando-se prejudicado o presente incidente.
+Ante o exposto, julgo prejudicado o conflito de competência.
+Publique-se. Comunique-se.
