@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de requerimento de concessão de efeito suspensivo a recurso especial fundado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+TÍTULO EXTRAJUDICIAL. Contrato de prestação de serviços. Execução. Pedido de exclusão da negativação. Inadmissibilidade. Anotação que apenas retrata a existência do processo de execução em desfavor da agravante, nada mais. A litigiosidade da dívida e mesmo a garantia prestada não conferem poderes especiais ao devedor de fazer desaparecer a anotação sobre a existência da execução. Recurso não provido.
+(fl. 391)
+A requerente, sustenta, em síntese, que "a decisão recorrida contraria posição firme deste C. STJ no sentido de que não pode o judiciário assentir seja registrado nome de devedor inadimplente no SERASA ou no SPC, a respeito de débitos que estão sendo discutidos em ação judicial" (fl. 7).
+Nas razões do especial, sustenta, além de dissídio jurisprudencial, que foi indevida a inscrição em cadastro de inadimplentes pois a parte credora "tinha conhecimento do trâmite em juízo dos Embargos à Execução que discutem justamente a exigibilidade ou não do crédito, bem como da caução prestada nos autos da Execução" (fl. 422).
+É o relatório.
+DECIDO.
+2. A parte requerente pretende seja atribuído efeito suspensivo a recurso especial ao argumento de que "a decisão recorrida contraria posição firme deste C. STJ no sentido de que não pode o judiciário assentir seja registrado nome de devedor inadimplente no SERASA ou no SPC, a respeito de débitos que estão sendo discutidos em ação judicial" (fl. 7).
+Importa consignar, no entanto, que em decisão monocrática por mim proferida no REsp n. 1.820.316 - SP, ao qual se pretende aqui a atribuição de efeito suspensivo, neguei provimento ao recurso sob o fundamento de que a moderna jurisprudência desta Corte Superior é no sentido de que a simples discussão judicial da dívida não é suficiente para obstaculizar ou remover a negativação do devedor nos bancos de dados, a qual depende da presença concomitante dos seguintes requisitos: a) ação proposta pelo devedor contestando a existência integral ou parcial do débito; b) efetiva demonstração de que a pretensão se funda na aparência do bom direito e em jurisprudência consolidada do STF ou do STJ e c) depósito da parcela incontroversa ou prestação de caução idônea.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, julgo prejudicado o presente requerimento.
+Publique-se. Intimem-se.
