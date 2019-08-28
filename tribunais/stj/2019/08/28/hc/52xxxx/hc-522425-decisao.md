@@ -1,0 +1,44 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. PRAZO TRIENAL. ART. 109, INCISO VI, DO CÓDIGO PENAL. POSSE DE FONE DE OUVIDO. FALTA GRAVE CONFIGURADA. DESCLASSIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS. CABIMENTO. FUNDAMENTAÇÃO CONCRETA. ORDEM DE HABEAS CORPUS DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n.º 9000895-84.2018.8.26.0482.
+Consta dos autos que o Juízo das Execuções Criminais homologou a falta grave, previamente apurada em procedimento administrativo disciplinar, consistente em desobediência às normas da unidade prisional e apreensão de objetos cuja posse seria proibida (um invólucro contendo um fone de ouvido, quatro invólucros contendo fios elétricos e dois invólucros contendo anotações diversas); determinou a redução de 1/3 (um terço) dos dias remidos e o reinício da contagem de prazos para fins de progressão de regime.
+Irresignada, a Defesa interpôs agravo em execução penal. O Tribunal de origem negou provimento ao recurso e manteve o reconhecimento da falta disciplinar (fls. 130-140).
+Neste writ, a Impetrante alega a prescrição da falta disciplinar, pois teria sido "cometida, supostamente, em 01.02.2018, enquanto que a sua homologação se deu somente em 22.11.2018. Logo, a falta foi homologada há mais de 180 dias após o seu cometimento" (fl. 6).
+Argumenta que "o comportamento irrogado ao reeducando não se subsume a qualquer das faltas graves previstas nos arts. 50 a 52 da Lei de Execução Penal, porquanto despido de qualquer periculosidade e ofensividade ao estabelecimento prisional" (fl. 9). Subsidiariamente, defende a desclassificação para outra de natureza média/leve.
+Também sustenta que, "acaso reconhecida a autoria e materialidade da falta, impõe-se que a perda dos dias remidos se dê no mínimo legal de 1 (um) dia, em razão das circunstâncias judiciais favoráveis do art. 57 da LEP" (fl. 17).
+Requer, liminarmente, seja afastada a "falta grave aplicada e suas consequências decorrentes da homologação" (fl. 18). No mérito, pleiteia o "cancelamento da falta ou sua desclassificação para outra de natureza média/leve; ou, subsidiariamente, a redução da perda dos dias remidos ao mínimo legal" (fl. 19).
+O pedido liminar foi indeferido à fl. 146.
+As informações foram prestadas às fls. 149-179.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 184-190).
+É o relatório.
+Decido.
+Inicialmente, verifico que o Tribunal de Justiça do Estado de São Paulo, ao julgar o agravo em execução interposto pela Defensoria Pública, ressaltou que "o prazo que incide na hipótese, consoante pacífica orientação pretoriana, é aquele previsto no artigo 109, inciso VI, do Código Penal - três anos -, o qual não foi ultrapassado entre a data do cometimento da falta (1º de fevereiro de 2018) e a r. decisão homologatória (22 de novembro de 2018)" (fl. 132).
+Conforme a jurisprudência uníssona desta Corte Superior, ante a ausência de disposição legal específica, aplica-se à falta grave praticada no curso da execução penal o prazo prescricional de 3 (três) anos, nos termos do art. 109, inciso VI, do Código Penal.
+A esse respeito, confiram-se os seguintes precedentes:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXTINÇÃO DA PUNIBILIDADE DA FALTA GRAVE PELA PRESCRIÇÃO. INOCORRÊNCIA. PRESCRIÇÃO TRIENAL. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CÓDIGO PENAL. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - Esta Corte Superior de Justiça possui o entendimento de que, em matéria de infração disciplinar de natureza grave no âmbito da execução penal, incide o lapso prescricional de 3 (três) anos, por aplicação analógica do art. 109, VI, do Código Penal, por ser o menor lapso prescricional previsto nesse artigo.
+III - No presente caso, entre a data da prática da falta grave (7/4/2015) e a sua homologação pelo eg. Tribunal de origem, em 26/10/2017, não ocorreu o implemento do lapso trienal previsto no art. 109, VI, do Código Penal, não havendo, portanto, que se falar em prescrição.
+Habeas corpus não conhecido." (HC 443.638/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/10/2018, DJe de 30/10/2018; sem grifos no original.)
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA GRAVE. PRESCRIÇÃO DA FALTA GRAVE. INOCORRÊNCIA. NÃO DECORRIDO LAPSO TEMPORAL SUPERIOR A TRÊS ANOS. AGRAVO PROVIDO.
+1. Nos termos do entendimento desta Corte, a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010.
+2. Não há falar em prescrição, porquanto não transcorrido o prazo prescricional de 3 anos entre a ocorrência da falta grave e a data da homologação pelo Juízo das execuções.
+3. Agravo regimental provido para, afastada a extinção da punibilidade pela prescrição, determinar a devolução dos autos ao Tribunal de origem para que prossiga no julgamento do agravo em execução interposto pela defesa." (AgRg no REsp 1.702.078/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe de 25/09/2018; sem grifos no original.)
+Dessa forma, a orientação exposta no acórdão atacado não divergiu do entendimento do Superior Tribunal de Justiça.
+De outra parte, não há ilegalidade no reconhecimento da falta disciplinar, pois, conforme precedentes desta Corte Superior, a posse de fone de ouvido no interior do presídio configura falta grave.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. INDEFERIMENTO LIMINAR DO MANDAMUS, TENDO EM VISTA A AUSÊNCIA DE MANIFESTA COAÇÃO ILEGAL À LIBERDADE DE LOCOMOÇÃO. IMPUTAÇÃO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. POSSE DE ACESSÓRIOS DE APARELHO DE TELEFONIA CELULAR. PRETENSÃO DE RECONHECIMENTO DE NULIDADE NO PAD. AUSÊNCIA DO APENADO À INQUIRIÇÃO DAS TESTEMUNHAS. PRESENÇA DA DEFESA TÉCNICA. PREJUÍZO. AUSÊNCIA. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. IMPROCEDÊNCIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+ ..
+4. A posse de fones de ouvido no interior do presídio configura falta grave, ou seja, é conduta formal e materialmente típica, portanto, idônea para o reconhecimento da falha e a aplicação dos consectários (AgRg no HC n. 419.902/SP, Ministro Felix Fischer, Quinta Turma, DJe 16/2/2018).
+5. Agravo regimental improvido." (AgRg no HC 438.835/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/11/2018, DJe 07/12/2018; sem grifos no original.)
+Ademais, "não há que se falar em atipicidade ou desclassificação da falta grave atribuída ao paciente para outra de natureza média ou leve, sobretudo porque isso demandaria o revolvimento de matéria fático-probatória, o que é inadmissível na via estreita do habeas corpus" (AgRg no HC 425.059/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+Por fim, quanto à perda de 1/3 (um terço) dos dias remidos, não observo nenhuma ilegalidade a ser sanada no presente writ. O Juízo Singular mencionou a gravidade dos fatos apurados - "(desobediência às normas da unidade prisional e apreensão de objetos cuja posse é proibida)" (fl. 79) -, bem como destacou que o Paciente "registra a prática de diversas faltas disciplinares, evidenciando a inadequação de comportamento e ausência de méritos para concessão de benefícios prisionais" (fl. 79).
+Nesse sentido, cito o seguinte precedente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. ALEGAÇÃO DE NULIDADE. CERCEAMENTO DE DEFESA NÃO EVIDENCIADO. ATIPICIDADE OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE DE INCURSÃO PROBATÓRIA EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Se as instâncias ordinárias reconheceram a desobediência, a desclassificação para falta média ou leve ou o reconhecimento da atipicidade da conduta demandariam reexame de provas, providência não admitida na via estreita do remédio constitucional.
+3. A referência à gravidade da falta disciplinar, bem como ao histórico prisional do sentenciado justificam a perda máxima dos dias remidos.
+4. Agravo regimental não provido." (AgRg no HC 411.670/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
