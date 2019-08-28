@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME] e outros, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, indicando como autoridade coatora seu respectivo Presidente, responsável pelo afastamento da incidência de juros moratórios e compensatórios anteriores ao vencimento de cada parcela do precatório submetido à moratória constitucional.
+O acórdão recorrido foi assim ementado (e-STJ, fl. 397):
+Mandado de Segurança. Impetração contra ato do Presidente do Tribunal de Justiça que deferiu o sequestro de parcelas vencidas, com exclusão dos juros moratórios e compensatórios anteriores ao vencimento de cada parcela. Ato que não se mostra ilegal ante o descabimento da incidência de juros moratórios e compensatórios durante o período referido no § 1º, do art., 100 da CF. No prazo da moratória constitucional a entidade de direito público não pode ser considerada em estado de inadimplemento obrigacional.
+Segurança denegada.
+Alega a parte recorrente, em síntese: i) inconstitucionalidade do art. 2º da EC 30/2000, ao instituir parcelamento decenal dos precatórios pendentes; ii) consequente mora estatal na data do vencimento original do precatório, que seria o final do exercício seguinte ao protocolo do ofício requisitório; iii) incidência da Súmula Vinculante 13, na medida em que não houve o pagamento tempestivo das parcelas anuais; e iv) violação da coisa julgada na fase executória.
+Contrarrazões às e-STJ, fls. 434-442.
+Parecer pelo desprovimento (e-STJ, fls. 472-477).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015, combinado com a Meta 2/CNJ/2019 - "Identificar e julgar, até 31/12/2019, pelo menos, 99% dos processos distribuídos até 31/12/2014 e 95% dos distribuídos em 2015" e art. 1.048, I, do CPC/2015 c/c 71 da Lei 10.741/2003).
+É o relatório.
+Consta das informações da autoridade impetrada (e-STJ, fls. 347-349):
+Conforme vem decidindo o Supremo Tribunal Federal, não há mora durante o prazo constitucional para o pagamento da parcela, de modo que apenas em caso de não ser observada a época própria das prestações é que será cabível a incidência dos juros,, pois esses pressupõem inadimplemento  ..
+Nesse panorama, devem ser afastados os juros moratórios e compensatórios em continuação, ou seja, anteriores ao vencimento de cada parcela.
+ ..
+Cabe igual raciocínio no exame do parcelamento introduzido pela EC 30/2000, haja vista que, segundo a Excelsa Corte, o art. 78 do ADCT, possui a mesma mens legis do art. 33 do mesmo Ato.
+Assim, computados os juros para a consolidação do valor devido na data da promulgação da EC 30/2000, aqueles não mais incidirão por ocasião do pagamento das parcelas sucessivas  .. .
+Nesse passo, o entendimento da origem converge com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. JUROS COMPENSATÓRIOS E MORATÓRIOS. ARTIGO 1º-E DA LEI N. 9.494/97.. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. PRECLUSÃO CONSUMATIVA AFASTADA. DEVOLUÇÃO DOS AUTOS PARA JULGAMENTO DO MÉRITO DO AGRAVO DE INSTRUMENTO.
+I - O feito decorre de agravo de instrumento interposto pela União contra a decisão que acatou requerimento de inclusão de juros de mora e compensatórios em precatório complementar, relativo a pagamento de indenização por desapropriação, não obstante o pagamento ter ocorrido no prazo estabelecido pelo artigo 100 da Constituição Federal.
+II - É desta Corte o entendimento de que "o instituto da coisa julgada não impede a correção de mero erro de cálculo, consubstanciado na (indevida) incidência de juros moratórios e compensatórios em continuação, tendo em vista que tal verificação não enseja incursão nos critérios jurídicos definidos no título exequendo" (RMS 33.904/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2011, DJe 09/06/2011; (AgInt no REsp 1439600/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016).
+III - O acórdão recorrido, assim, está em confronto com a jurisprudência desta Corte ao considerar o não conhecimento do agravo de instrumento, diante do fundamento de preclusão consumativa.
+IV - Também é entendimento assente desta Corte que "para fins de execução de sentença e expedição do primeiro precatório, é devida a inclusão de juros moratórios e compensatórios (quando previstos no título executivo). Neste caso, a incidência dos juros moratórios e compensatórios constitui questão acobertada pela coisa julgada. Nas contas relativas a precatórios complementares e precatórios submetidos à moratória prevista nos arts. 33 e 78 do ADCT, constitui impropriedade técnica a inclusão de juros moratórios e compensatórios de modo continuado. Nestas hipóteses, a inclusão (indevida) de juros moratórios e compensatórios constitui mero erro material e a sua correção não implica alteração do critério jurídico. Ressalva-se a incidência de juros de mora quando não observado o prazo constitucional de pagamento" (AgInt no REsp 1.439.600/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/11/2016). No mesmo sentido: AgRg no RMS 39.302/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/09/2014, DJe 30/09/2014; REsp 1645624/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 20/04/2017.
+ ..
+VI - Agravo interno provido.
+(AgInt no AREsp 1.170.566/RJ, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+O aresto impugnado também está em sintonia com a jurisprudência do STF firmada em julgamento de recurso submetido ao rito da repercussão geral. De acordo com a Tese 132/STF:
+O art. 78 do Ato das Disposições Constitucionais Transitórias possui a mesma mens legis que o art. 33 desse Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência desses nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente.
+Inexistem nos autos elementos suficientes a comprovar a ocorrência de mora no período do parcelamento.
+Ante o exposto, com fulcro no art. 34, XVIII, do RISTJ, nego provimento ao recurso.
+Publique-se. Intimem-se.
