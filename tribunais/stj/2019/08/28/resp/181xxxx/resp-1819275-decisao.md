@@ -1,0 +1,27 @@
+DECISÃO
+
+Trata-se de recurso especial interposto por ALAN STIEGLER BEM e ZENAIDE STIEGLER BEM, com respaldo nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 263):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR M O R T E TEMPUS REGIT ACTUM. EMENDA CONSTITUCIONAL Nº 41/2003. LEI Nº 10.887/2004. CÁLCULO DO BENEFÍCIO. VALOR INTEGRAL. INDEVIDO.
+1. Em atenção ao princípio tempus regit actum, a legislação regente dos benefícios previdenciários, inclusive os de caráter estatutário, é aquela vigente ao tempo da implementação dos requisitos para a sua concessão, que, no caso da pensão por morte, corresponde à data do falecimento do instituidor.
+2. Considerando que o instituidor da pensão faleceu em 09/07/2013, aplicáveis ao caso as regras da Emenda Constitucional nº 41, de 19 de dezembro de 2003 e da Lei nº 10.887/2004, segundo as quais o cálculo do benefício deve-se dar pela totalidade dos proventos ou da remuneração do de cujus, até o limite máximo estabelecido para os benefícios concedidos pelo Regime Geral da Previdência Social, acrescidos de setenta por cento (70%) da parcela excedente a este limite.
+Embargos declaratórios rejeitados (e-STJ fl. 290)
+No especial, os recorrentes sustentam a necessidade de revisão do valor da pensão por morte, de acordo com a Lei n. 11.358/2006, haja vista que a implementação do reajuste salarial da categoria a que pertencia o instituidor, promovida pelo referido diploma legislativo, deu-se antes do falecimento, tendo o benefício previdenciário sido calculado com base no valor defasado.
+Contrarrazões às e-STJ fls. 333/345.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à suposta infringência da Lei n. 11.358/2006, não houve a indicação precisa de enunciado normativo federal violado pelo acórdão a quo, tornando impossível o conhecimento do recurso especial em razão da formulação de teses recursais genéricas e deficientes. Incidência da súmula n. 284 do STF.
+Além disso, ressalvado o meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF.
+A propósito, os precedentes de ambas as Turmas que integram a Primeira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+ ..
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
