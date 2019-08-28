@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DEFEITO MECÂNICO EM VEÍCULO ADQUIRIDO ZERO QUILÔMETRO. DANOS MORAIS RECONHECIDOS NA INSTÂNCIA ORDINÁRIA. QUANTUM INDENIZATÓRIO FIXADO. PLEITO DE EXCLUSÃO DA RESPONSABILIDADE E REDUÇÃO DO MONTANTE INDENIZATÓRIO FIRMADO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial manejado pela CARGO VEICULOS LTDA em face da decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que negou seguimento ao recurso especial aviado pela alínea "a" do artigo 105, III, da Constituição Federal, contra acórdão assim ementado (fl. 441, e-STJ):
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DEFEITO NO MOTOR DE VEÍCULO ADQUIRIDO ZERO QUILÔMETRO ANTES DO PRAZO DA SEGUNDA REVISÃO - NEGATIVA DA CONCESSIONÁRIA EM CONSERTAR PELA GARANTIA - ALEGAÇÃO DE MAU USO DO VEÍCULO - NÃO COMPROVADO MAU USO DO BEM - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - DEVER DE INDENIZAR EXISTENTE - REDUÇÃO DO VALOR DA INDENIZAÇÃO - JUROS DE MORA A PARTIR DA CITAÇÃO E CORREÇÃO MONETÁRIA DO ARBITRAMENTO - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+Nas razões do recurso especial (fls. 469-482, e-STJ), a recorrente apontou violação dos seguintes dispositivos normativos: arts. 186, 927 e 944, todos do CC; e arts. 14, § 3º, e 18, §§ 1º e 2º, do CDC, sustentando, em síntese, que ficou constatado o uso inadequado do caminhão por parte do recorrido, o que gerou a legítima negativa da garantia de fábrica.
+Acrescentou, ainda, que o fato de possuir uma quantidade excessiva de óleo na tubulação de introdução de ar demonstra o descuidado do recorrido com o veículo, e corrobora com a tese de defesa de culpa exclusiva do mesmo no alegado problema verificado, que não restou provado na perícia, de maneira que a recorrente não poderia ser responsabilizada pelo conserto do veículo, tornando o pedido improcedente.
+Assinalou que, além da falta de ilicitude do ato praticado pela recorrente Cargo Veículos, tem-se também ser manifesta a ausência de prejuízo moral ao recorrido, motivo pela qual não merece guarida a condenação em danos morais.
+Ao final ponderou que, em caso de condenação, o quantum indenizatório deve ser reduzido em observância à extensão do dano efetivamente causado.
+Contrarrazões apresentadas às fls. 490-499, e-STJ.
+Sobreveio juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, às fls. 501-504, e-STJ, o que ensejou a interposição do presente agravo.
+É o relatório.
+Decido.
+A pretensão recursal não merece prosperar.
+Registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que interessa ao julgamento da presente controvérsia, a Corte local concluiu, com base na análise do conjunto probatório carreado aos autos, ser devido o pleito indenizatório perseguido, com base nas seguintes fundamentações do acórdão recorrido (fls. 349-350, e-STJ):
+Assim resta evidente que as requeridas tem o dever de reparar os defeitos do veiculo, eis que o mesmo encontrava-se em dia com suas revisões, estava no prazo legal de garantia, e não comprovaram que informaram ao requerente que este deveria realizai- revisões SEMANAIS, além das agendadas pela própria concessionária, ou que não deveria circular em estradas de terra ou ainda carregar materiais pesados.
+O fato é que a negativa do conserto do veículo causou ao requerente todos os dissabores por ela descritos na petição inicial.
+Restando comprovado o vício do produto dentro do prazo da garantia, clarividente o dever dos requeridos em saná-lo.
+Quanto ao dano moral, deve se desconsiderar que o veículo fora fabricado por renomada empresa, conhecida nacional e internacionalmente, da qual se espera, no mínimo, o atendimento às carências mais básicas de um cliente - um produto seguro, isento a intempéries, e um serviço de suporte eficiente, que o ampare quando dele efetivamente precisar.
+Em face das peculiaridades do caso, não há como afastar os danos advindos dos sentimentos de angústia, frustração, descontentamento e incômodos suportados pelo adquirente, que merece inequivocamente ser reparada.
+Desse modo, para afastar as premissas firmadas pela Corte local, no tocante à responsabilidade civil reconhecida, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO INDENIZATÓRIA. DANO MORAL. VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. INSTITUIÇÃO DE ENSINO. FALHA NA PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. CULPA DE TERCEIRO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. Não se verifica ofensa ao art. 535 do CPC/73, quando a prestação jurisdicional foi dada dentro dos lindes da controvérsia posta nos autos, tendo o Tribunal local examinado as questões necessárias à sua solução, ainda que de forma contrária à pretensão da parte.
+3. As conclusões do acórdão acerca da a falha na prestação de serviços educacionais prestados pela instituição de ensino, assim como a sua devida responsabilização pelo dano moral sofrido pelo recorrido, encontram-se firmadas nas circunstâncias fáticas delineadas nos autos, e a sua revisão, na via especial, esbarra no enunciado n. 7 desta Corte.
+4. O montante fixado a título de indenização por danos morais apenas comporta revisão em sede de recurso especial quando manifestamente exorbitante ou irrisório, o que não se observa no caso examinado.
+5. Agravo regimental não provido. (AgRg no AREsp 858.042/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+Por último, também é pacífico que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante.
+Na hipótese em relevo, a condenação em R$ 10.000,00 (dez mil reais) solidariamente entre as partes demandadas encontra-se em consonância com os parâmetros utilizados na jurisprudência desta Corte, de maneira que a sua revisão encontra óbice no teor da Súmula 7 do STJ.
+A propósito:
+RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. MILITAR. REDUÇÃO DA CAPACIDADE LABORATIVA. DANOS MORAIS E MATERIAIS. PENSIONAMENTO CIVIL. CULPA E NEXO CAUSAL. REVISÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FIXAÇÃO DO PERCENTUAL. ÚLTIMO SOLDO NA ATIVA. PRINCÍPIO DA REPARAÇÃO INTEGRAL DO DANO. PROPRIETÁRIO DO VEÍCULO. LEGITIMIDADE PASSIVA. LIQUIDAÇÃO POR ARTIGOS. DANO MORAL. INEXISTÊNCIA DE EXCESSO.
+(..)
+3. A presumida capacidade laborativa da vítima para outras atividades, diversas daquela exercida no momento do acidente, não exclui por si só o pensionamento civil, observado o princípio da reparação integral do dano.
+4. O soldo foi adotado como parâmetro para o cálculo da pensão civil. Sua fixação no percentual de 100% (cem por cento) encontra amparo no princípio da reparação integral do dano, sendo incabível a pretensão de incidirem descontos em virtude do afastamento da atividade militar, determinado pelo acidente causado pelo preposto da própria recorrente.
+5. O proprietário responde direta e objetivamente pelos atos culposos de quem conduzia o veículo e provocou o acidente, independentemente de ser seu preposto ou não, podendo a seguradora denunciada responder solidariamente, nos limites contratados na apólice. Precedentes.
+6. Se as partes, no curso do processo de conhecimento, não logram demonstrar a extensão de todo o dano causado à vítima, o ordenamento jurídico pátrio permite que se prove fato novo na liquidação por artigos, desde que não se promova indevida alteração do julgado, nos termos dos arts. 475-E e 475-G do Código de Processo Civil.
+7. A indenização por dano moral fixada pelo acórdão recorrido no valor de R$ 30.600,00 (trinta mil e seiscentos reais) não se apresenta abusiva ou excessiva, de modo a justificar a intervenção do Superior Tribunal de Justiça. Incidência, no caso, do óbice da Súmula nº 7/STJ.
+8. Recurso especial não provido. (REsp 1344962/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/08/2015, DJe 02/09/2015)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, fixo os honorários advocatícios recursais em R$ 500,00 (quinhentos reais), a ser suportado exclusivamente pela parte recorrente.
+Intimem-se.
