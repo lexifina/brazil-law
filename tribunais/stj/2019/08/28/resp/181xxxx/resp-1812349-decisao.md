@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado por Instituto de Previdência do Estado do Rio Grande do Sul, com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça gaúcho assim ementado (e-STJ, fl. 498):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. PROCESSO ELETRÔNICO. FORMAÇÃO DEFICIENTE. OPORTUNIZADA A CORREÇÃO. NÃO ATENDIMENTO. AUSÊNCIA DE IDENTIFICAÇÃO DA DOCUMENTAÇÃO ESSENCIAL AO JULGAMENTO. REQUISITO DE ADMISSIBILIDADE. DESCUMPRIMENTO. APLICABILIDADE DO ARTIGO 932 DO CPC/15. PODERES DO RELATOR. PRELIMINAR AFASTADA. INCIDÊNCIA DE MULTA. ART. 1.021, § 4º, CPC/15.
+1. Preliminar afastada. É possível o julgamento monocrático do agravo de instrumento, pelo princípio da prestação jurisdicional equivalente, quando há orientação sedimentada na Câmara sobre a matéria, de maneira que, levada a questão ao órgão colegiado, seria confirmada a decisão do relator.
+2. O juiz não está obrigado a se manifestar acerca de todos os artigos de lei articulados na demanda, bastando que a decisão proferida esteja devida e coerentemente fundamentada.
+3. Os argumentos trazidos no recurso não se mostram razoáveis para reformar a decisão monocrática.
+4. Imposição de multa de 1% sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/15.
+PRELIMINAR AFASTADA. NEGADO PROVIMENTO AO RECURSO.
+Embargos de declaração rejeitados.
+Em suas razões, o insurgente aponta ofensa ao disposto no art. 1.017, I, II e II, do CPC/2015, ao fundamento de que todas as peças obrigatórias foram juntadas e identificadas no recurso de agravo de instrumento apresentado na origem, em estrita obediência ao que dispõe a legislação processual civil, bem como que o Tribunal de origem fez exigências não estabelecidas em lei e que não poderiam ensejar o não conhecimento do recurso.
+Ato contínuo, sustenta existência de violação do art. 1.021, § 4º, do CPC/2015, visto que a multa processual determinada pela interposição de agravo interno carece da respectiva fundamentação, impedindo o direito da parte ao recurso.
+Contrarrazões apresentadas.
+É o relatório.
+De início, no que tange à suscitada afronta ao art. 1.017, I, II e II, do CPC/2015, frise-se que a Corte regional se utilizou dos fundamentos previstos justamente no Código de Processo Civil vigente para inadmitir o recurso, e não na respectiva legislação sobre processo eletrônico, de forma que o referido dispositivo serviu de base, conforme o que prevê o seu § 3º, para não conhecer do agravo, não cabendo, assim, afirmar que tal comando normativo teria sido violado.
+Desse modo, não é possível conhecer do recurso especial nesse ponto, visto que o dispositivo não possui comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Incidência da Súmula 284/STF.
+No que tange à assertiva de malferimento ao art. 1.021, § 4º, do CPC/2015, entretanto, a irresignação merece prosperar.
+De fato, a jurisprudência desta Corte Superior de Justiça é firme no sentido de que a aplicação da multa prevista no art. 1021, § 4º, do CPC/2015, anteriormente instituída no art. 557, § 2º, do CPC/1973, não constitui mera decorrência do não provimento do recurso, ou seja, não pode incidir automaticamente, pois exige base coerente com as nuances circunstanciais que o caso concreto apresenta, o que não é a hipótese dos autos, dado que o acórdão recorrido determinou a incidência da multa sem a respectiva fundamentação.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MULTA DO ART. 557 DO CPC/1973. EXCLUSÃO. IPVA. TRIBUTO SUJEITO A LANÇAMENTO DE OFÍCIO. PRESCRIÇÃO. TERMO A QUO. VENCIMENTO.
+1. Com relação à multa prevista no art. 557 do CPC/1973, o Superior Tribunal de Justiça fixou a compreensão de que " ..  a penalidade não é uma decorrência automática do não provimento do agravo interno, sendo necessário demonstrar, por decisão fundamentada, a inadmissibilidade ou improcedência do recurso". Precedentes.
+2. Esta Corte Superior, " ..  pela sistemática dos recursos repetitivos, firmou entendimento de que "a notificação do contribuinte para o recolhimento do IPVA perfectibiliza a constituição definitiva do crédito tributário, iniciando-se o prazo prescricional para a execução fiscal no dia seguinte à data estipulada para o vencimento da exação".
+3. Recurso especial parcialmente provido.
+(REsp 1.719.382/SP, de minha relatoria, SEGUNDA TURMA, DJe 20/8/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, §4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+1. "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada." (AgInt no AREsp 1140606/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+2. Agravo interno a que se nega provimento.
+ (AgInt no AREsp 1.212.086/RR, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/5/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15.
+1.1. Na hipótese, verifica-se omissão no acórdão embargado quanto ao pleito de aplicação da penalidade prevista no art. 1.021, § 4º, CPC/15, deduzida na impugnação ao agravo interno.
+1.2. Conforme entendimento da Segunda Seção desta Corte Superior, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/15 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória  .. ". (cf. AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016).
+1.3. In casu, não se verificou conduta abusiva ou protelatória imputável à agravante, razão pela qual não se fazia aplicável a aludida sanção.
+2. Embargos de declaração acolhidos, sem efeitos infringentes, para sanar a omissão apontada.
+(EDcl no AgInt nos EDcl no AREsp 1.049.346/GO, Rel. Min. MARCO BUZZI, QUARTA TURMA, DJe 18/09/2018)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, nos termos da fundamentação, para determinar a exclusão da multa prevista no art. 1.021, § 4º, do CPC/2015, estabelecida pelo acórdão recorrido, mantendo-se todos os seus demais termos.
+Publique-se. Intimem-se.
