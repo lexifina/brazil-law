@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 151):
+EMENTA ADMINISTRATIVO. MILITAR. LICENÇA ESPECIAL NÃO GOZADA. CONVERSÃO EM PECÚNIA. DESCABIMENTO. REFORMA DA SENTENÇA.
+1. Caso em que o autor, militar da reserva remunerada, pleiteia o direito à conversão, em pecúnia, de licença especial não gozada nem computadas no ato de reforma, tendo o magistrado singular deferido o pedido;
+2. O servidor que adquiriu licença-prêmio tem direito de não trabalhar durante o período respectivo e não direito à indenização em dinheiro. A conversão da licença-prêmio em pecúnia só é prevista para a hipótese em que o pedido de concessão do gozo da mesma tenha sido indeferido administrativamente, em razão da necessidade do serviço, o que não ocorreu na hipótese vertente.
+3. Apelação provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 180/182).
+A parte recorrente aponta dissídio jurisprudencial e violação aos arts. 33 da MP nº 2.215-10/2001; 67 e 68 da Lei nº 6.880/80; e 884 e 885 do Código Civil. Sustenta o direito à conversão das licenças especiais não gozadas e não computadas em dobro para fins da inatividade, sob pena de enriquecimento ilícito da Administração.
+Reforça que "o recorrente não pode ficar sem contrapartida financeira pelos 12 meses que trabalhou, fazendo jus a conversão em pecúnia da licença especial não aproveitada durante a atividade, nem computada para fins de aposentadoria, SOB PENA DE ENRIQUECIMENTO SEM CAUSA DA UNIÃO, nos termos do art. 33, § único, da MP 2.215/2001" (fl. 202).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Com efeito, é de se constatar que o acórdão recorrido afastou-se da jurisprudência deste Superior Tribunal, firme no sentido de ser possível a conversão em pecúnia da licença-prêmio não gozada ou não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da administração pública.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA E NÃO CONTADA PARA FINS DE
+APOSENTADORIA. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. 1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. "É firme a orientação no STJ no sentido de que é devida ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada, ou não contada em dobro para aposentadoria. Tal orientação não é incompatível com o art. 7º da Lei 9.527/97, já que, ao prever a conversão em pecúnia de licença prêmio não gozada no caso de falecimento do servidor, esse dispositivo não proíbe, nem exclui a possibilidade de idêntico direito ser reconhecido em casos análogos ou fundados em outra fonte normativa." (AgRg no Ag 1.404.779/RS, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 25.4.2012).
+3. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1647115/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/03/2017, DJe 25/04/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. SÚMULA 568/STJ. CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO NÃO USUFRUÍDA E NÃO CONTADA EM DOBRO. POSSIBILIDADE. ADICIONAL DE TEMPO DE SERVIÇO. EXCLUSÃO DO PERÍODO DE CONVERSÃO E COMPENSAÇÃO DOS VALORES RECEBIDOS.
+1. Inexiste violação do art. 535 do CPC/73 quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Nos termos da jurisprudência pacífica do STJ, é devida ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada, ou não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da Administração.
+3. No caso dos autos, consignou o Tribunal de origem de que a contagem em dobro do tempo de serviço dos períodos de licença-especial não gozados pelo autor, a despeito de aumentar o percentual concedido a título de adicional de tempo de serviço na forma do art. 30 da MP 2.215-10/2001, não exclui o direito à conversão em pecúnia da licença-especial. Isso porque os dois períodos de licença-prêmio a que o autor fazia jus não influenciaram o tempo de serviço necessário à jubilação, já que mesmo sem a conversão já teria tempo suficiente para passar à inatividade.
+4. Nesse contexto, não há que falar em concessão de dois benefícios ao autor pela mesma licença especial não gozada, quais sejam, a contagem em dobro de tempo de serviço e conversão em pecúnia.
+5. O suposto locupletamento do militar foi afastado pela Corte regional que ressalvou que, tendo o autor optado pela conversão em pecúnia da licença-especial, deve ser o respectivo período excluído do adicional de tempo de serviço, bem como compensados os valores já recebidos a esse título. Agravo interno improvido.
+(AgInt no REsp 1570813/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/06/2016, DJe 14/06/2016).
+RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO EM PECÚNIA DA LICENÇA-PRÊMIO NÃO GOZADA. POSSIBILIDADE. PRINCÍPIO QUE VEDA O ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II. O acórdão recorrido encontra-se em harmonia como a jurisprudência desta Corte, segundo a qual é cabível a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para aposentadoria, independentemente de requerimento administrativo, sob pena de configuração do enriquecimento ilícito da Administração.
+III. Negado provimento ao Recurso Especial.
+(REsp 1588856/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/05/2016, DJe 27/05/2016)
+ANTE O EXPOSTO, dou provimento ao recurso especial, para restabelecer a sentença de fls. 38/41. Ônus sucumbenciais invertidos.
+Publique-se.
