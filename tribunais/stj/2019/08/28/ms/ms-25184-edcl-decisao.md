@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 232):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. FATOR ACIDENTÁRIO DE PREVENÇÃO - FAP. ILEGITIMIDADE DO MINISTRO DE ESTADO DA ECONOMIA. IMPOSSIBILIDADE DE MANDADO DE SEGURANÇA CONTRA LEI EM TESE. APLICAÇÃO DA SÚMULA 266/STF. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. MANDADO DE SEGURANÇA DENEGADO.
+O embargante sustenta que a decisão contém os seguintes vícios: (a) "Ao que parece, apesar da boa leitura do relator em relação à norma acima, revela-se contraditória a decisão proferida ao considerá-la "lei em tese", quando na verdade, essa norma possui uma concretude imediata e produz efeitos diretos à empresa embargante" (fl. 242); (b) "De fato, se a norma estabelece que uma empresa terá direito ao reenquadramento do SAT se lhe houver dados estatísticos favoráveis, temos que a aplicação da norma é direta e incidirá sobre aquela empresa especificamente" (fl. 243); e (c) "Temos, pois, configurada a contradição da decisão, que deverá merecer a reanálise pelo ilustre relator: a decisão reconhece os efeitos práticos da norma, que eleva imediatamente o tributo da empresa, mas a toma por "lei em tese"." (fl. 245).
+Com impugnação.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada decidiu, em síntese, que é "impossível justificar a presença de Ministro de Estado como autoridade coatora de Mandado de Segurança tão somente por ser competente para regular, de modo genérico e abstrato - vale dizer, para todos os contribuintes - a aplicação das alíquotas para do SAT, uma vez que aplicável a Súmula 266/STF: "Não cabe mandado de segurança contra lei em tese".
+Ou seja, a questão foi efetivamente enfrentada pela decisão monocrática, inclusive com menção e análise expressa a trechos da petição inicial de mandado de segurança e aos dispositivos da Lei. Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
