@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 31, p. 9):
+    “APELAÇÃO E REMESSA NECESSÁRIA. DIREITO ADMINISTRATIVO E DIREITO CIVIL. RESPONSABILIDADE CIVIL. BENEFÍCIO PREVIDENCIÁRIO IRREGULAR. AÇÃO DE RESSARCIMENTO. ILÍCITO CIVIL. PRESCRIÇÃO. CONFIGURAÇÃO. DESPROVIMENTO.
+    1. O mérito recursal cinge-se a perscrutar se a pretensão de ressarcimento proposta pelo INSS, decorrente de gastos efetuados com benefício previdenciário indevidamente recebido por um dos réus, encontra-se fulminada pela prescrição.
+    2. O Plenário do STF, quando do julgamento do RE nº 669.069/MG, sob a sistemática de repercussão geral, em que se discutiu o prazo de prescrição de pretensões que envolvam ações de ressarcimento por danos causados ao erário, firmou a seguinte tese: "É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil".
+    3. O STJ, ao julgar o REsp nº 1.251.993/PR, rel. Min. Mauro Campbell Marques, DJe de 19.12.2012, pelo rito de recursos repetitivos, fixou o entendimento de que é de 5 anos o prazo prescricional, para as ações veiculadoras de pretensão de ressarcimento ao erário, consoante previsão do art. 1º, do Decreto nº 20.910/32.
+    4. O STJ também já formou a compreensão de que o prazo prescricional de 5 anos, estabelecido no art. 1º, do Decreto nº 20.910/32, aplica-se às demandas propostas pela Fazenda Pública contra o particular, fundado, dentre outros argumentos, no princípio da isonomia. Nesse sentido: STJ, REsp 623.023, rel. Min. Eliana Calmon, j. em 3.11.2005; REsp 781.601, rel. Min. Nilson Naves, j. em 24.11.2009; REsp 751.832 rel. Min. Luiz Fux, j. em 7.3.2006; REsp 1.105.442, rel. Min. Hamilton Carvalhido, j. em 21.12.2009.
+    5. No caso vertente, tendo em vista que a efetiva lesão ou violação do direito subjetivo-patrimonial tutelado - princípio da actio nata, segundo o qual a prescrição se inicia com o nascimento da pretensão, a teor do art. 189, do CC/2002 -, de que resultou a pretensão de ressarcimento do INSS, consubstanciada na concessão do benefício de aposentadoria por tempo de contribuição nº 111.160.899-4, relativa ao período compreendido entre 22/06/1999 e 16/16/2003, cuja cessação deu-se em 01.08.2004 em razão da constatação de irregularidade pelo autor, e que a presente demanda somente foi ajuizada em 29.07.2015, verifica-se um lapso temporal superior a 5 (cinco) anos, donde se infere que aludida pretensão indenizável, de natureza civil e não penal como quer o demandante, já se achava fulminada pela prescrição do fundo de direito.
+    6. Consumado o prazo quinquenal para o exercício da exigibilidade do direito vindicado pelo apelante, deve-se reconhecer, tal como consignado na sentença vergastada, a ocorrência da prescrição da pretensão ressarcível no caso em pauta, nos termos do art. 487, inciso II, do CPC/2015.
+    7. Remessa necessária e apelação do INSS desprovidas.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 37, §5º; da Constituição Federal.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o acórdão recorrido está em harmonia com a jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Ao analisar o RE-RG 669.069, Rel. Min. Teori Zavascki, DJe 26.08.2013, Tema 666, a Corte reconheceu a repercussão geral da controvérsia referente à imprescritibilidade das ações de ressarcimento por danos causados ao erário, decorrentes de ilícito penal e administrativo, quando do julgamento do mérito, em 28.04.2016, assim decidiu:
+    “CONSTITUCIONAL E CIVIL. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. SENTIDO E ALCANCE DO ART. 37, § 5º, DA CONSTITUIÇÃO. 1. É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil. 2. Recurso extraordinário a que se nega provimento.”
+    Assim, pode-se afirmar que dessa orientação, não divergiu o Tribunal a quo.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
