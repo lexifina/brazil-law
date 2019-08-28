@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal Regional Federal da Primeira Região.
+Consta dos autos que o recorrido foi condenado pela prática dos delitos tipificados no art. 180, caput (receptação) e art. 304 (uso de documento falso), todos do Código Penal, à pena de 05 (cinco) anos de reclusão, em regime inicial semiaberto, e ao pagamento de 60 (sessenta) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação, que restou parcialmente provido para afastar circunstância agravante, reduzindo a pena para 04 (quatro) anos e 06 (seis) meses de reclusão, mantendo-se os demais termos da sentença.
+O acórdão restou assim ementado:
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. RECEPTAÇÃO E USO DE DOCUMENTO FALSO. AUTORIA E MATERIALIDADE COMPROVADAS. ELEMENTOS OBJETIVOS E SUBJETIVOS PRESENTES. DOSIMETRIA REFORMADA. ART. 62, I, DO CÓDIGO PENAL. APELAÇÃO PARCIALMENTE PROVIDA.
+1. A materialidade e a autoria dos delitos de receptação dolosa e uso de documento falso (arts. 180, caput, e 304, do Código Penal) ficaram comprovadas, assim como os elementos objetivos e subjetivos configuradores da conduta delituosa.
+2. Quanto a dosimetria, o MM. Juízo Federal, ao fixar as penas-bases um pouco acima do mínimo legal, observou adequadamente os parâmetros previstos no art. 59, do Código Penal, ressaltando a elevada censurabilidade da conduta do réu, por ser tratar de advogado.
+3. Todavia, em relação ao delito de receptação, não merece ser mantida a exasperação (seis meses) decorrente da aplicação da circunstância agravante prevista no art. 62, I, do Código Penal, tendo em vista que não restou comprovado, na hipótese, o concurso de pessoas (STJ, REsp 1255224/RJ, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, Dje 07/03/2014).
+4. Apelação parcialmente provida.
+Opostos embargos de declaração, restaram prejudicados, em razão do reconhecimento da prescrição da pretensão punitiva às fls. 944/945.
+O Ministério Público Federal interpôs agravo regimental, que restou desprovido (fls. 989/993).
+Na petição de recurso especial, o Ministério Público Federal aponta violação ao disposto no art. 117, IV, do Código Penal. Sustenta, em síntese, o afastamento da prescrição da pretensão punitiva, porquanto o acórdão confirmatório da condenação interrompe o prazo prescricional.
+Contrarrazões às fls. 1022/1033.
+Admitido o recurso (fls. 1037/1038), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 1052/1055).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+A Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp 1301820/RJ, Rel. Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada.
+Eis a ementa do aludido acórdão:
+AGRAVO REGIMENTAL EM PETIÇÃO EM RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. EXTINÇÃO DA PUNIBILIDADE. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO, MAS QUE MAJOROU A PENA APLICADA. NÃO OCORRÊNCIA DE NOVO MARCO INTERRUPTIVO DA PRESCRIÇÃO. PRESCRIÇÃO CARACTERIZADA. 1. Nos termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição. Precedentes: AgRg nos EDcl no AgRg no Ag 1.112.682/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 1º/3/2016, DJe 9/3/2016; AgRg no AgRg no REsp 1.393.682/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/4/2015, DJe 6/5/2015, HC 243.124/AM, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 20/8/2012 . 2. Hipótese em que o agravado foi condenado a penas superiores a 4 e inferiores a 8 anos de reclusão, incidindo, portanto, o prazo prescricional de 12 anos, nos termos do disposto no art. 109, inciso III, do Código Penal. 3. Da última causa interruptiva da prescrição, a publicação da sentença condenatória, em 24/1/2002, até a decisão agravada, observa-se o transcurso de mais de 12 anos para ambos os crimes imputados ao réu. Não tendo sido iniciado o cumprimento da pena nem tendo ocorrido nenhuma outra causa interruptiva, está caracterizada a prescrição. Agravo regimental improvido. (AgRg no RE nos EDcl no REsp 1301820/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 16/11/2016, DJe 24/11/2016 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
