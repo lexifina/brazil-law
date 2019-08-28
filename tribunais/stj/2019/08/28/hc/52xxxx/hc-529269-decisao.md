@@ -1,0 +1,36 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. REINCIDÊNCIA. PERÍODO DEPURADOR. AUSÊNCIA DE PROVA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra ato coator proferido pela Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais que, nos autos do processo n. 1.0134.07.089539-3/001, negou provimento ao apelo defensivo, mantendo o paciente condenado à pena de 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33 da Lei n. 11.343/2006.
+O impetrante alega, em síntese, que o Tribunal local deixou de analisar provas contundentes da inocência do paciente. O dinheiro apreendido não teve seu destino comprovado na sentença nem no acórdão.
+Sustenta que o acórdão faz menção às falas dos policiais, mas não menciona que várias pessoas estavam próximas ao local da prisão em flagrante e que nenhuma delas indicou ter o paciente colocado droga sob o monte de areia.
+Argumenta que os efeitos da reincidência estão limitados às condenações ocorridas até 5 anos antes da infração, não fazendo sentido que uma pena já extinta há mais tempo seja reconhecida como mau antecedente. Após o cumprimento da pena ou a declaração da extinção, o réu volta a ser primário. No presente caso, já havia decorrido 5 anos do fato anterior até o cometimento do novo fato.
+Pede a nulidade do acórdão proferido pelo Tribunal de Justiça de Minas Gerais e a absolvição do paciente (fls. 3/8).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração de plano da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico de plano a inviabilidade do presente writ.
+A pretensão absolutória foi tratada da seguinte maneira pelo Tribunal loca (fls. 12/14):
+Em juízo, Carlos Antônio confirmou a existência da denúncia em desfavor do apelante, afirmando, ainda, que o local era conhecido pelo intenso movimento de tráfico de drogas e que, quando da abordagem, [NOME] não soube explicar a procedência dos R$ R$ 845,00 (oitocentos e quarenta e cinco reais) apreendidos em seu poder (fl. 128 - mídia).
+No mesmo sentido, o depoimento judicial do policial militar [NOME], que, em juízo, atestou que a denúncia recebida pela Polícia Militar apontava as vestes de características semelhantes com as usadas pelo recorrente no momento dos fatos (fl. 111 - mídia).
+De extrema importância, ainda, o relatório de investigações subscrito pelos agentes de polícia [NOME] e [NOME], que assim concluiu:
+(..) É de pleno conhecimento desta equipe, de que o citado indivíduo vem praticando tráfico ilícito de entorpecentes, sendo realizado algumas campanas com a finalidade de prende-lo em flagrante, porém, não houveram oportunidades expressivas.
+O investigado tem se relacionado com outros traficantes de drogas e com isso, vem crescendo, expandindo sua área de atuação no bairro onde reside, prova disso são as inúmeras ligações anônimas que chegam até esta Depol dando conta de sua atividade criminosa.
+Em outras oportunidades JEFERSON fora investigado por participação no tráfico de drogas, tendo sido preso por policiais da Polícia Militar, vindo a sair da cadeia recentemente, o que não o fez mudar de ramo, visto que continua a traficar. (..) (fl. 23).
+Importante salientar que para não se crer nos relatos extremamente coerentes dos policiais, necessário seria a demonstração de seus interesses diretos na condenação do agente, seja por inimizade ou qualquer outra forma de suspeição, pois, se de um lado o acusado tem razões óbvias de tentar se eximir da responsabilidade criminal, por outro, os policiais, assim como qualquer testemunha, não têm motivos para incriminar inocentes, a não ser que se apresente prova concreta de sua suspeição, ônus do qual a defesa não se desincumbiu. A respeito:
+ ..
+Não se deve ignorar, ainda, as circunstâncias em que se deu a prisão do acusado. Ora, [NOME] não foi preso por acaso, mas sim após o recebimento de denúncia, que especificava as suas vestes e o apontava como traficante no local dos fatos, já conhecido por ser ponto de venda de entorpecentes.
+O Juízo condenatório, mantido pelo Tribunal local, se baseou nas provas produzidas na instrução. Patente, assim, a inviabilidade do writ, porquanto a pretensão de revisão da condenação do ora paciente implicaria o minucioso reexame de todo o conjunto fático-probatório colacionado durante a instrução criminal, procedimento totalmente inviável na via estreita do habeas corpus.
+Assim, tais questões não são passíveis de solução por meio do writ, por demandar uma análise mais acurada dos fatos, depoimentos e todas as demais circunstâncias e provas em que se arrimaram as instâncias ordinárias.
+Trata-se de tema pacífico na jurisprudência desta Corte que a incursão no acervo fático-probatório é inviável na via eleita (HC n. 461.215/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/6/2019; AgRg no HC n. 494.790/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/6/2019; RHC n. 107.772/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2019).
+Com efeito, o habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita (HC 432.808/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/5/2018).
+Em relação à existência de mau antecedente, o Tribunal local estabeleceu o seguinte (fl. 6):
+Ora, a reincidência não pode ser uma constante na vida das pessoas.
+Segundo o ministro Dias Toffoli, como o Código Penal determina que os efeitos da reincidência estão limitados a condenações ocorridas até cinco anos antes da infração, não faz sentido que uma pena já extinta há mais tempo seja reconhecida como mau antecedente e sirva para elevar a pena imposta ao condenado.
+Anos após cumprido a pena ou julgado extinta a pena, o sujeito volta à ser considerado réu primário, mas apenas após 5 anos do cumprimento da pena. E, no caso do impetrante, já tinha decorrido 5 (cinco) anos, entretanto a data da baixa não foi logo após os cinco anos que ele já havia cumpriu à pena que lhe foi imposta. E, essa falha não pode recair sobre o impetrante - [NOME], porque não é função do sentenciado da baixa em processo e, sim do escrivão.
+Por isso, o reconhecimento da reincidência no caso presente é uma injustiça.
+Nos termos da jurisprudência deste Tribunal Superior, embora a condenação com trânsito em julgado não possa produzir efeitos após passado o período depurador, pode, no entanto, funcionar como maus antecedentes.
+Em suporte: AgRg no HC n. 471.346/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/5/2019; AgRg no HC n. 499.139/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/6/2019; HC n. 338.967/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/2/2016.
+In casu, o impetrante sequer fez prova da utilização de condenação anterior como reincidência após o período depurador, o que inviabiliza o prosseguimento do writ também nesse ponto.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
