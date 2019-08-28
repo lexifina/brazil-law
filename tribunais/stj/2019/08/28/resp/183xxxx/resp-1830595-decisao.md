@@ -1,0 +1,71 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SPCIA 03 - EMPREENDIMENTOS IMOBILIÁRIOS LTDA. com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 284, e-STJ):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - RESILIÇÃO DE CONTRATO CUMULADA COM RESTITUIÇÃO DE VALORES - Autores que pleiteiam a desistência do negócio em razão de dificuldade financeira - Possibilidade de resilição do contrato com a restituição de valores pagos, com retenção de percentual em favor da vendedora - Súmula 01-TJSP - Ré apelante que invoca a aplicação de cláusula penal, que na prática, reduz a restituição em quantia irrisória ou nenhuma, pois calculados sobre o valor da venda e não sobre os valores pagos pelos promitentes compradores - Afronta ao art. 51, II e IV, e art. 53, ambos do CDC - Retenção em favor da ré fixada na sentença em 10% sobre os valores pagos, que se mostra razoável - Manutenção - Não demonstração de que a vendedora suportou prejuízo superior à compensação autorizada - Valor correspondente à restituição que deve ser corrigido pela Tabela Prática do TJSP desde cada desembolso, tendo em vista que a correção monetária visa a recompor a perda do poder aquisitivo da moeda - Juros de mo ra devidos a partir da prolação da sentença, momento em que a construtora teve ciência da obrigação que lhe foi imposta - Sentença reformada apenas para modificar o termo inicial dos juros de mora - RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração (fls. 392/395, e-STJ), esses foram rejeitados (fls. 397/399, e-STJ).
+Nas razões do recurso especial (fls. 375/389, e-STJ), a insurgente apontou violação aos artigos 421, 422 e 884 do Código Civil. Argumentou que os recorridos desistiram imotivadamente da aquisição do imóvel e pugnam pela retenção nos moldes contratuais. Afirmou que "para cada unidade comercializada, a Recorrente despende valores fixos para a administração do empreendimento, tais como atendimento, despesas bancárias, financeiras, custeio de funcionários, etc." (fl. 383, e-STJ), de modo que a devolução dos valores do modo estabelecido no acórdão irá causar o enriquecimento sem causa dos recorridos. Suscitou dissídio jurisprudencial. Por fim, sustentou que os juros de mora são devidos a partir do trânsito em julgado da avença.
+Contrarrazões às fls. 404/415, e-STJ.
+Após decisão de admissão do recurso especial (fls. 421/422, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Cinge-se a insurgência veiculada ao apelo extremo a possibilidade de alteração do valor originalmente pactuado no que tange à cláusula rescisória.
+No ponto, o Tribunal estadual assim consignou (fls. 370/371, e-STJ):
+Todavia, não lhe assiste razão, na medida em que a aplicação da referida cláusula coloca os consumidores em desvantagem exagerada, afigurando-se nitidamente abusiva, em violação às normas consumeristas (art. 51, II e IV, do CDC).
+Afinal, dispõe a cláusula 11.8 (fl. 58), em resumo, que havendo inadimplemento do compromissário comprador com consequente rescisão contratual, o valor a ser restituído corresponderá a 75% a ser calculado sobre as prestações pagas, após a dedução de várias despesas, como juros compensatórios, juros moratórios e multa de mora, despesas administrativas à razão de 5%, PIS, COFINS e todos os tributos pagos em decorrência do recebimento das prestações, dentre outras.
+Pelas cláusulas 11.8.1 e 11.8.2, a ré se compromete à restituição em três parcelas e após 180 dias do trânsito em julgado da sentença ou na data da assinatura do distrato, se houver.
+Como se vê, a forma como estipulada a cláusula reduziria a restituição em quantia irrisória ou nenhuma, dependendo do valor pago pelo compromissário comprador, o que não se pode admitir.
+Assim, considerando que o compromissário comprador não é obrigado a manter a relação contratual, nada impede que o contrato seja rescindido, sendo que a restituição parcial já se destina a repor eventuais gastos administrativos suportados pela ré.
+A Corte a quo, após sopesar todo o acervo fático-probatório carreado aos autos, bem como analisar as cláusulas contratuais, entendeu pela abusividade da cláusula rescisória.
+ Sendo assim, para acolhimento do apelo extremo em sentido contrário ao entendimento daquele Tribunal, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, bem como seria necessária a análise das cláusulas contratuais, incidindo, na espécie, o óbice das Súmulas nºs. 5 e 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. NOVAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido baseou-se na interpretação de fatos, provas, e cláusulas contratuais, para concluir pela parcial reforma da decisão de primeiro grau. Rever tal conclusão, a fim de acolher a pretensão recursal para reconhecer a validade de contrato e suas cláusulas, implicaria necessariamente o reexame do conjunto fático-probatório, o qual é vedado nesta instância especial, consoante entendimento das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1182458/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2018, DJe 06/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ART. 478 DO CÓDIGO CIVIL DE 2002. SIMPLES REFERÊNCIA A DISPOSITIVO LEGAL DESACOMPANHADA DA NECESSÁRIA ARGUMENTAÇÃO QUE SUSTENTE A ALEGADA OFENSA À LEI FEDERAL. INCIDÊNCIA DA SÚMULA 284 DO STF. ARTIGO DE LEI TIDO POR VULNERADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. REVISÃO DAS CONCLUSÕES DA CORTE DE ORIGEM. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Súmula 284/STF.
+2. Ausência de prequestionamento de artigo de lei tido por violado.
+Súmula 211/STJ.
+3. A alteração do entendimento adotado pela Corte de origem no tocante a serem devidas as comissões de corretagem, pois o contrato encontrava-se em vigor, bem como pela ausência de novação, demandaria, necessariamente, a interpretação de cláusulas contratuais e novo exame do acervo fático-probatório constante dos autos, providências vedadas na via estreita do recurso especial, conforme os óbices previstos nos enunciados n. 5 e 7 da Súmula deste Tribunal Superior.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1019139/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Incide, no ponto, as Súmulas 5 e 7/STJ, para ambas as alíneas do permissivo constitucional.
+2. Ademais, no caso, o Tribunal de origem, soberano na análise do material cognitivo dos presentes autos, determinou que o percentual de 10% (dez por cento) sobre os valores pagos seria o suficiente para indenizar a recorrente pelos prejuízos decorrentes da rescisão contratual.
+Vejamos (fls. 422, e-STJ):
+E a retenção no equivalente a 10% em seu favor mostra-se adequada ao caso em tela, não tendo a ré demonstrado que tal percentual seja insuficiente para fazer frente às despesas administrativas relacionadas à avença.
+Assim, para rever o entendimento acerca da insuficiência do percentual de retenção para a reparação dos danos, seria necessária a incursão no acervo probatório dos autos, bem como ensejaria uma análise do contrato, providências vedadas em sede de especial, a teor das Súmulas 5 e 7/STJ.
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. PARCELAS PAGAS. RETENÇÃO PARCIAL. CABIMENTO. PERCENTUAL RETIDO. ALTERAÇÃO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados" (AgInt no AREsp n. 725.986/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/6/2017, DJe 29/6/2017).
+2. O recurso especial não comporta exame de questões que impliquem análise de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. O Tribunal de origem analisou o contrato e as demais provas contidas no processo para concluir que o percentual aplicado pela agravante, para a retenção parcial da quantia paga pelo consumidor, era abusivo. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1692346/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 26/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. PERCENTUAL DE RETENÇÃO. CLÁUSULAS CONTRATUAIS. PROVAS. REEXAME. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. A reforma do julgado demandaria interpretação de cláusulas contratuais e reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 993.073/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/03/2017, DJe 24/03/2017)
+3. No que tange ao termo inicial dos juros moratórios, consoante a jurisprudência deste Sodalício, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal, em ambas as alíneas do permissivo constitucional:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. DÍVIDA CONTRAÍDA EM MOEDA ESTRANGEIRA. CONVERSÃO PARA REAL. COBRANÇA DE JUROS DE REMUNERAÇÃO. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF.
+1. A falta de indicação do dispositivo legal supostamente violado e/ou de interpretação pretoriana divergente configura deficiência recursal, por não permitir a exata compreensão da controvérsia, e não enseja a abertura da via especial, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+2. Descabe a incidência de juros remuneratórios na condenação se inexiste pedido expresso a respeito. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1393432/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRECLUSÃO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA Nº 284 DO SUPREMO TRIBUNAL FEDERAL. BEM DE FAMÍLIA. REEXAME DE PROVAS. SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar qual dispositivo legal teria sido violado ou objeto de interpretação divergente. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+2. Tendo o tribunal de origem decidido pela penhorabilidade do imóvel com base nos elementos de prova dos autos, a inversão do decidido esbarra no óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1626950/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/09/2017, DJe 28/09/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE SOLIDÁRIA DA LOCADORA PELOS DANOS CAUSADOS PELO CONDUTOR DO VEÍCULO ALUGADO. INCIDÊNCIA DA SÚMULA Nº 492 DO STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVOS LEGAIS. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão recorrido está em consonância com o entendimento do STJ no sentido de ser solidária a responsabilidade da locadora pelos danos causados a terceiro pelo uso do veículo locado. Inteligência da Súmula nº 492 do STF.
+3. A jurisprudência desta Corte é firme no sentido de que é imprescindível à demonstração do dissídio jurisprudencial a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria a divergência, sob pena de inviabilizar a exata compreensão da controvérsia, atraindo a aplicação da Súmula nº 284 do STF.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1735241/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/10/2018, DJe 10/10/2018)
+4. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nega-se provimento ao reclamo.
+Publique-se.
+Intimem-se.
