@@ -1,0 +1,30 @@
+DECISÃO
+[NOME] interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que negou provimento à Apelação Criminal n. 1744552-2.
+Nas razões do especial, a defesa aponta, além da divergência jurisprudencial, violação do art. 263 do Código de Processo Penal, ao argumento de que deve ser sanada nulidade processual ocorrida devido a não intimação do réu para nomeação de advogado de sua confiança.
+Requer, liminarmente, a suspensão da execução provisória da pena. No mérito, pugna para que seja declarada a nulidade da nomeação da Defensoria Pública.
+Contrarrazões às fls. 474-480 e decisão de admissibilidade à fls. 482-485.
+Indeferido o pedido liminar, o Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+Decido.
+I. Contextualização
+Consta dos autos que o recorrente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O réu, intimado acerca da sentença condenatória, declarou o desejo de recorrer. Intimado o defensor constituído, não foram oferecidas as razões da apelação. Assim, o Magistrado nomeou a Defensoria Pública.
+II. Divergência jurisprudencial
+O recurso especial com lastro no art. 105, III, "c", da CF, não comporta conhecimento, pois a parte apontou o julgado proferido em habeas corpus para comprovar o dissídio, mas "consoante pacífica jurisprudência desta Corte, "acórdão proferido em habeas corpus, por não possuir a mesma extensão almejada no recurso especial, não serve de paradigma para fins de comprovação da divergência jurisprudencial, ainda que se trate de dissídio notório" (AgRg no AREsp n. 864.672/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/6/2016)" (AgRg no AREsp n. 1.262.717/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/11/2018, destaquei).
+III. Falta de intimação prévia do réu para constituir novo defensor, de sua livre escolha
+No caso, ante a inércia do defensor constituído pelo paciente para apresentar razões de apelação, não foi determinada a sua intimação pessoal para indicar novo advogado, com base no fato de haver "a mãe do acusado  ..  informado em cartório não ter ela condições de pagar advogado para interpor recurso" (fl. 458). Entretanto, tal atitude prejudica substancialmente o direito à ampla defesa.
+Tem-se entendido, no âmbito da garantia à ampla defesa, que "A escolha do defensor é um direito inafastável do acusado, em razão da relação de confiança que deve existir entre ele e o seu patrono" (HC n. 249.445/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 23/2/2015). Assim, é de rigor que, ante a inércia do advogado constituído, o réu seja intimado para constituir novo patrono de sua confiança, antes de proceder-se à nomeação da Defensoria Pública ou de defensor dativo para patrocinar seus interesses.
+Faço lembrar que, nos termos do art. 261 do Código de Processo Penal, "Nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor". Ademais, segundo o disposto no art. 263 do mesmo código, "Se o acusado não o tiver, ser-lhe-á nomeado defensor pelo juiz, ressalvado o seu direito de, a todo tempo, nomear outro de sua confiança, ou a si mesmo defender-se, caso tenha habilitação".
+Não se pode olvidar que o direito de defesa é indisponível, de maneira que deve ser exercido ainda que contra a vontade do acusado ou na sua ausência.
+Uma das garantias essenciais que a Constituição Federal assegura a qualquer réu, notadamente na esfera processual penal, é a de que ninguém pode ser privado de sua liberdade, de seus bens ou de seus direitos sem o devido processo legal (CF, art. 5º, LV), não importando, para fins de concretização dessa garantia fundamental, a natureza do procedimento estatal instaurado contra aquele que sofre a ação persecutória do Estado. Impende registrar que o acusado possui o direito não apenas a que lhe seja assegurada a defesa, mas ainda o direito de escolher profissional de sua confiança.
+Aliás, a própria Corte Suprema, em diversos julgados, já reconheceu ser direito daquele que sofre persecução penal escolher o seu próprio defensor, entre os quais, exemplificativamente, menciono a MC no HC n. 101.393/MT, de relatoria do Ministro Celso de Mello (DJe 13/11/2009). Na ocasião, ressaltou o Relator que "essa liberdade de escolha traduz, no plano da "persecutio criminis", específica projeção do postulado da amplitude de defesa proclamado pela Constituição".
+Logo, constato a nulidade apontada.
+Nesse sentido:
+HABEAS CORPUS. AGRAVO EM EXECUÇÃO. CERCEAMENTO DE DEFESA. AUSÊNCIA DE INTIMAÇÃO DOS ADVOGADOS CONSTITUÍDOS PARA APRESENTAÇÃO DE CONTRARRAZÕES AO RECURSO DO MINISTÉRIO PÚBLICO. NULIDADE RECONHECIDA. ORDEM CONCEDIDA.
+1. "A escolha de defensor é um direito inafastável do acusado, em razão da relação de confiança que deve existir entre ele e o seu patrono. Assim, é de rigor que o advogado constituído seja intimado para apresentar contrarrazões ao recurso da acusação e, em caso de inércia, deve-se intimar o réu para que nomeie novo patrono, sob pena de nulidade, por cerceamento de defesa. Somente se inerte o acusado, proceder-se-á à nomeação da Defensoria Pública ou de defensor dativo" (HC 249.445/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/2/2015, DJe 23/2/2015).
+ ..
+4. Habeas corpus concedido.
+(HC n. 399.323/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/4/2019).
+IV. Dispositivo
+À vista do exposto, dou provimento ao recurso, a fim de reconhecer a violação legal e declarar a nulidade do processo desde a nomeação de defensor dativo ao paciente, devendo o Magistrado intimá-lo para constituir advogado de sua confiança, sendo-lhe novamente designado defensor dativo em caso de omissão do réu, no prazo a ser assinalado pelo Juiz.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
