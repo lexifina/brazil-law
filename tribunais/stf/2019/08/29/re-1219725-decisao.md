@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. EXECUÇÃO. OBRIGAÇÃO DE PEQUENO VALOR. EDIÇÃO EXTEMPORÂNEA DA LEI MUNICIPAL. Não merece provimento o Agravo quando as razões apresentadas não conseguem invalidar os fundamentos expendidos na decisão mediante a qual se negou provimento ao Agravo de Instrumento. Agravo Regimental a que se nega provimento” (pág. 1 do documento eletrônico 37).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação do art. 100, § 4°, da mesma Carta e do art. 97, § 12, do ADCT.
+    A pretensão recursal merece acolhida.
+    O Tribunal de origem assim decidiu a questão posta nos autos:
+    “Ocorre que no caso dos autos, como asseverou a Corte de origem, soberana no exame fático-probatório dos autos, que “No caso em exame, a Lei Municipal 1.808/15 não respeitou o retrocitado prazo de 180 dias, contados da EC 62/2009, prevalecendo, por decorrência, o limite constitucional de 30 salários mínimos para as requisições de pequeno valor, o que não foi ultrapassado.” (p. 355 do eSIJ).
+    Constatou-se a extemporaneidade da Lei Municipal para regulamentar a matéria, o que deu ensejo à aplicação do disposto no inciso II do artigo 87 do ADCT. Assim, considerou-se o valor correspondente a trinta salários mínimos para fins de quitação dos débitos judiciais sem fazer uso do precatório, nos termos do disposto do inciso II do artigo 87 do ADCT, a saber, trinta salários mínimos” (págs. 5-6 do documento eletrônico 37, grifei).
+    O acórdão recorrido diverge da jurisprudência desta Corte.
+    Com efeito, o Plenário do Supremo Tribunal Federal concluiu o julgamento de mérito das Ações Diretas de Inconstitucionalidade 4.357/DF e 4.425/DF, redator para o acórdão Ministro Dias Toffoli, no sentido de declarar a inconstitucionalidade parcial das alterações realizadas pela EC 62/2009 ao regime constitucional de precatórios, incluindo as normas constantes do art. 97 do ADCT. Confira-se a parte dispositiva do julgado:
+    “[...] para declarar a inconstitucionalidade: a) da expressão 'na data de expedição do precatório', contida no § 2º do art. 100 da CF; b) dos §§ 9º e 10 do art. 100 da CF; c) da expressão 'índice oficial de remuneração básica da caderneta de poupança', constante do § 12 do art. 100 da CF, do inciso II do § 1º e do § 16, ambos do art. 97 do ADCT; d) do fraseado 'independentemente de sua natureza', inserido no § 12 do art. 100 da CF, para que aos precatórios de natureza tributária se apliquem os mesmos juros de mora incidentes sobre o crédito tributário; e) por arrastamento, do art. 5º da Lei 11.960/2009; e f) do § 15 do art. 100 da CF e de todo o art. 97 do ADCT (especificamente o caput e os §§ 1º, 2º, 4º, 6º, 8º, 9º, 14 e 15, sendo os demais por arrastamento ou reverberação normativa)” (Informativo STF 698- grifei).
+    Dizia o art. 97, § 12, do ADCT, o qual foi declarado inconstitucional com efeito ex tunc:
+    “§ 12. Se a lei a que se refere o § 4º do art. 100 não estiver publicada em até 180 (cento e oitenta) dias, contados da data de publicação desta Emenda Constitucional, será considerado, para os fins referidos, em relação a Estados, Distrito Federal e Municípios devedores, omissos na regulamentação, o valor de (Incluído pela Emenda Constitucional nº 62, de 2009):
+    I - 40 (quarenta) salários mínimos para Estados e para o Distrito Federal; (Incluído pela Emenda Constitucional nº 62, de 2009)
+    II - 30 (trinta) salários mínimos para Municípios. (Incluído pela Emenda Constitucional nº 62, de 2009)”.
+    No mesmo sentido: Rcl 33779 MC/SP, Relator o Min. Luiz Fux; Rcl 30317 MC/MA e RE 1194428/SP, Relator o Min. Edson Fachin.
+    Isso posto, dou provimento ao recurso (art. 21, § 2°, do RISTF) para restabelecer a decisão proferida pelo Tribunal Regional do Trabalho da 15ª Região em agravo de petição.
+    Publique-se.
+    Brasília, 29 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
