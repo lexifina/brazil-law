@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. A Quinta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo manteve a condenação dos réus pela prática dos crimes previstos nos artigos 148, § 2º, 158, § 1º, 299, § único, combinados com o artigo 29, parte superior, e 69, cabeça, do Código Penal. No extraordinário os recorrentes apontam ofensa aos artigos 5º, incisos LIV e LV, e 93, inciso IX, da Constituição Federal.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Eis a síntese da decisão negatória de acórdão recorrido:
+    APELAÇÃO CRIMINAL - Sequestro c Cárcere privado - Falsidade ideológica - Extorsão e Concussão - Defesas alegam inépcia da inicial, nulidades decorrentes de ausência de defesa preliminar, cm razão de julgamento citra-petita bem como por cerceamento de defesa - Descabimento - Denúncia apta - Não vislumbradas nulidades - Rejeitadas as preliminares - No mérito, pleiteiam absolvição por insuficiência probatória, reforma da condenação no que tange ao crime de extorsão, permanecendo apenas o julgamento pelo crime de concussão, invocando o princípio do non bis in idem, ou ainda, exclusão da condenação por concussão - Possibilidade - Crime de concussão que deve ser afastado em face do princípio da consunção. Afastamento do concurso de agentes c da qualificadora prevista no § 2 o , do art. 148. do Código Penal Impossibilidade. Fixação da pena cm seu mínimo legal e aplicação de regime prisional mais brando - Incabível - Qualificadoras demonstradas nos autos - Penas bem dosadas c fundamentadas, suficientes para conscientização da ilicitude e prevenção da reincidência. Regime inicial fechado é o mais adequado á espécie - Apelos providos em parte, tão somente para afastar o crime de concussão, com determinação
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no parágrafo § 3º do artigo 102 da Constituição Federal.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
