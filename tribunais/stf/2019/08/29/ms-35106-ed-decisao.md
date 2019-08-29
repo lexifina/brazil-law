@@ -1,0 +1,24 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que negou seguimento a mandado de segurança com fundamento na jurisprudência desta Corte, segundo o qual não compete ao Supremo Tribunal Federal conhecer de impetração quando não apontados fatos concretos que permitam a adequada utilização da via mandamental.
+    Nos aclaratórios, em síntese, o embargante sustenta que houve omissão na decisão embargada, haja vista não ter sido considerada a informação complementar relacionada à demonstração da competência da Mesa Diretora do Senado Federal. Esclarece, ainda, que essa informação foi objeto do despacho do Ministro Relator, que determinou a intimação da embargante para proceder ao aditamento da petição inicial.
+    A União apresentou contrarrazões, destacando que o Regimento Interno do Senado também não comprova a competência da Mesa Diretora do Senado para efetivar o desconto e repasse da contribuição sindical dos servidores do Senado Federal. (eDOC 21)
+    A Procuradoria-Geral da República manifestou-se pela rejeição dos embargos, em parecer ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ATO COATOR. CONTRIBUIÇÃO SINDICAL. COBRANÇA. REPASSE. REMUNERAÇÃO. SERVIDORES. SENADO FEDERAL. 1. Diante da interpretação estrita do art. 102–I da Constituição, alusivo à competência ratione personae do Supremo Tribunal Federal, a incompetência do Tribunal deve ser reconhecida ante a inexistência de referência constitucional da autoridade coatora do mandado de segurança em apreço. ' Parecer pelo desprovimento dos embargos de declaração.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC/2015). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Registre-se que os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, não vislumbradas no presente caso.
+    Como já demonstrado pela decisão embargada, cabe destacar que a competência originária do Supremo Tribunal Federal para julgamento de mandado de segurança é fixada em razão da autoridade impetrada. Assim, a viabilidade do presente mandamus exige a comprovação da prática de ato, omissivo ou comissivo, por parte de qualquer das autoridades elencadas na alínea “d” do inciso I do art. 102 da Constituição Federal, a seguir transcritas:
+    “Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    No caso, não se constata, na peça inicial, indicação de ato omissivo ou comissivo a ser atribuído à Mesa Diretora do Senado que atraia a competência do Supremo Tribunal Federal para o julgamento deste mandamus.
+    Nesse sentido, cito trecho do parecer proferido pela Procuradoria-Geral da República:
+    “Os impetrantes, por ocasião do aditamento da petição inicial, fizeram expressa referência à Comissão Diretora do Senado Federal. Contudo, ainda que essa comissão seja formada por titulares da Mesa Diretora, segundo o Regimento Interno dessa Casa Legislativa, ela não se encontra listada no rol constitucional que permite a instalação da competência do STF, além de não haver comprovação inequívoca de sua competência para realizar o ato reputado coator”.
+    Ademais, a parte impetrante aponta omissão da Mesa Diretora do Senado no tocante ao desconto e repasse da contribuição sindical dos servidores do Senado Federal. No entanto, aponta o art. 15, XVII, do Regimento Interno da Câmara dos Deputados, e não da respectiva Casa Legislativa, para demonstrar a suscitada competência. Eis o teor desse dispositivo:
+    “Art. 15. À Mesa compete, dentre outras atribuições estabelecidas em lei, neste Regimento ou por resolução da Câmara, ou delas implicitamente resultantes:
+    (…)
+    XVII - propor, privativamente, à Câmara projeto de resolução dispondo sobre sua organização, funcionamento, polícia, regime jurídico do pessoal, criação, transformação ou extinção de cargos, empregos e funções e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias; (...)”.
+    Com efeito, não se verifica, do dispositivo apontado, a alegada competência da Mesa do Senado para realizar os aludidos repasses. Nesses termos, ausente a sua legitimidade passiva ad causam, a ensejar a utilização do mandado de segurança, tendo em vista inexistir a demonstração de sua omissão quanto à realização da referida obrigação.
+    Ante o exposto, rejeito os embargos de declaração (art. 1.024, § 2º, do CPC).
+    Publique-se.
+    Brasília, 29 de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
