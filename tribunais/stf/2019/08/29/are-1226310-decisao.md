@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ADICIONAL – INSALUBRIDADE – REGULAMENTAÇÃO – INEXISTÊNCIA – IMPOSSIBILIDADE – PROVIMENTO.
+    1. A Turma Recursal, reformando o entendimento do Juízo, julgou procedente o pedido de adicional de insalubridade no percentual máximo, retroativamente. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 7º, inciso XXIII, e 39, § 3º, da Constituição Federal. Diz contrariados os verbetes vinculantes nº 37 e nº 339 das Súmulas do Supremo. Afirma a impossibilidade de pagamento da rubrica diante da ausência da respectiva regulamentação
+    2. Eis a síntese do acórdão recorrido:
+    JUIZADO ESPECIAL DE FAZENDA PÚBLICA. ADMINISTRATIVO. AGENTE PENITENCIÁRIO. ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE REGULAMENTAÇÃO ATRAVÉS DE LEI ESPECÍFICA. NÃO IMPEDIMENTO AO RECONHECIMENTO DO DIREITO À PERCEPÇÃO DA GRATIFICAÇÃO AOS SERVIDORES COMPROVADAMENTE SUBMETIDOS AO EXERCÍCIO DE ATIVIDADES INSALUBRES. PRECEDENTES REITERADOS. LAUDO PERICIAL QUE FIXA O PERCENTUAL EM GRAU MÁXIMO DEVIDO - 20% (VINTE POR CENTO). IMPLEMENTAÇÃO E PAGAMENTO DE VERBAS RETROATIVAS DEVIDAS, A PARTIR DA DATA DA POSSE, NÃO PRESCRITAS. SÚMULA 14/TJAP. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+    O acórdão recorrido está em harmonia com o entendimento do Supremo. Confiram com as seguintes ementas:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO: SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. REGULAMENTAÇÃO: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (agravo regimental no recurso extraordinário com agravo 1.105.417, Pleno, relatora ministra Cármen Lúcia, acórdão publicado no Diário da Justiça de 1º de agosto de 2018)
+    AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. GRAU DE EXPOSIÇÃO. LEI 66/1993 DO ESTADO DO PARÁ. LEI FEDERAL 8.270/1991. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO INTERNO DESPROVIDO. (agravo regimental no recurso extraordinário com agravo 1.161.916, 1ª Turma, relator ministro Luiz Fux, acórdão publicado no Diário da Justiça de 1º de agosto de 2019)
+    3. Conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
