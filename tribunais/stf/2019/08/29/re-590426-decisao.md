@@ -1,0 +1,11 @@
+DECISÃO:
+    De início, afasto o sobrestamento.
+    Trata-se de recurso extraordinário interposto contra acórdão da 8ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA DO SERVIDOR MILITAR INATIVO - LEI ESTADUAL N.° 10.366/90 - INCIDÊNCIA ANTERIOR À EMENDA CONSTITUCIONAL N.° 41/2004 - IMPOSSIBILIDADE – EMENDA CONSTITUCIONAL N.° 41/2003 - ADln's N.os 3.105 E 3.128. 1 - Segundo a jurisprudência do Supremo Tribunal Federal, até a promulgação da Emenda Constitucional n.° 41/2003 a incidência de contribuição sobre proventos de servidores inativos, como a instituída pela Lei Estadual n.° 10.366/90, não se compatibilizava com o ordenamento constitucional então vigente. 2 – O Supremo Tribunal Federal no julgamento das ADln's n.° 3.105 e 3.128, ocorrido em 18 de agosto de 2004, declarou constitucional a cobrança de contribuição previdenciária dos servidores públicos inativos e pensionistas, como estabelecido pelo art. 4° da Emenda Constitucional n.° 41/03, salvo na parte em que estabelece distintos tetos de imunidade. 3 - Tendo havido manifestação do Pleno do STF sobre a matéria constitucional, torna-se dispensável, por irrelevante, a afetação da questão à Corte Superior do TJ, em virtude do disposto no parágrafo único do art. 481 do CPC c/c o inc. I do § 1° do art. 248 do RIT JMG. 4 - Os juros moratórios nas ações de repetição de indébito tributário, no percentual de 1% ao mês, segundo a exegese do art. 161, § 1°, do CTN, são devidos a partir do trânsito em julgado da sentença, a teor da Súmula n.° 188 do STJ. 5 - Recurso provido.”
+    O Supremo Tribunal Federal reconheceu a repercussão geral alusiva à matéria no RE 596.701 (Tema 160), ainda pendente do julgamento de mérito, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MILITAR INATIVO. REGIME PREVIDENCIÁRIO APLICÁVEL. COBRANÇA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. RELEVÂNCIA JURÍDICA E ECONÔMICA DA QUESTÃO CONSTITUCIONAL. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática de repercussão geral.
+    Publique-se.
+          Brasília, 29 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
