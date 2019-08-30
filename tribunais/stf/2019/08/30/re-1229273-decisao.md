@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto pelo Ministério Público Federal em face de acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. DETERMINAÇÃO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. APONTADA NEGATIVA DE VIGÊNCIA AO ART. 147 DA LEI N.° 7.210/1.984. PERTINÊNCIA. PRECEDENTES DA TERCEIRA SEÇÃO. RECLAMO MINISTERIAL. ENTENDIMENTO DIVERSO PELO PRETÓRIO EXCELSO. CLÁUSULA DE RESERVA DE PLENÁRIO E PRINCÍPIO DA COLEGIALIDADE. RECURSO DESPROVIDO.
+    1. Segundo atual e ainda vigente entendimento sufragado pela Terceira Seção desta Corte, assentado no EREsp n.º 1.619.087/SC, e conquanto a existência de decisões monocráticas ou de órgãos fracionários proferidas pelo Pretório Excelso, via controle difuso de constitucionalidade, em sentido contrário, e ressalvado o entendimento desta própria relatoria sobre a conclusão majoritária externada pelo referido Colegiado, permanece hígida a eficácia normativa do art. 147 da Lei n.º 7.210/1.984, que, até então, não pode deixar de ser aplicado, sob pena de malferimento à cláusula de reserva.
+    2. Na espécie, o Tribunal regional reputou que, segundo recentes julgados proferidos pela Suprema Corte, pelo controle incidental de constitucionalidade, a execução provisória das penas restritivas de direitos, impingidas ao Condenado, não viola o princípio da presunção de inocência, gradualmente mitigada e esvaída após larga instrução processual e exauriente cognição pelos dois graus de jurisdição ordinária. Tal exegese, todavia – e não obstante a ausência de efeito suspensivo do recurso especial –, até o presente momento, não está albergada em posicionamento sólido firmado pela Corte Especial do Superior Tribunal de Justiça, tampouco pelo Plenário do Supremo Tribunal Federal, motivo pelo qual a suspensão da execução provisória das sanções alternativas impostas ao Apenado, objeto de insurgência ministerial, é medida de rigor.
+    3. Agravo regimental desprovido” (pág. 339 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação do art. 5°, caput, e LVII, mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Superior Tribunal de Justiça, com base na interpretação da norma infraconstitucional aplicável ao caso (art. 147 da Lei de Execução Penal – LEP), rejeitou o pedido de execução provisória das penas restritivas de direito impostas ao ora recorrido.
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame da norma infraconstitucional pertinente (LEP), sendo certo que eventual ofensa à Constituição Federal, se ocorrente, seria indireta, o que inviabiliza o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (RISTF, art. 21, § 1°).
+    Publique-se.
+    Brasília, 30 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
