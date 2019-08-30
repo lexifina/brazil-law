@@ -1,0 +1,439 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 11
+
+30/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 172.292 MATO
+GROSSO DO SUL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: GUTIERREZ APARECIDO DA CONCEICAO FELIPE
+: DEFENSOR PÚBLICO-GERAL DO ESTADO DE
+MATO GROSSO DO SUL
+: MINISTÉRIO PÚBLICO DO ESTADO DE MATO
+GROSSO DO SUL
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+MATO GROSSO DO SUL
+
+EMENTA: AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO
+EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. MINORANTE
+PREVISTA NO ART. 33, §4º, DA LEI DE DROGAS, EM SEU PATAMAR
+MÁXIMO.
+NÃO
+CABIMENTO.
+DISCRICIONARIEDADE.
+QUANTIDADE DE DROGA. PARTICULARIDADES DO CASO
+CONCRETO. REGIME INTERMEDIÁRIO E SUBSTITUIÇÃO DA PENA
+PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.
+IMPOSSIBILIDADE.
+REVISÃO
+FÁTICO-PROBATÓRIA.
+INVIABILIDADE.
+AGRAVO A QUE SE NEGA PROVIMENTO.
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Primeira Turma, sob a Presidência do Senhor
+Ministro LUIZ FUX, em conformidade com a ata de julgamento e as notas
+taquigráficas, por maioria, acordam em negar provimento ao agravo
+regimental, nos termos do voto do Relator, vencido o Ministro Marco
+Aurélio.
+Brasília, 30 de agosto de 2019.
+Ministro ALEXANDRE DE MORAES
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 966E-103C-FE34-5336 e senha EEA0-97B8-3498-57FA
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 11
+
+RHC 172292 AGR / MS
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 966E-103C-FE34-5336 e senha EEA0-97B8-3498-57FA
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 11
+
+30/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 172.292 MATO
+GROSSO DO SUL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: GUTIERREZ APARECIDO DA CONCEICAO FELIPE
+: DEFENSOR PÚBLICO-GERAL DO ESTADO DE
+MATO GROSSO DO SUL
+: MINISTÉRIO PÚBLICO DO ESTADO DE MATO
+GROSSO DO SUL
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+MATO GROSSO DO SUL
+
+RELATÓRIO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão
+monocrática de minha lavra, que negou provimento ao Recurso
+Ordinário em habeas corpus, sob o fundamento de que o Superior Tribunal
+de Justiça, na trilha do que foi decidido pelas instâncias ordinárias, negou
+o aumento do quantum de redução da causa especial de diminuição de
+pena, prevista no art. 33, §4º, da Lei n. 11.343/06, bem como a concessão
+de regime prisional menos severo e a substituição da pena privativa de
+liberdade por restritivas de direitos.
+Consta dos autos, em apertada síntese, que o recorrente Gutierrez
+Aparecido da Conceição Felipe foi condenado à pena de 04 (quatro) anos
+e 08 (oito) meses de reclusão, regime semiaberto e 466 (quatrocentos e
+sessenta e seis) dias-multa, no piso, pela prática de crime de tráfico de
+drogas (art. 33, caput, combinado com o art. 40, V, ambos da Lei n.
+11.343/06).
+Interposto recurso de Apelação pela defesa, a 2ª Câmara Criminal do
+Tribunal de Justiça do Estado de Mato Grosso do Sul, por unanimidade
+de votos, negou provimento ao apelo defensivo (processo-crime n.
+0003272-87.2017.8.12.00004), conforme a seguinte ementa:
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 923E-65B8-A288-9CA3 e senha 931B-BFD0-1C30-E015
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 11
+
+RHC 172292 AGR / MS
+
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS ARTIGO 33 DA LEI 11.343/06 - INSURGÊNCIA DEFENSIVA REDUÇÃO DA PENA INTERMEDIÁRIA AQUÉM DO
+MÍNIMO LEGAL - INVIÁVEL - MANTIDA FRAÇÃO DE 1/5
+PELA INCIDÊNCIA DO ARTIGO 33, §4°, DA LEI 11.343/06 QUANTIDADE DE DROGA APREENDIDA - CONSERVADA A
+MAJORANTE DO ARTIGO 40, V, DA LEI 11.343/06 RECURSO IMPROVIDO.
+Conforme entendimento sumular e doutrinário, a
+incidência da circunstância atenuante não pode conduzir à
+redução da pena abaixo do mínimo legal (Súmula 231 do STJ).
+A quantidade de droga apreendida (26 kg de maconha),
+que não restou considerada na primeira fase da dosimetria,
+justifica a eleição da fração de 1/5 para incidência da causa de
+diminuição do artigo 33, §4°, da Lei 11.343/06.
+Prescindível a efetiva transposição de divisas para
+caracterização da causa de aumento do art. 40, V, da Lei n°
+11.343/06, bastando que se comprove a intenção do agente em
+realizar o tráfico de drogas entre diferentes Estados da
+Federação.
+
+Contra essa decisão, impetrou-se Habeas Corpus no Superior Tribunal
+de Justiça, apontando-se como autoridade coatora o Tribunal de Justiça
+do Estado de Mato Grosso do Sul, objetivando, em linhas gerais, a
+aplicação da causa de diminuição de pena prevista no §4º, do art. 33, da
+Lei n. 11.343/06, em patamar superior ao fixado (1/5), dada a insuficiência
+de fundamentação na escolha do referido quantum. Requereu-se, ainda, a
+modificação do regime prisional para o aberto e a substituição da pena
+privativa de liberdade por restritivas de direitos.
+Sobreveio, então, decisão monocrática da lavra do Min. JORGE
+MUSSI, que não conheceu do habeas corpus impetrado, nos termos do art.
+34, XX, do RISTJ.
+Contra essa decisão, a defesa interpôs Agravo Regimental no Habeas
+Corpus 493.398/MS (Rel. Min. JORGE MUSSI), o qual foi desprovido:
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 923E-65B8-A288-9CA3 e senha 931B-BFD0-1C30-E015
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 11
+
+RHC 172292 AGR / MS
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS.
+TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO
+PREVISTA NO §4º DO ART. 33 DA LEI N. 11.343/2006.
+FRAÇÃO
+DO
+REDUTOR.
+DISCRICIONARIEDADE.
+QUANTIDADE DA DROGA. MITIGAÇÃO INFERIOR AO
+MÁXIMO ACERTADA. AGRAVO DESPROVIDO.
+1. Ainda que em casos análogos esta Corte Superior exclua
+a aplicação do art. 33, §4º, da Lei n. 11.343/2006 em face da
+grande quantidade de droga apreendida, tratando de meio
+processual exclusivo da defesa, não há como mitigar a
+diminuição procedida, sob pena de reformatio in pejus.
+2. Assim, a expressiva quantidade de droga foi
+idoneamente utilizada para fazer incidir a minorante de pena
+no patamar intermediário, não havendo ilegalidade na
+aplicação do redutor no patamar de 1/5 (um quinto).
+Precedentes.
+3. Agravo regimental desprovido.
+
+Insatisfeita com a decisão da Corte da Cidadania, a defesa interpôs
+Recurso Ordinário em habeas corpus, no SUPREMO TRIBUNAL
+FEDERAL, no qual sustentou, novamente, que fosse aplicada, em maior
+escala, a causa especial de diminuição de pena prevista no §4º, do art. 33,
+da Lei n. 11.343/06, bem como fosse modificado o regime prisional para o
+aberto e substituída a pena privativa de liberdade por restritivas de
+direitos.
+Neste recurso, a defesa reitera a necessidade de reconsideração da
+decisão agravada, para que seja garantida a aplicação da causa especial
+de diminuição de pena prevista no §4º, do art. 33, em seu patamar
+máximo, a saber, 2/3 (dois terços), bem como aplicar o regime inicial
+aberto para o início de cumprimento da pena e a substituição da pena
+privativa de liberdade por restritivas de direitos. Requer, ao final, a
+retratação da decisão agravada ou o provimento do presente recurso.
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 923E-65B8-A288-9CA3 e senha 931B-BFD0-1C30-E015
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 11
+
+30/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 172.292 MATO
+GROSSO DO SUL
+
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (Relator):
+Não há reparo a fazer, pois o agravo interno não apresentou
+qualquer argumento apto a desconstituir os fundamentos apontados,
+pelo que se reafirma o seu teor.
+O Superior Tribunal de Justiça, na trilha do que foi decidido pelas
+instâncias ordinárias, negou o aumento do quantum de redução da causa
+especial de diminuição de pena, prevista no art. 33, §4º, da Lei n.
+11.343/06, sob o seguinte fundamento:
+O acórdão recorrido, por sua vez, ao negar provimento ao
+pleito defensivo, estabeleceu (e-STJ, fl. 233):
+Buscou, na terceira fase da dosimetria, a elevação do
+quantum em decorrência da aplicação do artigo 33, §4º, da
+Lei 11.343/06 sendo que restou fixado em 1/5, diante da
+quantidade de droga apreendida, qual seja, 26 kg de
+maconha.
+Não há reparos na fração eleita, eis que a quantidade
+de droga apreendida, que não restou considerada na
+primeira fase da dosimetria, demonstra a necessidade de
+aplicação de fração inferior à máxima prevista.
+Destacou-se que, na hipótese dos autos, o Tribunal
+de origem manteve a fração de 1/5 (um quinto) para
+diminuição da pena, fundado na quantidade da droga
+apreendida, qual seja, '26kg de maconha' (e-STJ fl. 233).
+Ademais, verifica-se que o estabelecimento da fração
+de redução, em patamar diverso do máximo previsto no
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DF02-A0F0-5AFD-4252 e senha A6BF-1CE4-6D71-45F7
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 11
+
+RHC 172292 AGR / MS
+art. 33, §4º, da Lei n. 11.343/2006, com amparo na
+quantidade de droga apreendida está de acordo com a
+jurisprudência do Superior Tribunal de Justiça.
+
+De fato, a dosimetria da pena está ligada ao mérito da ação penal, ao
+juízo que é realizado pelo Magistrado sentenciante após a análise do
+acervo probatório amealhado ao longo da instrução criminal.
+Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os
+elementos de convicção, a fim de se redimensionar a sanção. O que está
+autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o
+controle da legalidade dos critérios invocados, com a correção de
+eventuais arbitrariedades (HC 157.023/RJ, Rel. Min. RICARDO
+LEWANDOWSKI, DJe de 28/06/2018; HC 158.515/SP, Rel. Min. LUIZ
+FUX, DJe de 25/06/2018; RHC 156.515/BA, Rel. Min. ALEXANDRE DE
+MORAES, DJe de 22/06/2018; HC 144.020 AgR/RJ, Rel. Min. EDSON
+FACHIN, Segunda Turma, DJe de 13/06/2018; RHC 140.751 AgR/MG, Rel.
+Min. ROBERTO BARROSO, Primeira Turma, DJe de 13/06/2018 e HC
+157.943/PR, Rel. Min. GILMAR MENDES, DJe de 12/06/2018).
+Mesmo porque, do exame das instâncias ordinárias, soberanas na
+apreciação do conteúdo fático-probatório, depreende-se que os elementos
+colhidos sob o crivo do contraditório indicaram que a redução de 1/5, por
+força da causa especial de diminuição de pena, foi suficiente, sobretudo
+em razão da quantidade de droga (maconha) apreendida (26 kg).
+E para afastar a conclusão implementada pelas instâncias
+antecedentes seria necessário proceder à análise de fatos e provas,
+providência incompatível com esta via processual (HC 155.410 AgR/SP,
+Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de
+27/06/2018; HC 154.119 AgR/PB, Rel. Min. ROBERTO BARROSO,
+Primeira Turma, DJe de 21/05/2018; HC 152.118 AgR/GO, Rel. Min. LUIZ
+FUX, Primeira Turma, DJe de 17/05/2018; RHC 142.458 AgR/RR, Rel. Min.
+CELSO DE MELLO, Segunda Turma, DJe de 23/03/2018; HC 149.954
+AgR/SP, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 06/02/2018 e
+RHC 136.511/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma,
+DJe de 13/10/2016).
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DF02-A0F0-5AFD-4252 e senha A6BF-1CE4-6D71-45F7
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 11
+
+RHC 172292 AGR / MS
+
+Já a fixação do regime inicial de cumprimento da pena não está
+atrelada, de modo absoluto, ao quantum da sanção corporal aplicada,
+devendo-se considerar as especiais circunstâncias do caso concreto.
+Assim, desde que o faça em decisão motivada, o Magistrado sentenciante
+está autorizado a impor ao condenado regime mais gravoso do que o
+recomendado nas alíneas do §2º, do art. 33, do Código Penal. Esse
+entendimento se amolda à jurisprudência cristalizada na Súmula 719 ("A
+imposição do regime de cumprimento mais severo do que a pena
+aplicada permitir exige motivação idônea") e replicada em diversos
+julgados: RHC 134.494 AgR/SP, Rel. Min. CELSO DE MELLO, Segunda
+Turma, DJe de 09/05/2017; RHC 128.827/MT, Rel. Min. RICARDO
+LEWANDOWSKI, Segunda Turma, DJe de 13/03/2017; RHC 122.620/ES,
+Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de
+13/08/2014; HC 118.733/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma,
+DJe de 17/12/2013.
+No caso concreto, o Juiz de Direito da 2ª Vara da Comarca de
+Amambai, ao fixar o regime semiaberto para o recorrente, assim se
+manifestou:
+O E. STF decidiu no HC 111.440 que o regime inicial de
+cumprimento de pena, previsto na Lei dos Crimes Hediondos,
+não prevalece, devendo ser analisado nos termos do Código
+Penal.
+Uma vez reconhecida a figura privilegiada, afasta-se a
+hediondez do delito, nos termos da decisão proferida pelo
+Supremo Tribunal Federal no HC 118.533/MS, bem como ante o
+cancelamento da Súmula 512 do STJ, pela Terceira Seção do STJ.
+Assim, ante a pena concretizada, o regime inicial de
+cumprimento da pena seria o semiaberto.
+Porém, há que se considerar, também, o art. 387, §2º do
+CPP, com a redação dada pela lei 12.736/12, que dispõe que 'o
+tempo de prisão provisória, de prisão administrativa ou de
+internação, no Brasil ou no estrangeiro, será computado para
+fins de determinação do regime inicial de pena privativa de
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DF02-A0F0-5AFD-4252 e senha A6BF-1CE4-6D71-45F7
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 11
+
+RHC 172292 AGR / MS
+liberdade'. Assim, verificando que a parte sentenciada está
+presa desde 10/10/2017 e a pena concretizada, tem-se que não
+houve o transcurso de prazo suficiente para a progressão de
+regime, uma vez que não atingida a fração de 1/6 da pena
+concretizada.
+
+Tal entendimento, conforme acima exposto, guarda fina sintonia
+com inúmeros precedentes desta CORTE, não me parecendo ser o caso de
+modificação do regime prisional para o aberto, especialmente diante das
+circunstâncias do caso concreto e da exacerbada quantidade de droga
+apreendida (26 kg de maconha). Até porque, a pena do recorrente ficou
+balizada em patamar superior a 04 anos de reclusão, pena esta que
+comporta o regime semiaberto (art. 33, §2º, b, do CP).
+Por fim, quanto ao pedido de substituição da pena privativa de
+liberdade por restritivas de direitos, também foi acertada a posição do
+Superior Tribunal de Justiça no HC 493.398/MS. Confira-se:
+Mantida a pena fixada pelas instâncias ordinárias superior
+a 4 anos, o pleito quanto à substituição da pena por restritiva de
+direitos encontra-se prejudicado, haja vista que o paciente não
+preenche os requisitos previstos no art. 33, §2º, alínea 'c' e no
+artigo 44, ambos do Código Penal.
+
+Em conclusão, não há reparo a fazer no entendimento aplicado, pois
+o agravo interno não apresentou qualquer argumento apto a desconstituir
+os fundamentos apontados.
+Diante do exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DF02-A0F0-5AFD-4252 e senha A6BF-1CE4-6D71-45F7
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 10 de 11
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 172.292 MATO
+GROSSO DO SUL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: GUTIERREZ APARECIDO DA CONCEICAO FELIPE
+: DEFENSOR PÚBLICO-GERAL DO ESTADO DE
+MATO GROSSO DO SUL
+: MINISTÉRIO PÚBLICO DO ESTADO DE MATO
+GROSSO DO SUL
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+MATO GROSSO DO SUL
+V O T O
+
+O SENHOR MINISTRO MARCO AURÉLIO - Tem-se habeas corpus
+com a roupagem de recurso ordinário. A envergadura maior da
+impetração constitucional, no que voltada a preservar a liberdade de ir e
+vir, deve ser submetida ao julgamento de Colegiado. Descabe observar
+quer o disposto no artigo 21 do Regimento Interno, no que revela a
+possibilidade de o Relator negar seguimento a pedido manifestamente
+improcedente, quer o artigo 932 do Código de Processo Civil. Ante o fato
+de atuar na sessão virtual, quando há o prejuízo da organicidade do
+Direito, do devido processo legal, afastada a sustentação da tribuna,
+provejo o agravo para que o habeas corpus tenha sequência.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F405-529F-B7BA-2B88 e senha 91D6-7846-AA2D-3F15
+
+Supremo Tribunal Federal
+Extrato de Ata - 30/08/2019
+
+Inteiro Teor do Acórdão - Página 11 de 11
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 172.292
+PROCED. : MATO GROSSO DO SUL
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : GUTIERREZ APARECIDO DA CONCEICAO FELIPE
+PROC.(A/S)(ES) : DEFENSOR PÚBLICO-GERAL DO ESTADO DE MATO GROSSO
+DO SUL
+AGDO.(A/S) : MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE MATO
+GROSSO DO SUL
+Decisão: A Turma, por maioria, negou provimento ao agravo
+regimental, nos termos do voto do Relator, vencido o Ministro
+Marco Aurélio. Primeira Turma, Sessão Virtual de 23.8.2019 a
+29.8.2019.
+Composição: Ministros Luiz Fux (Presidente), Marco Aurélio,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+João Paulo Oliveira Barros
+Secretário da Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CE01-9676-A4B8-885B e senha 30E5-5B8D-7AC6-9E97
