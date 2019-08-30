@@ -1,0 +1,49 @@
+Trata-se de reclamação ajuizada por Agro Latina LTDA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região nos autos do Processo 5039234-77.2014.4.04.7108. Alega-se equívoco na aplicação do precedente desta Suprema Corte no RE 574.706/PR (Tema 69), julgado sob a sistemática da repercussão geral.
+    O acórdão reclamado tem a seguinte ementa:
+    “TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. DO PIS E DA COFINS. TEMA 69 DO STF. LEIS 9.718/1998 E 12.973/2014. ALTERAÇÃO NORMATIVA NÃO JULGADA PELO STF. MUTAÇÃO DE ELEMENTO MATERIAL DA RELAÇÃO JURÍDICA TRIBUTÁRIA. LIMITES DA COISA JULGADA. RETRATAÇÃO.
+    1. Nos termos do enunciado do Tema 69 - STF, o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS.
+    2. Declarado o direito à compensação, na forma prevista no art. 74 da Lei 9.430/96, observada a prescrição quinquenal e atualização dos créditos pela taxa SELIC (art. 39, §4º, da Lei 9.250/95 c/c o art. 73 da Lei 9.532/97).
+    3. A tese jurídica advinda do julgamento do RE 574.706 não se aplica aos pagamentos efetuados sob a égide da Lei 12.973/2014, uma vez que o referido precedente tomou por base substrato normativo diverso ("caput" do art. 3º da Lei 9.718/98).
+    4. A mutação normativa operada pela Lei 12.973/2014, tendo afetado um dos elementos essenciais da obrigação tributária, inaugurou uma nova relação jurídica, tomando por base de cálculo grandeza distinta da prevista na Lei 9.718/98” (documento eletrônico 6 - grifei).
+    A reclamante sustenta que
+    “[e]m aprofundada análise dos fundamentos do acórdão paradigma, percebe-se, que os ilustres Ministros que compunham o Plenário da Corte [do STF] à época, debruçaram acurada discussão sobre a definição do conceito jurídico-constitucional de faturamento, concluindo, pois, que é inconstitucional incluir na base de cálculo do PIS e da COFINS o valor do ICMS.
+    Portanto, como se depreende do acima exposto, o que foi decidido nada tem que ver com disposição específica da Lei 9.718/98 ou da Lei 12.973/14, já que o que foi analisado à exaustão foi justamente o conceito constitucional de faturamento/receita bruta, para após decidir se tal exação seria inclusa na base de cálculo doutra, sendo, portanto, matéria essencialmente constitucional, o que demonstra que pouco interessa a alteração do conceito infraconstitucional de receita, porque, caso objetive incluir o ICMS na base de cálculo das contribuições, será, sempre e necessariamente, inconstitucional.
+    Não obstante, caso se entendesse que a Lei 12.973/2014 importa, de fato, em modificação do conceito de receita bruta, tal como faz o douto ato reclamado, certamente este Supremo Tribunal Federal teria declarado a perda do objeto do RE nº 574.706, deixando, pois, de pronunciar a tese do Tema nº 69, ou, ao menos, teria limitado de maneira expressa seus efeitos.
+    Com todas as vênias ao respeitável acórdão ora reclamado, este Supremo Tribunal Federal solucionou a questão e criou precedente cogente, no caso, a tese estabelecida no Tema 69 de que ‘o ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins’, repise-se, de eficácia vinculativa, na forma do art. 927, III, do CPC/2015 [...]“ (pág. 6 da petição inicial).
+    Requer, ao final, em resumo:
+    “a) [...] seja suspenso o ato reclamado, no ponto aqui atacado (limite temporal da tese firmada no Tema 69 do STF), até o julgamento definitivo da presente medida, para que a reclamante possa deixar de incluir o ICMS na base de cálculo do PIS e da COFINS no período anterior e posterior à Lei n. 12.973/2014;
+    [...]
+    d) No mérito, seja julgado procedente o pedido, reconhecendo a ofensa à autoridade decisória desta e. Corte Constitucional, afastando-se a limitação temporal contida no acórdão proferido pelo Tribunal Regional Federal da 4ª Região, para que a reclamante possa deixar de incluir o ICMS na base de cálculo do PIS e da COFINS no período anterior e posterior à Lei n. 12.973/2014, bem como para que possa restituir ou compensar o indébito correspondente com quaisquer tributos administrados pela Receita Federal do Brasil, respeitada a prescrição quinquenal e atualizado pela SELIC [...]” (pág. 10 da petição inicial).
+    É o relatório necessário. Decido.
+    A presente reclamação não merece prosperar.
+    Consigno, inicialmente, que deixo de ouvir a Procuradoria-Geral da República pela existência de jurisprudência firmada por ambas as Turmas desta Corte sobre a matéria versada nos autos (art. 52, parágrafo único, do RISTF).
+    Pois bem. O art. 988 do Código de Processo Civil dispõe que caberá reclamação para:
+    “[...]
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência”.
+    Ademais, o inciso II do § 5° do artigo 988 informa que a reclamação não será admitida quando proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    Com efeito, antes da entrada em vigor do CPC/2015, a jurisprudência desta Suprema Corte era pacífica quanto ao descabimento de reclamações que apontassem como paradigma um leading case de repercussão geral. Veja-se:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE DO PARÂMETRO DE CONTROLE.
+    1. A reclamação não é sucedâneo recursal. Precedentes.
+    2. A jurisprudência do Supremo Tribunal Federal é firme em considerar incabível a reclamação que indique como paradigma recurso extraordinário julgado segundo a sistemática da repercussão geral.
+    3. Agravo regimental a que se nega provimento” (Rcl 15.378-AgR/SP, Rel. Min. Edson Fachin, Primeira Turma).
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO DE DECISÃO PROFERIDA NO JULGAMENTO DE MÉRITO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. INADMISSIBILIDADE DO USO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (Rcl 18.368-AgR/MS, Rel. Min. Teori Zavascki, Segunda Turma).
+    Entretanto, após a entrada em vigor do CPC/2015, passou a ser cabível a reclamação na qual se indique como parâmetro de controle um leading case de repercussão geral, desde que esgotadas as instâncias ordinárias (art. 988, § 5°, II, do CPC/2015).
+    O Supremo Tribunal Federal tem interpretado o novo requisito do esgotamento das instâncias ordinárias como a necessidade de exaurimento de todos os recursos cabíveis. Nesse sentido:
+    “PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+    1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+    2. Agravo regimental não provido” (Rcl 24.686-ED-AgR/RJ, Rel. Min. Teori Zavascki - grifei).
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. REPERCUSSÃO GERAL. TEMA 368. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+    1. O CPC/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). A interpretação correta a respeito de quando haveria tal esgotamento das instâncias ordinárias é aquela que exige o correto percurso de todo o iter processual, ultimado na interposição de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015. Ou seja, é imprescindível que a parte tenha interposto todos os recursos cabíveis, até a última via processual que lhe é aberta. Nesse sentido, veja-se a Rcl 24.686-ED-AgR, Rel. Min. Teori Zavascki.
+    2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime” (Rcl 32.277-AgR/RS, Rel. Min. Roberto Barroso - grifei).
+    “Agravo regimental em reclamação. 2. Alegado descumprimento de decisão proferida por esta Corte (tema 339 da sistemática da repercussão geral). 3. Não esgotamento das instâncias ordinárias. 4. Reclamação como sucedâneo recursal. Inadmissibilidade. 5. Negativa de provimento ao agravo regimental” (Rcl 32.193-ED-AgRMT, Rel. Min. Gilmar Mendes).
+    No caso, observo que a parte reclamante não comprovou o esgotamento das instâncias recursais ordinárias, e aponta como ato reclamado acórdão em apelação cível (documento eletrônico 6).
+    Em consulta ao sítio eletrônico do TRF da 4ª região, verifico que, nos andamentos processuais da Apelação Cível 5039234-77.2014.4.04.7108, há recurso extraordinário admitido.
+    Ademais, em consulta ao sítio eletrônico do Superior Tribunal de Justiça, constato que, em 27/8/2019, os autos do AREsp 1.529.235/RS, relacionados ao ato reclamado na origem, estão conclusos ao relator para decisão.
+    Isso posto, nego seguimento à reclamação (art. 21, § 1°, do RISTF), ficando prejudicado, por conseguinte, o exame do pedido liminar.
+    Publique-se.
+    Brasília, 30 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
