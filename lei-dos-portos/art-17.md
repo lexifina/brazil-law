@@ -4,7 +4,7 @@ I - cumprir e fazer cumprir as leis, os regulamentos e os contratos de concessã
 II - assegurar o gozo das vantagens decorrentes do melhoramento e aparelhamento do porto ao comércio e à navegação;
 III - pré-qualificar os operadores portuários, de acordo com as normas estabelecidas pelo poder concedente;
 IV - arrecadar os valores das tarifas relativas às suas atividades;
-V - fiscalizar ou executar obras de construção, reforma, ampliação, melhoramento e conservação das instalações portuárias, inclusive a infraestrutura de proteção e acesso ao porto;
+V - fiscalizar ou executar as obras de construção, reforma, ampliação, melhoramento e conservação das instalações portuárias;
 VI - fiscalizar a operação portuária, zelando pela realização das atividades com regularidade, eficiência, segurança e respeito ao meio ambiente;
 VII - promover a remoção de embarcações ou cascos de embarcações que possam prejudicar o acesso ao porto;
 VIII - autorizar a entrada e saída, inclusive atracação e desatracação, o fundeio e o tráfego de embarcação na área do porto, ouvidas as demais autoridades do porto;

@@ -16,9 +16,8 @@ XIV - projetar, acompanhar e executar, direta ou indiretamente, obras relativas 
 XV - estabelecer padrões, normas e especificações técnicas para a elaboração de projetos e execução de obras viárias relativas às estradas de ferro do Sistema Federal de Viação;
 XVI - aprovar projetos de engenharia cuja execução modifique a estrutura do Sistema Federal de Viação, observado o disposto no inciso IX do caput deste artigo.
 XVII - exercer o controle patrimonial e contábil dos bens operacionais na atividade ferroviária, sobre os quais será exercida a fiscalização pela Agência Nacional de Transportes Terrestres - ANTT, conforme disposto no inciso IV do art. 25 desta Lei, bem como dos bens não-operacionais que lhe forem transferidos;
-XVIII - implementar medidas necessárias à destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento;
-XIX - propor ao Ministério da Infraestrutura, em conjunto com a ANTT, a destinação dos ativos operacionais ao término dos contratos de arrendamento; e
-XX - projetar, acompanhar e executar, direta ou indiretamente, obras ou serviços de engenharia em portos organizados, decorrentes de investimentos programados pelo Ministério da Infraestrutura e autorizados pelo Orçamento Geral da União.
+XVIII - implementar medidas necessárias à destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento; e
+XIX - propor ao Ministério dos Transportes, em conjunto com a ANTT, a destinação dos ativos operacionais ao término dos contratos de arrendamento.
 § 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ.
 § 2º No exercício das atribuições previstas neste artigo e relativas a vias navegáveis, o DNIT observará as prerrogativas específicas da autoridade marítima.
 § 3º É, ainda, atribuição do DNIT, em sua esfera de atuação, exercer, diretamente ou mediante convênio, as competências expressas no art. 21 da Lei nº 9.503, de 1997, observado o disposto no inciso XVII do art. 24 desta Lei.
