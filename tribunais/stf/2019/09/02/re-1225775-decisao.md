@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 6ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 209):
+    “EMENTA: APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - AGENTE DE SEGURANÇA PENITENCIÁRIO - CONTRATOS ADMINISTRATIVOS - SUCESSIVAS RENOVAÇÕES - FGTS - RE N° 765.320/MG - CONTRATAÇÃO VÁLIDA - PAGAMENTO INDEVIDO - RECURSO NÃO PROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 247-251).
+    No recurso extraordinário, com fundamento no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa ao art. 37, IX e § 2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “no caso dos autos houve sucessivas renovações contratuais, maculando assim o requisito de temporariedade da contratação e por consequência a legalidade da contratação” (eDOC 1, p. 270) e que, “Evidenciada a nulidade dos contratos, ante a violação e da Constituição Federal e da Lei Estadual 18.185/09 (...) imperioso a determinação do direito à percepção do FGTS” (eDOC 1, p. 271).
+    A Primeira Vice-Presidente do TJMG admitiu o extraordinário (eDOC 1, p. 313-317).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, à luz da legislação de regência e do conjunto fático-probatório dos autos, assentou a validade da contratação (eDOC 1, p. 213):
+    “Da leitura da norma acima transcrita [arts. 2º, caput, I a V, 4º, caput, IV, § 1º e III, da Lei estadual 18.185/2009], extrai-se que é possível a contratação temporária do agente de segurança penitenciário pelo prazo de até 3 (três) anos, prorrogáveis por mais 5 (cinco) anos, totalizando um prazo máximo total de 8 (oito) anos.
+    Considerando-se que, na hipótese, as sucessivas renovações contratuais regidas pela Lei Estadual n° 18.185/09 não ultrapassaram o lapso temporal máximo previsto, restam válidas as contrações firmadas com o apelante, pelo que, em consonância com o decidido pelo STF, e revendo posicionamento por mim anteriormente adotado, tenho que não faz jus ao recebimento do FGTS pleiteado, porquanto constitui direito apenas daqueles que tiveram sua contratação eivada pelo vício da nulidade.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, bem como o exame da legislação local aplicável à espécie e das cláusulas contratuais, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279, 280 e 454 do STF. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. EXCEPCIONAL INTERESSE PÚBLICO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 765.306-AgR, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “RECURSO. Extraordinário. Inadmissibilidade. Depósitos de FGTS. Condenação. Alegação de ofensa ao art. 37, II, § 2º, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula 279. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas.” (AI 546.752-AgR, Rel. Min. Cézar Peluso, Primeira Turma).
+    Ressalto que a hipótese dos autos não guarda relação com o que decido por esta Corte quando do julgamento do RE 596.478 (Tema 191), de relatoria da Min. Ellen Gracie, porquanto a hipótese de incidência do referido Tema 191 abrange os casos de contrato declarado nulo, situação diversa da narrada nos presentes autos, em que não foi reconhecida a nulidade da contratação.
+    Por fim, constata-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal. Portanto, resta inviabilizado o recurso extraordinário no que fundado na alínea c do inciso III do art. 102 da Constituição Federal.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e, nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente.
+    Publique-se.
+    Brasília, 2 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
