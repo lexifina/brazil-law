@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Roberto Avila Abraham contra acórdão que, confirmado em sede de embargos de declaração pelo E. Superior Tribunal de Justiça, está assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INEXISTÊNCIA DE VÍNCULO ASSOCIATIVO. MATÉRIA NÃO SUSCITADA NO APELO ORDINÁRIO. INOVAÇÃO RECURSAL. PREQUESTIONAMENTO. NECESSIDADE. SÚMULAS 282 E 356/STF.
+    1. A alegação de inexistência de vínculo associativo somente foi trazida à discussão em sede de embargos infringentes e de nulidade, revelando nítida inovação recursal na instância de origem.
+    2. Inviável a análise da matéria nesta via especial, porquanto não foi objeto de debate na instância ordinária, incidindo o óbice previsto nas Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE ILEGALIDADE.
+    1. A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, mas sim um exercício de discricionariedade vinculada, devendo o magistrado eleger a sanção que melhor servirá para a prevenção e repressão do fato-crime praticado, exatamente como realizado na espécie.
+    2. Na hipótese, a decisão agravada, em observância ao princípio da individualização da pena, manteve a exasperação da sanção inicial estabelecida na origem, em razão da negativação das circunstâncias do delito, considerando o modus operandi utilizado pelo acusado na execução do crime, fundamento que imprime maior reprovabilidade à conduta imputada, justificando o aumento procedido, nos termos da jurisprudência desta Corte Superior.
+    DETRAÇÃO PENAL. SENTENÇA CONDENATÓRIA ANTERIOR À VIGÊNCIA DA LEI Nº 12.736/2012. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. INSURGÊNCIA IMPROVIDA.
+    1. Nos termos da jurisprudência desta Corte Superior, cabe ao Juízo da execução a análise da possibilidade de mitigação do regime inicial de cumprimento de pena em razão do cômputo do período de prisão cautelar quando a sentença condenatória tiver sido proferida antes da entrada em vigor da Lei n. 12.736, de 30.12.2012, que alterou o art. 387, § 2º, do Código de Processo Penal, como na hipótese.
+    2. Agravo regimental improvido.”
+    O agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, XLVI, “a”, “d” e “e”, e LIV, da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932,III).
+    Publique-se.
+    Brasília, 02 de setembro de 2019.
+Ministro CELSO DE MELLO
+Relator
