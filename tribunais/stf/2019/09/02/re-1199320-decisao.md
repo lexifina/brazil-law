@@ -1,0 +1,12 @@
+DESPACHO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre registrar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 608.482/RN, Rel. Min. TEORI ZAVASCKI, Tema nº 476/RG, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO QUE ASSUMIU O CARGO POR FORÇA DE LIMINAR. SUPERVENIENTE REVOGAÇÃO DA MEDIDA. RETORNO AO ‘STATUS QUO ANTE’. ‘TEORIA DO FATO CONSUMADO’, DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. INAPLICABILIDADE. RECURSO PROVIDO.
+    1. Não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+    2. Igualmente incabível, em casos tais, invocar o princípio da segurança jurídica ou o da proteção da confiança legítima. É que, por imposição do sistema normativo, a execução provisória das decisões judiciais, fundadas que são em títulos de natureza precária e revogável, se dá, invariavelmente, sob a inteira responsabilidade de quem a requer, sendo certo que a sua revogação acarreta efeito ‘ex tunc’, circunstâncias que evidenciam sua inaptidão para conferir segurança ou estabilidade à situação jurídica a que se refere.
+    3. Recurso extraordinário provido.”
+    É preciso salientar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (ARE 855.723-AgR-segundo- -ED/RJ, Rel. Min. GILMAR MENDES – RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, quanto ao Tema nº 476/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 02 de setembro de 2019.
+Ministro CELSO DE MELLO
+Relator
