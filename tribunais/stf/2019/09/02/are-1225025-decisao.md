@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE SAPUCAIA DO SUL. NOMEAÇÃO PARA NOVO CARGO EM COMISSÃO. AUSÊNCIA DE AFRONTA AO PRINCÍPIO CONSTITUCIONAL DA IRREDUTIBILIDADE DE VENCIMENTOS.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, XV, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Convém assinalar, por relevante, que a questão ora em exame foi decidida com base no direito local (Leis municipais nºs 2.028/97 e 3.559/2014), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Rio Grande do Sul, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de direito local:
+    “O autor foi exonerado em 31-7-2014 do cargo em comissão de Assessor Parlamentar de Mesa – padrão CC VI (fl. 16), sendo nomeado, no dia posterior – 1-8-2014 –, para o cargo de Assessor Geral da Mesa Diretora – padrão CC VI (fl. 17).
+    …..................................................................................................
+    No caso versado, não houve afronta ao princípio da irredutibilidade de vencimentos, porque o autor, ao ser nomeado para cargo em comissão diverso, de Assessor Geral da Mesa Diretora – Padrão CC VI – em 1-8-2014 (fl. 17), sujeitou-se à novel legislação municipal que restringiu o pagamento das vantagens temporais aos servidores efetivos (Lei Municipal nº 3.559/2014), vigente a contar de julho de 2014 (fl. 29).
+    Ressalto que a Administração possui liberdade de movimento de pessoal, podendo a qualquer momento exonerar o servidor investido em cargo em comissão, sem que isso represente ofensa à moralidade administrativa, já que é da própria natureza do cargo a demissibilidade ‘ad nutum’.
+    …...................................................................................................
+    Desse modo, não prospera o pedido, porque possível a exoneração ad nutum do servidor comissionado, e posterior nomeação para outro cargo sem a previsão de pagamento de gratificação anteriormente prevista, não havendo violação ao princípio da irredutibilidade vencimental.”
+    É importante referir, finalmente, que não se demonstrou considerada a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 02 de setembro de 2019.
+Ministro CELSO DE MELLO
+Relator
