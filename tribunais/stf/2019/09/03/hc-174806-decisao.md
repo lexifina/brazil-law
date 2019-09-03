@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Alexandre Mariani Solon, em favor de Felipe Rossi Eduardo dos Santos, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que rejeitou os EDcl no AgRg no AREsp 1.427.023/SP
+    Consta dos autos que o paciente foi denunciado como incurso nos art. 303, caput e parágrafo único, art. 302, §1º, III, e art. 305, todos do Código de Trânsito Brasileiro (CTB), por ter praticado lesão corporal culposa na condução de veículo automotor e por se afastar do local do acidente para fugir às responsabilidades penal e civil. (eDOC 5, p. 1)
+    Ao final da instrução, o réu foi condenado, com base nos arts. 303, caput e parágrafo único e 302, §1º, III, do CTB, à pena de oito meses de detenção, em regime inicial aberto, bem como a suspensão ou proibição de se obter a permissão ou habilitação para dirigir veículo automotor pelo período de três meses. Foi, ainda, absolvido da imputação relativa ao art. 305 do CTB. (eDOC 5, p. 6)
+    Irresignada, a defesa apelou ao Tribunal de Justiça do Estado de São Paulo postulando, em suma, a absolvição do réu. A 11ª Câmara de Direito Criminal do TJSP deu parcial provimento ao recurso apenas para reduzir a pena de suspensão da habilitação para conduzir veículo automotor de três para dois meses. (eDOC 6, p. 6-9)
+    Daí o manejo de recurso especial no Superior Tribunal de Justiça com o intuito de reformar o acórdão de segundo grau e a sentença de mérito. (eDOC 8) Após decisão que inadmitiu o REsp, a defesa interpôs o agravo competente para que ele fosse distribuído no STJ, sendo, ao final, conhecido para não se conhecer do recurso especial. (eDOC 10)
+    Interposto agravo regimental, este restou desprovido nos termos da ementa que colho do sítio eletrônico do STJ:
+    “AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PLEITO ABSOLUTÓRIO. CULPA EXCLUSIVA DA VÍTIMA. RECONHECIMENTO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7 DA SÚMULA DO STJ. AGRAVO IMPROVIDO.
+    1. A Corte de origem, após aprofundada reapreciação dos elementos constantes dos autos, concluiu, de modo fundamentado, acerca da materialidade e autoria assestadas ao agravante, considerando que foi o responsável pelo atropelamento que causou as lesões na vítima, circunstâncias que legitimaram sua condenação pela prática do crime previsto no art. 303 do CTB.
+    2. É inviável, por parte desta Corte Superior de Justiça, a análise acerca da aptidão das provas para a manutenção do édito condenatório, porquanto a verificação do conteúdo dos elementos de convicção produzidos no curso do feito implicaria o aprofundado revolvimento de matéria fático-probatória, providência que é vedada na via eleita.
+    DOSIMETRIA. CAUSA ESPECIAL DE AUMENTO PREVISTA NO ART. 302, § 1º, INCISO III, DO CÓDIGO DE TRÂNSITO BRASILEIRO. PRETENDIDO AFASTAMENTO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS CONCRETAS.
+    1. Apresentada fundamentação suficiente para a aplicação da causa especial de aumento prevista no art. 302, § 1º, inciso III, do CTB, considerando que o réu, de fato, evadiu-se do local do acidente deixando de prestar socorro à vítima, para se chegar a solução diversa da alcançada na origem seria necessário o revolvimento do acervo fático-probatório, o que é vedado pelo óbice da Súmula n. 7/STJ.
+    2. Agravo improvido.”
+    Desta decisão, a defesa opôs embargos declaratórios, os quais foram rejeitados nos fundamentos do acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. EXTINÇÃO DA PRETENSÃO PUNITIVA ESTATAL. OMISSÃO. INOCORRÊNCIA. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+    1. Inexistente qualquer omissão a ser sanada na decisão, não há como acolher os aclaratórios, uma vez que o acórdão embargado explicitou as razões da ausência de ilegalidade no julgamento do agravo em recurso especial, que não foi provido.
+    2. ‘O pleito de reconhecimento da prescrição não foi arguido nas razões do recurso especial, constituindo mera inovação, inviável em agravo regimental.’ (AgRg no REsp 1744549/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/06/2019, DJe 27/06/2019)
+    EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. INOCORRÊNCIA DE TRANSCURSO DO LAPSO TEMPORAL ENTRE OS MARCOS INTERRUPTIVOS.
+    1. Firmou-se no âmbito de ambas as Turmas que compõem a Terceira Seção deste Tribunal Superior o entendimento no sentido de que o acórdão que apenas confirma o decreto condenatório, como na hipótese, não constitui marco interruptivo da prescrição.
+    2. Saliente-se que a jurisprudência da Terceira Seção deste Sodalício entende que, inadmitido o Recurso Especial pelo Tribunal de origem em decisão mantida pelo Superior Tribunal de Justiça, há formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível (EAREsp 386.266/SP, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, DJe 03/09/2015).
+    3. Considerando que o recorrente foi condenado à pena de 2 meses de detenção, o prazo a ser observado para o cálculo da prescrição da pretensão punitiva Estatal é o previsto no inciso VI do art. 109 do Estatuto Repressivo, qual seja, 3 anos.
+    4. Fixado o prazo prescricional aplicável à espécie, registre-se que a denúncia foi recebida em 14.8.2013 e a sentença condenatória foi publicada em 6.6.2016.
+    5. Dessa forma, verifica-se que entre a publicação da sentença condenatória e a última data do prazo para a interposição do recurso especial - 28.7.2018 -, não transcorreu o lapso prescricional superior a 3 anos, necessário à configuração da prescrição da pretensão punitiva do Estado, nos termos do disposto no art. 109, VI, do Código Penal, o que afasta a pretensão defensiva.
+    6. Embargos declaratórios rejeitados.” (eDOC 15)
+    Nesta Corte, a defesa reitera a tese de extinção da punibilidade do agente, haja vista a configuração de prescrição da pretensão punitiva do Estado.
+    Requer, liminarmente e no mérito, a concessão da ordem para extinção do jus puniendi em razão do decurso do prazo prescricional.
+    É o relatório.
+    Passo a decidir.
+    No caso, verifica-se a perda superveniente do interesse estatal, visto que a pena aplicada foi alcançada pelo decurso do prazo prescricional.
+    Como disposto no art. 109, VI, do Código Penal, a pena imposta ao paciente prescreve em três anos, haja vista que consistiu em detenção de oito meses, nos termos da sentença de mérito. (eDOC 5, p. 6)
+    Frise-se que, em segundo grau de jurisdição, a sentença foi reformada para beneficiar o réu com abrandamento da restrição do tempo de proibição da permissão ou habilitação para dirigir veículo automotor; em outras palavras, não configura, portanto, o acórdão da apelação causa interruptiva de prescrição em qualquer das hipóteses previstas no rol do art. 117 do CP.
+    Logo, depreende-se que a última causa de interrupção da prescrição se deu com a prolação da sentença, da qual se extrai, em consulta ao sítio eletrônico do TJSP, foi publicada em 6.6.2016.
+    Dessarte, entre o último marco interruptivo da prescrição e o presente, transcorreram mais de três anos, tempo suficiente para configurar a prescrição da pretensão punitiva
+    Assim, com fulcro no art. 107, inciso IV, do CP, declaro extinta a punibilidade do paciente, tendo em vista a ocorrência da prescrição punitiva intercorrente (RI/STF, art. 21, inciso IX).
+    Publique-se. Int..
+    Brasília, 3 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
