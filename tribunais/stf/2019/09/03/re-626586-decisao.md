@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – RESULTADO PRESUMIDO – ARTIGO 22 DA LEI Nº 10.684/2003 – CONSTITUCIONALIDADE – PRECEDENTE DO PLENÁRIO – SEGUIMENTO – NEGATIVA.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. Eis a síntese do ato atacado:
+    CONSTITUCIONAL. TRIBUTARIO. ART. 22 DA LEI 10.684/2003. MAJORAÇÃO DA ALIQUOTA DA CSLL DOS PRESTADORES DE SERVIÇO. INEXISTÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA ISONOMIA, CAPACIDADE CONTRIBUTIVA E NÃO CONFISCO.
+    1. Não há se falar em inconstitucionalidade do art. 22 da Lei n. 10.684/2003 que majorou a alíquota da CSLL de 12% para 32%, relativamente as prestadoras de serviços optantes pelo lucro presumido, se o mesmo foi editado sob a égide da atual redação do art. 195 da Constituição Federal, que em seu § 9º estabelece a possibilidade da definição de alíquotas ou base de cálculo diferenciadas, em razão da atividade econômica, da uti1ização intensiva de mão-de-obra, do porte da empresa ou da condição estrutural do mercado de trabalho.
+    2. Inexistência de ofensa aos princípios constitucionais inseridos nos arts. 3º, 5º, 150, II e IV e 154, § 1º.
+    3. Precedentes jurisprudenciais.
+    4. Remessa necessária conhecida e provida.
+    3. A decisão recorrida está em harmonia com a jurisprudência do Tribunal. Quando do exame da ação direta de inconstitucionalidade nº 2.898/DF, relator o ministro Dias Toffoli, acórdão publicado no Diário da Justiça de 3 de dezembro de 2018, o Pleno assentou a constitucionalidade do artigo 22 da Lei nº 10.684. Confiram a ementa do pronunciamento:
+    Ação direta de inconstitucionalidade. Contribuição Social sobre o Lucro Líquido (CSLL). Artigos 22 e 29, III, da Lei nº 10.684/03. Aumento da base de cálculo do tributo para as empresas prestadoras de serviço. Violação dos princípios da isonomia, da capacidade contributiva, da vedação do confisco ou da anterioridade. Não ocorrência. Improcedência da ação.
+    1. A alteração da redação do art. 20 da Lei nº 9.249/95 pela Medida Provisória nº 232/04 não é suficiente para gerar o prejuízo da ação, pois o dispositivo que modificava o art. 20 da Lei nº 9.249/95 não foi aprovado pelo Congresso Nacional, deixando de constar no texto final da lei de conversão (Lei nº 11.119/05). O efeito revogador somente se operaria quando da conversão em lei do texto provisório.
+    2. Descabimento da alegação de inconstitucionalidade do art. 29, inciso III, da Lei nº 10.684/03 por desrespeito ao princípio da anterioridade anual previsto no art. 150, inciso III, alínea b, da Lei Fundamental. A instituição ou a majoração de contribuições sociais submete-se a regramento específico, estampado no art. 195, § 6º, da Constituição Federal, fazendo o dispositivo remissão expressa à vigência do art. 22 da mesma lei após o interregno de noventa dias da publicação do ato normativo.
+    3. O aumento da base de cálculo da CSLL foi destinado às empresas prestadoras de serviços tributadas com base no lucro presumido ou por estimativa, com exclusão das prestadoras de serviços hospitalares e equiparadas. A norma questionada, sob o pálio da política fiscal, teve o objetivo de sanar discrepância antes estabelecida consistente em uma menor tributação da renda (lucro) das pessoas jurídicas prestadoras de serviço, em detrimento das pessoas físicas desempenhadoras da mesma atividade.
+    4. A conformação do princípio da isonomia na Constituição Federal, mais ainda na vertente tributária, autoriza a adoção de medidas discriminativas para a promoção da igualdade em sentido material. No caso da Contribuição Social de Lucro Líquido (CSLL), assim como de outras contribuições sociais, a Constituição Federal autoriza a adoção de alíquotas ou bases de cálculo diferenciadas, dentre outros critérios, em razão da atividade econômica desenvolvida pela empresa, notadamente após a Emenda Constitucional nº 20/98, que inseriu o § 9º no art. 195 da CF.
+    5. Atrelado ao valor da isonomia, o princípio da capacidade contributiva busca, exatamente, justificar a adoção de critérios de diferenciação de incidência, conforme exija a multiplicidade de situações sociais, sempre visando a uma tributação mais justa e equânime.
+    6. Tendo em conta a totalidade da carga tributária suportada pelo contribuinte, o incremento isolado de uma contribuição não seria suficiente para atestar o efeito confiscatório propalado, porquanto, apesar do maior sacrifício da renda do sujeito passivo do tributo, não se impôs óbice irrazoável ao exercício de sua atividade.
+    7. Ação que se julga improcedente.
+    4. Ante o precedente, nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 3 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
