@@ -1,0 +1,25 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que negou seguimento à reclamação.
+    Nas razões recursais, o embargante aponta omissão na decisão recorrida haja vista não ter sido apreciada a alegação de violação à competência do Supremo Tribunal Federal por negativa de processamento a recurso extraordinário o qual contém razões recursais autônomas que não foram objeto de juízo negativo de admissibilidade. (eDOC 23)
+    Sustenta ainda erro de fato fundada na afirmação de que afirmar que ‘a decisão desconstituída na ação rescisória de origem, é anterior à edição da lei 8.112/1990, que estabeleceu o regime estatutário’, porquanto o reclamante, ora embargante, não somente alegou, como provou documentalmente nos autos do presente processo (prova essa que não foi impugnada, sob nenhum aspecto, pela autoridade ora reclamada), que a decisão desconstituída na ação rescisória de origem é posterior à edição da lei n° 8.112/1990, que estabeleceu o regime estatutário. (eDOC 48, p. 5-6)
+    Pugna-se pelo conhecimento dos embargos de declaração para conferir-lhe efeitos modificativos e reformar a decisão embargada.
+    É o relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC).
+    No presente caso, não se verifica nenhuma dessas hipóteses.
+    Na realidade, observa-se que a parte busca apenas a rediscussão da matéria, com o objetivo de obter os excepcionais efeitos infringentes, o que somente é admitido em situações especiais, ora não vislumbradas.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011; Rcl 25.195 AgR-ED, de minha relatoria, Segunda Turma, DJe 10.10.2017; e Rcl 12.416 AgR-ED, Edson Fachin, Tribunal Pleno, DJe 13.3.2018.
+    Conforme consignado na decisão embargada, na espécie, a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal, visto que o acórdão reclamado está de acordo com o decidido no julgamento do RE-RG 596.663/RJ (tema 494), paradigma da repercussão geral.
+    Com efeito, no aludido paradigma, o Pleno desta Corte assentou que as relações jurídicas de trato continuado atuam rebus sic stantibus, permanecendo sua eficácia enquanto se mantiverem inalterados os pressupostos fáticos e jurídicos adotados, de forma que a superveniente alteração de qualquer desses pressupostos determina a imediata cessação da eficácia executiva do julgado.
+    Desse modo, o acórdão reclamado encontra-se em consonância com o decidido por este Supremo Tribunal. É o que se depreende do trecho do julgado a seguir colacionado:
+    “Esta Corte vem decidindo que a execução das parcelas trabalhistas em prestações sucessivas, não limitadas no tempo, não pode ultrapassar o advento da Lei nº 8.112/90. Ademais, no entendimento consubstanciado na Orientação Jurisprudencial nº 138 da SBDI-1, este Tribunal reconhece como residual a competência da Justiça do Trabalho para apreciar e julgar pedidos referentes ao período anterior à instituição do regime estatutário. (...)
+    Importante destacar que a decisão exequenda – proferida em novembro de 1990 (fls. 53/67 – seq. 1) - não limitou a execução, nem mesmo se manifestando acerca do tema, haja vista que a edição da Lei nº 8.112/90 é fato superveniente, cabendo, por isso mesmo, a limitação apenas em fase de execução. Constou do título exequendo tão somente a condenação ao abono e sua repercussão nas parcelas seguintes, pelo que não se poderia dizer que a limitação, pelo juízo executório, afrontaria a coisa julgada descrita no art. 5º, XXXVI, da Constituição Federal.
+    Por todo o exposto, por fim, conclui-se que a decisão rescindenda, quanto à abrangência da condenação, viola o disposto no art. 114 da Constituição Federal, na medida em que, a partir da vigência da Lei nº 8.212, em 12 de dezembro de 1990, modificou-se a natureza da relação jurídica entre as partes e, via de consequência, a competência material para decidir os conflitos de interesses destas relações. Com isso, os efeitos da condenação limitam-se à data de vigência da Lei nº 8.112/90”. (eDOC 34, p. 1-2)
+    Dessarte, não obstante a parte reclamante ter exaurido as instâncias ordinárias, não vislumbro a aplicação errônea da tese firmada por esta Corte no âmbito da repercussão geral, a dar ensejo ao provimento da presente reclamação.
+    Por fim, reforço que a decisão reclamada não usurpou a competência do STF. Muito pelo contrário, a Corte de origem atendeu ao estabelecido na legislação de regência, ao aplicar o disposto no art. 1.030, § 2º, do Código de Processo Civil.
+    Assim, inexistem omissão, contradição, obscuridade a serem sanadas na decisão ora impugnada.
+    Ante o exposto, rejeito os embargos de declaração (art. 1.024, § 2º, do CPC).
+    Publique-se.
+    Brasília, 3 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
