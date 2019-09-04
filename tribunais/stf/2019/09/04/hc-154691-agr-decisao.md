@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo regimental no habeas corpus.
+    Aduz o agravante que, na sentença, foi-lhe conferido o direito de recorrer em liberdade, motivo por que indevida a execução provisória da pena.
+    Afirma, ainda, que deve ser refeita a dosimetria, “porquanto, no que concerne a culpabilidade e as circunstâncias do crime, utilizou-se de elementares do tipo para recrudescer a pena base (aumento de dois anos e seis meses), em censurável bis in idem.”
+    É o relatório.
+    Decido.
+    Tendo o agravante apontado a presença de omissão, recebo o presente como embargos de declaração.
+    Inicialmente, registro que o trecho da decisão que concede ao réu o direito de recorrer em liberdade pode ser alterado conforme as mudanças fáticas ocorridas no processo, de modo que a determinação da execução provisória da pena não afronta o princípio do non reformatio in pejus.
+    Friso que o início da execução provisória da pena não decorreu da interposição do recurso da defesa, até mesmo porque, se ela não tivesse recorrido, a sentença transitaria em julgado, e a execução se iniciaria.
+    Nesse sentido já assentou o Plenário deste Tribunal:
+    “6. A execução penal é regida por critérios de oficialidade (art. 195, Lei n. 7.210/84), de modo que sua inauguração não desafia pedido expresso da acusação. 7. Não configura reforma prejudicial a determinação de início do cumprimento da pena, mesmo se existente comando sentencial anterior que assegure ao acusado, genericamente, o direito de recorrer em liberdade”. (HC 152.752, Tribunal Pleno, Rel. Min. Edson Fachin, DJe 16.6.2018)
+    Nada a reparar, portanto.
+    Na dosimetria, para majorar a pena-base de 2 anos para 5 anos e 9 meses, registrou o Juízo:
+    “Quanto ao réu NEDIMAR DE PAIVA GADELHA JÚNIOR A culpabilidade, como grau de reprovabilidade da conduta, é elevada; o condenado é (e era) Vereador Municipal, eleito pelo voto popular, chefe do gabinete respectivo, exigindo-se dele, mais de que a qualquer servidor daquela Casa, o comportamento probo e conforme o Direito. Ainda que tenha outras ações penais, o réu é possuidor de bons antecedentes criminais, em face do entendimento firmado na Súmula n. 444 do STJ. Não há elementos que permitam valorar negativamente a conduta social e a personalidade do agente. Há indicação precisa dos motivos, que seriam os próprios do crime, ou seja, o proveito econômico com o desvio do Erário Público. Das circunstâncias destaca-se na dosimetria o fato de que o desvio foi perpetrado por mais de dois anos (entre janeiro de 2011 a maio de 2013), avolumando-se, apenas em relação a este fato, a apropriação de mais de R$ 24.000,00 (vinte e quatro mil reais); ou seja, se em um único mês se tem configurado o crime, a prática desde em ações fracionadas e duradouras refletem a exigência de maior rigor na pena. Identifico consequências extrapenais do crime, consistente na exposição, indevida, reprovável e vexatória, do nome do senhor Marcos Antônio de Paixa Gadelha, que embora não seja propriamente vítima do crime e se tenha indeferido sua intervenção, sofreu as consequências, no âmbito social, da conduta do condenado. O comportamento da vítima (a Administração Pública) em nada influenciou para a consumação do delito, o que, todavia, não poderá ser considerado em desfavor do agente. Desse modo, tendo em vista que as circunstâncias judiciais acima analisadas e que a pena em abstrato oscila entre 02 e 12 anos, fixo a pena-base em 05 anos e 09 meses de reclusão. Não vislumbro a ocorrência de nenhuma circunstância agravante ou atenuante, nem causas de aumento ou de diminuição da pena, motivo pelo qual fixo a reprimenda privativa de liberdade em 05 (CINCO) ANOS E 09 (NOVE) MESES DE RECLUSÃO. (eDOC 4, p. 49)
+    Foram desvaloradas, portanto, três circunstâncias judiciais.
+    No ponto, filio-me ao entendimento de que o aumento da pena-base deve ser proporcional ao número de circunstâncias negativadas. Isto é: como são oito circunstâncias, cada negativação deverá corresponder ao aumento da pena-base na fração de 1/8 (um oitavo) ou em outro patamar razoável, de modo a não atingir o ponto médio.
+    Sobre a dosimetria da pena em casos semelhantes, José Antonio Paganella Boschi escreve o seguinte (Das Penas e Seus Critérios de Aplicação. 6ª ed. Porto Alegre: Livaria do Advogado, 2013. p. 185):
+    “Quando algumas das circunstâncias judiciais forem valoradas negativamente (leia-se: em desfavor do acusado), a pena-base deverá ser quantificada um pouco acima do mínimo legalmente cominado.
+    As peculiaridades do caso podem ensejar que algumas circunstâncias judiciais (por ex. duas ou três) sejam consideradas reprováveis, isto é, axiologicamente desvaliosas.
+    Nessa situação, a regra em tela propõe que o quantum da pena-base seja fixada um pouco acima do mínimo cominado no tipo penal, para bem refletir o grau médio da reprovação pelo fato, sem atingir, no entanto, o termo médio [...]”
+    Conforme transcrito, a decisão afirma a primariedade do imputado e valora positivamente cinco das oito circunstâncias judiciais da primeira fase da dosimetria (art. 59, CP).
+    Desse modo, presentes três das oito circunstâncias judiciais, deve a pena-base ser elevada em 9 (nove) meses.
+    Ante o exposto, reconsidero a decisão agravada para conceder a ordem, a fim de fixar a pena definitiva do agravante em 2 anos e 9 meses de reclusão, em regime inicial aberto, nos termos da fundamentação supra.
+    Determino ao Juízo de origem, ainda, que avalie, fundamentadamente, a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+    Publique-se. Comunique-se.
+    Brasília, 4 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
