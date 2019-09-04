@@ -1,0 +1,11 @@
+EXTRADIÇÃO. APRECIAÇÃO JUDICIAL JÁ TRANSITADA EM JULGADO. PEDIDO DE REFÚGIO. REQUERIMENTO NA VIA INADEQUADA. MANIFESTAÇÃO FUNDAMENTADA DA AUTORIDADE ADMINISTRATIVA COMPETENTE QUANTO À INEXISTÊNCIA JURÍDICA DO PEDIDO. INEXISTÊNCIA DE MOTIVO QUE ENSEJE A SUSPENSÃO DO FEITO. PROCESSO DE EXTRADIÇÃO QUE DEVERÁ RETOMAR SEU CURSO.
+    Decisão: No Ofício nº 194/2019 (fls. 447), a Defensoria Pública da União narrou que o extraditando solicitou ao CONARE o reconhecimento de sua condição de refugiado no Brasil, razão pela qual se impunha, por expressa previsão legal (arts. 33 e 34 da Lei nº 9.474/1997), a suspensão da eventual entrega do cidadão paraguaio ao país requerente, até que o pedido fosse apreciado na via administrativa.
+    Não obstante, o Gabinete da Coordenação-Geral do Comitê Nacional para os Refugiados informou, por meio do Ofício nº 27/2019 (fls. 453/454), que:
+    “a Defensoria Pública pleiteou, em favor do extraditando, junto à 9ª Vara Cível Federal de São Paulo, Mandado de Segurança (NUP 50002878-54.2019.4.03.6100) para que conseguisse, via decisão judicial, provimento para que o pedido fosse recebido pela Polícia Federal. Não tendo logrado êxito na via judicial, decidiu requerer diretamente a esta autoridade, para tentar viabilizar o seu pleito – reitero, Excelência, que esta autoridade que vos subscreve é completamente incompetente para receber o pedido e, por esta razão, o pedido, como alegado pela Defensoria Pública, inexiste no mundo jurídico.”
+    Dessa forma, ante às informações trazidas pela autoridade administrativa competente quanto à inexistência jurídica do pedido de refúgio, que teve seu processamento administrativo negado – negativa esta mantida após sua impugnação judicial –, inexiste causa a ensejar a suspensão do processo de extradição (no âmbito do qual já se operou o trânsito em julgado da decisão autorizadora), o qual deverá retomar o seu regular prosseguimento.
+    Ex positis, reconsiderando a anterior determinação de suspensão da eventual entrega do extraditando ao país requerente, determino o prosseguimento regular do feito.
+    Publique-se. Int..
+    Brasília, 4 de setembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
