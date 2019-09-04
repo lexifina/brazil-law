@@ -1,0 +1,22 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Renato Soares do Nascimento em favor de Vitor Hugo de Souza, contra acórdão do Superior Tribunal de Justiça, que não conheceu do agravo regimental no HC 516.256/SP.
+    O paciente foi denunciado pela prática do crime de homicídio qualificado (art. 121, § 2º, IV, do Código Penal). Ato contínuo, o magistrado de primeiro grau indeferiu o pedido de prisão preventiva formulado pela autoridade policial.
+    Em sede de recurso em sentido estrito, o Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso ministerial para decretar a segregação cautelar do paciente.
+    Inconformada, a Defesa impetrou habeas corpus ao Superior Tribunal de Justiça, que, via decisão monocrática da lavra da Ministra Laurita Vaz, indeferiu a liminar no HC 516.256/SP. Interposto agravo regimental, a Corte Superior não conheceu do recurso.
+    Neste writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Alega inidônea a fundamentação do decreto prisional, porquanto lastreada na gravidade abstrata do delito e ausentes seus requisitos autorizadores. Sustenta falta de contemporaneidade entre a data dos fatos e da custódia cautelar. Aponta a existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Requer, em medida liminar e no mérito, a expedição do contramandado prisional.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DO PEDIDO LIMINAR. DESCABIMENTO DE RECURSO. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO CONHECIDO.
+    1. Não cabe agravo regimental contra decisão proferida em habeas corpus que, fundamentadamente, defere ou indefere o pedido liminar.
+    2. Agravo regimental não conhecido.”
+    A jurisprudência prevalecente desta 1ª Turma da Suprema Corte, forte na dicção constitucional, orientava-se no sentido do não cabimento de habeas corpus substitutivo do recurso ordinário constitucional (HC 139.258/SP, Rel. p/ acórdão Min. Roberto Barroso, DJe 20.3.2018; HC 150.993-AgR, Rel. Min. Luiz Fux, DJe 15.3.2018; HC 149.594-AgR/PE, Rel. Min. Rosa Weber, DJe 22.02.2018).
+    A jurisprudência do Plenário desta Casa, contudo, não veio a endossar tal compreensão. Por todos, destaco recente julgado, o HC 152.752/PR, Rel. Min. Edson Fachin, Plenário, j. 22.3.2018 e 04.4.2018, em que o Tribunal Pleno conheceu de habeas corpus impetrado em caráter substitutivo. Naquela assentada, após enumerar julgados semelhantes do Plenário – v.g. HC 123.971/DF –, conheci do writ em observância ao princípio da colegialidade, ressalvando a minha posição pessoal sobre o tema.
+    De toda forma, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de habeas corpus.
+    O ato apontado como coator está em consonância com a jurisprudência prevalecente deste Supremo Tribunal Federal no sentido de que ‘não se revela suscetível de conhecimento, por incabível, recurso de agravo (‘agravo regimental’) contra decisão do Relator, que, motivadamente, defere ou indefere pedido de medida liminar formulado em sede de ‘habeas corpus’ originariamente impetrado perante o Supremo Tribunal Federal’ (HC 94.993-MC-AgR/RR, Rel. Min. Celso de Mello, Plenário, DJe 13.02.2009); ‘não cabe agravo regimental, como tal recebidos embargos declaratórios com caráter infringente, contra decisão denegatória de liminar em habeas corpus’ (HC 95.272 MC-ED/RS, Rel. Min. Cezar Peluso, 2ª Turma, Dje 28.11.2008); e ‘A jurisprudência do Supremo Tribunal Federal está alinhada no sentido de que não cabe agravo regimental da decisão que defere ou indefere pedido de liminar em habeas corpus’ (HC 93.494 MC-AgR/PR, Rel. Min. Eros Grau, 2ª Turma, DJe 25.4.2008).
+    Anoto, por fim, que à míngua de pronunciamento judicial conclusivo pela Corte anterior quanto às matérias trazidas nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de setembro de 2019.
+Ministra Rosa Weber
+Relatora
