@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de recurso ordinário em habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (AgRg no HC 442.901/SC), assim ementado (eDOC 1, p. 280):
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO PRIVILEGIADO. ALTERNATIVAS DO ART. 155, § 2º, DO CÓDIGO PENAL. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A aplicação da minorante abre um leque de possibilidades para o magistrado, que deve fundamentar a escolha que faz entre as alternativas legais: a) substituir a pena de reclusão por detenção; b) diminuir a pena privativa de liberdade de um a dois terços; c) aplicar somente a pena de multa.
+    2. No caso, os fundamentos adotados pela Corte estadual, além do valor da res furtiva – que ultrapassa a metade do valor do salário mínimo vigente no momento do crime –, o inconveniente causado à vítima, estudante universitário que utilizava a bicicleta como meio de locomoção, evidenciam maior reprovabilidade na conduta do acusado, a impossibilitar a substituição da pena privativa de liberdade apenas por multa.
+    3. Agravo regimental não provido.”
+    Narra a defesa, em síntese, que: a) o recorrente foi condenado, como incurso no art. 155, § 2º, c.c. art. 14, II, do Código Penal; à pena privativa de liberdade substituída por uma restritiva de direitos, consistente na prestação de serviços à comunidade; b) o constrangimento ilegal consiste na não aplicação exclusiva da pena de multa, além de ter sido fixada a minorante da pena em 1/3, sendo que caberia aplicá-la no patamar máximo de 2/3 para o furto privilegiado; c) é inviável o argumento de que que a conduta do acusado possui alto grau de reprovabilidade, pois “o bem foi integralmente restituído à vítima e que não suportou prejuízo algum”, sendo que, “no momento em que o ora recorrente agia, ele foi abordado pelo segurança da Faculdade, de modo que é possível inferir que a vítima sequer ficou uma hora sem a posse de seu bem”; d) não se pode considerar a afirmação feita pelo segurança da faculdade de que o recorrente é conhecido pela prática de furtos na localidade, por violar o princípio da presunção de inocência.
+    À vista do exposto, requer, em liminar, a suspensão dos efeitos do acórdão proferido pelo Superior Tribunal de Justiça e, no mérito, a readequação da pena, a fim de que seja aplicada exclusivamente a pena de multa.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Verifico que o acórdão da Apelação Criminal foi proferido em 21.11.2017 e, de acordo com a proclamação do resultado, foi determinado o imediato cumprimento da pena (eDOC 1, p. 234). Sendo assim, solicitem-se informações ao Juízo da 1ª Vara Criminal da Comarca da Capital de Santa Catarina (Autos nº 0058734-12.2012.8.24.0023) em expediente a ser acompanhado da cópia das razões recursais e desta decisão.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 4 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
