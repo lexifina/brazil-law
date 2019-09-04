@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão da 5ª Turma Recursal do Rio Grande do Sul, que condenou a União ao pagamento de indenização por danos morais decorrentes de poluição ambiental vinculada à aplicação de agrotóxicos em área arrendada pela Força Aérea Brasileira. (eDOC 84)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, caput, II e XXXVI; 37, caput e § 6º; e 225, § 3º, do texto constitucional.
+    Nas razões recursais, alega-se a impossibilidade de responsabilização civil ambiental sem a verificação de um dano efetivo. Quanto à correção monetária aplicada ao valor a ser pago, aduz-se que o acórdão inobserva o pedido de modulação de efeitos no Tema 810. (eDOC 112, p. 9)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A Turma Recursal de origem, ao examinar o conjunto probatório constante dos autos, consignou que os moradores da região teriam sofrido grande angústia em decorrência da aplicação de agrotóxico na vizinhança de suas residências. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ora, se os moradores, seus filhos, crianças que se submeteram às consequências da indevida pulverização da lavoura vizinha tiveram que permanecer trancados em suas residências, adquiriram condicionadores de ar para filtrar a ventilação de acesso de seus lares, sentiram-se mal com os odores captados, sem saber ao certo se tinham sido intoxicados, resta claro o dissabor, angústia e medo daquela população.
+    No caso do dano ecológico, a primeira premissa é perceber que este dano não consiste apenas e tão-somente na lesão ao equilíbrio ecológico, afetando igualmente outros valores precípuos da coletividade a ele ligados, a saber: a qualidade de vida e a saúde. Estes valores estão intimamente interrelacionados, de modo que a agressão ao ambiente afeta diretamente a saúde e a qualidade de vida da comunidade.
+    Já faz algum tempo a doutrina do direito ambiental consagra a noção de que a só circunstância de o autor ter se exposto aos efeitos de uma substância que se desconheça sua natureza, configura dano moral por lesão à sua integridade psicológica, causando-lhe sofrimento, tristeza e angústia”. (eDOC 84, p. 13)
+    Assim, verifica-se que divergir do entendimento firmado pela Turma Recursal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incide no caso a Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Agravo regimental a que se nega provimento”. (ARE 936.414 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28.6.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Responsabilidade objetiva do Estado. Indenização. Nexo causal. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu pela responsabilidade objetiva da Administração Pública e pelo consequente dever de indenizar, com fundamento nos fatos e nas provas constantes dos autos. 2. Não se presta o recurso extraordinário para o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido”. (ARE 719319 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 28.11.2013.
+     Quanto ao regime de atualização monetária incidente sobre condenações judiciais da Fazenda Pública, verifico que a resolução final da controvérsia do tema 810 encontra-se pendente do julgamento dos embargos de declaração opostos ao julgamento do paradigma (RE 870.947-ED, rel. Min. Luiz Fux).
+    Ante o exposto, nego seguimento ao recurso, quanto ao mérito (art. 932, IV, do CPC c/c art. 21, §1º, do RISTF) e, quanto à correção monetária, determino a devolução dos autos à Turma Recursal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 4 de setembro de 2019.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
