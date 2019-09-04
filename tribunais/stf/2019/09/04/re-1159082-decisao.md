@@ -1,0 +1,28 @@
+Trata-se de recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO CUMULADA COM COBRANÇA DAS DIFERENÇAS EM ATRASO. SERVIDOR APOSENTADO ANTERIORMENTE E FALECIDO NA VIGÊNCIA DA EC 41/2003 MACULADA PELO ‘MENSALÃO’, CIRCUNSTÂNCIA QUE NÃO NOS AUTORIZA O RECONHECIMENTO DE SUA INSCONSTITUCIONALIDADE, MAS NÃO NOS IMPEDE O GRITO DA INDIGNAÇÃO. PENSÃO POR MORTE DEVE SER IGUAL A 100% DO VENCIMENTO DO EX-SEGURADO, APOSENTADO, FACECIDO NA VIGÊNCIA DA EC/41. ENTENDIMENTO EM CONTRÁRIO ATINGIRIA, POR VIAS OBLÍQUAS, O DIREITO ADQUIRIDO DO SERVIDOR APOSENTADO ANTERIORMENTE À EMENDA. RECURSO AO QUAL SE DEU PROVINTO NA FORMA OD ARTIGO 557, 1º-A, DO CÓDIGO DE PROCESSO CIVIL. JUROS DE MORA E CORREÇÃO MONETÁRIA QUE DEVEM ATENDER AO DISPOSTO NO ARTIGO 1°-F DA LEI 9.494/1997, COM REDAÇÃO DADA PELA LEI 11.960/2009. AGRAVO INTERNO. PROVIMENTO PARCIAL.
+    I – Garante o artigo 7° da Emenda Constitucional n° 41, de 19/12/2003, a revisão dos benefícios dos pensionistas sempre que houver modificação da remuneração dos servidores em atividade, estendendo inclusive aqueles os benefícios e vantagens concedidos a estes;
+    II – Recurso provido ao abrigo do art. 557, § 1°-A, do Código de Processo Civil;
+    V [sic] – Juros de mora e correção monetária que devem atender ao disposto no artigo 1°-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009 impondo-se, consequentemente, a correção da decisão nessa parte;
+    VI [sic] - Agravo interno parcialmente provido” (pág. 27 do documento eletrônico 2).
+    Neste RE fundado no art. 102, III, alínea a, da Constituição, alega-se violação dos arts. 37, XI, e 40, § 7° e § 8°, da mesma Carta, bem como dos arts. 8° da EC 41/2003 e 3° da EC 47/2005. Sustenta-se que o tribunal recorrido, ao determinar que a recorrente procedesse à atualização de pensão relativa a servidor falecido em 22/5/2005, aplicou a sistemática anterior à EC 41/2003, que previa a regra de paridade e de integralidade.
+    Antes da remessa dos autos a esta Corte, o Terceiro Vice-Presidente do do Tribunal de Justiça do Rio de Janeiro, com base no julgamento do RE 603.580-RG/RJ (Tema 396), devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação. Todavia, o órgão julgador manteve o seu entendimento (págs. 182 a 185 do documento eletrônico 2).
+    Assim, como o órgão julgador não se retratou, o recurso extraordinário foi admitido e remetido a este Tribunal, conforme determinam os arts. 1.030, V, c, e 1.041, caput, do CPC.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido diverge da jurisprudência do Supremo Tribunal Federal, consolidada no julgamento do RE 603.580/RJ, de minha relatoria (Tema 396 da Repercussão Geral), em que os Ministros desta Corte firmaram tese no sentido de que “os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (EC 41/2003, art. 7°), caso se enquadrem na regra de transição prevista no art. 3° da EC 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7°, inciso I)” (grifei). Por oportuno, cito a ementa do paradigma:
+     “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO.
+    I – O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor.
+    II – Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade.
+    III – Recurso extraordinário a que se dá parcial provimento”.
+    Ocorre que o acórdão recorrido manteve decisão que deu provimento ao recurso para condenar o ora recorrente
+    “[…] à revisão do benefício previdenciário da Apelante, a fim de que institua o valor do benefício de pensão por morte referente a 100% (cem por cento) da remuneração do servidor, como se vivo estivesse, com inclusão da vantagens pessoais” (pág. 28 do documento eletrônico 2).
+    No entanto, o óbito do instituidor da pensão ocorreu em 22/5/2005, ou seja, após a vigência da EC 41/2003, que modificou as regras para concessão das pensões, afastando, quanto a essas, o direito à integralidade.
+    Nesse sentido, menciono o RE 1.173.643-AgR/RJ, de relatoria do Ministro Roberto Barroso, assim ementado:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL Nº 41/2003, MAS FALECIDO APÓS SEU ADVENTO. DIREITO À PARIDADE MAS NÃO A INTEGRALIDADE. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL (STF) EM REPERCUSSÃO GERAL.
+    1. O STF, no julgamento do RE 603.580-RG, Rel. Min. Ricardo Lewandowski, com repercussão geral reconhecida, firmou entendimento no sentido de que ‘os pensionistas de servidor falecido posteriormente à EC n. 41/2003 têm direito à paridade com servidores em atividade (EC n. 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC n 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I)’.
+    2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios.
+    3. Agravo interno a que se nega provimento” (grifei).
+    Isso posto, dou provimento ao recurso (art. 21, § 1°, do RISTF) para restabelecer a sentença proferida pelo Juízo de primeiro grau (págs. 162-168 do documento eletrônico 1).
+    Publique-se.
+    Brasília, 4 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
