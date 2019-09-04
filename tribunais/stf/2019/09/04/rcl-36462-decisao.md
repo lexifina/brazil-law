@@ -1,0 +1,19 @@
+Decisão:
+    1. Trata-se de reclamação, com pedido de liminar, contra decisão da 4ª Turma Cível e Criminal do Colégio Recursal de Jales/SP, nos autos nº 1004349-84.2018.8.26.0297, que assim decidiu:
+    “Recurso inominado. Professor da rede estadual. Gratificação denominada “bonificação por resultado”. Verba de caráter eventual que não se sujeita ao princípio da irredutibilidade de subsídios. LCE n. 1.078/08 que estabelece percentual variável até o teto de 20% para pagamento da referida gratificação. Percentual que será estabelecido via Decreto por expressa autorização legal (art. 6º c/c art. 9º, §1º). Recurso provido, para o fim de julgar improcedente o pedido.”
+    2.  O reclamante alega que a decisão reclamada não está em harmonia com o decidido no RE 662.406.
+    3. É o relatório.
+    4. Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF).
+    5.  Não assiste razão à parte reclamante. Com efeito, a reclamação dirigida a esta Corte só é cabível quando se tratar de usurpação de sua competência ou de ofensa à autoridade de suas decisões (art. 102, I, l, da Constituição). No segundo caso, exige-se que o pronunciamento tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte, ou que tenha efeito vinculante (art. 988, II a IV, e §5º, II, do CPC/2015).
+    6. Em se tratando de alegação de violação a decisão dotada de efeito vinculante, o Supremo Tribunal Federal entende que há necessidade de relação de aderência estrita entre o ato impugnado e o paradigma supostamente violado. Nesse sentido, v.g., as Rcl 6.040 ED, Rel. Min. Teori Zavascki; Rcl 11.246 AgR, Rel. Min. Dias Toffoli; e Rcl 21.409, sob a minha relatoria, cuja ementa ora transcrevo:
+    DIREITO CONSTITUCIONAL. RECLAMAÇÃO. SEQUESTRO E BLOQUEIO DE VERBAS PÚBLICAS DO ESTADO DO RIO GRANDE DO SUL. AUSÊNCIA DE REPASSE DOS RENDIMENTOS DAS CONTAS ESPECIAIS DESTINADAS AO PAGAMENTO DE PRECATÓRIOS. ALEGAÇÃO DE AFRONTA ÀS ADI´S 4357 E 4425. INEXISTÊNCIA DE IDENTIDADE ESTRITA ENTRE A DECISÃO RECLAMADA E OS PARADIGMAS APONTADOS. IMPROCEDÊNCIA.
+    1. A discussão acerca da possibilidade de os entes federativos utilizarem os rendimentos decorrentes dos valores depositados nas contas especiais destinadas ao pagamento de precatórios (art. 97, §1º, I, da Constituição) não foi objeto das ADI´s 4357 e 4425.
+    2. Ausência de aderência estrita entre a decisão reclamada e os paradigmas mencionados. Ainda que haja relevância na solução da controvérsia, notadamente devido à grave crise financeira dos Estados, a reclamação não constitui a sede adequada para resolver a questão.
+    3. Reclamação julgada improcedente, cassada a decisão liminar anteriormente concedida.
+    7.  Na decisão reclamada julgou-se que a gratificação de “bonificação por resultado”, verba de caráter eventual, regida pela LCE 1.078/08, que estabelece um percentual variável a ser pago de até 20% a título da gratificação, poderia ter seu valor estabelecido por decreto, dentro da variação proposta na lei.
+    8. Foi exatamente o que ocorreu no caso concreto. Verifico, pois, que a presente hipótese não possui estrita aderência com o conteúdo da decisão proferida no RE 662.406-RG, alegada como paradigma, em que foi fixada a seguinte tese: “o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros a data anterior”.
+    9. Diante do exposto, nos termos do art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não instaurado o contraditório efetivo.
+    Publique-se.
+          Brasília, 4 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
