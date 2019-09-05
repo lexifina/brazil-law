@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado da Paraíba confirmou o entendimento do Juízo quanto à procedência dos pedidos de emissão de certificado de conclusão de Ensino Médio e de matrícula na Universidade Federal da Paraíba. No extraordinário, o recorrente alega violação dos artigos 205 e 208, inciso V, da Constituição Federal. Sustenta não ter o candidato comprovado a idade mínima legalmente instituída para a obtenção do benefício deferido.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos do acórdão recorrido, em síntese:
+    AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE FAZER. APROVAÇÃO NO ENEM. CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO. MENOR DE DEZOITO ANOS. DIREITO À EDUCAÇÃO. PROCEDÊNCIA. APTIDÃO INTELECTUAL DEMONSTRADA. PRECEDENTES JURISPRUDENCIAIS — MANUTENÇÃO DA DECISÃO MONOCRÁTICA — DESPROVIMENTO. - "(…) Apesar do art. 1º da Resolução do CEE n° 026/2011 exigir o requisito de dezoito anos completos até a data de realização da primeira prova do Enem, é sabido que na aplicação da Lei, o julgador deve zelar pelo bom senso e razoabilidade, tomando o cuidado de evitar ficar adstrito ao sentido literal e abstraio do comando legal, aplicando o dogmatismo jurídico em prejuízo dos princípios constitucionais que norteiam o direito à educação. Os princípios constitucionais da proporcionalidade, razoabilidade, legalidade e do direito à educação devem ser buscados no intuito de relativizar os requisitos para o ingresso em instituição de ensino superior O sentido ideológico da norma constitucional deve prevalecer sobre a letra impessoal da resolução. (TJPB; AI 999.2013.000.105-31001; Primeira Câmara Especializada Cível; Rel. Des. Leandro dos Santos; DJPB 10/10/2013."
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+ Brasília, 5 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
