@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior Trabalho, ementado nos seguintes termos:
+          “AGRAVO DE INSTRUMENTO – 1. INCOMPETÊNCIA DO TRIBUNAL REGIONAL PARA NEGAR SEGUIMENTO AO RECURSO DE REVISTA COM A ANÁLISE DO MÉRITO.” (eDOC 26, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação as súmulas 20 e 21 do STF e aos arts. 5º, LV e; 37 do texto constitucional.
+    Nas razões recursais, alega-se que o ato de dispensa é nulo, pois não pode um servidor ser demitido sem a administração apresentar os motivos determinantes para fazê-lo, sem garantia a ampla defesa e o contraditório, em procedimento formal administrativo, por violação aos princípios de motivação e moralidade. (eDOC 28, p. 15)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou embora a recorrente tenha ingressado nos quadros da Universidade de São Paulo antes da promulgação da atual Constituição Federal, sem concurso público, não foi alcançada pela regra de transição prevista no art. 19 do ADCT, de maneira que não goza de estabilidade. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De início, não obstante os termos da Súmula nº 221 desta Corte, ressalte-se a inovação relativamente à invocação das Leis nºs 9.962/2000 e 9.784/99, as quais não constaram do recurso de revista.
+    Por outro lado, conforme explicitado pelo Tribunal Regional, a reclamante, embora tenha ingressado nos quadros da reclamada antes da promulgação da atual Constituição Federal, sem concurso público, não foi alcançada pela regra de transição prevista no art. 19 do ADCT, de maneira que não goza de estabilidade.
+    Nesse contexto, correta a Corte Regional ao considerar prescindível a instauração de processo administrativo para a dispensa da reclamante.
+    Assim, não há ofensa aos arts. 5º, LV, e 37, capaut, da Constituição Federal.
+    O artigo 7º, I, da Constituição da República não tem pertinência com a matéria em exame.
+    Também não há contrariedade à Súmula nº 390, I, deste Tribunal, que assegura a estabilidade ao servidor público celetista, nos termos do art. 41 da Constituição Federal, o qual remete a estabilidade para aqueles admitidos por concurso público, o que não é o caso da reclamante.
+    Os arestos de fls. 475-476 e 479-483 são inovatórios, uma vez que não constaram do recurso de revista.
+    Por fim, os julgados válidos apresentados no recurso de revista (fls. 443, 445, 449, 451 e 453) são inespecíficos, de acordo com a Súmula nº 296 desta Corte. Com efeito, não se baseiam na premissa fática da decisão do Tribunal Regional, quanto à desnecessidade de motivação para a dispensa da reclamante, que, embora tenha sido admitida sem concurso público antes da Constituição Federal de 1988, não foi abrangida pela estabilidade prevista no art. 19 do ADCT.” (eDOC 26, p. 4/5)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMPREGADO DO CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MINAS GERAIS – CREA/MG. ESTABILIDADE NEGADA. ADMITIDO SEM CONCURSO PÚBLICO. DESNECESSÁRIA MOTIVAÇÃO PARA DISPENSA. AGRAVO A QUE SE NEGA PROVIMENTO. I – Impertinência das alegações de ausência de prequestionamento e incidência do óbice da Súmula 279 desta Corte. Recurso extraordinário interposto pelo agravante. II - Os empregados do Conselho Regional de Engenharia e Agronomia de Minas Gerais – CREA/MG - não gozam da estabilidade assegurada aos servidores públicos da Administração direta, ainda que tivessem sido contratados por concurso público. Precedentes. III – A despedida deverá ser motivada apenas quando o provimento do cargo ocorrer por concurso público, pois este ato administrativo é vinculado. Com esse entendimento visa-se assegurar que os princípios da impessoalidade e da isonomia, observados no momento da admissão por concurso público, sejam também respeitados por ocasião da dispensa. Precedentes. IV - Agravo regimental a que se nega provimento.” (RE 773774 AgR-segundo, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 15.08.2014)
+    “CONSTITUCIONAL. EMPREGADO DE EMPRESA PÚBLICA OU SOCIEDADE DE ECONOMIA MISTA. DISPENSA IMOTIVADA. POSSIBILIDADE. I - Ambas as Turmas desta Corte possuem entendimento no sentido de que os empregados admitidos por concurso público em empresa pública ou sociedade de economia mista podem ser dispensados sem motivação, porquanto aplicável a essas entidades o art. 7º, I, da Constituição. II - Agravo regimental improvido.” (AI 648453 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.12.2007)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 5 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
