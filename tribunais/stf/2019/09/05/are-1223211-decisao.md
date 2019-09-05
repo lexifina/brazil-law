@@ -1,0 +1,26 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 6º e 196 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. EFICÁCIA DE MEDICAMENTO FORNECIDO PELO SISTEMA ÚNICO DE SAÚDE: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (1065116-AgR, Rel. Min. Cármen Lúcia, Presidente, Tribunal Pleno, DJe 06.12.2017).
+    “DIREITO CONSTITUCIONAL. DIREITO À SAÚDE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE MEDICAMENTO PELO PODER PÚBLICO. LISTA DO SUS. COMPROVAÇÃO DA NECESSIDADE. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF SOBRESTAMENTO. MEDICAMENTO DE ALTO CUSTO. INOVAÇÃO DE FUNDAMENTO EM AGRAVO REGIMENTAL.
+    1. O Tribunal de origem, com base na análise da perícia médica, entendeu por determinar o fornecimento de medicamento que não se encontra na lista de fármacos fornecidos pelo Sistema Único de Saúde – SUS.
+    2. Para chegar a conclusão diversa do acórdão recorrido, seria imprescindível uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário. Precedentes.
+    3. A tese de que os medicamentos se caracterizariam como de alto custo não fez parte das razões do recurso extraordinário, sendo aduzida somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual. Precedentes.
+    4. Agravo regimental a que se nega provimento” (ARE 935.824-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 26.8.2016).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. SISTEMÁTICA. APLICAÇÃO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. ALTO CUSTO. AUSÊNCIA DE DISCUSSÃO. PENDÊNCIA DE EMBARGOS DE DECLARAÇÃO NO PARADIGMA. IRRELEVÂNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE MEDICAMENTO NA LISTA DO SUS. DESCONSIDERAÇÃO ANTE A AVALIAÇÃO MÉDICA. SÚMULA 279/STF. HONORÁRIOS NÃO FIXADOS PELA ORIGEM. MAJORAÇÃO DESCABIDA.AGRAVO IMPROVIDO.
+    I - O custo dos medicamentos não foi objeto de discussão do acórdão recorrido, o que desautoriza a aplicação do Tema 6 da repercussão geral - RE 566.471-RG/RN, Rel. Min. Marco Aurélio, ante a ausência de identidade das premissas fáticas.
+    II - O acórdão recorrido está em consonância com o que foi decidido no Tema 793 da repercussão geral, RE 855.178-RG/SE, Rel. Min. Luiz Fux, decisão de mérito, no sentido de que “o tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados”.
+    III - A existência de decisão de mérito julgada sob a sistemática da repercussão geral autoriza o julgamento imediato de causas que versarem sobre o mesmo tema, independente do trânsito em julgado do paradigma. Precedentes.
+    IV - A lista do SUS não é o parâmetro único a ser considerado na avaliação da necessidade do fornecimento de um medicamento de um caso concreto, que depende da avaliação médica. No ponto, para se chegar a conclusão contrária à adotada pelo Juízo de origem, necessário seria o reexame do conjunto fático-probatório, o que inviabiliza o extraordinário. Súmula 279. Precedente.
+    V – Incabível a majoração de honorários, uma vez que não foram fixados pelo juízo de origem.
+    VI - Agravo regimental a que se nega provimento, com aplicação da multa art. 1.021, § 4º, do CPC” (ARE 968.410-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 29.5.2017).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de setembro de 2019.
+Ministra Rosa Weber
+Relatora
