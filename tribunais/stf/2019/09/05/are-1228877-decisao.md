@@ -1,0 +1,47 @@
+DECISÃO
+RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. PROCESSUAL PENAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. RECURSOS EXTRAORDINÁRIOS COM AGRAVOS AOS QUAIS SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravos nos autos principais contra inadmissão de recursos extraordinários interpostos com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça da Bahia:
+    “PENAL E PROCESSO PENAL. APELAÇÕES CRIMINAIS SIMULTÂNEAS. APELANTES CONDENADOS PELA PRÁTICA DOS DELITOS CAPITULADOS NOS ARTIGOS 33, 35, 40, III, TODOS DA LEI DE DROGAS, E ARTIGOS 317 E 333, AMBOS DO CÓDIGO PENAL. PRELIMINARES: 1 - NULIDADE DA PROVA DE INTERCEPTAÇÃO TELEFÔNICA. ATENDIMENTO AOS REQUISITOS LEGAIS. 2 - INÉPCIA DA DENÚNCIA. RESPEITO AO PRECEITUADO NO ARTIGO 41 DO CÓDIGO DE PROCESSO PENAL. 3 - NULIDADE DA CONDENAÇÃO. AUSÊNCIA DE LAUDO TOXICOLÓGICO DEFINITIVO. PRESCINDIBILIDADE. PRESENÇA DE OUTROS MEIOS DE PROVA. 4 - NULIDADE PROCESSUAL. SEGREGAÇÃO EM DISTRITO DIVERSO DA FORMAÇÃO DA CULPA E NÃO COMPARECIMENTO ÀS AUDIÊNCIAS. VÍCIO DE REPRESENTAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. PRELIMINARES REJEITADAS.
+    MÉRITO: MATERIALIDADE E AUTORIA DELITIVAS CABALMENTE COMPROVADAS. INTERCEPTAÇÃO TELEFÔNICA LEGÍTIMA. PROVA TESTEMUNHAL. FLAGRANTE DE ALGUNS DOS ACUSADOS INTEGRANTES DA ORGANIZAÇÃO CRIMINOSA. APELAÇÃO DO MINISTÉRIO PÚBLICO. PLEITO DE EXASPERAÇÃO DA PENA BASE. NÃO ACOLHIMENTO. AUSENTES OS REQUISITOS DO ARTIGO 42 DA LEI DE TÓXICOS. VEDADA UTILIZAÇÃO DE AÇÃO PENAL EM CURSO. SÚMULA 444 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÃO DE INAPLICABILIDADE DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ARTIGO 33, § 4°, DA LEI 11.343/2006, EM RELAÇÃO A ALGUNS APELADOS. ACOLHIMENTO. APELANTES VOLTADOS A PRÁTICA DE ATIVIDADE CRIMINOSA E INTEGRANTES DE ORGANIZAÇÃO CRIMINOSA. CONDENAÇÃO PELA PRÁTICA DO DELITO PREVISTO NO ARTIGO 35 DO MESMO DIPLOMA LEGAL. PRECEDENTES. DECRETADA PERDA DE CARGO PÚBLICO DA APELADA SÁDIA CONSUELO CÂNDIDO PEIXOTO. PENAS REDIMENSIONADAS, DE OFÍCIO.
+    APELOS DEFENSIVOS CONHECIDOS E NÃO PROVIDOS.
+    APELO MINISTERIAL CONHECIDO E PARCIAMENTE PROVIDO” (fls. 39-41, vol. 70).
+    Os embargos de declaração opostos foram rejeitados (fls. 31-35, vol. 72 e fls. 9-12, vol. 73).
+    2. Diversas as partes e diferentes os pedidos, convém analisar os recursos em separado.
+Agravo no recurso extraordinário interposto por Fábio dos Santos Possidônio
+    3. No recurso extraordinário, Fábio dos Santos Possidônio alega ter o Tribunal de origem contrariado os incs. LV e LVII do art. 5º da Constituição da República.
+    Assevera que “não foram produzidas quaisquer provas que atestassem indubitavelmente que o recorrente tenha alguma relação com o fato delituoso contra si imputado” (fl. 34, vol. 74).
+    Sustenta “ilegalidade das interceptações telefônicas, inexistência de perícias das vozes dos seus interlocutores e ausência de laudo definitivo de constatação das drogas” (fl. 35, vol. 74).
+    4. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 4-5, vol. 80).
+    O agravante ressalta que “a r. decisão que inadmitiu o recurso extraordinário interposto está equivocada, posto que não se aplica à presente situação, visto que, a defesa apontou de maneira clara a violação ao art. 5º, inc. LV e LVII da CF/88” (fl. 26, vol. 80).
+    Requer “seja recebido e provido o presente AGRAVO NOS PRÓPRIOS AUTOS, dando-lhe efeito suspensivo à decisão que inadmitiu o RECURSO EXTRAORDINÁRIO interposto e, consequentemente, dar prosseguimento ao feito” (fl. 27, vol. 80).
+    Agravo no recurso extraordinário interposto por Bruno Halla Daneu
+    5. No recurso extraordinário, Bruno Halla Daneu alega ter o Tribunal de origem contrariado os incs. XII, LIII, LIV, LV, LVI, LXI e XLVI do art. 5º e o inc. IX do art. 93 da Constituição da República.
+    Argumenta que “a quebra do sigilo de comunicações telefônicas foi autorizada para a apuração de suposta prática do crime de tráfico de drogas e, por serendipidade, descobriu-se o envolvimento de diferentes pessoas, dentre elas o ora Recorrente, com fatos diversos que não podem valer como prova no processo penal em curso, pois, trata-se de prova fortuita, cuja validade não é aceita na doutrina” (fl. 30, vol. 76).
+    Pondera que a prorrogação injustificada das interceptações telefônicas “acarreta manifesto constrangimento ilegal” (fl. 32, vol. 76).
+    Assinala que “as gravações das conversas interceptadas no monitoramento telefônico não constaram dos referidos autos do processo originado da ação cautelar que produziu as referidas provas” (fl. 33, vol. 76).
+    Ressalta não constar “no caderno processual o mínimo de lastro probatório capaz de dar azo a condenação do Recorrente, de tal forma que o v. acórdão em comento sequer indicou a prova idônea ensejadora da condenação do Recorrente” (fl. 34, vol. 76).
+    Aponta “circunstâncias judiciais a seu favor, de forma que nada existe de concreto para afastar a fixação da pena base do mínimo legal” (fl. 38, vol. 76).
+    6. O recurso extraordinário foi inadmitido pela aplicação da sistemática da repercussão geral (AI n. 791.292-QO-RG/PE, Tema 339), harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal e ausência de ofensa constitucional direta (fls. 13-15, vol. 80).
+    O agravante sustenta que “não se pretende a simples reapreciação de prova, em suposta afronta aos ditames da Súmula 279 deste sodalício” (fl. 41, vol. 80).
+    Assevera que “o decisum vergastado afronta os princípios constitucionais de inadmissibilidade da prova ilícita e do juiz natural, na medida em que foi utilizada para a condenação do Agravante, prova fortuita angariada em investigação que nenhuma relação tem com o suposto crime atribuído contra sua pessoa, sendo o mesmo processado em uma ação que versava sobre tráfico de drogas e que nenhuma conexão possuía com a acusação de corrupção imputada a si” (fl. 42, vol. 80).
+    Requer “seja recebido e processado o presente recurso, afim de que o Recurso Extraordinário interposto pelo Agravante seja conhecido e provido pelo Egrégio Supremo Tribunal Federal” (fl. 2, vol. 81).
+    Examinados os elementos havidos nos autos, DECIDO.
+Agravo no recurso extraordinário interposto por Fábio dos Santos Possidônio
+    7. Razão jurídica não assiste ao agravante.
+    8. O agravo não pode ter seguimento porque o agravante não impugnou os fundamentos da decisão agravada, os quais, por esse motivo, subsistem.
+    Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam os fundamentos da decisão agravada. Confiram-se, por exemplo, os julgados a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSO PENAL. CRIMES TRIBUTÁRIOS. SONEGAÇÃO FISCAL. LEI N. 10.684/2003. PARCELAMENTO DOS DÉBITOS EXTENSÍVEL ÀS PESSOAS FÍSICAS. SUSPENSÃO DA PRETENSÃO PUNITIVA E DA PRESCRIÇÃO. INCABÍVEL O RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 418.110-AgR, de minha relatoria, Segunda Turma, DJe 5.5.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Tribunal de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. II - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (ARE n. 1.106.864-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 3.9.2018).
+    Agravo no recurso extraordinário interposto por Bruno Halla Daneu
+    9. Razão jurídica não assiste ao agravante.
+    10. O agravo não pode ter seguimento porque o agravante não impugnou os fundamentos da decisão agravada, os quais, por esse motivo, subsistem.
+    Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam os fundamentos da decisão agravada. Confiram-se, por exemplo, os julgados a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 868.534-AgR, de minha relatoria, Segunda Turma, DJe 28.4.2015).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE ESTELIONATO. DISPOSIÇÃO DE COISA ALHEIA COMO PRÓPRIA. ARTIGO 171, § 2º, I, DO CÓDIGO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO QUE INADMITIU O APELO EXTREMO. SÚMULA 287 DO STF. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.215.485-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 3.9.2019).
+    Nada há a prover quanto às alegações dos agravantes.
+    11. Pelo exposto, nego seguimento aos recursos extraordinários com agravos (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de setembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
