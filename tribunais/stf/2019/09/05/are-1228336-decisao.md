@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – TAXA DE FISCALIZAÇÃO E FUNCIONAMENTO – ELEMENTO DA BASE DE CÁLCULO DE IMPOSTO – ADOÇÃO – ENUNCIADO VINCULANTE Nº 29 DA SÚMULA DO SUPREMO – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo, ao desprover apelação do contribuinte, assentou a constitucionalidade da taxa de licença e localização, instituída pelo Município de Brodowski, considerado o uso da metragem do imóvel como parâmetro para cálculo do tributo.
+    Eis a síntese do ato recorrido, integrado pelos embargos de declaração:
+    MANDADO DE SEGURANÇA – Impetrante que visa à revisão dos valores cobrados a título de Taxa de Licença de Localização, ante a inconstitucionalidade de sua base de cálculo – Descabimento – Ausente qualquer ilegalidade ou inconstitucionalidade na eleição da metragem do imóvel como parâmetro para cálculo da taxa impugnada – O fato gerador e a base de cálculo do tributo em discussão têm relação direta com o uso do solo urbano, posturas municipais alusivas à segurança, à higiene e à política urbana – Inocorrência de cobrança de forma arbitrária ou confiscatória, bem como de violação aos princípios da razoabilidade e da proporcionalidade/equivalência Entendimento já exarado pelo STF - Sentença mantida - Recurso desprovido.
+    EMBARGOS DE DECLARAÇÃO – APELAÇÃO – MANDADO DE SEGURANÇA - Impetrante que visa à revisão dos valores cobrados a título de Taxa de Licença de Localização, ante a inconstitucionalidade de sua base de cálculo - Segurança denegada em primeiro grau - Recurso de apelação da impetrante desprovido - Embargos opostos pela apelante visando ao saneamento de omissão, com concessão de efeito modificativo - Alegações que não podem ser apreciadas na estreita via do mandado de segurança – Embargos acolhidos em parte, apenas para acrescer-se o referido argumento ao acordão.
+    No extraordinário cujo trânsito busca alcançar, o recorrente alega violação do artigo 145, inciso II e 150, inciso IV, da Constituição Federal. Diz da impropriedade de utilização da metragem do estabelecimento, para fins de apuração do montante da taxa. Afirma que o tributo tem efeito confiscatório.
+    2. Em relação à alegada ofensa ao artigo 150, inciso IV, da Carta da República, as razões recursais partem de pressupostos fáticos estranhos do ato atacado, buscando-se, em síntese, o reexame de elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, o acórdão recorrido está em consonância com a jurisprudência do Tribunal. Conforme dispõe o enunciado vinculante nº 29 da Súmula do Supremo, “é constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra”.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
