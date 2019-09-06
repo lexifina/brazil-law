@@ -1,0 +1,585 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+06/09/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 174.009 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: ALAN FERREIRA DOS SANTOS
+: JORGE LUIS ROSA DE MELO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO REGIMENTAL EM HABEAS CORPUS.
+ORGANIZAÇÃO
+CRIMINOSA.
+PECULATO.
+FALSIDADE
+IDEOLÓGICA E INSERÇÃO DE DADOS FALSOS EM SISTEMA DE
+INFORMAÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM
+PÚBLICA.
+CONVENIÊNCIA
+DA
+INSTRUÇÃO
+CRIMINAL.
+FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA O
+TÉRMINO DA INSTRUÇÃO CRIMINAL. INOCORRÊNCIA.
+1. A decisão que determinou a segregação cautelar apresenta
+fundamentação jurídica idônea, já que lastreada nas circunstâncias do
+caso para resguardar a ordem pública. Sobressai, no particular, que o
+agravante, na condição de agente público, de quem se esperaria uma
+conduta compatível com os anseios da população, foi apontado como
+líder “em esquema que visava fraudar os cofres públicos do Município de
+Sandovalina, no Estado de São Paulo, aproveitando-se de seu cargo de presidente
+da Câmara Municipal, acrescendo-se, ainda, as ameaças dirigidas às testemunhas
+com o fim de causar embaraços à instrução processual”. Ainda, “é dito que Alan
+continua, como sempre fez, comandando o esquema de fraudes, juntamente com
+sua esposa Jaqueline, visando desvio de bens e dinheiro público da Câmara
+Municipal de Sandovalina”.
+2. Prisão preventiva que se revela imprescindível também para
+conveniência da instrução criminal, em razão do fundado receio de que o
+agravante possa embaraçar a instrução probatória e dificultar a
+elucidação dos fatos.
+3. A jurisprudência do SUPREMO TRIBUNAL FEDERAL é no
+sentido de que a razoável duração do processo deve ser aferida à luz da
+complexidade da causa, da atuação das partes e do Estado-Juiz.
+Inexistência de mora processual atribuível ao Poder Judiciário.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4889-A139-064F-FCD5 e senha F58E-9552-19B5-57A8
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+HC 174009 AGR / SP
+4. Agravo regimental a que se nega provimento.
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Primeira Turma, sob a Presidência do Senhor
+Ministro LUIZ FUX, em conformidade com a ata de julgamento e as notas
+taquigráficas, por maioria, acordam em negar provimento ao agravo
+regimental, nos termos do voto do Relator, vencido o Ministro Marco
+Aurélio.
+Brasília, 6 de setembro de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4889-A139-064F-FCD5 e senha F58E-9552-19B5-57A8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+06/09/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 174.009 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: ALAN FERREIRA DOS SANTOS
+: JORGE LUIS ROSA DE MELO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão que
+indeferiu a ordem de Habeas Corpus, por não vislumbrar ilegalidade na
+decisão que manteve a segregação cautelar do paciente.
+Consta dos autos que o agravante, investigado nos autos da
+Operação Tríade, foi preso preventivamente e denunciado pela suposta
+prática dos crimes de organização criminosa (art. 1º, §1°, art. 2º c/c §3º e
+§4º, II, todos da Lei 12.850/2013), peculato (art. 312 do Código Penal),
+falsidade ideológica (art. 299, parágrafo único, do Código Penal) e
+inserção de dados falsos em sistema de informações (art. 313-A do Código
+Penal).
+Buscando a revogação da segregação cautelar, a defesa impetrou
+Habeas Corpus no Tribunal de Justiça do Estado de São Paulo, que
+denegou a ordem.
+Na sequência, impetrou novo writ, desta vez dirigido ao Superior
+Tribunal de Justiça, indeferido pelo Ministro Relator, em decisão mantida
+pela Sexta Turma, no julgamento do Agravo Regimental, conforme a
+seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.
+CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. FRAUDE
+AOS
+COFRES
+PÚBLICOS
+DO
+MUNICÍPIO
+DE
+SANDOVALINA/SP.
+PREVENTIVA.
+ILEGALIDADE.
+AUSÊNCIA. EMBARAÇO À INSTRUÇÃO CRIMINAL.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D595-B18A-BAA0-2838 e senha 219B-327B-41AD-3343
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+HC 174009 AGR / SP
+AMEAÇAS ÀS TESTEMUNHAS. MEDIDAS CAUTELARES
+DIVERSAS DA PRISÃO. INVIABILIDADE. EXCESSO DE
+PRAZO. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. O decreto prisional apresentou fundamentação concreta
+com esteio na liderança do réu, ora agravante, em esquema que
+visava fraudar os cofres públicos do Município de Sandovalina,
+no Estado de São Paulo, aproveitando-se de seu cargo de
+presidente da Câmara Municipal, acrescendo-se, ainda, as
+ameaças dirigidas às testemunhas com o fim de causar
+embaraços à instrução processual.
+2. Havendo a indicação de fundamentos concretos para
+justificar a custódia cautelar, não se revela cabível a aplicação
+de medidas cautelares alternativas à prisão, visto que
+insuficientes para resguardar a ordem pública.
+3. Não há falar na ocorrência de excesso de prazo,
+porquanto, desde que oferecida e recebida a denúncia em
+3/5/2018, da qual consta nove acusados, o processo está em
+constante movimentação, tendo sido expedidos vários laudos e
+diversas cartas precatórias à instrução processual, realizada
+audiência de instrução e julgamento em 11/2/2019, proferindose despacho com o intuito de verificar se todas as precatórias já
+foram cumpridas, designando-se data de interrogatório dos
+réus para data próxima.
+4. Agravo regimental improvido.
+
+Indeferi o pedido de Habeas Corpus.
+Inconformada, a defesa agora apresente Agravo Regimental, em que
+reitera a ausência dos pressupostos para a decretação da prisão
+preventiva e o excesso de prazo para o término da instrução criminal.
+Alega, em suma: (a) a prisão se tornou execução da pena, pois o Agravante se
+encontra recluso desde abril de 2018, sem expetativa da formação da culpa e,
+mesmo que seja condenado as penas graves, de certo, o regime inicial não mais
+será o fechado, em razão do período da prisão cautelar; e (b) Os crimes
+imputados ao Paciente foram praticados no ano de 2015 e, se relacionam com a
+atuação como vereador e Presidente da Câmara. Logo, não existem riscos de
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D595-B18A-BAA0-2838 e senha 219B-327B-41AD-3343
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+HC 174009 AGR / SP
+reiteração criminosa, como citado na decisão hostilizada. Requer, assim, a
+retratação da decisão agravada ou o provimento do recurso, para revogar
+a prisão preventiva ou substituí-la por medidas cautelares diversas.
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D595-B18A-BAA0-2838 e senha 219B-327B-41AD-3343
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+06/09/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 174.009 SÃO PAULO
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+As razões postas no Agravo não se mostram aptas a desconstituir a
+decisão impugnada, que deve ser integralmente mantida.
+O magistrado de origem assentou a necessidade da custódia cautelar
+com arrimo nos fundamentos seguintes:
+[...] No caso concreto há prova da materialidade e indícios
+de autoria no sentido de que os réus estejam envolvidos na
+prática de crimes graves, que preveem pena máxima superior a
+quatro anos de reclusão.
+Segundo consta da denúncia apresentada pelo Ministério
+Público, a qual se embasa em uma minuciosa investigação
+comandada por este órgão, juntamente com a Polícia Civil e
+Tribunal de Contas do Estado de São Paulo, existe um grande
+esquema de desvio de bens e verbas públicas da Câmara
+Municipal de Sandovalina, o qual foi descoberto no ano de
+2015 e, ao que tudo indica, permanece até os dias atuais.
+Citada investigação, que deu origem à denominada
+“Operação Tríade”, fazendo referência ao trabalho harmônico
+desses três órgãos (Ministério Público, Tribunal de Contas e
+Polícia Civil), revelou, segundo a peça acusatória, que os réus
+Jaqueline e Alan, há anos, vêm liderando uma organização
+criminosa destinada a praticar, principalmente, crimes contra
+a administração pública, mais especificadamente contra a
+Câmara Municipal de Sandovalina-SP.
+Alan e Jaqueline, que são marido e mulher, há tempos
+ocupam cargos de destaque no cenário político municipal:
+aquele foi presidente da Câmara Municipal de Sandovalina e
+esta atualmente está investida em referido cargo.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+HC 174009 AGR / SP
+Durante a gestão de ambos, o Tribunal de Contas do
+Estado de São Paulo, por mais de uma vez, apontou diversas
+irregularidades, sendo algumas configuradoras de crimes.
+De acordo com as conclusões trazidas aos autos pelos
+promotores e policiais, os ilícitos criminais ocorreram através
+de gestão administrativa fraudulenta, gastos irregulares com
+servidores públicos mediante pagamentos em pecúnia
+(cheques sacados na boca do caixa de agência bancária),
+emissão de cambiais sem destinações claras ou desprovidas
+das pertinentes vinculações.
+Duas testemunhas protegidas narram de forma
+pormenorizados os atos criminosos, sendo que seus
+depoimentos, aliados a diversos outros documentos carreados
+aos autos, embasam a conclusão no Ministério Público e da
+Polícia.
+É dito que Alan continua, como sempre fez, comandando
+o esquema de fraudes, juntamente com sua esposa Jaqueline,
+visando desvio de bens e dinheiro público da Câmara
+Municipal de Sandovalina.
+Esta, por atualmente ocupar o cargo de presidente de
+câmara, exerce forte influência política sobre todos. E mais, de
+acordo com a investigação, o casal vem atemorizando quem
+cogite denunciá-los. Testemunhas ouvidas em solo policial
+narram que têm medo de serem mortas pelo fato de estarem
+depondo contra os interesses de Alan e Jaqueline.
+Restou demonstrado que simplesmente determinar o
+afastamento de Jaqueline de seu cargo não é suficiente para o
+bom andamento do processo. Isso porque, a exemplo de seu
+marido Alan, que mesmo afastado dos quadros da
+Administração Pública continuou, de fato, dando ordens aos
+funcionários daquela Casa de Leis, certamente a ré manterá a
+mesma conduta, pois o temor que o casal exerce sobre a
+população da pequena cidade de Sandovalina-SP é suficiente
+para criar embaraços na instrução processual e ensejar novas
+infrações penais.
+Com efeito, reputo presente o fundamento garantia da
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+HC 174009 AGR / SP
+ordem pública. Isso porque, da análise dos elementos de
+informação é possível presumir que os réus Alan e Jaqueline,
+em liberdade, voltarão a delinquir, violando os preceitos éticojurídicos que presidem a convivência social. Mantê-los solto
+agravaria a descrença na Justiça e o desfalque ao erário.
+Ainda, como acima relatado, há a conveniência da
+instrução criminal, porque os réus, se soltos, poderão buscar
+vingança contra aqueles que depuserem em seu desfavor e,
+como dito em depoimento, certamente coagirão testemunhas, o
+que já aconteceu.
+Friso que, segundo a acusação, há nos autos diversos
+relatos de que Alan e Jaqueline, em meio aos fatos narrados na
+denúncia, expressa ou veladamente, constrangeram pessoas
+para que agissem conforme seus interesses. Esses relatos
+indicam que ambos tendem a ordenarem retaliações a quem
+contrarie seus interesses.
+Com efeito, a manutenção de ambos no cárcere é medida
+que se impõe, afinal, como já exposto, qualquer outra medida
+diversa da prisão seria insuficiente, mesmo porque o fato de
+estarem ou não ocupando um cargo público é irrelevante, tendo
+em vista que as testemunhas e demais réus continuarão
+temerosos pelo simples motivo deles gozarem da liberdade.
+
+O Superior Tribunal de Justiça, por sua vez, chancelou o
+entendimento das instâncias ordinárias quanto à imprescindibilidade da
+prisão preventiva, conforme segue:
+Como se vê, expôs o decreto prisional fundamentação
+idônea com esteio na liderança do réu, ora paciente, em
+esquema que visava fraudar os cofres públicos do Município de
+Sandovalina no Estado de São Paulo, aproveitando-se de seu
+cargo de presidente da Câmara Municipal, acrescendo, ainda,
+as ameaças dirigidas às testemunhas com o fim de causar
+embaraços à instrução processual.
+Quanto ao pedido de extensão, o aresto impugnado
+decidiu que não foi demonstrada a identidade das situações,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+HC 174009 AGR / SP
+afigurando-se o ora paciente como mentor e agente principal dos atos
+imputados como delituosos, enquanto a corré agira como
+seuinstrumento, como longa manus, substituindo-o no cargo
+legislativo e permitindo o prosseguimento dos apontados ilícitos
+penais (fls. 27/28), não havendo, portanto, similaridade das
+circunstâncias, o que justifica o indeferimento do pleito
+extensivo nos termos do art. 580 do CPP.
+[…]
+Ademais, extensas são as acusações contra o agravante,
+sendo denunciado pela prática de diversos delitos tipificados
+nos seguintes dispositivos: art. 1º, § 1º, art. 2º c.c. § 3º e § 4º, inc.
+II, todos da Lei n° 12.850/2013 (Item I); art. 312 c.c. o art. 71, ambos
+do Código Penal (Item II); art. 299 c.c. p.ú., do Código Penal, por 2
+(duas) vezes, na forma do art. 69 do Código Penal, sendo o primeiro
+c.c. art. 71 do Código Penal (Item III); art. 312 do Código Penal, por 2
+(duas) vezes, na forma do art. 69 do Código Penal (Item IV); art. 312
+do Código Penal, por 6 (seis) vezes, na forma do art. 69 do Código
+Penal (Item V e VII); art. 299 c.c. p.ú. do Código Penal, por 2 (duas)
+vezes, sendo o primeiro c.c. art. 71 do Código Penal (Item VIII); art.
+313-A do Código Penal, por 2 (duas) vezes, sendo o primeiro c.c. Art.
+71 do Código Penal (Item IX); todos c.c. art. 62, inc. I e na forma do
+art. 69 do Código Penal (fl. 113).
+Outrossim, havendo a indicação de fundamentos
+concretos para justificar a custódia cautelar, não se revela
+cabível a aplicação de medidas cautelares alternativas à prisão,
+visto que insuficientes para resguardar a ordem pública. A esse
+respeito: […].
+
+De acordo com o art. 312 do Código de Processo Penal, a prisão
+preventiva poderá ser decretada quando houver prova da existência do
+crime (materialidade) e indício suficiente de autoria. Além disso, é preciso
+demonstrar, concretamente, a existência de um dos fundamentos que a
+autorizam: para garantir a ordem pública; para garantir a ordem
+econômica; por conveniência da instrução criminal; ou, ainda, para
+assegurar a aplicação da lei penal.
+As razões apresentadas pelas instâncias ordinárias revelam que a
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+HC 174009 AGR / SP
+decisão que decretou a segregação cautelar está lastreada em
+fundamentação jurídica idônea, chancelada pela jurisprudência do
+SUPREMO TRIBUNAL FEDERAL.
+Conforme destacou a Corte Superior, é imperiosa a necessidade de
+se garantir a ordem pública, evidenciada sobretudo diante de fatos
+concretos revestidos de remarcada reprovabilidade, apurados após
+extensas investigações levadas a efeito no âmbito da operação
+denominada Tríade. Sobressai, no particular, que o agravante, na
+condição de agente público, de quem se esperaria uma conduta
+compatível com os anseios da população, foi apontado como líder “em
+esquema que visava fraudar os cofres públicos do Município de Sandovalina, no
+Estado de São Paulo, aproveitando-se de seu cargo de presidente da Câmara
+Municipal, acrescendo-se, ainda, as ameaças dirigidas às testemunhas com o fim
+de causar embaraços à instrução processual”. Ainda, “é dito que Alan continua,
+como sempre fez, comandando o esquema de fraudes, juntamente com sua esposa
+Jaqueline, visando desvio de bens e dinheiro público da Câmara Municipal de
+Sandovalina”.
+A propósito, esta SUPREMA CORTE já assinalou que “a necessidade
+de interromper a atuação de organização criminosa e o risco concreto de
+reiteração delitiva justificam a decretação da custódia cautelar para a garantia da
+ordem pública” (HC 138.552 AgR, Rel. Min. ROBERTO BARROSO,
+Primeira Turma, DJe de 19/6/2017). Nessa mesma linha de entendimento:
+HC 148.218 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de
+7/12/2017; HC 137.515, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão:
+Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 19/12/2017;
+RHC 138.937, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 3/3/2017.
+Registre-se, ainda, a informação de que “o casal vem atemorizando
+quem cogite denunciá-los. Testemunhas ouvidas em solo policial narram que têm
+medo de serem mortas pelo fato de estarem depondo contra os interesses de Alan
+e Jaqueline”. Logo, havendo o fundado receio de que o agravante possa
+embaraçar a instrução probatória e dificultar a elucidação dos fatos, a
+prisão cautelar também se justifica por conveniência da instrução
+criminal (HC 171714 AgR, Relator(a): Min. ALEXANDRE DE MORAES,
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+HC 174009 AGR / SP
+Primeira Turma, DJe de 1º/8/2019; HC 142.369, Rel. Min. RICARDO
+LEWANDOWSKI, Segunda Turma, DJe 22/6/2017; HC 126.573, Rel. Min.
+ROSA WEBER, Primeira Turma, DJe de 23/11/2015; HC 139.148 AgR, Rel.
+Min. LUIZ FUX, Primeira Turma, DJe de 18/4/2017; HC 129.168, Rel. Min.
+GILMAR MENDES, Segunda Turma, DJe 16/12/2015).
+De outro lado, é cediço que o Habeas Corpus poderá ser utilizado
+como meio processual adequado para cessar constrangimento ilegal à
+liberdade de locomoção do acusado preso, decorrente de abusivo excesso
+de prazo para o encerramento da instrução criminal. Nesse exame,
+porém, é imprescindível investigar se a demora é resultado ou não da
+desídia ou inércia do Poder Judiciário.
+Daí a convergência de entendimento, na jurisprudência do
+SUPREMO TRIBUNAL FEDERAL, de que a razoável duração do
+processo deve ser aferida à luz das particularidades do caso concreto,
+levando-se em consideração, por exemplo, o número de réus, a
+quantidade de testemunhas a serem inquiridas, a necessidade de
+expedição de cartas precatórias, a natureza e a complexidade dos delitos
+imputados, assim como a atuação das partes (cf.: HC 153536 AgR,
+Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de
+10/5/2018; HC 138.987-AgR, Rel. Min. GILMAR MENDES, Segunda
+Turma, Dje de 7/3/2017; RHC 124.796-AgR, Rel. Min. LUIZ FUX, Primeira
+Turma, Dje de 24/8/2016; HC 135.324, Rel. Min. TEORI ZAVASCKI,
+Segunda Turma, Dje de 6/12/2016; HC 125.144-AgR, Rel. Min. ROSA
+WEBER, Primeira Turma, Dje de 28/6/2016).
+A respeito da matéria, consignou o Superior Tribunal de Justiça:
+Por fim, não há falar-se em excesso de prazo para o
+encerramento da instrução criminal.
+Constata-se que o processo, desde que oferecida, e
+recebida a denúncia em 3/5/2018, da qual consta nove
+acusados, está em constante movimentação, tendo sido
+expedidos vários laudos e diversas cartas precatórias à
+instrução processual, realizada audiência de instrução e
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+HC 174009 AGR / SP
+julgamento em 11/2/2019, proferindo-se despacho, como acima
+relatado, com o intuito de verificar se todas as precatórias já
+foram cumpridas, designando-se data de interrogatório dos
+réus para data próxima, consoante os documentos de fls. 266290.
+Logo, o processo segue sua marcha regular, não havendo
+evidência de desídia por parte do Estado, ressaltando-se,
+outrossim, ainda que o paciente esteja preso desde 10/4/2018, a
+custódia cautelar não se revela desproporcional em relação às
+penas em abstrato cominadas aos delitos pelo qual foi
+denunciado, quais sejam: art. 1º, § 1º, art. 2º c.c. § 3° e § 4°, inc.
+II, todos da Lei nº 12.850/2013 (Item I); art. 312 c.c. o art. 71, ambos
+do Código Penal (Item II); art. 299 c.c. p.ú., do Código Penal, por 2
+(duas) vezes, na forma do art. 69 do Código Penal, sendo o primeiro
+c.c. art. 71 do Código Penal (Item III); art. 312 do Código Penal, por 2
+(duas) vezes, na forma do art. 69 do Código Penal (Item IV); art. 312
+do Código Penal, por 6 (seis) vezes, na forma do art. 69 do Código
+Penal (Item V e VII); art. 299 c.c. p.ú. do Código Penal, por 2
+(duas)vezes, sendo o primeiro c.c. art. 71 do Código Penal (Item VIII);
+art. 313-A do Código Penal, por 2 (duas) vezes, sendo o primeiro c.c.
+Art. 71 do Código Penal (Item IX); todos c.c. art. 62, inc. I e na forma
+do art. 69 do Código Penal (fl. 113).
+Sabe-se que os prazos fixados na legislação para a prática
+de atos processuais servem apenas de parâmetro, não podendo
+deduzir o excesso apenas pela soma aritmética dos mesmos.
+É uníssona a jurisprudência desta Corte no sentido de que
+o constrangimento ilegal por excesso de prazo só pode ser
+reconhecido quando seja a demora injustificável, impondo-se
+adoção de critérios de razoabilidade no exame da ocorrência de
+constrangimento ilegal.
+Não constatada mora estatal em ação penal onde a
+sucessão de atos processuais infirma a ideia de paralisação
+indevida ou de culpa do Estado persecutor, não se vê
+demonstrada ilegalidade no prazo da persecução criminal
+desenvolvida.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+HC 174009 AGR / SP
+Pelo que se depreende, há justificativa plausível e não atribuível ao
+Judiciário para o alongamento da marcha processual, sobretudo se
+consideradas as peculiaridades da causa, como a pluralidade de réus, a
+complexidade dos crimes em apuração e a necessidade de expedição de
+precatórias, circunstâncias que tornam razoável a dilação do prazo para o
+término da persecução criminal.
+Sendo esse o quadro, não há falar em constrangimento ilegal a ser
+sanado, uma vez que inexiste mora processual imputável ao Poder
+Judiciário, ao órgão acusador ou situação incompatível com o princípio
+da razoável duração do processo (art. 5º, LXXIII, da Constituição Federal).
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É o voto.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E8C9-9A51-600F-BC62 e senha F7C4-997F-98F7-79B9
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+AG.REG. NO HABEAS CORPUS 174.009 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: ALAN FERREIRA DOS SANTOS
+: JORGE LUIS ROSA DE MELO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O SENHOR MINISTRO MARCO AURÉLIO – O habeas corpus é ação
+constitucional voltada a preservar a liberdade de ir e vir do cidadão. O
+processo que o veicule, devidamente aparelhado, deve ser submetido ao
+julgamento de Colegiado. Descabe observar quer o disposto no artigo 21
+do Regimento Interno, no que revela a possibilidade de o Relator negar
+seguimento a pedido manifestamente improcedente, quer o artigo 932 do
+Código de Processo Civil. Ante o fato de atuar na sessão virtual, quando
+há o prejuízo da organicidade do Direito, do devido processo legal,
+afastada a sustentação da tribuna, provejo o agravo para que o habeas
+corpus tenha sequência.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3F22-9B2C-0A4E-6108 e senha 704B-A752-6E22-7364
+
+Supremo Tribunal Federal
+Extrato de Ata - 06/09/2019
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 174.009
+PROCED. : SÃO PAULO
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : ALAN FERREIRA DOS SANTOS
+ADV.(A/S) : JORGE LUIS ROSA DE MELO (324592/SP)
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por maioria, negou provimento ao agravo
+regimental, nos termos do voto do Relator, vencido o Ministro
+Marco Aurélio. Primeira Turma, Sessão Virtual de 30.8.2019 a
+5.9.2019.
+Composição: Ministros Luiz Fux (Presidente), Marco Aurélio,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+João Paulo Oliveira Barros
+Secretário da Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5C17-4321-F8F6-D6D8 e senha FA6D-0120-39DF-9689
