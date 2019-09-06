@@ -1,0 +1,18 @@
+Trata-se de reclamação proposta por Sérgio Weslei da Cunha contra ato da Juíza de Direito do 1º Raj Deecrim 1 - Vara de Execuções Criminais da Comarca de São Paulo/SP, que teria descumprido decisão desta Suprema Corte, proferida nos autos da Rcl 24.298/SP, de minha relatoria.
+    Na presente reclamação, a defesa alega que o Juízo reclamado teria descumprido a decisão proferida na Rcl 24.298/SP, pois não fundamentou a aplicação, em grau máximo, da causa de aumento constante no parágrafo único do art. 288 do Código Penal.
+    Sustenta, ainda, que se encontra cumprindo pena em regime prisional mais gravoso, bem como a ocorrência de prescrição.
+    Requer, por fim, a concessão da ordem para que “seja fundamentada a Reforma de Sentença no caso de se manter a majorante de grau máximo (50%) pela aplicação do parágrafo único do art. 288 do Código Penal, já que nenhuma arma foi encontrada em seu poder” e, ainda, que seja fixado o regime aberto ao cumprimento da pena ou prisão domiciliar, bem como seja decretada a extinção da punibilidade em virtude da prescrição (pág. 7 do documento eletrônico 1).
+    Instado a manifestar-se, o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, opinou “pela negativa de seguimento da reclamação e, de ofício, para que o Juízo da Execução Penal apresente fundamentação devida para a majoração da pena, em seu grau máximo, frente ao disposto no parágrafo único do artigo 288 do Código Penal” (pág. 5 do documento eletrônico 19).
+    É o relatório. Decido.
+    Bem examinados os autos, verifico ser o caso de julgar parcialmente procedente a reclamação, apenas para determinar à autoridade coatora que fundamente adequadamente a aplicação da causa de aumento do parágrafo único do art. 288 do CP em seu grau máximo.
+    Isso porque o entendimento pacífico desta Suprema Corte é no sentido de que “os sentenciados têm direito público subjetivo à fundamentação individualizadora das penas que venham a sofrer por efeito de condenação criminal”, ainda que, “para efeito de configuração do delito de quadrilha armada, basta que um só de seus integrantes esteja a portar armas” (HC 72.992/SP, Rel. Min. Celso de Mello).
+    Quanto aos demais pedidos, observo que tais alegações não se encontram abarcadas pelo que foi decidido na Rcl 24.298/SP, cuja parte dispositiva transcrevo:
+    “Isso posto, nego seguimento à presente reclamação (art. 21, § 1°, do RISTF), mas concedo a ordem de habeas corpus, de ofício, para determinar que o Juízo da Execução Penal refaça a dosimetria da pena, adotando a atual redação do parágrafo único do art. 288 do Código Penal e, após determinar o novo quantum poena, e considerando eventual período já cumprido pelo paciente, fixe o regime de cumprimento, em decisão fundamentada.”
+    Dessa forma, este pleito não pode ter seguimento, sob pena de supressão de instâncias e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Ademais, na espécie, não verifico teratologia, flagrante ilegalidade ou abuso de poder que possam ser constatados ictu oculi e que mitigariam a impossibilidade da análise per saltum das questões trazidas na presente reclamação.
+    Isso posto, julgo parcialmente procedente a reclamação, apenas para determinar à autoridade coatora que fundamente a aplicação da causa de aumento do parágrafo único do art. 288 do CP em seu grau máximo.
+    Comunique-se.
+    Publique-se.
+    Brasília, 6 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
