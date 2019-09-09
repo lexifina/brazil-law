@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES GENÉRICAS DE INCONFORMISMO. PRINCÍPIO DA DIALETICIDADE VULNERADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO NÃO CONHECIDO.
+1. O Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos utilizados na decisão que visa a impugnar; sem essa providência, não comporta seguimento.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+3. No caso, a decisão monocrática recorrida acolheu a alegação de ofensa ao art. 535 do Código Buzaid por ter o acórdão recorrido deixado de analisar relevante fundamento para a solução da controvérsia. Contudo, a parte agravante não impugnou, como lhe competia, tal fundamento. Deixou de demonstrar, concretamente, a ausência de omissão no acórdão, bem como a irrelevância do ponto para o deslinde da causa, limitando-se, na verdade, a afirmar genericamente que não houve omissão do Tribunal de origem.
+4. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO em face de decisão monocrática de minha lavra, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ABERTURA DE FIRMA INDIVIDUAL EM NOME DO AUTOR PERANTE À JUCESP. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO CONFIGURADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE, ANULANDO O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO, DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA. PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES.
+2. Sustenta, em suma, que não houve omissão do Órgão Julgador ao apreciar os embargos declaratórios, porquanto não quedou-se silente, ao salientar o efeito infringente do recurso, a par de proclamar a escorreita apreciação das questões submetidas a julgamento (fls. 397).
+3. Impugnação não apresentada (fls. 402).
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES GENÉRICAS DE INCONFORMISMO. PRINCÍPIO DA DIALETICIDADE VULNERADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO NÃO CONHECIDO.
+1. O Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos utilizados na decisão que visa a impugnar; sem essa providência, não comporta seguimento.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+3. No caso, a decisão monocrática recorrida acolheu a alegação de ofensa ao art. 535 do Código Buzaid por ter o acórdão recorrido deixado de analisar relevante fundamento para a solução da controvérsia. Contudo, a parte agravante não impugnou, como lhe competia, tal fundamento. Deixou de demonstrar, concretamente, a ausência de omissão no acórdão, bem como a irrelevância do ponto para o deslinde da causa, limitando-se, na verdade, a afirmar genericamente que não houve omissão do Tribunal de origem.
+4. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO não conhecido.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES GENÉRICAS DE INCONFORMISMO. PRINCÍPIO DA DIALETICIDADE VULNERADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO NÃO CONHECIDO.
+1. O Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos utilizados na decisão que visa a impugnar; sem essa providência, não comporta seguimento.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+3. No caso, a decisão monocrática recorrida acolheu a alegação de ofensa ao art. 535 do Código Buzaid por ter o acórdão recorrido deixado de analisar relevante fundamento para a solução da controvérsia. Contudo, a parte agravante não impugnou, como lhe competia, tal fundamento. Deixou de demonstrar, concretamente, a ausência de omissão no acórdão, bem como a irrelevância do ponto para o deslinde da causa, limitando-se, na verdade, a afirmar genericamente que não houve omissão do Tribunal de origem.
+4. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO não conhecido.
+1. A irresignação não comporta cognição.
+2. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir todos fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos que visa a impugnar; sem essa providência, não comporta seguimento.
+4. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+5. Aplicável, em casos tais, a Súmula 182/STJ, segundo a qual é inviável o Agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+6. No caso, a decisão monocrática recorrida acolheu a alegação de ofensa ao art. 535 do Código Buzaid por ter o acórdão recorrido deixado de analisar relevante fundamento para a solução da controvérsia. Contudo, a parte agravante não impugnou, como lhe competia, tal fundamento. Deixou de demonstrar, concretamente, a ausência de omissão no acórdão, bem como a irrelevância do ponto para o deslinde da causa, limitando-se, na verdade, a afirmar genericamente que não houve omissão do Tribunal de origem.
+7. Ante o exposto, não se conhece do Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO.
+8. É como voto.
