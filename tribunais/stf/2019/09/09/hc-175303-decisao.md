@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por André Luiz Galerani Abdalla em favor de Vinicios Nascimento dos Santos, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 505.222/ES.
+    O paciente foi condenado à pena de 11 (onze) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (arts. 33, c/c 40, V, da Lei 11.343/2006).
+    Em sede de apelação, o Tribunal de Justiça do Espírito Santo deu parcial provimento ao recurso defensivo para reduzir a pena para 09 (nove) anos e 04 (quatro) meses de reclusão. Naquela oportunidade, a Corte Estadual, forte na orientação firmada por este Supremo Tribunal Federal nos autos do HC 126.292/SP, determinou a expedição de guia de execução provisória em desfavor do paciente.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que não conheceu do HC 505.222/ES.
+    No presente writ, o Impetrante alega que a apreciação da matéria não demanda reexame do conteúdo probatório. Sustenta a ocorrência de bis in idem ante a valoração da quantidade de droga apreendida para exasperar a pena-base e para afastar a aplicação da causa de diminuição de pena (art. 33, § 4º, da Lei 11.343/2006). Assevera a primariedade e bons antecedentes ostentados pelo paciente, além da inexistência de provas de dedicação ou integração do paciente à organização criminosa. Defende o reconhecimento da minorante do art. 33, § 4º, da Lei 11.343/2006. Requer, em medida liminar e no mérito, o redimensionamento da pena.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/06. INAPLICABILIDADE. DEDICAÇÃO A ATIVIDADE CRIMINOSA UTILIZADA PARA AFASTAR A REDUTORA DO TRÁFICO PRIVILEGIADO, ALIADA A OUTROS ELEMENTOS. REEXAME MATÉRIA FÁTICO-PROBATÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    II - A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a “dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+    III - Na hipótese, o v. acórdão impugnado fundamentou o afastamento do tráfico privilegiado, consubstanciada na conclusão de que o paciente se dedicava a atividades criminosas (traficância), em razão não somente pela quantidade de drogas apreendidas com o paciente, mas também das circunstâncias em que se deu a apreensão dos entorpecentes e pelo seu sério envolvimento com o tráficância, além de constatarem que não se tratava de traficante ocasional. Tudo isso, são elementos aptos a justificar o afastamento da redutora do art. 33, § 4º, da Lei n. 11.343/06. Rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição, como reclama o impetrante, demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+    Habeas Corpus não conhecido”.
+     Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato redimensionamento da pena.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 09 de setembro de 2019.
+Ministra Rosa Weber
+Relatora
