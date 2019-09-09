@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ADMINISTRATIVO. AÇÃO DE DEPÓSITO. IBAMA. PRESCRIÇÃO.
+    1. Verifica-se a ocorrência de prescrição vez que a hipótese é de apreensão da madeira enquanto sanção pelo descumprimento da legislação de proteção à natureza, não se entendendo pelo termo a quo do intervalo prescricional a recusa na devolução, e sim o momento em que se tornou exigível a penalidade.
+    2. Manutenção da sentença.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 37, § 5º, e 183, § 3º, da Constituição da República.
+    Cabe registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado nesta sede recursal, ao decidir  a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 9.605/98 e Decreto nº 20.910/32), o que torna incognoscível o apelo extremo.
+    Impõe-se acentuar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao manter a sentença por seus próprios fundamentos, apoiou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “Em que pesem os argumentos do recorrente, entendo, em consonância com a decisão proferida, que o termo inicial do prazo de prescricional, ante a ausência de contestação na seara administrativa, ocorreu em 27.12.1999 (fls. 2-6, PROCADM3, evento 1). Tendo sido a presente ação ajuizada somente em 10.07.2017, correto o reconhecimento da prescrição vez que transcorreram-se mais de cinco anos. Nesse sentido, o Enunciado nº 467 da Súmula do Superior Tribunal de Justiça:
+    …...................................................................................................
+    Superado o prazo para defesa administrativa, reputa-se encerrada, em definitivo, a fase de apuração da infração e de constituição do crédito fiscal correlato, passando a fluir a prescrição da pretensão do IBAMA de ver restituídos os bens objeto de depósito, à luz do princípio da ‘actio nata’. Acerca do prazo prescricional da pretensão deduzida, estabelece o Decreto n. 20.910/1932:
+    Art. 1º As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem (...).
+    Observe-se que, na hipótese dos autos, a madeira apreendida ora vindicada resulta não de disposições da legislação civil, e sim de aplicação de reprimenda por infração ambiental, e decorre dos artigos 25, ‘caput‘ e § 2º, e 72, IV e § 6º, ambos da Lei n. 9.605/98, (...):
+    …................................................................................
+    Consequentemente, a hipótese é de apreensão da madeira enquanto sanção pelo descumprimento da legislação de proteção à natureza, não se entendendo, como termo a quo do intervalo prescricional, a recusa na devolução, e sim o momento em que se tornou exigível a penalidade – o qual, ante a ausência de contestação às imputações na seara extrajudicial, ocorreu em 27.12.1999 (fls. 2-6, PROCADM3, evento 1).”
+    Vê-se, portanto, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 09 de setembro de 2019.
+Ministro CELSO DE MELLO
+Relator
