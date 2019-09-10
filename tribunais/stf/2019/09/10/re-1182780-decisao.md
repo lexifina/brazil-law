@@ -1,0 +1,28 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do TRF da 2ª Região, assim ementado:
+    “CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N. 8/2008. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. DESMEMBRAMENTO DO MONTANTE PRINCIPAL SUJEITO A PRECATÓRIO. ADOÇÃO DE RITO DISTINTO (RPV). POSSIBILIDADE. DA NATUREZA DOS HONORÁRIOS ADVOCATÍCIOS. AGRAVO DE INSTRUMENTO IMPROVIDO. “(eDOC 1, p. 46)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 100, §8º, do texto constitucional.
+    Nas razões recursais, alega-se que a regra geral prevista na Constituição da República é a vedação ao fracionamento da execução contra a Fazenda Pública.
+    Aduz ainda que a Súmula Vinculante 47 não contempla a hipótese de honorários contratuais. (eDOC 2, p. 22-25)
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “Recurso Extraordinário. Execução autônoma de honorários advocatícios contratuais. Violação ao art. 100, § 8º, da Constituição Federal. Parecer pelo provimento do recurso extraordinário”. (eDOC 6)
+    É o relatório.
+    Decido.
+    O recurso merece prosperar
+    Quanto ao mérito, inicialmente, ressalto que a hipótese dos autos não se confunde com a matéria debatida no RE-RG 568.645 (tema 148), rel. Min. Cármen Lúcia, DJe 13.11.2014.
+    O tema 148 da sistemática da repercussão geral cuida da possibilidade de individualização de créditos de litisconsortes para efeito de fracionamento do valor principal da execução contra a Fazenda Pública. No julgamento do paradigma acima aludido, o Supremo Tribunal Federal assentou que:
+    “A execução ou o pagamento singularizado dos valores devidos a partes integrantes de litisconsórcio facultativo simples não contrariam o § 8º (originariamente § 4º) do art. 100 da Constituição da República. A forma de pagamento, por requisição de pequeno valor ou precatório, dependerá dos valores isoladamente considerados”.
+    Todavia, o julgamento não adentra a minúcia do fracionamento de honorários devidos a um mesmo advogado.
+    Nesse contexto, ressalto que o Plenário do STF firmou orientação no sentido de que os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar, cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.
+    A repercussão geral da matéria foi reconhecida no julgamento do RE-RG 564.132, tema 18 da sistemática da repercussão geral, assim ementado:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADO FRACIONAMENTO DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA DE ESTADO-MEMBRO. HONORÁRIOS ADVOCATÍCIOS. VERBA DE NATUREZA ALIMENTAR, A QUAL NÃO SE CONFUNDE COM O DÉBITO PRINCIPAL. AUSÊNCIA DE CARÁTER ACESSÓRIO. TITULARES DIVERSOS. POSSIBILIDADE DE PAGAMENTO AUTÔNOMO. REQUERIMENTO DESVINCULADO DA EXPEDIÇÃO DO OFÍCIO REQUISITÓRIO PRINCIPAL. VEDAÇÃO CONSTITUCIONAL DE REPARTIÇÃO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. INTERPRETAÇÃO DO ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO”. (RE 564.132, Rel. Ministro Eros Grau, Red. do acórdão Ministra Cármen Lúcia, Plenário, DJe 10.2.2015).
+    Com efeito, deve-se considerar a titularidade dos créditos para seu enquadramento no limite da requisição de pequeno valor, em caso de execução contra a Fazenda Pública.
+    Na espécie, verifico que o acórdão recorrido está em dissonância com o entendimento desta Corte, que se firmou no sentindo de ser impossível o fracionamento do crédito de honorários contratuais, uma vez que isso configuraria burla à sistemática dos precatórios.
+    Dessa forma, admitir a repartição dos honorários, nesses casos, implicaria ofensa à regra do artigo 100, § 8º, do texto constitucional. A esse respeito, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Processual Civil. Honorários advocatícios contratuais. Fracionamento para pagamento por RPV ou precatório. Impossibilidade. Súmula Vinculante nº 47. Inaplicabilidade. Precedentes. 1. A jurisprudência da Corte é firme no sentido de que a Súmula Vinculante nº 47 não alcança os honorários contratuais resultantes do contrato firmado entre advogado e cliente, não abrangendo aquele que não fez parte do acordo. 2. O Supremo Tribunal Federal já assentou a inviabilidade de expedição de RPV ou de precatório para pagamento de honorários contratuais dissociados do principal a ser requisitado, à luz do art. 100, § 8º, da Constituição Federal. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa”. (RE 1.094.439 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 19.3.2018).
+     “Agravo regimental no recurso extraordinário. 2. Direito Processual Civil. 3. Execução de sentença. Precatório. Honorários Advocatícios. Crédito único. Fracionamento. Impossibilidade. Art. 100, §8º, da Constituição da República/88. 4. Agravo regimental a que se nega provimento”. (RE-AgR 913.542, de minha relatoria, Segunda Turma, DJe 6.9.2017).
+    Ante o exposto, dou provimento ao recurso extraordinário para, reformando o acórdão recorrido, determinar a execução dos honorários advocatícios em crédito único. Ficam invertidos os honorários sucumbenciais
+    Publique-se.
+    Brasília, 10 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
