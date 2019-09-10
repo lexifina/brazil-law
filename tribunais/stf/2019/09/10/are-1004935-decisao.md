@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 6ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio de Janeiro, assim ementado (eDOC 38, p. 1):
+    “ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO. GDPGPE. NATUREZA GENÉRICA. TERMO FINAL DE PARIDADE COM OS SERVIDORES ATIVOS. CICLO DE AVALIAÇÃO. ENUNCIADOS 68 E 105 DAS TRs/RJ. EQUIPARAÇÃO COM SERVIDORES CEDIDOS. RECURSO CONHECIDO E IMPROVIDO.”
+    N recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta ofensa ao 7º da Emenda Constitucional 41/2003.
+    Nas razões recursais, sustenta-se, em síntese, que (eDOC 44, p. 19-20):
+     “que o servidor da Saúde, ao perceber a GDPST, quando em exercício em outra instituição, não está sendo avaliado em seu órgão de origem, bem como não está auxiliando no cumprimento das metas institucionais, e está percebendo a parcela sem estar em exercício nas atribuições pertinentes a seu cargo, e, dessa forma, a GDPST perde a natureza de gratificação propter laborem, já que está sendo paga sem que a sua natureza seja respeitada.
+    O ponto em comum entre todas as hipóteses é a percepção da parcela institucional do órgão de origem a que estão vinculados, o que, sendo assim, deve ser estendida aos inativos.”
+    A Presidência da 2ª Turma Recursal da Seção Judiciária do Estado do Rio de Janeiro inadmitiu o recurso extraordinário, nestes termos: “o fundamento preponderante da decisão, ao contrário do alegado, recai sobre as provas produzidas nos autos, matéria que não se insere no âmbito recursal extraordinário.” (eDOC 43).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, asseverou que (eDOC 38, p. 5):
+    “A parte autora é servidora pública aposentada vinculada à parte, sendo certo que o início da concessão da aposentadoria se deu em 02/07/2009 (fls. 18) e de acordo com regras de transição especificadas na EC 47/2005.
+    Por outro lado, Com a Portaria MS/FUNASA Nº 1.743 de 10/12/2010 (D.O.U de 18/11/2010) ficou designado o 1º ciclo de avaliação para 15/01/2011. Dessa forma, a GDPST, deverá ser paga em paridade com os servidores ativos desde sua instituição até dezembro de 2010, quando a gratificação passou a ostentar natureza pro labore faciendo.
+    No presente caso, a partir da comprovação de efetiva avaliação dos servidores ativos, em função de expressa previsão legal, o pleito de paridade referente à GDPST deve ser ter como termo final o mês de dezembro de 2010.
+    Ocorre que a autora, conforme narrado à fl. 98, já teve seu pedido julgado procedente em relação à GDPST antes da sua regulamentação no processo nº 0004328-30.2009.4.025152.
+    O artigo 5º-B, parágrafo 14, II, da Lei nº 11.355/2006 instituiu as servidores cedidos e/ou colocados a disposição a gratificação GDPST. A autora não se enquadra nessa situação, não sendo plausível que a mesma venha pleitear nestes autos a GDPST recebida pelos funcionários cedidos para outros órgãos.”
+    Na espécie, no que tange ao enquadramento ou não da recorrente inativa para fazer jus à mesma gratificação recebida pelos servidores cedidos para outros órgãos, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Federal 11.355/2006). Desse modo, a discussão revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO PODER EXECUTIVO CEDIDO A OUTRO PODER. GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE. LEI Nº 11.357/2006. EXTENSÃO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.” (RE 823.376-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 1º.6.2016).
+    “EMENTA: PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. ISONOMIA ENTRE FUNCIONÁRIOS INATIVOS E SERVIDORES ATIVOS CEDIDOS OU REQUISITADOS PARA OUTROS ÓRGÃOS QUE PERCEBEM A GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS) SEM AVALIAÇÃO INSTITUCIONAL. NECESSIDADE DE EXAME DE MATÉRIA INFRACONSTITUCIONAL E DE REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. HONORÁRIOS ADVOCATÍCIOS ADICIONAIS CORRESPONDENTES A 20% DO VALOR A ESSE TÍTULO JÁ FIXADO NO PROCESSO (CPC/2015, art. 85, § 11).” (ARE 959.453-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 20.10.2016).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do mesmo Código.
+    Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 10 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
