@@ -1,0 +1,84 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INCLUSÃO EM MESA. NULIDADE. NÃO OCORRÊNCIA. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO. GARANTIA HIPOTECÁRIA. EMPRESÁRIOS INDIVIDUAIS EM RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ATOS EXPROPRIATÓRIOS OMISSÃO, CONTRADIÇÃO OBSCURIDADE E ERRO NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade ou eliminar contradição, mas, sim, reformar o julgado por via inadequada.
+2. O julgamento de conflito de competência independe de publicação de pauta (artigo 91, I, do RISTJ), inexistindo exigência legal de intimação pessoal dos interessados. Precedentes.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Segunda Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi, Raul Araújo, Paulo de Tarso Sanseverino e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de embargos de declaração opostos pelo BANCO ITAÚ BBA S.A. impugnando acórdão que conheceu do conflito para declarar a competência do Juízo de Direito de Tupanciretã/RS em acórdão assim ementado:
+"CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO. GARANTIA HIPOTECÁRIA. EMPRESÁRIOS INDIVIDUAIS EM RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ATOS EXPROPRIATÓRIOS
+1. A controvérsia gira em torno de definir o juízo competente para promover os atos expropriatórios decorrentes de garantia hipotecária prestada por empresário individual em recuperação judicial em contrato de adiantamento de câmbio.
+2. O empresário individual é a pessoa física que exerce atividade empresária em seu próprio nome, respondendo com seu patrimônio pessoal pelos riscos da atividade.
+3. O adiantamento de contrato de câmbio não se submete à recuperação judicial, situação que a princípio se estende ao garante, pois a natureza do crédito garantido é a mesma.
+4. A jurisprudência desta Corte se inclina no sentido de que o Juízo da recuperação judicial deve acompanhar os atos expropriatórios, de modo a preservar tanto o direito creditório quanto a viabilidade do plano, mesmo nas hipóteses de créditos extraconcursais.
+5. Conflito de competência conhecido para declarar a competência do Juízo da recuperação judicial."
+(CC 155.390/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 28/11/2018, DJe 05/12/2018)
+Aponta o embargante a existência de nulidade no julgamento do conflito de competência, pois foi julgado sem prévia inclusão em pauta, não tendo sido providenciada, ademais, a sua intimação (na qualidade de interessado), o que inviabilizou a entrega de memoriais, o requerimento de sustentação oral e o acompanhamento dos demais atos da sessão, conforme previsto nos artigos 934 e 935 do Código de Processo Civil de 2015.
+Destaca a inexistência de óbice para a realização de sustentação oral em conflito de competência, já que não está relacionado no artigo 159 do RISTJ. Cita outros conflitos de competência nos quais foram realizadas sustentações orais (CC nº 122.830/PB, CC nº 157.099/RJ e CC nº 111.565/BA).
+Esclarece que, a despeito de o artigo 91, I, do RISTJ dispor acerca da possibilidade de julgamento do conflito de competência sem inclusão em pauta, referida norma está em contradição com o artigo 934 do CPC/2015.
+Assevera o embargante, ainda, a ocorrência de omissão no que diz respeito ao fato de que tanto o Juízo da recuperação judicial quanto o Juízo da execução têm entendimento convergente no sentido de que os atos de constrição em relação ao imóvel descrito na matrícula nº 3.851 do Cartório de Registro de Imóveis de Tupanciretâ/RS devem prosseguir normalmente.
+Ressalta que essa peculiaridade diferencia o presente caso dos demais que compõem a jurisprudência do Superior Tribunal de Justiça, devendo ser feito o necessário distinguishing. Sustenta, nessa linha, que inexiste conflito de competência na espécie, pois
+"(..) a alienação judicial do bem imóvel está sendo realizada via Carta Precatória que tramita justamente no Juízo das Recuperações Judiciais dos Embargantes, ou seja, no d. Juízo da Vara Judicial da Comarca de Tupanciretã (RS), que é vara única e, por isso, também processa cartas precatórias" (fls. 636/637, e-STJ).
+Argumenta que o Juízo da recuperação judicial já se manifestou especificamente a respeito da possibilidade de prosseguimento da execução, não havendo necessidade de remeter ao Juízo questão por ele já decidida.
+Ademais, o Juízo da execução indeferiu o pedido de suspensão do leilão, o que evidencia a convergência de entendimentos e, portanto, a inexistência de conflito de competência.
+O embargante anota também a ocorrência de obscuridade no acórdão embargado. Destaca que o crédito executado é extraconcursal (decorrente de adiantamentos de contrato de câmbio), motivo pelo qual a execução deve prosseguir perante o Juízo da 10ª Vara Cível de São Paulo e não perante o Juízo da recuperação judicial. Ressalta que, de acordo com a inteligência da Súmula nº 480/STJ, a execução deve prosseguir em seu juízo originário, com eventual consulta ao Juízo da recuperação judicial a respeito da possibilidade de constrição do patrimônio das recuperandas.
+Afirma ser incabível submeter seu crédito à recuperação judicial dos embargados, pois nem sequer está listado naquela recuperação judicial. Assim, não cabe ao Juízo da recuperação judicial decidir acerca de crédito não abarcado pelo plano.
+Ao final, requer o acolhimento dos aclaratórios para que seja sanada a omissão acerca da nulidade do julgamento, bem como quanto à ocorrência de decisões convergentes dos juízos suscitados, o que evidencia a inexistência de conflito de competência e, por fim, para que seja esclarecida a obscuridade apontada.
+Impugnação às fls. 681/728 (e-STJ). Os embargados afirmam que a jurisprudência desta Corte se firmou no sentido de que a ausência de intimação dos interessados no julgamento de conflito de competência não acarreta nulidade (EDcl no CC nº 132.126/MA).
+Destacam que o Juízo da recuperação judicial já se manifestou a respeito da extraconcursalidade do crédito, mas não acerca da essencialidade do bem.
+Ressaltam que, diante da existência de operações cruzadas entre as sociedades em recuperação e os empresários individuais, foi apresentado um único plano de recuperação judicial. Porém, em sede recursal, foi determinada a cisão do plano, com a apresentação de relações individualizadas de credores, matéria que aguarda pronunciamento final, estando pendente de julgamento o AREsp nº 933.278/RS, no qual se discute a apresentação de relação única de credores.
+Defendem inexistir intenção de blindagem patrimonial.
+Requerem o não conhecimento dos embargos de declaração e, se conhecidos, que sejam rejeitados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INCLUSÃO EM MESA. NULIDADE. NÃO OCORRÊNCIA. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO. GARANTIA HIPOTECÁRIA. EMPRESÁRIOS INDIVIDUAIS EM RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ATOS EXPROPRIATÓRIOS OMISSÃO, CONTRADIÇÃO OBSCURIDADE E ERRO NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade ou eliminar contradição, mas, sim, reformar o julgado por via inadequada.
+2. O julgamento de conflito de competência independe de publicação de pauta (artigo 91, I, do RISTJ), inexistindo exigência legal de intimação pessoal dos interessados. Precedentes.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Não prospera a inconformidade veiculada nos presentes aclaratórios.
+O acórdão atacado não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015): obscuridade, contradição, omissão ou erro material.
+No que respeita à alegada nulidade de julgamento, não assiste razão ao embargante.
+Com efeito, o artigo 937 do Código de Processo Civil de 2015 não prevê a realização de sustentação oral no julgamento de conflitos de competência, conquanto estabeleça que outras hipóteses podem ser acrescentadas às ali previstas desde que estabelecidas em lei ou no Regimento Interno do Tribunal.
+É preciso consignar que o artigo 159 do RISTJ não veda a realização de sustentação oral nos conflitos de competência, mas também não a prevê; já o artigo 91, I, prevê que o julgamento de conflitos independem de publicação de pauta.
+Da conjugação dessas normas é possível concluir que o conflito de competência pode ser incluído em mesa para julgamento, andamento processual passível de ser acompanhado pelos interessados (no caso dos autos, a inclusão em mesa ocorreu em 21.11.2018), que, sendo o caso, podem comparecer à sessão e pedir a palavra para sustentar oralmente (o julgamento ocorreu em 28.11.2018).
+Não há, portanto, exigência de inclusão do conflito de competência em pauta, com a intimação dos interessados acerca da data do julgamento, o que afasta a nulidade apontada.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INTEMPESTIVIDADE. ART. 545 DO CPC. PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO. AUSÊNCIA DE NECESSIDADE DE INTIMAÇÃO. NATUREZA JURÍDICA. INCIDENTE DO PROCESSO. NÃO CONHECIMENTO.
+1. No caso concreto, por indicação da própria empresa suscitante, constou da autuação e da publicação da decisão agravada os nomes do ora agravante e do respectivo advogado na origem, também subscritor do agravo regimental.
+2. Além da eficácia do diário da justiça eletrônico como meio de comunicação dos atos processuais, inexiste previsão legal para intimação pessoal dos interessados em conflito de competência, cabendo destacar sua natureza jurídica de "incidente do processo", não de ação incidental.
+3. O prazo para interposição do agravo regimental é de 5 (cinco) dias, a teor do que dispõe o art. 545 do CPC. Assim, publicada a decisão agravada no diário da justiça eletrônico em 14.4.2015, terça-feira, e encerrado o prazo recursal no dia 20.4.2015, segunda-feira, revela-se intempestivo o presente regimental, interposto nesta Corte somente em 23.4.2015.
+5. Agravo regimental não conhecido."
+(AgRg no CC 138.477/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/09/2015, DJe 21/09/2015 - grifou-se)
+"CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. DESNECESSIDADE DE INTIMAÇÃO. JULGAMENTO EM MESA. ARQUIVAMENTO DA INVESTIGAÇÃO DO DELITO DE JURISDIÇÃO FEDERAL. OMISSÃO. SUPRIMENTO. CONEXÃO INEXISTENTE. COMPETÊNCIA ESTADUAL.
+1. A ausência de intimação dos interessados para o julgamento do feito não gera nulidade, pois é o conflito de competência apresentado em mesa para o julgamento, nos termos do art. 91, I, do RI desta Corte.
+2. O arquivamento do inquérito quanto ao único delito de jurisdição federal investigado, como fato não conhecido e de suprimento da omissão necessário, propicia excepcionais efeitos infringentes aos declaratórios, para reconhecer a competência do Juízo de Direito da 2ª Vara Criminal de São Luís/MA, ora suscitante."
+(EDcl no CC 132.126/MA, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 25/03/2015, DJe 10/04/2015 - grifou-se)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO PROFERIDO EM CONFLITO DE COMPETÊNCIA. ALEGAÇÃO DE NULIDADE POR FALTA DE INTIMAÇÃO DA DEFESA. INEXISTÊNCIA. JUSTIÇA CRIMINAL COMUM. DESCLASSIFICAÇÃO. REMESSA AO JUIZADO ESPECIAL. DECISÃO DO PRIMEIRO JUÍZO. NÃO VINCULAÇÃO DO JUÍZO RECEBEDOR.
+1. Trata-se o conflito de competência de incidente processual, sem natureza recursal, destinado à solução de divergência sobre o órgão competente para o exercício da atividade jurisdicional, não havendo, portanto, litígio nem direito subjetivo a ser tutelado que justifique a intervenção de eventuais interessados, inexistindo previsão legal para intimação dos interessados para manifestação. (HC 198.110/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 14/2/2017, DJe 17/2/2017). Assim, a falta de intimação da defesa para se manifestar no conflito de competência não caracteriza nulidade.
+2. A decisão que reconhece a incompetência da vara criminal comum e remete os autos ao juizado especial, mesmo não sendo interposto recurso pelo Ministério Público, não tem caráter vinculante em relação ao magistrado que os recebe, mostrando-se possível a este suscitar o conflito de competência. Assim, não se pode aceitar a coisa julgada da decisão do primeiro juízo, sob pena de considerar a possibilidade de julgamento do caso por juiz absolutamente incompetente, longe da órbita do Juiz Natural (HC 43.583/MS, Rel. Ministro JOSÉ ARNALDO DA FONSECA, Quinta Turma, julgado em 27/9/2005, DJ 24/10/2005, p. 356).
+3. Agravo regimental não provido."
+(AgRg no REsp 1.779.309/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/02/2019, DJe 1º/03/2019 - grifou-se)
+No mais, conforme firmado no acórdão embargado, é certo que o crédito executado foi excluído dos efeitos da recuperação judicial de [NOME] Cereais Ltda. por se tratar de adiantamento de contrato de câmbio. Contudo, mesmo na hipótese de créditos extraconcursais, a jurisprudência desta Corte se firmou no sentido de ser necessária a manifestação do Juízo da recuperação judicial acerca da essencialidade do bem constrito, o que ainda não ocorreu, pois "O Juízo Recuperacional não emitiu a mínima decisão/manifestação sobre o bem em discussão (até porque o bem não se encontra na RJ), (..)", como afirma o próprio embargante em sua manifestação (fl. 188, e-STJ).
+Na hipótese, ficou esclarecido que os empresários individuais respondem por suas dívidas com todo o seu acervo patrimonial. Assim, cabe ao Juízo da recuperação judicial verificar se o imóvel constrito está ou não incluído no plano de recuperação, autorizando, se for o caso, o prosseguimento dos atos expropriatórios.
+Transcreve-se, para melhor apreensão da matéria, o seguinte trecho do acórdão embargado:
+"(..)
+Ocorre que os garantes, [NOME] Agropecuária EPP e Margareth Maria Pinto [NOME] ME, empresários individuais, também estão em recuperação judicial, sendo que todo seu acervo patrimonial responde por suas dívidas.
+(..)
+Ainda que o contrato de adiantamento de câmbio não se submeta à recuperação judicial, nos termos do artigo 49, § 4º, da Lei nº 11.101/2005, situação que a princípio se estende para o garante, pois a natureza do crédito garantido é a mesma, a jurisprudência desta Corte se inclina no sentido de que o Juízo da recuperação judicial deve supervisionar os atos expropriatórios, de modo a preservar tanto o direito creditório, quanto a viabilidade do plano" (fl. 624, e-STJ).
+O fato de a recuperação judicial tramitar na mesma vara que o cumprimento da carta precatória não isenta o Juízo de tratar das questões próprias de cada processo separadamente.
+Por fim, fica consignado que o Juízo da recuperação deve apenas se manifestar a respeito da essencialidade do bem, devendo a execução tramitar no Juízo em que proposta, no caso, o Juízo de Direito da 10ª Vara Cível do Foro Central de São Paulo - SP.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil/2015, visam desfazer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material que influencie no direito das partes. Ausentes essas hipóteses, não prospera a irresignação recursal.
+2. A reiteração de embargos de declaração manifestamente protelatórios dá ensejo à majoração da multa, nos termos do art. 1.026, § 3º, do CPC/2015.
+3. Embargos de declaração rejeitados."
+(EDcl nos EDcl nos EDcl no AgInt no AREsp 811.002/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/04/2017, DJe 05/05/2017)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
