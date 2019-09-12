@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ACUMULAÇÃO DE PROVENTOS DE APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE CARGO PÚBLICO. POSSIBILIDADE. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. SERVIDOR PÚBLICO. MUNICÍPIO DE CRUZEIRO DO SUL. PEDREIRO. EXONERAÇÃO E EXTINÇÃO AUTOMÁTICA DO VÍNCULO FUNCIONAL APENAS EM RAZÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO CONCEDIDA PELO INSS. IMPOSSIBILIDADE. REINTEGRAÇÃO AO CARGO PÚBLICO IMPOSITIVA. PAGAMENTO DO PERÍODO QUE RESTOU AFASTADO. PAGAMENTO DAS PARCELAS VENCIDAS DESDE A CITAÇÃO. PRECEDENTES.
+    1. Segundo já decidido pelo c. Segundo Grupo Cível nos Embargos Infringentes nº 70051219863, a aposentadoria voluntária pelo regime do INSS não provoca a automática vacância do cargo ocupado pelo servidor público, em razão de que não se trata de inativação concedida pelo Município, e que, pois, não lhe pagará qualquer aposentadoria ou pensão.
+    2. Se o servidor, aposentado voluntariamente pelo INSS, não faz jus a qualquer benefício previdenciário pelo Município, sequer complementação de proventos, inexiste qualquer causa legal ou jurídica para o desligamento efetuado, que não foi antecedido de mínima oportunidade de contraditório e ampla defesa, e ainda significou evidente decesso remuneratório.
+    3. A anulação do ato de exoneração do servidor, por meio de decisão judicial definitiva, com sua consequente reintegração ao cargo, opera efeitos ex tunc e impõe à Administração o pagamento de todas as vantagens impagas pelo período em que não houve o exercício pelo servidor afastado. Hipótese, contudo, em que transcorreu mais de um ano entre o desligamento do servidor e o ajuizamento da ação, razão pela qual a indenização relativa aos vencimentos do período do afastamento deve ser limitada ao período transcorrido a partir da citação, evitando-se hipótese de locupletamento indevido.
+    4. Ação julgada procedente na origem.
+    APELAÇÃO DESPROVIDA.
+    SENTENÇA REFORMADA EM PARTE EM REEXAME NECESSÁRIO.” (Doc. 2, p. 94)
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 18, 30, 37, § 10, 39 e 40 da Constituição Federal (doc. 3, p. 26-39).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão recorrido estaria em harmonia com a jurisprudência do STF (doc. 3, p. 69-85).
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Verifica-se, desde logo, que o acórdão recorrido não diverge da jurisprudência desta Suprema Corte no sentido da possibilidade de cumulação de vencimentos de cargo público com proventos de aposentadoria do regime geral de previdência social. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POSSIBILIDADE DE ACUMULAÇÃO DE PROVENTOS DECORRENTES DE APOSENTADORIA NO REGIME GERAL DE PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE CARGO PÚBLICO. PRECEDENTES. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA DECISÃO AGRAVADA, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 914.547-AgR, rel. min. Cármen Lúcia, Segunda Turma, DJe de 29/8/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. ACUMULAÇÃO DE PROVENTOS DECORRENTES DE APOSENTADORIA NO REGIME GERAL DE PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE CARGO PÚBLICO. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 796.044-AgR, rel. min. Cármen Lúcia, Segunda Turma, DJe de 13/6/2014)
+    No mesmo sentido, cito as seguintes decisões monocráticas transitadas em julgado: RE 1.033.369, rel. min. Celso de Mello, DJe de 16/6/2017, ARE 1.020.183, rel. min. Dias Toffoli, DJe de 21/2/2017, e RE 1.012.086, rel. min. Ricardo Lewandowski, DJe de 29/11/2016.
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 12 de setembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
