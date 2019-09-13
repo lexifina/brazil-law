@@ -1,0 +1,32 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL PENAL. CRIME DE ESTELIONATO. DEPÓSITO BANCÁRIO INDEVIDO. CONSUMAÇÃO NO LOCAL ONDE A VÍTIMA TEVE O EFETIVO PREJUÍZO. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITANTE.
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA 1.ª VARA CRIMINAL DE UBERLÂNDIA/MG em face do JUÍZO DE DIREITO DO DEPARTAMENTO DE INQUÉRITOS POLICIAIS E POLÍCIA JUDICIÁRIA DE SÃO PAULO/SP - DIPO 3.
+Consta dos autos que foi instaurado inquérito policial para apurar a prática do crime de estelionato, supostamente perpetrado por [NOME] em prejuízo da vítima [NOME].
+O Juízo da 1.ª Vara Criminal da Comarca de Uberlândia/MG declinou de sua competência, ao fundamento de que a vantagem ilícita teria sido obtida em São Paulo.
+O Juízo de Direito do Departamento de Inquéritos Policiais e Polícia Judiciária de São Paulo, por sua vez, acolheu a manifestação do Ministério Público estadual, no sentido de que, "pela narrativa fática apresentada, observa-se que a infração penal objeto dos presentes autos consumou-se na comarca de Uberlândia, no estado de Minas Gerais, tudo em atenção à locação da agência em que a vitima possui conta, aonde ocorreu, portanto, seu efetivo prejuízo" (fl. 65).
+Com o retorno dos autos à Vara de Uberlândia, o Magistrado suscitou o presente conflito, aduzindo que "o crime de estelionato se consuma no momento da obtenção da vantagem ilícita, que, in casu, ocorreu com a transferência bancária, para agência situada em São Paulo, motivo pelo qual se deu a declinação deste Juízo" (fl. 71).
+O Ministério Público Federal manifestou-se às fls. 81-84, opinando pela declaração da competência do Juízo Suscitante.
+É o relatório. Decido.
+Nos termos do art. 70 do Código de Processo Penal, " a  competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução".
+E, quanto ao delito de estelionato (tipificado no art. 171, caput, do Código Penal), a Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que a consumação ocorre no lugar onde aconteceu o efetivo prejuízo à vítima.
+A propósito, cito os seguintes julgados:
+"PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. JUÍZO EM QUE OCORRE O EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. PRECEDENTES.
+1. Nos termos do que dispõe o art. 70 do CPP, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+2. O delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária. Precedentes.
+3. Tendo a vítima efetuado as transferências em agência localizada na cidade de Pacaembu/SP, onde possuía conta bancária, é este o local do efetivo dano e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara de Pacaembu/SP, ora suscitado." (CC 147.811/CE, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 19/09/2016; sem grifos no original.)
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM CONFLITO DE COMPETÊNCIA. CONHECIMENTO COMO AGRAVO REGIMENTAL. CRIME DE ESTELIONATO MEDIANTE CLONAGEM DO CHEQUE. COMPETÊNCIA DO JUÍZO DO LOCAL EM QUE SITUADA A AGÊNCIA BANCÁRIA DA VÍTIMA. REGIMENTAL NÃO PROVIDO.
+1. Tratando-se de declaratórios em face de decisão monocrática, com evidenciado conteúdo infringente, devido é seu conhecimento como agravo regimental.
+2. Na esteira da jurisprudência desta Corte, a competência territorial para a persecução penal relativa ao estelionato mediante clonagem e alteração do numerário de cheque é fixada pelo local onde se encontra o banco sacado, porquanto lá se consuma o delito, com o efetivo prejuízo à vítima.
+3. Declarada a competência do JUÍZO DE DIREITO DE CAMAPUÃ/MS, estranho ao conflito.
+4. Ausente erro ou omissão a sanar.
+5. Embargos de declaração conhecidos como agravo regimental, ao qual é negado provimento." (EDcl no CC 151.023/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017; sem grifos no original.)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. ADULTERAÇÃO DE CHEQUE. COMPETÊNCIA DO JUÍZO DO LOCAL EM QUE SITUADA A AGÊNCIA BANCÁRIA DA VÍTIMA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a competência territorial para a persecução penal relativa ao estelionato mediante clonagem e alteração do numerário de cheque é fixada pelo local onde se encontra o banco sacado, porquanto lá se consuma o delito, com o efetivo prejuízo à vítima (CC 143.621/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 25/05/2016, DJe 07/06/2016).
+2. Nessa linha de raciocínio, o delito de estelionato é consumado no local em que se verifica o prejuízo à vítima. (..) Ainda que o delito de estelionato seja praticado mediante adulteração de cheque, a competência para o processo e julgamento dos fatos deve ser declarada em favor do juízo do local em que a vítima mantém a conta bancária (AgRg no CC 146.524/SC, Rel. Ministro JORGE MUSSI, Terceira Seção, julgado em 22/03/2017, DJe 30/03/2017).
+3. No mesmo diapasão: CC 147.811/CE, Rel. Ministro NEFI CORDEIRO, Terceira Seção, julgado em 14/09/2016, DJe 19/09/2016; CC 142.934/PR, Rel. Ministro NEFI CORDEIRO, Terceira Seção, julgado em 14/10/2015, DJe 30/11/2015; CC 136.853/MG, Rel. Ministro ERICSON MARANHO (Desembargador Convodado do TJ/SP), Terceira Seção, julgado em 10/12/2014, DJe 19/12/2014; CC 126.781/CE, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), Terceira Seção, julgado em 10/04/2013, DJe 17/04/2013.
+4. Conflito negativo conhecido para declarar a competência do Juízo de Direito do Departamento de Inquéritos Policiais e Polícia Judiciária de São Paulo - SP, o suscitado." (CC 154.574/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 20/10/2017; sem grifos no original.)
+No caso, a vítima sofreu o prejuízo na cidade de Uberlândia/MG, local da agência de sua titularidade onde efetivou o depósito (fl. 65).
+Ante o exposto, CONHEÇO do conflito e declaro competente o JUÍZO DE DIREITO DA 1.ª VARA CRIMINAL DE UBERLÂNDIA, o Suscitante.
+Publique-se. Intimem-se.
