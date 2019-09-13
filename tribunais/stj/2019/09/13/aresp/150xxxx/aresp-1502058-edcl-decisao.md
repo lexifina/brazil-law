@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração contra a decisão de fls. 915 - 918, e-STJ, desta relatoria, que negou provimento ao agravo em recurso especial, por entender que a revisão da concessão dos benefícios da justiça gratuita, na hipótese dos autos, esbarraria na Súmula 7/STJ, majorando em 10% os honorários advocatícios aplicados na origem.
+Em suas razões, alega a existência omissão e erro material na decisão embargada, suscitando a impossibilidade de concessão dos benefícios da justiça gratuita, de ofício, ao espólio, bem como a impossibilidade de majoração dos honorários recursais, ante a ausência de sua condenação, aos ônus de sucumbência, na origem.
+Relatados, passo a decidir.
+Assiste parcial razão ao embargante.
+Na espécie, a decisão embargada procedeu à majoração dos honorários advocatícios, embora se verifique que não ocorreu a sua condenação a tal título na origem, apenas a condenação da parte ora embargada.
+Portanto, não cabe a majoração da verba de sucumbência, razão pela qual merece ajuste a decisão embargada.
+Por outro lado, quanto à tese de omissão quanto à impossibilidade de concessão dos benefícios da justiça gratuita ao espólio, sem a comprovação do estado de hipossuficiência, e de ofício, cumpre destacar que, nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada, o que não se verifica no ponto.
+Em verdade, verifica-se que o embargante pretende o rejulgamento da causa, o que desnatura a oposição de embargos de declaração, que, conforme cediço, são recurso de fundamentação vinculada.
+Acerca da matéria, a decisão embargada registrou que (e-STJ, fl. 916 - 917):
+No ponto a Corte local registrou que (e-STJ, fl. 473):
+Espólio, sem inventário, ainda figurando a ré, embargada, como administradora provisória, ademais tratando-se de companheira do corréu, falecido, ambos a habitar unidade em débito, o benefício da gratuidade judiciária, nessa circunstância, irradia efeitos a ambos, e, no contexto em que concedido, havia indicações de hipossuficiência dos réus, até mesmo filtrada por serviços de assistência judiciária, a merecer tutela de Convênio OAB/DPE.
+Quanto à possível revogação do benefício, será dado encaminhar, oportunamente, em incidente próprio, na instância da causa (artigo 98, § 3", do Código de Processo Civil).
+Conforme se verifica, ao oposto de representar qualquer omissão, a Corte local manteve a fixação da verba honorária conforme compreendeu pertinente ao caso dos autos, bem como, com base na análise dos fatos e provas levados aos autos, concluiu que tanto a parte inventariante quanto o espólio faziam jus à concessão do benefício da justiça gratuita, assim, a revisão da conclusão adotada na origem é medida que encontra veto na Súmula 7/STJ , por demandar necessário reexame de fatos e provas.
+Conforme se verifica, ao contrário do que pretende fazer crer a parte embargante, após a análise dos fatos e provas levados aos autos, a Corte local concluiu que estaria comprovada nos autos a situação de hipossuficiência do espólio, razão pela qual a este teriam sido estendidos os benefícios da justiça gratuita, e que respectiva providência não comportaria alteração na presente via, em vista da necessidade de reexame de fatos e provas, aplicando-se a Súmula 7/STJ na oportunidade.
+Ressalte-se que, o recurso integrativo não é servil à rediscussão da matéria já analisada fundamentadamente na decisão embargada, máxime a existência de recurso cabível na seara processual.
+Ademais, os embargos de declaração não se prestam à aplicação de entendimento que, segundo a ótica da parte embargante, deveria guiar ou conduzir a solução do litígio.
+Em face do exposto, acolho parcialmente os embargos de declaração, apenas para afastar a majoração dos honorários advocatícios fixada na decisão embargada, mantendo-se esta quanto aos demais termos.
+Intimem-se.
