@@ -1,0 +1,14 @@
+DECISÃO
+SILVANA MARIA THOMAZ alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de origem no HC n. 5012863-14.2019.4.03.0000, que deixou de reconhecer a atipicidade da conduta a ela imputada na denúncia - art. 1º, I, da Lei n. 9.613/1998 - veiculada na Ação Penal n. 0011209-37.2014.4.03.6181.
+Nesta Corte, a defesa sustenta que "a imputada lavagem teria ocorrido, segundo a própria denúncia, em momento anterior ao apontado crime antecedente de tráfico de drogas" (fl. 6). Relata que a instância de origem concedeu habeas corpus em favor de outros dois corréus, mas negou o pedido de extensão à paciente por haver, na hipótese, supressão de instância.
+Aduz, então, ser ilegal que o mesmo colegiado - diante de impugnações de mesma natureza movidas contra um mesmo ato reputado coator - opte pelo enfrentamento do tema em relação a um fato-crime e a outro não. E mais ou tão grave quanto, que - dentro de uma mesma ação penal - imponha a alguns réus o ônus de se verem processar por fatos manifestamente atípicos e outros, em idêntica situação jurídica, não" (fl. 9).
+Requer, liminarmente, o "sobrestamento da ação penal nº 0011209-37.2014.4.03.6181, em tramitação perante a 4ª Vara Federal da Subseção Judiciária de Ribeirão Preto/SP, até julgamento do mérito do presente habeas corpus" (fl. 9). No mérito, pugna pela concessão da ordem para, "sem prejuízo de eventual/alternativo decreto de nulidade do v. acórdão regional, reconhecer a atipicidade da conduta imputada no item "n" - ausência de imputação idônea de crime anterior" (fl. 17, destaquei)
+Decido.
+Dúvidas não há de que o deferimento da liminar é medida excepcional, cabível apenas em hipóteses de flagrante ilegalidade e em que evidenciados o fumus boni juris e o periculum in mora.
+Ab initio, importante ressaltar o firme entendimento jurisprudencial segundo o qual o STJ não tem competência para analisar pedido de extensão de decisão originalmente proferida por outro órgão jurisdicional.
+Não bastasse, o pedido liminar confunde-se com o próprio mérito da impetração, razão pela qual deverá ser analisado em momento oportuno, quando serão minuciosamente examinados os fundamentos embasadores da pretensão, notadamente porque, na hipótese, não verifico, de pronto, o periculum in mora, porquanto eventual atipicidade da conduta narrada no item "n", se reconhecida, não traria prejuízo ao regular prosseguimento da ação penal, uma que além dessa imputação há outras contra a insurgente na exordial acusatória.
+Portanto, entendo necessária a vinda de informações a respeitos dos fatos alegados na inicial e da manifestação do Ministério Público Federal.
+À vista do exposto, indefiro a liminar.
+Solicitem-se informações à autoridade apontada como coatora, encarecendo o envio dos elementos indispensáveis à análise do alegado na impetração.
+Em seguida, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se e intimem-se.
