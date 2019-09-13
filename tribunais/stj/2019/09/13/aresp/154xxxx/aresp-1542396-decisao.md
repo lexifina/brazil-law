@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+EMPRESARIAL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. TRÂNSITO EM JULGADO DO TITULO EXECUTIVO POSTERIORMENTE. INVIABILIDADE DE INCLUSÃO DO CRÉDITO. RECURSO CONHECIDO E NÃO PROVIDO.
+I - Conforme previsão do art. 59 da Lei 11.101/2005, o plano de recuperação judicial implica novação dos créditos anteriores ao pedido de recuperação, obrigando somente o devedor e todos os credores a ele sujeitos.
+II - Não havendo nenhuma correlação entre o crédito que a agravada visa executar com o juízo da recuperação judicial, deve o cumprimento de sentença prosseguir no juízo Cível, onde tramitou a ação indenizatória.
+II - Agravo de Instrumento interposto por VIPLAN VIAÇÃO PLANALTO LTDA conhecido e não provido.
+Alegou-se, no especial, violação dos artigos 1.022 do Código de Processo Civil e 6º, § 1º e 4º, 7º, § 1º, 47, 49, 59 e 76 da Lei n. 11.101/05, sob o argumento de o acórdão local é omisso e que não cabe o prosseguimento da execução individual em face da recorrente, que está em recuperação judicial.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local concluiu que "além da decisão ter determinado que "as medidas constritivas deste processo deverão ser autorizadas pelo juízo universal", o título judicial exequendo somente transitou em julgado após o processamento da recuperação judicial, não havendo óbice ao prosseguimento do cumprimento de sentença uma vez que a decisão não interferiu no âmbito da decisão proferida no juízo falimentar" (e-STJ, fl. 89).
+Entendeu aquela Corte, portanto, que somente os créditos já líquidos anteriormente ao pedido de recuperação judicial a ela se submetem.
+Não é esse, todavia, o entendimento desta Corte.
+Todos os créditos, à exceção dos expressamente excluídos pela lei, anteriores ao pedido de recuperação judicial ficam a ela submetidos, haja vista os próprios §§ 1º e 3º do artigo 6º da Lei 11.101/05 disporem que as quantias ilíquidas terão prosseguimento no juízo em que estiverem até sua definição, quando serão, posteriormente, habilitadas na classe própria.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA DA RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SERVIÇO PRESTADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. EXISTÊNCIA. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. POSTERIOR SENTENÇA DECLARATÓRIA DO CRÉDITO. ATO JUDICIAL QUE DECLARA O CRÉDITO JÁ EXISTENTE EM TÍTULO JUDICIAL. CONFLITO CONHECIDO E PROVIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, mas apenas que seja referente a fatos ocorridos antes do pedido.
+2. O art. 7º da Lei 11.101/2005 afirma que o crédito já existente, ainda que não vencido, pode ser incluído de forma extrajudicial pelo próprio Administrado Judicial, ao elaborar o plano ou de forma retardatária, evidenciando que a lei não exige provimento judicial para que o crédito seja considerado existente na data do pedido de recuperação judicial.
+3. O crédito trabalhista, relativo ao serviço prestado em momento anterior ao pedido de recuperação judicial, submete-se ao respectivo procedimento e aos seus efeitos, atraindo a competência do Juízo da Recuperação Judicial, para processar a respectiva habilitação, ainda que de forma retardatária. Precedentes da Terceira Turma.
+4. Conflito conhecido e provido para declarar competente o Juízo da Recuperação Judicial.
+(CC 139.332/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 25/04/2018, DJe 30/04/2018)
+Não se tem notícia de que o crédito do agravado seja um daqueles constantes nos artigos 49, § 3º, 85 e 86 da Lei 11.101/05, caso em que não se submeteriam à recuperação.
+Basta, portanto, em regra, o an debeatur, de sorte que a liquidez do crédito não é requisito para a sua submissão ao processo recuperacional.
+Diante do exposto, conheço do agravo e dou provimento ao recurso especial para declarar que o crédito em questão está submetido à recuperação judicial, sendo nulos quaisquer atos de execução individual, devendo o credor, na forma do direito, perseguir seu crédito no juízo da recuperação após definido o quantum debeatur.
+Intimem-se.
