@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], contra acórdão assim ementado (fl. 60):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PRESCRIÇÃO. OCORRÊNCIA. Na ação que visa à complementação de ações ou indenização em face do descumprimento de contrato de participação financeira a pretensão prescreve nos prazos previstos no artigo 177 do código civil revogado e artigos 205 e 2.028 do código civil vigente, sendo que os prazos começam a fluir da data da emissão das ações.
+Ainda, o prazo prescricional refere-se ao direito material, ou seja, não resta abarcado pela suspensão dos prazos processuais.
+APELAÇÃO CÍVEL DESPROVIDA.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 76/81).
+Em suas razões, o recorrente alega afronta aos arts. 174 e 275 do Código de Processo Civil/1973, bem como dissídio jurisprudencial, afirmando que não prescrita a pretensão, pois esta, "que se venceria no dia 10 de janeiro de 2012, fica prorrogada para o primeiro dia útil subsequente ao término das férias forenses referidas, ou seja, 21 de janeiro de 2012" (fl. 88).
+Passo a decidir.
+O Tribunal de origem, ao julgar a apelação, entendeu prescrita a pretensão, assim se pronunciando (fls. 63/66):
+No caso, a posição da Vigésima Quarta. Câmara Cível é no sentido de que o prazo prescricional começa a fluir da data em que as ações restaram emitidas pela parte ré, e não da data da assinatura do contrato.
+Sendo assim, como da data de emissão das ações, ocorrida em 30/06/1993, até a entrada em vigor do Código Civil vigente não transcorreu mais da metade do tempo estabelecido na lei revogada, o prazo prescricional passa a ser o da lei nova, atual.
+Nesse caso, o prazo de prescrição deve ser contado a partir da entrada em vigor do hodierno Código Civil (11-janeiro-2003). No caso dos autos, a petição inicial foi distribuída em 21 de janeiro de 2013, ou seja, após, a implementação do prazo prescricional.
+Em relação à alegação de que a prescrição não foi implementada ante a suspensão dos prazos processuais, tenho que esta não prospera.
+Para melhor elucidar a matéria, trago à colação o voto de lavra do Eminente Desembargador Marco Antonio Ângelo nos autos da apelação cível n2 [CPF], julgada em 29 de maio do corrente ano:
+(..)
+Com efeito, o prazo prescricional refere-se ao direito material.
+Sendo assim, não resta abarcado pela suspensão dos prazos processuais, no caso em tela.
+O fundamento adotado destoa do entendimento deste Superior Tribunal de Justiça, no sentido de que a demanda poderá ser ajuizada no primeiro dia útil após o fim do recesso forense, quando o prazo prescricional terminar durante a sua ocorrência. Confiram-se:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PRESCRIÇÃO. TERMO "AD QUEM" IMPLEMENTADO DURANTE O RECESSO FORENSE. PRORROGAÇÃO DO PRAZO. CABIMENTO. PRECEDENTES.
+1. Controvérsia acerca da prorrogação do prazo prescricional que findou durante o recesso forense.
+2. Precedente da Corte Especial acerca da prorrogação do prazo decadencial da ação rescisória.
+3. Julgados desta Corte acerca da prorrogação do prazo prescricional.
+4. Reconhecimento da prorrogação do prazo prescricional findo no curso do recesso forense, devendo a demanda ser ajuizada no primeiro dia útil seguinte ao seu término.
+5. Inocorrência de prescrição no caso concreto.
+6. Precedentes específicos do STJ, inclusive da Corte Especial.
+7. RECURSO ESPECIAL PROVIDO.
+(REsp 1446608/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/10/2014, DJe 29/10/2014)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. BIÊNIO DE INGRESSO PARA AÇÃO RESCISÓRIA. TÉRMINO NO CURSO DE FÉRIAS FORENSES. PRORROGAÇÃO DO PRAZO PARA O 1º DIA ÚTIL. FUNCIONAMENTO REGULAR DO PROTOCOLO DO TRIBUNAL. IRRELEVÂNCIA. INEXISTÊNCIA DE PREVISÃO NOS ARTIGOS 174 E 275 DO CPC. PRECEDENTES. DIVERGÊNCIA RECONHECIDA NO SENTIDO DO ACÓRDÃO PARADIGMA. PROVIMENTO DO PEDIDO PARA O FIM DE PRORROGAR O PRAZO DE AJUIZAMENTO DA AÇÃO RESCISÓRIA PARA O PRIMEIRO DIA ÚTIL SEGUINTE. AUTOS ENVIADOS AO JUÍZO DE PRIMEIRO GRAU, PARA O REGULAR JULGAMENTO DO FEITO.
+1. Cuida-se de embargos de divergência interpostos com o propósito de ver acolhida a tese segundo a qual, recaindo o último dia do prazo bienal para o ajuizamento de ação rescisória durante férias forenses, prorroga-se, até o primeiro dia útil, esse lapso temporal.
+Como registrado nos autos, o acórdão embargado ratificou o julgado recorrido e negou provimento ao recurso especial sob o entendimento de que, estando o Tribunal em funcionamento regular, não havia motivo de direito para a pretendida prorrogação do prazo de ajuizamento da ação rescisória. O acórdão indicado como paradigma, por seu turno, assentou que, expirando-se o biênio de ingresso de ação rescisória durante as férias forenses, prorroga-se o prazo de ajuizamento para o primeiro dia útil seguinte ao daquele período.
+2. Com razão a parte embargante. A ação rescisória não está contemplada, de forma expressa ou tácita, como sendo ação que tenha curso regular no período de férias forenses. Assim, não é possível se ampliar a regra processual que está configurada nos artigos 174 e 275 do CPC, que veda a suspensão/prorrogação dos prazos forenses nas hipóteses em que especifica.
+3. Não é relevante para a situação o fato de se tratar, na espécie, de férias forenses ou de recesso, uma vez que tanto em uma como em outra hipótese, os Tribunais mantém em funcionamento regular os serviços de protocolo, o que se dá, inclusive, no âmbito desta Corte Superior. Também não repercute no desate do litígio a natureza prescricional ou decadencial conferida ao prazo.
+4. Em verdade, ao se prorrogar o prazo para o primeiro dia útil, em razão de o lapso temporal se expirar no curso de férias forenses, está-se possibilitando à parte a opção de utilizar ou não esse favor legal. Contudo, não se mostra de direito o inverso, ou seja, retirar da parte o direito à prorrogação do prazo.
+5. É nesse sentido, aliás, a jurisprudência reiterada desta Corte Superior, não havendo razão, ao menos no caso em exame, para se aplicar entendimento diverso, como demonstrado: PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DECADÊNCIA. TÉRMINO DO PRAZO EM DIA NÃO ÚTIL. PRORROGAÇÃO.
+- Ainda que decadencial, o prazo para ajuizamento da ação rescisória prorroga-se para o primeiro dia útil. (AgRg no Resp 747.308/DF, DJ 19/03/2007, Rel. Min. Humberto Gomes de Barros) 6. No mesmo sentido: Resp 167.413/SP, DJ 24/08/1998, Rel. Min. Garcia Vieira; Resp 84.217/MG, DJ 03/02/1997, Rel. Min. Demócrito Reinaldo; Resp 51.968/SP, DJ 10/10/1994, Rel. Min. Cesar Asfor Rocha; Enunciado nº 100 do TST: -  ..  IX - Prorroga-se até o primeiro dia útil, imediatamente subsequente, o prazo decadencial para ajuizamento de ação rescisória quando expira em férias forenses, feriados, finais de semana ou em dia em que não houver expediente forense. Aplicação do art. 775 da CLT. (ex-OJ nº 13 da SBDI-2 - inserida em 20.09.00).
+7. Embargos providos para o fim de que, reconhecida a divergência, seja empregada na hipótese em exame a solução adotada pelo acórdão embargado, prorrogando-se o prazo de ajuizamento da ação rescisória para o primeiro dia útil seguinte, porquanto a expiração do biênio autorizativo do pleito rescisório ocorreu no curso das férias forenses. Em decorrência, sejam os autos enviados ao juízo de primeiro grau, para o regular julgamento do feito.
+(EREsp 667.672/SP, Rel. Ministro JOSÉ DELGADO, CORTE ESPECIAL, julgado em 21/05/2008, DJe 26/06/2008)
+PROCESSUAL CIVIL - PRESCRIÇÃO - FÉRIAS FORENSES - PRAZO - SUSPENSÃO.
+O prazo de prescrição não vence nas férias forenses. A superveniência de férias suspenderá o curso do prazo e o que sobejar recomeçará a correr do primeiro dia útil seguinte ao término das férias.
+Recurso provido. (REsp 167.413/SP, Rel. Ministro GARCIA VIEIRA, PRIMEIRA TURMA, julgado em 08/06/1998, DJ 24/08/1998, p. 24)
+Consolidou-se neste Superior Tribunal de Justiça o entendimento de que a condição de acionista somente é adquirida com a subscrição das ações, sendo aplicável o prazo de prescrição das ações de natureza pessoal, a saber, vinte anos, a teor do artigo 177 do Código Civil de 1916, até a entrada em vigor do novo Código, em 11.1.2003, passando a ser, a partir daí, de dez anos, nos termos do artigo 205 deste estatuto.
+Nesse sentido, o acórdão da Segunda Seção no REsp 1.033.241, relator o Ministro Aldir Passarinho Junior, submetido ao rito do art. 543-C do CPC, de cuja ementa transcrevo a seguinte passagem:
+COMERCIAL E PROCESSUAL CIVIL. TELECOM. CRT. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. DIFERENÇA. PRESCRIÇÃO. DIREITO PESSOAL. DIVIDENDOS. ARTS. 177 DO CC/1916, 205 E 2.028 DO CC/2002. VALOR PATRIMONIAL DA AÇÃO. APURAÇÃO. CRITÉRIO. BALANCETE DO MÊS DA INTEGRALIZAÇÃO. RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Nas demandas em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira firmado com sociedade anônima, a pretensão é de natureza pessoal e prescreve nos prazos previstos no artigo 177 do Código Civil revogado e artigos 205 e 2.028 do Novo Código Civil.
+(..)
+III. Julgamento afetado à 2ª Seção com base no procedimento da Lei n. 11.672/2008 e Resolução n. 8/2008 (Lei de Recursos Repetitivos).
+IV. Recurso especial conhecido em parte e provido.
+REsp nº 1.033.241/RS relator Min. Aldir Passarinho Junior, DJ 5/11/2008)
+No caso concreto, as "ações foram emitidas em 30/06/1993, marco inicial para contagem do prazo prescricional" (fl. 71) e a pretensão "foi ajuizada em 17/01/2013 (fl. 71). Assim, não tendo sido emitidas as ações após a metade do prazo previsto no art. 177 do Código Civil/1916, aplicável a prescrição decenal, nos termos do art. 205 do Código Civil/2002.
+Dessa forma, tomando-se como início o dia 11.1.2003 o prazo prescricional terminaria no dia 11.1.2013. No entanto, diante do acima explicitado, este ficará prorrogado para o primeiro dia útil seguinte ao fim do recesso forense.
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para determinar o retorno dos autos à origem a fim de que se verifique a ocorrência, ou não, da prescrição, aplicando-se o direito à espécie, nos termos da fundamentação supra.
+Intimem-se.
