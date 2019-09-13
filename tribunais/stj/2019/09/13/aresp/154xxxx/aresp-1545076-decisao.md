@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL AÇÃO PREVIDENCIÁRIA DEMANDA JULGADA PROCEDENTE REEXAME NECESSÁRIO PLEITO DE CONCESSÃO DE APOSENTADORIA POR INVALIDEZ LAUDO PERICIAL CONCLUSIVO NO SENTIDO DE ESTAREM PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DA BENESSE EIS QUE DEMONSTRADA A QUALIDADE DE SEGURADO A INCAPACIDADE TOTAL E PERMANENTE PARA O LABOR DECORRENTE DO TRABALHO EXERCIDO ADEMAIS O SEGURADO SE ENCONTRA INCAPACITADA PARA DESEMPENHAR ATIVIDADES LABORAIS NÃO REUNINDO CONDIÇÕES DE DISPUTAR VAGAS NO CONCORRIDO MERCADO DE TRABALHO IDADE AVANÇADA APOSENTADORIA POR INVALIDEZ DEVIDA TERMO INICIAL DA BENESSE DATA DA CESSAÇÃO IRREGULAR DO BENEFÍCIO ANTERIOR INTELIGÊNCIA DO ENUNCIADO Nº 19 DESTA 7 CÂMARA CÍVEL JUROS MORATÓRIOS CONDENAÇÃO NÃO TRIBUTÁRIA CÁLCULO DE JUROS DE MORA A PARTIR DOS APLICÁVEIS À CADERNETA DE POUPANÇA CORREÇÃO MONETÁRIA APLICABILIDADE DO 1º-F DA LEI Nº 9494/97 COM REDAÇÃO DADA PELA LEI 11.960/09 QUANTUM HONORÁRIO QUE DEVE SER FIXADO SOMENTE APÓS LIQUIDADO O JULGADO APELO CONHECIDO E DESPROVIDO SENTENÇA PONTUALMENTE REFORMADA EM SEDE DE REEXAME NECESSÁRIO.
+Alega violação dos arts. 503, 505 e 508 do CPC, no que concerne ao reconhecimento da ofensa à coisa julgada formada na Justiça Federal, trazendo o(s) seguinte(s) argumento(s):
+Com efeito, conforme bem demonstrado na apelação, em ação judicial transitada em julgado na Justiça Federal, ficou reconhecido que o autor não apresentava incapacidade laborativa, motivo pelo qual a demanda foi julgada improcedente.
+(..)
+Não obstante a coisa julgada formada na ação que tramitou na Justiça Federal, a sentença de 1º grau julgou procedente o pedido da parte autora na presente ação acidentária, determinando a concessão ao autor de aposentadoria por invalidez acidentária.
+Como se vê, a ação transitada em julgado na Justiça Federal afastou as alegações de incapacidade laborativa pelos motivos narrados na inicial, de modo que, a concessão de aposentadoria por invalidez acidentária à parte autora afronta a coisa julgada. (fls. 374).
+É o relatório. Decido.
+O Tribunal de origem assim se manifestou:
+Argui a Autarquia Previdenciária que a parte autora já teve seu pedido analisado anteriormente pela Justiça Federal, o qual foi julgado improcedente, de modo que existe coisa julgada.
+Sem razão.
+Primeiramente porque, como se é cediço, a Constituição Federal dispôs que as demandas ajuizadas em face do Instituto Nacional do Seguro Social - INSS, em regra, são julgadas perante à Justiça Federal (fls. 316).
+Todavia, em caso de ações de cunho acidentário, a competência é deslocada para a Justiça Estadual, desde que evidenciado o nexo de causalidade entre o exercício laboral do autor e a incapacidade gerada (fls. 317).
+Desta feita, tem-se que a demanda julgada perante à Justiça Federal analisou a questão de concessão de benefício previdenciário SEM cunho acidentário.
+Já a presente demanda, diversamente, trata de concessão de benefício de aposentadoria por invalidez de cunho acidentário (fls. 317).
+Evidente, portanto, tratar-se de pedidos totalmente distintos e, portanto, não há que se cogitar em coisa julgada (fls. 318).
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à identidade dos elementos caracterizadores da coisa julgada, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+A jurisprudência do STJ firmou-se no sentido de que, "em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ (AgInt no AREsp n. 784.774/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/4/2018).
+Confiram-se ainda os seguintes precedentes: EDcl no REsp n. 1.183.633/MS, relator Ministro Og Fernandes, Segunda Turma, DJe de 9/4/2018; AgInt no AREsp n. 1.152.834/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 18/12/2017; e AgInt no REsp n. 1.635.812/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 27/4/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
