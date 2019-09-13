@@ -1,0 +1,14 @@
+Decisão
+    Por meio da Petição 51215/2019 (Doc. 43), João Guilherme Machado Ribas alega ostentar a mesma situação fático-processual do ora paciente, GUILHERME VILLANI, razão pela qual postula lhe seja deferida a extensão dos efeitos da decisão constante no documento eletrônico nº 41, nos termos do artigo 580 do Código de Processo Penal, para que João Guilherme Machado Ribas também possa cumprir a pena que lhe foi fixada em regime aberto.
+    É o breve relatório. Decido.
+    Nos termos do artigo 580 do Código de Processo Penal, no caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros. “Nada obstante inserida no capítulo relativo aos recursos, tal regra processual é aplicável a outras vias impugnativas, como a do habeas corpus, com vistas a garantir o princípio da isonomia (cf. HC 93056 extensão, Relator(a): Min. CELSO DE MELLO, Segunda Turma, DJe de 29-10-2009). Nesse mesmo sentido: HC 75039, Relator(a): Min. MAURÍCIO CORRÊA, Segunda Turma, DJ 23-05-1997; HC 87768 extensão, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJ 15-06-2007; HC 94822, Relator(a): Min. MENEZES DIREITO, Primeira Turma, DJe de 20-02-2009; HC 105868, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, DJe de 07-12-2011; RHC 115758, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 07-06-2013)” (HC 132923 MC-Extn, Relator(a): Min. TEORI ZAVASCKI, DJe de 8/3/2016).
+    Nestes autos, a Primeira Turma (HC 163231, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 26/8/2019) concedeu a ordem de Habeas Corpus para fixar ao referido paciente, no tocante à Ação Penal nº 0033461-09.2012.8.26.0562, em trâmite no Juízo da Segunda Vara Criminal da Comarca de Santos/SP, o regime inicial aberto para cumprimento da reprimenda de 2 anos, 3 meses e 23 dias de reclusão, que lhe foi imposta pela prática do crime de tráfico de drogas.
+    Foi deferido ao paciente o abrandamento do regime de cumprimento da pena, levando em consideração as seguintes circunstâncias: (a) houve o reconhecimento do denominado tráfico privilegiado, com aplicação da fração máxima de 2/3; e (b) não há registro de dedicação a atividades criminosas.
+    Conforme se depreende da decisão do Superior Tribunal de Justiça, a imputação levada a efeito culminou na mesma pena para ambos os corréus. Assim, constatada a identidade objetiva de situação processual entre o requerente e o paciente, o pleito é de ser atendido, com base na mesma motivação, a fim de que João Guilherme Machado Ribas também tenha o regime inicial de cumprimento da reprimenda abrandado para o aberto.
+    Diante do exposto, DEFIRO o pedido de extensão, nos termos explicitados.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 13 de setembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
