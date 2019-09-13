@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e VALQUIRIA IERVOLINO [NOME] contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PREJUDICIAL DE NULIDADE DE SENTENÇA - Arguição de nulidade de sentença em decorrência da não apreciação do questionamento acerca da forma de o rateio das cotas condominiais - Matéria que não se encontra circunscrita aos limites objetivos da ação, devendo ser objeto de demanda própria - Prejudicial rejeitada.
+APELAÇÃO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EMBARGOS À EXECUÇÃO - Pretensão do embargante voltada à declaração de inexigibilidade de despesas condominiais instituídas em decorrência de sistema de multipropriedade ou "time-sharing" - Sentença de improcedência - Como é cediço, o regime de multipropriedade, também denominado de "time-sharing", consiste em um sistema pelo qual os adquirentes são proprietários de "unidades de tempo", de modo que o bem é dividido para que cada um deles utilize a coisa, com exclusividade, durante certos períodos de tempo por ano - Neste cenário, na estrita hipótese dos autos, verifica-se a formação de dois condomínios, um envolvendo as unidades em relação ao terreno e outro relativo aos coproprietários da mesma unidade, circunstância que atrai a incidência da L. 4.591/64 - As prestações condominiais, neste meandro, consistem em verdadeiro dever legal, nos termos do art. art. 1.336, I, do CC e art. 12 da L. 4.591/64 - Assim, em se tratando de obrigação proveniente de norma cogente, basta que a ação de execução seja instruída com a discriminação do débito, sendo dispensável a apresentação de outros documentos - Ausência, ademais, de excesso de execução, já que em sendo as despesas condominiais obrigações de natureza "propter rem", possível a cobrança do valor integral de qualquer coproprietário - Sentença mantida Recurso não provido" (fls. 791/792 e-STJ).
+A denegação se deu em virtude do óbice da Súmula nº 7/STJ.
+Sustenta a parte agravante, em síntese, violação dos arts. 784, X, e 917, VI, do Código de Processo Civil de 2015. Alega que:
+não foram documentalmente comprovadas as verbas condominiais, sendo insuficiente apenas a apresentação da ata da assembleia, nos termos do art. 784, X, do CPC/2015, e
+os títulos executivos (atas) são inexigíveis e excessivos, e, sob a nova sistemática do CPC/2015, os embargos à execução são o meio próprio para discutir a validade do critério de rateio estabelecido nas atas de assembleia condominial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Verifica-se estarem presentes os pressupostos de admissibilidade do agravo.
+Por tal motivo, e por entender que a matéria merece melhor exame, dou provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do art. 34, inciso XVI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
