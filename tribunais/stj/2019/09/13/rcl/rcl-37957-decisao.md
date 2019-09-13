@@ -1,0 +1,8 @@
+DECISÃO
+PAULO VINÍCIUS DOS SANTOS ajuíza esta reclamação contra ato do Tribunal de Justiça do Estado de São Paulo, consubstanciado na determinação de interrupção do lapso para livramento condicional, contrariando a ordem determinada no HC n. 498.844/SP.
+A despeito da controvérsia doutrinária acerca da natureza jurídica da reclamação, é induvidoso que ela constitui o instrumento processual adequado para, no que diz respeito ao Superior Tribunal de Justiça, preservar a competência jurisdicional desta Corte ou garantir a autoridade das decisões aqui proferidas, conforme expressa previsão constitucional (art. 105, I, "f").
+Sobrevieram informações do Juízo das execuções, noticiando que "por decisão de 26/8/2019 deste Juízo, foi determinada a SUSTAÇÃO CAUTELAR do curso do livramento condicional concedido ao sentenciado, fixando-se o regime fechado  .. , expedindo-se mandado de prisão, tendo em vista a prisão em flagrante, por crime de roubo, praticado em 08/07/2019" (fl. 130, grifei).
+Nessa perspectiva, entendo que a superveniência nova decisão que determinou a suspensão do benefício e colocação do apenado em regime fechado constitui fato processual novo apto a justificar, desde que de forma fundamentada, a determinação de constrição do réu.
+Logo, a modificação na realidade fático-processual, com o advento do cometimento de novo crime e consequente sustação do benefício, esvazia o objeto desta reclamação.
+Assim, por não constatar nenhuma das hipóteses constitucionais de admissibilidade (cabimento) da reclamação, nos termos do art. 34, XVIII, "a", do RISTJ, não conheço do pedido.
+Publique-se e intimem-se.
