@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por OURO BRANCO EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA. TÍTULO EXECUTIVO EXTRAJUDICIAL. CONFISSÃO DE DÍVIDA. NOTA PROMISSÓRIA. CÓPIA. TÍTULO ORIGINAL. EXIGÊNCIA. DECRETO Nº 57.663/1966. ARTIGO 798 DO CPC.
+1. De acordo com o art. 67 da Lei Uniforme de Genebra, internalizada pelo Decreto nº 57.663/1966, a cópia de uma nota promissória pode ser "endossada e avalizada da mesma maneira e produzindo os mesmos efeitos que o original".
+2. À luz dos princípios que regem os títulos de crédito, da circularidade e da cartularidade, é prudente, para o processamento da ação na qual se busca o adimplemento de dívida vinculada à nota promissória dada em garantia, que sejam juntados aos autos as vias originais de toda a documentação que demonstre o crédito nela contido, a fim de evitar negociação do mesmo título extra-autos. Precedentes.
+3. Ao propor a execução, incumbe ao exequente instruir a petição inicial com o título executivo extrajudicial (art. 798 do CPC).
+4. A confissão de dívida firmada por meio de instrumento particular, no qual se exigiu a assinatura de nota promissória, garantia extra que não foi mencionada pelo credor, nem juntada aos autos, demonstra a necessidade de apresentação dos documentos originais para o processamento da ação monitória, uma vez que o crédito pode ser cedido a terceiro e cobrado simultaneamente em outra ação judicial.
+5. Nos termos do art. 425, 2º do CPC, o Juiz poderá determinar o depósito de título executivo extrajudicial ou de documento relevante à instrução do processo em cartório ou secretaria, no caso de processos em que as vias são digitais.
+6. Recurso conhecido e não provido.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
