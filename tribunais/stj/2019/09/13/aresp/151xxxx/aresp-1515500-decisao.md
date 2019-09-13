@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por LAZIMAR RODRIGUES DE PAULO, contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 156, caput, do Código de Processo Penal.
+Defende "a ausência de comprovação das acusações do Parquet que não ilidiu ao seu ônus de produzir prova penal lícita que corroborasse o conteúdo da imputação penal deduzida na denúncia, não tendo sido capaz de cumprir, por isso mesmo, a norma inscrita no art. 156, "caput", do CPP, que atribui ao órgão estatal da acusação penal o encargo de provar, para além de qualquer dúvida razoável, a autoria e a materialidade do fato delituoso" (e-STJ, fl. 1180).
+Apresentadas as contrarrazões (e-STJ, fls. 1186-1189), o recurso foi inadmitido com fundamento no óbice da Súmula 7/STJ (e-STJ, fls. 1191-1195). Daí este agravo (e-STJ, fls. 1199-1203).
+O Ministério Público Federal opinou pelo não conhecimento do agravo, ou, caso superada essa fase, pelo seu desprovimento (e-STJ, fls. 1220-1229).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal a quo manteve a condenação do agravante nos seguintes termos:
+"Como esclarecido em primeiro grau, a narrativa das vítimas estão em consonância com o narrado pelos réus extrajudicialmente, não obstante sua retratação posterior e as contradições existentes nos depoimentos quanto aos papeis desenvolvidos por cada um dos envolvidos na prática criminosa.
+Certo é que os três estavam presentes no momento do assalto e praticaram condutas em prejuízo das vítimas.
+Em casos como o presente, deve-se emprestar especial valor à palavra da vítima, principalmente quando ela descreve com firmeza o modus operandi e reconhece, do mesmo modo, a pessoa que praticou o crime.
+Quanto ao questionamento acerca da necessidade de oitiva das vítimas Leandro e Antônio em juízo, destaca-se ter sido o depoimento de Antônio confirmado à fl. 275. Não obstante a não confirmação do depoimento extrajudicial de Leandro, o certo é que a tomada de suas palavras em conjunto com as demais provas judiciais produzidas, corroboram a condenação.
+Acrescenta-se que, não obstante reconhecido pelas vítimas apenas Lazimar, há confissão dos réus, mesmo que parcialmente, da sua presença no momento dos fatos, motivo pelo qual não há que se cogitar a absolvição ou mesmo o reconhecimento da participação de menor importância.
+Além de não estar claro o limite da participação de cada um dos réus no crime, é incontroverso que estes, no mínimo, anuíram às condutas ativas de seus comparsas, não havendo qualquer prova clara de que tenham tentado impedi-los ou não tenham consentido com suas ações.
+Destaca-se, ainda, que responde pelo mesmo crime o réu que atua ativamente durante a prática criminosa, pois, quando os agentes atuam em concurso para praticarem um roubo, respondem todos pelo mesmo crime, ainda que algum ou muitos deles não tenham participado diretamente do ato que imprimiu o desfecho final.
+Sobre o tema, segue a lição de Guilherme de Souza NUCCI:
+(..) O partícipe que pouco tomou parte na prática criminosa, colaborando minimamente, deve ser receber a pena diminuída de um sexto a um terço, o que significa a possibilidade de romper o mínimo legal da pena prevista em abstrato. Ex.: imagine-se o participe que, embora tenha instigado outrem à prática do crime, arrependa-se e aja para impedir o resultado, embora não obtenha sucesso. Merece ser beneficiado pela diminuição da pena. Outra ilustração, trazida por [NOME]: "Entendemos que, em face da acessoriedade limitada, esta situação  cuidando da participação de menor importância no contexto do latrocínio  é possível, porque o motorista, por exemplo, que se limitou a levar os latrocidas ao local do crime, seque esperando para lhes dar fuga, com evidência teve participação de menor importância (Código Penal Comentado. 10a ed. São Paulo: Editora Revista dos Tribunais, 2010, p. 299).
+Dessa forma, não tendo as defesas se desincumbido do ônus de elidir as provas que imputam aos recorrentes a autoria do crime contra a vítima José, não há que se cogitar a participação de menor valia de suas condutas, confirmando-se a condenação pelo crime de roubo majorado, nos termos da r. sentença.
+Melhor sorte não assiste aos recorrentes ao alegaram a desclassificação para o crime de furto, pois, como esclarecido pelas palavras da vitima, simularam os réus portarem armas de fogo no momento da abordagem, o que caracteriza a grave ameaça.
+No delito de roubo, reforça-se que a conduta típica do agente consiste em subtrair, para si ou para outrem, coisa alheia móvel, com emprego de violência e/ou grave ameaça, tratando-se, portanto, de crime complexo, que tutela tanto a pessoa humana como a coisa alheia móvel" (e-STJ, fls. 1134-1136).
+O acórdão combatido pontuou que "a narrativa das vítimas estão em consonância com o narrado pelos réus extrajudicialmente, não obstante sua retratação posterior e as contradições existentes nos depoimentos quanto aos papéis desenvolvidos por cada um dos envolvidos na prática criminosa. Certo é que os três estavam presentes no momento do assalto e praticaram condutas em prejuízo das vítimas." (e-STJ, fl. 1134). Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição do agravante, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+A propósito:
+" ..
+1. Inadmissível o exame da pretensão de absolvição e de desclassificação da conduta, quando concluída pela Corte de origem que a materialidade e autoria do delito restaram fundamentadas em provas inquisitorial e judicial, em razão da necessidade de revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+2. Agravo regimental improvido."
+(AgRg no AREsp 1.131.028/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
