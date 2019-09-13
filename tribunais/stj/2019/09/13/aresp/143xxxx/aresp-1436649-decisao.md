@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SANAR OS VÍCIOS INDICADOS NOS EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA EMPRESA.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por PROVIDER INDÚSTRIA E COMÉRCIO S.A., com fundamento nas alíneas a e c do art. 105, inciso III da CF/1988, contra acórdão proferido pelo TRF da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCLUSÃO PARCELAMENTO. LEI Nº 11.941/09. PRAZO CONSOLIDAÇÃO. INOBSERVÂNCIA. REMESSA OFICIAL E APELAÇÃO PROVIDAS.
+- Não acolhida a preliminar de ilegitimidade passiva, visto que o ato ora questionado, exclusão do parcelamento instituído pela Lei 11.941/09, perpetrado pelo Delegado da Receita Federal em Jundiá.
+- Ademais, em razão da complexidade da estrutura dos órgãos fazendários, o equívoco na indicação da autoridade coatora, se as informações forem prestadas pelo mesmo órgão, mormente se há resistência à pretensão do impetrante, não deve levar à extinção do processo, aplicando-se a teoria da encampação.
+- O art. 155-A, do Código Tributário Nacional, estabelece que o parcelamento será concedido na forma e condição estabelecidas em lei específica, no caso vertente, a Lei n.º 11.941/09.
+- Como é cediço o parcelamento instituído pela Lei n.º 11.941/09 é uma faculdade concedida ao contribuinte que, por meio de um ajuste realizado com o Fisco, é beneficiado por um regime especial de consolidação e parcelamento de débitos fiscais.
+- A Lei nº 11.941/09 e Portaria Conjunta RFB/PGFN nº 6/2009 regulamentam a matéria.
+- A Portaria 06/2009 extraiu seu fundamento de validade na Lei n.º 11.941/09, sendo que o descumprimento do prazo revela-se como causa excludente do beneficio fiscal, não podendo existir flexibilidade e dilação do prazo.
+- A adesão ao parcelamento é faculdade do contribuinte, o qual deve observar rigorosamente as obrigações legais decorrentes do beneficio fiscal pleiteado. Nesse sentido é a jurisprudência desta Corte - Não se vislumbra qualquer nulidade no ato administrativo que, consoante as prescrições estabelecidas na legislação tributária, determinou a exclusão da apelada do programa de parcelamento.
+-Remessa oficial e apelação providas. Ordem denegada. Sem honorários, nos termos do artigo 25 da Lei nº 12.016/09 (fls. 371/372).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 405/406).
+3. Em seu Apelo Nobre, a parte recorrente aponta violação dos arts. 1.022, I e II e 489, § 1o., II e IV do Código Fux, 155-A do CTN bem como divergência jurisprudencial. Sustenta, além de negativa de prestação jurisdicional, que não deve ser excluída do parcelamento tendo em vista a sua boa-fé e a ausência de prejuízo ao erário.
+4. Apresentadas as contrarrazões (fls. 439/450), o recurso foi inadmitido na origem (fls. 452/453).
+5. É o relatório.
+6. A insurgência merece prosperar quanto à tese de violação do art. 1.022 do Código Fux.
+7. Da análise dos autos, verifica-se que o Tribunal de origem não se manifestou sobre as alegações da parte recorrente formuladas em seus Embargos de Declaração, especificamente sobre a boa-fé do contribuinte e a ausência de prejuízo ao erário, consoante orientação do STJ.
+8. Com a oposição dos Embargos de Declaração, foi expressamente solicitado que o colegiado examinasse tais argumentos, os quais teriam o condão de alterar a conclusão adotada pelo órgão julgador. Todavia, o Tribunal a quo não se pronunciou a respeito das referidas questões e concluiu pela ausência de vícios no acórdão. Fica, com isso, configurada a ofensa ao art. 1.022 do Código Fux. O Superior Tribunal já se manifestou a esse respeito:
+PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1o-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME] (REsp. 1.337.055/PE, Rel. Min. HERMAN BENJAMIN, DJe 11.9.2012).
+
+PROCESSUAL CIVIL. OMISSÃO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. MATÉRIA DE ORDEM PÚBLICA. DEVIDO ENFRENTAMENTO. VIOLAÇÃO AO ART. 535 DO CPC. RETORNO DOS AUTOS. NECESSIDADE.
+1. A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+2. A omissão apontada pelo recorrente diz respeito à alegação de que a questão aduzida na inicial é distinta do entendimento firmado no acórdão recorrido, incorrendo em julgamento extra petita.
+3. É de ver que a omissão quanto a esse tópico é relevante para a solução da controvérsia, e fora suscitada oportunamente, de modo que, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, visto que, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento da tese inviabiliza a análise nesta Instância Especial.
+Recurso especial provido a fim de que os autos retornem ao Tribunal a quo para o julgamento completo dos embargos de declaração opostos (REsp. 1.407.764/SC, Rel. Min. HUMBERTO MARTINS, DJe 25.10.2013).
+9. Diante dessas considerações, conhece-se do Agravo e dá-se provimento ao Recurso Especial da Empresa, para anular o acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que sane os vícios apontados nos termos acima explicitados.
+10. Publique-se. Intimações necessárias.
