@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 333/334):
+AG INTERNO - IMPROVIMENTO Apelação. Concessionária do serviço público de águas e esgotos. Cedae. Cobrança de tarifa de esgoto de usuário residente em região não beneficiada por estação de tratamento. Licitude reconhecida pelo Superior Tribunal de Justiça que não implica admissão da cobrança na alíquota integral.
+Abatimento proporcional do preço.
+1. Aplica-se o prazo geral do direito civil, e não o especial do art. 1º do Decreto nº 20.910/32, nem o do art. 27 da Lei nº 8.078/90, nem tampouco o minorado do art. 206, § 3º, V, do Código de 2003, à pretensão de repetição de indébito deduzida pelo usuário contra pessoas jurídicas prestadoras de serviço público de água e esgoto (REsp nº 928.267 -RS, nº 1.179.478 -RS, nº 1.155.657 -SP e nº 1.163.968 -RS).
+2. A orientação do Superior Tribunal de Justiça quanto à licitude da cobrança de tarifa de esgoto, ainda que desenvolvida apenas uma ou duas das atividades previstas no art. 3º, I, "b", da Lei nº 11.445/2007 (Marco Regulatório do Saneamento Básico), não implica autorização de cobrança desse preço público no seu valor integral, já que o serviço correspondente tampouco é prestado na sua totalidade.
+3. Em aplicação do art. 20, inciso III, do Código de Defesa do Consumidor, por analogia, o usuário dos serviços públi- cos de esgotamento que conte apenas com a simples ligação de sua residência à rede coletora de dejetos, sem tratamento do lodo nem, por conseguinte, sua adequada disposição final no meio ambiente, faz jus ao abatimento proporcional da respectiva tarifa à metade do valor constante da fatura, que é o mesmo cobrado pela concessionária, indistintamente, em toda a região metropolitana por ela atendida.
+4. Devolução do excesso já pago pela forma simples, seja por força da Súmula nº 85 deste Tribunal, seja ainda pela inteligência do inciso III do art. 20 da Lei nº 8.078/90.
+5. Fatos litigiosos que, não ultrapassando a órbita meramente patrimonial, são inaptos à configuração do dano moral.
+6. - Provimento parcial.
+Opostos embargos de declaração, foram estes rejeitados (fls. 357/360).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 22 da Lei n. 8.078/90. Sustenta, em síntese, que a prestação parcial do serviço de esgoto enseja o dever de indenizar.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Este relator, ao examinar o recurso especial manejado pela Companhia Estadual de Águas e Esgotos - CEDAE, determinou o retorno nos autos à origem, onde, nos termos do art. 1.030 do CPC/2015, deverá ser realizado o juízo de conformação do acórdão local, frente ao que foi decidido por este Superior Tribunal de Justiça no julgamento do REsp 1.339.313/RJ, submetido ao rito dos recursos repetitivos.
+Nesse contexto, ante a impossibilidade de cisão do julgamento, o presente recurso especial não deverá ser examinado neste momento processual, sendo imperioso aguardar o esgotamento da instância ordinária para o outro recorrente, antes de ser submetido a este Superior Tribunal de Justiça.
+ANTE O EXPOSTO, determino o sobrestamento do recurso especial manejado por [NOME], até que o Tribunal a quo realize o juízo previsto no art. 1.030 do CPC/2015.
+Publique-se.
