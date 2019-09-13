@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Pedido de Uniformização de Interpretação de Lei formulado pelo Instituto de Previdência do Estado do Rio Grande do Sul, com fundamento nos arts. 18 e 19 da Lei n. 12.153/2009, contra acórdão proferido à unanimidade pela Segunda Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul e resumido pela seguinte ementa:
+RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. IPERGS. PENSÃO POR MORTE. INTEMPESTIVIDADE. INOBSERVÂNCIA DO DISPOSTO NO ARTIGO 42 DA LEI 9.099/95, QUE ESTABELECE O PRAZO DE DEZ DIAS PARA RECORRER. SENTENÇA MANTIDA.
+É intempestivo o recurso inominado interposto fora do prazo previsto no art. 42 da Lei n.º 9.099/95.
+RECURSO INOMINADO NÃO CONHECIDO, PELA INTEMPESTIVIDADE. (fl. 209).
+Segundo o requerente, "ao julgar procedente a ação, reconhecendo o direito do autor ao recebimento da pensão por morte, não obstante o transcurso do prazo de mais de 5 (anos) da morte do segurado, ocorrida em 04/06/1999, e o ajuizamento da presente ação em 08/07/2013, ou seja, mais de 14 anos," o colegiado se houve "em desacordo com a modificação da jurisprudência da Primeira Turma Recursal da Fazenda Pública  .. , da jurisprudência de outras Turmas Recursais da Fazenda Pública instituídas por outras unidades da Federação.." (fl. 236), pelo que requer a procedência do presente pedido para, uniformizando a interpretação das decisões das Turmas Recursais quanto à exegese do Decreto 20.910/1932, reconhecer a prescrição do fundo de direito.
+O requerido, [NOME], apresentou contrarrazões ao pedido, fls. 256/259, nas quais alega estar a sentença em conformidade com a atual jurisprudência do STJ.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A teor do que dispõem os artigos 18 e 19 da Lei n. 12.153/2009, o pedido de interpretação de lei dirigido ao Superior Tribunal de Justiça somente é cabível quando satisfeitas, cumulativa e simultaneamente, as condições lá apresentadas, quais sejam: (a) que exista divergência na interpretação de lei federal ou contrariedade a enunciado da Súmula do STJ; (b) que esta divergência se dê entre Turmas Recursais de diferentes Estados; e (c) que o dissenso interpretativo se circunscreva a questões de direito material.
+Todavia, como logo se vê da própria ementa do acórdão impugnado, a Segunda Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul nem sequer conheceu do recurso inominado que lhe foi submetido.
+Logo, não há, pela ordem, (a) divergência interpretativa, pois os acórdãos indicados pelo requerente cuidam de questões meritórias e diversas daquela que foi objeto de pronunciamento do colegiado gaúcho; (b) pela mesma razão - diversidade de temas - não foi demonstrada a divergência interpretativa entre Turmas de diferentes Estados; e, (c) ao não conhecer do recurso a Turma Recursal, por óbvio, não se manifestou sobre o mérito.
+Nesse contexto, é descabido o pedido de uniformização dirigido ao STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 18, § 3º, DA LEI N. 12.153/09. DIREITO MATERIAL. CABIMENTO. PROPORCIONALIDADE DE HONORÁRIOS ADVOCATÍCIOS. QUESTÃO MATERIAL. ANÁLISE. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - O § 3º do art. 18 da Lei n. 12.153/09, que autoriza a apresentação de pedido de uniformização perante o Superior Tribunal de Justiça, deve ser interpretado de acordo com o respectivo caput, de modo que só é cabível pedido de uniformização sobre questões de direito material.
+III - A questão referente a desproporcionalidade ou não dos honorários advocatícios é matéria eminentemente processual, de modo que não cabe seu exame em sede de pedido de uniformização de jurisprudência, que demanda que a questão a ser debatida seja de direito material.
+IV - É inviável o conhecimento do pedido, uma vez que a jurisprudência desta Corte consolidou o entendimento no sentido de que o incidente de uniformização somente é cabível quando há debate sobre a questão de mérito pela turma que proferiu o julgado impugnado.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no PUIL 347/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 11/04/2018, DJe 16/04/2018)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DECISÃO DE MÉRITO NA ORIGEM. AUSÊNCIA.
+1. Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, restringe-se a questões de direito material, quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+2. Hipótese em que a Turma Recursal não se pronunciou sobre a possibilidade do pagamento de honorários advocatícios à Defensoria Pública Estadual, na dicção da Súmula 421 do STJ, circunstância que impede o processamento do incidente de uniformização, porquanto cabível somente quando há debate sobre a questão de mérito na origem.
+3. Agravo interno não provido.
+(AgInt na Pet 11.350/RO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 27/11/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 18, § 3º, DA LEI 12.153/2009. AUSÊNCIA DE DECISÃO, PELA TURMA RECURSAL, QUANTO À QUESTÃO DE MÉRITO, IMPUGNADA NO PRESENTE INCIDENTE. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão publicada em 17/05/2016.
+II. Cuida-se de incidente de Uniformização de Interpretação de Lei, com fundamento no art. 18, § 3º, da Lei 12.153/2009, requerido pelo agravante, contra acórdão da Turma Recursal do Estado de Rondônia, sustentando que o acórdão impugnado teria afrontado a jurisprudência desta Corte, consubstanciada na Súmula 421/STJ.
+III. Nos termos do art. 18, § 3º, da Lei 12.153/2009 e da jurisprudência do Superior Tribunal de Justiça, o incidente de Uniformização de Interpretação de Lei somente é cabível quando há debate sobre a questão de mérito, pela Turma Recursal que proferiu o acórdão atacado. Nesse sentido, em caso análogo: STJ, AgInt no PUIL 8/RO, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 30/06/2016.
+IV. No caso, porém, a questão referente à possibilidade de condenação do ora agravante a pagar honorários advocatícios à Defensoria Pública Estadual não foi apreciada, no acórdão impugnado, pelo que inviável o conhecimento do pedido, como concluiu a decisão agravada.
+V. Agravo interno improvido.
+(AgInt no PUIL 34/RO, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 22/11/2016)
+ANTE O EXPOSTO, porque manifestamente incabível o presente pedido, dele não conheço, com fundamento no disposto no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
