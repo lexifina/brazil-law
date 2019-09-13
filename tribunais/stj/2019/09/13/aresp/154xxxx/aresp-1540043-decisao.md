@@ -1,0 +1,38 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IPTU. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE PORTO ALEGRE/RS NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo MUNICÍPIO DE PORTO ALEGRE/RS, com fundamento na alínea a do art. 105, III da Carta Magna, em face de acórdão de lavra do TJ/RS, assim ementado:
+APELAÇÃO. REMESSA NECESSÁRIA. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. MUNICÍPIO DE PORTO ALEGRE. ÁREA INVADIDA. RESPONSABILIDADE TRIBUTÁRIA INEXISTENTE. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. INAPLICABILIDADE.
+1. Em decorrência da invasão coletiva do imóvel, a embargante não detém, há muito tempo, direito de posse ou propriedade sobre o bem objeto da tributação, portando, não possui legitimidade para figurar no polo passivo da execução fiscal, nos termos dos artigos 32 e 34 do CTN. Precedentes da lê Câmara Cível.
+2. Não aplicado o disposto no art. 85, §11, do CPC, em vista da limitação prevista no art. 827, §2º, do CPC. Precedentes do e. STJ. REMESSA NECESSÁRIA NÃO CONHECIDA. RECURSO DESPROVIDO (fls. 368).
+2. Nas razões do Recurso Especial, a parte agravante aponta contrariedade aos arts. 34 do CTN e 1.245 e § 1o. do Código Civil.
+3. É o relatório.
+4. O Tribunal de origem inadmitiu o Recurso Especial da parte recorrente em razão da incidência da Súmula 83 do STJ.
+5. Verifica-se que a parte ora agravante não trouxe jurisprudência atual do STJ em favor da sua tese. A mera citação de jurisprudência desatualizada desta corte não se presta a impugnar especificamente a Súmula 83/STJ. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ.
+6. No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SÚMULA 83 DO STJ. IMPUGNAÇÃO. DEFICIÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A rejeição do recurso especial com base na Súmula 83 do STJ exige da parte, nas razões do agravo, o ônus de indicar precedentes contemporâneos ou supervenientes aos referidos no decisum agravado com o fito de demonstrar ser diversa a orientação jurisprudencial do STJ, o que não aconteceu na espécie.
+3. Pacificado o entendimento de que aquele verbete é aplicável tanto pela alínea a quanto pela c do permissivo constitucional.
+4. Agravo interno desprovido (AgInt no AREsp. 648.333/ES, Rel. Min. GURGEL DE FARIA, DJe 17.5.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a agravante não infirma especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. É firme a jurisprudência desta Corte de que a Súmula 83/STJ não se aplica apenas aos recursos especiais interpostos com fundamento na alínea c do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea a (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 30/8/2016).
+5. Agravo interno a que se nega provimento (AgInt no AREsp. 882.405/SP, Rel. Min. OG FERNANDES, DJe 25.5.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7 E 182 DO STJ.
+1. A insurgente não impugnou, de forma precisa, os fundamentos da decisão impugnada em relação à aplicação da Súmula 7/STJ, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+3. Ainda que assim não fosse, decidir de forma contrária ao acórdão recorrido demandaria necessariamente o reexame de matéria fática, o que encontra óbice na Súmula 7 desta Corte Superior.
+4. Agravo interno a que se nega provimento (AgInt no AREsp. 1.067.725/SP, Rel. Min. OG FERNANDES, DJe 20.10.2017).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 07/02/2018, que julgara recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+V. Agravo interno improvido (AgInt no AREsp. 1.223.898/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 27.3.2018).
+7. Ante o exposto, não se conhece do Agravo em Recurso Especial do MUNICÍPIO DE PORTO ALEGRE/PR.
+8. Publique-se. Intimações necessárias.
