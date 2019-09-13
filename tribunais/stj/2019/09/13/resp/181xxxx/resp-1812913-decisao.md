@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado na alínea "c" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+COMPROMISSO DE COMPRA E VENDA - Comissão de corretagem  Legitimidade das alienantes, nos termos do precedente vinculante estabelecido no REsp 1.599.151- Prescrição trienal (REsp repetitivo no. 1.551.956) - Transcurso de mais de quatro anos entre o pagamento da comissão e o ajuizamento da ação  Prescrição caracterizada  Atraso na entrega das chaves  Previsão expressa de cláusula de tolerância de 180 dias  Cláusula válida, nos termos da Súmula 164 deste E. Tribunal  Mora das rés que deve estender-se do vencimento do prazo de tolerância até a efetiva entrega das chaves (Súmula 160 deste Tribunal)  Incidência de correção monetária, mera atualização do valor nominal da moeda  Hipótese em que, no período da mora da ré, "deve incidir o IGPM, em substituição ao INCC, exceto ese aquele for mais gravoso que este  Inviabilidade da incidência de juros sobre o valor  Tema 08 do IRDR no. 0023203.35.2016.8.26.0000, de eficácia vinculante  Lucros cessantes caracterizados, tendo em vista a privação de uso no período da mora - Valor que deve ser fixado em 0,5% do valor atualizado da venda do imóvel, por mês de atraso  Litigância de má-fé afastada  Atraso de pouco mais de três meses na entrega das chaves  Dano moral não configurado  Descumprimento do contrato que, só em caráter excepcional, gera dano moral  Sucumbência recíproca caracterizada  Recurso parcialmente provido" (e-STJ fl. 494).
+Nas razões do especial, o recorrente alega divergência jurisprudencial acerca do cabimento de indenização por dano moral em razão do atraso na entrega do imóvel e incidência do INCC no período moroso.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. (..).
+2. A matéria constitucional invocada não é de ser examinada nesta via, porquanto a sua apreciação não compete ao Superior Tribunal de Justiça, pelo teor do artigo 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional.
+3. Incabível a interposição de recurso especial por violação de enunciado sumular, por se tratar de verbete que não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+4. Não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+5. Agravo interno desprovido" (AgInt no AREsp 576.350/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/4/2017, DJe 3/5/2017).
+"PENAL. PROCESSUAL PENAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. APLICAÇÃO DA SÚMULA 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO NÃO PROVIDO.
+1 - O recurso especial da agravante encontra-se deficientemente instruído, porquanto não fez referência a qualquer violação de dispositivo infraconstitucional. Aplicação analógica do enunciado sumular n. 284 do STF.
+2 - O conhecimento de recurso fundado na alínea "c" do art. 105, III, da Constituição Federal, por divergência jurisprudencial, requer que o recorrente realize o devido cotejo analítico, demonstrando, de forma clara e objetiva, a suposta incompatibilidade de entendimento e a similitude fática entre as demandas, conforme disposto no art. 541, parágrafo único, do CPC e no art. 255, §§ 1º e 2º, o que não ocorreu neste caso.
+3 - Agravo Regimental não provido" (AgRg no AREsp 360.275/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/4/2014, DJe 2/5/2014).
+Ante o exposto, nego provimento ao recurso especial.
+Considerada a sucumbência recíproca fixada na origem (fl. 494 e-STJ), deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015.
+Publique-se. Intimem-se.
