@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO. CAPEF. COMPETENCIA DE VARA CIVEL. NÃO DISCUSSÃO SOBRE ALIMENTOS. PRELIMINAR REJEITADA. PENSÃO POR MORTE. ALIMENTOS. RATEIO ENTRE A ATUAL ESPOSA E A EX-ESPOSA. PERCENTUAL DETERMINADO EM ALIMENTOS. POSSIBILIDADE. RECURSO CONHECIDO. IMPROVIMENTO. DECISÃO MANTIDA.
+1. A ação ordinária movida teve como escopo a condenação de entidade de previdência privada a pagar complementação previdenciária, como pedido o principal, sendo possível, portanto, o trâmite do o processo e julgamento deste perante a 1a Vara Cível, apta a verificar por meio das provas produzidas no pedido e sua causa de pedir.
+2. O que se discute no caso em exame é se o direito existente tem natureza jurídica de "pensão por morte" ou de "alimentos". Claro está que existem duas relações jurídicas, uma da CAPEF para com a titular o da pensão por morte e a segunda entre a CAPEF e a apelada [NOME], esta titular do direito aos alimentos.
+3. Em qualquer das situações expostas, nenhuma delas trara prejuízo financeiro a CAPEF, posto que fará somente, e somente só, o rateio do valor do beneficio da pensão por morte.
+4. Em sendo assim deve a CAPEF efetuar o desconto da complementação da pensão por morte, no percentual de 28%(vinte e oito por cento), em favor da Sra. [NOME], conforme determinação judicial que concedeu áos alimentos, posto ser esta fonte pagadora do beneficio complementar da pensão por morte, 5. Conheço das Apelações. Nego-lhes provimento, para manter os termos da sentença, com as modificações efetivadas pelos embargos declaratórios, por seus próprios fundamentos.
+Os embargos de declaração tiveram seu provimento negado (e-STJ, fls. 378-385).
+Nas razões de recurso especial, a recorrente alega violação ao art. 535 do Código de Processo Civil/1973, eis que não teria se pronunciado sobre a ausência da obrigação de indenizar e sobre o termo inicial dos juros de mora.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Verifico que, de fato, procede a alegação de violação do art. 535 do CPC/73 relativamente à existência de omissão no acórdão recorrido quanto ao dever de indenizar, eis que ausentes seus requisitos ensejadores, bem como quanto à discussão sobre o termo inicial dos juros moratórios.
+Observo que a recorrente buscou esclarecimentos no acórdão recorrido quanto às referidas questões, por meio dos embargos de declaração opostos às fls. 347-359 (e-STJ), sem haver, entretanto, enfrentamento específico sobre as controvérsias, o que configura a ofensa ao art. 535 do CPC/73.
+Em face do exposto, dou provimento ao recurso especial para anular o acórdão dos embargos de declaração, e determinar que outro seja proferido, sanando-se a omissão nos termos acima, ficando prejudicadas as demais questões tratadas no recurso especial.
+Intimem-se.
