@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA contra a decisão de fls. 563-569, e-STJ, que deu provimento ao seu recurso especial, para reconhecer a ilegitimidade da ora embargante para responder pelo cumprimento de sentença proferida em feito do qual não participou.
+A ora embargante afirma que a decisão embargada padece de omissão, porquanto, apesar do provimento do RESP, não estabeleceu o ônus da sucumbência em desfavor do embargado.
+Alega que "caso a COHAB-CT não tivesse atuado na causa, poderia estar fadada a uma injusta condenação, respondendo por uma dívida que jamais foi sua. Infere-se, inclusive, que já havia recaído uma constrição judicial sobre o bem imóvel objeto do litígio, causando prejuízos de ordem material e econômica à ora Embargante" (fl. 572, e-STJ).
+Sem impugnação.
+Relatados, passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada, o que não se verifica na espécie.
+Em verdade, verifica-se que a embargante pretende o rejulgamento da causa, o que desnatura a oposição de embargos de declaração, que, conforme cediço, é recurso de fundamentação vinculada.
+Na espécie não há que se falar em ônus de sucumbência em razão do disposto no art. 85, §§ 1º e 2º, do Código de Processo Civil/2015, porquanto, mostra-se incabível, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve sucumbência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA ACÓRDÃO DE TURMA JULGADORA. RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO INESCUSÁVEL. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS NÃO PREENCHIDOS.
+AGRAVO INTERNO NÃO CONHECIDO COM APLICAÇÃO DE MULTA.  ..  4. Quanto ao pedido formulado pelo agravado, na impugnação ao agravo interno, a respeito da necessidade de condenação do agravante em "honorários sucumbenciais", o mesmo não procede. Ocorre que o recurso especial combate acórdão estadual proferido em sede de agravo de instrumento, ou seja, visa desconstituir decisão interlocutória do juízo de piso, de modo que ainda não houve in casu condenação, muito menos sucumbência. 5. Os honorários recursais (art. 85, § 11, do CPC/15) incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao CPC/15, que inaugure o grau recursal, revelando-se indevida a fixação em agravo interno e embargos de declaração. 6. Agravo interno não conhecido, com aplicação de multa. (AgInt nos EDcl no AgInt no AREsp 1.253.274/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 13/8/2019).
+Esclareça-se que os embargos de declaração não se prestam à aplicação de entendimento que, segundo a ótica da parte embargante, deveria guiar ou conduzir a solução do litígio. Nesse sentido: EDcl no AgInt na Rcl 17.207/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, SEGUNDA SEÇÃO, DJe 27/11/2017).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
