@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por CAFÉ BOM DIA LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Cumprido o despacho de fl. 184, prossigo na análise dos autos.
+Preliminarmente, indefiro o pedido de suspensão, pois "nos termos do art. 52, III, da Lei nº 11.101/05, a suspensão em análise ocorre no juízo onde as ações e execuções estão sendo processadas, ou seja, no juízo que tramitam as ações e execuções nas quais os atos expropriatórios podem vir a ser praticados. Nessa ordem de idéias, é importante salientar que a lei nada menciona sobre suspensão das ações e execuções em sede de recurso especial, pois o recurso visa apenas permitir a revisão ou reexame da decisão recorrida, não sendo, em geral, a sede de prática de atos expropriatórios" (AgInt no AREsp 790.736/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/11/2016, DJe 23/11/2016).
+Quanto ao mais, a parte Recorrente foi intimada do acórdão recorrido em 19/10/2017, sendo o recurso especial interposto somente em 13/11/2017.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
