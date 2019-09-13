@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por VISOLI INDÚSTRIA E COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO LTDA contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR VÍCIO DE CONSTRUÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+INSURGÊNCIA DO RÉU. PRELIMINAR DE CERCEAMENTO DE DEFESA QUE SE CONFUNDE COM O MÉRITO DA QUAESTIO. LAUDO PERICIAL ELABORADO NO CURSO DO PROCESSO QUE ATESTOU OS DANOS À CONSTRUÇÃO MAS NÃO OS QUANTIFICOU. DECISUM QUE ADOTOU VALORES CONTIDOS NO LAUDO TÉCNICO APRESENTADO UNILATERALMENTE PELA PARTE AUTORA. NECESSIDADE DE APURAÇÃO DOS VALORES PARA A REPARAÇÃO DOS VÍCIOS. QUANTUM A SER APURADO POR PERÍCIA, EM REGULAR LIQUIDAÇÃO DE SENTENÇA.
+REQUERIMENTO PARA A COMPROVAÇÃO PELO PROFISSIONAL DAS DESPESAS RELATIVAS À CONFECÇÃO DO LAUDO TÉCNICO POR MEIO DE SUA DECLARAÇÃO DE IMPOSTO DE RENDA. TEMÁTICA QUE NÃO FOI ABORDADA NO JUÍZO DE ORIGEM, TAMPOUCO NA PEÇA CONTESTATÓRIA. FLAGRANTE INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE APRECIAÇÃO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECLAMO NÃO CONHECIDO NA ESPÉCIE.
+PRETENSO AFASTAMENTO DOS HONORÁRIOS CONTRATUAIS DA CONDENAÇÃO. DECISUM QUE JÁ INCLUIU NA CONDENAÇÃO REFERIDA VERBA DE MODO A EVITAR O BIS IN IDEM. INVIABILIDADE DE DISCUSSÃO DO REFERIDO TEMA. NÃO CONHECIMENTO NO PONTO.
+HONORÁRIOS ADVOCATÍCIOS FIXADOS DE FORMA ADEQUADA. MINORAÇÃO INCABÍVEL. SENTENÇA REFORMADA EM PARTE.
+RECURSO PARCIALMENTE CONHECIDO E, NESTA, PARCIALMENTE PROVIDO.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
