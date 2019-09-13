@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO ILEGAL DA PARTE RECORRIDA. NEXO CAUSAL COMPROVADO. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO EM RECURSO ESPECIAL DO ENTE ESTADUAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se da decisão que inadmitiu o Recurso Especial interposto pelo ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, III, alínea a da CF, no qual se insurge contra acórdão proferido pelo egrégio TJ/RJ, assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. PRISÃO DECRETADA EM FACE DO AUTOR. PERMANÊNCIA NO CÁRCERE PELO PERÍODO DE CINCO MESES E ONZE DIAS. RECONHECIMENTO DURANTE A INSTRUÇÃO PROBATÓRIA DO PROCESSO CRIMINAL DE QUE SE TRATAVA DE HOMONÍMIA. SENTENÇA DE PROCEDÊNCIA DO PEDIDO.
+- Situação dos autos que revela a hipótese de responsabilidade civil objetiva, prevista no artigo 37, § 6o. da Constituição da República.
+- O acervo probatório demonstrou que a prisão do Apelado foi ilegal, por não ser ele o autor dos crimes que lhe eram imputados, tendo permanecido por longo período privado de sua liberdade, indevidamente. Com efeito, a prisão do Recorrido poderia ter sido evitada, uma vez que, como atesta o ofício encaminhado pela autoridade policial, a pessoa conhecida como Jiló, continuava praticando sua atividade delituosa. Destaque-se que o Laudo elaborado no processo criminal confirmou que a pessoa que figurou nas Interceptações telefônicas não era o Apelado.
+- Falha da Administração Pública, decorrente da atuação desidiosa de seus agentes, que não procederam à correta identificação da pessoa contra à qual foi expedida a ordem de prisão, dando ensejo à indevida permanência do Apelado no cárcere, pelo período de cinco meses e onze dias.
+- Dano material corretamente definido.
+- Dano moral, na espécie, que decorre do próprio fato, por ser inegável a afronta aos direitos da personalidade do Apelado, procurando-se atenuar, indiretamente, as angústias decorrentes da lesão por ele sofrida. No entanto, tenho que o valor arbitrado a esse título se mostra excessivo, devendo ser reduzido.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO (fls. 202/208).
+2. Opostos Embargos de Declaração, estes foram rejeitados (fls. 224/228).
+3. Nas razões do seu Apelo Nobre inadmitido, a parte agravante sustenta violação dos arts. 186, 927, 944 do CC/2002, alegando, em suma, que a prisão cautelar decretada possuía todos os pressupostos legais, não havendo se falar em prisão abusiva.
+4. Sem contrarrazões (fls. 308/3018), o Apelo Nobre foi inadmitido na origem (fls. 347/351).
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. No mais, a modificação das conclusões do acórdão recorrido exigiria o reexame do conjunto fático-probatório, inviável nesta instância. Isso porque foi à luz dos fatos e provas - inclusive pericial - da causa que o Tribunal de origem constatou que a prisão foi ilegal, uma vez que a parte ora agravada não era autora dos crimes que lhe eram imputados (fls. 206).
+8. Ora, entendimento diverso, para sindicar os critérios que levaram a Corte de origem a acolher as conclusões da perícia, conforme pretendido, implicaria o reexame do contexto fático-probatório do autos, circunstância que redundaria na formação de novo juízo dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Ente Estadual.
+10. Publique-se. Intimações necessárias.
