@@ -1,0 +1,31 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Locação de imóvel. Ação de despejo por denúncia vazia e infração contratual cumulada com pedido de cobrança.
+Pedido de gratuidade de justiça formulado na contestação não apreciado. Reiteração do pleito no apelo. Ausência de indícios de insinceridade do pedido. Insuficiência de recursos evidenciada pelos documentos juntados. Benefício concedido.
+Benfeitorias. Pedido de retenção do imóvel locado até que as benfeitorias nele introduzidas sejam indenizadas. Rejeição. Existência de cláusula contratual que afasta o direito a retenção ou indenização por quaisquer benfeitorias.
+Alegação de que a renúncia ao direito de indenização das benfeitorias não abarcaria aquelas realizadas anteriormente à celebração do contrato escrito de locação. Inovação recursal. Não conhecimento.
+Recurso parcialmente conhecido e não provido na parte conhecida. Arbitramento de honorários sucumbenciais recursais.
+A parte alega violação do art. 35 da Lei n. 8.245/91, no que concerne à indenização pelas benfeitorias efetuadas e à inexistência de inovação recursal, trazendo o(s) seguinte(s) argumento(s):
+Neste ínterim, os requeridos devem ser indenizados por todas as benfeitorias efetuadas nos imóveis, bem como as construções (acessões), as quais foram de total conhecimento e autorização dos requerentes. A própria legislação prevê e agasalham os requeridos no direito a ser indenizados pelas benfeitorias e acessões efetuadas, o que será exposto posteriormente (fl. 247).
+(..)
+Ora, trata-se de muita pretensão dos requerentes em ficar com o imóvel valorizado sem arcar com as indenizações cabíveis!! Clarividente através das fotografias ora anexadas que os requeridos foi quem valorizaram e construiram tudo o que existe no imóvel objeto de locação. Formou um patrimônio de valor extremamente alto (fl. 248).
+(..)
+Não se trata de inovação recursal.
+A contestação ofertada foi bastante clara e específica de que as benfeitorias foram realizadas ao longo dos 25 anos de aluguel (fl. 250).
+(..)
+Ora, as benfeitorias foram realizadas ao longo de 25 anos, certo que no período dos contratos escritos não mais foram realizadas benfeitorias.
+Portanto, perfeitamente possível a retenção do imóvel pelas benfeitorias, uma vez que no período da realização de tais benfeitorias o contrato era verbal, o que denota que não haviam renúncia expressa, por óbvio (fl. 250).
+É o relatório. Decido.
+Inicialmente, destaque-se o seguinte trecho do acórdão recorrido:
+Com efeito, como bem consignou a i. Magistrada sentenciante, o contrato em que se fundam os pedidos formulados na inicial (fls. 17/21) contém cláusula contratual (VII, item 2) que prevê expressamente a ausência de direito a retenção ou indenização pelas benfeitorias introduzidas no imóvel locado, o que configura renúncia do inquilino, manifestada de modo hígido, como o autoriza a Lei nº 8.245/91 em seu art. 35.
+De outra banda, ainda que o reconhecimento da firma aposta pelo locador em referido pacto tenha ocorrido somente em março de 2014, anota-se que o instrumento contratual é datado de 25.09.2009 e estabelece como datas inicial e final da locação, respectivamente, 01.10.2009 e 30.09.2014, não se entrevendo nenhum motivo juridicamente relevante que justifique a desconsideração dessas datas ou mesmo de qualquer outra disposição contratual, sendo oportuno destacar que as partes contratantes são maiores e civilmente capazes e manifestaram livremente suas vontades, de modo que o vínculo contratual é válido em todos os seus termos (fl. 210).
+Nesse contexto, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 4/2/2019.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
