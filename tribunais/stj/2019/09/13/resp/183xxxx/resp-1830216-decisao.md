@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DE PERNAMBUCO (UFPE), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+O processo tem origem na execução da sentença que reconheceu a servidores da UFPE o direito ao reajuste de 3,17%.
+Estes autos se iniciaram no agravo de instrumento interposto pela UFPE contra decisão que deferiu requerimento de habilitação de sucessores dos exequentes.
+O Tribunal a quo negou provimento ao recurso, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. FASE DE EXECUÇÃO. HABILITAÇÃO DE HERDEIROS. TESE DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. EXPEDIÇÃO DO PRECATÓRIO/RPV. IMPROVIMENTO.
+I. Trata-se de agravo de instrumento interposto contra decisão que, em sede de execução de título judicial, deferiu a habilitação dos herdeiros do ex-servidor [NOME], afastando a alegação de existência de prescrição.
+II. Em suas razões recursais, a parte agravante afirma que o servidor faleceu em 2010. No entanto, o processo não foi suspenso e a habilitação dos herdeiros do ex-servidor substituído somente foi requerida em 2018, ou seja, mais de 5 (cinco) anos após o falecimento do ex-servidor, do que se deduz que ocorreu a prescrição da pretensão executória, conforme súmula 150 do STF c/c o art. 1º, do decreto 20.910/32.
+III. Percebe-se, desde logo, que não foi trazido nenhum elemento de prova novo capaz de modificar o entendimento já firmado em sede de decisão monocrática.
+IV. Já restou assentado por este Tribunal, em caso semelhante: "Contudo, este Regional também entende, seguindo posição do STJ, que havendo a expedição do RPV/precatório, deve ser afastada a tese da prescrição. Isso porque "não há que se falar de prescrição intercorrente da pretensão executória, haja vista que esta fase processual já se exauriu com a requisição dos valores exequendos, por meio da expedição dos precatórios/RPVs". (Terceira Turma, AG/SE nº. 08052065820154050000, Rel. Des. Federal [NOME], unânime, Julgamento: 27/11/2015)". (Segunda Turma. AGTR 0802716-29.2016.4.05.0000. Des. Fed. Cov. [NOME]. Julg 18.10.2016).
+V. Na hipótese, já houve a expedição de RPV/precatório, devendo, portanto, ser afastada a tese de prescrição suscitada pela parte agravante.
+VI. Agravo de instrumento improvido (fl. 133).
+A UFPE opôs embargos de declaração, que foram rejeitados pelo acórdão de fls. 172-176.
+A recorrente alega a violação dos arts. 265, I, 267, II, do CPC/73 (arts. 313, I e 485, II, do CPC/2015), 196 ao 201 e 682, II, do Código Civil e 1º do Decreto n. 20.910/32 e 2º do DL n. 4.597/42. Sustenta, em síntese, que o ex-servidor [NOME], faleceu em 2010, mas a habilitação dos herdeiros só foi promovida em 2018, mais de 5 anos após o óbito.
+Argumenta que a prescrição iniciada contra uma pessoa continua a correr contra seu sucessor, salvo se sobrevier alguma causa impeditiva ou suspensiva da prescrição.
+Invoca precedentes desta Corte e do Tribunal Regional Federal da 4ª Região no sentido de que a fluência do prazo prescricional para a execução, que é de cinco anos, se inicia a partir do trânsito em julgado.
+Sustenta que, no caso, não sobreveio qualquer causa suspensiva ou impeditiva do curso prescricional.
+Aduz que as causas impeditivas ou suspensivas do prazo prescricional constituem matéria de reserva legal, taxativamente previstas, entre as quais não se encontra o falecimento do exequente, fato este cuja conseqüência é apenas de natureza processual, determinando a suspensão do feito.
+Conclui afirmando que, no presente caso, os sucessores deixaram transcorrer mais de cinco anos, desde o falecimento das partes exequentes, devendo, por isso, ser decretada a prescrição da pretensão executória.
+Sem contrarrazões ao recurso especial.
+É o relatório. Decido.
+O cerne da fundamentação do acórdão recorrido é que, com a expedição da RPV, exauriu-se a fase de execução e, assim, não há mais que se falar em prescrição da pretensão executiva.
+Os precedentes, do STJ e do TRF4, invocados pela recorrente, não tratam da questão sob a mesma perspectiva em que a analisou o Tribunal quo, assim, não se prestam à pretendida demonstração de divergência.
+Por fim, verifica-se que as razões recursais, focadas na alegação de inexistência de causas modificativas ou impeditivas da fluência do prazo prescricional relativo à pretensão executiva, descuraram de se contrapor à ratio decidendi do acórdão recorrido, que é, como já explicitado, a impropriedade de se invocar prescrição da pretensão executiva quando já concluída essa fase, com a expedição do RPV ou do precatório.
+Nesse contexto, ao deixar de impugnar tal fundamento, a recorrente dá ensejo à aplicação da Súmula 283 do STF, segundo a qual é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ainda que assim não fosse, a Segunda Turma tem jurisprudência no sentido de que a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Veja-se:
+PREVIDENCIÁRIO. SERVIDOR PÚBLICO. PENSÃO. EXECUÇÃO. SUBSTITUIÇÃO DA PARTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ.
+I - Na origem trata-se de agravo de instrumento contra decisão que anulou sentença de execução. No julgamento do agravo de instrumento deu-se provimento ao recurso para determinar o prosseguimento da execução.
+II - A Corte de origem concluiu que a prescrição não se consumou, visto que o falecimento da parte impõe a suspensão do processo e abre oportunidade de habilitação dos herdeiros, sem que corra prazo prescricional.
+III - O entendimento firmado pelo Tribunal de origem não merece censura, pois "a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente" (AgRg no REsp 891.588/RJ, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, julgado em 22/9/2009, DJe 19/10/2009). Nesse sentido: REsp 1657663/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/08/2017, DJe 17/08/2017; AgRg no AREsp 282.834/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 1º/4/2014, DJe 22/4/2014; AgRg no REsp 1.485.127/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/2/2015, DJe 12/2/2015; AgRg no AREsp 523.598/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/8/2014, DJe 15/8/2014).
+IV - Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Agravo interno improvido.
+(AgInt no AREsp 929.097/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+Ante o exposto, com esteio no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
