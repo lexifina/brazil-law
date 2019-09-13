@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 705):
+INSIGNIFICÂNCIA. CIGARROS. TRIBUTOS ILUDIDOS. IRRELEVÂNCIA. DANO À SAÚDE PÚBLICA. NÃO OFENSA.
+1. Na internalização de cigarros o bem tutelado é a administração do controle do ingresso (ou saída) de produtos do país, com objetivos específicos que vão da segurança à saúde da população, do meio-ambiente à indústria nacional, dentre tantos outros, de maneira que a representação econômica dos produtos contrabandeados não é o elemento preponderante para a análise da insignificância da conduta.
+2. A importação de 500 (quinhentos) maços de cigarros não é relevante para o direito penal, pois: (a) não representa perigo social; (b) não representa uma conduta de alto grau de reprovabilidade; (c) apresenta grau de periculosidade mínimo, e (d) causaria dano inexpressivo ou nulo à saúde pública, assim como a outros bens jurídicos tutelados pelo tipo penal.
+3. Concedido habeas corpus, de ofício, para absolver o acusado em
+razão da aplicação do princípio da insignificância e negado provimento à apelação criminal.
+Nas razões do recurso especial, alega a parte recorrente violação do artigo 334-A do CP. Sustenta que é inaplicável o princípio da insignificância ao crime de contrabando de cigarros.
+Apresentadas as contrarrazões (e-STJ fls. 745/758), o recurso foi admitido (e-STJ fl. 762/763), manifestando-se o Ministério Público Federal, nesta instância, pelo provimento do recurso especial (e-STJ fls. 780/781).
+É o relatório. Decido.
+O recurso merece acolhida.
+A Corte local, ao decidir a controvérsia, consignou, em que pese se tratar de contrabando de cigarros, a quantidade diminuta -390 (trezentos e noventa) maços - permite a aplicação do princípio da insignificância, pois a quantidade de mercadorias não é suficiente para causar dano relevante ao bem referido, tendo em vista que os cigarros poderiam ser acessados por um número muito restrito de pessoas (e-STJ fls. 702).
+Ora, tal entendimento encontra-se contrário à jurisprudência desta Corte Superior de Justiça, no sentido de que a importação não autorizada de cigarros constitui o crime de contrabando, insuscetível de aplicação do princípio da insignificância.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CONTRABANDO. CIGARRO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. CONDENAÇÃO LASTREADA EM PROVAS EXTRAJUDICIAIS. PROCEDIMENTO ADMINISTRATIVO-FISCAL. POSSIBILIDADE. AUSÊNCIA DE CONTRARRAZÕES ACUSATÓRIAS À APELAÇÃO. MATÉRIA NÃO PREQUESTIONADA. SÚMULA N.º 282/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inaplicável o princípio da insignificância ao crime de contrabando de cigarros, pois se trata de delito que atinge bens jurídicos diversos da simples elisão fiscal, como a saúde pública e a segurança do consumidor. Precedentes.
+ ..
+4. Agravo regimental desprovido. (AgRg no AREsp 1394756/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 03/04/2019)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da pacífica orientação da Terceira Seção desta Corte, a importação não autorizada de cigarros constitui o crime de contrabando, insuscetível de aplicação do princípio da insignificância.
+2. Agravo regimental desprovido. (AgRg no REsp 1706397/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE CONTRABANDO DE CIGARROS. TRANCAMENTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RECURSO DESPROVIDO.
+ ..
+2. Consoante entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, não se aplica o princípio da insignificância ao contrabando de cigarros. Tal entendimento decorre do fato de a conduta não apenas implicar lesão ao erário e à atividade arrecadatória do Estado, como na hipótese de descaminho. De fato, outros bens jurídicos são tutelados pela norma penal, notadamente a saúde pública, a moralidade administrativa e a ordem pública. Precedentes.
+3. Recurso desprovido. (RHC 89.755/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/10/2017, DJe 11/10/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLEITO DE SUSTENTAÇÃO ORAL. ART. 159 DO RISTJ. NÃO CABIMENTO. CONTRABANDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não é cabível pedido de sustentação oral em sede de agravo regimental, a teor do disposto no art. 159 do Regimento Interno do Superior Tribunal de Justiça. II - O entendimento jurisprudencial predominante no Superior Tribunal de Justiça é o sentido de que a importação clandestina de cigarros não implica apenas lesão ao erário e à atividade arrecadatória do Estado, como nas hipóteses de descaminho, mas atinge também a outros bens jurídicos, como a saúde, a ordem pública e a moralidade administrativa, o que desautoriza o reconhecimento da atipicidade material pela incidência do princípio da insignificância.
+Agravo regimental desprovido. (AgRg no REsp 1656382/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/05/2017, DJe 12/06/2017)
+PENAL E PROCESSO PENAL. RECLAMAÇÃO. INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO EM PRECEDENTE JULGADO SOB O RITO DOS REPETITIVOS. AGRAVO INTERPOSTO NOS PRÓPRIOS AUTOS. NÃO CONHECIMENTO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. DECISÃO MANIFESTAMENTE CONTRÁRIA À JURISPRUDÊNCIA DESTA CORTE. CONTRABANDO DE CIGARRO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RECLAMAÇÃO JULGADA PROCEDENTE.
+ ..
+2 - No entanto, é de ser julgada procedente a reclamação, porquanto o acórdão encontra-se em total dissonância com o entendimento firmado por este Superior Tribunal de Justiça, no sentido de que é inaplicável o princípio da insignificância aos crimes de contrabando de cigarros, porquanto, para além da sonegação tributária, tal conduta delitiva vulnera outros bens jurídicos (saúde, higiene e segurança pública) (AgRg no REsp 1588190/RS, Rel. Ministro Sebastião Reis Júnior, DJe 16/06/2016).
+3 - Reclamação julgada procedente para anular o acórdão reclamado e determinar a subida do agravo interposto em face do julgamento do recurso em sentido estrito. (Rcl 10.776/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+Assim, é incabível a aplicação do princípio da insignificância ao caso em exame, consoante jurisprudência consolidada desta Corte.
+Ante o exposto, com fundamento no art. 932, inciso VIII, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, dou provimento ao recurso especial, para afastar a aplicação do princípio da insignificância e determinar o retorno dos autos ao Tribunal Regional Federal da 4ª Região para que prossiga no julgamento da apelação do acusado.
+Intimem-se.
