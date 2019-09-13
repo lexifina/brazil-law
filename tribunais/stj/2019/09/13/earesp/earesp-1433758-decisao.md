@@ -1,0 +1,54 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência interpostos por Usina Maringá Indústria e Comércio Ltda., em demanda na qual contende com Fazenda do Estado de São Paulo, em oposição a aresto proferido pela Primeira Turma assim ementado (e-STJ, fls. 131-132):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTA EGRÉGIA CORTE SUPERIOR. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ART. 1.003, § 6o. DO CÓDIGO FUX.
+RESSALVA DO PONTO DE VISTA DO RELATOR. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Preceitua o art. 1.003, § 6o. do Código Fux que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. Interpretar a norma de forma restritiva acabaria por imprimir retrocesso ao justo entendimento já consolidado nesta Corte, que é o de oportunizar à parte a comprovação do feriado local, de forma a afastar a intempestividade de seu recurso, mesmo depois de aforada a petição recursal.
+2. Entretanto, considerando a função constitucional desta Corte de uniformização da jurisprudência pátria, ressalvo o meu ponto de vista para acompanhar o entendimento firmado por este Tribunal no AREsp. 957.821/MS, julgado pela Corte Especial, de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, nos termos do art. 1.003, § 6o. do Código Fux, não se admitindo a comprovação posterior.
+3. No caso dos autos, a parte agravante foi intimada do acórdão recorrido em 26.4.2018, e o recurso foi apresentado apenas em 21.5.2018, quando já esgotado o prazo recursal. Ressalte-se que, na esteira do decidido por esta Corte, é desinfluente à espécie a comprovação posterior de feriados locais.
+4. Agravo Interno da Empresa a que se nega provimento.
+Alega a embargante que dito entendimento diverge do julgamento proferido pela Corte Especial no AgRg no Agravo em Recurso Especial n. 137.141-SE , Rel. Min. Antônio Carlos Ferreira.
+Argumenta que, diferentemente do teor do acórdão embargado, o decisum paradigma conclui pela possibilidade de comprovação posterior do feriado local, para efeito de aferição da tempestividade do recurso, em agravo regimental.
+É o relatório.
+De início, entendo por deferir o benefício da Justiça gratuita.
+Esclareça-se que a disciplina dada aos embargos de divergência pelo CPC/2015 é a seguinte:
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+II - (Revogado pela Lei nº 13.256, de 2016)
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;
+IV - (Revogado pela Lei nº 13.256, de 2016)
+§ 1º Poderão ser confrontadas teses jurídicas contidas em julgamentos de recursos e de ações de competência originária.
+§ 2º A divergência que autoriza a interposição de embargos de divergência pode verificar-se na aplicação do direito material ou do direito processual.
+§ 3º Cabem embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros.
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+§ 5º (Revogado pela Lei nº 13.256, de 2016)
+Art. 1.044. No recurso de embargos de divergência, será observado o procedimento estabelecido no regimento interno do respectivo tribunal superior.
+§ 1º A interposição de embargos de divergência no Superior Tribunal de Justiça interrompe o prazo para interposição de recurso extraordinário por qualquer das partes.
+§ 2º Se os embargos de divergência forem desprovidos ou não alterarem a conclusão do julgamento anterior, o recurso extraordinário interposto pela outra parte antes da publicação do julgamento dos embargos de divergência será processado e julgado independentemente de ratificação.
+De igual sorte e seguindo estritamente os limites estabelecidos pelo CPC/2015, o cabimento dos embargos de divergência, conforme exigido pelo art. 266, caput, do RISTJ, tem lugar quando divergir acórdão proferido em recurso especial de outro, objeto de julgamento por órgão fracionário diverso, que teria características fáticas e jurídicas similares ao processo em julgamento, porém teria recebido tratamento jurídico diverso.
+Como consequência, se são os embargos de divergência recurso de fundamentação vinculada, somente será possível discutir o que tiver sido objeto de julgamento em disparidade com o paradigma, não em harmonia com aquele. Inexiste possibilidade de reconhecer-se existência de discrímen inverso ou má aplicação de precedente em embargos de divergência.
+Frise-se, porquanto trata-se de obviedade, que a divergência de entendimento deve se dar, para casos similares, quando tiverem como base regra legal igualmente similar. Nesse sentido, se a interpretação, mesmo feita em casos fáticos similares, teve como fundamento norma legal distinta, não se pode falar tenha havido similitude.
+Pois bem.
+O recurso em tela não ultrapassa o juízo de admissibilidade, como explico a seguir.
+O acórdão embargado adotou como fundamento o seguinte:
+22. No entanto, a Corte Especial, no julgamento do AREsp. 957.821/MS, firmou o entendimento de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, não se admitindo a comprovação posterior. Restou consignado, ainda, que o entendimento construído à luz do CPC/1973 não subsiste ao Código Fux.
+23. No caso dos autos, a parte agravante foi intimada do acórdão recorrido em 26.4.2018, e o recurso foi apresentado apenas em 21.5.2018, quando já esgotado o prazo recursal. Ressalte-se que, na esteira do decidido por esta Corte, é desinfluente à espécie a comprovação posterior de feriados locais.
+24. Assim, considerando a função constitucional desta Corte de uniformização da jurisprudência pátria, ressalvo o meu ponto de vista para acompanhar o entendimento firmado por este Tribunal no AREsp. 957.821/MS, de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, nos termos do art. 1.003, § 6º. do Código Fux, não se admitindo a comprovação posterior. (grifou-se)
+Ademais, o decisum paradigma, em sua fundamentação, remete-se a precedente firmado pela eg. Corte Especial deste STJ, tendo por parâmetro o CPC/1973, quando inexistia regra expressa acerca da possibilidade de comprovação posterior - em agravo regimental - de feriado local, para fins de aferição da tempestividade recursal.
+Com efeito, o entendimento antes firmado pelo STJ - no sentido de que descabia a comprovação posterior - foi alterado por ocasião do julgamento do AgRg no AREsp 137.141/SE, Rel. Min. Antônio Carlos Ferreira, Corte Especial, seguindo posicionamento do STF, no AgRg no RE 626.358/MG, Tribunal Pleno, Rel. Min. Cezar Peluso.
+Ocorre que ambos os julgados proferidos por este STJ e pelo c. STF tiveram como substrato jurídico o CPC/1973 e sua omissão no tratamento da matéria, pelo que o Poder Judiciário, colmatando dita lacuna, entendeu que poderia haver a comprovação do feriado local posteriormente, no momento da interposição de agravo da decisão que tenha negado seguimento ou não conhecido da insurgência, pelo fundamento da intempestividade.
+Há, pois, uma diferença essencial no caso em exame, porque no acórdão embargado o fundamento jurídico invoca regra expressa na matéria trazido no CPC/2015, qual seja, o § 6º do art. 1.003, como visto acima.
+Assim, trata-se de julgados distintos, inexistindo qualquer semelhança a título de similitude jurídica, desde quando o aresto embargado e o acórdão paradigma partiram de dispositivos legais diferentes. Não é outro o entendimento da Corte Especial deste STJ sobre esse aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO INDENIZATÓRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. FALHA NA PRESTAÇÃO DO SERVIÇO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. ACÓRDÃO EMBARGADO QUE NÃO ULTRAPASSA A FASE DA ADMISSIBILIDADE. PRECEDENTES DO STF E STJ.
+ ..
+4. In casu, ocorreu falha na fundamentação consubstanciada na ausência de similitude fática entre os julgados confrontados. Com efeito, a configuração do dissídio interno que viabiliza a interposição de embargos de divergência pressupõe que os acórdãos confrontados apresentem, além de similitude fática, discussão das teses jurídicas distintas sob o mesmo enfoque legal, e sejam assentados sob o exame do mérito do recurso, porque não servem tais embargos para discussão sobre a aplicação de regra técnica de admissibilidade recursal. Precedentes do STJ.
+5. Agravo interno não provido.
+(AgInt nos EAREsp 341.992/SP, Rel. Min. MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 21/6/2017, DJe 29/6/2017 - grifos acrescidos)
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. PARADIGMAS ORIGINÁRIOS DE TURMAS DA MESMA SEÇÃO E DE SEÇÃO DIVERSA. COMPETÊNCIA. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE PRECLUSÃO PRO JUDICATO. CABIMENTO DE DANOS MORAIS COLETIVOS EM AÇÃO CIVIL PÚBLICA. INEXISTÊNCIA DE DISSENSO INTERPRETATIVO. FALTA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE ARESTOS CONFRONTADOS. EXEGESE DE DISPOSITIVOS INFRACONSTITUCIONAIS DIVERSOS.
+ ..
+4. Inexiste similitude fático-jurídica se os arestos confrontados examinam acontecimentos totalmente distintos (dano ambiental e dano a consumidores) e adotam como fundamentos de decidir dispositivos legais diversos.
+5. Embargos de divergência não conhecidos, com o encaminhamento dos autos à Primeira Seção para exame da divergência suscitada entre julgados de suas Turmas.
+(EREsp 1.367.923/RJ, Rel. Min. JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017 - grifos acrescidos)
+Na situação em exame, no aresto paradigma, a questão não fora debatida à luz da novel redação contida no § 6º do art. 1.003 do CPC/2015. Assim, somente poderia servir de aresto paradigma se o julgado, com conclusão jurídica divergente, houvesse sido prolatado com o enfrentamento da matéria sob o enfoque do aludido dispositivo legal, o que não ocorreu neste feito.
+Ante o exposto, não conheço dos embargos de divergência, conforme o art. 932, inc. III, do CPC/2015, indeferindo-lhes liminarmente, com base no art. 266-C do RISTJ.
+Publique-se. Intimem-se.
