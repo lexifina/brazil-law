@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO COM BASE NA GRAVIDADE ABSTRATA DOS CRIMES E NA LONGEVIDADE DA PENA. MOTIVAÇÃO INIDÔNEA. MANIFESTA ILEGALIDADE. EXISTÊNCIA.
+Ordem parcialmente concedida.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça de Minas Gerais.
+Narram os autos que o Juízo da Vara de Execuções Criminais da comarca de Ribeirão das Neves indeferiu o pedido de progressão de regime do paciente, por considerar indispensável a prévia realização de exame criminológico para aferição do requisito subjetivo (Processo n. 0288862-24.2014.8.13.0231).
+Inconformada, a defesa interpôs o Agravo em Execução n. 1.0231.14.028886-2/001, tendo o Tribunal a quo negado-lhe provimento.
+Daí o presente writ, em que se alega, em resumo, que a gravidade do delito ou a longa pena a cumprir, por si sós, não são fundamentos suficientes para imposição da realização de exame criminológico.
+Requer-se, então, seja reformada a decisão primeva, emitindo-se contraordem de elaboração de exame criminológico e concedendo-se a progressão ao regime aberto (fl. 9).
+O pedido de liminar foi indeferido pela Presidência desta Corte (fls. 64/65).
+Prestadas as informações (fls. 68/76), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República Mario [NOME], manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 83/86).
+É o relatório.
+A ordem comporta concessão.
+O benefício da progressão de regime somente será concedido ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo, consoante o disposto no art. 112 da Lei de Execução Penal.
+Segundo a orientação jurisprudencial desta Corte Superior, embora a nova redação do art. 112 da Lei n. 7.210/1984 não mais exija, de plano, a realização de exame criminológico, cabe ao magistrado verificar o atendimento dos requisitos subjetivos à luz do caso concreto, podendo determinar a realização da perícia, se entender necessário, ou mesmo negar o benefício, desde que o faça fundamentadamente, quando as peculiaridades da causa assim o recomendarem, em observância ao princípio da individualização da pena.
+A propósito, essa orientação foi consolidada no enunciado n. 439 da Súmula desta Corte, que possui o seguinte teor: Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+No caso dos autos, o Juízo das Execuções indeferiu ao paciente a progressão ao regime semiaberto, asseverando a necessidade da realização do exame criminológico, consoante se depreende do seguinte excerto (fl. 11):
+a- Considerando que o reeducando foi condenado a mais 38 anos de pena privativa de liberdade, pela prática dos crimes de homicídio qualificado, de roubo seguido de morte e de ocultação de cadáver; considerando que resta ao reeducando cumprimento de mais de 26 anos de PPL; considerando que o(s) crime(s) praticado(s) pelo reeducando exige(m) cautela quando da concessão de benefícios, em face da extrema periculosidade; considerando a necessidade de uma avaliação mais cuidadosa de sua personalidade antes de permitir seu retomo à sociedade, e, considerando, ainda, ser indispensável aferir o senso de responsabilidade do reeducando e o requisito subjetivo para usufruir dos benefícios de progressão de regime/prisão domiciliar, reputo necessária a realização de exame criminológico, nos termos Enunciado 26 da Súmula Vinculante do STF e do Enunciado 439 da Súmula do STJ.
+Como se vê, o Juízo da Vara de Execuções Criminais, ao exigir a realização do exame criminológico para a concessão do benefício, não declinou elementos concretos e idôneos a fundamentar a necessidade do referido exame, tendo se referido apenas à gravidade abstrata dos delitos praticados e à longa pena a cumprir.
+Segundo o entendimento desta Corte, ausência de idônea fundamentação para denegar a progressão de regime quando ausente motivo concreto para negativação do requisito subjetivo, já que a quantidade da pena e os fatores relacionados ao crime praticado não justificam diferenciado tratamento para a progressão de regime, mormente na hipótese em que as faltas disciplinares são antigas e o reeducando é portador de atestado de bom comportamento e exame criminológico favoráveis (AgRg no HC n. 457.405/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/2/2019 - grifo nosso). E, ainda: HC n. 472.614/SP, Ministra Laurita Vaz, Sexta Turma, DJe 6/12/2018.
+Evidenciado que o Juízo de primeiro grau não logrou justificar a imposição do exame, conclui-se que não existe elemento concreto que justifique a submissão do apenado à perícia em questão.
+Em face do exposto, concedo parcialmente a ordem para determinar que o Juízo de Direito da Vara de Execuções Criminais da comarca de Ribeirão das Neves reavalie o pedido de progressão de regime do paciente, independente da realização do exame criminológico.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
