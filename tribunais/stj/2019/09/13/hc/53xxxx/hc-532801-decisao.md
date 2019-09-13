@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDRE LUIZ DE [NOME] contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que indeferiu a liminar no HC n. 1.0000.19.109766-6/000 .
+Nesta via, o impetrante alega a ocorrência de constrangimento ilegal capaz de superar o óbice do enunciado da Súmula 691/STF, diante da ausência de fundamentação da decisão que indeferiu a medida liminar.
+Aduz o excesso de prazo na conversão da prisão em flagrante em preventiva, visto que o acusado permaneceu segregado por mais de quatro dias, em manifesta violação ao art. 306, § 1º, do CPP.
+Sustenta inexistir motivação válida a justificar a segregação cautelar imposta ao paciente, reputando não atendidos os requisitos autorizadores da medida extrema, insculpidos no art. 312 do CPP.
+Assevera ser cabível a aplicação de medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+Requer a concessão sumária e definitiva da ordem constitucional para que seja revogada a prisão cautelar do paciente, expedindo-se o competente alvará de soltura em seu favor.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fl. 44):
+Não obstante serem relevantes os argumentos trazidos pela defesa do paciente ANDRÉ [NOME], entendo que não consta dos autos nenhum dos elementos que ensejam a concessão da liminar, quais sejam, periculum in mora e fumus boni juris, motivo pelo qual imprescindível que venham aos autos informações por parte da autoridade apontada como coatora.
+Por fim, merece destaque que o pedido liminar se confunde com o mérito da própria impetração, matéria afeta à competência da Turma Julgadora.
+Ante o exposto, INDEFIRO A LIMINAR.
+Requisitar as informações da autoridade apontada como coatora bem como a C.A.C. do paciente e, em seguida, colher a manifestação da douta Procuradoria-Geral de Justiça.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a segregação cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
