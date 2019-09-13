@@ -1,0 +1,45 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “PRELIMINAR – Pedido de reconhecimento da revelia – Alegação de que a contestação não rebate os termos da petição inicial – Não ocorrência - Impugnação que abarcou todos os pontos controvertidos da demanda – Preliminar rejeitada.
+    INDENIZAÇÃO – Responsabilidade civil Fazenda Pública – Danos morais e materiais Suicídio de detento em estabelecimento prisional – Culpa exclusiva da vítima – Ausência de nexo causal – Conjunto probatório que indica a imprevisibilidade da conduta da vítima – Sentença de improcedência – Recurso não provido” (pág. 2 do documento eletrônico 9)
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa aos arts. 5°, XLIX; e 37, § 6°, da mesma Carta, sob o argumento de que
+    “[...] a referida decisão traz insegurança jurídica, já que esta Suprema Corte, na ocasião do julgamento do recurso extraordinário nº 841.526 com repercussão judicial reconhecida, considerou que há responsabilidade do Estado objetiva em caso de morte de preso dentro do estabelecimento prisional.
+    […]
+    Para esta Corte, tanto no homicídio quanto no suicídio há a responsabilidade civil do Estado decorrente da inobservância de seu dever de assegurar o respeito e vigilância à integridade física e moral do preso” (pág. 14 do documento eletrônico 12).
+    Antes da remessa dos autos a esta Corte, a Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, com base no julgamento do RE 841.526-RG/RS (Tema 592 da Repercussão Geral) pelo Supremo Tribunal Federal, devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.030, II, do Código de Processo Civil. Todavia, o referido órgão manteve o seu entendimento.
+    Assim, como o órgão julgador recusou-se a se retratar, o recurso extraordinário foi admitido e remetido a este Tribunal, consoante o art. 1.030, V, c, do Código de Processo Civil.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal, ao julgar o RE 841.526-RG/RS (Tema 592 da Repercussão Geral), de relatoria do Ministro Luiz Fux, firmou a tese de que, “em caso de inobservância do seu dever específico de proteção previsto no art. 5°, inciso XLIX, da Constituição Federal, o Estado é responsável pela morte de detento”. O acórdão do referido precedente foi assim ementado:
+     “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. RESPONSABILIDADE CIVIL DO ESTADO POR MORTE DE DETENTO. ARTIGOS 5º, XLIX, E 37, § 6º, DA CONSTITUIÇÃO FEDERAL.
+    1. A responsabilidade civil estatal, segundo a Constituição Federal de 1988, em seu artigo 37, § 6º, subsume-se à teoria do risco administrativo, tanto para as condutas estatais comissivas quanto paras as omissivas, posto rejeitada a teoria do risco integral.
+    2. A omissão do Estado reclama nexo de causalidade em relação ao dano sofrido pela vítima nos casos em que o Poder Público ostenta o dever legal e a efetiva possibilidade de agir para impedir o resultado danoso.
+    3. É dever do Estado e direito subjetivo do preso que a execução da pena se dê de forma humanizada, garantindo-se os direitos fundamentais do detento, e o de ter preservada a sua incolumidade física e moral (artigo 5º, inciso XLIX, da Constituição Federal).
+    4. O dever constitucional de proteção ao detento somente se considera violado quando possível a atuação estatal no sentido de garantir os seus direitos fundamentais, pressuposto inafastável para a configuração da responsabilidade civil objetiva estatal, na forma do artigo 37, § 6º, da Constituição Federal.
+    5. Ad impossibilia nemo tenetur, por isso que nos casos em que não é possível ao Estado agir para evitar a morte do detento (que ocorreria mesmo que o preso estivesse em liberdade), rompe-se o nexo de causalidade, afastando-se a responsabilidade do Poder Público, sob pena de adotar-se contra legem e a opinio doctorum a teoria do risco integral, ao arrepio do texto constitucional.
+    6. A morte do detento pode ocorrer por várias causas, como, v. g., homicídio, suicídio, acidente ou morte natural, sendo que nem sempre será possível ao Estado evitá-la, por mais que adote as precauções exigíveis.
+    7. A responsabilidade civil estatal resta conjurada nas hipóteses em que o Poder Público comprova causa impeditiva da sua atuação protetiva do detento, rompendo o nexo de causalidade da sua omissão com o resultado danoso.
+    8. Repercussão geral constitucional que assenta a tese de que: em caso de inobservância do seu dever específico de proteção previsto no artigo 5º, inciso XLIX, da Constituição Federal, o Estado é responsável pela morte do detento.
+    9. In casu, o tribunal a quo assentou que inocorreu a comprovação do suicídio do detento, nem outra causa capaz de romper o nexo de causalidade da sua omissão com o óbito ocorrido, restando escorreita a decisão impositiva de responsabilidade civil estatal.
+    10. Recurso extraordinário DESPROVIDO” (grifei).
+    No caso em exame, o Tribunal de origem, amparado no acervo probatório dos autos, afastou a responsabilidade do Estado de São Paulo pelos danos alegados pelos ora recorrentes, notadamente em razão da ausência de nexo causal entre conduta estatal e a morte de detento. Por oportuno, destaca-se do acórdão recorrido:
+    “Não se nega que a Administração Pública tem o compromisso de velar pela integridade física da pessoa sob sua custódia.
+    E assim tenho entendido, inclusive em hipótese de suicídio em estabelecimento prisional, como no acórdão desta mesma Câmara, de minha relatoria, que julgou a apelação cível nº 0008863-68.2009.8.26.0053.
+    Todavia, há no caso circunstâncias que apontam pela inexistência do dever de indenizar, quer se analise o fato pela ótica de responsabilidade subjetiva, quer pela responsabilidade objetiva.
+    E isso porque não vislumbro o nexo de causalidade entre a conduta estatal e o evento.
+    Ao contrário do que afirmam os autores, o suicídio não poderia ser previsto.
+    Como anotou o MM. Juiz,
+    ‘estudos e estatísticas gerais não levam à conclusão de que o fato era previsível e poderia tão simplesmente ser evitado em relação ao 'de cujus'.
+    Mesmo que houvesse frequência em consultas, mesmo que fosse medicado, constata-se que o ponto a que poderia ter chegado não era certo. O seu gesto era imprevisível. Os transtornos e a depressão ansiosa não são fatos que levam o doente irremediavelmente a cometer suicídio.
+    Mesmo com possível tratamento, mesmo se fosse acompanhado, a fatalidade não pode ser atribuída à ré. Nem mesmo a família, do que se percebe pela inicial, poderia imaginar as consequências constatadas.
+    Na prisão a responsabilidade do Estado em zelar pela saúde e a integridade dos presos existe, e deve ser exigida quanto a qualquer ocorrência cometida por terceiros, qualquer violência ou atentado praticado por outros detentos. Mas quando o preso quer atentar contra a própria vida não há como o Estado permanentemente evitar.
+    Repito que me compadeço da dor dos autores do sofrimento passado pelo próprio encarcerado, mas, isto não significa que haja juridicamente um responsável’
+    Cuidou-se, portanto, de ato inesperado e imprevisível.
+    Por conseguinte, ausente a falha estatal, que poderia ensejar a condenação pleiteada.
+    Como visto, o evento danoso se deu por culpa exclusiva do detento que cometeu o suicídio, pelo que ausente o nexo causal” (págs. 3-5 do documento eletrônico 9).
+    Nesse contexto, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco o RE 677.139-AgR-EDv-AgR/PR, da relatoria do Ministro Gilmar Mendes, julgado pelo Plenário desta Corte:
+    “Agravo regimental nos embargos de divergência do agravo regimental no recurso extraordinário. 2. Direito Administrativo. 3. Responsabilidade civil do Estado por omissão. Teoria do Risco Administrativo. Art. 37, § 6º, da Constituição. Pressupostos necessários à sua configuração. Demonstração da conduta, do dano e do nexo causal entre eles. 4. Omissão específica não demonstrada. Ausência de nexo de causalidade entre a suposta falta do serviço e o dano sofrido. Necessidade do revolvimento do conjunto fático probatório dos autos. Incidência da Súmula 279/STF. 5. Agravo regimental a que se nega provimento”.
+    No mesmo sentido, cito as seguintes decisões, entre outras: ARE 1.191.319/SP, Rel. Min. Alexandre de Moraes; AI 737.575/RR, Rel. Min. Luiz Fux; e RE 545.567/RJ, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 5% (cinco por cento) os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites legais.
+    Publique-se.
+    Brasília, 13 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
