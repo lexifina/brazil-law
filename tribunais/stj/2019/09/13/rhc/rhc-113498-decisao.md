@@ -1,0 +1,6 @@
+DECISÃO
+ANTONIO CARLOS DOS SANTOS alega sofrer coação ilegal diante de acórdão prolatado no HC n. 0623237-11.2019.8.06.0000.
+Verifico a tramitação concomitante do HC n. 510.591/CE contra o mesmo aresto que aqui é impugnado, com idênticas partes, causa de pedir e pedido. O referido habeas corpus foi julgado na sessão de 7/8/2019 da Sexta Turma do STJ e denegada a ordem.
+Caracterizada, pois, a mera reiteração de pedidos, que impede o processamento deste recurso ordinário em duplicidade, em verdadeiro tumulto processual que, por conta da sobrecarga à capacidade jurisdicional deste Superior Tribunal, muitas vezes impedem o jurisdicionado de ter suas ações constitucionais analisadas com maior brevidade.
+À vista do exposto, julgo prejudicado este recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
