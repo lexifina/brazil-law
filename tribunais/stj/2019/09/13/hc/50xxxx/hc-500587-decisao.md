@@ -1,0 +1,16 @@
+DECISÃO
+JESSICA FRANCISCA ALVES DOS SANTOS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2028790-96.2019.8.26.0000.
+Consta dos autos que a paciente foi condenada como incursa no art. 33, caput, da Lei n. 11.343/2006, à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, mais multa. Na decisão, o magistrado permitiu o recurso em liberdade. Desprovido o apelo e transitada em julgado a condenação, expediu-se mandado de prisão.
+No presente writ, sustenta a defesa, em síntese, não ter sido inaugurado o processo de execução ou expedida guia de recolhimento, o que inviabiliza a formulação de requerimentos voltados à concessão de benefícios, em especial a progressão de regime, visto que a ré ficou cautelarmente privada de sua liberdade desde o início da persecução criminal, pois "a paciente foi presa em flagrante 18/08/2017, onde permaneceu até 07/03/18, quando foi colocada em prisão domiciliar" (fl. 4).
+Requer, liminarmente e no mérito, "a imediata expedição de guia de recolhimento" (fl. 10, grifei) ou a suspensão do mandado prisional para que a paciente permaneça em custódia domiciliar, "até que o pedido de progressão a ser feito após o surgimento do processo de execução da pena seja instaurado e o eventual pedido de progressão seja apreciado pelo juízo competente" (fl. 11, destaquei).
+Indeferida a liminar (fls. 103-105) e prestadas as informações (fls. 109-118 e 120-149), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 156-159).
+Decido.
+De plano, observo que o Tribunal a quo não apreciou os pedidos formulados pela defesa porque as questões não foram previamente examinadas pelo Juízo singular. Confira-se (fls. 95-96, destaquei):
+De início, impende consignar que a via estreita de cognição sumária do "writ" não se presta para acelerar andamento de feitos, não cabendo a esta E. Corte determinar ao Juízo "a quo" que processe de imediato pedido formulado no bojo dos Autos de Execução Penal.
+E conforme informações prestadas pela autoridade coatora, a processo de execução foi instaurado e a defesa requereu a progressão da sentenciada, em 11 de fevereiro de 2019, porém, ainda não houve decisão a respeito.
+Como se vê, o Juízo "a quo" tomou todas as providências necessárias e cabíveis ao caso em exame, sendo certo que os autos de Execução do sentenciado foram remetidos à autoridade competente para apreciar o pedido.
+Ora, o pedido de progressão também sequer foi apreciado em primeira instância, e por não ter sido analisado pelo MM. Juízo de 1º Grau, anteriormente, impossível sua análise por este Tribunal, sob pena de supressão de instância. Nada justificando, portanto, a intervenção desta Corte.
+Tal requisição deve ser submetida, primeiramente, ao MM. Juízo das Execuções Criminais, observando-se o princípio constitucional do Juiz Natural. Ainda, o juízo competente para a apreciação de incidentes de execução é o Juízo das Execuções Criminais, conforme determinam os artigos 65 e 66 da Lei nº 7.210/84, e o exame da pretensão nesta instância caracterizaria supressão de um grau de jurisdição, o que se afigura de todo inadmissível.
+Dessa forma, a análise do tema nesta oportunidade configuraria indevida supressão de instância.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
