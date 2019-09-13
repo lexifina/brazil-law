@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. VEÍCULO. IMPENHORABILIDADE. DESNECESSIDADE DE PROVA TESTEMUNHAL. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por NELSON CLECIO STOHR, com fundamento nas alíneas a e c do art. 105, III da CF/1988, contra acórdão proferido pelo TRF da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. VEÍCULO. IMPENHORABILIDADE. IMPOSTO DE RENDA. ADVOGADO. VALORES RECEBIDOS A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS.
+1. A menos que o automóvel seja a própria ferramenta de trabalho, como ocorre no caso dos taxistas, daqueles que se dedicam ao transporte escolar, ou na hipótese de o proprietário ser instrutor de auto-escola, não poderá ser considerado, de per si, como útil ou necessário ao desempenho profissional, devendo o executado, ou o terceiro interessado, fazer prova dessa necessidade ou utilidade.
+2. Os honorários recebidos pelo advogado são rendimentos do trabalho, tributáveis no mês de recebimento, com aplicação da tabela progressiva do mesmo mês. O fato gerador da obrigação tributária de pagar o imposto de renda, para o advogado, nasce quando ele ganha a ação, isso porque os serviços prestados não têm qualquer relação com o período que gerou o benefício ao cliente (fls. 467).
+2. Nas razões do Apelo Nobre (fls. 500/538), a parte recorrente alega violação dos arts. 333, I, 400, caput, 515, § 1o. e 535 do CPC/1973. Aduz que o Tribunal de origem insiste em afastar a necessidade da produção da prova testemunhal, que teria o condão de demonstrar a necessidade do veículo constrito para o exercício da atividade profissional.
+3. O recurso foi admitido na origem (fls. 549).
+4. É o relatório.
+5. Preliminarmente, quanto à violação do art. 535 do CPC/1973, verifica-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+6. No que tange à necessidade ou não da prova testemunhal, a Corte de origem afirmou ser desnecessária, sendo vedado nesta seara analisar os elementos fáticos para adotar providência diversa. A saber, cite-se trecho do acórdão recorrido.
+Preliminarmente, quanto à violação do art. 535 do CPC/1973, verifica-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+(..).
+Preliminarmente, quanto à violação do art. 535 do CPC/1973, verifica-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução (fls. 462/463).
+7. Desta forma, verifica-se que a rediscussão do julgado passa pela reanálise do conteúdo fático-probatório da questão, havendo o óbice da Súmula 7 do STJ.
+8. Diante do exposto, nega-se provimento ao Recurso Especial do Particular.
+9. Publique-se.
+10. Intimações necessárias.
