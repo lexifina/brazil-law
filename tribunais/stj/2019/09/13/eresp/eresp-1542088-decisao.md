@@ -1,0 +1,25 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. DISCUSSÃO DO TÍTULO EXECUTIVO DEPOIS DE ADERIR AO PROGRAMA DE PARCELAMENTO. POSSIBILIDADE. RECURSO ESPECIAL DA EMPRESA PROVIDO COM A DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM PARA APRECIAR A AÇÃO ANULATÓRIA FISCAL.
+1. Trata-se de Recurso Especial interposto pela CEIMA SOCIEDADE ESPIRITOSANTENSE DE INDUSTRIALIZAÇÃO DE MADEIRAS LTDA., com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TJ/ES, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. LICITUDE DO JULGAMENTO ANTECIPADO DA LIDE. PARCELAMENTO DO DÉBITO TRIBUTÁRIO COM A RENÚNCIA DO DIREITO DE DISCUTIR A HIGIDEZ DO GRAVAME NO AMBITO JUDICIAL OU ADMINISTRATIVO. HONORÁRIOS ADVOCATICIOS ARBITRADOS POR EQUIDADE EM FAVOR DO ESTADO APELANTE. SENTENÇA MANTIDA. RECURSOS DE APELAÇÃO CONHECIDOS E IMPROVIDOS.
+1) O julgamento antecipado da lide (artigo 330, inciso I, parte final, do CPC) não configura cerceamento de defesa, quando constatada a existência de provas suficientes para o convencimento do Magistrado.
+2) Havendo parcelamento administrativo da divida, resta configurado ato inequívoco por parte do devedor de reconhecimento da existência do débito.
+3) Diante das opções ao alcance do contribuinte - insistir em processo judicial pelo qual se buscava a discussão de suposta ilegalidade a eivar o auto de infração ou aderir ao programa de parcelamento do débito tributário -, preferiu as benesses da segunda postura e, como todo bônus traz em seu âmago os respectivos ônus, ao fazê-lo, renunciou expressamente ao direito a discutir, administrativa ou judicialmente, a higidez do gravame.
+4) Os honorários advocatícios de sucumbência foram fixados por equidade, na forma do art. 20, §4º, do CPC, e, nessas situações, o Magistrado tem liberdade para arbitrar os honorários em valor fixo ou em percentual sobre o valor da causa.
+5) Recursos de apelação conhecidos e improvidos, com a manutenção da sentença objurgada (fls. 499).
+2. Embargos de Declaração rejeitados às fls. 535/546.
+3. Nas razões de seu Apelo, a parte recorrente alega violação dos arts. 142 do CTN, 535, 145, 332 e 420 do CPC/1973 requerendo o retorno dos autos à origem, afirmando que o parcelamento na esfera administrativa, não obsta o questionamento na via judicial.
+4. Recurso admitido na origem (fls. 622/626).
+5. É o relatório.
+6. Nos termos da jurisprudência do STJ, a confissão de dívida não obsta possíveis questionamentos a respeito da obrigação tributária em si, em seus aspectos jurídicos. Citem-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PARCELAMENTO DO DÉBITO. CONFISSÃO DE DÍVIDA. POSSIBILIDADE, EM TESE, DE DISCUSSÃO JUDICIAL SOBRE ASPECTOS JURÍDICOS. JURISPRUDÊNCIA DO STJ.
+1. Nos moldes da jurisprudência consolidada no âmbito desta Corte Superior de Justiça, a confissão de dívida não obsta possíveis questionamentos a respeito da obrigação tributária em si, em seus aspectos jurídicos, o que é o caso dos próprios autos, pois, apesar de se tratar de uma questão formal inerente à formação do crédito, se correlaciona com sua validade no mundo jurídico. Precedentes: AgInt no REsp 1.629.858/ES, Primeira Turma, Rel. Ministra Regina Helena Costa, DJe 14/8/2018; REsp 1.740.318/AC, Segunda Turma, Rel. Ministro Herman Benjamin, DJe 8/3/2019.
+2. Agravo interno não provido (AgInt no AREsp. 1.408.547/GO, Rel. Min. BENEDITO GONÇALVES, DJe 26.6.2019).
+
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DISCUSSÃO DO TÍTULO EXECUTIVO DEPOIS DE ADERIR AO PROGRAMA DE PARCELAMENTO. POSSIBILIDADE EM CASOS EXCEPCIONAIS. REQUISITOS DE VALIDADE DA CDA. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Conforme afirmado na decisão agravada, o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada. Assim, não há falar em violação do art. 535 do CPC/1973.
+2. No que se refere à alegação de que o parcelamento não impede a discussão judicial entende-se que deve ser mantida a decisão da Corte de origem; isto porque, o parcelamento é confissão de dívida e somente deve ser revisto em hipótese excepcional, o que não é o caso dos autos.
+3. No mais, é entendimento pacífico nesta egrégia Corte Superior de que o enfrentamento de questão relacionada à verificação da liquidez e certeza da Certidão de Dívida Ativa - CDA demanda, necessariamente, o revolvimento do acervo fático-jurídico dos autos, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo Interno da Empresa a que se nega provimento (AgInt no AREsp. 628.171/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 21.2.2019).
+7. Ante o exposto, dá-se provimento ao Recurso Especial da Empresa, com a determinação de retorno dos autos à origem para apreciar a ação anulatória fiscal.
+8. Publique-se. Intimações necessárias.
