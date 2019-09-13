@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pela Universidade Federal do Espírito Santo - UFES, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) ser vedado, em sede de recurso especial, o reexame do conjunto fático-probatório constante dos autos, nos termos da Súmula 7/STJ; e (II) estar o julgado em consonância com a orientação firmada pelo Superior Tribunal de Justiça na Súmula 378/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, não ser caso de incidência das Súmulas 7 e 83/STJ, a parte agravante não declinou os motivos pelos quais, no seu entender, os óbices apontados pela Corte de origem não seriam aplicáveis ao caso concreto.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
