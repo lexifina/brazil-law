@@ -1,0 +1,68 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUAISQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. CONTRIBUIÇÃO DESTINADA AO SALÁRIO-EDUCAÇÃO. FNDE. EMPREGADOR RURAL INSCRITO NO CADASTRO NACIONAL DE PESSOA JURÍDICA - CNPJ. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado.
+2. Ressalte-se, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração, apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+3. No caso em apreço não se verifica a ocorrência de contradição. O acórdão foi claro. A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação, e tendo a Corte regional afirmado que a parte embargante possui inscrição no CNPJ, a alteração dessa premissa implica reapreciação do conjunto fático-probatório dos autos, providência vedada nesta seara recursal
+4. Não se constatando a presença de quaisquer dos vícios elencados na lei processual, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+5. Embargos de Declaração do Particular rejeitados.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos por [NOME] contra acórdão, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. CONTRIBUIÇÃO DESTINADA AO SALÁRIO-EDUCAÇÃO. FNDE. LEGITIMIDADE PASSIVA. EMPREGADOR RURAL INSCRITO NO CNPJ. ADEMAIS, A ALTERAÇÃO DO JULGADO IMPLICA REVOLVIMENTO DE PROVAS. INVIABILIDADE. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Tendo a Corte de origem afirmado que o autor possui inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ, se enquadrando na definição de empresa para fins de incidência da Contribuição para o Salário-Educação, a alteração do entendimento adotado pelo Tribunal a quo, com o objetivo de acolher a pretensão recursal, torna-se inviável na via do Especial, isto porque a demanda foi decidida com base no suporte fático-probatório constante dos autos.
+2. Agravo Interno interposto pelo Particular a que se nega provimento (fls. 401).
+2. A parte embargante alega a existência de contradição no julgado, eis que ao contrário do que afirmou esta Egrégia Turma e como antecipado retro, o TRF da 3ª Região estabilizou com base no conjunto fático-probatório dos autos que o Impetrante não se enquadra na definição de empresa para fins de incidência do Salário-Educação, salientando que a mera inscrição no CNPJ não induz à caracterização do contribuinte como empresa, mormente quando ele está cadastrado na Receita Federal como contribuinte individual (fls. 412/413).
+3. Impugnação apresentada (fls. 415/416).
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUAISQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. CONTRIBUIÇÃO DESTINADA AO SALÁRIO-EDUCAÇÃO. FNDE. EMPREGADOR RURAL INSCRITO NO CADASTRO NACIONAL DE PESSOA JURÍDICA - CNPJ. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado.
+2. Ressalte-se, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração, apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+3. No caso em apreço não se verifica a ocorrência de contradição. O acórdão foi claro. A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação, e tendo a Corte regional afirmado que a parte embargante possui inscrição no CNPJ, a alteração dessa premissa implica reapreciação do conjunto fático-probatório dos autos, providência vedada nesta seara recursal
+4. Não se constatando a presença de quaisquer dos vícios elencados na lei processual, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+5. Embargos de Declaração do Particular rejeitados.
+
+EDcl no AgInt nos EDcl no RECURSO ESPECIAL Nº 1.746.036 - SP (2018/0136096-1)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+EMBARGANTE
+:
+[NOME]
+ADVOGADO
+:
+[NOME] E [NOME] - [OAB]
+EMBARGADO
+:
+[NOME]
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUAISQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. CONTRIBUIÇÃO DESTINADA AO SALÁRIO-EDUCAÇÃO. FNDE. EMPREGADOR RURAL INSCRITO NO CADASTRO NACIONAL DE PESSOA JURÍDICA - CNPJ. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado.
+2. Ressalte-se, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração, apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+3. No caso em apreço não se verifica a ocorrência de contradição. O acórdão foi claro. A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação, e tendo a Corte regional afirmado que a parte embargante possui inscrição no CNPJ, a alteração dessa premissa implica reapreciação do conjunto fático-probatório dos autos, providência vedada nesta seara recursal
+4. Não se constatando a presença de quaisquer dos vícios elencados na lei processual, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+5. Embargos de Declaração do Particular rejeitados.
+1. De início, cumpre esclarecer que a legislação processual é peremptória ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a existência de obscuridade, contradição ou omissão no julgado.
+2. Destarte, infere-se que, a par da pacífica orientação acerca da natureza recursal dos Declaratórios, estes não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos de obscuridade, contradição ou omissão. Não têm, pois, de regra, caráter substitutivo ou modificativo, ou seja, o condão de alterar, livre e substancialmente, o decisório, em seu dispositivo, mas sim aclarar ou integrar, razão por que seu processamento não é norteado pelos princípios do contraditório e da igualdade.
+3. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+4. Ressalte-se, por oportuno, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração, apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela. A respeito, confira-se:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIA. PORTARIA. EFEITOS RETROATIVOS. PAGAMENTO. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÕES. INEXISTÊNCIA. EFEITOS INFRINGENTES. INVIABILIDADE. MATÉRIA CONSTITUCIONAL. ANÁLISE. DESNECESSIDADE.
+1. A obtenção de efeitos infringentes, como pretende a embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja conseqüência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+2. No caso, inexiste qualquer vício a ser sanado. Da simples leitura do acórdão ora embargado, depreende-se, inequivocamente, que todas as questões apontadas como não enfrentadas foram, clara e explicitamente, abordadas.
+3. A solução da controvérsia posta à apreciação desta Superior Tribunal carece da análise dos dispositivos constitucionais apontados pela Embargante, na medida em que se funda exclusivamente na interpretação da legislação infraconstitucional, mormente na Lei 1.533/51 - Lei do Mandado de Segurança e na Lei 10.559/02 - Lei das Anistias.
+4. Embargos de Declaração rejeitados (EDcl no MS 11.621/DF, Rel. Min. LAURITA VAZ, DJU 23.10.2006).
+5. Vale ainda esclarecer que apenas excepcionalmente os Aclaratórios podem ser utilizados para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional, hipótese diversa da apresentada nestes autos.
+6. No presente recurso, busca a parte embargante a reapreciação do mérito da causa, não sendo esse, como visto, o escopo dos Aclaratórios.
+7. No caso em apreço não se verifica a ocorrência de contradição. O acórdão foi claro. A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação, e tendo a Corte regional afirmado que a parte embargante possui inscrição no CNPJ, a alteração dessa premissa implica reapreciação do conjunto fático-probatório dos autos, providência vedada nesta seara recursal. Trago, a título ilustrativo, o seguinte precedente:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. LEGITIMIDADE DO FNDE. PRODUTOR RURAL. PESSOA FÍSICA COM REGISTRO NO CNPJ. EQUIPARAÇÃO À EMPRESA.
+I - O feito decorre de ação ajuizada para obter a restituição da contribuição do salário-educação cobrado de produtor rural, pessoa física, com inscrição no Cadastro Nacional de Pessoa Jurídica - CNPJ, como contribuinte individual.
+II - A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação. Precedentes: AgInt no AREsp 821.906/SP, Rel. Ministro Gurgel de Faria, DJe 4/2/2019; AgInt no REsp 1.719.395/SP, Rel. Ministro Herman Benjamin, DJe 27/11/2018.
+III - O Superior Tribunal de Justiça vinha entendendo que o Fundo Nacional para o Desenvolvimento da Educação (FNDE) deve integrar a lide que tem como objeto a contribuição ao salário-educação, conforme decidido nos REsp 1.658.038/RS, Rel. Min. Herman Benjamin, DJe 30/6/2017 e AgInt no REsp n. 1.629.301/SC, Rel. Min. Mauro Campbell Marques, DJe 13/3/2017. Entretanto, em recente julgamento, no EREsp 1.619.954/SC, a Primeira Seção do Superior Tribunal de Justiça declarou a ilegitimidade passiva do SEBRAE, da APEX e da ABDI, nas ações nas quais se questionam as contribuições sociais a eles destinadas. Tal entendimento foi fundamentado na constatação de que a legitimidade passiva em tais demandas está vinculada à capacidade tributária ativa. Assim, sendo as entidades referidas meras destinatárias da referida contribuição, são ilegítimas para figurar no polo passivo ao lado da União. O mesmo raciocínio se aplica na hipótese dos autos, apontando a ilegitimidade passiva do FNDE, porquanto a arrecadação da denominada contribuição salário-educação tem sua destinação para a autarquia, com os valores, entretanto, sendo recolhidos pela União, por meio da Secretaria da Receita Federal.
+IV - Recurso especial da Fazenda Nacional provido. Recurso Especial do FNDE provido para declarar sua ilegitimidade passiva (REsp. 1.743.901/SP, Rel. Min. FRANCISCO FALCÃO, DJe 3.6.2019).
+8. Logo, não há qualquer vício no aresto que possibilite o acolhimento da tese da parte embargante.
+9. Ante o exposto, rejeitam-se os Embargos de Declaração opostos pelo Particular.
+10. É como voto.
