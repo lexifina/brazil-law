@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. TEMPESTIVIDADE DO AGRAVO. SEGURADORA. AÇÃO DE INDENIZAÇÃO SECURITÁRIA CUMULADA COM OBRIGAÇÃO DE FAZER E DEVOLUÇÃO DOS VALORES PAGOS. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SEGURO HABITACIONAL. MORTE DO MUTUÁRIO. ESPÓLIO QUE BUSCA A QUITAÇÃO DO FINANCIAMENTO. PRAZO PRESCRICIONAL. DEZ ANOS. ART. 205 DO CC/02. JURISPRUDÊNCIA DESTA CORTE. RETORNO DOS AUTOS AO TRF DA 3ª REGIÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+[NOME] - ESPÓLIO, representado por [NOME], e [NOME] DOS SANTOS FARIA - ESPÓLIO, representado por KATIA CRISTINA DOS SANTOS PEREIRA - INVENTARIANTE (ESPÓLIOS DE [NOME]) ajuizaram ação de indenização securitária cumulada com obrigação de fazer e devolução dos valores pagos contra CAIXA ECONÔMICA FEDERAL (CEF) e CAIXA SEGURADORA S.A. (SEGURADORA). Pleitearam a quitação do contrato de financiamento imobiliário, a devolução, em dobro, das prestações pagas após o óbito dos mutuários segurados e indenização por danos morais.
+O Juízo de primeiro grau julgou procedente o pedido para condenar a SEGURADORA a dar cumprimento ao disposto na apólice de seguro habitacional, pagando à estipulante o seguro no valor do saldo devedor na data do óbito de LUIZ; condenou a CEF a fornecer a quitação do financiamento na forma contratada, após a adoção das providências de cobertura securitária pela SEGURADORA, e a devolver os valores pagos a título de prestação do financiamento após o sinistro (e-STJ, fls. 299/310).
+As partes apelaram.
+O Desembargador Federal deu provimento ao recurso de apelação interposto pela SEGURADORA, reconhecendo a prescrição ânua, e negou provimento aos apelos da CEF e dos ESPÓLIOS DE [NOME]. Decisão que foi mantida em agravo regimental pelo Tribunal Regional Federal da 3ª Região, nos termos da seguinte ementa:
+PROCESSO CIVIL. AGRAVO INTERNO (Art. 1.021, § 1º e 3º DO CPC DE 2015). PRESSUPOSTOS. OBRIGATORIEDADE DE IMPUGNAÇÃO E FUNDAMENTAÇÃO ESPECIFICAS (Art.489 DO CPC DE 2015). IRRESIGNAÇÃO GENÉRICA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ao dever do juiz de fundamentar adequadamente (de forma específica) a decisão que profere na forma do art. 1.021, §3º c/c art. 489, corresponde ao ônus da parte agravante em aduzir a sua impugnação também de forma especifica (art. 1.021, §1º do CPC de 2015), indicando concretamente o fundamento da decisão agravada contra o qual se dirige, inadmitindo-se, pois, reavivar razões genéricas vinculadas exclusivamente a fundamentos já afastados por aquela decisão.
+2. Agravo interno desprovido (e-STJ, fl. 498).
+Insatisfeitos, ESPÓLIOS DE [NOME] manejaram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação do art. 205 do CC/02, argumentando ser decenal o prazo prescricional da pretensão autoral de beneficiária do seguro.
+As contrarrazões foram apresentadas (e-STJ, fls. 548/555).
+O apelo nobre não foi admitido na origem em virtude da incidência das Súmulas nºs 282 e 356 do STF (e-STJ, fls. 559/562).
+Dessa decisão, foi interposto agravo em recurso especial, que não foi conhecido, em monocrática da Presidência do STJ, com amparo nos arts. 21-E, V, do RISTJ, por intempestividade do referido recuso.
+Neste agravo interno, ESPÓLIOS DE [NOME] alegaram equívoco da decisão agravada, porquanto foi devidamente explicitado em preliminar a tempestividade do agravo em recurso especial, uma que o prazo para a sua interposição havia sido prorrogado em virtude do jogo da seleção brasileira, nos termos da nota da Assessoria de Comunicação Social do TRF3ª, anexada junto com peça processual.
+Houve impugnação ao recurso (e-STJ, fls. 615/621).
+É o relatório.
+DECIDO.
+De fato, o agravo em recurso especial interposto aos 28/6/2018 é tempestivo, porque foi demonstrada sua tempestividade, quando de sua interposição (e-STJ, fls. 569/570).
+Dessa forma, reconsidero a decisão agravada e passo a análise do agravo interposto pelos ESPÓLIOS DE [NOME], que merece conhecimento para analisar as razões do apelo nobre.
+O recurso merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A Terceira Turma, em julgamento ocorrido aos 28/8/2018, firmou entendimento de que o prazo prescricional da pretensão dos beneficiários de receberem indenização referente a seguro habitacional, bem como a quitação do financiamento imobiliário, é o previsto no art. 205 do CC/02, ou seja, dez anos.
+Confira-se, por oportuno, a ementa do referido precedente:
+DIREITO PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 515 DO CPC/73. NÃO OCORRÊNCIA. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. MORTE DO MUTUÁRIO. HERDEIROS QUE BUSCAM A QUITAÇÃO DO FINANCIAMENTO E O RECEBIMENTO DA INDENIZAÇÃO SECURITÁRIA. SEGURO HABITACIONAL. PRAZO PRESCRIÇÃO APLICÁVEL. ART. 205 DO CC/02.
+1. Ação de cobrança cumulada com obrigação de fazer por meio da qual os herdeiros dos mutuários já falecidos pretendem a condenação da Caixa Seguradora S/A ao pagamento de indenização securitária, bem como à conseqüente quitação do financiamento imobiliário realizado por seus pais.
+2. Ação ajuizada em 11/02/2003. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+3. O propósito recursal é definir se está prescrita a ação interposta pelos recorrentes que, na condição de herdeiros dos mutuários já falecidos, pretendem o recebimento de indenização referente a seguro habitacional, bem como a quitação do financiamento realizado.
+4. Tendo em vista que os recorrentes, herdeiros do mutuário falecido, não podem ser considerados como segurados, inviável mostra-se a aplicação da prescrição ânua prevista no art. 206, § l5, II, do CC/02.
+5. Ainda que sejam considerados beneficiários, inviável mostra-se, também, a aplicação do art. 206, § 3Q, IX, do CC/02, pois o seguro habitacional não pode ser considerado seguro de responsabilidade civil.
+6. Sob essa ótica, aplica-se o prazo prescricional decenal previsto no art. 205 do CC/02. Como o óbito do mutuário ocorreu em 24/08/1999, e a ciência da negativa da cobertura securitária ocorreu em 03/02/2000, não há como se ter por prescrita a presente ação que, em verdade, foi ajuizada em 11/02/2003.
+7. Recurso especial conhecido e provido (REsp nº 1.694.257/SP, Relatora da Ministra Nancy Andrighi, Terceira Turma, acórdão pendente de publicação).
+Dessarte, na hipótese dos autos, a pretensão autoral não está prescrita, porquanto entre a negativa de cobertura (5/4/2006) e o ajuizamento da lide (27/8/2008) não transcorreu o lapso de dez anos anos.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial a fim de, ao aplicar o prazo prescricional decenal, determinar o retorno dos autos ao TRF da 3ª Região para que prossiga no exame das pretensões deduzidas nas apelações interpostas pelas partes, como entender de direito.
+Publique-se. Intime-se.
