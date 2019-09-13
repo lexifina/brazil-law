@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo nº 0036417-69.2018.8.26.0050).
+Consta dos autos que o paciente foi condenado "por infração ao art. 33, caput, da Lei de Tóxicos, ao cumprimento da pena de 6 anos e 3 meses de reclusão, em regime inicial fechado e 625 dias-multa, de valor unitário mínimo", porque ele e um corréu "guardavam e tinham em depósito, para fins de entrega a consumo de terceiros, 298 tijolos de maconha (310,45kg), substância entorpecente capaz de causar dependência física ou psíquica, sem autorização legal ou regulamentar" (e-STJ fl. 159).
+Irresignada, a defesa interpôs recurso de apelação, desprovido nos termos da ementa ora transcrita (e-STJ fl. 158):
+Tráfico de entorpecentes Prisão em flagrante Confissão judicial Depoimento dos policiais seguros, coerentes e sem desmentidos Ausência de motivos para duvidar dessas palavras Responsabilidade comprovada Condenação mantida Apreensão de grande quantidade de maconha Redutor do art. 33, §4º, da Lei de Tóxicos Não cabimento Regime prisional correto Substituição por penas alternativas Providência não recomendada no caso concreto Recurso improvido.
+Pretende-se no presente writ, em suma, seja reconhecida a possibilidade de aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 e, consequentemente, seja diminuída a pena de 6 anos e 3 meses de reclusão, bem como se proceda à substituição do regime inicial fixado, no caso o fechado.
+Liminar indeferida à e-STJ fl. 170.
+Informações prestadas às e-STJ fls. 177/193.
+Parecer ministerial pela denegação da ordem, às e-STJ fls. 195/199.
+É, em síntese, o relatório.
+Busca-se na presente impetração a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem, ao não reconhecer a minorante, deixou assente que (e-STJ fl. 162):
+Anote-se que não era mesmo possível a aplicação do redutor do art. 33, § 4º, da Lei de Drogas, pois a prova deixou evidente que o acusado estava diretamente envolvido com o comércio ilícito de drogas.
+Na verdade, o benefício legal visa atingir aqueles traficantes esporádicos, situação em que não se enquadra o réu que estaria envolvido no transporte de grande quantidade de maconha (mais de trezentos quilos), atitude que indica, portanto, que fazia do tráfico seu meio de vida e tem envolvimento com outros elementos responsáveis pela manutenção da atividade criminosa.
+Nesse palmilhar, no que concerne à aplicação do redutor a decisão do Tribunal de origem está em pleno alinho com a jurisprudência desta Corte Superior, no sentido de que se o paciente se dedica às atividades criminosas, a benesse deve ser negada. A propósito:
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO. INDÍCIOS DE QUE A PACIENTE SE DEDICA A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO IDÔNEA. CONCLUSÃO EM SENTIDO INVERSO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. REGIME INICIAL FECHADO. POSSIBILIDADE. QUANTIDADE E VARIEDADE DE DROGA (90,01 G DE COCAÍNA E 23 G DE MACONHA). PACIENTE QUE TENTAVA ENTRAR COM A DROGA NO PRESÍDIO. FUNDAMENTAÇÃO CONCRETA. PARECER ACOLHIDO.
+ ..  2. A mens legis da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 é justamente punir, com menor rigor, o pequeno traficante, que não faz do tráfico de drogas o seu meio de vida, mas que, cometendo um fato isolado na sua vida, acaba por incidir na conduta típica prevista no art. 33 da mencionada lei federal. Assim, não há como considerar a existência de constrangimento ilegal, uma vez que foram apontados elementos concretos para não aplicar o referido redutor. Além do que, decidir de forma contrária implicaria reexame do conjunto fático-probatório, incabível na via estreita do habeas corpus.  ..
+4. Writ não conhecido.
+(HC 340.222/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2016, DJe 16/05/2016)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. NÃO RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. CIRCUNSTÂNCIAS QUE DENOTAM QUE O PACIENTE SE DEDICA A ATIVIDADES CRIMINOSAS. REGIME. PENA SUPERIOR A 4 ANOS E NÃO EXCEDENTE A 8 ANOS. PRIMÁRIO. POSSIBILIDADE DE FIXAÇÃO DO REGIME INTERMEDIÁRIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  - Em relação à redutora, para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+- No caso, o redutor do art. 33, § 4º, da Lei n. 11.343/2006 não foi aplicado em razão da dedicação do paciente a atividade criminosa, que restou evidenciada pelas circunstâncias do delito.  ..
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime semiaberto.
+(HC 375.035/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/12/2016, DJe 15/12/2016)
+Ademais, reconhecida a impossibilidade pelo Tribunal a quo, "não cabe ao Superior Tribunal de Justiça reexaminar as circunstâncias do caso concreto nem o conjunto de provas para chegar a conclusão diversa" (AgRg no HC n. 316.636/RJ, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 5/3/2015, DJe 12/3/2015).
+Afastado o tráfico privilegiado, ficam prejudicados os demais pleitos.
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
