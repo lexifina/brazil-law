@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recurso especial interposto por HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO, no qual se discute, dentre outras matérias, (i) a legitimidade de não associado para a execução da sentença proferida em ação civil pública manejada por associação na condição de substituta processual, bem como (ii) a legitimidade passiva do ora recorrente para responder pelos encargos advindos de expurgos inflacionários relativos a cadernetas de poupança mantidas perante o extinto Banco Bamerindus S/A, em decorrência de sucessão empresarial havida entre as instituições financeiras.
+Essas questões de direito foram afetadas para julgamento sob o rito dos recursos repetitivos (Temas 948 e 1.015, respectivamente), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041, ambos do CPC/2015.
+Forte nessas razões, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
