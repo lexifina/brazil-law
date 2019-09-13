@@ -1,0 +1,6 @@
+DECISÃO
+MARCELO BEZERRA LOPES, JOSILEY PEDREIRA DE SOUZA, [NOME], ALEXANDRE RONALD LOPES DA SILVA e ISAIAS DE OLIVEIRA RODRIGUES alegam sofrer constrangimento ilegal diante de acórdãos proferidos pelo Tribunal de Justiça do Estado de Rondônia nos HCs n. 0001260-36.2017.8.22.0000, 0001107-03.2017.8.22.0000, 0001230-98.2017.8.22.0000, 0001465-65.2017.8.22.0000 e 0001617-16.2017.8.22.0000, que substituíram a prisão preventiva dos acusados por medidas menos gravosas.
+Neste writ, a defesa sustenta a ocorrência de excesso de prazo, ao argumento de que "passados mais de 19 (dezenove) meses, ou seja, um ano e sete meses, da imposição das medidas cautelares, o inquérito policial nem sequer foi relatado, encontrando-se repousando em algum escaninho da delegacia de polícia, sem que tenha havido outra movimentação que não fosse reiterados pedidos de baixa pela autoridade policial" (fl. 7).
+Pela análise dos autos, observo que a questão aqui suscitada é posterior aos acórdãos indicados pela defesa como sendo os atos coatores. Os esclarecimentos prestados pela Corte de origem às fls. 151-160 reforçam a conclusão de que a matéria não foi examinada pelo Tribunal a quo, circunstância que inviabiliza sua apreciação nesta oportunidade, sob pena de se incorrer em supressão de instância.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
