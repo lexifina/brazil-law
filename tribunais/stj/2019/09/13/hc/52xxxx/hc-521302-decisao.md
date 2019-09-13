@@ -1,0 +1,38 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 0000252-94.2019.8.24.0033.
+Depreende-se dos autos que o réu foi condenado a 1 ano de reclusão, em regime semiaberto mais 5 dias-multa, pela prática do crime previsto no art. 155, § 4º, I, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Neste habeas corpus, alega a impetrante que não foi reconhecida a bagatela, cuja análise independe da vida pregressa. Afirma que os bens subtraídos foram restituídos aos ofendidos.
+Sustenta que a reincidência não obsta a substituição da pena privativa de liberdade.
+Pede seja aplicado o princípio da insignificância. Subsidiariamente, pleiteia a substituição da reprimenda aplicada por restritiva de direitos.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pelo não conhecimento da impetração.
+Decido.
+O acórdão atacado asseriu o seguinte:
+Aduz a defesa, em linhas gerais, que a conduta do réu, de tentar furtar 7 (sete) celulares avaliados em R$ 200,00 (duzentos reais) é atípica "diante da ausência de lesão considerável ao bem jurídico" (fl. 131). Sustenta que a reincidência e os maus antecedentes não podem obstar a concessão da benesse, motivo pelo qual a sentença deve ser reformada e o réu absolvido.
+Contudo, antecipo, razão não assiste ao réu.
+É cediço que o valor financeiro da res furtiva não é o único fator a ser avaliado para aplicação de referido princípio.
+In casu, ainda que a tentativa de furtar os celulares não tenha afetado o patrimônio do ofendido - por circunstâncias alheias a vontade do réu, é bom que se diga -, é preciso observar a lei e a ordem, não podendo ser considerada insignificante a conduta do agente que, arromba porta da residência alheia, revira todos os cômodos à procura de itens de seu interesse e foge levando somente os telefones pois foi flagrado, pelo proprietário do imóvel, ainda dentro da casa.
+Aplicar o princípio da insignificância neste caso, seria o mesmo que consentir que um indivíduo entre na casa do outro e pegue pequenas coisas, pois o furto de objetos menores e menos valiosos não caracterizariam crime.
+Não bastasse isso, conforme registrado no boletim de ocorrência o réu "já é contumaz na prática de furtos" (fl. 4), tendo ele próprio relatado durante a audiência de custódia "que para manter seu vício em crack pratica pequenos furtos na cidade" (fl. 35), o que por si só, evidencia que sua conduta merece maior censura, configurando óbice à aplicação do princípio da insignificância. Obsta também a incidência do referido princípio, o fato do furto ter sido qualificado pelo arrombamento, o que demonstra maior relevância na conduta do réu.
+Deste modo, considerando que os fatos apurados neste processo não se tratam de um acontecimento isolado na vida de [NOME], entendo que a ausência de prejuízo à vítima, por si só, não tem o condão de reduzir o grau de reprovabilidade de sua conduta, a ponto de considerá-la irrelevante, não preenchendo portanto, os requisitos para a aplicação da benesse pretendida.
+ ..
+Assim, considerando a habitualidade do recorrente na prática de crimes contra o patrimônio, e que o delito em tela foi cometido mediante arrombamento, conforme comprovado por laudo pericial (fls. 79-88), entendo ser inviável a aplicação do princípio da insignificância.
+ ..
+Pretende ainda o apelante, a substituição da pena privativa de liberdade por restritivas de direitos.
+Entretanto, tal pretensão encontra óbice legal no art. 44, inc. II, do CP, que preceitua que as penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando o réu não for reincidente. Assim, considerando a reincidência do apelante em crime doloso certificada às fls. 30-33, torna-se inviável o acolhimento da pretensão recursal.
+(fls. 200-202, grifei)
+A despeito da subsunção formal de determinada conduta humana a um tipo penal, é possível concluir-se pela sua atipicidade material. Isso porque, além da adequação típica formal, deve haver uma atuação seletiva, subsidiária e fragmentária do Direito Penal e, desse modo, conferir maior relevância à proteção de valores tidos como indispensáveis à ordem social quando efetivamente ofendidos.
+Consoante já assentado pelo STF, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material. Deve-se observar, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (HC n. 84.412/SP, Rel. Ministro Celso de Mello, DJU 19/4/2004).
+Nestes autos, o réu reincidente foi condenado pela prática, em 8/1/2019, de furto qualificado pelo rompimento de obstáculo, consistente na subtração de sete celulares avaliados em R$ 200,00 (fl. 200), equivalente a 20,04% do salário mínimo vigente na época do crime, que teve como vítima pessoa física.
+A conduta perpetrada pelo agente não se revela de escassa ofensividade penal e social, o que afasta a aplicação do princípio da insignificância, pois este Tribunal Superior vem decidindo que "o valor total dos bens  ..  ultrapassa o limite jurisprudencialmente fixado como parâmetro para a aplicação do referido princípio, que é de 10% (dez por cento) do salário mínimo vigente à época do fato" (AgRg no HC n. 364.427/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 1º/2/2017).
+Nesse ponto, importante ressaltar: "A restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância" (AgInt no REsp n. 1.642.455/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/5/2017).
+Ademais, a jurisprudência do STJ assinala que, em regra, "a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável" (EAREsp n. 221.999, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 9/12/2015).
+Sob essas premissas, verifico que, no caso vertente, há componentes significativos que revelam a considerável lesão ao bem jurídico tutelado, a recomendar a atividade punitiva estatal.
+Quanto à substituição da sanção privativa de liberdade por restritiva de direitos, é necessário que estejam preenchidos, cumulativamente, os requisitos objetivos e subjetivos exigidos para a concessão dessa benesse, os quais se encontram previstos no art. 44 do Código Penal, in verbis:
+Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+II - o réu não for reincidente em crime doloso;
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Na espécie, verifico que o Tribunal de origem negou a substituição com base na reincidência do denunciado, o que se alinha com a literalidade do art. 44, II, do Código Penal, a inviabilizar a concessão desse favor legal.
+Diante do exposto, denego a ordem.
+Publique-se e intimem-se.
