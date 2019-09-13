@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DE ALAGOAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+APELAÇÃO CÍVEL. FUNCIONÁRIO PÚBLICO ESTADUAL. ADICIONAL INSALUBRIDADE. COMPATIBILIDADE DE SEU RECEBIMENTO COM A PERCEPÇÃO DE SUBSÍDIO. INCIDÊNCIA DOS REFLEXOS NO DÉCIMO TERCEIRO E FÉRIAS. BASE DE CÁLCULO. SUBSÍDIO MÍNIMO DA CATEGORIA. DECISÃO DO PLENO DESTE TRIBUNAL DE JUSTIÇA EM SEDE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. JUROS E CORREÇÃO MONETÁRIA. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 240 do CPC e do art. 405 do CC, aduzindo ser a citação inicial o termo inicial dos juros de mora, trazendo os seguintes argumentos:
+O Acórdão em comento decidiu pela modificação da sentença relativamente ao termo inicial de incidência dos juros de mora.
+Com efeito, fixou como sendo do efetivo prejuízo da obrigação o termo a quo da contagem de juros, em notável ofensa ao artigo 240 do Código de Processo Civil de 2015 e artigo 405 do Código Civil Brasileiro (fls. 138/139).
+Ao aplicar tal entendimento o douto Tribunal de Alagoas equivocou- se em conceituar a obrigação em comento como líquida, afinal nos termos legais a obrigação de pagar o adicional de insalubridade seria com base de calculo o menor subsídio paga aos servidores estaduais e não da respectiva categoria como entendeu a citada Corte.
+O caráter controvertido da base de calculo do adicional afasta por si só qualquer liquidez da obrigação, malversando os artigos 405 do Código Civil e 240 do Código de Processo Civil, por ser de fato a citação o ato processual que constitui em mora o devedor.
+Ademais, trata-se de valores que ensejam um cálculo para apuração de diferenças vencimentais, de fato, o Estado não estava em mora, apenas pagou de modo contrario ao entendimento firmado posteriormente pelo TJ de Alagoas, devendo tal diferença ser apurada, o que afasta de igual modo o caráter líquido da obrigação (fl. 139).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
