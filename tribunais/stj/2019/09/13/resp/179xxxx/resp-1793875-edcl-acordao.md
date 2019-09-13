@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REPERCUSSÃO GERAL. SOBRESTAMENTO DO RECURSO. DESNECESSIDADE . NÃO HOUVE A DETERMINAÇÃO DE SUSPENSÃO DOS FEITOS.
+1. Pretende a empresa embargante o sobrestamento do feito. Alega que o tema é objeto de repercussão geral admitida pelo Supremo Tribunal Federal e que o seu recurso extraordinário aguarda sobrestado na origem, devendo o Recurso Especial esperar aquele julgamento.
+2. No Recurso Extraordinário admitido com repercussão geral não houve determinação de suspensão de processos sobre o mesmo tema. A Corte Especial, em julgamento ocorrido em 1º/2/2019, decidiu que o STJ pode julgar os processos que veiculem a mesma controvérsia jurídica sobre a qual o STF reconheceu a repercussão geral, e que a suspensão não é decorrência automática do reconhecimento da repercussão geral, devendo haver decisão expressa do relator para que haja sobrestamento. (REsp 1.202.071/SP e REsp 1.292.976/SP, Rel. Min. Herman Benjamin, DJe 3.6.2019).
+3. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão assim ementado (fls. 989-996, e-STJ):
+PROCESSUAL CIVIL, CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA SEBRAE, APEX E ABDI. COMPATIBILIDADE DO ART. 8º, DA LEI 8.029/1990 COM A REDAÇÃO AO ART. 149 DA CF/1988 DADA PELA EC 33/2001. ACÓRDÃO ASSENTADO EM TEMAS CONSTITUCIONAIS.
+1. Cuidaram os autos, na origem, de Ação ordinária ajuizada com o objetivo de ver declarada a inexigibilidade da contribuição destinada ao SEBRAE - APEX - ABDI. A sentença julgou improcedentes os pedidos iniciais, extinguindo o feito com resolução de mérito, e condenando a parte autora ao pagamento das custas processuais e de honorários advocatícios no importe de 10% sobre o valor atribuído à causa. O acórdão negou provimento à Apelação.
+2. A irresignação não merece acolhida. A questão referente à exigibilidade do adicional da contribuição para o SEBRAE - APEX - ABDI foi enfrentada pelo Tribunal de origem à luz de fundamentos eminentemente constitucionais, o que obsta o reexame da matéria em Recurso Especial.
+3. Quanto a redução dos honorários, o STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática, obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ:
+4. Recurso Especial não conhecido.
+A empresa embargante alega que o tema é objeto de repercussão geral admitida pelo Supremo Tribunal Federal e que o seu recurso extraordinário aguarda sobrestado na origem, devendo o Recurso Especial aguardar aquele julgamento.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12 de junho de 2019.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+No julgamento do Recurso Especial, foi ressaltado o fundamento exclusivamente constitucional da matéria ali versada, sendo defeso ao STJ o exame da pretensão deduzida no Recurso Especial, sob pena de usurpação da competência do STF.
+A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, pelo que não se configura omissão, contradição ou obscuridade.
+O Recurso Especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+No Recurso Extraordinário admitido com repercussão geral não houve determinação de suspensão de processos sobre o mesmo tema. A Corte Especial, em julgamento ocorrido em 1º/2/2019, decidiu que o STJ pode julgar os processos que veiculem a mesma controvérsia jurídica sobre a qual o STF reconheceu a repercussão geral, e que a suspensão não é decorrência automática do reconhecimento da repercussão geral, devendo haver decisão expressa do relator para que haja sobrestamento. (REsp 1.202.071/SP e REsp 1.292.976/SP, Rel. Min. Herman Benjamin, DJe 3.6.2019).
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa prevista no artigo 538, parágrafo único, do Código de Processo Civil.
+É como voto.
