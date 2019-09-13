@@ -1,0 +1,83 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PLANO DE SAÚDE COLETIVO. EX-EMPREGADO (APOSENTADO). MANUTENÇÃO DO SEGURO. ILEGITIMIDADE PASSIVA. INEXISTÊNCIA. TEORIA DA ASSERÇÃO. JULGADOS DESTA CORTE. USURPAÇÃO DA COMPETÊNCIA DA ANS. NÃO OCORRÊNCIA. INAFASTABILIDADE DA JURISDIÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por BRADESCO SAÚDE S/A contra decisão assim ementada:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. PLANO DE SAÚDE COLETIVO. EX-EMPREGADO (APOSENTADO). MANUTENÇÃO DO SEGURO. REGRAS CONTRATUAIS APLICÁVEIS. ILEGITIMIDADE PASSIVA DO EX-EMPREGADOR. RELAÇÃO JURÍDICA RESTRITA AO EX-EMPREGADO E À OPERADORA DO PLANO DE SAÚDE. PRECEDENTES DO STJ. RECURSO ESPECIAL DESPROVIDO (e-STJ fl. 340).
+O agravante reitera a alegação de que não é parte legítima para figurar no polo passivo da demanda. Argumenta que a ação deveria ser direcionada contra a ex-empregadora do autor, estipulante do contrato de plano de saúde. Além disso, sustenta a usurpação de competência da ANS.
+Por fim, assevera que, contrariamente ao decidido, houve violação ao art. 1.022 do Código de Processo Civil, pois a Corte de origem não teria enfrentado pontos importantes para o deslinde da controvérsia.
+Impugnação às fls. 361/374 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PLANO DE SAÚDE COLETIVO. EX-EMPREGADO (APOSENTADO). MANUTENÇÃO DO SEGURO. ILEGITIMIDADE PASSIVA. INEXISTÊNCIA. TEORIA DA ASSERÇÃO. JULGADOS DESTA CORTE. USURPAÇÃO DA COMPETÊNCIA DA ANS. NÃO OCORRÊNCIA. INAFASTABILIDADE DA JURISDIÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+
+VOTO
+O SENHOR MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece ser provido.
+No tocante à suposta alegação de que o art. 1.022 do Código de Processo Civil foi violado, a decisão impugnada deixou claro que o acórdão recorrido trouxe em seu bojo os fundamentos utilizados para se chegar à conclusão exteriorizada e apresentou solução à questão jurídica que lhe foi submetida pelas partes.
+Todavia, observa-se que o agravante limitou-se a asseverar, de forma genérica, que houve omissão sobre ponto relevante para a solução do caso, sem evidenciar qual este seria e porque seria indispensável sua análise. Dessarte, os argumentos trazidos, no particular, desservem para impugnar o decisum agravado.
+Quanto à sugerida ilegitimidade passiva, não assiste razão ao recorrente, pois, segundo a teoria da asserção, a controvérsia acerca das condições da ação é resolvida com base tão somente nas alegações das partes, da forma como deduzidas ("in statu assertionis").
+Nesse sentido, confiram-se os seguintes julgados desta Corte Superior:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ABUSO DE DIREITO. DANOS MORAIS. REPRESENTAÇÃO CONTRA MAGISTRADA TRABALHISTA. REQUERIMENTO DE ENQUADRAMENTO DA CONDUTA NO CÓDIGO PENAL. LEGITIMIDADE PASSIVA DA ADVOGADA AUTORA DA REPRESENTAÇÃO. INTERMEDIAÇÃO DA COMISSÃO DE PRERROGATIVAS DA OAB/MG. IRRELEVÂNCIA NO CASO CONCRETO. OCORRÊNCIA DE ABALO MORAL INDENIZÁVEL EM VIRTUDE DA FALSA IMPUTAÇÃO DE CRIME A MAGISTRADO NO EXERCÍCIO DAS FUNÇÕES. JULGADO ESPECÍFICO DESTA CORTE SUPERIOR. VALOR DA INDENIZAÇÃO. REDUÇÃO. EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. DESCABIMENTO DA MULTA DO ART. 538 DO CPC/1973. SÚMULA 98/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Controvérsia acerca da responsabilidade civil de advogada que acusou magistrada trabalhista de alterar o conteúdo das declarações de uma testemunha.
+2. Legitimidade passiva "ad causam" da advogada autora da representação, ainda que intermediada pela Comissão de Prerrogativas da OAB/MG. Aplicação da teoria da asserção.
+3. Inviabilidade de se contrastar a moldura fática delineada pelo Tribunal de origem, segundo a qual a advogada teria requerido expressamente providências disciplinares contra a magistrada, bem como possível enquadramento da conduta "em alguma tipificação penal". Óbice da Súmula 7/STJ.
+4. Ocorrência de abalo moral indenizável em virtude da imputação falsa de fato definido como crime a magistrado no exercício de suas funções jurisdicionais. Julgado específico desta Turma. 5. Redução da indenização para R$ 20.000,00, na linha do julgado referido no item anterior.
+6. Nos termos da Súmula 98/STJ: "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+7. Descabimento da multa processual no caso concreto.
+8. Inocorrência de negativa de prestação jurisdicional, deduzida como pedido recursal subsidiário.
+9. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1.671.329/MG, TERCEIRA TURMA, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 06/12/2018)
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE RESSARCIMENTO. DESPESAS DESPENDIDAS COM TRATAMENTO MÉDICO DE EMPREGADO VÍTIMA DE ATAQUE DE CACHORRO. PRETENSÃO DE RESPONSABILIZAÇÃO DO DONO DO ANIMAL. DESPESAS EFETUADAS POR MEIO DO PLANO DE SAÚDE DISPONIBILIZADO PELO EMPREGADOR. ILEGITIMIDADE ATIVA DO EMPREGADOR (ECT).
+1. A ação é direito subjetivo público à prestação jurisdicional do Estado, mas a obtenção da efetiva solução da lide condiciona-se ao atendimento de certas condições: possibilidade jurídica do pedido, legitimidade para a causa e interesse jurídico na tutela jurisdicional.
+2. As condições da ação são averiguadas de acordo com a teoria da asserção, razão pela qual, para que se reconheça a legitimidade ativa, os argumentos aduzidos na inicial devem possibilitar a inferência, em exame puramente abstrato, de que o autor pode ser o titular da relação jurídica exposta ao juízo.
+3. Assim, considera-se que determinado sujeito tem legitimidade para a causa quando, abstratamente, ao menos, ele tiver o direito de pedir o que pede (legitimidade ativa) e aquele a quem se pede, réu, parecer ser o sujeito que deva fazer ou prestar o que é pedido (legitimidade passiva).
+4. No caso dos autos, a ilegitimidade ativa da ECT é evidente, tendo em vista o fato de a autora não ser titular do crédito que reivindica, porque, tratando-se de despesas médicas custeadas pelo Plano de Saúde, esta é a pessoa jurídica credora dos valores por ela mesma despendidos.
+5. Diante da autonomia jurídica das entidades operadoras de planos de saúde, inclusive as de autogestão, os sujeitos da relação jurídica são a operadora e o terceiro, causador dos danos, que deram ensejo aos gastos que se pretende sejam ressarcidos.
+6. A empregadora, ECT, ocupa a posição de estipulante, a quem cumpre, entre outras funções, a fiscalização do serviço prestado pela operadora do Plano, sendo sua obrigação de cunho preventivo e assistencial, conforme a legislação de regência (art. 458, § 2º, e IV, da CLT) e também a jurisprudência, não se confundindo com a figura do segurador/operador do plano.
+7. Recurso especial não provido.
+(REsp 1.379.885/SC, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 06/06/2018)
+No caso dos autos, tendo a parte autora alegado que possui relação contratual com o ora recorrente e que sofreu aumento abusivo da mensalidade do plano de saúde, é o que basta para se rejeitar a preliminar de ilegitimidade passiva.
+Outrossim, esta Corte Superior firmou o entendimento de que a empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora.
+A propósito:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DA COBERTURA E DOS VALORES DE MENSALIDADE. ESTIPULANTE. ILEGITIMIDADE PASSIVA AD CAUSAM. MANDATÁRIA DO GRUPO DE USUÁRIOS. MULTA PROTELATÓRIA. AFASTAMENTO. SÚMULA Nº 98/STJ.
+1. Discute-se a legitimidade de empresa estipulante para figurar no polo passivo de ação proposta por ex-empregado aposentado para permanecer em plano de saúde coletivo nas mesmas condições de cobertura e de mensalidade de quando estava em vigor o contrato de trabalho.
+2. A legitimidade ad causam depende do vínculo existente entre os sujeitos da ação (relação jurídica substancial) e deles com a causa (objeto litigioso), de modo que no polo passivo devem figurar, em regra, aqueles cujo patrimônio pode ser afetado com a procedência da demanda, ou seja, aqueles que suportarão os efeitos da condenação.
+3. O plano de saúde coletivo é aquele contratado por uma empresa ou por pessoas jurídicas de caráter profissional, classista ou setorial, como conselhos, sindicatos e associações profissionais, geralmente na condição de estipulantes, junto à operadora de planos de saúde para oferecer assistência médica e/ou odontológica às pessoas vinculadas às mencionadas entidades bem como a seus dependentes.
+4. No plano de saúde coletivo, o vínculo jurídico formado entre a operadora e o grupo de usuários caracteriza-se como uma estipulação em favor de terceiro. Por seu turno, a relação havida entre a operadora e o estipulante é similar a um contrato por conta de terceiro. Já para os usuários, o estipulante é um intermediário, um mandatário e não um preposto da operadora de plano de saúde.
+5. O estipulante é apenas a pessoa jurídica que disponibiliza o plano de saúde em proveito do grupo que a ela se vincula, mas não representa a própria operadora. Ao contrário, o estipulante deve defender os interesses dos usuários, pois assume, perante a prestadora de serviços de assistência à saúde, a responsabilidade pelo cumprimento de todas as obrigações contratuais de seus representados.
+6. A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora. Precedentes.
+7. Não evidenciado o caráter protelatório dos embargos de declaração, impõe-se a inaplicabilidade da multa prevista no parágrafo único do art. 538 do Código de Processo Civil. Incidência da Súmula nº 98/STJ.
+8. Recurso especial parcialmente provido, apenas para afastar a multa processual.
+(REsp 1.575.435/SP, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 03/06/2016)
+Seguindo a mesma linha de entendimento, colhem-se os precedentes a seguir reproduzidos:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO SEGURO SAÚDE. LITISCONSÓRCIO. EMPRESA ESTIPULANTE. AUSÊNCIA DE LEGITIMIDADE. DECISÃO AGRAVADA MANTIDA.
+1. "A empresa estipulante não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp. 1.575.435/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24.5.2016, DJe 3.6.2016).
+2. Agravo interno não provido.
+(AgInt no REsp 1.637.568/SP, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 27/06/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. PRETENSÃO DE REDUÇÃO DO VALOR DO PRÊMIO. LEGITIMIDADE PASSIVA DA SEGURADORA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. "A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp n. 1.575.435/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/5/2016, DJe 3/6/2016).
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 964.443/SP, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 03/02/2017)
+Observa-se, assim, que o Tribunal de origem decidiu em harmonia com a jurisprudência adotada pelo STJ, ao considerar o Bradesco Saúde S.A parte legítima para figurar no polo passivo da ação.
+Ademais, não prospera a alegação de usurpação da competência da ANS, pois tal alegação ignora o basilar princípio constitucional da inafastabilidade da jurisdição (art. 5º, inciso XXXV, da CF).
+Sob esse prisma, saliente-se o seguinte julgado em que esta Corte Superior exerceu controle jurisdicional sobre norma da ANS, litteris:
+DIREITO PRIVADO. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. PLANOS DE SAÚDE. MANUTENÇÃO DE EMPREGADO APOSENTADO. MESMAS CONDIÇÕES DE COBERTURA ASSISTENCIAL. ART. 31 DA LEI 9656/98. RESOLUÇÃO NORMATIVA 279/2011 DA ANS. VALORES DIFERENCIADOS PARA EMPREGADOS ATIVOS E INATIVOS. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. MAJORAÇÃO.
+1. Ação ajuizada em 28/02/11. Recurso especial interposto em 09/01/17 e concluso ao gabinete em 14/12/17.
+2. O propósito recursal é definir o alcance da determinação legal "mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral", expressa no art. 31 da Lei 9.656/98, para o aposentado ou o demitido sem justa causa mantido no plano de saúde fornecido por seu ex-empregador.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88. 4. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+5. Da análise da redação dos arts. 30 e 31 da Lei dos Planos de Saúde, infere-se o interesse do legislador em proteger a saúde do ex-empregado, demitido sem justa causa ou aposentado, com sua manutenção como beneficiário do plano privado de assistência à saúde usufruído em decorrência da relação de emprego nas "mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho".
+6. O art. 31 da Lei 9.656/98, regulamentado pela Resolução Normativa 279/2011 da ANS, não alude a possibilidade de um contrato de plano de saúde destinado aos empregados ativos e outro destinado aos empregados inativos. E, quanto ao ponto da insurgência recursal, não faz distinção entre "preço" para empregados ativos e empregados inativos.
+7. O "pagamento integral" da redação do art. 31 da Lei 9.656/98 deve corresponder ao valor da contribuição do ex-empregado, enquanto vigente seu contrato de trabalho, e da parte antes subsidiada por sua ex-empregadora, pelos preços praticados aos funcionários em atividade, acrescido dos reajustes legais. Precedentes.
+8. Esse entendimento se aplica, indistintamente, aos planos de saúde coletivos administrados por entidades de autogestão e aos oferecidos ao mercado de consumo em geral.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+(REsp 1.716.027/SP, TERCEIRA TURMA, Rel. Ministra NANCY ANDRIGHI, DJe 13/12/2018)
+Dessarte, a decisão agravada não comporta reparos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
