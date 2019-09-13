@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ARTIGO 97 DA CONSTITUIÇÃO FEDERAL – DESRESPEITO – INEXISTÊNCIA – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. A Primeira Turma Recursal dos Juizados Especiais do Distrito Federal confirmou o entendimento do Juízo quanto à aplicação do princípio da vedação ao confisco em relação ao valor da taxa aplicada por veículo apreendido e por uso de depósito. No extraordinário, o recorrente aponta a violação dos artigos 97 e 150, inciso IV, da Constituição Federal. Diz inobservado o verbete vinculante nº 10 da Súmula do Supremo. Alega inaplicável o princípio do não confisco.
+    2. De início, quanto à evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça às vezes, tem-se que a Turma Recursal não incorreu em erro de procedimento. O Supremo, no agravo em recurso extraordinário nº 868.457/SC, relator o ministro Teori Zavascki, acórdão publicado no Diário da Justiça de 27 de abril de 2015, concluiu pela inaplicabilidade do princípio da reserva de plenário no âmbito dos juizados especiais. Confiram a ementa:
+    PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO (ART. 97 DA CF/88). ALEGAÇÃO MANIFESTAMENTE IMPROCEDENTE. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EFEITOS FINANCEIROS RETROATIVOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. O princípio da reserva de plenário não se aplica no âmbito dos juizados de pequenas causas (art. 24, X, da Constituição Federal) e dos juizados especiais em geral (art. 98, I, da CF/88), que, pela configuração atribuída pelo legislador, não funcionam, na esfera recursal, sob o regime de plenário ou de órgão especial.
+    2. A manifesta improcedência da alegação de ofensa ao art. 97 da Carta Magna pela Turma Recursal de Juizados Especiais demonstra a ausência da repercussão geral da matéria, ensejando a incidência do art. 543-A do CPC.
+    3. É de natureza infraconstitucional a controvérsia relativa à legitimidade da retroação dos efeitos financeiros da revisão de benefício previdenciário, nas hipóteses em que o segurado preencheu, na data de entrada do requerimento administrativo, os requisitos para a concessão de prestação mais vantajosa.
+    4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    5. Ausência de repercussão geral das questões suscitadas, nos termos do art. 543-A do CPC.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença, expressamente mantida pelo acórdão recorrido, os seguintes trechos:
+    Em análise aos autos, verifico que os argumentos expostos na Inicial devem prosperar, em observação ao Princípio da Vedação ao Confisco, insculpido no art. 150, inciso IV, Constituição Federal de 1988. Assim, a restituição do veículo condicionado ao pagamento de até 180 (cento e oitenta) diárias, pode representar ato que supere, de forma significativa, o valor do próprio bem apreendido.
+    Quanto ao pedido de limitação das diárias, verifico que o débito do autor corresponde ao valor de R$7.380,00, conforme ID 13264390- pág. 13. Cumpre destacar que o veículo do autor é um PEUGEOT/HOGGAR XLINE, ano 2010.
+    Nesse sentido, observa-se que a cobrança do valor da mencionada taxa não é aceitável ou razoável frente ao valor econômico do bem, verificando-se, nesse sentido, caráter confiscatório na ação da autarquia autuadora. Deve-se, portanto, limitar o efeito do confisco de modo que o requerente possua respeitada a sua capacidade contributiva e consiga reaver o próprio bem.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
