@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ICMS – TRANSPORTE TERRESTRE – LEI COMPLEMENTAR Nº 87/96 – CONSTITUCIONALIDADE – PRECEDENTE DO PLENÁRIO – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do pronunciamento recorrido:
+    APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. TRANSPORTE TERRESTRE DE PASSAGEIROS E MERCADORIAS. LEGALIDADE E CONSTITUCIONALIDADE DA INCIDÊNCIA. ARTIGO 155, II, DA CF. LEI COMPLEMENTAR N.° 87/96. LEI ESTADUAL N.° 8.820/89. MATÉRIA PACIFICADA PELO STF NO ÂMBITO DA ADI N.° 2669/DF. OBSERVÂNCIA DA DECISÃO DA CORTE SUPREMA. ARTIGO 927, I, DO CPC. 1. De acordo com o que dispõe o artigo 155, II, da Constituição Federal, compete aos entes federados instituir impostos sobre a prestação de serviços de transporte interestadual e intermunicipal. Em linha com a disposição constitucional, a “Lei Kandir” (Lei Complementar n.° 87/96), e no âmbito estadual a Lei n.° 8.820/89, preveem a incidência de ICMS sobre o transporte terrestre de passageiros e mercadorias. 2. Constitucionalidade de tais previsões e legalidade da cobrança de ICMS sobre o transporte terrestre que já foram definidas pelo Supremo Tribunal Federal no âmbito da ADI n.° 2669/DF. Observância da decisão da Suprema Corte que se dá por força do que dispõe o artigo 927, I, do Código de Processo Civil. Isenção tributária vigente em face do transporte pelo modal terrestre. Embargos à execução desacolhidos, ante a validade das CDAs emitidas pela Fazenda Pública. APELO DESPROVIDO. UNÂNIME.
+    2. A óptica adotada pelo Colegiado de origem não diverge do entendimento do Supremo. O Plenário, ao examinar a ação direta de inconstitucionalidade nº 2.669/DF, de minha relatoria, com acórdão publicado no Diário da Justiça de 6 de agosto de 2014, assentou ser harmônica com a Constituição Federal a incidência do Imposto sobre Circulação de Mercadorias e Serviços – ICMS considerada a prestação de serviço de transporte terrestre.
+    A par disso, o argumento relativo à isonomia com o setor de transporte aéreo, ante o decidido na ação direta de inconstitucionalidade nº 1.600/DF, foi expressamente rechaçado pelo Tribunal na análise dos declaratórios na ação direta nº 2.669/DF.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
