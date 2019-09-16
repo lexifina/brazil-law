@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Fernando Tonissi, em favor de Claudio Elder Della Coletta, contra decisão monocrática de Ministro Relator no STJ, nos autos do REsp 1.738.973.
+    Colho da decisão impugnada:
+    Trata-se de recurso extraordinário, interposto por CLAUDIO ELDER DELLA COLETTA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, assim ementado (fl. 1.009): AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. RECURSO ESPECIAL NÃO CONHECIDO EM PARTE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. TRANSCRIÇÃO DE EMENTAS. AGRAVO REGIMENTAL DESPROVIDO. 1. A demonstração do dissídio jurisprudencial deve ser realizada com cotejo analítico entre o acórdão recorrido e o acórdão paradigma (art. 1.029, § 1º, do Código de Processo Civil – CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça – RISTJ), não bastando a transcrição da ementa do acórdão paradigma. 2. Agravo regimental desprovido. Nas razões do recurso extraordinário (fls. 1.016/1.026) sustenta a parte recorrente que está presente a repercussão geral da questão tratada e que houve ofensa ao artigo 5º, inciso LV, da Constituição Federal, alegando, para tanto, que "a violação ao art. 5º, LV, da CF/88, somente surgiu pela recursa em se permitir ao Recorrente a análise de Recurso previsto em Lei, notadamente ao se negar em reconhecer que houve a demonstração do dissídio jurisprudencial com o cotejo analítico entre o acórdão recorrido e o acórdão paradigma e, por tal mister, não se conhecer do Recurso Especial." (fl. 1.020). Apresentadas as contrarrazões às fls. 1.033/1.038. É o relatório. (www.stj.jus.br)
+    No STJ, o recurso extraordinário não foi admitido.
+    Nesta Corte, o impetrante requer “a concessão de LIMINAR para suspender a certificação do trânsito em julgado no REsp n. 1.738.973/SP e, consequentemente, na Execução Penal n. 0001590- 93.2018.8.26.0062, em trâmite pela 1ª Vara Criminal da Comarca de Bariri/SP (doc. anexo), até a análise do pleito de Ordem deste writ, permitindo assim, tempo hábil ao julgamento sem, contudo, prejudicar o status dignitatis e libertatis do Paciente; a concessão da Ordem de habeas corpus ex-officio para se afastar a dupla valoração inerente ao próprio tipo penal encartado pelo art. 1º, da Lei n. 8.137/90, passando a pena base a ser fixada no mínimo legal, 02 (dois) anos, tal qual foi observado pelo d. Magistrado de 1ª Instância; ad argumentandum tantum, a concessão da Ordem pleiteada para determinar a análise do REsp n. 1.738.973/SP em face do cotejo analítico do paradigma demonstrado e da decisão guerreada.”
+    É o relatório.
+    Decido.
+    Inicialmente, registro que, da decisão que negou seguimento ao recurso extraordinário movido pelo paciente, caberia agravo interno ao colegiado do STJ, de cuja ausência decorreu a certificação do trânsito em julgado.
+    Não qualquer sentido, portanto, suspender a eficácia de um ato – certificação do trânsito em julgado - ao qual o paciente deu causa.
+    Desse modo, trata-se o presente habeas corpus de substitutivo de revisão criminal de forma inaugural, intento para o qual esta Corte não foi instituída.
+    Deve, pois, o impetrante apresentar sua irresignação, inauguralmente, no Juízo competente.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, 1º, RISTF)
+    Publique-se.
+    Brasília, 16 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
