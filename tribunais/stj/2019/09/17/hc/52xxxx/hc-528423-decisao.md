@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial com pedido liminar impetrado em favor de DANILO LEME DA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0083803-95.2018.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado às penas de 4 (quatro) anos de reclusão, no regime aberto, e 10 (dez) dias-multa, pela prática do delito tipificado no art. 157, caput, do Código Penal, por ter subtraído da vítima, mediante violência, uma bolsa contendo documentos, cartões bancários e um telefone celular (e-STJ fls. 27-34).
+O Tribunal de origem deu provimento à apelação do Ministério Público para majorar as reprimendas para 4 (quatro) anos e 8 (oito) meses de reclusão, no regime inicial fechado, e 11 (onze) dias-multa (e-STJ fls. 44-50).
+Neste writ, o impetrante alega constrangimento ilegal em razão da ausência de fundamentação apta a justificar o aumento da pena-base em 1/6 (um sexto), visto que a violência empregada no cometimento do delito é elemento integrante do tipo penal, devendo, portanto, ser reduzida ao mínimo legal.
+Alega a inexistência de motivação para a fixação do regime inicial fechado e ser cabível sua alteração para o aberto ou o semiaberto.
+Requer a concessão sumária e definitiva da ordem constitucional para que sejam redimensionadas as sanções e mitigado o regime prisional para outro diverso do fechado.
+O pedido liminar foi indeferido (e-STJ fls. 54-55).
+Foram prestadas as informações (e-STJ fls. 60-62 e 65-74).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ, mas pela concessão de ofício da ordem de habeas corpus (e-STJ fls. 76-80).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do art. 105 da Constituição da República, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do art. 654, § 2º, do Código de Processo Penal.
+Acerca do tema deste habeas corpus, é preciso ter presente que os Tribunais Superiores têm entendimento de que, por se tratar de exercício que envolve a apreciação do conjunto probatório e das peculiaridades de cada caso concreto, compete ao magistrado de primeiro grau, secundado pelo tribunal, em apreciação de eventual recurso de apelação, a análise da situação concreta e, observando os princípios da proporcionalidade e da individualização da pena, fixar a reprimenda adequada.
+A intervenção do Superior Tribunal de Justiça e do Supremo Tribunal Federal fica restrita a hipóteses de evidente desproporcionalidade ou de flagrante ilegalidade, quando então será permitida a alteração do regime inicial ou o redimensionamento da sanção a partir do balizamento fático estabelecido nos autos, corrigindo eventual desacerto quanto à avaliação das circunstâncias judiciais, bem como ajustes nas frações de aumento ou de diminuição e aferição das causas especiais que elevam ou reduzem a pena.
+Por fim, vale ressaltar que a dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena, sendo permitido ao julgador analisar com discricionariedade o quantum ideal de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado.
+No que se refere à exasperação da pena-base, constata-se que a Corte impetrada realizou o incremento de 8 (oito) meses nos seguintes termos, in verbis (e-STJ fls. 47-48):
+A pena-base foi fixada no mínimo legal, em 04 anos de reclusão e 10 dias-multa em seu mínimo unitário, contra o que se insurgiu o representante do Ministério Público.
+E a meu ver com razão, pois o crime foi praticado mediante o emprego de violência contra a vítima, circunstância a justificar a exasperação da pena-base em 1/6, atingindo 04 anos e 08 meses de reclusão e 11 dias-multa em seu mínimo unitário.
+Como se vê, o Tribunal a quo exasperou a sanção básica declinando motivação genérica, sem demonstrar que os fatos narrados extrapolariam o esperado para o tipo penal.
+A jurisprudência consolidada nesta Corte, em estrita observância ao dever constitucional de fundamentação das decisões judiciais insculpido no art. 93, inciso IX, da Constituição da República, é firme no sentido de que a exasperação da pena-base deve ser ancorada em fundamentos concretos e idôneos, mostrando-se insuficientes conceitos descritos por meio de expressões vagas, genéricas ou que traduzam elementos que integram o preceito primário do crime em discussão.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE ROUBO. PENA-BASE. AUSÊNCIA DE FUNDAMENTAÇÃO. MOTIVAÇÃO GENÉRICA E VAGA POR PARTE DO JULGADOR EM RELAÇÃO À CULPABILIDADE, MOTIVOS E PERSONALIDADE. NECESSÁRIA A REDUÇÃO DA PENA-BASE. AGRAVO DESPROVIDO.
+A exasperação da pena deve estar fundamentada em elementos concretos extraídos da conduta imputada ao acusado, os quais devem desbordar dos elementos próprios do tipo penal.
+Agravo regimental improvido.
+(AgRg no HC 318.309/PE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/09/2018, DJe de 02/10/2018)
+PENAL. HABEAS CORPUS. ROUBO. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO E COMPORTAMENTO DA VÍTIMA. FUNDAMENTAÇÃO VAGA E GENÉRICA. NÃO DEVOLUÇÃO DO BEM. COMPORTAMENTO NEUTRO DA VÍTIMA. ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. MAUS ANTECEDENTES. FATOS POSTERIORES. IMPOSSIBILIDADE. ORDEM CONCEDIDA.
+1. Não foram arrolados dados concretos a justificar o recrudescimento da reprimenda na primeira fase da dosimetria, haja vista que as instâncias de origem teceram apenas considerações baseadas em elementos ínsitos ao tipo penal violado.
+2. A ausência de devolução da res furtiva e comportamento neutro da vítima não são motivos idôneos para fundamentar a exasperação da pena-base.
+3. Condenações definitivas por fatos posteriores não são idôneas a supedanear o aumento da pena básica a título de maus antecedentes.
+4. Ordem concedida a fim de reduzir a pena imposta ao paciente ao patamar de 4 anos de reclusão, mais o pagamento e 10 dias-multa, fixado o regime inicial aberto para início do desconto da pena.
+(HC 427.096/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2018, DJe de 27/03/2018)
+Dessa forma, verificada a inadequação da análise das circunstâncias judiciais previstas no art. 59 do Código Penal, deve ser afastado o incremento e reduzir a pena-base do paciente para o mínimo legal - 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Na segunda etapa, mantida a compensação da atenuante da confissão espontânea com a agravante da reincidência, permanecem inalteradas as sanções.
+Na terceira fase, não há causas de aumento nem de diminuição a considerar, ficando as penas definitivamente estabelecidas em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Como a reprimenda final ficou estabelecida no patamar de 4 (quatro) anos de reclusão, a pena-base foi fixada no mínimo legal e o paciente é reincidente, o regime prisional será o inicialmente semiaberto, em atenção ao art. 33, §§ 2º e 3º, do Código Penal.
+Cumpre registrar que a jurisprudência desta Corte Superior é uníssona com relação ao cabimento do regime prisional intermediário quando a pena privativa de liberdade é igual ou inferior a 4 (quatro) anos, o apenado é reincidente e a sanção básica foi fixada no mínimo legal.
+O referido entendimento jurisprudencial foi sedimentado com a edição do enunciado 269 da Súmula do Superior Tribunal de Justiça, ipsis litteris:
+"É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais"
+Ante o exposto, por se afigurar manifestamente incabível, não conheço do writ, concedendo, contudo, habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para reduzir as penas cominadas ao paciente para 4 (quatro) anos de reclusão, no regime inicialmente semiaberto, e 10 (dez) dias-multa, mantidos os demais termos do acórdão impugnado.
+Publique-se. Intimem-se.
