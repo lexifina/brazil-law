@@ -1,0 +1,13 @@
+DECISÃO
+[NOME] alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0002902-03.2017.8.26.0495).
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 2 anos e 6 meses de reclusão, em regime aberto, mais multa, pela prática do delito de tráfico de drogas.
+O Tribunal de origem, entretanto, deu provimento aos apelos do Ministério Público e da defesa a fim de redimensionar a reprimenda para 1 ano e 8 meses de reclusão, em regime fechado, mais multa.
+Busca-se, por meio deste writ, seja fixado o regime aberto e determinada a substituição da pena privativa de liberdade por restritivas de direitos.
+O pedido de urgência comporta acolhimento.
+O Tribunal de origem, ao dar provimento à apelação interposta pelo Ministério Público, assim fundamentou a fixação do regime inicial fechado, in verbis (fl. 17, destaquei):
+O magistrado sentenciante, quanto ao desconto da pena, fixou ao acusado o regime inicial aberto. Contudo, considerando a apreensão de variedade de drogas, deve ser acolhido o pleito ministerial de fixação do regime inicial fechado, por se mostrar o único adequado e suficiente a atingir o caráter qualitativo da carcerária, nos termos do artigo 33, §2º, "a", do Código Penal. E não se olvide que a traficância é mola propulsora da criminalidade que assola o país, uma vez que o usuário, na ânsia de sustentar seu vício, pratica toda sorte de delitos, abalando consequentemente toda a sociedade.
+Embora a Corte de origem haja justificado a imposição do regime inicial fechado com base não só na gravidade abstrata do delito, mas também nas peculiaridades do caso concreto - especificamente na variedade das drogas apreendidas -, e não obstante tal elemento constitua, de fato, circunstância idônea a ser sopesada no momento da escolha do regime de cumprimento de pena, entendo, ao menos em um juízo de cognição sumária, que a fixação de regime prisional mais gravoso do que o cabível em razão da pena imposta se mostra, especificamente no caso ora analisado, excessivamente gravoso, haja vista que a quantidade de substâncias apreendidas com o paciente não foi excessivamente elevada, qual seja, 6,72 g de cocaína e 9,60 g de crack.
+À vista do exposto, defiro a liminar para sobrestar, até o julgamento final deste mandamus, o cumprimento da pena imposta ao paciente nos autos do Processo n. 0002909-03.2017.8.26.0495, da 1ª Vara Criminal da Comarca de Registro - SP.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Devidamente instruídos, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se e intimem-se.
