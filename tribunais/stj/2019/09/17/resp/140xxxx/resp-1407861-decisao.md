@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com amparo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão, publicado na égide do Código de Processo Civil de 1973, ementado nos seguintes termos (e-STJ, fl. 281):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRELIMINARES DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL, ILEGITIMIDADE ATIVA DO MUNICÍPIO E NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA AFASTADAS - PAGAMENTO DE REMUNERAÇÃO APÓS DESLIGAMENTO DO CARGO - VERBA INDEVIDA - RESTITUIÇÃO AO ERÁRIO - RECURSO NÃO PROVIDO.
+A contratação de [NOME] possui caráter jurídico-administrativa e não prevê o recebimento de verbas previstas na CLT.
+Os valores percebidos a título de remuneração após o desligamento do cargo devem ser restituídos ao erário.
+Embargos de declaração rejeitados (e-STJ, fls. 305-307).
+Nas razões do especial, o recorrente sustenta (I) ofensa ao art. 114, I, da CF e art. 111 do CPC, ante a incompetência absoluta do Juízo processante; (II) ausência de uma das condições da ação, qual seja, a legitimidade ativa do Município, a determinar a extinção do feito nos termos do art. 267, VI, do CPC; (III) divergência jurisprudencial ou ofensa ao art. 333, I, do CPC, ante o pagamento voluntário realizado pelo recorrido e a boa-fé do recorrente; (IV) nulidade do processo administrativo; e (V) divergências nos pagamentos efetuados.
+Contrarrazões às e-STJ, fls. 358-372.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso.
+É o relatório.
+A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica.
+Dessa forma, levando em conta que o insurgente limitou-se a afirmar que o acórdão combatido violaria alguns dispositivos legais, sem demonstrar a correlação entre o contido na norma e a ilegalidade supostamente perpetrada pela Corte local, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+Nesse sentido:
+PROCESSO CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. SENTENÇA DE MÉRITO SUBSTITUI OS EFEITOS DA DECISÃO PROVISÓRIA PROFERIDA. LIMINAR. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE PREQUESTIONAMENTO. ARGUMENTOS QUE CONFRONTAM A DECISÃO RECORRIDA. AUSÊNCIA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. COTEJO ANALÍTICO. SIMILITUDE FÁTICA. NÃO DEMONSTRADOS. ART. 255 DO RISTJ.
+ ..
+III - Ademais, a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Da mesma forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como malferidos, deixa de demonstrar como tais dispositivos foram ofendidos.
+IV - Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+ ..
+VII - Agravo interno improvido.
+(AgInt nos EDcl no REsp 1.679.515/RS, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/4/2019, DJe 3/5/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. INDENIZAÇÃO POR DANOS MATERIAS E MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS, PROVAS, E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. No que tange ao art. 931 do CC, a parte recorrente limitou-se a arguir a sua violação, sem indicar, clara e objetivamente, de que forma tal dispositivo teria sido vulnerado. Como é cediço, para a análise da admissibilidade do especial pela alínea "a" do permissivo constitucional, é imprescindível que a argumentação erigida no recurso, demonstre de plano, mediante uma concatenação lógica, o mal ferimento dos artigos pelo acórdão recorrido. Ressalto que a via estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.421.115/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 27/6/2019)
+Ademais, incontroversa é a impossibilidade de as supostas afrontas às normas constitucionais veiculadas serem analisadas pelo Superior Tribunal de Justiça, pois o julgamento de matéria de índole constitucional compete exclusivamente ao Supremo Tribunal Federal, consoante dispõe o art. 102, III, da Constituição Federal.
+De todo modo, alterar a conclusão a que chegou a Corte de origem, de forma a albergar as pretensões da parte, tais quais trazidas no presente recurso especial, envolveria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Por fim, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 2º, do Regimento Interno do STJ, uma vez que apenas foram transcritas as ementas dos julgados que o recorrente entendeu favoráveis à sua tese, sem ter ocorrido o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+No aspecto:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. DESCUMPRIMENTO DOS REQUISITOS LEGAIS.
+1. É inadmissível Recurso Especial quanto à questão (arts. 2º, 4º, 5º, 6º e 27 da Lei Federal 6.383/1976; 104, 166, 169 e 2.035, parágrafo único, do Código Civil) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem.
+Incidência da Súmula 211/STJ.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+3. A divergência jurisprudencial deve ser comprovada, cabendo ao recorrente demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 1.029, §1º do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base no art. 105, III, alínea "c", da Constituição Federal.
+4. Recurso Especial não conhecido.
+(REsp 1.804.828/MG, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/6/2019, DJe 18/6/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
