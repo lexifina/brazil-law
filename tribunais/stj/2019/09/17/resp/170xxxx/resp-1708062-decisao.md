@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 571, e-STJ):
+AGRAVO REGIMENTAL - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO DE INSTRUMENTO ANTE O DESCUMPRIMENTO DO ART. 1.018, § 2o, DO CPC DE 2015 - [NOME] QUE SE REFERE AOS AUTOS ORIGINÁRIOS SEREM FÍSICOS E NÃO QUANTO AOS AUTOS DO AGRAVO DE INSTRUMENTO - PRECEDENTES DESTE TRIBUNAL - DECISÃO MANTIDA - AGRAVO REGIMENTAL DESPROVIDO.
+Não foram opostos embargos de declaração.
+Em suas razões, o recorrente alega a existência de divergência jurisprudencial.
+Sustenta, em síntese, que "a comprovação da interposição recursal prevista no disposto no artigo 1.018, § 2º do Código de Processo Civil de 2015, diz respeito somente quando a interposição do agravo ainda ocorrer pelo meio físico e não com relação aos autos físicos que tramitam na comarca de origem (..)"(fl. 578, e-STJ).
+Foram apresentadas contrarrazões às fls. 611/634, e-STJ.
+O recurso foi admitido na origem, nos termos da decisão de fls. 636/637, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem deixou de conhecer o agravo de instrumento interposto, pois verificou a ausência de pressuposto de admissibilidade do recurso. Consignou que os autos do processo eram físicos e o recorrente deixou de informar o juízo de origem acerca da interposição do agravo de instrumento. Salientou, dessa forma, que foi descumprida a determinação do § 2º do art. 1.018 do Código de Processo Civil de 2015, sendo inafastável a consequência do § 3º do referido dispositivo legal, a saber, a inadmissibilidade do recurso (fls. 571/573, e-STJ):
+Ab initio, deixo consignado que o recurso não comporta provimento.
+Com efeito, o agravante alega que, muito embora os autos principais sejam físicos, o agravo de instrumento tramitou por meio eletrônico, e por este motivo não há necessidade de comunicação ao MM. Juízo de origem acerca de sua interposição.
+Ora, o atual diploma processual é claro ao estabelecer a obrigatoriedade de dar notícia ao juiz da causa a respeito da interposição do agravo de instrumento, com a juntada de cópia da petição ao processo originário, quando estes tramitarem por meio físico, ou seja, trata-se de uma exigência legal imposta pelo artigo 1.018 da atual lei adjetiva, e não uma mera faculdade do agravante.
+Nesse sentido, A par de divergências doutrinárias sobre a melhor interpretação dada a esse dispositivo legal, não há dúvida que se tratando de processo físico (observando-se que, no caso, os autos principais são físicos), constitui ônus do agravante tal comunicação, e não a providenciando no prazo de três dias, acarretará a inadmissibilidade do agravo de instrumento.
+(..)
+Ademais, há de se ressaltar que o Código de Processo Civil Atual entrou em vigência em 2016, quando o sistema e - SAJ deste Tribunal de Justiça, já havia, há tempos, sido implantado em segunda instância, desta forma não haveria aplicação prática do referido dispositivo legal se somente fosse necessária comunicação do juízo a quo nos casos em que o agravo de instrumento tramitasse por meio físico. De certo, portanto, que a intenção do legislador foi referir-se às demandas em que os autos principais fossem físicos, e não o agravo de instrumento.
+Por fim, não se pode olvidar que os fundamentos deduzidos pelo agravante não trazem nenhuma substancial novidade apta ao afastamento da decisão monocrática.
+Ante o exposto, pelo meu voto, nego provimento ao recurso.
+Argumenta o recorrente que a obrigação de comunicação ao juízo de origem somente persiste nos casos em que a interposição do agravo ainda ocorrer pelo meio físico, sendo irrelevante o fato de os autos que tramitam na comarca de origem serem físicos.
+O recurso especial não merece conhecimento, uma vez que o Tribunal de origem decidiu em conformidade com o entendimento desta Corte.
+Com efeito, de acordo com a jurisprudência do Superior Tribunal de Justiça, "apenas se ambos os processos tramitarem na forma eletrônica (autos originários e autos do agravo de instrumento), o agravante não terá a obrigação de juntar a cópia do inconformismo na origem" (REsp 1753502/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/12/2018, DJe 13/12/2018).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 1.018 DO CPC/2015. ART. 526 DO CPC/73. DESCUMPRIMENTO NA ORIGEM. OBRIGATORIEDADE DE INFORMAR O JUÍZO DE ORIGEM SOBRE A INTERPOSIÇÃO DO RECURSO. NECESSIDADE DE PROVA DE PREJUÍZO.
+I - Apenas se ambos os processos tramitarem na forma eletrônica (autos originários e autos do agravo de instrumento), o agravante não terá a obrigação de juntar a cópia do inconformismo na origem.
+Precedente: REsp 1708609/PR, Rel. Ministro MOURA RIBEIRO, DJe 24/08/2018.
+II - O agravo de instrumento deve ser inadmitido apenas no caso de prova do prejuízo causado à parte agravada em decorrência da não juntada, aos autos originários, da comprovação da interposição do recurso. Precedentes: AgRg no AREsp 636.518/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 13/10/2015; REsp 1426205/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 01/08/2017.
+III - Tendo a agravada apresentado contrarrazões ao agravo de instrumento e exercido seu direito de defesa, não há que se falar na inadmissibilidade do agravo de instrumento pelo descumprimento da exigência do art. 1.018, §§ 2º e 3º do CPC/2015.
+IV - Recurso especial provido.
+(REsp 1753502/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/12/2018, DJe 13/12/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. § 2º DO ART. 1.018 DO NCPC. DESCUMPRIMENTO NA ORIGEM. OBRIGATORIEDADE DE INFORMAR O JUÍZO DE ORIGEM A INTERPOSIÇÃO DO RECURSO. PROCESSO ELETRÔNICO TRAMITANDO NA ORIGEM.
+1. Aplicabilidade das disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso especial ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A finalidade dos parágrafos do art. 1.018 do NCPC, é a de possibilitar que o juiz de primeiro grau exerça juízo de retratação sobre suas decisões interlocutórias e o exercício do contraditório da parte adversária, impondo que necessariamente eles tenham efetivo e incontroverso conhecimento do manejo do agravo de instrumento. 3. A melhor interpretação do alcance da norma contida no § 2º do art. 1.018 do NCPC, considerando-se a possibilidade de ainda se ter autos físicos em algumas Comarcas e Tribunais pátrios, parece ser a de que, se ambos tramitarem na forma eletrônica, na primeira instância e no TJ, não terá o agravante a obrigação de juntar a cópia do inconformismo na origem.
+4. Tendo em conta a norma do parágrafo único do art. 932 do NCPC, os Princípios da Não Decisão Surpresa e da Primazia do Mérito e, que o agravante, ao menos, comunicou o Juízo a quo sobre a interposição do agravo de instrumento, o acórdão recorrido deve ser cassado, com determinação para que o e. Desembargador relator do Tribunal conceda o prazo de 5 (cinco) dias para que a recorrente complemente a documentação exigida no caput do art. 1.018 do mesmo diploma legal, sob pena, ai sim, de não conhecimento do recurso.
+5. Recurso especial parcialmente provido.
+(REsp 1708609/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/8/2018, DJe 24/8/2018)
+Incidente o óbice da Súmula 83/STJ.
+Em face do exposto, não conheço do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, uma vez que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Intimem-se
