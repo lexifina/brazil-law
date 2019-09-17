@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo apresentado por MARIA LUIZA DOS SANTOS, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO REVISIONAL DE CONTRATO. PRELIMINAR DE AUSÊNCIA DE FUNDAMENTAÇÃO NA SENTENÇA. NÃO VERIFICADA. JUROS REMUNERATÓRIOS. ABUSIVIDADE. LIMITAÇÃO DOS JUROS. INEXISTÊNCIA. SENTENÇA MANTIDA.
+1. Depreende-se que a sentença cumpriu o comando constitucional de fundamentação das decisões judiciais (CF, art. 93, IX), visto que expôs as razões de fato e de direito para o julgamento da lide.
+2. Ressalte-se que a exegese do artigo 489 do CPC não acarreta a obrigação do julgador responder a todas as questões suscitadas pela parte, quando já tenha encontrado motivo suficiente para proferir a decisão.
+3. A relação jurídica entre a instituição financeira e o contratante de operação de crédito caracteriza-se como de consumo, submetendo-se às normas do Código de Defesa do Consumidor.
+4. As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura, cabendo a limitação no caso de as taxas cobradas estarem acima da média praticada pelo mercado.
+5. Ressalte-se que o fato de a taxa de juros praticada pela instituição financeira ser superior à média aritmética do mercado não implica, por si só, em cobrança abusiva.
+6. A taxa média do mercado configura apenas um referencial a ser observado pelas instituições financeiras e pelos consumidores, não constituindo um limite de aplicação obrigatória.
+7. Recurso conhecido e não provido. Preliminar rejeitada.
+A parte alega violação dos arts. 6º, V, e 51, caput e IV, do CDC, no que concerne à abusividade de cláusula contratual relativa à taxa de juros fixada, trazendo o(s) seguinte(s) argumento(s):
+Esclareça-se, desde já, que a discussão se resume à abusividade da taxa de juros remuneratórios entabulada no contrato de empréstimo em percentual de 76,14% a.a (4,73% a.m.). Note-se que, como a taxa média de juros remuneratórios praticados pelo mercado, à época da contratação, na espécie de operação, era de 39,83% a.a. (2,83% a.m.), resta a esta Corte Superior de Justiça verificar a abusividade e prejudicialidade ao orçamento e aos direitos fundamentais da Recorrente (fl. 122).
+(..)
+Ora, Excelência, é inegável que à luz da jurisprudência do Superior Tribunal de Justiça, há comprovação cabal da cobrança abusiva da taxa de juros pela instituição financeira, o que merece ser rechaçado, observando-se a relativização do princípio do pacta sunt servanda, para que haja a devida revisão das taxas de juros, já que coloca a Recorrente e consumidora em desvantagem exagerada (fl. 126).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 4/2/2019.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
