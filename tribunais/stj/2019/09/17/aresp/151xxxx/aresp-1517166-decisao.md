@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Sumula 83/STJ.
+No presente agravo, o Parquet sustenta que o aresto fustigado não se coaduna com a orientação desse Superior Tribunal, razão pela qual deve ser afastado o óbice contido na Súmula 83/STJ (fl. 201).
+Apresentada contraminuta, o Ministério Público Federal manifestou-se pelo improvimento do agravo.
+É o relatório.
+DECIDO.
+Quanto à alegação de nulidade, o Tribunal de origem assim decidiu, in verbis (fls. 117-121):
+Em primeiro lugar, deve-se dizer que não há qualquer nulidade no caso em tela em razão da ausência do Ministério Público à audiência de instrução e julgamento.
+Isso porque, conforme se verifica da certidão de fls. 39, o representante do Ministério Público foi devidamente intimado da audiência designada para o dia 01/2017, não tendo apresentado razões para o não comparecimento e nem pedido o adiamento do referido ato processual.
+Segundo a jurisprudência do Superior Tribunal de Justiça, "Não há vício a ser sanado quando, apesar de intimado, o Ministério Público deixa de comparecer aos atos processuais. Trata-se de nulidade relativa, devendo subsistir alegação oportuna e demonstração do prejuízo, inexistente no caso concreto".
+(AgRg no REsp 1566596/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+No mesmo sentido é a Recomendação nº 01/2014 do Conselho da Magistratura do Estado de Pernambuco, que autoriza a realização de audiências desde que o representante do Ministério Público tenha sido prévia e pessoalmente intimado para o ato.
+Como dito, no caso em tela, o representante do parquet foi devidamente intimado para a audiência, de modo que não há qualquer nulidade a ser decretada quanto ao ponto.
+O cerne do apelo, porém, diz respeito à falta de intimação do Ministério Público para apresentar alegações finais, posto que a sentença foi prolatada oralmente em audiência, após o encerramento da instrução e do oferecimento das alegações finais pela defesa.
+Da análise dos autos, observa-se que o Juiz a quo, que presidiu a audiência de instrução e julgamento, passando a ouvir os depoimentos das testemunhas. Em seguida, após o interrogatório do acusado e ante a ausência do representante do Ministério Público, deu oportunidade para a Defesa oferecer as alegações finais e, ao final, prolatou a sentença.
+In casu, constata-se que o Parquet não estava presente na audiência de instrução e julgamento, não havendo manifestação da parte acusatória em sede de alegações finais. No entanto, observa-se que o Ministério Público foi devidamente intimado para a audiência de instrução e julgamento designada para o dia 01/02/2017, conforme se vê das fls. 39.
+Pois bem. Sabe-se que a audiência de instrução e julgamento é o último ato da fase instrutória, onde se colherão as provas orais, tais como declarações do ofendido e os depoimentos das testemunhas arroladas pela acusação e pela defesa. Além disso, serão apresentadas as alegações finais da acusação e da defesa e, em seguida, poderá o juiz proferir a decisão final.
+Assim, dispõe o art. 413 do Código de Processo Penal:
+Art. 403. Não havendo requerimento de diligências, ou sendo indeferido, serão oferecidas alegações finais orais por 20 (vinte) minutos, respectivamente, pela acusação e pela defesa, prorrogáveis por mais 10 (dez), proferindo o juiz, a seguir, sentença.
+Como se percebe no caso em comento, embora ausente o membro do MP, o Juiz processante realizou corretamente o ato processual uma vez que se tratava de audiência de instrução e julgamento, na qual poder-se ia ter a resolução do feito naquela oportunidade.
+Ademais, observa-se que a sentença condenou o acusado, porém o defesa não recorreu da decisão prolatada, não se verificando, assim, qualquer prejuízo para o MP.
+(..)
+Desacato, por fim, que no caso em tela, a sentença foi condenatória, tendo havido julgamento de total procedência da denúncia, razão pela qual não vislumbro prejuízos à acusação, em face da ausência de intimação para oferecimento das alegações finais pelo Ministério Público.
+Nas razões recursais e no parecer da Procuradoria de Justiça não há referência a qualquer prejuízo concreto sofrido pela acusação em razão da ausência da prática do sobredito ato processual, motivo pelo qual, em face do disposto no art. 563 do CPP, entendo que não há nulidade a ser decretada no feto sob análise.
+Ante todo o exposto, meu voto é pelo IMPROVIMENTO do recurso.
+Como se vê, o acórdão recorrido não destoa da jurisprudência deste STJ, firmada no sentido de que não há qualquer vício a ser sanado nas hipóteses em que, apesar de intimado, o Ministério Público deixa de comparecer à audiência e o Magistrado, condutor do processo, formula perguntas às testemunhas sobre os fatos constantes da denúncia, mormente nas hipóteses em que a defesa não se insurge no momento oportuno e que não há demonstração de efetivo prejuízo (art. 563 do CPP). (HC 295.979/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/06/2016, DJe 22/06/2016), tal como ocorrido na espécie. No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. AUSÊNCIA DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA DE INSTRUÇÃO. NULIDADE. NÃO OCORRÊNCIA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. POSSIBILIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. RECURSO IMPROVIDO.
+1. De acordo com o entendimento desta Corte superior, inexiste vício a ser sanado nas hipóteses em que, apesar de intimado, o Ministério Público deixa de comparecer à audiência e o Magistrado, condutor do processo, formula perguntas às testemunhas sobre os fatos constantes da denúncia. Precedentes.
+2. Não viola o princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental.
+3. Agravo regimental improvido (AgRg no HC 381.609/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 28/04/2017).
+AGRAVOS REGIMENTAIS EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DUPLICIDADE DE RECURSOS. DESCABIMENTO. UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. DENÚNCIA. INÉPCIA. PENA-BASE. FUNDAMENTAÇÃO. CARÊNCIA. LEI PENAL. IRRETROATIVIDADE. DOLO OU CULPA. INEXISTÊNCIA. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO MÍNIMA. FUNDAMENTAÇÃO IDÔNEA. DECISÃO AGRAVADA. FUNDAMENTOS NÃO ATACADOS NO AGRAVO REGIMENTAL. APLICAÇÃO DA SÚMULA 182/STJ. ART. 212 DO CPP. TESTEMUNHAS. INQUIRIÇÃO PELO JUIZ. ATOS INSTRUTÓRIOS. MINISTÉRIO PÚBLICO. AUSÊNCIA. NULIDADES RELATIVAS. ALEGAÇÃO OPORTUNA. DEMONSTRAÇÃO DO PREJUÍZO. NECESSIDADE. INTERROGATÓRIO. ATO INICIAL DA INSTRUÇÃO. RITO ESPECIAL. LEI N. 11.343/2006. PREVALÊNCIA.
+(..)
+3. Conforme entendimento pacífico, as eventuais nulidades por inobservância do art. 212 do Código de Processo Penal e também pela ausência do Ministério Público nos atos instrutórios possuem natureza relativa, reclamando alegação oportuna e demonstração do prejuízo, o que não ocorreu no caso concreto.
+(..) (AgRg no REsp 1505705/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 21/11/2016).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 212, P.Ú., DO CPP. AUSÊNCIA DO MP NA AUDIÊNCIA. NULIDADE RELATIVA. PRECLUSÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte sufragou entendimento de que "a ausência do Ministério Público na audiência de instrução constitui nulidade relativa que, para ser declarada, deve ser alegada em momento processual oportuno e demonstrado o efetivo prejuízo ao réu. Aplicação do princípio pas nullité sans grief." (REsp 174.290/RJ, Rel. Min. HÉLIO QUAGLIA BARBOSA, SEXTA TURMA,DJ 03/10/2005).
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 885.644/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NULIDADE POR AUSÊNCIA DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA DE INSTRUÇÃO. NULIDADE RELATIVA. NÃO DEMONSTRAÇÃO DE PREJUÍZO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Na linha da jurisprudência desta Corte, a nulidade por inobservância ao art. 212 do Código de Processo Penal é relativa, sujeita, portanto, à preclusão e à demonstração de efetivo prejuízo, o que inocorreu na espécie.
+IV - Ademais, insta consignar que eventual prejuízo pela ausência de membro do Ministério Público na audiência de instrução, caso houvesse, só interessaria à acusação, sendo inadmissível o reconhecimento de nulidade relativa que só à parte contrária interessa. (Precedentes).
+Habeas corpus não conhecido (HC 298.040/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/02/2015, DJe 23/02/2015).
+Incide, assim, o entendimento consolidado na Súmula 83 desta Corte, segundo o qual: Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida, aplicável também aos recursos interpostos com base na alínea "a" do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
