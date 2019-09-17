@@ -1,0 +1,45 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (eDOC 7, p. 1):
+    “APELAÇÃO CÍVEL. PREVIDENCIÁRIO. PENSÃO POR MORTE. BENEFÍCIO PERCEBIDO HÁ MAIS DE 28 ANOS POR DEPENDENTE INVÁLIDO. SUSPENSÃO E CANCELAMENTO SOB O FUNDAMENTO DE O IMPETRANTE TER CONTRAÍDO CASAMENTO (ART. 29, VI C/C ART. 42 DA LEI ESTADUAL 2.595/86). AUSÊNCIA DE REGULAR PROCESSO ADMINISTRATIVO. AFRONTA ÀS CLÁUSULAS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. ILEGALIDADE CONFIGURADA. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+    1. Trata-se de apelação interposta contra sentença que extinguiu o mandado de segurança por inadequação da via eleita.
+    2. A documentação carreada aos autos é suficiente para demonstrar a irregularidade do ato administrativo de supressão de benefício de pensão por morte sem o regular processo administrativo.
+    3. A administração revelou comportamento contraditório quando, após deferir requerimento administrativo de revisão do benefício e confecção de acordo com o requerente para pagamento das parcelas vencidas, determinou a suspensão do pagamento, acolhendo parecer administrativo.
+    4. A jurisprudência do Superior Tribunal de Justiça também veda a adoção de posturas contraditórias pela Administração, por entender que representa violação não somente ao princípio da razoabilidade, mas também aos princípios da segurança jurídica e da boa-fé objetiva como corolário da proibição de comportamentos contraditórios (venire contra factum proprium)
+    5. O exercício da autotutela da administração, quando afeta a esfera jurídica do indivíduo, reclama o regular processo administrativo.
+    6. Recurso conhecido e provido.”
+    Os embargos de declaração foram rejeitados (eDOC 10, p. 1-2).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 97 da Constituição Federal, bem como à Súmula Vinculante 10.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 13, p. 7):
+    “... considerando que a identificação de irregularidades no estabelecimento de pensionamentos, obriga a Administração Pública a rever os seus atos, quando eivados de vício, a fim de evitar dano ao erário, não subsiste razão que justifique a aplicação de penalidades decorrentes da ação revisional.
+    Portanto, não se configura contradição entre o ato de revisar uma pensão antes estabelecida de forma regular, com a sua suspensão cautelar por apuração de ato que enseja o seu cancelamento.”
+    A Presidência do TJ/SE inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 280, 282 e 356 do STF (eDOC 19).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 7, p. 2-5):
+    “O Apelante aduz que “é beneficiário de pensão por morte desde 02/09/1987, instituída em seu favor por sua tia, Sra. Isabel Sales Nunes, falecida em 01/05/1987, com força na legislação estadual que autorizava a concessão de pensão para beneficiar parentes inválidos (o autor é tetraplégico há quase quatro décadas, em decorrência de um acidente durante mergulho em águas rasas no ano de 1980).”
+    O fundamento legal é o §8º do art. 27 da Lei 2.595/86, verbis:
+    (…)
+    E afirmou que após protocolar pedido administrativo de atualização do benefício, com deferimento e confecção de acordo com o Instituto, inclusive, para pagamento das parcelas vencidas, sobreveio parecer administrativo nº 265/2015, acolhido pela Diretoria Executiva, que determinou a suspensão imediata do pagamento, sem qualquer instauração de regular processo administrativo.
+    O principal fundamento lançado no parecer nº 265/2015 para sugerir a suspensão e a retirada do benefício foi o fato de o requerente ter contraído casamento, hipótese que está prevista nos arts. 29, inciso VI e 42, todos da lei estadual nº 2.595/86.
+    O que se verifica dos autos são dois aspectos: (i) comportamentos contraditórios da administração quando, após ter deferido a revisão do benefício para majorá-lo, e formulado um acordo com o requerente para pagamento parcelado, determina a suspensão; (ii) ausência de prévio e regular processo administrativo.
+    A documentação carreada aos autos é suficiente para demonstração deste ato da autoridade impetrada praticado sem observância das formalidades legais. Portanto, o remédio heroico é cabível.
+    (…)
+    Tal situação reforça a necessidade de regular processo administrativo, especialmente se considerado o fato de que o impetrante, além de tetraplégico, percebia continuamente o benefício há mais de 28 (vinte e oito) anos.
+    (…)
+    Assim, ilegal o ato perpetrado pela autoridade impetrada, especialmente quando determinou a imediata suspensão do benefício pensão por morte, de caráter alimentar, ao autor impetrante, mormente porque, conforme demonstrado, inexistiu o regular processo administrativo.
+    (...)
+    Outro aspecto digno de nota concerne ao fato de que não há que se tratar de decadência para suspensão e cancelamento do benefício, visto que calcada em fato novo no curso da percepção relativa ao casamento, como hipótese de perda do direito ao benefício (art. 29, inciso VI da Lei estadual 2.595/86).
+    A ilegalidade persiste apenas no tocante à inobservância de devido processo legal.
+    Desta feita, conheço do recurso, para lhe dar provimento, a fim de reformar a decisão a quo, anulando o ato administrativo que suspendeu e cancelou o benefício previdenciário, por ausência de regular procedimento administrativo, determinado o retorno do benefício a partir da sentença.“
+    Depreende-se dos fundamentos que constam no acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que diz respeito à necessidade ou não de instauração de processo administrativo para suspender o benefício do recorrido, demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional (Lei Estadual 2.595/86). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. pensão por morte. Violação do art. 5º, incisos XXXV, LIV e LV, da Constituição Federal. Ofensa reflexa. Recurso extraordinário interposto contra acórdão do STJ. Análise de questão decidida em segundo grau. Inexistência de controvérsia surgida no STJ. Preclusão. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa ou do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Não se admite recurso extraordinário contra acórdão do Superior Tribunal de Justiça no qual se suscita questão resolvida na decisão de segundo grau quando o STJ, ao negar seguimento ao recurso especial, mantém incólume a decisão proferida na origem. 3. Agravo regimental não provido.” (ARE 757.260-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 8.4.2015).
+    “Agravo regimental em recurso extraordinário. 2. Administrativo. pensão por morte. Cônjuge divorciada. 3. Análise da legislação local. Lei Complementar Estadual 180/1978. Ofensa meramente reflexa ao texto constitucional. Súmula 280 do STF. 4. Necessidade do reexame de conteúdo fático-probatório. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 678.354-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 16.5.2014).
+    Ademais, quanto à alegação de ofensa à cláusula da reserva de plenário, observa-se que o Tribunal de origem, ao analisar o caso concreto, não declarou inconstitucional a legislação aplicada, nem afastou sua aplicação por julgá-la inconstitucional, mas apenas interpretou a norma legal.
+    A jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula da reserva de plenário, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.04.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.05.2015.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+    Publique-se.
+    Brasília, 17 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
