@@ -1,0 +1,5 @@
+DECISÃO
+O recorrente, acusado de tráfico de drogas, interpõe recurso ordinário, no qual alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de origem, que não conheceu do writ lá impetrado.
+Em suas razões, afirma a ilegalidade da prisão em flagrante, na medida em que "quando os policiais o prenderam e o conduziram para diversas localidades, sendo que no ultimo local, adentraram a residência de terceira pessoa, sem ordem judicial ou autorização de quem quer que seja e lá apreenderam a droga e atribuíram sua propriedade a Jefferson" (fl. 202).
+Entretanto, observo que este recurso é mera reiteração do HC n. 508.731/SP, impetrado em favor do ora recorrente, no qual sustentou a defesa a ocorrência das mesmas ilegalidades apontadas nesta oportunidade. Assim, diante da jurisprudência na direção de que é "incabível a discussão das alegações referentes a writ anteriormente impetrado" (AgInt no HC n. 491.346/PI, Rel. Ministro Sebastião Reis Júnior, DJe 2/4/2019), com fundamento no art. 34, XI, do RISTJ, indefiro liminarmente este recurso em habeas corpus.
+Publique-se e intimem-se.
