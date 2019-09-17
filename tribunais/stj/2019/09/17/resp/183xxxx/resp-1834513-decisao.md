@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o Ministério Público Federal ofereceu denúncia criminal contra o recorrido, imputando-lhe a prática do delito tipificado no art. 334-A, caput, § 1º, II, do Código Penal (contrabando). O magistrado rejeitou a peça acusatória, com fundamento no art. 395, III, do CPP.
+Irresignado, o Ministério Público Federal interpôs recurso em sentido estrito, que restou, por maioria, provido por acórdão assim ementado:
+DIREITO PENAL. CONTRABANDO DE MEDICAMENTOS E DE CIGARROS. ADEQUAÇÃO TÍPICA. PRINCÍPIO DA INSIGINIFICÂNCIA. NÃO APLICAÇÃO.
+1. No julgamento do Incidente de Arguição de Inconstitucionalidade nº 5001968-40.2014.404.0000, a Corte Especial do Tribunal Regional Federal da 4â Região, por maioria, reconheceu a inconstitucionalidade do preceito secundário do tipo penal do art. 273 do Código Penal sem redução de texto. Consoante o que foi decidido, a quantidade de medicamentos envolvida na conduta descrita na inicial serve como parâmetro balizador para fixação da reprimenda adequada.
+2. A conduta de introdução irregular de cigarros em território nacional configura contrabando, tipo penai no âmbito do qual se protegem a administração do controle da entrada (e da saída) de produtos no país e, indiretamente, a saúde pública, a higiene, a ordem ou a segurança, dentre outros bens específicos que fundamentam a proibição ou condicionamento das importações.
+3. A eventual insignificância do contrabando deve ser analisada em face da natureza e da quantidade das mercadorias internalizadas.
+Opostos embargos infringentes, restaram providos para aplicar o princípio da insignificância.
+O acórdão restou assim ementado:
+PENAL. CONTRABANDO DE CIGARROS. PEQUENA QUANTIDADE. APREENSÃO EM ESTABELECIMENTO COMERCIAL. IRRELEVÂNCIA PARA A APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. VENDER OU EXPOR À VENDA. LUCRO FÁCIL E DESTINAÇÃO COMERCIAL. ELEMENTARES DO TIPO PENAL. APLICABILIDADE. ABSOLVIÇÃO.
+1. O princípio da insignificância pode ser aplicado ao contrabando de cigarros em casos excepcionais, quando demonstrada a absoluta insignificância do fato para o Direito Penal, notadamente em razão da pequena quantidade de cigarros contrabandeados e da primariedade do réu, a evidenciar a mínima reprovabilidade da conduta e a ínfima lesão ao bem jurídico. (TRF4, ACR 5075860-51.2016.4.04.7100, SÉTIMA TURMA, Relator para Acórdão Márcio Antônio Rocha).
+2. Sendo a quantidade de cigarros apreendidos inferior ao limite de 500 (quinhentos) maços e não havendo sinal de reiteração ou de contumácia na prática do delito, é caso de aplicação do princípio da insignificância e de afirmar a atipicidade da conduta quanto ao fato narrado na denúncia, de modo que impõe-se a absolvição, com base no artigo 386, inciso III, do Código de Processo Penal.
+3. Não afasta a aplicação do princípio da insignificância a circunstância de a mercadoria ter sido apreendida no estabelecimento comercial do réu, porquanto coincidente com a elementar da conduta de vender ou expor à venda inserta no art. 334-A, § ls, IV do Código Penal, assim como inerente ao próprio crime pelo qual o agente busca a obtenção de lucro fácil e a comercialização de produtos Irregularmente internalizados a custos menores.
+4. Embargos infringentes e de nulidade providos.
+Na petição de recurso especial, o Ministério Público Federal aponta violação ao disposto no art. 334-A do Código Penal. Sustenta, em síntese, que a importação não autorizada de cigarros configura o delito de contrabando, não sendo possível a aplicação do princípio da insignificância.
+Contrarrazões às fls. 217/233.
+Admitido o recurso (fl. 236), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 250/257).
+É o relatório. Decido.
+O recurso merece provimento.
+A jurisprudência desta Corte é no sentido de que a importação não autorizada de cigarros constitui o crime de contrabando, insuscetível de aplicação do princípio da insignificância.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO IMPROVIDO. 1. O Superior Tribunal de Justiça firmou o entendimento de que a introdução clandestina de cigarros, em território nacional, em desconformidade com as normas de regência, configura o delito de contrabando, ao qual não se aplica o princípio da insignificância, por tutelar interesses que transbordam a mera elisão fiscal. 2. Agravo regimental improvido. (AgRg no REsp 1717048/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/09/2018, DJe 24/09/2018 - Grifo Nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos da pacífica orientação da Terceira Seção desta Corte, a importação não autorizada de cigarros constitui o crime de contrabando, insuscetível de aplicação do princípio da insignificância. 2. Agravo regimental desprovido. (AgRg no REsp 1706397/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/02/2018, DJe 28/02/2018 - Grifo Nosso).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para afastar a aplicação do princípio da insignificância e determinar a remessa dos autos ao juízo de origem para prosseguimento do feito.
+Publique-se. Intimem-se.
