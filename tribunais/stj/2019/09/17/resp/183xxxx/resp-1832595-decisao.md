@@ -1,0 +1,19 @@
+DECISÃO
+LUCIO FLAVIO VICTOR TEIXEIRA agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Espírito Santo, assim ementado:
+APELAÇÃO CRIMINAL. HOMICÍDIO. QUALIFICADO. REDIMENSIONAMENTO DA PENA-BASE. RECURSO PARCIALMENTE PROVIDO. 1. Quanto a culpabilidade o Magistrado mencionou que o acusado agiu com elevado grau "tendo em vista a intenção é objetivo que se refletiu no delito e o grau de contrariedade ao dever, devendo sopesar de forma desfavorável ao réu", deixando de apontar dados concretos que justifiquem a exasperação da pena-base, devendo, por isso, ser decotada. 2. Em razão da pena aplicada, fixado o regime semiaberto para início do cumprimento de pena. 3. Recurso parcialmente provido. (e-STJ fl. 340)
+Aponta a defesa a violação dos arts. 59 e 68 do Código Penal, insurgindo-se, em síntese, contra a exasperação da pena base.
+Contrarrazões às e-STJ fls. 373/378.
+Manifestação do Ministério Público Federal pelo desprovimento do agravo às e-STJ fls. 422/425.
+É o relatório. Decido.
+A irresignação não prospera.
+Observa-se que, não obstante a defesa apontar como violado os arts. 59 e 68 do Código Penal, não explicitou de que maneira ocorreu tal afronta, alegando genericamente que inexistem elementos para dosar a pena-base de modo mais gravoso, sem sequer especificar qual ou quais das circunstâncias se ressente(m) de fundamentação idônea. Incidência da Súmula n. 284/STF. Nesse sentido:
+RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. ALEGAÇÃO GENÉRICA DE OFENSA AOS ARTS. 59 E 68 DO CP. INCIDÊNCIA DA SÚMULA N. 284 DO STF. APELAÇÃO EXCLUSIVA DA DEFESA. AFASTADA A CONSIDERAÇÃO DESFAVORÁVEL DE CIRCUNSTÂNCIA JUDICIAL PELO TRIBUNAL A QUO SEM A REDUÇÃO PROPORCIONAL DA PENA-BASE. FLAGRANTE ILEGALIDADE. NOVA DOSIMETRIA. REPRIMENDA-BASE. FUNDAMENTAÇÃO IDÔNEA. AUMENTO PROPORCIONAL. RECURSO ESPECIAL NÃO CONHECIDO. CONCEDIDO HABEAS CORPUS DE OFÍCIO.
+1. A alegação genérica de ausência de fundamentação da dosimetria da pena sem a imprescindível fundamentação atrai a incidência do óbice previsto no Enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+ ..
+4. Recurso especial não conhecido. Concedido habeas corpus de ofício para reduzir a reprimenda ao patamar de 17 anos e 10 meses de reclusão. Determinado o início da execução da pena. (REsp 1774431/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 04/02/2019)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS ACLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. MALFERIMENTO AO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. INEXISTÊNCIA. DESCRIÇÃO SUFICIENTE DOS FATOS. SENTENÇA CONDENATÓRIA. TESE DE INÉPCIA DA INICIAL. PRECLUSÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. CONTRARIEDADE AO ART. 22 DO CP. INEXIGIBILIDADE DE CONDUTA DIVERSA. VIOLAÇÃO AO § 4º DO ART. 33 DA LEI Nº 11.343/06 E AO ART. 59 DO CP. CAUSA DE DIMINUIÇÃO DA PENA. QUANTUM DE DIMINUIÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AFRONTA AOS ARTS. 65, III, "D" E 33, §§ 2º E 3º, AMBOS DO CP. AUSÊNCIA DAS RAZÕES JURÍDICAS DA VULNERAÇÃO. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+5. Aplicável o enunciado 284 da Súmula do Supremo Tribunal Federal quando o recorrente, apesar de apontar o dispositivo legal, não indica precisamente as razões jurídicas pelas quais considerou violada a norma.
+6. Agravo regimental a que se nega provimento (AgRg nos EDcl no AREsp 817.327/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 18/2/2016).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intime-se.
