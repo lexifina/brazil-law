@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+ADMINISTRATIVO SERVIDOR PÚBLICO ACUMULAÇÃO DE CARGOS DE PROFESSOR E ASSISTENTE EM ADMINISTRAÇÃO POSSIBILIDADE APELAÇÃO PROVIMENTO.
+Alega violação do art. 118, § 2º, da Lei n. 8.112/1990, no que concerne à impossibilidade de acumulação de cargos públicos cuja jornada seja superior a sessenta horas semanais em razão da ausência de compatibilidade de horários, trazendo o(s) seguinte(s) argumento(s):
+Vale salientar que, mesmo a legislação, seja constitucional, seja infraconstitucional, não fixando uma carga horária máxima de trabalho semanal para esta compatibilidade, não fica autorizado o entendimento de que esta carga horária seja ilimitada, permitindo jornadas exorbitantes de trabalho.
+Tal excesso traria prejuízos ao interesse público, pois dificilmente o servidor cumpriria eficientemente o seu trabalho, pois teria sua capacidade física e mental desgastada, porque teria poucas horas destinadas a certas necessidades básicas, como o descanso, alimentação, lazer, etc.
+É desumano e contrário às normas protetoras do trabalhador que um servidor cumpra jornadas de trabalho de 16 horas por dia, dispondo de apenas 8 horas ou menos para a recuperação de sua capacidade física e mental.
+ ..
+A interpretação sistemática desta norma jurídica nos conduz por caminhos diferenciados, em relação àquele trilhado pela decisão recorrida, levando-nos necessariamente à conclusão de que, obrigatoriamente, a acumulação de cargos pelos servidores públicos deve guardar acatamento inteiramente às disposições constitucionais e legais pertinentes, exigindo-se compatibilidade de horários e . não apenas não-superposição de horários.
+ ..
+Pois bem, é visível e notório que uma acumulação que imponha uma jornada de trabalho semanal superior a 60 horas compromete tanto a saúde física, mental e laborativa do servidor, quanto a própria qualidade do serviço prestado, desrespeitando o art. 118 retro-transcrito. Certamente, com a regra de acumulação de cargos o legislador não quis, nem admitiu que fosse considerada lícita uma acumulação levada a efeito em prejuízo da Administração Pública ou do próprio servidor.
+Daí a exigência de compatibilidade de horários contida no art. 118, § 2º, da Lei nº 8.112. Daí, também, o porquê de a acumulação pleiteada no presente caso violar o dispositivo legal referido (fls. 480, 481 e 482).
+É o relatório. Decido.
+Quanto à controvérsia alegada, na espécie, o acórdão recorrido assim decidiu:
+Ademais, há comprovação de compatibilidade de horários entre os exercícios dos cargos de professora e de assistente em administração ocupados pela autora, os quais não ultrapassam a carga horária semanal de 60 (sessenta) horas (identificadores 4058204.225746 e 4058204.225748) (fl. 416).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
