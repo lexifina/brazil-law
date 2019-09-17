@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos por CLUBE DE INVESTIMENTO DOS EMPREGADOS DA VALE - INVESTVALE contra acórdão proferido pela Terceira Turma, da relatoria do Ministro Paulo de Tarso Sanseverino, assim ementado (fl. 1.243):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRESARIAL. AÇÃO EM QUE SE PLEITEIA A REPARAÇÃO PELO PREJUÍZO MATERIAL NA VENDA DE COTAS DO CLUBE DE INVESTIMENTO. PRESCRIÇÃO. TERMO INICIAL. TEORIA DA ACTIO NATA. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. PRECEDENTES.
+AGRAVO INTERNO DESPROVIDO.
+Fundamentando-se em precedente da Quarta Turma (REsp nº 1.280.825/RJ e AREsp n.º 1.004.912/SP, ambos de relatoria da Ministra MARIA ISABEL GALLOTTI, DJe de 29/08/2016 e 06/10/2017, respectivamente), o embargante aponta divergência jurisprudencial, sustentando, em resumo, que "(..) Enquanto os paradigmas entenderam pela data da ocorrência da lesão como termo inicial para fluência do prazo prescricional, o acórdão embargado consignou que o termo inicial seria a data da ciência do dano.". Ressalta que "(..) enquanto o v. acórdão embargado diz que "o STJ possui firme o entendimento no sentido de que, com base na teoria da actio nata, o início do prazo não se dá necessariamente no momento em que ocorre a lesão ao direito, mas sim quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão", no v. acórdão paradigma, a 4a Turma afirma que "o Código Civil de 2002, assim como o fazia o de 1916, adota orientação de cunho objetivo,estabelecendo a data da lesão de direito, a partir de quando a ação pode ser ajuizada, como regra geral para o início da prescrição, excepcionando os demais casos em dispositivos especiais", razão pela qual "não se deve adotar a ciência do dano como o termo inicial do prazo se a hipótese concreta não se enquadra nas exceções". (fls. 1.255-1.263).
+Requer, assim, o provimento do presente recurso, reformando-se o acórdão embargado, dando-se provimento ao recurso especial "(..) para, interpretando a ratio do artigo 189 do Código Civil, declarar que o termo inicial da contagem do prazo prescricional é a data da lesão, o que acarretará, por conseguinte, a ocorrência da prescrição no caso concreto.".
+Sem impugnação (fl. 1.396).
+Parecer do Ministério Público Federal pelo não provimento dos embargos de divergência (fls. 1.398-1.402).
+É o relatório.
+Decide-se.
+Os presentes embargos de divergência não ultrapassam o juízo prévio de admissibilidade, em razão de sua manifesta inviabilidade.
+1. A jurisprudência desta Corte é firme no sentido de que o termo inicial para propositura de ação indenizatória é a data na qual se tomou conhecimento do ato lesivo.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRAZO PRESCRICIONAL PARA COBRAR A REPARAÇÃO DE DANOS DECORRENTES DA CONSTRUÇÃO DE USINA HIDRELÉTRICA. TERMO INICIAL. CONHECIMENTO INEQUÍVOCO DO FATO E DE SUAS CONSEQUÊNCIAS PELO TITULAR DO DIREITO SUBJETIVO. TEORIA DA ACTIO NATA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ.
+1. O termo inicial para o ajuizamento de ação em que se busca a reparação de danos tem como marco a ciência inequívoca pelo titular do direito subjetivo violado acerca da existência do fato e da extensão de suas consequências, conforme a Teoria da actio nata. Incidência da Súmula 83/STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1761518/MA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REPARATÓRIA DE DANOS MATERIAIS E MORAIS. USINA HIDRELÉTRICA DE ESTREITO. PRESCRIÇÃO.
+TERMO INICIAL. TEORIA DA ACTIO NATA. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 83/STJ.
+AGRAVO NÃO PROVIDO.
+1. O entendimento adotado pelo Tribunal de origem está em harmonia com a orientação desta Corte, segundo o qual, o curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito subjetivo violado passa a conhecer o fato e a extensão de suas consequências, conforme o princípio da actio nata. Precedentes.
+2. No presente caso, o Tribunal de origem concluiu que o termo inicial da prescrição se deu no momento em que houve o represamento das águas, uma vez que, nesse momento, ocorreu o conhecimento inequívoco do dano pelo autor/apelante. Incidência da Súmula 83 do STJ.
+3. Agravo não provido.
+(AgInt no REsp 1740239/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PRÓTESES DE SILICONE MAMÁRIAS. ALEGAÇÃO DE DEFEITO. PRESCRIÇÃO. PRAZO QUINQUENAL. TERMO INICIAL. DATA DO CONHECIMENTO INEQUÍVOCO DO DANO, DO DEFEITO E DA AUTORIA. ART. 27 DO CDC.
+1. Ação ajuizada em 27/11/2001. Recurso especial interposto em 15/09/2014 e atribuído a esta Relatora em 25/08/2016. Julgamento: Aplicação do CPC/73.
+2. O propósito recursal, para além da negativa de prestação jurisdicional, é definir o termo inicial da prescrição da pretensão indenizatória por danos derivados de próteses de silicone mamárias supostamente defeituosas.
+3. Ausentes os vícios do art. 535 do CPC/73, é de rigor a rejeição dos embargos de declaração.
+4. Consoante o disposto no art. 27 do CDC, a pretensão de reparação de danos causados por fato do produto ou do serviço se submete ao prazo de prescrição quinquenal, contado a partir do conhecimento do dano e de sua autoria.
+5. Além dos dois requisitos elencados pelo legislador para que seja deflagrado o início da contagem do prazo prescricional - o conhecimento do dano e o conhecimento da autoria -, é necessário, ainda, o conhecimento do defeito, isto é, a consciência do consumidor de que o dano sofrido está relacionado a defeito do produto ou do serviço.
+6. A combinação desses três critérios tem por objetivo conferir maior proteção da vítima que, em determinadas situações, pode ter conhecimento do dano e da identidade do fornecedor, porém, só mais tarde saber que o dano resulta de um defeito do produto adquirido ou do serviço contratado.
+7. Na hipótese dos autos, conquanto os danos sofridos pela autora tenham se iniciado com a colocação das próteses de silicone, conforme alegado na exordial, o suposto defeito do produto somente veio a ser conhecido, de forma inequívoca, quando da realização do exame que atestou o rompimento das próteses e o vazamento do gel no organismo da consumidora. Não há se falar, destarte, no implemento do prazo prescricional.
+8. Recurso especial não provido.
+(REsp 1698676/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/11/2017, DJe 30/11/2017)
+Com esse norte hermenêutico, na hipótese dos autos, o v. acórdão embargado, de maneira expressa, asseverou que "(..) afigura-se razoável que a contagem do prazo prescricional tenha início a partir da ciência deste questionamento, seja pelo Ministério Público, em junho de 2006; seja pela CVM, em agosto de 2007, diante de sólido juízo erigido pelo C. Superior Tribunal de Justiça, que fixa o termo a quo do prazo prescricional da pretensão compensatória, da ciência inequívoca pelo titular do direito invocado da lesão sofrida e dos efeitos dela advindos" (fl. 974).
+Assim sendo, tendo em vista que o v. acórdão embargado consignou o prazo prescricional para a propositura da ação indenizatória tem por termo inicial a data da ciência inequívoca do ato lesivo por parte do titular do direito invocado, apesar do esforço da embargante, não se afigura a alegada divergência viabilizadora da insurgência em análise.
+Diante disso, a pretensão recursal esbarra na Súmula nº 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Em verdade, as razões dos embargos revelam tão-somente o intuito de reapreciação da causa, visando alcançar um juízo de retratação da negativa de provimento do acórdão embargado, o que não se admite na espécie de recurso manejado, por não ser esta a via adequada para rediscutir matéria fática consolidada pelas instâncias ordinárias.
+2. Do exposto, com fundamento nos arts. 34, inc. XVIII e 266, § 3º, ambos do RISTJ, indefiro liminarmente os embargos de divergência.
+Ressalte-se que a apresentação de incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Publique-se. Intimem-se.
