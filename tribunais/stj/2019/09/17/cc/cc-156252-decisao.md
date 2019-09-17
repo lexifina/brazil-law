@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Tribunal Regional do Trabalho da 2ª Região em desfavor do Juízo Federal da 7ª Vara Cível da Seção Judiciária do Estado de São Paulo, nos autos de ação ordinária ajuizada por [NOME] contra o Instituto Nacional do Seguro Social - INNS, a União e a Companhia Paulista de Trens Metropolitanos - CPTM, por meio da qual a parte autora pleiteia complementação de aposentadoria com base na Tabela Salarial da CPTM.Juízo Federal da 7ª Vara Cível da Seção Judiciária do Estado de São Paulo
+Por meio da decisão de fls. 353-354 e-STJ, este relator fixou a competência no Juízo Federal da 7ª Vara Cível da Seção Judiciária do Estado de São Paulo.
+É o breve relatório. Decido.
+Compulsando os autos, infere-se que, na verdade, o presente conflito foi instaurando em desfavor do Juízo Federal da 7ª Vara Previdenciária da Seção Judiciária do Estado de São suscitado. Diante disso, é mister chamar o feito à ordem, a fim de que retificar a parte dispositiva do decisum de fls. 353-354 e-STJ, bem como a autuação deste feito.
+Isso posto, retificando a parte dispositiva da decisão de fls. 353-354 e-STJ, fixo a competência no Juízo Federal da 7ª Vara Previdenciária da Seção Judiciária do Estado de São Paulo. Outrossim, determino seja também retificada a autuação do presente incidente, a fim de que passe a constar, como suscitado, o Juízo Federal da 7ª Vara Previdenciária da Seção Judiciária do Estado de São Paulo.
+Publique-se. Intimem-se.
