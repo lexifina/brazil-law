@@ -1,0 +1,12 @@
+EMENTA
+AÇÃO RESCISÓRIA. PRETENDIDA DESCONSTITUIÇÃO DE DECISÃO PROFERIDA POR DESEMBARGADOR, QUE NÃO CONHECEU DE APELAÇÃO AO FUNDAMENTO DE IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL DO APELANTE. RESCISÓRIA PARA CUJO JULGAMENTO NÃO É COMPETENTE O STJ. DESNECESSIDADE DE ABERTURA DE PRAZO PARA EMENDA DA INICIAL. SIMPLES ERRO DE ENDEREÇAMENTO.
+Ação rescisória não conhecida, ordenada a remessa ao Tribunal de Justiça do Pará, o competente para o julgamento.
+DECISÃO
+Do que se extrai da petição inicial desta ação rescisória, ajuizada por [NOME], pretende o autor a desconstituição da decisão monocrática proferida, no Tribunal de Justiça do Pará, pelo Desembargador relator da Apelação n. 0000999-05.2010.8.14.0009, que dela não conheceu "em razão da ausência da regularidade processual, nos termos do art. 76, § 2º, I do CPC" (e-STJ, fls. 64-65).
+Equivocou-se o autor, contudo, ao endereçar a rescisória a esta Corte.
+A competência do Superior Tribunal de Justiça para julgamento de ação rescisória, tal como prevista no art. 105, I, "e", da Constituição Federal, diz respeito aos seus próprios julgados, quando neles tenha sido examinada e decidida questão relacionada ao mérito de certa demanda, ou, nos termos da inovação introduzida pelo art. 966, § 2º, II, do CPC/2015, quando não houver sido admitido determinado recurso, parcial ou integralmente, e o recorrente, objetivando desconstituir essa decisão, insista em fazer ver ao Tribunal que era hipótese de admissão, por quaisquer dos motivos previstos nos incisos I a VIII do referido art. 966.
+No caso trazido a exame, verifica-se que não houve nenhum pronunciamento do Superior Tribunal de Justiça acerca da questão litigiosa referida na petição inicial da ação.
+Considerando que o propósito do autor é ver rescindida decisão proferida por Desembargador do Tribunal de Justiça do Pará que concluiu não ser possível conhecer de apelação por verificar irregularidade na representação processual do recorrente, parece claro que somente houve erro no endereçamento da ação rescisória, não havendo necessidade de, na forma do art. 968, § 5º, do CPC/2015, abrir-se prazo para emenda da inicial.
+À vista do exposto, não conheço da presente ação rescisória.
+Dado o pedido urgente formulado pelo autor (e-STJ, fls. 23-24), remetam-se os autos, de imediato, ao Tribunal de Justiça do Pará, com a devida baixa, sem necessidade de se aguardar o decurso de prazo.
+Publique-se.
