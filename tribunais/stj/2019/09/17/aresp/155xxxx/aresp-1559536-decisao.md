@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ, além da ausência de violação do art. 1.022 do CPC/2015 (e-STJ fls. 356/357).
+O acórdão recorrido está assim ementado (e-STJ fl. 310):
+Ação de obrigação de fazer cumulada com pedido de tutela de urgência - Sentença de procedência - Insurgência da autora - Recurso que se limita à discussão do valor fixado a título de honorários advocatícios - Verba honorária majorada para R$2.500,00, considerada a complexidade da demanda - Recurso provido.
+Dá-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 321/325).
+Nas razões do recurso especial (e-STJ fls. 328/346), interposto com fundamento no art. 105, III, "a", da CF, o recorrente indicou ofensa aos seguintes dispositivos:
+(i) art. 1.022, I e II, alegando negativa de prestação jurisdicional,
+(ii) art. 82, § 2º, do CPC/2015, sustentando "a obrigatoriedade legal de arbitramento de honorários sucumbenciais entre 10% e 20% do valor da causa." (e-STJ fl. 338)
+O recorrido apresentou contraminuta (e-STJ fls. 477/483).
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Assim, não incorreu em omissão, contradição, obscuridade ou erro material.
+Além disso, o julgador não está compelido a analisar todos os argumentos invocados pela parte, quando tenha encontrado fundamentação satisfatória para dirimir integralmente o litígio.
+Desse modo, quanto à alegada afronta ao art. 1.022, I e II, do CPC/2015, não assiste razão ao recorrente.
+No mais, a discussão travada no recurso é apenas em relação ao valor arbitrado a título de honorários sucumbenciais.
+O Código de Processo Civil de 2015 criou regras mais claras quanto aos honorários de sucumbência, inclusive modificando a jurisprudência em pontos nos quais o entendimento consolidado não mais se mostrava adequado, à luz da atual dinâmica do processo civil brasileiro.
+Relativamente aos limites dos valores dos honorários advocatícios sucumbenciais, a nova lei processual previu as situações nas quais a verba sucumbencial pode ser arbitrada por apreciação equitativa, limitando-as às causas "em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo" (art. 85, § 8º).
+A jurisprudência desta Corte também se manifestou sobre o assunto firmando entendimento de que a incidência do critério equitativo apenas deve ocorrer em caráter residual. É que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório, ou (b) o valor da causa for muito baixo.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO POR DECISÃO MONOCRÁTICA. SÚMULA N. 568/STJ. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. AUSÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES PERCENTUAIS. OBSERVÂNCIA. DECISÃO MANTIDA.
+1. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Súm 568 do STJ).
+2. Para fixação dos honorários sucumbenciais, deve-se observar "a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+3. No caso concreto, ante o julgamento de improcedência dos pedidos deduzidos, não se tratando de demanda de valor inestimável ou irrisório, é impositivo o arbitramento da verba honorária, nos termos do art. 85, § 2º, do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.788.448/DF, de minha relatoria, QUARTA TURMA, julgado em 10/6/2019, DJe 12/6/2019.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+ ..
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019.)
+Esclarecidas as considerações sobre o critério de fixação, outro debate foi estabelecido nesta Corte, relativo ao termo inicial para incidência das novas regras sobre os honorários sucumbenciais. Então, em março de 2019, foi firmado entendimento no sentido de que a data da sentença é o marco temporal para a aplicação das regras fixadas pelo CPC/2015:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova.
+2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado.
+Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos.
+(EAREsp 1.255.986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/3/2019, DJe 6/5/2019.)
+No presente caso, o TJSP, a partir das circunstâncias analisadas nos autos, deu provimento ao recurso de apelação para majorar o quantum dos honorários sucumbenciais para R$ 2.500,00 (dois mil e quinhentos reais).
+Entretanto, tendo sido proferida a sentença sob a égide do CPC/2015 e não sendo verificadas as situações excepcionais do art. 85, § 8º, do CPC/2015, os honorários sucumbenciais devem ser fixados segundo a regra objetiva do art. 85, § 2º, do CPC/2015, observado o patamar de dez a vinte por cento do valor da condenação, do proveito econômico obtido ou da causa.
+Considerando que o valor atribuído à causa foi de R$ 50.000,00 (cinquenta mil reais), em 30/3/2017, aliado à complexidade e ao tempo para o julgamento da demanda, entendo que os honorários devem ser fixados em 10% (dez por cento), sobre o valor da causa, percentual que remunera com dignidade o causídico.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, para fixar os honorários advocatícios em 10% (dez por cento) do valor atualizado da causa.
+Publique-se. Intimem-se.
