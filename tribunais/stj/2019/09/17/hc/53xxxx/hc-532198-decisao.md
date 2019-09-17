@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu o pedido liminar no writ lá impetrado.
+Consta dos autos que o paciente teve prisão preventiva decretada em 10/8/2019 pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Impetrado mandamus na origem, a liminar foi indeferida.
+Daí o presente writ, em que a impetrante sustenta, em síntese, a ocorrência de flagrante ilegalidade no caso vertente, a autorizar a mitigação do óbice da Súmula 691/STF.
+Alega, em suma, ausência de fundamentação e dos requisitos para a custódia cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas.
+Na origem, verifica-se do Habeas Corpus n. 2198481-11.2019.8.26.0000 que a liminar foi indeferida pela Corte local em 6/9/2019.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+O Tribunal a quo indeferiu o pedido liminar nos seguintes termos (fl. 15):
+Sustenta a impetrante que o paciente sofre constrangimento ilegal pelo MM. Juiz de Direito da 2ª Vara Criminal da Comarca de Itapira, uma vez que estão ausentes os requisitos autorizadores da custódia cautelar, bem como que há ausência de fundamentação idônea. Aduz, ainda, que ele possui 55 (cinquenta e cinco) anos de idade e é portador de epilepsia e faz uso de medicamentos de uso controlado como Gardenal (fls. 16).
+Postula, liminarmente, pela concessão da liberdade provisória. Subsidiariamente, pede a aplicação de medidas alternativas à prisão.
+No entanto, as circunstâncias de fato e de direito deduzidas na presente impetração não autorizam a concessão da liminar alvitrada, uma vez que não evidenciam a presença do fumus boni iuris e do periculum in mora necessários.
+Ademais, a liberdade provisória não dispensa o exame minudente acerca do preenchimento de requisitos objetivos e subjetivos típicos desse instituto, portanto, inadequado à sumária cognição que distingue a presente fase do procedimento.
+Indefiro, por conseguinte, a liminar.
+Requisitem-se informações da autoridade judiciária indigitada coatora, remetendo-se os autos, em seguida, à Douta Procuradoria Geral de Justiça.
+Consta da decisão que decretou a prisão preventiva (fls. 50/52):
+Destaca-se que o acusado possui outros apontamentos criminais, consoante fls. 24/26, o que denota a necessidade da segregação cautelar para evitar a reiteração delitiva e garantir a ordem pública. Além disso, o averiguado foi encontrado na posse de quase 1 kilo de entorpecente, o que indica a mercancia reiterada, a corroborar a necessidade da prisão preventiva. Ante o exposto, nos termos do artigo 310, inciso II, do Código de Processo Penal, CONVERTO EM PRISÃO PREVENTIVA A PRISÃO EM FLAGRANTE DE [NOME] [NOME] [NOME], pela conduta prevista no artigo 33, "caput", da Lei 11.343/06, pois presentes os requisitos dos artigos 312 e 313 do referido Diploma Legal e inadequadas e insuficientes as medidas cautelares diversas da prisão, pelas razões supracitadas. Diante do problema de saúde do averiguado, que necessita de tratamento de uso contínuo, determino que, após o acusado ser encaminhado a penitenciária, que lhe seja fornecido atendimento médico, bem como, se necessário, a critério do médico, lhe seja fornecido também o fármaco para o seu tratamento. EXPEÇA-SE MANDADO DE PRISÃO PREVENTIVA em desfavor de [NOME]  .. .
+Como se vê, constou do decreto prisional fundamentação concreta para a segregação cautelar, com base na reiteração delitiva do paciente (fls. 40/41) e na elevada quantidade de droga apreendida: 3 porções de maconha, pesando 852g (fl. 22).
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
