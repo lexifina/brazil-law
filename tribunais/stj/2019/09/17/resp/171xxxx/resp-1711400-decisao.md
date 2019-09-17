@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TJES assim ementado:
+PROCESSUAL CIVIL - RECURSO ESPECIAL NO AGRAVO INOMINADO NO AGRAVO DE INSTRUMENTO - ART. 1.030, INC. II, DO NOVO CÓDIGO DE PROCESSO CIVIL - EXECUÇÃO FISCAL - CITAÇÃO EDITALÍCIA - POSSIBILIDADE - PRÉVIA TENTATIVA DE CITAÇÃO POR OFICIAL DE JUSTIÇA - JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+Consoante a jurisprudência do Egrégio Tribunal de Justiça do Espírito Santo, "não é razoável exigir a utilização citação pelos Correios, direcionada para o mesmo endereço em que o Oficial de Justiça já esteve e não logrou êxito, para, somente após a frustração desta segunda tentativa de citação, realizar-se a citação por edital" (recurso de apelação cível nº 024.090.011.164, de relatoria do Exmº. Sr. Desembargador Samuel Meira Brasil Júnior).
+A parte recorrente se opõe a negativa de seguimento do recurso especial e reitera a alegação de violação:
+a) do art. 535 do CPC/1973, por considerar obrigatória a integração pedida nos embargos de declaração, pertinente ao art. 135, III, do CTN, ao art. 146, III, "b", da CF e à divergência de julgamento da mesma turma e inaplicabilidade do REsp usado como paradigma.
+b) dos arts. 213, 214 e 221 do CPC/1973, ao argumento de a citação por edital ser nula por não ter observado todos os ditames da Lei, uma vez que a tentativa de citação pessoal se deu em endereço errado fornecido pelo contribuinte.
+c) do art. 135 do CTN, por entender não ser possível o redirecionamento da execução a terceiro ilegítimo para figurar no polo passivo.
+Contrarrazões apresentadas pelo ESTADO DO ESPÍRITO SANTO, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 1.011/1.014).
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+No presente caso, o aresto atacado por este novo recurso especial negou provimento ao agravo interno de que trata o art. 1.030, § 2º, do CPC, confirmando a negativa de seguimento ao recurso especial com o fundamento de que o acórdão recorrido estaria em conformidade com precedente obrigatório formado pela sistemática dos recursos repetitivos.
+"Mostra-se inadmissível, todavia, a interposição de Recurso Especial contra acórdão que, no julgamento de Agravo Regimental ou interno, em 2º Grau, mantém a decisão que negou seguimento ao apelo anterior, com base no art. 1.030, I, b, do CPC/2015 (art. 543-C, § 7º, I, do CPC/73)" (AgInt no AREsp 1.163.185/PE, Relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 13/12/2018).
+No mesmo sentido: AgRg no AREsp 617.182/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 12/02/2015; AgRg no AREsp 652.000/PB, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 17/06/2015; AgRg no REsp 1.509.944/PB, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 06/05/2015; AgRg no AREsp 535.840/PB, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 16/09/2014.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
