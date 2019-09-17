@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “BARGOS INFRINGENTES EM APELAÇÃO CRIMINAL - ROUBO MAJORADO (ART. 157, §2°, I E II, DO CP) - PEDIDO DE REDUÇÃO DA PENA -BASE AO MÍNIMO LEGAL - MODULADORA DAS CIRCUNSTÂNCIAS DO CRIME - POSSIBILIDADE DE UTILIZAÇÃO DE UMA MAJORANTE COMO CIRCUNSTÂNCIA JUDICIAL DESFAVORAVEL - PENA MANTIDA - REGIME INICIAL FECHADO - PRETENDIDO ABRANDAMENTO - IMPOSSIBILIDADE ANTE A GRAVIDADE CONCRETA DA CONDUTA PRATICADA - COM O PARECER - RECURSO IMPROVIDO.
+    Havendo duas causas de aumento de pena, é admissível que uma delas sirva para exasperar a pena -base na primeira fase do cálculo da reprimenda e a outra para caracterizar causa de aumento na terceira fase da dosimetria. Precedentes do STJ.
+    A censurabilidade e a gravidade da conduta praticada (roubo duplamente majorado pelo emprego de arma de fogo e concurso de agentes) justificam a fixação do regime fechado para início do cumprimento da pena.
+    Com o parecer, recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXIX, LIV, XLI e LVII, da CF. Sustenta que: (i) “o acórdão recorrido afronta diretamente o artigo 59 e 68 e inciso I, §2°, do art. 157, todos do Código Penal, ao manter sentença condenatória que valorou como circunstância judicial, causa de aumento de pena legalmente prevista, já que gera acréscimo maior a pena do recorrente, do que se aplicada como causa de aumento de pena”; (ii) “uma vez sendo afastada o ‘uso de arma’ como circunstância judicial, que por consequência conduzirá a fixação da pena base para o mínimo legal, o regime inicial de cumprimento da reprimenda deverá ser modificado para o semiaberto, com fulcro no artigo 33, § 2°, alínea ‘b’, do Código Penal”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    A controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel. Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
