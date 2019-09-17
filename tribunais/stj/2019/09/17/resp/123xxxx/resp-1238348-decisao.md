@@ -1,0 +1,53 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Belo Horizonte, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 150):
+APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO TRIBUTÁRIO - ITBI - NEGÓCIO JURÍDICO ANULADO ATRAVÉS DE DECISÃO JUDICIAL - FATO GERADOR INEXISTENTE - PROCEDÊNCIA DO PEDIDO. Não se efetivando o fato gerador do ITBI, qual seja, a transmissão de imóvel, haja vista a anulação do respectivo negócio jurídico através de decisão judicial, tem-se como devida a restituição de indébito da quantia indevidamente recolhida a esse título aos cofres municipais, até mesmo sob pena de enriquecimento sem causa.
+
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados.
+O recorrente alega a existência de contrariedade aos arts. 535 do CPC/1973 e 118 do CTN.
+Articula, preliminarmente, com a nulidade do acórdão do julgamento dos declaratórios.
+Argumenta, em síntese, que "a cobrança do ITBI pelo Município de Belo Horizonte se revestiu de todas as formalidades tributárias e legais. A arrematação do imóvel se concretizou e produziu seus efeitos jurídicos. Assim sendo, não há que se falar em restituição do valor pago" (e-STJ, fl. 174).
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+De início, quanto à alegada violação do art. 535 do CPC/1973, verifico que o insurgente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+Ao assentar o direito do contribuinte à restituição do ITBI pago, o Tribunal a quo consignou (e-STJ, fl. 152/153):
+Extrai-se dos autos ter o apelado arrematado um imóvel objeto de praça perante a Justiça do Trabalho (carta de arrematação de f. 12), recolhendo, conseqüentemente, em decorrência de tal negócio jurídico o ITBI ao Fisco do Município de Belo Horizonte, ora apelado, conforme guias de recolhimento de f. 16-17. Entretanto, através de decisão judicial transitada em julgado (f. 19-37), foi referido negócio jurídico anulado, razão pela qual pretende o autor, através da presente ação, a restituição do imposto recolhido.
+Data venia, razão assiste ao apelante ao afirmar que, anulado o negócio jurídico que teria dado ensejo ao pagamento do imposto ao Município apelado, devido se mostra sua repetição.
+Isso porque, em que pese aparentasse ser válido o negócio jurídico em discussão, no momento em que efetivada a arrematação do imóvel pelo apelante, certo é que, sendo este desconstituído através de decisão judicial, a obrigação de recolher o tributo municipal deixou de existir.
+Sobre o conceito do fato gerador dos tributos, dispõe o Código Tributário Nacional:
+"Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência"
+Conforme sabido, nos termos do estabelecido no art. 156, inc. II, da Constituição Federal, é o ITBI devido em razão da "transmissão, inter vivos, a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição". Desta forma, possuindo o ITBI, repita-se, como fato gerador a transmissão de propriedade de bem imóvel, desfeita tal transmissão em virtude de decisão judicial, o sinal de riqueza inerente ao conceito de tal tributo deixa de existir no mundo jurídico, tornando-o, portanto, inexigível.  ..
+Nas razões do especial, o recorrente não refutou tal premissa, qual seja, da posterior anulação, por meio de decisão judicial, do negócio jurídico, fato gerador do ITBI, constante do pronunciamento atacado, a qual, portanto, permanece incólume.
+A não impugnação de fundamento suficiente para manter o acórdão combatido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp 1.367.651/MG, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe 3/12/2013)
+A par disso, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do CPC/1973, vigente à época da interposição do apelo, e 255, § 1º, do Regimento Interno do STJ, uma vez que o recorrente apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO POPULAR. LESIVIDADE PATRIMONIAL AFERIDA, NA ESPÉCIE. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO OU QUE TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS E REGIMENTAIS. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Popular proposta contra o Município de Alto Rio Doce/MG, [NOME] e [NOME], alegando o autor, em síntese, que o réu [NOME], na qualidade de Prefeito do Município, contratou a ré Denise, diretamente, sem realização de prévio concurso público ou processo seletivo. Pugna o autor popular pela declaração de nulidade do contrato administrativo e a condenação do réu [NOME] a ressarcir, ao Erário municipal, todos os vencimentos, gratificações, diárias de viagens, indenizações e horas extras, que foram pagos, durante o período de vigência do contrato impugnado. O Tribunal de origem manteve a sentença de procedência da ação.
+III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgInt no REsp 1.257.119/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 28/03/2019; AgInt no REsp 1.627.362/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/02/2019.
+IV. Nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, a divergência jurisprudencial exige comprovação - mediante a juntada de certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na internet, com indicação da respectiva fonte - e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a simples transcrição de ementas, sem realizar o necessário cotejo analítico - como ocorreu, no caso -, a evidenciar a similitude fática entre o acórdão recorrido e os paradigmas apontados e a divergência de interpretação.
+V. Agravo interno improvido.
+(AgInt no REsp 1.782.946/MG, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 29/4/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
