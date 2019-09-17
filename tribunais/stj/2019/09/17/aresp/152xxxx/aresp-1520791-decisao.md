@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por ROBSON [NOME] DA SILVA e RAIONY [NOME], contra decisão que inadmitiu recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ROBSON [NOME] DA SILVA, a parte Recorrente foi intimada do acórdão recorrido em 23/03/2017, sendo o recurso especial interposto somente em 20/04/2017.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Ainda, a parte Recorrente ROBSON [NOME] DA SILVA não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. [NOME].
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Outrossim, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, tendo em vista que a petição apresentada às fls. 909/911 não trouxe os documentos nela mencionados. Além disso, ressalto que a petição de fls. 913/915 não pode ser aceita para o fim de regularização da representação, em razão da preclusão consumativa, uma vez que já realizado o ato, por meio da petição de fl. 909/911, que veio sem os documentos.
+Dessa forma, a representação processual não foi devida e oportunamente regularizada.
+Quanto à irresignação de RAIONY [NOME], a parte Recorrente foi intimada do acórdão recorrido em 23/03/2017, sendo o recurso especial interposto somente em 26/04/2017.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
