@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO AÇÃO ORDINÁRIA EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO PROVIDO APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO PREJUDICADA CONSIDERANDO A RESISTÊNCIA AO MÉRITO NA IMPUGNAÇÃO À CONTESTAÇÃO AGRAVO INTERNO PROVIDO RECONHECIMENTO DE PERÍODO RURAL TRABALHADO COMO EMPREGADO DEPOIMENTOS VAGOS AGRAVO INTERNO PROVIDO APELAÇÃO DESPROVIDA
+Quanto à controvérsia trazida aos autos, alega violação dos arts. 55, § 3º, e 106 da Lei n. 8.213/91, no que concerne à comprovação do tempo de serviço, trazendo o(s) seguinte(s) argumento(s):
+Registre-se que a prova testemunhal foi firme ao informar que o autor trabalhou por cerca de 20 anos ou mais para a pessoa de [NOME], na atividade de motorista de trator e caminhão (fl. 194).
+Assim sendo, a prova testemunhal confirmou integralmente o início de prova material apresentado, ou seja, de que o autor trabalhou por cerca de 20 anos para o referido empregador, isto é, não tendo registro nos primeiros anos trabalhados (fl. 194).
+Assim sendo, tem-se que o acórdão a quo violou o quanto disposto nos arts. 55, § 3º e 106 da Lei 8.213/91, na medida em que deixou de reconhecer a documentação juntada pelo autor e não infirmada pelo réu, o que constitui início de prova material suficiente a cumprir com a exigência legal acima apontada (fl. 196).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
