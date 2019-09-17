@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). EMBARGOS À EXECUÇÃO. DUPLICATA SEM ACEITE. PROTESTO. FALTA DE COMPROVAÇÃO DOS SERVIÇOS CONTRATADOS. INVALIDADE DO TÍTULO DE CRÉDITO PARA EMBASAR A EXECUÇÃO. ENTENDIMENTO DIVERSO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto pela ASSOCIAÇÃO BENEFICENTE NOSSA SENHORA DE NAZARÉ contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado (fl. 401, e-STJ):
+EMBARGOS À EXECUÇÃO - DUPLICATA SEM ACEITE - AUSÊNCIA DE COMPROVAÇÃO DA PRESTAÇÃO DE SERVIÇOS E NOTAS FISCAIS CORRESPONDENTES - REQUISITOS DO ART. 15 DA LEI 5.474/68 NÃO PREENCHIDOS - SENTENÇA PROCEDENTE - NEGADO PROVIMENTO AO RECURSO.
+Nas razões do recurso especial (fls. 418-434, e-STJ), a recorrente apontou, além da existência de dissídio jurisprudencial, violação aos seguintes dispositivos normativos: art. 585 do CPC/73; 15, inciso II, da Lei nº 5.474/68; e art. 8º, parágrafo único, da Lei nº 9.429/97, sustentando, em síntese, que o Tribunal de origem não atribuiu aos documentos que aparelharam a inicial da execução - títulos executivos extrajudiciais - o valor jurídico adequado, ignorando, ainda, a comprovação da prestação dos serviços, o que não foi considerado no acórdão recorrido, uma vez que a recorrente trouxe aos autos notas fiscais eletrônicas, comprovando que, além da identificação das partes, datas e valores, cada documento indica a que serviços se refere, inclusive mencionando os números próprios dos procedimentos internos adotados pelas partes para as contas médicas.
+Contrarrazões apresentadas às fls. 437-449, e-STJ.
+Em decisão monocrática (fls. 450-451, e-STJ), foi indeferida a subida do recurso especial, motivo pelo qual foi interposto o agravo em recurso especial às fls. 454-464, e-STJ.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+No tocante ao mérito, sem razão a recorrente, uma vez que a duplicata sem aceite, com o protesto levada a efeito, mas desacompanhada do comprovante de demonstração dos serviços contratados não é instrumento hábil a embasar a execução do mencionado título de crédito.
+A propósito, o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENDOSSO-TRANSLATIVO. PROTESTO INDEVIDO DE TÍTULO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. QUESTÃO DECIDIDA PELO RITO DO ART. 543-C DO CPC. REVISÃO DO JULGADO. SUMULA 7/STJ. INCIDÊNCIA.
+1. "O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente a causa para conferir lastro a emissão de duplicata, responde pelos danos causados diante de protesto indevido, ressalvado seu direito de regresso contra os endossantes e avalistas" (REsp 1.213.256/RS, Relator o Ministro LUIZ FELIPE SALOMÃO, DJe de 14/11/2011) 2. No caso, o acórdão recorrido concluiu que o banco recebeu o título de crédito por endosso translativo e agiu de forma culposa ao levar a protesto duplicata sem aceite e sem o comprovante da entrega da mercadoria ou do serviço prestado.
+3. Acrescente-se que a revisão do julgado, no sentido de que o protesto era devido, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 172.854/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/12/2012, DJe 01/02/2013)
+Além disso, para aferir as alegações da recorrente e afastar as premissas firmadas pelo Tribunal de origem, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - APELAÇÃO - AÇÃO DE CANCELAMENTO DE PROTESTO - DUPLICATAS SEM ACEITE - PROTESTO DO TÍTULO - AUSÊNCIA DA PROVA DO PAGAMENTO - RELAÇÃO NEGOCIAL ENTRE AS PARTES E ENTREGA DAS MERCADORIAS COMPROVADAS - REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO - INCIDÊNCIA DA SÚMULA 7/STJ - ÔNUS DA PROVA - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIAS DAS SÚMULAS 282 E 356/STF - DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO - AUSÊNCIA DE COTEJO ANALÍTICO - DECISÃO AGRAVADA MANTIDA.
+1.- No caso concreto, o Tribunal de origem concluiu que a prova produzida via documental e testemunhal foi suficiente para comprovar a relação negocial entre as partes, bem como a entrega das mercadorias, não existindo, destas forma, óbice para o protesto das duplicatas, ante a ausência de prova do pagamento. Assim, a convicção a que chegou a Corte Estadual decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial pela incidência do enunciado 7 desta Corte Superior.
+(..)
+4.- Agravo Regimental a que se nega provimento" (AgRg no AREsp 406.153/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/11/2013, DJe 10/12/2013).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários advocatícios fixados pela Corte local em 15% (quinze por cento) para 17% (dezessete por cento) do valor atualizado da execução, observada a concessão da assistência judiciária gratuita.
+Intimem-se.
