@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município do Rio de Janeiro, com base no art. 105, III, alínea "a", da Constituição da República, contra acórdão prolatado pelo TRF da 2ª Região assim ementado:
+TRIBUTÁRIO. EMPRESA PÚBLICA. CASA DA MOEDA DO BRASIL. SERVIÇOS DE COMPOSIÇÃO GRÁFICA. ISS. IMUNIDADE TRIBUTÁRIA RECÍPROCA.
+I - Se a empresa pública presta, por delegação, serviço público obrigatório e exclusivo, próprio da entidade política que a criou, goza de imunidade a impostos sobre patrimônio, renda e serviços, conforme preceitua o artigo 150, inciso VI, "a", da Constituição de 1988, pois atua como a longa manas da pessoa política que a criou por meio de lei.
+II - A fabricação do papel-moeda e da moeda metálica nacionais, a impressão dos selos postais e fiscais federais e dos títulos da dívida pública federal são serviços públicos obrigatórios que competem exclusivamente ao Poder Público, com respaldo no texto constitucional (art. 21, inciso VII, no que se refere à emissão da moeda) e legal (Lei n. 5.895/73, art. 2º - no tocante aos outros serviços gráficos desempenhados com exclusividade, mencionados acima), tendo sido delegados à Casa da Moeda do Brasil (empresa pública federal), o que afasta a incidência do ISS sobre tais serviços, diante da imunidade recíproca conferida pelo art. 150, inciso VI, "a", da [NOME].
+III - Não se pode dizer, contudo, que a confecção de bilhetes magnetizados para o uso de transportes coletivos, tíquetes do programa oficial de fornecimento de leite e de alimentação, tíquetes de construção, passaportes, cédulas de identificação, carteiras de habilitação e atestados de bons antecedentes sejam serviços públicos, vez que não foram atividades gráficas atribuídas com exclusividade pelo Poder Público à Casa da Moeda do Brasil, por delegação.
+IV - Apelo da Casa da Moeda do Brasil a que se nega provimento.Parcial provimento à remessa oficial e ao apelo do Município do Rio de Janeiro.
+Em suas razões, o recorrente acusa violação dos arts. 808 do CPC/1973 e 8º, e item 77 da Lista Anexa ao Decreto-Lei n. 406/1968, c/c o art. 2º da Lei n. 5.895/1973.
+Levanta, em preliminar, a perda superveniente do objeto da ação cautelar, uma vez que a execução fiscal que a autora pretendia inibir já teria sido ajuizada e até mesmo embargada, constituindo seus processos principais.
+Sustenta, em síntese, ser devida a tributação da Casa da Moeda do Brasil pelos serviços de composição gráfica de selos fiscais, tendo em vista não se tratar de prestação de serviço público.
+Assevera que "a autora é empresa pública que explora atividade econômica (basta confirmar que é remunerada pelos serviços que presta, serviços estes que poderiam ser prestados por qualquer outra empresa gráfica atuante no mesmo mercado que a autora) e nessa qualidade há de ser tratada como entidade de direito privado, sujeitando-se normalmente às incidências tributárias que ocorram em suas atividades, sob pena de criar um privilégio não extensivo às demais empresas privadas que poderiam concorrer com ela na prestação do serviço de composição gráfica" (e-STJ, fl. 655).
+Contrarrazões recursais apresentadas às e-STJ, fls. 670-684.
+Admitido o apelo extremo na origem (e-STJ, fl. 705), subiram os autos a esta Corte.
+É o relatório.
+Quanto à alegada perda superveniente do objeto da cautelar, o recorrente busca no voto vencido a argumentação que escora sua tese recursal.
+Entretanto, nos termos da Súmula 320/STJ, "a questão federal somente ventilada no voto vencido não atende ao requisito do prequestionamento", não havendo como se levar em consideração tais argumentos.
+Portanto, o recurso especial não supera o exame de admissibilidade nesse tópico.
+No mérito, cinge-se a questão à existência de imunidade tributária da Casa da Moeda do Brasil relativa ao ISS incidente sobre serviços de composição gráfica de selos fiscais.
+Todavia este Superior Tribunal de Justiça já decidiu nas diversas oportunidades em que provocado sobre o tema, que a matéria possui cunho eminentemente constitucional, porque regida pelos arts. 150, VI, "a" e § 2º, e 173, §§ 1º e 2º, da Constituição da República, sendo defeso o exame por esta Corte, sob pena de usurpação da competência do Pretório Excelso.
+Nesse contexto, eventual contrariedade, caso existente, ocorreria apenas no plano constitucional, de modo que se configura inviável a rediscussão da matéria pelo Superior Tribunal de Justiça no recurso especial.
+Consoante reiterada jurisprudência desta Corte, não compete ao Superior Tribunal de Justiça, na via do recurso especial, analisar eventual contrariedade a preceito do contido na CF/1988, tampouco uniformizar a interpretação de matéria constitucional.
+A corroborar com tal posicionamento, em hipóteses assemelhadas:
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI N. 12.546/11. BASE DE CÁLCULO. RECEITA BRUTA DA EMPRESA. PRETENSÃO DE EXCLUSÃO DO ICMS, ISS, PIS E COFINS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI. CONCEITO CONSTITUCIONAL DE RECEITA E FATURAMENTO. VIA INADEQUADA. IMPOSSIBILIDADE DE APRECIAÇÃO.
+1. A alegação genérica de violação do art. 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. Na espécie, o Tribunal de origem apreciou a controvérsia acerca da base de cálculo da contribuição previdenciária instituída pela Lei n. 12.546/2011 sob enfoque constitucional, à luz do princípio da presunção de constitucionalidade de que gozam as leis, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+3. Segundo a jurisprudência majoritária desta Corte, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado nesta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Agravo regimental improvido.
+(AgRg no REsp 1.505.664/SC, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 3/3/2015, DJe 9/3/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. ACÓRDÃO RECORRIDO QUE TRATOU DO TEMA COM ENFOQUE EXCLUSIVAMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL.
+1. O Tribunal de origem reconheceu a exclusão do ICMS da base de cálculo do PIS e da COFINS ao aplicar precedente do Supremo Tribunal Federal que analisou a questão sob o enfoque do conceito de faturamento previsto no art. 195, I, "b", da Constituição Federal.
+Diante desse contexto, é de se reconhecer que o tema possui nítidos contornos constitucionais, o que impossibilita sua análise em sede de recurso especial, eis que a questão extrapola a competência desta Corte prevista no art. 105, III, da Constituição Federal.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.487.527/MG, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/11/2014, DJe 26/11/2014)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. COFINS. BASE DE CÁLCULO. INCONSTITUCIONALIDADE DO § 1º DO ART. 3º DA LEI 9.718/98 DECLARADA PELO STF. INOVAÇÃO RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. ACÓRDÃO QUE DECIDIU A MATÉRIA SOB FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE VEDADA, EM SEDE DE RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Descabe a esta Corte emitir juízo de valor, em Agravo Regimental, sobre teses que não foram objeto do Recurso Especial, por se tratar de inovação recursal, vedada, em razão da preclusão consumativa.
+Inovação do feito que não se admite. Precedentes.
+II. Trata-se de Execução Fiscal que visa cobrar débitos da COFINS, com base no § 1º do art. 3º da Lei 9.718/98, que foi declarado inconstitucional, pelo STF, por considerar que o ordenamento jurídico brasileiro não contempla a figura da constitucionalidade superveniente. O acórdão de origem manteve a extinção do processo de execução, haja vista a inconstitucionalidade dos fundamentos jurídicos do título executivo.
+III. Inviável o Recurso Especial, interposto contra acórdão que decidiu a controvérsia sob enfoque exclusivamente constitucional.
+Precedentes do STJ.
+IV. "A discussão relativa à validade da alteração da base de cálculo do PIS e da Cofins pela Lei 9.718/1998, notadamente no que tange à definição dos conceitos de receita bruta e faturamento, foi dirimida pelo Tribunal a quo com base na interpretação do art. 195, I, da CF.
+Nesse contexto, é inviável reformar o acórdão recorrido no STJ, sob pena de usurpar a competência do Supremo Tribunal Federal, visto que a questão de fundo do presente feito foi tratada na origem à luz de fundamentos constitucionais, o que torna inviável sua alteração em Recurso Especial" (STJ, AgRg no Ag 1.407.946/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/9/2011).
+V. Agravo Regimental não provido.
+(AgRg no AREsp 346.760/PE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/5/2014, DJe 14/5/2014)
+Cabe referir que existe nos autos recurso extraordinário admitido, pelo qual a Corte Suprema poderá analisar eventual violação de cunho constitucional.
+Ante o exposto, com fulcro no art. 932, inc. III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
