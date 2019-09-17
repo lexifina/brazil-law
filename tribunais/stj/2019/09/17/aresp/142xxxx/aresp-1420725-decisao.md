@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado (fl. 589, e-STJ):
+EXECUÇÃO. INEXIGIBILIDADE DO TÍTULO. QUESTÃO JÁ APRECIADA. Insurgência contra decisão que deixou de reconhecer nulidade da execução. Decisão mantida. Nulidade da execução já havia sido decidida por agravo de instrumento interposto anteriormente, sendo inviável a sua rediscussão nesta sede (art. 507, CPC). Recurso não conhecido.
+Opostos embargos de declaração, esses foram rejeitados.
+Nas razões do recurso especial, além de divergência jurisprudencial, a recorrente aponta violação aos artigos 278, parágrafo único, 783 e 803, I, do Código de Processo Civil/2015.
+Afirma que embora os exequentes estejam requerendo a execução de cláusula do contrato relativa à impossibilidade de continuarem com o imóvel, a respectiva posse jamais foi devolvida ao agravante, tanto que o filho dos exequentes ajuizou ação de usucapião relativa ao mesmo bem, alegando posse mansa e pacífica desde março/1996 (antes mesmo de ser lavrada a escritura de compra e venda, que data de agosto/1996).
+Alega que a ação da qual teria se originado a necessidade de devolução não teria prosperado, estando arquivada.
+Sustenta a nulidade da execução, ao argumento de que "não há nos autos qualquer comprovação de que os recorridos devolveram o imóvel ao recorrente, pelo contrário existiam vários indícios - que ficaram demonstrados e provados através dos documentos juntados às fls. 490/5452 - que os recorridos na verdade simplesmente transmitiram a aludida posse da propriedade à seu filho [NOME], O QUE POR SI SÓ JÁ TORNA INEXIGÍVEL, INCERTO E ILÍQUIDO O TÍTULO EM QUESTÃO" (fl. 636, e-STJ).
+Sem contrarrazões.
+O recurso especial não foi admitido na origem, conforme a decisão de fls. 647-648 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso especial não merece prosperar, em razão da incidência da Súmula 7/STJ: "A pretensão de simples reexame de provas não enseja recurso especial".
+Com efeito, ao examinar a controvérsia, o Tribunal de origem registrou o seguinte:
+A alegada nulidade da execução por inexigibilidade do título executivo, nos mesmos termos ora aventados, já havia sido invocada pelo agravante no agravo de instrumento nº 638.513-4/ 3-00.
+Veja-se: "a inexigibilidade da obrigação exigida pelos agravantes é patente, porque, no momento que resolveram cobrar o pagamento da indenização prevista na escritura pública de declaração, em razão do cancelamento da venda da propriedade por meio de decisão judicial, concomitantemente tinham e têm o dever de devolver a posse do imóvel ao agravante, sem o que não podem exigir a dívida confessada". E prosseguem :
+"(..) os agravados não devolveram a posse do imóvel, negligenciaram e permitiram que terceiros (seu filho), conforme se vê na certidão de casamento de fls. 1661 (doc. 28), com o seu conhecimento e anuência, ocupassem o imóvel e, através de pleito de usucapião, pretendem titular o imóvel para a família em flagrante enriquecimento ilícito dos mesmos os pais recebem a dívida confessada e o filho continua com a posse do imóvel cuja venda foi cancelada" (p. 280).
+Essas alegações foram efetivamente apreciadas no acórdão que julgou aquele recurso: "alega o agravante, em síntese, que a obrigação constante do título não é exigível, porque não houve a devolução do imóvel. A posse do aludido bem foi transmitida de má-fé pelo agravado ao seu filho e nora" (p. 298), tendo-se concluído que "a controvérsia sobre a posse do imóvel é matéria a ser discutida em sede própria e não constitui óbice ao prosseguimento da execução" (p. 300).
+Desse modo, já tendo a questão ora aventada sido decidida, sem que tenha sido alegado ou demonstrado qualquer fato novo, inviável sua reapreciação (art. 507, CPC).
+Tendo sido esse o único fundamento a embasar o agravo de instrumento, em razão da impossibilidade de análise do mérito, mantém-se a decisão agravada.
+Em princípio, não está demonstrado o comportamento desleal dos agravados nesta execução, lastreada em título judicial a respeito de cuja exigibilidade o Tribunal já se manifestou. Da mesma forma, tampouco se vislumbra má-fé na interposição de recurso autorizado pelo Código de Processo Civil. O que se nota é o alto grau de beligerância entre as partes, provavelmente decorrente da ausência de solução para problema que se arrasta há décadas. Nada disso, contudo, é razão suficiente para condenar qualquer delas nas penas por litigância de má-fé, ao menos nesse momento.
+Como se vê, o Tribunal de origem solucionou a controvérsia à luz do conjunto fático e probatório dos autos, concluindo pela inadmissibilidade de revisão das matérias já decididas em recurso anterior, de sorte que a modificação do acórdão recorrido é providência que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+ ..
+2. A alteração do entendimento firmado no acórdão recorrido, acerca da ocorrência da preclusão consumativa, porquanto já suscitadas e apreciadas as teses trazidas pela parte, demandaria o reexame dos fatos e das provas dos autos, atraindo a incidência da Súmula 7 do STJ, não se tratando de hipótese de revaloração probatória. Precedentes.
+3. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. Agravo interno desprovido.
+(AgInt no AREsp 293.944/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 16/2/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSENTE. FUNDAMENTO NO ACÓRDÃO RECORRIDO. PREQUESTIONAMENTO DAS MATÉRIAS. AUSENTE. SÚMULA 356/STF. VÍCIOS NA ARREMATAÇÃO. IMPENHORABILIDADE DO BEM DE FAMÍLIA. PRECLUSÃO CONSUMATIVA. MATÉRIAS JÁ DECIDIDAS EM AGRAVO DE INSTRUMENTO ANTERIORMENTE INTERPOSTO. ORDEM PÚBLICA. REVISÃO DA CONCLUSÃO ADOTADA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+ ..
+3. Para infirmar a conclusão a que chegou o Tribunal de origem acerca da existência de preclusão, por ter tal matéria sido tratada em recurso anteriormente interposto, seria necessário reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula 7 do STJ. 4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 808.423/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 8/5/2017).
+Em face do exposto, nego provimento ao agravo.
+Quanto à majoração dos honorários em razão do disposto no art. 85, § 11, do Código de Processo Civil/2015, mostra-se incabível, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Intimem-se.
