@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MAPFRE SEGUROS GERAIS S.A. em face de decisão de fls. 125-126, que não conheceu da presente reclamação, determinando, em consequência, sua remessa ao Tribunal de Justiça do Estado de Minas Gerais.
+Em suas razões, a ora embargantes aduz, em resumo, que a decisão embargada foi omissa, pois deixou de observar que, inicialmente, a reclamação foi ajuizada perante o TJMG, todavia, "(..) conforme decisão monocrática do TJMG, proferida às e-STJ fI.102, o Desembargador Relator daquele Tribunal de origem entendeu por bem determinar a remessa da reclamação a esta Colenda Corte Superior de Justiça, sem qualquer requerimento da ora embargante, ou seja, em ato manifestamente individual e alheio à vontade da seguradora/reclamante." (fl. 129)
+Afirma ser "(..) imperiosa a declaração da omissão ora demonstrada, renovada vênia, posto que inexiste o que se falar acerca do não conhecimento da medida, ajuizada em estrita e completa observância à norma de regência, mas, tão somente, na remessa dos autos ao órgão competente, órgão este que se repita, foi o responsável exclusivo pela ordem de remessa do processado a esta Colenda Corte Superior." (fls. 128-133)
+Requer o acolhimento dos embargos, de modo a se reconhecer a inexistência de causa de não conhecimento da reclamação devidamente promovida, "com a declaração de ordem de retorno dos autos ao TJMG, para devido julgamento da reclamação judicial, nos termos da Resolução nº 03/2016, deste Colendo STJ."
+Sem impugnação (fl. 137).
+É o relatório.
+Decide-se.
+Os presentes embargos de declaração não merecem acolhida.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante. Nesse sentido, precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, especificamente a alegada omissão, tendo em vista que não se conheceu da reclamação, determinando-se a remessa dos autos ao TJMG, nos termos do ar. 1.º, da Resolução n.º 03/2016. Ou seja, a providência pedida nos embargos consta expressamente do dispositivo da decisão tida por omissa (fl. 126).
+Assim, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil.
+2. Do exposto, com fundamento no art. 1022, do NCPC, rejeito os embargos declaratórios.
+Publique-se. Intimem-se. Cumpra-se.
