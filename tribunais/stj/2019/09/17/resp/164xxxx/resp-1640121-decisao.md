@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de São Pedro, com base no art. 105, III, alínea "a", da CF/1988, em oposição ao acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 364):
+TRIBUTÁRIO - ISSQN. Corte e descascamento de árvores.
+Alegação de previsão do corte de árvore no item 14.05 da Lista de Serviços anexa à LC 116/2003. Inocorrência. Item que não se refere a corte de árvores. Interpretação extensiva que não pode desvirtuar o sentido da norma.
+Dispositivo que cuida de beneficiamento de objetos manufaturados. Recurso provido. Segurança concedida.
+Em suas razões, o recorrente aponta violação do subitem 14.05 da Lista anexa à Lei Complementar n. 116/2003.
+Alega, em síntese, a incidência do ISS sobre os serviços prestados pela agravada, consubstanciados em corte, descascamento mecanizado e remoção de madeira de eucalipto para terceiro.
+Contrarrazões recursais apresentadas às e-STJ, fls. 385-398.
+Inadmitido o recurso especial na origem, subiram os autos a esta Corte por força do provimento dado em agravo.
+Decido.
+Esta Corte de Justiça possui o entendimento de que, "embora taxativa a Lista de Serviços anexa ao Decreto-Lei n. 406/1968, para efeito de incidência de ISS, admite-se o emprego da interpretação extensiva para serviços congêneres, independentemente da nomenclatura adotada" (AgInt nos EDcl no AREsp 163.723/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 3/5/2018).
+Ocorre que, da leitura do aresto recorrido, se dessume que a análise da tese recursal esbarra na impossibilidade de incursão na seara probatória na via especial, conforme disposto na Súmula 7/STJ.
+Com efeito, não há como se acolher a impugnação da parte sem afastar a afirmação feita pelo Tribunal de origem de que as atividades sobre as quais o município requer a incidência do ISS, mesmo após interpretação extensiva, não são passíveis de tal cobrança.
+Vale conferir excerto do voto condutor do acórdão recorrido (e-STJ, fls. 365/366):
+Embora, diversamente do alegado pela recorrente, seja admissível a interpretação extensiva dos serviços listados na LC n. 116/2003 (conforme pacífica jurisprudência do STJ), impende considerar que o item 14.05 claramente não se refere à atividade de corte de árvores.
+Não se pode destacar um dos núcleos do tipo tributário e descontextualizá-lo, a pretexto de justificar a incidência do tributo onde a lei assim não previu. Destarte, o nome "corte" de objetos quaisquer deve ser analisado dentro do contexto em que inserido.
+E, nesse sentido, fácil visualizar que os demais tipos insertos no mesmo item não guardam a mais remota relação com a atividade desenvolvida pela apelante. Com efeito, não se vislumbra de qual maneira a colheita de árvores se relacionaria, por exemplo, com a pintura, restauração ou polimento.
+Ademais, discutível também parece a caracterização de uma árvore como um "objeto qualquer".
+Frise-se, nessa linha, que o termo "coisa", sinônimo vulgar de "objeto", não apresenta a mesma sinonímia quando empregado no sentido técnico que o direito lhe confere. Também não cabe argumentar que "objetos quaisquer" poderiam ser objetos de direito, porque até bens incorpóreos são objetos de direito e a eles não se refere o dispositivo em análise, como é notório. O emprego do termo no dispositivo, portanto, foi em sentido vulgar.
+Nessa senda, o Dicionário Aurélio" define "objeto" como "tudo que é manipulável e/ou manufaturável", significado que evidentemente não pode ser emprestado a uma árvore, a qual pode constituir, no máximo, matéria-prima para uma manufatura, para um bem manufaturável.
+Conclui-se, assim, que o item 14.05 se refere a atividades que possam ser realizadas sobre manufaturas ou manufaturados, como espécie de beneficiamento, não se aplicando, portanto, à apelante, ao menos na hipótese.
+Esta Casa de Justiça já decidiu:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECADÊNCIA. ISS. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. AUSÊNCIA DE PAGAMENTO ANTECIPADO. EMBARGOS À EXECUÇÃO FISCAL. ISS. SERVIÇOS BANCÁRIOS. LISTA DE SERVIÇOS QUE É TAXATIVA PARA EFEITO DE INCIDÊNCIA DO IMPOSTO, MAS ADMITE LEITURA EXTENSIVA DE CADA ITEM A FIM DE ENQUADRAR SERVIÇOS IDÊNTICOS AOS EXPRESSAMENTE PREVISTOS. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. FAZENDA PÚBLICA. VENCIDA OU VENCEDORA. LIMITES PERCENTUAIS DE 10% A 20%. INEXISTÊNCIA. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. RECURSO ESPECIAL DO ITÁU UNIBANCO.
+ ..
+8. A jurisprudência do STJ pacificou o entendimento de que é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL 406/1968 e à LC 56/1987" (Súmula 424/STJ). Porém, é necessário uma leitura extensiva de cada item, para que se possa enquadrar os serviços correlatos nos previstos expressamente, de modo que prevaleça a efetiva natureza do serviço prestado e não a denominação utilizada pela instituição financeira.
+9. Verificar se as atividades descritas nos autos estão enquadradas na Lista de Serviços inserta no Decreto-Lei 406/68 demanda revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+10. Recurso Especial do Itaú Unibanco não conhecido. Recurso Especial do município de Santo André parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.725.753/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/4/2018, DJe 24/5/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSTO SOBRE SERVIÇOS. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ALEGADA VIOLAÇÃO AO ART. 110 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. VERIFICAÇÃO DO CORRETO ENQUADRAMENTO DA ATIVIDADE DESEMPENHADA NA LISTA DE SERVIÇOS ANEXA À LC 116/2003. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. No caso concreto, o Tribunal de origem, diante do contexto fático-probatório dos autos, reconheceu a incidência do ISS sobre a prestação dos serviços bancários objeto das autuações feitas pela Fazenda Pública do Município de Uberaba, considerando que, embora os referidos serviços não estejam expressamente inseridos na Lista de Serviços anexa à LC 116/2003, afigura-se viável sua tributação, pela interpretação extensiva, para a cobrança do imposto sobre os serviços congêneres, nos termos da jurisprudência do STJ.
+IV. Nesse contexto, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes (STJ, AgRg no REsp 1.404.324/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/09/2015; STJ, AgRg no AREsp 586.402/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/06/2015).
+V. Agravo Regimental improvido.
+(AgRg no AREsp 747.997/MG, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/3/2016, DJe 17/3/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ISSQN. TAXATIVIDADE DA LISTA DE SERVIÇOS. POSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA. SERVIÇOS BANCÁRIOS CORRELATOS ÀQUELES DESCRITOS NO DL 406/68. DEFINIÇÃO DO ENQUADRAMENTO. IMPOSSIBILIDADE DE REVERSÃO DA CONCLUSÃO ALCANÇADA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.111.234/PR, REL. MIN. ELIANA CALMON, DJE 08.10.2009. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte já orientou que a Lista de Serviços anexa ao Decreto-lei 406/68 é taxativa quanto à incidência de ISS, admitindo-se, em ampliação aos já existentes, apresentados com outra nomenclatura, o emprego da interpretação extensiva.
+2. A Corte local afirmou, expressamente, que os serviços objetos de tributação são correlatos àqueles previstos na lista anexa ao DL 406/68, modificado pela Lei Complementar 56 de 1987.
+3. Para se chegar a conclusão diversa da firmada pelas instâncias ordinárias seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 109.763/GO, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/11/2014, DJe 4/12/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
