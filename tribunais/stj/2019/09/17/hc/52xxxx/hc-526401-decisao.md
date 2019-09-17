@@ -1,0 +1,17 @@
+DECISÃO
+[NOME] [NOME] alega sofrer coação ilegal, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0003018-40.2018.8.26.0635.
+Depreende-se dos autos que o paciente foi condenado à pena de 7 anos, 5 meses e 25 dias de reclusão, pela prática de dois delitos de roubo, um consumado e outro tentado, com emprego de arma e concurso de pessoas, e por direção perigosa.
+Busca a defesa o reconhecimento da atenuante da confissão, com a consequente redução da pena.
+Indeferida a liminar (fls. 85-86) e dispensadas as informações, veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 92-95).
+Decido.
+Consta da sentença condenatória que "[NOME] admitiu que praticou o primeiro roubo juntamente com o corréu Renato, mas não apontou a arma para ninguém" (fl. 34).
+O Tribunal a quo registrou que "[NOME] admitiu a prática delitiva da primeira violenta subtração em comparsaria com o corréu Renato, escusando-se, no entanto, com relação ao fato de ter apontado a arma de fogo para a vítima" (fl. 73). Todavia, não incidiu a confissão espontânea no caso, "porquanto a confissão parcial não é suficiente para se reconhecer tal atenuante" (fl. 79).
+Esta Corte Superior possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Dessa forma, verifico o constrangimento ilegal de que estaria sendo vítima o paciente, haja vista que a confissão realizada foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Assim, verifico o constrangimento ilegal que está passando o paciente, pois faz jus à confissão espontânea não reconhecida pelas instâncias antecedentes.
+Caracterizada a ilegalidade, passo à dosimetria da pena em relação aos dois delitos de roubo pelos quais o paciente foi condenado.
+Partindo dos critérios adotados pelas instâncias ordinárias para a dosimetria dos crimes de roubo, verifico que a pena-base foi fixada em 4 anos e 8 meses de reclusão, mais 11 dias-multa, para cada delito. Na segunda fase, reconhecida a confissão espontânea, reduzo a pena em 1/6, o que perfaz 4 anos de reclusão, mais 10 dias-multa. Na terceira fase, a pena foi elevada em 3/8, pelo concurso de agentes e pelo emprego de arma, o que totaliza 5 anos e 6 meses de reclusão, mais 12 dias-multa para cada roubo.
+O segundo delito de roubo foi tentado, razão pela qual a sanção foi reduzida em 2/3, o que resulta em 1 ano e 10 meses de reclusão, mais 4 dias-multa.
+A Corte estadual aplicou a regra da continuidade delitiva e elevou em 1/6 a pena mais grave, o que resulta a pena definitiva pelos dois crimes de roubo em 6 anos e 5 meses de reclusão, mais 14 dias-multa, além dos 6 meses de detenção pelo delito de direção perigosa.
+À vista do exposto, concedo a ordem, a fim de reconhecer a confissão espontânea, reduzindo a reprimenda para 6 anos e 5 meses de reclusão, mais 14 dias-multa, além dos 6 meses de detenção pelo delito de direção perigosa.
+Publique-se e intimem-se.
