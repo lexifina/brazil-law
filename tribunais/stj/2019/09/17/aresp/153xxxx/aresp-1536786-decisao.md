@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu o recurso especial.
+Consta dos autos que o agravante foi condenado às penas de 1 ano e 4 meses de reclusão, em regime inicial aberto, substituída por 2 restritivas de direitos, e de 13 dias-multa, pela prática do crime tipificado no art. 168, § 1º, inciso III, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante à Corte de origem, a qual negou provimento à irresignação, mantendo todos os termos da sentença condenatória.
+Contra a decisão foi apresentado recurso especial, com fulcro na alínea a do inciso III do art. 105 da Constituição Federal, o qual não foi admitido na origem, com fundamento nas Súmulas n. 7, 83 e 211/STJ e n. 279, 282 e 356/STF.
+No presente recurso, alega o agravante que os óbices indicados na decisão de admissibilidade não incidiriam in casu.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo desprovimento da insurgência.
+É o relatório.
+Devidamente impugnada a decisão objurgada, merece análise o inconformismo.
+Nas razões do recurso especial, a defesa alega violação dos arts. 18 e 168 do Código Penal, sob o argumento de que o dolo do acusado não teria sido comprovado, de modo que a absolvição seria de rigor.
+Sobre o assunto, a Corte de origem manteve a sentença condenatória, com os seguintes fundamentos, a saber:
+"A pretensão absolutória do apelante não merece prosperar.
+A existência e a autoria do delito imputado restaram sobejamente comprovadas nos autos, consoante se depreende do extrato de andamento da ação de responsabilidade civil n.º 0003020-18.2013.8.19.0073, juntado às fls. 09/11, pelo qual se verifica que o mandado de pagamento n.º 1602/521/2014MPG, no valor de R$ 16.323,83, em favor da vítima, foi retirado pelo réu, advogado inscrito na OAB/RJ sob o n.º142046, em 24/03/2014.
+Some-se a isso a prova oral produzida, da qual se conclui que a autora da ação de responsabilidade civil, ora vítima, recebeu do acusado, seu advogado, a informação de que havia sucumbido na ação que movera, quando, na verdade, havia saído vencedora e era, como tal, credora dos valores levantados pelo causídico sem o seu conhecimento.
+Segundo a vítima, a farsa só foi descoberta porque, meses após o término da ação, encontrou a ex-esposa do acusado, que lhe informou sobre o levantamento, pelo advogado, do valor a ela devido.
+É verdade que o acusado, ao tomar conhecimento de que a lesada descobrira a farsa, realizou em seu favor depósito de parte do valor a ela devido, e o fez exatamente na data em que foi registrada a ocorrência em sede policial, ou seja, em 07/10/2014. Posteriormente, na evidente esperança de se esquivar de sua responsabilidade criminal, o acusado efetuou, em várias parcelas, o pagamento do restante do valor, conforme se depreende de fls. 04/06 e 40/46.
+Ocorre que a consumação do delito em tela se deu no dia 24/03/2014, ou seja, no momento em que o agente recebeu o valor devido à sua cliente e passou a dele dispor como se seu proprietário fosse.
+Não se alegue que o apelante não tinha o dolo de se apropriar das quantias por ele recebidas, a uma porque a alegação autodefensiva no sentido de ter perdido o contato de sua cliente não se sustenta, pois, assim que descoberto o golpe, foi perfeitamente capaz de efetuar depósito na conta da vítima; a duas porque há nestes autos notícia da prática, pelo acusado, de crime idêntico contra outros clientes seus, conforme se depreende das cópias dos boletins de ocorrência de fls. 16/18, 19/21 e 22/23.
+Desta feita, irretocável se mostra o juízo de reprovação." (e-STJ fl.252/253)
+Da análise dos autos, infere-se que o colegiado estadual, após percuciente reexame do delineamento fático e probatório juntado ao feito, concluiu pela existência de elementos suficientes para fundamentar o decreto condenatório, nos moldes do art. 168, § 1º, inciso III, do Código Penal.
+Para tanto, o Tribunal asseverou, notadamente, que o dolo ficou demonstrado porque assim que descoberto o golpe o réu foi perfeitamente capaz de efetuar os depósitos devidos na conta da vítima, contrariando sua alegação de que teria perdido o contato com ela, e tendo em vista que existem notícias nos autos de que o acusado praticou outras condutas idênticas contra outros clientes.
+Dessa forma, desconstituir o julgado, pela alegação de ausência de dolo na conduta do agravante, no intuito de abrigar o pleito defensivo absolutório, não encontra espaço na via eleita, porquanto seria necessário a este Tribunal Superior aprofundado revolvimento do contexto fático-probatório, procedimento incabível em recurso especial, conforme já consolidado no enunciado 7 da Súmula desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DISPENSA INDEVIDA DE LICITAÇÃO (ARTIGO 89 DA LEI Nº 8.666/93). INÉPCIA DA DENÚNCIA. NECESSIDADE DE DEMONSTRAÇÃO DE DOLO ESPECÍFICO E DE EFETIVA LESÃO AO ERÁRIO. ART. 1º, I, DO DECRETO-LEI N. 201/67. APLICAÇÃO DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, inaugurada com o julgamento da APn 480/MG pela Corte Especial, firmou o entendimento de que, para a configuração do delito tipificado no art. 89 da Lei n. 8.666/93, deve-se demonstrar, ao menos em tese, o dolo específico de causar dano ao erário bem como o efetivo prejuízo causado à administração pública, devendo tais elementos estarem descritos na denúncia, sob pena de ser considerada inepta.
+2. Quanto à conduta descrita no art. 1º, I (segunda parte), do Decreto-Lei n. 201/67, para desconstituir o entendimento firmado pelo Tribunal de origem, no sentido de que o agravado agia com dolo, tendo ciência das ilegalidades, seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado pela Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1372728/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE DENUNCIAÇÃO CALUNIOSA. ART. 339 DO CP. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. PENA FIXADA EM 4 ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO. AGRAVO PARCIALMENTE PROVIDO. EXTENSÃO DOS EFEITOS PARA O CORRÉU.
+1. A presença do dolo foi comprovada pelas instâncias ordinárias diante do material probatório constante dos autos. Impossibilidade de reexame dos fatos e das provas em instância superior, o que atrai o verbete sumular n. 7 do STJ.
+2. Apesar da motivação concreta externada, a fixação do regime inicial fechado, de forma direta, afrontou o princípio da proporcionalidade, uma vez que nem o Juiz de Direito nem o Tribunal justificaram a sobreposição do regime semiaberto, mais gravoso do que o correspondente à pena aplicada, máxime ante a pena imposta de 4 anos pelo crime de denunciação caluniosa.
+3. Agravo regimental parcialmente provido a fim de fixar o regime inicial semiaberto, com extensão dos efeitos ao corréu.
+(AgRg no AREsp 652.627/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/11/2018, DJe 06/12/2018)
+Por tais razões, conheço do agravo e não conheço do recurso especial, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
