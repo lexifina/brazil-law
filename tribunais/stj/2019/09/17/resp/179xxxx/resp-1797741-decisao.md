@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Maceió, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça de Alagoas assim ementado (e-STJ, fl. 59):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA RECHAÇADA. POSSIBILIDADE DE JULGAMENTO EM BLOCO DE PROCESSOS IDÊNTICOS. APLICAÇÃO DOS ARTS. 458 E 249, § 1º, DO CPC. RECONHECIMENTO DE OFÍCIO DA PRESCRIÇÃO, NOS MOLDES DO ART. 219, § 5º, DO CPC. NÃO COMPROVAÇÃO DE PARCELAMENTO DO DÉBITO (ART. 174, IV, DO CTN) OU QUALQUER OUTRA ESPÉCIE DE CONFISSÃO DA DÍVIDA PELO DEVEDOR, CASO EM QUE O ÔNUS DA PROVA INCUMBE AO AUTOR (ART. 333, I, CPC). INAPLICABILIDADE DA SÚMULA 106 DO STJ. PRESCRIÇÃO TOTAL DOS CRÉDITOS POR INÉRCIA DA FAZENDA PÚBLICA. MANUTENÇÃO DA SENTENÇA. REEXAME NECESSÁRIO: - SEM ACARRETAR OFENSA = VIOLAÇÃO AO ART. 475, I, DO CPC, DESNECESSÁRIO FAZÊ-LO, UMA VEZ QUE, ALÉM DA PROVADA AUSÊNCIA DE PREJUÍZO À PARTE, OS TEMAS OBJETO DO RECURSO VOLUNTÁRIO MANEJADO PELA FAZENDA PÚBLICA FORAM PLENA, CABAL E EXAUSTIVAMENTE EXAMINADOS. DOUTRINA E JURISPRUDÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+Alega o recorrente ofensa ao art. 174 do CTN, " ..  porquanto o caso não é de prescrição ordinária ou inicial, aquela que se dá antes do ajuizamento da ação de cobrança, porque, como ficou assentado no próprio acórdão vergastado, a ação foi ajuizada dentro do lustro prescricional" (e-STJ, fl. 100).
+Aduz violação do disposto no art. 40, § 4º, da LEF. Sustenta que, para a caracterização da prescrição intercorrente, não basta " ..  que haja transcorrido o lapso temporal de 05 (cinco) anos; ao revés, é imperiosa a caracterização da inércia do exequente, deixando transcorrer o referido prazo, contados do despacho de arquivamento dos autos previsto no art. 40 da Lei de Execução Fiscal, sem promover a execução" (e-STJ, fl. 102).
+Requer o afastamento da prescrição e o consequente prosseguimento do feito executivo.
+Admitido o apelo na origem (e-STJ, fls. 112-114), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O recurso não merece conhecimento.
+A Corte local reconheceu a ocorrência de prescrição da pretensão de cobrança do crédito tributário sob o seguinte fundamento (e-STJ, fl. 73):
+ ..  note-se que, no caso dos autos, até a prolação da sentença, não houve despacho algum por parte do magistrado singular, tampouco houve a efetiva citação do réu. Assim, não se havendo de cogitar da presença de causa interruptiva, inevitável a constatação de que, ao continuar a seguir o curso natural, a prescrição alcançou todos os créditos tributários do apelante = recorrente.
+Diante disso, resta aqui verificada a ocorrência da prescrição direta, por ausência de qualquer forma de interrupção do lapso prescricional, razão pela qual a manutenção da sentença é medida que se impõe.
+Ressaltou, ainda, que é inaplicável ao caso a Súmula 106/STJ, pois " ..  o motivo determinante da declaração da prescrição do crédito tributário foi, exclusivamente, a desídia da própria Fazenda Pública Municipal" (e-STJ, fl. 80).
+Nesse contexto, analisar a pretensão recursal implicaria o reexame das provas dos autos, a fim de reavaliar o entendimento da Corte a quo quanto à desídia do ente fazendário, o que é vedado a esta Corte Superior devido ao óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPTU. PRESCRIÇÃO. AJUIZAMENTO ANTES DA LC 118/2005. DEMORA NA CITAÇÃO IMPUTADA AO CREDOR. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Em processo de Execução Fiscal ajuizado anteriormente à LC 118/2005, é pacífica a orientação do STJ de que o despacho que ordena a citação não interrompe o prazo prescricional, pois somente a citação pessoal produz esse efeito, devendo prevalecer o disposto no art. 174 do CTN sobre o art. 8º, § 2º, da LEF.
+2. Ajuizada a demanda dentro do prazo prescricional e realizada a citação do executado fora dele, o marco interruptivo deve retroagir à data do ajuizamento do feito somente quando a demora na citação for imputada ao mecanismo da Justiça (REsp 1.120.295/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 21/5/2010).
+3. A Corte local consignou, no acórdão recorrido, que a Súmula 106 do STJ não comporta adequação casuística na hipótese sub judice, haja vista a inércia do ente público. Conclusão em sentido contrário, para entender que a paralisação do feito decorreu dos mecanismos da Justiça, importaria em reexame de matéria fático-probatória, providência vedada em Recurso Especial, nos termos da Súmula 7/STJ, como já decidiu a Primeira Seção do STJ, no REsp 1.102.431/RJ, sob o rito do art. 543-C do CPC/1973.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.769.833/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/11/2018, DJe 21/11/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO NÃO CONHECIDA. PRESCRIÇÃO. QUESTÃO DE ORDEM PÚBLICA. CONHECIMENTO DE OFÍCIO PELO TRIBUNAL DE JUSTIÇA. POSSIBILIDADE. DEMORA PARA A REALIZAÇÃO DA CITAÇÃO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+2. O não conhecimento do recurso de apelação pela falta de impugnação ao fundamento referente à ilegitimidade ativa não inibe o Tribunal de Justiça de conhecer de ofício de outras matérias de ordem pública eventualmente informadas, no caso, a prescrição, conforme preceitua o art. 267, § 3º, do CPC/1973.
+3. A verificação quanto à responsabilidade pela demora para a realização da citação do devedor, para fins de aplicação ou de afastamento da Súmula 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 439.003/PR, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 8/8/2017, DJe 13/9/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
