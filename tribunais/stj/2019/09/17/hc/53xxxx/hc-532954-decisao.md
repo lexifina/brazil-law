@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que não conheceu da impetração e extinguiu o processo sem resolução do mérito.
+Alega o impetrante, em síntese, a ocorrência de constrangimento ilegal ante a incompetência absoluta do juízo.
+Afirma que não há previsão legal alguma para autorizar a autoridade judicial de piso a procrastinar (para a sentença) a análise de uma QUESTÃO DE ORDEM, respaldada em novos documentos disponíveis às partes, que versa justamente sobre incompetência e nulidades de provas produzidas a partir da distribuição da MC 201320400047 que respaldou as ações penais 425/2014 e 660/2014 (esta, à qual responde o ora paciente) (fl. 10).
+Requer, liminarmente, a suspensão da ação penal na origem e, no mérito, busca a concessão da ordem a fim de que (a) seja determinando ao E. TJSE que julgue o mérito da impetração lá formulada; e ou (b) para que esta Corte Superior, ainda que na forma do art. 654, § 2º, do CPP, reconheça de plano a flagrante ilegalidade decorrente da negativa de jurisdição e determine a imediata análise, pelo MM. Juízo de Direito da 4º Vara Criminal de Aracaju-SE, da questão de ordem ventilada pela defesa, relacionada à incompetência absoluta em tese e o reconhecimento do juízo de exceção (fl. 28).
+É o relatório.
+DECIDO.
+Ocorre que não pode ser provocada a jurisdição de Corte Superior sem o prévio esgotamento da instância a quo, e isto não se deu na espécie, em que indeferido o writ liminarmente, por decisão monocrática, caberia o competente agravo, dirigido ao pertinente Colegiado, e não a inauguração, per saltum, de irresignação junto a Tribunal Superior, suprimindo instância recursal.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe, ao Superior Tribunal de Justiça, a apreciação do pedido, sob pena de indevida supressão de instância. Nesse sentido, confiram-se:
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido (AgRg no HC 401079/SP, Relator(a) Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 12/12/2017.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes do STJ e do STF.
+- Agravo regimental desprovido (AgRg no HC 332.057/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
