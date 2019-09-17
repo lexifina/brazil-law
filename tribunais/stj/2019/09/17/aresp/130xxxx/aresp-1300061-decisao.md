@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+ESTACIO MARQUES DA CUNHA FILHO e outros (ESTACIO e outros) requereram o cumprimento individual da sentença proferida na Ação Civil Pública nº 1998.01.1.016798-9 pela 12ª Vara Cível de Brasília/DF, ajuizada pelo INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR (IDEC) contra o BANCO DO BRASIL S.A. (BANCO DO BRASIL) visando ao pagamento de diferenças sobre o saldo da caderneta de poupança oriundas dos expurgos inflacionários do denominado Plano Verão (janeiro/89).
+O Juízo de 1º Grau julgou parcialmente procedente a impugnação ao cumprimento de sentença apresentada pelo BANCO DO BRASIL para extirpar a incidência dos juros remuneratórios dos cálculos da dídiva.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto pelo BANCO DO BRASIL em acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. ABRANGÊNCIA SUBJETIVA. LEGITIMIDADE ATIVA. JUROS DE MORA. TERMO INICIAL. EXPURGOS INFLACIONÁRIOS POSTERIORES AO PLANO VERÃO. CÔMPUTO NO QUANTUM DEVIDO. MULTA ARTIGO 475-J. DEPÓSITO COM FINALIDADE DE IMPUGNAR O CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DEVIDA.
+I. A sentença proferida na Ação Civil Pública 1998.01.1.016798- 9 beneficia todos os consumidores que, na data -base a que se refere, mantinham depósitos em caderneta de poupança junto ao Banco do Brasil S.A.
+II. Em atenção ao princípio da segurança jurídica, devem ser prestigiadas as decisões do Superior Tribunal de Justiça que, na sistemática dos recursos repetitivos, assentaram a incidência de expurgos inflacionários posteriores ao Plano Verão e estabeleceu a citação na ação de conhecimento como termo a quo para o cálculo dos juros de mora.
+III. O depósito do valor da dívida com o intuito de garantir o juízo para impugnar o cumprimento de sentença não exclui a incidência da multa de 10% prevista no artigo 475-J do Código de Processo Civil.
+IV. Recurso conhecido e desprovido (e-STJ, fls. 302/303).
+Irresignado, o BANCO DO BRASIL interpôs recurso especial com fundamento no art. 105, III, a, da CF/88, alegando violação dos arts 5º, XXI, da CF, 219, 527, I, 535, I e II, e 557, todos do CPC/73, 2º-A da Lei nº 9.494/97 e 5º da Lei nº 7.347/85, sustentando, em síntese, (1) negativa de prestação jurisdicional; (2) ilegitimidade ativa de ESTACIO e outros, ante a ausência de autorização expressa nesse sentido; (3) que os juros de mora devem ser contados a partir da citação na fase de liquidação; e, (4) não ser possível a incidência dos expurgos inflacionários decorrentes de planos posteriores nos cálculos da execução.
+Apresentadas contrarrazões (e-STJ, fls. 355/368), o recurso teve seguimento negado com base no art. 1.030, I, b, do NCPC, em razão dos recursos especiais repetitivos nºs 1.391.198/RS, 1.370.899/SP e 1.392.245, em relação à legitimidade ativa, ao termo inicial dos juros moratórios e a não incidência de expurgos inflacionários; e, no tocante as demais questões, foi inadmitido tendo em vista a vedação de análise de violação a dispositivos constitucionais em sede de recurso especial, não demonstração da alegada violação do art. 535 do CPC/73 e a incidência da Súmula nº 211 do STJ.
+Com relação a parte que não admitiu o recurso especial com fundamento no art. 1.030, I, b, do NCPC, o BANCO DO BRASIL interpôs agravo regimental.
+Com relação aos demais pontos, o BANCO DO BRASIL interpôs o presente agravo alegando que recurso especial por ele interposto reúne todos os requisitos de admissibilidade, bem como que a matéria foi devidamente prequestionada.
+É o relatório.
+DECIDO.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recurso não merece conhecimento
+O recurso especial foi inadmitido tendo em vista a vedação de análise de violação a dispositivos constitucionais em sede de recurso especial, não demonstração da alegada violação do art. 535 do CPC/73 e a incidência da Súmula nº 211 do STJ.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois o BANCO DO BRASIL somente infirmou a incidência da Súmula nº 211 do STJ.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Assim, não tendo o recurso impugnado especificamente todos os fundamento da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Assim, o recurso não se mostra viável, o que enseja a sua inadmissão.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do agravo.
+Publique-se. Intime-se.
