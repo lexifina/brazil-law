@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado pelo Serviço Brasileiro de Apoio às Micro e Pequenas Empresas contra decisão que deu parcial provimento ao recurso especial do contribuinte para reconhecer a legitimidade passiva do Sebrae (e-STJ, fls. 572-577).
+A parte insurgente defende, em suma, que " ..  a jurisprudência de fato foi alterada, mas para reconhecer a ilegitimidade do SEBRAE, inclusive tendo Vossa Excelência Relatado julgados em sentido contrário, manifestando-se pela ilegitimidade" (e-STJ, fl. 580).
+Foi apresentada contraminuta ao agravo às e-STJ, fls. 607-618.
+É o relatório.
+Assiste razão à parte agravante.
+Com efeito, no recente julgamento dos EREsp 1.619.954/SC, a Primeira Seção declarou a ilegitimidade passiva do Sebrae, da Apex e da ABDI nas ações que questionam as contribuições sociais a eles destinadas.
+No mesmo sentido:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. LEGITIMIDADE DO FNDE. PRODUTOR RURAL. PESSOA FÍSICA COM REGISTRO NO CNPJ. EQUIPARAÇÃO À EMPRESA.
+I - O feito decorre de ação ajuizada para obter a restituição da contribuição do salário-educação cobrado de produtor rural, pessoa física, com inscrição no Cadastro Nacional de Pessoa Jurídica - CNPJ, como contribuinte individual.
+II - A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação. Precedentes: AgInt no AREsp n. 821.906/SP, Rel. Ministro Gurgel de Faria, DJe 4/2/2019; AgInt no REsp n. 1.719.395/SP, Rel. Ministro Herman Benjamin, DJe 27/11/2018.
+III - O Superior Tribunal de Justiça vinha entendendo que o Fundo Nacional para o Desenvolvimento da Educação (FNDE) deve integrar a lide que tem como objeto a contribuição ao salário-educação, conforme decidido nos REsp n. 1.658.038/RS, Rel. Min. Herman Benjamin, DJe 30/6/2017 e AgInt no REsp n. 1.629.301/SC, Rel. Min. Mauro Campbell Marques, DJe 13/3/2017. Entretanto, em recente julgamento, no EREsp n. 1.619.954/SC, a Primeira Seção do Superior Tribunal de Justiça declarou a ilegitimidade passiva do SEBRAE, da APEX e da ABDI, nas ações nas quais se questionam as contribuições sociais a eles destinadas. Tal entendimento foi fundamentado na constatação de que a legitimidade passiva em tais demandas está vinculada à capacidade tributária ativa. Assim, sendo as entidades referidas meras destinatárias da referida contribuição, são ilegítimas para figurar no polo passivo ao lado da União. O mesmo raciocínio se aplica na hipótese dos autos, apontando a ilegitimidade passiva do FNDE, porquanto a arrecadação da denominada contribuição salário-educação tem sua destinação para a autarquia, com os valores, entretanto, sendo recolhidos pela União, por meio da Secretaria da Receita Federal.
+IV - Recurso especial da Fazenda Nacional provido. Recurso Especial do FNDE provido para declarar sua ilegitimidade passiva.
+(REsp 1.743.901/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 9/5/2019, DJe 3/6/2019)
+PROCESSUAL CIVIL, FINANCEIRO E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇOS SOCIAIS AUTÔNOMOS. DESTINAÇÃO DO PRODUTO. SUBVENÇÃO ECONÔMICA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA.
+1. O ente federado detentor da competência tributária e aquele a quem é atribuído o produto da arrecadação de tributo, bem como as autarquias e entidades às quais foram delegadas a capacidade tributária ativa, têm, em princípio, legitimidade passiva ad causam para as ações declaratórias e/ou condenatórias referentes à relação jurídico-tributária.
+2. Na capacidade tributária ativa, há arrecadação do próprio tributo, o qual ingressa, nessa qualidade, no caixa da pessoa jurídica.
+3. Arrecadado o tributo e, posteriormente, destinado seu produto a um terceiro, há espécie de subvenção.
+4. A constatação efetiva da legitimidade passiva deve ser aferida caso a caso, conforme a causa de pedir e o contexto normativo em que se apoia a relação de direito material invocada na ação pela parte autora.
+5. Hipótese em que não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica.
+6. Embargos de divergência providos para declarar a ilegitimidade passiva ad causam do SEBRAE e da APEX e, por decorrência do efeito expansivo, da ABDI.
+(EREsp 1.619.954/SC, Rel. Min. GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 10/4/2019, DJe 16/4/2019)
+Ante o exposto, reconsidero a decisão de e-STJ, fls. 572-577, para, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, e na Súmula 568/STJ, negar provimento ao recurso especial de Rudegon Representações e Comércio de Madeira Ltda. e outras.
+Publique-se. Intimem-se.
