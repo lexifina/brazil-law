@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUCAS GERALDO ARAUJO MARTINS DE SA apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.19.059684-1/000).
+Consta dos autos que o paciente foi denunciado e teve a prisão preventiva decretada, em 10/5/2019, com cumprimento em 28/5/2019, em virtude da suposta prática do crime previsto no art. 1º, caput, c/c o art. 1º, incisos I e II, e art. 1º, § 4º, todos da Lei n. 9.613/1998.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 83):
+HABEAS CORPUS - LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS OU VALORES - RELAXAMENTO - IMPOSSIBILIDADE - AUSÊNCIA DE REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA - ATO RESERVADO ÀQUELES CONDUZIDOS EM FLAGRANTE DELITO - REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃO DA SEGREGAÇÃO POR MEDIDAS CAUTELARES - IMPOSSIBILIDADE - DECISÃO DEVIDAMENTE FUNDAMENTADA - NECESSIDADE DA CUSTÓDIA CAUTELAR DO PACIENTE - PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA EXTREMA - ORDEM DENEGADA. 1. A audiência de custódia é ato que se reserva àqueles conduzidos em flagrante delito, não havendo que se falar na sua realização quando decretada a prisão preventiva. 2 Não merece ser acolhida a alegação de ausência de fundamentação se a il. Magistrada a quo decreta a prisão preventiva do paciente, ressaltando a necessidade do acautelamento do autuado para a garantia da ordem pública, após destacar a existência de prova da materialidade do crime e indícios suficientes de sua autoria. 3. Presentes os requisitos autorizadores da custódia cautelar, a manutenção da custódia do autor é medida que se impõe, especialmente tratando-se de delito doloso e em razão do modus operandi que envolveu a empreitada criminosa.
+No presente writ, alegam os impetrantes que a denúncia foi ofertada sem representação pela prisão, mas, sem qualquer fato novo, foi decretada a custódia cautelar do paciente.
+Assevera a ausência de fundamentação idônea do decreto de prisão preventiva, visto a inexistência dos requisitos previstos no art. 312 do Código de Processo Penal a supedanear o ergástulo.
+Destaca que, se acaso advier condenação, certamente a pena seria substituída por restritiva de direitos e regime diverso do fechado, evidenciando-se a desproporcionalidade do atual ergástulo.
+Defende, ademais, a existência de constrangimento ilegal pela não realização da audiência de custódia na espécie.
+Pretende, liminarmente e no mérito, a liberdade do paciente, com a expedição do alvará de soltura ou a substituição do encarceramento por medidas cautelares diversas.
+Liminar indeferida às e-STJ fls. 110/111.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fl. 253).
+É, em síntese, o relatório.
+Pois bem. Compulsando os autos verifico que o presente writ possui identidade de partes, de alegações e de pedidos com o RHC n. 115.382/MG, interposto contra o mesmo acórdão objeto de irresignação neste remédio constitucional, sendo que no referido recurso há, inclusive, parecer de mérito ofertado pelo Ministério Público Federal.
+Logo, entendo ser caso de examinar o pedido de liberdade no bojo do RHC n. 115.382/MG, instrumento próprio, inclusive, para se impugnar acórdão prolatado no julgamento de habeas corpus pelo Tribunal de segundo grau.
+À vista do exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
