@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - PRELIMINAR - OFENÇA AO PRINCÍPIO DA DIALETICIDADE - REJEIÇÃO - INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA VERIFICADA. AGRAVO DE INSTRUMENTO.
+AÇÃO MONITÓRIA. CONTRATO BANCÁRIO. PESSOA JURÍDICA COMO DESTINATÁRIA FINAL. NÃO APLICAÇÃO DO CDC. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE.
+Deve ser rejeitada a preliminar de ofensa ao princípio da dialeticidade, uma vez verificado que o agravante impugnou a matéria veiculada na decisão primeva. É cabível a inversão do ônus da prova, com base no artigo 6º, VIII, do Código de Processo Civil, quando vislumbrada a hipossuficiência do autor ou a verossimilhança de suas alegações.
+A parte recorrente sustenta que o acórdão estadual é omisso; afirma ter havido preclusão pro judicato no que tange à aplicabilidade do Código de Defesa do Consumidor à avença; argumenta que a legislação consumerista incide na espécie, motivo por que deve ser invertido o ônus probatório.
+Quanto à alegada violação ao art. 1.022 do Código de Processo Civil, sem razão os recorrentes, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Não há de se falar, outrossim, em preclusão pro judicato, pois a alteração do tema da aplicabilidade do CDC ao caso foi resultado de omissão pretérita, detectada por esta Corte, na decisão de fls. 866/867 e-STJ, e devidamente suprida pelo Tribunal de origem, no acórdão de fls. 956/959 e-STJ.
+Finalmente, quanto ao tema da incidência da legislação consumerista, assim decidiu a Corte de origem, quando deu provimento aos embargos declaratórios acima citados:
+De fato não se aplicam ao caso sob exame as disposições do Código de Defesa do Consumidor, porquanto não se trata de relação de consumo.
+O negócio entabulado entre as partes não está sujeito à incidência da legislação consumerista, uma vez que não se trata de produto fornecido a destinatário final, mas de produtos adquiridos para viabilizar sua atividade profissional, representando o agravante, ora embargado, mais um elo na cadeia produtiva. A parte agravante é pessoa jurídica que adquiriu empréstimo com a finalidade de fomentar a sua atividade.
+Com efeito, não obstante a jurisprudência desta Corte reconhecer a submissão das instituições financeiras e dos contratos bancários aos princípios e regras do CDC, de acordo com o enunciado 297 da Súmula do STJ, tal condição é restrita ao mutuário que satisfizer os requisitos elencados na Lei 8.078/1990. Não é o que ocorre no caso dos autos, conforme descrito pela Corte estadual.
+A conclusão acima foi obtida pela interpretação da matéria fática e contratual encartada nos autos, que não pode ser reexaminada neste Tribunal, por força do veto dos enunciados 5 e 7 da Súmula do STJ. No mesmo sentido é o entendimento da Segunda Seção (REsp 541.867/BA, Rel. Ministro Antônio de Pádua Ribeiro, por maioria, DJU de 16.5.2005).
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
