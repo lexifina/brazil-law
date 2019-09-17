@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra a decisão de fls. 583/584, da Presidência desta Corte, que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão recorrida.
+A defesa alega que: "(..) impugnou especificamente a utilização da Súmula 7/STJ para negar seguimento ao REsp, e não alegou nas razões recursais contrariedade e/ou negativa de vigência ao Art. 93, IX, da CF, por isso requer o recebimento e provimento do recurso, analisando-se o mérito do pedido" (fl. 593)
+O Ministério Público Federal pugnou por nova vista dos autos após a manifestação do Ministério Público Estadual e julgamento do agravo regimental (fl. 655).
+O Ministério Público do estado do Rio Grande do Norte apresentou contrarrazões ao agravo regimental (fls. 656/660).
+É o relatório. Decido.
+O agravo regimental merece provimento.
+De fato, houve equívoco na decisão agravada, porquanto, da análise das razões recursais (fls. 539/560), infere-se a impugnação aos fundamentos da decisão que inadmitiu o recurso especial.
+Com efeito, fundamentada nos óbices contidos nas Súmulas n. 07 e 83 desta Corte, além da inviabilidade de análise a ofensa à dispositivos constitucionais, a decisão foi devidamente rebatida pelo agravante, consoante trechos das razões do recurso:
+É certo que não existe essa obrigatoriedade, porém tratando-se de matéria relevante para a solução do litígio a autoridade judicial deve, sim, analisar as teses de defesa, acolhê-las ou rejeitadas. Porém, no caso, a sentença e o acórdão violaram os arts. 381, III, e 564, IV, do CPP, motivo pelo qual o recurso merece ser analisado e provido. (fl. 540)
+(..)
+A pretensão da defesa não contraria a Súmula 07/STJ, tendo em vista que a finalidade do recurso é a revaloração da prova e não o seu reexame. Portanto, ao contrário do que consta na decisão recorrida, o STJ pode rêexaminar o decisum quando há ilegalidade, contrariedade e/ou negativa de vigência a dispositivo legal.
+As decisões do Judiciário Potiguar violaram dispositivos legais/todavia a defesa não alegou contrariedade e/ou negativa de vigência ao Art. 93, inciso IX, da CF, conforme consta na decisão" recorrida (fl. 541).
+Assim, atendidos os requisitos de admissibilidade e impugnados os fundamentos da decisão que inadmitiu o apelo especial, conheço do agravo.
+Passo à análise do recurso especial.
+A defesa aponta ofensa ao disposto nos arts. 381, III e 564, IV, ambos do Código de Processo Penal, arts. 59 e 68, ambos do Código Penal e art. 93, IX, da Constituição Federal.
+Sustenta, preliminarmente, a nulidade da sentença por ausência de pronunciamento do julgador acerca de tese defensiva e, no mérito, a absolvição criminal em razão da ausência de provas da autoria delitiva, atipicidade da conduta, por ausência de dolo e em razão da condenação ter sido baseada em elementos colhidos exclusivamente na fase inquisitiva.
+Aduz, ainda, a redução da pena-base, a absorção do crime de transporte de explosivo pelo crime de furto, o afastamento das qualificadoras do concurso de pessoas e do rompimento de obstáculo, o reconhecimento da forma tentada do delito e da participação de menor importância no delito de furto, a fixação de regime prisional mais benéfico e a substituição da pena privativa de liberdade por restritiva de direitos.
+A irresignação não merece prosperar.
+De início, quanto à apontada ofensa ao art. 93, IX, da Constituição Federal, "tem-se que tal pleito não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais" (AgRg no AREsp 1072867/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/04/2018, DJe 18/04/2018).
+Quanto à nulidade aventada, "No que concerne à ausência de fundamentação, importante consignar que o julgador não é obrigado a rebater, expressamente, todas as teses defensivas, desde que fundamente sua decisão, expondo as razões que o levaram a decidir em sentido contrário, analisando, com clareza, as questões essenciais ao deslinde da controvérsia" (HC 416.275/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/05/2018, DJe 08/05/2018).
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ARGUIÇÃO DE OMISSÃO. FUNDAMENTAÇÃO SUFICIENTE PARA A MANUTENÇÃO DO JULGADO. AUSÊNCIA DE VÍCIO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. INADMISSIBILIDADE. PREQUESTIONAMENTO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO PRETÓRIO EXCELSO. REJEIÇÃO DOS DECLARATÓRIOS.
+(..)
+V - O Juiz não é obrigado a pronunciar-se sobre todas as teses defensivas desde que tenha encontrado fundamentos suficientes para justificar o decisum.
+(..)
+VII - Embargos de Declaração rejeitados. (EDcl no AgRg nos EREsp 1043207/SP, Rel. Ministra REGINA HELENA COSTA, TERCEIRA SEÇÃO, julgado em 27/08/2014, DJe 29/08/2014).
+Ademais, o magistrado sentenciante ao fundamentar a condenação pelo delito de furto, ainda que implicitamente, rebateu a tese defensiva da "desclassificação do furto para o crime de favorecimento pessoal".
+Assim, "Não carece de nulidade a decisão condenatória que, mesmo de forma sucinta, fundamenta as razões por que concluiu pelo édito repressivo, sendo despiciendo rebater minuciosamente todas as questões levantadas pela defesa, especialmente se a tese é implicitamente afastada pelo entendimento adotado" (HC 91.855/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 11/12/2008, DJe 2/2/2009) (AgRg no REsp 1168054/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/11/2015, DJe 23/11/2015).
+No que tange ao pleito de redução da pena-base, em razão do equívoco na quantidade de explosivos, observa-se que a matéria não foi objeto de discussão e debate pelo Tribunal de origem. Assim, carece do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas n. 282 e n. 356, ambas do STF.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. PENA-BASE. EXASPERAÇÃO. FUNDAMENTOS IDÔNEOS. RECURSO IMPROVIDO. 1. Nos termos das Súmulas 282 e 356, STF, aplicáveis por analogia, não se conhece de recurso especial quando ausente prequestionamento da matéria recursal no acórdão recorrido. 2. Vários são os precedentes da Corte que consideram justificativa plausível para exasperação da pena-base a elevada quantidade do produto do crime ou a grande intensidade em que se deu a prática delitiva. 3. Agravo regimental improvido. (AgRg no AREsp 1047485/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018 - Grifo Nosso).
+Quanto à absolvição criminal em razão da ausência de provas da autoria delitiva e em razão da condenação ter sido baseada em elementos colhidos exclusivamente na fase inquisitiva; atipicidade da conduta por ausência de dolo; absorção do crime de transporte de explosivo pelo crime de furto; o afastamento das qualificadoras do concurso de pessoas e do rompimento de obstáculo; reconhecimento da forma tentada do delito e da participação de menor importância no delito de furto; a fixação de regime prisional mais benéfico e a substituição da pena privativa de liberdade por restritiva de direitos, registra-se que o agravante não apontou os dispositivos de Lei Federal porventura violados pelo acórdão recorrido, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal - STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FORMAÇÃO DE QUADRILHA E FURTO QUALIFICADO. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. PROPORCIONALIDADE. FUNDAMENTAÇÃO IDÔNEA.
+(..)
+II - A ausência de indicação do dispositivo legal que teria sido supostamente violado inviabiliza o conhecimento do recurso especial, pois incide à espécie a Súmula 284 do Supremo Tribunal Federal. Precedentes.
+(..)
+Agravo regimental desprovido. (AgInt no REsp 1642141/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/02/2018, DJe 28/02/2018 - Grifo Nosso).
+Ante o exposto, dou provimento ao agravo regimental para conhecer do agravo em recurso especial e, nos termos da Súmula n. 568/STJ, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
