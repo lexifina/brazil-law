@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por GERDAU AÇOMINAS S.A. contra decisão do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 384):
+PROCESSUAL CIVIL. AÇÃO CAUTELAR INOMINADA. CONSIGNAÇÃO EM PAGAMENTO. AÇÃO PRINCIPAL JULGADA. PERDA DO OBJETO. EXTINÇÃO ART. 267, VI, C/C ART. 808, III, AMBOS DO CPC. APELAÇÃO PREJUDICADA.
+1. Nos termos do art. 808, III, do CPC, cessa a eficácia da medida cautelar se o juiz declarar extinto o processo principal, com ou sem julgamento do mérito.
+2. De outra parte, o Regimento Interno desta Corte atribui ao relator a prerrogativa de "julgar prejudicado pedido ou recurso que haja perdido o objeto" (artigo 29, inciso XXII) .
+3. Considerando que a ação principal (processo nº 2003.38.00.061017-4/MG) à qual se encontra condicionado o presente pedido cautelar foi julgada concomitante a este feito, com confirmação da sentença de improcedência do pedido, tem-se como prejudicada a análise do pedido vindicado.
+4. Processo extinto, sem resolução do mérito, nos termos do art. 267, VI, do CPC, em razão da perda de seu objeto.
+5. Apelação prejudicada.
+Opostos aclaratórios, foram rejeitados (e-STJ fls. 394/397).
+No especial obstaculizado, o recorrente apontou violação dos arts. 458, II, 535, II, 267, VI, 807, e 808, III, do Código de Processo Civil/1973, sustentando que a decisão cautelar conserva a sua eficácia até o trânsito em julgado da ação principal, não havendo se falar em perda do objeto da media acessória.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+ Com efeito, na linha da jurisprudência do STJ, a perda de eficácia da medida cautelar em virtude da extinção do processo principal, com ou sem resolução de mérito, é medida que se impõe independentemente do trânsito em julgado deste, sob pena de se conferir, indistintamente, efeito suspensivo a todo e qualquer recurso eventualmente manejado.
+Isso porque o julgamento desfavorável da ação principal, ainda que interposto recurso, afasta o fumus boni iuris necessário ao pleito cautelar, razão pela qual, nos termos do art. 808, III, do CPC/1973, deve cessar a eficácia da medida precária anteriormente deferida.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CAUTELAR INCIDENTAL. EXTINÇÃO DO PROCESSO PRINCIPAL MEDIANTE A IMPROCEDÊNCIA DA AÇÃO. RECURSO RECEBIDO APENAS NO EFEITO DEVOLUTIVO NA ORIGEM. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. PERDA DA EFICÁCIA. ART. 808, III, DO CPC. PRECEDENTES.
+ ..
+2. "Nos termos do artigo 808, III do CPC, "cessa a eficácia da medida cautelar (..) se o juiz declarar extinto o processo principal, com ou sem julgamento de mérito". A cessação da eficácia, em casos tais, independe do trânsito em julgado da sentença extintiva do processo, especialmente quando a providência requerida como cautelar tem típica natureza antecipatória. Entendimento contrário importaria, na prática, a conferir efeito suspensivo a todos os recursos, inclusive ao especial e ao extraordinário, que vierem a ser interpostos contra sentenças e acórdãos de improcedência ou terminativos proferidos no processo principal" (EREsp 1.043.487/SP, Rel. Mi. Teori Albino Zavascki, Primeira Seção, DJe 14/6/2011). Veja-se, também: EDcl nos EREsp 876.595/BA, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 01/07/2014.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.453.301/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/09/2014, DJe 30/09/2014).
+PROCESSUAL CIVIL. AÇÃO CAUTELAR. SENTENÇA PROFERIDA NO PROCESSO PRINCIPAL. CESSAÇÃO DA EFICÁCIA. DESNECESSIDADE DO TRÂNSITO EM JULGADO. ART. 808, III, DO CPC.
+1. "Nos termos do artigo 808, III do CPC, "cessa a eficácia da medida cautelar (..) se o juiz declarar extinto o processo principal, com ou sem julgamento de mérito". A cessação da eficácia, em casos tais, independe do trânsito em julgado da sentença extintiva do processo, especialmente quando a providência requerida como cautelar tem típica natureza antecipatória. Entendimento contrário importaria, na prática, a conferir efeito suspensivo a todos os recursos, inclusive ao especial e ao extraordinário, que vierem a ser interpostos contra sentenças e acórdãos de improcedência ou terminativos proferidos no processo principal" (EREsp 1043487/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 08/06/2011, DJe 14/06/2011).
+2. Recurso especial não provido.
+(REsp 1.416.145/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 21/11/2013, DJe 29/11/2013).
+Nessa quadra, forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
