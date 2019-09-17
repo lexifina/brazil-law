@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por CRYSALIS SEMPRE MIO INDÚSTRIA E COMÉRCIO DE CALÇADOS LTDA. contra decisão que, com fundamento no art. 1.030, I, b, do CPC/2015, negou seguimento ao recurso especial em razão de o acórdão recorrido coincidir com precedente obrigatório formado em sede de recurso repetitivo - REsp n. 1.127.815/SP (Tema 260).
+Em suas razões, a agravante sustenta a inaplicabilidade do aludido julgado repetitivo à hipótese dos autos.
+O Estado do Rio Grande do Sul apresentou contraminuta.
+Passo a decidir.
+Inicialmente, esta Corte Superior consolidou, por meio de seus enunciados administrativos n. 2 e 3, o entendimento segundo o qual os requisitos de admissibilidade e pressupostos do recurso especial observarão o ordenamento processual em vigor na data da publicação do decisum recorrido.
+Nessa linha de raciocínio, a verificação do preenchimento dos requisitos de admissibilidade e pressupostos intrínsecos e extrínsecos do agravo interposto contra a decisão de inadmissão do recurso especial observará o ordenamento processual em vigor na data da publicação da decisão agravada que, na hipótese dos autos, ocorreu em março 2016, ou seja, quando já estava em vigor o Código de Processo Civil de 2015 (e-STJ fl. 262).
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ. AGRAVO EM RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE RECONHECIDA. ART. 544 DO CPC/73.
+1. Registre-se que a decisão que não admitiu o recurso especial foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+2. Assim, escorreita a decisão agravada ao não conhecer do agravo em recurso especial ante a sua manifesta intempestividade, pois, conforme certidão de fl. 1.146, a decisão que negou trânsito ao apelo nobre foi publicada no Diário Oficial Eletrônico de 20/01/2016, sendo o agravo em recurso especial somente interposto em 14/03/2016, quando ultrapassado o prazo de prazo de 10 (dez) dias previsto no art. 544, caput, do CPC/73.
+3. O STJ entende que o vício existente na regularidade da intimação, ensejador da nulidade do ato processual, deve ser alegado na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão, de acordo com o artigo 245 do CPC/73.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.056.893/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/10/2018, DJe 08/11/2018).
+Ocorre que o art. 1.042 do CPC/2015 dispõe que "cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos", sendo, portanto, manifestamente inadmissível o meio processual ora manejado.
+Ante o exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
