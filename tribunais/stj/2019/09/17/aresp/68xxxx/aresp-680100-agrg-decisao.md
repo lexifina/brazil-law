@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado pelo Estado de Santa Catarina contra decisão (e-STJ, fl. 236) que determinou o sobrestamento do feito até a conclusão do julgamento do Recurso Especial n. 1.426.210/RS, de relatoria da Ministra Marga Tessler (Desembargadora Federal convocada do TRF da 4ª Região) e submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 543-C do CPC e na Resolução n. 8/STJ.
+Alega o agravante, em suma, a existência de distinção entre a matéria tratada no presente recurso e matéria tratada no recurso repetitivo mencionado. Argumenta que, no presente caso, houve implementação de lei estadual adequando a remuneração dos professores estaduais ao piso nacional, enquanto na hipótese tratada no recurso repetitivo não existiria lei local.
+É o relatório.
+Como houve o julgamento do recurso repetitivo supramencionado, perde objeto o agravo interno interposto pelo Estado de Santa Catarina, razão pela qual passo à análise do recurso especial anteriormente sobrestado.
+Trata-se de recurso especial interposto por [NOME], com amparo na alínea "a" do permissivo constitucional, em oposição a acórdão do Tribunal de Justiça de Santa Catarina assim ementado (e-STJ, fl. 149):
+AGRAVO DO ART. 545 DO CPC CONHECIDO COMO AGRAVO INTERNO, NA FORMA DO ART. 557, § 1º, DO CPC. APLICAÇÃO DO PRINCIPIO DA FUNGIBILIDADE. VIABILIDADE. DECISÃO MONOCRÁTICA QUE NEGA SEGUIMENTO À APELAÇÃO. POSSIBILIDADE. SENTENÇA QUE SE ENCONTRA EM CONFORMIDADE COM JURISPRUDÊNCIA DOMINANTE DESTE TRIBUNAL. INTELIGÊNCIA DO ART. 557, CAPUT, DO CPC. RECURSO DESPROVIDO.
+Sustenta a recorrente violação do disposto nos arts. 2º, §§ 1º e 2º, e 6º da Lei n. 11.738/2008, bem como a ocorrência de dissídio jurisprudencial.
+Defende, em síntese, que o recorrido não estaria pagando o piso nacional estabelecido na referida lei, haja vista que o seu vencimento inicial, desconsideraras as progressões na carreira, estaria abaixo da remuneração mínima prevista no diploma normativo federal.
+Argumenta, no ponto, o seguinte (e-STJ, fl. 166):
+A presente demanda pugna o pagamento do PISO previsto na lei 11.738/2008 calculada com base no básico previsto na lei 1139/1992. O Plano de carreira prevê um Valor inicial, valor este que está descrito nas tabelas que PGE vem juntando em suas contestações (em anexo), como na contestação dos autos do processo: 023.12.052025-0. Nesta tabela temos claro que o valor do Vencimento básico para o Ano de 2012 R$ 1.234.48 e para maio de 2012 é R$ 1.281,96, valores que estão abaixo da tabela do FUNDEB apresentada na sentença, que R$ 1.450,79.
+Sendo assim, há prova sim de que Estado de Santa Catarina pagou valor inferior ao Piso.
+Contrarrazões às e-STJ, fls. 194-203.
+É o relatório.
+O recurso não merece conhecimento.
+Primeiramente, o acórdão recorrido julgou improcedentes as alegações da parte autora, sob o argumento de que a Lei Complementar estadual n. 539/2011 está em consonância com a Lei federal n. 11.738/2008.
+Confira-se (e-STJ, fl. 155):
+Assim, ao que se observa, a Lei Complementar Estadual n. 539/11 encontra-se em consonância com a Lei Federal n. 11.738/08, bem como com as decisões do Supremo Tribunal Federal.
+Portanto, a hipótese tratada no recurso refere-se, na verdade, a um suposto conflito entre uma lei federal e uma lei estadual, de modo que a competência para a análise da controvérsia seria do Supremo Tribunal Federal por meio de recurso extraordinário, conforme dispõe o art. 105, III, "d", da Constituição Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PISO NACIONAL DOS PROFESSORES. REINCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. CONFLITO ENTRE LEI LOCAL E LEI FEDERAL. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Hipótese em que a Corte de origem asseverou que, "No contracheque do mês de janeiro/2011 (fls. 11), a ora apelante,ocupante do cargo de professor de Educação Básica 1 - PI, estando, em janeiro de 2011, no nível 2, classe C, com jornada de 25 (vinte e cinco) horas semanais percebia como salário base a quantia de R$ 1.132,10 (um mil cento e trinta e dois reais e dez centavos). Portanto, depreende-se dos autos que o apelado, mesmo do ponto de vista da proporcionalidade, não tem o que implantar, nem a apelante diferenças a receber".
+2. A reforma de tal entendimento exige revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+3. A argumentação recursal revela que se está a discutir suposto conflito entre a Lei Municipal 1.042/2011 (Súmula 280/STF) e a Lei 11.738/2008, matéria de competência do STF, nos termos do art. 102, III, "d", da CF.
+4. Agravo Interno não provido.
+(AgInt no AREsp 964.726/PB, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/3/2017, DJe 18/4/2017)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. AÇÃO DE COBRANÇA. PISO NACIONAL DOS PROFESSORES. LEI 11.738/2008. PAGAMENTO PROPORCIONAL À JORNADA DE TRABALHO. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO INTERNO DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. A questão atinente à carga horária e ao piso salarial dos profissionais do magistério público do Município de Uiraúna/PB foi decidida com base na interpretação das Leis Municipais 646/2008 e 712/2012, o que afasta a competência desta Corte para apreciação da demanda, ante a incidência, por analogia, da Súmula 280/STF. Precedentes: AgInt no AREsp. 933.842/MG, Rel. Min. REGINA HELENA COSTA, DJe 21.11.2016; AgInt no AREsp. 935.121/PB, Rel. Min. HERMAN BENJAMIN, DJe 17.10.2016.
+2. Além do mais, das razões invocadas no Apelo Nobre, verifica-se que a pretensão da parte é contestar a validade das Leis 646/2008 e 712/2012 do Município de Uiraúna/PB, em face do art. 2º., § 4º. da Lei Federal 11.738/2008, medida inviável em sede de Recurso Especial, por se tratar de competência privativa do STF. Precedentes: REsp. 1.325.907/DF, Rel. Min. BENEDITO GONÇALVES, DJe 25.3.2015; AgRg no REsp. 1.454.182/SP, Rel. Min. OG FERNANDES, DJe 12.3.2015.
+3. Agravo Interno do Servidor a que se nega provimento.
+(AgInt no AREsp 926.975/PB, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/2/2017, DJe 9/3/2017)
+Por outro lado, observa-se que o acórdão impugnado contém fundamentação de índole constitucional suficiente à sua sustentação. Senão vejamos (e-STJ, fl. 155):
+4. Relativamente à proporcionalidade do reajuste aplicado aos profissionais em estágio inicial e final da carreira, "esta colenda Corte Estadual de Justiça já definiu que a Lei n. 11.738/2008 não definiu o reajustamento proporcional dos vencimentos dos professores que recebessem rendimentos superiores em virtude da maior graduação ou do maior tempo de exercício das funções do magistério. O poder judiciário não estaria autorizado a determinar o reajuste, sob pena de afronta ao princípio constitucional da separação dos poderes" (TJSC, AC n. 2013.064649-7, rel. Des. Nelson Schaefer Martins, j. 15/10/13 - grifos acrescidos)
+Desse modo, como o acórdão não foi refutado por meio do recurso extraordinário, aplica-se, nesse particular, o impeditivo constante da Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
