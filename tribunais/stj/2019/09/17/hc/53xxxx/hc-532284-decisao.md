@@ -1,0 +1,8 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo na Apelação Criminal n. 0005731-98.2016.8.26.0136, em que foi majorada a reprimenda a ele imposta e mantido o regime inicial fechado.
+De plano, não identifico ato coator a suportar esta impetração. Alega a defesa que, durante o período de prisão preventiva, o paciente alcançou a progressão aos regimes semiaberto e aberto, respectivamente. Por tal razão, a imposição de regime inicial fechado no recurso de apelação consistiria em indevida regressão per saltum.
+Todavia, conforme se verifica nos autos, o paciente atribui ao julgamento do recurso de apelação a ocorrência de constrangimento ilegal. Todavia, o que se percebe é que a Corte de origem estabeleceu as reprimendas no patamar de 8 anos, 4 meses e 24 dias de reclusão, pena que, pelo próprio quantum, atrai a incidência do regime inicial fechado, consoante previsto no art. 33, § 2º, "a", do Código Penal.
+A esse respeito, saliento precedente desta Corte Superior de Justiça, segundo o qual " a  reforma parcial da sentença condenatória com a majoração da pena, justifica a alteração do regime inicial de cumprimento, independentemente do trânsito em julgado, máxime porque constitui corolário lógico da aplicação da nova reprimenda, com base no artigo 33, § 2º e § 3º, do Código Penal" (HC n. 267.779/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/11/2013).
+A análise de eventual regressão está a cargo do Juízo da execução penal e não decorre necessariamente do regime estabelecido da condenação, dado o período de prisão preventiva, o qual será devidamente considerado nos cálculos de liquidação de penas.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
