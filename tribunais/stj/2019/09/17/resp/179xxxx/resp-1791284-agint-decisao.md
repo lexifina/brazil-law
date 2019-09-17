@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. TEMPESTIVIDADE DO RECURSO. NÃO CARACTERIZAÇÃO DA MORA. CONCLUSÃO DO TRIBUNAL EMBASADA NAS PROVAS DOS AUTOS. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. VIOLAÇÃO DO ART. 505 do NCPC, PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL NÃO INDICADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+JOSIANE ANDRADE DE MARTIN LACERDA (JOSIANE) ajuizou ação declaratória de nulidade de cláusula contratual cumulada com indenização por danos materiais e morais contra RIBEIRÃO GOLF EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. (RIBEIRÃO GOLF), julgada parcialmente procedente para declarar indevida a correção do saldo devedor promovida entre abril e outubro de 2012 e condenar a demandada na repetição do valor pago a esse respeito e ao pagamento das quantias de R$ 19.481,00 (dezenove mil quatrocentos e oitenta e um reais) correspondente aos danos materiais e R$ 15.760,00 (quinze mil setecentos e sessenta reais), a título de danos morais.
+A apelação interposta por RIBEIRÃO GOLF foi parcialmente provida pelo TJSP apenas para considerar devida a correção monetária após o decurso do prazo de 180 dias de prorrogação pelo IGPM, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA - Ação indenizatória - Bem imóvel para entrega futura - Atraso na entrega da obra, mesmo considerada a prorrogação de prazo de 180 dias - Demora que decorre de fortuito interno (entraves administrativos), não excludente de responsabilidade - Súmula nº. 161 TJSP - Período de tolerância de 180 dias válido - Súmula nº. 164 TJSP - Expedição do "habite-se" que não afasta a mora da vendedora - Súmula nº. 160 TJSP - Dano que se presume - Súmula nº. 162 TJSP - Correta condenação ao pagamento de indenização por alugueis dispendidos no período de mora - Correção monetária que não pode ser afastada, por representar apenas a recomposição do valor real da moeda, sendo aplicável mesmo no caso de atraso das obras - Súmula 163 TJSP - Contrato que prevê correção das parcelas pelo INCC no período de obras e pelo IGP, após - Aplicação do INCC, contudo, que não pode se estender além do término do prazo de tolerância para finalização do empreendimento - Oneração indevida dos compradores, visto que a correção pelo INCC, geralmente, se dá em patamares mais elevados que os demais índices de atualização - Suspensão da correção monetária pelo INCC a partir do decurso do prazo de tolerância de 180 dias, passando a ser empregado o IGPM - Dano moral - Configurado - Atraso exagerado, de 10 meses que não pode ser tido como mero dissabor - Montante indenizatório de 20 salários mínimos, que se mostra adequado à espécie, face às circunstâncias do caso concreto de forma a melhor atender as finalidades compensatória e pedagógica da condenação - Sentença parcialmente modificada - Apelo provido, apenas, para considerar devida a correção monetária após o decurso do prazo de 180 dias de prorrogação, mas, pelo IGPM (e-STJ, fl. 260).
+Os embargos de declaração opostos pela RIBEIRÃO GOLF foram parcialmente acolhidos, com efeito modificativo, nos termos da seguinte ementa:
+RECURSO - Embargos de declaração - Omissão - Vício inexistente - Contradição Vício incorrido no acórdão embargado, que em sua fundamentação reconheceu a necessidade de redução do período de cômputo da indenização por dano material, mas não fez a respectiva determinação no dispositivo da decisão - Embargos parcialmente acolhidos, com efeito modificativo (e-STJ, fl. 281).
+Insatisfeita, RIBEIRÃO GOLF manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 505 do NCPC e 421 e 475 do CC/02, sob o argumento de que (1) não poderia ter sido considerada em mora a partir da expedição do habite-se; (2) exceção do contrato não cumprido, pois foi JOSIANE quem deu causa ao atraso na entrega das chaves; e, (3) houve reformatio in pejus, na medida em que o acórdão modificou o termo inicial do período indenizável sem que houvesse recurso de JOSIANE nesse sentido.
+Apontou, ainda, (4) dissídio jurisprudencial no tocante aos danos morais.
+As contrarrazões foram apresentadas (e-STJ, fls. 286/297).
+O apelo nobre foi admitido na origem (e-STJ, fl. 414/416), mas não foi conhecido, em monocrática da Presidência do STJ, com amparo nos arts. 21-E, V, do RISTJ, por intempestividade do referido recuso.
+Neste agravo interno, RIBEIRÃO GOLF alegou equívoco da decisão agravada, porquanto foi devidamente comprovada a tempestividade do recurso especial através dos comunicados e provimento emitidos pela Presidência do TJSP.
+Houve impugnação ao recurso (e-STJ, fls. 431/434).
+É o relatório.
+DECIDO.
+De fato, o recurso especial interposto aos 15/6/2018 é tempestivo, porque foi demonstrada sua tempestividade, quando de sua interposição (e-STJ, fls. 300/305).
+Dessa forma, reconsidero a decisão agravada e passo a análise do mérito recursal.
+O recurso não merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1 e 2) Da alegada violação dos arts. 421 e 475 do CC/02
+RIBEIRÃO GOLF alegou que não poderia ter sido considerada em mora a partir da expedição do habite-se, bem como foi JOSIANE quem deu causa ao atraso na entrega das chaves.
+Quanto ao ponto, o Tribunal TJSP assim se manifestou:
+Contudo, entendeu-se que não poderia a autora ser considerada em mora neste interregno entre a expedição do termo de conclusão de obras e a entrega das chaves (realizada em 24.03.2013), pois "apenas poderia ser considerada em mora se não tivesse atendido aos requisitos para a obtenção do financiamento. Mas, como visto, ela o obteve e, com o mesmo, quitou a parcela final do preço, o que foi bem aceito pela ré, vendedora" (fl. 248).
+Reconheceu-se, assim, que a mora em realidade foi da ré, no período de 30.04.2012, quando se findou o prazo de tolerância, até 24.03.2013, data de entrega das chaves à autora compradora (e-STJ, fl. 282).
+Alterar as conclusões do Tribunal do TJSP para reconhecer a mora de JOSIANE seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é inviável na via eleita a teor da Súmula nº 7 do STJ.
+(3) Da alega reformatio in pejus
+RIBEIRÃO GOLF sustentou que houve reformatio in pejus, na medida em que o acórdão que julgou os embargos de declaração modificou o termo inicial do período indenizável sem que houvesse recurso de JOSIANE nesse sentido.
+Verifica-se, no entanto, que o conteúdo normativo do art. 505 do NCPC não foi objeto de debate no acórdão recorrido, carecendo do necessário prequestionamento viabilizador do recurso especial. Incidem, no ponto, as Súmulas nºs 282 e 356 do STF.
+(4) Do dissídio jurisprudencial acerca do dano moral
+Quanto ao dissídio pretoriano, é imprescindível a indicação do dispositivo legal sobre cuja interpretação se aponte a divergência.
+Da análise do recurso interposto, é possível verificar que RIBEIRÃO GOLF não cumpriu, efetivamente, essa tarefa, pois não indicou dispositivo legal no tocante à divergência jurisprudencial, o que atrai a Súmula nº 284 do STJ, por analogia. Nessa linha, destacam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+ ..
+4. A falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1278461/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 18/10/2018, DJe 26/10/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. 1. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. 2. DISCUSSÃO SOBRE A ILEGITIMIDADE PASSIVA E ADULTERAÇÃO FRAUDULENTA DO TÍTULO QUE EMBASA A EXECUÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO CABIMENTO DESSE DEBATE NA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REVISÃO. SÚMULA 7 DO STJ. 3. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284 DO STF. 4. AGRAVO IMPROVIDO.
+ ..
+3. O conhecimento da divergência jurisprudencial exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, sob pena de incidência do Enunciado n. 284 do Supremo Tribunal Federal, por deficiência de fundamentação, ônus do qual a parte insurgente não se desincumbiu.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1260669/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 12/06/2018, DJe 19/06/2018 - sem destaque no original)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
