@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma Recursal da Seção Judiciária do Espírito Santo, assim fundamentado, na parte que interessa:
+    “[…]
+    2. Sobre o tema discutido no processo, o Supremo Tribunal Federal (STF), de forma iterativa, tem decidido, com fundamento no princípio da solidariedade, que é constitucional a cobrança de contribuição previdenciária sobre o salário do aposentado que retorna à atividade. A incidência do tributo visa ampliar o financiamento da Seguridade Social e não está vinculada à possibilidade de se auferir proveito das contribuições vertidas. (Precedentes: STF, RE-AgR 447923; STF, RE-AgR 430418; STF, RE 364224; STF, RE 437640)3. O recurso inominado não apresentou elementos que justificassem a reforma da sentença, que, por estar em harmonia com o entendimento fixado pelo STF, deve ser mantida pelos próprios fundamentos.
+    4. Recurso da parte autora conhecido e desprovido. Condenação da recorrente vencida ao pagamento de custas processuais e honorários advocatícios de 10% sobre o valor da causa atualizado, cuja exigibilidade suspendo em razão da gratuidade da justiça ora deferida. Publique-se. Intimem-se. Após, não havendo interposição de recurso, com o trânsito em julgado certificado pela Coordenadoria das Turmas Recursais, remetam-se os autos ao Juízo de origem, com a observância do art. 1.008 do CPC/2015. Cumpra-se”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e XXXVI; 194, IV; e 201, § 4º, todos da CF. Sustenta a impossibilidade de incidência de contribuição previdenciária sobre os rendimentos do aposentado que retorna à atividade.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    Assim, verifico que, para divergir das razões do referido acórdão quanto à devolução de valores pagos a título de contribuição previdenciária indevida seria necessária a análise da legislação infraconstitucional aplicável à espécie (Decreto 3.048/1999 e Leis 8.212/1991 e 8.213/1991)
+    Ademais, o acórdão recorrido está alinhado ao entendimento jurisprudencial do STF, no sentido de que é constitucional a cobrança de contribuição previdenciária sobre o salário do aposentado que retorna à atividade.(...).
+    Ante o exposto, INADMITO o Recurso Extraordinário”.
+    A pretensão recursal não merece prosperar. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que é constitucional a incidência de contribuição previdenciária sobre o salário do aposentado que retorna à atividade. Nesse sentido, confiram-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL DO APOSENTADO QUE RETORNA À ATIVIDADE. POSSIBILIDADE. PRINCÍPIO DA SOLIDARIEDADE. PRECEDENTES.
+    O Supremo Tribunal Federal consolidou o entendimento de que é constitucional a cobrança de contribuição previdenciária sobre o salário do aposentado que retorna à atividade.
+    O princípio da solidariedade faz com que a referibilidade das contribuições sociais alcance a maior amplitude possível, de modo que não há uma correlação necessária e indispensável entre o dever de contribuir e a possibilidade de auferir proveito das contribuições vertidas em favor da seguridade.
+    Agravo regimental a que se nega provimento.” (RE 430.418-AgR, de minha relatoria)
+    “Embargos de declaração. Pretensão de alteração do teor decisório. Inexistência de omissão, obscuridade ou contradição. Inadmissibilidade. Embargos rejeitados. Inteligência do art. 535 do CPC. 2. Contribuição Previdenciária. Regime Geral da Previdência Social. Trabalhador aposentado. Retorno à atividade. Incidência sobre a remuneração. Cabimento. Embargos de declaração não acolhidos. Precedentes. Esta Corte já decidiu que não há óbice à cobrança de contribuição previdenciária sobre proventos de aposentado que retorna à atividade.” (RE 437.652-AgR-ED, Rel. Min. Gilmar Mendes)
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao recorrente, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 17 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
