@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, c, da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 398):
+AGRAVO LEGAL. JULGAMENTO POR DECISÃO MONOCRÁTICA. ART. 557 DO CPC. PREVIDENCIÁRIO. AGRAVO DESPROVIDO.
+1. A decisão monocrática ora vergastada foi proferida segundo as atribuições conferidas ao Relator do recurso pela Lei nº 9.756/98, que deu nova redação ao artigo 557 do Código de Processo Civil, ampliando seus poderes não só para indeferir o processamento de qualquer recurso (juízo de admissibilidade - caput), como para dar provimento a recurso quando a decisão se fizer em confronto com a jurisprudência dos Tribunais Superiores (juízo de mérito - § 1º-A). Não é inconstitucional o dispositivo.
+2. A decisão agravada resolveu de maneira fundamentada as questões discutidas na sede recursal, na esteira da orientação jurisprudencial já consolidada no âmbito dos tribunais.
+3. Agravo legal desprovido.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, §1º, incisos [NOME] e 1.022, inciso II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da apontada divergência jurisprudencial acerca da aplicabilidade do artigo 4º do Decreto-Lei n. 20.910/1932, que dispõe que "enquanto não existe decisão definitiva no processo administrativo o prazo prescricional para pagamento das diferenças atrasadas sequer iniciou" fl. 432).
+Sustenta que, na sentença, o julgador de primeiro grau, analisando a memória de cálculo (fl. 400), concluiu que o INSS, de fato, não corrigiu adequadamente as parcelas devidas quando do pagamento administrativo efetuado em 2005.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 485-486.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+É pacífico o entendimento deste Tribunal Superior no sentido de que o órgão julgador não é obrigado a se manifestar sobre todos os argumentos expostos pelas partes, contanto que adote fundamentação suficiente para o efetivo julgamento da lide. Contudo, assiste razão ao recorrente no tocante à violação do artigo 1.022 do CPC/2015, em razão do acórdão recorrido não ter se manifestado a respeito da omissão apontada nos embargos de declaração opostos.
+Verifica-se da leitura dos embargos de declaração que o ora recorrente requer expressamente que a Corte de origem se manifestasse sobre a não incidência da prescrição nos casos em que há processo administrativo pendente de decisão definitiva (art. 4º do Decreto n. 20.910/1932). Requer o recorrente que a Corte de origem analise a situação concreta dos autos, em que houve o pagamento administrativo da dívida em 30/9/2005. Entretanto, o valor não foi pago na sua totalidade, sendo certo que seu direito não está prescrito.
+Requer, ainda, o embargante que a Corte de origem aplique ao caso o entendimento sedimentado na jurisprudência pátria segundo o qual as prestações pagas com atraso, cuja dívida foi reconhecida em processo administrativo, devem ser atualizadas monetariamente, a partir do respectivo vencimento de cada parcela.
+Entretanto, ao julgar o recurso integrativo, a Corte Regional silenciou sobre a questão suscitada, nos embargos de declaração.
+Em situações em que o ponto omisso, obscuro ou contraditório é necessário para o deslinde da controvérsia, cabe reconhecer a nulidade do acórdão, devendo o processo retornar ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a seu respeito.
+Ante o exposto, dou provimento ao recurso especial, para anular o acórdão julgador dos embargos declaratórios, determinando-se o retorno dos autos ao Tribunal de origem, para que se manifeste sobre o ponto suscitado nos Embargos de Declaração, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
