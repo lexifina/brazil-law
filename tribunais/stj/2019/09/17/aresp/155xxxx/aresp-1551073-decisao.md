@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA RURAL POR IDADE REGIME DE ECONOMIA FAMILIAR REQUISITOS LEGAIS PREENCHIMENTO INÍCIO DE PROVA MATERIAL COMPLEMENTAÇÃO POR PROVA TESTEMUNHAL CONSECTÁRIOS LEGAIS DA CONDENAÇÃO RE N 870947/SE EMBARGOS DE DECLARAÇÃO EFEITO SUSPENSIVO INDEFINIÇÃO DIFERIMENTO PARA A FASE DE CUMPRIMENTO.
+Alega violação do art. 55, § 3º, da Lei n. 8.213/91 e da Súmula n. 149 do STJ, no que concerne à inexistência de prova apta a comprovar o período de carência para concessão de aposentadoria ante a apresentação de prova extemporânea ao período que pretende averbação, trazendo o(s) seguinte(s) argumento(s):
+APOSENTADORIA POR IDADE RURAL. INICIO DE PROVA MATERIAL. VIOLAÇÃO AO ART. 55, § 3º, LEI 8.213/91. TEMA 297 DO STJ. RESP 1133863/RN. TEMA 554. RESP 1321493/PR. APLICABILIDADE. PRECEDENTE: RESP 1466842/PR.
+ ..
+O acórdão considerou que, no caso dos autos, a exigência do art. 55, § 3º, fora satisfeita pela parte autora com a juntada de documentos extemporâneos ao período de carência para a comprovação de atividade rural. Dito de outro modo, a parte autora deveria comprovar o exercício de atividade rural num determinado período, de acordo com os limites dados pelos requisitos de idade e requerimento do benefício, entretanto, só apresentou documentos cujo conteúdo ou emissão não coincidem com este período, isto é, não são contemporâneos.
+ ..
+No caso em apreço, embora tenho sido apontada a existência de prova material, verifica-se que ela é absolutamente extemporânea ao período que pretendido para averbação, o que equivale a dizer que inexiste prova para o período, atraindo a aplicação do entendimento deste E. STJ nos Temas 297 e 554, como, aliás, este Tribunal tem feito ao decidir monocraticamente a matéria, a exemplo do RESP 1.639.477/PR, RESP 1.647.496/PR e RESP Nº 1.624.653  RS, dentre outros (fls. 176/177).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
