@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO, contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 1ª Região, no julgamento de Apelação, assim ementado (fls. 118/119e):
+EMBARGOS À EXECUÇÃO. PRESCRIÇÃO DA AÇÃO DE EXECUÇÃO. INOCORRÊNCIA. SINDICATO. ART. 8º, III DA CONSTITUIÇÃO FEDERAL. LEGITIMIDADE. SUBSTITUIÇÃO PROCESSUAL. ILEGITIMIDADE PASSIVA DA UNIÃO EM RELAÇÃO AOS SERVIDORES PÚBLICOS QUE NÃO COMPÕEM SEUS QUADROS FUNCIONAIS. PAGAMENTO DO PERCENTUAL DE 3,17%. LIMITAÇÃO. ART. 10 DA MP N. 2.225/2001. REESTRUTURAÇÃO OU REORGANIZAÇÃO DE CARREIRA. EXCLUSÃO DE VALORES PAGOS ADMINISTRATIVAMENTE DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. HONORÁRIOS NA EXECUÇÃO. APRECIAÇÃO EQUITATIVA. JUROS E CORREÇÃO MONETÁRIA.
+1. De acordo com o § 3º do art. 132 do Código Civil, Lei n. 10.406/2002, "os prazos de meses e anos expiram no dia de igual número do de início, ou no imediato, se faltar exata correspondência". Considerando que o trânsito em julgado do título exequendo em apreço ocorreu em 31.01.2007, não se encontra prescrita a ação de execução proposta em 31.01.2012.
+2. Compondo o pólo passivo da lide apenas a União Federal, o título executivo formado nos autos alcança apenas os servidores públicos que compõem seus quadros funcionais (entenda-se: administração pública federal direta), afastando todos aqueles que, ainda que associados ao Sindicato-autor, pertençam a outros Órgãos da Administração Pública (no caso, autarquias e fundações públicas federais integrantes da administração pública federal indireta) não integrantes do pólo passivo da demanda.
+3. "O artigo 8º, III da Constituição Federal estabelece a legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam. Essa legitimidade extraordinária é ampla, abrangendo a liquidação e a execução dos créditos reconhecidos aos trabalhadores. Por se tratar de típica hipótese de substituição processual, é desnecessária qualquer autorização dos substituídos. Recurso conhecido e provido."
+4. A Lei que instituiu a GDCT - Gratificação de Desempenho de Atividade de Ciência e Tecnologia não reestruturou ou reorganizou a carreira dos servidores em questão, não possuindo, portanto, o condão de fazer cessar a incidência do resíduo de 3,17%.
+5. Entendimento do STJ e desta Corte firmado no sentido de que os valores pagos administrativamente a serem compensados não devem interferir na base de cálculo dos honorários sucumbenciais, que deverá ser composta pela totalidade dos valores devidos.
+6. Os honorários advocatícios foram fixados na execução por apreciação equitativa do juízo, em atenção ao disposto nos §§ 3º e 4º do art. 20 do CPC, não merecendo reforma.
+7. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal.
+8. Apelação a que se dá parcial provimento para excluir da execução os servidores que não pertençam aos quadros funcionais da União Federal e para fixar o pagamento dos juros e da correção monetária conforme orientações do Manual de Cálculos da Justiça Federal. (destaque meu)
+Opostos embargos de declaração pela União, foram rejeitados (fls. 126/132 e 171/177e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 535 do Código de Processo Civil, alegando-se, em síntese, que haveria omissão, pois o "acórdão prolatado em sede de apelação dispôs que o título executivo, atinente ao pagamento das diferenças atrasadas do reajuste de 3,17% (Lei nº. 8.880/94), era inexigível para os servidores substituídos pelo SINDSEP/AM que não integrassem os quadros da União Federal. Como não se atentou para o fato de que todos os substituídos eram da administração indireta, o que ocasionaria a procedência total dos embargos à execução e a consequente fixação de honorários de sucumbência, a União opôs embargos declaratórios justamente questionando tais pontos." (fl. 255e). (Destaque meu).
+Sem contrarrazões, o recurso foi inadmitido (fl.263e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fls. 284e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Assiste razão à Recorrente quanto à violação ao art. 535, II, do Código de Processo Civil.
+Verifico que, desde os Embargos à Execução, vem sendo defendida a tese da inexigibilidade do título judicial em relação aos servidores da administração indireta.
+A Recorrente sustenta a existência de omissão no acórdão recorrido não suprida no julgamento dos embargos de declaração, porquanto o tribunal de origem teria deixado de manifestar-se acerca da necessidade da procedência dos embargos a execução tendo em vista todos os servidores serem da administração indireta.
+No caso, tal questão foi suscitada nos embargos de declaração opostos por duas vezes e, a despeito disso, o tribunal permaneceu silente, quando deveria ter se pronunciado a respeito.
+Observo tratar-se de questão relevante, oportunamente suscitada e que, se acolhida, poderia levar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação das teses, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+Caracterizada, portanto, a omissão, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1.343.519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+Nesse sentido: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01.06.2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18.05.2015; REsp 1.502.033/MG, DJe de 05.06.2015; dentre outros.
+Posto isso, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que seja suprida a omissão indicada.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
