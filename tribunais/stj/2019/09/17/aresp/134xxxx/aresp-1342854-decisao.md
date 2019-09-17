@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude de: (a) ausência de violação do art. 1.022, I, do CPC/2015, (b) falta de demonstração da afronta aos arts. 757 e 884 do CC/2002, e (c) incidência da Súmula n. 7/STJ (e-STJ fls. 332/333).
+O acórdão recorrido está assim ementado (e-STJ fl. 273):
+APELAÇÃO CÍVEL. Seguro de Vida. Ação de Cobrança. Sentença de Procedência. Inconformismo. Não acolhimento. Sentença mantida. Alegação de que o Sinistro teria ocorrido anteriormente à vigência do Contrato. Descabimento. Hipótese de garantia de invalidez permanente e total por doença. Sinistro que só se caracteriza com a situação de permanência da incapacidade, que foi constatada apenas após a contratação da Apólice. Concessão de Auxílio-Doença. Beneficio temporário, que não tem o condão de caracterizar a garantia prevista no Contrato. Decisão bem fundamentada. Ratificação, nos termos do artigo 252 do Regimento Interno desta Corte de Justiça. RECURSO NÃO PROVIDO, majorando-se a verba honorária para 12% (doze por cento) do valor da causa.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 285/290).
+Nas razões do recurso especial (e-STJ fls. 293/307), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 1.022, I, do CPC/2015. Argumentou que o Tribunal de origem teria incorrido em contradição no que diz respeito ao "direito da recorrida vis a vis a cobertura em discussão" (e-STJ fl. 301).
+Suscitou, ainda, contrariedade aos arts. 757 e 884 do CC/2002. Defendeu que: (i) "o julgado vergastado, nos termos em que lançado, não levou em consideração que o recorrido já era considerado inválido desde 2009, momento anterior da celebração do negócio - inconfundíveis com os critérios de aposentação da Previdência Oficial -, daí exsurgindo a clara hipótese de violação ao artigo 757 do Código Civil" (e-STJ fl. 305) e (ii) "a determinação de pagamento de indenização securitária em desacordo com a limitação parcial suportada pelo recorrido - incontroversa nos autos - a se confirmar, será também fonte de enriquecimento sem causa em seu favor, o que implica em mais uma violação a dispositivo de lei, agora do artigo 884 do Código Civil, ainda que por via reflexa" (e-STJ fl. 306).
+No agravo (e-STJ fls. 336/347), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 350/353).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De início, observa-se que não há falar em violação do art. 1.022, I, do CPC/2015), pois o Tribunal de origem se pronunciou, de forma clara e fundamentada, sobre todas as questões relacionadas ao direito do recorrido à cobertura securitária em discussão. Confira-se:
+Acórdão recorrido (e-STJ fls. 274/275):
+Em que pesem as Razões da Apelante, a Decisão não merece reforma.
+Pois bem. A contratação do Seguro ocorreu em 01.04.10, portanto, o Sinistro para ser indenizável, deve ter ocorrido após tal data.
+Antes de ter sido aposentado por invalidez em 13.04.11 (fl. 10), o Autor recebia Auxílio-Doença em 30.03.09, momento em que a Seguradora afirma que ocorreu o Sinistro, qual seja: a invalidez total e permanente do Autor.
+Contudo, o Auxílio-Doença é um Beneficio temporário, de caráter provisório, mormente porque neste momento não houve a caracterização da invalidez como permanente.
+Neste sentido, já decidiu esta Câmara:
+(..)
+Assim, embora a invalidez do Autor tenha sido constatada anteriormente á vigência do Contrato de Seguro, em 2009, tal invalidez não era caracterizada como permanente.
+Em sendo a hipótese do Seguro prevista para indenização por invalidez funciona permanente total por doença, não há que se falar em ocorrência do Sinistro antes que se estabelecesse, justamente, a permanência da incapacidade, o que ocorreu somente em 13.04.11, com a concessão da aposentadoria por invalidez, posteriormente à vigência do Contrato de Seguro.
+Portanto, o que concluiu o Laudo Pericial, em realidade, foi que o Autor, em 2009, encontrava-se inválido, contudo, não permanentemente, condição necessária para a caraterização da garantia prevista na Apólice.
+Deste modo, devida a indenização securitária, sendo de rigor a manutenção da r. Sentença, tal qual como lançada.
+Acórdão dos aclaratórios (e-STJ fls. 288/289):
+Não há que se falar em omissão, omissão ou contradição no V. Aresto, uma vez que o fato de a Embargante não concordar com o exposto na Decisão Embargada não determina a ocorrência de contradição.
+Como restou decidido no V. Acórdão, não é possível se chegar na conclusão que a invalidez permanente do Embargado tenha se dado antes da vigência do Contrato de Seguro.
+Isto, pois este foi firmado em 01.04.10 e o Embargado Aposentado por, Invalidez apenas em 13.04.11, não podendo ser considerado o Auxílio-Doença, este concedido anteriormente à vigência da Apólice em 30.03.09, como marco para caracterização da incapacidade permanente do Autor, por se tratar de Beneficio temporário.
+Concluiu-se, assim, que:
+"Em sendo a hipótese do Seguro prevista para indenização por invalidez funcional permanente total por doença, não há que se falar em ocorrência do Sinistro antes que se estabelecesse, justamente, a permanência da incapacidade, o que ocorreu somente em 13.04.11, com a concessão da aposentadoria por invalidez, posteriormente à vigência do Contrato de Seguro" (fl. 236).
+O Laudo Pericial, por sua vez, apenas, estimou que a data de início da incapacidade permanente do Embargado tenha se dado em julho de 2009 (fl. 143), contudo, o que a determina para fins de aferição de o Sinistro ter ocorrido antes ou depois da vigência do Contrato é a concessão da Aposentadoria por o Invalidez, que se deu após a sua assinatura.
+Os presentes Embargos possuem na verdade caráter visivelmente infringente, manifestando a não aceitação da Decisão atacada; referem-se à discordância do já acertadamente decidido quando da prolação do V. Acórdão, fugindo aos limites específicos dos Embargos, cabíveis apenas quanto a sua expressão e não à sua rediscussão.
+Ressalte-se que a adoção de posicionamento contrário aos interesses da parte não se confunde com contradição, obscuridade, omissão ou negativa de prestação jurisdicional.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO APELO EXTREMO. INSURGÊNCIA DA AUTORA.
+1. Não cabe a esta Corte, em sede de recurso especial, examinar violação de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário. Precedentes.
+2. Violação ao artigo 535 do CPC/1973 não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma clara e fundamentada, não estando o julgador obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+3. Pretensão voltada à majoração do valor fixado a título de dano moral. Inviabilidade. Quantum indenizatório arbitrado em R$ 8.000,00 (oito mil reais), que não se distancia dos princípios da razoabilidade e da proporcionalidade, nos termos da orientação jurisprudencial desta Corte. Incidência da Súmula 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1424969/AM, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 1º/6/2017, DJe 12/6/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. OFENSA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. 2. AUSÊNCIA DE PRECLUSÃO E IMPENHORABILIDADE DO BEM DE FAMÍLIA. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DA CAUSA. DESCABIMENTO. SÚMULA 7/STJ. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há ofensa ao art. 535 do CPC/1973, pois o Tribunal de origem decidiu a matéria de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. No caso, para rever a conclusão das instâncias ordinárias quanto à ocorrência da preclusão recursal, bem como em relação à possibilidade de penhora do imóvel rural, seria necessário o reexame do conjunto fático-probatório dos autos, o que não se admite em recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp 709.499/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/5/2017, DJe 1º/6/2017.)
+De outro lado, de acordo com a jurisprudência do STJ, a discussão acerca da data em que configurado o sinistro ensejador da indenização securitária contratada (momento em que comprovada a invalidez permanente total do segurado ou a data da concessão do auxílio doença pelo INSS) reclama a incursão no conteúdo fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é vedado a este Tribunal Superior no âmbito do julgamento de recurso especial, ante os óbices insertos nas Súmulas n. 5 e 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - DEMANDA POSTULANDO O PAGAMENTO DE INDENIZAÇÃO PREVISTA EM CONTRATO DE SEGURO DE VIDA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DO SEGURADO.
+1. A discussão acerca da data em que configurado o sinistro ensejador da indenização securitária contratada (momento em que comprovada a invalidez permanente total do segurado ou a data da concessão do auxílio doença pelo INSS) reclama a incursão no conteúdo fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é vedado ao STJ, no âmbito do julgamento de recurso especial, ante os óbices insertos nas Súmulas 5 ("A simples interpretação de clausula contratual não enseja recurso especial.") e 7 ("A pretensão de simples reexame de prova não enseja recurso especial.").
+2. Agravo regimental desprovido.
+(AgRg no AREsp 427.313/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/3/2014, DJe 31/3/2014.)
+Ademais, verifica-se que a conclusão do Colegiado estadual - de que "o Auxílio-Doença é um Benefício temporário, de caráter provisório, mormente porque neste momento não houve a caracterização da invalidez como permanente" (e-STJ fl. 274) - encontra-se em consonância com a jurisprudência do STJ, para a qual o auxílio-doença, podendo ser transitório, não se vincula a incapacidade permanente. Sobre o tema:
+CIVIL. SEGURO DE VIDA E ACIDENTES PESSOAIS EM GRUPO. PRESCRIÇÃO ÂNUA. SÚMULA 101. TERMO INICIAL. AUXÍLIO-DOENÇA. INAPLICABILIDADE.
+1. O prazo prescricional da ação contra o segurador tem início quando o segurado toma conhecimento da incapacidade laboral e da respectiva amplitude (CC/16; Art. 178, § 6º, II e Súmula 101).
+2. O gozo de auxílio-doença do INSS não marca termo inicial da prescrição ânua para cobrança de indenização do segurado em grupo contra seguradora. É que o auxílio-doença, podendo ser transitório (Lei 8.213/91; Art. 59), não se vincula a incapacidade permanente.
+Em regra, o segurado só tem ciência da incapacidade laboral, total ou parcial, mediante o conhecimento do laudo pericial.
+(REsp 202.846/SP, Relator Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 20/9/2004, DJ 17/12/2004, p. 512.)
+Incide também, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
