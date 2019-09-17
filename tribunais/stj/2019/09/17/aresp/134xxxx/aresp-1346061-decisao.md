@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 284 do STF e 7 do STJ (e-STJ fls. 1.144/1.145).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.054):
+EMENTA: APELAÇÃO CÍVEL. CONTRATO DE REPRESENTAÇÃO COMERCIAL. VERBAL. EXCLUSIVIDADE E VALOR DA COMISSÃO NÃO DEMONSTRADOS. ÔNUS DO FATO CONSTITUTIVO DO DIREITO DA AUTORA. IMPROCEDÊNCIA DO PEDIDO. 1. Havendo dúvida acerca da obrigação estabelecida entre as partes litigantes e não conseguindo a Apelante/Autora provar o fato constitutivo de seu direito, conf. art. 373, I, do CPC, deve o Magistrado apreciar livremente a prova, segundo o princípio do livre convencimento motivado, atendendo os fatos e circunstâncias constantes do processo, segundo previsão do artigo 371, do CPC. 2. Desta forma, não havendo elementos suficientes e capazes de provar de forma inequívoca as alegações da Apelante/Autora quanto à exclusividade da contratação para a região de Goiânia, Aparecida de Goiânia, Senador Canedo e Trindade, bem assim o percentual contratado a título de comissão, há de se julgar improcedentes os pedidos contidos na inicial relativamente a essa cobrança. APELO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.099/1.106).
+Nas razões do recurso especial (e-STJ fls. 1.110/1.121), interposto com fundamento no art. 105, III, "a", da CF, a parte agravante alegou ofensa aos arts. 489, § 1º, III e IV, e 1.022 do CPC/2015.
+Afirmou que o Tribunal de origem "deixou de explicitar os motivos pelos quais a prova documental, especialmente a notificação, a exibição de documentos e a confissão não servem como prova do vinculo de representação comercial exclusiva" (e-STJ fl. 1.117).
+Ademais, sustentou que haveria argumentação genérica, tendo sido aprofundada somente a prova testemunhal, gerando ausência de fundamentação.
+No agravo (e-STJ fls. 1.148/1.153), afirma a presença dos requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 1.159/1.169).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+O Tribunal de origem assim decidiu (e-STJ fls. 1.048/1.050):
+ ..  a sentença merece ser mantida por seus próprios fundamentos (..)
+(..) a empresa autora não se desincumbiu do ônus de provar nem a natureza do contrato de representação comercial, nem ainda a existência de cláusula de exclusividade de área de atuação. Em audiência de instrução e julgamento, a testemunha Sra.
+[NOME], auxiliar administrativa da empresa autora de 2004 a 2007, informou que havia contrato de representação comercial entre as partes para a venda em Goiânia e região. Em contrapartida, o Sr. [NOME], contador terceirizado da empresa autora, nada soube informar. Conforme anteriormente mencionado, o Sr. [NOME], foi ouvido tão somente como informante, porquanto é filho do representante da empresa requerente;
+confirmou os fatos alegados na exordial.
+Nessa perspectiva, ressaltamos que as testemunhas em nada acrescentaram para a tentativa de prová-lo; não demonstraram firmeza e segurança em seus relatos; justificavam realçando o lapso temporal para a incerteza acerca dos fatos. Por outro lado, ouvido por carta precatória, o Sr. [NOME], gestor financeiro da empresa requerida de 2003 a 2014, garantiu que a relação entre as partes não seria de representação comercial, mas sim de parceria comercial; afirmou categoricamente que não havia qualquer exclusividade na prestação do serviço.
+Salientamos que restou suficientemente demonstrado o vínculo contratual existente entre a empresa autora e a empresa requerida, através dos documentos acostados ao digital, notadamente, a notificação extrajudicial de resolução contratual e recibos diversos, bem como através da prova testemunhal. Entretanto, vislumbra-se a inexistência de prova da natureza de representação comercial do contrato, notadamente da aludida exclusividade na venda na referida região; não se provou fatos constitutivos de direito.
+( ) Dentre os documentos carreados ao processo estão notificação extrajudicial da rescisão contratual, recibos, notas fiscais de serviços, comprovantes de depósito, cheques. Mas, a autora não apresentou, em nenhum momento processual, prova cabal de que referido contrato fosse de representação comercial exclusiva; não logrou êxito em provar seu direito de receber o pagamento de comissões por vendas realizadas sem sua intermediação.
+Desse modo, não assiste razão à recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Além do mais, não há nulidade no acórdão recorrido, o qual possui fundamentação suficiente à exata compreensão das questões apreciadas.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
