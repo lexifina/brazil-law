@@ -1,0 +1,22 @@
+DECISÃO
+ Trata-se de conflito negativo de competência instaurado entre o JUIZO FEDERAL DA 15ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE PERNAMBUCO, suscitante, e o JUÍZO DA 1ª VARA DO TRABALHO DE RECIFE, suscitado, nos autos do cumprimento de sentença ajuizado por ERONILDES FRANCELINO DA SILVA em face da UNIÃO e do INSTITUTO NACIONAL DO SEGURO SOCIAL-INSS, objetivando a condenação dos executados ao pagamento ao pagamento total de R$ 8.587,18 (oito mil, quinhentos e oitenta e sete reais e dezoito centavos), correspondente aos valores devidos ao exequente, referente aos índices dos dissídios coletivos de 2004, 2005 e 2006, sobre os proventos da aposentadoria, devidamente atualizadas.
+O pedido de cumprimento de sentença foi ajuizado perante o JUÍZO DA 1ª VARA DO TRABALHO DE RECIFE-PE, que declinou de sua competência, sob o fundamento de que a lide existente é em face da UNIÃO, fundada em lei federal, de natureza administrativo-previdenciária (fls. 241-243).
+O JUÍZO FEDERAL DA 15ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE PERNAMBUCO-PE, a quem foi redistribuído o feito, suscitou o presente conflito, argumentando que a competência para processar e julgar as demandas relativas a cumprimento de convenção coletiva de trabalho é da Justiça Trabalhista (fls. 603-606).
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem entendimento assentado de que nas ações que versam sobre complementação de aposentadoria, a competência jurisdicional é fixada tendo em vista a natureza do ente ao qual caberá o pagamento das verbas pretendidas.
+Nesse sentido, o seguintes precedente:
+ADMINISTRATIVO. PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. FERROVIÁRIOS. LEI N. 8.186/1991. APOSENTADOS E PENSIONISTAS. COMPLEMENTAÇÃO DE APOSENTADORIAS E PENSÕES. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Nos termos da jurisprudência desta Corte, nas ações que versam sobre complementação de aposentadoria, a competência jurisdicional é fixada levando-se em conta a natureza do ente ao qual caberá o pagamento das verbas pretendidas, sendo irrelevante a circunstância de a origem do direito pleiteado ser um acordo coletivo.
+2. A Justiça Federal é competente para processar e julgar ação em que funcionários inativos da Rede Ferroviária Federal S/A - RFFSA postulam a revisão da complementação de suas aposentadorias, tendo em vista que tais verbas possuem natureza previdenciária que estão a cargo da União Federal, conforme disposto no art. 109 da Constituição Federal.
+3. Agravo regimental a que se nega provimento.
+( AgRg no CC 130687 / PE, Rel. Min. SERGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 13/06/2018, DJe 19/06/2018)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SUCESSÃO LEGAL DA RFFSA. INGRESSO DA UNIÃO NO FEITO. DESLOCAMENTO DA COMPETÊNCIA DO FEITO PARA A JUSTIÇA FEDERAL. COMPETÊNCIA RATIONE PERSONAE. ART. 109, I, DA CF/88. SÚMULA 365/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de conversão dos embargos de declaração em agravo regimental, de acordo com o princípio da fungibilidade recursal. Precedentes.
+2. A Lei 11.483/07 estabeleceu que a União é sucessora da extinta RFFSA, que havia incorporada a FEPASA, ressalvando apenas as causas envolvendo pessoal da ativa.
+3. Nesse passo, entendo que não procede a alegação da União no sentido de que, no tocante à complementação das aposentadorias e pensões concedidas aos antigos funcionários da FEPASA, a empresa teria sido sucedida pelo Estado de São Paulo, porquanto o mencionado contrato firmado entre o Estado e a União não pode se sobrepor ao disposto na lei federal.
+4. Assim, considerando a legitimidade da União para atuar no feito como sucessora legal da extinta RFFSA, impõe-se reconhecer a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, bem como do enunciado 365 da Súmula desta Corte.
+5. Agravo regimental a que se nega provimento.
+(EDcl no CC 105.228/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, 3S, julgado em 27.04.2011, DJe 06.05.2011).
+No caso, a responsabilidade quanto ao pagamento da aludida verba incide sobre a União (na qualidade de sucessora da extinta RFFSA). Dessa forma, a competência para analisar o cumprimento de sentença é da Justiça Federal.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o JUIZO FEDERAL DA 15ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE PERNAMBUCO.
+Publique-se. Intimem-se.
