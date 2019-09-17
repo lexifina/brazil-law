@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por BIOENERGETICA VALE DO PARACATU SA contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO CAUTELAR - PREPARO RECURSAL INSUFICIENTE - INÉRCIA - RECURSO DESERTO - JULGAMENTO APENAS DA CAUTELAR - NULIDADE - INOCORRÊNCIA - REQUISITOS LEGAIS - SENTENÇA MANTIDA
+- Tanto a norma processual revogada quanto a vigente estabelecem que, no ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e retorno, sob pena de deserção.
+- Quedando-se inerte a primeira apelante após ser intimada para recolher o complemento do preparo, resta clara a deserção do recurso, impondo- se a negativa de seguimento, já que o recolhimento das custas constitui requisito extrínseco de admissibilidade recursal.
+- Não há que se falar em nulidade da sentença proferida em ação cautelar cuja ação principal ainda não foi julgada, considerando-se a autonomia deste procedimento, o caráter provisório da decisão que confirma a liminar e a ausência de coisa julgada material (ad. 807, CPC/73) - A procedência da Ação Cautelar será possível quando demonstrado o fumus boni iuris e o periculum in mora, que se qualificam pela existência de plausibilidade do direito alegado e a difícil reparação deste, caso tenha a parte de aguardar o deslinde do processo em curso.
+- Demonstrados os requisitos legais, não há que se falar em reforma da sentença.
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
