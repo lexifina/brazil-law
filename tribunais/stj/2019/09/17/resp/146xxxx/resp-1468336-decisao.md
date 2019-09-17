@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Comissão de Valores Mobiliários, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fls. 260):
+AÇÃO ORDINÁRIA. TRIBUTÁRIO. COMISSÃO DE VALOR IMOBILIÁRIOS - CVM. TAXA DE FISCALIZAÇÃO. COMPANHIA INCENTIVADA. DECRETO-LEI 2.298/86. LEI N. 7.940/89. RETROATIVIDADE. IMPOSSIBILIDADE.
+Ocorrida a percepção dos incentivos fiscais, em ato isolado, no ano de 1973, período em que tal situação não configurava hipótese de incidência da taxa de fiscalização do mercado de valores mobiliários, ou seja, anteriormente à edição do Decreto-lei nº 2.298/86, que outorgou à Comissão de Valores Mobiliários o poder de fiscalizar as sociedades beneficiárias de recursos oriundos de incentivos fiscais, e antes da instituição do tributo criado pela Lei nº 7.940/89, não há falar em cobrança da taxa de fiscalização prevista em Lei, sendo vedada a retroação de seus efeitos jurídicos a período pretérito à sua edição.
+Os embargos de declaração opostos contra aludida decisão foram rejeitados.
+A recorrente alega a existência de contrariedade ao art. 3º da Lei n. 7.940/1989, por entender que a Companhia recorrida se sujeita à fiscalização da CVM, pelo que deve recolher a taxa de fiscalização.
+Sustenta, ainda, a existência de divergência jurisprudencial em torno do tema.
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+O Superior Tribunal de Justiça firmou entendimento segundo o qual " ..  as empresas beneficiadas por recursos de incentivos fiscais, a taxa de Fiscalização do Mercado de Valores Mobiliários terá incidência enquanto perdurar os efeitos do benefício fiscal aventado, pois a fiscalização efetivada pela CVM decorre no poder de polícia em sindicar o cumprimento do acordo legal entabulado, sendo irrelevante o momento da concessão do benefício, mas sim se o benefício se prolonga no tempo, estando vigente no momento da fiscalização, o que afastaria o efeito retroativo da norma" (AgRg no REsp 1.484.803/PE, Rel. Min. Humberto Martins, Segunda Turma, DJe 21/11/2014).
+No caso dos autos, o Tribunal de origem afirmou que a sociedade recorrida não se submetia à fiscalização da CVM no período objeto de discussão. Confira-se (e-STJ, fl. 256):
+Pelo princípio da irretroatividade, insculpido na Constituição Federal, é vedada a cobrança de tributo "em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado" (art. 150, III, "a").
+É incontroverso nos autos que a empresa recebeu incentivos fiscais no ano de 1973, época em que não havia a obrigatoriedade de registro na Comissão de Valores Mobiliários. A Taxa de Fiscalização cobrada pela demandada surgiu apenas com a Lei nº 7.940/1989, nestes termos:
+ ..
+Então, não se sustenta a argumentação trazida pela CVM. A obrigatoriedade de registro na Comissão de Valores Mobiliários, e o pagamento da Taxa de Fiscalização, apenas podem ser atribuídos às sociedades beneficiárias de incentivos fiscais recebidos após a vigência da lei que a instituiu, sob pena de afronta ao princípio da irretroatividade da obrigação tributária.
+No mais, mesmo considerando como fato gerador o exercício do poder de polícia pela CVM, ele não pode alcançar as sociedades beneficiárias de incentivos fiscais recebidos em época em que não era obrigatório o registro na Comissão de Valores Mobiliários.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se a sociedade em tela se submeteria à fiscalização da CVM no período indicado, como sustentado neste apelo extremo, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. TAXA DE FISCALIZAÇÃO DO MERCADO DE VALORES MOBILIÁRIOS. SOCIEDADE BENEFICIÁRIA DE RECURSOS ORIUNDOS DE INCENTIVOS FISCAIS. LEI N. 7.940/89. EMPRESA EXCLUÍDA DO PROGRAMA. MODIFICAÇÃO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. A taxa de fiscalização da Comissão de Valores Mobiliários tem por fato gerador o exercício do poder de polícia atribuído à própria CVM, nos termos da Lei n. 7.940/89. Assim, a referida taxa terá incidência enquanto perdurar os efeitos do benefício fiscal aventado, pois a fiscalização efetivada pela CVM decorre do poder de polícia em sindicar o cumprimento do acordo legal entabulado, sendo irrelevante o momento da concessão do benefício, mas sim se o benefício se prolonga no tempo, estando vigente no momento da fiscalização, o que afastaria o efeito retroativo da norma.
+3. Portanto, a exação em apreço será devida enquanto perdurar a necessidade de fiscalizar a continuidade do cumprimento das condições exigidas para a fruição dos benefícios. A toda evidência, eventual possibilidade de cobrança da taxa dependeria de a agravada ainda se submeter ao poder de polícia da CVM, o que não ocorre na espécie, conforme se extrai do acórdão recorrido.
+4. Com efeito, a modificação do julgado para reconhecer a incidência da taxa, porquanto ainda presentes os efeitos dos benefícios fiscais concedidos, demandaria reexame de provas, o que encontra óbice na Súmula n. 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.524.335/RS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 26/6/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
