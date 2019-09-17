@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSO CIVIL. TRIBUTÁRIO. EMBARGOS DE TERCEIRO EM EXECUÇÃO FISCAL. ALIENAÇÃO SUCESSIVA DE IMÓVEL. BOA-FÉ DO ADQUIRENTE. FRAUDE À EXECUÇÃO NÃO CONFIGURADA. APELAÇÃO PROVIDA. PRECEDENTE DESTE TRIBUNAL.
+1. Trata-se de apelação interposta por [NOME] em face de sentença que julgou improcedentes os embargos de terceiro, reconhecendo fraude à execução e considerando, consequentemente, a alienação do imóvel ineficaz.
+2. O Superior Tribunal de Justiça, ao apreciar o REsp n. 1141990/PR, consolidou o entendimento de que "a alienação engendrada até 08.06.2005 exige que tenha havido prévia citação no processo judicial para caracterizar a fraude à execução; se o ato translativo foi praticado a partir de 09.06.2005, data de início da vigência da Lei Complementar n. 118/2005, basta a efetivação da inscrição em dívida ativa para a configuração da figura da fraude".
+3. A aplicação do entendimento adotado no REsp n. 1141990/PR não deve ser automática, devendo-se atentar para as peculiaridades de cada caso. Compulsando os autos, verifica-se que a situação vertente não se adequa à hipótese do art. 185 do Código Tributário Nacional.
+4. No caso aqui analisado, o débito ora executado foi inscrito em 23/06/2013. No entanto, conforme as provas anexadas aos autos (Id. 1412415 e Id. 1412467), o imóvel penhorado já havia sido alienado em 05/04/2002, mas não averbada a escritura em cartório de registro de imóveis, constando dos autos um recibo de quitação do valor de venda aos senhores [NOME], JOÃO ARTHUR [NOME] [NOME] e JOÃO ALEXANDRE [NOME] [NOME], bem como uma autorização dos alienantes (executado e esposa), para o registro da escritura definitiva.
+5. A embargante adquiriu o imóvel constrito, através de contrato particular de promessa de cessão de direito de posse e domínio, no qual constam, como promitentes cedentes, os adquirentes do referido bem, no ano de 2002. Assim, tendo a alienação se dado em data anterior à inscrição do crédito tributário em dívida ativa, afasta-se a ocorrência de fraude à execução.
+6. Não se vislumbra a má-fé da embargante, ora apelante, uma vez que adquiriu o imóvel objeto de venda sucessiva, sem que houvesse qualquer indício de ocorrência de conluio fraudulento entre ela e o vendedor ou entre ela e o executado originário. Ademais, consta nos autos prova de que a apelante tomou todas as precauções, a fim de verificar a validade da transação, como se infere da Certidão de Ônus e Alienação (id. 1412417), a qual atesta o desimpedimento do bem.
+7. No caso de alienações sucessivas de imóveis, não é razoável exigir do último comprador que investigue toda a cadeia dominial do imóvel, em busca de certidões negativas dos proprietários anteriores.
+8. É válida, portanto, a alienação a terceiro, que adquiriu o bem sem conhecimento da constrição judicial, amparado pela boa-fé, de modo que, não constatada a existência de fraude à execução na aquisição realizada, é de se considerar como ilegítima a penhora levada a efeito nos autos da execução fiscal.
+9. Apelação provida.
+A recorrente alega contrariedade ao disposto nos arts. 1.227, 1.245, 1.243 e 1.247 do Código Civil e 185 do Código Tributário Nacional. Sustenta a ocorrência de fraude à execução.
+Apresentadas as contrarrazões, o apelo nobre foi admitido na origem.
+É o relatório.
+Com o advento da Lei Complementar n. 118/2005, dando nova redação ao art. 185 do Código Tributário Nacional, a mera alienação de bens pelo sujeito passivo com débitos inscritos na dívida ativa, sem a reserva de meios para quitá-los, indica fraude à execução ante a primazia do interesse público.
+No caso dos autos, entretanto, o Tribunal Regional afastou a penhora que recaiu sobre o imóvel objeto de alienação do executado a terceiro, concluindo que, "tendo a alienação se dado em data anterior  11 anos  à inscrição do crédito tributário em dívida ativa, afasta-se a ocorrência de fraude à execução".
+A inversão das premissas adotadas pela instância ordinária encontra óbice no enunciado da Súmula 7 desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. INEXISTÊNCIA. MÁ-FÉ. CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE.
+I - Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que é ineficaz a cessão feita ao embargante em data não comprovada e sem a requisição das certidões pessoais do promitente cedente e soma-se a isso a ausência de comprovação das assinaturas constantes do contrato de compra e venda. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em recurso especial. Enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 975.760/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/6/2017, DJe 23/6/2017)
+Não fosse o bastante, é assente na jurisprudência da Segunda Turma que "a celebração de compromisso de compra e venda, ainda que não tenha sido levado a registro no Cartório de Registro de Imóveis, constitui meio hábil a impossibilitar a constrição do bem imóvel, discutido em execução fiscal, e impede a caracterização de fraude à execução" (AgRg no AREsp 449.622/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 18/3/2014).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
