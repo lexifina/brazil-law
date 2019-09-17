@@ -1,0 +1,16 @@
+DECISÃO
+
+Trata-se de agravo apresentado por FLAVIO CESAR ALVES DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA, assim resumido:
+APELAÇÃO - Recurso Ministerial - Condenação - Possibilidade - Materialidade e autoria delitivas comprovadas - Prova robusta e suficiente da efetiva participação dos réus - Hipótese, contudo, em que os fatos descritos na denúncia caracterizaram apenas o crime de latrocínio consumado - Recurso Ministerial parcialmente provido (fl. 326).
+Alega violação do art. 155 do CPP, no que concerne à absolvição por falta de prova da autoria delitiva, trazendo os seguintes argumentos:
+ Para fundamentar a condenação, a Corte utilizou elementos produzidos exclusivamente da fase policial (fl. 362).
+ A premissa para interposição do presente recurso especial consiste em que o acórdão recorrido, para lastrear a condenação, reconheceu e utilizou exclusivamente e substancialmente o reconhecimento feito pela vítima Jacinto na fase policial, dado esse que não foi repetido nem tampouco confirmado em juízo. Assim, é clara a violação das normas convencionais e federais, o que deve gerar a absolvição (fl. 369).
+ A vítima Jacinto não compareceu em juízo para ratificar o que expôs na fase inquisitiva e que foi reproduzido pelos milicianos na fase de instrução processual. Recorde-se que o réu negou a prática delitiva. Os policiais militares não presenciaram os fatos, de modo que a única prova de autoria que pudesse vincular o recorrente ao crime era o reconhecimento feito pela vítima Jacinto. Este ato, contudo, foi realizado apenas na fase policial. Tanto é que, conforme se verifica à fl. 303, o próprio Tribunal de Justiça usou do elemento indiciário para fundamentar sua decisão. Com isso, fica claro que a Corte Intermediária se apoiou unicamente no reconhecimento extrajudicial (fl. 370).
+ No caso em análise, tampouco cabe o argumento de que outros elementos de prova produzidos em juízo, tais como o testemunho dos policiais, corroborou a prova extrajudicial não repetida em contraditório (fl. 372).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
