@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO IPREM contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - PENSÃO POR MORTE - PERDA DA QUALIDADE DE BENEFICIÁRIA DA SEGURADA A PARTIR DO ENLACE MATRIMONIAL - RESTITUIÇÃO DAS PARCELAS INDEVIDAMENTE RECEBIDAS - CABIMENTO - BOA-FÉ DA DEMANDADA AFASTADA - DOCUMENTOS APTOS A DEMONSTRAR DECLARAÇÃO INVERÍDICA DO ESTADO CIVIL PERANTE O IPREM - PRESCRITIBILIDADE DA PRETENSÃO RESTITUITÓRIA - TESE FIRMADA NO JULGAMENTO DO RE 669.069, COM REPERCUSSÃO GERAL RECONHECIDA - AJUIZAMENTO DA AÇÃO ANTES DO DECURSO DO PRAZO PRESCRICIONAL - APLICAÇÃO DO DISPOSTO NO DECRETO 20.910/32 POR SIMETRIA E DO ENTENDIMENTO FIRMADO NA SÚMULA Nº 383 DO E SUPREMO TRIBUNAL FEDERAL - CAUSA INTERRUPTIVA DA PRESCRIÇÃO VERIFICADA EM 2013 - ART. 202, VI DO CÓDIGO CIVIL - PRESCRIÇÃO PARCELAR QUE ATINGE O RESSARCIMENTO DOS VALORES RECEBIDOS NO PERÍODO ANTERIOR AO QUINQUÊNIO QUE ANTECEDEU O MARCO INTERRUPTIVO PRESCRICIONAL - ATUALIZAÇÃO MONETÁRIA - TERMO INICIAL - DATA DE CADA PAGAMENTO INDEVIDO - CRITÉRIO - PRECEDENTES DO C. STJ - RECURSOS VOLUNTÁRIOS DO AUTOR E DA RÉ PARCIALMENTE PROVIDOS.
+Quanto à controvérsia trazida aos autos, alega violação do art. 406 do CC, no que concerne à possibilidade de fixação dos juros de mora em 1% ao mês para qualquer tipo de débito, trazendo o(s) seguinte(s) argumento(s):
+14.- O v. acórdão recorrido, mantendo a r. sentença apelada, entendeu ser aplicável os juros de mora e a correção monetária de acordo com a SELIC.
+15.- Com a devida vênia, o art. 406 do Código Civil permite a fixação dos juros de mora em 1% ao mês para qualquer tipo de débito, não limitando aos casos de responsabilidade civil contratual.
+16.- Ao se determinar a aplicação do índices da SELIC, resta patente a violação ao art. 406 do Código Civil.
+17.- Dessa forma, deve ser dado provimento ao Recurso para o fim de fixar os juros de mora em 1% ao mês (grifo nosso) (fl. 237).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
