@@ -1,0 +1,23 @@
+EMENTA
+RECURSO ESPECIAL. CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. PRETENSÃO REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ.
+RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por M C DA S. (MENOR), SILEIDE NASCIMENTO CARVALHO E JOÃO BATISTA FERREIRA DA SILVA em face de acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado:
+Apelação Cível. Unidade hospitalar. Anotações equivocadas em prontuário de recém-nascido. Solicitação de exames confirmatórios. Ausência de dano moral. Para o diagnóstico definitivo da enfermidade, é necessária a realização de exames confirmatórios, não ensejando indenização por danos morais a informação equivocada sobre o primeiro resultado.
+No recurso especial, os recorrentes apontam ofensa aos arts. 186, 187, 927 e 932 do Código Civil, alegando que restou caracterizada "a existência do fato e provada a autoria e a culpabilidade dos recorridos pelo ato ilícito, cometido ainda no leito de nascimento da menor, ante o diagnóstico equivocado proferido pela médica".
+Contrarrazões às e-STJ Fls. 276-278.
+Em parecer, o Ministério Público Federal opina pelo não conhecimento do recurso especial.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+Como se sabe, "nos termos do artigo 105, inciso III, da Constituição Federal, este Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, o revolvimento dos fatos da causa e do processo, à moda de recurso ordinário ou de apelação. O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição" (STJ, AgRg no REsp 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 16/05/2018).
+Assim, considerando que não há, na fundamentação recursal, a indicação adequada da questão federal controvertida, tendo deixado os recorrentes de demonstrar, de forma clara e precisa, de que modo o acórdão recorrido violou os dispositivos de lei - que foram simplesmente elencados ao final do recurso especial -, a pretensão não pode ser conhecida, atraindo a incidência, por analogia, do óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Vale lembrar que "a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF" (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 15/09/2017).
+Como se não bastasse, cabe ao julgador, em instância ordinária, fazer o cotejo fático e probatório a fim de analisar a existência de provas suficientes a amparar o pedido autoral.
+Logo, ilidir as conclusões do aresto impugnado - de que "não há, portanto, elementos para dar guarida à condenação das recorridas a indenizar recorrentes por danos morais" - , acatando o argumento dos recorrentes, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Com efeito, a linha argumentativa desenvolvida no decorrer do recurso especial como, por exemplo, "restou demonstrado em todo o bojo do processo, com provas incontestáveis trazidas pelos recorrentes/requerentes, as quais demonstram com clareza solar os prejuízos sofridos por eles com a atitude da recorrida Joseluce", apenas corrobora a pretensão de reexame de fatos e provas dos autos.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatícios devidos ao(s) advogado(s) da parte recorrida de 15% sobre o valor atualizado da causa para 17%, observada eventual concessão da gratuidade da justiça.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Intime-se.
