@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por MAT S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUTORIDADE COATORA. MATRIZ FILIAL. ILEGITIMIDADE.
+Alega violação do art. 127, inciso II, do Código Tributário Nacional, no que concerne à legitimidade ad causam do Delegado da Receita Federal do Brasil do Estado em que localizada a filial, trazendo o seguinte argumento:
+3.6. Logo, é evidente que, ao afastar a legitimidade passiva ad causam do Delegado da Receita Federal do Brasil no Rio De Janeiro (DRJ/RJ I), o acórdão recorrido negou vigência, expressamente, à aplicação da regra prevista no art. 127, II, do CTN e ao princípio da autonomia dos estabelecimentos, impondo-se a sua anulação e o imediato retorno dos presentes autos ao Tribunal ad quo para que seja apreciada questão de fundo posta nesta demanda (fls. 518).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Não se conhece do recurso especial, quando o dispostivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula n. 284 do STF" (AgInt no REsp n. 1.788.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 6/6/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.651.670/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/6/2019; AgInt no REsp n 1.689.883/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/6/2019; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
