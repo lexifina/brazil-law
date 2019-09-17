@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo, interposto por ANA MARIA COMÉRCIO DE CONFECÇÕES LTDA, mediante o qual se impugna decisão que negou seguimento a seu Recurso Especial, esse tirado de acórdão (fls. 151/157e), promanado do Tribunal Regional Federal da 5ª Região, que negou provimento a Apelação de sentença que julgou improcedentes Embargos à Execução Fiscal, em razão do atendimento, pela CDA, dos seus requisitos legais de validade, bem como pela ausência de prova do pagamento do crédito tributário executado.
+Embargos de Declaração parcialmente acolhidos, apenas para a correção de erro material (fls. 177/185e).
+No Recurso Especial, manejado com base nas alíneas a e c do permissivo constitucional, alega-se a existência de dissenso pretoriano e violação aos arts. 204, 151, VI, 156, I, do CTN, 3º da Lei 6.830/80 e 464 do CPC/2015.
+Sustenta-se, em síntese, o seguinte:
+"(..) a Embargante/Recorrente foi citada para pagar, no prazo de 5 dias, débitos inscritos em dívida sob os n. CDA Nº. 41.624.941-8 e 41.624.942-6, referente a contribuições previdenciárias, no montante de R$ 43.352,18, relativa aos autos da Execução Fiscal de nº 0008428- 85.2013.4.05.8100.
+Cuidam, então, os autos, de Embargos à Execução Fiscal, visando o reconhecimento da inexistência da relação jurídico tributária, vez que o crédito tributário, ora executado pela Fazenda Nacional, encontra-se devidamente quitado, com fundamento legal do art. 156, inciso I, do CTN.
+Contudo, embora a quitação do débito tributário seja suficiente para elidir a presunção de exigibilidade e iliquidez das CDA"S ora executadas, entenderam os julgadores de j9 e 2q graus por julgar improcedentes os Embargos a execução, bem como o Recurso Apelatório.
+(..)
+Uma vez não cumpridos os requisitos elencados no art. 202, do CTN, bem como o que enuncia o art. 2º, da Lei 6.830/80, a inscrição em dívida ativa é de pronto nula.
+(..)
+Contudo, embora não tenham assim entendido o M.M. Juízo de piso e o r. juízo de 2º grau, bastava uma simples incursão nas cda"s objeto de discussão dos embargos para se verificar que um dos requisitos essenciais à sua validade não fora observado e cumprido pelo fisco federal, o que enseja de pronto a nulidade destas.
+Nesses termos, veja-se, portanto, que da análise das CDA"S é impossível averiguar qual a origem, natureza e o fundamento legal da dívida inscrita, ora, as referidas inscrições em dívida ativa, não mencionam a que débito se referem, não há código referente ao débito, não há a fundamentação Iegal para o débito.
+Nas CDA"s em tela, apenas há, de forma genérica, informações sobre legislação quanto ao cálculo dos juros, do encargo legal, da multa, contudo não contém a natureza do débito, ou seja, a Embargante/Recorrente sequer sabe o que está lhe sendo cobrado, a que tipo de contribuição se refere à cobrança, uma vez que no corpo daquelas, no campo fundamentação legal fala-se de maneira ampla em:
+(..)
+O título de inscrição em dívida ativa não menciona de forma expressa a fundamentação legal e a natureza para a cobrança do débito, pelo contrário, tratam-se de CDA"S confusas, nas quais reside fundamentação legal de todo o tipo de cobrança possível previdenciária.
+(..)
+Assim, certo é que a execução fiscal deverá ser fundamentada com a Certidão da Dívida Ativa que apresente os requisitos para sua validade previstos no art. 202, do CTN, bem como no art. 2º, da Lei nº 6.830/80. No caso em apreço, as CDA"S não indicam a natureza da dívida e nem a sua fundamentação legal.
+No caso em tela, a prova inequívoca que caracteriza a ILIQUlDEZ dos títulos executivos constante da Execução Fiscal, decorre da efetiva falta de requisitos que autorizem a presente Execução Fiscal, no que tange à inexigibilidade do debito em questão, lastreadas nas já mencionadas Certidões de Dívida Ativa.
+É precisamente nesse aspecto que não poderiam os juízos de 1º e 2º graus terem compreendido que a União demonstrara "de forma satisfatória estarem presentes os requisitos legais a que se submete a CDA quanto a sua liquidez e certeza e não há defeito algum na inicial".
+Desta forma, como foi demasiadamente exposto nos parágrafos acima alinhados, percebe-se que a pretensa dívida foi irregularmente constituída.
+Nesse sentido as CDAS supracitadas são totalmente inexigíveis, carecendo completamente de liquidez.
+Portanto, diante dos argumentos esposados, fica claro que o Fisco Federal incorreu em grave erro ao apresentar a execução, ao passo que imputa obrigação totalmente inexigível, em face da patente iliquidez, trazendo prejuízo a empresa executada, razão pela qual, também por este viés, requer-se a reforma do acórdão" (fls. 196/202e).
+Requer-se, por fim, "a esse Egrégio Tribunal que se digne de conhecer do presente RECURSO ESPECIAL e, por consequência, acolhê-lo, reformando o acórdão proferido" (fl. 207e).
+Contrarrazões às fls. 217/222e.
+Recurso Especial inadmitido (fl. 224e), com base na Súmula 7/STJ, o que ensejou a interposição de Agravo (fls. 227/244e).
+Contraminuta às fls. 248/250e.
+O presente recurso não merece prosperar.
+De início, registre-se a impossibilidade de conhecimento da questão concernente à suposta quitação da dívida executada. Com efeito, seria imprescindível, para esse mister, rever o juízo exarado nas instâncias ordinárias acerca da inexistência, nos autos, da referida prova de pagamento, providência vedada pela Súmula 7/STJ.
+Da mesma maneira, descabida a análise, nesta via recursal, da necessidade ou desnecessidade de produção de prova. A uma, porque demandaria, mais uma vez, incursão no conjunto probatório dos autos, medida obstada pela Súmula 7/STJ. A duas, porque, no Recurso Especial, sequer se aponta, concretamente, o modo pelo qual a prova haveria de ser produzida, o que inquina o recurso, a rigor, nesse ponto, de inépcia formal (Súmula 284/STF, por analogia).
+Quanto ao mais, revela-se impossível rever o entendimento do Tribunal a quo no sentido da validade da CDA, porquanto demandaria, vez outra, revolvimento de matéria fática, medida vedada em sede de Recurso Especial (Súmula 7/STJ).
+Senão, vejamos:
+"TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. CERCEAMENTO DE DEFESA. SÚMULA N. 7/STJ. NULIDADE DA CDA. SÚMULA N. 7/STJ. INCIDÊNCIA DO ISSQN. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O óbice da Súmula n. 7/STJ não se aplica exclusivamente quando o recorrente pugna pela análise das provas dos autos, mas quando o acolhimento da pretensão recursal e consequente desconstituição da conclusão a que chegou o acórdão recorrido exige necessariamente o revolvimento de matéria fática e probatória.
+2. A Corte de Origem afastou a pretensão de cerceamento de defesa com fulcro na suficiência da perícia realizada para a elucidação da controvérsia, desconstituir tal fundamento a fim de acolher a tese de cerceamento de defesa em virtude necessidade de maiores esclarecimentos, demandaria revolvimento do suporte fático-probatório dos autos. Súmula n. 7/STJ.
+3. No que diz respeito à CDA, tendo o acórdão consignado que não existem vícios na mencionada certidão, concluir contrariamente à Corte de Origem exigiria análise das provas dos autos. Súmula n. 7/STJ.
+4. Outrossim, o exame do enquadramento das atividades desempenhadas pela instituição bancária na Lista de Serviços anexa ao Decreto-Lei n. 406/68 demanda o reexame do conteúdo fático-probatório dos autos, vedado pela Súmula 7 desta Corte.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 1.364.178/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/03/2019).
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESUNÇÃO DE LEGITIMIDADE DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal "a quo" julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A indicada afronta aos arts. 113, § 2º, e 143 do CTN; ao art. 332 do CPC de 1973 e ao art. 2º da LEF não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal "a quo", a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. O reexame das características da CDA é inviável pelo STJ, pois demanda incursão no acervo fático-probatório dos autos. Logo, tal medida encontra óbice na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. O Tribunal de origem decidiu a controvérsia em sintonia com o entendimento do Superior Tribunal de Justiça, porquanto consignou que a presunção de legitimidade da Cédula de Dívida Ativa é relativa ou "iuris tantum", admitindo prova em contrário por parte do executado da sua ilegitimidade para constar no polo passivo da relação de direito processual.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido" (STJ, REsp 1.762.568/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/11/2018).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Sem honorários recursais. Inexistência de condenação em honorários de sucumbência na origem.
+I.
