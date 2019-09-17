@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado por CELG DISTRIBUIÇÃO S.A. - CELG D contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. APURAÇÃO DE FRAUDE EM MEDIDOR DE ENERGIA ELÉTRICA. PROCEDIMENTO ADMINISTRATIVO. PROVA PERICIAL UNILATERAL. NULIDADE. INEXISTÊNCIA DO DÉBITO APURADO. REFORMA DA SENTENÇA. PEDIDO JULGADO PROCEDENTE.
+1. A concessionária de energia não providenciou a perícia técnica apta a evidenciar a existência da suposta fraude, limitando-se a emitir Relatório de Inspeção de Medição em Operação, Termo de Ocorrência de Irregularidade e Laudo Técnico de Medidor, lavrados por seus próprios funcionários, nos quais é relatada a intervenção indevida no medidor de energia. Ao agir assim, a apelante violou expressamente o art. 72 da Resolução 456/2000 da ANEEL.
+2. Dessa forma, e diante da impossibilidade de realização de perícia ante o decorrer do tempo, necessária a declaração de nulidade da cobrança do débito apontado na exordial.
+3. APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 6º da Lei n. 8.987/95, no que concerne à concessão de serviço de energia elétrica, trazendo os seguintes argumentos:
+Conforme já demonstrado em todas as demais petições juntadas aos autos, todo o processo administrativo e faturamento do débito foi realizado seguindo estritamente as determinações da Resolução vigente na época dos acontecimentos.
+Importante relembrar que o procedimento de TOI é licito, além de visar o beneficio de toda a coletividade, sendo previsto pela legislação sancionada pela ANEEL, tendo a Recorrente a obrigação de respeita-la, sob pena de sofrer sanções administrativas (fl. 500).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos, porquanto concluiu o Tribunal estadual que:
+ ..  valendo-se de uma investigação unilateral e administrativa referente a supostos débitos pretéritos, a CELG DISTRIBUIÇÃO S/A (CELG D) suspendeu, de forma indevida, o fornecimento de energia elétrica do autor/recorrente.
+Assim, não ocorrendo a comprovação inconteste da suposta fraude não há como imputar tal ato ilícito ao usuário/apelante, para fazer jus ao recebimento do alegado consumo indevido de energia elétrica na unidade consumidora em referência (fl. 450).
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
