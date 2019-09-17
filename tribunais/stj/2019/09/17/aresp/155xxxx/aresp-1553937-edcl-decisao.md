@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] em face da decisão de fls. 432-436 e-STJ,de lavra deste signatário, em que se negou provimento a agravo em recurso especial manejado pelo ora embargante.
+Essencialmente, o reclamo foi desprovido, pois não se vislumbrou negativa de prestação jurisdicional.
+Nas razões dos aclaratórios (fls. 511-516 e-STJ) o embargante alegou haver contradição e omissão no decisum, pois nos "acórdãos proferidos, tão somente houve a condenação da Embargada a subscrição ou pagamento da diferença de ações "entre o número de títulos a que o autor teria direito na data da subscrição do capital e o que efetivamente foi emitido em seu proveito". Contudo, "o Embargante desde à exordial e em razões recursais demonstrou que, na verdade, quanto das ações relativas a dobra acionária, nenhuma ação foi-lhe emitida, sendo, portanto, devido a subscrição ou indenização de todas as ações referentes a cisão e requereu expressamente que a condenação da Embargada a cisão parcial com incorporação pela TELESC CELULAR S/A, de parcela cindida de TELECOMUNICAÇÕES DE SANTA CATARINA S/A - TELESC".
+Sem impugnação.
+É o relatório. Decide-se.
+Os presentes aclaratórios não comportam acolhimento.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada. Nesse sentido, veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO DE ANULAÇÃO DE TÍTULO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA AUTORA.
+ ..
+2. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, ao mero reexame da causa como pretende a parte.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no Ag 1230075/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/09/2015, DJe 11/09/2015)
+Citam-se, ainda, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, o embargante não apontou com precisão qual seria a omissão ou contradição na decisão impugnado, limitando-se a demonstrar seu inconformismo com o resultado do julgamento. Em síntese, afirmou que seu pedido inicial quanto à condenação da embargada à subscrição de ações referentes à dobra acionária - ou indenização correspondente - não foi decidido no acórdão recorrido.
+Razão não lhe assiste, pois a decisão singular encontra-se devida e suficientemente fundamentada, tendo enfrentado todos os pontos necessários ao deslinde da controvérsia.
+Essencialmente, não se verificou negativa de prestação jurisdicional no acórdão estadual, uma vez que esse se manifestou expressamente sobre o ponto, reconhecendo a ausência de interesse recursal, haja vista o pedido ter sido julgado procedente pelo magistrado de origem. Veja-se (grifos diferentes no original):
+Alegou a recorrente que o acórdão impugnado restou omisso quanto ao mérito da ação, pois "não restam dúvidas acerca do direito do recorrente quanto a complementação das ações correspondentes a dobra acionária" e, ainda, "quanto ao número total de ações que possui direito".
+Verifica-se, no entanto, conforme os trechos a seguir citados, que o Tribunal de Justiça  do Estado de Santa Catarina  decidiu de modo fundamentado as questões essenciais ao deslinde da controvérsia. Vejam-se ( fls. 342 e-STJ):
+Assevera o autor "que possui direito a subscrição ou a indenização da quantidade exata de ações que o mesmo teria direito quando da aquisição da o linha telefônica, sob a égide dos contratos por participação financeira e não tão somente, a diferença das ações, a ser apuradas em ação autônoma, com a subscrição realizada à menor pela Telesc S/A, no momento da capitalização" (p.259).
+Adianto que, neste tocante, carece o apelante de interesse recursal.
+Conforme exposto na exordial, o autor requereu a complementação da subscrição da quantidade de ações faltantes, quando da cisão de parte do capital social da Telesc S/A, com incorporação desta pela Telesc Celular S/A ("dobra acionária), pleito que foi deferido nos exatos termos pelo magistrado a quo (grifamos).
+E, ainda, em sede de embargos de declaração (fl. 356 e-STJ):
+Com efeito, ainda que a resolução do feito tenha sido contrária aos interesses do embargante - visto que o acórdão atacado reconheceu a ausência de interesse recursal quanto ao pedido de que faz jus ao recebimento da integralidade das ações da telefonia móvel, é de se destacar que a matéria ventilada foi devidamente analisada em conformidade com o almejado pelo autor na exordial.
+Com efeito, a sentença julgou procedentes dos pedidos iniciais, ressaltando que o autor também faz jus à dobra acionária ( fl. 167 e-STJ, sem grifos no original):
+Dito isso, é possível depreender, sem maiores dificuldades, que se a parte autora teve ações não emitidas no momento da integralização do capital perante a empresa de telefonia, por óbvio, também houve diferença no momento da cisão da Telesc [NOME] em Telesc Celular [NOME], razão pela qual este prejuízo deve lhe ser ressarcido, sob pena de enriquecimento sem causa por parte da ré, prática vedada no ordenamento jurídico nacional (art. 884 do Código Civil).
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.
+Assim, estando a decisão embargada clara e suficientemente fundamentada, ainda que contrária aos interesses da parte, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se. Intimem-se.
