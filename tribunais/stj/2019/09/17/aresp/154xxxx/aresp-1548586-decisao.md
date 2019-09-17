@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por CINCOL IV INVESTIMENTOS IMOBILIARIOS LTDA. contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 976/978).
+O acórdão do TJDFT está assim ementado (e-STJ fls. 806/807):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE COMISSÃO DE CORRETAGEM. ILEGITIMIDADE ATIVA E PASSIVA. EMPRESAS QUE PARTICIPARAM DA RELAÇÃO CONTRATUAL. INTERMEDIAÇÃO COMPROVADA. DIREITO À REMUNERAÇÃO.- ATUAÇÃO DE MAIS DE UM CORRETOR. DISTRIBUIÇÃO PROPORCIONAL DA COMISSÃO.
+I. Na demanda que tem por objeto o pagamento de comissão de corretagem, a pessoa jurídica que invoca a realização da intermediação e o proprietário do imóvel alienado são partes legítimas para a causa.
+II. Comprovada a aproximação útil dos interessados no negócio imobiliário, o corretor que a promoveu tem direito à percepção da comissão de corretagem, ainda que a alienação tenha sido coadjuvada por outros fatores.
+III. Segundo a inteligência do artigo 726, primeira parte, do Código Civil, a remuneração não será devida ao corretor contratado apenas quando "iniciado e concluído o negócio diretamente entre as partes".
+IV. Se a alienação proveio da atuação de mais de um corretor, a comissão de corretagem deve ser arbitrada ou distribuída segundo a proporção do trabalho desenvolvido, nos termos do artigo 728 da Lei Civil.
+V. Na sistemática do Código de Processo Civil de 1973, salvo na hipótese de seguro, não era processualmente viável a condenação direta ou solidária do denunciado à lide, segundo se depreende da inteligência do seu artigo 76.
+VI. Agravo Retido conhecido e desprovido. Apelação da Ré conhecido em parte e parcialmente provida. Apelação da Litisdenunciada desprovida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 846/858).
+Nas razões do recurso especial (e-STJ fls. 862/872), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação:
+(a) do art. 489, IV, do CPC/2015, pois o acórdão teria gerado insegurança jurídica, deixando de reconhecer as teses de afronta aos arts. 725 do CC/2002 e 373, I, do CPC/2015,
+(b) do art. 725 do CC/2002, visto que o negócio jurídico entre a recorrente e a TENDA CONSTRUTORA S.A. teria sido intermediado pela empresa PRC EMPREENDIMENTOS LTDA., com a devida remuneração, segundo recibo acostado aos autos, sendo incabível, por não ter intermediado a avença, o pleito de a recorrida receber a taxa de corretagem,
+(c) do art. 421 do CC/2002, tendo em vista que não seria obrigada a contratar com a recorrida somente pelo fato de haver anteriormente iniciado as tratativas, mas sem concluir o negócio, efetivamente fechado com a TENDA CONSTRUTORA S.A. independentemente da atuação da empresa recorrida, e
+(d) do art. 373, I, do CPC/2015, uma vez que as recorridas não teriam se desincumbido do ônus de provarem o direito por elas alegado, recaindo tal encargo unicamente sobre a recorrente (e-STJ fl. 865).
+Foram ofertadas contrarrazões (e-STJ fls. 956/966).
+No agravo (e-STJ fls. 984/990), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.042/1.048).
+É o relatório.
+Decido.
+Não assiste razão à recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Segundo a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte recorrente, mas somente sobre as questões que entender necessárias ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso, visto que Tribunal a quo decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte recorrente.
+O TJDFT reconheceu a obrigação de a recorrente pagar à empresa recorrida a comissão de corretagem pleiteada, assentando que o conjunto probatório demonstrou a existência de intermediação na venda do imóvel e estar provada que a aproximação útil que resultou do seu trabalho foi relevante para a concretização do negócio, ainda que diante de outros fatores, tendo em vista que (e-STJ fls. 818/819):
+No caso sub judice, o conjunto probatório demonstra que a intermediação ocorreu e que a venda do imóvel proveio, em maior ou menor grau, da aproximação entre vendedor e comprador levada a efeito pela Autora.
+Após tratativa com o representante legal da Autora (FREDERICO MACUSO ATTIÉ), [NOME] ofereceu proposta (R$ 7.000.000,00) inferior ao preço de venda (R$ 9.125.875,00, além da comissão de corretagem de R$ 450.000,00).
+A Ré (CONSTRUTORA TENDA S/A) enviou carta ao representante legal da Autora informando a recusa da proposta (fls. 21/22) e a aceitação da oferta de compra feita pela Litisdenunciada (CINCOL IV INVESTIMENTOS IMOBILIÁRIOS LTDA) de R$ 9.300.000,00 (fls. 15/18).
+Ocorre que [NOME], sócio-administrador da Litisdenunciada (CINCOL IV INVESTIMENTOS IMOBILIÁRIOS LTDA - fls. 210/211), empresa que adquiriu o imóvel e se responsabilizou pelo pagamento da comissão de corretagem, é filho de [NOME], pessoa que fez a proposta formalmente recusada pela Ré/Litisdenunciante. - Tão nítida era a percepção dos contratantes (Litisdenunciante e Litisdenunciada) quanto à intermediação promovida pela Autora que na escritura pública de compra e venda foi disposta a seguinte cláusula (fl. 119):
+5. Desta forma, pela presente, declaro que assumirei, perante a Tenda, a obrigação de pagamento de quaisqu r valores que posam vir a ser cobrados ou exigidos dela pela Premier, em razão do negócio pactuado entre a Cincol e a Tenda objetivando o imóvel, inclusive, caso venha a ser ajuizada eventual ação de cobrança de comissão de corretagem decorrente do negócio celebrado".
+O testemunho de [NOME], que teve participação direta na alienação, revela que os contratantes (Litisdenunciante e Litisdenunciada) tinham ciência da aproximação proveniente da intermediação da Autora, tanto assim que resolveram introduzir na escritura pública de compra e venda cláusula sobre a responsabilidade pelo pagamento da comissão de corretagem (fls. 386/387).
+Os documentos, de fls. 31/68 endossam que, a partir do trabalho desenvolvido pela Autora, o pai do representante legal da Litisdenünciada foi proposta inicialmente recusada pela Litisdenunciante antes da compra e venda ajustada entre elas.
+À vista desse panorama probatório, não se pode deixar de reconhecer a utilidade da intermediação desenvolvida pela Autora: a aproximação útil que resultou do seu trabalho foi relevante para a concretização da compra e venda, ainda que coadjuvado por outros fatores, razão pela qual faz jus à remuneração respectiva. Em precedente que ilustra o consenso jurisprudencial sobre o tema, decidiu o Superior .Tribunal de Justiça:
+O Tribunal a quo, à luz do art. 726 do CC/2002, fixou ainda que (e-STJ fl. 820):
+Note-se que, segundo a inteligência do artigo 726, primeira parle, do Código Civil, a remuneração não será devida ao corretor contratado apenas quando "iniciado e concluído o negócio diretamente entre as partes". Logo, ainda que a aquisição tenha sido finalizada mediante o concurso de outro corretor (fl. 170), ressai indisputável o direito da Autora de ser remunerada pela corretagem realizada.
+Ultrapassar os fundamentos do acórdão impugnado, para acolher a tese de que o negócio teria sido intermediado pela empresa PRC EMPREENDIMENTOS LTDA., conforme sustentado pela recorrente, exigiria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A Corte local não se manifestou quanto à tese de ofensa ao art. 421 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ressalte-se que, segundo a jurisprudência desta Corte Superior, "não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado" (AgInt no AREsp n. 1.251.735/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/6/2018, DJe 14/6/2018). Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ.
+(..)
+4. Não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento quanto às teses invocadas pela parte recorrente, mas não debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.234.093/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/4/2018, DJe 3/5/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
