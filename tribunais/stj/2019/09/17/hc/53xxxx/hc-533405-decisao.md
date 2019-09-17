@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOSEVAL JUNIOR DA SILVA contra decisão de desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu pedido liminar no HC n. 2200540-69.2019.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena privativa de liberdade de três anos, um mês e dez dias, a ser cumprida inicialmente em regime prisional semiaberto, pelo crime previsto no art. 129, § 1º, inciso III, do Código Penal (lesão corporal). Expedido mandado de prisão, compareceu JOSEVAL à Delegacia em 09 de agosto de 2019, para dar cumprimento a pena, solicitando o trabalho externo com o seu próprio empregador. Referido pleito foi indeferido.
+Irresignada, a defesa impetrou o habeas corpus originário, cuja liminar foi indeferida em decisão acostada às fls. 269/270.
+No presente writ, a impetrante pugna pela superação da Súmula 691 do Pretório Excelso, argumentando que o paciente não precisa cumprir o lapso de 1/6 para poder realizar externo.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, se for o caso com aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o Enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Todavia, na hipótese, ao menos em juízo perfunctório, vislumbro a possibilidade de superação desse enunciado sumular.
+Com efeito, no caso concreto, discute-se a necessidade de implemento de 1/6 (um sexto) da pena para a autorização de serviço externo ao paciente, que cumpre reprimenda em regime semiaberto.
+Este pleito foi rechaçado nas instâncias ordinárias.
+Todavia, em que pesem os fundamentos adotados pela Corte de origem, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, para os apenados que cumprem pena em regime semiaberto, afigura-se prescindível o adimplemento de requisito temporal para a autorização de trabalho externo, desde que verificadas condições pessoais favoráveis pelo Juízo das Execuções Penais. Nesse diapasão:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. AUTORIZAÇÃO PARA TRABALHO EXTERNO. APENADO EM REGIME SEMIABERTO. PRESCINDIBILIDADE DO ADIMPLEMENTO DE 1/6 (UM SEXTO) DA PENA. FLAGRANTE ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, para os apenados que cumprem pena em regime semiaberto, afigura-se prescindível o adimplemento de requisito temporal para a autorização de trabalho externo, desde que verificadas condições pessoais favoráveis pelo Juízo das Execuções Penais. Precedentes.
+Assim, constitui constrangimento ilegal a negativa do trabalho externo ao apenado com fundamento somente na ausência de cumprimento de 1/6 (um sexto) da pena pelo condenado em regime semiaberto, como in casu.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a decisão do Magistrado das Execuções, que autorizara o trabalho externo pelo paciente." (HC 355.674/RS, de minha relatoria, QUINTA TURMA, DJe 21/11/2016)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO DA PENA. REGIME SEMIABERTO. CASSAÇÃO DA AUTORIZAÇÃO PARA TRABALHO EXTERNO. AUSÊNCIA DE REQUISITO OBJETIVO. PRESCINDIBILIDADE DO CUMPRIMENTO DE 1/6 DA PENA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. É assente o entendimento desta Corte no sentido de ser desnecessário o cumprimento de 1/6 (um sexto) da pena, no mínimo, para a concessão do benefício do trabalho externo ao condenado a cumprir a reprimenda no regime semiaberto, desde que satisfeitos os demais requisitos necessários, de natureza subjetiva.
+2. A exigência do cumprimento de 1/6 da pena para a concessão da benesse do trabalho externo aos que se encontram no regime semiaberto configura constrangimento ilegal sanável, de ofício.
+3. Habeas corpus concedido, de ofício, para cassar o acórdão impugnado e restabelecer a decisão do Juízo das Execuções Criminais (HC 282.192/RS, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, DJe 22/5/2014)
+HABEAS CORPUS. EXECUÇÃO PENAL. REGIME INICIAL SEMIABERTO. BENEFÍCIO DO TRABALHO EXTERNO CONCEDIDO PELO JUÍZO DAS EXECUÇÕES E CASSADO PELO TRIBUNAL A QUO. DIREITO DO CONDENADO INDEPENDENTEMENTE DE CUMPRIMENTO MÍNIMO DA PENA, DESDE QUE PRESENTES CONDIÇÕES PESSOAIS FAVORÁVEIS. ORDEM CONCEDIDA.
+1. Admite-se a concessão do trabalho externo ao condenado em regime semiaberto, independentemente do cumprimento de, no mínimo, 1/6 da pena, desde que verificadas condições pessoais favoráveis pelo Juízo das Execuções Penais. Precedentes.
+2. Ordem concedida, para permitir o trabalho externo do Paciente, nos moldes determinados pelo Juiz de primeiro grau (HC 251.107/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 12/03/2013, DJe 19/3/2013)
+EXECUÇÃO PENAL. HABEAS CORPUS. (1) IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. (2) REGIME SEMIABERTO. TRABALHO EXTERNO. CUMPRIMENTO DE 1/6 DA PENA. DESNECESSIDADE. PRECEDENTES. PATENTE ILEGALIDADE. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso especial.
+2. Este Superior Tribunal de Justiça sufragou o entendimento de que não é necessário o cumprimento de 1/6 (um sexto) da pena para se autorizar o condenado em regime inicial semiaberto a exercer trabalho externo. Ressalvado o ponto de vista desta Relatora.
+3. Ordem não conhecida; concedido habeas corpus de ofício para restabelecer a decisão de primeiro grau, que assegurou ao paciente o benefício do trabalho externo, independentemente do cumprimento de 1/6 (um sexto) da pena (HC 255.781/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 20/2/2013)
+Assim, constitui constrangimento ilegal a negativa do trabalho externo ao apenado com fundamento somente na ausência de cumprimento de 1/6 (um sexto) da pena pelo condenado em regime semiaberto, como in casu.
+Ante o exposto, não conheço do habeas corpus, porque substitutivo de recurso, mas concedo a ordem, de ofício, para determinar que o Magistrado de Primeiro Grau verifique a presença de todos os requisitos, exceto o referente ao lapso temporal, para conceder ou não o trabalho externo.
+Assim, presentes o fumus boni iuris e o periculum in mora, DEFIRO o pedido liminar para que a Primeira Instância verifique a presença dos outros requisitos para o deferimento do trabalho externo.
+Solicitem-se informações à autoridade coatora.
+Após, ouça-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
