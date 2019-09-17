@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Décima Sétima Vara Criminal de Audiências de Custódia da Comarca de Fortaleza/CE, no processo nº 0104897-44.2017.8.06.0001, converteu em preventivas as prisões em flagrante dos pacientes, ocorridas em 23 de janeiro de 2017, e de outras 4 pessoas, ante a suposta prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006. Ressaltou existirem indícios da dedicação ao comércio de entorpecentes, reportando-se à variedade e quantidade de substâncias apreendidas – 130 gramas de cocaína e 40 gramas de crack –, além de 1 balança de precisão e R$ 7.090,75. Entendeu indispensável a custódia para garantir a ordem pública, considerada a reprovabilidade da conduta, a gravidade dos delitos e os prejuízos da mercancia ilícita para a sociedade.
+    O Juízo da Segunda Vara de Delitos de Tráfico de Drogas da Comarca de Fortaleza, em 12 de março de 2018, condenou os pacientes, Francisco, a 10 anos e 3 meses de reclusão e ao pagamento de 1.400 dias-multa, e Cristiano, a 11 anos e 3 meses de reclusão e ao pagamento de 1.600 dias-multa, ambos no regime inicial de cumprimento fechado, em virtude do cometimento dos crimes de tráfico e associação para o tráfico. Negou o direito de recorrerem soltos, assentando permanecerem os motivos ensejadores da prisão.
+    Chegou-se ao Superior Tribunal de Justiça com habeas corpus nº 532.098/CE. O Relator indeferiu a medida acauteladora.
+    O impetrante sustenta o excesso de prazo das custódias, a perdurarem, segundo afirma, há mais de 2 anos e 7 meses. Destaca encontrar-se pendente de análise, desde 28 de abril de 2018, a apelação. Diz não se tratar de demora atribuível à defesa.
+    Requer, no campo precário e efêmero, o afastamento das preventivas com expedição de alvarás de soltura.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 11 de setembro de 2019, revelou que a apelação interposta pela defesa está aguardando exame.
+    Este habeas foi distribuído por prevenção, em virtude da vinculação com o de nº 175.037, no qual Vossa Excelência, em 3 de setembro de 2019, acolheu o pedido de liminar para afastar a custódia de corréu, considerado o excesso de prazo. O processo está aparelhado para julgamento.
+    A etapa é de apreciação da medida de urgência.
+    2. Os pacientes estão presos, sem culpa formada, desde 23 de janeiro de 2017, ou seja, há 2 anos, 7 meses e 23 dias. Surge o excesso de prazo. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento mediante o qual implementada, em execução antecipada da pena, ignorando-se garantia constitucional.
+    A superveniência de decisão condenatória recorrível não afasta a natureza preventiva da custódia. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as prisões decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a custódia oriunda da condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso os pacientes não estejam custodiados por motivo diverso das prisões preventivas formalizadas no processo nº 0104897-44.2017.8.06.0001, da Segunda Vara de Delitos de Tráfico de Drogas da Comarca de Fortaleza/CE. Advirtam-nos da necessidade de permanecerem com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informarem eventuais transferências e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 532.098/CE, em tramitação no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Joel Ilan Paciornik.
+    5. Ante a vinculação deste habeas corpus com o de nº 175.037, providenciem o apensamento.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 17 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
