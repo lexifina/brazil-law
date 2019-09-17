@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+RONALD STARLING SOARES (RONALD) requereu o cumprimento individual da sentença proferida na Ação Civil Pública nº 1998.01.1.016798-9 pela 12ª Vara Cível de Brasília/DF, ajuizada pelo INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR (IDEC) contra o BANCO DO BRASIL S.A. (BANCO DO BRASIL) visando ao pagamento de diferenças sobre o saldo da caderneta de poupança oriundas dos expurgos inflacionários do denominado Plano Verão (janeiro/89).
+O Juízo de 1º Grau julgou extinta a execução pelo adimplemento da obrigação, na forma do art. 924, II, do NCPC.
+O Tribunal de origem não conheceu do recurso de apelação interposto pelo BANCO DO BRASIL em acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR - IDEC. EXCLUSÃO DE JUROS REMUNERATÓRIOS. AUSÊNCIA DE INTERESSE RECURSAL. INCLUSÃO DE EXPURGOS INFLACIONÁRIOS POSTERIORES. TERMO INICIAL DOS JUROS MORATÓRIOS. [NOME] PELA COISA JULGADA. ILEGITIMIDADE DA PARTE. QUESTÃO DECIDIDA E PRECLUSA PARA ESTE ÓRGÃO. RECURSO ESPECIAL INTERPOSTO. NÃO CONHECIMENTO DO APELO.
+1.Carece o recorrente de interesse recursal quando almeja reforma da decisão sobre questão em relação à qual não sucumbiu nos autos (artigo 996, CPC/2015).
+2. Tendo as questões referentes ao termo inicial dos juros moratórios, à inclusão dos expurgos inflacionários decorrentes de outros planos de governo, posteriores aos discutidos nos autos da ação civil públicanº 1998.01.1.016798-9, já sido discutidas e decididas em decisão transitada em julgado, e a questão referente à legitimidade ativa dos poupadores ajuizar o cumprimento individual da sentença coletiva, já decidida em decisão proferida em agravo de instrumento desafiada por meio de Recurso Especial, ficam inviabilizadas suas renovações por meio de apelação interposta contra a r. sentença que extinguiu o processo de cumprimento de sentença em razão do pagamento (artigo 924, II, CPC/2015).
+3. Apelação não conhecida (e-STJ, fls. 541/542).
+Irresignado, o BANCO DO BRASIL interpôs recurso especial com fundamento no art. 105, III, a e c, da CF/88, apontando, além de divergência jurisprudencial, violação dos arts 85, 240, 332, § 1º, 485, VI, 494, I, 524, § 2º, 783, 1.035 e 1.036, todos do NCPC, 95, 97 e 98, todos do CDC, sustentando, em síntese, (1) necessidade de suspensão do processo; (2) limites territoriais da sentença proferida em ação civil pública; (3) excesso de execução; (4) necessidade de remessa dos autos ao contar para analisar a veracidade das contas apresentadas; e, (5) que os juros de mora devem ser contados a partir da citação na fase de liquidação.
+Apresentadas contrarrazões (e-STJ, fls. 598/602), o recurso foi inadmitido tendo em vista a vedação de análise de violação a dispositivos constitucionais em sede de recurso especial e incidência das Súmulas nºs 211 do STJ e 282, 284 e 356 do STF.
+O BANCO DO BRASIL interpôs o presente agravo alegando que recurso especial por ele interposto reúne todos os requisitos de admissibilidade, bem como que a matéria foi devidamente prequestionada.
+É o relatório.
+DECIDO.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recurso não merece conhecimento
+O recurso especial foi inadmitido tendo em vista a vedação de análise de violação a dispositivos constitucionais em sede de recurso especial e incidência das Súmulas nºs 211 do STJ e 282, 284 e 356 do STF.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois o BANCO DO BRASIL somente infirmou a incidência das Súmulas nºs 211 do STJ e 282 e 356 do STF.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Assim, não tendo o recurso impugnado especificamente todos os fundamento da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Assim, o recurso não se mostra viável, o que enseja a sua inadmissão.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do agravo.
+Publique-se. Intime-se.
