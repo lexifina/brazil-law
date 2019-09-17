@@ -1,0 +1,35 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. GRAVIDADE CONCRETA. QUANTIDADE E NATUREZA DOS ENTORPECENTES APREENDIDOS. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. RECURSO ORDINÁRIO EM HABEAS CORPUS IMPROVIDO.
+    1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF) que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+    2. O decreto de prisão cautelar encontra-se devidamente fundamentado, tal qual exige a legislação vigente. Foram regularmente tecidos argumentos idôneos e suficientes ao cárcere provisório do paciente nas decisões transcritas, para garantir a ordem pública, notadamente em razão da gravidade concreta da conduta, consubstanciada na quantidade e natureza do entorpecente apreendido – 10 barras de cocaína, totalizando mais de 5kg de entorpecentes.
+    3. O Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130708, Relatora Ministra CARMEN LÚCIA, Segunda Turma, julgado em 15/3/2016, Publicado em 6/4/2016).
+    4. Presentes os requisitos autorizadores da segregação preventiva, eventuais condições pessoais favoráveis não são suficientes para afastá-la.
+    5. Demonstrados os pressupostos e motivos autorizadores da custódia cautelar, elencados no art. 312 do CPP, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça, inviabilizando, também, a substituição da cautelar imposta pelas medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal.
+    6. Recurso ordinário em Habeas corpus não provido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 14.11.2018, surpreendido com 5,256 kg de cocaína. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça. O Relator do RHC 113.391, Ministro Reynaldo Soares da Fonseca, negou provimento ao recurso.
+    3. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia preventiva. Daí o pedido de concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    Decido.
+    4. O habeas corpus não deve ser concedido.
+    5.  A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    6. Na hipótese de que se trata, a autoridade impetrada não divergiu desse entendimento, ao assentar que o “decreto de prisão cautelar encontra-se devidamente fundamentado, tal qual exige a legislação vigente. Foram regularmente tecidos argumentos idôneos e suficientes ao cárcere provisório do paciente nas decisões transcritas, para garantir a ordem pública, notadamente em razão da gravidade concreta da conduta, consubstanciada na quantidade e natureza do entorpecente apreendido – 10 barras de cocaína, totalizando mais de 5kg de entorpecentes”. Transcrevo, nesse sentido, as seguintes passagens do acórdão do STJ:
+    “[...]
+     Na hipótese, a decisão que converteu a prisão em flagrante em preventiva, foi consignada nos seguintes termos (e-STJ fls. 61/62):
+    [...]
+    No caso em tela, não obstante a primariedade do autuado, conforme CAC/FAC juntada aos autos, verifica-se que as circunstancias do crime são graves diante da enorme quantidade de entorpecentes apreendida, indicando que seria distribuída a outros vendedores, multiplicando assim a delinquência com o destaque de que tanta droga jamais fica disponível para o pequeno e eventual traficante e sim nas mãos de pessoas do mais alto escalão da traficância.
+    [...]
+    O acórdão proferido pelo Tribunal ratificou os argumentos do juízo de primeiro grau, nos seguintes termos: (e-STJ fls. 231/232):
+    [...]
+    Extrai-se dos autos que investigadores da Polícia Civil, após o recebimento de denúncia dando conta de que haveria uma entrega de entorpecentes em determinado local, deslocaram-se ao alvo da denúncia a fim de averiguar a veracidade da comunicação.
+    Após campanha, os policiais avistaram um veículo Honda Civic, placa MRS-8033, estacionando no interior do imóvel monitorado. Estavam dentro do carro o paciente e mais dois indivíduos. Na sequência, outro agente, trazendo consigo uma caixa de papelão, se juntou aos demais na referida casa. Ato contínuo, os policiais civis deram início à abordagem e adentraram no imóvel, oportunidade em que lograram em prender o paciente e o comparsa Rafael Henrique.
+    Em buscas, os agentes públicos lograram em apreender, dentro da caixa de papelão, 10 (dez) barras de cocaína, perfazendo um total de mais de 5kg (cinco) quilos da substância
+    [...].
+    Como visto, o decreto de prisão cautelar encontra-se devidamente fundamentado, tal qual exige a legislação vigente. Foram regularmente tecidos argumentos idôneos e suficientes ao cárcere provisório do paciente nas decisões transcritas, para garantir a ordem pública, notadamente em razão da gravidade concreta da conduta, consubstanciada na quantidade e natureza do entorpecente apreendido – 10 barras de cocaína, totalizando mais de 5kg de entorpecentes.
+    Destarte, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130708, Relatora Ministra CARMEN LÚCIA, Segunda Turma, julgado em 15/3/2016, Publicado em 6/4/2016).
+    [...]”.
+    7. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 17 de setembro de 2019.
+Ministro Luís Roberto Barroso
+          Relator
