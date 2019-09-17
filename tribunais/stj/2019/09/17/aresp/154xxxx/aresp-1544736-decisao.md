@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO ESTADUAL DE FLORESTAS e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+PROCESSO CIVIL. AÇÃO DE HABILITAÇÃO DE CRÉDITO. MULTA NÃO TRIBUTÁRIA INSCRITA EM DÍVIDA ATIVA. PROVA LITERAL DA DÍVIDA. DISCORDÂNCIA DOS HERDEIROS. REMESSA AOS MEIOS ORDINÁRIOS. ARTS. 1.017 E 1.018 CPC/73, 642 E 643 DO CPC/15. RESERVA DE BENS SUFICIENTES PARA PAGAR O CREDOR. HONORÁRIOS ADVOCATÍCIOS. - Nos termos dos arts. 1.017 e 1.018 do CPC/73 (arts. 642 e 643 do NCPC) não havendo concordância das partes sobre o pedido de pagamento, ocorre a remessa das partes às vias ordinárias. - Havendo prova literal da dívida e não tendo a impugnação se fundado em quitação, o Juiz mandará reservar, em poder do inventariante, bens suficientes para pagar o credor. Regra do art. 643, parágrafo único, do CPC. - Improcedente o pedido formulado na habilitação, cabe ao vencido pagar ao vencedor honorários advocatícios (fl. 222).
+Alega violação do art. 20 do CPC, no que concerne à não aplicabilidade do referido dispositivo legal aos casos de sucumbência recíproca, trazendo o(s) seguinte(s) argumento(s):
+ ..  o artigo 20 do CPC/73 foi utilizado para definir que "o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios".
+A decisão, no entanto, é uma afronta ao referido artigo 20 do CPC vez que este texto de lei não se aplica quando em causa sucumbência recíproca (fl. 236).
+ .. . Ajusta-se ao caso o artigo 21 do CPC/73, valendo lembrar, ademais, a Súmula 306 do STJ (fl. 240).
+É o relatório. Decido.
+Não houve o prequestionamento da tese recursal, uma vez que apesar de haver menção expressa do art. 20 do CPC/1973 no acórdão recorrido, a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente, ou seja, de que o mencionado dispositivo legal não seria aplicável aos casos de sucumbência recíproca.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
