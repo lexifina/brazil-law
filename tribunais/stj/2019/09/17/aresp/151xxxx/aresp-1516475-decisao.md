@@ -1,0 +1,57 @@
+EMENTA
+DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRESCRIÇÃO QUINQUENAL RECONHECIDA. TERMO INICIAL DE CONTAGEM. DATA DO ÚLTIMO DESCONTO INDEVIDO DO BENEFÍCIO PREVIDENCIÁRIO DO AUTOR DA AÇÃO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM DE ACORDO COM O POSICIONAMENTO DESTA CORTE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por EDIVAR DE ALMEIDA OLIVEIRA contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que inadmitiu o seu recurso especial manejado em face do acórdão em testilha assim ementado (fl. 302, e-STJ):
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - CONTRATO DE MÚTUO BANCÁRIO - CONTRATAÇÃO FRAUDULENTA - DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO - VÍTIMA IDOSA - NEGÓCIO JURÍDICO INEXISTENTE - ART. 205 DO CÓDIGO CIVIL - INAPLICÁVEL - PRESCRIÇÃO QÜINQÜENAL - ART. 27, CDC - CONTAGEM DO PRAZO - TRATO SUCESSIVO - A PARTIR DO ÚLTIMO DESCONTO DO CONTRATO - PRESCRIÇÃO MANTIDA.
+1. Hipótese em que se discute a ocorrência de prescrição da pretensão condenatória.
+2. Em se tratando de relação de trato sucessivo, na qual cada desconto indevido evidencia uma nova lesão, uma vez ocorrido o último desconto, dá-se início à contagem do prazo prescricional independentemente de ter havido, ou não, no interregno de tempo em que ocorreram os débitos, conhecimento do fato por outros meios.
+3. Não tomado esse cuidado, a própria razão de ser da prescrição - que é a segurança jurídica - estaria ameaçada, sem contar o fato de que, se deixado ao livre talante da parte interessada, a consulta junto ao INSS, haveria, na prática, a possibilidade de controle do prazo, a implicar na espécie anômala de imprescritibilidade.
+4. Não há que se falar em aplicação do art. 205, do Código Civil, que prevê que a prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor. Isso porque há o prazo específico de 05 anos, no art. 27 do Código de Defesa do Consumidor, para a pretensão relacionada às relações de consumo, sendo essa aplicada ao caso em comento.
+5. Apelação conhecida e não provida.
+Nas razões do recurso especial (fls. 330-342, e-STJ), o recorrente alegou, além da existência de dissídio jurisprudencial, violação do art. 27 do CDC, ao argumento de que o termo inicial do prazo prescricional para a pretensão de repetição de indébito e a reparação dos danos morais seria a data em que o consumidor teve ciência da prática ilícita, e não a data do último desconto no benefício previdenciário do autor da ação.
+Sem contrarrazões (fl. 345, e-STJ).
+Em decisão monocrática (fls. 347-353, e-STJ), a Corte de origem indeferiu o processamento do apelo nobre, razão pela qual foi interposto o agravo em recurso especial (fls. 355-380, e-STJ).
+Contraminuta apresentada às fls. 383-386, e-STJ.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mais, o presente conflito de interesse diz respeito à determinação do termo inicial do prazo prescricional no caso de ação de repetição de indébito em decorrência de descontos indevidos em benefício previdenciário.
+Com efeito, o Tribunal de origem, ao apreciar a controvérsia, concluiu pela prescrição da demanda, haja vista ter transcorrido mais de cinco anos entre o ajuizamento da ação e a data do último desconto no benefício, adotando a seguinte fundamentação (fls. 305-306, e-STJ):
+Com efeito, não é exagerado se dizer que a uma pessoa humilde e com pouca instrução, possam passar desapercebidos certos descontos (R$ 16,80 - vide f. 02 e 45) em seu benefício previdenciário.
+É comum que, em situações tais, o beneficiário apenas se encarregue de sacar, muitas vezes por intermédio de terceiro, o saldo mensal disponibilizado em conta específica para esse pagamento, não tomando, em regra, o cuidado de verificar, mês a mês, o extrato discriminado do benefício.
+Por isso, em regra, é razoável e verossímil que o conhecimento dos descontos indevidos se dê, conforme se alega corriqueiramente em ações tais, quando consultado o extrato do benefício junto ao INSS, o que, na espécie, supostamente ocorreu em abril/2016.
+Contudo, não se pode olvidar - até mesmo como corolário natural do princípio da actio nata (art. 189, CC/02) - que a pretensão, para além de nascer a partir da violação de um direito, tem na cessação desta o marco inicial para a contagem do prazo de sua extinção.
+Assim, em se tratando de relação de trato sucessivo, na qual cada desconto indevido evidencia uma nova lesão, uma vez ocorrido o último desconto, dá-se início à contagem do prazo prescricional, independentemente de ter havido, ou não, no interregno de tempo em que ocorreram os débitos, conhecimento do fato por outros meios.
+Isso porque, não é razoável que se prolongue indefinidamente o termo inicial de contagem da prescrição, superando-se o prazo legal desde a última lesão, apenas porque a parte interessada não tomou conhecimento do fato a tempo de exercer sua pretensão.
+Aliás, não tomado esse cuidado, a própria razão de ser da prescrição - que é a segurança jurídica - estaria ameaçada, sem contar o fato de que, se deixado ao livre talante da parte interessada a consulta junto ao INSS, haveria, na prática, a possibilidade de controle do prazo, a implicar numa espécie anômala de imprescritibilidade.
+Além disso, não há que se falar em aplicação do art. 205, do Código Civil, que prevê que a prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor. Isso porque há o prazo específico de 05 anos, no art. 27 do Código de Defesa do Consumidor, para a pretensão relacionada às relações de consumo, sendo essa aplicada ao caso em comento.
+Assim, analisando-se o caso concreto, observa-se que, segundo o extrato do INSS (f. 45), o último desconto do contrato em questão ocorreu em janeiro de 2012 tendo sido a ação proposta em 02/02/2017 (propriedades do documento de f. 01-39) ou seja, já após o decurso do prazo de cinco (5) anos de que trata o art. 27, da Lei nº 8.078, de 11/09/1990 (Código de Defesa do Consumidor).
+Diante de tais considerações, a pretensão recursal não apresenta guarida, tendo em vista que a jurisprudência das Turmas que compõem a Segunda Seção desta Corte possui entendimento firme no sentido de que o termo a quo do lapso prescricional da pretensão de repetição do indébito decorrente de descontos indevidos em benefício previdenciário é a data do último desconto.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. TERMO INICIAL. DATA DO ÚLTIMO DESCONTO. SÚMULA 83/STJ. REVER O JULGADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem consignou que o termo inicial da contagem do prazo prescricional é a data do último desconto realizado no benefício previdenciário da agravante. O referido entendimento encontra-se em harmonia com a jurisprudência desta Corte segundo a
+qual, nas hipóteses de ação de repetição de indébito, "o termo inicial para o cômputo do prazo prescricional corresponde à data em que ocorreu a lesão, ou seja, a data do pagamento" (AgInt no AREsp n. 1056534/MS, Relator o Ministro Luis Felipe Salomão, julgado em 20/4/2017, DJe 3/5/2017). Incidência, no ponto, da Súmula 83/STJ.
+2. Ademais, para alterar a conclusão do acórdão hostilizado (referente à consumação da prescrição), seria imprescindível o reexame do acervo fático-probatório do respectivo processo, sendo inafastável, de fato, a confirmação da incidência da Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 1319078/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/11/2018, DJe 09/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. TERMO INICIAL. DATA DO ÚLTIMO DESCONTO. SÚMULA 83/STJ. REVER O JULGADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem consignou que o termo inicial da contagem do prazo prescricional é a data do último desconto realizado no benefício previdenciário da agravante. O referido entendimento encontra-se em harmonia com a jurisprudência desta Corte segundo a
+qual, nas hipóteses de ação de repetição de indébito, "o termo inicial para o cômputo do prazo prescricional corresponde à data em que ocorreu a lesão, ou seja, a data do pagamento" (AgInt no AREsp n. 1056534/MS, Relator o Ministro Luis Felipe Salomão, julgado em 20/4/2017, DJe 3/5/2017). Incidência, no ponto, da Súmula 83/STJ.
+2. Ademais, para alterar a conclusão do acórdão hostilizado (referente à consumação da prescrição), seria imprescindível o reexame do acervo fático-probatório do respectivo processo, sendo inafastável, de fato, a confirmação da incidência da Súmula 7/STJ.
+3. Agravo interno improvido. (AgInt no AREsp 1130505/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. TERMO INICIAL. DATA DO PAGAMENTO. DECISÃO
+MANTIDA 1. "Tratando-se de ação de repetição de indébito, o termo
+inicial para o cômputo do prazo prescricional corresponde à data em
+que ocorreu a lesão, ou seja, a data do pagamento" (AgInt no AREsp
+n. 1056534/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/4/2017, DJe 3/5/2017).
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1078294/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. TERMO INICIAL. DATA DO PAGAMENTO.
+1. Tratando-se de ação de repetição de indébito, o termo inicial para o cômputo do prazo prescricional corresponde à data em que ocorreu a lesão, ou seja, a data do pagamento.
+2. Agravo regimental não provido. (AgRg no REsp 1475644/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/03/2015, DJe 31/03/2015)
+Dessa forma, estando o aresto recorrido em conformidade com o entendimento deste Sodalício, imperiosa a incidência da Súmula 83/STJ, óbice aplicável tanto aos recursos interpostos com base na alínea "a" como na alínea "c", do permissivo constitucional.
+A propósito: AgInt no AREsp 1267441/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/09/2018, DJe 10/09/2018.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários advocatícios fixados na origem em 10% (dez por cento) para 12% (doze por cento) do valor da causa, ficando sua exigibilidade suspensa por conta do deferimento da assistência judiciária gratuita.
+Intimem-se.
