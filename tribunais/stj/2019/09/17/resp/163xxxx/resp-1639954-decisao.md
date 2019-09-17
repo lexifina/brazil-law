@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 345):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO C/C DANOS MATERIAIS E DANOS MORAIS - ATRASO NA ENTREGA DAS CHAVES EXTRAPOLADO O PRAZO DE TOLERÂNCIA DE 180 DIAS PREVISTO CONTRATUALMENTE - AGRAVO RETIDO. NÃO OCORRÊNCIA DE CERCEAMENTO DE DEFESA. CONHECIDO E IMPROVIDO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEITADA. [NOME]. EMPRESA SPE CONTROLADA PELA APELANTE, DE ACORDO COM O ESTATUTO SOCIAL - NULIDADE DE SENTENÇA. REJEITADA - DANOS MATERIAIS (LUCROS CESSANTES). NÃO COMPROVADOS. DANOS MORAIS CARACTERIZADOS - CUMULAÇÃO DE MULTA CONTRATUAL E INDENIZAÇÃO POR PERDAS E DANOS. POSSIBILIDADE ÔNUS SUCUMBENCIAL REDISTRIBUÍDO - AGRAVO RETIDO CONHECIDO E IMPROVIDO APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+O recorrente aponta dissídio jurisprudencial com relação à interpretação do art. 475 do Código Civil. Sustenta a ocorrência de dano material correspondente aos lucros cessantes, em decorrência do atraso na entrega do imóvel objeto de promessa de compra e venda.
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem afastou a condenação aos danos materiais, na modalidade de lucros cessantes, concedida na sentença, pelo seguinte fundamento (fl. 353):
+O contrato de promessa de compra e venda, firmado entre as partes, no parágrafo segundo, da cláusula trigésima terceira (fls. 48 - do processo eletrônico), estabelece que ocorrendo atraso injustificado na entrega do bem por mais de 180 dias, por culpa da construtora, ela estará sujeita ao pagamento de multa de 0,01% ao dia, sobre o preço total atualizado do contrato, por mês ou fração de mês.
+Logo, estando configurado o atraso da entrega do bem, contados de 30/03/2012, e não havendo qualquer prova de excludentes da incidência da referida multa, deve-se aplicar a disposição contratual.
+Desse modo, o acórdão recorrido encontra respaldo na orientação que se firmou na jurisprudência desta Corte a respeito da impossibilidade de cumulação de lucros cessantes na hipótese de atraso na entrega de imóvel prometido à venda quando há cláusula penal de mesma natureza.
+Prevalece neste Tribunal Superior o entendimento, firmado em julgamento submetido ao rito dos recurso repetitivos, de que "a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes".
+Confira-se a ementa do citado precedente:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. CLÁUSULA PENAL MORATÓRIA. NATUREZA MERAMENTE INDENIZATÓRIA, PREFIXANDO O VALOR DAS PERDAS E DANOS. PREFIXAÇÃO RAZOÁVEL, TOMANDO-SE EM CONTA O PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM LUCROS CESSANTES. INVIABILIDADE.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+2. No caso concreto, recurso especial não provido.
+(REsp 1635428/SC, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 25.6.2019).
+Incide, portanto, a Súmula 83 desta Corte.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
