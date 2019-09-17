@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, c/c o art. 40, I e IV, ambos da Lei n. 11.343/2006, à pena de 3 anos e 6 meses de reclusão, a ser cumprida em regime inicial fechado.
+Sobre os fatos, narra a denúncia que "RODOLFO, vulgo "Nego" ou "Guimê", MATHEUS, vulgo "Pipo" ou "Alemão", REGIANE, vulgo "Gargamel", MAURÍCIO, vulgo "Dalcio" ou "Dalcinho", MARCELO, vulgo "Celito" e os adolescentes [NOME], vulgo "Sojinho", [NOME], vulgo "Capetinha", IZABELI e CAMILA, além de outros indivíduos ainda não identificados, estavam previamente associados, de forma estável e com nítida divisão de tarefas, para que pudessem efetuar a mercancia ilícita de entorpecentes em Mairinque, especialmente nas proximidades do "Bar do Bil", situado na Rua Honório Pereira Domingues e na rua paralela a este, qual seja, Rua João Bueno, conforme fotografias de fls. 77 e 88" (e-STJ fls. 54/55). Destaca que, "durante o período aproximado de 12 (doze) meses, foram realizadas diversas incursões no local, sendo certo que, durante tal período, tiveram êxito em realizar dezenas de apreensões de drogas nas imediações do "Bar do Bil", sendo que, em sua maioria, os entorpecentes apreendidos possuíam a mesma forma de embalo e a mesma coloração. No citado período, em diversos procedimentos apartados, foram apreendidas no local 798 (setecentas e noventa e oito) porções de cocaína, 42 (quarenta e duas) porções de maconha e 57 (cinquenta e sete) porções de cocaína na forma de "crack" como aponta o relatório de investigação de fls. 73/81" (e-STJ fls. 56/57).
+Irresignada, a defesa impetrou prévio writ na origem objetivando o abrandamento do regime fixado ou, alternativamente, o direito de recorrer em liberdade. O pedido de liminar foi indeferido (e-STJ fls. 20/21).
+No presente habeas corpus, o impetrante reitera, liminarmente e no mérito, o pedido de fixação do regime inicial aberto ou, alternativamente, o direito à liberdade provisória.
+Liminar parcialmente deferida, às e-STJ fls. 80/84, "para impor ao paciente o regime inicial semiaberto de cumprimento de pena, até o julgamento definitivo do presente writ".
+Informações prestadas (e-STJ fls. 90/215 e 218/254).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 256/260).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem (HC n. 2148697-65.2019.8.26.0000), verifica-se o julgamento definitivo do writ precedente, em 1º/8/2019, no qual foi concedida parcialmente a ordem "tão-somente para modificar o regime prisional do paciente para o semiaberto".
+Assim, considerando-se que esta impetração volta-se contra a decisão que indeferiu o pedido emergencial no âmbito do Tribunal de Justiça do Estado de São Paulo, é de se reconhecer a perda de seu objeto.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. ART. 312 DO CPP. PERICULUM LIBERTATIS. JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO PELO TRIBUNAL A QUO. HABEAS CORPUS JULGADO PREJUDICADO.
+1. A superveniência do julgamento do mérito do writ originário é causa de prejudicialidade do habeas corpus impetrado contra decisão do Desembargador relator que indeferiu o pedido liminar, porquanto as razões adotadas pelo Tribunal a quo não foram submetidas ao crivo do Superior Tribunal de Justiça.
+2. Habeas corpus julgado prejudicado. (HC 347.389/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2016, DJe 21/6/2016, grifei.)
+ ..  3. Uma vez apreciado o mérito do habeas corpus originário, resta esvaído o objeto do writ impetrado nesta Corte no qual se insurgia contra a decisão do Desembargador Relator, indeferitória do pedido de liminar. Precedentes.
+4. Reconsideração recebida como agravo regimental, ao qual se nega provimento. (RCD no HC 349.107/BA, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/5/2016, DJe 1º/6/2016, grifei.)
+ ..  2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado. (AgRg no HC 288.056/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Veja-se, ainda, o seguinte precedente do Supremo Tribunal Federal:
+ ..  Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula 691. Óbice superável apenas em hipótese de teratologia.
+2. A superveniência de decisão colegiada de Tribunal Superior corresponde a novo ato a desafiar ação própria.
+ ..  4. Habeas corpus prejudicado, extinguindo o processo sem resolução do mérito, com a cassação da liminar anteriormente deferida. (HC 103.570, relatora Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 21/8/2014, grifei.)
+Ademais, está-se diante de decisão da origem que concedeu parcialmente a ordem pleiteada, para modificar o regime prisional do paciente para o semiaberto, o que também torna esvaziada a medida liminar deferida neste writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado este habeas corpus, tornando sem efeito a liminar anteriormente deferida.
+Publique-se. Intimem-se.
