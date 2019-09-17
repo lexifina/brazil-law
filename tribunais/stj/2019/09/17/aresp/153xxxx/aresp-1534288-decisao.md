@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por BRASILVEÍCULOS COMPANHIA DE SEGUROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdãos proferidos pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementados (grifos nossos):
+INDENIZATORIA - REGRESSIVA - DANO MATERIAL - Inércia da parte em dar andamento ao processo, eis que não providenciou a retirada e envio dos ofícios solicitados - Citação pessoal da autora por carta, com devolução do AR com a expressão "mudou-se" - Citação editalícia para dar andamento ao feito - Não atualização do endereço da autora nos autos - Feito que se arrasta desde março de 2013 e até então não se logrou citar os réus - Extinção do processo mantida - Recurso não provido (fls. 202).
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO - Matéria relativa à prévia intimação, pela imprensa, da patrona da parte autora para dar andamento ao feito - Reexame da matéria ante a anulação do acórdão anterior pelo Colendo Superior Tribunal de Justiça - Hipótese em que a advogada teve ciência do andamento do feito, obtendo vista dos autos antes mesmo da determinação de intimação pessoal da parte - Ausência de informação nos autos a respeito da mudança de endereço da autora - Nulidade processual inexistente - Embargos de declaração rejeitados. (fls. 393).
+Alega violação dos arts. 2º, 4º, e 272, § 5º, do CPC, no que concerne à intimação da parte por intermédio de seu advogado, trazendo os seguintes argumentos:
+12. Ocorre que a BRASIL VEÍCULOS não foi intimada em nome do seu patrono - Dr. DANIEL MATIAS SCHMITT SILVA, [OAB]-A, conforme requerido em todas as peças processuais constantes dos autos, sob pena de nulidade.
+13. Ainda que não o fosse, o patrono da recorrente nunca foi intimado pessoalmente para dar andamento ao feito, medida que deveria ter sido adotada antes da intimação pessoal da parte.
+ ..
+23. E, não obstante, "tirou da cartola" um novo argumento de que houve vista dos autos por advogada da recorrente em 22/06/2014 (fl. 138) e que, por isso, a parte se deu por intimada - antes da sua intimação pessoal.
+ ..
+24. Olvidou-se, no entanto, que a advogada referida - Dra. [NOME], [OAB] - não é a advogada indicada nas peças processuais para receber intimações. Aliás, a advogada em questão sequer está constituída nos autos. (fls. 442/445).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal argüida (intimação de advogada não constituída nos autos), uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ademais, aplica-se o entendimento firmado na Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto, a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Por certo: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+À propósito: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
