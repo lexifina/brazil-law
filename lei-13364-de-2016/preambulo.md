@@ -1,0 +1,2 @@
+Reconhece o rodeio, a vaquejada e o laço, bem como as respectivas expressões artísticas e esportivas, como manifestações culturais nacionais; eleva essas atividades à condição de bens de natureza imaterial integrantes do patrimônio cultural brasileiro; e dispõe sobre as modalidades esportivas equestres tradicionais e sobre a proteção ao bem-estar animal.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
