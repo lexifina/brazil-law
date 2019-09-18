@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. PAGAMENTO DE IMPORTAÇÃO FORA DO PRAZO LEGAL. MULTA. RETROATIVIDADE DA LEI 11.371/2006. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    "ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. PAGAMENTO DE IMPORTAÇÃO FORA DO PRAZO LEGAL. MULTA. FATO GERADOR. RETROATIVIDADE DA LEI 11.371/2006. IMPOSSIBILIDADE. Consoante a jurisprudência desta Corte e do eg. Superior Tribunal de Justiça, em se tratando de crédito de natureza administrativa, decorrente do exercício de poder de polícia, incide a lei vigente à época do cometimento da infração, não se aplicando a disciplina do Código Tributário acerca da retroatividade da lei mais benéfica, nem a norma penal atinente à lex mitior." (Doc. 3, p. 57)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    O Tribunal de origem assentou que, em razão da natureza administrativa do crédito decorrente do exercício do poder de polícia, deve ser observada a lei vigente à época do cometimento da infração, não se aplicando a disciplina do Código Tributário acerca da retroatividade da lei mais benéfica.
+    Assim, divergir do entendimento firmado pelo acórdão recorrido, no presente caso, demandaria o reexame da legislação infraconstitucional aplicável à espécie (Leis 9.817/1999, 10.755/2003 e 11.371/2006), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. A violação reflexa e oblíqua da Constituição Federal, decorrente da análise de malferimento de dispositivos infraconstitucionais, torna inadmissível o recurso extraordinário. Nesse sentido, colaciono acórdãos de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. PREQUESTIONAMENTO. IRRETROATIVIDADE DA LEI TRIBUTÁRIA MAIS BENÉFICA.1. É inviável o recurso extraordinário quando a matéria não foi devidamente prequestionada nas instâncias de origem. Súmulas 282 e 356, STF.2. A controvérsia relativa à retroatividade da lei tributária mais benéfica cinge-se ao âmbito infraconstitucional. Precedentes.3. Agravo regimental a que se nega provimento.” (ARE 798.772-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 16/3/2017)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 18 de setembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
