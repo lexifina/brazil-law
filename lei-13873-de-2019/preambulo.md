@@ -1,0 +1,2 @@
+Altera a Lei nº 13.364, de 29 de novembro de 2016, para incluir o laço, bem como as respectivas expressões artísticas e esportivas, como manifestação cultural nacional, elevar essas atividades à condição de bem de natureza imaterial integrante do patrimônio cultural brasileiro e dispor sobre as modalidades esportivas equestres tradicionais e sobre a proteção ao bem-estar animal.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
