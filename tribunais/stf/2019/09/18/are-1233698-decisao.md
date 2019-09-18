@@ -1,0 +1,40 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 35 DA LEI 11.343/2006. ALEGADA OFENSA AO ARTIGO 5º, XLVI E XLVII, DA CONSTITUIÇÃO FEDERAL. INDIVIDUALIZAÇÃO DA PENA. MATÉRIA INFRACONSTITUCIONAL. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “AGRAVO EM EXECUÇÃO PENAL - CÁLCULO DE LIQUIDAÇÃO DE PENAS - PRETENSÃO DO MINISTÉRIO PÚBLICO À RETIFICAÇÃO DOS CÁLCULOS ELABORADOS RELATIVAMENTE AO BENEFÍCIO DE LIVRAMENTO CONDICIONAL PARA O RÉU CONDENADO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES - CRIME NÃO EQUIPARADO A HEDIONDO QUE, NADA OBSTANTE, SE SUBMETE AO REQUISITO OBJETIVO ESPECIAL PREVISTO NO ART. 44, PARÁGRAFO ÚNICO DA LEI N° 11.343, DE 23 DE AGOSTO DE 2.006 - PRECEDENTES DO COL. SUPERIOR TRIBUNAL DE JUSTIÇA - DECISÃO REFORMADA - RECURSO PROVIDO”. (Doc. 1, p. 119)
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XLVI e XLVII, da Constituição Federal.
+     Alega, em síntese, que, “[e]m que pese o princípio da especialidade invocado no v. acórdão ora recorrido, em nosso humilde modo de entender, a disposição contida no artigo 44, parágrafo único, da Lei de Drogas é inconstitucional quanto ao crime descrito de associação para fins de tráfico, uma vez que tal delito, a exemplo do chamado tráfico privilegiado, não é hediondo ou assemelhado”. (Doc. 1, p. 137)
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a resolução da controvérsia encontra óbice na Súmula 282 do STF e que a matéria apresenta índole infraconstitucional. (Doc. 1, p. 160-161)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, a resolução da controvérsia atinente à individualização da pena (art. 5, XLVI e XLVII, da Constituição Federal) demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei 11.343/2006). É o que se verifica dos seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de prequestionamento. Ofensa reflexa. Revaloração de provas testemunhais. Incidência da Súmula nº 279/STF. Ausência de violação do art. 93, IX, da Constituição. Agravo regimental não provido.
+    1.Os dispositivos constitucionais tido como violados carecem do necessário prequestionamento. Incidência das Súmulas nºs 282 e 256 da Corte.
+    2. A Corte já se pronunciou reiteradamente a respeito da não admissão da tese do chamado prequestionamento implícito. Precedentes.
+    3. A jurisprudência do Supremo Tribunal é pacífica no sentido de que questões relativas à individualização da pena configuram ofensa reflexa ao texto constitucional, por demandar exame prévio da legislação infraconstitucional.
+    4. A pretensão do agravante de rediscutir a prova testemunhal esbarra no óbice da Súmula nº 279/STF.
+    5. Ausência de violação ao art. 93, inciso IX, sendo desnecessário que o órgão judicante se manifeste minudentemente sobre todos os argumentos de defesa apresentados, devendo ele, no entanto, explicitar as razões que entendeu suficientes à formação de seu convencimento.
+    6. Recurso não provido.” (ARE 825.060-AgR, rel. min. Dias Toffoli, Segunda Turma, DJe de 25/9/2015 – grifei)
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). INDEFERIMENTO DE PRODUÇÃO DE PROVAS NO PROCESSO JUDICIAL. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA NO ARE 639.228 (REL. MIN. CEZAR PELUSO, TEMA 424). USO INDEVIDO DE ALGEMAS. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS PREVISTAS NO ART. 59 DO CÓDIGO PENAL. MATÉRIA INFRACONSTITUCIONAL (AI 742.460-RG, REL. MIN. CEZAR PELUSO, TEMA 182). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 965.920-AgR, rel. min. Teori Zavascki, Segunda Turma, DJe de 3/10/2016)
+    In casu, o voto condutor do acórdão recorrido assentou o seguinte:
+    “O tráfico de entorpecentes, embora não conste do rol do artigo 1º da Lei nº 8.072, de 25 de julho de 1.990, está previsto no artigo 2º do mesmo diploma legal como crime equiparado. Assim, aplicam-se a ele os mesmos dispositivos e as mesmas regras dispensadas aos crimes hediondos.
+    Um exemplo disso é a fração de pena cumprida a ser adotada para a progressão de regime, que deverá ser, conforme o artigo 2º, §2º, da Lei nº 8.072, de 25 de julho de1.990, ‘de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5(três quintos), se reincidente’, e a fração de pena a ser cumprida como requisito objetivo para o livramento condicional, que,conforme previsão do art. 83, inciso V, deverá ser de ‘dois terços da pena, nos casos de condenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza’.
+    No entanto, o crime de associação para o tráfico, embora previsto na Lei n° 11.343, de 23 de agosto de2.006, não é expressamente equiparado a crime hediondo, uma vez que o referido artigo 2º estabelece somente como tal ‘a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo’, com respaldo na Constituição Federal de 1988, em seu artigo 5º, inciso XLIII.
+    Trata-se, pois, de crime autônomo, sendo o rolde crimes hediondos taxativo e, por isso, não pode ser ampliado pelo aplicador da lei ou interpretado extensivamente, sob o risco de violação aos princípios da legalidade e taxatividade.
+    Nesse sentido ‘não é correto entender seja ele equiparado a hediondo por força da existência de previsão em relação ao crime de tráfico. É juridicamente impossível ampliar o rol dos crimes hediondos para nele incluir crime não listado como tal’.
+    Nada obstante, ainda que não se reconheça a natureza hedionda do crime em comento, não se aplica à espécie a disposição genérica do artigo 83, inciso I, do Código Penal, que estabelece a fração de 1/3 para o livramento condicional do condenado não reincidente.
+    Isso porque, permanece em vigor no ordenamento jurídico o requisito objetivo temporal especial previsto no art. 44, parágrafo único, da Lei n° 11.343, de 23 de agosto de 2.006, in verbis:
+    Art. 44. [Nos crimes previstos nos arts. 33, caput e §1º, e 34 a 37 desta Lei], dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico.
+    A plena aplicabilidade do dispositivo legal em comento é afirmada pela jurisprudência pacífica do intérprete máximo da legislação federal. Confira-se:
+    […]
+    Este é, aliás, o entendimento desta Eg. 2ª Câmara de Direito Criminal. Confira-se, exemplificativamente:
+    […]
+    Assim, a r. Decisão recorrida comporta reforma, para que seja aplicado o requisito objetivo temporal do cumprimento de 2/3 da pena para o condenado não reincidente pela prática do crime de associação para o tráfico ilícito de entorpecentes.
+    Ante o exposto, DOU PROVIMENTO ao agravo”.  (Doc. 120-123)
+    Verifica-se, portanto, que o acórdão recorrido deu provimento ao agravo interposto pelo Parquet estadual utilizando-se de fundamentos infraconstitucionais, cuja análise se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de setembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
