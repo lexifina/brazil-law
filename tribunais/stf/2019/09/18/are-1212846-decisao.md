@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás. Extrai-se da ementa o seguinte trecho conclusivo:
+    “DUPLO GRAU DE JURISDIÇÃO. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. SERVIDORES PÚBLICOS ESTADUAIS. SECRETARIA DE MEIO AMBIENTE DE RECURSOS HÍDRICOS – SEMARH. COMPETÊNCIA DA JUSTIÇA COMUM. SÚMULA 736/STF. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO ESTADUAL. PERDA DO OBJETO. AUSÊNCIA. ATIVIDADES DE RISCO. CONSTITUIÇÃO FEDERAL, ESTADUAL, LEIS E DECRETOS ESTADUAIS, NORMAS REGULAMENTADORAS DO MTE. APLICAÇÃO PELO PODER PÚBLICO. USO DE EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL. PREVENÇÃO DE ACIDENTES DE TRABALHO. ASSISTÊNCIA À SAÚDE E SEGURANÇA DOS SERVIDORES DA SECRETARIA DE MEIO AMBIENTE E RECURSOS HÍDRICOS – SEMARH. PRAZO PARA PROMOVER AS MEDIDAS DE ADEQUAÇÃO FORMULADAS NA EXORDIAL. DILATAÇÃO PARA 180 (CENTO E OITENTA) DIAS. MULTA GENÉRICA. ADEQUAÇÃO. VALOR E PERIODICIDADE. RESERVA DO POSSÍVEL. MÍNIMO EXISTENCIAL. UNIDADE CONSTITUCIONAL. RECURSO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE.
+    1. Do texto da Súmula 736, do Supremo Tribunal Federal, extrai-se que compete à Justiça Especializada o julgamento das demandas que tenham como causa de pedir o descumprimento de normas trabalhistas relativas à segurança, higiene e saúde dos trabalhadores, excluindo-se os servidores públicos, eis que submetidos a regime próprio.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 114 da CF.
+    O recurso não merece ser provido, uma vez que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal, que, ao julgar a ADI 3.395-MC, deferiu medida cautelar para suspender toda e qualquer interpretação dada ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18 da Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 18 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
