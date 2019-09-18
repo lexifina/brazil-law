@@ -5,3 +5,4 @@ Art. 5º O certificado de Registro de Arma de Fogo, com validade em todo o terri
 § 4º Para fins do cumprimento do disposto no § 3º deste artigo, o proprietário de arma de fogo poderá obter, no Departamento de Polícia Federal, certificado de registro provisório, expedido na rede mundial de computadores - internet, na forma do regulamento e obedecidos os procedimentos a seguir:
 I - emissão de certificado de registro provisório pela internet, com validade inicial de 90 (noventa) dias; e
 II - revalidação pela unidade do Departamento de Polícia Federal do certificado de registro provisório pelo prazo que estimar como necessário para a emissão definitiva do certificado de registro de propriedade.
+§ 5º Aos residentes em área rural, para os fins do disposto no caput deste artigo, considera-se residência ou domicílio toda a extensão do respectivo imóvel rural.
