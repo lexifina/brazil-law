@@ -1,0 +1,24 @@
+DECISÃO
+LIMINAR – PREJUÍZO PARCIAL.
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – ATIVIDADES CRIMINOSAS – DEDICAÇÃO.
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, PARÁGRAFOS 2º E 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Sorocaba/SP, no processo nº 0020339-61.2016.8.26.0602, condenou o paciente a 7 anos e 6 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 750 dias-multa, ante a prática da infração prevista no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Na primeira fase da dosimetria, destacou a gradação do tráfico, no que apreendidos 11 tijolos de maconha e 2 pedaços da mesma substância, perfazendo 9.802,40 gramas, e o perigo de dano à saúde pública. Fixou a pena-base em 7 anos e 6 meses de reclusão, tendo em vista o piso de 5 e o teto de 15 anos. Destacou ausentes atenuantes e agravantes. Afastou a incidência da causa de diminuição descrita no artigo 33, § 4º, da Lei de regência, em virtude da quantidade de entorpecente encontrado. Estabeleceu o regime fechado para o início do cumprimento da pena, nos termos do § 1º do artigo 2º da Lei nº 8.072/1990.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 425.208, o qual teve a liminar indeferida.
+    O impetrante sustenta haver ilegalidade na dosimetria, caracterizada na observância da quantidade de droga na primeira e terceira fases do cálculo. Afirma que o paciente é primário, não integra organização criminosa nem se dedica a atividades ilícitas. Assevera a possibilidade de regime de diverso do fechado.
+    Requer, no campo precário e efêmero, a consideração da quantidade de entorpecente apenas em uma das etapas da dosimetria, a incidência da causa de diminuição definida no mencionado § 4º e a fixação do regime adequado para o início do cumprimento da sanção, ante os parâmetros descritos no artigo 33 do Código Penal. Busca, alfim, a confirmação das providências.
+    Consulta ao sítio do Superior Tribunal de Justiça revelou ter o Relator, no habeas de nº 425.208, implementado parcialmente a ordem para determinar ao Juízo que procedesse a nova dosimetria da pena, aludindo à quantidade de substância em apenas uma das fases do cálculo.
+    O Juízo da Primeira Vara Criminal, em 9 de março de 2018, atendendo à determinação do Superior Tribunal de Justiça, afastou o acréscimo decorrente da consideração da quantidade da droga apreendida na primeira etapa da dosimetria. Estabeleceu a pena-base no mínimo previsto para o tipo. Redimensionou a sanção definitiva em 5 anos de reclusão.
+    Consulta ao sítio o Tribunal estadual, em 17 de setembro de 2019, revelou haver sido desprovido o recurso de apelação formalizado pela defesa. O especial foi inadmitido pelo Presidente da Seção de Direito Criminal.
+    No Superior Tribunal de Justiça, o agravo em recurso especial nº 1.578.778/SP encontra-se pendente de análise.
+    A fase é de apreciação da medida acauteladora.
+    2. Surge o prejuízo parcial do implemento de liminar, no que o Relator, no habeas de nº 425.208, deferiu parcialmente a ordem para determinar que o Juízo procedesse a nova dosimetria da sanção, observando a quantidade de droga apenas em uma das etapas do cômputo.
+    Atentem para os fundamentos lançados pelo Juízo ao deixar de levar em conta a causa de diminuição de pena descrita no artigo 33, § 4º, da Lei nº 11.343/2006. Teve presente a quantidade de entorpecente apreendido – 11 tijolos de maconha e 2 pedaços da mesma substância, perfazendo 9.802,40 gramas –, entendendo demonstrada a dedicação a atividades delitivas. Não há, no ponto, ilegalidade a ser reparada.
+    Fixou-se o regime fechado para o início do cumprimento da sanção evocando o § 1º do artigo 2º da Lei nº 8.072/1990. O Supremo, no julgamento do habeas corpus nº 82.959, de minha relatoria, em 23 de fevereiro de 2006, concluiu no sentido da inconstitucionalidade do preceito. O regime deve ser definido a partir do patamar referente à condenação e das circunstâncias judiciais – o que versado no artigo 33, parágrafos 2º e 3º, do Código Penal –, mostrando-se o título condenatório, nesse ponto, carente de fundamentação. Tendo em vista a sanção imposta – 5 anos de reclusão – e a fixação da pena-base no mínimo legal, ausentes circunstâncias judiciais negativas, fica afastado o regime fechado.
+    3. Defiro a liminar, determinando seja observado, até o exame do mérito desta impetração, o regime inicial semiaberto no cumprimento de pena, considerada a sentença proferida no processo nº 0020339-61.2016.8.26.0602, da Primeira Vara Criminal da Comarca de Sorocaba/SP.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 19 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
