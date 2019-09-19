@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado: (eDOC 5, p. 1):
+    “MANDADO DE SEGURANÇA PREVENTIVO. DIREITO CONSTITUCIONAL. SERVIDOR PÚBLICO. APOSENTADORIA VOLUNTÁRIA. REGRA DE TRANSIÇÃO DA EC 41/2003. REQUISITOS. EXIGÊNCIA DE CINCO ANOS NA CLASSE QUE INTEGRA A CARREIRA. ILEGALIDADE. SEGURANÇA CONCEDIDA.
+    Os requisitos para concessão de aposentadoria voluntária com proventos integrais estão elencados no art. 6º, da EC 41/2003.
+    Carece de respaldo legal a exigência, imposta pelo Estado, de permanência mínima de 5 anos na classe ocupada pelo servidor quando do requerimento da aposentadoria, sob pena de aposentar-se com proventos correspondentes à classe inferior em que completou o interstício temporal.”
+    Os embargos de declaração opostos foram rejeitados. (eDOC 10, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV; 37, XV; 40, § 1º, III; e 93, IX, da Constituição Federal.
+    Nas razões do agravo, sustenta-se, em suma, que “a prevalecer o entendimento do impetrante, qualquer servidor que ocupe cargo estruturado em carreira poderia se aposentar com o referencial da remuneração da classe que ocupe, mesmo se a integrar por apenas meses ou dias.” (eDOC 14, p. 8)
+    Aduz-se, ainda, que “se devidamente calculados, na medida do regramento constitucional, considerando-se os cinco anos da classe de determinado cargo efetivo, não haverá ofensa ao art. 37, inciso XV; do contrário, a tese do impetrante ofende não apenas o art. 37, inciso XV, mas o próprio art. 40, § 1º, inciso III, pelo que não pode ser abrigada.” (eDOC 14, p. 15)
+    A 2ª Vice-Presidência do TJ/BA inadmitiu o recurso extraordinário, ao entendimento de que incide, no caso, o óbice da súmula 280 do STF; que “o acórdão recorrido se pautou adequadamente ao aplicar a legislação infraconstitucional.”; e, quanto à alegada violação ao art. 93, IX, da Constituição Federal, ante a aplicação do Tema 339 da sistemática de repercussão geral. (eDOC 19)
+    É o relatório. Decido.
+    Impõe-se o não conhecimento do presente recurso
+    Inicialmente, verifica-se que o capítulo da decisão agravada relativo à aplicação da sistemática da repercussão geral (AI 791.292 – Tema 339) deveria ter sido atacado mediante agravo interno dirigido ao próprio órgão a quo, nos termos do art. 1.030, § 2º, do CPC. Nessa linha, confira-se decisão no ARE 999948/SP, Rel. Min. Luiz Fux, DJe 14.2.2017.
+    Ainda que seja cabível o agravo fundado no art. 1.042 do CPC para impugnar o capítulo remanescente da decisão agravada, o presente recurso não merece ser conhecido.
+    Consabido, a admissibilidade dos recursos é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, verifica-se que a negativa de seguimento do apelo extremo fundou-se na constatação da incidência da Súmula 280 do STF, além do entendimento de que “o acórdão recorrido se pautou adequadamente ao aplicar a legislação infraconstitucional”. Contudo, o agravante deixou de impugnar esses fundamentos.
+    Desse modo, torna-se inviável o seu conhecimento, nos termos da Súmula 287 do STF. Confiram-se, a respeito, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. GRATIFICAÇÃO DE PLANTÃO. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.039.123-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe 15.09.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamento da decisão do tribunal de origem que não admite o recurso extraordinário. Incidência da súmula 287/STF. II Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais. III Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (ARE 1.076166-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 01.02.2018).
+    Ante o exposto, não conheço do agravo, nos termos do art. 932, III, do CPC, e do art. 21, § 1º, RISTF.
+    Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+     Publique-se.
+    Brasília, 19 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
