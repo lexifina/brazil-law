@@ -1,0 +1,20 @@
+DECISÃO
+PENA-BASE – CIRCUNSTÂNCIA JUDICIAL NEGATIVA.
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – ILEGALDIADE – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Mauá/SP, no processo nº 0001836-81.2016.8.26.0540, condenou o paciente a 5 anos de reclusão, em regime inicial de cumprimento semiaberto, e ao pagamento de 500 dias-multa, ante a prática da infração prevista no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Fixou a pena-base em 5 anos e 10 meses, levando em conta o piso de 5 e o teto de 15 anos, reportando-se à natureza das substâncias apreendidas – 14 porções de cocaína (12 gramas), 50 de crack (14,3 gramas) e 5 de maconha (6,8 gramas) – e o maior grau de dependência causado pela cocaína. Fez incidir, em 1/6, a atenuante alusiva à confissão espontânea. Deixou de observar a causa de diminuição versada no § 4º do referido dispositivo, frisando a dedicação a atividades criminosas, tendo em vista a existência de condenação, não transitada em julgado, pelo cometimento do delito de tráfico de entorpecentes.
+    A Oitava Câmara Criminal do Tribunal de Justiça desproveu apelação interposta pela defesa. Concluiu adequada a fixação da pena-base acima do mínimo definido para o tipo. Quanto à causa de diminuição, realçou a dedicação ao tráfico de drogas, aludindo à variedade das substâncias encontradas, fracionadas em grande quantidade de porções, e ao título condenatório mencionado na sentença.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 499.057, inadmitido pelo Relator.
+    A impetrante sustenta configurada ilegalidade na dosimetria da sanção. Afirma inadequada a imposição da pena-base acima do mínimo legal, dizendo não ser a nocividade da cocaína circunstância a legitimar a valoração negativa. Ressalta não elevada a quantidade de entorpecentes apreendidos. Aponta viável a incidência da causa de diminuição descrita no artigo 33, § 4º, da Lei de Drogas. Alega estar a negativa do Juízo lastreada, exclusivamente, em condenação anterior não transitada em julgado, a implicar violação do princípio constitucional da não culpabilidade.
+    Requer, no campo precário e efêmero, seja estabelecido o regime aberto, consideradas as ilegalidades mencionadas na impetração. No mérito, busca a fixação da pena-base no mínimo legal, com a consequente alteração do regime de cumprimento, bem assim a observância, no teto legal de 2/3, da causa de diminuição versada no referido § 4º, substituindo-se a sanção por restritivas de direitos.
+    Consulta ao sítio do Tribunal de Justiça revelou alcançada a preclusão maior da condenação em 22 de abril de 2019.
+    A fase é de análise da medida acauteladora.
+    2. O Tribunal de Justiça, ao manter a pena-base em 5 anos e 10 meses de reclusão, teve em conta o artigo 42 da Lei de regência, a versar a preponderância em relação às circunstâncias judiciais descritas no artigo 59 do Código Penal, valorando negativamente a quantidade e a natureza das substâncias encontradas – 14 porções de cocaína (12 gramas), 50 de crack (14,3 gramas) e 8 de maconha (6,8 gramas). A dosimetria da pena resolve-se, em regra, no campo do justo ou injusto. Difícil é o pronunciamento a encerrar ilegalidade.
+    A teor do artigo 33, § 4º, da Lei nº 11.343/2006, tem-se como cabível a redução da pena, na fração de 1/6 a 2/3, quando o agente é primário, possui bons antecedentes, não se dedica a atividades delituosas nem participa de organização criminosa. Conforme se depreende da decisão do Tribunal estadual, o afastamento do preceito, considerada a conclusão pela dedicação do paciente a atividades ilícitas, não se mostra lastreado exclusivamente na existência de condenação não alcançada pela preclusão maior, mas também ante a posse de três tipos de drogas, fracionadas em grande quantidade de porções. Não há ilegalidade a ser reconhecida.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 19 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
