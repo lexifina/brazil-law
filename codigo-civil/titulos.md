@@ -538,7 +538,7 @@ Da Propriedade Resolúvel
 CAPÍTULO IX
 Da Propriedade Fiduciária
 CAPÍTULO X
-Do Fundo de Investimento
+DO FUNDO DE INVESTIMENTO
 TÍTULO IV
 Da Superfície
 TÍTULO V
