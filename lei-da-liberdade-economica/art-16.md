@@ -1,0 +1,2 @@
+Art. 16. O Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial) será substituído, em nível federal, por sistema simplificado de escrituração digital de obrigações previdenciárias, trabalhistas e fiscais.
+Parágrafo único. Aplica-se o disposto no caput deste artigo às obrigações acessórias à versão digital gerenciadas pela Receita Federal do Brasil do Livro de Controle de Produção e Estoque da Secretaria Especial da Receita Federal do Brasil (Bloco K).
