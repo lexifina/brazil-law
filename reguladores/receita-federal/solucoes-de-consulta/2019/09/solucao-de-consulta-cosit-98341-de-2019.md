@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98341, de 23 de agosto de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8544.42.00
+Mercadoria: Cabo elétrico com conectores, para tensão máxima de 14 V, com aproximadamente 450 mm de comprimento, para conexão ao sistema de distribuição de energia e dados tipo CAN, utilizado em sistema eletrônico para controle de dosadores de sementes ou fertilizantes, acoplado em máquinas agrícolas. Em uma extremidade possui um conector com rosca, de onde saem um conector de 4 pinos e múltiplos fios isolados, para fixação na central de distribuição de energia. Em seu corpo encontram-se dois conectores do tipo "T" de onde saem três conectores de 8 pinos. O cabo é protegido por mangueira plástica.
+Dispositivos Legais: RGI 1 (texto da posição 85.44) e RGI 6 (textos da subposição de 1º nível 8544.4 e da subposição de 2º nível 8544.42) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.341-2019.pdf]
