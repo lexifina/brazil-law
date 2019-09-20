@@ -1,0 +1,20 @@
+Vistos etc.
+    Trata-se de habeas corpus, impetrado por Carlos Alberto Telles e outra em favor de Carlos Henrique Guerino Cabral, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 516.313/SP.
+    O paciente foi condenado à pena de 2 (dois) anos e 10 (dez) meses de reclusão, em regime inicial aberto, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). Naquela oportunidade, o magistrado de primeiro grau concedeu o direito de o paciente recorrer em liberdade.
+    Em sede de apelação, o Tribunal de Justiça de São Paulo deu provimento ao recurso ministerial para redimensionar a pena para 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Sebastião Reis Júnior, indeferiu liminarmente o HC 516.313/SP. Após, manejado, sem sucesso, agravo regimental.
+    No presente writ, o Impetrante sustenta a possibilidade de aplicação da minorante do art. 33, § 4º, da Lei 11.343/2006, no patamar máximo, com repercussão na substituição da pena privativa de liberdade por restritiva de direitos e no regime inicial menos gravoso. Assevera a primariedade e bons antecedentes ostentados pelo paciente, além da inexistência de provas de dedicação ou integração do paciente à organização criminosa. Requer, em medida liminar e no mérito, o redimensionamento da pena, a substituição de pena privativa de liberdade por restritiva de direitos e a fixação de regime inicial diverso do fechado.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. DROGAS. DOSIMETRIA. REITERAÇÃO. INDEFERIMENTO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+    1. Inviável o agravo regimental que não impugna os fundamentos da decisão agravada. Aplicação do entendimento consolidado na Súmula 182/STJ.
+    2. Já analisada a matéria nesta Corte, quando do julgamento do HC n. 398.350/SP, denegado pela Sexta Turma, em 12/9/2017, DJe 18/9/2017, não compete ao Superior Tribunal de Justiça novo exame do tema.
+    3. Agravo regimental não conhecido.”
+    O ato dito coator está em consonância com a jurisprudência desta Suprema Corte no sentido de que ‘A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus’ (HC 146.334-AgR/PR, Rel. Min. Celso de Mello, 2ª Turma, DJe 23.10.2017); ‘a jurisprudência deste Supremo Tribunal já assentou a inadmissibilidade de ‘habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada’ (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 18/8/15)’ (HC 129.705-AgR/SP, Rel. Min. Dias Toffoli, 2ª Turma, DJe 14.12.2015); ‘não conhece de habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada’ (HC 126.835- AgR/DF, Rel. Min. Roberto Barroso, 1ª Turma, DJe 18.8.2015); e ‘O habeas corpus é inadmissível quando se trata de mera reiteração das razões de medida anteriormente impetrada nesta Corte. Precedentes...’ (RHC 113.089-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.9.2014).
+    Anoto, por fim, que as teses defensivas não foram objeto de apreciação na decisão ora hostilizada, a inviabilizar a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de setembro de 2019.
+Ministra Rosa Weber
+Relatora
