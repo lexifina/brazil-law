@@ -1,0 +1,11 @@
+Despacho:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, proposta pelo Governador do Estado de São Paulo, em que é impugnado o art. 32-K, da Lei nº 6.763, de 26.12.1975, na redação dada pela Lei nº 20.824, de 31.07.2013, ambas do Estado de Minas Gerais.
+    2. Sustenta o requerente, em síntese, que o decreto impugnado, ao conceder benefício fiscal relativo ao ICMS independentemente de previsão em convênio interestadual, afrontaria o art. 155, § 2º, XII, g, da Constituição Federal.
+    3. A superveniente Lei Complementar nº 160/2017 autorizou a celebração de convênio entre os Estados e o Distrito Federal que tenha por objeto “a remissão dos créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea ‘g’ do inciso XII do § 2º do art. 155 da Constituição Federal por legislação estadual”, desde que a legislação estadual tenha sido publicada até a data de início de produção de efeitos dessa Lei Complementar. Esse convênio, ainda nos termos autorizados por referida lei, poderá deliberar sobre “a reinstituição das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais [...] que ainda se encontrem em vigor”.
+    4. Na esteira desse permissivo legal, foi celebrado o Convênio CONFAZ nº 190/2017 e proferido o Despacho SE/CONFAZ nº 96/2018, este último definindo o formato de entrega de informações e documentação comprobatória relativa à remissão de créditos tributários, bem como sobre as correspondentes reinstituições de benefícios fiscais.
+    5. Instado a se manifestar, o Governador do Estado de Minas Gerais prestou informações, pugnando pelo reconhecimento da perda de objeto da presente ação direta de inconstitucionalidade. A Assembleia Legislativa do Estado de Minas Gerais, embora regularmente notificada, não prestou informações.
+    6. Diante do exposto, intime-se, sucessivamente, o autor da presente ação direta de inconstitucionalidade e a Procuradoria-Geral da República, a fim de que se manifestem sobre as informações prestadas pelo Governador do Estado de Minas Gerais, bem como acerca da alegada perda de objeto.
+    Publique-se.
+    Brasília, 20 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
