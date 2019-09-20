@@ -1,0 +1,1 @@
+Art. 17. Ficam resguardados a vigência e a eficácia ou os efeitos dos atos declaratórios do Procurador-Geral da Fazenda Nacional, aprovados pelo Ministro de Estado respectivo e editados até a data de publicação desta Lei, nos termos do inciso II do caput do art. 19 da Lei nº 10.522, de 19 de julho de 2002.
