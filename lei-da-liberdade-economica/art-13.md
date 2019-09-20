@@ -1,0 +1,37 @@
+Art. 13. A Lei nº 10.522, de 19 de julho de 2002, passa a vigorar com as seguintes alterações:
+"Art. 18-A. Comitê formado de integrantes do Conselho Administrativo de Recursos Fiscais, da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia e da Procuradoria-Geral da Fazenda Nacional editará enunciados de súmula da administração tributária federal, conforme o disposto em ato do Ministro de Estado da Economia, que deverão ser observados nos atos administrativos, normativos e decisórios praticados pelos referidos órgãos."
+"Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional dispensada de contestar, de oferecer contrarrazões e de interpor recursos, e fica autorizada a desistir de recursos já interpostos, desde que inexista outro fundamento relevante, na hipótese em que a ação ou a decisão judicial ou administrativa versar sobre:
+II - tema que seja objeto de parecer, vigente e aprovado, pelo Procurador-Geral da Fazenda Nacional, que conclua no mesmo sentido do pleito do particular;
+IV - tema sobre o qual exista súmula ou parecer do Advogado-Geral da União que conclua no mesmo sentido do pleito do particular;
+V - tema fundado em dispositivo legal que tenha sido declarado inconstitucional pelo Supremo Tribunal Federal em sede de controle difuso e tenha tido sua execução suspensa por resolução do Senado Federal, ou tema sobre o qual exista enunciado de súmula vinculante ou que tenha sido definido pelo Supremo Tribunal Federal em sentido desfavorável à Fazenda Nacional em sede de controle concentrado de constitucionalidade;
+VI - tema decidido pelo Supremo Tribunal Federal, em matéria constitucional, ou pelo Superior Tribunal de Justiça, pelo Tribunal Superior do Trabalho, pelo Tribunal Superior Eleitoral ou pela Turma Nacional de Uniformização de Jurisprudência, no âmbito de suas competências, quando:
+a) for definido em sede de repercussão geral ou recurso repetitivo; ou
+b) não houver viabilidade de reversão da tese firmada em sentido desfavorável à Fazenda Nacional, conforme critérios definidos em ato do Procurador-Geral da Fazenda Nacional; e
+VII - tema que seja objeto de súmula da administração tributária federal de que trata o art. 18-A desta Lei.
+§ 3º (Revogado);
+§ 4º (Revogado);
+§ 5º (Revogado);
+§ 7º (Revogado).
+§ 8º O parecer da Procuradoria-Geral da Fazenda Nacional que examina a juridicidade de proposições normativas não se enquadra no disposto no inciso II do caput deste artigo.
+§ 9º A dispensa de que tratam os incisos V e VI do caput deste artigo poderá ser estendida a tema não abrangido pelo julgado, quando a ele forem aplicáveis os fundamentos determinantes extraídos do julgamento paradigma ou da jurisprudência consolidada, desde que inexista outro fundamento relevante que justifique a impugnação em juízo.
+§ 10. O disposto neste artigo estende-se, no que couber, aos demais meios de impugnação às decisões judiciais.
+§ 11. O disposto neste artigo aplica-se a todas as causas em que as unidades da Procuradoria-Geral da Fazenda Nacional devam atuar na qualidade de representante judicial ou de autoridade coatora.
+§ 12. Os órgãos do Poder Judiciário e as unidades da Procuradoria-Geral da Fazenda Nacional poderão, de comum acordo, realizar mutirões para análise do enquadramento de processos ou de recursos nas hipóteses previstas neste artigo e celebrar negócios processuais com fundamento no disposto no art. 190 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).
+§ 13. Sem prejuízo do disposto no § 12 deste artigo, a Procuradoria-Geral da Fazenda Nacional regulamentará a celebração de negócios jurídicos processuais em seu âmbito de atuação, inclusive na cobrança administrativa ou judicial da dívida ativa da União." (NR)
+"Art. 19-A. Os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil não constituirão os créditos tributários relativos aos temas de que trata o art. 19 desta Lei, observado:
+I - o disposto no parecer a que se refere o inciso II do caput do art. 19 desta Lei, que será aprovado na forma do art. 42 da Lei Complementar nº 73, de 10 de fevereiro de 1993, ou que terá concordância com a sua aplicação pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia;
+II - o parecer a que se refere o inciso IV do caput do art. 19 desta Lei, que será aprovado na forma do disposto no art. 40 da Lei Complementar nº 73, de 10 de fevereiro de 1993, ou que, quando não aprovado por despacho do Presidente da República, terá concordância com a sua aplicação pelo Ministro de Estado da Economia; ou
+III - nas hipóteses de que tratam o inciso VI do caput e o § 9º do art. 19 desta Lei, a Procuradoria-Geral da Fazenda Nacional deverá manifestar-se sobre as matérias abrangidas por esses dispositivos.
+§ 1º Os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia adotarão, em suas decisões, o entendimento a que estiverem vinculados, inclusive para fins de revisão de ofício do lançamento e de repetição de indébito administrativa.
+§ 2º O disposto neste artigo aplica-se, no que couber, aos responsáveis pela retenção de tributos e, ao emitirem laudos periciais para atestar a existência de condições que gerem isenção de tributos, aos serviços médicos oficiais."
+"Art. 19-B. Os demais órgãos da administração pública que administrem créditos tributários e não tributários passíveis de inscrição e de cobrança pela Procuradoria-Geral da Fazenda Nacional encontram-se dispensados de constituir e de promover a cobrança com fundamento nas hipóteses de dispensa de que trata o art. 19 desta Lei.
+Parágrafo único. A aplicação do disposto no caput deste artigo observará, no que couber, as disposições do art. 19-A desta Lei."
+"Art. 19-C. A Procuradoria-Geral da Fazenda Nacional poderá dispensar a prática de atos processuais, inclusive a desistência de recursos interpostos, quando o benefício patrimonial almejado com o ato não atender aos critérios de racionalidade, de economicidade e de eficiência.
+§ 1º O disposto no caput deste artigo inclui o estabelecimento de parâmetros de valor para a dispensa da prática de atos processuais.
+§ 2º A aplicação do disposto neste artigo não implicará o reconhecimento da procedência do pedido formulado pelo autor.
+§ 3º O disposto neste artigo aplica-se, inclusive, à atuação da Procuradoria-Geral da Fazenda Nacional no âmbito do contencioso administrativo fiscal."
+"Art. 19-D. À Procuradoria-Geral da União, à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central do Brasil aplica-se, no que couber, o disposto nos arts. 19, 19-B e 19-C desta Lei, sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997.
+§ 1º Aos órgãos da administração pública federal direta, representados pela Procuradoria-Geral da União, e às autarquias e fundações públicas, representadas pela Procuradoria-Geral Federal ou pela Procuradoria-Geral do Banco Central do Brasil, aplica-se, no que couber, o disposto no art. 19-B desta Lei.
+§ 2º Ato do Advogado-Geral da União disciplinará o disposto neste artigo."
+"Art. 20. Serão arquivados, sem baixa na distribuição, por meio de requerimento do Procurador da Fazenda Nacional, os autos das execuções fiscais de débitos inscritos em dívida ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior àquele estabelecido em ato do Procurador-Geral da Fazenda Nacional.
+.............................................................................................................................." (NR)

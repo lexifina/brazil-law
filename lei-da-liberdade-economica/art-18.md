@@ -1,0 +1,3 @@
+Art. 18. A eficácia do disposto no inciso X do caput do art. 3º desta Lei fica condicionada à regulamentação em ato do Poder Executivo federal, observado que:
+I - para documentos particulares, qualquer meio de comprovação da autoria, integridade e, se necessário, confidencialidade de documentos em forma eletrônica é válido, desde que escolhido de comum acordo pelas partes ou aceito pela pessoa a quem for oposto o documento; e
+II - independentemente de aceitação, o processo de digitalização que empregar o uso da certificação no padrão da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) terá garantia de integralidade, autenticidade e confidencialidade para documentos públicos e privados.
