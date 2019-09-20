@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA. OMISSÃO SANADA SEM EFEITO MODIFICATIVO. Com efeito, registra o v. acórdão regional que a reclamante foi contratada e despedida durante a vigência da atual Carta Magna, razão pela qual os embargos declaratórios devem ser acolhidos. Todavia, ainda assim o recurso de revista não se viabilizaria por violação do art. 37, I, II, V e § 2°, da Constituição Federal, porquanto registrado também no v. acórdão regional estar comprovado, pela documentação trazida aos autos pela reclamada, que a reclamante foi contratada para exercício de cargo em comissão, declarado em lei de livre nomeação e exoneração. E, por fim, também não ficou caracterizada a denunciada divergência jurisprudencial. Os julgados à fl. 189 apresentam tese convergente à da v. decisão regional, porquanto afastam a necessidade de submissão a concurso público quando o empregado é contratado para cargo em comissão, situação em que se encontra a reclamante, e os demais não abordam essa peculiaridade, carecendo da especificidade exigida pela Súmula 2 96, I, do TST. Embargos Declaratórios acolhidos.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, II, da CF.
+    O recurso não deve ser provido, tendo em vista que para dissentir do acórdão recorrido seria necessária a análise do material fático-probatório dos autos, procedimento inviável nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios.
+    Publique-se.
+          Brasília, 20 de setembro de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
