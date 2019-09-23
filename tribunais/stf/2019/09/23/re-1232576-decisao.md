@@ -1,0 +1,20 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO. FOLHA DE SALÁRIOS. RECEITA BRUTA. LEI Nº 12.546, DE 2011. MEDIDA PROVISÓRIA Nº 774, DE 2017. REVOGAÇÃO. EFEITOS RETROATIVOS.
+    1. Este Tribunal entende que a revogação da Medida Provisória nº 774, de 30-03-2017, pela Medida Provisória nº 794, de 09-08-2017, significa a revogação, com efeitos retroativos, do que nela havia sido disposto, de modo que não há esteio jurídico para que o Fisco afaste a impetrante da opção pela contribuição substitutiva, nem mesmo no período da vigência da MP nº 774.
+    2. Apelação da impetrante provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 62, § 11, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 12.546/2011 e Medidas Provisórias nºs 774/2017 e 794/2017), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “A impetração pretende manter a opção da impetrante pela contribuição substitutiva prevista na Lei n.º 12.546/2011, mesmo após a revogação pela MP n.º 774, de 30/03/2017.
+    Independentemente da discussão sobre a constitucionalidade da revogação do regime de contribuição substitutiva (desoneração da folha) pela MP n.º 774/2014, no curso da lide houve a edição da MP n.º 794, de 09/08/2017, que revogou a MP n.º 774/2017.
+    Não há, porém, perda integral do objeto, como reconheceu a sentença, pois a MP 774/2017 produziu efeitos no mês de julho de 2017.
+    Passo a analisar o mérito quanto ao período em que houve produção de efeitos.
+    A fim de observar a jurisprudência do Tribunal, adoto o entendimento unânime da 2ª Turma desta Corte, segundo o qual ‘a revogação da referida MP nº 774 pela MP nº 794, de 09-08-2017, significa a revogação, com efeitos retroativos, do que nela havia sido disposto, de modo que não há esteio jurídico para que o Fisco afaste a impetrante da opção pela contribuição substitutiva, nem mesmo no período da vigência da MP nº 774’.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 1.171.994/RS, Rel. Min. RICARDO LEWANDOWSKI – RE 1.198.205/RS, Rel. Min. GILMAR MENDES – RE 1.201.255/RS, Rel. Min. ALEXANDRE DE MORAES – RE 1.204.247/SC, Rel. Min. CÁRMEN LÚCIA – RE 1.211.553/SC, Rel. Min. LUIZ FUX, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 23 de setembro de 2019.
+Ministro CELSO DE MELLO
+Relator
