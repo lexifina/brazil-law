@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PORTE DE REMESSA E RETORNO. DESERÇÃO. INSS. LEI ESTADUAL N. 11.608/2003. RECURSO EXTRAORDINÁRIO N. 594.116-RG. TEMA 135. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base nas als. a, c e d do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INSS. RECOLHIMENTO PELO INSS DA DESPESA DO PORTE DE RETORNO, EM AGRAVO DE INSTRUMENTO POR ELE ERIGIDO. OBRIGATORIEDADE - PENA DE DESERÇÃO. PRECLUSÃO CONSUMATIVA. ANÁLISE ESCORREITA DA LEGISLAÇÃO EM VIGOR. AGRAVO DE INSTRUMENTO NÃO CONHECIDO” (fl. 49, e-doc. 3).
+    2. O recorrente alega ter o Tribunal de origem contrariado o inc. IV do art. 24, o § 2º do art. 98 e o inc. II do art. 145 da Constituição da República.
+    Sustenta ser indevida a cobrança do porte de remessa e retorno.
+    3. Em 2.8.2010, determinei a devolução dos autos ao Tribunal de Justiça de São Paulo para se observar o art. 543-B do Código de Processo Civil então vigente.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica assiste ao recorrente.
+    5. No julgamento do Recurso Extraordinário n. 594.116-RG, Relator o Ministro Edson Fachin, Tema 135, este Supremo Tribunal firmou jurisprudência nestes termos:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL. 1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002. 2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002. 3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal. 4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular. 5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão “cujo valor será estabelecido por ato do Conselho Superior da Magistratura”. 6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem” (DJe 5.4.2016).
+    O julgado recorrido divergiu dessa orientação jurisprudencial.
+    6. Pelo exposto, dou provimento ao recurso extraordinário para, em conformidade com o julgamento do Recurso Extraordinário n. 594.116-RG, cassar o acórdão recorrido e determinar o processamento do Agravo de Instrumento no Tribunal de origem (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de setembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
