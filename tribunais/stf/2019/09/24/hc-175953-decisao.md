@@ -1,0 +1,37 @@
+Trata-se de habeas corpus com pedido de liminar impetrado pela Defensoria Pública do Estado de Alagoas em favor de Davi de Oliveira Silva contra decisão proferida pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça que negaram provimento ao AgRg no RHC 113.333/AL (págs. 90-94 do documento eletrônico 5).
+    Consta dos autos que “[...] o paciente está preso há cerca de três anos e ainda não foi julgado pelo Tribunal do Júri, por razões completamente estranhas à sua vontade” (pág. 92 do documento eletrônico 5).
+    A impetrante, alega, em síntese, que “[...] o paciente está preso preventivamente desde o dia 16 DE OUTUBRO DE 2016 e ainda não foi julgado em primeiro grau de jurisdição, o que ofende claramente a garantia constitucional da razoável duração do processo” (págs. 2-3 do documento eletrônico 1).
+    Ao final, requer se
+    “[...] conceda a ordem de habeas corpus ao paciente para relaxar a prisão cautelar, expedindo-se o pertinente alvará de soltura clausulado em seu favor. Entendendo a impetrante que se acham presentes os requisitos legais que a justificam – existência de direito líquido e certo e perigo de dano irreparável, requer a concessão de medida cautelar, expedindo-se alvará de soltura em favor do paciente, a título precário, até o julgamento do mérito do presente writ, por ser de inteira Justiça” (pág. 5 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Destaco, inicialmente, que, embora o presente writ tenha sido impetrado em substituição a recurso extraordinário, não oponho óbice ao seu conhecimento, na linha do que tem decidido a Segunda Turma deste Supremo Tribunal. Nesse sentido, cito os seguintes precedentes: HC 126.791-ED/RJ, HC 126.614/SP e HC 126.808-AgR/PA, todos da relatoria do Ministro Dias Toffoli.
+    Anote-se, também, que o art. 192, caput, do Regimento Interno do Supremo Tribunal Federal faculta ao Relator denegar ou conceder a ordem de habeas corpus, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Por esses motivos, passo ao exame do mérito desta impetração.
+    A jurisprudência desta Suprema Corte é firme no sentido de que fica superada a alegação de excesso de prazo com a superveniência da sentença de pronúncia.
+    Nesse sentido, indico as ementas dos seguintes precedentes de ambas as Turma deste Supremo Tribunal:
+    “HABEAS CORPUS. PENAL. PROCESSUAL PENAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO CARACTERIZAÇÃO. INEXISTÊNCIA DE INÉRCIA OU DE DESÍDIA DO PODER JUDICIÁRIO. DEMORA DE QUASE UM ANO PARA A APRESENTAÇÃO DE MEMORIAIS PELAS DEFESAS. RÉUS PRONUNCIADOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DENEGAÇÃO DA ORDEM. I – As informações prestadas pelo juízo processante revelam que a eventual dilação dos prazos processuais não pode ser imputada exclusivamente ao Poder Judiciário, uma vez que os advogados constituídos pelos réus também contribuíram para o atraso no desenrolar do feito. II – A jurisprudência desta Corte é firme no sentido de que não procede a alegação de excesso de prazo quando a complexidade do feito, as peculiaridades da causa ou a defesa contribuem para eventual dilação do prazo. Precedentes. III – Segundo o entendimento desta Corte, fica superada a alegação de excesso de prazo com a superveniência da sentença de pronúncia. Precedentes. IV – Ordem denegada, com recomendação de que o juízo processante envide esforços no sentido de realizar, o mais breve possível, o julgamento dos réus pelo Tribunal do Júri” (HC 118.065/SP, de minha relatoria, Segunda Turma).
+    “HABEAS CORPUS - PRISÃO CAUTELAR - ALEGADO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA DO PACIENTE - SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA - NOVAÇÃO DO TÍTULO JURÍDICO LEGITIMADOR DA PRISÃO CAUTELAR DO PACIENTE - RECURSO IMPROVIDO” (HC 90.020-MC-AgR/BA, Rel. Min. Celso de Mello, Segunda Turma).
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. EXCESSO DE PRAZO. SUPERVENIÊNCIA DA SENTENÇA DE PRONÚNCIA. NOVO CONTEXTO PROCESSUAL. ANÁLISE PREJUDICADA. RISCO DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. 1. É inadmissível habeas corpus que figure como substitutivo de recurso extraordinário. 2. É inadmissível o agravo regimental que não impugna todos os fundamentos da decisão agravada. Precedentes. 3. Proferida a sentença de pronúncia, fica prejudicado o habeas corpus anteriormente impetrado que visava discutir eventual excesso de prazo para a formação da culpa. 4. Agravo regimental a que se nega provimento” (HC 130.880-AgR/SP, Rel. Min. Edson Fachin, Primeira Turma).
+    Feitos esses registros, transcrevo, por oportuno, o inteiro teor do voto condutor proferido pelo Ministro Rogério Schietti Cruz, Relator do AgRg no RHC 113.333/AL na Sexta Turma do STJ, verbis:
+    “Não obstante os esforços perpetrados pelo ora insurgente, não verifico fundamento suficiente a infirmar a decisão agravada, cuja conclusão mantenho.
+    Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+    Com efeito, a Súmula n. 21 do STJ define como superado o constrangimento ilegal por excesso de prazo na instrução com a superveniência da decisão de pronúncia. Nesse sentido:
+    ‘[...]
+    1. ‘Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução’ (Súmula n.º 21 do STJ).
+    [...]
+    3. Agravo regimental a que se nega provimento’ (AgRg no RHC n. 80.431/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 26/4/2017).
+    Tal entendimento, porém, deve ser mitigado, à luz do princípio da razoabilidade, uma vez que o réu não pode permanecer preso cautelarmente, de forma indefinida, no aguardo do julgamento do mérito.
+    Na espécie, não constato desídia do Juízo natural da causa na condução do processo, a ensejar a intervenção desta Corte Superior, sobretudo porque, cerca de dois anos depois da decretação da custódia preventiva do réu – 16/10/2016 –, já foi encerrada a primeira fase do procedimento bifásico previsto para os crimes dolosos contra a vida e há prognóstico de julgamento do acusado, pelo Tribunal do Júri, em data próxima.
+    Portanto, há de ser mantida a decisão impugnada que julgou prejudicada a alegação de excesso de prazo na formação da culpa, em razão da superveniência da decisão de pronúncia.
+    Ilustrativamente:
+    ‘[...]
+    1. Prejudicada a alegação de excesso de prazo para a formação da culpa, uma vez que houve superveniência da sentença de pronúncia. Enunciado n. 21 da Súmula do Superior Tribunal de Justiça.
+    [...]
+    Recurso ordinário em habeas corpus desprovido’ (RHC n. 85.035/AL, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 25/4/2018).
+    Ante o exposto, nego provimento ao agravo regimental” (págs. 93-94 do documento eletrônico 5, grifei).
+    Conforme se verifica, os fundamentos expostos no decisum combatido estão em conformidade com a jurisprudência desta Suprema Corte que orienta a resolução da questão posta à exame. Na espécie, fica superada a alegação de excesso de prazo com a superveniência da sentença de pronúncia.
+    Isso posto, denego a ordem (art. 192, caput, do RISTF). Prejudicado o pleito cautelar.
+    Publique-se.
+    Brasília, 24 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
