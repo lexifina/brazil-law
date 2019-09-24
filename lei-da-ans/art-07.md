@@ -1,1 +1,1 @@
-Art. 7º O Diretor-Presidente da ANS será designado pelo Presidente da República, dentre os membros da Diretoria Colegiada, e investido na função por três anos, ou pelo prazo restante de seu mandato, admitida uma única recondução por três anos.
+Art. 7º O Diretor-Presidente da ANS será nomeado pelo Presidente da República e investido na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.

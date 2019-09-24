@@ -7,7 +7,7 @@ V - elaborar e divulgar relatórios periódicos sobre suas atividades;
 VI - julgar, em grau de recurso, as decisões da Agência, mediante provocação dos interessados;
 VII - encaminhar os demonstrativos contábeis da Agência aos órgãos competentes.
 VIII - elaborar, aprovar e promulgar o regimento interno, definir a área de atuação das unidades organizacionais e a estrutura executiva da Agência.
-§ 1º A Diretoria reunir-se-á com a presença de, pelo menos, três Diretores, dentre eles o Diretor-Presidente ou seu substituto legal, e deliberará por maioria simples.
+§ 1º A Diretoria reunir-se-á com a presença de, pelo menos, 3 (três) Diretores, entre eles o Diretor-Presidente ou seu substituto legal, e deliberará por maioria absoluta.
 § 2º Dos atos praticados pela Agência caberá recurso à Diretoria Colegiada, com efeito suspensivo, como última instância administrativa.
 § 3º Salvo disposição em contrário, o prazo para interposição do recurso administrativo previsto no § 2º será de trinta dias, contados a partir da publicação oficial da decisão recorrida.
 § 4º A decisão final sobre o recurso administrativo deverá ser publicada no prazo máximo de noventa dias, contados a partir da data de protocolo do recurso.

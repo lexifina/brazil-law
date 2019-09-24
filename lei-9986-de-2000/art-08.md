@@ -1,4 +1,4 @@
-Art. 8º O ex-dirigente fica impedido para o exercício de atividades ou de prestar qualquer serviço no setor regulado pela respectiva agência, por um período de quatro meses, contados da exoneração ou do término do seu mandato.
+Art. 8º Os membros do Conselho Diretor ou da Diretoria Colegiada ficam impedidos de exercer atividade ou de prestar qualquer serviço no setor regulado pela respectiva agência, por período de 6 (seis) meses, contados da exoneração ou do término de seu mandato, assegurada a remuneração compensatória.
 § 1º Inclui-se no período a que se refere o caput eventuais períodos de férias não gozadas.
 § 2º Durante o impedimento, o ex-dirigente ficará vinculado à agência, fazendo jus a remuneração compensatória equivalente à do cargo de direção que exerceu e aos benefícios a ele inerentes.
 § 3º Aplica-se o disposto neste artigo ao ex-dirigente exonerado a pedido, se este já tiver cumprido pelo menos seis meses do seu mandato.

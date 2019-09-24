@@ -1,2 +1,2 @@
-Art. 56. Os membros da Diretoria perderão o mandato em virtude de renúncia, condenação judicial transitada em julgado, processo administrativo disciplinar, ou descumprimento manifesto de suas atribuições.
+Art. 56. Os membros das Diretorias Colegiadas perderão o mandato em virtude de renúncia, condenação judicial transitada em julgado ou condenação em processo administrativo disciplinar.
 Parágrafo único. Cabe ao Ministro de Estado dos Transportes ou ao Ministro de Estado Chefe da Secretaria de Portos da Presidência da República, conforme o caso, instaurar o processo administrativo disciplinar, competindo ao Presidente da República determinar o afastamento preventivo, quando for o caso, e proferir o julgamento.
