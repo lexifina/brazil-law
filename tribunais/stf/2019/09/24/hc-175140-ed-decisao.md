@@ -1,0 +1,18 @@
+Trata-se de embargos de declaração opostos contra decisão monocrática que concedeu a ordem de habeas corpus, de ofício, apenas para que o paciente possa aguardar, em liberdade, o julgamento final das Ações Declaratórias de Constitucionalidade 43/DF e 44/DF ou o trânsito em julgado da sentença penal condenatória (art. 5°, LVII, da CF e art. 283 do CPP), o que ocorrer primeiro, sem prejuízo da manutenção ou fixação, pelo juízo processante, de uma ou mais de uma das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+    No presente recurso, o embargante aponta erro na decisão, uma vez que não se trata de execução provisória de pena privativa de liberdade, mas, sim, de pena restritiva de direitos.
+    Requer, por fim, o provimento dos embargos para
+    “[a]lterar a parte dispositiva da concessão de ofício da ordem, para que passe a constar a determinação de suspensão da execução provisória da pena restritiva de direitos oriunda do decreto condenatório na Ação Penal nº 6-68.2017.6.19.0100, até o julgamento final da Ações Declaratórias de Constitucionalidade 43/DF e 44/DF ou o trânsito em julgado da sentença penal condenatória, o que ocorrer primeiro” (pág. 2 do documento eletrônico 20).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico ser o caso de prover os embargos para sanar erro existente na decisão embargada.
+    Isso porque, como bem ressaltado pelo embargante, existe uma diferença primordial entre a determinação da execução antecipada da pena privativa de liberdade com a determinação de cumprimento de pena restritiva de direito antes do trânsito em julgado da sentença condenatória.
+    O Código de Processo Penal, em seu art. 283, determina que “ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva” (grifei).
+    Por sua vez, o art. 147 da Lei de Execução Penal preceitua que, “transitada em julgado a sentença que aplicou a pena restritiva de direitos, o Juiz da execução, de ofício ou a requerimento do Ministério Público, promoverá a execução, podendo, para tanto, requisitar, quando necessário, a colaboração de entidades públicas ou solicitá-la a particulares” (grifei).
+    Note-se que, no julgamento das medidas cautelares nas Ações Declaratórias de Constitucionalidade 43 e 44, bem como no ARE 964.246-RG/SP e no HC 126.292/SP, o objeto examinado foi o art. 283 do CPP e não o art. 147 da LEP.
+    Nesse diapasão, impende ressaltar que, no Direito Penal não se admite a interpretação extensiva da norma ou da jurisprudência em prejuízo do réu, pois impera, nessa seara, o princípio constitucional da legalidade.
+    Assim, não se revela idônea a citação dos precedentes analisados pelo Plenário do Supremo Tribunal Federal para determinar a execução antecipada da pena restritiva de direitos, inexistindo, ainda, qualquer fundamento no ordenamento jurídico pátrio para fundamentar a maléfica mitigação da garantia constitucional da presunção de inocência.
+    Isso posto, dou provimento aos embargos de declaração para corrigir erro constante da decisão embargada e conceder a ordem de habeas corpus de ofício, para determinar que o cumprimento da pena restritiva de direito, oriunda do decreto condenatório na Ação Penal 6-68.2017.6.19.0100, ocorra somente após o trânsito em julgado, conforme disposto no art. 147 da Lei de Execução Penal.
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 24 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
