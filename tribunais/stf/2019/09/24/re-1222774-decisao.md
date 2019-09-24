@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. PRELIMINAR DE FALTA DE INTERESSE DE AGIR AFASTADA. QUESTÃO 07 DO CONCURSO PÚBLICO PARA O CARGO DE ASSESSOR JURÍDICO DA DEFENSORIA PÚBLICA DO PARANÁ. IMPUGNAÇÃO DE CORREÇÃO DE QUESTÃO OBJETIVA QUE REPRODUZ TEXTO CONSTITUCIONAL. ERRO INVENCÍVEL DO EXAMINADOR. QUESTÃO PACIFICADA NESTE E. TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO. SENTENÇA MANTIDA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput, II, da CF.
+    O recurso extraordinário não deve ser provido. Na hipótese, o TJ/PR manteve sentença que havia declarado a nulidade da Questão nº 7 do concurso público em exame, em face da constatação de erro teratológico perpetrado pela banca examinadora. O referido entendimento está alinhado com a orientação do Plenário desta Corte, que, no RE 632-853-RG (Tema 485, da sistemática da repercussão geral), reafirmou a antiga no sentido “de que não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade e inconstitucionalidade” (grifos nosso).
+    Ademais, o tribunal de origem entendeu que, “da análise pormenorizada da questão, conclui-se pela existência de erro grosseiro, na medida em que tal assertiva se releva transcrição literal do texto insculpido no art. 173, § 2º, da Constituição da República”. De modo que dissentir dessa conclusão implicaria o reexamine do acervo fático-probatório dos autos e das cláusulas do edital, o que não é possível em recurso extraordinário, nos termos das Súmulas 279 e 454/STF. Precedente: ARE 843.047-AgR, Rel. Min. Dias Toffoli.
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Controle jurisdicional do ato administrativo em que se avaliam questões de concurso público. Possibilidade, em casos excepcionais. Análise das cláusulas do instrumento convocatório e do conjunto fático-probatório da causa. Impossibilidade. Precedentes.
+    1. O Supremo Tribunal Federal, no exame do RE nº 632.853/CE-RG, Relator o Ministro Gilmar Mendes, Tema 485, firmou o entendimento de que, excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame.
+    2. Não se presta o recurso extraordinário para a análise de cláusulas de edital de concurso público, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 454 e 279/STF.
+    3. Agravo regimental não provido.
+    4. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei nº 12.016/09).”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 24 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
