@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “MANDADO DE SEGURANÇA. APELAÇÃO CÍVEL. PARIDADE REMUNERATÓRIA ENTRE OS SERVIDORES ATIVOS E INATIVOS. SERVIDOR APOSENTADO ANTES DO ADVENTO DA EC 20/98 e EC 41/03. INCIDÊNCIA DA REDAÇÃO ORIGINAL DO § 8º DO ART. 40 DA CONSTITUIÇÃO FEDERAL. REEXAME DA MATÉRIA. ART. 1.040 DO CPC. RETRATAÇÃO EFETIVADA.” (eDOC 6, p. 57)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; e 37, XIII do texto constitucional, bem como ao art. 7º da Emenda Constitucional 41/2003.
+    Nas razões recursais, alega-se que a gratificação por desempenho conferida aos servidores ativos não é passível de incorporação automática na renda dos inativos. (eDOC 6, p. 105)
+    É o relatório.
+    Decido.
+    A irresignação
+    O Tribunal de origem, ao examinar a Lei Municipal 1.140/2002, legislação local aplicável à espécie, consignou que a recorrida reunia todas as condições necessárias para o gozo do benefício. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “In casu, vê-se que o impetrante restou aposentado por força do Decreto de 24/04/1998, publicado no Diário Oficial em 05/05/1998, ou seja, antes do advento da EC nº 20/98 e EC nº 41/03, que promoveram alterações no § 8º do art. 40 da Constituição Federal. Outrossim, aos vencimentos do requerente foi incorporada a gratificação de superintendente CDS-1, denominada atualmente de NDS-3, cujo reajuste para o pessoal da ativa não lhe foi estendido, haja vista que inativo.
+    Nesse ínterim, em atenção ao princípio tempus regit actum e ao direito adquirido, deve incidir ao caso a redação original do § 8º do art. 40 da Constituição Federal, que previa a integralidade de proventos e a paridade revisional.
+    (…)
+    Logo, conforme muito bem ressaltado pela Procuradoria-Geral de Justiça, ? à luz do regramento atinente à época da concessão da aposentadoria de Felipe, que foi anterior à EC 20/98, o servidor aposentado ora recorrido tem direito adquirido à paridade plena entre ativos e inativos, posto que se aposentou quando ainda estava em vigor a ampla paridade, que, inclusive, foi excluída do mundo jurídico apenas com o advento da EC 21/03?.
+    A par dessas considerações, denota-se a existência de divergência do acórdão revisto com o entendimento consagrado pela Corte Suprema, uma que vez este Sodalício afastou o direito à paridade para o impetrante em manifesta afronta ao regramento constitucional vigente à época, o que impõe o exercício do juízo de retratação, para o fim de desprover a apelação cível interposta pelo Estado de Goiás.” (eDOC 6, p. 59/60)
+    Desta forma, verifico que o recorrido não divergiu do entendimento firmado pelo Plenário desta Corte, que ao julgar o RE 590.260-RG, Rel. Min. Ricardo Lewandowski, Tema 139 da sistemática da repercussão geral, firmou entendimento no sentido de que os servidores públicos que ingressaram no serviço público antes da Emenda Constitucional 41/2003, mas que se aposentaram após a referida emenda, possuem direto à paridade e integralidade remuneratória, desde que observada a regra de transição prevista na Emenda Constitucional 47/2005. Eis a ementa do julgado:
+     “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORESATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+    I - Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+    II - Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+    III - Recurso extraordinário parcialmente provido.”
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 24 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
