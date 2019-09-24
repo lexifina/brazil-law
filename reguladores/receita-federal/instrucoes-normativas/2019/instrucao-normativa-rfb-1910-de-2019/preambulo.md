@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1910, de 23 de setembro de 2019
+Dispõe sobre o controle aduaneiro de bens destinados à construção da Segunda Ponte Internacional sobre o Rio Paraná, entre as cidades de Foz do Iguaçu, no Brasil, e Puerto Presidente Franco, no Paraguai.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, tendo em vista o Decreto nº 6.676, de 4 de dezembro de 2008, e conforme previsão constante no art. 8º, parágrafo único, inciso II, do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
