@@ -8,5 +8,5 @@ VI - elaborar e divulgar relatórios sobre as atividades da ANA;
 VII - encaminhar os demonstrativos contábeis da ANA aos órgãos competentes;
 VIII - decidir pela venda, cessão ou aluguel de bens integrantes do patrimônio da ANA; e
 IX - conhecer e julgar pedidos de reconsideração de decisões de componentes da Diretoria da ANA.
-§ 1º A Diretoria deliberará por maioria simples de votos, e se reunirá com a presença de, pelo menos, três diretores, entre eles o Diretor-Presidente ou seu substituto legal.
+§ 1º A Diretoria Colegiada deliberará por maioria absoluta de votos e reunir-se-á com a presença de, pelo menos, 3 (três) diretores, entre eles o Diretor-Presidente ou seu substituto legal.
 § 2º As decisões relacionadas com as competências institucionais da ANA, previstas no art. 3º, serão tomadas de forma colegiada.

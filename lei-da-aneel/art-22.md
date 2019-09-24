@@ -1,1 +1,0 @@
-Art. 22. Em caso de descentralização da execução de atividades relativas aos serviços e instalações de energia elétrica, parte da Taxa de Fiscalização correspondente, prevista no art. 12 desta Lei, arrecadada na respectiva unidade federativa, será a esta transferida como contraprestação pelos serviços delegados, na forma estabelecida no contrato de metas.

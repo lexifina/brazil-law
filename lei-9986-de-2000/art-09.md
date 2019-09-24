@@ -1,2 +1,5 @@
-Art. 9º Os Conselheiros e os Diretores somente perderão o mandato em caso de renúncia, de condenação judicial transitada em julgado ou de processo administrativo disciplinar.
-Parágrafo único. A lei de criação da Agência poderá prever outras condições para a perda do mandato.
+Art. 9º O membro do Conselho Diretor ou da Diretoria Colegiada somente perderá o mandato:
+I - em caso de renúncia;
+II - em caso de condenação judicial transitada em julgado ou de condenação em processo administrativo disciplinar;
+III - por infringência de quaisquer das vedações previstas no art. 8º-B desta Lei.
+Parágrafo único. (Revogado).

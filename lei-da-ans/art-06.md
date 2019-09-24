@@ -1,2 +1,2 @@
-Art. 6º A gestão da ANS será exercida pela Diretoria Colegiada, composta por até cinco Diretores, sendo um deles o seu Diretor-Presidente.
-Parágrafo único. Os Diretores serão brasileiros, indicados e nomeados pelo Presidente da República após aprovação prévia pelo Senado Federal, nos termos do art. 52, III, "f", da Constituição Federal, para cumprimento de mandato de três anos, admitida uma única recondução.
+Art. 6º A gestão da ANS será exercida por Diretoria Colegiada composta de 5 (cinco) Diretores, sendo um deles o seu Diretor-Presidente.
+Parágrafo único. Os membros da Diretoria Colegiada serão brasileiros, indicados pelo Presidente da República e por ele nomeados, após aprovação prévia pelo Senado Federal, nos termos da alínea "f" do inciso III do art. 52 da Constituição Federal, para cumprimento de mandato de 5 (cinco) anos, vedada a recondução, nos termos da Lei nº 9.986, de 18 de julho de 2000.

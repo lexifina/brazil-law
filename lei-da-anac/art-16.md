@@ -1,1 +1,1 @@
-Art. 16. Cabe ao Diretor-Presidente a representação da ANAC, o comando hierárquico sobre o pessoal e o serviço, exercendo todas as competências administrativas correspondentes, bem como a presidência das reuniões da Diretoria.
+Art. 16. Cabe ao Diretor-Presidente a representação da Anac, o comando hierárquico sobre pessoal e serviços, o exercício das competências administrativas correspondentes e a presidência das reuniões da Diretoria Colegiada.
