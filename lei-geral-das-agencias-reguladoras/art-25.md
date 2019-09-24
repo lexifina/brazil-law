@@ -1,0 +1,1 @@
+Art. 25. Com vistas à promoção da concorrência e à eficácia na implementação da legislação de defesa da concorrência nos mercados regulados, as agências reguladoras e os órgãos de defesa da concorrência devem atuar em estreita cooperação, privilegiando a troca de experiências.

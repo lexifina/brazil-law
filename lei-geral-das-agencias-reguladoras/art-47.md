@@ -1,0 +1,2 @@
+Art. 47. Até que sejam organizadas as ouvidorias na Aneel, na ANP e na ANA, as competências do ouvidor poderão ser exercidas, cumulativamente, por um dos membros do conselho diretor ou da diretoria colegiada, definido em ato do presidente, diretor-presidente ou diretor-geral da agência reguladora.
+Parágrafo único. As ouvidorias referidas no caput deverão ser organizadas em até 120 (cento e vinte) dias após a entrada em vigor desta Lei.
