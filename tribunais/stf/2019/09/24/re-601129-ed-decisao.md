@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão monocrática de minha relatoria, que negou seguimento ao recurso extraordinário sob o fundamento de que o acórdão proferido pelo Tribunal de origem está alinhado à jurisprudência do Supremo Tribunal Federal (RE 424.053-RG).
+    A parte embargante sustenta que a decisão embargada foi omissa nos seguintes pontos: (i) sobre a inclusão no polo passivo da União Federal; (ii) acerca da ausência de manifestação do representante do Ministério Público Federal; (iii) quanto o afastamento do teto diante das parcelas de natureza reparatória da remuneração do anistiado (art. 37, § 11, na redação dada pela EC nº 47/2005).
+    O recurso não pode ser acolhido, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão questionada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+    Estes embargos veiculam pretensão meramente infringente. Objetivam tão somente o reexame de pedido já repelido. E os embargos não podem conduzir à renovação de um julgamento que não se ressente de nenhum vício e, muito menos, à modificação do julgado.
+    A parte recorrente limita-se a postular uma nova apreciação do mérito de um julgamento que transcorreu de forma regular. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento dos declaratórios com essa finalidade.
+    Este Tribunal já firmou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objetivo de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+    Ressalto que a impugnação sobre a inclusão da União no polo passivo não fez parte das razões do recurso extraordinário, sendo aduzida somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual.
+    Ademais, a jurisprudência o Supremo Tribunal Federal tem o entendimento no sentido de que a controvérsia sobre a intimação do Ministério Público pelo Tribunal de origem depende da análise dos fatos e provas e da legislação infraconstitucional pertinente. Nesse sentido: AI 868.122, Relª. Minª. Cármen Lúcia; ARE 966.326, Rel. Min. Gilmar Mendes; e ARE 1.008.701, Rel. Min. Marco Aurélio.
+    Quanto à discussão sobre a natureza indenizatória do benefício, a jurisprudência desta Corte é no sentido de que a controvérsia se insere no âmbito infraconstitucional. Nessa linha, vejam-se os seguintes julgados desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REAJUSTE DE APOSENTADORIA DE ANISTIADO. LEI N. 8.213/91 E DECRETO N. 2.172/97. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 603.326/SP-AgR, Relª. Minª. Cármen Lúcia)
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO ESPECIAL. EX-COMBATENTE. MATÉRIA DE ORDEM INFRACONSTITUCIONAL. OFENSA INDIRETA. PRECEDENTES. AGRAVO IMPROVIDO.
+    I - A limitação pecuniária da pensão especial de ex-combatente e anistiado envolve a análise de normas infraconstitucionais (4.297/63, 5.698/71 e 11.143/2005 e Decreto 2.172/97), sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. Precedentes.
+    II – Agravo regimental improvido.” (RE 589.856-AgR, Rel. Min. Ricardo Lewandowski)
+    A parte embargante insiste no acolhimento de recurso manifestamente inadmissível, sem demonstrar a necessidade de reforma da decisão ora impugnada.
+    Diante do exposto, com base no art. 1.024, § 2º, do CPC/2015, rejeito os embargos de declaração. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 24 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
