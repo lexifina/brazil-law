@@ -1,1 +1,1 @@
-Art. 12. Os diretores serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados pelo Presidente da República, após serem aprovados pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.
+Art. 12. Os membros da Diretoria Colegiada serão nomeados pelo Presidente da República, após aprovação pelo Senado Federal, nos termos da alínea "f" do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.
