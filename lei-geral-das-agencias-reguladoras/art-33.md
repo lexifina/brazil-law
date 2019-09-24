@@ -1,0 +1,1 @@
+Art. 33. As agências reguladoras poderão articular-se com os órgãos de defesa do meio ambiente mediante a celebração de convênios e acordos de cooperação, visando ao intercâmbio de informações, à padronização de exigências e procedimentos, à celeridade na emissão de licenças ambientais e à maior eficiência nos processos de fiscalização.

@@ -1,0 +1,1 @@
+Art. 16. A agência reguladora deverá implementar, em cada exercício, plano de comunicação voltado à divulgação, com caráter informativo e educativo, de suas atividades e dos direitos dos usuários perante a agência reguladora e as empresas que compõem o setor regulado.

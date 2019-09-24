@@ -1,0 +1,1 @@
+Art. 27. Quando a agência reguladora, no exercício de suas atribuições, tomar conhecimento de fato que possa configurar infração à ordem econômica, deverá comunicá-lo imediatamente aos órgãos de defesa da concorrência para que esses adotem as providências cabíveis.
