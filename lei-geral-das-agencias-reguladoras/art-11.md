@@ -1,0 +1,1 @@
+Art. 11. A agência reguladora poderá estabelecer, em regimento interno, outros meios de participação de interessados em suas decisões, diretamente ou por meio de organizações e associações legalmente reconhecidas, aplicando-se o § 5º do art. 9º às contribuições recebidas.

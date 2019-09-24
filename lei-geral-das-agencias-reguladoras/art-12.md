@@ -1,0 +1,2 @@
+Art. 12. Os relatórios da audiência pública e de outros meios de participação de interessados nas decisões a que se referem os arts. 10 e 11 deverão ser disponibilizados na sede da agência e no respectivo sítio na internet em até 30 (trinta) dias úteis após o seu encerramento.
+Parágrafo único. Em casos de grande complexidade, o prazo de que trata o caput poderá ser prorrogado por igual período, justificadamente, uma única vez.
