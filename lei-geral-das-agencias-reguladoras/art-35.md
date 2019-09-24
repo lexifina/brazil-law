@@ -1,0 +1,2 @@
+Art. 35. No caso da descentralização prevista no caput do art. 34, parte da receita arrecadada pela agência reguladora federal poderá ser repassada à agência reguladora ou ao órgão de regulação estadual, distrital ou municipal, para custeio de seus serviços, na forma do respectivo acordo de cooperação.
+Parágrafo único. O repasse referido no caput deste artigo deverá ser compatível com os custos da agência reguladora ou do órgão de regulação local para realizar as atividades delegadas.

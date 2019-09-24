@@ -1,0 +1,1 @@
+Art. 4º A agência reguladora deverá observar, em suas atividades, a devida adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquela necessária ao atendimento do interesse público.
