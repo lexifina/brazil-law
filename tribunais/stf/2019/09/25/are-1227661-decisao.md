@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. JULGAMENTO EXTRA PETITA. SENTENÇA. NULIDADE. MUNICÍPIO DE PEDRO LEOPOLDO. CORTE E BENEFICIAMENTO DA 'PEDRA DE LAGOA SANTA'. PLANO DIRETOR. OBSERVÂNCIA. LICENCIAMENTO AMBIENTAL. ESTABELECIMENTO DISPENSADO PELA SUPRAM. DANO AMBIENTAL. AUSÊNCIA DE PROVA.
+    O distanciamento entre os pedidos contidos na petição inicial e a prestação jurisdicional entregue pela sentença torna o julgamento passível de anulação, por violação ao princípio da congruência.
+    O Plano Diretor do Município de Pedro Leopoldo vedou a instalação de empreendimentos potencialmente poluidores na região do Fidalgo, ressalvadas as atividades de beneficiamento da 'pedra de Lagoa Santa', desde que licenciadas e condicionadas às exigências legais.
+    Dispensado o estabelecimento réu de licenciamento ambiental, em razão do baixo potencial poluidor do seu empreendimento, não há como acolher a pretensão de encerramento das suas atividades e tampouco de reparação ambiental por dano não efetivamente comprovado.
+    Sentença anulada. Pedidos julgados improcedentes. Prejudicados o reexame necessário e os recursos de apelação.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 23, III, IV, V, VI, VII e XI; 30, I, II, VIII e IX; 170, VI; 182, caput e § 1º; e 225 da CF.
+    O recurso extraordinário é inadmissível. De início, observa-se que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 1.035 do CPC/2015.
+    Como já registrado por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ainda que superado o óbice apontado, nota-se que, para dissentir da conclusão do Tribunal de origem, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 25 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
