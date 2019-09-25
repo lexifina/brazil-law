@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto pelo Estado do Ceará contra acórdão da 1ª Câmara de Direito Público do Tribunal de Justiça do Estado do Ceará, assim ementado:
+          “CONSTITUCIONAL E TRIBUTÁRIO. APELAÇÕES EM MANDADO DE SEGURANÇA. ICMS. OPERAÇÃO DE IMPORTAÇÃO DE PRODUTOS HORTIFRUTIGRANJEIROS. INCIDÊNCIA CUMULADA DO ICMS NA ALÍQUOTA DE 17% PREVISTA NA LEI ESTADUAL Nº 12.670/96 E DA REGRA DE TRIBUTAÇÃO DISPOSTA NA INSTRUÇÃO NORMATIVA Nº 12/2004. POSSIBILIDADE. INEXISTÊNCIA DE BITRIBUTAÇÃO. APREENSÃO DE MERCADORIAS COMO MEIO COERCITIVO PARA PAGAMENTO DE TRIBUTO. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS 323 DO STF E 31 DO TJ/CE.
+    1. O cerne do presente recurso consiste em analisar a possibilidade da incidência cumulada do ICMS na alíquota de 17% (dezessete por cento) sobre a importação das mercadorias, prevista na Lei Estadual nº 12.670/96 e a da regra de tributação disposta na Instrução Normativa nº 12/2004 da SEFAZ-CE sobre a operação de aquisição de produtos hortifrutigranjeiros advindos do exterior.
+    2. No caso sob análise, não há que se falar em bitributação, sendo perfeitamente cabível a aplicação cumulada das normas estaduais supramencionadas. Isso porque, as duas operações mercantis de circulação de mercadorias são distintas. A alíquota de 17% (dezessete por cento) sobre o valor da operação prevista na Lei Estadual de nº 12.670/1996 incide pela entrada da mercadoria importada do exterior. Já a regra de tributação disposta na Instrução Normativa de nº 12/2004 da SEFAZ-CE possui como fato gerador a circulação interna de mercadoria. Precedentes desta Corte de Justiça.
+    3. O Fisco não pode utilizar a apreensão de mercadorias para coagir o contribuinte a efetuar o pagamento do tributo tido como devido, podendo, tão somente, apreendê-las pelo período necessário à adoção das medidas imprescindíveis de identificação da infração cometida, sob pena de ofensa aos princípios da proporcionalidade e razoabilidade. Súmulas 323 do STF e 31 do TJ/CE.
+    4. Reexame necessário e apelações cíveis conhecidas, mas desprovidas. Sentença mantida.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, § 7º, e 155, § 2º, IX, a, ambos da Carta. Sustenta ser legítima a cobrança do ICMS na forma impugnada pela Recorrida, tanto no desembaraço aduaneiro quanto por substituição tributária, tendo em vista que tratam-se de fatos geradores distintos.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “(...)
+    Na verdade, denota-se que o Estado do Ceará sucumbiu, tão somente, quanto ao pedido de liberação das mercadorias apreendidas em virtude do não pagamento do tributo, deferido pelo magistrado a quo e igualmente mantido pelo órgão julgador desta Corte. Entretanto, não cuidou o recorrente de impugnar referido capítulo do acórdão ora combatido, motivo pelo qual o apelo não merece ascender.
+    Diante do exposto, com base no art. 1.030, inciso V, do CPC, inadmito o Recurso Extraordinário”.
+    A pretensão recursal não merece prosperar, tendo em vista que a decisão do Tribunal de origem foi proferida em sentido favorável à tese deduzida nas razões do recurso extraordinário.
+    Desse modo, ante a ausência de prejuízo, fica evidente a falta de interesse recursal. Nesse sentido, confira-se:
+    “RECURSO. Extraordinário. Inadmissibilidade. Decisão agravada. Interposição pelo vencedor. Falta de interesse recursal. Agravo não conhecido. Não se conhece de agravo regimental, quando falte interesse recursal à parte agravante que não foi prejudicada pela decisão agravada.” (AI 619.773-AgR, Rel. Min. Cezar Peluso)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso interposto pelo Estado do Ceará.
+    Publique-se.
+          Brasília, 25 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
