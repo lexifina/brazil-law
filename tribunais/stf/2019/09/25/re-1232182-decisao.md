@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 3º, I, da CF.
+    De início, nota-se que os embargos de declaração opostos por Liane Mikowski, ora recorrida, no Tribunal de origem foram acolhidos em acórdão assim ementado, publicado em 23.11.2018:
+    “EMBARGOS DE DECLARAÇÃO. Artigo 1.022 do CPC. Cabimento contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou correção de erro material.
+    Caso concreto. Alegada obscuridade quanto à condenação a título de honorários de sucumbência, que fixou percentual sobre o valor da condenação, quando que o correto seria sobre o valor da causa. Julgado que, de fato, é obscuro e contém erro material, não só na parte dispositiva, mas, também, no relatório. Existência de duas ações concomitantes. Prolação de duas sentenças que levaram o julgador a erro. Necessário acolhimento dos declaratório para aclarar o aresto embargado por completo e corrigir erro material contido. Recurso de apelação integralmente revisto.
+    Embargos de Declaração ACOLHIDOS, para aclaramento e correção de erro material, nos termos do voto.”
+    O recurso não deve ser conhecido, tendo em vista que incide no caso a jurisprudência do Supremo Tribunal Federal que não conhece do recurso extraordinário interposto antes do julgamento de todos os recursos interpostos na instância de origem. Nessa linha, veja-se a ementa do AI 850.941-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no agravo de instrumento. Recurso extraordinário. Intempestividade. Interposição que precedeu o julgamento dos embargos de declaração. Recurso não ratificado. Precedentes. 1. A jurisprudência da Corte é pacífica no sentido de ser extemporâneo o recurso extraordinário interposto, sem que haja a ratificação oportuna do ato, antes do julgamento de todos os recursos interpostos na instância de origem, mesmo que os referidos recursos tenham sido manejados pela parte contrária. 2. Agravo regimental não provido.”
+    Ademais, a parte recorrente não apresentou mínima fundamentação quanto à violações constitucionais, limitando-se a fazer observações genéricas sobre os fatos, sem concluir de forma clara como o acórdão recorrido teria violado o art. 3º, I, da CF. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 25 de setembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
