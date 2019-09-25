@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 5ª Região, reformando o entendimento do Juízo, julgou procedente o pedido formalizado em ação civil pública no tocante a rescisão de contratos financiados com recursos do Fundo de Amparo ao Trabalhador (FAT) e a restituição de valores. No extraordinário, o recorrente aponta violado o artigo 102, inciso I, alínea “ f ”, da Constituição Federal. Discorre sobre a natureza jurídica do fundo mencionado, tendo como caracterizada a ofensa a bens, serviços ou interesses da União, adentrando nos contornos da situação fática. Insiste na competência originária do Supremo. Tece considerações acerca da possível inclusão no Sistema Integrado da Administração Financeira (SIAFI) e Cadastro Único de Convênios (CAUC). Alude a precedentes deste Tribunal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    6. Somente agora o Estado de Pernambuco cogita da competência do STF. Não seria de esperar que o acórdão embargado viesse a declará-la de oficio, até porque a tese é manifestamente infundada, sabido que:
+    "A circunstância de o Ministério Público Federal ser um dos autores da presente Ação Civil Pública não é, por si só, suficiente para patentear o\ potencial conflito federativo que atrai a competência do Supremo Tribunal Federal com fundamento no art. 102, inc. I, alínea f, da Constituião da República" (ACO n° 1.191 AgR, STF, Pleno, Min. Carmen Lúcia, DJe 21/8-09).
+    7. Efetivamente, ao questionar a execução de contratos financiados com recursos do Fundo de Amparo do Trabalhador, o Ministério Público Federal não está a defender interesse da União, até porque isso lhe é expressamente vedado pela Constituição (art. 129, inc. IX), mas a viabilizar a tutela jurisdicional de um interesse difuso, consubstanciado na proteção ao patrimônio público. Age, pois:
+    "em nome próprio e por autoridade própria, na promoção da tutela jurisdicional de direitos identificados pela nota da metaindividualidade, e não em nome ou na representação de qualquer pessoa jurídica de direito público" n° 5.951 MC, STF, Min. Celso de Mello, decisão monocrática, DJe 5/3/09).
+    8. Ademais, a presente lide envolve questão meramente patrimonial, "sem nenhum substrato político que possa caracterizar conflito federativo ou, de qualquer forma, afetar o equilíbrio da Federação brasileira" (ACO n° 485, STF, Pleno, Min. Carlos Britto, DJ 2/4/04, p. 7).
+     O Tribunal de origem assentou a competência da Justiça Federal, porquanto o pedido formulado refere-se a questão meramente patrimonial. Concluir de forma diversa decorreria do reexame do acervo probatório, inviável nesta estreita via recursal. Está-se diante de caso cujo desfecho fica no âmbito do Tribunal local.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 25 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
