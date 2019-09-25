@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 166):
+    Furto qualificado - Apelação - Novo julgamento, face à determinação dos Embargos Declaratórios desta Colenda 5ª Câmara de Direito Criminal - Conjunto probatório suficiente para o reconhecimento do crime - Absolvição - Impossibilidade - Pena adequada e motivadamente dosada, necessária para reprovação e prevenção do delito - Sentença mantida - Recurso desprovido.
+    Não se conheceu dos embargos de declaração por intempestividade (eDOC 2, p. 192).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XLVI e LVII, da Constituição Federal.
+    Alega-se, em suma, que o acórdão recorrido é contrário às provas dos autos, uma vez que a autoria do recorrente não foi satisfatoriamente comprovada, bem como que não houve fundamentação adequada para a fixação do regime fechado para início do cumprimento da pena.
+    A Presidência da Seção de Direito Criminal do TJSP não conheceu do recurso em razão da sua intempestividade (eDOC 2, pp. 325-326).
+    É o relatório. Decido.
+     Verifico a intempestividade do recurso extraordinário, porquanto interposto em 15.3.2019 (eDOC 2, p. 249), ao passo que a publicação do acórdão recorrido ocorreu em 21.11.2018 (eDOC 2, p. 177). Assim, o dies a quo para a contagem do prazo é 22.11.2018 e o termo final é 6.12.2018.
+    Ressalto que, a despeito do que dispõe o art. 219, caput, do NCPC, que determina a contagem do prazo recursal em dias úteis, o caso em apreço trata de recurso extraordinário em matéria criminal, cujo processo penal é regido por regras processuais penais.
+    As regras do processo civil só se aplicam aos processos penais subsidiariamente, pela via do art. 3º do CPP, vale dizer, quando não houver regra processual penal expressa regulando a matéria.
+    Dessa forma, sempre que em conflito regras formalmente expressas em lei, há de ser aplicado o critério da especialidade. No caso, a contagem dos prazos no processo penal está prevista em regra específica do CPP, que dispõe:
+    Art. 798. Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+    Sendo assim, o novo Código de Processo Civil não regula o processo penal nesse particular. Tratando-se de matéria com regulamentação expressa, não demanda, portanto, aplicação subsidiária do NCPC.
+    Considerando que a publicação do acórdão recorrido se deu em 21.11.2018 e observado o prazo de 15 (quinze) dias, contados de forma contínua, é intempestivo o recurso extraordinário interposto em 15.3.2019.
+    Importa destacar, ainda, a jurisprudência desta Corte no sentido de que a oposição de embargos de declaração intempestivos não tem o condão de interromper a contagem do prazo recursal:
+    Ementa: EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO CRIMINAL. PRECLUSÃO DAS MATÉRIAS NÃO ARGUIDAS NO REGIMENTAL. ART. 1.026, CAPUT e § 4°, DO CPC. AUSÊNCIA DE EFEITO INTERRUPTIVO E DESNECESSIDADE DE AGUARDAR OS TERCEIROS DECLARATÓRIOS PROTELATÓRIOS. DETERMINAÇÃO DA CERTIFICAÇÃO DO TRÂNSITO EM JULGADO NO ACÓRDÃO IMPUGNADO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. BAIXA IMEDIATA. I – Encontram-se preclusas as questões suscitadas em relação à decisão por meio da qual não foram conhecidos os primeiros embargos de declaração, uma vez que não foram arguidas no agravo regimental. II – Os primeiros declaratórios não foram conhecidos por ausência de demonstração da existência de vício na decisão embargada, sendo, por isso, considerados manifestamente incabíveis. III – Recursos manifestamente incabíveis ou intempestivos não têm o condão de suspender ou interromper prazos para interposição de outras pretensões recursais. Precedentes. IV – O magistrado não está obrigado a aguardar os terceiros embargos de declaração protelatórios da mesma parte para, só após, considerá-los inadmissíveis. Precedentes. V – A certificação do trânsito em julgado da decisão que negou seguimento ao recurso extraordinário foi determinada no acórdão embargado. VI – Embargos de declaração não conhecidos, com determinação da imediata baixa dos autos à origem.
+    (RE 1031181 ED-AgR-ED, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 17/05/2019)
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, RISTF.
+    Publique-se. Intime-se.
+    Brasília, 25 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
