@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública do Estado de Minas Gerais, em favor de Alan Junior Dos Santos, contra ato da quinta turma do Superior Tribunal de Justiça (STJ), ocorrido no AgRg no HC nº 500.905 – MG.
+    O Paciente foi condenado (eDOC 6, p. 67) pela prática dos delitos descritos no art. 33 da Lei 11.343/06 e art. 12 da Lei 10.826/03 à pena de 06 anos e 06 meses de reclusão e 01 ano e 02 meses de detenção, respectivamente. A defesa recorreu pleiteando a incidência do tráfico privilegiado e redução das penas.
+     O Egrégio Tribunal de Justiça deu parcial provimento ao recurso (eDOC 6, p. 52) para redimensionar a reprimenda do paciente, em relação ao crime de tráfico de drogas para 5 (cinco) anos de reclusão, e para 1 (um) ano de detenção, em relação ao crime de posse ilegal de arma de fogo, mantendo-se, no mais a sentença condenatória.
+    Diante disso, a Defesa impetrou o pedido de habeas corpus perante Superior Tribunal de Justiça, visto que o Tribunal de Justiça do Estado de Minas considerou como dedicação à atividade criminosa, a condenação concomitante do paciente pelo delito de posse ilegal de arma de fogo.
+    O habeas corpus não foi conhecido pelo relator do feito no STJ. Foi interposto agravo regimental, que restou desprovido em acórdão ementado nos seguintes termos:
+    EMENTA AGRAVO REGIMENTAL. HABEAS CORPUS. APLICAÇÃO MINORANTE. ART. 33, § 4º DA LEI N. 11.343/2006. REQUISITOS AUTORIZADORES. NÃO CONFIGURADOS. CIRCUNSTÂNCIAS CONCRETAS. NECESSIDADE. REVOLVIMENTO DO CONTEÚDO FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+    Nesta Corte, a Defensoria Pública de Minas Gerais alega que o paciente faz jus à minorante prevista no §4º do art. 33 da Lei 11.343/2006, pleiteando sua aplicação, haja vista que a dedicação a atividades criminosas, como fixado pelo dispositivo legal, presume a comprovação de reiteradas condutas infracionais penais, o que não se observaria nos presentes autos.
+    É o relatório.
+    Decido.
+    Preliminarmente, é importante rememorar as condições que pressupõem a aplicação do redutor previsto no §4º do art. 33 da Lei 11.343/2006, dispositivo ora em debate, sendo quatro os requisitos para sua satisfação: i) ser o agente primário; ii) possuidor de bons antecedentes; iii) não se dedicar a atividades criminosas; e iv) não integrar organização criminosa. Dentre todos os aspectos, extrai-se dos autos que a paciente preenche três deles, sendo controvertida a sua dedicação a atividades criminosas (iii).
+    Na decisão do juízo de origem, o magistrado consignou que:
+    “O réu não desenvolve atividade laborativa lícita, informando atua na traficância há pelo menos um ano. Daí decorre igualmente a gravidade concreta da conduta do acusado, que faz do tráfico seu meio de vida, se unido e valendo-se de outros indivíduos para a fomentação do tráfico de drogas, inclusive, alugando uma residência e colocando um terceiro para também praticar o tráfico de drogas.”(eDOC 6, p. 106)
+    O acórdão do Tribunal de Justiça de Minas Gerais, a seu turno, assentou que:
+    “Como claramente se verifica da fundamentação contida em embargos , restara condenado o embargante, pela prática do delito de posso ilegal de arma de fogo, nos moldes previstos no art. 12 da Lei 10.826/03, circunstancia a denotar dedicação a atividade criminosa, fator obstativo a percepção do beneficio em apreço.” (eDOC 6, p. 57)
+    Consoante se depreende dos trechos acima transcritos, entendo que as decisões impugnadas atendem aos princípios da proporcionalidade e da individualização da pena e o presente habeas corpus decorre de mero inconformismo da parte, que não aceita seus fundamentos. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do paciente.
+    Colhe-se dos autos que a quantidade e a natureza da droga apreendida, bem como a dedicação do acusado às atividades criminosas impediram a aplicação do redutor da Lei de Drogas.
+    Também é entendimento desta Corte que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Cito, a propósito, os seguintes precedentes: HC 124.250/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 18.12.2014, e ARE-AgR 938.357/AL, de minha relatoria, 2ª Turma, DJe 14.6.2016.
+    Desse modo, verifico que o acórdão impugnado está em consonância com a jurisprudência desta Corte e atende ao princípio da individualização da pena, e o presente writ decorre de mero inconformismo da parte, que não aceita seus fundamentos.
+    Ante o exposto, com base no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 25 de setembro de 2019
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
