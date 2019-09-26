@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Habeas Corpus impetrado contra acórdão do Superior Tribunal Militar, proferido no julgamento da Apelação 7000143-13.2019.7.00.0000, Rel. Min. CARLOS VUYK DE AQUINO.
+    Consta dos autos, em síntese, que o paciente foi condenado à pena de 3 (três) meses de detenção, em regime aberto, pela prática do crime de abandono de posto (art. 195 do Código Penal Militar), concedido sursis pelo prazo de 2 (dois) anos (Doc. 5 – fls. 74/85).
+    Segundo a inicial acusatória (Doc. 3 – fls. 3/4),
+    Por volta das 19h do dia 03/07/2017, o 1° Ten TOMÉ ao realizar inspeção no alojamento ECHO, não encontrou o ora denunciado, que deveria estar de Plantão. Ato contínuo, acionou o SG REINÍLSON e os Portões Principal e Administrativo do SSNL para realizarem busca do militar, que se mostraram infrutíferas.
+    Já na manhã do dia seguinte, por volta das 09h20, o MN LEAL se apresentou ao 1° Ten TOMÉ, e lhe foi dada a voz de prisão.
+    Em seu depoimento, alegou que abandonou seu serviço para auxiliar a sua esposa, gestante de 09 meses, após receber ligação de que estava passando mal, e por isso, agiu no impulso e desespero na tentativa de socorrê-la.
+    Notificado para apresentar provas de seu comparecimento e/ou entrada de sua esposa em Hospital para atendimento (fls. 58), apenas juntou uma declaração da USF Alto de Coutos II de que a acompanha no Pré-Natal. ( fls. 59).
+    Às fls. 43, Detalhe de Serviço do dia dos fatos,
+    Os elementos de prova produzidos no IPM anexo demonstram que o MN LEAL, de maneira livre e consciente, abandonou o seu serviço (Plantão do Alojamento Eco da SSNL), sem autorização, praticando, assim, o delito de abandono de posto previsto no artigo 195 do CPM.
+    Inconformada, a defesa interpôs Apelação no Superior Tribunal Militar, que negou provimento ao recurso, em acórdão assim ementado (Doc. 6 – fl. 24):
+    APELAÇÃO. DEFENSORIA PÚBLICA DA UNIÃO. ABANDONO DE POSTO. ART. 195 DO CÓDIGO PENAL MILITAR. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PRELIMINAR DE EXTINÇÃO DO FEITO PELA PERDA DO OBJETO EM RAZÃO DA AUSÊNCIA DE CONDIÇÃO DE PROSSEGUIBILIDADE. REJEIÇÃO. DECISÃO POR UNANIMIDADE. MÉRITO. CRIME DE MERA CONDUTA E DE PERIGO ABSTRATO. CONDUTA LESIVA. RECONHECIMENTO. ESTADO DE NECESSIDADE EXCULPANTE. ART. 39 DO CPM. INEXIGIBILIDADE DE CONDUTA DIVERSA. ALEGAÇÕES DE ORDEM PARTICULAR. NÃO COMPROVAÇÃO. AUTORIA, MATERIALIDADE E CULPABILIDADE COMPROVADAS. RECURSO NÃO PROVIDO. MANUTENÇÃO DA SENTENÇA CONDENATÓRIA. DECISÃO POR UNANIMIDADE.
+    O licenciamento do Acusado do serviço ativo não constitui ausência superveniente do pressuposto de admissibilidade do Recurso, não ensejando a perda do seu objeto, tampouco afasta a legitimidade da Parte Ré de figurar no polo passivo da presente ação penal militar pela perda de sua condição essencial, haja vista que, ao tempo da consumação do delito, o Acusado ostentava a condição de militar em serviço ativo e em local sujeito à Administração Militar.
+    Preliminar rejeitada. Decisão por unanimidade.
+    O delito descrito no art. 195 do Código Penal Militar é de perigo abstrato, portanto, o sujeito é punido pela simples desobediência à lei, sem a necessidade de efetiva comprovação da existência de lesão ou de ameaça de lesão ao bem juridicamente tutelado pela norma penal.
+    O abandono de posto encerra elevado potencial de perigo, visto que a falha de um posto de serviço, e aí pouco importa a sua natureza, da mais simples à mais sensível atribuição, tem potencial para romper a incolumidade do perímetro vigiado, comprometendo a segurança da Unidade e do próprio efetivo aquartelado.
+    Constitui ônus da Defesa comprovar a excludente de culpabilidade referente ao estado de necessidade exculpante, previsto no art. 39 do Código Penal Militar, utilizando-se de provas idôneas e contundentes, aptas a caracterizar a inexigibilidade de conduta diversa.
+    Apelo a que se nega provimento. Decisão por unanimidade.
+    Nesta ação, a Defensoria Pública da União alega, em suma: com seu licenciamento do serviço ativo, o paciente não mais ostenta o status de militar, condição essa que seria essencial para figuração no polo passivo de ação penal por crime de Abandono de Posto. Requer, assim, a concessão da ordem, para decretar a extinção da ação penal nº 0000062-71.2017.7.06.0006, autuada perante o Conselho Permanente de Justiça para a Marinha (CPJMAR) da Auditoria da 6ª Circunscrição Judiciária Militar, diante da ausência de condição de procedibilidade para o prosseguimento da ação e, por conseguinte, para a execução da pena imposta pelo crime de Abandono de Posto.
+    É o relatório. Decido.
+    O licenciamento do paciente das fileiras da Marinha, com o consequente retorno dele à vida civil, não gera os efeitos pretendidos pela impetração. Conforme já decidiu esta CORTE, em caso análogo, a condição de militar deve ser aferida no momento em que o delito é cometido, sendo irrelevante, para fins de fixação da competência da Justiça Militar, a posterior exclusão do agente do serviço ativo das Forças Armadas. Precedente:
+    “o fato de o paciente não mais integrar as Forças Armadas não tem qualquer relevância sobre o prosseguimento da ação penal pelo delito tipicamente militar de abandono do posto, visto que ele, no tempo do crime, era soldado da ativa. Com efeito, essa pretensão, se levada a cabo, acarretaria uma nova modalidade, não prevista em lei, de extinção de punibilidade pela prática de crime tipicamente próprio pela perda superveniente da condição de militar, o que não é aceitável.” (HC 130793, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, DJe de 11-10-2016).
+    Na mesma linha de consideração: HC 127.900, Relator(a): Min. DIAS TOFFOLI, DJe de 3/8/2016; HC 134108, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, j. 31/05/2016.
+    Assim, por encontrar amparo na orientação desta CORTE, não há constrangimento ilegal a ser sanado.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 26 de setembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
