@@ -1,0 +1,31 @@
+Decisão: Após o julgamento pela Segunda Turma, na sessão virtual de 21 a 27.6.2019, do recurso em epígrafe (eDOC 19, p. 1-6), o ora agravante, por meio da Petição 44.370, de 4.8.2019 (eDOC 20, p. 1), expõe e, ao final, formula o seguinte pedido:
+    “Robson Luiz de Paschoal, devidamente qualificado nos autos, vem respeitosamente à presença de Vossa Excelência, por seu Advogado que esta subscreve, requerer o reconhecimento da prescrição nestes autos, expondo e requerendo o que adiante segue.
+    O Recorrente foi processado por estelionato supostamente ocorrido no dia 16/11/2009.
+    A denúncia foi recebida em 07/06/2013.
+    Em 16/10/2014, foi condenado às penas de 01 (um) ano e 04 (quatro) meses de reclusão, no regime inicial semiaberto, bem como ao pagamento de 13 (treze) dias-multa, no mínimo legal a unidade, por infração ao artigo 171, caput, do Código Penal, substituindo-se a reprimenda corporal por duas penas restritivas de direitos consistentes em prestação de serviços à comunidade.
+    Na data de 19/09/2016, ao serem julgados os apelos ministerial e defensivo, a r. sentença restou mantida pelo E. Tribunal de Justiça.
+    Nos termos do artigo 109, V, do Estatuto Repressivo prescreve ‘ em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois’. (g.n.)
+    Observa-se, no caso em tela, a ocorrência da prescrição, vez que decorreu prazo superior a 04 anos entre a data do suposto fato (2009) e o recebimento da denúncia (07/06/2013), bem como entre a prolação da r. sentença (16/10/2014) e a presente data (02/08/2019).
+    Diante do exposto, com base na legislação, doutrina e jurisprudência sobre a matéria, requer seja declarada extinta a punibilidade do Recorrente, nos termos do artigo 109, inciso V; 111, I; 107, IV (1° figura), todos do Código Penal.” (eDOC 20, p. 1)
+    Instado a se manifestar (eDOC 23, p. 1), o MPF opinou “pelo indeferimento do pleito de reconhecimento da prescrição e opina ainda pela imediata baixa dos autos à origem” (eDOC 24, p. 1-3; grifos originais).
+    Por sua vez, o MP/SP, ao se manifestar (eDOC 27, p. 1-6), requereu o seguinte:
+    “Diante do exposto e considerando que, ainda que se leve em consideração a data da publicação da sentença condenatória como último marco interruptivo da prescrição, não houve decurso do prazo prescricional até a data em que se projeta a formação da coisa julgada (13.10.2017), aguarda-se o indeferimento do pleito de declaração da extinção da punibilidade, bem como a determinação de baixa do processo à origem, para fins de imediata execução das penas, independentemente da interposição de outros recursos.” (eDOC 27, p. 5-6)
+    É o breve relatório.
+    Decido.
+    A presente pretensão de reconhecimento da prescrição não merece prosperar, sobretudo diante da jurisprudência desta Corte, como bem assinalaram os Representantes do MPF e do MP/SP (eDOCs 24 e 27).
+    Assim, porque acertado e ajustado à jurisprudência do STF, destaco da manifestação do MPF:
+    “De fato, o prazo prescricional é o de 4 anos, pela pena aplicada de 1 ano e 4 meses, sendo que anterior à Lei 12.234/2010 os fatos, aqui não incide a vedação do § 1º do art. 110 do CP ao reconhecimento da prescrição, aplicada pena, entre os fatos e o recebimento da inicial.
+    No entanto, o que a defesa não leva em conta é que o fato ocorreu em 16/11/2009 e não em ‘2009’. Assim, entre os fatos e o recebimento da inicial em 07/06/2013 não se passaram 4 anos. E do recebimento da inicial à publicação da sentença em cartório em 16/10/2014, igualmente não se passaram 4 anos.
+    Da sentença, aparentemente se passaram 4 anos até os dias de hoje; no entanto, o que a defesa também não leva em conta é que, inadmitidos o RE e o RESP na origem e não providos os subsequentes ARE e ARESP, em torno de 11/04/2017 – fim do prazo a RE/RESP na origem (f. 437) - ocorreu o trânsito em julgado retroativo da condenação, antes, portanto, do implemento da prescrição contada da sentença.
+    Com acerto, a tese predominante no STF desde o julgamento do HC 86.125/SP, rel. a Min. Ellen Gracie, é que ‘recursos especial e extraordinário indeferidos na origem, porque inadmissíveis, em decisões mantidas pelo STF e pelo STJ, não têm o condão de empecer a formação da coisa julgada’. Nesse julgado, a i. Relatora registrou que ‘(...) o trânsito em julgado da condenação é marco divisório de duas espécies de prescrição. Com o trânsito em julgado, termina a fase da pretensão punitiva e tem início a fase da prescrição executória. Mas o condenado pode, sim, impedir e obstar a formação da coisa julgada. Basta interpor recursos especial e extraordinário. Indeferidos, porque inadmissíveis, pode o condenado lançar mão dos agravos de instrumento. E até mesmo dos agravos regimentais, caso tenham o seguimento negado. Pode, ainda, manejar embargos de declaração. Porém, não pode ser olvidado que o recurso capaz de impedir a coisa julgada é o recurso admissível. E, se o Supremo Tribunal Federal e o Superior Tribunal de Justiça reconhecem a inadmissibilidade, confirmando o que decidido no juízo de admissibilidade, os efeitos desse reconhecimento retroagem’.
+    Tanto a 1ª como a 2ª Turma do STF continuam a aplicar, sem ressalvas, o entendimento consagrado há mais de década neste e. STF, quando do julgamento do HC 86.125/SP, sobre a formação da coisa julgada penal retroativa.
+    Assim, não ha se falar aqui em prescrição. Tem o Estado até 04/2021 para executar a pena aqui aplicada: 4 anos, a contar da formação retroativa da coisa julgada.
+    E há se ver que por duas vezes este e. STF já negou seguimento à pretensão recursal da defesa, pelo que eventuais novos recursos seriam protelatórios, o que autoriza imediata baixa dos autos, conforme precedentes dessa e. Corte Suprema.
+    Pelo exposto, o Ministério Público Federal opina pelo indeferimento do pleito de reconhecimento da prescrição e opina ainda pela imediata baixa dos autos à origem.” (eDOC 24, p. 1-3)
+    Do exposto, indefiro o presente pedido de reconhecimento da prescrição.
+    Certifique a Secretaria/STF o trânsito em julgado do acórdão objeto do eDOC 19, p. 1-6, diante da inexistência de recurso. Baixem os autos.
+    Publique-se.
+    Brasília, 26 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
