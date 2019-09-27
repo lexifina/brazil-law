@@ -5,3 +5,5 @@ III - 48% (quarenta e oito por cento), divididos entre os partidos, na proporç�
 IV - 15% (quinze por cento), divididos entre os partidos, na proporção do número de representantes no Senado Federal, consideradas as legendas dos titulares.
 § 1º (VETADO).
 § 2º Para que o candidato tenha acesso aos recursos do Fundo a que se refere este artigo, deverá fazer requerimento por escrito ao órgão partidário respectivo.
+§ 3º Para fins do disposto no inciso III do caput deste artigo, a distribuição dos recursos entre os partidos terá por base o número de representantes eleitos para a Câmara dos Deputados na última eleição geral, ressalvados os casos dos detentores de mandato que migraram em razão de o partido pelo qual foram eleitos não ter cumprido os requisitos previstos no § 3º do art. 17 da Constituição Federal.
+§ 4º Para fins do disposto no inciso IV do caput deste artigo, a distribuição dos recursos entre os partidos terá por base o número de representantes eleitos para o Senado Federal na última eleição geral, bem como os Senadores filiados ao partido que, na data da última eleição geral, encontravam-se no 1º (primeiro) quadriênio de seus mandatos.
