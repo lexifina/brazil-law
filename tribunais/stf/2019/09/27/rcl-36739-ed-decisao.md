@@ -1,0 +1,27 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO SINGULAR. RECLAMAÇÃO CONSTITUCIONAL. ATO JUDICIAL JÁ ACOBERTADO PELA COISA JULGADA. ART. 988, 5º, I, DO CPC/2015. SÚMULA 734/STF. NÃO CABIMENTO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. NÃO OCORRÊNCIA. CARÁTER MERAMENTE INFRINGENTE. EMBARGOS REJEITADOS.
+ 1. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+3. Ausência de vício justificador da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+4. Embargos de declaração rejeitados.
+    Vistos etc.
+    1. Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento à reclamação constitucional, à luz da Súmula 734/STF, do seguinte teor: “não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    2. O embargante aduz ocorrência de omissão, obscuridade, contradição e erro material no julgado, ao articular não ocorrido o trânsito em julgado certificado pela pela origem. Requer a concessão de efeitos infringentes.
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    2. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    3. Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios.
+    4. De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    5. Observo didaticamente registrada, no decisum embargado, a ocorrência do trânsito em julgado da decisão reclamada, a inviabilizar a possibilidade de conhecimento da reclamação, verbis:
+    “1. Consoante consta do andamento processual no sítio eletrônico do Superior Tribunal de Justiça, a decisão reclamada transitou em julgado em 27.8.2019.
+    2. Uma vez que a presente reclamação constitucional só foi protocolada em 06.9.2019, a pretensão nela deduzida encontra óbice no art. 988, 5º, I, do CPC/2015, segundo o qual é inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada; e na Súmula 734/STF, cujo teor é o seguinte: não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    6. Com o fito de exaurir o debate, rememoro que a Corte de origem, em sede de agravo interno, manteve a decisão que não admitiu o apelo extremo com fundamento no art. 1.030, I, "a", do CPC, haja vista harmônica a controvérsia com precedente paradigmático da repercussão geral. Os aclaratórios conseguintes foram rejeitados mediante acórdão publicado em 16.8.2019 e a certificação do trânsito em julgado pela Corte de origem se deu em 27.8.2019.
+    7. Com efeito, a Primeira Turma desse Supremo Tribunal Federal já apontou os embargos de declaração como o único recurso cabível contra acórdão pelo qual julgado o agravo interno e mantido o juízo negativo de admissibilidade do recurso extraordinário em razão da aplicação da repercussão geral. Nesse sentido: RCL 34.864, Rel. Min. Roberto Barroso, Dje 10.11.2016.
+    8. Nesse contexto, considerando o prazo para oposição de aclaratórios, única modalidade recursal cabível na hipótese para questionar a decisão colegiada que manteve a aplicação da sistemática da repercussão geral na origem, assinalei, na decisão embargada, que a reclamação foi proposta em 6.9.2019, após a certificação de trânsito em julgado pela Corte de origem (27.8.2019).
+    9. Torno, pois, a enfatizar inelutável o óbice no art. 988, 5º, I, do CPC/2015, segundo o qual é inadmissível a reclamação ajuizada após o trânsito em julgado da decisão reclamada, pelo que não há falar em qualquer vício apto a embargos de declaração na decisão embargada.
+    10. Pontuo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    11. Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministra Rosa Weber
+Relatora
