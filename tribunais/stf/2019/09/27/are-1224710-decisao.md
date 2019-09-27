@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PREVIDENCIÁRIO. RETORNO A ATIVIDADE POR APOSENTADO. EXIGIBILIDADE DE CONTRIBUIÇÃO PARA A SEGURIDADE SOCIAL. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Turma Recursal da Seção Judiciária do Espírito Santo, que manteve sentença pela qual se
+     “julgou improcedente a demanda sob o fundamento de que o aposentado que continua exercendo atividade abrangida pelo Regime de Previdência Social é segurado obrigatório em relação a essa atividade, ficando obrigado a recolher as contribuições devidas, recorreu a parte autora alegando que não há justificativa para o recolhimento de contribuição sobre a remuneração recebida pelos aposentados que voltam a trabalhar” (fl. 149, vol. 1).
+    2. No recurso extraordinário, alega-se ter a Turma Recursal de origem contrariado os incs. XXXVI e XXXV do art. 5º, o parágrafo único do inc. IV do art. 194, o § 4º do art. 201 da Constituição da República ao argumento de ser inexigível a contribuição previdenciária do aposentado que retorna à atividade.
+    3. O recurso extraordinário foi inadmitido por ausência de ofensa constitucional direta e por estar o julgado recorrido em harmonia com a jurisprudência deste Supremo Tribunal (fl. 21, vol. 2).
+    O agravante sustenta haver afronta direta à Constituição da República e dever ser a controvérsia constitucional apreciada pelo Supremo Tribunal Federal (fl. 21, vol. 2).
+    Requer “o recebimento e o regular processamento do presente agravo, para, cumpridas as formalidades legais, ao mesmo ser dado provimento, para fins de ser cassado o r. despacho ora atacado, e admitido o apelo extremo interposto, a fim de que os autos, juntamente com o recurso extraordinário, subam para apreciação do E. STF, como medida da mais lídima justiça” (fl. 25, vol. 2).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Cumpre afastar o fundamento da decisão agravada por se tratar de matéria constitucional decidida por este Supremo Tribunal.
+    A superação desse fundamento, entretanto, é insuficiente para o provimento da pretensão do agravante.
+    5. Na espécie a Turma Recursal de origem decidiu que “a questão está pacificada no sentido de que, segundo o art. 12, §4º da Lei 8.212/91, o aposentado que continua exercendo atividades laborativas é segurado obrigatório da previdência social, decorrendo de expressa previsão legal a cobrança do tributo” (fl. 150, vol. 1).
+    Esse entendimento harmoniza-se com a jurisprudência do Supremo Tribunal Federal “de que é constitucional a cobrança de contribuição previdenciária sobre o salário do aposentado que retorna à atividade” (RE n. 430.418-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 6.5.2014). Assim, por exemplo:
+    “RECURSO EXTRAORDINÁRIO – EXIGIBILIDADE DA CONTRIBUIÇÃO PREVIDENCIÁRIA DO TRABALHADOR APOSENTADO QUE RETORNA À ATIVIDADE (LEI Nº 8.212/91, ART. 12, § 4º, NA REDAÇÃO DADA PELA LEI Nº 9.032/95) – CONSTITUCIONALIDADE – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – AGRAVO INTERNO IMPROVIDO” (RE n. 447.923-AgR-segundo, Relator o Ministro Celso de Mello, Segunda Turma, DJe 12.6.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. RETORNO DE APOSENTADO À ATIVIDADE. EXIGIBILIDADE DE CONTRIBUIÇÃO PREVIDENCIÁRIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 357.892-AgR, de minha relatoria, Primeira Turma, DJe 24.3.2011).
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição previdenciária. Aposentado que permanece ou retorna à atividade. Constitucionalidade. Precedentes. 1. A jurisprudência da Corte está consolidada no sentido da validade da exigibilidade da contribuição previdenciária dos aposentados que permaneçam em atividade ou a essa retornem. 2. Agravo regimental não provido ” (RE n. 640.215-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 4.9.2017).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento ao presente recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
