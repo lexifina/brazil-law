@@ -1,0 +1,2 @@
+Altera as Leis nos 9.096, de 19 de setembro de 1995, 9.504, de 30 setembro de 1997, 4.737, de 15 de julho de 1965 (Código Eleitoral), 13.831, de 17 de maio de 2019, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre regras aplicadas às eleições; revoga dispositivo da Lei nº 13.488, de 6 de outubro de 2017; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
