@@ -1,6 +1,6 @@
 Art. 16-C. O Fundo Especial de Financiamento de Campanha (FEFC) é constituído por dotações orçamentárias da União em ano eleitoral, em valor ao menos equivalente:
 I - ao definido pelo Tribunal Superior Eleitoral, a cada eleição, com base nos parâmetros definidos em lei;
-II - a 30% (trinta por cento) dos recursos da reserva específica de que trata o inciso II do § 3º do art. 12 da Lei nº 13.473, de 8 de agosto de 2017.
+II - ao percentual do montante total dos recursos da reserva específica a programações decorrentes de emendas de bancada estadual impositiva, que será encaminhado no projeto de lei orçamentária anual.
 § 1º (VETADO).
 § 2º O Tesouro Nacional depositará os recursos no Banco do Brasil, em conta especial à disposição do Tribunal Superior Eleitoral, até o primeiro dia útil do mês de junho do ano do pleito.
 § 3º Nos quinze dias subsequentes ao depósito, o Tribunal Superior Eleitoral:
@@ -18,3 +18,4 @@ II - (VETADO).
 § 13. (VETADO).
 § 14. (VETADO).
 § 15. O percentual dos recursos a que se refere o inciso II do caput deste artigo poderá ser reduzido mediante compensação decorrente do remanejamento, se existirem, de dotações em excesso destinadas ao Poder Legislativo.
+§ 16. Os partidos podem comunicar ao Tribunal Superior Eleitoral até o 1º (primeiro) dia útil do mês de junho a renúncia ao FEFC, vedada a redistribuição desses recursos aos demais partidos.
