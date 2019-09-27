@@ -1,0 +1,16 @@
+DECISÃO
+    Trata-se de Tutela Provisória que antecede Recurso Ordinário em Mandado de Segurança, ajuizada por Sóstenes Arruda de Macedo.
+    A parte requerente alega que a presente TPA se insurge contra decisão, de 20/09/2019, que revogou medida liminar, datada de 12/07/2018, da lavra da então Senhora Presidente do STJ em Mandado de Segurança Preventivo, a qual determinou à Autoridade Coatora se abster de punir o ora Requerente, Sacerdote e Diplomata há 25 anos, sem antecedentes funcionais, com 34 (trinta e quatro) dias de suspensão, em sede de Processo Administrativo Disciplinar eivado de vícios e nulidades absolutas, mormente o de violação à ampla defesa e ao contraditório. (doc. 1, fl. 2). Informa que responde, adicionalmente, a dois outros processos disciplinares flagrantemente abusivos e assediadores, sendo o último de rito sumário por alegado abando de cargo não configurado. Em razão deste último PAD, o MRE vem retendo, integralmente, com dolos (portanto, crime - art. 7°, X, CF) o seu salário há quatro (4) meses, o qual constitui única fonte de renda para subsistência sua e de seus dependentes (mãe idosa, de 92 anos, e adolescente sob guarda) (doc. 1, fl. 3). Sustenta que o Juízo do Superior Tribunal de Justiça foi flagrantemente induzido ao erro de revogar a liminar que ordenou o Requerido a se abster de punir o Requerente em sede de Processo Administrativo Disciplinar, por evidente violação ao direito constitucionalmente tutelado à ampla defesa e ao contraditório. Revogação essa, cuja fundamentação reproduz longos excertos dos subsídios do MRE, acostados às informações prestadas pela Autoridade Coatora. (fl. 5).
+    Requer a concessão dos benefícios da justiça gratuita e, ao final, a suspensão, inaudita altera pars, da decisão confrontada para restaurar os termos da antecipação de tutela deferida, em 12/07/2018, até o trânsito em julgado (doc. 1, fl. 13).
+    É o relatório. Decido.
+    DEFIRO a gratuidade de Justiça, pois não há elementos que possam afastar a presunção de insuficiência de recursos de que trata o § 3º do art. 99 do CPC/2015.
+    O cabimento da Tutela Provisória é prevista no art. 299, Parágrafo Único, do Código de processo Civil, in verbis:
+    Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+    Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito.
+    Na presente hipótese, o pedido é manifestamente incabível, uma vez que a matéria está sob a apreciação do Superior Tribunal de Justiça, conforme afirma o próprio impetrante. Após a revogação da medida liminar no Mandado de Segurança 24.461 (doc. 9), a competência recursal contra tal decisão pertence ao próprio Superior Tribunal de Justiça. Logo, não se instaura a competência dessa SUPREMA CORTE em sede de Tutela Provisória Antecipada.
+    Diante do exposto, com fundamento no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO à Tutela Provisória Antecedente.
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
