@@ -1,0 +1,19 @@
+Trata-se de agravo interposto contra decisão por meio da qual foi negado seguimento ao recurso extraordinário, tendo em vista a ausência de ofensa direta ao texto constitucional e a incidência da Súmula 279 do Supremo Tribunal Federal no caso dos autos.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada referente à ausência de ofensa direta à Constituição Federal, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Razões do agravo que não atacam todos os fundamentos da decisão agravada. Inadmissibilidade. Súmula nº 287 desta Corte.
+    1. Inviável o recurso que não ataca os fundamentos da decisão agravada. Incidência da Súmula nº 287 desta Corte.
+    2. Agravo regimental não provido” (ARE 639.283-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma – grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL.
+    1. Ausência de impugnação dos fundamentos da decisão de inadmissibilidade do recurso extraordinário. Súmula n. 287 do Supremo Tribunal Federal.
+    2. Ausência da preliminar formal de repercussão geral: inviabilidade da análise do recurso extraordinário.
+    3. Não ocorrência da prescrição. Novo marco interruptivo decorrente de acórdão de segunda instância que majora a pena, com repercussão no cálculo prescricional. Precedentes.
+    4. Agravo regimental ao qual se nega provimento” (ARE 760.280-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    Ademais, consoante assinalado na decisão agravada, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 12 DA LEI 6.368/1976. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LVII, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. AUTORIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. DOSIMETRIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. HIPÓTESE DA ALÍNEA B DO PERMISSIVO CONSTITUCIONAL. INADMISSIBILIDADE. AGRAVO INTERNO DESPROVIDO” (ARE 1.212.617-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: Agravo regimental em recurso extraordinário com agravo. 2. Tráfico de drogas (artigo 33, caput, da Lei 11.343/2006). 3. Recurso extraordinário com deficiência na fundamentação. Súmula 284/STF. 4. Autoria e materialidade. Revolvimento do acervo fático-probatório. Impossibilidade. Incidência da Súmula 279 desta Corte. 5. Sentença condenatória. Ausência de intimação pessoal. Tratando-se de réu solto, é suficiente a intimação de seu advogado. Precedentes. 6. Suposta violação ao devido processo legal. O Supremo Tribunal Federal, ao apreciar a questão no julgamento do ARE-RG 748.371 (tema 660), rejeitou a repercussão geral da questão, tendo em vista a natureza infraconstitucional da matéria quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental desprovido” (ARE 1.146.403-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
