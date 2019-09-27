@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime previsto no artigo 306 do Código de Trânsito Brasileiro. No extraordinário cujo processamento busca alcançar, o recorrente aponta a violação dos artigos 14 e 15, inciso III, da Constituição Federal. Sustenta a inviabilidade da suspensão de direitos políticos, considerada a condenação a penas restritivas de direitos e afirma contrariados os princípios da individualização da pena e da legalidade.
+    2. Eis a síntese do pronunciamento recorrido:
+    APELAÇÃO CRIMINAL - EMBRIAGUEZ AO VOLANTE (ARTIGO 306 DO CTB) - ABSOLVIÇÃO POR AUSÊNCIA DE MATERIALIDADE - TESTE ALCOOLEMIA REALIZADO POR APARELHO SEM A DEVIDA VERIFICAÇÃO PERIODICA EXIGIDA PELO CONTRAM - IMPOSSIBILIDADE - DESNECESSIDADE DA EXISTÊNCIA DE PROVA TÉCNICA - CONDENAÇÃO MANTIDA - JUSTIÇA GRATUITA - SOBRESTAMENTO DO PAGAMENTO DAS CUSTAS PROCESSUAIS. Após a alteração do artigo 306 do CTB, trazida pela Lei 12.760 de 2012, ainda que inexistente a prova técnica (exame de sangue ou teste em aparelho de ar alveolar pulmonar - etilômetro/bafômetro), segundo o §2º do referido artigo, a conduta do acusado poderá ser constatada por meio de teste de alcoolemia, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova. Impossível a absolvição do réu se comprovada a sua culpabilidade por meio da prova testemunhal, no sentido que ele conduzia veículo automotor após a ingestão de bebida alcoólica, mormente diante da sua confissão. Para a concessão do beneficio da assistência judiciária basta que a parte firme a declaração de próprio punho ou através de advogado, devendo, assim, ser sobrestado o pagamento das custas pelo quinquídio legal (art. 98, § 3º, do Novo Código de Processo Civil).
+    Colho, ainda, trecho da sentença expressamente mantida nesse aspecto:
+    Após o trânsito em julgado, expeça-se Guia de Execução, comunique-se ao T.R.E. a suspensão dos direitos políticos. Oficie-se ao DETRAN e CONTRAN, comunicando a suspensão da habilitação.
+    A decisão impugnada revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, o acórdão atacado está em consonância com o entendimento firmado pelo Plenário do Supremo, sob a sistemática da repercussão geral – Tema nº 370 –, no julgamento do recurso extraordinário nº 601.182, de minha relatoria, redator para o acórdão o ministro Alexandre de Moraes.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 27 de setembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
