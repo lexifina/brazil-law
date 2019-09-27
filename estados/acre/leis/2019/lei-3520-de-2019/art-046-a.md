@@ -1,0 +1,3 @@
+Art. 46–A. Para fins de operacionalização da Desvinculação de Receitas do Estado - DRE, prevista no art. 76-A, do Ato das Disposições Constitucionais Transitórias da Constituição Federal, com redação dada pela Emenda Constitucional nº 93, de 8 de setembro de 2016, fica criada a Fonte 600 - Recursos Ordinários. (Incluído pela Lei nº 3.635, de 04/06/2020)
+
+Parágrafo único. O governador do Estado, regulamentará o disposto no caput através de decreto, observados os procedimentos e os limites previstos, respectivamente, na Lei Orçamentária AnualLOA e na Constituição Federal-CF. (Incluído pela Lei nº 3.635, de 04/06/2020)
