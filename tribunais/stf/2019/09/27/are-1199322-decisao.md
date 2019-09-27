@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, p. 124):
+    “PREVIDENCIÁRIO. EMBARGOS A EXECUÇÃO. AMPARO SOCIAL E PENSÃO POR MORTE. CUMULAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE COMPENSAÇÃO.
+    - In casu, a parte autora. após o termo inicial da pensão por morte, no período de 02/02/2001 a 28/02/2009. recebeu beneficio de amparo social (NB 120.763.955-6).
+    - Nos termos do artigo 20. 11, § 4º da Lei nº 8.742/93. é vedado o recebimento conjunto do amparo social e qualquer outro no âmbito da seguridade social ou de outro regime.
+    - Os Benefícios de Prestação Continuada (BPC) são geridos pelo Ministério do Desenvolvimento Social e Combate à Fome (MDS) a quem compete sua gestão, acompanhamento e avaliação - e operacionalizados pelo Instituto Nacional do Seguro Social (INSS). Os recursos para custeio dos BPC provêm do Fundo Nacional de Assistência Social (FNAS) e. naturalmente. não são considerados na contabilidade do Regime Geral de Previdência Social (RGPS).
+    - O fato do INSS apenas operacionalizar o beneficio assistencial não autoriza a parte autora a receber o amparo social juntamente com a pensão por morte. sob pena de ofensa à lei de regência (§ 4~ do artigo 20. da Lei na 8.742/93). Nesse sentido: TRF 3° Região, OITAVA TURMA. AC 0000201-87.2007.4.03.6123, ReI. JUIZA CONVOCADA RAQUEL PERRINI. julgado em 17/06/2013, e-DJF3 Judicial 1 DATA:28/06/2013.
+    - Assim, devem ser acolhidos os cálculos do embargante, ante a necessidade de compensação das parcelas pagas administrativamente em período concomitante, sob pena de efetuar-se pagamento em duplicidade à exeqüente, que acarretaria seu enriquecimento ilícito. Ao contrário do considerado pelo Juízo a quo, o caso é de compensação de parcelas já pagas, com vistas a evitar o enriquecimento sem causa, não havendo que se falar em ocorrência de prescrição, porquanto não se trata de ação de cobrança.
+    - Apelação provida.”
+    Os dois embargos de declaração que se seguiram foram parcialmente providos “para determinar o refazimento dos cálculos de liquidação, exclusivamente no que se refere aos honorários advocatícios, em observância às disposições previstas no título executivo, sem o desconto, da base de cálculo respectiva, dos valores pagos administrativamente ao segurado.”(eDOC 1, p. 146).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV e XXXVI, da Carta da República.
+    Busca a nulidade do acórdão recorrido em virtude da ausência de prestação jurisdicional e sustenta a impossibilidade de compensação de valores entre créditos e débitos existentes entre o INSS e seus segurados, quando tal providência não constar expressamente do titulo judicial.
+    Subsidiariamente, requer seja reconhecida aplicabilidade do instituto da prescrição quinquenal ao caso.
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso sob o fundamento da ausência de ofensa direta à Constituição Federal (eDOC 1, p. 184).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Da análise das razões do acórdão impugnado depreende-se que o Colegiado de origem julgou a controvérsia à luz da legislação de regência da matéria. Desse modo, a controvérsia referente à possibilidade de compensação, bem como a aplicação da prescrição revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Ademais, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .
+    Por fim, no que diz respeito à ofensa ao art. 5º, XXXVI, da Constituição, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República, como no caso dos autos.
+    Ante o exposto, nego seguimento ao recurso, nos termos dos arts. 932, IV, b , do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
