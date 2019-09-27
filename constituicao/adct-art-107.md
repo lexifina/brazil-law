@@ -16,6 +16,7 @@ I - transferências constitucionais estabelecidas no § 1º do art. 20, no incis
 II - créditos extraordinários a que se refere o § 3º do art. 167 da Constituição Federal;
 III - despesas não recorrentes da Justiça Eleitoral com a realização de eleições; e
 IV - despesas com aumento de capital de empresas estatais não dependentes.
+V - transferências a Estados, Distrito Federal e Municípios de parte dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.276, de 30 de junho de 2010, e a despesa decorrente da revisão do contrato de cessão onerosa de que trata a mesma Lei.
 § 7º Nos três primeiros exercícios financeiros da vigência do Novo Regime Fiscal, o Poder Executivo poderá compensar com redução equivalente na sua despesa primária, consoante os valores estabelecidos no projeto de lei orçamentária encaminhado pelo Poder Executivo no respectivo exercício, o excesso de despesas primárias em relação aos limites de que tratam os incisos II a V do caput deste artigo.
 § 8º A compensação de que trata o § 7º deste artigo não excederá a 0,25% (vinte e cinco centésimos por cento) do limite do Poder Executivo.
 § 9º Respeitado o somatório em cada um dos incisos de II a IV do caput deste artigo, a lei de diretrizes orçamentárias poderá dispor sobre a compensação entre os limites individualizados dos órgãos elencados em cada inciso.
