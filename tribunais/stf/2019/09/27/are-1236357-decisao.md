@@ -1,0 +1,26 @@
+Decisão: A Quarta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo negou provimento à apelação interposta pelo ora recorrente e deu provimento à apelação do MP/SP (eDOC 8, p. 49-55; eDOC 9, p. 1-5), mediante acórdão assim ementado:
+     “APELAÇÃO CRIMINAL - TRÁFICO - CULTIVO DE 174 (CENTO E SETENTA E QUATRO) PÉS DE MACONHA EM RESIDÊNCIA - PRELIMINAR DE NULIDADE, ABSOLVIÇÃO, DESCLASSIFICAÇÃO DA CONDUTA, ABRANDAMENTO DA PENA E DO REGIME - IMPOSSIBILIDADE - PRELIMINAR REJEITADA - A VERSÃO DE QUE TODA A MACONHA ERA DESTINADA AO CONSUMO PRÓPRIO OU FINS MEDICINAIS NÃO RESTOU COMPROVADA, FOI RECHAÇADA PELO RESTANTE DO CONJUNTO PROBATÓRIO - CONDENAÇÃO POR TRÁFICO BEM LANÇADA - DESCLASSIFICAÇÃO IMPOSSÍVEL - PROVIMENTO AO RECLAMO MINISTERIAL PARA ELEVAR A PENA -BASE E AFASTAR A INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO - A DEDICAÇÃO À ATIVIDADE CRIMINOSA RESTOU DEMONSTRADA - REGIME FECHADO JUSTIFICADO - PRELIMINAR REJEITADA, RECURSO DA DEFESA DESPROVIDO E PROVIMENTO AO RECURSO DO MINISTÉRIO PÚBLICO PARA ELEVAR A PENA, MANTENDO-SE NO MAIS A R. SENTENÇA, COM EXPEDIÇÃO DE MANDADO DE PRISÃO, ESGOTADAS AS IMPUGNAÇÕES ORDINÁRIAS NESTA CORTE DE JUSTIÇA.” (eDOC 8, p. 50)
+    Daí o recurso extraordinário (eDOC 9, p. 57-73), fundado no art. 102, III, “a”, da Constituição Federal, no qual alega “contrariedade ao que dispõe os art. 5°, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal”, bem como seria “Patente, ainda, a violação ao art. 33, § 2°. Do Código Penal e súmulas 718 e 719 do STF” (eDOC 9, p. 58-59). Ressaltou-se, também, a repercussão geral das questões constitucionais discutidas no caso.
+    O ora recorrente também interpôs recurso especial (eDOC 9, p. 15-55).
+    O Presidente da Seção de Direito Criminal do TJ/SP não admitiu os recursos especial e extraordinário (eDOC 11, p. 5-9).
+    Houve, então, a interposição do presente ARE (eDOC 11, p. 25-30) e do AREsp (eDOC 11, p. 12-23).
+    O Presidente do STJ, ao julgar o AREsp 1.459.532/SP (eDOC 12, p. 11-12), não conheceu do recurso. Após, a Sexta Turma negou provimento ao agravo regimental interposto pelo ora recorrente, mediante acórdão (eDOC 12, p. 59-63) transitado em julgado aos 23.9.2019 (certidão; eDOC 12, p. 68).
+    É o relatório.
+    Decido.
+    A presente irresignação recursal não merece prosperar.
+    Inicialmente, assevere-se que “alegação de ofensa a dispositivo infraconstitucional não dá ensejo ao cabimento do recurso extraordinário” (ARE 830.040 AgR/ES, Rel. Min. Luiz Fux, Primeira Turma, DJe 11.4.2013).
+    Aliás, sobre essa questão, acertadamente está consignado na decisão ora agravada o seguinte:
+    “Não estão presentes os requisitos de admissibilidade necessários ao seguimento do inconformismo.
+    Com efeito, não foi atendido o pressuposto objetivo da adequação, porquanto se pretende discutir também suposta ofensa a preceito infraconstitucional. Nesse passo, o julgado no ARE 864.956 AgR/PR pelo Excelso Supremo Tribunal Federal: ‘RECURSO EXTRAORDINÁRIO MATÉRIA LEGAL INADEQUAÇÃO. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, descabendo a interpretação de normas estritamente legais. (...)’ (eDOC 11, p. 8)
+    Ademais, a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento”. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
