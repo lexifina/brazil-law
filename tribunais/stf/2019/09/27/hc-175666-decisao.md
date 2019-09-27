@@ -1,0 +1,26 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Daniel Perpetuo Macedo em favor de Davi Gonçales, contra decisão monocrática da lavra do Ministro Joel Ilan Paciornik, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 532.231/SP.
+    O paciente foi condenado à pena de 11 (onze) anos e 02 (dois) meses de reclusão, em regime inicial fechado, pela prática dos crimes de organização criminosa e de corrupção ativa (arts. 2º, § 2º e 4º, II, c/c 1º, § 1º, da Lei 12.850/2013, e 333 do Código Penal). Em 21.01.2019, no curso da execução penal, o magistrado de primeiro grau, forte no art. 112 da Lei de Execuções Penais, deferiu o pedido de progressão para o regime intermediário.
+    Posteriormente, o Tribunal de Justiça do Estado de São Paulo, nos autos do HC 2187637-02.2019.8.26.0000, deferiu ‘em parte a liminar, a fim de determinar que, a teor do disposto no art. 7º, inciso V, da Lei 8.906/1994, durante a sua permanência no regime semiaberto, e enquanto na condição de preso provisório, o paciente seja alojado em acomodações condignas com o seu grau, dotadas de conforto mínimo e instalações sanitárias adequadas, separado do convívio com a população carcerária comum, ou seja, dos demais presos do regime semiaberto que não fazem jus ao benefício previsto pelo referido dispositivo legal, fixando-se o prazo de dez dias para que a Secretaria da Administração Penitenciária adote as medidas destinadas ao cumprimento da presente decisão, pena de adoção das medidas destinadas à apuração de eventual desvio/excesso de execução’.
+    Irresignada, a Defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Joel Ilan Paciornik, indeferiu liminarmente o HC 532.231/SP.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Defende a transferência do paciente do estabelecimento prisional para Sala de Estado Maior adequada ao regime intermediário, ou, na sua falta, para a prisão domiciliar, nos termos do art. 7º, V, da Lei 8.906/1994. Requer, em medida liminar e no mérito, a concessão de prisão domiciliar em favor do paciente e, sucessivamente, a transferência para estabelecimento prisional que possua Sala de Estado Maior.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+    Nesse sentido, destaco os seguintes precedentes:
+    (…).
+    Na hipótese dos autos o presente mandamus impugna decisão de desembargador relator, que deferiu a liminar, contudo em amplitude menor que a pretendida pelo impetrante, razão pela qual deve ser aplicada por analogia a Súmula 691/STF.
+    Isso porque, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que a tutela de urgência foi deferida para determinar a inserção do paciente em instalações condignas, que observem a prerrogativa descrita no art. 7º, V, da Lei 8.906/1994, não havendo falar, portanto, em teratologia ou flagrante ilegalidade. Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+    Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus”.
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte para indeferir liminarmente a impetração. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual houvera indeferido liminar em habeas corpus impetrado naquela Corte Estadual.
+    Ao deferir o pedido liminar, o Tribunal de Justiça reservou a definição da matéria ao pronunciamento do colegiado.
+    Da decisão singular, a Defesa manejou habeas corpus originário no Superior Tribunal de Justiça e, ante a negativa de seguimento, impetrou novo writ, desta feita no Supremo Tribunal Federal. Constato, pois, não ter sido esgotada a jurisdição da Corte Superior, na medida em que o ato impugnado é decisão monocrática extintiva do writ, e não o resultado de julgamento colegiado.
+    Cumpriria à Defesa, pretendendo a reforma da decisão monocrática, ter aviado agravo regimental para que a questão fosse apreciada pelo órgão colegiado do STJ (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministra Rosa Weber
+Relatora
