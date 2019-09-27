@@ -1,5 +1,5 @@
 Art. 15. O Estatuto do partido deve conter, entre outras, normas sobre:
-I - nome, denominação abreviada e o estabelecimento da sede na Capital Federal;
+I - nome, denominação abreviada e o estabelecimento da sede no território nacional;
 II - filiação e desligamento de seus membros;
 III - direitos e deveres dos filiados;
 IV - modo como se organiza e administra, com a definição de sua estrutura geral e identificação, composição e competências dos órgãos partidários nos níveis municipal, estadual e nacional, duração dos mandatos e processo de eleição dos seus membros;
