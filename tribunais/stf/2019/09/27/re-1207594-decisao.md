@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDoc 1, p. 296):
+    “MANDADO DE SEGURANÇA. PIS-IMPORTAÇÃO E COFINS-IMPORTAÇÃO. AUTORIDADE IMPETRADA. DESPACHO ADUANEIRO. Não se concede, por ilegitimidade passiva, mandado de segurança contra exigências relativas às contribuições PIS-IMPORTAÇÃO e COFINS-IMPORTAÇÃO, inclusive repetição de valores recolhidos, quando eleita como impetrada autoridade diversa daquelas responsáveis pelo desembaraço aduaneiro das mercadorias importadas. ALÍQUOTA ADICIONAL DE COFINS-IMPORTAÇÃO. LEI 10.865, DE 2004, ART. 8º, § 21. DIREITO DE CRÉDITO ADICIONAL E EQUIVALENTE. DESCABIMENTO. A instituição de alíquota adicional de COFINS-importação (art. 8º, § 21, da Lei nº 10.865, de 2004) não confere ao contribuinte o direito de deduzir, no âmbito do regime não-cumulativo da COFINS, crédito adicional e equivalente.”
+    Controverte-se, no extraordinário, o aproveitamento integral do crédito dos valores despendidos a título de COFINS-Importação no desembaraço aduaneiro, recolhidos considerando as majorações de alíquota promovidas pelas Medidas Provisórias nº 540/2011 e nº 563/2012, as quais foram convertidas, nesta ordem, nas Leis Federais nº 12.546/2011 e nº 12.715/2012.
+    De plano, verifica-se a inclusão da controvérsia em exame na sistemática da repercussão geral, Tema 1047, cujo recurso paradigma é o RE 1178310 RG/PR, de relatoria do Min. Marco Aurélio, DJe 22.05.19. A ementa ficou assim redigida:
+    “COFINS – IMPORTAÇÃO – ALÍQUOTA ADICIONAL E VEDAÇÃO AO CREDITAMENTO INTEGRAL – RECURSO EXTRAORDINÁRIO – ADEQUAÇÃO – REPERCUSSÃO GERAL – CONFIGURAÇÃO. Possui repercussão geral controvérsia alusiva à constitucionalidade da majoração, em um ponto percentual, da alíquota da COFINS-Importação, introduzida pelo artigo 8º, § 21, da Lei nº 10.865/2004, com redação dada pela Lei nº 12.715/2012, e da vedação ao aproveitamento integral dos créditos oriundos do pagamento da exação, constante do § 1º-A do artigo 15 da Lei 10.865/2004, incluído pela Lei 13.137/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto nos arts. 1.036 e 1.040, II, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
