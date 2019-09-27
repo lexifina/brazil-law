@@ -1,0 +1,24 @@
+Decisão: Trata-se agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3º Região, assim ementado (eDOC 2, p. 262):
+    “AGRAVO LEGAL EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. RESOLUÇÃO 41/2001 DA CAMEX. DUMPING. AGRAVO IMPROVIDO.
+    1. A decisão agravada foi proferida em consonância com o entendimento jurisprudencial do C. STJ e desta E. Corte, com supedâneo no art. 557, do antigo CPC, inexistindo qualquer ilegalidade ou abuso de poder.
+    2. A Resolução CAMEX nº 41, de 19 de dezembro de 2001, resolveu encerrar a investigação de revisão do direito antidumping aplicado sobre as importações de alhos frescos ou refrigerados, classificados nos itens 0703.21.12 e 0703.20.90 da Nomenclatura Comum do Mercosul - NCM, originárias da República Popular da China - RPC, com a fixação da sobretaxa de US$0,48/kg.
+    3. A jurisprudência do C. STJ é pacífica quanto à legalidade e legitimidade das medidas antidumping adotadas pela Câmara de Comércio Exterior, inclusive em relação à higidez do processo administrativo.
+    4. O artigo 1º do Decreto nº 5.556, de 5 de outubro de 2005, autoriza a adoção de medidas de salvaguarda transitória, mesmo que a República Popular da China tenha sido oficialmente reconhecida pelo Brasil como membro da Organização Mundial de Comércio - OMC, pois tal fato não a caracteriza como economia de mercado.
+    5. Agravo improvido.”
+    Os embargos declaratórios foram desprovidos (eDOC 3, p. 18).
+    No recurso extraordinário, interposto com fundamento art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI, 146, III, 150, I, 170 e 174, da Constituição Federal.
+    Nas razões recursais, afirma que a fixação de alíquota por meio da Resolução 41/2001 da CAMEX não se compatibiliza com a legalidade tributária. Afirma, ainda, que ao ignorar a aplicabilidade do Tratado Internacional da Organização Mundial de Comércio, violou-se o direito adquirido ou a coisa julgada.
+    A Vice-Presidência do Tribunal local inadmitiu o recurso ante o caráter infraconstitucional da controvérsia (eDOC 3, p. 119).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente quanto à alegação de ofensa ao inciso XXXVI, do art. 5º, da Constituição Federal, verifico que, ao apreciar o ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    No mesmo sentido, da leitura do acórdão impugnado, verifica-se que o Tribunal a quo apreciou a matéria à luz das normas infraconstitucionais pertinentes (Resolução 41/01 da CAMEX e Decreto nº 5.556/05). Desse modo, a discussão referente à aplicação indevida da referida Resolução revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, confira-se com as ementas de ambas as Turmas do Supremo:
+    “LEGALIDADE DO PROCESSO DE INVESTIGAÇÃO DA PRÁTICA DE DUMPING SOBRE IMPORTAÇÃO DE ALHO FRESCO REFRIGERADO DE ORIGEM DA REPÚBLICA POPULAR DA CHINA. LEI 9.019/1995. DECRETO 1.602/1995. RESOLUÇÃO CAMEX 41/2001. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ACÓRDÃO RECORRIDO PUBLICADO EM 12.11.2009. A suposta ofensa aos preceitos constitucionais indicados nas razões recursais somente poderia ser constatada a partir da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido.” (ARE 684788 AgR, Rel Min. ROSA WEBER, Primeira Turma, DJe 14.08.13
+    “RECURSO EXTRAORDINÁRIO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA, POR TRATAR-SE DE PROCESSO DE MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009, ART. 25) – AGRAVO INTERNO IMPROVIDO.” (RE 1150290 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 02.05.19)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b , do Código de Processo Civil.
+    Publique-se.
+    Brasília, 27 de setembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
