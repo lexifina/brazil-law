@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA - CONTRATAÇÃO TEMPORÁRIA CONTRATO TEMPORÁRIO - DIREITO AO FGTS - ENTENDIMENTO CONSOLIDADO DO COL. STF - CONTRATOS NÃO PRESCRITOS - CELEBRADOS SOB A ÉGIDE DA LEI N°18.185/2009 - REGULARIDADE DAS AVENÇAS - VALIDADE DOS CONTRATOS - DESCABIMENTO DO DÉPOSITO DE FGTS - RECURSO DESPROVIDO.
+    1. Segundo entendimento consolidado do col. STF, as ‘contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036190, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS’ (RE 705.140, Relator(a): Min. Teori Zavascki, Tribunal Pleno, julgado em 2810812014, Acórdão Eletrônico Repercussão Geral - Mérito DJe-217 - Divulg. 04/1112014 - Public. 0511112014).
+     2. Sendo os contratos válidos e não prescritos os regidos pela Lei n° 18.18512009, que dispõe sobre a contratação para atender a necessidade temporária de excepcional interesse público, não faz jus o contratado ao recebimento do FGTS. Recurso desprovido” (pág. 108 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição, alega-se, em suma, violação do art. 37, IX, e § 2°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem assim dirimiu a controvérsia dos autos:
+    “[...] ressalvado meu entendimento, mas em observância ao principio do colegiado e em prestigio, também, à economia e celeridade processual, passo a adotar o posicionamento no sentido de que os contratos regidos pela Lei n° 10.254/1990 são nulos após seis meses do início da contratação, enquanto os vínculos celebrados a partir da vigência da Lei n° 18.185/2009 devem obedecer ao regramento nela estabelecido.
+    Dessa forma, torna-se necessária, no caso concreto, a análise da legislação que ampara as contratações, devendo ser observada, in casu, a prescrição quinquenal do período anterior a 20/11/2009, tendo em vista que o ajuizamento da ação ocorreu em 21/11/2014 (fI. 02v), cabendo a análise, portanto, somente dos períodos não prescritos, regidos pela Lei Estadual n° 18.185/2009.
+    […]
+    Assim, existindo no ordenamento jurídico a previsão da contratação temporária de servidores na área da segurança pública de 03 (três) anos, prorrogado por até 03 (três) anos, deve ser considerada legítima a contratação ocorrida após a entrada em vigor da Lei n° 18.185/09.
+    Por esse motivo, deve ser reconhecida a validade das avenças celebradas pelo servidor a partir de do inicio de sua contratação, porquanto firmadas com fundamento na Lei n° 18.185/2009, pelo que deve ser mantida a sentença” (pág. 111-115 do documento eletrônico 2).
+    Nesse contexto, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, notadamente quanto à validade do contrato temporário em discussão, seria necessário o reexame do conjunto fático-probatório dos autos e da legislação local pertinente, o que é vedado pelas Súmulas 279 e 280 desta Corte. Nesse sentido, destaco os seguintes julgados deste Tribunal:
+    “Ementa: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE NO CONTRATO. SÚMULA 279/STF.
+    1. A solução da controvérsia pressupõe, necessariamente, o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (RE 967.539-AgR/MS, Rel. Min. Roberto Barroso, Primeira Turma).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE DO CONTRATO CELEBRADO ENTRE AS PARTES. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I – Para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, notadamente quanto à apuração de eventual nulidade do contrato em discussão, seria necessário o reexame do conjunto fático-probatório dos autos e da norma local aplicável à espécie (Lei 10.376/1995 do Estado do Rio Grande do Sul), o que é vedado pelas Súmulas 279 e 280/STF.
+    II - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)” (ARE 1.146.067-AgR/RS, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites legais.
+    Publique-se.
+    Brasília, 30 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
