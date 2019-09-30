@@ -1,0 +1,42 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em desfavor de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    Apelação criminal - Tráfico de drogas - Sentença condenatória. Recurso defensivo Pleito de absolvição por insuficiência probatória. Pleitos subsidiários de desclassificação para o delito do art. 28 da Lei de Drogas, ou aplicação do redutor de pena, previsto no art. 33, §4°, da mesma Lei, com fixação de regime inicial menos gravoso e de substituição da pena privativa de liberdade por pena restritiva de direitos. Requerimento, ainda, de restituição dos valores apreendidos.
+    Materialidade e autoria comprovadas - Tráfico de drogas - apreensão de 17,7 gramas de cocaína, acondicionados em 31 invólucros plásticos. Policiais que observaram atitude suspeita do réu, que mudou de direção para evitar a abordagem. Após perseguição que só se findou por meio de bloqueio realizado por viaturas policiais, o réu foi abordado. Encontradas as drogas no carro e R$ 1.480,00 em seu poder, em notas trocadas, cuja origem lícita não foi comprovada. Provas francamente incriminadoras.
+    Manutenção da condenação de rigor.
+    Dosimetria das penas - Pena -base fixada no mínimo legal, sem recurso Ministerial. Na segunda fase, circunstância agravante da reincidência, que é específica em relação a uma das condenações, com aumento proporcional da pena. Na derradeira etapa, afastamento da aplicação do redutor de pena previsto na Lei de
+    Drogas, diante da recidiva e das demais circunstâncias, que denotam dedicação à atividade criminosa.
+    Regime inicial fechado mantido eis que bem justificado pelas circunstâncias fáticas. Regime menos gravoso não teria o condão de desestimular a conduta
+    Não cabimento de substituição da privativa de liberdade por restritiva de direitos Circunstâncias fáticas que não recomendam a substituição - Tratamento incompatível com os objetivos da Lei antitóxicos.
+    Manutenção do perdimento da quantia apreendida, nos termos do art. 63, da Lei de Drogas.
+    Sentença mantida - Recurso improvido. (eDOC 12, p. 5).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa aos arts. 5º, XLVI; e 93, IX, do texto constitucional.
+    Nas razões recursais, sustenta a aplicabilidade da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei de drogas, afirmando a desproporcionalidade da sanção, tendo em vista que “para os demais crimes há, normalmente, em razão da reincidência, uma diferença, entre primários e reincidentes, de apenas 1/6 na pena, não há razão lógica para que apenas no tráfico se estabeleça um desnível superior a 300% “ (eDOC 15, p. 10).
+    Alega, ainda, que não restou demonstrada a participação do recorrente em atividades e organizações criminosas.
+    Afirma que “é de rigor a fixação de regime semiaberto em favor do Recorrente, ainda que considerada a sua reincidência, não havendo qualquer fundamentação idônea para a manutenção do regime fechado para o início do cumprimento da pena, já que sua pena, aplicado o redutor acima pleiteado, dificilmente superará o lapso de 04 anos. “ (eDOC 15, p. 14).
+    Assim como, aduz que “considerando que o Recorrente já cumpriu pena o suficiente para galgar o regime semiaberto, este deve ser, desde logo, fixado, o que não ocorreu no caso em tela.” (eDOC 15, p. 20).
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, registra-se que conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas.
+    Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Contudo, o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena.
+    No tocante à causa especial de diminuição de pena prevista no §4º do art. 33 da Lei de drogas, o Tribunal de origem, com base no acervo fático-probatório, consignou justificado o afastamento do referido redutor, ante a condição de reincidente específico do recorrente, bem como que este se dedica à atividade criminosa.
+    A propósito, extraio o seguinte trecho do acórdão impugnado:
+    Na terceira fase, a r. sentença afastou a aplicação do redutor de pena previsto no §4°, do art. 33 da Lei Antitóxicos, diante do registro de recidiva, inclusive especifica.
+    Incabível a benesse ora pleiteada. Com efeito, além de ser o acusado reincidente (inclusive específico), a quantidade e forma de acondicionamento da droga (cocaína) levam à conclusão de que não se tratou de algo ocasional ou mesmo incipiente a que visa o beneficio legal. A forma como se deram os fatos demonstra que o réu se dedicava à atividade criminosa e isto impede a concessão da referida benesse.
+    Inexistindo outras alterações, a pena ficou mantida em 06 anos e 03 meses de reclusão, e 625 dias-multa, fixados no mínimo legal. (eDOC 12, p. 13).
+    Em relação ao regime inicial de cumprimento de pena, o acórdão recorrido não merece reparo, tendo em vista que quantidade e natureza da droga (17,7 gramas de cocaína, distribuídas em 31 eppendorfs) foram utilizadas para fundamentar o regime mais gravoso. Nesse sentido cito o seguinte trecho do acórdão impugnado:
+    “No caso dos autos, o acusado traficava considerável quantidade de entorpecente de natureza extremamente nociva e viciante, de forma que sua conduta é inquestionavelmente reprovável e merece ser punida mediante regime inicial mais severo.
+    Há de se ressaltar que a cocaína é entorpecente de efeitos pesados e nefastos, sendo mais nociva que outras substâncias entorpecentes. Assim, a conduta do réu demanda regime prisional inicial mais gravoso, de forma proporcional à gravidade dos fatos em concreto.
+     No mais, tratando-se de crime equiparado a hediondo, restou plenamente justificado o regime imposto. Regime menos gravoso, em face da maior reprovabilidade da conduta, não teria o condão de desestimular a prática de novos crimes, o que por si só já autorizaria o regime fechado.” (eDOC 12, p. 13-14).
+    Assim, divergir do entendimento firmado pelo TJ/SP demandaria o reexame do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide a Súmula 279 do Supremo Tribunal Federal.
+    Ademais, a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso, bem como as pretensões relativas ao instituto da repercussão geral da questão constitucional.
+    Quanto a suposta violação ao art. 93, inciso IX, da CF, observo que esta Corte já apreciou essa matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292 (Tema 339), de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o citado preceito constitucional exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Dessa forma, não verifico teratologia ou ilegalidade na dosimetria da pena, haja vista ter sido individualmente responsabilizado e condenado, de modo que não se justifica o provimento do presente recurso.
+    Por fim, no que tange as argumentações acerca da detração da pena e de progressão de regime, o Juízo da execução penal poderá melhor apreciar o pleito, ante a impossibilidade de se apurar, nesta Corte, a satisfação dos requisitos dos benefícios requeridos.
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, RISTF).
+    Publique-se. Int..
+    Brasília, 30 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
