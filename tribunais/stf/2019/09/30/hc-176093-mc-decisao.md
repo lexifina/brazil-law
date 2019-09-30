@@ -1,0 +1,38 @@
+DECISÃO
+HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO. NÃO CARACTERIZAÇÃO DE DESÍDIA JUDICIAL. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA PELOS DOCUMENTOS APRESENTADOS PELO IMPETRANTE. MEDIDA LIMINAR INDEFERIDA. INFORMAÇÕES. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado pela Defensoria Pública de Alagoas, em benefício de Aderilson Melo da Silva, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, pelo qual negado provimento ao Recurso em Habeas Corpus n. 112.577, em 27.8.2019, com recomendação de urgência na conclusão do feito:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA TÉRMINO DA INSTRUÇÃO. NÃO CONFIGURADO. PARTICULARIDADES DO CASO CONCRETO. RECURSO DESPROVIDO.
+    1. Como se sabe, os prazos indicados servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do princípio da razoabilidade. Precedente.
+    2. Somente se cogita da existência de constrangimento ilegal por excesso de prazo quando este for motivado por descaso injustificado do juízo, o que não se verifica na presente hipótese.
+    3. A demora na formação da culpa está devidamente justificada pelas peculiaridades do caso, notadamente por se tratar de dois crimes de homicídio, um tentado e outro consumado, praticados por dois réus defendidos por patronos distintos, contra duas vítimas, havendo o Juízo processante analisado a possibilidade de concessão de liberdade provisória aos acusados por mais de uma vez e sido provocado a prestar informações no writ, além da necessidade de realização de diligências para a localização de testemunhas que não foram encontradas nos endereços declinados nos autos.
+    4. Não é possível constatar desídia estatal na hipótese em tela, uma vez que o processo vem seguindo trâmite regular, em virtude das particularidades do caso concreto, tendo a última audiência ocorrido em 05/06/2019, para colheita do interrogatório dos réus.
+    5. Recurso desprovido, com recomendação de urgência na conclusão do feito”.
+    2. Esse acórdão é o objeto do presente habeas corpus, no qual a impetrante reitera a alegação de excesso de prazo da prisão do paciente para a formação da culpa.
+    Sustenta que o paciente está preso preventivamente desde 22.5.2017 pela apontada prática dos crimes de homicídio qualificado e tentativa de homicídio qualificado.
+    Afirma que foi realizada audiência de instrução em 5.6.2019 e “[a]té o presente não foi encerrada a primeira fase do procedimento escalonado”.
+    Assevera que “não basta analisar tão somente a gravidade abstrata do delito supostamente cometido para dizer que, no caso concreto, não existe descompasso entre o tempo já decorrido e a não finalização do procedimento iniciado contra o paciente, preso”.
+    Este o teor do requerimento e do pedido:
+    “Considerando as razões expostas, que demonstram a ocorrência de constrangimento ilegal à liberdade de locomoção do paciente por ofensa à garantia da razoável duração do processo, a Defesa Pública pede a esse Colendo Supremo Tribunal Federal a concessão do habeas corpus em favor do paciente, relaxando-se a prisão cautelar, expedindo-se, em consequência, o pertinente alvará de soltura.
+    Tendo em vista a presença dos requisitos legais que a autorizam, requer a concessão de medida liminar, suspendendo-se a eficácia da decisão que decretou a prisão cautelar do paciente até o julgamento de mérito do presente writ”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Neste exame preambular, a exposição dos fatos e as circunstâncias presentes e comprovadas na ação conduzem ao indeferimento da medida liminar requerida, ausente plausibilidade jurídica dos argumentos apresentados na inicial.
+    4. Ao proferir o voto condutor do julgado objeto da presente impetração, a Ministra Laurita Vaz, do Superior Tribunal de Justiça, assentou:
+    “(...) Como se sabe, os prazos indicados servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, razão pela qual eles têm sido mitigados pela jurisprudência dos Tribunais Pátrios, à luz do princípio da razoabilidade. Desse modo, somente se cogita da existência de constrangimento ilegal por excesso de prazo quando esse for motivado por descaso injustificado do Juízo processante.
+    Nesse sentido: (...)
+    No caso em apreço, é possível observar que o processo não se encontra parado. Consta dos autos que o Paciente se encontra preso preventivamente desde 22/05/2017. A denúncia foi recebida em 04/07/2017, e a instrução criminal teve início em 09/05/2018, com continuação da audiência em 26/10/2018, redesignada para 15/05/2019, em razão de convocação do Magistrado para participar de outras audiências no período. A colheita dos interrogatórios dos réus foi realizada em audiência na data de 05/06/2019.
+    Ademais, conforme bem salientado em parecer do Ministério Público Federal, trata-se da apuração de:
+    ‘[D]ois crimes de homicídio, um tentado e outro consumado, praticados por dois réus - defendidos por patronos distintos (Allan: Advogado Dr. Bruno César França Romeiro de Melo; Aderilson: Defensor Público Dr. Marcelo Barbosa Arantes) -, contra duas vítimas, havendo o Juízo processante analisado a possibilidade de concessão de liberdade provisória aos acusados por mais de uma vez e sido provocado a prestar informações no writ, além da necessidade de realização de diligências para a localização das testemunhas DJANDREREY BENTO URTIGA, GILSON RIBEIRO LOPES, JÚLIO CÉSAR SILVA LOUREIRO, OZANO PEREIRA GAMA e ÉRICKA MICHELE AMÂNCIO DOS SANTOS, que não foram encontradas nos endereços declinados nos autos (informações obtidas no site do Tribunal de origem).’ (fl.138)
+      Sendo assim, não é possível constatar desídia estatal na hipótese em tela, uma vez que o processo vem seguindo trâmite regular, em virtude das particularidades do caso concreto. Com efeito, esta Corte Superior, em situação semelhante, já se posicionou no sentido de que: (...)
+    Não se vislumbra, portanto, constrangimento ilegal apto a justificar o provimento do recurso. Conforme entendimento desta Corte: (...)
+    Ante o exposto, NEGO PROVIMENTO ao recurso, com recomendação de urgência na conclusão do feito”.
+    5. Neste exame do requerimento de medida liminar, ausente nos autos comprovação de desídia na tramitação do feito em primeira instância.
+    6. Os argumentos expostos impõem o prosseguimento da presente ação para análise mais detida da questão, com a complementação da instrução do pedido pelos esclarecimentos do juízo de origem sobre o alegado nesta impetração e com o parecer da Procuradoria-Geral da República.
+    7. Pelo exposto, indefiro a medida liminar requerida.
+    Oficie-se ao juízo da Sétima Vara Criminal da Capital/Tribunal do Júri da Comarca de Maceió/AL para prestar informações pormenorizadas quanto ao alegado na presente impetração, em especial quanto ao alegado excesso de prazo na formação da culpa, na Ação Penal n. 0704036-20.2017.8.02.0001, a serem prestadas no prazo máximo de quarenta e oito horas, por malote digital, e informar a senha de acesso para consulta aos autos digitais.
+    Remetam-se, com o ofício, cópias da inicial e da presente decisão.
+    8. Prestadas as informações, vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 30 de setembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
