@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se julgou improcedente o pedido de concessão de vale refeição à autora, servidora da Procuradoria Regional de Marília/SP, nos mesmos moldes em que concedido administrativamente aos servidores das Regionais da Grande São Paulo, tendo em vista que não cabe ao Poder Judiciário aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa aos arts. 1°, III, e 5°, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Juízo de origem manteve a sentença na qual foi rejeitado o pedido de pagamento de vale refeição nos seguintes termos:
+    “[...]
+    Pois bem. Ainda que a parte autora preste serviços na mesma autarquia, é inegável que o servidor da capital, em que pese estar submetido a condições de trabalho idênticas, vivenciam uma situação específica com a ausência de local para realização das refeições e também o alto custo da alimentação em locais próximos à sede da requerida. Tais circunstâncias encontradas no ambiente de trabalho destes servidores é que justificaram a diferença, concernente ao valor do auxílio alimentação, não advindo daí qualquer ofensa ao princípio da isonomia, admitindo-se o tratamento desigual entre sujeitos que se encontrem em situação jurídica distinta, como no caso em tela.
+    […]
+    Assim, no presente caso, o vale refeição, destinado a subsidiar a refeição de tais servidores que, por conta das condições específicas do seu local de trabalho, veem-se impedidos de retornarem às suas residências para almoçar, mormente devido à distância e às notórias dificuldades do trânsito da cidade de São Paulo.
+    Desse modo, verifica-se que os benefícios não se confundem, de forma que o vale alimentação é benefício pago por mera liberalidade da Administração Pública, de acordo com os critérios da discricionariedade e oportunidade, não gerando, pois, direito adquirido.
+    Contudo, o pedido formulado não pode ser acolhido, pois, convém ressaltar que a eventual concessão do benefício pretendido implicaria em ingerência do poder judiciário na discricionariedade do Agente Administrativo, tendo reflexos diretos no orçamento público, o que é vedado conforme jurisprudência consolidada e vinculante do Superior Tribunal que editou a Súmula Vinculante n° 37: ‘Não cabe ao poder judiciário, que não tem função legislativa, aumentar vencimentos de servidores púbicos sob o fundamento de isonomia’.
+    [...]” (págs. 2-3 do documento eletrônico 4).
+    Nesse contexto, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, cito os seguintes precedentes desta Corte:
+    “Ementa: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. AUXÍLIO ALIMENTAÇÃO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL.
+    1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal.
+    2. Agravo interno a que se nega provimento” (ARE 857.663-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS AO RECEBIMENTO DO AUXÍLIO-ALIMENTAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 888.885-AgR/PI, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Por fim, a pretensão da recorrente esbarra no óbice da Súmula Vinculante 37, segundo a qual “não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia”. Com esse entendimento, cito o RE 804.768-AgR/BA, da relatoria da Ministra Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. AUXÍLIO ALIMENTAÇÃO. EQUIPARAÇÃO. SÚMULA N. 339 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários anteriormente fixados, observados os limites legais.
+    Publique-se.
+    Brasília, 30 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
