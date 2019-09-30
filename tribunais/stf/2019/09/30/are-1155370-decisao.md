@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. TRIBUTÁRIO. MUNICÍPIO. CONVÊNIO. REPASSE DE VERBAS DA UNIÃO. LEI 10.522/2002. DESNECESSIDADE DE APRESENTAÇÃO DA CND. CUNHO DE ASSISTÊNCIA SOCIAL NÃO CONFIGURADO. LEGITIMIDADE PASSIVA AD CAUSAM DA CEF. APELAÇÃO E REMESSA OFICIAL PACIALMENTE PROVIDA.
+    1. O Município de Sirinhaém-PE formalizou proposta de convênio para a transferência de recursos, por meio do Ministério do Turismo, para a construção de uma praça, sendo necessária a atualização de seu CAUC, por meio da exibição de CND, da qual o ente não dispõe, em razão de débitos perante o INSS. Contudo, entende o apelante que, por se tratar de convênio relativo à assistência social, a legislação prevê a desnecessidade do cumprimento de tal exigência.
+    2. Em casos como o que ora se apresenta, esta colenda Corte Regional vem entendendo ser a CEF parte legítima para configurar o polo passivo da demanda, porquanto, na qualidade de gestora, é a única responsável pela fase administrativa de repasse das verbas e que a sua inércia inviabiliza o município ao seu percebimento. Precedentes: AGTR 00164829520104050000,Rel. Des. Federal FRANCISCO WILDO, DJU 17/02/2011 e AMS 200580000069600, Rel. Des. Federal PAULOGADELHA, DJU 20/05/2010.
+    3. In casu, tem-se que não se encontra configurado o caráter assistencial do convênio, pois o seu objeto não se enquadra no conceito de assistência social expresso na Constituição Federal e na LOAS.
+    4. Empregar o conceito largo dado pelo autor à assistência social seria, em última análise, tornar letra morta a norma restritiva,prejudicando a própria Seguridade Social, através da eliminação das exigências ao repasse voluntário de recursos.
+    5. Apelação e remessa oficial parcialmente provida, apenas para acolher a preliminar de legitimidade passiva ad causam da CEF, devendo a referida instituição financeira, portanto, figurar no presente feito como parte ré” (págs. 139-140 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação dos arts. 6° e 203, da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pelo desprovimento do recurso (documento eletrônico 8).
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com base na legislação infraconstitucional aplicável à espécie (Instrução Normativa STN 1/1997, Lei 10.522/2002 e Lei Complementar 101/2000). Assim, a afronta à Constituição, se ocorrente, seria indireta. Além disso, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono os seguintes julgados:
+    “Agravo regimental no recurso extraordinário. Administrativo. Exclusão de município dos cadastros do SIAFI. Requisitos da Instrução Normativa 01/97/STN. Preenchimento. Discussão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade.
+    1. Inviável, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame do conjunto fático–probatório da causa. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido.
+    3. Inaplicável o art. 85, § 11, do Código de Processo Civil, haja vista que o agravado não apresentou contrarrazões” (RE 964.313-AgR/PB, Rel. Min. Dias Toffoli, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. SUSPENSÃO DE INSCRIÇÃO NO CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO FEDERAL – CADIN. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 916.540-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+     No mesmo sentido: RE 942.533/CE, Rel. Min. Cármen Lúcia; e RE 930.929/PE, Rel. Min. Edson Fachin.
+     Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
