@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Deficiência na instrução do writ. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, no qual o Superior Tribunal de Justiça é apontado como autoridade coatora.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 25 (vinte e cinco) anos, 1 (um) mês e 35 (trinta e cinco) dias de reclusão, em regime inicial fechado, pelos crimes previstos no art. 1º da Lei 9.613/98 c/c os arts. 16 e 19 da Lei 10.826/03 e nos arts. 304 c/c os arts. 297 e 299, todos do Código Penal, vedado o direito de recorrer em liberdade.
+    3. Em seguida, a defesa interpôs apelação no Tribunal Regional Federal da 3ª Região, pendente de julgamento.
+    4. Na sequência, a defesa impetrou o HC 489.093, no Superior Tribunal de Justiça. Denegada, sobreveio nova impetração de HC no STJ. O Relator do HC 513.791, Ministro Antonio Saldanha Palheiro, não conheceu do writ, por ser mera reiteração da impetração anterior. Contra essa decisão foi interposto agravo regimentação, não provido.
+    5. Neste habeas corpus, a parte impetrante afirma que, “[e]nquanto em trâmite o recurso de apelação, houve fato superveniente, a interferir no mérito da apelação. Explico: O Paciente IVAN APARECIDO MARTINS foi condenado junto ao Juízo Singular pelo crime de lavagem de capitais, porque respondia a processo crime de tráfico de drogas junto a Justiça Federal de Juiz de Fora/MG (Operação Athos da Policia Federal). Contudo, junto a Justiça Federal de Juiz de Fora/MG, foi absolvido, por sentença transita. Logo, como o Juiz Singular da 9 Vara Federal de Campinas/SP, usou como fundamentação para condenação no crime de lavagem de dinheiro o processo até então em trâmite em Juiz de Fora/MG, o consectário da absolvição transita em Juiz de Fora/MG, o consectário da absolvição transita em Juiz de Fora será a minoração de sua pena (caso mantida a condenação pelos demais crimes junto ao TRF3”.
+    6. Prossegue a narrativa para sustentar o excesso de prazo para o julgamento da apelação interposta pela defesa.
+    7. A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. Inicialmente, registro que a petição inicial do habeas corpus não foi instruída com cópia do inteiro teor das decisões do Superior Tribunal de Justiça. O que impede a exata compreensão da controvérsia, assim como atrai a orientação jurisprudencial do Supremo Tribunal Federal (STF) no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    10. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício, notadamente se se considerar que o STF já decidiu que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    11. Quanto ao mais, eventual acolhimento da pretensão defensiva – no que se refere ao pedido de absolvição do acionante ou, subsidiariamente, de revisão da dosimetria da pena – demandaria o revolvimento do conjunto fático-probatório, impossível na via restrita do habeas corpus.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+          Brasília, 30 de setembro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
