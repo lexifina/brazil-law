@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Primeira Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+          “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. INFRAÇÃO DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE – ARTIGO 165 E 277, §3° DO CTB. TESTE DE ETILÔMETRO NÃO REALIZADO. DESNECESSIDADE DE PROVA DA EMBRIAGUEZ. INFRAÇÃO DE MERA CONDUTA. AUTO DE INFRAÇÃO QUE SE MANTÉM HÍGIDO.
+    - A interpretação sistemática dos artigos 165 e 277 §3º, permite concluir que o CTB criou duas infrações autônomas, embora com a mesma pena: (1) dirigir embriagado e; (2) recusar-se o a se submeter a procedimentos que permitam aos agentes de trânsito apurar seu estado de embriaguez.
+    - A negativa em se submeter ao teste do etilômetro não presume o estado de embriaguez do artigo 165 do CTB, muito menos se confunde com a infração ali estabelecida, mas apenas permite a aplicação de igual penalidade pelo descumprimento previsto no art. 277, caput.
+    - Da documentação colacionada aos autos, constata-se que, diante do acima explicitado, foram observados os requisitos legais para lavratura do auto de infração e posterior PSDDI
+    - Processo Administrativo de Suspensão do Direito de Dirigir.
+    - Sentença de improcedência mantida.
+    RECURSO INOMINADO DESPROVIDO. POR MAIORIA.” (eDOC 8, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LVII e LXIII, do texto constitucional.
+    Nas razões recursais, alega-se que não foi respeitada a presunção de inocência, bem como violada a prerrogativa do recorrente de não produzir prova contra si. (eDOC 12, p. 11)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A Turma Recursal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 9.503/1997) e o conjunto probatório constante dos autos, consignou que se trata de infração de mera conduta, não sendo necessário que a autoridade de trânsito tenha o ônus de produzir qualquer outra prova, face à negativa do condutor. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Da prova colacionada aos autos, denota-se que, quando da autuação, o teste de etilômetro (bafômetro) não foi realizado porque o recorrente se negou a submeter-se ao exame.
+    A inconformidade do recorrente, em síntese, centra-se na ausência de prova da embriaguez quando da lavratura do auto de infração de trânsito – AIT.
+    No caso concreto, o recorrente foi autuado por infração prevista no art. 165 c/c 277, §3º do CTB, conforme AIT BM99888492, recusando-se a se submeter ao teste do etilômetro. Em decorrência, foi aplicada a penalidade de suspensão do direito de dirigir, PCDDI.
+    O art. 277, § 3º, do CTB prevê, expressamente, que ao condutor que se recusar a realizar o teste do bafômetro, exame clínico, perícia ou outro exame, que permita certificar seu estado clínico, serão aplicadas as penalidades e medidas administrativas previstas no art. 165 do CTB.
+    Basta assim, a recusa a submeter-se ao teste ou aos demais exames, para que esteja caracterizada a infração. Trata-se de infração de mera conduta, não se fazendo necessário que a autoridade de trânsito tenha o ônus de produzir qualquer outra prova, face à negativa do condutor.” (eDOC 8, p. 17/18)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. ATO ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, nos termos do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, conforme a remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo interno conhecido e não provido.” (RE 1.202.815 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 27.8.2019)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 20.3.2017. INFRAÇÃO DE TRÂNSITO. EMBRIAGUEZ NÃO COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO DAS QUESTÕES CONSTITUCIONAIS INVOCADAS NO RECURSO EXTRAORDINÁRIO. SÚMULAS 282 E 356 DO STF. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. CÓDIGO DE TRÂNSITO BRASILEIRO. REEXAME. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.” (ARE 951.541 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 27.10.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 8, p. 24), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 30 de setembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
