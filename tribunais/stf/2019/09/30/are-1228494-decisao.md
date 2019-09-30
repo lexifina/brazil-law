@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA, COM REPETIÇÃO DE INDÉBITO, DE CONTRIBUIÇÃO PREVIDENCIÁRIA DE APOSENTADOS. FUNPREV. ILEGALIDADE DA CONTRIBUIÇÃO A PARTIR DA EMENDA CONSTITUCIONAL N° 20/1998. RESTITUIÇÃO DEVIDA ATÉ A PROMULGAÇÃO DA EMENDA CONSTITUCIONAL N° 41/2003. PRESCRIÇÃO TRIENAL AFASTADA. APLICAÇÃO DO ART. 1° DO DECRETO N° 20.910/32, C/C O ART. 168, I DO CTN. PREQUESTIONAMENTO DOS ARTIGOS 5°, XXXVI; 40, CAPUT E § 8°; 194, PARÁGRAFO E 195, II, TODOS DA CONSTITUIÇÃO FEDERAL E DOS ARTIGOS 1° E 10 DO DECRETO N° 20.910/31 E DO ART. 206, § 3° DO CC/2002. INCONSTITUCIONALIDADE JÁ DECLARADA PELO STF. RECURSO DESPROVIDO. SENTENÇA CONFIRMADA EM NECESSÁRIO REEXAME” (pág. 163 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 74; 149; 151, III; 194 e 195 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão impugnado está em consonância com a jurisprudência desta Corte firmada no sentido de que é inconstitucional a a cobrança da contribuição previdenciária sobre os proventos de inativos e pensionistas após o advento da EC 20/98 até a edição da EC 41/2003. Nesse sentido, destaco os seguintes julgados deste Tribunal:
+    “Embargos de divergência em recurso extraordinário. 2. Direito tributário. Contribuição previdenciária de inativos. 3. Inconstitucionalidade da instituição de contribuição previdenciária de servidores inativos apenas durante o interregno das Emendas Constitucionais 20/1998 e 41/2003. 4. Jurisprudência de ambas as Turmas e do Plenário contrária ao acórdão embargado. 5. Embargos de divergência providos” (RE 434.239-ED-EDv/RS, Rel. Min. Gilmar Mendes, Tribunal Pleno).
+    “PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284/STF. COBRANÇA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. INATIVOS E PENSIONISTAS. VIGÊNCIA DA EC 20/98. INCONSTITUCIONALIDADE. LEI MUNICIPAL 7.968/00. CONSTITUCIONALIDADE SUPERVENIENTE, EM RAZÃO DA EDIÇÃO DA EC 41/03. IMPOSSIBILIDADE. NECESSIDADE DE EDIÇÃO DE NOVA LEI PARA A COBRANÇA DA CONTRIBUIÇÃO. PRECEDENTES.
+    1. O Supremo Tribunal Federal possui o entendimento pacífico de ser inconstitucional, durante a vigência da Emenda Constitucional 20/98, a cobrança de contribuição previdenciária dos proventos dos servidores públicos inativos e pensionistas.
+    2. A jurisprudência desta Corte já assentou ser incabível reconhecer a constitucionalidade superveniente da Lei 7.698/00 do Município de Belo Horizonte, fazendo-se indispensável, para a cobrança da contribuição, a edição de nova lei, sob a vigência da Emenda Constitucional 41/03.
+    3. Agravo regimental a que se nega provimento” (RE 571.986-AgR/MG, Rel. Min. Teori Zavascki, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de setembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
