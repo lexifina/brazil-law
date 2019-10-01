@@ -1,0 +1,19 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO.
+    1. Em 19 de agosto de 2019, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO PREVIDENCIÁRIA – VERBA NÃO INCORPORÁVEL – IMPOSSIBILIDADE – PRECEDENTE – PROVIMENTO PARCIAL.
+    1. Simultaneamente com o extraordinário, versando sobre idêntica matéria, foi interposto recurso especial. O Superior Tribunal de Justiça dele conheceu e acolheu parcialmente o pedido formulado. A decisão prolatada substituiu, consoante o disposto no artigo 1.008 do Código de Processo Civil, a formalizada pelo Tribunal Regional Federal da 1ª Região, para afastar a incidência da contribuição previdenciária sobre o terço constitucional de férias. O recurso, no particular, encontra-se prejudicado.
+    No mais, o acórdão impugnado está em confronto com o decidido pelo Supremo, com repercussão geral, no recurso extraordinário 593.068/SC, relator o ministro Luís Roberto Barroso, com acórdão publicado no Diário de Justiça de 22 de março de 2019. Vejam a ementa:
+    Ementa: Direito previdenciário. Recurso Extraordinário com repercussão geral. Regime próprio dos Servidores públicos. Não incidência de contribuições previdenciárias sobre parcelas não incorporáveis à aposentadoria. 1. O regime previdenciário próprio, aplicável aos servidores públicos, regese pelas normas expressas do art. 40 da Constituição, e por dois vetores sistêmicos: (a) o caráter contributivo; e (b) o princípio da solidariedade. 2. A leitura dos §§ 3º e 12 do art. 40, c/c o § 11 do art. 201 da CF, deixa claro que somente devem figurar como base de cálculo da contribuição previdenciária as remunerações/ganhos habituais que tenham “repercussão em benefícios”. Como consequência, ficam excluídas as verbas que não se incorporam à aposentadoria. 3. Ademais, a dimensão contributiva do sistema é incompatível com a cobrança de contribuição previdenciária sem que se confira ao segurado qualquer benefício, efetivo ou potencial. 4. Por fim, não é possível invocar o princípio da solidariedade para inovar no tocante à regra que estabelece a base econômica do tributo. 5. À luz das premissas estabelecidas, é fixada em repercussão geral a seguinte tese: “Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como ‘terço de férias’, ‘serviços extraordinários’, ‘adicional noturno’ e ‘adicional de insalubridade.” 6. Provimento parcial do recurso extraordinário, para determinar a restituição das parcelas não prescritas.
+    2. Ante o precedente, ressalvada a óptica pessoal, dou provimento parcial ao extraordinário para, reformando o acórdão prolatado pelo Tribunal Regional Federal da 1ª Região, restabelecer o contido na sentença.
+    3. Publiquem.
+    A embargante aponta omissão no julgado. Sustenta que o restabelecimento da sentença manteve a incidência de contribuição previdenciária sobre gratificação natalina, em contrariedade ao paradigma aludido na decisão.
+    A parte embargada, em contrarrazões, defende o acerto do ato impugnado.
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por advogado devidamente credenciado, foi protocolada no prazo legal.
+    Não assiste razão ao embargante. Descabe articular com a ausência de manifestação quanto à mencionada verba, quando devidamente analisada pela decisão, ainda que contrariamente a seus interesses.
+    Não se pode cogitar, na espécie, da existência de qualquer dos vícios suficientes a respaldar os embargos declaratórios. O pronunciamento traz os parâmetros observáveis, de modo a revelar a impropriedade dos declaratórios.
+    3. Ante o quadro, ausente qualquer vício no julgado, desprovejo os declaratórios.
+    4. Publiquem.
+Brasília, 1º de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
