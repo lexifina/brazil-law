@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Dosimetria da pena. Fatos e provas. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. MINORANTE. NÃO INCIDÊNCIA. ELEMENTOS FÁTICO-PROBATÓRIOS. REVISÃO. IMPOSSIBILIDADE.
+    1. O Tribunal de origem, ao negar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, entendeu que o ora agravante demonstra não se tratar de simples mula, mas de elo indispensável de uma grande organização criminosa, asseverando, ainda, ser certo que o acusado – se não integra organização criminosa propriamente dita – ao menos contribui com ela, sendo elemento essencial para a ‘cadeia produtiva do crime’.
+    2. Para que fosse possível a revisão de tal fundamento, seria imprescindível o reexame dos elementos fáticos da lide, o que é defeso na via eleita, que possui rito célere e cognição sumária.
+    3. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o recorrente foi condenado à pena de 7 anos de reclusão, em regime fechado, pela prática do crime previsto no art. 33, c/c o art. 40, V, da Lei 11.343/2006.
+    3. Interposta apelação pela defesa, o Tribunal de Justiça do Estado de Mato Grosso do Sul negou provimento ao recurso. Opostos embargos de declaração, foram eles rejeitados
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 479.983, indeferiu o pedido liminar e, posteriormente, denegou a ordem. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste recurso ordinário, a defesa afirma ser necessária “a aplicação da benesse do tráfico privilegiado, eis que preenche os requisitos legais já que a presunção de dedicação a atividade ilícita limita-se tão somente à quantidade da droga apreendida”. Alega que “a quantidade de droga pode ser indício de que o agente está envolvido com ação de organização criminosa, mas este fato isolado não pode servir para afastar a causa de diminuição sob fundamento de mera conjectura e presunções”. Com essa argumentação requer “seja deferido o presente recurso, reduzindo-se a pena aplicada diante do reconhecimento da causa de diminuição da pena prevista no art. 33, 4º, da Lei 11.343/2006, que permitirá o abrandamento do regime prisional e substituição da pena corporal por restritiva de direitos bem como o afastamento da hediondez do delito”.
+    Decido.
+    6. O recurso ordinário não deve ser provido.
+    7. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível em habeas corpus a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    8. Na hipótese dos autos, as instâncias precedentes deixaram de aplicar a minorante do art. 33, § 4º, da Lei de Drogas com respaldo em dados objetivos da causa. Sendo assim, o acolhimento da pretensão defensiva demandaria o revolvimento de matéria fática. Transcrevo, nesse sentido, as seguintes passagens do voto condutor do acórdão proferido pelo Superior Tribunal de Justiça:
+    “[...]
+    Colhe-se dos autos que o Juízo de Direito da 2ª Vara Criminal da comarca de Três Lagoas/MS condenou o ora agravante, como incurso no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006, à pena de 7 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 700 dias-multa, pelo tráfico interestadual de, aproximadamente, 20 kg de maconha (Processo n. 0004400-91.2017.8.12.0021 – fls. 137/146).
+    [...]
+    (…) o Tribunal de origem, ao negar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, entendeu que o ora agravante demonstra não se tratar de simples "mula", mas de elo indispensável de uma grande organização criminosa, ramificada em diversos níveis de atuação e competência, seja na compra, transporte, guarda, divisão, entrega, venda e recebimento das importâncias devidas, asseverando, ainda, ser certo que o acusado – se não integra organização criminosa propriamente dita – ao menos contribui com a mesma, sendo elemento essencial para a "cadeia produtiva do crime" (fl. 250 – grifo nosso).
+    Dessa forma, para que fosse possível a revisão de tal fundamento, seria imprescindível o reexame dos elementos fáticos da lide, o que é defeso na via eleita, que possui rito célere e cognição sumária.
+    [...]”
+    9.  No caso, tal como consta no acórdão recorrido, eventual acolhimento da tese defensiva demandaria o revolvimento do conjunto fático-probatório, o que não é possível na via restrita do habeas corpus.
+    10. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 1º de outubro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
