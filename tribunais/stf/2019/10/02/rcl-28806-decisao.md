@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – PERDA DO OBJETO – PREJUÍZO.
+    1. O assessor Vinicius de Andrade Prado assim revelou as balizas do caso:
+    Carlos Leandro Santos dos Santos, representado pela Defensoria Pública do Estado do Rio Grande do Sul, afirma haverem o Estado do Rio Grande do Sul e o Juízo do Serviço de Plantão do Foro Central da Comarca de Porto Alegre/RS, no processo nº 001/2.17.0091666-0, olvidado o decidido na medida cautelar na arguição de descumprimento de preceito fundamental nº 347.
+    Conforme narra, foi preso em flagrante ante a suposta prática do crime de roubo. Assinala marcada audiência de custódia para o dia 23 de outubro de 2017, a qual ocorreria na Cadeia Pública de Porto Alegre. Aponta a não realização do ato, no que deixou de ser apresentado, na oportunidade, pelo Estado. Realça não designada nova data para o atendimento da providência, apesar de pedido expresso. Ressalta a distribuição do procedimento penal, sem decisão, à Vara Criminal local.
+    Segundo argumenta, a não condução de preso, ausente motivação expressa e idônea, e a omissão do Juízo reclamado sobre o pleito de novo agendamento do ato implicam ofensa aos artigos 9º, item 3, do Pacto Internacional de Direitos Civis e Políticos das Nações Unidas e 1º da Resolução nº 213 do Conselho Nacional de Justiça, nos quais prevista a obrigatoriedade de apresentação de cidadão custodiado ao Juízo competente, no lapso de 24 horas, contadas do recebimento do auto de prisão em flagrante pela autoridade judicial. Frisa a indispensabilidade da audiência de custódia, tendo em vista o assentado no paradigma. Evoca jurisprudência.
+    Sob o ângulo do risco, assevera que a demora na feitura do ato prejudica a aferição da legitimidade da prisão.
+    Requereu, no campo precário e efêmero, fosse determinado ao Juízo reclamado que procedesse, no prazo de 24 horas, à audiência de custódia, bem assim ao Estado que o conduzisse ao local do ato processual. Busca a confirmação da providência.
+    O Juízo reclamado, nas informações, diz efetivada a prisão em flagrante em 22 de outubro de 2017, convertida em preventiva. Designada a audiência de custódia para 23 de outubro de 2017, acabou não realizada em razão da ausência do envolvido. Ressalta a remarcação para 13 de novembro seguinte.
+    Por meio da petição/STF nº 69.738/2017, o reclamante esclareceu não ocorrida a audiência agendada para o dia 13 de novembro de 2017, em virtude da omissão do Estado relativamente à própria apresentação. Assinalou, mediante a petição/STF nº 70.804/2017, não acolhido o pedido de designação de nova data para a prática do ato processual.
+    O Estado do Rio Grande do Sul manifesta-se pela negativa de seguimento da reclamação observada a falta de esgotamento das instâncias ordinárias. Discorre sobre as dificuldades enfrentadas pela administração do sistema prisional local. Ressalta não estar em jogo o descumprimento do decidido no processo objetivo.
+    Vossa Excelência, em 19 de dezembro de 2017, afastou a preliminar de inadmissão veiculada pelo Estado e implementou a medida acauteladora.
+    Por meio do Ofício nº 259/2018, o Juízo esclareceu frustrada, pela segunda vez, a audiência de custódia no que o paciente não foi levado ao local.
+    O Ministério Público Federal destaca o avanço do processo-crime. Afirma que, embora não realizada a audiência de custódia, o Juízo de origem apreciou os argumentos da defesa técnica e manteve a preventiva, atingindo-se a finalidade da apresentação do preso. Conclui no sentido da perda do objeto da reclamação. Menciona ocorrida a audiência de instrução em 2 de abril de 2018. Frisa não ser razoável exigir-se, a esta altura, o cumprimento da liminar, uma vez esvaziada na substância.
+    Consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Rio Grande do Sul revela a superveniência do trânsito em julgado da condenação, ocorrido em 23 de abril de 2019.
+    2. Alcançada a preclusão maior no processo-crime, mostra-se, a esta altura, esvaziado o objeto desta medida, no que se tem a execução definitiva da pena.
+    3. Declaro o prejuízo da reclamação, revogando a liminar deferida em 19 de dezembro de 2017.
+    4. Publiquem.
+Brasília, 2 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
