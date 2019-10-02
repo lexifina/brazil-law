@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO – Procedimento comum – Direito Tributário – ICMS – Demanda voltada ao reconhecimento de imunidade tributária – Organização religiosa sem fins lucrativos – Importação de telas LED, que supostamente serão utilizadas em locais de culto – §4º do artigo 150 da CRFB/88 que restringe a imunidade tributária em questão – Telas LED não relacionadas às atividades essenciais da entidade – Ausência de ofensa ao princípio da liberdade religiosa – SENTENÇA REFORMADA – RECURSO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 150, VI, b e § 4°, da CF. Sustenta, em essência, que faz jus à imunidade de impostos que incidirem sobre a renda, patrimônio e serviços destinados à sua atividade essencial.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No entanto, o recurso não merece trânsito pela alínea a.
+    Com efeito, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame das provas colhidas no correr do feito. Incidente a Súmula 279 do Col. Supremo Tribunal Federal.
+    Sob o pálio da alínea c, conforme anotado no ARE 646.035 AgR/SP, Rel. Min. CARMEN LÚCIA, DJe de 13/09/2011, "incabível recurso extraordinário interposto com fundamento no art. 102, inc. III, alínea "c", da Constituição da República, quando não há aplicação de lei ou ato de governo local em detrimento da Constituição." No mesmo sentido: RE 870.577 AgR/AL, Rel. Min. MARCO AURÉLIO, DJe de 29/09/2015. É a hipótese dos autos, onde, em nenhum momento, se enfrenta tal situação.
+    Inadmito, pois, o recurso extraordinário com fundamento no art. 1.030, inc. V, do Código de Processo Civil.”
+    A pretensão recursal não merece prosperar. No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “No caso, não se concebe que as telas LED em questão estejam relacionadas com as finalidades essenciais da apelada. Isso, porque os cultos que são sua finalidade essencial já se desenvolvem normalmente nas igrejas mencionadas à fl. 37, conforme as fotos de fls. 41, 46, 51, 56, 60, 66 e 71.
+    […]
+    Ademais, as telas LED em si também não se relacionam essencialmente com um local de culto, podendo ser utilizadas em uma série de outras atividades, inclusive com finalidade comercial, lembrando-se que há emissora de televisão intimamente relacionada à apelante.
+    […]
+    Assim, como não há vinculação entre a importação de telas LED e as finalidades essenciais da apelada, bem como não há ofensa ao princípio da liberdade religiosa, já que os cultos se desenvolvem normalmente sem os referidos equipamentos, é de rigor o provimento do recurso da Fazenda, de modo que seja cobrado o ICMS relativo à importação das telas LED discriminadas nos documentos de fls. 76/85.”
+    Neste sentido, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF. Confiram-se:
+    “Agravo regimental nos embargos de divergência do agravo regimental no recurso extraordinário. 2. Ausência de similaridade entre os acórdãos indicados. 3. Inadmissibilidade 4. IPTU. Imunidade. Templos de qualquer natureza. 5. Impossibilidade de análise do conjunto fático-probatório dos autos. Incidência da Súmula 279/STF. 6. Agravo regimental a que se nega provimento.” (RE 604390 AgR-EDv-AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. ENTIDADE RELIGIOSA. IMUNIDADE. IMÓVEL CONEXO AO TEMPLO. UTILIZAÇÃO DE ACORDO COM OS FINS INSTITUCIONAIS. PRETENSÃO QUE DEMANDARIA REEXAME DO ACERVO PROBATÓRIO. SÚMULA 279/STF.
+    O Tribunal de origem assentou que a entidade agravada exerce prioritariamente atividades religiosas em suas edificações, motivo pelo qual poderia gozar da imunidade. Desse modo, infere-se que a desoneração fora reconhecida em razão da compatibilidade com os requisitos indispensáveis para tanto.
+    Não cabe ao Supremo Tribunal Federal adotar conclusões diversas quanto ao cumprimento das condições necessárias à fruição da imunidade, visto que tal providência desborda da competência desta Corte. Aplica-se ao caso a Súmula 279/STF.
+    Agravo regimental a que se nega provimento”. (ARE 685.246-AgR, sob a minha relatoria)
+    Quanto à interposição pela alínea c, o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Constituição. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 02 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
