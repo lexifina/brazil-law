@@ -4,7 +4,7 @@ II - data da entrega;
 III - nome do credor e cláusula à ordem;
 IV - promessa pura e simples de entregar o produto, sua indicação e as especificações de qualidade e quantidade;
 V - local e condições da entrega;
-VI - descrição dos bens cedularmente vinculados em garantia;
+VI - descrição dos bens vinculados em garantia por cédula e das garantias pessoais existentes;
 VII - data e lugar da emissão;
 VIII - assinatura do emitente.
 § 1º Sem caráter de requisito essencial, a CPR poderá conter outras cláusulas lançadas em seu contexto, as quais poderão constar de documento à parte, com a assinatura do emitente, fazendo-se, na cédula, menção a essa circunstância.
