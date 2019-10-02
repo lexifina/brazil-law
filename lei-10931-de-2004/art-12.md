@@ -9,4 +9,4 @@ VI - os juros, fixos ou flutuantes, que poderão ser renegociáveis, a critério
 VII - a identificação dos créditos caucionados e seu valor;
 VIII - o nome do titular; e
 IX - cláusula à ordem, se endossável.
-§ 2º A critério do credor, poderá ser dispensada a emissão de certificado, devendo a LCI sob a forma escritural ser registrada em sistemas de registro e liquidação financeira de títulos privados autorizados pelo Banco Central do Brasil.
+§ 2º A critério do credor, poderá ser dispensada a emissão de certificado da LCI, cuja forma escritural será registrada ou depositada em entidade autorizada pelo Banco Central do Brasil a exercer a atividade de registro ou de depósito centralizado de ativos financeiros.

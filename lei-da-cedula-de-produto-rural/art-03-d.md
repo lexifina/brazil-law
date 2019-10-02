@@ -1,0 +1,2 @@
+Art. 3º-D A CPR poderá ser negociada nos mercados regulamentados de valores mobiliários, desde que registrada ou depositada em entidade autorizada pelo Banco Central do Brasil a exercer a atividade de registro ou depósito centralizado de ativos financeiros.
+Parágrafo único. A CPR será considerada ativo financeiro e a operação ficará isenta do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários, na hipótese de ocorrência da negociação de que trata o caput.

@@ -1,0 +1,1 @@
+Art. 3º-E As infrações às normas legais e regulamentares que regem a atividade de escrituração eletrônica sujeitam a entidade responsável pelo sistema eletrônico de escrituração, os seus administradores e os membros de seus órgãos estatutários ou contratuais ao disposto na Lei nº 13.506, de 13 de novembro de 2017.
