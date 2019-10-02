@@ -1,0 +1,11 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CONTRIBUIÇÃO ADICIONAL AO SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL (SENAI). COMPETÊNCIA DA UNIÃO PARA INSTITUIÇÃO DO TRIBUTO. TRANSFERÊNCIA APENAS DA CAPACIDADE TRIBUTÁRIO ATIVA AO SERVIÇO SOCIAL AUTÔNOMO. PARAFISCALIDADE. ARTIGOS 4º E 6º DO DECRETO-LEI 4.048/42. INTERESSE JURÍDICO E ECONÔMICO DO REFERIDO ENTE FEDERATIVO. COMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL. ARTIGO 109, INCISO I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. MANUTENÇÃO DA DECISÃO AGRAVADA. Recurso conhecido e desprovido”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 109, I; 149, III; 195; e 240, todos da Carta. Sustenta que: (i) a competência para dirimir a lide é da Justiça Comum; (ii) o SENAI é parte legítima para a cobrança da contribuição adicional prevista no art. 6º do Decreto-lei nº 4.048/42; (iii) o SENAI é pessoa jurídica de direito privado, devendo suas causas ser processadas e julgadas pela Justiça Comum; (iv) a presente lide não se enquadra em qualquer das hipóteses do artigo 109 da Constituição Federal.
+    A pretensão recursal não merece prosperar. Tratando-se de contribuição parafiscal instituída pela União, de rigor a competência da Justiça Federal. Nesse sentido, confira-se:
+    “Embargos de declaração no recurso extraordinário recebidos como agravo regimental. Competência da Justiça Federal. Interesse da União. Artigo 109, inciso I, da Constituição Federal. Precedentes. 1. A jurisprudência da Corte é firme no sentido de ser competente a Justiça Federal para processar as causas em que a União tenha interesse na lide e, no caso dos autos, houve manifestação expressa desse ente federativo sobre seu interesse. 2. Agravo regimental não provido”. (RE 627.852-ED, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 02 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
