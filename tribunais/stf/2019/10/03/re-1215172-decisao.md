@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª região, assim ementado (eDOC 2, p. 9/10):
+    “AÇÃO CIVIL PÚBLICA. CONSELHO PROFISSIONAL DE CORRETORES DE IMÓVEIS. LITISPENDÊNCIA. LEGITIMIDADE ATIVA DO MPF. LEGITIMIDADE PASSIVA DO CRECl/MS. RESOLUÇÕES COFECI 458/95 E 492/96. EXIGÊNCIA DE CONTRATO DE EXCLUSIVIDADE. RESTRIÇÃO NÃO PREVISTA EM LEI. ILEGALIDADE. DANO MORAL COLETIVO CONFIGURADO.
+    1- A matéria trazida a julgamento diz respeito à legalidade da cláusula de exclusividade presente nos contratos de corretagem de imóveis, para que seja possível a divulgação pública da venda, nos termos das Resoluções do COFECI n°s. 458/95 e 492/96.
+    2- as resoluções impugnadas foram editadas pelo COFECI, mas são aplicadas pelos Conselhos Regionais no âmbito de abrangência das respectivas regiões, de forma a atingir sujeitos diversos, portanto, as ações não são idênticas, não havendo litispendência entre elas.
+    3- No que se refere à legitimação passiva do CRECl/MS, estando o Conselho Regional como responsável pela fiscalização, divulgação e aplicação das resoluções impugnadas nos autos, bem como pela punição dos profissionais situados no âmbito de sua atuação, é patente sua legitimidade.
+    4- Ao exercer o poder regulatório que lhe foi conferido, o Conselho excedeu os limites impostos pela Lei 6.530/78, criando dispositivos que a norma não permitia, estabelecendo verdadeira restrição ao exercício profissional do corretor imobiliário, de forma a se verificar a ilegalidade do art. 1° da Resolução n°. 458/95 e nos arts. 1° e 2° da Resolução n°. 492/96, ambas do Conselho Federal de Corretores de Imóvel – COFECI.
+     5- Os requeridos, em cumprimento das Resoluções 458/95 e 492/96 ao exigirem dos corretores de imóveis, a observância da cláusula de exclusividade nos contratos de intermediação imobiliária para anunciar a oferta do imóvel, propiciaram lesão ao patrimônio moral da coletividade, consistente na restrição, tanto ao livre exercício da profissão dos corretores de imóveis, como na liberdade na liberdade de contratação de todos consumidores que necessitavam utilizar dos serviços dos serviços de intermediação, justificando a condenação em dano moral coletivo.
+    6- Apelações improvidas. Sentença mantida.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aduz-se violação do artigo 5º, II, V e X, da Constituição da República, buscando demonstrar a não configuração de danos morais coletivos e a ofensa ao princípio da legalidade.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE 945.271, de minha relatoria, DJe 16.6.2016 (Tema 880), a Corte decidiu que não há repercussão geral nos casos em que se discute indenização por dano moral decorrente de responsabilidade civil extracontratual, como no presente caso.
+    Ademais, Verifica-se que, ao julgar o RE-RG 950.787, de relatoria do Min. Luiz Fux, DJe 9.6.2016 (Tema  890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa aos princípios constitucionais da dignidade da pessoa humana, da propriedade, da legalidade e do devido processo legal ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 3 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
