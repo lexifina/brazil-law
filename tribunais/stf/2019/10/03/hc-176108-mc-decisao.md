@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – ARTIGO 318-A DO CÓDIGO DE PROCESSO PENAL – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Teodoro Sampaio/SP, no processo nº 1500355-34.2019.8.26.0627, converteu em preventiva a prisão temporária da paciente, ocorrida no dia 3 de julho de 2019, ante a suposta prática das infrações previstas nos artigos 33 (tráfico de drogas) e 35 (associação para o tráfico) da Lei nº 11.343/2006. Aludiu a interceptações telefônicas, tendo-as como indicativas do envolvimento em associação voltada ao narcotráfico na região do Pontal do Paranapanema. Ressaltou evidenciada a participação da paciente como depositária e intermediária dos entorpecentes entregues aos compradores. Concluiu necessária a custódia para assegurar a ordem pública, a instrução criminal e a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 527.356/SP, indeferido liminarmente pelo Relator.
+    O impetrante sustenta a insubsistência dos fundamentos da decisão por meio da qual imposta a preventiva, dizendo-a lastreada na gravidade abstrata do delito. Realça viável a prisão domiciliar, afirmando tratar-se de paciente mãe de duas crianças. Assinala indispensável a aplicação do artigo 318-A do Código de Processo Penal. Sublinha as condições pessoais favoráveis, primariedade, bons antecedentes, residência fixa e ocupação lícita.
+    Requer, no campo precário e efêmero, a revogação da custódia cautelar e, sucessivamente, a substituição da preventiva pela domiciliar. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 1º de outubro de 2019, revelou encontrar-se o processo-crime na fase de instrução.
+    A etapa é de exame da medida de urgência.
+    2. O Juízo, ao determinar a prisão preventiva, ressaltou a integração a associação criminosa articulada, voltada à prática de tráfico de drogas na região do Pontal do Paranapanema, reportando-se a interceptações telefônicas, audindo a função de intermediária desempenhada pela paciente. O quadro revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a medida mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Conforme se depreende da documentação apresentada, a paciente, Barbara Joana de Brito Ferreira, comprovou ser mãe de Kemilly Vitória da Silva, nascida no dia 29 de julho de 2014 e de Sophia Eduarda Ferreira Germano da Silva, nascida em 18 de agosto de 2017, ou seja, na data de hoje, respectivamente, com idades de 5 anos, 2 meses e 4 dias e 2 anos 1 mês e 15 dias. A existência de filho menor é insuficiente, por si só, a afastar a custódia, devendo-se observar os requisitos autorizadores da medida, versados no artigo 318-A do Código de Processo Penal, incluído pela Lei nº 13.769/2018, o qual prevê a substituição da custódia preventiva, gênero, pela domiciliar, quando o agente for mulher com filho de até 12 anos de idade incompletos, desde que o delito não tenha sido cometido com violência ou grave ameaça ou contra filho ou dependente. No caso, descabe acolher o que pretendido, considerado o fato de haver usado a própria residência, na qual postula recolhimento, para guardar produtos de origem ilícita.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
