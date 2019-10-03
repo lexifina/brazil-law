@@ -1,0 +1,17 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do RHC 116.614, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei 11.343/06, à pena de 6 anos e 3 meses de reclusão, em regime inicial semiaberto. Foi negado o direito de recorrer em liberdade.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Ceará, denegado, mas foi concedida ordem de ofício “para determinar a transferência do paciente para o estabelecimento prisional compatível com o regime semiaberto”. Na sequência, sobreveio a interposição de RHC no Superior Tribunal de Justiça. O Relator, Min. Joel Ilan Paciornik, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante afirma que “não estão presentes os requisitos necessários para manutenção da prisão preventiva”; sustenta que “o cumprimento antecipado da pena sem que tenha sido esgotado o duplo grau de jurisdição pela Segunda Instância afronta as mais recentes jurisprudências do país acerca do assunto e as condições pessoais do paciente”; e ressalta que o “paciente é primário, e possui uma ficha de antecedentes sem macula pendente. Possui ocupação lícita, (...), sendo um cidadão comum que nunca representou qualquer perigo para o convívio em sociedade”.
+    5. A defesa requer a concessão da ordem “para suspender a execução provisória da pena estando Recurso de Apelação pendente de julgamento, e/ ou sendo imediatamente decretada a revogação de prisão em favor de JOÃO DA SILVA PEREIRA, expedindo-se o competente alvará de soltura”.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. A petição inicial do habeas corpus não foi instruída com a cópia do decreto prisional cujos fundamentos foram ratificados pelo Juízo sentenciante. Circunstância que impede a exata compreensão da controvérsia, bem como atrai a orientação jurisprudencial do Supremo Tribunal Federal, no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    9. Ademais, não verifico ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício, notadamente se se considerar que o TJSP, ao analisar o HC lá impetrado, concedeu a ordem “para determinar a transferência do paciente para o estabelecimento prisional compatível com o regime semiaberto”.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 03 de outubro de 2019.
+Ministro Luís Roberto Barroso
+          Relator
