@@ -1,0 +1,3 @@
+Instrução CVM nº 615, de 2019
+Altera e revoga dispositivos das Instruções CVM 153, de 24 de julho de 1991; 186, de 17 de março de 1992; 227, de 23 de dezembro de 1994; 279, de 14 de maio de 1998; 356, de 17 de dezembro de 2001; 359, de 22 de janeiro de 2002; 398, de 28 de outubro de 2003; 399, de 21 de novembro 2003; 462, de 26 de novembro de 2007; 472, de 31 de outubro de 2008; 555, de 17 de dezembro de 2014 e 578, de 30 de agosto de 2016.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada em 30 de setembro de 2019, com fundamento no § 3º do art. 1368-C da Lei nº 10.406, de 10 de janeiro de 2002, com redação dada pela Lei 13.874, de 20 de setembro de 2019, APROVOU a seguinte Instrução:
