@@ -1,0 +1,5 @@
+# Lei nº 4.950, de 4 de outubro de 2019, do Estado do Amazonas
+
+REVOGA O ITEM VINTE E SEIS DO ANEXO ÚNICO DA LEI PROMULGADA N. 312, DE 18 DE FEVEREIRO DE 2016 QUE “DISPÕE SOBRE O TOMBAMENTO POR SEU INTERESSE ARQUITETÔNICO, HISTÓRICO E CULTURAL DAS EDIFICAÇÕES DE PROJETOS DO ARQUITETO SEVERIANO MÁRIO VIEIRA DE MAGALHÃES PORTO, CONSTRUÍDOS NO ESTADO DO AMAZONAS, E DÁ OUTRAS PROVIDÊNCIAS”.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10590>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2019/10590/lei_4950.pdf>
