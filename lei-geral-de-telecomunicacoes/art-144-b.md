@@ -1,0 +1,6 @@
+Art. 144-B. O valor econômico associado à adaptação do instrumento de concessão para autorização prevista no art. 144-A será determinado pela Agência, com indicação da metodologia e dos critérios de valoração.
+§ 1º O valor econômico referido no caput deste artigo será a diferença entre o valor esperado da exploração do serviço adaptado em regime de autorização e o valor esperado da exploração desse serviço em regime de concessão, calculados a partir da adaptação.
+§ 2º O valor econômico referido no caput deste artigo será revertido em compromissos de investimento, priorizados conforme diretrizes do Poder Executivo.
+§ 3º Os compromissos de investimento priorizarão a implantação de infraestrutura de rede de alta capacidade de comunicação de dados em áreas sem competição adequada e a redução das desigualdades, nos termos da regulamentação da Agência.
+§ 4º Os compromissos de investimento mencionados neste artigo deverão integrar o termo previsto no inciso IV do art. 144-A.
+§ 5º Os compromissos de investimento deverão incorporar a oferta subsidiada de tecnologias assistivas para acessibilidade de pessoas com deficiência, seja às redes de alta capacidade de comunicação de dados, seja aos planos de consumo nos serviços de comunicações para usuários com deficiência, nos termos da regulamentação da Agência.
