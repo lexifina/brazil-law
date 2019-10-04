@@ -1,0 +1,2 @@
+Art. 144-C. Para efeito do cálculo do valor econômico mencionado no art. 144-B, serão considerados bens reversíveis, se houver, os ativos essenciais e efetivamente empregados na prestação do serviço concedido.
+Parágrafo único. Os bens reversíveis utilizados para a prestação de outros serviços de telecomunicações explorados em regime privado serão valorados na proporção de seu uso para o serviço concedido.
