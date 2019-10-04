@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido formulado em ação de desapropriação. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, incisos II, XXXVI, LIV e LV, 30, incisos I e II, 48, inciso XIII, 150, inciso IV, e 192 da Constituição Federal. Alega cerceamento de defesa. Argui a nulidade do laudo pericial por ausência de impugnação. Diz ter sido o imóvel subavaliado.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    A avaliação prévia, como se sabe, é uma construção jurisprudencial para assegurar, antes da imissão provisória na posse, com fundamento nos preceitos da prévia e justa indenização, estimativa imparcial do valor da área expropriada.
+    Tal avaliação, entretanto, não se confunde com a perícia definitiva, prestando-se apenas a fornecer elementos para que o Juízo decida com segurança acerca do pedido de imissão, daí que nada justifica a antecipação do contraditório que somente tumultuaria o feito e atrasaria o desfecho do incidente.
+    A propósito o seguinte precedente desta C. Câmara:
+    AGRAVO DE INSTRUMENTO Ação de desapropriação Recurso contra decisão interlocutória que determinou a citação do expropriado antes de determinar a realização de laudo prévio pericial Inteligência do art. 15, caput e § 1º do Decreto-lei n. 3.65/1941 Laudo prévio que pode ser realizado inaudita altera parte Recurso provido. (TJSP; Agravo de Instrumento 2153094-46.2014.8.26.0000; Relator (a): Eduardo Gouvêa;Órgão Julgador: 7ª Câmara de Direito Público; Foro de Santa Cruz do Rio Pardo - 1ª. Vara Judicial; Data do Julgamento: 24/10/2014; Data de Registro: 29/10/2014)
+    Diferente seria a ausência de participação do expropriado na produção do laudo definitivo, o que, contudo, não ocorreu. O apelante, na petição de fls. 141/142, apresentou quesitos, devidamente respondidos pelo perito judicial a fls. 148/161. Indicou assistente técnico e apresentou laudo discordante a fls. 166/176, manifestando-se o perito judicial sobre a divergência a fls. 184/185.
+    Não há nulidade de citação quanto ao laudo prévio, pois conforme anteriormente exposto, a avaliação prévia pode ser realizada inaudita altera parte. Tampouco há nulidade de intimação do despacho saneador, pois o advogado do expropriado foi devidamente intimado, como se nota da certidão de fl. 137.
+    Portanto, beira a má-fé a alegação de cerceamento de defesa por falta de intimação ou participação na perícia judicial, razão pela qual não se vislumbra nesse aspecto a nulidade do laudo pericial ou da r. Sentença.
+    No mérito, o pedido de reforma da r. sentença, para fins de majoração do valor indenizatório, não merece ser conhecido, devido à falta de motivação recursal.
+    O apelante limita-se a trazer novos quesitos, ao invés de impugnar de forma clara, coesa e específica a fundamentação contida na r. sentença ou o conteúdo do laudo pericial acolhido pelo magistrado de origem.
+    A fundamentação, pois, restringe-se ao fato de o valor obtido pelo perito ser diferente do valor de mercado em 2012, de R$ 33.884,47. Entretanto, as razões encontram-se completamente dissociadas dos fundamentos do decisório, sem que possa inferir os possíveis motivos do pedido de reforma. Aliás, a própria pretensão do recorrente, do modo como redigida, não oferece elementos mínimos cognoscíveis da motivação do recurso, de tal sorte a refutar especificamente os fundamentos da sentença recorrida.
+    Há, portanto, ofensa ao princípio da dialeticidade recursal, previsto no art. 1.010, segundo o qual compete à parte recorrente apresentar a exposição dos fatos e dos direitos, bem como motivar o pedido de reforma, sob pena de não-conhecimento do meio impugnativo.
+    Somente pela análise do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária. Acresce a ausência de prequestionamento dos dispositivos tidos por violados.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 4 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
