@@ -1,0 +1,19 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. INADMISSIBILIDADE: OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Relatório
+    1. Em 9.10.2018, neguei provimento ao recurso extraordinário interposto por Alzeri Bormann ao fundamento de que a apreciação do pleito recursal exigiria a interpretação da legislação infraconstitucional aplicável à espécie (Lei n. 5.869/1973). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário (doc. 5).
+    2. Publicada essa decisão no DJe de 16.10.2018, Alzeri Bormann opôs em 24.10.2018, embargos de declaração e, em 7.11.2018, interpôs agravo regimental (docs. 6-10).
+    3. Em 8.1.2019, rejeitei os embargos de declaração (doc. 17), ficando pendente de exame o agravo regimental interposto contra a mesma decisão de desprovimento do recurso extraordinário.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O agravo regimental não pode ser conhecido.
+    5. O agravante apresentou dois recursos contra a decisão monocrática: embargos de declaração e agravo regimental.
+    6. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido da impossibilidade de interposição de dois recursos contra a mesma decisão, pelo princípio da unirrecorribilidade recursal.
+    Na espécie vertente, houve a interposição de dois recursos contra decisão monocrática, a ensejar o conhecimento apenas do primeiro recurso protocolizado, com a consequente preclusão consumativa quanto ao segundo. Confiram-se, por exemplo, os precedentes a seguir:
+    “AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. INTERPOSIÇÃO SIMULTÂNEA DE EMBARGOS DE DECLARAÇÃO E AGRAVO REGIMENTAL CONTRA O MESMO ATO DECISÓRIO. INADMISSIBILIDADE. PRINCÍPIO DA UNIRECORRIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. Segundo o princípio da unirrecorribilidade, é inadmissível a interposição simultânea de dois recursos contra a mesma decisão, salvo os casos previstos em lei. Precedentes. 2. Agravo regimental desprovido” (ARE n. 1.046.773-AgR-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 14.6.2019).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) CUMULATIVA INTERPOSIÇÃO DE DOIS (02) RECURSOS CONTRA A MESMA DECISÃO, FORA DAS HIPÓTESES LEGAIS INADMISSIBILIDADE OFENSA AO POSTULADO DA SINGULARIDADE DOS RECURSOS NÃO CONHECIMENTO DO SEGUNDO RECURSO EXAME DO PRIMEIRO RECURSO AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO QUESTIONADO RECURSO IMPROVIDO. O PRINCÍPIO DA UNIRRECORRIBILIDADE OU DA SINGULARIDADE DOS RECURSOS. - O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a cumulativa interposição, contra o mesmo ato decisório, de mais de um recurso. O desrespeito ao postulado da singularidade dos recursos torna insuscetíveis de conhecimento os demais recursos, quando interpostos contra a mesma decisão. Doutrina. O RECURSO DE AGRAVO DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. - O recurso de agravo a que se referem os arts. 545 e 557, § 1º, ambos do CPC, deve infirmar todos os fundamentos jurídicos em que se assenta a decisão agravada. O descumprimento dessa obrigação processual, por parte do recorrente, torna inviável o recurso de agravo por ele interposto. Precedentes” (ARE n. 711.664-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 13.11.2012).
+    Salvo os casos previstos em lei, inadmissível a interposição simultânea de dois recursos contra a mesma decisão.
+    7. Pelo exposto, não conheço do presente agravo regimental (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de outubro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
