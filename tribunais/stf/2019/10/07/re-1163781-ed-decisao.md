@@ -1,0 +1,19 @@
+Decisão: Trata-se de embargos de declaração, opostos por Corina Rodrigues Zerbinatti e Outro, contra decisão que negou seguimento ao recurso extraordinário, com fundamento na jurisprudência desta Corte, que não reconhece o direito de os servidores inativos transportarem para a nova carreira a mesma referência que possuíam na carreira antiga. Na oportunidade, assentei ainda que a discussão acerca do direito dos servidores à progressão automática prevista na Lei 1.080/2008 não foi analisada pelo acórdão recorrido, não podendo, portanto, ser conhecida no âmbito do recurso extraordinário.
+    Em suas razões, a embargante aduz vício no julgado, alegando, em síntese, que o tribunal a quo, no julgamento dos embargos de declaração opostos na apelação, enfrentou a questão referente à progressão automática prevista na Lei Complementar 1.080/2008 do Estado de São Paulo (eDOC 4).
+    Intimada sobre a oposição dos presentes embargos, o embargante se manifestou no sentido da rejeição dos embargos. (eDOC 10)
+    É o relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    No caso em apreço, assiste parcial razão ao embargante.
+    Após detida análise dos auto, verifica-se que, ao julgar os embargos de declaração, o tribunal a quo manifestou-se acerca da aplicação da Lei 1.080/2008:
+    “Reforce-se, ainda, que a disposição do art. 10, da Lei Complementar Estadual nº 1.080/2008, assim como afirmado no bojo do acórdão em relação ao procedimento de reenquadramento funcional, dedica-se exclusivamente aos casos de "confirmação de cargo de provimento efetivo", após cumprimento de estágio probatório pelos servidores da ativa, não se subsumindo, por óbvio, à hipótese dos embargantes, já inativos.” (eDOC 13, p. 167)
+    Entretanto, verifica-se que a matéria debatida restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição Federal, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do recurso quanto a esse ponto. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279.
+    Confiram-se, a propósito, os precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. LEI COMPLEMENTAR 1.080/2008 DO ESTADO DE SÃO PAULO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE 925.907-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 15.3.2018).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO FUNCIONAL. PRÉVIA ANÁLISE DA LEI COMPLEMENTAR ESTADUAL N. 1.080/2008. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. DECESSO REMUNERATÓRIO ALEGADO E NÃO COMPROVADO. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 947.950- AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 15.6.2016 ).
+    Ante o exposto, acolho parcialmente os embargos de declaração, sem efeitos modificativos, apenas para sanar a omissão apontada.
+    Publique-se.
+    Brasília, 7 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
