@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 514.468, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que foi decretada a prisão preventiva do paciente pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/06 (236,12g de crack).
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio HC no Superior Tribunal de Justiça. O Relator, Min. Nefi Cordeiro, indeferiu a liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência dos requisitos autorizadores da prisão preventiva, afirma que “o paciente possui condenações pretéritas, contudo (...) sua última condenação já ocorreu há mais de 06 anos”; e que a droga não pertencia ao paciente nem a sua companheira, ressaltando que “vinham vivendo uma vida digna, honesta, ambos trabalhando licitamente”.
+    5. A defesa requer “SEJA EXPEDIDO O CONTRAMANDADO DE PRISÃO, com imposição de medidas cautelares diversas da prisão (art. 319 CPP)”.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. A petição inicial do habeas corpus não foi instruída com cópia da decisão do Tribunal estadual. Circunstância que impede a exata compreensão da controvérsia, assim como atrai a orientação jurisprudencial do Supremo tribunal Federal (STF) de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    9. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a fundada probabilidade de reiteração criminosa justifica a decretação da custódia preventiva (HC 131.005-AgR, Rel. Min. Edson Fachin; HC 131.002, Rel. Min. Gilmar Mendes; HC 115.930, Rel. Min. Ricardo Lewandowski; HC 111.009, Relª. Minª. Cármen Lúcia). Ademais, a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    10. No caso, o juiz singular decretou a prisão preventiva do paciente sob o fundamento de que “o acusado já cumpriu pena por crime de mesma natureza e por porte ilegal de arma de fogo (...). Ademais, há informações de que a vultosa quantidade de entorpecentes (mais de duzentos gramas de crack) foi apreendida juntamente com balança de precisão, faca de corte e uma grande quantia em dinheiro (R$ 3.965,00 em notas diversas)”. De modo que não verifico situação de teratologia, ilegalidade flagrante ou abuso poder que autorize a concessão da ordem de ofício.
+    11. Por fim, registro que o Supremo Tribunal Federal possui o entendimento de que a “alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 07 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
