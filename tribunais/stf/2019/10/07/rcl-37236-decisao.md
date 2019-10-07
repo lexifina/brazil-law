@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Flávio Augusto Cruz Nogueira assevera haver a Relatora dos embargos de declaração nos embargos de declaração na apelação criminal nº 0008910-43.2003.8.08.0024, em curso no Tribunal de Justiça do Estado do Espírito Santo, inobservado o decidido, pelo Presidente do Supremo, ministro Dias Toffoli, no recurso extraordinário nº 1.055.941/SP.
+    Conforme argumenta, foi condenado à pena de 8 anos de reclusão ante a suposta prática do crime de lavagem de dinheiro. Narra a manutenção da óptica em apelação, redimensionada a sanção para 5 anos e 8 meses, em regime de cumprimento semiaberto. Afirma haver postulado a suspensão do processo-crime com base no paradigma, sem êxito, surgindo o alegado desrespeito.
+    Segundo esclarece, a acusação teve acesso a dados bancários obtidos pela Receita Federal juntamente a instituições financeiras e remetidos, sem ordem judicial, ao Ministério Público. Menciona o procedimento fiscal nº 11543.003787/2004-82, instaurado no âmbito de investigação criminal. Refere-se à existência de cheques por si emitidos cujo conhecimento decorreu da supressão do sigilo bancário, sem autorização da Justiça, utilizados para respaldar o acolhimento da denúncia formalizada. Discorre sobre a ilicitude das provas reunidas. Frisa inexistir, no paradigma, ressalva, para fins de suspensão, quanto ao grau de influência da prova colhida de forma irregular no tocante ao deslinde do processo-crime, bastando o envolvimento de discussão sobre o tema da transferência dos dados considerada persecução penal. Evoca jurisprudência.
+    Sob o ângulo do risco, diz da iminente determinação de início de cumprimento da pena.
+    Requer, no campo precário e efêmero, a suspensão do processo originário. Pretende a confirmação da medida acauteladora até o julgamento definitivo do extraordinário de nº 1.055.941.
+    2. A análise das peças que instruem a inicial revela haver a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo dirimido, em 15 de maio de 2019, declaratórios interpostos contra acórdão prolatado em apelação. Sobrevieram novos embargos de declaração, cujo relatório foi disponibilizado ante a liberação do processo para inclusão em pauta, estando pendente. Tendo o reclamante postulado a suspensão do processo levando em conta o decidido no recurso extraordinário nº 1.055.941/SP, a Relatora na origem limitou-se a assentar, no dia 30 de setembro último, caber ao Colegiado aferir se o caso envolve a mesma questão debatida no Tema nº 990 do repertório da repercussão geral. A adoção de tal providência não implica contrariedade ao paradigma.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 7 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
