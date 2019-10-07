@@ -1,0 +1,23 @@
+Despacho.
+    Vistos.
+    Em 2.4.2019, a Presidência do STF determinou a devolução destes autos ao Tribunal de origem por terem sido submetidas à sistemática da repercussão geral as questões trazidas no recurso extraordinário (Tema 800, Recurso Extraordinário com Agravo n. 835.833: ausência de repercussão geral).
+    Em 6.9.2019, o Terceiro Vice-Presidente do Tribunal local determinou o retorno dos autos ao Supremo Tribunal Federal destacando a natureza mista da decisão que não admitiu o recurso extraordinário, ou seja, “proferida com base no artigo 1.030, inciso I, alínea a, e inciso V, do Código de Processo Civil” e, também, que o referido tema já foi aplicado na parte da decisão que negou seguimento ao recurso com base na sistemática da repercussão geral.
+    Decido.
+    Com razão o Terceiro Vice-Presidente, haja vista que o tema de repercussão geral constante do despacho proferido em 2.4.2019 já foi aplicado pela Corte local na admissibilidade do recurso extraordinário.
+    Este Supremo Tribunal assentou não caber recurso ou outro instrumento processual para esta instância objetivando impugnar a decisão pela qual, na origem, aplica-se a sistemática da repercussão geral (v.g. ARE nº 1.124.876/DF-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia (Presidente), DJe 12/9/18; ARE nº 917.815/PE-AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe 29/6/201; e ARE nº 793.712/SP-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 2/12/15).
+    Na espécie vertente, todavia, apesar de todos os pontos suscitados no recurso extraordinário possuírem plena identidade com o mencionado tema de repercussão geral, o que já seria suficiente para se negar seguimento ao apelo extraordinário com base na sistemática da repercussão geral, na decisão de admissibilidade foram agregados outros fundamentos para não se admitir o recurso, o que resultou numa decisão de natureza mista e que, unicamente por este motivo, abre a via para interposição do agravo previsto no art. 1.042 do Código de Processo Civil no tocante aos demais óbices apontados.
+    Entretanto, as alegações da agravante não procedem.
+    O recurso extraordinário não foi admitido por ausência de ofensa direta à Constituição Federal e aplicação das Súmulas nº s 279, 282, 284 e 356 do STF.
+    Referidos óbices processuais, no entanto, não foram impugnados na petição do agravo. Nessa hipótese, a jurisprudência da Corte já assentou ser inviável o agravo em recurso extraordinário que não ataca especificamente todos os fundamentos da decisão de admissibilidade do recurso, a teor da Súmula 287/STF.
+    A propósito, confira-se o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Agravo contra a inadmissão do processamento do recurso extraordinário pelo juízo de origem. Fundamentos. Ausência de impugnação. Precedentes.
+    1. Segundo a firme jurisprudência do Supremo Tribunal Federal, devem ser impugnados, na petição do agravo, todos os fundamentos da inadmissão do apelo extremo.
+    2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.189.373/RS - AgR, Tribunal Pleno; Rel. Min. Dias Toffoli, DJe de 16/5/19).
+    Nesse sentido, destacam-se ainda os seguintes precedentes: ARE nº 1.123.973/AP – AgR, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18; ARE nº 1.076.524/SP – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 1º/2/19; ARE nº 1.161.442/PE – AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 1º/2/19; ARE nº 1.1.135.071/RJ – AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 17/9/18; ARE nº 890.639/SP – AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 10/10/17.
+    Ante o exposto, torno sem efeito o despacho de devolução do feito à origem e nego seguimento ao presente recurso (al. ‘c’ do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração, em 10% (dez por cento), do valor arbitrado em desfavor da parte ora recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Brasília, 7 de outubro de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
