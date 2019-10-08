@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO DE NULIDADE DA CITAÇÃO POR EDITAL. TODOS OS MEIOS PARA A LOCALIZAÇÃO ESGOTADOS. SÚMULA 7/STJ. CONDENAÇÃO COM PROVAS COLHIDAS NA FASE INVESTIGATIVA. PROVAS IRREPETÍVEIS E ANTECIPADAS. POSSIBILIDADE. SÚMULA 83/STJ. AGRAVO IMPROVIDO.
+1. A reversão da premissa fática de que esgotados todos os meios para localização da ré, a justificar a citação por edital, encontra óbice na Súmula 7/STJ.
+2. As provas irrepetíveis e antecipadas, como o laudo pericial e o mandado de busca e apreensão, produzidos nos autos do inquérito policial, podem servir como base para condenação.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que negou provimento ao agravo em recurso especial.
+Sustenta a defesa a não incidência da Súmula 7/STJ, alegando que a agravante foi citada por edital sem que fossem esgotados todas as diligências necessárias a sua localização, pois houve uma única tentativa de localização pessoal no endereço declinado na denúncia (fl. 724).
+Afirma que, considerando-se que o acórdão recorrido reconhece que, no caso dos autos, não foram empregadas todas as diligências necessárias para a obtenção do endereço da agravante, a alegação de violação ao art. 319, § 1º, do Código de Processo Civil c/c art. 3º do Código de Processo Penal, também não incide na restrição contida na Súmula 07 desta Corte Superior.
+Aduz, ainda, que é, pois, fato incontroverso que o magistrado singular se utilizou, exclusivamente, de elementos produzidos na fase de investigação preliminar para fundamentar o decreto condenatório contra a agravante, contrariando, portanto, o disposto no artigo 155 do Código de Processo Penal (fls. 727/728).
+Por fim, argumenta que o verbete sumular nº 83 do Tribunal da Cidadania apenas se aplica quando o recurso especial é interposto a partir de dissídio jurisprudencial, o que, a toda evidência, não é a hipótese utilizada no fundamento da decisão ora agravada (fl. 740).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi assim proferida:
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões recursais, aponta a defesa violação dos arts. 361, 564, III, "e", e 573, § 1º, todos do CPP; art. 319, § 1º, do CPC c/c art. 3º do CPP; art. 2º, § 2º, da Lei 8.906/94, ante a irregularidade do ato citatório; e art. 155 do CPP, diante da condenação baseada exclusivamente em elementos colhidos em fase investigatória.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+DECIDO.
+O Tribunal a quo deu parcial provimento ao apelo defensivo para absolver a ré da prática do delito do art. 273, § 1º, e 1º-B, inciso I, do Código Penal, com base no art. 386, III, do CPP, sendo a ré condenada à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e 193 dias-multa, no valor unitário de 1/30 do salário mínimo vigente à data dos fatos. A pena privativa de liberdade foi substituída por prestação de serviços à comunidade e prestação pecuniária de 5 salários mínimos.
+No que diz respeito à tese de irregularidade do ato citatório e de insuficiência de provas para condenação, uma vez que baseada exclusivamente em elementos colhidos em fase investigatória, o acórdão recorrido consignou que:
+1. Inicialmente, cumpre referir que a defesa foi devidamente intimada para apresentar as razões recursais, encerrando-se o prazo em 03.10.2016 (ev. 4). Cerca de sete meses após esta data, a apelante juntou as razões (ev. 13). Entendo que o não oferecimento ou a apresentação fora do prazo das razões recursais constitui mera irregularidade, não gerando nulidade do feito.
+2. A parte apelante enviou memoriais para o email deste gabinete e tratando-se de alegações de nulidade passo a analisá-las.
+Sustenta a irregularidade no ato citatório realizado por edital, referindo que não foram esgotados todos os meios para sua localização pessoal. Sem razão, contudo.
+No presente caso a acusada não foi localizada no endereço informado, tendo sido dito por sua irmã que ela estaria em São Paulo em lugar incerto sem data prevista para retorno. Em seguida a ré constituiu defensor para representá-la nestes autos, razão pela qual o MPF requereu a intimação do mesmo para que fornecesse o endereço em que a acusada se encontrava. Este mencionou que a acusada estaria em lugar incerto.
+Assim, restou comprovado que foram esgotados os meios para localização da ré, não havendo falar em nulidade da citação por edital, que foi feita nos termos do art. 361 do CPP. Ademais, ao constituir advogado para sua defesa nos autos em questão, a acusada tomou conhecimento da denúncia que lhe era imputada, não havendo ausência de defesa.
+Também não merece prosperar a alegação de que a condenação teria sido com base somente em elementos colhidos na fase de investigação.
+Como bem referiu o Magistrado, as provas irrepetíveis e antecipadas, como o laudo pericial e mandado de busca e apreensão, produzidos nos autos IPL, podem servir como base para uma condenação. Além disso, a ré não produziu qualquer prova em sua defesa e sequer compareceu à audiência para ser interrogada, mesmo depois de regularmente intimada para este fim por meio de seu advogado constituído.
+Afasto, portanto, as alegações trazidas em memoriais (fl. 406).
+Nesse contexto, para se chegar à conclusão diversa das instâncias ordinárias, segundo a qual, a defesa foi devidamente intimada para apresentar as razões recursais, tendo sido comprovado que foram esgotados os meios para localização da ré, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial, tendo em vista o óbice da Súmula 7/STJ, razão pela qual não há falar em nulidade da citação por edital.
+Relativamente à alegação de ofensa ao art. 155 do CPP, cumpre salientar que, nos termos da jurisprudência desta Corte, as provas irrepetíveis e antecipadas, como o laudo pericial e o mandado de busca e apreensão, produzidos nos autos do inquérito policial, podem servir como base para uma condenação. A propósito:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO BASEADA EXCLUSIVAMENTE EM PROVAS PRODUZIDAS DURANTE O INQUÉRITO. OFENSA AO ART. 155 DO CPP NÃO EVIDENCIADA. MAIORES INCURSÕES SOBRE O TEMA QUE DEMANDARIAM REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO DESPROVIDO.
+1. Conforme o reconhecido no decisum ora impugnado, se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor do delito descrito na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+2. O art. 155 do Código de Processo Penal preconiza estar vedada a condenação do réu fundada exclusivamente em elementos de informação colhidos durante o inquérito e não submetidos ao crivo do contraditório e da ampla defesa, ressalvadas as provas cautelares e não repetíveis. Segundo reiterada jurisprudência desta Corte, em atendimento ao princípio da livre persuasão motivada, tais provas, desde que corroboradas por elementos de convicção produzidos na fase judicial, podem ser valoradas na formação do juízo condenatório, como é a hipótese dos autos.
+3. Tratando-se de decreto condenatório transitado em julgado, sem que tenha sido vislumbrado o vício processual apontado pela defesa, descabe falar em revogação da custódia preventiva ou em aplicação de medida cautelar menos severa do apenado.
+4. Agravo não provido. (AgRg no HC 498.593/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019).
+Incide, pois, no tópico o comando da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo.
+Realmente, para se chegar a conclusão diversa das instâncias ordinárias, quanto a que a defesa foi devidamente intimada para apresentar as razões recursais, tendo sido comprovado que foram esgotados os meios para localização da ré, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial, tendo em vista o óbice da Súmula 7/STJ, razão pela qual não há falar em nulidade da citação por edital.
+Relativamente à alegação de ofensa ao art. 155 do CPP, cumpre salientar que, nos termos da jurisprudência desta Corte, as provas irrepetíveis e antecipadas, como o laudo pericial e o mandado de busca e apreensão, produzidos nos autos do inquérito policial, podem servir como base para uma condenação. Note-se que a sentença expressa servirem essas provas não apenas para definir a materialidade, mas também a autoria delitiva (fl. 198 - STJ), descabendo nova valoração da prova nesta via.
+Estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, inclusive quanto à alínea "a" do permissivo constitucional, por analogia.
+Ante o exposto, voto por negar provimento ao agravo regimental.
