@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Sergipe confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de roubo majorado pelo uso de arma de fogo, previsto no artigo 157, § 2º, inciso I, do Código Penal. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 5º, inciso XLVI, da Constituição Federal. Pleiteia a fixação da pena abaixo do mínimo legal, considerada a atenuante da confissão. Articula com a inconstitucionalidade do verbete nº 231 da Súmula do Superior Tribunal Justiça, tendo-o como contrário ao princípio da individualização da pena.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    APELAÇÃO CRIMINAL – roubo majorado por uso de arma de fogo (ARTIGO 157, § 2º, I, do CPB, antes do advento da Lei 13.718/2018) – INSURGÊNCIA RESTRITA À DOSIMETRIA – SEGUNDA FASE – CONFISSÃO – PLEITO DE VALORAÇÃO – INACOLHIDO – vedação – incidência da súmula 231 do STJ – entendimento diverso – HOMENAGEM AO COLEGIADO – consequência – PENA PROVISÓRIA MANTIDA NO MÍNIMO LEGAL – TERCEIRA FASE – arma de fogo – pleito de afastamento da majorante – INACOLHIDO – circunstância objetiva que se comunica a todos os réus – DESNECESSIDADE DE LAUDO PERICIAL DA ARMA DE FOGO – PRECEDENTES DO STJ – sentença mantida na íntegra – apelo conhecido e não provido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, o Tribunal, no recurso extraordinário nº 597.270/RS, relatado do ministro Cezar Peluso no Pleno, com acórdão publicado no Diário da Justiça de 5 de junho de 2009, reafirmou o entendimento jurisprudencial e concluiu pela impossibilidade de a circunstância atenuante conduzir à fixação da pena abaixo do mínimo legal. Confiram com a ementa:
+    AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 8 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
