@@ -1,0 +1,44 @@
+DECISÃO
+    Trata-se de Recurso Ordinário em Habeas Corpus, com pedido liminar, interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça (AgRg no Habeas Corpus 514.669/SP, Rel. Min. RIBEIRO DANTAS).
+    Consta dos autos, em apertada síntese, que o recorrente foi preso em flagrante, posteriormente sendo a prisão convertida em preventiva, pela prática, em tese, dos crimes do art. 33 e do art. 35, "caput", da Lei n. 11.343/06, na forma do art. 29 e do art. 69, ambos do Código Penal.
+    Inconformada, a defesa impetrou Habeas Corpus, com pedido liminar, perante o Tribunal de Justiça do Estado de São Paulo, postulando a revogação da prisão preventiva do recorrente, sob o argumento da presença dos pré-requisitos e pressupostos para a aplicação de medida cautelar diversa da prisão. A liminar foi indeferida.
+    Contra essa decisão, a defesa impetrou Habeas Corpus, com pedido liminar, no Superior Tribunal de Justiça, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, alegando, em linhas gerais, que o decreto preventivo não se encontra devidamente fundamentado e que o recorrente faz jus à aplicação das medidas cautelares diversas da prisão. Requereu, liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+    Por decisão monocrática, o Min. RIBEIRO DANTAS indeferiu liminarmente o habeas corpus, nos seguintes termos:
+    Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+    Sobre o tema, os seguintes precedentes:
+    [...]
+    No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+    Ante o exposto, indefiro liminarmente o habeas corpus.
+    Sobreveio, então, o Agravo Regimental no Habeas Corpus interposto pelo recorrente junto à Quinta Turma do Superior Tribunal de Justiça, relatoria do Min. RIBEIRO DANTAS, que, por unanimidade, negou provimento ao Agravo Regimental, conforme a ementa:
+    PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.
+    INDEFERIMENTO LIMINAR. TRÁFICO DE DROGAS E ASSOCIAÇÃO. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. SÚMULA 691/STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+    2. Na hipótese, não se verifica ilegalidade flagrante ou teratologia capaz de justificar pronunciamento antecipado deste Superior Tribunal de Justiça, não sendo o caso de mitigação do referido verbete sumular.
+    3. Agravo regimental não provido
+    Neste Recurso Ordinário Constitucional, a defesa do recorrente sustenta, em suma, não ter havido fundamentação plena e perfeita para a decretação da prisão preventiva do recorrente e, ainda, estarem presentes os pré-requisitos e pressupostos para aplicação de medida cautelar diversa da prisão, reiterando os fundamentos do habeas corpus impetrado. Requereu, assim, a revogação da prisão preventiva. Requereu, ainda, ao final do julgamento de mérito, a revogação da prisão preventiva do recorrente, com a aplicação de medida cautelar diversa da prisão.
+    É o relatório. Decido.
+    No caso de que se trata, o Superior Tribunal de Justiça nem chegou a analisar o pedido envolvendo a ausência dos requisitos necessários para a imposição da segregação antecipada.
+    Sendo assim, é inviável a esta SUPREMA CORTE conhecer do tema originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências (HC 153.595 AgR/MS, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 27/06/2018; HC 150.842 ED-ED/TO, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 27/06/2018; HC 155.971 AgR/SP, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/06/2018; HC 148.927 AgR/SP, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 19/06/2018 e HC 149.062 AgR/MS, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 22/06/2018).
+    Mesmo porque, para verificar o acerto ou o desacerto da decisão que converteu a prisão flagrancial em prisão preventiva é necessário aguardar o julgamento do Habeas Corpus pelas instâncias ordinárias. Aliás, como observado pelo Superior Tribunal de Justiça, não cabe Habeas Corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada:
+    Não obstante os argumentos trazidos pelo recorrente, estes não possuem o condão de infirmar a decisão agravada.
+    Consoante anteriormente explicitado, esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+    Sobre o tema, os seguintes precedentes:
+    [...]
+    No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+    Assim, o agravante não trouxe elementos aptos a infirmar a decisão ora agravada, razão pela qual merece subsistir por seus próprios fundamentos, na medida em que não se verifica ilegalidade flagrante ou teratologia capaz de justificar pronunciamento antecipado deste Superior Tribunal de Justiça, não sendo o caso de mitigação do referido verbete sumular.
+    Ante o exposto, nego provimento ao agravo regimental.
+    É o voto.
+    E para afastar a conclusão implementada pelas instâncias antecedentes seria necessário proceder à análise de fatos e provas, providência incompatível com esta via processual (HC 155.410 AgR/SP, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/06/2018; HC 154.119 AgR/PB, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 21/05/2018; HC 152.118 AgR/GO, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 17/05/2018; RHC 142.458 AgR/RR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 23/03/2018; HC 149.954 AgR/SP, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 06/02/2018 e RHC 136.511/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/10/2016).
+    Inclusive essa foi a mesma conclusão a que cheguei quando do julgamento do HC 171.746 (Rel. Min. ALEXANDRE DE MORAES, DJe de 30/05/2019), mantido pela Primeira Turma em sede de Agravo Regimental (transitado em julgado em 08/08/2019), consoante a seguinte ementa:
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES.
+    1. Incidência de óbice ao conhecimento da ordem impetrada neste Supremo Tribunal Federal, uma vez que se impugna decisão monocrática de Ministro do Superior de Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 27/8/2014; RHC 114.961, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+    2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 117.798, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014 ).
+    3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal.
+    4. Agravo Regimental a que se nega provimento.
+    Em conclusão, não há reparo a fazer, pois o Recurso Ordinário Constitucional não apresentou qualquer argumento apto a desconstituir os fundamentos apontados.
+    Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    Publique-se.
+    Brasília, 8 de outubro de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
