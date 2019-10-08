@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, em face de decisão mediante o qual o Tribunal Regional do Trabalho da 17ª Região manteve sentença de 1º grau que afirmava ilícita terceirização.
+    O reclamante sustenta, em síntese, a inobservância da autoridade da decisão desta Corte na ADPF 324 e no RE 958.252 ao manter-se a sentença de origem que estabelecia vínculo empregatício entre a obreira e a empresa tomadora com fundamento no exercício de atividade de natureza financiaria – fim da tomadora.
+    Dispenso a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A jurisprudência sedimentada desta Corte compreende que a estrita pertinência entre o ato reclamado e o parâmetro de controle decisório é pressuposto de abertura da via reclamatória, de modo que o remédio não se revela adequado na hipótese em que se persegue pronunciamento que desborde do ato apontado como paradigma:
+    “AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE Nº 42. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE DE TEMAS ENTRE O ATO RECLAMADO E O PARADIGMA DESTA CORTE. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. NEGATIVA DE SEGUIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (...) 2. Esta Corte assentou que constitui pressuposto de cabimento da reclamação a identidade material entre a decisão reclamada e o julgado tido como paradigma (...). 4. A reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual (...).” (Rcl 24.126 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 2.12.2016)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. OFENSA ÀS DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL NA ADI 4.424 E NA ADC 19. AUSÊNCIA DE ADERÊNCIA TEMÁTICA. INADEQUAÇÃO DA VIA RECLAMATÓRIA. 1. É inviável a reclamação que não demonstra a estrita aderência temática entre o ato reclamado e as decisões proferidas pelo Supremo Tribunal Federal, tidas como desrespeitadas. 2. Agravo regimental a que se nega provimento.” (Rcl 18.867 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 7.10.2016)
+    Esta Corte, ao apreciar a ADPF 324 e o RE-RG 958.252, Rel. Min. Luiz Fux (Tema 725), reconheceu a inconstitucionalidade do critério de distinção entre atividade-meio e atividade-fim para fins de definição da licitude ou ilicitude da terceirização, afastando a incidência da interpretação conferida pelo TST à Súmula 331 daquele Tribunal.
+    Da análise dos autos, verifica-se que o ato apontado como reclamado consiste na decisão que negou seguimento provimento a recurso ordinário, com fundamento nos seguintes argumentos sintetizados (eDOC 3, pp. 4-11):
+     “[...]
+    Processo suspenso para aguardar a Decisão a ser proferida pelo STF, sobre a repercussão geral, no julgamento do RE- 958252 (Id. 90Ea17).
+    Todavia, considerando que a ADPF 324 já foi julgada, ficando decidido pela constitucionalidade da terceirização de todas as etapas do processo produtivo das empresas, inclusive, das atividades-fim, prossegue-se na apreciação do recurso.
+    […]
+    Os documentos juntados aos autos não deixam dúvidas acerca dos produtos oferecidos pela Reclamante, dentre os quais, crédito pessoal, incluindo seguro e consignado, cartão de crédito, que são típicos de empresas do ramo financeiro.
+    Apesar de dizer que as funções não equivalem às atividades de instituição financeira, é óbvio que a empresa briga com a lógica, pois o trabalho de atender cliente, investigar sua capacidade financeira e conceder o empréstimo, cartão de crédito, não importando o meio, se cibernético ou fisicamente por telefone, constitui mero desdobramento da sua atividade, pois sem tal atendimento a empresa não vende o financiamento e se não vende, pode fechar as portas.
+    […]
+    Vê-se, portanto, que o conjunto probatório confirma as alegações da Reclamante e demonstra que ela, desde o início de sua contratação, prestava serviços em prol da DACASA FINANCEIRA, atuando verdadeiramente como Financiária, exercendo as funções de assistente de consignado, tesoureira e gerente de filial, o que atrai a aplicação da Súmula 55, do TST, já que o desempenho das funções é típico de bancários.
+    Assim, incabível seu enquadramento em qualquer outra categoria, senão na de financiário, nos termos da Súmula 55 do TST.
+    Dessa maneira, seu enquadramento sindical é determinado pela atividade econômica preponderante da empresa, o que atrai, portanto, a aplicação das disposições legais aplicáveis às financeiras.
+    Pouco importa que a Autora esteja filiada a outro sindicato (SINDICOMÉRCIÁRIOS), pois o enquadramento sindical, como dito, é determinado pela atividade econômica preponderante da empresa.
+    Logo, a Reclamante tem direito a perceber os direitos reconhecidos pela r. sentença em face do seu efetivo labor como financiário, não estando a Recorrente autorizada a proceder a discriminação de lhe pagar direitos inferiores aos que são outorgados à sua categoria e muito menos, de deixá-lo ao desamparo das normas coletivas aplicáveis, visto que tal ato configura violação direta ao art. 7º, inciso XXXII, in fine da CF/88 .
+    Além disso, a súmula 117 do C. TST não encontra aplicação nos autos, diante da previsão específica estabelecida na Súmula 55, também do C. TST.
+    Assim, não há como afastar o reconhecimento da Reclamante como financiária, determinando-se a aplicação das convenções coletivas desta categoria. “
+    Como se nota, há discrepância entre a decisão apontada como reclamada, fundada na isonomia dos bancários, e as razões invocadas na causa de pedir.
+    Assim, não há relação de estrita pertinência entre o ato reclamado e o parâmetro de controle, sendo imperioso seja reconhecido o descabimento da presente reclamação.
+    Destarte, a irresignação deve ser aviada pelas vias próprias, a tempo e modo, descabendo conferir à reclamação contornos de atalho processual ou sucedâneo recursal.
+    A reclamação, ademais, não constitui via adequada para debater premissas fáticas da decisão reclamada.
+    Pelo exposto, nos termos do art. 21, § 1º, do RISTF, nego seguimento à reclamação, ficando prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 8 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
