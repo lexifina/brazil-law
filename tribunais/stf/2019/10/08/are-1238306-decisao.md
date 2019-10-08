@@ -1,0 +1,10 @@
+DECISÃO
+    Cuida-se de Agravo contra decisão da instância de origem que, aplicando precedente desta CORTE formado sob a sistemática da repercussão geral (ARE 748.371-RG, Tema 660, Rel. Min. GILMAR MENDES), julgou, no ponto, prejudicado o Recurso Extraordinário, e, quanto ao mais, inadmitiu o apelo aos argumentos de que (a) o apelo extremo foi interposto sem a fundamentação necessária, o que faz incidir o óbice da Súmula 284/STF; (b) não houve o devido prequestionamento nos termos da Súmula 282/STF; (c) eventual ofensa à constituição Federal, se existente, seria meramente reflexa; e (b) a análise das razões recursais demandaria o revolvimento do conjunto fático-probatório dos autos, o que atrai o óbice da Súmula 279/STF.
+    Contra esses argumentos, a parte agravante sustenta, em síntese, que (a) não é caso de reanálise das provas mas, sim, de revaloração ; (b) houve violação direta à CF/88. No mais, reitera as razões recursais
+    A argumentação recursal não impugnou especificamente os motivos da decisão agravada, o que induz ao não conhecimento do Agravo. Nesse sentido: ARE 1.00.5678-AgR, Rel. Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, DJe de 21/3/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 8 de outubro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
