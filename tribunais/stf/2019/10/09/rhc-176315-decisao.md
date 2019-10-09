@@ -1,0 +1,37 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado pela Defensoria Pública da União, em favor de Marcos Maurício Batista, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no HC 509.708/SC.
+    Consta dos autos que o recorrente foi condenado pela prática do delito descrito no art. 155, caput, c/c o art. 14, II, do Código Penal, à pena de 10 meses de reclusão, a ser cumprida inicialmente em regime semiaberto.
+    Irresignada, a defesa interpôs apelação criminal no TJSC, postulando, em suma, o abrandamento do regime.
+    O recurso foi desprovido nos termos da ementa a seguir transcrita:
+    “APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO SIMPLES (ART. 155, CAPUT, DO CÓDIGO PENAL). SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA DEFESA. ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA 269 DO STJ. SEMIABERTO DEVIDAMENTE APLICADO.
+    - "Não é possível a fixação do regime inicial aberto ao réu reincidente condenado à pena inferior a 4 (quatro) anos de reclusão, ainda que as circunstâncias judiciais lhe sejam favoráveis. Exegese dos §§ 2º e 3º do artigo 33 do Código Penal, e do enunciado 269 da Súmula deste Superior Tribunal de Justiça" (STJ, HC 440.909/SC, Rel. Ministro Jorge Mussi, Quinta Turma, j. Em 7-6-2018). RECURSO CONHECIDO E NÃO PROVIDO”. (eDOC 1, p. 170)
+    Daí a impetração de habeas copus no STJ, que indeferiu liminarmente o writ por ausência de ilegalidade na individualização da pena.
+    Nesta Corte a impetrante reitera os pedidos pretéritos e enfatiza a ilegalidade na dosimetria da pena, haja vista a fixação de regime mais gravoso.
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    Isso porque o art. 33, §§ 2º e 3º, do Código Penal é claro ao dispor que constitui faculdade, e não obrigação, sujeita ao prudente arbítrio do magistrado, aplicar o regime aberto para o início do cumprimento da pena, examinadas as peculiaridades de cada caso.
+    Consta dos autos que o paciente foi condenado pela prática do crime previsto no artigo 155, caput, c/c o art. 14, II, do CP, à pena de 10 meses de reclusão, em regime inicial semiaberto.
+    Inicialmente, conforme já relatado, o Tribunal de origem, de maneira pormenorizada, manteve a fixação do regime semiaberto sob os seguintes fundamentos:
+    “O pleito, é de se dizer, não merece acolhimento.
+    O artigo 33 do Código Penal, ao discorrer sobre as diretrizes a serem analisadas quando da fixação do regime prisional inicial, estabelece que os reincidentes, independente do quantum de pena arbitrado, devem iniciar o cumprimento da reprimenda em regime fechado. A propósito, dispõe in verbis:
+    Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semiaberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.
+    [...]
+    § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+    a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+    b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto;
+    c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto.
+    § 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no Art. 59 deste Código.
+    Entretanto, o Superior Tribunal de Justiça, trazendo maior flexibilidade à regra no caso dos reincidentes, editou a Súmula nº 269, que assim dispõe: “É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais”.
+    No caso em tela, a reprimenda é inferior a quatro anos, o réu é reincidente e as circunstâncias judiciais lhe são todas favoráveis, de forma a autorizar a fixação do regime semiaberto, tal como estabelecido sentencialmente propósito: "Não é possível a fixação do regime inicial aberto ao réu reincidente condenado à pena inferior a 4 (quatro) anos de reclusão, ainda que as circunstâncias judiciais lhe sejam favoráveis. Exegese dos §§ 2º e 3º do artigo 33 do Código Penal, e do enunciado 269 da Súmula deste Superior Tribunal de Justiça" (STJ, HC 440.909/SC, Rel. Ministro Jorge Mussi, Quinta Turma, j. em 7-6-2018, DJe 15-6-2018).
+    Ademais, vale ressaltar que a utilização da reincidência para majorar a reprimenda na segunda fase da dosimetria e, ainda, agravar o regime prisional para o início do cumprimento da pena não configura bis in idem, conforme aventado pela Defesa. É que, em verdade, tal situação decorre de previsão da própria normativa penal pátria (art. 33, § 2º, alínea "c", do CP), sendo o agravamento apenas uma consequência irrefutável dos atos perpetrados anteriormente pelo apelante”. (eDOC 1, p. 172-173)
+    Desse modo, verifico que acórdão recorrido, ao manter o regime semiaberto, baseou-se na reincidência do réu, mesmo diante das circunstâncias judiciais favoráveis, de modo que tenho por plenamente justificada a imposição do regime mais severo.
+    Ressalto que conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional. Contudo, o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena.
+    Cito, a propósito, o seguinte precedente:
+    “Agravo regimental nos embargos de declaração no habeas corpus. 2. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Presença de circunstâncias judiciais desfavoráveis. 3. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5. Agravo improvido”. (HC-ED-AgR 169.956/SP, de minha relatoria, 2ª Turma, DJe 3.9.2019)
+    “PENA – REINCIDÊNCIA – SOBREPOSIÇÃO – ARTIGOS 61, INCISO I, DO CÓDIGO PENAL E 33, § 4º, DA LEI Nº 11.343/2006. A teor do artigo 61, inciso I, do Código Penal, cabe levar em conta, na fixação da pena, a agravante alusiva à reincidência, dado possível de ser considerado no exame da adequação da causa de diminuição versada no § 4º do artigo 33 da Lei de Drogas, voltada a criminosos primários.PENA – REGIME DE CUMPRIMENTO – FIXAÇÃO. Ante o disposto no artigo 33, § 2º, alínea “b”, do Código Penal, em se tratando de condenada reincidente, cuja pena seja estabelecida em mais de 5 anos, mostra-se viável o afastamento do regime intermediário”. (HC 162.140/SP, Rel. Min. Marco Aurélio, 1ª Turma, DJe 18.9.2019)
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, nego provimento ao recurso.
+    Publique-se.
+    Brasília, 9 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
