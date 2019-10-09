@@ -5,6 +5,7 @@ III - remeter, no prazo de 48 (quarenta e oito) horas, expediente apartado ao ju
 IV - determinar que se proceda ao exame de corpo de delito da ofendida e requisitar outros exames periciais necessários;
 V - ouvir o agressor e as testemunhas;
 VI - ordenar a identificação do agressor e fazer juntar aos autos sua folha de antecedentes criminais, indicando a existência de mandado de prisão ou registro de outras ocorrências policiais contra ele;
+VI-A - verificar se o agressor possui registro de porte ou posse de arma de fogo e, na hipótese de existência, juntar aos autos essa informação, bem como notificar a ocorrência à instituição responsável pela concessão do registro ou da emissão do porte, nos termos da Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento);
 VII - remeter, no prazo legal, os autos do inquérito policial ao juiz e ao Ministério Público.
 § 1º O pedido da ofendida será tomado a termo pela autoridade policial e deverá conter:
 I - qualificação da ofendida e do agressor;
