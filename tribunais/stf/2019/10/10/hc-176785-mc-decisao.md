@@ -1,0 +1,32 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Adriano Rocha Ramos contra ato coator proferido pela 6ª Turma do Superior Tribunal de Justiça, assim ementado:
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS. LESÃO CORPORAL CULPOSA. WRIT IMPETRADO NA ORIGEM JULGADO PREJUDICADO. SUPERVENIÊNCIA DE ACORDO DE TRANSAÇÃO PENAL. SITUAÇÃO DIVERSA DO SURSIS PROCESSUAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+    1. No caso, após o recebimento da denúncia, alterada a acusação, foi celebrado acordo de transação penal, motivo pelo qual o writ impetrado na origem, no qual se alegava a ausência de justa causa para a ação penal e a inépcia da denúncia, foi julgado prejudicado.
+    2. A transação penal, prevista no art. 76 da Lei n. 9.099/1995, prevê a possibilidade de o autor da infração penal celebrar acordo com o Ministério Público (ou querelante), mediante a imposição de pena restritiva de direitos ou multa, obstando o oferecimento de denúncia (ou queixa). Trata-se de instituto cuja aplicação, por natureza e como regra, ocorre na fase pré-processual, pois visa impedir a instauração da persecutio criminis in iudicio. E é por esse motivo que não se revela viável, após a celebração do acordo, pretender discutir em ação autônoma a existência de justa causa para ação penal. Trata-se de decorrência lógica, pois não há ação penal instaurada que se possa trancar.
+    3. Situação diversa ocorre com a suspensão condicional do processo, em relação a qual se admite a impetração, porquanto, neste caso, já foi deflagrada a ação penal, cuja denúncia foi recebida, revelando-se possível perquirir a existência ou não de justa causa.
+    4. Assim, somente se houver o descumprimento do acordo é que, concomitantemente, poderá ser deflagrada a ação penal, nos termos da Súmula Vinculante n. 35 do Supremo Tribunal Federal, e impetrado o habeas corpus para, daí sim, apontar a falha da incoativa ou a ausência de justa causa.
+    5. Ordem denegada.”
+    Conforme relatado, o paciente foi denunciado como incurso no art. 129 do Código Penal. Após o recebimento da denúncia, a acusação foi alterada para o tipo do art. 129, § 6º, do Código Penal.
+    Aponta-se que Adriano Rocha Ramos (o paciente) e André Silveira Pouso foram denunciados pela prática de lesão corporal culposa (art. 129, § 6º, do Código Penal), com pedido de reparação de danos no montante de R$ 100.000,00 (cem mil reais), pois, segundo a exordial, ambos teriam agido de forma negligente e descumprido as regras técnicas de sua profissão e o dever jurídico de cuidado em relação ao paciente.
+    Após o recebimento da denúncia, na audiência designada para a formulação de proposta de suspensão condicional do processo, o membro do Ministério Público atentou-se para a possibilidade de oferecer a transação penal, o que foi aceito pelo paciente.
+    A defesa, no entanto, já havia impetrado habeas corpus no TJDFT, apontando a inépcia da denúncia e a ausência de justa causa para a ação penal. Todavia, em razão da celebração do referido acordo, o habeas corpus foi julgado prejudicado.
+    No presente writ, alega a defesa que o habeas corpus impetrado na origem deveria ter sido conhecido, pois remanesce o interesse na apreciação das teses de inépcia da denúncia e de ausência de justa causa, mesmo tendo sido celebrado o acordo de transação penal.
+    Afirma que deve ser aplicado o mesmo entendimento dado à hipótese de suspensão condicional do processo, cuja implementação não impede a utilização do writ para discutir a existência de justa causa para ação penal.
+    No Superior Tribunal de Justiça, a ordem foi denegada por maioria, com dois votos divergentes, sob o argumento de que a transação penal, como regra, ocorre em fase pré-processual, não sendo viável que, após a celebração, se discuta a existência de justa causa para a ação.
+    Requer-se, liminarmente, a suspensão do pagamento ou, subsidiariamente que a última parcela em transação seja depositada em juízo até o deslinde da questão, a evitar o perecimento do presente habeas corpus.
+    Pede, ao final, seja determinado o julgamento do mérito do habeas corpus impetrado no TJDFT.
+    É o relatório.
+    Decido.
+    Nos termos do art. 76 da Lei 9.099/95, que regula a transação penal:
+    “Art. 76. Havendo representação ou tratando-se de crime de ação penal pública incondicionada, não sendo caso de arquivamento, o Ministério Público poderá propor a aplicação imediata de pena restritiva de direitos ou multas, a ser especificada na proposta.” (grifei)
+    Pela própria lógica da legislação atual, a transação penal somente pode ser oferecida se não for caso de arquivamento, ou seja, se houver potencial oferecimento de denúncia apta a ensejar o início do processo penal. Não se pode admitir que a transação penal possa impor obrigações a imputado que nem poderia ser submetido à persecução penal por ausência de justa causa ou atipicidade da conduta, por exemplo.
+    A celebração do acordo, por si só, não afasta o interesse do imputado no habeas corpus. Primeiramente, conforme decido por este Supremo Tribunal Federal, o descumprimento das cláusulas da transação penal permite o prosseguimento do processo. Além disso, a transação penal somente pode ser oferecida uma vez a cada cinco anos, de maneira a demonstrar interesse do paciente em sua desconstituição, por meio de eventual concessão da ordem.
+    No ponto, registro que, conquanto a lei 9.099/95 determina seja a transação ofertada antes da denúncia, o que, em tese, significaria ausência de ação, neste caso concreto, a denúncia havia sido oferecida e recebida pelo juízo de origem, de modo a ensejar pretensão legítima a buscar o trancamento do processo, ainda que se tenha anulado tal ato precursor do processo.
+    Desse modo, a priori, verifico plausibilidade na tese de que tem o paciente direito de ver seu pedido de habeas corpus apreciado pelo Tribunal de Justiça, tal como registrado pela divergência no Superior Tribunal de Justiça.
+    Dito isso, constatadas a plausibilidade do pedido e a iminência do vencimento da parcela a cujo pagamento se comprometeu o paciente no âmbito da transação penal (15.10.2019), concedo a medida liminar para suspender a referida obrigação até o julgamento do mérito deste habeas corpus.
+    Publique-se.
+    Comunique-se ao Juízo de primeiro grau, ao TJDFT e ao STJ, com a solicitação de informações.
+    Abra-se vistas à PGR.
+    Brasília, 10 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
