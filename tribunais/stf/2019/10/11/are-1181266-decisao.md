@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL JULGADA – AGRAVO – DESPROVIMENTO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido relativo aos depósitos do Fundo de Garantia do Tempo de Serviço – FGTS, considerada a nulidade da contratação temporária. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 37, inciso IX e 93, inciso IX, da Constituição Federal.
+    3. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    A decisão proferida está em conformidade com a conclusão do Supremo no julgamento do recurso extraordinário nº 596.478, sob a sistemática da repercussão geral – Tema 191 –, mediante a qual restou reconhecido o direito ao saldo de salários e aos depósitos do Fundo de Garantia do Tempo de Serviço – FGTS aos servidores que tiveram o trabalho com a Administração Pública declarado nulo em razão da inobservância da regra constitucional. Confiram:
+    RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. CONTRATO NULO. EFEITOS. RECOLHIMENTO DO FGTS. ARTIGO 19-A DA LEI 8.036/90. CONSTITUCIONALIDADE. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratado do empregado público, nos termos do art. 37, § 2°, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento.
+    Há mais: julgamento do recurso extraordinário nº 870.947, sob a sistemática da repercussão geral – Tema 810 – assentou o Tribunal, sem modulação de efeitos, que o artigo 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade.
+    4. Ante os precedentes, conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 11 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
