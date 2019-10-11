@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –  AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo modificou o entendimento do Juízo quanto ao pedido de tutela de urgência para determinar a suspensão de execução extrajudicial. No extraordinário, os recorrentes alegam violado o artigo 5º, inciso XXXVI, da Constituição Federal. Sustentam não haver sido caracterizada a mora. Articulam com a violação ao direito de propriedade.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Primeiramente, não há como acolher a alegação de inexistência de mora dos agravantes. A decisão que deferiu a tutela de urgência no curso da ação revisional de contrato n° 1026517-74.2014.8.26.0506 consignou expressamente que a autorização para consignação em juízo dos valores incontroversos não obstaria os efeitos da mora, de modo que, diante da improcedência do pedido revisional, com mais razão não se poderia considerar purgada a mora diante do levantamento das quantias depositadas pelos agravantes. Assim é que, ao tempo do restabelecimento do débito automático das prestações, as diferenças deixadas em aberto já haviam ensejado o vencimento antecipado do contrato e o início da execução extrajudicial da garantia fiduciária.
+    [...]
+    Portanto, não suspensos os efeitos da mora, estava o credor fiduciário autorizado a dar início à execução extrajudicial da garantia prestada pelos agravantes.
+    Contudo, ainda que os devedores tenham sido regularmente intimados a purgar a mora, conforme se infere dos documentos acostados aos autos (fls. 110/132), os agravantes também alegaram ausência de intimação pessoal a respeito das datas designadas para realização dos leilões extrajudiciais (fls. 133), circunstância confessada pela agravada […].
+    Assim, resta incontroverso que tal intimação não foi de fato promovida, havendo tão somente o envio de missiva a respeito da consolidação da propriedade do imóvel pelo credor fiduciário.
+    Nesse passo, é entendimento consolidado no âmbito do Superior Tribunal de Justiça a necessidade de prévia intimação do devedor fiduciante também a respeito das datas designadas para a realização de leilões extrajudiciais:
+    […]
+    Recente alteração legislativa, promovida pela Lei nº 13.465/17, incluiu o § 2-A ao art. 27 da Lei nº 9.514/97, para estabelecer o dever de o credor fiduciário comunicar o devedor a respeito das datas, horários e locais dos leilões extrajudiciais, prestigiando o entendimento consolidado pela jurisprudência.
+    Destarte, diante da incontestável ausência de intimação dos agravantes também para os leilões realizados, a lhe impedir de exercer o direito de preferência na compra do bem pelo valor da dívida, afigura-se razoável autorizar a suspensão da execução extrajudicial impugnada até final solução do litígio.
+    No caso, o que sustentado nas razões do extraordinário deixou de ser enfrentado pelo Órgão julgador, inexistindo debate e decisão prévios sobre a alegada ofensa à coisa julgada. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Alfim, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. O Pleno, ao apreciar, sob a sistemática da repercussão geral, o recurso extraordinário com agravo nº 748.371 assentou inexistente questão constitucional nessa situação quando o julgamento da demanda depender do prévio exame de norma legal. Eis o teor da ementa:
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+    (Recurso extraordinário com agravo nº 748.371, relator o ministro Gilmar Mendes, com acórdão publicado no Diário da Justiça de 1º de agosto de 2013)
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
