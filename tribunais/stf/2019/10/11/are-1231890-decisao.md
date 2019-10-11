@@ -1,0 +1,29 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Teresa Cristina de Oliveira Silva contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Pernambuco, está assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO. MUNICÍPIO DE CARUARU. ADICIONAL POR TEMPO DE SERVIÇO (QUINQUÊNIO). EXTINÇÃO A PARTIR DO ADVENTO DA EMENDA ORGANIZACIONAL Nº 7/2000. VÍCIO DE INICIATIVA DA EMENDA ORGANIZACIONAL. INEXISTÊNCIA. APELAÇÃO PROVIDA. DECISÃO UNÂNIME.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 60 e 61, § 1º, da Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora agravante, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Cumpre destacar, nesse contexto, que a questão ora em exame foi decidida com base no direito local (Lei Organizacional municipal nº 07/2000), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em aspectos fático-probatórios e em interpretação de direito local:
+    “O cerne da questão cinge-se em saber se a Emenda Organizacional nº 007/2000 padece de vício de iniciativa, e se o apelado faz ‘jus’ à percepção de adicional por tempo de serviço (quinquênios), referente ao período aquisitivo de 2005, 2010 e 2015.
+    A Emenda Organizacional nº 07/2000 vedou o pagamento de gratificação por tempo de serviço aos servidores municipais.
+    …...................................................................................................
+    A Emenda Organizacional, de iniciativa do Parlamento Municipal, não invadindo a esfera privativa do Chefe do Executivo, não criou cargos, funções e empregos públicos, nem tampouco aumentou a remuneração dos servidores da administração direta e autárquica, afastando-se da mácula de iniciativa argumentada pelo apelado, obedecendo a simetria com a Carta Magna.
+    …...................................................................................................
+    A apelada é servidora efetivo do Município desde 1/8/1990, vide doc. ID 1408911 – Pág. 1 com a vigência da Emenda Organizacional no ano de 2000, não houve oportunidade para que a apelada completasse o preenchimento do lapso temporal de 5 (cinco) anos de vínculo para adquirir o 3º, 4º e 5º quinquênio.”
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.210.699-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.212.111/PE, Rel. Min. CÁRMEN LÚCIA – ARE 1.214.292/PE, Rel. Min. GILMAR MENDES, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL POR TEMPO DE SERVIÇO. NECESSIDADE DE REEXAME DE PROVAS E DE NORMAS INFRACONSTITUCIONAIS LOCAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 279/STF E 280/STF. MAJORAÇÃO DE HONORÁRIOS. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2º, do CPC.
+    II – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais locais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. Incidência da Súmula 280/STF.
+    III – Consoante a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos.
+    IV – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4º, do CPC).”
+    (ARE 1.210.634-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 11 de outubro de 2019.
+Ministro CELSO DE MELLO
+Relator
