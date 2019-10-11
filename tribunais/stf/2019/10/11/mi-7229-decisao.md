@@ -1,0 +1,19 @@
+DECISÃO
+MANDADO DE INJUNÇÃO. AUSÊNCIA DE NORMA ATRIBUÍDA A COMPETÊNCIA DE PREFEITO MUNICIPAL. REVISÃO GERAL ANUAL DA REMUNERAÇÃO DE SERVIDORES MUNICIPAIS. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. MANDADO DE INJUNÇÃO NÃO CONHECIDO.
+Relatório
+    1. Mandado de injunção, impetrado em 9.10.2019, por Ana Paula Pinheiro da Cunha contra “o Prefeito Municipal de Monte Alegre de Goiás” (fl. 1, e-doc. 1), por suposta omissão na regulamentação da revisão geral anual da remuneração dos servidores públicos daquele Município, prevista no inc. X do art. 37 da Constituição da República.
+    2. A impetrante, servidora pública no Município de Monte Alegre de Goiás/GO, afirma que “no ano de 2018 o Impetrado promulgou a LEI n. 167/2018, que ‘institui a data-base e indexador para fins de revisão geral anual do vencimento e subsídio dos servidores e agentes políticos dos Poderes Executivo e Legislativo e dá outras providências. Contudo como dito, nos anos anteriores não foi concedida a revisão anual’” (fl. 2. e-doc. 1).
+    Assevera que “a ausência de revisão geral anual dos servidores públicos ocasiona danos irreparáveis à categoria, uma vez que a não edição de lei específica, acarreta violação de mandamento constitucional por omissão do Impetrado, gerando o empobrecimento do servidor público, pois a ausência de revisão geral acarreta em perda do poder de compra do salário recebido pelo servidor público, o que diminui, inclusive, sua dignidade” (fl. 2, e-doc. 1).
+    Cita precedentes do Supremo Tribunal Federal no sentido da necessidade de adequação das despesas públicas à lei de responsabilidade fiscal para fins de revisão remuneratória dos servidores, observado o comando constitucional de irredutibilidade do valor dos vencimentos.
+    Pede “seja reconhecido o estado de mora legislativa e deferida a injunção, determinando-se aos Impetrados que, no prazo de 60 dias, promovam a edição da norma regulamentadora, implantando o reajuste do ano de 2011, no contracheque do Impetrante com base no índice da inflação do ano de 2010 (6.47%), reajuste de 2012 em 6.08%, reajuste de 2013 em 6.20%, reajuste de 2014 em 5.56%, reajuste de 2015 em 6.23%, reajuste de 2016 em 11.28%, reajuste de 2017 em 6,58%, e reajuste de 2017 em 2,07%, com o pagamento das diferenças a que faz jus, inclusive sobre férias, décimo terceiro e demais gratificações, até a data do efetivo pagamento” (fl. 6, e-doc. 1).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. Nos termos da al. q do inc. I do art. 102 da Constituição da República, a competência originária deste Supremo Tribunal se restringe ao exame de mandado de injunção “quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, das Mesas de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal”.
+    Não se tem, no quadro descrito nos autos, a imputada omissão legislativa pela ausência de providência do prefeito municipal. Principalmente, não se demonstra competência deste Supremo Tribunal para cuidar da questão posta nos autos na sede eleita pela impetrante.
+    Nesse sentido, por exemplo:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA DE SERVIDOR PÚBLICO MUNICIPAL. DEVER DE LEGISLAR. OMISSÃO APONTADA A PREFEITO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA O FEITO. IMPETRAÇÃO A QUE SE NEGA SEGUIMENTO” (MI n. 6.470, Relator o Ministro Luiz Fux, DJe 2.2.2015).
+    “COMPETÊNCIA – MANDADO DE INJUNÇÃO – APOSENTADORIA – SERVIDOR PÚBLICO MUNICIPAL – OMISSÃO ATRIBUÍDA A PREFEITO E A CÂMARA MUNICIPAL – DECLINAÇÃO” (MI n. 7. 005, Relator Ministro Marco Aurélio, DJe 7.5.2019).
+    4. Pelo exposto, não conheço do presente mandado de injunção (art. 21 do Regimento Interno do Supremo Tribunal Federal).
+     Publique-se.
+    Brasília, 11 de outubro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
