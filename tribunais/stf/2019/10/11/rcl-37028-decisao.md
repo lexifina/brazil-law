@@ -1,0 +1,34 @@
+RECLAMAÇÃO CONSTITUCIONAL. MANDADO DE SEGURANÇA. CABIMENTO. SÚMULA Nº 20 DA TURMA RECURSAL DO JUIZADO FEDERAL DE SÃO PAULO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. INEXISTÊNCIA. RECLAMAÇÃO JULGADA IMPROCEDENTE.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, proposta por Paulo Afonso Nogueira Ramalho contra decisão proferida pela Nona Turma Recursal dos Juizados Especiais Federais da 3ª Região – Seção Judiciária de São Paulo, nos autos do Mandado de Segurança nº 002435-91.2019.4.03.9301, à alegação de ofensa à Súmula Vinculante nº 10.
+    2. Cuida-se, na origem, de mandado de segurança impetrado pelo ora reclamante contra ato judicial (sentença proferida nos autos do Processo nº 0001214-23.2019.4.03.6343) em que determinado oficiar a seccional da OAB/SP, em São Bernardo do Campo/SP, em razão de constar na procuração ad judicia o nome de Paulo Afonso Nogueira Ramalho, suspenso dos quadros da Ordem dos Advogados do Brasil.
+    3. A Turma Recursal extinguiu o processo sem resolução de mérito com fundamento no art. 485, I e VI, do Código de Processo Civil, forte em sua Súmula nº 20: “Não cabe mandado de segurança no âmbito dos juizados especiais federais. Das decisões que põem fim ao processo, não cobertas pela coisa julgada, cabe recurso inominado”.
+    4. Sustenta o reclamante, em síntese, violação da Súmula Vinculante nº 10, porquanto não poderia o enunciado da Súmula nº 20, da Turma Recursal do juizado Federal de São Paulo, afastar o cabimento do mandado de segurança.
+    5. Deixo de determinar a citação da parte beneficiária do ato judicial reclamado, bem como de solicitar informações à autoridade reclamada, em decorrência da manifesta inviabilidade da reclamação. Igualmente, dispenso a intimação do Procurador-Geral da República, em razão do caráter repetitivo do litígio.
+    É o relatório.
+    Decido.
+    1. A via estreita da reclamação constitucional (arts. 102, I, “l”, e 103- A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, desobediência à súmula vinculante ou descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nessa última hipótese, à mesma relação jurídica e às mesmas partes.
+    2. A pretensão deduzida na presente reclamação tem por pressuposto a contrariedade ao disposto na Súmula Vinculante nº 10, cujo teor é o seguinte: “Viola a cláusula de reserva de plenário (CF, artigo 97), a decisão de órgão fracionário de Tribunal que, embora não declare expressamente inconstitucionalidade de lei ou ato normativo do poder público, afasta a sua incidência, no todo ou em parte”.
+    3. O comando do aludido verbete obriga que, na análise a respeito de possível ofensa ao seu conteúdo, esta Corte investigue se o alegado afastamento de norma no caso concreto se deu em função de declaração explícita ou implícita de inconstitucionalidade de lei ou ato normativo do poder público.
+    4. Transcrevo o acórdão recorrido:
+    "Trata-se de mandado de segurança impetrado em face da decisão proferida pelo Juízo do Juizado Especial Federal de Mauá nos autos da ação nº 001214-23.2019.4.03.6343, ao determinar expedição de ofício à OAB/SP em São Bernardo do Campo, para o que couber, tendo em vista a suspensão do impetrante dos quadros da OAB.
+    Requer, por fim, que seja concedida a liminar para que seja determinada a imediata suspensão dos efeitos da sentença apenas no tocante a oficiar à OAB, e, ao final, a concessão da segurança.
+    É o relatório
+    II – VOTO
+    Ressaltando meu entendimento pessoal no sentido do não cabimento de Mandado de Segurança no âmbito dos Juizados Especiais, este juízo vinha admitindo o mandado de segurança como forma de impugnação de ato judicial.
+    Contudo, as Turmas Recursais de São Paulo se reuniram e pacificaram a questão, nos termos da Súmula 20, a seguir transcrita:
+    ‘Não cabe mandado de segurança no âmbito dos juizados especiais federais. Das decisões que põem fim ao processo, não cobertas pela coisa julgada, cabe recurso inominado.’
+    Referida decisão teve como fundamento o disposto no art. 3º, § 1º, I, da Lei 10.259/ 2001, a seguir transcrito:
+    ‘§ 1º - Não se incluem na competência do Juizado Especial Cível as causas:
+    I – referidas no art. 109, incisos II, III e XI, da Constituição Federal, as ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, execuções fiscais e por improbidade administrativa e as demandas sobre direitos ou interesses difusos, coletivos ou individuais homogêneos;’
+    Também nesse sentido transcrevo o seguinte julgado:
+    ‘EMENTA: RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5º, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5º, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento.’ ( RE 576847, Relator(a): Min. EROS GRAU, Tribunal Pleno, julgado em 20/05/2009, REPERCUSSÃO GERAL - MÉRITO DJe-148 DIVULG 06-08-2009 PUBLIC 07 -08-2009 RTJ VOL-00211- PP-00558 EMENT VOL-02368-10 PP-02068 LEXSTF v. 31, n. 368, 2009, p. 310-314)
+    Ante o exposto, indefiro a inicial de Mandado de Segurança, extinguindo o processo sem resolução do mérito, com fundamento 485, I e VI, do Código de Processo Civil.
+    É o voto."
+    5. Verifico que a Nona Turma Recursal dos Juizados Especiais Federais da Terceira Região – Seção Judiciária de São Paulo limitou- se a aplicar o enunciado da sua súmula de jurisprudência, alicerçada na interpretação da legislação infraconstitucional e em precedente de repercussão geral deste Supremo Tribunal.
+    6. Não há, na decisão reclamada, qualquer declaração explícita ou implícita de inconstitucionalidade de lei ou ato normativo do poder público a configurar ofensa à Súmula Vinculante nº 10.
+    7. Ausente violação da Súmula Vinculante nº 10, forte no art. 21, § 1º, do RISTF, nego seguimento à reclamação. Prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 11 de outubro de 2019.
+Ministra Rosa Weber
+Relatora
