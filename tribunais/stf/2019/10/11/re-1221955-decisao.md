@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 11):
+    “Estágio junto ao Ministério Público. Desvirtuamento de lei federal. Desvio da finalidade exclusiva de aprendizagem. Direito a verbas trabalhistas. Equiparação com o cargo de Analista da Promotoria. Indenização por falta de contratação de seguro. Ocorrência da prescrição. Recurso não provido.”
+    Os embargos de declaração forma parcialmente acolhidos para reconhecer a não configuração da prescrição, mantida, contudo, a sentença quanto ao mérito (eDOC 17).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 22, XXIV; e 130-A, da Constituição Federal. Nas razões recursais, sustenta-se, em suma, que o acórdão recorrido violou a competência privativa da União para legislar sobre diretrizes e bases da educação nacional, no sentido de estabelecer condições próprias para estágio. Sustenta-se, também, usurpação de competência do Conselho Nacional do Ministério Público, pois o Tribunal a quo teria deixado de aplicar decisão por ele proferida (eDOC 14).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, ao apreciar o recurso inominado, asseverou (eDOC 17, p. 3):
+    De qualquer sorte, observo que a r. sentença recorrida, ainda que tenha reconhecido a prescrição, também adentrou no exame do mérito, declinando que a atividade exercida pelo recorrente tinha finalidade exclusiva de aprendizado, sem confundir-se com vínculo empregatício, do que tinha ele ciência tanto ao iniciá-las como ao prorrogá-las, já graduado. Tampouco teria atuado em desvio de função, com as atribuições típicas do cargo de Analista de Promotoria, como alegou.
+    Com efeito, o recorrente desempenhou atividades de estagiário disciplinadas na Lei Complementar 734/1993 (editada em conformidade coma competência constitucional, e cujos elementos especializantes preponderam sobre as disposições da Lei 11.788/08), mediante o exercício transitório de funções auxiliares junto ao Ministério Público que não lhe confere vínculo empregatício com o Estado e tampouco lhe assegura vantagens ou direitos dos servidores públicos.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Complementar 734/1993, do Estado de São Paulo; Lei 11.788/2008). Desse modo, a discussão referente à natureza jurídica do vínculo entre as partes, bem como à ocorrência, ou não, de desacerto na interpretação dada à legislação de regência, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, além da atrair a incidência do óbice da Súmula 280 do STF, o que inviabiliza o processamento do recurso extraordinário.
+    Ante o exposto, nos termos do art. 932, IV, a, do CPC, nego provimento ao recurso. Nos termos do artigo 85, §11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 11 de outubro de 2019.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
