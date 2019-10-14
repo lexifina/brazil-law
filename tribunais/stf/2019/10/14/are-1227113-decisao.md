@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Conselho Regional de Engenharia e Agronomia de Minas Gerais contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “RECURSO DE REVISTA. APELO INTERPOSTO ANTES DA VIGÊNCIA DA LEI N.º 13.015/2014. CONSELHO PROFISSIONAL. ENTE PARAESTATAL. NECESSIDADE DE MOTIVAÇÃO DA DISPENSA. REINTEGRAÇÃO. RECURSO DE REVISTA QUE RETORNA A ESTA TURMA JULGADORA PARA NOVA APRECIAÇÃO DA MATÉRIA POR DETERMINAÇÃO DO STF EM RECURSO EXTRAORDINÁRIO. Atendendo à determinação do STF, foi o presente Recurso de Revista novamente apreciado e, segundo a nova orientação firmada no âmbito do TST, a dispensa de empregado de conselho representativo de categoria profissional deve ser motivada. Não ocorrendo tal motivação na hipótese dos autos, foi determinada a reintegração da Reclamante, com o pagamento dos consectários legais. Recurso de Revista parcialmente conhecido e provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 37, II e § 2º, e 41, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora agravante, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “Não há registro de ilegalidade na contratação da Autora, ocorrida ainda no ano de 1975, mesmo se considerarmos que no período de maio de 1991 a maio de 1993 prestou serviços para o Conselho reclamado em escritório próprio, e que foi readmitida em 3/5/1993. (...).”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora recorrente revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 14 de outubro de 2019.
+Ministro CELSO DE MELLO
+Relator
