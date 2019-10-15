@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – REPERCUSSÃO GERAL – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    José Toledo Marques Neto e Maria Ângela de Abreu Cabianca Marques afirmam haver o Tribunal de Justiça do Estado de São Paulo, no agravo de instrumento nº 2175678-68.2018.8.26.0000, olvidado o decidido no recurso extraordinário nº 605.709 e usurpado a competência do Supremo.
+    Segundo narram, no curso de determinada execução de título extrajudicial, tiveram penhorado bem de família. Sobreveio agravo de instrumento, no qual mantida a constrição. Interposto recurso extraordinário, foi inadmitido ante o assentado no extraordinário de nº 612.360. Não houve êxito em subsequente agravo. Declaratórios aguardam apreciação.
+    Mencionam o insucesso de pedidos de atribuição de eficácia suspensiva ao extraordinário protocolado, autuados como petições nº 7.985 e 8.016, distribuídos a Vossa Excelência, tendo em vista a ausência de devolutividade da matéria quando da formalização dos pedidos.
+    Distinguem a controvérsia versada na origem daquela objeto do paradigma da repercussão geral. Conforme argumentam, neste não estava em discussão a penhorabilidade de bem de família decorrente de fiança prestada em contrato de locação de imóvel comercial, tema debatido no caso concreto. Salientam que, no recurso extraordinário nº 605.709, o Supremo declarou, por maioria de votos, inadequada a constrição de bem nessa situação. Apontam violação dos artigos 5º, cabeça, incisos XXXVI, LIV e LXXVIII, 6º e 226, cabeça, da Constituição Federal. Segundo pontuam, uma vez impedida a sequência do agravo interposto em virtude da inadmissão do extraordinário, acabou usurpada a competência deste Tribunal.
+    Sob o ângulo do risco, aludem à iminência da excussão do bem.
+    Requerem, no campo precário e efêmero, a suspensão do acórdão impugnado. Buscam a cassação do pronunciamento atacado e a remessa do caso ao Supremo.
+    2. Faz-se em jogo admissibilidade de extraordinário protocolado no curso de execução de título extrajudicial, resultante de contrato de locação não residencial garantido mediante fiança. Permitida a penhora de bem de família dos fiadores, a óptica foi mantida em agravo de instrumento. Entendeu-se irrelevante, na origem, o envolvimento de locação comercial, a revelar inadequada a alegação de impenhorabilidade de imóvel nessa situação. Formalizado extraordinário, teve a sequência impedida, considerada a sistemática da repercussão geral, ante o assentado no extraordinário de nº 612.360, no qual fixada tese no sentido da possibilidade de constrição de bem de família pertencente a fiador em razão de contrato de locação.
+    O precedente não guarda pertinência com o caso concreto. Decidiu-se, no referido processo piloto da repercussão geral, observado o direito constitucional de moradia, sobre a problemática da garantia dada em decorrência de locação residencial. Uma vez em debate fiança prestada em ajuste voltado à locação de imóvel comercial, a situação concreta não se faz alcançada pelo entendimento. Ao julgar o recurso extraordinário nº 605.709, embora não sujeito ao regime da repercussão maior, a Primeira Turma chancelou a distinção. Na oportunidade, ao acompanhar o voto proferido pela ministra Rosa Weber, fiz ver:
+    […]
+    Não cabe distinguir onde a lei não distingue. Há manifestação de vontade do fiador, quer se trate de locação residencial, quer comercial. E não vejo como potencializar a livre iniciativa, o comércio, em detrimento de certo direito fundamental, o direito à moradia, proteção da própria família.
+    [...]
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, o curso do agravo de instrumento nº 2175678-68.2018.8.26.0000, em tramitação no Tribunal de Justiça do Estado de São Paulo.
+    4. Citem a interessada e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-geral da República.
+    5. Publiquem.
+Brasília, 15 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
