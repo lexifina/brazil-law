@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1912, de 11 de outubro de 2019
+Altera a Instrução Normativa RFB nº 1.291, de 19 de setembro de 2012, que dispõe sobre o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado (Recof).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 89 e 90 do Decreto-Lei nº 37, de 18 de novembro de 1966, e nos arts. 420 a 426 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
