@@ -1,0 +1,60 @@
+Trata-se de pedido do sentenciado Natan Donadon, formulado ao Juízo da Vara Criminal da Comarca de Vilhena/RO, para que seja reconhecido o direito ao indulto natalino de que trata o Decreto Presidencial 9.246/2017. Afirma, em apertada síntese, que satisfaz os requisitos objetivos e subjetivos previstos no referido decreto.
+     Ressalta, no entanto, que o Supremo Tribunal Federal não tem competência para a declaração da extinção da punibilidade, nos termos das disposições constantes na Lei 7.210/1984.
+    O Magistrado da 2ª Vara Criminal de Vilhena, no Estado de Rondônia, a quem foi delegada a execução da sentença condenatória, remeteu o pedido do indulto natalino para apreciação desta Suprema Corte (fl. 4.998).
+    O Vice-Procurador-Geral da República opinou “pelo reconhecimento do indulto ao sentenciado Natan Donadon, com a consequente declaração de extinção da punibilidade, nos termos do art. 107, II, do Código Penal”. (grifos no original)
+    É o relatório.
+    Bem examinados os autos, tenho que o pedido comporta acolhimento.
+    Cumpre assinalar, desde logo, que a Suprema Corte goza da competência para apreciação dos pedidos referentes à execução da pena imposta ao ora requerente.
+    A Constituição Federal de 1988, ao estabelecer a competência desta Suprema Corte, prescreveu:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (…)
+    m) a execução de sentença nas causas de sua competência originária, facultada a delegação de atribuições para a prática de atos processuais;”
+    A Lei 7.210/1984 de Execuções Penais, por seu turno, preceitua que:
+    “Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.”
+    No caso em exame, descortina-se incontroverso que o acórdão, objeto da execução, foi prolatado no âmbito deste Tribunal Constitucional.
+    Assinalo, a propósito, que o art. 341 do Regimento Interno do STF, com redação dada pela Emenda Regimental n. 41/2010, atribuiu ao Relator a competência para a condução da execução penal de acórdão oriundo desta Suprema Corte:
+     “Art. 341. Os atos de execução e de cumprimento das decisões e acórdãos transitados em julgado serão requisitados diretamente ao Ministro que funcionou como relator do processo na fase de conhecimento, observado o disposto nos arts. 38, IV, e 75 do Regimento Interno.”
+     Nesse contexto, o STF já deliberou especificamente sobre a matéria, verbis:
+    “1. É da competência do Presidente do Supremo Tribunal a prática de atos jurisdicionais de execução da pena privativa de liberdade, imposta pela Corte, no exercício de sua competência originária (Regimento Interno, art. 340, I, e Constituição Federal, art. 102, I, m). 2. Pedido de progressão ao regime aberto indeferido, por falta de satisfação do requisito temporal objetivo, estabelecido no art. 11 da Lei nº 7.210-84 (cumprimento de ao menos um sexto a pena no regime semiaberto).” (Pet 986 QO, Relator(a): Min. OCTAVIO GALLOTTI, Tribunal Pleno, julgado em 22/02/1995).”
+    Como se nota, as normas em regência atribuem ao STF a competência para a execução penal de seus acórdãos, ressalvada a faculdade de, por razões de conveniência e oportunidade, implementar-se delegação de atos jurisdicionais, excetuando-se, a meu sentir, os pronunciamentos que repercutam na higidez do próprio decisum, v.g. extinção da punibilidade, os quais deverão ser encaminhados diretamente ao Relator do processo na fase de conhecimento.
+     Assento, nesse sentido, que no bojo da AP 470/DF, concluiu-se:
+    “10. Por consequência, determinou-se que seja:
+    (…)
+    e) extraída carta de sentença, na forma da Resolução 113/2010 do CNJ e o seu subsequente encaminhamento e distribuição ao Juízo de Execuções Penais do Distrito Federal, ao qual fica delegada a competência para a prática dos atos executórios (inclusive emissão da guia de recolhimento), excluindo-se da delegação a apreciação de eventuais pedidos de reconhecimento do direito ao indulto, à anistia, à graça, ao livramento condicional ou questões referentes à mudança de regime de cumprimento de pena, por qualquer motivo, os quais deverão ser dirigidos diretamente a esta Corte, assim como outros pedidos de natureza excepcional, em que o juízo entenda conveniente ou necessário o pronunciamento do Supremo Tribunal Federal.” (AP 470 QO-décima primeira, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 13/11/2013).
+    E mais: a simples delegação de atos jurisdicionais não importa deslocamento de competência. Some-se a isso que o pedido formulado busca, pela via do indulto, a desconstituição da própria eficácia do título judicial.
+    Logo, a meu sentir, há manifesto potencial de repercussão na autoridade da decisão emanada do STF, a legitimar, portanto, a competência privativa da Suprema Corte para a análise do pedido de reconhecimento do indulto natalino.
+    2. Superado o impasse atinente à competência, passo a apreciação do pedido alusivo à extinção da punibilidade, nos moldes previstos no inc. II, do art. 107, do Código Penal.
+    Registro, de saída, que o indulto foi estabelecido no artigo 84, XII, da Carta de Direitos de 1988, restando atribuído ao Presidente da República, privativamente, a oportunidade de concedê-lo, ressalvada, no entanto, proibição expressa ou implícita extraída do próprio texto constitucional, conforme, v.g, restrição constante do artigo 5º, XLIII.
+    No caso em exame, o Presidente da República editou, no dia 21.12.2017, o Decreto 9.246, em que “concede indulto natalino e comutação de penas e dá outras providências”. E o art. 1º, inc. I, desse ato normativo estabelece que:
+    “Art. 1º O indulto natalino coletivo será concedido às pessoas nacionais e estrangeiras que, até 25 de dezembro de 2017, tenham cumprido:
+     I – um quinto da pena, se não reincidentes, e um terço da pena, se reincidentes, nos crimes praticados sem grave ameaça ou violência à pessoa;”
+    Nessa quadra, o Plenário do STF, no julgamento da ADI 5874, ao promover a análise do referido Decreto, concluiu, por maioria, que será possível ao Poder Judiciário analisar somente a constitucionalidade da concessão da clemencia principis, e não o mérito, compreendido aqui como juízo de conveniência e oportunidade do Presidente da República, verbis:
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DIREITO PENAL E PROCESSO PENAL. INDULTO. COMPETÊNCIA PRIVATIVA DO PRESIDENTE DA REPÚBLICA (CF, ART. 84, XII) PARA DEFINIR SUA CONCESSÃO A PARTIR DE REQUISITOS E CRITÉRIOS DE CONVENIÊNCIA E OPORTUNIDADE. PODER JUDICIÁRIO APTO PARA ANALISAR A CONSTITUCIONALIDADE DA CONCESSÃO, SEM ADENTRAR NO MÉRITO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE.
+    1. A Constituição Federal, visando, principalmente, a evitar o arbítrio e o desrespeito aos direitos fundamentais do homem, previu a existência dos Poderes do Estado, independentes e harmônicos entre si, repartindo entre eles as funções estatais.
+    2. Compete ao Presidente da República definir a concessão ou não do indulto, bem como seus requisitos e a extensão desse verdadeiro ato de clemência constitucional, a partir de critérios de conveniência e oportunidade.
+    3. A concessão de indulto não está vinculada à política criminal estabelecida pelo legislativo, tampouco adstrita à jurisprudência formada pela aplicação da legislação penal, muito menos ao prévio parecer consultivo do Conselho Nacional de Política Criminal e Penitenciária, sob pena de total esvaziamento do instituto, que configura tradicional mecanismo de freios e contrapesos na tripartição de poderes.
+    4. Possibilidade de o Poder Judiciário analisar somente a constitucionalidade da concessão da clementia principis, e não o mérito, que deve ser entendido como juízo de conveniência e oportunidade do Presidente da República, que poderá, entre as hipóteses legais e moralmente admissíveis, escolher aquela que entender como a melhor para o interesse público no âmbito da Justiça Criminal.
+    5. Ação Direta de Inconstitucionalidade julgada improcedente.”
+     Como se vê, o Decreto Presidencial 9.246/2017 permanece hígido em sua integralidade, surtindo validamente, por consectário lógico, seus efeitos.
+    Por seu turno, o requerente preenche todos os requisitos objetivos, fixados de modo geral e abstrato pelo ato presidencial em 21 de dezembro de 2017, para o gozo do benefício do indulto, conforme demonstrado no cálculo de liquidação da pena (fl. 4.969) e no parecer do Parquet, verbis:
+    “[...]
+    Após o trânsito em julgado da sentença que condenou o sentenciado Natan Danadon à pena de 13 (treze) anos, 4 (quatro) meses e 10 (dez) dias de reclusão e 66 dias-multa, em regime inicialmente fechado, pela prática dos crimes de peculato e associação criminosa (fl. 4.297), a Suprema Corte delegou a execução penal ao Juízo de Primeiro Grau (fls. 4.754/4.756).
+    [...]
+    O Juízo da Vara de Execuções Penais do Distrito Federal concedeu a progressão para regime semiaberto, em 15/7/2015, informando, na oportunidade, o recolhimento da pena de multa pelo sentenciado (fl. 4.793/4.799).
+    [...]
+     Para atingir a fração de um quinto exigida, o sentenciado deveria cumprir 2 anos, 8 meses e 2 dias de pena até 25 de dezembro de 2017. No entanto, entre a data de início do cumprimento da peça, 28/06/2013, e 24/20/2017 (carta de liquidação de sentença aportada aos autos referente ao ano de 2017 – fl. 4969), o sentenciado já havia cumprido 5 anos, 5 meses e 5 dias, com o cômputo dos dias remidos, que se inserem como pena efetivamente cumprida, para todos os efeitos (art. 128 da LEP).
+    Impede registrar, portanto, que no marco temporal estabelecido no Decreto Presidencial (25/12/2017) houve o transcurso temporal exigido para a concessão do indulto.” (Fls. 5.008 – 5.014 -grifos no original)
+    No que concerne ao aspectivo subjetivo, malgrado o pedido não tenha sido instruído com parecer emitido pelo Conselho Penitenciário (art. 70, I, da LEP), ainda assim considero preenchido o requisito subjetivo necessário à concessão do indulto, na linha da manifestação do Vice-Procurador da República e das informações do Juízo da Execução Penal, que assentaram, nessa quadra, que o sentenciado cumpriu as condições impostas para a concessão da liberdade condicional (fl. 4.983).
+    Convém destacar, outrossim, não existir notícias nos autos sobre eventual infração disciplinar ou qualquer outro impedimento previsto no art. 4º, do Decreto Presidencial 9.246/2017, verbis:
+    “Art. 4º O indulto natalino ou a comutação não será concedido às pessoas que:
+    I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto;
+    II - tenham sido incluídas no Regime Disciplinar Diferenciado, em qualquer momento do cumprimento da pena;
+    III - tenham sido incluídas no Sistema Penitenciário Federal, em qualquer momento do cumprimento da pena, exceto na hipótese em que o recolhimento se justifique por interesse do próprio preso, nos termos do art. 3º da Lei 11.671, de 8 de maio de 2008; ou
+    IV - tenham descumprido as condições fixadas para a prisão albergue domiciliar, com ou sem monitoração eletrônica, ou para o livramento condicional, garantido o direito aos princípios do contraditório e da ampla defesa.”
+    Ante o exposto, DECLARO extinta a punibilidade do sentenciado Natan Donandon, com fulcro no art. 107, inciso II, do Código Penal, e nos termos do Decreto nº 9.246/2017.
+    Oficie-se, ainda, ao Juízo da 2ª Vara Criminal de Vilhena (Estado de Rondônia), para que adote as medidas necessárias ao cumprimento desta deliberação, encaminhando a esta Corte, no prazo de 60 (sessenta) dias, cópia de tudo quanto providenciado.
+    Publique-se.
+    Brasília, 15 de outubro de 2019.
+Ministro Ricardo Lewandowski
+Relator
