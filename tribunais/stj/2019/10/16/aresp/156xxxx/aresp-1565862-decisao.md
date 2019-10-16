@@ -1,0 +1,37 @@
+DECISÃO
+
+Trata-se de agravo apresentado por SAINT GERMAIN DISTRIBUIDORA DE VEÍCULOS LTDA e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Indenizatória por danos materiais e morais.
+Demora superior ao prazo ajustado, na execução dos reparos de veículo por oficina credenciada da própria concessionária.
+Sentença de procedência.
+Apelação.
+Preliminar de Ilegitimidade passiva.
+A existência das condições da ação deve ser aferida in status assertionis , ou seja, segundo as asserções da parte autora que, na inicial, afirmou a falha na prestação dos serviços prestados pelos réus, de modo que eventual constatação em concreto e já no curso do processo, de situação diversa, não conduz à extinção do processo sem resolução de merecimento, mas à improcedência da ação, pena de se aderir à vetusta teoria concreta da ação, desde a Anspruch alemã vencida.
+Atraso do fabricante do veículo na remessa das peças necessárias ao reparo, que não repercute na legitimidade da parte ré, mas apenas a legitima, eventualmente, ao respectivo regresso.
+Incontroverso o fato de que a autora ficara por 65 dias sem carro em função de reparo que não se dera no tempo ajustado, respondem os réus pelo dano material decorrente do aluguel do veículo pela autora, tanto mais quando solicitado por diversas vezes o fornecimento de carro reserva.
+Falha na prestação dos serviços prestados ao consumidor, de que não se recolhe lesão a direito da personalidade da pessoa, por isso que do episódio - de que não se recolhe, in re ipsa , dano qualquer -- não lhe resultara comprovada eventual repercussão por tal direito, para além dos aborrecimentos que fazem parte da vida de relação. (Súmula 75, TJRJ)
+Recurso parcialmente provido (fl. 202).
+Quanto à controvérsia, alega a violação do art. 18, caput e § 1º, do CDC, no que concerne a ser indevido o pagamento de indenização a título de danos materiais, por ausência de falha na prestação de serviços, trazendo os seguintes argumentos:
+13. - Ocorre que, É FATO INCONTROVERSO NOS AUTOS A DISPONIBILIZAÇÃO DE VEÍCULO RESERVA A PARTIR DO 05/03/15, OU SEJA, 31º DIA DE REPARO, conforme foi demonstrado pela própria Recorrida à fl. 32, sustentado pelas Recorrentes e jamais impugnado, por refletir a realidade, tendo em vista que o veículo foi deixado nas dependências da Recorrida no dia 04/02/15 (fl. 25).
+14. - Ora Exas. também é incontroverso e constam nos recibos de fls. 26/31 que os danos materiais são relativos aos primeiros 30 dias de reparo.
+15. - Em outras palavras: a manutenção da condenação consiste em flagrante violação ao art. 18, §1º, CDC, o qual confere aos fornecedores (Recorrentes) o prazo de 30 dias para realização de reparos, inexistindo determinação de disponibilização de veículo reserva ou de custeio do deslocamento do consumidor
+ ..
+16. - Como se vê, é inequívoco que o mencionado dispositivo legal tem um viés duplo, haja vista que ao mesmo tempo em que estabelece direitos ao consumidor, ao exigir a solução de vícios nos produtos, prevê, por outro lado, direito aos fornecedores, qual seja, o de lhes ser oportunizada a possibilidade de correção dos vícios no prazo de 30 dias.
+17. - É indiscutível o direito do fornecedor ao período de 30 dias para sanar o problema. E, inobstante o reparo tenha levado cerca de 60 dias, a partir do 31º dia foi disponibilizado um veículo reserva, fato incontroverso e conforme demonstrado pela própria Recorrida à fl. 32.
+ ..
+19. - Assim, flagrante a afronta ao disposto pela referida norma legal, visto que incabível a procedência do pedido relacionado ao pagamento de danos materiais no curso do prazo concedido pela lei ao fornecedor para realizar o reparo, a ausência de falha na prestação do serviço é tão latente que foram afastados os danos morais!
+20. - Inclusive oportuno salientar que o Juízo sentenciante se equivocou ao concluir que o problema no veículo da Recorrida era decorrente de vícios, por certo ele deixou de observar o veículo já foi adquirido como usado com cerca de 35.500 km rodados (fl. 23), pelo que a necessidade de substituição de peças e/ou realização de reparos é absolutamente natural.
+21.- Ou seja, no caso em tela, não se trata de vício no produto, mas da necessidade de reparos em função do desgaste natural dos componentes do carro pelo simples uso, portanto, o prazo previsto no art. 18 do CDC sequer deveria ser aplicado ao caso em tela (fls. 215/217).
+É o relatório. Decido.
+Quanto à primeira controvérsia, o acórdão recorrido assim se manifestou:
+3. No mérito, como se vê da narrativa inaugural, cuida-se de ação indenizatória em decorrência de falha na prestação dos serviços dos réus - concessionária vendedora do veículo, e oficina por ela própria credenciada, consubstanciada na demora em procederem aos reparos necessários no veículo comprado pela autora, seja pela ausência de peças de reposição, seja pela de prazo para a conclusão dos reparos, e que ensejara a locação de automóvel pelo período em que impossibilitada de fazer uso do bem.
+Incontroverso no processo o fato de que a autora ficara por 65 dias sem carro em função de um reparo que não se dera em tempo razoável, respondem os réus pelo dano emergente e decorrente do aluguel do veículo pela autora, tanto mais quando solicitado por diversas vezes o fornecimento de carro reserva, sem sucesso, entretanto.
+3.1 É verdade que os réus com a disponibilização de automóvel para uso da autora, mas prova alguma fizeram em tal sentido. Ao revés, os e-mails trocados entre aquela, os réus e o Presidente da Citro n registram as negativas ao respectivo pleito, tanto pela concessionária St Germain, como pela [NOME]. (Índice eletrônico 32).
+Correta, portanto, a condenação dos réus à composição do dano decorrente do aluguel de veículo automotor, devidamente comprovada, a partir do término do prazo previsto para reparos do veículo adquirido à ré St. Germain, concessionária Peugeot (fls. 207/208).
+Assim, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
