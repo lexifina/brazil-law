@@ -1,0 +1,14 @@
+DECISÃO
+
+Trata-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. COISA JULGADA MATERIAL. INOCORRÊNCIA. AUXÍLIO-DOENÇA - CONVERSÃO PARA APOSENTADORIA POR INVALIDEZ. REQUISITOS. QUALIDADE DE SEGURADO. INCAPACIDADE LABORAL. CARÊNCIA. CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. PRECEDENTES DO STF E STJ. TUTELA ANTECIPADA. MULTA DIÁRIA. VALOR. REDUÇÃO. LITIGÂNCIA DE MÁ-FÉ.
+Alega violação do art. 508 do Código de Processo Civil, no que concerne à violação a coisa julgada, trazendo o seguinte argumento:
+ No caso deste processo, a parte autora está lançando mão de nova lide para suscitar questões que poderia ter alegado em seu favor na primeira ação, concernentes ao mérito da causa, isto é, está apresentando questões que não foram arguidas por ela na lide original, mas que poderiam ter sido por dizerem respeito ao mérito, e que agora estão acobertadas pela eficácia preclusiva da coisa julgada em decorrência do julgamento das ações nº 5004258-70.2011.404.7004 e nº 2011.70.61.000475-0 (fls. 268).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à identidade dos elementos caracterizadores da coisa julgada, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+A jurisprudência do STJ firmou-se no sentido de que, "em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ (AgInt no AREsp n. 784.774/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/4/2018).
+Confiram-se ainda os seguintes precedentes: EDcl no REsp n. 1.183.633/MS, relator Ministro Og Fernandes, Segunda Turma, DJe de 9/4/2018; AgInt no AREsp n. 1.152.834/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 18/12/2017; e AgInt no REsp n. 1.635.812/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 27/4/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
