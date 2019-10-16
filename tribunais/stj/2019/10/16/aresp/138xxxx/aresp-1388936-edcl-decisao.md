@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO EVIDENCIADA. RECURSO INTEGRATIVO ACOLHIDO, COM EXCEPCIONAL ATRIBUIÇÃO EFEITO INFRINGENTE AO JULGADO.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (e-STJ fl. 524):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O embargante aduz, em suma, que " ..  se trata de agravo de instrumento ofertado em face de decisão proferida nos autos de ação de desapropriação, constata-se clara dificuldade de mensuração da porcentagem dos honorários" (e-STJ fl. 530).
+Ao final, requer o acolhimento dos embargos de declaração.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No presente caso, os embargos declaratórios merecem acolhimento em razão da ocorrência de contradição. Isso porque " ..  o recurso especial é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais, motivo pelo qual não se arbitra honorários recursais (art. 85, § 11, do CPC/2015)" (AgInt no AREsp 1.371.753/RS, Rellator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 10/4/2019).
+Ainda nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS. 1. Caso em que o acórdão embargado concluiu: a) a Primeira Seção do STJ, no julgamento dos Recursos Especiais 1.003.955/RS e 1.028.592/RS, Rel.
+Min. Eliana Calmon, em 12.8.2009, com rejeição dos Aclaratórios em 24.3.2010, consolidou o entendimento de que deve ser afastada a incidência cumulativa de juros remuneratórios e moratórios sobre o crédito da devolução do empréstimo compulsório reconhecido por sentença judicial; b) a jurisprudência do STJ é pacífica no sentido de que, "na hipótese dos critérios de devolução do empréstimo compulsório sobre o consumo de energia elétrica instituído em favor da Eletrobrás, os juros moratórios e remuneratórios não incidem simultaneamente (EREsp 826.809/RS)" (AgRg nos EDcl no REsp 859.012/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 27.11.2012), pois "é inviável a cumulação dos juros remuneratórios de 6% ao ano com qualquer outro índice. Os remuneratórios incidem apenas até a data do resgate, e os moratórios, a partir da citação" (EDcl no AgRg no Ag 1.305.805/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2.2.2011).
+2. In casu, ao julgar o Agravo de Instrumento interposto na origem, o Tribunal a quo não fixou honorários sucumbenciais, razão pela qual são indevidos os honorários recursais ora pleiteados.
+3. De outra sorte, constato que, a despeito de o Recurso Especial ter sido parcialmente provido, não se consignou expressamente o reflexo da decisão na distribuição dos ônus sucumbenciais. Com efeito, a sucumbência recíproca é efeito implícito da decisão que reconheceu o provimento apenas parcial do pleito da ora embargante.
+De qualquer forma, o STJ entende cabíveis Embargos de Declaração para explicitar tal fato.
+4. A proporção da sucumbência recíproca será aferida pelo juízo da execução, tendo por base o percentual em que reduzido o montante exequendo após adequação dos cálculos aos termos da decisão proferida no Recurso Especial.
+5. Embargos de Declaração acolhidos, sem efeitos infringentes, exclusivamente para explicitar a distribuição recíproca dos ônus de sucumbência, cuja proporção será aferida pelo juízo da execução (EDcl no REsp 1.7254.36/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJe 19/6/2019) (os grifos são nossos).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. SERVIDÃO ADMINISTRATIVA. IMISSÃO LIMINAR NA POSSE. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Não se conhece do recurso especial que se fundamenta na existência de divergência jurisprudencial, mas se limita, para a demonstração da similitude fático-jurídica, à mera transcrição de ementas e de trechos de votos, assim como tampouco deduz texto argumentativo quanto aos preceitos legais supostamente interpretados de modos dissentâneos. Hipótese, por extensão, da Súmula 284/STF.
+2. Não cabe a condenação em honorários recursais em julgamento de recurso especial tirado contra acórdão que na origem aprecia agravo instrumento e não fixa a mesma verba.
+3. Agravo conhecido para não conhecer do recurso especial (AREsp 1.404.188/RN, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/2/2019) (os grifos são nossos).
+A existência de contradição legitima atribuir efeito infringente ao julgado, a fim de que seja decotada a condenação em honorários recursais.
+Isso posto, acolho os embargos de declaração, com excepcional atribuição de efeito infringente ao julgado, com o fim de decotar, do decisum embargado, a condenação em honorários recursais.
+Publique-se. Intimem-se.
