@@ -1,0 +1,26 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANDANDO DE SEGURANÇA. PRETENSÃO DE REAFIRMAÇÃO DO TERMO INICIAL DO BENEFÍCIO. RECEBIMENTO ATRASADOS. DESCABIMENTO. VIA ELEITA. SÚMULA 269/STF. AGRAVO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com base na alínea a do art. 105, III da Carta Magna, contra Acórdão do Tribunal Regional Federal da 3a. Região, assim ementado:
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. AGRAVO LEGAL. PARCELAS DE BENEFÍCIO EM ATRASO. INADEQUAÇÃO DA VIA ELEITA.
+I - Recurso recebido como agravo legal.
+II - Agravo legal, interposto por [NOME], em face da decisão monocrática que negou seguimento ao seu apelo, com fundamento no artigo 557, caput do C..P.C, uma vez que o writ não pode ser utilizado como substitutivo da ação de cobrança.
+III - O agravante alega que o pedido deduzido no mandamus é no sentido de alterar a data fixada para o início do pagamento do benefício, que não seria no dia 05 de abril de 2000, mas, sim, 01 de dezembro de 1998, não se cuidando, portanto, de cobrança de atrasados. Reitera possuir direito líquido e certo à sua pretensão.
+IV - O impetrante, na inicial, informa que deu entrada ao pedido de aposentadoria por tempo de serviço junto ao INSS em 01/12/1998, sendo que seu benefício foi concedido com DIB em 22/03/2000. Afirma que o INSS, sem qualquer justificação, seqüestrou-lhe o montante vencido (de 01/12/98 a 22/02/2000), bloqueando-lhe a posse de bem absolutamente e inquestionavelmente integrante de seu patrimônio. Aponta a ilegalidade do ato e o abuso do poder, eis que "não há na lei autorização para essa retenção dos créditos". Alega que seu pleito visa compelir a autoridade impetrada a afastar os impedimentos ilegais que criou e que impedem que se aposse do que lhe pertence. Pleiteia a concessão de liminar, justificando o periculum in mora no fato de que, apesar do INSS estar pagando as prestações, "não retira das mensalidades referentes ao período do confisco a natureza alimentícia". Pugna pela procedência do pedido para que seja determinado à autoridade coatora que afaste o óbice ilegal e cumpra a obrigação de fazer, cessando a retenção arbitrária, imotivada e absolutamente dolosa, desimpedindo sua fruição.
+V - Não há como negar que a pretensão do impetrante, na verdade, é de pagamento das parcelas atrasadas do benefício.
+VI - Segundo a Súmula nº 269 do Egrégio Supremo Tribunal Federal, o writ não pode ser utilizado como substitutivo da ação de cobrança.
+VII - Decisão monocrática com fundamento no art. 557, caput e § 1º-A, do C.P.C., que confere poderes ao relator para decidir recurso manifestamente improcedente, prejudicado, deserto, intempestivo ou contrário a jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, sem submetê-lo ao órgão colegiado, não importa em infringência ao CPC ou aos princípios do direito. Precedentes.
+VIII - É assente a orientação pretoriana no sentido de que o órgão colegiado não deve modificar a decisão do Relator, salvo na hipótese em que a decisão impugnada não estiver devidamente fundamentada, ou padecer dos vícios da ilegalidade e abuso de poder, e for passível de resultar lesão irreparável ou de difícil reparação à parte.
+IX - In casu, a decisão está solidamente fundamentada e traduz de forma lógica o entendimento do Relator, juiz natural do processo, não estando eivada de qualquer vício formal, razão pela qual merece ser mantida.
+X - Agravo legal improvido.
+2. Nas razões do seu Apelo Especial, sustenta a parte agravante que o Mandado de Segurança não busca substituir ação de cobrança, mas, sim, o reconhecimento do direito líquido e certo ao termo inicial do benefício na data do requerimento administrativo.
+3. É o relatório.
+4. Cinge-se a controvérsia à verificação da existência da intenção de se atribuir natureza de ação de cobrança ao presente mandamus. Colhe-se do acórdão a seguinte constatação:
+Com efeito, ainda que ostente o impetrante a qualidade de segurado da Previdência Social, e que aponte ato lesivo de autoridade, a segurança não pode prosperar, por absoluta impropriedade da via eleita.
+Trata-se, na verdade, de pleito visando o recebimento de parcelas de que se acha credor, correspondentes a período pretérito.
+Em outras palavras o impetrante pretende cobrar da Autarquia seu crédito através da via estreita do mandamus.
+Segundo a Súmula nº 269 do Egrégio Supremo Tribunal Federal, o wirt não pode ser utilizado como substitutivo da ação de cobrança.
+A sentença que denegou a segurança, na trilha dessa orientação, deve ser, portanto, mantida.
+5. Pela leitura do excerto transcrito constata-se que o escopo principal do presente Mandado de Segurança é o recebimento dos atrasados referente ao benefício de aposentadoria, implementada apenas em março/2000, restando não pagas as parcelas referentes ao período de dezembro/1998 até fevereiro/2000.
+6. Sendo assim, tendo-se como objetivo, precipuamente, a percepção de proventos atrasados, descabe a utilização do mandado de segurança, ex vi da Súmula 269 do STF, assim afirmando: O mandado de segurança não é substitutivo de ação de cobrança.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Particular.
+8. Publique-se. Intimações necessárias.
