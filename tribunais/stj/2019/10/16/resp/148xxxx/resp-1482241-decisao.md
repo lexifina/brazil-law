@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional contra acórdão proferido pelo TRF da 1ª Região assim ementado (e-STJ, fl. 839):
+PROCESSUAL CIVIL E TRIBUTÁRIO - AGRAVO REGIMENTAL - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO, VIA LIMINAR OU TUTELA ANTECIPADA - AÇÃO ANULATÓRIA DE DÉBITO FISCAL - CTN, ART. 151 - POSSIBILIDADE - PRESCRIÇÃO E DECADÊNCIA - COMPENSAÇÃO - VIABILIDADE DA TESE DA HOMOLOGAÇÃO TÁCITA CONSUMADA - REQUISITOS DA LIMINAR PRESENTES.
+1. Possibilidade de suspensão da exigibilidade do crédito tributário, via liminar ou tutela antecipada: CTN, art. 151.
+2. A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco - Súmula 436/STJ. A data da declaração ou a data do vencimento - o que ocorrer depois - é o termo a quo do prazo prescricional para a cobrança do crédito tributário (art. 174 do CTN).
+3. Procedida a compensação, o Fisco tem o prazo máximo de 05 (cinco) anos para homologá-la, sob pena de reputar-se tacitamente homologada, nos termos dos arts. 74, §§ 2º, 4º e 5º, da Lei n. 9.430/1996. Irrelevância da discussão sobre eventuais causas de suspensão ou interrupção da prescrição, quando já consumada a homologação tácita da compensação. Precedentes.
+4. Relevantes são, portanto, os fundamentos da demanda. Periculum in mora presente. Incidência do art. 151 do CTN.
+5. Agravo regimental não provido.
+Conforme despacho de e-STJ, fl. 944, as partes foram intimadas para se manifestarem, no prazo de 10 dias, sobre a prolação de sentença na ação que deu origem ao agravo de instrumento objeto deste recurso especial.
+Em petição de e-STJ, fls. 948-964, a parte recorrida pronunciou-se " ..  pela prejudicialidade do recurso especial oriundo de decisão interlocutória, em razão da superveniência de sentença de mérito proferida nos autos da Ação Anulatória" (e-STJ, fl. 949).
+Decorrido o prazo assinalado, vieram os autos conclusos sem manifestação da entidade fazendária (certidão de e-STJ, fl. 965).
+É o relatório.
+O presente recurso especial opõe-se a acórdão proferido em agravo de instrumento contra decisão interlocutória, na qual foi deferida a tutela antecipada em ação anulatória de débito fiscal.
+Na origem, foi proferida sentença de mérito no feito principal. Tal circunstância, conforme orientação da jurisprudência desta Corte Superior, implica a perda de objeto da questão resolvida por decisão interlocutória e impugnada por agravo de instrumento.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. OCORRÊNCIA. TEMPESTIVIDADE DO RECURSO ESPECIAL COMPROVADA. POSSIBILIDADE À ÉGIDE DO CPC DE 1973. RECURSO TIRADO DE AGRAVO DE INSTRUMENTO QUE DISCUTE CONCESSÃO DE TUTELA DE URGÊNCIA. SUPERVENIÊNCIA DA SENTENÇA NA AÇÃO PRINCIPAL COM TRÂNSITO EM JULGADO. PERDA DE OBJETO DO RECURSO ESPECIAL. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES PARA CONHECER DO AGRAVO A FIM DE DECLARAR A PERDA DE OBJETO DO RECURSO ESPECIAL.
+ ..
+2. O presente recurso especial foi tirado de acórdão que julgou agravo de instrumento manejado em face de decisão que deferiu parcialmente o pedido de antecipação de tutela, de modo que a superveniência da sentença, bem como do trânsito em julgado da ação, implica a perda de objeto do presente recurso. Com efeito, é cediço nesta Corte que "fica prejudicado, por perda de objeto, o exame de Recurso Especial interposto contra acórdão proferido em Agravo de Instrumento de decisão liminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença de mérito" (AgRg no AREsp 307.087/RS, Rel. Ministro Og Fernandes, Segunda TURMA, DJe de 25/06/2014). No mesmo sentido: AgInt no AREsp 879.434/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19/12/2016; REsp 1.591.827/PB, Rel. Ministro Herman Benjamin, segunda Turma, DJe de 08/09/2016;AgRg no AREsp 663.910/RO, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 22/03/2016; AgRg no REsp 1.413.651/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/12/2015; REsp 1.351.883/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14/05/2015; AgRg no AREsp 51.857/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe de 26/05/2015.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para sanar o erro material relativo à tempestividade do recurso especial e conhecer do agravo para declarar a perda de objeto do recurso especial.
+(EDcl no AgInt no AREsp 1.344.445/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/6/2019, DJe 10/6/2019)
+Ante o exposto, julgo prejudicado o recurso especial por perda de objeto.
+Publique-se. Intimem-se.
