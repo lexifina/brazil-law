@@ -1,0 +1,16 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA, assim resumido:
+APELAÇÃO CRIMINAL - ARTIGO 155, §4º, III E §5º, DO CÓDIGO PENAL. AFASTAMENTO DAS QUALIFICADORAS RELATIVAS AO EMPREGO DE CHAVE FALSA E TRANSPORTE DO VEICULO PARA OUTRO ESTADO DA FEDERAÇÃO - IMPOSSIBILIDADE - LAUDO PERICIAL QUE É PRESCINDÍVEL, QUANDO HÁ COMPROVAÇÃO PELA PROVA ORAL COLHIDA E TRANSPORTE QUE EFETIVAMENTE OCORREU. PENAS E REGIME CORRETAMENTE ESTABELECIDOS. RECURSO DESPROVIDO.
+Alega violação dos arts. 158 e 167 do CPP e 155, § 4º, do Código Penal, no que concerne ao afastamento da qualificadora referente à utilização de chave falsa, tendo em vista a ausência de juntada de laudo pericial, trazendo o(s) seguinte(s) argumento(s):
+O afastamento da causa de aumento prevista no inciso III do § 2º do artigo 155 do Código Penal é medida que se impõe, eis que há referência que o objeto que teria sido utilizada na empreitada criminosa trata-se de chave mixa, que teria sido encontrada com o acusado, conforme se extrai dos depoimentos dos policiais militares que participaram da prisão em flagrante do recorrente. (fls. 426).
+Contudo, conforme se observa nos autos, não foi juntado o laudo pericial, único capaz de comprovar a utilização da chave que teria sido encontrada com o autor no momento da prisão em flagrante tendo em vista que os policiais militares apenas afirmaram veementemente que tal objeto foi encontrado. (fls. 427).
+No mesmo sentido, não há que se dizer, conforme alegado no r. acórdão vergastado, que o exame de corpo de delito não era possível no presente caso, sendo a prova testemunhal capaz de suprir-lhe a falta - conforme art. 167, do Código de Processo Penal. (fls. 428).
+Portanto, estando a qualificadora mantida em razão dos testemunhos dos policiais, de modo que era possível e, portanto, imprescindível a realização de laudo pericial referente à utilização da chave falsa (mixa), é necessário o afastamento da qualificadora. (fls. 430).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
