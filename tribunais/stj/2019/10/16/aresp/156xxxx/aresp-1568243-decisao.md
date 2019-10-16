@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo apresentado por ASSOCIAÇÃO DE BENEFICÊNCIA E [NOME], contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CONTRATO Prestação de serviços Plano de saúde Autora portadora de síndrome não catalogada pela medicina e cuja situação de crise poderia ter lhe custado a vida Negativa de cobertura do tratamento realizado em caráter de emergência, em hospital não pertencente à rede credenciada da seguradora Hipótese de descabimento Especificidade da terapia, possibilitando a cobertura de profissional e nosocômio especializados, mesmo fora da rede referenciada Atendimento, ademais, prestado em situação emergencial, possibilitando sua cobertura, nos termos do art. 12, VI, da Lei nº 9.656/98 Dano moral Configuração Manutenção do "quantum", fixado em R$ 5.000,00, apto a atender à dupla finalidade do instituto indenizatório Recursos improvidos.
+ASSISTÊNCIA JUDICIÁRIA Pessoa jurídica Entidade filantrópica Concessão Admissibilidade Dispensa da prova da incapacidade econômica, como nos casos que envolvem pessoa jurídica sem fins lucrativos Recursos improvidos (fl. 628).
+Quanto à controvérsia, alega violação do art. 12, VI, da Lei 9.656/98 e divergência jurisprudencial, no que concerne à indevida determinação de cobertura integral, pelo recorrente, das despesas médicas da recorrida, devendo as referidas despesas serem limitadas ao valor que custariam se estivessem sido feitas dentro da rede credenciada da recorrente, trazendo os seguintes argumentos:
+A controvérsia entre os litigantes transcorreu, principalmente, em razão da circunstância da necessidade do atendimento ser realizado em instituição hospitalar não credenciada, quando havia, na respectiva rede, estabelecimentos capazes de dar o devido atendimento médico.
+De outro modo que o Recorrido arguiu pela possibilidade de inobservância da rede na medida em que o atendimento buscado se deu em caráter de emergência.
+No entanto, apesar do permissivo legal contido no artigo 12, VI, da Lei nº. 9.656/98 que autoriza a possibilidade de beneficiários de planos de saúde procurarem estabelecimentos não credenciados, em situações de urgência ou emergência, quando não for possível a utilização da rede credenciada, o Egrégio Tribunal de Justiça do Estado de São Paulo manteve a r. sentença, determinando a cobertura integral das despesas médico-hospitalares.
+Desta feita, tendo em vista o entendimento de que a parte ex adversa deveria ser contemplada integralmente em relação às despesas decorrentes de internação da paciente, houve negativa de vigência ao artigo 12, VI, da Lei nº. 9.656/98, conforme será melhor demonstrado no decorrer das presentes razões.
+ ..
+Ao contrário do que se aufere da leitura do dispositivo, segundo a Decisão recorrida, determinou a cobertura integral das despesas reclamadas pela Recorrida e, por conta disto, houve negativa de vigência ao seu Texto.
+ ..
+Notem Excelentíssimos Ministros a diferença essencial, consiste na obrigação de custeio pelo todo das despesas médicas, ou seja, não se calculou em quanto importaria se as despesas tivessem sido incorridas dentro da rede credenciada da Recorrente.
+ ..
+De modo que, entende a Recorrente que o v. acórdão restou equivocado, na medida em que se determinou a cobertura de despesas integral, quando na verdade o artigo e o contexto do caso específico limitam tais quantias, configurando negativa de vigência ao artigo de Lei Federal.
+ ..
+Assim ementada, a Decisão recorrida como dito manteve a sentença de mérito, dispondo pela impossibilidade de provimento da apelação a partir do fundamento da aplicabilidade do artigo 12, VI, da Lei nº. 9.656/98, sem se ater para a determinação de que as despesas médico-hospitalares devem ser cobertas nos limites da rede credenciada (fls. 650/655).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
