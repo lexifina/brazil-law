@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por CAIXA ECONÔMICA FEDERAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL FGTS CERTIFICADO DE REGULARIDADE MUNICÍPIO PROVA PERICIAL INÉRCIA NO CUMPRIMENTO DA OBRIGAÇÃO DE DEPOSITAR HONORÁRIOS DE PERITO EXTINÇÃO DO PROCESSO POR ABANDONO DA CAUSA PELO AUTOR IMPOSSIBILIDADE FALTA DE REQUERIMENTO PELA PARTE CONTRÁRIA FALTA DE REQUERIMENTO DO RÉU - SÚMULA 240 DO STJ.
+Pela alínea "a" do permissivo constitucional, alega violação do arts. 371 e 373, I, do CPC, no que concerne ao reconhecimento da preclusão tendo em vista que parte autora não quedou-se inerte quanto à realização da prova pericial, devendo arcar com tal ônus, que não pode ser transferido ao magistrado, trazendo o(s) seguinte(s) argumento(s):
+ A parte autora engendrou a preclusão da realização da prova pericial a que ela própria pretendeu e, de acordo com o artigo 371 do CPC/2015, o juiz apreciará as provas já constantes nos autos. Assim, não há que se falar em retorno à perícia, pois a parte autora quedou-se inerte, conforme já demonstrado. Se não há a prova nos autos (no caso, a perícia), não há tal prova a se analisar, e o julgamento dever ser feito com o que consta dos autos. (fls. 5466).
+ A parte pediu a perícia e não produziu. O juiz poderia, de ofício, determinar a realização da perícia, mas não entendeu isso como necessário. Logo, a matéria está preciusa e a análise do juiz tem que ser feita com base no que há nos autos, e nada mais.
+Ainda, conforme o artigo retrotranscrito art. 373 do CPC/2015, ao deixar precluir a possibilidade de realização de perícia, a parte autora deve arcar com o ônus, não sendo este transferido à figura do magistrado.
+Assim, o autor deixou precluir a possibilidade de realização de perícia. Logo, o juiz não pode atrair para si o ônus da parte, pois tal fato ensejaria a violação dos dispositivos demonstrados (fls. 5467).
+Pela alínea "c" do permissivo constitucional, aponta divergência jurisprudencial no que concerne à mesma tese.
+É o relatório. Decido.
+Quanto a alínea "a", na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Quanto à alínea "c", na espécie, verifica-se que os dispositivos legais sob os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE PREQUESTIONAMENTO. NÃO CABIMENTO DO RECURSO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL.
+1. O cabimento de recurso especial fundado na alínea "c" do permissivo constitucional requer o prequestionamento do dispositivo de lei federal cuja interpretação se alega divergente por outro Tribunal.
+2. Uma vez reconhecida a ausência de prequestionamento do dispositivo de lei federal apontado como ofendido pela parte recorrente, é desnecessário o exame do cabimento do recurso especial quanto à alínea "c" do inciso III, do art. 105, da Constituição Federal, em relação ao mesmo dispositivo.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1274569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
