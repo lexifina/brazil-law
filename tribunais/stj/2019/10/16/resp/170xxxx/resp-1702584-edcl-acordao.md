@@ -1,0 +1,61 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Consoante jurisprudência consolidada desta Corte Superior de Justiça, a estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por GENSA - GENERAL SERVIÇOS AÉREOS LTDA. contra acórdão que conheceu em parte do recurso especial e, nessa parte, negou-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPORTAÇÃO DE AERONAVES. ARRENDAMENTO MERCANTIL. SIMULAÇÃO. DESCARACTERIZAÇÃO PARA COMPRA E VENDA. ICMS. MOMENTO DA INCIDÊNCIA. DESEMBARAÇO ADUANEIRO. PARCELAMENTO. QUITAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte Superior é pacífica ao determinar que o fato gerador do ICMS na importação ocorre no momento do desembaraço aduaneiro, em consonância com a Súmula 661/STF: "Na entrada de mercadoria importada do exterior, é legítima a cobrança do ICMS por ocasião do desembaraço aduaneiro."
+2. Na espécie, considerou o Tribunal de origem, de forma correta, que o fato gerador do tributo efetivamente ocorreu na data do registro das declarações de importação sob regime de admissão temporária, quando deveria ter ocorrido o despacho para consumo sob regime comum de importação, haja vista a descaracterização do contrato de arrendamento mercantil para compra e venda.
+3. No que diz respeito à alegação de que o débito em questão foi objeto de parcelamento e houve sua quitação integral, afirmando o Tribunal de origem que não houve quitação, a reforma do aresto recorrido, no ponto, demanda, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+4. Recurso especial conhecido em parte e, nessa parte, não provido.
+
+Alega a embargante omissão e obscuridade no julgado, alegando que (i) "o STJ manteve a decisão a quo que deslocou o fato gerador para a data do registro das declarações de importação de admissão temporária, desrespeitando a sua própria jurisprudência e do STF que assenta que apenas com o efetivo desembaraço aduaneiro é que ocorre o fato gerador do ICMS-importação" (fl. 2051-2052); (ii) a "justificativa para tanto foi que o tribunal local teria descaracterizado o contrato originário de arrendamento mercantil para compra e venda e que, portanto, desde a entrada das aeronaves no Brasil (ou registro das declarações de importação temporária) já seria devido o ICMS-importação" (fl. 2052).
+Sustenta, ainda, que o julgado partiu de premissa equivocada ao considerar que o desembaraço aduaneiro era irrelevante para o lançamento do ICMS, visto que "o fato gerador do ICMS somente ocorreu após a empresa impetrar mandado de segurança para forçar a Receita Federal a emitir as Declarações de Importação das aeronaves. Assim, apenas com o deferimento da liminar foi que ocorreu, de fato e juridicamente, o desembaraço aduaneiro hábil à incidência do ICMS-importação" (fl. 2053).
+Ao final requer sejam corrigidas a omissão e obscuridade presentes no acórdão embargado e "mediante efeitos infringentes, que seja reconhecido que o fato gerador do ICMS-importação somente ocorreu com o desembaraço aduaneiro em 25/05/2012, o que deverá conduzir à anulação do lançamento tributário" (fl. 2054).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Consoante jurisprudência consolidada desta Corte Superior de Justiça, a estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida.
+4. Embargos de declaração rejeitados.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela e bargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado, considerando que o acórdão embargado pronunciou-se de modo coeso e preciso acerca de todos os pontos levantados no recurso especial.
+No caso, observa-se que o embargante apenas repisa as razões do recurso especial, aduzindo que o julgado embargado "considerou o desembaraço aduaneiro irrelevante para o lançamento do ICMS".
+O tema do momento do desembaraço aduaneiro foi suficientemente tratado pelo acórdão embargado, que, em síntese, frisou, na linha do que decidiu o Tribunal de origem, que, por força da descaracterização do contrato de arrendamento mercantil, em virtude da simulação, fato incontroverso, para compra e venda, verdadeira operação jurídica sujeita à tributação pelo ICMS importação, considerou-se que o fato gerador do tributo ocorreu em 18/11/2008, data do registro das declarações de importações no regime aduaneiro especial de admissão temporária, quando deveria ter ocorrido o despacho para consumo sob regime de comum de tributação.
+A propósito, confira-se o seguinte excerto do acórdão embargado:
+Pois bem, alega a recorrente que o Tribunal a quo firmou que o fato gerador do ICMS na importação das aeronaves ocorreu a data da compra e venda, em 2008, quando deveria ter considerado o momento do desembaraço aduaneiro, ocorrido em maio de 2012.
+Não procede a alegação.
+Atento ao quadro fático delineado nos autos, o Tribunal de origem entendeu que houve simulação do contrato de arrendamento mercantil, descaracterizando-o para contrato de compra e venda.
+Para o Tribunal a quo a recorrente utilizou-se do regime aduaneiro especial de admissão temporária das aeronaves, decorrente do suposto contrato de arrendamento mercantil, concebido com base em fatos inverídicos e documentos incompletos, para retardar o recolhimento de tributos federais e estaduais, quando, em verdade, estava realizando uma importação.
+Dessa forma, considerou que o fato gerador do tributo ocorreu em 18/11/2008, data do registro das declarações de importações no regime aduaneiro especial de admissão temporária (08/1838453-5 e 08/1838452-7), quando deveria ter ocorrido o despacho para consumo sob regime de comum de tributação.
+O alegado desembaraço aduaneiro, que teria ocorrido em 2012, decorre de antecipação dos efeitos da tutela, em agravo de instrumento interposto perante o TRF da 3ª Região contra decisão que, em mandado de segurança, indeferiu solicitação de nacionalização das referidas aeronaves.
+Nesse contexto, agiu com acerto o Tribunal de origem ao fixar o momento da incidência do ICMS na data em que efetivamente ocorreu o desembaraço aduaneiro, a saber: em 18/11/2008.
+Como se nota, sob o pretexto de que há omissão e obscuridade no acórdão embargado, a embargante objetiva, por via transversa, alterar o resultado do julgado embargado promovendo novo julgamento da causa
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015.
+2. Hipótese em que o embargante repisa as razões do recurso especial, relacionadas à suposta violação dos art. 131, 475, 515 e 535, II, do CPC/1973, 1.228, §§ 4º e 5º, do Código Civil e 10 da Lei n. 10.257/2001.
+3. O acórdão embargado, após descrever a cronologia dos acontecimentos relativos à presente demanda, com base nos fatos incontroversos e devidamente delineados na origem, manifestou-se sobre todas as alegações do Estado do Acre, apresentando fundamentos suficientes e claros para rejeitar as preliminares suscitadas e as teses acerca da desapropriação judicial ou pro labore.
+4. In casu, a irresignação não objetiva a correção de eventual vício no aresto impugnado, mas sim o rejulgamento do recurso, com base em argumentos que demandam o reexame do contexto fático-probatório da lide, sendo nítido o caráter infringente dos declaratórios.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1442440/AC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/03/2019, DJe 09/04/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OPOSTOS ANTERIORMENTE AO JULGAMENTO PROFERIDO EM RECURSOS ESPECIAIS REPETITIVOS.
+SOBRESTAMENTO DO RECURSO PARA SE AGUARDAR O JULGAMENTO DO TEMA 905/STJ. IMPOSSIBILIDADE DE REJULGAMENTO DA CAUSA EM EMBARGOS DE DECLARAÇÃO. ENTENDIMENTO DA CORTE ESPECIAL. EDCL NOS EDCL NOS EDCL NO AGRG NOS ERESP 1019717/RS.
+I - Trata-se de embargos de declaração em que determinou-se o sobrestamento para se aguardar o julgamento de processos sob o rito dos recursos repetitivos cuja tese foi firmada no TEMA 905/STJ.
+II - A Corte Especial do STJ firmou entendimento de que não é possível a alteração do julgado, em embargos de declaração, para adequação ao decidido em recurso especial repetitivo, por configurar inovação recursal e reconhecimento indevido de omissão inexistente.
+Isto porque, o art. 1.022 no seu parágrafo único, I, do CPC/2015, pressupõe que tenha havido o julgamento do processo repetitivo, em repercussão geral ou incidente de assunção de competência, aplicável ao caso, antes da oposição dos embargos declaratórios.
+III - No referido julgamento, consignou-se as seguintes teses: "Assim, a jurisprudência consolidada desta Corte é de que na estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida"."A Corte Especial, ademais, já adotou o entendimento de que "a superveniente modificação do entendimento consignado no acórdão embargado não enseja o rejulgamento da causa, por serem os embargos de declaração de índole meramente integrativa"  .. . Não o bastante, segundo a orientação sedimentada do STJ, não é admissível a apreciação de tese que configure inovação recursal nos embargos de declaração, diante da ocorrência de preclusão consumativa". (EDcl nos EDcl nos EDcl no AgRg nos EREsp 1019717/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/09/2017, DJe 27/11/2017).
+IV - Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 536.719/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/09/2018, DJe 12/09/2018)
+Assim, ausentes os requisitos autorizadores dos embargos de declaração, não cabe, nesta sede, rediscutir o entendimento adotado pelo acórdão ora hostilizado.
+Ante o exposto, rejeitam-se os embargos de declaração.
+É o voto.
