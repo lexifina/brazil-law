@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. GUARDA MIRIM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AVERBAÇÃO DE TEMPO DE SERVIÇO. LEI ESTADUAL N. 5.301/1969. SÚMULA 280/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do ESTADO DE MINAS GERAIS fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+REEXAME NECESSÁRIO - APELAÇÃO - NÃO CONHECIMENTO - DIALETICIDADE - AÇÃO DE JUSTIFICAÇÃO - INTERESSE DE AGIR - PRESENTE - PRESCRIÇÃO DO FUNDO DO DIREITO - INOCORRÊNCIA - POLICIAL MILITAR - AVERBAÇÃO DE TEMPO DE SERVIÇO - GUARDA - MIRIM - POSSIBILIDADE.
+1 - Inexistindo, nos autos, prova da data do indeferimento do pedido administrativo de averbação do tempo de atividade pública para fins de concessão de aposentadoria e adicionais não há que se falar em ocorrência da prescrição do fundo do direito, nem em ausência de interesse de agir.
+2 - Considerando que a pretensão autoral é de averbação do tempo de atividade exercida pelo requerente como guarda mirim municipal para efeito de aposentadoria e obtenção de adicionais junto à PMMG, órgão do Estado de Minas Gerais, inexistindo, portanto, discussão de relação jurídica entre as partes.
+3 - Possível a averbação do tempo de atividade exercida pelo requerente como guarda mirim para efeito de aposentadoria e concessão de qüinqüênios no âmbito da PMMG, nos termos do art. 162 da Lei Estadual nº. 5.301/1969.
+Os embargos de declaração acolhidos parcialmente.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos:
+(a) art. 1.022 do CPC/2015, aduzindo que "Quando o Juízo recorrido não realiza a análise de questão colocada nos autos, a despeito de expressamente instado nas manifestações produzidas e em recurso de Embargos de Declaração, ofende o artigo 1022 do CPC.";
+(b) arts. 141, 492 e 1.013 do CPC, alegando que não houve qualquer pedido de averbação de tempo de serviço junto ao Estado de Minas Gerais, sendo o acórdão extra petita nesse ponto; e que a fixação de honorários advocatícios em desfavor do Estado de Minas Gerais no acórdão configura reformatio in pejus, visto que sequer houve recurso da outra parte, a justificar a majoração dos honorário.
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+A alegada ofensa do art. 1.022 do CPC/2015 não merece prosperar, pois o tribunal de origem já havia se manifestado de forma clara e fundamentada sobre alegação a insurgência da recorrente.
+Ademais, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+A leitura atenta do acórdão combatido, integrado pelo pronunciamento da origem em embargos de declaração, revela que os arts. 141, 492 e 1.013, do CPC , bem como as teses a eles vinculadas não foram objeto de debate pela instância ordinária, o que atrai a aplicação da Súm. n. 211 do STJ, inviabilizando o conhecimento do especial no ponto por ausência de prequestionamento. Prosseguindo, o Tribunal de origem, ao analisar a controvérsia, assentou que:
+Quanto à contagem de tempo para os fins pretendidos, dispõe o art. 162 da Lei Estadual nº. 5.301/69 - Estatuto dos Militares do Estado de Minas Gerais, in verbis:
+"Art. 162 - Na contagem do tempo de serviço para efeito de inatividade e qüinqüênios, computar-se-á integralmente, o tempo de serviço público prestado á
+União, aos Estados, aos Municípios, ás entidades autárquicas e paraestatais da União e dos Estados, bem como em outras repartições estaduais."
+Ressalto que não devem ser aplicadas as disposições do art. 36, §7º, da Constituição do Estado de Minas Gerais, considerando o decidido pelo STF quando do julgamento do RE nº 590829, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 05/03/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-061 DIVULG 27-03-2015 PUBLIC 30-03-2015.
+No particular, o requerente comprovou ter exercido atividades públicas enquanto guarda mirim no ano de 1985, conforme certidão de fl. 16.
+Dessa forma, referido tempo de serviço deverá ser computado para fins de aposentadoria e percebimento de quinquênios nos termos do art. 162 da Lei Estadual nº 5.301/69.
+Para a análise dos dispositivos tidos por violados, muito embora o recorrente suscite violação de legislação infraconstitucional, extrai-se da simples leitura da fundamentação do acórdão recorrido que, sobre a questão pertinente a compensação, esta foi decidida a partir da análise de legislação estadual, quais sejam, a Lei Estadual n. 5.301/69 do Estado de Minas Gerais. Impossibilidade em sede de recuso especial de análise de lei local.
+Ademais, o acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem quanto à comprovação da atividade de guarda mirim, como insurgência que se funda na verificação das provas produzidas nos autos e sua valoração, demanda inafastável incursão no universo fático-probatório. Cediço é, porém, que não pode este Superior Tribunal de Justiça atuar como terceira instância revisora ou tribunal de apelação reiterada, a teor do verbete da Súmula n. 7/STJ.
+Por fim
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
