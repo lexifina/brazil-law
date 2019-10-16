@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, CELIA MARIA BORGHETTI ajuizou ação previdenciária com valor da causa atribuído em R$ 53.584,00, em fevereiro de 2015, tendo como objetivo a concessão de aposentadoria por idade ou por idade híbrida.
+Após sentença que julgou parcialmente procedente o pedido da autora, foi interposta apelação, a qual foi provida pelo Tribunal Regional Federal da 4ª Região. O referido acórdão foi assim ementado, in verbis (fl. 381):
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REGIME DE ECONOMIA FAMILIAR. EXISTÊNCIA DE INÍCIO DE PROVA MATERIAL. TRABALHO RURAL COMPROVADO.
+1. Atingida a idade mínima exigida e comprovado o exercício da atividade rural em regime de economia familiar, pelo período exigido em lei, mediante a produção de início de prova material, corroborada por prova testemunhal idônea, o segurado faz jus à aposentadoria rural por idade.
+2. A relação de documentos referida no art. 106 da Lei n.º 8.213/1991 é exemplificativa. Admitidos, como início de prova material, quaisquer documentos que indiquem, direta ou indiretamente, o exercício da atividade rural no período controvertido, inclusive em nome de outros membros do grupo familiar.
+3. Em decisão proferida no Recurso Especial 1.348.633/SP, o qual seguiu o rito dos recursos repetitivos, firmou-se entendimento de que as provas testemunhais, tanto do período anterior ao mais antigo documento quanto do posterior ao mais recente, são válidas para complementar o início de prova material do tempo de serviço rural. A prova testemunhal, desde que robusta, é apta a comprovar os claros não cobertos pela prova documental.
+4. Havendo prova do desempenho de atividade rural em período imediatamente anterior ao requerimento administrativo, que se mostre signi cativo, ou seja, de no mínimo 1/3 do total da carência necessária, deve ser assegurado o direito à aposentadoria rural por idade ao segurado especial, com o cômputo de períodos anteriores descontínuos, mesmo que entre os mesmos tenha havido a perda da condição de segurado.
+5. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, de modo a racionalizar o andamento do processo, e diante da pendência , nos tribunais superiores, de decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+Os embargos de declaração opostos pela autarquia foram rejeitados.
+Nas razões do recurso especial, a autarquia aponta, inicialmente, violação do art. 1.022 do CPC/15. Alega que o acórdão permaneceu silente quanto à "tese levantada pela autarquia previdenciária acerca da impossibilidade do reconhecimento de tempo à parte que exerceu atividade urbana. Dessa forma, não apreciou também o E. Tribunal a quo o sentido e alcance dos artigos art. 11, VII e §§ 1º e 9º da Lei 8.213/91 e 373, I, do NCPC" (fl. 415).
+Alega, ainda, violação dos arts. 11, VII e § 1º, e 55, § 3º, da Lei n. 8.213/91.
+Sustenta, em síntese, que, "no período de carência, que deve ser demonstrada a atividade rural, parte dos vínculos da autora são urbanos, o que descaracteriza sua condição de segurado especial" (fl. 416).
+Não foram apresentadas as contrarrazões.
+O recurso especial foi inadmitido sob o argumento de que rever o posicionamento do Tribunal a quo importaria em análise fático-probatória, o que é vedado ante o teor da Súmula 7/STJ, além do óbice da Súmula 83/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+Quanto à questão de fundo, o Tribunal de origem, com base nas provas apresentadas, assim concluiu às fls. 374 e 376:
+É de se ressaltar ainda que o exercício de pequenos períodos de labor urbano, não retira do interessado a condição de trabalhador rural. O exercício da atividade rural pode ser descontínuo (STJ, EDcl no AgRg no AREsp 297.322/PB, Segunda Turma, Rel. Ministro Mauro Campbell Marques, julgado em 13/08/2013).
+(..)
+No caso, admitida a descontinuidade, e tendo a autora já retornado ao efetivo desempenho do labor rural, pelo menos, nos últimos 05 anos antes do requerimento administrativo, não é possível que se adote entendimento restritivo quanto ao conceito de descontinuidade, o que acabaria por deixar ao desamparo segurados que desempenharam longos períodos de atividade rural, mas por terem intercalado períodos significativos de atividade urbana ou mesmo de inatividade, restam excluídos da proteção previdenciária.
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ainda que assim não fosse, esta Corte possui entendimento consolidado de que o trabalho urbano, por si só, não descaracteriza a condição de segurado especial, devendo ser analisada a dispensabilidade do trabalho rural para sua subsistência.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. COMPROVAÇÃO DA ATIVIDADE RURAL. EXERCÍCIO DE ATIVIDADE URBANA. NÃO DESCARACTERIZAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA NO SENTIDO DA JURISPRUDÊNCIA DO STJ. PRECEDENTES. (grifo nosso)
+1. A alegada ausência de prova do labor rural não se sustenta ante a listagem de documentos explicitada no voto condutor do acórdão recorrido.
+2. A Primeira Seção do STJ, no julgamento de Recurso Especial submetido à sistemática dos recursos repetitivos, REsp 1.304.479/SP, de relatoria do Min. Herman Benjamim, julgado em 10/10/2012 (DJe 19/12/2012), consignou que o "trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada, a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ)".
+3. Decisão mantida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 543.266/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/02/2017, DJe 14/02/2017 - grifo nosso)
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA RURAL POR IDADE. DESCONTINUIDADE. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA.INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Trata-se de inconformismo da Autarquia recorrente no tocante à concessão de aposentadoria por idade rural à parte autora, nada obstante o exercício de atividade urbana no período de carência.
+2. É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido.
+3. Aplica-se o óbice da Súmula 7/STJ, que assim estabelece: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Recurso Especial não conhecido.
+(REsp 1655045/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
