@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por CAIO CESAR DE ARAUJO ASSIS, contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2076510-59.2019.8.26.0000.
+Consta da sentença condenatória que o paciente, juntamente com outro corréu, estava praticando tráfico de entorpecentes no dia 16 de março de 2016. Restou condenado, em primeira instância, a 5 anos de reclusão, no regime inicial fechado, e ao pagamento de 500 dias-multa, tendo sido negado o direito de recorrer em liberdade, haja vista que responderam a todo o processo em liberdade.
+Irresignada, a defesa impetrou o habeas corpus perante o Tribunal Paulista, o qual denegou a ordem em acórdão assim ementado (fls. 131/141):
+"Habeas Corpus Tráfico de Drogas Prolação de r. sentença - Pretensão de concessão do direito de recorrer em liberdade, além da impugnação quanto às matérias de mérito da ação penal originária.
+Questões atinentes ao mérito causal que não devem ser discutidas na via estreita do writ pedidos meritórios que não comportam conhecimento. Análise de prova que é incabível nesta via eleita, devendo ser realizada por meio do recurso de apelação.
+Presença dos requisitos da custódia cautelar - R. Sentença que manteve a prisão preventiva que se encontra suficientemente fundamentada - Paciente incurso, em tese, em prática de crime hediondo, para o qual é legalmente vedada a liberdade provisória, conforme o art. 44, da Lei de Drogas - declaração de inconstitucionalidade do referido dispositivo pelo C. STF que se deu incidenter tantum decisão que não vincula esta E. Corte.
+Ausência de afronta ao princípio da presunção de inocência - Estado que detém os meios cabíveis para a manutenção da ordem pública, ainda que em detrimento da liberdade do cidadão, nos casos em que tal medida se mostrar necessária. Inviabilidade da aplicação de medidas cautelares alternativas, por insuficiência, inadequação e desproporcionalidade aos fatos tratados nos autos principais.
+Ordem conhecida em parte e, nesta, denegada."
+No presente writ, o impetrante pretende seja reduzida a pena em função da aplicabilidade do redutor da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, adequando-se o regime prisional.
+Pugna, assim, em liminar, seja determinada sua soltura até o julgamento do presente writ e no mérito, a redução da pena e adequação do regime.
+É o relatório.
+Decido.
+Em que pese o esforço da defesa, o presente mandamus não comporta processamento.
+Isso porque foi concedida ordem, de ofício, no HC n. 509.504/SP (em que se impugnou o mesmo acórdão aqui apontado), na qual foi determinado que o "Tribunal de Justiça do Estado de São Paulo proceda ao exame das questões referentes ao regime mais gravoso e à inaplicabilidade do redutor da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, verificando a eventual existência de flagrante constrangimento ilegal que autorize a concessão de habeas corpus de ofício."
+Assim, verifica-se que as questões relacionadas à redução da pena e abrandamento de regime prisional encontram-se pendentes de análise pelo Tribunal a quo, circunstância que impede esta Corte Superior de manifestar-se sobre o tema, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO DE JUIZ MONOCRÁTICO. INCOMPETÊNCIA DESTA CORTE PARA APRECIAÇÃO DA MATÉRIA EM DEBATE, SOB PENA DE SE INCORRER EM INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+- Consoante consignado no decisum agravado, é manifesta a incompetência desta deste Tribunal para análise do presente writ, afinal, na própria inicial é indicada como autoridade coatora o magistrado da Primeira Vara Cível/Criminal/VEP da Comarca de Conselheiro Pena. Ademais, na documentação que instrui o habeas corpus não foi juntada qualquer decisão prolatada pelo Tribunal de Justiça, mas sim a decisão que converteu o flagrante em prisão preventiva, proferida pelo juiz singular, o que indica que, de fato, a impetração ataca decisão de primeira instância, impedindo que esta Corte se manifeste acerca da matéria, sob pena de se incorrer em indevida supressão de instância.
+Agravo regimental desprovido (AgRg no HC 330.762/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 22/09/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N.º 11.343/06 EM FRAÇÃO INFERIOR À MÁXIMA. ALEGADO BIS IN IDEM. NÃO OCORRÊNCIA. FUNDAMENTOS DIVERSOS. TEMA NÃO ANALISADO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE NÃO DEMONSTRADA. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+(..)
+- Uma vez que o Tribunal a quo não se pronunciou sobre tema suscitado nesta impetração, esta Corte fica impedida de fazê-lo diretamente, sob pena de incorrer em indevida supressão de instância.
+- Habeas corpus não conhecido (HC 273.799/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/05/2016, DJe 10/05/2016).
+Assim, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intime-se.
