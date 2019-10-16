@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. RECURSO DE INTERPOSIÇÃO RESTRITA. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos por [NOME] DO PRADO contra decisão monocrática de minha lavra, proferida com a seguinte ementa:
+CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL OFERECIDO CONTRA DECISÃO ADMINISTRATIVA. INADMISSIBILIDADE. AGRAVO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+2. Alega o embargante o caráter judicial da decisão impugnada, que teria sido proferida em sede de exceção de impedimento.
+3. É o relatório.
+4. Os Declaratórios apresentados pelo Embargante devem ser rejeitados, porquanto a sua inconformação recursal não demonstra a presença de quaisquer dos requisitos que autorizam a interposição dessa modalidade recursal, quais sejam, obscuridade, contradição ou omissão (art. 1.022 do Código Fux). O recurso de Embargos de Declaração é de interposição estritamente vinculada, não comportando variações, ampliações ou analogias. Essa é a orientação jurisprudencial dominante nesta Corte.
+5. Destarte, infere-se que, não obstante prepondere a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+6. Destaca-se, ainda, que, tendo encontrado motivação suficiente para fundar a decisão, não fica o Órgão Julgador obrigado a responder, um a um, aos questionamentos suscitados pelas partes, mormente quando desinfluentes para a solução da lide, ou se notório o caráter de infringência do julgado. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. ART. 535, II DO CPC. CONTRARIEDADE. INEXISTÊNCIA. PRINCÍPIOS CONSTITUCIONAIS. VIOLAÇÃO. EXAME. IMPOSSIBILIDADE. LEI FEDERAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. MATÉRIA LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO NÃO PROVIDO.
+1. Tendo o Tribunal de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, não há falar em afronta ao art. 535, II do CPC, não se devendo confundir fundamentação sucinta com ausência de fundamentação (Resp. 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+(..).
+5. Agravo regimental não provido (AgRg no AREsp. 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.8.2011).
+7. Ademais, a contradição autorizadora da oposição dos Aclaratórios é aquela de ordem interna, que se caracteriza nos termos da própria decisão embargada, e não entre os termos da decisão e o entendimento que a parte reputa correto.
+8. Feitas estas observações, nota-se que as razões recursais não revelam a presença de quaisquer das circunstâncias ensejadoras dos Aclaratórios, impondo-se sua rejeição.
+9. Ante o exposto, rejeitam-se os Embargos de Declaração do Particular.
+10. Publique-se. Intimações necessárias.
