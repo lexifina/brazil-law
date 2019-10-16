@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOABY EVANGELISTA DE ARAUJO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Amazonas (Desaforamento de Julgamento n. 4003343-84.2019.8.04.0000).
+Narra o impetrante que o paciente foi pronunciado pelo crime de homicídio qualificado. Marcada a sessão do Tribunal do Júri para o dia 22/7/2019, impetrou-se habeas corpus visando o desaforamento, cujo pedido liminar foi deferido para suspender o julgamento. Afirma, contudo, que a ordem foi denegada pelo Tribunal de origem e cassada a referida liminar, ensejando a marcação de nova sessão para o dia 17/10/2019.
+Nas razões deste writ, o impetrante defende o desaforamento do julgamento do Tribunal do Júri, cuja sessão está marcada para o dia 17/10/2019. Alega que a imparcialidade dos jurados pode estar comprometida. Aduz, ainda, que há dúvidas acerca da manutenção da segurança pessoal do paciente e que existe a possibilidade de tumulto no fórum local, tendo em vista a repercussão social local do crime. Alega, também, que a imparcialidade do juiz competente está prejudicada. Sustenta, ainda, excesso de prazo na prisão preventiva e a ausência de seus requisitos autorizadores. Ao final, requer a suspensão do julgamento e, no mérito, o desaforamento do julgamento.
+É, em síntese, o relatório.
+Verifica-se que o impetrante não juntou aos autos o acórdão impugnado, circunstância que impede a verificação da existência, ou não, de flagrante ilegalidade.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FALTA DE CÓPIA DO INTEIRO TEOR DO ACÓRDÃO IMPUGNADO. INSTRUÇÃO DEFICIENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Por ter sido interposto dentro do quinquídio legal, é possível receber pedido de reconsideração como agravo regimental, em atenção ao princípio da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo.
+2. O habeas corpus exige prova pré-constituída das alegações e tal ônus é do impetrante.
+3. Hipótese em que a defesa do paciente não se desincumbiu do seu dever de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia do interior teor do acórdão proferido pelo Tribunal estadual enfrentando a temática suscitada no writ, nem mesmo após apresentar pedido de reconsideração.
+4. Das peças juntadas com a impetração, não se extrai a existência de manifesto constrangimento ilegal, baseada que está a prisão preventiva do paciente, aparentemente, na reiteração delitiva recente.
+5. Pedido de reconsideração recebido como agravo regimental e improvido. (RCD no HC 480.522/PE, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.)
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. CARÁTER INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. VIABILIDADE. INSTRUÇÃO DEFICIENTE. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em observância aos princípios da fungibilidade e da instrumentalidade das formas, podem ser admitidos como agravo regimental os embargos declaratórios que, opostos contra decisão monocrática, a despeito de apontar a existência de omissão no referido decisum, busquem apenas a reversão do julgado.
+2. Mesmo que o alegado pela defesa seja verdade, de que os autos físicos continham o inteiro teor do acórdão impugnado, ressalto que cabe à parte a correta instrução do processo e, por conseguinte, o ônus da fiscalização da formação dos autos eletrônicos.
+3. A parte deixou de juntar o documento reclamado quando interpôs este recurso, o que evidencia, ainda mais, a omissão da defesa em instruir devidamente os autos.
+4. Embargos de declaração recebidos como agravo regimental. Agravo regimental não provido. (EDcl no HC 399.366/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/06/2017, DJe 26/06/2017.)
+Assim, não é impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
