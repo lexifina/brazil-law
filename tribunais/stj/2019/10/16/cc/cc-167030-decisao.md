@@ -1,0 +1,19 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO AJUIZADA POR EX-EMPREGADORA CONTRA EX- EMPREGADO. SUPOSTA FRAUDE. SITUAÇÃO INTRÍNSECA À RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. O art. 114 da CF não distingue as ações ajuizadas pelo trabalhador daquelas movidas contra ele, tem-se que a Justiça do Trabalho é a competente para conhecer e julgar os feitos cuja causa de pedir decorra diretamente do estabelecimento, manutenção ou extinção da relação de trabalho, sendo desimportante se o trabalhador é o autor ou o réu.
+2. Reconhecido o vínculo empregatício entre os interessados, cabe à justiça trabalhista julgar a ação indenizatória cuja causa de pedir refere-se diretamente à relação de trabalho.
+3. Conflito de competência conhecido para declarar competente o JUÍZO DA 1A VARA DO TRABALHO DE NOVO HAMBURGO - RS.
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o JUÍZO DA 1A VARA DO TRABALHO DE NOVO HAMBURGO - RS, suscitante, e o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE NOVO HAMBURGO - RS, suscitado.
+Ação: de prestação de contas e restituição de valores ajuizada por [NOME] em desfavor de [NOME].
+Manifestação do JUÍZO DE DIREITO DA 1A VARA CÍVEL DE NOVO HAMBURGO - RS: declarou a incompetência do juízo cível para processar e julgar a demanda, considerando que a justiça labora "reconheceu a existência de vínculo trabalhista entre [NOME] e [NOME] do Brasil Representações LTDA", razão pela qual "deve ser aplicada a norma prevista no art. 114, inciso VI da Constituição Federal, no que concerne às hipóteses de competência da Justiça do Trabalho, dentre as quais estão as ações indenizatórias - dano moral ou patrimonial - relativas à relação de trabalho".
+Manifestação do JUÍZO DA 1A VARA DO TRABALHO DE NOVO HAMBURGO - RS: suscitou o presente conflito negativo de competência, por entender que "a pretensão da parte Autora envolve reparação de danos causados por sócio, restituição de , pro labore dentre outras que escapam substancialmente de qualquer matéria prevista no art. 114 da Constituição Federal".
+Parecer do MPF: opinou pelo conhecimento do conflito para declarar a competência do Juízo da 1ª Vara do Trabalho de Novo Hamburgo-RS.
+RELATADO O PROCESSO, DECIDE-SE.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Depreende-se dos autos que a causa de pedir da ação indenizatória promovida pelo ex-empregador contra o ex-empregado refere-se diretamente à relação de trabalho ou, mais exatamente, ao seu rompimento.
+Dessa forma, tendo em vista que o art. 114 da CF não distingue as ações ajuizadas pelo trabalhador daquelas movidas contra ele, tem-se que a Justiça do Trabalho é a competente para conhecer e julgar os feitos cuja causa de pedir decorra diretamente do estabelecimento, manutenção ou extinção da relação de trabalho, sendo desimportante se o trabalhador é o autor ou o réu.
+Ilustrativamente: CC 135.845/DF, SEGUNDA SEÇÃO, DJe 06/03/2018 CC 130.122/SC; SEGUNDA SEÇÃO, DJe de 1º/10/2014; CC 131.045/RJ, SEGUNDA SEÇÃO, DJe de 31/03/2014.
+No caso dos autos, conforme salientado pelo MPF em sua promoção, "o caso dos autos guarda particularidades e, como bem delineado pelo Juízo de Direito da 1ª Vara Cível de Novo Hamburgo-RS, a justiça trabalhista, na Reclamação Trabalhista n. 01381-2006-305-04-00-2, reconheceu o vínculo empregatício entre [NOME] e a empresa [NOME] do Brasil Represetanções, que pertence ao mesmo grupo econômico da ora interessada [NOME] [NOME] LTD. Nesse contexto, reconhecido o vínculo empregatício entre os interessados, cabe à justiça trabalhista julgar a ação de indenização".
+Forte nessas razões, CONHEÇO do conflito e declaro competente o JUÍZO DA 1A VARA DO TRABALHO DE NOVO HAMBURGO - RS JUÍZO DA 1A VARA DO TRABALHO DE NOVO HAMBURGO - RS, o suscitante.
+Publique-se. Intimem-se. Oficie-se.
