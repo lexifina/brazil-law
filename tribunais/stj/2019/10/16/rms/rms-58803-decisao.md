@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ART. 23 DA LEI 12.906/2009. RECURSO ORDINÁRIO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME] contra acórdão do TJBA, assim ementado:
+MANDADO DE SEGURANÇA E AGRAVO INTERNO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. EDITAL SAEB/01/2012. REQUERIMENTO DE RECONTAGEM DE PONTOS EM FACE DE ANULAÇÃO DE QUESTÕES E AÇÃO JUDICIAL INDIVIDUAL. PRELIMINAR DE DECADÊNCIA. ACOLHIMENTO. INTEMPESTIVIDADE DA IMPETRAÇÃO. EXTINÇÃO DO PROCESSO COM JULGAMENTO DO MÉRITO. AGRAVO INTERNO PREJUDICADO. PRECEDENTES DESTE TRIBUNAL. SEGURANÇA DENEGADA. AGRAVO INTERNO PREJUDICADO.
+1. O entendimento já pacificado nesta Corte de Justiça é no sentido de que o termo inicial para a contagem do prazo decadencial do mandado de segurança, contra a ausência de nomeação de aprovados em concurso público, é a data do término do prazo de validade deste.
+2. O impetrante requer sua reclassificação em virtude da nulidade de questões de raciocínio lógico, em iguais condições aos candidatos mencionados no processo 0569986-78.2014.8.01.0001 e. caso aprovado, pugna pela convocação para as demais etapas do certame, sob o argumento de flagrante violação ao princípio da isonomia.
+3. Na hipótese dos autos, em se tratando de irresignação contra disposições insertas no edital de abertura, deve-se respeitar o término do prazo de validade do concurso como marco inicial de contagem do prazo decadencial, que, no caso, se deu em 20.6.2015, conforme cronograma anexo.
+4. Nesse contexto, uma vez que o presente writ somente fora ajuizado em 3..2017, comprovado está que o fora com inobservância do prazo legal de 120 (cento e vinte), sendo portanto, imperiosa a sua extinção com resolução de mérito, com fulcro no art. 23, da Lei 12.016/2009, c/c o art. 487, inciso II, do CPC.
+5. Preliminar acolhida. Liminar cassada. Segurança denegada. Agravo Interno Prejudicado (fls. 272).
+2. Em suas razões recursais, a parte agravante sustenta que em decorrência da nulidade das seis questões de raciocínio lógico não condizentes com o edital, houve reclassificação de alguns candidatos, incorrendo em convocações para matrícula no curso de formação em 25.3.2017, publicada no DOE 22.144 (fls. 305). Aduz que o prazo decadencial para a propositura do mandamus começará a fluir a partir da publicação do ato administrativo determinante de prejuízo ao ceramista.
+3. O Ministério Público Federal pronunciou-se, em parecer da lavra do Subprocurador-Geral da República WAGNER NATAL BATISTA, pelo desprovimento do recurso (fls. 436/444).
+4. É o relatório.
+5. A irresignação não encontra amparo na jurisprudência da egrégia Primeira Turma que, analisando caso idêntico ao dos autos, se posicionou pela consumação do prazo decadencial para a impetração do mandamus, conforme demonstra o recente precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ART. 23 DA LEI N. 12.906/2009. RECURSO NÃO PROVIDO, COM A DEVIDA VÊNIA AO EM. RELATOR MINISTRO NAPOLEÃO NUNES MAIA FILHO (RMS 58.698/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Rel. p/Acórdão Min. BENEDITO GONÇALVES, DJe 4.6.2019).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECADÊNCIA PARA IMPETRAÇÃO DE MANDADO DE SEGURANÇA. PRETENSÃO DE ANULAÇÃO DE QUESTÃO DE CONCURSO. TERMO A QUO. TÉRMINO DA VALIDADE DO CERTAME. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O prazo decadencial para se impetrar Mandado de Segurança contra omissão da Administração em nomear candidato aprovado em concurso público é a data de expiração da validade do certame.
+III - Outrossim, esta Corte orienta-se no sentido de que o prazo decadencial para a impetração de mandado de segurança, cuja pretensão seja de reverter a eliminação do certame, conta-se a partir da ciência de tal ato, sendo, portanto, irrelevante posterior provimento judicial favorável a outro candidato.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido (AgInt no RMS 57.068/BA, Rel. Min. REGINA HELENA COSTA, DJe 15.10.2018).
+6. Ante o exposto, nega-se provimento ao Recurso Ordinário do Particular.
+7. Publique-se.
+8. Intimações necessárias.
