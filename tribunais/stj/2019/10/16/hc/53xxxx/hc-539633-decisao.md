@@ -1,0 +1,12 @@
+DECISÃO
+ALEX VICTOR DA SILVA alega sofrer coação ilegal ante inércia injustificada atribuída ao Tribunal de Justiça do Estado de São Paulo.
+O impetrante requer, liminarmente e no mérito, que o órgão de segundo grau seja compelido a prestar a jurisdição, sob a alegação de excesso de prazo para o julgamento do Agravo Regimental n. 2173501-97.2019.8.26.000, concluso ao relator desde 20/8/2019, sem data prevista para inclusão em pauta.
+Decido.
+De plano, verifico que o pedido não comporta conhecimento, por ser contrário à jurisprudência consolidada desta Corte Superior.
+Em 8/8/2019, a defesa do paciente requereu habeas corpus ao Tribunal de Justiça do Estado de São Paulo, a fim de discutir o termo inicial de progressão ao regime aberto. A impetração foi distribuída por dependência e conclusa ao relator, no mesmo dia. Em 12/8/2019, por meio de decisão monocrática, ocorreu o indeferimento liminar da inicial. Houve a interposição de agravo regimental, cadastrado em 20/8/2017.
+Pela análise dos autos, é possível notar que existe uma ordem natural a ser observada nas postulações endereçadas ao Judiciário e não há nada de irregular na tramitação do feito. É necessário que o Desembargador relator administre as demandas do seu gabinete e observe o calendário das sessões do colegiado. Ao menos por ora, não está caracterizada nenhuma ofensa ao princípio da razoável duração do processo.
+Assim, não verifico a plausibilidade da tese sustentada nesta impetração e, em consequência, motivos para o processamento do writ.
+Na verdade, soa a especulação ou a aventura processual do impetrante submeter e onerar este Superior Tribunal de Justiça com um pleito tão divorciado da realidade forense. Se, por um lado, verificam-se, diuturnamente, casos de efetivo excesso de prazo no desenvolvimento de processos criminais nas mais variadas instâncias e localidades do país, o caso ora em exame bem exemplifica o desvirtuamento funcional de certas impetrações.
+Talvez por isso - embora não apenas por tal razão - uma quantidade vultosa de writs vem sendo crescentemente distribuída ao Superior Tribunal de Justiça. Com efeito, se em 2014 os HCs no STJ representavam 9% dos feitos e, em 2018, quase 15% do total de processos distribuídos nesta Corte referiam-se a tal classe processual. Já são mais de 535 mil os writs registrados.
+À vista do exposto, não constatada, por ora, qualquer plausibilidade do direito alegado na impetração, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
