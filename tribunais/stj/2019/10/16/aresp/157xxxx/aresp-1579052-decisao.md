@@ -1,0 +1,16 @@
+DECISÃO
+
+Trata-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS. QUALIDADE DE SEGURADO DO FALECIDO. CONDIÇÃO DE SEGURADO ESPECIAL. TRABALHADOR RURAL.
+1. A concessão do benefício de pensão por morte depende do preenchimento dos seguintes requisitos: a) a ocorrência do evento morte; b) a condição de dependente de quem objetiva a pensão; c) a demonstração da qualidade de segurado do de cujus por ocasião do óbito. Além disso, rege-se o benefício pela legislação vigente à época do falecimento e independe de carência.
+2. A qualidade de segurado especial do de cujus deve ser comprovada por início de prova material, corroborada por prova testemunhal, no caso de exercer atividade agrícola como volante ou boia-fria ou mesmo como trabalhador rural em regime de economia familiar.
+Alega violação do art. 55, § 3º, da Lei n. 8.213/1991, no que concerne à inexistência de início de prova material contemporânea ao período em que se quer prova a atividade rural, trazendo o seguinte argumento:
+ O acórdão considerou que, no caso dos autos, a exigência do art. 55, § 3º, fora satisfeita pela parte autora com a juntada de documentos extemporâneos ao período de carência para a comprovação de atividade rural. Dito de outro modo, a parte autora deveria comprovar o exercício de atividade rural num determinado período, de acordo com os limites dados pelos requisitos de idade e requerimento do benefício, entretanto, só apresentou documentos cujo conteúdo ou emissão não coincidem com este período, isto é, não são contemporâneos (fls. 410).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
