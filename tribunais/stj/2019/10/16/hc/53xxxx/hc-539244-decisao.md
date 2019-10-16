@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KAUE CESAR DOS SANTOS GONCALVES, em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CRIMINAL - Tráfico ilícito de drogas - Artigo 33, caput, da Lei nº 11.343/2006 - Recurso adstrito à dosimetria penal e ao regime prisional imposto - (i) Aquilatamento das basilares - Necessidade - Quantidade das substâncias arrestadas que justifica a elevação no patamar de 1 / 6 (um sexto) - Artigo 42 da Lei de Drogas - (ii) Benesse prevista no artigo 33, § 4º, da Lei nº 11.343/2006 - Afastamento - Necessidade - Circunstâncias da conduta dos sentenciados, mormente a apreensão de papeis com manuscritos sugestivos da contabilidade espúria e de relevante quantia em erário, em conjugação com a expressiva quantidade de drogas apreendida, que evidenciam, extreme de dúvidas, que se dedicavam eles às atividades criminosas - Penas ora concretizadas em 05 (cinco) anos e 10 (dez) meses de reclusão, além do pagamento de multa de 583 (quinhentas e oitenta e três) diárias mínimas - Regime prisional - Modalidade extrema que se mostra como efetiva resposta estatal no caso em concreto - RECURSO PROVIDO.
+MANDADO DE PRISÃO - Esgotamento das vias ordinárias criminais - Expedição após o transcurso do lapso para embargos - DETERMINAÇÃO DE EXPEDIÇÃO DE MANDADO DE PRISÃO APÓS O TRANSCURSO DO INTERREGNO PARA AJUIZAMENTO DE EMBARGOS.
+O paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime aberto, pela prática do crime do art. 33 da Lei n. 11.343/2006.
+Em sede de recurso ministerial, o TJSP deu-lhe provimento para fixar a pena em 5 anos e 10 meses de reclusão, em regime fechado e determinou a expedição de mandado de prisão após o transcurso do prazo para oposição dos embargos.
+Neste writ, sustenta a defesa constrangimento ilegal diante da expedição de mandado prisional, antes da definitividade da condenação.
+Aduz, ainda, o preenchimento dos requisitos para a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Pugna, inclusive liminarmente, pela expedição de contramandado de prisão e pela restauração da pena fixada na sentença condenatória.
+Na origem, o acórdão proferido nos autos da Apelação ministerial n. 0001332-16.2018.8.26.0537 foi publicado em 7/10/2019, consoante informações processuais eletrônicas do site do Tribunal a quo consultadas em 11/10/2019.
+É o relatório.
+DECIDO.
+Inicialmente, é imprescindível destacar que, em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa. Compulsando o presente feito, constato a ausência da sentença condenatória, peça imprescindível para análise da pretensão de restauração da pena fixada pelo juízo de primeiro grau. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO REMÉDIO CONSTITUCIONAL. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é possível conhecer do habeas corpus quando caracterizadas a deficiente instrução do feito e a indevida supressão de instâncias. Além da falta de cópia do aresto impugnado, a pretensão de afastamento da revelia e do art. 366 do CPP foi deduzida diretamente neste Superior Tribunal, sem análise prévia do Juiz de primeiro grau e do Tribunal de Justiça.
+2. A pretensa ilegalidade não exsurge da mera leitura da sentença e do acórdão impugnados, o que impede a aplicação do art. 654, § 2º, do CPP.
+3. Agravo regimental não provido.
+(AgRg no HC 427.049/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Por outro lado, a Sexta Turma desta Corte firmou entendimento, ao apreciar o HC 352.845/SP, Rel. Ministra Maria Thereza de Assis Moura, julgado em 26/04/2016, DJe 03/05/2016, adotando orientação fixada pelo Pleno do Supremo Tribunal Federal (HC 126.292/SP, Rel. Min. Teori Zavascki, de 17/2/2016, DJe 17/5/2016), segundo o qual a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola ao constitucional princípio da presunção de inocência.
+Desse modo, prolatado o julgamento por Tribunal de Apelação, e ausentes recursos especial ou extraordinário com casuísticos efeitos suspensivos concedidos - por cautelar ou habeas corpus -, é possível a execução provisória da pena.
+Na espécie, segundo informações disponíveis no site do TJSP, denota-se o não esgotamento da instância ordinária.
+Nesse contexto, a expedição de mandado de prisão antes do exaurimento da instância ordinária implicaria constrangimento ilegal ao direito de locomoção do paciente, passível da concessão da ordem de habeas corpus. Nesse sentido:
+HABEAS CORPUS. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. EXECUÇÃO PROVISÓRIA DA PENA. PRISÃO DETERMINADA PELO TRIBUNAL APÓS O JULGAMENTO DA APELAÇÃO. EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES PENDENTES DE JULGAMENTO. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. PRISÃO PREMATURA. HABEAS CORPUS CONCEDIDO.
+1. O Plenário do Supremo Tribunal Federal, por maioria de votos, entendeu que A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal (STF, HC n. 126.292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe 17/05/2016). Tese confirmada pelo Pleno da Corte Suprema, em sede de Ação Declaratória de Constitucionalidade (ADCs ns. 43 e 44), na sessão do dia 5/10/2016. Interpretação conforme a Constituição, dada pelo STF, ao art. 283 do CPP. Ressalva, no ponto, do entendimento do Relator. Inocorrência da alegada reformatio in pejus. Precedentes.
+2. Na espécie, todavia, embora eventuais recursos especial e extraordinário não sejam dotados de efeito suspensivo, a jurisdição das instâncias ordinárias ainda não se encerrou. Contra o julgamento do recurso de apelação foi oposto, no caso, embargos declaratórios com efeitos infringentes que, segundo andamento processual obtido no endereço eletrônico do Tribunal de origem, pende de julgamento.
+Desse modo, diante da ausência de exaurimento no julgamento nas instâncias ordinárias, revela-se prematuro o início da execução provisória da pena.
+3. Habeas corpus concedido para garantir que o paciente aguarde em liberdade o exaurimento das instâncias ordinárias (HC 406.015/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/08/2017, DJe 31/08/2017).
+Contudo, no caso, a Corte de origem assim consignou (fl. 32):
+Transcorrido o lapso para interposição de embargos, EXPEÇAM-SE MANDADOS DE PRISÃO
+Desse modo, não se verifica a configuração de ilegalidade a ser sanada por esta Corte Superior.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
