@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, [NOME] impetrou mandado de segurança contra ato omissivo atribuído ao Governador do Estado do Paraná e ao Reitor da Universidade Estadual do Oeste do Paraná, objetivando a sua nomeação e posse ao cargo de Professor de Ensino, na área de Física, com valor da causa atribuído em R$ 500,00 (quinhentos reais), em julho de 2018.
+A segurança foi denegada pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, ficando consignado que, uma vez que o prazo de validade do concurso ainda não expirou, não há que se falar em direito líquido e certo à imediata nomeação do candidato, ainda que aprovado dentro das vagas.
+O referido acórdão foi assim ementado, in verbis:
+MANDADO DE SEGURANÇA CÍVEL. CONCURSO PÚBLICO. CANDIDATO APROVADO EM PRIMEIRO LUGAR. PRAZO DE VALIDADE DO CONCURSO NÃO EXPIRADO. DISCRICIONARIEDADE DA ADMINISTRAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, [NOME] interpôs recurso ordinário, apontando que seu direito à imediata nomeação e posse se justifica pela existência de contratações precárias para o cargo em que logrou aprovação.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público Federal deixa de apresentar parecer dada a prescindibilidade da sua intervenção no processo civil, senão quando tensionados interesses indisponíveis ou interesses públicos qualificados, dotados de especial relevância social.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A jurisprudência desta Corte Superior é pacífica no sentido de que o candidato aprovado dentro do número de vagas ofertadas em edital de concurso público tem o direito público subjetivo à nomeação, a Administração Pública não podendo dispor desse direito.
+No entanto, o momento em que, dentro do prazo de validade do certame, a nomeação ocorrerá, observa juízo de oportunidade e conveniência.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS. PRETENSÃO DE NOMEAÇÃO IMEDIATA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PROVIMENTO DO CANDIDATO APROVADO. OPORTUNIDADE E CONVENIÊNCIA DA ADMINISTRAÇÃO PÚBLICA. RE 598.099/MS. REPERCUSSÃO GERAL.
+1. O candidato aprovado dentro do número de vagas ofertadas em edital de concurso público tem o direito público subjetivo à nomeação, a Administração Pública não podendo dispor desse direito. No entanto, o momento em que, dentro do prazo de validade do certame, a nomeação ocorrerá, observa juízo de oportunidade e conveniência. Inteligência do RE 598.099/MS, rel. Em. Min. Gilmar Mendes, julgado sob o regime da repercussão geral.
+2. Recurso ordinário em mandado de segurança não provido.
+(RMS 53.898/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/6/2017, DJe 21/6/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. APROVAÇÃO DENTRO DO NÚMERO DE VAGAS. CONCURSO COM PRAZO DE VALIDADE EM VIGOR.
+1. Trata-se, na origem, de Mandado de Segurança impetrado contra ato omissivo, concernente à falta de nomeação do impetrante para o cargo de professor de educação básica, destinado ao município de Açucena, no qual o impetrante alegou o direito líquido e certo à sua imediata nomeação.
+2. No caso, o impetrante se classificou em 3º lugar e foram previstas 2 vagas no edital do certame, tendo sido tornado sem efeito a nomeação do 1º classificado, o que permite concluir que a aprovação se deu dentro do número de vagas previstas.
+3. Contudo, foi prorrogada a validade do referido concurso público, que tem vigência até janeiro de 2017, de modo que nem mesmo o candidato aprovado dentro do número de vagas previstas no edital possui direito subjetivo à sua nomeação imediata, sendo faculdade da Administração a escolha do momento adequado para o implemento desta medida, dentro do prazo de validade do certame.
+4. Por conseguinte, se não há direito líquido e certo devidamente caracterizado e comprovado, inviabiliza-se a pretensão mandamental.
+5. Recurso Ordinário em Mandado de Segurança não provido.
+(RMS 49.942/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 1º/3/2016, DJe 19/5/2016).
+Na hipótese, como bem apontado pelo Tribunal de origem, o edital, em seu item 19.1 (fl. 54), consta que "O prazo de validade do Concurso é de até 2 (dois) anos, prorrogável uma vez por igual período, contados da data da publicação da homologação dos resultados no Diário Oficial do Estado".
+Assim, como a homologação do resultado final do concurso ocorreu em 13.03.2018, contado os dois anos da validade previsto no edital do concurso, o prazo fatal seria 12.03.2020, para a convocação do candidato.
+Ademais, é cediço que a admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço.
+São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO ALÉM DO NÚMERO DE VAGAS OFERECIDO NO EDITAL. NOMEAÇÃO. EXPECTATIVA DE DIREITO. PRECEDENTES DO STJ E STF. SERVIDORES TEMPORÁRIOS. ART. 37, IX, DA CF/88. NECESSIDADES TRANSITÓRIAS DA ADMINISTRAÇÃO. PRORROGAÇÃO ILEGAL DO CONTRATO. IMUTABILIDADE DA NATUREZA PRECÁRIA. PRETERIÇÃO NÃO CARACTERIZADA.
+1. Candidatos aprovados em concurso público, no qual se classificam para além das vagas oferecidas no edital do certame, não têm o direito líquido e certo à nomeação, mas tão somente, expectativa de direito. Precedentes do STJ e do STF.
+2. A admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço. São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos.
+3. A prorrogação dos contratos temporários para além dos limites temporais legalmente fixados não modifica sua natureza transitória, para transformá-los em vínculos efetivos.
+4. Agravo interno a que se nega provimento.
+(AgInt no RMS 51.806/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/3/2017, DJe 30/3/2017).
+ADMINISTRATIVO. CONCURSO PÚBLICO. CARGO DE ENFERMEIRO. CONTRATAÇÃO TEMPORÁRIA PARALELA AO PERÍODO DE VALIDADE DO CONCURSO. NÃO COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+I - A impetrante não está classificada dentro do número de vagas previstas no instrumento convocatório. A atual jurisprudência desta Corte é firme no sentido de que "candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância -, cujo preenchimento está sujeito a juízo de conveniência e oportunidade da Administração. Precedentes do STJ". (RMS 47.861/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/6/2015, DJe 5/8/2015).
+II - A mera expectativa de nomeação dos candidatos aprovados em concurso público (fora do número de vagas) convola-se em direito líquido e certo quando, dentro do prazo de validade do certame, há contratação de pessoal de forma precária para o preenchimento de vagas existentes, com preterição daqueles que, aprovados, estariam aptos a ocupar o mesmo cargo ou função.
+III - A paralela contratação de servidores temporários, admitidos mediante processo seletivo fundado no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não caracteriza, só por si, preterição dos candidatos aprovados em concurso público para provimento de cargos efetivos.
+IV - Agravo interno improvido.
+(AgInt no RMS 51.478/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/3/2017, DJe 24/3/2017).
+Assim, para se verificar a regularidade ou não das contratações temporárias, seria necessária dilação probatória, o que é inviável nesta via mandamental.
+Logo, estando dentro do prazo do edital e não comprovada de plano a preterição, não há que se falar em direito líquido e certo.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
