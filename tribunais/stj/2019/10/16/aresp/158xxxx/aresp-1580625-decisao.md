@@ -1,0 +1,13 @@
+DECISÃO
+
+Trata-se de agravo apresentado por ESTADO DO PARANÁ contra a decisão que não admitiu seu recurso especial fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA PREVENTIVO. RECURSO DE APELAÇÃO DO ESTADO. ALEGAÇÃO DE AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRODUTORES RURAIS. VENDA DE FOLHA DE TABACO PARA POSTERIOR EXPORTAÇÃO. ICMS. IMUNIDADE TRIBUTÁRIA PREVISTA NO ART. 155, §2º, X, A, DA CONSTITUIÇÃO FEDERAL E NO ART. 3º DA LEI COMPLEMENTAR 87/96. IMUNIDADE QUE ALCANÇA TODA A CADEIA DE PRODUÇÃO DA MERCADORIA DESTINADA À EXPORTAÇÃO. ABSTENÇÃO DE QUALQUER ATO OBJETIVANDO A COBRANÇA DO ICMS. RECURSO DESPROVIDO E SENTENÇA MANTIDA EM SEDE DE REEXAME NECESSÁRIO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 3º, II, da LC n. 87/96, trazendo, em síntese, os seguintes argumentos:
+ Assim, o inciso II do artigo 3º. da Lei Complementar 87/96, não poderiam ampliar a restrição estabelecida no texto constitucional e a sua literalidade não conduz a isso na medida em que se restringe às operações e prestações que destinem ao exterior mercadorias e não engloba as operações que antecedem na cadeia produtiva essa última operação de destinação.
+Esta a melhor interpretação do artigo 3º da Lei Kandir -  em consonância com a CF/88 -, a qual colide frontalmente com a interpretação perpetrada pelo Acórdão recorrido (fls. 526).
+É o relatório. Decido.
+Na espécie, é incabível o recurso especial porque a tese recursal é eminentemente constitucional.
+Com efeito, "a verificação de eventual violação do acórdão da origem a preceito de índole constitucional não se conforma às hipóteses de cabimento do recurso especial" (REsp 1756473/RO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/8/2018, DJe de 29/8/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1614030/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/2/2019, DJe de 13/2/2019; AgInt no REsp 1581960/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/5/2018, DJe de 28/5/2018; AgInt no REsp 1573157/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2018, DJe de 20/3/2018; e AgRg no AREsp 375.887/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 1º/3/2018, DJe de 9/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
