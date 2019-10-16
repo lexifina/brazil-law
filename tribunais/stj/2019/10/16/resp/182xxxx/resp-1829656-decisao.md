@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. IMPUGNAÇÃO GENÉRICA DOS CÁLCULOS. IMPOSSIBILIDADE. INOBSERVÂNCIA DE PRESSUPOSTO LEGAL.
+1. Estabelece o § 3º do art. 917 do novo Código de Processo Civil: "Quando alegar que o exequente, em excesso de execução, pleiteia quantia superior à do título, o embargante declarará na petição inicial o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo".
+2. A apelante não anexou à peça inaugural dos embargos os elementos que possibilitassem a verificação dos fatos alegados.
+3. O egrégio Superior Tribunal de Justiça reconhece a aplicação do disposto no § 5º do art. 739-A do Código de Processo Civil de 1973 aos embargos à execução interpostos pela Fazenda Nacional, destacando que: "(..) A regra contida no art. 739-A, § 5º, do CPC, que regula os embargos do devedor fundados em excesso de execução, é aplicável contra a Fazenda Pública, pelo que esta deve instruir a petição inicial com memória de cálculo indicando o valor que entende correto, sob pena de os embargos serem liminarmente rejeitados. 2. Recurso especial conhecido e provido." (REsp 1192529/MS, Rel. Ministro TEORI ALBINO ZAVASCKI, Rel. p/ Acórdão Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 09/11/2010, DJe 25/11/2010).
+4. Em virtude da falta de indicação do "quantum" referente ao excesso de execução, resta configurada a violação ao art. 917, § 3º, do novo Código de Processo Civil.
+5. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea "a" do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022 do CPC/2015, bem como ao art. 739, § 5º, do CPC/73, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) "não pode prevalecer o v. acórdão ora recorrido quando faz depreender não ser possível à União a integralização a posteriori dos presentes embargos de devedor"; (c) "plenamente possível a juntada de provas, mesmo daquelas que indiquem o quanto devido, até a fase de especificação de provas", "não sendo necessário que as provas venham todas colacionadas na petição inicial"; (d) "perfeitamente, cabível proceder à integralização de sua defesa posteriormente, quando apresentadas as informações pelo órgão competente"; (e) "o Superior Tribunal de Justiça no julgamento do REsp 1.387.248/SC, submetido à sistemática do art. 543-C do antigo CPC, apresentou conclusão no sentido de que o tratamento à Fazenda Pública, no que tange à preclusão para quantificação do excesso em embargos à execução, deve ser diverso em razão da indisponibilidade do interesse público".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A despeito do que constou do acórdão recorrido, verifica-se que o Tribunal de origem não se pronunciou de forma adequada acerca da seguinte questão:
+(..) Entretanto, consta da fundamentação do julgado importante ressalva, no sentido de que a tese firmada no julgamento repetitivo não se aplica às Fazendas Públicas, conforme infra transcrito, verbis:
+Fixada a regra geral, cabe analisar a exceção suscitada pela FAZENDA NACIONAL.
+Sustenta a FAZENDA que, em inúmeros casos, "os credores de título executivos judiciais em desfavor da Fazenda Nacional promovem o cumprimento do julgado, indicando o valor que entendem devido, com base em documentos imprescindíveis à feitura dos cálculos que sequer constam dos autos" (fl. 618).
+Cita como exemplo, dentre outros, os processos relativos à restituição de imposto de renda sobre benefício de complementação de aposentadoria, em que os documentos se encontram em poder do gestor do fundo de previdência.
+Suscita a possibilidade de o credor juntar documentos aleatoriamente, transferindo para o devedor o ônus de obter, no prazo exíguo da impugnação/embargos, os documentos necessários para correta elaboração dos cálculos.
+As questões apresentadas pela FAZENDA NACIONAL merecem consideração, tendo em vista o princípio da indisponibilidade do interesse público, que impede o julgamento por presunção em desfavor dos entes públicos.
+Não é por outra razão que o conteúdo do § 2º do art. 475-L do Código de Processo Civil não foi reproduzido no art. 741, que trata do embargos à execução contra a Fazenda Pública.
+Desse modo, assiste razão à Fazenda Pública quanto à inaplicabilidade da tese aos embargos à execução contra a Fazenda Pública (art. 741 do Código de Processo Civil).
+Cumpre registrar que: (a) tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 167 e seguintes, persistindo a omissão destacada; (b) o precedente citado pela recorrente refere-se ao acórdão proferido no REsp 1387248/SC (Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 07/05/2014, DJe 19/05/2014), submetido ao regime dos recursos repetitivos.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
