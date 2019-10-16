@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que deu provimento ao agravo, interposto pelo Espólio de [NOME], e determinou sua conversão em recurso especial (fl. 821).
+O embargante aduz, em síntese, que a decisão embargada incorre em omissão, de modo que "a hipótese dos autos era de negativa de conhecimento do agravo, ante a aplicação da Súmula 182/STJ" (fl. 828), considerando que "a parte agravante não respondeu à fundamentação de que a alegação de violação aos arts. 5º, XXXVI, e 37, caput, da Constituição Federal não poderia ser aduzida em sede de recurso especial" (fl. 830).
+Com impugnação.
+É o relatório. Decido.
+De início, registra-se que, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, a irresignação não merece obter êxito.
+Do que se observa, a decisão embargada, partindo do pressuposto que o agravo deva ser conhecido, determinou a sua conversão em recurso especial para se realizar uma melhor análise da controvérsia.
+De fato, compulsando novamente as razões do agravo em recurso especial, às fls. 729-767, nota-se que, ao contrário do que sustentado pelo embargante, a parte agravante cuidou de impugnar a o fundamento relativo à inadequação do recurso eleito para se alegar violação de dispositivos constitucionais. À fl. 740, o insurgente aduz o seguinte: "verifica-se que equivocada a decisão ora recorrida ao negar seguimento à insurgência da parte recorrente sob o fundamento de que "a ofensa a dispositivos constitucionais foi deduzida em sede imprópria" que uma vez que, quanto ao tópico, de se ressaltar que, consoante entendimento do Supremo Tribunal Federal, as questões relativas aos pressupostos de admissibilidade de recursos da competência de outros Tribunais não ensejam a abertura da via extraordinária, não possuindo repercussão geral, tendo em vista que a solução da controvérsia exige o enfrentamento da legislação infraconstitucional, configurando, portanto, típica hipótese de ofensa indireta ou reflexa à Constituição Federal, assim como o art. 5º, LV da CF/88".
+Reitera, ainda, que "a determinação de implementação pensão integral dirigida ao recorrido, ora agravado, conforme os valores que o instituidor da pensão se estivesse vivo, tem nítido caráter mandamental, pelo que o descumprimento do mesmo importa em ofensa indireta à coisa julgada, cuja apreciação resta adstrita ao superior tribunal de justiça, nos termos já delineados, pelo que equivocada a decisão quanto ao tópico" (fl. 745).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
