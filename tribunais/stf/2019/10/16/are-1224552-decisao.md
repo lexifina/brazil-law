@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – AUSÊNCIA – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão recorrido:
+    TRIBUTÁRIO. AFASTAMENTO DE MULTA MORATÓRIA. IMUNIDADE RECÍPROCA ENTRE ENTES PÚBLICOS QUE SOMENTE SE VERIFICA QUANDO DA COBRANÇA DE IMPOSTOS. EFEITO CONFISCATÓRIO. INEXISTÊNCIA. SISTEMA LEGAL QUE PERMITE A COBRANÇA DA MULTA EM CASO DE INADIMPLEMENTO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. APELO DESPROVIDO.
+    1. Apelação Cível em Mandado de Segurança, interposta contra a sentença que considerou possível a cobrança de multa feita pela Fazenda Nacional a município.
+    2. A imunidade recíproca dos entes políticos, prevista no art. 150, VI, ‘a’, da CF/88 é extensível às autarquias e às fundações instituídas pelo Poder Público, conforme se depreende do § 2° do mesmo artigo, diz respeito tão-somente a tributos (impostos), não se estendendo às multas aplicadas em decorrência do inadimplemento de contribuições previdenciárias.
+    3. Apelo conhecido, mas desprovido.
+    2. No extraordinário, o recorrente Município de Angelim/PE aponta a violação dos artigos 5º, inciso II, 18, 37 e 84, inciso IV, da Constituição Federal. Afirma negada a autonomia política municipal, considerada a aplicação da multa decorrente do inadimplemento das contribuições previdenciárias. Diz violar o princípio da legalidade administrativa a instituição da penalidade por meio de instrução normativa.
+    No caso, o que sustentado pelo recorrente nas razões do extraordinário não foi enfrentado pelo Órgão julgador. O recurso padece da ausência de prequestionamento. Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim concluiu o Supremo no julgamento do agravo regimental no agravo de instrumento nº 541.696-6/DF, de que fui relator, com acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, resumido na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO PREQUESTIONAMENTO CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
