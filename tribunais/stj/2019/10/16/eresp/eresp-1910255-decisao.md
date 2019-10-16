@@ -1,0 +1,14 @@
+DECISÃO
+
+Trata-se de agravo apresentado por HABITAÇÃO E URBANIZAÇÃO DA BAHIA S A URBIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÕES CÍVEIS SIMULTÂNEAS EXECUÇÃO FISCAL EXTINÇÃO SEM EXAME DO MÉRITO HONORÁRIOS ADVOCATÍCIOS APELAÇÕES A QUE SE NEGA PROVIMENTO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do caput do art. 20 do CPC/1973, no que concerne aos honorários advocatícios, trazendo o(s) seguinte(s) argumento(s):
+ O Tribunal a quo, ao manter a verba honorária no ínfimo montante de R$ 20.000,00 (vinte mil reais), inferior, ressalte-se, a 1% do valor da causa, feriu diretamente disposição legal contida no artigo 20 do CPC/73, uma vez que não observou o que dispõe a lei a respeito da equitatividade no arbitramento da referida verba (fl. 165).
+ Ora, como é possível cogitar que o referido decisum atende aos princípios da proporcionalidade e da razoabilidade, norteadores da apreciação equitativa do juiz, se este reconhece que execução fiscal de dívida já paga de mais de TRÊS MILHÕES DE REAIS foi proposta pela Fazenda Pública de forma temerária, ao tempo em que fixa um valor irrisório (R20 mil - menos de 1% do valor indevidamente executado) a título de condenação em honorários advocatícios  (fl. 166).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Não se conhece do recurso especial, quando o dispostivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula n. 284 do STF" (AgInt no REsp n. 1.788.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 6/6/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.651.670/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/6/2019; AgInt no REsp n 1.689.883/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/6/2019; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
