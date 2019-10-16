@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer c/c indenização por danos morais, fundada na indevida negativa de cobertura do tratamento prescrito.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. O processo de determinação da verba sucumbencial deve seguir a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/06/2019.
+Concluso ao gabinete em: 08/10/2019.
+Ação: de obrigação de fazer c/c indenização por danos morais, ajuizada pelo agravante, em face de UNIMED SÃO JOSÉ DO RIO PRETO COOPERATIVA DE TRABALHO MÉDICO, fundada na indevida negativa de cobertura do tratamento prescrito.
+Sentença: julgou parcialmente procedente a ação para condenar a agravada à cobertura do tratamento do agravante, além do pagamento dos honorários advocatícios, fixados em 20% do valor atualizado da ação.
+Acórdão: deu provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER AUTOR PORTADOR DE DOENÇA OCULAR DEGENERATIVA NEGATIVA DE CUSTEIO DO TRATAMENTO PRESCRITO PELO MÉDICO INSERÇÃO INTRAOCULAR DE DISPOSITIVO DE LIBERAÇÃO LENTA DE DEXAMETASONA ROL DE COBERTURAS OBRIGATÓRIAS NÃO É EXAUSTIVO - AUSÊNCIA DE FUNDAMENTO LEGAL QUE AMPARE A RECUSA DE COBERTURA - ATO ILÍCITO CARACTERIZADO INDENIZAÇÃO POR DANOS MORAIS DEVIDA SENTENÇA PARCIALMENTE REFORMADA RECURSO DA AUTORA PROVIDO.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Quanto à verba honorária, consignou o seguinte (e-STJ, fl. 311):
+Com efeito, a turma julgadora entendeu pela responsabilidade civil indenizável, e condenou a ré também ao o pagamento de danos morais no valor de dez mil reais, e fixou o valor da verba honorária em 20% sobre o valor da condenação (fls. 296).
+Não há vício no decisum com relação à verba honorária, na medida em que o acolhimento dos danos morais modificou a parcial procedência para a total procedência e, nos termos do artigo 85 do Código de Processo Civil, os honorários advocatícios são fixados entre 10% e 20% sobre o valor da condenação ou do proveito econômico obtido (§ 2º), devendo, ainda, ser majorados em sede recursal (§ 11º), tendo por limite o percentual de 20%.
+Recurso especial: alega violação dos arts. 85, §2º, 494, 502, 505, 507, 508 e 1.022, I e II, do CPC/15.
+Alega haver omissão quanto à questão envolvendo a alteração da verba sucumbencial e quanto aos dispositivos prequestionados nos embargos de declaração.
+Sustenta que não poderiam ser alterados os critérios de fixação dos honorários determinados na sentença, a qual teria transitado em julgado. Assim, defende que a sentença deveria ser restabelecida quanto ao valor fixado a título de verba honorária.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da verba sucumbencial (e-STJ, fl. 311), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da Súmula 568/STJ
+Com efeito, quanto ao tema, este Superior Tribunal de Justiça, no recente julgamento do REsp 1.746.072/PR, publicado no DJe de 29/03/2019, consolidou seu entendimento no sentido de que o processo de determinação da verba sucumbencial deve seguir a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+Na hipótese, o Tribunal de origem decidiu nos seguintes termos:
+Com efeito, a turma julgadora entendeu pela responsabilidade civil indenizável, e condenou a ré também ao o pagamento de danos morais no valor de dez mil reais, e fixou o valor da verba honorária em 20% sobre o valor da condenação (fls. 296).
+Não há vício no decisum com relação à verba honorária, na medida em que o acolhimento dos danos morais modificou a parcial procedência para a total procedência e, nos termos do artigo 85 do Código de Processo Civil, os honorários advocatícios são fixados entre 10% e 20% sobre o valor da condenação ou do proveito econômico obtido (§ 2º), devendo, ainda, ser majorados em sede recursal (§ 11º), tendo por limite o percentual de 20%. (e-STJ, fl. 311)
+ Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
