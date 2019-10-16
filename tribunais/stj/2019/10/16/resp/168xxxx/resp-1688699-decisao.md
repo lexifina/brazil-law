@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com base nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 197):
+ACIDENTÁRIA - Auxílio-doença e auxílio-acidente - Revisão da renda mensal inicial - Ilegalidade no cálculo do salário-de-benefício - Aplicação do art. 32, § 20, do Decreto n. 3.048/99 - Princípio da hierarquia das normas - Prevalência do art. 29, inciso II, da Lei n. 8.213/91 - Caso em que, contudo, no caso dos auxílios-doença, as diferenças são relativas a período anterior a agosto de 2008 - Ação proposta em 07/02/2014, operando-se, pois, em relação a eles, a prescrição quinquenal, no caso não interrompida - Diferenças devidas somente em relação ao auxílio-acidente, compensando-se os valores eventualmente pagos administrativamente - Valores em atraso que devem ser atualizados na forma do art. 41 da Lei n. 8.213/91 - Incidência do IPCA-E a partir da elaboração da conta de liquidação - Juros de mora devidos desde a citação, de forma englobada sobre o montante até aí apurado e, depois, mês a mês, de forma decrescente - Aplicação do art. 5º da Lei n. 11.960/09, porém apenas no que concerne aos juros, ante o resultado do julgamento da ADI n. 4.357 pelo STF - Exclusão da imposição de custas ao INSS - Extinção do processo na forma do art. 269, inciso IV, do CPC com relação aos benefícios de auxílio-doença - Recursos autárquico e oficial parcialmente providos, prejudicado o do autor.
+Os embargos de declaração do autor (e-STJ, fls. 203/205) foram rejeitados, nos termos da decisão de e-STJ, fls. 214/216.
+O recorrente alega contrariedade ao art. 202, VI, do Código Civil.
+Sustenta, em suma, que a violação teria ocorrido quando o Tribunal a quo determinou que a prescrição se daria no prazo quinquenal anterior à propositura da ação. No entender do insurgente, a prescrição se dá no quinquênio anterior à expedição do Memorando-Circular Conjunto n. 21/DIRBEN/PFEINSS, datado de 15/4/2010.
+Sem contrarrazões.
+Admitido o recurso especial na origem (e-STJ, fls. 489/490), subiram os autos a esta Corte de Justiça.
+É o relatório.
+A respeito da irresignação recursal, o aresto combatido encontra-se sedimentado nos seguintes fundamentos (e-STJ, fls. 199/200):
+Ocorre que, salvo no que concerne ao benefício NB 543.584.049-6 (auxílio-acidente - fls. 143), a pretensão se prende a diferenças relativas a período anterior ao quinquênio que precedeu o ajuizamento da ação, estando sujeitas à prescrição.
+Com efeito, dispõe o art. 103, parágrafo único, da Lei n8 8.213/91: "Prescreve em cinco anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social, salvo o direito dos menores, incapazes e ausentes, na forma do Código Civil".
+Cabe salientar que o Memorando Circular Conjunto nº 21/DIRBEN/PFEINSS não implicou reconhecimento inequívoco do direito dos segurados, trazendo, na verdade, instruções internas destinadas à uniformização do procedimento administrativo de revisão, para o pagamento de atrasados eventualmente devidos, em conformidade com a alteração da forma de cálculo.
+Tem-se, pois, que não ocorreu, no caso, interrupção da prescrição.
+Nesse sentido, já decidiu esta Câmara:
+"ACIDENTÁRIA - APELAÇÃO DA AUTORA - DECRETO Nº 6.939/09 - NULIDADE DO ATO CONCESSIVO - INTERRUPÇÃO DA PRESCRIÇÃO PELA EDIÇÃO DO MEMORANDO-CIRCULAR CONJUNTO Nº 21 DIRBEN/PFEINSS - INADMISSIBILIDADE - Ausência de reconhecimento inequívoco de direitos do segurado - Necessidade de aferição de critérios específicos, de acordo com o caso concreto - Nulidade do ato de concessão e interrupção da prescrição inadmissíveis - Recurso da obreira não provido" (Apelação n8 0015849-33.2012.8.26.0053, rel. Des. Antonio Tadeu Ottoni, j. em 26/02/2013).
+Tampouco beneficia o autor o acordo realizado na ação civil pública mencionada nos autos, na medida em que preferiu propor ação individual, sem vincular-se à ação coletiva. Não pode, nessa situação, aproveitar-se do que apenas lhe favorece naquele feito, inclusive no tocante à prescrição convencionada, desprezando os ajustes que não lhe interessam.
+Em outras palavras, ou adere à ação coletiva, aceitando o acordo por inteiro, ou se sujeita às consequências da ação individual.
+Ocorre que não se mostra cabível, nesta via, perquirir acerca da suscitada ocorrência da interrupção do prazo prescricional ante o óbice constante da Súmula 7/STJ. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo, senhor na análise probatória. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE ALUGUEL. PRESCRIÇÃO. INTERRUPÇÃO COM A CITAÇÃO EM AÇÃO EXECUTÓRIA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. INVIÁVEL MODIFICAR O QUADRO FÁTICO DELINEADO PELO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A citação válida interrompe a prescrição, dela só se podendo cogitar após o trânsito em julgado da decisão judicial que ponha fim ao processo que a interrompeu, consoante dispõe o art. 202, V, do Código Civil. Súmula 83/STJ.
+2. Infirmar as conclusões do acórdão recorrido demandaria o reexame de provas, o que é inadmissível nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 849.063/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 21/6/2016)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE CANCELAMENTO DE GRAVAME - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Quando as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões, merece ser afastada a alegada violação aos artigos 131, 458 e 535 do Código de Processo Civil de 1973.
+2. A análise acerca da existência de quaisquer das causas interruptivas da prescrição esbarra o óbice da Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 535.718/MG, Rel. Min. MARCO BUZZI, QUARTA TURMA, DJe 5/5/2016)
+Quanto ao dissídio pretoriano, "este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, e tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 485.496/SP, Rel. Min. Humberto Martins, Segunda Turma, julgado em 6/11/2014, DJe 17/11/2014).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
