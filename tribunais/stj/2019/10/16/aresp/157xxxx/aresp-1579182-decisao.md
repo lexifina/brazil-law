@@ -1,0 +1,13 @@
+DECISÃO
+
+Trata-se de agravo apresentado por MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL, contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA - PEDIDO LIMINAR DE INDISPONIBILIDADE DE BENS - REQUISITOS DA LIMINAR - PRESENTES - SOLIDARIEDADE E MULTA AFASTADAS - MONTANTE REVISTO - AGRAVO CONHECIDO E PARCIALMENTE PROVIDO.
+Uma vez que se vislumbrou os requisitos para concessão do pedido liminar de indisponibilidade dos bens, é de ser mantida a decisão objurgada.
+A Lei n. 8.429/92 não autoriza a indisponibilidade de bens para assegurar o pagamento de multa civil e de indenização por dano moral coletivo, mas tão somente visa garantir o ressarcimento do dano causado ao erário ou para impedir que o agente venha a enriquecer ilicitamente.
+Relativamente à medida liminar, desacompanhada de parâmetro real para a imposição de bloqueio de bens do suplicante, há de ser revista, adequando a quantia do bloqueio para o montante equivalente a divisão do suposto dano material, ou seja, em valor igual entre as partes requeridas, indicadas na ação de origem, afastando-se, neste momento, a solidariedade, bem como o valor referente à multa (fl. 363).
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019; e AgInt no AREsp n. 1.425.752/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 12/8/2019).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
