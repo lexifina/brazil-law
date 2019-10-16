@@ -1,0 +1,14 @@
+DECISÃO
+
+Trata-se de agravo apresentado por TIM S/A contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO CIVIL DIREITO PROCESSUAL CIVIL AGRAVO DE INSTRUMENTO AÇÃO DE OBRIGAÇÃO DE FAZER DESCUMPRIMENTO DE OBRIGAÇÃO TRANSFERÊNCIA DOS NÚMERO DE TELEFONE NORMALIZAÇÃO DOS SERVIÇOS DE TELEFONIA E INTERNET MÓVEL ESTIPULAÇÃO DE ASTREINTE PELO DESCUMPRIMENTO DA OBRIGAÇÃO CABIMENTO APLICAÇÃO DO § 1 º DO ART 526 DA LEI N 13105/2015 (CÓDIGO DE PROCESSO CIVIL) POSSIBILIDADE DE LIMITAÇÃO DA MULTA.
+1. No cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as medidas necessárias à satisfação do exequente, como por exemplo, aplicação de multa (§ 1º do art. 536 da Lei n. 13.105/2015).
+2. Recurso de agravo de instrumento conhecido, e, no mérito, parcialmente provido.
+É o relatório. Decido.
+Primeiramente, com relação à ofensa ao art. 492 do CPC, ante a ocorrência de decisão extra petita, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ademais, na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
