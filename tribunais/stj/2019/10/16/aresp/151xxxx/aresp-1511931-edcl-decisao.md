@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. OCORRÊNCIA. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+DECISÃO
+Cuida-se de embargos de declaração em face de decisão que não conheceu do AREsp, por falta de impugnação específica à decisão de inadmissibilidade (fls. 1.600/1.601).
+O embargante, com fulcro no art. 1.022, III, do CPC/2015, aponta a existência de erro material, uma vez que a decisão que não conheceu do AREsp consignou falta de impugnação à Súmula 7/STJ, fundamento inexistente na decisão de inadmissibilidade, que aplicou a Súmula 83/STJ, então não analisado na decisão ora embargada.
+Impugnação (fls. 1.612-1.615).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, identifica-se a existência do erro material, de forma que onde se lê, à fl. 1.600: " No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: inviabilidade de apreciação de matéria constitucional em sede de recurso especial; incidência do óbice da Súmula 7 do STJ", faz-se a devida correção para que assim se considere:
+ "No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: inviabilidade de apreciação de matéria constitucional em sede de recurso especial; incidência do óbice da Súmula 83 do STJ".
+Para espancar qualquer dúvida, assinale-se que na decisão de inadmissibilidade se entendeu a incidência do óbice da Súmula 83/STJ, em relação ao art. 12, I, da LC 87/1996, por o acórdão recorrido estar em conformidade com a jurisprudência do STJ constante nos AgInt no AREsp 1.339.890/MS, de 13/11/2018 e AgInt no AREsp 1.209.112/MS, de 8/11/2018, neste em que se consigna que não constitui fato gerador de ICMS o simples deslocamento de bens e mercadoria entre estabelecimentos de uma mesma empresa, "ainda que situados em estados diversos", nos termos da Súmula 166/STJ, entendimento esse firmado pela Primeira Seção no julgamento do recurso repetitivo REsp 1.125.133/SP.
+Por sua vez, o agravante sustenta a inaplicabilidade da Súmula 83/STJ, alegando que não seria o caso do enunciado sumular n. 166 do STJ, alegando a possibilidade de revisão de precedente, colacionando para isso ementas de julgados do próprio TJMS em que, quanto ao art. 12, I, da LC 87/1996, entendeu-se a inaplicabilidade da Súmula 166/STJ reconhecendo a incidência de ICMS na transferência interestadual de gado bovino entre propriedades do mesmo contribuinte.
+Tem-se, portanto, não impugnado especificamente a decisão de inadmissibilidade, de modo a demonstrar que o vício da decisão ora embargada cingiu-se a apenas erro material.
+Ante o exposto, acolho os embargos de declaração, para correção de erro material, sem efeitos infringentes.
+Publique-se. Intimem-se.
