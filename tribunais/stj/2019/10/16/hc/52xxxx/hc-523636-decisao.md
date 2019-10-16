@@ -1,0 +1,50 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PENA INFERIOR A 8 ANOS E SUPERIOR A 4 ANOS. FIXAÇÃO DO REGIME FECHADO. LEGALIDADE. APLICAÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. RÉU REINCIDENTE. TESES DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. PARECER ACOLHIDO.
+Habeas corpus conhecido em parte e, nesta parte, denegada a ordem.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0000172-64.2018.8.26.0598).
+Colhe-se dos autos que o paciente foi condenado às penas de 5 anos e 10 meses de reclusão em regime fechado e de 583 dias-multa pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (fls. 194/200).
+Irresignada, a defesa interpôs apelação criminal, mas o Colegiado estadual negou provimento ao recurso defensivo, sob a seguinte ementa (fl. 282):
+Apelação - Tráfico - Conduta de guardar e ter em depósito, para fins de tráfico, um tijolo de maconha (501,52g) - Alegada fragilidade probatória e pleito subsidiário de desclassificação para uso pessoal - Inadmissibilidade - Quantidade de drogas, circunstâncias da prisão e depoimentos dos policiais a comprovar a destinação do tóxico ao tráfico e não somente ao uso pessoal - Alegado vício do réu que não afasta a traficância - Condenação mantida - Penas e regime fechado bem aplicados - Réu reincidente a afastar o redutor do artigo 33, § 4º, da Lei de Drogas - Não aplicação do artigo 387, § 2º, do CPP - Recurso desprovido.
+Daí o presente mandamus, em que o impetrante sustenta a absolvição do paciente e, subsidiariamente a desclassificação do crime de tráfico de drogas para uso.
+Defende que seja possibilitada a aplicação do benefício do tráfico privilegiado do art. 33, § 4º, da Lei n. 11.343/2006.
+Aduz ilegalidade decorrente da fixação do regime fechado, argumentando que o paciente possui circunstâncias judiciais favoráveis.
+Requer a absolvição ou desclassificação do crime. Subsidiariamente, pleiteia que seja aplicada a minorante do § 4º do art. 33 da Lei n. 11.343/2006, bem como seja fixado regime diverso do fechado.
+Os autos foram a mim conclusos por prevenção do HC n. 502.584/SP, impetrado em favor do paciente.
+Em 29/7/2019, foi indeferido o pedido liminar (fls. 291/292).
+Solicitadas as informações, essas foram prestadas às fls. 298/307. O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 309/313).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente.
+No caso, não há manifesta ilegalidade a ser sanada, como bem expôs o parecer ministerial, cujos fundamentos também adoto como razões de decidir. Ressaltou a Subprocuradora-Geral da República Mônica Nicida Garcia que (fls. 312/313):
+ ..
+3.1. Com relação aos pleitos absolutório e de desclassificação da conduta típica, tais irresignações não merecem conhecimento, porque a condenação está embasada em vasto acervo probatório submetido ao crivo do contraditório e da ampla defesa, e, por isso, a desconstituição do entendimento das instâncias ordinárias demandaria aprofundado reexame de fatos e provas, providência incabível na via eleita.
+ ..
+A possibilidade de incidência da causa especial de diminuição de pena prevista no parágrafo 4º do artigo 33 da Lei nº 11.343/2006 deve ser considerada somente quando há o preenchimento dos requisitos desse dispositivo legal - o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+In casu, o ora paciente é reincidente, o que afasta a aplicação da referida minorante, conforme constou no v. acórdão recorrido.
+3.3. Quanto ao regime prisional e à substituição da pena privativa de liberdade por restritivas de direitos, a Corte Estadual asseverou que se trata de condenado reincidente, e referida condição somada ao quantum da pena imposta justifica a fixação do regime inicial fechado para desconto da pena corporal.
+Demais disso, fixado o quantum da pena em patamar superior a 4 anos de reclusão, não é de se reconhecer o direito à substituição da pena corporal, por não implementado o requisito objetivo do art. 44, inciso I, do CP.
+Portanto, não há flagrante ilegalidade a ser reparada no presente writ.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir as teses de absolvição e desclassificação da conduta do paciente, pois demandariam o reexame aprofundado do conjunto fático-probatório que compôs o processo principal. O envolvimento ou não do agente no delito que lhe foi imputado é matéria cuja análise foi reservada à ação penal. Portanto, o writ não deve ser conhecido nessa parte.
+Em relação às outras alegações, não assiste razão ao impetrante.
+Quanto ao pleito de aplicação do tráfico privilegiado, já decidiu esta Corte, que, para se acolher a tese de que o paciente não se dedica à atividade criminosa, é necessário o reexame aprofundado das provas, inviável em habeas corpus (HC n. 471.469/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 19/12/2018). E, mais, HC n. 451.996/RS, Ministra Laurita Vaz, Sexta Turma, DJe 13/12/2018.
+Em relação à fixação do regime prisional, embora a pena final tenha ficado aquém de oito anos, não houve ilegalidade na imposição do regime fechado, tampouco desrespeito ao comando da Súmula 440/STJ e das Súmulas 718 e 719/STF, uma vez que a pena-base do paciente foi fixada além do mínimo legal (fls. 194/200).
+Ademais, a fixação do regime inicial não está, necessariamente, ligada à quantidade da pena privativa de liberdade aplicada, sendo imprescindível que se considerem as outras circunstâncias do delito praticado.
+Como cediço, tratando-se de réu reincidente, com pena inferior a 8 anos e superior a 4 anos, a fixação do regime fechado se coaduna com o que estabelece a legislação penal em vigor (art. 33, § 2ª, b, do CP) (AgRg no HC n. 500.480/SC, da minha relatoria, Sexta Turma, DJe 3/6/2019).
+No mesmo sentido, confiram-se:
+DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. EXASPERAÇÃO DA PENA-BASE. NATUREZA E QUANTIDADE. FUNDAMENTO IDÔNEO, CONTUDO, PEQUENA QUANTIDADE DE ENTORPECENTES APREENDIDOS. REDIMENSIONAMENTO DA PENA. REGIME. PENA INFERIOR A 8 ANOS. PACIENTE REINCIDENTE. REGIME MAIS GRAVOSO JUSTIFICADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Em relação à exasperação da pena-base no crime de tráfico, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+3. Contudo, no caso, a quantidade das drogas apreendidas - 6 g de crack e 0,3 g de cocaína (e-STJ fl. 187) - não se mostra expressiva o suficiente para exasperar a pena-base, sendo mais adequado arbitrar a pena no mínimo legal.
+4. Quanto ao regime, tendo em vista que a paciente é reincidente e a pena foi fixada em patamar superior a 4 anos, impõe-se a manutenção do regime inicial fechado, nos termos do art. 33, § 2º, alínea "a", do Código Penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente, mantidos os demais termos da condenação.
+(HC n. 477.507/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/4/2019 - grifo nosso)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO. RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. ATENUANTE NÃO UTILIZADA PARA A CONDENAÇÃO. AUMENTO DA PENA PELA REINCIDÊNCIA. FRAÇÃO DE 1/6. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME INICIAL FECHADO. POSSIBILIDADE. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. RÉU REINCIDENTE. APLICAÇÃO DO ART. 33, § 2º, "B", DO CÓDIGO PENAL - CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. É firme a jurisprudência deste Sodalício em afastar a incidência da atenuante da confissão espontânea nas hipóteses em que a confissão não concorreu para a condenação do réu, como no caso dos autos. Precedentes.
+3. O Código Penal - CP não estabelece limites mínimo e máximo de aumento ou diminuição da pena pela incidência das circunstâncias agravantes ou atenuantes, cabendo ao julgador fixar a fração necessária dentro de parâmetros razoáveis e proporcionais. Com efeito, esta Corte possui entendimento no sentido de que o aumento da pena em razão da agravante da reincidência, na segunda etapa da dosimetria, em patamar superior a 1/6, demanda fundamentação concreta e específica para justificar o aumento em maior extensão. No presente caso, o entendimento consignado pelas instâncias ordinárias está em conformidade com a jurisprudência desta Corte, uma vez que utilizou a fração de 1/6, na segunda etapa da dosimetria.
+4. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo. No mesmo sentido, são os enunciados n. 440 da Súmula desta Corte e ns. 718 e 719 da Súmula do STF. Na hipótese dos autos, não evidencio a existência de ilegalidade na fixação do regime prisional mais gravoso, pois, embora a pena-base tenha sido fixada no mínimo legal, uma vez que as circunstâncias judiciais do art. 59 do Código Penal foram todas favoráveis, e a pena total seja superior a 4 e inferior a 8 anos de reclusão, o regime inicial fechado foi fixado exatamente nos termos do que dispõe o art. 33, § 2º, "b", do Código Penal, por se tratar de paciente reincidente.
+5. Habeas corpus não conhecido.
+(HC n. 479.576/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/2/2019 - grifo nosso)
+Por fim, quanto à substituição da pena, tendo em vista o quantum de pena aplicado (5 anos e 10 meses), ausente está o requisito objetivo.
+Ante o exposto, conheço em parte do habeas corpus e, nesta parte, denego a ordem.
+Publique-se.
