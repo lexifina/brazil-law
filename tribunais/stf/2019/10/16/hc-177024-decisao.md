@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processual Penal. Habeas Corpus. Prisão preventiva. Excesso de prazo. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que negou provimento ao RHC 116.582, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso preventivamente em 18.12.2018, pela suposta prática dos crimes previstos no art. 121. §2º, II e IV, c/c o art. 121 §2°-A, I, do Código Penal e art. 16 da Lei n° 10.826/2003.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Pará. Denegada a ordem, sobreveio RHC no Superior Tribunal de Justiça (STJ). O Relator, Ministro Ribeiro Dantas, negou provimento ao recurso.
+    4. Neste habeas corpus, a parte impetrante afirma, em síntese, que “as respectivas decisões padecem do vício de fundamentação idônea, em manter uma prisão cautelar que se arrasta por 10 meses, sem que a defesa do paciente tenha dado causa”. E, nesse contexto, sustenta que a “demora injustificada da formação da culpa, sem colaboração da defesa, impõe o imediato relaxamento da prisão”.
+    Decido.
+    5. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    6. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    7. Não é caso de concessão da ordem de ofício.
+    8. O STF já decidiu que a aferição de eventual demora injustificada na tramitação do inquérito policial depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    9. Na hipótese de que se trata, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento do pleito defensivo, notadamente se se considerar as seguintes passagens da decisão impugnada:
+    “[...] embora o recorrente esteja cautelarmente segregado há 9 meses, verifica-se que o processo observa trâmite regular, considerando-se a necessidade de expedição de carta precatória para a ouvida de testemunhas.
+    Ademais, afere-se das informações do Juízo monocrático, que os autos já se encontravam conclusos para sentença, quando foi constatado problemas na mídia de gravação, com prejuízo de parte dos depoimentos prestados, razão pela qual foi designada no nova audiência para 31/10/2019, o que, ainda assim não caracterizaria um pretenso excesso de prazo, na medida em que os memoriais finais já foram apresentados.
+    […].”
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 16 de outubro de 2019.
+Ministro Luís Roberto Barroso
+          Relator
