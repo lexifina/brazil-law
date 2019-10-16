@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b" da Constituição Federal e art. 1.027, II, "a" do Código de Processo Civil, apresentado por MAURÍCIO BRANDI ALEIXO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça.
+A parte, embora devidamente intimada a sanar referido vício, não o regularizou uma vez que, no momento do preenchimento do formulário eletrônico, indicou erroneamente o "tipo de ação ou recurso escolhido", ou seja, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa na petição de fls. 248/252.
+Cumpre esclarecer que, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgInt no AREsp 1132940/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/8/2018; AgInt no AREsp 1207816/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018; e AgRg no AREsp 794.865/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018.
+Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
