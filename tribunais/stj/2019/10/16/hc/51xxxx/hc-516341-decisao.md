@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2103069-53.2019.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante, em 31/3/2019, pela suposta infração do art. 157, § 2º, II, c/c o art. 14, II, ambos do Código Penal, por ter tentado "subtrair para proveito comum, mediante grave ameaça exercida com emprego de um simulacro de arma de fogo, o carro da marca Ford, modelo Ka SE 1.0, ano 2016, modelo 2017, placas [PLACA], pertencente ao casal VANDERLEI OLIVEIRA ROSA e [NOME] ROSA" (e-STJ fl. 64). A segregação foi, posteriormente, convertida em preventiva (e-STJ fls. 58/60).
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 29):
+HABEAS CORPUS Roubo majorado Revogação de prisão preventiva Descabimento Decisão que manteve a segregação preventiva devidamente fundamentada Existência de prova do crime e indícios suficientes de autoria Reconhecimento efetuado pela vítima- Necessidade da excepcional constrição cautelar, no caso concreto, para garantia da ordem pública Medidas cautelares do artigo 319 do CPP que se mostram insuficientes a garantir a ordem pública e a instrução criminal Constrangimento ilegal não evidenciado ORDEM DENEGADA.
+Alega a defesa nesta oportunidade que "inexiste nos autos a demonstração, através de fatos concretos, do denominado periculum libertatis, consistente no perigo que o Pacte. representaria ao normal desenvolvimento do processo ou à sua eficácia, se posto em liberdade, sendo imperativa a concessão, em seu favor, dos benefícios da liberdade provisória" (e-STJ fl. 8).
+Aduz que, "a par da primariedade, bons antecedentes, ocupação lícita e residência fixa, ostentadas pelo Pacte., temos a alta questionabilidade da imputação feita na exordial, e não pode um cidadão ficar encarcerado exclusivamente em virtude de simples imputação ou de mera suposição de que ele cometeu um crime doloso" (e-STJ fl. 12).
+Argumenta, ainda, que a peça inaugural acusatória é inepta por não descrever os fatos nitidamente, de modo a não permitir o exercício amplo da defesa.
+Requer, liminarmente, a soltura do paciente e, no mérito, a anulação do processo, por inépcia da denúncia, ou, ao menos, a liberdade provisória.
+O pedido liminar foi indeferido (e-STJ fls. 98/100).
+Informações prestadas (e-STJ fls. 105/136, 139/159 e 162/175).
+Parecer ministerial pela prejudicialidade do habeas corpus (e-STJ fls. 178/179).
+É, em síntese, o relatório.
+Conforme informações prestadas pelo Juízo da 2ª Vara Criminal da Comarca de Ribeirão Preto/SP, sobreveio sentença condenatória em desfavor do ora paciente em 11/7/2019, proferida nos autos da Ação Penal n. 1500867-17.2019.8.26.0530; foi a ele imposta a pena de 2 anos e 8 meses de reclusão, em regime inicial fechado, bem como o pagamento de 6 dias-multa, como incurso no art. 157, § 2º, II, c/c o art. 14, II, ambos do Código Penal, ocasião em que foi mantida a custódia preventiva.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (Sexta Turma, AgRg no RHC 50.857/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, julgado em 15/3/2016, DJe 29/3/2016.)
+De mais a mais, não observo ser a hipótese de flagrante constrangimento ilegal infligido ao paciente, notadamente pelo fato de ter sido consignado, na decisão de prisão preventiva, que o delito foi "cometido mediante emprego de violência à pessoa e concurso de agentes" (e-STJ fl. 59).
+Tal o contexto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
