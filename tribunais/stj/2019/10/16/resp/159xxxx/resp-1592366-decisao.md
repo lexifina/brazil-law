@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, [NOME] ajuizou ação ordinária com valor da causa atribuído em R$ 90.180,00 (noventa mil e cento e oitenta reais), em abril de 2013, tendo como objetivo que se reconheça a ela a condição de dependente do militar anistiado [NOME], na condição de "filha de outro leito", declarando seu direito à cota-parte de  da reparação econômica mensal instituída pela Portaria nº 363, de 04.02.2004, do Ministro do Estado da Justiça, que vem sendo paga na integralidade em favor da viúva/ré [NOME].
+Após sentença que julgou procedente a demanda, foi interposta apelação, que teve seu provimento negado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, ficando consignado que a pensão revertida a seus dependentes deve ser legada de acordo com a Lei 3.765/60, tendo sua filha direito à percepção da cota da pensão instituída com a Lei da Anistia, independentemente de seu estado civil ou da circunstância de possuir ou não condição econômica para sua própria manutenção, não constituindo, essas variantes, óbices ao direito à percepção da pensão.
+O referido acórdão foi assim ementado, in verbis:
+ADMINISTRATIVO. CONCESSÃO DE COTA-PARTE DA PENSÃO MILITAR POR MORTE À FILHA MAIOR E CAPAZ. POSSIBILIDADE. MILITAR ANISTIADO POST MORTEM. FALECIMENTO ANTERIOR À LEI DA ANISTIA. ESTATUTO DE REGÊNCIA. LEI DO ÓBITO DO INSTITUIDOR.
+1. No caso em tela, malgrado a condição de anistiado político tenha sido conferida pela Portaria 363, de 2004, com fulcro na Lei 10.559, de 2002, foi deferida post mortem, em caráter retroativo, uma vez que seu falecimento ocorreu ainda em dezembro 1998, ou seja, antes mesmo da edição da referida Lei da Anistia.
+2. Com efeito, não há como analisar o pedido sob o prisma das regras estabelecidas posteriormente ao passamento, para fins de reversão de eventual benefício, que gize-se, originalmente visava atender ao próprio militar anistiado.
+3. Na hipótese, a pensão revertida a seus dependentes deve ser legada de acordo com a Lei 3.765/60, tendo sua filha direito à percepção da cota da pensão instituída com a Lei da Anistia, independentemente de seu estado civil ou da circunstância de possuir ou não condição econômica para sua própria manutenção, não constituindo, essas variantes, óbices ao direito à percepção da pensão.
+Os embargos de declaração interpostos foram acolhidos para sanar omissão, "deixando claro que não fora reconhecida a prescrição do fundo de direito ao caso" (fl. 276), porém sem efeitos infringentes.
+Contra a decisão cuja ementa se encontra acima transcrita, a União interpôs o presente recurso especial, apontando violação dos arts. 3º, 267, VI, e 535, I e II, todos do CPC/73; art. 1º do Decreto nº 20.910/32; art. 13 da Lei nº 10.559/02; e art. 50, § 2º, da Lei nº 6.880/80.
+Sustenta que, mesmo instado a tanto, o Tribunal de origem deixou de se manifestar acerca da apontada ilegitimidade ativa da Recorrida, uma vez que deveria ter comprovado sua dependência econômica com o falecida, o que não teria ocorrido na hipótese dos autos; e ainda, que:
+Ora, trata-se de ex-militar ANISTIADO (falecido em 1998), cuja lei reguladora dessa anistia é a lei 10.559/2002. A lei aplicada pelo TRF4 (lei 3765/60) não regula a anistia.
+E muito pior, não pode o TRF4 considerar como mesmo instituto a PENSÃO MILITAR (lei 37650/60) e a ANISTIA da lei 10.559/02.
+Da mesma forma, a prescrição é evidente, devido ao lapso entre a edição da lei 10.559/02 e o ajuizamento da demanda em 04/2013. (fl. 294)
+Defende a ilegitimidade ativa da Autora, uma vez que não poderia ser considerada dependente, tampouco pensionista, para fins da reparação econômica da Lei nº 10.559/02.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Parecer do MPF pelo desprovimento do recurso.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo nº 2 do Superior Tribunal de Justiça.
+Sobre a alegada violação do art. 535 do CPC/1973, por suposta omissão pelo Tribunal de origem da análise da questão acerca da necessidade da comprovação de dependência econômica entre a beneficiária e o instituidor da pensão, bem como quanto à lei aplicável à hipótese e à prescrição, verifica-se não assistir razão ao recorrente.
+Na hipótese dos autos, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador, que enfrentou todas as questões pertinentes sobre os pedidos formulados.
+Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. ICMS. ISENÇÃO TRIBUTÁRIA. TRANSPORTE DE MERCADORIAS CUJA DESTINAÇÃO FINAL É A EXPORTAÇÃO. ART. 3º, II, DA LC N. 87/1996. DIREITO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 1.022 do Novo Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Consoante a jurisprudência desta Corte, a Primeira Seção, no julgamento do EREsp 710.260/RO, asseverou que a isenção prevista no art. 3º, II, da LC n. 87/1996 alcançaria além das operações que destinam mercadorias diretamente ao exterior, como também àquelas outras que integram todo o processo de exportação, como o transporte interestadual.
+3. Agravo interno não provido.
+(AgInt no AREsp 1323892/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/11/2018, DJe 22/11/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1.498.690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017, DJe 20/3/2017).
+No mérito, busca a parte Autora o direito ao rateio da reparação econômica prevista na Lei nº 10.559/02.
+O pagamento da prestação mensal continuada, da Lei nº 10.559/2002, somente é devida aos dependentes econômicos do anistiado, nos termos dos artigos 13 e 16 da lei de regência. Todavia, esse não é o caso da Autora, que figura como beneficiária de pensão militar, da Lei nº 3.765/60, na condição de filha maior e solteira.
+Desse modo, não tendo sido comprovado que a Autora figuraria como dependente econômica do segurado, não falar em direito à pretendida quota-parte da reparação econômica mensal.
+Confira-se:
+ADMINISTRATIVO E PROCESSO CIVIL. MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. MILITAR. IMPETRANTES QUE RECEBEM PENSÃO. FILHAS MAIORES. VALOR DE RETROATIVOS QUE É DEVIDO SÓ AOS DEPENDENTES ECONÔMICOS. ARTIGOS 13 E 16 DA LEI 10.559/2002. PRECEDENTES.
+1. Cuida-se de mandado de segurança impetrado por filhas maiores de militar, outorgado com anistia política "post mortem", no qual é perseguido o pagamento dos valores retroativos da anistia política, fixados na Portaria n. 292, de larva do Ministro de Estado da Justiça, publicada no Diário Oficial da União em 11.2.2010.
+2. O pagamento da prestação mensal continuada, da Lei n. 10.559/2002, somente é devida aos dependentes econômicos do anistiado, nos termos dos artigos 13 e 16, Esse não é o caso das impetrantes, que figuram como beneficiárias de pensão militar, na condição de filhas maiores e solteiras.
+3. Estando ausente a comprovação acerca de que as impetrantes figurariam como dependentes econômicas, deve ser denegada a ordem. Precedentes: EDcl no MS 18.270/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 31.10.2012; MS 17.371/DF, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 1º.8.2012; e MS 11.715/DF, Rel. Ministra Maria Thereza de Assis Moura, Terceira Seção, DJ 30.10.2006, p. 238.
+Segurança denegada.
+(MS 20.066/DF, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 10/12/2014, DJe 17/12/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. ANISTIADO POLÍTICO. LEI 10.559/2002. REPARAÇÃO ECONÔMICA. ÓBITO POSTERIOR À CONCESSÃO. LEGITIMIDADE ATIVA. HERDEIROS E SUCESSORES LEGAIS.
+1. Hipótese em que ficou consignado que, "diante do falecimento do cônjuge, os valores referentes ao retroativo ingressam na esfera patrimonial do espólio e, posteriormente, dos sucessores, uma vez encerrado o trâmite do respectivo inventário".
+2. Há ressalva quanto à concessão de anistia política post mortem, pois "as parcelas retroativas concernentes à reparação econômica vencidas após o óbito do anistiado político não chegam a integrar seu patrimônio jurídico; por conseguinte, não são transferíveis aos seus herdeiros e sucessores legais, mas àqueles considerados dependentes econômicos nos termos da Lei 10.559/02" (MS 17.371/DF, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 1º/8/2012).
+3. Esta Turma extinguiu a ação com fundamento claro e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+4. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+5. Embargos de Declaração rejeitados.
+(EDcl no MS 18.270/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 26/09/2012, DJe 31/10/2012)
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. LEI N.º 10.559/2002. PORTARIA DO MINISTRO DA JUSTIÇA. OMISSÃO DO MINISTRO DE ESTADO DE DEFESA NO SEU INTEGRAL CUMPRIMENTO. WRIT IMPETRADO POR FILHA DE ANISTIADO POLÍTICO FALECIDO. AUSÊNCIA DE DEMONSTRAÇÃO DE DEPENDÊNCIA ECONÔMICA. ILEGITIMIDADE ATIVA.
+1. Filha de anistiado político falecido que não comprova sua dependência econômica em relação a ele, nos termos artigo 13 da Lei de Anistia (Lei nº 10.559/2002), não tem legitimidade para figurar no pólo ativo de mandado de segurança.
+2. Processo extinto sem julgamento do mérito.
+(MS 11.715/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 11/10/2006, DJ 30/10/2006, p. 238)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para julgar improcedente a demanda.
+Inverto os ônus sucumbenciais.
+Publique-se. Intimem-se.
