@@ -1,0 +1,31 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+Apelação Cível - Ação de Obrigação de Fazer c/c Danos Morais e Materiais - Plano de saúde [NOME] constituído na modalidade autogestão - Inaplicabilidade do CDC - Súmula nº 608 do STJ - Reajuste em período inferior a 12 (doze) meses - Não possibilidade - Observância dos princípios da força obrigatória do contrato (pacta sunt servanda) e da boa-fé contratual - Manutenção da sentença - Recurso conhecido e desprovido. À unanimidade. (fl. 393).
+Alega violação dos arts. 10, § 3º, 15, 16 e 35-E da Lei n. 9.656/98; e 421 e 422 do CC, trazendo os seguintes argumentos:
+ Em verdade, não há que se falar em reajuste de mensalidade, mas sim, em nova forma de custeio.
+Anteriormente a essa nova forma de custeio que passou a ser adotada, a [NOME] cobrava a título de mensalidade o chamado preço único. Isso quer dizer que todo e qualquer beneficiário da [NOME], de qualquer idade e em qualquer faixa de risco, pagava o mesmo valor de mensalidade.
+ ..
+Viola-se dispositivo da Lei 9.656/98 na medida em que se desconsidera absolutamente o tratamento diferenciado concedido pela própria lei à operadora e pela Agência Nacional de Saúde Suplementar, em razão de se tratar de entidade de autogestão, e aplica-se à RECORRENTE obrigação que inexiste em razão da Lei.
+ ..
+Frise-se, ainda, que o estabelecimento de devolução dos valores pagos a título de mensalidade é totalmente iviável, visto que foram feitas absolutamente dentro da legalidade, posto que tal medida só pode ser aplicada caso a cobrança seja indevida e decorrente de má-fé. (fls. 433/437).
+É o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem decidiu:
+No caso dos autos, a apelante - [NOME] em planos de saúde - possui sua forma de gestão definida pelos beneficiários e patrocinadores, com exclusividade para um público determinado, não se tratando de produto oferecido livremente no mercado, sendo, portanto, inaplicáveis as normas consumeiristas.
+ ..
+Compulsando os autos, verifico que a autora é beneficiária do plano de saúde requerido desde 28/10/1994 e que, desde 2015, vem a operadora reajustando o valor do contrato por diversas vezes e em prazo inferior a 1 (um) ano.
+Conforme documentação juntada pelo [NOME], mais precisamente pelo Memorando da ANS (fl. 218), a variação anual de custos dos planos coletivos acordado entre os participantes e patrocinadores não está sujeita à limitação do índice de reajuste estabelecido pela agência reguladora.
+Porém, quanto à data de reajuste do plano, imperioso salientar que o Regulamento do Plano [NOME] Saúde II (fls. 312/313), o qual determina que a contribuição para o plano deverá ser reajustada anualmente, ressalvadas as variações do valor da contratação pecuniária em razão de mudanças de faixa etária, migração e adaptação do contrato à Lei 9656/98. Vejamos:  ..
+ ..
+O princípio da força obrigatória do contrato, denominado , consiste no pressuposto de que o pactuado pelas partes, pacta sunt servanda deverá ser estritamente cumprido, como forma de preservação da vontade das mesmas que, presumidamente, é livre e consciente no momento da celebração do contrato.
+Assim, quando há formalização de um contrato, a intenção das partes é ou, ao menos, deveria ser, de cumprir o mesmo, em atenção ao princípio da boa-fé contratual, previsto no art. 422 do Código Civil. É, exatamente, o que denota a expressão, ou seja, pacta sunt servanda os contratos são criados para serem cumpridos.
+Ora, de nada valeria o negócio, se o acordo firmado entre os contraentes não tivesse força obrigatória. É necessário que haja segurança e credibilidade nos contratos firmados.
+Ademais, imperioso salientar que a autora acosta aos autos fichas financeiras (fls. 39/48) demonstrando o reajustamento do valor do plano contratado, contudo, não vislumbro qualquer defesa por parte do demandado/apelante, em observância a regra insculpida no art. 373, II, do NCPC, de que tais majorações decorreram das ressalvas previstas no parágrafo 4º do art. 36 acima transcrito.
+Diante dessas informações, conclui-se pela ilegalidade dos reajustes praticados pela operadora de saúde em prazo inferior ao anual, devendo a sentença de primeiro grau ser mantida em todos os seus termos. (fls. 394/395).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
