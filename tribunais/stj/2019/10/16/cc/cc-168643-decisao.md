@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUIZO FEDERAL DA 8ª VARA CIVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, suscitante, e o JUÍZO FEDERAL DA 6A VARA DE SÃO JOÃO DE MERITI, suscitado, nos autos de mandado de segurança impetrado por DAIANA DA COSTA FERREIRA contra ato imputado à União, pretendendo a anulação do ato que indeferiu o seu requerimento a concorrer às vagas destinadas a candidatos negros e pardos.
+O mandamus foi impetrado perante o JUÍZO FEDERAL DA 6A VARA DE SÃO JOÃO DE MERITI, que declinou da competência, por entender que, em se tratando de mandado de segurança que versa exclusivamente acerca da decisão sobre o concurso público realizado em âmbito nacional, a autoridade competente para figurar no polo passivo da ação é a autoridade detentora da atribuição de efeitos à contestação administrativa, no caso, o responsável da sede funcional em Brasília/DF. Assim, determinou o encaminhamento do feito à Justiça Federal do Distrito Federal (fl. 37).
+Os autos foram distribuídos ao 8ª VARA CIVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, que suscitou o presente conflito, por entender não ser a competente para a análise do feito, porquanto a regra do § 2º do artigo 109 da CF possibilita a opção pelo domicílio do impetrante (fls. 10-12).
+Relatados. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+Da interpretação do artigo 109, § 2º da Constituição Federal extrai-se a ausência de qualquer tipo de restrição no que concerne à opção conferida ao autor, que, por isso, é o juiz de sua conveniência para exercê-la, limitadas, apenas, às opções estabelecidas pelo próprio texto constitucional.
+Nesse ponto, constata-se que as causas intentadas contra a União poderão, de acordo com a opção do autor, ser aforadas perante os juízos indicados no art. 109, § 2º, da Lei Maior. O ordenamento constitucional, neste aspecto, objetiva facilitar o acesso ao Poder Judiciário da parte quando litiga contra a União.
+Assim sendo, é legítima a opção da parte autora de que o feito ajuizado seja processado no foro de seu domicílio. O artigo 109, § 2º da CF elenca foros nos quais a ação pode ser ajuizada, cabendo ao autor da ação escolher o foro em que irá propor a demanda.
+Nos termos da jurisprudência do Supremo Tribunal Federal, o § 2º do art. 109 da Constituição Federal é aplicável também quando se tratar de mandado de segurança.
+Confira-se:
+CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. JURISDIÇÃO E COMPETÊNCIA. MANDADO DE SEGURANÇA. UNIÃO. FORO DE DOMICILIO DO AUTOR. APLICAÇÃO DO ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência do Supremo Tribunal Federal está pacificada no sentido de que as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Agravo regimental improvido.
+(RE 509.442 AgR, Relatora  Min. Ellen Gracie, Segunda Turma, DJe 20/8/2010).
+CONSTITUCIONAL. COMPETÊNCIA. CAUSAS AJUIZADAS CONTRA A UNIÃO. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. APLICABILIDADE ÀS AUTARQUIAS FEDERAIS, INCLUSIVE AO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE. RECURSO CONHECIDO E IMPROVIDO.
+I - A faculdade atribuída ao autor quanto à escolha do foro competente entre os indicados no art. 109, § 2º, da Constituição Federal para julgar as ações propostas contra a União tem por escopo facilitar o acesso ao Poder Judiciário àqueles que se encontram afastados das sedes das autarquias.
+II - Em situação semelhante à da União, as autarquias federais possuem representação em todo o território nacional.
+III - As autarquias federais gozam, de maneira geral, dos mesmos privilégios e vantagens processuais concedidos ao ente político a que pertencem.
+IV - A pretendida fixação do foro competente com base no art. 100, IV, a, do CPC nas ações propostas contra as autarquias federais resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo referido dispositivo constitucional.
+V - A jurisprudência do Supremo Tribunal Federal tem decidido pela incidência do disposto no art. 109, § 2º, da Constituição Federal às autarquias federais. Precedentes.
+VI - Recurso extraordinário conhecido e improvido.
+(RE 627709, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 20/08/2014, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014).
+Nesse sentido, as seguintes decisões: CC 137.408/DF, Rel. Min. BENEDITO GONÇALVES, DJe 13.3.2015; CC 145.758/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.3.2016; CC 137.249/DF, Rel. Min. SÉRGIO KUKINA, DJe 17.3.2016 E CC 143.836/DF, Rel. Min. HUMBERTO MARTINS, DJe 9.12.2015.
+Ante o exposto, a teor do exposto no artigo 109, § 2º, da CF, conheço do conflito para declarar competente o JUÍZO FEDERAL DA 6A VARA DE SÃO JOÃO DE MERITI, ora suscitado.
+Publique-se. Intimem-se.
