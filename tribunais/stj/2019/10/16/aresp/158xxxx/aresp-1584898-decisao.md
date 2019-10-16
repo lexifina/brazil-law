@@ -1,0 +1,25 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA SISTEMA FINANCEIRO DE HABITAÇÃO COBERTURA PARA VÍCIOS CONSTRUTIVOS CLÁUSULA RESTRITIVA NÃO REDIGIDA EM DESTAQUE INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR RISCO DE DESMORONAMENTO NÃO COMPROVADO AUSÊNCIA DE COBERTURA PARA OS DANOS CONSTATADOS RECURSO CONHECIDO E DESPROVIDO CORREÇÃO EX OFFÍCIO DE ERRO MATERIAL VERIFICADO NO DISPOSITIVO DA SENTENÇA
+Quanto à controvérsia apresentada nos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 51, I, IV, XIII e § 1º, II, do CDC, trazendo o(s) seguinte(s) argumento(s):
+Em sendo de ordem pública as regras do CDC, com nítido interesse social (artigo 5º, inciso XXXII e 170, V, da CF/88), é dever declarar nulas as cláusulas reputadas abusivas. Assim sendo, e considerando que o seguro habitacional é obrigatório, típico contrato de adesão, a cláusula que restringe o dever de indenizar deve ser afastada ao julgamento do presente feito.
+ .. .
+Portanto, em não havendo previsão expressa de exclusão da cobertura securitária dos danos provocados por vícios construtivos nos imóveis objetos do Seguro Habitacional, o contrato de seguro abrange tais vícios e, em decorrência lógica, obriga a seguradora na sua indenização.
+ .. .
+Não há que se falar em exclusão da ameaça de desmoronamento causado por vícios construtivos. E mesmo que assim estivesse previsto, revelar-se-ia abusiva a cláusula, pois sua aplicação estaria a restringir direitos ou obrigações fundamentais inerentes à própria natureza do contrato de seguro de imóvel que visa a resguardar a garantia última do financiamento concedido, o próprio imóvel.
+Destarte, o estado precário dos imóveis dos Recorrentes com relação ás parcas condições de habitabilidade é tanto ou mais grave que o risco de desmoronamento, que se não é presente, é provável no futuro, em decorrência da natureza progressiva dos vícios construtivos existentes, razão pela qual os mesmos devem ser reparados imediatamente (fls. 872/877).
+É o relatório. Decido.
+No que concerne à alegada controvérsia, o Tribunal de origem decidiu:
+Contudo, inobstante o entendimento desta c. Câmara acerca da nulidade da cláusula mencionada, para se concluir sobre o direito do autor em receber a indenização securitária, necessária a análise do laudo pericial (fls. 1167/1179 - 1192/1193), em especial, sobre a existência ou não de vícios construtivos no imóvel que gerem risco de desmoronamento, já que o comunicado de prevê, "Condições Particulares para os Riscos de Danos Físicos", expressamente, as hipóteses de riscos cobertos pela apólice e entre eles estão o desmoronamento total; desmoronamento parcial e ameaça de desmoronamento devidamente comprovada, fato que não pode ser desconsiderado  .. .
+E, in casu, nenhuma dessas hipóteses restou configurada. Em resposta aos quesitos o perito foi categórico em confirmar a inexistência de vícios construtivos ou de risco de desmoronamento (parcial ou total) no imóvel vistoriado (fls. 1167/1179)
+ ..
+É notório o baixo padrão da construção, contudo, tal circunstância não pode ser contemplada pelo seguro habitacional, sob pena de extrapolar os riscos efetivamente cobertos e contratados.
+Desta forma, não há responsabilidade da seguradora pela reparação do imóvel, uma vez que não restou evidenciada qualquer hipótese prevista no contrato, não havendo que se falar em indenização (fls. 824/825).
+Dessa feita, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
