@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Estado do Rio Grande do Sul contra decisão do Tribunal de Justiça local que inadmitiu recurso especial com amparo na suficiência do acórdão recorrido e nos óbices das Súmulas 7 e 211 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional contra acórdão, publicado na vigência do CPC/1973, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. PROMOÇÃO DE SERVIDOR MILITAR. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA NÃO EVIDENCIADA, AINDA QUE TENHA TRANSCORRIDO O PRAZO DE 05 ANOS DA DATA DO AJUIZAMENTO DA AÇÃO DE EXECUÇÃO E A DATA DO TRÂNSITO EM JULGADO, QUANDO DEMONSTRADA A DILIGÊNCIA DA PARTE EXEQUENTE NA EFETIVAÇÃO DO CUMPRIMENTO DO TITULO EXECUTIVO. LEI ESTADUAL N. 13.756/11. AUSÊNCIA DE MANIFESTAÇÃO DO JUÍZO A QUO.
+NEGARAM PROVIMENTO AO RECURSO.
+UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 310/314).
+O recorrente aponta violação do art. 535, II, do CPC/1973. Alega omissão no julgado quanto à inexistência de liquidação, por bastar a realização de cálculos aritméticos; à não ocorrência de interrupção do prazo prescricional em razão do aguardo de fichas financeiras; e ao prequestionamento.
+Refere contrariedade aos arts. 475-B do Código de Processo Civil/1973; 197 a 204 e 884 a 886 do Código Civil. Aduz que o atraso ou dificuldade na obtenção de documentos não altera o termo inicial da prescrição da pretensão executória. Destaca que cumpre ao exequente requisitar ao juiz sua apresentação no feito.
+Registra ainda que as causas interruptivas e suspensivas da prescrição encontram-se dispostas expressamente em lei, vedada a inclusão de novas hipóteses.
+Sem contrarrazões.
+É o relatório.
+O presente recurso não merece prosperar.
+Inexiste contrariedade ao art. 535 do CPC/1973 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+Tem-se, na origem, agravo de instrumento interposto contra decisão que, em execução de sentença, afastou a ocorrência da prescrição. Alegou a parte que, diante da possibilidade de requisição de documentos ao juiz, bem como da suficiência de cálculos aritméticos, descabida a alteração do termo inicial da prescrição.
+O Tribunal a quo manteve a solução estabelecida pelo juiz, como demonstra o seguinte registro (e-STJ, fl. 296):
+Com efeito, não se desconhece da possibilidade de declarar-se a prescrição da possibilidade de execução do julgado, quando ultrapassados cinco anos da data do trânsito em julgado e o ajuizamento do feito executivo.
+Entretanto, considerando as providências realizadas pelo demandante, seja na obtenção da certidão do trânsito em julgado, seja na tentativa de cumprimento da obrigação contida no título, com o protocolo de ofícios (fls. 166 e 197) junto à Secretaria da Fazenda, impositiva a rejeição da prescrição.
+Por outro lado, o próprio executado somente atendeu ao último ofício (fl. 188) enviado em 2011, conforme se vê do retorno juntado às fls. 198 e seguintes, mostrando que, inclusive, o feito sequer havia sido liquidado.
+O colegiado, portanto, não acolheu o argumento pertinente à desnecessidade da liquidação. Outrossim, destacou inexistir inércia do exequente. Desse modo, ao contrário do que sustenta o recorrente, não era suficiente para a execução a simples realização de cálculos aritméticos.
+A afirmação do contrário, como pretende o insurgente, demandaria o reexame de fatos e provas contidos nos autos. Essa providência, porém, não é admitida no recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. TEMA 880 DO STJ AFASTADO. MODULAÇÃO. APRESENTAÇÃO DE DOCUMENTOS. INÉRCIA. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. Na hipótese dos autos, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 880, ao qual está vinculado o Recurso Especial Repetitivo 1.336.026/PE, relatado pelo Ministro Og Fernandes, firmou o entendimento de que "a demora, independentemente do seu motivo, para juntada das fichas financeiras ou outros documentos correlatos aos autos da execução, ainda que sob a responsabilidade do devedor ente público, não obsta o transcurso do lapso prescricional executório, nos termos da Súmula 150/STF", nos termos da seguinte ementa: REsp 1.336.026/PE, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 28/6/2017, DJe 30/6/2017.
+2. Porém, em Embargos de Declaração, a Primeira Seção modulou os efeitos desse julgado, para estabelecer que, no caso de "decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017".
+Conforme salientado pelo Sodalício a quo, no caso, cuida-se de execução de sentença transitada em julgado antes de 17 de março de 2016. Não se aplica, portanto, ao presente recurso a tese firmada no Tema 880.
+3. Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar se houve inércia do credor na fase de liquidação de sentença, o que não se admite ante o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido
+(REsp 1.790.928/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2019, DJe 10/9/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBICO. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. DOCUMENTOS EM POSSE DA ADMINISTRAÇÃO. REQUISIÇÃO EM JUÍZO. RESP N. 1.336.026/PE.
+1. A Primeira Seção do STJ, no julgamento do REsp n. 1.336.026/PE, submetido ao rito dos recursos especiais repetitivos, firmou as seguintes teses: I) o prazo prescricional da execução é o mesmo da ação de conhecimento nos termos da Súm. n. 150/STF; II) o procedimento de liquidação integra o processo de conhecimento; III) se o título executivo não evidenciar o quantum debeatur, somente após a sua liquidação é que se poderá falar em inércia para execução; IV) o prazo prescricional de cinco anos para o início da execução contra a Fazenda Pública se inicia a partir da vigência da Lei n. 10.444/2002 (a qual foi sucedida pelos arts. 475-B, §§ 1º e 2º, do CPC/1973), tendo em vista a desnecessidade de uma fase prévia à execução.
+2. Contudo, no julgamento dos Embargos de Declaração, a Primeira Seção esclareceu que os efeitos do julgado proferido no REsp n. 1.336.026/PE, que o julgamento proferido nesses autos tem como objeto a eventual prescrição da pretensão executiva dos títulos judiciais proferidos quando da vigência do CPC/1973, em razão da demora no fornecimento de documentos (fichas financeiras) pelo ente público devedor para formulação dos cálculos.
+3. Nessa mesma oportunidade, a Primeira Seção, com fundamento no art. 927, § 3º, do CPC/2015, modulou os efeitos das teses jurídicas para definir o dia 30 de junho de 2017 como o termo inicial do prazo prescricional das pretensões executivas fundadas em título judiciais, firmados ainda durante a vigência do CPC/1973, que estejam dependendo do fornecimento de documentos ou fichas financeiras pelo executado.
+4. A revisão do entendimento da origem quanto à liquidez ou não do título executivo judicial esbarra no óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.427.261/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/5/2019, DJe 14/5/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
