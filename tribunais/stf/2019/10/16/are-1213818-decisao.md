@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão em que não se admitiu o recurso extraordinário, tendo em vista a incidência da Súmula 281 do Supremo Tribunal Federal no caso dos autos, dado que o recurso extraordinário fora interposto contra decisão monocrática, sem exaurimento das vias recursais ordinárias.
+    No agravo, sustenta-se, em suma, que,
+    “contrariamente do que entendeu a decisão denegatória, resta clara a necessidade do presente Agravo, a fim de que o Recurso Extraordinário interposto seja admitido e provido em sua integralidade, principalmente porque a questão discutida nos autos possui repercussão geral apta a ensejar a admissibilidade do apelo extraordinário por esse colendo Supremo Tribunal Federal” (pág. 26 do documento eletrônico 7).
+    A pretensão recursal não merece acolhida.
+    Isso porque os recorrentes deixaram de atacar os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe aos agravantes o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma – grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, conforme assinalado na decisão agravada, nos termos do art. 102, III, a, da Constituição Federal, admite-se o recurso extraordinário contra decisão de única ou de última instância. No presente caso, constata-se que não foram esgotadas as vias recursais ordinárias, uma vez que ainda seria cabível recurso de agravo interno contra a decisão monocrática que negou provimento ao agravo, nos termos do art. 1.021 do CPC. Assim, incide, no caso, a Súmula 281/STF.
+    Nesse sentido, menciono as seguintes decisões, entre outras: ARE 1.038.556-AgR/DF, Rel. Min. Luiz Fux; ARE 1.097.639-AgR/SP, Rel. Min. Cármen Lúcia; ARE 1.048.180-AgR/RS, Rel. Min. Dias Toffoli; ARE 962. 427-AgR/MT, Rel. Min. Edson Fachin; RE 545.580-AgR/MG, Rel. Min. Joaquim Barbosa; RE 422.192-AgR/RJ, Rel. Min. Ellen Gracie; ARE 664.388-AgR-AgR/DF, Rel. Min. Teori Zavascki; RE 970.320-AgR/PR, de minha relatoria; ARE 708.120-ED/DF, Rel. Min. Rosa Weber.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de outubro de 2019.
+Ministro Ricardo Lewandowski
+Relator
