@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Verifico a existência de Recursos Especiais interpostos por ambas as partes, sendo que um deles (fls. 167/172e) não foi regularmente processado.
+Assim, TORNO SEM EFEITO a decisão de fls. 205/218e, pela qual foi negado seguimento ao Recurso Especial do Instituto Nacional do Seguro Social - INSS, restando, por conseguinte, PREJUDICADOS os Embargos de Declaração opostos às fls. 221/224e.
+Com efeito, no que se refere à aplicação do art. 1º-F da Lei n. 9.494/1997 (redação dada pela Lei n. 11.906/2009) como critério de atualização monetária das dívidas da Fazenda Pública do período anterior ao precatório, o Supremo Tribunal Federal, julgando o RE 870.947/SE, sob o regime da repercussão geral (Tema 810/STF). Por oportuno, a análise do andamento processual do Recurso Extraordinário n. 870.947/SE revela que, em 03.10.2019, o Supremo Tribunal Federal, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida, mantendo, portanto, a aplicação integral da tese fixada em repercussão geral.
+Esta Corte decidiu a controvérsia nos Recursos Especiais 1.495.146/MG, 1.492.221/PR e 1.495.144/RS, julgados sob o rito do art. 1.036 do Código de Processo Civil de 2015 (Tema 905/STJ).
+Posto isso, TORNO SEM EFEITO a decisão de fls. 205/218e, julgo PREJUDICADOS os Embargos de Declaração de fls. 221/224e e DETERMINO a devolução dos autos ao tribunal de origem, para que exerça o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após essa providência, que representa o exaurimento da instância ordinária, os recursos especiais devem, se o caso, ser encaminhados a este Tribunal Superior para análise das questões jurídicas neles suscitadas e, porventura, não prejudicadas pelo novo pronunciamento da Corte a quo.
+Publique-se e intimem-se.
