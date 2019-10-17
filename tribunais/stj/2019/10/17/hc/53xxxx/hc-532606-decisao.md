@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de WANDERSON CLEITON FERREIRA DOS SANTOS - preso preventivamente no contexto de aparente contumácia em delitos patrimoniais - contra acórdão do Tribunal de Justiça do Estado de São Paulo que denegou a medida pleiteada naquela instância, nos autos de n. 2176077-63.2019.8.26.0000 (e-STJ fl. 14):
+Habeas Corpus Revogação da prisão preventiva - Paciente denunciado como incurso no artigo 157, §2º, II, do Código Penal.
+Inocorrência de excesso de prazo Desenvolvimento normal do processo - Juízo não deu causa à demora Princípio da Razoabilidade.
+Decisão Fundamentada - Desde que a permanência do réu em liberdade possa dar motivo a novos crimes ou cause repercussão danosa no meio social, cabe ao Juiz manter a custódia cautelar como garantia da ordem pública - Indícios de autoria e prova da materialidade.
+Ordem denegada.
+A defesa alegou, em síntese, que está configurado o constrangimento ilegal por excesso de prazo, tendo em vista que o paciente foi preso em flagrante em 23/1/2019 e teve sua prisão preventiva decretada no dia seguinte, mas ainda não foi citado, contando-se mais de sete meses de prisão cautelar quando da impetração.
+Em liminar e no mérito, pediu o relaxamento da prisão preventiva.
+O pedido liminar foi indeferido (e-STJ fls. 47/49).
+Vieram informações das instâncias ordinárias (e-STJ fls. 56/58).
+O Ministério Público Federal manifestou-se pelo não conhecimento do pedido, em parecer assim ementado (e-STJ fl. 60):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. ALEGADO EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. Parecer pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem.
+É o relatório. Decido.
+Conforme registrado na decisão liminar, que nesta oportunidade se confirma, é indevida a impetração de habeas corpus como sucedâneo recursal, tendo em vista o cabimento de meio de impugnação com regência legal específica. Também não se verifica ilegalidade flagrante a impor a cognição de ofício.
+As instâncias ordinárias identificaram indícios de que o paciente teria cometido um crime de roubo em concurso de pessoas (e-STJ fl. 19):
+Consta que os autuados, simulando estarem armados, subtraíram um carrinho de mão com caixas contendo fios de fibra, avaliados em R$ 500,00 e R$ 1.636,60 respectivamente.
+Os indiciados foram presos instantes após carregando a res. Houve, ainda, reconhecimento positivo pela vítima (..).
+Quanto ao periculum libertatis, registraram-se não apenas a gravidade concreta do delito, mas também a aparente contumácia delitiva de ambos os réus, destacando-se a possível reincidência específica do ora paciente (e-STJ fl. 20):
+Não bastasse isso, Daniel é reincidente em furto. Por sua vez, Wanderson responde a um crime de roubo praticado em circunstâncias semelhantes, que se encontra suspenso nos termos do art. 366 do CPP, a reforçar a imprescindibilidade de sua segregação para assegurar a aplicação da lei penal e instrução processual. E assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão ante tempus (STF, HC 95.118/SP, 94.999/SP, 94.828/SP e 93.913/SC), não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa.
+E é certo que a aparente contumácia delitiva legitima a segregação cautelar, especialmente para obstar a continuidade. Nessa linha de entendimento, confiram-se os seguintes julgados, dentre inúmeros de igual teor:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. FUMUS COMISSI DELICTI. PERICULUM LIBERTATIS. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO SUFICIENTE. ORDEM DENEGADA.
+(..).
+2. O Juízo de primeiro grau apontou concretamente os indícios da autoria e da materialidade do delito, assim como a presença dos vetores contidos no art. 312 do Código de Processo Penal. Isso porque indicou motivação suficiente para justificar a necessidade de colocar o paciente cautelarmente privado de sua liberdade, dada a sua reiteração delitiva (o acusado ostenta condenação anterior por crime de mesma natureza), a despeito de não se tratar de quantidade excessiva de droga apreendida.
+3. Ordem denegada.
+(HC 426.222/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO, POSSE DE ARMA DE FOGO E MUNIÇÕES E CORRUPÇÃO DE MENOR. NULIDADE DA PRISÃO EM FLAGRANTE. QUESTÃO SUPERADA COM A DECRETAÇÃO DA CUSTÓDIA PREVENTIVA. PRISÃO AMPARADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA E REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO IMPROVIDO.
+(..).
+3. Na espécie, a segregação preventiva do recorrente encontra-se devidamente motivada, pois destacou o Magistrado de piso a gravidade concreta da conduta, evidenciada pela apreensão de 350g (trezentos e cinquenta gramas) de maconha, 1 revólver calibre 32, carregado com 6 munições intactas, além de 8 munições calibre 38 e 3 munições calibre 44, todas de uso restrito, e também pela participação de adolescente na empreitada criminosa. O decreto prisional enfatizou, ainda, a reiteração delitiva do recorrente, o qual "possui várias passagens judiciais, inclusive já tendo sido pronunciado pelo também grave, e igualmente hediondo, crime de tentativa de homicídio qualificado". Portanto, a custódia cautelar está justificada na necessidade de garantia da ordem pública, ante a gravidade efetiva da conduta e a contumácia criminosa do recorrente.
+4. Recurso ordinário a que se nega provimento.
+(RHC 88.883/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SUPERVENIÊNCIA DE CONDENAÇÃO. NEGATIVA DO APELO EM LIBERDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. REGISTRO CRIMINAL ANTERIOR PELO MESMO CRIME. REITERAÇÃO DELITIVA. RISCO EFETIVO. PERICULOSIDADE SOCIAL DO AGENTE. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO CRIMINAL. GARANTIA DA ORDEM PÚBLICA. CONSTRIÇÃO JUSTIFICADA. REGIME INICIAL SEMIABERTO. AUSÊNCIA DE INCOMPATIBILIDADE COM O ENCARCERAMENTO CAUTELAR. NECESSIDADE DE ADEQUAÇÃO DA MEDIDA COM O MODO DE EXECUÇÃO FIXADO NO ÉDITO REPRESSIVO. CONSTRANGIMENTO ILEGAL EM PARTE EVIDENCIADO. RECLAMO IMPROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+(..).
+2. O fato de o condenado possuir registros penais anteriores, inclusive pelo delito de tráfico de drogas demonstra o risco efetivo de reiteração caso o agente seja solto, corroborando o periculum libertatis exigido para a preventiva.
+(..).
+7. Recurso ordinário improvido, concedendo-se, contudo, a ordem de habeas corpus de ofício, para determinar que o recorrente aguarde o julgamento da apelação eventualmente interposta no modo semiaberto de execução, fixado na sentença.
+(RHC 78.521/PI, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/12/2016, DJe 01/02/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. NEGATIVA DE AUTORIA. SUPRESSÃO DE INSTÂNCIA. GARANTIA DA ORDEM PÚBLICA. PRISÃO QUE VISA OBSTAR A CONTINUIDADE DELITIVA. RECURSO ORDINÁRIO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+(..).
+III - No caso, a prisão preventiva para a garantia da ordem pública está devidamente fundamentada em elementos extraídos dos autos a indicarem que o recorrente estaria prosseguindo com os negócios da quadrilha liderada por seu irmão, coordenando a distribuição das drogas e a arrecadação do dinheiro oriundo do tráfico na municipalidade, o que patenteia o periculum libertatis e demonstra o risco de reiteração delitiva.
+(..).
+Recurso ordinário conhecido em parte e, nessa extensão, desprovido.
+(RHC 64.897/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PACIENTE INTEGRANTE DE UMA GRANDE ORGANIZAÇÃO CRIMINOSA, INCLUSIVE COM O ENVOLVIMENTO DE MENORES. APREENSÃO DE ELEVADA QUANTIDADE DE DROGAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. TRANCAMENTO DA AÇÃO PENAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL ESTADUAL. SUPRESSÃO DE INSTÂNCIA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+(..).
+2. Na espécie, a segregação cautelar foi preservada pelo Tribunal impetrado em razão da periculosidade do recorrente - integrante de uma grande organização criminosa, inclusive com o envolvimento de adolescentes, voltada para a prática de crime de tráfico de drogas em diversas cidades, sendo que o ora recorrente desempenhava importante função no preparo e revenda de drogas na comarca de Rancharia/SP. Outrossim, a grande quantidade apreendida, a variedade, a natureza nociva dos entorpecentes (151 kg de maconha, 2,300 kg de crack e 195g de cocaína) também evidenciam a periculosidade dos integrantes da organização e o efetivo risco à ordem pública, caso permaneçam em liberdade. Prisão preventiva devidamente justificada, nos termos do art. 312 do CPP. Precedentes.
+(..).
+4. Recurso ordinário em habeas corpus parcialmente conhecido e, nessa extensão, improvido.
+(RHC 54.825/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 16/06/2016, DJe 22/06/2016).
+No mais, esclareça-se que eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Da leitura dos autos, sobretudo pela regularidade do trâmite processual, não se verifica o alegado constrangimento ilegal, valendo registrar, conforme aduzido pelo juízo da primeira instância em informações recentes, que a audiência de instrução, debates e julgamento foi designada para data muito próxima, na semana seguinte à desta decisão (e-STJ fl. 56):
+Após regular digitalização a denúncia foi recebida em 04 de fevereiro de 2019 (fls. 70) e seu aditamento aos 27 de agosto de 2019 (fls. 131), designando-se audiência de instrução debates e julgamento para o dia 21 de outubro de 2019, às 16:30 horas (fls. 115), o que se aguarda.
+Assim, apesar dos argumentos apresentados pela defesa, não há elementos que evidenciem a existência de constrangimento ilegal por excesso de prazo neste feito, sendo certo que a adequação da medida tornará a ser apreciada pelo juízo de primeira instância nos próximos dias.
+Ante o exposto, e nos termos do parecer ministerial, não conheço do pedido de habeas corpus.
+Intimem-se.
