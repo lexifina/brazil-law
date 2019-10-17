@@ -1,0 +1,20 @@
+DECISÃO
+MARCOS VINICIUS DE CAMARGO alega sofrer coação ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0008795-44.2016.8.26.0451.
+Busca a defesa o afastamento da reincidência e o redimensionamento da reprimenda, pois "não há o se falar em reincidência do paciente, já que entre a data do cumprimento ou extinção da pena e a infração posterior decorreu tempo superior à 5 (cinco) anos, conforme dispõe o artigo 64, inciso I, do Código Penal" (fl. 6).
+A liminar foi indeferida e as informações foram prestadas às fls. 512-561. O Ministério Público Federal opinou pelo não conhecimento da impetração.
+Decido.
+Inicialmente, verifico que a tese de violação do art. 64, I, do CP, não foi objeto de discussão pela Corte estadual, situação que impediria o conhecimento da matéria, com o fim de não incorrer em indevida supressão de instância.
+Todavia, de acordo com a jurisprudência desta Corte, a identificação de flagrante ilegalidade não discutida na origem, como no presente caso, permite a superação do óbice mencionado. Confira-se:
+ ..
+2. A existência de flagrante ilegalidade, como ocorre na espécie, autoriza o conhecimento de ofício da alegação, mesmo que não tenha sido devidamente exaurida na origem. Precedentes do STF e do STJ.  ..  (HC n. 278.980/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 30/3/2016)
+ Assim, em relação ao reconhecimento da reincidência, verifico haver constrangimento ilegal a reclamar a concessão, ex officio, da ordem.
+É esta a letra do art. 64, I, do Código Penal, grifei:
+Art. 64 - Para efeito de reincidência: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 5 (cinco) anos, computado o período de prova da suspensão ou do livramento condicional, se não ocorrer revogação;
+A reincidência, portanto, é a prática de um novo delito após o agente já haver sido condenado definitivamente, no Brasil ou no exterior, por crime anterior.
+No entanto, para o seu reconhecimento, alguns pré-requisitos se fazem necessários: a condenação, por crime, com trânsito em julgado anterior à prática do novo delito, bem como a não superação do prazo de cinco anos entre a data do cumprimento da pena relativa ao crime anterior, ou a declaração de extinção de sua punibilidade, e a prática do novo delito.
+Nesse sentido, também se posicionou [NOME] ao estabelecer: "Há um prazo para que a condenação anterior possa surtir efeito, caso alguém torne a praticar crime. Estipula o art. 64 do Código Penal que, para efeito de gerar reincidência, a condenação definitiva, anteriormente aplicada, cuja pena foi extinta ou cumprida, tem o prazo de 5 anos para perder a força. Portanto, decorrido o quinquênio, não é mais possível, caso haja o cometimento de um novo delito, surgir a reincidência. Não se trata de decair a reincidência, mas sim a condenação: afinal, quem é condenado apenas uma vez na vida não é reincidente, mas sim primário" ([NOME], Guilherme de Souza. Individualização da Pena. 5 ed. São Paulo: Revista dos Tribunais, 2013, p.198).
+In casu, ao analisar a folha de antecedentes do paciente (fls. 74-77), verifico que consta condenação anterior, com trânsito em julgado, pelo crime descrito no art. 33 da Lei n. 11.343/2006, cuja pena foi considerada extinta em 3/12/2010.
+Dessa forma, para constatar a ocorrência ou não da reincidência, deve-se considerar, como início do prazo depurador de cinco anos, a data de 3/12/2010 (conforme art. 64, I, primeira parte, do Código Penal). Assim, haja vista que o novo delito somente foi praticado em 29/7/2016, deve ser afastada a reincidência do cálculo da nova reprimenda, porque ultrapassado o referido lapso.
+À vista do exposto, não conheço do habeas corpus, mas, ao examinar seu conteúdo, identifico a ocorrência de constrangimento ilegal, o que me leva a conceder a ordem, ex officio, tão somente para excluir a reincidência do réu. Dessa forma, determino o retorno dos autos ao juízo da execução, que procederá a nova dosimetria da pena.
+Publique-se e intimem-se.
