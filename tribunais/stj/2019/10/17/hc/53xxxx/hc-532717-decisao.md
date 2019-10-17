@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] e TAIZE CRISTINA BERNARDO DE MIRANDA contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, no julgamento da Apelação e nos Embargos de Declaração n. 0023912-15.2013.8.24.0038/50000.
+Consta dos autos que as pacientes foram condenadas às penas de 4 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 21 dias-multa, como incurso nas sanções do art. 155, § 4.º, incisos II e IV, do Código Penal.
+Irresignadas, interpuseram recurso de apelação, ao qual foi dado parcial provimento, a fim de reajustar a pena para 03 anos, 08 meses e 13 dias de reclusão, e mais o pagamento de 20 (vinte) dias-multa, mantendo as demais cominações da sentença, tendo sido determinado o início da execução provisória.
+Sustenta o impetrante, em síntese, que as pacientes possuem o direito à substituição de suas penas privativas de liberdade por restritivas de direito e, deste modo, deveriam aguardar o trânsito em julgado para o início da execução da pena.
+Requereram, liminarmente e no mérito, a concessão da ordem constitucional para que fosse obstado o cumprimento provisório das penas, garantindo às pacientes o direito de permanecer em liberdade até o trânsito em julgado de eventual decisão condenatória. Subsidiariamente, pugna pelo cumprimento provisório da pena em regime aberto.
+A liminar foi indeferida.
+Informações prestadas.
+Sobreveio ofício do Supremo Tribunal Federal comunicando a concessão da ordem no HC 175.850/SC, lá impetrado em favor das pacientes (e-STJ fls. 225-247).
+Instado a se manifestar o Ministério Público Federal opinou pela prejudicialidade do mandamus, destacando que "como a pretensão do impetrante foi alcançada em referida decisão da Suprema Corte, com a suspensão da execução das penas, a hipótese é de perda superveniente do objeto da presente impetração" (e-STJ fl. 252).
+É o relatório.
+Por meio do presente remédio constitucional se pretende, em síntese, a suspensão do início da execução provisória das penas impostas às pacientes, antes do trânsito em julgado da condenação que lhes foi imposta nos autos da ação penal n. 0023912-15.2013.8.24.0038.
+Entretanto, conforme consta do ofício de e-STJ fls. 225-247, no dia 30.09.2019, o Exmo Sr. Ministro Ricardo Lewandowski, do Supremo Tribunal Federal, concedeu a ordem no HC 175.850/SC, "para que as pacientes possam aguardar, em liberdade, o julgamento final pelo Plenário das Ações Declaratórias de Constitucionalidade 43/DF e 44/DF ou o trânsito em julgado da sentença penal condenatória (art. 5º, LVII, da CF e art. 283 do CPP), o que ocorrer primeiro, sem prejuízo da manutenção ou fixação, pelo juízo processante, de uma ou mais de uma das medidas cautelares previstas no art. 319 do Código de Processo Penal, caso entenda necessário" (e-STJ fl. 245), circunstância que evidencia a perda do objeto do presente writ.
+Ante o exposto, julga-se prejudicado o HABEAS CORPUS, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
