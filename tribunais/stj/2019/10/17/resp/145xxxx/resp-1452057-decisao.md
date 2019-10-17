@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TRF da 4ª Região assim ementado:
+ADMINISTRATIVO. CESSÃO DE CRÉDITO RURAL DO BANCO DO BRASIL À UNIÃO. DÍVIDA ATIVA DA UNIÃO. CONTRATO DE CRÉDITO RURAL. REVISÃO DA DÍVIDA. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. COMISSÃO DE PERMANÊNCIA. MULTA MORATÓRIA.
+1. A orientação do Superior Tribunal de Justiça aponta no sentido de que os créditos rurais originários de operações financeiras, alongadas ou renegociadas (cf. Lei n. 9.138/95), cedidos à União por força da Medida Provisória 2.196-3/2001, estão abarcados no conceito de Dívida Ativa da União para efeitos de execução fiscal - não importando a natureza pública ou privada dos créditos em si -, conforme dispõe o art. 2º e § 1º da Lei 6.830/90.
+2. O direito ou privilégio de executar o crédito pelo rito da Lei 6.830/80 está vinculado à condição de Fazenda Pública da nova credora, à pessoa jurídica de direito público denominada União Federal.
+3. Legítima a cobrança via execução fiscal de débito proveniente de operações de crédito rural cedido à União pelo Banco do Brasil.
+4. Nos termos do artigo 5º do Decreto-Lei n.º 167/67, incumbe ao Conselho Monetário Nacional fixar a taxa de juros aplicável pela instituição financeira.
+Como, porém, até hoje o órgão governamental competente não cumpriu tal atribuição, tem-se entendido que prevalece o limite trazido pelo artigo 1º, caput, da Lei de Usura, qual seja, 12% ao ano.
+4. Em se tratando de Cédula Rural Pignoratícia, que tem disciplina específica no Decreto-lei 167/67, o artigo 5º, parágrafo único, e o art. 71 são expressos em autorizar, no caso de mora, a cobrança de juros de 12% ao ano e de multa de 2% sobre o montante devido, respectivamente. Inexigível, portanto, a comissão de permanência em relação às cédulas rurais. Em seu lugar, tendo sido legitimamente transferidos os créditos à União Federal, devem ser aplicados, desde a impontualidade do devedor, os encargos de mora conforme a Medida Provisória n.º 2.196-3/01, que prevê juros moratórios limitados a 1% ao ano, acrescido da taxa SELIC diária a título de remuneração no período do inadimplemento.
+5. Atento ao princípio tempus regit actum somente os contratos celebrados após a vigência da Lei n.º 9.298/1996 sofrerão redução da multa contratual de 10% para 2%. No caso sub examine, tendo em vista que a cédula de crédito originária foi firmada anteriormente a 02-8-1996, resta mantida a posição do decisum quanto ao tópico no sentido de aplicar a multa de 10%.
+Com base na alínea "c" do permissivo constitucional, o recorrente busca afastar a aplicação da taxa Selic.
+É o breve relato.
+A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+Nos termos da jurisprudência, "a interposição do recurso especial pela alínea "c" do permissivo constitucional, também exige que o recorrente indique quais os dispositivos restaram por violados, conforme o estabelecido nos arts. 1.029, §§ 1º e 2º, do CPC/2015 e 255, § 1º, a, e § 2º, do RISTJ" (AgInt no AREsp 1.429.690/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17/6/2019).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
