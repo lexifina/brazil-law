@@ -1,0 +1,28 @@
+EMENTA
+HABEAS CORPUS. ROUBO DUPLAMENTE QUALIFICADO. RECONHECIMENTO DA TENTATIVA. NÃO CABIMENTO. DOSIMETRIA. CAUSAS DE AUMENTO UTILIZADAS NA PRIMEIRA FASE DA DOSIMETRIA. POSSIBILIDADE. DISCRICIONARIEDADE DO JULGADOR. ARGUIÇÃO DE INCONSTITUCIONALIDADE DA LEI N.º 13.654/2018. COMPETÊNCIA DO SUPREMA CORTE. PRECEDENTES.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora a Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Recurso de Apelação n. 0000859-21.2018.8.26.0540).
+Consta dos autos que o paciente restou condenado como incurso no art. 157, § 2º, II e V e § 2º-A do Código Penal, à pena de 8 anos e 4 meses de reclusão e pagamento de 20 dias-multa, em regime fechado (fls. 42/45).
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal a quo que negou provimento ao recurso, mantendo a sentença condenatória por seus próprios fundamentos (fls. 34/41).
+Aqui a defesa alega que o paciente sofre constrangimento ilegal em razão de ausência de fundamentação válida para o aumento da pena-base e que o aumento foi desproporcional.
+Afirma que a transposição das duas causa de aumento para a primeira fase de fixação da pena ao argumento de que houve inovação legislativa (Lei nº 13.654 de 23 de abril de 2018) é ilegal (fl. 9).
+Aduz que a Lei nº 13.654, de 23 de abril de 2018, na parte em que impõe a fração de aumento de 2/3 ao roubo majorado pelo emprego da arma de fogo (CP, art. 157, §2º-A, I) é materialmente inconstitucional, por ofensa ao princípio da proporcionalidade (fl. 18).
+E, por fim, sustenta que o delito de roubo não se consumou pois houve imediata perseguição e recuperação dos bens da vítima.
+Requer, assim, a concessão da ordem para que seja reconhecida a inexistência de circunstâncias judiciais desfavoráveis ou, ao menos, a redução da fração de aumento, que seja afastada a aplicação do § 2º-A do art. 157 do Código Penal e que seja reconhecido que o delito ficou na esfera tentada, alterando o regime prisional.
+Informações prestadas (fls. 51/68).
+O Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 70/72).
+É o relatório.
+Busca o presente writ o reconhecimento da tentativa e a revisão da dosimetria penal.
+No caso, não verifico qualquer ilegalidade a ser sanada por esta Corte.
+De pronto, quanto ao pedido de reconhecimento da tentativa, o Tribunal a quo afirmou que o pouco tempo que os apelantes tiveram a posse mansa e pacífica dos produtos da subtração e a oportuna recuperação da res não tem o condão de descaracterizar o crime consumado de roubo, excluindo a desclassificação para a forma tentada. Na hipótese, ocorreu somente o insucesso da primeira empreitada criminosa, já que os acusados foram detidos logo após a subtração (fl. 38).
+Assim, verifica-se que o acórdão está de acordo com a jurisprudência desta Corte no sentido de que para a consumação dos crimes de furto e roubo, basta o desapossamento da coisa subtraída, o que ocorre com a inversão da posse, sendo prescindível esta ser mansa e pacífica. Precedentes do STJ. (HC 509.130/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/10/2019).
+No que diz respeito ao aumento da primeira fase da dosimetria, de acordo com a jurisprudência desta Corte Superior, é plenamente possível, diante do reconhecimento de várias causas de aumento de pena previstas no mesmo tipo penal, deslocar a incidência de algumas delas para a primeira fase, para fins de majoração da pena-base, desde que a reprimenda não seja exasperada, pelo mesmo motivo, na terceira etapa da dosimetria da pena e que seja observado o percentual legal máximo previsto pela incidência das majorantes (AgRg no REsp 1551168/AL, Rel. Ministro Rogerio Schietti Cruz, DJe 02/03/2016). Precedentes. (AgRg no AREsp 1.075.013/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/6/2017).
+In casu, o Juiz sentenciante, no âmbito de sua discricionariedade, de maneira fundamentada e proporcional, aumentou a pena-base do paciente nos seguintes termos (fl. 44):
+ ..
+Atento às diretrizes do art. 59 do Código Penal, aumenta-se a pena base de 1/2, fixando-a em 06 anos de reclusão e 15 dias-multa, na medida em que os delitos foram praticados com violação do domicílio, bem jurídico protegido pela Constituição Federal (art. 5º, XI), que expressamente tem a casa por "asilo inviolável do indivíduo", com intensa ameaça e agressão aos ofendidos, em concurso de agentes e com restrição da liberdade das vítimas, num proceder que aumenta a reprovabilidade da conduta. Destaca-se que as causas de aumento do roubo, concurso de pessoas e restrição da liberdade das vítimas, foram consideradas nesta etapa da dosimetria diante da edição da Lei nº 13.654 de 23 de abril de 2018 e do disposto no art. 68 do Código Penal.
+ ..
+Com efeito, a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito. (AgRg no AREsp n. 1.021.610/DF, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2017).
+No mais, a instauração do incidente de inconstitucionalidade é incompatível com o rito do habeas corpus, ante a impossibilidade de suspensão do feito e da afetação do tema à Corte Especial para exame do pedido (AgRg no RHC n. 90.145/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/2/2018). (AgRg no HC 451269/SP, de minha relatoria, Sexta Turma, DJe 12/12/2018).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
