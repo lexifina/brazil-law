@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. MAJORAÇÃO. ART. 85 DO NCPC. INAPLICABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS
+DECISÃO
+IVETE FARHERR DA SILVA (IVETE) ajuizou ação declaratória de inexistência de débito c/c reparação por danos morais contra TELEFÔNICA BRASIL S.A. (TELEFÔNICA), que foi julgada procedente em parte.
+A apelação interposta por IVETE não foi provida e o apelo de TELEFÔNICA foi provido em parte pelo TJSP em acórdão, assim ementado:
+DEMANDA DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO, COM PEDIDO CUMULADO DE INDENIZAÇÃO DE DANO MORAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. DECISÃO ALTERADA EM PARTE. ELEMENTOS DOS AUTOS QUE ATESTAM A INEXISTÊNCIA DA DÍVIDA. DANO EXTRAPATRIMONIAL NÃO CONFIGURADO. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS. MANTIDO O CRITÉRIO DE DISTRIBUIÇÃO DA VERBA, DEVE SER ALTERADA A RESPECTIVA BASE DE CÁLCULO. PROVIDO EM PARTE O RECURSO DA RÉ E DESPROVIDO O DA AUTORA. (e-STJ fls. 179)
+Os embargos de declaração opostos por IVETE foram rejeitados. (e-STJ fls. 232/234)
+Inconformada, IVETE interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 489 e 1.022 do NCPC; 186, 187, 927, 944 do CC/02, e 14, 10, e 39, V e X, do CDC, 85, §§ 2º, 6º e 8º, 292, II, e 293 do NCPC, ao sustentar que (1) houve negativa de prestação jurisdicional e falha na fundamentação; (2) a prestação de serviço foi suspensa e o contrato rescindido por ter sido impedida de quitar a fatura de abril/2015 por conta da cobrança de valor absurdo; (3) sofreu abalo moral por ter sido privado ao acesso ao serviço de radiofusão, considerado serviço essencial; (4) os honorários devem ser fixados com base no valor da causa atribuído pela autora, ainda que se trata de valor "irreal"; (5) o proveito econômico obtido pela recorrente compreende o valor do débito declarado inexigível, o qual equivale ao valor atribuído à causa e não é irrisório; e (6) há divergência jurisprudencial a respeito dos critérios de fixação dos honorários advocatícios.
+O apelo nobre não foi admitido em virtude (i) de não haver falha na fundamentação; (ii) de não haver negativa de prestação jurisdicional; e (iii) da incidência da súmula 7 do STJ, e (iv) ausência da similitude fática.
+Nas razões do presente agravo em recurso especial, IVETE sustentou que (a) houve omissão e falha na fundamentação do acórdão; (b) não é caso de reexame de provas; e (c) demonstrou a divergência jurisprudencial.
+Foi apresentada impugnação (e-STJ, fls. 265/269).
+O agravo foi conhecido e parcialmente provido o recurso especial em decisão monocrática de minha relatoria, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO POR DANOS MORAIS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DE FALHA NA FUNDAMENTAÇÃO. DANO MORAL NÃO CONFIGURADO. HONORÁRIOS FIXADOS NOS TERMOS DO ART. 85, § 2º DO NCPC. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fl. 276).
+Nas razões destes aclaratórios, IVETE afirmou a existência de omissão quanto à majoração dos honorários recursais, nos termos do art. 85, § 11, do NCPC.
+Não foi apresentada impugnação (e-STJ, fl. 291).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+IVETE afirmou a existência de omissão quanto à majoração dos honorários recursais, nos termos do art. 85, § 11, do NCPC.
+Contudo, sem razão.
+A Segunda Seção, no julgamento do AgInt nos EREsp nº 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (Rel. Ministro Antonio Carlos Ferreira, DJe de 19/10/2017).
+No caso dos autos, o agravo foi conhecido e o recurso especial parcialmente provido, não sendo devida a majoração dos honorários recursais.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DO ART. 85, §§ 2º E 6º, DO CPC/2015. RECURSO ESPECIAL PROVIDO. FIXAÇÃO NO PERCENTUAL DE 10% SOBRE O VALOR ATUALIZADO DA CAUSA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS NESTA INSTÂNCIA. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Nas causas em que não houver condenação, em razão da improcedência da demanda, os honorários advocatícios serão arbitrados entre o mínimo de dez e o máximo de vinte por cento sobre o valor atualizado da causa, em observância ao disposto no artigo 85, §§ 2º e 6º, do CPC/2015.
+2. A Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (Rel. Ministro Antonio Carlos Ferreira, DJe de 19.10.2017).
+3. Na hipótese dos autos, o recurso especial foi provido, razão pela qual descabe a majoração dos honorários sucumbenciais. Todavia, fica mantido o acréscimo de R$ 800,00 (oitocentos reais) dos honorários recursais fixados pelo Tribunal de origem, em razão do desprovimento da apelação da autora.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.791.366/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 11/6/2019, DJe 26/6/2019)
+Nessas condições, REJEITO os embargos de declaração.
+Publique-se. Intime-se
