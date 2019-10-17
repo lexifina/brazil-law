@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação do art. 535 do CPC/1973 e da incidência das Súmulas n. 83 e 211 do STJ (e-STJ fls. 347/363).
+O acórdão recorrido está assim ementado (e-STJ fl. 255):
+APELAÇÃO CÍVEL. SEGURO DE VIDA. MORTE DO SEGURADO. BENEFICIÁRIO. INTERESSE DE AGIR. PRESCRIÇÃO INOCORRENTE. NULIDADE DA SENTENÇA. INOCORRÊNCIA. INDENIZAÇÃO DEVIDA. INADIMPLÊNCIA. CANCELAMENTO. ABUSIVIDADE.
+Nulidade da sentença - Inocorrência. Ausência de nulidade da sentença por extra petita.
+1. Tratando-se de ação envolvendo contrato de seguro facultativo, não-obrigatório, em que a parte autora, na qualidade de beneficiária, busca a condenação da demandada ao pagamento de indenização em razão do falecimento do segurado, aplicável a prescrição decenal prevista no art. 205 do CCB. Hipótese em que o termo inicial do prazo prescricional iniciou na data em que entrou em vigor o Código Civil de 2002, com vigência a partir de 2003, pois nesta data ainda não havia transcorrido mais da metade do prazo estabelecido no Código Civil de 1916 (art. 2028 do CC/02). Prescrição afastada.
+2. Presença de interesse processual na pretensão indenizatória. Desnecessidade de comprovação da solicitação ou recusa administrativa para o ajuizamento da ação.
+3. Dever da seguradora de notificar o segurado em mora, oportunizando a sua purgação. A cláusula contratual que autoriza o cancelamento automático de modo unilateral pela seguradora é nula de pleno direito, conforme artigo 51, incisos IV e XI, do Código de Defesa do Consumidor. Cobertura securitária devida.
+4. Caso em que a ré não demonstra, tampouco alega a prévia notificação do segurado a respeito da inadimplência e possibilidade de rescisão do ajuste.
+5. Descabimento da determinação de desconto dos prêmios inadimplidos do valor total da condenação, ausente pedido da ré.
+6. Verba honorária mantida na forma como fixada, pois atenta ao § 3º do art. 20 do CPC.
+PRELIMINARES DESACOLHIDAS, APELO DO AUTOR PROVIDO EM PARTE E DA RÉ DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ fls. 289/296).
+Nas razões do recurso especial (e-STJ fls. 301/324), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 535, II, do CPC/1973. Argumentou que o Tribunal de origem não teria se pronunciado sobre as questões referentes à: (i) "solicitação de cancelamento da apólice pelo estipulante à seguradora" (e-STJ fl. 311) e (ii) "vedação de incidência de juros e correção monetária em face de empresa que encontra-se em liquidação extrajudicial" (e-STJ fl. 313),
+Suscitou, ainda, contrariedade aos arts. 801, § 1º, do CC/2002 e 51, IV e XI, do CDC. Defendeu que não teria praticado ato ilícito, pois "não poderia constituir segurado em mora para oportunizá-lo a regularizar sua situação, uma que tratando-se de contrato de seguro coletivo quem solicita o cancelamento da apólice é o estipulante e não a seguradora" (e-STJ fl. 319).
+No agravo (e-STJ fls. 367/388), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos apresentaram contraminuta (e-STJ fls. 393/403).
+É o relatório.
+Decido.
+Razão parcial assiste à recorrente no que se refere à violação do art. 535, I, do CPC/1973.
+Nas razões de apelação, a recorrente alegou que "o Endosso juntado aos autos em sede de contestação é claro ao prever o cancelamento da apólice a pedido da estipulante, o que por si só fulmina o pedido ora manejado" (e-STJ fl. 168).
+Contudo, o Tribunal de origem não apreciou essa alegação.
+Nos aclaratórios, a recorrente afirmou que a Corte local não havia se pronunciado sobre a alegação de que "o cancelamento não se deu de forma unilateral, mas sim bilateral, na medida em que juntou aos autos em sede de Contestação (fis. 70/71) solicitação de cancelamento da apólice subscrita pela própria Estipulante - representante do segurado na relação contratual - e o Endosso de Cancelamento" (e-STJ fl. 283).
+No entanto, mais uma vez, o TJRS não se manifestou sobre esse tema, imprescindível para o deslinde do julgamento, caracterizando efetiva ofensa ao art. 535, II, do CPC/1973. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ARTIGO 535 DO CPC. OMISSÃO CARACTERIZADA. ANULAÇÃO DO JULGADO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. É imprescindível para o deslinde da questão a manifestação pelo Tribunal de origem acerca do pedido da agravada de repetição de indébito em dobro dos valores cobrados pelo recorrido, ante a ausência de engano justificável.
+2. Esclareça-se que, apesar de instado a se manifestar sobre tal ponto, o Tribunal a quo somente declarou a necessidade de repetir o indébito na forma simples sem fundamentação alguma. É necessário a análise da presença do suposto engano justificável pela Instância de origem, pois apenas dessa forma poderá haver alguma avaliação do tema por Esta Corte. Resta configurada a omissão do julgado, apto a justificar a sua anulação por este Tribunal Superior.
+3. Sendo assim, mantenha-se a decisão agravada, determinando o retorno dos autos ao Tribunal de origem a fim de que profira novo julgamento, desta vez, se pronunciando a respeito da questão levantada.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 47.520/RJ, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/10/2011, DJe 18/10/2011.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROVIMENTO PARCIAL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO EXISTENTE. DEMAIS ASPECTOS MANTIDOS.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguida como existente no decisum.
+2. Não apreciadas as nulidades alegadas, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado. Assim, não ocorre contrariedade ao art. 535, incs. I e II, do CPC, quando o Tribunal de origem decide todas as questões postas ao seu exame, com a fundamentação que entende adequada. Não há que se confundir entre pronunciamento contrário aos interesses da parte e ausência de fundamentação ou negativa de prestação jurisdicional.
+3. À falta de prequestionamento, inviável o exame da alegada afronta aos arts. 458, III, e 463 do CPC, o que faz atrair o enunciado da Súmula 282/STF.
+4. Tendo o Tribunal a quo lastreado a sua conclusão a partir da análise minuciosa das circunstâncias fáticas dos autos, não há como adentrar em tais matérias, sem rever o conjunto fático-probatório dos autos, o que é defeso, a teor da Súmula 7/STJ.
+5. O dissídio não logrou aperfeiçoar-se seja porque não observados os requisitos de sua configuração (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC), seja porque, no caso, há particularidade não divisada nos arestos trazidos a confronto, o que afasta a similitude fática entre os julgados.
+6. Agravo regimental parcialmente provido, para conhecer, em parte, do recurso especial e, nessa extensão, dar-lhe provimento, decretando-se a nulidade do acórdão dos embargos de declaração, e, via de consequência, determinar o retorno dos autos à Corte de origem, a fim de que se manifeste, de forma expressa, a respeito do quanto alegado pelo recorrente em sede declaratória, relativamente à questão alusiva aos arts. 512 e 515 do CPC (existência de reformatio in pejus no julgado).
+(AgRg no REsp n. 926.426/RJ, Relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 7/4/2011, DJe 4/5/2011.)
+De outro lado, melhor sorte não acolhe o recurso no que diz respeito à omissão alegada.
+Isso porque a tese de que seria vedada a incidência de juros e correção monetária em face de empresa que encontra-se em liquidação extrajudicial não foi suscitada na apelação (e-STJ fls. 157/169), sendo apresentada apenas nos embargos de declaração (e-STJ fls. 272/286).
+Portanto, o Tribunal de origem não estava obrigado a manifestar-se sobre esse ponto, não havendo omissão a ser suprida.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de anular o julgamento dos embargos de declaração e determinar ao Tribunal de origem que se manifeste expressamente sobre a matéria apontada nesta decisão - suposta solicitação de cancelamento da apólice pelo estipulante à seguradora.
+Publique-se e intimem-se.
