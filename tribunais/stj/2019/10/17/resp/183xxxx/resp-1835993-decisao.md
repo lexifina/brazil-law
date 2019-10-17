@@ -1,0 +1,12 @@
+DECISÃO
+LUCAS NASCIMENTO DE LIMA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 0026354-53.2016.8.26.0050.
+Consta dos autos que o ora recorrente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, bem como à reprimenda de 1 ano de detenção, em regime aberto, pelo cometimento do crime descrito no art. 12, caput, da Lei n. 10.826/2003.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 33, § 4º, da Lei n. 11.343/2006; 33 e 44, ambos do Código Penal, e requer, assim: a) a aplicação, no patamar máximo de 2/3, da minorante prevista no § 4º do art. 33 da Lei de Drogas; b) a fixação de regime inicial mais brando; c) a substituição da pena privativa de liberdade por restritivas de direitos.
+Decido.
+Em consulta processual realizada na página eletrônica deste Superior Tribunal, verifico que consta a impetração do HC n. 508.376, o qual foi ajuizado em favor do ora recorrente e também se insurge contra a reprimenda oriunda da mesma ação penal objeto deste recurso (Apelação Criminal n. 0026354-53.2016.8.26.0050).
+Aliás, registro que o referido habeas corpus já foi julgado e a ordem foi parcialmente concedida, a fim de estabelecer ao réu o regime inicial semiaberto de cumprimento de pena.
+Dessa forma, fica esvaída a análise das questões suscitadas no recurso especial, em razão da perda superveniente do seu objeto.
+Ainda, ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Determino, outrossim, o envio de cópia dos autos ao Juízo da 14ª Vara Criminal da Comarca de São Paulo - SP (juízo da condenação) para que encaminhe a guia de recolhimento ao juízo da VEC, a fim de dar início a execução da pena imposta ao ora recorrente. A determinação deverá ser desconsiderada, caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
