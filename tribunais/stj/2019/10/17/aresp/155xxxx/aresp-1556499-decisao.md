@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 273/276).
+O acórdão recorrido está assim ementado (e-STJ fl. 165):
+APELAÇÃO CÍVEL - INOCORRÊNCIA DE OFENSA À DIALETICIDADE - CONTRATO DE EMPRÉSTIMO - DESCONTOS NO BENEFÍCIO PREVIDENCIÁRIO - DANOS MORAIS REDUZIDOS - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Rejeita-se a preliminar de não conhecimento do recurso por ofensa ao princípio da dialeticidade, se possível aferir da peça recursal as razões de fato e de direito que combatem o provimento jurisdicional.
+A quantificação do dano moral deve observar os critérios de razoabilidade, tomando por base as condições econômicas daquele que pratica o ato ilícito, bem assim daquele que o sofreu, o grau da ofensa e as consequências suportadas pelo ofendido, para que a reparação não constitua fonte de enriquecimento indevido daquele que viu-se ofendido, fazendo-se necessário, no caso, estabelecer-se uma correta proporcionalidade entre causa e efeito.
+Recurso conhecido e parcialmente provido.
+Os embargos de declaração foram rejeitados com imposição de multa (e-STJ fls. 192/195).
+Nas razões do recurso especial (e-STJ fls. 204/221), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou ofensa aos arts. 6º, VI, 14 do CDC e arts. 186, 927 e 944 do CC/2002, alegando que:
+ ..  são danos morais aqueles que se qualificam em razão da esfera da subjetividade ou plano valorativo da pessoa na sociedade, havendo, necessariamente, que atingir o foro íntimo da pessoa humana ou da própria valoração pessoal no meio em que vive, atua ou que possa de alguma forma repercutir.
+É direito básico do consumidor a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos (art. 6º, VI, CDC). Este é o comando legal que responsabiliza o fornecedor habitual de produtos ou serviços pelos danos que vier causar ao respectivo destinatário final, danos estes representados, no particular, por todo e qualquer prejuízo ao patrimônio do ofendido bem como a um direito personalíssimo.
+No caso, é incontroverso que houve falha na prestação de serviços, e que houve descontos indevidos no beneficio previdenciário do(a) recorrente.
+Referido ilícito foi capaz de causar abalo moral no(a) recorrente, posto que o(a) consumidor(a) não realizou os empréstimos os quais passou a sofrer descontos indevidos no seu beneficio previdenciário, o que gera nítido constrangimento manifestado não só pelo dissabor de constatar que não pode lançar mão de toda a justa remuneração mensal para a satisfação de necessidades básicas e pessoais, como pelo sentimento de impotência em ser submetido a descontos indevidos sem nada poder fazer a respeito. No presente caso, o negócio nulo gera dano moral.
+Por fim, pugnou pela majoração do valor da indenização, o qual se mostrou ínfimo e incompatível com os princípios da proporcionalidade e da razoabilidade.
+No agravo (e-STJ fls. 279/289), afirma a presença de todos os requisitos de admissibilidade do especial.
+O agravado apresentou contraminuta (e-STJ fls. 295/301).
+É o relatório.
+Decido.
+Do dano moral
+Sobre os danos morais, o Tribunal de origem se manifestou nos seguintes termos (e-STJ fl. 169):
+No presente caso, é inegável que a autora foi ofendida como pessoa, pois evidente a situação constrangedora pela qual passou ao ver os descontos diretamente de sua aposentadoria, quando sequer havia realizado negócio jurídico com a instituição financeira, sendo evidente a falha na prestação do serviço que implicou invasão da privacidade e insegurança do consumidor, que se viu privado de parte de seus rendimentos em virtude de descontos indevidamente promovidos.
+Sendo assim, levando em conta os incômodos, aborrecimentos e transtornos suportados pelo demandante em virtude dos descontos efetuados indevidamente sobre sua aposentadoria, é cabível o pagamento de indenização por danos morais, os quais são in re ipsa, ou seja, prescindíveis de outras provas.
+Assim, com relação ao reconhecimento dos danos morais, não há interesse recursal. Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. TRIBUNAL A QUO ENTENDEU PELA AUSÊNCIA DE VÍCIOS NO IMÓVEL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. MUDANÇA DO RITO. CONCLUSÃO FAVORÁVEL À PARTE AGRAVANTE. AUSÊNCIA DE INTERESSE RECURSAL. ILEGITIMIDADE PASSIVA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior orienta-se no sentido de que tanto o art. 557 do CPC/73 como o art. 932 do CPC/2015 e a Súmula 568/STJ admitem que o Relator julgue monocraticamente recurso inadmissível ou com jurisprudência consolidada nesta Corte. Reconhece ainda que, nessas hipóteses, o julgamento singular não ofende o princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado.
+2. O Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que não foram comprovados os alegados vícios no imóvel e que o contrato de locação apenas imputa ao locador o dever de reparar danos relativos à segurança do imóvel. A pretensão de revisar tal entendimento, considerando as circunstâncias do caso, demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme preconiza a Súmula 7/STJ.
+3. O recorrente carece de interesse recursal quando o Tribunal estadual apresenta conclusão favorável à parte agravante.
+4. Esta Corte Superior orienta-se no sentido de que a matéria de ordem pública também deve ser prequestionada para fins de admissão do recurso especial. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 130.222/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/02/2019, REPDJe 26/02/2019, DJe 25/02/2019.)
+Do quantum indenizatório
+A modificação do valor da indenização por danos morais é admitida, em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, fixou a indenização dos danos morais no valor de R$ 5.000 (cinco mil reais), nos seguintes termos (e-STJ fls. 169/170):
+Em relação aos valores arbitrados a título de danos morais, é pacificamente entendido que a quantificação do dano moral deve observar os critérios de razoabilidade, tomando por base as condições econômicas daquele que pratica o ato ilícito, bem assim daquele que o sofreu, o grau da ofensa e as consequências suportadas pelo ofendido, para que a reparação não constitua fonte de enriquecimento indevido daquele que viu-se ofendido, fazendo-se necessário, no caso, estabelecer-se uma correta proporcionalidade entre causa e efeito.
+No presente feito, há provas do poder aquisitivo da vítima, bem assim do grau da ofensa e repercussão do dano causado ao seu patrimônio, que ao receber benefício previdenciário consubstanciado em um único salário mínimo, viu-se tolhida do pouco que tem direito.
+Ora, se por um lado deve-se ter a cautela na fixação em respeito ao instituto que visa a indenizar propriamente o ofendido pelo dano moral, garantindo-lhe justiça, proporcionalidade e repressão ao ato ilegal, por outro aspecto, deve-se também se precaver de indevidamente arbitrarem-se quantias excessivas, o que também violaria o enriquecimento indevido.
+No caso em apreço, entendo que a quantia de R$ 5.000,00 (cinco mil reais) se mostra adequada aos fatos oriundos deste feito, e contempla dentro da proporcionalidade o contrato declarado nulo, bem assim como as próprias parcelas descontadas da fonte do pagamento da parte.
+Para alterar tais fundamentos, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+RESPONSABILIDADE CIVIL. DESCONTO INDEVIDO. BENEFÍCIO PREVIDENCIÁRIO. DANOS MORAIS. VALOR ARBITRADO NA ORIGEM. RAZOABILIDADE E PROPORCIONALIDADE. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2. O valor fixado a título de indenização por danos morais pode ser revisto em recurso especial apenas quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade e proporcionalidade, o que não se evidencia no presente caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.466.664/MS, de minha relatoria, QUARTA TURMA, julgado em 17/06/2019, DJe 21/06/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE DAS INSTITUIÇÕES FINANCEIRAS. SÚMULA 479/STJ. FALHA NA PRESTAÇÃO DE SERVIÇO. DESCONTOS INDEVIDOS DE BENEFÍCIO PREVIDENCIÁRIO DA AUTORA. DANO MORAL. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com fundamento no conjunto probatório dos autos, concluiu que houve falha na prestação de serviço, ocasionando descontos indevidos do benefício previdenciário da autora. Nesse contexto, afigura-se inviável rever tal conclusão, tendo em vista o óbice da Súmula 7/STJ.
+2. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 10.000,00 (dez mil reais), não é excessivo nem desproporcional aos danos sofridos pela parte autora.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.201.789/MS, Rel. Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 15/3/2018, DJe 22/3/2018.)
+No caso dos autos, portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
