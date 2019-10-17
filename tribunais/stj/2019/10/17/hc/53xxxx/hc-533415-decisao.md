@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CARLOS [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado do Piauí (HC n. 0710327-24.2019.8.18.0000).
+De acordo com os autos, o paciente foi preso em flagrante, prisão posteriormente convertida em preventiva no dia 1/3/2019, acusado de praticar os crimes previstos nos arts. 33, 40, V, e 35, todos da Lei n. 11.343/2006 (e-STJ fls. 55/59), "pois supostamente estava transportando entorpecente, por diversos estados, em grande quantidade - 10,39Kg  dez quilogramas e trezentos e noventa gramas  de cocaína" (e-STJ fl. 76).
+Irresignada, a defesa impetrou prévio writ no Tribunal de origem, tendo sido a ordem denegada em acórdão assim ementado (e-STJ fls. 73/74):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA E EXISTÊNCIA DE CIRCUNSTÂNCIAS PESSOAIS FAVORÀVEIS. TESES JÁ APRECIADAS E AFASTADAS NO JULGAMENTO DO HC Nº 0703473-14.2019.8.18.0000. REPETIÇÃO DE PEDIDOS. NÃO CONHECIMENTO. EXCESSO DE PRAZO NA INSTRUÇÃO. AUDIÊNCIA REDESIGNADA POR DUAS VEZES E NÃO CONCLUÍDA. CONTRIBUIÇÃO DA DEFESA. INCIDÊNCIA DO PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESTA PARTE, DENEGADO. EM CONFORMIDADE COM O PARECER DO MINISTÉRIO PÚBLICO SUPERIOR.
+I. As alegações de ausência de fundamentação idônea do decreto cautelar e de existência de condições pessoais favoráveis já foram apreciadas e rejeitadas no HC nº 0703473-14.2019.8.18.0000, tratando-se de mera repetição de pedidos. Portanto, inexistindo fato novo que modifique o entendimento anterior, tais teses não devem ser conhecidas.
+2. Os precedentes desta Câmara Criminal são no sentido de que o excesso de prazo não é aferido pela simples contagem fragmentada dos prazos processuais, demandando análise ponderada frente ao princípio da razoabilidade, levando em conta a totalidade dos prazos, a complexidade do Jeito e a eventual contribuição da defesa para caracterização da demora.
+3. O paciente encontra-se preso desde 27/02/19, ou seja, há pouco mais de 06 meses, e a audiência de instrução após ter sido redesignada por duas vezes não foi concluída. Acontece que parte do atraso deve ser atribuído à defesa, pois, conforme consta na Ata anexada aos autos (ID. 825807), a audiência de instrução realizada em 27/08/19 não se findou em razão da ausência das testemunhas de acusação e de defesa, havendo o Ministério Público insistido em tais oitivas, com anuência da defesa e, ato contínuo, realizado os interrogatórios dos acusados.
+4. De tal sorte, a concessão de Habeas Corpus por excesso de prazo só está autorizada quando a demora aferida for atribuída somente ao Juiz ou à acusação, em manifesta ofensa ao principio da razoabilidade, o que não é o caso, principalmente levando em consideração os prazos especiais previstos na Lei 11.343/06 e apreciação do prazo do ponto de vista global.
+5. Ordem denegada. em conformidade com o parecer do Ministério Público Superior.
+Nesta instância, a defesa sustenta não estarem presentes os requisitos legais autorizadores da prisão preventiva, bem como haver excesso de prazo para a formação da culpa não causado pelo paciente.
+Também alega que "o acusado já foi ouvido antes mesmo de se encerrarem os depoimentos da acusação, o que deve ter gerado uma nulidade, já reconhecida por esse Tribunal em outro julgado" (e-STJ fl. 16).
+Assim, requer, em liminar e no mérito, a expedição de alvará de soltura em favor do agente.
+O pedido liminar foi indeferido (e-STJ fls. 80/83).
+Informações e documentos foram apresentados pelos Juízos de primeiro (e-STJ fls. 111/118) e de segundo grau (e-STJ fls. 87/107).
+O Ministério Público Federal exarou parecer opinando nos termos da seguinte ementa (e-STJ fl. 120):
+Habeas Corpus substitutivo de recurso próprio. Art. 33, c/c art. 40, V, e art. 35, todos da Lei n 11.343/06 (10 tabletes de cocaína, pesando 10,39kg). Prisão preventiva. Decisão do magistrado de primeiro grau revogando a constrição por excesso de prazo da instrução processual e determinando a expedição de alvará de soltura em favor do paciente. Perda do objeto.
+Parecer pela prejudicialidade do pedido.
+É, em síntese, o relatório.
+A partir das informações prestadas às e-STJ fls. 115/118, verifica-se a superveniência da revogação da prisão preventiva objurgada neste writ, tendo sido determinada a expedição de alvará de soltura clausulada em favor do ora paciente.
+Assim, é forçoso reconhecer a perda superveniente de objeto desta impetração.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
