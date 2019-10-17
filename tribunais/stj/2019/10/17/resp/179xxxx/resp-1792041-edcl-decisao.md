@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FIXAÇÃO DE HONORÁRIOS. AUSÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. ARGUMENTO IMPROCEDENTE. EMBARGOS DE DECLARAÇÃO REJEITADO.
+DECISÃO
+Trata-se de embargos de declaração opostos pela USIMINAS contra decisão assim ementada (fl. 1.200, e-STJ):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO. ISS. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC/1973. VALOR RAZOÁVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+A embargantes aponta que "a contradição e obscuridade do julgado são evidentes: ao mesmo tempo em que se consigna em sua fundamentação que "No que tange ao recurso da autora que pleiteia a majoração da verba honorária, temos que foi a mesma muito bem fixada, por equidade, em R$ 5.000,00", conclui-se que "também não é o caso de manter o que foi determinado na origem, motivo pelo qual fixo os honorários em R$ 20.000,00". Desses trechos, saca-se a seguinte pergunta: afinal, o TJSP fixou os honorários em R$ 5.000,00 ou em R$ 20.000,00 " (fl. 1.210, e-STJ).
+Pugna, por fim, pelo conhecimento e acolhimento dos embargos, sendo esclarecidos os vícios apontados de modo que seja majorada a verba honorária para montante razoável, não inferior a R$ 20.000,00.
+Com impugnação às fls. 1.217-1.221, e-STJ.
+É o relatório. Decido.
+De início, registra-se que, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada, ao assentar que (fl. 1.201, e-STJ):
+ ..
+No presente caso, constata-se que o Tribunal de origem, ao examinar o acervo fático-probatório dos autos, concluiu que a verba honorária fixada na sentença, no valor de R$ 5.000,00 (cinco mil) reais, não era suficiente para remunerar o trabalho desenvolvido pelo patrono da parte e acrescentou para R$ 20.000,00 (vinte mil) reais, após concluir que não se justificava a majoração para 10% do valor da causa, situação que impede a revisão nesta Corte, pois somente valores que fogem da razoabilidade são viáveis a flexibilizar o óbice da Súmula n. 7/STJ, o que não é o caso dos autos.
+Como se vê, a decisão ora embargada utilizou-se de fundamentação suficiente para negar provimento ao apelo especial e manter os fundamentos do acórdão recorrido que alterou a fixação dos honorários de R$ 5.000,00 (cinco mil reais) para 20.000,00 (vinte mil reais), ao assentar que "no presente feito, não se justifica a majoração para 10% do valor da causa, mas também não é o caso de manter o que foi determinado na origem, motivo pelo qual fixo os honorários em R$20.000,00" (fl. 1.025, e-STJ).
+Logo, tendo em vista que os honorários foram fixados na origem em R$20.000,00 (vinte mil reais) e mantido por este Tribunal Superior de Justiça, não há que se falar em contradição, omissão ou quaisquer outros vícios na decisão monocrática, razão pela qual os embargos de declaração não devem ser acolhidos.
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
