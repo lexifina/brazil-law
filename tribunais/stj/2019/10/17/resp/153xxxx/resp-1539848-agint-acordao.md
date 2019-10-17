@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR. VANTAGEM DO ART. 192, II, DA LEI N. 8.112/90. BASE DE CÁLCULO. VENCIMENTO BÁSICO. GTMS, GEMAS E RT. DIREITO. INEXISTÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. As duas Turmas de Direito Público do Superior Tribunal de Justiça entendem que "as vantagens pecuniárias dos incisos I e II do art. 192 da Lei 8.112/1990 - já revogado, devem considerar o vencimento básico do padrão do cargo, excluídos do cálculo os demais acréscimos legais e vantagens pessoais, tais como a GEMAS e a RT" (AgInt no REsp 1.745.479/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/05/2019, DJe 16/05/2019).
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto contra decisão de minha lavra, em que conheci parcialmente de recurso especial da parte agravada e, nessa extensão, dei-lhe provimento para julgar improcedente o pedido (e-STJ fls. 696/698).
+Aduz a parte agravante, inicialmente, que a decisão agravada estaria "em oposição ao que fora decidido na ação coletiva, bem como extrapolou os limites do pedido inicial ao rediscutir matéria estranha à lide." Isso porque não haveria "qualquer discussão sobre se a diferença deve incidir sobre o vencimento ou remuneração (..), tendo em vista ser este o objeto da ação de mandado de segurança já transitada em julgado, estando a questão cristalizada pela coisa julgada da sentença mandamental coletiva (..)."
+Alega, ainda, que o apelo especial da parte agravada não merece ser conhecido, dada a aplicação das Súmulas 7 e 211 do STJ.
+Em seguida, sustenta que decisão agravada teria reformado o aresto regional e julgado improcedente a pretensão formulada, mediante a rediscussão de matéria já apreciada em mandado de segurança coletivo e acobertada pela coisa julgada, "a saber, qual seria a base de cálculo da vantagem do artigo 192, II da Lei n. 8.112/90."
+Sustenta que, na presente ação, "nunca pretendeu discutir se a diferença a que faz menção o art. 192, II, da Lei n. 8.112/90, é devida sobre a remuneração ou sobre o vencimento básico, tal qual entendeu o v. acórdão recorrido - mesmo porque cuida- se de matéria já decida no bojo da ação coletiva transitada em julgado."
+Assevera, por isso, que a reforma do aresto recorrido implicou julgamento extra petita, porquanto teria extrapolado "os limites do pedido inicial e rediscutir matéria estranha à lide."
+Decurso do prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR. VANTAGEM DO ART. 192, II, DA LEI N. 8.112/90. BASE DE CÁLCULO. VENCIMENTO BÁSICO. GTMS, GEMAS E RT. DIREITO. INEXISTÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. As duas Turmas de Direito Público do Superior Tribunal de Justiça entendem que "as vantagens pecuniárias dos incisos I e II do art. 192 da Lei 8.112/1990 - já revogado, devem considerar o vencimento básico do padrão do cargo, excluídos do cálculo os demais acréscimos legais e vantagens pessoais, tais como a GEMAS e a RT" (AgInt no REsp 1.745.479/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/05/2019, DJe 16/05/2019).
+3. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerada essa premissa, observo que, nada obstante os argumentos expendidos, a decisão agravada não merece retoque.
+De início, como salientou a agravante em suas contrarrazões ao recurso especial da UFGRS, a ação proposta visa ao "reconhecimento da natureza remuneratória das parcelas RT, GEMAS e GTMS, instituídas a partir de 2008" (e-STJ fl. 660).
+Ora, a análise de tal tema constitui matéria eminentemente de direito e que não desafia reexame de conteúdo fático a fazer incidir o óbice da Súmula 7 do STJ.
+Quanto à Súmula 211 do STJ, seu emprego não foi agitado nas contrarrazões recursais, sendo descabido à parte inovar no agravo interno, ante a preclusão consumativa.
+Ultrapassados esses pontos, segundo o aresto regional e ao contrário do afirmado pela parte agravante, a decisão proferida no mandado de segurança coletivo a que fez referência (processo 2000.71.00.019164-8), ao tempo do acórdão recorrido, ainda não tinha sido alcançado pelo coisa julgada, porquanto pendente de recurso a ser apreciado por este Colegiado (e-STJ fls. 535/536).
+Como ficou consignado na decisão agravada, o acórdão regional discutiu "se a parte autora tem ou não direito à inclusão das parcelas de GTMS, GEMAS e RT, a partir de março de 2008, na base de cálculo da vantagem do artigo 192-II da Lei 8.112/90 a que faz jus, a partir do que vem sendo decidido nos mandados de segurança coletivos 2000.71.00.019164-8 e 2000.71.00.020515-5." (e-STJ fl. 535 - grifei).
+O Regional, nesse escopo, passou a prestigiar a decisão judicial proferida em ação coletiva (pendente de recurso especial), na qual se entendeu que a GED (Gratificação de Estímulo à Docência), criada pela Lei 9.678/98, integrava a base de cálculo da vantagem do artigo 192, II, da Lei n. 8.112/90.
+Por simetria daquela compreensão, a Corte Regional passou a entender que as gratificações que sucederam a GED (GTMS, GEMAS e RT) também deveriam ser calculadas da mesma forma, isto é, não levando em conta "apenas as diferenças do vencimento básico do cargo, mas também as demais parcelas que integrariam a remuneração".
+Nesse escopo, chegou à seguinte conclusão (e-STJ fl. 538):
+Em conclusão, se a vantagem do artigo 192-11 da Lei 8.112/90 há muito tempo vinha sendo calculada e paga à parte autora a partir de determinado critério, não é possível que tal critério fosse posteriormente desconsiderado e a vantagem tivesse sua base de cálculo alterada, ainda que tivesse havido mudança no nome das gratificações. Ou seja, se a vantagem do artigo 192-11 era calculada considerando a remuneração do servidor (incluída a GED), não pode ser alterado o critério de cálculo para considerar apenas o vencimento básico do cargo (excluídas GTMS, GEMAS e RT).
+O critério não pode sofrer alteração: se a vantagem era calculada considerando a remuneração (e a gratificação GED), deve continuar a ser calculada considerando a remuneração (e as gratificações que tenham a mesma natureza e generalidade da GED, como GTMS, GEMAS e RT).
+Como se observa, a questão discutida na origem versou sobre a possibilidade de valores recebidos a título de gratificações (GTMS, GEMAS e RT) integrarem a base de cálculo da vantagem prevista no art. 192, II, da Lei n. 8.112/90.
+Ocorre que, como externado no decisum agravado, as duas Turmas de Direito Público do Superior Tribunal de Justiça entendem que não há direito à inclusão das parcelas de GTMS, GEMAS e RT, na base de cálculo da vantagem do art. 192, II, da Lei n. 8.112/90, a qual incide sobre o vencimento básico e não sobre a remuneração do servidor.
+Destarte, não há amparo para a alegação de julgamento fora do pedido.
+Sobre a hipótese dos autos, conferir os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. VANTAGEM PECUNIÁRIA. ART. 192, I, DA LEI 8.112/1990. BASE DE CÁLCULO. VENCIMENTO BÁSICO DO PADRÃO OCUPADO. INCLUSÃO DA GTMS, GEMAS E RT NA BASE DE CÁLCULO. INVIABILIDADE. PRECEDENTES.
+1. É firme o entendimento neste e.STJ, segundo o qual as vantagens pecuniárias dos incisos I e II do art. 192 da Lei 8.112/1990 - já revogado, devem considerar o vencimento básico do padrão do cargo, excluídos do cálculo os demais acréscimos legais e vantagens pessoais, tais como a GEMAS e a RT. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp 1.745.479/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/05/2019, DJe 16/05/2019).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM PREVISTA NO ART. 192, II, DA LEI 8.112/1990. BASE DE CÁLCULO. VENCIMENTO BÁSICO DO PADRÃO OCUPADO. INCLUSÃO DA GTMS, GEMAS E RT NA BASE DE CÁLCULO. INVIABILIDADE.
+1. A vantagem prevista no artigo 192 da Lei 8.112/1990 corresponde à diferença entre o valor básico atribuído ao padrão em que se encontra o servidor no ato da aposentação e o valor básico atribuído ao padrão imediatamente superior, ou à diferença entre o valor básico referente ao último padrão e o valor básico do padrão imediatamente anterior, se o servidor tiver alcançado o último estágio da carreira.
+2. A jurisprudência dos Tribunais Superiores também é uniforme no sentido de que o servidor público não possui direito adquirido a regime jurídico, tampouco a regime de vencimentos ou de proventos, sendo possível à Administração promover alterações na composição remuneratória e nos critérios de cálculo, como extinguir, reduzir ou criar vantagens ou gratificações, instituindo, inclusive, o subsídio, desde que não haja diminuição no valor nominal global percebido, em respeito ao princípio constitucional da irredutibilidade de vencimentos.
+3. Ressalta-se que o STF firmou o entendimento de que não há direito adquirido a regime jurídico em se tratando de servidores públicos, devendo as alterações legais posteriores na forma de cálculo de remuneração se aplicar, inclusive, em casos em que a forma anterior de recebimento tenha origem em decisão judicial.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1.514.094/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2015, DJe 05/08/2015).
+Conferir, ainda: AgRg no REsp 1.473.435/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 07/04/2015, DJe 13/04/2015; AgRg no AREsp 595.751/RS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 10/03/2015, DJe 06/04/2015, e AgRg no REsp 1.254.902/ES, Rel. Ministro ARNALDO ESTEVES LIMA, Primeira Turma, julgado em 03/05/2012, DJe 10/05/2012.
+Por último, deixo de aplicar a sanção prevista art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
