@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Apelação n. 0000828-33.2017.8.26.0185.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, como incurso no art. 33, caput, c.c o art. 40, inc. III, da Lei n. 11.343/2006 (tráfico de drogas).
+O Tribunal a quo deu parcial provimento à apelação da defesa para reduzir a pena para 5 anos e 10 meses de reclusão, mantido o regime fechado.
+No presente mandamus, alega a defesa que a ocorrência de ilegalidade decorrente da manutenção do regime fechado para cumprimento da pena, considerando que o paciente é primário, de bons antecedentes e que o crime não foi cometido em circunstâncias que justifiquem a fixação do regime mais gravoso.
+Requer, em sede liminar, a imediata colocação da paciente em regime prisional semiaberto e, no mérito, a confirmação da liminar.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 36/37).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a controvérsia refere-se ao regime inicial de cumprimento de pena.
+Nesse ponto, asseverou a Corte estadual:
+ ..
+As básicas foram acrescidas na fração de um sexto, em razão da variedade e quantidade de drogas apreendidas (19,2 gramas de cocaína, 1,3 gramas de crack e 15,54 gramas de maconha), alcançando, assim, cinco anos e dez meses de reclusão e quinhentos e oitenta e três dias- multa, o que se manteve na segunda etapa do sistema trifásico, à mingua de circunstâncias modificadoras.
+Na última fase, em razão da causa de aumento prevista no artigo 40, inciso VI, da Lei nº 11.343/06 (crime envolvendo adolescente), as sanções foram novamente elevadas em um sexto, o que, todavia, deve ser afastado, pois, embora Suzana tenha escondido o "embrulho" contendo droga em suas vestes, a pedido de [NOME], o fez, apenas, casualmente, visando a impedir a prisão do namorado, não havendo nos autos elementos suficientes a indicar que a menor estivesse efetivamente envolvida no comércio espúrio. Mais adequado, portanto, a exclusão da causa de aumento, motivo pelo qual os castigos restam concretizados nos patamares estabelecidos na fase inicial, ou seja, cinco anos e dez meses de reclusão e quinhentos e oitenta e três dias-multa, de valor unitário mínimo.
+O redutor previsto no artigo 33, § 4º, da lei específica, foi corretamente afastado na sentença, pois é certo que o apelante vinha exercendo o tráfico com habitualidade, não se tratando de criminoso ocasional, ao qual o benefício em tela é destinado. Aliás, como bem justificou o MMº. Juiz de Direito, "os policiais narraram que o réu se dedicava ao tráfico ilícito de entorpecentes de forma reiterada, havendo diversas denúncias feitas em seu desfavor.
+Gerson leite, na fase inquisitiva, afirmou que conhece o réu [NOME] há 03 (três) anos, e "teve uma época em que ele parou de vender drogas, não sabendo o motivo, tendo ele retomado as atividades recentemente". Tal relato denota dedicação às atividades criminosas" (fls.423).
+Finalmente, o regime prisional foi fixado pela sentença para o inicial fechado, de acordo com a Lei nº 11.464/07, e é imodificável, sendo o mais adequado à hipótese em foco para a reprovação e prevenção do delito, equiparado a hediondo, notadamente ante a natureza de duas das drogas apreendidas (crack e cocaína), extremamente nocivas à saúde pública (fls. 25/26).
+O regime inicial fechado está devidamente fundamento na gravidade concreta do delito, evidenciada pela variedade das drogas e, sobretudo, pelo poder destrutivo do crack e da cocaína, não havendo, dessa forma, possibilidade de fixação de regime mais brando.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. NÃO CONHECIMENTO.
+1. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+2. A substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos. Na espécie, tendo a reprimenda final alcançado 5 anos e 10 meses de reclusão, não é possível a pretendida substituição.
+3. Devidamente fundamentada a imposição do regime inicial fechado, com base nas circunstâncias do caso concreto, tendo o Colegiado estadual destacado a natureza das drogas apreendidas - crack e cocaína -, bem como a habitualidade da traficância e o fato de uma das condutas dirigir-se à adolescente, não há constrangimento ilegal a ser sanado.
+4. Habeas corpus não conhecido.
+(HC 358.852/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
