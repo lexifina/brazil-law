@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 2.562):
+Ação civil pública . Enquadramento dos agentes políticos na lei de improbidade administrativa.
+Possibilidade . Precedentes. Custeio ilícito de viagens.
+Danos ao erário. Necessidade de ressarcimento. Nexo causal demonstrado. Sentença mantida . Recursos desprovidos.
+Opostos embargos de declaração, foram eles rejeitados (fls. 2.580/2.584).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 9º, incs. XI e XII; e 11, caput e inc. VI, da Lei nº 8.429/92. Afirma, em síntese, que não houve dolo na sua conduta, porquanto as viagens ao exterior (tidas como condutas ímprobas) tiveram finalidade lícita e as respectivas prestações de contas foram aprovadas.
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer ofertado pela Subprocuradora-Geral da República [NOME], opinou pelo desprovimento do agravo (fls. 2.750/2.755).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Ao manter a condenação do ora agravante, o Tribunal de origem assentou o seguinte (fls. 2.565/2.567):
+ ..
+No mais, a prova dos autos dá conta de que os réus praticaram ato de improbidade administrativa.
+Como bem ponderou a douta Procuradoria de Justiça:
+"Noutra quadra, concorre sim prova da participação de [NOME] nas condutas ímprobas, conforme se verá, e que principia nos atos de ordenação de despesa, sem os quais os valores de custeio das viagens internacionais não teriam sido retirados do erário.
+A primeira viagem internacional do recorrente Carlos (para Nova Iorque), implicou não só o adiantamento de verbas pela Secretaria da Cultura (onde exercia cargo em comissão), como, também, o adiantamento da mesma verba pelo Baneser (ente público do qual era funcionário).
+Noutras palavras, o então diretor técnico do Departamento de Museus e Arquivos, da Secretaria da Cultura, foi por este órgão financiado e, ainda, recebeu o mesmo valor de outra fonte estatal. Consoante ressaltou o Dr. [NOME], houve "concessão de duas reposições indenizatórias com idêntico fundamento" (fls. 2251). Concorreu, de fato, prejuízo ao erário com o pagamento em dobro de valores para a mesma finalidade ao predito servidor.
+Surpreende, ainda, o fato de que o percebimento de indenização em dobro não ocorreu apenas uma vez. Verificou-se a mesma ilicitude quando da viagem de Carlos a França. Neste passo afirmou a exordial que:
+Para estas viagens (Nova Iorque e França), apuradas nos processos 1479/95 -1279/97 (CGA 018/95) e 1477/95 -1291/97 (CGA 009/95) quando da concessão de autorização do afastamento, por parte da Secretaria do governo, houve prévia fixação de valor certo e fixo a título de ajuda de custo, havendo o respectivo depósito em conta corrente do requerido [NOME] dos valores arbitrados, de sorte que, manifestamente irregular e despropositado afigurou-se o esquema paralelo efetuado pelos requeridos, junto a Baneser, para obtenção e percepção de valores extras, a título de custeio das viagens. Houve a rigor, o custeio da viagem através de 2 fontes, da Secretaria da Cultura e do Baneser - tendo no entanto a Administração pública arcado posteriormente com os valores custeados pelo Baneser, acrescidos, ainda de 25% de taxa de administração, (fl. 08/ 09).
+Quanto à última viagem (também para a França), em tese não haveria qualquer ônus financeiro para o Estado, conforme se vê da autorização de afastamento concedida pelo então Secretário da Cultura e pelo corréu Carlos. Lê-se na referida autorização: "O Secretário de governo, no uso de suas atribuições que lhe foram delegadas,  ..  AUTORIZA o afastamento de [NOME]  .. , para, sem prejuízo dos vencimentos e das demais vantagens de seu cargo, porém sem quaisquer ônus para o Estado, no período de 25 de outubro a 05 de novembro de 1994, empreender viagem a França, a fim de participar do [NOME] de Grenoble." (fl. 05 da inicial e fl. 2.250 da manifestação ministerial).
+Sucede que o adiantamento do Baneser acabou sendo cobrado do Estado, inclusive com taxa de administração de 25% do valor (conforme documentos citados a fl. 5 da inicial). E, consoante asseverou a r. sentença, "Quanto a esta viagem, qualquer despesa que tenha sido cobrada do autor - e o foi - constitui ilícito, já que a autorização foi dada com a expressa advertência de que não haveria danos ao erário."(fl. 2775).
+Nesse ponto, o dolo genérico é facilmente perceptível, vez que não houve revogação dos atos de empenho, devolução do dinheiro retirado do erário, mesmo à vista de ressalva expressa sobre a inexistência de ônus financeiro para o Estado, e sequer prestação de contas com documentos idôneos ligados à acenada finalidade pública dos deslocamentos.
+ ..
+Ora, para dissentir das premissas estabelecidas pelas instâncias de origem, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
