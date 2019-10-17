@@ -1,0 +1,31 @@
+DECISÃO
+Cuidam-se de embargos declaratórios opostos por GENTIL CARLOS MORIN e OUTROS contra decisão às fls. 493/495, que determinou a remessa dos autos ao Tribunal de origem, com respectiva baixa, para realização do juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015
+Nas razões recursais, a parte embargante sustenta a existência de omissão e obscuridade na decisão embargada, uma vez que, "da forma como proferida, retirou dos Embargantes a possibilidade de julgamento da matéria relativa ao termo inicial dos juros de mora" porque "impedirá o Tribunal "a quo" de reenviar o Recurso Especial dos Embargantes para julgamento da matéria relativa ao termo inicial dos juros de mora" (fl. 499).
+Ao final, requer sejam acolhidos os embargos para que seja julgada e decidida a matéria relativa ao termo inicial dos juros de mora, ou para que se determine ao Tribunal de origem, após juízo de conformação, o envio do recurso especial ao STJ para apreciação da matéria.
+Apresentada impugnação às fls. 504/510.
+É o relatório.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Ao contrário do que sustenta a parte embargante, a devolução do recurso especial ao Tribunal de origem para o aguardo do desfecho do julgamento do recurso repetitivo não impede que, a Corte de origem, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, determine o retorno dos autos a este STJ após ter exercido o juízo de conformação ao que decidido no julgamento do representativo da controvérsia respectiva.
+Isso porque, consoante a jurisprudência desta Corte, ainda que haja questões impugnadas no recurso especial distintas daquela objeto da afetação pelo STJ, aplica-se o comando previsto no art. 1.037, § 7º, do CPC/2015, que determina que seja julgada, em primeiro lugar, a matéria afetada, para apenas depois se prosseguir na resolução do resíduo não alcançado pela afetação. Nesse sentido:
+"PREVIDENCIÁRIO. TEMA DE FUNDO DECIDIDO PELO STF, SOB O SIGNO DA REPERCUSSÃO GERAL. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA A FEITURA DO JUÍZO DE CONFORMAÇÃO. IMPOSSIBILIDADE DE CISÃO DE JULGAMENTO. INTELIGÊNCIA DOS ART. 1037 ,§ 7º, E 1.041, § 2º, do CPC/15.
+1. A decisão agravada determinou a devolução dos autos ao Tribunal de origem, porquanto o tema de fundo trazido no recurso especial coincide com aquele já apreciada no âmbito do RE 937.595/SP - Tema 930/STF, com repercussão geral reconhecida pelo STF.
+2. O vigente sistema processual brasileiro não comporta a cisão e a concomitância de julgamentos perante as instâncias ordinária e especial. Logo, em se descortinando a presença de tema submetido à sistemática dos repetitivos ou da repercussão geral, evidenciada está a necessidade de prévia feitura de juízo de conformação pela Corte local.
+3. Com efeito, postergada resultará a inauguração da jurisdição do STJ enquanto não exaurido o ofício judicante do Tribunal de origem, que só ocorrerá com o rejulgamento da apelação ou do agravo de instrumento a seu cargo, ou seja, por ocasião do juízo de retratação/conformação, ou mesmo manutenção, nos moldes desenhados nos arts. 1.040 e 1.041 do CPC/2015.
+4. A teor do artigo 1.041, § 2º, do CPC/15, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões" (grifos nossos).
+5. Já o art. 1.037, § 7º, do CPC/2015, determina que, na hipótese de remanescerem questões impugnadas em recurso especial distintas daquela objeto da afetação pelo STJ, seja julgada em primeiro lugar a matéria afetada, para apenas depois se prosseguir na resolução do resíduo não alcançado pela afetação.
+6. Em tal contexto, presente a necessidade do juízo de conformação, o feito deverá retornar à respectiva instância recursal ordinária e eventual necessidade de exame de matéria remanescente será realizada posteriormente. Portanto, aplicam-se, à hipótese, os arts. 1.041, § 2º, e 1.037, § 7º, do CPC/15.
+7. Agravo interno não conhecido."
+(AgInt no REsp 1728078/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/08/2019, DJe 16/08/2019, g.n.)
+Nesse contexto, inexistentes as hipóteses do art. 1.022 do CPC, não merecem acolhida os embargos de declaração, uma vez que o mero inconformismo da parte não autoriza a oposição de embargos de declaração. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO.
+EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa."
+(EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015, g.n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO. INEXISTÊNCIA. ERRO MATERIAL DA EMENTA. AFASTAMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. Embargos de declaração acolhidos em parte, para correção de erro material, sem efeito modificativo."
+(EDcl no AgRg no AREsp 511.553/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/3/2015, DJe de 18/3/2015, g.n.)
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se
