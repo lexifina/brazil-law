@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO INCABÍVEL NA VIA ELEITA. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. IMPOSSIBILIDADE. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA. APENAMENTO MANTIDO EM PATAMAR QUE EXCEDE 8 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão de absolvição da prática do delito de associação para o tráfico não pode ser apreciada por esta Corte Superior, na via estreita do habeas corpus, por demandar o exame aprofundado do conjunto fático-probatório dos autos. Precedentes.
+2. A condenação pelo crime de associação para o tráfico evidencia que o agente se dedica a atividades criminosas, o que inviabiliza a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/2006. Precedentes.
+3. Mantida a condenação da recorrente em patamar que excede 8 anos de reclusão, ficam prejudicados os pedidos de abrandamento do regime prisional e de substituição da pena privativa de liberdade por restritiva de direitos.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental (fls. 2.043/2.062), interposto contra decisão de minha relatoria (fls. 2.034/2.041), que não conheceu de habeas corpus anteriormente impetrado.
+Narram os autos que o agravante/paciente foi condenado à pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime aberto, e pagamento de 350 (trezentos e cinquenta) dias-multa, pela suposta prática do crime de tráfico de drogas, na modalidade privilegiada, sendo absolvido do crime de associação para o tráfico.
+Irresignados, a defesa e o Ministério Público interpuseram recursos de apelação. O Tribunal negou provimento ao recurso defensivo e deu provimento ao apelo ministerial para reformar a sentença e condenar o paciente pela prática do crime de associação para o tráfico e afastar o privilégio aplicado com relação ao delito de tráfico, aplicando a pena de 11 (onze) anos, 2 (dois) meses e 5 (cinco) dias de reclusão, em regime inicial fechado, e pagamento de 1.680 (mil seiscentos e oitenta) dias-multa (e-STJ fls. 1946/1962).
+No presente mandamus (e-STJ fls. 3/26), o impetrante sustentou que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois manteve a sua condenação pelo crime de associação para o tráfico sem a presença da elementar ânimo associativo, exigida para a configuração do tipo penal.
+Afirmou que a fundamentação condenatória, data vênia, buscou dar tipicidade a fato totalmente atípico, com a aplicação do conceito de concurso de pessoas para caracterizar a existência de estabilidade e permanência entre o paciente e os acusados. (e-STJ fl. 19)
+Argumentou, ainda, que com o afastamento da condenação pelo crime de associação para o tráfico, seria cabível a aplicação do redutor previsto no § 4º do art. 33 da Lei 11.343/2006, o regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Ao final, requereu liminarmente o sobrestamento dos autos da apelação criminal e, no mérito, a concessão da ordem para absolver o paciente do crime previsto no artigo 35 da Lei n. 11.343/2006 e, consequentemente, aplicar o redutor máximo previsto no § 4.º do artigo 33 da Lei n. 11.343/2006, fixar o regime aberto e substituir a pena por restritiva de direitos.
+Indeferido o pedido liminar e, no mérito, não conhecido o habeas corpus, neste agravo regimental, repisa a defesa os fundamentos anteriormente apresentados, em especial, o fato de que a condenação pelo crime de associação para o tráfico requer a presença das elementares estabilidade e permanência, o que não restou comprovado nos autos.
+Pleiteia, assim, a reconsideração do decisum ou a submissão do feito ao órgão colegiado, para que seja reformada a decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. Todavia, não obstante os esforços da agravante, não há elementos suficientes para a reconsideração da decisão, cuja conclusão mantém-se por seus próprios fundamentos.
+Conforme relatado anteriormente, buscava o impetrante, em suma, a absolvição do paciente pelo delito de associação para o tráfico. Pleiteava, ainda, subsidiariamente, a aplicação da redutora do tráfico privilegiado, a fixação do regime aberto e substituição da pena após a realização da nova dosimetria.
+Com efeito, o habeas corpus não é a via adequada para apreciar o pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, é necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio heróico, caracterizado pelo rito célere e por não admitir dilação probatória.
+Ilustrativamente:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ART. 12 DA LEI N. 10.826/2003. POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. ABSOLVIÇÃO. EXCEPCIONALIDADE NA VIA ELEITA. CRIME DE PERIGO ABSTRATO. ATIPICIDADE DA CONDUTA NÃO EVIDENCIADA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O habeas corpus não se presta para apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+ ..
+5. Writ não conhecido. (HC n. 413.150/MS, Rel. Min. RIBEIRO DANTAS, Quinta Turma, Julgado em 23/11/2017, DJe 28/11/2017)
+Não obstante isso, ao reformar a sentença para condenar o paciente pela prática do crime de associação para o tráfico, assim consignou o Relator do voto condutor do acórdão (e-STJ fls.1953/1.957):
+ ..
+De outro norte, aponto que para a configuração do delito autônomo ele associação para o tráfico, previsto no art. 35 da Lei 11343/06, é necessário, nos dizeres de Rogério Sanchez Cunha (in Nova Lei de Drogas Comentada Artigo por Artigo: Lei 11343/06, de 23.08.2006 LUIs Flávio Gomes (coord). São Paulo: Editora Revista dos Tribunais, 2006. pp. 170): "(..) apenas duas pessoas (e não quatro), agrupadas de forma estável e permanente, para o fim de praticar, reiteradamente, ou não, qualquer dos crimes previstos nos arts. 33, caput (tráfico de drogas), e 34 (tráfico de maquinário) desta Lei".
+Conforme já tive oportunidade de me manifestar, a associação pressupõe uma reunião de propósitos,in casu, a exploração do comércio de drogas que exige elementos concretos desta união de forças que deve ocorrer previamente à atividade de comercializar drogas.
+Mais ainda, ao contrário da lei anterior que previa uma causa de aumento quando a associação fosse eventual, é necessário que tal associação seja estável e permanente o que, caso contrário, configuraria o mero concurso de agentes.
+Sobre o tema, colaciono brilhante decisão proferida pelo I. Desembargador Antônio Armando dos Anjos na apelação nº 1.0024.06.258450-3/001 (publicado em 13.09.2007):
+ ..
+Assim concluo que o animus associativo é a figura central do tipo penal do art. 35 da Lei 11.343/2006 e deve restar comprovado de maneira cabal já que o simples concurso não é o bastante para essa finalidade.
+Neste sentido se orienta a melhor doutrina. Vejamos:
+ ..
+Certo é que as provas alhures citadas revelaram que tal reunião de esforços ocorreu previamente ao evento narrado na denúncia, o que indica a condenação dos apelados pelo delito de associação para o tráfico deve ser feita.
+Ora, a logística desenvolvida pelos acusados, o camuflagem da droga no meio do carregamento de madeira, seu armazenamento em um sítio, a expressiva quantidade de droga, sua movimentação entre estados da federação e as informações trazidas pelas testemunhas revelam, à toda evidência, a existência do animus associativo.
+Noutro giro, verifico que a majorante encontra-se devidamente comprovada pela prova oral, aliada ao fato de que a grande quantidade de droga foi transportada camuflada em um caminhão.
+Pela leitura dos excertos acima, verifica-se que a conclusão obtida pela Corte estadual sobre a condenação do paciente pelo crime de associação para o tráfico foi lastreada no acervo probatório.
+Nesse contexto, entendimento diverso, como pretendido pelo impetrante, repito, demandaria a imersão vertical no acervo fático e probatório carreado aos autos, providência incabível na via processual eleita, não havendo que se falar, portanto, em absolvição por insuficiência probatória.
+Busca-se, ainda, a aplicação do redutor do tráfico privilegiado.
+Como é cediço, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Assim, no caso, não se admite o reconhecimento do tráfico privilegiado nas hipóteses em que o réu também for condenado por associação para o tráfico. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REVISÃO FÁTICO-PROBATÓRIA. VIA ELEITA INADEQUADA. TRÁFICO DE DROGAS. DOSIMETRIA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º DA LEI 11.343/2006. INCOMPATIBILIDADE COM A ASSOCIAÇÃO PARA O TRÁFICO. REGIME FECHADO. POSSIBILIDADE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Para se acolher o pedido de absolvição, quanto ao crime de associação para o tráfico de drogas, afastando a conclusão das instâncias ordinárias, é necessário o reexame de provas, inviável na estreita via do habeas corpus. Precedentes.
+3. Considerando a manutenção do decreto condenatório pela prática dos crimes tipificados nos arts. 33 e 35, ambos da Lei 11.343/2006, não há possibilidade de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas. Isso porque a condenação pela prática do crime de associação para o tráfico obsta o reconhecimento da referida minorante, ante a dedicação à atividade criminosa inerente ao delito.
+4. O STF, no julgamento do HC n. 111.840/ES, declarou inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com a redação que lhe foi dada pela Lei n. 11.464/07, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Assim, o regime prisional deverá ser fixado em obediência ao que dispõe o art. 33, §§ 2º e 3º e art. 59, ambos do Código Penal - CP.
+In casu, a quantidade e a natureza da droga apreendida - 33g de cocaína, comercializada na rodovias federais juntamente com o medicamento "FEMPROPOREX", para provocar a insônia de caminhoneiros - justificam a fixação do regime prisional mais gravoso.
+Habeas corpus não conhecido. (HC 401.050/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/9/2018, DJe 18/9/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. PENA-BASE. QUANTIDADE DE DROGA. FUNDAMENTO IDÔNEO. MINORANTE. INVIÁVEL. CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa não trouxe elementos novos para infirmar os fundamentos consignados no decisum agravado.
+2. Havendo a instância ordinária aumentado a pena-base dos delitos de tráfico e associação ao tráfico em razão da quantidade de droga apreendida (125 kg de maconha), agiu em observância ao art. 42 da Lei n. 11.343/2006.
+3. Comprovado nos autos que o réu se dedicava a atividades criminosas, tanto que foi condenado pelo delito previsto no art. 35 da Lei de Drogas, inviável a aplicação da minorante prevista no art. 33, § 4º, do mencionado diploma.
+4. Agravo regimental não provido. (AgRg no HC 388.641/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018)
+Por fim, mantida a pena fixada na origem, inviável a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Pelas próprias razões do decisum impugnado, acima reiteradas, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
