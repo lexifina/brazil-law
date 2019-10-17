@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial com pedido de liminar, impetrado em favor de EMERSON DA SILVA SANTOS, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 990.10.040161-0.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 4 meses de reclusão, em regime inicial fechado, e 13 dias-multa, pela prática do delito tipificado no art. 157, § 2º, II, do Código Penal (e-STJ fls. 16/21).
+Irresignada, a defesa apelou e o Tribunal estadual negou provimento ao recurso, para manter incólume a sentença primeva (e-STJ fls. 23/32).
+No presente writ (e-STJ fls. 3/10), o impetrante afirma que o acórdão impugnado impôs constrangimento ilegal ao paciente, na medida em que manteve o regime inicial fechado, para o resgate de sua reprimenda, mesmo havendo a pena-base sido fixada no piso legal, e ele sendo primário e portador de bons antecedentes.
+Assevera, também que o regime prisional mais gravosos foi estabelecido tão somente em razão da gravidade abstrata do delito, em evidente afronta à Súmula n. 440/STJ, de modo que entende cabível o regime inicial intermediário, porque o paciente é tecnicamente primário e todas as circunstâncias judiciais lhe são favoráveis.
+Diante disso, requer, liminarmente e no mérito, a fixação do regime semiaberto para início de cumprimento da pena.
+O pedido liminar foi indeferido, às e-STJ fls. 38/39, e as informações foram prestadas às e-STJ fls. 42/55.
+O Ministério Público Federal, em parecer exarado às e-STJ fls. 60/65, opinou pelo não conhecimento do mandamus, mas pela concessão da ordem, de ofício, a fim de fixar o regime inicial semiaberto para cumprimento da pena imposta ao paciente.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca o impetrante, em síntese, o abrandamento de seu regime prisional do paciente.
+Inicialmente, oportuno ressaltar que a dosimetria da pena e seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Sob essas diretrizes, ao sentenciar o paciente, a magistrada consignou que (e-STJ fls. 19/20, destaquei):
+ ..
+Logo, não há duvida de que Emerson, Rafael e Wesley praticaram o crime previsto no artigo 157, § 2o, inciso II, do Código Penal, juntamente com o menor Lucas.
+Na aplicação da pena dos réus atendendo ao que dispõe o artigo 59 do Código Penal, verifica-se que eles são primários, de maneira que aplica-se a pena base do roubo no mínimo legal correspondente 4 (quatro) anos de reclusão e pagamento de 10 (dez) dias multa.
+Deixo de reduzir por atenuantes porque aplicado o mínimo. Wesley e Rafael poderiam até vir a ser beneficiados pela confissão se fosse ela integral.
+Pela qualificadora relacionada ao concurso de agentes aumenta-se essa pena em 1/3, o que corresponde a 5 (cinco) anos e 4 (quatro) meses de reclusão e pagamento de (13) treze dias-multa.
+ ..
+Face o que dispõe o artigo 33, § 2o, alínea "a", do Código Penal, pela quantidade de pena e simulação de porte de arma estabeleço o regime fechado para início de cumprimento de pena, como fator de prevenção e repressão ao delito praticado. Em fase de execução será observada a detração penal, inclusive para fins de benefícios.
+A Corte paulista, por sua vez, ratificou o entendimento acima, nos seguintes termos (e-STJ fl. 30/31, grifei):
+ ..
+Impossível a modificação do regime prisional fechado, corretamente fixado porque compatível com a gravidade do delito.
+Os acusados envolveram-se em crime de roubo, delito que vem intranqüilizando a população, cujas conseqüências do delito são nefastas, traumatizando a vítima de forma irreversível, gravando uma nódoa indelével e das mais desagradáveis em sua memória, vindo também a, alcançar seus familiares, isso, evidentemente, sem se cogitar do desfalque patrimonial.
+Sabidamente, o delito de roubo revela extrema periculosidade do agente, sendo irrelevante sua eventual primariedade ou menoridade relativa.
+A sociedade se vê a cada dia mais acuada em conseqüência da ação de marginais, sempre mais audazes e violentos e por isso reclama do Estado e do Poder Judiciário, em especial, severa e pronta resposta àqueles que são condenados pela prática de tão grave conduta.
+Pela leitura dos recortes acima, verifica-se que o regime inicial fechado, mais severo do que a pena inicialmente aplicada comportaria - inferior a 8 anos de reclusão -, foi justificado na maior reprovabilidade da conduta do paciente, consubstanciada na prática delitiva mediante o concurso de agentes, que já foi ponderada na terceira fase do cálculo dosimétrico para recrudescer a sanção em 1/3, associada ao fato de haver sido utilizada uma arma de brinquedo para intimidar as vítimas (e-STJ fl. 20). Todavia, nos termos da Súmula n. 440/STJ, que segue transcrita: fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Desse modo, considerando-se que não houve o cometimento de violência real contra nenhuma das vítimas e que a conduta perpetrada não extrapolou aquela inerente ao próprio tipo penal violado, verifico que assiste razão ao impetrante. Desse modo, tendo em vista o quantum da pena aplicada ao paciente - 5 anos e 4 meses de reclusão -, a ausência de circunstâncias judiciais desfavoráveis, tanto que a pena-base foi fixada no piso legal, e o fato de ele ser primário, resulta cabível o regime inicial semiaberto, a teor do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal e da Súmula n. 440/STJ.
+Em hipóteses análogas, decidiu esta Corte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO. DOSIMETRIA. CIRCUNSTÂNCIAS FAVORÁVEIS. RÉU PRIMÁRIO. REGIME ABERTO CABÍVEL. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+ ..
+4. Habeas Corpus não conhecido. Ordem concedida, de ofício, confirmando a liminar, para fixar o regime inicial aberto, salvo se, por outro motivo, o paciente não estiver descontando pena em regime mais severo. (HC n. 439.945/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 3/5/2018, DJe 10/5/2018)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. ROUBO. PENA-BASE FIXADA NO MÍNIMO LEGAL. PENA DE RECLUSÃO DE 4 ANOS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA A FIXAÇÃO DE REGIME INICIAL FECHADO. ENUNCIADOS N. 440 DA SÚMULA DO STJ E N. 718 E 719 DA SÚMULA DO STF. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+- No caso dos autos, após a pena-base ter sido fixada no mínimo legal, em razão da ausência de circunstâncias judiciais desfavoráveis, e a pena final ter sido estabelecida em 4 anos de reclusão, o regime inicial mais gravoso foi fixado sem fundamentação idônea, baseada apenas em elementos inerentes ao próprio tipo penal, e no fato de o paciente estar preso por outro processo, ainda em curso, fundamento igualmente inidôneo. Incidem, ao caso, assim, os referidos enunciados sumulares.
+- Habeas corpus não conhecido. Concessão da ordem, de ofício, para fixar regime inicial aberto. (HC n. 381.444/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 16/2/2017, DJe 21/2/2017)
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus. Contudo, concedo a ordem ex officio para fixar o regime inicial semiaberto ao paciente, mantidos os demais termos da condenação.
+Comunique-se com urgência o Tribunal impetrado e o Juízo de primeiro grau.
+Intimem-se.
