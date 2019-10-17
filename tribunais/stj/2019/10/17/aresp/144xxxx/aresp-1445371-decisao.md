@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO, MUNIÇÃO E ACESSÓRIO DE USO RESTRITO. MAIS DE UM FUNDAMENTO SUFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. SÚMULA N.º 283/STF. ERRO DE TIPO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal (Apelação Criminal n.º 0000285-55.2015.8.24.0088).
+Consta nos autos que o Agravante foi condenado como incurso no art. 16, caput, da Lei n.º 10.826/2003, às penas de 3 (três) anos de reclusão, em regime inicial aberto, e 10 (dez) dias-multa. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos (fls. 245-262).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 331-345).
+Nas razões do recurso especial, aponta-se ofensa ao art. 20 do Código Penal, sob o argumento de que houve erro de tipo, pois "é nítido o erro em que o recorrente incorreu, ao imaginar, devido a erro escusável, que não estava transportando sua arma, pois acreditou que a mesma estava em sua residência, como de fato sempre acontecia" (fl. 377).
+O recurso especial não foi admito pelo Tribunal de origem em razão do óbice contido na Súmula n.º 7 desta Corte Superior (fls. 387-390).
+Interposto o agravo em recurso especial (fls. 392-400), a parte contrária apresentou contrarrazões (fls. 403-405).
+O Ministério Público Federal, em parecer da Subprocuradora-Geral Ela Wiecko V. de Castilho, opinou pelo desprovimento do agravo (fls. 419-421).
+É o relatório. Decido.
+A Corte de origem afastou a tese de erro de tipo apresentada pelo Agravante com amparo em dois fundamentos distintos, quais sejam: a) apesar de possuir autorização para a posse de arma de fogo, o alegado "esquecimento" do Agravante não justifica a sua conduta de portar o referido armamento, cujo registro estava vencido, fora dos limites de sua propriedade; b) além da arma de fogo, o Agravante portava um acessório silenciador de uso restrito, para o qual não possuía autorização alguma, conduta capaz de ensejar, por si só, a condenação pelo crime previsto no art. 16 da Lei n.º 10.826/2003.
+Todavia, nas razões do recurso especial, o Recorrente somente se insurgiu contra o primeiro fundamento, deixando de impugnar especificamente o porte de acessório de uso restrito sem autorização e em desacordo com as disposições legais, quanto ao qual, "independente de guardado em depósito na própria residência ou de transportado, configura-se a ilicitude da conduta (Lei n. 10.826/03, art. 16, caput)" (fl. 341).
+Desse modo, incide na hipótese, analogicamente, o disposto na Súmula n.º 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARMA DE FOGO APREENDIDA. RESTITUIÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MAIS DE UM FUNDAMENTO NO ACÓRDÃO RECORRIDO. FALTA DE IMPUGNAÇÃO DE UM DELES. SÚMULA N. 283 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+Não é possível deferir a restituição de arma de fogo apreendida se as instâncias ordinárias assinalaram que o acusado não apresentou autorização para o seu porte e que o objeto é útil ao deslinde da ação penal.
+Rever o entendimento demandaria o reexame de provas, providência vedada em recurso especial, à luz da Súmula n. 7 do STJ.
+A falta de impugnação a fundamento do acórdão recorrido, suficiente para a manutenção do decisum, justifica a aplicação da Súmula n. 283 do STF.
+Agravo regimental não provido." (AgRg no AREsp 1.392.351/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/09/2019, DJe 12/09/2019; sem grifos no original.)
+"PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE DE ARMA. PLEITO DE ABSOLVIÇÃO. NÃO OBSERVÂNCIA DA GUIA DE TRÂNSITO. ARMA MUNICIADA E FORA DA ROTA ESTABELECIDA. FUNDAMENTO SUFICIENTE INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação específica a um dos fundamentos do acórdão recorrido atrai a incidência da Súmula 283 do STF, por analogia.
+2. A análise da pretensão recursal de que o transporte da arma estaria de acordo com as hipóteses autorizadas pela guia de tráfego demandaria o reexame do conjunto fático-probatório dos autos, o que não se viabiliza em recurso especial, a teor da Súmula n. 7/STJ.
+3. Agravo regimental improvido." (AgRg no AREsp 976.712/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016; sem grifos no original.)
+Além disso, deve-se ressaltar que, "concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, pela condenação do agravante, chegar a entendimento diverso, seja para reconhecer a ocorrência de erro de tipo ou de proibição, absolvendo o acusado, implica revolvimento do contexto fático-probatório, inviável em sede de recurso especial, a teor da Súm. n. 7/STJ" (AgRg no AREsp 1.069.131/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
