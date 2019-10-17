@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 32):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS.
+1. Sobre a possibilidade de fixação de honorários advocatícios em execuções não embargadas, o STF, ao julgar o RE 420.816, deu "interpretação conforme a Constituição" ao art. D da Lei nQ 9.494/97, na redação conferida pela MP nQ 2.180-35, no sentido de que "não serão devidos honorários advocatícios pela Fazenda Pública nas execuções não embargadas", exceto nas de pequeno valor (Requisição de Pequeno Valor - RPV).
+2. O Código de Processo Civil de 2015 veio a ratificar esse entendimento, prevendo expressamente, em seu art. 85, § 7º, que "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada".
+Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento.
+Em suas razões, o recorrente aponta violação do art. 1º-D da Lei 9.494/1997 e dos arts. 884, 885 e 886 do Código Civil/2002, defendendo, em síntese, ser incabível a condenação em honorários advocatícios.
+Sem contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+Considerado isso, observo que o acórdão recorrido prestigiou a jurisprudência desta Corte no sentido de que são cabíveis honorários advocatícios na execução contra a Fazenda Pública quando o débito a ser pago é de pequeno valor (sujeito à RPV).
+Nesse mesmo sentido, destaco precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÕES NO JULGADO. ALEGAÇÕES DEFICIENTES. SÚMULA 284/STF. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CRÉDITOS DE HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO DE VERBA IDÊNTICA NESSA NOVA FASE. POSSIBILIDADE. QUANTIA SUJEITA AO REGIME DA REQUISIÇÃO DE PEQUENO VALOR - RPV.
+1. É deficiente a alegação genérica de violação do art. 535, I e II, do CPC/1973, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal local e não comprova ter questionado as apontadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+2. Não é possível o arbitramento de honorários advocatícios em duplicidade, em favor do advogado da mesma parte, dentro da mesma fase processual. Contudo, admite-se a fixação da verba em execução de sentença que tenha por objeto crédito da mesma natureza, estabelecido em processo de conhecimento, porquanto não configurada a hipótese de bis in idem. Precedentes.
+3. De acordo com a jurisprudência desta Corte Superior, são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+4. Recurso especial conhecido em parte e, nessa extensão, provido. (REsp 1.548.485/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 03/04/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. RECURSO ESPECIAL PROVIDO. ART. 1º-D DA LEI N. 9.494/97. EXECUÇÃO NÃO EMBARGADA CONTRA A FAZENDA PÚBLICA. PAGAMENTO POR RPV. HONORÁRIOS. CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+ II - Acerca da incidência de verba honorária na execução contra a Fazenda Pública, o Pleno do Pretório Excelso declarou a constitucionalidade, com interpretação conforme ao art. 1º-D da Lei n. 9.494/97, na redação que lhe foi dada pela Medida Provisória 2.180-35/01, de modo a reduzir-lhe a aplicação à hipótese de execução por quantia certa contra a Fazenda Pública (art. 730 do CPC), excluídos os casos de pagamento de obrigações definidos em lei como de pequeno valor (art. 100, § 3º, da CF).
+III - O Superior Tribunal de Justiça tem orientação pacificada segundo a qual são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, cujo pagamento é feito por meio de Requisição de Pequeno Valor - RPV.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no REsp 1.547.254/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, Dje 24/05/2017).
+Aplicável, no caso, a Súmula 83 do STJ, que também é aplicável aos recursos interpostos apenas pela alínea "a" do permissivo constitucional, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
