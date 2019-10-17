@@ -1,0 +1,33 @@
+DECISÃO
+WILLIAM SOUSA DE ALMEIDA, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 15014341-55.2018.8.26.0228.
+Depreende-se dos autos que o réu foi condenado a 7 anos e 4 meses de reclusão, em regime fechado, mais 18 dias-multa, pela prática do crime previsto no art. 157, § 2º, do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de reduzir a pena pecuniária para 17 dias-multa.
+Neste habeas corpus, alega a impetrante que a pena-base foi exasperada com fulcro na constatação do emprego de simulacro de arma de fogo, circunstância ínsita ao tipo penal do roubo e, portanto, inidônea para valorar negativamente vetorial na primeira fase da dosimetria.
+Sustenta que a agravante da reincidência não prepondera sobre a confissão, razão por que devem ser integralmente compensadas na segunda fase do cálculo dosimétrico.
+Aduz imposição de regime mais gravoso que o devido, mediante fundamentação inidônea.
+Pede a fixação da pena-base no mínimo legal, a compensação entre as referidas atenuante e agravante e a imposição do regime semiaberto.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O acórdão atacado asseriu o seguinte:
+Na primeira etapa, reconhecido os maus antecedentes do réu (fls. 63 - execução n. 02) e a maior reprovabilidade de sua conduta, evidenciada pelo emprego de simulacro de arma de fogo, o i. sentenciante, de modo escorreito, majorou a reprimenda na razão de 1/8, fixando-a em 04 anos e 06 meses de reclusão, e pagamento de 11 dias-multa.
+Na segunda fase, reconhecida a multirreincidência do acusado (fls. 63/65 - execuções n. 1, 3, 4 e 5) e a atenuante da confissão espontânea, o i. sentenciante fixou a reprimenda intermediária em 05 anos e 06 meses de reclusão, e pagamento de 13 dias-multa, no valor mínimo legal.
+Nesse ponto, anoto que não era mesmo o caso de compensação integral entre a agravante da reincidência com a atenuante da confissão espontânea, conforme requerido pela Defesa, tendo em vista que o recorrente possui 04 condenações pretéritas, ensejadoras da referida circunstância agravante, o que autoriza a majoração da pena.
+ ..
+A par disso, tendo em vista o quantum da pena e a multirreincidência do apelante, era mesmo o caso de fixação do regime inicial fechado, único apto a atender as finalidades preventiva e retributiva da reprimenda.
+(fls. 57-58, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+No que tange à primeira fase da dosimetria, "A jurisprudência deste Tribunal Superior é reiterada no sentido de que a utilização de simulacro de arma de fogo não é justificativa para majorar a pena-base, pois já inerente ao tipo penal do roubo" (HC n. 481.457/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 2/4/2019, grifei).
+No mesmo sentido: "as instâncias de origem, ao mencionarem a utilização de uma motocicleta e o emprego de simulacro, teceram apenas considerações baseadas em elementos ínsitos ao tipo penal violado. Imprescindível o decote no incremento sancionatório para fixar a pena-base no mínimo legal" (HC n. 425.605/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 5/4/2018).
+Assim, deve ser afastada, em novo cálculo dosimétrico, a valoração desfavorável da culpabilidade pelo emprego de simulacro de arma de fogo.
+Relativamente à segunda fase, no julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Naquela ocasião, a agravante genérica da reincidência prevaleceu sobre a confissão espontânea diante das peculiaridades concretas do caso, haja vista a multirreincidência do réu.
+Com efeito, a Terceira Seção, no voto do Relator do HC n. 365.963/SP, Ministro Felix Fischer, asseverou expressamente que "a melhor hermenêutica  ..  deverá ser aquela voltada à possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multirreincidência".
+Portanto, é possível a compensação quando o réu possuir uma só condenação anterior transitada em julgado, o que não ocorreu no caso em apreço, pois a instância anterior indicou que o acusado é multirreincidente (possui quatro condenações anteriores, não utilizadas para caracterizar os maus antecedentes).
+Feitas essas considerações, passo à nova dosimetria.
+O Juiz sentenciante, ao considerar desfavoráveis os antecedentes e a culpabilidade, fixou a pena-base em 4 anos e 6 meses de reclusão mais 11 dias-multa. Afastada esta vetorial, reduzo proporcionalmente a reprimenda-base para 4 anos e 3 meses de reclusão mais 10 dias-multa.
+Na segunda fase, mantenho o acréscimo de um ano decorrente da preponderância da multirreincidência sobre a confissão, o que resulta em sanção intermediária de 5 anos e 3 meses de reclusão mais 12 dias-multa.
+Na terceira etapa, preservo a adição de 1/3 relativa à majorante do concurso de agentes, com o que torno final a pena em 7 anos de reclusão mais 16 dias-multa.
+Ante a quantidade de pena (entre 4 e 8 anos), a reincidência e o registro de circunstância judicial negativa sopesada na primeira fase da dosimetria (maus antecedentes), revela-se correta a fixação do regime inicial fechado, a teor do art. 33, § 2º, "b", do Código Penal.
+Nesse sentido, o entendimento jurisprudencial do STJ é de que "Não há constrangimento ilegal na manutenção do modo fechado de execução ao paciente reincidente quando, não obstante a pena tenha sido definitivamente fixada em patamar inferior a 8 (oito) anos de reclusão, há circunstâncias judiciais desfavoráveis" (HC n. 176.527/DF, Rel. Ministro Jorge Mussi, 5ª T., DJe 21/9/2012).
+Diante do exposto, concedo a ordem, a fim de diminuir a reprimenda para 7 anos de reclusão e 16 dias-multa, mantidos os demais termos do acórdão atacado.
+Publique-se e intimem-se.
