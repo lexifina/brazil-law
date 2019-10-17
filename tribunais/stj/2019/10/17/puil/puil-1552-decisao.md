@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de pedido de uniformização de interpretação de lei formalizado pela Fazenda do Estado de São Paulo por meio do qual sustenta a incidência de imposto de renda sobre o auxílio alimentação recebido em pecúnia por servidor público estadual.
+Em incidente análogo (PUIL 1.483/SP), o Ministro Gurgel de Faria assim decidiu:
+Primeiramente, cumpre registrar que "o sistema para processo e julgamento de causas em juizados especiais é composto por três microssistemas: a) Juizados Especiais Estaduais Comuns, instituídos pela Lei n. 9.099/1995; b) Juizados Especiais Federais, instituídos pela Lei 10.259/2001; c) Juizados Especiais da Fazenda Pública Estadual e Municipal, instituídos pela Lei 12.153/2009. Cada um deles é submetido a regras específicas de procedimento, inclusive em relação ao mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça" (AgInt no PUIL 167/RS, Rel. Ministra Assusete Magalhães, Primeira Seção, julgado em 27/09/2017, DJe 06/10/2017).
+De acordo com o art. 18, § 3º, da Lei n. 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal Superior, quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+Vejamos o que dispõe o art. 18 da Lei n. 12.153, de 2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Na hipótese, a requerente pleiteia a adequação do julgado recorrido por entender adequada a incidência do imposto de renda sobre a verba intitulada de auxílio-alimentação.
+Cumpre observar, desde logo, que se mostra inviável o processamento do presente feito. Na hipótese aqui apresentada, as situações fáticas entre o acórdão recorrido e o trazido como paradigma são diversas. Enquanto a lide versa sobre a incidência de imposto de renda sobre verba recebida por servidor público estadual, estatutário, a título de ajuda de custo para fins de alimentação (e-STJ fl. 125), o julgado paradigma diz respeito a funcionário da Petrobras, regido pela CLT (e-STJ fl. 133).
+A propósito:
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CONTRARIEDADE À JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. AUSÊNCIA.
+1. Nos termos dos arts. 18 e 19 da Lei n. 12.153/2009, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; e (iii) quando a orientação das Turmas de Uniformização contrariar súmula desta Corte.
+2. Hipótese em que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido, uma vez ausente similitude fática entre os julgados confrontados e amparado em alegação de contrariedade à jurisprudência deste Tribunal que não está sedimentada em súmula.
+3. Agravo interno desprovido.
+(AgInt no PUIL 176/RS, Rel. Min. GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 26/9/2018, DJe 25/10/2018).
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃO RECORRIDO PROFERIDO POR TURMA RECURSAL DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. REGIME PRÓPRIO DE SOLUÇÃO DE DIVERGÊNCIA (ARTS. 18 E 19 DA LEI 12.153/2009). AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. INVIABILIDADE DA APRECIAÇÃO DO PEDIDO. NÃO CABIMENTO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI DO PARTICULAR NÃO CONHECIDO.
+1. Esta egrégia Corte Superior é competente para conhecer diretamente do pedido de Uniformização em duas situações: (i) quando o dissídio se verificar entre Turmas Recursais de Estados diferentes; e (ii) quando uma Turma Recursal proferir decisão contrária à Súmula do STJ. Em situação diversa, as próprias Turmas conflitantes haverão de resolver a divergência, nos moldes do § 1º do art. 18 da Lei 12.153/2009.
+2. Tal como ocorre no Recurso Especial manifestado com base no art. 105, III, c, da Constituição Federal, é necessário que haja similitude fática entre os julgados confrontados. Contudo, no caso em exame, não há similitude fática e jurídica, uma vez que o tema preclusão quando desrespeitado o prazo de 15 dias previsto no art. 257, § 7º, do CTB sequer foi analisado pela Turma Recursal do Estado de São Paulo.
+3. Pedido de Uniformização de Lei do Particular não conhecido.
+(PUIL 909/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/06/2019, DJe 09/08/2019).
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização de interpretação de lei.
+
+Essas mesmas razões incidem no caso dos autos, cujo pedido de uniformização, ademais, ressente do necessário cotejo analítico entre os julgados confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Ante o exposto, indefiro o processamento do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
