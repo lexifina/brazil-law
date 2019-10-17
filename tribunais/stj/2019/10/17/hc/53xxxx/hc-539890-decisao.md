@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RAFAEL RESENDE LIMA DE OLIVEIRA, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - HC n. 1.0000.19.129564-1/000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Depreende-se dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, como incurso nas sanções dos artigos 129, § 1º, inciso II, e 129, § 1º, incisos I e II, ambos do Código Penal.
+Sustentam os impetrantes que se estaria diante de flagrante ilegalidade passível de afastar o óbice contido no enunciado 691 da Súmula do Supremo Tribunal Federal.
+Aduzem, em breve síntese, a ocorrência de constrangimento ilegal sob o argumento de que não teria sido apresentada fundamentação idônea para justificar a custódia cautelar imposta ao paciente, porquanto não apontados elementos concretos para lhe negar o direito de recorrer em liberdade, reputando ausentes as hipóteses autorizadoras da segregação antecipada, previstas no art. 312 do Código de Processo Penal.
+Requerem a concessão sumária e definitiva da ordem constitucional para que seja deferido ao paciente o direito de recorrer em liberdade.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que "não obstante serem relevantes os argumentos trazidos pelos Impetrantes, nesta oportunidade, não restou demonstrado o constrangimento ilegal sustentado. Assim sendo, não constando nos autos elementos necessários à concessão do pedido liminar, INDEFIRO-O" (e-STJ fl. 35).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
