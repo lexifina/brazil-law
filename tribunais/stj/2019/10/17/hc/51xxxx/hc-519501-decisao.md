@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VAGNER QUINTINO JUNIOR, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0026894-33.2018.8.26.0050.
+Consta dos autos que o paciente foi condenado em primeira instância pela prática do delito previsto no artigo 157, parágrafo 2º, inciso II, do Código Penal, à reprimenda de 7 (sete) anos, 3 (três) meses e 3 (três) dias de reclusão, em regime inicial fechado, mais pagamento de 16 dias-multa.
+Irresignada, a defesa interpôs apelação perante a Corte a quo, a qual negou provimento ao apelo defensivo, mantendo incólume a sentença condenatória.
+Nesta via, sustenta a impetrante a ocorrência de constrangimento ilegal, em decorrência da negativa de compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência.
+Aduz que as circunstâncias em comento são igualmente preponderantes, nos termos de reiterado entendimento desta Corte Superior.
+Requer a concessão da ordem constitucional para que, reconhecida a atenuante da confissão espontânea, seja realizada sua compensação integral com a agravante da reincidência, com o devido redimensionamento da pena do paciente.
+A liminar foi indeferida às fl. 56.
+Informações prestadas às fls. 64-87.
+O Ministério Público Federal manifestou-se, às fls. 89-94, pelo não conhecimento do habeas corpus.
+É o relatório.
+Cumpre pontuar que esta Corte Superior de Justiça não mais admite a utilização do habeas corpus em substituição ao recurso cabível, como ocorre na hipótese, circunstância que impede o seu formal conhecimento.
+Entretanto, deve-se verificar se o caso revela constrangimento ilegal flagrante, circunstância que exige a atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal. Passa-se a análise do constrangimento ilegal alegado.
+Com efeito, no que tange a segunda fase do cálculo dosimétrico, o colegiado regional asseverou (e-STJ fls. 49/50):
+"Na segunda fase, presente a circunstância agravante da reincidência que é específica ( F.A. - autos nº 7000138-30.2011.8.26.0625 execução 3 - fls. 137 crime de roubo majorado). Por sua vez, a versão do réu (que não assumiu o emprego de grave ameaça) traduz uma confissão parcial, que pode ser considerada como circunstância atenuante 1 . Verdade que se tem admitido a compensão integral entre reincidência e confissão (STJ, EREsp nº 1.154.752, rel. Min. Sebastião Reis Junior; HC nº 190.304, rel. Min. Og Fernandes; HC nº 202.497, rel. Min. Og Fernandes; HC nº 102.449, rel. Min. Maria Thereza de Assis Moura). Mas esta regra não se aplica na espécie, porquanto se cuida de reincidência específica o que aumenta a reprovabilidade do comportamento -, sendo a confissão, como dito, apenas parcial. Neste passo, há de prevalecer mesmo a primeira, à luz da regra prevista no artigo 67, do Código Penal. Donde, correto o incremento da sanção em 1/6, resultando uma sanção de 5 anos, 5 meses e 10 dias de reclusão, mais o pagamento de 12 dias-multa."
+In casu, verifica-se que o acórdão recorrido se encontra em dissonância com o atual entendimento deste Tribunal Superior, segundo o qual "a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito" (HC 463.482/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+Nesse diapasão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. INTERPOSIÇÃO DENTRO DO PRAZO DE 15 DIAS. PENA-BASE. QUANTUM DE AUMENTO. DESPROPORCIONALIDADE NÃO VERIFICADA. ATENUANTE DA CONFISSÃO E AGRAVANTE DA REINCIDÊNCIA. COMPENSAÇÃO DEVIDA. REINCIDÊNCIA ESPECÍFICA. IRRELEVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+(..)
+3. Por ocasião do julgamento do EREsp 1.154.752/RS, de relatoria do Ministro Sebastião Reis Júnior, pacificou-se o entendimento de que a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante.
+4. No julgamento do HC 365.963/SP, de relatoria do Ministro Felix Fischer, a Terceira Seção desta Corte consolidou a compreensão de que a reincidência específica não obsta a compensação integral entre a confissão espontânea e a agravante da reincidência.
+5. Agravo regimental provido para conhecer do recurso especial e dar-lhe parcial provimento para compensar a agravante da reincidência com a atenuante da confissão espontânea e, consequentemente, redimensionar a pena imposta ao recorrente.
+(AgRg no AREsp 1205323/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/03/2019, DJe 02/04/2019)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. CONFISSÃO PARCIAL. COMPENSAÇÃO COM A REINCIDÊNCIA ESPECÍFICA. SUMULA 545/STJ. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+III - Nos termos do enunciado n. 545 da Súmula desta Corte "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal", independente de ter sido parcial, qualificada ou retratada.
+IV - Reconhecida a confissão pelas instâncias ordinárias, ainda que parcial, cumpre destacar que a Terceira Seção desta Corte, no julgamento do EREsp 1.154.752/RS, uniformizou o entendimento de que a aludida atenuante deve ser compensada com a agravante da reincidência.
+V - No julgamento do HC 365.963/SP, a Terceira Seção firmou o entendimento de que a reincidência, inclusive a específica, deve ser compensada integralmente com a atenuante da confissão.
+Habeas Corpus não conhecido. Ordem parcialmente concedida, de ofício, para compensar integralmente a agravante da reincidência específica com a atenuante da confissão parcial.
+(HC 477.431/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2018, DJe 01/02/2019)
+Dessa forma, evidenciado o constrangimento ilegal alegado, imperiosa a compensação integral da agravante da reincidência com a atenuante da confissão.
+Nesse viés, procedendo-se à nova dosimetria, tem-se que a sanção básica do paciente foi fixada em 4 (quatro) anos e 8 (oito) de reclusão, e pagamento de 11 (onze) dias-multa.
+Na segunda fase, o quantum permanece inalterado, ante a compensação da agravante da reincidência com a atenuante da confissão espontânea, nos termos da decisão ora exarada.
+Na terceira etapa, a reprimenda é aumentada em 1/3 (um terço), pela incidência da causa de aumento prevista no § 2º, inciso II, do art. 157 do CP, ficando estabelecida em 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, mais pagamento de 15 (quinze) dias-multa, a qual torna-se definitiva, à míngua de outras causas de diminuição ou aumento de pena.
+Ante o exposto, por se afigurar manifestamente incabível, não se conhece do writ, concedendo-se, contudo, habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para reduzir a pena cominada ao paciente para 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, mais pagamento de 15 (quinze) dias-multa, mantidos os demais termos do acórdão impugnado.
+Publique-se. Intimem-se.
