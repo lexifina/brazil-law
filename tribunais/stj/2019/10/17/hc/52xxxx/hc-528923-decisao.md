@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDRÉ DE ABREU MOTA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Desembargadora relatora [NOME]).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, dos delitos inscritos nos arts. 2º, §§ 2º e 4º, inciso II, da Lei n. 12.850/2013, 159, caput, e 159, § 1º, na forma do art. 69, todos do Código Penal (e-STJ fl. 133).
+Segundo a acusação, o paciente seria membro de destaque em "organização criminosa para a prática de crimes de corrupção de agentes públicos lotados no Departamento de Transportes Rodoviários do Estado do Rio de Janeiro - DETRO, além de crimes de corrupção ativa e passiva de agentes públicos (fiscais do DETRO e Policiais Militares)" (e-STJ fl. 46).
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 133/134):
+Habeas Corpus. Art. 2o, parágrafos 2o e 4o, inciso II, da Lei nº 12850/2013. art. 159, caput e art. 159. §1º n/f art. 69, todos do Código Penal. Prisão preventiva devidamente lastreada nos pressupostos do artigo 312 do Código de Processo Penal, demonstrando a presença de razões concretas a justificar e recomendar a custódia cautelar do acusado. Alegações finais já apresentadas, estando o feito em fase de sentença, o que mostra precipitada e temerária a liberdade do paciente neste momento, expondo a riscos não recomendáveis à persecução criminal. Paciente possui posição de destaque na denominada "Máfia das Vans" de São Gonçalo. possuindo ainda estreitos laços com os policiais militares da área. Nenhum fato novo foi apresentado ou demonstrado no feito, com potencialidade para alterar a motivação que ensejou a decretação da prisão cautelar. Constrangimento não verificado. Ordem denegada.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea (e-STJ fl. 7).
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão (e-STJ fl. 9).
+Aduz a presença de condições pessoais favoráveis (e-STJ fl. 10).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente. Eventualmente, pleiteia a substituição da prisão preventiva por medida cautelar diversa (e-STJ fl. 26).
+O pedido liminar foi indeferido (e-STJ fls. 143/145).
+Informações prestadas (e-STJ fls. 150/163 e 175/180).
+O pedido de reconsideração foi indeferido (e-STJ fls. 171/172).
+É, em síntese, o relatório.
+Conforme informações obtidas por esta relatoria mediante contato telefônico com a 1ª Vara Criminal da Comarca de São Gonçalo/RJ, sobreveio sentença condenatória em desfavor do ora paciente em 10/9/2019, proferida nos autos da Ação Penal n. 0018459-43.2017.8.19.0004, para condená-lo à pena de 9 de reclusão, em regime inicial fechado, bem como ao pagamento de 108 dias-multa, pela prática do delito do art. 2º, § 4º, inciso II, da Lei n. 12.850/2013, ocasião em que foi mantida a custódia preventiva.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (Sexta Turma, AgRg no RHC 50.857/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, julgado em 15/3/2016, DJe 29/3/2016).
+De mais a mais, não observo ser a hipótese de flagrante constrangimento ilegal infligido ao paciente, notadamente pelo fato de ter sido consignado, no acórdão impugnado, que "o paciente possui posição de destaque na denominada "Máfia das Vans" de São Gonçalo, possuindo ainda estreitos laços com os policiais militares da área" (e-STJ fl. 139).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
