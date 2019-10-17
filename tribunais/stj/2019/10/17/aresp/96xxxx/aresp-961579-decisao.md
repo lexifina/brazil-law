@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A., desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu seu recurso especial com base nos seguintes fundamentos: (I) inexistência de negativa de prestação jurisdicional; (II) incidência da Súmula 83/STJ, pois o acórdão recorrido está de acordo com a jurisprudência desta Corte Superior, no caso concreto, com relação ao início da contagem do prazo recursal em debate; e (III) aplicação da Súmula 7/STJ, no tocante a duas motivações distintas, a saber: (III.a) à afirmação de ofensa ao art. 538, parágrafo único, do CPC/73, bem como (III.b) à alegação ".. de que não havia instrumento comprovando a representação da parte." (fl. 280).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnada, de maneira direta e específica, a totalidade dos fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, o agravo em recurso especial foi inadmitido na origem também tendo por base a incidência da Súmula 7/STJ, uma vez que a aplicação desta súmula se deu com relação a duas teses, e não houve impugnação, específica e direta, a uma delas, qual seja, à alegação ".. de que não havia instrumento comprovando a representação da parte." (fl. 280).
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. para acórdão Ministro Luis Felipe Salomão, DJe de 30.11.2018.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
