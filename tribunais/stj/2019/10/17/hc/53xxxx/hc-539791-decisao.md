@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] DE AQUINO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2225014-07.2019.8.26.0000).
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006 e no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, em concurso material, pois, "no dia 03 de maio de 2019, por volta das 03h25min, nas ruas do bairro Jardim Amanda, na cidade e comarca de Hortolândia, trazia consigo 105 (cento e cinco) porções de cocaína na forma de crack e 01 (uma) porção de cocaína, sem autorização e em desacordo com determinação legal ou regulamentar; porque, nas mesmas circunstâncias de tempo, desta feita no interior da residência situada na Rua Otacílio Dias Santana, nº 315, Jardim Paulista, nesta cidade e comarca de Monte Mor, tinha em depósito 2,168Kg (dois quilogramas, cento e sessenta e oito gramas) de cocaína na forma de crack, divididos em 06 (seis) porções, sem autorização e em desacordo com determinação legal ou regulamentar; e por fim porque, nas mesmas circunstâncias de tempo e local, possuía arma de fogo, consistente em um revólver, calibre 38, marca Taurus, com numeração suprimida, devidamente municiado com 06 (seis) cartuchos íntegros, fazendo-o sem autorização e em desacordo com determinação legal ou regulamentar" (e-STJ fl. 236 - grifei).
+Superadas as demais fases processuais, o paciente foi condenado à pena de 9 anos de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 610 dias-multa, tendo sido negado o direito de ele recorrer em liberdade.
+A defesa impetrou writ com pedido liminar na Corte local.
+O pleito liminar foi indeferido pelo Tribunal a quo (e-STJ fls. 240/241).
+No presente writ, o impetrante pugna para que seja mitigada a aplicação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Insurge-se contra a ausência de fundamentação para a manutenção da prisão, alegando que o julgador deixou de demonstrar a segregação cautelar do agente, nos termos do art. 312 do Código de Processo Civil.
+Acrescenta que o fato de ter permanecido preso durante a instrução não obsta por si só a concessão do benefício de recorrer em liberdade.
+Aduz que o paciente preenche os requisitos para aguardar solto o desenrolar de seu processo, pois "é primário de bons antecedentes e nunca se envolveu com qualquer atividade criminosa, nem mesmo quando menor; possui residência fixa e família constituída no domicilio da culpa, sempre trabalhou de forma licita com registro em CTPS" (e-STJ fls. 14/15).
+Requer, liminarmente, que o paciente seja colocado em liberdade com a expedição do alvará de soltura, até o julgamento do mérito deste writ.
+No mérito, pretende que seja "revogada a sua prisão cautelar, ou subsidiariamente, seja aplicada alguma medida cautelar diversa da prisão para que o paciente aguarde em liberdade o transito em julgado da ação penal" (e-STJ fl. 17).
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal a quo, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
