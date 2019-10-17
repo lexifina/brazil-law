@@ -1,0 +1,27 @@
+DECISÃO
+PETIÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO TERCEIRO AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. REQUERIMENTO DE RETIRADA DO AMBIENTE VIRTUAL: RESOLUÇÃO/STF N. 642/2019. AUSÊNCIA DE PREJUÍZO PARA O REQUERENTE: INDEFERIMENTO.
+Relatório
+    1. Na Sessão Virtual de 16.11.2018 a 22.11.2018, a Segunda Turma deste Supremo Tribunal rejeitou os embargos de declaração no terceiro agravo regimental em mandado de segurança, opostos por Júlio Solimar Rosa Cavalcanti, ao seguinte fundamento:
+    “EMBARGOS DE DECLARAÇÃO NO TERCEIRO AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. CONSELHO NACIONAL DE JUSTIÇA. ANULAÇÃO DE REGISTROS IMOBILIÁRIOS NO TOCANTINS. ILEGITIMIDADE ATIVA AD CAUSAM. AUSÊNCIA DE CONTRADIÇÃO OU OMISSÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS REJEITADOS” (doc. 239).
+    Contra esse acórdão Júlio Solimar Rosa Cavalcanti opôs embargos de declaração (doc. 240).
+    Em 8.10.2019, determinei a inclusão desses embargos de declaração na pauta de julgamento virtual da Segunda Turma deste Supremo Tribunal, agendado para começar em 18.10.2019.
+    2. Em 15.10.2019, pela Petição/STF n. 64.346/2019, Júlio Solimar Rosa Cavalcanti informa que, “nos termos do artigo 435 do CPC, requereu a juntada de nova documentação, qual seja, da Escritura de Re-Ratificação do registro do imóvel em questão junto ao 1º Tabelionato de Notas de Palmas/TO, que confirma a tese de condição de legítimo proprietário atribuindo ao impetrante legitimidade ativa para intentar o presente Mandado de Segurança’” (fl. 1, doc. 259).
+    Requer “a retirada de pauta para que sejam apreciados o pedido de juntada dos novos documentos, bem como sejam notificados os litisconsortes para que se manifestem, caso queiram ” (fl. 2, doc. 259).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao requerente.
+    4. No inc. II do art. 4º da Resolução/STF n. 642/2019 se dispõe que “não serão julgados em ambiente virtual as listas ou os processos com pedido de: II – destaque feito por qualquer das partes, desde que requerido até 48 (quarenta e oito) horas antes do início da sessão e deferido pelo relator”.
+    Esse dispositivo legal submete o deferimento ou indeferimento do pedido de destaque ao Relator, que verificará caso a caso a existência de situação jurídica a justificar o seu deferimento. Assim, por exemplo:
+    “Verifica-se que, embora haja previsão para pedido de destaque seu deferimento está condicionado ao exame do relator.
+    Registro, inicialmente, que o julgamento em ambiente virtual não prejudica a análise da matéria, uma vez que a decisão recorrida, o voto do relator, bem como as demais peças processuais podem ser visualizadas por todos os Ministros, o que propicia uma ampla análise do processo. Por esse motivo, só excepcionalmente se justifica a concessão de pedido de destaque.
+    No caso, não vislumbro nenhuma especificidade no caso para justificar o julgamento presencial, mormente se levarmos em conta a discussão em tela é objeto jurisprudência pacífica na Corte.
+      Ante o exposto, indefiro o pedido de destaque” (ACO n. 3.273-AgR, Relator o Ministro Dias Toffoli, DJe 12.8.2019).
+    5. Na espécie em exame, requer-se sejam retirados de pauta os presentes embargos de declaração para exame de novos documentos juntados nesta ação. Entretanto, no mandado de segurança não há dilação probatória nem se admite juntada posterior de documentos necessários à comprovação da liquidez e certeza do direito alegado, não havendo como deferir prazo para suprir a deficiência apontada.
+    Sobre o tema da prova do direito alegado, o Ministro Gilmar Mendes salientou que “o mandado de segurança, em razão de não admitir dilação probatória, exige a demonstração incontroversa dos seus requisitos, bem como dos fatos e provas, de forma pré-constituída, inclusive quanto aos elementos relacionados à aferição da tempestividade do writ” (MS n. 29.117/ES, decisão monocrática, DJe 11.11.2010). Assim, por exemplo:
+    “Inviável, ante o rito especial do mandado de segurança, que não se concilia com a necessidade de dilação probatória, cogitar de concessão de prazo para que o agravante junte cópia integral da reclamação disciplinar. Precedentes.5. Inaplicável o art. 85, § 11, do CPC/2015, por se tratar, na espécie, de recurso interposto em mandado de segurança (art. 25 da Lei 12.016/2009 e Súmula 512/STF).6. Agravo interno conhecido e não provido” (MS n. 36.509-ED-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 10.10.2019, Sessão Virtual de 20.9.2019 a 26.9.2019).
+    “Agravo regimental em mandado de segurança. 2. Direito Processual Civil. Atos processuais. Alegada ausência de publicação de decisão. 3. Falta de prova pré-constituída. Necessidade de dilação probatória. Impossibilidade. Precedentes. 4. Inexistência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (MS n. 36.505-AgR, Gilmar Mendes, Plenário, DJe 16.9.2019, Sessão Virtual de 23.8.2019 a 29.8.2019).
+    6. Na espécie, o requerente não demonstrou o prejuízo ao exercício do direito de defesa com o julgamento eletrônico dos presentes embargos, cujo acórdão embargado foi examinado pelo Supremo Tribunal Federal em ambiente virtual.
+    7. Pelo exposto, indefiro o requerimento de retirada deste recurso da pauta da sessão virtual.
+    Publique-se.
+    Brasília, 17 de outubro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
