@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo (CPC/1973, art. 544) interposto contra decisão que inadmitiu o recurso especial sob o fundamento de deserção, pois não comprovado "o pagamento da Guia de Recolhimento de Custas e Taxas no âmbito do Estado da Paraíba" (e-STJ fl. 674).
+Em suas razões, os agravantes alegam que "o recurso interposto teve o devido pagamento de preparo, no entanto, se houve algum erro material, merece provimento o presente recurso, em prestígio aos princípios do acesso à Justiça e da instrumentalidade das formas" (e-STJ fl. 682).
+É o relatório.
+Decido.
+O recurso merece provimento.
+A Corte Especial do STJ, na sessão do dia 29/5/2014, ao apreciar o REsp n. 844.440/MS, de minha relatoria, assentou o entendimento no sentido de se admitir a complementação do preparo quando recolhida, no ato da interposição do recurso, qualquer uma das verbas previstas.
+Isso porque a norma do § 2º do art. 511 do CPC de 1973 diz respeito à insuficiência no valor do preparo, não às custas ou ao porte de remessa e retorno ou às taxas separadamente. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRELIMINAR DE DESERÇÃO. RECOLHIMENTO DO PORTE DE REMESSA E RETORNO E AUSÊNCIA DE PAGAMENTO DAS CUSTAS LOCAIS. COMPLEMENTAÇÃO DE PREPARO EFETUADA. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. SISTEMÁTICA ANTERIOR À LEI N. 11.382/2006. CONVERSÃO DA EXECUÇÃO PARA ENTREGA DE COISA EM EXECUÇÃO DE QUANTIA CERTA. EXECUÇÃO DA OBRIGAÇÃO SUBSTITUTIVA. NECESSIDADE DE NOVA CITAÇÃO DO EXECUTADO, SENDO-LHE FACULTADA, APÓS A GARANTIA DO JUÍZO, O OFERECIMENTO DE EMBARGOS, OS QUAIS PODEM DISCUTIR INCLUSIVE A ORIGEM DA DÍVIDA (ART. 745 DO CPC, NA REDAÇÃO ANTERIOR). RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+1. O preparo recursal compreende o recolhimento de todas as verbas previstas em norma legal, indispensáveis ao processamento do recurso (custas, taxas, porte de remessa e retorno etc.). Nesse contexto, admite-se a "complementação do preparo", mesmo em período anterior à edição da Lei n. 9.756/1998 - que acrescentou o § 2º ao art. 511 do CPC -, quando recolhida, ainda que parcialmente, alguma das verbas que compõem o preparo e não recolhidas integralmente as demais.
+2. No caso concreto, recolhido integralmente o "porte de remessa e retorno" e ausente o pagamento das "custas judiciais" devidas na origem para o processamento do recurso especial, tem-se como correto o posterior recolhimento das referidas custas a título de complementação de preparo, na forma do art. 511, § 2º, do CPC, o qual se aplica, também, aos recursos dirigidos ao Superior Tribunal de Justiça. Precedentes do STJ e do STF.
+3. Anteriormente à Lei n. 11.382/2006, que alterou o art. 736 e revogou o art. 737, II, do CPC, os embargos à execução de entrega de coisa certa ou incerta eram cabíveis apenas depois de efetuado o depósito da coisa pelo executado.
+4. Na execução por título extrajudicial para a entrega de coisa, uma vez frustrada a entrega ou o depósito do bem, podia o exequente requerer sua conversão em execução por quantia certa, caracterizando o que a doutrina denomina de "execução de obrigação substitutiva", na forma do art. 627, caput, do CPC.
+5. Após garantido o juízo na execução por quantia certa (execução de obrigação substitutiva), permite-se o oferecimento de embargos de devedor, nos quais é possível discutir qualquer matéria que seria lícito ao executado deduzir como defesa, inclusive a origem do débito do qual decorreu a frustrada execução para a entrega de coisa. Inteligência do art. 745 do CPC, na redação anterior à Lei n.
+11.382/2006.
+6. O Tribunal a quo, ao limitar a amplitude dos embargos apenas ao excesso de execução, cerceou o exercício do contraditório e da ampla defesa.
+7. Preliminar de deserção afastada e recurso especial provido.
+(REsp 844.440/MS, de minha relatoria, CORTE ESPECIAL, julgado em 6/5/2015, DJe 11/6/2015.)
+Assim, recolhido tempestivamente algum dos componentes do preparo, incide a norma do aludido dispositivo processual, que permite sua complementação mediante a quitação de outros valores, mesmo com natureza distinta.
+No caso, houve o recolhimento tempestivo de um dos componentes do preparo, qual seja, as custas federais (Guia de Recolhimento da União- GRU) (e-STJ fls. 629/632), sendo que a decisão agravada inadmitiu o recurso especial por estar desacompanhado do recolhimento das custas locais.
+Desse modo, impõe-se o retorno dos autos à Corte a quo, a fim de que seja oportunizada aos recorrentes a complementação do preparo.
+Nesse sentido, as seguintes decisões monocráticas: AgRg no AREsp n. 438.452/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, DJ 9/10/2014 e AgRg no AREsp n. 557.576/PB, Relator Ministro MAURO CAMPBELL MARQUES, DJ 18/11/2014.
+Ante o exposto, DOU PROVIMENTO ao agravo determinando o retorno dos autos à instância de origem a fim de que os recorrentes sejam intimados para complementar o preparo, prosseguindo-se no exame de admissibilidade do recurso especial.
+Publique-se e intimem-se.
