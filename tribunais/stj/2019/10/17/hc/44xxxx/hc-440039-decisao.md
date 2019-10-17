@@ -1,0 +1,33 @@
+EMENTA
+HABEAS CORPUS. CRIME AMBIENTAL. IMPETRAÇÃO CONTRA ACÓRDÃO PROFERIDO EM APELAÇÃO CRIMINAL. PEDIDO QUE, NA VERDADE, VEICULA PRETENSÃO REVISIONAL, ANTES DA INAUGURAÇÃO DA COMPETÊNCIA DESTA CORTE. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. PEDIDO DE HABEAS CORPUS NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROBERTO SANTIN, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Apelação Crime n.º 1.703.913-9).
+Infere-se dos autos que o Paciente foi condenado, como incurso nos arts. 50 e 46, parágrafo único, c.c. o art. 53, inciso II, alínea a, todos da Lei 9.605/1998, às penas de 11 (onze) meses e 2 (dois) dias de detenção, e 20 (vinte) dias-multa. A pena privativa de liberdade foi substituída por prestação de serviços à comunidade ou prestação pecuniária.
+O Tribunal de origem deu provimento à apelação do Ministério Público para condenar o Paciente pela prática dos crimes previstos nos arts. 38-A, 39 e 46, todos da Lei n. º 9.605/1998, às penas de 2 (dois) anos e 9 (nove) meses de detenção, e 15 (quinze) dias-multa, substituída a primeira por prestação de serviços à comunidade. O acórdão já transitou em julgado em 26/02/2018.
+Pretende a Defesa, neste writ, ver reconhecida a nulidade do processo, diante da não realização de exame de corpo de delito, com violação dos arts. 158 e 167 do Código de Processo Penal.
+Aduz que, em "se tratando de crime que deixa vestígios, o exame de corpo de delito é indispensável, não podendo supri-lo a confissão do acusado, sendo possível a sua substituição por outros meios probatórios somente quando a infração não deixar vestígio ou se o corpo de delito houver desaparecido" (fl. 8).
+Alternativamente, objetiva demonstrar que o Paciente está na iminência de sofrer ameaça à sua liberdade de locomoção, pois tem direito à substituição da pena de prestação de serviços à comunidade por prestação pecuniária, considerando que conta com 69 anos de idade e possui diversas limitações, em especial quanto à realização de esforços físicos.
+Requer, liminarmente, a suspensão do início da execução. No mérito, pugna pela anulação do processo, desde sua deflagração. Alternativamente, pleiteia a substituição da pena de prestação de serviços à comunidade por prestação pecuniária.
+O pedido liminar foi indeferido (fls. 198-199).
+As informações foram prestadas às fls. 204-285 e 289-403.
+O Ministério Público Federal, por meio de parecer exarado às fls. 405-409, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+No presente writ, impugna-se acórdão prolatado em apelação criminal. Ocorre que, segundo informações prestadas pelo Tribunal Impetrado, não há registro de interposição de recurso em face do acórdão proferido na Apelação Criminal n.º 1.703.913-9 (fl. 204).
+Nesse contexto, o pedido formulado no presente writ consubstancia pretensão revisional, a despeito de não ter sido inaugurada essa competência do STJ. Isso porque, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Sobre a questão, confiram-se os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte, mutatis mutandis:
+"HABEAS CORPUS. PENAL. PROCESSO PENAL. HOMICÍDIO. TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA SENTENÇA CONDENATÓRIA. RÉU INDEFESO EM PLENÁRIO. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Ademais, as questões aventadas neste habeas corpus não foram sequer objeto de análise pelo Tribunal a quo, o que impede também o seu conhecimento nesta Corte Superior, sob pena de indevida supressão de instância, pois até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária.
+ .. .
+5. Habeas corpus não conhecido" (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2018, DJe 21/05/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido" (AgRg no HC 494.794/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/04/2019, DJe 11/04/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+5. Tendo sido proferida em consonância com o entendimento jurisprudencial adotado neste Sodalício deve ser mantida a decisão impugnada, pelos seus próprios fundamentos.
+6. Agravo regimental improvido" (AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019; sem grifos no original.)
+No mesmo sentido, as seguintes decisões monocráticas: HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe de 30/05/2019; e HC 482.877/SP, Rel. Ministro JORGE MUSSI, DJe de 29/03/2019.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intimem-se.
