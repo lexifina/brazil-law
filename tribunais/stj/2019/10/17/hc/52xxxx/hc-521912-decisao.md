@@ -1,0 +1,28 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ORDEM DO INTERROGATÓRIO. ART. 400 DO CPP. APLICAÇÃO. DETRAÇÃO. INEXISTÊNCIA DE ELEMENTOS SUFICIENTES. JUÍZO DA EXECUÇÃO. PRECEDENTES.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como órgão coator o Tribunal de Justiça do Rio de Janeiro (Apelação n. 0005750-71.2017.8.19.0037 - fls. 89/106).
+Consta dos autos que o ora paciente foi condenado, em primeira instância, à pena de 9 anos e 4 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 1.399 dias-multa, pela prática dos crimes de tráfico de drogas e de associação para o tráfico (fls. 24/71 e 73/75).
+O Tribunal de origem deu parcial provimento à apelação interposta pela defesa, a fim de reduzir a reprimenda a 8 anos de reclusão, a ser cumprida inicialmente em regime fechado, além do pagamento de 1.200 dias-multa.
+Nesta Corte, a defesa alega a inobservância da norma contida no art. 400 do Código de Processo Penal, pois o paciente teria sido interrogado no início do processo judicial. Requer a detração da pena, nos termos do art. 387, § 2º, do Código de Processo Penal.
+Liminar indeferida (fl. 109), informações prestadas (fls. 111/119), o Ministério Público Federal opinou pela denegação da ordem, em parecer assim ementado (fl. 125):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS COM PEDIDO LIMINAR. TRÁFICO ILÍCITO. LEGAÇÃO DE NULIDADE. AUSÊNCIA DE COMPROVAÇÃO DA NULIDADE PEDIDO DE DETRAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE DOCUMENTOS PARA ANALISAR. REGIME FECHADO ESTABELECIDO MOTIVADAMENTE. REINCIDENTE PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Quanto à ordem do interrogatório, o acórdão impugnado assim se pronunciou (fls. 93/94 - grifo nosso):
+Alega, ainda, nulidade em razão de descumprimento da ordem do art. 57 da Lei n. 11.343/2006, ao argumento de que o interrogatório deveria vir primeiro e não ser o último ato da instrução.
+Destaque-se que o Superior Tribunal de Justiça, acompanhando o entendimento firmado pela Suprema Corte no HC n. 127.900/AM, de relatoria do Ministro Dias Toffoli, firmou compreensão no sentido de que "o rito processual para o interrogatório, previsto no art. 400 do CPP, deve ser aplicado a todos os procedimentos regidos por leis especiais, porquanto a Lei n. 11.719/2008, que deu nova redação ao art. 400 do CP, prepondera sobre as disposições em sentido contrário previstas em lei especial, por se tratar de lei posterior mais benéfica ao acusado" (HC n. 390.707/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 24/11/2017).
+Nesse contexto conclui-se que o procedimento de interrogatório do réu em todos os procedimentos regidos por leis especiais, como no caso da Lei de Drogas, deve ser o último ato da instrução criminal, nos termos do art. 400 do Código de Processo Penal, até porque é uma garantia do acusado, uma vez que lhe propicia a oportunidade de se pronunciar a partir de um pleno conhecimento da acusação que contra si se desenvolve.
+Ou seja, além de não ter sido comprovado qualquer prejuízo em razão da alegada nulidade, o procedimento adotado está em consonância com a jurisprudência.
+Inexiste, portanto, qualquer nulidade a ser sanada.
+Como se vê, não há falar em existência de constrangimento ilegal a ser sanado, já que o Supremo Tribunal Federal firmou orientação no julgamento do HC n. 127.900/AM no sentido de que o rito processual para o interrogatório, previsto no art. 400 do CPP, deve ser aplicado a todos os procedimentos regidos por leis especiais, porquanto a Lei n. 11.719/2008, que deu nova redação ao art. 400 do CP, prepondera sobre as disposições em sentido contrário previstas em lei especial, por se tratar de lei posterior mais benéfica ao acusado (AgRg no HC n. 428.740/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 24/5/2019).
+Quanto à detração, o Tribunal de origem ressaltou não dispor de elementos suficientes para realizá-la, sendo atribuição do Juízo da Execução, na forma do art. 66, III, "c", e art. 112 da LEP, a quem cabe analisar os requisitos subjetivos (fl. 106).
+Assim, decidiu em harmonia com a jurisprudência desta Corte, pois, se não há elementos nos autos que revelem o tempo em que o condenado permaneceu cautelarmente detido, caberá ao Juízo das Execuções examinar se o tempo de prisão do agente autoriza a fixação de regime mais brando (AgInt no REsp n. 1.817.540/SP, Ministro Jorge Mussi, Quinta Turma, DJe 22/08/2019).
+No mesmo sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. REGIME INICIAL FECHADO. GRAVIDADE EM ABSTRATO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA. OBSERVÂNCIA DO DISPOSTO NO ART. 33, §§ 2.º E 3.º, DO CÓDIGO PENAL. NECESSIDADE. DETRAÇÃO. IMPOSSIBILIDADE. CONCESSÃO PARCIAL DA ORDEM.
+ ..
+4. Esta Corte Superior de Justiça, possui entendimento no sentido de que "à vista da ausência, nos autos, de elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do paciente autoriza a fixação de regime mais brando" (HC n. 342.041/SP, Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Sexta Turma, DJe 16/03/2016). Para dissentir do entendimento do Tribunal de origem, que soberano na análise das circunstâncias fáticas da causa, deixou de proceder à detração por ausência de elementos suficientes, seria necessário o revolvimento do acervo fático e probatório, procedimento sabidamente inviável no veio restrito e mandamental do habeas corpus.
+5.  ..
+(HC n. 430.599/GO, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/6/2018 - grifo nosso).
+Ante o exposto, denego a ordem.
+Publique-se.
