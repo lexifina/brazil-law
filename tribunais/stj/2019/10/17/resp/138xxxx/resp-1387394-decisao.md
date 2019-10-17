@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por [NOME] contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO - MATÉRIA JULGADA - REITERAÇÃO INDEVIDA DE RECURSO - PRECLUSÃO - LITIGÂNCIA DE MÁ-FÉ - OCORRÊNCIA. - Tratando-se de matéria recursal, ainda que de ordem pública, que já foi objeto de anterior recurso interposto e julgado, impõe-se o reconhecimento da preclusão. - Verificando que o recorrente está, deliberadamente, repetindo matéria recursal a gerar atraso na prestação jurisdicional, impõe-se o reconhecimento da litigância de má-fé, com aplicação de multa na forma lei." (fl. 120)
+Embargos de declaração rejeitados, com a aplicação da multa do art. 538, parágrafo único, do CPC/73.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 18, 522, 535, 538, 649 do CPC/73, sustentando, em síntese, (a) omissão do Tribunal de origem a respeito da não caracterização de "comprovado prejuízo para a parte agravada" e de "comportamento malicioso" (fl. 151) da parte recorrente, de modo a afastar a sua condenação por litigância de má-fé, (b) contradição, na medida em que, não obstante tenha havido preclusão consumativa quanto ao tema da impenhorabilidade dos seus subsídios, é possível debater a incidência dessa garantia para as parcelas posteriores à decisão judicial proferida, (c) necessidade de afastamento das multas por litigância de má-fé e por oposição de embargos declaratórios e (d) a alegação da impenhorabilidade de verba alimentar não está sujeita à preclusão.
+Contrarrazões às fls. 171/179.
+É o relatório.
+Não se vislumbra a alegada violação ao art. 535 do CPC/73, na medida em que a Corte de origem aplicou fundamentadamente as penas por litigância de má-fé à parte insurgente, sobretudo porque ela estaria insistindo em tese já rejeitada por decisão judicial preclusa.
+Colhe-se do aresto, nesse ponto:
+"Salientou que foi declarada a insolvência nos autos do processo e que houve a interposição de anterior agravo de instrumento, onde houve a concessão da medida liminar; porém, em posterior decisão monocrática negou seguimento ao recurso de agravo, terminando por afirmar que para acudir garantia processual irrevogável apresentou a presente exceção de pré-executividade.
+A decisão do Magistrado primevo, consoante cópia de fls. 22/25, considerou que o Agravante estava tentando resolver uma questão que já estava "sepultada pela preclusão e até mesmo já decidida pelo e. TJMG." Ora, evidentemente, vejo que a matéria recursal já foi atingida pela preclusão, fato inclusive reconhecido pelo próprio Agravante quando da interposição da exceção de pré-executividade, já que, expressamente, afirmou naquela oportunidade estar-se utilizando daquela via processual em função da negativa de seguimento ao anterior agravo de instrumento interposto (fls. 68-TJ).
+Constato, portanto, não só a inviabilidade de rejulgamento da matéria, face à preclusão operada, mas também, a má fé processual do Agravante, já que, ciente da preclusão ocorrida e do julgamento do anterior agravo de instrumento, termina por, novamente, emperrar o andamento normal do processo com a utilização de novo recurso manifestamente descabido e repetitivo." (fl. 122)
+Ademais, a tese de contradição não apresentou incongruência interna entre os elementos do acórdão recorrido, mas simples divergência quanto ao resultado conferido pelo TGMG à controvérsia.
+Rejeito, assim, a tese de negativa de prestação jurisdicional, pois o aresto estadual foi proferido de modo claro, coerente e bem fundamentado.
+Segundo consta do acórdão recorrido, a legitimidade da ordem de depósito de parte dos subsídios do recorrente, em favor da massa falida, já foi examinada mais de uma vez pelas instâncias de origem. Desse modo, embora a tese de impenhorabilidade constitua matéria de ordem pública, a existência de decisão a seu respeito sem impugnação em tempo próprio enseja a sua preclusão.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. TERMO INICIAL. DATA DA SENTENÇA. PRECLUSÃO CONSUMATIVA. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 535 do CPC/1973 (art. 1.022 do CPC/2015).
+2. No caso, verificada a existência de omissão, acolhem-se os embargos para que seja suprido o vício.
+3. Segundo a jurisprudência desta Corte Superior, sujeitam-se à preclusão as matérias não impugnadas no momento oportuno, inclusive as de ordem pública.
+4. Embargos de declaração acolhidos com efeitos infringentes, para manter o termo inicial dos juros de mora na data em que houve a prolação da sentença.
+(EDcl nos EDcl no AgRg no AREsp 109.928/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/06/2019, DJe 25/06/2019)"
+Não se caracteriza a litigância de má-fé pela simples utilização de instrumentos processuais previstos em lei, como é o caso da apresentação de exceção de pré-executividade, de agravo de instrumento e de embargos de declaração. A sanção processual a esse título pressupõe comprovação do comportamento doloso da parte com a finalidade de obstar o exercício regular da jurisdição.
+Nesse sentido:
+"Processual civil. Agravo no recurso especial. Execução. Ausência de prequestionamento. Reexame de provas. Litigância de má-fé. Multa.
+Afastamento.
+- O prequestionamento dos dispositivos legais tidos por violados constitui requisito específico de admissibilidade do recurso especial.
+- É vedado, em sede de recurso especial, o debate que necessite de revolvimento do conteúdo fático posto à disposição do Tribunal de origem - O simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé.
+Agravo no recurso especial não provido.
+(AgRg no REsp 995.539/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2008, DJe 12/12/2008)"
+Na espécie, o simples fato de a parte insurgente ter insistido na tese de impenhorabilidade de seu subsídio não importa em litigância de má-fé, razão pela qual o acórdão merece reparos, nesse aspecto.
+A conclusão também se aplica, inclusive, à multa do art. 538, parágrafo único, do CPC/73, pois a parte insurgente limitou-se a opor apenas um recurso de embargos de declaração, sem manifestar, tão somente ante essa circunstância, o objetivo de adiar artificialmente o julgamento da causa.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, dou provimento ao recurso especial para afastar as multas por litigância de má-fé e por oposição de embargos declaratórios (art. 538, parágrafo único, do CPC/73).
+Publique-se.
