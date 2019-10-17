@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AFRONTA AO ART. 489 DO CPC/2015 INEXISTENTE. AÇÃO RESCISÓRIA. ART. 966, V, DO CPC/2015. VIOLAÇÃO LITERAL DE DISPOSITIVO LEGAL. NÃO OCORRÊNCIA. DECADÊNCIA. MATÉRIA NÃO APRECIADA PELO DECISUM RESCINDENDO. USO DA AÇÃO DESCONSTITUTIVA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Trata-se de Ação Rescisória ajuizada, com fulcro no art. 966, V, do CPC/2015, com o escopo de desconstituir acórdão que decidiu acerca da aplicação da decadência na revisão de benefício previdenciário.
+2. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando o órgão julgador se pronuncia de forma clara e suficiente sobre as questões suscitadas nos autos, não havendo necessidade de rebater um a um cada argumento, quando é possível aferir que a fundamentação não é genérica.
+3. A admissão de Ação Rescisória ajuizada com fulcro no art. 966, V, do CPC/2015 pressupõe a demonstração clara e inequívoca de que a decisão de mérito impugnada tenha contrariado a literalidade do dispositivo legal apontado, atribuindo-lhe interpretação jurídica absolutamente insustentável.
+4. Hipótese em que o acórdão recorrido está em consonância com a jurisprudência do STJ, que se pacificou no sentido de que é inviável o pedido de rescisão com base em suposta violação a disposição de lei quando a questão aduzida na Ação Rescisória não foi tratada em nenhum momento no processo originário.
+5. A inexistência de prequestionamento como requisito de Ação Rescisória não significa que essa possa ser utilizada como sucedâneo recursal, em face de seu caráter excepcional consequente da proteção à coisa julgada e à segurança jurídica. Assim, a deliberação contrária a disposição legal deve apresentar-se no julgado rescindendo, mesmo quando não apresentada expressamente, de forma relevante.
+6. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, objetivando a reforma do acórdão assim ementado:
+AÇÃO RESCISÓRIA. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA.
+1. O cabimento da ação rescisória, fundada no inciso V do art. 966 do CPC, pressupõe que a decisão rescindenda, ao aplicar determinada norma na decisão da causa, tenha violado sua literalidade, seu sentido, seu propósito. Resta evidenciada a inadmissibilidade da ação rescisória com fundamento no citado artigo se os dispositivos de lei indicados pela parte autora como malferidos na literalidade pelo acórdão rescindendo não foram objeto de sua apreciação.
+2. Ação rescisória julgada improcedente (fl. 330, e-STJ).
+Nas razões do Recurso Especial (fls. 332-349, e-STJ), a parte recorrente sustenta ter havido violação dos arts. 489, § 1º, IV, e 966, V, do CPC/2015. Defende: (i) a nulidade do acórdão recorrido por ausência de fundamentação e (ii) a improcedência da Ação Rescisória para reconhecer a decadência do direito de revisão do benefício previdenciário.
+Sem contrarrazões (fl. 349, e-STJ), o recurso foi admitido na origem (fl. 350, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16 de setembro de 2019.
+A irresignação não merece acolhimento.
+Trata-se de Ação Rescisória ajuizada, com fulcro no art. 966, V, do CPC/2015, com o escopo de desconstituir acórdão que decidiu acerca da aplicação da decadência na revisão de benefício previdenciário.
+De início, verifica-se que inexiste a alegada afronta ao art. 489, § 1º, IV, do CPC/2015, uma vez que o órgão julgador pronunciou-se de forma clara e suficiente sobre as questões suscitadas nos autos, não havendo necessidade de rebater um a um cada argumento, quando é possível aferir que a fundamentação não é genérica.
+No mais, o acórdão recorrido está em consonância com a jurisprudência do STJ, que se pacificou no sentido de que é inviável o pedido de rescisão com base em suposta violação a disposição de lei quando a questão aduzida na Ação Rescisória não foi tratada em nenhum momento no processo originário.
+Nesse sentido os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI. QUESTÃO ESTRANHA AO CONTEÚDO DA DECISÃO TRANSITADA EM JULGADO. INVIABILIDADE.
+1. Trata-se, na origem, de Ação Rescisória ajuizada pelo INSS com a finalidade de desconstituir parcialmente o trânsito em julgado de sentença que condenou a autarquia ao pagamento de benefício previdenciário.
+2. A demanda foi ajuizada com base no art. 485, V, do CPC/1973, tendo sido apontado como violado o art. 219, § 5º, daquele diploma legislativo.
+3. O Tribunal local corretamente julgou improcedente o pedido, adotando como fundamento a inviabilidade desta demanda para discutir matéria estranha ao conteúdo do acórdão cuja rescisão era almejada.
+4. "Ainda que não se exija que a lei tenha sido invocada no processo originário, tendo em vista que o requisito do prequestionamento não se aplica em sede de ação rescisória, mostra-se inviável o pedido de rescisão, com base no art. 485, V, do CPC, fundado em suposta violação a disposição de lei, quando a questão aduzida na ação rescisória não foi tratada em nenhum momento em tal processo" (AgRg na AR 4.741/SC, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 6/11/2013).
+5. Recurso Especial não provido (REsp 1648617/RS, Rel. Min. Herman Benjamin, DJe 16.5.2017).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ART. 485, V, DO CPC. OFENSA À LITERAL DISPOSIÇÃO DE LEI. MATÉRIA NÃO APRECIADA PELA DECISÃO RESCINDENDA. NÃO CABIMENTO. REALINHAMENTO DE VOTO.
+1. Discute-se a incidência da regra da semestralidade na apuração da base de cálculo do PIS.
+2. Na sessão do dia 8.6.2016, proferi voto dando provimento a ação rescisória por entender que, nos termos do art. 6º da Lei Complementar 7/70, a base de cálculo do PIS é o faturamento do sexto mês anterior ao da ocorrência do fato gerador, à alíquota de 0,65%.
+3. O Ministro Herman Benjamin, em seu voto, ponderou que a parte autora pretende, com a desconstituição do acórdão rescindendo, "a prevalência da regra da semestralidade na apuração da base de cálculo do PIS. Sucede que o acórdão rescindendo não possui capítulo decisório acerca do tema e isso ficou expressamente consignado no voto condutor do Ministro Teori Zavascki."
+4. Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, "não cabe ação rescisória quando o pedido formulado nesta ação se refere a matéria diversa da que foi tratada no julgado rescidendo" (AR 3.543/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 11/12/2013, DJe 19/12/2013.).
+5. Realinho o voto anteriormente proferido. Ação rescisória extinta sem resolução de mérito (AR 4.142/MG, Rel. Min. Humberto Martins, DJe 7.10.2016).
+Ademais, a inexistência de prequestionamento como requisito de Ação Rescisória não significa que essa possa ser utilizada como sucedâneo recursal, em face de seu caráter excepcional consequente da proteção à coisa julgada e à segurança jurídica. Assim, a deliberação contrária a disposição legal deve apresentar-se no julgado rescindendo, mesmo quando não apresentada expressamente, de forma relevante.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. OFENSA LITERAL A DISPOSIÇÃO DE LEI. NÃO OCORRÊNCIA. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. REVISÃO DE APOSENTADORIA. SUBSTITUIÇÃO DE PROVIDÊNCIA QUE DEVERIA TER SIDO ADOTADA NO CURSO DO PROCESSO ANTERIOR. IMPOSSIBILIDADE.
+1. A verificação da violação de dispositivo literal de lei requer exame minucioso do julgador, porquanto a Ação Rescisória não pode ser utilizada como sucedâneo de recurso, tendo lugar apenas nos casos em que a transgressão à lei é flagrante.
+2. É vedado o manejo da Ação Rescisória para substituir providência que deveria ter sido adotada no curso do processo rescindendo.
+3. A Ação Rescisória não é sucedânea de recurso não interposto no momento apropriado, nem se destina a corrigir eventual injustiça de decisão. Constitui demanda de natureza excepcional, de sorte que seus pressupostos devem ser observados com rigor, sob pena de ser transformada em espécie de recurso ordinário para rever decisão já ao abrigo da coisa julgada.
+4. Recurso Especial não conhecido (REsp 1.764.655/SP, Rel. Min. Herman Benjamin, DJe 16.11.2018).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO FEDERAL. DOCENTE. ART. 485, V, DO CPC/1973. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI.  .. . DECISUM RESCINDENDO QUE NÃO EXAMINA A QUESTÃO SOB O ENFOQUE DO DISPOSITIVO APONTADO POR MALFERIDO.  .. . EFICÁCIA PRECLUSIVA DA COISA JULGADA MATERIAL. ART. 474 DO CPC/1973. USO DA AÇÃO DESCONSTITUTIVA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AÇÃO RESCISÓRIA IMPROCEDENTE.
+ ..
+2. A violação de dispositivo de lei que propicia o manejo da ação rescisória, na forma do art. 485, V, do CPC/73, pressupõe que a norma legal tenha sido ofendida na sua literalidade pela decisão rescindenda, ou seja, é a decisão de tal modo teratológica que consubstancia o desprezo do sistema de normas pelo julgado rescindendo. Desta feita, a apreciação da violação a dispositivo literal de lei deve se limitar aos casos em que a transgressão à lei é flagrante, cuidando sempre para que essa ação de natureza desconstitutiva negativa não seja utilizada como sucedâneo recursal, e impedindo sua utilização com o único objetivo de reviver a discussão com base em fundamentos não suscitados oportunamente pela parte, já que não se trata de via recursal, muito menos uma com prazo de dois anos.
+ ..
+5. Ação rescisória julgada improcedente (AR 4.589/CE, Rel. Min.Mauro Campbell Marques, DJe 7.8.2017).
+Por fim, havendo prévia fixação de honorários de advogado pelas instâncias de origem, é possível sua majoração em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada eventual concessão da gratuidade da justiça.
+Diante do exposto, nego provimento ao Recurso Especial. Honorários advocatícios majorados em 10% (dez por cento) do valor já arbitrado.
+É como voto.
