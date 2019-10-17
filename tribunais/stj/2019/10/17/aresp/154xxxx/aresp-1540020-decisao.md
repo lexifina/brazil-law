@@ -1,0 +1,37 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação de cobrança.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA DE [NOME] DA [NOME] [NOME], contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/04/2019.
+Concluso ao gabinete em: 13/09/2019.
+Ação: de cobrança ajuizada pela agravante em face de ZURICH MINAS BRASIL SEGUROS S.A., devido ao fato de que, no dia 7 de dezembro de 2008, sofreu acidente de trânsito envolvendo veículo automotor, em consequência do sinistro, ficou com debilidade e deformidade permanente dos movimentos cervicais.
+Sentença: julgou procedente o pedido contido na inicial, condenando a Companhia de Seguros Minas Brasil a pagar a [NOME] a indenização relativa ao Seguro DPVAT, R$ 13.500,00 (treze mil e quinhentos reais).
+Condenou ao pagamento das custas processuais e honorários advocatícios, que fixou em 10% sobre o valor da condenação.
+Decisão: considerando a certidão, na qual informa que o procurador da requerida (Dr.Jackson Freire Jardim Santos) somente foi cadastrado em 17 de julho de 2015, não tendo sido intimado de nenhum ato processual até então, anulou o processo a partir da fl.74, inclusive.
+Sentença: julgou parcialmente procedente o pedido, condenando a Companhia de Seguros Minas Brasil a pagar a [NOME] a indenização relativa ao Seguro DPVAT, de R$ 1,350,00 (um mil, trezentos e cinquenta reais).
+Com fulcro no art. 85, § 2º, do CPC, fixou os honorários advocatícios em 15% do valor da condenação.
+Tendo em vista a sucumbência recíproca, com base no artigo 86 do CPC, condenou a parte autora ao pagamento de 90% das custas, despesas processuais e dos honorários advocatícios neste fixados, bem como condeno a parte ré ao pagamento dos 10% restantes de cada uma dessas verbas sucumbenciais.
+Por fim, suspendeu a exigibilidade dos ônus sucumbenciais em face da autora, tendo em vista que ela se encontra amparada pelo benefício da gratuita da justiça.
+Analisando atentamente aos autos, observou que, em 10/04/2014 a parte autora recebeu, mediante alvará a quantia de R$22.169,80 com todos os acréscimos devido do banco depositário. Sendo assim, o que se observar que a autora já recebeu integralmente quantia a título de seguro DPVAT que lhe era devida.
+Acórdão: de ofício desconstituiu a r. sentença por nulidade extra petita e, em julgamento antecipado recursal, julgou improcedente o pedido, negando provimento ao apelo.
+Condenou a parte autora nas custas processuais - inclusive recursais - bem como nos honorários advocatícios de sucumbência que ora fixou em 20% (vinte por cento) do valor atualizado da causa, observada a gratuidade da justiça, conforme a seguinte ementa:
+DIREITO PROCESSUAL CIVIL E LEGISLAÇÃO ESPECIAL. AÇÃO DE COBRANÇA DO SEGURO OBRIGATÓRIO DPVAT. DECISÃO QUE RECONHECEU A NULIDADE DA INTIMAÇÃO DA PRIMEIRA SENTENÇA. IMPUGNAÇÃO POR AGRAVO DE INSTRUMENTO. NÃO OCORRÊNCIA. PRECLUSÃO DO DEBATE. QUANTIFICAÇÃO DAS LESÕES DO SEGURADO. ENQUADRAMENTO NA TABELA ANEXA À LEI 6.194/74. POSSIBILIDADE. DEBATE PACIFICADO EM SEDE DE RECURSOS ESPECIAIS REPETITIVOS E SÚMULA DO STJ. 1. Sendo a decisão proferida no âmago do cumprimento de sentença que havia sido deflagrado já sob a batuta do CPC/15, deveria ter sido impugnada pela via do agravo de instrumento, "ex vi" do artigo 1.015, § ún. do novo CPC, o que não foi feito pela parte interessada que, "vênia concessa", permitiu que o processo tivesse novo curso e instrução regulares. 2. Para efeitos do art. 543-C do Código de Processo Civil revogado, firmou o c. STJ a seguinte tese: A indenização do seguro DPVAT, em caso de invalidez parcial permanente do beneficiário, será paga de forma proporcional ao grau da invalidez (Súmula n.º 474/STJ). 3. Descabida, portanto, pretensão de percepção do valor máximo da indenização prevista pela Lei nº 6.194/74, afastando qualquer possibilidade de quantificação da lesão estabelecida em caráter parcial com base na tabela correlata.
+Recurso especial: alega violação dos arts. 492, 966 e 1.014 do CPC. Sustenta que: a) "não é crível que o v. acórdão considere preclusa a nulidade suscitada pela recorrente, enquanto que o questionamento de nulidade pelo recorrido que se deu em 27/08/2015, mais de dois anos após o trânsito em julgado da primeira sentença, seja considerado válido, inclusive sem justa causa"; b)"não havendo prejuízo, não há que se falar em nulidade, pois, de fato, o recorrido não foi privado de praticar os atos processuais em sua defesa, ainda mais que haviam outros procuradores legalmente constituídos nos autos"; c) somente, por meio de ação rescisória, pode ser desconstituída a decisão; e d) na presente hipótese, não houve julgamento além do pedido.
+Juízo de admissibilidade: considerando a ausência de um dos pressupostos extrínsecos de admissibilidade (tempestividade), inadmitiu recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da intempestividade:
+O recurso especial é inadmissível por ser intempestivo. O acórdão foi disponibilizado no Diário Judiciário Eletrônico em 8 de novembro de 2018, sendo que o recurso especial foi interposto somente em 4 de dezembro de 2018, ou seja, fora do prazo legal de 15 dias úteis.
+Na hipótese dos autos, o recurso especial foi manejado contra acórdão publicado quando já em vigor o novo Diploma Processual Civil.
+Desse modo, nos termos do art. 1.003, § 6º, do CPC/2015, a parte recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS (Corte Especial, DJe 19/12/2017).
+Imperioso frisar que juntamente com a indicação de feriado local, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso, circunstância que não ocorreu na hipótese. Precedentes: AgInt no REsp 1.741.982/MT, 3ª Turma, DJe 27/09/2018; AgInt no AREsp 1.295.918/AM, 4ª Turma, DJe 09/11/2018.
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando a parte agravante de comprovar a ocorrência de feriado local quando de sua interposição, nos termos exigidos pela jurisprudência deste Superior Tribunal, não há como ser afastada a intempestividade.
+Desse modo, diante da intempestividade do recurso especial este não merece ser conhecido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
