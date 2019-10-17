@@ -1,0 +1,19 @@
+DECISÃO
+CLEVER RODRIGO DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 0003637-84.2014.8.26.0319.
+Nesta impetração, a defesa requer a aplicação do regime aberto ao paciente, bem como a substituição da pena privativa de liberdade por restritivas de direito, por entender que o modo semiaberto para o cumprimento - o insurgente foi condenado a 7 meses de detenção mais multa, em regime inicial semiaberto, e à suspensão da habilitação para dirigir veículo automotor por 2 meses e 10 dias, como incurso no art. 306, caput, da Lei n. 9.503/1997 - afronta o estabelecido nas Súmulas n. 440 do STJ e 718 e 719, ambas do STF. Assere: "A mera reincidência, de fato ocorrido quase 10 anos antes do fato tratados nestes autos não é bastante para agravar-se o regime de pena, mormente uma tão baixa e de crime que não apresenta danos" (fl. 4, sic).
+Inicialmente, este habeas corpus foi por mim indeferido liminarmente, ante sua deficiente instrução. Por meio de petição acostada às fls. 24-54, a defesa trouxe os documentos faltantes, de modo que reconsiderei o decisum anterior e indeferi o pedido de urgência.
+O Ministério Público Federal opinou, às fls. 66-70, pelo não conhecimento do habeas corpus.
+Decido.
+Pela análise dos autos, observo que, ao dar provimento ao recurso ministerial e estabelecer o modo semiaberto para resgate da condenação, a Corte estadual assentou (fls. 49-50, grifei):
+Por outro lado, merece acolhida o pleito da Justiça Pública.
+Com efeito, o réu é reincidente em crime doloso, voltou a praticar crime, colocando em risco a vida e a saúde de número indeterminado de pessoas, além de seus patrimônios, demonstrando descaso com a Justiça e total desapego às normas sociais, exigindo maior rigor na penalização.
+Assim, em atenção ao princípio da individualização da pena, e de acordo com os §§ 2º e 3º, do artigo 33 do Estatuto Repressivo, o regime inicial semiaberto é o que se mostra mais adequado.
+Pelos mesmos motivos, a substituição da pena privativa de liberdade por restritiva de direitos, não se mostra, no presente caso como medida necessária e suficiente à prevenção e repressão do crime, sendo o caso de afastá-la.
+Pelo trecho transcrito, constato não haver ilegalidade a ser sanada, uma vez que a imposição do regime intermediário foi idoneamente justificada, especialmente diante da reincidência do réu. Nesse sentido:
+ ..
+1. A jurisprudência desta Corte Superior é firme em assinalar que a reincidência é fundamento adequado e suficiente para justificar a adoção de regime inicial de cumprimento de pena mais gravoso.
+ 2. No caso concreto, o regime intermediário foi concretamente fundamentado pelas instâncias ordinárias, diante da reincidência do paciente.  ..  (HC n. 368.636/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/102016, destaquei)
+Saliento, por oportuno, que, embora a defesa afirme haver passado quase dez anos da data do fato criminoso que ensejou o reconhecimento da reincidência, até o dia do evento delituoso apurado na ação penal em comento nesta impetração, não há, nestes autos, a cópia da folha de antecedentes criminais ou de nenhum outro documento que embase a alegação, de modo que não há como conhecer dessa matéria neste momento. Além disso, a tese não foi objeto de discussão pelo Tribunal a quo, o que corrobora a impossibilidade de análise da argumentação, sob pena de se incorrer em indevida supressão de instância.
+Portanto, entendo que as peculiaridades do caso concreto foram analisadas de acordo com a jurisprudência desta Corte, de modo que não existem outras situações a autorizarem a mudança da conclusão a que chegou o acórdão recorrido.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego este habeas corpus.
+Publique-se e intimem-se.
