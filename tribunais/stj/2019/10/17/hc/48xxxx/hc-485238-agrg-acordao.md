@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. APREENSÃO DE 624 KG DE MACONHA. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. FUNDAMENTAÇÃO DAS INSTÂNCIAS ORDINÁRIAS PAUTADA NA QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. No julgamento do Recurso Especial n.º 1.773.834/ES, de minha relatoria (DJe 19/12/2018), esta Sexta Turma decidiu que a elevada quantidade de drogas apreendida pode ser perfeitamente sopesada para aferir o grau de envolvimento do acusado com a criminalidade organizada ou de sua dedicação às atividades delituosas, comportando, todavia, prova em sentido contrário.
+2. A propósito: "A apreensão de elevada quantidade de estupefacientes demonstrada a dedicação do agente ao tráfico, devendo ser afastada a causa de diminuição especial descrita no art. 33, § 4º, da Lei n. 11.343/2006, decorrente da apreensão de 41g de maconha e 270,01g de cocaína" (AgRg no HC 479.992/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 22/08/2019).
+3. No caso em tela, a sentença, mantida pela Corte de origem, ao negar a aplicação da minorante prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, destacou a "grande quantidade de droga, cerca de 624 quilos de maconha".
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior e Rogerio Schietti Cruz.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por [NOME] contra decisão de minha lavra ementada nos seguintes termos (fl. 421):
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. INAPLICABILIDADE. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS DE QUE O RÉU QUE SE DEDICA A ATIVIDADE CRIMINOSA QUE NÃO PODE SER INFIRMADA NA PRESENTE VIA CÉLERE. MODUS OPERANDI E QUANTIDADE DE DROGA APREENDIDA. ORDEM DE HABEAS CORPUS DENEGADA."
+Em suas razões, o Agravante sustenta que "o não reconhecimento da diminuta prevista no § 4º, do artigo 33, da Lei de Drogas, pelo Tribunal de Justiça local, baseou-se unicamente na quantidade da droga apreendida em poder do réu, o que ensejou a PRESUNÇÃO de que o mesmo pertencia a organização criminosa e se dedicava ao tráfico de drogas" (fl. 434).
+Aduz que "o Agravante não passa de "mula", pessoa contratada com o único propósito de fazer o transporte da substância entorpecente, sem que haja nos autos provas concludentes e irretorquíveis de que fazia parte de organização criminosa ou se dedicava a atividade criminosa" (fl. 434).
+Requer, desse modo, a reconsideração da decisão agravada ou a submissão do recurso à Turma julgadora, "para que seja reconhecida a benesse do tráfico privilegiado e, por consequência, seja fixado o regime inicial aberto para cumprimento da reprimenda, com a substituição da pena privativa de liberdade por restritivas de direitos, afastando a hediondez do delito" (fl. 440).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. APREENSÃO DE 624 KG DE MACONHA. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. FUNDAMENTAÇÃO DAS INSTÂNCIAS ORDINÁRIAS PAUTADA NA QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. No julgamento do Recurso Especial n.º 1.773.834/ES, de minha relatoria (DJe 19/12/2018), esta Sexta Turma decidiu que a elevada quantidade de drogas apreendida pode ser perfeitamente sopesada para aferir o grau de envolvimento do acusado com a criminalidade organizada ou de sua dedicação às atividades delituosas, comportando, todavia, prova em sentido contrário.
+2. A propósito: "A apreensão de elevada quantidade de estupefacientes demonstrada a dedicação do agente ao tráfico, devendo ser afastada a causa de diminuição especial descrita no art. 33, § 4º, da Lei n. 11.343/2006, decorrente da apreensão de 41g de maconha e 270,01g de cocaína" (AgRg no HC 479.992/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 22/08/2019).
+3. No caso em tela, a sentença, mantida pela Corte de origem, ao negar a aplicação da minorante prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, destacou a "grande quantidade de droga, cerca de 624 quilos de maconha".
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+No julgamento do Recurso Especial n.º 1.773.834/ES, de minha relatoria, esta Sexta Turma, por unanimidade de votos, decidiu que a elevada quantidade de drogas apreendida pode ser perfeitamente sopesada para aferir o grau de envolvimento do acusado com a criminalidade organizada ou de sua dedicação às atividades delituosas, comportando, todavia, prova em sentido contrário.
+Eis a ementa do julgado:
+"AGRAVO EM RECURSO ESPECIAL. RELEVÂNCIA TEMÁTICA. CONVERSÃO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. APREENSÃO DE 20 KG DE MACONHA. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. FUNDAMENTAÇÃO DAS INSTÂNCIAS ORDINÁRIAS PAUTADA NA QUANTIDADE DA DROGA. ALEGAÇÃO DEFENSIVA DE ILEGALIDADE. FUNDAMENTAÇÃO IDÔNEA. RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. Sob essa nova ordem jurídica, a Lei n.º 11.343/2006 - que revogou a Lei n.º 6.368/1976 -, passou a tratar de forma mais rigorosa o traficante e deu tratamento mais brando ao usuário, com a descarcerização. Para o traficante, por exemplo, a pena mínima abstratamente cominada foi elevada de 3 para 5 anos.
+3. Em medida oposta ao recrudescimento da pena-base para o tipo penal fundamental da Lei de Drogas vigente, o tráfico, o legislador previu uma causa especial de diminuição da pena no § 4.º do art. 33, pela qual a reprimenda pode alcançar 1 ano e 8 meses. Vale dizer, 1 ano e 2 meses abaixo do mínimo legal abstratamente cominado no art. 12 da Lei revogada.
+4. De fato, não se nega que os acusados possuem todas as garantias previstas pela Constituição e pelas leis e cabe à Magistratura zelar pela proteção. Contudo, também não se nega que a Constituição da República seleciona bens juridicamente relevantes aos quais não se deve dar proteção deficiente.
+5. A elevada quantidade de drogas apreendida pode ser perfeitamente sopesada para aferir o grau de envolvimento do acusado com a criminalidade organizada ou de sua dedicação a atividades delituosas, comportando, todavia, prova em sentido contrário.
+6. Sem embargo, cumpre observar que, de um lado, se a grande quantidade de droga pode denotar a dedicação do acusado a atividades criminosas ou o envolvimento com o crime organizado, por outro lado, mesmo havendo quantidades menores ou não expressivas, outras circunstâncias do tráfico podem indicar o mesmo envolvimento, como, por exemplo, anotações de movimentação frequente da traficância, testemunhos, apetrechos para o tráfico regular de entorpecentes etc.
+7. Negado provimento ao recurso especial." (REsp 1.773.834/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/11/2018, DJe 19/12/2018; sem grifos no original.)
+No caso em tela, o Magistrado sentenciante, ao negar o pedido de incidência da minorante prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, afirmou o seguinte (fl. 216):
+"Na terceira fase, verifico que o acusado transportou grande quantidade de droga, cerca de 624 quilos de maconha, agindo em coautoria. E, ainda, o réu descreve que foi contratado para transportar a droga, em atividade típica de "mula". Ora, se o acusado transportava grande quantidade de entorpecente, sendo contratado para prestar o serviço, é óbvio que agiu como "mula" de uma organização criminosa, afastando a redução do tráfico privilegiado. Não se pode dizer que o tráfico de 624 quilos de maconha é pequeno a ponto de ser reconhecida a modalidade privilegiada."
+Como se vê, o Magistrado de primeiro grau, ao negar a aplicação da minorante prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, destacou a grande quantidade de drogas encontrada com o Réu (624 quilos de maconha).
+O Tribunal de origem manteve a sentença, assinalando que, "pela grande quantidade de droga - 624 quilos de maconha, deve ser mantida a sentença, já que isso é requisito legal impeditivo da benesse estabelecida pelo § 4º, do art. 33, da Lei nº 11.343/2006" (fl. 378).
+Nesse contexto, o recurso deve ser desprovido.
+Confiram-se, ainda, os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. ELEVADA QUANTIDADE DE ENTORPECENTES APREENDIDOS. DEMONSTRAÇÃO DE DEDICAÇÃO A CRIME. AFASTAMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI 11.343/2006. POSSIBILIDADE. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos pois está em consonância com a jurisprudência desta Corte Superior.
+2. A apreensão de elevada quantidade de estupefacientes demonstrada a dedicação do agente ao tráfico, devendo ser afastada a causa de diminuição especial descrita no art. 33, § 4º, da Lei n. 11.343/2006, decorrente da apreensão de 41g de maconha e 270,01g de cocaína.
+3. Agravo regimental improvido." (AgRg no HC 479.992/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/08/2019, DJe 22/08/2019.)
+"HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. FUNDAMENTAÇÃO. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA PARA AFASTAR A MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 E PARA A FIXAÇÃO DO REGIME INICIAL FECHADO. IMPROCEDÊNCIA. MENÇÃO NA SENTENÇA À QUANTIDADE DA DROGA (389,457 G DE MACONHA) E À PRÁTICA DE ATIVIDADE CRIMINOSA. CONCESSÃO DE PROGRESSÃO DE REGIME AO SEMIABERTO PELO JUÍZO DE PRIMEIRO GRAU. PERDA DO OBJETO, EM RELAÇÃO AO REGIME INICIAL DE EXPIAÇÃO. CONSTRANGIMENTO ILEGAL. AUSENTE.
+ ..
+2. A jurisprudência deste Tribunal é assente no sentido de que a quantidade de droga apreendida configura motivação suficiente para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, uma vez que evidencia a dedicação à atividade criminosa. Precedente.
+3. O pleito de concessão de regime inicial de cumprimento da pena menos gravoso encontra-se prejudicado, em razão da progressão ao regime semiaberto concedida pelo Juízo de primeiro grau.
+4. Writ não conhecido." (HC 356.145/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/11/2016, DJe 01/12/2016.)
+Afastada a minorante, ficam prejudicados os pleitos concernentes ao regime e à substituição da pena.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
