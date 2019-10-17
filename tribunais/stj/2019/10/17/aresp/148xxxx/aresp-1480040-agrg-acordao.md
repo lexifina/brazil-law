@@ -1,0 +1,83 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO PELO CONCURSO DE AGENTES. CONDENAÇÃO. PROVAS COLHIDAS NO INQUÉRITO E EM JUÍZO. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. ANÁLISE DESPICIENDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Concluindo o Tribunal de origem pela condenação do réu, com base nas provas inquisitoriais e judiciais, não há falar em violação do art. 155 do CPP, e, consequentemente, absolvição, por demandar revolvimento de fatos e provas, o que não se admite, a teor da Súmula 7/STJ.
+2. Despicienda a análise da tese de detração do período de prisão cautelar, se o desconto não conduz à alteração do regime inicial de cumprimento da pena.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior e Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão que negou provimento ao agravo.
+Afirma a defesa que a pretensão recursal veiculada em recurso especial não encontra óbice na Súmula 7/STJ. Destaca que efetivamente comprovada a existência de dissídio jurisprudencial quanto à inadmissibilidade de condenação com base apenas em prova produzida em sede inquisitorial. Por fim, pede seja aplicado o instituto da detração.
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O agravante não trouxe argumentos capazes de reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos:
+Pretende o agravante sua absolvição ou a imposição de regime prisional mais brando, considerando o tempo em que esteve preso preventivamente. Acerca destas questões, manifestou-se o Tribunal a quo, nos seguintes termos (fls. 329-336):
+Lamentavelmente, não agiu o culto Magistrado com o costumeiro acerto, pois as provas reunidas nestes autos são suficientes para escorar o édito condenatório.
+Não se pode desprezar a prova indiciária, prevista no artigo 239, do Código de Processo Penal, quando robusta.
+Conforme lição emanada da lavra do eminente Desembargador ANTONIO MANSSUR, é "suficiente à prolação da sentença condenatória a existência de prova circunstancial veemente, convergente e bem concatenada, desde que não neutralizada por contra-indícios" (in RT 771/575).
+No caso em apreço, como se verá adiante, os indícios se mostram veementes em desfavor dos réus.
+Conforme descreve a exordial, os denunciados deliberaram pela prática de um roubo. Para tanto, a bordo da motocicleta Honda/CB 300, de cor vermelha e placas [PLACA], abordaram a vítima, que efetuava entrega de gás com seu veículo, e simulando portar arma de fogo, anunciaram o assalto.
+Ato contínuo, o denunciado MAYCON, que ocupava o lugar de garupa, desceu da motocicleta e, mediante grave ameaça, aparentando portar arma de fogo, exigiu que a vítima entregasse dinheiro e seu telefone celular, no que foi atendido.
+Enquanto isso, o denunciado THLAGO, que conduzia o motociclo, simulava portar uma arma de fogo por trás de uma pasta preta.
+Temerosa, a vítima entregou seu celular, oportunidade em que MAYCON ainda revistou seu veículo à procura de valores, porém sem sucesso. Em seguida, ambos os denunciados se evadiram do local na posse dos bens subtraídos.
+Ocorre que, a vítima acionou a polícia militar fornecendo as características da motocicleta e, logo após, os réus foram presos em flagrante delito, mas o celular não foi recuperado.
+Em sede policial, os réus se limitaram a negar os fatos, sem maiores explicações (fls. 14 e 33).
+Em Juízo, MAYCON reiterou a negativa. Disse que o corréu THIAGO é seu vizinho e, na data dos fatos, pediu para que o conduzisse ao Poupatempo, para que o depoente renovasse sua carteira de habilitação. Alega que os policiais os abordaram com a notícia de que uma moto Twister estava praticando crimes na região e por isso foram acusados. Alega que os policiais chegaram a colocar as fotos deles em um grupo no telefone celular e em seguida foram acusados injustamente.
+Afirmou, ainda, que estava há pouco tempo nas ruas, depois de cumprir pena, e ainda não conseguiu voltar a trabalhar.
+THIAGO também negou a imputação. Disse que MAYCON dirigia a moto porque o depoente não tinha carteira de motorista, apesar de já ter a moto há 04 (quatro) meses. Disse que não costuma emprestar sua moto para terceiros e por isso foi junto com o corréu. Mas acabaram abordados pelos policiais no caminho.
+Suas escusas, simplórias e singelas, não mereciam mesmo credibilidade, pois nada mais serve de arrimo às suas versões.
+A vítima [NOME], ouvida durante a lavratura do auto de prisão em flagrante, narrou os fatos com detalhes. Disse que foi abordada por dois indivíduos em uma moto vermelha e só conseguiu lembrar alguns números da placa "50". Um deles desceu da moto e o revistou, ao passo que o outro ficou na moto, com uma mão dentro de uma pasta preta, fazendo menção que estava armado.
+Disse que um policial à paisana assistiu a cena delitiva e foi ele quem acionou a Polícia Militar passando as informações dos roubadores.
+Cerca de 40 (quarenta) minutos depois do roubo foi chamado à Delegacia de Polícia, pois eles haviam preso dois suspeitos. Reconheceu os apelados pelas roupas que usavam e também a moto e a pasta usadas, conforme fotos que lhe teriam sido exibidas em um aparelho celular (üs. 10/11).
+A foto da moto vermelha, com placa [PLACA], está nos autos e consta do Auto de Reconhecimento assinado pela vítima (fls. 57/59). [NOME] também reconheceu a bolsa emprega pelos ladravazes para simular o porte de arma de fogo (fls. 60).
+Em Juízo, como normalmente ocorre, a vítima já não se mostrou tão convicta dos detalhes.
+À primeira audiência de instrução a que foi intimada, não compareceu. Foi remarcada e determinada a condução coercitiva, se necessário (fls. 241).
+Realizada a segunda audiência, [NOME] disse que não reconhecia os réus, já que eles estavam de capacetes durante o roubo. Esclarece que as roupas eram parecidas, não tendo certeza que eram iguais. Com relação à moto, não a vi pessoalmente na delegacia. Já sobre a pasta usada pelos roubadores, reconheceu-a sem sombra de dúvidas. Afirmou que o policial que presenciou a ação apenas o perguntou se estava bem e saiu em diligências. Ainda, disse que recebeu a ligação da polícia de que eles haviam sido detidos cerca de 40 (quarenta) minutos depois dos fatos. Acrescentou, ainda, que a moto em comento era vermelha e se tratava de uma moto grande, não sabia precisar a marca.
+Sua versão encontrou respaldo nos relatos colhidos dos milicianos.
+[NOME] e [NOME], sempre que ouvidos, confirmaram os fatos descritos na peça matriz.
+É verdade que [NOME] se confundiu no início de seu depoimento em Juízo e começou a relatar outro roubo. Mas, alertado sobre detalhes da ocorrência, recordou-se dos fatos e passou a afirmar que a ocorrência envolvia um caminhão de entrega de gás.
+Disse que foram acionados pelo COPOM para atender suposta tentativa de roubo, praticada por dois indivíduos em uma moto vermelha. Conseguiram deter os suspeitos, evitando a prática do crime.
+No entanto, constataram que havia outra notícia de roubo a um caminhão de gás, praticado momentos antes, e a vítima foi chamada à Delegacia de Polícia. Informalmente, os réus negavam o crime, mas a vítima fez o reconhecimento positivo. Afirmou que a vítima também reconheceu a moto e a pasta usada por eles, do tipo notebook.
+No mesmo sentido o depoimento de [NOME]. Disse que depois de cientificado sobre os fatos pelo COPOM, conseguiram encontrar os suspeitos, diante da descrição da moto. A vítima foi chamada à Delegacia de Polícia e os reconheceu. Com eles foi apreendida uma bolsa preta. A notícia irradiada pelo COPOM descrevia que a placa da moto ostentava o numeral 500.
+Ora, diante desse conjunto probatório, não se pode dizer temerária ou frágil a autoria delitiva.
+As versões apresentadas pela vítima e policiais são coesas e bem servem de alicerce à condenação pretendida.
+Ora, a vítima [NOME] reconheceu em juízo a pasta e confirmou o reconhecimento parcial das roupas dos réus em sede policial.
+Estes, por sinal, adotavam o mesmo modus operandi, foram presos quando perseguiam outro motorista de caminhão de gás. Eles estavam na condução de uma moto com as mesmas características da utilizada no roubo, moto grande, vermelha, inclusive com os algarismos "5" e "0", ou "50", apontados pela vítima.
+Por outro lado, nenhuma das teses exculpantes foi demonstrada, ônus que cabia aos réus, nos termos do artigo 156 do Código de Processo Penal.
+Não comprovaram agendamento no Poupatempo ou a necessidade de lá comparecerem, e como afirmou o representante da Justiça Pública, o trajeto para o Poupatempo, da casa dos réus, não passa por onde eles foram abordados, fica a quilômetros de distância de lá, estaria mais próximo, sim, do local do roubo.
+Ora, como se sabe, a palavra da vítima, em crimes patrimoniais, geralmente praticados na clandestinidade, possui relevante significado probatório, eis que, muitas vezes, é o único elemento capaz de apontar a autoria delitiva.
+Assim vem decidindo reiterada jurisprudência: "a palavra da vítima de crime de roubo é, talvez, a mais valiosa peça de convicção judicial. Esteve em contato frontal com o agente e, ao se dispor a reconhecê-lo, ostenta condição qualificada a contribuir com o juízo na realização do justo concreto" (TACRIM/SP - Rei. [NOME]. n. 1.048.309).
+Por fim, é de se deixar assentado que o absoluto grau de certeza pelo julgador é meta inatingível, vez que este conceito é incompatível com as limitações inerentes à natureza humana.
+Basta para o acolhimento da pretensão acusatória que a prova recolhida autorize formação de um juízo de valor em desfavor do réu e, paralelamente, afaste a dúvida razoável, mormente porque inexiste hierarquia entre os meios de prova e nosso ordenamento consagra a validade da prova indiciária (artigo 239, do Código de Processo Penal).
+Em suma, basta existência da máxima certeza possível.
+Portanto, no caso em apreço não constitui, pois, a prova indiciária, como advogou CARMIGNANI, a mais falsa de todas as provas, afirmando que nela se une o que de mais enganoso existe nas outras e a falácia que lhe é própria e exclusiva (apud JOSÉ HENRIQUE PIERANGELLI, "Da Prova Indiciária"", RT 610/283).
+Ao contrário, nestes autos, "possuem os indícios, inobstante despontem como modalidade indireta de prova, força instrutória bastante para a elucidação de fatos, podendo, inclusive por si próprios, conduzir à prolação de decreto de índole condenatória" (in RT 771/575).
+Assim, diante do conjunto de indícios reunidos, réus que adotam o mesmo modus operandi, são presos minutos depois da ação criminosa, sendo suas roupas reconhecidas pela vítima, bem como a moto, com alguns algarismos de sua placa identificados, reconhecimento seguro da pasta usada para simular em emprego de arma, resta devidamente demonstrada e comprovada a autoria do crime de roubo.
+Afora tudo isso, os réus são reincidentes em crimes patrimoniais, conforme certidões de fls. 220 e 222.
+De rigor, portanto, a condenação dos réus pelo crime roubo, majorado pelo concurso de agentes, como descreveu a denúncia ofertada.
+Em grau recursal, foi afastada a tese de insuficiência de provas para a condenação, concluindo o Tribunal de origem pela condenação do réu, após detida análise das provas dos autos, colhidas na fase inquisitorial e em juízo, que, diante do conjunto de indícios reunidos, réus que adotam o mesmo modus operandi, são presos minutos depois da ação criminosa, sendo suas roupas reconhecidas pela vítima, bem como a moto, com alguns algarismos de sua placa identificados, reconhecimento seguro da pasta usada para simular em emprego de arma, resta devidamente demonstrada e comprovada a autoria do crime de roubo.
+Nesse contexto, para se chegar à conclusão diversa, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula 7/STJ. A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL E PROCESSO PENAL MILITAR. JUNTADA DE DOCUMENTO NOS AUTOS. AUSÊNCIA DE INTIMAÇÃO ACERCA DA INTEGRALIDADE DOS DOCUMENTOS. NULIDADE RELATIVA. PRECLUSÃO. FALTA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. CONDENAÇÃO. PREVARICAÇÃO. PLEITO ABSOLUTÓRIO. REVISÃO DE PROVAS. SÚMULA 7/STJ.
+ ..
+2. A reforma do acórdão que condenou o recorrente pelo delito de prevaricação, a fim de verificar se restou devidamente demonstrado nos autos que descumpriu dever funcional para satisfazer sentimento pessoal, exigiria nova análise das provas e fatos do presente feito, o que é vedado nesta instância extraordinária. Incidência da Súmula 7 deste Superior Tribunal de Justiça.
+3. Agravo regimental improvido (AgRg no REsp 1729004/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/08/2018, DJe 13/08/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE PROVAS PARA A CONDENAÇÃO. SÚMULA N. 7 DO STJ. CONVERSÃO DA PENA PRIVATIVA DE LIBERDADE EM RESTRITIVA DE DIREITOS. AUSÊNCIA DE REQUISITO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez que o Tribunal de origem manteve a condenação do agravante pela livre apreciação da prova produzida em contraditório judicial, para alterar a conclusão do julgado, seria imprescindível o reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, a teor da Súmula n. 7 deste Superior Tribunal.
+ ..
+3. Agravo regimental não provido (AgRg no AREsp 1142859/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/12/2017, DJe 19/12/2017).
+No tocante à detração para fins de fixação de regime prisional mais brando, consignou o Tribunal de origem (fl. 373):
+Também, quanto à detração penal, os réus são reincidentes e precárias as informações dos autos sobre a vida de prisional de ambos.
+Por isso, a detração penal é matéria que deve ser reservada para exame do Juízo da Execução.
+Não é possível saber se preenchem ou não os requisitos necessários (objetivos e subjetivos) para a progressão antecipada.
+O entendimento desta Corte firmou-se no sentido de que compete ao Juízo da condenação computar o tempo de prisão provisória para fins de fixação do regime inicial da pena privativa de liberdade, quando proferida a sentença após o advento da Lei 12.736/2012, que incluiu o § 2º do art. 387, do Código de Processo Civil.
+No presente caso, contudo, ainda que aplicada a detração penal do período de quase 10 meses de prisão cautelar, como informado pelo recorrente no presente recurso - de 22/9/2016 a 17/7/2017 -, o regime inicial não se alteraria, considerando a pena de 6 anos, 2 meses e 20 dias de reclusão, motivo pelo qual a sanção permaneceria superior a 4 e inferior a 8 anos. Assim, sendo reincidente o agravante, o regime prisional permaneceria sendo o fechado.
+Ante o exposto, nego provimento ao agravo.
+De fato, tendo o Tribunal de origem concluído pela condenação do réu, após detida análise das provas dos autos, colhidas tanto na fase inquisitorial, quanto em juízo, não há falar em ofensa ao art. 155 do CPP, nem é possível a revisão do julgado, com vistas à absolvição, nos termos do óbice da Súmula 7/STJ.
+Outrossim, no tocante à detração, embora tenha a Corte a quo concluído pela impossibilidade de seu exame, cabendo tal função ao Juízo da execução, o que destoa do entendimento desta Corte - segundo o qual tal mister incumbe ao juízo da condenação -, na hipótese, constatou-se que, ainda que aplicada a detração penal do período de quase 10 meses de prisão cautelar, como informado pelo recorrente no presente recurso - de 22/9/2016 a 17/7/2017 -, o regime inicial não se alteraria, considerando a pena de 6 anos, 2 meses e 20 dias de reclusão, motivo pelo qual a sanção permaneceria superior a 4 e inferior a 8 anos. Assim, sendo reincidente o agravante, o regime prisional permaneceria sendo o fechado.
+Por fim, no que se refere à tese de ausência de exame do alegado dissídio jurisprudencial, verifica-se que a matéria cujo exame se pretendia - condenação com base em provas produzidas exclusivamente em sede inquisitorial - foi tratada na decisão ora recorrida e devidamente afastada.
+Ante o exposto, voto por negar provimento ao agravo regimental.
