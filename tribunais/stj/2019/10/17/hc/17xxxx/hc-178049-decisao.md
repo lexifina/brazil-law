@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDUARDO [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 993.07.007725-5).
+Narra a impetrante que o paciente teria sido condenado, em primeiro grau, à pena de 30 anos de reclusão, a ser cumprida integralmente no regime fechado, e ao pagamento de 135 dias-multa, pela prática de tentativa de roubo seguido de morte e de extorsão qualificada.
+Afirma que o julgamento das apelações interpostas pela defesa e pela acusação foi anulado por esta Corte, ao apreciar o HC n. 128.151/SP, visto que foi realizado por câmara composta majoritariamente por juízes convocados.
+Aduz, todavia, que, renovado o julgamento, a reprimenda aplicada ao paciente teria sido exasperada, de modo que violada a proibição de reformatio in pejus indireta.
+Busca, assim, seja anulado o referido acórdão de apelação.
+Liminar indeferida às e-STJ fl. 52.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 100/102).
+É, em síntese, o relatório.
+Pois bem. Em que pese o esforço da diligente defesa, não verifico a ocorrência da reformatio in pejus indireta sustentada na inicial.
+Isso porque, consoante se extrai das informações prestadas pelo Tribunal de origem, o segundo julgamento das apelações, realizado em razão desta Casa ter anulado o julgamento anterior em virtude de ter ele se realizado por câmara composta majoritariamente por juízes convocados (HC n. 128.151/SP), não exasperou a sanção privativa de liberdade aplicada ao paciente, a qual permaneceu idêntica àquela fixada na apreciação dos primeiros apelos, ou seja, em 45 anos de reclusão, cabendo destacar, inclusive, que a pena de multa foi reduzida para 200 dias-multa (antes estabelecida em 240 dias-multa).
+A propósito, veja-se o que consta das informações juntadas a estes autos (e-STJ fls. 63/64):
+Processado perante a Terceira Vara Criminal da Comarca de São Paulo, o ora paciente foi condenado aos 12 de setembro de 2006 nos autos da Ação Penal nº 011.03.022129-4, Controle nº 1.536/2003, como incurso, por vinte e uma vezes, no art. 157, § 2o, I, e § 3o, última parte, e, por seis vezes, no art. 158, § 1o e § 2o (última parte), ambos c.c. os arts. 14, II, e 70, todos do Código Penal, às penas de 30 anos de reclusão, em regime integralmente fechado, e 135 dias-multa, negado o apelo em liberdade.
+Irresignadas, recorreram as partes. A apelação criminal recebeu neste Tribunal o número 1.111.031.3/9, sendo recadastrada, em decorrência da migração do sistema de segunda instância, sob o número 993.07.007725-5.
+Em sessão de julgamento realizada aos 06 de junho de 2008, a Segunda Câmara Criminal "C" do Primeiro Grupo da Seção Criminal, à unanimidade, deu parcial provimento a ambos os recursos para aumentar a pena para 45 anos de reclusão, em regime inicialmente fechado, e 240 dias-multa, permanecendo no mais a decisão guerreada.
+Informo, outrossim, que em cumprimento à decisão proferida nos autos do Habeas Corpus nº 128.151/SP, também impetrado em favor do ora paciente perante esse Colendo Sodalício, que determinou a anulação do sobredito julgamento para que se procedesse por Câmara composta majoritariamente por desembargadores, redistribuiu-se o feito.
+A Terceira Câmara Criminal, em 01 de dezembro de 2009, apreciando as insurgências, sem discrepância de votos, deu-lhes parcial provimento para fixar as penas em 45 anos de reclusão, em regime inicialmente fechado, e 200 dias-multa, mantida no mais a decisão atacada.
+Certificado o trânsito em julgado para o Parquet, os autos foram enviados à Vara Criminal para intimação pessoal da Procuradora da Assistência Judiciária - grifei.
+Aliás, importante ressaltar que o julgamento de ambas as apelações, defensiva e do órgão de acusação, foi anulado pelo Superior Tribunal de Justiça. Sendo assim, ambos os apelos foram novamente apreciados e, como consignado acima, não houve o agravamento da situação do paciente, em relação ao primeiro julgamento efetivado pelo Tribunal de origem.
+Em casos análogos, guardadas as devidas particularidades, esta Corte assim se posicionou:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MULA. ATUAL ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. CAUSA DE DIMINUIÇÃO ART. 33, § 4º, LEI N. 11.434/2006. PRETENSÃO DE ALTERAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DA PENA PARA 1/2. IMPOSSIBILIDADE. CONTRIBUIÇÃO COM ORGANIZAÇÃO CRIMINOSA. RECURSO EXCLUSIVO DA DEFESA. REFAZIMENTO DA DOSIMETRIA. MANUTENÇÃO DAS BALIZAS DA PENA ANTERIORMENTE FIXADA. REFORMATIO IN PEJUS INDIRETA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Segundo a jurisprudência desta Corte, não haverá reformatio in pejus (indireta) se, na decisão posterior à anulada, restar mantida a mesma pena imposta por esta última, ainda que sejam revistos os fundamentos embasadores da dosimetria penal. No caso, não há falar em obrigação do restabelecimento do quantum da minorante aplicada na sentença primeva, pois, a Corte de origem deu provimento à apelação ministerial tendo o acórdão impugnado afastado por completo a causa de diminuição. Ao ter reconhecido a incidência da minorante considerando os argumentos utilizados do aresto combatido - ser o agente mula do tráfico - foi aplicado o patamar de 1/6 de acordo com a pacífica jurisprudência da casa.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 1226446/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019, grifei)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME TRIBUTÁRIO. INÉPCIA DA DENÚNCIA. SENTENÇA PENAL CONDENATÓRIA. PREJUDICIALIDADE. CONDENAÇÃO LASTREADA EM PROVAS PRODUZIDAS SOB O CRIVO DO CONTRADITÓRIO. DEMONSTRAÇÃO DA AUTORIA E DA INTENÇÃO DE FRAUDAR A ORDEM TRIBUTÁRIA. PRESCINDIBILIDADE DE ESPECIAL FIM DE AGIR. EXASPERAÇÃO DA PENA-BASE. CONSEQUÊNCIAS NEGATIVAS DO CRIME. DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA DE RECLUSÃO. MULTA ESTABELECIDA EM PATAMAR RAZOÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+7. Não há falar em reformatio in pejus indireta se a decisão agravada não afastou nenhuma circunstância judicial desfavorável, não piorou a situação do réu e ambas as reprimendas (de multa e de reclusão), comparativamente, são harmônicas e estão dosadas em patamar um pouco acima do mínimo legal.
+8. Agravo regimental não provido.
+(AgRg no AREsp 1192690/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/05/2018, DJe 01/06/2018, grifei)
+Logo, não há falar em reformatio in pejus indireta, de forma que não constato a ocorrência do constrangimento ilegal sustentado.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
