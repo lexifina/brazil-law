@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL – PREVIDENCIÁRIO – CRIAÇÃO DE SISTEMA PREVIDENCIÁRIO PRÓPRIO DOS SERVIDORES PÚBLICOS MUNICIPAIS – ICS – DESCONTO POSSÍVEL E LEGAL ANTE À EXISTÊNCIA DE PERMISSIVO CONSTITUCIONAL – AFASTAMENTO – EMENDA CONSTITUCIONAL 20/1998 – SUBSIDIARIEDADE ENTRE O ICS E O MUNICÍPIO DE CURITIBA – APELOS DO MUNICÍPIO DE CURITIBA E DO ICS PARCIALMENTE PROCEDENTES – APELO DA AUTORA TOTALMENTE PROCEDENTE – SENTENÇA MODIFICADA PARA OS FINS DE REEXAME NECESSÁRIO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 12; 195, II; 196 e 198, todos da CF. Sustenta, em essência, a constitucionalidade da cobrança de contribuição para a assistência à saúde dos servidores públicos municipais.
+    A pretensão recursal não merece prosperar. A alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, o acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal, que, ao apreciar o tema 55 da sistemática da repercussão geral, fixou a seguinte tese: “I - Os Estados membros possuem competência apenas para a instituição de contribuição voltada ao custeio do regime de previdência de seus servidores. Falece-lhes, portanto, competência para a criação de contribuição ou qualquer outra espécie tributária destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores; II - Não há óbice constitucional à prestação, pelos Estados, de serviços de saúde a seus servidores, desde que a adesão a esses "planos"seja facultativa”.
+    Nas palavras do Min. Gilmar Mendes, relator do RE 573.540 RG (Tema 55):
+    “Nesse contexto, o art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas. Trata-se, pois, de regra geral acerca da competência para a instituição dessa espécie tributária, a qual, no entanto, comporta duas exceções.
+    A primeira delas pode ser encontrada no parágrafo primeiro do próprio art. 149, segundo o qual os Estados, o Distrito Federal e os Municípios são autorizados a instituir ‘contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que trata o art. 40’.
+    Outra exceção é a trazida pelo art. 149-A da Constituição, que atribui aos Municípios e ao Distrito Federal competência para a instituição de contribuição para o custeio do serviço de iluminação pública.
+    A não ser nesses dois casos, falece competência aos Estados e Municípios para a instituição de contribuição, seja qual for a sua finalidade.”
+    No mesmo sentido, cito as seguintes decisões monocráticas: RE 1161834/PR, Rel. Min. Marco Aurélio; ARE 647382/PR, Rel. Min. Gilmar Mendes; RE 1025530/PR, Rel. Min. Marco Aurélio; RE 831894/PR, Rel. Min. Teori Zavascki; RE 794301/PR, Rel. Min. Teori Zavascki; RE 847588/PR, sob a minha relatoria; RE 761289/PR, sob a minha relatoria; AI 788935/PR, Relª. Minª. Cármen Lúcia.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
