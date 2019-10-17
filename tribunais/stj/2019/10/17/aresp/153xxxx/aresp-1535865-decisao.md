@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 115/STJ (e-STJ fls. 384/386).
+O acórdão recorrido está assim ementado (e-STJ fl. 265):
+APELAÇÃO . EMBARGOS À EXECUÇÃO. PRELIMINAR DE AUSÊNCIA DE REPRESENTAÇÃO PROCESSUAL. REJEITADA. CONTRATO DE SEGURO DE VEÍCULO. OBRIGAÇÃO CONSUBSTANCIADA EM TÍTULO EXECUTIVO EXTRAJUDICIAL. COBERTURA POR PERDA TOTAL DO VEÍCULO, DISPOSTA EM INSTRUMENTO DE CONTRATO. INOCORRÊNCIA DO PERCENTUAL DE 75% (SETENTA E CINCO POR CENTO) DO VALOR DO AUTOMÓVEL, PARA CARACTERIZAÇÃO DA PERDA TOTAL DAS PEÇAS E DOS CONSERTOS DO AUTOMÓVEL, NOTA-SE COM CLAREZA, QUE A SOMA DOS VALORES REFERIDOS NOS DOCUMENTOS, NÃO ULTRAPASSAM O PERCENTUAL ESTABELECIDO NA CLÁUSULA DE PERDA TOTAL AUTOMOTIVA. IMPOSSIBILIDADE. APELAÇÃO IMPROVIDA, SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 286/290).
+Nas razões do recurso especial (e-STJ fls. 296/323), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 489, § 1º, II, e IV, 1.013, §§ 1º e 2º, e 1.022, II, parágrafo único, II, do CPC/2015.
+Sustentou, em síntese, que o Tribunal de origem não teria se pronunciado sobre: (i) a preliminar de ausência de representação processual, (ii) a aplicabilidade das cláusulas constantes do certificado de seguro, (iii) os laudos de consertos das oficinas e o suposto cálculo a menor das oficinas para não atingir o percentual de perda total, (iv) os orçamentos das concessionárias de veículos apresentados em valores menores do que o percentual descrito na cláusula contratual, (v) a alegação de que o atraso ou a demora no conserto ou na entrega do veículo não acarretaria o pagamento do valor equivalente à perda total do veículo, (vi) a imprescindibilidade da perícia requerida pelo segurado, (vii) a irrecorribilidade da inversão do ônus da prova deferida em despacho saneador, (viii) a remoção do bem a ser periciado, e (ix) a aplicabilidade dos arts. 1º, 2º, 3º, § 2º, 6º, VIII, 20, I e II, §§ 1º e 2º, 21 e 84 do CDC e 461 do CPC/1973.
+No agravo (e-STJ fls. 392/405), afirma a presença de todos os requisitos de admissibilidade do especial, ressaltando que: (i) "equivocou-se a Exma Desembargadora 2a Vice Presidente ao inadmitir o Recurso Especial por suposta ausência de regular representação processual da patrona que subscreveu o citado REsp uma vez que existe instrumento procuratório hábil nos autos, no caso, o substabelecimento com reserva de poderes, juntado à fl. 254, outorgado pela patrona [NOME], com fundamento na Procuração de fls. 07, cópia em anexo, constante dos autos da Ação Principal, ou seja, Ação de Execução de Titulo Extra Judicial" e (ii) "não foi oportunizada à patrona sanar o suposto vício de representação" (e-STJ fl. 394).
+A recorrida apresentou contraminuta (e-STJ fls. 446/448).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Devidamente intimado para regularizar a representação processual (e-STJ fl. 380), o recorrente deixou transcorrer em branco o prazo que lhe foi concedido (e-STJ fl. 382).
+Dessa maneira, diante da ausência de correção do referido vício, incide a Súmula n. 115/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. AUSÊNCIA DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL, APESAR DE INTIMAÇÃO DA PARTE. AGRAVO DESPROVIDO. PETICIONAMENTO ELETRÔNICO. CERTIFICADO DIGITAL. VINCULAÇÃO DO ADVOGADO.
+1. Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos.
+2. Não há comprovação da capacidade postulatória do subscritor do recurso especial e do agravo.
+3. Intimado para regularizar sua representação processual, nos termos dos arts. 76 e 932, parágrafo único, do CPC vigente, o agravante não comprovou a cadeia de representação outorgando poderes ao subscritor do recurso.
+4. Diante da ausência de correção do vício, incide a Súmula n. 115 do STJ.
+5. "A assinatura eletrônica é a forma de identificação inequívoca do signatário, e a opção pela utilização do meio eletrônico de peticionamento implica a vinculação do advogado titular do certificado digital ao documento chancelado, que será considerado, para todos os efeitos, o subscritor da peça, não tendo valor eventual assinatura digitalizada de outro advogado que venha a constar da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração" (AgRg no AREsp 725.263/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2016, DJe 27/05/2016).
+6. Agravo interno não provido.
+(AgInt no AREsp 1339129/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/08/2019, DJe 30/08/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. REPRESENTAÇÃO PROCESSUAL NÃO REGULARIZADA, APÓS INTIMAÇÃO. DESOBEDIÊNCIA AO DISPOSTO NOS ARTS. 76, § 2º, I, E 932, PARÁGRAFO, ÚNICO, AMBOS DO NCPC. SÚMULA Nº 115 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Conforme o disposto nos arts. 76, § 2º, I, e 932, parágrafo único, ambos do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual. Incidência da Súmula nº 115 desta Corte.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1500024/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2019, DJe 24/09/2019.)
+Ressalte-se que o documento de fls. 254 dos autos originários (e-STJ fl. 293) é apenas um substabelecimento, desacompanhado de procuração, e que, quando da interposição do recurso especial, não havia nos autos instrumento de mandato outorgado pelo recorrente à advogada que subscreve o referido documento.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
