@@ -1,0 +1,1 @@
+Art. 5º-B. A Senad, órgão gestor do Funad, fica autorizada a financiar políticas públicas destinadas às ações e atividades desenvolvidas pelas comunidades terapêuticas acolhedoras referidas no art. 26-A da Lei nº 11.343, de 23 de agosto de 2006.
