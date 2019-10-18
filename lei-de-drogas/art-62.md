@@ -1,4 +1,7 @@
 Art. 62. Comprovado o interesse público na utilização de quaisquer dos bens de que trata o art. 61, os órgãos de polícia judiciária, militar e rodoviária poderão deles fazer uso, sob sua responsabilidade e com o objetivo de sua conservação, mediante autorização judicial, ouvido o Ministério Público e garantida a prévia avaliação dos respectivos bens.
+§ 1º (Revogado).
+§ 1º-A. O juízo deve cientificar o órgão gestor do Funad para que, em 10 (dez) dias, avalie a existência do interesse público mencionado no caput deste artigo e indique o órgão que deve receber o bem.
+§ 1º-B. Têm prioridade, para os fins do § 1º-A deste artigo, os órgãos de segurança pública que participaram das ações de investigação ou repressão ao crime que deu causa à medida.
 § 2º A autorização judicial de uso de bens deverá conter a descrição do bem e a respectiva avaliação e indicar o órgão responsável por sua utilização.
 § 3º O órgão responsável pela utilização do bem deverá enviar ao juiz periodicamente, ou a qualquer momento quando por este solicitado, informações sobre seu estado de conservação.
 § 4º Quando a autorização judicial recair sobre veículos, embarcações ou aeronaves, o juiz ordenará à autoridade ou ao órgão de registro e controle a expedição de certificado provisório de registro e licenciamento em favor do órgão ao qual tenha deferido o uso ou custódia, ficando este livre do pagamento de multas, encargos e tributos anteriores à decisão de utilização do bem até o trânsito em julgado da decisão que decretar o seu perdimento em favor da União.
@@ -9,5 +12,3 @@ Art. 62. Comprovado o interesse público na utilização de quaisquer dos bens d
 § 9º (Revogado).
 § 10. (Revogado).
 § 11. (Revogado).
-§ 12. Na alienação de veículos, embarcações ou aeronaves, a autoridade de trânsito ou o órgão de registro equivalente procederá à regularização dos bens no prazo de trinta dias, de modo que o arrematante ficará livre do pagamento de multas, encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário.
-§ 13. Na hipótese de que trata o § 12, a autoridade de trânsito ou o órgão de registro equivalente poderá emitir novos identificadores dos bens.

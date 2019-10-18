@@ -1,0 +1,2 @@
+Art. 63-E. O produto da alienação dos bens apreendidos ou confiscados será revertido integralmente ao Funad, nos termos do parágrafo único do art. 243 da Constituição Federal, vedada a sub-rogação sobre o valor da arrematação para saldar eventuais multas, encargos ou tributos pendentes de pagamento.
+Parágrafo único. O disposto no caput deste artigo não prejudica o ajuizamento de execução fiscal em relação aos antigos devedores.
