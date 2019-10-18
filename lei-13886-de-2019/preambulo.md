@@ -1,0 +1,2 @@
+Altera as Leis nos 7.560, de 19 de dezembro de 1986, 10.826, de 22 de dezembro de 2003, 11.343, de 23 de agosto de 2006, 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), 8.745, de 9 de dezembro de 1993, e 13.756, de 12 de dezembro de 2018, para acelerar a destinação de bens apreendidos ou sequestrados que tenham vinculação com o tráfico ilícito de drogas.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
