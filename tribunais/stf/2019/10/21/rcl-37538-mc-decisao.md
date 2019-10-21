@@ -1,0 +1,29 @@
+Decisão: Trata-se de reclamação com pedido liminar, proposta pelo Município de Timon/MA, em face de decisões proferidas pelo Juízo da Vara do Trabalho de Timon e pelo Tribunal Regional do Trabalho da 16ª Região, nos autos do Processo 0017028-64.2014.5.16.0019.
+    Na petição inicial, a parte reclamante alega que as decisões reclamadas ofendem a autoridade desta Corte, consubstanciada na ADI 3.395. Sustenta assim a incompetência absoluta da Justiça do Trabalho, tendo em vista o disposto no art. 114 da CF/88, bem como a decisão proferida na referida ADI.
+    Afirma que o município reclamante instituiu, nos termos da Lei Municipal 1.299/2004 (Estatuto dos Servidores do Município de Timon-MA), o Regime Jurídico Estatutário. Nesses termos, aduz que não há que se falar em regime celetista nas contratações efetivadas pelo referido município, mesmo sem concurso público.
+    Requer a concessão de liminar para suspender os efeitos da decisão reclamada. No mérito, pugna pela procedência da presente reclamação, a fim de que seja cassado o ato reclamado.
+    É o breve relatório.
+    Passo à análise do pedido liminar.
+    A reclamação, tal como prevista no art. 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    No caso, indica-se como paradigma de confronto a ADI 3.395/DF-MC, cuja ementa transcrevo:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação.
+    Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”. (ADI 3.395/DF-MC, Rel. Min. Cezar Peluso, Tribunal Pleno, DJ 10.11.2006).
+    Com efeito, ressalto que o entendimento desta Corte, após o julgamento da ADI 3.395, é que compete à Justiça Comum o julgamento de causas instauradas entre o Poder Público e servidor a ele vinculado por relação jurídico-administrativa, não cabendo à Justiça trabalhista sequer discutir a legalidade da relação administrativa.
+    Cito a propósito decisão proferida pelo Plenário, no julgamento da Rcl-AgR 7.426, de minha relatoria, DJe 10.10.2012, cuja ementa transcrevo:
+    “Agravo regimental em reclamação. 2. Servidor regido por vínculo de natureza jurídico-administrativa. 3. Incompetência da Justiça do Trabalho, conforme acórdão desta Corte no julgamento da ADI n. 3.395. 4. Ausência de fundamento novo no recurso que seja apto a ilidir a decisão agravada 5. Agravo regimental a que se nega provimento”.
+    No mesmo sentido, confira-se a Rcl-AgR n. 7.157, Tribunal Pleno, de relatoria do Ministro Dias Toffoli, DJe 19.3.2010, cujo acórdão está assim ementado:
+    “AGRAVO REGIMENTAL. ADMINISTRATIVO E PROCESSUAL. REGIME JURÍDICO ADMINISTRATIVO. ADI nº 3.395/DF-MC. AUSÊNCIA DE ARGUMENTOS SUSCEPTÍVEIS DE MODIFICAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. É competente a Justiça comum para processar e julgar ações para dirimir conflitos entre o Poder Público e seus agentes, independentemente da existência de vício na origem desse vínculo, dada a prevalência de sua natureza jurídico-administrativa. 2. Prorrogação do prazo de vigência do contrato temporário não altera a natureza jurídica de cunho administrativo que se estabelece originalmente. 3. Agravo regimental não provido”.
+    No presente feito, observo que o Tribunal reclamado entendeu que a competência para julgar o presente feito seria da Justiça do Trabalho. Eis um trecho dessa decisão:
+    “Com efeito, a competência material é definida pelo pedido e causa de pedir deduzidos na inicial. Na peça vestibular, a reclamante aduz que mantinha relação contratual nula com o Poder Público, ante a inobservância do art. 37, II, da CF/88, fato este confirmado pelo próprio município tanto em sua contestação quanto nas razões do recurso ordinário.
+    Assim, é evidente que a controvérsia não envolve relação de cunho jurídico-estatutário, o que atrai a competência desta Justiça Especializada para apreciar o feito, nos termos do art. 114, I, da CF/88, consoante a atual e reiterada jurisprudência deste Regional, a despeito do entendimento pessoal desta Relatora em sentido diverso.” (eDOC 8, p. 2)
+    No caso, em primeiro juízo, entendo que o Tribunal reclamado, ao assentar a competência da Justiça Trabalhista para julgar o presente feito, violou a decisão desta Corte proferida na ADI 3.395.
+    Ante o exposto, reservando-me o direito a exame mais detido da controvérsia por ocasião do julgamento do mérito, presentes os pressupostos de periculum in mora e fumus boni iuris, defiro o pedido de liminar para determinar a suspensão do Processo 00017028-64.2014.5.16.0019, até a decisão final da presente reclamação.
+    Solicitem-se informações à autoridade reclamada. (art. 989, I, NCPC)
+    Cite-se a interessada. (art. 989, III, NCPC)
+    Intime-se, se necessário, o reclamante para que forneça o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Publique-se.
+    Brasília, 21 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
