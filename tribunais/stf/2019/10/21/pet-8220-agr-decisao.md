@@ -1,0 +1,43 @@
+Trata-se de agravo regimental interposto em face da decisão que deferiu a concessão de efeito suspensivo ativo ao recurso extraordinário interposto pela agravada contra o acórdão proferido nos autos da Ação Direta de Inconstitucionalidade 008465- 86.2016.8.10.0000, para suspender os efeitos da Lei Municipal 6.113/2016 do Município de São Luís.
+    O recorrente alega, em síntese, que,
+    "na época da concessão da presente medida cautelar pela r. decisão combatida, a Presidência do E. STF não havia exercido juízo de admissibilidade sobre o Recurso Extraordinário em questão.
+                […]
+    “na pendência de exame de juízo admissibilidade pela Presidência do Tribunal do Recurso Extraordinário ad quo atrai ao caso em questão a aplicação da Súmula de nº 634 do E.STF, assim verbeteada:”
+    ‘Súmula 634
+    Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeitos suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem.” (pág. 13 do documento eletrônico 19).
+    Assevera, ainda, o seguinte:
+    “É que na demanda de piso o panorama dos temas que foram desenvolvidos pelo Tribunal de Justiça do Estado do Maranhão matérias que em tese podem alterar a convicção do E.STF ao apreciar em ocasião futura Recurso extraordinário da parte recorrida a ser julgado por esta Excelsa Corte Constitucional” (pág. 24 do documento eletrônico 19).
+    […]
+    “No caso, não se vislumbra ofensa à competência privativa da União para legislar sobre direito civil, pois a regulamentação das tarifas cobradas pelo serviço de guarda de veículos, aqui residente a matéria sobre o tempo mínimo de permanência gratuita, consiste justamente em matéria de interesse local, nos termos do artigo 30, I da Constituição Federal de 1988 e do art. 13, II, c da Lei Orgânica de São Luís, ensejando a regulação legislativa do ente municipal”; grifos no original (pág. 28 do documento eletrônico 19).
+    […]
+    “o Município de São Luís agiu dentro de sua competência constitucional. Tendo em vista que a adequada aplicação ao caso é de que se trata de matéria do art. 24, V e VIII da Carta da República” (pág. 38 do documento eletrônico 19).
+    Ao final, requer:
+    "(i) a reconsideração da decisão agravada e caso não entenda pela submissão do presente pleito ao colegiado ; (ii) não havendo a reconsideração, o provimento deste agravo regimental para reformar a decisão agravada, diante da inexistência dos pressupostos para a concessão do efeito suspensivo pela via de medida cautelar combatida, de modo a reestabelecer a eficácia da Lei Municipal n.º 6.113/2016” (pág. 39 do documento eletrônico 19).
+    Em contrarrazões, a agravada sustentou a perda de objeto deste agravo interno (documento eletrônico 31).
+    Posteriormente, o Subprocurador-Geral da República Carlos Alberto Vilhena opinou pela perda do objeto do presente agravo (documento eletrônico 35).
+    É o relatório necessário. Decido.
+    O agravo, de fato, está prejudicado por perda de interesse processual, pois esse exauriu-se com o trânsito em julgado do RE 1.222.931/MA, que foi assim decidido:
+    “Trata-se de recurso extraordinário interposto contra acórdão no qual se julgou improcedente a ação de direta de inconstitucionalidade para manter a eficácia da Lei Municipal 6.113/2016, que dispõe sobre o período mínimo de gratuidade nos estacionamentos privados do Município de São Luís. Destaca-se da ementa do acórdão recorrido:
+    ‘AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL N.° 6.113/2016. LEGITIMIDADE ATIVA DA REQUERENTE. ESTACIONAMENTO PRIVADO. SHOPPING CENTER. ISENÇÃO DA COBRANÇA DE TAXAS, TARIFAS E AFINS NOS PRIMEIROS 30 (TRINTA) MINUTOS AOS USUÁRIOS DO SERVIÇO DE ESTACIONAMENTO PRIVADO DO MUNICÍPIO DE SÃO LUÍS. DIREITO CONSUMERISTA. COMPETÊNCIA MUNICIPAL PARA LEGISLAR SOBRE MATÉRIA DE INTERESSE LOCAL (ART. 30, INCISO I, DA CONSTITUIÇÃO FEDERAL). INCONSTITUCIONALIDADE NÃO VERIFICADA. IMPROCEDÊNCIA DO PEDIDO’ (pág. 27 do documento eletrônico 3).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se violação dos arts. 1º, IV; 5º, XXII; 22, I; 24, V e VIII; 30, I e II; e 170, II e V, da mesma Carta.
+    Sustenta-se, em suma, que a Lei 6.113/2016 do Município de São Luís, ao pretender regular a forma de exploração econômica da propriedade privada, usurpou a competência privativa da União paralegislar sobre direito civil, bem como transgrediu o direito de propriedade e os princípios da livre iniciativa e da livre concorrência.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com a jurisprudência desta Corte firmada no sentido de que a exploração econômica de estacionamento privados é matéria de direito civil e, portanto, de competência privativa da União, consoante o art. 22, I, da Constituição Federal. Nesse sentido, destaco os seguintes precedentes do Plenário deste Tribunal:
+    ‘COMPETÊNCIA NORMATIVA – SHOPPING CENTER – ESTACIONAMENTO – COBRANÇA – DISCIPLINA LOCAL. Surge conflitante com a Constituição da República lei de unidade da Federação dispondo sobre isenção do pagamento de estacionamento em shopping center. Precedentes: medida cautelar na ação direta de inconstitucionalidade nº 1.623/RJ, relator ministro Moreira Alves, e ações diretas de inconstitucionalidade nº 2.448/DF, relator ministro Sydney Sanches, nº 1.918/ES, relator ministro Maurício Corrêa, e nº 1.623/RJ, relator ministro Joaquim Barbosa, com acórdãos publicados no Diário da Justiça de 5 de dezembro de 1997, 13 de junho de 2003, 1º de agosto de 2003 e 15 de abril de 2011, respectivamente’ (ADI 3.500/SC, Rel. Min. Marco Aurélio).
+    ‘Direito constitucional. Ação direta de inconstitucionalidade. Lei distrital que regulou preço cobrado por estacionamento. Inconstitucionalidade formal e material.
+    1. O Supremo Tribunal Federal firmou entendimento no sentido de que a regulação de preço de estacionamento é matéria de direito civil, inserindo-se na competência privativa da União para legislar (CF/88, art. 22, I). Inconstitucionalidade formal. Precedentes: ADI 4.862, rel. Min. Gilmar Mendes; AgR-RE 730.856, rel. Min Marco Aurélio; ADI 1.623, rel. Min. Joaquim Barbosa.
+    2. Ressalva de entendimento pessoal do relator, no sentido de que a regulação de preço na hipótese configura violação ao princípio da livre iniciativa (CF/88, art. 170). Inconstitucionalidade material.
+    3. Ação julgada procedente para declarar a inconstitucionalidade da norma’ (ADI 4.008/DF, Rel. Min. Roberto Barroso).’
+    Com o mesmo entendimento, cito os seguintes julgados de ambas as Turmas desta Corte:
+    ‘AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. LEI MUNICIPAL QUE INSTITUI A COBRANÇA FRACIONADA EM ESTACIONAMENTOS PARTICULARES. DIREITO CIVIL. COBRANÇA. COMPETÊNCIA PRIVATIVA DA UNIÃO. ARTIGO 22, I, DA CONSTITUIÇÃO FEDERAL. MANDADO DE SEGURANÇA. DECLARAÇÃO DE INCONSTITUCIONALIDADE INCIDENTAL. PRECEDENTES. AGRAVO INTERNO DESPROVIDO’ (RE 744.763-AgR/SC, Rel. Min. Luiz Fux, Primeira Turma).
+    ‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 27.09.2018. LEI 3.701 DO MUNICÍPIO DE BALNEÁRIO CAMBORIÚ. COBRANÇA FRACIONADA PELO TEMPO DE PERMANÊNCIA NOS ESTACIONAMENTOS PARTICULARES. INCONSTITUCIONALIDADE CONFIGURADA. PRECEDENTES.
+    1. O Supremo Tribunal Federal possui jurisprudência consolidada em sentido diverso da decisão objeto do presente recurso extraordinário.
+    2. Não obstante convicção pessoal, em homenagem ao princípio da colegialidade e considerando o entendimento consolidado no Plenário do Supremo Tribunal Federal apresenta-se procedente o pedido da ação direta de inconstitucionalidade ajuizada perante o Tribunal de Justiça de Santa Catarina.
+    3. Agravo Regimental a que se nega provimento’(RE 1.151.652-AgR/SC, Rel. Min. Edson Fachin, Segunda Turma).
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento para julgar procedente a ação direta de inconstitucionalidade”.
+    Isso posto, julgo prejudicado o presente agravo (art. 485, VI, do Código de Processo Civil e art. 21, IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Arquive-se.
+    Brasília, 21 de outubro de 2019.
+Ministro Ricardo Lewandowski
+Relator
