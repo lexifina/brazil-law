@@ -1,0 +1,31 @@
+Decisão
+    Trata-se de reclamação contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Processo 0010989-81.2017.8.16.0185), que teria violado o decidido no RE 635.688, julgado pela sistemática da repercussão geral.
+    Na inicial, a parte autora alega, em síntese, que: (a) cuida-se, na origem, de “Embargos em face da Execução Fiscal nº 0000659-25.2017.8.16.0185, proposta pelo Estado do Paraná, que visa à cobrança de valores supostamente devidos em função de aproveitamento indevido de créditos de ICMS oriundos de produtos da cesta básica” (doc. 1, fls. 3-4); (b) “o acórdão contra o qual ora se recorre, negou provimento ao recurso de Apelação da empresa”, sob o fundamento de que “se a saída da mercadoria é isenta de ICMS, não se pode aproveitar os créditos relativos às etapas anteriores, inexistindo legislação que dispõe em sentido contrário no Estado do Paraná” (doc. 1, fl. 4); (c) “interpostos recursos especial e extraordinário pela ora Reclamante, estes foram admitidos pela Vice-Presidência do Tribunal. Transcorrido o trâmite no âmbito do STJ, os autos subiram ao Supremo Tribunal Federal, quando o recurso extraordinário não foi conhecido por decisão monocrática, eis que o Excelentíssimo Senhor Ministro Relator entendeu não estar suficientemente demonstrada a repercussão geral da controvérsia, assim como que o julgamento do caso implicaria na necessidade de análise da legislação estadual, o que importa na inadmissão do recurso” (doc. 1, fl. 4); (d) “diante deste quadro, considerando que o acórdão proferido se afastou da orientação fixada pelo Supremo Tribunal Federal no julgamento do  RE 635.688 (Tema 299), pois deixou de aplicar a legislação estadual que determina ao Poder Executivo o cancelamento de eventuais créditos de ICMS relativos a estornos proporcionais decorrentes de diferença de tributação na aquisição de produtos da cesta básica de alimentos – é que se apresenta a presente Reclamação, pelos motivos que se passa a demonstrar” (doc. 1, fl. 4).
+    Pede, ao final, a concessão de medida liminar, “para suspensão do processo originário, que está no STF sob o nº RE 1232939“. No mérito, requer “seja a Reclamação julgada procedente, para que seja cassado o acórdão impugnado, a fim de conferir a devida observância aos motivos determinantes do julgamento do RE 635.688 por este E. STF, que consolidou o entendimento de que havendo previsão legislativa estadual expressa, deve-se reconhecer o direito do contribuinte à manutenção do crédito de ICMS na saída dos produtos da cesta básica, reconhecendo que no Estado do Paraná tal autorização é objeto do art. 2º da Lei 15.467/07, motivo pelo se mostra indevida a autuação fiscal ora combatida” (doc. 1, fl. 11).
+    A presente Reclamação foi distribuída à minha relatoria por prevenção ao RE 1232939.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l , e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Na presente hipótese, o pedido é manifestamente incabível. O acórdão reclamado foi objeto de Recurso Extraordinário, autuado nesta SUPREMA CORTE como RE 1232939, ao qual neguei seguimento, mediante decisão publicada em 2/10/2019.
+     Como se sabe, a reclamação constitucional não pode ser utilizada para rediscutir matéria já decidida por este TRIBUNAL. A impugnação de decisões proferidas por Ministros ou pelos órgãos que compõe o SUPREMO TRIBUNAL FEDERAL, no exercício de suas atribuições, são de competência da própria CORTE, somente podendo ser realizada por interposição de recursos adequados. Neste sentido:
+    Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF.
+    1. Reclamação em que se impugna acórdão do TST que já foi objeto de análise por esta Corte, em agravo em recurso extraordinário.
+    2. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal.
+    3. Agravo interno a que se nega provimento (Rcl 32896 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, DJe de 12/6/2019).
+    Nessas circunstâncias, em que se impugna acórdão do Tribunal de Justiça do Estado de Pernambuco já analisado por esta CORTE, em sede de recurso extraordinário, é inviável a presente reclamação.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 21 de outubro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
