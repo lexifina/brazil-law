@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. INEXISTÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Mostra-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação.
+3. No presente caso, a parte recorrente não conseguiu evidenciar as circunstâncias que identificam ou assemelham os casos confrontados, com o necessário cotejo analítico e a juntada do inteiro teor do acórdão paradigma.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por [NOME] que desafia decisão de minha lavra, proferida às e-STJ fls. 606/609, em que conheci do agravo para não conhecer do recurso especial, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ, considerando que a divergência jurisprudencial não foi demonstrada nos moldes legais e regimentais.
+No presente agravo interno, o agravante sustenta que realizou o cotejo analítico entre o acórdão combatido e o inteiro teor dos trechos do voto condutor do acórdão paradigma.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. INEXISTÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Mostra-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação.
+3. No presente caso, a parte recorrente não conseguiu evidenciar as circunstâncias que identificam ou assemelham os casos confrontados, com o necessário cotejo analítico e a juntada do inteiro teor do acórdão paradigma.
+4. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, observa-se que a decisão recorrida não merece reparos.
+Com efeito, mostra-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente não conseguiu evidenciar as circunstâncias que identificam ou assemelham os casos confrontados, com o necessário cotejo analítico e a juntada do inteiro teor do acórdão paradigma. Desse modo, deixaram de ser atendidos os pressupostos específicos à configuração do dissenso jurisprudencial, preconizados pelo art. 1.029, § 1º, do Código de Processo Civil e pelo art. 255, §§ 1º e 2º, do RISTJ.
+Nesse sentido:
+PROCESSUAL CIVIL. INFRAÇÃO FISCAL. PENA DE PERDIMENTO DE VEÍCULO. INTERNALIZAÇÃO DE MERCADORIAS. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. PROPORCIONALIDADE DA SANÇÃO. REINTERAÇÃO DA CONDUTA DELITUOSA. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Trata-se de Ação Ordinária proposta contra auto de infração que determinou a apreensão e o perdimento do veículo Toyota Caldina de propriedade da recorrente, que foi utilizado por ela para transportar mercadoria estrangeira (quatro pneus) cujo valor de mercado é aproximadamente R$ 449,74, sem a documentação legal.
+2. O Sistema de Comunicação e Protocolo de Processos Administrativos do Ministério da Fazenda Nacional - Comprot possui contra a recorrente o registro de 21 processos de retenção /apreensão por tentativa de internalizar irregularmente pneus.
+3. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+4. A ausência de indicação precisa dos dispositivos infraconstitucionais que teriam sido confrontados caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+5. A Corte regional, após exame minucioso da controvérsia, concluiu que a apreensão e perdimento do veiculo usado no transporte se justifica, tendo em vista que a recorrente era a proprietária e condutora do veículo apreendido. Ademais, há provas de que o automóvel avaliado em R$ 15.000,00 reais era reiteradamente empregado na prática infracional.
+6. O STJ possui entendimento de que rever o decidido no Tribunal a quo quanto à proporcionalidade da pena imposta ao infrator em caso de contrabando/ descaminho de bens encontra óbice na Súmula 7 do STJ.
+7. Recurso Especial não conhecido. (REsp 1.676.168/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 14/09/2017).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
