@@ -1,0 +1,51 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de entorpecente apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, diante do fato de o insurgente ostentar condenação anterior (também por tráfico) e estar em gozo de suspensão condicional da pena, além de haver tentado corromper o agente público que efetuou a sua prisão, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDRÉ DE OLIVEIRA, acusado por tráfico de drogas, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou a ordem lá impetrada, na qual pretendia a revogação da preventiva.
+Alega que o flagrante foi homologado em preventiva sem que houvesse nenhuma motivação concreta que justificasse a medida excepcional. Por isso, requer a revogação da medida extrema.
+Indeferida a liminar (fls. 148-149) e prestadas as informações (155-168), veio o parecer do Ministério Público Federal (fls. 170-175), que opinou pelo não provimento do recurso.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de entorpecente apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, diante do fato de o insurgente ostentar condenação anterior (também por tráfico) e estar em gozo de suspensão condicional da pena, além de haver tentado corromper o agente público que efetuou a sua prisão, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Extrai-se dos autos que o paciente foi preso em flagrante, no dia 7/6/2019, pela suposta prática do delito de tráfico de drogas. Em 9/6/2019, o Juízo de primeiro grau converteu a prisão em flagrante em custódia preventiva, sob a seguinte motivação:
+ ..
+A situação de flagrância restou configurada nos termos do artigo 302, inciso I, do Código de Processo Penal, uma vez que o autuados foi surpreendido por policiais militares, em via pública, levando consigo 4,4g de substância com aparência de cocaína e 6,8g de substância com aparência de crack, divididas em invólucros para comercialização, além de R$ 337,15 em moeda corrente.
+ ..
+A materialidade do delito de tráfico encontra-se presente, conforme auto de apreensão, bem como laudo de constatação provisória, além dos depoimentos prestados pelos policiais militares que efetuaram a prisão, dando conta de que receberam informações acerca do tráfico por parte de André através do aplicativo WhatsApp, tendo confirmado a situação em patrulhamento. Ao chegarem ao local dos fatos, um indivíduo que estava próximo a André fugiu, ao avistar a viatura, tendo André dispensado um objeto, que constataram ser um pacote contendo drogas embaladas para venda, além de dinheiro. Note-se que a quantidade da droga apreendida e a forma de acondicionamento, bem como a apreensão de razoável quantidade de dinheiro, sem ter sido apreendido qualquer apetrecho para o uso, fazem presumir a destinação mercantil da droga apreendida.
+ ..
+Evidencia-se essa necessidade, outrossim, em decorrência da suposta tentativa de suborno do policial que efetuou a prisão, segundo o qual lhe foi oferecido o valor apreendido, mais R$ 500,00 até a próxima quarta-feira, para que não efetuasse a prisão. Embora não tenha sido trazido aos autos, por ora, o policial mencionou ter gravado a oferta, o que deverá ser observado no inquérito policial, não havendo razão, até o momento, no presente feito, para desacreditar a palavra do agente público. E a tentativa de corromper o agente público é fundamento para a prisão preventiva para garantia da lisura da persecução criminal, já que o autuado demonstrou que pretende fazer uso inclusive de expedientes ilegais para se livrar da aplicação da lei penal.
+Inviável, outrossim, a fixação de medidas cautelares diversas da prisão, tendo em vista que a certidão de antecedentes do autuado revela que o mesmo estava em cumprimento de suspensão condicional da pena, por condenação definitiva anterior, demonstrando que desrespeitou condições judiciais que lhe foram impostas para gozo do benefício.
+Tais circunstâncias indicam seriamente que o acusado não apresenta condições de viver pacificamente em sociedade e que não seria suficiente para garantia da ordem pública a fixação de outras medidas cautelares diversas da prisão.
+Ante o exposto, presentes as hipóteses autorizadoras da segregação provisória do artigo 312 do Código de Processo Penal, afigurando-se necessária para garantir a ordem pública e a paz social, converto a prisão em flagrante de ANDRÉ DE OLIVEIRA em prisão preventiva (fls. 32-34, destaquei).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem, pelos seguintes motivos:
+ ..
+Não bastasse isso, o paciente é reincidente pela prática de lesões corporais e possui condenação (não transitada em julgado) justamente por tráfico de drogas, o que indica não ser esta a sua primeira incursão no universo criminoso.
+Por conseqüência, é fundado o receio de que, em sendo posto em liberdade, encontrando os mesmos estímulos existentes antes da prisão, o paciente não se afaste da prática criminosa e acabe por reiterar; então, sendo o tráfico um crime grave, de notória nocividade ao bem-estar social, a hipótese legal da garantia da ordem pública fundamenta validamente o decreto excepcional, não se mostrando suficiente qualquer medida alternativa ao cárcere (fl. 94, grifei).
+De acordo com as informações prestadas pelo Juízo de primeiro grau, em 31/7/2019 foi determinada a notificação do réu.
+Em consulta à página eletrônica do Tribunal de origem, o gabinete verificou que a audiência de instrução foi designada para 25/10/2019.
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Na hipótese, conquanto não seja elevada a quantidade de entorpecente apreendida (4,4 g de cocaína e 6,8g de crack), são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, diante do fato de o insurgente ostentar condenação (também por tráfico) e estar em gozo de suspensão condicional da pena, além de haver tentado corromper o agente público que efetuou a sua prisão, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+Ilustrativamente:
+ ..
+2. É idônea a motivação invocada para embasar a ordem de prisão do acusado, ao evidenciar o fundado risco de reiteração delitiva, visto que, além de registrar passagens criminais anteriores - até mesmo condenações -, praticou novo delito após ser beneficiado com a liberdade provisória na ação penal objeto deste writ.
+3. Ordem denegada.
+(HC n. 509.371/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/8/2019, grifei)
+Da mesma forma, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+Nesse sentido:
+ ..
+V - Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública.
+Agravo Regimental desprovido.
+(AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018, destaquei)
+À vista do exposto, nego provimento ao recurso.
