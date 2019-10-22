@@ -1,0 +1,25 @@
+Decisão: Trata-se de de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (eDOC 13, p. 84/85):
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. OFICIAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL. REUNIÃO DOS PROCESSOS. AÇÃO JÁ JULGADA. RISCO DE DECISÕES CONFLITANTES. AFASTADO. CONEXÃO NÃO RECONHECIDA. NULIDADE DE QUESTÃO. CONTEÚDO PREVISTO EM EDITAL. REVISÃO DE NOTA. IMPOSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. SENTENÇA REFORMADA.
+    1. Trata-se de apelação interposta em face de sentença que concedeu a segurança para declarar a nulidade da questão n. 22 da prova objetiva de conhecimentos gerais, tipo “A”, do concurso público para provimento do Posto de Oficial da Polícia Militar do Distrito Federal e determinar que, em caso de aprovação, o impetrante prossiga nas demais fases do certame.
+    2. Verificada a conexão entre duas causas, o magistrado pode, de ofício ou a requerimento das partes, determinar a reunião dos processos para julgamento conjunto (art. 55, §1º, CPC).
+    3. Alinhando-se à jurisprudência do Superior Tribunal de Justiça (Súmula 235), o atual Código de Processo Civil ressalvou a reunião de processos, ainda que conexos, nos casos em que um deles já tiver sido julgado.
+    4. In casu, o processo apontado como conexo já foi devidamente julgado, inclusive com o trânsito em julgado do , o que afasta a possibilidade de decisões conflitantes, de modo que não deve ser decisum reconhecida a conexão.
+    5. Em sede de repercussão geral, o Supremo Tribunal Federal fixou entendimento no sentido de não ser da competência do Poder Judiciário, em sede de controle de legalidade, substituir os critérios estabelecidos pela banca examinadora no que concerne à avaliação das respostas oferecidas pelos candidatos de concurso público.
+    6. Ante a ausência de ilegalidade ou abuso de poder, não há se falar em nulidade da questão n. 22 da prova objetiva de conhecimentos gerais, tipo “A”, do concurso público para provimento do Posto de Oficial da Polícia Militar do Distrito Federal, em virtude do entendimento já firmado pelo Supremo Tribunal Federal em sede de repercussão geral.
+    7. Reexame necessário/apelação conhecidos e providos.”
+    Os embargos de declaração foram parcialmente providos, “para suprir uma das omissões apontadas, sem modificar o resultado do julgamento.” (eDOC 14, p. 12)
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, caput, da Constituição Federal.
+    Nas razões recursais, sustenta-se que (eDOC 14, p. 81/82):
+    “90. No voto vencedor do acórdão de 21 de fevereiro de 2018, proferido pelo Excelentíssimo Desembargador Relator Sandoval Oliveira, foi consignado o argumento de que “apenas uma das alternativas apresentava comando não previsto no referido diploma legal, o que possibilita identificar, por exclusão, o item que contempla a disposição vetada pelo Poder Executivo.” – documento de Id. 3385703, às fls. 457-460, mais precisamente à fl. 460.
+    91. Ocorre que, de forma alguma é ou seria obrigação do RECORRENTE “identificar”, na referida questão, “o item que contempla a disposição vetada pelo Poder Executivo.” e, muito menos, fazê-lo “por exclusão”.
+    92. No Anexo I do Edital DGP/PMDF nº 35/2016, precisamente em seu Item 4, apenas a Lei nº 12.086/2009 é consignada como conteúdo programático do certame. Por óbvio, eventuais matérias não expressamente registradas no Edital DGP/PMDF nº 35/2016 e cobradas nas questões dessas provas como parte desse conteúdo hão de ser constatadas como questões sumariamente anuláveis, por evidente contrariedade à legalidade em matéria administrativa e ao seu corolário da vinculação aos termos do edital.”
+    A Presidência do TJ/DFT inadmitiu o extraordinário mediante aplicação da Súmula 280 do STF. (eDOC 15, p. 22/23)
+    É o relatório. Decido.
+    Verifica-se que o Supremo Tribunal Federal, ao analisar o RE 632.853-RG, Relator Ministro Gilmar Mendes (tema 485), reconheceu a existência de repercussão geral da controvérsia em debate. Ao apreciar o mérito, o Plenário proferiu acórdão cuja ementa restou assim redigida:
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.” (RE 632853-RG, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJ 29.6.2015)
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 22 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
