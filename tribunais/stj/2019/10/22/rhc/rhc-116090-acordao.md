@@ -1,0 +1,72 @@
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. DELITOS DE MÍNIMA OFENSIVIDADE. CRIME PRATICADO SEM VIOLÊNCIA OU GRAVE AMEAÇA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. RATIFICADA A LIMINAR.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a decisão que impôs a prisão preventiva destacou que o recorrente, à época do fato em tela, encontrava-se em liberdade provisória. Assim, demonstrada a gravidade da conduta.
+3. Não obstante, mostra-se desproporcional a custódia cautelar, pois o delito anterior em tese praticado foi de furto simples, na sua forma tentada. Logo, em se tratando de delitos de mínima ofensividade, praticados sem emprego de violência ou grave ameaça, ainda que, como visto no relatório, o Ministério Público estadual tenha oferecido denúncia contra o ora recorrente, após a decretação de sua prisão, pela suposta prática do crime tipificado no art. 155, § 1º e § 4º, II, do Código Penal, entendo que as circunstâncias do caso em tela justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+4. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319 do Código de Processo Penal, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, do CPP.
+5. Recurso parcialmente provido, ratificada a liminar, para substituir a prisão preventiva por medidas cautelares diversas da prisão a serem fixadas pelo Juízo singular.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso nos termos do voto da Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o recorrente foi preso em flagrante, em 3/5/2019, custódia essa convertida em preventiva, pela prática, em tese, do delito inscrito no art. 155 do Código Penal (e-STJ fl. 24).
+Narram os autos que o ora recorrente furtou uma caixa de ferramentas (e-STJ fl. 25).
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 78):
+HABEAS CORPUS - FURTO - PACIENTE JÁ BENEFICIADO PELA LIBERDADE PROVISÓRIA ANTERIORMENTE - QUEBRA DE COMPROMISSO - COMETIMENTO, EM TESE, DE NOVO DELITO - PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA CONSTRITIVA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva ante a falta de fundamentação idônea da decisão que a decretou (e-STJ fl. 91).
+Aduz ser desproporcional a prisão em razão do regime a ser aplicado se porventura sobrevier condenação (e-STJ fl. 93).
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal (e-STJ fl. 94).
+O pedido liminar foi deferido para substituir a prisão preventiva por medidas cautelares diversas (e-STJ fls. 104/109).
+Parecer ministerial pelo provimento do recurso, ementado nos seguintes termos (e-STJ fl. 118):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. CRIME DE FURTO SIMPLES (ART. 155 DO CP). PRISÃO PREVENTIVA. REQUISITOS DO ART. 312 DO CPP NÃO ATENDIDOS. NÃO DEMONSTRAÇÃO DO PERICULUM LIBERTATIS. MEDIDA DESPROPORCIONAL. CABIMENTO DE MEDIDAS CAUTELARES DIVERSAS CONSTANTES DO ART. 319 DO CPP. PARECER PELO PROVIMENTO DO RECURSO.
+Cumpre esclarecer que, das informações prestadas pelo Juízo da 1ª Vara Criminal da Comarca de Barbacena/MG, verifica-se que o Ministério Público do Estado de Minas Gerais ofereceu denúncia contra o ora recorrente, em 21/5/2019, pela suposta prática do crime tipificado no art. 155, § 1º e § 4º, II, do Código Penal (e-STJ fl. 128).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto da presente impetração cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao recorrente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus comissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, inciso LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No presente caso, a segregação cautelar foi decretada nos seguintes termos (e-STJ fls. 24/27):
+Em cumprimento ao disposto no artigo 306 do CÓDIGO DE PROCESSO PENAL, comunica a AUTORIDADE POLICIAL LOCAL a prisão de [NOME] CÉSAR, qualificado alhures, ocorrido nesta CIDADE E COMARCA, na manhã do dia 03 de maio de 2019, informando autuar o referido indivíduo pela prática do crime previsto no art. 155, "caput" do CÓDIGO PENAL, encaminhando inclusive o auto de prisão em flagrante.
+ ..
+-Em apreciação formal, inexistem irregularidades por considerar: apresentado a autoridade policial foi o preso cuidando a mesma autoridade de ouvir o condutor, as testemunhas, a vítima e o próprio preso, expedindo-se a nota de cuba na forma legal, sendo a prisão comunicada ao juízo competente, remetendo-se o auto de prisão em flagrante;
+-Os fatos narrados amolda-se perfeitamente em figuras típicas descritas no CÓDIGO PENAL;
+-O preso foi apanhado com a RES FURTIVA no interior de sua residência, no quarto do autuado, em situação tal que autoriza presumir ser ele o autor do delito;
+ASSIM,
+não há que se falar em prisão ilegal, acrescentando-se que a AUTORIDADE POLICIAL e seus agentes têm o dever de prender quem se encontra em flagrante delito, não sendo obstáculo para tanto o princípio da presunção da inocência consagrado na CARTA MAGNA.
+Assim sendo revela exame acurado do APFD a necessidade da conversão da sua prisão em flagrante em preventiva.
+PARA TANTO, verifica-se que:
+-não há neste duvidas quanto a existência do crime, havendo indícios suficientes de autoria, considerando os depoimentos colhidos junto as testemunhas condutor e a situação de flagrância em que foi o preso apanhado;
+-extrai-se da CAC e FAC ser o autuado primário;
+-conceitua-se ordem pública como a tranqüilidade e a paz no meio social, incluindo as providências para resguardar as instituições, sua credibilidade social e a confiança da população nos mecanismos de opressão. Assim a custódia no autuado se faz necessária para a incolumidade da ordem pública e refrear a intranquilidade social.
+DESTARTE, diante dos pontos elencados, é inegável a necessidade do encarceramento provisório para garantia da ordem pública.
+ ..
+ISTO POSTO,
+COM FULCRO NO INCISO II DO ARTIGO 310 DO CÓDIGO PROCESSO PENAL,
+CONVERTO
+A PRISÃO EM FLAGRANTE DE [NOME] CÉSAR DE [NOME], QUALIFICADO ALHURES. EM PRISÃO PREVENTIVA, EIS QUE PRESENTES OS REQUISITOS E PRESSUPOSTOS ESTABELECIDOS NOS ARTIGOS 312 E 313 DO ESTATUTO PROCESSUAL PENAL, BEM ASSIM REVELAREM INADEQUADAS E INSUFICIENTES AS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO.
+Formulado pedido de revogação da prisão, essa foi mantida nos seguintes termos (e-STJ fl. 19):
+CONSIDERANDO que o requerente possui conduta propensa a atividade criminosa, inclusive, especificamente relacionada ao delito de furto, bem como que, tendo sido expedido alvará de soltura na data de 28 de fevereiro do corrente ano em favor do mesmo, poucos meses depois já voltou a delinquir;
+Não obstante, ao examinar os trechos acima transcritos, entendo que a fundamentação apresentada, embora demonstre o periculum libertatis, é insuficiente para a imposição da prisão cautelar ao recorrente.
+Como é cediço, a custódia cautelar é providência extrema, que, como tal, somente deve ser ordenada em caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do Diploma Processual Penal, segundo o qual "a prisão preventiva será determinada quando não for cabível a sua substituição por outra medida cautelar (art. 319)".
+Nos dizeres de [NOME], "a medida alternativa somente deverá ser utilizada quando cabível a prisão preventiva, mas, em razão da proporcionalidade, houver outra restrição menos onerosa que sirva para tutelar aquela situação.  ..  As medidas cautelares diversas da prisão devem priorizar o caráter substitutivo, ou seja, como alternativas à prisão cautelar, reservando a prisão preventiva como último instrumento a ser utilizado" ([NOME] JR., [NOME]. Direito Processual Penal. 10. ed. São Paulo: Saraiva, 2013, p. 86).
+Consoante se extrai dos autos, o recorrente foi flagrado cometendo, em tese, delito de furto simples, e a decretação de sua prisão preventiva teve como fundamento a necessidade de preservar a ordem pública em razão de estar em liberdade provisória quando do fato em tela.
+Entretanto, o delito anterior em tese praticado foi de furto simples, na sua forma tentada (e-STJ fl. 44).
+Logo, em se tratando de delitos de mínima ofensividade, praticados sem emprego de violência ou grave ameaça, ainda que, como visto no relatório, o Ministério Público do Estado de Minas Gerais tenha oferecido denúncia contra o ora recorrente, após a decretação de sua prisão, pela suposta prática do crime tipificado no art. 155, §§ 1º e 4º, II, do Código Penal, entendo que as circunstâncias do caso em tela justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. FURTO SIMPLES TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. TEMA NÃO ENFRENTADO PELA CORTE DE ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PRISÃO CAUTELAR. SUPRESSÃO DE INSTÂNCIA. PATENTE ILEGALIDADE. FUNDAMENTAÇÃO INSUFICIENTE. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+ ..
+4. In casu, em que pese ter o magistrado invocado elementos concretos na decisão que converteu a prisão em flagrante em preventiva "no que se afere da CAC de fls. 45/53 o autuado não apenas responde por inúmeros processos e inquéritos de crimes contra o patrimônio, como também encontrava-se em execução de pena no regime semiaberto, o que não se mostrou suficiente para impedir a reiteração delitiva do agente, demonstrando a necessidade de atuação enérgica estatal", não há como desconsiderar o crime em apreço - furto tentado de 3 barras de chocolate -, que evidencia a desproporcionalidade da segregação preventiva.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, confirmada a liminar, para que a paciente possa aguardar em liberdade o julgamento da ação penal, se por outro motivo não estiver preso, sem prejuízo de que o juízo a quo, de maneira fundamentada, examine se é caso de aplicar uma das medidas cautelares implementadas pela Lei n.º 12.403/11, ressalvada, inclusive, a possibilidade de decretação de nova prisão, caso demonstrada sua necessidade. (HC 388.225/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/03/2017, DJe 04/04/2017.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. FURTO SIMPLES. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. CONDUTA REITERADA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. Na espécie, em que pese a fundamentação declinada nas decisões anteriores (risco de reiteração), a prisão cautelar não se mostra imprescindível, pois a própria Autoridade Policial, à época do flagrante, entendeu não haver o periculum libertatis e propôs a aplicação de medida diversa do cárcere, no caso, a fiança. Além disso, o paciente se encontra preso desde 7/8/2017, há quase 4 meses, e o crime não envolveu violência ou grave ameaça. Precedentes.
+6. Habeas corpus não conhecido. Ordem concedida de ofício para revogar a prisão preventiva do paciente, ressalvada a possibilidade de aplicação de medidas cautelares previstas no art. 319 do CPP. (HC 420.833/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/12/2017, DJe 13/12/2017.)
+Essas considerações analisadas em conjunto levam-me a crer ser desproporcional a imposição da prisão preventiva, revelando-se mais adequada a imposição de medidas cautelares alternativas, em observância à regra de progressividade das restrições pessoais, disposta no art. 282, §§ 4º e 6º, do Código de Processo Penal, ao determinar, expressa e cumulativamente, que apenas em último caso será decretada a custódia preventiva e ainda quando não for cabível sua substituição por outra cautelar menos gravosa.
+Como bem salientou o douto representante ministerial em seu parecer lavrado à e-STJ fl. 120, "infere-se que a adoção da medida em apreço mostra-se desproporcional, uma vez que a decisão atacada não fundamentou adequadamente o risco à ordem pública, concluindo abstratamente pela periculosidade do réu. E essa Corte Superior entende que a constrição cautelar só poderá ser conservada desde que a decisão sufragada funde-se em elementos concretos do ilícito penal cometido e sua repercussão".
+Na espécie, insta salientar que o magistrado que conduz o feito em primeiro grau, por estar próximo aos fatos, possui maiores condições de decidir quais medidas são adequadas ao recorrente.
+Ante o exposto, dou parcial provimento ao recurso para, confirmando a medida liminar, substituir a custódia preventiva de [NOME] CÉSAR DE [NOME] por outras medidas cautelares constantes do art. 319 do Código de Processo Penal a serem definidas pelo Juízo local.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
