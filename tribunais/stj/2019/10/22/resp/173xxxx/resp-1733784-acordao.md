@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO NÃO UNÂNIME, PUBLICADO APÓS 18/3/2016. EMBARGOS INFRINGENTES. DESCABIMENTO.
+1. Na vigência do novo Código de Processo Civil, não há previsão para os embargos infringentes, que, conforme a disposição do art. 530 do CPC/1973, tinham cabimento quando o acórdão não unânime houvesse reformado, em grau de apelação, sentença de mérito ou julgado procedente ação rescisória.
+2. O Plenário do STJ, na sessão do dia 9/3/2016, estabeleceu que, quanto aos recursos, a lei aplicável é aquela vigente na data da publicação da decisão impugnada, porque, apenas nesse instante, o sucumbente passa a ter ciência exata dos fundamentos da decisão que pretende combater.
+3. Publicada a decisão antes de 18/3/2016 - início da vigência da Lei n. 13.105/2015 -, aplica-se a regra do Código de Processo Civil de 1973; no dia 18/3/2016 ou posteriormente, incide a determinação do Código de Processo Civil de 2015.
+4. No caso, o acórdão que julgou a apelação foi considerado publicado em 21/3/2016, e a Procuradoria Federal teve vista dos autos em 19/4/2016. Assim, a publicidade do julgado aconteceu na vigência do CPC/2015, quando não mais existiam os embargos infringentes.
+5. Recurso especial a que se dá provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+Dr. [NOME], pela parte recorrente: SINTESPB Sindicato dos Trabalhadores em Ensino Superior da Paraíba.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto por Sindicato dos Trabalhadores em Ensino Superior do Estado da Paraíba - SINTESPB contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+Processual Civil. Agravo Interno interposto ante decisão que admitiu os embargos infringentes. Intempestividade dos embargos. Inocorrência. Cabimento e Admissibilidade dos embargos infringentes. Entendimento dos enunciados administrativos nº 2 e 3, do STJ. Agravo improvido.
+O recorrente aponta violação dos arts. 14, 1.045 e 1.046 do CPC/2015. Aduz que, nos termos do Enunciado Administrativo n. 1/2016 do STJ, desde 18/3/2016, os atos processuais praticados devem observar os proposições da Lei n. 13.105/2015, que não mais prevê a existência dos embargos infringentes.
+Argumenta que o marco para a aplicação da lei mais recente não pode ser a data da sessão de julgamento. No seu entendimento, publicado o acórdão e intimada a parte na vigência do CPC/2015, é esta a lei que deve ser aplicada.
+Contrarrazões apresentadas às e-STJ, fls. 657/670.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (RELATOR): O presente recurso merece prosperar.
+Consoante o disposto no art. 994 do CPC/2015, são cabíveis os recursos de apelação, agravo de instrumento, agravo interno, embargos de declaração, recurso ordinário, recurso especial, recurso extraordinário, agravo em recurso especial ou extraordinário e embargos de divergência.
+Na vigência do novo Código de Processo Civil, portanto, não há previsão para os embargos infringentes, que, conforme a disposição do art. 530 do CPC/1973, tinham cabimento quando o acórdão não unânime houvesse reformado, em grau de apelação, sentença de mérito ou julgado procedente ação rescisória.
+Por outro lado, o Plenário do Superior Tribunal de Justiça, na sessão do dia 9/3/2016, estabeleceu que, quanto aos recursos, a lei aplicável é aquela vigente na data da publicação da decisão impugnada, porque, apenas nesse instante, o sucumbente passa a ter ciência exata dos fundamentos da decisão que pretende combater.
+Nesse sentido, foi editado o Enunciado Administrativo n. 3 com a seguinte redação: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Assim, se publicado a decisão antes de 18/3/2016 - início da vigência da Lei n. 13.105/2015 -, aplica-se a regra do Código de Processo Civil de 1973; se no dia 18/3/2016 ou posteriormente, incide a determinação do Código de Processo Civil de 2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE MÉRITO MANTIDA, PELO TRIBUNAL DE ORIGEM, POR MAIORIA, NO JULGAMENTO DE APELAÇÃO DO ORA AGRAVANTE. EMBARGOS INFRINGENTES CONSIDERADOS INCABÍVEIS, PELO TRIBUNAL A QUO. ART. 530 DO CPC/73. AUSÊNCIA DE SOBRESTAMENTO DO PRAZO, PARA INTERPOSIÇÃO DE RECURSO ESPECIAL. INTEMPESTIVIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO
+I. Na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater. Tal compreensão restou sumariada no Enunciado Administrativo 2/STJ ("Aos recursos interpostos com fundamento no CPC/1973 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça"). No caso, o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, devendo, portanto, à luz do aludido diploma processual, ser analisados os requisitos de sua admissibilidade.
+ ..
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.258.723/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/6/2019, DJe 28/6/2019)
+ADMINISTRATIVO. DIREITO À SAÚDE. FORNECIMENTO DE TRATAMENTO ESSENCIAL À SAÚDE DO INDIVÍDUO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO.
+I - Não se aplica ao caso o enunciado n. 207 da Súmula do STJ, pois, quando da publicação do acórdão que rejeitou os embargos, já estava vigente o CPC/2015, razão pela qual era incabível a oposição dos embargos infringentes.
+ ..
+V - Agravo interno improvido.
+(AgInt no REsp 1.634.111/MG, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/3/2018, DJe 26/3/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA JULGADA PROCEDENTE, PELO TRIBUNAL DE ORIGEM, POR MAIORIA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73. INAPLICABILIDADE DO CPC/2015. EMBARGOS INFRINGENTES. ART.530 DO CPC/73. AUSÊNCIA DE INTERPOSIÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. INCIDÊNCIA DA SÚMULA 207/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 18/10/2016, que, por sua vez, julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Observando o disposto na Lei 810/49 e na Lei Complementar 95/98, o Plenário do Superior Tribunal de Justiça, na sessão realizada dia 02/03/2016 (Ata de Julgamento publicada em 08/03/2016), por unanimidade, aprovou o Enunciado Administrativo 01, firmando posição no sentido de que a vigência do novo Código de Processo Civil, instituído pela Lei 13.105, de 16/03/2015, iniciou-se em 18 de março de 2016.
+III. De igual modo, na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ também sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater. Com efeito, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2/2016, do STJ).
+IV. Interposto o Recurso Especial em 01/07/2013, contra acórdão publicado na vigência do CPC/73, os seus pressupostos de admissibilidade devem ser apreciados à luz do referido diploma processual, e não do CPC/2015, como se pretende.
+V. No caso, o Tribunal de origem julgou procedente Ação Rescisória movida contra o Estado do Píaui, por maioria de votos, incidindo o disposto no art. 530 do CPC/73: "Cabem embargos infringentes quando o acórdão não unânime houver reformado, em grau de apelação, a sentença de mérito, ou houver julgado procedente ação rescisória". Deixou o ora agravante, porém, de interpor Embargos Infringentes, na origem, deixando de exaurir a instância ordinária.
+VI. Incidência da Súmula 207/STJ: "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem".
+VII. Agravo interno improvido.
+(AgInt no AgRg no REsp 1.414.962/PI, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/2/2017, DJe 8/3/2017)
+No caso, conforme a certidão de e-STJ, fl. 554, o acórdão que julgou a apelação foi considerado publicado em 21/3/2016, e a Procuradoria Federal teve vista dos autos em 19/4/2016. Assim, a publicidade do julgado aconteceu na vigência do CPC/2015, quando não mais existiam os embargos infringentes.
+Por esse motivo, deve ser reformado o acórdão, que entendeu aplicável a regra do CPC/1973, tomando em conta a data do julgamento (10/12/2015).
+Ante o exposto, dou provimento ao recurso especial para considerar incabíveis os embargos infringentes.
+É como voto.
