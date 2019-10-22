@@ -1,0 +1,24 @@
+Despacho:
+    Vistos.
+    A Presidência da Corte determinou a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral (Recurso Extraordinário n. 677.725, Tema n. 554: repercussão geral reconhecida).
+    Os autos retornaram a esta Corte com petição interposta por Posto Cidade Ltda., na qual se alega que
+    “O Supremo Tribunal Federal proferiu, no RE 1190378, decisão determinando o sobrestamento do feito em virtude do tema nº 554 e a remessa dos autos a este Tribunal.
+    (...)
+    Ocorre que, conforme denota-se da exordial dos autos em epígrafe, nestes autos busca-se o reconhecimento da ilegalidade do art. 2° do Decreto n° 6.957/2009 que alterou o Anexo V do Regulamento da Previdência Social relativamente ao reenquadramento dos riscos de acidentes de trabalho dos setores de atividade do RAT/SAT, sem observar os requisitos expressos no § 3° do art. 22 da Lei n° 8.212/91.
+    Ainda, conforme consta expressamente no recurso de apelação interposto, a discussão acerca do efeito multiplicador do FAP, em razão do índice que foi apurado para a empresa, que será multiplicado à alíquota do RAT, não é objeto de discussão da presente ação.
+    Diante do equívoco, a Impetrante tentou realizar o protocolo de Embargos de Declaração (tempestivos) junto ao STF. No entanto, não foi possível realizar o protocolo, uma vez que o Tribunal, antes mesmo de esgotar o prazo para embargos, remeteu o Recurso Extraordinário para este Tribunal. ”
+    Examinados os autos, decido.
+    Razão jurídica não assiste à peticionante.
+    Destaco, desde logo, parágrafo do tópico da petição do recurso extraordinário no qual a própria parte recorrente fundamenta a existência de repercussão geral da controvérsia suscitada nesta causa:
+    “No presente Recurso Extraordinário a existência deste requisito essencial é manifesta, eis que já reconhecida sua repercussão geral pelo Supremo Tribunal Federal, no Tema STF n° 554, leading case n° 677.725 (Fixação de alíquota da contribuição ao SAT a partir de parâmetros estabelecidos por regulamentação do Conselho Nacional de Previdência Social).”
+    Pelo Código de Processo Civil vigente desde 18/3/2016, disciplinou-se o sistema processual da repercussão geral, em harmonia com o entendimento do Supremo Tribunal Federal.
+    Submetido o recurso paradigma ao Plenário Virtual, este Supremo Tribunal pode: a) recusá-lo por ausência de repercussão geral e devolver os demais recursos aos Tribunais de origem, que a eles deverão negar seguimento (art. 1.030, inc. I, al. a, do Código de Processo Civil); b) reconhecer a existência da repercussão geral e devolver os demais recursos aos Tribunais de origem, para serem sobrestados e aguardarem o julgamento de mérito pelo Supremo Tribunal Federal (art. 1.030, inc. III, do Código de Processo Civil); ou c) reconhecer a repercussão geral e julgar o mérito do recurso, devolvendo os demais recursos aos Tribunais de origem, que a eles negarão seguimento ou exercerão juízo de retratação, conforme o caso (art. 1.030, incs. I, al. a, e II, do Código de Processo Civil).
+    As possibilidades descritas compõem a sistemática da repercussão geral. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da irrecorribilidade do ato (decisão ou despacho) de devolução dos autos aos Tribunais de origem para os fins previstos na legislação processual e referentes ao instituto da repercussão. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. OBSERVÂNCIA DO ART. 543-B DO CPC/73. ATO JUDICIAL SEM CUNHO DECISÓRIO. IRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. I - A jurisprudência desta Corte consolidou-se no sentido de que é incabível recurso contra decisão que determina a devolução dos autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, haja vista não possuir conteúdo decisório nem se revestir de lesividade. Precedentes. II – Agravo regimental não conhecido” (RE n° 566.808/RJ-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 11/4/18).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL RECONHECIDA. DESISTÊNCIA DO RECURSO PARADIGMA. FUTURA SUBSTITUIÇÃO. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DO ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. IDENTIDADE MATERIAL: IRRECORRIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO CONHECIDO” (RE n. 784.034/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 24/6/14).
+    Nada havendo a prover quanto às alegações da Peticionária, mantenho o despacho de devolução dos autos à origem pela sistemática da repercussão geral (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de outubro de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
