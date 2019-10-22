@@ -1,0 +1,21 @@
+DECISÃO
+MANDADO DE SEGURANÇA – CONSELHO NACIONAL DE JUSTIÇA – ATO DE CONTEÚDO NEGATIVO – DECISÃO JUDICIAL – DESCUMPRIMENTO – ALEGAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor William Akerman Gomes prestou as seguintes informações:
+    Dayse Maria Maciel Camargo impugna ato do Conselho Nacional de Justiça praticado em pedido de providências a versar provimento de serventia extrajudicial do Estado de Santa Catarina.
+    Segundo narra, o procedimento administrativo foi deflagrado por si, sob o argumento da ilegalidade da transmissão do acervo de cartório, em descumprimento à liminar implementada por Vossa Excelência, no mandado de segurança nº 28.545, mediante a qual suspenso o concurso público relativo aos Editais nº 84/2007 e 11/2009 do Tribunal de Justiça local.
+    Sublinha arquivado o processo pelo Órgão de controle, ante a judicialização prévia da questão. Assinala incorreto o ato atacado e diz ter postulado providências no Conselho em virtude do desrespeito à medida acauteladora.
+    Requereu, no campo precário e efêmero, a suspensão dos efeitos da decisão proferida no procedimento administrativo. Busca, alfim, a confirmação da liminar e o implemento da ordem para declarar a ilegalidade do provimento da serventia ou, sucessivamente, determinar o prosseguimento do referido processo.
+    Vossa Excelência indeferiu a tutela provisória.
+    O impetrado, nas informações, aponta o acerto do pronunciamento impugnado e destaca a formalização do mandado de segurança nº 28.545/DF, a indicar a judicialização da matéria.
+    A Procuradoria-Geral da República, em parecer, opina pelo indeferimento da ordem.
+    Consulta ao sítio do Supremo revelou ocorrido o trânsito em julgado do pronunciamento formalizado no processo nº 28.545/DF, mediante a qual negado seguimento à impetração e tornada sem efeito a tutela provisória de urgência deferida.
+    2. Atentem para as balizas retratadas. A impetração volta-se contra decisão por meio da qual o Conselho Nacional de Justiça deixou de apreciar o mérito de pedido de providências, afirmando estar a matéria submetida à análise deste Tribunal.
+    A partir de critérios de Direito estrito, compete ao Supremo processar e julgar os mandados de segurança impetrados contra atos das autoridades e órgãos citados no artigo 102, inciso I, alíneas “d” e “r”, da Constituição Federal. Considerada essa premissa, o pronunciamento mediante o qual determinado o arquivamento do procedimento administrativo, de cunho negativo, não inaugura a jurisdição do Tribunal, uma vez que o exame da ação mandamental, nessa situação, implica a revisão de decisão proferida pela instância submetida a controle do Conselho – no caso o Tribunal de Justiça local.
+    Observem os precedentes em que fixada a orientação. No mandado de segurança nº 26.749, o ministro Sepúlveda Pertence concluiu surgir a competência constitucional do Supremo apenas quando o Conselho Nacional de Justiça é o responsável pela alegada lesão ou ameaça a direito, o que não se verifica se a decisão impugnada não substituiu ato ou omissão dos tribunais fiscalizados. O entendimento foi pacificado pelo Plenário, em 9 de junho de 2011, no julgamento do agravo interno no mandado de segurança nº 27.712, relator o ministro Celso de Mello. Na ocasião, fez ver Sua Excelência:
+    O pronunciamento do Conselho Nacional de Justiça que consubstancie recusa de intervir em determinado procedimento ou, então, que envolva mero reconhecimento de sua incompetência ou, ainda, que nada determine, que nada imponha, que nada avoque, que nada aplique, que nada ordene, que nada invalide, que nada desconstitua não faz instaurar, para efeito de controle jurisdicional, a competência originária do Supremo Tribunal Federal.
+    Relativamente ao pleito sucessivo, voltado à ultrapassagem da barreira de admissibilidade, para que o Órgão avance, revela-se inadequada a via eleita. Possível descumprimento da liminar do Supremo não se resolve na seara do Conselho.
+    3. Nego seguimento ao mandado de segurança, observado o artigo 21, § 1º, do Regimento Interno do Supremo.
+    4. Publiquem.
+Brasília, 22 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
