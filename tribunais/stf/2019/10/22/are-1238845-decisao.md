@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE. RESTITUIÇÃO DO ICMS PAGO A MAIOR. POSSIBILIDADE. POSIÇÃO FIRMADA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. ART. 1.039 DO NOVO CPC. AUSÊNCIA DE COMPROVAÇÃO. MANUTENÇÃO DA DECISÃO POR OUTRO FUNDAMENTO.
+    I) Com base no entendimento recentemente firmado pelo Supremo Tribunal Federal, ‘é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços – ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida’(tema 201).
+    II) Não se permitir a devolução do imposto recolhido antecipadamente a maior quando a venda posterior for inferior ao que fora presumido viola o princípio constitucional da não-cumulatividade, que se exterioriza através do direito de compensação, previsto no art. 155, § 2°, inc. I da Constituição vigente, erigido a direito subjetivo do contribuinte.
+    III) Caso em que a embargante não logrou comprovar que a base de cálculo efetiva da operação foi inferior à presumida, não havendo como se proceder à extinção da execução fiscal como pretende o recorrente.
+    MANUTENÇÃO DO DESPROVIMENTO DO APELO EM JUÍZO DE RETRATAÇÃO. UNÂNIME.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, XXXVI; e 150, § 7°, da CF. Sustenta que: (i) a manutenção do acórdão recorrido viola a segurança jurídica; (ii) a controvérsia é questão de direito e prescinde da produção de prova.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No caso, o Órgão Julgador reconheceu que é devida a restituição do ICMS pago em regime de substituição tributária para a frente quando pago a maior se a base de cálculo efetiva da operação for inferior à presumida.
+    Todavia, manteve sua decisão, agregando novo fundamento. Segundo se lê da decisão, "não há nos autos documentos que comprovem que a base de cálculo efetiva da operação foi inferior à presumida. A inicial dos embargos foi trazida sem qualquer documento comprobatório. Assim, não há como se proceder à extinção da execução fiscal como pretende o recorrente".
+    Tal fundamento, contudo, não foi impugnado pela Recorrente, que se limitou a defender aplicação do Tema 201.
+    Não fosse isso, rever a conclusão do acórdão de que não há provas que a base de cálculo real foi inferior à base de cálculo presumida para fins de restituição exige o reexame do contexto fático-probatório, o que esbarra no óbice da Súmula 279 do Supremo Tribunal Federal, a cujo teor "Para simples reexame de prova não cabe recurso extraordinário."
+    […]
+    Ante o exposto, NÃO ADMITO os recursos.”
+    A pretensão recursal não merece prosperar. Quanto à violação à segurança jurídica, a ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    No caso dos autos, note-se que o Tribunal de origem consignou o seguinte:
+    “O novo entendimento firmado pelo Supremo, conforme registrado no próprio acórdão, orienta os litígios judiciais futuros e os pendentes submetidos à sistemática da repercussão geral, razão pela qual seria aplicável ao presente caso.
+    Todavia, não há nos autos documentos que comprovem que a base de cálculo efetiva da operação foi inferior à presumida. A inicial dos embargos foi trazida sem qualquer documento comprobatório.
+    Assim, não há como se proceder à extinção da execução fiscal como pretende o recorrente.”
+    Neste sentido, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF.
+    Ademais, trata-se de um fundamento autônomo e suficiente para manutenção do julgado, que não foi impugnado pelo recorrente. Nesses casos, incide a Súmula 283/STF. Confira-se:
+    “Agravo regimental no recurso extraordinário. Recurso administrativo. Exigência de depósito prévio do valor da multa ambiental para conhecimento do recurso. Trânsito em julgado administrativo. Inércia da parte interessada. fundamento infraconstitucional suficiente. Ausência de recurso especial. Incidência da Súmula 283/STF. 1. O Tribunal de origem não decidiu sobre a constitucionalidade ou não da exigência do depósito do valor da multa como condição de admissibilidade do recurso na esfera administrativa, limitando-se a assentar que a parte interessada deveria ter agido judicialmente antes do trânsito em julgado administrativo para fazer valer seu direito de ter o recurso analisado. 2. Incidência da Súmula nº 283 do STF, uma vez que o recurso extraordinário não atacou fundamento infraconstitucional suficiente, por si só, para a manutenção do acórdão recorrido, tampouco foi interposto recurso especial. 3. Agravo regimental não provido.” (RE 896.209-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 22 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
