@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SERVIDOR DO PODER PÚBLICO REGIDO PELA CLT. CONTRATAÇÃO ANTERIOR À CF/1988. LEI LOCAL QUE IMPÕE O REGIME ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA TRABALHISTA PARA DISCUTIR O DIREITO AO RECOLHIMENTO DO FGTS. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL. ARE-RG 906.491. TEMA 853/STF. AGRAVO NÃO PROVIDO.
+1. O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, Humberto Martins, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Felix Fischer, sendo substituído pelo Sr. Ministro Paulo de Tarso Sanseverino, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de agravo interno, interposto pelo ESTADO DO PIAUÍ, contra decisão que negou seguimento a recurso extraordinário manejado em face de acórdão da Primeira Turma do Superior Tribunal de Justiça, sintetizado nos seguintes termos (fl. 87):
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. SERVIDOR. INGRESSO ANTERIOR À CONSTITUIÇÃO FEDERAL/1988. REENQUADRAMENTO. TRANSMUDAÇÃO DE REGIME DO CELETISTA PARA O ESTATUTÁRIO POR MEIO DE LEI LOCAL. NÃO SUBMISSÃO A CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1.O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público.
+2. Agravo interno a que se nega provimento.
+A decisão ora agravada negou seguimento ao recurso extraordinário, com fundamento no artigo 1.030, inciso I, alínea "a", primeira parte, do Código de Processo Civil, conforme ementa abaixo (fl. 118):
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. SERVIDOR DO PODER PÚBLICO REGIDO PELA CLT. CONTRATAÇÃO ANTERIOR À CF/1988. LEI LOCAL QUE IMPÕE O REGIME ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA TRABALHISTA PARA DISCUTIR O DIREITO AO RECOLHIMENTO DO FGTS. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL. ARE-RG 906.491. TEMA 853/STF. SEGUIMENTO NEGADO.
+Alega a parte agravante, às fls. 124/129, que está presente a repercussão geral da questão tratada e que "a decisão recorrida viola os arts. 37, II; 39, IX e 114 da CF, e o Supremo Tribunal Federal tem entendido que cabe à Justiça comum apreciar litígios envolvendo prestadores de serviços irregulares, que não tenham se submetido a processos seletivos regular, concurso público, para cargo público".
+Não foram apresentadas contrarrazões (fl. 133).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SERVIDOR DO PODER PÚBLICO REGIDO PELA CLT. CONTRATAÇÃO ANTERIOR À CF/1988. LEI LOCAL QUE IMPÕE O REGIME ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA TRABALHISTA PARA DISCUTIR O DIREITO AO RECOLHIMENTO DO FGTS. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL. ARE-RG 906.491. TEMA 853/STF. AGRAVO NÃO PROVIDO.
+1. O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público.
+2. Agravo interno não provido.
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Quanto ao tema relacionado à competência para o julgamento de demandas propostas por servidor admitido no serviço público antes da promulgação da Constituição Federal do 1988, por meio de contrato celetista e sem aprovação em concurso público, o Supremo Tribunal Federal, no julgamento do ARE 906.491/DF, sob a sistemática da repercussão geral (Tema 853/STF), entendeu ser de competência da justiça do trabalho o julgamento das referidas demandas.
+Confira-se, por oportuno, a emento do aresto:
+"CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA. SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELO REGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho - CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43).
+2. Agravo a que se conhece para negar seguimento ao recurso extraordinário." (ARE 906.491 RG, Relator Min. TEORI ZAVASCKI, julgado em 1710/2015, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-201 DIVULG 6/10/2015 PUBLIC 7/10/2015.)
+Dessarte, verifica-se que o Superior Tribunal de Justiça se manifestou em consonância com o entendimento firmado pelo Excelso Pretório no julgamento do ARE 906.491/DF, devendo ser mantida a decisão de negativa de seguimento proferida com amparo no art. 1.030, inciso I, alínea "a", do Código de Processo Civil.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
