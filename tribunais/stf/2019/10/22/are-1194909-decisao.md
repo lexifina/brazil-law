@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE APELAÇÃO DO AGRAVANTE. MATÉRIA PACIFICADA NO ÂMBTIO DESTA CORTE. ICMS SOBRE DESLOCAMENTO DE MERCADORIAS ENTRE ESTABELECIMENTOS PERTENCENTES AO MESMO CONTRIBUINTE. AGRAVO IMPROVIDO.
+    1. As jurisprudências do Supremo Tribunal Federal, do Superior Tribunal de Justiça e deste egrégio TJDFT são pacíficas no sentido de que o mero deslocamento de mercadorias entre estabelecimentos de um mesmo contribuinte, ainda que localizados em unidades distintas da Federação, não constitui fato gerador do ICMS.
+    2. Quando todos os órgãos fracionários competentes sobre determinada matéria deliberam em consonância, pode o Magistrado julgar monocraticamente o feito, à luz do art. 557 do Código de Processo Civil, amenizando-se, assim, os efeitos nocivos da sobrecarga das pautas de julgamento.
+    3. Agravo Regimental conhecido e improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 97, 155, II, § 2°, IX, b, todos da CF. Sustenta que: (i) incide ICMS no deslocamento de mercadorias entre estabelecimentos do contribuinte; (ii) a cláusula de reserva de Plenário foi violada.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Melhor sorte não colhe recurso extremo, embora tenha o recorrente desincumbido do ônus referente à arguição de existência de repercussão geral. Isso porque basta a desconformidade entre a tese constitucional sustentada com a jurisprudência predominante do Supremo Tribunal Federal, como fundamento hábil para basear o juízo negativo de admissibilidade do recurso extraordinário (ARE 896792 AgR, Relatora Min. ROSA WEBER, DJe 12/11/2015).
+    […]
+    III – Ante o exposto, INDEFIRO o processamento dos recursos especial e extraordinário.”
+    A pretensão recursal não merece prosperar. O acórdão recorrido está alinhado ao entendimento jurisprudencial do Supremo Tribunal Federal no sentido de que o mero deslocamento de mercadorias entre estabelecimentos do mesmo contribuinte não constitui fato gerador do ICMS. Confiram-se:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. TRANSFERÊNCIA DE MERCADORIAS ENTRE ESTABELECIMENTOS DE MESMA TITULARIDADE. FATO GERADOR NÃO CARACTERIZADO. NÃO INCIDÊNCIA DO TRIBUTO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+    1. Conforme jurisprudência do STF, o simples deslocamento físico de mercadoria entre estabelecimentos de mesmo contribuinte não faz surgir o fato gerado apto a desencadear a cobrança do ICMS.
+    2. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.” (ARE 676.035-AgR, Rel. Min. Alexandre de Moraes)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. TRANSFERÊNCIA DE MERCADORIAS ENTRE ESTABELECIMENTOS DE UM MESMO CONTRIBUINTE SITUADOS EM ESTADOS DISTINTOS DA FEDERAÇÃO. NÃO INCIDÊNCIA. AUSÊNCIA DE FATO GERADOR. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE AGRAVANTE. MANIFESTO INTUITO PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.021, § 4º, DO CPC/2015. MANTIDA A MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE 1.033.286-AgR, Rel. Min. Luiz Fux)
+    Quanto à alegada violação ao art. 97 da CF, ressalta-se que a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”.
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
