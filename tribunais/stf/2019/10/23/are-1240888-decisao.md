@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “REVISÃO CRIMINAL DE SENTENÇA. CRIMES CONTRA A ORDEM TRIBUTÁRIA. PLEITO DE RECONHECIMENTO DA PRESCRIÇÃO PUNITIVA. NÃO CONHECIMENTO. MATÉRIA PENDENTE DE JULGAMENTO EM RECURSO INTERPOSTO PERANTE A 2ª CÂMARA CRIMINAL. DOSIMETRIA. PEDIDO DE REDUÇÃO DA PENA BASE AO MÍNIMO LEGAL E REDUÇÃO DO GRAU DE AUMENTO OPERADO NA TERCEIRA FASE DE APLICAÇÃO DA PENA. ESCORREITA MENSURAÇÃO DA CIRCUNSTÂNCIA JUDICIAL ATINENTE ÀS CONSEQUÊNCIAS DO CRIME E DA CAUSA ESPECIAL DE AUMENTO DO CRIME CONTINUADO EM SEU GRAU MÁXIMO. ASSUNTOS QUE, ADEMAIS, JÁ FORAM ENFRENTADOS EM SEDE RECURSAL. MANUTENÇÃO DO ACORDÃO. REVISÃO CRIMINAL PARCIALMENTE CONHECIDA E, NESTA PORÇÃO, JULGADA IMPROCEDENTE”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 93, IX, da CF. Aduz “absoluta a nulidade da decisão que aumentou, no máximo, o quantum da continuidade delitiva, diante da ausência total de fundamentação judicial exigida no artigo 93, IX da Constituição Federal, na utilização da expressão lacônica ‘ante a quantidade de delitos perpretados’”.
+    O recurso é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal (STF) é no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; e o RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Ademais, o STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
