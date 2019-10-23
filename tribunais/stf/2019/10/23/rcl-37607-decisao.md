@@ -1,0 +1,29 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada em face de decisão da Justiça do Trabalho de Maracaju/MS que autorizou o desmembramento de ação trabalhista, nos seguintes termos:
+    “Ao apreciar o tema 1046 (ARE 1.121.633), o STF firmou o entendimento de que a discussão sobre a ‘validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente’ possui natureza constitucional, reconhecendo a repercussão geral da matéria.
+     Diante disso, em 28.6.2019, o Ministro Gilmar Mendes determinou a suspensão de todos os processos que versem sobre essa questão.
+    No caso dos autos, temos uma cumulação de ações, havendo pedido de pagamento de horas in itinere e reflexos, em relação ao qual há discussão sobre a validade de normas coletivas, exigindo a suspensão do feito, mas há também outros pedidos em relação aos quais o processo pode prosseguir normalmente.
+    Considerando a natureza alimentícia dos créditos pleiteados nesta ação, bem como os princípios da duração razoável do processo e da economia e celeridade processuais, e tendo em vista, ainda, a impossibilidade técnica de julgamento parcial de mérito no sistema do PJe, faculto à parte reclamante que promova o desmembramento das ações, a fim de que os pedidos de HORAS IN ITINERE E REFLEXOS, que exigem suspensão do feito, sejam veiculados em processo diverso, possibilitando que o presente processo prossiga em relação às demais parcelas objeto da petição inicial.
+     Para tanto, o autor deverá distribuir nova ação, na qual deverá juntar todas as peças deste processo, em ordem cronológica e identificando cada documento (nos termos dos art. 12 e 13 da Resolução CSJT 185/2017). No documento ‘petição inicial’ o autor deverá fazer um breve relato relativo ao desmembramento ora facultado, delimitando a matéria objeto daquela ação e indicando, como valor da causa, aquele relativo apenas às parcelas que passarão a correr naqueles autos. Tal petição deverá ser seguida do presente despacho e, só então, das peças do processo a ser desmembrado.
+    Cabe ao autor comprovar o desmembramento das ações nos presentes autos, no prazo de 10 dias. Decorrido o prazo in albis, o presente feito deverá ser INTEGRALMENTE sobrestado por prazo indeterminado, até a decisão de mérito do ARE 1.121.633.
+    Feito o desmembramento, retornem esses autos conclusos para julgamento dos pedidos remanescentes.
+    Protestos da reclamada.
+    2. O reclamante alega afronta à ordem de suspensão nacional dos feitos (art. 1.035, § 5º, do CPC) determinada no paradigma do tema 1.406 da repercussão geral (“Validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente” - ARE 1.121.633, Rel. Min. Gilmar Mendes).
+    3.  É o relatório. Decido.
+    4. Deixo de requisitar o parecer da Procuradoria-Geral da República, diante do caráter reiterado da matéria (art. 52, parágrafo único, RI/STF).
+    5. No caso em exame, o juízo reclamado determinou o desmembramento de ação, a fim de viabilizar a apreciação de pedidos que não são alcançados pelo tema 1.046 da repercussão geral. Não houve, portanto, descumprimento da decisão do Ministro Gilmar Mendes no ARE 1.121.633, uma vez que determinado expressamente o sobrestamento do pedido relativo à questão objeto da repercussão geral. Destaco:
+    “Cabe ao autor comprovar o desmembramento das ações nos presentes autos, no prazo de 10 dias. Decorrido o prazo in albis, o presente feito deverá ser INTEGRALMENTE sobrestado por prazo indeterminado, até a decisão de mérito do ARE 1.121.633.
+    Feito o desmembramento, retornem esses autos conclusos para julgamento dos pedidos remanescentes”.
+    6. Assim, o que pretende o reclamante é impugnar suposta inobservância do art. 329 do Código de Processo Civil. Ocorre que a reclamação não é a via própria à análise de alegação de afronta ao direito objetivo, conforme já decidiu o Supremo Tribunal Federal nas Rcl 4.381 AgR, Rel. Min. Celso de Mello, e Rcl 5.391 AgR, Rel. Min. Dias Toffoli. No mesmo sentido, veja-se a Rcl 23.051 AgR, sob a minha relatoria:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. DESCABIMENTO DA VIA. ALEGAÇÃO DE OFENSA A DIREITO OBJETIVO E A PRECEDENTE SEM FORÇA VINCULANTE. PRECLUSÃO DA DISCUSSÃO SOBRE A QUESTÃO IMPUGNADA NAS INSTÂNCIAS INFERIORES.
+    1. A reclamação dirigida a esta Corte só é cabível quando sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CRFB/1988, arts, 102, I, l, e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte.
+    2. A alegação de ofensa ao direito objetivo ou a enunciado de Súmula sem força vinculante não dá ensejo à propositura de reclamação.
+    3. Não cabe reclamação para o exame da tese de fundo quando o que se pretende, na verdade, é viabilizar um recurso não interposto.
+    4. Agravo regimental desprovido.
+    7. Saliento, por fim, que a inadmissão da reclamação não implica, necessariamente, a afirmação do acerto do ato reclamado, que poderá ser impugnado pela via processual própria. Nas palavras do Min. Luiz Fux, a “reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.637 AgR, Rel. Min. Luiz Fux).
+    8. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    9. Sem honorários, pois não houve contraditório efetivo.
+    Publique-se.
+    Brasília, 23 de outubro de 2019
+Ministro LUÍS ROBERTO BARROSO
+Relator
