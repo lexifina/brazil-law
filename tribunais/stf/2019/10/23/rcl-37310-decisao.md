@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Monte Mor afirma haver a Terceira Turma Recursal Cível do Colégio Recursal de Piracicaba/SP, no processo nº 1001879-49.2018.8.26.0372, olvidado o teor do verbete vinculante nº 4 da Súmula do Supremo.
+    Segundo narra, a interessada, Tamires Godinho Belo de Paula, ajuizou contra si ação visando o pagamento de adicional de insalubridade com base nos vencimentos recebidos. Acolhido o pedido, a óptica foi mantida em recurso inominado.
+    Sustenta inobservado o paradigma, dizendo impróprio ao Judiciário estabelecer parâmetro, sem respaldo em lei, para efeito de cálculo do mencionado adicional, em substituição ao Legislativo. Conforme argumenta, embora disciplinada a rubrica no artigo 46 da Lei Complementar local nº 4/2006, a estipular a mensuração da parcela sobre os vencimentos, o preceito acabou afastado pela Lei Complementar municipal nº 12/2008, alusiva ao Plano de Cargos e Carreiras do funcionalismo local. Assinala que, desde então, ficou esclarecida a tomada da legislação federal para fins de quitação do adicional, mostrando-se aplicável o artigo 192 da Consolidação das Leis do Trabalho e a utilização do salário mínimo como referência. Realça inadequada a adoção de regime jurídico híbrido, a partir da mescla de diplomas diversos.
+    Requer, em sede liminar, a suspensão do ato impugnado e, alfim, a cassação.
+    2. A leitura do acórdão da Turma Recursal revela em jogo discussão versando sucessão de leis locais acerca da disciplina do adicional de insalubridade. Havendo norma municipal a respeito da matéria, a respaldar o cálculo da parcela sobre os vencimentos, surge impertinente a alegação de ofensa ao enunciado vinculante nº 4. No caso, além de não tomado o salário mínimo como parâmetro de mensuração da rubrica, inexistiu substituição da base de incidência respectiva, em Juízo, sem apoio em lei material. Confiram a ementa do pronunciamento atacado:
+    EMENTA – Ação condenatória – Adicional de Insalubridade devido à servidora municipal estatutária – Reconhecimento pela municipalidade da atividade como insalubre – Desnecessidade de perícia para constatação – Inconstitucionalidade na vinculação do adicional de insalubridade ao salário mínimo – Súmula Vinculante nº 04 do Supremo Tribunal Federal – Adicional de insalubridade que deve ter como base de cálculo o vencimento da autora – Legislação local que estabelece o percentual e a base de cálculo – Sentença mantida por seus próprios e jurídicos fundamentos Negado Provimento – Honorários advocatícios arbitrados em 20% (vinte por cento) do valor devido.
+    (Processo nº 1001879-49.2018.8.26.0372, Terceira Turma Recursal Cível do Colégio Recursal de Piracicaba/SP, relator o juiz Luiz Antônio Cunha, acórdão publicado em 26 de julho de 2019.)
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 23 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
