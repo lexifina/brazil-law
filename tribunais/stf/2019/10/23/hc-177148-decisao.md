@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Estelionato. Dosimetria da pena. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 535.078, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, e pagamento de 50 dias- multa, pela prática do crime previsto no art. 171, caput, na forma do art. 71 do Código Penal.
+    3. Neste habeas corpus, a parte impetrante sustenta, em síntese, que o Juízo de origem “de forma irrazoável e desproporcional fixou a pena base doa art. 171, caput, do CP TRÊS VEZES a cima do mínimo legal, sob o fundamento de elementos inerentes ao tipo penal que condenou o paciente [art.171, caput, do CP]”; e que, “ao delimitar fração disposta no art. 71 do CP, o d. juízo de primeiro grau optou pela máxima fração [dois terços] disposta na lei, fundamentando-se, apenas, na quantidade de delitos praticados pelo paciente”.
+    4. Prossegue a impetração para alegar que “o paciente é primário, de bons antecedentes, com emprego e residência fixa”.
+    5. A defesa requer “seja fixada pena base, bem como do aumento de pena disposto no art. 71 do CP, no patamar mínimo permitido pela lei”, sob o fundamento de que “não existem motivos idôneos que apontem para o contrário”.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação da súmula 691/STF.
+    8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    9. Além disso, o entendimento desta Corte é firme no sentido de que a existência de circunstâncias judiciais desfavoráveis justifica a fixação da pena-base em patamar acima do mínimo legal (RHC 117.806, Redator para o acórdão o Ministro Edson Fachin; HC 124.250, Rel. Min. Teori Zavascki; HC 122.344, Relª. Minª. Rosa Weber).
+    10. No caso, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento do pleito defensivo. Transcrevo, nesse sentido, as seguintes passagens do acórdão estadual:
+    “[…]
+    A pena base do delito foi fixada acima do mínimo legal, tendo em vista as circunstâncias do fato e as consequências do crime, vez que as vítimas realizaram empréstimo e obtiveram grande prejuízo por não terem sido ressarcidas. Ademais, o acusado aproveitou-se da relação de confiança profissional que tinha para ludibria os ofendidos, pessoas muito simples, e ainda ‘colocou em risco a credibilidade da justiça ao asseverar que o dinheiro se destinaria também a suborno de um desembargador’, como bem ressaltado pelo MM. Juízo a quo.
+    Assim, a basilar foi fixada em 03 (três) anos de reclusão e pagamento de 30 (trinta) dias multa, que restou totalizada ante a ausência de circunstâncias capazes de alterar a pena, não cogitando redução. Ausentes circunstâncias agravantes ou atenuantes, restando inalterada a pena do réu. Na derradeira etapa da dosimetria, a pena sofreu um aumento de 2/3 por conta da continuidade delitiva, sendo totalizada em 05 (cinco) anos de reclusão e pagamento de 50 (cinquenta) dias multa. Tal aumento é suficiente, pois ao longo de dez meses foram efetuados 16 pagamentos de valores, conforme de depreende dos recibos de fls. 21/28, de modo que sua redução não estaria de acordo com o principio da proporcionalidade.
+    […].” - Sem grifos no original.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 23 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
