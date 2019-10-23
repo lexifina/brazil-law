@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. CÉDULA DE CRÉDITO BANCÁRIO. BEM IMÓVEL OFERECIDO EM ALIENAÇÃO FIDUCIÁRIA. INTEMPESTIVIDADE DO RECURSO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    "AÇÃO DECLARATÓRIA C.C. DANO MORAL – Cédula de Crédito Bancário – Bem imóvel oferecido em alienação fiduciária – Vício de consentimento – Inexistência – Ausência de qualquer erro que pudesse macular a livre manifestação de vontade – Bem de família – Descabimento – Renúncia à proteção conferida pela Lei 8.009/90 – Observância aos princípios da força obrigatória dos contratos, bem como o da boa-fé objetiva – Parte que não logrou comprovar a ausência de proveito do valor em prol da entidade familiar (art. 373, I, do CPC) – Evidencia de outros imóveis pertencentes aos membros da entidade familiar (art. 5º da Lei 8.009/90) – Regularidade do procedimento de execução extrajudicial – Danos morais não configurados – Recurso improvido." (Doc. 8, p. 61)
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, os agravantes sustentam preliminar de repercussão geral e, no mérito, apontam violação aos artigos 5º, LV, 6º, 93, IX, e 226 da Constituição Federal. (Doc. 8, p. 69)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria reflexa. (Doc. 9, p. 47)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar, uma vez que intempestivo.
+    O prazo para a interposição de agravo contra decisão que inadmite recurso extraordinário é de 15 (quinze) dias úteis, conforme previsto no artigo 219 combinado com o artigo 1.003, § 5º, do Código de Processo Civil de 2015.
+    A decisão agravada foi publicada em 25/8/2018 (doc. 9, p. 49). Entretanto, a petição de agravo somente foi protocolada em 18/7/2018 (doc. 9, p. 51), após o transcurso do prazo recursal.
+    Ressalte-se, ainda, que o artigo 1.003, § 6º, do novo Código de Processo Civil determina que “o recorrente deverá comprovar a ocorrência de feriado local no ato de interposição do recurso” (grifos meus), o que não ocorreu no presente caso. Seguindo essa orientação, destaco o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6º, do Novo CPC determina que [o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.” (ARE 1.033.168-AgR, rel. min. Dias Toffoli, Segunda Turma, DJe de 18/9/2017)
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015), ficando suspensa sua exigibilidade, nos termos do artigo 98, § 3º, do referido código.
+    Publique-se.
+    Brasília, 23 de outubro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
