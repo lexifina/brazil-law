@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão que, proferido no âmbito do Superior Tribunal de Justiça, ao julgar agravo regimental, manteve incólume a decisão do relator de não conhecer do recurso especial interposto pela defesa do paciente, consoante aresto assim ementado (eDOC 10):
+    AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO. PLEITO DE DESCLASSIFICAÇÃO PARA O ART. 302 DO CTB. REEXAME DO MATERIAL FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. 1. Para que fosse possível a análise da tese recursal, segundo a qual o agravante teria agido com culpa consciente, e não com dolo eventual, no caso, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. 2. Agravo regimental desprovido.
+    Em suma, busca o impetrante, in limine, a suspensão do trâmite da persecução penal movida em desfavor do paciente pela dupla prática, em concurso material, de homicídio e, no mérito, a desclassificação de suas condutas para o delito previsto no art. 302 do Código de Trânsito, sob o argumento de que “não se pretende, com a presente ação constitucional, a rediscussão do conjunto fático e probatório dos autos, mas sim a análise da tipicidade material do crime estabelecido no art. 302 do CTB, ou seja, a discussão de matéria de direito e não reexame de prova”, considerada a previsão, na norma especial, do crime culposo.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Nessa quadra, em um juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante no decisum atacado, a justificar a concessão da liminar, especialmente porque consignado que, “o Tribunal de origem, analisando os elementos probatórios colhidos nos autos, entendeu pela presença de indícios de dolo eventual” (eDOC 10, p. 4), e não tão somente de culpa, como asseverado pelo ora impetrante.
+     Dessarte, sem prejuízo de ulterior reapreciação da matéria no julgamento final deste mandamus, indefiro a liminar.
+    Exaustivamente instruído o writ, encaminhem-se os autos ao Ministério Público Federal.
+    Publique-se. Intime-se.
+    Brasília, 23 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
