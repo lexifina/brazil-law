@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. 1. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. 2. AFRONTA AO ART. 6º, II, DO CDC. RAZÕES RECURSAIS DISSOCIADAS DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. OFENSA AO ART. 42 DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE [NOME] [NOME] DA [NOME].
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Quarta Câmara de Direito Comercial do Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso interposto pelo ora agravado e deu parcial provimento ao recurso da ora agravante, conforme ementa abaixo colacionada (e-STJ, fls. 835-837):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO. CONTRATO DE EMPRÉSTIMO PESSOAL E CHEQUE ESPECIAL. INCONFORMISMO DE AMBAS AS PARTES. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+JUROS REMUNERATÓRIOS. RECURSO DE AMBAS AS PARTES. AUTOR AFIRMA A EXISTÊNCIA DE TAXA ABUSIVA E REQUER A FIXAÇÃO EM 12% (DOZE POR CENTO) AO ANO OU A APLICAÇÃO DA TAXA MÉDIA INDICADA PELO BACEN. IMPOSSIBILIDADE DE FIXAÇÃO NO PERCENTUAL DE 12% AO ANO. INSTITUIÇÃO FINANCEIRA QUE NÃO SE LIMITA À LEI DA USURA. ENTENDIMENTO PACIFICADO NO STJ E NESTA CORTE. ABUSIVIDADE QUE DEVE SER ANALISADA CASO A CASO. CONTRATOS DE EMPRÉSTIMO PESSOAL. INSTITUIÇÃO FINANCEIRA ADUZ A INEXISTÊNCIA DE ABUSIVIDADE NOS JUROS PACTUADOS. TAXA ORIGINALMENTE PACTUADA QUE NÃO SUPERA À ÀQUELA ESTABELECIDA PELO BACEN À ÉPOCA DA CONTRATAÇÃO EM SOMENTE UM CONTRATO. ÚNICO CASO DE ABUSIVIDADE NÃO EVIDENCIADA. DEMAIS CONTRATOS FIRMADOS. TAXA ORIGINARIAMENTE PACTUADA MUITO ACIMA DA TAXA MÉDIA DE MERCADO ESTABELECIDA PELO BACEN À ÉPOCA DA CONTRATAÇÃO. JULGADO DE RECURSOS REPETITIVOS DO STJ - RESP N. 1.061.530/RS, DA RELATORIA DA MINISTRA NANCY ANDRIGHI. ABUSIVIDADE CONSTATADA. RELAÇÃO CONSUMERISTA. ACERTO, EM PARTE, DA SENTENÇA DE PRIMEIRO GRAU.
+JUROS REMUNERATÓRIOS. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE - CHEQUE ESPECIAL. CONTRATO JUNTADO SEM A INDICAÇÃO DOS JUROS PRATICADOS. POSSIBILIDADE DE IMPOR LIMITE NA COBRANÇA QUANDO CONSTATADA ABUSIVIDADE. [NOME]. MODALIDADE CONTRATUAL QUE SE RENOVA A CADA VENCIMENTO. LIMITAÇÃO DOS JUROS À TAXA MÉDIA DE MERCADO APLICADA PELO BACEN, SALVO SE A CONTRATADA FOR MAIS FAVORÁVEL AO CONSUMIDOR.
+CAPITALIZAÇÃO DE JUROS. RECURSO DE AMBAS AS PARTES. INSTITUIÇÃO FINANCEIRA PLEITEIA A LEGALIDADE DA CAPITALIZAÇÃO NO CONTRATO DE ABERTURA DE [CONTA] AUTOR, POR SUA VEZ, REQUER O AFASTAMENTO DA CAPITALIZAÇÃO EM TODOS OS CONTRATOS. PRÁTICA DEVIDAMENTE AUTORIZADA, CONTUDO, CONDICIONADA À EXISTÊNCIA DE PREVISÃO EXPRESSA DA PACTUAÇÃO E A CELEBRAÇÃO DO CONTRATO POSTERIORMENTE A 31-3-2000, DATA DA PUBLICAÇÃO DA MEDIDA PROVISÓRIA N. 1.963-17/2000 (EM VIGOR COMO MP 2.170-36/2001). JULGADO DE RECURSOS REPETITIVOS DO STJ - RESP N. 973.827/RS, DA RELATORIA DA MINISTRA MARIA ISABEL GALLOTTI. QUE REGULAMENTA A QUESTÃO. RELAÇÃO CONSUMERISTA. INCIDÊNCIA DOS ARTS. 4o, CAPUT, E 6o, III , DO CDC. AUSÊNCIA DE PREVISÃO EXPRESSA DA COBRANÇA NO CONTRATO DE ABERTURA EM CONTE CORRENTE N. 1354-7. IMPOSSIBILIDADE DE SUA EXIGÊNCIA. DEMAIS CONTRATOS A TAXA DE JUROS ANUAL SUPERA O DUODÉCUPLO DA MENSAL. PACTUAÇÃO EXPRESSA EM CONTRATO CELEBRADO APÓS 31-3-2000. POSSIBILIDADE DE SUA EXIGÊNCIA. PRETENSÃO DE AMBAS AS PARTES INACOLHIDA.
+COMISSÃO DE PERMANÊNCIA. INEXISTÊNCIA EXPRESSA DE PACTUAÇÃO. IMPOSSIBILIDADE DE COBRANÇA. ENTENDIMENTO CONSOLIDADO NO STJ. SENTENÇA MANTIDA.
+TARIFAS DE ABERTURA DE CRÉDITO - TAC E DE EMISSÃO DE CARNÊ - TEC. IRRESIGNAÇÃO DA INSTITUIÇÃO FINANCEIRA EM RELAÇÃO AOS CONTRATOS N. 13547 E 8200877. JULGADO DE RECURSOS REPETITIVOS SOBRE A MATÉRIA PELO STJ - RESP N. 1.251.331/RS, DA RELATORIA DA MINISTRA MARIA ISABEL GALLOTTI. CONTRATO FIRMADO EM DATA POSTERIOR A 30/04/2008, MARCO INICIAL DA VIGÊNCIA DA RESOLUÇÃO 3.518/2007 DO CONSELHO MONETÁRIO NACIONAL. EXCLUSÃO DAS COBRANÇAS QUE SE IMPÕE.
+REPETIÇÃO DE INDÉBITO. PLEITO DO AUTOR. RECURSO QUE VISA A DEVOLUÇÃO DO VALOR NA [NOME]. COBRANÇA INDEVIDA. DEVOLUÇÃO DOS VALORES QUE DEVE OCORRER NA FORMA SIMPLES. PERMITIDA COMPENSAÇÃO. QUANTUM QUE DEVERÁ SER APURADO EM LIQUIDAÇÃO DE SENTENÇA.
+SISTEMA DE INFORMAÇÕES DE CRÉDITO - SCR. AUTOR ADUZ A ILEGALIDADE NA OMISSÃO DA INSTITUIÇÃO FINANCEIRA EM EFETUAR O REGISTRO DO CONTRATO NO SCR, ALÉM DE CRIME PREVISTO NA LEI 7.492/86. INEXISTÊNCIA DE CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. PLEITO QUE VISA A REMESSA DOA AUTOS AO MINISTÉRIO PÚBLICO FEDERAL. IMPOSSIBILIDADE. MATÉRIA DE CUNHO ADMINISTRATIVO E MERAMENTE INFORMATIVA. TESE QUE EM NADA ALTERA O JULGAMENTO DA DEMANDA REVISIONAL. CONSTATADA ABUSIVIDADE NOS ENCARGOS PACTUADOS. POSSIBILIDADE DE REMESSA DE CÓPIA INTEGRAL AO SCR, MORMENTE EM RAZÃO DA FINALIDADE DE SUPERVISIONAR AS OPERAÇÕES DE CRÉDITO DAS INSTITUIÇÕES FINANCEIRAS. ART. 2o, I, DA RESOLUÇÃO 3.658/08 DO CONSELHO MONETÁRIO NACIONAL. PRECEDENTE DESTA CÂMARA.
+ÔNUS DE SUCUMBÊNCIA. CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA AO PAGAMENTO DE 80% (OITENTA POR CENTO) E A PARTE AUTORA DE 20 (VINTE POR CENTO) DAS CUSTAS E HONORÁRIOS. RECURSO DA CASA BANCÁRIA RÉ. PLEITO QUE VISA REDISTRIBUIÇÃO DO ÔNUS. INVIABILIDADE. SENTENÇA QUE BALIZOU CORRETAMENTE O QUANTO CADA PARTE SAIU VENCEDORA E VENCIDA. INTELIGÊNCIA DO DISPOSTO NO ART. 21 DO CPC/1973. SENTENÇA MANTIDA.
+Nas razões do apelo especial, a recorrente indicou divergência jurisprudencial e violação aos arts. 6º, II, e 42, parágrafo único, do CDC.
+Alegou que, além de ser vedada a capitalização de juros, não teria sido comprovada a sua pactuação.
+Defendeu a devolução, em dobro, dos valores indevidamente cobrados.
+Contrarrazões às fls. 951-964 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou o dissídio nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+Para a comprovação da divergência, faz-se necessária a realização do cotejo analítico, com a transcrição de trechos dos acórdãos recorrido e paradigma que configurem o dissenso, mencionando as circunstâncias que identificam os casos confrontados - não se prestando para tanto a mera transcrição da ementa do acórdão paradigma.
+Sobre o tema, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. PENHORA DE IMÓVEL. CONTRATO DE ALIENAÇÃO. BEM DE FAMÍLIA. NÃO COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. LEGITIMIDADE DO EXECUTADO. FALTA DE IMPUGNAÇÃO OBJETA E DIRETA AO FUNDAMENTO DO ACÓRDÃO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O recorrente deixou de comprovar o dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, notadamente por ter deixado de transcrever os trechos dos acórdãos em confronto e não ter efetuado o necessário cotejo analítico das teses supostamente divergentes, tampouco indicado o repositório oficial ou juntado cópia do inteiro teor dos julgados paradigmas.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1023675/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/03/2017, DJe 16/03/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EXECUÇÃO DE ALIMENTOS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. PERDA DO DIREITO DO ALIMENTANDO PELO DECURSO DO TEMPO. SUPRESSIO. NÃO OCORRÊNCIA. DISCUSSÃO ACERCA DO BINÔMIO POSSIBILIDADE / NECESSIDADE. SEDE PRÓPRIA. AÇÃO REVISIONAL. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.º 211/STJ.
+1. Não demonstrada a divergência pretoriana conforme preconizado nos arts. 541, parágrafo único, do CPC, e 255, § 1º, a, e § 2º, do RISTJ, deixa-se de conhecer o recurso especial.
+1.1. Dissídio jurisprudencial não demonstrando face a ausência de cotejo analítico e a inexistência de cópia autenticada ou de citação do repositório oficial de jurisprudência em que foi publicado o acórdão paradigma.
+(..)
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp 1590554/RS, Rel. Ministro PAULO DE TARSO
+SANSEVERINO, TERCEIRA TURMA, julgado em 04/08/2016, DJe 09/08/2016)
+Passa-se à análise do recurso interposto com fulcro na alínea a do permissivo constitucional.
+Não merece prosperar a alegação de afronta ao art. 6º, II, do CDC. Isso porque a insurgente afirma, nas razões do apelo especial, que, além de vedada a capitalização de juros, não haveria provas acerca de sua pactuação. O referido dispositivo legal, contudo, versa sobre o direito do consumidor à educação e divulgação sobre o consumo adequado de produtos e serviços.
+Assim, observa-se que as razões recursais se encontram dissociadas da prescrição contida na legislação federal supostamente ofendida, o que revela deficiência de fundamentação, aplicando-se, por analogia, o verbete sumular n. 284/STF.
+Ilustrativamente:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PREQUESTIONAMENTO EXPLICITO E IMPLÍCITO. FALTA DE MENÇÃO ACERCA DA MATÉRIA CONTIDA NO DISPOSITIVO LEGAL. NECESSIDADE DE QUESTÃO RESOLVIDA PELO TRIBUNAL DE ORIGEM. DISPOSITIVO DE LEI COM COMANDO LEGAL DISSOCIADO DAS RAZÕES RECURSAIS. SÚMULA 284 DO STF.
+(..)
+2. Possuindo o dispositivo de lei indicado como violado comando legal dissociado das razões recursais a ele relacionadas, impossibilitada está a compreensão da controvérsia debatida no processo. Incidência do óbice contido no enunciado 284 da Súmula do STF, por analogia.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1065417/RJ, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA TURMA, julgado em 03/09/2015, DJe 15/09/2015)
+No tocante à suposta violação ao art. 42, parágrafo único, do CDC, verifica-se que tal questão não foi objeto de debate no acórdão estadual.
+Diante desse contexto, tem-se que o prequestionamento, requisito viabilizador do recurso especial, não foi preenchido, o que impede o conhecimento da matéria por esta Corte Superior, nos termos dos enunciados sumulares 282 e 356 do STF.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. ACIDENTE. AFRONTA AOS ARTS. 402, 403, 730, 733 E 734 DO CÓDIGO CIVIL. NÃO DEMONSTRAÇÃO. ENUNCIADO 284 DA SÚMULA/STF. AUSÊNCIA DE PREQUESTIONAMENTO. VERBETE 282 DA SÚMULA/STF. DANOS MORAL E MATERIAL. CARACTERIZAÇÃO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. LIVRE CONVENCIMENTO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+(..)
+2. As matérias constantes dos dispositivos legais apontados como violados não foram objeto de debate pela Corte de origem. Ausente o necessário prequestionamento, incidente o óbice do enunciado 282 da Súmula do STF.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1111956/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial de [NOME] [NOME] da [NOME].
+Publique-se.
