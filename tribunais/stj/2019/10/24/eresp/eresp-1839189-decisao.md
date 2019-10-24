@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. DISCUSSÃO QUANTO AO MOMENTO DA CONSTITUIÇÃO DO CRÉDITO TRABALHISTA. CRÉDITO ORIUNDO DE ACORDO TRABALHISTA REALIZADO EM MOMENTO POSTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. NATUREZA EXTRACONCURSAL. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Construlev Indústria e Comércio de Plásticos Ltda. e outras com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 405, e-STJ):
+AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO TRABALHISTA. INDEFERIMENTO. MANUTENÇÃO. VERBAS DECORRENTES DA RESCISÃO DO CONTRATO DE TRABALHO, O QUE OCORREU APÓS O PEDIDO DE RECUPERAÇÃO. CRÉDITOS DE NATUREZA EXTRACONCURSAL, NOS TERMOS DO ART. 49, CAPUT, DA LEI Nº 11.101/05. PLANO DE RECUPERAÇÃO QUE AFASTA A POSSIBILIDADE DE HABILITAÇÃO DESSES CRÉDITOS. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 441-444, e-STJ).
+Nas razões do recurso especial (fls. 413-429, e-STJ), as recorrentes alegam que o acórdão impugnado incorreu em violação dos arts. 47, 49, caput, e 66 da Lei n. 11.101/2005.
+Sustentam, em síntese, que a execução de créditos trabalhistas, constituídos após o deferimento do plano de recuperação judicial, deve ser submetida ao juízo universal.
+Afirmam, ainda, que, havendo concordância do credor e da recuperanda, nada impede a habilitação do referido crédito.
+Apresentadas as contrarrazões ao apelo extremo (fls. 449-453, e-STJ), foi ele admitido na origem (fls. 460-461, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da questão jurídica objeto da controvérsia, verifica-se que o Tribunal de origem manteve a decisão que indeferiu o pedido de habilitação do crédito, por entender que ele teria natureza extraconcursal, conforme se depreende do excerto abaixo transcrito (e-STJ, fls. 406-407, sem grifos no original):
+II) Em que pese o inconformismo das recuperandas contra a r. decisão que indeferiu o pedido de habilitação do crédito, o presente agravo não comporta provimento.
+Isso porque, nos termos do art. 49, caput, da Lei nº 11.101/05, "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que não é o caso do crédito do agravado [NOME].
+Embora a relação trabalhista com as recuperandas tenha iniciado antes do pedido de recuperação, anota-se que o crédito em questão diz respeito a verbas trabalhistas decorrentes da rescisão do contrato de trabalho, de modo que o fato gerador do crédito perseguido é posterior ao pedido de recuperação.
+Logo, esses valores possuem natureza extraconcursal, devendo ser perseguidos pelas vias próprias, conforme previsto especificamente na cláusula 8.5 do próprio plano de recuperação (fls. 1.248/1.338 e 1.661/1.672 dos originais) aprovado pelos credores a ele submetidos:
+"8.5. CREDORES NÃO SUJEITOS.
+Este Plano não contempla proposta específica para os Créditos não sujeitos aos efeitos da recuperação judicial, por força do artigo 49 da LRF. Os mesmos serão negociados individualmente de acordo com a particularidade de cada crédito, porém no fluxo de caixa projetado, conforme anexo I, já estão provisionadas verbas para os pagamentos destes créditos." (fls. 1.271 dos originais).
+ Anota-se, também, que tal cláusula 8.5 não foi alterada no aditivo ao plano de recuperação juntado às fls. 1.661/1.672 dos originais.
+Ainda que se entenda que uma cláusula do plano de recuperação judicial não possa obstar a habilitação do referido crédito, é certo que a jurisprudência desta Corte Superior se firmou no sentido de que o crédito trabalhista extraconcursal está excluído do plano e de seus efeitos.
+Ilustrativamente:
+CONFLITO DE COMPETÊNCIA - CRÉDITO TRABALHISTA CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL - ATO EXPROPRIATÓRIO ORDENADO PELO MAGISTRADO LABORAL GENÉRICO E SEM QUALQUER RESSALVA - ANTE A ESPECIFICIDADE DO CASO, COMPETE AO JUÍZO UNIVERSAL AVALIAR ACERCA DA ESSENCIALIDADE OU NÃO DO BEM AO FUNCIONAMENTO DA EMPRESA - PRECEDENTES DO STJ. 1. Tratando-se de crédito trabalhista constituído depois de ter o devedor ingressado com o pedido de recuperação judicial, está excluído do plano e de seus efeitos (art. 49, caput, da Lei n.º 11.101/2005). (..) 3. Conflito conhecido para declarar a competência do juízo da recuperação judicial. (CC 129.720/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/10/2015, DJe 20/11/2015)
+Dessa forma, encontrando-se a decisão estadual em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
