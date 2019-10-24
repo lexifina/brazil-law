@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. VERIFICADA A OCORRÊNCIA DE OMISSÃO DO ACÓRDÃO RECORRIDO SOBRE QUESTÃO RELEVANTE LEVANTADA NOS ACLARATÓRIOS QUE DEVERIA TER SIDO EXAMINADA PELO ACÓRDÃO RECORRIDO. VIOLAÇÃO DO ART. 535 DO CPC/73 CONFIGURADA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+DECISÃO
+SILVANA DE FÁTIMA AMARAL DE ASSIS opôs embargos à execução contra MGI MINAS GERAIS PARTICIPAÇÕES LTDA. (MGI), sustentando, em síntese, a extinção do feito em virtude da prescrição, a inadequação do procedimento, bem como a ausência de certeza, de liquidez e de exigibilidade do título executivo extrajudicial (instrumento particular de confissão de dívida).
+O Magistrado de primeiro grau julgou improcedentes os embargos (e-STJ, fls. 184/186).
+A apelação e o agravo retido interpostos por SILVANA não foram providos pelo Tribunal de Justiça de Minas Gerais, nos termos da seguinte ementa:
+APELAÇÃO. EMBARGOS DO DEVEDOR. AGRAVO RETIDO. PROVIMENTO NEGADO. TERMO DE CONFISSÃO DE DIVIDA, DOCUMENTO HÁBIL A INSTRUIR A EXECUÇÃO. AUSENCIA DE NULIDADE. ÔNUS PROBATÓRIO CUMPRIDO PELO EXEQUENTE. TITULO LÍQUIDO, CERTO E EXIGÍVEL. MULTA MORATÓRIA. LIMITAÇÃO. DESCABIMENTO. NEGAR PROVIMENTO.
+- O instrumento particular de confissão de divida contém todos os requisitos necessários à caracterização de título executivo extrajudicial, nos termos do art. 585, II do CPC.
+- A limitação da multa contratual de 10% para 2%, estabelecida no art. 52, §1º, do CDC, somente se aplica aos contratos celebrados em data posterior à vigência da Lei 9.298, em 01/08/1998 (e-STJ, fl. 216).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 240/245).
+Inconformada, SILVANA interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 535, II, e 515 do CPC/73, ao sustentar que (1) o TJ/MG não sanou os vícios apontados nos embargos de declaração, negando a completa prestação jurisdicional; (2) como a parte adversária não juntou a cópia dos contratos que deram origem à confissão de dívida, não se formou conjunto probatório capaz de dar solução correta à lide; (3) contraria o art. 745, V, do CPC/73, a afirmativa do acórdão recorrido de que a simples existência do título executivo é suficiente para condenar ao pagamento da dívida nele confessada; e (4) não pode ser prejudicada pela ausência de juntada dos documentos necessários para a compreensão exata da lide, o que foi afirmado pelo próprio perito.
+Contrarrazões ao recurso especial (e-STJ, fls. 267/270).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar, em parte.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na Sessão de 9.3.2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da violação do art. 535, II, do CPC/73
+SILVANA sustentou que apesar dos embargos de declaração, o TJ/MG foi omisso quanto à inexistência dos contratos que deram origem à confissão de dívida, com relação ao pedido de redução dos juros e quanto ao requerimento do perito de que se juntasse aos autos os extratos da dívida inicial que resultou na operação de crédito confessada, o que foi deferido pelo Juízo de primeiro grau, mas não foi atendida pela MGI.
+Verifica-se que, com a oposição dos embargos de declaração foi expressamente solicitada a manifestação do TJ/MG sobre a inexistência do contratos que deram origem ao título executivo, quanto ao pedido de redução dos juros e quanto ao requerimento do perito de juntada aos autos dos extratos da dívida inicial deferido, mas não cumprido, tendo ele permanecido silente pelo menos em relação aos dois últimos temas levantados.
+Desse modo, cabia ao Tribunal mineiro analisar e sanar os vícios apontados, tendo em vista, sobretudo, que tais questões foram aduzidas no momento processual oportuno, qual seja, tanto na apelação e quanto nos embargos de declaração, e que se mostram relevantes ao deslinde pelo menos parcial da controvérsia, porque da forma como foi decidida, não há como o STJ examinar as teses trazidas nas razões do apelo nobre em torno de tais questões.
+Diante disso, o acórdão recorrido deve ser integrado de modo a esclarecer, precisamente, sobre as alegações trazida nos embargos de declaração, na medida em que ele respondeu satisfatoriamente somente no que diz respeito a ausência de juntada dos contratos.
+Assim, tendo SILVANA interposto o presente recurso por ofensa ao art. 535 do CPC/73 e, em face da relevância das questões suscitadas, tenho como necessário o debate acerca de tais pontos omissos do Tribunal a quo, de modo que a prestação jurisdicional seja prestada de forma completa ao jurisdicionado.
+Nesse sentido, vejam-se os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. VIOLAÇÃO DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO RECONHECIDA.
+1. Se, a despeito da provocação para sua manifestação, o Tribunal de origem permanece silente a respeito de questões relevantes que demandavam pronunciamento, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração para que sejam esclarecidas referidas matérias.
+2. Agravo regimental não provido.
+(AgRg no AREsp nº 722.229/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 4/2/2016 - sem destaque no original)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PROVA PERICIAL. MOMENTO DE IMPUGNAÇÃO AO PERITO. PRECLUSÃO. NÃO OCORRÊNCIA. DISCUSSÃO ACERCA DA QUALIDADE TÉCNICO/CIENTÍFICA DO LAUDO PERICIAL. IMPUGNAÇÃO APÓS A ELABORAÇÃO DOS TRABALHOS PERICIAIS. POSSIBILIDADE (CPC, ART. 424, I). OMISSÕES RELEVANTES NO JULGADO (CPC, ART. 535). OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Omissis.
+8. Constatando-se violação ao art. 535, II, do CPC, por omissões acerca de questões nevrálgicas para a completa prestação jurisdicional, deve-se anular o v. acórdão recorrido para que, novamente, sejam julgados os embargos de declaração, sanando-se as omissões existentes e relevantes.
+9. Recurso especial parcialmente provido.
+(REsp nº 1.175.317/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe de 26/3/2014, sem destaque no original).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 535 DO CPC CONFIGURADA. OMISSÕES NO ACÓRDÃO RECORRIDO. RETORNO DOS AUTOS PARA EXAME DE TEMA ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+1. Quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao artigo 535 do Código de Processo Civil.
+2. Agravo regimental não provido.
+(AgRg no AREsp nº 207.443/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 18/12/2012, sem destaque no original).
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Na espécie, apesar da oposição dos Aclaratórios, o Tribunal de origem não se pronunciou sobre a seguinte alegação: "de que, no caso em tela, trata-se de execução de sentença contra a Fazenda Pública oriunda da ação coletiva nº 1999.38.00.014767 (em que foram partes o SINTSPREV/MG versus INSS), sendo cabível, por essa razão, a fixação de honorários advocatícios, conforme o disposto nos art. 20, caput e §§ 3º e 4º, do CPC, arts. 90, 91, 97 e 98 do CDC, arts. 15 e 21 da Lei nº 7.347/85 e nos termos da súmula 345 deste Superior Tribunal de Justiça, in verbis: "São devidos os honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas"" (fl. 270, e- STJ, grifos no original).
+3. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+4. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp nº 1.663.643/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado aos 16/5/2017, DJe de 16/6/2017, sem destaque no original)
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se a Corte de origem a esclarecer o alcance do julgado terminou por negar prestação jurisdicional ao recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp nº 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos 21/6/2012, DJe de 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos ao TJ/MG para que sane ou esclareça os referidos vícios apontados oportunamente nos embargos de declaração opostos por SILVANA.
+Assim, considerando-se a necessidade de remessa do processo à instância a quo, resta prejudicado o exame das demais questões ventiladas no recurso especial de SILVANA.
+Nessas condições, CONHEÇO em parte do recurso especial e, nessa extensão, LHE DOU PARCIAL PROVIMENTO para reconhecer a ofensa ao art. 535 do CPC/73 e determinar o retorno dos autos ao Tribunal de Justiça de Minas Gerais para que esclareça os vícios trazidos nos embargos declaração acima destacados, como entender de direito.
+Publique-se. Intimem-se.
