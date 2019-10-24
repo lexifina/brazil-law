@@ -1,0 +1,37 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO E CONTRADIÇÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi (Presidente) e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos declaratórios opostos por AQUÁTICA MARICULTURA DO BRASIL LTDA contra acórdão desta colenda Quarta Turma assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ASSESSORIA. EMBARGOS À EXECUÇÃO. PLANILHA DE CÁLCULO. EXCESSO DE EXECUÇÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu que o cálculo elaborado pelo exequente está correto, pois os juros de mora e multa foram calculados de acordo com o contrato firmado entre as partes.
+2. Nesse contexto, observa-se que as alegações genéricas da agravante não ensejam a reversão do julgado para o fim de se concluir pela inexatidão dos cálculos, pois demandaria análise de cláusulas contratuais e reexame fático-probatório, providência que encontra óbice nas Súmulas 5 e 7 desta Corte.
+3. Agravo interno a que se nega provimento." (fl. 507)
+Em suas razões, sustenta a embargante, em síntese, a existência de obscuridade no acórdão embargado, pois "TODOS os pontos da decisão monocrática foram objeto de irresignação no agravo interno" e omissão "sobre questão essencial ao deslinde da controvérsia, visto que é apta a modificar a conclusão do julgado, o que torna imprescindível o seu enfrentamento, razão pela qual roga-se a esse colegiado o enfrentamento do ponto omisso ora delatado".
+A parte embargada apresentou impugnação às fls. 519-523.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, não existe a alegada obscuridade, pois, consoante se colhe do acórdão embargado, a decisão agravada negou provimento ao recurso especial "em razão da inexistência da alegada omissão no acórdão recorrido, falta de impugnação de fundamento autônomo (incidência da Súmula 283/STF) e necessidade de análise de cláusulas contratuais e reexame do conjunto probatório dos autos para análise do cálculo apresentado pelo agravado" e, no entanto, a ora embargante, nas razões do agravo interno, apenas impugnou o fundamento sobre a incidência das Súmulas 5 e 7/STJ.
+Ademais, quanto ao cálculo apresentado pelo credor, o acórdão embargado expressamente consignou:
+"O eg. Tribunal de origem reconheceu correto o cálculo apresentado pelo credor, nos seguintes termos:
+"Quanto ao excesso de execução, o apelado demonstrou em seus embargos o valor que entende devido, que seria o de R$ 3.435.852,91 (três milhões quatrocentos e trinta e cinco mil oitocentos e cinquenta e dois reais e noventa e um centavos), em oposição aos R$3.697.774,08 (três milhões seiscentos noventa sente mil e setenta e quatro reais e oito centavos) apontados na inicial da ação de execução oferecida pelo apelado.
+ Contudo, para a demonstração do acerto ou não desse valor, deveria ter sido realizada a prova pericial contábil, a qual não foi requerida pelo apelado quando intimado pelo juízo a quo para que se manifestasse em provas (Indexador 287).
+ Cumpre ressaltar ainda que, ao contrário do afirmado pelo apelante, a planilha acostada pelo apelado/exequente na inicial de execução apontou os valores discriminados a título de juros de mora e multa, todos de acordo com o contrato entabulado entre as partes (reproduzido no Indexador 198).
+ Conforme observa o apelado em suas contrarrazões, os cálculos do valor devido foram realizados conforme a previsão contratual, cuja taxa de contrato que estabelece o custo financeiro é prevista no montante de 5%, relativa ao spread do BNDES, de 1% ao ano, bem como ao spread do agente financeiro, no montante de 4% ao ano, conforme a letra "d", item 2 do capítulo VI - JUROS. Ademais, foram incluídos ainda nos cálculos os "encargos penalidade por não performance", de 7% ao ano sobre 18,94% do contrato, incidindo sobre a parcela correspondente ao incremento não realizado, conforme a letra "c", item 2, do capítulo VI -JUROS, além da previsão de juros trimestrais do contrato." (fls. 369-370)
+Nesse contexto, observa-se que as alegações genéricas da agravante não ensejam a reversão do julgado para o fim de se concluir pela inexatidão dos cálculos, pois demandaria análise de cláusulas contratuais e reexame fático-probatório, providência que encontra óbice nas Súmulas 5 e 7 desta Corte." (fls. 509-510)
+Dessa forma, verifica-se a inexistência de omissão e obscuridade no acórdão embargado.
+Ademais, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. A Súmula nº 356 do Supremo Tribunal Federal assegura que a mera oposição dos embargos declaratórios, em relação a ponto omisso, é suficiente para caracterizar o prequestionamento para efeito de interposição de recurso extraordinário, de modo que é desnecessário que esta Corte se pronuncie a respeito de dispositivos constitucionais. Precedentes.
+4. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 1.042.593/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe de 1º/02/2018, g.n.)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
