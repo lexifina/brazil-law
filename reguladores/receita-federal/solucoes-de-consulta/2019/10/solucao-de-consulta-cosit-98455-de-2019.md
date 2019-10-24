@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98455, de 15 de outubro de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8479.89.99
+Mercadoria: Máquina composta por estrutura metálica em aço carbono, medindo 15,0 m de comprimento, 15,8 m de altura e 8,0 m de largura e pesando 115 toneladas, em formato de "pórtico", contendo braço rotativo no topo, possuindo em uma ponta o contra peso e na outra estrutura do guincho onde é içado o rastelo, medindo 3,6 m de largura, que executa a limpeza mecânica das grades, comercialmente conhecido como máquina limpa grades para usinas hidrelétricas. A base está montada sobre oito rodas de aço acopladas em motorredutores que transmitem movimento de translação da máquina sobre trilhos.
+Dispositivos Legais: RGI 1 (texto da posição 84.79), RGI 6 (textos da subposição de 1º nível 8479.8 e subposição de 2o nível 8479.89) e RGC 1 (textos do item 8479.89.9 e do subitem 8479.89.99) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.455-2019 .pdf]
