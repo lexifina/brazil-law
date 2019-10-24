@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. IPTU. EXECUÇÃO FISCAL. REDIRECIONAMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJAC, assim ementado (fl. 80):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. AQUISIÇÃO DO IMÓVEL APÓS O FATO GERADOR E LANÇAMENTO. REDIRECIONAMENTO. IMPERTINÊNCIA. SÚMULA N. 392, STJ. RECURSO DESPROVIDO.
+1. Inteligência da Súmula 392 do Superior Tribunal de Justiça: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolatação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução".
+2. Agravo de Instrumento desprovido.
+O recorrente alega, além de divergência jurisprudencial, violação do art. 130 do CTN, ao argumento de é possível o redirecionamento da execução para a pessoa do adquirente, sem alteração do polo passivo, devendo, contudo, a penhora somente ocorrer sobre o bem adquirido sem observância dos direitos do Fisco (fl. 101).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 117-118.
+É o relatório. Passo a decidir.
+A jurisprudência desta Corte firmou o entendimento de que, embora haja a possibilidade de substituição da CDA até a prolação da sentença de embargos, tal emenda limita-se à correção de erro material ou formal, sendo inviável a alteração do sujeito passivo da execução, pois isso representaria a modificação do próprio lançamento, conforme entendimento firmado por meio da Súmula 392/STJ.
+A Primeira Secção do STJ, no julgamento do REsp. 1.045.472/BA, submetido ao rito dos recursos repetitivos, consignou expressamente a impossibilidade de alteração da CDA de IPTU para incluir o novo proprietário do imóvel no polo passivo de execução fiscal, in verbis:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C, DO CPC. PROCESSO JUDICIAL TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. CERTIDÃO DE DÍVIDA ATIVA (CDA). SUBSTITUIÇÃO, ANTES DA PROLAÇÃO DA SENTENÇA, PARA INCLUSÃO DO NOVEL PROPRIETÁRIO. IMPOSSIBILIDADE. NÃO CARACTERIZAÇÃO ERRO FORMAL OU MATERIAL. SÚMULA 392/STJ.
+1. A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução (Súmula 392/STJ).
+2. É que: "Quando haja equívocos no próprio lançamento ou na inscrição em dívida, fazendo-se necessária alteração de fundamento legal ou do sujeito passivo, nova apuração do tributo com aferição de base de cálculo por outros critérios, imputação de pagamento anterior à inscrição etc., será indispensável que o próprio lançamento seja revisado, se ainda viável em face do prazo decadencial, oportunizando-se ao contribuinte o direito à impugnação, e que seja revisada a inscrição, de modo que não se viabilizará a correção do vício apenas na certidão de dívida. A certidão é um espelho da inscrição que, por sua vez, reproduz os termos do lançamento. Não é possível corrigir, na certidão, vícios do lançamento e/ou da inscrição. Nestes casos, será inviável simplesmente substituir-se a CDA." ([NOME], [NOME] e Ingrid Schroder Sliwka, in "Direito Processual Tributário: Processo Administrativo Fiscal e Execução Fiscal à luz da Doutrina e da Jurisprudência", Livraria do Advogado, 5ª ed., Porto Alegre, 2009, pág. 205).
+3. Outrossim, a apontada ofensa aos artigos 165, 458 e 535, do CPC, não restou configurada, uma vez que o acórdão recorrido pronunciou-se de forma clara e suficiente sobre a questão posta nos autos. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+4. Recurso especial desprovido. Acórdão submetido ao regime do artigo 543-C, do CPC, e da Resolução STJ 08/2008.
+Como se vê, o acórdão recorrido está em consonância com o entendimento desta Corte. Incidência da Súmula 568/STJ.
+Estando o acórdão recorrido em consonância com o posicionamento dominante adotado por esta Corte, fica prejudicada a análise do dissídio jurisprudencial.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
