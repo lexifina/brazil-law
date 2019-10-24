@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. IMPUGNAÇÃO NÃO ACOLHIDA. OMISSÃO SUPRIDA, SEM EFEITOS MODIFICATIVOS.
+DECISÃO
+Trata-se de apreciar embargos de declaração opostos pela requerente contra decisão monocrática assim ementada:
+DIREITO PROCESSUAL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. ART. 1º-F DA LEI 9.494/97, COM REDAÇÃO DADA PELA LEI 11.960/09. INCONSTITUCIONALIDADE RECONHECIDA NAS ADI 4.357 E 4.425. MODULAÇÃO DE EFEITOS APÓS O TRÂNSITO EM JULGADO DO ACÓRDÃO RESCINDENDO. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. SÚMULA 343/STF. PEDIDO JULGADO IMPROCEDENTE.
+
+O embargante sustenta que a decisão foi omissa em examinar a impugnação ao valor da causa, trazida em contestação. Argumenta que a questão é pertinente, porque os honorários advocatícios sucumbenciais levaram em conta o valor dado à causa na inicial, que no entender da embargante é inferior ao correto. Pleiteia que se supra a omissão e que os honorários advocatícios sucumbencias sejam arbitrados nos termos do art. 85, parágrafo 2º, do CPC/2015, entre 10 e 20% do valor da causa.
+Sem impugnação.
+É o relatório.
+Verifico estar efetivamente presente a omissão apontada pela parte Embargante, uma vez que a decisão embargada não se manifestou acerca de sua impugnação ao valor dado à causa pelo INSS na inicial.
+Passo, assim, a examinar a questão.
+Às fls. 154/155 o réu afirma que o INSS deu à causa o valor de R$ 6.000,00, contudo, na demanda cujo título se busca rescindir, a execução é na quantia de R$ 286.759,24 e, de acordo com o critério defendido pelo INSS, o valor seria de R$ 235.053,31, consoante cálculo apresentado pela autarquia naquela execução. De conseguinte, sendo a diferença no valor de R$ 51.705,93, este deveria ser o valor dado à causa.
+Na petição de fl. 197, o INSS afirma que ratifica o valor dado à causa e que "as razões da impugnação ao valor da causa apresentada pelo réu não encontram amparo legal".
+O pedido formulado na inicial é o de que se rescinda o acórdão proferido no REsp 1442399, e "que outra decisão seja proferida, determinando-se a observância dos índices de correção monetária da caderneta de poupança (1º-F, da Lei 9.494/97, com redação dada pela Lei 11.960/09) sobre as parcelas devidas a título de atrasados, na forma como é o atual entendimento do Supremo Tribunal Federal, que apenas em relação a tramitação dos precatórios judiciais e somente a partir de 1º de janeiro de 2014 modificou o índice de correção monetária, como acima explicitado".
+Dessarte, o conteúdo econômico pretendido na presente demanda rescisória (art. 291 do CPC/2015) corresponde à diferença entre o valor devido pelo INSS nos termos do título executivo exequendo e o valor que nesta Ação Rescisória o INSS defende como o efetivamente devido.
+De acordo com o acórdão rescindendo, a correção monetária de toda a dívida fazendária deveria observar "índices que reflitam a inflação acumulada no período, a ela não se aplicando os índices de remuneração básica da caderneta de poupança" (fl. 89), especificamente, o INPC (fl. 89).
+De acordo com a tese defendida na inicia da presente Ação Rescisória, a correção monetária referente às parcelas atrasadas deveria ser feita com aplicação dos índices de correção da poupança e apenas no período de tramitação do precatório e só a partir de 01/01/2014 é que deveria ser feita de acordo com o índice fixado no acórdão rescindendo.
+Ou seja, a correção monetária do valor executado, até o início do trâmite do precatório, para o INSS (segundo a tese defendida nesta Rescisória) deveria ser não pelo INPC, mas pela remuneração da poupança.
+Embora o INSS dê à causa rescisória o valor de R$ 6.000,00, não esclarece como chegou a tal valor.
+O requerido, porém, também não traz planilha clara a respeito de qual a exata diferença pretendida pelo INSS na presente rescisória. Os cálculos colacionados (fls. 176/180) cotejam a conta que de acordo com a AGU seria devida na execução (fls. 176/178: com início dos juros apenas em 12/2011, com taxa de juros que variaram de 24,0762% a 0,5% e com índice de correção não esclarecido) com a conta que o exequente lá apresentou (fls. 179/180: com correção pelo INPC, com um valor de juros superior ao calculado pelo INSS e com início da incidência de juros já a partir de 12/2010.
+Assim sendo, concluiu-se que na execução do acórdão rescindendo as divergências entre o exequente e o INSS são muitas outras, além daquela divergência que deu causa à presente Ação Rescisória.
+Na execução as partes discutem também o índice dos juros e seu termo inicial. Na presente Rescisória o objeto controvertido é apenas qual o índice de correção monetária a incidir de 12/2010 até 01/01/2014, se o da poupança ou o INPC.
+À falta de elementos para concluir que tal diferença pleiteada nesta Rescisória supere os R$ 6.000,00 estimados na inicial, deixo de acolher a impugnação ao valor da causa apresentada.
+Em casos como o presente, "o impugnante deverá demonstrar, com precisão, o valor correto que entende devido para a ação rescisória, instruindo a inicial da impugnação ao valor da causa com os documentos necessários à comprovação do alegado" (Pet 9.892/SP, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 11/02/2015, DJe 03/03/2015).
+Isso posto, deixo de acolher o requerimento de retificação do valor da causa.
+Com isso, supro a omissão no exame da impugnação do valor dado a causa, mas sem efeito modificativo da decisão embargada de declaração.
+Publique-se. Intimem-se.
