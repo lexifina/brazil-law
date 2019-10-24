@@ -1,0 +1,15 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. HONORÁRIOS SUCUMBENCIAIS. NECESSIDADE DE ARBITRAMENTO. EMBARGOS DO BANCO DO BRASIL S.A. ACOLHIDOS, MAS SEM EFEITOS INFRINGENTES.
+DECISÃO
+Cuida-se de embargos de declaração opostos por Banco do Brasil S.A. à decisão monocrática proferida por este signatário, a qual deu parcial provimento ao recurso especial por ele interposto, nos termos da seguinte ementa (e-STJ, fl. 1.551):
+RECURSO ESPECIAL. AÇÃO RESCISÓRIA DECORRENTE DE DEMANDA PROPOSTA POR EX-EMPREGADOS DO BANCO DO BRASIL S.A. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. PRETENSÃO DO DIREITO À COMPLEMENTAÇÃO DE PROVENTOS DE APOSENTADORIA E PENSÃO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES. SÚMULA 83/STJ. 3. ANÁLISE DAS DEMAIS QUESTÕES TRAZIDAS NO RECLAMO PREJUDICADA. 4. RECURSO PARCIALMENTE PROVIDO. PRETENSÃO DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. DESCABIMENTO. MANIFESTA IMPROCEDÊNCIA. RECONHECIMENTO. RECLAMAÇÃO INDEFERIDA LIMINARMENTE.
+Em suas razões, o embargante alega omissão acerca da fixação dos honorários sucumbenciais.
+A impugnação não foi apresentada (e-STJ, fl. 1.603).
+Brevemente relatado, decido.
+Com efeito, deve-se ressaltar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição ou obscuridade, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que, de fato, é observada na espécie.
+De fato, conforme relatado na decisão embargada, o Banco do Brasil S.A. ajuizou ação rescisória cumulada com antecipação de tutela contra acórdão proferido pela Quarta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, na qual, entre outros pedidos, pretendia o reconhecimento da incompetência da Justiça comum para o julgamento da lide.
+Ao analisar o recurso especial, esta relatoria entendeu, com base na jurisprudência predominante desta Corte Superior que, diversamente do entendimento do Tribunal local, a competência para julgar a demanda é da Justiça do Trabalho, e consignou pela prejudicialidade das demais questões nele contidas.
+Na parte dispositiva, foi dado parcial provimento ao recurso especial, a fim de reconhecer a incompetência absoluta da Justiça comum para apreciação da presente demanda, e se impôs a anulação dos atos decisórios praticados no processo determinando a remessa dos autos à Justiça do Trabalho para julgamento da lide nos termos do art. 64, § 3º, do CPC/2015. Contudo, deixou de arbitrar os honorários sucumbenciais.
+Desse modo, em razão da aplicação do princípio geral da sucumbência, segundo o qual a parte vencida será condenada ao pagamento das custas e honorários advocatícios, deve ser sanado o vício para condenar a parte recorrida ao pagamento de custas processuais e honorários sucumbenciais, os quais devem ser arbitrados em 10% sobre o valor atualizado da causa.
+Ante o exposto, acolho os embargos de declaração do Banco do Brasil S.A., sem efeitos infringentes, para sanar a omissão e condenar os embargados ao pagamento de custas processuais e honorários sucumbenciais, estes fixados em 10% sobre o valor atualizado da causa.
+Publique-se.
