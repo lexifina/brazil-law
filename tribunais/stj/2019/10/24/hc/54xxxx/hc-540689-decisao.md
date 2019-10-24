@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. TESE DE ILEGALIDADE DA INSTAURAÇÃO DO INCIDENTE DE INSANIDADE MENTAL. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. VIABILIDADE DO RECURSO DE AGRAVO EM EXECUÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA EX OFFICIO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Agravo em Execução Penal n.º 1.0024.17.023297-9/001).
+Consta nos autos que o Magistrado das Execuções Criminais da Comarca de Ribeirão das Neves/MG deferiu o pedido ministerial e determinou a realização de exame de insanidade mental (fls. 135-136).
+Inconformado, o Apenado interpôs recurso de agravo em execução, que não foi conhecido pela Corte de origem (fls. 57-60).
+Neste habeas corpus, a Defensoria Pública do Estado de Minas Gerais sustenta, em suma: a) que não há supressão de instância; b) a ilegalidade da decisão que determinou a instauração do incidente de insanidade mental, porquanto "o incidente de (in)sanidade mental é prova pericial constituída em favor da defesa" (fl. 5) e, ainda, porque "resta evidenciada a ausência de indícios mínimos de qualquer transtorno mental do sentenciado" (fl. 6).
+Requer, liminarmente, "a concessão de ofício da ordem, para que seja suspensa a determinação de instauração do incidente de sanidade mental, até o julgamento final do presente writ" e, no mérito "que seja reformada a decisão guerreada, com o indeferimento da instauração do incidente de sanidade mental, com o regular prosseguimento da execução das penas impostas ao Paciente" (fl. 8).
+É o relatório. Decido.
+Saliente-se que a matéria arguida nas razões do writ não foi analisada pelo Tribunal a quo, sendo vedada sua apreciação originária por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Ilustrativamente:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. A tese de que haveria excesso de prazo na formação da culpa não foi objeto de apreciação pelo Tribunal de origem, que analisou apenas o excesso no oferecimento da denúncia, motivo pelo qual também não pode ser aqui analisada, sob pena de indevida supressão de instância.
+ ..
+5. Ordem denegada." (HC 512.791/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/08/2019, DJe 28/08/2019; sem grifos no original.)
+Todavia, no caso, não há nenhum impedimento ao conhecimento do agravo em execução, porquanto, nos termos do entendimento desta Corte Superior " a s decisões do d. Juízo da Execução Penal, como regra, estão sujeitas ao recurso de agravo em execução  .. " (AgRg no RMS 56.014/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+No mesmo sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N.º 7.420/10. HABEAS CORPUS NÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+4. Apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas, como no caso. Primeiramente porque caberá tão-somente aferição da data em que ocorreu o cometimento da falta do Paciente, segundo porque o Decreto n.º 7.420/10 trata apenas de requisitos objetivos, não estabelecendo nenhuma exigência de cunho subjetivo para conceder os benefícios de que trata.
+5. Ordem não conhecida. Ordem de habeas corpus concedida de ofício para determinar que o e. Tribunal de Justiça do Estado de São Paulo aprecie o mérito do writ n.º 0173426-39.2012.8.26.0000, decidindo como entender de direito." (HC 262.309/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 05/12/2013, DJe 19/12/2013; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do habeas corpus. Todavia, CONCEDO a ordem ex officio para determinar ao Tribunal de Justiça do Estado de Minas Gerais que, imediatamente, analise como entender de direito o Agravo em Execução Penal n.º 1.0024.17.023297-9/001, afastado o entendimento de que é incabível o recurso de agravo em execução.
+Publique-se. Intimem-se.
