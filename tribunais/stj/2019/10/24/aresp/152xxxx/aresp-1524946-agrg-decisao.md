@@ -1,0 +1,18 @@
+DECISÃO
+Certificado o trânsito em julgado da decisão proferida às fls. 503-504 em 13/8/2019 (fl. 507), em face do decurso do prazo recursal, impõe-se o não conhecimento do agravo regimental interposto às fls. 3-8 do expediente avulso.
+Considerando, nos termos do art. 654, § 2º, do Código de Processo Penal, que compete ao juiz deferir habeas corpus de ofício se verificada flagrante ilegalidade, acolho a fundamentação apresentada pelo Ministério Público Federal às fls. 25-26 do expediente avulso, in verbis:
+A atenuante da menoridade relativa confere tratamento penal mais ameno ao indivíduo que possui entre 18 e 21 anos de idade, condição especial biológica que, por óbvio, demanda um cuidado particular, sobretudo pela presumida inexperiência de vida pertencida. Trata-se de critério etário, de incidência obrigatória, observado na etapa intermediária do sistema trifásico.
+Em razão do silêncio do Legislador, a quantificação do percentual de redutor circunda a órbita da discricionariedade vinculada do Julgador, no âmbito do processo individualizador, que, necessariamente, rege-se pelos princípios constitucionais da proporcionalidade e da razoabilidade, para que seja alcançado quantum adequado e suficiente aos objetivos da pena (reprovação do delito, desestímulo à pratica criminosa e ressocialização do apenado).
+Apenas a título de recomendação, estabeleceu-se a fração de 1/6 como parâmetro norteador.
+ ..
+A despeito de ser possível a utilização de patamar diverso do recomendado, no caso, a redução em apenas 1/8 se afigurou manifestamente desproporcional, principalmente considerando o patamar modulador observado na primeira fase da dosimetria (de 1/6 para cada vetor). Isso porque, no intuito de aperfeiçoar o método trifásico de cominação da pena, o patamar escolhido deve guardar coerência sistêmica com as demais etapas do cálculo, observando a escala de valores, sob pena de comprometer o próprio sistema de sanção penal e suas finalidades.
+Logo, na fase intermediária, deve ser operada a redução em 1/6 em razão da circunstância atenuante, restando a pena intermediária do crime de furto em 2 anos, 2 meses e 20 dias de reclusão, reduzindo-se a pena total para 3 anos, 2 meses e 20 dias.
+Constatando-se, assim, a ocorrência de manifesta ilegalidade, deve ser superado o óbice da intempestividade para efetiva correção do cálculo dosimétrico, através da concessão de habeas corpus de ofício, reformando-se o acórdão combatido.
+De fato, "A redução da pena-base em patamar inferior a 1/6, fração comumente usada para o caso, em razão da incidência da atenuante de menoridade, deve ser devidamente fundamentada e proporcional ao quantum de aumento da pena, o que, no caso, não foi feito" (HC 356.632/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 1º/8/2016).
+Passo, portanto, ao redimensionamento da pena imposta pela prática do delito de furto qualificado.
+Mantenho a reprimenda básica em 2 anos e 8 meses de reclusão e 13 dias-multa. Diante da menoridade, reduzo a pena em 1/6, tornando-a definitiva em 2 anos, 2 meses e 20 dias de reclusão e 10 dias-multa, à míngua de outras causas modificativas.
+Mantenho a pena fixada pelo crime de corrupção de menores: 1 ano de reclusão (fl. 414).
+Diante do concurso formal de crimes, reconhecido pelo Tribunal de origem (fls. 416-417), aumento a pena do delito de furto, mais grave, em 1/6, fixando a sanção final em 2 anos, 7 meses e 3 dias de reclusão e 11 dias-multa.
+Ante o exposto, não conheço do agravo regimental, deferindo habeas corpus de ofício para fixar a pena final do réu em 2 anos, 7 meses e 3 dias de reclusão e 11 dias-multa.
+Publique-se.
+Intimem-se.
