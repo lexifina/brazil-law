@@ -1,0 +1,17 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal diante de acórdão do Tribunal de Justiça do Estado do Pará no HC n. 0804515-20.2019.814.0000.
+Neste writ, a defesa postula a revogação da prisão preventiva do réu ou a sua substituição por cautelares diversas, sob as alegações de ausência de motivação idônea e de excesso de prazo.
+Todavia, a Corte estadual não conheceu do pedido, uma vez que as matérias foram apreciadas no HC n. 0809724-04.2018.8.14.0000. Sinalizou, ainda, que o tema já havia sido submetido ao exame desta Corte Superior, no RHC n. 110.512/PA.
+Em consulta ao sistema informatizado, noto que o RHC n. 110.512/PA foi julgado pela Sexta Turma do STJ em 24/9/2019, ocasião em que ficou consignada a ausência de flagrante ilegalidade na hipótese. Confira-se a ementa do julgado:
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVOS IDÔNEOS. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. EXCESSO DE PRAZO PARA A CONCLUSÃO DA INVESTIGAÇÃO. PREJUDICIALIDADE. DELONGA INJUSTIFICADA PARA O ENCERRAMENTO DA INSTRUÇÃO. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. São idôneos os motivos apontados para justificar a prisão preventiva do acusado, por evidenciarem o risco de reiteração delitiva, diante dos indícios de que ele integrava associação criminosa voltada ao tráfico de drogas, a quem competia o contato direto com membros da organização Comando Vermelho para tratar da venda de entorpecentes, bem como com outros integrantes de seu grupo em relação ao comércio realizado nas "biqueiras" por eles comandadas.
+3. A jurisprudência desta Corte Superior é firme em assinalar que é cabível a custódia provisória dos investigados, a fim de garantir a ordem pública, como forma de cessar as atividades do grupo criminoso. Precedentes.
+4. Por idênticos motivos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+5. Verifica-se que o inquérito policial já foi concluído, tanto que a denúncia foi oferecida em 21/1/2019 e recebida em 29/1/2019, circunstância que evidencia a prejudicialidade do pedido formulado no recurso - excesso de prazo para concluir a investigação.
+6. A questão atinente à delonga injustificada para o encerramento da instrução não foi apreciada no acórdão combatido, o que inviabiliza o exame do tema nesta oportunidade, por configurar supressão de instância.
+7. Recurso não provido.
+(RHC n. 110.512/PA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/10/2019)
+Ademais, como não houve novo exame da Corte estadual em relação ao suposto excesso de prazo para o encerramento do feito, a análise do tema neste writ configuraria supressão de instância.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
