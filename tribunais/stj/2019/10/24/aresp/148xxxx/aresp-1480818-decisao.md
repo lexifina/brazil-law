@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] DOS [NOME] VAZ E OUTROS contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, [NOME] e outros ajuizaram ação ordinária com valor da causa atribuído em R$ 53.000,00 (cinquenta e três mil reais), em junho de 2016, tendo como objetivo a complementação de aposentadoria do Estado com fundamento no piso salarial da categoria, equivalente a 2,5 salários mínimos em razão de acordos coletivos referentes aos exercícios de 1995/1996 e reenquadramento no plano de cargos e salários da CPTM.
+Após sentença que julgou improcedente a demanda, foi interposta apelação, que teve seu provimento negado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ficando consignado que o acordo firmado no Contrato Coletivo de Trabalho referente ao biênio 1995/1996 não proporcionou reajuste ou aumento automático na remuneração de todas as classes da categoria, mas somente um piso salarial à categoria.
+O referido acórdão foi assim ementado, in verbis:
+FERROVIÁRIO. FEPASA. Afastada a pretensão dos autores, pensionistas de ex-ferroviários integrantes dos quadros da FEPASA, à complementação de sua pensão, certo que o piso de 2,5 salários mínimos não implica reajuste, representando, antes, garantia de remuneração mínima para determinada classe de trabalhadores, sem repercutir no Plano de Cargos e Salários. Manutenção da improcedência, mas por fundamento diverso. Exame da jurisprudência.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração interpostos foram improvidos.
+Contra a decisão cuja ementa se encontra acima transcrita, [NOME] DOS [NOME] VAZ E OUTROS interpuseram recurso especial, apontando violação dos arts. 5º e 6º da LINDB; do art. 4º, §§ 1º e 2º, da Lei Estadual nº 9.343/96; dos arts. 192 e 193 do Decreto Estadual nº 35.530/59; e do art. 126, § 4º, da Constituição Estadual de São Paulo.
+Sustenta, em síntese, que os ora recorrentes têm direito adquirido, além da observância do restabelecimento do piso salarial da categoria, de sua extensão do aumento geral, concedido aos empregados da ativa, pensionistas e inativos, nos termos do artigo 4º da Lei Estadual nº 9.343/96.
+Não foram apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, com base na Súmula nº 280/STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+Parecer do MPF pelo não conhecimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual nº 3.720/83 e a Lei Estadual nº 9.343/96, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp n. 709.574/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 14/9/2015; REsp n. 1.455.034/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 970.011/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/5/2017, DJe 24/5/2017.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp n. 4.111/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 12/11/2014.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Em relação aos honorários advocatícios, considerando que a Corte a quo, por considerar a decisão ilíquida, deixou à cargo do juízo de origem a sua fixação, nos termos do § 4º, II do art. 85, não será possível a majoração também nesta oportunidade.
+Caberá, portanto, ao Juízo de origem a fixação dos honorários, que deverá levar em consideração a interposição do presente recurso, nos termos do § 11 do art. 85 do CPC/15.
+Publique-se. Intimem-se.
