@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. EXAME DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 268):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO FGTS. INCIDÊNCIA.
+A contribuição ao FGTS, de que trata a Lei nº 8.036, de 1990, incide sobre o aviso-prévio indenizado e décimo-terceiro salário correspondente, os 15 primeiros dias de afastamento do trabalhador por doença ou acidente, terço constitucional férias gozadas, abono de faltas por atestado médico, os adicionais de horas extras, insalubridade, periculosidade e noturno.
+O recorrente alega, além de divergência jurisprudencial, que o respeitável acórdão merece reforma, tanto por ser clara a inconstitucionalidade do entendimento que expande o conceito de salário como determinado no artigo 195, inciso I, da Constituição Federal - e que se aplica igualmente no caso ora em discussão na presente ação -, quanto pela afronta à própria legislação correlata, isto para todas as rubricas requeridas, pois somente as parcelas efetivamente salariais podem constituir a base de cálculo sobre a qual incidirá a contribuição ao FGTS. (fl. 291).
+Contrarrazões às fls. 348-370.
+Juízo positivo de admissibilidade à fl. 396.
+É o relatório. Passo a decidir.
+No caso dos autos, o recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Nos termos do artigo 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 195, I, da CF/88.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
