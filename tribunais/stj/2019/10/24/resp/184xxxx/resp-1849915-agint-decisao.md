@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno interposto pela União contra decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) incidência da Súmula 7/STJ, e (II) em razão de o acórdão recorrido ter sido proferido em consonância com a jurisprudência consolidada pelo STJ, segundo a qual "o militar temporário ou de carreira que, por motivo de doença ou acidente em serviço, tornou-se definitivamente incapacitado para o serviço ativo das Forças Armadas, tem direito à reforma, no mesmo grau hierárquico que ocupava enquanto na ativa, sendo desnecessária a existência do nexo causal entre a moléstia e o serviço castrense. Precedentes." (AgInt no REsp 1506727/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 04/04/2017).
+Nas razões do agravo interno, a parte agravante sustenta a inaplicabilidade da Súmula 7/STJ ao caso, sob o fundamento de que todo o contexto fático necessário ao julgamento está descrito no item 2 do acórdão.
+Assevera, ainda, que inexiste jurisprudência uníssona no mesmo sentido do acórdão recorrido, de forma que "a União entende que, independentemente da invalidez ser para a atividade militar ou civil, há necessidade de comprovação que a doença que acometeu o militar temporário tenha relação de causa e efeito com a atividade militar para a reintegração para tratamento de saúde na condição de adido, assim como no caso em discussão" (fl. 399).
+É o relatório.
+Ante as razões deduzidas, reconsidero a decisão de fls. 382/389.
+Por entender necessário melhor exame da matéria, dou provimento ao agravo para determinar sua reautuação como recurso especial.
+Publique-se.
