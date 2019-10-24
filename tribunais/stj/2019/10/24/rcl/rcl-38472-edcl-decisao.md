@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EUFRÁSIO PEREIRA LUIZ JUNIOR, em face da decisão de fl. 202 - 206 por mim proferida, que, nos termos do art. 34, XVIII, "b", do RISTJ, julgou improcedente a presente reclamação, cassando a liminar anteriormente deferida às fls. 126 - 128 e-STJ.
+Em suas razões, o embargante sustenta contradição na decisão embargada que, ao contrário do que dispôs em sua fundamentação sobe a ausência de descumprimento da ordem judicial, houve sim manifesta ofensa ao decidido na decisão proferida pelo Min. Felix Fisher nos autos do HC n. 510.380/GO, haja vista que até o momento não houve pronunciamento sobre a questão da prescrição por ela determinada. (fls. 214 - 216)
+É o relatório.
+Decido.
+A irresignação do embargante não merece ser acolhida.
+É consabido que o artigo 620, do Código de Processo Penal prevê rol taxativo das hipóteses de cabimento dos embargos de declaração, ou seja, quando houve omissão, contradição, obscuridade ou ambíguo, sendo, portanto, recurso de fundamentação vinculada.
+Na espécie, a embargante pretende ver reconhecida a existência de contradição na decisão ora embargada, sustentando que, ao contrário do que dispôs a decisão agravada, houve efetivo descumprimento da decisão reclamada pelo Tribunal de origem, haja vista que não se pronunciou sobre a questão da prescrição por ela determinada.
+Cumpre salientar, todavia, que a contradição autorizadora da oposição dos Embargos de Declaração é aquela de ordem interna, que se caracteriza nos termos da própria decisão embargada, e não entre os termos da decisão e o entendimento que a parte reputa correto.
+E nesse aspecto, inexiste o alegado vício, pois a decisão embargada foi clara e expressa no sentido em fixar a inexistência de desobediência ao decidido no ato reclamado, nos seguintes termos:
+"Na hipótese vertente, todavia, ao contrário do inicialmente defendido, não se evidencia, de pronto, a desobediência ao decidido. Primeiro, porque as decisões que analisaram a temática da prescrição, proferidas pelo Tribunal Regional Federal da 1ª Região, nos autos de HC n. 1012505-74.2019.4.01.0000 (fls. 79 - 84, e 85 - 95 e-STJ), são anteriores à ordem concedida no HC n. 510.380/GO deste Superior Tribunal de Justiça, não se prestando assim para motivar eventual descumprimento. Segundo, porque, posteriormente ao decidido por esta superior instância, o TRF1 somente examinou as questões alusivas à audiência admonitória, autorização de viagem, e entrega de passaporte, como se evidencia das fls. 117 - 121" (fl. 121)
+Assim, não se observa a existência de contradição, mas sim a mera irresignação da parte com o resultado obtido, o que impede o emprego dos aclaratórios.
+Nesse sentido, o seguinte precedente:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. SIMPLES REITERAÇÃO DE ARGUMENTOS. NÃO-CABIMENTO. CONTRADIÇÃO INTERNA DO JULGADO. AUSÊNCIA. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas não configuram as hipóteses de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A rediscussão, via embargos de declaração, de questões de mérito já resolvidas configura pedido de alteração do resultado do decisum, traduzindo mero inconformismo com o teor da decisão embargada. Nesses casos, a jurisprudência desta Corte Superior é pacífica no sentido de que os embargos não merecem prosperar.
+3. Tratando-se de mera reiteração de argumentos anteriormente levantados, e sendo certo que as questões apontadas como omitidas foram clara e fundamentadamente examinadas nas decisões precedentes, são manifestamente descabidos os presentes declaratórios.
+4. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ.
+5. Embargos de declaração rejeitados" (EDcl no AgRg nos EAg n. 1.297.275/SP, Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe de 24/02/2015, grifei).
+Ante o exposto, rejeito os embargos de declaração.
+[NOME]
