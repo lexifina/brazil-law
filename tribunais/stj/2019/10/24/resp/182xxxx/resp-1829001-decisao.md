@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. REVISÃO DA APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Ferreira e Ferreira Loterias Ltda. contra os acórdãos de fls. 592-600 e 667-674 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementados:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - ALEGAÇÃO DE PRÁTICA DE AGIOTAGEM - INVERSÃO DO ÔNUS DA PROVA - PRECLUSÃO PRO JUDICATO. A teor do disposto no art. 505 do CPC/2015, matérias já decididas não poderão ser novamente apreciadas, de modo que não pode prevalecer decisão proferida pelo mesmo Juízo que já havia se declarado incompetente, em decisão prolatada anteriormente, a qual não foi objeto de recurso por nenhuma das partes.
+EMBARGOS DE DECLARAÇÃO - 1º EMBARGOS - EFEITOS INFRINGENTES - OBSCURIDADE SANADA - 2º EMBARGOS - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - DECISÃO FUNDAMENTADA - NÃO ADMISSIBILIDADE - MULTA FIXADA. Verificada contradição na condenação imposta no julgamento, devem ser acolhidos os 1º embargos declaratórios com o objetivo de sanar a obscuridade ocorrida. Os Embargos de Declaração são cabíveis somente quando há omissão, contradição ou obscuridade em decisão judicial, não se prestando à rediscussão de matéria já apreciada e decidida. Se a decisão embargada não apresenta contradição, obscuridade ou omissão, consoante o art. 1.022, I e II do Código de Processo Civil de 2015, não devem ser acolhidos os embargos de declaração. Sendo verificado que os embargos de declaração possuem caráter manifestamente protelatório, deverá ser aplicada a multa prevista no art. 1.026, §2º do CPC/2015.
+Nas razões do recurso especial (e-STJ, fls. 677-686), aponta a insurgente a existência de violação dos arts. 43, 144, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015. Sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional e a ausência de fundamentação da decisão.
+Contrarrazões às fls. 699-705 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 707-710), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Inicialmente, defende a recorrente a ocorrência de negativa de prestação jurisdicional. Alega que o Tribunal de origem foi omisso e deixou de fundamentar a decisão quanto ao argumento de que houve confusão entre suspeição e incompetência do Juízo.
+Todavia, observa-se que o Tribunal local concluiu que tal matéria estava preclusa.
+Veja-se à fl. 597 (e-STJ):
+Pois bem, examinando detidamente os autos, constata-se que a decisão agravada, de fls. 67/71-TJ, que determinou a inversão do ônus da prova à exequente, ora agravante, foi proferida pelo MM. Juiz Jefferson Vai Iwassaki, da Comarca de Prata, sendo que a decisão de fl. 121 verso-TJ, prolatada, anteriormente a decisão vergastada, pela MMª Juíza Danielle Louise R. Dias Engel, da mesma Comarca, havia determinado a remessa dos autos à comarca de Campina Verde, por entender pela suspeição do Juízo em questão, revogando, inclusive, os despachos já proferidos.
+A mais, verifica-se este Julgador que a decisão de fl. 121-TJ, a qual reconheceu a incompetência do Juízo da Comarca de Prata não foi objeto de recurso por nenhuma das partes, restando claramente preclusa a matéria nela debatida, a qual não poderia ser novamente decidida, a teor do disposto no art. 505 do CPC/2015, ocorrendo a denominada preclusão pro judicato.
+Assim, não assiste razão à agravante, quando defende a ocorrência de negativa de prestação jurisdicional, porquanto a questão relativa à suspeição foi apreciada pelo órgão julgador, com fundamentação clara, coerente e suficiente, tendo a Corte estadual concluído pela preclusão da matéria.
+Quanto à multa do art. 1.026 do CPC/2015, a jurisprudência desta Corte é no sentido de que a revisão de sua aplicação encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. CERCEAMENTO DE DEFESA. SÚMULA 7 DO STJ. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME SÚMULA 7 DO STJ.
+1. O Tribunal de origem consignou que não houve cerceamento de defesa do agravante, pois a medida cautelar gerou determinação judicial, contudo o resultado pretendido não foi alcançado. Ademais não houve perda do objeto da medida cautelar, uma vez apresentada a informação desejada pelo insurgente.
+2. A revisão da matéria implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula 7 do STJ.
+3. É pacífico o entendimento no STJ de que a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1796830/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/06/2019, DJe 28/06/2019).
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
