@@ -1,0 +1,33 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CAUTELAR PROTESTO. MINISTÉRIO PÚBLICO. LEGITIMIDADE. INTERRUPÇÃO. OCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. EMBARGOS REJEITADOS.
+DECISÃO
+ALBANO PEDRO JOSE SWAROWSKY - SUCESSÃO e outra (SUCESSÃO DE ALBANO PEDRO e outra) promoveram contra o BANCO DO BRASIL S.A. (BANCO DO BRASIL) cumprimento individual da sentença proferida em ação coletiva ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC, que condenou a instituição financeira a pagar as diferenças de correção monetária decorrentes do Plano Verão para as cadernetas de poupança com vencimento na primeira quinzena de 1989.
+O Juízo de primeiro grau julgou improcedente a impugnação manejada pelo BANCO DO BRASIL.
+Contra essa decisão, o BANCO DO BRASIL interpôs agravo de instrumento que foi provido pelo TRS, reconhecendo o advento da prescrição.
+O aresto ficou assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. PRESCRIÇÃO. RECONHECIMENTO.
+Prescreve em cinco anos o prazo para o ajuizamento de cumprimento individual de sentença coletiva. Ocorrido o trânsito em julgado da Ação Civil Pública nº 1998.01.1.016798-9 em 27/10/2009, o direito da parte credora encontra-se prescrito, haja vista o cumprimento de sentença ter sido proposto após transcorrido o prazo de cinco anos do trânsito em julgado da ação coletiva.
+AGRAVO DE INSTRUMENTO PROVIDO PARA EXTINGUIR O CUMPRIMENTO DE SENTENÇA (e-STJ, fl. 177).
+Os embargos de declaração foram desacolhidos (e-STJ, fls. 236/244).
+Irresignados, SUCESSÃO DE ALBANO PEDRO e outra interpuseram recurso especial, com fundamento no art. 105, III, alíneas a e c, da CF, apontando divergência jurisprudencial e violação dos arts. 489, § 1º, e 1.022, ambos do NCPC, e 81, 82 e 83, todos do CDC, 6º, VII, c, da LC/93, e 5º da Lei nº 7.347/85, sustentando, em síntese, (1) omissão no julgado; e (2) que a cautelar de protesto ajuizada pelo Ministério Público interrompeu o prazo prescricional para o cumprimento de sentença.
+O recurso foi provido por decisão monocrática de minha relatoria assim sintetizada:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC QUE NÃO SE VERIFICA. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CAUTELAR PROTESTO. MINISTÉRIO PÚBLICO. LEGITIMIDADE. INTERRUPÇÃO. OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fl. 451).
+Nos presentes embargos de declaração, o BANCO DO BRASIL alegou que, ao contrário do que afirmado pela decisão embargada, não haveria entendimento firme na jurisprudência desta Corte acerca da aptidão interruptiva da ação cautelar de protesto intentada pelo Ministério Público (e-STJ, fls. 545/548).
+É o relatório.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O BANCO DO BRASIL alegou que a decisão embargada seria obscura, porque, ao contrário do que consignado, não haveria entendimento firme na jurisprudência desta Corte acerca da aptidão interruptiva da ação cautelar de protesto intentada pelo Ministério Público.
+A alegação deduzida reveste, no entanto, claro intuito infringente, não se caracterizando omissão, contradição, obscuridade ou erro material capazes de justificar o deferimento dos embargos nos termos do art. 1.022 do NCPC. A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL. QUARTOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VÍCIOS INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO. 2. DECLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. INCIDÊNCIA DE MULTA. ART. 1.026, § 2º, DO CPC/2015. 3. EMBARGOS REJEITADOS.
+1. Os embargos de declaração não se prestam à rediscussão de matéria devidamente abordada e decidida no acórdão embargado, tampouco servem para simples manifestações de inconformismo das partes, afigurando-se evidente o intuito infringente da presente insurgência, cujo objetivo não é suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Dado o nítido caráter protelatório dos terceiros declaratórios, tendo em vista que reproduziram os mesmos argumentos dos dois anteriores, os quais, por sua vez, foram rejeitados, é impositiva a manutenção da multa de 1% sobre o valor atualizado da causa então aplicada, nos termos do que dispõe o art. 1.026, § 2º, do CPC/2015.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl nos EDcl nos EDcl no AgInt no AREsp 1.341.779/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 3/10/2019)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. CONCESSÃO. CÁLCULO DA RENDA MENSAL INICIAL. REQUISITOS DO BENEFÍCIO. PREENCHIMENTO. REGULAMENTO DA ÉPOCA. INCIDÊNCIA. NORMAS REGULAMENTARES. VIGÊNCIA. DATA DA ADESÃO. AFASTAMENTO. DIREITO ADQUIRIDO. INEXISTÊNCIA. DIREITO ACUMULADO. OBSERVÂNCIA. REGIME DE CAPITALIZAÇÃO. FUNDO MÚTUO. PRÉVIO CUSTEIO. EQUILÍBRIO ECONÔMICO-ATUARIAL. PRESERVAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. INADMISSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.435.837/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, DJe 1º/10/2019)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
