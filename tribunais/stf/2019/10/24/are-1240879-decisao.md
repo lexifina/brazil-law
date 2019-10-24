@@ -1,0 +1,31 @@
+Decisão: A Primeira Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina deu parcial provimento à apelação interposta pelo ora recorrente (eDOC 6, p. 20-32), mediante acórdão assim ementado:
+    “APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES (ART. 33, DA LEI N. 11.343/06). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+    PLEITEADA ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. DEPOIMENTOS DOS POLICIAIS MILITARES HARMÔNICOS E COERENTES. CONJUNTO PROBATÓRIO QUE DEMONSTRA A DESTINAÇÃO COMERCIAL DA SUBSTÂNCIA ILÍCITA.
+    DOSIMETRIA. REQUERIDA A VALORAÇÃO DA ATENUANTE DA MENORIDADE RELATIVA. COM RAZÃO. ABRANDAMENTO DA PENA INTERMEDIÁRIA PARA O MÍNIMO LEGAL.
+    ALMEJADA APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO §4°, DO ARTIGO 33, DA LEI N. 11.343/06. IMPOSSIBILIDADE. MESMO PRIMÁRIO. AGENTE REGISTRA PRÁTICA DE VÁRIOS ATOS INFRACIONAIS EQUIPARADOS AO TRÁFICO DE SI ENTORPECENTES. COMPROVADA DEDICAÇÃO CRIMINOSA QUE OBSTA APLICAÇÃO DA BENESSE.
+    PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. E REPRIMENDA SUPERIOR A QUATRO ANOS QUE IMPEDE A SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS, EXEGESE DO ART. 44, INCISO I, DO CÓDIGO PENAL.
+    EXECUÇÃO PROVISÓRIA. SENTENÇA CONDENATÓRIA CONFIRMADA POR ESTA CORTE DE JUSTIÇA. PRECLUSÃO DA MATÉRIA FÁTICA. NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC N. 4130 126.292/SP) ADOTADA POR ESTA CÂMARA CRIMINAL (AUTOS N. 0000039-15.2016.8.24.0059). TRANSMUDAÇÃO DOS FUNDAMENTOS DA PRISÃO, QUE PASSA DE SEGREGAÇÃO CAUTELAR PARA A DE CUMPRIMENTO DE ACÓRDÃO PENAL CONDENATÓRIO.
+    RECURSO CONHECIDO E PARCIALMENTE PROVIDO.” (eDOC 6, p. 20)
+    Daí os recursos especial (eDOC 9, p. 15-23; eDOC 10, p. 1-5) e extraordinário (eDOC 7, p. 1-15).
+    No RE, alegou-se ofensa aos artigos 5º, LVII e 93, inciso IX, da Constituição Federal, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    O 2º Vice-Presidente do TJ/SC negou seguimento ao RE, em relação ao Tema 339/STF e não o admitiu quanto às demais alegações, bem como não admitiu o REsp (eDOC 10, p. 20-23; eDOC 11, p. 1-6).
+    Daí o presente ARE (eDOC 8, p. 11-20; eDOC 9, p. 1-4) e AREsp (eDOC 11, p. 8-20; eDOC 12, p. 1).
+    O Presidente do STJ não conheceu do AREsp 1.450.519/SC (eDOC 12, p. 15-16). Após, a Quinta Turma negou provimento ao agravo regimental interposto pelo ora recorrente, mediante acórdão transitado em julgado aos 9.10.2019 (certidão; eDOC 12, p. 65).
+    É o relatório.
+    Decido.
+    A presente irresignação recursal não merece prosperar, visto que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento”. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    No que concerne à suposta ofensa ao art. 93, IX, da Constituição Federal, frise-se o contido na decisão proferida no ARE 891.999/MG, Rel. Min. Rosa Weber, DJe 7.11.2017;
+    “(...) Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    ‘Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.’ (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010)”
+    Ainda no mesmo sentido, recentemente: ARE 1.174.179 AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma, DJe 5.4.2019; ARE 1.132.759 AgR/PR, Rel. Min. Rosa Weber, Primeira Turma, DJe 3.4.2019; dentre outros.
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 24 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
