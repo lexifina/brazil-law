@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo (artigo 544 do CPC/73) interposto por KIRTON BANK S.A. - BANCO MÚLTIPLO em face da decisão que inadmitiu o recurso especial, esse de sua vez manejado, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia.
+1. Discute-se no apelo nobre de fls. 611/661 (e-STJ), dentre outras questões, a legitimidade passiva do HSBC Bank Brasil S/A para responder pelos encargos advindos de expurgos inflacionários relativos a cadernetas de poupança mantidas perante o extinto Banco Bamerindus S/A, em decorrência de sucessão empresarial havida entre as instituições financeiras, bem como a legitimidade ativa do não associado para a execução da sentença proferida em ação civil pública.
+As referidas controvérsias foram afetadas pela Segunda Seção desta Corte à sistemática de recursos especiais repetitivos, cadastradas como Temas 1.015 e 948.
+Ademais, foi determinada a suspensão da tramitação de processos em todo território nacional, nos termos do artigo 1037, inciso II, do CPC.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Ante o exposto, proceda-se à restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo das matérias submetidas à sistemática dos recursos repetitivos (Temas 1015 e 948) e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC.
+Publique-se.
+Intimem-se.
