@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURÍLIO NERIS DE ANDRADE ARRUDA contra decisão que indeferiu liminarmente o habeas corpus impetrado contra decisão do Tribunal de Justiça de Minas Gerais que indeferiu a liminar no HC n. 1292440-16.2019.8.13.0000.
+Neste incidente, o embargante reapresenta os argumentos anteriormente trazidos na impetração, pretendendo, em suma, anular a ação penal movida em seu desfavor desde a fase de apresentação das alegações finais, com esteio na decisão proferida pelo Supremo Tribunal Federal no julgamento do HC n. 166.373/PR.
+A defesa se insurge, ainda, contra a demora no julgamento do recurso de apelação pelo Tribunal de Justiça mineiro, que, segundo alega, está concluso desde o dia 1º de março de 2018.
+Pretende a reconsideração da decisão impugnada ou, subsidiariamente, a remessa dos autos ao Colegiado.
+É o relatório. Decido.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+In casu, não se verifica que o acórdão embargado contenha quaisquer dos vícios que permitem o manejo da insurgência, o que impede o seu acolhimento, valendo o destaque de que a presente via não funciona como recurso de revisão. A mera irresignação com o entendimento apresentado na decisão embargada não viabiliza a oposição dos aclaratórios.
+Conforme relatado anteriormente, o presente mandamus foi impetrado contra decisão proferida pelo Desembargador Rubens Gabriel Soares, no dia 7 de outubro de 2019, indeferindo o pedido liminar formulado pelo impetrante em habeas corpus apresentado perante o Tribunal de Justiça de Minas Gerais. Em consulta realizada no endereço eletrônico daquele Tribunal, verificou-se que ainda não houve pronunciamento definitivo quanto ao mérito da impetração.
+Diante dessa situação, a petição inicial do mandamus foi indeferida liminarmente, pela incidência do óbice contido no enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, o que não se admite, porquanto, "conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração" (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Min. JORGE MUSSI, Terceira Seção, DJe 20/2/2015).
+O que se percebe, analisando as razões deste incidente, é que, sob a alegação da existência dos vícios que autorizam a oposição de embargos, a defesa pretende, em verdade, a reapreciação de matéria já analisada e rechaçada, propósito para o qual não se prestam os aclaratórios, conforme entendimento jurisprudencial já pacificado nesta Corte Superior de Justiça.
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO E CONTRADIÇÃO NO JULGADO. INEXISTÊNCIA DE VÍCIO A SER SANADO. ANÁLISE DE MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, hipótese não configurada nos autos.
+2. A intenção de atribuir caráter infringente ao embargo de declaração, pretendendo-se a modificação do provimento anterior, com a rediscussão da questão, não é efeito próprio do recurso integrativo.
+3. São incabíveis embargos de declaração para que o Superior Tribunal de Justiça enfrente matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Embargos declaratórios rejeitados. (EDcl no AgRg no AREsp 521.900/ES, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 5/5/2016, DJe 16/5/2016);
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. AUSÊNCIA DE INDICAÇÃO DOS FUNDAMENTOS NÃO IMPUGNADOS NA DECISÃO AGRAVADA. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado qualquer dos vícios previstos no art. 619 do Código de Processo Penal que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste a omissão apontada pela defesa, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Caracteriza inovação recursal a pretensão de revolver a matéria decidida apresentando nova alegação suscitada apenas nos presentes embargos declaratórios.
+4. Embargos de Declaração rejeitados. (EDcl no AgRg no AREsp 381.524/CE, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 17/5/2018, DJe 1º/6/2018)
+Ante o exposto, rejeito os presentes embargos.
+Intimem-se.
