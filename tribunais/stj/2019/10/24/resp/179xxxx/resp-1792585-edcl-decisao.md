@@ -1,0 +1,24 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PLANO DE SAÚDE. NECESSIDADE DE ESCLARECIMENTO. HONORÁRIOS SUCUMBENCIAIS FIXADOS SOBRE O VALOR DA CONDENAÇÃO A TÍTULO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] à decisão desta relatoria que deu parcial provimento ao recurso especial interposto por Unimed Belo Horizonte Cooperativa de Trabalho Médico, nos termos da seguinte ementa (e-STJ, fl. 751):
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PLANO DE SAÚDE. 1. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. PROPÓSITO DE PREQUESTIONAMENTO DA MATÉRIA. PROCEDÊNCIA. INCIDÊNCIA DA SÚMULA 98/STJ. 2. PROCEDIMENTOS COM COBERTURA OBRIGATÓRIA PELA ANS E VALOR DA INDENIZAÇÃO FIXADO A TÍTULO DE DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. HONORÁRIOS SUCUMBENCIAIS. NECESSIDADE DE OBSERVÂNCIA DOS LIMITES PREVISTOS NO ART. 85, § 2º, DO CPC/2015. PRECEDENTES. 4. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Nas razões recursais, alega a embargante a existência de incorreção na decisão embargada, ao indicar a ausência de apresentação das contrarrazões ao recurso especial, uma vez que o Tribunal de origem tornou sem efeito a certidão de fls. 650, que informava a ausência de apresentação de tal documento, posteriormente juntado às fls. 706-734.
+Afirma que a falta de apreciação de tal peça constitui vício insanável por violação ao direito ao contraditório e ao devido processo legal, devendo ser anulada a decisão monocrática proferida por esta relatoria.
+Aduz a existência de obscuridade quanto ao arbitramento dos honorários sucumbenciais, uma vez que "não está claramente definido se a decisão deu provimento ao recurso especial: (1) para apenas e tão somente informar que os honorários sucumbenciais incidem sobre o valor da condenação, sem adentrar, portanto, no mérito acerca de quais parcelas compõem essa condenação; ou (II) se além desse redimensionamento da base de cálculo, a decisão ainda declara que a "condenação" abrange exclusivamente a indenização por dano moral, excluindo sua incidência, assim, o valor da cirurgia que aquela também foi condenada a pagar integralmente" (e-STJ, fl. 762).
+Por fim, pleiteia o acolhimento dos aclaratórios para que os honorários sucumbenciais arbitrados incidam sobre o montante total da condenação, incluindo a obrigação de fazer.
+Impugnação apresentada às fls. 793-797 (e-STJ).
+É o relatório.
+Consta da decisão embargada (e-STJ, fls. 754-755):
+No que se refere ao valor da verba honorária, a Corte local inverteu os ônus sucumbenciais fixados na sentença e majorou os honorários advocatícios para 15% (quinze por cento) sobre o valor da causa.
+Ocorre que, nos termos da jurisprudência do STJ, "em regra: a) os honorários devem ser fixados com base no valor da condenação; b) não havendo condenação ou não sendo possível valer-se da condenação, utiliza-se (b.1) o proveito econômico obtido pelo vencedor ou, como última hipótese, (b.2) recorre-se ao valor da causa" (REsp. 1.746.072/PR, Relator para acórdão Ministro Raul Araújo, DJe 29/3/2019).
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. PEDIDOS ACOLHIDOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS FIXADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO A TÍTULO DE DANOS MORAIS. AGRAVO INTERNO PROVIDO.
+1. Na hipótese, a parte ora agravada foi condenada a cumprir a obrigação de fazer - autorização para realização de intervenção cirúrgica - e a pagar indenização a título de danos morais. Nessa senda, apenas a condenação em danos morais possui conteúdo econômico, motivo pelo qual os honorários advocatícios sucumbenciais devem ser fixados quanto a essa condenação.
+2. Agravo interno provido para determinar que os honorários advocatícios sucumbenciais são de 10% sobre o valor da condenação referente aos danos morais.
+(AgRg nos Edcl no AREsp 198.124/RS, Relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região, DJe 21/9/2018, sem grifo no original).
+Destarte, impõe-se a reforma da decisão para fixar os honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação.
+Cabe esclarecer que os honorários sucumbenciais incidem sobre o valor da condenação fixado a título de danos morais, tendo em vista que o plano de saúde custeou a realização do procedimento cirúrgico.
+É orientação jurisprudencial desta Corte que "não há proveito econômico mensurável em relação à obrigação de fazer - custear as despesas com o tratamento do segurado - que a recorrente  plano de saúde  está obrigada a cumprir" (AREsp n. 1.435.337/SP, Relator Ministro Marco Buzzi, DJe 12/8/2019).
+Ante o exposto, acolho os aclaratórios apenas para esclarecimento quanto aos honorários sucumbenciais, sem efeitos modificativos.
+Publique-se.
