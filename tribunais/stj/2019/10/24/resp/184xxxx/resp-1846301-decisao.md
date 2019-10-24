@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por TÂNIA MARTINS LAUDADE contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 242):
+AÇÃO DE EXIBIÇÃO DE DOCUMENTOS ajuizada na vigência do CPC/2015 extinção com resolução do mérito julgamento de procedência - contudo, a demanda foi interposta sob a égide do CPC/2015, que não mais prevê a possibilidade de ação autônoma cujo objeto seja exibição de documentos - pretensão que pode ser exercida de forma incidental, nos termos do art. 396 e seguintes, ou na forma de produção antecipada de provas, nos termos do art. 381 e seguintes ausência de qualquer cautelaridade - ausência de interesse de agir inteligência do artigo 485, inciso VI do CPC sentença anulada, já que está caracterizada a carência de ação pedido de condenação da ré nos ônus da sucumbência impossibilidade causalidade que deve ser imposta à autora - sentença anulada de ofício para extinguir a ação por falta de interesse de agir recurso não conhecido.
+Nas razões de seu recurso especial, além de dissídio jurisprudencial, a parte recorrente sustenta vulneração aos arts. 85, 308, 309, 310, 381, 489, III e § 1º, IV, VI do CPC; e 6º, VIII, do CDC. Assevera que a ação cautelar de exibição de documento é cabível como medida preparatória a fim de instruir a ação principal e que o Tribunal Estadual demonstrou não conhecer a jurisprudência do STJ nesse sentido, em especial o Resp n. 1.349.453/MS que pacificou o entendimento acerca da existência de interesse de agir nas ações de exibição de documentos bastando para tanto da demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço. Afirma ter atendido todos os requisitos ali definidos.
+Foram apresentadas contrarrazões (e-STJ fls. 349-353).
+É o relatório.
+Passo a decidir.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
