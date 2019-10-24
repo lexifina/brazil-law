@@ -1,0 +1,17 @@
+DECISÃO
+RENAN MIRANDA DO NASCIMENTO alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de de Justiça do Estado do Rio de Janeiro na Apelação n. 0039981-72.2016.8.19.0001.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para exasperar a pena-base, fixar o regime inicial semiaberto, negar a substituição por reprimendas restritivas de direitos e determinar a imediata expedição de mandado de prisão.
+Requer, liminarmente e no mérito, a revogação da ordem de prisão e a readequação da pena.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela denegação da ordem.
+Decido.
+O ora paciente foi condenado, em primeira instância, à pena de 2 anos e 6 meses de reclusão, em regime inicial semiaberto, como incurso no art. 329, § 1º, do Código Penal. Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo e determinou a "imediata expedição de Mandado de Prisão" (fl. 17). Os embargos declaratórios opostos contra o decisum foram rejeitados (fls. 23-25).
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que o acórdão prolatado no julgamento dos aclaratórios foi publicado em 30/8/2018 e não há registro de impugnações posteriores.
+Inicialmente, faço lembrar que o Supremo Tribunal Federal que, por meio do Tribunal Pleno, no julgamento do HC n. 126.292/SP, decidiu: "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC n. 126.292/SP, Tribunal Pleno, Rel. Ministro Teori Zavascki, DJe 17/5/2016).
+A matéria foi objeto de novo exame pela Corte Suprema, em 5/10/2016, nas ADCs n. 43 e 44, e, posteriormente, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, nos quais foi novamente afirmada a possibilidade de a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+No mesmo sentido, no julgamento dos EDcl no REsp n. 1.484.415/DF, de minha relatoria, ocorrido no dia 3/3/2016, a Sexta Turma também concluiu pela possibilidade de início imediato de execução provisória da pena. Faço referência aos fundamentos por mim externados no voto condutor do acórdão, para evitar repetição desnecessária.
+Dessa forma, observo que a prisão do paciente, em decorrência da confirmação, em segunda instância, do decreto condenatório, não possui como fundamento a cautelaridade prevista no art. 312 do Código de Processo Penal, mas principalmente o esgotamento da apreciação do fato pelas instâncias ordinárias, o que viabiliza a execução da reprimenda, conforme recente jurisprudência das Cortes Superiores de Justiça.
+Quanto às questões relacionadas à dosimetria da pena, verifico que já foram questionadas no HC n. 483.859/RJ, em que figura como paciente o ora requerente, e se volta contra o mesmo ato aqui apontado como coator (Apelação n. 0039981-72.2016.8.19.0001).
+Ademais, noto que, naqueles autos, a liminar foi por mim indeferida em 20/12/2018, por não identificar flagrante ilegalidade na espécie.
+Dessa forma, verifico que, no ponto, a presente impetração é mera reiteração do pedido anterior.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
