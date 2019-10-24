@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+De acordo com a petição inicial, o paciente foi condenado às penas de 1 ano e 8 meses de reclusão, a ser cumprida inicialmente no regime aberto, e pagamento de 166 dias-multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Consta ainda da inicial que "após a interposição dos eventuais recursos o respeitável Tribunal de Justiça proferiu o  ..  acórdão, dando improcedência no pedido formulado pela defesa e dando procedência parcialmente no pedido formulado pela acusação, assim  os desembargadores da  9ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo modificaram a pena prolatada ao paciente pelo juízo "a quo", e condenaram o paciente ora [NOME] a cumprir 5 (cinco) anos de reclusão, em regime inicial fechado, mais o pagamento de 500 dias-multa, no valor unitário mínimo" (e-STJ fl. 5).
+Nesta instância, a defesa sustenta carecer de fundamentação idônea o recrudescimento da reprimenda imposta ao paciente pelo Tribunal a quo, pois a quantidade de drogas apreendida e o fato de ser o agente portador de condições pessoais favoráveis afastam a conclusão de ser o condenado dedicado ao tráfico de drogas.
+Assim, requer "a concessão da presente ordem de "habeas corpus", em face do paciente, sendo ele posto em liberdade imediatamente e que possa dar inicio ao cumprimento de pena prolatada no juízo da 1º instância, onde a pena é de 1 (hum) ano e 8 (oito) meses de reclusão, em regime inicial aberto, que foi substituída por duas penas restritivas de direitos, sendo utilizado o instituto SURSIS PENAL e ao pagamento a pena de multa de 166 dias-multa" (e-STJ fl. 10).
+Os autos foram a mim distribuídos por prevenção do HC n. 433.451/SP.
+É, em síntese, o relatório.
+Não obstante as razões constantes da petição inicial, o impetrante deixou de juntar aos autos cópia do inteiro teor da sentença condenatória proferida contra o paciente e do acórdão prolatado pelo Tribunal de origem no julgamento do respectivo recurso de apelação, documentos esses imprescindíveis para análise do presente writ.
+Ora, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+ ..  2. O habeas corpus exige prova pré-constituída das alegações e tal ônus é do impetrante.
+3. Hipótese em que a defesa do paciente não se desincumbiu do seu dever de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia do interior teor do acórdão proferido pelo Tribunal estadual enfrentando a temática suscitada no writ, nem mesmo após apresentar pedido de reconsideração.
+4. Das peças juntadas com a impetração, não se extrai a existência de manifesto constrangimento ilegal, baseada que está a prisão preventiva do paciente, aparentemente, na reiteração delitiva recente.
+5. Pedido de reconsideração recebido como agravo regimental e improvido.
+(RCD no HC n. 480.522/PE, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2018, DJe 4/2/2019 - grifei)
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. PLEITO DE PRISÃO DOMICILIAR. INSTRUÇÃO DEFICIENTE.
+1. Na via eleita, é imprescindível a prova pré-constituída das alegações, o pedido deve vir acompanhado de elementos documentais consistentes, destinados a comprovar o apontado constrangimento ilegal.
+2. Caso em que o ora agravante, a par de não ter rebatido a prejudicialidade do writ na origem, não juntou aos autos, entre outros documentos, nem a decisão que analisara o pedido de prisão domiciliar nem a sentença que sobreveio, não sendo possível a exata compreensão do caso.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 98.498/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/8/2018, DJe 29/8/2018)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO DO RECURSO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. JULGADOR COMO DESTINATÁRIO DAS PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que a decisão deve ser mantida por seus próprios fundamentos, pois os autos não foram instruídos com o decreto de prisão preventiva, a sentença condenatória em que se negou o direito ao Paciente de recorrer em liberdade, bem como a sucessão completa de andamentos processuais para averiguação do alegado excesso de prazo, sendo os referidos documentos imprescindíveis para a plena compreensão dos fatos e pedidos aduzidos.
+2. Cabe apenas ao Julgador, verdadeiro destinatário das provas, a verificação de quais documentos entende como imprescindíveis para a análise das controvérsias suscitadas. Sendo, no caso, constatada a ausência de peças necessárias para a verificação do constrangimento alegado, correta a decisão que entendeu pela instrução deficitária do recurso ordinário em habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 100.336/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 3/9/2019, DJe 16/9/2019)
+Assim, ante a instrução deficiente da presente impetração e com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
