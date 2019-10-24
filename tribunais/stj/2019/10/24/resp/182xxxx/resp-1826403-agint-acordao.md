@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMPRÉSTIMO BANCÁRIO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO E EM CONTA-CORRENTE. MATÉRIA NÃO PREQUESTIONADA. INCIDÊNCIA DA SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO FEDERAL SOBRE O QUAL RECAI A DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284/STF.
+1. As matérias pertinentes aos arts. 1º, 11, 104, 113, 313 e 422 do Código Civil e 28 e seguintes da Lei nº 10.931/2004, de fato, não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Banco de Brasília S.A., desafiando decisão de fls. 391/393, que não conheceu do recurso especial, em razão da incidência das Súmulas 282 e 284 do STF.
+Em suas razões, a parte agravante sustenta a inaplicabilidade dos referidos óbices. Afirma que, "embora os referidos artigos não tenham sido expressamente consignados no aresto recorrido, as matérias pertinentes foram totalmente enfrentadas no voto vencedor do aresto, da i. Desembargadora Nídia Corrêa Lima, relatora designada. No que diz respeito a não indicação do dispositivo federal sobre o qual recaiu a divergência jurisprudencial, melhor sorte também não assiste à decisão proferida, em razão de se encontrarem expressamente elencados os artigos relacionados nas razões recursais (fl. 353)" (fls. 399/400).
+Houve manifestação da parte agravada (fls. 404/409).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMPRÉSTIMO BANCÁRIO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO E EM CONTA-CORRENTE. MATÉRIA NÃO PREQUESTIONADA. INCIDÊNCIA DA SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO FEDERAL SOBRE O QUAL RECAI A DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284/STF.
+1. As matérias pertinentes aos arts. 1º, 11, 104, 113, 313 e 422 do Código Civil e 28 e seguintes da Lei nº 10.931/2004, de fato, não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos aduzidos ao presente recurso, a decisão agravada não merece reparos.
+Como antes asseverado, as matérias pertinentes aos arts. 1º, 11, 104, 113, 313 e 422 do Código Civil e 28 e seguintes da Lei nº 10.931/2004, de fato, não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+De outro lado, reitera-se a incidência da Súmula 284/STF ao caso, pois, na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
