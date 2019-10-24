@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. REVISÃO DA ÍNDOLE ABUSIVA DA COBRANÇA DE COMISSÃO DE CORRETAGEM E DE TAXA SATI. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Segunda Seção desta eg. Corte, no julgamento do REsp 1.599.511/SP, sob o rito de recurso repetitivo do art. 1.040 do CPC/2015, firmou o entendimento de que somente é válida a transferência ao promitente-comprador da obrigação de pagar comissão de corretagem quando previamente informado e expressamente previsto no compromisso de compra e venda (Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 06/09/2016).
+2. A revisão da conclusão do Tribunal de origem acerca do descumprimento do dever de informação e de transparência na cobrança de comissão de corretagem e de taxa SATI, em obediência às teses fixadas nos Temas 938 e 939 dos Recursos Repetitivos, não prescinde do reexame direto do acervo fático-probatório dos autos, providência inviável nesta instância, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi (Presidente) e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por RIBEIRÃO NITERÓI EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA contra decisão monocrática desta relatoria, de fls. 756-758 (e-STJ), que não conheceu do recurso especial, com base nos seguintes fundamentos: I) ausência de prequestionamento sobre a irresponsabilidade pela devolução de valores, nos termos da Súmula 282/STF; e II) necessidade de reexame das provas para o reconhecimento do cumprimento do dever de informação e transparência na cobrança da comissão de corretagem e da taxa SATI, óbice da Súmula 7/STJ.
+Em suas razões recursais (e-STJ, fls. 765-784), a parte agravante alega a não observância das teses fixadas nos recursos repetitivos REsps 1.599.511/SP, 1.551.956/SP, 1.551.968/SP e 1.551.951/SP, sob o argumento de comprovação documental da ciência inequívoca da contratação pela parte contrária, conforme contrato de comissão juntado aos autos pela parte agravada e cheques por esta última emitidos. Aduz que a pretensão recursal é de aplicação do direito conforme estabelecido em recurso repetitivo, em vez de reexame fático-probatório e de interpretação contratual, conforme as Súmulas 5 e 7 do STJ.
+Impugnação não apresentada (e-STJ, fl. 787).
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+As razões recursais não trouxeram nenhum argumento capaz de modificar a decisão monocrática ora agravada, a qual deve ser confirmada.
+Nas razões de recurso especial, a recorrente alegou violação dos arts. 722, 723, 724, 725, 726, 727, 728, 729 e 876 do CC; e 927, III, e 928 do CPC/2015, defendendo a regularidade da cobrança da comissão de corretagem, em conformidade com as teses fixadas nos recursos repetitivos REsps 1.599.511/SP e 1.551.951/SP, com o argumento de ter ocorrido transparência da informação e individualização das rubricas preço da compra e venda e comissão de corretagem objeto de pagamento, conforme comprovado por documentos constantes dos autos, especialmente do quadro-resumo do contrato de compra e venda e do relatório de venda da unidade.
+Entretanto, o Tribunal de origem considerou indevida a cobrança da taxa SATI e da comissão de corretagem, à luz das teses firmadas no julgamento dos recursos especiais repetitivos REsps 1.599.511/SP (Tema 938) e 1.551.951/SP (Tema 939) e das provas dos autos, com fundamento no descumprimento da prévia e transparente informação sobre o pagamento (e-STJ, fls. 465-467):
+Mas, quanto aos valores pagos depois de 30/05/2011, os valores deverão ser devolvidos aos autores.
+Registre-se, aliás, que o E. Superior Tribunal de Justiça, para fins do art. 1.040, do CPC/2015, assentou os seguintes posicionamentos:
+No REsp nº 1.599.511/SP:
+"1.1. Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem.
+1.2. Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico- imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel".
+No REsp nº 1551951/SP:
+"1.1. Legitimidade passiva "ad causam" da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico-imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor".
+Apesar da validade da cláusula a prever a comissão de corretagem, a cargo do adquirente, a Corte superior condicionou a sua eficácia à prévia informação do preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem. Como consta do julgado supramencionado, era necessário que os autores fossem, previamente, informados do preço total da aquisição, com destaque do valor da comissão de corretagem.
+No caso, nada indica que a informação acerca da comissão de corretagem/taxa SATI tenha sido prestada em momento anterior à assinatura do contrato, já que todos os documentos estão datados de 23/05/2011 (fls. 60/87), tudo indicando que foram apresentados aos compromissários compradores, de uma só vez, e como condição para concretização do negócio.
+Ora, embora seja válida a cláusula que transfere ao adquirente o pagamento da comissão de corretagem, exige-se transparência nessa atribuição, o que não ocorreu no caso dos autos.
+Deverá a ré, portanto, restituir aos autores, de forma simples, os valores pagos, a título de comissão de comissão e taxa de assessoria técnica imobiliária (SATI), a partir de 30/05/2011, a serem apurados na fase de liquidação.
+Ante o exposto, para os fins assinalados, dou provimento parcial ao recurso da ré e nego provimento ao apelo dos autores.
+É o meu voto.
+Desse modo, o acolhimento da tese recursal sobre o cumprimento do dever de informação e transparência na cobrança das referidas despesas somente poderia ocorrer mediante o reexame direto das provas constantes dos autos, inclusive daquelas indicadas pela parte recorrente, a fim de ser extraída conclusão fática em sentido contrário àquela estabelecida pelo Tribunal de origem, providência manifestamente proibida nesta instância, ante o óbice da Súmula 7/STJ.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
