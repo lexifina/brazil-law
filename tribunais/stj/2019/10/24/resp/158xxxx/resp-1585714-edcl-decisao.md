@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 414):
+TRIBUTÁRIO. RECURSO ESPECIAL. CREDITAMENTO DE ICMS NA AQUISIÇÃO DE COMBUSTÍVEIS E LUBRIFICANTES. SOCIEDADE EMPRESÁRIA PRESTADORA DE SERVIÇOS DE TRANSPORTE. BENS QUE SE CARACTERIZAM COMO INSUMO NECESSÁRIO À PRESTAÇÃO DO SERVIÇO. PRECEDENTES. HIPÓTESE EM QUE NÃO SE ENQUADRAM A AQUISIÇÃO DE ÁGUA, MATERIAL DE LIMPEZA E ASSEMELHADOS. RECURSO ESPECIAL PROVIDO.
+Em suas razões, a parte embargante sustenta que a decisão embargada seria obscura e omissa quanto a questão do creditamento de ICMS nas aquisições de PNEUS E PEÇAS também fazem parte dos insumos adquiridos pela empresa Embargante.
+Com impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, destaca-se que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+No caso, o Recurso Especial foi provido nos seguintes termos (e-STJ fls. 414-416):
+ ..
+A insurgência merece prosperar.
+Com efeito, a jurisprudência desta Corte é no sentido de que, tendo em vista o objeto social da sociedade empresária, deve-se reconhecer que os combustíveis e lubrificantes são insumos necessários à prestação do serviço de transporte, o que gera seu direito ao creditamento do ICMS, hipótese em que não se enquadra a aquisição de água, material de limpeza e assemelhados
+Nesse sentido:
+TRIBUTÁRIO. ICMS. CREDITAMENTO. AQUISIÇÃO DE COMBUSTÍVEIS E LUBRIFICANTES. SOCIEDADE EMPRESÁRIA PRESTADORA DE SERVIÇOS DE TRANSPORTE. PRODUTOS INDISPENSÁVEIS À PRESTAÇÃO DO SERVIÇO. INSUMOS.
+1. O entendimento da Primeira Turma do STJ é no sentido de reconhecer o direito ao creditamento de ICMS no que concerne à aquisição de combustível e lubrificantes por sociedade empresária prestadora de serviço de transporte, uma vez que tais produtos são essenciais para o exercício de sua atividade produtiva, devendo ser considerados como insumos. Julgados: AgInt no REsp 1.208.413/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 17/05/2017; RMS 32.110/PA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2010.
+2. Agravo interno não provido (AgInt no AREsp 424110/PA, Rel. Min. Sergio Kukina, Primeira Turma, Dje 26/2/2019, grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CREDITAMENTO DE ICMS NA AQUISIÇÃO DE COMBUSTÍVEIS E LUBRIFICANTES. SOCIEDADE EMPRESÁRIA PRESTADORA DE SERVIÇOS DE TRANSPORTE. BENS QUE SE CARACTERIZAM COMO INSUMO NECESSÁRIO À PRESTAÇÃO DO SERVIÇO.
+1. Recurso ordinário em mandado de segurança em que se pretende o reconhecimento do direito de sociedade empresária prestadora de serviços de transporte fluvial ao creditamento do ICMS realizado no período de janeiro a dezembro de 2006, referente à aquisição de combustíveis e lubrificantes.
+2. A jurisprudência do STJ tem reconhecido o direito das prestadoras de serviços de transporte ao creditamento do ICMS recolhido na compra de combustível, que se carateriza como insumo, quando consumido, necessariamente, na atividade fim da sociedade empresária. Precedentes: REsp 1.090.156/SC, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 20/08/2010; REsp 1175166/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26/03/2010.
+3. Ante o objeto social da sociedade empresária recorrente, deve-se reconhecer que os combustíveis e lubrificantes são insumos necessários à prestação do serviço de transporte fluvial, e não bens de simples uso e consumo, como tem interpretado a administração tributária estadual. 4. Recurso ordinário provido para reconhecer o direito da impetrante ao creditamento do ICMS referente aos combustíveis e lubrificantes que utilizou na prestação do serviço de transporte fluvial." (STJ, 1ªT, RMS 32.110/PA, rel. Min. Benedito Gonçalves, DJe 20/10/2010)
+TRIBUTÁRIO. ICMS. SERVIÇO DE TRANSPORTE FLUVIAL. COMBUSTÍVEL. APROVEITAMENTO DO ALUDIDO CRÉDITO POR FORÇA DO PRINCÍPIO DA NÃO-CUMULATIVIDADE.
+O combustível utilizado por empresa de prestação de serviço de transporte fluvial constitui insumo indispensável à sua atividade, de modo que o ICMS incidente na respectiva aquisição constitui crédito dedutível na operação seguinte (LC 87/96, art. 20, caput). Tratando-se o combustível de insumo, não se lhe aplica a limitação prevista no art. 33, I, da Lei Complementar nº 87, de 1996, que só alcança as mercadorias destinadas ao uso ou consumo do estabelecimento." (STJ, 1ª T, REsp 1.435.626/PA, rel. Min. Ari Pargendler, DJe 13/6/2014)
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se. Intimem-se.
+ ..
+Com efeito, o recurso especial do Distrito Federal limitou-se a requerer o não reconhecimento do direito ao creditamento imediato do ICMS incidente sobre a entrada de água, materiais de limpeza e assemelhados no estabelecimento da recorrida, não tendo se referido em nenhum momento a pneus e peças, o provimento foi dado exclusivamente para modificar o acórdão recorrido apenas no que se refere ao ao creditamento imediato do ICMS incidente sobre a entrada de água, materiais de limpeza e assemelhados, permanecendo inalterado quanto aos demais pontos.
+Nesse passo, como o ora embargante descreve razões inerentes ao mérito da causa, fica clara sua intenção de rediscussão por via transversa da matéria decidida, subvertendo o propósito do presente instrumento recursal.
+Assim, evidenciando-se não haver falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, devem os embargos serem rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
