@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 20):
+AGRAVO DE INSTRUMENTO. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. EXECUÇÃO FISCAL. PROCESSO ELETRÔNICO. CITAÇÃO POSTAL. DESPESAS A CARGO DO EXEQUENTE.
+Em se tratando de ato a ser praticado pelo correio, a secretaria disponibilizará a carta para que o interessado encaminhe à parte adversa, com posterior juntada do comprovante de remessa com aviso de recebimento, salvo se o interessado é a Fazenda Pública ou beneficiário de gratuidade da justiça.
+O recorrente alega, além de dissídio jurisprudencial, violação do art. 152 do CPC/2015, sustentando que, nos termos deste artigo, efetuar a citação é incumbência do escrivão ou do chefe de secretaria. Menciona o recorrente, à fl. 28, que a decisão vergastada mitiga o alcance deste dispositivo legal ao entender que a mera "elaboração" da carta atende ao disposto na lei e, portanto, não a contraria. Aponta, ainda, à fl. 31, que a decisão vergastada afirma pontualmente, conforme excerto alhures, que as despesas com a postagem das cartas de citação não estão incluídas nas custas iniciais adiantadas pelos exequentes. Este entendimento afronta o consignado na decisão paradigma em anexo, exarada no bojo do REsp 1.772.000-SP, a qual menciona expressamente, vide ementa acima reproduzida, que a citação é ato processual cuja realização está albergada no conceito de custas processuais.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 43.
+É o relatório. Passo a decidir.
+Verifica-se, nas razões de recurso especial, que o recorrente fundamenta a violação do art. 152, II, do CPC/2015, ancorando-se em duas teses, a saber, a de que a citação é incumbência do escrivão ou do chefe de secretaria (fl. 27) e a de que a decisão vergastada mitiga o alcance deste dispositivo legal ao entender que a mera elaboração da carta atende ao disposto na lei e, portanto, não a contraria. (fl. 28).
+A partir da análise das razões recursais, é possível observar que o recorrente não logrou indicar, adequadamente, o dispositivo legal federal supostamente malferido.
+Isso porque, o art. 152, II, do CPC/2015 não possui comando normativo capaz de sustentar as teses recursais nucleares - de que i) é incumbência atribuída ao escrivão ou chefe de secretaria, uma vez deferida a citação postal, providenciar o envio, pelo correio, da carta de citação já expedida e assinada e ii) a mera elaboração da carta citatória não atende ao disposto no art. 152, II - e, com isso, infirmar a validade do fundamento decisório.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
