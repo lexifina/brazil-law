@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ILEGITIMIDADE PASSIVA E PRESCRIÇÃO INTERCORRENTE AFASTADAS. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ANA CRISTINA MORTEAN TOMAZ (ANA CRISTINA) interpôs agravo de instrumento contra decisão que, nos autos do cumprimento da sentença proferida na ação de cobrança ajuizada por RUBENS REMO FARINA (RUBENS) contra a [NOME] ADMINISTRADORA DE CONSÓRCIOS S/C LTDA. ([NOME]), rejeitou a impugnação por ela ofertada.
+O Tribunal gaúcho negou provimento ao aludido agravo em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CONSÓRCIO. AÇÃO DE COBRANÇA. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA.
+Diante do contexto probatório, descabe o reconhecimento de ilegitimidade passiva da parte agravante. Ausente inércia do credor, não há falar em prescrição intercorrente. RECURSO IMPROVIDO. (e-STJ, fl. 877).
+Irresignada, a ANA CRISTINA interpôs recurso especial, com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 5º da Lei nº 11.795/2008 e 205 do CC/02, sustentando, em síntese, 1) a sua ilegitimidade passiva ad causam; e 2) a ocorrência da prescrição intercorrente no caso concreto.
+O apelo especial não foi admitido na origem sob o fundamento de incidência da Súmula nº 7 do STJ.
+A ANA CRISTINA, então, interpôs o presente agravo refutando o óbice sumular invocado.
+Contraminuta não apresentada (e-STJ, fl. 968).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O Tribunal estadual, ao manter a decisão interlocutória que rejeitou a impugnação ao cumprimento de sentença oferecida pela ANA CRISTINA, consignou que
+ ..
+No que diz com a alegação de ilegitimidade passiva, verifico que não assiste razão à agravante, vez que, diante dos documentos acostados ao presente agravo de instrumento, restou demonstrado que exerceu ela o cargo de Gerente Administrativa Financeira, conforme anotação lançada na carteira de trabalho; além disso, assinou carta de preposto, conferindo, em nome da administradora, a terceira pessoa, poderes de representação dela em juízo como preposto; ademais, os documentos acostados aos autos demonstram que a agravante tinha poderes para representar tal empresa perante o Banco Central do Brasil, bem como assinar contratos de garantia de consórcio, contratos de adesão, de alienação fiduciária e avenças relativas a garantias, representar a empresa perante repartições públicas de diferentes esferas, inclusive Ministério do Trabalho e Previdência Social, mesmos poderes, aliás, conferidos a [NOME], este aparentemente integrante do núcleo familiar que comandava a empresa (fls. 716 e
+seguintes dos autos originários).
+Outrossim, insta destacar que foi a própria agravante quem recebeu a citação da execução em nome da empresa de consórcios (fls. 143/147 dos autos originários).
+Ademais, não se coaduna com o papel de simples funcionária o poder de que dispunha ANA CRISTINA originários) de, por exemplo, nomear prepostos, o que usualmente constitui prerrogativa de genuínos diretores ou administradores de maior escalão das pessoas jurídicas.
+Todos esses fatos estão a indicar que exerceu a agravante poderes de efetiva gestão administrativa e financeira na empresa de consórcios, sendo, pois, solidariamente responsável por atos de gestão da empresa e pelas obrigações daí decorrentes, descabendo o reconhecimento de suposta ilegitimidade passiva da parte agravante.
+No que diz com a prescrição, se o devedor do título é a pessoa jurídica, como no caso presente, iniciada a ação e procedida sua citação, é desse marco que se conta a interrupção da prescrição, e não do ingresso dos seus diretores na demanda, ocorrido posteriormente em virtude da desconsideração da personalidade jurídica.
+Com relação à prescrição intercorrente, verifico não ter sido implementada qualquer condição para tanto, porquanto não houve inércia do credor, o qual sempre se manteve atuante no feito, e somente redirecionou a execução contra os responsáveis solidários após exauridas as tentativas de obtenção da satisfação do crédito junto à empresa, que encerrou suas atividades de maneira irregular.
+ ..
+Diante do exposto, voto no sentido de negar provimento ao recurso (fls. 879/881).
+Nesse contexto, em que o TJRS conclui pela legitimidade passiva da recorrente, bem como afastou a prescrição intercorrente na hipótese concreta, se mostra evidente que o apelo nobre interposto esbarra nos rigores da Súmula nº 7 do STJ, pois pretendida revisão das conclusões a que chegou o acórdão recorrido ensejaria a necessidade do reexame do conjunto fático-probatório dos autos, procedimento sabidamente vedado em sede de recurso especial.
+De fato, na forma da jurisprudência, este Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, o revolvimento dos fatos da causa e do processo, à moda de recurso ordinário ou de apelação. O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição (STJ, AgRg no REsp nº 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 16/5/2018).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Inaplicável, no caso, a majoração de honorários advocatícios nos termos do art. 85, §11, do NCPC.
+Publique-se. Intimem-se.
