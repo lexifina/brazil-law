@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. PRECATÓRIO COMPLEMENTAR. CORREÇÃO MONETÁRIA. INCLUSÃO DE EXPURGOS INFLACIONÁRIOS. POSSIBILIDADE. JUROS MORATÓRIOS. INCIDÊNCIA ENTRE A ELABORAÇÃO DOS CÁLCULOS E A EXPEDIÇÃO DO PRECATÓRIO.
+1. Quanto à correção do indébito, é entendimento jurisprudencial tranquilo, exaustivamente afirmado por esta Terceira Turma, que ela não implica em penalidade nem em acréscimo ao montante a ser restituído, mas é tão-somente a reconstituição do valor da moeda, devendo ser procedida pelos índices para tanto pacificamente aceitos pela jurisprudência, por melhor refletirem a altíssima inflação de certos períodos no país.
+2. Pleiteia a autora a inclusão de índices referentes a períodos posteriores ao primeiro precatório expedido, razão pela qual os expurgos ora requeridos não poderiam ter sido pedidos nem incluídos anteriormente.
+3. Devida a inclusão dos IPC"S de março/1990 a fevereiro/1991, INPC de março a dezembro/1991, a UFIR a partir de janeiro/1992 e o IPCA-E a partir de janeiro/1996.
+4. Segundo a interpretação anunciada pela Corte Suprema (Súmula Vinculante nº 17), o pagamento do precatório no prazo constitucional afasta a incidência dos juros de mora em continuação, assim denominados aqueles contados no período que medeia a expedição do ofício precatório e o respectivo depósito.
+5. Porém, a Fazenda Pública não se exime dos juros moratórios contabilizados até a expedição do ofício precatório ou requisitório, pois, na condição de devedora, permanece em situação de mora até a efetiva solução do crédito. Precedentes.
+5. Agravo de instrumento parcialmente provido.
+Os embargos de declaração opostos por ambas as partes foram rejeitados.
+No recurso especial, interposto com base na alínea "a" do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022 do CPC/2015, bem como aos arts. 161 e 167 do CTN, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) "incidem juros de mora sobre precatório complementar quando o precatório original não foi pago em sua integralidade dentro do prazo estabelecido pelo art. 100, § 1º, da CF"; (c) "o inconformismo da recorrente teve origem no cômputo de juros a partir do pagamento do precatório original realizado pela Fazenda, insuficiente para satisfazer integralmente o seu direito creditório"; (d) "restando saldo remanescente, a mora gerada deve ser compensada pela imposição dos respectivos juros sobre os valores não pagos, sob pena de devolução apenas parcial do tributo pago indevidamente"; (e) "o cômputo de juros sobre o saldo devedor restante,, a partir da data do pagamento a menor do precatório inicial, em nada fere o disposto no art. 100, § 1º, da CF, já que os mesmos incidirão apenas sobre os valores não pagos dentro do prazo estabelecido por este dispositivo".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 532/533.
+A decisão de fls. 572/573, proferida em sede de agravo, determinou a reautuação do feito como recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A despeito do que constou do acórdão recorrido, verifica-se que o Tribunal de origem não se pronunciou de forma adequada acerca da seguinte questão:
+Portanto, visa-se a aplicação dos juros de mora apenas a parte do precatório que não foi paga no prazo estabelecido pela Constituição Federal, isso porque, a partir do momento que a União Federal efetuou pagamento a menor em relação ao valor devido, esta incorre em mora, dando ensejo à apuração de saldo devedor a ser objeto de precatório complementar acrescido de juros.
+(..) Portanto, resta claro que o cômputo de juros sobre o saldo devedor restante, a partir da data do pagamento a menor do precatório inicial, em nada fere o art. 100, § 1º, da CF/88 - atual artigo 100, § 5º da CF/88 -, já que os mesmos estarão incidindo apenas sobre os valores não-pagos dentro do prazo estabelecido por este dispositivo.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 167 e seguintes, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
