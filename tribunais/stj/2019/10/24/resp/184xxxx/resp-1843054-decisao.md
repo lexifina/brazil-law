@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição Federal de 1988, em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 226):
+ADMINISTRATIVO E PROCESSO CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE E PRESCRIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DESCABIMENTO. RECURSO DESPROVIDO.
+1. Trata-se de agravo de instrumento visando à reforma da decisão proferida pela 1ª Vara Federal de Nova Friburgo / Seção Judiciária do Rio de Janeiro, que rejeitou a exceção de pré-executividade apresentada pelo agravante.
+2. Há interesse processual da União Federal nas demandas que tem como objetivo o ressarcimento de verbas federais repassadas pelo Sistema Único de Saúde ao Fundo Municipal de Nova Friburgo.
+3. A Primeira Seção do Superior Tribunal de Justiça firmou o entendimento, em julgamento de recurso repetitivo, no sentido de que se admite o manejo do instrumento processual de construção doutrinária denominado exceção de pré-executividade quando atendidos, simultaneamente, dois requisitos: que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz (requisito de ordem formal) e que a decisão possa ser tomada sem necessidade de dilação probatória (requisito de ordem material).
+4. No caso concreto, incontestável que a matéria invocada extrapola os limites da exceção de pré-executividade, como bem destacou a decisão recorrida. a empresa agravante optou em apresentar exceção de pré-executividade e não comprovou, de plano, a nulidade alegada, sendo certo, inclusive, que não consta nos autos originários a cópia do Processo Administrativo.
+5. O manejo da exceção de pré-executividade está condicionado à existência de prova pré- constituída, devendo a sua petição estar acompanhada de todos os documentos necessários à comprovação dos fatos articulados, já que descabe a dilação probatória.
+6. A execução é, na sua essência, uma pretensão de satisfação do crédito, na qual é facultado ao executado o direito de "defesa" processual e de mérito através da oposição de embargos à execução, via adequada que garante ao réu ampla produção de provas (arts. 914 e ss, do CPC).
+7. Recurso conhecido e desprovido.
+Os embargos de declaração foram rejeitados, conforme fls. 239-251.
+No apelo especial, a parte recorrente alega ofensa aos seguintes dispositivos legais: art. 1.022, I e II, do CPC/2015; art. 1º da Lei n. 9.873/199, argumentando a prescrição da pretensão sancionatória do TCU.
+Contrarrazões apresentadas às fls. 586-590.
+Decisão de inadmissibilidade às fls. 599-601.
+Decisão de conversão do Recurso Especial à fl. 653.
+É o relatório. Decido.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Na espécie, o Tribunal de origem consignou, no acórdão recorrido (fl. 224):
+ ..
+O manejo da exceção de pré-executividade está condicionado à existência de prova pré-constituída, devendo a sua petição estar acompanhada de todos os documentos necessários à comprovação dos fatos articulados, já que descabe a dilação probatória.
+Convém ressaltar que a execução é, na sua essência, uma pretensão de satisfação do crédito, na qual é facultado ao executado o direito de "defesa" processual e de mérito através da oposição de embargos à execução, via adequada que garante ao réu ampla produção de provas (arts. 914 e ss, do CPC).
+No caso concreto, a empresa agravante optou em apresentar exceção de pré- executividade e não comprovou, de plano, a nulidade alegada, sendo certo, inclusive, que não consta nos autos originários a cópia do Processo Administrativo.
+Em decorrência da imprescindibilidade de prova pré-constituída na exceção de pré- executividade, mostra-se inviável requerer a juntada do procedimento administrativo fiscal a posteriori nos presentes autos do agravo de instrumento.
+Dessa forma, levando-se em consideração que a via adotada pelo executado - exceção de pré-executividade - não admite a dilação de provas, bem como que a executada não comprovou, de plano, as irregularidades no procedimento administrativo e na certidão da dívida ativa que ampara a execução fiscal, deve ser mantida a decisão agravada que rejeitou a exceção de pré-executividade.
+ ..
+Com efeito, o recurso especial não impugnou fundamento acima que ampara o acórdão recorrido, o que esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Além do que, ainda que ultrapassado o óbice acima, esta Corte possui o entendimento de que a exceção de pré-executividade é decorrência de construção da doutrina e da jurisprudência, uma vez que não há dispositivo legal prevendo tal modalidade de defesa, que tem, entretanto, como pressuposto de admissibilidade "prova inequívoca dos fatos alegados", não admitindo qualquer dilação probatória. Tal entendimento foi, inclusive, pacificada, no enunciado de Súmula 393/STJ, in verbis: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Assim, a Corte a quo a entendeu que, no caso concreto, ante a necessidade de dilação probatória, é inviável o cabimento da exceção de pré-executividade.
+De tal maneira, tem-se que a revisão da conclusão a que chegou o Tribunal de origem - de não se tratar de situação excepcional a permitir o acolhimento da exceção de pré-executividade e da necessidade de instrução probatória - demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial". Neste sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+INVIABILIDADE. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO PRETORIANO NÃO COMPROVADO NA FORMA LEGAL E REGIMENTAL.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A alteração da conclusão adotada pelo Tribunal de origem, no sentido da impossibilidade de utilização da exceção de pré-executividade diante da necessidade de dilação probatória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula 7/STJ.
+3. Inviável o conhecimento do recurso especial pela alínea c do permissivo constitucional quando não demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1077590/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/08/2015, DJe 19/08/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA DUPLICIDADE DE COBRANÇA DO CRÉDITO TRIBUTÁRIO. ACÓRDÃO RECORRIDO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE ELEMENTOS SUFICIENTES PARA VERIFICAR A DUPLICIDADE DE COBRANÇA, EM SEDE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE DE REEXAME DOS FATOS E PROVAS, EM SEDE DE RECURSO ESPECIAL. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da Súmula 7 do STJ, "a pretensão de simples reexame de prova não enseja recurso especial".
+II. No caso dos autos, tendo o Tribunal de origem, quando da apreciação do Agravo Regimental, e, com lastro nos elementos probatórios dos autos, expressamente consignado que, ante a ausência da cópia integral do processo administrativo, não seria possível aferir, de plano, em sede de exceção de pré-executividade, a ocorrência de duplicidade de cobrança do crédito tributário cobrado na presente Execução Fiscal e na de número 2006.61.82.057120-1, devendo a questão ser devidamente apreciada em Embargos à Execução, somente com o revolvimento dos fatos e provas seria possível averiguar a procedência das alegações do contribuinte, no sentido de que seria patente a duplicidade da cobrança.
+III. Correta, portanto, a decisão agravada, que obstou o processamento do Recurso Especial, com base na Súmula 7 do STJ.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 501.546/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
