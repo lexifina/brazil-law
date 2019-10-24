@@ -1,0 +1,22 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] 5 Empreendimentos Imobiliários Ltda. à decisão monocrática proferida por este signatário, a qual conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ, fls. 378-381):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DO ART. 543-C DO CPC/1973: RESP 1.300.418/SC. NÃO CABIMENTO DO AGRAVO (CPC/2015, ART. 1.042). 2. OFENSA AOS ARTS. 492 DO CÓDIGO CIVIL E 1º, § 2º, DA LEI N. 6.899/1981. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. 3. TERMO INICIAL DOS JUROS DE MORA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INDICAÇÃO DE DISPOSITIVO LEGAL. AUSÊNCIA. SÚMULA 284/STF. 4. AGRAVO PARCIALMENTE CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 383-385), a insurgente aduz a existência de omissão acerca da alegação de ofensa ao art. 492 do CPC/2015 e de contradição quanto ao dissídio jurisprudencial em relação ao termo inicial dos juros de mora.
+Impugnação aos embargos às fls. 388-392 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, deve-se ressaltar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição ou obscuridade, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que, de fato, não se observa na espécie.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - EXECUÇÃO TRABALHISTA - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO UNIVERSAL - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022, do CPC/15 (art. 535, CPC/73), são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+ ..
+4. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no Código Civil n. 122.675/RJ, Relator o Ministro Marco Buzzi, Segunda Seção, julgado em 14/6/2017, DJe 22/6/2017)
+Ao contrário do que assevera a insurgente, a decisão embargada consignou que o art. 492 do CPC/2015, apontado no recurso especial como violado pelo acórdão recorrido, não foi objeto de debate pela Corte estadual, mesmo tendo sido opostos embargos declaratórios, estando configurada a ausência de prequestionamento (Súmula n. 211 do STJ).
+Outrossim, no tocante termo inicial dos juros de mora, conforme assinalado na decisão, é certo que a insurgente não indicou objetivamente nenhum dispositivo legal supostamente objeto de interpretação divergente pelos tribunais, o que atrai a incidência, por analogia, da Súmula n. 284 do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. 1. Em relação à alínea "a", a alegação genérica, sem a particularização dos dispositivos legais eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ, atraindo a incidência, ao caso, da Súmula 284/STF. 2. Quanto à alínea "c", a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF. 3. Agravo regimental a que se nega provimento, com aplicação de multa. (AgRg no AREsp n. 675.968/DF, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/4/2015 - original sem grifo)
+Desse modo, o que se constata, na verdade, é apenas a pretensão de rejulgamento da causa em razão do inconformismo da parte com o resultado, tornando inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
