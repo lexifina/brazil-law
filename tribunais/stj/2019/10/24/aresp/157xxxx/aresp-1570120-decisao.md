@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer, fundada na indevida negativa de autorização de realização de procedimento médico indicado.
+2. O plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes. O fato do procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, tendo em vista que se trata de rol meramente exemplificativo. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/12/2018.
+Concluso ao gabinete em: 21/10/2019.
+Ação: obrigação de fazer com pedido de tutela de urgência, ajuizada por B V L (MENOR) na qual alega, em síntese, que possui plano de saúde junto a agravante e é portador de retinoblastona bilateral, necessitando realizar exame de sequenciamento de genes, o qual foi negado pelo plano de saúde.
+Sentença: julgou procedente o pedido para condenar a agravante a custear ao autor o procedimento solicitado, tornando definitiva a tutela concedida.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Plano de Saúde. Incidência do CDC conforme Súmula 608 do STJ. Recusa de tratamento por não constar do rol da ANS. Matéria consolidada neste TJSP e no STJ no sentido de que o tratamento indicado pelo médico assistente não pode ser negado por não constar do rol da ANS (Súmula 102 deste TJSP).
+Recurso improvido. (e-STJ, fls. 317)
+Recurso especial: alega violação dos arts. 10, § 4º, e 12, VI, da Lei 9.656/98 e 436, parágrafo único, do CC, bem como dissídio jurisprudencial. Sustenta que em se tratando de contrato coletivo de plano de saúde o risco assumido quando da celebração do contrato é restrito aos termos contratuais e aos procedimentos constantes no rol de procedimentos de cobertura obrigatória elaborado pela ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que: i) o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico (AgInt no AREsp 1.003.826/MG, 4ª Turma, DJe de 9/2/2017; AgInt no AREsp 949.765/SP, 3ª Turma, DJe de 19/12/2016; AgRg no REsp 1.325.733/DF, 3ª Turma, DJe de 3/2/2016; AgRg no AREsp 733.825/SP, 4ª Turma, DJe de 16/11/2015); e ii) o fato do procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, tendo em vista que se trata de rol meramente exemplificativo (AgInt no AREsp 1.036.187/PE, 4ª Turma, DJe de 1/8/2017; e AgRg no AREsp 708.082/DF, 3ª Turma, DJe de 26/2/2016).
+Na hipótese, o Tribunal de origem entendeu que "Certo também é que a hipótese faz incidir o entendimento deste Tribunal de Justiça de São Paulo no sentido de que é ilícito criar óbice ao tratamento do paciente se há prescrição por médico competente, independentemente de estarem excluídos do rol da ANS. No caso, O painel de sequenciamento de genes foi prescrito por médico habilitado (fls. 32). Nessa linha é a Súmula 102 ("Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS")." (e-STJ, fl. 317), estando, portanto, em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
