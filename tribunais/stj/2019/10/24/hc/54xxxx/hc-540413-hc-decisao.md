@@ -1,0 +1,13 @@
+DECISÃO
+WESLEY [NOME], por meio de seus advogados, promove o aditamento da inicial deste habeas corpus (fls. 269-271), a fim de acrescentar pedido subsidiário consistente na suspensão do processo-crime até o julgamento do mérito do habeas corpus originário pelo Tribunal de Justiça do Estado de Minas Gerais.
+No dia 17/10/2018 - um dia antes da juntada do pedido de aditamento - proferi decisão indeferindo liminarmente o feito (publicada no dia 21/10/2019), nos seguintes termos:
+ ..  o trancamento do processo penal, por meio do habeas corpus, cinge-se às hipóteses de manifesto constrangimento ilegal, perceptível ictu oculi, seja por ausência absoluta de justa causa, seja pela inépcia formal da denúncia.
+No caso, a par da robusta argumentação da defesa, observo que a complexidade da questão ventilada neste writ, pelo impetrante, ultrapassa o espectro de cognição sumária, a ser efetivado em pedido de liminar, sobretudo diante da fundamentação lançada pelo Juízo de primeiro grau, de que a denúncia "expõe os fatos de onde se extraem, em tese, todos os elementos de cada tipo penal que se imputam aos denunciados. Descreve ainda de forma sucinta a participação de cada um deles com os respectivos argumentos e elementos para demonstração da autoria e responsabilidade criminal" (fl. 148).
+Além disso, segundo a orientação da Suprema Corte, "o conteúdo dos depoimentos colhidos em colaboração premiada não é prova por si só eficaz, tanto que descabe condenação lastreada exclusivamente neles, nos termos do art.
+4º, § 16, da Lei 12.850/2013. São suficientes, todavia, como indício de autoria para fins de recebimento da denúncia (Inq 3.983, Rel. Min. Teori Zavascki, Tribunal Pleno, DJe de 12.5.2016)" (Inq n. 4.118/DF, Rel. Ministro Edson Fachin, DJe 5/9/2018, destaquei).
+O Desembargador relator, por sua vez, mencionou apenas não haver ficado demonstrado o periculum in mora necessário para a concessão da liminar.
+Portanto, não identifico ilegalidade manifesta na decisão impugnada. Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Entendo que o indeferimento liminar deste feito deve ser mantido, pois as razões apresentadas afastam eventual ilegalidade que justifique a intervenção prematura e imediata deste Tribunal Superior no caso.
+À vista do exposto, indefiro o pedido de fls. 269-271 e mantenho o indeferimento liminar deste writ.
+Publique-se e intimem-se.
