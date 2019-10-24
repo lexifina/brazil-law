@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por STRATURA ASFALTOS S/A, à decisão de fls. 251/253, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ora, a decisão embargada entendeu que ela teria sido protocolada fora do prazo legal e, portanto, estaria precluso o direito de regularização. Essa, contudo, é uma decisão surpresa eis que a Embargante não teve oportunidade de se manifestar sobre o tema, nos termos do artigo 9º e 10, do CPC.
+No mais, a decisão é omissa eis que a referida petição não é intempestiva, mas o protocolo se deu dentro do prazo, por fax, sendo o original juntado aos autos dentro do prazo que concede a lei do fax.
+A decisão embargada não se manifestou sobre o protocolo por fax tempestivo, mas uma razão para a interposição dos declaratórios.
+No mais, vê-se que a petição supostamente intempestiva é mera petição de juntada de procuração, questão de mera formalidade que não pode se sobrepujar ao direito material em discussão nos autos. O mesmo se diga em relação ao argumento de que a assinatura do substabelecimento não estaria a contento. (fls. 255/256).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes aos subscritores do recurso especial.
+Registre-se que foi percebida, no tribunal de origem, a irregularidade na representação processual, razão pela qual houve a intimação da parte embargante para que o referido vício fosse sanado.
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, não regularizou. Veja que intimada para regularizar a representação em 07/06/2018 (fl. 166), a parte só se manifestou, via fax, em 15/06/2018 (fl. 135), fora do prazo legal de 5 (cinco) dias.
+O processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Nesse sentido, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+O prazo para a parte proceder à regularização era peremptório. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Ademais, como já consignado na decisão ora embargada e na decisão de fls. 193/195, ainda que se conhecesse da petição de regularização, o substabelecimento juntado aos autos, que outorgaria poderes aos subscritores do recurso especial, Dr. [NOME]. [NOME] para representar a parte, não tem validade, uma vez que a rubrica nele constante trata-se apenas de uma assinatura digitalizada ou escaneada e não de uma assinatura digital.
+Dessa forma, não foi devida e oportunamente regularizada representação processual do recurso especial, incidindo, na espécie, o disposto na Súmula n.º 115 deste Tribunal.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
