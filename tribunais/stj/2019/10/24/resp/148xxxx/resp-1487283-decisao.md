@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME] e outros, com amparo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, publicado na vigência do CPC/1973, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. JUROS DE MORA. CAPITALIZAÇÃO. IMPOSSIBILIDADE.
+1. Segundo entendimento firmado pelo STJ no julgamento do REsp 1.205.946/SP, submetido ao regime do art. 543-C do CPC, a partir de 01/07/2009, data em que passou a viger a Lei 11.960/2009, que alterou o art. 1º-F da Lei 9.494/97, para fins de compensação da mora, haverá a incidência, uma única vez, até o efetivo pagamento, dos juros aplicados à caderneta de poupança.
+2. O art. 1º-F da Lei 9.494/97, com redação dada pela Lei 11.960/2009, ao estabelecer que os índices devam ser aplicados "uma única vez", veda expressamente a incidência de juros de mora de forma capitalizada.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 518-522).
+Os recorrentes apontam violação do art. 535, II, do CPC/1973. Alegam omissão no julgado com respeito à declaração de inconstitucionalidade proferida pelo STF na ADI 4.357 e à violação da coisa julgada.
+Referem contrariedade ao art. 5º da Lei n. 11.960/2009. Aduzem que, "ao estabelecer os índices da caderneta de poupança como critério de correção monetária de diferenças vencimentais percebidas por servidor público federal no bojo de execução de sentença, a Corte regional incorreu em equivocada e inconstitucional aplicação do art. 5º da Lei n. 11.960/09, desvirtuando o próprio instituto da correção monetária de débitos judiciais, previsto no art. 1º da Lei n. 6.899/81, bem como contrariou a sedimentada jurisprudência desta E. Corte" (e-STJ, fl. 550).
+Indicam ainda infringência aos arts. 468 e 471 do CPC/1973. Defendem a necessidade da observância do índice de correção monetária fixado na decisão transitada em julgado.
+Contrarrazões às e-STJ, fls. 615-626.
+Mediante a petição de e-STJ, fls. 740-741, a parte requer a remessa dos autos à origem para aplicação do entendimento firmado no Tema 810/STF.
+É o relatório.
+Uma das teses apresentadas pelos recorrentes teve repercussão geral reconhecida pelo Plenário do STF, nos autos do Recurso Extraordinário n. 873.947/SE, da relatoria do Ministro Luiz Fux, em que se discute a "validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009" (Tema 810).
+O Supremo Tribunal Federal, inclusive, deferiu efeito suspensivo aos embargos de declaração opostos com a finalidade de modulação dos efeitos do julgamento do RE 870.947/SE, por entender que a aplicação imediata do decisum embargado pelas instâncias a quo poderia ensejar a realização de pagamento de consideráveis valores, em tese, a maior pela Fazenda Pública, ocasionando grave prejuízo às já combalidas finanças públicas.
+Confira-se, a propósito, a ementa do referido julgado:
+DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997 COM REDAÇÃO DADA PELA LEI 11.960/2009. TEMA 810 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. EFEITO SUSPENSIVO. ARTIGO 1.026, § 1º, DO CPC/2015. DEFERIMENTO (EDcl no RE 870.947/SE, Rel. Min. LUIZ FUX, DJe 25/9/2018).
+Esse e outros aclaratórios foram recentemente examinados pela Corte Maior na sessão do dia 3/10/2019. O colegiado, por maioria, decidiu rejeitá-los, deixando de modular os efeitos da decisão anteriormente proferida. O julgado pende de publicação.
+Nesse contexto, os recursos que tratam da mesma controvérsia no STJ devem retornar ao Tribunal de origem para o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+A propósito:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, nos termos do art. 1.030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o recurso especial fique sobrestado até o julgamento definitivo do Tema 810 pelo Supremo Tribunal Federal e, após, seja submetido a novo exame na forma do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
