@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Agravo em Execução n. 1.0471.17.014048-0/001).
+Depreende-se dos autos que o Juízo da Vara de Execuções Criminais da Comarca de Pará de Minas/MG homologou a falta grave cometida pelo paciente, em razão do cometimento das condutas descritas no art. 50, VI, c/c o art. 39, II, ambos da Lei n. 7.210/1984, sem a regressão de regime (e-STJ fls. 46/49).
+Interposto agravo em execução, os desembargadores da Terceira Câmara Criminal do Tribunal de Justiça, por unanimidade de votos, negaram provimento ao recurso defensivo (e-STJ fls. 82/87).
+Recebeu o acórdão esta ementa (e-STJ fl. 82):
+AGRAVO EM EXECUÇÃO - DESRESPEITO A PESSOA COM QUEM DEVA RELACIONAR-SE - FALTA DISCIPLINAR DE NATUREZA GRAVE - RECONHECIMENTO.
+Comprovado que o reeducando violou o disposto no art. 50, VI, c/c art. 39, II, ambos da LEP, é de se reconhecer, em seu desfavor, a falta disciplinar de natureza grave.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 98/101).
+No Superior Tribunal de Justiça, a Defensoria Pública estadual aponta constrangimento ilegal decorrente da imputação ao paciente da prática de falta grave. Ressalta que o Juízo de primeira instância fundamentou sua decisão, na homologação da falta disciplinar, com base, apenas, nas declarações dos agentes penitenciários, colhidas administrativamente, sem nenhum outro tipo de prova da autoria da conduta imputada ao sentenciado.
+Afirma que "o paciente negou peremptoriamente ter sido o autor das ameaças, tanto quando ouvido pelo Conselho Disciplinar como quando ouvido em Juízo" (e-STJ fl. 5).
+Assevera a existência de contradição nas declarações dos agentes penitenciários quanto a autoria da infração, aduzindo, ainda, que "em nenhum momento foi individualizada qual teria sido conduta praticada pelo paciente, que configuraria a suposta ameaça" (e-STJ fl. 5).
+Alega que não foi observado o disposto no art. 155 do Código de Processo Penal, uma vez que a decisão combatida baseou-se, somente, em provas colhidas extrajudicialmente, em patente afronta aos princípios do contraditório e da ampla defesa.
+Dessa forma, requer, liminarmente, seja afastada a falta grave imputada ao paciente até o julgamento final deste writ. No mérito, postula a confirmação da liminar (e-STJ fls. 1/7).
+O pedido liminar foi indeferido (e-STJ fls. 107/109).
+Foram prestadas as informações (e-STJ fls. 111/477, 478/957 e 960/972).
+O Ministério Público Federal, ao se manifestar, opinou "pelo não conhecimento do habeas corpus" (e-STJ fls. 974/980).
+É, em síntese, o relatório.
+No caso dos autos, o Juízo da Vara de Execuções Criminais, da Infância e da Juventude e de Precatórias Criminais da Comarca de Pará de Minas/MG homologou a falta grave e, consequentemente, alterou o marco inicial para novos benefícios para o dia em que praticada a falta, qual seja, 14/9/2017, e decretou a perda de 1/4 (um quarto) dos dias remidos, consignando, para tanto, que (e-STJ fls. 774/776):
+Depreende-se do comunicado interno (mov. 1.24) que o sentenciado, juntamente aos demais detentos de sua cela, exaltou-se por motivos de somenos importância, desrespeitando, ameaçando e descumprindo ordens emanadas pelos agentes penitenciários.
+Ouvido em audiência, o apenado negou a ocorrência dos fatos narrados e às perguntas respondeu: "que não tem envolvimento com os fatos narrados no mov. 10.1; que nega ter ameaçado os agentes penitenciários ou qualquer preso; que sabe que o preso que fez a ameaça assumiu na época; que não se recorda qual era o nome do preso; que confirma suas declarações extrajudiciais (mov. 10.1), lidas nesta oportunidade.".
+Em que pese as alegações do reeducando, verifico que tais relatos não se coadunam com os demais elementos probatórios.
+Inicialmente, destaco que os fatos narrados são confirmados pelos agentes penitenciários [NOME], [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME] (mov. 10.1), que presenciaram a ocorrência das condutas faltosas e destacaram a presença do reeducando como um dos envolvidos.
+Há que se levar em consideração que, no exercício de sua função pública, os agentes penitenciários detém presunção de veracidade/legitimidade em seus atos e declarações. ..
+Lado outro, em sede administrativa, o sentenciado relata que todos os detentos se encontravam alterados em virtude de um desentendimento dentro da cela, confirmando suas declarações extrajudiciais em juízo.
+O artigo 50 da Lei nº 7.210, de 1984, delineia as situações que ensejam o reconhecimento de falta grave, in verbis:
+Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+I - incitar ou participar de movimento para subverter a ordem ou a disciplina;
+II - fugir;
+III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem;
+IV - provocar acidente de trabalho;
+V - descumprir, no regime aberto, as condições impostas;
+VI - inobservar os deveres previstos nos incisos II e V do art. 39 desta Lei.
+VII - tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo.
+Parágrafo único. O disposto neste artigo aplica-se, no que couber, ao preso provisório.
+Por sua vez, o artigo 39 da Lei nº 7.210, de 1984, dispõe que:
+Art. 39. Constituem deveres do condenado:
+(..)
+II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se;
+Dessa forma, resta manifesta a falta grave cometida pelo sentenciado, uma vez que os fatos narrados se amoldam às condutas descritas no artigo 50, inciso VI, c/c o artigo 39, inciso II, ambos da Lei nº 7.210, de 1984.
+Outrossim, prevê o artigo 118 da Lei nº 7.210, de 1984, que a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar fato definido como crime doloso ou falta grave ou sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime.
+No caso em tela, conforme já mencionado, o reeducando não apresentou justificativas plausíveis de suas falhas, possíveis de serem acolhidas, razão pela qual há que serem reconhecidas as faltas graves, anotando-se para fins de marco temporal para novos benefícios (grifei).
+O Tribunal de origem, ao negar provimento ao agravo defensivo, manteve o reconhecimento da falta à base da seguinte fundamentação (e-STJ fls. 965/967):
+Busca a defesa seja cassada a decisão de fl. 21/22, que reconheceu haver o agravante praticado fato definido como falta grave e, consequentemente, determinou a anotação da falta como marco para aquisição de novos benefícios e a perda de 1/4 dos dias remidos, argumentando não existir, nos autos, prova de ter o recorrente desrespeitado e desobedecido agente penitenciário.
+Depreende-se dos autos, em fl. 18, haver sido cumprida a exigência contida no § 2º do art. 118 da LEP, com realização de audiência de justificação, oportunidade em que o recorrente afirmou:
+" ..  que não tem envolvimento com os fatos narrados no mov. 10.1; que nega ter ameaçado os agentes penitenciários ou qualquer preso; que sabe que o preso que fez a ameaça assumiu na época; que não se recorda qual era o nome do preso; que confirma suas declarações extrajudiciais (mov. 10.1), lidas nesta oportunidade.  .. " (fl. 18)
+No entanto, a justificativa apresentada pelo recorrente não foi acolhida pelo juiz, que determinou o registro da falta grave para os fins legais.
+Examinando detidamente os autos, penso não merecer qualquer reparo a decisão recorrida. É que, ao contrário do sustentado pela defesa, há, nos autos, provas de ter o recorrente praticado fato definido como falta grave.
+Com efeito, extrai-se do Boletim de Ocorrência Interna, acostado em fl. 06vº, assinado pelo líder de segurança, que no dia 14/09/2017, por volta das 18:45 horas, o agravante desrespeitou e ameaçou agentes penitenciários. Eis o teor do documento:
+" ..  Informo que os detentos da cela 03 se encontravam bastante alterados, então foi necessário apoio de todos os agentes do plantão da equipe alfa para conter a situação que estava sendo encabeçada pelos presos supracitados, presos esses que após várias tentativas de diálogo por parte dos agentes de segurança penitenciários, começaram a desacatar a ordem legal de cessar as agressões iniciadas entre os presos [NOME] e [NOME] onde além de ignorar a ordem legal dada, começaram ameaçar de morte os agentes [NOME], [NOME], [NOME] e [NOME] com os seguintes dizeres: "sei onde vocês moram seus cuzãos, quando sairmos iremos cobrar e você só [NOME] eu sei onde você mora e quando eu sair eu vou matar você, e você sô Júnior sua churrasqueira está pronta você vai morrer é queimado e quem vai te pegar sãos os menores, eles sabem onde você mora lá no São Geraldo seu cuzão  .. " (fl. 06vº)
+Por oportuno, registre-se que se presume verdadeiro o comunicado de falta grave enviado pelo Conselho Penitenciário, destacando, inclusive, que tal presunção admite prova em contrário, o que, contudo, não foi produzida nos autos.  ..
+Logo, a única prova isolada nos autos é a negativa de autoria apresentada pelo agravante.
+Portanto, não resta dúvida de que o apenado afrontou o disposto no art. 50, VI, c/c art. 39. II, ambos da LEP, ao desrespeitar o agente penitenciário
+Nesse contexto, tenho que a conduta perpetrada pelo agravado no dia 14/09/2017 restou caracterizada como falta grave, eis porque mantenho a decisão recorrida (grifei).
+Nessas circunstâncias, não vislumbro a ocorrência de constrangimento ilegal a ensejar a concessão da ordem, visto que, a despeito de a falta ter sido praticada por vários detentos, todos ocupantes da cela 3, de acordo com os agentes penitenciários que presenciaram a ocorrência das condutas faltosas, o ora paciente estava entre eles, tendo sido, ainda, destacado pelo Tribunal de origem que "a única prova isolada nos autos é a negativa de autoria apresentada pelo agravante" (e-STJ fl. 3), de forma que a autoria - inclusive, a participação do ora sentenciado - ficou devidamente reconhecida.
+Ademais, alterar a conclusão a que chegaram as instâncias ordinárias acerca da autoria e da materialidade da infração disciplinar demandaria o reexame de matéria probatória, o que é inviável na estreita via do habeas corpus.
+A propósito:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. POSSE DE "CHIP" DE APARELHO CELULAR. CONDUTA PRATICADA APÓS A ENTRADA EM VIGOR DA LEI N. 11.466/2007. FALTA GRAVE CARACTERIZADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. NEGATIVA DE AUTORIA E PRETENSÃO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. RECURSO IMPROVIDO.
+1. É cediço que o propósito primordial da alteração legislativa promovida pela Lei n. 11.466/2007 foi conter a comunicação entre os presos e o ambiente externo, evitando-se, assim, a deletéria perpetuação da atividade delitiva, notadamente se considerada a proliferação da criminalidade organizada até mesmo no interior dos cárceres. Assim, há de se ter por falta grave não só a posse de aparelho de telefonia em si, mas também de qualquer outro componente imprescindível para o seu funcionamento. Conclusão diversa permitiria o fracionamento do aparelho entre cúmplices apenas com o propósito de afastar a aplicação da lei e de escapar das sanções nela previstas. Flagrante ilegalidade inexistente.
+2. A questão da negativa de autoria da falta disciplinar, bem como a da pretensa desclassificação, são matérias insuscetíveis de serem deslindadas na presente via, pois, as instâncias ordinárias, soberanas na análise do conjunto fático-probatório, entenderam estarem comprovadas a autoria do delito e a impossibilidade de desclassificação. Portanto, não se mostra possível modificar o que ficou estabelecido, sem que se faça necessário um amplo e aprofundado reexame do acervo probatório, procedimento vedado na via estreita do habeas corpus, remédio constitucional caracterizado pelo rito célere e cognição sumária.
+3. Recurso ordinário em habeas corpus a que se nega provimento (RHC 45.909/SP, relator o Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 22/5/2014, grifei).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA GRAVE. MATERIALIDADE. REVOLVIMENTO DE ACERVO FÁTICO. IMPOSSIBILIDADE. NOVA DATA-BASE PARA A PROGRESSÃO. POSSIBILIDADE. DIAS REMIDOS. ANÁLISE DE MATÉRIAS NÃO DEBATIDAS NA ORIGEM. OCORRÊNCIA DE SUPRESSÃO DE INSTÂNCIA.
+1. Os Tribunais Superiores restringiram o uso do habeas corpus e não mais o admitem como substitutivo de recursos outros, e nem sequer para as revisões criminais.
+2. As instâncias ordinárias reconheceram a autoria e a materialidade da conduta praticada pelo agente, de modo que, a alteração deste entendimento demandaria nova incursão no acervo fático-probatório dos autos, providência incabível na via estreita do habeas corpus.
+3. É assente nesta Corte Superior de Justiça que a homologação da falta grave traz, como um dos efeitos, a alteração da data-base para fins de progressão de regime prisional.
+4. O pedido formulado quanto à nulidade da decisão pela falta de fundamentação da decisão no que diz respeito à fixação da fração dos dias remidos a serem perdidos pela homologação da falta disciplinar não é capaz de superar o óbice da ausência de debates na origem, sob pena de indevida supressão de um dos graus de jurisdição.
+5. Habeas corpus não conhecido (HC 267.749/RS, relator o Ministro Moura Ribeiro, Quinta Turma, DJe de 7/10/2013, grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
