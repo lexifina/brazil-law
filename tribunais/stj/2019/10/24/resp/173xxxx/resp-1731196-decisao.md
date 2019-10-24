@@ -1,0 +1,74 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES PRESUMIDOS. TERMO AD QUEM DATA DA ENTREGA DAS CHAVES. DANO MORAIS INEXISTENTES.
+RECURSO ESPECIAL PARCIALMENTE PROVIDOS.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] S/A EMPREENDIMENTOS E PARTICIPAÇÕES contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+"Ação de indenização por perdas e danos, cumulada com lucros cessantes Compromisso de compra e venda de imóvel em construção Sentença de procedência em parte. Insurgência das rés Incidência do Código de Defesa do Consumidor Contrato de adesão Cláusula de tolerância de 180 dias Validade, desde que expressamente prevista no contrato Aplicação da súmula 164 do E. Tribunal de Justiça de São Paulo Termo final da mora da parte ré que é a data de entrega das chaves e não a expedição do "habite-se". Danos materiais configurados Dever da requerida de indenizar os valores gastos com aluguel pelo autor durante a mora da ré Impossibilidade de cumulação da indenização pelo valor dos alugueres desembolsados e lucros cessantes presumidos Impossibilidade de imposição de multa (cláusula penal) em face da parte requerida Ausência de previsão contratual nesse sentido Imposição de penalidade não pactuada que configuraria bis in idem, como consignado pela Súmula 159 desta E. Corte de Justiça Diferença de financiamento Possibilidade de incidência da correção monetária pelo índice previsto no contrato de compra e venda Inexistência de abusividade, na medida em que não demonstrada a incid ência de outros valores Comissão de corretagem - Validade da cláusula contratual que transfere ao promitente -comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária Entendimento consolidado por meio do julgamento do REsp n, 1,599.511/SP, julgado nos termos do artigo 1.036 do Código de Processo Civil pelo E Superior Tribunal de Justiça Exigência da comissão de corretagem que deve ser previamente informada, com a fixação dos valores devidos a este título Ausência de abusividade na imputação do pagamento da comissão de corretagem ao consumidor na hipótese dos autos Consumidor que foi informado sobre a necessidade de pagamento da taxa e o sobre o valor devido no momento da contratação, assentindo com o pagamento dos valores Danos morais Configuração Transtorno que extrapola o mero aborrecimento Fixação do valor de indenização em R$ 10.000,00 que atende aos princípios da razoabilidade e proporcionalidade Sucumbência integra/ das rés Honorários advocatícios fixados em 10% do valor da condenação Inteligência do artigo 20, § 30 do Código de Processo Civil Sentença reformada Recurso dos autores provido em parte e recurso das requeridas provido em parte".
+Em suas razões, a parte recorrente sustentou que o acórdão recorrido violou o disposto nos artigos 186, 421 e 322 do Código Civil, bem como apontou dissídio jurisprudencial. Postulou conhecimento e provimento do recurso.
+Presentes as contrarrazões, o recurso especial foi admitido.
+É o relatório.
+Decido.
+Merece parcial acolhimento a insurgência recursal.
+O Tribunal de origem, reformando em parte a sentença de parcial provimento, deu parcial provimento aos recursos de apelação das partes.
+Contrariada, a parte ré aduziu, em síntese, que (i) não foram comprovados os lucros cessantes; (ii) o marco final não pode ser o da entrega das chaves; (iii) inexistência de danos morais.
+Com parcial razão, para afastar a condenação em danos morais.
+Quanto aos lucros cessantes (i), esta Corte Superior firmou precedente no sentido de que se trata de dano presumido no caso de atraso da entrega de imóvel.
+Confira-se a ementa do seguinte precedente específico sobre o tema:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. A citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual. Precedentes.
+3. Embargos de divergência acolhidos.
+(EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018)
+Quanto ao termo ad quem da obrigação de reparar os lucros cessantes, relembre-se o enunciado normativo do art. 402 do Código Civil, abaixo transcrito:
+Art. 402. Salvo as exceções expressamente previstas em lei, as perdas e danos devidas ao credor abrangem, além do que ele efetivamente perdeu, o que razoavelmente deixou de lucrar.
+(sem grifos no original)
+
+Depreende-se desse enunciado normativo que que a privação da fruição do imóvel é a causa dos lucros cessantes de modo que, enquanto o imóvel permanecer indisponível para o exercício desse poder de fruição pelo adquirente, é devida a indenização por lucros cessantes.
+Relembre-se, a propósito, o conceito doutrinário de lucros cessantes:
+Como é de sabença correntia, do comportamento humano pode advir um ato ilícito com possibilidade de produzir não só aqueles efeitos diretos e imediatos (destruição de bens, redução dos ganhos) como efeitos futuros no patrimônio da vítima como, por exemplo, impedimento de ganhos, de lucros e outros benefícios e até mesmo do que se convencionou chamar de "perda de uma chance".
+Lucro cessante, portanto, constitui a expressão usada para distinguir os lucros de que fomos privados, e que deveriam vir ao nosso patrimônio, mas que não vieram em virtude de impedimento, ou seja, de fato ou ato acontecido independentemente de nossa vontade (ou contra a nossa vontade).
+São, assim, os ganhos que eram certos ou próprios de nosso direito, que foram frustrados por ato alheio ou fato de outrem (cf. De Plácido e Silva. Vocabulário Jurídico. Rio de Janeiro: Forense, 1982, v. 3, p. 119).
+Define-os João Casillo como o lucro que a pessoa vitimada deixará de ganhar, no futuro, como consequência do ilícito (Dano à Pessoa e sua Indenização. 2. ed. São Paulo: Ed. RT, 1994, p. 71).
+(Tratado de responsabilidade civil  livro eletrônico : doutrina e jurisprudência. 2a. ed. São Paulo: Editora Revista dos Tribunais, 2014, item 16.00, sem grifos no original)
+Não discrepa do entendimento aqui delineado a jurisprudência desta Corte Superior, conforme se verifica nos seguintes julgados:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/2015. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DO IMÓVEL. SOBRESTAMENTO. TEMA 971/STJ. INAPLICABILIDADE. INDENIZAÇÃO POR DANOS MORAIS. DESCABIMENTO. IMÓVEL ADQUIRIDO COMO INVESTIMENTO. LUCROS CESSANTES. TERMO "AD QUEM". DATA DA DISPONIBILIZAÇÃO DAS CHAVES AOS ADQUIRENTES. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REJEIÇÃO.
+1. Controvérsia acerca dos danos decorrentes de atraso na entrega de imóvel adquirido sob o regime da incorporação imobiliária para fim de investimento.
+2. Rejeição da preliminar de sobrestamento do presente recurso, suscitada com base na afetação do Tema 971/STJ, pois a controvérsia descrita nesse Tema não foi devolvida ao conhecimento desta Corte Superior.
+3. Inocorrência de dano moral na hipótese de atraso na entrega de imóvel adquirido para fim de investimento imobiliário, em virtude da inexistência de ofensa a direito da personalidade, limitando-se a lesão ao âmbito do patrimônio da adquirente. 4. Cabimento de indenização por lucros cessantes até a data da efetiva disponibilização das chaves por ser este o momento a partir do qual os adquirentes passam a exercer os poderes inerentes ao domínio, dentre os quais o de fruir do imóvel.
+5. Análise do conceito doutrinário de lucros cessantes e da jurisprudência desta Corte Superior sobre o tema.
+6. Caso concreto em que o Tribunal de origem fixou o termo "ad quem" dos lucros cessantes na data da "averbação" do "habite-se", data anterior à disponibilização das chaves, devendo-se manter incólume o acórdão recorrido, nesse ponto, para se evitar uma "reformatio in pejus".
+7. Inviabilidade de se acolher a tese de exceção do contrato não cumprido por ter a mora da construtora antecedido a alegada mora da adquirente. 8. Prejudicialidade das demais questões suscitadas.
+9. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1796760/RJ, desta relatoria, TERCEIRA TURMA, julgado em 02/04/2019, DJe 05/04/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. LUCROS CESSANTES DEVIDOS. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Para conhecimento do recurso especial é indispensável o prequestionamento da matéria de direito federal, que ocorre quando o acórdão recorrido se manifesta inequivocamente acerca da tese, condição que não se verificou na hipótese dos autos. Incidência da vedação prevista nos verbetes sumulares n. 282, 356/STF.
+2. A jurisprudência do STJ se firmou no sentido de que a demora na entrega do imóvel na data previamente acordada resulta no dever de reparação por lucros cessantes pela não fruição do imóvel durante o tempo em que a vendedora permaneceu em mora, por presunção de prejuízo do promitente comprador. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1746605/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 27/09/2018, sem grifos no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPRA E VENDA. ENTREGA. ATRASO. LUCROS CESSANTES. PRESUNÇÃO. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. ART. 476 DO CÓDIGO CIVIL. CULPA EXCLUSIVA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. ANTECIPAÇÃO DE TUTELA. SENTENÇA. POSSIBILIDADE. SÚMULA Nº 83/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Inviável rever a conclusão do tribunal local, que entendeu pela culpa exclusiva da vendedora no tocante ao atraso na entrega do imóvel, em virtude do disposto na Súmula nº 7/STJ.
+3. A falta de prequestionamento impede o conhecimento do recurso quanto à matéria inserta no dispositivo apontado no especial. Súmula nº 282/STF.
+4. A ausência de entrega do imóvel na data acordada no contrato firmado entre as partes acarreta o pagamento de indenização por lucros cessantes, tendo em vista a impossibilidade de fruição do imóvel durante o tempo da mora. Precedentes.
+5. Nos termos da jurisprudência desta Corte, a tutela antecipada pode ser concedida na própria sentença, desde que devidamente fundamentada. Incidência da Súmula nº 83/STJ.
+6. Agravo interno não provido. (AgInt nos EDcl no AREsp 1057249/AM, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/08/2018, DJe 04/09/2018, sem grifos no original)
+Nessa linha de intelecção, o termo ad quem (ii) da indenização por lucros cessantes é a data em que as chaves do imóvel foram colocadas à disposição do adquirente, data que necessariamente sucede a concessão do "habite-se", como bem entendeu o Tribunal de origem.
+Por fim, (iii) o Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR ATRASO NA OBRA, DEVOLUÇÃO DE PARCELAS E REPETIÇÃO DE INDÉBITO CUMULADA COM LUCROS CESSANTES E DANOS MORAIS. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. LESÃO EXTRAPATRIMONIAL.
+CARACTERIZAÇÃO COM BASE NA DEMORA NA CONCLUSÃO DA OBRA. ORIENTAÇÃO DA TERCEIRA TURMA NO SENTIDO DE QUE O MERO INADIMPLEMENTO CONTRATUAL NÃO CONFIGURA DANO MORAL. PRECEDENTES. DECISÃO MANTIDA. MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais. Precedente.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa
+(AgInt no REsp 1780798/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRA. ENTREGA. ATRASO.
+DANOS MORAIS. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+3. Agravo interno não provido.
+(AgInt no AREsp 1428120/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/09/2019, DJe 12/09/2019)
+No caso dos autos, o acórdão recorrido merece reforma, porque fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, sem apresentar fundamentação adicional a justificar a angústia ou abalo psicológico do autor da demanda.
+Ante o exposto, DOU PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+Sucumbência parcial e recíproca, devendo as partes arcar com 50% das despesas processuais e honorários advocatícios os quais fixo em favor do patrono da autora em 10% sobre o valor da condenação da parte ré; e em favor do patrono da ré em 10% sobre o valor da causa, nos termos do art. 85 do CPC/15.
+Advirto as partes que a interposição de recursos protelatórios será punida com aplicação de multa.
+Intimem-se.
