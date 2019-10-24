@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). INDULTO. BENEFÍCIO CASSADO PELO TRIBUNAL A QUO COM BASE NO CARÁTER HEDIONDO DO CRIME. INIDONEIDADE. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - cumprindo pena em razão de condenação pelo crime de tráfico de drogas (PEC n. 0127805-94.2018.8.13.0024) -, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que deu provimento ao agravo em execução ali interposto pelo Ministério Público estadual, para cassar o benefício de indulto concedido ao paciente, ao argumento da existência de expressa vedação legal do benefício aos crimes hediondos e equiparados (Agravo em Execução n. 1.0024.18.012780-5/001).
+Aqui, a impetrante alega constrangimento ilegal consistente no fato de que o Tribunal a quo deu provimento ao recurso da acusação, revogando a concessão do benefício de indulto, mediante a justificativa de que o delito de tráfico privilegiado cometido pelo paciente é hediondo.
+Postula, ao final, o deferimento de medida liminar para que sejam suspensos os efeitos do acórdão hostilizado, até o julgamento do mérito do presente writ. No mérito, requer a concessão da ordem, a fim de que seja concedido o indulto.
+É o relatório.
+Busca a impetração o restabelecimento da decisão que concedeu o indulto ao paciente, ao argumento de que o crime pelo qual ele cumpre pena não é hediondo.
+De fato, o acórdão impugnado destoa da orientação consolidada nesta Corte, no sentido de que o tráfico ilícito de drogas, na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006), não é crime equiparado a hediondo, circunstância que viabiliza a concessão do benefício pretendido.
+A propósito:
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA, ART. 33, § 4º, A LEI Nº 11.343/2006. TRÁFICO PRIVILEGIADO. CONCESSÃO DE INDULTO. DECRETO Nº 8.615/2015. POSSIBILIDADE. AUSÊNCIA DE ACENTUADO GRAU DE REPROVABILIDADE DA CONDUTA. REQUISITOS PREVISTOS NO DECRETO PRESIDENCIAL. ORDEM CONCEDIDA.
+1. A teor do art. 5º, inciso XLIII, da Constituição da República "a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem".
+2. Nos termos da assentada jurisprudência do STJ, a graça constitui gênero no qual está inserido o indulto, portanto, também alcançado pela vedação constitucional, disposta no art. 5º, inciso XLIII. Precedentes.
+3. O Supremo Tribunal Federal, no julgamento do HC n. 118.533/MS, concluiu que "o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos" (HC n. 118.533/MS, Relatora Min. Cármen Lúcia, Tribunal Pleno, DJe 16/9/2016).
+4. O STJ, ao julgar a Petição nº 11.796/DF, revisou o Tema 600 julgado sob o rito dos recursos repetitivos e cancelou o enunciado n.º 512 desta Corte, passando a seguir orientação jurisprudencial do STF no sentido de que o tráfico de drogas na forma privilegiada afasta a hediondez do delito.
+5. Nos termos do precedente jurisprudencial da Sexta Turma do STJ, " e mbora a conduta delituosa do agente que é beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 continue sendo a de tráfico de drogas (haja vista que o § 4º não prevê uma nova conduta típica ou um tipo penal autônomo, mas tão somente uma causa especial de diminuição de pena), é possível favorecê-lo com a concessão de graça ou anistia (e, consequentemente, de indulto), por não existir, em sua conduta, o caráter de acentuado grau de reprovabilidade que é inerente aos crimes hediondos e aos a eles equiparados" (HC n. 411.328/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/10/2017, DJe 9/10/2017).
+6. A análise do pedido de indulto deve restringir-se aos requisitos previstos no decreto presidencial, descabendo ao Poder Judiciário incluir novos óbices. Precedentes.
+7. Ordem de habeas corpus concedida.
+(HC n. 458.735/MG, Ministra Laurita Vaz, Sexta Turma, DJe 23/10/2018  grifo nosso).
+Salienta-se que o Supremo Tribunal Federal também se posicionou no mesmo sentido, ou seja, reconhecendo que o tráfico privilegiado de drogas não possui caráter hediondo (HC n. 118.533/STF, Ministra Cármen Lúcia, julgado em 23/6/2016).
+Ante o exposto, concedo liminarmente a ordem para cassar o acórdão exarado no julgamento do Agravo de Execução Penal n. 1.0024.18.012780-5/001, restabelecendo a decisão de primeiro grau que concedeu o indulto ao paciente, com base no Decreto de 2015 (PEC n. 0127805-94.2018.8.13.0024, da Vara de Execução em Meio Aberto e Medidas Alternativas da comarca de Belo Horizonte/MG).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
