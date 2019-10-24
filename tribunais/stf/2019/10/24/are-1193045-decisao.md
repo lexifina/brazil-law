@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado (eDOC 46):
+    “AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. ENQUADRAMENTO SINDICAL. CATEGORIA PROFISSIONAL DIFERENCIADA. PRESTAÇÃO DE SERVIÇOS EM LOCALIDADE DIVERSA DA SEDE DA EMPRESA. NORMA COLETIVA APLICÁVEL. PRINCÍPIO DA TERRITORIALIDADE. A parte agravante não apresenta argumentos capazes de desconstituir a juridicidade da decisão que negou seguimento ao agravo de instrumento, uma vez que o recurso de revista não demonstrou pressuposto intrínseco previsto no art. 896, "a" e "c", da CLT. A jurisprudência desta Corte Superior orienta-se no sentido de que a representação sindical, inclusive do empregado integrante de categoria diferenciada, dá-se em função do local da prestação de serviços, independentemente da localidade da sede da empresa, ainda que a entidade patronal não tenha participado ou sido representada pelo sindicato de sua categoria econômica na negociação coletiva e na celebração do pacto coletivo. Incidência do art. 896, § 7º, da CLT. Agravo a que se nega provimento. ”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se violação aos artigos 5º, II, 7º, XXVI e 8º, III e VI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “Não pode a reclamada ser compelida a respeitar normas coletivas das quais não participou da elaboração e, ainda que deseje, será impedida, por conta do contido no artigo 8º, II, da CF.” (eDOC 55, p. 6).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que a discussão cinge-se a saber se os empregados pertencentes à categoria profissional diferenciada têm ou não o direito de haver de seu empregador vantagens previstas em norma coletiva do estado do Rio Grande do Sul.
+    Tendo em vista que a controvérsia está na extensão de cláusula em acordo coletivo e seus reflexos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de cláusula contratual coletiva, o que é vedado, neste momento processual, pela Súmula 454, desta Corte. Nesse sentido:
+    Agravo regimental em recurso extraordinário com agravo. 2. Interpretação de cláusula de acordo coletivo trabalhista. Impossibilidade na via extraordinária. Incidência do Enunciado 454 da Súmula do STF. 3. Controvérsia acerca da ocorrência de prescrição. Discussão de índole infraconstitucional. 4. Extensão a aposentados de benefício concedido a trabalhadores em atividade. Matéria infraconstitucional. Precedentes. RE-RG 590.005. 5. Alegação de ofensa ao inciso IX do art. 93 da Constituição Federal. Inexistência. Precedente. AI-QO-RG 791.292. 6. Agravo regimental ao qual se nega provimento.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 24 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
