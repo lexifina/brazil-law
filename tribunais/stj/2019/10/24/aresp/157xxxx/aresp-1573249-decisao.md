@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. SEGURO DE VEÍCULO. PERDA TOTAL DO VEÍCULO. REEXAME DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por SOMPO SEGUROS S.A. contra decisão que negou seguimento ao recurso especial interposto com fundamento na alínea a do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 524):
+SEGURO DE VEÍCULO (FACULTATIVO) - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C.C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS -
+Veículo segurado envolvido em acidente de trânsito - Concessionária autorizada que entendeu pela possibilidade de reparos - Prejuízos superiores a 75% que implicam em reconhecimento de "perda total" - Laudo pericial que comprova a impossibilidade de revenda e de renovação do seguro, ante ao montante dos danos - Danos morais
+Comprovação  Ausência - Ação improcedente  Agravo retido a que se nega provimento - Apelo parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 546-549).
+Nas razões do recurso especial, a recorrente apontou violação dos arts. 373, II, e 473, § 2º, do CPC/2015; 186 e 320 do Código Civil.
+Sustentou, em síntese, que foram devidamente realizados os reparos necessários no automóvel do recorrido, consoante laudo pericial produzido.
+Argumentou que após os consertos o veículo foi entregue em perfeito estado de funcionamento, circunstância a denotar o devido cumprimento da avença contratual. Alegou que a parte autora outorgou quitação plena e definitiva à oficina e à seguradora, o que demonstra que o automóvel foi devidamente reparado.
+O Tribunal local não admitiu o processamento do recurso especial, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Acerca das questões controvertidas, o Tribunal de Justiça, observadas as peculiaridades do caso, concluiu que os danos no veículo sinistrado configuraram a hipótese de perda total, sob os seguintes fundamentos (e-STJ, fls. 527-529 - sem grifos no original):
+Com efeito, conforme bem elaborada prova pericial, a despeito da boa qualidade dos serviços prestados pela concessionária apelada, certo é que o veículo da apelante sofreu avarias de grande monta, superior ao percentual mínimo exigido para o reconhecimento de "perda total"1, sendo reprovado em vistorias e recusado como parte de nova aquisição, impossibilitando a renovação de seguro. Logo, os reparos realizados não foram suficientes à restituição do veículo ao estado anterior ao acidente, ante a sua extrema desvalorização, implicando em sua perda total, pena de tornar inócua a finalidade do seguro contratado, o que não se pode admitir. (..)
+Ressalta-se que a quitação dada pela apelante não tem efeito liberatório integral, uma vez que se refere apenas aos serviços prestados pela concessionária apelada que os realizou, sem implicar renúncia ao direito questionar a perda total do veículo. (..)
+Deste modo, a r. sentença recorrida comporta modificação, para o fim de julgar parcialmente procedente a presente ação, condenando-se: a) a seguradora apelada ao pagamento de indenização por perda total do veículo, conforme previsto na apólice firmada pelas partes, com correção monetária desde o sinistro e juros de mora a partir da citação, mediante restituição do veículo e de seus documentos; b) a concessionária apelada à devolução dos valores pagos relativos à franquia, com correção monetária desde o desembolso e juros de mora a partir da citação, declarando-se inexigível qualquer valor a esse título. E, tendo em vista o desfecho da demanda, impõe a inversão da sucumbência.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO. SEGURO EMPRESARIAL. INCÊNDIO. PERDA TOTAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC. INSTÂNCIAS ORDINÁRIAS QUE CONCLUÍRAM QUE O SINISTRO OCASIONOU A PERDA TOTAL DOS BENS SEGURADOS. IMPOSSIBILIDADE DE ANÁLISE DO PLEITO DE MODIFICAÇÃO DA EXTENSÃO DO DANO. REVOLVIMENTO DO ARCABOUÇO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. INCIDÊNCIA DO CDC AO CASO CONCRETO. RELAÇÃO DE CONSUMO. INDENIZAÇÃO QUE DEVE CORRESPONDER AO VALOR DO EFETIVO PREJUÍZO NO MOMENTO DO SINISTRO. APLICAÇÃO DO ART. 781 DO CC/02. SUCUMBÊNCIA FIXADA. RECURSO PARCIALMENTE PROVIDO.
+1. Não há violação do disposto no art. 535 do CPC quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados, até poque o pleito de que os danos suportados pela segurada foram parciais demanda inevitável revolvimento do arcabouço fático-probatório, o que é vedado em sede de recurso especial nos termos da Súmula nº 7 desta Corte, mormente em face da conclusão judicial de perda total dos bens segurados.
+(..)
+5. Recurso parcialmente provido.
+(REsp 1473828/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/10/2015, DJe 05/11/2015)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. REEXAME DE FATOS E DE PROVAS.
+SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no Ag 1394296/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/06/2012, DJe 27/06/2012)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da causa.
