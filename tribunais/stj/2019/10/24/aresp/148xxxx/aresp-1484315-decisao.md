@@ -1,0 +1,27 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. NOTAS FISCAIS E COMPROVANTES DE ENTREGA DAS MERCADORIAS. VENCIMENTO DA DÍVIDA. AGRAVO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+CIAPETRO DISTRIBUIDORA DE COMBUSTÍVEIS LTDA. (CIAPETRO) ajuizou ação monitória contra POSTO NOVO [NOME] LTDA. (NOVO [NOME]), em decorrência de créditos provenientes do fornecimento de mercadorias que foram recebidas e não pagas na data do vencimento.
+O Juízo de primeiro grau, com resolução de mérito, rejeitou os embargos e constituiu de pleno direito, em título executivo judicial, o crédito indicado na petição inicial. Condenou NOVO [NOME] ao pagamento de honorários advocatícios fixados em 10% do crédito atualizado em favor dos advogados da parte credora (e-STJ, fls. 132/134).
+O Tribunal mineiro negou provimento ao recurso de apelação interposto por [NOME], em acórdão assim ementado:
+APELAÇÃO CÍVEL - DIREITO CIVIL - AÇÃO MONITORIA - NOTAS FISCAIS E COMPROVANTES DE ENTREGA DAS MERCADORIAS - JUROS MORATÓRIOS - TERMO INICIAL - VENCIMENTO DA DÍVIDA. A ação monitória se destina a pretensão de cobrar dívida amparada em prova escrita sem eficácia de titulo executivo (CPC, art. 700). "A nota fiscal, acompanhada do respectivo comprovante de entrega e recebimento da mercadoria ou do serviço, devidamente assinado pelo adquirente, pode servir de prova escrita para aparelhar a ação monitória" (STJ, REsp n. 778.852/R5). Nas obrigações com termo certo e determinado, o termo inicial dos juros moratórios é a data do vencimento da obrigação (CC, art. 397) (e-STJ, fl. 178).
+Os embargos de declaração opostos pela NOVO [NOME] foram desacolhidos (e-STJ, fls. 191/197).
+Irresignada, NOVO [NOME] interpôs recurso especial com fundamento no art. 105, III, a, da CF apontando ofensa a dispositivos de lei federal (arts. 373, I, 1.025 e 1.026 do NCPC; arts. 394 e 397, caput e parágrafo único, do CC/02; e, art. 2º, §1º, III, da Lei nº 5.474/68), sustentando que (1) a constituição da mora deve ser considerada a partir da data da citação, uma vez que inexistem provas da constituição da mora. Asseverou que o termo inicial para a incidência de correção monetária e os juros de mora deve ser a data da citação; (2) a multa de 2% sobre o valor da causa aplicada na ocasião da oposição dos embargos deve ser afastada (e-STJ, fls. 200/210).
+Contrarrazões apresentadas (e-STJ, fls. 221/234).
+O recurso foi inadmitido na origem ante a incidência da Súmula nº 7 do STJ (e-STJ, fls. 238/242).
+Em suas razões de agravo, [NOME] alegou que os dispositivos de lei federal foram violados e não observado o entendimento pacificado pelos tribunais superiores. Afirmou que não é a pretensão da parte agravante reexaminar fatos e provas dos autos. No mais, repisou as razões contidas no especial (e-STJ, fls. 245/251).
+Contraminuta apresentada (e-STJ, fls. 263/268).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observa-se que NOVO [NOME] não impugnou devidamente a incidência da Súmula nº 7 do STJ, limitando-se a renegá-la, argumentando genericamente que não é a pretensão da parte agravante reexaminar fatos e provas dos autos, sem, no entanto, impugnar todos os pontos do acórdão recorrido em que o óbice sumular foi aplicado. Ressalta-se que não basta repisar as razões contidas no especial, sem demonstrar, efetivamente, a inaplicabilidade do óbice sumular.
+Na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias.
+Veja-se que o Tribunal mineiro aplicou o óbice ao se referir à constituição em mora e à multa aplicada na ocasião dos embargos de declaração. Destaca-se que o óbice sumular aplicado, especificamente, à parte da decisão agravada que se refere aos vícios e à multa por embargos protelatórios, sequer foi mencionado na minuta do agravo, com vistas a demonstrar possível desacerto na decisão agravada nesse ponto.
+Portanto, tem-se que a linha argumentativa desenvolvida pela NOVO [NOME] desconsiderou os fundamentos da decisão agravada.
+Nesse contexto, tendo sido apresentado em desacordo com os requisitos do art. 932, III, do NCPC, o recurso não se mostra viável.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de NOVO [NOME], nos termos do art. 85, § 11, do NCPC.
+
+Publique-se. Intimem-se.
