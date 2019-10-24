@@ -1,0 +1,31 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Donizete Francisco de Souza Junior em favor de José Pedro Veronez de Lima e Mateus Henrique Zovetti Nascimento, contra decisão monocrática da lavra do Ministro Joel Ilan Paciornik, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 539.575/SP.
+    Os pacientes foram presos preventivamente pela suposta prática dos crimes de tráfico de drogas e de associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006).
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de São Paulo, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Joel Ilan Paciornik, indeferiu liminarmente o HC 539.575/SP.
+    No presente writ, o Impetrante pugna pelo afastamento do Súmula 691/STF. Aponta ocorrência de nulidades processuais consubstanciadas na violação de domicílio e de sigilo telefônica. Sustenta cerceamento da defesa quanto à nomeação de defesa técnica para os outros corréus. Alega inidoneidade de fundamentação do decreto prisional e ausência dos requisitos autorizadores. Argumenta a existência de circunstâncias favoráveis, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Aduz excesso de prazo para formação da culpa, presos os pacientes desde 09.6.2019. Requer, em medida liminar, o direito de os pacientes aguardarem em liberdade até o final desta impetração e, sucessivamente, a aplicação de medidas cautelares diversas da prisão. No mérito, pleiteia o reconhecimento das nulidades apontadas e o trancamento da ação penal na origem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...)
+    Decido.
+    A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+    Nesse sentido, destaco os seguintes precedentes:
+    (…)
+    Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado.
+    Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+    Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.”
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte para indeferir liminarmente a impetração. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual houvera indeferido liminar em habeas corpus impetrado naquela Corte Estadual.
+    Ao indeferir o pedido liminar, o Tribunal de Justiça não vislumbrou presentes requisitos a justificarem a imediata soltura do Paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Da decisão singular, a Defesa manejou habeas corpus originário no Superior Tribunal de Justiça e, ante a negativa de seguimento, impetrou novo writ, desta feita no Supremo Tribunal Federal. Constato, pois, não ter sido esgotada a jurisdição da Corte Superior, na medida em que o ato impugnado é decisão monocrática extintiva do writ, e não o resultado de julgamento colegiado.
+    Cumpriria à Defesa, pretendendo a reforma da decisão monocrática, ter aviado agravo regimental para que a questão fosse apreciada pelo órgão colegiado do STJ (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Além disso, a razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto, até porque a melhor compreensão do princípio constitucional aponta para processo sem dilações indevidas, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    Na hipótese, a Corte Estadual asseverou que ‘O alegado excesso de prazo não deve prosperar. Os pacientes foram presos em razão de prisão em flagrante em 09 de junho de 2019, sendo o prazo ainda razoável. Assim, não há se falar em excesso de prazo na manutenção da prisão cautelar dos paciente, pois em nenhum momento, durante o tramitar do procedimento, o juízo monocrático deu causa ao atraso, dando regular seguimento aos trâmites processuais’.
+    A jurisprudência deste Supremo Tribunal Federal é no sentido de que “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 180.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Nesse contexto, nada colhe o alegado excesso de prazo para formação da culpa, porquanto inexistente ‘situação anômala que compromete a efetividade do processo’ ou ‘desprezo estatal pela liberdade do cidadão’ (HC 142.177/RS, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.9.2017).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de outubro de 2019.
+Ministra Rosa Weber
+Relatora
