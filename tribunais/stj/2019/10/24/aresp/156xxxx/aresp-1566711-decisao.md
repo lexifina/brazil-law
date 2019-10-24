@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REDUÇÃO DE ASTREINTES. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. MULTA COMINATÓRIA. INCIDÊNCIA DE JUROS DE MORA. NÃO CABIMENTO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA DESDE A DATA DO ARBITRAMENTO.
+1. Impugnação ao cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Não incidem juros de mora sobre multa cominatória decorrente de sentença judicial impositiva de obrigação de fazer, por configurar evidente bis in idem. Precedentes.
+4. O termo inicial de incidência da correção monetária sobre a multa do § 4º do art. 461 do CPC deve ser a data do respectivo arbitramento, como ocorre nas hipóteses de dano moral (Súm.362/STJ). Precedentes.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NEUSA MARIA ROSA ALVAREZ, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/04/2019.
+Concluso ao gabinete em: 27/09/2019.
+Ação: impugnação ao cumprimento de sentença apresentado por SUL AMÉRICA CIA DE SEGURO SAÚDE em face da agravante, na qual requer a redução do valor fixado a título de multa cominatória, em razão do descumprimento de liminar que determinou o fornecimento de medicamentos.
+Decisão interlocutória: acolheu a impugnação para reduzir o valor da multa por atraso do cumprimento da liminar de R$ 795.000,00 para R$ 50.000,00.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravante para ajustar o valor da multa para R$ 100.000,00, nos termos da seguinte ementa:
+EMENTA: "ASTREINTES" CUMPRIMENTO DEFINITIVO DE SENTENÇA RETARDAMENTOS SUCESSIVOS POR PARTE DO PLANO PARA FORNECER MEDICAMENTOS- AUTORA PORTADORA DE [NOME] "ASTREINTES" QUE SE IMPÕE NECESSIDADE DE CONFERIR EFETIVIDADE AOS COMANDOS JUDICIAIS REITERADAMENTE DESCUMPRIDOS POSSIBILIDADE DE A MULTA VIR A SER REDUZIDA OU MESMO MAJORADA (CPC, ART. 537, § 1º) RECURSO PARCIALMENTE PROVIDO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 491, 509, §4º, 525, V, §§4º e 5º e 1.022 do CPC; 537, I, do CC, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta que a multa foi ajustada sem que fossem especificados os critérios de cálculos para a liquidação e sem parâmetros de termo inicial para incidência de juros e correção monetária.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da deficiência de fundamentação.
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 525, §5º e art. 537, §1º, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Ademais, não seria razoável exigir do agravado, na impugnação ao cumprimento de sentença em razão de execução de multa cominatória, que indicasse o valor correto da execução, uma vez que a penalidade é fixada pelo juiz levando-se em consideração o efetivo cumprimento da decisão judicial.
+- Dos juros de mora e correção monetária.
+De início, verifica-se que a jurisprudência deste Tribunal é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus. Nesse sentido: AgInt nos EDcl no REsp 1.603.756/MG, 2ª Turma, DJe de 22/05/2019; EDcl no AgRg no AREsp 229.165/RJ, 3ª Turma, DJe de 17/06/2016; EDcl no AgRg no Ag 1.160.335/MG, 3ª Turma, DJe de 06/12/2012; AgRg no AREsp 576.125/MS, 4ª Turma, DJe de 19/12/2014; AgInt no AREsp 1.039.441/MG, 4ª Turma, DJe de 19/4/2017.
+Contudo, a natureza jurídica da multa prevista no §4º do art. 461 do CPC - medida coercitiva e intimidatória - não admite exegese que a faça assumir um caráter indenizatório.
+O escopo da multa é impulsionar o devedor a assumir um comportamento tendente à satisfação da obrigação assumida perante o credor. E é por isso, aliás, que "o juiz poderá, de ofício, modificar o valor ou a periodicidade da multa, caso verifique que se tornou insuficiente ou excessiva" (§ 6º do art. 461 do CPC). Insuficiente ou excessiva, frise-se, no poder de intimidar o devedor, tendo em conta o seu comportamento frente à ordem que lhe foi dada.
+Nessa ordem de ideias, considerando-se que os juros de mora funcionam como uma sanção pelo adiamento culposo no pagamento de quantia certa, não há como fazê-los incidir, igualmente, sobre a multa prevista no § 4º do art. 461 do CPC, porque ela própria representa - como os juros de mora - a cominação pelo retardo no adimplemento da obrigação de fazer ou não fazer.
+É dizer, mutatis mutandis, os juros de mora estão para a obrigação de pagar quantia certa como a multa está para a obrigação de fazer ou não fazer; são duas faces da mesma moeda, consequências do atraso no cumprimento da prestação. Logo, aceitar a incidência dos juros moratórios sobre a multa seria admitir a existência de verdadeira "mora da mora", o que configuraria evidente bis in idem.
+Quanto à correção monetária é necessário esclarecer que o poder de intimidação refletido no valor arbitrado pelo Juiz a título de multa, nos termos do § 4º do art. 461 do CPC, deve ser preservado ao longo do tempo - e, portanto, corrigido - a fim de que corresponda, desde então, à expectativa de ser o suficiente para a obtenção da tutela específica. Assim, a partir de sua fixação, o contexto apresentado para o devedor tem de revelar, sempre, que lhe é mais interessante cumprir a obrigação principal que pagar a multa.
+Assim, acaso o Tribunal de origem mantenha o valor fixado, o termo inicial será a data da decisão proferida pelo Juiz, que impôs a multa. Do contrário, se for alterado o valor arbitrado, por exorbitância ou irrisoriedade, o dies a quo será a data do julgamento do recurso, não havendo falar em retroação da incidência da correção monetária, sob pena de prestigiar-se o locupletamento indevido.
+Na hipótese, aplicando o entendimento do STJ:
+i) não incidem juros de mora sobre multa cominatória decorrente de sentença judicial impositiva de obrigação de fazer, por configurar evidente bis in idem;
+ii) o termo inicial de incidência da correção monetária sobre a multa do § 4º do art. 461 do CPC deve ser a data do respectivo arbitramento, como ocorre nas hipóteses de dano moral (Súm.362/STJ), ao fundamento de que se supõe, em ambas as hipóteses, que o julgador já considera o valor atualizado da moeda no momento em que arbitra a multa, de modo que a partir de então deve ser corrigida, permitindo, afinal, o seu completo pagamento. Precedentes: EREsp n. 1.492.947/SP, SEGUNDA SEÇÃO, julgado em 28/6/2017, DJe 30/6/2017; AgInt nos EDcl no REsp 1355408/AL, QUARTA TURMA, DJe 21/11/2017 E REsp 1.327.199/RJ, TERCEIRA TURMA, DJe 2/5/2014.
+Assim, no caso dos autos, aplica-se a Súmula 568 do STJ.
+Por conseguinte, tenho por prejudicada a análise da violação do art. 1.022 do CPC.
+- Da divergência jurisprudencial.
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO, nos termos da jurisprudência desta corte.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
