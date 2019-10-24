@@ -1,0 +1,17 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. OMISSÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. REEXAME DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME], em face da decisão monocrática de fls. 1.746-1.754, assim ementada:
+"PENAL. RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. PRESCINDIBILIDADE DA COMPROVAÇÃO DO ELEMENTO SUBJETIVO ESPECIAL DO TIPO. RECURSO ESPECIAL PROVIDO."
+Nas razões destes embargos, a defesa sustenta ocorrência de omissão "..no tocante a ausência de amparo legal para o processamento do recurso especial interposto pelo MPF uma vez que a peça apresentada não preencheu os requisitos essenciais para análise do mérito" (fl. 1.758).
+Assevera, ainda, que "Quanto a questão da "demonstração do cabimento do Recurso Especial" verifica-se que tanto o recurso apresentado pelo MPF quanto a decisão embargada não demonstraram o requisito indispensável do prequestionamento para o conhecimento do Recurso Especial, salientando ainda que o recurso não passou de uma tentativa de revisar as provas carreadas nos autos, bem como rediscutir a matéria fática o que é vedado em sede de recurso especial, conforme a súmula 7 do STJ, tendo a respeitável decisão contrariado tal súmula quando do provimento do Resp" (fl. 1.759).
+Alega que: "No tocante as contradições, a decisão monocrática embargada apesar de reconhecer a ausência de demonstração do alegado dissídio jurisprudencial suscitado pelo MPF quando da interposição do apelo extremo, sustentando que o recorrente não conseguiu demonstrar a igualdade das situações fáticas dos autos e as supostas interpretações diversas emprestadas ao mesmo dispositivo de legislação infraconstitucional, considerando ainda ser a ausência desse cotejo entre os julgados causa de impedimento a constatação da divergência, mesmo assim ao final dar provimento ao apelo extremo do MPF tomando por base um claro revolvimento da matéria fática dos autos o que é vedado em sede de Recurso Especial" (fl. 1.759).
+Requer o acolhimento do incidente aclaratório, a fim de que sejam sanados os vícios apontados. Pretende ainda a atribuição de efeito modificativo aos embargos de declaração.
+É o relatório.
+Decido.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+In casu, destaca-se, que embora opostos embargos declaratórios, evidencia-se o caráter infringente da pretensão recursal, pois o pleito é de reconsideração, aspecto próprio do agravo, previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Desse modo, em que pese a alegação do embargante de que a decisão embargada conteria omissão e contradição, o que pretende a parte, porém, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos aclaratórios.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição ou omissão).
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
