@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PENSÃO POR MORTE. Pretensão de elevar a pensão N para a totalidade dos proventos recebidos em vida pelo x falecido. Modificações introduzidas pela EC n° 41, de ó 2003, com aplicação imediata para óbitos de servidores € civis ocorridos a partir da sua vigência. Lei Complementar Estadual 1012107 que alterou o artigo 144 da Lei y Complementar Estadual 180178 para adequá-lo ao novo preceito constitucional. Óbito ocorrido em 02-03-2009. Modificações que se aplicam porque o falecimento do instituidor da pensão ocorreu depois. Demanda improcedente. Recurso não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5°, XXXVI e § 2º; 37, caput, XI e XV; 40, §§ 3°, 7° e 8º; 60, § 4º, IV, e 93, VI, todos da CF.
+    O recurso não deve ser provido.
+    O Supremo Tribunal Federal, ao julgar o RE 603.580-RG, Rel. Min. Ricardo Lewandowski, reconheceu a repercussão geral da matéria ora discutida e assentou que: (i) aplica-se à pensão por morte a legislação vigente ao tempo em que ocorreu o fato gerador de sua concessão, ou seja, aquela que se encontrava em vigor na data do óbito do instituidor; (ii) falecido o servidor público após a da publicação da EC nº 41/2003, a pensão por morte de seus dependentes deve ser reajustada nos termos da lei, conforme dispõe o art. 40, § 8º, da Constituição; (iii) a EC nº 47/2005 prevê uma exceção a essa regra, hipótese em que a paridade subsistirá, ainda que o falecimento do instituidor da pensão se dê após o marco temporal de 31.12.2003, desde que sejam preenchidos pelo servidor os requisitos de: a) 35 anos de contribuição, b) 25 anos de efetivo exercício no serviço público, c) 15 anos de carreira e d) 5 anos no cargo em que se deu a aposentadoria (art. 3º, parágrafo único, da EC 47/2005). Veja-se a ementa do paradigma mencionado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO.
+    I O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor.
+    II Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade.
+    III Recurso extraordinário a que se dá parcial provimento.”
+    A tese do RE 603.580-RG restou assim fixada: “[o]s pensionistas de servidor falecido posteriormente à EC nº 41/2003 têm direito à paridade com servidores em atividade (EC nº 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC nº 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I)”.
+     Desse entendimento não divergiu o Tribunal de origem.
+    Quanto ao afastamento do subteto remuneratório para magistratura estadual e a fixação do subsídio de Ministros do STF como teto único para toda a magistratura nacional, o Tribunal de origem não tratou da referida controvérsia. A hipótese atrai a incidência das Súmulas 282 e 356/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. PROCESSUAL CIVIL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CPC, ART. 1.021, § 1º. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - O § 1º do art. 1.021 do CPC determina que na petição de agravo interno, o recorrente deverá impugnar especificadamente os fundamentos da decisão agravada.
+    II - Ausência de prequestionamento dos dispositivos constitucionais indicados como violados. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    III - Agravo regimental a que se nega provimento.” (ARE 978.074-AgR, Rel Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
