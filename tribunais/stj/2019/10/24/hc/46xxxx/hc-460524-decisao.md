@@ -1,0 +1,12 @@
+DECISÃO
+ADRIANA DA SILVA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que indeferiu a Revisão Criminal n. 0003328-11.2018.8.26.0000.
+Consta dos autos que a paciente foi condenada - em decisão transitada em julgado - à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Requer, liminarmente e no mérito, seja fixado regime inicial aberto e substituída a pena privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida e, prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+É importante salientar que a condenação do acusado, após o trânsito em julgado, já foi submetida à nova avaliação pela Corte estadual, ocasião em que não se identificou nenhuma das hipóteses que poderiam autorizar a revisão do que decidido pelas instâncias ordinárias: a) sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos; b) sentença condenatória fundada em depoimentos, exames ou documentos comprovadamente falsos; c) descoberta, após a sentença, de novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena (art. 621 do Código de Processo Penal).
+Registro que, tanto por ocasião da sentença condenatória quanto no julgamento da apelação, houve uma análise minudente e profunda dos elementos probatórios colacionados aos autos, em que se demonstrou os motivos pelos quais a condenação da acusada seria substancialmente justa e harmônica com as provas produzidas, motivo pelo qual não há razões para o processamento deste writ, em que se discute, novamente, matérias que já foram verticalmente analisadas, inclusive já submetidas à revisão criminal.
+De mais a mais, verifico a anterior impetração do HC n. 349.456/SP, em favor da ora paciente, que se insurgiu contra o acórdão proferido na Apelação Criminal n. 0023835-52.2010.8.26.0071 e pleiteou, igualmente, a fixação de regime inicial mais brando e a substituição da pena privativa de liberdade por restritiva de direitos.
+A propósito, no HC n. 349.456/SP, esta Corte Superior, concedeu a ordem de ofício, para fixar o regime inicial semiaberto de cumprimento de pena. Assim, esse writ se trata de mera reiteração de pedido anterior.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
