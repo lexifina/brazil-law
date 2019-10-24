@@ -1,0 +1,13 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE LOTES. ATRASO NA ENTREGA DE INFRAESTRUTURA. NECESSIDADE DE MELHOR ANÁLISE DA MATÉRIA. AGRAVO DE [NOME] [NOME] PROVIDO PARA CONVERTÊ-LO EM RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Sétima Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu parcial provimento aos recursos interpostos pela ora agravante e por Residencial Raposo Tavares Ltda. e outro, conforme ementa abaixo colacionada (e-STJ, fl. 618):
+Compra e venda de lotes - Atraso na entrega de infraestrutura - Todos integrantes da cadeia de fornecimento devem ser solidariamente responsáveis por consequências dos vícios (CDC 18) - Legitimidade passiva e responsabilidade dos Réus proprietários do imóvel - Conduta de um fornecedor não isenta demais de responsabilidade - Falta de conexão de rede interna de água e esgoto pela Sabesp constitui fortuito interno, que não afasta responsabilidade dos fornecedores - Cabível resolução de um dos dois contratos por atraso - Culpa dos vendedores afasta possibilidade de retenção de qualquer fração do valor pago (súm. 543 do STJ) - Loteamento sem infraestrutura - Responsabilidade dos fornecedores pelo IPTU incidente durante posse do lote pela compradora - Inocorrência de prescrição da pretensão de ressarcimento de corretagem - Lote sem prédio - Ausência de lucros cessantes pelo atraso na entrega - Juros moratórios devidos desde a citação (jurisprudência do STJ) - Recursos parcialmente providos.
+Opostos embargos de declaração pela ora agravante e por Residencial Raposo Tavares Ltda. e outro, ambos foram rejeitados.
+Nas razões do apelo especial, a recorrente indicou divergência jurisprudencial e violação aos arts. 12 e 14, § 1º, do CDC; e 402 e 403 do CC.
+Sustentou, em síntese, que faria jus à indenização por lucros cessantes, no montante de 0,5% ao mês, independentemente de se tratar de lote sem prédio, sendo presumido o dano decorrente da mora na entrega do imóvel.
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso e atendidos os pressupostos de admissibilidade, dou provimento ao agravo de [NOME] para determinar, com fulcro no art. 34, XVI, do RISTJ, sua conversão em recurso especial para melhor análise da matéria, sem prejuízo de uma nova análise dos pressupostos recursais.
+Publique-se.
