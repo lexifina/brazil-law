@@ -1,0 +1,47 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ARMA DE FOGO. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA.
+1. Esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória. (Precedentes.)
+2. No caso em tela, o paciente encontra-se custodiado desde 6/3/2017 e foi condenado a uma pena total somada de 12 anos, 7 meses e 20 dias de reclusão em 27/11/2018, negado o direito de recorrer em liberdade.
+3. Está dentro dos limites da razoabilidade, portanto, o prazo de 9 meses desde o aviamento do recurso de apelação até a impetração deste writ e de quase 10 meses até a presente data.
+4. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] DO NASCIMENTO apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33 da Lei n. 11.343/2006 e dos arts. 12 e 16 da Lei n. 10.826/2003, às penas de 12 anos, 7 meses e 20 dias de reclusão e de 1 ano e 2 meses de detenção.
+Sobre os fatos, consta da inicial acusatória o seguinte (e-STJ fls. 21/22):
+Conforme o incluso inquérito policial, policiais civis lotados na Divisão de Combate ao Tráfico de Drogas, no dia 13/02/2017, prenderam em Fortaleza/CE as acusadas [NOME] e [NOME], na posse de 5.200g de cocaína e de 1.850g de crack (IP nº 310-35/2017, as quais seriam integrantes de uma associação criminosa liderada pelo presidiário [NOME], o "[NOME]", sendo tal apreensão objeto da Ação Penal nº 0110830-95.2017.8.06.0001 (3a Vara de Delitos de Trafico de Drogas de Fortaleza), conforme consulta e cópias anexas.
+Em continuação às investigações, no dia 20 de fevereiro de 2017, por volta das 16:00h, a equipe identificou outro membro do grupo criminoso, responsável por guardar parte da droga a ser comercializada, de nome [NOME]. Chegando ao endereço localizado na Rua PV Campo Grande, nº 11, Campo Grande, Caucaia-CE, a composição, após vigilância contínua, flagrou o momento em que o acusado chegou ao referido endereço, conduzindo uma motocicleta Honda CG/ 125 FAN, de cor vermelha e de placa PMW 8489, ocasião em que fez uma abordagem.
+Após resistir à ação policial, empregando violência contra os policiais, foi necessário o uso moderado da força para conter o denunciado, o qual foi indagado sobre a posse de drogas, tendo, inicialmente, negado que tivesse droga em seu poder. Porém, quando os policiais perguntaram se poderiam entrar no imóvel, o denunciado confessou que havia entorpecente no interior de sua casa.
+Após uma busca domiciliar, a equipe policial encontrou, em um dos quartos da residência, um "tambor" contendo 10,4kg (dez quilogramas e quatrocentos gramas) de pó branco, provavelmente mineíta (comumente usada para fabricação de cocaína, cujo quilo custa aproximadamente R$ 2.000,00), bem como 1kg (um quilograma) de cocaína e 550g (quinhentos e cinqüenta gramas) de crack. Em uma gaveta de uma cama, os investigadores ainda encontraram 01 (um) silenciador e, na cozinha, dentro de um depósito de mantimentos, 6 (seis) munições de calibre 38, sendo apreendidos também 1 (um) celular LG e 1 (um) rolo de papel filme.
+No presente writ, afirmam os impetrantes que o "paciente sofre gravíssimo constrangimento ilegal por excesso de prazo no julgamento do recurso apelatório, pois o até a presente data, os autos não foram apreciados pela 3ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado do Ceará, bem como, sequer há previsão do trânsito em julgado da ação penal" (e-STJ fls 4/5.
+Sustentam que "já decorreu o lapso temporal de 09 (NOVE) MESES desde que o paciente manejou o recurso a Instância Superior" (e-STJ fl. 5).
+Pleiteia, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido (e-STJ fls. 41/43).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação do writ em parecer assim ementado (e-STJ fl. 59):
+PROCESSUAL PENAL. HABEAS CORPUS. CONDENAÇÃO EM PRIMEIRO GRAU. AJUIZAMENTO DE AÇÃO DE REVISÃO CRIMINAL. PENAS DE 12 (DOZE) ANOS, 07 (SETE) MESES E 20 (VINTE) DIAS DE RECLUSÃO, E 01 (UM) ANO E 02 (DOIS) MESES DE DETENÇÃO. REGIME FECHADO. VIOLAÇÃO AOS ARTS. 33, DA LEI Nº 11.343/06; ARTS. 12 E 16, DA LEI Nº 10.826/03. NEGADO O DIREITO DE RECORRER EM LIBERDADE. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. EXCESSO DE PRAZO NO JULGAMENTO. INOCORÊNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. INFORMAÇÕES DO TRIBUNAL. AUTOS AGUARDANDO MANIFESTAÇÃO MINISTERIAL. NÃO CONFIGURADO O EXCESSO DE PRAZO. ANDAMENTO REGULAR. PARECER PELA DENEGAÇÃO DA ORDEM.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto do presente pleito cinge-se à verificação de possível constrangimento ilegal por excesso de prazo para o julgamento da apelação.
+Sobre o tema, cumpre ressaltar que esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória.
+Na presente hipótese, o paciente encontra-se custodiado desde 6/3/2017 (e-STJ fl. 20) e foi condenado a uma pena total somada de 12 anos, 7 meses e 20 meses de reclusão em 27/11/2018, negado o direito de recorrer em liberdade (e-STJ fl. 41).
+Está dentro dos limites da razoabilidade, portanto, o prazo de quase 10 meses desde o aviamento do recurso de apelação até a presente data.
+Neste sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as particularidades da causa.
+2. Na espécie, não se constata o alegado constrangimento ilegal, pois o decurso de aproximadamente 8 meses desde o registro e autuação do recurso no Tribunal de origem (recebimento da irresignação pela segunda instância em 28/7/2016) sem o seu julgamento não extrapola os limites da razoabilidade e está justificado na complexidade do feito, pois só a sentença apelada conta com mais de 60 folhas, sendo que, consoante se extrai dos autos e do andamento processual constante do endereço eletrônico do Tribunal de Justiça do Mato Grosso do Sul, todos os 5 réus recorreram e o Ministério Público já ofertou, em 6/12/2016, parecer, indo os autos à conclusão nessa mesma data. Ademais, é cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido confrontando a quantidade de pena imposta na sentença condenatória, a qual, no caso, foi de 12 anos e 8 meses de reclusão, pela prática dos crimes de tráfico de drogas e associação para o tráfico, o que reforça a conclusão de que não há, na hipótese, desídia a ser atribuída ao órgão jurisdicional.
+3. Ordem denegada. (HC 374.706/MS, de minha relatoria, SEXTA TURMA, julgado em 06/04/2017, DJe 20/04/2017.)
+HABEAS CORPUS. LATROCÍNIO. PACIENTE CONDENADO À PENA TOTAL DE 25 ANOS E 8 MESES DE RECLUSÃO. REGIME FECHADO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO CRIMINAL. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. COMPLEXIDADE DO FEITO. DIVERSOS APELANTES. ORDEM DENEGADA.
+1. O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento.
+2. Eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+3. Considerando que a pena total a que foi condenado o paciente é de 25 anos e 8 meses de reclusão, bem como a complexidade da causa, que conta com 4 (quatro) réus, alguns foragidos, com defensores diversos, inexiste flagrante excesso de prazo no julgamento dos recursos, pois não demonstrado que, em razão da demora no julgamento das apelações, o paciente encontra-se impedido de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+4. Ordem denegada. (HC 389.662/MG, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017.)
+Consigne-se, por oportuno, que o recurso de apelação foi recebido no Tribunal de origem em 23/7/2019 e já foi encaminhado ao Ministério Público para emissão de parecer (www.tjce.jus.br, Processo n. 0056975-12.2017.8.06.0064).
+Ante o exposto, denego a ordem.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
