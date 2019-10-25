@@ -1,0 +1,24 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Guilherme Gibertoni Anselmo e outro(s) em favor de Jeferson Ariel de Araujo Marcasso, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 523.067/SP.
+    O paciente foi condenado à pena e 14 (catorze) anos de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas e de associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006). Naquela oportunidade, o magistrado de primeiro grau negou o direito de o paciente recorrer em liberdade.
+    Em sede de apelação, o Tribunal de Justiça de São Paulo deu parcial provimento ao recurso defensivo, para redimensionar a pena para 09 (nove) anos e 04 (quatro) meses de reclusão. Naquela oportunidade, a Corte Estadual determinou a expedição de mandado de prisão em desfavor do ora paciente. Opostos embargos de declaração, rejeitados.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que não conheceu do HC 523.067/SP.
+    No presente writ, os Impetrantes alegam que o exame da matéria não demanda reexame de fatos e provas. Sustentam ausência de vínculo associativo estável e permanente entre o paciente o os coacusados, a inviabilizar sua condenação pelo crime de associação para o tráfico de drogas. Asseveram a possibilidade de aplicação da causa de diminuição da pena prevista no § 4º do art. 33 da Lei 11.343/2006, ‘ainda que em patamar mínimo’, com repercussão no regime menos gravoso. Aduzem a primariedade e bons antecedentes ostentados pelo paciente, além da inexistência de provas de dedicação ou integração do paciente à organização criminosa. Requerem, em medida liminar e no mérito, a absolvição do paciente quanto ao crime de associação para o tráfico de drogas e, sucessivamente, o redimensionamento da pena, com a fixação do regime semiaberto.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. ELEMENTOS INDICATIVOS DE DEDICAÇÃO AO TRÁFICO. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. DETRAÇÃO. IRRELEVÂNCIA. REGIME FIXADO COM BASE NA GRAVIDADE CONCRETA DA CONDUTA. HABEAS CORPUS NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+    2. As instâncias ordinárias, a partir da prova amealhada durante a investigação policial e a instrução criminal, concluíram pela existência de vínculo associativo estável e permanente entre os acusados. Assim, modificar esse entendimento, com a finalidade de afastar a condenação do paciente pelo delito do art. 35, caput, da Lei 11.343/2006 demandaria nova e demorada incursão no acervo fático-probatório carreado aos autos, providência inadmissível na via eleita.
+    3. Mantidos os termos da condenação, inviável a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, já que é assente nesta Corte ser inviável reconhecer o chamado tráfico privilegiado quando houver a prática do crime de associação para o tráfico de drogas porque fica, assim, evidenciada a dedicação do réu a atividades criminosas, afastando o benefício postulado.
+    4. Para o paciente, ainda que se desconte o período de prisão provisória, não é viável o abrandamento do regime prisional, já que sua pena já foi estabelecida em patamar superior a oito anos e o meio mais severo de cumprimento foi estabelecido em razão das circunstâncias judiciais negativas e da gravidade concreta da conduta, não havendo falar em ofensa ao art. 387, § 2º, do Código de Processo Penal.
+    5. Habeas corpus não conhecido”.
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a absolvição quanto ao crime de associação para o tráfico de drogas e o redimensionamento da pena.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 25 de outubro de 2019.
+Ministra Rosa Weber
+Relatora
