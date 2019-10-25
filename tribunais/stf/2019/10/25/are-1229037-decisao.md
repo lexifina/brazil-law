@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à procedência do pedido de transferência de paciente para unidade hospitalar pública dotada de centro de tratamento de terapia intensiva ou o custeio da internação em hospital particular, uma vez constatada a inexistência de vagas na rede pública de saúde. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, cabeça, 37, cabeça, 196 e 197 da Constituição Federal. Afirma contrariados os princípios da isonomia e da razoabilidade. Discorre sobre a necessidade de observância dos princípios da reserva do possível e da legalidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. INTERNAÇÃO EM HOSPITAL COM CENTRO DE TERAPIA INTENSIVA. PACIENTE PORTADORA DE DIVERSAS MOLÉSTIAS GRAVES. DEVER DO ESTADO COMO INTEGRANTE DO SISTEMA ÚNICO DE SAÚDE. Assunto reiteradamente apreciado em nosso Tribunal, referente à obrigatoriedade de internação essencial à preservação da saúde e vida de cidadãos impossibilitados de se tratarem, reconhecendo-se, sempre, a obrigação do Estado em atender a este direito fundamental do ser humano. O dever do Estado de assegurar a todos os cidadãos, indistintamente, o direito à saúde, que é fundamental, está consagrado na Constituição da República nos artigos 6º e 196 e nenhuma regra hermenêutica pode sobrepor-se ao princípio maior ali estabelecido, descabendo a alegação de que, por ser beneficiária de plano de saúde a autora não poderia demandar o Sistema único de Saúde. Não se vislumbra, na hipótese, qualquer conduta ensejadora de abalo psíquico capaz de justificar a reparação extrapatrimonial.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 25 de outubro de 2019.
+Ministro MARCO AURÉLIO
+Relator
