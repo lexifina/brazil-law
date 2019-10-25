@@ -1,0 +1,28 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. APELAÇÃO CIVEL. PROGRAMA CIÊNCIA SEM FRONTEIRAS. NOTA DO ENEM. REQUISITO. INGRESSO DO AUTOR NA FACULDADE EM PERIODO ANTERIOR. MANUTENÇÃO DA SENTENÇA.
+    1. Hipótese em que prestigiados os princípios da igualdade material e da proteção da confiança, ambos expressões axiológicas do Estado de Direito.
+    2. Ao afastar, em relação ao autor (e não de forma abstrata e geral), a observância - como requisito de inscrição no processo seletivo inaugurado pelo Edital de Chamada Pública de 2013 - da nota obtida no Exame Nacional de Ensino Médio, o magistrado a quo considerou a peculiar situação meritória da requerente, que não tivera a oportunidade de participar do ENEM exatamente por já ser acadêmico no ano anterior à exigência.
+    3. Cumpre registrar que não foi reconhecida a ilegitimidade abstrata da consideração da nota obtida no ENEM em Programas Governamentais e, sim, apenas compatibilizou a intenção Administrativa com o princípio da segurança jurídica, amparado pelo texto da CRFB (artigo 5° XXXVI).
+    4. Manutenção da verba honorária. Art. 20 do CPC.” (eDOC 2, p. 25)
+    Opostos embargos de declaração foram parcialmente providos para fins de prequestionamento. (eDOC 2, p. 88)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º; 5º; e 37, caput, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido teria violado o princípio da legalidade, bem como o da isonomia, ao aplicar tratamento diferenciado à recorrida com relação ao edital do Programa Ciência sem Fronteiras. (eDOC 2, p. 88-112)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que teriam sido prestigiados os princípios da igualdade material no presente caso concreto. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Segundo entendo, a decisão objurgada, diferentemente do apontado pelas apelantes, prestigiou os princípios da igualdade material e da proteção da confiança, ambos expressões axiológicas do Estado de Direito.
+    Ao afastar, em relação ao autor (e não de forma abstrata e geral), a observância - como requisito de inscrição no processo seletivo inaugurado pelo Edital de Chamada Pública - da nota obtida no Exame Nacional de Ensino Médio, o magistrado a quo considerou a peculiar situação meritória do requerente, que não tivera a oportunidade de participar do ENEM exatamente por já ser acadêmico no ano anterior à exigência.
+    Ora, a manutenção de tal exigência acabaria por mitigar a igualdade material, tratando de maneira uniforme pessoas (acadêmicos) que se encontram em situação funcional/universitária distintas, bem como a proteção da confiança dos administrados. (…)
+    Registre-se que a sentença não reconheceu a ilegitimidade abstrata da consideração da nota obtida no ENEM em Programas Governamentais. A bem da verdade, apenas foi compatibilizada a intenção Administrativa com o princípio da segurança jurídica,amparado pelo texto da CRFB (artigo 5° XXXVI).” (eDOC 2, p. 20 -21) (grifos)
+    Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incide no caso a Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PROGRAMA CIÊNCIA SEM FRONTEIRAS. REQUISITOS PARA INGRESSO. DECRETO Nº 7.642/2011. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL.1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase processual. 2. Agravo interno a que se nega provimento” (RE n. 945.534-AgR, Ministro Roberto Barroso, Primeira Turma, DJe 14.3.2017).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 14.2.2017. DIREITO ADMINISTRATIVO. ALUNO APROVADO NO ENEM. NEGATIVA DE CONCESSÃO DE CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO. EXIGÊNCIA LEGAL DE IDADE MÍNIMA DE 18 ANOS. REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E DE FATOS E PROVAS. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 279 DO STF. 1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame da legislação infraconstitucional aplicável à espécie, bem como o reexame de fatos e provas. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, CPC. Fica a parte vencida exonerada de honorários advocatícios, nos termos da Súmula 512 do STF”. (ARE 1.002.975 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 19.4.2017)
+     No mesmo sentido: ARE 11.799.859, Rel. Min. Cármen Lúcia, DJe 18.12.2018, RE 976.565, Rel. Min. Ministro Dias Toffoli, DJe 28.6.2016, e ARE 1.176.477, de minha relatoria, DJe 3.12.2018, e RE 1131093, Rel. Min. Ricardo Lewandowski, DJe 26.6.2018.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 2, p. 24), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 25 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
