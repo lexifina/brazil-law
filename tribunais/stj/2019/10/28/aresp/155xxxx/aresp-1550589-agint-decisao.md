@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Agravo interno, interposto pela FAZENDA NACIONAL, contra decisão de minha lavra (fls. 482/485e), que, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheceu do Agravo em Recurso Especial.
+Inconformada, sustenta a parte ora agravante que:
+"A decisão agravada está fundamentada no argumento de que "A parte agravante, todavia, não cuidou de impugnar tal fundamento da decisão agravada, limitando-se a defender o sobrestamento do Recurso Especial".
+Não obstante o respeito que a Fazenda Nacional devota pelas decisões da relatora, no presente caso pedimos vênia para discordar do exame que levou à conclusão que fundamentou a decisão, circunstância que justifica a interposição deste agravo interno para que a mesma seja reconsiderada ou para que o caso seja examinado pela egrégia Turma.
+Entendeu a Eminente Ministra Relatora que a recorrente não impugnou, de forma específica, óbice referente ao suposto fundamento constitucional.
+Todavia, essa alegação de que RESP da União não tratava de matéria constitucional, pois discutia unicamente a omissão da Corte Regional, constou expressamente das razões do ARESP em fls. 390/393, e-STJ, que pedimos permissão para recordar:
+(..)
+Como se vê, ao contrário do que consta da decisão ora agravada, a Fazenda Nacional apresentou razões suficientes para impugnar o fundamento da decisão de inadmissibilidade do RESP, especialmente quanto à suposta natureza constitucional da controvérsia, não prosperando o argumento de que a União se limitou a requerer o sobrestamento do julgamento do RESP.
+Portanto, não há, com a devida vênia, motivo para não conhecer do presente ARESP, sendo certo que a União impugnou em seu recurso todos os fundamentos apresentados pela Vice-Presidente do TRF para a inadmissibilidade do RESP" (fls. 488/490e).
+Por fim, requer, "seja reconsiderada a decisão agravada ou, se assim não entender Vossa Excelência, que o feito seja submetido a julgamento pela Turma, para que seja conhecido e provido o presente agravo interno, de modo a reformar a decisão agravada para que ARESP provido, a fim de que o RESP anteriormente interposto pela União seja conhecido e provido.E uma vez provido este recurso, que seja afastada a majoração da verba honorária" (fl. 490e).
+Nas razões de impugnação, a parte agravada pugna pelo não provimento do Agravo Interno, com "a condenação da Agravante na multa imposta no parágrafo 4º, do artigo 1021, do NCPC, bem como sejam majorados os honorários fixados (artigo 85, § 11, do NCPC), por ser uma questão de direito e de justiça" (fl. 495/500e).
+Tendo em vista a relevância dos argumentos esposados pela parte agravante, reconsidero a decisão de fls. 482/485e.
+Trata-se de Agravo em Recurso Especial, interposto pela FAZENDA NACIONAL, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO. COFINS. CONTRIBUIÇÃO PARA O PIS. INCLUSÃO DO ISS E DO ICMS NA BASE DE CÁLCULO. INCONSTITUCIONALIDADE.
+1. O Plenário do STF, no julgamento do Recurso Extraordinário 574706, com repercussão geral reconhecida, entendeu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base de cálculo dessas contribuições, que são destinadas ao financiamento da seguridade social.
+2. O mesmo raciocínio pode ser adotado com relação ao ISS, pois também não se enquadra entre as fontes de financiamento da seguridade social previstas nas Constituição, representando apenas ingresso de caixa ou trânsito contábil a ser totalmente repassado ao fisco municipal.
+3. A parte autora tem direito à restituição dos valores indevidamente recolhidos, observada a prescrição quinquenal" (fl. 278e).
+Opostos Embargos Declaratórios, por ambas as partes, restaram eles, assim, decididos:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DECISÃO ULTRA PETITA . HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. OMISSÃO INEXISTENTE. ACÓRDÃO DE DECISÃO SOBRE REPERCUSSÃO GERAL. CARÁTER VINCULANTE. SUSPENSÃO DO FEITO. DESNECESSIDADE. PREQUESTIONAMENTO IMPLÍCITO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Caracterizado julgamento ultra petita, deve o decisum ser, de ofício, reduzido aos limites da demanda propostos na inicial.
+3. A súmula da decisão sobre a repercussão geral proferida pelo STF, constante em ata publicada no Diário da Justiça, vale como acórdão, nos termos do § 11 do art. 1.035 do CPC.
+4. O acórdão que, ao reformar sentença de improcedência, apenas inverte a sucumbência, sem fixar honorários recursais, não é omisso, pois o art. 85, § 11, do NCPC somente tem aplicação quando a parte sucumbente, já condenada em honorários, recorre e perde. Interpretação da locução "majorará os honorários fixados anteriormente".
+5. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (art. 1.025 do CPC/2015)" (fl. 327e).
+Sustenta a parte agravante, nas razões do Recurso Especial, interposto pela alínea a do permissivo constitucional, violação ao art. 1.022, II, do CPC/2015, no que tange à incidência da Lei 12.973/2014, alegando que:
+"O respeitável acórdão negou vigência ao art. 1.022, II, do CPC/2015, ao deixar de analisar a omissão apontada nos embargos declaratórios da União, no que tange à incidência da Lei nº 12.973/2014.
+Com efeito, conforme referido nos de declaração opostos pela União (Fazenda Nacional) no Evento 11, não houve pronunciamento judicial sobre a Lei nº 12.973/2014, que deu nova redação ao art. 3º a Lei nº 9.718/98 e também ao art. 1º das Leis nº 10.637/2002 e nº 10.833/2003, regras que estabelecem a base de cálculo do PIS e da COFINS, nos regimes comum e não-cumulativo, fazendo remissão ao art. 12 do Decreto-Lei no 1.598/1977.
+O dispositivo em tela contempla as parcelas compreendidas pela receita bruta, na qual se incluem os tributos sobre ela incidentes, como se vê:
+(..)
+Assim, evidencia-se a necessidade de complemento da fundamentação, para que os limites do acórdão do próprio TRF restem bem fixados quanto à superveniente legislação.
+Cumpre transcrever, em complemento, o quanto referido pela União em sede de embargos declaratórios (Evento 11):
+(..)
+A douta Corte Regional, contudo, apreciando os aclaratórios, com o devido respeito, omitiu-se em apreciar esta específica questão posta, o que justifica, por si só, a anulação da decisão recorrida, por violação ao art. 1.022, II, do CPC/2015, devolvendo-se tal matéria ao Tribunal a quo.
+Impõe-se, em conseqüência, seja anulada a decisão recorrida, por violação ao art. 1.022, II, do CPC/2015, devolvendo-se tal matéria ao Tribunal a quo" (fls. 336/339e).
+Por fim, requer "o provimento do presente recurso especial, com base no art.1.022, II, do CPC/2015, para que seja anulado o acórdão a fim de que o Egrégio Regional aprecie os elementos expressamente referidos em embargos declaratórios (incidência da Lei nº 12.973/2014), conforme fundamentação recursal, como questão prejudicial ao desenlace do feito" (fl. 339e).
+Contrarrazões apresentadas (fls. 362/363e), foi o Recurso inadmitido na origem (fls. 372/373e), ensejando a interposição do presente Agravo.
+A irresignação não merece prosperar.
+De início, em relação aos arts. 1.022, II, e parágrafo único, II, c/c 489, § 1º, V, ambos do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, na origem, trata-se de Ação Declaratória, ajuizada pela parte ora agravada, em face da FAZENDA NACIONAL, objetivando, em síntese, a declaração de inexigibilidade de recolhimento do PIS e da COFINS sobre os valores relativos ao ICMS, bem como a restituição dos valores indevidamente recolhidos a maior, a tal título.
+Julgada improcedente a demanda (fls. 219/222e), a parte autora interpôs recurso de Apelação. Por sua vez, o Tribunal de origem deu provimento ao apelo, nos seguintes termos:
+"Inclusão do ICMS na base de cálculo da COFINS e da contribuição para o PIS. Inconstitucionalidade.
+O Plenário do STF, no julgamento do Recurso Extraordinário 574706, com repercussão geral reconhecida, entendeu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base de cálculo dessas contribuições, que são destinadas ao financiamento da seguridade social.
+Prevaleceu o entendimento no sentido de que a arrecadação do ICMS não se enquadra entre as fontes de financiamento da seguridade social previstas nas Constituição, pois não representa faturamento ou receita, representando apenas ingresso de caixa ou trânsito contábil a ser totalmente repassado ao fisco estadual.
+A tese de repercussão geral foi fixada nos seguintes termos:
+"O ICMS não compõe a base de cálculo para fins de incidência do PIS e da Cofins".
+O mesmo raciocínio pode ser adotado com relação ao ISS, pois também não se enquadra entre as fontes de financiamento da seguridade social previstas nas Constituição, representando apenas ingresso de caixa ou trânsito contábil a ser totalmente repassado ao fisco municipal.
+Restituição.
+A parte autora tem direito à restituição dos valores indevidamente recolhidos, observada a prescrição quinquenal.
+Atualização monetária.
+A atualização monetária do indébito incide desde a data do pagamento indevido do tributo (Súmula n.º 162 do STJ), até a sua efetiva restituição ou compensação, mediante a aplicação da taxa SELIC, nos termos do art. 39, § 4º da Lei n.º 9.250/95, a qual engloba juros e correção monetária.
+Honorários advocatícios.
+Condeno a União ao reembolso das custas adiantadas pela autora e honorários advocatícios, que serão definidos quando da liquidação da sentença, de acordo com as regras do art. 85 do CPC de 2015.
+Ante o exposto, voto por dar provimento à apelação para julgar procedente o pedido" (fls. 275/276e).
+Com efeito, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+Ilustrativamente:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VANTAGEM PESSOAL INCORPORADA JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. INVIABILIDADE DO APELO NOBRE.
+1. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos dos apresentados pela parte. Não há falar, assim, em violação dos arts. 128 e 460 do CPC/1973.
+2. O Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (art. 37, XIII, da Constituição Federal), circunstância que torna inviável o exame da matéria em sede de recurso especial.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.478.367/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/03/2018).
+Ante o exposto, reconsidero a decisão de fls. 482/485e. Com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer, em parte, do Recurso Especial, e, nessa parte, negar-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
