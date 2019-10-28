@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de [NOME] contra decisão proferida por em. Desembargador do Tribunal de Justiça do Estado de São Paulo.
+No presente writ, o impetrante alega que "deve a ordem ser concedida para que seja aplicado o parágrafo 3o ou o parágrafo 2o do artigo 33, da Lei 11.343.2006, c.c. com artigo 40, inciso IV, da Lei 11.343/2006, assegurando a retroatividade da lei penal mais benéfica, e via de consequência seja alterado o tipo penal do revisionando e sua reprimenda final."
+Requer, ao final, a concessão da liminar, para que o paciente aguarde em liberdade o julgamento deste writ.
+É o relatório. Decido.
+O col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado.
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+Ab initio, verifica-se que o presente writ investe contra decisão proferida por em. Desembargador, que indeferiu o pedido liminar em habeas corpus, e ainda não julgou o mérito da impetração. Nesse diapasão, considerando que o Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Outrossim, em hipóteses excepcionais, que se caracterizam pela flagrante ilegalidade, verificável icto oculi, vale dizer, evidenciada teratologia ou deficiência de fundamentação na decisão impugnada, esta Corte tem admitido a suplantação do versado óbice.
+Na hipótese, não obstante as alegações da defesa, não estão configurados os requisitos para a superação do enunciado sumular e a concessão da ordem requestada.
+Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+P. e I.
