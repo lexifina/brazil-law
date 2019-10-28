@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos pela Fundação Oswaldo Cruz de decisão monocrática, da minha lavra, em que neguei seguimento ao agravo em recurso extraordinário interposto contra decisão do Tribunal Regional Federal da 2ª Região, haja vista a ausência de divergência entre o entendimento adotado pela Corte de origem e a jurisprudência desta Suprema Corte.
+    A embargante aponta omissão quanto a existência de ”decisão do Relator nos autos do RE 870.947 conferindo efeito suspensivo a aclaratórios opostos nos autos”. Requer “seja: determinação de devolução dos autos ao Tribunal de origem para que, após a conclusão do julgamento dos embargos de declaração no RE nº 870.947/SE, sejam observados os procedimentos previstos nos incs. I e II do art. 1.030 do Código de Processo Civil (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal”.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Código de Processo Civil (Lei nº 13.105/2015).
+    O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios, independentemente do caráter infringente que ostentam.
+    Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, nos termos do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016, e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Sobrelevo não se ressentir do vício da omissão, ao feitio legal, o decisum no qual se assenta, de forma inequívoca, a inviabilidade do apelo extremo, haja vista a ausência de divergência entre o entendimento adotado pela Corte de origem e a jurisprudência desta Suprema Corte, veIrbis:
+    “[...]
+    Ademais, o entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    ‘EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI Nº 9.494/1997 COM A REDAÇÃO DADA PELA LEI Nº 11.960/2009. MATÉRIA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 810. RE 870.947. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF). EMBARGOS ACOLHIDOS PARA, ATRIBUINDO-LHES EXCEPCIONAIS EFEITOS INFRINGENTES, ANULAR AS DECISÕES PROFERIDAS NESTA CORTE E DETERMINAR A DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA QUE SEJA OBSERVADO O DISPOSTO NO ARTIGO 543-B DO CÓDIGO DE PROCESSO CIVIL’ (RE 835727 AgR-ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 15.3.2016, PROCESSO ELETRÔNICO DJe-078 DIVULG 22.4.2016 PUBLIC 25.4.2016) [...]”.
+    Em reforço, anoto reafirmada a compreensão quanto a correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Le nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, pelo Plenário desta Suprema Corte que, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida (Ata de Julgamento Nº 36, de 03.10.2019, publicada no DJe de 18.10.2019).
+    Gizo, portanto, claramente assinalado na decisão fustigada que a fundamentação do acórdão de origem se alinha às diretrizes do Supremo Tribunal Federal esposadas no precedente supra.
+    Pontuo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 28 de outubro de 2019.
+Ministra Rosa Weber
+Relatora
