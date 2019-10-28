@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de petição protocolada por MATHEUS HENRIQUE LOMA visando a extensão dos efeitos do acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça nos autos do presente habeas corpus em que figura como paciente WAGNER OLIVEIRA ALVES, que teve a ordem concedida de ofício para revogar a prisão preventiva decretada em seu desfavor.
+Na via eleita, requer o peticionário, de forma objetiva, a extensão da liberdade concedida ao paciente, ao argumento de que a sua situação é exatamente a mesma.
+O Ministério Público Federal opinou pelo deferimento do pedido (e-STJ fls. 123-128).
+É o relatório.
+Compulsando os autos, constata-se que o ora requerente, assim como o paciente, foi preso em flagrante em 30/3/2019, teve convertida a prisão em preventiva no dia seguinte e, posteriormente, também foi denunciado pela suposta prática dos delitos previstos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+Em aresto desta Relatoria, o colegiado (Quinta Turma) decidiu por não conhecer do habeas corpus, concedendo a ordem de ofício para revogar a prisão de WAGNER OLIVEIRA ALVES, reconhecendo o constrangimento ilegal evidenciado nos autos, diante da reduzida quantidade de material tóxico apreendido - 56g de maconha.
+Eis a ementa do julgado aludido:
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO AO TRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FRAGILIDADE DE PROVAS QUANTO À IMPUTAÇÃO CRIMINOSA. INVIABILIDADE DE EXAME NA VIA ELEITA. ALEGADA INIDONEIDADE DA FUNDAMENTAÇÃO. CONFIGURAÇÃO. QUANTIDADE REDUZIDA DE DROGA APREENDIDA. CONDIÇÕES PESSOAIS FAVORÁVEIS. COAÇÃO ILEGAL EM PARTE DEMONSTRADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi adotado pelo Superior Tribunal de Justiça, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. A tese de fragilidade das provas quanto à imputação criminosa é questão que não pode ser dirimida na via sumária do habeas corpus, por demandar o reexame aprofundado dos elementos coletados no curso da instrução criminal, devendo ser solucionada no Juízo próprio.
+3. No caso, o acusado foi flagranteado na posse de reduzida quantidade de material tóxico, a demonstrar que não se trata de tráfico de grande proporção, ou seja, a potencialidade lesiva da conduta em si considerada não pode ser tida como das mais elevadas.
+3. Além disso, o agente é tecnicamente primário, predicado que corrobora a conclusão pela desproporcionalidade da prisão ante tempus.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para revogar a prisão preventiva do paciente" (e-STJ fls. 105-106).
+Mister destacar, oportunamente, que o art. 580 do Código de Processo Penal permite que, na hipótese de concurso de agentes, a decisão judicial favorável proferida em favor de um acusado se estenda aos demais, desde que as situações fático-processuais sejam idênticas e não esteja a decisão favorável fundada em motivos que sejam de caráter eminentemente pessoal.
+Com efeito, no caso, forçoso reconhecer a identidade fático processual entre a situação do paciente e a do ora requerente e, ainda, que a decisão que concedeu a ordem de ofício não se encontra fundada em motivos de caráter pessoal, o que atrai a incidência do dispositivo legal acima referido.
+Ante o exposto, defere-se o pedido de extensão para revogar a prisão preventiva de MATHEUS HENRIQUE LOMAR.
+Publique-se e intimem-se.
