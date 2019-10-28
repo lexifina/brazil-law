@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim relatado (fls. 161/162):
+O advogado [NOME] impetra ordem de habeas corpus, com pedido liminar, em favor de [NOME], alegando constrangimento ilegal sofrido pelo paciente no processo nQ 1500597-03.2019.8.26.0559, ao qual responde como incurso no artigo 157, § 29, inciso II, do Código Penal, com trâmite perante o r. Juízo de Direito da Ia Vara da Comarca de José Bonifácio.
+Pleiteia a concessão da liberdade provisória ao paciente, com a expedição de alvará de soltura, alegando, para tanto, a ausência dos requisitos necessários à custódia cautelar, além da insuficiente fundamentação da decisão que a decretou. Acena, ainda, com a presença de condições pessoais favoráveis ao suplicante, tais como primariedade e residência fixa, aduzindo a possibilidade de aplicação de medidas cautelares alternativas ao cárcere.
+O pedido liminar foi indeferido (fls. 61/62).
+A digna autoridade apontada como coatora prestou informações, complementadas com cópias de peças processuais (fls. 65/101).
+O parecer da douta Procuradoria-Geral de Justiça é pela denegação da ordem (fls. 104/109).
+Foi juntada a petição de fls. 111/113 pelo impetrante, trazendo recente decisão do Superior Tribunal de Justiça, aplicando medidas cautelares alternativas ao cárcere a caso análogo ao ora tratado (fls. 114/156).
+Consta dos autos que o recorrente e outro corréu foram denunciados pela prática do delito do art. 157, § 2º, II, do Código Penal, em razão do que se encontra preso preventivamente.
+Impetrado mandamus na origem, a ordem foi denegada.
+Daí o presente recurso, em que o recorrente sustenta, em síntese, que é primário, e que, na espécie, não estão presentes os requisitos do art. 312 do Código de Processo Penal.
+Salienta, ademais, que o delito não foi praticado com violência ou grave ameaça à vítima.
+Requer, liminarmente e no mérito, o provimento do recurso para deferir a liberdade provisória ao recorrente, mediante a aplicação de medidas cautelares diversas da prisão, expedindo-se alvará de soltura em seu favor.
+A liminar foi deferida (fls. 248/249).
+As informações foram prestadas (fls. 256/257 e 260/306).
+O Ministério Público Federal ofertou parecer manifestando-se pela prejudicialidade do recurso (fls. 308/310).
+Na origem, a ação penal nº 1500597-03.2019.8.26.0559, encontra-se em fase de alegações finais, consoante informações disponibilizadas no site do Tribunal a quo, consultadas em 24/10/2019.
+É o relatório.
+DECIDO.
+De início, cumpre afastar a prejudicialidade do recurso, nos termos do parecer do Ministério Público Federal, na medida em que a prisão revogada na origem foi a do corréu e não a do paciente (fl. 312).
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado de sentença condenatória, reveste-se de legalidade medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto de prisão preventiva restou assim fundamentado (fls. 32-33):
+[NOME] [NOME] foi preso em flagrante pela prática do delito previsto no artigo 157, caput, do Código Penal. O auto de prisão em flagrante foi encaminhado a este juízo no prazo de 24 (vinte e quatro) horas, nos termos do art. 306 do Código de Processo Penal. O representante do Ministério Público pleiteou a conversão do flagrante em prisão preventiva e a i. defesa pleiteou a concessão da liberdade provisória. É o relatório. FUNDAMENTO E DECIDO. O auto de prisão em flagrante encontra-se formalmente em ordem, não sendo caso de relaxamento da prisão em flagrante (art. 310, I, CPP). O caso concreto autoriza a prisão preventiva. A materialidade do crime, para o qual se prevê, mesmo na forma tentada, pena máxima de reclusão superior a 4 anos, decorre do laudo de exibição e apreensão e as declarações e demais elementos de convicção constantes do auto de prisão em flagrante revelam a existência de indícios de autoria. Em que pese a primariedade do autuado, em se tratando de juízo de cognição sumária, descabe a análise de dosimetria da pena ou dos benefícios a que fará jus o autuado em caso de eventual condenação, mas, sim, da gravidade da conduta. Considerando a folha de antecedentes do autuado, ainda que o crime em questão não tenha sido praticado com violência ou grave ameaça contra a pessoa, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração delitiva (arts. 312 e 314, CPP), de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art. 282, § 6º do CPP). Os elementos de convicção contidos nos autos não revelam a existência das excludentes previstas no art. 23, incisos I, II e III, do Código Penal. Ante o exposto, com fundamento no arts. 310, II, 312, 313, I, e 315, todos do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de [NOME] [NOME] em PRISÃO PREVENTIVA. Expeça-se mandado de prisão preventiva (art. 406 das NSCGJ).
+O decreto fundamentou a necessidade da prisão preventiva considerando que Em que pese a primariedade do autuado  ..  ainda que o crime em questão não tenha sido praticado com violência ou grave ameaça contra a pessoa, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração delitiva.
+Como se vê, não consta no decreto de prisão fundamento idôneo, valendo-se de motivos abstratos e com genérica regulação da prisão preventiva, além de presunções.
+Assim, não havendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, desde logo deve ser reconhecida a ilegalidade.
+Ante o exposto, dou provimento ao recurso em habeas corpus, confirmando a liminar anteriormente deferida, para a soltura do recorrente [NOME] [NOME], o que também não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
