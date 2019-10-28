@@ -1,0 +1,44 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. CRIME DESCRITO NO ART. 14, CAPUT, C/C O ART. 20, AMBOS DA LEI N. 10.826/2003. INDEFERIMENTO DE PEDIDOS DE PRODUÇÃO DE PROVA PELO JUÍZO SINGULAR. TESE DE CERCEAMENTO DE DEFESA. ILEGALIDADE MANIFESTA NÃO DEMONSTRADA. APLICAÇÃO DA SÚMULA 691/STF.
+Habeas corpus indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Depreende-se dos autos que o paciente foi denunciado pela prática, em tese, do crime previsto no art. 14, caput, c/c o art. 20, ambos da Lei n. 10.826/2003 (Processo n. 1500571-71.2019.8.26.0634 - fls. 33/34).
+Recebida a denúncia pelo Juízo de Direito da 1ª Vara da comarca de Tremembé/SP, determinou-se a citação do paciente, para fins de apresentação da defesa preliminar, que assim procedeu, expondo toda a matéria que entendia pertinente sobre o caso e solicitando, ainda, a produção de provas tidas como necessárias à instrução da ação penal. Contudo, o Magistrado singular indeferiu, cabalmente, os requerimentos, ao argumento de que tais provas postuladas pela defesa não são imprescindíveis para a verdade da busca real (fl. 10).
+Irresignada, a defesa impetrou o HC n. 2226560-97.2019.8.26.0000, tendo o Desembargador Relator do Tribunal a quo, em 11/10/2019, indeferido a liminar (fl. 135).
+Daí o presente writ, no qual o impetrante sustenta, em síntese, que (fls. 13/27):
+No presente caso, a autoridade judiciária coatora arbitrariamente indeferiu a produção de prova documental, oportunamente requerida pela Defesa do Paciente, provas estas que somente através de uma ordem judicial poderá ser obtida, pois visa o envio de documentos em poder de administração penitenciária que o paciente está lotado.
+Tais documentos são extremamente necessários para atacar fatos apontados pela acusação, e a nobre Magistrada numa decisão sem qualquer fundamento, cerceou esse direito do paciente. Ou seja, em manifesto pré julgamento da ação penal, pois esclareceu que os documentos postulados pela defesa, são desnecessários para busca da verdade real.
+Assim, diante da negativa de produção das provas aqui narrada, causou o juiz "a quo" claro cerceamento de defesa ao Paciente, impondo-lhe inegável constrangimento ilegal, já que impossibilitado de exercitar a ampla defesa e o contraditório.
+ ..  a autoridade coatora, ao proferir as decisões ora combatidas, impossibilitou ao Paciente que produzisse todas as provas que julga pertinente - de forma a poder rechaçar as teses articuladas na acusação.
+Não se pode legitimar, diante do sistema constitucional de garantias, que um acusado posse ser despojado do exercício do direito de defesa, pedra de toque do sistema que garante o equilíbrio entre todos os atores da ribalta processual penal.
+ ..  o direito à prova é decorrência direta do princípio constitucional da ampla defesa e da ação. Isso porque, sua produção está intrinsecamente ligada à busca da verdade real do processo.
+ ..
+Se a repressão ao direito do acusado em procedimento penal de produzir provas que sejam aptas a demonstrar sua inocência não constitui constrangimento ilegal e evidente prejuízo, desconhece-se então algo que o possa ser!
+ ..
+À luz de tal direito fundamental, portanto, a defesa técnica, quando apresentou em juízo sua Resposta à Acusação, visando a evidenciar a verdade processual, requereu, com fundamento no artigo 396-A do Código de Processo Penal, a produção de provas que entendeu ser indispensável para a correta convicção judicial.
+Diante todo o exposto, resta evidente o constrangimento ilegal suportado pelo Paciente.
+Requer, assim (fl. 30):
+Seja concedida a medida liminar para determinar a suspensão do trâmite da Ação Penal nº 1500571-71.2019.8.26.0634 até o final julgamento de mérito do habeas corpus de número 2226560-97.2019.8.26.0000, em trâmite na sexta câmara de direito criminal.
+Ao final, seja concedida a ordem de habeas corpus para a finalidade de se detectar a nulidade de todas as decisões que indeferiram os pleitos de produção de provas do Paciente, anulando-se, por igual, o feito, desde o recebimento da peça acusatória.
+À fl. 139 assim despachei:
+Antes de tomar qualquer decisão neste writ, solicitem-se informações pormenorizadas ao Juízo de Direito da 1ª Vara da comarca de Tremembé/SP, no prazo de 72 horas, sobre os fatos alegados na inicial, juntando-se documentos pertinentes.
+A requisição de informações deverá ser acompanhada da petição de fls. 3/30.
+Após, devolvam-se os autos para apreciação do pleito liminar.
+Em 16/10/2019, o Juízo de Direito da 1ª Vara da comarca de Tremembé/SP prestou estas informações (fls. 189/190):
+ I - Cuida-se de writ em que se postula a nulidade das decisões que indeferiram os pleitos de produção de provas do paciente.
+II - Em defesa prévia a i. DEFESA requereu a produção das seguintes provas: 01- juntada de cópia integral do processo administrativo número 950/17; 02 - cópia da alta médica, informando à administração penitenciária no dia 09/082019; 03 - envio da cópia de todos os cursos de tiro e formação oferecidos para o réu pela penitenciária; 04 - registro de entrada e saída do plantão do dia 14/08 a 15/08; 05- cópia da folha de armário do dia 14/08, mencionado os itens que fora entregues a [NOME], em especial, tipo de arma de fogo e quantidade de munições entregues a ele; 06- relatório da torre que [NOME], fazia segurança nos dias 14 a 15 de agosto de 2019; 07- câmara do estacionamento no período de 6 horas da manhã até às 9 horas, do dia 15/8; 08 - relatório de entrada e saída da viatura no dia 14 a 15 de agosto, constando com qual armamento [NOME] saiu do presídio.
+III - Em despacho indeferiu-se a produção de tais provas, com a fundamentação de que seriam imprescindíveis para a busca da verdade real, agendando-se audiência para 16 de outubro de 2019, às 15h00, já que o paciente, agente de segurança penitenciária, foi denunciado como incurso no art. 14, caput, c.c. art. 20, ambos da Lei n. 10.826/03, e teve negado o seu pedido de obtenção de porte de arma de fogo (p. 182 e 197/198), necessário, nos termos do artigo 1º, § 5º, da Resolução 0271, de 11/03/2019.
+IV - Referida audiência não se realizou na data de hoje, haja vista a ausência do acusado e de seu defensor, tendo este apresentado petição requerendo a sua redesignação por motivo de saúde (fl. 521), já que o réu sofreu crise de ansiedade e desidratação, apresentando atestado médico (p. 522). Assim, a audiência foi redesignada para o dia 27 de novembro de 2019, às 14h00.
+
+Estes autos foram a mim distribuídos por prevenção do HC n. 529.367/SP, também impetrado em prol do ora paciente.
+É o relatório.
+Na via da excepcionalidade, admite-se habeas corpus contra decisão que indeferiu pedido de liminar em writ impetrado perante o Tribunal a quo, ainda não julgado.
+O Superior Tribunal de Justiça, todavia, tem flexibilizado tal entendimento, admitindo impetrações dessa natureza em situações absolutamente excepcionais, desde que esteja claramente evidenciada a ilegalidade do ato coator, proveniente de decisão inquestionavelmente teratológica, despida de qualquer razoabilidade.
+Confira-se, a propósito, a Súmula 691 do Supremo Tribunal Federal, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar.
+Pelo exame dos autos, em princípio, não fica evidenciada a referida estreita exceptio, a fim de autorizar a outorga pretendida.
+No caso, o Desembargador Relator indeferiu o pleito liminar, ponderando o seguinte: para que a liminar seja apreciada de pronto, e à míngua de maiores elementos para tanto, registro que essa providência em sede de habeas corpus é excepcional, razão pela qual está reservada para os casos em que é flagrante o constrangimento ilegal, não sendo esta a hipótese dos autos. Ademais, a análise do preenchimento, ou não, dos requisitos legais autorizadores da medida pleiteada, revela-se inadequada à esfera de cognição sumária que distingue a presente fase do procedimento. Por conseguinte, INDEFIRO a cautela requerida, reservando-se à Colenda Turma Julgadora a solução do problema, em toda a sua extensão (fl. 135). Nisso não há evidente constrangimento ilegal, capaz, portanto, de superar o óbice da Súmula 691/STF.
+Sendo assim, entendo que mais adequado e prudente será reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examinará os contornos e circunstâncias delineadores da questão, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte estadual, mormente se o writ está sendo regularmente processado.
+Pelo exposto, com fundamento no art. 210 do RISTJ, indefiro in limine o pedido.
+Publique-se.
