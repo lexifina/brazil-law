@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Conflito de Competência cujo suscitante é o Juízo de Direito da Vara Única de Santa Luzia/PB e suscitado, o Tribunal Regional do Trabalho da 13ª Região, nos autos de Ação de Cobrança ajuizada por [NOME] contra o Município de Junco do Seridó.
+Discute-se a atribuição legal para julgar ação proposta devido ao descumprimento de regras contidas na CLT, consistentes no pagamento de diferenças de verbas do FGTS.
+O Juiz do Trabalho reconheceu a incompetência da Justiça Laboral em razão de a relação havida entre as partes ser regida por estatuto, remetendo os autos à Justiça comum estadual.
+O Juiz estadual declarou-se incompetente, considerando que o contrato foi firmado, fundamentalmente, sob as regras da CLT.
+É o relatório.
+Decide-se.
+Os autos foram recebidos neste Gabinete em 25.9.2019.
+A determinação da competência para o processamento e julgamento das demandas trabalhistas entre servidores públicos e a Administração Pública depende do vínculo estabelecido ou pretendido entre as partes, à luz dos termos do pedido e da causa de pedir. Se o vínculo for estatutário, a competência será da Justiça Comum (estadual ou federal); ao contrário, na hipótese de vínculo regido pela Consolidação das Leis do Trabalho (CLT), caberá à Justiça Trabalhista o julgamento dos litígios daí advindos.
+No caso dos autos, a particular foi contratada pelo Município de Junco do Seridó/PB em 1º.4.1998. Contudo, em 2013, com a edição da Lei 329, o Município instituiu o regime jurídico estatutário para o servidores públicos municipais.
+Conforme exposto anteriormente, a pretensão da reclamante diz respeito ao período em que laborava sob regime celetista, o que atrai a competência da Justiça Trabalhista a teor do enunciado da Súmula 97/STJ: "Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único".
+A propósito:
+CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. NEGATIVO. RECLAMAÇÃO TRABALHISTA. REGIME JURÍDICO CELETISTA. LEI MUNICIPAL 1.017/2008. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES.
+1. Trata-se de Conflito Negativo de Competência entre o Juízo de Direito da 2ª Vara Cível, Criminal e de Execuções Criminais de Cambuí-MG e o Juízo da 1º Vara do Trabalho de Pouso Alegre - MG, nos autos da Reclamação Trabalhista ajuizada por [NOME] contra o Município de Córrego do Bom Jesus, visando obter verbas decorrentes de vínculo empregatício.
+2. A determinação da competência para o processo e o julgamento das demandas que envolvem direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+3. O autor foi admitido no Município de Córrego do Bom Jesus, mediante a assinatura de sua carteira de trabalho (fl. 17, e-STJ) e nos termos da Lei Municipal 1.017/2008, que dispõe em seu art. 1º, parágrafo único, que o regime jurídico local é o celetista (fl. 18, e-STJ).
+4. Assim, temos que a relação jurídica estabelecida entre as partes encontra-se amparada pelos preceitos da Consolidação das Leis do Trabalho, razão pela qual não há como afastar a competência da Justiça Laboral para o julgamento da demanda. Precedentes do STJ.
+5. Agravo Regimental não provido. (AgRg no CC 135.877/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 26/11/2014, DJe 10/12/2014).
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. EMPREGADO CONTRATADO SOB REGIME CELETISTA, POSTERIORMENTE ALTERADO PARA ESTATUTÁRIO. PEDIDOS E CAUSA DE PEDIR ASSOCIADOS AO PERÍODO CELETISTA. COMPETÊNCIA DO JUÍZO TRABALHISTA. SÚMULA 97 DO STJ. AGRAVO NÃO PROVIDO.
+1. - O autor prestou serviços à extinta Empresa Municipal de Vigilância do Município do Rio de Janeiro, sob o regime celetista, de 20 de maio de 1991, data de sua admissão, a 14 de janeiro de 2010, quando, por força da Lei Complementar Municipal n. 100/2009, foi transposto para regime estatutário. Busca obter valores que considera devidos à previdência social, relativos especificamente a esse período.
+2. - Nesse contexto, inafastável a incidência do comando contido no enunciado sumular n. 97 desta Corte: "Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único". 3. - Agravo regimental a que se nega provimento. (AgRg no CC 129.749/RJ, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 29/10/2014).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CARÁTER MANIFESTAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE RECURSAL. CONFLITO NEGATIVO ENTRE JUÍZOS ESTADUAL E TRABALHISTA. AÇÃO ORDINÁRIA CONTRA O ESTADO. RECOMPOSIÇÃO SALARIAL. SERVIÇO PRESTADO NO REGIME CELETISTA. SÚMULA 97/STJ. COMPETÊNCIA DA JUSTIÇA LABORAL.
+(..)
+2. Os autores pretendem o recebimento de verbas não pagas decorrentes do vínculo celetista, incidindo no enunciado da Súmula 97 desta Corte Superior: "Compete a justiça do trabalho processar e julgar reclamação de servidor publico relativamente a vantagens trabalhistas anteriores a instituição do regime jurídico único".
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento, para manter a decisão que conheceu do conflito para declarar competente o Juízo da 6ª Vara do Trabalho de Belo Horizonte - MG (o suscitante). (EDcl no CC 103.240/MG, Rel. Ministro Og Fernandes, Terceira Seção, DJe 05/06/2013).
+Pelo exposto, conhece-se do Conflito para declarar competente o Tribunal Regional do Trabalho da 13ª Região, o suscitado.
+Publique-se.
+Intimem-se.
