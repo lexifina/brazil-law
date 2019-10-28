@@ -1,0 +1,23 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REVISÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE CONCORRENTE ENTRE PARTE E ADVOGADO. GRATUIDADE DE JUSTIÇA. DESNECESSIDADE DE PREPARO. IRRISORIEDADE DA VERBA. SUPRESSÃO DE INSTÂNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] contra o acórdão de fls. 207-210 (e-STJ), proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. NOVO CPC. PEDIDO DE MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. INTERESSE EXCLUSIVO DO ADVOGADO. AUSÊNCIA DE PREPARO. PRAZO PARA REGULARIZAÇÃO. RECURSO NÃO PROVIDO. 1) De acordo com as disposições do Novo CPC, o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à qratuidade. 2) Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 213-227), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação do art. 85, § 8º, do Código de Processo Civil de 2015. Sustenta, em síntese: i) a legitimidade concorrente entre a parte e o seu advogado para interpor recurso que visa discutir o valor dos honorários advocatícios de sucumbência; ii) a desnecessidade de preparo quando o recurso é interposto pela parte que é beneficiária da gratuidade de justiça; e iii) a irrisoriedade dos honorários arbitrados.
+Sem contrarrazões (e-STJ, fl. 246).
+Admitido o processamento do recurso na origem (e-STJ, fls. 247-250), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+A jurisprudência desta Corte é no sentido de que tanto a parte como o seu advogado possuem legitimidade para interpor recurso com a finalidade de discutir o valor arbitrado para os honorários advocatícios de sucumbência. Também entende este Tribunal que, sendo o recurso interposto pela parte que é beneficiária da gratuidade de justiça, é desnecessário o preparo recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PLEITO RECURSAL DE MAJORAÇÃO. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE QUE LITIGA SOB O PÁLIO DA GRATUIDADE DA JUSTIÇA. POSSIBILIDADE.
+DESERÇÃO. NÃO OCORRÊNCIA. 1. A controvérsia cinge-se à possibilidade de o advogado dativo de parte beneficiada pela assistência judiciária gratuita postular, em recurso de Apelação, exclusivamente, a majoração dos honorários advocatícios fixados na sentença, sem o pagamento de preparo e sem demonstrar direito à gratuidade. 2. O artigo 99, § 5º, do CPC/2015 estabelece que, na hipótese do § 4º (assistido representado por advogado particular), o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade. 3. In casu, o patrono da parte é advogado dativo, isto é, exerce o papel de defensor por indicação da Justiça.
+Portanto, não se trata de advogado particular escolhido e contratado pela parte. Assim, o dispositivo transcrito não se aplica ao presente caso, uma vez que é claro ao vedar a gratuidade, sem os requisitos legais, ao advogado particular, não fazendo menção a advogado dativo.
+4. A jurisprudência do STJ é tranquila no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los, não ocorrendo deserção se ela litiga sob o pálio da gratuidade da justiça. Nesse sentido: REsp 1.596.062/SP, Rel.
+Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe 14/6/2016; AgRg no REsp 1.466.005/SP, Rel.
+Ministro Moura Ribeiro, Terceira Turma, DJe 29/9/2015; AgRg no REsp 1.378.162/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/2/2014.
+5. Recurso Especial provido.
+(REsp 1777628/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/02/2019, DJe 11/03/2019).
+Dessa forma, a decisão recorrida não refletiu o entendimento deste Tribunal, motivo pelo qual merece reforma.
+A tese de irrisoriedade dos honorários advocatícios não pode ser discutida nesta oportunidade, sob pena de supressão de instância, uma vez que a apelação não foi julgada pelo Tribunal estadual.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para, reconhecendo a legitimidade da recorrente para interpor a apelação e a desnecessidade de preparo, determinar o retorno dos autos ao Tribunal local para julgamento do recurso.
+Publique-se.
