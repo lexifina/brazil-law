@@ -1,0 +1,15 @@
+DECISÃO
+
+Trata-se de agravo apresentado por MUNICÍPIO DE UTINGA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+ADMINISTRATIVO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA CONCURSO PÚBLICO CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL DIREITO LÍQUIDO E CERTO À NOMEAÇÃO
+Alega violação dos arts. 20, III, "b", 21, 22, 23 e 42 da LC 101/00, no que concerne à supremacia do interesse público sobre o privado por limitações orçamentárias, trazendo o(s) seguinte(s) argumento(s):
+ Todavia, necessário suscitar que o ordenamento jurídico pátrio também cria exceções para esse caso, para quando a Administração Pública, observando a SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PRIVADO, por limitações orçamentárias, criando verdadeira indisponibilidade nos recursos públicos, permitindo que não haja a nomeação, preservando o tesouro público, donde a Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000) determina limites para o gasto com pessoal, impedindo que se firme o direito subjetivo à nomeação em casos como esse. (fls. 221).
+ ..
+ A presente Administração municipal, tomando as medidas necessárias para a melhoria do equilíbrio fiscal entre receita e despesa do ente federativo, com base na SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PRIVADO, além de estar em situação engessamento administrativo e para evitar rejeição de contas pelo Tribunal de Contas dos Municípios se houver o cumprimento do art. 20, inciso III, "b", da LRF, ou seja, a inobservância ao limite de 54% com despesa de pessoal pelo município e considerando que é dever do gestor tomar medidas necessárias para preservar o quanto estabelecido na Lei de Responsabilidade Fiscal no tocante ao gasto com pessoal, o Município editou o Decreto nº 22/2013, e suspendeu, pelo período 06 (seis) meses, no Poder Executivo a realização de convocação de servidores classificados nos últimos concursos públicos realizados pelo Município nos anos de 2011 e 2012, para provimento efetivo de cargo público. (fls. 226).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
