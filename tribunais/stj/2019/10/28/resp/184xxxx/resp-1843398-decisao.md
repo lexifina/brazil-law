@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 4ª Região, em sede de apelação, assim ementado (fl. 219e):
+EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. INOCORRÊNCIA. TERCEIRO DE BOA-FÉ.
+1. Na alienação de veículos, a propriedade se transfere pela simples tradição, e a formalização do negócio de compra e venda requer a apresentação de documento fornecido pelo DETRAN, que indica a eventual existência de ônus ou restrições pendentes sobre o bem.
+2. Se não constar qualquer restrição no registro do veículo no DETRAN, presume-se a boa-fé do terceiro adquirente. Outrossim, havendo alienações sucessivas, a presunção de boa-fé favorece os posteriores adquirentes.
+3. Apelação provida.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se, ofensa aos dispositivos legais a seguir relacionados, alegando-se, em síntese, que:
+Art. 185 do CTN - independentemente de ter a parte contrária agido ou não de boa-fé, fato é que é ineficaz o negócio de compra e venda em discussão em relação à Fazenda Nacional.
+Sem contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O tribunal de origem assentou que, no caso, aliás, trata-se de alienações sucessivas, de modo que a embargante não adquiriu o veículo diretamente do co-executado, o que também milita em favor da presunção de boa-fé da adquirente (fls. 222e).
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, limitando-se a Recorrente a defender a tese acerca da aplicação do entendimento desta Corte, nada se referindo acerca das alienações sucessivas, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1407870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Ademais, o tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, concluiu que o conjunto probatório trazido ao feito sustenta a pretensão deduzida segundo a qual o embargante estaria de boa-fé quando da aquisição do bem.
+Rever tal entendimento, com o objetivo de acolher a pretensão recursal acerca de reconhecer configurada a fraude à execução, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Isto posto, com fundamento no art. 932, III, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
