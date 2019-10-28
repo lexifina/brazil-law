@@ -1,0 +1,8 @@
+DESPACHO: O presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pela 1ª Turma Recursal da Seção Judiciária do Rio Grande do Sul teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a Primeira Turma desta Suprema Corte, ao julgar a Pet 8.002-AgR/RS, Rel. Min. LUIZ FUX, determinou “a suspensão de todos os processos, individuais ou coletivos, em qualquer fase e em todo o território nacional, que versem sobre a extensão do denominado ‘auxílio-acompanhante’, previsto no artigo 45 da Lei nº 8.213/1991 para os segurados aposentados por invalidez, às demais espécies de aposentadoria do Regime Geral da Previdência Social”, conforme decisão assim ementada:
+    “PETIÇÃO PARA CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO. ‘AUXÍLIO- -ACOMPANHANTE’. ART. 45 DA LEI N.º 8.213/1991. APLICAÇÃO DIRETA DE NORMAS CONSTITUCIONAIS. ‘FUMUS BONI IURIS’ QUANTO À ADMISSÃO DO RECURSO EXTRAORDINÁRIO. ‘PERICULUM IN’ MORA CONFIGURADO. RISCO DE IMPACTO BILIONÁRIO SOBRE AS CONTAS PÚBLICAS. SUSPENSÃO DE TODOS OS PROCESSOS QUE VERSEM SOBRE O TEMA EM TERRITÓRIO NACIONAL. POSSIBILIDADE. ARTS. 1.029, § 5º, I, 1.035, § 5º, 301 e 932, II, DO CPC/2015. AGRAVO REGIMENTAL PROVIDO.”
+    Sendo assim, impõe-se o sobrestamento dos presentes autos, que permanecerão na Secretaria desta Corte até final julgamento do RE 1.215.714/RS, Rel. Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 28 de outubro de 2019.
+Ministro CELSO DE MELLO
+Relator
