@@ -1,0 +1,11 @@
+Decisão: Trata-se de Agravo Regimental interposto por Geddel Quadros Vieira Lima em face da decisão de fls. 16-25, por meio da qual foi indeferida a pretensão de revogação da custódia cautelar que lhe fora decretada nos autos da AP 1.030.
+    Em sessão de julgamento realizada no dia 22.10.2019, a Segunda Turma do Supremo Tribunal Federal, ao analisar o mérito da pretensão punitiva estatal, à unanimidade de votos, condenou o ora agravante à pena de 13 (treze) anos e 4 (quatro) meses de reclusão, pela prática de crimes de lavagem de dinheiro e, por maioria, à pena de 1 (um) ano e 6 (seis) meses de reclusão, pela prática do delito de associação criminosa, totalizando uma reprimenda de 14 (catorze) anos e 10 (dez) meses de reclusão.
+    Na ocasião, fixou-se o regime fechado para o início do resgate da reprimenda privativa de liberdade, bem como deliberou-se pela manutenção da custódia cautelar já imposta, nos termos do art. 387, § 1º, do Código de Processo Penal, circunstância que denota o esvaziamento do objeto da presente insurgência, porque o encarceramento cautelar decorre de novo título judicial, ao qual se agregaram fundamentos para justificar a necessidade da medida.
+    Nesse sentido:
+    “HABEAS CORPUS. MATÉRIA CRIMINAL. PRISÃO PREVENTIVA. REMESSA AO PLENÁRIO. ATRIBUIÇÃO DISCRICIONÁRIA DO RELATOR. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. ALTERAÇÃO DO TÍTULO PRISIONAL. PREJUÍZO DO WRIT. IMPETRAÇÃO NÃO CONHECIDA. (...) ORDEM NÃO CONCEDIDA. 1. (...) 4. O Tribunal Pleno assentou, por maioria de votos, que a sentença condenatória superveniente, ainda que não lance mão de fundamentos induvidosamente autônomos e diversos da ordem prisional originária, prejudica a impetração voltada à impugnação do decreto segregatório inicialmente atacado, a ensejar o não conhecimento da impetração. Tal cenário, contudo, não impede o exame da excepcional concessão da ordem de ofício, o que exige configuração de ilegalidade flagrante ou manifesta teratologia. (...) 14. Habeas corpus não conhecido” (HC 143.333, de minha relatoria, Tribunal Pleno, j. 12.4.2018)
+    Ante o exposto, com fundamento no art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o agravo regimental de fls. 30-56.
+    Publique-se. Intime-se.
+    Brasília, 28 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
