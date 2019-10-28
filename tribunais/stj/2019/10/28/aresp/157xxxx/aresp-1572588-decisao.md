@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. AUSÊNCIA DE RECOLHIMENTO DE CUSTAS INICIAIS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO COM BASE NO ART. 85, § 2º, DO CPC/2015. REGRA GERAL OBRIGATÓRIA. PRECEDENTE DA SEGUNDA SEÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás assim ementado (e-STJ, fl. 230):
+AÇÃO DE NEGÓCIO JURÍDICO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. HONORÁRIOS ADVOCATÍCIOS.
+Não havendo condenação os honorários advocatícios devem ser fixados consoante apreciação equitativa. Inteligência do parágrafo 8º do artigo 85 do diploma processual. Assim, a verba honorária deve ser fixada a partir do cotejo entre a complexidade e a singularidade da matéria, trabalho apresentado, dedicação à causa, proveito que adveio e tempo necessário à prestação do serviço, esteado no artigo 85, § 2º, do CPC. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 248-258).
+Nas razões do recurso especial (e-STJ, fls. 263-278), o recorrente apontou violação aos arts. 11, 85, §§ 2º, 6º e 8º; 489 e 1.022 do Código de Processo Civil de 2015; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, ser o acórdão recorrido omisso. Assentou que os honorários sucumbenciais não poderiam ter sido aplicados com fundamento na apreciação equitativa.
+Foram apresentadas contrarrazões (e-STJ, fls. 287-288).
+Juízo de admissibilidade negativo (e-STJ, fls. 292-293).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 228-229):
+Todavia, apesar de, no caso dos autos o valor da demanda não ser irrisória, não houve condenação, porquanto o processo foi extinto sem resolução de mérito por inépcia da inicial.
+Assim, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º, do artigo 85, do CPC.
+(..)
+Vale ressaltar que a quantia a ser arbitrada não pode caracterizar retribuição ínfima, nem tampouco demasiada. A verba deve ser compatível com a dignidade da profissão e fixada considerando o caso concreto, de maneira que represente adequada remuneração ao trabalho do profissional.
+Analisando os autos, creio que levando em conta o tempo de tramitação da demanda (cerca de dois anos e meio) e a ausência de sua complexidade, porquanto não houve apreciação do mérito da demanda, creio que o valor fixado é se mostra adequado.
+Como se vê, a interpretação do Tribunal de origem foi no sentido de aplicar o § 8º do art. 85 do NCPC, fixando por equidade os honorários sucumbenciais, ou seja, entenderam que a estipulação poderia se dar apenas pelo livre convencimento do Juiz.
+Ocorre que, divergindo do que assinalou o acórdão recorrido, no julgamento do REsp n. 1.746.072/SP, Relator o Ministro Raul Araújo, DJe de 23/9/2019, a Segunda Seção deste Superior Tribunal de Justiça consolidou o entendimento de que, na fixação de honorários advocatícios na vigência do CPC/2015, mesmo não havendo condenação, serão também fixados entre o mínimo de 10% e o máximo de 20%, nos termos do art. 85, § 2º, hipótese em que, não sendo possível mensurar o proveito econômico obtido, deverá a verba honorária ser calculada sobre o valor atualizado da causa.
+As conclusões do referido julgamento foram resumidas na seguinte ementa:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp n. 1.746.072/PR, Relatora a Ministra Nancy Andrighi, Relator p/ Acórdão o Ministro RAUL ARAÚJO, Segunda Seção, julgado em 13/2/2019, DJe 29/3/2019).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES LEGAIS. NÃO OBSERVÂNCIA. VALOR IRRISÓRIO. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Tribunal Superior de Justiça tem afastado o óbice da Súmula nº 7/STJ, para rever a verba honorária arbitrada nas instâncias ordinárias, quando verifica que o julgador se distanciou dos critérios legais e dos limites da razoabilidade para fixá-la em valor irrisório.
+3. O § 8º do art. 85 do CPC/2015 se aplica somente quando o valor da causa é muito baixo e, além disso, seja irrisório ou inestimável o proveito econômico experimentado. Caso contrário, os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.187.650/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/4/2018).
+Assim, no caso, os honorários devem ser estabelecidos com fundamento no art. 85, § 2º, do CPC/2015, ou seja, sobre o valor atualizado da causa, nos exatos termos do aludido dispositivo:
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de estabelecer a fixação dos honorários advocatícios em 10% sobre o valor da causa, com base no § 2º do art. 85 do CPC/2015.
+Publique-se.
