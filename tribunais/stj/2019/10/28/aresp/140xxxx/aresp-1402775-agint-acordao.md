@@ -1,0 +1,57 @@
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. REVISÃO DA RMI. REDISCUSSÃO DOS CRITÉRIOS DE CÁLCULOS. COISA JULGADA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE. ÓBICE DA SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. O Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, asseverando que "se o próprio autor apresentou a RMI do auxílio-acidente que achava devido, após amplo debate das partes na fase executiva daquela ação acidentária, não cabe agora a alegação de que esta foi implantada de forma incorreta" (fl. 155).
+3. A teor da Súmula 7/STJ, não pode esta Corte Superior rever entendimento do Tribunal de origem acerca da formação da coisa julgada com relação ao teor do título executivo judicial. Precedentes.
+4. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria (Presidente), Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno interposto por [NOME], desafiando decisão monocrática de minha lavra, às fls. 221/222, que negou provimento ao agravo em recurso especial, diante dos seguintes fundamentos: (I) inexistência de negativa de prestação jurisdicional no acórdão recorrido; (II) O Tribunal de origem decidiu em sintonia com o entendimento desta Corte; e (III) incidência da Súmula 7/STJ ao caso concreto, pois a análise da conclusão do Tribunal de origem acerca da configuração da coisa julgada no tocante à forma de cálculo da RMI implicaria, necessariamente, em reexame do acervo fático-probatório dos autos.
+O agravante, em suas razões, persiste na tese da existência de negativa de prestação jurisdicional, pois o Tribunal não teria emitido manifestação acerca dos dispositivos elencados no recurso especial.
+Sustenta que "não há impedimento para que o critério de cálculo da renda mensal inicial de um auxilio-acidente concedido judicialmente seja discutido em outra lide, visto que a questão não está acobertada pela coisa julgada" (fl. 232).
+Alega que, a teor do "artigo 463, inciso I, do CPC/73 (artigo 494, inciso I, do atual Código) que, havendo erro de cálculo no julgado, sua correção é admitida a qualquer tempo, de ofício ou a requerimento da parte, conforme precedentes deste Colendo Superior Tribunal de Justiça (REsp 904260/SP)" (fl. 232).
+Defende que "se o artigo 29, inciso II, da Lei nº 8.213/91 determinava que o cálculo do salário-de-benefício deveria consistir na média aritmética simples dos maiores salários-de-contribuição correspondentes a 80% de todo o período contributivo e, se tal disposição não foi observada no momento da elaboração da conta na lide acidentária, mostra-se possível sua aplicação em momento posterior, sem que haja violação à coisa julgada" (fl. 233).
+Aduz, por sua vez, a inaplicabilidade da Súmula 7/STJ a seu apelo, pois "as premissas fáticas traçadas no Acórdão não precisam ser revistas no sentido da sua concreção, mas no que concerne aos seus respectivos efeitos jurídicos, e no que concerne à aplicação da Lei aos fatos, e principalmente, ao seu malferimento, tem-se que são matérias cognoscíveis por este C. Tribunal." (fl. 235).
+Impugnação não oferecida (fl. 240).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. REVISÃO DA RMI. REDISCUSSÃO DOS CRITÉRIOS DE CÁLCULOS. COISA JULGADA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE. ÓBICE DA SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. O Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, asseverando que "se o próprio autor apresentou a RMI do auxílio-acidente que achava devido, após amplo debate das partes na fase executiva daquela ação acidentária, não cabe agora a alegação de que esta foi implantada de forma incorreta" (fl. 155).
+3. A teor da Súmula 7/STJ, não pode esta Corte Superior rever entendimento do Tribunal de origem acerca da formação da coisa julgada com relação ao teor do título executivo judicial. Precedentes.
+4. Agravo interno a que se nega provimento.
+
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): O recurso não prospera.
+Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido, integrada em embargos declaratórios, que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+No mais, a despeito das alegações da parte agravante, nota-se que o Tribunal de origem examinou a documentação acostada aos autos e concluiu que ""não é possível acolher o pedido do autor, uma vez que todas as questões referentes à base de cálculo do benefício de auxílio-acidente encontram-se superadas com a homologação da conta de liquidação judicial do processo que concedeu o benefício (Processo nº 407/2006), pois foram ou deveriam ter sido discutidas no transcorrer da ação que condenou o Instituto Nacional do Seguro Social ao pagamento do auxílio-acidente ao obreiro, encontrando-se acobertadas pela coisa julgada, que faz com que a decisão judicial se tome imutável e indiscutível, não podendo mais ser revista ou modificada" (fl. 154).
+E, ainda, consignou que "se o próprio autor apresentou a RMI do auxílio-acidente que achava devido, após amplo debate das partes na fase executiva daquela ação acidentária, não cabe agora a alegação de que esta foi implantada de forma incorreta" (fl. 155).
+Esclareceu, de outro lado, que "a parte poderá pedir a revisão do que foi estatuído na r. sentença quando sobrevier modificação de fato ou de direito (art. 471, I, do CPC), o que não ocorreu no caso em análise, uma vez que quando ajuizada a ação acidentária para concessão do benefício acidentário o art. 29, inciso II da Lei nº 8.213/91 já estava vigente, como já debatido acima nesse voto, bem como não houve nenhuma modificação de fato" (fl. 156).
+Assim, percebe-se que o acórdão foi proferido com base na análise da prova documental juntada aos autos, consubstanciada no caderno processual da ação anterior, assim, a alteração das conclusões adotadas pela Corte de origem acerca do reconhecimento da coisa julgada demandaria novo exame do acervo fático-probatório constante dos autos, o que é vedado a esta Corte Superior, a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DA RENDA MENSAL INICIAL. INCLUSÃO DO IRSM DE FEVEREIRO DE 1994. LIMITES DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O tema relativo à violação da coisa julgada encontra óbice na Súmula 7/STJ, na medida que verificar os limites do título judicial exequendo exige o revolvimento de provas e fatos, tarefa incompatível com a sede do recurso especial.
+2. Agravo regimental não provido.
+(AgRg no AREsp 583.770/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 9/12/2014, DJe 15/12/2014)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
