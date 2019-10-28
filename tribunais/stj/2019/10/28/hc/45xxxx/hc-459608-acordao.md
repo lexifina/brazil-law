@@ -1,0 +1,77 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. SÚMULA N. 691/STF. SUPERAÇÃO. ILEGALIDADE. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. Embora a Súmula n. 691 do STF vede a utilização de habeas corpus impetrado contra decisão de relator que, em writ impetrado perante eg. Tribunal de origem, indefere o pedido liminar, admite-se, em casos excepcionais, configurada flagrante ilegalidade, a superação do entendimento firmado no referido enunciado sumular.
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, o decreto de prisão preventiva é genérico, nele não havendo nenhuma menção a fatos que justifiquem a imposição da prisão cautelar. Carece, portanto, de fundamentação concreta, pois se limita a invocar a gravidade abstrata da conduta atribuída ao agente, elemento ínsito ao tipo penal em tela e insuficiente para a decretação ou manutenção da prisão preventiva, sob pena de se autorizar odiosa custódia ex lege.
+4. A despeito de o decreto de prisão preventiva informar que todos os corréus ostentam ações penais em curso, ficou comprovado que apenas um dos outros agentes apresenta anotações criminais prévias.
+5. Ordem não conhecida. Ordem concedida de ofício, confirmada a liminar.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do habeas corpus, concedendo, contudo, ordem de ofício nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FABRÍCIO RIBEIRO DE OLIVEIRA apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que o paciente teve decretada a prisão preventiva pela prática, em tese, dos delitos inscritos nos arts. 330 do Código Penal e 14, caput, da Lei n. 10.826/2003 (e-STJ fl. 38).
+Segundo a acusação, o paciente foi flagrado, na companhia de corréus, portando ilegalmente uma arma de uso permitido (e-STJ fl. 28).
+Impetrado prévio writ na origem, a medida liminar foi indeferida (e-STJ fls. 38/40).
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea (e-STJ fl. 5).
+Aduz a presença de condições pessoais favoráveis (e-STJ fl. 5).
+Assere que o paciente faz jus à extensão dos efeitos da liminar deferida ao corréu no HC n. 453.947/CE (e-STJ fl. 20).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente (e-STJ fl. 23).
+O pedido liminar foi deferido pelo Ministro Presidente do Superior Tribunal de Justiça (e-STJ fls. 64/68).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writ (e-STJ fls. 73/74).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+É bem verdade que o presente writ investe contra decisão que indeferiu medida liminar em idêntico remédio impetrado perante o Tribunal de origem, o que, nos termos do disposto na Súmula n. 691 do Pretório Excelso, não se admite.
+Ocorre que no caso em exame a flagrante ilegalidade está demonstrada, haja vista a ausência de fundamentação válida do decreto prisional, situação que autoriza a excepcional superação do referido entendimento sumular.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONCEDIDA.
+1. Segundo o enunciado da Súmula n. 691 do STF, plenamente adotada por esta Corte, não é possível a utilização de habeas corpus contra decisão de relator que, em writ impetrado perante o Tribunal de origem, indefere o pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia jurídica da decisão impugnada, sob pena de supressão de instância.
+2. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do Código de Processo Penal.
+3. O Juiz de primeiro grau, ao converter o flagrante em preventiva, fundamentou a prisão na hediondez do delito supostamente praticado e apontou genericamente a presença dos vetores contidos na lei de regência, sem justificar a necessidade de colocar o paciente cautelarmente privado de sua liberdade.
+4. Ordem concedida para, confirmada a liminar que determinou a soltura do paciente, cassar a decisão que decretou a sua prisão preventiva, ressalvada a possibilidade de nova decretação da segregação cautelar, se efetivamente demonstrada sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+(HC 334.809/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/04/2016, DJe 02/05/2016)
+Desse modo, passo ao exame da decisão combatida.
+O objeto do presente pleito cinge-se à verificação da existência de fundamentação idônea no decreto que impôs a segregação cautelar ao paciente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva, in verbis (e-STJ fls. 24/25):
+In casu, colhe-se da peça flagrancial, em síntese, que, dia 19/04/2018, após terem sido abordados pela polícia, foi encontrado dentro do veículo que estavam uma arma de fogo, e segundo informações do CIOPS o veículo que estavam, um Honda Civic de placas JUW 0603 teria sido utilizado em uma saidinha bancária.
+Sobre as demais peculiaridades da conduta delituosa, condutor e testemunhas narraram a dinâmica dos acontecimentos, em depoimentos prestados perante a autoridade policial.
+A existência do crime resta assentada no auto de apreensão de fl. 20. Os indícios de autoria, diante das circunstâncias da prisão e dos depoimentos colhidos pela autoridade policial, são contundentes.
+Compulsando os autos, verifica-se que todos os autuados já possuem ações penais em andamento, denotando propensão a prática de delitos. Ademais, a abordagem policial foi precedida de denúncia de que o veículo onde estavam teria sido utilizado em saidinha bancária.
+A associação dos autuados em um veículo, precedido de denúncia anônima acerca do envolvimento dos ocupantes deste veículo em saidinha bancária, e ao serem abordados por policiais militares foram encontrados com uma arma de fogo, indicam a gravidade da conduta dos mesmos e periculosidade concreta dos flagranteados.
+Ressalte-se que o autuado Rafael possui contra si três condenações criminais, sendo duas por roubo e uma por tráfico de drogas. Assim, denota-se o claro risco de reiteração delitiva específica pelos autuados, ante suas enormes inserções na seara criminosa, a justificar a necessidade de segregação cautelar dos mesmos.
+Esses elementos, no presente momento, são suficientes para embasar a custódia cautelar, haja vista a presença, em concreto, do fumus comissi delicti do periculum libertatis.
+Ressalto que, diante dos fatos acima relatados, a primariedade e demais circunstâncias eventualmente favoráveis não são suficientes para afastar o decreto prisional, já que este tem por escopo garantir a ordem pública, devendo ser consignado que até mesmo com a prática de um só delito, pode surgir a necessidade de segregação provisória, justificada pela gravidade do crime e pelas circunstâncias relacionadas com a ação criminosa. Nesse sentido, vejamos o escólio de Guilherme de Souza Nucci:
+"O fato de o agente ser primário, não ostentar antecedentes e ter residência fixa não o leva a conseguir um alvará permanente de impunidade, livrando- se da prisão cautelar, visto que essa tem outros fundamentos. A garantia da ordem pública e da ordem econômica, bem como a conveniência da instrução criminal e do asseguramento da aplicação da lei penal fazem com que o juiz tenha base para segregar de imediato o autor da infração penal grave." (Código de Processo Penal Comentado. 11.ª Ed. São Paulo: Revista dos Tribunais. 2012. ps. 671/672).
+Registro, por oportuno, que, na espécie, não é viável a proteção da ordem pública por meio da aplicação de medidas cautelares diversas da prisão, uma vez que nenhuma delas impedirá o custodiado de praticar novo crime, sendo certo que, em liberdade, ele encontrará estímulo para a renovação do intento delitivo.
+Isto posto, considerando o que dos autos consta e os princípios de direito aplicáveis à espécie, sobretudo levando-se em consideração que há indícios suficientes da autoria, CONVERTO AS PRISÕES FLAGRANCIAIS DE FABRICIO RIBEIRO DE OLIVEIRA, [NOME] e [NOME] para a garantia da ordem pública, o que faço com amparo nos arts. 310, 312 e 313, todos do CPP. (Grifei.)
+Ao examinar os fundamentos declinados no decisum acima transcrito, constato a ausência de fundamentação concreta, pois, além de reconhecida a presença de materialidade e indícios da prática delitiva, foi invocada tão somente a gravidade abstrata da conduta em tese praticada, com mera descrição das elementares inerentes ao próprio tipo penal, o que, na linha da orientação firmada no âmbito desta Corte, não se admite.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REQUISITOS. GRAVIDADE ABSTRATA DOS FATOS. ELEMENTOS INERENTES AO PRÓPRIO TIPO PENAL. MERAS CONJECTURAS. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA.
+1. Conforme jurisprudência assentada desta Corte Superior de Justiça, a prisão, antes do trânsito em julgado da condenação, revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso mostrem-se inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. O decreto que impôs a prisão preventiva ao paciente não apresentou motivação concreta, apta a justificar a segregação provisória, tendo-se valido de argumentos genéricos e da repetição de elementos inerentes ao próprio tipo penal.
+3. A ausência de elementos concretos e individualizados que indiquem a necessidade da rigorosa providência cautelar configura constrangimento ilegal (Precedentes).
+4. Embora não sejam garantidoras de eventual direito à liberdade provisória, condições subjetivas favoráveis do paciente merecem ser devidamente valoradas, caso não tenha sido demonstrada a real indispensabilidade da medida constritiva (Precedentes).
+5. Ordem de habeas corpus concedida, para determinar a soltura do paciente, se por outro motivo não estiver preso, sem prejuízo da imposição pelo Juízo local de medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, caso demonstrada sua necessidade.
+(HC 350.191/SP, de minha relatoria, SEXTA TURMA, julgado em 26/04/2016, DJe 03/05/2016.)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO CAUTELAR. MOTIVAÇÃO INIDÔNEA. FALTA DE INDICAÇÃO DE ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. ORDEM CONCEDIDA.
+1. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade. In casu, prisão provisória que não se justifica ante a fundamentação inidônea, eis que decretada com base na suposta gravidade abstrata do delito de tráfico de entorpecentes.
+2. Habeas corpus concedido a fim de determinar a soltura da paciente, se por outro motivo não estiver presa, sem prejuízo de se aplicar uma das medidas cautelares implementadas pela Lei n.º 12.403/11, ressalvada, inclusive, a possibilidade de decretação de nova prisão, caso demonstrada sua necessidade.
+(HC 343.630/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016.)
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INCOMPETÊNCIA DO JUÍZO ESTADUAL. NÃO ACOLHIMENTO. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE E EXCESSO DAS ESCUTAS TELEFÔNICAS. NECESSIDADE DE REVOLVIMENTO DO ACERVO PROBATÓRIO PARA INFIRMAR A CONCLUSÃO DA CORTE DE ORIGEM. IMPOSSIBILIDADE NA VIA ESTREITA DO HABEAS CORPUS. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO INSUFICIENTE. HABEAS CORPUS CONCEDIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+ ..
+4. O Juízo singular entendeu devida a prisão preventiva do paciente com base tão somente em elementos inerentes ao próprio tipo penal em tese violado (como a gravidade abstrata do delito e a longa pena cominada), sem, no entanto, ter apontado nenhum elemento concreto que, efetivamente, evidenciasse que o paciente, solto, pudesse colocar em risco a ordem pública ou a ordem econômica, ou mesmo se furtar à aplicação da lei penal.
+5. A prevalecer a argumentação dessa decisão, todos os crimes de tráfico ensejariam a prisão cautelar de seus respectivos autores, o que não se coaduna com a excepcionalidade da prisão preventiva, princípio que há de ser observado para a convivência harmônica da cautela pessoal extrema com a presunção de não culpabilidade.
+6. Habeas corpus concedido para, confirmada a liminar que determinou a soltura do paciente, cassar a decisão que decretou a prisão preventiva no Processo n. 0004162-12.2015.8.01.0001, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+(HC 338.553/AC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/04/2016, DJe 28/04/2016.)
+Dessarte, era necessário que fossem apontados dados concretos, extraídos de elementos obtidos nos autos, que demonstrassem a necessidade de imposição da prisão provisória.
+Cumpre consignar que o decreto de prisão preventiva informa que todos os autuados ostentam outras ações penais, entretanto apenas o corréu RAFAEL RIBEIRO CHAVES efetivamente apresenta anotações criminais prévias.
+Ante o exposto, não conheço do writ.
+Entretanto, concedo a ordem de ofício para, confirmada a liminar, determinar que FABRÍCIO RIBEIRO DE OLIVEIRA responda solto ao processo.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
