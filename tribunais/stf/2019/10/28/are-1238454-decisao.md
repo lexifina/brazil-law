@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “INVENTÁRIO - Existência de ação anulatória de cessão de direitos feita por um dos herdeiros - Quinhão respectivo que se tornou litigioso e, portanto, não pode ser partilhado antes que se decida definitivamente o litígio - Bem que deve ser reservado à sobrepartilha - Art. 1.040, 1II, do CPC - Fato já reconhecido nos autos - Sentença que homologou partilha elaborada sem essa ressalva - Decisão anulada, bem como a partilha par ela homologada, para que outra seja elaborada com a observância da reserva dessa bem - Complementação de despesas e receitas referentes à gestão do espólio - Questão remetida à ação autônoma por decisão contra qual não houve recurso - Preclusão operada - Apelação provida em parte.” (eDOC 7, p. 107)
+    Opostos embargos de declaração, foram rejeitados. (eDOC 7, 111)
+    No recurso extraordinário de David Américo Garbi e Espólio de Nurimar Neusa Garbi, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, XXXV, LV e LXXIV e; 93, IX do texto constitucional.
+    Nas razões recursais, alega-se que o tribunal de origem deixou de reconhecer os efeitos da preclusão, coisa julgada e decadência que ocorreram o caso, bem como violaram o duplo grau de jurisdição, com a supressão de uma instância, o indeferimento do benefício de assistência judiciária gratuita a espólio e, a ausência de fundamentação do voto dissidente. (eDOC 7, p. 229)
+    No recurso extraordinário de André Aime Gregoire Ouchana, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI e LV e; 93, IX do texto constitucional.
+    Nas razões recursais, alega-se que houve violação ao duplo grau de jurisdição, com a supressão de uma instância, bem como a coisa julgada e, a ausência de fundamentação das decisões judiciais. (eDOC 7, p. 313/325)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que os presentes recursos submetem-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugnam decisão publicada em data anterior a 17.3.2016.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que não há o que se falar em em suspensão do inventário, mas apenas em reserva do bem para posterior sobrepartilha. Desta forma, foi reservado ao recorrido o quinhão hereditário da cessão discutida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não há que se falar, portanto, em suspensão do inventário, como pretendido pelo apelante, mas apenas em reserva do bem para posterior sobrepartilha.
+    Também não há que se contabilizar na partilha as receitas e despesas referentes aos anos de 2003 e seguintes. A questão restou decidida no curso do inventário, tendo o juízo "a quo" determinado que "as contas do inventariante (fls. 733/791), deve ser autuada em apenso, intimando-se as partes”, de modo a não retardar, ainda mais, a partilha (fls. 839).
+    Contra essa decisão não foi interposto recurso cabível, estando tal matéria preclusa.
+    Nada impede, portanto, que a pretendida prestação de contas referente à gestão dos bens do espólio seja objeto de ação autónoma, independentemente da partilha.
+    Destarte, o recurso merece acolhimento para se decretar a nulidade da sentença apelada, bem como da partilha por ela homologada, sendo conferido o direito ao apelante de reserva do quinhão hereditário objeto de cessão que está sendo discutida em ação própria.” (eDOC 7, p. 108/109)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL. FAMÍLIA E SUCESSÕES. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. VIOLAÇÃO À MAGNA CARTA, SE EXISTENTE, APENAS OCORRERIA DE MODO REFLEXO OU INDIRETO. 1. Caso em que entendimento diverso do adotado pelo Superior Tribunal de Justiça demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada na instância recursal extraordinária. 2. Agravo regimental desprovido”. (AI-AgR 817.278, Rel. Min. Ayres Britto, Segunda Turma, DJe 28.6.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. DIREITO SUCESSÓRIO. SOBREPARTILHA. SONEGAÇÃO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. III - Agravo regimental improvido” (ARE 749.672 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.8.2013).
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
