@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+    “CONSTITUCIONAL. LEI MUNICIPAL. GRATUIDADE NO TRANSPORTE PÚBLICO PARA PASSAGEIROS COM DEFICIÊNCIA FÍSICA. RESERVA DE INICIATIVA. CHEFE DO EXECUTIVO. DESCABIMENTO. LEI DE POLÍTICA PÚBLICA DE INCLUSÃO SOCIAL. AUSÊNCIA DE INDICAÇAO DA FONTE DE CUSTEIO. IRRELEVÂNCIA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. CONCRETIZAÇÃO DA DIGNIDADE DA PESSOA HUMANA. INCONSTITUCIONALIDADE NÃO CONFIGURADA. IMPROCEDÊNCIA.
+    - ‘A questão da gratuidade do transporte público aos pacientes portadores de câncer em tratamento e pacientes portadores de imunodeficiência humana e imunodeficiência adquirida – HIV/AIDS, comprovadamente carentes, não diz respeito, especificação à organização ou forma de prestação do serviço público, mas se relaciona com as políticas públicas sociais de inclusão’” (pág. 118 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição Federal, alega-se violação dos arts. 2°; 18; 21; e 61, § 1°, b, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo provimento do recurso extraordinário (documento eletrônico 7).
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão impugnado diverge da orientação jurisprudencial desta Corte no sentido de serem inconstitucionais, por afronta ao princípio da separação de poderes, as leis de iniciativa parlamentar que concedem benefícios tarifários no acesso a serviços públicos concedidos, uma vez tratar-se de matéria reservada ao Poder Executivo. Com esse entendimento, cito os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Ação Direta de Inconstitucionalidade. Lei nº 4.166/05 do Município de Cascavel/PR. Lei de iniciativa parlamentar que concede gratuidade no transporte coletivo urbano às pessoas maiores de 60 anos. Equilíbrio econômico-financeiro dos contratos. Reserva de Administração. Separação de Poderes. Violação. Precedentes. Recurso extraordinário parcialmente provido.
+    1. O Supremo Tribunal Federal tem declarado a inconstitucionalidade de leis de iniciativa do poder legislativo que preveem determinado benefício tarifário no acesso a serviço público concedido, tendo em vista a interferência indevida na gestão do contrato administrativo de concessão, matéria reservada ao Poder Executivo, estando evidenciada a ofensa ao princípio da separação dos poderes.
+    2. Não obstante o nobre escopo da referida norma de estender aos idosos entre 60 (sessenta) e 65 (sessenta e cinco) anos, independentemente do horário, a gratuidade nos transportes coletivos urbanos esteja prevista no art. 230, § 2º, da Constituição Federal, o diploma em referência, originado de projeto de iniciativa do poder legislativo, acaba por incidir em matéria sujeita à reserva de administração, por ser atinente aos contratos administrativos celebrados com as concessionárias de serviço de transporte coletivo urbano municipal (art. 30, inciso V, da Constituição Federal).
+    3. Agravo regimental não provido” (ARE 929.591-AgR/PR, Rel. Min. Dias Toffoli, Segunda Turma).
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REPRESENTAÇÃO DE INCONSTITUCIONALIDADE. LEI Nº 5.127/2015. MUNICÍPIO DE VOLTA REDONDA. OBRIGATORIEDADE DE INSTALAÇÃO DE AR CONDICIONADO NOS VEÍCULOS DE TRANSPORTE COLETIVO MUNICIPAL. PROCESSO LEGISLATIVO. INICIATIVA PRIVATIVA. PODER EXECUTIVO. SERVIÇOS PÚBLICOS.
+    1. O Supremo Tribunal Federal firmou orientação no sentido de que compete ao Chefe do Poder Executivo a iniciativa de leis que interfiram na gestão de contratos de concessão de serviços públicos.
+    2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 1.075.713-AgR/RJ, Rel. Min. Roberto Barroso, Primeira Turma).
+    Isso posto, dou provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de outubro de 2019.
+Ministro Ricardo Lewandowski
+Relator
