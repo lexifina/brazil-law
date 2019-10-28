@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A E OUTROS contra acórdão assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS COM REVISÃO DE CLÁUSULAS CONTRATUAIS C/C OBRIGAÇÃO DE FAZER - CONTRATO DE PROMESSA DE COMPRA E VENDA PARA AQUISIÇÃO DE IMÓVEL - ATRASO NA ENTREGA, MESMO APÓS O PRAZO DE TOLERÂNCIA DE 180 DIAS CORRIDOS - EXTRAPOLAÇÃO INJUSTIFICADA DE MAIS DE 04 (QUATRO) ANOS - INSURGÊNCIA RECURSAL DE AMBAS AS PARTES. AGRAVO RETIDO INTERPOSTO PELAS DEMANDADAS. PEDIDO DE EXCLUSÃO DO POLO PASSIVO DAS REQUERIDAS NORCON - SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A E FELIZCIDADE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+A parte recorrente sustenta que mero inadimplemento contratual não enseja o pagamento de danos morais.
+No que toca aos danos morais, o Tribunal de origem consignou, tão somente, que "até o presente momento não se tem notícia da entrega do imóvel, chegando a quase 04 (quatro) anos após o prazo de tolerância, o que por certo causou ao requerente desconforto, angústia e indignação em sua intimidade, configurando, assim, lesão a valor moral" (fl. 367 e-STJ).
+Assim, em que pese o atraso, nenhum outro fato danoso foi mencionado pela Corte estadual que indicasse malferimento a direitos da personalidade, de modo que a questão se resolve no mero descumprimento contratual, que não enseja, como é da jurisprudência desta Corte, abalo moral indenizável.
+A saber:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSADOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/2/2015, DJe 19/2/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRA. ENTREGA. ATRASO. DANOS MORAIS. SÚMULA Nº 83/STJ.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+2. Agravo interno não provido.
+(AgInt no AREsp 973.811/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 15/08/2017)
+Em face do exposto, dou parcial provimento ao recurso especial para afastar a indenização por danos morais. Sucumbência recíproca, cabendo às partes o pagamento das custas na proporção de 30% (trinta por cento) a cargo do autor e 70% (setenta por cento) a cargo do réu, e honorários em 10% (dez por cento) sobre o valor da condenação em favor do autor e 10% (dez por cento) sobre o valor dos danos morais que são afastados em favor da recorrente, nos termos dos artigos 82, § 2º, 85, §§ 2º e 14, e 86 do Código de Processo Civil.
+Intimem-se.
