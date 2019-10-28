@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APRECIAR NOVAMENTE O AGRAVO, SANANDO O VÍCIO DETECTADO. AGRAVO INTERNO DESPROVIDO.
+1. Ocorre a negativa de prestação jurisdicional, consubstanciada em deficiência na fundamentação da decisão recorrida, quando o Julgador, instado a se manifestar, deixa de manifestar-se a respeito das questões suficientes a amparar a tese alegada pelas partes. No caso, constata-se haver deficiência na fundamentação do acórdão recorrido - violando, por conseguinte, o art. 489, § 1º, IV, do CPC/2015 -, a respeito da aplicação da orientação preconizada no art. 107, § 3º, do CPC/2015, a demonstrar a necessidade de restituição do prazo recursal à recorrente ou não, sendo de rigor o retorno dos autos para que o órgão competente realize novo julgamento do agravo de instrumento, inclusive, quanto à incidência do referido dispositivo legal ao caso, como entender de direito.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] contra decisão monocrática desta relatoria que deu provimento ao recurso especial de [NOME], nos termos da ementa a seguir transcrita (e-STJ, fl. 213):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APRECIAR NOVAMENTE O AGRAVO, SANANDO O VÍCIO DETECTADO. RECURSO PROVIDO.
+Nas razões do presente agravo interno (e-STJ, fls. 218-224), a agravante defende a inexistência de deficiência na fundamentação, uma vez que a tese levantada pela ora recorrida, acerca da inobservância ao disposto no art. 107, § 3º, do CPC/2015, é inverídica, além de não ter o condão de infirmar a conclusão do Tribunal de origem.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APRECIAR NOVAMENTE O AGRAVO, SANANDO O VÍCIO DETECTADO. AGRAVO INTERNO DESPROVIDO.
+1. Ocorre a negativa de prestação jurisdicional, consubstanciada em deficiência na fundamentação da decisão recorrida, quando o Julgador, instado a se manifestar, deixa de manifestar-se a respeito das questões suficientes a amparar a tese alegada pelas partes. No caso, constata-se haver deficiência na fundamentação do acórdão recorrido - violando, por conseguinte, o art. 489, § 1º, IV, do CPC/2015 -, a respeito da aplicação da orientação preconizada no art. 107, § 3º, do CPC/2015, a demonstrar a necessidade de restituição do prazo recursal à recorrente ou não, sendo de rigor o retorno dos autos para que o órgão competente realize novo julgamento do agravo de instrumento, inclusive, quanto à incidência do referido dispositivo legal ao caso, como entender de direito.
+2. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A irresignação não merece prosperar.
+Com efeito, irrepreensível o desfecho da decisão monocrática ora agravada, que, acolhendo a negativa de prestação jurisdicional apontada pela ora recorrida nas razões do seu recurso especial, determinou a devolução dos autos à Corte de origem para suprir a deficiência na fundamentação do acórdão recorrido.
+Isso porque, consoante se extrai das razões do agravo de instrumento interposto perante o TJMT, a ora demandada insurgiu-se contra a decisão singular que não conheceu dos seus embargos de declaração opostos à sentença, com amparo em dois fundamentos: i) ser aplicável o prazo em dobro previsto no art. 229 do CPC/2015; e ii) a carga dos autos feita pelo advogado da parte autora por 7 (sete) dias, durante o cômputo do prazo recursal comum às partes, impediu a insurgente de ter acesso ao feito durante o lapso temporal integral de 15 (quinze) dias, contrariando o art. 107, § 3º, do CPC/2015.
+Ocorre que o Tribunal a quo negou provimento ao agravo de instrumento tão somente sob a ótica do art. 229 do CPC/2015, descurando-se de se manifestar a respeito da aplicabilidade do regramento constante do art. 107, § 3º, do CPC/2015 à hipótese, o qual, caso acolhido, pode levar à devolução do prazo recursal, assim como pleiteado pela demandada.
+Convém destacar que a veracidade das informações alegadas em torno da aplicação do referido dispositivo legal serão aferidas na instância ordinária, quando da reapreciação da controvérsia.
+Assim, fica evidenciada, efetivamente, a negativa de prestação jurisdicional alegada nas razões do apelo extremo de [NOME], porquanto constatada a deficiência na fundamentação do acórdão recorrido - violando, por conseguinte, o art. 489, § 1º, IV, do CPC/2015 -, a respeito da aplicação da orientação preconizada no art. 107, § 3º, do CPC/2015, a demonstrar a necessidade de restituição do prazo recursal à recorrente ou não, sendo de rigor o retorno dos autos para que o órgão competente realize novo julgamento do agravo de instrumento, inclusive, quanto à incidência do referido dispositivo legal ao caso, como entender de direito.
+Nesse sentido, confira-se o julgado subsecutivo desta Corte Superior, guardadas as devidas proporções (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. SÚMULA 7 DO STJ. ART. 489 CPC/2015. AUSÊNCIA DE DEFICIÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO ESTADUAL. RESPONSABILIDADE E SOLIDARIEDADE DO DÉBITO. SÚMULAS 5 E 7 DO STJ. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. PREQUESTIONAMENTO DE QUESTÕES. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 489, do CPC/2015, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. É firme o entendimento do STJ no sentido de que "o magistrado é o destinatário da prova, competindo, portanto, às instâncias ordinárias exercer juízo acerca da imprescindibilidade daquelas que foram ou não produzidas, nos termos do art. 130 do CPC" (AgRg no AREsp 837.683/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/3/2016, DJe 30/3/2016).
+3. A revisão dos fundamentos acórdão estadual no tocante à responsabilidade da agravante pelo débito oriundo do título executado, exigiria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, fazendo incidir o óbice das Súmulas n. 5 e 7 do STJ.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+5. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto. Incidência da Súmula 211/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1445689/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019)
+Nesse contexto, não há correção a se efetivar na deliberação unipessoal deste subscritor.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
