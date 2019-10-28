@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por LORECI DE OLIVEIRA, fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que deu provimento ao apelo da acusação para condená-la como incursa nas penas do art. 171, § 3º, do Código Penal.
+Depreende-se dos autos que a ré foi denunciada pela prática do crime previsto no art. 171, § 3º, do Código Penal, uma vez que, no período de junho a outubro de 2013, induziu e manteve em erro o Ministério do Trabalho e Emprego - MTE, mediante a produção de dados falsos sucedida pela correspondente inserção em banco de dados da administração pública, com o que obteve vantagem ilícita, consistente no recebimento indevido de seguro-desemprego, em prejuízo ao Fundo de Amparo ao Trabalhador - FAT (e-STJ fls. 3-8).
+Julgada improcedente a ação penal, a ré foi absolvida da imputação penal (e-STJ fls. 629-643).
+Em grau de apelação, o Tribunal de origem acolheu a pretensão recursal do órgão de acusação para julgar procedente a ação penal e, com isso, condenar a ré às penas de 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, e de 25 (vinte e cinco) dias-multa - e-STJ fls. 780-805.
+Nas razões do recurso especial, a defesa reputa contrariados o art. 171, § 3º, do Código Penal, e o art. 147 da Lei de Execução Penal (e-STJ fls. 811-823).
+Alega, em primeira análise, a atipicidade da conduta por ausência de comprovação do elemento subjetivo inerente ao crime de estelionato - o dolo.
+Na sequência, sustenta a ilegalidade da ordem consignada no acórdão recorrido, que determinou a execução provisória das penas restritivas de direitos assim que exaurido o segundo grau de jurisdição
+Apresentadas as contrarrazões (e-STJ fls. 838-854), após o juízo prévio de admissibilidade (e-STJ fl. 857), os autos ascenderam ao Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo parcial provimento do recurso (e-STJ fls. 919-926).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+No que se refere à comprovação do elemento subjetivo exigido pelo tipo penal cuja prática foi imputada à recorrente, assim se manifestou o Tribunal de origem (e-STJ fls. 792-793):
+Durante o interrogatório judicial, a acusada negou a prática delitiva, nos seguintes termos, assim sintetizados na sentença:
+ ..
+A defesa questiona principalmente a veracidade do depoimento do contador, pois ao mesmo tempo em que sustentou ter alertado sua cliente sobre a ilegalidade da retificação, referiu que o caso foi tratado à época entre a funcionária do escritório e LORECI, não tendo se envolvido diretamente com a questão.
+Ainda que haja certa divergência quanto a este ponto, tenho que os demais elementos probatórios e circunstanciais trazidos pela acusação mostram-se aptos a demonstrar o dolo específico.
+Quanto ouvido no âmbito do PAD, o ex-empregado [NOME] disse que de fato foi demitido em 10/05/2013, mas conversou com a patroa e esta alterou para 20/05/2013 para obter direito ao SD, pois com a data de 10/05 iria perder alguns dias, não fechando o tempo para poder retirar o seguro-desemprego (evento 25, OUT2, p. 65/66). Conquanto em sede policial [NOME] tenha modificado sua versão e sustentado que a demissão ocorreu no dia 20/05/2013, foi amplamente demonstrado que esta alegação não corresponde à verdade, como examinado nos tópicos anteriores.
+A denunciada alegou que a funcionária do escritório solicitou a alteração, referindo que a demissão teria ocorrido em um domingo, de modo que, acreditando ter cometido algum equívoco, autorizou a retificação. Esta versão carece de credibilidade, pois a data da demissão verdadeira, constante de todos os registros - inclusive do requerimento do benefício originário assinado pela própria acusada -, correspondia à 10/05/2013 -sexta-feira. E ainda que se cogitasse que o dia correspondesse a um domingo, não haveria razão para alterar a data para 10 dias subsequentes - justamente o tempo que faltava para [NOME] completar o período aquisitivo.
+Desse modo, conclui-se que LORECI, após o indeferimento do seguro-desemprego do seu ex-funcionário, atendeu ao seu pedido e alterou de modo extemporâneo os registros relacionados ao término do vínculo empregatício, com o propósito de viabilizar a obtenção da vantagem indevida por ele.
+Por todas essas razões, também afasto a tese sobre o erro de tipo.
+Não há como concluir que a ré não tinha consciência de que a troca de datas era inverídica, como sustenta a defesa. Ora, além de manter somente [NOME] como empregado à época, assinou requerimento de benefício com a data correta e, poucos dias depois, diante do indeferimento pelo SINE, tratou de retificar os registros.
+Ademais, o próprio termo de rescisão retificado manteve a data do aviso-prévio de 11/04/2013, cujos 30 dias subsequentes conferem com a data de afastamento inicialmente informada pela empresa (10/05/2013).
+Assim, está suficientemente demonstrado que LORECI, em comunhão de esforços e desígnios com [NOME], alterou os dados verdadeiros sobre a demissão para obter, de maneira fraudulenta, o seguro-desemprego.
+Ao que se nota, o envolvimento subjetivo da recorrente com a fraude que lhe permitiu auferir parcelas de seguro-desemprego indevidamente foi apontado pela instância ordinária com base nas provas existentes nos autos.
+Assim, o acolhimento da tese defensiva de ausência de dolo demandaria necessariamente o reexame do contexto fático-probatório disponível, o que, no âmbito do recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. ESTELIONATO PREVIDENCIÁRIO. INAPLICABILIDADE. CONFIGURAÇÃO DO DOLO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. Inaplicável o princípio da insignificância ao crime de estelionato previdenciário, pois a conduta é altamente reprovável, ofendendo o patrimônio público, a moral administrativa e a fé pública. Precedentes do STJ.
+2. Se o Tribunal a quo entende existente o dolo na conduta, incabível o reexame do ponto por este Sodalício. Óbice da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1770833/AL, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+Igualmente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ESTELIONATO PREVIDENCIÁRIO. DOLO ESPECÍFICO. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, a partir da análise das provas dos autos, concluiu que a Agravante assinou declaração falsa, ciente de seu conteúdo inverídico, no intuito de instruir requerimento por meio do qual objetivava a concessão de benefício assistencial de prestação continuada, que acabou por ser deferido. Para rever a conclusão, no sentido de se aferir a presença ou não do dolo específico, seria necessário o reexame de matéria fático-probatória.
+2. Valorar provas é dizer se determinado meio probatório é juridicamente apto para demonstrar a ocorrência de determinado evento, como por exemplo, a discussão acerca da possibilidade de prova exclusivamente testemunhal comprovar a qualificadora do rompimento de obstáculo no delito de furto. Qualificar juridicamente é dizer se é adequada a tipificação jurídica atribuída pelas instâncias ordinárias aos fatos incontroversos por elas delineados.
+3. O que se pretende no recurso especial é aferir se, no caso concreto, o conteúdo das provas colhidas na instrução processual demonstraria a presença do dolo específico, o que é nítido reexame de provas, vedado nessa via recursal, nos termos da Súmula n.º 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1268645/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/04/2019, DJe 22/04/2019)
+Acerca da execução provisória das penas restritivas de direito, assim ficou assentado pela Corte a quo, in verbis (e-STJ fl. 802):
+Sendo assim, cabível a execução provisória das penas restritivas de direitos, com mais razão e força, justifica-se a prisão na forma de execução penal após condenação que é fruto de larga instrução processual e de cognicão exauriente em dois graus de jurisdição. Dessa forma, é medida salutar e de efetividade da jurisdição criminal que se inicie o cumprimento de penas, assim que esgotada a jurisdição ordinária de segundo grau.
+Verifica-se que acórdão recorrido registra o entendimento de que é possível a execução provisória das penas restritivas de direito.
+No ponto, a pretensão merece acolhida.
+Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, esta Corte Superior tem se posicionado no sentido de que tal possibilidade não se estende às penas restritivas de direitos, tendo em vista a norma contida no art. 147 da Lei de Execução Penal, que preceitua:
+Art. 147. Transitada em julgado a sentença que aplicou a pena restritiva de direitos, o Juiz da execução, de ofício ou a requerimento do Ministério Público, promoverá a execução, podendo, para tanto, requisitar, quando necessário, a colaboração de entidades públicas ou solicitá-la a particulares.
+Destaca-se que o tema já foi apreciado, inclusive, perante a Terceira Seção do Superior Tribunal de Justiça, que, considerando "a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP", concluiu não se afigurar possível "a execução da pena restritiva de direitos antes do trânsito em julgado da condenação" (EREsp 1619087/SC, de minha relatoria, Terceira Seção, DJe 24/08/2017).
+Nessa direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC n. 126.292/SP, Tribunal Pleno, Rel. Min. Teori Zavascki, DJe de 17/5/2016).
+III - Na hipótese das penas restritivas de direitos, a Terceira Seção desta Corte Superior, no julgamento do EResp n. 1.619.087/SC, de relatoria do insigne Min. Jorge Mussi, decidiu que, na ausência de manifestação expressa da Corte Suprema e a teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+Agravo regimental desprovido.
+(AgRg no HC 510.483/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/06/2019, DJe 01/08/2019)
+Da mesma forma:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. OMISSÃO. OCORRÊNCIA. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. ENTENDIMENTO PACIFICADO PELO STJ NO ERESP N.º 1.619.087/SC, REAFIRMADO NO HC N.º 435.692/SP. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. PEDIDO DE EXECUÇÃO PROVISÓRIA INDEFERIDO.
+1. A Terceira Seção desta Corte, ao julgar o EREsp n.º 1.619.087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ acórdão Ministro JORGE MUSSI, fixou entendimento de não ser possível a execução provisória de penas restritivas de direitos, conforme disposto no art. 147 da Lei de Execução Penal.
+2. Na sessão de julgamento do dia 24/10/2018, a Terceira Seção, por maioria, reafirmou a orientação acima mencionada. Ressalva de meu entendimento pessoal.
+3. Embargos de declaração acolhidos. Indeferido o pedido de execução provisória das penas restritivas de direitos.
+(EDcl no AgRg no AREsp 1431127/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019)
+A propósito, nestes autos, a Procuradoria-Geral da República também se posicionou no sentido de que "não é possível a execução provisória da pena em caso de substituição da pena privativa de liberdade por restritivas de direitos" (e-STJ fls. 925-926).
+Dessa forma, constatado que a pena privativa de liberdade fixada para a recorrente foi substituída por duas restritivas de direitos, não há se falar em execução provisória das reprimendas estabelecidas até o trânsito em julgado da condenação.
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do Regimento Interno do Superior Tribunal de Justiça, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, a fim de impedir a execução provisória das penas restritivas de direitos estabelecidas para a ré antes do trânsito em julgado da condenação.
+
+Publique-se. Intimem-se.
