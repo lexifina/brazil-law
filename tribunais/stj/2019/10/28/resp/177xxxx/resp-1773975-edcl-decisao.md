@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JANIO PORTO DE OLIVEIRA em face da decisão acostada às fls. 280-284 e-STJ, da lavra deste signatário, em que se negou provimento ao recurso especial manejado pelo ora embargante.
+Nas razões dos aclaratórios (fls. 286-288 e-STJ) o embargante alegou omissão no decisum impugnado quanto à proposta de revisão do Tema n. 692, firmado na sistemática dos recursos repetivos.
+Impugnação às fls. 291-293 e-STJ.
+É o relatório. Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, o embargante alegou omissão no decisum impugnado quanto à proposta de revisão do Tema n. 692, firmado na sistemática dos recursos repetivos.
+Razão não lhe assiste.
+Conforme afirma o próprio embargante, a controvérsia objeto da citada afetação refere-se "à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS em virtude de decisão judicial precária, que venha a ser posteriormente revogada". Tanto que o tema foi julgado pela Primeira Seção desta Casa (Direito Público), órgão a quem também foi afetada a proposta de revisão.
+Em que pese a semelhança da controvérsia, não se confundem os regimes de previdência geral (público) e complementar (privado).
+Assim, considerando que o presente feito não está sujeito à controvérsia vinculada ao Tema n. 692/STJ, não se cogita a suspensão pelo fundamento invocado pela parte - inexistindo, portanto, a omissão suscitada.
+Nesse sentido, observa-se as decisões proferidas pelas Turmas que compõe a Segunda Seção deste STJ, após a afetação da mencionada proposta de revisão: AgInt no AREsp 519.991/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/09/2019, DJe 19/09/2019; AgInt nos EDcl no AREsp 1336912/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/09/2019, DJe 18/09/2019; AgInt no REsp 1678210/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/07/2019, DJe 02/08/2019; AgInt no AREsp 1300098/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019; AgInt nos EDcl no REsp 1557342/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/03/2019, DJe 22/03/2019; e, AgInt no AREsp 1356466/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/03/2019, DJe 20/03/2019.
+Portanto, tendo a decisão embargada decidido de modo claro e fundamentado, apenas contrário aos interesses da parte embargante, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
