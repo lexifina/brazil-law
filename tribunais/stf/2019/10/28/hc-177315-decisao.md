@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Tráfico de drogas. Dosimetria da pena. Regime inicial. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Nefi Cordeiro, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NA LEI 11.343/2006. REGIME PRISIONAL MENOS GRAVOSO. NÃO APLICAÇÃO. EXPRESSIVA QUANTIDADE APREENDIDA DE ENTORPECENTES. AGRAVO IMPROVIDO.
+    1. A quantidade e a qualidade da droga apreendida podem ser consideradas tanto para afastar a incidência da minorante do § 4º do art. 33 da Lei de Drogas, como para estabelecer regime prisional mais gravoso. Precedentes do STJ.
+    2. Apreendidos com a agravante 1,5 kg de cocaína e 45,35 gramas de maconha, ou seja, expressiva quantidade de droga, não há falar na aplicação da minorante prevista na Lei de Drogas nem na fixação de regime prisional menos gravoso.
+    3. Agravo regimental improvido.”
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e 194 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o § 4º, da Lei 11.343/2006 (1,5 kg de cocaína, além de 45,35 gramas de maconha). A pena privativa de liberdade foi substituída por restritiva de direitos.
+    3. O Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso ministerial para elevar a pena da paciente ao patamar de “05 (cinco) anos de reclusão e ao pagamento de 500 (quinhentos) dias-multa, no piso legal; estabelecendo o regime prisional fechado para o início da expiação; afastando-se, ainda, a substituição da pena privativa de liberdade por restritiva de direitos”. Na mesma ocasião, determinou a expedição do mandado de prisão.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 518.600, Ministro Nefi Cordeiro, denegou o writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta, em síntese, estarem “presentes os requisitos para a tipificação do crime de tráfico de drogas privilegiado”; e que o regime fechado foi fixado “com base em fundamentação genérica”.
+    Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    8. No caso, o TJSP afastou a aplicação da minorante do art. 33, § 4º, da Lei 11.343/2006, com base em dados objetivos da causa, notadamente tendo em vista que “a acusada se dedicava a atividades criminosas e não era iniciante no tráfico”. Sendo assim, o acolhimento da pretensão defensiva, nesse ponto, demandaria o reexame do material probatório da ação penal, impossível na via restrita do habeas corpus.
+    9. Quanto ao mais, reconheço certo que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, na hipótese de que se cuida, o regime inicial fechado foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida –, em especial a gravidade em concreto do crime, “evidenciada pela significativa quantidade de entorpecentes apreendidos e a natureza mais nociva de um deles”. De modo que não verifico ilegalidade flagrante ou abuso de poder que justifique o acolhimento do pedido defensivo.
+    10. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 28 de outubro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
