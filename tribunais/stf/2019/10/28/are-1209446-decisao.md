@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 1, p. 66):
+    DIREITO PENAL. DESCAMINHO. USO DE DOCUMENTO FALSO. ABSOLVIÇÃO SUMÁRIA. IMPOSSIBILIDADE. DESCAMINHO. ART. 334, CAPUT, DO CP. CRIME FORMAL. NÃO APLICAÇÃO DA SÚMULA VINCULANTE N° 24. IMPOSSIBILIDADE DE RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE PELA CAUSA DE EXTINÇÃO DO CRÉDITO TRIBUTÁRIO PREVISTA NO ART. 156, VI DO CTN. USO DE DOCUMENTO FALSO ABSORVIDO APENAS NAS ETAPAS PREPARATÓRIAS. INSTRUÇÃO DE MANDADO DE SEGURANÇA COM DOCUMENTOS FALSOS CONFIGURA, EM TESE, O CRIME PREVISTO NO ART. 304 C/C 299 E 298 DO CP. APELAÇÃO CRIMINAL DO MINISTÉRIO PÚBLICO FEDERAL PROVIDA PARA DETERMINAR O PROSSEGUIMENTO DA AÇÃO PENAL.
+    1 - O crime de descaminho é formal, aperfeiçoando-se com o não pagamento do imposto devido em razão da entrada de mercadoria no pais, independe da constituição definitiva do crédito tributário, conforme entendimento pacificado nos Tribunais Superiores. Ressalvado o entendimento da Relatora.
+    2 - O perdimento das mercadorias, posteriormente convertido em multa, e quitado pela conversão do depósito de valores no mandado de segurança em renda da União (art. 156, VI do Código Tributário Nacional), não se confunde com pagamento integral do tributo (art. 156, I do CTN), única modalidade de extinção do crédito tributário contemplada na legislação tributária e apta a acarretar na extinção da punibilidade em esfera criminal.
+    3 - A absorção do crime de uso de documento falso pelo delito de descaminho somente irá ocorrer nas situações em que a falsidade for uma etapa preparatória ou executória do crime tipificado no art. 334, caput do CP, não se aplicando às situações em que documento falso for usado posteriormente no processo administrativo fiscal.
+    4 - Compulsando a petição inicial do Mandado de Segurança, constatou-se que houve, a princípio, o uso da documentação perante o juízo cível para instruir a ação constitucional e atestar suposta regularidade do procedimento de importação, o que permite o enquadramento típico da conduta como uso de documento falso.
+    5 - Apelação criminal do Ministério Público Federal provida para determinar o prosseguimento da ação penal.
+    Nos recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXIX, da Constituição Federal. Busca-se a absolvição dos recorrentes por estar extinta a punibilidade em relação a eles quanto ao crime de descaminho e por ter sido o crime de falso absorvido por aquele contra a administração pública.
+    A Vice-Presidência do TRF da 2ª Região inadmitiu o recurso por incidência das Súmulas 279 e 282 do STF, bem como por configurar ofensa meramente reflexa ao Texto Constitucional.
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, os pressupostos processuais dos agravos não estão preenchidos.
+    De plano, verifica-se que a negativa de seguimento do apelo extremo fundou-se na incidência das Súmulas 279 e 282 do STF, bem como na ofensa meramente reflexa ao Texto Constitucional. Ressalto, no entanto, que os agravantes deixaram de impugnar a incidência da Súmula 282 do STF.
+    O agravo, portanto, não ataca todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF.
+    Ante o exposto, não conheço do agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 28 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
