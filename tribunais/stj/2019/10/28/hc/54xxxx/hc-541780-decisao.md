@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IVANILDO MANOEL DA SILVA e [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco.
+Segundo consta dos autos, os pacientes foram presos cautelarmente, no dia 6/11/2017 (prisão convertida em preventiva), e denunciados pela suposta prática dos crimes previstos nos arts. 121, § 2º, incisos II e IV, c/c o art. 14, inciso I, e art. 29, todos do Código Penal, e art. 121, § 2º, incisos II e IV, c/c o art. 14, inciso II, e art. 29, todos do Código Penal, em concurso material (art. 69 do CP).
+Em 25/9/2018, os pacientes foram pronunciados, sendo-lhes negado o direito de recorrer em liberdade (e-STJ fls. 20/24).
+Na presente oportunidade, a defesa alega que há excesso de prazo para o fim da instrução criminal, pois os pacientes encontram-se presos desde 7/1/2017, sem que haja previsão de data para julgamento. Ressalta que o pedido de desaforamento ainda não foi julgado, asseverando que a Súmula de n. 52 desta Corte deve ser superada no caso em exame. Aduz, ainda, que os acusados fazem jus à aplicação de medidas cautelares diversas previstas no art. 319 do CPP.
+Diante disso, requer, liminarmente e no mérito, a revogação das prisões preventivas dos pacientes ou, subsidiariamente, a aplicação de medidas cautelares diversas.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também houve a impetração do HC n. 529.691/PE, em favor do ora paciente, de minha relatoria, cuja ordem não foi conhecida em data recente (decisão publicada em 1º/10/2019), requerendo igualmente a revogação das prisões preventivas, sob o argumento de haver excesso de prazo para o fim da instrução criminal.
+Assim, por se tratar de mera reiteração, o presente writ não pode prosseguir. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1o/9/2015, DJe 22/9/2015).
+Como consignado no referido writ, os pacientes estão presos há aproximadamente 1 ano e 11 meses, porém, respondem por dois crimes de homicídio, duplamente qualificados, consumado e tentado, e já houve sentença de pronúncia (e-STJ fls. 24/28), incidindo, no caso, o Enunciado n. 21 da Súmula desta Corte:
+PRONUNCIADO O REU, FICA SUPERADA A ALEGAÇÃO DO CONSTRANGIMENTO ILEGAL DA PRISÃO POR EXCESSO DE PRAZO NA INSTRUÇÃO.
+Ressaltei também a complexidade do caso e o fato de que "foi designada data para realização de Julgamento pelo Tribunal do Júri na comarca de Inajá/PE" (e-STJ fl. 157), "cuja realização somente pende de solução por aguardar o desfecho de um desaforamento interposto neste TJPE" (e-STJ fl. 130).
+Cumpre lembrar que os pacientes foram presos cautelarmente, no dia 6/11/2017 (prisão convertida em preventiva), e denunciados pela suposta prática dos crimes previstos nos arts. 121, § 2º, incisos II e IV, c/c o art. 14, inciso I, e art. 29, todos do Código Penal, e art. 121, § 2º, incisos II e IV, c/c o art. 14, inciso II, e art. 29, todos do Código Penal, em concurso material (art. 69 do CP).
+Ainda, no caso em exame, a defesa não levou previamente sua irresignação ao Tribunal estadual, como procedeu na impetração anterior, e sequer juntou aos autos documentação que comprove suas alegações ou que evidencie um constrangimento ilegal que possa ser evidenciado de plano na impetração, configurando indevida supressão de instância.
+Nesse sentido:
+ ..  Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância. (..) (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/04/2017, DJe 20/04/2017)
+ .. . 3. A matéria relativa ao excesso de prazo na formação da culpa não foi debatida pelo Tribunal de origem, sendo inviável a análise da questão por esta Corte, sob pena de indevida supressão de instância.
+4. Recurso ordinário não provido. (RHC n. 57.010/RJ, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 21/5/2015, DJe 2/6/2015).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente ao presente mandamus.
+Intimem-se.
