@@ -1,0 +1,36 @@
+DECISÃO:
+    1. Embargos de declaração cujo objeto é decisão monocrática que negou seguimento a recurso extraordinário.
+    2. A parte embargante alega que “trata o presente caso de RECURSO EXTRAORDINÁRIO, interposto em face de acórdão proferido pela Primeira Turma do C. STJ, e que foi ADMITIDO, em sede de juízo de admissibilidade, pela vice-presidência do Superior Tribunal de Justiça, conforme decisão de fls. e-STJ 1.085/1.086, o que demonstra, em princípio, que o decisum incorreu em flagrante erro material, ao considerar se tratar de agravo”.
+    3. Reconsidero a decisão monocrática publicada em 01.10.2019 e passo à análise do recurso.
+    4. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CONSELHEIRO DO TRIBUNAL DE CONTAS. AGENTE POLÍTICO. FORO ESPECIAL POR PRERROGATIVA DE FUNÇÃO. INEXISTÊNCIA. PRECEDENTES DO STJ.
+    1. "Declarada a incompetência absoluta, somente os atos decisórios serão nulos, remetendo-se os autos ao juiz competente" (§ 2º do art. 113 do CPC).
+    2. A Corte Especial do Superior Tribunal de Justiça, para o fim de alinhar-se à jurisprudência do Supremo Tribunal Federal, alterou seu entendimento para afirmar que "a ação de improbidade administrativa deve ser processada e julgada nas instâncias ordinárias, ainda que proposta contra agente político que tenha foro privilegiado no âmbito penal e nos crimes de responsabilidade" (AgRg na Rcl 12.514/MT, Rel. Min. Ari Pargendler, DJe 26/09/2013). No mesmo sentido: AgRg na Pet 9.669/RJ, Rel. Min. Og Fernandes, Corte Especial, DJe 6/10/2014; AgRg no REsp 1.364.439/RJ, de minha relatoria, Primeira Turma, DJe 29/9/2014; AIA 45/AM, Rel. Min. Laurita Vaz, Corte Especial, DJe 19/3/2014.
+    3. Recurso especial provido para reformar o acórdão recorrido e, em consequência, determinar o retorno dos autos ao Juízo de 1º grau para regular processamento da ação de improbidade.”
+    5. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que “a desconsideração do caráter punitivo das sanções de perda de cargo e suspensão de direitos políticos passiveis de serem aplicadas ao recorrente na ação de improbidade contra si movida pelo Ministério Público do estado do Rio de Janeiro, acaba por violar o artigo 105, I, a, da Constituição, na medida que ignora as regras implícitas extraídas de uma interpretação sistêmica da ordem constitucional vigente”. Afirma que “absurdo seria o recorrente, Conselheiro do Tribunal de Contas do Rio de Janeiro, que teve a denúncia contra si proposta rejeitada pela Corte Especial do Superior Tribunal de Justiça, ser submetido a julgamento de ação de improbidade por juiz de primeiro grau sobre os mesmos fatos, tendo em vista a já exaustivamente debatida semelhança sancionatória dos dois tipos de ação”.
+    6. O recurso extraordinário é inadmissível. O Supremo Tribunal Federal (STF) firmou o entendimento de que inexiste foro por prerrogativa de função nas ações de improbidade administrativa, em razão do seu nítido caráter civil. Confira-se, a propósito, a ementa da Petição 3.067-AgR, julgado sob a minha relatoria:
+    “AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. FORO POR PRERROGATIVA DE FUNÇÃO.
+    1. A ação civil pública por ato de improbidade administrativa que tenha por réu parlamentar deve ser julgada em Primeira Instância. 2. Declaração de inconstitucionalidade do art. 84, §2º, do CPP no julgamento da ADI 2797. 3. Mantida a decisão monocrática que declinou da competência. 4. Agravo Regimental a que se nega provimento.”
+    7. Nesse mesmo sentido: Rcl 14.954 AgR, Relª. Minª. Rosa Weber; AI 786.438 AgR, Rel. Min. Dias Toffoli; ARE 806.293 ED, Relª. Minª. Rosa Weber; e o RE 876.784, Rel. Min. Dias Toffoli, do qual se extrai da decisão os seguintes trechos:
+    “[...]
+    No recurso extraordinário, o recorrente sustenta a ocorrência de violação ao artigo 105, inciso I, alínea ‘a’, da Constituição Federal.
+    Pleiteia a aplicação, à hipótese dos autos, do entendimento delineado na Questão de Ordem na Petição nº 3.211/DF, em que se teria decidido pela competência desta Corte para julgar ações por atos de improbidade administrativa cometidos por agentes públicos que detêm foro por prerrogativa de função nas ações penais.
+    […]
+    A irresignação não merece prosperar.
+    Inicialmente, destaque-se que, no julgamento da ADI nº 2.797/DF, Relator o Ministro Sepúlveda Pertence, o Plenário deste Supremo Tribunal Federal declarou a inconstitucionalidade da Lei nº 10.628/2002, que alterava a redação do art. 84 do Código de Processo Penal, incluindo os §§ 1º e 2º, e equiparava a ação de improbidade administrativa, cuja natureza é eminentemente civil, à ação penal, estendendo à primeira o foro por prerrogativa de função. (…).
+    […]
+    No mesmo sentido, a ADI nº 2.860/DF, Relator o Ministro Sepúlveda Pertence […].
+    […]
+    Não obstante, afigura-se imperioso assentar que, ao contrário do que faz crer o recorrente em suas razões recursais, não há que se falar em aplicação analógica do entendimento esposado na Pet nº 3.211/DF-QO, Relator para Acórdão o Ministro Menezes Direito, DJe de 27/6/08, haja vista que, na ocasião, o colegiado analisou a competência para julgamento de ação de improbidade administrativa ajuizada contra Ministro desta Suprema Corte que, dada a estrutura hierárquica do Poder Judiciário, caberia somente ao Supremo Tribunal Federal. No caso concreto, trata-se de membro do Tribunal de Contas estadual, motivo por que não se aplica o precedente invocado para a espécie.
+    […]
+    É de se ressaltar que é deveras sólida entre as Turmas desta Corte a convicção quanto à impossibilidade de equiparação da ação de improbidade administrativa, de natureza civil, à ação penal, a fim de se estender o foro por prerrogativa de função. […].
+    […]
+    Incumbe registrar, adicionalmente, posto tratar-se de fundamento relevante, que o art. 105, inciso I, alínea a da Constituição, quando prescreve competir ao Superior Tribunal de Justiça julgar os Conselheiros de Tribunais de Contas dos Estados nos crimes de responsabilidade, está a se referir apenas e tão somente ao âmbito criminal.
+    Há que se distinguir entre as esferas sancionatórias civil e penal ante a independência da natureza dos atos de improbidade administrativa e dos crimes de responsabilidade. A esse respeito, bem esclareceu o Ministro Celso de Mello em voto proferido na Pet n.º 3.047/DF-AgR, Dje de 14.9.2015, que aliado aos argumentos acima delineados estão a confirmar que o acórdão objurgado está a acompanhar o entendimento que vem sendo adotado por esta Suprema Corte […].
+    […].”
+    8. Cabe ressaltar, por fim, que o STF, no julgamento da Questão de Ordem na AP 937, sob a minha relatoria, restringiu o foro privilegiado, inclusive quanto à sua competência penal originária.
+    9. Diante do exposto, reconsidero a decisão embargada e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Julgo prejudicado os embargos de declaração.
+    Publique-se.
+          Brasília, 28 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
