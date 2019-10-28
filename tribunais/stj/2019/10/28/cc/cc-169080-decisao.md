@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência, com pedido liminar, suscitado por [NOME] S/A EMPREENDIMENTOS E PARTICIPAÇÕES, em recuperação judicial, em face do JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP, no qual tramita os autos da recuperação judicial, e do JUÍZO DA 36A VARA DO TRABALHO DE BELO HORIZONTE - MG, no qual tramita a reclamação trabalhista nº 0000522-06.2014.5.03.0009 movida por [NOME].
+Afirma a suscitante que, embora em trâmite perante o Juízo Comum a recuperação judicial, o Juízo trabalhista suscitado prosseguiu com a execução dos créditos. Ressalta, ainda, que as questões tendentes a afetar o patrimônio devem ser analisadas pelo Juízo Universal da recuperação.
+Requer, assim, a concessão de medida liminar para determinar o sobrestamento da ação laboral, bem como para designar, em caráter provisório, o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP, em que é processada a recuperação judicial, para decidir acerca das medidas urgentes. Requer, ao final, que seja declarada a competência do juízo da recuperação para decidir acerca do prosseguimento da reclamação trabalhista e de eventuais atos executórios contra a empresa recuperanda.
+É o relatório.
+Passo a decidir o pedido de liminar.
+Em juízo perfunctório, próprio deste momento processual, não verifico a existência de plausibilidade nas alegações quanto à configuração do conflito.
+Com efeito, a par da dúvida quanto à legitimidade ativa para a suscitação do incidente, bem assim da orientação jurisprudencial no sentido de que a competência para o pagamento dos débitos de sociedade empresária em recuperação judicial é do juízo universal, não houve, no caso, a demonstração da prática de atos de constrição dirigidos ao patrimônio da suscitante (PDG [NOME] S/A EMPREENDIMENTOS E PARTICIPAÇÕES), mas apenas contra ASACORP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA e PDG INCORPORADORA, CONSTRUTORA, URBANIZADORA E CORRETORA LTDA), o que, por si só, impediria a configuração do conflito.
+De qualquer forma, entendo ser prudente, para o correto deslinde da controvérsia, a ciência das circunstâncias fáticas atuais das ações que tramitam perante os suscitados, o que será possível com o envio das informações ora requisitadas.
+Ante o exposto, indefiro o pedido liminar.
+Comuniquem-se, com urgência, as autoridades judiciárias em conflito, oficiando para que prestem informações no prazo de 10 (dez) dias (CPC/2015, art. 954).
+Intime-se a Administradora Judicial, PRICEWATERHOUSECOOPERS Assessoria Empresarial Ltda., CNPJ 10.466.603/0001-37, representada pelo Dr. [NOME], com endereço na Avenida Francisco Matarazzo 1400, Torre Torino, [CEP], São Paulo/SP, para que, no prazo de 10 (dez) dias, preste esclarecimentos sobre o andamento da recuperação judicial, bem como sobre os créditos de JOSE ROBERTO BATISTA DA SILVA reconhecidos na Reclamatória 0001181-22.2014.5.03.0136 em trâmite na 36A VARA DO TRABALHO DE BELO HORIZONTE - MG.
+Após, dê-se vista ao MPF (RISTJ, arts. 64, V e XIII, e 198).
+Intimem-se.
