@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE IDENTIDADE FÁTICA ENTRE OS JULGADOS.
+1. Nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados; deve-se expor as circunstâncias que identificam os casos confrontados, impondo-se a absoluta similitude fática entre o acórdão embargado e os paradigmas com tratamento jurídico diverso.
+2. In casu, as teses jurídicas manifestadas no acórdão embargado e nos paradigmas não são divergentes, é certo que a solução adotada por eles é diversa em virtude da dessemelhança entre os suportes fáticos de cada um. Não há, efetivamente, divergência entre as Turmas da Terceira Seção a respeito da ocorrência de dupla valoração do fundamento utilizado para o aumento da pena pelo vetor culpabilidade, mas sim uma constatação do acórdão embargado de que, no caso em exame, o fato de o agente ser juiz federal, com vasto conhecimento na matéria penal e processual penal, configura maior reprovabilidade do que se ele fosse um funcionário público comum, condição que levou ao aumento de pena previsto no art. 299, parágrafo único, do Código Penal.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Joel Ilan Paciornik, Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Laurita Vaz, Jorge Mussi, Sebastião Reis Júnior, [NOME], Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Nefi Cordeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] DE AZAMBUJA contra decisão por mim proferida na qual inadmiti os embargos de divergência (e-STJ fls. 4.775/4.778).
+No presente agravo regimental, o agravante alega que "não é relevante que no paradigma o aumento tenha sido afastado na segunda fase da dosimetria da pena e no acórdão embargado tenha sido mantido na terceira fase, porque o que importa é que em ambos os julgados já havia sido valorado negativamente o "exercício do cargo público" na primeira fase, no vetor culpabilidade. Esta é a questão jurídica sobre a qual as Turmas estão divergindo, uma vez que para a 5ª Turma o exercício do cargo público pode aumentar a pena em duas fases da dosimetria, enquanto para a 6ª Turma o exercício do cargo público só pode aumentar a pena em uma única fase" (e-STJ fl. 4.782).
+Diante disso, requer a reconsideração da decisão objurgada para serem admitidos os embargos de divergência.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que ela deve ser integralmente mantida.
+Conforme consignado na decisão agravada, os embargos de divergência objetivam espancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação.
+Dessa forma, cabe à parte embargante a comprovação do dissídio pretoriano nos moldes do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, que assim dispõe:
+Art. 266 - § 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Destarte, nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados; deve-se expor as circunstâncias que identificam os casos confrontados, impondo-se a absoluta similitude fática entre o acórdão embargado e o paradigma com tratamento jurídico diverso.
+No caso, contudo, do exame das razões recursais, constata-se a desatenção ao devido cotejo analítico hábil a demonstrar a divergência jurisprudencial suscitada. De fato, o embargante não demonstrou analiticamente a sugerida divergência pretoriana nos moldes do art. 266, § 4º, do RISTJ.
+Além disso, as teses jurídicas manifestadas no acórdão embargado e no paradigma não são divergentes, é certo que a solução adotada por eles é diversa em virtude da dessemelhança entre os suportes fáticos de cada um.
+Não há, efetivamente, divergência entre as Turmas da Terceira Seção a respeito da ocorrência de dupla valoração do fundamento utilizado para o aumento da pena pelo vetor culpabilidade, mas sim uma constatação do acórdão embargado de que, no caso em exame, o fato de o agente ser juiz federal, com vasto conhecimento na matéria penal e processual penal, configura maior reprovabilidade do que se ele fosse um funcionário público comum. Diante disso, afastou o bis in idem a consideração negativa da culpabilidade pelo fato de o agente ser juiz federal, dado o grau de censurabilidade da conduta, que exorbita daquela praticada pelo servidor público comum, a qual levou ao aumento de pena previsto no art. 299, parágrafo único, do Código Penal.
+Por sua vez, o acórdão paradigma tratou da agravante genérica do art. 61, II, g, do Código Penal e da valoração da culpabilidade por agente policial.
+Com base nessas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
