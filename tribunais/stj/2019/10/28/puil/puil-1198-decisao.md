@@ -1,0 +1,27 @@
+EMENTA
+TRIBUTÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 18, § 3º. DA LEI 12.153/2009. IMPOSTO DE RENDA. TERÇO DE FÉRIAS GOZADAS. INCIDÊNCIA. MATÉRIA JÁ PACIFICADA NESTA CORTE (RESP 1459779/MA E PET 10.397/AP. PEDIDO PROCEDENTE.
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei ajuizado pelo ESTADO DE RONDÔNIA, com base no art. 18, § 3º, da Lei 12.153/2009, contra acórdão da Turma Recursal dos Juizados Especiais da Fazenda Pública de Curitiba que afastou a incidência do imposto de renda sobre o terço constitucional de férias, nos anos de 2008 a 2013, com a restituição dos valores já descontados.
+O requerente afirma divergência jurisprudencial com o posicionamento firmado pela 3ª Turma recursal dos Juizados Especiais do Distrito Federal e pela Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais, que entendem que o imposto de renda só não incide na hipótese de as férias serem indenizadas, entendimento que se encontram em consonância com a jurisprudência do Superior Tribunal de Justiça.
+É o relatório. Decido.
+Nos termos do art. 18, § 3º, da Lei Federal 12.153/2009, caberá pedido de uniformização de interpretação de lei federal nas hipóteses em que houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei, ou quando "a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça" (§ 3º).
+No caso, o requerente aponta a existência de divergência jurisprudencial entre o acórdão recorrido e o entendimento firmado pela 3ª Turma Juizados Especiais do Distrito Federal no tocante à incidência do imposto de renda sobre as férias serem indenizadas,
+A Primeira Seção do Superior Tribunal de Justiça, em recurso especial repetitivo, firmou a orientação no sentido de que o imposto de renda incide sobre o adicional de 1/3 (um terço) de férias gozadas.
+A propósito, a ementa desse julgado tem a seguinte redação:
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. ADICIONAL DE 1/3 (UM TERÇO) DE FÉRIAS GOZADAS. INCIDÊNCIA DA EXAÇÃO.
+1. A jurisprudência tradicional do STJ é pacífica quanto à incidência do imposto de renda sobre o adicional (1/3) de férias gozadas. Precedentes: Pet 6.243/SP, Rel. Ministra Eliana Calmon, Primeira Seção, DJe 13/10/2008; AgRg no AREsp 450.899/MS, Rel.
+Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/03/2014; AgRg no AREsp 367.144/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/02/2014; AgRg no REsp 1.112.877/SP, Rel. Ministro Luiz Fux, Primeira Turma, DJe 03/12/2010; REsp 891.794/SP, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 30/03/2009; entre outros.
+2. A conclusão acerca da natureza do terço constitucional de férias gozadas nos julgamentos da Pet 7.296/PE e do REsp 1.230.957/RS, por si só, não infirma a hipótese de incidência do imposto de renda, cujo fato gerador não está relacionado com a composição do salário de contribuição para fins previdenciários ou com a habitualidade de percepção dessa verba, mas, sim, com a existência, ou não, de acréscimo patrimonial, que, como visto, é patente quando do recebimento do adicional de férias gozadas.
+3. Recurso especial provido, divergindo do voto do Sr. Ministro Relator.
+(REsp 1459779/MA, Rel. Ministro MAURO CAMPBELL MARQUES, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 22/04/2015, DJe 18/11/2015)
+Frise-se, ainda, que no julgamento da Pet 10.397/AP, a Primeira Seção desta Corte Superior reiterou esse entendimento ao acolher o pedido de uniformização de jurisprudência para fazer referido entendimento.
+Confira-se:
+TRIBUTÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 18, § 3º, DA LEI 12.153/2009. IMPOSTO DE RENDA. ADICIONAL DE 1/3 (UM TERÇO) DE FÉRIAS GOZADAS. INCIDÊNCIA DA EXAÇÃO.
+1. Pedido de uniformização de interpretação de lei em face de julgados divergentes oriundos de Turmas Recursais da Fazenda Pública de Unidades da Federação diferentes (Amapá e Distrito Federal), nos termos do art. 18, § 3º, da Lei 12.153/2009.
+2. A jurisprudência tradicional do STJ, pacífica quanto à incidência do imposto de renda sobre o adicional (1/3) de férias gozadas, foi confirmada por esta Seção, sob o regime do artigo 543-C do CPC, por ocasião do julgamento do Recurso Especial Repetitivo 1.459.779/MA, DJe 18/11/2015.
+3. A conclusão acerca da natureza do terço constitucional de férias gozadas nos julgamentos da Pet 7.296/PE e do REsp 1.230.957/RS, por si só, não infirma a hipótese de incidência do imposto de renda, cujo fato gerador não está relacionado com a composição do salário de contribuição para fins previdenciários ou com a habitualidade de percepção dessa verba, mas, sim, com a existência, ou não, de acréscimo patrimonial, que, como visto, é patente com o recebimento do adicional de férias gozadas.
+4. Pedido de uniformização de interpretação de lei conhecido e provido.
+(Pet 10.397/AP, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/12/2016)
+Nessa sentido, observa-se as seguintes decisões: PUIL 000723, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 21/08/2019; PUIL 001228, Relator Ministro SÉRGIO KUKINA, DJe de 02/08/2019; PUIL 000294, Relator Ministro GURGEL DE FARIA, DJe de 03/05/2018.
+Ante o exposto, julgo procedente o pedido para declarar a legalidade da incidência do imposto de renda sobre os valores recebidos a título de terço constitucional de férias gozadas, com inversão dos ônus sucumbenciais.
+Publique-se. Intimem-se.
