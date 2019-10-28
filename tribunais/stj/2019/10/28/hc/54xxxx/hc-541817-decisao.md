@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CRISTIANO ROMAO DE CARVALHO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0007644-26.2008.8.26.0127 e HC n.2207215-48.2019.8.26.0000).
+Segundo os autos, o paciente foi condenado à pena de 11 anos, 2 meses e 12 dias de reclusão, em regime inicial fechado, como incurso no art. 157, § 2º, incisos II e V, do Código Penal (e-STJ fls. 30/36).
+Contra isso a defesa interpôs o recurso de apelação no Tribunal estadual, ao qual foi dado parcial provimento para redimensionar a pena do ora paciente para o patamar de 8 anos e 3 meses de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa, no mínimo legal. Eis a ementa do respectivo acórdão (e-STJ fl. 53):
+Apelação - Roubo majorado pelo concurso de agentes e restrição de liberdade da vítima - Condenação - Recurso defensivo - Preliminar - Nulidade desde a audiência de instrução e julgamento, por ofensa ao direito de reconhecimento do réu - Não acolhimento - Prejuízo não demonstrado - Inteligência do art. 563 do CPP.
+Absolvição - Descabimento - Vitima firme ao corroborar os termos da denúncia - Reconhecimento extrajudicial válido - Ausência de reconhecimento em Juízo insuficiente a justificar a absolvição - Audiência ocorrida mais de 13 anos após os fatos - Miliciano seguro ao relatar as investigações, que culminaram com a prisão em flagrante do acusado, após interceptação telefônica monitorada pela polícia civil - Versão exculpatória apresentada pelo apelante isolada nos autos - Condenação mantida.
+Afastamento das causas de aumento de pena não acolhido - Concurso de agentes atestado pela palavra da vítima - Restrição de liberdade do ofendido por tempo superior ao necessário para a subtração dos bens.
+Dosimetria - Pena-base fixada no dobro - Justificativa escorreita - Alteração do patamar de aumento para 1/2 - Acréscimo de 2/5 frente às majorantes - Modificação da fração para 3/8 - Reprimenda diminuída - Regime fechado correto - Aplicação do art. 387, § 2º, do CPP, afastada.
+Recurso parcialmente provido.
+Irresignada, a defesa impetrou prévio writ na Corte a quo requerendo a suspensão da execução provisória da pena determinada por ocasião do julgamento do recurso de apelação; do habeas corpus não se conheceu em decisão assim ementada (e-STJ fl. 13):
+Habeas corpus - Paciente condenado como incurso no artigo 157, § 2o, II e V do Código Penal - Recurso de apelação ao qual foi dado parcial provimento - Acórdão proferido pela [NOME] Ia Câmara de Direito Criminal, que passou a ser autoridade coatora - Incompetência deste E. Tribunal de Justiça para a apreciação de habeas corpus reconhecida - Ordem não conhecida.
+No presente writ, sustenta a defesa que (e-STJ fl. 9):
+" ..  a prisão, antes da sentença condenatória passada em julgado, qualquer que seja a natureza, somente se justifica quando imprescindível para fins instrumentais do processo, mesmo assim somente e enquanto se mostrar necessária e indeclinável, uma vez que somente a prova irrefutável dos fatos criminosos pode vencer e destruir a presunção de inocência. O que se aplica perfeitamente ao caso em tela.
+Dessa forma, não justifica a prisão do paciente, na r. decisun prolatada nos autos, sob qualquer hipótese, sendo ela, neste momento, manifestamente ilegal.
+Diante disso, requer, inclusive liminarmente, a emissão de salvo conduto para o paciente, garantindo-lhe o direito de recorrer em liberdade até o trânsito em julgado do processo.
+É, em síntese, o relatório.
+O presente habeas corpus não merece conhecimento, pois se trata de mera reiteração de impetração anteriormente dirigida a esta Corte (HC n. 509.856/SP), de minha relatoria, na qual foi também proferida decisão de indeferimento liminar.
+Ressalte-se, nessa senda, que, mesmo sendo o título que embasa a impetração diverso (e-STJ fls. 13/14), não há alteração no contexto fático-jurídico a permitir o processamento do presente writ.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
