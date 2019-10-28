@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que os recorridos foram condenados pela prática dos delitos tipificados no art. 157, § 2º, I e II (roubo majorado) e art. 180, caput (receptação), ambos do Código Penal. VALCIR ANTUNES DE ANDRADE, à pena de 10 (dez) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 30 (trinta) dias-multa e LAIR RIBAS, à pena de 08 (oito) anos de reclusão, em regime inicial fechado, e ao pagamento de 30 (trinta) dias-multa
+Irresignada a parte e interposto recurso, restou este parcialmente provido para reconhecer a forma tentada do crime de roubo, readequando a pena de VALCIR ANTUNES DE ANDRADE para 05 (cinco) anos, 04 (quatro) meses e 28 (vinte e oito) dias de reclusão, em regime inicial fechado, e 20 (vinte) dias-multa e de LAIR RIBAS para 04 (quatro) anos, 05 (cinco) meses e 18 (dezoito) dias de reclusão, em regime inicial aberto, e 20 (vinte) dias-multa.
+O acórdão restou assim ementado:
+APELAÇÕES CRIMINAIS. CRIMES CONTRA O PATRIMÔNIO. ROUBO DUPLAMENTE MAJORADO (ART. 157, § 2º, I E II, DO CP). RECEPTAÇÃO. PRELIMINAR DE NULIDADE DA INSTRUÇÃO PELO USO DE ALGEMAS EM AUDIÊNCIA. A súmula vinculante nº 11 do STF não obriga o juiz à retirada de algemas durante a audiência, desde que justifique a utilização, o que ocorreu no caso dos autos.
+MATERIALIDADE E AUTORIA. ROUBO. Inequívocas a materialidade e a autoria do delito, diante da consistente palavra das vítimas e testemunhas, bem como da prisão em flagrante dos réus, na posse da res furtivae, e da confissão em juízo.
+PALAVRA DA VÍTIMA. Em delitos como o da espécie, não raras vezes cometidos sem a presença de testemunhas, a palavra da vítima merece ser recepcionada com especial valor para a elucidação do fato, sob pena de não ser possível a responsabilização penal do autor desse tipo de ilícito patrimonial.
+CONCURSO DE AGENTES. Comprovado pela prova oral, sendo desnecessário o prévio ajuste de vontades para a prática do delito, bastando um agente aderir à conduta do outro.
+EMPREGO DE ARMA. Para o reconhecimento da majorante no delito de roubo, é desnecessária a apreensão da arma e sua consequente submissão à perícia para a comprovação da potencialidade lesiva. A causa de aumento pode ser demonstrada por outros elementos convincentes extraídos dos autos, como a palavra da vítima. No caso, todavia, a arma utilizada foi apreendida e periciada, sendo atestada a sua condição de uso e funcionamento, o que basta para caracterizar a majorante.
+TENTATIVA. RECONHECIMENTO. Os réus foram detidos logo após o crime, na posse da res furtiva, que foi totalmente devolvida às vítimas. Não caracterizada a posse mansa e pacífica da res, o reconhecimento da tentativa se impõe. Face ao iter criminis percorrido pelos agentes, a redução da pena vai aplicada no patamar mínimo de 1/3.
+RECEPTAÇÃO. MATERIALIDADE E AUTORIA. Induvidosas a materialidade e a autoria do delito imputado aos acusados, pois, dadas as circunstâncias fáticas, inevitável a conclusão de que tinham eles conhecimento da procedência ilícita da arma encontrada em seu poder.
+APENAMENTOS. Redimensionados.
+regime. Fixado o regime aberto ao réu Lair.
+PENA DE MULTA. Redução ao mínimo legal.
+PRELIMINAR DEFENSIVA REJEITADA.
+APELOS PARCIALMENTE PROVIDOS.
+Na petição de recurso especial, o Ministério Público do Estado do Rio Grande do Sul aponta violação ao disposto no art. 14, I e II do Código Penal. Sustenta, em síntese, que, para a consumação do crime de roubo, basta a simples inversão da posse, ainda que não seja mansa e pacífica e/ou que haja perseguição policial e recuperação dos objetos.
+Contrarrazões às fls. 460/464.
+Remetidos os autos para eventual juízo de retratação do órgão colegiado (fls. 466/471), este manteve o acórdão (fls. 474/477).
+O recurso especial foi ratificado (fl. 484).
+Admitido o recurso (fl. 499/503), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 521/529).
+É o relatório. Decido.
+O recurso merece provimento.
+O Tribunal a quo reconheceu a forma tentada do delito de roubo, mediante seguinte fundamentação (fl. 409):
+Não se desconhece a existência de outro paradigma acerca da matéria (teoria da amotio), todavia este relator mantém o entendimento de que nos casos em que o acusado é perseguido e detido, logo após o crime e de posse da res, cabe o reconhecimento da forma tentada do delito.
+No caso dos autos, os réus não obtiveram a posse tranquila e não alcançaram o resultado desejado, sendo inapropriado, no meu ponto de vista, considerar consumado o delito.
+Considerando que o iter criminis foi quase concluído, a pena merece ser revisada, para incidir a minorante no seu patamar mínimo (1/3).
+Assim, desclassifico o delito para os moldes do art. 157, § 2º, I e II, c/c o art. 14, II, ambos do CP.
+Todavia, no julgamento do RESP n. 1499050/RJ, no âmbito da Terceira Seção deste Superior Tribunal de Justiça, prevaleceu o entendimento de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Eis a ementa do aludido julgado:
+RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ROUBO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA DA RES FURTIVA. DESNECESSIDADE. RECURSO PROVIDO. 1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. TESE: Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada. 2. A jurisprudência pacífica desta Corte Superior e do Supremo Tribunal Federal é de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. Jurisprudência do STF (evolução). 3. Recurso especial representativo de controvérsia provido para, reconhecendo que a consumação do crime de roubo independe da posse mansa e pacífica da res furtiva, restabelecer a pena e o regime prisional fixados na sentença. (REsp 1499050/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 09/11/2015 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para restabelecer a forma consumada do delito de roubo e determinar a remessa dos autos ao Tribunal de origem para que refaça a dosimetria.
+Publique-se. Intimem-se.
