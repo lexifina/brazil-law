@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto de acórdão com a seguinte ementa:
+Alienação fiduciária. Emenda 45, de 2.004. Competência preferencial e não exclusiva para permitir o conhecimento da matéria controvertida nos autos examinados, em que pretende a apelante a declaração de nulidade do procedimento extrajudicial fundado nos arts. 26 e 27 da Lei 9514/97 e manutenção na posse do imóvel adquirido sob o regime do ônus fiduciário. Financiamento imobiliário com alienação fiduciária. Inadimplência da obrigação. Procedimento extrajudicial de execução da garantia. Artigos 26 e 27 da Lei 9514/97. Nulidade inexistente. Notificação do credor para purgação da mora. Inércia. Consolidação da propriedade em favor do credor fiduciário. Desnecessidade de formal intimação do devedor para os leilões. Improcedência mantida. Recurso a que se nega provimento.
+Alega-se violação dos arts. 26, § 1º, e 39, II, da Lei 9.514/97, associada a dissídio. Alega-se que na notificação para fins de constituição em mora do devedor fiduciante deve constar a planilha de débitos, e que é indispensável sua intimação para a praça do bem imóvel.
+A questão merece melhor exame por esta Corte Superior, razão pela qual dou provimento ao agravo e determino sua conversão em recurso especial.
+Intimem-se.
