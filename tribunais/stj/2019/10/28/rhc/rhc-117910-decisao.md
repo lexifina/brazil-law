@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME] PRADO JUNIOR e RAFAEL RODRIGUES DE SOUZA SOARES, em face de acórdão do Tribunal de Justiça de Minas Gerais, assim relatado (fl. 160):
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor [NOME] [NOME] PRADO JUNIOR e RAFAEL RODRIGUES DE SOUZA SOARES, em que se alega constrangimento ilegal por parte do MM. Juiz de Direito da 1ª Vara de Tóxicos da Comarca de Belo Horizonte, consistente na decisão que converteu a prisão em flagrante dos pacientes em prisão preventiva.
+Aduz a impetração que não há provas nos autos que indique a prática do suposto tráfico pelos pacientes. Sustenta estarem ausentes os requisitos ensejadores da prisão cautelar, previstos no art. 312 do Código Penal. Alega que os pacientes possuem residência fixa e são hipossuficientes em termos financeiros. Requer a concessão da ordem com a revogação da prisão, ainda que haja a imposição de medidas cautelares diversas.
+Com a inicial (doc. ordem 01), foram encaminhados documentos.
+Liminar indeferida, doc. ordem 03.
+Informações prestadas doc. ordem 12, com documentação.
+A d. Procurador de Justiça manifesta-se pela denegação do habeas corpus, doc. ordem 05.
+Consta dos autos que os recorrentes foram presos em flagrante no dia 24/5/2019 (fls. 10-25), sendo convertidas em preventivas na data posterior (fls. 80-83), como incursos no art. 33 da Lei 11.343/2006
+Em prévio writ, o colegiado do Tribunal de origem denegou a revogação da prisão preventiva.
+No presente recurso, sustentam os recorrentes que a decisão que decretou a prisão preventiva carece de fundamentação idônea, bem como que inexistem os requisitos autorizadores da segregação cautelar.
+Requerem, por isso, em sede liminar e no mérito a revogação da prisão preventiva ou, subsidiariamente, aplicação de medidas cautelares.
+Na origem, o processo n. 0024.19.057.137-2, aguarda conclusão do inquérito policial, conforme informação de fl. 154.
+A liminar foi indeferida (fls. 199-201).
+As informações foram prestadas (fls. 204-209 e 213-216).
+O parecer do Ministério Público Federal foi pelo desprovimento do recurso.
+É o relatório.
+DECIDO.
+Conforme relatado, busca a defesa, em sede liminar e de mérito, revogação da prisão preventiva ou, subsidiariamente, aplicação de medidas cautelares.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se constrangimento ilegal.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta da decisão que converteu a prisão em preventiva de [NOME] (fls. 80-81):
+ ..  A prisão, analisada pelos aspectos legais, não comporta aqui oportunidade para o relaxamento ou para a concessão de liberdade provisória. No caso em tela, consta que o autuado é reincidente, sendo que recentemente passou pela audiência de custodia onde foi colocado em liberdade mediante monitoramento eletrônico, possuindo ainda diversas outras passagens conforme consta de sua CAC/FAC juntada aos autos. Ademais, diante de sua reiteração criminosa, verifica-se que aplicação de medidas cautelares não foram suficientes para frear o intento criminoso do autuado. Destarte, inadequada e insuficiente a aplicação de medidas cautelares diversas da prisão preventiva, que se faz necessária para a garantia da ordem pública. Assim, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I, todos do CPP, CONVERTO A PRISÃO EM FLAGRANTE RAFAEL RODRIGUES DE SOUZA SOARES EM PRISÃO PREVENTIVA.  ..
+Em relação à [NOME], o decreto prisional possui os seguintes fundamentos (fls. 82-83):
+ ..  Constato que o APFD está formalmente em ordem, obedecendo as disposições do art. 304 e 306 do Código de ProcessoPenali. Tampouco verifica- se possível a concessão de liberdade provisória. No caso em tela, o autuado é reincidente, ostentando condenação penal com trânsito em julgado, estando inclusive em livramento condicional, conforme consta de sua CAC/FAC juntada aos autos. Ademais, tem-se que as circunstâncias do crime são graves, tratando-se de crime hediondo, sendo que no local onde o autuado foi preso foram apreendidos objetos utilizados para o tráfico de substancia entorpecente. Consta ainda, que o autuado possui diversas passagens, inclusive por corrupção de menores, tráfico dentre outros, o que revela sua reiteração delitiva. Destarte, inadequada e insuficiente a aplicação de medidas cautelares diversas da prisão preventiva, que se faz necessária para a garantia da ordem pública, vulnerabilizada com a sua reiteração criminosa contínua. Assim, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I e II, todos do CPP, CONVERTO A PRISÃO EM FLAGRANTE de [NOME] [NOME] PRADO JUNIOR EM PRISÃO PREVENTIVA.
+Como se vê, do édito prisional, de ambos, consta fundamentação idônea com esteio na reincidência, além da reiteração delitiva. Cumpre ressaltar, ainda, que RAFAEL havia sido, recentemente, colocado em liberdade mediante monitoramento eletrônico e [NOME] praticou o delito em livramento condicional.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
