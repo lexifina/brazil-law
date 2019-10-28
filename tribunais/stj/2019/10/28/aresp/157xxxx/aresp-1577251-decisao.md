@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO REVISÃO DE BENEFÍCIO APOSENTADORIA NOVOS TETOS ESTIPULADOS PELAS EMENDAS CONSTITUCIONAIS N 20/98 E N 41/2003 RE 564354 APLICABILIDADE
+- Tendo em vista que o valor de alçada no presente feito não supera 1.000 (um mil) salários mínimos, não é o caso de reexame necessário.
+- A decadência não se aplica nas ações de que trata da adoção das EC 20/98 e 41/2003. Precedentes.
+- O Supremo Tribunal Federal, em sessão plenária, por ocasião do julgamento do Recurso Extraordinário n. 564.354, decidiu pela aplicação imediata das regras estabelecidas no artigo 14 da Emenda Constitucional 20, de 15.12.98, e artigo 5º, da Emenda Constitucional 41, de 19.12.03, aos benefícios previdenciários limitados em seu teto por ocasião do cálculo da renda mensal inicial.
+- Estabelecidos os tetos, respectivamente, em 15.12.98 (EC 20/98) e 19.12.03 (EC 41/03), nos valores de R$ 1.200,00 (um mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), deverão ser revistas as rendas mensais dos beneficios cujas datas de início ocorreram anteriormente à promulgação das referidas normas constitucionais e que sofreram limitação.
+- Comprovada a limitação, à época da concessão, do salário -de - beneficio da aposentadoria.
+- A apuração do montante devido deve observar a prescrição das prestações vencidas antes do quinquênio que precede a propositura da presente ação (Súmula 85 do C. STJ).
+- No tocante aos honorários advocatícios em conformidade com o entendimento deste Tribunal, nas ações previdenciárias, estes são devidos no percentual de 10% (dez por cento) sobre as prestações vencidas até a prolação da sentença, conforme previsto na Súmula 111 do Superior Tribunal de Justiça.
+- Com relação à correção monetária e aos juros de mora, devem ser aplicados os índices previstos pelo Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor por ocasião da execução do julgado, em respeito ao Provimento COGE nº 64, de 28 de abril 2005. Observância do entendimento firmado no julgamento proferido pelo C. STF, na Repercussão Geral no RE 870.947.
+- Remessa oficial não conhecida. Apelação do INSS parcialmente provida. Apelação da parte autora improvida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 103 da Lei n. 8.213/91, no que concerne à ocorrência da decadência em razão da revisão dos tetos constitucionais não se tratar de uma revisão de reajustamento, e traz o(s) seguinte(s) argumento(s):
+ Em suma a pretensão revisional em questão encontra-se indubitavelmente sujeita ao prazo de validade estabelecido no artigo 103, da Lei 8.213/91, só não tendo havido a caducidade das pretensões revisionais anteriores à EC 20/98 porque a EC 41/03, como ato autônomo, fez nascer uma nova pretensão, com um novo prazo decadencial. (fls. 240).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
