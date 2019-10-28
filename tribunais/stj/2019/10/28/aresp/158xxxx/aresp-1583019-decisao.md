@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] LTDA - ME contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. QUANTUM ARBITRADO DE ACORDO COM OS CRITÉRIOS LEGAIS. MULTA PUNITIVA. MANTIDA. RECURSO DESPROVIDO.
+1. Por força do princípio da causalidade, a EMBARGANTE deve ser condenada ao pagamento da verba sucumbencial.
+2. A r. sentença foi proferida ainda na vigência do CPC73, motivo pelo qual devem ser aplicados os critérios previstos nos §§ 3º e 4º de seu artigo 20 para arbitramento do quantum devido. Assim sendo, entendo que o montante fixado na r. sentença mostrou-se adequado e atende aos critérios estabelecidos por lei.
+3. Cuida-se de multa punitiva aplicada de oficio, por descumprimento de obrigação acessória, a qual se justifica, tendo em vista o fim nela previsto de desestimular a conduta.
+4. Apelação improvida.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85, § 3º, do CPC, afirmando que os honorários advocatícios foram fixados em valor excessivo e desarrazoado, trazendo os seguintes argumentos:
+A Recorrente, busca anulação da aplicação da multa, com efeito de confisco, ocorre que a 3" Turma do TRF 3a Região em Decisão manteve a Sentença de origem, bem como o quanto arbitrado em favor do Recorrido a titulo de horários no valor de R$ 25.000,00.
+Onde estão a proporcionalidade e a razoabilidade dos honorários arbitrados no valor de R$ 25.000,00
+A razoabilidade é aplicável em situações em que se manifeste um conflito entre o geral e o individual, entre a norma e a realidade por ela regulada, e entre um critério e uma medida. É condicionada à existência de elementos específicos (fl. 232).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 150, IV, da CF, sustentando a impossibilidade de aplicação de multa com efeito de confisco.
+Quanto à terceira controvérsia, pela alínea "c" do permissivo constitucional, alega dissenso jurisprudencial acerca da prescrição quinquenal do crédito tributário.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (AgInt nos EREsp n. 1.082.463/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/2/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp n. 1.342.571/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1º/2/2019; e AgInt no AREsp n. 1.287.630/SC, relator Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2018.
+Quanto à terceira controvérsia, incidente o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
