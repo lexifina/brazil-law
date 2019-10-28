@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 357):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. REFIS DA COPA. EXPEDIÇÃO DE CERTIDÃO NEGATIVA DE DÉBITO (POSITIVIA COM EFEITOS DE NEGATIVA). SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. PERSPECTIVA SISTEMÁTICA DA DISCIPLINA LEGISLATIVA DO PARCELAMENTO. CNP/CPEN. CRITÉRIOS. MULTAS ISOLADAS. DISCUSSÃO EM OUTRO MANDADO DE SEGURANÇA.
+1. Uma vez realizado o pedido e efetuado o pagamento da primeira parcela da antecipação, o parcelamento passa a produzir efeitos, inclusive o de suspender a exigibilidade do crédito tributário, nos termos do art. 151, VI, do CTN.
+2. Uma das finalidades pretendidas pelo legislador ao instituir um novo parcelamento é a regularização fiscal de contribuintes devedores; não apenas com o objetivo arrecadatório, mas também com o intuito de sanar dificuldades financeiras do devedor, garantindo a satisfação do débito e encerrando, muitas vezes, procedimentos executivos infrutíferos e custosos ao Erário. Isso fica ainda mais claro quando se discute os sucessivos parcelamentos especiais que, ao trazerem diversas medidas redutoras da dívida, atraem os contribuintes a sanar sua situação fiscal.
+3. Neste sentido, o indeferimento do pleito da impetrante (suspensão da exigibilidade e expedição de CPEN) viria em contramão a uma perspectiva sistemática da disciplina legislativa do Programa e do próprio sistema constitucional econômico atual, porquanto traria como consequência o impedimento do desenvolvimento da atividade empresarial.
+4. A emissão da CND/CPEN não inibe a possibilidade de apuração de eventuais débitos pendentes/diferenças/atrasados, por parte do impetrado, que venham a obstar a obtenção de nova Certidão.
+5. Não há o que se falar em impossibilidade de inclusão dos valores referentes à Multa Isolada no parcelamento do Refis da Copa, como forma de sustentar improcedente a segurança aqui concedida, haja vista este mérito já está sendo discutindo no autos de outro Mandado de Segurança.
+Embargos de declaração rejeitados.
+Em suas razões, as parte recorrente alega, primeiramente, violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Quanto ao mérito, aponta violação dos arts. 2º, 128, 293 e 460, todos do CPC/1973, no que diz respeito à ocorrência de julgamento ultra petita.
+Juízo positivo de admissibilidade à fl. 423.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Compulsando-se os autos, verifica-se que o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, remanescendo omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da ocorrência de julgamento ultra petita, mediante violação aos arts. 2º, 128, 293 e 460, todos do CPC/1973.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
