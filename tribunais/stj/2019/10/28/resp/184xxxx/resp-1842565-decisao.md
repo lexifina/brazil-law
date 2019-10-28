@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALE S/A, com fundamento na alínea "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 356-364, e-STJ):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. ADIMPLEMENTO VOLUNTÁRIO. DEPÓSITO JUDICIAL DA QUANTIA EXECUTADA. INCIDÊNCIA DAS DISPOSIÇÕES DO ART. 523, §1º, DO CPC. DECISÃO MANTIDA.
+1. A atual Lei Adjetiva Civil dispõe, em seu art. 523, §1º, do CPC, que os honorários advocatícios, em sede de execução, somente incidirão na hipótese de inocorrência do pagamento voluntário da quantia executada.
+2. A jurisprudência pátria entende que o depósito judicial não se equipara a adimplemento voluntário, vez que a quantia não é disponibilizada ao credor exequente, sendo cabível a incidência da multa e dos honorários advocatícios previstos no art. 523, §1º, do CPC, o qual repete, em sua maioria, as disposições previstas no revogado art. 475-J do CPC/73.
+3. Considerando que a Agravante se limitou a depositar judicialmente a quantia executada, entende-se que a decisão guerreada, que determinou a intimação da Agravante para adimplir voluntariamente com o débito exequendo e fixou honorários advocatícios em 10% (dez por cento), deve ser mantida em sua integralidade, em consonância com o entendimento jurisprudencial acima destacado.
+4. Agravo de Instrumento conhecido e improvido.
+5. Unanimidade.
+Opostos embargos de declaração (fls. 383-387, e-STJ), esses foram rejeitados (fls. 397-400, e-STJ).
+Nas razões do recurso especial (fls. 409-438, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 1022 do CPC/2015, na medida em que o acórdão recorrido é omisso em relação à alegada ofensa ao art. 523, § 1º, do CPC/2015;
+(ii) 523, § 1º, do CPC/2015, pois é indevida a fixação de honorários advocatícios nas hipóteses de pagamento voluntário da condenação;
+Contrarrazões às fls. 463-468, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece provimento.
+1. Da leitura do acórdão recorrido, depreende-se que o Tribunal local, a despeito de reconhecer a imprecisão da decisão que fixou honorários advocatícios antes mesmo de decorrido o prazo para pagamento voluntário da obrigação, consignou que esses eram cabíveis no caso, sob o fundamento de que o depósito judicial não se equipararia ao adimplemento voluntário da obrigação, na medida em que a quantia não fora disponibilizada à parte exequente. Veja-se (fl. 358, e-STJ):
+Na hipótese, não obstante seja perceptível que o Juízo de base inobservou o expresso teor do sobredito dispositivo, vez que arbitrou os honorários advocatícios em despacho que ordena a intimação da Executada para adimplir voluntariamente com o débito, entende-se que a referida ordem deve ser mantida. Explico.
+Compulsando-se os autos, verifica-se que a Agravante, realizou o depósito judicial da quantia executada, via TED - Transferência Eletrônica Disponível em 05/03/2018, no valor de R$ 124.731,06 (cento e vinte e quatro mil, setecentos e trinta e um reais e seis centavos).
+Ocorre, todavia, que a jurisprudência pátria entende que o depósito judicial não se equipara a adimplemento voluntário, vez que a quantia não é disponibilizada ao credor exequente, sendo cabível a incidência da multa e dos honorários advocatícios previstos no art. 523, §1º, do CPC, o qual repete, em sua maioria, as disposições previstas no revogado art. 475-J do CPC/73.
+Em desfavor de tal decisão, a ora recorrente opôs embargos declaratórios, nos quais, dentre outras questões, suscitava omissão/contradição no acórdão recorrido, relativa à impossibilidade de pagamento voluntário da obrigação, em razão da inadequada fixação de honorários advocatícios pelo juízo a quo. Nesse sentido (fl. 385-386, e-STJ):
+Deste modo, é exatamente nestes termos que repousam as razões do Agravo interposto pela embargante, visto que o pretendido no presente recurso, pela embargante era ser intimada a pagar os valores objeto da execução voluntariamente, sem a incidência dos honorários advocatícios de 10%, nos termos da previsão constante do Art. 523 §1º do CPC.
+Observe D. Relator, que o despacho proferido pelo D. juízo de base foi equivocado, visto que antes mesmo do início do prazo para pagamento voluntario, já intimara a embargante a pagar o débito, acrescido de honorários de 10%. Portanto, tal decisão violou e viola o Art. 523 § 1º do CPC.
+Por tal razão, a decisão ora objetada também padece de contradição, ao passo que mesmo reconhecendo que os honorários advocatícios, em sede de execução, somente incidirão na hipótese de inocorrência do pagamento voluntário da quantia executada, acabou por validar a decisão que já determinou o pagamento de honorários já no tempo do pagamento voluntário.
+A referida decisão proferida pelo juízo a quo, nobre julgador, acaba por inviabilizar, inclusive, o pagamento voluntário da condenação, eis que a parte embargante, ora recorrente, não se sujeitaria à proceder com o pagamento voluntário da condenação acrescida de honorários, assim como imposta, sendo que a Lei adjetiva Civil dispõe exatamente ao contrário.
+Por outro lado, o fato de a embargante ter depositado os valores que entende devido, para fins de garantir a impugnação ao cumprimento de sentença, em nada interfere para a concessão do provimento do Agravo em questão, eis que o pretendido no presente recurso, era exatamente garantir o pagamento voluntário sem a incidência de honorários, o que não foi possível em decorrência do seu antecipado arbitramento.
+Contudo, no bojo do acórdão de fls. 397-400, e-STJ, tão somente se reafirmou que o depósito judicial não se iguala ao pagamento voluntário.
+Nota-se, portanto, que o Tribunal local, em que pese instado em sede de aclaratórios, não apreciou a omissão/contradição suscitada na origem, relativa à realização do depósito judicial em decorrência da impossibilidade de pagamento voluntário da obrigação, em razão de vício perpetrado pelo juízo de primeiro grau.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE RESCISÃO CONTRATUAL. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal local, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do Código de Processo Civil de 1973, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no AREsp 889.277/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO DO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 535 do CPC/73 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar parcial provimento ao recurso especial, com determinação do retorno dos autos ao Tribunal de origem para que sane as omissões verificadas.
+(AgInt no AREsp 843.220/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dou provimento ao recurso especial. Assim, determino a anulação do acórdão que julgou os embargos de declaração (fls. 397-400, e-STJ), com a consequente devolução dos autos ao Tribunal a quo, a fim de que profira novo julgamento, sanando a omissão/contradição ora apontada.
+Publique-se.
+Intimem-se.
