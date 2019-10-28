@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DE ALAGOAS contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, EDJANE NASCIMENTO DOS SANTOS ajuizou ação ordinária em face do ESTADO DO ALAGOAS, objetivando o recebimento do adicional de insalubridade com base no subsídio que recebe.
+Deu-se, à causa, o valor de R$ 724,00 em 6 de janeiro de 2015.
+Após sentença que julgou procedente, em parte, a demanda, foi interposta apelação, que teve seu provimento negado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, ficando consignado que tanto os juros quanto a correção monetária incidirão desde o indevido inadimplemento de cada uma das verbas remuneratórias (fl. 113).
+O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL INSALUBRIDADE. COMPATIBILIDADE DE SEU RECEBIMENTO COM O REGIME DE SUBSÍDIO. BASE DE CÁLCULO. SUBSÍDIO MÍNIMO DA CATEGORIA. DECISÃO DO PLENO DESTE TRIBUNAL DE JUSTIÇA EM SEDE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA ISONOMIA E DA SEPARAÇÃO DO PODERES. JUROS E CORREÇÃO MONETÁRIA ESTABELECIDOS DE OFÍCIO. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Contra a decisão cuja ementa se encontra acima transcrita, ESTADO DE ALAGOAS interpôs recurso especial, apontando violação dos arts. 240 do CPC e 405 do CC.
+Os dispositivos citados apresentam a seguinte redação:
+Código Civil
+Art. 405. Contam-se os juros de mora desde a citação inicial.
+Código de Processo civil
+Art. 240. A citação válida, ainda quando ordenada por juízo incompetente, induz litispendência, torna litigiosa a coisa e constitui em mora o devedor, ressalvado o disposto nos arts. 397e 398 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil).
+Sustenta, em síntese, que o acórdão recorrido violou os dispositivos anteriormente mencionados, eis que o caráter controvertido afasta por si só qualquer liquidez da obrigação (fl. 142). Assim, considera que o termo inicial da correção monetária e dos juros de mora é da citação, e não do inadimplemento.
+Não foram apresentadas contrarrazões pela manutenção do acórdão recorrido (fl. 152).
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 83/STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+A irresignação merece prosperar.
+Examinando hipóteses semelhantes, este Superior Tribunal tem entendido que a natureza da obrigação em comento é ilíquida, pois somente após se definir qual a correta base de cálculo do adicional de insalubridade é que será possível determinar os respectivos valores devidos ( AREsp 1.499.310-AL, Rel. Min. SERGIO KUKINA, julgado em 30/05/2019).
+Por conseguinte, considerando a obrigação em comento como ilíquida, os juros de mora são devidos a partir da citação, nos termos do art. 240 do CPC e art. 405 do CC, sobretudo tendo em vista que o REsp 1.356.120/RS, sufragou o entendimento segundo o qual o art. 1º-F da Lei m. 9.494/1997, com redação da Lei n. 11.960/2009, não modificou o termo inicial de Administração ao servidor público, aplicando-se, consequentemente, as regras constantes dos art. 219 do CPC e 405 do CC, os quais estabelecem a citação como marco inicial da referida verba.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. SERVIDOR PÚBLICO. OBRIGAÇÃO ILÍQUIDA. ART. 1º-F DA LEI 9494/97. CORREÇÃO MONETÁRIA. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. PRECEDENTES.
+1. No que diz respeito ao pedido de cassação do acórdão recorrido para declarar o direito das autoras ao recebimento das diferenças apuradas nos cinco anos anteriores a propositura da ação sem o decote dos 57 dias, a agravante não amparou o inconformismo na violação de qualquer lei federal. Dessarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência, por analogia, da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+2. Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, o termo a quo de incidência dos juros moratórios/correção monetária sobre as obrigações ilíquidas devidas pela Administração ao servidor público, aplica-se, consequentemente, as regras constantes dos arts. 219 do CPC e 405 do Código Civil, os quais estabelecem a citação como o marco inicial da referida verba. Precedentes.
+3. Ressalta-se que a questão afetada à Primeira Seção do STJ, aguardando o julgamento dos Recursos Especiais repetitivos 1.492.221/PR, 1.495.144/RS e 1.495.146/MG (DJe de 11/11/2014) de Relatoria do Ministro Mauro Campbell Marques, vinculados ao Tema 905 desta Corte, limita-se a aplicabilidade do art. 1º-F da Lei 9.494/97, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora. Não se discute o termo inicial da incidência dos juros de mora e correção monetária. Agravo interno improvido.
+(AgInt no REsp 1362981/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intimem-se.
