@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo originalmente devolvido ao Superior Tribunal de Justiça pela sistemática de repercussão geral, tendo como paradigma o RE 1.001.104-RG (Tema 854).
+    O Superior Tribunal de Justiça reconsiderou a decisão então proferida, não admitindo o recurso extraordinário sob o fundamento de ocorrência de preclusão, uma vez que a questão constitucional levantada no recurso extraordinário teria surgido não a partir da decisão proferida no recurso especial, mas na prolação do acórdão pelo Tribunal de origem.
+     A parte recorrente interpôs novo agravo, o qual foi remetido ao Supremo Tribunal Federal.
+    Passo à análise do recurso.
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, que assentara ser “indispensável o cumprimento dos ditames constitucionais e legais, com a realização de prévio procedimento licitatório para que se possa cogitar de indenização aos permissionários de serviço público de transporte coletivo”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XXI e 175, parágrafo único, I, da CF. Sustenta que “referidos preceitos constitucionais são harmônicos e compatíveis com a indenização especificada nos §§ 3° a 6° do artigo 42 da Lei Federal n° 8.987/1995, com redação dada pela Lei Federal n°11.445/2007, que estabeleceu a possibilidade de eventual indenização especificamente para casos de serviços públicos anteriormente concedidos ou permitidos sem licitação”.
+    De início, observa-se que não é o caso de preclusão da questão constitucional. Isso porque a questão constitucional com relação ao pedido de indenização pleiteado pelo ora recorrente surgiu apenas quando Superior Tribunal de Justiça deu provimento ao recurso especial interposto pelo Ministério Público para afastar referido pedido, diante da falta de prévio procedimento licitatório para a prestação de serviço público.
+    O Plenário Virtual do Supremo Tribunal Federal, nos autos do RE 1.001.104-RG, Rel. Min. Marco Aurélio, reconheceu a repercussão geral da presente controvérsia (Tema 854). Veja-se a ementa do paradigma mencionado:
+    “TRANSPORTE PÚBLICO COLETIVO – SERVIÇO PÚBLICO – AUTORIZAÇÃO – CERTIFICADO DE REGISTRO DE OPERAÇÃO – AUSÊNCIA – LICITAÇÃO – ARTIGO 175 DA CARTA DA REPÚBLICA – ALCANCE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia alusiva à possibilidade de a prestação do serviço público de transporte coletivo ser implementada mediante simples credenciamento de terceiros, sem licitação, considerado o preceito do artigo 175 da Constituição Federal. “
+    Para alcançar a discussão sobre a possibilidade ou não de recebimento da indenização pleiteada pelo ora recorrente, é necessário adentar em tema pendente de julgamento em repercussão geral.
+    Diante do exposto, com base nos arts. 1.036 do CPC e 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 28 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
