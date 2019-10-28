@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME] contra decisão de desembargador do Tribunal Regional Federal da 1ª Região que deferiu parcialmente o pedido liminar no HC n. 1035004-52.2019.4.01.0000, apenas para compatibilizar a prisão preventiva do paciente ao regime prisional semiaberto fixado em sentença.
+Extrai-se dos autos que o paciente foi preso em flagrante em 24/5/2018 por ter supostamente praticado delito previsto no art. 288, parágrafo único, do Código Penal (associação criminosa qualificada). Referida custódia foi convertida em prisão preventiva. Segundo alegações, o paciente restou condenado à pena de 5 anos e 9 meses de reclusão, em regime inicial semiaberto, tendo sido negado o apelo em liberdade.
+Irresignada, a defesa impetrou o habeas corpus originário, cuja liminar foi parcialmente deferida tão somente para que o Juízo de piso observasse o direito de o paciente ter compatibilizada a prisão preventiva, mantida na sentença condenatória, com o regime prisional fixado, qual seja o semiaberto (decisão de fls. 13/15).
+No presente writ, o impetrante alega necessidade de superação da Súmula n. 691 do Supremo Tribunal Federal, porquanto aduz carecer a negativa do apelo em liberdade de fundamentação idônea. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Afirma que a manutenção da prisão preventiva caracteriza ofensa ao princípio da proporcionalidade, sobremaneira porquanto, em razão de a custódia perdurar por mais de 470 dias, o paciente já alcançou lapso temporal superior ao exigido para a progressão de regime para o aberto, encontrando-se próximo à aquisição do direito ao livramento condicional.
+Ressalta as condições pessoais favoráveis do paciente.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva, com a expedição de alvará de soltura.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+2. Em sede de habeas corpus não é possível conhecer de tema não decidido na origem sob pena de supressão de instância.
+2. Cabe ao impetrante o escorreito aparelhamento do remédio heroico demonstrando por meio de prova pré-constituída o alegado constrangimento ilegal.
+3. Agravo regimental improvido (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 16/03/2016).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/02/2016).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o parcial deferimento da tutela de urgência, que manteve a custódia cautelar do paciente, pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Ademais, ainda que assim não fosse, percebe-se que o writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído. Não foi juntada aos autos cópia da sentença penal condenatória, que, supostamente, manteve a prisão preventiva do réu, documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido:
+PENAL E PROCESSUAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INTERROGATÓRIO DOS RÉUS. OBSERVÂNCIA DA DISPOSIÇÃO CONTIDA NO ART. 57 DA LEI N. 11.343/2006. NULIDADE. INOCORRÊNCIA. LEI ESPECIAL QUE SE APLICA À HIPÓTESE. DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA.
+1. O habeas corpus, em sua via estreita, deve vir instruído com todas as provas pré-constituídas que permitam sua análise, uma vez que não admite dilação probatória.
+2. Hipótese em que, ausente o decreto de prisão preventiva, resta impossibilitado o exame de eventual constrangimento ilegal decorrente da medida extrema.
+3. A especialidade da disposição contida no art. 57 da Lei n. 11.343/2006 prevalece sobre a regra geral do Código de Processo Penal (art. 400), de modo que o interrogatório do réu deve ocorrer antes da oitiva das testemunhas.
+4. Em obediência ao princípio pas de nullité sans grief, que vigora no processo penal pátrio (art. 563), não se declara nulidade de ato se dele não resulta prejuízo para nenhuma das partes. Precedentes.
+5. Recurso ordinário em habeas corpus conhecido em parte e, nessa extensão, desprovido (RHC 37.373/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 09/09/2015)
+PENAL E PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REVOGAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO QUE DECRETOU A SEGREGAÇÃO CAUTELAR. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE NA VIA ELEITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+I - Impede o conhecimento do recurso em habeas corpus a insuficiência na sua instrução, notadamente como na hipótese, onde não foi juntada pelo recorrente a cópia da r. decisão que decretou a sua prisão preventiva (precedente).
+II - Uma vez que o MM. Juízo de 1º grau inferiu - de maneira devidamente fundamentada - que houve o efetivo exercício da traficância, infirmar a condenação do paciente com vistas à absolvição do delito demandaria, necessariamente, o amplo revolvimento da matéria fático-probatória, o que é vedado na via eleita (precedentes do STF e do STJ).
+Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido (RHC 60.757/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 24/09/2015).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
