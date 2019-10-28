@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Embargos infringentes - Contrato bancário - Aluguel de cofre - Roubo do conteúdo - Ação de indenização - Acórdão da apelação proclamando a procedência da demanda - Infringentes parcialmente acolhidos, para o cancelamento da condenação do réu ao pagamento de indenização por danos morais - Responsabilidades pelas verbas de sucumbência distribuídas em proporção.
+1. Cláusula limitadora de risco. Validade. Disposição grafada no contrato com absoluto destaque e clareza, e com o expresso alerta de que, em pretendendo maior uso e cobertura, o locatário haveria de contratar específico seguro. Plena compatibilidade, ademais, da irrisória remuneração paga pela locação do cofre para com o limite do risco assumido pelo locador. Contrato em exame que, visto em seu conjunto, traduz obrigação de meio no que concerne à segurança dos bens cujo valor excede o limite anunciado como o de uso do cofre. Cláusula em questão que, longe de infringir a regra do ert. 51, I, do CDC, mostra-se em conformidade com a previsão do art. 54, § 4º, do mesmo estatuto.
+2. Dolo de preposto. Roubo em questão, no entanto, que contou com a participação de vigia da instituição financeira, conforme prova dos autos. Caracterização, portanto, da chamada culpa "in eligendo" e "in vigilando" (CC, art. 932, III). Aspecto fazendo integral a responsabilidade do réu, por evidenciar não ter ele cumprido a contento a obrigação de meio, vale dizer, a de fornecer a esperada segurança ao cofre locado.
+3. Danos morais. Empresa autora que, como descrito na própria petição inicial, estava inativa e tinha as jóias que compunham seu estoque guardadas no citado cofre. Completa ausência de provas da alegação segundo a qual se planejava retomar as atividades da empresa ou de que a subtração das jóias maculou a imagem da autora frente a antigos clientes ou a clientes em potencial. Dano moral não demonstrado. Acórdão embargado reformado nesse capítulo.
+Infringentes parcialmente acolhidos.
+A parte recorrente sustenta que a cláusula limitativa de uso é válida, e que a indenização deve ser limitada aos termos do contrato.
+Ao reformar a sentença, assim ficou redigida a parte dispositiva do acórdão que julgou a apelação (fl. 1.008 e-STJ):
+Diante do exposto, por maioria de votos, vencido o Relator Sorteado, deram provimento em parte ao recurso dos autores para condenar a instituição financeira a pagar integralmente o montante relativo aos danos materiais (R$ 5.967.833,80, fl. 15, final), atualizado desde a data do evento criminoso, com juros legais de mora a partir da citação e a indenizar moralmente os autores em 10% do montante correspondente aos valor dos danos materiais no valor nominal indicado na inicial, incidindo nessa parcela indenizatória, juros legais desde a citação e atualização monetária a partir da publicação do acórdão.
+Os embargos infringentes foram acolhidos, nos seguintes termos (fl. 1.149 e-STJ):
+Em suma: o acórdão embargado comporta parcial reforma, para cancelamento da condenação do embargante ao pagamento de indenização por danos morais.
+Recíproca a sucumbência, embora não equivalente, o réu, ora embargante, arcará com 90% das despesas processuais e a autora/embargada com os 10% remanescentes. As responsabilidades por honorários, também se compensando até quanto se compensem, são estabelecidas segundo os mesmos percentuais, com base no valor a tanto estabelecido no acórdão embargado, isto é, "10% sobre o valor atualizado da condenação".
+Com efeito, o Tribunal de origem entendeu ser válida a cláusula limitativa do valor da indenização - todavia, entendeu que o fato de um dos participantes no roubo dos cofres ter sido empregado na instituição bancária autoriza a cobrança da soma expressiva, indevidamente depositada pela parte autora.
+Ao assim decidir, de fato, o Tribunal revisor invalidou a cláusula limitativa, em afronta à jurisprudência pacífica desta Corte, de que são exemplo os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/73. OMISSÃO. INEXISTÊNCIA. CIVIL E CONSUMIDOR. CONTRATO DE ALUGUEL DE COFRE. CLÁUSULA LIMITATIVA. AUSÊNCIA DE ABUSIVIDADE.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. Nos contratos de aluguel de cofre, não é abusiva a cláusula que impõe limite aos valores e objetos que podem ser armazenados, sobre os quais incidirá a obrigação de segurança e proteção. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 772822/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 11/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. CONTRATO DE ALUGUEL DE COFRE. ROUBO. CLÁUSULA LIMITATIVA DE USO. VALIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui entendimento no sentido de que a cláusula limitativa
+de uso não ofende o Código de Defesa do Consumidor, pois pode restringir o objeto do contrato e, com isso, delimitar a extensão da obrigação, mas não é excludente de responsabilidade do banco.
+2. Agravo interno não provido.
+(AgInt no AREsp 1268514/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/08/2018)
+No último julgado indicado, que tratou de caso praticamente idêntico ao dos autos, foi consignado:
+Nesse contexto, nota-se que o acórdão recorrido guarda harmonia com a jurisprudência desta Corte, no sentido de que o cliente deve arcar com as conseqüências de eventuais perdas decorrentes de roubo ou furto se não respeitou a cláusula limitativa de uso do cofre bancário, não havendo falar, nesse caso, em inadimplemento contratual por parte da instituição financeira.
+O exame do processo revela que deve prevalecer o entendimento constante da sentença, exarado em conformidade com a jurisprudência do STJ:
+A empresa autora, pelo que se depreende da documentação trazida aos autos, é empresa com uma grande experiência na área comercial, portanto seus administradores possuem plena capacidade de compreender os termos do contrato celebrado e suas consequências.
+Ademais, em observância à exigência do art. 54, § 4º do CDC, a cláusula limitativa da responsabilidade do réu veio devidamente redigida com destaque de forma clara, sendo de fácil compreensão. Tal limitação também constou da correspondência de renovação do contrato - fls. 667.
+No mérito, improcede a demanda.
+A empresa autora de forma deliberada optou por não declarar ao réu o que colocou dentro do cofre. Alguns desses bens de expressivo valor (como indicado na petição inicial) sequer foram declarados à Receita Federal (fls. 35/47). Esta é uma opção pessoal do autor.
+Justamente em razão dessa escolha, não assumiu os custos da contratação do seguro de excesso. Conscientemente assumiu o risco de perderem expressivo patrimônio em troca da não assunção dos custos da contratação de seguro de excesso e da manutenção de sua privacidade.
+Note-se que o autor parece ter feito do banco réu quase que um estoque de suas mercadorias sem ter que assumir os riscos da atividade exercida e sem informar o réu do conteúdo do cofre.
+Não pode agora, arrependido da escolha feita, tratar de responsabilizar o réu pelos prejuízos suportados.
+Não havendo responsabilidade do réu pelo prejuízo expressivo suportado pela autora, tampouco é ele responsável pelo dano moral consistente na perda de toda sua mercadoria e impossibilidade de dar continuidade à atividade comercial que exercia.
+Assim, a improcedência da demanda é de rigor.
+Ante o exposto, JULGO IMPROCEDENTE o pedido e, pela sucumbência, condeno os autores a pagar as custas e despesas processuais do réu, bem como honorários advocatícios que fixo em R$ 10.000,00 (dez mil reais), na forma do art. 20, §4º do CPC.
+Em face do exposto, conheço do recurso especial e a ele dou provimento, para restabelecer a sentença.
+Intimem-se.
