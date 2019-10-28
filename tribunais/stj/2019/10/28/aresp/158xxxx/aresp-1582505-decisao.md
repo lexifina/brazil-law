@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE ITAPEVI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS À EXECUÇÃO FISCAL - IPTU - EXERCÍCIO DE 2007 - SENTENÇA DE EXTINÇÃO DO PROCESSO - NULIDADE DA CDA - AUSÊNCIA DE INFORMAÇÃO ACERCA DOS CORRETOS DADOS DO IMÓVEL - INOBSERVÂNCIA AOS REQUISITOS DO ART 2º § 5º E 6º DA LEI 6830/80 E DO ART 202 DO CTN - SENTENÇA MANTIDA - RECURSO IMPROVIDO
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação do art. 202, III, do Código Tributário Nacional e do art. 2º, § 5º, II, IV, e V da Lei n. 6.830/80, no que concerne ao cumprimento dos requisitos da CDA em razão do imóvel estar identificado por sua inscrição cadastral, e traz o(s) seguinte(s) argumento(s):
+ Entretanto, a municipalidade demonstrou que o imóvel vem plenamente identificado por sua inscrição cadastral. Aliás, a própria CPTM fez PLANILHA identificando o imóvel objeto da tributação por sua INSCRIÇÃO CADASTRAL e ENDEREÇO, igual à CDA, e juntou na sua Ação Declaratória em que objetiva o reconhecimento da imunidade recíproca (0001693-36.2010.8.26.0271). (fls. 184).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Constata-se ainda, que a CDA, menciona a Lei Municipal, sem especificar a disposição da lei em que se baseia a cobrança. (fl. 176) - grifos nossos
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
