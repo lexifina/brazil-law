@@ -1,0 +1,24 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] ROSA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+LOCAÇÃO NÃO RESIDENCIAL - AÇÃO RENOVATÓRIA - ARGUIÇÃO DE ILEGITIMIDADE PASSIVA - Afastamento - LEVANTAMENTO DE VALORES PARA PAGAMENTO DE IPTU - Possibilidade - ALUGUEL PROVISÓRIO - Preço do negócio fixado segundo a média das pretensões - Cabimento.
+RECURSO DESPROVIDO. (fl. 563).
+O recorrente alega violação do art. 17 do CPC, no que concerne à ilegitimidade passiva, trazendo os seguintes argumentos:
+- O Espólio figura no pólo passivo por determinação da 1ª instância, conforme fls. 269 dos autos nº 2163108-50.2018.8.26.0000. Contudo, a representação pelo espólio resta prejudicada, visto que conforme apontado às fls. 21 dos mesmos autos, a sentença do processo de inventário da locadora de fls. 260, transitou em julgado em 02/07/2015.
+- Por sua vez, conforme já destacado, o cerne da discussão a ser veiculada no presente é a E ilegitimidade dos então herdeiros da locadora, os quais, através da inventariante à época (um dos herdeiros), não incluiu no inventário o imóvel objeto da ação renovatória. Deste modo, o que se revela é que atualmente não possuem qualquer titularidade de direito sobre o imóvel, seja porque fora efetuada a alienação, cedido os direitos possessórios, ou por outro motivo desconhecido.
+O inventário, como é sabido, trata-se de procedimento que afeta não só interesse daqueles que caberão a partilha, como também de interesse público, na medida em que pode envolver interesse estatal, e, também de credores que possam ser prejudicados pela má utilização deste procedimento. Daí porque a obrigatoriedade de se inserir todos os bens e relações jurídicas a título de ativo e passivo existentes no momento da abertura da sucessão do de cujus, de modo a permitir a correta e segura partilha, sob pena das sanções previstas no ordenamento jurídico.
+ ..
+No caso concreto, os então herdeiros da locadora falecida não comprovaram qualquer relação de direito material com o imóvel, nem a titularidade de direito de propriedade e nem direitos possessórios!
+Ora, como seria possível que um imóvel locado tal qual o que é objeto dos autos principais, com frutos oriundos de valores de aluguéis mensais que jamais foram atrasados, não constasse do inventário da falecida  Sobretudo quando os dois únicos herdeiros figuraram como testemunhas do contrato de locação firmado, não havendo possibilidade de se falar em desconhecimento do bem imóvel e de seus frutos (aluguéis).
+ ..
+Nesta linha, se findado o procedimento de inventário, e, não houve qualquer partilha sobre direitos do imóvel (possessórios ou de domínio), não resta direito material hábil a ser manejado em Juízo, sob pena de que a presunção de direitos sobre objeto não incluído no procedimento obrigatório determinado por lei se tome eterna, ou seja, uma vez não cumprida a obrigação legal, cabe aos credores/terceiros arcar com essa insegurança gerada  De modo a potencialmente estar-se novando relação jurídica com pessoas que não comprovam ostentar direito material sobre o bem, gerando enorme prejuízo dedutível à parte recorrente. (fls. 572/575)
+É o relatório. Decido.
+O Tribunal de origem assim se manifestou:
+No caso concreto, pelo que consta nos autos, não há ilegitimidade passiva.
+Com efeito, falecida a locadora originária, deve ser representada nos autos pelo espólio, por meio de seu inventariante (art. 75, VII, do CPC), e, concluído o inventário e efetuada a partilha, a legitimidade recaiu sobre os herdeiros do falecido, conforme interpretação extraída do texto do art. 110 do CPC. (fl. 565, negritei)
+Na espécie, portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
