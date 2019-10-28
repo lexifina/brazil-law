@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO AGRAVO INTERNO BACENJUD PESQUISA EM INÚMEROS CADASTROS DE PESSOAS JURÍDICAS INVIABILIDADE
+Na dicção legal (art. 655 do CPC/1973 e arts. 835 e 854 do CPC/2015), os sistemas informatizados colocados à disposição do Judiciário (INFOJUD, RENAJUD ou BACENJUD) constituem meios idôneos e eficazes para localização de bens, depósitos ou aplicações em instituições financeiras, os quais estão em primeiro lugar na ordem de preferência de bens penhoráveis.
+No caso concreto, no entanto, o exequente indicou um número excessivo de CNPJs (51) para a realização da pesquisa, sendo impositiva a limitação determinada na decisão agravada, sob pena de inviabilização do próprio funcionamento da unidade jurisdicional.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.022 do CPC, no que concerne à anulação do acórdão por negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 969 do CC, no que concerne ao cabimento de bloqueio ativo financeiro das filiais da recorrida em razão da indicação de um número excessivo de CNPJs para a realização da pesquisa.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Quanto à segunda controvérsia, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
