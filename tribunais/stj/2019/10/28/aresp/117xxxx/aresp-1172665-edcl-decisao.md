@@ -1,0 +1,14 @@
+DECISÃO
+Tendo em vista as razões dos embargos de declaração, reconsidero a decisão embargada.
+Trata-se de agravo contra decisão que negou seguimento recurso especial interposto em face de acórdão assim ementado:
+LOCAÇÃO DE IMÓVEL - AÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL C/C EXONERAÇÃO DE CAUÇÃO - NOTIFICAÇÃO ENCAMINHADA AO LOCADOR ANTES DA RENOVAÇÃO DO CONTRATO - CAUÇÃO VÁLIDA ATÉ DECORRIDOS 60 DIAS DA NOTIFICAÇÃO - ARTIGO 835 DO CÓDIGO CIVIL - RECURSO DOS AUTORES PROVIDO - RECURSO DA RÉ NÃO PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial, a ora agravante alega violação dos artigos 1.022 do Código de Processo Civil; 37, I, 38, 39, 40, I, da Lei 8.245/1991; e 475 do Código Civil, além de divergência jurisprudencial.
+Merece reforma a decisão agravada, a qual foi publicada na vigência da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil atual, conforme Enunciado Administrativo 3/2016 desta Corte.
+Verifico que, contra o acórdão que julgou o recurso de apelação, a parte ora agravante opôs embargos de declaração, afirmando obscuridade e contradição, na medida em que utilizados ao caso dos autos, que trata de caução real locatícia, precedentes jurisprudenciais e artigo de lei relativos exclusivamente à fiança, modalidade de garantia diversa da contratualmente estipulada.
+Asseverou, também, nas razões de embargos de declaração (fl. 295/e-STJ):
+O v. acórdão ainda negou vigência à FORÇA VINCULANTE DOS CONTRATOS e ao ATO JURÍDICO PERFEITO, porque incluiu no contrato CLÁUSULA NÃO NEGOCIADA E INEXISTENTE. Os embargados poderiam ter EXIGIDO, antes de prestar a garantia, cláusula que autorizasse sua exoneração. TODAVIA, NÃO O FIZERAM, de modo que não podem, AGORA e NO JUDICIÁRIO, obter a alteração das cláusulas contratuais.
+Diante do exposto, requer-se, sempre respeitosamente, sejam sanadas a contradição e obscuridade apontadas, indicando EXPRESSAMENTE quais as razões pelas quais os artigos 37, I, 38, 39 e 40, I, da Lei de Locações TERIAM SIDO REVOGADOS e, portanto, NÃO APLICADOS no caso dos autos, especialmente à luz do que consta da MATRÍCULA IMOBILIÁRIA e do contrato (documentos onde não se lê a palavra "fiança").
+Ocorre que o Tribunal de origem rejeitou os embargos de declaração, afirmando suficiência de fundamentos, deixando de apreciar de forma específica as alegações da embargante - notadamente a de que instituto da caução não se confunde com o da fiança -, as quais podem alterar substancialmente o resultado do julgamento, donde a ofensa ao artigo 1.022, II, do Código de Processo Civil.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para anular o acórdão dos embargos de declaração e determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
