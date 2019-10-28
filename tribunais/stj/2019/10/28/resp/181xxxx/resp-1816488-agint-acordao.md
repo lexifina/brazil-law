@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. PRESCRIÇÃO ÂNUA. DANOS CONTÍNUOS E PERMANENTES. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DO MARCO INICIAL DO PRAZO PRESCRICIONAL, À LUZ DA JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO IMPROVIDO.
+1. A Segunda Seção desta Corte possui orientação assente no sentido de que, quando a ação se baseia na existência de danos contínuos e permanentes ao imóvel, dada a natureza sucessiva e gradual do dano, renovando, dessa forma, a pretensão do beneficiário do seguro - o que impossibilita fixar o termo inicial do prazo prescricional -, considera-se como iniciada a prescrição da pretensão do beneficiário do seguro no momento em que a seguradora é comunicada do evento danoso e se recusa a indenizar.
+2. Na hipótese em exame, a Corte de origem não analisou a questão da prescrição em conformidade com a jurisprudência do Superior Tribunal de Justiça. Desse modo, ratifica-se o necessário retorno dos autos ao Tribunal estadual para que o prazo prescricional seja analisado com base na jurisprudência do STJ, sobretudo porque não há elementos nos autos suficientes para que os referidos marcos temporais sejam aferidos nesta instância extraordinária.
+3. Agravo interno improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por Bradesco Seguros S.A. contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 1.096):
+RECURSO ESPECIAL. SEGURO HABITACIONAL. PRESCRIÇÃO ÂNUA. DANOS CONTÍNUOS E PERMANENTES. NECESSIDADE DE RETORNO DOS AUTOS PARA ANÁLISE DO MARCO INICIAL DO PRAZO PRESCRICIONAL À LUZ DA JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.270-1.273).
+Em suas razões (e-STJ, fls. 1.277-1.442), a agravante alega, inicialmente, a necessidade de sobrestamento do feito em razão de ter o Supremo Tribunal Federal reconhecido a repercussão geral nos processos em que se discute o interesse da Caixa Econômica Federal nos feitos sobre imóveis adquiridos no âmbito do Sistema Financeiro de Habitação (SFH).
+Sustenta que houve o transcurso do prazo prescricional, aduzindo que o acórdão estadual entendeu que os danos se encontravam presentes nos imóveis autorais desde a sua entrega, "não sendo prudente o ingresso de ação após o transcurso de MAIS DE 20 (VINTE) ANOS de habitação nos bens objetos da lide" (e-STJ, fl. 1.285).
+Pondera que o Tribunal de origem analisou "o marco inicial temporal com base nos documentos e fatos narrados na ação, inclusive, mediante declaração dos autores de que teriam realizado consertos nos imóveis" (e-STJ, fl. 1.291), de modo que a decisão agravada procedeu à reapreciação de matéria fática, o que é vedado no âmbito do recurso especial.
+Discorre sobre a necessidade de julgamento colegiado, a fim de evitar a configuração do cerceamento ao seu direito de defesa.
+Foi apresentada impugnação ao recurso (e-STJ, fls. 1.445-1.456).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. PRESCRIÇÃO ÂNUA. DANOS CONTÍNUOS E PERMANENTES. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DO MARCO INICIAL DO PRAZO PRESCRICIONAL, À LUZ DA JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO IMPROVIDO.
+1. A Segunda Seção desta Corte possui orientação assente no sentido de que, quando a ação se baseia na existência de danos contínuos e permanentes ao imóvel, dada a natureza sucessiva e gradual do dano, renovando, dessa forma, a pretensão do beneficiário do seguro - o que impossibilita fixar o termo inicial do prazo prescricional -, considera-se como iniciada a prescrição da pretensão do beneficiário do seguro no momento em que a seguradora é comunicada do evento danoso e se recusa a indenizar.
+2. Na hipótese em exame, a Corte de origem não analisou a questão da prescrição em conformidade com a jurisprudência do Superior Tribunal de Justiça. Desse modo, ratifica-se o necessário retorno dos autos ao Tribunal estadual para que o prazo prescricional seja analisado com base na jurisprudência do STJ, sobretudo porque não há elementos nos autos suficientes para que os referidos marcos temporais sejam aferidos nesta instância extraordinária.
+3. Agravo interno improvido.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Da leitura das razões recursais, constata-se que a parte recorrente não trouxe nenhuma argumentação capaz de modificar a conclusão da decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Preliminarmente, no que se refere ao pedido de sobrestamento do julgamento deste processo, ao argumento de ter havido decisão do Supremo Tribunal Federal reconhecendo repercussão geral acerca da questão de haver ou não interesse da Caixa Econômica Federal no julgamento do presente feito, verifica-se ser descabida sua análise, tendo em vista que a CEF não é parte na lide ora em discussão.
+Conforme anotado na decisão monocrática, em relação à prescrição, de um lado, a linha da atual orientação jurisprudencial desta Corte é no sentido de que se aplica o prazo prescricional anual às ações ajuizadas por segurado/mutuário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação.
+Confiram-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. SEGURO HABITACIONAL ADJETO A CONTRATO DE FINANCIAMENTO HABITACIONAL (SFH). PRESCRIÇÃO ÂNUA. APLICAÇÃO DO ART. 206, § 1º, II, b", DO CC.
+1. Em harmonia com o princípio da unirrecorribilidade recursal, observada a prévia interposição de recurso contra a decisão recorrida, constata-se a preclusão consumativa em relação aos embargos interpostos posteriormente.
+2. Aplica-se a prescrição ânua do art. 206, § 1º, II, "b", do CC/02 para a ação proposta pelo mutuário/segurado para recebimento da indenização do seguro adjeto a contrato de mútuo habitacional (SFH).
+3. O termo inicial da prescrição conta-se da data da ciência inequívoca da incapacidade do segurado (Súmula 278 do STJ).
+4. Agravo interno de fls. 512/535 não conhecido.
+5. Agravo interno de fls. 488/511 provido.
+(AgInt no REsp 1420961/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/05/2017, DJe 30/05/2017)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - SEGURO HABITACIONAL - PRAZO PRESCRICIONAL ÂNUO - PRECEDENTES DO STJ. INCONFORMISMO DA SEGURADA.
+1. Acórdãos oriundos da mesma turma que apreciou o julgado embargado não são aptos a demonstrarem o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+2. Aplica-se às ações ajuizadas por segurado/beneficiário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação - SFH, o prazo prescricional anual, nos termos do art. 178, § 6º, II, do Código Civil de 1916.
+3. Embargos de divergência parcialmente conhecidos e, nessa parte, desprovidos.
+(EREsp 1.272.518/SP. Relator Ministro Marco Buzzi, Segunda Seção, DJe 30/6/2015)
+De outro lado, consoante entendimento assente na Segunda Seção desta Corte, quando a ação se baseia na existência de danos contínuos e permanentes ao imóvel e dada a natureza sucessiva e gradual do dano, renovando, dessa forma, a pretensão do beneficiário do seguro - o que impossibilita fixar o termo inicial do prazo prescricional -, considera-se como iniciada a prescrição da pretensão do beneficiário do seguro no momento em que a seguradora é comunicada do evento danoso e se recusa a indenizar.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. MÚTUO HABITACIONAL. PRESCRIÇÃO. TERMO INICIAL. INTERESSE DA CAIXA ECONÔMICA FEDERAL NA LIDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. LEGITIMIDADE PASSIVA DA SEGURADORA. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS 5 E 7 DO STJ. MULTA DECENDIAL E ILEGITIMIDADE ATIVA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284 DO STF. RECURSO ESPECIAL NÃO PROVIDO. 1. O entendimento deste Tribunal, acerca do termo inicial da prescrição é de que a progressão dos danos no imóvel, de natureza sucessiva e gradual, dá azo a inúmeros sinistros que renovam seguidamente a pretensão do beneficiário do seguro.
+2. Não é possível acolher a tese de interesse da CEF na causa, em virtude da utilização do FCVS, com a respectiva declinação da competência para a justiça federal, em virtude da ausência de prequestionamento. Incidência da Súmula 211 do STJ.
+3. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que a seguradora tem legitimidade para figurar no polo passivo de ação que cinge contrato de seguro habitacional, regido pelas regras do Sistema Financeiro de Habitação.
+4. A alegação de ausência de cobertura securitária quanto aos vícios de construção demandaria o reexame do acervo fático-probatório e interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7/STJ, impedindo o conhecimento do recurso.
+5. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Incidência da Súmula 284 do STF.
+6. Agravo interno não provido.
+(AgInt no REsp 1674404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2017, DJe 09/10/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE SEGURO VINCULADO AO SISTEMA FINANCEIRO HABITACIONAL. PREJUDICIAL DE PRESCRIÇÃO AFASTADA. CARÊNCIA DE AÇÃO EM VIRTUDE DA QUITAÇÃO E DO TÉRMINO DO CONTRATO. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. Inicialmente, no tocante à alegação de prescrição da pretensão autoral, é importante esclarecer que, na linha dos julgados desta Corte, os danos decorrentes de vício da construção se protraem no tempo e, por isso, não permitem a fixação de marco temporal certo, a partir do qual se possa contar, com segurança, o termo inicial do prazo prescricional para a ação indenizatória correspondente a ser intentada contra a seguradora. Logo, deve ser afastada a prejudicial de prescrição.
+2. Quanto ao argumento de carência de ação em virtude da quitação e do término do contrato de financiamento, verifica-se que o acórdão recorrido apreciou a matéria em questão com fulcro no instrumento contratual firmado entre as partes e nos elementos fático-probatórios constantes dos autos. Dessa forma, nos termos da jurisprudência desta Corte, dissentir do entendimento cristalizado no âmbito da instância originária se revela, na hipótese dos autos, inviável, haja vista o teor das Súmulas 5 e 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1297557/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/02/2016, DJe 02/03/2016)
+Ao analisar a questão controvertida, o acórdão consignou os seguintes fundamentos (e-STJ, fls. 684-685):
+No caso em tela, não houve a comunicação imediata do sinistro à seguradora, pois a comunicação de fls. 48/51 foi feita em 13/08/2014, mas os imóveis foram adquiridos em 1980.
+Sendo descabido se entender como sinistro por vício de construção um dano causado vinte anos depois da aquisição do imóvel. Com efeito, não foi produzida prova no sentido de que tenha ocorrida a comunicação da seguradora por meio da instituição financeira, ônus que cabia a parte autora e do qual não se desincumbiu, a teor do que estabelece o art. 333, inciso I, do Código de Processo Civil/73.
+ ..
+Assim, ajuizada a presente demanda somente em AGOSTO de 2014, deve ser extinto o presente feito em razão da prescrição do direito de ação das partes autoras, uma vez que as partes demandantes não comprovaram a realização do pedido administrativo dentro do prazo anual precitado, mas após mais de dez anos da constatação dos alegados vícios, como podemos inferir deste processo.
+Portanto, permanece incólume a compreensão perfilhada no sentido de que, na hipótese em exame, a Corte de origem não analisou a questão da prescrição em conformidade com a jurisprudência do Superior Tribunal de Justiça. Desse modo, ratifica-se o necessário retorno dos autos ao Tribunal estadual para que o prazo prescricional seja analisado com base na jurisprudência do STJ, sobretudo porque não há elementos nos autos suficientes para que os referidos marcos temporais sejam aferidos nesta instância extraordinária.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
