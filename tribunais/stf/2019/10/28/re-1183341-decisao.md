@@ -1,0 +1,28 @@
+DESPACHO: (Referente à Petição 64.573/2019)
+    1. O Desembargador Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo reencaminhou este processo ao Supremo Tribunal Federal (STF) sob os seguintes fundamentos:
+    “[...]
+    Como consignado, o recurso extraordinário interposto pela Defesa havia sido admitido com a observação da pendência do julgamento do Tema nº 656 da Corte Suprema (fls. 351) e, após o feito aportar no aludido Sodalício, o E. Ministro relator determinou a devolução do feito a esta Casa para aplicação da sistemática da repercussão geral (fls. 358), que, nos termos do artigo 1035, § 5º, do Código de Processo Civil, impunha a suspensão do processo.
+    Diante do citado sobrestamento, e observado o conteúdo do julgamento da questão de ordem no Recurso Extraordinário nº 966.177 (Tema nº 924), que estabeleceu operar-se automaticamente a suspensão da prescrição da pretensão punitiva relativa aos crimes que foram objeto das ações penais sobrestadas, obstou-se, também, o prosseguimento do curso da referida causa extintiva da punibilidade.
+    Portanto, verificando que a decisão ora impugnada decorreu da determinação exarada pela Suprema Corte; que o pedido de reconsideração questiona a interpretação da mencionada questão de ordem, a qual estabeleceu que o sobrestamento não abrange as ações penais em que haja réu preso provisoriamente, tratando-se, no caso, de prisão decorrente de execução do v. acórdão confirmatório da condenação após findo o prazo para a interposição de recursos ordinários, em consonância, aliás, com o teor do Tema nº 925 do Egrégio Sodalício; e que o Tema nº 656 do referido Tribunal pende de julgamento, encaminhem-se os autos ao E. Supremo Tribunal Federal, mercê da urgência da questão posta.
+    [...]”
+    2.  O STF, ao julgar o RE 966.177 RG-QO, entendeu que “a suspensão de processamento prevista no §5º do art. 1.035 do CPC não é consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la”. Naquele julgamento chegou-se às seguintes conclusões:
+    “[...]
+    a) a suspensão de processamento prevista no §5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la;
+    b) de qualquer modo, consoante o sobredito juízo discricionário do relator, a possibilidade de sobrestamento se aplica aos processos de natureza penal;
+    c) neste contexto, em sendo determinado o sobrestamento de processos de natureza penal, opera-se, automaticamente, a suspensão da prescrição da pretensão punitiva relativa aos crimes que forem objeto das ações penais sobrestadas, a partir de interpretação conforme a Constituição do art. 116, I, do CP;
+    d) em nenhuma hipótese, o sobrestamento de processos penais determinado com fundamento no art. 1.035, §5º, do CPC abrangerá inquéritos policiais ou procedimentos investigatórios conduzidos pelo Ministério Público;
+    e) em nenhuma hipótese, o sobrestamento de processos penais determinado com fundamento no art. 1.035, §5º, do CPC abrangerá ações penais em que haja réu preso provisoriamente;
+    f) em qualquer caso de sobrestamento de ação penal determinado com fundamento no art. 1.035, §5º, do CPC, poderá o juízo de piso, no curso da suspensão, proceder, conforme à necessidade, à produção de provas de natureza urgente.
+    […].” (Grifo acrescentado)
+    3. No presente caso, em que se determinou o retorno dos autos à origem, tendo em vista que o Supremo Tribunal Federal reconheceu a repercussão geral da matéria ora discutida no RE 608.588 RG - Tema 656, Rel. Min. Luiz Fux, não houve determinação de suspensão dos processos, revelando-se inviável o pedido de sobrestamento.
+    4. Nessa linha, vejam-se: RE 860.631, Rel, Min. Luiz Fux; Rcl. 30.748, Relª. Minª. Rosa Weber; Rcl. 29.638, rel. Min. Luiz Fux; e RE 963.997 AgR, Rel. Min. Edson Fachin, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. SISTEMÁTICA DA REPERCUSSÃO GERAL. PEDIDO DE SUSPENSÃO DO PROCESSO EM RAZÃO DO RE 966.177/RS. IMPOSSIBILIDADE. AUSÊNCIA DE DETERMINAÇÃO DE SUSPENSÃO DOS FEITOS PELO RELATOR DO PROCESSO-PARADIGMA. NÃO IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 317, § 1º, DO RISTF. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Na sessão de julgamento de 07.06.2017, o Pleno desta Corte resolveu questão de ordem, no RE 966.177/RS, no sentido de que a suspensão de processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la .
+    2. Considerando que o Ministro Luiz Fux, Relator do RE 966.177, por ora, não determinou o sobrestamento dos processos que versam sobre a mesma matéria, não há como acolher o pleito do agravante.
+    3. Nos termos do art. 317, §1º, do RISTF, o agravo regimental que não impugna os fundamentos da decisão agravada não preenche o requisito de admissibilidade recursal.
+    4. Agravo regimental a que se nega provimento.”
+    5. Diante do exposto, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 28 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
