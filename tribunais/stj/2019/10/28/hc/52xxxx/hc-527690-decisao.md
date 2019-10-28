@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANGELICA PIRES DE CAMPOS, em face de acórdão do TRIBUNAL DE JUSTIÇA DO PARANÁ, assim ementado (fl. 14):
+RECURSO EM SENTIDO ESTRITO. INSURGÊNCIA DO MINISTÉRIO PÚBLICO CONTRA DECISÃO PROFERIDA PELO JUÍZO A QUO QUE DEFERIU A LIBERDADE PROVISÓRIA DA RÉ - PRESENÇA DOS REQUISITOS DA PRISÃO PREVENTIVA - PERICULOSIDADE EXACERBADA DA RÉ FACE A QUANTIDADE E NATUREZA DA DROGA APREENDIDA - CIRCUNSTÂNCIAS QUE POR SI SÓ JUSTIFICAM O DECRETO PREVENTIVO - PRECEDENTES DO STJ. IMPOSSIBILIDADE DE IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INAPLICABILIDADE DO HC N 143.641/SP AO CASO - HIPÓTESE DE EXCEÇÃO - DELITO COMETIDO NA RESIDÊNCA EM PLENO CONVÍVIO FAMILIAR. RECURSO CONHECIDO E PROVIDO.
+A paciente foi condenada à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, além do pagamento de 167 dias-multa, tendo sido a pena privativa de liberdade substituída por duas restritivas de direito, tudo conforme disposto na sentença, consoante consta nas fls. 41-42.
+Os impetrantes argumentam, em síntese, ausência de fundamentos para a decretação da prisão preventiva, não se verificando, na espécie, os requisitos do art. 312, do CPP. Sustentam ter perdido objeto o recurso em sentido estrito interposto pela acusação com a prolação de sentença condenatória contra a paciente, substituindo a pena privativa de liberdade por restritiva de direitos.
+Requerem, liminarmente e no mérito, a concessão da ordem, para expedição de contramandado de prisão.
+A liminar foi deferida e as informações prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado de sentença condenatória, reveste-se de legalidade medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta dos autos que a paciente foi presa em 27/3/2019 e solta, com a aplicação de medidas cautelares, por decisão do Juízo de 1º Grau em 3/4/2019, tendo o Parquet interposto recurso em sentido estrito. Em 11/6/2019, foi prolatada sentença condenatória que concedeu o direito de a acusada responder em liberdade (fl. 42).
+O recurso em sentido estrito foi provido pelo Tribunal de origem em 8/8/2019, nos seguintes termos (fls. 15-23):
+Da análise dos autos, o Juízo a quo revogou a prisão preventiva, determinando-se a imposição de medidas alternativas a Ré, consistente apenas em monitoramento eletrônico, entre outras limitações, sob o argumento de que não estariam presentes os requisitos previstos no art. 312 do CPP.
+A decisão é passível de reforma, uma vez que estão presentes os requisitos da prisão preventiva. Além dos indícios de autoria e prova da materialidade, os quais recaem sobre a Ré, verifica-se que a quantidade e natureza da substância apreendida demonstra gravidade excessiva da conduta supostamente praticada.
+Da análise dos autos de exibição e apreensão de mov. 1.5, foi apreendido pela equipe policial mais de meio quilo (aproximadamente 511 g) de substância entorpecente análoga a maconha. No mesmo ato, foi apreendida 60 (sessenta) papelotes de substância análoga a cocaína pesando 27 g (vinte e sete gramas), entorpecente popularmente conhecido por causar severa dependência física.
+ Cumpre mencionar, neste sentido, que a vasta quantidade de substância entorpecente apreendida, além de indicar a reiteração criminosa, podem causar severo risco e dano direto e concreto à saúde pública, o que, nesse caso justifica a imposição da medida cautelar.
+ Veja-se que, no presente caso, as substâncias entorpecentes estavam todas acondicionadas individualmente e espalhadas por diversos cômodos da casa, o que, ao menos nesta análise sumária, evidencia a grande probabilidade de constituir o local ponto de tráfico de drogas.
+ ..
+Ademais, em que pese o fato de a Ré possuir domicílio e vínculo empregatício, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Inclusive, a primariedade da Ré deve ser analisada com cautela na seguinte situação, frente a todas as evidências que foram constatadas nos autos.
+Por fim, o fato de que a Paciente seria responsável por filho menor de idade, por si só, não é capaz de ensejar a revogação do decreto preventivo.
+Dessa forma, evidenciados os requisitos previstos no art. 312 do CPP e constatada a excepcionalidade das circunstâncias dos autos, revoga-se a decisão lançada no 1º grau e determina-se a prisão preventiva da Ré.
+Muito embora o acórdão impugnado tenha apresentado fundamentação concreta para a decretação da prisão, evidenciada na quantidade de droga apreendida - 511 gramas de maconha e 27 gramas de cocaína -, à época em que apreciado o recurso, já houvera sido proferida sentença condenatória que, quanto à situação prisional da paciente, dispôs (fl. 42):
+SITUAÇÃO DO RÉU DURANTE EVENTUAL RECURSO: Considerando que a ré responde solta ao presente processo, e que foi fixado o regime inicial aberto para cumprimento da reprimenda, inclusive com substituição da pena privativa de liberdade por penas restritivas de direitos, não há que se falar em prisão neste momento e tampouco durante o julgamento de eventual recurso.|
+Com efeito, diante da pena em concreto aplicada, qual seja, 1 ano e 8 meses de reclusão, em regime inicial aberto, com a substituição da pena privativa por por duas restritivas de direito (fls. 27/44), verifica-se ser desarrazoada a decretação da prisão da paciente, o que consubstancia manifesta ilegalidade.
+Ante o exposto, concedo o habeas corpus para a expedição de contramandado de prisão em favor da ANGELICA PIRES DE CAMPOS, o que não impede a fixação de medida cautelar diversa da prisão, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
