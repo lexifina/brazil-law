@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE ROBERTO DE OLIVEIRA, em face de acórdão do Tribunal Regional Federal da 3ª Região que denegou o writ de origem, por acórdão assim ementado (fl. 239):
+HABEAS CORPUS. OPERAÇÃO HOMÔNIMO. CONTRABANDO DE CIGARROS. PRISÃO PREVENTIVA. PRESSUPOSTOS E REQUISITOS. PRESENÇA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.1. Decretada a prisão preventiva do paciente no bojo da denominada Operação Homônimo, que investiga a prática, em tese, dos delitos tipificados no artigo 2º, da Lei nº 12.850/13 e artigo 334-A, do Código Penal.2. De acordo com os documentos carreados aos autos, o paciente integra, em tese, organização criminosa, e é tido como o principal comandante do grupo de distribuição de cigarros na região de Sorocaba/SP.4. A prisão preventiva foi devidamente fundamentada, indicando elementos concretos que autorizam a manutenção da segregação.5. Em que pese a informação de que o paciente possui condições pessoais favoráveis, como residência fixa e trabalho lícito, estas não constituem circunstâncias garantidoras da liberdade quando demonstrada a presença de outros elementos que justificam a medida constritiva excepcional.6.Ordem denegada. Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia Quinta Turma do Tribunal Regional Federal da 3ª Região, por unanimidade, denegar a ordem, nos termos do relatório e voto que ficam fazendo parte integra nte do presente julgado.
+O paciente foi condenado à pena de 13 anos de reclusão e ao pagamento de 21 dias-multa, em regime inicial fechado, pela prática dos crimes tipificados no art. 334-A, § 1º, IV, do Código Penal e no art. 2º da Lei n. 12.850/2013, em razão das investigações referentes a organização criminosa formada com o objetivo de introduzir cigarros no território nacional para distribuição na cidade de Sorocaba e região, na chamada "Operação Homônimo".
+No presente writ, o impetrante sustenta que o paciente sofre constrangimento ilegal, porque está preso preventivamente por mais tempo do que o previsto na Lei 12.850/2013, que prevê a manifestação do magistrado sobre a prorrogação da prisão quando passados mais de 120 dias, conforme disposto no art. 22 da mesma lei.
+Ressalta que o paciente está preso desde o dia 17/04/2018 e a instrução criminal se encerrou no dia 03/10/2018, ou seja, da prisão até o término da instrução se passaram 190 dias, e, neste ínterim e tampouco agora, houve decisão prorrogando a prisão preventiva (fl. 9).
+Requer a concessão da ordem para revogar a prisão preventiva do paciente.
+A liminar foi indeferida e as informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+DECIDO.
+A matéria versada na presente impetração (omissão por inobservância do teor do art. 22 da Lei 12.850/2013) não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
