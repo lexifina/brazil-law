@@ -1,0 +1,17 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÕES CÍVEIS CONSTITUCIONAL E ADMINISTRATIVO ESTADO DO RIO DE JANEIRO E MUNICÍPIO DE NOVA IGUAÇU AÇÃO DE OBRIGAÇÃO DE FAZER C / C DANOS MORAIS PACIENTE INTERNADO NO HOSPITAL MUNICIPAL SALGADO FILHO TUTELA PROVISÓRIA DE URGÊNCIA DEFERIDA PARA DETERMINAR A TRANSFERÊNCIA DO AUTOR PARA UNIDADE DE TRATAMENTO INTENSIVO CONFIRMADA NA R SENTENÇA DEVER DO ESTADO PREVALÊNCIA DO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA DANO MORAL NÃO CONFIGURADO DECISÃO QUE SE MANTÉM
+Quanto à controvérsia trazida aos autos, alega violação dos arts. 186 e 944 do Código Civil, no que concerne à necessidade de condenação das recorridas à indenização por danos morais, trazendo o(s) seguinte(s) argumento(s):
+Em razão da negativa da parte ré transferir o autor para um nosocômio com UTI, tem-se que o mesmo somente foi transferido após o ajuizamento da presente demanda, ou seja, por força de decisão judicial que antecipou os efeitos da tutela pretendida.
+Assim, resta evidente o dano moral decorrente da aflição, angústia e temor da paciente diante do iminente risco de agravamento do seu estado de saúde e do perigo de morte. (fls. 284).
+É o relatório. Decido.
+Verifica-se que o acórdão recorrido decidiu que (fl. 220):
+In casu, o Autor já estava internado no Hospital Municipal Salgado Filho, quando ajuizou a demanda, requerendo a sua transferência para o Centro de Terapia Intensivo, o que foi atendido no curso do processo pela parte Ré através da concessão da tutela provisória de urgência, sem que tenha sido comprovada piora no quadro clínico em decorrência do tempo gasto na realização da transferência, revelando, assim, o evento narrado na exordial as dificuldades quotidianas sofridas pelos cidadãos que necessitam da rede pública de saúde, sem caracterizar, no entanto, lesão individual de ordem moral.
+Assim, no caso concreto, conclui-se que a omissão do ente público em providenciar imediatamente a internação não resultou em qualquer abalo aos direitos personalíssimos do paciente, inexistindo dano moral a ser indenizado.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
