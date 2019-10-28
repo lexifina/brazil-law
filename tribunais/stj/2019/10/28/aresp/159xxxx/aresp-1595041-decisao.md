@@ -1,0 +1,17 @@
+DECISÃO
+
+Trata-se de agravo apresentado por BANCO DO BRASIL S/A, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO - RENEGOCIAÇÃO DE DÍVIDAS. JUROS REMUNERATÓRIOS. Devem ser limitados os juros remuneratórios à taxa média de mercado para a modalidade disponibilizada pelo BACEN à época da contratação. As taxas pactuadas na cédula de crédito nº 494.700.889 se mostram adequadas à média da modalidade. Não tendo sido informadas as taxas dos demais contratos (284607523, 494700707 e 494800872), possibilitada a aplicação do disposto no art. 400 do CPC/2015.
+CAPITALIZAÇÃO DE JUROS. Possível a capitalização mensal, desde que expressamente pactuada. Sendo a taxa de juros anual prevista no contrato de nº 494.700.889 superior ao duodécuplo da mensal, resta autorizada a capitalização dos juros em periodicidade mensal na cédula de crédito. Ausente a comprovação de previsão nos contratos renegociados, deve ser mantida a decisão que afastou a capitalização mensal.
+REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES. Cabimento da repetição do indébito, na sua forma simples, e da compensação de valores pagos a maior, mediante operação de revisão judicial das cláusulas contratuais abusivas.
+ELISÃO DA MORA. Nas hipóteses em que há cobrança de parcelas ilegais por parte do credor, a mora fica descaracterizada para todos os fins.
+SUCUMBÊNCIA. Redistribuídos os ônus sucumbenciais, uma vez que configurada hipótese de decaimento mínimo da parte embargante, nos termos do art. 86, parágrafo único, do CPC.
+NEGARAM PROVIMENTO AO APELO DA PARTE EMBARGADA E DERAM PARCIAL PROVIMENTO AO APELO DA PARTE EMBARGANTE. (fl. 160).
+Quanto à controvérsia, aduz divergência jurisprudencial atinente à impossibilidade de descaracterização da mora ante a cobrança abusiva de encargos.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
