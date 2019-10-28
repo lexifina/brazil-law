@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EMPREGADO JÁ APOSENTADO E DEMITIDO SEM JUSTA CAUSA. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA. POSSIBILIDADE, DESDE QUE ASSUMIDA A OBRIGAÇÃO DE PAGAMENTO INTEGRAL. ART. 31 DA LEI 9.656/1998. PRECEDENTES. SÚMULA 83/STJ. PREENCHIMENTO DOS REQUISITOS LEGAIS. CONTRIBUIÇÃO DO APOSENTADO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido adotou solução em conformidade com orientação jurisprudencial desta Corte, segundo a qual é assegurado ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral. Incidência, no ponto, da Súmula n. 83 do STJ.
+2. Rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local, no sentido de que houve efetiva contribuição para o plano de saúde, implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por Mediservice Operadora de Planos de Saúde S.A. contra decisão desta relatoria que conheceu parcialmente do recurso especial e, nessa extensão, negou provimento, nos termos da seguinte ementa (e-STJ, fl. 2.455):
+RECURSO ESPECIAL. PLANO DE SAÚDE. EMPREGADO JÁ APOSENTADO E DEMITIDO SEM JUSTA CAUSA. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA. POSSIBILIDADE, DESDE QUE ASSUMIDA A OBRIGAÇÃO DE PAGAMENTO INTEGRAL. ART. 31 DA LEI 9.656/1998. PRECEDENTES. SÚMULA 83/STJ. PREENCHIMENTO DOS REQUISITOS LEGAIS. CONTRIBUIÇÃO DO APOSENTADO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. RECURSO ESPECIAL INTERPOSTO POR MEDISERVICE OPERADORA DE PLANOS DE SAÚDE S.A. PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Alega o agravante que o acórdão recorrido encontra-se em desacordo com a tese firmada no recurso especial submetido ao rito dos repetitivos, REsp 1.680.318/SP, de relatoria do Ministro Ricardo Villas Bôas Cueva, tendo em vista que o ora agravado nunca contribuiu para o pagamento do seguro.
+Pleiteia, assim, a reconsideração da decisão agravada a fim de que seja provido o recurso especial, com o reconhecimento da violação aos arts. 30, § 6º, e 31 da Lei n. 9.656/1998.
+Impugnação apresentada às fls. 2.486-2.492 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EMPREGADO JÁ APOSENTADO E DEMITIDO SEM JUSTA CAUSA. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA. POSSIBILIDADE, DESDE QUE ASSUMIDA A OBRIGAÇÃO DE PAGAMENTO INTEGRAL. ART. 31 DA LEI 9.656/1998. PRECEDENTES. SÚMULA 83/STJ. PREENCHIMENTO DOS REQUISITOS LEGAIS. CONTRIBUIÇÃO DO APOSENTADO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido adotou solução em conformidade com orientação jurisprudencial desta Corte, segundo a qual é assegurado ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral. Incidência, no ponto, da Súmula n. 83 do STJ.
+2. Rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local, no sentido de que houve efetiva contribuição para o plano de saúde, implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Conforme consta da decisão agravada, o Tribunal de origem entendeu que era possível a manutenção do ex-empregado, ora recorrido, no plano de saúde coletivo concluindo pelo preenchimento dos requisitos previstos no art. 31 da Lei n. 9.656/1998, porquanto já era aposentado ao tempo da demissão sem justa causa, uma vez que teria contribuído para o custeio do plano de saúde por mais de 10 (dez) anos (e-STJ, fl. 2.185).
+Destaca-se trecho do voto do acórdão recorrido, na parte que interessa (e-STJ, fl. 2.186, sem grifo no original):
+ Quanto à alegação feita pela coapelante MEDISERVICE ADMINISTRADORA DE PLANOS DE SAUDE, de que o autor não contribuía efetivamente com o pagamento da mensalidade, sendo caso de regime de coparticipação, há provas suficientes demonstrando o contrário. Conforme cópia dos demonstrativos de pagamento juntados pelo autor (fls. 31/168) nota-se claramente que havia desconto em seu salário de contribuição referente à assistência médica.
+ Portanto, é evidente que o apelado contribuiu ao pagamento do plano de saúde
+Nesse contexto, o acórdão recorrido adotou solução em conformidade com orientação jurisprudencial desta Corte, segundo a qual é assegurado ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral. Incidência, no ponto, da Súmula n. 83 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. EMPREGADO QUE JÁ TINHA A CONDIÇÃO DE APOSENTADO E FOI DEMITIDO SEM JUSTA CAUSA. REQUISITOS DO ART. 31 DA LEI N. 9.656/1998 PREENCHIDOS. MANUTENÇÃO NO PLANO DE SAÚDE.
+1. Hipótese em que Tribunal de origem entendeu que era possível a manutenção da ex-empregada no plano de saúde coletivo, pois já era aposentada quando da demissão sem justa causa e teria vertido contribuições por mais de 10 anos e, posteriormente, assumiu o pagamento integral do prêmio, havendo, pois, o preenchimento dos requisitos previstos no art. 31 da Lei 9.656/1998.
+2. A jurisprudência do STJ caminha no sentido de que é assegurado ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+3. O art. 31 da Lei n. 9.656/1998 estabelece que "ao aposentado que contribuir para produtos de que tratam o inciso I e o § 1º do art.
+1º desta Lei, em decorrência de vínculo empregatício, pelo prazo mínimo de dez anos, é assegurado o direito de manutenção como beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral". 4. Dessarte, não exige a norma que a extinção do contrato de trabalho em razão da aposentadoria se dê no exato momento em que ocorra o pedido de manutenção das condições de cobertura assistencial. Ao revés, exige tão somente que, no momento de requerer o benefício, tenha preenchido as exigências legais, dentre as quais ter a condição de jubilado, independentemente de ser esse o motivo de desligamento da empresa.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1339578/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 01/02/2019)
+Destarte, impende registrar que, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local, no sentido de que houve efetiva contribuição para o plano de saúde, implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 deste Tribunal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
