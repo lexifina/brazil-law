@@ -1,0 +1,85 @@
+EMENTA
+PROCESSUAL PENAL HABEAS CORPUS. FURTO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONDIÇÕES FAVORÁVEIS. RELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. ORDEM DENEGADA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência ao fato de o paciente integrar associação criminosa que pratica furtos a agências bancárias, cujo modus operandi foi descrito na decisão combatida. Assim, a prisão se faz necessária para garantir a ordem pública, evitando o prosseguimento das atividades criminosas desenvolvidas.
+3. Conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009).
+4. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+5. Os fundamentos adotados para a imposição de prisão indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+6. Ordem denegada, cassada a liminar.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar o habeas corpus, cassada a liminar, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JEFFERSON ANTONIO DO NASCIMENTO apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0031561-76.2019.8.19.0000, Desembargador Francisco José de Asevedo).
+Depreende-se dos autos que o paciente foi preso em flagrante, acusado de praticar as condutas descritas no art. 155, § 4º, II e IV (por duas vezes), e no art. 288 do Código Penal. A custódia foi convertida em preventiva.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 15/17).
+PACIENTES PRESOS PREVENTIVAMENTE E DENUNCIADOS POR DOIS CRIMES DE FURTO QUALIFICADOS PELA FRAUDE E PELO CON- CURSO DE PESSOAS, SENDO UM TENTADO, E DE ASSOCIAÇÃO CRIMINOSA, EM CONCURSO MATERIAL (ART. 155, § 4.º, II, E IV, C/C ART. 14, II, C/C ART. 61, II, G; ART. 155, § 4.º, II E IV; ART. 288, CAPUT, NA FORMA DO ART. 69 TODOS DO CÓDIGO PENAL).
+ALEGADO CONSTRANGIMENTO ILEGAL POR AUSÊNCIA DOS REQUISITOS QUE AUTORIZAM A CUSTÓDIA CAUTELAR E PORQUE OS PACIENTES POSSUEM CONDIÇÕES PESSOAIS FAVORÁVEIS.
+PRETENSÃO À REVOGAÇÃO DA PRISÃO PREVENTIVA, COM A APLICAÇÃO DE UMAS DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO PREVISTAS NO ART. 319 DO CÓDIGO DE PROCESSO PENAL, QUE SE NEGA. DECISÃO DEVIDAMENTE FUNDAMENTADA, COM OBSERVÂNCIA AO ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. CUSTÓDIA NECESSÁRIA PARA GA- RANTIA DA ORDEM PÚBLICA, NA FORMA DO ART. 312 DO CÓDIGO DE PROCESSO PENAL.
+PACIENTES E OUTRO CORRÉU QUE, DE FORMA LIVRE E CONSCIENTE E EM MANIFESTA COMUNHÃO DE DESÍGNIOS ENTRE SI E COM OUTROS INDIVÍDUOS NÃO IDENTIFICADOS, MEDIANTE FRAUDE, CONSISTENTE NA INSTALAÇÃO DE DISPOSITIVO VULGARMENTE CONHECIDO COMO "CHUPA CABRA", EM CAIXAS ELETRÔNICOS DO REFERIDO BANCO, SUBTRAINDO TODO O SALDO [NOME] DA CONTA DA VÍTIMA JOÃO VICENTE.
+EM DATA NÃO PRECISADA, MAS ATÉ A DATA DA PRISÃO EM FLAGRANTE, OS PACIENTES E OUTRO CORRÉU, DE FORMA LIVRE E CONSCIENTE, ASSOCIARAM-SE E MANTIVERAM-SE ASSOCIADOS ENTRE SI E OUTRAS PESSOAS AINDA NÃO IDENTIFICADAS, DE FORMA ESTÁVEL E PERMANENTE, PARA O FIM ESPECÍFICO DE COMETER CRIMES DE FURTOS MEDIANTE FRAUDE EM DIVERSAS AGÊNCIAS BANCÁRIAS PELO ESTADO DO RIO DE JANEIRO.
+GRAVIDADE EM CONCRETO DOS CRIMES IMPUTADOS AO PACIENTE. NECESSIDADE DE SE ACAUTELAR O MEIO SOCIAL, A FIM DE EVITAR A REITERAÇÃO CRIMINOSA, O QUE COLOCARIA EM RISCO A ORDEM PÚBLICA. PACIENTE REGINALDO QUE É REINCIDENTE.
+ALEGAÇÃO DEFENSIVA DE QUE OS CRIMES IMPUTADOS NÃO ENVOLVEM VIOLÊNCIA OU GRAVE AMEAÇA, ALÉM DE OS PACIENTES POSSUÍREM RESIDÊNCIA E TRABALHO FIXOS QUE, POR SI SÓS, NÃO JUSTIFICAM A CONCESSÃO DE LIBERDADE PROVISÓRIA, QUANDO EXISTEM OUTROS DADOS QUE EVIDENCIEM A NECESSIDADE DA CUSTÓDIA.
+MEDIDAS CAUTELARES INADEQUADAS, ANTE A GRAVIDADE DAS CONDUTAS IMPUTADAS AO PACIENTE E CUJAS PENAS MÁXIMAS PREVISTAS PARA O CRIME DE ROUBO QUALIFICADO É SUPERIOR A 04 ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+DENEGAÇÃO DA ORDEM.
+Aduz a defesa, na presente impetração, que a decisão que decretou a prisão preventiva do paciente carece de fundamentação concreta. Ressalta, ainda, que o paciente ostenta condições pessoais favoráveis.
+Requer, liminarmente, a substituição da prisão cautelar por medidas cautelares alternativas.
+O pedido liminar foi deferido, para substituir a prisão preventiva pela medida cautelar inserta no art. 319, III, do Código de Processo Penal (e-STJ fls. 36/40).
+Informações prestadas às e-STJ fls. 44/49 e 54/58.
+O Ministério Público Federal manifestou-se pela "concessão da ordem para revogar a prisão preventiva do paciente, com a aplicação de medidas cautelares diversas" (e-STJ fl. 68).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto da presente impetração cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao paciente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, este é o teor da decisão que converteu a prisão em flagrante do paciente em preventiva (e-STJ fls. 13/14):
+Os custodiados foram presos em flagrante pela prática, em tese, de dois crimes de furto qualificado, um consumado e outro tentado. Trata-se de delito punido com pena privativa de liberdade máxima superior a quatro anos. Admite-se, portanto, a prisão preventiva, nos termos do art. 313, I, do CPP.
+Entendeu o i. representante do Ministério Público, neste ato, que os fatos narrados também se enquadram no crime do art. 288 do CP (associação criminosa).
+Há prova da existência dos crimes e indícios suficientes de autoria, materializados nos depoimentos das vítimas e testemunhas em sede policial, bem como no reconhecimento realizado pelas vítimas.
+No caso concreto, as vítimas estavam dentro de uma agência bancária quando eram alertadas pelo custodiado YAGO que a máquina apresentava defeito. A vítima, no entanto, já havia introduzido o cartão no caixa e o mesmo ficava preso. YAGO dizia às vítimas que estava ligando para a central de atendimento para falar com um atendente do banco. Em certo momento, os custodiados REGINALDO e JEFFERSON abordavam a vítima e diziam que iriam ajudá-la a desbloquear o cartão, realizando operações na tela do caixa eletrônico. Funcionários que trabalham no setor de vistoria técnica do banco foram acionados para verificarem possível caso de fraude foram ao local e puderam observar os três custodiados dentro da agência, bem como o momento em que JEFFERSON e REGINALDO deixaram a agência enquanto o custodiado YAGO permaneceu dentro da agência aplicando o golpe nas vítimas. Os policiais militares foram acionados e conseguiram prender os custodiados. Com YAGO foi encontrado um dispositivo chupa cabra.
+Os fatos narrados revelam a gravidade concreta dos delitos. Ademais, como bem salientou o Ministério Público, há fortes indícios de que os custodiados integrem associação criminosa, praticando delitos da mesma natureza, e com o mesmo "modus operandi", de forma habitual.
+Com efeito, a forma organizada em que atuavam os custodiados, com prévia divisão de tarefas, utilizando-se, inclusive de um dispositivo conhecido como "chupa cabra" e uma máquina de cartão, revelam o risco concreto de reiteração delitiva e a consequente necessidade da prisão cautelar como garantia da ordem pública.
+Ressalte-se que o custodiado REGINALDO é reincidente, ostentando condenação anterior com trânsito em julgado em 2017 pela prática de crime de _, o que reforça, em relação a ele, o risco concreto de reiteração delitiva.
+Quanto aos demais custodiados, saliente-se que o fato de serem primários e apresentarem comprovantes de residência fixa, por si só, não impede a decretação da prisão preventiva, devendo o magistrado atentar também para as circunstâncias do crime, sua gravidade em concreto e, especialmente, para o risco concreto de reiteração delitiva.
+Assim, com fundamento nos arts. 310, inciso II, 312 e 313 do CPP, CONVERTO A PRISÃO EM FLAGRANTE DE REGINALDO, YAGO E JEFERSON EM PRISÃO PREVENTIVA. Expeçam-se os mandados de prisão. (Grifei.)
+Vê-se que, em razão das características da conduta delituosa narrada, o decreto prisional constatou que se tratava de associação criminosa que pratica furtos a agências bancárias, cujo modus operandi foi descrito na decisão combatida.
+Tal circunstância autoriza a decretação da prisão preventiva pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, Rel. Ministra Cármen Lúcia, DJe 20/2/2009).
+ Nesse mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A necessidade da custódia cautelar está fundamentada na garantia da ordem pública, evidenciada pelo modus operandi da organização criminosa voltada para o tráfico de drogas, da qual, supostamente, o paciente faz parte, eis que, após um mês de investigações, identificou-se que ele e outros corréus transitavam entre os territórios/brasileiros e de Riviera/Uruguai na venda de drogas.
+(..)
+3. Ordem denegada. (HC 353.594/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2016, DJe 16/05/2016)
+RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É possível a decretação da prisão preventiva quando se apresenta efetiva motivação para tanto.
+2. Na espécie, a prisão preventiva foi decretada tendo em vista as peculiaridades do caso concreto (agente supostamente integrante de complexa organização criminosa, voltada à disseminação de grande quantidade de drogas, as quais são adquiridas no Paraná com a finalidade de distribuição em Minas Gerais, tendo sido apreendidos 231 kg de maconha).
+3. Recurso em habeas corpus improvido. (RHC 65.669/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/04/2016, DJe 09/05/2016)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+ ..
+2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes ([NOME], companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita .
+3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+ ..
+8. Recurso ordinário improvido. (RHC 83.321/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/08/2017, DJe 01/09/2017)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido.
+(RHC 64.879/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2016, DJe 21/03/2016)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. O mesmo entendimento é perfilhado por esta Corte Superior, a exemplo destes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+1. Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC 68.535/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES. EMPREGO DE ARMA DE FOGO. SENTENÇA POSTERIOR. MANTIDOS OS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC 393.464/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+Portanto, os fundamentos acima delineados indicam a necessidade de se manter o paciente segregado.
+Ante o exposto, denego a ordem e casso a liminar de e-STJ fls. 36/40.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
