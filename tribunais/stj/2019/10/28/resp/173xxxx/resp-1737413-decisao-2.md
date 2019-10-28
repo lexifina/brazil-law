@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] e outros com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 305):
+EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA - Prescrição. Alegações dos autores de que o prazo prescricional somente se iniciou na data em que tomaram ciência da sentença proferida na ação coletiva promovida pelo seu sindicato e, da Fazenda Pública, de que escoado em 04/11/2002, cinco anos após o trânsito em julgado da sentença exequenda. Descabimento. Hipótese em que prescreveram as parcelas vencidas a mais de cinco anos antes do ajuizamento da execução, mas prosseguimento do feito quanto ao fundo de direito e parcelas não prescritas.
+Sentença mantida.
+COISA JULGADA MATERIAL - Lei posteriormente declarada inconstitucional. Alegação da Fazenda Pública de que a Lei Complementar Estadual nº 467/86 que embasa a sentença exequenda foi declarada inconstitucional.
+Descabimento. Hipótese em que foi negado seguimento ao recurso extraordinário interposto, sendo certo que o entendimento atual do Colendo Supremo Tribunal Federal é o de que não cabe o manejo de recurso extraordinário em face do tema.
+HONORÁRIOS DE ADVOGADO - Fixação. Pretensão da Fazenda Pública à redução de verba honorária fixada em R$ 5.000,00. Descabimento. Hipótese em que a verba corresponde a menos de 3% do valor atribuído à causa em fevereiro de 2008.
+RECURSOS NÃO PROVIDOS.
+Opostos embargos declaratórios, foram rejeitados (fls. 334/339).
+A parte recorrente aponta violação aos arts. 458, incisos II e III e 535, incisos I e II e 741 do CPC, 204 do CCB, 1º do Decreto 20.910/32 e 94 do CDC. Sustenta tese de negativa de prestação jurisdicional. Afirma que não se há falar em prescrição, cujo prazo não teria sequer teria se iniciado, pois: (a) houve o ajuizamento de ação de execução coletiva, pelo Sindicato da categoria; (b) não se realizou a comunicação dos interessados acerca do trânsito em julgado da sentença condenatória, para fins de exercício da pretensão executória individual; (c) não houve o fornecimento dos documentos necessários à realização dos cálculos do valor da condenação proferida em ação coletiva; (d) iliquidez do título executivo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Não há como dar curso à irresignação.
+Com efeito, na data de hoje proferi decisão dando parcial provimento ao recurso especial interposto pela Fazenda do Estado de São Paulo a fim de determinar o retorno dos autos ao Tribunal de origem, para que aprecie a tese de prescrição do próprio fundo de direito.
+Resta, assim, prejudicado o presente recurso.
+Publique-se.
