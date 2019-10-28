@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JEAN CARLOS LAZARI, apontando-se como autoridade coatora o Tribunal de Justiça do Mato Grosso do Sul, que denegou o writ de origem em acórdão assim ementado (fl. 6):
+HABEAS CORPUS - CONDENAÇÃO POR CRIMES PRATICADOS EM CONCURSO MATERIAL - UNIFICAÇÃO DE PENAS A SER REALIZADA EM SEDE DE EXECUÇÃO - ART. 111 DA LEP - QUANTITATIVO QUE EXTRAPOLA O LIMITE DE 08 ANOS - REPRIMENDAS CUJA EXECUÇÃO UNIFICADA DEVE INICIAR-SE NO REGIME FECHADO - REQUISITO OBJETIVO PARA A PROGRESSÃO AO SEMIABERTO QUE LEVARÁ EM CONSIDERAÇÃO A TOTAL DAS REPRIMENDAS CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+I - Em conformidade com o art. 111 da Lei de Execução Penal, "quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas". Desse modo, observando-se que o paciente foi condenado, em concurso material, à pena de 08 anos, 01 mês e 15 dias de reclusão por crime de tráfico de drogas, e de 01 ano e 08 meses de reclusão pelo crime de contrabando, os regimes serão unificados no inicial fechado, nos exatos termos do art. 33, § 2ª, do Código Penal. Por conseqüência, a apuração do requisito objetivo para a nova progressão levará em consideração a integralidade das penas, observando-se, apenas, as frações distintas inerentes a ambos os crimes (hediondo e comum).
+II - Ordem denegada
+Consta dos autos que o paciente foi condenado por dois crimes num mesmo processo, sendo o primeiro de tráfico de drogas, cuja pena restou fixada em 8 anos, 1 mês e 15 dias de reclusão, em regime inicial fechado, e o segundo, de contrabando, foi-lhe imposta a reprimenda de 1 ano e 8 meses de reclusão, no regime aberto.
+O impetrante argumenta, em suma, que, por ocasião do julgamento de apelação exarado pela Corte Federal da 4ª Região, restou definitivamente assentado que o regime inicial para expiação da pena, afeta ao delito de contrabando, deveria ser o mais brando dentre as três modais previstas na legislação, ainda que a pena total do ora paciente tenha superado o marco legal de oito anos (fl. 4), o que não foi observado no cálculo de pena elaborado na correlata fase de execução, que modificou o regime para o fechado.
+Acrescenta que erros materiais observados em sentença ou acórdão não podem ser alterados após o trânsito em julgado do processo de conhecimento, mesmo que pelo juízo da execução, sob pena de ofensa à coisa julgada.
+Requer, ao final, que seja assegurado ao paciente os exatos ditames do acórdão proferido pelo T.R.F. da 4ª Região, no tocante ao regime fixado para o delito de contrabando, observando-se o cálculo da pena.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi pela concessão da ordem.
+É o relatório.
+DECIDO.
+Sobre a questão aqui trazida, assim se manifestou o Tribunal local (fls. 7-8 - com destaques):
+ ..  Como é cediço, em sede de execução penal o juiz deverá unificar os regimes diferentes impostos ao crimes praticados em concurso material ou formal, sem que tal procedimento caracterize reformatio in pejus.
+Isto porque, havendo condenação por mais de um crime, torna-se necessária a somatória das penas, cujo resultado, ex vi do art. 33 do Código Penal, informará o regime prisional à doravante ser observado, conforme disciplina o art. 111 da Lei de Execução Penal. Eis a redação do dispositivo legal supra:
+Art. 111 - Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+A mencionada circunstância é de consenso tanto na doutrina como jurisprudência, como in verbis:
+ ..
+No caso dos autos, infere-se que o paciente foi condenado por dois crimes num mesmo processo, sendo o primeiro de tráfico de drogas, cuja pena restou fixada em 08 anos, 01 mês e 15 dias de reclusão, em regime inicial fechado. Já ao segundo delito, de contrabando, foi infligida a reprimenda de 01 ano e 08 meses de reclusão, em regime inicial aberto.
+Evidente, assim, que o regime prisional unificado será o fechado, pois as condenações somadas extrapolam, per si, o limite de 08 anos estabelecido pela alínea "a" do § 2º do art. 33 do Código Penal.
+Por conseguinte, a fim de se apurar o requisito objetivo exigido para a progressão prisional, será necessário computar as frações correspondentes a cada um dos delitos (2/5 para o tráfico de drogas e 1/6 para o contrabando), exatamente como consta do cálculo de liquidação (p. 63-65). ..
+Como se vê, o paciente foi condenado por dois crimes num mesmo processo, sendo o primeiro por tráfico de drogas, cuja pena restou fixada em 8 anos, 1 mês e 15 dias de reclusão, em regime inicial fechado, e o segundo por contrabando, arbitrada a reprimenda em 1 ano e 8 meses de reclusão, no regime aberto.
+No caso corrente, o juízo da execução, somando as penas impostas ao paciente, fixou-lhe o regime fechado, porquanto totalizaram as reprimendas em quantum superior a oito anos de reclusão, decisão esta que vai ao encontro da jurisprudência desta Corte, não havendo falar-se em reformatio in pejus. Confira-se:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL. DOSIMETRIA. MAIS DE UMA CONDENAÇÃO POR CRIMES DISTINTOS EM UMA MESMA AÇÃO PENAL. SOMA OU UNIFICAÇÃO DAS PENAS. POSSIBILIDADE. AJUSTE DO REGIME PRISIONAL. ART. 111 DA LEP. AUSÊNCIA DE REFORMATIO IN PEJUS.
+1. Nos termos do art. 111 da Lei de Execução Penal e consoante a jurisprudência firmada por esta Corte, diante da condenação por mais de um delito, cabe ao juízo da execução realizar a soma ou a unificação das penas impostas e, posteriormente, redimensionar o regime prisional, sendo desinfluente que as condenações tenham sido oriundas de um único processo ou de processos distintos.
+2. Na espécie, ao determinar a unificação das penas cominadas ao recorrente em uma mesma ação penal, a Corte de origem observou a expressa previsão do artigo 111 da Lei de Execução Penal, sem incorrer em reformatio in pejus.
+3. Agravo regimental improvido. (AgRg no REsp 1716995/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/05/2018, DJe 01/06/2018).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES E CORRUPÇÃO ATIVA. DETRAÇÃO. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL SEMIABERTO. IMPOSSIBILIDADE. CÚMULO MATERIAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CONVERSÃO DA PENA PRIVATIVA DE LIBERDADE EM RESTRITIVA DE DIREITOS. AUSÊNCIA DOS REQUISITOS LEGAIS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+V - Nos termos do art. 111, da Lei de Execuções Penais, "quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+ ..
+Habeas corpus não conhecido. Liminar cassada. (HC 325.779/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/04/2016, DJe 26/04/2016).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
