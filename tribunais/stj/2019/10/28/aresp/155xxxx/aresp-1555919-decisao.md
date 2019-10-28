@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+AÇÃO DE IMISSÃO DE POSSE. Ação anulatória aforada pela requerida julgada improcedente no Primeiro Grau, sendo negado provimento ao recurso de apelação. Reconhecida a validade do contrato em que o autor adquiriu o imóvel sub judice, razoável a manutenção da determinação de imissão de posse. Sentença mantida.
+RECURSO IMPROVIDO. (fl. 253)
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, violação do art. 313, V, "a", do CPC, no que concerne à suspensão do processo, trazendo o(s) seguinte(s) argumento(s):
+5. No caso em tela, a aquisição da propriedade está sendo discutida em outra causa, isto é, na ação anulatória de ato jurídico (Processo Eletrônico nº 1009139-67.2014.8.26.0066), assim denota que a sentença proferida nesta ação de imissão de posse depende do julgamento daquela, pois reconhecida a nulidade questionada na ação anulatória exaure-se o objeto da ação de imissão de posse.
+6. Nessa esteira, vale anotar que a decisão de mérito nestes autos, depende do julgamento de outra causa para declaração da existência ou inexistência de relação jurídica que constitua o objeto principal de outro processo pendente.
+7. Desse modo, verifica a negativa de vigência da norma federal, a saber, o art. 313, inc. V, alínea "a", do Código de Processo Civil. (fl. 260)
+Quanto à segunda controvérsia, interpôs o recurso especial pela alínea "c" do permissivo constitucional.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem, no julgamento dos embargos de declaração, afastou a tese da pretendida suspensão do processo, uma vez que os embargos de declaração opostos ao julgamento da apelação proferido na ação anulatória já fora rejeitado. Eis o teor do referido decisum (fls. 267/268):
+Os presentes Embargos de Declaração foram opostos contra o acórdão de fls. 252/255, o qual negou provimento recurso de apelação da embargante, mantendo integralmente a r. sentença de fls. 211/218, a qual julgou procedente o pedido inicial, para imitir o autor na posse do imóvel.
+Segundo o alegado, em conformidade com o v. acórdão embargado, o pedido de imissão de posse foi julgado procedente porque o pedido de anulação de ato jurídico do processo 1009139-67.2014.8.26.0066 fora julgado improcedente.
+Todavia, entendia a embargante que existindo embargos de declaração pendentes de julgamento no recurso de apelação 1009139-67.2014.8.26.0000, a imissão de posse não poderia ser autorizada.
+É O RELATÓRIO.
+Conheço dos embargos, os quais deverão ser rejeitados.
+As questões postas na lide foram examinadas e decididas fundamentadamente no v. acórdão, não se vislumbrando omissão, obscuridade, contradição ou erro material.
+Constou expressamente no v. acórdão que:
+A requerida ajuizou a Ação Anulatória de Ato Jurídico, 1009139-67.2014.8.26.0066, buscando a nulidade das escrituras públicas de venda do imóvel objeto da matrícula 10.148 do Cartório de Imóveis da Comarca de Barretos.
+A referida ação anulatória foi julgada improcedente no Primeiro Grau, sendo negado provimento ao recurso de apelação da requerida.
+Assim sendo, reconhecida a validade do contrato em que o autor adquiriu o imóvel sub judice, impõe-se manutenção da determinação de imissão de posse.
+Dessa forma, considerando que os Embargos de Declaração 1009139-67.2014.8.26.0066/50000 foram rejeitados, os presentes embargos não o comportariam acolhimento.
+No mais, convém observar ainda que nos termos do artigo 1.025 do CPC/2015 deverão ser considerados incluídos na decisão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que inadmitidos ou rejeitados os embargos de declaração, caso o Tribunal Superior considerar existentes c.) 0 erro, omissão, contradição ou obscuridade.
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
