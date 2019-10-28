@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul, que, ao decidir questão relacionada a pedido de concessão de benefício assistencial à pessoa portadora do vírus HIV, impôs a anulação da sentença e determinou a “reabertura da instrução processual a fim de que se realize perícia com perito de confiança do Juízo apto a analisar a doença alegada pela parte autora, notadamente no tocante à verificação da existência de impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 44; 194, parágrafo único, III; 195, § 5º; e 201, I, todos da CF. Requer a fixação de tese segundo a qual “preconceitos ou estigmas sociais não são fatos geradores de benefícios por incapacidade sem que essa condição (a incapacidade) exista no caso concreto, embora possam servir para o abrandamento de outros requisitos de concessão desses mesmos benefícios”.
+    Decido.
+    O recurso não merce prosperar. O Plenário Virtual do Supremo Tribunal Federal decidiu pela inexistência de repercussão geral da controvérsia relativa ao preenchimento dos requisitos para concessão do benefício assistencial. Confira-se, nesse sentido, a ementa do julgado (ARE 865.645-RG – Tema 807):
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ARTIGO 203, V, DA CONSTITUIÇÃO FEDERAL. PREENCHIMENTO DOS REQUISITOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 28 de outubro de 2019.
+Ministro Luís Roberto Barroso
+Relator
