@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ART. 1.022 DO CPC/2015. OMISSÃO CONSTATADA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 520):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DIREITO RECONHECIDO EM SEDE DE MANDADO DE SEGURANÇA COLETIVO IMPETRADO POR ASSOCIAÇÃO CIVIL. PRESCRIÇÃO. TERMO INICIAL. PRECEDENTES. SUBSTITUIÇÃO PROCESSUAL. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O embargante sustenta que o acórdão contém o vício de omissão, pois olvidou apreciar a alegada violação do art. 2º-B da Lei 9.494/1997, no que pertine "a necessidade de sobrestamento do feito, em virtude da inviabilidade de execução provisória da sentença" (fl. 532).
+Com impugnação.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Efetivamente, o decisum embargado olvidou apreciar o referido aspecto, que foi objeto da irresignação recursal, razão pela qual passo a sua análise.
+Sustentou o ora embargante, nas razões do apelo especial, no que se refere ao ponto tido por omisso:
+ ..
+III.C.DA VIOLAÇÃO AO ART.22 B DA LEI N2 9494/97 e ao art. 313,V, "a", do CPC.
+Ressalta-se de início que o referido processo coletivo paradigma - atualmente - encontra-se em fase de execução provisória de n. 0046558-22.2010.8.26.0053 , assim sem o trânsito em julgado de todos os capítulos, e ainda na fase da execução provisória pende controversa discussão acerca dos limites subjetivas da lide coletiva no bojo do agravo de instrumento de n 0016633-72.2012.8.26.0000 com Recurso Extraordinário , assim ainda em julgamento a extensão dos efeitos subjetivos daquele julgado e portanto os efeitos processuais pretendidos pelos autores na presente .
+Portanto, ausente segurança jurídica de que os autores da presente se beneficiaram do título judicial na própria coletiva, com maior razão dos efeitos daquele em outra relação jurídico -processual, como pretendem com a presente.
+Assim a afronta ao art.313, V, a, do CPC , a suspensão do processo ( pois pretendem os autores se beneficia dos efeitos processuais de título coletivo, no qual ainda sem trânsito em julgado o capítulo acerca da possibilidade da extensão dos efeitos do título), por cuidar as questão acima ponderadas de prejudiciais a cognição judicial no caso, vejamos como disciplina o Código de Processo Civil:
+ ..
+Por outro lado, é evidente que a questão pertinente à delimitação do universo de beneficiários do título executivo coletivo afeta a legitimidade para promover a execução do título tanto coletiva quanto individualmente.
+Assim, o pedido da Recorrida encontra óbice em dispositivo legal expresso, na medida em que de seu acolhimento decorreria grave lesão ao erário público, decorrente do início de atos de execução sem o requisito legal do trânsito em julgado. (Quanto aos efeitos subjetivos da lide coletiva,) em afronta à Segurança Jurídica.
+ ..
+Ocorre que a Corte de origem, ao apreciar a necessidade de suspensão do processo, levando-se em conta a não ocorrência do trânsito em julgado no mandado de segurança coletivo, assentou (fl. 306):
+ ..
+O fato de não ter ocorrido o trânsito em julgado no mandado de segurança coletivo não constitui óbice à demanda pelo período anterior ao seu ajuizamento.
+Não é caso de suspensão do processo para aguardar o resultado final da ação coletiva porque, como afirma expressamente a própria recorrida, a conclusão da ação coletiva não vincula o juízo desta causa, devendo haver nova incursão no pedido e na causa de pedir.
+Ademais, como a pretensão de pagamento de valores pretéritos não pode ser veiculada no mandado de segurança coletivo, mas por meio de ação específica, não se justifica aguardar por tempo indefinido o resultado final da ação coletiva, também porque nenhuma lesão de direito pode ser excluída da apreciação do Poder Judiciário.
+Não obstante, no mandado de segurança coletivo foi efetivamente reconhecido o direito à incidência dos quinquênios e da sexta-parte sobre as vantagens permanentes dos associados e, pendente o julgamento de recursos extremos, não há notícia de excepcional atribuição de efeito suspensivo, de modo que a petição inicial preenche os requisitos do artigo 319 do Código de Processo Civil atual, não sendo causa de inépcia os motivos deduzidos nas contrarrazões de apelação.
+ ..
+O ora embargante não impugnou especificamente a referida fundamentação que, por si só, mantém o resultado do julgamento ocorrido na Corte de origem, o que caracteriza deficiência na argumentação recursal e implica a inadmissão do apelo, por força da aplicação analógica da Súmula 283/STF e também da Súmula 284/STF, por estarem as razões recursais dissociadas do contexto fático-jurídico apreciado pelo acórdão recorrido.
+Nesse sentido (grifos nossos):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO. INCIDÊNCIA DA SÚMULA 283 E 284/STF, POR ANALOGIA. CONCURSO PÚBLICO PARA INGRESSO NA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. FATOS DESABONADORES APURADOS NA FASE DE INVESTIGAÇÃO SOCIAL DO CANDIDATO. NÃO RECOMENDAÇÃO PARA O CARGO. LEGALIDADE DE SUA EXCLUSÃO DO CERTAME. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA.  ..
+2. A fundamentação utilizada pela Corte de piso para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.  ..
+5. Recurso Especial não conhecido. (REsp 1.789.623/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29/5/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 535 DO CPC/73. DISPOSITIVOS IMPLICITAMENTE PREQUESTIONADOS. AUSÊNCIA DE VIOLAÇÃO. SÚMULAS N. 283 E 284 DO STF. RAZÕES DISSOCIADAS. CAUSA DE PEDIR. AUSÊNCIA DE IDENTIDADE. REEXAME DO ACERVO FÁTICO. SÚMULA N. 7/STJ. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MEDIDA LIMINAR. RECURSO ESPECIAL. IMPOSSIBILIDADE. APLICAÇÃO POR ANALOGIA DA SÚMULA N. 735/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.  ..
+III - A parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido relativo à possibilidade do exercício do juízo de retratação. Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.  ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019)
+Ante o exposto, acolho os embargos de declaração, sem efeitos infrigentes.
+Publique-se. Intimem-se.
