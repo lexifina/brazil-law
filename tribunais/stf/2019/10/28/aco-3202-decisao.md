@@ -1,0 +1,17 @@
+EMBARGOS DE DECLARAÇÃO. AÇÃO CÍVEL ORIGINÁRIA. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO. OMISSÃO. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO PELA METADE. ART. 90, § 4º, CPC. EMBARGOS DE DECLARAÇÃO A QUE SE DÁ PROVIMENTO.
+    Decisão: Trata-se de embargos de declaração opostos da decisão monocrática em que se homologou o reconhecimento pela FUNASA de procedência do pedido formulado pelo Estado do Maranhão, nos termos do art. 487, III, do Código de Processo Civil.
+    Decidiu-se, assim, em virtude da manifestação da ré, mediante concordância do Estado autor, no sentido de que “a inadimplência do estado do Maranhão, em relação ao convênio objeto da lide, foi suspensa em virtude da instauração de tomada de contas especial, o que, por si só, não sendo o gestor atual o faltoso, autoriza a suspensão da inadimplência do ente federado”.
+    Em sede de embargos de declaração, o autor aponta omissão da decisão retro quanto à condenação em honorários advocatícios, nos termos do art. 90, do Código de Processo Civil.
+    É o relatório. Decido.
+    Assiste razão ao embargante em seu pleito.
+    Ab initio, destaca-se a dispensa à oitiva da parte embargada, haja vista a prévia manifestação da FUNASA, no sentido de que se aplique o art. 90, § 4º, CPC, ao presente caso. Trata-se de singela omissão que em nada modifica a decisão embargada, dispensando-se a necessidade de intimação da parte contrária, conforme previsto no art. 1.023, § 2º, CPC, sem haver qualquer afronta ao princípio do contraditório. Destarte, ante a ausência de efeito modificativo e a manifestação prévia em mesmo sentido da embargada, privilegia-se a celeridade processual, inspirada pela duração razoável do processo, para passar à análise dos embargos.
+    No que tange à omissão apontada, mostra-se cabível a condenação em honorários de sucumbência também em hipóteses de reconhecimento de procedência do pedido, haja vista o princípio da causalidade. Ou seja, muito embora, o réu reconheça de pronto o direito alheio, este ensejou o ajuizamento da ação, sendo o responsável pela mobilização do aparato judicial.
+    Contudo, conforme aponta o art. 90, § 4º, do Código de Processo Civil, “se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade”. Veja-se a doutrina de Renato Beneduzi sobre o tema:
+    “Trata-se de um estímulo benfazejo a que o réu satisfaça espontaneamente a obrigação cujo cumprimento lhe é reclamado, e sensato porque o processo terá dado menos trabalho e aborrecimentos ao autor do que teria se tivesse continuado adiante (menos trabalho, mas não nenhum trabalho, porque o autor terá de todo modo preparado, redigido e distribuído a petição inicial, o que não é pouca coisa” (BENEDUZI, Renato Resende. Comentários ao Código de Processo Civil: arts. 70 ao 187, v. 2, MARINONI, Luiz Guilherme (dir.), 1ª ed., São Paulo: Revista dos Tribunais, 2016, p. 143)
+    In casu, aliado ao reconhecimento de procedência, a FUNASA suspendeu prontamente o cadastro de inadimplência do Estado do Maranhão, de forma que a hipótese espelha perfeitamente o disposto no dispositivo supramencionado.
+    Ex positis, dou provimento aos embargos de declaração, para suprir a omissão apontada quanto à condenação em honorários advocatícios, os quais fixo em 5% do valor da causa, considerados os arts. 85, § 3º, I, e 90, § 4º, do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 28 de outubro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
