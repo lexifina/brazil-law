@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do NCPC), interposto por IGREJA APOSTÓLICA e OUTRO, contra decisão que não admitiu recurso especial (fls. 319/321, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 246, e-STJ):
+Nomeação de administrador provisório para entidade religiosa. Primaz da igreja apostólica já havia indicado sucessores. Documento que não fora desconstituído, portanto, por ora, tem validade e eficácia. Peculiaridades de entidades religiosas devem prevalecer. Não caracterização de ausência de administradores. Falta de interesse de agir configurada. Não preenchimento de uma das condições da ação impossibilita a entrega da prestação jurisdicional no mérito. Apelo desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, os recorrentes apontam ofensa aos artigos 49 do CC/02; 1103 do CPC/73; e 1022, I e II, do NCPC.
+Sustentam, em síntese, a necessidade de nomeação de administrador provisório imprescindível a continuidade da pessoa jurídica.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) ausente ofensa ao art. 1022 do NCPC; (ii) não houve demonstração das vulnerações legais suscitadas; e (iii) incidência da Súmula 7/STJ. Quanto à interposição do apelo excepcional pela divergência jurisprudencial, também verifica-se a ausência de cotejo analítico.
+Daí o presente agravo (art. 1042 do NCPC), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Quanto à apontada violação do artigo 1.022 do NCPC, não assiste razão aos recorrentes, porquanto uníssona a jurisprudência deste STJ no sentido de que inocorre a mácula quando clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Com efeito, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÃO. INVERSÃO DO ÔNUS DA PROVA E DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC (art. 535, I e II, do CPC/73). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+(AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+O que se vê, na verdade, no presente caso, é o inconformismo da ora recorrente com o fato de suas teses não terem sido acolhidas pelo órgão julgador.
+Desta forma, considerando que as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+2. Na espécie, o Tribunal de origem, confirmando a sentença, concluiu não haver interesse na demanda de nomeação de administrador provisório, "pois os administradores já foram indicados anteriormente", bem como consignou que "o fato de haver impugnação da contestação e eventual revelia, por si só, não enseja o acolhimento da pretensão (..), mesmo porque, a validade e a eficácia do documento de pág. 92 não foram desconstituídas, não bastando mera impugnação neste autos".
+Consoante denotam os seguintes excertos do acórdão recorrido (fls. 247/249, e-STJ):
+2. A r. sentença apelada merece ser mantida.
+A inicial fez constar que a entidade religiosa coautora estaria sem representação legal e, em decorrência dessa situação, pleiteou a nomeação de administrador provisório juntamente com o coautor.
+Por outro lado, o representante legal da Igreja Apostólica, antes do seu falecimento, indicara quem seriam os administradores, consoante o documento de pág. 92.
+Desta forma, não se vislumbra o interesse de agir dos integrantes do polo ativo, mesmo porque, não sendo desconstituído o mencionado documento, por ora, está apto à validade e eficácia, uma vez que se trata de entidade religiosa e tem suas peculiaridades interna corporis, não cabendo ao Judiciário interferir nas decisões abrangendo o corpo diretivo.
+(..)
+Assim, não se identifica supedâneo para a pretensão de nomeação de administrador provisório, pois os administradores já foram indicados anteriormente, e se por acaso houver alguma irregularidade, que seja desconstituída a indicação, contudo, a priori, não existe o suporte para desconsiderar o que já fora estabelecido, porquanto nada caracteriza a ausência de administrador.
+Com efeito, a igreja em referência tem a administração apontada, e não havendo vacância do cargo, não há que se falar em nomeação de administrador provisório, consequentemente, sendo desnecessária a prestação jurisdicional, não se encontra preenchida uma das condições da ação.
+(..)
+Frise-se que o fato de haver impugnação da contestação e eventual revelia, por si só, não enseja a acolhimento da pretensão dos autores, posto que a validade e a eficácia do documento de pág. 92, enquanto não desconstituído, está apta a prevalecer.
+Convém colacionar, ainda, o trecho da r. sentença recorrida no ponto (fls. 203/204, e-STJ):
+O interesse de agir consiste na necessidade de intervenção do Poder Judiciário, mediante a utilização da via adequada. É comumente expresso no binômio interesse-necessidade e interesse-adequação. A primeira, por não se obter solução extraprocessual e a segunda, para que o provimento não atribua eficácia de que já se contém.
+Pois bem, ingressaram os autores com ação para ver nomeado administrador provisório da organização religiosa, com pedido liminar.
+Sucede, todavia, que, o Estatuto da Igreja Apostólica, mais especificamente, o artigo 16 (fls. 24), disciplina a questão atinente à "vaga na Direção, por falecimento de qualquer dos diretores", não havendo necessidade de intervenção judicial, pois já contido na própria constituição da entidade religiosa as formalidades para a sucessão.
+Atente-se, a propósito que o Sr. [NOME], Diretor Superintendente Geral da mencionada organização religiosa, antes do falecimento, nomeou membros para exercício dos cargos de diretoria da igreja para a hipótese do seu falecimento, conforme se observa pelo documento de fls. 92, o que lhe facultava o artigo 16 do referido Estatuto.
+Ainda que tenha havido posterior "desistência da contestação", é certo que o julgador não pode ignorar os documentos juntados com a referida peça, os quais, na espécie, deixam clara a desnecessidade de intervenção judicial para a continuidade da Igreja Apostólica.
+Por fim, não cabe a esta Magistrada emitir juízo de valor sobre o melhor caminho para nomeação de membros da diretoria na hipótese de vacância dos cargos, mas meramente verificar, objetivamente, a forma de sucessão prevista no Estatuto.
+Desse modo, inevitavelmente, para rever tais conclusões, seria imprescindível a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Além disso, os recorrentes não demonstraram a divergência jurisprudencial nos moldes exigidos pelos artigos 1029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+Ademais, não restou caracterizada a sugerida divergência pretoriana, ante a ausência de similitude fática entre os paradigma citado (REsp 709.934/RJ) e a hipótese dos autos, nos quais, como visto, a Corte de origem afastou o interesse processual para o ajuizamento da ação de nomeação de administrador provisório. Por seu turno, o suposto julgado divergente aplica a Teoria do Fato Consumado em hipótese na qual se discute a transferência de dependente de servidor militar, removido ex officio e no interesse da Administração, de entidade privada de ensino superior para universidade pública.
+5. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
