@@ -1,0 +1,10 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno (e-STJ fls. 1295/1330), reconsidero a decisão agravada (e-STJ fls. 1289/1292) e passo a uma nova análise do agravo em recurso especial interposto por [NOME] e OUTROS contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+A ação versa sobre o direito de cobertura securitária do Seguro Habitacional para imóveis que foram financiados sob a égide do Sistema Financeiro de Habitação.
+É o relatório. Decide-se.
+Em 05/10/2018, o Plenário do Supremo Tribunal Federal, por maioria de votos, nos autos do RE 827.996/PR, reconheceu a existência de repercussão geral da matéria relativa a possível interesse jurídico da CEF nas ações que envolvem seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação.
+Ressalte-se que o reconhecimento da repercussão geral sobre o tema influencia diretamente na discussão acerca da competência para processar e julgar os feitos desta natureza, tornando por ora inócua a apreciação, por esta Corte Superior, dos recursos que versam sobre a controvérsia.
+Isso porque a definição acerca do interesse jurídico da CEF nas lides desta natureza e, via de consequência, da competência para o julgamento e processamento dos respectivos processos poderá implicar na nulidade de todos os atos processuais praticados pela Justiça Estadual ou Justiça Federal.
+Destarte, por medida de economia processual, e também para evitar decisões dissonantes entre o STF e o STJ, impõe-se a devolução dos autos -  cuja questão é objeto de debate - à Corte de origem, para que lá aguardem o desfecho do recurso extraordinário cuja repercussão geral foi reconhecida.
+Forte nessas razões, reconsidero a decisão anteriormente proferida e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a devida baixa nesta Corte, para que lá permaneçam suspensos até a publicação do acórdão a ser proferido no RE 827.996/PR, observando-se o disposto nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
