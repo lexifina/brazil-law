@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. REGIME FECHADO. ILEGALIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA AGRAVAMENTO DO REGIME PRISIONAL. VERBETES SUMULARES N.os 440/STJ, 718 E 719/STF. CABÍVEL O REGIME INICIAL ABERTO. ORDEM CONCEDIDA. CONFIRMADA A LIMINAR.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALAN DE SOUZA PROENÇA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido nos autos da Apelação Criminal n.º 1500249-80.2018.8.26.0571.
+Consta nos autos que o Paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, além do pagamento de 166 (cento e sessenta e seis) dias-multa, pela prática do crime previsto no art. 33, caput e § 4.º, da Lei n.º 11.343/2006, pois surpreendido na posse de uma porção de cocaína, pesando 1,32g (um grama e trinta e dois centigramas), e mais 4 (quatro) porções de cocaína, com peso aproximado de 5,06g (cinco gramas e seis centigramas).
+Contra a sentença, a Defesa interpôs apelação, que não foi provida (fls. 45-62).
+Neste writ, sustenta a Defesa que o Paciente deveria iniciar o cumprimento da reprimenda privativa de liberdade em regime aberto, porquanto o fechado foi imposto tão somente em razão da gravidade abstrata do delito pelo qual foi condenado, com base nas circunstâncias próprias do tipo.
+Aduz que deve ser aplicado, na hipótese, o entendimento sedimentado nas Súmulas 440 do STJ e 718 e 719, ambas da Suprema Corte.
+Requer, inclusive liminarmente, a fixação do regime inicial aberto, sustando-se a expedição do mandado de prisão.
+O pedido liminar foi deferido para assegurar ao Paciente o cumprimento da pena privativa de liberdade imposta no regime inicial aberto, até o julgamento definitivo deste writ (fls. 71-73).
+As informações foram prestadas às fls. 82-90 e 93-118.
+O Ministério Público Federal opinou pela concessão da ordem "para fixar o regime prisional inicial aberto e, de ofício, substituir a pena privativa de liberdade por restritivas de direitos" (fl. 126).
+É o relatório. Decido.
+O Tribunal a quo manteve o regime inicial fechado com base na seguinte fundamentação (fl. 54):
+"O regime fechado era mesmo de rigor.
+Conquanto a pena tenha sido fixada aquém do patamar de 08 (oito) anos de reclusão, necessários para a imposição do regime fechado (artigo 33, § 2º, alínea "a", do Código Penal), consoante orientação do Superior Tribunal de Justiça a quantidade e a natureza dos entorpecentes apreendidos, bem como as circunstâncias da ocorrência (tráfico exercido na via pública, próximo de um bar), como se dá no caso em apreço, são fatores que podem justificar o regime prisional fechado como o mais adequado para o cumprimento da pena privativa de liberdade, nos termos do artigo 33, §§2º e 3º, do Código Penal."
+Como se vê, a Corte local fixou o regime inicial fechado com base na gravidade abstrata do delito e em razão da quantidade e da natureza das drogas apreendidas.
+Tal fundamentação, porém, não tem o condão de justificar o regime prisional fechado, tendo em vista a pena definitiva fixada - 1 (um) ano e 8 (oito) meses de reclusão -, com pena-base no mínimo legal, a primariedade do Paciente e a pequena quantidade de droga encontrada (6,38g de cocaína), circunstâncias que autorizam o estabelecimento do regime inicial aberto.
+Exemplificativamente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 APLICADA NO GRAU MÁXIMO. PEQUENA QUANTIDADE DE DROGA APREENDIDA. AUSÊNCIA DE FUNDAMENTOS IDÔNEOS PARA A IMPOSIÇÃO DO REGIME INICIALMENTE FECHADO DE CUMPRIMENTO DA REPRIMENDA (1 ANO E 8 MESES DE RECLUSÃO). ABRANDAMENTO DO REGIME PRISIONAL PARA O ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Na espécie, além da quantidade não expressiva de droga encontrada em poder do acusado (15,7g de cocaína, 20,8g de maconha e 0,2g de crack), não houve fundamentação idônea para a fixação do regime prisional mais severo e, considerando a pena definitivamente aplicada - 1 ano e 8 meses de reclusão -, ressaltando que a pena-base foi fixada no mínimo legal e que a minorante foi concedida na fração máxima, deve ser mantido o regime inicialmente aberto para cumprimento da reprimenda, bem como a substituição da pena privativa de liberdade por medidas restritivas de direitos, pois preenchidos os requisitos do art. 44 do Código Penal.
+4. Agravo regimental desprovido." (AgRg no HC 514.996/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/08/2019, DJe 29/08/2019; sem grifos no original.)
+Ante o exposto, CONCEDO a ordem de habeas corpus para confirmar a decisão liminar e, por conseguinte, determinar o regime inicial aberto para o inicial cumprimento da pena do Paciente, com as condições a serem definidas pelo Juízo das Execuções Penais.
+Publique-se. Intimem-se.
