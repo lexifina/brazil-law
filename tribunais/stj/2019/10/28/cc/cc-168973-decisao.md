@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, tendo como suscitados, de um lado, o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE INDAIAL - SC e, de outro, o JUÍZO DA VARA DO TRABALHO DE INDAIAL - SC.
+Alega a suscitante, BENEX BENEFICIAMENTO TEXTIL LTDA EM RECUPERACAO JUDICIAL - EM RECUPERAÇÃO JUDICIAL que o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE INDAIAL - SC deferiu o processamento da recuperação judicial, tendo sido aprovado o respectivo plano de soerguimento (fls. 3-4).
+Todavia, o JUÍZO DA VARA DO TRABALHO DE INDAIAL - SC concluiu ser "competente para analisar pedido de Incidente de Desconsideração de Personalidade Jurídica, pois entende que a execução poderá ser direcionada aos sócios, mesmo estando a Suscitada em processo de recuperação judicial e os créditos da execução estejam habilitados", ao passo que a suscitante entende ser indevida tal medida, deflagrando o presente conflito e requerendo a concessão de medida liminar para suspender o referido procedimento de desconsideração da personalidade jurídica, com a seguinte argumentação:
+a) Seja deferida medida liminar, ante a existência de fumus boni iuris e o periculum in mora para, determinar a competência dos atos constritivos ao Juízo da Recuperação Judicial (autos n. 0303554-69.2016.8.24.0031), determinar o sobrestamento da demanda executiva até o julgamento final do conflito, autos n. 0000031-67.2017.5.12.0033, em trâmite na Vara do Trabalho de Indaial - SC, nos termos do art. 196 do Regimento Interno do Superior Tribunal de Justiça;
+É o relatório.
+2. Com efeito, o art. 300 do CPC/2015 impõe como requisitos necessários à concessão da tutela de urgência a verificação tanto da probabilidade do direito pleiteado quanto do perigo de dano ou do risco ao resultado útil do processo.
+No caso, não obstante os argumentos expendidos pela suscitante, não foram demonstrados adequadamente os requisitos supracitados, uma vez que não se verifica qualquer ato de constrição ao patrimônio da empresa recuperanda ou mesmo a presença da probabilidade do direito pleiteado ou risco ao resultado útil do processo.
+Pelo contrário, aparentemente, não há probabilidade do direito pleiteado uma vez que esta Corte Superior entende que "a desconsideração da personalidade jurídica de empresa recuperanda por juízo diverso daquele em que se processa a recuperação judicial não caracteriza, por si só, conflito de competência" (AgInt no CC 149.346/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017).
+Confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DO JUÍZO TRABALHISTA PARA RECONHECIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO MANTIDA.
+1. "A desconsideração da personalidade jurídica de empresa recuperanda por juízo diverso daquele em que se processa a recuperação judicial não caracteriza, por si só, conflito de competência" (AgInt no CC 149.346/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017).
+2. "Se a adjudicação ocorrer antes da declaração da falência, esta não deve ser anulada. Por outro lado, caso a adjudicação se dê depois do decreto falimentar, o ato deve ser desfeito, com a integração do bem à massa falida objetiva" (EDcl nos EDcl nos EDcl no AgRg no CC 109.541/PE, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/9/2012, DJe 23/4/2013).
+3. No presente caso, a Justiça do Trabalho desconsiderou a personalidade jurídica da empresa reclamada e penhorou bem do sócio ora suscitante antes da decretação de sua falência. A adjudicação do referido imóvel ao credor trabalhista também ocorreu antes que o Juízo universal voltasse a execução coletiva contra o patrimônio dos sócios. Portanto, compete ao juízo laboral a prática dos atos tendentes a ultimar a adjudicação.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC 144.387/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 08/05/2019, DJe 20/05/2019)
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO TRABALHISTA - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - CONSTRIÇÃO DE BENS DOS SÓCIOS - INEXISTÊNCIA DE CONFLITO - SÚMULA 480/STJ.
+1. Não configura conflito de competência, em regra, a constrição de bens dos sócios da empresa em recuperação judicial, à qual foi aplicada, na Justiça Especializada, a desconsideração da personalidade jurídica. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no CC 155.358/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/05/2018, DJe 30/05/2018)
+3. Ante o exposto, indefiro o pedido liminar.
+4. Comunique-se, o inteiro teor desta decisão aos juízos suscitados, a quem devem ser solicitadas informações (art. 954 do NCPC).
+5. Ouça-se, em seguida, o Ministério Público Federal (art. 956 do NCPC).
+Publique-se. Intimem-se. Oficiem-se.
