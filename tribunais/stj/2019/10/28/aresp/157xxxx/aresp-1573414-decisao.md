@@ -1,0 +1,15 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA.
+Alega violação dos arts. 158 e 167 do CPP, no que concerne ao decote da qualificadora de rompimento de obstáculo, ante a inexistência de exame pericial, trazendo o(s) seguinte(s) argumento(s):
+ Compulsando os autos, verifica-se que na instrução probatória houve confissão genérica do acusado e do corréu, oitiva da vítima e dispensadas, pelo parquet, as duas únicas testemunhas arroladas. NÃO HOUVE PROVA PERICIAL. Na sentença, a Juíza de piso afirma que apesar de não haver perícia, é possível a comprovação da qualificadora do rompimento de obstáculo pelas palavras das testemunhas. Vide: .. (fls. 470).
+ Ocorre que NENHUMA TESTEMUNHA FOI OUVIDA! repita- se, NENHUMA. Como pode a qualificadora embasar-se na "palavra das testemunhas"  No tocante às confissões, ambas foram genéricas, sem precisar o modus operandi. Ainda que assim não o fossem, ao teor do texto expresso do art. 158, não serviriam para suprir a falta de exame pericial. (fls. 470).
+ Ainda na fundamentação da sentença, a N. Magistrada afirma que a prova de rompimento pode ser feita por qualquer meio, não sendo obrigatório o laudo pericial, pois nem sempre o crime de furto assim praticado deixa vestígios materiais. Vejamos: (fls. 471).
+ Deixou, contudo, de enfrentar, de forma concreta, o suposto desaparecimento de vestígios ou a impossibilidade de elaboração do laudo pericial. Ao contrário, expos, na própria sentença, trechos do depoimento da vítima, que afirma que em relação ao portão da frente, por tê-lo trocado, QUALQUER CHAVE O ABRIA, o que indica prescindir de arrombamento para adentrar na casa. Já em relação à porta do fundo, traz, no bojo da decisão, declaração da vítima de que "O MIOLO INTEIRO SAIU" e que era "VISÍVEL", a indicar a POSSIBILIDADE DE REALIZAÇÃO DE PERÍCIA. (fls. 471).
+ Destarte, é manifesta a ilegalidade sofrida pelo recorrente, o que enseja o decote da qualificadora e a submissão do feito à primeira instância para nova dosimetria da reprimenda a ser imposta, sob pena de supressão de instância. (fls. 477).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
