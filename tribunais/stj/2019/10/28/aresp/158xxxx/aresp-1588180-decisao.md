@@ -1,0 +1,15 @@
+DECISÃO
+
+Trata-se de agravo apresentado por SONIA MARIA DE OLIVEIRA ANJOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA PROVISÓRIA EXAME DE PESQUISA GENÉTICA PARA DETECÇÃO PRECOCE DO CÂNCER AUSÊNCIA DE COMPROVAÇÃO DE DOENÇA INSTALADA TAMPOUCO ESSENCIALIDADE DO EXAME NA DE DETECÇÃO E CONTROLE DIAGNÓSTICO TUTELA PROVISÓRIA INDEFERIDA REQUISITOS LEGAIS NÃO CONFIGURADOS DECISÃO MANTIDA RECURSO IMPROVIDO
+Quanto à controvérsia trazida aos autos, a parte recorrente traz alegações acerca da necessidade de concessão de tutela provisória para realização de exames médicos.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ademais, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
