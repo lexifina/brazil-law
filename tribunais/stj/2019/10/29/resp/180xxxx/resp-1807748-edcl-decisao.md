@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de NOVOS embargos de declaração opostos por MEDISANITAS BRASIL ASSISTÊNCIA INTEGRAL A SAÚDE S/A à decisão de fls. 287/289, que rejeitou os embargos.
+Sustenta a parte embargante que:
+A r. decisão fundamentou que a Recorrente, ora Embargada, fora intimada para regularizar o preparo no STJ, oportunidade na qual ela pagou a guia em dobro. Todavia, irrisório equívoco fora cometido quanto ao número do processo: 1003503-05.2016.8.26.0114 (fl. 210) e na guia consta o n.º 003503-05.2016.8.26.0114 (fl.269).
+Conforme se observa, apenas o número 1 (um) não consta na guia. Porém, o restante da guia estava completamente correto, como o nome da Recorrente e da Recorrida e seus respectivos dados pessoais. (fl. 291)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O ora embargante, novamente, insiste na regularidade do preparo, alegando desta vez que efetuou o pagamento em dobro e que houve apenas um equívoco irrisório quanto ao número do processo na origem.
+Quanto à regularidade do preparo, conforme já consignado na decisão ora embargada, a parte intimada no STJ para regularizar o preparo (fls. 262/263), não regularizou, uma vez que ao efetuar o novo recolhimento, constante às fls. 268/269, fez a indicação errônea do "Número do Processo que Consta no Acórdão Recorrido" na guia de recolhimento das custas devidas ao STJ.
+Registre-se que o recolhimento efetuado, a título de custas judiciais, deve ser realizado de acordo com o disposto na Resolução do Superior Tribunal de Justiça vigente à época da interposição do recurso, a qual dispõe que no momento do preenchimento da GRU Cobrança deverão ser indicados obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+Assim, conforme entendimento deste Superior Tribunal de Justiça a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do número do processo - caracteriza a sua deserção. Nesse sentido, os seguintes precedentes: AgRg nos EDcl no AREsp 542.298/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018, AgInt no REsp 1684202/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/02/2018, DJe 14/02/2018).
+Diante do exposto, rejeito os embargos de declaração e, outra conclusão não se faz possível senão a de que a reiteração de embargos de declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do artigo 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
