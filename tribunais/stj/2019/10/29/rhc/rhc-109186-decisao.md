@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARIA FERREIRA DOS SANTOS, contra acórdão proferido pelo Tribunal de Justiça do Estado de Roraima (HC n. 9001248-02.2018.8.23.0000).
+Extrai-se dos autos que a recorrente foi presa preventivamente em 10/6/2018, e denunciada pela suposta prática dos delitos previstos no art. 121, § 2º, II e IV, c.c. o art. 14, II, ambos do Código Penal (homicídio qualificado tentado) e art. 16 da Lei n. 10.826/03 (posse ou porte ilegal de arma de fogo de uso restrito).
+Irresignada com a manutenção da prisão preventiva, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. MOTIVO FÚTIL E DISSIMULAÇÃO. POSSIVELMENTE PREMEDITADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL ENCERRADA EM 10/09/2018. SÚMULA 52 DO STJ. ORDEM DENEGADA. CONSONÂNCIA COM O PARECER MINISTERIAL (fl. 122).
+No presente recurso, alega a existência de excesso de prazo na formação da culpa. Salienta que somente após 90 dias da prisão foi realizada audiência de instrução e julgamento, com posterior despacho para apresentação de alegações finais, sem data prevista para sentença.
+Aponta a presença de condições pessoais favoráveis.
+Destaca ausentes os requisitos previsto no art. 312 e 313 do Código de Processo Penal.
+Requer, assim, em liminar e no mérito, o relaxamento da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Inicialmente, verifica-se, no presente mandamus, que não foi juntado aos autos cópia integral do acórdão que analisou a fundamentação da prisão preventiva, documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração. Nesse sentido, confiram-se os seguintes precedentes, entre outros:
+PENAL E PROCESSUAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INTERROGATÓRIO DOS RÉUS. OBSERVÂNCIA DA DISPOSIÇÃO CONTIDA NO ART. 57 DA LEI N. 11.343/2006. NULIDADE. INOCORRÊNCIA. LEI ESPECIAL QUE SE APLICA À HIPÓTESE. DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA.
+1. O habeas corpus, em sua via estreita, deve vir instruído com todas as provas pré-constituídas que permitam sua análise, uma vez que não admite dilação probatória.
+2. Hipótese em que, ausente o decreto de prisão preventiva, resta impossibilitado o exame de eventual constrangimento ilegal decorrente da medida extrema.
+3. A especialidade da disposição contida no art. 57 da Lei n. 11.343/2006 prevalece sobre a regra geral do Código de Processo Penal (art. 400), de modo que o interrogatório do réu deve ocorrer antes da oitiva das testemunhas.
+4. Em obediência ao princípio pas de nullité sans grief, que vigora no processo penal pátrio (art. 563), não se declara nulidade de ato se dele não resulta prejuízo para nenhuma das partes. Precedentes.
+5. Recurso ordinário em habeas corpus conhecido em parte e, nessa extensão, desprovido (RHC 37.373/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 09/09/2015).
+PENAL E PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REVOGAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO QUE DECRETOU A SEGREGAÇÃO CAUTELAR. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE NA VIA ELEITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+I - Impede o conhecimento do recurso em habeas corpus a insuficiência na sua instrução, notadamente como na hipótese, onde não foi juntada pelo recorrente a cópia da r. decisão que decretou a sua prisão preventiva (precedente).
+II - Uma vez que o MM. Juízo de 1º grau inferiu - de maneira devidamente fundamentada - que houve o efetivo exercício da traficância, infirmar a condenação do paciente com vistas à absolvição do delito demandaria, necessariamente, o amplo revolvimento da matéria fático-probatória, o que é vedado na via eleita (precedentes do STF e do STJ).
+Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido (RHC 60.757/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 24/09/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. "Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Rel. Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+(..)
+4. Habeas corpus não conhecido (HC 321.025/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/08/2015).
+No tocante ao alegado excesso de prazo, em consulta à página eletrônica do Tribunal de origem, constata-se a superveniência de sentença de pronúncia em 31/1/2019, nos autos da Ação Penal n. 0811731-84.2018.8.23.0010.
+Assim, com o advento da sentença de pronúncia, restam superadas as alegações de constrangimento por excesso de prazo, nos termos do Enunciado n. 21 da Súmula do STJ, que prevê:
+"Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução."
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO CAUTELAR. RISCO PARA A GARANTIA DA ORDEM PÚBLICA. REQUISITOS DA PRISÃO PREVENTIVA. PRESENÇA. GRAVIDADE CONCRETA DO DELITO. DECISÃO FUNDAMENTADA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. EXCESSO DE PRAZO. SÚMULA 21 DO STJ.
+1. A matéria relativa à suposta ausência de provas ou indícios da autoria delitiva não pode, em princípio, ser alvo de apreciação, em virtude da necessidade do reexame do material fático-probatório da lide, o que é inviável nesta via, rito célere e de cognição sumária.
+2. Tendo sido proferida a sentença de pronúncia, fica afastada a alegação de excesso de prazo da prisão preventiva, nos termos da Súmula 21 desta Corte: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+3. Hipótese em que a custódia cautelar foi mantida na sentença de pronúncia, porque subsistentes os motivos que o levaram a decretá-la, bem como pelo fato de o paciente ter permanecido preso durante toda a instrução.
+4. Prisão preventiva decretada, originariamente, em razão da gravidade concreta do crime de homicídio qualificado, bem como porque o réu já se encontrava preso em razão de outro processo.
+5. "Demonstrada a necessidade concreta da custódia provisória, a bem do resguardo da ordem pública, as medidas cautelares alternativas à prisão, introduzidas pela Lei n.º 12.403/2011, não se mostram suficientes e adequadas à prevenção e à repressão do crime" (HC 261.128/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 23/04/2013, DJe 29/04/2013).
+6. Agravo desprovido (AgRg no HC 404.686/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/10/2018, DJe 10/10/2018).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO. SUPERVENIÊNCIA DA SENTENÇA DE PRONÚNCIA. HABEAS CORPUS INCIDÊNCIA DA SÚMUA 21 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+Verifica-se que o réu foi pronunciado no dia 28/08/2017, restando prejudicada a irresignação pela superveniência da sentença de pronúncia, conforme a Súmula 21 do STJ "Pronunciado o réu, fica superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução".
+Agravo regimental desprovido (AgRg no HC 413.543/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+AGRAVO REGIMENTAL NO RECURSO HABEAS CORPUS. PRISÃO. EXCESSO DE PRAZO. PROLAÇÃO DE SENTENÇA DE PRONÚNCIA. FORMAÇÃO DE NOVO TÍTULO PRISIONAL. NECESSIDADE DE SUBMISSÃO DA MATÉRIA AO TRIBUNAL DE ORIGEM. MANUTENÇÃO DA DECISÃO IMPUGNADA QUE SE IMPÕE. RECURSO IMPROVIDO.
+1. "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução" (Súmula n. 21, Terceira Seção, DJ 11/12/1990).
+2. O agravante responde à ação criminal por ter cometido, em tese, delito de homicídio qualificado em 27/6/2006, em que ceifou a vida da vítima com diversos disparos de arma de fogo, e de lesão contra outras duas vítimas.
+3. Desde então, o agravante permaneceu foragido por mais de 7 anos, tendo sido capturado em outro estado da federação, além de se tratar de feito que demandou expedição de diversas cartas precatórias e da redesignação de várias audiências em razão da dificuldade de se encontrar as testemunhas, provavelmente decorrente do distanciamento temporal entre o fato e sua apuração, dilatado por ação do ora agravante.
+4. Agravo regimental a que se nega provimento (AgRg no RHC 99.037/AL, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018).
+Ante o exposto, nos termos do art. 34, inciso XVIII, alínea a, do RISTJ, não conheço do recurso.
+Publique-se.
+Intimem-se.
