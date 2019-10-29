@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"ALIENAÇÃO FIDUCIÁRIA BUSCA E APREENSÃO - Incontroverso que celebrados dez contratos de financiamento (com garantia de alienação fiduciária referente a veículos) e que inadimplidas as parcelas avençadas - Ausente o pagamento da integralidade do débito (parcelas vencidas e vincendas) - Inaplicável a teoria do adimplemento substancial - SENTENÇA DE PROCEDÊNCIA, para "decretar a rescisão dos contratos de financiamento FPS28320, FPS29586, FPS32317, FPS36143, FPS36979, FPS37892, FPS37893, FPS41194, FPS42579 e FPS42582", para consolidar a posse e a propriedade plena dos bens em favor do Autor e para, em relação aos contratos FPS28320, FPS29586 FPS32317, FPS36143, FPS36979, FPS37892, FPS37893 e FPS41194, "declarar a nulidade da cláusula 6.6, para que, na hipótese de inadimplemento, incida apenas a comissão de permanência, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato" - RECURSO DA REQUERIDA IMPROVIDO"(e-STJ fl. 492).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, a violação dos artigos 99, § 7º e 1007 do Código de Processo Civil de 2015, diante do indeferimento da assistência judiciária gratuita.
+Ao final, postula a abertura do prazo de 5 dias para o recolhimento do preparo, nos termos do art. 1007, § 6º, do CPC/2015.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+A jurisprudência desta Corte é firme no sentido de que é defeso ao Tribunal de origem aplicar a pena de deserção antes de analisar a possibilidade de deferimento, ou não, do referido benefício, inclusive, se for o caso, com a abertura de prazo para que a parte proceda ao recolhimento da custas, em caso de indeferimento.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE PROMESSA DE COMPRA E VENDA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA. APELAÇÃO DESERÇÃO. NECESSIDADE DE MANIFESTAÇÃO ACERCA DO PEDIDO. SÚMULA 83/STJ. EXTINÇÃO DO PROCESSO POR DESÍDIA DA PARTE OU ABANDONO DA CAUSA. INTIMAÇÃO PESSOAL DO AUTOR. IMPRESCINDÍVEL. AGRAVO IMPROVIDO.
+1. A falta do recolhimento do preparo da apelação não autoriza o Tribunal a decretar a deserção do recurso, sem que haja prévia manifestação acerca do pedido de gratuidade de justiça, que constitui o mérito do próprio apelo, e caso seja negada, deve ainda possibilitar abertura de prazo para o recolhimento do preparo. Precedentes.
+2. Tendo o Tribunal de Justiça concluído que o demandante descumpriu o disposto no art. 267, II e III, do CPC, faz-se imprescindível a intimação pessoal do autor para a extinção do feito, de acordo com o entendimento desta Corte Superior. Precedentes.
+3. Estando o acórdão proferido na origem em consonância com a jurisprudência deste Tribunal Superior, não há que se falar em dissídio, conforme preconiza o enunciado n. 83 da Súmula desta Corte, verbete este que, inclusive, aplica-se para ambas as alíneas (a e c) do permissivo constitucional (AgRg no AREsp n. 83.758/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/8/2014).
+4. Agravo regimental a que se nega provimento" (AgRg no AREsp 655.411/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 30/04/2015).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. AGRAVO REGIMENTAL CUJO PREPARO NÃO FOI RECOLHIDO. DESERÇÃO. NÃO CABIMENTO SEM FIXAÇÃO DE PRAZO PARA RECOLHIMENTO. ART. 99 DO CPC/2015.
+I - No caso dos autos, discute-se a própria gratuidade judiciária, conforme se percebe na fl. 53 do agravo regimental que foi considerado deserto. Assim, a decisão recorrida está em conformidade com a jurisprudência desta Corte, que exige a abertura de prazo para o recolhimento do preparo em recurso que discute a gratuidade judiciária.
+II - "É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício". (AgRg nos EREsp 1.222.355/MG, Rel. Ministro Raul Araújo, Corte Especial, julgado em 4/11/2015, DJe 25/11/2015).
+III - A jurisprudência do STJ está orientada no sentido de que " ..  não cabe a declaração imediata da deserção por falta de recolhimento do preparo, pois, caso o benefício da assistência judiciária seja deferido, há autorização judicial que supre a ausência do recolhimento do preparo; caso o pedido seja negado, deve-se abrir à parte oportunidade para regularizar o preparo".
+(AgRg no REsp 1.245.981/DF, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2012, DJe 15/10/2012).
+IV - Ao negar o benefício da justiça gratuita, deveria o Tribunal a quo fixar prazo para o recolhimento do preparo, em conformidade com a diretriz insculpida no art. 99 do CPC, o que não fez. Daí o parcial provimento do recurso ordinário, para determinar o retorno dos autos à Corte Estadual. Nesse sentido: AgInt no RMS 49.168/AC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/9/2016, DJe 6/10/2016.
+V - Agravo interno improvido."
+(AgInt no RMS 49.194/AC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+No que concerne à justiça gratuita, o Tribunal de origem assim consignou:
+"O artigo 99, parágrafo 3º, do Código de Processo Civil, possibilita a concessão do benefício da gratuidade processual (à pessoa natural) mediante simples afirmação de impossibilidade de pagamento das custas e despesas processuais.
+Assim, consolidado o entendimento de que incumbe à pessoa jurídica "demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481 do Superior Tribunal de Justiça).
+Logo, cumpria à Requerida (pessoa jurídica) a comprovação da impossibilidade de arcar com as custas e despesas processuais, o que não ocorreu, ressaltando-se que não demonstrada a alteração da capacidade financeira no curso do processo" (e-STJ fls. 493/494).
+Por fim, determinou:
+"Recolha a Requerida as custas recursais, sob pena de expedição de ofício (na Vara de origem), para eventual inscrição da dívida" (fl. 496 e-STJ).
+Verifica-se, portanto, que não foi declarada a pena de deserção e que a recorrente foi intimada a recolher o preparo. Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
