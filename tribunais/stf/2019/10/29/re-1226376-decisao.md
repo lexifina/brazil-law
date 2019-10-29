@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 2, p. 52-59):
+    “TRIBUTÁRIO. IPI. PRODUTO INDUSTRIALIZADO. CIRCULAÇÃO JURÍDICA. FATO GERADOR. IMPORTADOR. ESTABELECIMENTO EQUIPARADO A INDUSTRIAL. DESEMBARAÇO ADUANEIRO. SAÍDA DO ESTABELECIMENTO. BITRIBUTAÇÃO. FATOS GERADORES E CONTRIBUINTES DIVERSOS. HONORÁRIOS ADVOCATÍCIOS.
+    1. O IPI não recai sobre a atividade de industrialização, de elaboração do produto, mas sobre o resultado do processo produtivo, ou seja, a operação jurídica que envolve a prática de um ato negocial do qual resulte a circulação econômica da mercadoria.
+    2. Mostra-se equivocada a assertiva de que a operação jurídica abrange somente o fabricante e o adquirente direto do bem industrializado, não abarcando situações em que a mercadoria não foi industrializada por nenhuma das partes envolvidas no negócio jurídico de transmissão da propriedade ou posse.
+    3. O cerne da incidência do IPI, de acordo com o art. 153, inciso IV, da CF, é a operação jurídica que faz circular o produto industrializado.
+    4. A parte autora é contribuinte importador (art. 51, inciso I, do CTN e art. 24, inciso I, do Decreto 7.212/2010), uma vez que ocorreu exatamente a situação fática prevista na norma. Nesse momento, houve fato gerador do IPI (art. 46, inciso I, do CTN e art. 35, inciso I, do RIPI) e a nacionalização das mercadorias.
+    5. A legislação tributária prevê nova hipótese de operação jurídica que promove a circulação dos bens, após a nacionalização (art. 4º, inciso I, da Lei nº 4.502/1964). Assim, nova incidência do IPI ocorre quando houver a saída das mercadorias do estabelecimento equiparado a industrial, em consonância com o disposto no art. 46, inciso II, combinado com o art. 51, inciso II e parágrafo único, do CTN.
+    6. Nas duas hipóteses examinadas houve circulação do produto industrializado, consoante o fato gerador descrito na lei: desembaraço aduaneiro, praticado pelo importador; saída econômico-jurídica, praticada pelo estabelecimento equiparado a industrial. Resta afastada a pecha de bitributação, visto que há fatos geradores e contribuintes diversos, embora a mesma pessoa jurídica figure como contribuinte.
+    7. Entendimento pacificado na 1ª Seção em 07.02.2013, nos Embargos Infringentes 5002923-29.2010.404.7209.
+    8. Honorários advocatícios majorados, em quantia compatível com o disposto no § 4º do art. 20 do CPC e os critérios previstos nas alíneas 'a', 'b' e 'c' do § 3º do mesmo artigo.”
+    De plano, verifica-se que a controvérsia cinge-se ao Tema 906 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 946.648, de relatoria do Ministro Marco Aurélio, DJe 05.10.2016, assim ementado:
+    “IMPOSTO SOBRE PRODUTO INDUSTRIALIZADO - IPI - DESEMBARAÇO ADUANEIRO - SAÍDA DO ESTABELECIMENTO IMPORTADOR - INCIDÊNCIA - ARTIGO 150, INCISO II, DA CONSTITUIÇÃO FEDERAL - ISONOMIA - ALCANCE - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa à incidência do Imposto sobre Produtos Industrializados - IPI na saída do estabelecimento importador de mercadoria para a revenda, no mercado interno, considerada a ausência de novo beneficiamento no campo industrial.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
