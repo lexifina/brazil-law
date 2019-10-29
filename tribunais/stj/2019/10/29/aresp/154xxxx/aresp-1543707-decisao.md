@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 464/466) que inadmitiu o recurso especial em virtude de: (a) ausência de prequestionamento (Súmula n. 282/STF), (b) inexistência de violação dos arts. 10, § 3º, da Lei n. 9.656/1998, 186, 187, 422 e 927 do CC/2002, (c) impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ) e (d) falta de similitude fática necessária para a demonstração da divergência jurisprudencial.
+O acórdão recorrido está assim ementado (e-STJ fl. 360):
+PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER E INDENIZATÓRIA NEGATIVA DE COBERTURA INTEGRAL DAS DESPESAS HAVIDAS EM REGIME PARTICULAR E DAS DESPESAS DE REMOÇÃO POR MEIO DE UTI AÉREA PLANO CONTRATADO COM ABRANGÊNCIA NACIONAL AUSÊNCIA DE PRESTADOR REFERENCIADO NAS INTERMEDIAÇÕES INTERNAÇÃO EM HOSPITAL PARTICULAR LOCAL QUE PRESTOU OS PRIMEIROS SOCORROS E INDICOU A REMOÇÃO DA AUTORA POR VIA AÉREA PARA REALIZAÇÃO DE CIRURGIA EM SÃO PAULO - PREVISÃO CONTRATUAL DE COBERTURA INTEGRAL DAS DESPESAS HAVIDAS EM SITUAÇÃO DE EMERGÊNCIA ONDE NÃO HOUVER CREDENCIADO E DE COBERTURA DE REMOÇÃO AÉREA EM SITUAÇÕES EXCEPCIONAIS RECUSA INDEVIDA DANO MORAL CONFIGURADO INDENIZAÇÃO REDUZIDA SENTENÇA PARCIALMENTE REFORMADA RECURSO PARCIALMENTE PROVIDO.
+No recurso especial (e-STJ fls. 368/388), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(a) art. 10, § 3º, da Lei n. 9.656/1998, afirmando ausência de abusividade do contrato de autogestão que realiza o reembolso das despesas hospitalares nos termos do regulamento,
+(b) arts. 186, 187 e 927 do CC/2002, sustentando a ausência de danos morais indenizáveis e
+(c) art. 422 do CC/2002, apontando o princípio do pacta sunt servanda e afirmando a validade do contrato de adesão, a impossibilidade de cobertura integral e a necessidade de reembolso nos termos do regulamento.
+No agravo (e-STJ fls. 469/489), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida apresentou contraminuta (e-STJ fls. 494/500).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 10, § 3º, da Lei n. 9.656/1998. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A insurgência quanto à ausência de abusividade do contrato de autogestão que realiza o reembolso das despesas hospitalares nos termos do regulamento não pode ser sustentada apenas com base no art. 10, § 3º, da Lei n. 9.656/1998, o qual não regula a matéria. Note-se que o Tribunal aplicou ao caso o art. 12, II, da Lei n. 9.656/1998. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Quanto aos danos morais, o TJSP assentou (e-STJ fl. 365):
+No que tange à condenação por danos morais, restou configurado o ato ilícito da ré decorrente da negativa ilegítima de cobertura das despesas contratadas.
+Outrossim, restou evidenciado o dano propriamente dito, já que a negativa da ré, implicou no retardamento da remoção da autora, elevando sobremaneira os riscos a sua integridade física e a sua aflição, que extrapola a órbita do mero dissabor.
+Rever tais conclusões demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7/STJ.
+Quanto ao reembolso, o Tribunal de origem assentou (e-STJ fls. 362/365):
+Segundo se infere, a autora foi passar o final do ano em Ilhéus BA, sendo vítima de queda da própria altura, no dia 01.01.2015, que acarretou uma grave fratura periprotética do fêmur direito. Imediatamente, seus familiares entraram em contato com a ré para obter informações acerca do hospital credenciado
+que deveriam se dirigir, no entanto foram informados de que não havia nenhuma instituição referenciada naquela área geográfica, razão pela qual a autora foi encaminhada para o pronto socorro mais próximo, em regime particular, onde foi internada e submetida a exames. Após os resultados dos exames indicarem a gravidade da lesão e a necessidade de intervenção cirúrgica, a equipe médica que a atendia informou que não poderiam fazê-la por falta de estrutura, indicando que a autora fosse transferida por UTI aérea para São Paulo. Foi solicitada a remoção pelo plano de saúde que, após quatro dias, respondeu negativamente alegando expressa exclusão de cobertura, não restando outra alternativa à autora senão fazer a remoção, também, às suas expensas e dos seus familiares.
+Posteriormente, a autora tentou ser ressarcida pela via administrativa, porém em resposta recebeu que as despesas havidas em Ilhéus seriam reembolsadas parcialmente, na modalidade livre escolha e mantida a recusa do reembolso das despesas de remoção, ensejando o ajuizamento da presente ação.
+Com efeito, a Lei nº 9.656/98, que dispõe sobre os planos e seguros privados de assistência à saúde, prevê, em seu artigo 12, inciso II, alínea (e),que:
+(..)
+Não há controvérsia acerca da gravidade do estado de saúde da autora e da ausência de hospital credenciado à ré na região do acidente ou em suas intermediações, sendo forçoso concluir que a internação da autora no Hospital de Ilhéus não decorreu do exercício da livre escolha, mas sim por ser única opção possível, naquele momento.
+Pois bem, dispõem as cláusulas 3.4 e 12.11 do contrato firmado entre as partes que:
+"3.4 - Área Geográfica de Abrangência do Plano de Saúde:
+A área de atuação do plano será Nacional, abrangendo a Rede Credenciada e de Convênios de Reciprocidade com outras Operadoras em todo o território nacional.
+Nas áreas fora do município sede e dos municípios onde a Fundação CESP mantém representações regionais, em que não for possível o estabelecimento de rede credenciada por contratação direta, a assistência poderá ser realizada por meio dos Convênios de Reciprocidade celebrados com Operadoras congêneres ou de modalidade diversa.
+O usuário poderá recorrer a atendimento médico-
+hospitalar em qualquer localidade do país, além, daquela relativa ao seu domicilio, observado o disposto no item 11 e 12 deste Regulamento (grifado)" (fls. 32)
+E continua:
+"12.11. Situações Especiais de Reembolso Em consonância com a RN nº 259/11 e suas atualizações, o sistema de reembolso de despesas por livre escolha, conforme limites estabelecidos por este Regulamento poderá ser utilizado nas seguintes situações:
+12.11.1 - Inexistência de prestador credenciado seja por contratação direta ou indireta, no município em que o serviço for demandado, com utilização de prestador não credenciado do próprio município, do município limítrofe ou não da região de saúde ou fora desta.
+12.12.1.- Em consonância com a RN nº 259/11 e suas atualizações, da ANS, para fins de concessão de reembolso, serão tratados as seguintes situações:
+Inexistência de prestador credenciado seja por contratação direta ou indireta, no município em que o serviço foi demandado, com utilização de prestador credenciado fora da região de saúde." (fls. 50/51)
+Como se pôde verificar, na ausência de prestador credenciado, o próprio contrato prevê a possibilidade do usuário utilizar de prestador particular, enquadrando-o na modalidade especial de reembolso.
+Outrossim, não há controvérsia acerca da impossibilidade do Hospital de Ilhéus realizar o procedimento cirúrgico e quanto a necessidade de a autora ser removida por UTI
+aérea para nosocômio credenciado em São Paulo, conforme relatório médico juntado às fls. 21.
+Sobre a remoção, cabe destacar que a cláusula 7º do contrato não exclui por completo a remoção aérea, apenas estabelece a via terrestre como regra, porém excepciona que em situações especiais, a via aérea poderá ser previamente autorizada pela operadora (fls.45).
+Nesse caso, considerando que o plano foi contratado com abrangência nacional, que não havia nas intermediações nenhum hospital credenciado e apto a realizar a cirurgia indicada em caráter emergencial e que o médico responsável pelo atendimento da autora em Ilhéus declarou que o nosocômio local não tinha condições de realizar o procedimento, entendo que a circunstância se enquadra nas situações excepcionais que alude a indigitada cláusula e que a recusa é ilegal.
+Rever tais conclusões demandaria nova interpretação do contrato de autogestão celebrado entre as partes e incursão no conjunto probatório dos autos, providências vedadas na instância especial, a teor das Súmulas n. 5 e 7 do STJ.
+Por fim, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
