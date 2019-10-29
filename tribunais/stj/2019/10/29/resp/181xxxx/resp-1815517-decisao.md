@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e BALTO ANTONIO [NOME] com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. COMPRA E VENDA DE BEM IMÓVEL EM LOTEAMENTO. Ação de rescisão contratual c.c. devolução de quantias pagas. Sentença de parcial procedência. Inconformismo das rés. RESCISÃO CONTRATUAL E DEVOLUÇÃO DOS VALORES PAGOS. Pretensão dos autores de rescisão do compromisso de compra e venda e devolução dos valores pagos, em virtude de desistência. Descabimento. Existência de pacto de alienação fiduciária, averbado na matrícula do lote adquirido. Compromisso de compra e venda que já se aperfeiçoou. Desistência do negócio que deve observar o rito previsto no art. 26 da Lei nº 9.514/1997. Precedentes do STJ e deste Tribunal. Sentença reformada. Sucumbência dos autores. RECURSO PROVIDO". (v.29469) (e-STJ fl. 282).
+Os recorrentes alegam, além de divergência jurisprudencial, violação dos artigos 51 e 53 do Código de Defesa do Consumidor. Pleiteiam, em síntese, a aplicação das regras do CDC.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Eis a letra do acórdão recorrido transcrito no que interessa à espécie:
+"(..) conforme se vê dos documentos trazidos aos autos, o contrato celebrado entre as partes trazia pacto adjeto de alienação fiduciária, que foi gravado na matrícula do lote adquirido pelos autores (fls. 53/54).
+Não há qualquer alegação nos presentes autos de descumprimento das obrigações contratualmente assumidas pelas vendedoras. Desta forma, forçoso reconhecer que as obrigações previstas nos compromissos de compra e venda foram aperfeiçoadas, passando a relação existente entre as partes a ser regida pela Lei nº 9.514/97, norma posterior e mais específica à regra geral prevista no Código de Defesa do Consumidor, cuja aplicação fica afastada do caso concreto" (e-STJ fl. 283).
+Tal posicionamento está em consonância com a jurisprudência desta Corte firmada no sentido de que na hipótese de inadimplemento do devedor em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deve se dar na forma dos arts. 26 e 27 da Lei n. 9.514/1997, afastando-se as regras previstas no CDC.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. A jurisprudência do Superior Tribunal de Justiça já firmou entendimento no sentido de que, ocorrendo o inadimplemento de devedor em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deverá observar a forma prevista nos arts. 26 e 27 da Lei nº 9.514/97, por se tratar de legislação específica, o que afasta, por consequência, a aplicação do art. 53 do CDC. Incidência da Súmula 83/STJ.
+2. Na hipótese, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu que o contrato firmado pelas partes não se tratou de mero compromisso de compra e venda, contendo também pacto de alienação fiduciária, em que as próprias vendedoras são as credoras fiduciárias. Alterar tal conclusão demandaria o reexame de fatos e provas, bem como a interpretação das cláusulas contratuais, inviável em recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+3. Quanto ao dissídio jurisprudencial, a agravante não comprovou as semelhanças fáticas e o tratamento jurídico diferenciado entre os casos confrontados, não obedecendo às normas contidas nos artigos 1.029, §1º do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+4.Agravo interno desprovido"
+(AgInt no REsp 1.791.893/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/6/2019, DJe 1º/7/2019)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL COM PACTO ADJETO DE ALIENAÇÃO FIDUCIÁRIA. RECONHECIMENTO DA REPERCUSSÃO GERAL DA MATÉRIA PELO SUPREMO TRIBUNAL FEDERAL. SOBRESTAMENTO. DESNECESSIDADE. AÇÃO POSSESSÓRIA DECORRENTE DE RELAÇÃO DE DIREITO PESSOAL. COMPETÊNCIA TERRITORIAL RELATIVA. PRECEDENTES. LEILÃO EXTRAJUDICIAL. NOTIFICAÇÃO PESSOAL DO DEVEDOR. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. QUITAÇÃO DA DÍVIDA. INCIDÊNCIA DOS ARTS. 26 E 27 DA LEI N. 9.514/1997. INAPLICABILIDADE DO ART. 53 DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+AGRAVO DESPROVIDO.
+1. O reconhecimento de repercussão geral pelo Supremo Tribunal Federal não impõe, em regra, o sobrestamento dos processos em curso no Superior Tribunal de Justiça.
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "deve ser afastada a competência absoluta de foro (..) quando a ação possessória seja decorrente de relação de direito pessoal surgida em conseqüência de contrato existente entre as partes" (AgRg nos EDcl no Ag 1.192.342/MG, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2014, DJe 16/9/2014).
+3. A desconstituição do acórdão distrital, para concluir que a notificação pessoal do devedor não teria sido comprovada, exigiria o reexame do conjunto fático-probatório, o que não se admite na via especial, em razão do que dispõe o Verbete sumular n. 7 do STJ.
+4. Nos contratos de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deve ocorrer nos termos dos arts. 26 e 27 da Lei n. 9.514/1997, afastando-se a regra genérica e anterior prevista no art. 53 do Código de Defesa do Consumidor.
+5. Agravo interno desprovido"
+(AgInt no REsp 1.750.435/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018).
+Incide à espécie o entendimento cristalizado na Súmula nº 568 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da atualizado da causa (e-STJ fl. 287), os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intime-se.
