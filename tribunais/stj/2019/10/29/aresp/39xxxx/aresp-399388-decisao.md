@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por CONDUTO COMPANHIA NACIONAL DE DUTOS contra decisão que inadmitiu o recurso especial ante a incidência das Súmulas n. 7 e 211/STJ, bem como pela não caracterização de violação do art. 535 do CPC/1973.
+O acórdão impugnado tem a seguinte ementa (e-STJ, fl. 771):
+AGRAVO DE INSTRUMENTO. DIREITO SOCIETÁRIO. CONTROLE SOCIETÁRIO. CESSÃO DE COTAS. SÓCIO MAJORITÁRIO. PREÇO AJUSTADO PARA A ALTERAÇÃO CONTRATUAL. DÚVIDA RAZOÁVEL E FUNDADA QUANTO Á SUA HIGIDEZ SATISFATIVA. MANUTENÇÃO DO ESTADO ANTERIOR DA COMPOSIÇÃO SOCIETÁRIA. DESFORÇO PESSOAL. Se os contratantes firmam avença visando a cessão de cotas de sociedade empresária e, na execução do contrato, surge dúvida razoável quanto à higidez da satisfação do preço, não pode o sócio cedente ser afastado da gestão da sociedade em favor do novo sócio cessionário. Preço constituído por cessão de direito creditício de terceira empresa e pelo pagamento de parcelas mensais, com carência inicial de um ano. Cessão posta sob forte suspeita por existir disputa sobre quem representa a sociedade cedente e sobre os poderes de seu representante.
+Confusão de papéis do gerente indicado pelo suposto novo sócio majoritário que é sua esposa. Gerente que tem contra si a indisponibilidade de bens por mal exercício de gestão de empresas e condenação criminal. Cumprimento da obrigação principal do suposto sócio cessionária que se afigura difícil de honrar quanto ao pagamento do preço das cotas adquiridas. impossibilidade de se atribuir a gestão e a gerência de sociedade sem que se aperfeiçoe, minimamente, a transferência das cotas entre as partes envolvidas na transação. Situação que se assemelha ao próprio desforço pessoal. Conhecimento e provimento do recurso.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 786/788).
+Nas razões do recurso especial (e-STJ, fls. 698/705), a recorrente aponta violação dos arts. 1.056 e 1.011 do Código Civil/2002 e 124, 140, 142 e 143 da Lei n. 6.404/1976.
+Contrarrazões apresentadas (e-STJ, fls. 825/840).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que deve ser exigido o requisito de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Da análise de todo caderno processual, verifica-se que não há nos autos procuração ou cadeia completa de substabelecimento, outorgando poderes aos subscritores do recurso especial, advogados [NOME] ([OAB]) e [NOME] ([OAB]), conforme consta, inclusive, da Certidão de Autuação (e-STJ, fl. 809).
+Assim, segundo pacífica orientação desta Corte, considera-se inexistente, na instância especial, o recurso interposto por advogado sem procuração nos autos, consoante disposto na Súmula n. 115/STJ.
+Ressalte-se que tal deficiência, em sede de recursos excepcionais, constitui vício insanável da petição recursal, não se aplicando a norma inscrita no art. 13 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+ASSINATURA DO RECURSO POR MEIO ELETRÔNICO. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. VÍCIO INSANÁVEL. CPC/1973. DECISÃO MANTIDA.
+1. "Nos termos da jurisprudência consolidada sob a égide do anterior diploma adjetivo, consideram-se inexistentes os recursos dirigidos à instância superior, desacompanhados do respectivo instrumento de procuração, à luz do disposto na Súmula 115 do STJ. Vício não sanável por juntada posterior de mandato ou substabelecimento, uma vez inaplicável o disposto no artigo 13 do CPC/73 (vigente à época da interposição do reclamo) na instância extraordinária" (AgInt nos EDcl no AREsp n. 183.869/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2018, DJe 13/3/2018).
+2. "A assinatura eletrônica é a forma de identificação inequívoca do signatário, e a opção pela utilização do meio eletrônico de peticionamento implica a vinculação do advogado titular do certificado digital ao documento chancelado, que será considerado, para todos os efeitos, o subscritor da peça, não tendo valor eventual assinatura digitalizada de outro advogado que venha a constar da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração" (AgRg no AREsp 725.263/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2016, DJe 27/05/2016).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 790.442/SC, de minha relatoria, QUARTA TURMA, julgado em 20/5/2019, DJe 23/5/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCURAÇÃO. AUSÊNCIA. VÍCIO INSANÁVEL. CPC/1973. LITIGÂNCIA DE MÁ-FÉ. CUMPRIMENTO DE SENTENÇA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. "Nos termos da jurisprudência consolidada sob a égide do anterior diploma adjetivo, consideram-se inexistentes os recursos dirigidos à instância superior, desacompanhados do respectivo instrumento de procuração, à luz do disposto na Súmula 115 do STJ. Vício não sanável por juntada posterior de mandato ou substabelecimento, uma vez inaplicável o disposto no artigo 13 do CPC/73 (vigente à época da interposição do reclamo) na instância extraordinária" (AgInt nos EDcl no AREsp n. 183.869/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2018, DJe 13/3/2018).
+2. Subsistindo fundamento da decisão recorrida não impugnado, aplica-se o óbice da Súmula n. 283 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp 737.956/DF, de minha relatoria, QUARTA TURMA, julgado em 14/8/2018, DJe 21/8/2018.)
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se e intimem-se.
