@@ -1,0 +1,59 @@
+EMENTA
+PROCESSO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. DOSIMETRIA. EMPREGO DE CHAVE FALSA. OMISSÃO DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO APELO DEFENSIVO NÃO EVIDENCIADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. HIPÓTESE DO ART. 619 DO CÓDIGO DE PROCESSO PENAL NÃO CARACTERIZADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. No caso, denota-se que o pleito de afastamento da qualificadora do emprego de chave falsa não foi ventilado no bojo do apelo defensivo, tendo tal matéria sido aventada apenas em sede de embargos de declaração, que foram rejeitados. Logo, não tendo o Tribunal a quo exercido cognição sobre o tema, forçoso reconhecer a impossibilidade de sua apreciação direta por esta Corte, sob pena de indevida supressão de instância. Precedentes.
+3. A teor do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade existentes no julgado, o que não se vislumbra na hipótese sob exame.
+4. Embora a defesa afirme ter manejado embargos de declaração com intuito de sanar suposto vício indireto no julgamento do apelo, buscou, de fato, reparar omissão evidenciada na razões recursais por ela apresentadas.
+5. Ainda que seja possível ao julgador, de ofício, manifestar-se sobre tema não deduzido pela defesa, caso evidenciada flagrante ilegalidade no julgamento, o seu silêncio não caracteriza vício e, portanto, não há falar em omissão no julgado a justificar a concessão de ordem, de ofício, com a finalidade de determinar o exame do pleito deduzido nos aclaratórios pela Corte de origem.
+6. Writ não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Joel Ilan Paciornik, Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de ADAMWS WESLEN DE SOUZA FALCAO contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi condenado à pena de 2 anos de reclusão, em regime prisional semiaberto, e ao pagamento de 10 dias-multa, pela prática do delito previsto no art. 155, § 4º, III, do Código Penal (e-STJ, fls. 169-175).
+Irresignada, a defesa apelou ao Colegiado de origem, que desproveu o recurso, nos moldes da seguinte ementa:
+"APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO USO DE CHAVE FALSA (CP, ART. 155, § 4º, III). SENTENÇA CONDENATÓRIA. RECURSO DO ACUSADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REINCIDÊNCIA NÃO ESPECÍFICA. CRIME ANTERIOR. TRÁFICO DE DROGAS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL (CP, ART. 44, § 3º).
+Mesmo que a reincidência considerada no cômputo da agravante não seja específica, não é socialmente recomendável a substituição da pena privativa de liberdade imposta se a condenação anterior é pelo delito de tráfico de drogas e, ainda, se o acusado ostenta antecedente pretérito específico.
+RECURSO CONHECIDO E DESPROVIDO" (e-STJ, fl. 217).
+Opostos embargos de declaração pela defesa, foram rejeitados (e-STJ, fls. 235-238).
+Neste mandamus, a Defensoria Pública estadual sustenta, em síntese, que: a) "embora a "chave micha" tenha sido apreendida (fl. 21), o Magistrado sentenciante e o TJSC concluíram que o reconhecimento da qualificadora do emprego de chave falsa (CP, art. 155, § 4.º, III) dispensaria a realização de exame pericial"; b) "o delito deixou vestígios (como disse o Magistrado, a suposta chave "micha" foi devidamente apreendida) e o exame pericial não foi realizado por pura inoperância do Estado-acusação, que sequer justificou a impossibilidade de realização da perícia. Isso claramente viola o disposto no art. 175 do CPP: "Serão sujeitos a exame os instrumentos empregados para a prática da infração, a fim de se Ihes verificar a natureza e a eficiência" (e -STJ, fls. 3-11).
+Pugna, assim, pela concessão da ordem a fim de que seja afasta a incidência da qualificadora e, por consectário, seja o paciente condenado à pena de 1 ano de reclusão pela prática do crime de furto simples.
+Indeferido pedido de liminar (e-STJ, fl. 269).
+É o relatório.
+EMENTA
+PROCESSO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. DOSIMETRIA. EMPREGO DE CHAVE FALSA. OMISSÃO DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO APELO DEFENSIVO NÃO EVIDENCIADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. HIPÓTESE DO ART. 619 DO CÓDIGO DE PROCESSO PENAL NÃO CARACTERIZADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. No caso, denota-se que o pleito de afastamento da qualificadora do emprego de chave falsa não foi ventilado no bojo do apelo defensivo, tendo tal matéria sido aventada apenas em sede de embargos de declaração, que foram rejeitados. Logo, não tendo o Tribunal a quo exercido cognição sobre o tema, forçoso reconhecer a impossibilidade de sua apreciação direta por esta Corte, sob pena de indevida supressão de instância. Precedentes.
+3. A teor do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade existentes no julgado, o que não se vislumbra na hipótese sob exame.
+4. Embora a defesa afirme ter manejado embargos de declaração com intuito de sanar suposto vício indireto no julgamento do apelo, buscou, de fato, reparar omissão evidenciada na razões recursais por ela apresentadas.
+5. Ainda que seja possível ao julgador, de ofício, manifestar-se sobre tema não deduzido pela defesa, caso evidenciada flagrante ilegalidade no julgamento, o seu silêncio não caracteriza vício e, portanto, não há falar em omissão no julgado a justificar a concessão de ordem, de ofício, com a finalidade de determinar o exame do pleito deduzido nos aclaratórios pela Corte de origem.
+6. Writ não conhecido.
+
+VOTO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, denota-se que o pleito de afastamento da qualificadora do emprego de chave falsa não foi ventilado no bojo do apelo defensivo, tendo tal matéria sido aventada apenas em sede de embargos de declaração, que foram rejeitados. Logo, não tendo o Tribunal a quo exercido cognição sobre o tema, forçoso reconhecer a impossibilidade de sua apreciação direta por esta Corte, sob pena de indevida supressão de instância.
+A fim de corroborar tal conclusão, trago à baila os seguintes julgados:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PRISÃO DOMICILIAR. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. A tese sobre o pedido de prisão domiciliar não foi objeto de apreciação pelo Tribunal de origem, motivo pelo qual também não pode ser aqui analisada, sob pena de indevida supressão de instância.
+3. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fazem referência às circunstâncias fáticas justificadoras, destacando, principalmente, a quantidade de entorpecente encontrada (aproximadamente 1 kg de maconha). Isso confere lastro de legitimidade à manutenção da medida extrema.
+4. Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva.
+5. Ordem denegada.
+(HC 526.595/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 8/10/2019, DJe 14/10/2019).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIME DE FURTO PRIVILEGIADO NOTURNO. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS.
+IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Inviável adentrar ao mérito do presente writ pois verifica-se que o eg. Tribunal a quo não se manifestou acerca de matéria discutida nesta impetração, ficando, portanto, impedida esta Corte de proceder a sua análise, sob pena de incorrer em indevida supressão de instância.
+III - "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC n. 126.292/SP, Tribunal Pleno, Rel. Min.
+Teori Zavascki, DJe de 17/5/2016).
+IV - Na hipótese das penas restritivas de direitos, a Terceira Seção desta Corte Superior, no julgamento do EResp n. 1.619.087/SC, de relatoria do insigne Min. Jorge Mussi, decidiu que, na ausência de manifestação expressa da Corte Suprema e a teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+Habeas Corpus não conhecido. Ordem concedida de ofício.
+(HC 509.318/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 1/10/2019, DJe 9/10/2019).
+Além disso, a teor do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade existentes no julgado, o que não se vislumbra na hipótese sob exame.
+Por certo, embora a defesa afirme ter manejado embargos de declaração com intuito de sanar suposto vício indireto no julgamento do apelo, buscou, de fato, reparar omissão evidenciada na razões recursais por ela apresentadas. Ora, ainda que seja possível ao julgador, de ofício, manifestar-se sobre tema não deduzido pela defesa, caso evidenciada flagrante ilegalidade no julgamento, o seu silêncio não caracteriza vício e, portanto, não há falar em omissão no julgado a justificar a concessão de ordem, de ofício, com a finalidade de determinar o exame do pleito deduzido nos aclaratórios pela Corte de origem.
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem por esta Corte.
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
