@@ -1,0 +1,18 @@
+DECISÃO
+
+Trata-se de agravo apresentado pelo ESTADO DA PARAÍBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS HOMICÍDIO OCORRIDO EM CADEIA PÚBLICA RESPONSABILIDADE OBJETIVA DO ESTADO PROCEDÊNCIA IRRESIGNAÇÃO DANOS MORAIS MAJORAÇÃO DANOS MATERIAIS PENSÃO MENSAL JUROS DE MORA CONDENAÇÃO CONTRA A FAZENDA PÚBLICA APLICAÇÃO DO ART 1º-F DA LEI N 9494/97 CORREÇÃO MONETÁRIA DOS DANOS MORAIS DATA DO ARBITRAMENTO SÚMULA 362 DO STJ PROVIMENTO PARCIAL DA APELAÇÃO DOS - AUTORES PROVIMENTO PARCIAL DA APELAÇÃO DO ESTADO DA PARAÍBA E DA REMESSA NECESSÁRIA.
+Alega violação dos arts. 402 e 944 do CC, no que concerne à redução do dano moral em razão da excessividade do valor fixado, trazendo o(s) seguinte(s) argumento(s):
+ O valor da indenização por danos morais, de R$ 30.000,00 (trinta mil reais) para cada filho menor, foi fixado de forma flagrantemente desproporcional, discrepando, inclusive, dos valores normalmente fixados pelo Tribunal de Justiça da Paraíba, em casos idênticos, cabendo, assim, a esse Superior Tribunal de Justiça, de forma excepcional, reduzir o valor da indenização (fl. 236).
+É o relatório. Decido.
+Quanto à controvérsia alegada, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No tocante ao quantum indenizatório decorrente do dano moral, a doutrina e a jurisprudência vêm reiterando entendimento de que a indenização decorrente de dano moral não pode constituir para o causador do dano um desfalque em seu patrimônio, tampouco para o lesado, um enriquecimento sem causa.
+ ..
+A partir de tais premissas, observa-se que a indenização por danos morais em favor dos autores fixada em R$ 20.000,00 (vinte mil reais), para cada filho, encontra-se insuficiente em relação às circunstâncias do caso concreto, notadamente à morte violenta do genitor dos promoventes por outro detento, sem nenhuma interferência dos agentes penitenciários e demais policiais para evitar o ocorrido.
+Desta feita, entendo que a indenização por danos morais deve ser majorada para R$ 30.000,00 (trinta mil reais) para cada filho (fl. 207).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte" (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 8/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.269.094/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp 1.386.578/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/3/2019; e AgInt no REsp 1.761.700/RO, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 26/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
