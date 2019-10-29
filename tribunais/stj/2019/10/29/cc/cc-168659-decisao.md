@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por MARIA VALDECI DA SILVA DE AGUIAR entre o Juízo de Direito da Vara de Acidente de Trabalho de Colombo, no Paraná, e o Juízo Federal da 21ª Vara da Seção Judiciária do mesmo Estado, em ação pleiteando o restabelecimento de auxílio-doença acidentário, e a posterior conversão em aposentadoria por invalidez (e-STJ fls. 30/60).
+Em Ação autuada sob o n. 5010409-54.2017.4.04.7000/PR, o Juízo Federal julgou extinto o feito sem resolução de mérito, em 28/03/2017, pelo fundamento de que a pretensão era de natureza acidentária (e-STJ fls. 64/66).
+Diante disso, a requerente apresentou nova demanda, desta feita, no Juízo Estadual, a qual foi autuada sob o n. 0001813-54.2017.8.16.0193 (e-STJ fls. 29/60) e recebida pelo Juízo de Direito da Vara de Acidentes de Trabalho de Colombo, em 14/06/2017.
+E, após instrução processual do feito, no presente ano, especificamente em de 29/03/2019, foi proferida decisão declinatória da competência em favor da Justiça Federal. Na ocasião, o Juízo de Direito considerou que "os documentos médicos acostados ao longo da instrução processual" não evidenciaram "a existência do acidente típico, o nexo causal ou a concausa" (e-STJ fls. 67/69).
+Nesta Corte, o Ministério Público Federal opinou pelo não conhecimento do conflito de competência, uma vez que apenas um dos Juízos suscitados atribuiu ao outro a competência da causa (e-STJ fls. 107/111).
+Passo a decidir.
+A questão da competência encontra-se superada, haja vista a existência de decisão, com trânsito em julgado, proferida por um dos juízos suscitados, conforme noticiado pela própria requerente, na documentação que encartou os presentes autos.
+Incidência, no caso, da Súmula 59 do Superior Tribunal de Justiça, segundo a qual "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXISTÊNCIA DE SENTENÇA TRANSITADA EM JULGADO PROFERIDA POR JUÍZO APONTADO COMO CONFLITANTE. SÚMULA 59/STJ. CONFLITO NÃO CONHECIDO.
+1. Nos termos da Súmula 59 deste Superior Tribunal de Justiça: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes.
+2. O conflito de competência não é meio idôneo ao julgamento do mérito da causa, tampouco pode ser utilizado como sucedâneo recursal.
+3. Agravo regimental a que se nega provimento. (AgRg no CC 134.360/SC, Rel. Ministra DIVA MALERBI, DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 25/02/2016, DJe 04/03/2016).
+PROCESSO CIVIL. ARBITRAGEM. CONFLITO DE COMPETÊNCIA. PERDA DE OBJETO. PROLATAÇÃO DE DECISÃO DEFINITIVA. SÚMULA 59 DO STJ.
+1. O pedido dos embargos à execução foi julgado improcedente em 6/2/2012, ao fundamento principal de que a transação celebrada entre as partes consubstancia reconhecimento da existência da dívida exequenda, devendo prosseguir a execução, o que foi confirmado pelo Tribunal estadual.
+2. O Juízo arbitral, por seu turno, também proferiu sentença de improcedência do pedido em 7/12/2012, concluindo pela existência da dívida (decisão desentranhada dos autos em virtude de pedido de confidencialidade), sendo certo que tal decisão, consoante disposição do art. 31 da Lei n. 9.307/1996, reveste-se de definitividade, constituindo título executivo (art. 475-N, IV, do CPC).
+3. Dessarte, não mais se vislumbra a existência de conflito de competência entre os juízos suscitados quanto ao cerne dos embargos à execução, porquanto, nos termos da Súmula 59 desta Corte: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+4. Conflito de competência prejudicado. (CC 122.439/RJ, Rel. Ministro MASSAMI UYEDA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/09/2013, DJe 12/02/2014).
+Não se olvida que, por cópia do parecer ministerial no âmbito da Justiça Estadual, juntada às e-STJ fls. 62/63, denota-se que houve interposição de agravo de instrumento pela segurada, postulando a reforma da decisão que declinou da competência. Contudo, apesar da ausência de dados acerca do desfecho do aludido recurso, essa impugnação somente reforça o não conhecimento do presente incidente.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, JULGO PREJUDICADO o presente conflito ante a perda do objeto.
+Publique-se. Intimem-se.
