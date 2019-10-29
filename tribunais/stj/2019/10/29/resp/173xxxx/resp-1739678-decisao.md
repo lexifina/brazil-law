@@ -1,0 +1,42 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. INDENIZAÇÃO MATERIAL. NECESSIDADE DE MATERIAL CIRÚRGICO ESPECÍFICO. LENTES DE CONTATO INTRAOCUILARES IMPORTADAS. NÃO COMPROVAÇÃO. INVERSÃO DO ÔNUS DA PROVA. VEROSSIMILHANÇA DAS ALEGAÇÕES. AUSÊNCIA. REVISÃO. SÚMULA 7/STJ.
+RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por IDA MORANDI ARALDI fundado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. SEGURO. PLANO DE SAÚDE COLETIVO. LENTES INTRAOCULARES IMPORTADAS. AÇÃO DE ANULAÇÃO DE DÉBITO C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE COMPROVAÇÃO DA NECESSIDADE. RESSARCIMENTO DESCABIDO REDIMENSIONAMENTO DO ÔNUS DA SUCUMBÊNCIA.
+1. O art. 10 da Lei nº 9.656/98 não exclui da cobertura do contrato de plano de saúde o fornecimento de materiais fundamentais à realização de cirurgia, tendo em vista que cabe ao médico definir qual é o melhor tratamento para o segurado, assim como o material a ser utilizado, desimportando ser ou não nacional, pois deve ser o que atender melhor à finalidade a que se propõe.
+2. No caso concreto, inexiste laudo ou qualquer documento que justifique, determine ou indique a imprescindibilidade do uso de material importado, preterindo o nacional, de modo que a parte autora optou por sua conta e risco em utilizar o importado, afastando assim o dever de ressarcimento.
+3. Ou seja, as provas carreadas no feito não emprestam verossimilhança às alegações da demandante no sentido de que as lentes importadas seriam a opção mais adequada para o seu quadro clínico, pois não acostou ao feito a mínima prova neste sentido, nem mesmo eventual laudo ou atestado do seu médico demonstrando a necessidade do uso do material importado.
+4. Assim, a autora não se desincumbiu do seu ônus probatório disposto no art. 373, I, do NCPC, de sorte que deve ser reformada a decisão no ponto, a fim de ser afastada a condenação do valor despendido pela autora com o pagamento das lentes intraoculares importadas.
+5. Inverte-se o ônus da sucumbência e, ainda, nos termos do § 11 do art. 85 do CPC, majora-se os honorários advocatícios devidos aos procuradores do réu para 14%. Contudo, resta suspensa a exigibilidade de tais rubricas condenatórias ante a AJG concedida na Origem ao autor (fl. 21).
+SENTENÇA REFORMADA. APELAÇÃO PROVIDA.(e-STJ fl. 205)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 227/232)
+Em suas razões recursais, a recorrente aponta violação aos artigos 62. VIII, 42, parágrafo único, 39, V, do Código de Defesa do Consumidor; 10. VII, 12. II, "e", da Lei 9.656/98, e art. 102 da Resolução Normativa nº 2395/2016 da Agência Nacional de Saúde. Sustenta a necessidade de inversão do ônus da prova, cabendo ao plano de saúde comprovar que o material utilizado na cirurgia não se tratava de material básico. Assevera, ainda, que era ônus da apelada comprovar que a prótese nacional de fato possuía, em relação à prótese importada, as mesmas características afirmadas pelo médico da Autora, o que no caso não ocorreu.
+Contrarrazões ao recurso especial apresentadas, às fls. 326/339 e-STJ, sobreveio juízo positivo de admissibilidade do Tribunal de origem, às fls. 340/347 e-STJ.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+A pretensão recursal não merece prosperar.
+Esta Corte Superior tem entendimento firmado no sentido de que compete ao médico assistente indicar o melhor tratamento para a cura da doença que acomete o seu paciente, descabendo a operadora do plano de saúde discutir o procedimento indicado no caso em que a doença tem cobertura contratual.
+No hipótese em análise, o Tribunal e origem concluiu que o material pretendido para a cirurgia - lentes de contato importadas - não foi atestado pelo médico assistente da autora, manifestando-se nos seguintes termos:
+É consabido que o médico que acompanha a paciente é quem tem conhecimento necessário para avaliar o procedimento, o tratamento, ou o material considerado mais adequado ao seu paciente, todavia, o fato é que não há nenhum documento nos autos a justificar que as lentes importadas eram a melhor alternativa para o tratamento da autora.
+De fato, há nos autos tão somente a prova do pagamento, nada há no sentido da necessidade da utilização das lentes intraoculares importadas como as mais adequadas para o caso da autora, nem mesmo resta elucidado o porquê de a lente nacional ter sido preterida.
+Ou seja, as provas carreadas ao feito não emprestam verossimilhança à alegação da demandante no sentido de que as lentes importadas seriam a opção mais adequada para o seu quadro clínico, pois não acostou ao feito a mínima prova neste sentido, nem mesmo eventual laudo ou atestado do seu médico demonstrando a necessidade do uso do material importado.(e-STJ fl. 211) g.n.
+Dessa forma, para se chegar à conclusão diversa da que chegou o eg. Tribunal a quo, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento inviável na instância especial, a teor da Súmula nº 7 desta Corte.
+Cumpre registrar, que a jurisprudência desta Corte Superior se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. 1. FALTA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. 2. DENUNCIAÇÃO DA LIDE. CASO ENVOLVENDO RELAÇÕES DE CONSUMO. IMPOSSIBILIDADE. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. 3. INVERSÃO DO ÔNUS DA PROVA. VEROSSIMILHANÇA DAS ALEGAÇÕES NÃO EVIDENCIADA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. HONORÁRIOS RECURSAIS NO AGRAVO INTERNO. DESCABIMENTO. 5. AGRAVO IMPROVIDO.
+1.  ..
+3. Nos termos do entendimento jurisprudencial desta Corte, a inversão do ônus da prova fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em recurso especial, em função da aplicação da Súmula 7 do STJ.
+4. Não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno, conforme os critérios definidos pela Terceira Turma deste Tribunal Superior - EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1429160/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/05/2019, DJe 31/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PRESTAÇÃO DE SERVIÇO DE LAVAGEM DE TAPETE. VÍCIO DEMONSTRADO. VALOR DA INDENIZAÇÃO. MÉDIA DOS ORÇAMENTOS APRESENTADOS PELO PERITO RELATIVOS A PRODUTOS SIMILARES. INVERSÃO DO ÔNUS DA PROVA. CRITÉRIO DO JUIZ. AGRAVO INTERNO NÃO PROVIDO.
+1. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações do consumidor. Precedentes.
+2. No caso, a Corte de origem observou que a parte autora não apresentou prova mínima a respeito do valor do bem danificado, concluindo ser razoável a fixação do montante da indenização com base na média dos orçamentos apresentados pelo perito judicial relativos a produtos similares ao objeto dos autos. 3. A reforma do julgado demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência vedada no recurso especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1370593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/08/2019, DJe 12/09/2019)
+Ante o exposto, com base no art. 932, inciso IV, do CPC/2015 c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro a condenação em honorários sucumbenciais para 17% (dezessete por cento) do valor da causa, observada a suspensão da sua exigibilidade em virtude da concessão da assistência judiciária gratuita.
+Intimem-se.
