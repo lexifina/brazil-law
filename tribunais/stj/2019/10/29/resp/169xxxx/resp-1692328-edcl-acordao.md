@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DO ART. 1.022 DO CPC/2015. AUSÊNCIA.
+1. Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC/2015, algo inexistente no caso concreto.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração interpostos pela Fazenda do Estado de São Paulo contra acórdão da Segunda Turma desta Corte Superior assim ementado (e-STJ, fls. 499/500):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. RECURSO INTERPOSTO PELA ALÍNEA "B" DO PERMISSIVO CONSTITUCIONAL. ATO DE GOVERNO LOCAL. INEXISTÊNCIA. INVIABILIDADE DE CONHECIMENTO. IPVA. VEÍCULO TRANSFERIDO SEM COMUNICAÇÃO AO ÓRGÃO COMPETENTE. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE AFASTADA. INAPLICABILIDADE DO ART. 134 DO CTB ÀS RELAÇÕES JURÍDICO-TRIBUTÁRIAS.
+1. Inexiste contrariedade ao art. 1.022, II, do CPC/2015 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. "O cabimento do recurso especial pela alínea "b" do inciso III do art. 105 da Constituição Federal pressupõe que haja a Corte de origem homenageado ato de governo local em detrimento da legislação federal. Inexistente tal fato, impossível viabilizar o processamento do recurso. É a hipótese dos autos, em que em nenhum momento ocorreu tal situação" (AgRg no REsp 1.428.598/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/6/2015).
+3. Esta Corte de Justiça possui o entendimento firmado de que a obrigatoriedade prevista do art. 134 do CTB, qual seja, a comunicação pelo alienante de veículo sobre a ocorrência de transferência da propriedade ao órgão de trânsito competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, não se aplica extensivamente ao pagamento do IPVA, pois o imposto não se confunde com penalidade.
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+Sustenta a embargante, em suma, que (e-STJ, fl. 517):
+ ..  o fundamento utilizado pela Corte Local para reconhecer a responsabilidade da recorrente pelos débitos de IPVA foi a falta de comunicação da transferência do veículo aos órgãos competentes, o que o torna solidariamente responsável pelo pagamento do imposto, nos exatos termos do art. 6º, II, da Lei Estadual nº 13.296/2008 (que regula o IPVA no Estado de São Paulo).
+Com efeito, da leitura atenta do acórdão do TJ/SP, conclui-se que a responsabilidade solidária pelo IPVA foi declarada pela Corte Estadual com base no supracitado art. 6º, II, da Lei Estadual nº 13.296/2008.
+Nesse contexto, tendo o Tribunal Local admitido a responsabilidade tributária do recorrente com base em regramento contida na Lei Estadual nº 13.296/2008, o acolhimento do seu recurso especial demandaria, necessariamente, o exame da legislação local em questão, situação vedada pela súmula 280/STJ.
+Requer, assim, " ..  o provimento dos presentes embargos declaratórios, com efeitos infringentes, para que, examinada a questão da incidência da súmula 280/STF ao caso dos autos, e reconhecida a aplicabilidade do óbice contido no referido enunciado sumular, seja negado provimento ao recurso especial" (e-STJ, fl. 518).
+A parte adversa apresentou impugnação às e-STJ, fls. 522-525.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC/2015, algo inexistente no caso concreto.
+Não há falar em omissão ou falta de fundamentação quando o acórdão recorrido expressamente consignou que (e-STJ, fls. 504/505):
+Com efeito, esta Corte de Justiça possui o entendimento firmado de que a obrigatoriedade prevista do art. 134 do CTB, qual seja, a comunicação pelo alienante de veículo sobre a ocorrência de transferência da propriedade ao órgão de trânsito competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, não se aplica extensivamente ao pagamento do IPVA, pois o imposto não se confunde com penalidade.
+Na mesma linha, vale conferir:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. PAGAMENTO DO IPVA. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. NÃO CONFIGURAÇÃO.
+1. Na hipótese dos autos o entendimento do Tribunal de origem não está em consonância com a orientação do Superior Tribunal de Justiça de que a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com qualquer tipo de penalidade.
+2. Recurso Especial provido.
+(REsp 1.689.949/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. PAGAMENTO DO IPVA. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. NÃO CONFIGURAÇÃO. INCIDÊNCIA DA SÚMULA N. 83/STJ. ACÓRDÃO FUNDAMENTADO EM LEI FEDERAL. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. SÚMULA N. 280/STF. INAPLICABILIDADE.
+I - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com qualquer tipo de penalidade.
+II - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula n. 83/STJ.
+III - Tendo o acórdão recorrido analisado a controvérsia à luz do art. 134 do Código de Trânsito Brasileiro, ainda que mencione a lei local, revela-se inaplicável o verbete da Súmula n. 280 do Supremo Tribunal Federal. Precedente.
+IV - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg no REsp 1.528.438/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/12/2015, DJe 5/2/2016)
+TRIBUTÁRIO. PROCESSUAL CIVIL. ACÓRDÃO FUNDAMENTADO EM LEI FEDERAL. NÃO INCIDÊNCIA DA SÚMULA 280/STF. ART. 134 DO CTB. ALIENAÇÃO DE VEÍCULO. AUSÊNCIA DE COMUNICAÇÃO AO ÓRGÃO COMPETENTE. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE APENAS A EVENTUAIS INFRAÇÕES DE TRÂNSITO. INTERPRETAÇÃO NÃO EXTENSIVA AO IPVA.
+1. Não incide no presente caso a Súmula 280/STF, pois o Tribunal de origem, ao analisar a controvérsia, fundamentou-se no art. 134 do Código de Trânsito Brasileiro. A menção à lei estadual ocorreu apenas em complementação de fundamentação.
+2. Nos termos da jurisprudência pacífica do STJ, a regra do art. 134 do CTB (é obrigatória a comunicação pela parte alienante do veículo da transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito) não se aplica aos débitos tributários, em especial ao IPVA, tendo em vista que a mencionada exação não se confunde com nenhum tipo de penalidade.
+Agravo regimental improvido.
+(AgRg no REsp 1.540.127/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 3/9/2015, DJe 14/9/2015)
+Assim, como é possível observar, o acórdão está em dissonância com a jurisprudência desta Corte Superior, pelo que merece ser reformado.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para anular o acórdão recorrido e afastar, na espécie, a responsabilidade solidária do alienante ao pagamento do IPVA do veículo transferido.
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte insurgente não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e, sim, rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
