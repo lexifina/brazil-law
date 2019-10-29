@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO. RESPONSABILIDADE DO ANTIGO PROPRIETÁRIO POR INFRAÇÕES COMETIDAS APÓS A VENDA DO VEÍCULO. AUSÊNCIA DE REGISTRO DE TRANSFERÊNCIA JUNTO AO DETRAN. COMPROVAÇÃO DA VENDA. REGRA DO ARTIGO 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO MITIGADA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 191):
+PROCESSO CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. INFRAÇÃO DE TRÂNSITO. ART. 134 DO CTB. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega que não há falar em reexame do conjunto probatório, para o deslinde da controvérsia, o que afasta a incidência da Súmula 7/STJ. Nesse sentido, afirma que "o acordão recorrido delineou de forma harmônica e sem quaisquer controvérsias, a alienação do veículo em data anterior ao cometimento da infração que ensejou a aplicação da penalidade de suspensão do direito de dirigir ao impetrante" (fl. 200).
+Com impugnação.
+É o relatório.
+Em virtude das razões expostas na petição de fls. 198-203, reconsidero a decisão de fls. 191-193 e passo a nova análise do recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo TJ/Rio Grande do Sul, assim ementado (fl. 100):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. INFRAÇÃO DE TRÂNSITO. MANDADO DE SEGURANÇA.
+Reconhecida a legitimidade do DETRAN/RS, na medida em que o impetrante não impugna o AIT lançado pelo DNIT, mas somente o PSDD, cuja competência é da apelada.
+Em que pese a transferência da propriedade do veículo automotor para efeitos civis se perfectibilize com a tradição, no âmbito administrativo é necessária a comunicação ao DETRAN, pelo anterior proprietário.
+O artigo 134 do Código de Trânsito Brasileiro dispõe que, no caso de transferência de propriedade de veículo, deve o antigo proprietário encaminhar ao órgão de trânsito, dentro do prazo legal, o comprovante de transferência de propriedade, sob pena de se responsabilizar solidariamente pelas penalidades impostas.
+Hipótese em que não há irregularidades no procedimento administrativo instaurado pela autarquia estadual.
+APELAÇÃO CÍVEL DESPROVIDA. POR MAIORIA.
+O recorrente alega dissídio jurisprudencial no tocante à interpretação do art. 134 do CTB, ao argumento de que comprovada a transferência da propriedade do veículo, afasta-se a responsabilidade do antigo proprietário pelas infrações cometidas após a alienação, mitigando-se, assim, o comando do referido dispositivo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 158/167.
+É o relatório. Passo a decidir.
+O cerne da controvérsia reside na existência de responsabilidade do antigo proprietário do automóvel em relação à infração cometida após a sua venda quando a transferência não é comunicada ao Detran.
+Esta é a letra do artigo 134 do Código de Trânsito Brasileiro:
+"Art. 134. No caso de transferência de propriedade, o proprietário antigo deverá encaminhar ao órgão executivo de trânsito do Estado dentro de um prazo de trinta dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação".
+Verifica-se que a referida norma legal dispõe sobre a incumbência do alienante de comunicar a transferência de propriedade de veículo ao órgão de trânsito, no prazo de trinta dias, sob pena de responder solidariamente por eventuais infrações de trânsito.
+Ocorre que tal regra sofre mitigação quando restarem comprovadas nos autos que as infrações foram cometidas após aquisição do veículo por terceiro, mesmo que não ocorra a transferência, nos termos do art. 134 do CTB, afastando a responsabilidade do antigo proprietário.
+Esse é o entendimento pacífico do STJ:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. MULTAS. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. INTERPRETAÇÃO DO ART. 134 DO CTB. RELATIVIZAÇÃO. PRECEDENTES.
+1. Há nos autos prova de que o agravado transferiu a propriedade do veículo antes da ocorrência dos fatos geradores das obrigações, ou seja, as infrações de trânsito ocorreram quando o veículo já estava em propriedade do novo comprador.
+2. O art. 134 do Código de Trânsito Brasileiro dispõe que, no caso de transferência de propriedade de veículo, deve o antigo proprietário encaminhar ao órgão de trânsito, dentro do prazo legal, o comprovante de transferência de propriedade, sob pena de se responsabilizar solidariamente pelas penalidades impostas.
+3. Ocorre que tal regra sofre mitigação quando ficar comprovado nos autos que as infrações foram cometidas após aquisição do veículo por terceiro, mesmo que não ocorra a transferência, nos termos do art. 134 do CTB, afastando a responsabilidade do antigo proprietário. Precedentes. Súmula 83/STJ.
+4. Mostra-se despropositada a argumentação de inobservância da cláusula de reserva de plenário (art. 97 da CRFB) e do enunciado 10 da Súmula Vinculante do STF, pois, ao contrário do afirmado pelo agravante, na decisão recorrida, não houve declaração de inconstitucionalidade dos dispositivos legais suscitados, tampouco o seu afastamento, mas apenas a sua exegese. Agravo regimental improvido. (AgRg no REsp 1.482.835/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 14/11/2014 - grifos nossos.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CÓDIGO DE TRÂNSITO BRASILEIRO. SUSPENSÃO DO DIREITO DE DIRIGIR. ALIENAÇÃO DE VEÍCULO. RESPONSABILIDADE PELAS INFRAÇÕES. SOLIDARIEDADE ENTRE COMPRADOR E VENDEDOR ENQUANTO NÃO HOUVER A COMUNICAÇÃO DO NEGÓCIO JURÍDICO AO DETRAN. ACÓRDÃO A QUO QUE AFIRMA ESTAR COMPROVADO QUE AS INFRAÇÕES QUE ENSEJARAM A PENALIDADE NÃO FORAM COMETIDAS PELO VENDEDOR. IMPOSSIBILIDADE DE SER-LHE APLICADA A SUSPENSÃO DO DIREITO DE DIRIGIR.
+1. Hipótese em que a autarquia estadual pretende que a penalidade de suspensão do direito de dirigir seja aplicada ao antigo proprietário do automóvel, ao fundamento de que ele é solidariamente responsável pelas infrações de trânsito que cometeu o comprador, porque não procedeu a transferência do veículo junto ao DETRAN-PR.
+2. Analisando casos semelhantes, tanto a Primeira como a Segunda Turma firmaram entendimento de que realmente existe a solidariedade pela infrações entre o vendedor e o comprador do veículo, enquanto a alienação não for informada ao DETRAN. No entanto, tal solidariedade não é absoluta e deve ser relativizada nos casos em que estiver comprovado que não foi o vendedor que cometeu as infrações. Precedentes: REsp 804.458/RS, Rel. Ministro teori Albino Zavascki, Primeira Turma, DJe 31/08/2009 e REsp 1024815/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 04/09/2008.
+3. No caso dos autos, não se deve aplicar a penalidade ao ora recorrido, uma vez que o acórdão a quo é categórico ao afirmar que a infração não foi cometida pelo recorrido, mas, sim, pelo novo proprietário do veículo.
+4. Recurso especial não provido (REsp 1.063.511/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/3/2010, DJe 26/3/2010 - grifos nossos.)
+Na hipótese dos autos, o Tribunal de origem concluiu que, "em que pese a transferência de propriedade do veículo automotor para efeitos civis se perfectibilize com a tradição, no âmbito administrativo é necessária a comunicação ao DETRAN, pelo anterior proprietário" (fl. 102).
+Ante o exposto, dou provimento ao recurso especial para afastar a responsabilidade do antigo proprietário por eventuais infrações cometidas após a aquisição do veículo por terceiro.
+Publique-se. Intimem-se.
