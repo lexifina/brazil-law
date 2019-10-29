@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO DE SENTENÇA DE PARCIAL - A TAXA DE JUROS DEVE SE ATER AO LIMITA DA TAXA MÉDIA DE MERCADO - ACOLHIDO - RECURSO PROVIDO.
+Após longa discussão e maturação de tese ficou firmado em sistema de precedentes pelo STJ, que os juros remuneratórios deve ser ater à taxa média de mercado. Após essa longa construção jurisprudencial, as instituição financeira vem inovando na tese de que os juros remuneratórios podem validamente ultrapassar a taxa média de mercado do BACEN. Esta tese não deve ser admitida. A uma, porque foge do que estipulado em sistema de precedentes, já que quer fazer distinção onde não posta qualquer margem para se distinguir, ou seja, lá não diz que se permite ir além. Lá diz que é limitada à taxa média e, portanto, preceitos restritivos de direito tem interpretação restrita e, por via de consequência, não se admite interpretação extensiva. A duas, porque em acolhendo esta interpretação extensiva voltaremos para a subjetividade, quando o sistema de precedentes é claro e objetivo (fixa uma taxa certa e determinada que é o reflexo entre o menor e o maior), ou seja, abrirá divergência, novamente, no Judiciário, sobre o quê significa em limite do que é ou não abusivo, o que é "andar para trás", após longa discussão e maturação de tese jurisprudencial, que importará em instabilidade no mercado financeiro e consumerista. Então e logicamente, se a taxa média reflete a média entre o menor e o maior, então, os juros remuneratórios devem se ater ao exato percentual do que o BACEN trata como taxa média para aquela relação bancária a contar da data da assinatura do contrato entre as partes e sem margem para se justificar que pode passar "um pouquinho". Exata correspondência entre o percentual da tabela e a do contrato, sem nenhum centavo a mais" (fl. 55, e-STJ).
+No especial, a recorrente sustenta que "as instituições financeiras não são obrigadas a limitar a cobrança de juros remuneratórios, seja ao percentual de 12% ao ano, seja à taxa média de mercado, desde que respeitadas as normas emanadas do Conselho Monetário Nacional, que por força da Lei nº 4.595/1964, é quem tem a competência para dispor sobre matéria financeira no país, devendo prevalecer a livre contratação dos juros" (fls. 66, e-STJ).
+Não foram apresentadas contrarrazões (fl. 76, e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Verifica-se que no recurso especial há somente alegações genéricas, sem especificação dos dispositivos que supostamente foram violados pelo acórdão recorrido.
+Ademais, o recurso fundamentado em dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, constata-se a deficiência na fundamentação do recurso, o que atrai a aplicação do óbice da Súmula nº 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido." (AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013).
+"RECURSO ESPECIAL. DUPLICATAS PRESCRITAS . AÇÃO DE LOCUPLETAMENTO ILÍCITO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO VÁLIDA. RECURSO IMPROVIDO.
+(..)
+4. Para a demonstração do dissídio pretoriano, na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, são necessários a similitude fática e o cotejo analítico entre os acórdãos confrontados, circunstâncias não aferidas na espécie.
+(..)
+6. Deveras, a indicação do dispositivo tido como objeto da divergência jurisprudencial é imprescindível para a correta configuração do dissídio, nos termos do art. 105, III, "c", da Constituição Federal. Contudo, esta circunstância não se verifica na espécie, motivo pelo qual vislumbra-se a incidência da Súmula n. 284 do STF.
+7. Recurso improvido." (REsp nº 299.827/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 1/3/2011, DJe 16/3/2011).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015) porque o recurso especial é oriundo de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
