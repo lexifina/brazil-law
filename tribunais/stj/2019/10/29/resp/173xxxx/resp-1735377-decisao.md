@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com amparo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRF da 2ª Região assim ementado (e-STJ, fl. 218):
+DIREITO ADMINISTRATIVO. MILITAR. PUNIÇÃO DISCIPLINAR. VÍCIOS. INEXISTÊNCIA.
+1. A sentença, acertadamente, negou o pedido do autor de nulidade da punição disciplinar de sete dias de detenção.
+2. O autor, primeiro-sargento do Exército, recebeu punição disciplinar de sete dias de detenção por ausentar-se da guarda do Hospital Central do Exército na data de 30/11/2011, sem autorização do superior hierárquico e com prejuízo ao bom andamento do serviço, tudo apurado em regular processo administrativo no qual foi assegurado o contraditório e a ampla defesa.
+3. Apelação desprovida.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente sustenta violação dos arts. 2º, 3º, 41 e 50 da Lei n. 9.784/1999; e 8º, n. 2, alínea "G", da Convenção Americana de Direitos Humanos - Pacto de São José da Costa Rica, internalizada pelo Decreto n. 678/1992, ao fundamento de que existem vícios insanáveis no procedimento administrativo que ensejou sua punição, dentre eles (e-STJ, fl. 263):
+Como sustentado desde a petição inicial os principais vícios do processo administrativo que ensejou a punição consistem, em suma: a) na instauração de sindicância direcionada a apuração de transgressão disciplinar cometida por outro militar, tendo o Autor participado dela na condição de testemunha (fl. 48) e, somente em momento posterior, com evidente surpresa ao Autor, este passou a ser sindicado, inclusive com aplicação de punição; b) a impossibilidade de, na condição inicial de testemunha (e não de sindicado) acompanhar o depoimento das outras testemunhas e formular perguntas; c) a suposta falta do Autor não gerou qualquer prejuízo ao serviço, especialmente porque não houve qualquer ocorrência no período (depoimentos de fls. 47/48 e 65); e d) a solução da sindicância, além de extrapolar o prazo previsto em regulamento, não apontou a fundamentação jurídica para as suas conclusões não estando devidamente motivada/fundamentada.
+Com contrarrazões.
+É o relatório.
+É cediço no ordenamento jurídico pátrio que o recurso especial, de competência constitucional desta Corte, limita-se ao exame de matérias exclusivamente de direito, com base nas hipóteses previstas no art. 105 da CF/1988, não em vão possui o termo "especial" em sua nomenclatura.
+Assim, decerto que não se presta, por conclusão juridicamente lógica, como "super instância" ou "terceira instância" ordinária na qual as partes poderiam se valer para fins de reexame do processo, em qualquer hipótese, se sobrepondo à devida autoridade reservada à competência também constitucional dos tribunais de segunda instância.
+Posto isso e, após detido estudo dos autos, fica cristalino que a real pretensão do recorrente é a revisão da lide de forma ampla, no sentido de que esta Corte se pronuncie a respeito de temas circunstanciais que supostamente conduziriam à nulidade do procedimento administrativo, tais como autoria, cerceamento de defesa, inadequação da punição imposta e desrespeito a mecanismos processuais como prazos, situações que já foram devidamente consideradas e ponderadas pelas instâncias ordinárias em estrita observância às normas de regência, bem como à descrição fática - controversa - e às provas carreadas aos autos.
+Dessa forma, impossível o reexame das quaestio iuris sem a incursão no substrato fático-probatório dos autos, o que vai de encontro ao teor do enunciado sumular n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
