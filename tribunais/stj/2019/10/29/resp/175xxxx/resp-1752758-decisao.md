@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Alagoas, com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado (e-STJ, fl. 151):
+ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL INATIVO. TETO REMUNERATÓRIO. FIXAÇÃO DE SUBTETO INFERIOR AO TETO CONSTITUCIONAL POR MEIO DE LEI ORDINÁRIA. IMPOSSIBILIDADE. ARTIGO 37, INCISO XI, DA CONSTITUIÇÃO FEDERAL. EXISTÊNCIA DE ILEGALIDADE NO ATO IMPUGNADO. DIREITO LÍQUIDO E CERTO VIOLADO. CONCESSÃO DA SEGURANÇA. POR MAIORIA.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente sustenta, inicialmente, violação do art. 1.022 do CPC/2015, ao argumento de omissão a respeito de pontos essenciais ao deslinde da controvérsia, em especial algumas teses que refutariam o pleito formulado na ação mandamental.
+Quanto à questão de fundo, sustenta contrariedade aos arts. 1º da Lei n. 12.016/2009 e 15, 16, 20, II, "a" e 21 da LRF, ao fundamento de que " ..  é nula de pleno direito a norma que, em 2012, estabeleceu um aumentou no subsídio dos deputados estaduais, posto que incompatível com impedimentos oriundos da Lei de Responsabilidade Fiscal. Assim, como esta norma estadual seria o único fundamento do suposto direito pleiteado pela impetrante, resta clara a necessidade de reforma dos acórdãos recorridos" (e-STJ, fls. 309/310).
+Instada a se manifestar, a douta Subprocuradoria-Geral da República opinou pelo não conhecimento do recurso.
+Com contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Compulsando-se os autos, constata-se inexistir ofensa ao comando normativo inserto nos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão proferido na origem se manifestou satisfatoriamente sobre todos os aspectos fático-jurídicos relevantes e inerentes à controvérsia instaurada, inclusive as teses argumentativas deduzidas pelas partes.
+Frise-se que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos.
+Desnecessário, portanto, qualquer complemento à fundamentação assentada pela Corte regional, ante a ausência de máculas na prestação jurisdicional, razão pela qual não se cogita em violação do art. 1.022 do CPC/2015.
+Noutro passo, depreende-se dos autos que a questão foi decidida com base em argumento constitucional, mais especificamente as ECs n. 41/2003 e 47/2005, da CF/1988, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+No mais, verifica-se que o pleito cinge-se à existência, ou não, de certeza e liquidez do direito peticionado pelos impetrantes na origem, momento em que o ora recorrente argumenta pela natureza de "fato notório" do ponto controvertido (desrespeito ao limite de gastos com pessoal), situação que, obviamente, demandaria reexame dos fatos e provas dos autos, esbarrando no óbice contido na Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. Tendo a parte recorrente suscitado de modo genérico a afronta ao art. 535 do CPC/1973, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, a aplicação da Súmula 284 do STF é de rigor.
+2. O Superior Tribunal de Justiça possui o entendimento de que aferir a existência de prova pré-constituída em sede de mandado de segurança, bem como de direito líquido e certo, demanda a análise do conteúdo fático-probatório constante nos autos, o que é inviável nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 7.34.061/PI, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/8/2019, DJe 29/8/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. BOMBEIRO DA POLICIA MILITAR ESTADUAL. EXCLUSÃO DA CORPORAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO DE SER REINTEGRADO NAS FILEIRAS DA PMPR. LEGALIDADE DA DECISÃO ADMINISTRATIVA DO COMANDANTE-GERAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. O entendimento firmado pelo Tribunal a quo, no sentido de que inexiste o direito líquido e certo alegado pelo impetrante, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte.
+V. Na linha da jurisprudência do STJ, a análise da alegação de contrariedade ao art. 1º da Lei 12.016/2009, a fim de aferir a existência de direito líquido e certo necessário à concessão da segurança, demanda exceder os fundamentos colacionados no acórdão guerreado, com a incursão no conteúdo fático-probatório dos autos, o que implica, necessariamente, o reexame de fatos e provas, insuscetível de ser realizado em sede de Recurso Especial, ante o óbice da Súmula 7/STJ.
+ ..
+(AgInt no AREsp 1.314.241/PR, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 6/12/2018, DJe 13/12/2018)
+Por fim, depreende-se do recurso a existência de razões vagas, genéricas a respeito da ofensa aos arts. 15, 16, 20, II, "a" e 21 da LRF - a parte apenas cita os dispositivos no cabeçalho do tópico e não realiza o respectivo cotejo específico de sua violação na fundamentação -, e que se encontram dissociadas dos fundamentos do acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
