@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. ART. 86, PARÁGRAFO ÚNICO, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA MÍNIMA. TRIBUNAL RECORRIDO CONCLUIU PELA NÃO OCORRÊNCIA. REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE NESTE SEDE ESPECIAL. SÚMULA 07/STJ.
+1. Elidir a conclusão do Tribunal a quo - no tocante ao quantitativo de sucumbência em que cada parte foi vencedora e vencida - demandaria a análise dos valores envolvidos na ação revisional ajuizada pela parte recorrente, em especial, a análise dos valores cuja exigibilidade foi afastada ou mantida pelo aresto reclamado, o que, inevitavelmente, acarretaria o revolvimento do quadrante fático-probatório dos autos, providência esta vedada nesta sede especial, a teor das Súmula 07/STJ.
+2. Agravo desprovido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por COVERCOPY LOCACAO E VENDA DE EQUIPAMENTOS E SUPRIMENTOS LTDA em face de decisão monocrática, cuja ementa restou consignada nos seguintes termos:
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. ART. 86, PARÁGRAFO ÚNICO, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA MÍNIMA. TRIBUNAL RECORRIDO CONCLUIU PELA NÃO OCORRÊNCIA. REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE NESTE SEDE ESPECIAL. SÚMULA 07/STJ.
+1. Elidir a conclusão do Tribunal a quo - no tocante ao quantitativo de sucumbência em que cada parte foi vencedora e vencida - demandaria a análise dos valores envolvidos na ação revisional ajuizada pela parte recorrente, em especial, a análise dos valores cuja exigibilidade foi afastada ou mantida pelo aresto reclamado, o que, inevitavelmente, acarretaria o revolvimento do quadrante fático-probatório dos autos, providência esta vedada nesta sede especial, a teor das Súmula 07/STJ.
+2. Agravo conhecido para não conhecer do recurso especial." (e-STJ fl. 1.901).
+Em suas razões, a empresa agravante pleiteia a reforma da decisão agravada, aduzindo, em síntese, que:
+" ..  não é necessária a análise dos valores envolvidos na Ação Revisional para averiguar a sucumbência mínima. Referidos valores, inclusive, serão objetos de liquidação de sentença; ou seja, ainda não se encontram nos autos. O que se buscou com a interposição do Recurso Especial e do Agravo, então, foi a análise da importância e o peso dos pedidos procedentes enquanto matéria de direito. Concessa venia, esta análise é perfeitamente cabível de ser realizada por este e. Superior Tribunal de Justiça sem caracterizar revolvimento de matéria fático probatória e incidência da súmula 07.
+Veja-se que nos autos, após o julgamento da Apelação e principalmente em razão da declaração de nulidade parcial da sentença combatida, a Agravante sucumbiu apenas quanto à limitação da taxa de juros e capitalização dos contratos n. 328.407.245 e 328.401.712. Quanto à comissão de permanência referente ao contrato 328.407.245, não seria oportuno considerar sucumbência da Agravante tendo em vista que os julgamentos relacionados a ela lhes foram favoráveis.
+Isso porque tanto acórdão, quanto sentença afastaram a cumulação da comissão de permanência com os demais encargos da mora, mesmo que autorizada apenas a cobrança única da comissão de permanência. Ou seja, o efeito prático quando realizado recálculo dos valores será a diminuição do débito referente à cumulação da comissão de permanência com os demais encargos da mora: ou serão cobrados apenas os encargos da mora, ou será cobrada apenas a comissão de permanência. Sem cumulação, reduzindo-se, portanto, o quantum debeatur e sendo mais um caso de vitória da Agravante." (e-STJ fl. 1.908).
+Defende, destarte, que restou patente a violação ao artigo 86, parágrafo único, do Código de Processo Civil/2015.
+Aponta precedente deste Superior Tribunal de Justiça favorável à sua pretensão.
+Impugnação ao agravo interno às e-STJ fls. 1.914/1.915.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. ART. 86, PARÁGRAFO ÚNICO, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA MÍNIMA. TRIBUNAL RECORRIDO CONCLUIU PELA NÃO OCORRÊNCIA. REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE NESTE SEDE ESPECIAL. SÚMULA 07/STJ.
+1. Elidir a conclusão do Tribunal a quo - no tocante ao quantitativo de sucumbência em que cada parte foi vencedora e vencida - demandaria a análise dos valores envolvidos na ação revisional ajuizada pela parte recorrente, em especial, a análise dos valores cuja exigibilidade foi afastada ou mantida pelo aresto reclamado, o que, inevitavelmente, acarretaria o revolvimento do quadrante fático-probatório dos autos, providência esta vedada nesta sede especial, a teor das Súmula 07/STJ.
+2. Agravo desprovido.
+
+VOTO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Constato, do confronto entre as razões do agravo interno e a fundamentação do julgado recorrido, que a parte agravante não traz fundamentos capazes de infirmar as conclusões tiradas no decisum objurgado.
+Dessa forma, deve ser mantido o entendimento firmado pela decisão agravada.
+Com efeito, no que importa ao alegado malferimento do artigo 86, parágrafo único, do CPC/2015, tenho que o Colegiado local afastou a tese de sucumbência mínima da empresa autora, ora agravante, ao sustento de que:
+" ..  a mesma sucumbiu com relação ao pedido de limitação da taxa de juros, expurgo da capitalização dos contratos n.º 328.407.245 e 328.401.712 e comissão de permanência dos contratos n.º 328.406.900 e 328.401.712. De outro lado, com o provimento parcial do recurso de apelação cível 01, verifica-se que o réu restou vencedor quanto à aplicação da comissão de permanência de forma isolada quanto ao contrato n.º 328.041.245 e vencido em relação à limitação dos juros dos contratos n.º 328.406.900, de [CONTA]; ao expurgo da capitalização de juros quantos ao contrato de abertura de credito conta corrente e contrato n.º 328.406.907; impossibilidade de cumulação de comissão de permanência com outros encargos moratórios dos contratos de conta corrente e n.º 328.406.907 e expurgo de tarifas não autorizadas, razão pela qual deve a parte autora COVERCOPY LOCAÇÃO E VENDA DE EQUIPAMENTOS E SUPRIMENTOS LTDA. ser condenada ao pagamento de 40% (quarenta por cento) das custas processuais e honorários advocatícios, estes fixados em R$ 3.000,00, restando o réu BANCO DO BRASIL S.A. responsável pelo pagamento de 60% (sessenta por cento) do ônus de sucumbência." (e-STJ fl. 1.833, grifei).
+Assentadas essas premissas decisórias, vejo que, de fato, andou bem a decisão agravada.
+Com efeito, elidir a conclusão do Tribunal a quo - no tocante ao quantitativo de sucumbência em que cada parte foi vencedora e vencida - demandaria a análise dos valores envolvidos na ação revisional ajuizada pela parte recorrente, em especial, a análise dos valores cuja exigibilidade foi afastada ou mantida pelo aresto reclamado, o que, inevitavelmente, acarretaria o revolvimento do quadrante fático-probatório dos autos, providência esta vedada nesta sede especial, a teor das Súmula 07/STJ.
+Observe-se, ainda, quanto ao precedentes apontado, que cada um dos casos confrontados possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica conclusões distintas.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
