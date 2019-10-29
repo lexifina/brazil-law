@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO NÃO CONHECIDO. FUNDAMENTO NÃO INFIRMADO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recurso especial interposto pelos agravantes não foi admitido pelo Tribunal a quo pela ausência de fundamentação suficiente (Súmula n. 284 do STF). Conquanto a defesa haja afirmado, ao interpor o agravo contra a inadmissão do especial, que o recurso apresentava argumentos bastantes, "não evidenciou, com o cotejo entre as razões de decidir do acórdão combatido e os argumentos exarados no recurso especial, a efetiva impugnação aos motivos apresentados pelo Tribunal a quo para negar provimento à apelação e, por conseguinte, a presença de elementos suficientes a permitir o conhecimento do recurso especial", o que atraiu a aplicação da Súmula n. 182 do STJ.
+2. No agravo regimental, a defesa nada diz a respeito do óbice sumular em questão, nem demonstra haver equívoco na decisão combatida, pois se limita a reforçar as questões de mérito do recurso especial - que não foi admitido, como já visto. Incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+SERGIO DA SILVA COLUNA e IOLANDA CAROLINE DA SILVA PALERMO agravam de decisão em que não conheci do agravo em recurso especial.
+No agravo regimental, a defesa sustenta que "assistem (sic) razão aos recorrentes, uma vez que demonstraram no recurso especial nulidades decorrentes do cerceamento de defesa  .. , em especial a não realização de exame toxicológico no recorrente Sergio,  ..  necessário para atestar sua dependência química, desclassificando o delito de tráfico de drogas para o descrito no artigo 28 da referida lei" (fl. 408).
+Alega, também, que "a recorrente Iolanda, convivente do recorrente Sergio, não é traficante e muito menos usuária de drogas conforme as provas produzidas nos autos, fato este que demonstra de forma clara a ausência de dolo no delito imputado contra sua pessoa, devendo a mesma ser absolvida por esta corte" (fl. 408).
+Postula, dessa forma, a reconsideração do decisum impugnado ou a submissão do feito ao órgão colegiado, para que seja conhecido o agravo e provido o recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO NÃO CONHECIDO. FUNDAMENTO NÃO INFIRMADO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recurso especial interposto pelos agravantes não foi admitido pelo Tribunal a quo pela ausência de fundamentação suficiente (Súmula n. 284 do STF). Conquanto a defesa haja afirmado, ao interpor o agravo contra a inadmissão do especial, que o recurso apresentava argumentos bastantes, "não evidenciou, com o cotejo entre as razões de decidir do acórdão combatido e os argumentos exarados no recurso especial, a efetiva impugnação aos motivos apresentados pelo Tribunal a quo para negar provimento à apelação e, por conseguinte, a presença de elementos suficientes a permitir o conhecimento do recurso especial", o que atraiu a aplicação da Súmula n. 182 do STJ.
+2. No agravo regimental, a defesa nada diz a respeito do óbice sumular em questão, nem demonstra haver equívoco na decisão combatida, pois se limita a reforçar as questões de mérito do recurso especial - que não foi admitido, como já visto. Incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O recurso especial interposto pelos agravantes não foi admitido pelo Tribunal a quo pela ausência de fundamentação suficiente (Súmula n. 284 do STF), uma vez que "os Recorrentes se limitaram a reproduzir, de forma praticamente literal, as razões contidas no recurso de Apelação, ignorando por completo os fundamentos consignados no acórdão recorrido para a rejeição das teses apresentadas" (fl. 369, grifei).
+Como já ressaltado no decisum combatido, conquanto a defesa haja afirmado, ao interpor o agravo contra a inadmissão do especial, que o recurso apresentava argumentos bastantes, "não evidenciou, com o cotejo entre as razões de decidir do acórdão combatido e os argumentos exarados no recurso especial, a efetiva impugnação aos motivos apresentados pelo Tribunal a quo para negar provimento à apelação e, por conseguinte, a presença de elementos suficientes a permitir o conhecimento do recurso especial" (fl. 403, destaque no original), o que atraiu a aplicação da Súmula n. 182 do STJ.
+No agravo regimental, a defesa nada diz a respeito do óbice sumular em questão, nem demonstra haver equívoco na decisão combatida, pois se limita a reforçar as questões de mérito do recurso especial - que não foi admitido, como já visto.
+Assim, incide a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito recentes julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+À vista do exposto, não conheço do agravo regimental.
