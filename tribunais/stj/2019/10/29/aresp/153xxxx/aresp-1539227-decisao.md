@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interposto contra decisão que não admitiu recurso especial, fundado na alínea "a", contra acórdão do TRF da 4ª Região assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. NÃO INCIDÊNCIA NO PERÍODO DE TRAMITAÇÃO DO PRECATÓRIO.
+Nos termos do julgamento sob repercussão geral do RE 591.085/MS pelo Supremo Tribunal Federal em 04/12/2008 (Rel. Ministro Ricardo Lewandoski), restou pacificado o entendimento de que não incidem juros moratórios no período de tramitação da RPV ou do precatório, a menos que a dívida não seja adimplida no prazo legal para o pagamento, hipótese em que voltam a fluir até a efetiva quitação.
+Agravo de instrumento ao qual se nega provimento.
+A parte recorrente aponta violação do art. 1º-F da Lei 9.494/1997, com a redação da Lei 11.960/2009. Defende, em resumo, a incidência de juros da data da expedição do requisitório à data do efetivo pagamento. Ressalta, ainda, que o advento da Ementa Constitucional 62/2009 implicou a superação do entendimento cristalizado na SV 17.
+Contrarrazões às e-STJ fls. 533/541.
+Passo a decidir.
+O Plenário do Supremo Tribunal Federal, em 15/03/2019, reconheceu a repercussão geral do tema discutido neste recurso, qual seja, a incidência de juros da mora no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor (RPV) e o efetivo pagamento (RE 1.169.289/SC - Tema 1.037 - RG).
+Encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AREsp 1.379.039/PE, Relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 08/11/2018; REsp 1.686.774/PE, Relator Ministro OG FERNANDES, Segunda Turma, DJe 20/10/2017; REsp 1.397.717/SC, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 08/05/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Recurso Extraordinário 1.169.289/SC pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
