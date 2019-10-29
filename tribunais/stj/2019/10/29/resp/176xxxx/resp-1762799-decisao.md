@@ -1,0 +1,38 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/73. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO CAUTELA DE EXIBIÇÃO DE DOCUMENTOS. ENUNCIADO 389/STJ. PRÉVIO REQUERIMENTO ADMINISTRATIVO E PAGAMENTO DO CUSTO DO SERVIÇO. AUSÊNCIA DE INTERESSE DE AGIR.
+RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela OI S/A, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal de Justiça do Estado do Paraná, cuja ementa está assim redigida:
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM. TELEFONIA. FALTA DE INTERESSE DE AGIR. AFASTADA. QUALQUER TENTATIVA DA PARTE DE BUSCAR OBTER OS DOCUMENTOS PELA VIA EXTRAJUDICIAL COMPROVA O INTERESSE DE AGIR. SÚMULA 389 DO STJ INAPLICÁVEL. LIVRE ACESSO AO JUDICIÁRIO. GARANTIA CONSTITUCIONAL PREVISTA NO ARTIGO 5º, XXXV DA CF. MEDIDA CAUTELAR QUE OBJETIVA A OBTENÇÃO DE DOCUMENTOS PARA FUTURA UTILIZAÇÃO. RITO CORRETO PARA A PRETENSÃO DE OBTER DOCUMENTOS. INOCORRÊNCIA DE PRETENSÃO DE PRODUÇÃO DE PROVAS.ANÁLISE DA PRESCRIÇÃO. INCABÍVEL EM SEDE CAUTELAR. DISCUSSÃO QUE SOMENTE OCORRERÁ QUANDO, E SE OCORRER O AJUIZAMENTO DA AÇÃO PRINCIPAL. APLICAÇÃO DA LEGISLAÇÃO CONSUMERISTA. ENTENDIMENTO DO STJ. DESNECESSIDADE DE COMPROVAÇÃO DO FUMUS BONI IURIS E DO PERICULUM /N MORA NAS MEDIDAS CAUTELARES DE APRESENTAÇÃO DE DOCUMENTOS. EXERCÍCIO ABUSIVO DE DIREITO. NÃO CONFIGURADO. DIREITO AO CONSUMIDOR DE OBTER DOCUMENTOS COMUNS AVENÇADOS ENTRE AS PARTES. SUCUMBÊNCIA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, sustentou, além do dissídio, a afronta aos arts. 535 do CPC/73 e 100, §1º, da Lei 6.404/76. Além da negativa de prestação jurisdicional, asseverou que o Tribunal local em manifesta dissintonia ao entendimento consolidado no STJ, inclusive mediante a súmula 389, ser desnecessário o prévio esgotamento das instâncias administrativas para a busca da tutela de interesses perante o Judiciário.
+Asseverou a falta de interesse de agir do recorrido para a presente ação de exibição, pois deixou de esgotar a via administrativa na tentativa de obter informações acerca da relação acionária com a recorrente, mediante pagamento do valor correspondente à pretensão. Pediu o provimento.
+Houve contrarrazões.
+Devolvido à Câmara julgadora para eventual juízo de retratação, houve a manutenção do acórdão, reconhecendo ter sido acostado aos autos o requerimento administrativo realizado comprovando seu interesse de agir, ausente a demonstração da exigência de pagamento de taxa pelo serviço (fl. 578 e ss.).
+Em sede de aclaratórios, ressaltou-se, ainda, terem sido informados os números dos contratos e, ainda, os CPF"s dos pretendentes, rejeitando os embargos (fls. 596 e ss.).
+O recurso especial foi admitido na origem.
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+A discussão é travada em sede de ação de exibição de documentos ajuizada pelos acionistas/subscritores contra a Brasil Telecom S/A com o objetivo de ver exibido o contrato de participação financeira e os demais registros acessórios de contratação e da subscrição das ações, além de cópia do livro de registro e transferência das ações nominativas
+Suscitou-se no recurso especial a negativa de prestação jurisdicional e a afronta ao art. 100 da Lei das SA"s, pois ausente a devida formalização do pedido administrativo e o pagamento da taxa de serviços correspondente, carecendo os autores de interesse de agir.
+A Corte de origem, em juízo de retratação, destacou que os autores atenderiam ao entendimento desta Corte Superior, mitigando-se a aplicação do enunciado 389/STJ, pois não teria sido exigido o pagamento da taxa de serviço.
+A parte ré opôs embargos de declaração contra o referido acórdão, destacando que a Câmara deixou de observar que o requerimento administrativo encaminhado pelo embargado era inidôneo, pois desprovido de cópia do CPF, RG, comprovante de endereço e cópia de procuração com firma reconhecida, no caso de representação.
+O acórdão a julgar os aclaratórios limita-se a afirmar que o pedido contém as numerações dos documentos dos postulantes, mas não se manifesta acerca da ausência das cópias exigidas pela recorrente e justificadas em face do sigilo das informações postuladas em nome dos acionistas.
+Evitando-se o desnecessário retardamento do processo e com base no art. 1.025 do CPC, destaco estar efetivamente presente nos autos e fora juntada pelos autores a resposta da recorrente ao pedido administrativo a ela endereçado em que postula o envio de cópias dos documentos dos postulantes para, então, dar andamento ao pedido.
+A propósito, este o seu teor (fl. 35 e-STJ):
+Acusamos o recebimento da solicitação, referentes às informações de contrato(s) de participação financeira firmado(s) pelo(s) cliente(s) com a Telecomunicações do Paraná S.A. - TELEPAR.
+Devolvemos o processo e informamos que para analisar a pertinência e a viabilidade do atendimento da solicitação, é imprescindível:
+1 - a identificação do solicitante (Pessoa Jurídica), com o envio de cópias do CNPJ, contrato ou estatuto social consolidado e atualizado e da ata que elegeu a diretoria em exercício. Os sócios, gerentes ou diretores com poderes para representar a sociedade devem apresentar cópia do documento de identidade e CPF e, no caso de representação, anexar também a procuração com firma reconhecida do outorgante, e a identificação do solicitante (Pessoa Física), com o envio de cópias do CPF, RG e comprovante de endereço e, no caso de representação, anexar cópia da procuração com firma reconhecida do outorgante para os endereços abaixo discriminados, das Instituições Custodiantes das ações de emissão da Brasil Telecom S.A. e Brasil Telecom Participações S.A.
+2 - NO CASO, A REFERIDA CORRESPONDÊNCIA VEIO DESPROVIDA DE COMPROVANTE DE ENDEREÇO / RG / CPF E INSTRUMENTO DE MANDATO COM O RESPECTIVO RECONHECIMENTO DE FIRMA NA ASSINATURA. CUMPRE SALIENTAR QUE A INFORMAÇÃO SOLICITADA GOZA DE SIGILO, SENDO QUE AS EXIGÊNCIAS SÃO DE FÁCIL REGULARIZAÇÃO E IMPORTARÁ NA ENTREGA NA DOCUMENTAÇÃO REQUERIDA, SEM NECESSIDADE DE AJUIZAMENTO DE MEDIDA JUDICIAL DE EXIBIÇÃO DE DOCUMENTO ADEMAIS, VOSSA SENHORIA AFIRMA QUE O CONTRATO ENCONTRA-SE EM ANEXO, CONTUDO O MESMO NÃO ESTÁ ANEXADO Á REFERIDA MISSIVA, BEM COMO QUALQUER OUTRO DOCUMENTO. AINDA, JÁ FORAM SOLICITADAS AS INFORMAÇÕES DAS SEGUINTES PESSOAS:
+[NOME] DE PAULA
+[NOME]
+REGINA CELIA AUGUSTINCRYK
+SENDO QUE FORAM RESPONDIDAS ATRAVÉS DA 35/2009, ACERCA DA AUSÊNCIA DE DOCUMENTOS, MAIS UMA VEZ NÃO CUMPRIDA.
+Os autores em sua inicial sustentam que protocolizaram (fl. 5 e-STJ) "requerimento administrativo perante a concessionária" mas que a resposta obtida teria a ré se limitado a "informar que: "As ações de emissão da Brasil Telecom Participações S/A. e Brasil Telecom S/A, encontram-se na forma escritural, administradas pelas instituições Depositárias: Banco Real e Bradesco, respectivamente.." não resta outra alternativa, senão recorrer ao judiciário para compelir ao cumprimento da obrigação legal."
+A causa de pedir formulada na inicial, pois, não é corroborada pela prova trazida pelo próprio autor, revelando-se descumprida a diligência necessária ao ajuizamento da ação.
+Tenho, assim, por ausente o interesse de agir, do que decorre a extinção do processo sem resolução do mérito, na forma do já referido enunciado 389/STJ.
+Ante o exposto, dou provimento ao recurso especial, extinguindo o processo por ausência de interesse de agir.
+Em face da extinção, inverto os ônus de sucumbência, determinando atentar-se para a eventual anterior concessão da gratuidade judiciária.
+Intimem-se.
