@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DE ALAGOAS contra a decisão da Presidência desta Corte de Justiça (e-STJ fls. 436/437), que conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 282 e 356 do STF.
+Alega a parte agravante, em síntese, que, "sendo a obrigação ilíquida, uma vez que discutida a base de cálculo do adicional de insalubridade, os juros moratórios somente são devidos a partir da citação do Estado, inexistindo mora anterior ao ajuizamento da demanda" (e-STJ fl. 444).
+Ao final, busca a reforma da decisão agravada, no sentido de dar provimento ao recurso especial.
+Impugnação (e-STJ fls. 458/465).
+Passo a decidir.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando a nova análise da insurgência.
+Trata-se de agravo interposto pelo ESTADO DE ALAGOAS contra decisão do Tribunal de Justiça daquela Unidade da Federação, que não admitiu o recurso especial, fundado na alínea "a" permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 341):
+DIREITO CONSTITUCIONAL. APELAÇÃO EM AÇÃO ORDINÁRIA PARA RECEBIMENTO DE ADICIONAL DE INSALUBRIDADE SOBRE SUBSÍDIO. POSSIBILIDADE. UTILIZAÇÃO DO VALOR DO SUBSÍDIO MÍNIMO DA CATEGORIA A QUE PERTENCEM. BASE DE CÁLCULO.
+INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. PRELIMINAR DE ILEGITIMIDADE PASSIVA EM FACE DO AUTOR, SR. ADALBERTO [NOME]. ACOLHIDA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+No especial obstaculizado, a parte recorrente apontou violação do art. 240 do CPC/2015 e do art. 405 do Código Civil, porquanto o caráter controvertido da base de cálculo do adicional afasta por si só qualquer liquidez da obrigação.
+Pois bem. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo 3).
+No caso, a decisão ora impugnada não conheceu do recurso especial, louvando-se de que o acórdão recorrido está de acordo com a jurisprudência desta Corte sobre a hipótese (Súmula 83 do STJ).
+Da leitura das razões do recurso, observa-se que o agravante não impugnou esse fundamento, limitando-se a reiterar as razões expostas no apelo especial, circunstância que enseja a aplicação do Enunciado 182 desta Corte de Justiça.
+Cumpre registrar que, não conhecido o recurso especial com base na Súmula 83 do STJ, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 436/437 e, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
