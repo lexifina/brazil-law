@@ -1,0 +1,12 @@
+DECISÃO
+1. Trata-se de agravo interno interposto por [NOME] DA SILVA E OUTRA, em face da decisão deste relator (fls. 652-659), que deu provimento ao seu recurso especial para reconhecer a obrigação de indenização de danos morais pela hospital, ora agravado.
+Nas razões do presente recurso (fls. 662-667), a agravante, alega que, no dispositivo final da decisão, este relator equivocou-se quanto a condenação da sucumbência, incorrendo em erro material.
+Ressalta que "tendo-se em vista que o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná foi reformando quanto ao pedido de indenização por danos morais, de igual forma deverá ser reformado o ônus da sucumbência, condenando o Agravado ao pagamento das custas processuais e honorários advocatícios conforme sentença de primeiro grau..".
+Postula, a reconsideração da decisão agravada, a fim de dar provimento ao agravo para arbitrar sucumbência recursal em favor dos advogados da ora agravante, tendo em vista que a decisão deste relator, que deu provimento ao seu recurso especial, faz menção aos honorários advocatícios em prol dos patronos da parte que sucumbiu e não dos patronos que foram vencedores.
+É o relatório.
+2. De início, ressalto não se vislumbrar, na espécie, a necessidade de reconsideração quanto ao mérito da decisão ora agravada, razão pela qual não conheço do presente agravo interno.
+Entretanto, verifica-se, de fato, equívoco na decisão de fls. 652-659 562, na qual se afigura apenas o erro material quanto à indicação do advogado a ser beneficiado com o recebimento dos honorários sucumbenciais relativos a este feito.
+A teor do disposto no artigo 1.022 do CPC, esta é uma das questões sobre a qual o juiz deve de ofício se pronunciar, qual seja a correção de erro material, que independe de provocação.
+3. Ante o exposto, deixo de conhecer o agravo interno, contudo, de ofício, corrijo o erro material acima, passando a parte final do dispositivo da decisão ora agravada a apresentar a seguinte redação, mantido o decisum em seus demais termos:
+"Por último, em razão da sucumbência total da parte ora recorrida, ficam redistribuídos os encargos e os honorários de sucumbência, e registro que deixo de majorar os honorários advocatícios em prol dos patronos da parte recorrente, tendo em vista que o percentual fixado em sede de sentença (fl. 484), de 20% (vinte por cento) sobre o valor o valor da condenação, já atinge o limite máximo permitido, nos termos do art. 85, parágrafo 11, do CPC ."
+Publique-se. Intimem-se.
