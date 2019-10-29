@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, sendo suscitantes SAYDER TRANSPORTES EIRELI - EM RECUPERAÇÃO JUDICIAL e RN LOGISTICA LTDA. - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE BARRA MANSA/RJ e o JUÍZO DA 1ª VARA DO TRABALHO DE JACAREÍ/SP.
+Em 15/8/2017, o Juízo cível deferiu a recuperação judicial da primeira suscitante e a suspensão, pelo prazo de 180 dias ou até a realização da assembleia geral de credores (fls. 236-238 e-STJ), de todas as ações contra ela propostas. Em 5/7/2018, foi deferido o ingresso da segunda suscitante no polo ativo da recuperação judicial em trâmite no referido Juízo universal (fl. 31 e-STJ).
+Sustentam que, a despeito de tal deferimento, o segundo juízo suscitado, nos autos da Reclamação Trabalhista nº 0010394-62.2017.5.15.0023, tem dado prosseguimento a execução de crédito apurado em favor do ora interessado, determinando bloqueios e penhoras sobre o patrimônio da recuperanda.
+Defendem que somente o Juízo recuperacional detém competência para decidir sobre a execução de bens, justificando a concessão de liminar de suspensão dos atos executórios determinados pelo juiz do trabalho e, ao final, a procedência do conflito suscitado, declarando-se competente o juiz da recuperação para decidir sobre o destino dos bens.
+Na decisão de fls. 265/266 (e-STJ), foi parcialmente deferido o pedido de liminar.
+Somente o juízo trabalhista prestou as informações solicitadas (fls. 273/276 e-STJ).
+O Ministério Público Federal, em seu parecer (fls. 278/282 e-STJ), opinou pela declaração de competência do juízo universal.
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Verifica-se que o tema não é novo nesta Corte, que já firmou entendimento no sentido de que, após o deferimento da recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa.
+O Superior Tribunal de Justiça também já decidiu que, no caso de deferimento da recuperação judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito, sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação.
+Nesse sentido, traz-se à colação os seguintes julgados:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA.
+PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Após o deferimento da recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados com reclamações trabalhistas movidas contra a empresa recuperanda.
+2. Competência da Justiça do Trabalho que se limita à apuração do respectivo crédito, sendo vedada a prática de atos que comprometam o patrimônio da empresa em recuperação.
+3. A data do ajuizamento da reclamação trabalhista não é o que define a aplicação do art. 49 da Lei nº 11.101/2005, tampouco a data do provimento jurisdicional que reconhece a existência do crédito, mas, sim, o momento em que é prestada a atividade laboral que dá ensejo à propositura da demanda trabalhista.
+4. Agravo interno não provido."
+(AgInt nos EDcl no CC 160.280/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 30/04/2019, DJe 06/05/2019)
+"PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO DO TRABALHO. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO DEFERIDO. NECESSIDADE DE SUSPENSÃO DAS AÇÕES E EXECUÇÕES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Uma vez deferido o processamento da recuperação judicial, ao Juízo Laboral compete tão-somente a análise da matéria referente à relação de trabalho, vedada a alienação ou disponibilização do ativo em ação cautelar ou reclamação trabalhista.
+2. É que são dois valores a serem ponderados, a manutenção ou tentativa de soerguimento da empresa em recuperação, com todas as conseqüências sociais e econômicas daí decorrentes - como, por exemplo, a preservação de empregos, o giro comercial da recuperanda e o tratamento igual aos credores da mesma classe, na busca da "melhor solução para todos" -, e, de outro lado, o pagamento dos créditos trabalhistas reconhecidos perante a justiça laboral.
+3. Em regra, uma vez deferido o processamento ou, a fortiori, aprovado o plano de recuperação judicial, revela-se incabível o prosseguimento automático das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4º, da Lei 11.101/2005.
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Falências e Recuperações Judiciais do Distrito Federal"
+(CC nº 112.799/DF, relator Ministro LUIS FELIPE SALOMÃO, DJe de 22/3/2011 - grifou-se).
+Tal compreensão se coaduna com o Provimento CGJT nº 001/2012 da Corregedoria-Geral da Justiça do Trabalho do Tribunal Superior do Trabalho - TST, de 3/5/2012, que "dispõe sobre os procedimentos a serem adotados pelos MMs. Juízes do Trabalho relativamente a credores trabalhistas de Empresa Falida ou em Recuperação Judicial e dá outras providências", ao considerar que, "aprovado e homologado o Plano de Recuperação Judicial, é do Juízo de Falência e Recuperações Judiciais a competência para a prática de quaisquer atos de execução referentes a reclamações trabalhistas movidas contra a empresa Recuperanda, de acordo com a jurisprudência consolidada do STJ e no STF" (DEJT, de 7/5/2012 - grifou-se).
+Caberá, portanto, ao juízo universal verificar a regularidade do plano de recuperação judicial e, constatando que dele, de fato, não consta o crédito trabalhista em comento, determinar a notificação do administrador judicial para regularizá-lo ou a intimação do interessado para eventual habilitação retardatária. Ao mesmo juízo deverão ser encaminhados os bens eventualmente constritos nos autos da Reclamação Trabalhista nº  0010394-62.2017.5.15.0023, que se encontram tramitando na JUÍZO DA 1ª VARA DO TRABALHO DE JACAREÍ/SP.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE BARRA MANSA/RJ.
+Intime-se. Publique-se. Comuniquem-se.
