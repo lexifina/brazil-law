@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, alínea "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CRIMINAL. ART. 180, CAPUT, DO CP. ARTS 14 E 16, CAPUT, DA LEI Nº 10.826/2003. CRIME PERMANENTE. VIOLAÇÃO DE DOMICÍLIO. PROVA ILÍCITA. NÃO CONFIGURADA. PRELIMINARES REJEITADAS. PROVAS DA MATERIALIDADE E DA AUTORIA. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE PERÍCIA.
+1. Conforme a jurisprudência dos Tribunais Superiores, que interpretam o conteúdo explícito do art. 5º, XI, da CF, não há nulidade ou imprestabilidade da prova obtida durante prisão em flagrante por porte e posse de arma, por alegada violação de domicílio, presente justa causa para o ingresso. Trata-se de crimes permanentes, mostrando-se desnecessária a existência de mandado de busca e apreensão.
+2. Manuseio das fotografias de celular regularmente apreendido no veículo utilizado para a fuga. Análise do corpo de delito que não caracteriza violação à privacidade. Técnicas de investigação cabíveis no caso concreto, tendo em vista que o aparelho não era identificado inicialmente como do acusado. Equivalência a um achado fortuito. Excepcionalidade justificada.
+3. As circunstâncias evidenciadas na oportunidade que envolveu as prisões não deixam dúvida a respeito da autoria do crime de receptação imputado aos três acusados, que estavam com bens da vítima roubados na madrugada, bem como portavam e possuíam armas de fogo e munições sobressalentes.
+4. O porte de arma e/ou munições é crime de perigo abstrato e de mera conduta, mostrando-se prescindível a demonstração de perigo concreto.
+Precedentes. Na esteira do entendimento dos Tribunais, em especial o Supremo Tribunal Federal, não são inconstitucionais os crimes de perigo abstrato, a exemplo daqueles previstos na Lei 10.826/03, que teve sua constitucionalidade assentada na ADI 3.112/DF.
+5. Segundo entendimento dos Tribunais Superiores, é desnecessária a realização da perícia da potencialidade lesiva da arma ou das munições, caracterizando-se o crime, ainda que a arma de fogo esteja desmuniciada.
+APELOS DAS DEFESAS NÃO PROVIDOS. APELO DO MINISTÉRIO PÚBLICO PROVIDO." (e-STJ, fl. 1.094).
+O recorrente alega violação aos artigos 59 e 61 do Código Penal. Aduz que, a decisão que valorou negativamente a culpabilidade, as circunstâncias e as consequências do delito é inidônea. Sustenta, ainda, desproporcionalidade na aplicação da pena.
+Contrarrazões apresentadas (e-STJ, fls. 1.158-1.164) e admitido o recurso, os autos subiram a esta Corte.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso (e-STJ fls. 1.188-1.194).
+É o relatório.
+Decido.
+No que se refere à suscitada violação do art. 59 do Código Penal, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Confira-se a dosimetria da pena formulada pelo Tribunal de origem:
+"Em relação ao crime de receptação (2º Fato), foram consideradas negativas a culpabilidade (porque ele foi abordado portando as duas placas do veículo no momento em que as negociava com o corréu LUCAS DE OLIVEIRA, na condução de um veículo do mesmo tipo, roubado), as circunstâncias (o crime precedente foi de roubo, praticado com grave ameaça à pessoa) e as consequências do crime (o prejuízo material do ofendido) exasperando a pena-base em 01 (um) ano e 06 (seis) meses, o que está de acordo os parâmetros definidos pelo STJ, como antes referido.
+Acrescento aos fundamentos do Juízo singular que, nos delitos de receptação, o abalo patrimonial cometido com uso de violência e grave ameaça (tais como o roubo e o latrocínio), constitui indissociável ação criminosa estimuladora da violência urbana, a recomendar consideração de maior reprovabilidade da conduta e rigor na aplicação dá reprimenda pelo sentenciante - além de se considerar o elevado valor econômico do veículo receptado" (e-STJ, fl. 1.130).
+Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+Da leitura dos autos, verifica-se que o bem foi avaliado em R$ 46.381,00. A jurisprudência desta Corte é firme no sentido de que o elevado valor do prejuízo causado às vítimas implica na maior reprovabilidade da conduta, constituindo fundamentação hábil à valoração negativa das consequências do delito.
+Nesse sentido:
+" ..
+1. Não se observa violação à regra legal contida nos arts. 59 e 68 do Código Penal, porque houve adequada fundamentação para a fixação da pena-base acima do mínimo legal diante da existência de circunstância judicial desfavorável, qual seja as consequências do delito, tendo em vista o expressivo valor do prejuízo causado à vítima.
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 1.139.528/DF, de minha relatoria, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017).
+Noutro giro, observa-se que o Tribunal também sopesou como desfavoráveis, a culpabilidade e as circunstâncias do delito.
+No que se refere às circunstâncias do delito, essas possuem relação com o modus operandi veiculado no evento criminoso. Na hipótese, verifica-se que foi considerado o delito precedente de roubo para valorar negativamente a circunstância judicial, fundamentação que não se mostra idônea.
+No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. Na hipótese, o fato do réu ser abordado portando duas placas do veículo, não se revela fundamentação idônea, apta a majorar a reprimenda.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO. AUMENTO DA PENA-BASE. POSSIBILIDADE. CIRCUNSTÂNCIAS NEGATIVAS. EMPREGO DE VIOLÊNCIA QUE EXTRAVASA O TIPO PENAL. MAJORANTES DO ROUBO. ALEGAÇÃO DE BIS IN IDEM. NÃO VERIFICAÇÃO. PENA-BASE EXASPERADA PELO MODUS OPERANDI (SOCOS NA FACE) E NÃO PELAS MAJORANTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Nesse contexto, elementos próprios do tipo penal, alusões à potencial consciência da ilicitude, à gravidade do delito, ao perigo da conduta, à busca do lucro fácil e outras generalizações sem suporte em dados concretos não podem ser utilizados para aumentar a pena-base.
+ ..
+6. Habeas corpus não conhecido." (HC 377.234/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 1/2/2017);
+Nesse passo, evidenciada flagrante ilegalidade, passa-se à nova dosimetria da pena.
+Diante da existência de uma circunstância judicial desfavorável, fixo a pena-base em 1 ano e 6 meses de reclusão. Na segunda fase, reconhecida a agravante da reincidência, majoro a pena para 1 ano e 9 meses de reclusão, a qual torno definitiva ante a ausência de causas de aumento e diminuição.
+Ante o exposto, com fulcro no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial, para fixar a pena em 1 ano e 9 meses de reclusão, mantendo-se, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
