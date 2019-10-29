@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 549-550):
+AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS. Plano de saúde. Reembolso. Autor idoso (70 anos) com traumatismo craniano e risco de morte. Necessidade de UTI Neurológica. Transporte aéreo de emergência de Ribeirão Preto para São Paulo, com realização de cirurgia craniana de emergência logo ao chegar, com risco de óbito.
+Atendimento no Hospital Sírio Libanês, que não pertence à rede credenciada. Possibilidade de atendimento fora da rede credenciada, mediante sistema de reembolso.
+Transferência para hospital da rede credenciada após a estabilização do quadro. Reembolso aquém do valor gasto, motivando a propositura da ação. Sentença de improcedência.
+Apelam os autores, alegando que o Hospital Sírio Libanês foi indicado pelos médicos da rede credenciada; não obtiveram informação de outro hospital da rede credenciada apto ao atendimento; o estado de saúde do coautor era grave e havia risco de morte; assim que a situação foi estabilizada, houve transferência para a rede credenciada; abusividade da conduta da ré; pertinência do reembolso integral ou equivalente ao valor que seria desembolsado ao Hospital Alemão Oswaldo Cruz; o reembolso ocorreu sem qualquer parâmetro ou justificativa da fórmula de cálculo; não foi demonstrada a Tabela Sul América que alega utilizar; necessidade de reembolso do transporte aéreo.
+Cabimento. Plano de saúde. Transporte aéreo. Possibilidade de aferição da gravidade do caso do coautor. Transferência hospitalar delicada, considerando se tratar de um idoso, com traumatismo craniano e risco de morte, bem como a distância entre Ribeirão Preto e São Paulo. Ausência de demonstração da possibilidade de transferência terrestre.
+Responsabilidade da ré pela remoção do beneficiário, devendo ser responsabilizada pelo reembolso do transporte aéreo. Precedentes.
+Reembolso. Atendimento fora da rede credenciada. Possibilidade, nos termos do contrato. Reembolso efetuado em valor aquém do desembolsado. Cláusula de reembolso obscura, inviabilizando a aferição da correção do valor reembolsado. Insuficiência das informações apresentadas pela ré. Reconhecimento da invalidade da cláusula de reembolso, na forma como redigida, devendo a ré ser responsabilizada pelo reembolso do valor integral comprovadamente gasto com o tratamento do coautor. Inteligência dos arts. 6º, III, e 51, IV, X, XIII e XV, CDC.
+Os valores devem ser corrigidos monetariamente a partir do desembolso, incidindo juros de mora a contar da citação.
+Sucumbência. Modificação do julgado. Inversão da sucumbência, cuja responsabilidade recairá integralmente sobre a ré.
+Recurso provido, para condenar a ré ao reembolso integral dos valores comprovadamente gastos pelos autores, bem como pelo transporte aéreo de emergência. Inversão da sucumbência.
+Opostos embargos de declaração pela parte ora recorrida, foram acolhidos em parte para fixação dos honorários advocatícios em 15% sobre o valor da causa.
+Nas razões do recurso especial, aponta a parte recorrente contrariedade na aplicação ao disposto no artigo 12 da Lei n. 9.656/1998, por entender não ser devido o reembolso integral das despesas pela seguradora à parte beneficiária, tal como consignado no acórdão recorrido.
+Sem contrarrazões ao recurso especial, conforme certidão às fls. 616.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+Inviável a pretensão de reexame e afastamento da conclusão da Corte local quando o inconformismo da recorrente decorrente da condenação de reembolso integral dos valores comprovadamente gastos pela parte beneficiária, bem como pelo transporte aéreo de emergência, realizadas pela parte segurada do plano de saúde, em razão de limitações constantes de cobertura contratual.
+Sobre a questão suscitada, assim se manifestou o Tribunal de origem (fls. 552-557):
+Com efeito, a gravidade do caso do coautor pode ser depreendida com facilidade pelos relatórios médicos acostados (f. 25, 26/27 e 28), bem como pela realização de duas cirurgias cranianas, a permanência por 3 semanas em UTI Neurológica e a possibilidade de alta hospitalar com serviços de home care (f. 29).
+Com relação à transferência hospitalar, não se pode desconsiderar que se tratava de paciente idoso (70 anos, à época f. 25), com risco de morte, bem como a distância entre Ribeirão Preto e São Paulo, o que certamente inviabilizou a transferência pela via terrestre, circunstância corroborada pela cirurgia craniana de emergência à que foi submetido ao chegar, com risco de óbito (f. 26).
+Em contrapartida, a ré não demonstrou a possibilidade de atendimento em Monte Alto e Ribeirão Preto, muito menos a possibilidade de transferência segura pela via terrestre.
+Desta forma, considerando a emergência e a condição do paciente, bem como a responsabilidade da ré pela remoção do beneficiário, o reembolso do transporte aéreo se mostra de rigor.
+(..)
+Além disso, muito embora não haja demonstração de que o Hospital Sírio Libanês seria o único capaz de atender a necessidade do paciente, é viabilizado, pelo contrato, o atendimento fora da rede credenciada, pelo sistema de reembolso (f. 334).
+Tanto o atendimento fora da rede credenciada é viável, que a ré efetuou o reembolso das despesas, nos limites que entendeu pertinentes, sem qualquer oposição (f. 41/100, 369/418 e 436/485).
+Ocorre que o reembolso foi efetuado em valor aquém do desembolsado pelos autores (f. 40), motivando a propositura da ação.
+Neste sentido, não obstante a validade das cláusulas contratuais limitativas de cobertura, até para viabilizar o equilíbrio contratual, se observa que a previsão contratual acerca do reembolso é obscura (Quantidade de US X Múltiplo de Reembolso x Valor da USR x Quantidade de vezes que o procedimento foi realizado f. 335), inviabilizando a aferição da correção do valor reembolsado por quem quer que seja.
+Note-se que a "quantidade de US", que, segundo o contrato, é "prevista na Tabela SulAmérica Saúde para o procedimento realizado" (f. 335) continua impossível de ser aferida, nesta sede recursal, na medida em que a referida "Tabela Sul América" em momento algum foi acostada.
+Assim, restaria ao beneficiário, e ao Judiciário, se resignar e acreditar no valor apresentado nos demonstrativos de reembolso (f. 436/485), o que se afigura inadmissível, sob pena de afronta a todo o sistema consumerista.
+Desta forma, de rigor o reconhecimento da invalidade da cláusula de reembolso, na forma como redigida, com fulcro nos arts. 6º, III 1 , e 51, IV, X, XIII e XV 2 do CDC, devendo a ré ser responsabilizada pelo reembolso do valor integral comprovadamente gasto com o tratamento do coautor.
+(..)
+Os valores reembolsados deverão ser corrigidos monetariamente desde o desembolso, incidindo juros de mora a contar da citação.
+Por fim, considerando a modificação do julgado, de rigor a inversão da sucumbência, cuja responsabilidade recairá integralmente sobre a ré.
+Ante o exposto, dá-se provimento ao recurso, para condenar a ré ao reembolso integral dos valores comprovadamente gastos pelos autores, bem como pelo transporte aéreo de emergência, valores passíveis de correção. Inversão da sucumbência.  Grifou-se
+No presente caso, a conclusão a que chegou o Tribunal a quo, quanto a invalidade da cláusula contratual de reembolso, considerando a forma obscura como essa restou redigida no contrato em afronta ao disposto nos arts. 6º, III, e 51, IV, X, XIII e XV, CDC, decorreu da aferição e análise de cláusulas contratuais.
+Nesse contexto, alterar as conclusões do aresto recorrido no sentido de que não se configura abusividade ou obscuridade da cláusula de reembolso, demanda reanalisar cláusula contratual e reexaminar conjunto fático-probatório, atividades não realizáveis nesta via especial, a teor das súmulas 5 e 7/STJ.
+3. Ante o exposto, nego provimento ao agravo interposto pela SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE.
+No tocante à eventual revisão dos honorários recursais, esses serão objeto do julgamento do recurso especial interposto pela parte ora recorrida.
+Publique-se. Intimem-se.
