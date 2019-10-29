@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. DECISÃO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NATUREZA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+BANCO ITAUCARD S.A. (BANCO) interpôs agravo de instrumento contra decisão que, nos autos de ação de obrigação de fazer cumulada com danos morais, ora em fase de cumprimento de sentença, proposta por ILDEFONSO ARAÚJO DA SILVA (ILDEFONSO), rejeitou a impugnação apresentada e determinou a expedição de alvarás de levantamento em favor do autor e seus patronos, sob o fundamento de que a insurgência quanto a negativa de intimação pessoal para satisfação da obrigação ocorreu a destempo (e-STJ, fls. 21/23).
+O agravo de instrumento não foi conhecido pelo Tribunal acreano, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO. INADEQUAÇÃO DA VIA RECURSAL ELEITA. NÃO CONHECIMENTO. FUNGIBILIDADE RECURSAL. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. ERRO GROSSEIRO. RECURSO NÃO CONHECIDO.
+1. O provimento judicial pôs fim à execução, caracterizando-se como sentença, a qual deve ser impugnada mediante o recurso de apelação, e não de agravo de instrumento, nos termos da leitura conjunta dos artigos 203, § 1º e 1.009 do CPC.
+2. Caracteriza como erro inescusável o ato de interposição de agravo de instrumento contra sentença, razão pela qual não é aplicável à hipótese o princípio da fungibilidade recursal.
+3. Recurso não conhecido (e-STJ, fl. 150).
+Inconformado, BANCO interpôs recurso especial, com fundamento no art. 105, a e c, da CF, alegando violação dos arts. 203, §§ 1º e 2º, 924 e 1.015 do NCPC, por considerar que a decisão que julgou improcedente a impugnação ao cumprimento de sentença seria de natureza interlocutória por preservar a continuidade do procedimento executivo, atraindo o cabimento do agravo de instrumento como via recursal adequada para veicular a irresignação da parte.
+Em juízo de admissibilidade, a primeira vice-presidência do Tribunal acreano admitiu o referido apelo nobre (e-STJ, fl. 259).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere a alegação de que a decisão que julgou improcedente a impugnação ao cumprimento de sentença seria de natureza interlocutória, atraindo o cabimento do agravo de instrumento, verifica-se que o aresto recorrido está em desconformidade com a jurisprudência desta Corte, que já se pronunciou no sentido de que o decisum que, de alguma forma, confere impulso ao trâmite processual, não pode ser considerado uma sentença em razão de não pôr termo à demanda.
+Nesse sentido, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EVOLUÇÃO FUNCIONAL. CONTAGEM DE PONTOS PARA PROMOÇÃO. CUMPRIMENTO DA SENTENÇA. DECISÃO QUE JULGA IMPROCEDENTE E EXTINGUE A IMPUGNAÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO APLICAÇÃO.
+ ..
+II - A decisão que julga improcedente a impugnação ao cumprimento de sentença, sem extinguir a fase executiva em curso, desafia agravo de instrumento. Na presente hipótese, interposta apelação, não se aplica o princípio da fungibilidade recursal. Precedentes: REsp n. 1.767.663/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2018, DJe 17/12/2018; REsp n. 1.698.344/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/5/2018, DJe 1º/8/2018; REsp n. 1.804.906/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/5/2019, DJe 30/5/2019 e REsp n. 1.803.176/SP, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2019, DJe de 21/5/2019.
+III - Agravo conhecido para dar provimento ao recurso especial.
+(AREsp 1.428.572/SP, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, j. 20/8/2019, DJe 23/8/2019)
+PROCESSUAL CIVIL. RECURSOS. CPC/2015. DECISÃO QUE ENCERRA FASE PROCESSUAL. SENTENÇA, CONTESTADA POR APELAÇÃO. DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE EXECUTIVA, SEM EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO.
+1. Caso em que a Corte de origem entendeu que é cabível Apelação da decisão que julga procedente impugnação em cumprimento de sentença.
+2. O STJ, julgando o tema recentemente, decidiu que "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1/8/2018.
+3. Recurso Especial não provido.
+(REsp 1.767.663/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. 13/11/2018, DJe 17/12/2018)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSOS. CPC/2015. DECISÃO QUE ENCERRA FASE PROCESSUAL. SENTENÇA, CONTESTADA POR APELAÇÃO. DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE EXECUTIVA, SEM EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO.
+ ..
+4. A impugnação ao cumprimento de sentença se resolverá a partir de pronunciamento judicial, que pode ser sentença ou decisão interlocutória, a depender de seu conteúdo e efeito: se extinguir a execução, será sentença, conforme o citado artigo 203, §1º, parte final; caso contrário, será decisão interlocutória, conforme art. 203, § 2º, CPC/2015.
+5. A execução será extinta sempre que o executado obtiver, por qualquer meio, a supressão total da dívida (art. 924, CPC/2015), que ocorrerá com o reconhecimento de que não há obrigação a ser exigida, seja porque adimplido o débito, seja pelo reconhecimento de que ele não existe ou se extinguiu.
+6. No sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento.
+7. Não evidenciado o caráter protelatório dos embargos de declaração, impõe-se a inaplicabilidade da multa prevista no § 2º do art. 1.026 do CPC/2015. Incidência da Súmula n. 98/STJ.
+8. Recurso especial provido.
+(REsp 1.698.344/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 22/5/2018, DJe 1º/8/2018)
+No caso dos autos, o magistrado de primeiro grau não declarou extinto o cumprimento de sentença e, além disso, determinou a adoção de medidas executivas, como a expedição de alvará de levantamento de valores, sendo certo que o efetivo pagamento da dívida apenas terá ocorrido após o credor haver recebido referido numerário.
+Nessas condições, DOU PROVIMENTO ao recurso especial para reconhecer o cabimento do agravo de instrumento e determinar, por conseguinte, o regular processamento deste recurso, com o retorno dos autos ao TJAC.
+Publique-se. Intimem-se.
