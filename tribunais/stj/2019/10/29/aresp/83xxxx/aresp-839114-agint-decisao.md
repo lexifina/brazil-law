@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão de e-STJ fls. 220/221, na qual conheci do agravo para não conhecer do recurso especial, ante a incidência da Súmula 7 do STJ.
+A parte agravante alega, em síntese, que o especial se fundou em violação do art. 530 do CPC/1973, não sendo aplicável o óbice sumular indicado na decisão agravada.
+Passo a decidir.
+Da análise dos autos, verifica-se que assiste razão ao agravante, e, diante disso, passo a nova análise do agravo em recurso especial.
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça daquela unidade federativa, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 135):
+Embargos Infringentes - Quinquênio - Incidência sobre os vencimentos integrais, excluindo-se as parcelas eventuais - O artigo 129 da Constituição Estadual engloba o padrão e as vantagens adicionais efetivamente recebidas, excluídas as eventuais - As gratificações que representam verdadeiro aumento salarial estão incluídas no conceito de vantagens incorporadas - Regra que se aplica sem a restrição da EC nº 19/98 e da Lei Complementar nº 731/93. Acolhem-se os embargos dos autores e não se reconhece os da Fazenda.
+Embargos declaratórios foram rejeitados (e-STJ fl. 155).
+No especial obstaculizado, a parte recorrente apontou violação do art. 530 do CPC/1973, sustentando o não cabimento dos embargos infringentes interpostos na origem, tendo em vista que, se "parte da sentença de mérito não foi reformada em grau de apelação, não é necessário exacerbado esforço para se concluir que o entendimento contrário do v. voto vencido não autorizava a interposição dos embargos infringentes pelos autores" (e-STJ fl. 181).
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 7 do STJ (e-STJ fls. 198/200).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação do referido fundamento.
+Pois bem. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, a tese objeto do recurso especial - não cabimento dos embargos infringentes em razão de capítulo da sentença não ter sido reformado em grau de apelação - não foi tratada no Tribunal de origem, carecendo o apelo nobre do requisito do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Note-se, que a matéria nem sequer foi objeto dos embargos de declaração opostos.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 220/221, e com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
