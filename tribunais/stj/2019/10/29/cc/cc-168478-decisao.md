@@ -1,0 +1,29 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO CRIMINAL. CONDENAÇÕES EM UNIDADES DIVERSAS DA FEDERAÇÃO. COMPETÊNCIA PARA UNIFICAÇÃO E FISCALIZAÇÃO DAS PENAS DO LOCAL ONDE O REEDUCANDO INICIOU O CUMPRIMENTO DAS SANÇÕES IMPOSTAS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+DECISÃO
+Trata-se de conflito negativo de competência, em que consta como Suscitante o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE BRASÍLIA/DF e Suscitado o JUÍZO DE DIREITO DA VARA CRIMINAL DE NOVO GAMA/GO.
+Consta dos autos que o Interessado cumpria pena em Novo Gama/GO, em razão de execução definitiva de reprimenda "unificada consistente em 03 (três) anos e 06 (seis) meses de reclusão e 03 (três) meses de detenção, além de 200 (duzentos e sessenta) dias multa, em razão de sentença condenatória pela pratica dos crimes capitulados no artigo 33, caput, da Lei 11.343/06, artigo 180, caput, e artigo 307, ambos do Código Penal, no regime inicial fechado" (fl. 4), e foi solicitado seu recambiamento ao Distrito Federal, em razão de mandado de prisão preventiva.
+Em 14/09/2018, foi realizado o recambiamento definitivo do Interessado para o Distrito Federal (fl. 415), autorizado pelo Juízo da Comarca de Novo Gama/GO (fl. 418).
+Em 17/12/2018 foi concedida progressão do Reeducando ao regime semiaberto pelo Juízo da Comarca de Novo Gama/GO, e tendo em vista sua prisão no Distrito Federal, foi determinada a suspensão da execução da pena "até que seja ele colocado em liberdade ou para fins de unificação da reprimenda, em caso de eventual nova condenação" (fl. 458), bem como expedido alvará de soltura em seu favor. O Apenado não foi posto em liberdade por se encontrar preso em razão de mandado de prisão preventiva referente a processo que tramitava na 1.ª Vara Criminal e Tribunal do Júri de Santa Maria/DF (fl. 481).
+A Defesa solicitou a deprecação da execução da pena ao Juízo da Comarca de Novo Gama/GO, pois "possui duas ações de execução de pena no Distrito Federal, decorrentes das ações penais: 2018.10.1.000017-3 originário da 2ª VARA CRIMINAL DE SANTA MARIA/DF e 2015.10.1.000263-3 originário da 1ª VARA CRIMINAL DE SANTA MARIA/DF, totalizando uma reprimenda de 9 (nove) anos, 04 (quatro) meses e 24 (vinte e quatro) dias" (fl. 4).
+O Juízo suscitado deferiu o requerimento da Defesa e determinou a deprecação do cumprimento e da fiscalização da pena para a Circunscrição Judiciária de Brasília/DF.
+O Juízo da Vara de Execuções Penais do Distrito Federal/DF, então, suscitou o presente conflito, ao argumento de que "eventuais mudanças voluntárias de endereço, prática de novo crime ou mesmo recolhimento em localidade distinta - no caso o Distrito Federal - não são motivos para alteração da competência, consoante o entendimento do STJ" (fl. 25).
+O Ministério Público Federal manifestou-se às fls. 495-498, opinando pela fixação da competência do Juízo ora suscitante, em parecer assim ementado:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZES VINCULADOS A TRIBUNAIS DIVERSOS. EXECUÇÃO PENAL.
+- Se o sentenciado tem três execuções penais no Distrito Federal e uma no estado de Goiás e está preso no Distrito Federal, a competência para unificação das penas é do juízo onde cumpre pena. Aplicação analógica do art. 78, II, b, do CPP e precedente do STJ no CC n. 159.277/DF.
+Pelo conhecimento do conflito para que seja declarado competente o juízo de direito da Vara de Execuções Penais de Brasília/DF, ora suscitante."
+É o relatório.
+Decido.
+Observo que, no caso, o Sentenciado já havia iniciado o cumprimento da pena a que foi condenado na Comarca de Novo Gama/GO. Diante disso, incide o entendimento do Superior Tribunal de Justiça de que a execução criminal, e a análise de seus incidentes, tramitará na sede do Juízo em que a sanção, definitiva ou provisória, foi iniciada.
+Exemplificativamente, cito os seguintes julgados:
+"PROCESSUAL PENAL. EXECUÇÃO PENAL. CONFLITO DE COMPETÊNCIA. REEDUCANDO CONDENADO EM DIVERSAS UNIDADES JUDICIÁRIAS. JUÍZO COMPETENTE PARA CONHECIMENTO, FISCALIZAÇÃO E ACOMPANHAMENTO DA EXECUÇÃO PENAL. JUÍZO EM QUE O APENADO CUMPRE A REPRIMENDA.
+I - Execução penal que não teve sua gênese no Juízo suscitado, estando o apenado cumprindo pena em ambos os juízos, ora conflitantes, em virtude de sentença penal condenatória.
+II - Competente é o Juízo da execução em que o reeducando cumpre a reprimenda, para conhecer das demais execuções e apreciar eventuais incidentes referentes ao procedimento de execução penal.
+Conflito de competência negativo conhecido para declarar competente o Juízo de Direito da Vara Criminal de Novo Gama/GO." (CC 151.849/GO, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 22/06/2017.)
+"PENAL E PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. RÉU FORAGIDO. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DAS EXECUÇÕES CRIMINAIS DE SÃO JOSÉ DO RIO PRETO/SP.
+1. Quando o réu é condenado em dois estados diferentes, e unificadas as penas, é competente para a execução o juízo do local onde o sentenciado cumpre a reprimenda.
+2. A competência da Vara das Execuções não se altera em virtude da evasão do sentenciado.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara das Execuções Criminais de São José do Rio Preto/SP, ora suscitado." (CC 103.228/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 26/08/2009, DJe 03/09/2009.)
+No mesmo sentido, confiram-se as seguintes decisões monocráticas: CC 160.487/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe de 27/06/2019; CC 165.722/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe de 05/08/2019; CC 166.109/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 18/06/2019; e CC 164.031/GO, Rel. Ministro FELIX FISCHER, DJe de 15/03/2019.
+ Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do JUÍZO DE DIREITO DA VARA CRIMINAL DE NOVO GAMA/GO, o Suscitado.
+Publique-se. Intimem-se.
