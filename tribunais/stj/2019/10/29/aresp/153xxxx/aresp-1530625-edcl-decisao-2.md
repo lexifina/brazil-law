@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta, inicialmente, a ocorrência de erro material, ao argumento de que constou "na r. decisão embargada que o Agravante seria o Sr. [NOME], quando, na verdade o é o Sr. [NOME], havendo, assim, inversão de partes, pelo que requer seja corrigido o erro material, determinando-se a retificação" (fl. 958).
+Alega, ainda, que "todas as matérias foram impugnadas especificamente, razão pela qual, requer o provimento dos declaratórios, sandando-se, assim, a omissão e contradição, conhecendo-se do agravo." (fl. 973).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Inicialmente, há nítido erro material na decisão embargada, uma vez que a parte que interpôs agravo foi [NOME], conforme se depreende da petição de fls. 852/877, razão pela qual determino a correção da autuação deste processo de forma que conste como agravante [NOME] e como agravado [NOME] [NOME].
+Quanto ao mais, o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada. Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Ilustrativamente: AgRg no AREsp 226.300/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 13/12/2012.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, acolho em parte os embargos de declaração apenas para determinar a retificação da autuação, nos termos da fundamentação acima, mantido o não conhecimento do agravo em recurso especial.
+Publique-se. Intimem-se.
