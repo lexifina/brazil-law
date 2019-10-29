@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. RECURSO ESPECIAL TIDO POR INTEMPESTIVO. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N.º 315 DO STJ. INCIDÊNCIA, ADEMAIS, DA SÚMULA N.º 168 DO STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS.
+DECISÃO
+Trata-se de embargos de divergência opostos por [NOME], CLÉLIA CRISTINA DA SILVA [NOME], JOÃO DE OLIVEIRA e CLEUNICE DE [NOME] OLIVEIRA contra acórdão da QUARTA TURMA, relatado pelo Exmo. Ministro ANTONIO CARLOS FERREIRA, e ementado nestes termos:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/2015. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, CPC/2015. DECISÃO MANTIDA.
+1. O prazo para interposição do recurso especial é de 15 (quinze) dias úteis, a teor do que dispõem os arts. 219, caput, e 1.003, § 5º, do CPC/2015.
+2. O art. 1.003, § 6º, do CPC/2015 preceitua que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. Precedente da Corte Especial.
+3. No caso, apesar de afirmarem a existência de feriado local, os recorrentes não apresentaram, no momento da interposição do recurso, documento apto a comprovar a alegada suspensão do prazo.
+4. Agravo interno a que se nega provimento."
+Alegam os Embargantes divergência jurisprudencial, "uma vez que a decisão da 4ª. Turma desse E. STJ dissente daquela proferida pela sua Corte Especial, no julgamento do AgRg no AREsp 137.141/SE  AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/9/2012, DJe 15/10/2012 , que concluiu pela possibilidade, inclusive, de comprovação posterior de feriado local ou recesso forense no Tribunal de origem" (fl. 503).
+Pedem, assim, o acolhimento dos embargos.
+É o relatório.
+Decido.
+No caso em exame, o acórdão embargado negou provimento ao agravo interno, mantendo a decisão monocrática da Presidência do STJ, que não conheceu do agravo em recurso especial por considerar este intempestivo, ou seja, não houve apreciação do mérito do recurso especial.
+Nesse cenário, vê-se que o recurso é manifestamente incabível, na medida em que "não se admite a oposição de embargos de divergência contra decisão proferida em sede de agravo de instrumento  ou nos próprios autos , quando não é examinado o mérito do recurso especial" (AgRg na Pet 6.336/SP, CORTE ESPECIAL, Rel. Ministra LAURITA VAZ, DJ 30/10/2008).
+Esse entendimento, aliás, está sedimentado no Verbete Sumular n.º 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Nesse mesmo sentido, ilustrativamente, o seguinte precedente:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. RECURSO ESPECIAL TIDO POR INTEMPESTIVO. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N.º 315 DO STJ. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que houve comprovação posterior de feriado local, razão pela qual o recurso especial foi tido por intempestivo. Agravo em recurso especial que foi desprovido. Ausência de análise do mérito do recurso especial. Incidência da Súmula n.º 315 do STJ. Precedentes.
+2. Mostra-se correta a decisão ora agravada, porque o recurso é mesmo manifestamente incabível, na medida em que "Não se admite a oposição de embargos de divergência contra decisão proferida em sede de agravo de instrumento  ou nos próprios autos , quando não é examinado o mérito do recurso especial" (AgRg na Pet 6.336/SP, CORTE ESPECIAL, Rel. Ministra LAURITA VAZ, DJ 30/10/2008).
+3. Agravo interno desprovido." (EARESP 1.261.801/SE, Rel. Ministra LAURITA VAZ, publicado DJe 01/04/2019.)
+Se não bastasse, cumpre anotar, obiter dictum, que o entendimento esposado no acórdão embargado está em perfeita sintonia com a jurisprudência deste Superior Tribunal de Justiça, a atrair a incidência, também, o óbice da Súmula n.º 168 do STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado." A propósito, confira-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS (SÚMULA 315/STJ). CONFIRMAÇÃO. AGRAVO DESPROVIDO.
+1. A Corte Especial, no julgamento dos EAREsp 324.073/SP, firmou orientação no sentido de que, a partir da vigência do CPC de 2015, deve ser mitigada a força da Súmula 315/STJ, porquanto a inovação prevista em seu art. 1.043, III, passou a autorizar os embargos de divergência quando, embora desprovido o agravo, a fundamentação do julgado passar pelo exame do mérito do recurso especial.
+2. No caso em exame, contudo, a questão de fundo discutida no apelo especial não foi analisada por este Tribunal, porque presente óbice formal ao conhecimento do recurso, de maneira que é devida a incidência da Súmula 315/STJ.
+3. A Corte Especial, no julgamento do AgInt no AREsp 957.821/MS (Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017), firmou orientação no sentido de que, na vigência do Código de Processo Civil de 2015, a existência de feriado local há de ser comprovada no momento da interposição do recurso, nos termos do art. 1.003, § 6º, não se tratando de vício sanável.
+4. Agravo interno a que se nega provimento." (AgInt nos EAREsp 1.223.441/MA, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 11/06/2019, DJe 14/06/2019.)
+Ante o exposto, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se. Intimem-se.
