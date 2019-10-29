@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] e [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Pará (Apelação Criminal n. 0001811-76.2009.8.14.0028).
+Alega-se na impetração que os pacientes foram condenados, como incursos no art. 121, § 2º, I e IV, do Código Penal, ao cumprimento de pena de 19 anos de reclusão, cada um, e, após o julgamento da apelação, foi determinada a execução provisória da pena.
+Sustenta-se que a matéria relativa à execução provisória não está pacificada, pendente, no Supremo Tribunal Federal, o julgamento definitivo da ADC 43/DF, ADC 44/DF e ADC 54/DF.
+É o relatório.
+Na espécie, é inviável aferir a existência de aludida ilegalidade, pois a exordial não veio acompanhada de cópia da sentença e do acórdão da apelação. Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (STF - AgRg no HC n. 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; STF - HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ - HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/6/2011; STJ - HC n. 119.702/PE, Ministra Jane Silva (Desembargadora convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
