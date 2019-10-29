@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, impetrado em favor de VICTOR PAZ, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente teve negado pelo Juízo da Execução os pedidos de progressão de regime e de livramento condicional (e-STJ, fls. 71-73).
+Inconformada, a defesa interpôs agravo em execução perante o TJRS que julgou parcialmente prejudicado o recurso para, na parte conhecida, desprovê-lo, nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO PENAL. CRIMES CONTRA O PATRIMÔNIO. EXTORSÃO. CRIMES PREVISTO O CÓDIGO DE TRÂNSITO BRASILEIRO. EMBRIAGUEZ. INSURGÊNCIA QUANTO AO INDEFERIMENTO DOS PEDIDOS DE PROGRESSÃO AO REGIME SEMIABERTO E DE LIVRAMENTO CONDICIONAL. SUPERVENIÊNCIA DE PROGRESSÃO AO REGIME SEMIABERTO. PREJUDICADO O RECURSO NESTE PONTO.
+Caso em que foi concedida a progressão ao regime semiaberto em 16/07/2019, motivo pelo qual a insurgência perdeu o objeto, devendo ser considerada prejudicada. Alteração da situação fática do apenado.
+REQUISITO SUBJETIVO NECESSÁRIO À CONCESSÃO DO LIVRAMENTO CONDICIONAL NÃO SATISFEITO.
+A nova redação dada ao Art. 112 da Lei de Execução Penal pela Lei nº 10.792/03, ao afastar dos requisitos legais a necessidade de exame criminológico para a análise dos pedidos de progressão de regime, não vedou a possibilidade de o julgador utilizar outros meios de prova para balizar seu convencimento, conforme precedentes desta Corte e do Superior Tribunal de Justiça.
+Evidenciado, à luz do histórico carcerário do apenado e do parecer psicológico, que ele ainda não apresenta condições de ser reinserido em convívio social mais amplo, sendo imperativa a manutenção da decisão que indeferiu o pedido de livramento condicional.
+AGRAVO JULGADO PREJUDICADO QUANTO AO PEDIDO DE PROGRESSÃO DE REGIME. RECURSO DESPROVIDO QUANTO AO PEDIDO DE CONCESSÃO DO LIVRAMENTO CONDICIONAL" (e-STJ, fl. 103).
+Neste writ, alega a Defensoria Pública estadual que "na dicção da redação do art. 112, §2º, da LEP, trazida pela Lei n. 10.792/03, a concessão do livramento condicional está adstrita apenas a dois requisitos: objetivo e subjetivo. O primeiro é aferido pelo lapso temporal, que restou implementado; o segundo, pelo atestado de conduta carcerária, o qual demonstra a aptidão do apenado para obter o direito, que deverá confirmar a conduta plenamente satisfatória. Apenas a avaliação péssima obstaria a análise do livramento condicional do apenado. Importante ressaltar que o fato de o reeducando apresentar eventuais problemas psicológicos não pode servir como óbice à concessão de benefícios na execução da pena, visto que pode realizar tratamento, caso necessário, com muito maior efetividade, inclusive, fora do sistema prisional, em liberdade assistida" (e-STJ, fls. 4-5).
+Afirma, outrossim, que "é de suma importância viabilizar um convívio gradual com a sociedade e, ao mesmo tempo, manter um controle estatal, porque é evidente que se o paciente não tiver uma nova oportunidade de recomeçar sua vida, passo a passo, não será possível reinseri-lo ao ambiente externo" (e-STJ fl. 6).
+Requer a concessão da ordem para que ao paciente seja deferido o livramento condicional.
+Liminar indeferida (e-STJ fls. 119-120).
+Informações prestadas (e-STJ fls. 124-132 e 133-165).
+O Ministério Público Federal opina denegação da ordem (e-STJ fls. 170-176).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Desse modo, passo ao exame das alegações trazidas pela defesa a fim de verificar eventual constrangimento ilegal que autorize a concessão da ordem, de ofício.
+O Juiz da Execução indeferiu os pedidos de progressão de regime e livramento condicional com amparo na seguinte fundamentação:
+" ..  Quanto ao requisito subjetivo, a administração do estabelecimento prisional declarou possuir o apenado bom comportamento carcerário (fls. 192-194).
+Todavia, no que toca ao parecer psicossocial, este não foi favorável ao apenado, consoante trechos das entrevistas realizadas  ..
+Verifica-se, da análise dos pareceres acima citados, que o apenado demonstra evidente ausência de juízo crítico, bem como consciência da infração e, por consequência, despreparo para ingresso no regime mais brando.
+Ademais, a despeito do atestado de bons comportamento emitido pela direção da casa prisional, constato que as condições pessoais não permitem, nesse momento, a concessão do benefício almejado.
+ ..
+Desse modo, á toda evidência, concluo que o sentenciando não apresenta aptidão subjetiva para inserir-se em regime menos severo.
+Assim, indefiro os pedidos de progressão de regime e livramento condicional  .. " (e-STJ fls.71-73).
+O Tribunal estadual, por sua vez, asseverou o seguinte :
+" ..  Como destacado na decisão do Juízo da Execução Criminal, malgrado o apenado tenha cumprido o requisito objetivo necessário à obtenção do livramento condicional, bem ainda conste no atestado à fl. 06 a conduta carcerária como plenamente satisfatória, evidencia-se que o reeducando não preenche o requisito subjetivo necessário à obtenção do livramento condicional.
+Neste contexto, como bem destacado pelo Juízo a quo em sua decisão, verifica-se que o parecer psicológico constante nos autos (fls. 07- 12) demonstra temerária a concessão, no momento, do livramento condicional  ..
+Desta forma, tenho, pois, que o apenado não preencheu o requisito subjetivo necessário à obtenção do livramento condicional  .. " (e-STJ fls. 137-138).
+Da análise dos autos, verifica-se que as instâncias ordinárias entenderam que o caso em questão requer cautela, em razão dos apontamentos constantes do relatório psicológico, asseverando que não estaria preenchido, por ora, o requisito subjetivo necessário para o pretendido livramento condicional.
+Com efeito, "o julgador forma sua convicção pela livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal" (AgRg no HC 426201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, Dje 12/6/2018).
+Por outro lado, o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+A propósito:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO ATENDIDO.
+EXAME CRIMINOLÓGICO DESFAVORÁVEL - PARECER PSICOSSOCIAL. FUNDAMENTAÇÃO CONCRETA. INVIABILIDADE DE REANÁLISE FÁTICO-PROBATÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - Para a progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da LEP.
+III - Com as inovações da Lei n. 10.792/03, que alterou o art. 112 da Lei n. 7.210/84 (LEP), afastou-se a exigência do exame criminológico para fins de progressão de regime. Este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de 1º Grau, ou o eg. Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento, desde que essa decisão seja adequadamente motivada. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+IV - In casu, a conclusão da eg. Corte estadual pela ausência do requisito subjetivo, abalizada, em especial, em exame criminológico desfavorável (parecer psicossocial) à concessão do benefício, constitui fundamentação idônea, circunstância que evidencia a ausência de ilegalidade, constrangimento ilegal ou arbitrariedade na negativa da benesse. Precedentes.
+V - Ademais, é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, providência que implicaria o reexame do conjunto fático-probatório dos autos da execução, incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido." (HC 503.532/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/06/2019, DJe 25/06/2019, grifou-se).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME INDEFERIDA. EXAME CRIMINOLÓGICO DESFAVORÁVEL. AUSÊNCIA DE PARECER PSIQUIÁTRICO. NULIDADE DO LAUDO. ELABORAÇÃO POR PSICÓLOGO. ILEGALIDADE. INEXISTÊNCIA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, desde a Lei n. 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, desde que mediante decisão concretamente fundamentada.
+2. Mesmo que inexigível, uma vez realizado o exame criminológico, nada obsta sua utilização pelo magistrado como fundamento válido para o indeferimento do pedido de progressão de regime. Precedentes.
+3. A elaboração do laudo criminológico por psiquiatra, psicólogo ou assistente psicossocial não traz qualquer mácula ou ilegalidade à decisão que indeferiu a progressão de regime com base em tal documento, mormente porque qualquer destes profissionais está habilitado a realizar perícia técnica compatível com o que se busca saber para a concessão do benefício de progressão de regime.
+4. Agravo regimental improvido." (AgRg no HC 451.804/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe 25/09/2018, grifou-se).
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
