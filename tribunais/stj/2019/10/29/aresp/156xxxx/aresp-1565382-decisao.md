@@ -1,0 +1,55 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNITFOUR TECNOLOGIA DA INFORMACAO LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTRO DE ÓRGÃO RESTRITIVO DE CRÉDITO. NOTIFICAÇÃO PRÉVIA. RESPONSABILIDADE DO ARQUIVISTA. LEGITIMIDADE PASSIVA AD CAUSAM. ARTIGO 43, § 2º, DO CDC. DESATENDIMENTO. DANO MORAL CARACTERIZADO.
+Conforme o entendimento que prevalece, as entidades que divulgam informações restritivas advindas de outras fontes são responsáveis pela notificação prévia do consumidor, bastando que manejem o mesmo sistema de banco de dados ou pertençam ao mesmo conglomerado econômico. Legitimidade passiva da Unitfour mantida.
+É dever do arquivista, nos termos do artigo 43, § 2º, do CDC, comunicar previamente o consumidor acerca do aponte do seu nome nos órgãos de proteção ao crédito. O não atendimento dessa providência gera o direito à reparação de danos morais, desde que não haja inscrição legítima preexistente, nos termos da Súmula nº 385 do STJ. Nesse sentido, também, o julgamento do Recurso Especial nº 1.061.134/RS, pelo rito dos processos repetitivos (artigo 1.036 do CPC/2015).
+Hipótese em que não restou comprovada a notificação à parte autora, restando caracterizado, portanto, o dano moral indenizável.
+QUANTUM INDENIZATÓRIO. READEQUAÇÃO.
+Quantum indenizatório que comporta redução, em consonância com os parâmetros adotados pela Câmara em casos símiles, devidamente observadas características compensatória, pedagógica e punitiva da indenização.
+HONORARIOS ADVOCATICIOS SUCUMBENCIAIS.
+MANUTENÇÃO.
+Não comporta provimento o pleito de readequação dos honorários advocatícios sucumbenciais, porquanto o valor foi fixado corretamente, tendo em vista o trabalho desenvolvido e os parâmetros normalmente utilizados, levando-se em consideração, em especial, a natureza da ação, o valor da causa e o tempo de tramitação do feito, em conformidade com o art. 85, §8º, do NCPC.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Nas razões do recurso especial, aponta a parte recorrente a existência de dissídio jurisprudencial na interpretação do artigo 43, § 2º, do CDC e da Súmula n. 359/STJ. Sustenta ser parte ilegítima para figurar no polo passivo, pois não é órgão de proteção ao crédito, "tendo apenas utilizado da informação fidedigna do Banco Central, através do CCF, para o exercício regular de seu direito, ocasião em que fica dispensada referida notificação" (fl. 155).
+Decido.
+2. Em relação à alegada ilegitimidade passiva e exercício regular de um direito, o recurso não comporta a análise de divergência jurisprudencial, uma vez que o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgRg nos EDcl no AREsp 76.762/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 01/10/2013, DJe 09/10/2013; e, AgRg no AREsp 165.810/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 01/10/2013.
+Sobre a questão, oportuno ressaltar que a Corte Especial deste Tribunal Superior, no julgamento do Agravo Regimental no Recurso Especial n. 1.346.588/DF, reafirmou a necessidade do recorrente apontar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio, e de ferir a ampla defesa e contraditório, ante a dificuldade do recorrido em identificar de forma clara e precisa a tese jurídica a ser impugnada.
+O referido julgado está assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(Rel. Ministro Arnaldo Esteves Lima, julgado em 18/12/2013, DJe de 17/3/2014)
+3. Ainda que assim não fosse, sobre o tema da legitimidade passiva, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n.º 1.061.134/RS, Rel. Min. Nancy Andrighi, DJe de 01/04/2009, vinculado aos Temas n.os 37/38 e 40/41, firmou entendimento no sentido de que "os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidades diversas".
+Eis a ementa do julgado:
+"Direito processual civil e bancário. Recurso Especial. Ação de compensação por danos morais. Inscrição em cadastro de proteção ao crédito sem prévia notificação. Legitimidade passiva do órgão mantenedor do cadastro restritivo. Dano moral reconhecido, salvo quando já existente inscrição desabonadora regularmente realizada, tal como ocorre na hipótese dos autos.
+I- Julgamento com efeitos do art. 543-C, § 7º, do CPC.
+- Orientação 1: Os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidades diversas.
+- Orientação 2: A ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43 , §2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada. Vencida a Min. Relatora quanto ao ponto.
+II- Julgamento do recurso representativo.
+- É ilegal e sempre deve ser cancelada a inscrição do nome do devedor em cadastros de proteção ao crédito realizada sem a prévia notificação exigida pelo art. 43, § 2º, do CDC.
+- Não se conhece do Recurso Especial quando o entendimento firmado no acórdão recorrido se ajusta ao posicionamento do STJ quanto ao tema. Súmula n.º 83/STJ.
+Recurso Especial parcialmente conhecido e, nesta parte, provido para determinar o cancelamento da inscrição do nome do recorrente realizada sem prévia notificação.
+Ônus sucumbenciais redistribuídos." (REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 10/12/2008, DJe 01/04/2009.)
+Esse entendimento encontra-se consolidado na Súmula n. 359/STJ, in verbis: "Cabe ao órgão mantenedor do cadastro de proteção ao crédito a notificação do devedor antes de proceder à inscrição".
+No caso em comento, o Tribunal de origem assim consignou:
+A notificação prévia, como é cediço, é responsabilidade do arquivista, conforme entendimento consolidado no STJ, tanto que deu azo à Súmula 359, que dispõe: "cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição".
+No caso, conforme supra aduzido, a autora promoveu a ação contra a Unitfour e apresentou, na inicial, print do site desta (fls. 17/20) para comprovar a sua inscrição nos órgãos de proteção ao crédito.
+A demandada se utiliza do sistema de consulta do CCF, conforme se verifica no documento trazido e no seu site". Assim, deve responder por eventual falta de notificação prévia à inscrição negativa.
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+4. Por fim, ao não reconhecer a notificação prévia da parte agravada, exigência do artigo 43, § 2º, do CDC, o Tribunal local assim consignou:
+No caso, a ré não demonstrou o cumprimento do dever legal de notificação, desatendendo ao que dispõe o art. 373, II, do CPC.
+Assim, cabível indenização por danos morais.
+Com efeito, o Tribunal de origem, examinando a prova dos autos, concluiu não ter sido comprovada a notificação prévia da parte agravada. Nesse diapasão, alterar a referida conclusão demandaria nova análise de elementos fáticos, providência essa vedada nos termos da Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso, o Tribunal de origem, examinando a prova dos autos, concluiu não ter sido comprovada a notificação prévia à inclusão da recorrida em cadastro de inadimplentes. Alterar tal conclusão demandaria nova análise de elementos fáticos, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1138534/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/02/2018, DJe 22/02/2018)
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
