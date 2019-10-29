@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. SERVIÇOS POSTAIS. ENTREGA DOMICILIAR DE CORRESPONDÊNCIAS.
+    É atribuição da Empresa Brasileira de Correios e Telégrafos a prestação de serviço público de entrega domiciliar de correspondência, consoante o art. 21, inc. X, da Constituição Federal e o art. 2º, da Lei 6.538/78. A ECT não possui disponibilidade sobre o exercício do serviço público que lhe foi concedido.
+    O Ministério Público Federal juntou documentos demonstrando que inúmeros logradouros do Município de Correia Pinto/SC objeto da ação já estão devidamente nominados e com placas indicativas, o que também corrobora a procedência do pedido.
+    Eventuais percalços na localização de um ou outro destinatário não é motivo suficiente para justificar o descumprimento generalizado do dever constitucional do Estado de prestar serviço público eficiente aos administrados” (pág. 303 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se violação dos arts. 21, X; 22, V; e 87, parágrafo único, I, II e IV, da mesma Carta. A recorrente aduz que,
+    “conforme relatado no presente processo, não existe no referido município arruamento planejado e as residências não possuem numeração oficial e demais requisitos exigidos no artigo 4º, da Portaria 311/98 (e artigos 2º e 3º da Portaria 567/2011), possuindo numeração segundo seqüência fornecida pela empresa distribuidora de energia elétrica. Esta forma não comprova a regularização dos logradouros.
+    Ademais, faltam caixas receptoras de correspondências e algumas placas indicativas dos nomes da ruas, carecendo de requisitos essenciais exigidos pela Portaria Ministerial.
+    Portanto, seja por que os requisitos das normas postais não foram atendidos, seja porque não há viabilidade técnica a ensejar a entrega postal em todas as residências do referido Distrito, seja por que não há interesse dos habitantes do Distrito que a entrega seja residencial (conforme ata de audiência pública feita na referida localidade), deve ser reformado o acórdão ora recorrido, tendo em vista o mesmo ter violado os artigos 21, X; 22, V; e 87, parágrafo único, I, II e IV da Constituição Federal” (págs. 29-30 do documento eletrônico 2).
+    A pretensão recursal não merece acolhida.
+    Isso porque, à exceção do art. 21, X, da Lei Maior, os dispositivos constitucionais suscitados pela recorrente não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, destaco o RE 750.142-AgR/ES, da relatoria do Min. Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. JUSTIÇA FEDERAL. SÚMULA 517 DO STF.
+    1. O recurso extraordinário esbarra nos óbices previstos nas Súmulas 282 e 356 do STF, por ausência de prequestionamento e não oposição de embargos declaratórios.
+    2. A competência é da Justiça Federal quando a União intervém como assistente nos casos envolvendo sociedades de economia mista.
+    3. Agravo regimental a que se nega provimento” (grifei).
+    Além disso, o Tribunal de origem, com base nas provas dos autos e na interpretação da Lei 6.538/1978 e do Código de Defesa do Consumidor, determinou à ora recorrente a implantação da entrega domiciliar de correspondências aos residentes nos Bairros Nossa Senhora Aparecida, Planalto e Loteamento Royal Park, no Município de Correia Pinto/SC.
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, destaco as seguintes decisões, entre outras: ARE 1.059.134-AgR/RS, da relatoria do Ministro Celso de Mello; ARE 1.007.662/SC, Rel. Min. Marco Aurélio; ARE 1.059.012/RS e ARE 1.041.690/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de outubro de 2019.
+Ministro Ricardo Lewandowski
+Relator
