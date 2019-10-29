@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial, interposto pelo BANCO ITAUCARD S.A., com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal do Estado do Rio Grande do Sul, assim ementado (fls. 197/198, e-STJ):
+APELAÇÃO CÍVEL. CONTRATOS DE CARTÃO DE CRÉDITO. AÇÃO REVISIONAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AUSÊNCIA DE INTERESSE RECURSAL.
+Recurso não conhecido quanto ao pedido de aplicação das disposições do CDC, dada a ausência de interesse recursal PRELIMINAR CONTRARRECURSAL DE INÉPCIA DA INICIAL.
+A parte recorrente deve discriminar em sua exordial as cláusulas que entende abusivas, bem como quantificar o valor incontroverso (CPC, artigo 330, § 2º).
+Caso concreto em que embora a presente demanda tenha sido proposta sob a égide do CPC/73, foi oportunizada a parte autora proceder a emenda da inicial, ocasião em que quantificou o valor tido como incontroverso.
+Restando atendidos os requisitos do dispositivo legal supracitado, descabe falar em inépcia da inicial. Preliminar afastada.
+JUROS REMUNERATÓRIOS.
+O Superior Tribunal de Justiça, no julgamento do REsp nº 1.061.530/RS, submetido ao regime dos recursos repetitivos, sedimentou entendimento de que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios ao patamar de 12% ao ano, sendo cabível a revisão da taxa contratada apenas em situações excepcionais, em que evidenciada a abusividade do encargo, utilizando-se a taxa média de mercado divulgada pelo Banco Central como parâmetro, levando-se em consideração a data da contratação e a natureza do crédito concedido.
+Caso concreto em que os juros remuneratórios praticados nos contratos revisandos estão acima da taxa média divulgada pelo Bacen, o que justifica a limitação do encargo.
+CAPITALIZAÇÃO DOS JUROS.
+É possível a incidência da capitalização de juros tão-somente nos contratos em que exista previsão de forma expressa, nos termos do entendimento consolidado pelo STJ, quando do julgamento do REsp 1.388.972/SC, submetido ao regime dos recursos repetitivos. Tal julgamento afastou a orientação que admitia a contratação implícita da capitalização mensal de juros (taxa de juros anual superior ao duodécuplo da taxa mensal - REsp 973.827/R5).
+No caso dos autos, embora exista previsão expressa quanto a incidência de capitalização diária de juros, as informações acerca de tal encargo são insuficientes ao consumidor, o que contraria o disposto na Lei Consumerista, devendo ser considerada nula tal disposição de pleno direito, autorizando assim o afastamento dos paradigmas supracitados, a bem da proteção do consumidor. Inteligência dos artigos 46, 51 incisos XV e 54 §39, da Lei 8.078/90.
+COMPENSAÇÃO E/OU REPETIÇÃO DO INDÉBITO.
+Segundo entendimento pacífico no colendo STJ, que culminou com a edição da Súmula n. 322, é cabível a compensação e/ou repetição simples do indébito, independentemente da prova do erro.
+Tendo sido reconhecida a abusividade em alguns encargos contratados, é admitida a compensação e/ou repetição simples dos valores pagos a maior, e não em dobro, que exige a alegação e comprovação de má-fé.
+PRELIMINAR CONTRARRECURSAL REJEITADA. APELO DA AUTORA CONHECIDO EM PARTE E, NESTA EXTENSÃO, PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 228/235, e-STJ).
+Em suas razões de recurso especial, o Recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 39, 51 e 52, II , do CDC, 1º e 4º, IX, da Lei 4.595/64, 406 e 591, do CC/02, 5º da MP 2170/01 e 1º ao 5º do Decreto 22626/33. Sustenta, em síntese: (i) não deve ser permitida a limitação da taxa de juros remuneratórios à taxa média de mercado; e (ii) é possível a capitalização mensal dos juros remuneratórios.
+Sem contrarrazões (fl. 439, e-STJ), e após decisão de admissão do recurso especial (fls. 441/451, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na espécie, a Corte local considerou abusiva a taxa de juros remuneratórios nos contratos celebrados (fls. 206/207, e-STJ), de maneira que rever tal entendimento demandaria o reexame do arcabouço fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO CARACTERIZAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. O Tribunal de origem, mediante a análise da prova dos autos e os parâmetros definidos no Recurso Especial Repetitivo n. 1.061.530/RS a respeito dos juros remuneratórios em contratos bancários, afastou a alegação de abusividade da taxa cobrada, afirmando, inclusive, a contratação abaixo da média de mercado divulgada pelo Bacen. Desse modo, a alteração do desfecho conferido ao processo atrai o óbice das mencionadas súmulas.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1312897/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. REVISÃO. SÚMULA 7/STJ. DESCARACTERIZAÇÃO DA MORA. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. O STJ consolidou o seguinte entendimento em julgamento de demanda repetitiva: "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados." (REsp 1.112.879/PR, Rel. Ministra Nancy Andrighi, Segunda Seção, Dje de 19.5.2010)
+2. Na hipótese, o Tribunal de origem reconheceu a abusividade da taxa de juros remuneratórios ao avaliar o contexto fático e probatório dos autos, razão pela qual a revisão da conclusão adotada esbarra no óbice descrito na Súmula 7/STJ.
+3. "O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios) descaracteriza a mora". (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe de 10.3.2009).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1412287/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/09/2019, DJe 18/09/2019)
+2. Na hipótese, o Tribunal de origem afastou a possibilidade de capitalização de juros, ante a ausência de pactuação expressa.
+Com efeito, conforme entendimento desta Corte Superior "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada". (AgInt no AREsp 800.605/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/09/2019, DJe 19/09/2019)
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. 1. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO VERIFICADA NO CASO CONCRETO. TAXA QUE SE ADEQUA À MÉDIA DE MERCADO ESTIPULADA PELO BACEN. SÚMULA 83/STJ. NECESSIDADE DE ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. 2. CAPITALIZAÇÃO. PACTUAÇÃO. EXISTÊNCIA. SÚMULA 83/STJ. NECESSIDADE DE ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. 3. MORA DEBENDI. CARACTERIZADA. 4. AGRAVO INTERNO IMPROVIDO.
+1. Na hipótese de o contrato prever a incidência de juros remuneratórios, porém sem lhe precisar o montante, a sua fixação não deve ficar adstrita ao limite de 12% ao ano, devendo ser feita segundo a média de mercado nas operações da espécie. Precedentes.
+2. De fato, segundo entendimento do STJ, "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada".
+3. Consoante pacífica jurisprudência desta Corte Superior de Justiça, a mora do devedor é descaracterizada tão somente quando a índole abusiva decorrer da cobrança dos chamados encargos do "período da normalidade", juros remuneratórios e capitalização dos juros.
+4. Agravo interno improvido.
+(AgInt no AREsp 800.605/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/09/2019, DJe 19/09/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. FINANCIAMENTO HABITACIONAL. ENTIDADE DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE DE REVISÃO DE CLÁUSULAS ABUSIVAS. CONTRATO CELEBRADO NA VIGÊNCIA DA LEI N. 8.177/1991. PREQUESTIONAMENTO DE QUESTÕES. SÚMULA 211/STJ. CAPITALIZAÇÃO MENSAL. NÃO PACTUAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. (TR). AUSÊNCIA DE PREVISÃO CONTRATUAL. SUBSTITUIÇÃO PELO INPC. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto 2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem. Incidência das Súmulas 283 e 284 do STF.
+3. A jurisprudência consolidada neste Sodalício é no sentido de ser permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada. Precedentes.
+4. Para infirmar as conclusões do acórdão recorrido de que houve pactuação expressa do índice da (TR) como índice de correção seria imprescindível o revolvimento do conjunto fático-probatório dos autos e a análise das cláusulas contratuais, o que é vedado nesta instância extraordinária. Incidência das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1450970/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2019, DJe 23/08/2019)
+Assim, estando o acórdão estadual em conformidade com o entendimento desta Corte, aplica-se o enunciado sumular 83/STJ.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao recurso especial e, por conseguinte, majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
