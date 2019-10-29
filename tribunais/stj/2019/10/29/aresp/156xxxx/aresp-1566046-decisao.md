@@ -1,0 +1,42 @@
+DECISÃO
+
+Trata-se de agravo apresentado por POSTAL SAÚDE - CAIXA DE ASSISTÊNCIA E SAÚDE DOS EMPREGADOS DOS CORREIOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLANO DE SAÚDE. Ação de obrigação de fazer c.c. indenização por danos morais. Negativa de cobertura de terapia ocupacional. Plano de autogestão. Plano não sujeito ao CDC (Súmula nº 608 do STJ). Irrelevância. Abusividade nos termos do próprio Código Civil (arts. 421 a 424). Incidência da Súmula nº 102 desta Corte. Operadora que não comprovou a existência de profissional habilitado em sua rede credenciada. Dano moral "in re ipsa" configurado. Indenização mantida em R$ 10.000,00. Procedência da ação mantida. RECURSO DESPROVIDO. (fl. 498)
+Quanto à primeira controvérsia, alega violação dos arts. 186, 188, 422, 927 e 944 do Código Civil, no que concerne à responsabilidade por ato ilícito e ao valor da indenização, trazendo os seguintes argumentos:
+Não há falar em prejuízo ao RECORRIDO, uma vez que o indeferimento se deu tendo em vista as Diretrizes de utilização Técnica - DUT baseadas nas resoluções da ANS.
+No caso Excelências, houve nos autos a juntada do rol da ANS e seus diretrizes para a negativa do tratamento pleiteado, tendo a Recorrente cumprido com o contrato e a legislação pátria.
+Diferentemente do que afirma, o indeferimento ocorreu dentro da normalidade, seguindo os preceitos da Lei 9656/98, do Regulamento do plano em questão e do exercício regular de seu direito.
+O tratamento das sessões de terapia ocupacional, não consta no Rol de procedimentos obrigatórios da ANS, assim a Embargante não está obrigada a custeá-lo e consequentemente sua negativa não configura ato ilícito.
+O Rol de Procedimentos e Eventos em Saúde é a lista dos procedimentos, exames e tratamentos com cobertura obrigatória pelos planos de saúde. Essa cobertura mínima obrigatória é válida para planos de saúde contratados a partir de 1º de janeiro de 1999 ou adaptados à lei 9.656/98 e é revista a cada dois anos.
+Vale frisar que o Rol de Procedimentos e Eventos em Saúde, as Diretrizes de Utilização (DUT) e as Diretrizes Clínicas (DC), pela Agência Nacional de Saúde, estão pautados nas evidências científicas atuais sobre eficácia e efetividade, tendo como referência estudos reunidos pelo Ministério da Saúde. Portanto, tais estudos são necessários para determinar a pertinência dos procedimentos e indicações clínicas, para que só então possam ser objeto de incorporação nas futuras atualizações do Rol, conforme previsão legal e regimental da ANS.
+ ..
+Tendo em vista a total ausência de ato ilícito e o total cumprimento do contrato celebrado entre as partes, é patente a inexistência de danos morais indenizáveis, nos termos do art. 186 e 188 do Código Civil.
+Ademais, é certo que a mera divergência contratual não é apta a gerar obrigação no fornecimento, pois inexistente dispositivo legal obrigando a recorrente nesse sentido. (fls. 526/527)
+Quanto à segunda controvérsia, alega violação do art. 12, VI, da Lei n. 9.656/98, no que concerne ao limite contratual para reembolso, trazendo os seguintes argumentos:
+Em consonância com a Lei 9.656/98 o reembolso somente será efetuado quando não for comprovadamente possível a utilização de serviços próprios, contratados ou credenciados.
+Deve-se observar ainda o requisito estabelecido pelo inciso VI, do art. 12 da Lei n. 9.656/98: "que seja o reembolso realizado de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto".
+Ressalta-se que o reembolso é determinado pelos valores despendidos calculados utilizando-se como parâmetro os valores que a Postal Saúde paga ao Hospital/Clinica da sua rede credenciada, em observância à tabela de honorários médicos previamente pactuada com seu prestador.
+A não observância dos requisitos postos no art. 12, VI, da Lei n. 9.656/98, resultaria em afronta direta à disposição de Lei Federal e ao contrato. (fl. 528).
+É o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem assim se manifestou:
+Em primeiro lugar, beira as raias da má-fé a alegação de que o tratamento foi indeferido em razão de a prescrição médica reproduzida no corpo do recurso estar ilegível.
+Se havia dúvida quanto ao conteúdo do documento, bastava que a operadora solicitasse outra prescrição que julgasse inteligível.
+ ..
+Todavia, a recusa de cobertura também não se sustenta à luz das disposições do Código Civil e da jurisprudência desta
+Basta notar que o Código Civil determina a análise dos contratos sob a ótica de sua função social e da boa-fé (artigos 421 e 422), sendo ainda mais específico quanto àqueles firmados na modalidade "por adesão", impondo a interpretação sempre mais favorável ao aderente (artigo 423) e considerando nulas as cláusulas que estipulem a renúncia antecipada a direito resultante da natureza do negócio (artigo 424).
+ ..
+Além disso, cumpre ressaltar que a jurisprudência do E. Superior Tribunal de Justiça tem se posicionado no sentido de que sob determinadas condições pode o plano ou seguro saúde definir quais doenças serão cobertas, porém não a forma de diagnóstico ou tratamento, prevalecendo, quanto a estes, e excluídos os casos teratológicos, a prescrição médica.
+ ..
+Ademais, na jurisprudência deste E. Tribunal de Justiça de São Paulo já se encontram precedentes nos quais se reputou abusiva a negativa dos planos de saúde de cobertura de terapia ocupacional.  .. . (fls. 499/504)
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Quanto à segunda controvérsia, o ficou consignado no acórdão recorrido:
+De outra sorte, a ré argumenta que o reembolso somente será realizado quando não for comprovadamente possível a utilização da rede do plano, nos termos do artigo 12, V da Lei nº 9.656/98.
+Contudo, não há prova da existência de profissional habilitado na rede credenciada pela ré, ônus que lhe competia (artigo 373, II do CPC). (fl. 504).
+Deveras, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
