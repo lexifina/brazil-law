@@ -1,0 +1,28 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO – Ação de Ordinária – Servidor Público Municipal – Aposentado – Preliminar de ilegitimidade passiva da municipalidade afastada – Legislação municipal que aumentou o piso salarial da categoria a que pertence o autor – Lei Municipal nº 10.855/14 que estende a sua aplicação aos aposentados e pensionistas – Inexistência de vedação na Constituição Federal – Administração tem o poder de organizar e reorganizar a carreira e os vencimentos dos servidores – Precedentes – Sentença mantida – Recursos improvidos” (pág. 78 do volume 3 – grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5°, LV; 7°, XVII; 39, caput e § 3° e 40, § 3°, da mesma Carta.
+    Tendo em vista que a questão em exame foi apreciada no RE 590.260-RG/SP (Tema 139 da Repercussão Geral), esta Corte encaminhou os autos ao órgão prolator do acórdão recorrido, para observância do art. 1.030, II, do novo CPC.
+    Em seguida, o Tribunal a quo, em juízo de retratação, decidiu que o referido entendimento firmado no Tema 139 da Repercussão Geral não se harmoniza com o caso concreto, tendo em vista que são teses jurídicas distintas.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG/MT (Tema 660 da Sistemática da Repercussão Geral), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Outrossim, consta do voto condutor do acórdão recorrido:
+    “Como é cediço, a Administração Pública tem o poder de organizar e reorganizar a carreira e os vencimentos dos servidores, observados os princípios da razoabilidade e da supremacia do interesse público.
+    A Lei Municipal nº 10.855/14 estabeleceu que:
+    ‘Art. 2º Fica garantida aos aposentados e pensionistas a revisão dos respectivos benefícios, no valor do piso fixado nesta Lei, em virtude da alteração na remuneração dos respectivos cargos em atividade.’
+    Portanto, in casu, a concessão do piso salarial aos inativos e pensionistas decorre exclusivamente da legislação municipal, que deve ser cumprida.
+    Não pode a municipalidade se furtar de cumprir a legislação municipal por ela criada” (pág. 80 do volume 3).
+    Isso porque para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame da norma local (Súmula 280/STF) pertinente ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse mesmo sentido, precedentes desta Corte:
+    “DIREITO ADMINISTRATIVO.SERVIDOR PÚBLICO MUNICIPAL INATIVO. EXTENSÃO DA VANTAGEM DENOMINADA GRATIFICAÇÃO DE ENCARGOS ESPECIAIS (GEE). AUSÊNCIA DE MATÉRIACONSTITUCIONAL. SÚMULA Nº 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 31.3.2015.
+    1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário.
+    2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    3. Agravo regimental conhecido e não provido” (ARE 905.345-AgR/RJ, Rel. Min. Rosa Weber, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Prequestionamento. Ausência. Servidor público inativo. Aposentadoria antes da EC nº 41/03. Gratificação. Natureza jurídica. Legislação local. Reexame. Impossibilidade. Precedentes.
+    1. Inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    2. É pacífica a Jurisprudência da Corte no sentido de reconhecer que a controvérsia acerca da natureza jurídica da gratificação concedida aos servidores em atividade, para fins de extensão aos inativos e pensionistas, está restrita à interpretação da legislação local.
+    3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Inaplicável o art. 85, § 11, do CPC, pois houve compensação dos honorários advocatícios” (ARE 1.048.017-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de outubro de 2019.
+Ministro Ricardo Lewandowski
+Relator
