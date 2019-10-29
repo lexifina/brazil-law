@@ -1,0 +1,33 @@
+DECISÃO
+GENOIR FRAGOSO alega ser ilegal o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 0010639-53.2018.8.24.0018.
+Sustenta a defesa a necessidade de diminuição do patamar de pena aplicado na tentativa, uma vez que o inter criminis percorrido pelo agente ficou muito distante da consumação do fato delituoso e o Magistrado aplicou a fração de apenas 1/3. Assevera, também, que a maioria das circunstâncias judiciais foi favorável ao paciente, dessa forma o regime inicial de cumprimento da pena seria o semiaberto.
+Pleiteia a redução da fração redutora da tentativa no patamar máximo de 2/3, e a fixação do regime inicial semiaberto.
+A liminar foi indeferida às fls. 320/321
+O Ministério Público Federal opinou pela denegação da ordem (fls. 386-391).
+Decido.
+O paciente foi condenado a1 ano, 4 meses e 20 dias de reclusão em regime inicial fechado e de 7 dias-multa, pela prática do delito previsto no art. 155, § 4º, inciso I, c/c o art. 14, inciso II, ambos do Código Penal.
+O Tribunal de origem, ao apreciar o pleito sobre a fração redutora da tentativa, manifestou-se (fl. 293, grifei):
+No presente caso, as provas constantes dos autos indicam que o acusado adentrou na caminhonete da vítima e arrombou o porta luvas, sendo surpreendido no momento que tentava subtrair o veículo e os objetos ali presentes, o que demonstra que o delito chegou próximo da sua consumação.
+Dessa forma, entendo que a patamar de 1/3 (um terço) não merece alteração, mormente por conta da extensão do iter criminis percorrido pelo acusado.
+Com relação ao pleito de redução da fração redutora da tentativa, denota-se o claro intuito de rediscussão de matéria não passível de conhecimento de ofício, além de demandar nova análise do iter criminis, inviável na via eleita.
+Quanto ao regime inicial de cumprimento de pena a sentença restou assim fundamentada (fl. 294, destaquei):
+Passo, pois, à individualizacão da pena do acusado.
+Na primeira fase, atenta às circunstâncias ditas judiciais, observo que a culpabilidade, ou seja, o juízo de reprovação da conduta, foi normal à espécie. O acusado possui antecedentes criminais (fls. 137-149). Conduta social e personalidade desconhecidas. Consequências, próprias do tipo. As circunstâncias, descritas no conjunto probatório. O comportamento da vítima, em nada influenciou para a ocorrência do ilícito.
+Atenta às circunstâncias judiciais, fixo a pena no mínimo legal, ou seja, em 02 (dois) anos de reclusão, mais o pagamento de 10 (dez) dias-multa, no valor individual de 1/30 do salário-mínimo vigente à época dos fatos.
+Na segunda fase da dosimetria, presente a agravante da reincidência (art. 61, I, CP) (fl. 147 - autos n. 111788720168240018; fl. 148 - autos 65119220158240018; e fl. 149 - autos n. 179369220108240018), razão pela qual majoro a pena em 1/4 (um quarto), totalizando 2 (dois) anos e 6 (seis) meses de reclusão. Minoro em 1/6 (um sexto) a confissão espontânea (art. 65, III, "d", CP), restando 02 (dois) anos e 01 (um) mês de reclusão. A pena de multa permanece inalterada nesta etapa.
+Na terceira fase, ausentes causas de aumento. Presente a modalidade tentada, causa de diminuição da pena prevista no art. 14, inc. II, do CP, motivo pelo qual minoro a pena em 1/3 (um terço), diante do "iter criminis" percorrido, totalizando em 01 (um) ano, 04 (quatro) meses e 20 (vinte) dias de reclusão, mais o pagamento de 07 (sete) dias-multa, no valor individual de 1/30 do salário-mínimo vigente à época dos fatos.
+Fixo o regime fechado para o resgate da pena privativa de liberdade (CP, art. 33, §3º).
+Esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Feitas essas premissas, verifico que a instância de origem não apontou nenhum elemento dos autos (como o modus operandi e a indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso, mormente porque se trata de um furto simples e, nesta ocasião, foi afastada a valoração da vetorial antecedentes. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido, em razão da sanção aplicada.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Nesse sentido, confira-se o seguinte julgado desta Corte de Justiça:
+ ..
+6. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+7. O Juiz de primeiro grau, muito embora haja particularizado que o delito foi praticado em plena luz do dia e em estabelecimento comercial, não apontou nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+8. A ausência de peculiaridades específicas do roubo majorado nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF.
+9. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena para 5 anos e 4 meses de reclusão e fixar o regime semiaberto.
+(HC n. 317.873/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/10/2015, destaquei)
+Assim sendo, o paciente reincidente, sem registro de circunstância judicial desfavorável e condenado a 1 ano, 4 meses e 20 dias de reclusão, mais o pagamento de 7 dias-multa, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+À vista do exposto, concedo a ordem, a fim de fixar o regime semiaberto.
+Publique-se. Intimem-se.
