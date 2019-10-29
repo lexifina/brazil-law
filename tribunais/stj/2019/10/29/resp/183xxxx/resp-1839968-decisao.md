@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Agência Nacional de Telecomunicações com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 20):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA. BENS INDIVISÍVEIS. DIVERSOS PROPRIETÁRIOS. USUFRUTO. PROPORCIONALIDADE. RAZOABILIDADE. IMPOSSIBILIDADE.
+1. O usufruto, a copropriedade e a indivisibilidade dos bens, por si sós, não impedem a efetivação da penhora sobre determinado bem. No entanto, há que se ponderar, com fundamento na razoabilidade e na proporcionalidade, a viabilidade e a efetividade da medida no caso concreto.
+2. Embora a execução de fato corra no interesse do exequente, conforme art. 797, do CPC, faz-se necessário verificar a viabilidade da satisfação do crédito do exequente por meio da medida pretendida. Devido à baixa probabilidade de encontrar interessados na aquisição de uma fração ideal com usufruto, bem como em razão da provável insuficiência do bem para o pagamento da dívida, deve ser indeferida a penhora pretendida.
+Opostos embargos declaratórios, foram rejeitados (fls. 33/35)
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 1.022 do CPC/15, porquanto a Corte Regional negou provimento aos embargos declaratórios;
+(II) art. 797 do CPC/15, o qual estabelece que a expropriação de bens deve ser concretizada em consonância com o interesse do credor, ao qual assiste o direito de indicar os bens que entender adequados e necessários à satisfação de seu crédito;
+(II) art. 799, II, e 889, III, ambos do CPC/15, uma vez que o usufruto não pode constituir óbice à penhora;
+(III) art. 843 do CPC/15, segundo o qual art. 843 do CPC, a copropriedade não é empecilho para a efetivação da penhora, tampouco a indivisibilidade do bem;
+(IV) art. 824 do CPC/15, o qual prevê que a execução deve ser realizada pela expropriação de bens do executado, de modo que, ainda que estes correspondam a percentual de um todo maior, devem se sujeitar aos atos judiciais de constrição. Assim, se há patrimônio imobiliário, ainda que sob a forma de fração de um todo, ele deve se sujeitar para satisfazer o crédito;
+(V) art. 789 do CPC/15, segundo o qual o devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações;
+(VI) arts. 10 e 11 da Lei nº 6.830/1980, os quais conferem ao exequente o direito de postular a penhora das frações ideais de bem imóvel.
+Conclui, portanto, que, não satisfeita a dívida e remanescendo patrimônio sujeito a constrição, não há falar em suposta inutilidade/insuficiência da medida postulada antes mesmo de realizar-se a respectiva verificação para penhora, avalição e tentativa de alienação. Isso porque o simples fato de haver usufruto ou outro gravame não necessariamente impende a penhora da fração ideal ora postulada, nem impende sua alienação em leilão. Desse modo, conquanto o juízo da execução deva ponderar sobre a utilidade das medidas pleiteadas pelo credor, não pode obstar a tentativa de satisfação do crédito, ainda que haja pouca probabilidade de êxito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Inicialmente, convém registrar que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/15 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Quanto ao mais, tampouco assiste razão ao recorrente. Com efeito, na hipótese vertente, o Tribunal de origem indeferiu o pedido de penhora sobre o bem imóvel, pelos seguintes fundamentos (fls. 18/19):
+A agravante afirma que o usufruto, a co-propriedade e a indivisibilidade dos bens, por si sós, não impedem a efetivação da penhora sobre determinado bem. No entanto, há que se ponderar, com fundamento na razoabilidade e na proporcionalidade, a viabilidade e a efetividade da medida no caso concreto.
+No caso em análise, pretende a agravante a efetivação de penhora da parte ideal pertencente ao executado [NOME] no imóvel de matrícula nº 1.979, do Cartório de Registro de Imóveis de Santo Antônio da Platina-PR, que constitui fração ideal correspondente a 25% da nua-propriedade do imóvel referido. Além disso, como referido pelo juízo de origem, sobre o bem já recaem constrições para a garantia de outras execuções fiscais.
+Nesse diapasão, embora a execução de fato corra no interesse do exequente, conforme art. 797, do CPC, faz-se necessário verificar a viabilidade da satisfação do crédito do exequente por meio da medida pretendida. Assim, diante das peculiaridades do caso ora debatido, entendo que deve ser mantida a decisão agravada, devido à baixa probabilidade de encontrar interessados na aquisição de uma fração ideal com usufruto, bem com em razão da provável insuficiência do bem para o pagamento da dívida.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem no tocante à viabilidade do bem indicado à penhora demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. No mesmo sentido:
+PROCESSUAL CIVIL. PENHORA DE COTAS SOCIAIS. IMPOSSIBILIDADE. REEXAME DE PROVAS. NECESSIDADE. INCIDE A SÚMULA 7 DO STJ.
+1. O Tribunal de origem, ao analisar a controvérsia, consignou: "Não se vislumbrando a utilidade dá providência para o processo executivo, quer pela incerteza dos valores de tais cotas, quer pelo fato de a empresa, Cujo executado tem participação, não evidencia atividade econômica diante da ausência de declaração de imposto de renda nos exercícios de 2013 e 2014, f. 106, é de ser mantida a decisão indeferitória".
+2. Portanto, mostra-se evidente que, para o acolhimento do argumento acerca da possibilidade de penhora das cotas sociais, seria imprescindível exceder os fundamentos colacionados no acórdão recorrido e adentrar o exame das provas. Todavia, é inviável essa prática em Recurso Especial, em razão do óbice da Súmula 7/STJ.
+3. Recurso Especial não conhecido.
+(REsp 1721086/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/05/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 11 DA LEI 6.830/80. DISCUSSÃO SOBRE A VIABILIDADE DO BEM OFERECIDO COMO REFORÇO DE PENHORA, EM SEDE DE EXECUÇÃO FISCAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido.
+(AgInt no AREsp 1048761/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 02/10/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENHORA. 10% DO FATURAMENTO.
+1. A pretensão recursal de ver reduzido o percentual da penhora demandaria reexame de provas relativas à onerosidade da execução e à viabilidade da atividade empresarial, o que é vedado pela Súmula 7/STJ e impede o conhecimento do recurso especial. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.479/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/09/2015, DJe 18/09/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. REVISÃO. SÚMULA 07/STJ. INCIDÊNCIA.
+I - In casu, rever o entendimento do tribunal de origem, quanto à viabilidade da penhora dos aluguéis auferidos pela empresa, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+II - A Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+III - Agravo regimental improvido.
+(AgRg no REsp 1405182/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/05/2015, DJe 02/06/2015)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
