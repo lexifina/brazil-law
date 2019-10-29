@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME] LOPES VIDAL contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios.
+Consta dos autos que o recorrente foi preso, preventivamente, pela suposta prática dos delitos tipificados nos arts. 121, § 2º, I e III, e art. 121, § 2º, III e IV, e art. 340, todos do Código Penal.
+Irresignada, a defesa impetrou o Habeas Corpus 0714694-97.2019.8.07.0000, perante o Tribunal de origem, que denegou a ordem, nos moldes do acórdão assim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO MEDIANTE PAGA OU PROMESSA DE RECOMPENSA, OU COM EMPREGO DE VENENO, FOGO, EXPLOSIVO, ASFIXIA, TORTURA OU OUTRO MEIO INSIDIOSO OU CRUEL, OU DE QUE POSSA RESULTAR PERIGO COMUM E À TRAIÇÃO, DE EMBOSCADA, OU MEDIANTE DISSIMULAÇÃO OU OUTRO RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DO OFENDIDO. COMUNICAÇÃO FALSA DE CRIME OU DE CONTRAVENÇÃO. DECRETAÇÃO DA PRISÃO PREVENTIVA. PARA A GARANTIA DA ORDEM PÚBLICA. DEMONSTRAÇÃO DA GRAVIDADE CONCRETA DOS CRIMES. ORDEM DENEGADA.
+1. Cabível a prisão preventiva, uma vez que se tratam de crimes cuja pena máxima é superior a 4 (quatro) anos (artigo 313, inciso I, do Código de Processo Penal).
+2. Presentes os pressupostos da segregação cautelar, porquanto evidenciados à saciedade a prova da materialidade e os indícios suficientes da autoria dos crimes imputados ao paciente.
+3. Mantém-se a prisão preventiva do paciente, acusado da autoria dos crimes de homicídios qualificados e comunicação falsa de crime ou contravenção, para a garantia da ordem pública, uma vez que os crimes possuem gravidade acentuada e as circunstâncias em que foram praticados demonstram a ousadia e destemor do paciente, bem como a ausência de solidariedade humana, a merecer maior rigor da justiça, a fim de proteger o meio social.
+4. Alegadas condições favoráveis, como bons antecedentes, residência fixa e atividade lícita não se prestam a justificar a soltura do paciente, se presentes os requisitos da prisão cautelar.
+5. Habeas corpus conhecido. Ordem denegada" (e-STJ, fl. 224).
+Neste recurso, alega a defesa que o paciente "tem 45 anos de idade, é casado, pai de 4 filhos, sendo 3 menores de idade. É também Segundo Sargento da Polícia Militar do Distrito Federal (PMDF), em cujos quadros ingressou em maio de 1996 e, nesses longos vinte e três anos de atividade policial, nunca recaiu sobre ele uma única suspeita de violência, nem uma simples agressão contra quem quer que fosse, dentro ou fora de suas funções" (e-STJ, fls. 239-240).
+Afirmam que, " a lém disso, o paciente é primário, de bons antecedentes, condições pessoais favoráreis, tem residência fixa, atividades lícitas e, no dia dos fatos, se apresentou espontaneamente à 6ª Delegacia de Polícia Civil do Paranoá, onde deu sua versão dos fatos e foi liberado. Ignoradas pelo decreto de prisão, essas circunstâncias falam em favor do paciente" (e-STJ fl. 240).
+Sustentam que o periculum libertatis não foi demonstrado no decreto preventivo, que não se admite a prisão preventiva para preservar a imagem das instituições e que o uso de arma de fogo que o paciente estava autorizado a portar, bem como a alusão a ciúmes, no que se refere ao modus operandi, não são circunstâncias aptas a justificar a custódia, mas elementares do tipo penal (e-STJ, fl. 249).
+Repisam que " n ão há, nos autos, base empírica - para além de retórica construída a partir da gravidade abstrata do delito e da função de policial militar exercida pelo paciente - a recomendar a prisão cautelar para garantia da ordem pública" (e-STJ, fl. 252).
+Ponderam que "a aventada grande quantidade de pessoas no local dos fatos não há um único elemento nos autos: trata-se de mero elemento narrativo, unicamente suposto, que busca dar à suposta conduta do paciente ares de perigo comum. Não há um único documento ou depoimento que indique com um mínimo de seriedade quantas pessoas havia no estabelecimento comercial no momento dos fatos" (e-STJ, fls. 253).
+Aduzem que "o alegado estado de embriguez, também ainda não confirmado, não afasta o ocorrido do que normalmente se verifica em casos de brigas ocorridas em bares e boates" (e-STJ, fl. 253).
+Afirmam que diante da fragilidade do decreto prisional, a autoridade coatora lançou fundamento novo para manutenção da prisão, qual seja o risco de reiteração delitiva.
+Ao final, requerem o provimento do recurso, para que seja revogado o decreto prisional. Sucessivamente, que se determine a substituição da prisão preventiva ilegal por uma das medidas cautelares do art. 319 do CPP.
+O Ministério Público Federal manifesta-se pelo desprovimento do recurso (e-STJ, fls. 278-281).
+É o relatório.
+Decido.
+Constata-se, desde logo, que o presente recurso ordinário constitui mera reiteração do pedido formulado no HC 531425/DF - cujo pedido de liminar foi deferido por esta Relatoria, em 5/9/2019, para determinar a substituição do decreto preventivo pela aplicação de medidas cautelares alternativas à prisão, previstas no art. 319 do Código de Processo Penal, a serem definidas pelo Juízo do Tribunal do Júri do Paranóa/DF, sem prejuízo de decretação de nova prisão, desde que devidamente fundamentada, até o julgamento do mérito daquela impetração.
+Ademais, conforme se verifica, impugnam, ambos, acórdão proferido nos autos do Habeas Corpus 0714694-97.2019.8.07.0000, julgado pelo TJDFT, apresentando identidade das partes e da causa de pedir, o que constitui óbice ao seu conhecimento.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ALEGAÇÃO DE AUSÊNCIA DE MATERIALIDADE. SENTENÇA PENAL CONDENATÓRIA DE 5 ANOS E 6 MESES DE RECLUSÃO. DIREITO DE RECORRER EM LIBERDADE. RATIFICADOS OS FUNDAMENTOS DA PRISÃO PREVENTIVA. AUSÊNCIA DE NOVO TÍTULO JUDICIAL. REITERAÇÃO DE PEDIDO. ALEGAÇÃO EXAMINADA NO HC 467.147/MG. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Reconhecer a ausência, ou não, de elementos de autoria e materialidade delitiva acarreta, inevitavelmente, aprofundado reexame do conjunto fático-probatório, sendo impróprio na via do recurso ordinário em habeas corpus" (RHC 103.651/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/10/2018, DJe 13/11/2018).
+2. No caso, a sentença condenatória e os embargos declaratórios entenderam que há prova da materialidade do crime, com base no laudo preliminar de constatação (e-STJ fl. 144) e no laudo toxicológico definitivo (e-STJ fl. 146), ambos realizados com amostras da quantidade total de drogas apreendidas, explicitando, ainda, que o paciente não era o proprietário de todas as drogas apreendidas.
+3. Quanto ao pedido de recorrer em liberdade, a sentença condenatória não configura novo título a respaldar a prisão cautelar do paciente, porquanto que não foram agregados novos fundamentos.
+Assim, os requisitos da prisão preventiva do paciente já foram analisados por esta Corte no julgamento do HC n. 467.147/MG, de forma que o pleito em questão configura mera reiteração de pedido.
+Precedentes.
+4. Agravo regimental desprovido."
+(AgRg no HC 518.020/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/08/2019, DJe 02/09/2019)
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
