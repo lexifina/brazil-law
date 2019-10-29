@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “RECURSOS DE APELAÇÃO EM AÇÃO DE PROCEDIMENTO COMUM. ADMINISTRATIVO. MUNICÍPIO DE SANTA FÉ DO SUL. 1. ANULAÇÃO DE DÉBITO. MULTA POR TEMPO EXCESSIVO DE PERMANÊNCIA EM AGÊNCIA BANCÁRIA. VIOLAÇÃO À LEI MUNICIPAL 2.321/ 05. [...]” (eDOC 7, p. 16)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5°, II, XXXVI e LV; 30, I e II; 48, XIII e 192, do texto constitucional.
+    Nas razões recursais, alega-se que houve desrespeito ao princípio do contraditório e da ampla defesa, visto que não houve qualquer procedimento para notificar e informar o recorrente sobre as supostas dívidas. (eDOC 8, p. 9)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 2.321/05) e o conjunto probatório constante nos autos, consignou que legislação municipal restou violada, haja visto que o limite legal de espera foi extrapolado. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A instituição financeira tem o dever de atuar com lisura e comprometimento, devendo prestar os serviços, tal qual a Administração Direta, observando os princípios constitucionais, notadamente o da eficiência e moralidade.
+    A propósito, não se verifica qualquer ato abusivo ou ilegal o afastamento do auto de infração, já que a sanção aplicada encontra-se dentro dos parâmetros legais e imposta dentro da discricionariedade administrativa, levando-se em conta os princípios da proporcionalidade e razoabilidade.
+    […]
+    Dessa forma, a fixação da multa no auto de infração lavrado pelo Município de Santa Fé do Sul se mostra perfeitamente adequada, não havendo qualquer ilegalidade ou arbitrariedade na sua quantificação, bem como em consonância com a finalidade prevista na Lei Municipal 2.321/05.” (eDOC 7, p. 19-20)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Constitucional. Competência legislativa dos Municípios. Tempo de espera. Atendimento. Agências bancárias. Assunto de interesse local. Normas de proteção ao consumidor. Precedentes. 1. É pacífica a jurisprudência desta Corte de que os Municípios detêm competência para legislar sobre o tempo máximo de espera por atendimento nas agências bancárias, uma vez que essa questão é de interesse local e diz respeito às normas de proteção das relações de consumo, não se confundindo com a atividade-fim das instituições bancárias. 2. Agravo regimental não provido. (AI 495187 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 11.10.2011)”
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO EM 02.03.2017. DIREITO CIVIL. AÇÃO CIVIL PÚBLICA. AGÊNCIA BANCÁRIA. TEMPO DE ESPERA. NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. ASSUNTOS DE INTERESSE LOCAL. COMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR. REPERCUSSÃO GERAL RECONHECIDA. TEMA 272. 1. Verificar a possibilidade material de cumprimento da norma local depende da análise da legislação infraconstitucional aplicável à espécie. 2. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que os municípios tem competência para legislar sobre normas de interesse local. (RE 610.221-RG, Rel. Min. Ellen Gracie, DJe 20.08.2010, tema 272). 3. Agravo regimental a que se nega provimento. (ARE 932.241 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 9.6.2017)”
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 29 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
