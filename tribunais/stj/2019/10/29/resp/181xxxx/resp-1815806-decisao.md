@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 323):
+AÇÃO MONITÓRIA  Nota promissória prescrita  Interposição de recurso especial pelos apelantes objetivando o reconhecimento da prescrição trienal prevista no art. 206, § 3º, do CC  Acórdão recorrido que, na hipótese , entendeu ter sido a demanda promovida dentro do prazo prescricional de cinco anos estabelecido no art. 206, § 5º, I, do CC  Julgamento para fins e efeitos do disposto no art. 1.040, II, do CPC (art. 543-C, § 7º, II, do CPC de 1973)  Incidência do prazo vintenário, conforme previsto no art. 177 do Código Civil de 1916, aplicável ao caso por força do disposto no art. 2.028 do CC vigente, cujo termo inicial se consubstancia no primeiro dia subsequente à data do vencimento do titulo - Prescrição não consumada - Sentença mantida - Recurso não provido, todavia por fundamento diverso do adotado no acórdão recorrido.
+Nas razões recursais (e-STJ fls. 227/230), fundamentadas no art. 105, inciso III, alínea "a", da CF, os recorrentes alegam ofensa ao art. 206, § 3º, VIII e § 5º, I, do CC/2002. Sustentam, para tanto, que (e-STJ fl. 229):
+Sendo referida Nota Promissória para vencimento à vista, ou seja, 01/11/1989, a pretensão de cobrança da mesma como título de crédito expirou em 01/11/1992.
+O processo de Execução foi proposto pelo recorrido em 2007, consubstanciado em Instrumento de Confissão de Divida e respectiva Nota Promissória.
+Daí, passa a mesma a ser considerada prova escrita, sem eficácia de título executivo, cuja pretensão para cobrança prescreve em 5 (cinco anos), conforme art. 206, § 5º, inciso I, do Código Civil:
+Art. 206. Prescreve:
+§.5º Em cinco anos:
+I - a pretensão de cobrar dívidas líquidas constantes de instrumento público ou particular;" Desta forma, percebe-se que no presente feito, o prazo prescricional já se operou, uma vez que a pretensão de cobrar a presente dívida expirou em 01 de novembro de 1997, ou seja, 5 (cinco) anos após a prescrição de cobrança da mesma como título de crédito ocorrida em 01/11/1992.
+Foram apresentadas contrarrazões (e-STJ fls. 240/243).
+É o relatório.
+Decido.
+O presente recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+O Tribunal de origem, em juízo de retratação, entendeu que (e-STJ fls. 325/326):
+É bem verdade que, de acordo com o atual entendimento do C. STJ, inclusive consolidado com a edição da Súmula 504, e pautado no art. 206, § 5º, I, do CC de 2002, "o prazo para ajuizamento de ação monitória em face do emitente de nota promissória sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do titulo".
+Todavia, a nota promissória objeto dos autos teve vencimento na vigência do Código de 1916, pelo qual o prazo para ajuizamento da monitória era vintenário (art. 177).
+Nesse tocante, e tendo em vista haver decorrido mais da metade do prazo na vigência do próprio Codex de 1916, o lapso temporal prescritivo é aquele nele estabelecido, como prevê a regra de transição do art. 2.028 do Código de 2002.
+Assim, considerando-se o vencimento da cártula em 01/11/1990, a ação, ajuizada em 19/09/2007, ou seja, dentro do prazo vintenário previsto no Código Civil de 2002, não está prescrita, como bem reconhecido pelo Juízo sentenciante.
+O STJ, quando do julgamento do REsp n. 1.262.056/SP (Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/12/2013, DJe 3/2/2014), submetido à sistemática dos recursos repetitivos, sedimentou a orientação de que "o prazo para ajuizamento de ação monitória em face do emitente de nota promissória sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do título". Confira-se a ementa do julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO MONITÓRIA APARELHADA EM NOTA PROMISSÓRIA PRESCRITA. PRAZO QUINQUENAL PARA AJUIZAMENTO DA AÇÃO. INCIDÊNCIA DA REGRA PREVISTA NO ART. 206, § 5º, INCISO I, DO CÓDIGO CIVIL.
+1. Para fins do art. 543-C do Código de Processo Civil: "O prazo para ajuizamento de ação monitória em face do emitente de nota promissória sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do título".
+2. Recurso especial provido.
+Nas hipóteses em que a contagem do prazo prescricional teve início na vigência do Código Civil de 1916, deve ser observada a regra de transição prevista no art. 2.028 do Código Civil de 2002, a qual estabelece que serão observados os prazos da lei anterior se, na data de sua entrada em vigor (11/1/2003), houver transcorrido mais da metade do tempo estabelecido na lei revogada.
+Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO MONITÓRIA. NOTA PROMISSÓRIA. PRAZO PRESCRICIONAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL DE 2002. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou, sob o rito do art. 543-C do Código de Processo Civil, a tese de que "o prazo para ajuizamento de ação monitória em face do emitente de nota promissória sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do título" (REsp 1.262.056/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/12/2013, DJe de 03/02/2014).
+2. In casu, a ação monitória, ajuizada em 08.10.2008, está fundada em nota promissória com vencimento em 10.06.2001. Em razão da regra de transição do art. 2.028 do Código Civil de 2002, observa-se que, no dia da vigência do referido diploma legislativo, 11.01.2003, não houve o transcurso de mais da metade do antigo prazo prescricional - 20 (vinte) anos - para a realização da cobrança do débito inserto naquele instrumento (art. 177 do CC/16). Desse modo, é de rigor a incidência do lapso de 5 (cinco) anos a partir do dia 11.01.2003, o prazo para reger a prescrição da pretensão de cobrança de dívidas líquidas constantes de instrumento particular, consoante o art. 206, § 5º, I, do Código Civil de 2002.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1.474.396/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2016, DJe 22/11/2016.)
+Incide na espécie a Súmula n. 83 do STJ, aplicável tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados na alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
