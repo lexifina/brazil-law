@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de SARA CRISTINA DA CRUZ LIMA - presa em flagrante, sendo a custódia convertida em prisão preventiva, pela suposta prática dos delitos de tráfico de drogas e associação para o tráfico - contra acórdão proferido pelo Tribunal de Justiça de São Paulo (HC n. 2165685-64.2019.8.26.0000), que indeferiu liminarmente o processamento da ordem impetrada naquela instância nos termos da seguinte ementa (e-STJ fl. 67):
+HABEAS CORPUS - alegação de falta de fundamentação da decisão que decretou a prisão preventiva, tendo se baseado tão somente na gravidade concreta do crime - inocorrência - menção às circunstâncias atinentes ao caso concreto, tais como quantidade e natureza da droga.
+HABEAS CORPUS - presença do fumus commissi delicti no auto de apreensão, auto de constatação e prova oral que indica que a droga estava em poder do correu. Indícios que permitem, por ora, a capitulação como tráfico, tais como quantidade inusual à figura do usuário - presença do periculum in libertatis visto a quantidade e natureza das drogas - o fato de a ré ser primária e sem antecedentes não impede a prisão preventiva - falta de ofensa ao princípio da presunção de inocência, inteligência da Súm. 09 do STJ.
+HABEAS CORPUS - desproporcionalidade - remédio heróico que não se presta a tal exame de mérito - exercício de futurologia - indeferimento liminar.
+Na presente impetração, a defesa alega, em síntese, ausência dos requisitos legais autorizadores da medida extrema, estando o decreto prisional carente de fundamentação concreta e idônea, além de enfatizar a presença de condições pessoais favoráveis à paciente, que é primária. Assevera, por fim, que a prisão é desproporcional em relação ao regime inicial de cumprimento de pena a ser fixado em caso de eventual condenação.
+Diante disso, requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente, com expedição de alvará de soltura em seu benefício.
+Indeferida a liminar (e-STJ fls. 84/86) e prestadas as informações (e-STJ fls. 94/109), o Ministério Público Federal manifestou-se pela prejudicialidade do mandamus (e-STJ fl. 111).
+É o relatório. Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, verifica-se que, em 22/10/2019, o Juízo processante concedeu a liberdade provisória à paciente.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Intimem-se.
