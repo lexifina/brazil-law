@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRF da 5ª Região assim ementado (e-STJ, fl. 60):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. EXCLUSÃO DO PSS DA BASE DE CÁLCULO DOS JUROS DE MORA. IMPOSSIBILIDADE. ART. 16-A DA LEI Nº 10.887/04.
+1. Insurge-se a UNIÃO, em face de decisão que, nos autos de execução de sentença, indeferiu o pedido do ente público no sentido de que " os juros de mora deveriam incidir sobre a diferença líquida, deduzida a contribuição para o PSS".
+2. "A contribuição do Plano de Seguridade do Servidor Público (PSS), decorrente de valores pagos em cumprimento de decisão judicial, ainda que derivada de homologação de acordo, será retida na fonte, no momento do pagamento ao beneficiário ou seu representante legal, pela instituição financeira responsável pelo pagamento, por intermédio da quitação da guia de recolhimento remetida pelo setor de precatórios do Tribunal respectivo, no caso de pagamento de precatório ou requisição de pequeno valor, ou pela fonte pagadora, no caso de implantação de rubrica específica em folha, mediante a aplicação da alíquota de 11% (onze por cento) sobre o valor pago" (art. 16-A da Lei nº 10.887/2004).
+3. Do art. 16-A da Lei nº 10.887/2004, com a redação da Lei nº 12.350/2010, deflui que o crédito reconhecido judicialmente ao exequente apenas sofre a incidência da contribuição previdenciária (PSS), por ocasião do pagamento do precatório ou requisição de pequeno valor, não sendo possível o abatimento da parcela antecedentemente ao adimplemento, donde a conclusão de que não é possível deduzir-se o PSS antes do cômputo dos juros de mora.
+4. Agravo de instrumento não provido.
+Embargos de declaração rejeitados.
+Em suas razões, a insurgente sustenta ofensa ao art. 16-A da Lei n. 10.887/2004, ao fundamento de que " ..  o acórdão vergastado interpretou de forma errônea o referido dispositivo legal, pois os juros de mora só devem incidir sobre o valor principal após o desconto da contribuição para o PSS, sob pena de incidência de juros de mora sobre valor que é da União, relativo ao PSS" (e-STJ, fl. 116).
+Com contrarrazões.
+É o relatório.
+Compulsando-se os autos, verifica-se que a recorrente, ao indicar ofensa ao art. 16-A da Lei n. 10.887/2004 e aduzir a tese de que o valor relativo ao PSS deveria ser retirado para fins de incidência de juros de mora, deixou de impugnar o fundamento do acórdão recorrido segundo o qual não há lógica na exclusão de valor relativo ao PSS antes que se chegue ao montante a ser adimplido, pois " ..  o crédito reconhecido judicialmente ao exequente apenas sofre a incidência da contribuição previdenciária (PSS), por ocasião do pagamento do precatório ou requisição de pequeno valor, não sendo possível o abatimento da parcela antecedentemente ao adimplemento, donde a conclusão de que não é possível deduzir-se o PSS antes do cômputo dos juros de mora" (e-STJ, fl. 58).
+Aplica-se, por analogia, o teor da Súmula 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
