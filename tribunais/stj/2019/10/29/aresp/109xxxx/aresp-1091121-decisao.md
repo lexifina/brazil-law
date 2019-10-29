@@ -1,0 +1,27 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquele estado na Apelação n. 1.0145.10.065235-6/001.
+Os embargos declaratórios opostos na origem foram rejeitados.
+No recurso especial, a defesa sustentou a violação dos arts. 33, caput, e 35 da Lei n. 11.343/2006, por considerar que as provas constantes dos autos são suficientes para justificar a condenação dos réus.
+Postulou, dessa forma, que "os recorridos sejam condenados nas iras do art. 33, caput, e 35 da Lei n.º 11.343/06" (fl. 1.072).
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo.
+Às fls. 1.179-1.184, manifestou-se o Ministério Público Federal pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, verifico que não comporta conhecimento, pois a análise do pleito demanda o revolvimento do contexto fático-probatório dos autos, como será detalhado a seguir, providência vedada pela Súmula n. 7 do STJ.
+Com efeito, o Juízo singular considerou não haver provas da materialidade delitiva, tampouco indícios da real destinação que seria dada às substâncias apreendidas. Confira-se (fls. 857-858, grifei):
+ ..
+Com relação ao crime de tráfico de drogas e associação imputado aos acusados devido à apreensão das notas fiscais relativas à aquisição do anabolizante Durateston 250, tal medicamento é de uso controlado, exigindo receita para a venda e registros de controle.
+A Portaria SVS/MS 344/98 da Anvisa traz na lista E, a relação das plantas que podem dar origem a substâncias entorpecentes e/ou psicotrópicas, sendo certo que nela não consta o anabolizante acima, não podendo, assim, ser classificado como droga para fins do crime de tráfico.
+Ademais, como bem salienta a defesa, não foi confeccionado laudo toxicológico atestando que o mencionado anabolizante se trata de substância entorpecente, razão pela qual é possível se afirmar que não há prova da materialidade delitiva em relação ao crime de tráfico.
+Outrossim, os anabolizantes não foram apreendidos no local e sequer receitas que indicassem a venda do produto.
+Destaco que o acusado Leonardo apresentou a versão de que realmente adquiriu tais medicamentos para uso em cavalos, a qual não pode ser descartada, já que foi corroborada por testemunhas.
+Destarte, merecem os acusados serem absolvidos das imputações relativas aos crimes previstos nos artigos 33 e 35, ambos da Lei 11.343/06 e artigo 273, § § 1º e 1º B do Código Penal.
+Tanto a defesa recorreu quanto o Ministério Público recorreram. Ao negar provimento ao pleito ministerial, o acórdão apresentou a seguinte motivação (fls. 1.022-1.023, destaquei):
+Analisando-se inicialmente o recurso aviado pelo MP, tem-se por inviabilizado o pleito concernente à condenação dos recorridos pela prática dos delitos de tráfico e associação previstos nos arts. 33 e 35 da Lei 11.343/06, e pelo crime de falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais, compendiado no art. 273 e respectivos parágrafos.
+Em relação ao fármaco Durateston, não obstante sua venda se condicione à prescrição em receituário especifico, o depósito de 260 ampolas do produto não rende ensejo à tipificação do delito de tráfico, não se incluindo dito anabolizante dentre a relação constante da lista E da Portaria SVS/MS 344/98, razão pela qual não há de ser considerada substância entorpecente ou psicotrópica para efeitos legais.
+Ademais disso, sem a constatação da toxicidade do produto por prova técnica, a materialidade do delito de tráfico não se faz comprovada, cumprindo assinalar, ainda, não terem sido apreendidas as ampolas de Durateston no interior da farmácia, além de não haverem sido arrecadadas receitas a indicarem a efetiva comercialização do anabolizante pelos recorridos.
+Há de ser destacado, ainda, o depoimento prestado por L.F.F., pelo qual os anabolizantes seriam destinados à aplicação em equinos de sua propriedade, circunstância a justificar, em tese, a existência de notas fiscais dando contada aquisição do medicamento.
+Pela análise dos trechos anteriormente transcritos, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela ausência de elementos concretos e coesos a ensejar a condenação dos agravados pelos crimes de tráfico de drogas e associação para o narcotráfico, sobretudo diante da ausência de laudo pericial que atestasse a potencialidade tóxica das substâncias apreendidas (e, por conseguinte, a materialidade delitiva), bem como de provas de sua efetiva comercialização na farmácia dos réus.
+Portanto, pelas razões expostas pela Corte estadual, mostra-se inviável a condenação dos acusados, sobretudo porque, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela absolvição dos agentes, contanto que o faça fundamentadamente, exatamente como verificado nos autos.
+Ademais, para alterar a conclusão das instâncias ordinárias, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, por força da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
