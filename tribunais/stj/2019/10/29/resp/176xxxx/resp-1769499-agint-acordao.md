@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, contra decisão assim proferida (e-STJ fl. 1930):
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO. SEGURO IMOBILIÁRIO. SFH. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões do agravo, a parte agravante pugna pela modificação do julgado, deduzindo que não incide à hipótese a Súmula n. 284/STF, pois demonstrou claramente as violações apontadas. Transcreve trecho de seu recurso especial que, no seu entender, comprovaria haver delimitado a controvérsia acerca da violação ao art. 757 do Código Civil. Pugna pelo provimento do recurso.
+Foi apresentada impugnação ao recurso (e-STJ fls. 1946-1951).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece prosperar.
+Inicialmente, verifica-se que foi negado conhecimento ao recurso especial da recorrente em virtude da incidência da Súmula n. 284/STF com relação aos arts. 206, § 1º, II, e 757 do CC; 1º da Lei 7.682/1988; 3º e 5º da Lei 13.000/2014; e 1º da Lei 12.409/2011.
+A parte recorrente, por sua vez, nas razões do presente agravo, alega que não há falar em incidência da Sumula n. 284/STF, pois teria fundamentado e delimitado os exatos pontos em que houve a negativa de vigência aos mencionados artigos.
+Ocorre que os argumentos expostos no bojo do presente recurso e a transcrição feita não são aptos a desconstituir a decisão recorrida, uma vez que, de fato, as razões recursais são genéricas, e isso se depreende do próprio trecho transcrito, porquanto, em que pese sustentar que jamais se obrigou à cobertura dos danos de construção suportados pela recorrida, tal alegação desprendida dos fundamentos do acórdão que a condenaram a cobrir referidos danos desserve ao propósito de demonstrar a violação alegada.
+Ao contrário do que entende a parte recorrente, a transcrição das razões do especial só confirma o acerto da decisão agravada. Eis o trecho do recurso especial em que a recorrente sustenta a suposta violação ao art. 757 do CC (e-STJ fls. 1763-1766):
+51. No contrato de seguros, como se sabe, a seguradora se compromete com a cobertura de riscos predeterminados e tem como contraprestação o pagamento do prêmio. pelo segurado. Ou seja, o equilibro contratual e abalizado pelo cálculo do prêmio em relação ao risco coberto.
+54. Dessa forma, qualquer alteração no risco que não seja comunicada à seguradora, bem como eventual cobertura de evento não previsto pela apólice implicam em um inaceitável desequilibro contratual, tendo em vista que a prestação não estaria dê acordo com o risco coberto.
+55. Exatamente por esse motivo, o legislador estabeleceu que no contrato de seguros os riscos cobertos são predeterminados, ou seja, limitou a cobertura securitária àqueles casos previstos pela apólice:
+Art. 757. Pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados.
+56. O Código Civil não se limitou a restringir o objeto do contrato de seguro, tendo feito menção inclusive à delicada relação entre o pagamento do prêmio, calculado por meio de diversos cálculos atuariais, e o efetivo risco assumido pela seguradora.
+57. Trata-se, portanto, de um ecossistema altamente delicado, em que a contraprestação do segurado é minuciosamente calculada com base em riscos extremamente delimitados.
+58. A jurisprudência, como não haveria de ser diferente, possui entendimento pacífico de que, em casos de ocorrência de vícios construtivos, a responsabilidade é do construtor e jamais da seguradora:
+EMENTA. SFH. VÍCIOS DE CONSTRUÇÃO. CERCEAMENTO DE DEFESA. VIOLAÇÃO AOS PRINCÍPIOS DA BOA-FÉ E TRANSPARÊNCIA INEXISTENTES. 1. Não se configura o alegado cerceamento de defesa, tendo em vista que as questões trazidas pela autora são eminentemente de direito, sendo a interpretação das cláusulas e das leis que regem os contratos de SFH atividade exclusiva do Juiz. 2. As questões relacionadas aos vícios de construção devem ser discutidas com os construtores/vendedores, não se confundindo com os financiamentos obtidos para a compra dos imóveis, nem têm previsão na cobertura securitária vinculada ao contrato de mútuo. 3. Não há que se falar em ausência de informação, boa-fé, transparência em relação à adoção do sistema SACRE. O contrato firmado pelo SACRE, embora não se vincule aos rendimentos do mutuário, lhe é mais favorável, pois permite a quitação do contrato no prazo convencionado, sem resíduo, a redução relativamente rápida das parcelas, exatamente por adotar o recálculo das prestações conforme a evolução do saldo devedor do contrato. (..)" (Apelação Cível 2006.51.07.000728-7, 6a Turma Especializada do Tribunal Regional Federal da 2a Região, Juíza Federal Carmem Silvia, [NOME]. p 1210312012  grifou-se e destacou-se)
+"AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. SFH. COMPRA E VENDA DE IMÓVEL. MÚTUO. VÍCIO REDIBITÓRIO. RESCISÃO CONTRATUAL. CAIXA ECONÔMICA FEDERAL. ILEGITIMIDADE PASSIVA. 1. Os contratos de financiamento imobiliário não são lineares, já que ao menos três contratantes assumem obrigações recíprocas entre si, a saber: o agente financeiro, por meio de contrato de mútuo, obriga-se a colocar à disposição do proprietário e vendedor o montante correspondente ao preço do bem negociado, nos termos em que pactuado; os mutuários comprometem-se perante a Caixa Econômica Federal a devolver-lhe a quantia mutuada, acrescida de correção monetária e juros remuneratórios; por fim, o vendedor obriga-se a transmitir ao comprador o domínio do imóvel, respondendo pela evicção. 2. A relação existente entre os mutuários e o agente financeiro é exclusivamente de mútuo, enquanto o vício redibitório diz respeito ao contrato de compra e venda, e não ao de financiamento , de modo que inexiste razão para que a instituição financeira permaneça no polo passivo da lide. 3. Agravo legal a que se nega provimento." (TRF -3 - AI: 14975 SP 2010.03.00.014975-8, Relator:
+DESEMBARGADORA FEDERAL VESNA KOLMAR, Data de Julgamento: 1 611 11201 0, PRIMEIRA TURMA  grifou-se e destacou-se)
+59. Exatamente por esses motivos, mostra-se imprescindível a reforma do v. acórdão recorrido, tendo em vista que, de uma só vez, violou o artigo 757 do Código Civil, impondo uma condenação manifestamente ilegal e indevida à recorrente, que jamais se obrigou à cobertura securitária dos danos de construção suportados pela recorrida.
+Como se vê, exsurge deficiente a fundamentação recursal, pois o recorrente limita-se a citar o dispositivo supostamente violado e a alegar que jamais se obrigou à cobertura securitária, sem se ater, ainda que de forma mínima, às razões pelas quais a Corte Estadual teria considerado existente a responsabilidade da recorrente no caso concreto dos autos, deixando de informar de que modo a legislação federal teria sido violada ou negada sua aplicação no acórdão recorrido.
+Conforme ficou consignado na decisão agravada, as razões de recurso especial são genéricas e, embora teça muitas considerações acerca da responsabilidade do FCVS, da CEF em casos envolvendo apólice pública, da incidência da prescrição ânua, dos limites de cobertura do contrato de seguro, em nenhum momento a parte recorrente faz referência ao decidido pelo acórdão recorrido acerca de tais temas de forma a demonstrar a violação alegada, situação que atrai, com certeza a incidência da Súmula n. 284/STF.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE SEGURO DE VIDA EM GRUPO. DOENÇAS DIVERSAS. AUSÊNCIA DE NEXO CAUSAL DAS PATOLOGIAS COM A ATIVIDADE LABORAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO. INCIDÊNCIA DAS SUMULAS 283 E 284/STF. SÚMULAS 5 E 7. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E DE CLÁUSULA CONTRATUAL. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegação genérica de violação à lei federal, sem indicar de forma precisa em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Incidência da Súmula 284 do STF.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1489200/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/08/2019, DJe 02/09/2019)
+Assim, resta patente que a pretensão da recorrente não merece guarida, devendo ser mantida incólume a decisão agravada em virtude dos referidos fundamentos.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
