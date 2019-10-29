@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Ceará, com amparo na alínea "a" do permissivo constitucional, contra acórdão do respectivo Tribunal de Justiça assim ementado (e-STJ, fl. 163):
+CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO CIVEL EM MANDADO DE SEGURANÇA. LEI ESTADUAL N. 10.273/79. OFICIAL MILITAR SUBMETIDO À CONDIÇÃO SUB JUDICE. NÃO POSTERIOR INCLUSÃO NO QUADRO DE ACESSO. PREVISÃO LEGAL DE PROMOÇÃO EM RESSARCIMENTO DE PRETERIÇÃO. RECURSO IMPROVIDO. SENTENÇA CONFIRMADA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. O impedimento temporário à promoção de oficiais militares que estejam na situação sub judice, fica obstada por expressa previsão legal, garantida a promoção em ressarcimento de preterição, em caso de absolvição ou impronúncia da imputação criminal (art. 29, inc. IV, c/c art. 17, inc. III, ambos da da Lei estadual n. 10.273/79).
+2. Desse modo, há de ser garantido o posicionamento do preterido nas mesmas condições em que estaria se relacionado no quadro de acesso.
+3. Recurso voluntário improvido. Sentença confirmada.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 174-179).
+Sustenta o recorrente, em suma, a violação do art. 18 da Lei n. 1.533/1951, por entender que o prazo decadencial para a impetração do mandado de segurança já havia transcorrido por ocasião do ajuizamento da ação.
+Afirma que o termo inicial da decadência ocorreu com o ato de promoção, em 15/1/1999, enquanto o remédio constitucional apenas foi impetrado em 11/1/2000, posteriormente aos 120 dias legalmente previstos.
+Assevera, outrossim, que o requerimento administrativo para revisão do referido ato administrativo somente foi apresentado em 10/11/1999, posteriormente ao prazo decadencial de 120 dias, de modo que não teve o condão de suspender ou interromper o prazo decadencial.
+Contrarrazões à e-STJ, fl. 197.
+É o relatório.
+O recurso não merece ser conhecido.
+A Corte de origem afastou a tese de decadência do direito à impetração do mandado de segurança pelos seguintes fundamentos (e-STJ, fls. 114/115):
+Note-se que a ação mandamental está embasada em pedido administrativo, fls. 12/14, datado de 10 de novembro de 1999, sendo que o boletim do Comando Geral da Policia Militar do Ceará, em quê fora publicado o despacho negando a pretensão, data de 07 de dezembro de 1999. Por sua vez, o mandado de segurança foi protocolado no Fórum em 11 de janeiro de 2000, dentro, portanto, do prazo de cento e vinte dias.
+Da análise do excerto transcrito, bem como do inteiro teor dos acórdãos proferidos na origem, observa-se que o Tribunal de origem reconheceu apenas que o mandado de segurança está embasado em pedido administrativo cuja decisão foi publicada em 7/12/1999, não tecendo qualquer consideração acerca do ato administrativo mencionado nas razões recursais.
+Portanto, não houve análise quanto à tese recursal, pela qual o termo inicial para a propositura da ação mandamental seria ato de promoção, ocorrido em 15/1/1999.
+Assim, inviável o conhecimento do recurso, seja pela ausência de prequestionamento, consoante a Súmula 211 do STJ, seja pela necessidade de reexame de matéria fático-probatória para a análise da tese recursal, o que atrai o óbice previsto na Súmula 7 do STJ.
+Nesse sentido:
+FINANCEIRO E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VANTAGENS PECUNIÁRIAS ASSEGURADAS POR LEI. LIMITE DE GASTOS COM PESSOAL. LEI DE RESPONSABILIDADE FISCAL. DECISÃO JUDICIAL. DIREITO SUBJETIVO. EXCEÇÃO. ART. 2º-B DA LEI N. 9.494/1997. INCIDÊNCIA DA SÚMULA 211 DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que os limites orçamentários previstos na Lei de Responsabilidade Fiscal, no que se refere às despesas com pessoal do ente público, não podem servir de fundamento para o não cumprimento de direitos subjetivos do servidor, assegurados por lei ou por decisão judicial, independentemente da competência da despesa.
+Precedentes.
+2. O art. 2º-B da Lei n. 9.494/1997 não foi objeto de prequestionamento, nem mesmo de forma implícita, pela Corte local, de modo a atrair a incidência da Súmula 211/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.418.641/RN, de minha relatoria, SEGUNDA TURMA, julgado em 1º/10/2019, DJe 7/10/2019)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA NÃO CONFIGURADA. VERIFICAÇÃO DO DIES A QUO DO PRAZO DECADENCIAL PARA IMPETRAÇÃO. SÚMULA 7 DO STJ.
+1. O recorrente aduz ilegitimidade passiva, uma vez que a impetração se dirigiu a si como pessoa física, e não à autoridade decorrente da função que ocupou. O voto condutor do acórdão assevera: "não há ilegitimidade passiva de parte, já que a demanda foi ajuizada em face do Presidente da Câmara de Vereadores à época dos fatos".
+2. O Ministério Público fez constar que impetrava "mandado de segurança contra r. decisão, anexa, proferida pelo Nobre Presidente da Câmara de Vereadores de Pompéia, Sr. [NOME]" (fl. 4, e-STJ). Certo é que, em caso de sucessão, o novo Presidente deve ser considerado como impetrado, devendo atender aos ônus referentes ao processo.
+3. Quanto à alegada decadência do direito de propor o Mandado de Segurança, assim dispôs o julgador a quo: "o prazo de decadência do mandado de segurança tem início com o ato lesivo praticado pela autoridade impetrada. A comunicação do ato legislativo ao Ministério Público data de 30 de agosto de 2013 (fls. 127), sendo impetrado o remédio constitucional em 17 de dezembro de 2013" (fl. 300, e-STJ).
+4. É inviável analisar a tese defendida no Recurso Especial, de modo a alterar o dies a quo do prazo decadencial para a data da realização da audiência pública, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Não obstante, ainda que se examinasse esse ponto, verifico que o ato coator apontado consiste na ocorrência de votação considerada nula, o que não guarda relação com a audiência pública realizada anteriormente.
+6. Recurso Especial não conhecido.
+(REsp 1.721.065/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/4/2018, DJe 2/8/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ANISTIA. EX-EMPREGADO DA CAIXEGO. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. APLICAÇÃO DO PRINCÍPIO DA ACTIO NATA. JURISPRUDÊNCIA PACÍFICA DO STJ. AFASTAMENTO, PELO ACÓRDÃO RECORRIDO, DA DECADÊNCIA PARA A IMPETRAÇÃO E DA PRESCRIÇÃO DO DIREITO DE AÇÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 28/09/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, impetrado pela parte ora agravada contra ato do Secretário de Estado de Gestão e Planejamento do Estado de Goiás, consubstanciado no indeferimento do seu pedido de retorno ao serviço público, sob o fundamento de que não era ela originariamente servidora da Caixego, razão pela qual não se enquadraria nas situações descritas pela lei anistiadora. O Tribunal de origem concedeu a segurança, para determinar o prosseguimento do processo administrativo instaurado pela impetrante, e o seu retorno aos quadros da Administração Pública estadual.
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Na forma da jurisprudência do STJ, conforme o princípio da actio nata, o curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito violado passa a conhecer o fato e a extensão de suas conseqüências. Nesse sentido: STJ, EDcl no REsp 1.443.365/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/05/2016; AgRg no AREsp 790.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 10/02/2016.
+V. O entendimento firmado pelo Tribunal a quo, em face das provas dos autos - no sentido da não ocorrência da decadência para a impetração e da prescrição do direito de ação -, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.145.012/GO, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/3/2018, DJe 22/3/2018)
+Ante o exposto, com fulcro no art. 932,III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
