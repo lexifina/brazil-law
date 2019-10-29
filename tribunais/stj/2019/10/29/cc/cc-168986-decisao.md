@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo Federal da 1ª Vara Cível da Seção Judiciária do Estado do Tocantins e, suscitado, o Juízo da 2ª Vara do Trabalho de Palmas - TO.
+Narram os autos que [NOME] ajuizou reclamação trabalhista em desfavor da Fundação Nacional de Saúde - FUNASA, afirmando que foi admitida para prestar serviços, antes da entrada em vigor da CF/1988, pelo regime celetista e que faz jus ao reconhecimento da nulidade da transmudação de regime para o estatutário, bem como ao recolhimento do FGTS.
+A Justiça do Trabalho declinou da competência à consideração de que a competência para decidir sobre a validade da natureza estatutária da contratação é da Justiça comum.
+Por sua vez, o Juízo Federal da 1ª Vara Cível da Seção Judiciária do Estado do Tocantins instaurou este incidente, com suporte no entendimento firmado pelo Excelso Pretório de que, no caso, prevalece o regime celetista da contratação.
+O parecer do Ministério Público Federal é pela competência da Justiça comum.
+É o relatório.
+Consta dos autos que a servidora foi contratada pelo regime da CLT antes da entrada em vigor da Constituição Federal de 1988, e o Juízo Federal da 1ª Vara Cível da Seção Judiciária do Estado do Tocantins reconhece que, por ocasião da transmudação do regime para estatutário, não foi obedecido o comando constitucional de prévia submissão a concurso público (e-STJ, fls. 378/381).
+A manifestação da Justiça comum nesse sentido, atende ao pedido formulado na inicial da não submissão da autora a vínculo jurídico administrativo estabelecido com a Funasa.
+Conforme bem salientado pelo Juízo suscitante, o Excelso Pretório, no RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento de que compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público, que é o caso dos autos.
+Confira-se a ementa do julgado:
+CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA. SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELO REGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho - CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43).
+2. Agravo a que se conhece para negar seguimento ao recurso extraordinário.
+Do voto condutor do julgado extraem-se as seguintes passagens:
+O caso dos autos, todavia, não se subsume a nenhuma das hipóteses tratadas nos precedentes acima citados. Não se trata nem se alega a existência de vínculo subordinado a relação estatutária e nem de trabalho temporário submetido a lei especial. Trata-se, sim, de contrato de trabalho celebrado em 1982, época na qual se admitia a vinculação de servidores à Administração Pública, sob regime da CLT.
+Ademais, é incontroverso que o ingresso da reclamante no serviço público se deu sem a prévia realização de concurso público, hipótese em que é incabível a transmudação do regime celetista para o estatutário, conforme já decidido pelo Pleno, em sede de controle concentrado  .. .
+Assim, considerando que o advento do regime jurídico único no âmbito do Estado do Piauí não foi hábil a alterar a natureza celetista do vínculo da reclamante com o Poder Público, é de se reconhecer a competência da Justiça do Trabalho para processar e julgar a reclamação trabalhista.
+Ante o exposto, conheço do conflito para declarar competente o Juízo da 2ª Vara do Trabalho de Palmas - TO, o suscitado.
+Publique-se. Intimem-se.
