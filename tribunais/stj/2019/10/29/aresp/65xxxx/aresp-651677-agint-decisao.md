@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 191/205) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante afirma que:
+(a) a Súmula n. 7/STJ não seria aplicável ao caso, pois a Corte de origem expressamente teria consignado que a pessoa jurídica recorrida faria uso do crédito para incrementar sua atividade econômica,
+(b) não seria razoável considerar irrelevante o fato de o consumidor obter lucro, substituindo a figura do destinatário final pelo destinatário fático e presumir a vulnerabilidade do consumidor, como no caso concreto, ao afirmar ser desnecessária sua demonstração no contrato de adesão firmado, e
+(c) "pretende apenas e tão somente, que esse colendo Superior Tribunal de Justiça se manifeste sobre a adoção da teoria maximalista pelo Tribunal local pelo simples fato de se tratar de contrato de adesão (sem qualquer outro fundamento), de modo que não está o Santander a requerer a alteração de conclusão fática verificada pelas instâncias de origem" (e-STJ fl. 194).
+Ao final, pede a reconsideração da decisão agravada ou o julgamento do agravo interno pelo Colegiado.
+Não foi apresentada impugnação (e-STJ fl. 208).
+É o relatório.
+Decido.
+Verifica-se serem corretas as alegações do recorrente, uma vez que o óbice da Súmula n. 7/STJ não se aplica às questões discutidas nos autos.
+Assim, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada e prossigo no exame do recurso.
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 157/158).
+O TJPR deu provimento ao agravo de instrumento, em acórdão assim ementado (e-STJ fl. 109):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR, MESMO SE TRATANDO DE PESSOA JURÍDICA - APLICABILIDADE DA TEORIA MAXIMALISTA - INVERSÃO DO ÔNUS DA PROVA - HIPOSSUFICIÊNCIA TÉCNICA E ECONÔMICA CARACTERIZADA - DESPACHO REFORMADO - RECURSO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 119/130), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação do art. 6º, III, do CDC, afirmando ser indevido inverter o ônus da prova nos autos, pois a parte recorrida não seria hipossuficiente, visto estar provado que o crédito objeto do empréstimo seria destinado ao fomento de sua atividade produtiva, razão pela qual não seria permitida a inversão do ônus da prova, com amparo em regras de direito do consumidor.
+Argumentou que: (a) ao adotar a teoria maximalista para definir a figura de consumidor, a Corte local teria divergido do entendimento do STJ, e (b) ainda que adotada tal teoria, a inversão do ônus da prova não seria automática, por ser necessário preencher os requisitos de verossimilhança das alegações e de hipossuficiência do consumidor, ausentes no caso.
+Não foram apresentadas contrarrazões (e-STJ fl. 152).
+No agravo (e-STJ fls. 161/176), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 178).
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O TJPR reconheceu ser oportuna a inversão do ônus da prova, seguindo o art. 6º, VIII, do CDC, ao assentar, à luz da Súmula n. 297/STJ e da teoria maximalista, que a pessoa jurídica recorrente, mesmo se utilizando dos recursos para fomento de sua atividade econômica, enquadrava-se no conceito de consumidora dos produtos bancários ofertados pelo recorrente, considerado fornecedor, inexistindo necessidade de demonstrar a vulnerabilidade no caso concreto, tendo em vista que (e-STJ fls. 111/113):
+É de se ressaltar, primeiramente, que os negócios jurídicos bancários sofrem incidência do Código de Defesa do Consumidor, tanto por força de expressa previsão legal (art. 3º, § 2º da Lei Consumerista), quanto do entendimento uníssono da jurisprudência pátria.
+Com efeito, é pacífico o posicionamento de que as instituições financeiras, ao prestarem serviços relacionados à concessão de crédito, portam-se da forma descrita pelo art. 3º da referida Lei e, assim, são consideradas fornecedoras de serviços. A Súmula 297 do Superior Tribunal de Justiça sedimentou tal entendimento: "O Código de Defesa do Consumidor é aplicável às instituições financeiras".
+Perpassada aludida contextualização, é de se debruçar acerca das peculiaridades do caso concreto, eis que a parte contratante se trata de pessoa jurídica que presumivelmente agrega os recursos captados com a instituição financeira para incrementar a sua atividade econômica.
+À incidência de uma norma jurídica se faz necessária a verificação, in concreto e in abstracto, do suporte fático nela descrito. No contexto das relações de consumo, deve-se partir do enquadramento legal da definição de consumidor para tanto.
+O despacho singular repele a incidência do CDC ao caso em comento trazendo argumentação que visa distanciar a agravante da figura de consumidora destinatária de aludido diploma legal.
+É de se salientar que, ante os diversos cenários trazidos à apreciação do judiciário neste âmbito, a jurisprudência vem enfrentando, construindo e reconstruindo as definições legais traçadas in abstracto e um tanto superficialmente pela Lei Consumeirista. Isso porque a legislação, como regramento social que é, carece de interpretações que venham a dar conta das situações jurídicas que não pode, in concreto,
+De outro vértice, há a corrente maximalista, a qual me alio, inobstante anterior entendimento diverso. Aludida concepção propõe a interpretação mais extensiva do conceito de consumidor. Nas lições de Claudia Lima Marques (in Manual de Direito do Consumidor, RT, 2010, p.85), esta corrente ditaria que "o CDC seria um código geral sobre o consumo, um código para a sociedade de consumo, que institui normas e princípios para todos os agentes de mercado, os quais podem assumir os papéis ora de fornecedores, ora de consumidores".
+Neste norte, se mostra irrelevante o fato de o consumidor obter lucro quando adquire um produto ou utiliza um serviço. Substitui-se a noção de destinatário final pela figura de destinatário fático. Neste contexto não há que se demonstrar a vulnerabilidade in concreto, eis que os métodos contratuais massificados, como o contrato de adesão, importam necessariamente na vulnerabilidade, na mitigação da liberdade de contratar, daí os reclamos à incidência do Código de Defesa do Consumidor.
+Destarte, é de incidir a Legislação Consumeirista ao caso em tela.
+(..)
+A hipossuficiência está caracterizada, pelo que merece reforma a decisão singular para se inverter o ônus da prova.
+Com efeito, a instituição financeira agravada tem maiores condições para a produção de provas, eis que possui em sua guarda todos os elementos referentes ao fato em análise.
+Diante de tal quadro, aliado ao fato de que as condições econômicas do banco agravante são, da mesma forma, superiores às da agravada, que assim se mostra hipossuficiente econômica, resta atendido o referido pressuposto, necessário à inversão do ônus da prova, consoante se infere do art. 6o, VIII do Código de Defesa do Consumidor.
+Assim decidindo, a Corte local dissentiu do entendimento assente na jurisprudência nas Turmas da Segunda Seção do STJ no sentido de que "a pessoa jurídica que celebra contrato de financiamento com banco com a finalidade de fomentar suas atividades empresariais, em regra não é destinatário final, diante da natureza de insumo, sendo inaplicável o Código de Defesa do Consumidor" (AgInt no REsp n. 1.667.374/MA, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2019, DJe 23/8/2019).
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE DEFESA DO CONSUMIDOR. PESSOA JURÍDICA. RELAÇÃO DE CONSUMO. NÃO RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. VEDAÇÃO AO REEXAME PROBATÓRIO. SÚMULA Nº 7/STJ.
+(..)
+2. A pessoa jurídica, na contratação de negócios jurídicos e empréstimos para fomento da atividade empresarial, não é considerada o destinatário final do serviço.
+3. Na hipótese, a inversão do julgado exigiria a revisão dos elementos fático-probatórios dos autos, procedimento inviável em recurso especial, a teor da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.723.806/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/9/2018, DJe 27/9/2018.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGANTES.
+(..)
+3. Consoante a jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para a implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Tribunal de origem que afirma ter o financiamento sido obtido para o fomento da economia da empresa, não se enquadrando essa como consumidora para efeito da incidência do diploma consumerista. Incidência do óbice da súmula 7/STJ.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 374.143/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/8/2018, DJe 17/8/2018.)
+CONTRATO DE FACTORING. RECURSO ESPECIAL. CARACTERIZAÇÃO DO ESCRITÓRIO DE FACTORING COMO INSTITUIÇÃO FINANCEIRA. DESCABIMENTO. APLICAÇÃO DE DISPOSITIVOS DO CÓDIGO DE DEFESA DO CONSUMIDOR À AVENÇA MERCANTIL, AO FUNDAMENTO DE SE TRATAR DE RELAÇÃO DE CONSUMO. INVIABILIDADE.
+1. As empresas de factoring não são instituições financeiras, visto que suas atividades regulares de fomento mercantil não se amoldam ao conceito legal, tampouco efetuam operação de mútuo ou captação de recursos de terceiros. Precedentes.
+2. "A relação de consumo existe apenas no caso em que uma das partes pode ser considerada destinatária final do produto ou serviço. Na hipótese em que produto ou serviço são utilizados na cadeia produtiva, e não há considerável desproporção entre o porte econômico das partes contratantes, o adquirente não pode ser considerado consumidor e não se aplica o CDC, devendo eventuais conflitos serem resolvidos com outras regras do Direito das Obrigações". (REsp 836.823/PR, Rel. Min. SIDNEI BENETI, Terceira Turma, DJ de 23.8.2010).
+3. Com efeito, no caso em julgamento, verifica-se que a ora recorrida não é destinatária final, tampouco se insere em situação de vulnerabilidade, porquanto não se apresenta como sujeito mais fraco, com necessidade de proteção estatal, mas como sociedade empresária que, por meio da pactuação livremente firmada com a recorrida, obtém capital de giro para operação de sua atividade empresarial, não havendo, no caso, relação de consumo.
+4. Recurso especial não provido.
+(REsp n. 938.979/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/6/2012, DJe 29/6/2012.)
+Dessa forma, assiste razão ao banco recorrente ao defender que, quanto à inversão do ônus da prova, o art. 6º do CDC não se aplica ao caso, devendo ser observadas regras de distribuição do ônus probatório previstas no direito processual comum.
+Diante do exposto, com fundamento no art. 259, § 6º, do RISTJ, RECONSIDERO a decisão monocrática (e-STJ fls. 185/187), para CONHECER do agravo nos próprios autos e DAR PROVIMENTO AO RECURSO ESPECIAL, afastando a incidência do CDC.
+Publique-se e intimem-se.
