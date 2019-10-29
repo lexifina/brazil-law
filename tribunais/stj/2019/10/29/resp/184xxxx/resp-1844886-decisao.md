@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial por [NOME], com amparo na alínea "a" do permissivo constitucional, em oposição a acórdão do Tribunal de Justiça do estado de São Paulo assim ementado:
+AÇÃO ACIDENTÁRIA CONDIÇÕES AGRESSIVAS LER/DORT EM COLUNA E MEMBROS SUPERIORES SENTENÇA DE PROCEDÊNCIA APELAÇÃO DO INSS E REEXAME NECESSÁRIO LAUDO MÉDICO PERICIAL CONCLUSIVO CONSTATAÇÃO DA REDUÇÃO DA CAPACIDADE LABORATIVA E NEXO CAUSAL COMPROVADOS PLEITO DE ALTERAÇÃO DO TERMO INICIAL CABIMENTO AUXÍLIO-ACIDENTE DEVIDO A PARTIR DA JUNTADA DO LAUDO PERICIAL AOS AUTOS DECRETO DE PROCEDÊNCIA MANTIDO.
+Recurso do INSS provido. Decreto de procedência do pedido mantido em sede de reexame necessário.
+O recorrente aduz violação do art. 240 Código de Processo Civil. Busca o entendimento de que "o que se pertine à fixação do marco inicial é medida que se impõe, devendo o referido termo inicial do benefício ser fixado para a data de 21.02.16 ou na pior das hipóteses para a data da citação".
+Decido.
+Quanto ao termo inicial da concessão do benefício, este Superior Tribunal tem fixado a data do requerimento administrativo ou, no caso de requerimento inexistente, a data da citação do INSS.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. DATA DE INÍCIO DO BENEFÍCIO (DIB). DATA DO PROTOCOLO ADMINISTRATIVO OU, NA AUSÊNCIA, DATA DA CITAÇÃO DO INSS. ACÓRDÃO QUE FIXOU COMO DIB A DATA DA PERÍCIA. VIOLAÇÃO DA JURISPRUDÊNCIA SÓLIDA E SUMULADA DO STJ. RECURSO PROVIDO.
+1. O Tribunal de origem estabeleceu erroneamente como data do início do benefício da aposentadoria por invalidez a data da perícia realizada, mesmo estando claro nos autos que "houve requerimento administrativo, último formulado em 26/08/2008" (fl. 309, e-STJ).
+2. A jurisprudência do STJ é sólida no sentido de que, havendo requerimento administrativo, como no caso, este é o marco inicial do benefício previdenciário. Ainda que assim não fosse, deveria ser tomada como início a data da citação do INSS.
+3. A Corte de origem, portanto, falhou gravemente, na medida em que afastou a aplicação tanto da lei - art. 43, § 1º, "a", da Lei 8.213/1991 - quando da jurisprudência sólida do STJ, que tem orientação sumulada aplicável ao caso - Súmula 576/STJ.
+4. Recurso Especial provido para declarar como data de início do auxílio previdenciário em questão a data do requerimento administrativo, com os consequentes pagamentos retroativos devidos.
+(REsp 1.791.587/MT, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/2/2019, DJe 8/3/2019)
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. TERMO INICIAL DO BENEFÍCIO. DATA DO REQUERIMENTO ADMINISTRATIVO OU, CASO INEXISTENTE, NA DATA DA CITAÇÃO.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de aposentadoria por invalidez ou de auxílio-doença.
+II - De acordo com a jurisprudência pacífica do STJ, o termo inicial para a concessão de benefício previdenciário é a data do requerimento administrativo e, na sua ausência deste, a partir da citação. Entende-se, ainda, que o laudo pericial não serve como parâmetro para fixar termo inicial de aquisição de direitos, mas apenas norteia o livre convencimento do juiz quanto aos fatos alegados pelas partes. Precedente: REsp n. 1.475.373/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 19/4/2018, DJe 8/5/2018; REsp n. 1.714.218/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/2/2018, DJe 2/8/2018; AgInt no REsp n. 1.601.268/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 23/6/2016, DJe 30/6/2016; e AgRg no REsp n. 1.221.517/SP, Rel. Min. Jorge Mussi, DJe 26.9.2011.
+III - Recurso especial provido para fixar o termo inicial do benefício na data do requerimento administrativo.
+(REsp 1.714.507/SC, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/11/2018, DJe 21/11/2018)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. O TERMO INICIAL DA APOSENTADORIA POR INVALIDEZ CORRESPONDE AO DIA SEGUINTE À CESSAÇÃO DO BENEFÍCIO ANTERIORMENTE CONCEDIDO OU DO PRÉVIO REQUERIMENTO ADMINISTRATIVO. SUBSIDIARIAMENTE, QUANDO AUSENTES AS CONDIÇÕES ANTERIORES, O MARCO INICIAL PARA PAGAMENTO SERÁ A DATA DA CITAÇÃO. NÃO HAVENDO QUE SE FALAR EM FIXAÇÃO DO TERMO INICIAL DO BENEFÍCIO NA DATA DE REALIZAÇÃO DA PERÍCIA. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL DA SEGURADA PROVIDO.
+1. No caso dos autos, o Tribunal de origem fixou o termo inicial da aposentadoria por invalidez na data da realização da segunda perícia (20.9.2010), ao fundamento de que somente neste momento é que se tornou inequívoca a incapacidade total da Segurada, a despeito de a sentença já ter reconhecido à autora o direito à aposentadoria por invalidez.
+2. Tal entendimento destoa da orientação jurisprudencial consolidada por esta Corte afirmando que a comprovação extemporânea de situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do Segurado.
+3. Dessa forma, o laudo pericial apenas norteia o livre convencimento do Juiz e serve tão somente para constatar alguma incapacidade ou mal surgidos anteriormente à propositura da ação, portanto, não serve como parâmetro para fixar termo inicial de aquisição de direitos.
+4. Recurso Especial da Segurada provido para restabelecer o termo inicial do benefício como fixado na sentença.
+(REsp 1.559.324/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/12/2018, DJe 4/2/2019)
+Desse modo, aplica-se no caso a Súmula 568 do STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ, conheço do recurso especial e dou-lhe provimento para fixar o DIB na data da citação do INSS.
+Publique-se. Intimem-se.
