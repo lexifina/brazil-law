@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 522/530).
+O Tribunal de origem negou provimento à apelação do recorrente em julgado que recebeu a seguinte ementa (e-STJ fl. 327):
+APELAÇÃO CÍVEL. DIREITO CIVIL. INDENIZATÓRIA. PRESCRIÇÃO. INOCORRÊNCIA. DANO MORAL CONFIGURADO. 1. Prejudicial de prescrição que deve ser rejeitada, eis que a demanda foi proposta dentro do prazo prescricional de três anos e a citação faz retroagir. Inexistência de qualquer desídia da apelada, que sempre diligenciou a citação do apelante. 2. Prova do fato robusta, considerando os documentos carreados na inicial. Inexistência de impugnação. Documentos carreados pelo apelante que foram após a data dos fatos, e quando já em vigor tutela determinando a retirada dos mesmos. 3. Termo utilizado que se configura ofensivo, conforme se verifica do Dicionário. 4. Dano moral fixado de forma correta e adequada, não merecendo qualquer reparo, eis que observada a proporcionalidade e razoabilidade. Recurso conhecido e improvido, nos termos do voto do Desembargador Relator.
+Os embargos de declaração foram rejeitados (e-STJ fls. 381/388).
+No recurso especial (e-STJ fls. 405/421), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente apontou negativa de vigência dos arts. 240 do CPC/2015 e 206, § 3º, do CC/2002, sustentando que a recorrida não promoveu a citação do réu, ora recorrente, no período de 3 (três) anos, devendo ser decretada a prescrição, já que não houve a interrupção do prazo prescricional.
+Afirmou a ocorrência de dissídio jurisprudencial em relação ao valor fixado a título de dano moral.
+Ofereceram-se contrarrazões (e-STJ fls. 516/520).
+No agravo (e-STJ fls. 547/556), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 560/563).
+É o relatório.
+Decido.
+O recurso interposto com fundamento na alínea "c" do permissivo constitucional deve apontar em que dispositivo legal se fundamenta a insurgência. No que se refere ao valor fixado a título de dano moral, não foi indicado o artigo de lei ao qual foi atribuída interpretação divergente. Aplica-se a Súmula n. 284/STF. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.024.730/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/8/2017, DJe 21/8/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ERRO MÉDICO. DANO MORAL. NÃO CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+ ..
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.562.730/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/4/2016, DJe 12/4/2016.)
+Além disso, quanto à prescrição intercorrente, o Tribunal de origem concluiu que não houve inércia ou qualquer desídia por parte da recorrida.
+Confira-se, a propósito, o seguinte trecho do acórdão recorrido (e-STJ fls. 329/330):
+A prejudicial de mérito deve ser afastada, considerando que a demanda foi ajuizada no prazo prescricional, além de ser observado o que estabelece o artigo 219, § 1º, do CPC/73 e artigo 240, § 1º, do CPC/2015. A discussão gravita se a demora entre a distribuição e a citação pode ser imputada a autora, considerando que a demanda foi distribuída em 27 de julho de 2009 e o réu foi citado em 30 de janeiro de 2015. Conforme se verifica dos autos, foi tentada a citação do réu em diversos endereços, sendo todos infrutíferos, inclusive na residência da mãe do réu que afirmou estar o mesmo em local incerto e não sabido (fls. 94 - índice 113).
+Assim, diversamente do que insiste o apelante, não houve qualquer inércia da apelada. Ao contrário, a mesma sempre diligenciou a citação do apelado, sendo certo que o mesmo só foi citado por edital, quando apresentou a sua contestação.
+Afastar tais conclusões é inviável em recurso especial, consoante dispõe a Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 188), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
