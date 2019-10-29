@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. PRAZO EM DOBRO. PROCURADORES DO MESMO ESCRITÓRIO. IMPOSSIBILIDADE. PRECEDENTES.
+1. Ação de indenização.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. O TJ/RS alinhou-se ao entendimento do STJ, quanto à interpretação do art. 191 do CPC/73, no sentido de que "quando o preceito legal estabelece a figura dos "diferentes procuradores", refere-se às hipóteses em que os litisconsortes são patrocinados por advogados distintos e sem vinculação entre si, o que não ocorre no caso concreto, no qual todos os litisconsortes outorgaram procuração ao mesmo grupo de procuradores integrantes de mesmo escritório profissional" (AgRg no AREsp 359.034/RN, 2ª Turma, DJe de 25/09/2014). Precedentes.
+9. Recurso especial conhecido em parte, e nessa extensão, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por SYLVIA MARTHA DE OLIVEIRA REICHELT, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especiaL interpostos em: 01/12/2016.
+Concluso ao gabinete em: 01/04/2019.
+Ação: indenização ajuizada por [NOME], [NOME] e JACOVAS ARQUITETOS ASSOCIADOS LTDA. em face de TGD ARQUITETURA E ENGENHARIA LTDA. e SYLVIA MARTHA DE OLIVEIRA REICHELT.
+Alegam que SYLVIA MARTHA DE OLIVEIRA REICHELT assumiu obra de sua autoria, em flagrante crime de plágio.
+Sentença: julgou parcialmente procedente a ação para:
+i) determinar que as primeiras recorrentes providenciem a retificação junto ao CREA as ART"s que recolheram, a fim de que constem no acervo técnico de [NOME], [NOME] e JACOVAS ARQUITETOS ASSOCIADOS LTDA.; bem assim que façam anotar junto a SMOV a coautoria dos arquitetos [NOME] e [NOME] no anteprojeto da obra; e ainda que divulguem na mídia essa coautoria, mediante publicação por três dias no jornal Zero Hora, dois no curso da semana e outro em domingo, em sua página 2, em letra correspondente àquela de uso regular na referida página;
+ii) condenar as primeiras recorridas, solidariamente, em indenizar os co- autores [NOME] e [NOME] pelos danos morais que lhes causaram, mediante o pagamento de R$ 26.000,00 para cada um, valor deverá ser atualizado pelo IGPM desde 17.01.05 e acrescido de juros de mora de 1% ao mês a contar da citação neste feito;
+iii) condenar a corré TGD no pagamento aos autores da importância de R$ 51.524,31 (já atualizada até Agosto/10) a título de honorários pelos trabalhos prestados no anteprojeto da obra da rua ltajaí, a continuar sendo atualizada pelo IGPM e acrescida de juros de mora da citação; e,
+iv) condenar a TGD no pagamento aos autores de importância de R$ 308.250,00, referente à indenização prevista no item 4.2.2 da Tabela de Honorários Profissionais do SAERGS - Sindicato dos Arquitetos do Estado do Rio Grande do Sul, também atualizada pelo IGPM e acrescida de juros de mora.
+Acórdão: limitou a sentença aos contornos do pedido de ofício; não conheceu a apelação de TGD ARQUITETURA E ENGENHARIA LTDA. e SYLVIA MARTHA DE OLIVEIRA REICHELT; e deram parcial provimento à apelação de [NOME], [NOME] e JACOVAS ARQUITETOS ASSOCIADOS LTDA., nos termos da seguinte ementa:
+Apelação cível. Propriedade industrial e intelectual. Ação indenizatória. Não conhecimento dos apelos dos requeridos. Litisconsortes com procuradores diversos, mas que compõem o mesmo escritório de advocacia. Inaplicabilidade do art. 191 do CPC/1973. Prazo simples. Apelos interpostos intempestivamente. Autoria de projeto arquitetônico. Lançamento de empreendimento sem a devida indicação dos autores da demanda como coautores do projeto. Perícia judicial que reconheceu a coautoria. Honorários profissionais arbitrados em consonância com a tabela da SAERGS. Verba honorária majorada. Sentença limitada aos contornos do pedido no que tange à divulgação da autoria do projeto pelos mesmos meios em que divulgado o empreendimento, por três dias consecutivos. Apelos dos requeridos não conhecidos. Apelo dos autores parcialmente provido. (e-STJ fl. 891)
+Embargos de Declaração: opostos por TGD ARQUITETURA E ENGENHARIA LTDA. e SYLVIA MARTHA DE OLIVEIRA REICHELT, foram rejeitados.
+2º Embargos de Declaração: opostos por TGD ARQUITETURA E ENGENHARIA LTDA. e SYLVIA MARTHA DE OLIVEIRA REICHELT, foram rejeitados.
+Embargos de Declaração: opostos por [NOME] e outros, foram rejeitados.
+Recurso especial de SYLVIA MARTHA DE OLIVEIRA REICHELT: alega violação do art. 191 do CPC/73; 6º da LINDB; e 1022 do CPC/15. Além de negativa de prestação jurisdicional, aduz em síntese, que desde a contestação as recorrentes atuaram com procuradores diferentes, e não houve nenhuma insurgência com a consideração do prazo dobrado para se manifestarem. Assevera que "em que pese um dos procuradores eventualmente preste serviços ao escritório cujo outro procurador é sócio, ambos não integram a mesma banca, não são sócios e não trabalham no mesmo ambiente físico." (e-STJ fl. 1183). Alega preclusão de análise do prazo pelos procuradores diferentes uma vez que a contestação foi apresentada dentro do prazo dobrado; e, afronta ao princípio da segurança jurídica.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do fato de que os advogados das recorrentes "compõe a mesma banca" para afastar a contagem dos prazos processuais em dobro, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrente não demonstram como o acórdão recorrido violou o art. 6º da LINDB, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/RS, no sentido de que "o exame da admissibilidade recursal não depende de manifestação das partes, sendo ato do magistrado" (e-STJ fl. 1027), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Consta do acórdão recorrido:
+Em se tratando de procuradores distintos, mas vinculados ao mesmo escritório profissional, não há que se falar na incidência da prerrogativa contida no art. 191 do CPC/1973, in verbis:
+"Quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em dobro os prazos para contestar, para recorrer e, de modo geral, para falar nos autos."
+O dispositivo acima transcrito visa garantir aos litigantes o exercício pleno do contraditório e da ampla defesa, porém, tratando-se de procuradores diversos, mas que compõe a mesma banca, não há dificuldade de comunicação ou de vista dos autos a justificar a concessão de prazo em dobro. (e-STJ fl. 904)
+No caso concreto não há duvidas acerca de tratar-se de procuradores pertencentes a um mesmo escritório, o que se constata em visita ao sítio eletrônico http://www.camposea.adv.br/equipe/. Assim como da consulta processual no sitio eletrônico deste Tribunal onde se vislumbra a atuação conjunta destes procuradores em outros feitos.
+O prazo para a interposição do recurso de apelação, nos termos do art. 508 do CPC/1973, aplicável ao caso dos autos, é de 15 dias, porém, no caso concreto, as partes foram intimadas da decisão que desacolheu os embargos declaratórios opostos em face da sentença por nota de expediente publicada em 09/09/2015 e os apelos interpostos pelos requeridos apenas foram protocolados em 09/10/2015, sendo, portanto, intempestivos. (e-STJ fl. 909)
+Alterar a conclusão no acórdão impugnado, no sentido de que os advogados das recorrentes "compõe a mesma banca", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, se os procuradores das recorrentes fazem ou não parte da mesma banca de advocacia, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+- Da Súmula 568 do STJ
+O TJ/RS alinhou-se ao entendimento do STJ, quanto à interpretação do art. 191 do CPC/73, no sentido de que "quando o preceito legal estabelece a figura dos "diferentes procuradores", refere-se às hipóteses em que os litisconsortes são patrocinados por advogados distintos e sem vinculação entre si, o que não ocorre no caso concreto, no qual todos os litisconsortes outorgaram procuração ao mesmo grupo de procuradores integrantes de mesmo escritório profissional" (AgRg no AREsp 359.034/RN, 2ª Turma, DJe de 25/09/2014).
+Também no mesmo sentido: AgRg nos EDcl no AREsp 690.857/PR, 3ª Turma, DJe de 04/03/2016; AgInt nos EDcl no AREsp 932298/PR, 4ª Turma, DJe de 18/09/2018; REsp 1693784/DF, 4ª Turma, DJe 05/02/2018.
+Logo, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO parcialmente do recurso especial, e nessa extensão, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 918) para 20% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
