@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ENRIQUE CRISTANI NETO, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o paciente foi condenado à pena de 8 (oito) anos de reclusão, no regime inicial fechado, por infração ao art. 121, caput, do Código Penal.
+A defesa interpôs apelação perante o Tribunal de origem, que não conheceu do recurso em razão de sua intempestividade, nos termos da seguinte ementa:
+"PROCESSO PENAL. TRIBUNAL DO JÚRI - CONDENAÇÃO POR HOMICÍDIO SIMPLES - AUSÊNCIA DE PRESSUPOSTO DE ADMISSIBILIDADE RECURSAL - INTEMPESTIVIDADE - RECURSO NÃO CONHECIDO." (e-STJ, fl. 84).
+Neste writ, alega a impetrante, em síntese, que após julgamento perante o Tribunal do Júri da Comarca de Salto do Lontra/PR, interpôs recurso de Apelação, não sendo conhecido por intempestividade. Afirma que houve equívoco na decisão, por manifesto erro de contagem de prazo do edital, na medida em que o prazo ficou suspenso em razão do recesso forense.
+Requer a concessão da ordem, liminarmente, para impedir a execução do mandado de prisão expedido, até o julgamento final do presente writ, e, no mérito, que seja conhecido pelo Tribunal originário, o recurso de apelação.
+A liminar foi indeferida (e-STJ, fl. 164).
+Prestadas as informações (e-STJ, fls. 186-211), o Ministério Público Federal opina pelo não conhecimento do habeas corpus (e-STJ, fls. 215-218).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+A impetrante alega, em suma, que o recurso de apelação deve ser conhecido, tendo em vista sua tempestividade.
+O Tribunal de Justiça assim se manifestou acerca da tempestividade do apelo:
+"Em relação ao apelante, levando em conta tratar-se revel foi expedição de edital de intimação com o prazo de 90 (noventa) dias (fl. 502) encerrado em 20 de janeiro de 2013. Quanto ao prazo para oferecimento do recurso propriamente dito, teve início em 21 de janeiro de 2013 e findou em no dia 25 daquele mesmo mês e ano (parágrafo 2º, artigo 392, do Código de Processo Penal).
+O recurso, entretanto, foi interposto somente em 29 de janeiro de 2013 (fl. 504), quando já esgotado o prazo. Logo, não há como ser examinado este recurso pelo mérito, ante sua manifesta intempestividade Por essas razões, o meu voto é pelo não conhecimento da presente apelação" (e-STJ, fl. 86).
+Não há se falar na ocorrência de constrangimento ilegal na hipótese, na medida em que o art. 798, caput, do CPP estabelece que os prazos "serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", ou seja, o recesso forense não tem o condão de suspender o prazo do edital.
+Ora, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão" (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/03/2017, DJe 19/04/2017.)
+Ilustrativamente, confiram-se:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS ATÉ 20 DE JANEIRO. INOCORRÊNCIA. PRINCÍPIO DA ESPECIALIDADE. AGRAVO IMPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do Código de Processo Civil, e também art. 798 do Código de Processo Penal.
+2. Em razão do princípio da especialidade, os prazos previstos no art. 220 do CPC, regulamentados pela Resolução 244/CNJ, não incidem aos processos criminais, tendo em vista o regramento disposto no art. 798, caput, e § 3º, do CPP. Precedentes.
+3. O recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/03/2017, DJe 19/04/2017.) 4. Agravo regimental improvido.
+(AgRg no AREsp 1261954/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018)
+"HABEAS CORPUS SUBSTITUTO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. PECULATO. APELAÇÃO INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS. APLICAÇÃO DO ART. 220 DO CÓDIGO DE PROCESSO CIVIL. PRINCÍPIO DA ESPECIALIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA RÉ ACERCA DA SENTENÇA. CERCEAMENTO DE DEFESA.
+NÃO OCORRÊNCIA. ACUSADO SOLTO. PRESCINDIBILIDADE DE INTIMAÇÃO PESSOAL. INTIMAÇÃO POR MEIO DE ADVOGADO CONSTITUÍDO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. 2. De acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do Código de Processo Civil, regulamentado pela Resolução n. 244, de 19/9/2016, do Conselho Nacional de Justiça, aos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos processuais na seara penal entre os dias 20 de dezembro a 20 de janeiro.
+3. O Código de Processo Penal dispõe, no art. 392, II, que a intimação da sentença será feita ao réu pessoalmente ou ao defensor por ele constituído, quando se livrar solto, ou, sendo afiançável a infração, tiver prestado fiança. Com efeito, tratando-se de réu solto, basta a intimação do advogado constituído da sentença condenatória, não se exigindo a intimação pessoal do acusado.
+4. Habeas corpus não conhecido."
+(HC 481.476/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/06/2019, DJe 07/08/2019)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
