@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HOTEL SAINT PETER SERVIÇOS DE HOTELARIA LTDA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante o seguinte:
+Cuida-se de Embargo de Declaração sobre decisão que se apresenta desconexa com o teor do Agravo em Recurso Especial e possui fundamentação contraditória ao teor dos termos do processo em julgamento.
+Basta verificar que a fundamentação da decisão não se refere ao presente caso, e dessa forma viável os presentes embargos declaratórios objetivando sanar o equívoco para o julgamento adequado do agravo em recurso especial com referência aos artigos 489, §1º, inciso IV, do CPC e § 10 do artigo 85 do Código de Processo Civil (fl. 1.467).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Os presentes embargos de declaração, apesar de não trazerem, de maneira clara e objetiva, qual ou quais os vícios existentes nos termos do art. 1.022 do CPC, pretendem a reanálise dos argumentos trazidos na peça de Agravo em Recurso Especial.
+Ocorre, todavia, que esse agravo do art. 1.042 do CPC tem como único objetivo permitir ao Superior Tribunal de Justiça que exerça sua competência no exame da admissibilidade do recurso especial que fora antes inadmitido. Assim, na espécie, a decisão embargada, ao ter conhecido do referido agravo, passou, em consequência, à apreciação do próprio recurso especial, o qual não foi conhecido.
+Portanto, tendo sido atingido o objetivo jurídico a que se presta o Agravo em Recurso Especial, nos termos do art. 1.042 do CPC, os vícios passíveis de correção, se houvessem, seriam a respeito da análise e da decisão sobre o próprio recurso especial, o que não se constata da leitura da petição dos embargos de declaração.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
