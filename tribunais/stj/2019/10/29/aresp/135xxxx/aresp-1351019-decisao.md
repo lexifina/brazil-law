@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI em face de decisão que inadmitiu o recurso especial interposto, com base no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"Embargos de declaração no agravo interno. Reapreciação do recurso de acordo com orientação do STJ. Impugnação ao cumprimento de sentença com fundamento em laudo pericial. Alegação de ofensa à coisa julgada.
+Incumbe à parte que se opõe ao cálculo judicial alegar com exatidão, circunstanciar, demonstrar e especificar a diferença pretendida de forma contábil.
+A petição recursal, que se limita a alegar genericamente de encontro à decisão do juízo, deixa de cumprir os requisitos recursais, assim como é proibido ao juízo e ao Tribunal subsidiar a atuação defeituosa da parte, por meio da qual se busque encontrar, nas centenas de documentos que instruem a petição recursal, os valores omitidos na petição recursal para suprir os seus requisitos.
+Reapreciação os embargos de declaração, reafirmando-se o acórdão no agravo interno." (e-STJ fl. 400)
+Nas razões do recurso especial, a recorrente alega a violação dos arts. 489, § 1º, inciso VI, e 1.022, inciso II, do Código de Processo Civil de 2015, ao argumento, em síntese, de que o Tribunal de origem foi omisso quanto à alegação de existência de ofensa à coisa julgada.
+Sem contrarrazões (e-STJ fl. 420).
+Sobreveio juízo de admissibilidade do Tribunal de origem (e-STJ fls. 422-433), que inadmitiu o recurso especial por considerar que não se configurou a suposta negativa de prestação jurisdicional.
+É o breve relatório.
+Passo a decidir.
+A insurgência não merece acolhida.
+Ocorre que, no caso sob apreciação, o Tribunal de origem assim decidiu a respeito da controvérsia:
+"Em integração ao acórdão nos embargos declaratórios em agravo interno n. [CPF], enfatizo que predomina a generalidade das alegações, que se referem, em síntese, à ocorrência de ofensa à coisa julgada para se opor ao cálculo referente ao cumprimento de sentença em que a Caixa de Previdência dos Funcionários do Banco do Brasil é parte devedora.
+Não há omissão na decisão de Relator no agravo de instrumento ou no acórdão do agravo interno no agravo de instrumento, quanto a este tema.
+Tanto num julgado quanto no outro está claro que o juízo, ao julgar a impugnação ao cumprimento da sentença, examinou a petição inicial da impugnação ao cumprimento da sentença, assim como a pretensão do cumprimento da sentença, e as relacionou com o laudo pericial, e a petição inicial do agravo de instrumento alega que o laudo e a sentença não estariam exatos, o que não basta: exige-se que alegue a questão, demonstre o erro e especifique o resultado da diferença, valendo-se da técnica contábil para tanto.
+No lugar disso, a petição inicial do agravo de instrumento propõe uma discussão em tese, teórica. Não há mais lugar, entretanto, para discutir o critério ou a fórmula que a parte pretende.
+É possível que a PREVI apresente a divergência alegada com o cálculo do perito mediante prova técnica econômico-atuarial sem que isso represente ofensa à coisa julgada, mas forma de correção do cálculo, a ser regulada pelo juízo, e a decisão monocrática e o acórdão estão de pleno acordo com a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. FORMA DE LIQUIDAÇÃO. ALTERAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. INEXISTÊNCIA. SÚMULA Nº 344/STJ. PERÍCIA ATUARIAL. NECESSIDADE. EXPURGOS INFLACIONÁRIOS INCIDENTES SOBRE A DRM.
+1. A Segunda Seção deste Tribunal Superior consagrou o entendimento de ser devida a restituição da denominada reserva de poupança a ex-participantes de plano de benefícios de previdência privada, devendo ser corrigida monetariamente com índices que reflitam a real inflação ocorrida no período, ainda que o estatuto da entidade preveja critério de correção diverso, devendo haver também a inclusão dos expurgos inflacionários (Súmula nº 289/STJ).
+2. Na hipótese, houve condenação, transitada em julgado, quanto à incidência dos expurgos inflacionários não só sobre os valores da reserva de poupança, mas também sobre os valores atinentes à diferença de reserva matemática (DRM), paga, comumente, como renda certa em casos específicos, com fórmula descrita expressamente no plano de benefícios. Não houve condenação, portanto, de aplicação de expurgos inflacionários sobre a reserva matemática, que corresponde, na realidade, à totalidade dos compromissos líquidos do plano para com seus participantes, calculados atuarialmente.
+3. É necessária a produção de nova perícia, preferencialmente de natureza econômico-atuarial, pois não se levou em consideração, para a confecção dos cálculos, a fórmula da DRM descrita no plano de benefícios, devendo ser observados estritamente os comandos do julgado transitado em julgado e os conceitos e fórmulas próprios da Previdência Privada e do regulamento da Previ aplicáveis à espécie.
+4. Caso se mostrar mais adequada à apuração do quantum debeatur, não há óbice em se determinar a realização de perícia atuarial no lugar da realização de simples cálculos aritméticos, sobretudo porque a liquidação por forma diversa da estabelecida na sentença não ofende a coisa julgada. Incidência da Súmula nº 344/STJ.
+5. Agravo interno não provido.
+AgInt nos EDcl no AREsp 244.279/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/02/2017, DJe 02/03/2017)" (e-STJ fls. 402-404).
+Da leitura dos trechos acima transcritos, verifica-se que a Corte local julgou fundamentadamente a matéria devolvida à sua apreciação, expondo os elementos que levaram às suas conclusões de que não basta a alegação em tese acerca da ocorrência de eventual ofensa à coisa julgada, devendo a parte demonstrar o erro presente nos cálculos e especificar o resultado da diferença mediante técnica contábil. Destacou-se, ainda, que a eventual demonstração, por meio de prova técnica econômico-atuarial, da alegada divergência da recorrente com os cálculos periciais não representa ofensa à coisa julgada, mas apenas forma de correção do cálculo, a ser regulada pelo juízo.
+Portanto, a insurgência ora deduzida, em verdade, traduz-se em mero inconformismo com o acórdão ora recorrido, buscando reafirmar a existência de violação à coisa julgada e a inaplicabilidade do julgado mencionado pelo Tribunal de origem para amparar a sua tese, o que não revela, por si só, a existência de vício de negativa de prestação jurisdicional no aresto hostilizado.
+Caso a recorrente almejasse impugnar os motivos pelos quais a Corte estadual considerou inexistente a alegada ofensa à coisa julgada, deveria ter suscitado violação a dispositivo legal pertinente ao mérito dessa questão.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA.  ..  5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA.  ..
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+Ante o exposto, com base no art. 932, inciso IV, do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Intimem-se.
