@@ -1,0 +1,9 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FUNDAÇÃO CEEE DE SEGURIDADE SOCIAL ELETROCEEE em face de decisão que não admitiu o seu recurso especial.
+2. A propósito, a agravante não rebate, em suas razões, a questão jurídica contida na decisão de inadmissibilidade exarada pelo Tribunal de origem acerca da harmonia entre o julgamento exarado em Segundo Grau com as teses fixadas sob o rito dos recursos repetitivos nos Temas n. 936 e 955, restringindo-se a repisar seus argumentos e afirmar genericamente a não incidência do enunciado de Súmula 83 do STJ.
+3. Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+O entendimento supra esposado alinha-se à inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte, consignando ser dever da parte agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação. Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma.
+Nesse sentido, permanece em vigor aludido entendimento com a vigência do Novo Código de Processo Civil, nos termos do qual o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+Ressalte-se que o art. 253, parágrafo único, I, do RISTJ também estabelece como ônus da parte agravante a impugnação a todos os fundamentos da decisão recorrida, sob pena de ver o seu agravo não conhecido. Incidência do enunciado expendido na Súmula 182/STJ.
+4. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
