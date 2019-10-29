@@ -1,0 +1,9 @@
+DECISÃO
+[NOME] alega ser vítima de constrangimento ilegal decorrente da ausência de intimação do seu defensor constituído para a sessão de julgamento do recurso de apelação, bem como da publicação do acórdão pelo Tribunal de Justiça do Estado da Bahia.
+Após a realização de algumas diligências, com o objetivo de melhor esclarecer a tramitação do feito na origem, retornaram os autos para análise do pedido de liminar, no qual a defesa pleiteou o sobrestamento do feito, sobretudo porque expedido o mandado de prisão para o início do cumprimento da pena.
+Na ocasião, deferi o pleito liminar, a fim de determinar a suspensão dos efeitos do acórdão impugnado. Ato contínuo, ordenei que os autos fossem ao Ministério Público Federal, que se manifestou pela denegação da ordem (fls. 92-95).
+Decido.
+Como salientei ao examinar este mesmo caso, no HC n. 527.573/BA, impetrado em favor de corré, constato, na hipótese, que, de fato, a publicação da pauta de julgamento do recurso de apelação, embora com o nome do paciente, não constou o nome do advogado dele, devidamente constituído e que atuara no processo.
+Segundo a pacífica orientação desta Corte, a "ausência de intimação do defensor constituído pelo acusado sobre a data do julgamento do recurso de apelação, a teor do disposto no artigo 370, § 1º, do Código de Processo Penal, gera nulidade do processo" (HC n. 450.768/RJ, Rel. Joel Ilan Paciornik, 5ª T., DJe 4/4/2019). Nesse sentido, ainda: HC n. 478.583/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 26/3/2019 e HC n. 456.419/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 6/12/2018, entre outros.
+Ante o exposto, ratifico a liminar deferida e concedo a ordem, a fim de anular o julgamento do recurso de apelação e determinar que outro seja realizado com a regular intimação do advogados do réu.
+Publique-se e intimem-se
