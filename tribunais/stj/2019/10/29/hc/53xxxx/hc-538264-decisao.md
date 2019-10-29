@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEFFERSON LOPES contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul (Apelação n. 0001687-57.2014.8.12.0019).
+Consta dos autos que o paciente foi condenado como incurso no art. 155, § 4º, incisos I e IV, do Código Penal, à pena de 2 anos e 9 meses de reclusão, em regime aberto e ao pagamento de 40 dias-multa. A pena privativa de liberdade foi substituída por restritivas de direitos (e-STJ fls. 332/334).
+Interposta apelação, o Tribunal local deu provimento ao recurso ministerial para reconhecer a causa de aumento prevista no art. 155, § 1º, do Código Penal, redimensionando a pena para 3 anos e 8 meses de reclusão e 53 dias-multa, mantido o regime aberto e a substituição da pena, nos seguintes termos (e-STJ fls. 380/390):
+APELAÇÃO CRIMINAL - RECURSO MINISTERIAL - FURTO QUALIFICADO - INCIDÊNCIA DA CAUSA DE AUMENTO DO REPOUSO NOTURNO - POSSIBILIDADE, AINDA QUE SE TRATE DE IMÓVEL DESABITADO - RECURSO PROVIDO.
+Cabível o reconhecimento da causa de aumento prevista no art. 155, §1º, do CP, tanto para a modalidade do crime de furto simples, quanto para a sua forma qualificada, visto que não há incompatibilidade entre os institutos. Precedentes. No delito de furto, a circunstância de ter sido praticado no período de repouso noturno foi prevista pelo legislador pátrio como dotada de maior reprovabilidade, ensejando o aumento da pena na terceira fase da dosimetria, sendo indiferente se a vítima estava ou não, efetivamente, repousando, independentemente de ser estabelecimento comercial ou até casa em construção.
+Contra o parecer, recurso provido.
+No presente writ (e-STJ fls. 3/12), a impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão do reconhecimento da causa de aumento do repouso noturno previsto no art. 155, § 1º, do Código Penal. Argumenta que essa majorante somente pode incidir nos casos de furto simples, sendo descabida a aplicação na hipótese de furto qualificado, como no caso dos autos.
+Afirma, ainda, que no presente caso se tratava de um imóvel abandonado, que sequer se tratava de uma casa, como asseverou o d douto magistrado na r. sentença às fls. 320 (e-STJ fl. 11).
+Dessa forma, requer, na liminar e no mérito, a concessão da ordem para afastar a causa de aumento prevista no § 1º do art. 155 do Código Penal e, em consequência, o redimensionamento da pena.
+O pedido liminar foi indeferido, às e-STJ fls. 412/414.
+O Ministério Público Federal, em parecer exarado às e-STJ fls. 439/443, opinou pelo não conhecimento do mandamus, na forma da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. FURTO QUALIFICADO. CAUSA DE AUMENTO. REPOUSO NOTURNO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Não se conhece de habeas corpus impetrado contra decisão judicial passível de impugnação por via recursal própria.
+- A Corte local, ao dar provimento ao recurso do Parquet estadual, entendeu que a causa de aumento referente ao repouso noturno poderia ser aplicada tanto nos casos de furto simples, quanto nos de furto qualificado. Assentou, igualmente, que, para exasperar a pena, bastava que o crime fosse praticado durante o repouso noturno, independentemente de se tratar de estabelecimento comercial, de uma obra em construção ou de um bem público (Precedentes).
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca a impetrante, em suma, o decote da majorante do repouso noturno, aos argumentos de que ela seria incompatível com o furto qualificado, e de que não se trata de imóvel habitado.
+Quanto ao primeiro argumento para excluir a majorante, cumpre observar que a jurisprudência desta Corte Superior é no sentido de que a causa de aumento prevista no § 1º do art. 155 do Código Penal, que se refere à prática do crime durante o repouso noturno, é aplicável tanto na forma simples como na forma qualificada do delito de furto.
+Abaixo, os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. MAJORANTE DO REPOUSO NOTURNO. COMPATIBILIDADE. PRECEDENTES DO STJ. FATO INCONTROVERSO. VALORAÇÃO JURÍDICA. POSSIBILIDADE. GRAVO IMPROVIDO.
+1. A causa de aumento prevista no § 1º do art. 155 do Código Penal, que se refere a prática do crime durante o repouso noturno, é aplicável ao furto qualificado.
+2. Tratando-se de valoração jurídica de fato incontroverso, não há falar em incidência da Súmula 7/STJ, a obstar o processamento do recurso especial.
+3. Agravo regimental improvido. (AgRg no REsp 1731115/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 11/9/2018, DJe 24/9/2018)
+RECURSO ESPECIAL. DOSIMETRIA. RECONHECIMENTO DO FURTO PRIVILEGIADO. IMPOSSIBILIDADE. REINCIDÊNCIA. REPOUSO NOTURNO. FURTO QUALIFICADO. POSSIBILIDADE. RECURSO PROVIDO.
+1. Nos termos do art. 155, § 2º, do CP, constatada a reincidência do réu, mostra-se descabido o reconhecimento do furto privilegiado, bem como a consequente redução de pena dele decorrente. Precedentes.
+2. Segundo jurisprudência consolidada neste Superior Tribunal de Justiça, a causa de aumento de pena referente ao repouso noturno pode incidir tanto no furto simples quanto no qualificado, inexistindo incompatibilidade entre os institutos. Precedentes.
+3. Recurso parcialmente provido. (REsp n. 1.724.648/MG, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 23/8/2018, DJe 31/8/2018)
+Quanto ao mais, esta Corte já decidiu que, ainda que se trate de estabelecimento comercial ou de imóvel não habitado, é cabível a aplicação da causa de aumento do repouso noturno, em razão da maior vulnerabilidade do patrimônio, sendo desnecessário o efetivo repouso da vítima.
+Nesse sentido:
+"PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ART. 155, § 1.º, DO CÓDIGO PENAL. DELITO COMETIDO EM ESTABELECIMENTO COMERCIAL. APLICAÇÃO DA CAUSA ESPECIAL DE AUMENTO DO CRIME COMETIDO DURANTE O REPOUSO NOTURNO. POSSIBILIDADE. PRECEDENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. IMPOSSIBILIDADE. PRETENSÃO DEDUZIDA EM DESACORDO COM A SÚMULA 171 DESTA CORTE SUPERIOR. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. INVIABILIDADE. AUSÊNCIA DE TRÂNSITO EM JULGADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Incide a majorante prevista no § 1.º do art. 155 do Código Penal, quando o crime é cometido durante a madrugada, horário no qual a vigilância da vítima é menos eficiente e seu patrimônio mais vulnerável, o que ocorre inclusive para estabelecimentos comerciais.
+IV - A causa especial de aumento de pena do furto cometido durante o repouso noturno pode se configurar mesmo quando o crime é cometido em estabelecimento comercial ou residência desabitada, sendo indiferente o fato de a vítima estar, ou não, efetivamente repousando. Precedentes do Superior Tribunal de Justiça.
+ ..
+Habeas corpus não conhecido. Ordem concedida, de ofício, para, confirmando a liminar anteriormente concedida (fls. 308-312), suspender a execução das penas restritivas de direitos impostas ao paciente, até o trânsito em julgado da condenação." (HC 501.072/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/06/2019, DJe 11/06/2019; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. CAUSA DE AUMENTO DE PENA. CRIME PRATICADO DURANTE O REPOUSO NOTURNO. ESTABELECIMENTO COMERCIAL. APLICAÇÃO. SÚMULA 7/STJ. NÃO INCIDÊNCIA.
+1. Incide a causa de aumento de pena referente à prática do crime de furto durante o repouso noturno ainda que o local dos fatos seja estabelecimento comercial ou residência desabitada, tendo em vista a maior vulnerabilidade do patrimônio. Precedentes.
+2. Ao contrário do sustentado pelo agravante, no caso, não houve necessidade de incursão no acervo probatório dos autos, para se concluir pela violação ao art. 155, § 1º, Código Penal, uma vez que a situação fática já estava delineada no acórdão recorrido. Não há se falar, portanto, na incidência da Súmula 7/STJ.
+3. Agravo regimental desprovido." (AgRg no REsp 1.582.497/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/08/2017, DJe 28/08/2017, sem grifos no original.)
+Ante todo o exposto, ausente qualquer constrangimento ilegal, com base no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
