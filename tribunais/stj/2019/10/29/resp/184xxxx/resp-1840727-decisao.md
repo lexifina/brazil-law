@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJDFT assim ementado (e-STJ fl. 1.204):
+APELAÇÃO CÍVEL. DIREITO E PROCESSO CIVIL. LIQUIDAÇÃO POR ARBITRAMENTO. EMISSÃO DE CERTIDÃO DE CRÉDITO ANTES DO TRÂNSITO EM JULGADO DA SENTENÇA. IMPOSSIBILIDADE. CRÉDITO CONSTITUÍDO ANTES DA RECUPERAÇÃO JUDICIAL. LIMITAÇÃO TEMPORAL DO ART. 9º, II, DA LEI N. 11.101/2005, PARA FINS DE ATUALIZAÇÃO DO DÉBITO. INAPLICABILIDADE.
+1.  A certidão de crédito é o instrumento do qual se valerá a parte para se habilitar nos autos que tratam da recuperação judicial da ré, com vistas à satisfação do seu crédito. É imprescindível, portanto, que o valor do crédito seja definitivo, o que só ocorrerá após o trânsito em julgado da decisão que homologou o laudo pericial e extinguiu o processo.
+2.  O art. 9º, inc. II, da Lei n. 11.101/2005, estabelece que a habilitação de crédito realizada pelo credor nos termos do art 7º, § 1º da mesma Lei (ou seja, habilitação apresentada ao administrador judicial) deverá conter o valor do crédito, atualizado até a data da decretação da falência ou do pedido de recuperação judicial. Aos créditos constituídos antes da recuperação judicial não se aplica a limitação temporal prescrita no art. 9º, inc. II, da Lei n. 11.101/2005, para fins de atualização do débito. Nesses casos, prevalecem as condições originalmente contratadas ou definidas em lei, inclusive no que diz respeito aos encargos, salvo se de modo diverso ficar estabelecido no plano de recuperação judicial, como preleciona o art. 49, § 2º, da Lei n. 11.101/2005.
+3. Apelação provida, em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.224/1.228).
+Nas razões recursais (e-STJ fls. 1.230/1.241), fundamentadas no art. 105, III, "a", da CF, a recorrente alega violação dos arts. 1.022, I, do CPC/2015 e 9º, 49 e 59 da Lei n. 11.101/2005.
+Sustenta: (a) negativa de prestação jurisdicional e (b) que o crédito habilitado deve ser atualizado somente até a data do pedido de recuperação judicial.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.249).
+Juízo positivo de admissibilidade (e-STJ fls. 1.250/1.251).
+É o relatório.
+Decido.
+A irresignação merece provimento.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Quanto ao termo final da atualização do crédito, a Corte de origem consignou que (e-STJ fl. 1.209):
+O argumento de que o total da condenação deveria ter sido atualizado até a data do pedido de recuperação judicial, quer seja, 20.06.2016, nos termos do art. 9º, II, da lei 11.101/2005 , também não merece prosperar.
+O referido art. 9º, II, da lei n. 11.101/2005, refere-se à habilitação de crédito realizada pelo credor nos termos do art. 7º, § 1º, ou seja, aos casos em que os credores apresentam, ao administrador judicial, suas habilitações ou suas divergências quanto aos créditos relacionados, após a publicação do edital previsto no art. 52 § 1º, da Lei de Falências.
+No presente caso, todavia, não se trata de habilitação de crédito apresentada ao administrador judicial, nos moldes do referido art. 7º, § 1º, porquanto o crédito ora pleiteado fora constituído antes da recuperação judicial da apelante, razão pela qual não se aplica a limitação temporal prescrita no art. 9º, inc. II, da Lei n. 11.101/2005 para fins de atualização do débito.
+Desse modo, prevalecem as disposições contidas no art. 49, § 2º, da Lei n. 11.101/2005, segundo o qual "as obrigações anteriores à recuperação judicial observarão as condições originalmente contratadas ou definidas em lei, inclusive no que diz respeito aos encargos, salvo se de modo diverso ficar estabelecido no plano de recuperação judicial".
+Entretanto, esta Corte possui jurisprudência no sentido de a atualização do crédito ser limitada à data do pedido da recuperação judicial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. AUSÊNCIA DE PREVISÃO DO PLANO DE RECUPERAÇÃO. ATUALIZAÇÃO LIMITADA À DATA DO PEDIDO DE RECUPERAÇÃO. 3. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. FACULDADE DO MAGISTRADO. AUSÊNCIA DE DIVERGÊNCIA. 4. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973. 5. AGRAVO DESPROVIDO.
+1. Todas as questões suscitadas pelas partes foram devidamente apreciadas pela Corte estadual, não havendo que se falar em negativa de prestação jurisdicional.
+2. Conforme jurisprudência desta Corte Superior, as decisões da assembleia de credores representam o veredicto final a respeito dos destinos do plano de recuperação, cabendo ao Poder Judiciário, sem adentrar a análise da viabilidade econômica, somente controlar a legalidade dos atos do plano. Ademais, a atualização do crédito, mediante incidência de juros de mora e correção monetária, é limitada à data do pedido de recuperação judicial. Precedentes.
+3. O incidente de uniformização de jurisprudência, previsto no art. 476 do CPC/1973, consiste numa faculdade conferida ao juiz, como instrumento hábil para sanar divergência prévia entre órgãos fracionários de um mesmo tribunal, o que, consoante disposto pelo acórdão recorrido, não ocorre na presente hipótese.
+4. Salvo em hipóteses excepcionais, não é possível, na via do recurso especial, desconstituir o entendimento do Tribunal de origem que concluiu pelo caráter protelatório dos embargos de declaração opostos na origem, aplicando, com isso, a referida sanção processual, tendo em vista o óbice da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.073.431/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/5/2018, DJe 17/5/2018.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. ATUALIZAÇÃO. TRATAMENTO IGUALITÁRIO. NOVAÇÃO. JUROS E CORREÇÃO. DATA DO PEDIDO DA RECUPERAÇÃO.
+1. Ação de recuperação judicial da qual foi extraído o recurso especial, interposto em 21/08/2014 e atribuído ao gabinete em 25/08/2016. Julgamento: CPC/73.
+2. O propósito recursal é decidir se há violação da coisa julgada na decisão de habilitação de crédito que limita a incidência de juros de mora e correção monetária, delineados em sentença condenatória por reparação civil, até a data do pedido de recuperação judicial.
+3. Em habilitação de créditos, aceitar a incidência de juros de mora e correção monetária em data posterior ao pedido da recuperação judicial implica negativa de vigência ao art. 9º, II, da LRF.
+4. O plano de recuperação judicial implica novação dos créditos anteriores ao pedido, e obriga o devedor e todos os credores a ele sujeitos. Assim, todos os créditos devem ser atualizados até a data do pedido de recuperação judicial, sem que isso represente violação da coisa julgada, pois a execução seguirá as condições pactuadas na novação e não na obrigação extinta, sempre respeitando-se o tratamento igualitário entre os credores.
+5. Recurso especial não provido.
+(REsp n. 1.662.793/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 8/8/2017, DJe 14/8/2017.)
+No mesmo sentido, as seguintes decisões monocráticas: AREsp n. 1.554.686/SP, Relator Ministro MARCO BUZZI, DJe de 1º/10/2019, REsp 1.830.667/RS, Relatora Ministra MARIA ISABEL GALLOTTI, DJe de 17/9/2019, REsp n. 1.814.314/DF, Relator Ministro RICARDO VILAS BOAS CUEVA, DJe de 16/8/2019, AREsp n. 796.519/SP, Relator Ministro RAUL ARAÚJO, DJe de 3/6/2019 e REsp n. 1.798.700/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe de 19/3/2019.
+Dessa forma, verifica-se que o acórdão impugnado decidiu em dissonância com a jurisprudência desta Corte, merecendo reforma quanto ao ponto.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de determinar que o crédito objeto da presente demanda seja atualizado até a data do pedido de recuperação judicial.
+Publique-se e intimem-se.
