@@ -1,0 +1,28 @@
+DECISÃO
+1. Trata-se de embargos de divergência interpostos contra acórdão proferido pela Terceira Turma, assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO HABITACIONAL. QUITAÇÃO. INTERESSE DE AGIR. PERMANÊNCIA. VÍCIOS DE CONSTRUÇÃO. INTERPRETAÇÃO DO SEGURO OBRIGATÓRIO CONSOANTE A SUA FUNÇÃO SOCIAL, A BOA-FÉ OBJETIVA, E A NATUREZA ADESIVA. A CLÁUSULA DAS CONDIÇÕES PARTICULARES DO SEGURO QUE AFASTA A COBERTURA DOS VÍCIOS CONSTRUTIVOS AFRONTA O QUANTO DISPOSTO NO ART. 51 DO CDC.
+1. Discussão acerca da abusividade de cláusula constante nas condições particulares do seguro habitacional inserto no âmbito do SFH segundo a qual vícios de construção ou defeitos físicos oriundos de causas internas estejam afastados da cobertura securitária.
+2. Orientação encampada pela Corte de origem acerca da perda do interesse de agir do segurado para postular o pagamento de indenização securitária em face da quitação do financiamento habitacional restou superada por esta Terceira Turma quando do julgamento do REsp 1717112/RN, Rel. Ministra NANCY ANDRIGHI, DJe 11/10/2018).
+3. O seguro é erigido dentro do Sistema Financeiro Habitacional como garantia ao segurado e, do mesmo modo, ao financiador, de modo que possa desempenhar a sua mais clara função: garantir que o segurado seja ressarcido pelos riscos invalidez/morte, danos físicos ao imóvel financiado, e responsabilidade do construtor e que o credor financiante não seja surpreendido com a ruína do imóvel que garante o financiamento.
+4. Abusividade da cláusula das condições particulares do seguro habitacional que restringe direitos ou obrigações fundamentais inerentes à natureza do contrato.
+5. Incompatibilidade com os fins sociais do seguro obrigatório habitacional, voltado a coadjuvar um sistema pensado na aquisição da casa própria para a população, notadamente de baixa renda, que os principais vícios que acometam o bem objeto de garantia do financiamento não estejam por ele cobertos.
+6. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Sustenta a embargante dissídio jurisprudencial, no tocante à possibilidade de se pleitear a cobertura de seguro habitacional por vício de construção quando já extinto o respectivo contrato de financiamento, com os seguintes arestos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - INDENIZAÇÃO SECURITÁRIA - VÍCIOS DE CONSTRUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. A vigência do contrato de seguro habitacional está intrinsecamente vinculada ao respectivo contrato de financiamento imobiliário, por ter a precípua função de resguardar os recursos públicos direcionados à aquisição do imóvel. Assim, liquidada a dívida, cessa o pagamento dos prêmios, encerrando a possibilidade de se exigir o cumprimento da obrigação da seguradora, por ausência do interesse de agir.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1304979/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/11/2018, DJe 13/11/2018)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. VÍCIO DE CONSTRUÇÃO. SEGURO. AUSÊNCIA DE COBERTURA NA APÓLICE. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS Nº 5 E 7/STJ. PRECEDENTES
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Nos termos da jurisprudência desta Corte, "nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice" (AgInt no REsp n. 1.603.731/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 18/10/2016), 5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1551677/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2019, DJe 15/02/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREVISÃO NA APÓLICE. AGRAVO NÃO PROVIDO.
+1. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice. 2. Tendo entendido a Corte a quo que os vícios construtivos não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático- probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 211.252/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019)
+É o relatório.
+2. Demonstrada, em princípio, a divergência e cumpridas as formalidades legais, admito os presentes embargos.
+3. Vista à embargada, pelo prazo de 15 (quinze) dias, para, querendo, apresentar impugnação (art. 267 do RISTJ) e ao Ministério Público Federal.
+4. Publique-se. Intimem-se.
