@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por ITAU UNIBANCO S.A, "com fulcro no art. 105, I, "f", da Constituição Federal e art. 988, §5º, II, do CPC/15", em face de acórdão do eg. Órgão Especial do Tribunal de Justiça do Estado de São Paulo proferido em sede de agravo interno (nas fls. 3).
+O acórdão reclamado, confirmou decisão monocrática negando seguimento a recurso especial, sob o argumento de que o aresto impugnado pelo assinalado recurso coincide com a orientação firmada por esta Corte, no julgamento de precedentes qualificados firmando a tese de que "as instituições bancárias respondem objetivamente por danos causados por fraudes ou delitos praticados por terceiros como, por exemplo abertura de conta corrente ou recebimento de empréstimo, mediante fraude ou utilização de documentos falsos, porque tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno" (na fl. 224).
+Afirma a reclamante que o acórdão reclamado, "ao assim decidir, violou diretamente os arts. 373, II; 375 e 1.022, II do Código de Processo Civil/15, ao não se manifestar sobre o laudo pericial trazido, uma vez que é defeso ao julgador decidir de forma contraria a prova técnica se não houver nos autos outros elementos probatórios que fundamentem o seu entendimento" (grifou-se, na fl. 6).
+Assegura que, "além das violações a lei federal, o acórdão recorrido, ainda diverge frontalmente da melhor jurisprudência dessa C. Corte, notadamente do entendimento exarado em caso idêntico ao presente, no REsp 1.633.785/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/10/2017, DJe 30/10/2017" (na fl. 7)
+Requer liminarmente a suspensão do processamento da demanda originária e, no mérito, o acolhimento da reclamação e a conseqüente admissão do recurso especial.
+É o relatório. Passo a decidir.
+De início, destaque-se que a reclamação, nas vertentes constitucional e processual, destina-se à: (i) preservação da competência do Tribunal e à garantia da autoridade de suas decisões (CF, art 105, I, f; CPC, art. 988, I e II; RISTJ, art. 187), para (ii) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas (IRDR) ou de incidente de assunção de competência (IAC) e (iii) garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo (RRC), quando esgotadas as instâncias ordinárias (CPC, art. 988, IV e § 5º, II).
+Dessarte, a presente reclamação é manifestamente inadmissível, porquanto o reclamante pretende, na verdade, corrigir alegado equívoco do Tribunal estadual na aplicação da jurisprudência corriqueira desta Corte, ainda que sumulada, exposta em precedente não qualificado que arrola, ou seja julgamento não proferido sob o rito singular dos recursos repetitivos, expediente que deveria, como visto, ser exercitado através dos meios recursais ordinários.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO (CPC, ART. 988, § 5º, II). DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL SEGUNDO O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. RECLAMAÇÃO QUE ALEGA VIOLAÇÃO A JURISPRUDÊNCIA CORRIQUEIRA DA CORTE. INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O reclamante pretende fazer prevalecer entendimento do Superior Tribunal de Justiça que, embora corriqueiro, ainda não foi consolidado em precedente qualificado.
+2. Agravo interno desprovido.
+(AgInt na Rcl 38.176/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 01/10/2019, DJe 15/10/2019)
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. VIOLAÇÃO À JURISPRUDÊNCIA DO STJ. DESCABIMENTO.
+1. A mera contrariedade à jurisprudência desta Corte Superior não autoriza o manejo da reclamação, porquanto tal via se caracteriza como uma demanda de fundamentação vinculada, ou seja, cabível tão somente nas situações estritamente previstas no art. 988 do CPC.
+Intuito de utilização da reclamação como sucedâneo recursal, o que não é admissível. Precedentes.
+2. Agravo interno não provido.
+(AgInt na Rcl 36.132/SC, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/11/2018, DJe 20/11/2018)
+Ademais, a modificação das conclusões do v. acórdão reclamado como pretende o reclamante, para se concluir que "o autor/recorrido não provou que os seus alegados prejuízos decorreram de falha na prestação dos serviços" (na fl. 7) demandaria a alteração das premissas fáticas estabelecidas pelo aresto recorrido, o que contraria o enunciado da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 34, XVIII, "a" do RISTJ, não conheço da reclamação.
+Publique-se.
