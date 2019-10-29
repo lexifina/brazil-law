@@ -1,0 +1,25 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVOS DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE ILEGALIDADE DE COBRANÇA DE VALORES C/C REVISÃO DE CONTAS E PEDIDO DE REPETIÇÃO DE INDÉBITO. MATÉRIA COMUM A AMBOS OS RECURSOS: PRESCRIÇÃO: PRESCRIÇÃO TRIENAL. INAPLICABILIDADE. DIREITO DE NATUREZA PESSOAL. APLICAÇÃO DO PRAZO PRESCRICIONAL GERAL, DE VINTE (ART. 177 DO CÓDIGO CIVIL DE 1916) OU DE DEZ ANOS (ART. 205 DO CÓDIGO CIVIL DE 2002), OBSERVADA A REGRA DE TRANSIÇÃO DO ART. 2.028 DO CÓDIGO CIVIL. TERMO INICIAL DA CONTAGEM. APLICAÇÃO DA PRESCRIÇÃO VINTENÁRIA, DIANTE DA AUSÊNCIA DE JUNTADA DE DOCUMENTOS PARA COMPROVAR A DATA DE ABERTURA DAS CONTAS. AGRAVO DE INSTRUMENTO DO BANCO: INVERSÃO DO ÔNUS DA PROVA. INCIDÊNCIA. HIPOSSUFICIÊNCIA DO CONSUMIDOR VERIFICADA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO. AGRAVO DE INSTRUMENTO DOS AUTORES: DETERMINAÇÃO DE APRESENTAÇÃO DE DOCUMENTOS PELO BANCO, CONSIDERANDO A INVERSÃO DO ÔNUS DA PROVA CONCEDIDA. ACOLHIMENTO. RECURSO CONHECIDO E PROVIDO.
+1. A pretensão revisional de contrato bancário se submete ao prazo prescricional geral de vinte ou dez anos, a depender da data da contratação, pois funda-se em direito de natureza pessoal.
+Opostos embargos de declaração, foram acolhidos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. VÍCIO EXISTENTE. DATAS DE ABERTURA DAS CONTAS APRESENTADAS PELO BANCO NA CONTESTAÇÃO E NÃO IMPUGNADAS PELO AUTOR. MATÉRIA INCONTROVERSA. INVERSÃO DO ÔNUS DA PROVA QUE FOI CONCEDIDA APENAS NO DESPACHO SANEADOR. IMPOSSIBILIDADE DE RETROAGIR E IMPOR À INSTITUIÇÃO FINANCEIRA A APRESENTAÇÃO DOS DOCUMENTOS COMPROBATÓRIOS DE ABERTURA DAS CONTAS EM MOMENTO ANTERIOR. DECISÃO DE PRIMEIRO GRAU MANTIDA. EMBARGOS CONHECIDOS E ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA MANTER O TERMO INICIAL DE PRESCRIÇÃO FIXADO EM PRIMEIRA INSTÂNCIA.
+Nas razões do recurso especial (fls. 404/413), aponta a parte recorrente ofensa ao disposto nos arts. 373, inciso II e 400, do CPC de 2015; 6º, inciso VIII, do CDC.
+Diz que a parte ré deveria ter comprovado suas alegações em sede de defesa, mas não o fez. Aduz que a parte agravada quedou-se inerte no que tange a comprovação de suas alegações.
+É o relatório. DECIDO.
+2. De início, não conheço da insurgência de fls. 462/471 em respeito ao princípio da unirrecorribilidade recursal, uma vez que a parte recorrente interpôs 02 (dois) recursos especiais. Desta forma, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Nesse sentido: EDcl no AgRg nos EDcl nos EDcl no Ag 1156920/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 23/11/2010, DJe 02/12/2010.
+3. Quanto ao recurso especial de fls. 404/413, a irresignação não prospera.
+3.1. Em relação à alegada violação ao artigo 6º, inciso VIII, do CDC, a parte agravante carece de interesse recursal, já que a inversão do ônus da prova foi deferida.
+3.2. Por outro lado, ao apreciar os embargos de declaração, o Tribunal de origem assim consignou:
+O banco alegou que a) as datas de abertura das contas envolvidas tornaram-se incontroversas nos autos, a partir da réplica da parte Autora, motivo pelo qual é despicienda a produção de provas a seu respeito, nos termos do art. 374, III, do Código de Processo Civil; b) a instituição financeira não teve a oportunidade de se desincumbir do ônus da prova atinente às datas de abertura das contas; c) a inversão do ônus da prova não retroage para desincumbir o autor do ônus que lhe cabia no momento da petição inicial.
+Efetivamente, observa-se que na contestação de mov. 24.1, o banco afirmou as datas de abertura das contas:
+ .. .
+Contra referidas datas, não houve impugnação na manifestação do autor de mov. 31.1.
+Portanto, a matéria se tornou incontroversa no feito.
+Ainda, em nenhum momento o banco foi intimado para apresentar documentos comprobatórios das datas de abertura das contas.
+Por fim, a inversão do ônus da prova apenas foi concedida na decisão saneadora (mov. 68.1), razão pela qual não é possível exigir que a instituição financeira apresentasse os documentos anteriormente no processo.
+Desse modo, deve ser mantida a decisão agravada quanto à prescrição.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de verificar as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
