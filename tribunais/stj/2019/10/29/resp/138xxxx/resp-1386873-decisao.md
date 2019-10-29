@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 345):
+AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO - REGRA DE DIREITO INTERTEMPORAL - ART. 2.028 DO CC/02 - INTELIGÊNCIA DO ART. 550 DO CC/16 - PRAZO COMPROVADO - RECURSO DESPROVIDO - NULIDADE DE SENTENÇA PRELIMINAR REJEITADA. O prazo previsto para o manejo da ação de usucapião extraordinário, pelo Código Civil de 2002, foi reduzido parar quinze anos (art. 1.238), e ajuizada a ação quando transcorrido mais da metade do prazo anteriormente previsto, o prazo é de 20 (vinte), anos nos termos do art. 550 de 1916, que deverá ser obedecido, por força do disposto no art. 2.028 do atual Código Civil. Comprovado nos autos o prazo de vinte anos de posse mansa, ininterrupta e pacífica, a procedência do pedido é medida que se impõe.
+Não há que se falar em nulidade de sentença por supressão da prestação jurisdicional pelo simples fato de o Magistrado não se manifestar sobre todos os argumentos lançados pelas partes, bastando apenas que elenque as razões que motivaram o seu convencimento. V.v. Estando o imóvel usucapiendo registrado em nome de menor absolutamente incapaz, suspende-se o prazo prescricional da pretensão aquisitiva. Não preenchido o requisito temporal, é de se rejeitar a pretensão inicial.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 370/373)
+Nas razões do recurso (e-STJ, fls. 376/402), fundamentado no art. 105, III, "a" e "c", da CF, a parte alega violação dos seguintes dispositivos legais:
+(i) art. 198 do CC/2002, sob o argumento de que "é sabido e ressabido que não se pode computar para fins de prescrição aquisitiva de imóvel por Usucapião, o período em que a posse envolveu interesse de menor absolutamente incapaz, por constituir referida questão fator impeditivo da contagem do prazo prescricional" (e-STJ, fl. 382). Acrescenta ainda o seguinte:
+No caso "sub judice" resta demonstrado pelos documentos constantes dos autos, a presença dos ora recorrentes menores absolutamente incapazes no polo passivo do pedido durante a alegada prescrição aquisitiva, vez que os recorrentes TATIANA completou 16 anos em 1997, PEDRO completou 16 anos em 1999 e MÁRCIA em 2001; sendo, portanto, absolutamente incapazes até referidas datas; sendo óbvio que o prazo de prescrição aquisitiva de 15 anos alegados no acordão guerreado só poderia começar a fluir para cada um dos recorrentes a partir da data que cada um deles completasse 16 anos, o que não ocorreu.
+(ii) art. 1.238 do CC/2002, aduzindo que a recorrida não conseguiu demonstrar a posse mansa e pacífica do imóvel, pelo decurso do prazo de 15 anos, nestes termos:
+Ademais, é de conhecimento comezinho que para procedência do pedido de Usucapião Extraordinário, além de cumprir as determinações contidas no art. 942 do CPC (o que a autora - recorrida não logrou êxito, vale repetir!), deve ainda, preencher os requisitos do art. 1.238 do Novo Código Civil, quais sejam, comprovar o exercício da posse mansa, pacífica, ininterrupta e com "animus domini", pelo decurso de prazo de 15 anos (e-STJ fl. 387).
+ ..
+É evidente que não tendo a autora - recorrida logrado êxito em demonstrar os requisitos da posse com "animus domini", o presente Recurso também quanto ao mérito, deve se provido para o fim de julgar improcedente o pedido inicial (e-STJ, 389/390.)
+(iii) art. 2.028 do CC/2002, afirmando que a autora da ação, ora recorrida, não conseguiu comprovar o prazo prescricional para procedência do pedido da seguinte forma:
+3 - urge ressaltar mais uma vez que mesmo aplicando o disposto no art. 2.028 do Novo CC, ainda assim, a autora - recorrida não conseguiu comprovar o prazo prescricional suficiente para procedência do pedido inicial, vez que vale sopesar mais uma vez que resta demonstrado pelos documentos constantes dos autos, a presença dos ora recorrentes menores absolutamente incapazes no polo passivo do pedido durante a alegada prescrição aquisitiva  ..  (e-STJ, fls. 400.)
+Alega ainda divergência jurisprudencial quanto à interpretação e aplicação do art. 198 do CC/2002 (e-STJ, fls. 383/387) e do art. 1.238 do CC/2002 (e-STJ, fls. 390/400).
+Requer o provimento do recurso especial para julgar improcedente o pedido inicial.
+Contrarrazões apresentadas (e-STJ, fls. 406/412).
+É o relatório.
+Decido.
+O presente recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 198 do CC/2002
+No que diz respeito à alegada violação do art. 198 do CC/2002, verifica-se que o conteúdo normativo de tal dispositivo não foi apreciado pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 535 do Código de Processo Civil de 1973, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído o investimento realizado pelo consumidor, conforme determinava a portaria que regulamentava a relação entabulada entre as partes à época, nada impede que o contratante postule e veja reconhecido seu direito em ver o valor investido devidamente devolvido. Rever esta conclusão esbarraria no óbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido.
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe de 28/8/2015.)
+Da violação dos arts. 1.238 e 2.028 do CC/2002
+A Corte de origem concluiu que a parte recorrida se desincumbiu satisfatoriamente do ônus de comprovar a posse mansa e pacífica do imóvel, por mais de 30 anos, com estes fundamentos:
+Bem examinados os elementos de convicção presentes nos autos, conclui-se, sem qualquer dificuldade, que a apelada se desincumbiu satisfatoriamente dos ônus de lhe cabiam, comprovando que realmente se acha na posse do imóvel objeto da lide há mais de 30 (trinta) anos, sem oposição, diferentemente do que sustentam os apelantes.
+Restou incontroverso que a apelada passou a residir no imóvel a partir de 1977, juntamente com o seu falecido marido, Sr. [NOME] sua falecida Sogra, Srª. Anadir [NOME] de [NOME], sendo que a apelada ali reside até os dias de hoje.
+ ..
+Nesse mesmo sentido, em nada influencia a transferência de propriedade do imóvel para os apelantes em 1986, quando eles ainda eram menores, uma vez que, como exaustivamente demonstrado, o que se discuti na ação de usucapião é a posse e não a sua propriedade.
+Portanto, mostra-se irrelevante na presente ação a discussão acerca da propriedade do imóvel, devendo-se ressaltar que os apelantes jamais estiveram na sua posse.
+Fato é que não há nos autos qualquer prova cabal que fosse capaz de desconstituir a posse mansa e pacífica da apelada durante esses mais de 30 anos, bem como inexistiu qualquer prova de que tal posse seria precária (e-STJ, fls. 351/352.)
+Dessa forma, concluir em sentido contrário ao que restou decidido no acórdão impugnado, implicaria o revolvimento do conjunto fático-probatório dos autos, medida vedada em sede de recurso especial, ante o disposto na Súmula n. 7/STJ.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO. POSSE EXCLUSIVA, EM NOME PRÓPRIO, POR MAIS DE 20 ANOS, DE FORMA MANSA E PACÍFICA, CONTÍNUA E SEM OPOSIÇÃO. REQUISITOS CONFIGURADOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Segundo a Corte de origem, o preenchimento dos requisitos legais autoriza o reconhecimento da pleiteada prescrição aquisitiva. 2. A reforma do julgado demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência vedada no recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1046478/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 3/4/2018, DJe 6/4/2018.)
+AGRAVO REGIMENTAL RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. ART. 535 DO CPC. NÃO OCORRÊNCIA PRESCRIÇÃO AQUISITIVA. SUSPENSÃO.
+INCAPACIDADE MENTAL. ART. 198, INCISO I, DO CÓDIGO CIVIL. VIOLAÇÃO AO ART. 333, I DO CPC. SÚMULA 7/STJ.
+1. Não ocorre violação ao art. 535, II do CPC, quando a matéria impugnada em embargos de declaração foi devidamente analisada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. A verificação do cumprimento dos requisitos indispensáveis à configuração da usucapião, tais como, posse mansa, pacífica e com ânimo de dono, pelo prazo necessário, assim como a existência de causas de suspensão daquele prazo, exigem a verificação das provas trazidas aos autos, inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo regimental não provido.
+(AgRg no REsp 1366630/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2015, DJe 24/11/2015.)
+Da divergência jurisprudencial
+Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos dos arts. 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º, do RISTJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FALTA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO.
+LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. O Tribunal de origem consigna que o depósito judicial realizado pela recorrente já foi considerado na decisão que apreciou a impugnação ao cumprimento de sentença, com trânsito em julgado.
+Porém, mesmo considerando o valor depositado, ainda assim há um saldo remanescente no importe de R$ 64.702,01. A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+4. A jurisprudência do STJ é firme no sentido de que não se aplica a multa por litigância de má-fé quando a parte utiliza recurso previsto no ordenamento jurídico, sem abusar do direito de recorrer, como é o caso dos autos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.358.026/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/3/2019, DJe 1º/4/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. No que respeita à afronta aos arts. 4º, III, 6º, II e III, VI e 39, I, do Código de Defesa do Consumidor, incide, na espécie, verbete sumular 211 do STJ, ante a ausência de prequestionamento, porquanto não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem. 1.1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Revisar as conclusões acerca do preenchimento dos requisitos necessários à inversão do ônus da prova, demanda o revolvimento de fatos e provas, providência obstada pela Súmula 7/STJ.
+3. Não comprovação do dissenso pretoriano, nos termos do art. 1.029, § 1º, do CPC/15, e art. 255, § 1º, do RISTJ. Ausência de confronto analítico entre os julgados e inexistência de similitude fática entre os acórdãos confrontados.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.357.875/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/2/2019, DJe 19/2/2019.)
+Ademais, a recorrente juntou também julgados paradigmas do TJMG, Tribunal prolator do acórdão recorrido, o que atrai a aplicação da Súmula n. 13/STJ: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
