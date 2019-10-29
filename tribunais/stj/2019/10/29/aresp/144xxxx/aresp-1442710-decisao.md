@@ -1,0 +1,44 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIDAS S.A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS - Alegação de cerceamento de defesa pela inversão do ônus da prova na sentença. Inocorrência - Ônus da prova que já era dos réus, a quem cabia demonstrar que foram tomadas todas as providências para afastar a fraude - Preliminar afastada - Fraude evidenciada - Apontamento indevido - Dano moral "in re ipsa" - Recurso da autora provido em parte. Recurso da ré não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022 do CPC/2015 e 14, §3º, II, do CDC.
+Alega omissão no acórdão recorrido em relação à incidência do art. 14, §3º, II, do CDC. Sustenta a existência de excludente de responsabilidade civil decorrente de ato praticado por terceiro e pela própria consumidora. Afirma que a contratação foi celebrada mediante fraude, uma vez que a recorrida não teve a cautela necessária com os seus dados e documentos pessoais. Assevera que a recorrente adotou todas as cautelas necessárias para assegurar a regularidade da contratação, não existindo qualquer indício de que a documentação apresentada no momento da aquisição e retirada do bem não fosse verdadeira.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 312.
+É o relatório. Decido.
+2. Não há falar em violação ao art. 1.022 do CPC/2015, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, com fundamentação clara e suficiente. Cabe destacar que não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALORES DEPOSITADOS EM CONTA CORRENTE. BENEFÍCIO PREVIDENCIÁRIO. SOBRAS. POSSIBILIDADE DE PENHORA. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1360830/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/08/2019, DJe 11/09/2019)
+3. No que tange à violação ao art. 14, §3º, II, do CDC, o inconformismo também não prospera.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu pela falha na prestação dos serviços dos réus, consignando que não restou comprovado que os réus tomaram as cautelas necessárias para evitar eventual fraude, nem demonstrado que foi a autora quem celebrou o contrato. Segue trecho do acórdão recorrido (fl. 275):
+"Ademais, rigorosamente não houve inversão do ônus da prova, já que cumpria aos réus a comprovação de que tomaram todas as cautelas necessárias para a identificação da autora, no momento da celebração do contrato. No entanto, não foi juntado aos autos nenhuma cópia de documentos da autora que os réus teriam exigido, e que atestasse a identificação.
+Era dos réus o ônus de comprovar, documentalmente, que foi a autora quem celebrou o contrato, demonstrando, ainda, que foram tomadas todas as providências necessárias para evitar eventuais fraudes.
+Nos tempos atuais, a contratação fraudulenta tem proliferado, competindo às empresas que atuam no mercado cercar-se das cautelas necessárias para afastar, ou ao menos minorar, o risco de engano. Mas, o que se vê é a rapidez e a pressa na contratação, que fazem com que a empresa dispense os cuidados necessários para assegurar-se da identidade do cliente.
+Assim, não tendo a ré comprovado que tomou as cautelas necessárias para evitar eventual fraude, nem demonstrado que foi a autora quem celebrou o contrato, conclui-se que houve falha na prestação dos seus serviços, sendo de rigor a declaração de inexistência de relação jurídica, bem como do débito dela proveniente, cabendo aos réus responder pelos danos morais decorrentes do apontamento indevido."
+3.1 Desse modo, verifica-se que rever o entendimento da Corte local e acolher a pretensão recursal - de que haveria excludente de responsabilidade, tendo a parte recorrente adotado todas as cautelas necessárias para assegurar a regularidade da contratação e a recorrida não teria tomado a cautela necessária com os seus dados e documentos pessoais - demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3.2 Ademais, considerando a moldura fática delineada no acórdão recorrido, verifica-se a conformidade do entendimento da Corte local com a jurisprudência do STJ no sentido de que "O fato de o evento lesivo decorrer de fraude praticada por terceiro não elide a responsabilidade da agravante, sendo remansoso o entendimento deste Superior Tribunal no sentido de que cabe à empresa verificar a idoneidade dos documentos apresentados, a fim de evitar dano a terceiro na entabulação de negócios financeiros" (AgRg no AREsp 356.558/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/11/2013, DJe 28/11/2013).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLENTES. FRAUDE PRATICADA POR TERCEIROS. DOCUMENTOS FURTADOS. AUSÊNCIA DE CAUTELA DA EMPRESA. RESPONSABILIDADE DO COMERCIANTE. SÚMULA 83/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A fraude cometida por terceiro não elide a responsabilidade do comerciante que negocia com terceiro estelionatário, uma vez que cabe à empresa verificar a idoneidade dos documentos apresentados, a fim de evitar dano a terceiro na realização de seus negócios. Precedentes.
+2. Fica inviabilizado o conhecimento de tema suscitado no recurso especial, mas não debatido e decidido pelas instâncias ordinárias.
+Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1670784/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/02/2019, DJe 01/03/2019)(g.n.)
+________________
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). RESPONSABILIDADE CIVIL. EMPRESA QUE RECEBE CHEQUE EMITIDO MEDIANTE FRAUDE. INSCRIÇÃO DO NOME DO SUPOSTO EMITENTE NO CADASTRO DE INADIMPLENTES. APONTAMENTO INDEVIDO. DEFEITO DE SERVIÇO. PRECEDENTES. DISSÍDIO NÃO CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AgRg no AREsp 801.993/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/09/2016, DJe 09/09/2016)(g.n.)
+________________
+CONSUMIDOR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE PRATICADA POR TERCEIROS. INCLUSÃO DO USUÁRIO EM CADASTRO DE INADIMPLENTES. RESPONSABILIDADE OBJETIVA. CONCLUSÃO DA ORIGEM EM HARMONIA COM ORIENTAÇÃO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ.
+1. A responsabilidade do fornecedor é interpretada de forma objetiva, até porque ficou configurado que ele não se cercou das cautelas necessárias para diminuir o risco do seu negócio, pois emitiu crédito a terceiros que se utilizaram dos dados pessoais do usuário, o que resultou na sua inclusão em cadastro de inadimplentes.
+2. A empresa comerciante não apresentou argumento novo capaz de modificar a conclusão alvitrada, que se apoiou em entendimento consolidado no Superior Tribunal de Justiça. Incidência da Súmula nº 83 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 658.346/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/03/2015, DJe 07/04/2015)(g.n.)
+________________
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal.
+Publique-se. Intimem-se.
