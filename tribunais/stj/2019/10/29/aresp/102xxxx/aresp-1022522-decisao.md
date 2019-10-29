@@ -1,0 +1,25 @@
+DECISÃO
+1. Trata-se de agravo interposto por ROSARIAL ALIMENTOS S/A contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos, que BAYEENSE COMERCIO E REPRESENTACOES LTDA (ora recorrida) ajuizou a presente ação cautelar de exibição de documentos contra ROSARIAL ALIMENTOS S/A (ora recorrente), na qual a autora busca a apresentação de notas fiscais e os respectivos recibos de entrega de mercadorias, desde o início do período em que as partes mantiveram relações comerciais, ou seja, 12/11/1996. Alega a necessidade de analisar a viabilidade do ajuizamento de futura ação indenizatória, pois desconfia que a ré tenha ilicitamente faturado mercadorias em seu nome, com entrega a outros destinatários. Aduz que em razão destes fatos, enfrenta execuções fiscais movidas pela Fazenda Pública da Paraíba e Fazenda Pública Federal, além de seus sócios responderem a processos criminais por sonegação fiscal.
+A sentença de piso reconheceu a existência de transações comerciais entre as partes durante novembro de 2002 e maio de 2003, devendo a requerida apresentar os documentos relativos a tal período.
+Interposto recurso de apelação pela recorrente, defendeu que não tinha obrigação de guardar os documentos fiscais vindicados pela parte adversa por período superior a cinco anos, ex vi dos arts. 173, 174 e 195, parágrafo único, do Código Tributário Nacional.
+A Corte de origem, ao apreciar o apelo, negou-lhe provimento, registrando que os documentos fiscais devem ser mantidos por 10 anos, pois este lapso se trata da soma do período de prescrição para a constituição do crédito tributário e do período para a cobrança do crédito já constituído.
+O acórdão estadual está assim ementado:
+Cautelar. Reconhecimento do dever de apresentar documentos produzidos entre novembro de 2002 e maio de 2003. Considerações acerca do período de conservação obrigatória de documentos fiscais. Interpretação dos artigos 173, 174 e 195, parágrafo único do CTN que demonstra o dever de conservação por um prazo de dez anos a partir do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Citação em 10.01.2012, quando ainda persistia a obrigação de manutenção dos documentos. Previsão do artigo 219 do CPC que obrigava o requerido a manter a documentação até o julgamento final da ação de exibição. Decisão acertada. Recurso improvido.
+Nas razões do especial, alega a recorrente violação dos arts. 174 e 195, parágrafo único, do Código Tributário Nacional.
+O processo foi inicialmente distribuído ao Ministro GURGEL DE FARIA que determinou a redistribuição do feito, em razão de a presente ação cautelar preparatória ter por propósito a obtenção de documentos capazes de subsidiar eventual demanda indenizatória (fl. 143).
+Decido.
+2. A irresignação não merece prosperar.
+De fato, os artigos tidos por violados dispõem o seguinte:
+
+Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva.
+______________
+Art. 195. Para os efeitos da legislação tributária, não têm aplicação quaisquer disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais, dos comerciantes industriais ou produtores, ou da obrigação destes de exibi-los.
+Parágrafo único. Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles efetuados serão conservados até que ocorra a prescrição dos créditos tributários decorrentes das operações a que se refiram.
+Conforme se infere dos dispositivos em questão, há regulamentação a respeito do prazo prescricional para a cobrança do crédito tributário, bem como sobre a necessidade de guarda de livros obrigatórios de escrituração comercial e fiscal até a prescrição do crédito em questão.
+Todavia, o caso em apreço refere-se a exibição de documentos para futura ação de indenização civil, cujo prazo prescricional (art. 206, § 3º, V do CC) não tem qualquer relação com os dispositivos em testilha.
+Sublinha-se que os artigos tidos por violados têm pertinência com a relação contribuinte/Fazenda Pública - ou seja, a necessidade de guarda de comprovantes fiscais para comprovação perante o fisco e prazo prescricional relacionado à execução fiscal - em nada afetando, prejudicando ou beneficiando a relação entre particulares, como no caso em apreço.
+2.1 Portanto, a parte recorrente limita-se a arguir violação dos artigos apontados, sem indicar, clara e objetivamente, de que forma tais dispositivos teriam sido malferidos.
+Ressalto que a via estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
