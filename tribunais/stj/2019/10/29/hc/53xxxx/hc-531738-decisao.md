@@ -1,0 +1,13 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal no seu direito de locomoção em decorrência de decisão proferida pelo Ministro Presidente deste Superior Tribunal, nos autos do ARESp 1.545.037/SP, que transitou em julgado em 19/8/2019.
+Nesta impetração, o paciente busca a apreciação da questão de mérito apresentada no referido agravo em recurso especial, relativa à desclassificação da conduta do agente de latrocínio para o de roubo qualificado, bem como o abrandamento da pena.
+Aduz que as instâncias ordinárias feriram "os princípios da culpabilidade e da individualização da pena, porquanto em nenhum momento descreveu a conduta do Paciente na dinâmica dos fatos". Alega, ainda, que em razão da primariedade do réu, "é justo presumir que este não tinha intenção de participar de latrocínio e nem o poderia prever, tendo em vista sua inexperiência em empreitadas criminosas" (fl. 5).
+Sem pedido liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+Extrai-se dos autos que o paciente impetrou o presente habeas corpus em face de decisão proferida pelo Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial, com fundamento nos arts. 21-E, V, c/c. o 253, § único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, o que evidencia a inviabilidade do writ.
+Nos termos do art. 105, I, "c" da Constituição Federal, compete a esta Corte Superior processar e julgar, originariamente, "os habeas corpus , quando o coator ou paciente for qualquer das pessoas mencionadas na alínea "a", ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral.
+São relacionadas na referida alínea "a", as seguintes pessoas:
+"os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais".
+Compete, ainda, a esta Corte, julgar, em recurso ordinário (art. 105, II, a, da CF): "os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória".
+Desse modo, é incabível a apreciação do presente writ por esta Corte, cujo ato coator apontado é emanado por seu Presidente, razão pela qual, não conheço do habeas corpus.
+Publique-se. Intimem-se.
