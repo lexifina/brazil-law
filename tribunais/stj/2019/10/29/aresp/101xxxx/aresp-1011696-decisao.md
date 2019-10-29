@@ -1,0 +1,23 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. RECURSOS REPRESENTATIVOS DA CONTROVÉRSIA. RESPS NºS 1.439.163/SP E 1.280.871/SP. RETORNO DOS AUTOS PARA AFERIÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+ASSOCIAÇÃO BOUGAINVILLÉE RESIDENCIAL I (ASSOCIAÇÃO) ajuizou ação de cobrança contra SILVIO HERING PASCHKE (SILVIO), cujos pedidos foram julgados procedentes para condenar o réu ao pagamento das taxas condominiais atípicas inadimplidas, vencidas entre maio de 2003 e o trânsito em julgado da sentença, corrigidas monetariamente pela tabela prática do Tribunal de Justiça do Estado de São Paulo, bem como incidindo juros de 1% ao mês desde a citação (e-STJ, fls. 317/321).
+Irresignado, SILVIO interpôs apelação, que foi desprovida pelo Tribunal bandeirante, nos termos da seguinte ementa:
+LOTEAMENTO - Taxa de manutenção - Cobrança - Obrigação mensal decorrente de serviços prestados ou postos à disposição - Admissibilidade - Medida que visa afastar a obtenção de vantagem em prejuízo dos demais proprietários - Exigência que não depende da natureza aberta ou fechada do loteamento - Irrelevância da não associação - Atuação efetiva da associação - Beneficio geral quanto aos serviços prestados - Sentença mantida - RECURSO NÃO PROVIDO. (e-STJ, fl. 359).
+Inconformado, SILVIO interpôs recurso especial, com fundamento no art. 105, a e c, da CF, alegando violação do art. 12 da Lei 4.591/64 e do art. 22 da Lei 6.766/79, ao sustentar que, ao equiparar a associação de moradores de bairro a condomínio de edifício urbano, para efeito de cobrança de taxa de manutenção de loteamento, especialmente em relação a proprietário de terreno que não fez parte da constituição da associação nem ostenta a condição de associado, haveria nítido dissenso jurisprudencial com a orientação acolhida pelas Cortes Superiores.
+O apelo nobre não foi admitido em virtude da impossibilidade de reexame do suporte fático-probatório, incidindo a Súmula 7 do STJ (e-STJ, fls. 420/421).
+Nas razões do presente agravo em recurso especial, SILVIO sustentou que sua pretensão se restringe à interpretação de dispositivos legais, e não ao reexame de fatos e provas, não sendo aplicável o referido enunciado (e-STJ, fls. 424/430).
+Foi oferecida contraminuta (e-STJ, fls. 433/438).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere a alegada violação dos arts. 12 da Lei nº 4.591/64 e 22 da Lei nº 6.766/79 e comprovação do dissídio jurisprudencial, ressalta-se que o aresto recorrido entendeu que não se tratava de verificar a natureza aberta ou fechada da associação, pois, independente do fato de o recorrente ser ou não filiado, existe a obrigação de arcar com o pagamento das despesas comuns.
+Cabe destacar a atual jurisprudência desta Corte, que no julgamento dos recursos representativos da controvérsia, REsps nºs 1.439.163/SP e 1.280.871/SP, de relatoria do Ministro RICARDO VILLAS BÔAS CUEVA, por sua Segunda Seção, consolidou o entendimento de que as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram.
+Confira-se abaixo a ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança.
+No caso, não é possível determinar, na via estreita do recurso especial, se SILVIO é associado ou tampouco se anuiu com as despesas cobradas pela agravada, sendo necessário esclarecer essas circunstâncias a fim de aplicar o entendimento mencionado à espécie.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial a fim de determinar o envio dos autos à origem, para que o Tribunal realize novo julgamento nos termos da fundamentação supra.
+Publique-se. Intimem-se.
