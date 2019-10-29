@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, interposto com fulcro no art. 105, inciso II, "b" da Constituição Federal e art. 1.027, II, "a" do Código de Processo Civil, apresentado por PATIO MB DE FRUTAL LTDA E OUTRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Verificou-se que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, porquanto no momento do preenchimento do formulário eletrônico a parte indicou erroneamente o "tipo de ação ou recurso escolhido". Assim, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa, razão pela qual concedi a fls. 613, prazo para regularizar o vício apontado, retornando os autos conclusos com a petição de fls. 615/619.
+É o relatório. Decido.
+Inicialmente, tendo em vista a juntada correta do comprovante de recolhimento das custas processuais, prossigo na análise dos demais pressupostos e constato que o recurso em mandado de segurança não reúne condições de ser conhecido.
+De acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 13/5/2019, sendo o recurso em mandado de segurança interposto somente em 2/7/2019.
+Ressalte-se que, segundo a orientação jurisprudencial desta Corte Superior, a oposição de embargos de declaração intempestivos não interrompem nem suspendem os prazos para a utilização de outros recursos, razão pela qual o prazo para interposição do recurso em mandado de segurança não sofreu qualquer alteração, encerrando-se em 28/5/2019.
+Dessa forma, o recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 33 da Lei n.º 8.038/90.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
