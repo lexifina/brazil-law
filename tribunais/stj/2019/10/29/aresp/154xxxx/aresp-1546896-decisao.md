@@ -1,0 +1,16 @@
+DECISÃO
+Chamo o feito à ordem.
+Mediante análise dos autos, verifica-se que houve a interposição de agravo por [NOME] contra a decisão que inadmitiu o seu recurso especial. Ocorre que a decisão de fls. 402/403, por nítido erro material, consignou que o recurso havia sido interposto por parte diversa, razão pela qual padece de nulidade em razão de ofensa aos princípios da ampla defesa e do devido processo legal. Assim, torno sem efeito o decisum de fls. 402/403, determino seu desentranhamento destes autos e passo a nova análise do feito.
+Trata-se de agravo em recurso especial apresentado por [NOME] contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de indicação de artigo de lei federal violado - Súmula 284/STF e ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena. (AgRg no AREsp n. 1.193.328/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 11/5/2018.)
+Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Ante o exposto, chamo o feito à ordem para tornar sem efeito a decisão de fls. 402/403, determinando seu desentranhamento e, retomando a análise do feito, com base no art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial interposto por [NOME].
+Determino a majoração dos honorários advocatícios fixados pelas instâncias de origem de 10% sobre o valor da causa (fl. 200) para 11% sobre o valor da causa, observada eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
