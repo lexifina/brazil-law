@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Caixa Econômica Federal, com amparo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TRF da 3ª Região assim ementado (e-STJ, fl. 29.378):
+DIREITO CIVIL. APELAÇÃO. INDIVIDUALIZAÇÃO DAS CONTAS VINCULADAS DO FGTS. VALORES PAGOS DIRETAMENTE AOS EMPREGADORES. ALEGAÇÃO DE DUPLICIDADE. COMPENSAÇÃO PERMITIDA ATÉ A EDIÇÃO DA LEI 9.491/97. RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração acolhidos sem efeitos modificativos.
+Em suas razões, a recorrente sustenta, inicialmente, violação do art. 1.022 do CPC/2015, ao argumento de omissão acerca do fato de que compete ao empregador individualizar as contas nos termos do art. 15 da Lei n. 8.036/1990.
+Quanto à questão de fundo, alega afronta aos arts. 114 e 485, IV e VI, do CPC/2015; 1º e 2º da Lei n. 8.844/1994; e 4º e 7º da Lei n. 8.036/1990, ao fundamento de ilegitimidade passiva ad causam, " ..  pois os precedentes citados tratam da correção monetária das contas vinculadas do FGTS quando questionada pelos fundistas em razão dos expurgos inflacionários: não tem qualquer relação com direito de crédito de empresa que pagou FGTS a maior ou com declaração da exigibilidade ou inexigibilidade de crédito do FGTS devido pela empresa empregadora" (e-STJ, fl. 29.432).
+Pugna pela existência de dissídio jurisprudencial.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+Contrarrazões apresentadas.
+É o relatório.
+Compulsando-se os autos, constata-se inexistir ofensa ao comando normativo inserto no art. 1.022 do CPC/2015, na medida em que o acórdão proferido na origem se manifestou satisfatoriamente sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à controvérsia instaurada, inclusive as teses argumentativas deduzidas pelas partes.
+Consoante bem observado pelo Ministério Público Federal, o argumento do qual a parte alega omissão somente foi suscitado nos embargos de declaração, o que caracteriza flagrante e indevida inovação recursal para viabilizar o acesso às instâncias superiores.
+Desnecessário, portanto, complemento à fundamentação assentada pela Corte regional, ante a ausência de máculas na prestação jurisdicional, razão pela qual não se cogita em contrariedade ao art. 1.022 do CPC/2015.
+Noutro passo, no que tange a todos os dispositivos tidos por violados e suas respectivas teses, verifica-se que, a despeito da oposição de embargos de declaração, não houve pronunciamento pelo Tribunal de origem, por isso incide o óbice contido na Súmula 211/STJ.
+Adiante, saliente-se que a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no art. 105, III, "c", da Carta Magna. Aplicação da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Por fim, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem. Não se oferece, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, e na Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
