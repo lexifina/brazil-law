@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial.
+O TJSP negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 241):
+INVENTÁRIO - Insurgência contra decisão que indeferiu o pedido de expedição de alvará para lavratura de escritura - Descabimento - Bem imóvel que foi objeto de cessão de direitos hereditários - Imóvel que só pode ser alienado mediante autorização judicial - Inteligência dos artigos 1793, §3º, do CC e art. 619, I, do Código de Processo Civil - Decisão mantida, ratificando-se seus fundamentos, a teor do art. 252 do RITJSP - Recurso improvido.
+Nas razões do recurso especial (e-STJ fls. 248/260), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação do art. 619, I, do CPC/2015, afirmando que "a pretensão de alienação de bens em inventário é possível não apenas por óbice legal, mas também porque o próprio (..) (dispositivo) traz essa possibilidade, de modo indireto" (e-STJ fl. 257).
+Sustentou ainda que "o inventariante não cedeu ou vendeu direitos do espólio, bastando se ver que o instrumento de promessa de venda compra foi firmado pelos herdeiros" e que, assim, "não praticou qualquer ato ilícito ou potencialmente lesivo a terceiros; antes ao contrário, por decisão conjunta de todos os herdeiros, cuidou de preservar o patrimônio do de cujus" (e-STJ fl. 258).
+Não foram oferecidas contrarrazões (e-STJ fl. 262).
+No agravo (e-STJ fls. 267/282), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 283).
+É o relatório.
+Decido.
+A Corte local decidiu que no caso dos autos "enquanto não operada a partilha, com individualização da cota dos herdeiros, a alienação deve passar sob o crivo do judiciário" e que, sendo assim, "a cessão de direitos hereditários firmada pelos herdeiros deveria ter sido formalizada por escritura pública ou termo nos autos, de modo que imprescindível, no caso, a autorização judicial". Acrescentou ainda que (e-STJ fls. 243/244):
+De acordo com o artigo 619, I, do CPC, incumbe ao inventariante alienar os bens do espólio, embora, para tanto, o dispositivo legal exija a oitiva dos interessados e a autorização judicial. Tais medidas são justificáveis na medida em que a alienação de bens é atividade que ultrapassa a mera administração do patrimônio.
+Por isso, imprescindível que haja prévia oitiva dos herdeiros e autorização judicial para que um imóvel do espólio seja alienado.
+O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ, no sentido de que são necessárias "a oitiva dos interessados e autorização judicial para a alienação de bens de qualquer espécie pelo inventariante. É possível que nem todos concordem, razão pela qual deve o magistrado deliberar a respeito das razões apresentadas e autorizar, ou não, a alienação pretendida" (AgInt no REsp 1660010/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017). Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. INVENTÁRIO.
+OMISSÕES NO ACÓRDÃO RECORRIDO. INOCORRÊNCIA. PRONUNCIAMENTO SOBRE AS QUESTÕES EFETIVAMENTE SUSCITADAS. RETENÇÃO DE VALORES PELA INVENTARIANTE MEEIRA EM VIRTUDE DA LOCAÇÃO DOS IMÓVEIS PERTENCENTES AO ESPÓLIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRÁTICA PELA INVENTARIANTE DE ATOS DE DISPOSIÇÃO, TRANSAÇÃO OU APLICAÇÃO DE VALORES. IMPRESCINDIBILIDADE, EM REGRA, DE OITIVA DOS INTERESSADOS E PRÉVIA AUTORIZAÇÃO JUDICIAL. FLEXIBILIZAÇÃO DAS EXIGÊNCIAS LEGAIS.
+POSSIBILIDADE, EM CARÁTER EXCEPCIONAL. PROTEÇÃO DO PATRIMÔNIO COMUM SOB IMINENTE RISCO DE IRREVERSÍVEL DETERIORAÇÃO. SITUAÇÃO EMERGENCIAL. FINALIDADE DA NORMA INDISCUTIVELMENTE ATINGIDA.
+PROTEÇÃO, ADEMAIS, DA VIDA DOS LOCATÁRIOS DOS IMÓVEIS, IMPEDINDO POSSÍVEL E FUTURA RESPONSABILIZAÇÃO CIVIL DO ESPÓLIO. CONDUTA QUE SE AMOLDA AO DEVER DE VELAR PELOS BENS DO ESPÓLIO.
+1- Ação distribuída em 21/08/2007. Recurso especial interposto em 30/12/2013 e atribuído à Relatora em 25/08/2016.
+2- Os propósitos recursais consistem em definir: (i) se houve negativa de prestação jurisdicional; (ii) se o fato de a inventariante ser meeira do falecido autorizaria a retenção da metade dos alugueis de imóveis de propriedade do espólio e que foram por ela recebidos; (iii) se deve a inventariante ressarcir o monte por ter realizado, sem a oitiva dos interessados e a autorização judicial, obras emergenciais nos imóveis, valendo-se dos valores recebidos a título de alugueis.
+(..)
+4- A possibilidade de retenção, pela inventariante meeira, de metade dos valores recebidos a título de locação dos imóveis pertencentes ao espólio não foi oportunamente suscitada pela parte e nem tampouco examinada pelo acórdão recorrido, tornando inviável o conhecimento do recurso especial nesse particular em virtude da ausência de prequestionamento. Incidência da Súmula 211/STJ.
+5- Em regra, a prática pelo inventariante dos atos elencados no art.
+992 do CPC/73, correspondente ao art. 619 do CPC/15, depende de prévia oitiva dos interessados e de autorização judicial, a fim de evitar a disposição definitiva de bens ou transação sobre direitos que seriam objeto de futura partilha, bem como para evitar a aplicação de valores do espólio em gastos eventualmente desnecessários.
+6- É possível, contudo, flexibilizar a exigência de oitiva prévia e de autorização judicial, em caráter absolutamente excepcional, quando se verificar que o ato praticado pelo inventariante objetivou a proteção do patrimônio comum e, assim, atingiu plenamente a finalidade prevista em lei, salvaguardando os bens pertencentes ao espólio de sua integral e irreversível deterioração.
+7- Hipótese em que os reparos no imóvel, reconhecidos como emergenciais pelo acórdão recorrido, impediram o desmoronamento das demais casas existentes no local, evitando-se, com isso, a ruína das demais casas que poderia vitimar as famílias e pessoas que residiam no local, tipificando-se a conduta da inventariante como cumprimento do dever legal de velar pelos bens do espólio com a mesma diligência dos seus próprios (art. 991, II, do CPC/73).
+8- Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp 1655720/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/10/2018, DJe 15/10/2018.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
