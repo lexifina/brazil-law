@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS MÉDICOS. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de cobrança de honorários médicos em razão de procedimentos de urgência realizados em caráter particular .
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 na hipótese em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], com fundamento na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 26/04/2019.
+Concluso ao gabinete em: 30/07/2019.
+Ação: cobrança de honorários médicos, ajuizada por [NOME], em face do recorrente, em razão de procedimentos de urgência realizados em caráter particular.
+Sentença: julgou procedente o pedido, para condenar o recorrente ao pagamento da quantia de R$ 5.576,00, acrescida de correção pela variação do IGP-M e juros legais, contados do dia 04/05/2015.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO. AÇÃO DE COBRANÇA DE HONORÁRIOS MÉDICOS.
+Conforme consignado no voto do apelo nº [CPF], em que pese de emergência a realização do procedimento de Cateterismo Cardíaco E e/ou Cineangiocoronariografia e Ventriculografia, à qual o autor foi submetido constitui-se em procedimento médico hospitalar, com necessidade de internação, não estando coberto pelo seu contrato de plano de saúde, tendo em vista a existência de exclusão nas cláusulas do contrato que tem abrangência unicamente para cobrir atendimento ambulatorial (fls. 199-238), no que evidentemente não se enquadra a cobertura da internação e do procedimento realizado. Vale esclarecer, que o plano cobriu apenas seu atendimento ambulatorial no setor de emergência, negando cobertura para a internação e o procedimento realizado.
+Assim sendo, conforme disposto no item "e" da cláusula 4ª do documento de fls. 20, o autor deve arcar com os valores relativos aos serviços médicos prestados (fl. 24), pelo que se afasta a alegada ilegitimidade passiva.
+Também não há que se falar em coação ou vício de consentimento, sendo lícita a cobrança dos honorários médico.
+Sentença mantida.
+NEGARAM PROVIMENTO AO APELO. UNÂNIME.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 93, IX, da CF, 11, 17, 141, 330, I e II, 485, VI, 489, II, 1.013 e 1.022 do CPC/15 e 151, 156, 171, II, e 178, II, do CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que houve julgamento fora e aquém do pedido, porquanto não foi analisado que: i) não assinou o contrato de internação hospitalar particular, o que foi feito por sua esposa; ii) o contrato de plano de saúde lhe confere cobertura aos procedimentos de urgência realizados nas primeiras 12 horas, até que necessite de internação; iii) o contrato discrimina outros médicos como aqueles que prestaram serviços médicos, demonstrando a ilegitimidade do recorrente; iv) os honorários foram cobrados de forma exorbitante. Aduz, ainda, que a sentença não foi fundamentada de forma válida quanto à matéria vertida na contestação relacionada ao vício de consentimento e à responsabilidade do plano de saúde pelas despesas médicas realizadas na emergência. Afirma que sua esposa sofreu coação moral, que gera nulidade do contrato particular de internação. Por fim, alega que o recorrido não consta como médico responsável pelo paciente no contrato, o que demonstra sua ilegitimidade ativa, e que o responsável pelo pagamentos dos honorários é o plano de saúde, o que indica a ilegitimidade passiva do recorrente, que sequer assinou o contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do Tribunal de origem residem, entre outras, na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, ficou silente no que concerne ao argumento trazido pelo recorrente de que não houve contratação de honorários médicos segundo a Tabela da Associação Médica, tendo, inclusive, sido cobrado pelo recorrido quantia inferior.
+Da análise do processo, constata-se que o TJ/RS, ao julgar os embargos de declaração interpostos pelo recorrente, foi omisso quanto a este argumento. Entretanto, verifica-se que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios interpostos.
+É firme a jurisprudência do STJ no sentido de que há ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe de 20/10/2017; e AgInt no AREsp 429.547/RJ, 4ª Turma, DJe de 8/9/2016).
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo, portanto, a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para: a) anular o acórdão que julgou os embargos de declaração interpostos pelo recorrente; b) determinar a remessa dos autos ao TJ/RS, a fim de que se pronuncie, na esteira do devido processo legal, a respeito do argumento trazido pelo recorrente de que não houve contratação de honorários médicos segundo a Tabela da Associação Médica, tendo, inclusive, sido cobrado pelo recorrido quantia inferior.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
