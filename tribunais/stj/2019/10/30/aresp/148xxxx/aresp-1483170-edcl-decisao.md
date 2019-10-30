@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ROSEMARY VIEIRA SOUZA SPENAZATO à decisão de fls. 372/374, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre Excelência, que o agravo deixa claro através de comprovantes de recolhimento de custas, que a Embargante recolheu e complementou as custas devidamente, não havendo que se falar em falta de preparo no caso em tela. Tais recolhimentos foram realizados de acordo com as orientações da CORAC (Coordenação de Arrecadação e Contadoria do TJMG), de forma que para interposição do Recurso Especial efetuou o pagamento de R$ 179,37 (cento e setenta e nove reais e trinta e sete centavos) referente às custas do STJ, R$ 273,12 (duzentos e setenta e três reais e doze centavos) referente ao TJMG e fez a complementação das custas no valor de R$ 7,80 (sete reais e oitenta centavos). (fl. 378/379).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Como já consignado na decisão ora embargada, que agora se repete, o recurso especial não foi devidamente preparado, uma vez que não foi recolhida a importância devida a título de custas, de acordo com a legislação local, conforme certidão de fl. 324 e decisão de fls. 338/339.
+Nos termos da jurisprudência desta Corte, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem" (AgInt no REsp 1660202/SP, Rel. Ministro Lázaro Guimarães (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe de 27/02/2018.
+Dessa forma, incide, na espécie, o disposto na Súmula 187 do STJ, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
