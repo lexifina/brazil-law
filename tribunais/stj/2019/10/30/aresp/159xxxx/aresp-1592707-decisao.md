@@ -1,0 +1,16 @@
+DECISÃO
+
+Trata-se de agravo apresentado por RITA DE CÁSSIA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA CC CONDENATÓRIA - SERVIDORA PÚBLICA MUNICIPAL INATIVA - PRESTAÇÃO DE SERVIÇOS COMO AGENTE TÉCNICO DE ADMINISTRAÇÃO NO PERÍODO DE 1991 A 2013 JUNTO A UBS (UNIDADES BÁSICAS DE SAÚDE) - ALEGAÇÃO DE QUE EXPOSTA A AGENTES BIOLÓGICOS DIVERSOS NO EXERCÍCIO DA FUNÇÃO - PRETENSÃO DE PAGAMENTO DO ADICIONAL DE INSALUBRIDADE BEM COMO DE SUA INCORPORAÇÃO À SUA APOSENTADORIA - SENTENÇA DE IMPROCEDÊNCIA - LAUDO PERICIAL A AMPARAR A DECISÃO QUE SERÁ MANTIDA - INOCORRÊNCIA DO CERCEAMENTO DE DEFESA ADUZIDO - DECISÃO ESCORREITA - RECURSO DESPROVIDO
+Alega interpretação divergente com o art. 369 do CPC, no que concerne à declaração de nulidade da sentença para que o expert possa prestar os esclarecimentos solicitados de forma expressa as fls. 134/136, pela recorrente, trazendo o(s) seguinte(s) argumento(s):
+ Nota-se, ínclitos Julgadores, a total semelhança ao caso concreto, onde em ambos os casos houve o direito da parte negado de empregar todos os meios legais para provar a verdade dos fatos em que funda o pedido e influir eficazmente na convicção do juiz.
+Contudo, mesmo que os processos tratem de meterias distintas, ou seja, adicional de insalubridade e outro seguro DPVAT, em sua questão processual são idênticos, pois o que se pretende não é reexame da matéria, tampouco a má apreciação de fatos e provas, mas a aplicação correta da Lei Federal.
+Assim, o MM juiz a quo ao julgar a lide em nada se manifestou sobre o pedido da Recorrente para que o senhor perito responda os quesitos complementares. Situação extremamente importante para o deslinde da causa (fl. 193).
+É o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
