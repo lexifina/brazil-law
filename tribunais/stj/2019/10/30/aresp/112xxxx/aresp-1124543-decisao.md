@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO DE PREVIDÊNCIA DO SERVIDOR MUNICIPAL DE SÃO JOSÉ DOS CAMPOS contra decisão que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 407):
+SERVIDORA PÚBLICA MUNICIPAL INATIVA - Pretensão à retificação da base de cálculo do adicional por tempo de serviço, que deixou de incidir sobre a gratificação de função - Gratificação incorporada aos vencimentos, nos termos do art. 52 da Lei Complementar Municipal nº 56/92 - Adicional por tempo de serviço que deve recair sobre todas as demais vantagens que se incorporam aos vencimentos da autora - Inaplicabilidade da súmula vinculante nº 37 - Sentença mantida - Recursos oficial e voluntário não providos.
+Nas razões do especial obstaculizado, a parte agravante sustenta contrariedade ao art. 1º do Decreto n. 20.910/1932 c/c o art. 2º do Decreto-Lei n. 4.597/1942, ao argumento de que "nos casos em que o servidor busca a revisão do ato de aposentadoria, ocorre prescrição do próprio fundo de direito após o transcurso de mais de cinco anos entre o ato de concessão e o ajuizamento da ação, aplicando-se, ademais, o princípio da actio nata" (e-STJ fl. 421).
+Contrarrazões às e-STJ fls. 429/454.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos dos requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, tem-se que o recurso não merece prosperar.
+Destaca-se do acórdão atacado, na parte que aqui interessa (e-STJ fl. 410):
+ ..
+Primeiramente, no que se refere à matéria preliminar suscitada pelo Apelante, cabe rejeitá-la em parte.
+Isso porque, uma vez que se cuida de obrigação de trato sucessivo, não se cogita a ocorrência de prescrição do fundo de direito, mas, tão somente, das parcelas vencidas antes dos cinco anos da data do ajuizamento da demanda.
+Esse é o juízo que se extrai do entendimento firmado pelo STJ na Súmula 85, cujo teor encontra-se em consonância com o enunciado 443 do STF, que dispõe que "a prescrição das prestações anteriores ao período previsto em lei não ocorre, quando não tiver sido negado, antes daquele prazo, o próprio direito reclamado, ou a situação jurídica de que ele resulta".
+Nesses termos, rejeita-se parcialmente a preliminar arguida, com a ressalva de que a prescrição somente deve atingir eventuais vencimentos e vantagens anteriores ao quinquídio, medida esta já observada em primeira instância.
+Com efeito, observo que a decisão recorrida está em consonância com o entendimento firmado nesta Corte no sentido de que "a orientação jurisprudencial do STJ declara a não ocorrência da prescrição do fundo de direito nas lides relacionadas ao pagamento de adicionais por tempo de serviço e da sexta-parte" (AgInt no REsp 1.624.699/SP, Relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 19/12/2016).
+No mesmo sentido, confiram-se ainda os seguintes julgados:
+ADMINISTRATIVO. SERVIDORES INATIVOS DO ESTADO DE SÃO PAULO. SEXTA-PARTE. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. APLICAÇÃO DA SÚMULA 85 DO STJ.
+1. A pretensão do recorrida é a implementação de uma vantagem pecuniária em suas complementações de aposentadorias e pensão. Trata-se de parcelas de trato sucessivo, onde a não concessão renova, mês a mês, a violação do suposto direito.
+2. No caso da parcela denominada sexta-parte, vantagem não incorporada pela Administração, o ato omissivo renova-se mês a mês, caracterizando relação de trato sucessivo; na espécie, a prescrição atinge apenas as prestações vencidas anteriormente aos cinco anos da propositura da ação, nos moldes da Súmula 85/STJ. Precedentes: AgRg no REsp 1.517.623/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 20.4.2015; AgRg no REsp 1.501.389/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26.2.2015; AgRg no AREsp 308.974/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 4.8.2014.
+3. Recurso Especial não provido. (REsp 1.692.339/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 10/10/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APOSENTADOS E PENSIONISTAS DA FEPASA. SEXTA-PARTE. PRESCRIÇÃO DO FUNDO DE DIREITO NÃO CONFIGURADA. RELAÇÃO DE TRATO SUCESSIVO . SÚMULA 83/STJ. INCIDÊNCIA.
+I - Esta Corte orienta-se no sentido de que não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento da parcela denominada sexta parte, devida a aposentados e pensionistas do Estado de São Paulo, mas, tão somente, das parcelas vencidas antes do quinquênio que precedeu à propositura da ação, por tratar-se de ato omissivo da Administração e ausente a negativa expressa do direito pleiteado, incidindo a orientação contida na Súmula 85/STJ.
+II - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg no AREsp 204.460/SP, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 01/03/2016).
+No caso, portanto, há de ser reconhecida a incidência da Súmula 83 do STJ.
+Soma-se a isso o fato de que a fundamentação do aresto impugnado foi decidida à luz da interpretação da Lei Municipal n. 56/1992, sendo certo a incidência do óbice da Súmula 280 do STF (fls. 411/412).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
