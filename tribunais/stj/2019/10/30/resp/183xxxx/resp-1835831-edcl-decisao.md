@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. INCORPORAÇÃO EMPRESARIAL. EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL, POR INCORPORAÇÃO. OCORRÊNCIA ANTES DO LANÇAMENTO. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE. RECURSO PROVIDO.
+O embargante sustenta que houve omissão no julgado com relação à alegação de que os fatos geradores ocorreram nos anos de 2010 a 2013 e que a empresa executada originalmente deixou de existir em 2003.
+Impugnação às fls. 218/221.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Extrai-se da decisão embargada:
+Cinge-se, pois, a controvérsia à possibilidade de alteração do polo passivo da execução fiscal em decorrência de incorporação empresarial.
+A posição adotada pelo acórdão recorrido vai ao encontro da jurisprudência desse e.STJ sobre o tema, recentemente firmada na ocasião do julgamento dos Embargos de Divergência em Recurso Especial n. 1.695.790/SP, de relatoria do Ministro Gurgel de Faria, no qual se assevera que em casos de sucessão empresarial por incorporação ocorrida antes do lançamento do crédito tributário, a execução pode ser direcionada à sociedade incorporadora sem necessidade de alteração do ato de lançamento para emissão de nova Certidão de Dívida Ativa, afastando o disposto na Súmula n. 392 dessa Corte. Isso porque, segundo as razões deste precedente, a incorporadora é responsável pelo passivo tributário da empresa incorporada, respondendo em seu nome pela dívida da empresa sucedida, consoante a inteligência do art. 132 do CTN. É o caso dos autos.
+Nesse sentido, cito:
+TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULO AUTOMOTOR - IPVA. EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL, POR INCORPORAÇÃO. OCORRÊNCIA ANTES DO LANÇAMENTO, SEM PRÉVIA COMUNICAÇÃO AO FISCO. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Na sucessão empresarial, por incorporação, a sucessora assume todo o passivo tributário da empresa sucedida, respondendo em nome próprio pela dívida de terceiro (sucedida), consoante inteligência do art. 132 do CTN - cuidando-se de imposição automática de responsabilidade tributária pelo pagamento de débitos da sucedida, assim expressamente determinada por lei - e, por isso, pode ser acionada independentemente de qualquer outra diligência por parte do credor.
+2. Se o fato gerador ocorre depois da incorporação mas o lançamento é feito contra a contribuinte/responsável originária, não há falar em necessidade de alteração do ato de lançamento, porque a incorporação não foi oportunamente comunicada, não podendo o incorporador obter proveito de sua própria torpeza.
+3. A efetiva comunicação aos órgãos/entidades competentes, pela incorporadora, da ocorrência da incorporação da sociedade empresária proprietária do veículo é o exato momento em que o fisco toma conhecimento do novo sujeito passivo a ser considerado no lançamento, razão pela qual, in casu, esse momento deve ser entendido, para fins tributários, como a data do ato da incorporação (arts. 123 e 132 do CTN).
+4. Embargos de divergência providos.
+(EREsp 1695790/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 13/03/2019, DJe 26/03/2019)
+TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULO AUTOMOTOR - IPVA. EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL, POR INCORPORAÇÃO. OCORRÊNCIA ANTES DO LANÇAMENTO. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Na sucessão empresarial, por incorporação, a sucessora assume todo o passivo tributário da empresa sucedida, respondendo em nome próprio pela dívida de terceiro (sucedida), consoante inteligência do art. 132 do CTN - cuidando-se de imposição automática de responsabilidade tributária pelo pagamento de débitos da sucedida, assim expressamente determinada por lei - e, por isso, pode ser acionada independentemente de qualquer outra diligência por parte do credor.
+2. Se o fato gerador ocorre depois da incorporação mas o lançamento é feito contra a contribuinte/responsável originária, não há falar em necessidade de alteração do ato de lançamento, porque a incorporação não foi oportunamente comunicada, não podendo o incorporador obter proveito de sua própria torpeza.
+3. A efetiva comunicação aos órgãos/entidades competentes, pela incorporadora, da ocorrência da incorporação da sociedade empresária proprietária do veículo é o exato momento em que o fisco toma conhecimento do novo sujeito passivo a ser considerado no lançamento, razão pela qual, in casu, esse momento deve ser entendido, para fins tributários, como a data do ato da incorporação (arts. 123 e 132 do CTN).
+4. Agravo conhecido para dar provimento ao recurso especial.
+(AREsp 749.275/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/04/2018, DJe 20/04/2018)
+Desse modo, alegação de que os fatos geradores ocorreram nos anos de 2010 a 2013 e que a empresa executada originalmente deixou de existir em 2003 foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
