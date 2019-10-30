@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMPRESA PÚBLICA. EXCLUSÃO DO CONCEITO DE FAZENDA PÚBLICA PARA ISENÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL. AUSÊNCIA. PAGAMENTO EM DOBRO. PROCEDÊNCIA.
+1. A Empresa Brasileira de Serviços Hospitalares - EBSERH tem natureza de empresa pública, razão pela qual não se enquadra na isenção da obrigação de recolhimento do preparo, conforme previsto no art. 1.007, § 1.º, do CPC/2015, tampouco se insere na cláusula geral estabelecida na parte final do preceito, à míngua de regra na sua lei de regência (Lei 12.550/2011). Precedentes: AgInt no AREsp 1.090.477/RS, Relator Min. Mauro Campbell Marques, Segunda Turma, DJe 11/10/2017; AgInt nos EDcl no REsp 1.654.254/AL, Relator Min. Francisco Falcão. Segunda Turma. Dje 19/10/2017.
+2. Diante da ausência do pagamento do preparo recursal, correta a abertura de prazo para o recolhimento em dobro, nos termos do § 4.º do art. 1.007 do CPC/2015.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto em face de decisão prolatada com fundamento no art. 1.007, § 4.º, do CPC/2015, determinou o recolhimento em dobro do preparo, diante da ausência do mesmo.
+Nas razões do recurso, pretende a agravante seja estendida a prerrogativa de fazenda pública para o fim de obter a isenção de preparo, haja vista tratar-se de empresa prestadora de serviços públicos de saúde.
+Ainda, destaca que "não obstante se tratar de empresa pública com personalidade jurídica de direito privado, os serviços prestados pela EBSERH são exclusivamente de natureza pública e essencial ao Estado, não havendo finalidade lucrativa, tampouco exploração de atividade econômica, além de ser constituída por capital integralmente público. Logo, suas atividades correspondem à própria atuação do Estado" (fls. 724).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMPRESA PÚBLICA. EXCLUSÃO DO CONCEITO DE FAZENDA PÚBLICA PARA ISENÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL. AUSÊNCIA. PAGAMENTO EM DOBRO. PROCEDÊNCIA.
+1. A Empresa Brasileira de Serviços Hospitalares - EBSERH tem natureza de empresa pública, razão pela qual não se enquadra na isenção da obrigação de recolhimento do preparo, conforme previsto no art. 1.007, § 1.º, do CPC/2015, tampouco se insere na cláusula geral estabelecida na parte final do preceito, à míngua de regra na sua lei de regência (Lei 12.550/2011). Precedentes: AgInt no AREsp 1.090.477/RS, Relator Min. Mauro Campbell Marques, Segunda Turma, DJe 11/10/2017; AgInt nos EDcl no REsp 1.654.254/AL, Relator Min. Francisco Falcão. Segunda Turma. Dje 19/10/2017.
+2. Diante da ausência do pagamento do preparo recursal, correta a abertura de prazo para o recolhimento em dobro, nos termos do § 4.º do art. 1.007 do CPC/2015.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O tema central do agravo interno é verificar se a agravante, empresa estatal, possui ou não isenção do recolhimento do preparo recursal.
+A natureza jurídica de empresa pública não se amolda a nenhuma daquelas previstas no preceito normativo que rege o tema.
+Ainda, importante ressaltar que a Lei 12.550/2011, que autorizou a criação da empresa pública denominada Empresa Brasileira de Serviços Hospitalares - EBSERH, não contempla nenhuma benesse legal que a isente do recolhimento das custas.
+A propósito, a Segunda Turma, por unanimidade, já se manifestou acerca da matéria em sede de agravo interno interposto pela própria Empresa Brasileira de Serviços Hospitalares - EBSERH, rejeitando a tese ora suscitada para referir a inexistência de isenção de recolhimento do preparo recursal em benefício de empresas públicas:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMPRESA PÚBLICA. EXCLUSÃO DO CONCEITO DE FAZENDA PÚBLICA PARA FINS DE ISENÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL. AUSÊNCIA. PAGAMENTO EM DOBRO. PROCEDÊNCIA.
+1. A Empresa Brasileira de Serviços Hospitalares - EBSERH tem natureza de empresa pública e por isso não se enquadra no rol de isentos da obrigação de recolhimento do preparo, conforme previsto no art. 1.007, § 1.º, do CPC/2015, tampouco se inserindo na cláusula geral estabelecida na parte final do preceito, à míngua de regra na sua lei de regência (Lei 12.550/2011).
+2. Assim, diante da ausência do pagamento do preparo recursal, correta a abertura de prazo para o recolhimento em dobro, com apoio no § 4.º do mesmo preceptivo do CPC/2015.
+3. Agravo interno não provido (AgInt no AREesp 1.090.477/RS, Relator Min. Mauro Campbell Marques, Segunda Turma, DJe 11/10/2017).
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. RECURSO ESPECIAL. DESERÇÃO. GUIA COM PREENCHIMENTO DO CÓDIGO DE RECOLHIMENTO DIVERSO. VERBA DESTINADA A OUTRO TRIBUNAL, E NÃO AO STJ. EBSERH. PESSOA JURÍDICA DE DIREITO PRIVADO. EMPRESA PÚBLICA. NÃO ISENTA DO RECOLHIMENTO DAS CUSTAS PROCESSUAIS. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Recurso especial não conhecido por deserção, com a aplicação do óbice do enunciado n. 187 da Súmula do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+II - Constatada a ausência da guia de custas e do respectivo comprovante de pagamento, foi determinado o recolhimento em dobro do preparo, nos termos no § 4º do art. 1.007 do Código de Processo Civil de 2015 (fl. 663). Atendendo à determinação, a parte recorrente juntou aos autos guia de recolhimento contendo erro em seu preenchimento (fl. 669).
+III - De acordo com a jurisprudência desta Corte, releva-se eventual irregularidade no preenchimento da guia de recolhimento, excepcionalmente, nos casos em que o valor do preparo tenha sido revertido em favor do STJ. Precedentes: STJ, AgRg no REsp 1.498.568/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe de 14/12/2015; AgInt no AREsp 868.892/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 27/9/2016, DJe 13/10/2016.
+IV - Todavia, no caso dos autos, mesmo tendo sido possibilitada à parte recorrente a regularização no recolhimento do preparo, foi colacionado aos autos comprovante de pagamento no qual consta que os recursos foram destinados à Justiça Federal de Primeiro Grau, unidade gestora favorecida, código n. 090010 (fl. 670), razão pela qual é inafastável o óbice do enunciado n. 187 da Súmula do STJ.
+V - Conforme consta no art. 1º da Lei n. 12.550, de 2011, c/c o inciso II do art. 5º do Decreto-Lei n. 200/67, e art. 5º do Decreto-Lei n. 900/69, a Empresa Brasileira de Serviços Hospitalares - EBSERH é pessoa jurídica de direito privado, constituída sob a forma de empresa pública, razão pela qual não goza do benefício de isenção das custas processuais de que trata o art. 1.007, § 1º, do Código de Processo Civil de 2015. Nesse sentido são os seguintes julgamentos monocráticos: REsp n. 1.681.605/PE (2017/0153493-6), Relator: Ministro Mauro Campbell Marques; REsp n. 1.679.117/RS (2017/0142609-1), Relatora: Ministra Laurita Vaz, Presidente do STJ.
+VI - Agravo interno improvido. (AgInt nos EDcl no REsp 1.654.254/AL, Relator Min. Mauro Campbell Marques, Segunda Turma, DJe 11/10/2017).
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o posicionamento acerca do dever das empresas públicas recolherem custas já se encontra sedimentado nesta corte superior.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
