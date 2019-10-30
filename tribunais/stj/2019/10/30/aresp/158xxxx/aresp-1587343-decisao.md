@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] SOC COOP SERV MED HOSP LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+DIREITO DO CONSUMIDOR AÇÃO DE CUMPRIMENTO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MATERIAL E MORAL ALEGAÇÃO DE RECUSA NO ATENDIMENTO PELA [NOME] RIO SOB O ARGUMENTO DE QUE A PARTE AUTORA SERIA CLIENTE DA [NOME] SÃO [NOME]-[NOME] RÉS QUE DEFENDEM PREVISÃO CONTRATUAL ACERCA DA LIMITAÇÃO DE ABRANGÊNCIA PARCIAL PROCEDÊNCIA COM A REJEIÇÃO DO PEDIDO COMPENSATÓRIO APELO DE AMBAS AS COOPERATIVAS COM O REVOLVIMENTO DAS SUAS TESES DE DEFESA LEGITIMIDADE PASSIVA DA [NOME] RIO ENTENDIMENTO CONSAGRADO PELO E STJ IMPOSIÇÃO DE ALTERAÇÃO CONTRATUAL QUE GEROU EXTREMA DESVANTAGEM PARA A PARTE AUTORA DANO MATERIAL COMPROVADO DESPROVIMENTO DE AMBOS OS APELOS.
+Quanto à controvérsia apresentada nos autos, pela alínea "a" e alínea "c" do permissivo constitucional, alega violação do art. 16, X, da Lei 9.656/98, trazendo o(s) seguinte(s) argumento(s):
+Nesse passo, diferentemente do alegado pela autora recorrida e acolhido pelo v. acórdão, a limitação geográfica do contrato não se deu por conta do aditivo que a mesma alega que foi obrigada a assinar em decorrência do falecimento do titular e sim por previsão contratual desde o início de sua vigência.
+ .. .
+Por óbvio se a recorrida tem interesse no atendimento no Município na qual a mesma reside no momento, deve a mesma requerer um upgrade do seu contrato para que assim, passe a realizar os pagamentos das mensalidades em concordância com o valor do plano ESTADUAL OU NACIONAL (fls. 571/576).
+É o relatório.
+Decido.
+Na espécie, aplica-se o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ademais, verifica-se que não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
