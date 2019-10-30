@@ -1,0 +1,28 @@
+DECISÃO
+
+Trata-se de agravo apresentado por RAIZEN TARUMA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL AÇÃO DE COBRANÇA C/C INDENIZAÇÃO PELO RITO SUMÁRIO SENTENÇA DE PARCIAL PROCEDÊNCIA EMBARGOS DE DECLARAÇÃO NÃO ACOLHIDOS NÃO CONHECIMENTO DO RECURSO ANTE A INTEMPESTIVIDADE ALEGAÇÃO DE INTIMAÇÃO EM DUPLICIDADE VEZ QUE AS EMPRESAS RÉS SÃO A MESMA PARTE CONTAGEM DO PRAZO QUE CONSIDERA A PRIMEIRA INTIMAÇÃO VÁLIDA REALIZADA RECURSO CONHECIDO E DESPROVIDO (fl. 3597).
+Alega violação dos arts. 197 e 231, V, do CPC, no que concerne à tempestividade do recurso de apelação interposto pela agravante, trazendo os seguintes argumentos:
+30. O E. Tribunal Estadual, ao manter a r. decisão de primeiro grau no tocante ao não conhecimento do recurso de apelação pela sua suposta intempestividade, violou os artigos 197 e 231, V do Código de Processo Civil, conforme melhor se demonstrará.
+31. Conforme amplamente demonstrado pela Recorrente, foram feitas duas intimações com relação ao julgamento dos embargos de declaração da parte contrária direcionadas à Raízen (mov. 99 - Raízen Tarumã Ltda. e mov. 101 - Usina Nova América S/A).
+32. Neste passo, a última publicação foi realizada em 23.12.2016 (mov. 105) com encerramento do prazo recursal programado no sistema PROJUDI para o dia 14.02.2017 (mov. 112). Desta feita, o recurso de apelação foi interposto tempestivamente em 10.02.2017 (mov. 111), não havendo que se falar em intempestividade.
+33. Ressalta-se que, como inclusive exposto na r. decisão, a Recorrente Usina América S/A é atualmente denominada Raízen Tarumã Ltda.
+34. Dessa forma, inegável que foram expedidas duas intimações para a mesma parte com prazo em curso aberto de acordo com o sistema eletrônico PROJUDl.
+35. Não há que se permitir que a Recorrente seja prejudicada, diante da duplicidade de intimações, sendo que a última publicação foi realizada em 23.12.2016, como encerramento do prazo recursal programado no sistema para o dia 14.02.2017. Sendo assim, o recurso de apelação foi interposto tempestivamente em 10.02.2017.
+ .. .
+37. Não há como negar que o próprio sistema PROJUDI programou o prazo recurso para o dia 14.02.2018 (fl. 3719/3720).
+É o relatório. Decido.
+Quanto à alegação de violação do art. 197 do CPC, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à alegação de violação do art. 231, VI, do CPC, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+ ..  tem-se que a intimação se dá por realizada quando o intimado toma ciência do conteúdo da manifestação judicial, sendo certificada nos autos a sua realização e iniciando-se a contagem do prazo no dia útil seguinte à consulta.
+Assim, no caso em tela, considera-se como data de início do prazo o dia útil subsequente à primeira intimação válida realizada, qual seja, àquela de seq. 102 (fl. 3600) - negritei.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+E quanto à alegação de que "o próprio sistema PROJUDI programou o prazo recurso para o dia 14.02.2018"(fl. 3.720), não há prequestionamento da referida tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
