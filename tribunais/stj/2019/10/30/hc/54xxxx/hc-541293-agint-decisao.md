@@ -1,0 +1,28 @@
+DECISÃO
+[NOME] ajuíza pedido de reconsideração, contra a decisão de fls. 185-186, em que indeferi liminarmente o habeas corpus, ante a constatação de supressão de instância.
+A defesa esclarece que impetrou dois habeas corpus perante a Corte local e que juntou aos autos o acórdão referente ao outro writ.
+Juntado o documento, é o caso de reconsiderar a decisão de fls. 185-186 para dar processamento ao feito.
+Passo à análise do pedido.
+Informam os autos que o paciente foi preso em flagrante - com conversão em custódia preventiva em 19/7/2019 - em decorrência do cumprimento de mandado de busca e apreensão, que resultou na apreensão de um revólver, munições e drogas, tendo o paciente sido denunciado como incurso nos arts. 33 da Lei n. 11.343/2006 e 16, parágrafo único, IV, da Lei 10.826/2003.
+Narra a impetração que "o paciente foi preso em flagrante e denunciado pelo Parquet pela suposta prática dos crimes de tráfico de drogas e de porte ilegal de arma de fogo de uso restrito, porque, segundo consta da denúncia, durante o cumprimento de mandado de busca e apreensão expedido em seu desfavor, policiais encontraram na residência de sua esposa um revólver e porções de drogas".
+Noticia que, "regularmente citado, o paciente apresentou resposta à acusação, apontando, em sede de preliminar, a nulidade da decisão que autorizou a busca e apreensão e o reconhecimento da ilicitude das provas", ocasião em que o Juiz de Direito "manteve o recebimento da denúncia, valendo-se, para tanto, de uma decisão padronizada, que poderia ser aplicada a qualquer caso, sem analisar as teses e os pedidos da defesa".
+Neste writ, a defesa pretende a concessão da ordem "para anular o processo a partir da juntada da resposta à acusação, a fim de que a autoridade coatora decida a respeito, de maneira fundamentada, nos termos da legislação processual penal, assegurando-se ao paciente, por consequência, o direito de responder ao processo em liberdade".
+O pedido comporta parcial deferimento.
+Quanto à alegada ausência de fundamentação no recebimento da exordial acusatória, observo que o Juízo de primeiro grau limitou-se a afirmação genérica de inexistência das hipóteses previstas nos arts. 395 e 397 do Código de Processo Penal, in verbis:
+Vistos.
+Mantenho o rito ordinário para processamento da ação, considerando a r. Decisão de fls. 189/191, por ser mais benefício para o acusado.
+Não obstante as razões apresentadas pela defesa, por não vislumbrar quaisquer das hipóteses previstas nos artigos 395 e 397 do Código de Processo Penal, mantenho a decisão que recebeu a denúncia, já que não é o caso de absolvição sumária.
+Designo audiência de instrução, debates e julgamento para o dia 11 de novembro de 2019, às 16 horas. (fl. 203)
+Como se sabe, "a jurisprudência das Cortes Superiores é no sentido de que, não sendo a hipótese de absolvição sumária do acusado, a decisão do Juízo processante que recebe a denúncia não demanda fundamentação complexa, sob pena de antecipação prematura de um juízo meritório que deve ser naturalmente realizado ao término da instrução criminal, em estrita observância aos princípios da ampla defesa e do contraditório" (AgRg no AREsp n. 440.087/SC, Rel. Ministra Laurita Vaz, 5ª T., DJe de 17/6/2014, destaquei).
+Na hipótese dos autos, todavia, constato que a decisão ora impugnada não atende minimamente ao comando constitucional previsto no artigo 93, IX, da Constituição, deixando de analisar a tese defensiva de nulidade da decisão que autorizou a busca e apreensão e a da ilicitude da prova.
+Sobre o tema já decidimos:
+ ..
+1. Realizada após a resposta à acusação, a ratificação do recebimento da denúncia dispensa a expensão de fundamentos exaurientes e plenos, até para que não seja prejulgada a causa, mas mostra-se imprescindível a mínima referência aos argumentos naquela peça apresentados, sob pena de nulidade.
+2. No caso concreto, o decisum proferido careceu de fundamentação, eis que primou por um conteúdo estereotipado e genérico, restringindo-se o magistrado a declinar que não se encontrava diante das hipóteses do art. 397 do Código de Processo Penal, menção que não se presta a justificar o recebimento da incoativa, sem sequer aludir o juiz às alegações defensivas ventiladas na defesa preliminar.
+3. Incumbe ao magistrado enfrentar questões processuais relevantes e urgentes ao confirmar o aceite da exordial acusatória, o que não ocorreu na espécie.
+4. As teses defensivas ventiladas na defesa preliminar - consunção, excesso acusatório e possibilidade de suspensão condicional do processo - serão ponderadas devidamente pelo magistrado singular, ao proferir novo decisum relativo ao recebimento da exordial acusatória, mostrando-se incabível este Areópago antecipar-se ao exame de primeiro grau.
+5. Recurso não conhecido. Ordem concedida, de ofício, a fim de anular o processo, a partir da segunda decisão de recebimento da denúncia, devendo outra ser proferida, apreciando-se os termos da resposta escrita à acusação.
+(RHC n. 78.064/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/2/2017)
+Por fim, é o caso de consignar a insuficiência da instrução para examinar-se o pedido consectário de soltura, em função do reconhecimento da nulidade de ausência de fundamentação da decisão que recebeu a denúncia, visto que não há elementos nos autos que informem as peculiaridades do caso concreto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, reconsidero a decisão de fls. 185-186 e concedo parcialmente a ordem, in limine, a fim de anular o processo, a partir da segunda decisão de recebimento da denúncia, devendo outra ser proferida, apreciando-se as teses da resposta à acusação.
+Publique-se e intimem-se.
