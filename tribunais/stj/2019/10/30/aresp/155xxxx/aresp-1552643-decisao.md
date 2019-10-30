@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO. INADIMPLEMENTO. RESCISÃO UNILATERAL. MULTA CONTRATUAL. ABUSIVIDADE. REVISÃO. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto pela ELEVADORES OTIS LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 257-260) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ, fl. 190):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO LIMINAR. RESCISÃO CONTRATUAL. DESCUMPRIMENTOS. INSATISFAÇÕES DO AUTOR/CLIENTE. CONJUNTO PROBATÓRIO SUFICIENTE. RÉ NÃO DEMONSTRA FATOS MODIFICATIVOS DAS ALEGAÇÕES AUTORAIS. ALEGAÇÃO DE JULGAMENTO ULTRA PETITA. EQUÍVOCO. NORMAS CONSUMERISTAS DE ORDEM PÚBLICA. ART. 1º DO CDC. MULTA. CLÁUSULA ABUSIVA. ONEROSIDADE EXCESSIVA. PENALIDADE PREVISTA APENAS PARA O CONSUMIDOR. NULIDADE DE PLENO DIREITO. ART. 51 DO CDC. MANUTENÇÃO DA SENTENÇA.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 207):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. FINS DE PRESQUESTIONAMENTO. INEXISTÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO ARESTO IMPUGNADO. REDISCUSSÃO DO MÉRITO. APRECIAÇÃO PRÉVIA DESTE TRIBUNAL QUANTO À MATÉRIA DISCUTIDA. REQUISITO PARA INTERPOSIÇÃO DE RESP E REXT ATENDIDO. APLICAÇÃO DOS ART. 1.022 E ART.1.025 DO NOVO CPC.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Nas razões do recurso especial, a recorrente alegou, com fulcro nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação ao art. 603 do CC/2002.
+Defendeu a legalidade da cobrança de multa contratual quando rescindido, unilateralmente, o contrato celebrado.
+Afirmou ter a parte recorrida obtido proveito com a execução do contrato.
+Apreciada a admissibilidade do apelo excepcional, o Tribunal de origem negou seguimento à insurgência.
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 263-268).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões deste agravo, a recorrente alega ter cumprido com todas as exigências legais para a análise e processamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da legalidade da cobrança da multa contratual, o Tribunal de origem, ao examinar o tema, expôs os seguintes argumentos (e-STJ, fls. 192-193):
+ No mérito, a apelante alega a ausência de descumprimento contratual, tendo sido a apelada atendida, sempre que solicitada.
+ Como afirmou o magistrado singular, "Os fatos trazidos à exame, dão azo à pretensão inicial, pois houve vasta comprovação através de documentos acostados pela parte autora, da sua insatisfação com os serviços contratados para revisão e conservação dos elevadores que servem aos moradores do condomínio demandante, em contrapartida, aqueles apresentados pela parte Ré, em nada lhe contribuem (sic), tão somente demonstra que houve da sua parte cumprimento de algumas solicitações, o que por certo admite a parte autora, pois quando solicitado a manifestar-se, quedou-se sem impugná-los."
+ Considerando o inversão do ônus da prova Requer a Apelante seja declarada a validade da cláusula 2.6.2, que trata da multa indenizatória a ser paga pelo cliente, a apelada, em caso de rescisão sem causa justificada. Ainda, que houve julgamento ultra petita, uma vez que a análise do contrato feito pelo magistrado não constou nos pedidos autorias.
+ ..
+ Nessa mesma linha, relevante registrar que a multa prevista caracteriza-se como abusiva, nos moldes da legislação atinente à matéria, sendo imperativa a declaração de sua nulidade, visando o reequilíbrio contratual. É desvantagem excessiva, uma vez que não prevê a mesma penalidade para o fornecedor de serviços.
+Do excerto acima transcrito, depreende-se que a Corte estadual, com base no exame dos fatos e das provas acostadas aos autos, bem como do contrato celebrado entre as partes, entendeu que a recorrente não cuidou em executar o pacto conforme acordado, concluindo pela abusividade da cláusula contratual que previa a incidência de multa contratual quando rescindido o contrato por decisão unilateral do contratante.
+Diante desse fato, constata-se ser inviável ao Superior Tribunal de Justiça a modificação do posicionamento adotado pela instância ordinária, pois o exame da legalidade da multa contratual, bem como do proveito obtido pelo agravado com a execução do contrato, necessitaria do revolvimento fático-probatório, além da revisão das cláusulas contratuais, devidamente vedados pelas Súmulas 5 e 7/STJ.
+No tocante à análise da divergência jurisprudencial alegada pela recorrente, fica prejudicado o exame do dissídio, pois, em virtude da incidência da Súmula n. 7/STJ, não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
