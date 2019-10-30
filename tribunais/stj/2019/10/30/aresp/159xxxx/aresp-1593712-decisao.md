@@ -1,0 +1,12 @@
+DECISÃO
+
+Trata-se de agravo apresentado por AUTO LOCADORA GOOD LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+AGRAVO DE INSTRUMENTO FALÊNCIA INCIDENTE DE EXIBIÇÃO DE DOCUMENTOS Decisão singular determina a exibição de documentos contábeis, fiscais e societários para verificação de eventual confusão patrimonial com a sociedade falida Pretensão recursal à reforma sob fundamento de nulidade da r. decisão e inexistência de indícios de qualquer confusão patrimonial Descabimento Empresa do mesmo Grupo Econômico da falida, que detém 99% de suas quotas Incidente que se revela necessário à proteção dos interesses da massa subjetiva Ausente nulidade ou fundamento para reforma da decisão Agravo improvido.
+Alega a recorrente violação dos arts. 300, e 489, §1º, 111, ambos do CPC. Assevera, em síntese, que "a Recorrente aduziu que não estavam presentes os requisitos autorizadores para concessão da tutela de urgência de exibição dos documentos elencados pela Recorrida (documentos contábeis, fiscais e societários), eis que ausentes o fumus boni iuris e o periculum in mora" (fl. 153).
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
