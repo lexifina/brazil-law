@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] e OUTROS à decisão de fls. 227/228, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Omite-se a decisão embargada, portanto, sobre a circunstância de que ambas as guias de preparo (tanto GRERJ, para o TJRJ; quanto GRU, para o STJ), já foram certificadas como corretamente pagas pelo Poder Judiciário (cf. fl. 174). (fl. 231).
+ ..
+Omite-se a decisão embargada, portanto, sobre a circunstância de que, na petição de fls. 213/215, foi explicado que a dilação do prazo era necessária para confecção de novo comprovante bancário, a ser apresentado nos autos desse processo. (fl. 232)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, de acordo com a jurisprudência do STJ, "o juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no REsp n. 1.684.240/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/2/2018).
+Quanto à ausência de preparo, cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que os comprovantes de pagamento estão sobrepostos às guias das custas devidas ao Superior Tribunal de Justiça e das custas locais (fl. 171/172), o que as tornam ilegíveis.
+O Superior Tribunal de Justiça consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 05/10/2017).
+Dessa forma, é "firme a jurisprudência desta Corte no sentido de que a juntada de guias de preparo ilegíveis atrai o Enunciado da Súmula 187/STJ, implicando a deserção do recurso especial" (AgInt no AREsp 1039483/PE, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 26/06/2018).
+Outrossim, veja-se que a parte, regularmente intimada, teve a oportunidade de regularizar o preparo e não o fez, limitando-se a requerer dilação de prazo para regularização, o que foi indeferido por ausência de justa causa. Como o recurso não foi devida e oportunamente preparado, incide, na espécie, o disposto na Súmula 187 do STJ, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a oposição do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
