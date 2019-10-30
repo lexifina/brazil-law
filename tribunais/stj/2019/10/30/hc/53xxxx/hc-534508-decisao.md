@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 9004841-02.2018.8.26.0050).
+Consta dos autos que o Juízo da Execução indeferiu a progressão de regime ao paciente por ausência do requisito subjetivo. Interposto agravo em execução, pela defesa, o Tribunal negou provimento ao recurso, em acórdão assim ementado:
+AGRAVO EM EXECUÇÃO Progressão de regime Sentenciado que cumpre pena por crimes gravíssimos Apontamentos constantes do exame criminológico realizado que a ele se revela desfavorável Elementos que se mostram suficientes ao indeferimento do benefício - Ademais, perícia e atestados não vinculam o Magistrado Princípio do livre convencimento motivado - Não preenchimento do requisito subjetivo Recurso desprovido (fl. 50).
+Neste writ, o impetrante requer a concessão da progressão ao regime semiaberto, sob o argumento de que o paciente preenche todos os requisitos exigidos por lei para tal.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 120/121).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, busca-se, na presente impetração, a progressão do paciente ao regime semiaberto.
+Esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto, e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo defensivo, mantendo, portanto, a decisão de primeiro grau que indeferira a benesse em questão, sob os seguintes fundamentos:
+ ..
+O MM. Juízo a quo, contudo, entendeu por bem indeferir o pedido relativo à sua progressão ao regime semiaberto, uma vez que o sentenciado não preenche o requisito subjetivo, registrando a prática de crimes gravíssimos, com longa pena a cumprir, bem como exame criminológico que não foi o bastante para comprovar que se encontra ele, deveras, preparado para a retomada da vida em sociedade.
+Nesse diapasão, não se pode falar que a sentença recorrida apresenta fundamentação inidônea, porquanto pertinentes os motivos pelos quais a douta Magistrada indeferiu o benefício ao reeducando.
+De mais a mais, importante sublinhar que o Magistrado não está vinculado a qualquer laudo; as ponderações dos exames realizados prestam-se, tão somente, a orientar o Juízo, diante de todos os demais elementos de convicção reunidos, podendo ele, pois, nos termos do que preceitua o art.
+182, do CPP, no tocante ao resultado dos laudos produzidos, "aceitá-lo ou rejeitá-lo, no todo ou em parte.", sendo certo que pode o Magistrado utilizar-se dos diversos elementos constantes nos autos para formar sua opinião.
+Isto porque não se pode resumir a atividade jurisdicional como sendo de chancelaria, de modo a ser o Poder Judiciário mero órgão burocrático ratificador de documentos emitidos pela direção da unidade prisional ou mesmo pelos profissionais que elaboram o exame criminológico.
+Vincular o Magistrado a tais documentos é tornar o juiz um mero homologador da atividade administrativa, num claro vilipêndio à jurisdicionalidade da execução da penal e ao princípio do livre convencimento motivado.
+O nosso sistema de valoração das provas é baseado justamente em tal princípio e, neste caso, cabe ao juiz ponderar tanto o deferimento da benesse quanto a segurança da sociedade.
+ ..
+Com isso, o indeferimento da progressão ao regime semiaberto ao sentenciado era mesmo medida de rigor.
+Isso porque, para aferir o requisito subjetivo, o Juiz precisa de elementos que indiquem o merecimento do reeducando, de que está apto para retornar ao convívio social, mormente quando se encontra cumprindo pena pela prática de crimes graves, cometidos com violência ou grave ameaça à pessoa.
+E, a despeito de no atestado de conduta carcerária, eventualmente, constar bom comportamento, não são ali especificadas quais as condutas que foram consideradas boas, bem como o que se espera do sentenciado para o futuro e o quanto ressocializado já está.
+Principalmente em casos como o dos autos, em que o agravante encontra-se em cumprimento de pena por delitos, como já adiantado, praticados com violência ou grave ameaça à pessoa, necessária se faz a análise mais aprofundada no tocante à concessão de qualquer benesse.
+E, nesse aspecto, importante sublinhar que, a despeito da conclusão favorável externada pelo relatório conjunto de avaliação (fls. 65/66), ficou consignado, no estudo psicológico, que o agravante não assume os delitos a ele atribuídos e apresenta recursos razoáveis para tolerar as frustrações impostas pela vida cotidiana (fls. 74). Do mesmo modo, no relatório social, assinalou-se que o ora sentenciado nega a autoria dos delitos e não exerce atividade laborterápica (fls. 75).
+Tais apontamentos, por si sós, evidenciam dúvida quanto ao mérito do sentenciado, o que inviabiliza, como bem observado pela Magistrada de primeiro grau, a concessão do regime intermediário, onde, ainda que por breves períodos, retomaria o convívio em sociedade, sendo certo que, no curso da execução, vigora o princípio "in dubio pro societate"; caso contrário, a vida em sociedade representaria um "laboratório" para testar a recuperação do preso.
+Com efeito, para aferir o requisito subjetivo, o Juiz precisa de elementos que indiquem o merecimento do reeducando, que forneçam a certeza de que aquele interno está apto para retornar ao convívio social, o que não restou evidenciado no caso em comento.
+Diante desse quadro, agiu acertadamente a douta Magistrada ao indeferir o benefício, eis que o sentenciado, deveras, não reúne méritos para retornar ao convívio social.
+Por esses motivos, inviável a concessão da progressão ao regime semiaberto ao sentenciado, por ausência de requisito subjetivo (fls. 52/55).
+Nessas circunstâncias, verifica-se que as instâncias ordinárias lograram fundamentar o indeferimento da progressão de regime em razão da ausência do requisito subjetivo, considerando que o paciente "ainda não está pronto para retornar ao convívio social" (fl. 48).
+Frise-se, ademais, que o Superior Tribunal de Justiça possui entendimento de que "o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/2/2018, DJe 16/2/2018), o que ocorreu na espécie.
+Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+À propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ E SÚMULA VINCULANTE 26/STF. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. HISTÓRICO PRISIONAL. HISTÓRICO CONTURBADO. FALTAS DISCIPLINARES. FUGA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - A modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo para a progressão de regime, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do writ.
+Habeas corpus não conhecido.
+(HC 436.977/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 01/06/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. EXECUÇÃO PENAL. INDEFERIMENTO DE PROGRESSÃO DE REGIME PRISIONAL PELO JUIZ DAS EXECUÇÕES. AUSÊNCIA REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA. ACÓRDÃO DA CORTE ESTADUAL QUE DETERMINA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. ..
+ ..
+- É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido. (HC 300.090/SP, relator o Ministro Ericson Maranho - Desembargador Convocado do TJSP, Sexta Turma, DJe de 28/8/2015)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
