@@ -1,0 +1,10 @@
+Despacho: 1. Por meio da petição protocolizada nesta Corte em 4.10.2019, sob o n. 0061.537/2019, o denunciado Luiz Fernando Machado da Costa Filho requer a disponibilização das gravações de áudio e vídeo das sessões de julgamento da 2ª Turma desta Suprema Corte “dos dias 24/09/2019 (leitura do Relatório, sustentações orais da PGR e das defesas), 01/10/2019 (voto do Exmo. Min. Relator) e da Sessão do próximo dia 08/10/2019”.
+    2. Extrai-se da certidão de julgamento lavrada aos 23.10.2019 que: “A Turma julgou parcialmente procedente a presente ação para: i) absolver, por unanimidade, os denunciados Job Ribeiro Brandão e Luiz Fernando Machado da Costa Filho das imputações lançadas na denúncia, nos termos da fundamentação apresentada; ii) negar provimento, por maioria, ao agravo de Marluce Vieira Lima, vencidos, nessa parte, os Ministros Ricardo Lewandowski e Gilmar Mendes; iii) julgar procedente, em parte, a denúncia, para, por unanimidade, condenar o denunciado Geddel Quadros Vieira Lima como incurso nas sanções do art. 1º, caput, da Lei nº 9.613/98, por 8 vezes, e, por maioria, nas sanções do art. 288, caput, do Código Penal, vencidos, nesse ponto, os Ministros Ricardo Lewandowski e Gilmar Mendes, e condenar, também por unanimidade, o acusado Lúcio Quadros Vieira Lima como incurso nas sanções do art. 1º, caput, da Lei 9.613/98, por 2 vezes, e, por maioria, nas sanções do art. 288, caput, do Código Penal, vencidos, nesse ponto, os Ministros Ricardo Lewandowski e Gilmar Mendes”.
+    Em consonância com o art. 96, § 7º, do RISTF: “O Relator sorteado ou o Relator para o acórdão poderá autorizar, antes da publicação, a divulgação, em texto ou áudio, do teor do julgamento.” Ao lado disso, a própria Constituição da República, no campo dos atos jurisdicionais, prestigia o interesse público à informação (art. 93, IX).
+    3. À luz do exposto, defiro o pedido deduzido pelo requerente, nos termos em que formulado.
+    À Secretaria Judiciária, para as providências necessárias.
+    Publique-se. Intimem-se.
+    Brasília, 30 de outubro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
