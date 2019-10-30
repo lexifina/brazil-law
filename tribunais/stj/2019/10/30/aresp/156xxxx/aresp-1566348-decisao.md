@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por OI S.A. - EM RECUPERACAO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO DIREITO PRIVADO NÃO ESPECIFICADO CONTRATO DE PARTICIPAÇÃO FINANCEIRA LIQUIDAÇÃO DE SENTENÇA AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO UNÂNIME
+Quanto à primeira controvérsia, alega violação do art. 1.022 do CPC.
+Quanto à segunda controvérsia, alega violação do art. 504, I, do CPC, no que concerne à coisa julgada, trazendo o(s) seguinte(s) argumento(s):
+Ora Excelências, a premissa equivocada aplicada no acórdão recorrido é ululante, pois entende ser inaplicáveis as cotações determinadas na sentença, que se trata do título executivo desta demanda, o qual não foi complementado ou modificado por qualquer decisão ulterior, baseando-se em fundamentação de acórdão de apelação o qual não deu provimento ao recurso da ré/recorrente, ou seja, não modificou em absolutamente nada a sentença proferida e não constitui o título executivo desta demanda, não podendo, de forma alguma, fazer a alegada coisa julgada, sob pena de afronta ao art. 504, I, CPC. (fls. 1246/1247).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Quanto à segunda controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
