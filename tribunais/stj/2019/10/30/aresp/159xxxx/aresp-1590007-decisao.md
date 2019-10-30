@@ -1,0 +1,35 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL. ROUBO MAJORADO E LATROCÍNIO TENTADO. SENTENÇA QUE RECONHECE A COOPERAÇÃO DOLOSAMENTE DISTINTA. CONDENAÇÃO POR TRÊS ROUBOS CIRCUNSTANCIADOS, SENDO DOIS TENTADOS. AUTORIA E MATERIALIDADE COMPROVADAS. PALAVRA DAS VITIMAS. TESTEMUNHOS COLHIDOS EM JUÍZO. ÁLIBI NÃO DEMONSTRADO. ABSOLVIÇÃO INVIÁVEL. ARTIGO 29, §2º, DO CÓDIGO PENAL. INAPLICABILIDADE. RECONHECIMENTO DOS CRIMES DE ROUBO MAJORADO E LATROCÍNIO TENTADO, NOS MOLDES DA DENÚNCIA. NECESSIDADE. DOSIMETRIA. CRIME COMETIDO CONTRA IDOSO. INCIDÊNCIA DA AGRAVANTE DO ARTIGO 61, II, H, DO ESTATUTO PENAL. COMPENSAÇÃO COM A ATENUANTE DA MENORIDADE RELATIVA. DELITO DE ROUBO. ACRÉSCIMO DECORRENTE DAS MAJORANTES. AJUSTE NECESSÁRIO. SÚMULA 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ASSISTÊNCIA JUDICIÁRIA GRATUITA CONCEDIDA EM PRIMEIRA INSTÂNCIA. PEDIDO PREJUDICADO.
+- Havendo prova cabal do envolvimento do apelante na empreitada delituosa noticiada na denúncia, consubstanciada na palavra das vitimas, em consonância com testemunhos colhidos em Juízo, inviável a aplicação do princípio "in dublo pro reo" e consequente absolvição.
+- O agente que se associa a terceiro para a prática de roubo à mão armada assume o risco inerente a eventual resultado morte provocado pelo comparsa, sobretudo quando desempenha papel fundamental na empreitada delitiva e possui o pleno domínio dos fatos, inexistindo margem para reconhecimento da participação dolosamente distinta.
+- O agente que comete crime contra pessoa maior de sessenta anos deve ter reconhecida em seu desfavor a agravante do artigo 61, II, h, do Estatuto Repressivo, que pode ser compensada com a atenuante da menoridade relativa. Precedentes do Superior Tribunal de Justiça.
+- O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, com base no aspecto qualitativo das causas de aumento. Inteligência da Súmula 443 do Superior Tribunal de Justiça.
+- Resta prejudicado o pedido de concessão da assistência judiciária gratuita quando tal pretensão restou integralmente acolhida em primeira instância.
+Alega violação dos arts. 157, § 3º, e 14, inciso II, do Código Penal e dos arts. 155 e 239, ambos do Código de Processo Penal, no que concerne à inexistência de provas contundentes e robustas capazes de comprovar a autoria do fato delituoso imputado ao recorrente, trazendo o(s) seguinte(s) argumento(s):
+ É VÁLIDO RESSALTAR QUE O JUIZ PRIMEVO, QUE ESTÁ MAIS PRÓXIMO DA COLHEITA DAS PROVAS, CONDENOU O ASSISTIDO NAS IRAS DO ARTIGO 157, §2º, I E II, C/C ART. 14, II, POR DUAS VEZES, CONFORME SENTENÇA DE FLS. 222/238v, AFIRMANDO:
+ ..  (fls. 479).
+ Observe-se que não há provas contundentes e robustas capazes de comprovar a autoria do fato delituoso imputado ao assistido, uma vez que negou de forma veemente a conduta em todas as ocasiões em que foi ouvido. (fls. 483).
+ O tribunal mineiro se equivocou ao afirmar que restou configurado o crime de latrocínio tentado.
+ O recorrente [NOME] não quis participar de crime de latrocínio, que somente veio a ocorrer em relação ao contexto em que o réu Jilário se encontrava e distante do réu [NOME], sendo conclusivo, até mesmo, que a tentativa de latrocínio tenha ocorrido quando o réu [NOME] já não se encontrava no local dos fatos.
+ Conforme reiteradamente ressaltado pelas testemunhas, o réu [NOME] estava no lado de fora do estabelecimento, aguardando para empreender fuga com o réu Jilário, momento em que foi abordado pelo Delegado de Polícia e conseguiu fugir.
+ Sendo assim, a decisão ao entender da defesa, viola o disposto nos artigos 155 e 239 do CPP, na medida em que a condenação foi fundamentada em presunções e não em provas.
+ A legislação processual impede a condenação baseada em presunções. A fim de garantir que a condenação seja baseada em provas concretas e não em meras suposições. (fls. 486).
+É o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Analisando os argumentos recursais à luz dos elementos de convicção carreados para os autos, me convenci de que a pretensão absolutória formulada pelo réu não merece vingar, data venha.
+A materialidade está positivada nos documentos de fls. 24/25 e 113, termo de restituição (fl. 62), laudos periciais de eficiência e prestabilidade de arma de fogo e munições (fis. 35/36 e 85/86) e laudo de levantamento pericial em local de roubo (fls. 92/97), sem prejuízo da prova oral colhida, por meio dos quais resultou devidamente comprovada a existência material dos delitos em apreço.
+A autoria é certa, não obstante a negativa de W.F.S, que rechaçou envolvimento na empreitada criminosa, dizendo que no dia e hora do evento delituoso estava na casa de sua namorada, onde chegou a pernoitar. O apelante enfatizou que os familiares dela também estavam no local e pontuou que, além de não saber conduzir motocicletas, sequer mantinha contato com J.L.Q.S (fl. 189).
+Além de não ter comprovado o álibi, forçoso admitir que W.F.S foi reconhecido pela vítima M.V.M.C.0 e pela testemunha [NOME] como sendo um dos assaltantes.
+ ..
+Vale frisar que a vítima e a testemunha efetuaram o reconhecimento de W.F.S na fase judicial, em audiência na qual ele estava assistido pela Defensoria Pública. Assim, se havia alguma suspeita de irregularidade formal ocorrida no inquérito, ela restou sanada em Juízo.
+De qualquer modo, o reconhecimento não está isolado nos autos e encontra ressonância em outros elementos de prova.
+ ..
+Comprovadas, pois, a autoria, materialidade e tipicidade dos delitos, ausentes causas excludentes de ilicitude ou de culpabilidade, impõe-se a condenação de W.F.S nas iras do artigo 157, §2º, I e II, e artigo 157, §3º, in fine, cic o artigo 14, II, na forma do artigo 69, todos do Código Penal.. (arts. 462/465
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
