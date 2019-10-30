@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo apresentado por TALITA MACEDO ROCHA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - DECLARATÓRIA DE QUITAÇÃO CIC INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - PROVA PERICIAL DESNECESSÁRIA - ENCARGOS MORATÓRIOS MAJORANDO A DÍVIDA.
+Sendo possível resolução do mérito mediante análise de documentos, sem necessidade de conhecimento especial técnico ou científico, o indeferimento de perícia não caracteriza cerceamento de direito a produção de provas. Não havendo integral pagamento na data de vencimento, é permitida a cobrança de encargos moratórios, tornando-se insuficiente para a quitação posterior pagamento do valor inicial remanescente.
+Quanto à controvérsia apresentada nos autos, pela alínea "a" e alínea "c" do permissivo constitucional, alega violação do art. 369 do CPC, trazendo o(s) seguinte(s) argumento(s):
+Como acima mencionado, o art. 369 do CPC garante as partes do processo o direito utilizar todos os meios legais e moralmente legítimos para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz. A prova pericial requerida pela parte autora, ora recorrente, a qual foi indeferida, relacionava-se diretamente com os fatos controvertidos nos autos, ou seja, era destinada a comprovar a existência de pagamentos suficientes para quitação ou não dos contratos firmados com a parte ré.
+ .. .
+Ora, não obstante a recorrente tenha requerido a produção da prova pericial, a mesma não foi produzida (fls. 257/258).
+É o relatório. Decido.
+No que concerne à alegada controvérsia, pela alínea "a", o Tribunal de origem se manifestou nos seguintes termos:
+A preliminar de cerceamento de provas não se sustenta.
+Ao Juiz incumbe "velar pela duração razoável do processo" (artigo 139, inc. II, do CPC), determinando a produção apenas das provas que forem "necessárias" (artigo 370, caput, do CPC). Assim, indeferimento de provas "inúteis" (artigo 370, parágrafo único, do CPC) e julgamento antecipado da lide quando "não houver necessidade de produção de outras provas" (artigo 355, indiso 1, do CPC) são de rigor.
+Nesse mesmo passo, tem-se que dispendiosa e morosa realização de perícia somente se justifica quando "a prova do fato depender de conhecimento técnico ou científico" (artigo 156 do CPC).
+ .. .
+Naespécie,a controvérsia gira em torno do pagamento de três empréstimos mediante descontos em conta bancária, o que pode ser verificado mediante simples análise dos Contratos, demonstrativos e extratos acostados aos autos, tornando-se desnecessária a prova pericial (artigo 464, § 1 1 , incisos 1 e II, do CPC) (fls. 244/245).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ademais, verifica-se, quanto à alínea "c", que não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
