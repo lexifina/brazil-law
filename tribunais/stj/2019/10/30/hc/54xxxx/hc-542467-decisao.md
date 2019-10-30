@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LINDOLFO FERREIRA LIMA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Colhe-se dos autos que o paciente foi condenado à pena privativa de liberdade de 14 (quatorze) anos de reclusão, por incurso no art. 121, § 2º, IV, do Código Penal e, com o trânsito em julgado da sentença, expediu-se mandado de prisão, o qual foi cumprido.
+Neste writ, os impetrantes sustentam, em síntese, que: a) "há nulidade desde a intimação do retorno das cartas precatórias" (e-STJ, fl. 7); b) a Defensoria Pública, que passou a atuar no caso, não foi pessoalmente intimada acerca da prolação da sentença de pronúncia, de modo que não foi dada a ela a oportunidade de interposição de recurso em sentido estrito; c) "a prisão do paciente para início do cumprimento da pena após o trânsito em julgado da sentença condenatória exarado no plenário do Júri também é nula de pleno direito" (e-STJ, fl. 11); d) embora esta Corte Superior tenha jurisprudência no sentido da concessão da "ordem de ofício para que a Autoridade Coatora exerça cognição sobre o mérito do habeas corpus" originário, o Tribunal a quo, no caso em apreço, "analisou" as questões postas naquele writ ao afirmar que "não restou constatada a existência de manifesto constrangimento ilegal ao paciente de modo a possibilitar o exame da questão posta no âmbito de Habeas Corpus" (e-STJ, fls. 22-23).
+Pleiteiam a anulação de todos os atos processuais desde a intimação do retorno da carta precatória para o interrogatório do paciente ou, subsidiariamente, desde o momento em que deveria ter havido a intimação pessoal da Defensoria Pública acerca da prolação da sentença de pronúncia. Com isso, requerem, também, a expedição de alvará de soltura, ainda que mediante a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+A concessão de liminar em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, ilegalidade no ato judicial impugnado.
+Na espécie, sem qualquer adiantamento do mérito da demanda, não vislumbro, ao menos neste instante, a presença de pressuposto autorizativo da concessão da tutela de urgência pretendida.
+Assim, indefiro o pedido de liminar.
+Solicitem-se informações à autoridade apontada como coatora, a serem prestadas por malote digital, preferencialmente.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se. Intimem-se.
