@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAYANE CRISTINA RICCI e FERNANDA GOMES CHICARONI, fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 359/360:
+Trata-se de recurso especial interposto por DAYANE CRISTINA RICCI e FERNANDA GOMES CHICARONI (fls. 327/337), com fulcro no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão proferido pela 13ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (fls. 311/315), que negou provimento à apelação da defesa.
+Alegam as recorrente dissídio jurisprudencial e violação ao art. 155, § 2º, do Código Penal, ao argumento de que "a norma aduz, expressamente, que, se o criminoso é primário e a coisa subtraída é de pequeno valor, o juiz deve substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços ou aplicar somente a pena de multa. Tem-se que o valor do salário mínimo em 2015 era R$ 788,00 (setecentos e oitenta e oito reais), e o valor dos objetos furtados restou, de forma evidente, abaixo de tal valor, não havendo que se falar em não preenchimento dos requisitos previstos no tipo penal" (fl. 330).
+Requer o provimento do recurso, "a fim de ser aplicada a regra do furto privilegiado às recorrentes, por ser evidente o pequeno valor da coisa subtraída na hipótese, aplicando-se apenas a pena de multa, ou, subsidiariamente, para reduzir a pena destas em até 2/3" (fl. 337).
+Contrarrazões às fls. 342/346. (Grifei)
+Ao final do parecer, o Ministério Público Federal manifestou-se pelo parcial provimento do recurso.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+O Tribunal de origem deixou de reconhecer a figura do furto privilegiado com apoio nestas razões (e-STJ fl. 315):
+Não se mostra cabível o reconhecimento do privilégio previsto no § 2º do artigo 155 do C.P.. Nesse prisma, bem salientou o Digno Representante da Procuradoria Geral de Justiça, à fl. 296: "É que não se pode dizer que a soma dos produtos subtraídos que as apelantes efetivamente subtraíram seja de pequeno valor (R$ 578,98, cf. f. 11), sobretudo num pais como o Brasil, em que há pessoas que se mantêm durante todo o mês com a quantia de um salário mínimo. Desse modo, diante da nossa realidade socioeconômica, a expressão pequeno valor deve ser interpretada com cautela, sob pena de se desvirtuar a benesse. Ademais, a título de observação, os bens subtraídos não foram recuperados pela ofendida. (Grifei)
+Ao decidir nesses termos, a Corte de origem contrariou a firme jurisprudência desta Casa Superior de Justiça, segundo a qual, "no que se refere à figura do furto privilegiado, o art. 155, § 2º, do Código Penal impõe a aplicação do benefício penal na hipótese de adimplemento dos requisitos legais da primariedade e do pequeno valor do bem furtado, assim considerado aquele inferior ao salário mínimo ao tempo do fato, tratando-se, pois, de direito subjetivo do réu. Considerando se tratar de réu tecnicamente primário, condenado pelo furto de bem de pequeno valor, deve ser reconhecido o privilégio" (HC n. 495.846/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 4/6/2019, DJe de 11/6/2019, grifei).
+Ainda nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO PELO CONCURSO DE PESSOAS. PLEITO DE APLICAÇÃO DO FURTO PRIVILEGIADO (ART. 155, § 2º, DO CP). PRIMARIEDADE DO AGENTE. VALOR DA RES FURTIVA INFERIOR AO SALÁRIO-MÍNIMO VIGENTE AO TEMPO DO FATO. QUALIFICADORA OBJETIVA. SÚMULA 511/STJ. REQUISITOS NECESSÁRIOS PREENCHIDOS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+II - O art. 155, § 2º, do CP condiciona a aplicação da forma privilegiada à satisfação simultânea de duas condições: (a) a primariedade do agente, condição de ordem subjetiva; e (b) o pequeno valor da res furtiva, condição de ordem objetiva.
+ ..
+IV - Cuida-se, no presente caso, de crime de furto qualificado pelo concurso de pessoas (art. 155, § 4º, IV) de produtos diversos comercializados por uma unidade de rede de supermercados avaliados no valor total de R$ 200,00 (duzentos reais).
+V - Com efeito, a coisa subtraída de pequeno valor entende este Superior Tribunal de Justiça ser aquela que não ultrapassa o equivalente a um salário-mínimo vigente ao tempo do fato. Precedentes.
+VI - Consoante o atual entendimento desta Corte Superior de Justiça, a teor do enunciado da Súmula 511/STJ, é possível o reconhecimento do furto privilegiado-qualificado quando presentes a primariedade do acusado, o pequeno valor da res furtiva e qualificadora de natureza objetiva.
+ ..
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer o furto privilegiado e determinar, por conseguinte, que o eg. Tribunal de origem refaça a dosimetria da pena, aplicando, como entender de direito, as medidas previstas no art. 155, § 2º, do CP. (HC 464.005/ES, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018, grifei.)
+No caso, é certo que as recorrentes são primárias e que o bem furtado foi avaliado em R$ 578,98 (quinhentos e setenta e oito reais e noventa e oito centavos) - e-STJ fl. 93 -, aquém, portanto, do salário mínimo vigente à época do fato delitivo, R$ 788,00 (setecentos e oitenta e oito reais).
+Portanto, a figura do furto privilegiado deve ser aplicada às recorrentes.
+Ante o exposto, dou provimento ao recurso especial para reconhecer a incidência do furto privilegiado e determinar, por conseguinte, que o Tribunal de origem refaça a particularização da pena, aplicando as medidas previstas no art. 155, § 2º, do Código Penal.
+Publique-se. Intimem-se.
