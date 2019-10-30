@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado (fl. 679):
+Receptação e adulteração de sinal identificador de veículo - Recurso defensivo pleiteando a absolvição por insuficiência probatória e, subsidiariamente, a desclassificação para o crime de receptação culposa, a fixação da pena no mínimo legal e a substituição da pena privativa de liberdade por restritiva de direitos - Provas francamente incriminadoras - Dolo inquestionável - Ausência de explicação plausível para a posse do veículo subtraído - Inversão do ônus da prova - Laudo pericial comprovando a substituição das placas e a adulteração da numeração do chassis - Procedimento que só ao réu aproveitaria - Penas criteriosamente dosadas - Réu portador de maus antecedentes e reincidente Majoração da pena base e incidência de um novo aumento na segunda fase - Inviabilidade de substituição da pena corporal - Réu reincidente específico - Ausência de recurso ministerial quanto ao regime prisional - Negado provimento.
+Consta dos autos que o paciente foi condenado, como incurso nos arts. 180 e 311 do Código Penal, à pena de 5 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 24 dias-multa.
+Interposto recurso de apelação pela defesa, o Tribunal de origem negou-lhe provimento.
+Daí o presente writ, em que o impetrante objetiva, liminarmente, a imediata suspensão do cumprimento do mandado de prisão expedido contra o paciente. No mérito, busca a aplicação do princípio da consunção e a absolvição do paciente quanto ao crime previsto no art. 311 do CP, com o respectivo desconto da pena aplicada, fixando-se, por conseguinte, o regime inicial aberto.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela inadmissibilidade do habeas corpus e, se admitido, pela concessão da ordem.
+É o relatório.
+DECIDO.
+Pretende o impetrante a aplicação do princípio da consunção e a absolvição do paciente quanto ao crime previsto no art. 311 do CP, com o consequente desconto da pena aplicada e a fixação, por conseguinte, do regime inicial aberto.
+Consta da sentença (fls. 15/16):
+Assim, de acordo com a prova documental e oral colhida, o acusado praticou os crimes de receptação e de adulteração de sinal identificador de veículo automotor. Durante o interrogatório na fase inquisitiva, afirmou que adquiriu o veículo de [NOME] no início de 2014, quem conheceu na cidade de Ibitinga. Entretanto, [NOME] faleceu em 26 de novembro de 2006. Acresce que o acusado não possuía o CRV (Certificado de Registro de Veículo), assinado pelo vendedor.
+Outrossim, o bem subtraído foi encontrado em poder do acusado, com sinal identificador adulterado, sem nenhuma explicação plausível.
+Diante o exposto, condeno [NOME] pela prática dos crimes previstos nos artigos 180 e 311, todos do Código Penal.
+Assim se manifestou o Tribunal local sobre a aplicação do princípio da consunção (fls. 683/685):
+De outra banda, a versão apresentada pelo réu, de que adquiriu o veículo de terceiro; que não sabia que se tratava de produto de furto; que não adulterou o chassis; que pagou por ele a quantia de R$ 23.000,00; além de isolada, não convenceu.
+O réu não se desincumbiu do ônus que provar o que alegou, apresentando em sua defesa versão pouco crível e desprovida de amparo probatório.
+O dolo é inquestionável. O apelante estava na posse do veículo descrito na denúncia, produto de furto, conforme declarações prestadas pela testemunha Reinaldo e boletim de ocorrência de fls. 90/91, não conseguindo dar explicação plausível a esse respeito, o que leva a crer que tinha ciência de sua origem ilícita.
+Veja-se que, na fase inquisitiva, alegou ter adquirido o veículo de [NOME] no início de 2014 (fls. 26), mas há notícia de falecimento dessa pessoa no ano de 2006 (fls. 172 e 189).
+Ainda, o réu não possuía o CRV (Certificado de Registro de Veículo) assinado pelo vendedor e, quanto ao CRLV apreendido - em nome da verdadeira proprietária do Citroen C3, placas EGG 9530 -, foi constatado que seu espelho é produto de furto ocorrido em 02.09.2013 na cidade de Amparo (fls. 209 e 213/214).
+Mas não é só. O réu até indicou os números de telefone através dos quais mantinha contato com a pessoa de [NOME], mas nenhum deles era de sua titularidade. Um dos números está cadastrado em nome de [NOME], que alegou não conhecer o réu e nem a pessoa de [NOME] (fls. 205/206). Já a outra linha não tinha cadastro, estando apenas pré-ativa (fls. 148).
+Frise-se que a prova do dolo deve resultar da análise das circunstâncias que envolvem o fato, haja vista ser impossível a prova direta de que o receptador tinha ciência da ilicitude de sua conduta no momento do recebimento, aquisição ou ocultação da coisa.
+Vale ressaltar, ainda, que a apreensão da res em poder do apelante inverte o ônus da prova.
+ ..
+De tudo isso, mostra-se inviável a tese da absolvição.
+O crime de receptação está bem tipificado e comprovado, não havendo se falar em desclassificação para a forma culposa.
+Também restou bem configurado o crime de adulteração de sinal identificador de veículo automotor.
+De acordo com o laudo pericial de fls. 64/72, o chassis do veículo era compatível com o Citroen C3, de placas [PLACA] Rio Claro/SP, não correspondendo, portanto, ao veículo de placas EGG- 9530 Botucatu, encontrado com o acusado. O laudo de fls. 120/122, por sua vez, atestou que a numeração do chassis não é original, estando adulterada.
+Registre-se que esse procedimento somente ao réu aproveitaria, pelo que a lógica nos conduz à certeza de que o réu adquiriu o veículo produto de furto e, a fim de utilizá-lo como se lícito fosse, procedeu à remarcação do chassis e à substituição das placas, adulterando, assim, sinal identificador de veículo automotor.
+Como se vê, as instâncias de origem, a quem cabe a análise das questões fático-probatórias dos autos, assentaram que os crimes de receptação e adulteração de sinal identificador de veículo automotor restaram bem configurados, destacando a Corte local que o réu adquiriu o veículo produto de furto e, a fim de utilizá-lo como se lícito fosse, procedeu à remarcação do chassis e à substituição das placas, adulterando, assim, sinal identificador de veículo automotor.
+Entendido devidamente comprovada a autoria e a materialidade dos delitos de receptação e adulteração de sinal identificador de veículo automotor, não há falar em absorção de um delito pelo outro. Nesse contexto, chegar-se a conclusão diversa demandaria o reexame de todo o conjunto fático-probatório, o que é sabidamente incabível na via do habeas corpus. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA PARA USUÁRIO (ART. 28, LAD). INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DA VIA ELEITA. DOSIMETRIA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS. DESCABIMENTO. MAUS ANTECEDENTES CONFIGURADOS. AUSÊNCIA DE REQUISITOS. READEQUAÇÃO DO REGIME INICIAL. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA SUPERIOR A 4 ANOS. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. PREJUDICADO. REPRIMENDA MANTIDA ACIMA DE 4 ANOS. DETRAÇÃO. JUÍZO DA EXECUÇÃO PENAL. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja recomendável a concessão da ordem de ofício.
+II - Segundo a jurisprudência consolidada desta Corte, o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso.
+III - Afastar a condenação ou mesmo desclassificar a conduta, em razão do depoimento dos agentes, demandaria o exame aprofundado de todo conjunto probatório, como forma de desconstituir a conclusão feita pelas instâncias ordinárias, soberano na análise dos fatos, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória.
+ ..
+Habeas corpus não conhecido.
+(HC 464.064/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/09/2018, DJe 26/09/2018).
+Por fim, a pretensão de desconto da pena aplicada com a fixação do regime inicial aberto resta prejudicada com o afastamento da tese de consunção.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
