@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAIS MILITARES INATIVOS. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULAS 283 E 284/STF.
+1. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+2. Incide a Súmula 284/STF quando o dispositivo indicado como violado não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido, bem como quando as razões recursais encontram-se dissociadas de tais fundamentos. Precedentes.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fls. 593-594):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. POLICIAIS MILITARES INATIVOS. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELA IMPETRAÇÃO DO WRIT. PRECEDENTES. LEGITIMIDADE ATIVA DO ASSOCIADO. DESNECESSIDADE DE AUTORIZAÇÃO EXPRESSA OU COMPROVAÇÃO DA FILIAÇÃO À ASSOCIAÇÃO. ACÓRDÃO A QUO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULAS 283 E 284/STF. VIOLAÇÃO DO ART. 1º-F COM A REDAÇÃO DADA PELA LEI 11.960/2009. CORREÇÃO MONETÁRIA. IPCA-E. RESP 1.495.144/RS E RE 870.947/SE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante alega que teria impugnado todos os fundamentos do acórdão recorrido, em especial, no que se refere a desnecessidade de suspensão do feito até o trânsito em julgado do mandado de segurança, tendo contra o referido fundamento indicado violação ao art. 2º-B da Lei 9.494/1997 (fls. 603-604) (grifo nosso):
+No que tange às razões expostas pelo AGRAVANTE quanto à impossibilidade de execução provisória de sentença, a teor do art. 2ºB da Lei 9494/97, entendeu o i. Ministro Relator que "as recorrentes não impugnaram especificamente a referida fundamentação que, por si só, mantém o resultado do julgamento ocorrido na Corte de origem, o que caracteriza deficiência na argumentação recursal e implica a inadmissão do apelo, por força da aplicação analógica das Súmulas 283 e 284/STF." Sucede que, diante da expressa proibição legal contida no art. 2ºB da Lei 9494/97, não subsiste nenhuma das premissas assentadas no acórdão estadual para afastar a pretensão do ENTE PÚBLICO de suspender o trâmite do feito até o desate definitivo do writ. Eis o teor do apontado dispositivo legal:
+ ..
+É a literalidade do art. 2ºB da Lei 9494/97, transcrito nas razões recursos, cujos termos obstam a liberação de recurso público antes do trânsito em julgado da sentença, o fundamento legal que sustenta o pedido de sobrestamento do feito, de modo que constitui manifesto contrassenso jurídico descumprir o comando normativo, que se afigura taxativo quanto à impossibilidade de cumprimento antecipado de obrigação de pagar, para admitir a execução precária e antecipada da sentença com base em fundamentos extrajurídicos que não encontram amparo legal.
+Assim, forçoso concluir que o ENTE PÚBLICO, ao apresentar o fundamento legal que determina o sobrestamento do feito constante do art. 2ºB da Lei 9494/97, rechaçou, de uma só tacada, todos os argumentos lançados no acórdão estadual contrários ao mencionado permissivo, razão pela qual merece reforma a decisão que negou provimento ao pleito recursal com supedâneo nas Súmulas 283 e 284 do STF.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAIS MILITARES INATIVOS. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULAS 283 E 284/STF.
+1. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+2. Incide a Súmula 284/STF quando o dispositivo indicado como violado não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido, bem como quando as razões recursais encontram-se dissociadas de tais fundamentos. Precedentes.
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, consoante assentado no decisum agravado, a Corte de origem entendeu que a ausência de trânsito em julgado do mandado de segurança coletivo não constitui óbice ao prosseguimento da presente demanda, pois "a conclusão da ação coletiva não vincula o juízo desta causa, devendo haver nova incursão no pedido e na causa de pedir" (fl. 600).
+Esse fundamento é suficiente à manutenção do julgado quanto ao ponto. Não tendo sido infirmado pelo ora agravante, nas razões do apelo especial, incide o teor da Súmula 283/STF.
+Por outro lado, no que se refere a indicação de violação ao art. 2º-B da Lei 9.494/1997, observa-se que as razões recusais estão dissociadas do fundamento adotado pelo acórdão recorrido, pois não se trata in casu de execução de sentença.
+Nesse sentido, o teor do referido dispositivo:
+Art. 2º-B. A sentença que tenha por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do Distrito Federal e dos Municípios, inclusive de suas autarquias e fundações, somente poderá ser executada após seu trânsito em julgado.
+Dessa feita, mantida também a aplicação do teor da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido, os seguintes julgados (grifo nosso):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO.SÚMULA 282 DO STF. IRRESIGNAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não enfrentada no acórdão recorrido a ofensa ao dispositivo legal tido por violado (art. 8º, III, da Lei n. 6.830/1980), carece o apelo nobre do indispensável prequestionamento, a teor do disposto na Súmula 282 do STF.
+3. A deficiência das razões recursais, porquanto dissociadas do que foi efetivamente decidido pelo acórdão recorrido, enseja o não conhecimento do apelo especial, nos termos da Súmula 284 do STF.
+4. A revisão do julgado estadual sob a alegação de que a citação editalícia ocorrera dentro do prazo prescricional pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno não provido. (AgInt no AREsp 910.286/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 21/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. RAZÕES RECURSAIS DISSOCIADAS DO ARESTO DO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. POSSIBILIDADE. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA. DESPROPORCIONALIDADE CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, ou quando as razões recursais encontram-se dissociadas dos fundamentos utilizados pela Corte de origem, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n.
+283 do Supremo Tribunal Federal.
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - Este Tribunal Superior aplica, em regra, a Súmula n. 7/STJ aos recursos que objetivam a revisão da verba honorária. Excetuadas, contudo, as hipóteses em que o quantum arbitrado revela-se irrisório ou exorbitante. Desproporcionalidade caracterizada.
+VI - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VII - Agravo Interno improvido. (AgInt no REsp 1.358.523/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 3/6/2016)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
