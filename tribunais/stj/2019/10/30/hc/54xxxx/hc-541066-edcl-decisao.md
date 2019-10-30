@@ -1,0 +1,37 @@
+DECISÃO
+ Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática desta relatoria que indeferiu liminarmente o habeas corpus por incidência da Súmula n. 691 do Supremo Tribunal Federal.
+Em suas razões, o embargante informa que, "no dia 15 de outubro de 2019, houve julgamento pelo colegiado catarinense" (e-STJ fl. 237) do writ originariamente impetrado, cuja acórdão junta nesta data.
+Justifica que não o fez quando da apresentação da petição inicial "por entender que, em se tratando de processo eletrônico, o Habeas Corpus impetrado no Tribunal de Justiça de Santa Catarina seria apreciado" (e-STJ fl. 239).
+Informa, ainda, que pedido de revogação da sua prisão processual apresentado pelo Parquet estadual foi indeferido pelo Juízo processante, o que configura flagrante constrangimento ilegal, mormente diante do excesso de prazo para o oferecimento da denúncia.
+Por isso, requer o acolhimento dos aclaratórios para, reconsiderando a decisão impugnada, seja relaxada a prisão preventiva decretada em seu desfavor.
+É o relatório.
+Inicialmente, verifica-se que a decisão combatida foi publicada em 24/10/2019 (e-STJ fl. 236) e que os embargos foram opostos na mesma data (e-STJ fl. 237), pelo que se constata a sua tempestividade.
+Por outro prisma, o art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Da análise da decisão combatida, conclui-se que não há nenhum defeito a ser sanado, uma vez que esta relatoria justificou adequadamente as razões pelas quais indeferiu liminarmente o habeas corpus.
+De fato, consoante destacado no provimento judicial impugnado, o writ não foi instruído com documento imprescindível ao exame da a real situação do então paciente.
+ Cumpre destacar que a defesa deve zelar pela correta formação do caderno processual que será apresentado à apreciação judicial, em respeito ao princípio dispositivo que vige no ordenamento jurídico pátrio, resguardando-se, assim, a necessária imparcialidade do órgão julgador.
+Como se sabe, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu o impetrante, profissional da advocacia, circunstância que impede o seu processamento.
+Nessa direção orienta-se a jurisprudência pacífica desta Corte Superior de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. FALTA DE PROVA PRÉ-CONSTITUÍDA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Na hipótese, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos, sem a juntada de documentação que comprove a data efetiva da concessão do benefício, bem como se houve o seu cumprimento, o que impossibilita o exame do constrangimento ilegal alegado.
+III - Como é cediço, o rito de habeas corpus demanda prova pré-constituída, apta a comprovar a ilegalidade aduzida, descabendo conhecer de impetração mal instruída, sem as informações essenciais para o deslinde da controvérsia. Precedentes.
+Agravo regimental desprovido.
+201901771865
+(AgRg no HC 509.183/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+Quanto ao ponto, é necessário esclarecer, ainda, que a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROVA PRÉ-CONSTITUÍDA. DOCUMENTOS IMPRESCINDÍVEIS PARA A ANÁLISE DAS AVENTADAS ILEGALIDADES. INSTRUÇÃO DEFICITÁRIA. EXAME DAS QUESTÕES DE OFÍCIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM. ECONOMIA PROCESSUAL. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. O rito célere do habeas corpus pressupõe prova pré-constituída do direito alegado, incumbindo ao impetrante o dever de instruí-lo corretamente, com todos os documentos necessários à análise das teses trazidas a julgamento, posto que a via estreita da ação mandamental não comporta dilação probatória, não havendo que se falar em intimar o impetrante para apresentar as peças faltantes.
+Este aspecto foi muito bem pontuado pelo acórdão do Tribunal de origem, pelo que não merece qualquer reparo a decisão liminar proferida no ponto.
+2. O exame das teses defensivas ventiladas tampouco pode ser realizado diretamente por esta Corte, sob pena de incorrer em indevida supressão de instância e em patente desprestígio às instâncias ordinárias, as quais não analisaram o mérito da impetração, justamente pela falta de instrução do writ na origem.
+3. No entanto, em atenção ao princípio da razoável duração do processo e da economia processual, estando o writ suficientemente instruído nesta instância, entendo ser possível a remessa dos autos à Corte estadual, para que analise as questões apresentadas.
+4. Agravo regimental parcialmente provido apenas para determinar a remessa dos autos ao TJ/ES para o exame do pleito defensivo.
+(AgRg no HC 513.060/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/06/2019, DJe 28/06/2019)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA E CRIME HEDIONDO CONTRA A SAÚDE PÚBLICA. REVOGAÇÃO DA PRISÃO. AUSÊNCIA DE DOCUMENTOS NECESSÁRIOS PARA EXAME DAS TESES. RISCO DE EVENTUAL SUPRESSÃO DE INSTÂNCIA. WRIT LIMINARMENTE INDEFERIDO. JUNTADA POSTERIOR DE DOCUMENTOS. IMPOSSIBILIDADE. RITO PROCESSUAL QUE NÃO COMPORTA FASE PROBATÓRIA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. NOVOS FUNDAMENTOS. PREJUDICIALIDADE. AGRAVO DESPROVIDO.
+1. "É ônus do impetrante, especialmente quando se trata de profissional da advocacia, instruir corretamente o habeas corpus com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de documentos imprescindíveis à análise do pedido e que não foram anexados tempestivamente pela defesa. Precedentes" (AgRg nos EDcl no HC 322.670/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 13/11/2015).
+2. A discussão posta acerca do decreto de prisão preventiva do ora agravante encontra-se superada, pois, configurando a sentença um novo título, necessária a prévia submissão da matéria ao Tribunal a quo, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.
+(AgInt no HC 371.844/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/04/2019, DJe 08/04/2019)
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se e intime-se.
