@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO DO BANCO BRASIL S.A. NÃO CONHECIDO.
+DECISÃO
+Cuida-se de agravo interposto por Banco do Brasil S.A. contra decisão que negou seguimento ao recurso especial, aviado, por sua vez, com amparo na alínea a do permissivo constitucional, contra acórdão proferido pela Vigésima Quarta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fls. 316-317):
+APELAÇÃO CÍVEL. REGIME DE EXCEÇÃO. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL.
+1. REVELIA. Efeito material. Presunção juris tantum. Elementos fático-probatórios que não podem ser desconsiderados diante da presunção de veracidade dos fatos alegados.
+2. APLICAÇÃO DO CDC. Pedido concedido na origem. Ausência de interesse recursal. Apelo não conhecido no ponto.
+3. JUROS REMUNERATÓRIOS. A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade. Súmula nº 382/STJ.
+Quanto aos contratos objetos da revisão, levando em consideração a tabela do Bacen para as operações da espécie, constata-se que as taxas contratadas não apresentam significativa discrepância com a taxa média, motivo pelo qual não há razões para sua limitação.
+4. CAPITALIZAÇÃO DE JUROS. Admite-se a capitalização de juros com periodicidade inferior à anual em contratos celebrados após 31/03/2000 e desde que expressamente pactuada, conforme art. 5º da Medida Provisória nº 1.963-22/2000 (atualmente, reeditada pela Medida Provisória nº 2.170-36/2001), cuja constitucionalidade foi reconhecida pelo Supremo Tribunal Federal no recente julgamento do RE nº 592.377/RS, sob o rito do art. 543B do CPC/73 (Tema 33 da repercussão geral). Verificadas taxas de juros anuais superiores ao duodécuplo das mensais, nos termos do Resp nº 973827/RS, entende-se como contratada a capitalização mensal dos juros, como na hipótese.
+5. COMISSÃO DE PERMANÊNCIA. Licitude da cobrança, sendo vedada, entretanto, a cumulação com correção monetária, juros remuneratórios, juros moratórios e multa, durante o período de inadimplemento contratual.
+6. DESCARACTERIZAÇÃO DA MORA. No caso dos autos não foi constatada abusividade na cobrança dos encargos no período da normalidade, pelo que resta configurada a mora.
+7. CADASTROS DE INADIMPLENTES. Inalterados quaisquer encargos da normalidade, mantida a caracterização da mora, resta permitida a inscrição do nome da devedora nos cadastros restritivos de créditos.
+8. DESCONTO EM CONTA CORRENTE. A cláusula contratual que autoriza o desconto de valores em conta corrente é licita. Porém, o reconhecimento de abusividade implica a necessidade de imediato recálculo do débito e adequação dos descontos conforme os parâmetros definidos no julgado.
+9. COMPENSAÇÃO DE VALORES E REPETIÇÃO DE INDÉBITO. In casu, tendo ocorrido a revisão parcial do contrato, é viável juridicamente, tanto a compensação, quanto a repetição do indébito na forma simples.
+APELAÇÃO PARCIALMENTE CONHECIDA E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDA.
+O apelo excepcional foi inadmitido pela Terceira Vice-Presidência do TJRS ao argumento de que não cabe, em recurso especial, a análise de suposta violação de dispositivos constitucionais, que o art. 6º da Lei de Introdução às Normas do Direito Brasileiro ostenta natureza eminentemente constitucional, assim como por incidirem as Súmulas n. 284 do STF e n. 518 do STJ.
+Apresentado agravo, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso, justificando, tese a tese, o cabimento do apelo especial, sob pena de incidência do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4º, I, do CPC/1973).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido. (AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/05/2016, DJe 27/05/2016)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA ANTECIPADA DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA LAVRA DESTE SIGNATÁRIO QUE CONHECEU EM PARTE DO AGRAVO (APENAS NO TOCANTE À ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA) PARA NEGAR-LHE PROVIMENTO, APLICANDO, NO MAIS, O ÓBICE DA SÚMULA 182/STJ. IRRESIGNAÇÃO DO RÉU.
+1. Conforme a jurisprudência firmada no âmbito do Superior Tribunal de Justiça, é possível a incursão no mérito da lide pelo Tribunal local, em sede de juízo de admissibilidade, quando necessária para análise dos pressupostos constitucionais de admissibilidade do recurso especial, sem que isso configure usurpação de competência, nos termos do enunciado n. 123 da Súmula deste STJ. Precedentes.
+2. É cediço que a ausência de impugnação específica aos fundamentos da decisão que nega seguimento ao recurso especial atrai a incidência do art. 544, § 4º, I, do CPC/1973 (atual 932, III, do NCPC), e a aplicação, por analogia, do enunciado n. 182 da Súmula deste STJ. Precedentes.
+3. Não é cabível, em agravo regimental, valer-se a parte agravante de razões não assentadas no agravo em recurso especial, com o extemporâneo propósito de demonstrar não ser aplicável o óbice que motivou a incidência do enunciado n. 182 da Súmula deste STJ. Precedentes.
+4. Agravo regimental desprovido. (AgRg no AREsp 773.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/05/2016, DJe 17/05/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. AÇÃO DE COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SÚMULA 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada; é necessário que a contestação seja específica e suficientemente demonstrada.
+(..) Agravo regimental não conhecido (STJ, AgRg no AREsp 327.657/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 1º/08/2013)
+No caso, verifica-se que a instituição financeira não atendeu a esse requisito, limitando-se a aduzir a existência de afronta aos princípios do contraditório e da ampla defesa, pois ficou devidamente demonstrada a afronta aos dispositivos legais apontados nas razões do recurso especial, deixando de enfrentar os óbices apontados pela decisão de inadmissibilidade.
+É dever da parte combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do decisum que negou seguimento à irresignação especial, o que não se constata no caso vertente.
+Diante do exposto, não conheço do agravo em recurso especial do Banco do Brasil S.A.
+Publique-se.
