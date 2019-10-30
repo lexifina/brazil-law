@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. REQUISITOS DA PRISÃO PREVENTIVA E EXCESSO DE PRAZO. MATÉRIAS NÃO ANALISADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIOGO RIBEIRO GUIMARÃES contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no HC n.º 0059641-50.2019.8.19.0000.
+Consoante o aresto impugnado, o Paciente e outros Acusados foram denunciados pela suposta prática do crime previsto no art. 35 da Lei n.º 11.343/2006, "tendo a denúncia sido recebida e decretada a prisão preventiva de todos os réus na ação originária de nº 0002537-49.2008.8.19.0077, que foi desmembrada duas vezes, inclusive com relação ao ora paciente, que não foi localizado" (fl. 13).
+Consta, ainda, do relatório do acórdão atacado, que, por ocasião do recebimento da denúncia, foi decretada a prisão preventiva de todos os Réus e, ante a não localização do Paciente, determinou-se a suspensão do feito na forma do art. 366 do Código de Processo Penal (fl. 14), e que, " e m 05.10.2017 foi determinada a expedição de ofícios a fim de obter a localização do paciente e em 27.04.2018 foi expedido o respectivo mandado de prisão, encontrando-se o feito aguardando o cumprimento deste até a data das informações" (fl. 14).
+A Defesa ajuizou prévio writ na origem objetivando o trancamento da ação penal, com o recolhimento dos mandados de prisão expedidos em seu desfavor.
+O Tribunal de origem denegou a ordem nos termos do acórdão de fls. 10-20.
+Nesta ação mandamental, a Defesa aduz, inicialmente, que ficou comprovado, mediante carteira profissional, que o Paciente estava trabalhando nos períodos em relação aos quais lhe foram imputadas acusações de "associação para a produção e tráfico e condutas afins" (fl. 3), e que não há nos autos prova alguma contra o Acusado (fl. 4).
+Também sustenta que não estão presentes os requisitos da prisão preventiva bem como argumenta a existência de " e xcesso de prazo para o início e término da instrução" (fl. 6).
+Alega, ainda, que a acusação "falhou miseravelmente em demonstrar um mínimo liame subjetivo e nexo de causalidade entre suposto crime praticado associação criminosa para praticar crimes e vendas de entorpecentes" (fl. 6).
+Requer, em liminar, seja garantido ao Paciente o direito de responder ao processo em liberdade. No mérito, formula a seguinte pretensão (fl. 8):
+"c)  ..  o recolhimento dos mandados de prisão preventivas na ação criminal nº. 0003199-13.2008.8.19.0077, e ação criminal 0001651-16.2009.8.19.0077. Ante a flagrante ausência da necessidade da prisão antecipada e da ausência dos pré-requisitos do art. 312, do Código de Processo Penal, necessários para a execução antecipada da pena ante a inexistência de qualquer fato novo após a denúncia.
+d) Que seja deferida a concessão da ordem para conceder ao paciente a liberdade para responder e contestar as ações penais em liberdade, recolhendo os mandados de prisão preventiva, e assim garantir a liberdade para o paciente se defender através da Defensoria Pública".
+É o relatório.
+Decido.
+Inicialmente, verifica-se que as teses concernentes à ausência dos requisitos necessários à decretação da prisão preventiva, previstos no art. 312 do Código de Processo Penal, e ao suposto excesso de prazo não foram analisadas pelo aresto impugnado, o que obstaculiza o exame dessas questões por esta Corte, sob pena de supressão de instância.
+Nesse sentido: " a  questão concernente ao excesso de prazo na formação da culpa não foi apreciada pelo Tribunal a quo, razão pela qual não pode ser objeto de conhecimento por esta Corte Superior, sob pena de indevida supressão de instância" (HC 496.363/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 02/08/2019.)
+De outra parte, o Tribunal local assentou que " ..  a questão sobre a inocência do paciente, que não se encontra comprovada de plano, diz respeito ao mérito e demanda o revolvimento do conjunto fático-probatório, incabível na via eleita" (fl. 20).
+De fato, " o  habeas corpus não se presta a reconhecer a ausência, ou não, de elementos de autoria e materialidade delitiva, pois demanda aprofundado reexame do conjunto fático-probatório, inviável na via eleita." (AgRg no HC 521.937/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 17/09/2019).
+Além disso, especificamente no que diz respeito aos requisitos da prisão preventiva, verifica-se não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária do writ, visto que a Parte Impetrante não acostou aos autos cópia da decisão que decretou a segregação cautelar do Paciente.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso) - v.g. STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intimem-se.
