@@ -1,0 +1,19 @@
+DECISÃO
+ALEXANDRE DE SOUSA GONÇALVES agrava de decisão que inadmitiu seu recurso especial, lastreado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais nos Embargos Infringentes n. 1.0051.13.002819-7/002.
+No recurso especial, a defesa sustentou a violação do art. 386, II, do Código de Processo Penal, ao argumento de que a ausência de laudo toxicológico definitivo evidencia não haver prova da materialidade delitiva apta a ensejar a configuração do delito imputado ao réu.
+Requereu, dessa forma, a absolvição do acusado.
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo.
+Às fls. 349-352, manifestou-se o Ministério Público Federal pelo conhecimento do agravo para não conhecer do recurso especial.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, verifico que não comporta parcial conhecimento, uma vez que a matéria aqui suscitada não foi objeto de debate pela Corte estadual.
+Como delineado pelo Subprocurador-Geral da República [NOME], o aresto combatido se limitou a reconhecer "que a sentença havia cerceado o direito acusatório do Ministério Público, não tendo se manifestado em nenhum momento acerca do disposto no art. 386, II, do CPP" (fl. 351, grifei). O parecer ministerial explicita, ainda, que "o tribunal de origem não chegou a adentrar no mérito das provas constantes dos autos propriamente ditas", pois "decidiu que, uma vez tendo sido requisitada a juntada do laudo toxicológico definitivo pelo órgão acusador (fl. 64), e esta sido deferida pelo magistrado sentenciante (fl. 75), não poderia o Juiz absolver o réu em razão justamente da ausência desta prova, em clara contradição à decisão anteriormente proferida" (ambos à fl. 351, destaquei).
+De fato, o acórdão recorrido deu provimento ao apelo ministerial para "acolher a preliminar de nulidade processual suscitada e anular o processo, a partir da apresentação das alegações finais, exclusive, para que seja juntado o laudo toxicológico definitivo ao caderno processual, ensejando-se às partes oportunidade de se manifestarem acerca do documento antes da prolação de nova sentença" (fl. 264, grifei).
+Vê-se, portanto, que não houve juízo a respeito da suficiência de provas aptas a justificar a condenação do réu, independentemente da juntada aos autos do laudo toxicológico definitivo - circunstância que autorizaria a alegação de negativa de vigência ao art. 386, II, do Código de Processo Penal.
+Incidem, portanto, os óbices das Súmulas n. 282 e 356, ambas do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento". Na mesma perspectiva:
+ ..
+III - A ausência de prequestionamento constitui óbice ao exame da matéria pela Corte Superior, a teor das Súmulas 282 e 356 do Pretório Excelso.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.260.175/DF, Rel. Ministro Felix Fischer, 5ª T., DJe 15/6/2018)
+pois: a) não foram indicados os motivos pelos quais a defesa pretende a absolvição do réu ou a desclassificação da conduta, circunstância que atrai a incidência da Súmula n. 284 do STF; b) não foi realizado o devido cotejo analítico entre o acórdão apontado como paradigma e o aresto recorrido, uma vez que a defesa deixou de demonstrar, de forma clara e objetiva, a suscitada incompatibilidade dos entendimentos jurisprudenciais invocados e a similitude fática entre as demandas, sem observar, portanto, a disposição dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
