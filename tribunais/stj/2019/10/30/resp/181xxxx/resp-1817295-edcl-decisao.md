@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por SEGURADORA LIDER DO CONSÓRCIO DE SEGURO DPVAT S.A. contra decisão que deu provimento ao recurso especial interposto por [NOME] DA CONCEIÇÃO para afastar a prescrição e determinar o retorno dos autos à origem para prosseguir no julgamento da apelação.
+Em suas razões, a embargante sustenta a existência de contradição pois "a parte embargada obteve ciência inequívoca em 20/05/2010, sendo que a distribuição da ação, ocorreu em 14/6/2014, ultrapassando o limite prescricional" (fl. 284).
+Devidamente intimada, a parte embargada não se manifestou.
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica a alegada contradição no julgado, pois, no tocante ao termo inicial do prazo prescricional, a decisão embargada consignou:
+"O acórdão recorrido reconheceu a prescrição com os seguintes fundamentos:
+"Constou do acórdão (fls. 226) : "O prazo prescricional, para casos como o presente, somente começa a fluir a partir da ciência inequívoca da alegada incapacidade e não da data do sinistro, nos termos da Súmula 278, do STJ, sendo certo que a ciência inequívoca, para fins de contagem do prazo prescricional, depende de laudo médico, conforme disposto na Súmula nº 573 do mesmo órgão superior" (destaquei).
+Dito isso, realizada a perícia médica nos autos, constatou-se que a ciência inequívoca da incapacidade pelo autor se deu 90 dias após o sinistro, o que não foi por ele contrariado. Assim, o termo inicial do prazo prescricional restou apurado por exame médico pericial, conforme a tese exarada no Resp. 1388030/MG." (fls. 264, e-STJ)
+Como se vê, o Tribunal de origem presumiu que houve ciência inequívoca da invalidez permanente 90 dias após o acidente e não na data do laudo em si.
+Ocorre que a data em que a vítima tem ciência inequívoca da sua invalidez não pode ser presumida. Assim, a data de emissão de laudo médico atestando a invalidez permanente é considerada como prova do referido conhecimento inequívoco. Demais conjecturas fáticas que levam à presunção deste conhecimento não são aceitas pela jurisprudência consolidada nesta Corte Superior, exceto quando o conhecimento anterior resulte comprovado na fase de instrução ou a invalidez decorra de amputação de membros e situações estreme de dúvidas.
+Assim, não se verifica a consumação do lapso prescricional no presente caso, uma vez que o laudo médico comprovando o conhecimento inequívoco da invalidez permanente foi e elaborado em 019/09/2016(e-STJ) e a demanda ajuizada em 17/06/2014 (e-STJ fl. 2)." (fls. 279-281)
+Nessas condições, ausente o alegado vício na decisão embargada, verifica-se o nítido propósito da parte embargante em rediscutir tema que foi devidamente apreciado, o que é defeso por meio da via processual escolhida.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
