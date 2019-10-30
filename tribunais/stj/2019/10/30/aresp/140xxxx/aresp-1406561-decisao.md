@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. JULGAMENTO DO RECURSO DA DEFESA. ALTERAÇÃO DE FUNDAMENTOS. INEXISTÊNCIA DE MUDANÇA NA SITUAÇÃO DO RÉU. REFORMATIO IN PEJUS. NÃO CONFIGURADA. PRECEDENTES. QUANTUM DE AUMENTO DA PENA-BASE. PROPORCIONALIDADE OBSERVADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manifestado contra o acórdão prolatado na Apelação Criminal n.º 1.0701.16.018695-6/001.
+Consta dos autos que o Agravante foi absolvido da imputação de prática do delito do art. 35 da Lei de Drogas. Contudo, foi condenado, pelo Juízo de primeiro grau, pela prática do crime previsto nos arts. 33, caput, da Lei n.º 11.343/2006, à reprimenda de 8 (oito) anos de reclusão, em regime fechado, acrescida do pagamento de 800 (oitocentos) dias-multa.
+Irresignada, a Defesa interpôs recurso de apelação, ao qual o Tribunal estadual deu parcial provimento para diminuir a fração de aumento decorrente da agravante da reincidência, estabelecendo as reprimendas em 7 (sete) anos de reclusão e pagamento de 700 (setecentos) dias-multa, em acórdão assim ementado (fl. 403):
+"APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEMONSTRADAS - CONDENAÇÃO MANTIDA - DOSIMETRIA - REDUÇÃO DA PENA PARA O MÍNIMO LEGAL - INVIABILIDADE - MAUS ANTECEDENTES E REINCIDÊNCIA - BIS IN IDEM - INOCORRÊNCIA - DIMINUIÇÃO DA FRAÇÃO DE AUMENTO DA AGRAVANTE - POSSIBILIDADE. RECURSO DO 1º APELANTE DESPROVIDO. RECURSO DO 2º APELANTE PARCIALMENTE PROVIDO.
+- Mostrando-se robusto o conjunto probatório no sentido de demonstrar a materialidade e autoria delitivas bem como a destinação mercantil do entorpecente apreendido, impossível a absolvição dos acusados pelo crime de tráfico de drogas.
+- A quantidade e natureza lesiva e a quantidade da droga apreendida bem como a existência de uma circunstância judicial desfavorável autorizam a fixação da pena-base acima do mínimo legal.
+- Inexistindo motivos para que o aumento em razão da agravante do art. 61, I, do Código Penal, se afaste do patamar mínimo de 1/6 (um sexto), deve a reprimenda ser elevada em tal patamar.
+- Não há que se falar em ocorrência de bis in idem quando o réu possui mais de uma condenação transitada em julgado, sendo uma considerada para fins de caracterizara agravante da reincidência, e, a outra, para fins de configurar os maus antecedentes."
+Rejeitados os Embargos de Declaração opostos pelo Agravante (fls. 433/437).
+Nas razões do recurso especial, alega a Defesa, em síntese, a violação dos arts. 59 do Código Penal, 617, do Código de Processo Penal, e 42, da Lei n.º 11.343/2006. Afirma que ocorreu reformatio in pejus, pois o Tribunal de origem deixou de reduzir proporcionalmente a pena-base, após a exclusão da avaliação desfavorável das circunstâncias judiciais da personalidade e conduta social.
+Aduz que a reprimenda não pode permanecer inalterada, pois estaria agravando o quantum atribuído a cada uma das circunstâncias judiciais.
+Pugna pela redução proporcional da pena-base, para que seja fixada em patamar mais próximo do mínimo legal, devido à reanálise das circunstâncias judicias promovidas pelo Tribunal a quo.
+Foram apresentadas contrarrazões (fls. 456-460). Inadmitido o recurso de origem (fls. 462-466), adveio o presente agravo (fls. 469-481).
+O Ministério Público Federal opinou pelo conhecimento do agravo para negar provimento do recurso especial (fls. 495-497).
+É o relatório.
+Decido.
+Evidenciada a viabilidade do agravo, prossegue-se à análise do recurso especial.
+Confira-se, por oportuno, o seguinte excerto do acórdão estadual (fls. 416-417; sem grifos no original.):
+"Compulsando a decisão e apreço, verifico que a pena-base foi aplicada em 06 (seis) anos de reclusão e pagamento de 600 (seiscentos) dias/multa, após o d. sentenciante valorar em desfavor do réu os antecedentes, personalidade e conduta social.
+Cumpre registrar que,a personalidade e a conduta social não podem ser sopesadas em desfavor do réu, ante a inexistência de elementos nos autos hábeis a considerá-la.
+Entretanto, há que se registrar que apesar do MM. Juiz "a quo" não ter utilizado a melhor técnica ao analisar as circunstâncias judiciais do art. 59 do CP, a pena-base restou fixada em patamar justo.
+Com efeito, a diversidade, a natureza lesiva e a quantidade de droga apreendida, aliada aos antecedentes do réu (CAC de fls. 117/119), autorizam o estabelecimento da pena-base em patamar superior ao mínimo, razão pela qual não há qualquer modificação a ser feita.
+Na segunda fase, presente a agravante da reincidência, o juiz agravou a pena em 1/3 (um terço), fixando-a em 08 (oito) anos de reclusão e 800 (oitocentos) dias/multa.
+No entanto, creio que o MM. Magistrado de primeiro grau agiu com excessivo rigor ao definir o quantum de agravamento da reprimenda provisória, já que esse acusado ostenta apenas 02 (duas) condenações transitadas em julgado, o que justifica um agravamento menor. Aqui, cumpre registrar que, ao contrário do alegado pela defesa é plenamente lícito que uma das condenações seja considerada para fins de caracterizar a agravante da reincidência, e, a outra, para fins de configurar os maus antecedentes. Dessa forma, não merece prosperar a alegação defensiva de ocorrência de bis in idem, como quer fazer crer a defesa.
+Sendo assim, agravo a pena do inculpado em 1/6 (um sexto), e fixo- a em 07 (sete) anos de reclusão e pagamento de 700 (setecentos) dias/multa.
+Na terceira fase, ausentes causas de aumento ou de diminuição de pena concretizo a reprimenda do acusado em 07 (sete) anos de reclusão e pagamento de 700 (setecentos) dias/multa."
+A Corte Regional, apesar de excluir a negativação das circunstâncias judiciais da personalidade e da conduta social, fundamentou a manutenção da exasperação da pena-base em 1 (um) ano, com base na diversidade, na natureza lesiva e na quantidade de droga apreendida, aliada aos antecedentes do Réu, fixando-a em 06 (seis) anos de reclusão.
+Desse modo, segundo a jurisprudência desta Corte Superior " ..  é possível nova ponderação das circunstâncias que conduza à revaloração sem que se incorra em reformatio in pejus, desde que a situação final do réu não seja agravada, conforme ocorreu na hipótese, em que a pena final se restou inalterada  .. " (HC 489.528/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/02/2019, DJe 01/03/2019).
+No mesmo sentido:
+"HABEAS CORPUS. PENAL. ART. 33, CAPUT, DA LEI N.º 11.343/2006. RECONHECIMENTO DA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. QUANTIDADE DE ENTORPECENTE (612,6G DE MACONHA) ALIADA ÀS CIRCUNSTÂNCIAS DA APREENSÃO. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO INIDÔNEA. ORDEM PARCIALMENTE CONCEDIDA.
+ ..
+3. Reiteradamente esta Corte tem se manifestado no sentido de que "o efeito devolutivo da apelação autoriza o Tribunal local, quando instado a se manifestar sobre a dosimetria da pena e fixação do regime prisional, a realizar nova ponderação dos fatos e circunstâncias em que se deu a conduta criminosa, mesmo em se tratando de recurso exclusivamente defensivo, sem que se incorra em reformatio in pejus, desde que não seja agravada a situação do réu" (HC 417.219/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/11/2017, DJe 13/11/2017).
+ ..
+5. Ordem de habeas corpus parcialmente concedida para modificar o regime inicial de cumprimento da pena para o semiaberto." (HC 461.650/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 22/02/2019.)
+"PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/1993. DISPENSA DE LICITAÇÃO. ALEGAÇÃO DE AFRONTA AO ART. 619 DO CPP. INEXISTÊNCIA. ACÓRDÃO FUNDAMENTADO. OFENSA AO ART. 617, PARTE FINAL, DO CPP NÃO CONFIGURADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AUTORIA E MATERIALIDADE COMPROVADAS. DOLO ESPECÍFICO E DANO AO ERÁRIO EFETIVAMENTE CONSTATADOS. ELEMENTOS CONCRETOS APONTADOS PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO DA CONCLUSÃO. INVIABILIDADE. SÚMULA 7/STJ.
+ ..
+2. O princípio do ne reformatio in pejus não obsta que o Tribunal de origem, exercendo sua soberania para dizer o direito, adote, no julgamento da apelação defensiva, fundamentos diversos daqueles apresentados em primeira instância, desde que respeitada a imputação deduzida pelo órgão de acusação, bem como as circunstâncias fáticas delineadas na sentença e o limite da pena imposta no Juízo de origem, hipótese dos autos.
+ ..
+4. Agravo regimental improvido." (AgRg no REsp 1.660.765/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/05/2018, DJe 06/06/2018.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
