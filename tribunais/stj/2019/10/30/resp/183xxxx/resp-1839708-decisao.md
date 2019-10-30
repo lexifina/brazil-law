@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PREVIDÊNCIA PRIVADA . COBRANÇA DE DIFERENÇAS DE SUPLEMENTAÇÃO DE APOSENTADORIA ILEGITIMIDADE PASSIVA DA PATROCINADORA. PRESCRIÇÃO QUINQUENAL QUE NÃO ALCANÇA AS PRESTAÇÕES PAGAS NOS CINCO ANOS ANTERIORES À DATA DA PROPOSITURA DA AÇÃO.
+REAJUSTAMENTO DO BENEFÍCIO . REGRA VIGENTE NA OCASIÃO DO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS À CONCESSÃO DA APOSENTADORIA. PL- DL-1971 QUE PASSOU A INCORPORAR OS SALÁRIOS DOS EMPREGADOS. AUSÊNCIA DE RELAÇÃO COM OS LUCROS DA EMPRESA . REAJUSTE DEVIDO, MEDIANTE DESCONTO DAS CONTRIBUIÇÕES CORRESPONDENTES.
+RECURSO PARCIALMENTE PROVIDO." (e-STJ fl. 474)
+Embargos de declaração rejeitados (e-STJ fl.530/536)
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 17 e 68, §1º da LC 109/2001, art. 6º, § 1º, da LINDB, arts. 236, 535, 552 e ss. do CPC, sustentando, em síntese que: 1) houve a prescrição do fundo do direito de suplementação de benefício previdenciário do autor, pois já decorridos 5 (cinco) anos da extinção do contrato de trabalho dos autores, que foi quando a recorrida passou a receber a complementação de aposentadoria e 2) os valores pagos a título de participação nos lucros PL/DL-1971 não devem integrar a base de cálculo da suplementação de aposentadoria da recorrida, por não se tratar de verba salarial, mas sim de verba indenizatória.
+Não foram apresentadas contrarrazões (e-STJ fl. 622)
+É o relatório.
+O Tribunal de origem afastou a tese de prescrição do fundo do direito à suplementação de benefício previdenciário, considerando prescritas apenas as parcelas vencidas antes de 5 (cinco) anos do ajuizamento da ação.
+Colhe-se do aresto, nesse ponto:
+"Foi reconhecida a prescrição da pretensão de revisão do benefício para as parcelas recebidas anteriormente a 4.12.07, cinco anos anteriores ao ajuizamento da ação." (fl. 477)
+A Corte de origem, portanto, julgou a tese de prescrição em conformidade com o entendimento do STJ, conforme se extrai do seguinte precedente:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE PENSÃO. PREVIDÊNCIA PRIVADA. DISSÍDIO JURISPRUDENCIAL. VIOLAÇÃO DOS ART. 489 e 1.022 DO CPC. NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. DEFICIENTE FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de Revisão de Pensão 2. Ausência de violação do artigo 1.022, II, do CPC, haja vista que o Tribunal de origem apreciou a questão tida como omissa pela recorrente.
+3. Devidamente analisadas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de manifestação pelo Tribunal de origem acerca dos dispositivos de lei tidos como violados, impede o conhecimento do recurso especial.
+5. A deficiente fundamentação do recurso impede o seu conhecimento.
+6. O reexame de fatos e provas não é permitido na via especial.
+7. Em ações postulando a complementação da aposentadoria ou a revisão do benefício, o prazo prescricional de cinco anos, previsto na Súmula 291/STJ, não atinge o fundo de direito, mas tão somente as parcelas anteriores aos cinco anos da propositura da ação. Precedentes.
+8. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+9. Agravo interno não provido.
+(AgInt no REsp 1709962/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/09/2019, DJe 11/09/2019)"
+A respeito do cerne da pretensão dos autores, nota-se que o acórdão recorrido manteve o entendimento do juízo de 1º grau, segundo o qual a parcela PLDL ou VPDL 1971 tem natureza salarial, integrada ao contrato de trabalho, razão pela qual deveriam ter integrado o cálculo para apuração do valor do benefício previdenciário, in verbis:
+"Consigna-se que a PL-DL 1971 ou VP-DL 1971, que possui natureza salarial, deve integrar a base de cálculo da suplementação de aposentadoria.
+Isso porque a partir da vigência do Decreto-lei 1971/82, a VP-DL 1971 passou a ser paga em valor fixo mensalmente, desvinculada dos lucros da Petrobrás, pelo que não se enquadra no conceito de participação nos lucros. Assim, apesar do advento do art.
+4 7. 0 , inciso XI, da CF, infere-se que a VP-DL 1971 já havia sido anteriormente incorporada ao salário dos empregados da Petrobrás, pelo que deve ser considerada parte da remuneração, em respeito ao direito adquirido." (e-STJ fl. 478)
+Essa conclusão, contudo, diverge da jurisprudência sólida do STJ, ilustrada pelo seguinte precedente:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PARTICIPAÇÃO NOS LUCROS. PL/DL 1971. EXTENSÃO A EX-EMPREGADOS INATIVOS. DESCABIMENTO. PRECEDENTES. VERBA HONORÁRIA. FIXAÇÃO EQUITATIVA (CPC/2015, ART. 85, § 8º). VALOR CONDIZENTE COM O CASO EM QUESTÃO. DECISÃO MANTIDA.
+1. A Segunda Seção desta Corte, no julgamento de Recurso Repetitivo (REsp n. 1.425.326/RS, Rel. Ministro LUIS FELIPE SALOMÃO) fixou as seguintes teses: "a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.".
+2. "A verba referente ao PL/DL-1971 não foi base de cálculo para a contribuição da recorrente para a PETROS, o que, por si só, já afasta a pretensão ao recebimento da referida parcela" (AgInt no REsp 1617166/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/12/2016, DJe 16/12/2016, e AgInt no REsp 1626462/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/05/2017, DJe 19/05/2017).
+3. Deve ser mantido o valor dos honorários advocatícios, fixados dentro dos parâmetros legais e arbitrados de forma a remunerar condignamente o trabalho desenvolvido pelos patronos.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1595089/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)"
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial l e julgo improcedente o pedido de suplementação de aposentadoria, na forma do art. 487, I, do CPC/2015.
+Condeno a autora ao pagamento das custas e dos honorários advocatícios, arbitrados em R$ 2.500,00, observando o disposto no art. 20, § 4º, do CPC/73, na forma do recente posicionamento da Corte Especial (EAREsp 1.255.986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Dje. 06/05/2019). Fica suspensa, todavia, a exigibilidade dos honorários, pois a autora é beneficiários da gratuidade da justiça.
+Publique-se.
