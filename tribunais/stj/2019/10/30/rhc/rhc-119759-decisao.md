@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por MERIA ROSA DE CRISTO FURTADO contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará (HC n. 0807707-58.2019.8.14.0000).
+Colhe-se dos autos que a ora recorrente foi presa em flagrante, custódia essa posteriormente convertida em prisão preventiva, pela suposta prática dos delitos capitulados nos arts. 2º, § 1º, da Lei n. 12.850/2013 e 12 da Lei n. 10.826/2003.
+Irresignada, a defesa impetrou, em quatro oportunidades, habeas corpus perante o Tribunal de origem; a Corte a quo não conheceu do mais recente em acórdão cuja ementa foi assim definida (e-STJ fl. 119):
+HABEAS CORPUS LIBERATÓRIO COM PEDIDO LIMINAR. CONSTITUIR OU INTEGRAR ORGANIZAÇÃO CRIMINOSA E POSSE ILEGAL DE ARMA DE FOGO OU MUNIÇÃO. MERA REITERAÇÃO DE PEDIDO JÁ APRECIADO. ORDEM NÃO CONHECIDA. DECISÃO UNÂNIME.
+1. Não comporia conhecimento o writ que se consubstancia em mera repetição de argumentos e pedidos já analisados anteriormente, tratando-se a presente impetração do 4º habeas corpus interposto em favor da paciente, todos de minha relatoria.
+2. Ordem não conhecida, à unanimidade.
+No presente recurso ordinário, a defesa sustenta a ilegalidade da prisão da recorrente, ao argumento de que a autoridade policial "diligenciou até a casa de Meriã, sem mandado de busca, uma vez que ela não era investigada em nenhum processo, e forjou uma prisão em flagrante, colocando os projéteis dentro do quarto da paciente, fato que ocorreu na sua frente, na frente de sua mãe e de seu irmão. Ao ser confrontado por Meriã de que aquele ato não representava a verdade, o delegado exclamou textuais: "(..) é tua palavra contra a de uma autoridade (..)"" - e-STJ 137.
+Aduz, ademais, que a atitude do Delegado na origem "se deu em virtude da paciente outrora ter-se negado a ceder a investidas sexuais propostas pelo mesmo, pois em se tratando de Meriã, fala-se de rara beleza, beleza esta que a paciente ostenta, e que está se perdendo nos muros e grades do CRF - Centro de Reeducação feminino, em virtude de prisão ilegal" (e-STJ fl. 137).
+Afirma que o "Ministério Público do Estado do Para - MPPA, ofereceu denúncia em desfavor da paciente, todavia, quando instado a se manifestar quanto ao pedido de revogação de prisão preventiva feito pela defesa da paciente, reconheceu as condições pessoais favoráveis, inclusive arguiu que não se revela presente o periculum libertatis, manifestando-se pelo deferimento do pedido da paciente", mas que o Tribunal de origem, pela 4ª vez, denegou a ordem impetrada em favor da ora recorrente, não obstante seja ela primária, de bons antecedentes e mãe de criança menor de 12 anos de idade.
+Requer, inclusive liminarmente, o provimento do recurso a fim de que seja concedida a liberdade provisória à recorrente, ainda que com estabelecimento de medidas cautelares diversas.
+É o relatório.
+Verifico, ab initio, ser inviável o prosseguimento do recurso ordinário.
+É que a defesa não juntou aos autos cópia dos três acórdãos anteriores proferidos pelo Tribunal de origem, nos quais teria ocorrido a análise acerca da fundamentação da prisão preventiva da recorrente e da possibilidade de substituição da segregação por prisão domiciliar, peças imprescindíveis à exata compreensão da controvérsia.
+Ressalte-se que o rito do habeas corpus - ou de seu recurso ordinário - pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto, providência da qual não se desincumbiu a defesa.
+Nesse sentido, a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, Rel. Min. ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/3/2015, grifei.)
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
