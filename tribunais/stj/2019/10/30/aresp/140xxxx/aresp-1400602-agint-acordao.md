@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. POLICIAIS MILITARES INATIVOS. AÇÃO DE COBRANÇA. MANDADO DE SEGURANÇA COLETIVO. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. OFENSA AOS ARTIGOS 3º E 4º DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. TESE QUE SUSTENTA A OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+2. A falta de prequestionamento da tese relativa à violação dos artigos 3º e 4º do CPC/2015 impede o conhecimento do recurso especial, a teor da Súmula 282/STF.
+3. No caso, o Tribunal de origem registrou não ter ocorrido o trânsito em julgado da decisão em mandado de segurança coletivo, o que impediria o ajuizamento da ação de cobrança para o recebimento de parcelas pretéritas. A alteração do referido entendimento para acolher a alegação de afronta à coisa julgada, demandaria, necessariamente, o reexame do conjunto fático-probatório do caso vertente, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 359):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. POLICIAIS MILITARES INATIVOS. AÇÃO DE COBRANÇA. MANDADO DE SEGURANÇA COLETIVO. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. OFENSA AOS ARTIGOS 3º E 4º DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ALEGAÇÃO DE EXISTÊNCIA DE COISA JULGADA MATERIAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Os agravantes alegam, em suma, que: (a) "se limitaram a demonstrar a evidente violação ao artigo 14, § 4.º, da Lei n.º 12.016/09 e aos artigos 485, inciso IV, e 502 do CPC atual; razão por que, com o máximo devido respeito à Vossa Excelência mas, não existe no recurso especial dos ora agravantes qualquer alegação de violação de enunciado ou súmula de tribunal, razão pela qual não se aplica ao caso a incidência da súmula 518/STJ" (fl. 406); (b) é inaplicável a Súmula 282/STF, considerando a existência de apreciação expressa, por parte Tribunal a quo, acerca dos artigos 14, § 4º, da Lei 12.016/09, 485, IV, e 502 do CPC/2015; e (b) não cabe a incidência da Súmula 7/STJ ao caso, pois a "a única questão posta no recurso especial de fls. 258/270 (e-STJ) diz respeito unicamente a matéria de direito federal estrito, cujo contorno fático está delineado no acórdão recorrido" (fl. 409).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. POLICIAIS MILITARES INATIVOS. AÇÃO DE COBRANÇA. MANDADO DE SEGURANÇA COLETIVO. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. OFENSA AOS ARTIGOS 3º E 4º DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. TESE QUE SUSTENTA A OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+2. A falta de prequestionamento da tese relativa à violação dos artigos 3º e 4º do CPC/2015 impede o conhecimento do recurso especial, a teor da Súmula 282/STF.
+3. No caso, o Tribunal de origem registrou não ter ocorrido o trânsito em julgado da decisão em mandado de segurança coletivo, o que impediria o ajuizamento da ação de cobrança para o recebimento de parcelas pretéritas. A alteração do referido entendimento para acolher a alegação de afronta à coisa julgada, demandaria, necessariamente, o reexame do conjunto fático-probatório do caso vertente, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Nas razões do apelo nobre, os insurgentes apontam expressamente um enunciado sumular como malferido para cumprimento do requisito previsto no art. 105, III, a, da Constituição Federal, quando anuncia que "o v. acórdão deve ser reformado, visto sua inobservância aos artigos 139, IX, 337, §§1. e 4º, 485, inc. IV e 502, todos do CPC/15, do art. 14, §4º, da Lei 12.016/09 c/c os artigos 3º e 4º do CPC e da Súmula 271 do STF" (fl. 261).
+Como salientado, não se conhece da violação à Súmula 271 do STF, porquanto tal ato não se enquadra no conceito de "tratado ou lei federal", previsto no permissivo constitucional, tratando-se de mero entendimento consolidado no âmbito do Poder Judiciário, não tendo o condão de abrir a via estreita dos recursos excepcionais, conforme a Súmula 518/STJ, segundo a qual "para fins do art. 105, III, a, da CF/88, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+No que tange à alegação de que a Súmula 282 do STF seria inaplicável por ter havido o devido prequestionamento, verifica-se que os agravantes defendem que a Corte a quo debateu as teses que envolvem os artigos 14, § 4º, da Lei n.º 12.016/09, 485, IV, e 502 do CPC/2015.
+Ocorre que a decisão agravada assentou que o referido enunciado sumular seria aplicável à afirmação de que teria havido ofensa aos artigos 4º e 5º do CPC/2015, e não aos dispositivos retromencionados.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF, nos termos da fundamentação supra.
+No mais, também não merece reparos a decisão que ora se combate.
+Isso porque o Tribunal local, soberano na análise do acervo fático-probatório dos autos, consignou que "considerando que a decisão proferida na apelação cível nº 994.08.178766-0 (0178766-03.2008.8.26.0000/ 50000) não se encontra acobertada pela imutabilidade da coisa julgada, o pagamento das verbas devidas dentro do quinquênio que antecedeu o writ é, por enquanto, inviável ante a ausência de título executivo judicial hábil" (fl. 238).
+Logo, é evidente que não há como infirmar a referida conclusão adotada pela Corte de origem sem reexaminar as premissas fático-probatórias sobre as quais se assenta, o que é vedado por força da Súmula 7/STJ.
+Nesse sentido, em acréscimo às ementas colacionadas na decisão agravada, confiram-se os seguintes julgados (grifos nossos):
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 3, 17%. PAGAMENTO. SERVIDORES DO INSS. LEI 10.355/2001. REESTRUTURAÇÃO DA CARREIRA PREVIDENCIÁRIA. LIMITAÇÃO TEMPORAL. POSSIBILIDADE. COISA JULGADA. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, a fim de se concluir pela violação à coisa julgada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1.506.498/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/8/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP. PODER NORMATIVO DA AUTARQUIA. AUTO DE INFRAÇÃO. ALEGAÇÃO DE COISA JULGADA MATERIAL. ACÓRDÃO RECORRIDO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA SUA NÃO OCORRÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O entendimento firmado pelo Tribunal a quo, à luz das provas dos autos, no sentido da inexistência de coisa coisa julgada material, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Agravo interno improvido" (AgInt no AREsp 1.106.353/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2017).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
