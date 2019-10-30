@@ -1,0 +1,29 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação indenizatória Danos oriundos de incêndio no estuário de Santos Razões de apelação dissociadas dos fundamentos da sentença Recurso não conhecido." (e-STJ, fl. 2697)
+Em suas razões recursais, o agravante aponta violação aos arts. 5º, caput, LIV, LV, 6º, 60, §4º, IV, 93, IX, e 216, II, da CF; 3º, 7º, 178, 179, 279, 355, I, 369, 373, I, 374, I, 385, 442, 443, I e II, 464, do CPC/2015; 81, 83, 246, 330, I, 332, 333, I, 334, I, 343, 400, II , 420, I e II, do CPC/1973; 186 e 927 do CC; 6º, VIII, do CDC; 21 da Lei 7.347/1985; 1º do Decreto 5.051/2004, 2º, item 2, a e b, 4º, item 1, 5º, a, 7º, item 3, 8º, Item 1, 13, Item 1, 15, item 1, 16, item 1 e 5, 23, I, da Convenção OIT 169, sustentando, em síntese (a) que há necessidade de inversão do ônus da prova, em vista da notoriedade do dano ambiental, do nexo causal e dos prejuízos suportados, visando ser preservada a paridade de armas; (b) que houve cerceamento de defesa devido ao julgamento antecipado da lide, asseverando a imprescindibilidade da produção de provas pericial, documental e oral, especificada de forma motivada notadamente para a demonstração da poluição e da extensão dos danos e (c) que houve a comprovação de danos morais indenizáveis em virtude da supressão da produção pesqueira e do estado famélico suportados pelo recorrente e decorrentes de responsabilidade objetiva.
+Foram apresentadas contrarrazões às fls. 2758/2774..
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+O Tribunal de origem não conheceu da apelação do ora agravante em decorrência de as razões recursais estarem dissociadas dos fundamentos da sentença, não tendo sido impugnado o fundamento que afirmou não ter o autor comprovado que exercia a profissão de pescador, in verbis:
+"Narra o autor ser pescador artesanal e exercer sua atividade no Estuário.
+Por conta do incêndio do terminal das requeridas, que queimou por vários dias, houve contaminação da área e o desequilíbrio ambiental afetou diretamente seu trabalho.
+O MM. Juiz de primeiro grau julgou improcedente a demanda, pois sequer demonstrado que o autor exerceria a profissão de pescador, a despeito de sua inscrição formal.
+O recurso, no entanto, não deve ser conhecido, pois suas razões estão dissociadas dos fundamentos da sentença." (e-STJ, fls. 2698)
+As razões de recurso especial, contudo, dizem respeito a temas diversos e afirmam a necessidade de inversão do ônus da prova, cerceamento de defesa e comprovação de danos morais indenizáveis, ou seja, matéria atinente ao mérito do recurso que não foi sequer conhecido.
+Neste tocante, as razões do apelo nobre estão, pois, dissociadas dos fundamentos adotados no julgado proferido pelo Tribunal local, o que atrai, por analogia, a hipótese de incidência das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. A dissociação entre as razões recursais e os fundamentos do acórdão recorrido obsta o conhecimento do recurso especial, ante a incidência da Súmula n. 284 do STF.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 933.260/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/10/2016, DJe 13/10/2016)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA, DE PLANO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não se configura a violação ao art. 535 do CPC/73, quando o Tribunal local pronuncia-se de forma fundamentada sobre as questões postas para análise, ainda que contrariamente aos interesses da parte recorrente.
+2. O magistrado é o destinatário final da prova, cabendo a ele a análise da utilidade e da necessidade da sua produção. Pode, pois, indeferir a produção de provas que se mostrarem inúteis ou desnecessárias à solução da lide, nos termos dos arts. 130 e 131 do CPC/73. Precedentes. 2.1. O juízo acerca da necessidade de produção de provas específicas, como a oral, compete soberanamente às instâncias ordinárias e o seu reexame, na estreita via do recurso especial, encontra óbice na Súmula nº 7 desta Corte. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. "A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando, na vigência do antigo Código Civil de 1916, a prescrição vintenária prevista no art. 177 e a prescrição decenal prevista no art. 205 do atual Código Civil de 2002.
+Precedentes do STJ." (AgInt no AREsp 725.813/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/08/2016, DJe 09/09/2016).
+5. Agravo interno desprovido."
+(AgInt no AREsp 1024305/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.200,00 (mil e duzentos reais) para R$ 1.320,00 (mil, trezentos e vinte reais).
+Publique-se.
