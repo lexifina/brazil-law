@@ -1,0 +1,32 @@
+Decisão: Trata-se de reclamação constitucional ajuizada por Cláudio Lourenço e outros, contra decisão da Primeira Turma Cível do Colégio Recursal de Santos, nos autos do Processo 1001623-52.2016.5.02.0063.
+    Na petição inicial, a parte reclamante alega, em síntese, que o juízo reclamado afronta decisão desta Corte consubstanciada na Reclamação 28.747/PR.
+    Aduz que [o] que extrai-se da decisão acima colacionada, utilizada como parâmetro para a presente Reclamação, é que nos casos em que conflitantes a liberdade de expressão e as garantias individuais, necessária se faz a prova de que o intento das publicações e falas tenha sido o de ofender, o que não ocorreu no caso concreto. (eDOC 1, p. 5)
+    Requer assim a procedência na presente reclamação para cassar a decisão reclamada.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l”, da CF/88).
+    Nesses termos, transcrevo abaixo o art. 988 do CPC/2015, que estabelece o rol das hipóteses de cabimento da reclamação, o qual não contempla o caso dos autos:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016)”.
+    No presente feito, não se verifica nenhuma dessas hipóteses, uma vez que a decisão indicada não está dotada de efeito vinculante. Com efeito, a jurisprudência do Supremo Tribunal Federal assentou-se no sentido do não cabimento de reclamação por afronta à autoridade de súmula do STF ou de decisão não dotada de efeito vinculante.
+    No caso, verifico que o acórdão paradigma foi prolatado em processo de índole subjetiva, desprovido de eficácia erga omnes, no qual a reclamante não figura como parte. Confiram-se, a propósito, os seguintes julgados:
+    “Agravo regimental em reclamação. Paradigma extraído de ações de caráter subjetivo. Ausência dos requisitos. Perfil constitucional da reclamação. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 2. Inadmissibilidade do uso da reclamação por alegada ofensa à autoridade do STF e à eficácia de decisão proferida em processo de índole subjetiva quando a parte reclamante não figurar como sujeito processual nos casos concretos versados no paradigma, pois não há obrigatoriedade de seu acatamento vertical por tribunais e juízos. 3. Agravo regimental não provido.” (Rcl-AgR 5.391, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 1º.3.2013).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. INEXISTÊNCIA DE USURPAÇÇÃO DA COMPETÊNCIA DO STF. PARADIGMA DESPROVIDO DE EFEITO VINCULANTE. CORRETA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 1.021, §1º, CPC, E 317, § 1º, DO RISTF. 1. É ônus do recorrente impugnar de modo específico os fundamentos da decisão agravada. Art. 1.021, § 1º, CPC e art. 317, § 1º, do RISTF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (Rcl 31.977-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 3.9.2019)
+    Ademais, o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. 1. O CPC/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). Requisito não cumprido, na espécie. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime.” (Rcl 32306-AgR, Rel. Min. Roberto Barroso, Primeira Turma, Dje 6.2.2019)
+    “RECLAMAÇÃO – REPERCUSSÃO GERAL – ACÓRDÃO – OBSERVÂNCIA – INSTÂNCIAS ORDINÁRIAS – ESGOTAMENTO – AUSÊNCIA. A parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela estar condicionada a admissibilidade da reclamação, visando a observância de acórdão alusivo a extraordinário submetido ao regime da repercussão geral, ao esgotamento prévio das instâncias ordinárias.” (Rcl 28577-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 16.10.2018)
+    Desse modo, inadmissível esta reclamação, tendo em vista a utilização desta via processual como sucedâneo recursal.
+    Finalmente, registre-se que o Código de Processo Civil de 2015 determina a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321, do CPC/2015, é ônus da parte reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a parte reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante o exposto, nego seguimento à reclamação . (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 30 de outubro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
