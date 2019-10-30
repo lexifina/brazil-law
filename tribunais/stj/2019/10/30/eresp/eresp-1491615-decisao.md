@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pelo Sindicato dos Trabalhadores Federais da Saúde, Trabalho e Previdência no Estado do Rio Grande do Sul, contra o acórdão proferido pela Primeira Turma, sob a relatoria do Ministro Napoleão Nunes Maia Filho, assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RESPECTIVA ORDEM DE PAGAMENTO. AGRAVO INTERNO DO SINDICATO DESPROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 579.431/RS, de relatoria do Ministro MARCO AURÉLIO, sob o regime da repercussão geral, consolidou o entendimento de que incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição de pequeno valor - RPV ou do precatório.
+2. Agravo Interno do Sindicato desprovido (fl. 1525).
+O embargante alega que o entendimento da Primeira Turma, manifestado no presente julgamento, está em divergência com o que decidiu a Segunda Turma no REsp n. 1.636.848/PE, cujo acórdão recebeu a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECATÓRIO. JUROS MORATÓRIOS. TERMO FINAL. LIQUIDAÇÃO DO VALOR. DATA DO TRÂNSITO EM JULGADO DOS EMBARGOS À EXECUÇÃO OU DO TRÂNSITO EM JULGADO DA DECISÃO HOMOLOGATÓRIA DOS CÁLCULOS.
+1. Não se conhece de Recurso Especial no que se refere à violação ao art. 535 do CPC/1973 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+"2. Com efeito, a Corte Especial do STJ, no julgamento do REsp 1.143.677/RS (Rel. Ministro LUIZ FUX, DJe de 04/02/2010), sob o regime do art. 543-C do CPC/1973, firmou o entendimento de que não incidem juros de mora no período compreendido entre a data da elaboração da conta de liquidação e a data de expedição, ou, ainda, do efetivo pagamento do precatório ou da Requisição de Pequeno Valor (RPV), desde que, em qualquer caso, seja satisfeito o débito no prazo constitucional para seu cumprimento.
+3. De igual modo, encontra-se consolidado o entendimento de que somente são devidos juros moratórios até a liquidação do valor executado, o que se verifica com a definição do quantum debeatur, materializado no trânsito em julgado dos Embargos à Execução ou, quando estes não tiverem sido opostos, no trânsito em julgado da decisão homologatória dos cálculos.
+4. Verifica-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ no sentido de que incidem os juros de mora até o trânsito em julgado dos Embargos à Execução.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.636.848/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2016, DJe 02/02/2017).
+Sustenta, em suma, que os juros de mora devem incidir a partir da data da elaboração da conta de liquidação até a do efetivo pagamento do precatório ou da RPV.
+É o relatório. Decido.
+O acórdão embargado está coerente com o entendimento que prevalece nesta Corte Superior, no sentido de que os juros de mora incidem no período entre a data dos cálculos da liquidação e a da expedição do precatório ou da RPV.
+A propósito, ver:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. TERMO FINAL DA INCIDÊNCIA DOS JUROS MORATÓRIOS. ENTENDIMENTO FIXADO PELO STF, EM REPERCUSSÃO GERAL (TEMA 96/STF). CORTE ESPECIAL DO STJ, NO JULGAMENTO DA QO NO RESP 1.665.599/RS.
+1. Na espécie, discute-se sobre a possibilidade de inclusão de juros de mora entre a data da conta e a data da expedição do precatório.
+(..)
+3. O Pleno do STF, nos autos do RE n. 579.431/RS (Tema 96/STF), pacificou o entendimento no sentido de que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório" (RE 579.431, Plenário, Min. Marco Aurélio, DJe de 30/6/2017).
+4. À vista disso, a Corte Especial do STJ, no julgamento da QO no REsp 1.665.599/RS, Rel. Min. Napoleão Nunes Maia Filho, reviu o Tema Repetitivo n. 291/STJ para se adequar à jurisprudência do STF.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1648911/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/09/2019, DJe 23/09/2019).
+PROCESSUAL CIVIL. RETORNO DOS AUTOS PARA JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015. PRECATÓRIOS. JUROS DE MORA. PERÍODO ENTRE A DATA DA CONTA E A EXPEDIÇÃO DO PRECATÓRIO. POSSIBILIDADE. ENTENDIMENTO FIXADO PELO STF NO RE 579.431/RS.
+1. Discute-se a possibilidade de expedição de precatório/RPV complementar para incidência de juros de mora após a conta homologada até a expedição do precatório/RPV. Ou seja, a controvérsia gira em torno do pagamento de juros de mora, relativos ao período compreendido entre os cálculos da liquidação e a efetiva ordem de pagamento.
+2. O STJ seguia o entendimento, firmado no REsp repetitivo 1.143.677/RS, de que não incidem juros moratórios entre a elaboração dos cálculos e o efetivo pagamento da requisição de pequeno valor (RPV). Ocorre que, em sessão realizada em 19.4.2017, o Plenário do Supremo Tribunal Federal no julgamento do RE 579.431/RS, da relatoria do Ministro Marco Aurélio, em regime de Repercussão Geral fixou a tese de que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+3. Assim tem decidido o STJ, dando nova redação ao Tema 291/STJ, a fim de adequá-lo à nova orientação fixada pelo egrégio Supremo Tribunal Federal quando do julgamento do RE 579.431/RS: "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório". (QO no REsp 1.665.599/RS, Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 2/4/2019; REsp 1.761.487/RS, Ministro Herman Benjamin, Segunda Turma, DJe 17/12/2018; REsp 1.773.605/PE, Ministro Herman Benjamin, Segunda Turma, DJe 19/11/2018; EDcl no REsp 1.388.846/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 5.10.2018).
+4. Assim, consoante o art. 1.040 do CPC/2015, de rigor a reforma do acórdão recorrido para realinhá-lo ao entendimento do STF acerca da incidência dos juros moratórios, razão pela qual merece prosperar a irresignação trazida à apreciação do STJ.
+5. Agravo Regimental provido, em juízo de retratação, para dar provimento ao Recurso Especial.
+(AgRg no Ag 1389012/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/09/2019, DJe 11/10/2019).
+Incide, portanto, a Súmula n. 168/STJ, segundo a qual, "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+Ante o exposto, INDEFIRO liminarmente os embargos de divergência (art. 266-C, caput, do RI-STJ).
+Publique-se. Intime-se.
