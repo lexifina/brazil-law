@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUELY CAMPOS FELIX, contra acórdão assim ementado (fl. 401):
+Agravo de instrumento. Seguros. Inteligência do art. 18, alínea a, da Lei 6.024/74. Seguro habitacional. Pedido de suspensão do processo.
+Possibilidade na fase de cumprimento de sentença. Correto o levantamento da penhora.
+Recurso não provido.
+Em suas razões, a recorrente alega dissídio jurisprudencial em relação ao entendimento adotado na origem, pretendendo seja reconhecida a "possibilidade de manutenção da penhora realizada nos autos eis que perfectibilizada em momento anterior à decretação da liquidação extrajudicial" (fl. 427).
+Passo a decidir.
+O Tribunal de origem, ao julgar o agravo de instrumento, entendeu correto o levantamento da penhora, assim se pronunciando (fls. 403/404):
+Cumpre ressaltar que o art. 18 da Lei 6.024/74 é claro ao dispor que a decretação da liquidação extrajudicial de instituição financeira produzirá, de imediato, entre outros efeitos, "a suspensão de ações e execuções iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda, não podendo ser intentadas quaisquer outras, enquanto durar a liquidação". Da leitura de referido dispositivo legal, depreende-se que, existindo ação ou execução sobre direito ou interesse concernente ao acervo da entidade liquidanda, o respectivo processo deve ter a sua tramitação suspensa, enquanto persistir a liquidação extrajudicial.
+Logo, cabe a suspensão do processo agora, no TJRS, porque existe sentença condenatória contra a seguradora em liquidação extrajudicial. Ressalto o entendimento no sentido de o que pode ser suspensa é a execução, não o processo de conhecimento, no qual se busca a formação do título executivo.
+Por fim, também não merece guarida o pleito de reforma no tocante ao levantamento da penhora.
+Apesar de a parte credora ter ingressado com cumprimento de sentença antes da liquidação extrajudicial da seguradora, ela não possui privilégio com relação ao crédito executado. Os bens e valores conscritos também estão sujeitos ao processo de liquidação e à ordem legal de pagamento dos créditos.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que "A suspensão da execução decretada nos termos do art. 18, a, da Lei n. 6.024/1974, não tem como conseqüência lógica a desconstituição da penhora já perfectibilizada. Precedente do STJ" (AgInt no AREsp 1.294.374/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 24.8.2018). Na mesma direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPANHIA DE SEGUROS. LIQUIDAÇÃO EXTRAJUDICIAL. EXECUÇÕES. SUSPENSÃO. PENHORA. LEVANTAMENTO. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que suspender a execução em virtude da decretação de liquidação extrajudicial não acarreta, necessariamente, o levantamento de valores objetos de penhora. Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ.
+4. Agravo interno não provido. (AgInt no AREsp 1367010/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/05/2019, DJe 21/05/2019)
+DIREITO CIVIL E PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL DE OPERADORA DE PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. SUSPENSÃO DAS EXECUÇÕES EM CURSO. SUBSISTÊNCIA DAS PENHORAS. DISPOSITIVOS LEGAIS INAPTOS PARA AMPARAR A TESE RECURSAL. SÚMULA 284/STF.
+1.- Os artigos 24-D, da Lei 9.656/98; 18, "a", da Lei 6.024/74; 39, 70 e 102 do Decreto-lei 7.661/45 não são suficientes para amparar a tese recursal de que a suspensão das execuções em curso determinada em razão da decretação de liquidação extrajudicial implica, também, o levantamento das penhoras já realizadas.
+2.- O conteúdo normativo dos dispositivos legais apontados como violados não é suficiente para respaldar a tese recursal defendida, o que atrai a incidência, por analogia, da Súmula 284/STF.
+3.- A subsistência da penhora não afeta o tratamento igualitário dos credores.
+4.- Recurso Especial a que se nega provimento" (REsp 1159521/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 14/04/2014)
+No mesmo diapasão: AREsp n. 1.524.493/RS, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 1.10.2019; REsp nº 1.735.015/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe de 7.8.2019; AREsp nº 1.190.484/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 24.6.2019; AREsp nº 1.316.993/RS, Rel. Ministro RAUL ARAÚJO, DJe de 1.4.2019; e, AREsp nº 972.046/MS, Rel. Ministro Marco Buzzi, DJe de 1.9.2017.
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para determinar que subsistente a penhora realizada em momento anterior à decretação da liquidação extrajudicial, nos termos da jurisprudência desta Corte.
+Intimem-se.
