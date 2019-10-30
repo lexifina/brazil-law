@@ -1,0 +1,46 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão desta relatoria que conheceu do agravo para dar provimento ao recurso especial da Fundação Sanepar de Previdência e Assistência Social assim ementada (e-STJ, fl. 1.531):
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRATOS MISTOS. SEGURO E PREVIDÊNCIA. DESPESAS ADMINISTRATIVAS. CUSTEIO PARA BENEFÍCIOS DE RISCO. RESTITUIÇÃO DOS VALORES PAGOS PELO SEGURADO AO TEMPO DA RESCISÃO CONTRATUAL. DESCABIMENTO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Em sua irresignação (e-STJ, fls. 1535-1546), a embargante sustenta a existência de omissão na decisão embargada, uma vez que olvidou-se de se pronunciar sobre os fundamentos que embasaram a decisão de impossibilidade de restituição dos descontos com despesas administrativas. Aduz, ainda, que o recurso especial não poderia ser admitido, uma vez que não é possível o reexame de provas e cláusulas contratuais em recurso especial, incidindo as Súmulas n. 5 e 7 do STJ.
+
+É o relatório. Decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, a omissão, a obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO. REQUISITOS PARA PERCEPÇÃO. ART. 56, INCISO III, §§ 4 E 5º, DA LEI 11.907/09. AUSÊNCIA DE REGULAMENTAÇÃO. IMPERTINÊNCIA DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. INCAPACIDADE DE INFIRMAR O ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO NÃO COMBATIDO. SÚMULA 283/STF. SÚMULA 126/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+3. O acórdão embargado foi categórico ao afirmar que o Tribunal a quo, ao entender pela necessidade de regulamentação da Lei 11.907/2009 para a concessão da Gratificação de Qualificação aos detentores de curso de graduação, não analisou a tese de que a regulamentação da matéria está prevista na LDB - Lei de Diretrizes e Bases da Educação Nacional.
+4. Também não discutiu a instância de origem o preenchimento pelo autor dos requisitos previstos no art. 56, inciso III, §§ 4 e 5º, da Lei 11.907/09 para a concessão da Gratificação de Qualificação, porquanto considerou aquele Tribunal que o pagamento da vantagem estava condicionado à regulamentação pelo Executivo, conforme expresso no § 6º do mesmo dispositivo legal, o que ocorreu apenas em fevereiro de 2013.
+5. Os artigos de lei apontados como violados são considerados impertinentes quando não possuem comandos legais suficientes para afastar a tese adotada no acórdão regional.
+6. Não foi rebatido (Súmula 283/STF), tampouco impugnado por meio de recurso extraordinário (Súmula 126/STJ), o fundamento da Corte de origem, no sentido de que o poder regulamentar "trata-se de verdadeira prerrogativa da Administração Pública a definição desses critérios, e o Poder Judiciário não pode vir substituir a vontade da Administração. Assim, a sentença vergastada, ao fazê-lo, de fato viola a separação de Poderes." (fl. 292, e-STJ).
+Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no REsp n. 1.589.590/SP, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/8/2016, DJe 23/8/2016).
+Ressalte-se que, o Tribunal de origem, ao julgar os embargos de declaração, consignou o seguinte (e-STJ, fls. 1.270-1.272 - sem grifos no original):
+Ocorre que, no presente caso, verifica-se que a autora não utilizou de qualquer benefício de risco . Não há que se falar, nesse sentido, que o contrato assume durante o período de vínculo com a entidade a característica de aleatoriedade de contrato de seguro, como sustenta a Fusan em sede de contrarrazões.
+Havendo previsão regulamentar no sentido de que a não utilização do benefício acarreta o direito ao resgate do valor da totalidade do saldo existente no Fundo Individual, deve a requerida restituir os valores descontados.
+Observo também que os julgados nesta Eg. Corte que entendem indevida a devolução dos valores referentes aos benefícios de risco tratam de situações distintas à do presente caso, notadamente porque aqui se deu a quebra do vínculo com a entidade. Para situações análogas ao caso em análise, já restou decidido nesta Corte de Justiça pela impossibilidade de retenção de tais valores:
+(..)
+Ante o exposto, voto por negar provimento ao recurso de apelação da Fusan quanto ao tópico e dar provimento ao recurso de apelação da autora, determinando a restituição dos valores descontados a título de benefício de risco de janeiro de 2001 até o seu desligamento. Tais valores devem ser corrigidos pelo índice de rentabilidade Fusan, conforme fundamentação no próximo tópico, aplicando-se juros de mora desde a citação.
+A decisão embargada está fundamentada nos seguintes termos (e-STJ, fls. 1.532-1.533 - sem grifos no original):
+A Segunda Seção deste Tribunal pacificou o entendimento de não serem passíveis de restituição os valores pagos por ex-associado a título de pecúlio por invalidez, morte ou renda por velhice, por se tratar de contrato aleatório, em que a entidade correu o risco, possuindo a avença natureza de seguro e não de previdência privada.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. EFEITO MODIFICATIVO. AGRAVO REGIMENTAL. PECÚLIO E RENDA MENSAL. MORTE, INVALIDEZ E VELHICE. RESTITUIÇÃO. RESTITUIÇÃO DE CONTRIBUIÇÕES. SÚMULAS 5, 7, 83 e 211 DO STJ .
+1. Embargos de declaração recebidos como agravo regimental, recurso cabível para modificar a decisão singular que negou seguimento ao recurso especial.
+2. Segundo a apreciação da prova e interpretação do contrato estabelecida pelas instâncias ordinárias, o contrato aleatório celebrado entre as partes tem natureza de seguro e não de previdência privada, não prevendo a restituição das contribuições vertidas para a constituição de pecúlio por invalidez ou morte e renda por velhice, eventos que estiveram garantidos no curso do contrato. Precedentes da 2ª Seção.
+3. Panorama de fato e interpretação de cláusulas contratuais insusceptíveis de revisão no âmbito do recurso especial (Súmulas 5 e 7 do STJ).
+4. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento".
+(EDcl no REsp n. 1.172.607/PR, Relatora Ministra MARIA ISABEL GALLOTTI, DJe 29/5/2013).
+EMBARGOS DE DIVERGÊNCIA - PREVIDÊNCIA PRIVADA - RESTITUIÇÃO - PARCELAS ANTERIORES À MARÇO/80 - SEGURO - DIVERGÊNCIA SUPERADA.
+I - À mingua de determinação legal obrigando a devolução das contribuições efetivadas enquanto custeado o sistema sob a forma de repartição de capital de cobertura e levando-se em conta que o atual estatuto somente passou a viger quando de sua aprovação pela Portaria nº 2.033, de 04/03/1980, esta é a data a partir da qual deverão ser devolvidas as contribuições do ex-associado.
+III - Os valores pagos a título de pecúlio por invalidez ou morte não são passíveis de restituição, uma vez que a entidade suportou o risco. E, embora não tenha ocorrido o sinistro, nem por isso deixaram os associados de usufruir da prestação do serviço na vigência do contrato, que é, por natureza, oneroso.
+(..)
+Embargos de divergência não conhecidos.
+(EREsp n. 327.419/DF, Relator Ministro CASTRO FILHO, Segunda Seção, DJ 1/7/2004).
+Dessa forma, constata-se que o acórdão impugnado encontra-se dissonante da jurisprudência desta Corte, sendo de rigor sua reforma.
+Acresce que, embora o art. 14, III, da Lei Complementar n. 109/2001 disponha que os regulamentos dos planos de benefícios deverão prever o "resgate da totalidade das contribuições vertidas ao plano pelo participante, descontadas as parcelas do custeio administrativo, na forma regulamentada", o caput do referido dispositivo também ressalta a necessidade de serem observadas "as normas estabelecidas pelo órgão regulador e fiscalizador".
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
