@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento na alínea "a" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ Fl. 492):
+"APELAÇÃO CÍVEL. LOCAÇÃO. EMBARGOS À ARREMATAÇÃO.
+I. As matérias atinentes às nulidades de regularização processual e dos atos processuais se encontram abrangidas pela coisa julgada.
+II. Mantida a condenação da parte embargante nas penas de litigância de má-fé.
+III. Prequestionamento de dispositivos. O Julgador não está obrigado a se manifestar sobre todos os artigos de Lei invocados pela parte.
+IV. Verba honorária sucumbencial majorada.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME."
+Opostos embargos declaratórios às fls. 501/515 e 529/541, foram rejeitados, respectivamente, às fls. 520/524 e 565/569.
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 70, 344, 371, 489, §1º, IV, 1.022, II e III, do CPC/15; 1.103, IV, do CC. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que "em não reconhecendo que não há possibilidade de sucessão empresarial ou processual de DAMAQUI com a inclusão das ex-sócias, porquanto as mesmas não podem pleitear em nome próprio direito da sociedade empresária da qual eram sócias após a extinção desta, o acórdão recorrido violou o art. 1.103,IV, do CC" - (fl. 596), acentuando que a recorrida não possuía capacidade para estar em juízo.
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, não há que se falar em violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que a questão suscitada - capacidade processual da recorrida - submetida ao Tribunal de origem foi suficiente apreciada, conforme se denota do trecho do acórdão a seguir (fls. 494/495):
+(..)
+Pois bem, como bem referiu o julgador singular, a questão não foi ventilada no momento processual oportuno, tendo em vista que, dentre as inconformidades das recorrentes, o pleito das fls. 970/977 se refere a nulidade de atos praticados pela ora recorrida nos autos dos embargos à execução e da própria sentença, já transitada em julgado.
+Assim, se inconformadas com a irregularidade de representação da parte adversa, as recorrentes deveriam ter atacado adequadamente a sentença - na qual foi convalidada a regularidade dos atos praticados naqueles autos e oportunizado prazo para juntada de instrumento de mandato - ônus do qual não se desincumbiram, de modo que é incidente a preclusão em relação ao ponto. Já com relação à alegação de intempestividade do ato de juntada do instrumento de mandato, tenho que ausente a incidência da preclusão, como referiu o julgador a quo. No entanto, não prospera, de qualquer sorte, a tese das recorrentes, pois a peca se deu no âmbito da interrupção de prazo prevista pelo art. 538 do Código de Processo Civil.
+Outrossim no que diz com a alegação de que a peça de juntada da procuração carece de assinatura de procurador devidamente constituído, pois há nos autos substabelecimento que confere poderes ao mandatário [NOME] fl. 77. 894), subscritor da peça de juntada (f/s. 958/959).
+Não fosse isso, trata-se de vício de fácil saneamento.
+Pelo exposto, voto no sentido de negar provimento ao recurso.
+Com base em tais premissas, verifica-se que as insurgências dos ora recorrentes já foram analisadas e repelidas em momento anterior, operando, assim, a preclusão.
+Com efeito, a partir de uma análise detida dos autos, observa-se, que não há que se falar em obscuridade, contradição ou omissão a respeito da alegada irregularidade de representação da parte, tendo em vista que o acórdão recorrido foi minucioso na análise do conjunto fático-probatório dos autos, fundamentando seu decisum.
+Dessa forma, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem, embora tenha feito referência à sentença proferida pelo Juízo de Direito, adotou fundamentação suficiente no que tange ao conteúdo dos dispositivos invocados no apelo nobre.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No tocante ao atendimento dos pressupostos processuais da parte recorrida, nota-se que a Corte de origem, com base nas peculiaridades da lide, compreendeu que, além de ter havido preclusão quanto ao tema, "houve o saneamento do feito - com a regularização processual da parte embargada, restando convalidados os atos praticados no decorrer da lide, não havendo falar, portanto, em nulidade processual" - (fl. 567).
+Ainda, em sede de aclaratórios, foi consignado o seguinte (fl. 523):
+Por fim, a título de esclarecimento, oportuno se faz destacar que, consoante já ressaltado no aresto objurgado, as matérias atinentes à nulidade de representação e dos atos processuais já foram amplamente analisadas e rechaçadas no processo de origem.
+Nestes termos, inviável a (re)discussão acerca dos temas, até mesmo, porque, acaso verificada eventual irregularidade na representação da parte, basta a sua intimação para saneamento do vício/defeito.
+Não obstante, chama atenção o fato de que nos presentes embargos à arrematação a ora embargante se direciona aos vícios de representação da parte embargada (já analisados, consoante exposto), não tecendo qualquer irregularidade contra a hasta pública levada a efeito.
+Ocorre que o posicionamento da Corte de origem está em consonância com o desta Corte de Justiça acerca do aproveitamento do ato processual quando convalidado, em decorrência do princípio da instrumentalidade das formas, o qual dispõe que, ausente a demonstração de prejuízo para a parte, privilegia-se a manutenção do feito, como no caso dos autos, em que a representação processual foi sanada, tratando-se de nulidade relativa.
+Sobre o tema, colacionam-se as seguintes ementas:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO PAULIANA. CITAÇÃO POR EDITAL. NULIDADE. AUSÊNCIA DE PREJUÍZO E REEXAME DE PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+(..)
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que em nosso sistema processual "vigora a máxima pas de nullité sans grief, segundo a qual somente deve ser anulado o processo quando evidenciado sacrifício aos fins da Justiça" (REsp 908.340/CE, Segunda Turma, Relator o Ministro HERMAN BENJAMIN, DJe de 21.8.2009).
+3. "As regras alusivas às nulidades processuais são muito mais voltadas à convalidação e ao afastamento das nulidades do que à sua decretação, tendo em vista a função basilar do processo, como instrumento de aplicação do direito material" (REsp. 950.522/PR, Ministro LUIS FELIPE SALOMÃO).
+4. Agravo regimental a que se nega provimento.
+(EDcl nos EDcl no Ag 1115975/SP, de minha relatoria, QUARTA TURMA, julgado em 03/09/2013, DJe 11/10/2013)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. REPRESENTAÇÃO CIVIL E PROCESSUAL. VÍCIO SANÁVEL. IRREGULARIDADE NA ELEIÇÃO. CONVALIDAÇÃO DOS ATOS. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+(..)
+3. A regularização na representação é vício sanável, devendo o julgador conferir oportunidade à parte para suprir a irregularidade antes de extinguir o feito sem resolução do mérito, o que atende ao princípio da instrumentalidade das formas. Precedentes.
+4. Rever as conclusões do tribunal de origem, acerca do saneamento do vício de representação processual e da convalidação dos atos do presidente pela assembleia, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a incidência da Súmula nº 7/STJ.
+(AgInt nos EDcl no AREsp 1252570/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/02/2019, DJe 01/03/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REPRESENTAÇÃO PROCESSUAL. COMPROVAÇÃO INTEMPESTIVA. POSSIBILIDADE DE CONVALIDAÇÃO. RESP 1.361.811/RS JULGADO SOB O RITO DO ARTIGO 543-C DO CPC/1973 (ATUAL 1.036 DO CPC/2015). APLICAÇÃO POR ANALOGIA. FUNDAMENTO DO ARESTO RECORRIDO INATACADO. SUBSISTÊNCIA. SÚMULA 283/STF. ANALOGIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Verificada a irregularidade da representação processual da parte, esta deve ser intimada a sanar o vício, no prazo de 05 (cinco) dias, a teor do artigo 76, "caput", c/c artigo 932, parágrafo único, do CPC/2015.
+2. Não há irregularidade na representação processual se a sua comprovação, embora intempestiva, estiver demonstrada nos autos.
+Precedente. RESP 1.361.811/RS julgado sob o rito dos recursos repetitivos. Analogia.
+2. Agravo desprovido.
+(AgInt no AREsp 190.898/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/04/2017, DJe 18/04/2017)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se, no caso concreto, houve ou não a convalidação do alegado vício processual, bem como prejuízo para a parte demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro em 1% (um por cento) os honorários advocatícios fixados em R$ 1.100,00 (mil e cem reais), ficando sobrestada a execução em razão da gratuidade concedida, nos termos do art. 12 da Lei 1.060/1950.
+Publique-se.
