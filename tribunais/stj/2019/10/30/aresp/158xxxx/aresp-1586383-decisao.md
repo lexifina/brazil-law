@@ -1,0 +1,31 @@
+DECISÃO
+
+Trata-se de agravo apresentado por WAJDI IBRAHIM CONSTRUCAO E EMPREENDIMENTOS LTDA - EPP contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - PRESCRIÇÃO DE CINCO ANOS - NÃO CARACTERIZADA - ART 174 DO CTN - TÍTULO EXIGÍVEL - CONSTITUIÇÃO EM MORA - AR ENVIADO PARA O ENDEREÇO DO CONTRIBUINTE - NOTIFICAÇÃO APERFEIÇOADA - REJEIÇÃO NÃO CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO PARCIALMENTE REFORMADA - RECURSO CONHECIDO E PROVIDO EM PARTE (fl. 77).
+Quanto à primeira controvérsia, alega violação do art. 174 do CTN, no que concerne à ocorrência de prescrição quanto à cobrança do crédito tributário, trazendo os seguintes argumentos:
+14. O v. acórdão recorrido, ao considerar que se tata de execução fiscal, ignorou solenemente o conteúdo do artigo 174, do Código Tributário Nacional, que prevê prazo prescricional especificamente para ação de cobrança de crédito tributário:
+Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva.
+15. Para quitação do débito tributário de R$ 128.865,97, o Recorrente deu em pagamento parte ideal do imóvel denominado "Chácara Planalto Verde", inscrito na matrícula sob o no 1.737, do 10 Cartório de Registro de Imóveis da Comarca de Terenos/MS.
+16. Logo após a celebração do instrumento, o Município Agravado efetivamente ocupou a área entregue, detendo há mais de 10 (dez) anos a posse ininterrupta, mansa e pacífica do imóvel, sem qualquer oposição do Agravante.
+17. Não há nestes autos qualquer crédito tributário perseguido ou cobrado pelo Recorrido, o qual foi totalmente satisfeito, adimplido, quitado com a entrega da área e ocupação efetiva pelo Recorrente (fl. 120).
+Quanto à segunda controvérsia, alega violação dos arts. 202, VI, e 206, § 5º, do CC, no que concerne à prescrição da pretensão relativa à obrigação de fazer, trazendo os seguintes argumentos:
+  em se tratando de execução de obrigação de fazer, regida pelo Código Civil, a pretensão está prescrita, pois a pretensão do município esbarra no art. 206, §5, I, do Código Civil, que também prevê que prescreve em 5 (cinco) anos a pretensão de cobrar dívidas oriundas de instrumentos particulares  (fl. 121).
+
+24. O artigo 202, inc. VI, do Código Civil, por sua vez, prevê que há interrupção da prescrição por qualquer ato inequívoco que importe reconhecimento do direito pelo devedor:
+
+25. Da data da celebração do termo de dação (30/11/2006) até a data do ajuizamento da ação (29/03/2016), não houve qualquer causa de suspensão ou de interrupção do prazo prescricional (fl. 121).
+É o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Ao que se extrai dos autos, o Município de Terenos, para quitação dos débitos referentes ao IPTU, formalizou acordo com o devedor, ora agravante, recebendo como pagamento parte ideal do imóvel apontado na matrícula sob n.º 1.737, ficha 01, livro n.º 2, do Registro de Imóveis da 1ª Circunscrição do Município e Comarca de Terenos/MS.
+Restou estabelecido que o executado iria realizar o desmembramento da área que pertence ao exequente, para que assim houvesse a quitação do crédito tributário devido. Entretanto, mesmo após notificado, o devedor quedou-se inerte, o que ocasionou o ajuizamento da demanda, para cumprimento da obrigação estabelecida no referido termo.
+Na hipótese, a dação em pagamento serviu como marco para interromper o prazo prescricional para a cobrança dos IPTU objeto de quitação. Com efeito, nos termos do artigo 174, do CTN, a ação de cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva, ou seja, a partir do momento em que se torna indiscutível.
+Logo, se a dação em pagamento serviu para quitação dos débitos tributários referentes ao IPTU do ano de 2006 e passados, e esta foi firmada em 30/11/2006, restou interrompido o prazo prescricional, nos termos do parágrafo único do artigo 174 supracitado, o qual somente voltou a fluir no dia em que o devedor deixou de cumprir com o acordo, que, no caso, deve ser considerado como a data em que houve a notificação do devedor, ou seja, em 05/08/2013 (p. 11-14 autos origem).
+Assim, ajuizada a presente ação executiva em 29/03/2016, não há se falar na ocorrência da prescrição (fls. 81/82) - negritei.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a alegada violação dos arts. 202, VI e 206, § 5º, do CC não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
