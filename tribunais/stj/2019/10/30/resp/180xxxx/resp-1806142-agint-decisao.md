@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno manejado pela Agência Nacional de Saúde Suplementar desafiando decisão pela qual não conheci do recurso especial, por entender que: (I) a alegada violação ao art. 12, II, c, da Lei nº 9.656/98, se ocorrida, é meramente reflexa; (II) para se discutir o pleito do agravante, é imprescindível realizar um juízo acerca da resolução da COFEN, de modo a se concluir pelo enquadramento, ou não, da atividade de instrumentador como serviço de enfermagem; e (III) não é possível a esta Corte conhecer da afronta ao art 11 do Decreto nº 94.406/87, uma vez que o referido instrumento normativo, repita-se, refoge do conceito de lei federal.
+Em suas razões, a parte agravante sustenta que: (I) é irrelevante para que o STJ aprecie a pretensão recursal a análise do conteúdo de qualquer resolução do COFEN, uma vez que a tese é a de que a Lei nº 9.656/98, independentemente de ser a atividade de instrumentação privativa de enfermeiros ou não, alberga a obrigatoriedade de cobertura desse serviço pelas operadoras de planos de saúde; (II) embora a instrumentação cirúrgica não esteja expressamente prevista no art. 12, II, da Lei 9.656/98, ela é abrangida pelo conteúdo normativo das expressões "cobertura de internações hospitalares"; e (III) os custos com instrumentação cirúrgica estão incluídos dentre as despesas inerentes à internação hospitalar cirúrgica, cuja cobertura é obrigatória pela operadora do plano de saúde, por se tratar de exigência mínima legal.
+Afirma a agravante, por fim, que deixa se insurgir quanto à discussão em torno do art. 11 do Decreto nº 94.406/87.
+Sem impugnação (fl. 495).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos e exercendo o juízo de retratação, reconsidero a decisão agravada (fls. 476/481), tornando-a sem efeito.
+Após, voltem-me conclusos os autos.
+Publique-se.
