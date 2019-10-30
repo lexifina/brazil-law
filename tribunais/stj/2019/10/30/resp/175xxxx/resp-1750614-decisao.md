@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por GILVAN WAGNER DE MORAES que discute a legitimidade de não associado para a execução da sentença coletiva proferida em ação civil pública proposta pelo IDEC.
+É o relatório. Decido.
+A questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação dos REsps 1.438.263/SP, 1.361.872/SP e 1.362.022/SP delimitaram o Tema 948 dos Recursos Especiais Repetitivos, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. DEFESA DO CONSUMIDOR. AÇÃO PROPOSTA POR ASSOCIAÇÃO DE DEFESA DO CONSUMIDOR EM FACE DE INSTITUIÇÃO FINANCEIRA. ADEQUAÇÃO OU DISTINÇÃO ENTRE O CASO EM EXAME E AS RAZÕES DE DECIDIR DAS HIPÓTESES JULGADAS PELO COLENDO SUPREMO TRIBUNAL FEDERAL NOS RE 573.232/SC e RE 612.043/PR. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, sobre o tema: "Legitimidade do não associado para a execução da sentença proferida em ação civil pública manejada por associação na condição de substituta processual".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp 1438263/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 28/05/2019, DJe 07/06/2019)
+Além disso, nesses julgamentos, houve determinação de suspensão dos processos que versem sobre idêntica questão de direito e que estejam pendentes de apreciação em qualquer instância.
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, segundo o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+ Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
