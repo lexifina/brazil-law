@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional da 1ª Região assim ementado (e-STJ, fl. 136):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. IRSM DE FEVEREIRO/94. 39,67%. DECADÊNCIA. INOCORRÊNCIA. LIMITAÇÃO AO "TETO PREVIDENCIÁRIO". APLICABILIDADE. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA.
+1. "Com a edição da MP nº 201/04, publicada em 26/07/2004, posteriormente convertida na Lei nº 10.999/04, a data de sua publicação foi fixada como termo inicial da decadência (art. 103 da Lei nº 8213/91) e da prescrição (Súmula 85 do STJ) (TNU - PU 200671500043626, Juiz Federal Ronivon de Aragão, DJ 25/11/2011) nas ações em que se postula a inclusão do IRSM de 39,67% na atualização monetária dos salários-de-contribuição. Inocorrência de decadência na espécie." (AC 0000343-18.2007.4.01.3902 / PA, Rel. Desembargador Federal Francisco de Assis Betti, Rel. conv. Juiz Federal Cleberson José Rocha (conv.), segunda turma, e-DJF1 p.1861 de 29/05/2015)
+2. Conforme entendimento pacífico do STJ e desta Corte, no cálculo da renda mensal inicial dos benefícios previdenciários que incluem o salário-de-contribuição de fevereiro de 1994, é devida a aplicação, sobre os salários-de-contribuição anteriores a março de 1994, do IRSM daquele mês, a título de correção monetária, no percentual de 39,67%.
+3. Na hipótese, tendo o Período Básico de Cálculo - PBC do benefício incluído competências anteriores e posteriores a fevereiro/94, a parte autora faz jus à atualização com base no IRSM no percentual de 39,67%.
+4. "Não há incompatibilidade entre as normas dos art. 29, § 2º, e 33, da Lei nº 8.213/91 com o seu art. 136, que trata de questão diversa, relacionada à legislação previdenciária anterior. In casu, não obstante o reconhecimento do direito do autor à correção do salário-de-contribuição de fevereiro de 1994 pelo IRSM (39,67%), o valor da nova renda mensal inicial do seu benefício deverá ficar restrito ao limite máximo do salário-de-contribuição" (REsp 1112574/MG, Rel. Ministro Felix Fischer, Terceira Seção, julgado em 26/08/2009, DJe 11/09/2009)
+5. Os honorários advocatícios devem ser fixados em 10% das prestações vencidas até a prolação da sentença de procedência, ou do acórdão que reforma o comando de improcedência da pretensão vestibular.
+6. Correção monetária e juros de mora nos termos do Manual de Cálculos da Justiça Federal.
+7. Apelação do INSS e remessa oficial parcialmente providas, apenas para ajuste dos consectários legais e observância do teto previdenciário.
+O recorrente alega violação as disposições do art. 535, II, do CPC/1973.
+Sustenta que houve omissão do Tribunal de origem, pois este não se pronunciou sobre "o fato do benefício do autor ter sido concedido em 17/04/1993 impede a revisão para inclusão da correção do salário de contribuição de 02/94 pelo IRSM, pois referido mês nunca integrou o período básico de cálculo PBC do benefício do autor" (e-STJ, fl.156).
+Sem contrarrazões.
+Admitido o apelo nobre na origem, subiram os autos a esta Corte.
+É o relatório.
+Não merece prosperar a tese de contrariedade ao art. 535, II, do CPC/1973, porquanto o aresto combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. É o que se depreende da leitura dos seguintes trechos do voto condutor do acórdão impugnado (e-STJ, fl. 131):
+Com a edição da MP n.º 201/2004, convertida na Lei n.º 10.999/2004, autorizou a revisão da RMI dos benefícios previdenciários concedidos com data de início posterior a fevereiro/94, recalculando-se o salário-de-benefício com a inclusão, na correção monetária dos salários-de-contribuição anteriores a março/94, do percentual de 39,67%, referente ao índice de Reajuste do Salário Mínimo - IRSM.
+No cálculo da renda mensal inicial do benefício de aposentadoria da parte autora, portanto, deveria ter sido aplicado o percentual de 39,67% na atualização monetária dos salários-de-contribuição anteriores a março/94, cujo índice corresponde ao percentual divulgado pelo IBGE para o IRSM de fevereiro/94, ex vi do art. 21, § 1º, da Lei 8.880/94 c/c o caput do art. 202 da Constituição Federal, em sua redação original.
+Nesse contexto, a parte autora faz jus à revisão da RMI do seu benefício de aposentadoria por tempo de serviço, com a atualização dos salários-de-contribuição, anteriores a março/94, pelo IRSM de fevereiro/94, no percentual de 39,67%, visto que no Período Básico de Cálculo de seu benefício previdenciário (ou do benefício que o originou), inclui-se a competência de fevereiro de 1994.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração. No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXCESSO NA CONDUTA DOS POLICIAIS, NO MOMENTO DA PRISÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC vigente, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.197/AC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. OMISSÃO DO ACÓRDÃO DISTRITAL AFASTADA. DECISÃO JUDICIAL. COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ. INDENIZAÇÃO. INVIABILIDADE. PRECEDENTES.
+1. Afasta-se a alegada violação do art. 1.022, I e II, do CPC/2015, porquanto a instância ordinária dirimiu, de forma clara e fundamentada, a questão que lhe foi submetida, e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 990.169/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/4/2017, DJe 19/4/2017)
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. VÍCIO EM PROCESSO LICITATÓRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. INEXISTÊNCIA. ALEGAÇÃO DE INÉPCIA DA INICIAL. PRETENSÃO DE REEXAME DE FATOS E PROVAS. ALEGAÇÃO DE ILEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROPOSITURA DA AÇÃO. LEGITIMIDADE RECONHECIDA PELA JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. RESPONSABILIZAÇÃO DOS AGENTES POLÍTICOS POR ATO DE IMPROBIDADE INDEPENDENTE DA RESPONSABILIZAÇÃO POLÍTICA E CRIMINAL. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. DEMAIS ALEGAÇÕES. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - No tocante à violação ao artigo 535, I e II, do CPC/1973, não merece prosperar, uma vez que o acórdão recorrido não se ressente de omissão, obscuridade ou contradição, porque apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses da recorrente.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp 1.607.976/RJ, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ICMS. NÃO INTEGRAÇÃO DOS PRODUTOS DADOS EM BONIFICAÇÃO NA BASE DE CÁLCULO DO TRIBUTO. PEDIDO DE ANTECIPAÇÃO DE TUTELA NEGADO PELA INSTÂNCIA ORDINÁRIA. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+ ..
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.681.168/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2017, DJe 9/10/2017)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
