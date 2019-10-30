@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] REIS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão em regime inicialmente fechado, e ao pagamento de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo em vista que, na companhia de outro acusado, foi surpreendido na posse de 800,43g (oitocentos gramas e quarenta e três centigramas) de maconha (e-STJ fls. 21/29).
+Interposta apelação, os desembargadores da 13ª Câmara de Direito Criminal do Tribunal de Justiça negaram provimento ao recurso defensivo (e-STJ fls. 49/55).
+Neste writ, a Defensoria Pública aponta constrangimento ilegal decorrente do cálculo dosimétrico e da imposição do regime mais gravoso para início de cumprimento da sanção imposta ao réu.
+Alega que, apesar de o paciente preencher todos os requisitos para a concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 em seu grau máximo, o redutor não lhe foi concedido com fundamento na quantidade de droga apreendida.
+Ressalta que a quantidade de entorpecente apreendida não foi expressiva e não constitui elemento capaz de afastar a causa de diminuição da pena, devendo ser utilizada na primeira fase da dosimetria, nos termos do art. 42 da supracitada lei.
+Assevera que, com a readequação da reprimenda, cabe o abrandamento do regime prisional para o aberto e a substituição da custódia por medidas restritivas de direitos.
+Afirma, por fim, que a gravidade abstrata do crime não justifica o recrudescimento do regime mais severo, o que vai de encontro ao disposto nas Súmulas n. 718 e 719 do Supremo Tribunal Federal e 440 desta Casa.
+Diante do exposto, requer a concessão da ordem com a incidência da minorante na fração máxima, a alteração do regime prisional para o aberto e a substituição da pena privativa de liberdade por restritivas de direitos (e-STJ fls. 3/9).
+Sem pedido liminar.
+Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus e, caso dele se conheça, pelo seu desprovimento (e-STJ fls. 65/67).
+É, em síntese, o relatório.
+Objetiva a defesa, primeiramente, a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 na fração de 2/3 sob o argumento de estarem preenchidos os requisitos exigidos para a sua concessão.
+Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Na espécie, o Juízo sentenciante realizou o cálculo dosimétrico nos termos abaixo transcritos (e-STJ fls. 26/27):
+Passo à dosimetria da pena.
+O preceito secundário do delito capitulado no artigo 33, caput, da Lei n. 11.343/06, prevê como pena privativa de liberdade de 05 a 15 anos de reclusão e o pagamento de 500 a 1.500 dias-multa.
+Atendendo às circunstâncias do artigo 42 da Lei n. 11.343/06 e do artigo 59 do Código Penal, considerando a grande quantidade de droga apreendida (800,43g), fixo a pena-base em 06 anos de reclusão e 600 dias-multa, 1/5 além do mínimo.
+Não há agravante a ser considerada. Pela atenuante da menoridade, prevista no artigo 65, inciso I, do Código Penal, como também da confissão espontânea, com fundamento no artigo 65, inciso III, alínea d, do Código Penal, retorno a pena a seu patamar mínimo, 05 anos de reclusão e 500 dias-multa. Não vislumbro motivos autorizadores para a superação da Súmula 231 do STJ. Na linha do entendimento nela contido, ao Magistrado não é dado ultrapassar as balizas mínima e máxima previstas no tipo penal, nesta fase da dosimetria, sob pena de violar o princípio da reserva legal e o sistema trifásico de individualização da pena.
+Não incide a causa de diminuição do artigo 33, §4º, da Lei n. 11.343/06, diante da quantidade (800,43g), bem como da quantia em dinheiro apreendida (R$ 260,00), mencionada pelo réu como oriunda da narcotraficância, a indicar que ele se dedica habitualmente ao tráfico.
+Nessa linha, registro que o acusado é desempregado e afirmou que se mantem com os lucros auferidos no comércio espúrio de drogas, fato que evidencia ainda mais a habitualidade.
+Sendo assim, a pena resultante é de 05 anos de reclusão e 500 dias-multa, que torno definitiva à ausência de outras circunstâncias a considerar. (Grifei.)
+Decisão mantida pelo Tribunal a quo (e-STJ fl. 54).
+Sob esse prisma, não vislumbro constrangimento ilegal, uma vez que a minorante foi afastada em respeito aos critérios estabelecidos no art. 33, § 4º, da Lei n. 11.343/2006 e com base não só na quantidade de droga apreendida - 800,43g (oitocentos gramas e quarenta e três centigramas) de maconha - mas, também, pela dedicação do paciente à narcotraficância, por ele mesmo admitida, o que impossibilitou a aplicação do pretendido redutor.
+Por outro lado, a desconstituição dos fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL.  ..  MINORANTE DO TRÁFICO. GRANDE QUANTIDADE DE DROGAS E CIRCUNSTÂNCIAS FÁTICAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULAS 83/STJ E 7/STJ. AGRAVO IMPROVIDO.
+ ..
+2. Nos termos da jurisprudência desta Corte, a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante, prevista no art. 4º do art. 33 da Lei 11.343/2006, quando evidenciada a dedicação à atividade criminosa, sendo certo que a revisão das premissas fáticas do Tribunal de origem demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+3. Agravo regimental improvido (AgRg no REsp 1776880/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/06/2019, DJe 21/06/2019).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA.  ..  CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE FATOS. REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO FECHADO. MANIFESTA ILEGALIDADE VERIFICADA EM PARTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Nos termos do § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. Concluído pela instância antecedente, com fundamento na quantidade de drogas e nos demais elementos constantes dos autos que o paciente se dedica ao comércio ilícito de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fazer incidir a atenuante da confissão espontânea, resultando a pena definitiva do paciente em 5 anos de reclusão mais 500 dias multa, a ser cumprida em regime fechado (HC 498.572/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/05/2019, DJe 04/06/2019).
+Ressalta-se, por oportuno, que a condição de desempregado, por si só, não constitui óbice à aplicação da benesse; mas, no caso em apreço, o próprio paciente admitiu a prática da narcotraficância.
+Diante do quantum de pena aplicada - 5 anos de reclusão - caberia a imposição do regime inicialmente intermediário. No entanto, em razão da presença de circunstância judicial desfavorável, tanto que a pena-base foi exasperada, não verifico ilegalidade na manutenção do regime prisional fechado.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.  ..  EXASPERAÇÃO DA PENA-BASE. AUSÊNCIA DE PROPORCIONALIDADE NÃO CONFIGURADA. NEGATIVA DE APLICAÇÃO DA MINORANTE. REGIME INICIAL FECHADO. MOTIVAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+ ..
+2. A decisão combatida foi clara ao asseverar que: a) foi indicada motivação concreta para exasperar a pena-base e foi proporcional o acréscimo operado; b) a moldura fática delineada pelas instâncias ordinárias inviabiliza a aplicação da minorante e, para decidir de maneira diversa, seria necessária ampla dilação probatória; c) a presença de circunstância judicial desfavorável é elemento idôneo para justificar o agravamento do regime.
+3. Não se identificam, dessa forma, motivos para alterar a conclusão exarada na decisão impugnada.
+4. Agravo regimental não provido (AgRg no HC 502.212/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/09/2019, DJe 30/09/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES E QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTAÇÃO IDÔNEA. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS. MAUS ANTECEDENTES E EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. CONDENAÇÃO ATINGIDA PELO PERÍODO DEPURADOR APTA A CONFIGURAR MAUS ANTECEDENTES E A AFASTAR A CAUSA DE DIMINUIÇÃO DE PENA. REGIME INICIALMENTE FECHADO. CABIMENTO. AGRAVO DESPROVIDO.
+ ..
+3. Não há ilegalidade no estabelecimento do regime inicialmente fechado, pois, consideradas as circunstâncias judiciais desfavoráveis e fixada a reprimenda em patamar superior superior a 4 (quatro) e inferior a 8 (oito) anos de reclusão, mostra-se adequado o estabelecimento do regime mais gravoso, nos termos do art. 33, § 2º, alínea b, c/c o § 3º, do Código Penal. Precedentes.
+4. Agravo regimental desprovido (AgRg no HC 507.474/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/09/2019, DJe 30/09/2019).
+Finalmente, mostra-se inviável a substituição da pena privativa de liberdade por restritivas de direitos, já que não foi preenchido o requisito exigido pelo art. 44, I, do Código Penal, em razão da quantidade de pena definitivamente aplicada ao paciente - 5 anos de reclusão.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
