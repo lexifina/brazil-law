@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por MOBILIDADE SEGURA EDUCAÇÃO E TECNOLOGIAS LTDA. contra suposto ato ilegal do DEPARTAMENTO NACIONAL DE TRÂNSITO - DETRAN, objetivando provimento jurisdicional que lhe assegure credenciamento e homologação perante o referido órgão, de modo a permitir seu funcionamento e sua atuação ministrando Cursos de Ensino a Distância em matérias relativas a Trânsito, conforme Resolução 730/2018, em vigor para o ato, e em razão de já ter atendido todos os requisitos legalmente exigidos.
+Sucede que a competência originária deste Superior Tribunal para julgar mandados de segurança está fixada no art. 105, inciso I, b, da Constituição Federal, nos seguintes termos:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+ ..
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;
+Para além destas hipóteses constitucionalmente previstas - norma, ressalte-se, de interpretação restritiva -, é esta Corte Superior absolutamente incompetente para conhecer das ações que eventualmente lhe sejam apresentadas, mormente, como é agora o caso, se não foi indicada como autoridade impetrada nenhuma daquelas previstas no permissivo constitucional. Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. WRIT IMPETRADO CONTRA SUPOSTO ATO ILEGAL DO TRIBUNAL DE JUSTIÇA MILITAR DO ESTADO DE SÃO PAULO. INEXISTÊNCIA DE ATO DE MINISTRO DE ESTADO, DOS COMANDANTES DA MARINHA, DO EXÉRCITO E DA AERONÁUTICA OU DO PRÓPRIO STJ. ART. 105, I, B, DA CONSTITUIÇÃO FEDERAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES. INCIDÊNCIA DA SÚMULA 41 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática que julgou extinto, sem resolução de mérito, Mandado de Segurança impetrado originariamente, perante o STJ, contra suposto ato ilegal e abusivo do Tribunal de Justiça Militar do Estado de São Paulo - consubstanciado no julgamento do Conselho de Justificação 0900082-66.2016.9.26.0000, que declarou o ora impetrante indigno para o oficialato e com ele incompatível, decretando a perda de seu posto e patente -, tendo em vista a incompetência absoluta desta Corte para processá-lo e julgá-lo.
+II. O art. 105, I, b, da Constituição Federal restringe a competência desta Corte para processar e julgar, originariamente, os Mandados de Segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+III. Assim, o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, Mandados de Segurança cujo ato coator advenha de outros Tribunais ou dos seus respectivos órgãos. Inteligência da Súmula 41 do STJ.
+IV. Agravo interno improvido.
+(AgInt no MS 22.964/SP, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 27/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO MANDAMENTAL CONTRA ATO DE ÓRGÃO ESPECIAL DE TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA N. 41/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não está inserida no rol das hipóteses constitucionalmente previstas a apreciação originária por esta Corte de ações mandamentais contra atos de outros Tribunais ou de seus respectivos órgãos, consoante dispõe o enunciado sumular n. 41/STJ.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no MS 23.709/MS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 16/02/2018)
+ANTE O EXPOSTO, com fundamento na Súmula 41/STJ e nos arts. 6º, § 5º, da Lei 12.016/2009 e 34, XIX, do RISTJ, denego a segurança, sem resolução do mérito. Prejudicado o pedido de liminar. Custas ex lege. Sem condenação em honorários advocatícios, nos termos da Súmula 105/STJ.
+Publique-se.
