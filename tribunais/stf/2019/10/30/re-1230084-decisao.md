@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta ao art. 8º, III , da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta ao preceito constitucional indicado nas razões  recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicada, o que torna oblíqua e  reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do  recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da  remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA EM AÇÃO COLETIVA. PRAZO PRESCRICIONAL. MATÉRIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II – O exame, no caso concreto, dos limites da coisa julgada restringe-se ao âmbito infraconstitucional. Eventual ofensa à Constituição se daria de forma meramente reflexa. Desse modo, inviável o recurso extraordinário. III – Agravo regimental improvido” (ARE 736800 AgR, Relator(a):  Min. Ricardo Lewandowski, Segunda Turma, julgado em 28.5.2013, PROCESSO ELETRÔNICO DJe-108 DIVULG 07.6.2013 PUBLIC 10.6.2013).
+    Por seu turno, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Direito Civil. 3. Ação Coletiva. Limites territoriais da coisa julgada. Jurisdição do órgão julgador. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (AI 864661 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 29.9.2017, PROCESSO ELETRÔNICO DJe-232 DIVULG 09.10.2017 PUBLIC 10.10.2017).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de outubro de 2019.
+Ministra Rosa Weber
+Relatora
