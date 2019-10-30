@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 345):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. REQUISITOS. INCAPACIDADE. PROVA.
+1. São três os requisitos para a concessão dos benefícios previdenciários por incapacidade: 1) a qualidade de segurado; 2) o cumprimento do período de carência de 12 contribuições mensais, salvo nos casos excepcionados por lei; 3) a incapacidade para o trabalho, de caráter permanente (aposentadoria por invalidez) ou temporário (auxílio-doença).
+2. O seguradoportador de enfermidade que o incapacita definidefinitivamente para todo e qualquer trabalho, sem possibilidade de recuperação, tem direito à concessão do benefício de aposentadoria por invalidez.
+Opostos embargos de declaração, foram rejeitados (fl. 373).
+Aponta o recorrente violação aos arts. 85, § 11º, e 1.022, II, do CPC/2015, sustentando, além de negativa de prestação jurisdicional, que "O acórdão ora recorrido majorou a condenação em honorários em grau recursal, com base no § 11 do art. 85 do CPC. Contudo, não é o caso de majoração dos honorários, porque o INSS obteve provimento em seu pleito recursal" (fl. 389).
+Afirma que " o recurso do INSS foi parcialmente provido, e não prejudicado, uma vez que a remessa necessária não foi conhecida. Portanto, ausentes as condições previstas no § 11 do art. 85 do CPC, não é o caso de ser majorada a verba sucumbencial, devendo ser mantida no percentual fixado na sentença" (fl. 389).
+Aduz que, "Embora o acórdão tenha julgado a apelação prejudicada em relação à correção monetária, ela foi necessária para que o índice de correção fixado na sentença fosse afastado" (fl. 389).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 395/399.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com relação à questão da verba honorária, o Tribunal de origem, ao decidir a controvérsia, deixou consignado, no que interessa (fl. 355):
+Honorários Advocatícios
+Os honorários advocatícios são devidos pelo INSS no percentual de 10% sobre o valor das parcelas vencidas até a data da sentença de procedência ou do acórdão que reforma a sentença de improcedência, nos termos das Súmulas 111 do STJ e 76 do TRF/4  Região, respectivamente, verbis:
+Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença.
+Os honorários advocatícios, nas ações previdenciárias, devem incidir somente sobre as parcelas vencidas até a data da sentença de procedência ou do acórdão que reforme a sentença de improcedência.
+Improvido o recurso do INSS quanto ao mérito da lide, majora-se a verba honorária nesta instância recursal de 10% para 14%, nos termos do art. 85, § 11, do Código de Processo Civil, considerando-se a pequena extensão do êxito recursal, apenas em questão não meritória.
+E o voto proferido nos embargos de declaração acentuou (fl. 376):
+Impende observar que nos casos em que a apelação é improvida esta Corte tem habitualmente majorado os honorários em 50%. In casu, tomando em conta o provimento parcial da apelação do INSS em mínima parte e sem alteração quanto ao mérito, os honorários foram majorados apenas em 40% (ev. 111 - RELV0T02), verbis:
+O recorrente, no entanto, nas razões do Recurso Especial, limitou-se a defender a impossibilidade de majoração da verba honorária fixada, uma vez que o recurso restou provido em parte, não cuidando de impugnar, especificamente, o fundamento que serviu de base para a majoração da verba honorária, segundo o qual, In casu, tomando em conta o provimento parcial da apelação do INSS em mínima parte e sem alteração quanto ao mérito, os honorários foram majorados apenas em 40%, o que, por si só, mantém incólume o julgado combatido.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Logo, sendo o fundamento suficiente para manter o julgado, a irresignação esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ANTE O EXPOSTO, não conheço do recurso especial. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
