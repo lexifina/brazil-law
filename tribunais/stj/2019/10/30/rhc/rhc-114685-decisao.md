@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por IGOR DO CARMO EVANGELISTA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.19.050312-8/000).
+Consta dos autos que o recorrente foi denunciado pela prática dos delitos previstos nos arts. 33, caput, c/c o art. 40, inciso VI, e 35, todos da Lei n. 11.343/2006. Isso porque, segundo consta, teria sido apreendido, na companhia de dois menores, na posse de 8 porções de crack com peso de 1,5g (um grama e cinco decigramas) - e-STJ fl. 157.
+Superadas as demais fases processuais, foi a denúncia julgada parcialmente procedente, tendo o recorrente sido condenado, como incurso nas sanções do art. 33, caput, c/c o art. 40, inciso VI, da Lei n. 11.343/2006, à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, mais pagamento de 933 dias-multa; foi decretada a sua prisão preventiva por ocasião da prolação da sentença condenatória (e-STJ fls. 228/236).
+Impetrado prévio writ na origem buscando a revogação da custódia cautelar, a ordem foi denegada em acórdão cuja ementa foi definida mediante os seguintes termos (e-STJ fl. 311):
+HABEAS CORPUS - TRÁFICO ILÍCITO DE ENTORPECENTES - NEGATIVA DE RECORRER EM LIBERDADE - DECISÃO FUNDAMENTADA - PRESENÇA DOS PRESSUPOSTOS E REQUISITOS DOS ART. 312 E SEGUINTES DO CPP - GARANTIA DA ORDEM PÚBLICA - PACIENTE REINCIDENTE - CONDENAÇÃO EM REGIME FECHADO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - DENEGADO O HABEAS CORPUS.
+- Demonstrada a existência de indícios de autoria e materialidade delitiva, e estando evidenciada a periculosidade da paciente, especialmente diante de sua reiteração delitiva, imperiosa a manutenção de sua prisão processual para a garantia da ordem pública e conseqüente acautelamento do meio social, nos termos do art. 312 do CPP.
+- A existência de condições pessoais favoráveis não significa a concessão da liberdade provisória, quando presentes, no caso concreto, outras circunstâncias autorizadoras da segregação cautelar.
+Alega a defesa, no presente recurso, carência de fundamentos da decisão que decretou a prisão preventiva.
+Sustenta, nesse sentido, que "o recorrente respondeu ao processo solto e compareceu a todos os atos do processo", não havendo "nenhuma circunstância nova apta a dar ensejo à decretação da prisão preventiva" (e-STJ fl. 334).
+Assim, requer, inclusive liminarmente, a revogação da prisão preventiva decretada em desfavor do recorrente.
+O pedido de medida liminar foi indeferido (e-STJ fls. 343/345).
+Foram apresentadas informações e juntados documentos pelo Juízo de segundo grau (e-STJ fls. 348/369).
+O Ministério Público Federal exarou parecer opinando nos termos da seguinte ementa (e-STJ fl. 374):
+PENAL E PROCESUAL PENAL. RECURSO EM HABEAS CORPUS. ART. 33, CAPUT E 35, DA Lei n. 11.343/06. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PENA DE 09 ANOS E 04 MESES DE RECLUSÃO. REGIME FECHADO. DECRETAÇÃO DA PRISÃO PREVENTIVA. DIREITO DE RECORRER EM LIBERDADE. NEGADO. NECESSIDADE DE SE RESGUARDAR A ORDEM PÚBLICA. REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA (ART. 312 DO CPP) PERSISTEM. GRAVIDADE EM CONCRETO DA CONDUTA. PERICULOSIDADE DO PACIENTE. NECESSIDADE DA SEGREGAÇÃO CAUTELAR PARA GARANTIA DA ORDEM PÚBLICA. RÉU MULTIRREINCIDENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO DESPROVIMENTO DO RECURSO.
+É, em síntese, o relatório.
+Conforme informações obtidas no sítio eletrônico do Tribunal de Justiça do Estado de Minas Gerais e em contato telefônico realizado com a 3ª Vara de Tóxicos da Comarca de Belo Horizonte/MG, verifica-se que, nos autos da Ação Penal n. 0024.11.303.154-6, já foi certificado o trânsito em julgado da condenação imposta ora recorrente.
+Portanto, não há mais se falar em prisão cautelar, mas em efetiva execução da pena, o que prejudica o pleito formulado nesta irresignação recursal, na qual se buscava a revogação da segregação preventiva decretada no édito condenatório.
+Ante o exposto, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
