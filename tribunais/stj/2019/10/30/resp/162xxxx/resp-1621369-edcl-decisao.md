@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por FRAS INDÚSTRIA E COMÉRCIO LTDA E OUTROS contra decisão que deu provimento ao recurso especial por estar o acórdão recorrido em dissonância com o entendimento desta Corte Superior acerca da desnecessidade de registro em cartório para que a alienação fiduciária seja imunizada dos efeitos da recuperação judicial.
+Em suas razões, a embargante sustenta a existência de omissão, sustentando que "dos cinco contratos discutidos pelas partes, três deles não possuem alienação fiduciária, situação essa que afastaria os efeitos da recuperação judicial, devendo permanecer na habilitação" (fl. 276).
+A parte contrária apresentou impugnação às fls. 282/285.
+É o relatório. Decido.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica a alegada omissão no julgado, pois, no tocante à questão suscitada em sede de recurso especial, consistente na prescindibilidade de registro do crédito oriundo de alienação fiduciária para que este não seja submetido aos efeitos da recuperação judicial, a decisão embargada consignou o seguinte:
+"No tocante à questão de fundo, nota-se que a Corte de origem considerou que o credito garantido por garantia fiduciária dependeria de registro cm cartório anteriormente ao pleito de recuperação judicial para que restasse imune aos efeitos da recuperação judicial, conforme se denota do trecho do acórdão a seguir (fl. 186):
+Revela-se imprescindível, ainda, que o crédito garantido por alienação fiduciária ou cessão fiduciária, tenha sido devidamente registrado antes do pedido da recuperação judicial, nos termos do artigo 1.361, §1º, do Código Civil, o que, no caso em tela, não restou demonstrado.
+Ocorre que tal posicionamento não está cm consonância com a interpretação conferida por esta Corte de Justiça, no sentido de que a garantia fiduciária prescinde de registro em cartório para que seja imunizada dos efeitos da recuperação judicial. Sobre o tema, confiram-se:
+(..)
+Diante do exposto, nos termos do art. 255, § 4o, III, do RISTJ, dou provimento ao recurso especial, a fim de que o crédito do recorrente, garantido por cessão fiduciária, seja excluído dos efeitos da recuperação judicial das empresas recorridas."
+Nessas condições, ausente o alegado vício na decisão embargada, verifica-se o nítido propósito da parte embargante em rediscutir tema que foi devidamente apreciado, o que é defeso por meio da via processual escolhida.
+Por fim, cabe esclarecer que, em relação à alegação de que apenas alguns dos contratos correspondem à alienação fiduciária, não é passível de exame tal matéria, invocada apenas em sede de embargos de declaração mas não exposta oportunamente nas contrarrazões ao recurso especial, pois configura indevida inovação recursal.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
