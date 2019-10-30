@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 394/395, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Excelência, com a devida vênia e acatamento ressalte-se que a decisão declara intempestivo o protocolo do recurso que se baseou em fato notório.
+O fato notório é aquele fato já é conhecido, são fatos geralmente conhecidos por todos, e por conta disso, são indiscutíveis, de tal maneira que a prova destes fatos em nada aumentaria a convicção do juiz em relação a veracidade dos fatos (fl. 399).
+ ..
+Ora Nobre julgador, importa ressaltar que o feriado de 1 de Maio é fato notório mundialmente, é uma data em que se comemora o dia do trabalho e, portanto, dotado da notoriedade requerida para cumprir o requisito previsto no artigo acima citado. Não obstante, caminha no mesmo diapasão o conceito da data de 30/04/2018, importa ressaltar que a data se tronou fato notório já que de forma ampla em todo o território nacional foi tomado como ponte do feriado, senão vejamos:  ..  (fls. 399/400).
+ ..
+Neste sentido, destaca-se o Enunciado 66 da I Jornada de Direito Processual Civil, segundo a qual "admite-se a correção da falta de comprovação do feriado local ou da suspensão do expediente forense, posteriormente à interposição do recurso, com fundamento no art. 932, parágrafo único, do CPC" (fl. 402).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não procede a alegação de que é desnecessária a comprovação do feriado local por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+A propósito, confira-se este precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. RECESSO FORENSE E/OU SUSPENSÃO DE PRAZOS NOS TRIBUNAIS. AUSÊNCIA DE NOTORIEDADE. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional.
+3. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1391048/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/05/2019, DJe 15/05/2019)
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade (AgInt no AREsp n. 829.932/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/10/2016; e AgInt no AREsp n. 886.498/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/9/2016).
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que o feriado nacional de 01/05/2018 não precisa ser comprovado. Porém, o dia 30/04/2018 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Outrossim, não há como adotar o entendimento firmado no Enunciado 66 da I Jornada de Direito Processual Civil, pois não tem eficácia vinculante ou força obrigatória.
+Além disso, conforme recentes julgados, a jurisprudência desta Corte, tem entendido de forma diversa do contido no Enunciado (AgInt no REsp 1665808/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/10/2017, DJe 24/10/2017; AgInt no AREsp 1037558/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 04/10/2017; AgInt no AREsp 1042992/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 29/09/2017).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
