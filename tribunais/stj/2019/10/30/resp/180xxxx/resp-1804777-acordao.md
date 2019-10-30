@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE ANÁLISE PELO TRIBUNAL DE ORIGEM. QUESTÕES RELEVANTES PARA A SOLUÇÃO DA LIDE. OFENSA AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+1. Trata-se, na origem, de ação de reintegração de posse ajuizada pela União, visando à retomada da posse, a condenação dos réus ao pagamento de aluguéis mensais pelo uso do imóvel público, desde o início da ocupação até a efetiva reintegração da União na posse, sem prejuízo da responsabilidade por danos causados ao bem até a reintegração, e pagamento da indenização, prevista no parágrafo único do art. 10 da Lei 9636/98.
+2. A Fazenda Nacional opôs Embargos de Declaração alegando omissão quanto à análise dos artigos 402 e 884 do Código Civil; 555, I, do CPC; 1º do Decreto-Lei 1.561/1997; e 10, parágrafo único, da Lei 9.636/1998, que configura matéria relevante para o deslinde da controvérsia.
+3. Isso porque, segundo o recorrente, "em conjunto, tais normas asseguram o pagamento de indenização pelo uso indevido de imóvel público, seja porque a ocupação depende de prévia autorização dos órgãos competentes, seja porque o uso de bens públicos, ressalvadas as hipóteses autorizadas por lei, dá-se sempre de forma onerosa. Caso tivessem sido aplicadas à solução da causa, tais normas teriam respaldado o juízo de total procedência dos pedidos da União." (fl. 887).
+4. Caracteriza-se ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem deixa de se pronunciar acerca de matéria veiculada pela parte e sobre a qual era imprescindível manifestação expressa.
+5. Recurso Especial parcialmente provido, quanto à violação do art. 1.022 do CPC/2015, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos Aclaratórios. Prejudicada a análise do Recurso Especial das fls. 896-905, e-STJ.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu parcial provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado (fl. 845, e-STJ):
+ADMINISTRATIVO. REINTEGRAÇÃO DE POSSE. IMÓVEL PERTENCENTES À UNIÃO FEDERAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INDEVIDA INDENIZAÇÃO PELA UTILIZAÇÃO. HIPOSSUFICIÊNCIA DOS DEMANDADOS.
+I. O Julgador não está obrigado a julgar a questão posta a seu exame de acordo com o pleiteado pelas partes, mas sim com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência e aspectos pertinentes ao tema, bem como da legislação que entender aplicável ao caso, podendo determinar as provas necessárias à instrução do processo e indeferir as diligências inúteis ou meramente protelatórias II. Ainda que demonstrada a ocupação irregular de imóvel da União, a condenação dos réus ao pagamento de indenização à União caracteriza ônus excessivo, não só por serem pessoas carentes, mas diante da obrigação de restituir o imóvel onde residem. Precedentes.
+Os Embargos de Declaração foram rejeitados (fl. 867, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, do art. 1.022 do CPC, e, no mérito, dos arts. 402 e 884 do Código Civil; 555, I, do CPC; 1º do Decreto-Lei 1.561/1997; e 10, parágrafo único, da Lei 9.636/1998. Afirma:
+Entretanto, com a devida vênia, em que pese o teor da decisão proferida no recurso aclaratório, não restou efetivamente apreciada a matéria em confronto com os dispositivos violados.
+Diante disso, revela-se essencial o efetivo prequestionamento dos artigos de lei acima referidos, bem como da tese defendida pela União acerca da inadequada aplicação da legislação federal em referência.
+Assim, a existência de omissão acerca de questões essenciais para a devida solução da controvérsia resta evidente.
+(..)
+Em conjunto, tais normas asseguram o pagamento de indenização pelo uso indevido de imóvel público, seja porque a ocupação depende de prévia autorização dos órgãos competentes, seja porque o uso de bens públicos, ressalvadas as hipóteses autorizadas por lei, dá-se sempre de forma onerosa. Caso tivessem sido aplicadas à solução da causa, tais normas teriam respaldado o juízo de total procedência dos pedidos da União.
+Contrarrazões às fls. 926-928, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23 de abril de 2019.
+Trata-se, na origem, de ação de reintegração de posse ajuizada pela União, visando à retomada da posse, a condenação dos réus ao pagamento de aluguéis mensais pelo uso do imóvel público, desde o início da ocupação até a efetiva reintegração da União na posse, sem prejuízo da responsabilidade por danos causados ao bem até a reintegração, e pagamento da indenização prevista no parágrafo único do art. 10 da Lei 9636/98.
+O juiz sentenciante deu parcial provimento ao pedido da União para determinar a reintegração de posse da União, deferindo liminar para expedição do mandado de desocupação do imóvel no prazo de 30 dias.
+Assiste razão à Recorrente.
+De fato houve omissão quanto à análise dos artigos 402 e 884 do Código Civil; 555, I, do CPC; 1º do Decreto-lei 1.561/1997; e 10, parágrafo único, da Lei 9.636/1998, que configura matéria relevante para o deslinde da controvérsia. Isso porque, segundo o recorrente, "em conjunto, tais normas asseguram o pagamento de indenização pelo uso indevido de imóvel público, seja porque a ocupação depende de prévia autorização dos órgãos competentes, seja porque o uso de bens públicos, ressalvadas as hipóteses autorizadas por lei, dá-se sempre de forma onerosa. Caso tivessem sido aplicadas à solução da causa, tais normas teriam respaldado o juízo de total procedência dos pedidos da União." (fl. 887). Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios. Nesse sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE.
+1. O aresto proferido no julgamento da apelação não emitiu pronunciamento acerca da legitimidade de condicionar a liberação de mercadoria importada à prestação de garantia, nos termos do art. 80 da Medida Provisória nº 2.158, de 24.08.01, argüida em contestação e nas razões de apelo. Há violação do artigo 535 do CPC quando a Corte de origem se descuida de apreciar matéria relevante ao deslinde da controvérsia posta em julgamento, cujo conhecimento lhe foi devolvido por ocasião de recurso voluntário e da remessa oficial.
+2. Regresso dos autos à origem para que novo acórdão seja proferido nos embargos de declaração.
+3. Recurso especial provido. (REsp 936.858/RN, Rel. Ministro CASTRO MEIRA , DJ 16.08.2007).
+PROCESSUAL CIVIL - EMPRÉSTIMO COMPULSÓRIO - CORREÇÃO MONETÁRIA - VIOLAÇÃO DO ART. 535 DO CPC - OCORRÊNCIA - RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Omissão sobre teses relevantes para a solução do litígio suscitadas oportunamente em embargos de declaração e que não foram examinadas pelo Tribunal de origem.
+2. Necessidade de rejulgamento dos embargos, diante da contrariedade ao art. 535 do CPC.
+3. Recurso especial provido. (REsp 781.965/RJ, Rel. Min. Eliana Calmon, DJ 13.08.2007)
+Diante do exposto, dou parcial provimento ao Recurso Especial, quanto à violação do art. 1.022 do CPC/2015, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração. Prejudicada a análise do Recurso Especial das fls. 896-905, e-STJ.
+É como voto.
