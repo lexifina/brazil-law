@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PACIFIC MOTORS COMÉRCIO DE VEÍCULOS LTDA à decisão de fls. 324/325, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entretanto, juntamente com o agravo apresentado foi colacionado o documento de fl. 282 (e-STJ Fl. 316) que consiste no calendário do judiciário do Tribunal de Justiça de Minas Gerais em que consta, expressamente, que nos dias 17/04, 18/04 e 19/04/2019 não havia expediente forense.
+Como bem salientado na r. decisão, o art. 1003, §6º do CPC dispõe expressamente que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso e assim foi feito.
+Conforme se observa nos documento de fl. 282 (e-STJ Fl. 316), o agravo foi devidamente instruído com documento idôneo, disponibilizado pelo próprio [NOME], que demonstra a inexistência de expediente forense. (fl. 328)
+ ..
+Sendo assim, além dos dias supracitados em que não houve expediente forense, no caso em apreço há a incidência do art. 229 do CPC em que se contam os prazos em dobro.
+Sendo assim, ao contrário do consignado na r. decisão, o documento de fl. 282 (e-STJ Fl. 316) apresentado juntamente com o agravo, é prova idônea de que não houve expediente forense nos dia 17/04, 18/04 e 19/04/2019, desta feita, o prazo para interposição do recurso, que se iniciou no dia 29/03/2019, considerando os dias em que não houve expediente e o disposto no art. 229 do CPC, somente findou no dia 16/05/2019 e como o recurso foi protocolado no dia 24/04/2019, data vênia, não há que se falar em intempestividade. (fls. 329/330)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, providência que não foi cumprida na apresentação do recurso. Veja-se que documento retirado da rede mundial de computadores, incluindo cópia de calendário do Poder Judiciário do Estado de Minas Gerais ou mera relação de feriados, sem trazer o inteiro teor dos respectivos atos normativos, como feito pela parte (fl. 316), não tem o condão de afastar a intempestividade.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR DE FERIADO LOCAL OU SUSPENSÃO DOS PRAZOS PROCESSUAIS. COMPROVAÇÃO EFETIVA.
+1. A Corte Especial do STJ pacificou o entendimento de que a existência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão, expedida pelo Tribunal de origem, que afirme o período no qual ocorreu um desses fatos (STJ, EREsp 884.009/RJ, Rel. Ministro Castro Meira, Rel. p/ acórdão Ministro Ari Pargendler, Corte Especial, DJe 11/4/2014).
+2. Na forma da jurisprudência, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe 15/10/2012).
+3. Para efeito de tempestividade, a prova do feriado local ou recesso forense deve ser feita pela parte interessada por meio de documento idôneo, não servindo cópia do calendário do judiciário extraído da internet.
+4. Agravo interno provido. (AgInt no AREsp 1250938/SP, relator Ministro Og Fernandes, Segunda Turma, , julgado em 9/10/2018, DJe de 15/10/2018)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL.
+INTEMPESTIVIDADE. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO.
+SIMPLES JUNTADA DE CÓPIA DE PÁGINA DA INTERNET NOTICIANDO FERIADO LOCAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS NÃO COMPROVADA.
+1. Para efeito de aferição da tempestividade recursal, a jurisprudência desta Corte Superior tem entendido que não basta a parte comprovar a simples ocorrência de feriado local. É preciso por documento idôneo, atestar a inexistência de expediente forense, o que, na hipótese, não ocorreu.
+2. A eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos Tribunais de Justiça Estaduais, deve ser comprovada por documento idôneo, não servindo para tanto, a juntada de cópias de páginas extraídas da rede mundial de computadores. Precedentes.
+3. Agravo regimental improvido (RCD no AREsp 898.206/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/10/2016, DJe 25/10/2016.)
+Com relação ao disposto no art. 229 do CPC de 2015, ainda persiste o entendimento de que "o prazo em dobro previsto no art. 191 do CPC não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer" (EDcl no AREsp n. 477.220/DF, Quarta Turma, relatora Ministra Maria Isabel Gallotti, DJe de 16/5/2014).
+Dessa forma, desde antes da interposição do agravo em recurso especial, a parte não tem direito ao prazo em dobro.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
