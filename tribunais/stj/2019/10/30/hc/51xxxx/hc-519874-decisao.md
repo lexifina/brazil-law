@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial com pedido liminar impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul nos Embargos Infringentes e de Nulidade n. 0001492-94.2018.8.12.0031/50000.
+Consta dos autos que o paciente foi condenado, pela prática do crime descrito no art. 157, § 3º, inciso II, c/c o art. 61, inciso II, alínea h, ambos do Código Penal, às penas de 22 (vinte e dois) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e de 11 (onze) dias-multa, porque, mediante violência consistente em chutes contra a cabeça da vítima [NOME], maior de 60 (sessenta) anos de idade, que foram causa de sua morte, subtraiu um veículo, um aparelho de celular e uma carteira (e-STJ fls. 200-206).
+Inconformada, a defesa interpôs apelação que foi parcialmente provida, por maioria, para reduzir a pena do réu para 21 (vinte e um) anos e 3 (três) meses de reclusão, mantidos os demais termos da sentença condenatória (e-STJ fls. 304-311).
+Opostos embargos infringentes e de nulidade, foram rejeitados (e-STJ fls. 358-362)
+No presente writ, a parte impetrante alega, em síntese, a ocorrência de constrangimento ilegal na dosimetria da reprimenda imposta ao paciente, pois afirma que a pena-base foi estabelecida acima do patamar mínimo sem fundamentação idônea.
+Assevera que a vetorial "circunstâncias do crime" refere-se ao modus operandi, não podendo ser valorada negativamente considerando o valor do bem subtraído, notadamente porque não houve prejuízo patrimonial, o bem foi restituído à família da vítima.
+Requer, ao final, a concessão da ordem de habeas corpus para que a pena-base seja fixada no mínimo legal.
+A liminar foi indeferida (e-STJ fls. 372).
+As informações foram prestadas (e-STJ fls. 375-388).
+Instado a se manifestar, o Ministério Público Federal manifestou-se pelo não conhecimento do writ, ou pela denegação da ordem de habeas corpus (e-STJ fls. 399-403).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do art. 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do art. 654, § 2º, do Código de Processo Penal.
+No que se refere à fixação da pena-base, constata-se que ao analisar os embargos infringentes e de nulidade, o Tribunal de origem manteve o acórdão proferido, por maioria, no julgamento do recurso de apelação, com amparo nos seguintes fundamentos (e-STJ fls. 359-361):
+As circunstâncias do crime relacionam-se aos elementos periféricos ao fato, que indiquem maior censurabilidade da ação, ainda não valorados e que não integrem o tipo penal.
+Segundo se observa da decisão embargada, as circunstâncias do crime foram consideradas negativas ao seguinte fundamento: "o elevado valor do bem subtraído (veículo R$ 31.284,00) justifica sim a exasperação da pena-base acima do mínimo. Aliás, nesse sentido já decidiu o STJ no REsp 1.635.475 SP, bem este E. TJMS na Apelação nº 0005022-75.2013.8.12.0001, 1ª Câmara Criminal, Relatora: esª. [NOME], j: 05/06/2018, p: 11/06/2018."
+Ainda que se saiba que o prejuízo material à vítima de crime contra o patrimônio é inerente ao tipo, não se pode olvidar que quando esse prejuízo é substancial, de elevada monta, considera-se graves as consequências, conforme entendimento sedimentado no Superior Tribunal de Justiça. Como exemplo (sem grifos na fonte e com redução ao ponto que aqui importa):
+ ..
+No caso, o valor do bem subtraído equivale a R$ 31.284,00 (trinta e um mil e duzentos e oitenta e quatro reais), extrapolando a normalidade, justificando a exasperação da pena-base.
+Em cotejo à fundamentação utilizada, extrai-se dos autos que o entendimento das instâncias ordinárias está em consonância com a jurisprudência desta Corte, que se firmou no sentido de ser possível a elevação da pena-base dos crimes patrimoniais com fundamento no elevado valor do bem subtraído.
+Na hipótese, consignou-se que "o elevado valor do bem subtraído (veículo R$ 31.284,00) justifica sim a exasperação da pena-base acima do mínimo", circunstância idônea a justificar a atribuição de maior desvalor à referida vetorial.
+Ademais, ainda que o veículo tenha sido restituído à família da vítima, consta dos autos que, antes de ser detido pelos policiais, "o réu provocou um acidente com o veículo da vítima" (e-STJ fl. 201), causando avarias ao bem e, portanto, prejuízos, pois "o réu teria afirmado que iria buscar dinheiro para pagar o conserto e se evadiu do local" (e-STJ fl. 201).
+A respeito do tema, confiram-se os seguintes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. QUANTUM DE AUMENTO DA PENA-BASE PROPORCIONAL. REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+ ..
+3. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. Na hipótese, o magistrado salientou que houve elevado prejuízo patrimonial à vítima - que superou R$ 75.000, 00 (setenta e cinco mil reais) e não foi sequer restituído, permitindo a valoração negativa desse vetor.
+ ..
+8. Agravo regimental não provido.
+(AgRg no AREsp 871.249/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/05/2019, DJe 20/05/2019)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 33, § 2º, C, E § 3º, DO CP. DOSIMETRIA. PLEITO DE ABRANDAMENTO DO REGIME INICIAL. INVIABILIDADE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA. CONSEQUÊNCIAS DO CRIME. EXPRESSIVO VALOR DAS RES FURTIVA RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL.
+APLICAÇÃO DO ART. 33, § 3º, DO CP.
+1. Reputa-se como válida a negativação das consequências do delito, notadamente pelo expressivo valor subtraído, R$ 12.000,00 (doze mil reais) em dinheiro e R$ 2.160,00 (dois mil, cento e sessenta reais) em cheques, aliado ao fato de grande parte do referido valor não ter sido restituído à vítima.
+2. As consequências do crime consistem no conjunto de efeitos danosos provocados pelo crime. Em concreto, as instâncias ordinárias concluíram que o crime causou à vítima grandes avarias materiais, haja vista o elevado valor do bem subtraído, consistente em um veículo Hyundai/HB20, o que ultrapassa largamente a perda patrimonial ordinariamente esperada para um crime de roubo (HC n. 444.181/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/6/2018).
+ ..
+7. Agravo regimental improvido.
+(AgRg no REsp 1699788/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/08/2018, DJe 03/09/2018)
+HABEAS CORPUS. LATROCÍNIO E DOIS ROUBOS MAJORADOS PELO EMPREGO DE ARMA E PELO CONCURSO DE AGENTES. WRIT SUBSTITUTIVO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. ILEGALIDADE. ROUBO E LATROCÍNIO. DELITOS DE ESPÉCIE DIVERSAS. CONTINUIDADE DELITIVA RECONHECIDA PELA INSTÂNCIA ANTECEDENTE E QUE NÃO PODE SER AFASTADA NO HABEAS CORPUS. CONTINUIDADE DELITIVA ESPECÍFICA. ART. 71, PARÁGRAFO ÚNICO, DO CP. [NOME]. IMPOSSIBILIDADE. FALTA DE FUNDAMENTAÇÃO CONCRETA. ORDEM CONCEDIDA DE OFÍCIO.
+1. Não há constrangimento ilegal no ponto em que as instâncias ordinárias, para exasperar a pena-base, levaram em consideração as avarias que, durante a fuga, os agentes causaram para o veículo subtraído e para o veículo que os perseguiu logo depois do roubo, justificando, de maneira idônea, o aumento razoável da pena-base, em 1 ano, ante a análise negativa das consequências do crime.
+ ..
+6. Ordem não conhecida. Habeas corpus concedido de ofício para, em relação aos crimes de roubo, fazer incidir a fração mínima de 1/3 na terceira etapa da dosimetria, em razão das majorantes, aumentar a pena mais grave no mínimo legal, em decorrência da continuidade delitiva específica e fixar em 23 anos e 4 meses de reclusão, mais 36 dias-multa, a reprimenda final do paciente.
+(HC 222.928/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/09/2015, DJe 29/09/2015)
+Por essas razões, e notadamente porque o acórdão impugnado harmoniza-se com a jurisprudência desta Corte, não se verifica nenhum constrangimento ilegal a ser sanado pela via eleita.
+Ante o exposto, por se afigurar manifestamente incabível, com fundamento no art. 34, inciso XX, do Regimento Interno deste Superior Tribunal, não se conhece do habeas corpus.
+Publique-se. Intimem-se.
