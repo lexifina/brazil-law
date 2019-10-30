@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO. SUBSTITUIÇÃO DO TÍTULO JUDICIAL. PERDA SUPERVENIENTE DE OBJETO. RECURSO EXTRAORDINÁRIO PREJUDICADO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “ACIDENTE DO TRABALHO. BENEFÍCIO. AUXÍLIO ACIDENTE. EXECUÇÃO DE SENTENÇA. RECURSO DE APELAÇÃO – INSS – AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO – DESERÇÃO – NÃO CONHECIMENTO. ART. 511, CAPUT, DO CÓDIGO DE PROCESSO CIVIL C/C A LEI ESTADUAL N° 11.608/03. RECURSO DO INSS NÃO CONHECIDO. RECURSO DE OFÍCIO INEXISTENTE, NO CASO” (fl. 2, e-doc. 7).
+    Os embargos de declaração opostos foram rejeitados (fls. 2-6, e-doc. 12).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. IV do art. 24, o § 2º do art. 98 e o inc. II do art. 145 da Constituição da República.
+    O recorrente alega que “a legislação estadual não pode, alterando o conceito de taxa judiciária, realizar a cobrança do porte de remessa e retorno como se taxa não fosse. Tanto é inconstitucional ampliar o conceito de taxa judiciária para abarcar situações não enquadráveis no instituto, como também o é reduzir o mesmo conceito, de modo a limitar o campo de abrangência da isenção” (fl. 11, e-doc. 15).
+    Argumenta que, “sendo o INSS isento de taxa judiciária, e sendo o porte de remessa e de retomo uma taxa judiciária, conclui-se que há isenção da Autarquia também no que se refere ao porte de remessa e de retorno. Outro entendimento fere o artigo 110 do CTN, bem como os artigos 24, inciso IV, 98, § 21, 145, inciso II, todos da CF” (fl. 15, e-doc. 15).
+    Assevera que “a exigência do porte de retorno representa indevido obstáculo ao amplo acesso ao Judiciário, consagrado no princípio constitucional da inafastabilidade do controle jurisdicional — artigo 5, inciso XXXV, da CF” (fl. 15, e-doc. 15).
+    Requer seja reformado o acórdão para “dispensar a Autarquia do recolhimento de porte de retorno, remetendo-se os autos à origem para apreciar o mérito do recurso interposto” (fl. 16, e-doc. 15).
+    3. Em 27.6.2012, o presidente da Seção de Direito Público determinou a devolução dos autos ao Tribunal de origem para aguardar o julgamento do mérito de processo submetido à sistemática da repercussão geral por ser a matéria em debate objeto do Recurso Extraordinário n. 594.116, Tema 135 (fl. 9, e-doc. 20).
+    Após o julgamento do mérito do Recurso Extraordinário n. 594.116-RG, o Presidente da Seção de Direito Público do Tribunal de Justiça de São Paulo determinou o retorno dos autos ao juiz relator para que fosse exercido o juízo de retratação (fl. 1, e-doc. 21).
+    Em 15.5.2018, a Décima Sexta Câmara de Direito Público do Tribunal de Justiça de São Paulo decidiu não ser o caso de retratação quanto ao Recurso Extraordinário n. 594.116, com a seguinte fundamentação:
+    “EMBARGOS À EXECUÇÃO — REEXAME EM RECURSO REPETITIVO — DESCABIMENTO — RECURSO DE APELAÇÃO DO RÉU EMBARGANTE. NÃO CONHECIDO, DIANTE DA AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO — AUTARQUIA FEDERAL QUE NÃO ESTÁ ISENTA DO PAGAMENTO DE REFERIDA DESPESA — CONCEITO DE PORTE DE REMESSA E RETORNO QUE NÃO SE CONFUNDE COM O DE PREPARO — INTELIGÊNCIA DA LEI ESTADUAL N. 11.608/03. Acórdão mantido” (fl. 1, e-doc. 23).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O presente recurso está prejudicado por perda superveniente do objeto.
+    5. O recorrente interpôs, simultaneamente ao recurso extraordinário, recurso especial.
+    O Superior Tribunal de Justiça julgou o Recurso Especial n. 1.766.224 nos seguintes termos:
+    “A Corte Especial do Superior Tribunal de Justiça, no julgamento do Tema n° 16, vinculado ao Recurso Especial Repetitivo n° 1.101.727/PR, firmou entendimento no sentido de que descabe exigir do INSS p depósito prévio do preparo para fins de interposição de recurso em ação que tramita perante a Justiça Estadual, podendo a autarquia efetuar o pagamento do preparo no final da demanda, se vencida (…). Nessa linha, o acórdão recorrido está em confronto com entendimento firmado no âmbito desta Corte. Ante o exposto, dou provimento ao recurso especial a fim de afastar a preliminar de deserção e determinar o retorno dos autos do Tribunal de origem para julgamento do recurso voluntário interposto pelo INSS” (fls. 5-6, e-doc. 29).
+    Essa decisão transitou em julgado em 18.10.2018 (fl. 8, e-doc. 29) e operou-se a substituição expressa do julgado recorrido, conforme disposto no art. 1.008 do Código de Processo Civil.
+    Por não subsistir o acórdão recorrido, está prejudicado o recurso. Assim, por exemplo:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso especial da parte interessada provido pelo Superior Tribunal de Justiça. Reconhecimento da prescrição da pretensão da parte recorrida. Recurso extraordinário prejudicado. Precedentes. 1. O provimento de recurso especial pelo Superior Tribunal de Justiça com o reconhecimento da prescrição da pretensão da parte recorrida torna prejudicado o recurso extraordinário interposto na mesma demanda, por perda de objeto. 2. Agravo regimental não provido”
+(ARE n. 1.198.293-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 9.9.2019).
+    “DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL DA PARTE PROVIDO NO SUPERIOR TRIBUNAL DE JUSTIÇA. PREJUDICILIADADE. 1. O recurso especial interposto pela parte ora embargante foi provido pelo Superior Tribunal de Justiça, havendo transitado em julgado em 12.03.2018. 2. Embargos de declaração acolhidos para julgar prejudicado o agravo de instrumento e, consequentemente, o recurso extraordinário”
+(AI n. 685.331-AgR-ED, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 18.10.2019).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. RECURSO ESPECIAL PROVIDO. RECURSO EXTRAORDINÁRIO PREJUDICADO. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – O provimento do recurso especial interposto pelo recorrente, prejudica o recurso extraordinário por ela interposto. III - Agravo regimental a que se nega provimento”
+(ARE n. 1.144.347-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 7.12.2018).
+    Nada há a prover quanto às alegações do recorrente.
+    6. Pelo exposto, julgo prejudicado o presente recurso extraordinário por perda superveniente de objeto e determino a baixa dos autos à origem (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de outubro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
