@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ADILSON LUIS XAVIER ou ADILSON LUIZ XAVIER, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 9000011-81.2018.8.26.0344).
+O MM. Juiz de Direito da Vara de Execuções Criminais de Marília deferiu o pedido de indulto de pena do paciente.
+Irresignada, a acusação interpôs agravo em execução, sustentando que não foram satisfeitos os requisitos necessários àquele benefício. O recurso foi provido pelo Tribunal de Justiça, nos termos da ementa:
+Agravo em Execução - Pedido de indulto. Hipótese em que o preso não satisfez os requisitas exigidos pelo Decreto n. 9.246/17. Agravo provido.
+No presente mandamus, a defesa sustenta que foi dado provimento ao recurso ministerial sem intimação dos defensores constituídos para apresentação das contrarrazões recursais, tampouco para os demais atos processuais, sendo-lhe nomeado defensor dativo por equívoco. Aponta que o agravo em execução era intempestivo, sendo caso de não conhecimento do recurso.
+Requer, assim, em liminar e no mérito, que seja anulado o acórdão prolatado nos autos do referido Agravo em Execução, com imediata expedição de contramandado de prisão em favor do paciente.
+Medida liminar indeferida conforme decisão de fls. 55/56.
+Informações prestadas às fls. 65/117.
+Parecer ministerial de fls. 119/121 pela concessão da ordem.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, na hipótese, há manifesto constrangimento ilegal configurado que merece reparos de ofício.
+Na esteira do delineado no parecer ministerial da lavra do douto Subprocurador-Geral da República MARIO PIMENTEL DE ALBUQUERQUE, o qual adoto como razões de decidir, ausente intimação dos causídicos responsáveis pelo patrocínio da defesa a fim de apresentar contrarrazões ao agravo em execução, o que configura nulidade por ocorrência de cerceamento de defesa.
+Ilustrativamente:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. TRÁFICO DE DROGAS E ORTE ILEGAL DE ARMA DE FOGO. CONCURSO MATERIAL. ALTERAÇÃO DA ADEQUAÇÃO TÍPICA. IMPOSSIBILIDADE. DELITOS AUTÔNOMOS. CONCLUSÃO DIVERSA. DILAÇÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. REGIME INICIAL. SUPRESSÃO DE INSTÂNCIA. CERCEAMENTO DE DEFESA CONFIGURADO. AUSÊNCIA DE INTIMAÇÃO DO ADVOGADO CONSTITUÍDO PELO APENADO PARA OFERECER CONTRARRAZÕES AO AGRAVO DE EXECUÇÃO MINISTERIAL. ORDEM CONCEDIDA DE OFICIO.
+1. É inadmissível o emprego do writ em substituição ao meio processual cabível.
+2. Não há como conhecer de matérias que demandariam o exame de matéria fático-probatória e que não foram objeto de exame no Tribunal de origem, sob pena de supressão de instância.
+3. A escolha de defensor é um direito inafastável do acusado, em razão da relação de confiança que deve existir entre ele e o seu patrono. Assim, é de rigor que o advogado constituído seja intimado para apresentar contrarrazões ao recurso da acusação e, em caso de inércia, deve-se intimar o réu para que nomeie novo patrono, sob pena de nulidade, por cerceamento de defesa. Somente se inerte o acusado, proceder-se-á à nomeação da Defensoria Pública ou de defensor dativo.
+4. No caso, verifica-se a ocorrência de cerceamento de defesa, pois o Juízo da Vara de Execuções Penais, ao receber o agravo em execução interposto pelo Ministério Público, encaminhou os autos à Defensoria Pública, para que ela oferecesse contrarrazões ao recurso, em detrimento dos advogados constituídos pelo paciente para acompanhar sua execução penal.
+5. Habeas corpus não conhecido. Ordem concedida de ofício, nos termos do dispositivo (HC 249.445/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 23/2/2015)
+Nos termos do art. 197 da Lei de Execuções Penais - LEP, o recurso interposto pelo Ministério Público não possui efeito suspensivo. Nessa ordem de idéias, volta a vigorar a decisão do juízo das execuções que concedeu o indulto e declarou extinta a punibilidade do ora paciente em relação a pena privativa de liberdade imposta na [NOME] 0008135-91.2007.8.26.0604, da 2ª Vara Criminal de Sumaré/SP (fls. 22/23).
+Ante o exposto, voto no sentido de conhecer da impetração e conceder a ordem de habeas corpus para anular o julgamento do Agravo em Execução n. 9000011-81.2018.8.26.0344, determinando a realização de novo julgamento com a prévia intimação da defesa constituída e o restabelecimento da decisão de primeiro grau que havia concedido o indulto e extinto a punibilidade em relação a pena privativa de liberdade imposta na [NOME] 0008135-91.2007.8.26.0604, da 2ª Vara Criminal de Sumaré/SP.
+Publique-se. Intime-se.
