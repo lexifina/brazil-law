@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pela Terceira Turma do Tribunal Regional Federal da 1ª Região, no julgamento do HC n. 1009334-12.2019.4.01.0000.
+De acordo com os autos, o paciente foi denunciado pela suposta prática dos crimes previstos no art. 2º, caput, da Lei n. 12.850/2013, com as causas de aumento dos §§ 2º e 4º, III, IV e V; arts. 33 e 35 da Lei n. 11.343/2006; arts. 12 e 18 c/c o art.19 da Lei n. 10.826/2003.
+Após o recebimento da denúncia, a defesa impetrou habeas corpus perante a Corte de origem, buscando, em suma o trancamento da ação penal movida em desfavor do paciente, alegando, em síntese, inépcia denúncia e a existência de vícios capazes de ensejar a anulação da persecução criminal.
+A ordem, contudo, foi denegada na origem, por meio de acórdão assim ementado (e-STJ, fl. 100):
+PROCESSUAL PENAL. DENÚNCIA QUE EXPÕE O FATO CRIMINOSO E HABEAS CORPUS AS SUAS CIRCUNSTÂNCIAS. NULIDADES NÃO CONFIGURADAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. A conduta do paciente foi devidamente detalhada na denúncia, que preencheu os requisitos do artigo 41, do Código de Processo Penal.
+2. O magistrado vislumbrou os elementos objetivos que permitem identificar os fatos atribuídos ao paciente, satisfazendo o quanto disposto no art. 41, do CPP. Verificou que havia justa causa para a persecução penal, uma vez que a denúncia fundamentou-se em inquérito policial no qual foram colhidos elementos probatórios que indicam a autoria e materialidade delitiva.
+3. Na jurisprudência nacional está consagrada a diretriz no sentido de que, na via estreita do , o trancamento da ação penal por falta de justa causa somente pode ocorrer desde habeas corpus que se comprove, de plano, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova sobre a materialidade do delito, situações não ocorrentes, na espécie.
+4. Ordem denegada.
+Neste writ, a defesa alega que a Corte regional não apreciou o pleito apresentado pelo impetrante, caracterizando cerceamento de defesa e ofensa à inafastabilidade da jurisdição. Na oportunidade, o impetrante alegou a ocorrência de de diversos vícios capazes de ensejar a nulidade do feito. Assevera, ainda, que é inepta a denúncia em relação ao ora paciente.
+É o relatório. Decido.
+Observa-se que o presente mandamus consubstancia-se em mera reiteração do pleito formulado no HC n. 518.262/BA, cujo pedido de liminar foi indeferido em 27/6/2019, decisão publicada em 28/8/2019. Registre-se que ambos os processos contam com as mesmas partes (paciente e órgão apontado como coator) e mesma causa de pedir, revelando, assim, litispendência.
+Nesse sentido, a título de exemplo:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. 1. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. 2. REITERAÇÃO DE PEDIDO. OCORRÊNCIA. 3. RECURSO IMPROVIDO. 1. Caracterizada no presente habeas corpus a mera reiteração de pedido, uma vez que há identidade de partes, fundamento e objeto com o HC n.º 117.120/PE, já julgado por este Superior Tribunal, de imposição o seu reconhecimento. 2. Agravo regimental a que se nega provimento. (AgRg no HC n. 118.447/PE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 5/2/2013, DJe 15/2/2013).
+Ante o exposto, não conheço do presente habeas corpus.
+Intimem-se.
