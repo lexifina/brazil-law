@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por [NOME] contra o v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO DE CONTRATO. AUSÊNCIA DE NOTIFICAÇÃO. INADIMPLEMENTO PARCIAL. CULPA DOS DEMANDADOS PELO DESFAZIMENTO DO NEGÓCIO.
+Mora evidenciada pela notificação realizada por intermédio de publicação de edital na imprensa local, somado ao fato de estar, a apelante, inadimplente com o pagamento das parcelas.
+Requerido que nenhuma prova requereu não pode opor-se ao julgamento, de pronto, do processo, quando a matéria em discussão diz somente com questão de direito.
+Desnecessária a produção de provas adicionais quando a discussão restringe-se à matéria de direito, sendo suficientes para o julgamento da lide, os documentos juntados aos autos a pedido das partes.
+Audiência de conciliação inteiramente desnecessária, na medida em que a composição poderia ser feita pelas partes, fora do juízo.
+Fundado o pedido rescisório na inadimplência dos compradores, que pagaram apenas quatro, das cem prestações pactuadas, não é possível imputar à demandante a culpa pelo desfazimento do negócio por eventuais irregularidades no loteamento.
+PREQUESTIONAMENTO O julgador não está obrigado a se manifestar sobre todos os dispositivos indicados pela parte, tendo encontrado fundamentos jurídicos suficiente para resolver a questão.
+Sentença confirmada.
+POR MAIORIA, NEGARAM PROVIMENTO AO RECURSO, VENCIDO O REVISOR." (e-STJ, fl. 161)
+Nas razões do recurso especial, a ora agravante aponta violação aos arts. 231, 232 e 233 do Código de Processo Civil/73, 76 do Código Civil, bem como divergência jurisprudencial. Sustenta, em síntese, que a "notificação realizada via edital não se mostrou correta, na medida em que, possuindo, o demandado, endereço conhecido, sendo militar, tendo assim domicílio necessário, a notificação na forma em que efetuada, caracterizou má-fé da parte autora, porque impossibilitou ao recorrente manifestar-se acerca do assunto posto em discussão, pela publicação de edital que não respeitou os mínimos requisitos de segurança, desobedecendo à regra processual, civil e também súmula consagrada do STJ" (e-STJ, fl. 195). Assim, a recorrida não cumpriu procedimento indispensável no que diz respeito à notificação extrajudicial, que deve ser feita antes da propositura da ação.
+Contrarrazões apresentadas às fls. 515/521, e-STJ.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Na espécie, tem-se que os temas referentes à suposta violação ao art. 76, do Código Civil e arts. 231, 232 e 233 do CPC/73 não foram apreciados pelo eg. Tribunal a quo, acarretando a ausência de prequestionamento desses dispositivos legais. Ademais, não foram opostos embargos de declaração em face do o v. acórdão que julgou a apelação, para fins de prequestionar essas normas.
+Nesse diapasão, nessa parte o apelo nobre não merece conhecimento, em face da incidência, por analogia, do óbice da Súmula 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REAJUSTE DE BENEFÍCIO. FALTA DE PREQUESTIONAMENTO E INVIABILIDADE DE ANÁLISE DE INSTRUMENTOS CONTRATUAIS E CONTEXTO FÁTICO-PROBATÓRIO. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Os temas insertos nos arts. 42 da Lei 6.435/77 e 21 do Decreto 81.240/78, tidos por contrariados, não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt no REsp 1693829/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. CONFIGURAÇÃO DO ATO ILÍCITO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1107715/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+O Tribunal de origem no que diz respeito à notificação do ora recorrente manifestou-se nos seguintes termos:
+"Ao contrário do afirmado pela parte recorrente, não há falar em ausência de regular notificação, porque mercê da cópia de fl. 23, evidenciado que, em 27 de fevereiro de 2008 foi realizada publicação, na imprensa local, de edital de notificação para que, no prazo de 30 (trinta) dias a contar da publicação, o demandado comparecesse ao escritório da autora, para tratar de assunto de seu interesse.
+De destacar, ainda, que a inadimplência no pagamento das parcelas avençadas, por si só caracteriza a mora do demandado, conforme se observa da clara e expressa previsão do art. 397 do Código Civil. A parte poderia ter efetuado a composição do débito a qualquer tempo, se assim o quisesse, desnecessária a exigência de notificação para que providenciasse na regularização dos pagamentos.
+Vai afastada, assim, a alegação." (e-STJ, fl. 166)
+Nesse contexto, verifica-se que o acórdão recorrido se harmoniza com entendimento pacificado nesta Corte ao considerar desnecessária a notificação do devedor, em caso de mora ex re.
+A propósito:
+RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ENTREGA DA OBRA. ATRASO. AÇÃO DE INDENIZAÇÃO. MORA EX RE. INADIMPLEMENTO CONTRATUAL. DANOS MATERIAIS. MULTA CONTRATUAL. PREVISÃO. CASO FORTUITO. FORÇA MAIOR. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. DANOS MORAIS. NÃO CONFIGURAÇÃO. CORREÇÃO MONETÁRIA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A controvérsia a ser dirimida reside em definir se a responsabilidade pelo atraso na entrega do loteamento imobiliário vendido pela recorrente ocorreu por sua exclusiva responsabilidade ou por caso fortuito/força maior decorrente de desídia do poder público na expedição de alvarás indispensáveis à consecução do empreendimento.
+2. A mora ex re independe de qualquer ato do credor, como interpelação ou citação, porquanto decorre do próprio inadimplemento de obrigação positiva, líquida e com termo implementado, cuja matriz normativa é o art. art. 397, caput, do Código Civil de 2002.
+3. Havendo prazo certo para cumprimento da obrigação, sem que haja dúvida quanto ao valor a ser pago pelo eventual inadimplemento contratual (multa expressamente prevista no instrumento de promessa de compra e venda), desnecessária a notificação da devedora sobre a mora. Aplicação do brocardo dies interpellat pro homine.
+4. Esta Corte possui entendimento consolidado no sentido de que a inversão das conclusões da Corte local, para afirmar que o atraso na entrega de imóvel adquirido na planta além do prazo de tolerância estipulado seria decorrente de caso fortuito ou força maior (desídia do poder público), demandaria o reexame do conjunto fático-probatório dos autos, circunstância que atrai a incidência da Súmula nº 7/STJ.
+5. A jurisprudência desta Corte consolidou-se no sentido de que o simples inadimplemento contratual, consubstanciado no atraso na entrega do imóvel, não é capaz por si só de gerar dano moral indenizável, devendo haver, no caso concreto, consequências fáticas que repercutam na esfera de dignidade da vítima.
+6. Ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF.
+7. Recurso especial conhecido e parcialmente provido.
+(REsp 1654843/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/02/2018, DJe 06/03/2018)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OBRIGAÇÃO POSITIVA, LÍQUIDA E COM TERMO CERTO. DIES INTERPELLAT PRO HOMINE. MORA EX RE. JURISPRUDÊNCIA PACÍFICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. As matérias atinentes aos arts. 3º e 603 do CPC/73 e ao art. 405 do CC/2002 não foram analisadas pela Corte Estadual. Assim, não se verifica o prequestionamento necessário para viabilizar a interposição do recurso especial, circunstância que atrai o óbice das Súmulas 282/STF e 211/STJ.
+2. Não há violação do disposto no artigo 131 do CPC/73 pelo Tribunal de origem quando todas as questões trazidas à apreciação, por ocasião do julgamento de liquidação de sentença por arbitramento, são devidamente analisadas pelas instâncias ordinárias, embora de forma desfavorável ao recorrente.
+3. Tratando-se de obrigação positiva, líquida e com termo certo de vencimento, a regra a incidir é a do brocardo dies interpellat pro homine. Tem-se, pois, não a mora ex persona, mas a mora ex re, quando, então, as consequências do inadimplemento ocorrem imediatamente após o termo da obrigação, na medida em que o devedor tem prévia ciência da data em que a obrigação líquida deve ser adimplida, dispensando, assim, eventual notificação complementar por parte do credor.
+4. Recurso especial desprovido.
+(REsp 1.034.269/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/10/2016, DJe 26/10/2016 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
