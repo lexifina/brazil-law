@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por AMAZONAS DISTRIBUIDORA DE ENERGIA S/A contra acórdão prolatado, por unanimidade, pela 1ª Câmara Cível do Tribunal de Justiça do Estado do Amazonas no julgamento de apelação, assim ementado (fl. 83e):
+APELAÇÃO CÍVEL. AÇÃO MONITORIA DE FATURAS DE ENERGIA ELÉTRICA. PRAZO PRESCRICIONAL DE CINCO ANOS NA FORMA DO ART. 206, § 5º, INCISO I. DO CÓDIGO CIVIL. RECONHECIMENTO EX OFFICIO DA PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. ARTIGO 487, II, DO CPC. SENTENÇA DE PRIMEIRO GRAU ANULADA.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 205 do Código Civil, alegando-se, em síntese, que, "em se tratando de débito relativo a consumo de energia elétrica, aplica-se o prazo prescricional decenal" (fl. 94e).
+Sem contrarrazões (fl. 141e), o recurso foi admitido (fls. 142/144e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte, firmada sob o rito do art. 543-C do Código de Processo Civil, segundo a qual o prazo prescricional para ação de cobrança de tarifa de energia elétrica é decenal, nos termos do art. 205 do Código Civil, consoante espelha o paradigma assim ementado:
+ADMINISTRATIVO. SERVIÇOS DE FORNECIMENTO DE ÁGUA. COBRANÇA DE TARIFA PROGRESSIVA. LEGITIMIDADE. REPETIÇÃO DE INDÉBITO DE TARIFAS. APLICAÇÃO DO PRAZO PRESCRICIONAL DO CÓDIGO CIVIL. PRECEDENTES.
+1. É legítima a cobrança de tarifa de água fixada por sistema progressivo.
+2. A ação de repetição de indébito de tarifas de água e esgoto sujeita-se ao prazo prescricional estabelecido no Código Civil.
+3. Recurso especial da concessionária parcialmente conhecido e, nessa parte, provido. Recurso especial da autora provido. Recursos sujeitos ao regime do art. 543-C do CPC.
+(REsp 1.113.403/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 09/09/2009, DJe 15/09/2009).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA DE TARIFA. PRAZO PRESCRICIONAL. REGRA GERAL DOS CÓDIGOS CIVIS. 20 ANOS, ART. 177 DO CC/1916, E 10 ANOS, ART. 205 DO CC/2002. RECURSO ESPECIAL PROVIDO, PARA RECONHECER A INCIDÊNCIA DO PRAZO DECENAL DA PRESCRIÇÃO. REGRA DE CONGRUÊNCIA. INAPLICABILIDADE. MATÉRIA DE ORDEM PÚBLICA. AGRAVO INTERNO DA COMPANHIA DE ENERGIA ELÉTRICA DESPROVIDO.
+1. A 1ª Seção desta Corte, no julgamento do REsp. 1.113.403/RJ, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 15.9.2009, submetido à sistemática do art. 543-C do CPC/1973, firmou o entendimento de que se aplica o prazo prescricional estabelecido pela regra geral do Código Civil - a dizer, de 20 anos, na forma estabelecida no art. 177 do CC de 1916, ou de 10 anos, de acordo com o previsto no art. 205 do CC de 2002 -, às ações que tenham por objeto a cobrança de tarifa ou preço público, na qual se enquadra o serviço de fornecimento de energia elétrica e água.
+2. Em relação ao princípio da congruência e a suposta inviabilidade de reconhecimento do prazo prescricional mais dilatado que o apontado na exordial, frise-se que a regra de correlação não se aplica às matérias de ordem pública, como na espécie, não havendo falar em julgamento extra, infra ou ultra petita quando o Órgão Julgador se pronuncia de ofício sobre os referidos temas. Precedente da Corte Especial: REsp. 1.112.524/DF, Rel. Min. LUIZ FUX, DJe 30.9.2010.
+3. Agravo Interno da COMPANHIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA CEEED - RS desprovido.
+(AgInt no AREsp 587.745/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/03/2019, DJe 02/04/2019, destaque meu).
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC. COBRANÇA. ENERGIA ELÉTRICA. OBRIGAÇÃO DE NATUREZA PESSOAL. PRAZO PRESCRICIONAL DECENAL. ENTRADA EM VIGOR DO NOVO CÓDIGO CIVIL (11.3.2003).
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O art. 557 do CPC foi corretamente aplicado na hipótese sub judice, porque a Corte estadual decidiu em conformidade com seus precedentes.
+3. O Superior Tribunal de Justiça entende que o débito de energia elétrica é de natureza pessoal, não se caracterizando como obrigação de natureza propter rem.
+4. A Ação de cobrança dos débitos de energia elétrica, referente ao período de setembro de 1995 a agosto de 1996, foi ajuizada em 30.11.2005. Portanto incide a regra de transição do art. 2.028 do CC, porque decorrido menos da metade do prazo vintenário, quando da entrada em vigor do novo Código Civil.
+5. Conforme o entendimento do STJ, a ação de cobrança prescreve em 20 (vinte) anos, na vigência do Código Civil de 1916, e em 10 (dez) anos, na vigência do Código Civil de 2002, devendo o termo inicial do prazo ser contado da entrada em vigor do novo Código Civil. Precedentes: AgRg no AREsp 324.990/MS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 5/2/2016) e AgRg no AREsp 815.431/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/02/2016.
+6. Recurso Especial não provido.
+(REsp 1.579.177/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/03/2016, DJe 31/05/2016, destaque meu).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para afastar a prescrição quinquenal, nos termos expostos.
+Publique-se e intimem-se.
