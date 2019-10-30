@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO.
+1. Julgamento sob a égide do CPC/15.
+2. Ação de obrigação de fazer.
+3. A discussão acerca da manutenção ou não do ex-empregado em plano de saúde coletivo de entidade de autogestão é de natureza é preponderantemente civil e não trabalhista. Dessa forma, a competência para o julgamento da ação é da Justiça comum Estadual. Súmula 568/STJ.
+4. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDACAO SAUDE ITAU, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 29/10/2018.
+Concluso ao gabinete em: 04/10/2019.
+Ação: de obrigação de fazer, ajuizada por ELIANA CRISTINA FIRMINO BARONI, em face da recorrente, na qual alega - em síntese - que a demandante é aposentada e permaneceu trabalhando para o BANCO ITAÚ, quando então foi demitida sem justa causa. Relata que, na ocasião, foi informada sobre a manutenção do seguro saúde, com sua participação pecuniária e, diante da proximidade da data do término do benefício, entrou em contato com a Central de Atendimento de Pessoas da ex-empregadora para optar pela sua permanência no plano, assumindo o custeio integral. Entretanto, foi informada que o valor da mensalidade, que era de R$ 828,57 para si e dois dependentes, passaria a ser R$ 1.710,59, por pessoa. Relata que faz jus à manutenção do plano de saúde nas mesmas condições dos empregados ativos, com a assunção da parcela paga pelo empregador, nos termos do art. 31 da Lei 9.656/98.
+Sentença: julgou procedente a ação.
+Acórdão: não conheceu da apelação interposta pela recorrente e, de ofício, anulou a sentença, determinando a redistribuição dos autos para uma das Varas da Justiça do Trabalho, nos termos da seguinte ementa:
+APELAÇÃO - Plano de Saúde - Ação Ordinária - Segurada aposentada - Pretensão de afastar a cobrança de valores de mensalidade majorados em razão de criação plano de saúde exclusivo para ex-empregados e aposentados, bem como de restituição de valores pagos indevidamente - Beneficiária de contrato coletivo de assistência médica - Sentença de procedência - Inconformismo - Alegação de que o plano de saúde mantido por ela não se confunde com os planos comerciais, uma vez que é de autogestão, ou seja, a ré não objetiva qualquer lucro com o mesmo, que a manutenção do aposentado no plano de saúde nos mesmos termos contratados, diz respeito às mesmas condições de cobertura e não ao valor das mensalidades, sendo perfeitamente possível a criação de carteira exclusiva para ex-empregados e aposentados - Incompetência absoluta da Justiça Estadual, que pode ser declarada de ofício, a qualquer tempo - Recurso não conhecido, com anulação da r. sentença e determinação de remessa dos autos à Justiça do Trabalho. (e-STJ, fl. 337)
+Embargos de declaração de fls. 355/358 (e-STJ): opostos pela recorrida, foram rejeitados.
+Embargos de declaração de fls. 371/374 (e-STJ): opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 42, 44 e 64, §§ 1º e 4º, todos do CPC/15, bem como dissídio jurisprudencial. Sustenta a que competência para o julgamento de ação concernente à manutenção de ex-empregado aposentado em plano de saúde coletivo de entidade de autogestão é da Justiça comum Estadual, em razão da natureza civil da pretensão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da competência da Justiça comum Estadual para julgamento de demanda referente à manutenção de ex-empregado aposentado em plano de saúde coletivo de entidade de autogestão (Súmula 568/STJ)
+O TJ/SP, ao reconhecer a incompetência da Justiça comum Estadual para julgamento de demanda referente à manutenção de ex-empregado aposentado em plano de saúde coletivo de entidade de autogestão, divergiu do entendimento deste STJ, no sentido de que a discussão acerca da manutenção ou não do ex-empregado em plano de saúde coletivo de entidade de autogestão é de natureza é preponderantemente civil e não trabalhista. Dessa forma, a competência para o julgamento da ação é da Justiça comum Estadual. Nesse sentido: CC 157.664/SP (2ª Seção, DJe 25/05/2018).
+Logo, merece provimento o recurso especial, de modo a reformar o acórdão recorrido, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para: i) cassar o acórdão recorrido; ii) determinar o retorno dos autos ao Tribunal de origem para o julgamento da apelação interposta pela recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
