@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manifestado em face da decisão que negou seguimento ao recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Contrato de faturização - Títulos de crédito - Duplicatas - Aceite - Causa subjacente.
+1. O contrato de faturização é de natureza mista, envolvendo essencialmente cessão de crédito. Sendo seu objeto formado por títulos de crédito, como regra não se aplicam, na lide entre o cessionário e o devedor-cedido, as normas estritas do Direito Cambiário, tocantes a abstração, liberalidade e autonomia, sendo dado ao cedido, com base no art. 294 do Código Civil, opor ao cessionário as exceções que lhe competirem, bem como as que, no momento do conhecimento da cessão, tinha contra o cedente.
+2. Evidenciada fraude no saque das duplicatas objeto do contrato de faturização, ausente relação jurídica subjacente, caracterizando-se, assim, nulidade dos títulos, inclusive do aceite lançado por preposto da sacada, estando ele envolvido no mesmo expediente ilícito, é de se reconhecer a inexigibilidade dos títulos, extinguindo-se a execução, restando à faturizadora ajuizar ação contra a sacadora-cedente.
+Ações declaratória, de sustação de protesto e de embargos à execução procedentes. Recursos providos.
+ A agravante sustenta que não é possível a discussão da causa debendi ou a oposição de exceções pessoais da sacada contra a endossatária, mormente no caso de duplicatas aceitas e endossadas para terceiro de boa-fé. Alega que a sacada não pode se eximir da responsabilidade pela emissão dos títulos de crédito alegando a fraude perpetrada por um de seus empregados. Afirma que, com o provimento da apelação, não poderia ter havido simplesmente a inversão dos ônus sucumbenciais, porque, extinta a execução, os honorários advocatícios deveriam ser fixados com base na equidade, e não em percentual da causa.
+A Corte de origem fundamentou sua conclusão no fato de que a transferência entre os créditos, no contrato de factoring, não é realizada por meio do simples endosso, e sim por cessão de crédito, motivo pelo qual pode a sacada opor exceções pessoais à endossatária dos títulos cambiais.
+O entendimento expresso no acórdão, todavia, destoa da moderna jurisprudência desta Corte, de que é exemplo o seguinte julgado:
+CIVIL E PROCESSUAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRATO DE FACTORING. DUPLICATAS PREVIAMENTE ACEITAS. ENDOSSO À FATURIZADORA. CIRCULAÇÃO E ABSTRAÇÃO DO TÍTULO DE CRÉDITO APÓS O ACEITE. OPOSIÇÃO DE EXCEÇÕES PESSOAIS. NÃO CABIMENTO.
+1. A duplicata mercantil, apesar de causal no momento da emissão, com o aceite e a circulação adquire abstração e autonomia, desvinculando-se do negócio jurídico subjacente, impedindo a oposição de exceções pessoais a terceiros endossatários de boa-fé, como a ausência ou a interrupção da prestação de serviços ou a entrega das mercadorias.
+2. Hipótese em que a transmissão das duplicatas à empresa de
+factoring operou-se por endosso, sem questionamento a respeito da boa-fé da endossatária, portadora do título de crédito, ou a respeito do aceite aposto pelo devedor.
+3. Aplicação das normas próprias do direito cambiário, relativas ao
+endosso, ao aceite e à circulação dos títulos, que são estranhas à
+disciplina da cessão civil de crédito.
+4. Embargos de divergência acolhidos para conhecer e prover o
+recurso especial.
+(EREsp 1439749/RS, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 6/12/2018)
+No caso dos autos, todavia, foi evidenciada a nulidade do aceite aposto na cártula, efetuado por preposto da devedora, por meio de expediente ilícito, em conluio com outros fraudadores, condenado por cometer crime de simulação de duplicata:
+A sacada esforçou-se para demonstrar a ausência de causa para o saque dos títulos. Disse serem estes resultantes de uma fraude perpetrada por seu ex-funcionário e pelos representes da sacadora, aquele que, indevidamente, sem que o serviço houvesse sido prestado, lançou aceite nos documentos. Disse também que o mesmo ex-funcionário recebeu a notificação referente à cessão do crédito objeto da faturização, tendo sido esta a razão de não se haver pronunciado, na época, a respeito dessa operação.
+Por requerimento dela instaurou-se inquérito policial. Como consequência das investigações, também os representantes da faturizadora que, no presente processo, busca executar os títulos recebidos, foram processados, sendo certo, porém, que foram considerados inocentes, por sentença transitada em julgado.
+Já estando os presentes processos pautados para julgamento, ela juntou diversos documentos, entre os quais, cópia da sentença criminal condenatória daquele seu ex-funcionário e dos sócios da empresa sacadora dos títulos, pela prática do crime de simulação de duplicata.
+Observa-se na documentação e no teor da sentença penal condenatória, que efetivamente ocorreu uma fraude, perpetrada, em conluio, pelo referido ex-funcionário da apelante e pelos sócios da pessoa jurídica sacadora dos títulos. O sócio e representante da pessoa jurídica chegou a admitir que tal ex-funcionário o autorizou a emitir duplicatas e notas fiscais por "serviços futuros", tendo utilizado esses títulos para conseguir recursos necessários à continuidade da empresa, por meio de cessão a uma factoring.
+(..)
+Diante disso, pouco importa a circunstância de o funcionário da apelante, participante ativo da fraude, haver lançado o aceite.
+Também não importa a circunstância da ausência de impugnação à notificação feita pela faturizadora. Pois o saque foi nulo, por não corresponder a uma efetiva prestação de serviço, sendo também nulo o aceite. E diante da nulidade descabe cogitar-se de responsabilidade por ato de terceiro, não se aplicando, pois, o art. 932, III, do Código Civil.
+Como dito, a nulidade situa-se no saque. O aceite foi consequência e também nulo.
+lnexistiu manifestação de vontade da sacada, no sentido de confirmação de existência da relação jurídica subjacente, visto ter sido o ato de aceite também um componente do referido procedimento criminoso consumado entre os representantes da sacadora e o referido funcionário da sacada.
+Igualmente não houve manifestação da sacada frente à notificação porque esta foi recebida pelo referido funcionário, não lhe chegando ao conhecimento.
+Assim, maculado o aceite aposto na cártula, não há de se falar em transmissão ou circulação eficazes do título de crédito, motivo por que a pretensão da recorrente não pode prosperar.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
