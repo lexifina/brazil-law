@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. CADERNETA DE POUPANÇA. AÇÃO COLETIVA DE CONSUMO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. JUROS REMUNERATÓRIOS.
+O título executivo (a sentença proferida na Ação Civil Pública movida pelo IDEC contra o Banco do Brasil) não previu expressamente a incidência de juros remuneratórios. O paradigma REsp 1.384.142/DF (Tema 887-STJ) afastou essa rubrica, ressalvando ao interessado, se possível, ajuizar ação individual de conhecimento. No caso concreto, a parte autora elaborou a memória de cálculo do débito em 25/05/2015 pelo simulador disponibilizado há época no site do TJRS, o qual contemplava juros remuneratórios, contudo, a versão atualizada da ferramenta disponibilizada pelo Tribunal de Justiça permite a exclusão dos juros remuneratórios, sendo adequada para a elaboração de novo cálculo. JUROS DE MORA - TERMO INICIAL. Mesmo em execuções ou cumprimentos de sentença individuais, os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração desta em momento anterior.
+Entendimento pacificado em sede de julgamento repetitivo pelo Superior Tribunal de Justiça, no REsp 1.370.899/SP (Tema 685 dos Recursos Repetitivos), cuja aplicação deve ser observada em todos os recursos que ventilem a mesma controvérsia. AGRAVO DE INSTRUMENTO DESPROVIDO."
+Embargos de declaração rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação aos arts. 1.022, 1.025, 503, 505, 506, 507, 508, 525, § 1º, do CPC/15 e dissídio jurisprudencial, sustentando, em síntese, (a) omissão do Tribunal de origem quanto à alegação de "erro material nos cálculos elaborados pela ferramenta disponibilizada no site do Tribunal de Justiça do RS" e ante a omissão da Corte estadual em prequestionar os artigos de lei apontados como violados no apelo e (b) sobre a condenação decorrente de expurgos inflacionários não devem incidir juros remuneratórios, se estes não estiverem previstos no título judicial.
+Apresentadas contrarrazões às fls.477/484.
+É o relatório.
+Primeiro, é necessário destacar que o recurso especial, no tocante à incidência dos juros remuneratórios sobre o valor da condenação do banco, foi inadmitido com base no art. 1.030, I, "b", do CPC/15 (fls. 487/493), razão pela qual, nessa parte, o agravo é inadmissível.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE CONTRATO DE ARRENDAMENTO MERCANTIL. ACÓRDÃO TRANSITADO EM JULGADO. CUMPRIMENTO DE SENTENÇA. EXEQUIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL. RECURSO CABÍVEL. VEDAÇÃO EXPRESSA DE INTERPOSIÇÃO DE AGRAVO EM FACE DE DECISÃO QUE INADMITE RECURSO ESPECIAL COM BASE EM RECURSO REPETITIVO. APURAÇÃO DO QUANTUM EXEQUENDO. SIMPLES CÁLCULOS ARITMÉTICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, constitui erro grosseiro, uma vez que o recurso cabível é o agravo interno.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1468319/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/09/2019, DJe 11/10/2019)"
+Logo, o exame da irresignação limita-se à tese de negativa de prestação jurisdicional.
+Com efeito, a parte insurgente alega omissão quanto à incorreção dos cálculos do débito, em razão da utilização de ferramenta on line disponível no site do Tribunal a quo.
+Essa matéria, contudo, foi expressamente apreciada, consoante demonstra o seguinte excerto do aresto de 2º grau:
+"Não obstante, a parte autora elaborou a memória de cálculo do débito em 25/05/2015 pelo simulador disponibilizado há época no site do TJRS, o qual contemplava juros remuneratórios, contudo, a versão atualizada da ferramenta disponibilizada pelo Tribunal de Justiça permite a exclusão dos juros remuneratórios, sendo adequada para a elaboração de novo cálculo.
+Porém, verifica-se que o cálculo foi atualizado em 16/03/2017, já com o modelo da ferramenta do TJRS que exclui os juros remuneratórios." (fl. 382)
+Além disso, conforme sólido entendimento desta Corte Superior, o magistrado não está obrigado a se manifestar sobre o conteúdo, nem a julgar a controvérsia à luz dos dispositivos de lei indicados pelas partes, desde que, assim como ocorreu na espécie, julgue o conteúdo da pretensão com fundamentação suficiente.
+Rejeito, assim, a tese de negativa de prestação jurisdicional.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço em parte do agravo para negar provimento ao recurso especial.
+Publique-se.
