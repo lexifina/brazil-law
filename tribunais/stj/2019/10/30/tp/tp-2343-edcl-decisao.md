@@ -1,0 +1,40 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS. CONTRADIÇÃO NÃO EVIDENCIADA. EMBARGOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME], representada por [NOME], à decisão monocrática desta relatoria que indeferiu o seu pedido de tutela provisória, nos termos da ementa a seguir transcrita (e-STJ, fl. 163):
+PEDIDO DE TUTELA PROVISÓRIA. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A APELAÇÃO. COMPETÊNCIA DESTA CORTE SUPERIOR AINDA NÃO INAUGURADA. JURISDIÇÃO ORDINÁRIA NÃO EXAURIDA. INEXISTÊNCIA DE RECURSO ESPECIAL A AMPARAR A PRESTAÇÃO JURISDICIONAL DESTA INSTÂNCIA EXTRAORDINÁRIA. PEDIDO INDEFERIDO.
+Em suas razões (e-STJ, fls. 169-172), a embargante alega haver contradição no julgado embargado, sustentando que a sua pretensão não é de concessão de efeito suspensivo a recurso de apelação, mas, sim, de suspensão das apelações interpostas perante o Tribunal de Justiça do Estado do Tocantins, nos autos da Ação de n. 5000019-96.2012.827.2741, e do cumprimento provisório de sentença, bem como de suspensão da Ação de n. 0007498-32.2013.4.01.4300, até que se decida o Agravo de Instrumento de n. 0015512-62.2017.4.01.0000/TO interposto perante o Tribunal Regional Federal da 1ª Região, que versa sobre o interesse da União nas lides e, consequentemente, determina a competência da justiça federal para o julgamento de todos os processos conexos.
+Reitera que a urgência do pleito inaugura a competência do STJ para o processamento e julgamento do pedido, além de colacionar informação do Instituto Nacional de Colonização e Reforma Agrária - INCRA, requerendo a sua intervenção anômala na ação em curso perante a justiça estadual, o que reforça a competência da justiça federal.
+Impugnação não apresentada.
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 1.022, I, II e III, do CPC/2015, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+No caso dos autos, inexiste mácula a ser sanada, pois, ainda que se pretenda a embargante, no pedido de tutela provisória, a suspensão dos processos mencionados, e não a concessão de efeito suspensivo a recurso de apelação, não há que se modificar a decisão ora embargada.
+Isso porque, a competência desta Corte Superior está taxativamente elencada no art. 105 da Constituição Federal, não se amoldando o pedido de suspensão dos processos em curso na origem em alguma das hipóteses do referido dispositivo constitucional.
+É de se registrar que o indeferimento desse pleito na instância ordinária somado a eventual urgência não inaugura a competência desta Corte Superior, pois, como consignado no julgado embargado, para que se inaugure esta via extraordinária é imprescindível o exaurimento da jurisdição ordinária e a existência de meio processual hábil a essa finalidade, sobretudo o recurso especial, ainda que pendente do juízo de admissibilidade de competência do Tribunal de origem.
+Nesse sentido (sem grifo no original):
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PROCESSUAL CIVIL. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 634 E 635, AMBAS DO STF. AGRAVO DESPROVIDO.
+1. Conforme dispõem as Súmulas 634 e 635 do STF, aplicadas por analogia, compete ao Presidente do Tribunal de origem a análise e julgamento de medida cautelar para concessão de efeito suspensivo a recurso especial pendente de admissibilidade na instância ordinária.
+Excepcionalmente, o STJ afasta a incidência dessas Súmulas na hipótese de manifesta ilegalidade do v. acórdão estadual.
+2. Na espécie, é inviável a análise de eventual manifesta ilegalidade, pois nem sequer foi esgotada a jurisdição do eg. Tribunal Estadual, uma vez que estão pendentes de julgamento embargos de declaração opostos ao v. acórdão proferido em sede de agravo de instrumento. Não se trata, portanto, de recurso especial pendente de admissibilidade, pois o acórdão estadual ainda será integrado por outro que vier a julgar os embargos de declaração.
+3. Agravo regimental desprovido.
+(AgRg na MC 25.612/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PEDIDO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. SÚMULAS 634 E 635 DO STJ. HIPÓTESE EXCEPCIONAL CARACTERIZADA. FORNECIMENTO DE MEDICAMENTO PELO ESTADO. PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA: PLAUSIBILIDADE DO DIREITO INVOCADO E PERIGO DA DEMORA DA PRESTAÇÃO JURISDICIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Recurso Especial não dispõe de efeito suspensivo, admitindo-se, portanto, a execução provisória do acórdão impugnado.
+Por isso, este Superior Tribunal de Justiça tem admitido, em circunstâncias excepcionais, a concessão de efeito suspensivo aos recursos de sua competência constitucional (art. 34, V e VI, e 288 do RISTJ), por meio de Medida Cautelar Inominada, desde que satisfeitos os requisitos fumus boni juris e periculum in mora.
+2. A admissibilidade, em tese, da Ação Cautelar para esse fim (concessão de efeito suspensivo a Recurso Especial), está intrinsecamente vinculada à possibilidade de êxito do Apelo Nobre;
+dest"arte, cabe ao Relator proceder a um juízo prévio e perfunctório a respeito da perspectiva de êxito do referido recurso, uma vez que, sendo o mesmo inadmissível, improcedente ou contrário à jurisprudência dominante na Corte, inviável também será o pedido cautelar.
+3. É imprescindível, ainda, para a viabilidade do pleito cautelar, que esteja inaugurada a competência desta Corte para a sua análise, o que só se perfectibiliza a partir do juízo de admissibilidade do Recurso Especial pelo Tribunal a quo (Súmulas 634 e 635 do STF); todavia, em hipóteses excepcionalíssimas, quando verificada a patente possibilidade de êxito no Apelo Raro e for grande e visível o perigo da demora, tem sido admitida a apreciação de Medida Cautelar, ainda quando pendente o juízo de admissibilidade pelo Tribunal de origem, ou quando inadmitido no Tribunal de origem.
+4. O periculum in mora se evidencia no risco que a paralisação do fornecimento do medicamento pode causar ao tratamento da séria moléstia enfrentada pela parte agravada. Por sua vez, o fumus boni juris se assenta no fato de que a falta de registro do medicamento na ANVISA não é circunstância impeditiva do fornecimento do medicamento, por haver fundado receio de falecimento do paciente impetrante e por se tratar de fármaco consagrado no meio médico.
+5. Desta forma, presentes os requisitos fumus boni juris e periculum in mora, a medida cautelar deve ser concedida.
+6. Agravo Regimental da FAZENDA DO ESTADO DE SÃO PAULO a que se nega provimento.
+(AgRg na MC 23.747/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/09/2015, DJe 23/09/2015)
+No caso, como ainda não foi julgada a apelação e, consequentemente, não esgotada a jurisdição do Tribunal a quo, imprescindível ao manuseio do recurso especial (que também não foi interposto), consoante o disposto no art. 105, III, da Constituição Federal, nem sequer se cogita da análise da sustentada ilegalidade, ante a pretensão, por salto, de abertura desta instância superior.
+Ficou registrado, ainda, que, havendo flagrante ilegalidade cometida pelo Poder Judiciário, dispõe a parte lesada de instrumento processual hábil a rechaçar a ilicitude evidenciada, que não o pleito ora examinado.
+Outrossim, mostrando-se descabido o pedido de tutela provisória formulado pela embargante a esta Corte Superior, deixo de analisar a documentação acostado juntamente com os declaratórios sub judice.
+Assim, não se vislumbrando o vício alegado, mantém-se inalterada a decisão embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
