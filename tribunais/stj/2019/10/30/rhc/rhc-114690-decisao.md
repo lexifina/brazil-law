@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n.1.0000.19.052115-3/000).
+Depreende-se dos autos que o recorrente foi preso em flagrante (e-STJ fls. 13/19), tendo sido a prisão convertida em preventiva (e-STJ fls. 40/41), pela suposta prática do delito tipificado no art. 157, caput, do Código Penal, tendo em vista que o investigado, mediante ameaça, subtraiu bens pertencentes à vítima N.J.O.
+Impetrado habeas corpus na origem, os desembargadores da 5ª Câmara Criminal do Tribunal de Justiça denegaram a ordem (e-STJ fls. 90/101).
+Recebeu o acórdão esta ementa (e-STJ fl. 90):
+HABEAS-CORPUS - ROUBO MAJORADO - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - FATOS CONCRETOS QUE INDICAM A NECESSIDADE DA MEDIDA CONSTRITIVA - MODUS OPERANDI - DELITO PRATICADO EM CONCURSO DE AGENTES - PERICULUM LIBERTATIS - SUBSTITUIÇÃO DA PRISÃO INADEQUADA - OS BONS ANTECEDENTES POR SI SÓ NÃO VIABILIZAM A SOLTURA DO PACIENTE - GARANTIA DA ORDEM PÚBLICA - ORDEM DENEGADA.
+1. Estando presentes os pressupostos autorizadores para a manutenção da custódia cautelar mantém-se esta sob os auspícios da garantia da ordem pública. 2. O "modus operandi" com que teria supostamente agido o paciente é fundamento que implica na manutenção da segregação cautelar, a bem do resguardo da ordem pública. 3. Incabível é a substituição da prisão por outra medida cautelar conforme disposto no artigo 282 §6º do CPP e presentes estando os requisitos do artigo 312 do mesmo diploma legal associados à gravidade do delito, inadequadas são tais medidas. 4. Bons antecedentes, ocupação lícita e residência fixa por si só não viabiliza a soltur a do paciente. 5. Ordem denegada.
+Neste recurso, a Defensoria Pública aponta constrangimento ilegal decorrente da medida constritiva.
+Sustenta ausência de fundamentação idônea para a decretação da custódia, já que foi levada em consideração, somente, a gravidade abstrata do delito e a garantia da ordem pública, sem a apresentação de argumentos concretos capazes de justificar a restrição da liberdade do investigado.
+Ressalta que o recorrente é primário e possui residência fixa; no caso, acrescenta, não se encontram presentes os requisitos exigidos pelo art. 312 do Código de Processo Penal, sendo plenamente aplicáveis medidas alternativas ao cárcere, nos termos do art. 319 da mesma lei processual.
+Reforça que "o só fato de ter sido o roubo, crime que é cometido mediante violência ou grave ameaça, não demonstra maior gravidade concreta da conduta de um roubo majorado. O fato de ter se utilizado de faca não demonstra maior perigo em concreto da conduta. Em verdade, sequer chegou a retirar a faca e, de algum modo, apontá-la para a vítima. Somente levantou a camiseta para a vítima" (e-STJ fl. 112), e pontua que o dinheiro subtraído foi todo recuperado.
+Dessa forma, requer, liminarmente, a substituição da prisão do recorrente por medidas cautelares alternativas. No mérito, postula a declaração da "nulidade da prisão preventiva em decorrência da ausência dos requisitos legais para sua decretação, expedindo-se alvará de soltura para o encarcerado" (e-STJ fl. 113).
+Liminar indeferida às e-STJ fls. 119/121.
+Prestadas as informações, o Ministério Público Federal opinou pelo provimento do recurso (e-STJ fls. 172/174).
+É, em síntese, o relatório.
+Pois bem. Informações prestadas pelo Juízo de primeiro grau, às e-STJ fls. 178/185, noticiam que em 10/10/2019 foi concedida a liberdade provisória ao ora recorrente, expedido o competente alvará de soltura.
+Assim, fica sem objeto esta insurgência, que buscava, justamente, a liberdade do recorrente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
