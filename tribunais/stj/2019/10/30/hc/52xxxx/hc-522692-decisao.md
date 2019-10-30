@@ -1,0 +1,12 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0486.03.001057-4/002.
+Nesta Corte, a defesa requer a suspensão da execução provisória da condenação, sob a alegação de que o julgamento realizado pelo Tribunal do Júri estaria eivado de nulidades processuais, uma vez que a defesa do paciente não teve ciência, antes do tríduo mínimo previsto em lei, dos documentos juntados pelo assistente de acusação (cópia de outra denúncia em desfavor do Paciente) antes do Plenário do Júri, configurando, pois, ofensa ao art. 5º, LV, da Constituição Federal, bem como ao art. 479 do Código de Processo Penal.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Sobreveio pedido de reconsideração da decisão que indeferiu a liminar, no qual a defesa noticia que os embargos de declaração opostos contra a apelação foram incluídos na pauta da sessão de julgamento do dia 29/10/2019 (fls. 117/120).
+Decido.
+O paciente foi condenado à pena de 18 anos de reclusão, no regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal. Irresignada, a defesa recorreu. O Tribunal a quo deu parcial provimento ao apelo, apenas para reduzir a reprimenda para 13 anos de reclusão, mantidos os demais termos da sentença.
+A defesa opôs embargos de declaração com efeitos infringentes e, diante da aproximação do encerramento da jurisdição ordinária, requer, em síntese, a suspensão da execução provisória da condenação, caso o resultado do julgamento do recurso não lhe seja favorável, ou seja, ao fim e a cabo, busca, preventivamente, atribuir efeito suspensivo a recurso especial que sequer foi interposto.
+Não bastasse, verifico que os fundamentos para a análise do pleito do paciente são os mesmos que ainda estão sendo discutidos na origem (embargos de declaração com efeitos infringentes pendentes de julgamento), de maneira que, por via transversa, "a defesa pretende a obtenção da mesma prestação jurisdicional em mais de uma via de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais" (AgInt no RHC n. 107.153/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 19/3/2019).
+Ressalto, assim, ser indevida a subversão do sistema recursal e a avaliação nesse momento da tese defensiva nesta via.
+À vista do exposto, não conheço do habeas corpus e julgo prejudicado o pedido de reconsideração de fls. 117-120.
+Publique-se e intimem-se.
