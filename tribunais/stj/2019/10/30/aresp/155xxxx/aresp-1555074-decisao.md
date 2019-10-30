@@ -1,0 +1,11 @@
+DECISÃO
+
+Trata-se de agravo apresentado por SOL COMERCIO DE PISCINAS LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim resumido:
+EMBARGO DE DECLARAÇÃO ACÓRDÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO INEXISTÊNCIA DE OMISSÕES REDISCUSSÃO DA MATÉRIA RECURSO CONHECIDO E DESPROVIDO 1 CEDIÇO QUE A VIA DOS EMBARGOS DECLARATÓRIOS CONSOANTE INTELIGÊNCIA DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL DESTINA-SE EXCLUSIVAMENTE AO SANEAMENTO DE QUALQUER OMISSÃO OBSCURIDADE CONTRADIÇÃO OU ERRO MATERIAL 2 INVIÁVEL A PRETENSÃO DO EMBARGANTE DE QUE ESTA EGRÉGIA CÂMARA PROCEDA A UMA NOVA DISCUSSÃO DA MATÉRIA JÁ JULGADA DE FORMA INEQUÍVOCA SOB O PÁLIO DE QUE OCORREU OMISSÃO EM SUA FUNDAMENTAÇÃO O QUE NÃO É VIÁVEL ATRAVÉS DA VIA ESTREITA DOS ACLARATÓRIOS QUE NÃO SE PRESTAM PARA EXPLICAÇÕES E/OU JUSTIFICATIVAS SOBRE A DECISÃO RECORRIDA 3 MESMO QUANDO INTERPOSTOS PARA FINS DE PREQUESTIONAMENTO OBJETIVANDO O ACESSO À INSTÂNCIA EXTRAORDINÁRIA NÃO PRESCINDEM OS ACLARATÓRIOS DE FUNDAMENTO NO DISPOSITIVO DE REGÊNCIA 4 RECURSO CONHECIDO E DESPROVIDO
+Quanto à controvérsia dos autos, pela alínea "c" do permissivo constitucional, alega a ocorrência de erro quanto à aplicação da legislação pertinente, que no caso, seria o CPC de 1973.
+É o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
