@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. SÚMULA 691/STF. TRÁFICO DE DROGAS. CUSTÓDIA CAUTELAR. PRISÃO DOMICILIAR. FILHOS MENORES DE 12 ANOS. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de [NOME] - autuada em flagrante delito, no dia 6/8/2019, ao lado de [NOME] pela suposta prática do crime previsto no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006 -, em que o advogado [NOME] aponta a ocorrência de constrangimento ilegal decorrente do indeferimento do pedido liminar formulado no HC n. 1016284-25.2019.8.11.0000, que tramita no Tribunal de Justiça de Mato Grosso.
+O impetrante alega, em síntese, que a paciente preenche os requisitos para a obtenção da prisão domiciliar, já que possui filhos menores de 12 anos.
+Requer, assim, seja superado o óbice previsto na Súmula 691/STF e concedida, em liminar, a prisão domiciliar à paciente.
+É o relatório.
+Estes foram os fundamentos adotados pelo Relator do prévio writ para negar o pedido urgente ali apresentado (fls. 118/119 - grifo nosso):
+ ..
+Denota-se dos autos que a paciente foi presa em situação de flagrância, pela prática, tese, do crime de tráfico de drogas, com envolvimento de adolescente, pois, no dia 6.8.2019, segundo consta dos informes iniciais, policiais militares haviam recebidas notícias apócrifas de que, uma mulher, loira, estaria efetuando a comercialização de entorpecentes, num veículo VW/Gol, de cor branca.
+Ante tais notícias, efetuaram a abordagem do veículo em que estavam a paciente, e seu filho de apenas seis anos de idade, além da coacusada [NOME] e a adolescente [NOME]. Durante revistas pessoais nas ocupantes, e no veículo, os policiais encontraram duas porções de droga do tipo maconha com [NOME], e outra com a própria paciente, que, juntas, apresentaram massa bruta de aproximadamente 143g, além do valor de R$ 3.040,00 (três mil e quarenta reais) em espécie.
+Todas estas circunstâncias foram devidamente observadas pela magistrada singular, no visto às pp. 55-62 (Id 21140973), de modo que, por ora, tenho por suficiente decisum demonstrado o , princípio norteador da prisão preventiva, além do que não se discute fumus comissi delicti a presença dos requisitos previstos no artigo 312 do Código de Processo Penal, ainda mais porque, como demonstrada na decisão que decretou a prisão preventiva da paciente, ela apresenta considerável histórico criminal, inclusive condenação anterior por tráfico de drogas.
+Quanto ao pedido específico - substituição da prisão preventiva pela domiciliar - entendo que não existem elementos suficientes para a acolher a pretensão, ao menos em sede liminar.
+Convém esclarecer que a liminar em não tem previsão legal e está habeas corpus condicionada ao prudente arbítrio do magistrado. Trata-se de criação jurisprudencial para casos de urgência, em que a necessidade e a relevância da medida se apresentem evidenciadas na cristalinamente própria inicial e nos documentos que a instruem, comprovando-se de plano os requisitos do fumus boni iuris e do periculum in mora.
+No caso dos autos, verifica-se que o magistrado singular indeferiu o pedido defensivo manejado na origem, porque segundo exposto em sua decisão:
+"(..) a acusada não é imprescindível aos cuidados de sua prole, pelo contrário, em liberdade estaria contribuindo para a inserção destes no ambiente insalubre que é o mundo da criminalidade, já que pelo que observo dos elementos constantes dos autos, a requerente dedicava-se a efetivar o crime de tráfico de drogas nesta Comarca, por ser reincidente em tal conduta, ostentando condenação penal (código 625457), nesta Comarca.
+(..) No caso em apreciação, vê-se que o menor [NOME] estava no momento da prisão da acusada [NOME], ocasião em que cometia o horrendo crime de tráfico de drogas, expondo sua prole ao ambiente insalubre da criminalidade, de modo que não deve ser beneficiada com a prisão domiciliar, vez que em liberdade não irá contribuir ou preservar o desenvolvimento integral de seus filhos.
+Verifica-se que os genitores das crianças encontram-se segregados pelo cometimento de delitos, porém, perante a autoridade policial a indiciada [NOME] declarou que os menores moram com ela e sua mãe, por isso ao meu ver, as crianças estão recebendo os devidos cuidados pela avó materna." (Id 21145994).
+Ao menos por ora, não vejo como desmedido o entendimento firmado pela magistrada singular. Como visto, a paciente estava com seu filho no momento em que transportava considerável quantidade de drogas no veículo, expondo a criança ao contado direto com a droga.
+Ademais, não se pode desprezar o histórico criminal da paciente, inclusive com o próprio tráfico de drogas.
+Tais circunstâncias, concatenadas, indicam que a paciente não pode simplesmente se valer do fato de ser mãe, para, como se fosse um trunfo, continuar praticando delitos graves, e ser beneficiada com a prisão domiciliar.
+Além disso, os menores não se encontram em estado periclitante, necessitando, de fato, da presença da mãe, pois estão sob os cuidados da avó materna, que, apesar das dificuldades, ficou constatado pelo parecer técnico que "as crianças estão bem cuidadas e não há nenhum risco prejudicial ao desenvolvimento dos menores" (p. 86 - Id 21145994).
+Portanto, é inegável que os argumentos trazidos na impetração não são suficientes para, de imediato, substituir a prisão preventiva por domiciliar, ainda mais no atual estágio embrionário da ação mandamental.
+ ..
+Nessa decisão, não percebo nenhuma ilegalidade manifesta. Daí a razão de aplicar o entendimento segundo o qual é inadmissível a impetração de habeas corpus contra decisão denegatória de provimento cautelar.
+Inviável, no momento, a pretendida supressão de instância.
+Diante da falta de cabimento deste writ ante a incidência da Súmula 691/STF, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
