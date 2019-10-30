@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão que inadmitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra v. acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. MANDATOS. ILEGITIMIDADE PASSIVA AFASTADA. PRESCRIÇÃO INOCORRÊNCIA. MÉRITO. ADVOGADO CREDENCIADO POR SINDICATO. AÇÃO RECLAMATÓRIA TRABALHISTA. PAGAMENTO DE HONORÁRIOS ASSISTENCIAIS PELA RECLAMADA. DESCABIMENTO DA RETENÇÃO DE VALORES A TÍTULO DE HONORÁRIOS CONTRATUAIS. HIPÓTESE EM QUE, DE TODO MODO, INEXISTE PROVA DO AJUSTE, ESCRITO OU VERBAL, DE PAGAMENTO DE HONORÁRIOS CONTRATUAIS À RAZÃO DE 20% DOS VALORES RECEBIDOS PELO RECLAMANTE, EM AÇÃO TRABALHISTA. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA.
+NEGARAM PROVIMENTO AO APELO DA PARTE RÉ, DANDO PROVIMENTO AO RECURSO ADESIVO. UNÂNIME." (e-STJ, fl. 491)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta ofensa aos arts. 658, 664 e 678 do Código Civil e 23, § 2º, da Lei nº 8.906/94. Postula o deferimento do pedido de abatimento da cota honorária padrão (20%) do valor a ser restituído ao recorrido.
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, no que pertine à retenção do percentual de 20% a título de honorários advocatícios contratuais, expressamente consignou o seguinte:
+"Na hipótese dos autos, veja-se que a parte ré, então procuradora do ora demandante, recebeu, por conta de acordo firmado na Justiça Trabalhista, o percentual de 17% daquele alcançado ao reclamante (fl. 10). Aliás, em patamar, inclusive, superior ao permitido no âmbito da Justiça do Trabalho.
+Inobstante isso, reteve o percentual de 20% da quantia que deveria ser alcançada integralmente ao reclamante daquele feito, o que não se mostra admissível.
+Vale salientar que o fato de o Sindicato da categoria ter absorvido o valor dos honorários assistenciais (para fazer frente ao alto custo financeiro com despesas médicas, odontológicas, lazer, colônia de férias, 5 subsedes para atendimento, entre outros - fl. 287) não pode prejudicar o reclamante, devendo tal questão, sim, ser debatida entre o advogado e o Sindicato, em via própria.
+De todo modo, ainda que assim não fosse, inexiste prova nos autos acerca da existência de ajuste escrito ou verbal para pagamento de honorários contratuais correspondentes a 20% da quantia devida ao reclamante.
+A propósito, em que pese o réu afirmar que o contrato teria sido subtraído por terceiro que incentivou o ajuizamento deste feito, tal circunstância não desabona a pretensão do autor, na ausência de elementos probatórios que comprovem a efetiva existência de um ajuste para pagamento de honorários contratuais.
+Por oportuno, saliente-se que o depoimento de Cleyton (fl. 272), que afirma ter acordado o pagamento de honorários contratuais à razão de 25% dos valores condenatórios, não comprova a existência de semelhante acordo com o ora demandante.
+Assim, na ausência de prova de tal pactuação, ônus que incumbia à parte ré, nos termos do artigo 333, II, do CPC, não há como validar a retenção de valores a título de honorários contratuais, mesmo em se abstraindo a questão prévia atinente à própria possibilidade de realização de ajuste contratual nesse sentido." (e-STJ, fls. 498/499 - grifou-se)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
