@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Ceará, com amparo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo respectivoTribunal de Justiça assim ementado (e-STJ, fl. 248):
+APELAÇÕES CIVEIS. REEXAME NECESSÁRIO. PERDA SUPERVENIENTE DO OBJETO. NÃO CONFIGURAÇÃO. ADVENTO DE LEI NOVA NÃO ILIDE A PRETENSÃO AUTORAL. PRINCÍPIO DA LEGALIDADE. RESPEITO AOS MANDAMENTOS CONSTITUCIONAIS. LIMITAÇÃO LEGAL QUE AFRONTA O PRINCÍPIO DA ISONOMIA. INCONSTITUCIONALIDADE.
+1. Embora a edição da Lei nº 14.687/2010 garanta a qualidade de dependente, sem restrições, ao cônjuge varão de servidora estadual, não se configura, necessariamente, a perda superveniente do interesse processual dos autores, visto que não restara comprovado que suas pretensões foram plenamente atendidas pelo Instituto de Saúde dos Servidores do Estado do Ceará - ISSEC. Desse modo, não há de se falar em perda superveniente do objeto.
+2. O princípio da legalidade imperará sempre que não ofender mandamentos constitucionais, o que não se observa no caso em comento, uma vez que o art. 7º, inc. I da Lei Estadual nº 10.776/82 exigia a condição de inválido para que o cônjuge varão pudesse ser incluído como dependente de servidora pública, o que é manifestamente inconstitucional por ofender o princípio da isonomia.
+3. Apelações Cíveis conhecidas, mas improvidas.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente sustenta violação do art. 535, II, do CPC/1973, ao argumento de omissão sobre pontos essenciais ao deslinde da controvérsia, em especial acerca da apreciação das preliminares de desinteresse de agir e de ilegitimidade parcial do Estado do Ceará.
+Quanto à questão de fundo, alega a ilegitimidade passiva parcial já que não poderá suportar integralmente os efeitos da decisão neste processo pelo fato de não ter responsabilidade legal pela prestação de serviços assistenciais aos servidores públicos estaduais e dependentes, bem como a falta de interesse de agir, pois a inscrição de dependente no órgão previdenciário não constitui direito subjetivo a qualquer benefício.
+Sem contrarrazões.
+É o relatório.
+Compulsando-se os autos, constata-se inexistir violação do comando normativo inserto no art. 535 do CPC/1973, uma vez que o acórdão proferido na origem manifestou-se satisfatoriamente sobre todos os aspectos fático-jurídicos relevantes e inerentes à controvérsia instaurada, inclusive as teses argumentativas deduzidas pelas partes.
+Extrai-se dos autos que há fundamentação expressa e exauriente no que tange à falta de interesse de agir, e, no que diz respeito à ilegitimidade, a questão sequer foi abordada nos aclaratórios.
+Desnecessário, portanto, qualquer complemento à argumentação assentada pela Corte regional, ante a ausência de máculas na prestação jurisdicional, motivo pelo qual não se cogita em ofensa ao art. 535 do CPC/1973.
+No mérito em si, constata-se a ausência de indicação específica de dispositivo de lei federal tido por violado, com o devido cotejo demonstrativo de sua irreverência, contando o recurso apenas com citação genérica de fundamentação reflexa, como se recurso de apelação fosse, situação que atrai a incidência do óbice contido na Súmula 284/STF.
+Noutro passo, ainda que fosse possível superar o supracitado óbice, depreende-se que o Tribunal de origem se valeu de nuances probatórias para concluir pela existência de interesse de agir, sobretudo conforme destacado às e-STJ, fls. 243/244, de forma que a análise do pleito ensejaria reexame dos suportes fático-probatório, esbarrando na Súmula 7/STJ.
+Por fim, como decorrência lógica do primeiro tópico, verifica-se que não houve juízo de valor por parte da Corte de origem a respeito da tese de ilegitimidade passiva, de forma que o exame da pretensão caracteriza indevida supressão de instância, esbarrando no óbice contido na Súmula 282/STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
