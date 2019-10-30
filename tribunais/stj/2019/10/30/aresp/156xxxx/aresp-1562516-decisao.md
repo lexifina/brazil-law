@@ -1,0 +1,16 @@
+DECISÃO
+
+Trata-se de agravo apresentado por G E L COMÉRCIO DE COMBUSTÍVEIS LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO DE CUMPRIMENTO DE SENTENÇA - PEDIDO DE JUSTIÇA GRATUITA - PESSOA JURÍDICA - MANIFESTA AUSÊNCIA DE COMPROVAÇÃO DA IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS PROCESSUAIS - DECISÃO MONOCRÁTICA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 98 e 99 do CPC, no que concerne à necessidade de concessão dos benefícios da justiça gratuita, trazendo os seguintes argumentos:
+Pois conforme colocado nas razões do Agravo de Instrumento, caso não seja concedido ao agravante os benefícios da justiça gratuita a ação interposta será extinta, já que a parte recorrente não tem condições de arcar com o pagamento das custas do processo e honorários de advogado, conforme retratado nas declaracões, bem como fartamente comprovado com a documentação acostada.
+Conforme verificamos dos autos, a parte recorrente encontra-se com atividade suas atividades paralisadas, razão pela qual não possui meios de arcar com as despesas do processo.
+Pois bem. A recorrente é pessoa juridica que passa por sérias dificuldades financeiras, acentuadas pela crise econômica que assola o pais, o que diminuiu e muito o volume de serviços. Assim, não possui condições de arcar com as despesas do processo. Por isso requereu na exordial os benefícios da justiça gratuita, previstos no art. 4o da Lei 1060/50.
+Em razão destas dificuldades, a situação da Agravante é de inatividade, sendo que não possui meios ou renda para pagamento das despesas processuais (fls. 367/368).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão do benefício da assistência judiciária gratuita às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório. Incidência da súmula 7/STJ (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 16/8/2016).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/3/2019; AgInt no AREsp 842.261/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 8/3/2018; AgInt no AREsp 1.297.646/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 5/8/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
