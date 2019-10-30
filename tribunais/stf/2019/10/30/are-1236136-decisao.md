@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Lagarto/SE contra acórdão que, proferido pela Turma Recursal do Estado de Sergipe, está assim ementado:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE COBRANÇA. PISO SALARIAL NACIONAL DOS PROFESSORES. LEI Nº 11.738/2008. CONSTITUCIONALIDADE. ENTENDIMENTO DO STF. PAGAMENTO COMPLEMENTAR DEVIDO. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO INOMINADO CONHECIDO E IMPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a ADI 4.167/DF, Rel. Min. JOAQUIM BARBOSA, fixou entendimento que torna inacolhível a pretensão deduzida pela parte ora recorrente:
+    “CONSTITUCIONAL. FINANCEIRO. PACTO FEDERATIVO E REPARTIÇÃO DE COMPETÊNCIA. PISO NACIONAL PARA OS PROFESSORES DA EDUCAÇÃO BÁSICA.
+    CONCEITO DE PISO: VENCIMENTO OU REMUNERAÇÃO GLOBAL. RISCOS FINANCEIRO E ORÇAMENTÁRIO.
+    JORNADA DE TRABALHO: FIXAÇÃO DO TEMPO MÍNIMO PARA DEDICAÇÃO A ATIVIDADES EXTRACLASSE EM 1/3 DA JORNADA.
+    ARTS. 2º, §§ 1º E 4º, 3º, ‘CAPUT’, II E III E 8º, TODOS DA LEI 11.738/2008. CONSTITUCIONALIDADE. PERDA PARCIAL DE OBJETO.
+    1. Perda parcial do objeto desta ação direta de inconstitucionalidade, na medida em que o cronograma de aplicação escalonada do piso de vencimento dos professores da educação básica se exauriu (arts. 3º e 8º da Lei 11.738/2008).
+    2. É constitucional a norma geral federal que fixou o piso salarial dos professores do ensino médio com base no vencimento, e não na remuneração global. Competência da União para dispor sobre normas gerais relativas ao piso de vencimento dos professores da educação básica, de modo a utilizá-lo como mecanismo de fomento ao sistema educacional e de valorização profissional, e não apenas como instrumento de proteção mínima ao trabalhador.
+    3. É constitucional a norma geral federal que reserva o percentual mínimo de 1/3 da carga horária dos docentes da educação básica para dedicação às atividades extraclasse.
+    Ação direta de inconstitucionalidade julgada improcedente. Perda de objeto declarada em relação aos arts. 3º e 8º da Lei 11.738/2008.”
+    Impõe-se observar, por oportuno, ante a inquestionável procedência de suas observações, a conclusão do acórdão que esta Suprema Corte proferiu nos embargos de declaração do referido julgamento, no sentido de que “1. A Lei 11.738/2008 passou a ser aplicável a partir de 27.04.2011, data do julgamento de mérito desta ação direta de inconstitucionalidade e em que declarada a constitucionalidade do piso dos professores da educação básica. Aplicação do art. 27 da Lei 9.868/2001. 2. Não cabe estender o prazo de adaptação fixado pela lei, nem fixar regras específicas de reforço do custeio devido pela União. Matéria que deve ser apresentada a tempo e modo próprios aos órgãos competentes”.
+    Cumpre registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.092.251/SE, Rel. Min. GILMAR MENDES – ARE 1.092.830/SE, Rel. Min. EDSON FACHIN – ARE 1.092.915/SE, Rel. Min. LUIZ FUX – ARE 1.110.519/SE, Rel. Min. ROBERTO BARROSO – ARE 1.110.611/SE, Rel. Min. MARCO AURÉLIO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Cabe ressaltar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “c”, da carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a fixação da verba honorária, na origem, em seu percentual máximo.
+    Publique-se.
+    Brasília, 30 de outubro de 2019.
+Ministro CELSO DE MELLO
+Relator
