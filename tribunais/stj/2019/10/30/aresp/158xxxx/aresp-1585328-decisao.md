@@ -1,0 +1,15 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] e OUTRO contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. ATO JUDICIAL IMPUGNADO. DEFERIMENTO DA INDISPONIBILIDADE DE BENS.
+PRESSUPOSTOS RECURSAIS. JUÍZO NEGATIVO DE ADMISSIBILIDADE. Decisão impugnada decretou a indisponibilidade dos bens em ação de improbidade administrativa. Recurso de agravo veicula matéria que envolve a impenhorabilidade das verbas constritas. Matéria não suscitada na origem e, consequentemente, não enfrentada pela decisão impugnada. Flagrante dissociação entre a decisão impugnada e a matéria devolvida pelo recurso de agravo. Inteligência do art. 1.016, III, do CPC.
+Ofensa ao princípio da dialeticidade. O agravo não empresta motivação para impugnar o ato judicial que concedeu a tutela de urgência. Razões recursais dissociadas da matéria contida na decisão. Ofensa ao Princípio da Dialeticidade.
+Precedentes do Superior Tribunal de Justiça.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ademais, a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
