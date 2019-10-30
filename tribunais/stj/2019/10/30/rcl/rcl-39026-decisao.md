@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de reclamação apresentada por [NOME], com fundamento no 988 do CPC/2015, contra decisão proferida pela Presidência da Turma Nacional de Uniformização de Jurisprudência - TNU que inadmitiu o pedido de uniformização nacional.
+Alega o reclamante que o acórdão proferido pela 1ª Turma Recursal da Seção Judiciária de Minas Gerais, o qual extinguiu o processo sem resolução de mérito em decorrência de coisa julgada, diverge do entendimento firmado por esta Corte Superior no Tema 629.
+É o relatório. Decido.
+A presente reclamação não reúne condições de prosperar. Com efeito, nos termos do art. 988, IV, § 5º, II, do CPC/2015, é inadmissível a reclamação "proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias".
+Portanto, de acordo com a atual disciplina da matéria, a reclamação somente é admissível para garantir a autoridade de acórdão proferido no julgamento de recurso especial repetitivo e quando exauridas as instâncias ordinárias.
+Fixada essa premissa, é necessário estabelecer que, no âmbito dos Juizados Especiais Federais, não é cabível reclamação diretamente contra acórdão de turma recursal ou de decisão monocrática proferida pela Presidência da TNU, pois há previsão expressa de recurso a ser examinado pela TNU, a teor do art. 14 da Lei n. 10.259/2001.
+Nesse sentido:
+PROCESSUAL CIVIL. RECLAMAÇÃO. AJUIZAMENTO CONTRA ACÓRDÃO DE TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL E CONTRA DECISÃO DA PRESIDÊNCIA DA TNU QUE NÃO ADMITIU O INCIDENTE DE UNIFORMIZAÇÃO. INADEQUAÇÃO.
+1. Não é cabível o instrumento da reclamação contra acórdão proferido por Turma Recursal ante a previsão expressa de recurso para a TNU, conforme determina o artigo 14 da Lei n. 10.259/2001. Também não se evidencia o cabimento da reclamação contra a decisão da Presidência da TNU, que inadmitiu o incidente de uniformização, sob a perspectiva exposta pelo reclamante, porque o caso dos autos não se amolda às hipóteses tratadas no artigo 988 do CPC/2015. Precedentes.
+2. A jurisprudência desta Corte orienta-se no sentido de que a reclamação é destinada a preservar a competência do Superior Tribunal de Justiça ou a garantir a autoridade das suas decisões, nos termos do disposto nos arts. 105, I, f, da Constituição Federal e 187 do RI/STJ, não sendo via adequada para preservar a "jurisprudência" do STJ, mas, sim, a autoridade de decisão tomada em caso concreto, envolvendo as partes postas no litígio do qual ela oriunda. Precedentes.
+3. Agravo interno não provido.
+(AgInt na Rcl 36.827/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/06/2019, DJe 18/06/2019 - grifo nosso)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ACÓRDÃO PROFERIDO POR TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. NÃO CABIMENTO DA RECLAMAÇÃO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. A teor dos arts. 187 do RISTJ e 988, IV, § 5o., II, do CPC/2015, é inadmissível a reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+2. No âmbito dos Juizados Especiais Federais, não é cabível reclamação diretamente contra acórdão de turma recursal ou de decisão monocrática proferida pela Presidência da TNU, pois há previsão expressa de recurso a ser examinado pela TNU, a teor do art. 14 da Lei n. 10.259/2001. Com efeito, a reclamação não deve ser utilizada como sucedâneo recursal.
+3. Agravo interno a que se nega provimento (AgInt na Rcl 34.403/DF, Rel. Min. SÉRGIO KUKINA, DJe 3.10.2018).
+Ante o exposto, com base no art. 34, XVIII, do RISTJ, não conheço da reclamação, restando prejudicado o pedido de concessão de medida liminar.
+Publique-se. Intimem-se.
