@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto pela SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, impugnando decisão que inadmitiu recurso especial, este fundamentado na alínea "a", do permissivo constitucional, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 403-404):
+Seguro saúde. Paciente com adenocarcinoma no fígado, a cujo tratamento contínuo indicado exame PET-SCAN e intervenções cirúrgicas variadas. Recusa ao custeio e ao reembolso total das despesas havidas. Abusividade no fundamento de que o procedimento não consta de lista própria da Agência Nacional de Saúde. Necessidade de se ressarcirem integralmente os gastos efetuados pelo autor. Dano moral devido. Litigância de má-fé não configurada. Sentença em parte revista. Recurso do autor parcialmente provido e recurso da ré desprovido.
+Os embargos de declaração restaram desacolhidos pelo acórdão de fls. 529-531.
+Nas razões do recurso especial, a agravante aponta violação ao artigos188, I, do CC/02.
+Sustenta, em síntese, a ausência do seu dever de indenizar a título de dano moral, ante a ausência da prática de ato ilícito por parte da insurgente.
+É o relatório.
+Decido.
+A irresignação não prospera.
+É cediço que, nos termos da jurisprudência do Superior Tribunal de Justiça, o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, sobretudo em casos de urgência/emergência, como na hipótese, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+A propósito, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - PLANO DE SAÚDE - RECUSA IMOTIVADA DE TRATAMENTO MÉDICO - DECISÃO MONOCRÁTICA CONHECENDO DO RECLAMO PARA DAR PARCIAL PROVIMENTO AO APELO ESPECIAL. INSURGÊNCIA DA ADMINISTRADORA DO PLANO DE SAÚDE.
+1. A jurisprudência desta Corte é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Precedentes.
+2. Agravo regimental desprovido." (AgRg no AREsp 7.386/RJ, Relator o Ministro MARCO BUZZI, QUARTA TURMA, DJe de 11/9/2012)
+"AGRAVO REGIMENTAL. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. RECUSA DA COBERTURA. INDENIZAÇÃO POR DANO MORAL. CABIMENTO.
+I - Em determinadas situações, a recusa à cobertura médica pode ensejar reparação a título de dano moral, por revelar comportamento abusivo por parte da operadora do plano de saúde que extrapola o simples descumprimento de cláusula contratual ou a esfera do mero aborrecimento, agravando a situação de aflição psicológica e de angústia no espírito do segurado, já combalido pela própria doença.
+Precedentes.
+II - Em casos que tais, o comportamento abusivo por parte da operadora do plano de saúde se caracteriza pela injusta recusa, não sendo determinante se esta ocorreu antes ou depois da realização da cirurgia, embora tal fato possa ser considerado na análise das circunstâncias objetivas e subjetivas que determinam a fixação do quantum reparatório.
+III - Agravo Regimental improvido." (AgRg no Ag 884.832/RJ, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 9/11/2010- grifou-se)
+"CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. NEGATIVA INJUSTA DE COBERTURA SECURITÁRIA MÉDICA. CABIMENTO.
+1. Afigura-se a ocorrência de dano moral na hipótese de a parte, já internada e prestes a ser operada - naturalmente abalada pela notícia de que estava acometida de câncer -, ser surpreendida pela notícia de que a prótese a ser utilizada na cirurgia não seria custeada pelo plano de saúde no qual depositava confiança há quase 20 anos, sendo obrigada a emitir cheque desprovido de fundos para garantir a realização da intervenção médica. A toda a carga emocional que antecede uma operação somou-se a angústia decorrente não apenas da incerteza quanto à própria realização da cirurgia mas também acerca dos seus desdobramentos, em especial a alta hospitalar, sua recuperação e a continuidade do tratamento, tudo em virtude de uma negativa de cobertura que, ao final, se demonstrou injustificada, ilegal e abusiva.
+2. Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência do STJ vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura securitária médica, na medida em que a conduta agrava a situação de aflição psicológica e de angústia no espírito do segurado, o qual, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+3. Recurso especial provido." (REsp 1.190.880/RS, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 20/6/2011- grifou-se)
+Cumpre ressaltar que, na hipótese vertente, a negativa injustificada de cobertura pela operadora do plano de saúde foi expressamente reconhecida pelas instâncias ordinárias, consoante se depreende da transcrição do seguinte excerto do aresto recorrido:
+Neste contexto, abusiva a pretensão de exclusão de cobertura integral de procedimentos indicados ao acompanhamento de doença notoriamente grave, que inclusive culminou no óbito do autor.
+No mais, veja-se que também não se escusa a ré do custeio mediante alegação de que o exame receitado não encontra previsão na lista da Agência Nacional de Saúde.
+Isto porque incontroverso que o exame discutido seja uma espécie de tomografia computadorizada. (fl. 496)
+Diante de tal contexto, o Tribunal a quo, ao julgar procedente o pedido indenizatório formulado pela parte agravada em face da operadora do plano de saúde, decidiu em conformidade com a orientação consolidada pelo Superior Tribunal de Justiça, o que atrai o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos aos recorrido de 15% sobre o valor da condenação para 16% do respectivo valor.
+Publique-se.
