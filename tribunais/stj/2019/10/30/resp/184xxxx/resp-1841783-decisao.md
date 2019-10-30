@@ -1,0 +1,81 @@
+EMENTA
+RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. CONTRATO DE SEGURO. INVALIDEZ FUNCIONAL PERMANENTE. INVALIDEZ LABORAL. EQUIPARAÇÃO. IMPOSSIBILIDADE. PERDA DA EXISTÊNCIA. PREVISÃO CONTRATUAL. ABUSIVIDADE NÃO CONSTATADA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela GENTE SEGURADORA S.A., com fulcro no art. 105, inciso III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 142):
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA DE COBERTURA SECURITÁRIA. SEGURO DE VIDA EM GRUPO. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA - IFPD. PERDA DA CONDIÇÃO DE VIDA INDEPENDENTE. ABUSIVIDADE. INDENIZAÇÃO DEVIDA.
+1. Comprovada a invalidez permanente da autora para qualquer trabalho, em razão de doença incurável reconhecida pelo órgão oficial de previdência, mostra-se devida a indenização securitária. Caso em que a ré não manifestou interesse na realização de prova pericial.
+2. Aplicação do artigo 47 do CDC, que determina a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor.
+3. Abusividade da cláusula contratual que estabelece a necessidade de perda da existência independente do segurado para o recebimento da indenização. Dever de cobertura.
+APELAÇÃO DESPROVIDA.
+ Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 164):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA DE COBERTURA SECURITÁRIA. SEGURO DE VIDA EM GRUPO. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA - IFPD. PERDA DA CONDIÇÃO DE VIDA INDEPENDENTE. ABUSIVIDADE. INDENIZAÇÃO DEVIDA. DESACOLHIMENTO.
+1. Cabem embargos nos casos de omissão, contradição, obscuridade ou erro material no acórdão embargado. Art. 1.022 c/c 489, § 1º ambos do CPC/2015.
+2. As questões aventadas nos autos foram apreciadas pelo Colegiado, sendo que a conclusão adotada pelo acórdão embargado está devidamente fundamentada e motivada, ausente qualquer vício que implique nulidade do julgado.
+3. Pretensão da parte embargante de ver rediscutida a matéria posta no recurso e já apreciada por este Juízo, o que não é permitido pelo sistema processual vigente.
+4. Prequestionamento da legislação invocada conforme estabelecido pelas razões de decidir, seguindo compreensão do disposto no art.
+1.025 do NCPC.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+
+Nas razões do recurso especial, sustenta a recorrente divergência jurisprudencial e violação aos arts.1.022, II, do CPC/2015; 757 e 760 do CC/2002; 47 e 51, IV e XV, do CDC.
+Defende que o acórdão recorrido apresenta omissão, pois não se manifestou sobre a aplicação do conteúdo jurídico inserido nos arts. 757 e 760 do CC/2002.
+Afirma que a cláusula contratual que limita a cobertura do seguro por invalidez funcional à comprovação da perda da existência não se mostra abusiva.
+Assevera não haver possibilidade de equiparação entre os sinistros decorrentes de invalidez laborativa e funcional.
+Sendo assim, requer o provimento do apelo excepcional.
+Contrarrazões às fls. 212-220 (e-STJ).
+Decisão de admissibilidade às fls. 225-233 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A primeira tese defendida pela recorrente no apelo excepcional refere-se à existência de omissão decorrente da falta de manifestação a respeito da aplicação do conteúdo normativo dos arts. 757 e 760 do CC/2002.
+Inicialmente, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+A propósito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE MANUTENÇÃO DA POSSE. FASE DE CUMPRIMENTO DE SENTENÇA.
+I - QUESTÃO CONTROVERTIDA: Cumprimento de sentença proferida em ação de manutenção, discutindo-se a extensão da área abrangida pelo título judicial.
+II - RECURSO ESPECIAL INTERPOSTO POR CONDOMINIO ITAPARICA MAR 3ª ETAPA. ALEGAÇÃO DE IMPEDIMENTO DO VICE-PRESIDENTE PARA A REALIZAÇÃO DO JUÍZO DE ADMISSIBILIDADE. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO. AGRAVO DE INSTRUMENTO COM DEFICIENTE INSTRUÇÃO. PRETENSÃO DE REEXAME DO JULGADO. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA E JULGAMENTO "EXTRA PETITA". REVISÃO. IMPOSSIBILIDADE.
+INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+2.1. A matéria relativa ao impedimento do Vice-Presidente resta prejudicada em razão do provimento do agravo para a sua conversão em recurso especial.
+2.2. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2.3. Consoante a jurisprudência do Superior Tribunal de Justiça, as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2.4. No agravo previsto no art. 522 do CPC/1973, na hipótese de o julgador entender ausentes as peças necessárias à compreensão da controvérsia, devia indicar as peças faltantes e determinar a intimação do agravante a fim de facultar o complemento do instrumento.
+2.5. O recurso especial não é via própria para aferir a validade de documento juntado pela parte para comprovar o atendimento de requisito para conhecimento do agravo de instrumento. Aplicação do Enunciado n.º 7/STJ.
+2.6. Análise de ofensa a coisa julgada e julgamento extra petita feita de acordo com os elementos fático-probatórios dos autos de forma amplamente detalhada e fundamentada, encontra óbice no Enunciado n.º 7/STJ.
+2.7. Não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+2.8. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+III - RECURSO ESPECIAL DE UNIVERSO DE ENSINO NOVO MILÊNIO LTDA. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EXTENSÃO DA POSSE. DECISÃO TRANSITADA EM JULGADO. REVISÃO. IMPOSSIBILIDADE. BENFEITORIAS. EMBARGOS DE TERCEIRO. VIA ADEQUADA. 3.1. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+3.2. O Tribunal de Justiça refutou as alegações com arrimo no fato de que houve trânsito em julgado do acórdão proferido pela Primeira Câmara que assegurou à municipalidade a posse sobre a área total de 15.549 m  (quinze mil, quatrocentos e cinqüenta e nove metros quadrados). 3.3. Impossibilidade de se alterar o entendimento adotado pelo Tribunal de Justiça de origem.
+3.4. Os embargos de terceiro constituem o meio defensivo que o terceiro possui contra atos judiciais que gerem medida constritiva de seus bens.
+3.5. RECURSO ESPECIAL DESPROVIDO.
+IV - RECURSOS ESPECIAIS DESPROVIDOS.
+(REsp 1730535/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018)
+Analisando os autos, observa-se que o aresto recorrido está devidamente fundamentado ao reconhecer a abusividade da cláusula contratual que limitou a cobertura da invalidez da recorrida.
+Desse modo, apresentando o Tribunal originário os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, inexiste violação ao art. 1.022 do CPC/2015.
+Quanto à cobertura da invalidez pela qual foi acometida a parte recorrida, bem como à abusividade da cláusula contratual limitativa, o Tribunal local assim se manifestou (e-STJ, fls. 147-154):
+ A celeuma reside basicamente no dever de cobertura securitária, já que a ré considera a condição do segurado insuficiente para o implemento da sua obrigação de pagamento.
+ ..
+ Acerca da matéria em debate, afasto a alegação defensiva de não caracterização da hipótese de cobertura por Invalidez Funcional Permanente Total por Doença.
+ No caso em apreço, foi reconhecida pelo Órgão de Previdência Social, a invalidez permanente da demandante, após procedimento que apurou a sua incapacidade de recuperação da moléstia diagnosticada, o que atrai o dever da ré de alcançar à segurada o montante estipulado para o risco correspondente, cujo valor deferido na sentença não foi alvo de impugnação pela ré em apelo.
+ No que concerne à cláusula do contrato de seguro que condiciona a cobertura à perda da existência independente do segurado, é manifestamente abusiva, valendo lembrar que, em se tratando de relação consumerista, incide o artigo 47 do CDC, que determina a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor.
+ ..
+ Logo, uma vez comprovado que a autora restou acometida por doença que a tornou incapaz de prosseguir exercendo a profissão que habitualmente exercia, não tendo a ré logrado elidir tal prova, de ser mantida a sentença de procedência que reconheceu o dever de indenizar.
+Do excerto acima transcrito, depreende-se que o Tribunal a quo considerou que a invalidez que acometeu a recorrida possui natureza funcional e que a cláusula que limitou a cobertura do sinistro à comprovação da perda da existência permanente da segurada mostrou-se abusiva.
+Ocorre que, nos termos da jurisprudência vigente no Superior Tribunal de Justiça, há diferenciação entre a invalidez laborativa e a funcional permanente total por doença, não podendo haver equiparação entre os sinistros para fins de cobertura securitária.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. SEGURO DE VIDA EM GRUPO COM ADICIONAL DE COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA - IFPD. [NOME] PERIFÉRICA CRÔNICA. INCAPACIDADE PERMANENTE PARA A PROFISSÃO. DESEMPENHO DE ATIVIDADES LABORAIS. DEFINIÇÃO DA APÓLICE: INVALIDEZ FUNCIONAL. ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. PRESERVAÇÃO. INDENIZAÇÃO SECURITÁRIA INDEVIDA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A Circular SUSEP nº 302/2005 vedou o oferecimento da cobertura de Invalidez Permanente por Doença (IPD), em que o pagamento da indenização estava condicionado à impossibilidade do exercício, pelo segurado, de toda e qualquer atividade laborativa, pois era difícil a sua caracterização ante a falta de especificação e de transparência quanto ao conceito de "invalidez" nas apólices, havendo também confusão entre o seguro privado e o seguro social, o que gerou grande número de disputas judiciais. Em substituição, foram criadas duas novas espécies de cobertura para a invalidez por doença: Invalidez Laborativa Permanente Total por Doença (ILPD ou IPD-L) e Invalidez Funcional Permanente Total por Doença (IFPD ou IPD-F).
+3. Na Invalidez Funcional Permanente Total por Doença (IFPD), a garantia do pagamento da indenização é no caso de invalidez consequente de doença que cause a perda da existência independente do segurado, ocorrida quando o quadro clínico incapacitante inviabilizar de forma irreversível o pleno exercício das relações autonômicas do segurado. Já na cobertura de Invalidez Laborativa Permanente Total por Doença (ILPD), há a garantia do pagamento de indenização em caso de invalidez laborativa permanente total, consequente de doença para a qual não se pode esperar recuperação ou reabilitação com os recursos terapêuticos disponíveis no momento de sua constatação, para a atividade laborativa principal do segurado. Logo, a garantia de invalidez funcional não tem nenhuma vinculação com a invalidez profissional.
+4. Embora a cobertura IFPD (invalidez funcional) seja mais restritiva que a cobertura ILPD (invalidez profissional ou laboral), não há falar em sua abusividade ou ilegalidade, tampouco em ofensa aos princípios da boa-fé objetiva e da equidade, não se constatando também nenhuma vantagem exagerada da seguradora em detrimento do consumidor. De qualquer modo, a seguradora deve sempre esclarecer previamente o consumidor e o estipulante (seguro em grupo) sobre os produtos que oferece e existem no mercado, prestando informações claras a respeito do tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro.
+5. Agravo regimental não provido.
+(AgRg no AREsp 589.599/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2016, DJe 07/03/2016)
+Noutro ponto, segundo a orientação jurisprudencial vigente nesta Corte Superior, não há se falar em abusividade de cláusula contratual que estabelece a constatação da perda da existência para fins de cobertura do seguro por invalidez funcional permanente por doença.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. 1.Nos termos da jurisprudência dominante desta Corte, não se revela abusiva a cobertura securitária de Invalidez Funcional Permanente Total por Doença (IFPD) condicionada à constatação de incapacidade decorrente de doença que cause a perda da existência independente do segurado, vale dizer, a irreversível inviabilidade do pleno exercício de suas relações autonômicas (artigo 17 da Circular SUSEP 302/2005) (REsp 1.449.513/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 05.03.2015, DJe 19.03.2015). 2. Na ocasião, aquele órgão julgador distinguiu a referida cobertura daquela atinente à Invalidez Laborativa Permanente Total por Doença (ILPD), que depende da verificação da incapacidade decorrente de doença para a qual não se pode esperar recuperação ou reabilitação, com os recursos terapêuticos disponíveis no momento de sua constatação, para a atividade laborativa principal do segurado.
+3. No presente caso, consoante assentado no acórdão do Tribunal de origem, o contrato de seguro estabelece indenização para o caso de invalidez funcional permanente total por doença e não para invalidez laborativa, destoando da jurisprudência do STJ a declaração de abusividade da aludida cláusula, proferida pela Corte Estadual.
+4. Agravo interno não provido.
+(AgInt no AREsp 958.330/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/08/2017, DJe 04/09/2017)
+No caso em exame, não obstante a recorrida tenha sido aposentada por invalidez funcional permanente, conforme bem exposto no trecho do acórdão acima mencionado, a limitação constatada ficou restrita à impossibilidade de recuperação da moléstia.
+Dessa forma, conclui-se que a incapacidade laborativa da recorrida, em que pese tenha natureza funcional, não lhe retirou a existência independente devidamente prevista em contrato como requisito para cobertura securitária.
+Ante o exposto, dou provimento ao recurso especial, a fim de, reconhecer a legalidade da previsão contratual que estabeleceu a perda da existência como critério para cobertura securitária de invalidez funcional permanente e, desse modo, constatando-se o descumprimento do referido requisito pela parte recorrida, afastar o pagamento do seguro contratado.
+Inverto os ônus sucumbenciais fixados na origem, observando-se, contudo, os efeitos da gratuidade de justiça.
+Publique-se.
