@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática de fls. 481/485 que conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos:
+(i) Ausência violação ao art. 1022, 489, incisos IV e VI, do CPC/2015;
+(ii) Incidência da Súmula 7/STJ quanto ao art. 507 do CPC/2015; e
+(iii) Falta de prequestionamento dos arts. 805 e 873 do CPC/2015.
+Em suas razões, "clama a ora embargante para que V. Ex.ª, traga à lume, douto min. rel., na forma da lei federal 13.105/2015 art. 489 § 1.º- II e IV ou do NPCP., por quais razões ou fundamentações V. Ex.ª, adotou o entendimento de que não houve omissão do TJMT ao julgar o agravo interno de fls. e-STJ 140/149, cujo acórdão tido como "omisso" encontra-se à fls. e-stj. 162/169 e os embargos de declaração subsequentes fls. e-STJ. 171/183, cujo o acórdão igualmente "omisso" encontra-se a fls. e-STJ 211/218"(fl. 490, transcrição adaptada).
+Ressalta que "Não analisou toda a controvérsia alusiva ao artigo 873-II do NCPC que se baseara em fatos novos (3km de rede elétrica implantada posteriormente à primeira avaliação) em oposição portanto, ao pedido anterior e tido como precluso o direito de reeditá-lo, o qual, como dito, estava baseado no artigo 873- I e III ou hipovaloração do laudo inicial por erro do ofical de justiça, uma vez que fora interposto agravo interno fls. e-STJ. 140/149 com esse intuito, julgado pelo acórdão de fls. e-STJ. 163/169 e posteriormente ao agravo interno, foram interpostos embargos de declaração de fls. e-STJ. 171/183 apontando a "omissão" por justamente o acórdão do agravo interno novamente se omitir quanto ao art. 873-II e se furtar à apreciação das provas de 3 KM de rede elétrica em 2017, após a avaliação inicial do imóvel de fls. e-STJ 45, que se dera em 11/04/2016 sendo desta forma, renitentemente omisso o acórdão dos aclaratórios, consoante fls. e-STJ. 211/218" (fls. 495/496, transcrição adaptada).
+Devidamente intimada, a parte embargada não se manifestou (certidão de fl. 511).
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Os presentes embargos declaratórios, contudo, não se fundamentam na eventual existência dos vícios acima mencionados, limitando-se a sustentar suposta omissão e contradição do decisum.
+Como ressaltado na decisão objurgada, não houve violação dos arts. 489, § 1º, inciso IV, e 1.022, do CPC/2015, pois o eg. TJ-MT apreciou a controvérsia em sua integralidade, de modo que eventuais questões não analisadas decorrera do não conhecimento do agravo de instrumento.
+Além disso, como destacado, a análise referente aos alegados fatos novos restringe-se à competência do eg. Tribunal estadual, não podendo ser apreciada em sede de recurso especial, a teor da mencionada Súmula 7/STJ.
+Por fim, a decisão não padece de contradição ao reconhecer a falta de prequestionamento dos arts. 805 e 873 do CPC/2015 e, ao mesmo tempo, concluir pela ausência de violação do art. 1.022 do CPC/2015. Isso porque tais dispositivos não foram analisados devido ao não conhecimento do agravo de instrumento, impedindo o avanço para análise do mérito do recurso.
+Desse modo, verifica-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+A propósito, traz-se a lume alguns arestos proferidos nesse sentido, os quais exprimem a firme jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, in verbis:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 NÃO CONFIGURADA. AÇÃO DE EXIGIR CONTAS. AUSÊNCIA DE LEGITIMIDADE. CONTAS QUE JÁ FORAM PRESTADAS POR ASSEMBLEIA REGULARMENTE CONVOCADA. ALTERAÇÃO DE ENTENDIMENTO. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. Não há violação do art. 1.022, I, do CPC/2015, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada. In casu, o julgamento do feito apenas se revelou contrário aos interesses da parte recorrente, circunstância que não configura omissão, nem contradição ou obscuridade, tampouco erro material.
+(..)
+6. Agravo Interno não provido."
+(AgInt no AREsp 1306466/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018, g.n.)
+
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER. COMPETÊNCIA DO RELATOR PARA ANALISAR MONOCRATICAMENTE O AGRAVO MANIFESTAMENTE INADMISSÍVEL. EVENTUAL NULIDADE SANADA NO ATO DE INTERPOSIÇÃO DO AGRAVO INTERNO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TRIBUNAL A QUO ENTENDEU PELO EXCESSO DE RUÍDO COM BASE NA LEGISLAÇÃO LOCAL E NO ACERVO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 280/STF E DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação ao art. 1.022 do CPC/2015, pois o v. acórdão a quo não possui vício de omissão, obscuridade ou contradição, mas mero julgamento em desconformidade com os interesses da agravante.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1234308/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018, g.n.)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
