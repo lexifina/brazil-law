@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KARINE CRUZ COELHO BARTOLAZZI em face da decisão monocrática de fls. 412/422 e-STJ, que deu provimento ao recurso especial interposto pela parte ora embargada.
+Em suas razões, a embargante alega a existência de omissão e contradição na decisão embargada, na medida em que demonstrou a existência de dano moral indenizável consistente no fato de que a "demora de quase dez meses na entrega do imóvel frustrou todo o anseio e programação da embargante em fazer pleno uso da sua nova residência juntamente com o seu marido" logo após o casamento, que já estava marcado (e-STJ, fls. 424/425).
+Acrescenta que os honorários advocatícios deveriam ser fixados sobre o proveito econômico obtido com a pretensão de dano moral, e não sobre o valor da causa.
+Impugnação aos embargos apresentada às fls. 430/433 e-STJ.
+É o relatório. Passo a decidir.
+A decisão embargada deu provimento ao apelo extremo interposto pela ora embargada, com alteração do julgado proferido pelo Tribunal de origem de modo a afastar a condenação ao pagamento de danos morais, porquanto não indicado nenhum fato extraordinário que os justificassem, isto é, nenhum fato que representasse a ofensa a direitos da personalidade da promitente compradora, mas apenas o fato de não poder desfrutar do imóvel objeto de promessa de compra e venda.
+Cabia, portanto a reforma do acórdão impugnado, nos moldes do que foi feito pela decisão agravada, na esteira da jurisprudência desta Corte, segundo a qual "o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o dano moral" (AgInt no AREsp 1.251.658/SP, Rel. Ministra Maria Isabel Gallotti, DJe de 27/9/2018). Assim, não há falar em omissão, tampouco em contradição do julgado.
+Ademais, uma vez constatada a sucumbência da ora embargante, diante da improcedência da ação por ela ajuizada, correta a fixação dos honorários advocatícios com base no valor dado à causa, na esteira da jurisprudência desta Corte (REsp 1.746.072/PR, Rel. Ministra Nancy Andrighi, Rel. para o acórdão Ministro Raul Araújo, DJe de 29/3/2019).
+Logo, a insurgência trazida nos aclaratórios apenas traduz discordância com o desfecho dado ao feito.
+Aliás, o vício que justifica a oposição dos aclaratórios é o interno ao julgado, que redunda em omissão, contradição ou obscuridade. A insatisfação com o resultado do julgamento, portanto, não é impugnável por instrumento que objetiva a correção de vício interno da decisão que causou a inconformidade da parte, mas por recurso processual adequado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
