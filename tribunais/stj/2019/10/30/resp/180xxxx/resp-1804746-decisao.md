@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se recurso especial interposto pela Fazenda Nacional, com amparo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região ementado nos seguintes termos (e-STJ, fl. 173):
+TAXA DE UTILIZAÇÃO DO SISCOMEX. LEI Nº 9.718, DE 1998. LEGITIMIDADE. PORTARIA MF Nº 257, DE 2011. REAJUSTE DE VALORES. EXCESSO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA.
+1. Não há falar em ilegitimidade do reajuste da taxa de utilização do SISCOMEX por portaria, uma vez que o critério de reajuste foi fixado pela lei formal.
+2. É excessivo o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso.
+3. Havendo sucumbência recíproca e equivalente, cada parte deve arcar com 50% do valor a fixado a título de honorários advocatícios, observada a vedação à compensação.
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados.
+A recorrente alega ofensa ao disposto nos arts. 489 e 1.022, II, do CPC/2015; 3º, § 2º, da Lei n. 9.716/1998; 97, § 2º, do CTN; e 39, § 4º, da Lei n. 9.250/1995.
+Afirma omisso o pronunciamento combatido, "no que tange à análise da questão sub judice em face dos elementos constantes na Nota Técnica Conjunta Cotec/Copol/Coana n. 3/2011, em 2011, à luz do disposto no art. 39, § 4º, da Lei n. 9.250/95, no art. (93 IX da CF), no artigo 458, II, do CPC/1973, correspondente ao art. 489 do NCPC/2015, e no art. 93, IX, da CRFB" (e-STJ, fl. 222).
+Defende, em suma, que "o reajuste levado a efeito pela autoridade administrativa não desbordou dos parâmetros legais, conforme explicitado nas Notas Técnicas Conjuntas COTEC/COANA n. 2 e 3/2011, que respaldou a edição, pelo Senhor Ministro de Estado da Fazenda, da Portaria n. 257/2011" (e-STJ, fl. 235).
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, os autos subiram a esta Corte Superior.
+É o relatório.
+De início, quanto à alegada violação dos arts. 489 e 1.022, II, do CPC/2015, verifico que a insurgente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo aresto combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+Além disso, a análise de afronta ao princípio da legalidade não é possível na via especial, porquanto a matéria é reservada ao Supremo Tribunal Federal.
+A propósito:
+TRIBUTÁRIO. CONSTITUCIONAL. TAXA DE UTILIZAÇÃO DO SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR - SISCOMEX. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NO ÂMBITO DO RECURSO ESPECIAL.
+1. Reconhecimento da ilegalidade do pagamento da Taxa Siscomex, instituída pela Lei 9.719/1998 e sua respectiva majoração realizada pela Portaria MF 257/2011.
+2. A matéria versada no Recurso Especial é eminentemente constitucional, qual seja, constitucionalidade da majoração da Base de Cálculo da Taxa Siscomex por via infralegal; bem como a discussão atinente ao princípio da legalidade tributária, prescrito como Limitação ao Poder de Tributar pelo art. 150, I, da Constituição Federal e reproduzido pelo art. 97 do CTN. Assim, é inviável sua apreciação em Recurso Especial, sob pena de violação da competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional. Precedentes do STJ e STF: AgRg no REsp 1.425.102/PE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 1/4/2014, DJe 15/4/2014; AgRg no REsp 1.344.046/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/10/2012, e AgRg no REsp 1.290.963/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/9/2012. RE 648.245, Rel. Min. Gilmar Mendes, julgamento em 1º-8-2013, Plenário, DJE de 24-2-2014, com repercussão geral; RE 556.854, Rel. Min. Cármen Lúcia, julgamento em 30-6-2011, Plenário, DJE de 11-10-2011. No mesmo sentido: RE 599.450-AgR, Rel. Min. Dias Toffoli, julgamento em 8-11-2011, Primeira Turma, DJE de 6-12-2011.
+3. Recurso Especial não provido.
+(REsp 1.507.332/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/3/2015, DJe 31/3/2015)
+Quanto aos demais aspectos, "rever o entendimento do Tribunal de origem, segundo o qual seria exorbitante o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF n. 257/11, cabendo a glosa do excesso, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte" (AgInt no REsp 1.728.052/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 15/5/2018).
+Com a mesma orientação:
+TRIBUTÁRIO. ADUANEIRO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3. TAXA SISCOMEX. REAJUSTE. ILEGALIDADE DA PORTARIA MF N. 257/2011 FRENTE O ART. 3º, §2º, DA LEI N. 9.716/98. IMPOSSIBILIDADE DE REEXAME DAS CONCLUSÕES APRESENTADAS PELA CORTE DE ORIGEM QUANTO À INSUFICIÊNCIA DO ATOS ADMINISTRATIVOS NOTA TÉCNICA CONJUNTA COTEC/COPOL/COANA Nº 3/2011 E AÇÃO ORÇAMENTÁRIA N. 2247 PARA JUSTIFICAR O AUMENTO DA TAXA. INCIDÊNCIA DA SÚMULA N. 7/STJ. INCONSTITUCIONALIDADE DA DELEGAÇÃO CONTIDA NO ART. 3º, §2º, DA LEI N. 9.716/98. MATÉRIA CONSTITUCIONAL.
+1. Esta Corte não tem conhecido de recurso especial que tratam do reajuste da taxa de utilização SISCOMEX, seja porque a análise da Nota Técnica Conjunta COTEC/COANA nº 2/2011 demandaria reexame de matéria fático probatória inviável em sede de recurso especial em face do óbice da Súmula nº 7 desta Corte, seja porque há precedentes do Supremo Tribunal Federal que caminham no sentido de se considerar a própria delegação contida no art. 3º, § 2º, da Lei n. 9.716/98, como inconstitucional em razão de não haver ali a fixação de um limite máximo dentro do qual o regulamento poderia reajustar a cobrança (RE n. 1.095.001, Segunda Turma, Rel. Min. Dias Toffoli, julgado em 06.03.2018; e AgRg no RE n. 959.274 - SC, Primeira Turma, Rel. Min. Rosa Weber, Rel. p/ acórdão Min. Roberto Barroso, julgado em 27.08.2017). A existência desses precedentes reforça o entendimento de que o recurso não pode aqui ser conhecido, tendo em vista a presença de tema constitucional.
+2. Agravo interno não provido.
+(AgInt no REsp 1.775.756/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/5/2019, DJe 28/5/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
