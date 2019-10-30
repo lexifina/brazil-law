@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONDOMINIO BARRALEME HOTEL RESIDENCIA à decisão de fls. 419/420, que não conheceu do recurso.
+Sustenta a parte embargante que "Data máxima vênia, a r. decisão restou omissa aos documentos de fls.355 e 356 dos autos, que demonstram a ocorrência e feriado local e suspensão de prazos, e seguem novamente anexados a esta peça (fl. 424)".
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, providência que não foi cumprida no ato da apresentação do recurso. Veja-se que documento retirado da rede mundial de computadores, incluindo cópia de calendário do Poder Judiciário do Estado do Rio de Janeiro ou mera relação de feriados, sem trazer o inteiro teor dos respectivos atos normativos, como feito pela parte (fl. 353), não tem o condão de afastar a intempestividade.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR DE FERIADO LOCAL OU SUSPENSÃO DOS PRAZOS PROCESSUAIS. COMPROVAÇÃO EFETIVA.
+1. A Corte Especial do STJ pacificou o entendimento de que a existência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão, expedida pelo Tribunal de origem, que afirme o período no qual ocorreu um desses fatos (STJ, EREsp 884.009/RJ, Rel. Ministro Castro Meira, Rel. p/ acórdão Ministro Ari Pargendler, Corte Especial, DJe 11/4/2014).
+2. Na forma da jurisprudência, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe 15/10/2012).
+3. Para efeito de tempestividade, a prova do feriado local ou recesso forense deve ser feita pela parte interessada por meio de documento idôneo, não servindo cópia do calendário do judiciário extraído da internet.
+4. Agravo interno provido. (AgInt no AREsp 1250938/SP, relator Ministro Og Fernandes, Segunda Turma, , julgado em 9/10/2018, DJe de 15/10/2018)
+Registre-se, ainda, que o documento de fl. 354 é insuficiente para comprovar a tempestividade do recurso, e os de fls. 356/357 não foram juntados no ato da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
