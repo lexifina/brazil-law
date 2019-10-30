@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC 22351757620198260000) - fl. 11:
+Habeas Corpus. Matéria que deve ser discutida em recurso próprio, qual seja, Agravo em Execução - Indeferimento in limine da impetração.
+Verifica-se dos autos que o paciente foi condenado à pena de 7 anos e 6 meses de reclusão, por infração ao art. 35, caput c/c o art. 40, V da Lei n. 11.343/2006, no regime inicial semiaberto.
+Alega-se que o paciente ficou preso preventivamente por 2 anos, não tendo o juiz sentenciante aplicado, na r. sentença, a detração do art. 387, § 2º, do Código de Processo Penal, sendo certo que o tempo de prisão preventiva ultrapassou e muito a fração de 1/6, já fazendo jus ao regime aberto.
+Requer-se na impetração a concessão da ordem para fixar o regime aberto, em razão da detração prevista no art. 387, § 2º, do Código de Processo Penal.
+É o relatório.
+Primeiramente, observado o quantum da pena e a existência de circunstâncias judiciais negativas, mesmo que feita a detração na sentença não poderia ser aplicado o regime inicial aberto ao paciente.
+De todo modo, a Corte de origem entendeu que o tema não poderia ser examinado no habeas corpus e caberia ao Juízo de execução aplicar o disposto no art. 387, § 2º, do Código de Processo Penal.
+Ocorre que esta Corte tem entendimento pacificado na linha de que, embora seja o agravo em execução o recurso ordinariamente cabível contra decisão proferida pelo Magistrado das execuções, é certo que não há óbice ao manejo do habeas corpus quando a matéria deduzida no writ impetrado no Tribunal de origem for de direito e tiver potencial de causar lesão à liberdade de locomoção do apenado, hipótese destes autos, mormente porque, como consta do acórdão, o tema nem foi levado ao Juiz da Execução. Confira-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO. HABEAS CORPUS NÃO CONHECIDO NA CORTE DE ORIGEM.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio. Porém, ressalva a possibilidade de concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A questão relativa ao lapso temporal exigido para progressão de regime a condenado por associação para o tráfico de drogas não foi apreciada pelo Tribunal a quo, embora decidida em primeiro grau de jurisdição.
+3. Embora seja o agravo em execução o recurso ordinariamente cabível contra decisão proferida pelo Magistrado das Execuções, é certo que não há óbice ao manejo do habeas corpus quando a matéria deduzida no writ impetrado no Tribunal de origem for de direito e tiver potencial de causar lesão à liberdade de locomoção do apenado.
+4. A apreciação, pela vez primeira, da questão pelo Superior Tribunal de Justiça resulta em defesa supressão de instância. Este Tribunal Superior tem acumulado julgados no sentido de que compete à Corte de origem apreciar o mérito do mandamus lá impetrado para a verificação de eventual constrangimento ilegal pelo indeferimento dos benefícios da execução Habeas corpus não conhecido. Ordem de habeas corpus concedida, de ofício, para determinar que o Tribunal de Justiça de São Paulo aprecie o mérito do writ originário.
+(HC n. 373.619/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/2/2017).
+Sucede, ainda, que a letra da lei não deixa dúvida de que cabe ao Juízo da condenação computar o tempo da prisão provisória na fixação do regime inicial. Confira-se:
+ ..  Art. 387. O juiz, ao proferir sentença condenatória:
+ ..  § 2º O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade.
+Esclarecedora é a lição de Capez no particular (grifo nosso):
+ ..  O art. 1º da Lei n. 12.736 é claro ao especificar que o juiz levará em conta a detração e completa essa informação com o novo § 2º do art. 387 do Código de Processo Penal, ou seja, o magistrado deverá levar em consideração a detração para fins de fixação de regime. Levar em consideração a detração não significa aplicá-la totalmente, e sim considerá-la para fins de fixação do regime inicial de cumprimento de pena.
+Entretanto, surge a seguinte questão: a pena foi provisoriamente abatida pelo juiz da sentença condenatória apenas para fins de fixação de regime  Qual o sentido de o juiz não aplicar o desconto, na pena definitiva, do tempo de prisão processual  Em respeito ao princípio da eficiência e da celeridade da prestação jurisdicional, impõe-se interpretação sistemática dos dispositivos, esvaziando a alínea c do inciso III do art. 66 da LEP, apenas no tocante a competência do juiz da execução em recalcular a pena prevista na sentença para fins de detração penal e adaptação de regime de cumprimento de pena.
+(CAPEZ, Fernando. Curso de Processo Penal. 21ª ed., São Paulo: Saraiva, 2014, epub - grifo nosso)
+Nesse sentido, esta Corte já decidiu:
+ ..  1. Não há como conhecer do mandamus no ponto em que alega ofensa ao art. 387, § 2º, do CPP, visto que tal questão não foi objeto de exame pelo Tribunal apontado como coator no aresto objurgado, que entendeu que o habeas corpus não seria a via adequada para rever questão afeta ao Juízo da Execução, dada a incompetência deste STJ para tanto e sob pena de indevida supressão de instância.
+2. Flagrante, contudo, a ilegalidade, pois a questão não é de execução penal, mas de fixação do regime inicial de cumprimento de pena, a ser imposto pelo Juízo da condenação por ocasião da sentença, quando se computará o período em que o réu permaneceu preso provisoriamente para fins de escolha do modo inicial de execução da sanção.
+(HC n. 287.516/SP, Ministro Jorge Mussi, Quinta Turma, DJe 28/5/2014)
+Destaco, ainda, o HC n. 281.786/SP, Ministro Jorge Mussi, Quinta Turma, DJe 14/5/2014.
+No caso dos autos, considerando que o Juízo de piso inobservou o disposto no art. 387, § 2º, do Código de Processo Penal, caberia ao Tribunal a quo reformar a sentença para estabelecer o regime inicial de acordo com a diretriz legal. Se assim não fez, há ilegalidade.
+Ante o exposto, com fundamento no art. 544, § 4º, II, c, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, concedo a ordem a fim de determinar que a Corte de origem fixe o regime inicial adequado, observando o disposto no art. 387, § 2º, do Código de Processo Penal.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
