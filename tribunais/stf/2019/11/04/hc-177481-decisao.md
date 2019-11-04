@@ -1,0 +1,28 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça, proferido no RHC 108.977/SC, assim ementado (eDOC 5, p. 1):
+    RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+    1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito – o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas –, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+    2. A decisão que decretou a custódia preventiva evidenciou a periculosidade concreta do acusado e o fundado risco de reiteração delitiva, ante o modus operandi empregado na ação delituosa, devidamente planejada – em concurso com diversos outros agentes e emprego de arma de fogo, além do fato de estar o réu foragido.
+    3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+    4. Recurso não provido.
+    As alegações do impetrante estão sintetizadas na seguinte ementa (eDOC 1, pp. 3-5):
+    1. Inconstitucionalidade de vedação em abstrato à concessão de liberdade provisória (HC 104.339) – (ADI 3.112), pelo fato de o Paciente ter sua prisão preventiva decretada pelo MM. Juiz da Comarca de Concórdia – Estado de Santa Catarina, unicamente por suposta infração criminal prevista no art. 157, § 2º, II, e § 2º - A, I, do CP, juntamente com art. 14 da Lei 10.826/03, totalmente sem motivos, eis que evidenciando a desproporcionalidade da Medida, uma vez que já houve sentença de um dos acusados e nada ficou evidente quanto ao envolvimento do Paciente, o que enseja o direito de responder o processo em liberdade;
+    2. Possibilidade de relaxamento de prisão para crimes hediondos (HC 103.884) e (HC 106.243) - Referido decreto prisional se deu na data da Prisão processual mais gravosa do que a pena a ser cumprida em caso de eventual condenação definitiva, uma vez considerando a sua primariedade, há precedentes tanto neste E. Supremo Tribunal Federal quanto nas instâncias inferiores:
+    3. Prisão preventiva decretada com base em meras conjecturas e ilações. Ausência de demonstração da necessidade da prisão cautelar com indicação de elementos concretos dos autos. Falta de justa causa do decreto prisional;
+    4. “Conclusões vagas e abstratas tais como utilização de arma de fogo, periculosidade concreta do acusado, risco de reiteração delitiva, ação planejada, concurso de agentes, possibilidade de obstruir a investigação, intimidação de testemunhas, e suposições a respeito do que o acusado poderá sem vinculo com situação fática concreta, efetivamente existente, consistem meras probabilidades vir a fazer, caso permaneça solto, motivo pelo qual não podem respaldar a medida constritiva para conveniência da instrução criminal e aplicação da lei penal.” (HC n.º 48.381-MG, Rel. Min. GILSON DIPP, DJ 1.8.06);
+    5. Decretação de prisão sem fundamentação concreta, baseada tão somente em meras conjecturas, sem provas, sendo que a Lei exige a devida individualização, não se permitindo abstrações, pois de rigor há de se ter motivação válida, consubstanciada na Lei para que se possa dar respaldo a decisão de manter encarcerado o paciente;
+    6. Evidenciamos que se trata de Paciente nascido em 01-05- 1.969, atualmente com 50 anos de idade, com residência fixa própria, há mais de 5 anos, participação em pessoa jurídica há mais de 10 anos, pai de 2 filhas, sem antecedentes criminais, sem qualquer mácula, primário, que vem se colocando a todo momento a disposição da justiça para que seja ouvido a fim de esclarecer os fatos, mostrando-se totalmente desnecessária a decretação de sua prisão;
+    7. Pela aplicação do já decidido no HC 160.296/RS, superando assim que, mesmo com condenação e execução provisória da pena, é de se conceder o direito de aguardar em liberdade o julgamento;
+    8. Por fim, requer pela concessão da ORDEM Liminar para revogar a prisão preventiva para que o Paciente responda o processo em liberdade.
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    O impetrante não acostou aos autos os documentos indispensáveis para aferição da ilegalidade.
+    Com efeito, olvidou-se de instruir o feito com cópia do inteiro teor da decisão que determinou a prisão preventiva do paciente.
+    Assim, a instrução deficitária inviabiliza a análise do constrangimento ilegal invocado pelo impetrante e a concessão da ordem pleiteada.
+    Acrescente-se que, consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434, Primeira Turma, Rel. Min. RICARDO LEWANDOWSKI, julgado em 25.08.2009). No mesmo sentido: HC 130.240 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 24.11.2015 e HC 131.202 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 03.03.2016.
+    2. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 4 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
