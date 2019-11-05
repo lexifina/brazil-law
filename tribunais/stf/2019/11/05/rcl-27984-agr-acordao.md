@@ -1,0 +1,868 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 19
+
+05/11/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 27.984 RONDÔNIA
+RELATOR
+AGTE.(S)
+AGTE.(S)
+AGTE.(S)
+AGTE.(S)
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. MARCO AURÉLIO
+: ANTONIA ACIOLE BRITO E OUTRO(A/S)
+: ESPÓLIO DE DAVI DANTAS DA SILVA
+: ESPÓLIO DE OSMAR FERREIRA LIMA
+: ESPÓLIO DE RUTH CLOÉ DE BRITO CARVALHO
+: ESPÓLIO DE WALTER PAIVA DE MORAES
+: MARCIO MELO NOGUEIRA
+: ESTADO DE RONDÔNIA
+: PROCURADOR-GERAL DO ESTADO DE RONDÔNIA
+: TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA
+: SEM REPRESENTAÇÃO NOS AUTOS
+
+RECLAMAÇÃO – OBJETO. A reclamação pressupõe tenha sido
+usurpada a competência do Supremo ou desrespeitada decisão proferida,
+sendo imprópria a utilização da medida como sucedâneo recursal.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal em desprover o agravo
+regimental na reclamação, nos termos do voto do relator e por
+unanimidade, em sessão presidida pelo Ministro Luiz Fux, na
+conformidade da ata do julgamento e das respectivas notas taquigráficas.
+Brasília, 5 de novembro de 2019.
+
+MINISTRO MARCO AURÉLIO – RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C52-362E-1586-DB17 e senha B153-E28E-2B40-4DFF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 19
+
+05/11/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 27.984 RONDÔNIA
+RELATOR
+AGTE.(S)
+AGTE.(S)
+AGTE.(S)
+AGTE.(S)
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. MARCO AURÉLIO
+: ANTONIA ACIOLE BRITO E OUTRO(A/S)
+: ESPÓLIO DE DAVI DANTAS DA SILVA
+: ESPÓLIO DE OSMAR FERREIRA LIMA
+: ESPÓLIO DE RUTH CLOÉ DE BRITO CARVALHO
+: ESPÓLIO DE WALTER PAIVA DE MORAES
+: MARCIO MELO NOGUEIRA
+: ESTADO DE RONDÔNIA
+: PROCURADOR-GERAL DO ESTADO DE RONDÔNIA
+: TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA
+: SEM REPRESENTAÇÃO NOS AUTOS
+RE LAT Ó RI O
+
+O SENHOR MINISTRO MARCO AURÉLIO – Eis o revelado pelo
+assessor Tiago do Vale:
+Em 29 de outubro de 2018, Vossa Excelência negou
+seguimento à reclamação, assentando:
+
+LIMINAR – REVOGAÇÃO.
+RECLAMAÇÃO – IMPROPRIEDADE –
+SEGUIMENTO – NEGATIVA.
+1. O assessor Dr. Vinicius de Andrade Prado assim
+revelou as balizas do caso:
+Em 7 de dezembro de 2017, ao implementar a
+medida acauteladora, Vossa Excelência consignou:
+RECLAMAÇÃO
+–
+AGRAVO
+DE
+INSTRUMENTO Nº 654.291 – ACÓRDÃO –
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 19
+
+RCL 27984 AGR / RO
+DESRESPEITO
+–
+RELEVÂNCIA
+–
+RECLAMAÇÃO
+–
+LIMINAR
+–
+DEFERIMENTO.
+1. O assessor Dr. Vinicius de Andrade
+Prado prestou as seguintes informações:
+Antônia Aciole Brito e outros, servidores
+públicos estaduais, afirmam haver o Tribunal
+de Justiça do Estado de Rondônia, no processo
+nº 2007714-52.2004.8.22.0000, olvidado o que
+decidido no agravo de instrumento nº 654.291,
+na sessão do Pleno realizada em 18 de
+dezembro de 2015.
+Segundo narram, Vossa Excelência, no
+paradigma, por meio de pronunciamento
+individual, proveu o agravo e, em seguida, o
+extraordinário, interposto pelo Estado de
+Rondônia, para assentar a inexistência de
+direito adquirido a regime jurídico. Relatam a
+subsequente protocolação de agravo interno,
+tendo sido formados dois grupos de servidores
+envolvidos. Relativamente às respectivas
+situações, destacam a reconsideração do ato
+que implicou o acolhimento do extraordinário,
+com o subsequente não conhecimento do
+agravo de instrumento ante a ocorrência de
+vício formal, decorrente da ausência de juntada
+de cópia das procurações com outorga de
+poderes. Asseveram que, em relação ao grupo
+que integram, acabou mantido o acórdão do
+Tribunal de Justiça mediante o qual deferida a
+ordem para assegurar-lhes determinada forma
+de cálculo de certas vantagens pecuniárias.
+Conforme esclarecem, após sucessivos
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 19
+
+RCL 27984 AGR / RO
+recursos infrutíferos do Estado, Vossa
+Excelência determinou, em 16 de setembro de
+2014, a certificação do trânsito em julgado, o
+qual teria ocorrido em 19 de junho de 2012.
+Novo agravo acabou desprovido, havendo sido
+consignado o decurso do biênio decadencial, a
+inviabilizar o manuseio da rescisória.
+Consoante informam, iniciada a execução, o
+Tribunal local veio a declarar a inexigibilidade
+do título executivo, presente o artigo 741 do
+Código de Processo Civil de 1973, surgindo daí
+o alegado desrespeito. Eis a ementa da decisão
+reclamada:
+Agravo interno. Servidor público.
+Inexistência de direito adquirido a regime
+jurídico. Mandado de segurança. Acórdão.
+Trânsito
+em
+julgado.
+Execução.
+Inexigibilidade do título (art. 741,
+parágrafo único, CPC/73). Interpretação
+contrária ao texto constitucional decidido
+pelo STF. Exceção à coisa julgada.
+O parágrafo único do artigo 741 do
+CPC/1973 atribuiu aos embargos à
+execução
+ou
+à
+impugnação
+ao
+cumprimento
+de
+sentença
+eficácia
+rescisória de sentença ou acórdão, desde
+que tenha conteúdo inconstitucional.
+Os servidores públicos não têm
+direito adquirido a regime jurídico, sendo
+legítima a alteração da fórmula de cálculo
+de vantagem pecuniária, desde que
+respeitado o princípio constitucional da
+irredutibilidade de vencimentos.
+O acórdão do Tribunal que se
+fundamenta no sentido de reconhecer
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 19
+
+RCL 27984 AGR / RO
+direito adquirido a regime jurídico vai de
+encontro ao parágrafo único do artigo 741
+do CPC/1973. Nessa hipótese deve ser
+dado provimento ao agravo interno, uma
+vez que essa situação jurídica foi
+reconhecida pelo STF quando proveu o
+recurso extraordinário, denegando a
+segurança para parte dos integrantes da
+ação.
+Consideraram-se, para motivar a
+assertiva do parágrafo único referido, os
+precedentes do STF em que se afirma o
+princípio da inexistência do direito
+adquirido a critério de reajuste de
+vantagem pessoal e nominalmente
+identificada (RE n. 375.936-AgR, relator o
+ministro Carlos Britto, 1ª Turma, DJ de
+25.8.06; ADI 2418/DF, relator: min. Teori
+Zavascki, Tribunal Pleno, julgado em
+04/05/2016, Acórdão Eletrônico Dje-243,
+Divulgado
+16.11.2016,
+Publicado
+17.11.2016).
+A Lei que tratou da mudança das
+remunerações respeitou a irredutibilidade
+(RE 5633965, relator: min. Carmem Lúcia,
+Divulgado em 30/06/2009, Pub. DJe
+01/07/2009 - ATA Nº 21/2009, DJe nº 121,
+Trânsito em julgado: 12/08/2009; Tema 41).
+Sendo reconhecido que o titulo
+judicial em que está consubstanciada a
+execução tem conteúdo evidente de que
+aplicou lei ou ato normativo declarados
+inconstitucionais pelo Supremo Tribunal
+Federal, ou está fundado em aplicação ou
+interpretação da lei ou ato normativo tidas
+pelo Supremo Tribunal Federal como
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 19
+
+RCL 27984 AGR / RO
+incompatíveis com a Constituição Federal,
+deve ser provido o agravo, a fim de
+declarar inexigível, nos termos do
+parágrafo único do artigo 741 do
+CPC/1973. O julgado é posterior à
+vigência do referido artigo do cpc.
+Precedentes STF e STJ.
+(Agravo regimental em execução em
+mandado de segurança nº 200771452.2004.8.22.0000, Pleno do Tribunal de
+Justiça do Estado de Rondônia, relator o
+desembargador Sansão Saldanha, Diário
+da Justiça de 30 de maio de 2017.)
+Sustentam contrariado o paradigma
+porquanto, na sessão realizada em 18 de
+dezembro de 2015, o Pleno adotou óptica
+sintetizada na seguinte ementa, publicada em
+22 de fevereiro seguinte:
+COISA
+JULGADA
+–
+PRONUNCIAMENTO
+JUDICIAL
+–
+CAPÍTULOS AUTÔNOMOS. Os capítulos
+autônomos do pronunciamento judicial
+precluem no que não atacados por meio
+de recurso, surgindo, ante o fenômeno, o
+termo inicial do biênio decadencial para a
+propositura da rescisória. DECADÊNCIA
+– AÇÃO RESCISÓRIA – BIÊNIO –
+TERMO INICIAL. O termo inicial de
+prazo de decadência para a propositura
+da ação rescisória coincide com a data do
+trânsito em julgado do título rescindendo.
+Recurso inadmissível não tem o efeito de
+empecer a preclusão.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 19
+
+RCL 27984 AGR / RO
+Reputam imprópria a rescisão, na origem,
+do acórdão prolatado pelo Tribunal de Justiça,
+apontando que o Pleno reconheceu a coisa
+julgada e assentou o transcurso do lapso
+decadencial para formalização de rescisória.
+Ressaltam a indicação expressa, na certidão de
+trânsito em julgado, dos próprios nomes,
+presente a condição de beneficiários do ato
+praticado. Consoante argumentam, uma vez
+proclamada a preclusão maior e o esgotamento
+do biênio decadencial, não poderia o Tribunal
+estadual consignar a inexigibilidade do título.
+Evocam jurisprudência.
+Entendem irrelevante a admissão da
+repercussão geral no recurso extraordinário nº
+611.503, no qual debatida a harmonia do artigo
+741 do Código de Processo Civil de 1973 com a
+garantia constitucional da coisa julgada.
+Ponderam adotada, como premissa, no caso
+mencionado, o trânsito em julgado na origem,
+situação não verificada, uma vez operada a
+eficácia maior no âmbito do Supremo.
+Consideram contraditório declarar o transcurso
+do biênio da rescisória e admitir a rescisão com
+base no referido preceito do diploma
+processual.
+Sob o ângulo do risco, aludem ao estado
+de saúde de alguns dos credores, bem assim à
+natureza alimentar da verba.
+Requerem, em sede liminar, a imediata
+cassação do pronunciamento impugnado e,
+sucessivamente, a suspensão da eficácia deste.
+Postulam, alfim, a cassação da decisão atacada.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 19
+
+RCL 27984 AGR / RO
+
+2. Percebam as balizas subjetivas do caso
+concreto. Determinados servidores impetraram
+mandado de segurança visando a manutenção de
+certo critério de reajuste de vencimentos. Com o
+êxito no Tribunal de Justiça do Estado de Rondônia,
+sobreveio extraordinário, inadmitido na origem.
+Interposto agravo de instrumento direcionado ao
+Supremo, entendi pertinente o inconformismo; em
+seguida, foi provido o extraordinário formalizado
+pelo Estado, sendo indeferida a ordem.
+O
+pronunciamento
+foi
+parcialmente
+reconsiderado em virtude da constatação de vício
+formal quanto à representação de parte dos então
+recorridos. Considerado o litisconsórcio formado,
+ficou demonstrado que o instrumento do agravo não
+se fez acompanhado de cópia das procurações com
+outorga de poderes alusivas a certos servidores, ora
+reclamantes. Atentem para as razões que consignei
+na oportunidade:
+2. Percebam as balizas subjetivas do caso
+concreto. Determinados servidores impetraram
+mandado de segurança visando a manutenção de
+certo critério de reajuste de vencimentos. Com o
+êxito no Tribunal de Justiça do Estado de Rondônia,
+sobreveio extraordinário, inadmitido na origem.
+Interposto agravo de instrumento direcionado ao
+Supremo, entendi pertinente o inconformismo; em
+seguida, foi provido o extraordinário formalizado
+pelo Estado, sendo indeferida a ordem. O
+pronunciamento foi parcialmente reconsiderado em
+virtude da constatação de vício formal quanto à
+representação de parte dos então recorridos.
+Considerado o litisconsórcio formado, ficou
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 19
+
+RCL 27984 AGR / RO
+demonstrado que o instrumento do agravo não se fez
+acompanhado de cópia das procurações com outorga
+de poderes alusivas a certos servidores, ora
+reclamantes. Atentem para as razões que consignei
+na oportunidade:
+[...]
+Quanto ao tema de fundo, realmente
+o Estado, ao interpor o agravo de
+instrumento visando à subida do
+extraordinário, não providenciou o
+traslado dos instrumentos de mandato,
+conferindo
+poderes,
+atinentes
+aos
+seguintes agravados:
+- Antônia Aciole Brito
+- Maria Terezinha de Brito - Maria
+Carpenedo Rossato
+- Walter Paiva de Moraes
+- Jair Dandolini Pessetti
+- Érika Martins Mattos
+- Manoel de Lima Macedo - Antônio
+Saldanha da Silva
+- Miguel Garcia de Queiroz - Ruth
+Cloé de Brito Carvalho
+- Osvaldo Paschoal
+- Maria Bianca do Nascimento Luiza Celeste Valente Aguiar
+- Nilda Fernandes da Silva Rossi
+- Edmar de Melo Raposo
+- Francisco Barbosa Rodrigues Osmar Ferreira Lima
+- Davi Dantas da Silva
+Então, em relação a eles, é forçoso
+concluir pelo não-conhecimento do agravo
+de instrumento do Estado.
+[...]
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 19
+
+RCL 27984 AGR / RO
+
+Ante o abuso no direito de recorrer,
+determinei, em 16 de setembro de 2014, a
+certificação
+do
+trânsito
+em
+julgado
+relativamente aos servidores acima indicados,
+tendo-o como ocorrido na data da publicação
+do acórdão atinente aos primeiros embargos
+declaratórios interpostos.
+Os reclamantes sustentam desrespeitado o
+decidido no agravo de instrumento nº 654.291,
+o qual acabou não conhecido no tocante ao
+aludido grupo de pessoas, em razão do vício
+formal constatado. Entendem inadequado, no
+curso da execução, assentar a inexigibilidade do
+título judicial formado, considerada a mesma
+argumentação expendida, sem êxito, pelo
+Estado, na fase de conhecimento. Mostra-se
+relevante a irresignação. A leitura do acórdão
+impugnado revela que o móvel para a
+declaração de inexigibilidade do título foi a
+apontada ausência de direito adquirido a
+regime jurídico, ou seja, tese idêntica à lançada
+pelo Estado no extraordinário, cuja inadmissão
+acabou mantida pelo Tribunal, no tocante aos
+reclamantes, em decorrência da verificação de
+defeito formal na formação do instrumento do
+agravo protocolado contra a negativa de
+sequência ao extraordinário. Confiram o
+seguinte trecho do ato atacado, a revelar a
+óptica adotada:
+[…]
+Embora em sede de agravo interno
+não seja juridicamente possível a revisão
+do julgado com a prolação de novo
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 19
+
+RCL 27984 AGR / RO
+acórdão mandamental, é perfeitamente
+admissível declarar a sua inexigibilidade,
+sem que isso constitua violação à coisa
+julgada ou à segurança jurídica, sobretudo
+quando a tese sobre a inexistência de
+direito adquirido a regime jurídico
+ganhou força vinculante a partir do
+momento em que foi firmada em sede de
+repercussão geral (Tema 41).
+[…]
+A renovação da mesma questão, na fase
+executiva, até mesmo sob o ângulo da
+isonomia, considerados aqueles servidores cujo
+direito acabou não reconhecido em razão do
+provimento do extraordinário interposto pelo
+Estado, configura burla e desrespeito à decisão
+do Supremo. O vício formal identificado no
+agravo de instrumento impediu o exame do
+tema de fundo, no que, formado título
+executivo, foi assegurado o pedido dos
+reclamantes, formalizado na impetração.
+3. Defiro a liminar para suspender, até o
+julgamento final desta reclamação, a eficácia do
+acórdão prolatado pelo Tribunal de Justiça do
+Estado de Rondônia, em 15 de maio de 2017, no
+processo
+nº
+2007714-52.2004.8.22.0000
+e
+determinar a sequência da execução em relação
+aos reclamantes.
+4. Presente a regência do Código de
+Processo Civil de 2015, citem o interessado e
+solicitem informações. Com o recebimento,
+colham o parecer da Procuradoria-Geral da
+República.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 19
+
+RCL 27984 AGR / RO
+
+5. Publiquem.
+O Estado de Rondônia, em contestação, relata o
+histórico do processo originário. Suscita, em
+preliminar, a incorreção do valor atribuído à causa,
+estipulado, na inicial, em R$ 10.000,00. Diz estar em
+jogo controvérsia da ordem de R$ 24.125.689,39,
+tendo em vista manifestação do Tribunal de Contas
+estadual, a impactar no montante das custas
+recolhidas. Destaca o óbito dos reclamantes Ruth
+Cloé de Britto Carvalho, Walter Paiva de Moraes,
+Davi Dantas da Silva e Osmar Ferreira de Lima, a
+revelar pertinente a adequação do polo ativo.
+Ressalta inadmissível a reclamação considerado o
+caráter subsidiário, a exigir o esgotamento das vias
+ordinárias e a impossibilidade do manuseio desta
+como sucedâneo recursal. Pondera que, no tocante
+aos reclamantes, não houve decisão de mérito, no
+Supremo, uma vez não conhecido o agravo de
+instrumento protocolado contra a inadmissão do
+extraordinário ante vício formal, do que decorreria a
+inviabilidade de se ter o alegado desrespeito.
+Consoante assevera, uma vez não verificado o efeito
+substitutivo, eventual contrariedade somente
+poderia mostrar-se a partir do decidido pelo Tribunal
+de Justiça, o qual seria, até mesmo, o órgão
+competente para apreciar possível rescisória. No
+mérito, alega o acerto da declaração, pelo Tribunal de
+Justiça, da inexigibilidade do título judicial formado,
+o que não equivale à rescisão do pronunciamento
+surgido na fase de conhecimento ou à ofensa à coisa
+julgada. Salienta a inconstitucionalidade do título
+executivo, passível de ser reconhecida durante a
+etapa de cumprimento, em virtude da ausência de
+direito adquirido relativamente a regime jurídico.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 19
+
+RCL 27984 AGR / RO
+
+O Estado de Rondônia, em peça apartada,
+mediante a qual interposto agravo interno, reitera os
+mesmos argumentos lançados na contestação.
+Por meio das petições/STF nº 14.098,
+14.107/2018 e 14.868/2018, os reclamantes articulam
+com a impropriedade das preliminares veiculadas
+pelo Estado. Suscitam o que denominam de “questão
+de ordem processual” com a finalidade de ver
+definido, no âmbito desta reclamação, o
+procedimento a ser observado para quitação dos
+valores decorrentes do título executivo formado.
+Apontam a desnecessidade de expedição de
+precatório. Quanto ao agravo interno protocolado,
+pretendem o desprovimento.
+O Tribunal reclamado, nas informações, relata o
+histórico processual do caso. Sustenta a formalização
+de recursos especial e extraordinário no curso da
+execução, pendentes de juízo de admissibilidade.
+Por meio do pronunciamento de 13 de junho de
+2018, Vossa Excelência determinou a habilitação dos
+espólios de Davi Dantas da Silva, Osmar Ferreira
+Lima, Ruth Cloé de Brito Carvalho e Walter Paiva de
+Moraes. Vossa Excelência, em 20 de agosto de 2018,
+ante a alegação de descumprimento da medida
+acauteladora, determinou ao Tribunal de Justiça a
+sequência da execução na origem.
+O Estado de Rondônia, em subsequentes
+declaratórios, assevera o cumprimento da liminar
+deferida, a revelar acréscimo remuneratório aos
+reclamantes.
+Esclarece
+necessário
+redimensionamento da Vantagem Pessoal de
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 19
+
+RCL 27984 AGR / RO
+Adequação Salarial – VPAS, considerada a natureza
+variável da parcela, destinada a garantir a
+irredutibilidade salarial e evitar “sobressaltos
+remuneratórios volumosos”. Busca a reconsideração
+da medida de urgência e, sucessivamente, o
+reconhecimento do adimplemento desta. Se admitida
+a inobservância, pede a fixação dos parâmetros de
+cumprimento, com a determinação dos valores a
+serem pagos.
+Os embargados, em contraminuta, articulam
+com a manutenção da decisão mediante a qual
+determinada a sequência da execução na origem.
+Os reclamantes, com as petições/STF nº
+61.627/2018 e 63.967/2018, assinalam a recalcitrância
+do Tribunal de Justiça em relação ao adimplemento
+da medida acauteladora. Sublinham a inexistência de
+eficácia suspensiva dos declaratórios.
+O Ministério Público Federal opina pelo não
+conhecimento da reclamação e pela revogação da
+liminar, prejudicados o agravo interno e os
+declaratórios pendentes. Destaca não se ter
+adentrado, quanto aos reclamantes, o mérito da
+controvérsia quando do julgamento do agravo de
+instrumento nº 654.291.
+2. Afasto a preliminar de inadequação do valor
+atribuído à causa. Consideradas a natureza e a finalidade
+da reclamação, a pretensão por meio dela veiculada é
+distinta da formalizada no processo originário, estando o
+inconformismo veiculado voltado unicamente ao
+reconhecimento do apontado descompasso ao decidido no
+paradigma evocado.
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 19
+
+RCL 27984 AGR / RO
+Mostra-se prescindível, no caso, para fins de
+admissão da medida, o esgotamento das instâncias
+ordinárias. Tal requisito, previsto na parte final do artigo
+988, § 5º, inciso II, do Código de Processo Civil, faz-se
+presente quando arguida, na reclamação, a inobservância
+de acórdão surgido do julgamento de extraordinário sob a
+sistemática da repercussão. Em jogo, situação distinta,
+porquanto arguido o desrespeito a decisão do Supremo
+oriunda de processo de cuja relação participaram os
+reclamantes. No mais, quanto ao mencionado manuseio
+da reclamação como sucedâneo recursal, a preliminar
+confunde-se com o mérito e nele será apreciada.
+Reanalisado o caso, tendo em conta as manifestações
+que aportaram após o deferimento do pedido de liminar,
+verifica-se a impropriedade do pleito. Ante o disposto no
+artigo 1.008 do Código de Processo Civil, “o julgamento
+proferido pelo tribunal substituirá a decisão impugnada
+no que tiver sido objeto de recurso”. O chamado efeito
+substitutivo pressupõe a abordagem do tema de fundo e
+somente ocorre na extensão da impugnação materializada
+no recurso. No caso, a leitura do ato dito olvidado revela
+que, uma vez não conhecido, no tocante aos reclamantes, o
+agravo de instrumento nº 654.291, não se operou a
+substituição do pronunciamento do Tribunal de Justiça do
+Estado de Rondônia por meio dele atacado. Eventual
+desrespeito, se existente, decorre do que assentado no
+âmbito do citado órgão judiciário, a quem cumpre, até
+mesmo, avaliar a problemática da variação da Vantagem
+Pessoal de Adequação Salarial – VPAS.
+Tendo em vista as informações prestadas pelo
+Tribunal de origem, notem a interposição de recursos
+especial e extraordinário no curso da fase de execução
+ante a declaração de inexigibilidade do título. Descabe o
+manuseio da reclamação visando, mediante queima de
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 16 de 19
+
+RCL 27984 AGR / RO
+etapas, antecipar a submissão ao Supremo de controvérsia
+iniciada na fase de cumprimento da sentença.
+3. Revogo a liminar implementada em 7 de
+dezembro de 2017 e nego seguimento à reclamação.
+4. Declaro prejudicados o agravo interno e os
+declaratórios.
+5. Publiquem.
+Os agravantes afirmam não estar em discussão a questão
+do direito adquirido a regime jurídico, sustentando o
+exaurimento do tema na fase de conhecimento. Destacam haver
+o pronunciamento do Supremo substituído a decisão prolatada
+pelo Tribunal local, a justificar o manuseio da reclamação,
+considerado ter o acórdão paradigma acrescentado, em relação
+à decisão de origem, o caráter de coisa soberanamente julgada.
+Apontam a existência de similitude entre o acórdão reclamado
+e o paradigma. Aduzem que o fato da formalização, contra o
+ato reclamado, de recursos especial e extraordinário não
+implica a caracterização desta reclamação como sucedâneo
+recursal.
+O Estado de Rondônia, em contraminuta, aponta o acerto
+do pronunciamento atacado.
+
+É o relatório.
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA51-336C-755E-EDA7 e senha 93F6-BE82-BB24-98BE
+
+Supremo Tribunal Federal
+Voto - MIN. MARCO AURÉLIO
+
+Inteiro Teor do Acórdão - Página 17 de 19
+
+05/11/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 27.984 RONDÔNIA
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO (RELATOR) – Atendeuse aos pressupostos de recorribilidade. A peça, subscrita por advogado
+regularmente credenciado, foi protocolada no prazo legal.
+Conforme assentado no ato atacado, o acórdão do agravo de
+instrumento nº 654.291, apontado como reclamado, não alcançou, em
+razão de não ter sido conhecido em relação aos reclamantes, efeito
+substitutivo da decisão do Tribunal local. Descabe articular com o
+desrespeito o pronunciamento formalizado pelo Supremo. Reitero o
+entendimento adotado:
+[…]
+Reanalisado o caso, tendo em conta as manifestações que
+aportaram após o deferimento do pedido de liminar, verifica-se
+a impropriedade do pleito. Ante o disposto no artigo 1.008 do
+Código de Processo Civil, “o julgamento proferido pelo tribunal
+substituirá a decisão impugnada no que tiver sido objeto de
+recurso”. O chamado efeito substitutivo pressupõe a
+abordagem do tema de fundo e somente ocorre na extensão da
+impugnação materializada no recurso. No caso, a leitura do ato
+dito olvidado revela que, uma vez não conhecido, no tocante
+aos reclamantes, o agravo de instrumento nº 654.291, não se
+operou a substituição do pronunciamento do Tribunal de
+Justiça do Estado de Rondônia por meio dele atacado. Eventual
+desrespeito, se existente, decorre do que assentado no âmbito
+do citado órgão judiciário, a quem cumpre, até mesmo, avaliar a
+problemática da variação da Vantagem Pessoal de Adequação
+Salarial – VPAS.
+Tendo em vista as informações prestadas pelo Tribunal de
+origem, notem a interposição de recursos especial e
+extraordinário no curso da fase de execução ante a declaração
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6218-5DB5-0EA2-6E52 e senha 7B76-4AAC-C369-C000
+
+Supremo Tribunal Federal
+Voto - MIN. MARCO AURÉLIO
+
+Inteiro Teor do Acórdão - Página 18 de 19
+
+RCL 27984 AGR / RO
+de inexigibilidade do título. Descabe o manuseio da reclamação
+visando, mediante queima de etapas, antecipar a submissão ao
+Supremo de controvérsia iniciada na fase de cumprimento da
+sentença.
+[…]
+
+A reclamação pressupõe a usurpação da competência do Supremo
+ou o desrespeito a decisão por ele proferida. Descabe utilizá-la como
+sucedâneo recursal.
+Conheço do agravo e o desprovejo. Deixo de fixar honorários
+recursais, ante o rito próprio da reclamação, a não comportar a
+condenação.
+É como voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6218-5DB5-0EA2-6E52 e senha 7B76-4AAC-C369-C000
+
+Supremo Tribunal Federal
+Extrato de Ata - 05/11/2019
+
+Inteiro Teor do Acórdão - Página 19 de 19
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 27.984
+PROCED. : RONDÔNIA
+RELATOR : MIN. MARCO AURÉLIO
+AGTE.(S) : ANTONIA ACIOLE BRITO E OUTRO(A/S)
+AGTE.(S) : ESPÓLIO DE DAVI DANTAS DA SILVA
+AGTE.(S) : ESPÓLIO DE OSMAR FERREIRA LIMA
+AGTE.(S) : ESPÓLIO DE RUTH CLOÉ DE BRITO CARVALHO
+AGTE.(S) : ESPÓLIO DE WALTER PAIVA DE MORAES
+ADV.(A/S) : MARCIO MELO NOGUEIRA (5163/AC, 2827/RO)
+AGDO.(A/S) : ESTADO DE RONDÔNIA
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE RONDÔNIA
+INTDO.(A/S) : TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+Decisão: A Turma, por unanimidade, negou provimento ao agravo,
+nos termos do voto do Relator. Presidência do Ministro Luiz Fux.
+Primeira Turma, 05.11.2019.
+Presidência do Senhor Ministro Luiz Fux. Presentes à Sessão
+os Senhores Ministros Marco Aurélio, Rosa Weber, Luís Roberto
+Barroso e Alexandre de Moraes.
+Subprocurador-Geral
+Branco.
+
+da
+
+República,
+
+Dr.
+
+Paulo
+
+Gustavo
+
+João Paulo Oliveira Barros
+Secretário da Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A64-5C35-D177-8885 e senha 1457-539B-2766-C10E
+
+Gonet
