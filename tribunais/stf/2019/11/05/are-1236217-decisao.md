@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – ALÍQUOTA – MEDIDA PROVISÓRIA Nº 1.807/99 – PRECEDENTES – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do ato atacado:
+    TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL SOBRE LUCRO LIQUIDO. MAJORAÇÃO DE ALÍQUOTA. MP N.1.807/99 E REEDIÇÕES. POSSIBILIDADE. AFRONTA A ARTIGO DA CONSTITUIÇÃO FEDERAL DE 1998. INOCORRÊNCIA.
+    1. "Como já pacificado na jurisprudência deste Tribunal, sendo legítima a instituição e a modificação de "tributos e contribuições sociais por medida provisória, instrumento a que a Constituição Federal atribui força de lei (AGRAG 236.976 e RE 138.284), não há de se falar em ofensa ao art. 246, da Constituição Federal, pois a Medida Provisória 1.807/99 e suas reedições não regulamentaram nenhuma das alterações introduzidas pela Emenda Constitucional 20/98 ao art. 195, da Constituição Federal" (AMS 2000.38.00.012503-1/MG, Rel. Des. Federal Maria do Carmo Cardoso, DJ de 14-07/2006, p. 75; AC 200633000051847, Rel.: JUIZ FEDERAL OSMANE ANTÔNIO DOS SANTOS (CONV.), e-DJF1 17/04/2009 PAGINA:931).
+    2. No julgamento do RE 232.896/PA, Rel. Ministro Carlos Velloso, o Supremo Tribunal Federal firmou posicionamento no sentido de que não perde eficácia a medida provisória com força de lei não apreciada pelo Congresso Nacional, desde que reeditada por meio de nova medida provisória dentro do prazo de validade.
+    3. Apelação e Remessa providas.
+    2. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos II e LV, 59, 93, inciso IX, 150, inciso I, e 246, da Constituição Federal. Alega nulidade do acórdão recorrido. Sustenta inconstitucionalidade de majoração de alíquota de Contribuição Social sobre o Lucro Líquido – CSLL – realizada pela Medida Provisória nº 1.807/99 e respectivas reedições.
+    De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A decisão recorrida está em consonância com o entendimento firmado em ambas as Turmas do Supremo:
+    CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL – MEDIDA PROVISÓRIA Nº 1.807/99 – MAJORAÇÃO DE ALÍQUOTA – CONSTITUCIONALIDADE. Não viola o artigo 246 da Carta, medida provisória que implica majoração da alíquota de contribuição já criada com base no artigo 195, inciso I, da Constituição Federal. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil.
+    (agravo regimental no recurso extraordinário nº 598.500, minha relatoria, Primeira Turma, com acórdão publicado no Diário da Justiça de 10 de fevereiro de 2014).
+    EMENTA: Tributo. Contribuição Social sobre o Lucro Líquido - CSLL. Adicional instituído por meio de medida provisória. Admissibilidade. Violação ao art. 246 da CF. Não ocorrência. Tributo instituído e regulamentado pela Lei nº 7.689/88. Mero aumento da alíquota pela MP nº 1.807/99. Recurso extraordinário não provido. A Medida Provisória nº 1.807/99 não instituiu, nem regulamentou a Contribuição Social Sobre o Lucro Líquido - CSLL, mas apenas lhe aumentou a alíquota.
+    (recurso extraordinário nº 403.512, relator o ministro Cezar Peluso, Segunda Turma, com acórdão publicado no Diário da Justiça de 06 de março de 2009).
+    4. Ante os precedentes, conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 5 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
