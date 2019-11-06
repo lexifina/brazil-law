@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de reclamação contra acórdão da Turma Recursal da Justiça Federal de Pernambuco, que teria violado o decidido por esta CORTE na ADI 3772.
+    Na inicial, a parte autora alega, em síntese, que: (a) Laborou por vinte e cinco anos na qualidade de professor da Educação Básica, de modo que, em 25/11/2015 fez requerimento junto a autarquia ré para ver concedida sua aposentadoria na qualidade de docente (fl. 11); e (b) O processo fora julgado procedente em primeira instância, e, após recurso inominado do INSS fora reformado, em desfavor da ora recorrente, para afastar a integração das funções de direção, coordenação e assessoramento pedagógico à carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, contrariando assim o entendimento esposado na ADI 3772/ DF (fl. 11). Requer a concessão dos benefícios da gratuidade de Justiça e, ao final, seja conhecida e provida a presente a reclamação para cassar, reformar (artigo 992 do CPC) e sustar de imediato (artigo 993 do CPC) os efeitos do acórdão, determinando a adequação do julgado a tese esposada na Repercussão Geral ADI 3772 / DF (fl. 19).
+    É o relatório. Decido.
+    DEFIRO a gratuidade de Justiça, pois não há elementos que possam afastar a presunção de insuficiência de recursos de que trata o § 3º do art. 99 do CPC/2015.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l , e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Na presente hipótese, o pedido é manifestamente incabível. O acórdão reclamado foi alvo de Agravo em Recurso Extraordinário, o qual foi dado trâmite por meio do ARE 1221600, julgado em recente sessão do Plenário desta CORTE, cuja ementa segue transcrita:
+     EMENTA Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto simultaneamente ao incidente de uniformização em processo em trâmite no juizado especial. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita (ARE 1221600 AgR, Relator Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, DJe de 4/11/2019).
+    Como se sabe, a reclamação constitucional não pode ser utilizada para rediscutir matéria já decidida por membro desta SUPREMA CORTE. A impugnação de decisões proferidas por Ministros ou pelos órgãos que compõe o SUPREMO, no exercício de suas atribuições, são de competência da própria CORTE, somente podendo ser realizada por interposição de recursos adequados. Neste sentido:
+    Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF. 1. Reclamação em que se impugna acórdão do TST que já foi objeto de análise por esta Corte, em agravo em recurso extraordinário. 2. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal. 3. Agravo interno a que se nega provimento (Rcl 32896 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, DJe de 12/6/2019).
+    Nessas circunstâncias, em que se impugna acórdão da Turma Recursal da Justiça Federal de Pernambuco já analisado por esta CORTE, em sede de agravo em recurso extraordinário, é inviável a presente reclamação.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 6 de novembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
