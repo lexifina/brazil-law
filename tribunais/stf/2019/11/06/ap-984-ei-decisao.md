@@ -1,0 +1,13 @@
+Decisão:
+    1. Trata-se de embargos de declaração interpostos pela Defesa de Antônio Rodrigues Góes da Silva contra decisão monocrática por meio da qual rejeitei embargos infringentes interpostos em face de acórdão da Primeira Turma deste Supremo Tribunal Federal, tendo em conta a ausência de interesse recursal, dado o reconhecimento da prescrição da pretensão punitiva.
+    2. O embargante aponta contradição no julgado, sustentando a incidência, ao caso concreto, do disposto no art. 333, I, do Regimento Interno do STF, que prevê as hipóteses de cabimento dos embargos infringentes. Também como suposto vício de contradição, defende o entendimento de que a prescrição da pretensão punitiva não impede o conhecimento dos embargos infringentes.
+    Decido.
+    3. O recurso não merece ser conhecido. Nos termos do art. 620 do Código de Processo Penal, “os embargos de declaração serão deduzidos em requerimento de que constem os pontos em que o acórdão é ambíguo, obscuro, contraditório ou omisso”.
+    4. Ocorre que o embargante não indica nenhuma verdadeira contradição nos pontos da decisão monocrática atacados. Para alegar contradição, é preciso que o embargante demonstre a incongruência interna dos fundamentos do juízo, isto é, que os fundamentos adotados na decisão não conduzem, logicamente, à conclusão atingida. Não há contradição se a alegada incongruência é externa, ou seja, por exemplo, entre os fundamentos ou a conclusão do juízo e determinado entendimento jurisprudencial.
+    5. Com relação à primeira suposta contradição, a decisão embargada não asseverou a não incidência, em tese, do art. 333, I, do RISTF. Pelo contrário, fundamentou claramente a razão pela qual os embargos não poderiam ser conhecidos: a ausência de interesse recursal, em virtude de já ter sido declarada a prescrição da pretensão punitiva. A circunstância de o embargante discordar desse entendimento – asseverando haver, sim, interesse recursal – não autoriza a interposição de embargos de declaração, já que, repito, não existe contradição.
+    6. O mesmo se diga em relação à segunda alegada contradição. Novamente, o que pretende o embargante é a reconsideração da decisão, com o acolhimento da tese de que existe interesse recursal referente aos embargos infringentes, ainda que tenha sido declarada a prescrição da pretensão punitiva. Mais uma vez, não existe aqui contradição interna na decisão, mas mera irresignação por parte do embargante. Tendo discordado dos fundamentos da decisão, deveria ter o embargante se valido do agravo previsto no art. 334, §2º, do RISTF.
+    7. Diante do exposto, não conheço dos embargos de declaração.
+    Publique-se.
+Brasília, 06 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
