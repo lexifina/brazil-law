@@ -1,0 +1,35 @@
+Decisão
+    Trata-se de Reclamação, com pedido de medida liminar, proposta contra decisão proferida pelo Colégio Recursal de Sorocaba, que teria usurpado a competência desta SUPREMA CORTE.
+    Na inicial, a parte autora sustenta, em síntese, que: (a) Os beneficiários são promitentes compradores de um apartamento localizado no empreendimento imobiliário denominado “Reserva do Bosque Eco Club”. De acordo com a versão contida na preambular, os beneficiários teriam adimplido em favor da imobiliária AE Patrimônio Consultores Imobiliários Ltda. valores indevidos, pugnando, desta forma, pela restituição dos valores em dobro, com incidência da regra talhada no artigo 42, parágrafo único, da Lei Consumerista (fl. 3); (b) O Juízo de 1º grau condenou a reclamante, solidariamente, ao pagamento de parte da indenização postulada, confirmada pelo Colégio Recursal de Sorocaba; (c) Inexiste qualquer manifestação judicial sobre os documentos de fls. 30 e 79, que confirmam claramente/cabalmente que houve informação expressa do endereço do imóvel, com o destaque do valor comissão de corretagem. Diante da omissão plena sobre tese da defesa, foram interpostos embargos de declaração (negado provimento), subsistindo, pois, o silêncio absoluto sobre matéria plenamente capaz ao alterar ao conclusão adotada. (fl. 4); (d) Ajuizou Recurso Extraordinário o qual foi negado o seguimento, bem como o agravo interno interposto; e (e) Percebe-se que a remessa do apelo extremo foi injustamente obstada pela Colégio Recursal, usurpando-se, ao final e ao cabo, a competência do STF, com transgressão direta e reta do artigo 102 da Constituição Federal, razão pela qual maneja-se a presente Reclamação (fl. 5). Requer a concessão de medida liminar para suspender os efeitos do processo e , ao final a cassação da decisão impugnada.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l, e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Na presente hipótese, a reclamação é manifestamente incabível.
+    O Juízo reclamado, ao negar seguimento ao Recurso Extraordinário, amparando-se em precedente do STF formado em conformidade com as regras da repercussão geral (ARE 835.833, Min. TEORI ZAVASCKI, julgado em 11/12/2014), observou a sistemática recursal em vigor, que, na espécie, assim dispõe, in verbis :
+    Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+    I - negar seguimento:
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+    (...)
+    Além disso, o acórdão reclamado decidiu o caso de fundo atento às diretrizes estabelecidas por esta CORTE no ARE 835.833 (Tema 800), no qual assentou-se a seguinte tese:
+    A admissão de recurso extraordinário interposto em causa processada nos Juizados Especiais Cíveis da Lei 9.099/1995 exige o preenchimento, por parte do recorrente, de dois requisitos adicionais: (a) demonstração específica e objetiva do prequestionamento, mediante a indicação clara da parte do acórdão recorrido em que tangenciada a matéria constitucional, e (b) fundamentação acerca da relevância calcada em dados concretos que revertam a presunção de inexistência de repercussão geral das lides processadas nesses Juizados.
+    Transcreve-se dos autos o trecho do julgado, extraído do sítio eletrônico do Tribunal de Justiça de São Paulo, que negou seguimento ao RE, que bem esclarece a questão:
+    No caso em tela, nota-se que a decisão recorrida está fundamentada em norma infraconstitucional, decorrente de relação de direito privado, sem aplicação direta dos dispositivos constitucionais, além do exame de prova quanto a matéria de fato. Dessa forma, é de rigor a incidência da decisão que negou repercussão geral, proferida pelo COLENDO SUPREMO TRIBUNAL FEDERAL, no julgamento do Tema nº 800 (Leading case – ARE 835.833/RS: "Viabilidade de recurso extraordinário contra acórdão proferido por Juizado Especial Cível da Lei 9.099/1995 em matéria de responsabilidade pelo adimplemento de obrigação assumida em contrato de direito privado").
+    Logo, inexiste a alegada usurpação de competência desta SUPREMA CORTE.
+     Nessas circunstâncias, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    À Secretaria para, oportunamente, certificar o trânsito em julgado.
+    Publique-se.
+    Brasília, 6 de novembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
