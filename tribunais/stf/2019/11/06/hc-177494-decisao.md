@@ -1,0 +1,13 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Decisão de pronúncia. Segunda instância. Intimação. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 540.980, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o Tribunal de Justiça do Estado do Maranhão deu provimento à apelação do Ministério Público para reformar a sentença que impronunciou o paciente. Dessa decisão, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator, Min. Jorge Mussi, indeferiu a medida liminar.
+    3. Neste habeas corpus, a parte impetrante afirma que “o Paciente não fora intimado pessoalmente da decisão de 2º grau (decisão de pronúncia)”; e sustenta que “o mandamento obrigando a intimação pessoal da sentença de pronúncia é expresso e inequívoco no Código de Processo Penal, portanto, há premente violação ao devido processo legal”. Com essa argumentação, requer a concessão da ordem a fim de “anular o transito em julgado da decisão judicial que pronunciou o Paciente ao crivo do Tribunal do Júri, uma vez que resta comprovada a falta de intimação pessoal acerca da pronúncia, bem como o prejuízo evidenciado pela inoportunidade de utilizar meios recursais para reformar a decisão”.
+    Decido.
+    4. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    5. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício, notadamente se se considerar que, como regra, “[a] intimação das decisões dos Tribunais perfaz-se com a publicação na imprensa oficial quando houver defensor constituído, a teor do § 1º do art. 370 do Código de Processo Penal” (HC 117.752, Rel. Ministra Rosa Weber). A recomendar que se aguarde o pronunciamento definitivo do Superior Tribunal de Justiça, nos autos do HC 540.980, à vista das informações que forem prestadas pelo TJ/MA.
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 06 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
