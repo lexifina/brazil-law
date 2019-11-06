@@ -1,0 +1,44 @@
+Decisão
+    Trata-se de Reclamação, com pedido de liminar, contra decisão prolatada pelo Tribunal de Justiça de Mato Grosso, a qual teria violado o decidido na Arguição de Descumprimento de Preceito Fundamental 190 (Rel. Min. EDSON FACHIN).
+    Na inicial, a parte autora apresenta as seguintes alegações de fato e de direito (fls. 2/7):
+    Tem o presente feito origem em ação popular proposta por este mesmo Autor contra o Município de Sinop – MT e a empresa FEMAG HOTEIS LTDA. para a anulação de lei municipal que concedeu isenção total de ISS a apenas uma empresa do setor hoteleiro, sem prazo determinado.
+    De fato, verifica-se, pela simples leitura da Lei Municipal n. 2.140/2015, que foi concedida a isenção total de ISS à empresa beneficiada, em contraposição ao precedente, com eficácia erga omnes e ex tunc firmado na ADPF n. 190, que impede a concessão total de ISS por lei municipal.
+    Feito pedido de liminar para a suspensão dos efeitos do privilégio legal, na Ação Popular, este foi indeferido. Proposto Agravo de Instrumento, mencionou-se no recurso a afronta ao precedente firmado pela ADPF n. 190, que impede a concessão de isenção total de ISS. Tal fundamento, entretanto, foi completamente ignorado na decisão.
+    Opostos Embargos de Declaração, a decisão não apenas deixou de abordar ou mencionar a ofensa à ADPF n. 190, como simplesmente foi proferida e aprovada sem voto do Relator. Trata-se de voto em branco, com o indeferimento sem argumentos, e que ignorou afronta diametral ao precedente vinculante firmado pelo Plenário desta Excelsa Corte.
+    (…)
+    Deste modo, ante à impossibilidade de oposição de recurso contra ofensa à Constituição em sede de decisão com efeitos precários, é que se propõe a presente reclamação para que se corrija a violação à jurisprudência deste Egrégia Suprema Corte.
+    Ao final, requer a concessão de medida liminar a fim de suspender os efeitos das decisão impugnada e, no mérito, seja julgada totalmente procedente a presente Reclamação para garantir a autoridade do enunciado da ADPF n. 190, cassando-se a decisão interlocutória que entendeu pela constitucionalidade da Lei Municipal do Município de Sinop n. 2.140/2015 (fl. 8).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõe os arts. 102, I, l e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Inicialmente, registro que a presente Reclamação foi protocolada nesta CORTE, em 3/11/2020. Desse modo, é inaplicável, ao caso sob exame, o art. 988, § 5º, inciso I, do CPC, assimilação, pelo novo código processual, de antigo entendimento do STF, enunciado na Súmula 734 (Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal), uma vez que, segundo informações obtidas no sítio eletrônico do Tribunal de Justiça de Mato Grosso, os autos nos quais foi proferido o ato reclamado encontram-se em tramitação, tendo sido recentemente juntada certidão (4/11/2020).
+    O parâmetro a ser observado é o decidido na ADPF 190 (Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe de 27/04/2017). No julgamento da referida ADPF, esta CORTE, ao analisar a validade de diversos dispositivos da Lei 2.614/1997 do Município de Estância Hidromineral de Poá/SP, julgou parcialmente procedente a ação para declarar a inconstitucionalidade dos arts. 190, §2º, II; e 191, §6º, II e §7º, da Lei 2.614/97, do Município de Estância Hidromineral de Poá, assentando a seguinte TESE: É inconstitucional lei municipal que veicule exclusão de valores da base de cálculo do ISSQN fora das hipóteses previstas em lei complementar nacional. Também é incompatível com o Texto Constitucional medida fiscal que resulte indiretamente na redução da alíquota mínima estabelecida pelo art. 88 do ADCT, a partir da redução da carga tributária incidente sobre a prestação de serviço na territorialidade do ente tributante.
+    Na presente hipótese, a reclamação é manifestamente improcedente, pois não se ajusta ao contexto do parâmetro de controle acima transcrito.
+    Os documentos apresentados demonstram que o caso envolve indeferimento de medida liminar pleiteada em Ação Popular (...) ajuizada contra o Município de Sinop e Femag Hotéis Ltda (...), por entender que o benefício fiscal concedido pelo Município não viola o princípio da isonomia (doc. 3, fl. 33). Na hipótese, o benefício fiscal foi concedido à Femag Hotéis Ltda, pela Lei municipal 2.140/2015, tendo em conta o que disposto na Lei municipal 930/2006, com o seguinte teor:
+    Art. 1º O Programa de Desenvolvimento Econômico e de Incentivo à Indústria e Comércio do Município de Sinop será regido pela presente Lei que estabelece a política de atração de novos empreendimentos, incentivos à instalação e/ou ampliação de atividades de estabelecimentos industriais, atividades agroindustriais, excepcionalmente de comércio e serviços, considerando especialmente a função social decorrente da geração de empregos e renda, manutenção das atividades empresariais para a economia do Município e da geração de renda própria.
+    Art. 2º Os incentivos serão concedidos mediante solicitação formal dos interessados, acompanhado de Projeto e outros documentos, que venham a ser solicitados pela Administração Municipal, conforme o caso, indicando, de acordo com a natureza da sua atividade: (...)
+    Art. 3º Considerando a função social e a expressão econômica, poderão ser concedidos os seguintes incentivos:
+    (...)
+    V - redução na ordem de 2% (dois por cento) do Imposto sobre serviços de Qualquer Natureza - ISSQN nos 02 (dois) primeiros anos de funcionamento do empreendimento beneficiado.
+    Parágrafo único. O Poder Executivo não poderá conceder isenções que ultrapassem os seguintes percentuais:
+    (...)
+    III - no tocante ao ISSQN, o correspondente a 2% (dois por cento) da receita prevista para o exercício financeiro respectivo. (Redação dada pela Lei nº 2618/2018)”
+    Da leitura dos dispositivos verifica-se que a legislação em referência observa os parâmetros estabelecidos no julgamento da ADPF 190, porquanto não há que se falar em exclusão de valores da base de cálculo do ISSQN fora das hipóteses previstas em lei complementar nacional, bem como em medida fiscal que resulte indiretamente na redução da alíquota mínima estabelecida pelo art. 88 do ADCT.
+    Nessas circunstâncias, em que não se tem presente o contexto específico da ADPF 190, não há estrita aderência entre o ato impugnado e o ato paradigma invocado. É, portanto, inviável a presente reclamação.
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 6 de novembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
