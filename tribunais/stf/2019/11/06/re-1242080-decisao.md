@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 172, Vol. 1):
+    “ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MPF. EMPRESAS RADIODIFUSORAS. DIREITO A TRANSMISSÃO REMOTA DE TODOS OS EVENTOS DA COPA DO MUNDO 2014 SEM O PAGAMENTO OU LICENÇA PRÉVIA À FIFA. DIREITOS DISPONÍVEIS. ILEGITIMIDADE ATIVA.
+    1. Trata-se de ação civil pública ajuizada pelo MPF, com a qual postula que a transmissão remota (narração e comentários próprios dos radialistas a propósito do visualizado na TV - popular transmissão 'off tube') de todos os eventos (solenidades, sorteios, jogos,etc.) da Copa do Mundo no Brasil, seja isenta de qualquer pagamento ou licença prévia da FIFA ou seu agente, postulando, ainda, a obtenção de indenização pelo dano moral coletivo decorrente dessa restrição quando da Copa das Confederações.
+    2. O objeto da presente demanda diz respeito a direitos individuais disponíveis, cabendo às empresas radiodifusoras interessadas o manejo das medidas assecuratórias que entendem devidas, circunstância que afasta a legitimidade ativa do MPF.
+    3. Manutenção da sentença que indeferiu a inicial e julgou extinto o feito, sem resolução do mérito, com fulcro no art. 295, II, c/c art. 267, incisos I e VI, do CPC. ”
+    No apelo extremo (194, Vol. 1), alega-se, com amparo no art. 102, III, “a”, da Constituição Federal, ofensas aos artigos 127 e 129 da Carta da República. Em suma, defende a legitimidade do Ministério Público para “propor ação civil pública originária, movida contra a Federation Internationale de Football Association (FIFA), a FIFA World Cup Brazil Assessoria Ltda. e o Ministério do Esporte, visando à defesa do direito à informação e expressão da cidadania por meio da comunicação social, a partir de imagens/sons veiculados pela televisão, objetiva franquear às emissoras de rádio a transmissão remota (narração e comentários próprios dos radialistas a propósito do visualizado na TV – popular transmissão 'off tube') de eventos da Copa do Mundo no Brasil, isento de qualquer pagamento ou licença prévia da FIFA ou seu agente delegado, bem como obter indenização pelo dano moral coletivo decorrente dessa restrição quando da Copa das Confederações” (fls. 201-202, Vol. 1). Aduz que, na hipótese, há direito difuso a ser tutelado, traduzido no direito à informação e expressão desportiva.
+    É o relatório. Decido.
+    No caso, como bem ressaltado pelo Superior Tribunal de Justiça (fls. 240-241, Vol. 1), a Copa do Mundo da FIFA realizada no Brasil se encerrou em 13 de julho de 2014, de modo que o presente Recurso Extraordinário perdeu o objeto.
+    Diante do exposto, não subsistindo interesse no julgamento deste recurso, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, JULGO PREJUDICADO O RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 6 de novembro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
