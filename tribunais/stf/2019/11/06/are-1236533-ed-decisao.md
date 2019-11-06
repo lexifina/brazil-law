@@ -1,0 +1,27 @@
+Decisão: Trata-se de embargos de declaração (eDOC 6, p. 1-7) opostos por João Marcos Pignata da decisão que negou seguimento ao presente ARE, com fundamento no art. 21, §1º, do RI/STF (eDOC 4, p. 1-4).
+    O embargante sustenta, em síntese:
+    a) contradição, porquanto “se o acórdão prolatado pelo Tribunal a quo expressamente apreciou a respeito da inconstitucionalidade do artigo 168-A do Código Penal Brasileiro, é perfeitamente compreensível que a matéria em debate se encontra perfeitamente prequestionada (…) Assim, para configuração do prequestionamento, não é preciso que o acórdão recorrido tenha expressamente mencionado o dispositivo constitucional violado, bastando que este tenha versado inequivocamente a matéria objeto da norma que nele se contenha ” (eDOC 6, p. 4-5);
+    b) omissão, visto que “o recurso extraordinário interposto pelo Recorrente traz à baila a discussão em tese sobre a violação da regra contida nos artigos 5º, caput, da Constituição Federal, vez que o artigo 168-A do Código Penal, apenas reproduziu tipo já existente no artigo 2º, II, da Lei nº 8.137/90, não introduzindo, portanto, qualquer inovação no que tange à tipificação penal, gera expressa violação do princípio constitucional da isonomia” (eDOC 6, p. 6).
+    Ao final, o recorrente pede a “correção do julgado com efeitos modificativos, que são necessários para celeridade e efetivação da JUSTIÇA, e com o julgamento do recurso, pois a matéria lançada foi questionada em todas as oportunidades, e o SUPREMO TRIBUNAL FEDERAL está apto ao julgamento. Consequentemente, que este Eg. Supremo Tribunal Federal conheça e julgue em sede de embargos de declaração e, com fulcro no art. 102, III, ‘a’ da Carta Magna, reconheça a violação ao artigo 5º, caput, da Constituição Federal por parte do v. Acórdão nº 27685/2019 da 1ª Turma do Egrégio Tribunal Regional Federal da 3ª Região e determine a total reforma do referido julgado de segunda instância, para que o Recorrente seja julgado pelo tipo e a pena prevista no artigo 2º, II, da Lei nº 8.137/90” (eDOC 6, p. 6-7).
+    É o breve relatório.
+    Decido.
+    Preliminarmente, assevere-se que os embargos de declaração são cabíveis para indicar ocorrência de ambiguidade, omissão, contradição ou obscuridade da decisão embargada (art. 620 do CPP c/c o art. 337 do RI/STF).
+    Conforme relatado, o embargante sustenta, em síntese, a existência de contradição e omissão na decisão ora embargada.
+    Todavia, acentue-se que a decisão ora embargada consignou o seguinte:
+    “A presente irresignação recursal não merece prosperar, porquanto os dispositivos constitucionais dito violados pelo recorrente não foram objeto de apreciação no acórdão impugnado, tampouco foram opostos embargos de declaração para sanar eventual omissão. Incidem, pois, no caso, os óbices contidos nas Súmulas 282 e 356/STF.
+    Ademais, a decisão agravada encontra-se apoiada na jurisprudência desta Suprema Corte. Destaco, pois, desse decisum:
+    ‘Verifica-se a ausência de prequestionamento do dispositivo tido como violado, pois o órgão colegiado não se manifestou em nenhum momento a respeito do dispositivo impugnado. ' Incide, na espécie, o disposto na súmula n° 282 do STF:
+    ‘É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.’
+    Ademais, ainda que superado o óbice acima, é de se registrar que o STF já reconheceu a constitucionalidade do delito tipificado no art. 168-A, do CP. Confira-se:
+    ‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. 1. FUNDAMENTAÇÃO DE DECISÃO POR REMISSÃO: CONSTITUCIONALIDADE. 2. NULIDADE DE JULGADO POR FALTA DE FUNDAMENTAÇÃO. PRECLUSÃO. CONTROVÉRSIA INFRA CONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 3. ART. 168-A DO CÓDIGO PENAL: CONSTITUCIONALIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.’ (AI 809.147-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 01/02/2011).
+    Assim, encontrando-se o acórdão recorrido em consonância com o entendimento consolidado da Corte Constitucional, incide o óbice constante do enunciado sumular nº 286/STF, segundo o qual ‘não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do Supremo Tribunal Federal já se firmou no mesmo sentido da decisão recorrida’, aplicável também às hipóteses de alegação de contrariedade a preceito constitucional.
+    Ante o exposto, não admito o recurso extraordinário.” (eDOC 4, p. 207-208)
+    Sobre o tema, menciono, ainda: ARE 1.180.223/PR, Rel. Min. Luiz Fux, Primeira Turma, DJe 26.3.2019.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).” (eDOC 5, p. 1-5)
+    Assim, diante do pedido deduzido no RE (eDOC 4, p. 166-179), dos fundamentos da decisão que não o admitiu (eDOC 4, p. 205), e da iterativa jurisprudência do Supremo Tribunal Federal mencionada na decisão ora embargada (eDOC 5, p. 1-5), neguei seguimento ao presente ARE, com fundamento no art. 21, §1º, do RI/STF, o que legitimamente inviabilizou o processamento do recurso extraordinário, aliás, repita-se, sequer admitido e, por conseguinte, a apreciação recursal da matéria de mérito ali deduzida, bem como nos presentes embargos de declaração, os quais também apresentam nítido caráter infringente.
+    Do exposto, ausente qualquer contradição ou omissão, rejeito os presentes embargos de declaração.
+    Publique-se.
+    Brasília, 6 de novembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
