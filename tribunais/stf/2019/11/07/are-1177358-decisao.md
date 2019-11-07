@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MUNICIPAL. Cumprimento de título judicial. Arguição de inexigibilidade do título em razão do reconhecimento de inconstitucionalidade das leis adotadas como parâmetro para o cálculo da remuneração dos autores, bem como em razão da edição da SV nº 42, do STF. Pretensão que não comporta acolhimento. Observância dos parâmetros estabelecidos pelo Excelso Pretório, inexistindo qualquer usurpação de competências ou determinação a vinculação de aumentos de servidores a índices de correção monetária. Decisão agravada que prestigiou a segurança jurídica e a coisa julgada mantida. Recurso não provido” (pág. 95 do documento eletrônico 2).
+    Os embargos de declaração que se seguiram foram rejeitados (pág. 21 do documento eletrônico 3).
+    A Procuradoria-Geral da República manifestou-se pelo conhecimento e desprovimento do agravo (documento eletrônico 10).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 103-A, da mesma Carta, bem como da Súmula Vinculante 42.
+    A pretensão recursal não merece prosperar.
+    O acórdão recorrido, com apoio na legislação local aplicável à espécie (Lei Municipal 11.722/1995), firmou o entendimento do índice a ser aplicado aos servidores do Município de São Paulo no tocante a diferenças salariais advindas de fevereiro de 1.995.
+    Dessa forma, para concluir em sentido diverso, faz-se necessário o reexame da legislação local pertinente ao caso, o que é inviável nos termos da Súmula 280/STF. Nesse sentido, cito os seguintes precedentes de ambas as Turmas desta Corte:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REAJUSTES DE VENCIMENTOS DE SERVIDORES PÚBLICOS DO MUNICÍPIO DE SÃO PAULO COM FUNDAMENTO EM LEIS MUNICIPAIS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE 632.767. TEMA 378. AGRAVO INTERNO DESPROVIDO” (ARE 1.194.165-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL.ESTADO DE SÃO PAULO. REAJUSTES DE VENCIMENTOS. ÍNDICES APLICÁVEIS. EMBARGOS À EXECUÇÃO DE SENTENÇA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL (LEIS MUNICIPAIS 10.688/88, 10.722/89 E 11.722/95). IMPOSSIBILIDADE. SÚMULA 280/STF. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA. RE 632.767 RG (REL. MIN. RICARDO LEWANDOWSKI, TEMA 378). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (AI 693.121-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma).
+    A propósito do paradigma citado de minha relatoria, de fato, ao analisar o RE 632.767 RG (Tema 378), firmou-se o entendimento de que a matéria em discussão não possui repercussão geral, por demandar análise de legislação infraconstitucional local, a saber:
+    “Ementa: ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REAJUSTES DE VENCIMENTOS. ÍNDICES APLICÁVEIS. COMPENSAÇÕES E COMPLEMENTAÇÕES DE REAJUSTES. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. LEIS 10.688/1988, 10.722/1989, 11.722/1995 E 12.397/1997. PORTARIAS 256/1994 E 261/1994. DECRETOS 35.932/1996, 36.249/1996, 36.559/1996 E 36.769/1997. SÚMULA 280 DO STF. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 7 de novembro de 2019.
+      Ministro Ricardo Lewandowski
+Relator
