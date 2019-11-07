@@ -1,0 +1,23 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Tupã/SP, no processo nº 0003821-51.2017.8.26.0637, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 31 de julho de 2017, e de outras pessoas, ante a suposta prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico) da Lei nº 11.343/2006. Concluiu indispensável a custódia para garantir a ordem pública, considerada a quantidade de entorpecentes apreendida – 1 tablete de maconha (761,4 gramas), 1 porção de crack (5,03 gramas) e 30 pinos contendo cocaína (6,59 gramas), encontrados na residência. Destacou a existência de maus antecedentes.
+    Condenou-o a 18 anos e 8 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 2.366 dias-multa, em razão do cometimento dos delitos mencionados. Negou o direito de recorrer em liberdade.
+    A Décima Quinta Câmara Criminal do Tribunal de Justiça deu parcial provimento à apelação interposta pela defesa para redimensionar a sanção, fixando-a em 13 anos e 6 meses de reclusão, em regime inicial de cumprimento fechado, e pagamento de 1.816 dias-multa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 539.982, o qual teve a liminar indeferida pelo Relator.
+    O impetrante alega o excesso de prazo da prisão a perdurar, conforme sustenta, há mais de 3 anos. Destaca as condições pessoais favoráveis do paciente – primariedade, residência fixa e bons antecedentes.
+    Requer, no campo precário e efêmero, a revogação da custódia, com expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Vossa Excelência, em 27 de maio de 2019, no habeas corpus nº 171.613, originário do mesmo processo-crime e voltado contra a preventiva do paciente, deferiu a medida acauteladora para, considerado o excesso de prazo, afastar a custódia. O alvará de soltura foi cumprido em 3 de junho seguinte. A Primeira Turma, em 20 de agosto, no julgamento de mérito, por maioria e nos termos do voto do ministro Alexandre de Moraes, inadmitiu a impetração e tornou insubsistente a liminar implementada. A prisão foi restabelecida no dia 19 de setembro de 2019.
+    Consulta ao sítio do Tribunal de Justiça, em 5 de novembro de 2019, revelou a interposição de recurso especial, pendente de exame de admissibilidade.
+    A fase é de apreciação da medida de urgência.
+    2. O paciente permaneceu custodiado, sem culpa formada, entre 31 de julho de 2017 e 3 de junho de 2019 e, após o julgamento por meio do qual a Primeira Turma inadmitiu a impetração de nº 171.613, a partir de 19 de setembro de 2019. Tendo em conta a soma dos lapsos, tem-se que a prisão preventiva perfaz 1 ano, 11 meses e 20 dias. Surge o excesso de prazo. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    A superveniência de ato condenatório recorrível não afasta a natureza preventiva da custódia. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes de pronúncia e de sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a prisão oriunda de condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre custodiado por motivo diverso da prisão preventiva retratada no processo nº 0003821-51.2017.8.26.0637, da Vara Criminal da Comarca de Tupã/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judicias, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso desta impetração não prejudica a de nº 539.982, formalizada no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao relator, ministro Ribeiro Dantas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 7 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
