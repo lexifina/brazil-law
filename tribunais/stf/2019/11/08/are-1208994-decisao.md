@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 192):
+    “PREVIDÊNCIA PRIVADA - FEMCO - Suplementação de aposentadoria - Revisão do benefício pelo INSS - Redução da suplementação - Descontos mensais dos valores pagos a maior - Pretensão à cessação dos descontos e devolução dos valores descontados - Admissibilidade - Verba de caráter alimentar, insuscetível de repetição - Precedentes desta Corte - Direito à restituição, observada a prescrição quinquenal - Prescrição do fundo de direito arguida na contestação - Não ocorrência -A prescrição, quando o direito não é negado, não atinge o fundo do direito, mas somente as parcelas anteriores ao quinquênio antecedente à propositura da ação - Súmula 85 do STJ - Sentença de improcedência - Preliminar rejeitada - Recurso provido”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 206).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 97 do Texto Constitucional, e à Súmula Vinculante 10, do STF.
+    Sustenta-se que “No caso em apreço o E. Tribunal de Justiça de São Paulo, por seu órgão fracionário, ao se manifestar sobre o disposto nos artigos 114 e 115 da Lei n° 8.213/91, assim decidiu: (…). Diante dos claríssimos termos do voto do I. Relator, donde se extrai a manifesta declaração de inconstitucionalidade dos artigos 114 e 115 da Lei n2 8.213/91” (eDOC 1, p. 261/262).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem (eDOC 1, p. 2-3):
+    “Com efeito, a norma que fundamenta os descontos impugnados é manifestamente ilegal, porquanto a Administração Pública não pode promover descontos nos vencimentos, proventos ou pensões de seus funcionários de modo aleatório e unilateral, sem a devida anuência, uma vez que se trata de verbas impenhoráveis.
+    Não obstante o desconto de valores recebidos a maior esteja previsto nos artigos 95, 145 e 148 do Regulamento de Benefícios da FEMCO e nos artigos 114 e 115 da Lei n° 8.213/91, o autor, informado da existência de saldo devedor, não optou por qualquer das propostas de quitação.
+    Assim, ante a sua manifesta discordância quanto à própria existência do débito, incumbia à ré a propositura de medidas judiciais cabíveis para o recebimento de seu crédito, garantindo assim a observância dos princípios constitucionais do contraditório e da ampla defesa.
+    (…)
+    Infere-se dos autos que o autor que é aposentado por invalidez desde 01/09/1991, recebendo suplementação da ré. Consoante a correspondência copiada a fls. 18/20, em agosto de 1998 a ré detectou que o benefício pago pelo INSS havia sido alterado, sendo de rigor o recálculo da suplementação. Somente em março de 2003 a ré enviou correspondência ao autor informando-o da revisão do benefício e que havia um saldo devedor de R$27.059,07 para 31/05/2003. Solicitou, então, o seu comparecimento para liquidar o débito nas condições constantes do art. 145 do Regulamento de o m Benefícios, ou seja, à vista, em 72 parcelas, ou em desconto vitalício. Como o autor não se manifestou, a ré passou a promover os descontos (30%) no suplemento pago.
+    Não se trata aqui de privilegiar o enriquecimento ilícito do autor, mas sim resguardar o devido processo legal.”
+    Sendo assim, verifica-se que o Tribunal de origem, ao analisar o caso concreto, não declarou inconstitucional a legislação aplicada, nem afastou sua aplicação por julgá-la inconstitucional, mas apenas interpretou a norma legal juntamente com os princípios constitucionais da ampla defesa e do devido processo legal e com o conjunto fático probatório dos autos para concluir pela necessidade de ação judicial própria para cobrança das diferenças apuradas.
+    A jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula da reserva de plenário e à Súmula Vinculante 10, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.04.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.05.2015.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “b”, do CPC.
+    Publique-se.
+    Brasília, 8 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
