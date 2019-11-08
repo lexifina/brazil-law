@@ -1,0 +1,19 @@
+DECISÃO
+PETIÇÃO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO. REPETIÇÃO DA PETIÇÃO N. 8.474: APRESENTAÇÃO DE PEÇAS FALTANTES NA ANTES AJUIZADA. AÇÃO DE CONTROLE ABSTRATO ESTADUAL. COMPETÊNCIA CAUTELAR DO SUPREMO TRIBUNAL FEDERAL NÃO DEMONSTRADA: SÚMULAS NS. 364 E 365. ILEGITIMIDADE ATIVA DO REQUERENTE. PETIÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. A presente ação veio-me distribuída por prevenção à Petição n. 8.474 (e-doc. 13). Reitera-se, nessa petição, o que exposto naquel’outra no sentido de atribuir-se efeito suspensivo a recurso extraordinário contra acórdão do Tribunal de Justiça do Espírito Santo, pelo qual assentada a inconstitucionalidade de dispositivos instituidores dos denominados sistemas de banco de produtividade e banco de pontos no serviço público de Vila Velha/ES (Leis municipais ns. 3.871/2001, 5.645/2015 e 5.709/2015), no julgamento da Medida Cautelar na Ação de Direta de Inconstitucionalidade estadual n. 0006037-54.2017.8.08.0000.
+    2. Em 8.11.2019, julguei extinta a Petição n. 8.474, sem resolução do mérito:
+    “4. Ainda que não se tenha esgotado o prazo estabelecido para a regularização desta ação cautelar, determinada pelo despacho de 28.10.2019, o ajuizamento de ação idêntica, instruída com documentos faltantes nesta Petição, denota a ausência de interesse processual do requerente na continuidade da presente causa, atraindo a incidência do inc. III do art. 330 do Código de Processo Civil (‘Art. 330. A petição inicial será indeferida quando: [...] III – o autor carecer de interesse processual’).”
+    3. Quanto ao processamento desta ação cautelar, melhor sorte não assiste ao requerente.
+    Na presente causa, instruída com peça vestibular idêntica à da Petição n. 8.474, o requerente juntou a procuração outorgada aos advogados (e-doc. 2), a alteração do seu estatuto social (e-docs. 3 a 6), o comprovante do recolhimento das custas processuais (e-docs. 7 e 8), a petição do recurso extraordinário interposto pela Mesa Diretora da Câmara Municipal de Vila Velha (e-doc. 9) e o inteiro teor do acórdão recorrido (e-doc. 11), deixando de apresentar cópia do despacho de admissibilidade do recurso extraordinário ao qual busca atribuir efeito suspensivo, documento imprescindível para aferição da competência cautelar deste Supremo Tribunal.
+    4. Entretanto, este Supremo Tribunal assentou não ser competente para atribuir efeito suspensivo a recurso extraordinário pendente de juízo de admissibilidade.
+    Esse entendimento consolidou-se com a edição das Súmulas ns. 634 e 635:
+    “Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem.”
+    “Cabe ao Presidente do Tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade”.
+    A competência deste Supremo Tribunal, para análise de pedido de efeito suspensivo a recurso extraordinário, instaura-se após o juízo de admissibilidade do recurso pelo Tribunal de origem, o que não se tem comprovado na espécie.
+    5. Tampouco se tem configurada a legitimidade ativa do requerente para pleitear tutela de urgência na causa: o recurso extraordinário ao qual se pretende atribuir efeito suspensivo foi interposto pela Mesa da Diretora Câmara Municipal de Vila Velha (e-doc. 9) em julgamento de ação direta de inconstitucionalidade estadual, na qual o Fórum das Carreiras Típicas do Estado do Espírito Santo sequer figura como amicus curiae, o que, aliás, não lhe conferiria capacidade recursal extraordinária, nos termos do § 1º do art. 138 do Código de Processo Civil.
+    6. Pelo exposto, nego seguimento à presente petição (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de novembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
