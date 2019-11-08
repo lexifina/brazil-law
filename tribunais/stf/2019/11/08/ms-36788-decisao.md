@@ -1,0 +1,15 @@
+MANDADO DE SEGURANÇA. AUTORIDADES IMPETRADAS. DESEMBARGADORA DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO. PRESIDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MANDADO DE SEGURANÇA NÃO CONHECIDO.
+    Decisão: Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Liliane Sousa Carvalho contra ato praticado por Desembargadora do Tribunal de Justiça de São Paulo, relatora do Mandado de Segurança nº 2239404-79.2019.8.26.0000, que não teria atribuído efeito suspensivo ao agravo interno interposto pela impetrante, e contra ato omissivo do Ministro Presidente do Superior Tribunal de Justiça nos autos do Mandado de Segurança nº 25.541.
+    Aduz a impetrante que interpôs agravo interno nos autos do processo nº 2228852-55.2019.8.26.0000, em trâmite na 29ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo. Na sequência, impetrou o Mandado de Segurança nº 2239404-79.2019.8.26.0000 perante o Tribunal de Justiça de São Paulo, pleiteando a concessão de efeito suspensivo ao agravo interposto nos autos do processo nº 2228852-55.2019.8.26.0000. A autoridade ora apontada como coatora então proferiu decisão no sentido do não conhecimento do mandamus. Irresignada, a impetrante manejou o Mandado de Segurança nº 25.541 perante o Superior Tribunal de Justiça, no qual ainda não teria sido proferida qualquer decisão.
+    Ao final, a impetrante pugna pela concessão da segurança para que seja atribuído efeito suspensivo ao agravo interno interposto no Tribunal de Justiça de São Paulo e, por conseguinte, seja “cancelada provisoriamente a liminar de despejo coercitivo concedida pelo juízo de 1 instância, juízo da r. 1ª vara cível de praia grande/sp, até o julgamento de mérito daquele agravo interno”.
+    É o Relatório. DECIDO.
+    O presente mandado de segurança é manifestamente incabível, porquanto impetrado perante órgão jurisdicional incompetente para apreciar a causa.
+    Com efeito, a Constituição da República fixa, em seu art. 102, rol taxativo de competências do Supremo Tribunal Federal, do qual não consta atribuição para julgar mandado de segurança impetrado contra ato de Desembargador de Tribunal de Justiça ou de Ministro do Superior Tribunal de Justiça. A Lei Magna é clara ao limitar a jurisdição da Corte Suprema às ações mandamentais que impugnem “atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal” (CRFB/88, art. 102, I, “d”).
+    Outrossim, o tema já foi reiteradamente decidido por esta Corte, como consta, aliás, do Verbete 624 de sua Súmula, in verbis:
+    “Súmula 624 - Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros tribunais”.
+    Ex positis, NÃO CONHEÇO do presente mandado de segurança, na forma do artigo 21, § 1º, do RISTF. Prejudicada a análise do pedido de medida liminar.
+    Publique-se. Int..
+    Brasília, 8 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
