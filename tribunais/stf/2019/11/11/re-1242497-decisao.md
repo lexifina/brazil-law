@@ -1,0 +1,46 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPLEMENTAÇÃO DE APOSENTADORIA ORIUNDA DE REGIME PÚBLICO INSTITUÍDO POR LEI ESTADUAL. ANTIGOS FERROVIÁRIOS DA EXTINTA FEPASA. COMPETÊNCIA. JUSTIÇA COMUM. PRECEDENTES. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “RECURSO DE REVISTA.
+    1. PRELIMINAR. COMPETÊNCIA MATERIAL. COMPLEMENTAÇÃO DE APOSENTADORIA.
+    No presente caso, em que pesem as insurgências da recorrente, não se discute pedido de complementação de aposentadoria veiculado em face de entidade previdenciária privada, mas sim assunção de obrigação vinculada a contrato de trabalho por entidade pública estadual em face de determinação nesse sentido em lei específica.
+    De qualquer modo, cabe registrar que no que tange as causas direcionadas às entidades previdenciárias privadas que versam sobre complementação de aposentadoria, o excelso Supremo Tribunal Federal, em decisão recente proferida no RE-586453, não obstante ter reconhecido a competência material da Justiça Comum, modulou os efeitos da decisão para declarar competente a Justiça do Trabalho para a apreciação de causas da espécie que hajam sido sentenciadas até a data de 20.02.2013, como ocorre na presente hipótese.
+    Recurso de revista não conhecido.
+    2. COMPLEMENTAÇÃO DE APOSENTADORIA. DIFERENÇAS. PRESCRIÇÃO. O presente caso trata de pedido de reajustes de complementação de aposentadoria decorrentes da não observação da igualdade de vencimentos entre o pessoal da ativa e os aposentados, que constituem a base de cálculo do benefício previdenciário complementar.
+    Desse modo, por se tratar de diferenças de complementação de aposentadoria, aplica-se ao caso a prescrição parcial, conforme o entendimento pacificado no âmbito desta colenda Corte Superior, por meio da Súmula nº 327.
+    Recurso de revista não conhecido.
+    3. SUCESSÃO. CISÃO. SÚMULA Nº 126.
+    No caso, a egrégia Corte Regional registrou houve sucessão trabalhista da FEPASA pela CPTM, tendo em vista o exame procedido na legislação estadual pertinente. Concluiu, assim, que a empresa sucessora assumiria as obrigações trabalhistas da empresa sucedida, sendo a Fazenda Pública do Estado de São Paulo, em face de previsão específica em lei, responsável pelo adimplemento das complementações de aposentadoria.
+    A decisão regional, da forma como posta, não afronta os artigos 10 e 448 da CLT, uma vez que apenas reproduz os mandamentos referentes à sucessão trabalhista. Entender de forma diversa, por outro lado, demandaria o reexame da legislação estadual e dos demais elementos fático-probatórios produzidos no processo, procedimento vedado a esta Corte Superior pela dicção da Súmula nº 126.
+    Recurso de revista não conhecido.
+    4. DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA. FORMAS DE REAJUSTE. SÚMULA Nº 126.
+    No presente caso, o Tribunal Regional concluiu que o reclamante fazia jus às diferenças de complementação de aposentadoria, determinando a observância da atualização pelos índices de correção dos salários dos funcionários em atividade.
+    Embasou o seu entendimento a partir da interpretação dada ao artigo 4º da Lei Estadual n.º 9.343/96, que prevê o direito adquirido à complementação de aposentadoria, garantindo paridade e equivalência com o pessoal da ativa.
+    Percebe-se, pois, que para acolher os argumentos recursais, no sentido de que não havia previsão de reajustes iguais para aposentados e ativos, seria indispensável o reexame detalhado da legislação estadual bem como da citada norma coletiva, procedimento vedado a esta Corte Superior pela Súmula nº 126.
+    Recurso de revista não conhecido.” (Doc. 28)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 114 da Constituição Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    Cuida-se, na origem, de reclamação trabalhista ajuizada por Irene Bertola em face da Companhia Paulista de Trens Metropolitanos (CPTM) e da Fazenda Pública do Estado de São Paulo, com intuito de receber o pagamento de diferenças de complementação de aposentadoria, com arrimo na Lei Estadual 9.342/1996.
+    In casu, o Tribunal Superior do Trabalho reconheceu a competência da Justiça do Trabalho para julgamento da lide por entender que “no que tange as causas direcionadas às entidades previdenciárias privadas que versam sobre complementação de aposentadoria, o excelso Supremo Tribunal Federal, em decisão recente proferida no RE-586453, não obstante ter reconhecido a competência material da Justiça Comum, modulou os efeitos da decisão para declarar competente a Justiça do Trabalho para a apreciação de causas da espécie que hajam sido sentenciadas até a data de 20.02.2013, como ocorre na presente hipótese.” (Doc. 28, p. 5)
+    Com efeito, a matéria discutida nos presentes autos não guarda identidade com a tratada no RE 586.453, Rel. Min. Ellen Gracie, Plenário, DJe de 2/10/2009, cuja repercussão geral foi reconhecida. Naquele recurso discutiu-se a competência para processar e julgar causas que envolvam complementação de aposentadoria por entidades de previdência privada, situação diversa da presente demanda, em que se discute a complementação de aposentadoria prevista em lei estadual.
+    Desse modo, o acórdão recorrido divergiu da jurisprudência desta Corte no sentido de que compete à Justiça Comum o conhecimento e julgamento das demandas que envolvam aposentadorias e complementações de servidores inativos e pensionistas da extinta FEPASA. Nesse sentido, destaco os seguinte julgados:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA AO QUE DECIDIDO NA ADI 3.395/DF-MC. OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM PARA JULGAR CAUSA ENVOLVENDO COMPLEMENTAÇÃO DE APOSENTADORIA PROPOSTA POR EX-EMPREGADO DA CPTM. PRECEDENTES. AGRAVO PROVIDO.
+    1. Esta CORTE já se manifestou no sentido de que as diferenças na complementação de aposentadoria de ex-empregados de empresas subsidiárias da extinta RFFSA, tal como a CPTM, deverão ser discutidas na Justiça Comum, e não na Justiça Trabalhista, como reconhecido no ato reclamado. Precedentes.
+    2. Recurso de agravo a que se dá provimento.” (Rcl 31.638-AgR, Redator p/ o acórdão Min. Alexandre de Moraes, Primeira Turma, DJe de 22/10/2019)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÕES DE COMPLEMENTAÇÃO DE APOSENTADORIA AJUIZADAS POR ANTIGOS FERROVIÁRIOS DA EXTINTA FEPASA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. JURISPRUDÊNCIA DA CORTE. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos.
+    II - A jurisprudência do Supremo Tribunal Federal é firme no sentido que compete à Justiça comum processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA. Precedentes.
+    III - Agravo regimental a que se nega provimento, com aplicação da multa (art. 1.021, § 4º, do CPC).” (RE 1.112.202-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 1º/2/2019)
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL, POR TEREM SIDO OPOSTOS COM EFEITO INFRINGENTE E PRETENSÃO DE REFORMA DA DECISÃO DO RELATOR. PRECEDENTES. A jurisprudência deste Tribunal assentou que compete à Justiça Comum processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA. Precedentes. Agravo regimental a que se nega provimento.” (RE 631.049-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 6/9/2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. COMPETÊNCIA DA JUSTIÇA COMUM PARA PROCESSAR E JULGAR AS CAUSAS DE COMPLEMENTAÇÃO DE APOSENTADORIA DOS ANTIGOS FERROVIÁRIOS DA FEPASA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 590.927-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 20/11/2009)
+    “1. Esta Corte consolidou entendimento no sentido de que compete à Justiça Comum Estadual dirimir as demandas propostas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA, buscando a retificação do cálculo de seus proventos ou pensões. Precedentes.
+    2. É pacífica a jurisprudência deste Supremo Tribunal ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição.
+    3. Decisão fundamentada, porém contrária aos interesses da parte, não configura negativa de prestação jurisdicional.
+    4. Agravo regimental improvido.” (AI 468.245-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 22/10/2004)
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do Código de Processo Civil/2015, a fim de reconhecer a competência da Justiça Comum estadual para a apreciação do presente feito.
+    Publique-se.
+    Brasília, 11 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
