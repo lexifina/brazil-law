@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “AGRAVO DE INTRUMENTO. AÇÃO DECLARATÓRIA, CUMULADA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. DECRETO JUDICIÁRIO Nº 525/2008. ATO DE MERA EXECUÇÃO DE ORDEM DO CONSELHO NACIONAL DE JUSTIÇA. COMPETÊNCIA DO SUPREMO TRIBUNAL DE JUSTIÇA. PROCESSO EXTINTO. 1. Proposta ação declaratória, cumulada com pedido de antecipação dos efeitos da tutela, visando suspender os efeitos do Decreto Judiciário nº 525/2008 da Presidência do Tribunal de Justiça do Estado de Goiás, o qual constitui ato de mera execução de determinação oriunda do Conselho Nacional de Justiça, evidenciada a competência do Supremo Tribunal Federal para apreciação da causa. 2. Tratando-se de matéria de ordem pública - competência absoluta - abrangida, pois, pelo efeito translativo do recurso, deve-se reconhecer a incompetência absoluta da Justiça Estadual para processar e julgar o feito de origem, devendo ser extinto, sem apreciação do mérito, nos termos do artigo 267, inciso IV, do Código de Processo Civil. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL RECONHECIDA. EXTINÇÃO DA AÇÃO ORIGINÁRIA. AGRAVO DE INSTRUMENTO PREJUDICADO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LV; e 102, I, r, da CF.
+    O recurso extraordinário é inadmissível, tendo em conta que para dissentir da conclusão do Tribunal de origem seria imprescindível uma nova análise dos fatos e do material probatório constantes dos autos. Tais providências são inviáveis nesta instância extraordinária, nos termos da Súmula 279/STF.
+    Nesse sentido e sobre controvérsia análoga a dos autos, confira-se a ementa do ARE 653.389-AgR, Relª. Minª. Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PROCESSUAL CIVIL. COMPETÊNCIA. LEGITIMIDADE PASSIVA AD CAUSAM. ATO DE TRIBUNAL DE JUSTIÇA EM CUMPRIMENTO DE DETERMINAÇÃO DO CONSELHO NACIONAL DE JUSTIÇA. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO PROBATÓRIO: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
