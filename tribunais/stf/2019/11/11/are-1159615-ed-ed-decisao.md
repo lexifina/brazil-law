@@ -1,0 +1,31 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – VÍCIO – INEXISTÊNCIA – DESPROVIMENTO.
+    1. Eis os fundamentos do ato atacado:
+EMBARGOS DECLARATÓRIOS – VÍCIO – INEXISTÊNCIA – DESPROVIMENTO.
+    1. Em 8 de outubro de 2018, desprovi o agravo, consignando:
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Colho da decisão recorrida os seguintes fundamentos:
+    […] alega a primeira apelante "ausência de amparo jurídico para declaração de ilegalidade dos contratos de adesão para prorrogação das permissões". O amparo jurídico para tanto se encontra no texto constitucional (art. 37, XXI, e art. 175, e na Lei nº 8.987/1995, esta, notadamente diante das modificações trazidas pela Lei nº 11.445/2007). E nem se diga, como quer a apelante, que a referida Lei não tem aplicabilidade no âmbito estadual e/ou municipal, porquanto tal previsão esta expressa no paragrafo único, do art. 1º.
+    O art. 42, da Lei Federal nº 8.987/1995, dispõe que "As concessões de serviço público outorgadas anteriormente a entrada em vigor desta Lei consideram-se validas pelo prazo fixado no contrato ou no ato de outorga, observado o disposto no art. 43 desta Lei." Percebe-se, portanto, que a ilegalidade dos contratos em questão pode ser declarada, considerando as prorrogações feitas ao arrepio das normal pertinentes, matéria que tem lido alvo de inúmeras demandas já decididas neste Eg. Tribunal de Justiça. Trata-se de ato vinculado da Administração e, por isso, todos os seus elementos (competência, finalidade, forma, motivo e objeto) podem ser examinados pelo Judiciário, sob o aspecto da legalidade, assim como revisto pela própria Administração.
+    A própria sentença em sua fundamentação expõe que:
+    'Assim, considerando que 'todas as concessões de, serviços públicos outorgadas sem licitação na vigência da Constituição de 1988 foram extintas, conforme art. 43 da Lei Federal 8.987/95, e no todo ilegal o dispositivo de lei estadual que contraria tal comando geral e prevê a prorrogação automática das atuais permissões, por novo período de 15 anos, prorrogáveis uma única vez. Reconhecida a inconstitucionalidade incidental do art. 6º da Lei 2.831/97, que serviu de fundamento para a prorrogação do contrato de permissão de serviço público, sem licitação, além do seu vicio de legalidade, frente a norma geral federal ( art. 42, § 2º, da Lei 8.987/95) o que se tem, por consequência, é a absoluta nulidade do respectivo contrato, cuja declaração se impõe."
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    À toda evidência, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    2. Conheço do agravo interposto por Rogil Transportes Rodoviário Ltda e o desprovejo.
+    3. Publiquem.
+    Nos declaratórios, o embargante alega omissão quanto à suspensão do processo até o julgamento da ação direta de inconstitucionalidade nº 4.058.
+    A parte embargada aponta o trânsito em julgado do processo indicado.
+    2. Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo assinado em lei.
+    Descabe o sobrestamento pleiteado, ante o trânsito em julgado da ação direta de inconstitucionalidade nº 4.058/DF, da relatoria do ministro Alexandre de Moraes, ocasião em que o Supremo conferiu interpretação conforme à Constituição ao § 1º do artigo 42 da Lei nº 8.987/1995, no sentido de ser imprescindível a realização de licitação prévia à nova delegação a terceiros.
+    3. Conheço dos declaratórios e os desprovejo.
+    4. Publiquem.
+    O embargante protocolou segundos embargos de declaração, nos quais aponta omissão quanto à apreciação do recurso extraordinário interposto por Rogil Transportes Rodoviários Ltda., ante o contido no pronunciamento sobre o agravo interno. Indica a existência de nova decisão relacionada aos primeiros declaratórios, não ao extraordinário.
+    A parte embargada, instada a manifestar-se, apontou o acerto da decisão atacada.
+    2. Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo assinado em lei.
+    A decisão objeto de reconsideração quando do julgamento do agravo interno foi aquela proferida nos embargos de declaração, no que suspendeu o processo em razão da ação direta de inconstitucionalidade nº 4.058/DF, relator o ministro Alexandre de Moraes. O ato revelador do extraordinário permanece idôneo.
+    3. Conheço dos declaratórios e os desprovejo.
+    4. Publiquem.
+Brasília, 11 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
