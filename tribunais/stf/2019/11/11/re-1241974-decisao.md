@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Superior do Trabalho, reformando o entendimento do Regional, afastou a necessidade de submissão da execução da sociedade de economia mista ao regime de precatório. No extraordinário, a recorrente alega violados os artigos 5º, incisos LIV e LV, 23, inciso IX, 93, inciso IX, e 100 da Constituição Federal. Aponta ter havido cerceamento de defesa. Discorre sobre a atuação em típica atividade estatal, sem finalidade econômica.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Eis a síntese do acórdão recorrido:
+    RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.015/2014. EXECUÇÃO. SOCIEDADE DE ECONOMIA MISTA. REGIME JURÍDICO PRIVADO. PRIVILÉGIOS DA FAZENDA PÚBLICA. REGIME DE PRECATÓRIO. INAPLICABILIDADE. I – Restou incontroverso nos autos que a executada, Companhia de Águas e Esgotos da Paraíba – CAGEPA, é sociedade de economia mista, integrante da administração pública indireta, sendo que, embora desenvolva a execução de serviço público essencial, permanece sujeita aos termos do artigo 173, § 1º, inciso II da Constituição Federal, devendo se submeter ao regime jurídico próprio de empresas privadas, não se beneficiando dos privilégios concedidos à Fazenda Pública para fins de reconhecimento de impenhorabilidade dos bens ou de submissão ao regime de precatórios de que trata o artigo 100 da Constituição. II – Precedentes desta Corte. III - Dessa forma, o Tribunal Regional, ao estender à executada, sociedade de economia mista, os benefícios da Fazenda Pública, entendendo que a ela é aplicável a execução pelo regime de precatório, decidiu de forma contrária ao disposto no art. 173, §2º da Constituição Federal. IV – Recurso de revista conhecido e provido.
+    Somente pela análise do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 11 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
