@@ -1,0 +1,37 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO.
+    1. CERCEAMENTO DO DIREITO DE DEFESA. PROVA PERICIAL. ADICIONAL DE PERICULOSIDADE. NÃO PROVIMENTO.
+    O artigo 195 da CLT dispõe sobre a necessidade de perícia técnica para a caracterização e classificação da periculosidade, razão pela qual, via de regra, ao juiz não é permitido dispensar a prova técnica.
+    Por outro lado, em se tratando de hipótese em que a periculosidade é fato incontroverso nos autos, tendo o próprio preposto da reclamada admitido a exposição do reclamante a equipamentos energizados de forma intermitente e habitual, conforme consignado pelo v. acórdão, é dispensável a prova pericial para o reconhecimento do direito ao adicional respectivo.
+    Nessa esteira, não há que se falar em nulidade da decisão que deferiu o pagamento de adicional de periculosidade sem a realização de perícia técnica. Precedentes.
+    Agravo de instrumento a que se nega provimento.
+    2. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. NÃO PROVIMENTO.
+    A multa prevista no artigo 538, parágrafo único, do CPC mostra-se corretamente aplicada quando evidenciado que a parte opôs embargos de declaração com o intuito de rediscutir matérias já devidamente apreciadas na decisão embargada, a qual observou, ainda, os limites impostos pela parte.
+    Agravo de instrumento a que se nega provimento.
+    3. REAJUSTE SALARIAL. NORMA COLETIVA. GERENTE. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. DISCRIMINAÇÃO. NÃO PROVIMENTO.
+    O fato de o reclamante exercer o cargo de chefia (gerente), o que, a princípio, o distinguiria dos demais empregados, não constitui justificativa razoável ao tratamento diferenciado perpetrado pela reclamada, uma vez que a estagnação do seu salário e a manutenção do cargo de maior responsabilidade, acabariam por igualar a remuneração de trabalhadores, cujo trabalho não é de igual valor, nivelando, dessa forma, trabalhadores desiguais, em afronta ao princípio constitucional da isonomia, previsto nos artigos 5º, caput, e 7º, XXX e XXXI, da Constituição Federal. Nesse contexto, mostra-se inválida a conduta discriminatória em que incorre a indigitada cláusula coletiva.
+    Agravo de instrumento a que se nega provimento.
+    4. HORAS EXTRAORDINÁRIAS. GERENTE. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+    Do teor do artigo 62, II, da CLT e do entendimento adotado por esta Corte tem-se que para a configuração do cargo de confiança se exige a presença concomitante de dois elementos: a fidúcia especial e o recebimento de acréscimo de 40% sobre o salário.
+    Na hipótese dos autos, contudo, o egrégio Tribunal Regional registrou que o reclamante não se enquadra na exceção do artigo 62, II, da CLT, pois estava sujeito a controle de jornada por parte do empregador, não havendo no v. acórdão qualquer menção quanto às atividades desempenhadas pelo empregado e o recebimento de gratificação de função.
+    Assim, ausentes de maneira clara elementos que levem à conclusão de que o acórdão regional adotou tese contrária à lei ou a Súmula, incide como óbice ao conhecimento do apelo o teor da Súmula nº 297 e a da Orientação Jurisprudencial nº 256 da SBDI-1.
+    Agravo de instrumento a que se nega provimento” (págs. 1-3 documento eletrônico 9).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação dos arts. 5º, LIV e LV; e 7º, XXVI, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso (documento 35).
+    A pretensão recursal não merece acolhida.
+    Com efeito, a jurisprudência do Supremo Tribunal Federal está assentada no sentido de ser inadmissível a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais da ampla defesa e do contraditório nos casos de indeferimento de pedido de produção de provas no âmbito do processo judicial, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 639.228-RG/RJ (Tema 424), de relatoria do Ministro Presidente, cuja ementa segue transcrita:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Além disso, para chegar-se à conclusão diversa à adotada pelo Tribunal a quo, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas integrantes de acordo coletivo de trabalho, o que atrai a incidência das Súmulas 279 e 454/STF.
+    Outrossim, seria preciso reinterpretar a legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho). Assim, a ofensa ao texto constitucional, se existisse, seria indireta ou reflexa. Inviável, portanto, o recurso. Com esse entendimento, cito as seguintes decisões, cujas ementas transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSUMIDOR. PLANO DE SAÚDE. RESCISÃO UNILATERAL. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DA SÚMULA 454 DO STF.
+    1. A rescisão contratual, quando sub judice a controvérsia, demanda a análise de normas infraconstitucionais, do conjunto fático-probatório dos autos e das cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 desta Corte.
+    2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional, torna inadmissível o recurso extraordinário.
+    3. A interpretação de cláusulas contratuais não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal, verbis: Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.
+    4. In casu, o acórdão extraordinariamente recorrido assentou: ‘RECURSO INOMINADO. PLANO DE SAÚDE COLETIVO. CANCELAMENTO UNILATERAL EM RAZÃO DE DISPOSTO CONTRATUAL QUE AUTORIZARIA ESTA MEDIDA. CLÁUSULA ABUSIVA. MANUTENÇÃO DA PRESTAÇÃO DE SERVIÇO DE PLANO DE SAÚDE NOS MOLDES ANTERIORES À RESCISÃO’.
+    5. Agravo regimental DESPROVIDO” (RE 801.411-AgR/BA, Rel. Min. Luiz Fux, Primeira Turma).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS OFENSA INDIRETA À CONSTITUIÇÃO CONTENCIOSO DE MERA LEGALIDADE REEXAME DE FATOS E PROVAS IMPOSSIBILIDADE SÚMULA 279/STF INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL SÚMULA 454/STF SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM ABUSO DO DIREITO DE RECORRER IMPOSIÇÃO DE MULTA (1% SOBRE O VALOR CORRIGIDO DA CAUSA), SE UNÂNIME A VOTAÇÃO (CPC, ART. 1.021, § 4º) AGRAVO INTERNO IMPROVIDO” (ARE 1.078.403-AgR/BA, Rel. Min. Celso de Mello, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de novembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
