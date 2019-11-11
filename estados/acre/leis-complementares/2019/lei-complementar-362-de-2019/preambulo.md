@@ -1,0 +1,1 @@
+(Vide Ação Direta de Inconstitucionalidade nº 1000152-32.2020.8.01.0000, em que o Tribunal de Justiça do Estado do Acre declarou a Inconstitucionalidade da Lei Complementar nº 362, de 25 de setembro de 2019, por ocorrência de vício formal quanto à iniciativa do processo legislativo, que sobre o objeto, é privativa do Governador do Estado)
