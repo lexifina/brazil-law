@@ -1,0 +1,11 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, em que se alega descumprimento de decisão da minha lavra, na ADI nº 5.090-MC, de 06.09.2019, pela qual determinei a suspensão de todos os feitos cujo objeto seja a discussão acerca da constitucionalidade da correção dos depósitos nas constas vinculadas do FGTS pela Taxa Referencial (TR).
+    2. Decido.
+    3. Conforme acompanhamento processual eletrônico dos autos em que proferido o ato reclamado (nº 0072524-17.2016.04.01.3800), o pedido de origem foi julgado improcedente em 24.08.2018. Interposto recurso, este foi desprovido monocraticamente por integrante da Turma Recursal, em 27.05.2019. Foi certificado o trânsito em julgado em 02.08.2019, tendo esta movimentação, porém sido “estornada”, sem justificativa, em 18.09.2019. Somente em 24.09.2019, foi interposto recurso extraordinário, o qual, conforme decisão juntada nestes autos (doc. 9) teve o seguimento negado, com base na Súmula 281 do STF (“É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”). Dessa decisão foram opostos embargos de declaração, rejeitados (doc. 10). Nesse contexto foi ajuizada a presente reclamação.
+    4.  Como se vê, a decisão paradigma foi proferida em 06.09.2019, período no qual o processo de origem se encontrava no prazo para impugnação da decisão do relator do recurso dirigido à Turma Recursal. Nesse prazo, a parte interpôs recurso extraordinário manifestamente inadmissível, porquanto não esgotadas as instâncias ordinárias.
+    5. Nessas circunstâncias, operou-se, na origem, a preclusão da questão constitucional, o que torna inútil a suspensão do processo. Saliente-se que a reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo de origem (Rcl 5.703/SP-AgR, Rel. Min. Cármen Lúcia; Rcl 5.926/SC-AgR, Rel. Min. Celso de Mello; Rcl 5.684/PE-AgR, Rel. Min. Ricardo Lewandowski).
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 11 de novembro de 2019
+Ministro Luís Roberto Barroso
+Relator
