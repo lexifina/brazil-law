@@ -1,0 +1,16 @@
+DECISÃO:
+    1.  Trata-se de reclamação, com pedido de efeito suspensivo, contra acórdão do Órgão Especial do TJRJ que manteve decisão de negativa de seguimento de recurso extraordinário interposto nos autos nº 272473-41.2013.8.19.0001, por ser aplicável o paradigma do Tema 660 da repercussão geral à hipótese.
+    2.  Na presente reclamação, alega-se usurpação da competência do STF. A reclamante sustenta que o Órgão Especial do TJRJ não poderia negar seguimento ao recurso extraordinário, uma vez que somente o STF teria competência para analisar o agravo contra a decisão que inadmite o recurso extraordinário, prolatada pela presidência do tribunal de origem. Pleiteia, em caráter liminar, a suspensão do feito originário. No mérito, requer a remessa do agravo interno interposto para apreciação por esta Corte.
+    3.  É o relatório. Decido.
+    4.  Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação das partes beneficiárias da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    5.  Compete aos órgãos jurisdicionais de origem o exame preliminar da viabilidade de recurso extraordinário. Não há, pois, que se falar em usurpação da competência do STF. Nesse sentido, veja-se a ementa do acórdão proferido na Rcl 32.405 AgR:
+    “EMENTA AGRAVO REGIMENTAL. RECLAMAÇÃO CONSTITUCIONAL. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. CABIMENTO DO AGRAVO INTERNO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. A reclamação versa alegada usurpação da competência desta Suprema Corte por decisão denegatória do seguimento de recurso extraordinário em que se discute requisito de admissibilidade de recuso de revista previsto no art. 896, § 1º, A, I, da CLT por inexistente repercussão geral (Tema 181). Contra decisão em que negado seguimento a recurso extraordinário com fundamento na sistemática da repercussão geral cabível agravo interno a teor do art. 1.030, § 2º, do CPC/2015. Usurpação da competência desta Suprema Corte não demonstrada. Agravo regimental conhecido e desprovido.
+    (Rcl 32.405 AgR, Rel. Min. Rosa Weber, Primeira Turma, j. 29.03.2019)
+    6.  Nesse sentido, cito, também: Rcl. 30.426, Rel. Min. Alexandre de Moraes e Rcl. 31.059, Rel. Min. Dias Toffoli.
+    7. Considerando que na presente hipótese houve a negativa de seguimento do RE com fundamento na aplicação de paradigma de repercussão geral, o agravo interno é o único recurso cabível, nos termos do art. 1.030, § 2º, do CPC. A remessa do agravo para apreciação pelo STF não é viável, não havendo a usurpação da competência desta Corte nessa situação.
+    8. Observe-se que esta sistemática de impugnação das decisões que aplicam precedente da repercussão geral já vigia no regime processual do CPC/73, desde o julgamento pelo STF da Questão de Ordem no AI 760.358-QO, Rel. Min. Gilmar Mendes, em 19.11.2009, data a partir da qual não mais se admite a conversão de recurso diverso em agravo interno.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 12 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
