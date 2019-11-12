@@ -1,5 +1,5 @@
 Art. 2º A participação nos lucros ou resultados será objeto de negociação entre a empresa e seus empregados, mediante um dos procedimentos a seguir descritos, escolhidos pelas partes de comum acordo:
-I - comissão paritária escolhida pelas partes, integrada, também, por um representante indicado pelo sindicato da respectiva categoria;
+I - comissão paritária escolhida pelas partes;
 II - convenção ou acordo coletivo.
 § 1º Dos instrumentos decorrentes da negociação deverão constar regras claras e objetivas quanto à fixação dos direitos substantivos da participação e das regras adjetivas, inclusive mecanismos de aferição das informações pertinentes ao cumprimento do acordado, periodicidade da distribuição, período de vigência e prazos para revisão do acordo, podendo ser considerados, entre outros, os seguintes critérios e condições:
 I - índices de produtividade, qualidade ou lucratividade da empresa;
@@ -12,6 +12,19 @@ a) não distribua resultados, a qualquer título, ainda que indiretamente, a dir
 b) aplique integralmente os seus recursos em sua atividade institucional e no País;
 c) destine o seu patrimônio a entidade congênere ou ao poder público, em caso de encerramento de suas atividades;
 d) mantenha escrituração contábil capaz de comprovar a observância dos demais requisitos deste inciso, e das normas fiscais, comerciais e de direito econômico que lhe sejam aplicáveis.
+§ 3-A. A não equiparação de que trata o inciso II do § 3º não é aplicável às hipóteses em que tenham sido utilizados índices de produtividade ou qualidade ou programas de metas, resultados e prazos.
 § 4º Quando forem considerados os critérios e condições definidos nos incisos I e II do § 1º deste artigo:
 I - a empresa deverá prestar aos representantes dos trabalhadores na comissão paritária informações que colaborem para a negociação;
 II - não se aplicam as metas referentes à saúde e segurança no trabalho.
+§ 5º As partes podem:
+I - adotar os procedimentos de negociação estabelecidos nos incisos I e II do caput e no § 10º simultaneamente; e
+II - estabelecer múltiplos programas de participação nos lucros ou nos resultados, observada a periodicidade estabelecida pelo § 1º do art. 3º.
+§ 6º Na fixação dos direitos substantivos e das regras adjetivas, inclusive no que se refere à fixação dos valores e à utilização exclusiva de metas individuais, a autonomia da vontade das partes contratantes será respeitada e prevalecerá em face do interesse de terceiros.
+§ 7º Consideram-se previamente estabelecidas as regras fixadas em instrumento assinado:
+I -- anteriormente ao pagamento da antecipação, quando prevista; e
+II - com antecedência de, no mínimo, noventa dias da data do pagamento da parcela única ou da parcela final, caso haja pagamento de antecipação.
+§ 8º A inobservância à periodicidade estabelecida no § 2º do art. 3º macula exclusivamente os pagamentos feitos em desacordo com a norma, assim entendidos:
+I - os pagamentos excedentes ao segundo, feitos a um mesmo empregado, dentro do mesmo ano civil; e
+II - os pagamentos efetuados a um mesmo empregado, em periodicidade inferior a um trimestre civil do pagamento anterior.
+§ 9º Na hipótese do inciso II do § 8º, mantêm-se a higidez dos demais pagamentos.
+§ 10. A participação nos lucros ou nos resultados de que trata esta Lei poderá ser fixada diretamente com o empregado de que trata o parágrafo único do art. 444 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.

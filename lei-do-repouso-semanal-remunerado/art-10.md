@@ -1,2 +1,0 @@
-Art. 10. Na verificação das exigências técnicas a que se referem os artigos anteriores, ter-se-ão em vista as de ordem econômica, permanentes ou ocasionais, bem como as peculiaridades locais.
-Parágrafo único. O Poder Executivo, em decreto especial ou no regulamento que expedir par fiel execução desta lei, definirá as mesmas exigências e especificará, tanto quanto possível, as empresas a elas sujeitas, ficando desde já incluídas entre elas as de serviços públicos e de transportes.
