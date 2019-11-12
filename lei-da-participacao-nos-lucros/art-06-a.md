@@ -1,1 +1,0 @@
-Art. 6º-A. É permitido o trabalho em feriados nas atividades do comércio em geral, desde que autorizado em convenção coletiva de trabalho e observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição.
