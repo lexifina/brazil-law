@@ -1,1 +1,0 @@
-Art. 8º Excetuados os casos em que a execução do serviço for imposta pelas exigências técnicas das empresas, é vedado o trabalho em dias feriados, civis e religiosos, garantida, entretanto, aos empregados a remuneração respectiva, observados os dispositivos dos artigos 6º e 7º desta lei.
