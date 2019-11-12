@@ -1,0 +1,63 @@
+RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA. TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA POR ENCARGOS INADIMPLIDOS PELA PRESTADORA DE SERVIÇOS. DECISÃO IMPUGNADA QUE INADMITE RECURSO DE REVISTA POR AUSÊNCIA DE TRANSCENDÊNCIA DA CAUSA. ART. 896-A, CLT. ALEGAÇÃO DE AFRONTA À AUTORIDADE DA DECISÃO PROFERIDA POR ESTA CORTE NO RECURSO EXTRAORDINÁRIO 760.931 – TEMA 246 DA REPERCUSSÃO GERAL. DEFERIMENTO DO PEDIDO DE MEDIDA LIMINAR.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Município de Caraguatatuba/SP contra decisão proferida pelo Tribunal Superior do Trabalho nos autos do Processo 00011058-07.2016.5.15.0063, sob alegação de afronta à autoridade da decisão proferida no RE 760.931 - Tema 246 da repercussão geral.
+    Extrai-se da decisão ora reclamada, in verbis:
+    “(...)
+    À parte o acerto ou desacerto da decisão recorrida, entende-se que não foi preenchido o requisito previsto no art. 896, § 1º-A, I, da CLT. Desse modo, ao não observar a exigência de indicar o devido trecho da decisão do Regional que consubstancia o prequestionamento da controvérsia (art. 896, § 1º-A, I, da CLT), a parte não consegue demonstrar, de forma analítica, em que sentido tal decisão teria afrontado os dispositivos indicados e as circunstâncias que identificam ou assemelham os casos confrontados (art. 896, §§ 1º-A, III, e 8º, da CLT).
+    A Sexta Turma evoluiu para o entendimento de que, uma vez não atendidas as exigências da Lei nº 13.015/2014, fica prejudicada a análise da transcendência.
+    Nego provimento.
+    TRANSCENDÊNCIA
+    JUROS DE MORA
+    Delimitação do acórdão recorrido: ’A jurisprudência consolidou-se no sentido de que a condenação subsidiária do ente público não enseja a aplicação dos juros na forma prevista pela Lei nº 9.494/97. Neste sentido, a redação da OJ nº 382 da SDI-I do C. TST, ‘in verbis’:
+    (...)
+    Mantenho.’
+    Não há transcendência política, pois não constatado o desrespeito à jurisprudência sumulada do Tribunal Superior do Trabalho ou do Supremo Tribunal Federal.
+    Não há transcendência social, pois não se trata de postulação, em recurso de reclamante, de direito social constitucionalmente assegurado.
+    Não há transcendência jurídica, pois não se discute questão nova em torno de interpretação da legislação trabalhista.
+    Não se reconhece a transcendência econômica quando, a despeito dos valores da causa e da condenação, não se constata a relevância do caso concreto, pois a tese do TRT é no mesmo sentido do entendimento desta Corte Superior, não havendo matéria de direito a ser uniformizada.
+    Não há outros indicadores de relevância no caso concreto (art. 896-A, § 1º, parte final, da CLT).
+    CONCLUSÃO
+    Pelo exposto:
+    I - nego provimento ao agravo de instrumento quanto ao tema ‘ENTE PÚBLICO. RESPONASABLIDADE SUBSIDIÁRIA’, com amparo nos arts. 118, X, e 255, III, a, do RITST e 932, III, do CPC. Fica prejudicada a análise da transcendência quando o recurso de revista não preenche pressuposto de admissibilidade nos termos da fundamentação.
+    II - não reconheço a transcendência quanto ao tema ‘JUROS DE MORA’ e, como consequência, nego provimento ao agravo de instrumento da reclamada, com amparo nos arts. 896-A, § 5º, da CLT, 118, X, 248 e 255, III, a, do RITST, 932, VIII, do CPC. Destaco que esta decisão, no particular, é irrecorrível, conforme os arts. 896-A, § 5º, da CLT, 248 do RITST.
+    Publique-se.”
+    Narra o reclamante que a questão de fundo, na origem, trata sobre a responsabilização subsidiária de ente da administração pública por débitos trabalhistas e previdenciários devidos ao prestador de serviço, os quais teriam sido inadimplidos por empresa contratada mediante processo licitatório.
+    Sustenta, em síntese, que a decisão reclamada está a usurpar a competência constitucional em apreciar em última instância os recursos extraordinários e a garantia de autoridade de decisão que definiu questão jurídica como representativa de repercussão geral desse Excelso Supremo Tribunal Federal, contrariando padrão decisório de “tese” vinculativo obrigatória firmada em sede de recurso extraordinário repetitivo (RE 760.931), com repercussão geral definida como “tema” 246.
+    Alega, nesse sentido, que essa nova redação da CLT, ao regulamentar o instituto da transcendência no âmbito do TST, determinou que fosse observada a sistemática do CPC respeitante a tratativa dos recursos extraordinários repetitivos, o que importa dizer que, em se tratando de questão com tese firmada e tema já definindo como de repercussão geral o processo que contrarie a decisão vinculante obrigatória do STF, não ficará mais sujeito a afetação como recurso repetitivo, o que importa dizer, com livre trânsito para ser apreciado como recurso extraordinário.
+    Requer, liminarmente, a suspensão da decisão impugnada proferida pelo TST nos autos do processo 0011058-07.2016.5.15.0063. No mérito, pugna pela procedência do pleito reclamatório para cassar definitivamente a referida decisão.
+    É o relatório. Decido.
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do art. 102, I, alínea l, além de salvaguardar o estrito cumprimento das súmulas vinculantes, nos termos do art. 103-A, § 3º, da Constituição da República, incluído pela EC nº 45/2004.
+    A matéria também veio disciplinada pelo Novo Código de Processo Civil, que, no art. 988, prevê as hipóteses de seu cabimento, in verbis:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam. (...).”
+    In casu, o cerne da questão reside em verificar se as razões estampadas pela parte reclamante no recurso de revista interposto ofereceriam transcendência apta a caracterizar o destoamento da fundamentação para a inadmissibilidade do recurso, bem como se guardariam correlação com o Tema 246 da repercussão geral, alegadamente violado.
+    Destarte, neste juízo precário, parece assistir razão à parte reclamante. Isso porque, a decisão recorrida, ao negar seguimento ao recurso de revista interposto pelo reclamante, com fundamento na ausência de transcendência da controvérsia discutida na causa, dissociou-se, aparentemente, daquilo que decidido por esta Corte nos autos do RE 760.931.
+    Com efeito, em 26/4/2017, esta Corte concluiu o julgamento do Recurso Extraordinário 760.931, Tema 246 da repercussão geral, em que se complementou o debate acerca da legitimidade da imputação de responsabilidade subsidiária ao Poder Público por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviço. Naquela ocasião, firmou-se a seguinte tese:
+    “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.” (RE 760.931-RG, Redator para o acórdão Min. Luiz Fux, Plenário, DJe de 02/05/2017)
+    Eis a ementa do julgado:
+    “RECURSO EXTRAORDINÁRIO REPRESENTATIVO DE CONTROVÉRSIA COM REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL. DIREITO DO TRABALHO. TERCEIRIZAÇÃO NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA. SÚMULA 331, IV E V, DO TST. CONSTITUCIONALIDADE DO ART. 71, § 1º, DA LEI Nº 8.666/93. TERCEIRIZAÇÃO COMO MECANISMO ESSENCIAL PARA A PRESERVAÇÃO DE POSTOS DE TRABALHO E ATENDIMENTO DAS DEMANDAS DOS CIDADÃOS. HISTÓRICO CIENTÍFICO. LITERATURA: ECONOMIA E ADMINISTRAÇÃO. INEXISTÊNCIA DE PRECARIZAÇÃO DO TRABALHO HUMANO. RESPEITO ÀS ESCOLHAS LEGÍTIMAS DO LEGISLADOR. PRECEDENTE: ADC 16. EFEITOS VINCULANTES. RECURSO PARCIALMENTE CONHECIDO E PROVIDO. FIXAÇÃO DE TESE PARA APLICAÇÃO EM CASOS SEMELHANTES.
+    [...]
+    2. A cisão de atividades entre pessoas jurídicas distintas não revela qualquer intuito fraudulento, consubstanciando estratégia, garantida pelos artigos 1º, IV, e 170 da Constituição brasileira, de configuração das empresas, incorporada à Administração Pública por imperativo de eficiência (art. 37, caput, CRFB), para fazer frente às exigências dos consumidores e cidadãos em geral, justamente porque a perda de eficiência representa ameaça à sobrevivência da empresa e ao emprego dos trabalhadores.
+    [...]
+    6. A Administração Pública, pautada pelo dever de eficiência (art. 37, caput, da Constituição), deve empregar as soluções de mercado adequadas à prestação de serviços de excelência à população com os recursos disponíveis, mormente quando demonstrado, pela teoria e pela prática internacional, que a terceirização não importa precarização às condições dos trabalhadores.
+    7. O art. 71, § 1º, da Lei nº 8.666/93, ao definir que a inadimplência do contratado, com referência aos encargos trabalhistas, não transfere à Administração Pública a responsabilidade por seu pagamento, representa legítima escolha do legislador, máxime porque a Lei nº 9.032/95 incluiu no dispositivo exceção à regra de não responsabilização com referência a encargos trabalhistas.
+    [...]
+    9. Recurso Extraordinário parcialmente conhecido e, na parte admitida, julgado procedente para fixar a seguinte tese para casos semelhantes: ‘O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93’.”
+    No caso sub examine, discute-se a responsabilidade subsidiária do Município de Caraguatatuba/SP pelo inadimplemento de encargos trabalhistas por parte de empresa terceirizada prestadora de serviços. Verifica-se, portanto, que a tese firmada no RE 760.931 abarca o caso dos autos.
+    Contudo, ao analisar o agravo de instrumento em recurso de revista manejado pelo reclamante, a decisão impugnada entendeu pela ausência de transcendência da questão jurídica posta em debate, em potencial usurpação de competência desta Corte, haja vista tratar-se de controvérsia com repercussão geral já reconhecida.
+    Destarte, demonstrada, ao menos nesse juízo prévio, a não aplicação da tese jurídica firmada em repercussão geral pelo Tribunal a quo, revelam-se presentes os requisitos que autorizam a concessão da medida liminar requerida.
+    Ex positis, por entender que os argumentos da parte reclamante são plausíveis, DEFIRO o pedido de MEDIDA LIMINAR, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para suspender os efeitos da decisão ora reclamada e a tramitação do Processo 0011058-07.2016.5.15.0063, até o julgamento desta reclamação.
+    Solicitem-se informações e comunique-se a autoridade reclamada acerca do teor desta decisão, em especial no que concerne ao deferimento do pedido de medida liminar (artigo 989, inciso I, do CPC).
+    Citem-se a beneficiária do decisum ora impugnado, para a apresentação de contestação (artigo 989, inciso III, do CPC).
+    Nos termos do artigo 52, parágrafo único, do RISTF, dispenso o parecer da Procuradoria-Geral da República, por entender que se cuida de matéria de caráter reiterado.
+    Publique-se.
+    Brasília, 12 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
