@@ -1,3 +1,6 @@
+Art. 8º-B. Ao Secretário Especial do PPI compete:
+I - dirigir a SPPI, supervisionar e coordenar as suas atividades e orientar a sua atuação;
+II - assessorar o Ministro de Estado Chefe da Casa Civil da Presidência da República nos assuntos relativos à atuação da SPPI, inclusive perante Ministérios, órgãos e entidades setoriais;
+III - exercer a orientação normativa e a supervisão técnica quanto às matérias relativas às atribuições da SPPI;
 IV - editar e praticar os atos normativos e os demais atos inerentes às suas atribuições;
-V - atuar como Secretário-Executivo do CPPI; e
-VI - assessorar o Ministro de Estado Chefe da Casa Civil da Presidência da República nos assuntos relativos à atuação da Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República, inclusive junto a Ministérios, órgãos e entidades setoriais.
+V - atuar como Secretário-Executivo do CPPI.
