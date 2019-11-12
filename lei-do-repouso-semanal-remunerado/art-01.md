@@ -1,1 +1,1 @@
-Art. 1º Todo empregado tem direito ao repouso semanal remunerado de vinte e quatro horas consecutivas, preferentemente aos domingos e, nos limites das exigências técnicas das empresas, nos feriados civis e religiosos, de acordo com a tradição local.
+Art. 1º Todo empregado tem direito a um descanso semanal remunerado de vinte e quatro horas consecutivas.
