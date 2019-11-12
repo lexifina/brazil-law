@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Cuida-se de pedido de suspensão de segurança ajuizada pelo Estado do Ceará, em face do Tribunal de Justiça daquele estado, com o objetivo de suspender os efeitos da liminar deferida nos autos do mandado de segurança nº 0622502-75.2019.8.06.0000, que determinou o recálculo de nota obtida por candidata ao concurso de ingresso na magistratura cearense.
+    Asseverou o requerente que esta Corte é competente para apreciação do pedido e que, ademais, é de interesse público que prevaleça o interesse social, em detrimento da pretensão individual de um único candidato.
+    Acrescentou que a decisão atacada ofende o princípio da isonomia, pois implica na aprovação de candidata que não atingiu a pontuação necessária, destacando a necessária vinculação de todos ao edital do certame.
+    Aduziu existir risco de lesão à ordem pública, se o Poder Judiciário vier a intervir em resultados de concurso, fato a constituir, até mesmo, violação ao princípio da separação de poderes.
+    Destacou que o STF já apreciou a matéria, em julgamento dotado de repercussão geral, em que se consignou que o Poder Judiciário não pode interferir em critérios fixados por banca examinadora.
+    Por fim, salientou que referida decisão traz inegável risco de efeito multiplicador, dada a possibilidade de que outros candidatos desclassificados no certame também recorram a Poder Judiciário, na busca de melhor sorte quanto à avaliação de suas provas.
+    Postulou, assim, a pronta suspensão da aludida liminar.
+    É o relatório.
+    Decido:
+    Inicialmente, reconheço que a controvérsia deduzida na origem evidencia a existência de matéria constitucional, uma vez que a celeuma em questão diz com interpretação de norma da Constituição Federal que consagra a necessidade de concursos públicos para a investidura em cargos públicos, com todos os consectários inerentes a tais certames.
+    A admissibilidade da contracautela pressupõe, ainda, a demonstração de que o ato questionado possa vir a causar grave lesão à ordem, à saúde, à segurança ou à economia públicas.
+    Nesse ponto, destaco que a natureza excepcional desta ação permite, tão somente, um juízo mínimo de delibação sobre a matéria de fundo quando necessário à análise do risco aos bens jurídicos tutelados pelo instituto (SS nº 5.049-AgR-ED/BA, Tribunal Pleno, Presidente o Min. Ricardo Lewandowski, DJe de 16/5/16).
+    No caso dos autos, sustenta o Estado do Ceará que o Poder Judiciário local teria interferido, de maneira indevida, em critérios de correção de prova de concurso de ingresso na magistratura cearense.
+    Contudo, o que se constata, da leitura dos documentos trazidos aos autos, foi o inconformismo da candidata com a não inclusão, em sua nota final, de pontos que obteve com o acolhimento de recurso administrativo que interpusera e no qual lograra êxito.
+    Trata-se de circunstância incontroversa nos autos, residindo a celeuma no fato de que, posteriormente ao acolhimento desse recurso, o CNJ determinou a revisão da correção das provas do certame, para que se desconsiderassem eventuais erros de português, cometidos pelos candidatos.
+    Em nenhum momento, nos autos do mandamus impetrado na origem, foi defendida a desconsideração ao resultado de tal recurso administrativo, com fundamento na ordem de recorreção das provas, advinda de decisão do CNJ.
+    Assim, a eventual apreciação do quanto alegado pelo requerente exigiria a reapreciação do contexto fático-probatório subjacente ao aludido mandamus, providência incompatível, não apenas com a via excepcional do pedido de suspensão de segurança, mas também com a própria competência do Supremo Tribunal Federal em sede recursal extraordinária, a teor da Súmula nº 279/STF, in verbis:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Ressalte-se, ademais, que tampouco se mostra possível o uso do instituto da suspensão como sucedâneo de recurso. Vide precedentes:
+    “Agravo regimental na suspensão de tutela antecipada. Acórdão proferido em ação civil pública. Concurso público. Vaga para deficientes. Impossibilidade de se fazer uso do instituto da suspensão como sucedâneo de recurso. Grave lesão não demonstrada. Agravo regimental ao qual se nega provimento” (STA nº 840/DF-AgR, de minha relatoria, Tribunal Pleno, DJe de 18/10/18).
+    “Agravo regimental na suspensão de liminar. Eleição da mesa diretora do poder legislativo do município de Cambé/PR. Recondução dos membros aos mesmos cargos em biênios consecutivos. Ação civil pública. Afastamento do presidente. Ilegitimidade ativa para contracautela: precedentes. Risco aos valores tutelados na legislação aplicável não demonstrado. Pretensão recursal na suspensão de liminar: inviabilidade. Precedentes. Agravo regimental ao qual se nega provimento” (SL nº 1121/PR-AgR, Relª Minª Cármen Lúcia (Presidente), DJe de 18/4/18).
+    Não cabe ao Supremo Tribunal Federal, na via excepcional da contracautela, imiscuir-se no contexto fático-probatório dos autos em que se contende na origem, devendo a reapreciação da interpretação dada ao conteúdo ser buscada nas vias ordinárias competentes para conhecer do processo. Nesse sentido:
+    “Agravo regimental em suspensão de segurança. Ausência de demonstração de lesão à ordem ou à segurança públicas em razão de decisão liminar que assentou a insubsistência dos motivos que justificaram a decisão administrativa. Impossibilidade do uso do instituto da suspensão como sucedâneo recursal. Agravo regimental não provido. 1. Impossibilidade de o Supremo Tribunal Federal, na via excepcional da contracautela, imiscuir-se no contexto fático-probatório do processo de origem, devendo a reapreciação da interpretação dada ao conteúdo ser buscada na via recursal. 2. Agravo regimental não provido” (SS nº 5.224/Ap-AgR, de minha relatoria, Tribunal Pleno, DJe de 30/5/19).
+    Como se não bastasse, tem-se que a ordem contra a qual se insurge o requerente não parece ter interferido em critérios de correção da prova, vez que apenas determinou o acréscimo, à nota final da candidata, de pontuação que lhe havia sido concedida em recurso que adrede interpusera e que fora parcialmente acolhido.
+    Não se percebe, desde logo, claro confronto com o que foi decidido por esta Corte nos autos do RE nº 632.853 (tema 485 da repercussão geral), em que fixada a tese de que
+    “Não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade”.
+    Não resta, assim, evidenciada violação à ordem administrativa, tampouco ao princípio da isonomia, por se cuidar de hipótese restrita à situação pessoal da candidata autora do mandamus, ressaltando-se que nem mesmo o aludido efeito multiplicador parece demonstrado, pois não noticiou o requerente o ajuizamento de outras demandas, com o mesmo fito
+    Não demonstradas, assim, a presença dos requisitos legais ensejadores da pretendida contracautela, impõe-se a pronta rejeição do pedido.
+     Ante o exposto, nego seguimento ao presente requerimento de suspensão (RISTF, art. 21, §1º), prejudicada a análise do pedido de liminar.
+    Publique-se.
+    Brasília, 12 de novembro de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
