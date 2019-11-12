@@ -1,0 +1,47 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IPTU. IMÓVEL LOCALIZADO EM ÁREA DE PROTEÇÃO AMBIENTAL. ALÍQUOTA ZERO. ARTIGO 44, PARÁGRAFO ÚNICO DA LEI MUNICIPAL N° 3.882/1989 (CÓDIGO TRIBUTÁRIO DO MUNICÍPIO). PRECEDENTES. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. CONHECIMENTO E DESPROVIMENTO DO RECURSO” (pág. 15 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 2° e 150, § 6°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Colhe-se do voto condutor do acórdão recorrido as seguintes passagens:
+    “Cinge o mérito recursal, em perquirir acerca do acerto da sentença que acolheu a exceção de pré-executividade para afastar o lançamento do IPTU, com exercício compreendido entre 2006 a 2009, considerando que o imóvel objeto da presente ação encontra-se encravado em zona de proteção ambiental – ZPA1.
+    Depreende-se dos autos que o excipiente, ora recorrido, apresentou exceção de pré-executividade aduzindo que o imóvel está localizado em área de proteção ambiental, devendo ser aplicado a alíquota zero, com o consequente afastamento da incidência de tributos e taxas.
+    O magistrado a quo concluiu em seu decisum que, ‘o terreno em questão encontra-se em zona de proteção ambiental’, devendo ser aplicada a ‘alíquota zero, considerando estar-se diante de imóvel non edificandi consoante aduzido anteriormente encravado em ZPA’.
+    Consiste o IPTU em tributo de competência municipal, conferindo a cada município autonomia relativa para instituir e cobrar o tributo, nos termos do artigo 32 do Código Tributário Nacional, que assim dispõe:
+    ‘SEÇÃO II
+    Imposto sobre a Propriedade Predial e Territorial Urbana
+    32. O imposto, de competência dos Municípios, sobre a propriedade predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona urbana do Município.
+    1° Para os efeitos deste imposto, entende-se como zona urbana a definida em lei municipal; observado o requisito mínimo da existência de melhoramentos indicados em pelo menos 2 (dois) dos incisos seguintes, construídos ou mantidos pelo Poder Público:
+    I - meio-fio ou calçamento, com canalização de águas pluviais;
+    II - abastecimento de água;
+    III - sistema de esgotos sanitários;
+    IV - rede de iluminação pública, com ou sem posteamento para distribuição domiciliar;
+    V - escola primária ou posto de saúde a uma distância máxima de 3 (três) quilômetros do imóvel considerado.
+    2° A lei municipal pode considerar urbanas as áreas urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, à indústria ou ao comércio, mesmo que localizados fora das zonas definidas nos termos do parágrafo anterior."
+    No caso dos autos, o próprio Município de Natal declara que a área onde está situado o imóvel descrito na exordial da presente execução fiscal é considerada 100% (cem por cento) não edificante, havendo a proibição de qualquer edificação no momento em que instituiu a ZPA1, devendo-se aplicar a alíquota zero em se tratando do fato gerador do IPTU, observado o artigo 44, parágrafo único, do Código Tributário do Município de Natal.
+    Ademais, não merece guarida a tese acerca da inconstitucionalidade dos Decretos Municipais n° 7322/2003 e 7119/2002, que norteiam a matéria posta em debate e que, diferentemente do apontado nas razões recursais, o julgamento hostilizado não afronta os artigos 150, inciso I e § 6°, da Constituição Federal e, artigo 97 do Código Tributário Nacional.
+    […]
+    Ressalte-se, ainda, a impossibilidade de acolher pedido alternativo formulado nas razões do apelo de reforma da decisão no que concerne à impossibilidade da extinção da totalidade dos créditos, vez que nenhum dos referidos tributos é objeto da execução fiscal em epígrafe, conforme se verifica nas CDA'S.
+    Ademais, faz-se imperioso ressaltar que tanto a TLP, como a COSIP estão vinculadas ao IPTU, que no caso possui alíquota zero, observados neste ponto, o artigo 104, parágrafo segundo do Código Tributário do Município de Natal, no que se refere à TLP, e artigo 6°, parágrafo único, inciso II, da lei Complementar n° 47/2002, com relação à Contribuição de Iluminação Pública – COSIP ” (págs. 16-18 e 20 do documento eletrônico 4).
+    Da transcrição, percebe-se que o acórdão recorrido lastreou-se no exame do conjunto fático probatório dos autos e na interpretação da legislação local aplicável à espécie, o que atrai a incidência da Súmulas 279/STF e 280/STF. Inviável, portanto, o extraordinário. Nesse sentido, cito os seguintes precedentes desta Corte:
+    “DIREITO TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. ÁREA DE PROTEÇÃO AMBIENTAL. CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE NATAL/RN. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário.
+    2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação” (ARE 1.167.409-AgR/RN, Rel. Min. Rosa Weber).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. RESTRIÇÕES RELATIVAS À OCUPAÇÃO DE ÁREA DE PROTEÇÃO AMBIENTAL. ISENÇÃO PARCIAL. MOMENTO EM QUE SE DEVE CONSIDERAR CONCEDIDO O BENEFÍCIO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. PRECEDENTES.
+    Após detida análise do conjunto probatório e de normas infraconstitucionais, a instância ordinária afirmou, para o caso concreto, o momento do preenchimento dos requisitos necessários à concessão de isenção relativa à ocupação de área sujeita à preservação ambiental.
+    O acolhimento da pretensão demandaria o reexame das evidências que deram amparo ao acórdão, o que se mostra inviável nesta via. Aplica-se, portanto, a Súmula 279/STF.
+    Agravo regimental a que se nega provimento” (ARE 804.172-AgR/RJ, Rel. Min. Roberto Barroso).
+    Ademais, o Supremo Tribunal Federal, analisando a possibilidade de concessão de isenção e outros benefícios fiscais, fixou entendimento no sentido de que
+    “[...] a outorga de qualquer subsídio, isenção ou crédito presumido, a redução de base de cálculo e a concessão de anistia ou remissão em matéria tributária só podem ser deferidas mediante lei específica, sendo vedado ao Poder Legislativo conferir ao Chefe do Executivo a prerrogativa extraordinária de dispor, normativamente, sobre tais categorias temáticas, sob pena de ofensa ao postulado nuclear da separação de poderes e de transgressão ao princípio da reserva constitucional de competência legislativa” (ADI 1.247/PA, Rel. Min. Celso de Mello).
+    Com essa mesma orientação cito a ADI 2.688/PR, da relatoria do Ministro Joaquim Barbosa, cuja ementa transcrevo:
+    “TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL. ISENÇÃO CONCEDIDA A TÍTULO DE AUXÍLIO-TRANSPORTE AOS INTEGRANTES DA POLÍCIA CIVIL E MILITAR EM ATIVIDADE OU INATIVIDADE. AUSÊNCIA DE PRÉVIO CONVÊNIO INTERESTADUAL. PERMISSÃO GENÉRICA AO EXECUTIVO. INCONSTITUCIONALIDADE. LEI 13.561/2002 DO ESTADO DO PARANÁ.
+    1. A concessão de benefício ou de incentivo fiscal relativo ao ICMS sem prévio convênio interestadual que os autorize viola o art. 155, § 2º, XII, g da Constituição.
+    2. Todos os critérios essenciais para a identificação dos elementos que deverão ser retirados do campo de incidência do tributo (regra-matriz) devem estar previstos em lei, nos termos do art. 150, § 6º da Constituição. A permissão para que tais elementos fossem livremente definidos em decreto do Poder Executivo viola a separação de funções estatais prevista na Constituição.
+    Ação Direta de Inconstitucionalidade julgada procedente”.
+    Nesses termos, verifico que o acórdão recorrido encontra-se em harmonia com essa orientação, não havendo que se falar, portanto, em violação do art. 2° da Constituição.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 12 de novembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
