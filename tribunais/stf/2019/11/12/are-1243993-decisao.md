@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado da Décima Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo pelo qual desprovido o recurso do agravante e mantida a pena de sete anos de reclusão pela prática do delito previsto no caput do art. 33 da Lei n. 11.343/2006.
+    Os embargos de declaração opostos foram rejeitados (fls. 18-21, vol. 14, e fls 1-2, vol. 15).
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado os incs. XLVI e LVII do art. 5º da Constituição da República.
+    Assevera ser “primário e sem antecedentes, sendo que a pena foi fixada no mínimo legal, atentando-se o juízo às circunstâncias do artigo 59 do CP e 42 da Lei de Drogas. Não obstante, inferiu-se que seria possível tratar-se de criminoso habitual, que faz do tráfico o seu ‘meio de vida’, e, em interpretação equivocada do parágrafo 4º do artigo 33 da Lei de Drogas, negou-se a minorante, atribuindo-se a defesa fazer prova negativa da reiteração delitiva” (fl. 5, vol. 13).
+    Argumenta que “todas as circunstâncias judiciais foram julgadas favoráveis, excetuando-se a quantidade das drogas e, ainda assim, foi fixado regime fechado, de modo não fundamentado” (fl. 5, vol. 13).
+    3. O recurso extraordinário foi inadmitido por ausência de ofensa constitucional direta e incidência das Súmulas ns. 279 e 284 do Supremo Tribunal Federal (fls. 13-14, vol. 16).
+    O agravante sustenta que “a r. decisão judicial, com a devida permissão, não trouxe fundamentos suficientes à ausência de conhecimento do agravo e, consequente, inadmissão do Recurso Extraordinário interposto pelo Agravante, com a maxima venia, constatando-se de forma clara e cristalina o PREENCHIMENTO DOS REQUISITOS FUNDAMENTAIS PARA APRECIAÇÃO E ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO, QUAIS SEJAM, OFENSA A DISPOSITIVOS CONSTITUCIONAIS, REPERCUSSÃO GERAL E PREQUESTIONAMENTO DA MATÉRIA” (fl. 1, vol. 17).
+    Pede “o PROVIMENTO do presente Agravo, de forma a se ADMITIR INTEGRALMENTE O RECURSO EXTRAORDINÁRIO, POSSIBILITANDO QUE TODA A MATÉRIA SEJA DEVIDAMENTE ANALISADA PELO EXCELSO SUPREMO TRIBUNAL FEDERAL” (fl. 3, vol. 17).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. O agravo não pode ter seguimento porque o agravante não impugnou os fundamentos da decisão agravada, os quais, por esse motivo, subsistem.
+    Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam os fundamentos da decisão agravada. Confiram-se, por exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO CRIMINAL COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO JUÍZO DE ORIGEM QUE INADMITE O RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Juízo de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. II - Agravo regimental a que se nega provimento” (ARE n. 1.228.198-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 17.10.2019).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA 287 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. É inviável o conhecimento do recurso que não ataca, especificamente, os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287 do STF. 2. Agravo regimental desprovido” (ARE n. 1.151.006-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 18.10.2019).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEIÇÕES 2016. VICE-PREFEITA CANDIDATA À REELEIÇÃO QUE SUCEDEU PREFEITA CASSADA 18 (DEZOITO) DIAS ANTES DO PLEITO. INELEGIBILIDADE SUPERVENIENTE. APLICAÇÃO DA REGRA PREVISTA NO ARTIGO 14, § 6º, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA 287 DO STF. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.220.335-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 25.10.2019).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de novembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
