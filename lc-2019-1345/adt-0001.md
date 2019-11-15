@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1º - Fica enquadrada, na referência "Q" do Anexo I da Lei Complementar nº 986, de 29 de dezembro de 2005, a Gratificação de Representação já atribuída aos integrantes da Polícia Militar ou da Polícia Civil do Estado de São Paulo que se encontrem, na data da publicação da presente Lei Complementar, no exercício de suas funções junto às Assistências Policiais Militar ou Civil da Assembleia Legislativa do Estado de São Paulo.
