@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Processual penal. Recurso ordinário em habeas corpus. Sonegação de papel ou objeto de valor probatório. Inadequação da via eleita. Alegação de nulidades. Supressão de instâncias.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. CRIME DESCRITO NO ART. 356 DO CP. PLEITO DE ATIPICIDADE DA CONDUTA. MATÉRIA NÃO DEBATIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+    Agravo regimental improvido.”
+    2. Extrai-se dos autos que a recorrente foi condenada à pena de 6 meses de detenção, em regime aberto, pela prática do crime previsto no art. 356 do Código Penal.
+    3. Interposta apelação pela defesa, o Tribunal Regional Federal da Primeira região negou provimento ao recurso. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Ministro Sebastião Reis Júnior indeferiu liminarmente o writ. Interposto agravo regimental, este foi desprovido.
+    4. Neste recurso ordinário, a defesa sustenta que, “como pode ser constatado a partir da já mencionada cópia integral dos autos da ação penal, a atipicidade da conduta fora veiculada na resposta à acusação, ofertada por defensora dativa, nomeada pelo Juízo Federal de Paracatu-MG, e, de modo mais extenso e fundamentado, pelas alegações finais ofertadas pelos advogados então constituídos pela recorrente. Dela tratou, inclusive, a sentença, reconhecendo-a, porém, apenas em relação a uma das imputações, quando tal reconhecimento deveria ocorrer em relação às duas imputações, posto que em nenhum dos casos foi a requerente regularmente intimada para devolver os autos”.
+    5. A defesa alega que “a decisão recorrida merece ser integralmente reformada, para conceder a ordem de habeas corpus, patente a carência de justa causa para a condenação sofrida pela recorrente, ante a atipicidade da conduta supostamente delituosa que lhe foi imputada; ou, se assim não for entendido, induvidoso que o processo penal contra ela instaurado é manifestamente nulo, porque houve grave deficiência da defesa técnica, com evidente prejuízo à acusada, ou, ainda, porque o julgamento da apelação ocorreu sem que a defesa da paciente, então exercida pela Defensoria Pública da União, fosse regularmente intimada”.
+    Decido.
+    6. O recurso não deve ser provido.
+    7.  Inicialmente, registro que a orientação do Supremo Tribunal Federal (STF) é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. No caso, em consulta à página oficial do Tribunal Regional Federal da Primeira região na internet, verifico que a condenação transitou em julgado em 14.02.2019.
+    8. Não bastasse, a alegação de nulidade por deficiência da defesa da recorrente, bem como de atipicidade, não foi submetida à apreciação do TRF da Primeira Região, nem do STJ, o que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+    9. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 18 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
