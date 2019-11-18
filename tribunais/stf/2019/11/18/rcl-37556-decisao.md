@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Paulo Henrique Barth assevera haver a Segunda Turma Recursal da Fazenda Pública do Estado do Rio Grande do Sul, no processo nº 9004741-72.2017.8.21.0001, olvidado o decidido na ação direta de inconstitucionalidade nº 2.998.
+    Segundo narra, ajuizou em face do Departamento de Trânsito do Estado do Rio Grande do Sul demanda visando a declaração de nulidade de determinadas autuações chamadas “virtuais”, lavradas contra si com alegada base em Resolução do Conselho Nacional de Trânsito – Contran. Realça a procedência do pedido, tendo sido a óptica reformada em recurso inominado. Declaratórios não obtiveram êxito.
+    Sustenta contrariado o paradigma porquanto o Supremo teria conferido interpretação conforme à Constituição ao artigo 161, parágrafo único, do Código de Trânsito Brasileiro para afastar a possibilidade de o Contran estabelecer sanção. Frisa proclamada, na oportunidade, nula a expressão “ou das Resoluções do CONTRAN”, contida na cabeça do dispositivo. Assinala que o precedente alcança as Resoluções nº 404/2012 e 619/2016 do referido Órgão, evocadas nas autuações como base para a imposição das penalidades. Diz que os atos normativos não poderiam criar infrações nem regular o rito respectivo. Discorre sobre os princípios da boa-fé objetiva e da não culpabilidade.
+    Requer, no campo precário e efêmero, seja suspenso o acórdão impugnado e, alfim, cassado, objetivando a declaração de nulidade das autuações.
+    2. Ao apreciar a ação direta de inconstitucionalidade nº 2.998, o Pleno, na sessão de 10 de abril de 2019, entre outras providências, conferiu ao artigo 161, parágrafo único, do Código de Trânsito Brasileiro, interpretação conforme à Constituição, para afastar a possibilidade de o Conselho Nacional de Trânsito – Contran, definir sanção, e assentou a nulidade da expressão "ou das resoluções do CONTRAN" constante da cabeça do dispositivo.
+    A leitura da decisão questionada revela haver a Turma Recursal admitido a existência, no Código de Trânsito Brasileiro, de fundamento legal a respaldar a denominada infração virtual. Uma vez cometido ilícito administrativo alusivo a excesso de velocidade, apurado por meio eletrônico, sem indicação do condutor, entendeu possível a lavratura de auto de infração de trânsito responsabilizando o proprietário, com habilitação suspensa, ante a suposta condução do veículo, mesmo não existindo situação de flagrância. Apesar de citadas, na sanção emitida, resoluções do Contran, concluiu respaldada a autuação em lei formal e material. Confiram o seguinte trecho do pronunciamento atacado, especialmente no tocante ao artigo 257, § 7º, do mencionado Código:
+    […]
+    Ora, a parte autora impugna Auto de Infração de Trânsito lavrado por dirigir sem habilitação, com base no art. 4º, parágrafo 2º da Resolução 404/2012 do CONTRAN, sendo importante ressaltar que a autoridade de trânsito assim age em decorrência de lei expressa, por determinação dos arts. 280 e 281 (inseridos no capítulo DO PROCESSO ADMINISTRATIVO e tratam do dever da aplicação das penalidades previstas no CTB pela autoridade de trânsito) c/c o arts. 162 e 257, §§ 1º, 2º e 7º do CTB (inseridos nos capítulos DAS INFRAÇÕES e DAS PENALIDADES, que prevêem as penalidades e infrações julgadas e aplicadas pela autoridade de trânsito).
+    […]
+    De fato, há observância aos dispositivos legais estabelecidos no Código de Trânsito Brasileiro, em especial ao preceituado no art. 257, Parágrafos 1º, 2º e 7º do referido diploma legal.
+    […]
+    Uma vez não sendo possível a identificação do infrator (por ocasião da infração ter sido capturada por equipamento eletrônico, por exemplo, frise-se, por previsão legal expressa do uso de equipamento eletrônico para a comprovação da infração - art. 280, § 2º do CTB), dentro de 15 (quinze) dias contados a partir da notificação poderá, por parte do principal condutor ou do proprietário, apresentar o responsável pela infração. Transcorrido o prazo, sem tal proceder, a responsabilidade recairá sobre o principal condutor ou, ausente, o proprietário.
+    […]
+    Atentem para a organicidade e a instrumentalidade do Direito. O manuseio da reclamação é excepcional. Pressupõe a usurpação da competência do Supremo ou o desrespeito a decisão por si proferida. Não cabe utilizá-la como sucedâneo recursal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 18 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
