@@ -1,0 +1,24 @@
+DECISÃO:
+    1.  Trata-se de embargos de divergência opostos em 18.09.2019 contra acórdão proferido por maioria de votos pela Primeira Turma do Supremo Tribunal Federal, sob minha relatoria, assim ementado:
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DESRESPEITO A OFICIAL EM SERVIÇO. AMEAÇA E DESACATO A MILITAR. RECEBIMENTO DA DENÚNCIA. FUNDAMENTAÇÃO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL.
+    1.  A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente, o que não é possível nesta fase processual.
+    2. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    3.  Agravo interno a que se nega provimento.”
+    2.  A parte embargante alega que “é possível verificar claramente que, tanto no acórdão recorrido quanto naquele aqui trazido à colação como paradigma, a questão girou em torno da falta de fundamentação na decisão que recebeu a denúncia no processo criminal”. Sustenta que “o caso dos autos Excelências é justamente a ausência de fundamentação o celeuma jurídico. Isso porque, como já sustentado anteriormente, o juízo de instância singela se limitou a “receber a denúncia por estarem preenchidos os requisitos legais”. Aduz como acórdão paradigma da divergência o HC 105.349, da relatoria do Min. Ayres Britto.
+          É o relatório. Decido.
+    3.  Tanto a decisão impugnada como o recurso de embargos datam de período posterior a 18.03.2016, quando entrou em vigor o CPC/2015, razão pela qual lhe são aplicáveis.
+    4.  O presente recurso não deve ser provido. Os embargos de divergência destinam-se à uniformização da jurisprudência interna do Tribunal. O art. 1.043 do CPC/2015 dispõe acerca do cabimento do referido recurso contra acórdão de órgão fracionário que, em recurso extraordinário ou em recurso especial, divergir: (a) do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito; (b) do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+    5.  No caso que ora se trata, a Primeira Turma não adentrou no mérito do recurso extraordinário, em obediência às seguintes orientações do STF:
+          (i) a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente, o que não é possível nesta fase processual.
+          (ii) o STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).
+    6. Desse modo, os presentes embargos de divergência são inadmissíveis, uma vez que não se enquadra nas hipóteses previstas no art. 1.043 do CPC/2015. Precedentes: RE 1.000.662-AgR-EDv, Rel. Min. Luiz Fux; RE 1.057.193-ED-AgR-EDv, Rel. Min. Celso de Mello.
+    7.  Mesmo que superado este óbice, o acórdão indicado como paradigmático da divergência não se mostra apto a tal finalidade.
+    8. Com efeito, a Segunda Turma do STF, ao examinar a HC 105.349, entendeu não ser possível a superação da Súmula 691/STF, tendo em vista que estariam “configurados os requisitos autorizadores da prisão preventiva decretada no bojo da sentença condenatória (parágrafo único do art. 387 do CPP)”. Naquele caso, o paciente foi condenado pela prática do crime de atentado violento ao pudor, tendo sido decretada a sua prisão preventiva.
+    9. No presente caso, o Tribunal de Justiça do Estado de Mato Grosso do Sul manteve sentença que condenou o ora recorrente pela prática dos crimes previstos nos arts. 160, 223, 299 e 177, todos do Código Penal Militar.
+    10.  Assim, tratando-se o HC 105.349 de situação fática e jurídica que não se assemelha à matéria discutida nestes autos, não foi possível à parte embargante desincumbir-se do ônus da demonstração analítica da divergência jurisprudencial, essencial para viabilizar o conhecimento dos seus embargos.
+    11.  A jurisprudência do Supremo Tribunal Federal é firme no sentido de que é dever da parte embargante a demonstração explícita do conflito entre a decisão embargada e o paradigma apontado como divergente. Nessa linha, vejam-se o AI 388.823/MG-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. Ricardo Lewandowski; o AI 767.226/RJ-AgR-EDv-AgR, Tribunal Pleno, Rel.ª Min.ª Cármen Lúcia; e o RE 158.241/DF-EDv-AgR, Tribunal Pleno, Rel. Min. Joaquim Barbosa.
+    12. Diante do exposto, nos termos do art. 335, § 1º, do RI/STF, não admito os embargos de divergência.
+    Publique-se. Intimem-se.
+          Brasília, 18 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
