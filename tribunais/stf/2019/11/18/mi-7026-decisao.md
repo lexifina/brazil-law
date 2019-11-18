@@ -1,0 +1,27 @@
+DECISÃO
+COMPETÊNCIA – MANDADO DE INJUNÇÃO – APOSENTADORIA ESPECIAL – SERVIDOR DISTRITAL – EMENDA CONSTITUCIONAL Nº 103/2019 – DECLINAÇÃO.
+    1. O assessor William Akerman Gomes assim retratou o caso:
+    Welma Maria Gama Ribeiro de Souza busca suprir lacuna legislativa, imputada aos Presidentes da República, da Câmara dos Deputados, do Senado Federal e ao Governador do Distrito Federal, a tornar inviável o exercício do direito à aposentadoria especial considerada limitação física.
+    Sublinha ser professora de educação básica da rede pública de ensino do Distrito Federal. Discorre sobre a deficiência visual que a acomete, a qual teria sido reconhecida, segundo afirma, pela Secretaria de Educação, nos termos da Lei distrital nº 4.317/2009, em 2015.
+    Evoca o disposto no artigo 40, § 4º, inciso I, da Constituição Federal, ressaltando que a falta de lei complementar impede o exercício dos direitos à aposentadoria e à contagem especial do período trabalhado.
+    Requer a aplicação da Lei Complementar nº 142/2013 até a edição de legislação específica a assegurar a implementação dos benefícios. Pede o deferimento da ordem objetivando beneficiar-se de tempo de contribuição reduzido para acesso à inatividade.
+    O Senado Federal alude ao mandado de injunção nº 3.322, em que determinada a observância da citada Lei no tocante aos servidores com deficiência. Sustenta a pertinência do aludido diploma legal no que concerne ao tempo de contribuição posterior à vigência, bem assim a incidência do artigo 57 da Lei nº 8.213/1991 sobre o período anterior. Menciona o decidido no mandado de injunção nº 4.625, relator o ministro Luís Roberto Barroso. Noticia estar em curso, no Congresso Nacional, o Projeto de Lei Complementar nº 454/2014, de iniciativa do Senado Federal, a versar o tema.
+    O Presidente da Câmara destaca a tramitação do referido Projeto de Lei Complementar, cujo objeto se resume à regulamentação de aposentadoria especial de servidor público com deficiência.
+    O Presidente da República, representado pela Advocacia-Geral da União, frisa a ausência de mora legislativa, considerado o Projeto de Lei Complementar nº 454/2014, o qual visa disciplinar a matéria.
+    O Governador do Distrito Federal aduz a própria ilegitimidade passiva e afirma não haver lacuna legislativa, ante a tramitação de projeto de lei.
+    A Procuradoria-Geral da República, sustentando a aplicação analógica da citada Lei Complementar e da Lei nº 8.213/1991 ao que debatido no processo, opina no sentido da procedência parcial do pedido, de forma a assentar-se o direito da impetrante de ter analisada a situação por autoridade administrativa competente observados os diplomas legais.
+    2. A jurisprudência do Supremo firmou-se no sentido de ser apenas dos Presidentes da República, da Câmara dos Deputados e do Senado Federal a legitimidade passiva para o mandado de injunção a versar a aposentadoria especial, ainda que se trate de servidores estaduais ou municipais:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA ESPECIAL. MANDADO DE INJUNÇÃO. IMPETRAÇÃO PERANTE TRIBUNAL ESTADUAL. ILEGITIMIDADE PASSIVA DO GOVERNADOR DO ESTADO E DA ASSEMBLÉIA LEGISLATIVA. LEGITIMIDADE PASSIVA DO PRESIDENTE DA REPÚBLICA . PRECEDENTES. AGRAVO REGIMENTAL PROVIDO.
+    I - O Plenário do Supremo Tribunal Federal decidiu que a norma regulamentadora do direito à aposentadoria especial dos servidores públicos deve ser editada pela União. Enquanto não editada a norma, a legitimidade passiva na impetração do mandado de injunção é do Presidente da República - e não dos Governadores de Estado -, com processamento e julgamento pelo Supremo Tribunal Federal. Precedentes.
+    II - Agravo regimental provido, para dar provimento ao recurso extraordinário e julgar extinto o mandado de injunção por ilegitimidade da autoridade impetrada.
+    (Agravo regimental no recurso extraordinário nº 665.869, Segunda Turma, relator o ministro Ricardo Lewandowski, julgado em 6 de maio de 2014.)
+    A Emenda Constitucional nº 103, de 12 de novembro de 2019, alterou a regência da matéria, incluindo o § 4º-A no artigo 40 da Carta Política, a prever, expressamente, como sempre sustentei, a competência legislativa concorrente de cada ente para estabelecer, mediante lei complementar, idade e tempo de contribuição diferenciados para aposentadoria de servidores com deficiência.
+    A afirmação da respectiva jurisdição no tocante à impetração passa pela definição do ente federado competente para editar norma regulamentadora que viabilize o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.
+    A alteração da competência legislativa importa modificação da legitimação passiva e, por conseguinte, da competência absoluta para análise do pedido, a configurar exceção à perpetuação da jurisdição – artigo 43 do Código de Processo Civil.
+    Figurando, como impetrado, além das autoridades federais, o Governador do Distrito Federal, e de modo a evitar a retomada da marcha processual, com a extinção do processo, surge viável o declínio.
+    Incumbe ao Tribunal de Justiça do Distrito Federal e dos Territórios o exame do mandado de injunção – artigo 8º, inciso I, alínea “e”, da Lei 11.697/2008.
+    3. Ante o quadro, declino da competência.
+    4. Com o trânsito em julgado desta decisão, remetam-lhe o processo.
+Brasília, 18 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
