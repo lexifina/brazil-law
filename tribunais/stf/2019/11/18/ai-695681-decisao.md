@@ -1,0 +1,29 @@
+DECISÃO:
+    De início, afasto o sobrestamento.
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. DIREITO TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTADO EM QUE SE LOCALIZA O ESTABELECIMENTO DESTINATÁRIO DA MERCADORIA. INTELIGÊNCIA DO ART. 11, INCISO I, ALÍNEA "D", DA LC 87/1996. - LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO DA VERDADE DOS FATOS. INOCORRÊNCIA. IMPROCEDÊNCIA DO PEDIDO QUE NÃO PODE SER CONFUNDIDA COM DESLEALDADE PROCESSUAL.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 155, § 2°, IX, a, da CF. Sustenta que o ICMS incidente em importação já fora recolhido junto ao Estado do Paraná, local em que estabelecida a importadora.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “As outras operações ocorreram em agosto e setembro de 2002, sendo importadora a empresa Mercotex do Brasil Ltda, sediada em Maringá, no Paraná, recolhendo em favor daquele estado o valor devido na operação.
+    Nestas operações as mercadorias foram de imediato remetidas à Adar em seu estabelecimento mineiro.
+    Definiu o colegiado que a solução depende do processo de importação, identificando qual é o estabelecimento destinatário da mercadoria, onde ingressou, fisicamente. O verdadeiro importador é quem deve pagar o imposto, não sendo de nenhuma relevância se a importação é feita diretamente ou por intermédio de outrem, importação indireta, consoante dispõe o artigo 155, II, § 2°, IX, ‘a’, da Carta Magna.
+    Assim sendo na primeira operação o ICMS deve ser recolhido a favor do estado do Espirito Santo, pois o estabelecimento capixaba importou e era o destinatário da mercadoria e, não houve prova ou alegação que tenha ocorrido simulação ou fraude.
+    Quanto à importação realizada pela Mercontex, cuja mercadoria foi enviada, no mesmo dia, para Minas Gerais, houve importação mediante intermediação. Sendo certo, consoante documentos apresentados, que a destinatária a final das mercadorias era a ora recorrente. Assim sendo, nestas operações o sujeito ativo do imposto é o Estado de Minas. Sendo irrelevante que tenha sido desembaraçada no Estado Paraense.
+     Tal posicionamento ajusta-se à diretriz jurisprudencial que a corte de destino fixou no exame da controvérsia constitucional suscitada no apelo.
+    A propósito:
+    […]
+    Quanto ao mais, para a inversão da convicção firmada pelo colegiado, consoante busca a recorrente, pressupõe, destarte, o reexame de fatos e provas, atividade cognitiva vedada na via manejada, consoante enunciado 279, da Súmula do STF. Considerando que, tanto a turma julgadora, quanto a recorrente, afirmam que a imposto deve ser recolhido a favor do estado em que estabelecido o importador, ficando a divergência restrita apenas quanto a definição de quem seria o real importador da mercadoria.
+    Nego seguimento ao recurso.”
+    A pretensão recursal não merece prosperar. O acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal, que se consolidou no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS-importação é o Estado em que estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria, pouco importando se o desembaraço aduaneiro ocorreu por meio de ente federativo diverso. Nesse sentido, os seguintes julgados:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ALÍNEA A DO INCISO IX DO § 2º DO ART. 155 DA MAGNA CARTA. ESTABELECIMENTO JURÍDICO DO IMPORTADOR.
+    O sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria (alínea a do inciso IX do § 2º do art. 155 da Carta de Outubro); pouco importando se o desembaraço aduaneiro ocorreu por meio de ente federativo diverso.
+    Recurso extraordinário desprovido.” (RE 299.079, Rel. Min. Ayres Britto)
+    “CONSTITUCIONAL E TRIBUTÁRIO. ART. 155, §2º, IX, DA CONSTITUIÇÃO FEDERAL. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIA E SERVIÇOS ICMS. OPERAÇÕES DE IMPORTAÇÃO. ESTADO APTO AO RECOLHIMENTO. LOCALIZAÇÃO DO ESTABELECIMENTO DESTINATÁRIO, INDEPENDENTEMENTE DO LOCAL DO DESEMBARAÇO ADUANEIRO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 279 DO STF.
+    1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o sujeito ativo do ICMS é o Estado-membro para o qual, efetivamente, destinou-se a mercadoria importada, independentemente do local do desembaraço aduaneiro. 2. Agravo regimental a que se nega provimento.” (RE 460.118-AgR-segundo, Rel. Min. Teori Zavascki)
+    Ademais, dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTABELECIMENTO DESTINATÁRIO. IMPORTAÇÃO INDIRETA. SÚMULA 279/STF. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria. Dissentir das conclusões adotadas pelo Tribunal de origem e concluir acerca da ocorrência, ou não, de importação indireta demandaria o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual (Súmula 279/STF). Agravo regimental a que se nega provimento.” (AI 850.508-AgR, sob a minha relatoria).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
