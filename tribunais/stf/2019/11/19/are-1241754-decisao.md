@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. EXPEDIÇÃO DE CERTIFICADO DE CONCLUSÃO/DIPLOMA DE CURSO SUPERIOR. INDENIZAÇÃO POR DANOS MATERIAL E MORAL. LEGITIMIDADE PASSIVA DA UNIÃO. Conquanto o art. 80 da Lei de Diretrizes e Bases da Educação (Lei n.º 9.394/1996) atribua à União a competência para o credenciamento de instituições de ensino no âmbito dos programas de ensino a distância, em todos os níveis e modalidade de ensino, e de educação continuada, o art. 87, do mesmo diploma legal, que determinou - expressamente e em caráter transitório - ao Distrito Federal, aos Estados, aos Municípios e apenas supletivamente à União, a realização de programas de capacitação para todos os professores em exercício, inclusive com os recursos da educação à distância. Além de não restringir o universo dos destinatários da norma transitória (p.ex., a ‘professores com vínculo empregatício devidamente comprovado’), o art. 87 não referiu a necessidade de autorização federal para as modalidades não presenciais. E era razoável que não fizesse à época, haja vista a urgência na qualificação de um número significativo de profissionais em todo o território nacional até o final da ‘Década da Educação’.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, Constituição. A parte recorrente alega violação aos arts. 22, XXIV; 37, § 6º; e 209 da CF.
+    A pretensão não merece prosperar, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. Precedentes: RE 1.135.863-AgR, Rel. Min. Luiz Fux, Primeira Turma; e RE 1.152.592-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma.
+    Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
