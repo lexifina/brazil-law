@@ -1,0 +1,24 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso e, quanto ao índice de correção monetária incidente sobre a condenação imposta à Fazenda Pública, aplicou a sistemática da repercussão geral (documento eletrônico 6).
+     O embargante sustenta, em síntese, a existência de omissão na decisão recorrida quanto à aplicação do Tema 1.037 da sistemática da Repercussão Geral e à aplicação da modulação dos efeitos das ADI 4.357/DF e 4.425/DF (pág. 2 do documento eletrônico 7).
+    Intimado, o embargado não se manifestou (documento eletrônico 12).
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, verifico assistir razão, em parte, ao embargante.
+    O acórdão recorrido, ao dar parcial provimento à apelação, afastou a incidência de juros moratórios por se mostrar “[...] inviável o respectivo cômputo até a data do depósito” (pág. 238 do volume eletrônico 2). Ou seja, não admitiu a incidência de juros de mora no período compreendido entre a expedição do precatório e a data do pagamento da quantia devida.
+    Contudo, esta Corte reconheceu a repercussão geral da matéria nos seguintes termos:
+    “Possui repercussão geral controvérsia alusiva à incidência dos juros da mora no período compreendido entre a expedição do precatório ou requisição de pequeno valor e o efetivo pagamento” (RE 1.169.289-RG/SC, Tema 1.037, Rel. Min. Marco Aurélio).
+    Assim, os autos devem ser devolvidos à origem para que se aplique a sistemática da Repercussão Geral quanto ao Tema 1.037.
+    Quanto ao mais, não há falar em aplicação da modulação estabelecida no julgamento das ADI 4.357/DF e 4.425/DF, de relatoria do Ministro Luiz Fux.
+    O acórdão recorrido, publicado em 16/5/2014, levou em conta o julgamento daquelas ações de controle concentrado no julgamento da apelação. E o fez nos seguintes termos:
+    “Inicialmente, destaco que, como ainda não houve a modulação dos efeitos nas ADIS 4.357 e 4.425, julgadas pelo Colendo Supremo Tribunal Federal, o Ministro LUIZ FUX, em r. decisão que proferiu no dia 11.04.2013, na ADI 4.357/DF, consignou que ‘a decisão do Plenário do Supremo Tribunal Federal reconheceu a inconstitucionalidade parcial da Emenda Constitucional nº 62/09, assentando a invalidade de regras jurídicas que agravem a situação jurídica do credo do Poder Público além dos limites constitucionalmente aceitáveis. Sem embargo, até que a Suprema Corte se pronuncie sobre o preciso alcance da sua decisão, não se justifica que os Tribunais Locais retrocedam na proteção dos direitos já reconhecidos em juízo. Carece de fundamento, por isso, a paralisação de pagamentos noticiada no requerimento em apreço. Destarte, determino, ad cautelam, que os Tribunais de Justiça de todos os Estado e do Distrito Federal deem imediata continuidade aos pagamentos de precatórios, na forma como já vinham realizando até a decisão proferida pelo Supremo Tribunal Federal em 14/03/2013, segundo a sistemática vigente à época (...)’
+    Dessa forma está em consonância com o que foi decidido por esta Suprema Corte nos julgamento das ADI 4.327/DF e 4.425/DF, ambas de relatoria do Ministro Luiz Fux. A ementa da ADI 4.425-QO/DF explicitou o caráter prospectivo da modulação dos efeitos de sua decisão, nos seguintes termos, naquilo que interessa:
+    “QUESTÃO DE ORDEM. MODULAÇÃO TEMPORAL DOS EFEITOS DE DECISÃO DECLARATÓRIA DE INCONSTITUCIONALIDADE (LEI 9.868/99, ART. 27). POSSIBILIDADE.
+    [...]
+    2. In casu, modulam-se os efeitos das decisões declaratórias de inconstitucionalidade proferidas nas ADIs nº 4.357 e 4.425 para manter a vigência do regime especial de pagamento de precatórios instituído pela Emenda Constitucional nº 62/2009 por 5 (cinco) exercícios financeiros a contar de primeiro de janeiro de 2016.
+    3. Confere-se eficácia prospectiva à declaração de inconstitucionalidade dos seguintes aspectos da ADI, fixando como marco inicial a data de conclusão do julgamento da presente questão de ordem (25.03.2015) e mantendo-se válidos os precatórios expedidos ou pagos até esta data, a saber: (i) fica mantida a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), nos termos da Emenda Constitucional nº 62/2009, até 25.03.2015, data após a qual (a) os créditos em precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E)
+    [...]”
+    Assim, não há omissão quanto a esse ponto.
+    Isso posto, com base no art. 1.024, § 2°, do CPC, acolho parcialmente os embargos de declaração, para reconsiderar a decisão ora atacada e determinar a devolução destes autos à origem a fim de que, quanto ao Tema 1.037 da sistemática da Repercussão Geral, seja observado o disposto nos arts. 1.039, 1.040 e 1.041 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 19 de novembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
