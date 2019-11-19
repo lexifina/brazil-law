@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AÇÃO ORDINÁRIA - PENSÃO PREVIDENCIÁRIA - INTERRUPÇÃO - RELAÇÃO DE EMPREGO - HIPÓTESE DE PERDA DA CONDIÇÃO DE BENEFICIÁRIA - JUÍZO DE RETRATAÇÃO - TEMA N.º 132 DO SUPREMO TRIBUNAL FEDERAL - HIPÓTESE DISTINTA - REVISÃO DO ATO - INOCORRÊNCIA - SANÇÃO ADMINISTRATIVA - AUSÊNCIA - IMPLEMENTAÇÃO DA CONDIÇÃO RESOLUTIVA DA OBRIGAÇÃO PREVIDENCIÁRIA.
+    1. Conforme o julgamento do RE n.º 594.296/MG, ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Se caracterizados nos autos os elementos sobre a existência de relação de emprego da beneficiária de pensão por morte, legalmente considerada condição resolutiva da obrigação previdenciária, a interrupção do pagamento do benefício é cabível e não se apresenta em contrariedade ao julgamento do RE n.º 594.296/MG, por não se verificar a existência de revisão de ato administrativo, nem de imposição de sanção administrativa.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da CF. Sustenta que “a suspensão do pagamento da pensão, comunicada à autora pelo oficio de f. 28, embora precedida de inquérito civil público, não foi procedida do procedimento administrativo pela entidade previdenciária, a fim de oportunizar à requerente o exercício do contraditório e da ampla defesa.”
+    A Presidência do Supremo Tribunal Federal (STF) devolveu o processo ao Tribunal de origem para que fosse aplicado o paradigma de repercussão geral de Tema 138. O Tribunal de origem determinou a devolução dos autos a esta Corte por entender não ser o caso de aplicação do paradigma mencionado.
+    Passo a análise do recurso.
+    O recurso deve ser parcialmente provido. Isso porque o acórdão recorrido não está alinhado à jurisprudência do STF, que, ao julgar o RE 594.296-RG (Tema 138), Rel. Min. Dias Toffoli, reconheceu a repercussão da matéria e firmou o entendimento no sentido de que a administração pública pode rever seus atos ilegalmente praticados, entretanto, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de processo administrativo, assegurado o contraditório e a ampla defesa. Confira-se a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.”
+    A Administração determinou o cancelamento do benefício previdenciário (pensão por morte) recebido pela recorrente sem oportunizar o contraditório e a ampla defesa em processo administrativo.
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso apenas para determinar que o ato administrativo que cancelou o benefício previdenciário da recorrente seja precedido de regular procedimento que lhe assegure o direito ao contraditório e à ampla defesa.
+    Publique-se.
+          Brasília, 19 de novembro de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
