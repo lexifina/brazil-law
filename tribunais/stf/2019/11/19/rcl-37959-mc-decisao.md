@@ -1,0 +1,24 @@
+RECLAMAÇÃO. EXECUÇÃO PENAL. POSSÍVEL VIOLAÇÃO AO ENUNCIADO Nº 56 DA SÚMULA VINCULANTE. FUMUS BONI JURIS NÃO VERIFICADO PRIMO ICTU OCULI. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de reclamação, com pedido de liminar, proposta pelo Ministério Público do Estado do Rio Grande do Sul contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, Processo nº 0190966-80.2018.8.21.7000 (PEC. N.º 118815-1), sob a alegação de descumprimento ao enunciado 56 da Súmula Vinculante do Supremo Tribunal Federal.
+    A inicial aduz que a Sétima Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul desproveu agravo em execução interposto pelo Ministério Público, “mantendo a decisão que concedeu a prorrogação da prisão domiciliar a 33 apenados do regime aberto e semiaberto da comarca de Alegrete”. Aponta como ato reclamado o acórdão que apresenta a seguinte ementa:
+    “AGRAVO EM EXECUÇÃO. DECISÃO QUE CONCEDE A PRORROGAÇÃO DA PRISÃO DOMICILIAR A 33 APENADOS RECOLHIDOS AO ANEXO DO PRESÍDIO DE ALEGRETE. SITUAÇÃO DE RISCO DE DESABAMENTO. AGRAVO IMPROVIDO.
+    A decisão recorrida foi lançada à vista das variáveis que se encontravam postas diante do julgador. Embora a prisão domiciliar não possa ser estendida de maneira irrestrita aos presos do regime semiaberto, não havia alternativa diversa ao magistrado diante da situação precária do prédio em que recolhidos os presos, evitando, assim, que ocorresse o desabamento, que seria ofensivo a bens jurídicos de peso superior. Decisão que merece confirmação, nos limites em que proferida.
+    AGRAVO IMPROVIDO”.
+    O referido decisum foi mantido em sede de embargos de declaração, tendo sido interposto recursos extraordinário e especial pelo Ministério Público do Estado do Rio Grande do Sul.
+    O reclamante alega que “Os acórdãos objeto da presente reclamação violam a Súmula Vinculante n.° 56 dessa Suprema Corte, por confirmarem a decisão que concedeu prisão domiciliar especial a 33 apenados da comarca de Alegrete, deixando de observar, como determina a Súmula Vinculante n° 56, os termos do recente julgado do Supremo Tribunal Federal (RE 641320), no qual restou assentado que, havendo déficit de vagas no regime em que o reeducando deveria cumprir sua reprimenda corporal, deve o juízo da execução adotar as providências alternativas destacadas no referido julgado, especialmente quanto à saída antecipada de outro sentenciado no regime com falta de vagas”.
+    Aduz que “embora a Câmara Julgadora afirme que a decisão cumpre o que prevê a Súmula Vinculante n° 56 do Supremo Tribunal Federal, verifica-se que o colegiado, deixou, sim, de considerar os termos do recente julgado do Supremo Tribunal Federal, já consolidados na esteira da Súmula Vinculante n.º 564 , que estabeleceu as condições nas quais é possível a concessão de prisão domiciliar”.
+    Sustenta que a decisão que favoreceu os apenados não observou o determinado pelo enunciado 56 da Súmula Vinculante do Supremo Tribunal Federal, porquanto teria olvidado “o órgão colegiado a quo, exatamente, sobre a necessidade de a) verificar se os apenados ostentam mérito para serem beneficiados com a prisão domiciliar, mediante análise da natureza do crime praticado, saldo de pena, condições pessoais do apenado e seu comportamento no curso da execução; e b) verificar a possibilidade de antecipar a saída de outros apenados, recolhidos em outras alas ou outros estabelecimentos penais”.
+    Em sede liminar, formula pedido requerendo “a suspensão do acórdão da Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul quanto ao deferimento da prisão”. No mérito, requer “seja julgada procedente a presente reclamação, para que seja afastado, em definitivo, a prisão domiciliar, fazendo-se com que sejam observados os parâmetros estabelecidos no RE 641320/RS”.
+    É o relatório.
+    DECIDO.
+    Não vislumbro, da análise perfunctória dos autos, os requisitos ensejadores para o deferimento da liminar.
+    Com efeito, da leitura do ato reclamado, exsurge que o juízo da execução ordenou a transferência dos presos ao regime de prisão domiciliar em razão do risco de desabamento do prédio onde cumpriam pena. Conforme bem destacou o relator do acórdão impugnado, “não havia ao magistrado solução diversa daquela por ele tomada”.
+    Desta sorte, não se vislumbra, primo oculi, o fumus boni iuris necessário ao deferimento da medida cautelar.
+    Ex positis, INDEFIRO o pedido de liminar.
+    Requisitem-se informações à autoridade reclamada, que deverá prestá-las no prazo de 10 (dez) dias, nos termos do artigo 989, I, do Código de Processo Civil.
+    Em seguida, dê-se vista dos autos ao Ministério Público Federal, para manifestação.
+    Publique-se.
+    Brasília, 19 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
