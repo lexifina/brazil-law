@@ -1,0 +1,18 @@
+RECLAMAÇÃO. ALEGADA AFRONTA À DECISÃO PROFERIDA NO ARE 1.097.851/DF E RE 633.659-RG/SP. PEDIDO DE LIMINAR. AUSÊNCIA DOS PRESSUPOSTOS AUTORIZADORES.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 102, I, “l”, da Constituição Federal, e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Pedro Ernesto Stumm Gonçalves Roriz Mendes Domenici contra ato da Juíza da Terceira Vara de Entorpecentes do Distrito Federal e dos Territórios, que teria descumprido decisões desta Corte exaradas no ARE 1.097.851/DF e RE 635.659-RG/SP.
+    Narra a inicial que o Reclamante foi condenado à pena de 05 (cinco) anos e 06 (seis) meses de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). Aponta que a magistrada sentenciante sopesou a reincidência “pelo fato de ter sido ele condenado anteriormente pelo crime de porte de droga para uso próprio, previsto no art. 28 da Lei 11.343”, com repercussão no recrudescimento da pena e do regime prisional, bem como na impossibilidade de conversão em restritivas de direitos e de reconhecimento da prescrição.
+    A Defesa argumenta que o título condenatório ensejador da reincidência – art. 28 da Lei 11.343/2006 – foi objeto do ARE 1.097.851/DF, de minha relatoria, em que determinada a devolução do feito ao Tribunal de origem dada a existência de repercussão geral no RE 635.659-RG.
+    Sustenta que “ao reconhecer que o tema debatido no agravo de sua relatoria é também tema de repercussão geral previamente reconhecida, ainda, não julgada, determinou a devolução dos autos do agravo em RE ao Juízo de origem, para que aguarde SOBRESTADO, a decisão a ser proferida no Recurso Extraordinário 633.659/SP sobre o tema 506”. Ressalta que “não somente há o reconhecimento de repercussão geral no Recurso Extraordinário 633.659/SP, com natural sobrestamento de todos os feitos que discutem a tipicidade ou não (diante da incompatibilidade vertical com a Constituição Federal) da conduta prevista no art. 28 da Lei 11.343/06, como também há expressa determinação da Relatora no Recurso Extraordinário com Agravo 1.097.851/DF para sobrestamento do feito originário”.
+    Assevera que, no dia 06.8.2019, a autoridade reclamada determinou a expedição de guia de execução da pena do Reclamante, “não respeitando as determinações de sobrestamento do feito, emanadas dessa Excelsa Corte”. Requer, em medida liminar e no mérito, “que a autoridade reclamada se abstenha de descumprir na referida ação penal o sobrestamento determinado por essa Corte, e por consequência se abstenha de impor ao Requerente a execução cogente e imediata de pena”.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pela perda de objeto da reclamação.
+    É o relatório.
+    Decido.
+    Ressalto que, em 14.10.2019, nos autos do HC 148.353/DF, deferi a liminar para suspender a execução da pena do ora Reclamante até o julgamento definitivo do referido habeas corpus.
+    Na esteira do parecer ministerial, ‘com a medida, o Reclamante alcançou o objetivo que moveu ao ajuizamento desta Reclamação, qual seja, impedir a execução provisória da pena que lhe foi imposta, que certamente ficará suspensa até a conclusão do julgamento do RE nº 635.659’.
+    Tendo em vista não mais subsistir o ato reclamado apontado na inicial, fica evidente a perda de objeto do presente feito.
+    Ante o exposto, forte no art. 21, IX, do RISTF, julgo prejudicada a reclamação, extinguindo o processo sem resolução de mérito.
+    Publique-se.
+    Brasília, 19 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
