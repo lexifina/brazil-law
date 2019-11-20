@@ -8,7 +8,7 @@ VI - captação e tratamento de esgoto e lixo;
 VII - telecomunicações;
 VIII - guarda, uso e controle de substâncias radioativas, equipamentos e materiais nucleares;
 IX - processamento de dados ligados a serviços essenciais;
-X - controle de tráfego aéreo e navegação aérea; e
+X - controle de tráfego aéreo e navegação aérea;
 XI compensação bancária.
 XII - atividades médico-periciais relacionadas com o regime geral de previdência social e a assistência social;
 XIII - atividades médico-periciais relacionadas com a caracterização do impedimento físico, mental, intelectual ou sensorial da pessoa com deficiência, por meio da integração de equipes multiprofissionais e interdisciplinares, para fins de reconhecimento de direitos previstos em lei, em especial na Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência); e
