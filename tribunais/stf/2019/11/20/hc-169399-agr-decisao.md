@@ -1,0 +1,17 @@
+Decisão:
+    1. Trata-se de agravo regimental interposto contra decisão de minha lavra, em que neguei seguimento ao habeas corpus, por não identificar teratologia ou flagrante ilegalidade nos fundamentos empregados pelas instâncias antecedentes para impor e manter a prisão preventiva do paciente pela prática do crime de tráfico de drogas.
+    2. Em consulta ao sítio eletrônico do Tribunal estadual, é possível verificar, porém, que já foi prolatada sentença condenatória, o que, inequivocamente, prejudica o julgamento do presente agravo regimental.
+    3. Com efeito, ao tempo em que integrante da Primeira Turma desta Suprema Corte, já adotava a compreensão, prevalecente naquele órgão colegiado, de que a superveniência de sentença condenatória, tal qual decidido no acórdão ora acoimado coator, esvazia o objeto da impetração que se volta contra a decisão que originalmente decretou a custódia preventiva:
+    “A superveniência de sentença penal condenatória que mantém a prisão preventiva anteriormente decretada acarreta a alteração do título prisional e, portanto, prejudica o habeas corpus impetrado em face da prisão antes do julgamento” (HC 121854, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. EDSON FACHIN, Primeira Turma, julgado em 26.04.2016, grifei).
+    No âmbito da Segunda Turma, é bem verdade, passei a adotar posicionamento diametralmente oposto, mas forte no Princípio da Colegialidade, uma vez que vigorava compreensão diversa, no sentido de não se reconhecer o prejuízo do habeas corpus. Assim, à guisa de exemplo, o seguinte julgado sob minha relatoria:
+    “Consoante entendimento da Segunda Turma desta Corte, a sentença superveniente que não altera os fundamentos da prisão processual não acarreta o prejuízo da impetração.” (HC 137728 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 25/04/2017, grifei)
+    Ocorre que a questão foi submetida ao Tribunal Pleno desta Corte e, no bojo do HC 143.333/PR, restou decidido que:
+    “[...] a sentença condenatória superveniente, ainda que não lance mão de fundamentos induvidosamente autônomos e diversos da ordem prisional originária, prejudica a impetração voltada à impugnação do decreto segregatório inicialmente atacado, a ensejar o não conhecimento da impetração. Tal cenário, contudo, não impede o exame da excepcional concessão da ordem de ofício, o que exige configuração de ilegalidade flagrante ou manifesta teratologia” (HC 143.333/PR, Relator(a): Min. EDSON FACHIN, julgado em 12/04/2018, publicado no DJe de 21/03/2019, grifei).
+    Cumpre observar, ademais, porém ainda sob esse viés, que a tutela cautelar prestada na sentença condenatória não integra a cadeia decisória ora atacada, a revelar, nos termos da compreensão firmada pelo Plenário, não apenas o prejuízo do presente recurso mas também a inviabilidade de exame direto por esta Corte dos fundamentos de fato e de direito lançados na sentença, sob pena de se incorrer em supressão de instância. Nesse sentido, à guisa de exemplo:
+    “Prejudica o exame da impetração o título prisional posterior, decorrente de sentença penal condenatória, que apresenta fundamentos não impugnados” (HC 149458/SP, Relator(a) para o acórdão Min. Alexandre de Moraes, Primeira Turma, julgado em 12.03.2019).
+    4. Diante do exposto, com fulcro no artigo 21, IX, RISTF, julgo prejudicado este agravo regimental em habeas corpus, pela perda superveniente do seu objeto.
+    Publique-se e intimem-se.
+    Brasília, 20 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
