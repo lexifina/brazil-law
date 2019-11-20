@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso em habeas corpus, interposto por Edgar Vinicius Lopes da Silva, contra acórdão do STJ, nos autos do HC 527.715/DF.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor de EDGAR VINICIUS LOPES DA SILVA, condenado à pena de 1 ano e 2 meses de detenção, inicialmente no regime semiaberto, como incurso no art. 129, § 9º, do Código Penal – CP (lesão corporal no âmbito doméstico). A impetrante opõem-se ao acórdão do Tribunal de Justiça do Distrito Federal e Territórios que negou provimento à apelação da defesa, sob o argumento de que a condenação anterior do paciente, alcançada pelo período depurador de 5 anos (art. 64, I, do CP), não pode motivar a elevação da pena-base. Requer, assim, a redução da basilar.
+    Dispensadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem:
+    […]
+    É o relatório.” (eDOC 2, p. 38)
+    No STJ, a ordem foi denegada.
+    Nesta Corte, o recorrente requer seja refeita a dosimetria, após afastada a valoração dos antecedentes, em virtude de condenação havida há mais de cinco anos.
+    A PGR opinou pelo desprovimento do recurso. (eDOC 5)
+    É o relatório.
+    Decido.
+    Com efeito, o acórdão proferido pelo Superior Tribunal de Justiça diverge do entendimento desta Corte.
+    Embora a controvérsia esteja submetida à análise em sede de repercussão geral, há jurisprudência de ambas as Turmas desta Corte no sentido de que penas extintas há mais de cinco anos não podem ser valoradas como maus antecedentes:
+    “Habeas corpus. 2. Tráfico de entorpecentes. Condenação. 3. Aumento da pena-base. Não aplicação da causa de diminuição do § 4º do art. 33, da Lei 11.343/06. 4. Período depurador de 5 anos estabelecido pelo art. 64, I, do CP. Maus antecedentes não caracterizados. Decorridos mais de 5 anos desde a extinção da pena da condenação anterior (CP, art. 64, I), não é possível alargar a interpretação de modo a permitir o reconhecimento dos maus antecedentes. Aplicação do princípio da razoabilidade, proporcionalidade e dignidade da pessoa humana. 5. Direito ao esquecimento. 6. Fixação do regime prisional inicial fechado com base na vedação da Lei 8.072/90. Inconstitucionalidade. 7. Ordem concedida.” (HC 126.315, de minha relatoria, Segunda Turma, julgado em 15.9.2015)
+    No mesmo sentido: HC 137.173, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 4.10.2016; HC 128.153, Rel. Min. TEORI ZAVASCKI, Segunda Turma, julgado em 10.5.2016; HC 133.077, Rel. Min. Cármen Lúcia, Segunda Turma, julgado em 29.3.2016.
+    Transcrevo a ementa de julgado da Segunda Turma, de relatoria da Ministra Cármen Lúcia:
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. CONDENAÇÃO TRANSITADA EM JULGADO HÁ MAIS DE CINCO ANOS. IMPOSSIBILIDADE DE UTILIZAÇÃO PARA CARACTERIZAÇÃO DE MAUS ANTECEDENTES. ORDEM CONCEDIDA. 1. Condenação transitada em julgado há mais de cinco anos utilizada nas instâncias antecedentes para consideração da circunstância judicial dos antecedentes como desfavorável e majoração da pena-base. Impossibilidade. Precedentes. 2. Ordem concedida. (HC 133.077, Rel. Min. Cármen Lúcia, Segunda Turma, j. 29.3.2016)
+    Há, inclusive, julgados da Primeira Turma, em que se decidiu, de forma unânime:
+    “Recurso ordinário em habeas corpus. Processual Penal. Interposição contra julgado em que colegiado do Superior Tribunal de Justiça não conheceu da impetração, ao fundamento de ser substitutivo de recurso ordinário cabível. Constrangimento ilegal não evidenciado. Entendimento que encampa a jurisprudência da Primeira Turma da Corte. Precedente. Dosimetria. Fixação da pena-base acima do mínimo legal em decorrência de maus antecedentes. Condenações transitadas em julgado há mais de cinco anos. (…) 2. Quando o paciente não pode ser considerado reincidente, diante do transcurso de lapso temporal superior a cinco anos, conforme previsto no art. 64, I, do Código Penal, a existência de condenações anteriores não caracteriza maus antecedentes. Precedentes. 3. No caso as condenações anteriores consideradas pelas instâncias ordinárias para fins de valoração negativa dos antecedentes criminais do ora paciente ainda não se encontram extintas. 4. Recurso não provido”. (RHC 118.977, Rel. Min. Dias Toffoli, Primeira Turma, j. 18.3.2014)
+    “RECURSO ESPECIAL – REDISCUSSÃO FÁTICA – INADMISSIBILIDADE. Descabe ao Superior Tribunal de Justiça, na via afunilada do especial, revolver matéria fática. ANTECEDENTES – CONFIGURAÇÃO. Decorridos mais de cinco anos desde o cumprimento da pena, o afastamento da reincidência inviabiliza o reconhecimento dos maus antecedentes”. (HC 115.304, Rel. Min. Marco Aurélio, Primeira Turma, j. 26.4.2016)
+    Conforme recentemente assentado pelo eminente Ministro Celso de Mello, “decorrido o período de 05 (cinco) anos referido pelo art. 64, I, do Código Penal, não há como reconhecer nem como admitir que continuem a subsistir, residualmente, contra o réu, os efeitos negativos resultantes de condenações anteriores. Em face disso, mostrar-se-á ilegal qualquer valoração desfavorável, em relação ao acusado, que repercuta, de modo gravoso, na operação de dosimetria penal, tal como sucedeu no caso ora em exame”. (HC-MC 164.028, Rel. Min. Celso de Mello, DJe 22.11.2018)
+    Cito, ainda, recente precedente da Segunda Turma desta Corte, que, em sessão encerrada em 22.2.2019, negou provimento ao agravo regimental da PGR: HC 152.022.
+    Ante o exposto, provejo o recurso para determinar que seja refeita a dosimetria, com a desconsideração, na primeira fase, da valoração negativa das condenações anteriores atingidas pelo art. 64, I, do Código Penal.
+    Comunique-se.
+    Publique-se.
+    Brasília, 20 de novembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
