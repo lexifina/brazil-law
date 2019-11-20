@@ -1,0 +1,19 @@
+DECISÃO
+NULIDADE – RITO PROCESSUAL – INTERROGATÓRIO – PRINCÍPIO DA ESPECIALIDADE.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Plenário do Tribunal de Justiça do Estado do Espírito Santo, em 10 de agosto de 2017, na ação penal nº 0009347-73.2014.8.08.0000, condenou o paciente, Promotor de Justiça com ofício na Quinta Promotoria de Justiça Cível de Colatina/ES, a 1 ano e 9 meses de reclusão, em regime inicial de cumprimento aberto, e ao pagamento de 17 dias-multa, bem assim a 4 meses e 3 dias de detenção, em regime inicial aberto, substituídos por sanções restritivas de direitos, ante a prática, respectivamente, das infrações previstas nos artigos 299, parágrafo único (falsidade ideológica), e 321, parágrafo único (advocacia administrativa), do Código Penal. Deixou de acolher a preliminar alusiva à nulidade decorrente da inobservância do artigo 400 do Código de Processo Penal, uma vez não haver sido o interrogatório do acusado o último ato da instrução. Afirmou que a inversão da ordem das diligências ocorreu em virtude da expedição de carta de ordem visando a inquirição de testemunhas. Aludindo ao artigo 222, parágrafos 1º e 2º, do Código de Processo Penal – aplicável à carta de ordem –, frisou não implicar a expedição de carta precatória a suspensão do processo-crime. Ressaltou ausente demonstração de prejuízo a viabilizar o reconhecimento do vício. Determinou a execução provisória da pena.
+    A Presidência não admitiu recurso especial.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 542.857. O Relator indeferiu o pedido de liminar.
+    O impetrante sustenta configurada nulidade processual, consistente na contrariedade ao versado no artigo 400 do Código de Processo Penal. Assinala que a tomada de depoimento da principal testemunha de acusação, realizada mediante carta de ordem expedida, teria ocorrido em data posterior ao interrogatório do paciente. Reportando-se à natureza do interrogatório como meio de defesa e à necessidade de o acusado, no processo-crime, manifestar-se por último, aponta desrespeitados o contraditório e a ampla defesa. Sublinha haver suscitado, oportunamente, a nulidade.
+    Requer, no campo precário e efêmero, a suspensão, até o desfecho da impetração, da tramitação do agravo em recurso especial nº 1.447.338/ES. No mérito, busca o reconhecimento da nulidade das audiências efetivadas, para que o interrogatório do paciente seja feito somente após as inquirições de testemunhas de acusação e da defesa.
+    Consulta ao sítio do Superior Tribunal de Justiça revelou que o Relator conheceu, em parte, do recurso especial nº 1.447.338/ES e, na parte admitida, proveu-o parcialmente para afastar a execução precoce da sanção. Agravo interno formalizado está pendente de julgamento.
+    A fase é de apreciação da medida de urgência.
+    2. Observem as balizas da impetração. Ante a prerrogativa de foro decorrente do cargo de Promotor de Justiça, o paciente foi condenado em ação penal de competência originária do Tribunal de Justiça do Estado do Espírito Santo, cujo curso possui rito próprio, estabelecido na Lei nº 8.038/1990. O artigo 7º, ainda vigente, prevê o interrogatório como ato inicial. Embora o procedimento comum seja aplicável, subsidiariamente, nos demais processos, o artigo 394, § 2º, do Código de Processo Penal expressamente ressalva as disposições em sentido contrário, consagrando o princípio da especialidade.
+    Dessa forma, considerada a existência de regramento específico a estipular o interrogatório como ato primeiro da instrução, a alegação de nulidade em virtude da inobservância da ordem do artigo 400 do Código de Processo Penal, no que ouvido o acusado antes da testemunha da acusação, mostra-se impertinente.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 20 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
