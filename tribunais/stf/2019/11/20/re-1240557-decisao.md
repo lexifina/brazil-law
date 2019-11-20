@@ -1,0 +1,25 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão, confirmado em sede de Juízo de retratação pelo E. Tribunal de Justiça do Estado de São Paulo teria transgredido os preceitos inscritos nos arts. 5º, “caput”, 37, XV e 39, § 1º, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo observo que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    Com efeito, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Convém assinalar, ainda, que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 1.080/2008), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-  -probatórios e em interpretação de direito local:
+    “A Lei Complementar Estadual nº 1.080/08 implantou ‘Plano Geral de Cargos, Vencimentos e Salários aplicável aos servidores das Secretarias de Estado, da Procuradoria Geral do Estado e das Autarquias, titulares de cargos e ocupantes de funções-atividades expressamente indicados nos Anexos I e II’.
+    Sobre a forma de reenquadramento dos servidores cujas carreiras foram objeto de reestruturação introduzida pelo novel diploma dispôs o art. 2º das Disposições Transitórias:
+    …...................................................................................................
+    Como se vê, o critério foi objetivo e teve por condutor o nível dos vencimentos individualmente auferidos. Resulta ser meramente circunstancial o enquadramento deste ou daquele em um ou outro grau.
+    Apreciando questão idêntica, assentou esta Câmara:
+    O Colendo Supremo Tribunal Federal firmou entendimento no sentido de que o servidor público não tem direito adquirido a regime jurídico e a fórmula de composição da remuneração, desde que respeitado o princípio da irredutibilidade de vencimentos.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por ambas as Turmas desta Suprema Corte:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. LEI COMPLEMENTAR 1.080/2008 DO ESTADO DE SÃO PAULO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.”
+    (ARE 925.907-AgR/SP, Rel. Min. LUIZ FUX)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO FUNCIONAL. PRÉVIA ANÁLISE DA LEI COMPLEMENTAR ESTADUAL N. 1.080/2008. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. DECESSO REMUNERATÓRIO ALEGADO E NÃO COMPROVADO. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 947.950-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 20 de novembro de 2019.
+Ministro CELSO DE MELLO
+Relator
