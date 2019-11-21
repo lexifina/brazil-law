@@ -1,0 +1,14 @@
+DECISÃO
+IMUNIDADE PARLAMENTAR – ARTIGO 53, CABEÇA, DA CONSTITUIÇÃO FEDERAL – INCIDÊNCIA.
+PEDIDO DE EXPLICAÇÕES – INADMISSIBILIDADE – ARTIGO 21, § 1º, DO REGIMENTO INTERNO DO SUPREMO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Caio Salles assim retratou o caso:
+    Os deputados federais Alexandre Frota de Andrade e Luis Felipe Bonatto Francischini formulam, nos termos do artigo 144 do Código Penal, pedido de explicações em face da deputada federal Sâmia de Souza Bonfim. Apontam haver a requerida, em 25 de abril de 2019, quando da abertura dos trabalhos da Sessão da Comissão Especial da Reforma da Previdência, utilizado palavras ofensivas, no que divulgada informação de conteúdo, conforme alegam, sensacionalista, deixando de observar a dignidade e o decoro parlamentar. Reportam-se à afirmação, contida no discurso da requerida, segundo a qual teriam sido liberadas emendas em troca de votos, visando a aprovação da Reforma da Previdência. Sustentam que, ao pronunciar a frase “que todos aqueles que dizem que a nova política na verdade são ‘muuuito’ mais velhos do que aqueles que dizem combater”, a deputada federal fez gesto apontando os requerentes, sugestionando recebimento de dinheiro a título de vantagem indevida. Sublinham caracterizar a fala os delitos de injúria, considerado o desrespeito às honras subjetivas, e difamação, ante a ofensa às reputações. Articulam com o cabimento da causa de aumento da pena prevista no artigo 141 do Código Penal, tendo em vista que os delitos narrados, segundo dizem, foram cometidos, na presença de várias pessoas, contra o Presidente da República e agentes públicos em razão das funções exercidas. Asseveram imprópria a imunidade parlamentar, ante o abuso na liberdade de expressão.
+    Requerem a notificação da Deputada para prestar esclarecimentos sobre as declarações e comprovar, mediante exceção da verdade, o recebimento, pelos requerentes, de vantagem indevida com a finalidade de manifestarem entendimentos.
+    A Procuradoria-Geral da República manifesta-se pelo indeferimento do pedido. Preconiza seja levada em conta a imunidade parlamentar, destacando ter sido o discurso veiculado no Congresso Nacional.
+    2. O pedido de explicações, versado no artigo 144 do Código Penal, constitui medida cautelar voltada a subsidiar eventual ação penal, considerados os crimes de injúria, difamação ou calúnia.
+    As declarações da Deputada Federal, no âmbito de reunião de instalação da Comissão Especial referente à Reforma da Previdência, no exercício do mandato, consubstanciaram manifestação coberta pela imunidade prevista no artigo 53, cabeça, da Constituição Federal, fato a inviabilizar a sequência do pedido de explicações.
+    3. Nos termos do artigo 21, § 1º, do Regimento Interno do Supremo, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 21 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
