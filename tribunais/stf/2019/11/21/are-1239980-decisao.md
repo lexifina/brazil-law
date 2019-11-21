@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de Santa Catarina contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “Mandado de segurança. Sindicato dos Servidores do Poder Judiciário. Auxílio-alimentação. Servidores inativos. Alegação de ilegitimidade do Presidente do Tribunal de Justiça. Inacolhimento. Supressão do benefício sem a observância do contraditório e da ampla defesa. Ilegalidade. Segurança concedida.
+    Ainda que em cumprimento a decisão do Tribunal de Contas do Estado, a redução do valor dos proventos de servidor pela Administração Pública não prescinde do devido processo legal (TJSC, MS n. 2013.085578-0, Rel. Des. Newton Trisotto).”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 71, “caput” e III, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida pela colenda Primeira Turma desta Suprema Corte que, ao julgar o RE 878.114-AgR/SC, Rel. Min. LUIZ FUX, fixou entendimento consubstanciado em acordão assim ementado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORA INATIVA. AUXÍLIO- -ALIMENTAÇÃO. SUPRESSÃO DA VANTAGEM. ATO DA CORTE DE CONTAS ESTADUAL. DECISÃO PROFERIDA NO PRAZO DE 5 ANOS DO RECEBIMENTO DO PROCESSO PARA FINS DE REGISTRO. AUTORIDADE ADMINISTRATIVA QUE ATUA COMO MERA EXECUTORA DA DECISÃO DA CORTE DE CONTAS. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. DESNECESSIDADE DE OBSERVÂNCIA PELO MERO EXECUTOR. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.”
+    Impõe-se observar, ainda, que o entendimento exposto na presente decisão tem sido observado em sucessivas decisões proferidas no âmbito desta Suprema Corte (RE 881.203/SC, Rel. Min. LUIZ FUX – RE 884.417/SC, Rel. Min. ROBERTO BARROSO – RE 893.945/SC, Rel. Min. LUIZ FUX – RE 1.069.942/SC, Rel. Min. ROBERTO BARROSO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da orientação jurisprudencial que esta Suprema Corte firmou quanto à análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, (CPC, art. 932, V, “b”), em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    Publique-se.
+    Brasília, 21 de novembro de 2019.
+Ministro CELSO DE MELLO
+Relator
