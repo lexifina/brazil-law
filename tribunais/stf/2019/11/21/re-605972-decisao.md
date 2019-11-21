@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – DEVIDO PROCESSO LEGAL – PRESTAÇÃO JURISDICIONAL – ADEQUAÇÃO – PROVIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região, reformando entendimento do Juízo, assentou indevido o crédito de Imposto sobre Produtos Industrializados – IPI decorrente da diferença de alíquotas entre a entrada dos insumos e a saída dos produtos, em observância ao princípio da seletividade. Eis a síntese do acórdão recorrido:
+    IPI. CRÉDITO PRESUMIDO. PRINCÍPIO DA NÃO-CUMULATIVIDADE. DIFERENÇAS DE ALÍQUOTAS. IMPOSSIBILIDADE.
+    1. A diferença apurada entre a alíquota devida na operação de entrada dos insumos tributados pelo IPI e aquela incidente sobre o produto final, quando a primeira for menor, não gera crédito do imposto, uma vez que a variabilidade de alíquotas decorre do princípio da seletividade e não simples cálculos aritméticos.
+    2. Precedentes da 1ª e 2ª Turmas desta Corte.
+    3. Apelo e remessa oficial providos.
+    No extraordinário, a recorrente aponta violados os artigos 5º, incisos LIV e LV, 93, inciso IX, 153, inciso IV, § 3º, inciso II, e 150, inciso I, da Constituição Federal. Sustenta nula a decisão atacada, ante a negativa de prestação jurisdicional. Conforme argui, nada obstante a interposição de embargos de declaração, houve equívoco do Colegiado de origem quanto à matéria objeto do processo. Diz estar em jogo a compatibilidade, com o princípio da legalidade tributária, do artigo 4º da Instrução Normativa nº 33/1999, da Receita Federal, no que vedada a compensação de saldos credores de IPI, gerados em momento anterior à vigência da Lei nº 9.779/1999, com os demais tributos administrados pela Receita Federal, na forma do artigo 11 do referido diploma legal. Assinala erronia na prolação do acórdão recorrido, porquanto, conforme salienta, o Tribunal de origem teria se pronunciado sobre controvérsia distinta – existência, ou não, de crédito presumido de IPI decorrente da diferença entre a alíquota de entrada de insumos e a alusiva à saída dos produtos finais.
+    2. Cumpre reafirmar que prestação jurisdicional aperfeiçoada é a completa, em consonância com o previsto no artigo 93, inciso IX, da Carta da República. O respeito ao devido processo legal é a base maior, é medula, para conferir-se eficácia à decisão.
+    Silente o Tribunal local, a recorrente insistiu, mediante a protocolação de sucessivos embargos de declaração, na alegação de equívoco no exame da questão, bem assim na necessidade de manifestação do Tribunal acerca da compatibilidade, com o princípio da legalidade, da Instrução Normativa nº 33/1999, da Secretaria da Receita Federal. O colegiado reiterou o debate em relação a tema diverso, deixando de emitir entendimento sobre o veiculado nos recursos. Há descompasso entre o decidido no acórdão atacado e a matéria em discussão desde a origem.
+    3. Conheço do extraordinário e o provejo para anular a decisão relativa à apelação e aos declaratórios, determinando que se proceda a novo julgamento, enfrentando o conflito de interesses retratado no processo.
+    4. Publiquem.
+Brasília, 21 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
