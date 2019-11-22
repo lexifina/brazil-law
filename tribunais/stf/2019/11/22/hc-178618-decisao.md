@@ -1,0 +1,19 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Guilherme Gilbertoni Anselmo e outros em favor de Cleomar Leite da Silva, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 542.027/SP.
+    O Juízo de Direito da 1ª Vara Criminal da Comarca de Taquaritinga/SP condenou o paciente à pena de 05 (cinco) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, tipificado no art. 12, c/c art. 18, i, ambos da Lei 6.368/76.
+    Após o trânsito em julgado do título condenatório, a Defesa manejou pedido de revisão criminal junto ao Tribunal de Justiça, que indeferiu a medida liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), indeferiu liminarmente o HC 542.027/SP. Ato contínuo, a Corte Superior negou provimento ao agravo regimental interposto pela Defesa.
+    No presente writ, os Impetrantes pugnam pelo afastamento da Súmula 691/STF. Sustentam a retroatividade da lei penal mais benéfica. Apontam que ‘o crime supostamente praticado pelo paciente, constante na denúncia ministerial, na pior das hipóteses, se enquadra no artigo 33, parágrafo 3º, ou, quiçá, no artigo 33, parágrafo 2º, da Lei 11.343/2006, mas jamais ao crime previsto no ar. 12 da Lei 6.368/76’. Requerem, em medida liminar, o direito de o paciente aguardar em liberdade o julgamento de mérito deste habeas. No mérito, pleiteiam o redimensionamento da pena.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+    I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+    II - A insurgência acerca da dosimetria não foi objeto de apreciação pela Corte local, na medida em que o pedido de revisão criminal ainda não foi julgado. Nesse compasso, considerando que o Tribunal de origem não se pronunciou sobre os temas constante na inicial, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Agravo regimental desprovido”.
+    Consoante o Superior Tribunal de Justiça, ‘A insurgência acerca da dosimetria não foi objeto de apreciação pela Corte local, na medida em que o pedido de revisão criminal ainda não foi julgado. Nesse compasso, considerando que o Tribunal de origem não se pronunciou sobre os temas constante na inicial, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância’.
+    Nesse contexto, ressalto que à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 22 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
