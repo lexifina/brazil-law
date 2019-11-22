@@ -1,0 +1,30 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Furto qualificado. Dosimetria da pena. Regime inicial. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 511.285, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 155, § 4º, II, do Código Penal, à pena de 4 anos e 1 mês de reclusão, em regime semiaberto, e 18 dias-multa.
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo. Em seguida, sobreveio impetração de HC no Superior Tribunal de Justiça. O Relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), não conheceu do writ.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que o “Paciente vem sofrendo constrangimento ilegal desde sua condenação, pois a aplicação da pena, mais precisamente na terceira fase a MM. Juíza exacerbou a pena em 1/2, em razão da continuidade delitiva devido à grande quantidade de delitos cometidos”.
+    5. Prossegue a narrativa para alegar que “o paciente preencheu todos os requisitos para que suas reprimendas fossem fixadas no mínimo legal e ainda, que o regime imposto fosse o mais brando, conforme determinado por lei”.
+    6. A defesa requer “seja aplicada a pena no mínimo legal, com abrandamento do regime inicial e a substituição da pena privativa de liberdade por restritiva de direitos”.
+    Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. Não é caso de concessão da ordem de ofício.
+    10. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. Ademais, o STF tem entendimento no sentido de que a existência de circunstâncias judiciais desfavoráveis justifica a fixação da pena-base em patamar acima do mínimo legal (RHC 117.806, Redator p/o acórdão o Ministro Edson Fachin; HC 124.250, Rel. Min. Teori Zavascki; HC 122.344, Relª. Minª. Rosa Weber).
+    12. Na hipótese de que se trata, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento do pleito defensivo. Transcrevo, nesse sentido, as seguintes passagens do acórdão estadual:
+    “[...] As penas não comportam modificação.
+    A pena de partida foi moderadamente fixada em 1/6 acima do mínimo legal, em 2 anos e 4 meses de reclusão e 11 diasmulta, em razão do alto prejuízo causado à vítima - R$ 31.242,55.
+    Na segunda fase, respeitado o posicionamento do ilustre Procurador de Justiça, correto o aumento em razão da circunstância agravante prevista no artigo 61, inciso II, alínea ‘g’, do Código Penal (violação de dever inerente a cargo, ofício ou profissão), perfazendo a reprimenda, assim, 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa. Referindo-se o dispositivo não somente a abuso de poder ou cargo, mas também a ofício, ministério ou profissão, aplica-se tanto a funcionários públicos como particulares. Aliás, a norma se assemelha à majorante do artigo 168, § 1º, inciso III do Código Penal, que se aplica a particulares.
+    Por fim, inalterável o aumento de 1/2 oriundo da continuidade delitiva, porquanto foram várias as subtrações, conforme apurou-se.
+    […].”
+    13. Quanto ao mais, reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Contudo, no caso, o Tribunal de origem manteve o regime inicial mais rigoroso, bem como a não substituição da reprimenda, sob o fundamento de que “as circunstâncias do delito furto qualificado, à empresa empregadora e o alto prejuízo causado não lhe favorecem”. De modo que, no ponto, também não verifico ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem.
+    14. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 22 de novembro de 2019.
+Ministro Luís Roberto Barroso
+          Relator
