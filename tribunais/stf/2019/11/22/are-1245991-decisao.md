@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. CIRCUNSTÂNCIA ATENUANTE GENÉRICA. TEMA 158 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “APELAÇÃO CRIMINAL. DELITO DE ROUBO MAJORADO (ART. 157, PARÁGRAFO 2º, INCISOS I E II, DO CP). RECURSO EXCLUSIVO DA DEFESA. PRELIMINAR DE NULIDADE DA SENTENÇA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADA. INEXISTÊNCIA DE OFENSA AO ARTIGO 93, IX DA CF. PLEITO DE ABSOLVIÇÃO. FUNDAMENTAÇÃO NA AUSÊNCIA DE PROVA. INACOLHIDO. CONJUNTO PROBATÓRIO SUFICIENTE A ENSEJAR A CONDENAÇÃO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO REO. PALAVRA DA VÍTIMA. RECONHECIMENTO JUDICIAL PROMOVIDO PELA VÍTIMA. CONDENAÇÃO MANTIDA. PEDIDO DE AFASTAMENTO DA MAJORANTE PREVISTA NO ARTIGO 157, § 2º, INCISO I, DO CP. DESCABIMENTO. PRESCINDIBILIDADE DA APREENSÃO E PERÍCIA DA ARMA. DEPOIMENTOS DAS VÍTIMAS COMPROVAM O EMPREGO DE ARMA DE FOGO . PRECEDENTES DO STJ E DESTA CORTE. DOSIMETRIA. REDUÇÃO DO PATAMAR APLICADO PELO RECONHECIMENTO DAS MAJORANTES SEM DEVIDA FUNDAMENTAÇÃO. ACOLHIDO. FIXAÇÃO DO PATAMAR PARA O MÍNIMO (1/3 – UM TERÇO). ENTENDIMENTO SEDIMENTADO PELO STJ. PENA DEFINITIVA REDUZIDA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PARCIAL ACOLHIMENTO. VALOR FIXADO PELO JUÍZO DE PRIMEIRO GRAU QUE REVELA-SE DESPROPORCIONAL FRENTE A TABELA DA OAB/SE E DIANTE DA ATUAÇÃO TÉCNICA DA DEFENSORA DATIVA. HONORÁRIOS MAJORADOS PARA R§ 4.000,00 (QUATRO MIL REAIS). RECURSO CONHECIDO E PARCIALMENTE PROVIDO”.
+    2. Inadmitiu-se o recurso extraordinário pela ausência de ofensa constitucional direta e pela necessidade de análise das provas.
+    3. O agravante alega ter o Tribunal de origem contrariado o inc. XLVI do art. 5º da Constituição da República.
+    Argumenta que “não houve qualquer restrição pelo legislador quanto à fixação da pena abaixo do mínimo legal, quando prevista circunstância atenuante” (fl. 5, doc. 10).
+    Sustenta que “o posicionamento adotado pelo STF e adotado pelo STJ, por meio da súmula 231, ao não aplicar as atenuantes constatadas nos autos sob o fundamento de que a pena provisória, fixada na segunda fase da dosimetria penal não pode ficar aquém do mínimo legal, é inconstitucional, por verdadeira afronta à garantia constitucional da individualização da pena, consagrada no art. 5º, inciso XLVI, da CF/88” (fl. 6, doc. 10).
+    Este o teor dos pedidos:
+    “EX POSITIS, espera o Recorrente, o acatamento das razões expostas e em consequência que seja PROVIDO O RECURSO, para reconhecer a completa violação ao princípio da individualização da pena (art. 5º, inciso XLVI, da CF) e, por consequência, reconhecer inconstitucionalidade da súmula nº 231 do STJ, para se aplicar o redutor atinente à atenuante de menoridade relativa, fixando-se a pena-base aplicada na primeira fase da dosimetria, abaixo do mínimo, por ser reflexo da mais LÍDIMA JUSTIÇA!”.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. Ao julgar o mérito do Tema 158 da repercussão geral, este Supremo Tribunal reafirmou jurisprudência no sentido de que “circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal”:
+     “EMENTA: AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal” (RE n. 597.270 QO-RG, Relator o Ministro Cezar Peluso, DJe 5.9.2009).
+    O acórdão recorrido harmoniza-se com essa orientação jurisprudencial, nada havendo a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de novembro de 2019.
+ Ministra CÁRMEN LÚCIA
+Relatora
