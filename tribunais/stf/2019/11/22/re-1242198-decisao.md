@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Antonia Furtado Pereira Teixeira. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, LIV e LV, 40, § 4º, e 60, § 4º, IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não prospera a insurgência pelo prisma dos incisos XXXVI, LIV e LV do art. 5º da Carta Política, consagradores dos princípios da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, bem como ao devido processo legal, ao contraditório e à ampla defesa, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.8.2013, assim ementado:
+    "Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    De mais a mais, não há falar em afronta ao preceito constitucional indicado nas razões recursais (art. 40, § 4º, da Constituição Federal), porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Lei nº 12.582/1996), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO STF. ISONOMIA. IMPOSSIBILIDADE. SÚMULA N. 339 DO STF. 1. Para dissentir-se do acórdão impugnado seria necessária a análise da legislação local que disciplina a espécie. Incide o óbice da Súmula n. 280 do STF. 2. A jurisprudência do STF fixou entendimento no sentido de que "[n]ão cabe ao Poder Judiciário, que não tem função legislativa aumentar vencimentos de servidores públicos, sob fundamento de isonomia". Incidência do óbice da Súmula 339 do STF. Precedentes. Agravo regimental a que se nega provimento” (RE 464800 AgR, Relator(a):  Min. Eros Grau, Segunda Turma, julgado em 17.6.2008, DJe-142 DIVULG 31.7.2008 PUBLIC 1º.8.2008 EMENT VOL-02326-06 PP-01262).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. LEI ESTADUAL N. 12.582/96. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 481669 AgR, Relator(a):  Min. Cármen Lúcia, Primeira Turma, julgado em 03.02.2009, DJe-048 DIVULG 12.3.2009 PUBLIC 13.3.2009 EMENT VOL-02352-06 PP-01128).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
