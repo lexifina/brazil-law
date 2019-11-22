@@ -1,0 +1,32 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Ednardo Mota de Oliveira Santos em favor de Douglas Cesario Claudio, contra decisão monocrática da lavra do Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 544.589/RJ.
+    O paciente foi preso preventivamente pela suposta prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006).
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio de Janeiro, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Antonio Saldanha Palheiro, indeferiu liminarmente o HC 544.589/RJ.
+    No presente writ, a Defesa argumenta, em síntese, falta de fundamentação idônea da prisão preventiva. Sustenta ilegalidade da prisão ante a utilização indevida de algemas na audiência de custódia. Alega excesso de prazo para formação da culpa, preso o paciente desde 19.11.2018. Aduz demora no julgamento de habeas corpus impetrado perante a Corte Estadual. Ressalta existência de circunstâncias favoráveis ao paciente, como residência fixa e ocupação lícita, além da inexistência de provas de sua dedicação ou integração à organização criminosa. Requer, em medida liminar e no mérito, a revogação do decreto prisional e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...)
+    O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+    A propósito:
+    (…)
+    A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+    Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+    Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+    Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.”
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte para indeferir liminarmente a impetração. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual houvera indeferido liminar em habeas corpus impetrado naquela Corte Estadual.
+    Ao indeferir o pedido liminar, o Tribunal de Justiça não vislumbrou presentes requisitos a justificarem a imediata soltura do Paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Da decisão singular, a Defesa manejou habeas corpus originário no Superior Tribunal de Justiça e, ante a negativa de seguimento, impetrou novo writ, desta feita no Supremo Tribunal Federal. Constato, pois, não ter sido esgotada a jurisdição da Corte Superior, na medida em que o ato impugnado é decisão monocrática extintiva do writ, e não o resultado de julgamento colegiado.
+    Cumpriria à Defesa, pretendendo a reforma da decisão monocrática, ter aviado agravo regimental para que a questão fosse apreciada pelo órgão colegiado do STJ (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    As teses defensivas pertinentes ao excesso de prazo para formação da culpa e à demora no julgamento do writ pela Corte Estadual não foram objeto de apreciação na decisão hostilizada, a inviabilizar a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Por outro lado, a razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto, até porque a melhor compreensão do princípio constitucional aponta para processo sem dilações indevidas, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    De acordo com a Corte Estadual, ‘das informações prestadas pela autoridade reputada coatora, extrai-se que o constrangimento ilegal alegado não se mostra claramente delineado, estando a exigir um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo’. Além disso, em consulta ao sítio eletrônico disponibilizado pela Corte Estadual, nos autos do Processo 0274421-42.2018.8.19.0001, verifico que o interrogatório do réu está designado para o dia 03.12.2019.
+    A jurisprudência deste Supremo Tribunal Federal é no sentido de que “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 180.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Nesse contexto, nada colhe o alegado excesso de prazo para formação da culpa, porquanto inexistente ‘situação anômala que compromete a efetividade do processo’ ou ‘desprezo estatal pela liberdade do cidadão’ (HC 142.177/RS, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.9.2017).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
