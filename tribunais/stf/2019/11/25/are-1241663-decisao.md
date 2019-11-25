@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de sentença prolatada pelo Juizado Especial Fazendário e mantida pela Turma Recursal Fazendária do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “Acordam os Juízes que compõem a Primeira Turma Recursal Fazendária, por unanimidade de votos, em conhecer do recurso e negar-lhe provimento, para manter a sentença por seus próprios fundamentos. Ausente condenação nas despesas processuais ante a isenção legal prevista no art. 17, IX, da Lei 3.350/99. Sem honorários na forma do verbete 421 da súmula do STJ ” (eDOC 3, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 1º inciso III; 5º, incisos XXXV, LIV e LV; 196 e 197, do texto constitucional.
+    Nas razões recursais, alega-se que a recorrente necessita do procedimento cirúrgico com urgência afim de ver resguardada sua saúde psicológica e sua dignidade. (eDOC 6, p. 8)
+    Aduz, ainda, que a permanência na fila de espera “resulta de desídia do poder público em concretizar os direitos sociais da população“. (eDOC 6, p. 9).
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a recorrente já se encontra cadastrada em lista de espera para realização do procedimento cirúrgico. Além disso, diante da ausência de elemento probatório que indique urgência na execução da cirurgia de transgenitalização, o tribunal consignou pela improcedência do pedido.
+     Nesse sentido, extrai-se o seguinte trecho da sentença integralmente mantida pelo acórdão impugnado:
+    “De fato, restou incontroverso, pelos documentos que instruem a inicial a necessidade da parte autora da realização da cirurgia de transgenitalização e do tratamento adequado a sua enfermidade (CID 10F64).
+    (…)
+    Contudo, da análise dos documentos acostados aos autos, apesar da autora apresentar diagnóstico de transtorno de identidade de gênero, constata-se, conforme a resposta de ofício às fls. 119/120, que esta já se encontra cadastrada em "lista de espera", para a realização da cirurgia no HUPE-UERJ e a referida lista possui 89 (oitenta e nove) candidatos inscritos e não há estima de tempo para a autora ser operada.
+    (…)
+    Por oportuno, vale destacar que os documentos médicos trazidos aos autos pela parte autora, às fls. 27/28 e 31, apenas relatam a indicação/autorização ao procedimento cirúrgico, diante do diagnóstico de disforia de gênero - CID 10 F64, conquanto não há nenhuma prova ou elemento de prova que aponte para a necessidade de tal intervenção com urgência, que justifique à preferência na "Lista de Espera". Não tendo tais informações o condão de demonstrar a responsabilidade do réu, ou mesmo de da obrigatoriedade na realização do referido procedimento, através da rede privada ou mesmo situação que indique o sequestro de valores.
+    (…)
+    Feitas tais considerações, a despeito dos documentos que acompanham a inicial, entendo que o fato constitutivo do direito invocado não se encontra devidamente comprovado, ônus que competia a parte autora, nos termos do artigo 373, I, do NCPC, razão pela qual a improcedência que se impõe.” (eDOC 1, p. 2-6)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “EMENTA DIREITO ADMINISTRATIVO. PROCEDIMENTO CIRÚRGICO. URGÊNCIA NÃO DEMONSTRADA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, III, 5º, CAPUT, I, V e X, 6º, 37, § 6º, 194, PARÁGRAFO ÚNICO, I, 195, 196, 197 e 198, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE 1141648, Relator(a): Min. Rosa Weber, Primeira Turma, DJe: 28.09.2018)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo e Constitucional. Saúde. Cirurgia a ser realizada pelo Sistema Único de Saúde. 3. Inexistência de urgência a justificar a prioridade do procedimento cirúrgico pleiteado. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”
+(ARE 943547, Relator(a): Min. Gilmar Mendes, Segunda Turma, DJe 02.06.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de novembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
