@@ -1,0 +1,35 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AÇÃO DE COBRANÇA PROPOSTA POR ASSOCIAÇÃO DE MORADORES. TAXA DE CONSERVAÇÃO DE LOTEAMENTO INADIMPLIDA PELO RÉU. IMÓVEL ADQUIRIDO APÓS A CRIAÇÃO DA ASSOCIAÇÃO, CUJO ESTATUTO JÁ PREVIA O DEVER DE PAGAMENTO DA MENSALIDADE. ADESÃO DO REQUERIDO À ENTIDADE ASSOCIATIVA, INCLUSIVE COM PAGAMENTO INICIAL DA TAXA. PEDIDO PROCEDENTE. MATÉRIA JULGADA EM RECURSO REPETITIVO PELO C. STJ. SENTENÇA MANTIDA.
+    RECURSO DESPROVIDO.”
+    A parte recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Convém assinalar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido nesta sede recursal, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, sustentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “Como se sabe, a questão envolvendo a cobrança, por associações de moradores, de taxa de manutenção de loteamento, foi enfrentada pelo E. Superior Tribunal de Justiça, em julgamento sob o rito dos recursos repetitivos (artigo 543-C do CPC), que confirmou a tese já adotada por este Relator, no sentido de que ‘As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou os que a elas não anuíram’ (REsp nº 1280871/SP – 2011/0189659-), Rel. Min. Ricardo Villas Boas Cueva, j. Em 13.03.2015).
+    Portanto, em linhas gerais, a cobrança só é legítima se o proprietário for associado ou de alguma forma tiver aderido à associação, circunstância esta presente no caso dos autos.
+    O apelante adquiriu o imóvel quando a associação já estava criada, com previsão estatutária de cobrança de taxa de conservação.
+    O recorrente, inclusive, chegou a pagar o valor inicialmente cobrado (R$ 50,00), mas com o aumento das mensalidades, deixou de adimplir sob a alegação de liberdade de não se associar.
+    Inequívoca, pois, a adesão do proprietário à associação, de modo que legítima a cobrança.
+    Como bem observou o Magistrado:
+    ‘Incontroverso restou nos autos que o réu é proprietário do Lote 06 – Quadra G, situado junto ao Condomínio-autor (Loteamento Residencial Recanto do Rio Pardo), localizado na cidade de Jardinópolis SP, portanto, devido o pagamento das parcelas condominiais na proporção de sua fração ideal.
+    Ademais, ainda que considerado irregular o referido condomínio, tal não isenta parte ré de suas obrigações haja vista que além de proprietário usufrui todas as benfeitorias existentes, portanto, tem o dever legal de contribuir para as despesas de manutenção e conservação do condomínio.
+    (…)
+    Outrossim, também se verifica da dita Assembleia realizada várias propostas de melhorias internas no condomínio, o que com certeza acaba beneficiando o próprio autor inadimplente.
+    Portanto, ainda que considerado irregular o dito condomínio, tal não exime o suplicado de suas responsabilidades. Ademais, se trata de documento escrito no qual se estipulam os direitos e deveres de cada um dos condôminos, portanto, a taxa nele estipulada uma vez aprovada por maioria absoluta, passa a ser devida mesmo àqueles que a ela (Assembleia) não compareceram, visto que aprovada com presença maciça de moradores.
+    Outrossim, não nega suplicado em momento algum a dita inadimplência, até porque reconhece ser proprietário de um imóvel participante do referido condomínio, além de estar ciente das contratações feitas e das tarifas cobradas e não adimplidas.
+    Parte autora goza, portanto, de total legitimidade para cobrar do suplicado o que for devido em relação ao rateio, vez que parte ré além de proprietário usufrui todos os benefícios e serviços que são prestados pelo Condomínio-autor’ (fl. 189 e 190).”
+    Impõe-se destacar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.038.177/DF, Rel. Min. MARCO AURÉLIO – ARE 1.201.329/RS, Rel. Min. LUIZ FUX – RE 1.181.232/SP, Rel. Min. ALEXANDRE DE MORAES – RE 1.237.149/SP, Rel. Min. GILMAR MENDES, v.g.):
+    “Agravo regimental no agravo de instrumento. Civil. Cobrança. Despesas com prestação de serviços efetuados por associação de moradores. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. O Tribunal de origem concluiu no sentido da possibilidade da cobrança de despesas relativas à manutenção, conservação, segurança e melhoramentos das áreas comuns de associados e não associados, que usufruíram da prestação de tais benefícios, a fim de evitar enriquecimento sem causa da agravante.
+    2. Para ultrapassar esse entendimento seria necessário interpretar a legislação infraconstitucional e reexaminar o conjunto fático-probatório, o que é inviável em recurso extraordinário. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Agravo regimental não provido.”
+    (AI 686.567-AgR/RJ, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 25 de novembro de 2019.
+Ministro CELSO DE MELLO
+Relator
