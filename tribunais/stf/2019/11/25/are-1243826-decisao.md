@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. REINTEGRA. REDUÇÃO DO BENEFÍCIO. AUMENTO INDIRETO DE TRIBUTO. ANTERIORIDADE NONAGESIMAL.
+    1. A redução dos percentuais relativos ao benefício do REINTEGRA, implementada por Decreto, implicou aumento indireto de tributo, exigindo a observância ao princípio da anterioridade nonagesimal.
+    2. Não existe direito adquirido que proteja a confiança do contribuinte a determinado regime tributário, de maneira que as alíquotas do benefício poderiam ser reduzidas, dentro dos limites da lei, desde que respeitada a anterioridade nonagesimal.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 195, § 6°, da CF. Sustenta, em essência, que não aplica a anterioridade nonagesimal ao REINTEGRA.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “O recurso não merece prosseguir, tendo em conta que o acórdão ora impugnado harmoniza-se com os precedentes do egrégio Supremo Tribunal Federal, a seguir transcritos (grifei):
+    […]
+    Ante o exposto, não admito o recurso extraordinário.”
+    A pretensão recursal não merece prosperar. O acórdão recorrido está alinhado com a jurisprudência desta Corte, que, no julgamento da ADI 2.325/DF, Rel. Min. Marco Aurélio, decidiu no sentido de que não apenas a majoração direta de tributos atrai a eficácia da anterioridade nonagesimal, mas também a majoração indireta decorrente de revogação de benefícios fiscais.
+    A questão foi apreciada pela Primeira Turma e o entendimento firmado foi no sentido da necessidade de observância da anterioridade, como se vê das ementas dos julgados:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O acórdão recorrido encontra-se em harmonia com a jurisprudência do Supremo Tribunal Federal, no sentido de ser imperativa a observância do princípio da anterioridade, geral e nonagesimal (art. 150, III, b e c, da Constituição Federal), em face de aumento indireto de tributo decorrente da redução da alíquota de incentivo do Regime Especial de reintegração de Valores Tributários para as Empresas Exportadoras (reintegra). 2. Nesse sentido, o RE 964.850 AgR, desta 1ª Turma, Relator o ilustre Min. MARCO AURÉLIO, julgado em 8/5/2018; e o RE 1.081.041 AgR, 2ª Turma, Relator o ilustre Min. DIAS TOFFOLI, DJe de 27/4/2018. 3. Agravo Interno a que se nega provimento. Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.” (RE 1040084 AgR, Rel. Min. Alexandre de Moraes)
+    “reintegra DECRETOS Nº 8.415 E Nº 8.543, DE 2015 BENEFÍCIO REDUÇÃO DO PERCENTUAL ANTERIORIDADE PRECEDENTES. Promovido aumento indireto de tributo mediante redução da alíquota de incentivo do Regime Especial de reintegração de Valores Tributários para as Empresas Exportadoras reintegra, cumpre observar o princípio da anterioridade, geral e nonagesimal, constante das alíneas b e c do inciso III do artigo 150 da Constituição Federal. Precedente: medida cautelar na ação direta de inconstitucionalidade nº 2.325/DF, Pleno, relator ministro Marco Aurélio, acórdão publicado no Diário da Justiça de 6 de outubro de 2006.” (RE 964850 AgR, Rel. Min. Marco Aurélio)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 25 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
