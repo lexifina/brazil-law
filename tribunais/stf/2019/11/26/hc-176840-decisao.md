@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por José Custódio dos Santos Neto e outro, contra decisão proferida pelo Ministro Nefi Cordeiro, do Superior Tribunal de Justiça, que concedeu efeito suspensivo ao REsp 1.723.140/SP.
+    Narram os impetrantes que a paciente se encontra presa desde 15.9.2014, pela suposta prática dos delitos descritos no art. 121, §2º, V (homicídio qualificado), e pelo art. 157, §2º, I e II (roubo duplamente majorado).
+    Após decisão de pronúncia, a defesa manejou Recurso em Sentido Estrito, ao qual se negou provimento, em acórdão assim ementado:
+    “Recurso em Sentido Estrito - Homicídio qualificado - Pronúncia - Recurso defensivo - Preliminar de nulidade - Arguição de excesso de linguagem - Inocorrência - Não manifestada certeza da autoria, mas tão somente a certeza de que há indícios suficientes de autoria - Preliminar de suspeição do magistrado afastada por consequência – Preliminares afastadas - Mérito - Prova da materialidade – Indícios suficientes da autoria - Animus necandi- Não comprovada a ausência do dolo, única forma de desclassificar a conduta - Palavra da recorrente contra as palavras dos policiais militares - Dúvida a ser dirimida pelo Conselho de Sentença - Qualificadora do crime ter sido praticado para garantir a impunidade dos roubos pretéritos - Íntima relação com o próprio animus necandi, não havendo como ser afastada a qualificadora - Preliminares afastadas e recurso não provido.” (eDOC 2, p. 29-30)
+    Na sequência, a interpôs-se Recurso Especial (eDOC 2, p. 66-74). O Ministério Público Federal, inclusive, manifestou-se favoravelmente ao provimento recursal nos seguintes termos:
+    “RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ALEGADA VIOLAÇÃO AO ARTIGO 413 DO CPP. EXCESSO DE LINGUAGEM NA DECISÃO DE PRONÚNCIA CONFIGURADO. RENOVAÇÃO DO DECISUM QUE SE IMPÕE. PROVIMENTO DO RECURSO.” (eDOC 2, p. 120)
+    Ocorre que, em 19.12.2018, o STJ atribuiu efeito suspensivo ao REsp interposto pela defesa e determinou que fosse suspensa a sessão de julgamento do Plenário do Tribunal do Júri, anteriormente designada para 31.1.2019. (eDOC 2, p. 161)
+    Nesta Corte, os impetrantes sustentam que a concessão de efeito suspensivo, aliada à pendência de julgamento do recurso especial, o Juízo de origem, mesmo após reiterados pedidos, não concede à paciente o direito de responder ao processo em liberdade.
+    Requer, liminarmente e no mérito, a imediata soltura da paciente, ante a configuração de excesso de prazo para formação da culpa.
+    O presente writ foi a mim distribuído por prevenção ao HC 160.054/SP.
+    É o relatório.
+    Passo a decidir.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    Na espécie, os impetrante alegam excesso de prazo da prisão preventiva, porquanto a paciente está presa desde 15.9.2014, situação agravada pela suspensão da sessão plenária no Júri, determinada nos autos do REsp 1.723.140/SP.
+    Conforme asseverei no julgamento do HC 160.054, entendo que a prisão da acusada está justificada, sobretudo, na necessidade de garantia da ordem pública, considerada a elevada periculosidade da paciente, manifestada, principalmente, no modus operandi dos crimes praticados.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Ademais, consulta ao sítio eletrônico do STJ revelou que os autos foram levados em mesa para julgamento para a data de hoje, 26.11.2019, razão por que não há se falar mais em excesso de prazo.
+    Ante o exposto, ausente qualquer ilegalidade a autorizar a supressão de instância, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 26 de novembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
