@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. DESEMBARAÇO ADUANEIRO. IMPOSTO DE IMPORTAÇÃO. PIS E COFINS.
+    1. Não há amparo legal para que, por uma ficção, as mesmas mercadorias assumam a identidade de estrangeiras tão somente para efeitos de incidência do imposto de importação e demais tributos aduaneiros.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE IMPORTAÇÃO – II. MERCADORIA NACIONAL. INCONSTITUCIONALIDADE DO DECRETO-LEI 37/1966. PRECEDENTES. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA CONTINUIDADE DO JULGAMENTO. VIOLAÇÃO À SÚMULA 279 DO STF. INOCORRÊNCIA. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. SÚMULA 456/STF.
+    1. Esta CORTE declarou a inconstitucionalidade da equiparação, promovida pelo Decreto-Lei 37/1996, do produto nacional proveniente do exterior a produto estrangeiro.
+    2. ‘Ao direito da parte recorrida de ver apreciada, se for o caso, toda a matéria posta na demanda, corresponde um dever do Tribunal de examiná-la integralmente, mesmo sem provocação em contrarrazões, já que é essa a matéria que compõe o objeto do julgamento da causa a que faz referência a Súmula 456/STF’ (RE 346736 AgR-ED, Dje de 18/6/2013: Min. TEORI ZAVASCKI).
+    3. Agravos Internos a que se nega provimento.”
+    (RE 483.110-AgR/RJ, Rel. Min. ALEXANDRE DE MORAES)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. IMPOSTO SOBRE IMPORTAÇÃO – II. LINGOTES DE ZINCO. MERCADORIA NACIONAL. INCONSTITUCIONALIDADE DO DECRETO N. 37/1966. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 606.102-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    Cumpre ressaltar, por necessário, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.013.567/SP, Rel. Min. MARCO AURÉLIO – ARE 1.044.091/SP, Rel. Min. GILMAR MENDES – RE 609.585/RJ, Rel. Min. RICARDO LEWANDOWSKI – RE 635.979/RJ, Rel. Min. ROBERTO BARROSO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Convém acentuar, por oportuno, no que se refere à alegada violação ao art. 97 da Constituição, que essa pretensão recursal também revela-se inacolhível, eis que a análise do acórdão recorrido evidencia que, na espécie, não houve qualquer declaração de inconstitucionalidade de diploma legislativo ou de ato normativo a ele equivalente, em clara demonstração de que se revela impertinente, na espécie, a fundamentação com que a parte ora recorrente pretendeu justificar a interposição do recurso extraordinário.
+    No caso em análise, como já enfatizado, não houve qualquer declaração de inconstitucionalidade, tanto que o acórdão impugnado em sede recursal extraordinária resultou de julgamento efetuado por órgão fracionário do E. Tribunal Regional Federal da 4ª Região, considerada, na espécie, a inaplicabilidade da cláusula inscrita no art. 97 da Constituição da República, cuja prescrição – ressalte-se – somente incidirá na hipótese de a decisão do Tribunal importar em proclamação da invalidade constitucional de determinado ato estatal (RTJ 95/859 – RTJ 96/1188 – RT 508/217 – RF 193/131):
+    “Nenhum órgão fraccionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de Plenário, inscrito no artigo 97 da Constituição da República.
+    Suscitada a questão prejudicial de constitucionalidade perante órgão fraccionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.”
+    (RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e em face das razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, b).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de novembro de 2019.
+Ministro CELSO DE MELLO
+Relator
