@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência das diferenças salariais pleiteadas. No extraordinário cujo trânsito busca alcançar, o recorrente afirma violados os artigos 14 da Emenda Constitucional nº 20/1998 e 5º da Emenda Constitucional nº 41/2003. Insiste no direito ao reajuste pretendido.
+    2. Eis os fundamentos do acórdão recorrido:
+    O artigo 14 da Emenda Constitucional n° 20/1998 e o artigo 50 da Emenda Constitucional n° 41/2003 têm aplicação imediata inclusive para que seus comandos alcancem os benefícios previdenciários limitados ao teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo que passem -a observar o novo teto constitucional, ao dispor que a partir da data da publicação dessas emendas, o limite máximo para o valor dos benefícios fosse reajustado de forma a preservar, em caráter permanente, seu valor real, atualizado pelos mesmos índices aplicados aos benefícios do Regime Geral de Previdência Social.
+    Por sua vez, conclui-se que esses mandamentos constitucionais também abrangem os benefícios concedidos posteriormente à edição dessas emendas.
+    O presente tema, antes controvertido, restou pacificado no E. STF por seu Tribunal Pleno, em Repercussão Geral conferida ao RE n° 564.354/SE, em que foi relatora a Ministra Cármen Lúcia, in verbis:
+    "DIREITOS CONSTITUCIONAL E PREVIDENCIA'RIO. REVISÃO DE BENEFICIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 2011998 E 4112003. DIREITO INTER TEMPORAL: ~JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETA ÇÃO DA LEI INFRA CONSTITUCIONAL. A USÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROA TJVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfèito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada.
+    2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 2011998 e do art. 5° da Emenda Constitucional n. 4112003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+    3. Negado provimento ao recurso extraordinário." (STF, RE n° 564.3541SE, Tribunal Pleno, Rel. Mm. Carmen Lúcia, j. 08.09.2010, publicado 15.02.2011)
+    Contudo, é necessário ressaltar que os benefícios concedidos antes da Constituição Federal de 1988 não se enquadram na revisão deferida pela Suprema Corte, pois se submeteram à observância de outros limitadores, como o Menor Valor Teto e o Maior Valor Teto.
+    Em função disso, tiveram reposição integral da renda mensal inicial em número de salários mínimos (artigo 58 do ADCT), procedimento que, inclusive, é mais vantajoso que o pleiteado.
+    Dessa forma, a parte autora não faz jus à readequação da renda mensal aos limites fixados pelos tetos estabelecidos pelas Emendas Constitucionais n°5 20/98 e 41/2003.
+    Ademais, o conceito de readequação dos tetos dos benefícios contido nas ECs n ºs 20/1998 e 41/2003 não se confunde com o de Maior e Menor Valor Teto de trata a Lei n° 5.890/73.
+    Por fim, a informação da Contadoria Judicial confirma que a parte autora não faz jus à revisão pleiteada (fl. 51).
+    Reparem ter o Tribunal Regional Regional Federal da 3ª Região assentado ser a situação do recorrente mais vantajosa do que a pretendida na demanda. Somente pela análise do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 26 de novembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
