@@ -1,0 +1,2 @@
+Altera a Lei nº 10.671, de 15 de maio de 2003 (Estatuto de Defesa do Torcedor), para ampliar o prazo de impedimento de que trata o art. 39-A, estender sua incidência a atos praticados em datas e locais distintos dos eventos esportivos e instituir novas hipóteses de responsabilidade civil objetiva de torcidas organizadas.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
