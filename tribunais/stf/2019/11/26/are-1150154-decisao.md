@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de São Paulo contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “PROFESSOR/APOSENTADORIA ESPECIAL
+    Pretensão de expedição de certidão de liquidação de tempo de serviço com o cômputo dos períodos de exercício de cargo de diretoria escolar, para fins de aposentadoria especial – Possibilidade – Lei Federal 11.301/2006, que alterou o art. 67 da Lei de Diretrizes e Bases da Educação Nacional, para considerar as atividades de direção, coordenação e assessoramento pedagógico como de efetiva docência – ADIN 3772/08 – Interpretação conforme que abarca o caso dos autos – Recurso provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 40, § 5º, e 201, § 8º, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o  RE 1.039.644-RG/SC, Rel. Min. ALEXANDRE DE MORAES, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou  a jurisprudência desta Corte sobre o tema, fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DOS PROFESSORES (CONSTITUIÇÃO, ART. 40, § 5º). CONTAGEM DE TEMPO EXERCIDO DENTRO DA ESCOLA, MAS FORA DA SALA DE AULA.
+    1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca do cômputo do tempo de serviço prestado por professor na escola em funções diversas da docência para fins de concessão da aposentadoria especial prevista no art. 40, § 5º, da Constituição.
+    2. Reafirma-se a jurisprudência dominante desta Corte nos termos da seguinte tese de repercussão geral: Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio.
+    3. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC. Jurisprudência do SUPREMO TRIBUNAL FEDERAL reafirmada, nos termos do art. 323-A do Regimento Interno.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de novembro de 2019.
+Ministro CELSO DE MELLO
+Relator
