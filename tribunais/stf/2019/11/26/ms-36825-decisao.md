@@ -1,0 +1,20 @@
+MANDADO DE SEGURANÇA. ATO DA SECRETARIA JUDICIÁRIA DO SUPREMO TRIBUNAL FEDERAL. INCOMPETÊNCIA. ART. 102, I, d , DA CF. WRIT A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Edyjayme Eduardo Furtado, contra ato Secretaria Judiciária do Supremo Tribunal Federal, que teria expedido “certidão de trânsito em julgado de forma prematura”.
+    Aduz o impetrante que tentou protocolar eletronicamente recurso em face de acórdão prolatado nos autos do Recurso Extraordinário com Agravo nº 1.196.487. Ocorre que “o v. acórdão foi publicado no dia 28/10/2019, no entanto surpreendentemente no dia 07/10/2019 foi certificado o transito e julgado, ou seja 05 (cinco) dias úteis da publicação do acórdão. (...) Na realidade o prazo para o trânsito em julgado do acórdão dar-se-á no dia de 21/11/2019. Pois esse é o dia do prazo final de 15 dias úteis para interposição de recurso”.
+    Ao final, tece os seguintes requerimentos:
+    “a) seja determinada, liminarmente, a suspensão dos efeitos da certificação do trânsito em julgado do acórdão quando se sabe que a certidão da Seção de Agravos, de 07 de novembro de 2.019, na qual se baseou está, comprovadamente, equivocada, conforme acima restou bem demonstrado;
+    (...)
+    d) seja, ao final, concedida a segurança, em definitivo, confirmando-se a liminar, caso deferida, para declarar a nulidade da certificação de trânsito em julgado que impediu manejo recursal, dentro do prazo de 15 dia úteis, isto porque, comprovadamente, a certidão da Seção de Agravos, de 07 de novembro de 2.019, foi expedida de erroneamente, e consequentemente devolução do prazo recursal de 15 dias úteis para interposição de recurso, tudo em conformidade com as razões acima expendidas, por ser medida de direito e de inteira justiça”.
+    É o relatório. DECIDO.
+    O art. 102, I, d, da Constituição da República é bastante claro ao limitar a competência do Supremo Tribunal Federal ao julgamento de mandados de segurança “contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    Evidente, assim, a incompetência desta Corte para a apreciação de mandamus impetrado contra a Secretaria Judiciária do Supremo Tribunal Federal, que agiu com supedâneo na competência que lhe foi atribuída pelo art. 355, § 1º, do Regimento Interno do STF, in verbis:
+     “Art. 355. À Secretaria do Tribunal incumbe a execução dos serviços administrativos e judiciários, e será dirigida pelo Diretor-Geral, com habilitação universitária em Direito, Administração, Economia ou Ciências Contábeis, nomeado, em Comissão, pelo Presidente, nos termos da lei e depois de sua indicação, por este, ter sido aprovada pela maioria absoluta do Tribunal, em votação secreta. Enquanto não for aprovada a indicação do novo Diretor-Geral, permanecerá no cargo o anterior, salvo se exonerado a pedido ou em virtude de falta funcional que o incompatibilize com essa permanência.
+      § 1º A organização da Secretaria do Tribunal, a competência de seus vários órgãos e as atribuições dos secretários, chefes e servidores serão fixadas em ato próprio, pelo Tribunal”.
+    Embora a autoridade apontada como coatora pertença a esta Corte, o ato que lhe é imputado não pode ser considerado como ato do próprio Supremo Tribunal Federal, mas de autoridade que agiu no limite de suas atribuições, estabelecidas pelo Regimento Interno e pelo Regulamento da Secretaria, o que, quando muito, suscitaria a incidência da Súmula 510 do STF, assim redigida:
+    “Praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial”.
+    Ex positis, JULGO EXTINTO o processo sem resolução do mérito, com fulcro no art. 485, I, do Novo Código de Processo Civil, c/c art. 10 da Lei 12.016/2009, restando prejudicada a análise do pedido de medida liminar.
+    Publique-se. Intimem-se.
+    Brasília, 26 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
