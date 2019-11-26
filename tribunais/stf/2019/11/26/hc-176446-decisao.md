@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que, no HC 534.488/SP, indeferiu liminarmente o writ (eDOC 9).
+    Busca-se, liminarmente, a aplicação do redutor previsto no art. 33, §4º, da Lei de Drogas, no patamar máximo, bem como a fixação do regime inicial aberto e a substituição da pena corporal por pena restritiva de direitos.
+    Em 08.10.2019, indeferi a liminar.
+    A Procuradoria-Geral da República opinou pelo não conhecimento do habeas corpus.
+    É o relatório. Decido.
+    1. 1. Cabimento do habeas corpus:
+    Inicialmente, destaco que esta Corte tem posição firme pela impossibilidade de admissão de habeas corpus impetrado contra decisão proferida por membro de Tribunal Superior, visto que, a teor do artigo 102, I, “i”, da Constituição da República, sob o prisma da autoridade coatora, a competência originária do Supremo Tribunal Federal somente se perfectibiliza na hipótese em que Tribunal Superior, por meio de órgão colegiado, atue em tal condição. Nessa linha, cito o seguinte precedente:
+    “É certo que a previsão constitucional do habeas corpus no artigo 5º, LXVIII, tem como escopo a proteção da liberdade. Contudo, não se há de vislumbrar antinomia na Constituição Federal, que restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição. Assim, a pretexto de dar efetividade ao que se contém no inciso LXVIII do artigo 5º da mesma Carta, ter-se-ia, ao fim e ao cabo, o descumprimento do que previsto no artigo 102, I, “i”, da Constituição como regra de competência, estabelecendo antinomia entre normas constitucionais.
+    Ademais, com respaldo no disposto no artigo 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, pode o relator negar seguimento a pedido improcedente e incabível, fazendo-o como porta-voz do colegiado. Entretanto, há de ser observado que a competência do Supremo Tribunal Federal apenas exsurge se coator for o Tribunal Superior (CF, artigo 102, inciso I, alínea “i”), e não a autoridade que subscreveu o ato impugnado. Assim, impunha-se a interposição de agravo regimental” (HC 114557 AgR, Rel. Min. Luiz Fux, Primeira Turma, julgado em 12/08/2014, grifei).
+     Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. Precedentes:
+    “Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou.”(HC 123926, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 14/04/2015, grifei).
+    “Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância.” (HC 124561 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10/02/2015).
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que ataca decisão monocrática proferida no STJ.
+    2. Ademais, observo que o mérito do writ não foi apreciado pelo STJ ao fundamento de que “os aventados vícios na dosimetria não foram alvo de deliberação pela autoridade impetrada no aresto impugnado”.
+    Em consulta ao sítio eletrônico do TJSP, verifico que ainda está pendente de julgamento o apelo defensivo (1500630-90.2019.8.26.0559).
+    Com efeito, o enfrentamento da matéria por esta Suprema Corte implicaria dupla supressão de instância. O STF não tem competência para revisar, diretamente, os atos praticados pelo magistrado de primeiro grau. Nesse sentido:
+    “Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes.” (RHC 135560 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 21/10/2016)
+    “A inexistência de manifestação do STJ sobre o mérito da impetração impede o exame da matéria por esta Corte, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.” (HC 135949, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04/10/2016)
+    3. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 26 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
