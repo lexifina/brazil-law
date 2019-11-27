@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÕES. MINISTÉRIO PÚBLICO. DEFESA. Tráfico de entorpecentes. Artigo 33, §40, da lei n° 11.343/06. Sentença condenatória. Recursos da defesa e da acusação. Materialidade e autoria não questionadas, mesmo porque devidamente comprovadas pelo conjunto probatório carreado aos autos. Dosimetria que comporta reparo. Quantidade de substâncias que revelam a dedicação da sentenciada às atividades criminosas obstando a incidência da causa de diminuição capitulada no artigo 33, §4°, do mesmo diploma legal. Desconsiderada essa mesma circunstância na primeira etapa da dosimetria, vedado o bis in idem. Regime inicial semiaberto que atende à dicção das súmulas 440, 718 e 719, a primeira do Colendo Superior Tribunal de Justiça e as demais do Colendo Supremo Tribunal Federal.
+    RECURSOS PARCIALMENTE PROVIDOS.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III, 5º, LVII e XLVI, da CF. Afirma que “preenche os requisitos estabelecidos pela lei e por isso, faz jus a aplicação do redutor, nem que seja em patamar mínimo (1/6)”.  Aduz que “restou claro durante toda a instrução processual, no que concerne ao crime imputado a [ele], que esta não concorreu para tal”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes do voto condutor do acórdão recorrido:
+    “[...]
+    A apelante foi condenada porque no dia 2 de maio de 2013, às 14h00, na Avenida Ministro Marcos Freire, próximo ao Viaduto 15, Vila Antártica, trazia consigo, para fins de tráfico, 552 gramas de crack, sem autorização e em desacordo com determinação legal e regulamentar.
+    A materialidade e autoria delitivas foram sobejamente demonstradas pelo auto de prisão em flagrante (fl. 2); boletim de ocorrência (fls. 8/10); auto de exibição e apreensão (fl. 11); auto de constatação preliminar (fl. 12); exame químico toxicológico (fl. 35) e; pela prova oral produzida durante a instrução da persecução penal, consubstanciada nos seguros relatos dos policiais civis Delcio Lúcio da Fonseca Júnior e José Ricardo da Silva, formando-se um insofismável conjunto probatório contra o qual sequer MICHELLE se insurgiu.
+    Assim, diante do contexto fático-probatório, era mesmo o caso de procedência da pretensão punitiva estatal, com lastro no artigo 33, caput, da lei n° 11.343/06.
+    Passo à análise da dosimetria das penas, do regime inicial de cumprimento fixado e da possibilidade de substituição da privativa de liberdade por restritiva de direitos.
+    […]
+    Em razão do exposto, na esteira dessa orientação, afasto o aumento aplicado na primeira etapa, devolvendo a basilar ao mínimo legal.
+    Na etapa intermediária, bem reconhecidas as circunstâncias atenuantes da menoridade relativa e da confissão espontânea, que, contudo, não têm o condão de reduzir a pena aquém do mínimo legal, nos termos da Súmula no 231, do Colendo Superior Tribunal de Justiça
+    Na derradeira etapa, com razão o Ministério Público. Reputo inadequado o reconhecimento da causa especial de diminuição de pena prevista no artigo 33, § 4º, da lei n. 11.343/06, mormente em razão da significativa quantidade de crack, substância de reconhecido potencial lesivo, que se mostra apta a demonstrar a dedicação da sentenciada a atividades criminosas.
+    Ademais, há importantes indícios de que a apelante fazia parte de organização criminosa com atuação intensa na traficância realizada na região litorânea do Estado, já que sua prisão se deu justamente a partir das investigações - mais notadamente após as interceptações telefônicas autorizadas pelo MM. Juízo de origem - encetadas pela Policia Civil para apurar a atividade dos suspeitos, réus na Ação Penal n. 3000771- 97.2013.8.26.0477, na qual a apelante também foi condenada - é verdade, posteriormente à condenação nestes autos - desta vez como incursa no artigo 35, da lei n. 11.343/06.
+    […].”
+    Ademais, a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; e o RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
