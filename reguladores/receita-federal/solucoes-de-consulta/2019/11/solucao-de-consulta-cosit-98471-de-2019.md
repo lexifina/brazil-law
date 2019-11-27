@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98471, de 16 de outubro de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8428.90.90
+Mercadoria: Equipamento para laboratórios de bioquímica e imunologia de grandes demandas, composto de um braço robótico com garra para tubos de amostra, um leitor de código de barras, um computador, um monitor de tela táctil, um trackball e um teclado, 4 gavetas padrão para até 50 tubos e 1 gaveta prioritária para até 8 tubos, com a função de carregar e descarregar tubos de amostra, fornecendo um ponto de carregamento único e permitindo a integração com até três analisadores de bioquímica e imunologia. O funcionamento do equipamento, que é comandado pelo computador, consiste, em suma, na operação do braço robótico, cuja garra carrega um tubo de amostra, roda-o diante do leitor de código de barras e descarrega-o no instrumento (ou no item que é opcional, denominado roda de interface) para que a amostra seja analisada em outro equipamento.
+Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018.
+[arquivo anexo: SC Cosit nº 98.471-2019.pdf]
