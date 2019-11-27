@@ -1,0 +1,18 @@
+DESPACHO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. PIS. COFINS. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. ARTS. 7º E 8º DA LEI 12.546/2011. BASE DE CÁLCULO. RECEITA BRUTA. PRESCRIÇÃO QUINQUENAL. BASE DE CÁLCULO. ICMS. ISS. INCLUSÃO INDEVIDA. REPERCUSSÃO GERAL. STF. COMPENSAÇÃO. TAXA SELIC. (1).
+    1. O Pleno do STF (RE nº 566.621/RS), sob o signo do art. 543- -B do CPC/1973, que concede ao precedente extraordinária eficácia vinculativa que impõe sua adoção em casos análogos, reconheceu a inconstitucionalidade do art. 4º, segunda parte, da LC 118/2005, declarando a prescrição quinquenal às ações repetitórias ajuizadas a partir de 09/06/2005.
+    2. O Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário 574.706 pela sistemática da repercussão geral, firmou a tese de ‘o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS’. (RE 574706 RG, Relator(a): Min. CÁRMEN LÚCIA, julgado em 15/03/2017)
+    3. O raciocínio adotado para exclusão do ICMS da base de cálculo do PIS e da COFINS é cabível para também excluir o ISS.
+    4. A parcela relativa ao ICMS não se inclui no conceito de receita bruta para fins de determinação da base de cálculo da contribuição substitutiva prevista nos arts. 7º e 8º da Lei 12.546/2011, aplicando-se, por analogia, o entendimento fixado pelo STF em sede de repercussão geral.
+    5. Quanto à compensação, o Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, firmou o entendimento de que a lei que rege a compensação tributária é a vigente na data de propositura da ação, ressalvando-se, no entanto, o direito de o contribuinte proceder à compensação dos créditos pela via administrativa, em conformidade com as normas posteriores. Precedente (REsp nº 1.137738/SP – Rel. Min. Luiz Fux – STJ – Primeira Seção – Unânime – DJe 1º/02/2010). Aplicável, ainda, o disposto no art. 170-A do CTN.
+    6. A correção monetária e os juros devem incidir na forma do Manual de Cálculos da Justiça Federal.
+    7. Honorários advocatícios incabíveis na espécie (art. 25, da Lei n. 12.016/2009). Custas ‘ex lege’.
+    8. Apelação provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, apreciando o RE 592.616- -RG/RS, Rel. Min. CELSO DE MELLO, Tema nº 118/RG, e o RE 1.187.264- -RG/SP, Rel. Min. MARCO AURÉLIO, Tema nº 1.048/RG, reconheceu existente a repercussão geral das questões constitucionais neles suscitadas, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    Os temas objeto dos recursos extraordinários representativos de mencionadas controvérsias jurídicas, passíveis de se reproduzirem em múltiplos feitos, referem-se à “Inclusão do ISS na base de cálculo do PIS e da COFINS” e “Inclusão do Imposto Sobre Circulação de Mercadorias e Serviços – ICMS na base de cálculo da Contribuição Previdenciária sobre a Receita Bruta – CPRB”.
+    Isso significa que se impõe, quanto aos Temas nºs 118/RG e 1.048/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 27 de novembro de 2019.
+Ministro CELSO DE MELLO
+Relator
