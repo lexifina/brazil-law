@@ -1,0 +1,17 @@
+RECLAMAÇÃO CONSTITUCIONAL. ALEGADO DESCUMPRIMENTO DA DECISÃO EXARADA NA REPERCUSSÃO GERAL NO RE 593.727/MG. PODERES INVESTIGATÓRIOS DO MINISTÉRIO PÚBLICO. PEDIDO DE LIMINAR. INDEFERIMENTO. AUSÊNCIA DOS PRESSUPOSTOS AUTORIZADORES.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 102, I, ‘l’, da Constituição Federal, e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Saulo Soares Alves Pinto contra ato da Décima Primeira Promotoria de Justiça da Comarca de Juazeiro do Norte/CE, que teria descumprido a decisão desta Suprema Corte exarada na repercussão geral no RE 593.727-RG/MG.
+    Narra a inicial que, nos autos do Inquérito Policial nº 0007420-42.2018.8.06.0112, a Décima Primeira Promotoria de Justiça da Comarca de Juazeiro do Norte/CE ‘avocou a competência para si e em procedimento paralelo realizou a notificação dos envolvidos e das testemunhas para serem por ela mesma oitivadas, usurpando a competência do Delegado de Polícia já oficiante no inquérito policial instaurado e já efetivamente concluído’ .
+    Aponta a Defesa do Reclamante, em síntese, que o ato reclamado de ‘avocar os procedimentos investigatórios no bojo do inquérito policial já com relatório de indiciamento e não devolvê-los a autoridade policial para que proceda a diligências complementares consideradas essenciais, fere a decisão proferida pelo Plenário dessa Corte Constitucional no RE 593.727 com repercussão geral’. Sustenta que ‘a decisão do Plenário do STF no RE 593.727/MG em repercussão geral autorizou o Ministério Público a realizar investigações, porém, em caráter subsidiário, e não substituindo a autoridade policial, especialmente quando já instaurado e devidamente concluído inquérito policial’. Requer, em medida liminar, a suspensão dos atos investigativos realizados pela autoridade reclamada no inquérito policial nº 0007420-42.2018.8.06.0112. No mérito, pugna pela anulação dos atos investigatórios realizados pela Décima Primeira Promotoria de Justiça da Comarca de Juazeiro do Norte/CE.
+    É o relatório.
+    Decido.
+    A reclamação é ação autônoma de impugnação dotada de perfil constitucional, prevista no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal. Prevista nos artigos 102, I, e 103-A, § 3º, da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, desobediência a súmula vinculante ou de descumprimento de autoridade de decisão proferida por esta Corte com efeito vinculante.
+    A aferição da presença dos pressupostos que autorizam seu manejo deve ser feita com devido rigor técnico (Rcl 6735 AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe-168, p. 10.9.2010), não cabendo o alargamento de suas hipóteses de cabimento por obra de hermenêutica indevidamente ampliativa, sob pena de desvirtuamento da vocação dada pelo constituinte ao importante instituto da reclamação constitucional.
+    Reputo, neste exame prefacial, inviável a concessão da liminar pleiteada, visto que possui natureza nitidamente satisfativa, se confundindo com o próprio mérito da reclamação.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colham-se informações junto à autoridade reclamada e ao Juízo da 1ª Vara Criminal da Comarca de Juazeiro do Norte/CE.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 27 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
