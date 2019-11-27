@@ -1,0 +1,38 @@
+RECLAMAÇÃO CONSTITUCIONAL. INTERESSE DE AGIR NÃO COMPROVADO. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. SEGUIMENTO NEGADO.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional proposta, com pedido liminar, proposta pelo Sindicato dos Médicos do Estado de Santa Catarina - SIMESC, com fundamento no art. 102, I, “l”, da Constituição da República, nos arts. 927 e 988, II, do Código de Processo Civil e no art. 156 e seguintes do RISTF, contra decisão proferida pelo órgão Especial do Tribunal de Justiça de Santa Catarina na ADI 4023746-87.2017.8.24.0000, que supostamente contrariou o que decidido no RE 581.488-RG (Tema 579).
+    2. Narra o reclamante ser autor de ação direta de inconstitucionalidade no Tribunal de Justiça de Santa Catarina, que teve por objeto o art. 1º e parágrafos da Lei estadual nº 16.869/2016 e o Decreto nº 1.305/2017, que permitem e obrigam os hospitais públicos a aceitarem doulas, prestadoras de serviço particular, a acompanharem as parturientes.
+    3. Afirma que o juízo reclamado julgou improcedente a ação direta, decisão esta que violaria o que já decidido por este Supremo Tribunal Federal no julgamento do RE 581.488 – RG, Relator o Ministro Dias Toffoli, que definiu o alcance da norma do art. 196 da CF/1988, no sentido de ser “constitucional a regra que veda, no âmbito do Sistema Único de Saúde, a internação em acomodações superiores, bem como o atendimento diferenciado por médico do próprio Sistema Único de Saúde (SUS) ou por conveniado, mediante o pagamento da diferença dos valores correspondentes”.
+    4. Aduz, então, que ao decidir pela improcedência da ADI, o Tribunal de Justiça Catarinense possibilitou à parturiente com poder aquisitivo contratar uma doula para acompanhá-la dentro do atendimento pelo SUS, “promovendo tratamento personalizado e exclusivo (VIP)”, o que “claramente entra em conflito com o que determina o Art. 196 da CRFB e da mesma forma com os termos da decisão no RE 581488”.
+    5. Requer a concessão de medida liminar para suspender a eficácia “do art. 1º e §1º da Lei Ordinária nº 16.869/2016, e aplicando-se o disposto na Constituição Federal e o que preconiza o SUS, a todos os cidadãos de forma irrestrita e igualitária”. No mérito, pleiteia a cassação do acórdão reclamado.
+    6. Contra o acórdão proferido pelo Órgão Especial do Tribunal de Justiça de Santa Catarina, foi interposto recurso extraordinário, o qual admitido na origem, já obteve julgamento de mérito neste Supremo Tribunal Federal.
+    7. Deixo de determinar a citação da parte beneficiária do ato judicial reclamado, em decorrência da manifesta inviabilidade da reclamação. Deixo de determinar a intimação da autoridade reclamada para prestar informações, bem como do Procurador-Geral da República para ofertar parecer, por tratar a demanda de matéria repetitiva.
+    É o relatório.
+    Decido.
+    1. A reclamação constitucional, via estreita e vinculada estritamente às hipótese de cabimento previstas no texto da Constituição, pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, desobediência à súmula vinculante, descumprimento de decisão desta Corte proferida em sede de controle concentrado de constitucionalidade, em decorrência do efeito vinculante que ostenta (art. 102, § 2º, da CF) ou, ainda, em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    2. O art. 988 do CPC/2015, em vigor desde 18.3.2016, assim disciplina o instituto:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    (…)
+    § 5º É inadmissível a reclamação:
+    I – proposta após o trânsito em julgado da decisão reclamada;
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    (...)”
+    3. Dentro dessa moldura, impende destacar, na espécie, a ausência de interesse de agir da reclamante, condição para postular em juízo, nos termos dos arts. 17 e 990 do Código de Processo Civil:
+    “Art. 17. Para postular em juízo é necessário ter interesse e legitimidade.
+    Art. 990. Qualquer interessado poderá impugnar o pedido do reclamante”
+    4. É que, conforme relatado, o recurso extraordinário interposto pelo ora Reclamante foi admitido na origem e teve seu julgamento de mérito neste Supremo Tribunal Federal.
+    5. Sou relatora do RE nº 1.183.725/SC, recurso interposto pelo ora reclamante contra o acórdão aqui reclamado. Em 22.02.2019, neguei seguimento ao recurso, pois não demonstrada de forma efetiva a repercussão geral da matéria nas razões do apelo extremo, restando inaplicável o RE 581.488-RG, porquanto adstrito à atuação do profissional médico no âmbito do Sistema Único de Saúde (SUS), hipótese distinta da analisada no acórdão reclamado.
+    6. Contra essa decisão foi interposto agravo regimental, ao qual negado provimento (DJe), à unanimidade, pela 1ª Turma, seguindo-se a rejeição dos embargos de declaração (DJe 21.11.2019). Como se observa, o RE interposto pelo ora reclamante tem o mesmo objeto da presente reclamação, violação do que decidido no RE 581.488-RG. Entretanto, tal alegação já foi afastada de maneira contundente.
+    7. Inviável, portanto, a provocação do Supremo Tribunal Federal para garantir a autoridade de acórdão em recurso extraordinário com repercussão geral reconhecida por meio da presente reclamação. Nesse sentido:
+    “Agravo regimental em reclamação. 2. Alegação de ofensa à dispositivos constitucionais. Inocorrência de qualquer da hipóteses de cabimento previstas no art. 102, I, “l”, da Constituição Federal. Manifesto não cabimento. 3. Agravo regimental a que se nega provimento.” (Rcl 17884 AgR/GO, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.9.2014)
+    8. Tampouco a reclamação consubstancia sucedâneo recursal, de modo que não se excogita, nessa via estreita processual, da veiculada afronta à decisão exarada por esta Corte. Não há, no ponto, contrariedade à decisão deste Supremo Tribunal. Nesse sentido (grifei):
+    “Ementa: AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA VIOLAÇÃO A ACÓRDÃO PROFERIDO EM JULGAMENTO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. NÃO ESGOTAMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. INVIABILIDADE DE UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I – É inadmissível a utilização de reclamação como sucedâneo ou substitutivo de recurso. II – É inviável a reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário, quando não esgotadas as instâncias ordinárias (art. 988, § 5°, II, do CPC). III - Agravo regimental ao qual se nega provimento” (Rcl 26432 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 08.5.2018).
+    9. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à reclamação, manifesto o seu não cabimento.
+    Publique-se.
+    Brasília, 27 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
