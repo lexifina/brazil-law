@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Amazonas, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. DIREITO ADMINSTRATIVO. SERVIDORES PÚBLICOS MUNICIPAIS. PRINCÍPIO DA IRREDUTIBILIDADE DOS SUBSÍDIOS. INCIDÊNCIA DIANTE DO NOVO PLANO DE CARGOS, CARREIRA E SALÁRIOS, MESMO COM A ORIENTAÇÃO DE QUE INEXISTE DIREITO ADQUIRIDO A REGIME JURÍDICO ADMINISTRATIVO. GARANTIA DE PAGAMENTO DAS DIFERENÇAS ATÉ QUE HAJA O COMPLETO REENQUADRAMENTO DOS SERVIDORES. RECURSO NÃO PROVIDO. SENTENÇA MANTIDA.” (eDOC 8, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II, 37, XIV, 39, § 4, do texto constitucional.
+    Nas razões recursais, alega-se que a Lei Municipal nº 1222/2018 não ocasionou redutibilidade nos vencimentos dos obreiros.
+    Aduz, ainda, que “somente deve ser verificado para fins de redutibilidade a somatória do vencimento-base, adicional de tempo de serviço e o salário produtividade.”(eDOC 11, p. 11)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal nº 1222/2018) e o conjunto probatório constante dos autos, consignou que, em respeito ao preceito legal de irredutibilidade de subsídios, os recorridos devem perceber o mesmo valor remuneratório que ganhavam antes do reenquadramento da nova legislação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No entanto, de fato, tal premissa deve ser interpretativamente ponderada com a referência constitucional da irredutibilidade dos subsídios, devendo-se garantir a devida preservação ao valor nominal da remuneração. Conforme destacado pelo Ministério Público, a incidência da Lei Municipal nº 1.222/2008 representou verdadeira redução nos valores da remuneração bruta dos servidores apelados, quando comparados ao momento anterior à vigência da lei.
+    (...)
+    De tal forma, resta confirmada a ilegalidade do ato municipal, declarada na sentença recorrida, não sendo possível que haja diminuição do valor nominal da remuneração percebida pelos autores antes do advento da Lei Municipal nº 1.222/2008.” (eDOC 8, p. 3)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Servidor público estadual. Décimos incorporados. Irredutibilidade de vencimentos. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.”
+(ARE 1165484, Relator(a): Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 01.03.2019)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. SISTEMA REMUNERATÓRIO. ALTERAÇÃO DA FORMA DE CÁLCULO DE GRATIFICAÇÕES E DA REMUNERAÇÃO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. OBSERVÂNCIA AO PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Agravo regimental a que se nega provimento.”
+(ARE 1116091, Relator(a): Min. Ricardo Lewandowski, Segunda Turma, DJe 06.12.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
