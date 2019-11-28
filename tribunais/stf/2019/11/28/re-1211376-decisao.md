@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado (eDOC 30, p. 1):
+    “AGRAVO DE INSTRUMENTO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. TRENSURB. Agravo de instrumento provido para verificar possível violação do art. 114, I, da Constituição Federal.
+    RECURSO DE REVISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. TRENSURB. A Suprema Corte, por ocasião do julgamento do RE 586.453, com repercussão geral, determinou a manutenção da competência da Justiça do Trabalho para as demandas contendo controvérsias ligadas à complementação de aposentadoria paga por entidade de previdência privada nas quais haja sentença de mérito proferida antes de 20/2/2013 (data do julgamento do aludido recurso extraordinário). Embora a União não seja uma entidade de previdência privada, garante o pagamento da complementação de aposentadoria do reclamante, em razão de lei especial, como se entidade de complementação fosse. Portanto, ao agir como legítima entidade de complementação de aposentadoria, deve ser equiparada a ela, no particular, de modo a incidir o entendimento do STF acima transcrito. Há precedente.
+    Recurso de revista conhecido e provido.”
+    Contra essa decisão, foram apresentados dois recursos: a União opôs os embargos à SDI previstos no art. 894 da CLT (eDOC 34) e recurso extraordinário (eDOC 37).
+    Os embargos foram providos para restabelecer o acórdão do Tribunal Regional do Trabalho e declarar a incompetência da Justiça do Trabalho (eDOC 58/59). A ementa foi assim redigida:
+    “RECURSO DE EMBARGOS. REGÊNCIA DA LEI Nº 13.015/2014. COMPETÊNCIA MATERIAL. DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA. EX-FERROVIÁRIO DA TRENSURB. RESPONSABILIDADE DA UNIÃO. VÍNCULO JURÍDICO ADMINISTRATIVO.
+    1. A eg. Sexta Turma deu provimento ao recurso de revista interposto pelo reclamante para declarar a competência da Justiça do Trabalho para julgar o pedido de diferenças de complementação de aposentadoria, formulado na ação movida pelo ex-empregado da Empresa De Trens Urbanos de Porto Alegre – TRENSURB (então subsidiária da Rede Ferroviária Federal S.A. - RFFSA).
+    2. Afastou a aplicação do entendimento fixado pelo Supremo Tribunal Federal no julgamento do RE 586.453, sob o fundamento de que não se trata de benefício devido por entidade de previdência privada, mas de direito decorrente do contrato de trabalho, e sob responsabilidade da União, em razão das Leis nº 8.186/1991 e 10.478/2002.
+    3. Demonstrado o dissenso pretoriano no tocante à definição da competência material, deve ser observada a jurisprudência desta Subseção Especializada, segundo a qual compete à Justiça Comum julgar as controvérsias sobre complementação de aposentadoria paga aos ex-ferroviários da TRENSURB pela União, por força de lei, uma vez que se trata de vínculo de caráter jurídico-administrativo.
+    Recurso de embargos conhecido e provido.”
+    No apelo extremo, com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 109, I e § 3º, 114, I e 202, § 2º, da Carta da República.
+    Nas razões recursais, sustenta-se a incompetência da Justiça do Trabalho eis que “no caso dos autos em que a autora busca reajuste na sua aposentadoria e, se deferido o reajuste pretendido, a nova remuneração passará a constituir a base-de-cálculo do salário-de-contribuição e, por conseguinte, do salário-de-benefício, parcelas estas que possuem indubitável natureza previdenciária, razão pela qual insere a resolução do conflito na competência da Justiça Federal.” (eDOC 37, p. 9).
+    A Vice-Presidência do Tribunal de origem sobrestou o recurso extraordinário tendo em vista o fato de a matéria impugnada ter relação com o decidido no recurso extraordinário inadmitiu o recurso extraordinário 594.435 (Tema 149), o qual aguardava o trânsito em julgado (eDOC 68).
+     Contra tal decisão, a União apresentou agravo (eDOC 71) e o Vice-Presidente do TST reviu seu posicionamento para dar seguimento ao recurso extraordinário (eDOC 76).
+    É o relatório. Decido.
+    Tendo em vista a decisão proferida pelo Tribunal Superior do Trabalho quando do julgamento dos embargos, em que se decidiu pela competência da Justiça Comum, julgo prejudicado o presente recurso extraordinário, por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
