@@ -1,0 +1,16 @@
+Decisão: Trata-se de reclamação ajuizada pela GL Events Ehxibitions Ltda., organizadora da Bienal do Livro do Rio de Janeiro, em face de decisão do Presidente do Tribunal de Justiça do Estado do Rio de Janeiro nos autos da Suspensão nº 0056881-31.2019.8.19.0000, que suspendeu os efeitos de decisão de Desembargador do TJRJ que concedera medida liminar em Mandado de Segurança para “compelir a Prefeitura do Rio de Janeiro a se abster de buscar e apreender obras em função do seu conteúdo, notadamente aquelas que tratam do homotransexualismo”.
+    Em síntese, o reclamante sustenta que a decisão questionada afrontou o disposto na ADPF 130, rel. Min. Ayres Britto, DJe 6.11.2009, e, também, os entendimentos fixados na ADI 4277 e na ADPF 132, rel. Min. Ayres Britto, DJe 13.10.2011, bem como na ADO 26, rel. Min. Celso de Mello, julg. Em 13.6.2019.
+    Anota que, com fundamento em suposta lesão à ordem pública, o Município do Rio de Janeiro restou autorizado a fiscalizar, verificar e apreender os livros comercializados na BIENAL que estejam “em conflito com os princípios morais”. Alega que tal ato constitui ato de censura baseado em visão ideológica e religiosa, além de prática de racismo contra grupo vulnerável.
+    Requer pedido liminar para suspender “os efeitos da decisão proferida pela autoridade coatora, impedindo-se que a Prefeitura do Rio de Janeiro exerça qualquer tipo de fiscalização de conteúdo, ostensivamente ou à paisana, determinando ainda que se abstenha (i.) de apreender qualquer livro exposto na Feira Bienal do Livro, e em especial a publicação “Vingadores: A Cruzada das Crianças”, na medida em que a aludida publicação não apresenta qualquer conteúdo “impróprio ou inadequado à formação de crianças e adolescentes”, bem como (ii.) de cassar o alvará de funcionamento da Bienal do Livro, sob pena de multa diária não inferior a R$1.000.ooo,oo (um milhão de reais)”
+    Deferi a liminar para que fosse determinada a suspensão os efeitos da decisão proferida pela autoridade coatora, impedindo-se a administração municipal de exercer qualquer tipo de fiscalização de conteúdo, ostensivamente ou à paisana, determinando ainda que: (i) abstivesse de apreender qualquer livro exposto na Feira Bienal do Livro, e em especial a publicação “Vingadores: A Cruzada das Crianças” e (ii) abstenha-se de cassar o alvará de funcionamento da Bienal do Livro. (eDOC 10)
+    Foram opostos embargos de declaração contra a decisão liminar proferida. (eDOC 12)
+    A autoridade reclamada prestou informações, consoante eDOCs 34- 35.
+    Citada, a parte interessada apresentou contestação.
+    Decido.
+    Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Rio de Janeiro, verifica-se que a Suspensão de Liminar 0056683-91.2019.8.19.0000 encontra-se arquivada desde 15.10.2019 e o MS 0056681-31.2019.S.19.0000 restou extinto sem julgamento do mérito em virtude da perda superveniente do interesse processual, em 26.9.19.
+    Dessa forma, como não mais subsistem os atos reclamados, julgo prejudicada a presente reclamação, ante a perda superveniente de seu objeto (RISTF, art. 21, IX).
+     Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
