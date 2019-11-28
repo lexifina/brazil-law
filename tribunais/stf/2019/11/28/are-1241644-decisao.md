@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 1, p. 219 – grifos meus):
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. SUSPENSÃO DETERMINADA EM AÇÃO RESCISÓRIA. PEDIDO DE RETIRADA DA SUSPENSÃO. IMPOSSIBILIDADE.
+    1. Cuida-se de agravo de instrumento aviado por Luiza Alves Monteiro, contra decisão proferida pelo Juízo da 14ª Vara Federal da Seção Judiciária da Paraíba que, em sede de embargos da União à execução de sentença prolatada em ação coletiva, determinou a suspensão da execução, em cumprimento a liminar deferida na ação rescisória n° 0000333-64.2012.4.01.000 que tramita perante o Tribunal Regional Federal da 1ª Região.
+    2. O cerne do recurso em análise reside na verificação quanto à possibilidade de suspensão da execução da sentença que condenou a União a pagar valores atrasados em favor da autora.
+    3. Como noticiado pela própria recorrente, a execução individual em pauta é decorrente da ação coletiva proposta perante o TRF da 1ª Região, que julgou procedente o pedido para estender aos substituídos da ASDNER, todas as vantagens financeiras decorrentes do Plano Especial de Cargos do DNIT, previsto pelo artigo 3º da Lei nº 11.171/2005, que tiverem sido concedidas aos servidores do quadro específico dessa autarquia, oriundo do DNER, observada a situação individual de cada um deles, em relação ao enquadramento funcional a que seriam submetidos, caso ainda estivessem em atividade quando da extinção da mencionada autarquia.
+    4. Acontece que, em sede de ação rescisória ajuizada para desconstituir o julgado objeto da execução de sentença, o próprio TRF da 1ª Região determinou a suspensão das execuções a ela correlatas, até o julgamento definitivo da ação.
+    5. Assim agindo, aquele tribunal não obstou tão somente a expedição do precatório, mas sim a execução de tal obrigação como um todo, evitando-se a realização de atos que seriam inúteis, caso rescindido o julgado exequendo, razão pela qual decidiu com acerto o juízo recorrido.
+    6. Desta feita, ainda que tenha havido manifestação definitiva do STF a respeito da matéria em discussão (RE 677.730 - DF, com repercussão geral), é preciso que haja, após provocação da parte interessada, tal reconhecimento pelo Juízo que suspendeu a exigibilidade do título, sob pena de descumprimento de ordem judicial com plena validade e eficácia, além de violação ao princípio do Juiz Natural.
+    7. Neste esteio, a execução de que se cuida deve permanecer suspensa até ulterior deliberação na ação rescisória nº 0000333-64.2012.4.01.0000, em trâmite no Tribunal Regional Federal da 1ª Região.
+    8. Agravo de instrumento desprovido.”
+    Os embargos de declaração foram rejeitados. (eDOC 1, p. 283-290)
+    No recurso extraordinário, com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 5º, caput e incisos XXXVI e LXXVIII, da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, que “A parte exequente, ora recorrente, tentou dar prosseguimento ao feito executivo, mostrando de maneira clara e precisa o direito do(a) exequente de receber suas verbas oriundas do Plano Especial de Cargos do DNIT, contudo, seus apelos não lhe foram providos, aduzindo o(s) julgador(es) que a presente execução não detém os requisitos legais, inclusive sugerindo que o(a) exequente ingresse com nova ação, quando reunir todos os pressupostos legais, ferindo o princípio constitucional da razoável duração do processo.” (eDOC 1, p. 346)
+    A Vice-Presidência do TRF da 5ª Região negou seguimento ao recurso extraordinário em face da ausência de ofensa direta à Constituição Federal. (eDOC 1, p. 384/385)
+    É o relatório. Decido.
+    De plano, verifico que a controvérsia cinge-se ao Tema 602 (RE-RG 677.730), de relatoria do Min. Gilmar Mendes, DJe 24.10.2014, julgado sob o rito da sistemática da repercussão geral, cuja tese ora reproduzo:
+    “Os servidores aposentados e pensionistas do extinto DNER fazem jus aos efeitos financeiros decorrentes do enquadramento de servidores ativos que, provindos deste órgão, passaram a gozar dos benefícios e vantagens resultantes do Pleno Especial de Cargos do DNIT, instituído pela Lei 11.171/2005.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
