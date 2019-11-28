@@ -1,0 +1,35 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS. CONVERSÃO. URV. CONTROVÉRSIA QUANTO À EXISTÊNCIA DE PREJUÍZO SALARIAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO–PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo nas alíneas a e c do permissivo constitucional, contra acórdão que assentou:
+    “SERVIDORES PÚBLICOS ESTADUAIS — Reajuste de vencimentos — URV — Lei Complementar Estadual n° 795/95 — Prescrição do fundo de direito afastada pelo STJ — No mérito propriamente dito, a ação improcede — Competência do Estado na administração orçamentária — Receita com limites de comprometimento — Ônus sucumbências — Artigo 285-A do Código de Processo Civil — Resistência do Estado à pretensão deduzida — Princípio da Causalidade — Verbas sucumbenciais devidas pelos autores — Ação julgada improcedente em 1ª Instância — Sentença mantida — Recurso não provido.” (Vol. 2 p. 96)
+    Nas razões do apelo extremo, os recorrentes sustentam preliminar de repercussão geral e, no mérito, afirmam que o entendimento adotado pelo acórdão recorrido – no sentido da inaplicabilidade das disposições do artigo 22 da Lei 8.880/1994 no recálculo de seus vencimentos – viola o artigo 22, inciso VI, da Constituição da República (Vol. 2 – p. 129-193).
+    O recorrido, em contrarrazões, pugna, preliminarmente, pelo não conhecimento do recurso e, caso superada a admissibilidade, no mérito, requer o desprovimento do apelo extremo (Vol. 2 – p. 145-174).
+    O Tribunal a quo admitiu o recurso extraordinário por entender que preencheria os requisitos extrínsecos e intrínsecos (Vol. 11– p. 28-29).
+    É o relatório. DECIDO.
+    O recurso extraordinário não merece prosperar.
+    O Tribunal de origem consignou que os recorrentes não comprovaram os prejuízos que teriam sofrido, consoante se colhe do excerto do voto condutor do acórdão ora recorrido, in litteris:
+    “(...) cumpre ressaltar que os reajustes aplicados aos servidores, após a conversão feita pelo Estado de São Paulo foram superiores àqueles feitos em conformidade com a aplicação do artigo 22 da Lei nº 8.880/94, sendo certo que o Estado de São Paulo já havia previsto o reajuste dos servidores ao final do exercício de 1993, com previsão orçamentária para tanto.
+    Assim, conclui-se que os critérios adotados pelo Estado de São Paulo não resultaram em prejuízo aos requerentes.
+    (…)
+    Em suma, não fizeram os recorrentes prova, a qual, demostrasse prejuízo em função dos reajustes aplicados pela FESP serem menores do que se aplicassem àqueles contidos na conversão em URV.” (Vol. 2 – p. 101 e 105)
+    Assim, acolher a pretensão da parte recorrente e divergir do entendimento firmado pelo Tribunal de origem, no presente caso, demandaria o reexame do conjunto fático–probatório dos autos.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático–probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAIS CIVIS DO ESTADO DO ESPÍRITO SANTO. CONVERSÃO. URV. LEI ESTADUAL QUE REESTRUTUROU A CARREIRA. SÚMULAS 279 E 284/STF. DESCABIMENTO.
+    1. As razões recursais do recurso extraordinário não guardam pertinência com a fundamentação do acórdão recorrido. Incidência da Súmula 284/STF.
+    2. Saber se houve efetivo prejuízo quanto à mudança de data do pagamento implicaria rever os fatos e provas constantes nos autos (Súmula 279/STF).
+    3. Ausência de argumentos capazes para infirmar a decisão agravada.
+    4. Agravo regimental a que se nega provimento.” (RE 547.322-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 14/10/2015)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. RECOMPOSIÇÃO SALARIAL. CONVERSÃO DE CRUZEIRO REAL PARA URV. DECESSO REMUNERATÓRIO. CONTROVÉRSIA DECIDIDA À LUZ DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. PRECEDENTES.
+    1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático–probatório dos autos.
+    2. Agravo regimental desprovido.” (RE 599.644-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 19/12/2011)
+    Por oportuno, vale destacar lição de Roberto Rosas sobre a Súmula 279 do STF:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
