@@ -1,0 +1,22 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Relatório
+    1. Em 19.11.2019, neguei seguimento ao recurso extraordinário com agravo interposto por Delmir Antonio Comparin sob o fundamento de ausência de preliminar formal da repercussão geral (e-doc. 8).
+    2. Publicada essa decisão no DJe de 21.11.2019, o embargante opõe, tempestivamente, em 25.11.2019, embargos de declaração (e-doc. 10).
+    O embargante aponta “obscuridade, omissão e contradição com relação a alegação constante do recurso por causa da não análise na decisão atacada de falta de fundamentação na pena aplicada e pena base bem acima do mínimo legal” (fl. 1, e-doc. 10).
+    Requer “conheça dos presentes embargos declaratórios e lhe dê provimento, sanando a obscuridade, contradição e omissão ocorrida em não decidir a falta de fundamentação na decisão condenatória ocorrida, tendo ocorrido uma nulidade absoluta e a pena mínima muito acima do mínimo legal, devendo assim serem decididas as matérias arguidas nas razões do recurso para o fim de ser declarado e determinado a nulidade da sentença por falta de fundamentação e a aplicação da pena mínima, conforme constante nas razões do recurso, devendo tal matéria ser julgada por questão do Direito e da verdadeira Justiça” (fl. 4, e-doc. 10).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Razão jurídica não assiste ao embargante.
+    4. Como assentado na decisão embargada, a preliminar de repercussão geral é dever do recorrente, não procedimento facultativo.
+    A ausência de argumentação expressa, formal e objetivamente articulada pelo agravante para demonstrar, nas razões do recurso extraordinário, a repercussão geral da matéria constitucional arguida inviabiliza o exame do recurso, ainda que o tema em debate seja objeto de outro recurso com repercussão geral reconhecida por este Supremo Tribunal.
+    5. É pacífico o entendimento de os embargos de declaração não se prestarem para provocar a reforma da decisão embargada, salvo no ponto em que tenha sido omissa, contraditória ou obscura ou para corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil, o que não ocorre na espécie.
+    O exame da petição recursal é suficiente para constatar não se pretender provocar o esclarecimento de qualquer ponto obscuro, omisso ou contraditório nem corrigir erro material, mas tão somente modificar o conteúdo do julgado para fazer prevalecer a tese do embargante.
+    A pretensão do embargante é rediscutir a matéria. Este Supremo Tribunal assentou serem incabíveis os embargos de declaração quando, “a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, [a parte] vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa” (RTJ 191/694-695, Relator o Ministro Celso de Mello).
+    Confiram-se também os seguintes julgados:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS” (ARE n. 1.083.947-AgR-ED, de minha relatoria, Plenário, DJe 13.6.2018).
+    “EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO CRIMINAL COM AGRAVO. INEXISTÊNCIA DE VÍCIOS A SEREM SANADOS. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DECLARATÓRIOS REJEITADOS. I - Os embargos de declaração apenas são cabíveis, nos termos dos arts. 619 do Código de Processo Penal - CPP e 337 do Regimento Interno do Supremo Tribunal Federal - RISTF, quando na decisão recorrida estiver presente omissão, contradição, obscuridade ou ambiguidade. II - O embargante busca tão somente a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. III - Embargos de declaração rejeitados” (ARE n. 1.160.485-AgR-ED, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 18.3.2019).
+    6. Pelo exposto, rejeito os embargos de declaração (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
