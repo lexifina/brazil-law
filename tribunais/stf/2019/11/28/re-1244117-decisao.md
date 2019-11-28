@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE RECEITA BRUTA – CPRB. EXCLUSÃO DA BASE DE CÁLCULO. PIS. COFINS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. LEI 8.212/91. LEI 12.546/2011. LEI 12.973/2014. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA SOBRE A RECEITA BRUTA. BASE DE CÁLCULO DO PIS/COFINS. O tributo que decorre da contribuição previdenciária substitutiva sobre a receita bruta, previsto no art. 8º, "caput", da Lei 12.546/11, não pode ser deduzido das contribuições ao PIS/COFINS, cuja materialidade é a receita bruta e não a receita líquida. ” (Doc. 2, p. 366).
+    Nas razões do apelo extremo, a recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 62, § 1º, III,145, § 1º, 146, III, a, e 195, I, b, da Constituição Federal.
+    Alegou, em síntese, a possibilidade da exclusão da Contribuição Previdenciária sobre Receita Bruta – CPRB da base de cálculo da contribuição ao PIS e COFINS, porquanto não constitui receita ou faturamento originada da atuação econômica da contribuinte, não integrando a respectiva receita bruta.
+    Arguiu ser a exclusão pretendida similar ao decidido no Tema 69 do regime de repercussão geral.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Ab initio, verifica-se que os artigos 62, § 1º, III, 146, III, a, da Constituição Federal, que a parte recorrente considera violados, não foram debatidos no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: ‘quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela’.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    (...)
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 139-140 e 175-176)
+    Nesse sentido, AI 738.029-AgR, rel. min. Rosa Weber, Primeira Turma, DJe de 25/6/2013; e ARE 737.360-AgR, rel. min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    II – Agravo regimental improvido.”
+    Além disso, ainda que ultrapassado esse óbice, a impossibilidade de exclusão da Contribuição Previdenciária sobre receita Bruta – CPRB da base de cálculo da contribuição ao PIS e COFINS, foi decidida no Tribunal de origem com fundamento na legislação infraconstitucional aplicável à espécie (Leis 8.212/1991, 12.546/2011, 12.973/2014 e artigo 110 do CTN), cuja análise se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 28 de novembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
