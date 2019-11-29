@@ -1,0 +1,33 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO SINGULAR. RECLAMAÇÃO CONSTITUCIONAL. ADPF Nº 130. AUSÊNCIA DE ESTRITA ADERÊNCIA. INVIABILIDADE DE REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE DE UTILIZAR RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. AUSÊNCIA. EMBARGOS REJEITADOS.
+1. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+3. Ausência de vício justificador da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+4. Embargos de declaração rejeitados.
+    Vistos etc.
+    1. Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento à reclamação constitucional, ao fundamento da ausência de estrita aderência entre o ato impugnado e a decisão desta Suprema Corte exarada na ADPF 130/DF.
+    2. O embargante aponta obscuridade, contradição e omissão no julgado.
+    Insiste que a decisão reclamada censurou a liberdade de expressão do reclamante ao determinar a remoção das matérias jornalísticas por ele veiculadas.
+    Articula comprovados os fatos noticiados, pelo que devem ser compartilhados mediante matérias jornalísticas.
+    Deduz necessário esclarecimento, na decisão embargada, se há conteúdo ofensivo nas reportagens a extrapolar a liberdade de expressão.
+    Repisa que há identidade material entre o acordão reclamado e o paradigma ADPF 130/DF.
+    Argumenta que, em processo correlato (ARE nº 1.140.182/PR), a envolver as mesmas partes, foi determinada a devolução dos autos à origem para apreciação segundo a sistemática de repercussão geral, de modo que “este fato não foi apreciado pela r. decisão aqui embargada.”
+    Por fim, o embargante requer a concessão de efeitos infringentes para que seja julgado procedente o pedido formulado na inicial da reclamação.
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    2. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+    3. Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios.
+    4. Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    5. De início, quanto à asserção de que omisso o julgado, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    6. No que concerne aos pontos tidos por contraditórios ou obscuros, observo didaticamente explanada, na decisão embargada, a ausência de estrita aderência entre o ato impugnado e a decisão desta Suprema Corte exarada na ADPF 130/DF.
+    7. Demais disso, expressamente registrado, na decisão embargada, que a Corte reclamada reputou caracterizada a realização de atos que extrapolaram a liberdade de expressão e, por isso, determinou a retirada do conteúdo considerado ofensivo. No ponto, está claro na decisão embargada que é inviável, nesta estrita sede processual, dissentir das premissas de origem no sentido de que as manifestações do então reclamante excederam os limites da manifestação do pensamento, não se prestando esta via ao revolvimento fático-probatório.
+    8. A robustecer a intelecção no sentido da ausência de aderência entre a decisão reclamada e o parâmetro de controle, cito os seguintes julgados, inter plures:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ATO RECLAMADO FUNDADO EM DISPOSIÇÕES CONSTITUCIONAIS QUE ASSEGURAM A PRESERVAÇÃO DA HONRA E DA IMAGEM DAS PESSOAS, E NÃO NA LEI DE IMPRENSA, DECLARADA NÃO RECEPCIONADA NA ADPF 130. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE O CONTEÚDO DO ATO RECLAMADO E O DO JULGADO INDICADO COMO PARADIGMA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (Rcl 23731 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 21.9.2017).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. LIBERDADE DE EXPRESSÃO. IMPRENSA. AUSÊNCIA DE PERTINÊNCIA ESPECÍFICA DO ATO RECLAMADO COM O QUE DECIDIDO NA ADPF 130. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO NÃO PROVIDO. 1. O julgamento da APDF 130 (Tribunal Pleno, Rel. Min. Carlos Britto, DJe 05.11.2009) circunscreveu-se à análise acerca da recepção da Lei de Imprensa (Lei nº 5.250/67) pela Constituição Federal de 1988 e à necessidade de se proceder interpretação conforme a Constituição de alguns de seus artigos, descabendo potencializar sua ratio decidendi para abarcar situações concretas não previstas ou dessemelhantes. 2. In casu, não há que se falar em preservação da garantia da decisão proferida na ADPF 130 na medida em que a argumentação do ato reclamado não guarda estrita pertinência com o paradigma invocado, sendo incabível a reclamação. Precedentes. 3. Descabimento, nessa hipótese, da reclamação como sucedâneo recursal. 4. Agravo regimental a que se nega provimento” (Rcl 28262 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 09.11.2018).
+    9. Lado outro, inexistente a aventada omissão em razão do despacho que determina a aplicação da repercussão geral em caso congênere ao versado nesta reclamação, haja vista estar claro na decisão embargada que a reclamação constitucional não consubstancia sucedâneo recursal.
+    10. Pontuo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    11. Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 29 de novembro de 2019.
+Ministra Rosa Weber
+Relatora
