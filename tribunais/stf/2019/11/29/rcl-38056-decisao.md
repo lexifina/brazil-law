@@ -1,0 +1,38 @@
+RECLAMAÇÃO. ALEGAÇÃO DE EQUÍVOCO NA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. SEGUIMENTO NEGADO.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional fundada no art. 102, I, “l”, da Constituição Federal e no art. 156 do RISTF, ajuizada por Sotelgo Construções Elétrica e Civil LTDA., em face de decisão proferida pelo Órgão Especial do Tribunal Superior do Trabalho, nos autos do Processo nº 0010659-32.2013.5.18.0052, à alegação de (i) usurpação de competência e (ii) afronta às decisões desta Suprema Corte proferidas na ADPF nº 324, no RE nº 958.252-RG e no RE nº 635.546-RG, Temas 725 e 383 da sistemática de repercussão geral.
+    2. Quanto ao contexto fático e decisório de origem, a parte reclamante reporta que o Tribunal Superior do Trabalho recebeu o agravo destinado a destrancar o recurso extraordinário como agravo interno, negou-lhe provimento e determinou o pagamento de multa a favor da parte contrária no importe de 5% do valor atualizado da causa.
+    Alega ser da competência do Supremo Tribunal Federal o julgamento de agravo interposto contra a inadmissão de recurso extraordinário, cabendo ao juízo de origem apenas a remessa do recurso a esta Corte.
+    Afirma, ainda, que o recurso extraordinário não visa a discussão relativa aos pressupostos de admissibilidade de recursos de competência de outro Tribunal, como afirmado pelo Tribunal Superior do Trabalho.
+    Articula tratar-se de questão fundamental ligada à clara ofensa à Constituição Federal, porquanto demonstrada a existência de afronta direta aos seus arts. 7º, XXVI, 39, § 1º e 97.
+    Sustenta que o recurso não admitido pela Corte Trabalhista tem como objeto a aplicação de tese fixada pelo Supremo Tribunal Federal no julgamento da ADPF nº 324, no RE nº 958.252-RG e no RE nº 635.546-RG, Temas 725 e 383 da sistemática de repercussão geral.
+    Requer seja julgada procedente a presente reclamação, a fim de garantir a competência deste STF para o julgamento do agravo denegatório e recurso extraordinário. Postula, ainda, o afastamento da multa imposta pelo TST.
+    Pugna, ao final, pela cassação “[d]a decisão proferida pelo Órgão Especial do Tribunal Superior do Trabalho no processo nº TST-Ag-Ag-AIRR-10659-32.2013.5.18.0052 e determinar e encaminhamento do Recurso Extraordinário à este STF para devido processamento e julgamento”.
+    3. Deixo de citar a parte beneficiária do ato judicial reclamado, em razão da manifesta improcedência do pedido. Igualmente, dispenso a intimação da autoridade reclamada para prestar informações, bem como do Procurador-Geral da República para ofertar parecer, por tratar a demanda de matéria repetitiva.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, “l” e 103-A, § 3º, ambos da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, desobediência à súmula vinculante ou descumprimento de autoridade de decisão proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, se cuide da mesma relação jurídica e das mesmas partes.
+    2. O art. 988 do CPC/2015, em vigor desde 18.3.2016, assim disciplina o instituto:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    (…)
+    § 5º É inadmissível a reclamação:
+    I – proposta após o trânsito em julgado da decisão reclamada;
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    (...)”
+    3. Ao exame dos autos, verifico que Tribunal Superior do Trabalho negou provimento ao agravo de instrumento em recurso de revista interposto pela ora reclamante, ao entendimento de que não atendido o requisito processual da impugnação especificada, nos moldes da sua Súmula nº 422, I, de seguinte teor: "Não se conhece de recurso para o Tribunal Superior do Trabalho se as razões do recorrente não impugnam os fundamentos da decisão recorrida, nos termos em que proferida".
+    2. Manejado recurso extraordinário, a Corte reclamada negou-lhe seguimento, ao entendimento de que este Supremo Tribunal se manifestou pela inexistência da repercussão geral da questão atinente aos requisitos extrínsecos ou intrínsecos de admissibilidade de recurso em outros tribunais no RE 598.365/MG. A decisão foi mantida ao julgamento de agravo interno, consoante os fundamentos sintetizados na seguinte ementa:
+     “AGRAVOS INTERNOS. RECURSOS EXTRAORDINÁRIOS. PRESSUPOSTO DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO TST. AUSÊNCIA DE REPERCUSSÃO GERAL. Trata-se de agravos internos interpostos em face de decisão da Vice-Presidência do TST pela qual fora denegado seguimento ao recurso extraordinário com base em precedente de repercussão geral. O Supremo Tribunal Federal, ao examinar o Recurso Extraordinário nº 598.365/MG, concluiu que o exame de questão alusiva aos pressupostos de admissibilidade de recurso de competência de outro Tribunal se restringe ao âmbito infraconstitucional, inexistindo repercussão geral (Tema 181). Nesse contexto, ficam mantidos os fundamentos adotados pela decisão agravada, restando verificada, ainda, a manifesta improcedência dos presentes agravos, aplicando-se a multa prevista no § 4º do artigo 1.021 do atual CPC. Agravos internos não providos, com aplicação de multa”.
+    3. Nesse contexto, não há falar em equívoco na aplicação da sistemática da repercussão geral, uma vez que a Corte de origem entendeu pelo não cabimento de recurso de sua competência, em razão do não atendimento de pressuposto de admissibilidade de recurso de sua competência, a justificar a adoção do entendimento firmado no RE 598.365/MG.
+    4. Tampouco há usurpação de competência desta Suprema Corte, uma vez que o CPC/2015 prevê, expressamente, em seu art. 1.030, § 2º, o cabimento do agravo interno na hipótese em que negado seguimento a recurso extraordinário “interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral”.
+    5.  Já o art. 1.042 do CPC/2015 excetua, das hipóteses de cabimento do agravo dirigido a esta Suprema Corte, aquele interposto contra decisão do presidente ou do vice-presidente do tribunal recorrido que não admite o apelo extremo, quando fundada, a inadmissão, na aplicação de entendimento firmado em regime de repercussão geral.
+    6. Nessa perspectiva, quando a negativa de seguimento do recurso extraordinário se der em razão da aplicação da sistemática da repercussão geral, não cabe a esta Casa analisar o agravo manejado para questionar eventual equívoco pela Corte origem.
+    7. Portanto, a Corte de origem decidiu em consonância com o que prelecionado pela Suprema Corte, não tendo ultrapassado as balizas processuais e constitucionais de sua competência.
+    8. Ante o exposto, forte no no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame do pedido liminar.
+    Brasília, 29 de novembro de 2019.
+    Publique-se.
+Ministra Rosa Weber
+Relatora
