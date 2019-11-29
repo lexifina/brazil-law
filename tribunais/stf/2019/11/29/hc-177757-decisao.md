@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de impetração extraída do HC 157.627/PR, no qual a defesa constituída de Aldemir Bendine se insurgiu contra específico pronunciamento do Superior Tribunal de Justiça.
+    Naqueles autos, sublinhava a defesa daquele paciente que teria formulado expresso e tempestivo requerimento para apresentação de alegações finais após as defesas dos colaboradores corréus em ação penal em trâmite em primeiro grau.
+    A providência teria sido indeferida pelas instâncias antecedentes, razão pela qual a Segunda Turma, por maioria de votos, contra a compreensão deste Relator, concedeu a ordem para reconhecer, naquele caso concreto, o direito de apresentação de alegações finais em prazo sucessivo.
+     Diante disso, defesas, inclusive a do ora paciente, postularam ao eminente Min. Ricardo Lewandowski, redator para o acórdão do aludido HC 157.627/PR, a extensão da ordem concedida.
+    Em seguida, assentou Sua Excelência que, “tendo em conta que os peticionantes não participam da mesma relação jurídica processual do paciente beneficiado por decisão desta Segunda Turma, tem-se como inviável o acolhimento das pretensões formuladas, ao menos na presente relação processual”.
+    Nada obstante, sublinhou que, “demonstrada a plausibilidade, em tese, da pretensão dos autores, somada ainda à ausência dos requisitos necessários para a distribuição por prevenção à minha relatoria (art. 69 do Regimento Interno do Supremo Tribunal Federal), determino a conversão dos pedidos formulados por Gerson de Mello Almada, Djalma Rodrigues de Souza, José Antônio de Jesus, Marcio Andrade Bonilho e Antônio Borges Neto em habeas corpus, com determinação de desentranhamento e encaminhamento dos respectivos autos à Presidência, para fins de redistribuição autônoma dos remédios heroicos, na forma do RISTF.”
+    A Presidência, por sua vez, determinou a distribuição da impetração por prevenção a este Relator.
+    É o relatório. Decido.
+    2. Depreendo que a defesa não exibiu ato coator configurador da competência originária desta Suprema Corte, taxativamente estabelecida no art. 102 da Constituição da República.
+    Com efeito, não se descreve prévio pronunciamento do Superior Tribunal de Justiça, sendo que, nos casos que a a alegada coação, se existente, decorrer de atos provenientes de órgãos locais, não se perfaz competência desta Suprema Corte para fins de processamento e julgamento de habeas corpus. Em linha semelhante, colaciono precedente do Tribunal Pleno:
+    “Agravo regimental em habeas corpus. Incompetência originária do Supremo Tribunal Federal, que não detém legitimidade para processar ou julgar habeas corpus impetrado contra ato omissivo ou comissivo de juiz singular ou de tribunal de segundo grau. Agravante sem prerrogativa de foro no STF para efeito de ações penais por crimes comuns ou de responsabilidade (CF, art. 102, inciso I, alíneas d e i). Incompetência manifesta. Agravo regimental ao qual se nega provimento.” (HC 169066 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 10/05/2019)
+    E ainda: ARE 1193222 AgR-ED, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 16/08/2019; HC 169058 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 10/05/2019 e HC 155497 ED-AgR, Relator(a): Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, julgado em 25/05/2018.
+    Extraio que, em tais situações, a rigor, as impetrações não têm ultrapassado o crivo da ilustrada Presidência, de modo que sequer são distribuídas a um Relator. Confira-se ainda, nesse sentido, as decisões proferidas nos habeas corpus 169.241, 169.284 e 169.319, todos julgados, em 29.3.2019, pelo eminente Presidente, Min. Dias Toffoli.
+    3. Diante do exposto, nos termos do art. 21, §1°, RISTF, não conheço deste habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 29 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
