@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus impetrado em face de acórdão proferido no AgRg no REsp 1.499.202/SP, no âmbito do Superior Tribunal de Justiça, que não conheceu do recurso, assim ementado (eDOC 3, p. 125):
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+    Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada.”
+    Narra o impetrante, em síntese, que: a) o paciente foi condenado, como incurso no art. 33, caput, da Lei 11.343/2006, à pena de 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial aberto, substituída por restritiva de direitos, consistente na prestação de serviços à comunidade, e ao pagamento de multa; b) ao apreciar a apelação interposta pela acusação, o Tribunal de Justiça deu parcial provimento para alterar o regime prisional para o fechado.
+    À vista do exposto, pugna pelo restabelecimento da sentença condenatória no tocante ao regime prisional.
+    É o relatório. Decido.
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    1. De início, observo que a Quinta Turma do Superior Tribunal de Justiça manteve a decisão monocrática quanto à inviabilidade do agravo em recurso especial interposto pela defesa, em razão da “ausência de impugnação específica de fundamento da decisão que inadmitiu o recurso especial”, e também pelo agravante não ter infirmado os fundamentos da decisão monocrática proferida pelo relator nas razões do regimental.
+    Importa ressaltar a jurisprudência desta Corte, firme no sentido do não cabimento de habeas corpus destinado ao reexame dos pressupostos de admissibilidade de recurso interposto no Superior Tribunal de Justiça. Nesse sentido:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO. AUSÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA PELO STF. INADMISSÃO DE RECURSO PELO TRIBUNAL DE ORIGEM. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE.
+    1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante Tribunal Superior (vg. HC 111.324, de que fui Redator para o acórdão; HC 109.156, Rel. Min. Dias Toffoli; HC 115.357-AgR, Rel. Min. Dias Toffoli).
+    2. […]” (RHC 138.371 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 07.11.2017, grifei)
+    “Habeas corpus. Penal. Tráfico de drogas praticado nas imediações de estabelecimento prisional (art. 33 c/c o art. 40, inciso III, da Lei nº 11.343/06). Insurgência contra os pressupostos de admissibilidade do recurso interposto perante o Superior Tribunal de Justiça. Inadmissibilidade de discussão na via do habeas corpus. Precedentes. Afastamento da causa de aumento de pena do art. 40, inciso III, da Lei de drogas. Impossibilidade. Constatação de comercialização de drogas nas imediações de estabelecimento prisional. Motivo hábil que autoriza a incidência da causa de aumento da pena. Irrelevância de o agente infrator visar os frequentadores daquele local. Precedentes. Ordem denegada.
+    1. A jurisprudência do Supremo Tribunal Federal está sedimentada na impossibilidade do uso do habeas corpus para se reexaminarem os pressupostos de admissibilidade de recurso interposto no Superior Tribunal de Justiça. Precedentes.
+    2. […]” (HC 138.944, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 21.03.2017, grifei)
+    2. Ademais, o conhecimento originário das matérias por esta Corte configuraria supressão de instância, uma vez que o Superior Tribunal de Justiça sequer apreciou a questão suscitada nas razões do recurso especial, justamente por encontrar os óbices referentes aos pressupostos de conhecimento apontados. Esse o entendimento da Segunda Turma desta Suprema Corte:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. FIXAÇÃO DA PENA-BASE. MATÉRIA NÃO ANALISADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NA DECISÃO ATACADA NESTA IMPETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. INVIABILIDADE DO HABEAS CORPUS PARA DISCUTIR REQUISITOS DE ADMISSIBILIDADE RECURSAL DE OUTRO TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – As teses suscitadas nesta impetração não foram examinadas pelo Superior Tribunal de Justiça, que se limitou a negar seguimento ao recurso especial veiculado pela defesa, ante o óbice constante da Súmula 7/STJ. Nesse contexto, a análise daquelas questões por esta Suprema Corte implicaria indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal. Precedentes.
+    II – A jurisprudência desta Suprema Corte é assente no sentido de não ser o habeas corpus meio hábil para discutir pressupostos de admissibilidade recursal de outro tribunal, o que inviabiliza a pretensão de se determinar ao Superior Tribunal de Justiça que conheça do recurso especial. Precedentes.
+    III – Agravo regimental a que se nega provimento.” (HC 131.242 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 12.09.2018)
+    Destarte, ausente hipótese de constrangimento ilegal, não é o caso de concessão da ordem.
+    3. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 29 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
