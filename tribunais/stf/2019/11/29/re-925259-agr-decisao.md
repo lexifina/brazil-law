@@ -1,0 +1,29 @@
+Decisão:
+    Trata-se de agravo interno cujo objeto é decisão monocrática de minha relatoria, assim fundamentada:
+    “Trata-se de processo em que se discute a possibilidade de incidência de contribuição previdenciária patronal sobre verbas pagas pelo empregador em favor do empregado.
+    A pretensão deduzida pela parte não encontra amparo a jurisprudência do Supremo Tribunal Federal. Com efeito, o Plenário desta Corte vem, reiteradamente, negando a repercussão geral de controvérsias relativas à cobrança de contribuição previdenciária sobre valores pagos pelo empregador, quando pendente discussão acerca da natureza jurídica das verbas. Nesse sentido, confiram-se os seguintes precedentes:
+    ‘PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.’ (ARE 745.901-RG, Rel. Min. Teori Zavaski)
+    ‘TRIBUTÁRIO. GRATIFICAÇÃO ESPECIAL DE LOCALIDADE (GEL), TRANSFORMADA EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA (VPNI). INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incidência de contribuição previdenciária sobre a Gratificação Especial de Localidade, fundada na interpretação das Leis 9.527/97 e 9.783/99, é de natureza infraconstitucional.
+    2. O Supremo Tribunal Federal vem reiteradamente rejeitando a repercussão geral de temas análogos, em que a incidência de tributo sobre determinada verba supõe prévia definição de sua natureza, se remuneratória ou indenizatória (AI 705.941-RG, Rel. Min. CEZAR PELUSO, DJe de 23/4/2010; RE 611.512-RG, Rel. Min. ELLEN GRACIE, DJe de 23/11/2010; RE 688.001-RG, de minha relatoria, DJe de 18/11/2013; ARE 802.082-RG, de minha relatoria, DJe de 29/4/2014; ARE 745.901-RG, de minha relatoria, DJe de 18/9/2014).
+    3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.’ (RE 814.204-RG, Rel. Min. Teori Zavaski)
+    ‘REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    I – A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada.
+    II – Repercussão geral inexistente.’ (RE 611.505-RG, Rel. Min. Ayres Britto)
+    Quanto à alegada violação ao art. 97 da Constituição, ressalta-se que a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário (ARE 723.052, Rel. Min. Marco Aurélio).
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que se falar em ofensa ao art. 97 da Carta.
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.”
+    A parte agravante sustenta que, embora se resigne quanto aos capítulos que tratam do aviso prévio indenizado e da remuneração paga ao empregado nos primeiros quinze dias de afastamento, a decisão merece ser reconsiderada no capítulo relativo à incidência de contribuição previdenciária sobre o terço constitucional de férias. Afirma que o Plenário do Supremo Tribunal Federal já reconheceu a repercussão geral da questão.
+    Assiste razão à parte agravante. Dessa forma, reconsidero a decisão anteriormente proferida. Deixo de abrir prazo para contrarrazões, tendo em vista que inexiste prejuízo para a parte agravada.
+    Passo à análise do recurso.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 97; 103-A; 150, § 6º; 194; 195, I, a; e 201, § 11, todos da CF. Defende a incidência de contribuição previdenciária patronal sobre os valores pagos ao empregado a título de terço constitucional de férias.
+    Quanto à incidência de contribuição previdenciária sobre o terço constitucional de férias, cumpre registrar que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 1.072.485-RG, Rel. Min. Edson Fachin, reconheceu a repercussão geral da matéria em exame (Tema 985 da sistemática da repercussão geral).
+    Diante do exposto, reconsidero a decisão monocrática anteriormente proferida e, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 29 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
