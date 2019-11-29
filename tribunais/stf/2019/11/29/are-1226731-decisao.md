@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal da Seção Judiciária do Ceará, que negou provimento ao recurso inominado interposto pelo ora recorrente, “para manter a sentença que julgou o pedido de salário-maternidade em favor da parte autora.” (eDOC 7, p. 3)
+    Os embargos de declaração opostos foram rejeitados. (eDOC 9, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II; 37, § 6º e 102, § 2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “Consoante determinação expressa no parágrafo primeiro do art. 72 da Lei n. 8.213, cabe à empresa empregadora – e não ao INSS – o pagamento de salário-maternidade devido à respectiva empregada gestante, efetivando-se a compensação, observado o disposto no art. 248 da Constituição Federal, quando do recolhimento das contribuições incidentes sobre a folha de salários e demais rendimentos pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço.” (eDOC 10, p. 6)
+    A Presidência da Segunda Turma Recursal do TJCE inadmitiu o recurso extraordinário, por entender que não se verifica, no caso, ofensa frontal à Constituição Federal, e por concluir pela incidência do óbice da súmula 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Isso porque o recorrente, apesar de afirmar a existência de repercussão geral no recurso extraordinário, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos do processo. A mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2º, do CPC.
+    Ademais, verifica-se que o Tribunal de origem, ao apreciar o recurso, asseverou (eDOC 7, pp. 1-3):
+    “(...)
+    Com efeito, embora a Lei de Benefícios seja omissa no trato do salário-maternidade nas hipóteses de desemprego, tem entendido a jurisprudência que a concessão do benefício em casos tais decorre do próprio artigo 15, inciso II, da Lei nº 8.213/91, que aduz que mantém a qualidade de segurado, independentemente de contribuições: (...)
+    (...)
+    Observe-se que o nascimento do menor, em relação ao qual se requer o salário-maternidade, ocorreu no dia 14 de abril de 2015. Por sua vez, consta no CNIS da requerente, vínculo com a empresa KOKID INDUSTRIA E COMERCIO DE CONFECCOES LTDA, de 01/04/2009 a 15/08/2014. De se ver, pois, que mesmo estando desempregada, a autora está agasalhada pelo período de graça, mantendo, assim, o direito ao salário-maternidade. Ante o exposto, NEGO PROVIMENTO AO RECURSO para manter a sentença que julgou procedente o pedido de salário-maternidade em favor da parte autora.”
+    Desse modo, para dissentir do acórdão impugnado, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Outrossim, a apreciação do recurso extraordinário demandaria a revisão da interpretação conferida pelo Juízo de origem às normas infraconstitucionais aplicáveis ao caso, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, cito o AI 640.745-AgR/SC, da relatoria da Ministra Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REQUISITOS PARA CONCESSÃO DE SALÁRIO-MATERNIDADE. LEI N. 8.213/91. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+     Por fim, observo que o Supremo Tribunal Federal, em caso análogo, rejeitou a repercussão geral da controvérsia referente ao preenchimento de requisitos legais para a concessão de benefício previdenciário, no julgamento do ARE 821.296-RG (Tema 766), da relatoria do Ministro Roberto Barroso, em acórdão assim ementado:
+     “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral”.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do CPC c/c o art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de novembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
