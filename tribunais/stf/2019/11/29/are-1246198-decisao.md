@@ -1,0 +1,44 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “REPRESENTAÇÃO CRIMINAL – DECLARAÇÃO DE PERDA DA GRADUAÇÃO DE PRAÇA – CRIME DE CONCUSSÃO – POLICIAL MILITAR COM BOA CONDUTA – CIRCUNSTÂNCIA QUE NÃO IMPEDE A EXCLUSÃO – CONDUTA CRIMINOSA QUE OFENDE O PUNDONOR, A ÉTICA PROFISSIONAL E A FUNÇÃO SOCIAL DO POLICIAL MILITAR – REPRESENTAÇÃO JULGADA PROCEDENTE” (pág. 22 do documento eletrônico 7).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação do art. 125, § 4°, da mesma Carta.
+    Os embargos de declaração em seguida opostos foram desprovidos (pág. 19 documento eletrônico 8).
+    A pretensão recursal não merece acolhida.
+    Isso porque o dispositivo constitucional arguido pelo recorrente não foi prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios opostos não tiveram o escopo de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, destaco o RE 750.142-AgR/ES, da relatoria do Ministro Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. JUSTIÇA FEDERAL. SÚMULA 517 DO STF.
+    1. O recurso extraordinário esbarra nos óbices previstos nas Súmulas 282 e 356 do STF, por ausência de prequestionamento e não oposição de embargos declaratórios.
+    2. A competência é da Justiça Federal quando a União intervém como assistente nos casos envolvendo sociedades de economia mista.
+    3. Agravo regimental a que se nega provimento”.
+    Ademais, o Tribunal de origem decidiu a controvérsia referente à natureza do ato de licenciamento do policial militar com base nos seguintes fundamentos:
+    “[...]
+    Segundo consta nos autos n. 0027817-75.2013.8.12.0001, o representado foi condenado à pena definitiva de 03 anos e 06 meses de reclusão, em regime inicial semiaberto, pela prática do crime de concussão (art. 305, do CPM). A condenação transitou em julgado no dia 11/12/17 (fl. 68).
+    [...]
+    Quando um militar comete crime, esse fato acaba se revertendo contra a corporação, há aqui uma quebra incomensurável do seu dever de ofício que fere com intensidade a sua farda, lesando a instituição que representa.
+    É inegável que houve quebra de confiança, ficando uma lacuna em sua conduta capaz de gerar a dúvida. Os membros da corporação devem ser vistos como pessoas íntegras e capazes de exercer múltiplas funções, não podendo haver aquele que pode mais ou aquele que pode menos, com base em um caráter de maior ou de menor grau, no que diz respeito à capacidade do militar, já que a nenhum deles é permitido cometer crime.
+    A bem da disciplina e manutenção da função originária da Polícia Militar, devem ser excluídos os membros que não orientam pelos princípios rígidos e sociais da Corporação.
+    [...]
+    Logo, demonstrado que a conduta perpetrada pelo representado afronta sobremaneira os ditames que regem a carreira que integra – e o próprio Estado – de que faz parte, a declaração de que se encontra incapaz de permanecer nas fileiras da Polícia Militar é medida impositiva” (págs. 25-26 documento eletrônico 7).
+    Assim, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, destaco os seguintes enunciados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 10.10.2018. DIREITO ADMINISTRATIVO. SERVIDOR MILITAR. EXPULSÃO DA CORPORAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. LCE 893/2001. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. MATÉRIA INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. INCIDÊNCIA DA SÚMULA 636 DO STF. TEMAS 339 e 660. ART. 125, § 5º, DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. NULIDADE DO ACÓRDÃO. IMPROCEDÊNCIA. DECISÃO MONOCRÁTICA DO RELATOR. AUTORIZAÇÃO. ART. 21, § 1º, DO RISTF. PRECEDENTES.
+    1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à legalidade da exclusão do policial militar da corporação, seria necessário o reexame de fatos e provas, além da legislação local aplicável à espécie (LCE 893/2001). Incidência das Súmulas 279 e 280 do STF.
+    [...]
+    4. A questão concernente à ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. Precedente: RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013 (tema 660).
+    5. Consoante firme orientação desta Suprema Corte, o art. 125, § 5º, da Constituição Federal determina a competência dos Juízes de Direito da Justiça militar para processar e julgar, singularmente, as ações judiciais contra atos disciplinares dos militares, não fazendo nenhuma menção acerca dos julgamentos colegiados de tais demandas.
+    6. O relator pode decidir monocraticamente pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula desta Corte, nos termos do art. 21, § 1º, do RISTF.
+    7. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo, bem como a norma do § 3º do art. 98 do CPC” (ARE 931.474-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma - grifei).
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO ADMINISTRATIVO MILITAR. DEMISSÃO. SÚMULAS 673, 280 E 279/STF. NÃO VIOLAÇÃO AOS TERMOS DO ART. 125, § 5º, CF/1988. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. NÃO OCORRÊNCIA.
+    1. A solução da controvérsia demanda a análise da legislação infraconstitucional aplicada à espécie, bem como o reexame do conjunto fático-probatório dos autos, procedimentos vedados neste momento processual.
+    2. O Supremo Tribunal Federal firmou o entendimento no sentido de que o art. 125, § 5º, da Constituição, na redação dada pela EC nº 45/2004, ampliou o âmbito de atuação da Justiça militar Estadual, autorizando sua competência para processar e julgar as ações judiciais ajuizadas contra atos disciplinares militares, envolvendo não só as questões de mérito mas também o seu aspecto formal. Precedentes.
+    3. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante
+    4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, com a ressalva do art. 98, § 3º, do CPC/2015.
+    5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 (ARE 1.099.963-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma - grifei).
+    Por fim, a jurisprudência desta Corte firmou entendimento no sentido de que a competência conferida à Justiça Militar pelo art. 125, § 4°, da Constituição (em redação anterior à EC 45/2004), refere-se à perda de graduação como pena acessória criminal e não à sanção disciplinar, que pode decorrer de adequado processo administrativo (Súmula 673/STF). Nesse sentido, trago à colação decisão proferida em caso análogo ao dos autos:
+    “EMBARGOS DE DECLARAÇÃO. OCORRÊNCIA DE OMISSÃO NO JULGADO. COMPETÊNCIA. COMANDANTE GERAL DA POLÍCIA MILITAR. EXCLUSÃO DA CORPORAÇÃO. POLICIAL MILITAR. AMPLA DEFESA E CONTRADITÓRIO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279/STF.
+    Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, sobre a observância, ou não, das garantias do contraditório e da ampla defesa, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF.
+    A competência conferida à Justiça Militar pelo art. 125, § 4º, da Constituição, refere-se à perda de graduação como pena acessória criminal, e não à sanção disciplinar administrativa, como acontece no caso em exame.
+    Incidência da Súmula 673 do STF.
+    Embargos de declaração acolhidos para sanar a omissão apontada, mantendo-se, contudo, a decisão que negou seguimento ao agravo de instrumento” (AI 539.744-AgR-ED/MG, Rel. Min. Joaquim Barbosa, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de novembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
