@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Pretensão que envolve o art. 171 da Lei Complementar nº 135, de 04 de abril de 2012, que "dispõe sobre alteração do Estatuto dos Funcionários Públicos do Município de Porto Feliz, conforme especifica e dá outras providências" e estabelece um "prêmio de assiduidade" aos servidores públicos da comarca – Vantagem pecuniária vinculada a dever geral e inerente dos servidores e que não atende ao interesse público e não tem relação com exigências do serviço, trazendo ônus financeiro ao Poder Público – Ofensa aos princípios da moralidade, finalidade e interesse público – Afronta aos arts. 111 e 128 da Constituição do Estado de São Paulo – Modulação de efeitos – Não cabimento por ausência de seus requisitos – Não repetição do que já foi pago, uma vez que recebido de boa-fé – Ação procedente.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente defende a constitucionalidade da gratificação por assiduidade. Argumenta que favorece a boa prestação do serviço público com incentivo ao servidor que se mantenha acima da média de serviço, evitando as faltas dos servidores por qualquer motivo.
+    O recurso não deve ser provido. O acórdão decidiu pela inconstitucionalidade da gratificação por assiduidade, fundamentado nos princípios constitucionais da moralidade, finalidade e interesse público, considerando que assiduidade e pontualidade são deveres inerentes às funções do cargo público. Esse é um fundamento autônomo que restou incólume. Nesse caso, a hipótese atrai a incidência da Súmula 283/STF.
+    Ademais, esta Corte tem entendimento no sentido da negativa a recursos extraordinários interpostos contra acórdãos que declararam a inconstitucionalidade de leis municipais que instituíram gratificação por assiduidade, porque violam a moralidade administrativa. Vejam-se, nesse sentido, o ARE 1.240.265, Rel. Min. Alexandre de Moraes; e o RE 957.139, Rel. Min. Marco Aurélio.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de novembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
