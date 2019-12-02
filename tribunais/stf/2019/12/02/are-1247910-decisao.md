@@ -1,0 +1,19 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás.
+    No apelo extremo, interposto com amparo no art. 102, III, alínea ”a” da Constituição Federal, o recorrente sustenta a existência de repercussão geral e que o julgado ofendeu dispositivos constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido (Vol. 2, fls. 381 e ss, e-STJ).
+    É o relatório. Decido.
+    O aresto impugnado foi assim ementado (Vol. 1, fls, 236-238):
+    “APELAÇÃO CRIMINAL. USO DE DOCUMENTO FALSO. FALSIFICAÇÃO GROSSEIRA. NÃO OCORRÊNCIA. CONDENAÇÃO MANTIDA. Não há que se falar em absolvição do delito de uso de documento falso, quando o documento falso apresentado tem idoneidade material para enganar o homem comum e comprometer a fé pública. Máxime quando comprovada a autoria delitiva, quer pela confissão do réu, quer pelas provas jurisdicionalizadas, pelo crivo do contraditório.
+    2 - POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CRIME DE EFEITO PERMANENTE. INVASÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. PROVA ILÍCITA. HIPÓTESE EXCEPCIONAL. NÃO PROCEDÊNCIA. Decorrendo o ingresso policial na residência do agente em situação de flagrante delito, não há se falar em violação de domicílio e, sequer, em prova ilícita. O delito de posse ilegal de arma de fogo é crime de efeito permanente, gerando uma situação ilícita que se prolonga com o tempo, permitindo, dessa maneira, a prisão em flagrante do agente enquanto perdure a delituosa, bem como a apreensão da de fogo, independentemente, ação arma da existência de mandado judicial. Inteligência do artigo 5°, XI, in fine, da Constituição Federal.
+    3 - DOSIMETRIA.VALORAÇÃO EQUIVOCADA DA CULPABILIDADE E PERSONALIDADE DO AGENTE. FUNDAMENTAÇÃO INIDÔNEA. REDUÇÃO DA PENA-BASE. POSSIBILIDADE. Impositiva a redução da pena basilar, quando as circunstâncias judiciais atinentes à culpabilidade e à personalidade do agente foram equivocadamente analisadas e consideradas em desfavor do acusado.
+    4 - ATENUANTE DA CONFISSÃO ESPONTÂNEA (DELITO DE POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO). RECONHECIMENTO. POSSIBILIDADE. CONFISSÃO EXTRAJUDICIAL. Impositivo o reconhecimento da atenuante da confissão espontânea, quando o réu confessou a autoria delitiva perante a autoridade judicial. Por serem igualmente preponderantes, a atenuante da confissão espontânea e a agravante da reincidência se compensam entre si. Regime inicial semiaberto mantido. Penas de multa redimensionadas para guardar proporcionalidade com as corpóreas.
+    5 - PENA CORPÓREA. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. RÉU REINCIDENTE EM CRIME DOLOSO. Há óbice na substituição da pena corpórea por restritivas de direitos quando se cuida de réu reincidente, em crime doloso. Inteligência do artigo 44, II, do Código Penal.
+    APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.”
+    Efetivamente, o Tribunal de origem, com fundamento na legislação ordinária e no substrato fático constante dos autos, deu parcial provimento ao recurso defensivo para reduzir a pena imposta, porém mantendo a condenação do recorrente pelos delitos de porte irregular de arma de fogo e uso de documento falso. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que eventuais ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    No mais, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 2 de dezembro de 2019.
+Min. Alexandre de Moraes
+  Relator
+documento assinado digitalmente
