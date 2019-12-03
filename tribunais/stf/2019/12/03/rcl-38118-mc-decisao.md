@@ -1,0 +1,41 @@
+Decisão: Trata-se de reclamação, com pedido liminar, em face de acórdão proferido pela Turma Recursal dos Juizados Especiais Federais de Sergipe, nos autos do Processo nº 0500417-66.2016.4.05.8500, que teria desrespeitado a autoridade da decisão proferida na AO 1.773.
+    Narra a parte reclamante que o ora beneficiário, magistrado federal, propôs ação ordinária em face da União requerendo o recebimento da ajuda de custo para cobrir despesas com moradia, uma vez que não há residência oficial disponível na cidade em que exerceu sua funções, qual seja, a cidade de Aracaju/SE.
+    Sobreveio sentença julgando procedente o pedido. Ante interposição de recurso inominado, a Turma Recursal do Juizado Especial Federal da Seção Judiciária de Sergipe, em um primeiro momento, determinou a suspensão do processo com fundamento na decisão proferida na Ação Originárias 1773, de relatoria do Ministro Luiz Fux.
+    Alega-se, contudo, que, em 16.10.2019, o Juízo reclamado ordenou o prosseguimento do feito. Negou seguimento ao recurso inominado da União e manteve a sentença por seus próprios fundamentos. Dessa decisão, foram opostos embargos de declaração, pendentes de apreciação (eDOC 1, p. 4).
+    Desse modo, sustenta-se, em síntese, afrontada a autoridade da decisão desta Corte na AO 1773, porquanto no citado paradigma, foi determinada a suspensão das ações em trâmite em todas os tribunais e juízos.
+    Assim requer, liminarmente e no mérito, a suspensão da decisão reclamada.
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    O reclamante alega violação ao conteúdo da decisão proferida na AO 1773, Relator Ministro Luiz Fux, cuja parte da conclusão transcrevo:
+    “Por fim, resta necessário pontuar que, ante a readequação dos efeitos das tutelas antecipadas nestes autos, as Resoluções (Resoluções CNJ nº 199/2014 e CNMP nº 117/2014) editadas pelos órgãos de controle em cumprimento ao pronunciamento judicial exarado nestes autos e nos correlatos devem ter seus efeitos suspensos, consoante o que previsto na parte final desta decisão.
+    Por fim, é preciso rememorar que uma das condições para a solução do conflito ventiladas nos autos pela Advocacia-Geral da União, qual seja, a da recomposição do subsídio de Ministro do Supremo Tribunal Federal, ocorreu efetivamente, o que legitima a modificação da liminar ora deferida para o deslinde da controvérsia existente nos autos.
+    Ex positis, e especialmente diante das recentes leis de revisão do subsídio de Ministro do STF e do Procurador-Geral da República que purgaram, ainda que parcialmente, a mora constitucional (art. 37, X, da CRFB), REVOGO, com efeitos prospectivos (ex nunc), ex vi do art. 296 do NCPC, as tutelas antecipadas exaradas nestes autos e nos que lhes são correlatos, afastando qualquer pretensão de ressarcimento pretérito ao Erário, para:
+    i) Reconhecer, com efeitos prospectivos nos termos do item II abaixo, a impossibilidade do recebimento do auxílio-moradia por qualquer membro do Poder Judiciário, do Ministério Público, das Defensorias Públicas, das Procuradorias, dos Tribunais de Contas ou de qualquer outra carreira jurídica que esteja sendo pago: i) com base na simetria com a Magistratura; ii) com fundamento nas liminares deferidas nesta ação e nas que lhe são correlatas, ou iii) com amparo em atos normativos locais (leis, resoluções ou de qualquer outra espécie).
+    ii) Determinar que a cessação do pagamento do auxílio-moradia só ocorra quando do implemento financeiro no contracheque do subsídio majorado pelas Leis n.º 13.752/2018 e n.º 13.753/2018.
+    iii) Suspender, com efeitos prospectivos nos termos do item II acima, as Resoluções CNJ nº 199/2014 e CNMP nº 117/2014.
+    iv) Remeter cópia da presente decisão ao CNJ e ao CNMP para regulamentarem a matéria sub judice, obedecida a presente decisão, vedada qualquer distinção entre os membros da Magistratura e do Ministério Público.
+    v) Suspender todas as ações em tramitação nos demais tribunais e juízos, individuais ou coletivas, e, prospectivamente, os efeitos de todas as decisões nelas proferidas que tenham como objeto a vantagem sub judice (auxílio-moradia).
+    vi) Determinar que os efeitos desta decisão também se estendam às ações de minha relatoria e que lhe são correlatas, notadamente à AO 1.773, AO 1.946, a AO 1.776, a AO 1.975 e ACO 2.511.
+    vii) Esclarecer que esta decisão não restaura eventual ato normativo estadual ou de outro ente da federação (lei, resolução ou ato de qualquer outra espécie) que autorizava o pagamento do auxílio-moradia, aplicando-se a vedação de pagamento do referido auxílio aos membros da Magistratura, Ministério Público, Defensorias Públicas, Tribunais de Contas, Procuradorias e demais carreiras jurídicas de todos os entes da federação, observado o que previsto no item iv supra.
+    viii) Assentar que o descumprimento desta decisão ou a adoção de qualquer medida para preterir a sua eficácia plena caracteriza, dentre outras infrações, improbidade administrativa da autoridade máxima do órgão que continuar a pagar ou que permitir o pagamento do auxílio moradia fora dos limites previstos nesta decisão.”
+    In casu, consta do ato reclamado que (eDOC 6):
+    “O art. 313, V, a, CPC/2015, prevê a suspensão do processo quando a sentença de mérito depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente.
+    O seu parágrafo § 4º, no entanto, estabelece que o prazo de suspensão nunca poderá exceder 1 (um) ano nas hipóteses do inciso V.
+    In casu, o prazo de um ano já fora excedido, permitindo assim o prosseguimento da demanda e o consequente julgamento do recurso inominado do anexo nº 29.
+    Além disso, torna-se imperioso destacar que a demanda que fundamentou a suspensão do presente feito foi objeto de apreciação pelo Ministro Luiz Fux, que em sede de liminar, foi taxativo ao limitar os efeitos prospectivos de sua decisão às demandas que têm como fundamento a simetria com a Magistratura, o que em nada corresponde ao que se busca na presente ação.
+    Em relação à preliminar de incompetência arguída pela 2ª Relatoria no voto do anexo nº 40, remeto-me às razões expendidas no voto da 1ª Relatoria (anexo nº 42), afastando-a.
+    Com relação ao mérito, não há reparos a fazer na sentença recorrida, uma vez que reflete o entendimento já adotado neste colegiado.”
+    Em sede de análise prefacial, entendo presentes os requisitos à concessão de medida liminar de sustação dos efeitos do ato reclamado.
+    Com efeito, ao se dar prosseguimento a ação, há aparente afronta à decisão da AO 1773, cuja determinação foi para manter suspensas as ações cujo objeto era o direito ou não ao auxílio moradia dos magistrados.
+    Do conteúdo do ato reclamado depreende-se a plena plausibilidade jurídica nas alegações da parte reclamante.
+    Soma-se a isso a presença na espécie do segundo requisito: perigo na demora, para o provimento cautelar, que se traduz no risco da produção dos efeitos da decisão reclamada, caso o processo siga sua marcha regular.
+    Ante o exposto, sem prejuízo de nova apreciação da matéria quando do julgamento de mérito, bem como das alegações sustentadas em contestação, defiro a medida liminar de sustação dos efeitos da decisão proferida nos autos nº 0500417-66.2016.4.05.8500.
+    Comunique-se à autoridade judicial prolatora da decisão.
+    Requisitem-se informações à autoridade reclamada no prazo legal, consoante o artigo 989, I, do CPC.
+    Ainda, cite-se o beneficiário da decisão reclamada, conforme o disposto no art. 989, III, do CPC, a fim de que apresente contestação.
+    Findos os prazos, remetam-se os autos à Procuradoria-Geral da República, para oferta de parecer (art. 991 do CPC). Após, volte conclusos.
+    Publique-se. Intime-se.
+    Brasília, 3 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
