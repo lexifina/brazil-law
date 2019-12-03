@@ -1,0 +1,25 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO REJEITADOS
+Relatório
+    1. Em 3.6.2019, neguei seguimento à reclamação ajuizada por Sindicato dos Trabalhadores nas Indústrias de Alimentação de Tupã contra decisão de não conhecimento do agravo em recurso extraordinário proferida pelo Vice-Presidente do Tribunal Regional Federal da Terceira Região no Processo n. 0014823-36.2013.4.03.6100/SP, pela qual teria sido usurpada a competência do Supremo Tribunal Federal.
+    2. Publicada essa decisão no DJe de 25.6.2019, Sindicato dos Trabalhadores nas Indústrias de Alimentação de Tupã, em 16.8.2019, interpôs agravo regimental.
+    3. Em 10.9.2019, Sindicato dos Trabalhadores nas Indústrias de Alimentação de Tupã protocolizou petição (54.666/2019) de requerimento de “suspensão do presente processo, tendo em vista a decisão proferida pelo i. Ministro Roberto Barroso, na ADI 5090, que determinou a SUSPENSÃO de todos os processos que versem sobre a mesma matéria, referente à possibilidade, ou não, de a TR ser substituída como índice de correção monetária dos saldos das contas vinculadas ao FGTS, que é o objeto dos autos” (fl. 1, e-doc. 12).
+    4. Em 20.9.2019, indeferi requerimento de sobrestamento do agravo regimental na presente reclamação, nos termos seguintes:
+    “A matéria tratada na Ação Direta de Inconstitucionalidade n. 5.090/DF, atualização dos depósitos do Fundo de Garantia do Tempo de Serviço – FGTS, não é objeto da presente reclamação, ajuizada com o argumento de usurpação da competência deste Supremo Tribunal para conhecer de agravo interposto contra decisão pela qual aplicado tema de repercussão geral” (e-doc. 14).
+    5. Publicada essa decisão no DJe de 24.9.2019, Sindicato dos Trabalhadores nas Indústrias de Alimentação de Tupã opõe embargos de declaração (e-doc. 15).
+    Sustenta haver contradição na decisão reclamada, pois “tratou o pedido de sobrestamento como se fosse fundado em reconhecimento de repercussão geral, quando o fundamento do pedido é concessão de medida cautelar em ação direta de inconstitucionalidade para evitar perecimento de direito” (fl. 3, e-doc. 15).
+    Assevera que “os precedentes dessa Suprema Corte não impedem o sobrestamento de ação originária do STF, por decisão de seu Relator, ainda que o sobrestamento tenha por fundamento decisão de outro Ministro que reconhece a repercussão geral ” (fl. 5, e-doc. 3).
+    Pede “o conhecimento e acolhimento dos presentes embargos, com efeitos infringentes, para o fim de sanar o erro material ou contradição consistente em que a decisão embargada considerou como fundamento do pedido de sobrestamento a existência de repercussão geral e não a concessão de medida cautelar para evitar perecimento de direito” (fl. 5, e-doc. 3).
+    6. Na sessão virtual de 11.10.2019 a 17.10.2019, a Segunda Turma deste Supremo Tribunal negou provimento ao agravo regimental interposto por Sindicato dos Trabalhadores nas Indústrias de Alimentação de Tupã.
+    Examinados os elementos havidos no processo, DECIDO.
+    7. A análise da alegada contradição em “decisão unipessoal”, suscitada nos presentes embargos, há de ser feita monocraticamente, nos termos do § 2º do art. 1.024 do Código de Processo Civil (RE n. 926.941-ED, Relator o Ministro Celso de Mello, DJe 20.5.2016; RE n. 759.624-ED, Relator o Ministro Roberto Barroso, DJe 16.5.2016; e ARE n. 938.544-ED, Relator o Ministro Celso de Mello, DJe 17.5.2016).
+    8. Razão jurídica não assiste ao embargante.
+    Inexiste a contradição alegada pelo embargante.
+    Na espécie em exame, ao negar seguimento à reclamação, ressaltei o ponto controvertido, salientando que se examina “nesta reclamação se, ao não conhecer agravo interposto com base no art. 1.042 do Código de Processo Civil contra acórdão do Órgão Especial do Tribunal Regional Federal da Terceira Região pelo qual negado provimento a agravo interno, o Vice-Presidente do Tribunal Regional Federal da Terceira Região teria usurpado a competência deste Supremo Tribunal”.
+    Com base nessas premissas, ao indeferir o pedido de sobrestamento, assentei que “a matéria tratada na Ação Direta de Inconstitucionalidade n. 5.090/DF, atualização dos depósitos do Fundo de Garantia do Tempo de Serviço – FGTS, não é objeto da presente reclamação, ajuizada com o argumento de usurpação da competência deste Supremo Tribunal para conhecer de agravo interposto contra decisão pela qual aplicado tema de repercussão geral”.
+    9. É pacífico o entendimento de os embargos de declaração não se prestarem para provocar a reforma da decisão embargada, salvo no ponto em que tenha sido omissa, contraditória ou obscura ou para corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil, o que não se tem na espécie.
+    10. Pelo exposto, ausentes os requisitos legais de embargabilidade, rejeito os embargos de declaração (§ 2º do art. 1.024 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de dezembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
