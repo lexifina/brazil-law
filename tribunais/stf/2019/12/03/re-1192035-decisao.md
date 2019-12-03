@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE CONCESSÃO DE PENSÃO POR MORTE. LIMITE DE IDADE. IMPROCEDÊNCIA LIMINAR DO PEDIDO. RECURSO REPETITIVO. INAPLICÁVEL. CRITÉRIO DA ESPECIALIDADE. RETORNO À INSTÂNCIA DE ORIGEM. APELO PROVIDO.
+    I - Diante de uma improcedência in limine, deve-se analisar se o julgado utilizado como parâmetro aplica-se ao caso.
+    II - O mérito do caso versa sobre concessão de benefício previdenciário cujo requisito é determinado por lei especial, notadamente a Lei Complementar nº 30/11, que em seu art. 2º, II, ‘b’ estipula 21 anos como limite de idade para recebimento do benefício.
+    III - Todavia, esse dispositivo fora declarado inconstitucional por este Egrégio Tribunal de Justiça na Arguição de Inconstitucionalidade nº 0005283-94.2015.8.04.0000.
+    IV - Em se tratando de procedimento especial, regido, portanto, por lei própria, tal disposição prevalece frente àquelas gerais previstas no ordenamento jurídico, justamente em razão do critério de especialidade.
+    V - Apesar de ter sido adotado entendimento contrário à apelante no Recurso Repetitivo de Tema 643 pelo STJ, sendo esta a fundamentação utilizada pelo juízo a quo, tal julgado não se aplica ao caso em questão por haver norma específica, inapta a sustentar a improcedência liminar.
+    VI - Apelação conhecida e provida” (págs. 1-2 do documento eletrônico 6).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa aos arts. 24, XII, § 1° e § 4°; 40, § 12; e 195, § 5°, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso extraordinário (documento eletrônico 21).
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que os arts. 24, XII, § 1° e § 4°; e 40, § 12, da Lei Maior não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+    Além disso, o Tribunal de origem decidiu a controvérsia dos autos com base nos seguintes fundamentos:
+    “02.06. O mérito do caso em tela versa sobre concessão de benefício previdenciário a uma dependente de segurado da AMAZONPREV. Em se tratando de entidade estadual, os requisitos para a concessão são determinados por lei especial, qual seja, a Lei Complementar nº 30/11, que em seu art. 2º, II, b estipula 21 anos como limite de idade para recebimento do benefício.
+    02.07. Todavia, esse dispositivo fora declarado inconstitucional por este Egrégio Tribunal de Justiça na Arguição de Inconstitucionalidade nº 0005283-94.2015.8.04.0000, de modo a permitir o recebimento do benefício para dependentes maiores de 21 anos.
+    02.08. Salienta-se que, em se tratando de procedimento especial, regido, portanto, por lei própria, tal disposição prevalece frente àquelas gerais previstas no ordenamento jurídico, como a utilizada de parâmetro pelo Tema 634/STJ (Lei 8.213/91), justamente em razão do critério de especialidade.
+    02.09. Assim, apesar de ter sido adotado entendimento contrário à apelante no Recurso Repetitivo de Tema 643 pelo STJ, sendo esta a fundamentação utilizada pelo juízo a quo, tal julgado não se aplica ao caso em questão por haver norma específica, inapta a sustentar a improcedência liminar” (pág. 4 do documento eletrônico 6).
+    Nesse contexto, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, seria necessária a reanálise da interpretação dada pelo Juízo a quo à legislação infraconstitucional, federal e local, aplicável à espécie (Lei Complementar Estadual 30/2011 e Lei 8.213/1991), de modo que eventual ofensa à Constituição Federal seria indireta, além de incidir, no caso, o óbice da Súmula 280/STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco o julgamento do ARE 916.351-AgR/BA, de relatoria da Ministra Cármen Lúcia, cuja ementa transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. PREVIDENCIÁRIO. BENEFICIÁRIO DE PENSÃO POR MORTE. LIMITE DE IDADE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo Juízo de origem.
+    Publique-se.
+    Brasília, 3 de dezembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
