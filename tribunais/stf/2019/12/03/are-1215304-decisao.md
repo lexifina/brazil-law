@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de agravo interposto contra decisão em que se negou seguimento a recurso extraordinário (eDOC 13, pp. 10-12), com fundamento no art. 1.030, I, do CPC/2015, em razão da decisão do STF no julgamento do RE 603.616/RO (Tema 280 da Repercussão Geral).
+    O agravante, em síntese, alega que “a decisão impugnada não está alinhada com a decisão proferida [...] no âmbito do Recurso Extraordinário de nº 603.616/RO”.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Consoante a orientação firmada por esta Suprema Corte, não é cabível recurso de decisão que encaminha o feito à origem, em atenção à sistemática da repercussão geral. Nesse sentido:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Telefonia. Cobrança de pulsos além da franquia. Matéria infraconstitucional. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de Ordem acolhida para reconhecer a inexistência de repercussão geral da matéria, reafirmar a jurisprudência do Tribunal, não conhecer o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 2º, do Código de Processo Civil.” (AI 777749 QO-RG, Relator Ministro Gilmar Mendes, Pleno, DJe 26.04.2011 – grifos acrescidos).
+    Tampouco cabe agravo da decisão do tribunal de origem que aplica entendimento do STF em questão de repercussão geral. Confira-se ementa do julgado:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (AI 760.358 QO, Relator Gilmar Mendes, Pleno, DJe 19.02.2010).
+    No caso, o STF já decidiu o mérito da questão no recurso-paradigma já citado. Dessa forma, demais recursos com idêntica matéria devem ser analisados pelo Tribunal de origem, sob pena de se inutilizar o próprio instituto da repercussão geral.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos aos Tribunais ou Turmas Recursais de origem para os fins de aplicação da sistemática da repercussão geral. É dos tribunais de origem, portanto, a competência para a aplicação da referida sistemática.
+    Ante o exposto, não conheço do agravo, nos termos do art. 21, § 1º, do RISTF, por ser manifestamente incabível.
+    Determino a certificação do trânsito em julgado desta decisão nesta data e, ainda, a baixa imediata dos autos ao Tribunal de origem independentemente de publicação.
+    Publique-se.
+    Brasília, 3 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
