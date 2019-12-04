@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO. ARTIGO 121, § 2º, I E IV, DO CÓDIGO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO ORA AGRAVADA. SÚMULA 287 DO STF. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIO DUPLAMENTE QUALIFICADO PELO MOTIVO TORPE E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA (ART. 121, §2°, INCISOS I E IV, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. PLEITO DE ANULAÇÃO DA DELIBERAÇÃO PLENÁRIA POR SER MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. NÃO OCORRÊNCIA. DECISÃO DO CONSELHO DE SENTENÇA QUE ENCONTRA ARRIMO NAS PROVAS PRODUZIDAS. PROVA ORAL QUE SE MOSTRA SUFICIENTE À AMPARAR O ÉDITO CONDENATÓRIO. PEDIDO DE READEQUAÇÃO DO CÁLCULO DOSIMÉTRICO. AFASTAMENTO DA VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO DELITO. INVIABILIDADE. VÍTIMA QUE DEIXOU TRÊS FILHOS MENORES DE IDADE. RESULTADO QUE FOGE À NORMALIDADE DO TIPO. DE OFÍCIO, RECONHECIDA INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA EM RELAÇÃO AO APELANTE VALDECIR. ACRÉSCIMO DE TESE EXCULPANTE QUE NÃO TEM O CONDÃO DE AFASTAR A DIMINUIÇÃO DA PENA. EXECUÇÃO PROVISÓRIA. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL (HC N. 126.292/SP). POSIÇÃO ADOTADA POR ESTA CÂMARA CRIMINAL. IMEDIATO CUMPRIMENTO DAS REPRIMENDAS QUE SE IMPÕE. RECURSO CONHECIDO E DESPROVIDO. DE OFICIO, READEQUADA A REPRIMENDA DO APELANTE VALDECIR”. (Doc. 33, p. 10)
+    Os embargos de declaração opostos foram rejeitados. (Doc. 38, p. 41)
+    Nas razões do apelo extremo, as partes recorrentes, no mérito, apontam violação aos artigos 1º, III, e 5º, II, XXXIX e XLVI, da Constituição Federal. (Doc. 40, p. 24-42)
+      O Tribunal a quo negou seguimento ao recurso extraordinário, por entender ausente a preliminar de repercussão geral. (Doc. 41, p. 6-7)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, a parte agravante não atacou o único fundamento da decisão agravada, relativo à ausência de preliminar de repercussão geral. Esta Suprema Corte firmou jurisprudência no sentido de que a parte tem o dever de impugnar os fundamentos da decisão agravada, sob pena de não ter sua pretensão acolhida, por vedação expressa do enunciado da Súmula 287 deste Supremo Tribunal Federal, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.083.973-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 17/4/2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TEMA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. AGRAVO DESPROVIDO.
+    1. Para dissentir da conclusão do Tribunal de origem mostra-se necessário o reexame da legislação infraconstitucional aplicável à espécie, a revelar que a ofensa à Constituição, se existente, seria meramente reflexa.
+    2. É inviável o conhecimento do recurso que não ataca, especificamente, os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287 do STF.
+    3. O acolhimento da ausência de prática de delito permanente exige reexame do conjunto fático-probatório, providência inadmitida pela Súmula 279/STF.
+    4. Agravo regimental a que se nega provimento.” (ARE 1.012.203-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 12/4/2018)
+    Ex positis, NÃO CONHEÇO do agravo, com fundamento no artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
