@@ -1,0 +1,15 @@
+DESPACHO: O presente recurso extraordinário foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “TRIBUTÁRIO. REEXAME NECESSÁRIO. COOPERATIVA DE CONSUMO. ART. 69 DA LEI 9.532/97.
+    1. Destarte, o art. 69 da lei n° 9532/97, ao compelir que as sociedades de consumo receberão o mesmo tratamento tributário das demais pessoas jurídicas quando fornecerem bens aos consumidores, tão somente esclareceu que os atos praticados entre a cooperativa e o consumidor, não cooperado, são atos não-cooperativos e, por isso, passíveis da incidência de tributos.
+    2. Com isso, a cooperativa ao auferir ganhos com a prática de atos não cooperativos, equipara-se as demais pessoas jurídicas.
+    3. Por outro lado, não se aplica o dispositivo em relação ao fornecimento de bens aos cooperados, sendo um ato cooperativo, isento da incidência tributária.
+    4. Remessa oficial a que se nega provimento.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 672.215-RG/CE, Rel. Min. ROBERTO BARROSO, Tema nº 536/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “TRIBUTÁRIO. INCIDÊNCIA DA COFINS, DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL E DA CONTRIBUIÇÃO SOBRE O LUCRO LÍQUIDO SOBRE O PRODUTO DE ATO COOPERADO OU COOPERATIVO. DISTINÇÃO ENTRE ‘ATO COOPERADO TÍPICO’ E ‘ATO COOPERADO ATÍPICO’. CONCEITOS CONSTITUCIONAIS DE ‘ATO COOPERATIVO’, ‘RECEITA DE ATIVIDADE COOPERATIVA’ E ‘COOPERADO’. COOPERATIVA DE SERVIÇOS MÉDICOS. VALORES PAGOS POR TERCEIROS À COOPERATIVA POR SERVIÇOS PRESTADOS PELOS COOPERADOS. LEIS 5.764/1971, 7.689/1988, 9.718/1998 E 10.833/2003. ARTS. 146, III, c, 194, par. ún., V, 195, ‘caput’, e I, ‘a’, ‘b’ e ‘c’ e § 7º e 239 DA CONSTITUIÇÃO. Tem repercussão geral a discussão sobre a incidência da Cofins, do PIS e da CSLL sobre o produto de ato cooperativo, por violação dos conceitos constitucionais de ‘ato cooperado’, ‘receita da atividade cooperativa’ e ‘cooperado’.
+    Discussão que se dá sem prejuízo do exame da constitucionalidade da revogação, por lei ordinária ou medida provisória, de isenção, concedida por lei complementar (RE 598.085- -RG), bem como da ‘possibilidade da incidência da contribuição para o PIS sobre os atos cooperativos, tendo em vista o disposto na Medida Provisória nº 2.158-33, originariamente editada sob o nº 1.858-6, e nas Leis nºs 9.715 e 9.718, ambas de 1998” (RE 599.362-RG, rel. min. Dias Toffoli).”
+    Isso significa que se impõe, quanto ao Tema nº 536/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 04 de dezembro de 2019.
+Ministro CELSO DE MELLO
+Relator
