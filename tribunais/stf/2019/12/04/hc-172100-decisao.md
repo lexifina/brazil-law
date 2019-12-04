@@ -1,0 +1,26 @@
+Vistos etc.
+    Em 11 de novembro de 2019, deferi a ordem de habeas corpus em favor do paciente Matheus de Almeida Romanelli Lopes para determinar a cassação da prisão preventiva contra ele decretada nos autos nº 0012762-59.2018.8.19.0213, em trâmite na Vara Criminal da Comarca de Mesquita-RJ, determinando sua substituição pelas seguintes medidas cautelares diversas (artigo 319 do CPP): (a) suspensão do exercício da função pública, (b) proibição de manter contato com os demais corréus e (c) monitoramento eletrônico.
+    Na decisão, esclareci que “as medidas cautelares poderão ser reavaliadas pelo Juízo de primeiro grau por ocasião da sentença de mérito (art. 387, § 1º, CPP) ou em caso de superveniência de causa que legitime sua modificação (art. 316, CPP)”, explicitando regramento que, de resto, decorre da própria codificação processual penal.
+    A Defesa do paciente peticionou nos autos em 26.11.2019 noticiando que: (a) a ordem de soltura teria sido recebido pelo Juízo singular em 12.11.2019 e a soltura ultimado-se em 14.11.2019; (b) na decisão que determinou a expedição do alvará de soltura foi imposta, em acréscimo, a medida cautelar de “proibição de ingresso [do paciente] no Fórum de Mesquita sem que haja intimação para esse fim” (eventos 33-36).
+    Prossegue a Defesa narrando que “sem qualquer fato novo que constitua indício de descumprimento de determinação judicial, de risco à garantia da ordem pública, para assegurar a aplicação da lei penal ou qualquer argumento/fundamento, a juíza decretou a imediata prisão do ora paciente ao proferir sentença condenatória!”.
+    Aduz que a decretação da prisão preventiva teria decorrido de “mera discordância” do Juízo singular com a decisão proferida neste writ constitucional, o que justificaria o manejo do pedido liberatório por simples “petição como notificação de fato novo”.
+    A sentença veio acostada no evento 36, tendo nela sido firmado juízo de procedência da pretensão punitiva estatal formulada contra o paciente Matheus de Almeida Romanelli Lopes, situando-o, inclusive, em posição de destaque na propalada associação criminosa.
+    É o relatório.
+    Decido.
+    Em primeiro lugar, assento não ter havido descumprimento da ordem liberatória proferida nestes autos. Tanto é assim que a própria Defesa aponta que o paciente foi posto em liberdade dois dias depois de ter sido ela recebida pelo Juízo de primeira instância.
+    A imposição fundamentada de uma medida cautelar adicional, por ocasião da expedição do alvará de soltura, em nada transgride o comando decisório, que textualmente permitiu a reavaliação das medidas cautelares nas hipóteses previstas na codificação processual penal.
+    Nada a prover, portanto, a esse respeito.
+    De outro vértice, observo que, contrariamente ao alegado pela Defesa, a sentença que novamente decretou a prisão preventiva do paciente não o fez por simples discordância com o teor da ordem de habeas corpus, tendo apontado as razões pelas quais reputou justificada a necessidade de imposição da medida extrema, nos seguintes termos:
+    Quanto ao réu MATHEUS DE ALMEIDA ROMANELLI LOPES, tenho que as medidas cautelares impostas em recente decisão da lavra da eminente Ministra Rosa Weber não se afiguram suficientes, passando a justificar sua modificação, nos exatos termos viabilizados naquela decisão.
+    Num primeiro momento, no início do processo, a decisão que determinara sua custódia cautelar contava com fortes indícios de autoria e prova da existência dos crimes.
+    Ao cabo da instrução, a realidade é bem outra.
+    MATHEUS, cabeça da Organização Criminosa, teve sua culpabilidade exaustivamente demonstrada. Ao longo das páginas desta sentença, é possível observar que o delegado titular da 53ª DP concentrava todo o comando sobre o GIC (BONDE DOS COROAS), exigindo metas que ele próprio criava e estabelecia, de prisões a serem efetuadas, mesmo que para isso inúmeros crimes e arbitrariedades fossem cometidos.
+    Tanto assim, que acabou de ser condenado às penas de 17 (dezessete) anos e 10 (dez) meses de reclusão, 06 (seis) meses de detenção e 38 (trinta e seis) dias-multa, no valor unitário de 01 (um) salário mínimo, no regime inicial fechado, além da perda do cargo.
+    A existência dos crimes e sua autoria estão comprovadas e, diante de pena dessa monta, principalmente dos comportamentos adrede adotados pelo réu, há risco de que busque se furtar à aplicação da Lei Penal.
+    Pelo exposto, DECRETO A PRISÃO PREVENTIVA DE MATHEUS DE ALMEIDA ROMANELLI LOPES. EXPEÇA-SE MANDADO.
+    Inviável, nestas condições, o conhecimento do pedido formulado por simples petição, seja em razão da alteração do título prisional (HC 143.333, Rel. Min. Edson Fachin, Tribunal Pleno, DJe-055 de 20.3.2019), seja porque não se inclui no rol taxativo de competências do Supremo Tribunal Federal (ACO 1351 AgR, de minha relatoria, Tribunal Pleno, DJe-024 de 11.2.2016) conhecer de habeas corpus originário impetrado contra decisão proferida em primeiro grau de jurisdição.
+    Ante o exposto, não conheço do pedido incidental e determino o arquivamento dos autos, com as cautelas de praxe.
+    Intimem-se. Publique-se. Cumpra-se.
+    Brasília, 4 de dezembro de 2019.
+Ministra Rosa Weber
+Relatora
