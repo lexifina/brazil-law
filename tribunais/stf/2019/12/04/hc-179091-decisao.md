@@ -1,0 +1,29 @@
+Decisão: Trata-se habeas corpus com pedido de medida liminar, impetrado por Alan dos Santos Barbosa, em favor de Maylison da Silva Chagas, contra decisão monocrática proferida por Ministro Relator do Superior Tribunal de Justiça, nos autos do HC 547.812/AC.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus impetrado em favor de MAYLISON DA SILVA CHAGAS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ACRE que indeferiu o pedido liminar no writ de origem.
+    Consta dos autos que o Juízo das Execuções indeferiu o pedido da defesa de prisão domiciliar, ao argumento de que a unidade em que se encontra custodiado o paciente não teria condições de prestar-lhe o tratamento de saúde adequado.
+    Impetrado habeas corpus na origem, foi o pedido liminar indeferido.
+    Daí o presente writ, em que o impetrante sustenta, em síntese, ser portador de doença grave, não dispondo a unidade prisional em que se encontra encarcerado, de condições de prestar-lhe o adequado tratamento médico.
+    Salienta, ademais, ser pai de uma criança menor de 1 ano e 11 meses, o que, juntamente com o problema de saúde que apresenta, se constitui em fundamento válido para a concessão da prisão domiciliar, nos termos dos arts. 317 e 318, II, III e VI, ambos do CPP.
+    Requer, liminarmente e no mérito, a concessão da ordem para deferir-se a prisão domiciliar ao paciente. É o relatório. DECIDO.” (eDOC 5)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, a defesa reitera os fundamentos e pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Tribunal de Justiça nem pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    Na espécie, o impetrante afirma que o paciente tem direito à prisão domiciliar porque está gravemente doente e possui um filho de um ano e onze meses de vida.
+    Penso que ou o paciente está tão gravemente enfermo que precisa de tratamento médico não prestado na unidade prisional ou está curado e, portanto, apto a cuidar de seu filho.
+    De toda sorte, reputo prudente aguardar o pronunciamento de mérito no Tribunal de Justiça e no Superior Tribunal de Justiça, ante a controvérsia acerca da real necessidade de determinado tratamento médico e se ele pode, ou não, ser realizado na unidade prisional.
+    Sobre a controvérsia, registrou o STJ:
+    “A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fls. 94-95):
+    O advogado Alan dos Santos Barbosa impetra habeas corpus com pedido de liminar em favor de Maylison da Silva Chagas, dizendo-se amparado na Constituição Federal e no Código de Processo Penal, apontando como autoridade coatora a Juíza de Direito da Vara de Execuções Penais da Comarca de Rio Branco, Estado do Acre. Na Execução de Pena nº 0006471-64.2019.8.01.0001, o paciente cumpre pena de quatorze anos de reclusão, em regime inicialmente fechado, pela prática do crime de roubo com resultado morte tentado. O trânsito em julgado da Sentença condenatória ocorreu no dia 27 de maio de 2019. Nos citados autos a Juíza singular indeferiu postulação de prisão domiciliar por ele feita. Argumenta que possui graves problemas de saúde, necessitando fazer uso frequente de medicamentos e dieta. Afirma que o Presídio não dispõe de condições para o atender. Insurge-se contra a Decisão da Juíza singular, dizendo que além de necessitar de tratamento médico adequado, é pai de uma criança, o que lhe confere o direito a prisão domiciliar. Postula a obtenção da medida liminar para que lhe seja concedida prisão domiciliar e no mérito, a concessão da Ordem. Decido: Não obstante os argumentos expostos pelo paciente na petição inicial, referentes à ausência de fundamentação na Decisão que indeferiu o seu pleito de ser colocado em prisão domiciliar e o seu direito ao benefício, não vislumbro nesta sede a ilegalidade apontada. A situação descrita na petição inicial, pelo menos em cognição primeira, não configura constrangimento ilegal. Concluo assim, que os pressupostos que autorizam a concessão da liminar requerida não estão presentes, levando-me a indeferi-la. Notifique-se a autoridade apontada como coatora, para prestar informações no prazo de 24 (vinte e quatro) horas, em razão do disposto no artigo 124, do Regimento Interno do Tribunal de Justiça do Estado do Acre, encaminhando-se cópia desta Decisão, que substituirá o ofício para cumprimento das providências nela determinadas. Dê-se vista ao Ministério Público. Publique-se.
+    No caso, a pretensão de que seja concedido liminarmente o benefício da prisão domiciliar, é questão passível de indeferimento da medida de urgência, em habeas corpus, por demandar, inclusive, análise do próprio mérito da impetração, sobretudo no caso em tela, em que afirmado pelo Relator a impossibilidade da antecipação do mérito do writ pois não verificado, de plano, o alegado constrangimento ilegal. (eDOC 5)
+    Ademais, os dois laudos médicos acostados estão datados de setembro/outubro de 2017 e da leitura deles não é possível concluir pela emergencialidade requerida pelo impetrante, a justificar a dupla supressão. (eDOC 3, p. 49-50)
+    Por fim, o laudo ainda afirma que, na alta, o paciente apresentava estado geral bom, lucidez e orientação no tempo e espaço. (eDOC 3, p. 50)
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 4 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
