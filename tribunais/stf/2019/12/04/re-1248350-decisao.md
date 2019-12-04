@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Servidor Público Municipal de Santos – Plano de Cargos, Carreiras e Salários do Município de Santos – Não ocorrência de prescrição do fundo de direito – Prestações de trato sucessivo – Prescrição quinquenal (Súmula nº 85 STJ) – Pretensão de inclusão da diferença pecuniária pela adesão ao Plano de cargos, carreiras e salários PCCS no cálculo dos adicionais de tempo de serviço e da gratificação por oito anos – Admissibilidade – Reexame necessário e recurso não providos.“ (eDOC 3, p. 16)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º, 18, 30, inciso I, e 37, inciso XIV, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão não poderia ter disciplinado o vencimento base dos servidores municipais de Santos. (eDOC 3, p. 39)
+    Aduz, ainda, que o tribunal não observou a distinção necessária entre “vencimento”, “vencimentos” e “remuneração”. (eDOC 3, p. 40)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei complementar nº 592/2006) e o conjunto probatório constante dos autos, consignou ser “indevida a retenção do imposto de renda sobre os valores atrasados pagos de uma só vez, devendo ser observados os valores pagos mês a mês, de modo a se verificar se o tributo é devido e, somente quando for o caso, fica autorizada a retenção na fonte” (eDOC 3, p. 21-22).
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não há qualquer documento que comprove o afirmado pelo apelante, pois não consta do cadastro funcional do autor juntado às f. 117 nenhuma menção a respeito da forma como ocorreu sua contratação, bem como de sua opção ao regime estatutário na condição de celetista, de modo que não prospera seus argumentos neste sentido.
+    A questão trazida nos presentes autos é conhecida e já foi analisada por este Egrégio Tribunal de Justiça em outras demandas, porém sem entendimento unânime a respeito da possibilidade de inclusão da diferença pecuniária pela adesão ao Plano de Cargos, Carreiras e Salários PCCS no cálculo dos adicionais de tempo de serviço e da gratificação por 8 (oito) anos no cargo.
+    (…)
+    No mais, observa-se que, é indevida a retenção do Imposto de Renda sobre os valores atrasados pagos de uma só vez, devendo ser observados os valores pagos mês a mês, de modo a se verificar se o tributo é devido e, somente quando for o caso, fica autorizada a retenção na fonte.
+    Já os descontos relativos à contribuição previdenciária devem observar o percentual correspondente à época em que devida cada parcela, sendo descabia a aplicação retroativa da LC n° 592/06.” (eDOC 3, p. 17-21)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria especial. Lei Complementar 51/85. Paridade e integralidade. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático- probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09)” (ARE 1.087.201, Relator: Min. Dias Toffoli, Segunda Turma, DJe 23.02.2018).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. LEI COMPLEMENTAR 1.080/2008 DO ESTADO DE SÃO PAULO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO (ARE 925907, Relator: Min. Luiz Fux, Primeira Turma, DJe 20.04.2017)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC
+    Publique-se.
+    Brasília, 4 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
