@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Cubatão/SP assevera haver o Tribunal Superior do Trabalho, no processo nº 1000180-46.2014.5.02.0254, contrariado o enunciado vinculante nº 10, bem assim o assentado na ação declaratória de constitucionalidade nº 16/DF e, sob o ângulo da repercussão geral, no recurso extraordinário nº 760.931.
+    Segundo narra, foi condenado, de forma subsidiária, ao pagamento de créditos trabalhistas devidos a empregada de prestadora de serviços, considerada terceirização de mão de obra. Esclarece ter o Supremo, no processo objetivo, declarado a validade do § 1º do artigo 71 da Lei nº 8.666/1993, a impedir a responsabilização direta e automática da Administração Pública. Salienta reafirmada a óptica, em sede de repercussão geral, no julgamento do recurso extraordinário nº 760.931, a revelar inadequada a imposição de obrigação subsidiária ao Poder Público em razão de simples inadimplemento da contratada. Ressalta fiscalizado, no caso concreto, o cumprimento dos deveres contratuais. Diz ofendido o verbete vinculante nº 10 considerada a negativa de vigência ao citado preceito de lei.
+    Sob o ângulo do risco, alude à irrepetibilidade de verbas de caráter alimentar.
+    Requer, no campo precário e efêmero, a imediata cassação do pronunciamento atacado. Busca a confirmação da providência, inclusive em relação à multa aplicada pelo Tribunal reclamado.
+    2. No tocante à alegada violação do assentado no recurso extraordinário nº 760.931, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela que o cabimento da reclamação, objetivando ver reconhecida erronia quanto à sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando examinado agravo interposto em face de inadmissão de extraordinário. O requisito não foi atendido, uma vez direcionada a irresignação contra ato surgido da apreciação de agravo de instrumento em recurso de revista.
+    Da leitura da referida decisão, verifica-se que o não conhecimento do recurso decorreu de vício formal. Confiram o seguinte trecho do pronunciamento questionado:
+    […]
+    Constata-se, contudo, que a forma como articulado o agravo de instrumento não possibilita a verificação do acerto ou desacerto da decisão proferida pelo Juízo de admissibilidade a quo, pois não refuta o óbice processual aplicado pela Corte Regional, consistente no não atendimento do pressuposto intrínseco de admissibilidade previsto no art. 896, § 1º-A, I, da CLT.
+    Na espécie, não cuidou o reclamado agravante de impugnar os fundamentos da decisão agravada, limitando-se a renovar os argumentos constantes do recurso de revista para reforma do acórdão regional. Não se precatou, assim, de desconstituir o óbice apontado pela Corte de origem ao denegar seguimento ao recurso de revista.
+    Portanto, deixou o reclamado agravante de observar pressuposto de regularidade formal dos recursos de fundamentação vinculada (art. 524, II, do CPC/1973 - atual art. 1.016, III, do CPC/2015, c/c art. 769 da CLT), também denominado na doutrina de princípio da dialeticidade, que consiste na necessidade de que o recorrente exponha os fundamentos de fato e de direito pelos quais está inconformado com a decisão denegatória do recurso de revista, bem como decline as razões do pedido de reforma e de prolação de outra decisão.
+    […]
+    Mostra-se ausente a identidade material entre a decisão impugnada e o acórdão alusivo à ação declaratória de constitucionalidade nº 16. Inexiste discussão quanto ao tema atinente à imposição de responsabilidade ao ente público por verbas trabalhistas em virtude do inadimplemento de empresa prestadora de serviços, tendo em visa a intermediação de mão de obra. Não adotada óptica, na origem, sobre a problemática da atribuição de obrigação ao Município, descabe articular com o apontado afastamento, sem a observância da cláusula de reserva de plenário, do artigo 71, § 1º, da Lei nº 8.666/1993.
+    Atentem para a excepcionalidade da medida. É inadequado utilizá-la como sucedâneo recursal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 5 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
