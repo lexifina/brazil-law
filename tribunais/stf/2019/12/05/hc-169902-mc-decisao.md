@@ -1,0 +1,19 @@
+DECISÃO
+MEDIDA CAUTELAR – AFASTAMENTO DO CARGO DE VEREADOR – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+          O Juízo da Segunda Vara Criminal da Comarca de Suzano/SP, ao receber a denúncia, no processo nº 0002702-17.2018.8.26.0606, determinou, em 28 de março de 2018, a prisão preventiva do paciente e de outras seis pessoas, ante a suposta prática das infrações previstas nos artigos 2º, § 2° (integrar organização criminosa armada), da Lei nº 12.850/2013, 1º, § 4º (lavagem de dinheiro por intermédio de organização criminosa), da Lei nº 9.613/1998 e 321 (advocacia administrativa) do Código Penal. Ressaltou o teor de perícias realizadas nos celulares dos investigados, a indicarem a participação em organização criminosa. Reportando-se à apreensão de drogas, arma, colete balístico e grande soma de dinheiro na residência dos acusados e na cooperativa de transportes Cooper-Suzan, chefiada pelo paciente, concluiu necessária a custódia para garantir a ordem pública, a aplicação da lei penal e a conveniência da instrução processual.
+          Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 467.281. A Sexta Turma, no dia 12 de março de 2019, revogou a prisão provisória. Mencionando denúncia na qual apontada a utilização, pelo paciente, do cargo de Vereador para defender interesses privados, inclusive da facção criminosa conhecida como PCC, determinou cautelares alternativas consistentes em: a) comparecimento periódico em Juízo nos prazos e condições a serem estipulados pelo Juízo; b) proibição de acesso e frequência à Câmara Municipal de Suzano e à cooperativa de transporte coletivo Cooper-Suzan; c) proibição de manter contato com as pessoas envolvidas nos fatos em apuração; d) proibição de ausentar-se da Comarca sem prévia autorização judicial e de saída do País, com a entrega de passaporte; e) recolhimento em domicílio no período noturno; f) suspensão do exercício da vereança; e g) monitoramento eletrônico.
+    O impetrante sustenta a desproporcionalidade das medidas. Sublinha violados os princípios da não culpabilidade e do devido processo legal. Aduz o excesso de prazo das cautelares.
+    Requer, liminarmente, seja assegurado ao paciente o retorno à função pública de Vereador e o consequente acesso às dependências da Câmara Municipal de Suzano, com a declaração de invalidade da ordem de afastamento. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 4 de dezembro de 2019, revelou encontrar-se o processo-crime na fase de instrução.
+    A etapa é de apreciação da medida de urgência.
+    2. Embora justificado o afastamento temporário do paciente do cargo de Vereador, ante o risco de prejuízo à apuração dos fatos, a restrição há de balizar-se no tempo, sob pena de assumir caráter definitivo. Some-se a isso o fato de estar-se diante de mandato parlamentar, em relação ao qual sobressai a limitação no tempo. A situação revela impedimento que já perdura por mais de 8 meses, sem a formação da culpa.
+    Obstaculizar o acesso do paciente à Câmara Municipal de Suzano é afrontar o direito de ir e vir, porquanto não rompido o vínculo estabelecido pela posse no cargo político.
+    3. Defiro a liminar, para viabilizar o exercício do cargo de Vereador pelo paciente, com o consequente acesso às dependências da Casa Legislativa. Advirtam-no da necessidade de atender aos chamamentos judiciais e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Remetam cópia desta decisão, com as homenagens merecidas, à Câmara Municipal de Suzano.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 5 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
