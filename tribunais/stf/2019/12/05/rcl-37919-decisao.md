@@ -1,0 +1,32 @@
+RECLAMAÇÃO. SÚMULA VINCULANTE Nº 26. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. DECISÃO FUNDAMENTADA. NEGATIVA DE SEGUIMENTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal, e 156 a 162 do RISTF, ajuizada por Elber Pereira da Silva contra ato do Tribunal de Justiça do Estado de São Paulo, que teria contrariado o enunciado da Súmula Vinculante nº 26.
+    Narra a inicial que o Reclamante foi condenado à pena de 20 (vinte) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática dos crimes de homicídio qualificado, de homicídio simples e de tráfico de drogas (art. 121, § 2º, IV, art. 121, caput, do CP, e art. 33, § 4º, da Lei 11.343/2006).
+    Inobstante o atestado de bom comportamento carcerário e o preenchimento do requisito objetivo para a progressão de regime, o magistrado de primeiro grau determinou a realização prévia de exame criminológico.
+    Em sede de agravo em execução, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+    Argumenta a Defesa, em síntese, a falta de fundamentação idônea da decisão que determinou a realização do exame criminológico, a afrontar o enunciado da Súmula Vinculante nº 26. Sustenta ainda o preenchimento dos requisitos objetivos e subjetivos para a progressão de regime. Requer, em medida liminar e no mérito, a imediata colocação do Reclamante em regime semiaberto independentemente da realização do exame criminológico.
+    É o relatório.
+    Decido.
+    A reclamação é ação autônoma de impugnação dotada de perfil constitucional, disposta no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal. Prevista nos artigos 102, I, e 103-A, § 3º, da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, desobediência a súmula vinculante ou de descumprimento de autoridade de decisão proferida por esta Corte com efeito vinculante.
+    A aferição da presença dos pressupostos que autorizam seu manejo deve ser feita com devido rigor técnico (Rcl 6735 AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe-168, p. 10.9.2010), não cabendo o alargamento de suas hipóteses de cabimento por obra de hermenêutica indevidamente ampliativa, sob pena de desvirtuamento da vocação dada pelo constituinte ao importante instituto da reclamação constitucional.
+    Baseada nestas premissas, a jurisprudência desta Corte exige, para o cabimento da reclamação constitucional, a estrita aderência entre ato reclamado e o conteúdo do paradigma de controle: Rcl 4.487/PR-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe-230 de 5.12.2011.
+    Transcrevo o teor do enunciado da Súmula Vinculante nº 26, que se diz afrontado:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar para tal fim, de modo fundamentado, a realização de exame criminológico.”
+    Destaco que, de acordo com a redação vigente do art. 112 da Lei de Execução Penal, não há mais a exigência legal da avaliação psicológica para a progressão de regime. Por outro lado, não há vedação normativa quanto à adoção desta medida nos casos de progressão de regime.
+    Nesse contexto, a jurisprudência desta Suprema Corte, consolidada no enunciado da Súmula Vinculante nº 26, reputa viável a realização do exame criminológico nas situações em que o Juiz da Execução, forte no exercício do poder geral de cautela, considerar necessário para a formação do seu convencimento.
+    E mais, o crime praticado mediante violência ou grave ameaça pode configurar motivação idônea para imposição do exame criminológico.
+    Quanto ao ponto, colho do ato hostilizado:
+    “(...).
+    Isso porque, o d. Juízo a quo, ainda que de forma sucinta, motivou de forma adequada a necessidade de submissão do agravante ao sobredito exame, destacando que ele ostenta condenação por crime praticado em condições reveladoras de agressividade praticados com elevados requintes de violência, culminando em longa pena a cumprir (TCP 2033), o que exige do Estado-Juiz maior cautela para conceder a benesse reclamada.
+    (…).
+    Evidente, portanto, que o exame criminológico realizado revelou que o agravante não ostenta aptidão para a progressão de regime, de modo que o requisito subjetivo necessário para tanto não foi atendido.
+    Ademais, é de se ter em conta que o agravante praticou dois crimes de homicídio, um deles qualificado, e, conforme já exposto, o exame criminológico apontou que a sua agressividade e impulsividade não estão atuando em conformidade no momento.
+    Denota-se, portanto, que o exame criminológico desfavorável e o histórico prisional do agravante não revelam o mérito necessário à concessão da progressão de regime pretendida.”
+    As instâncias anteriores, ao considerarem a situação concreta do apenado – condenado a 20 (vinte) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática dos crimes de homicídio qualificado, de homicídio simples e de tráfico de drogas (art. 121, § 2º, IV, art. 121, caput, do CP, e art. 33, § 4º, da Lei 11.343/2006) – validaram, mediante decisão fundamentada, ainda que sucinta, a realização de exame criminológico.
+    Por outro lado, o magistrado de primeiro grau, em 09.8.2019, ao indeferir o pedido de progressão ao semiaberto, asseverou que ‘conquanto o sentenciado tenha resgatado o lapso necessário à benesse requerida, não restou preenchido o requisito subjetivo, haja vista que do exame criminológico é possível extrair que o reeducando não apresenta crítica satisfatória sobre os crimes cometidos, anotando-se também a agressividade e impulsividade, de forma que a progressão neste momento mostra-se precoce, privilegiando-se, assim, na dúvida sobre o mérito do benefício a interpretação mais favorável à sociedade’.
+    Não detecto, portanto, na espécie, qualquer ato praticado pela autoridade reclamada capaz de afrontar o enunciado da Súmula Vinculante nº 26.
+    Ante o exposto, nego seguimento à presente reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de dezembro de 2019.
+Ministra Rosa Weber
+Relatora
