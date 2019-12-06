@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “PREVIDENCIÁRIO - PENSÃO POR MORTE - EC 41/03 - ART. 40, §7º, DA CF - VENCIMENTOS DO FALECIDO QUE SUPERAM O LIMITE MÁXIMO ESTABELECIDO PARA OS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL - PENSÃO - TOTALIDADE DOS PROVENTOS ATÉ O TETO DO RGPS, ACRESCIDO DE 70% DA PARCELA EXCEDENTE -RECURSO PARCIALMENTE PROVIDO.
+    A partir da vigência da EC 41/03, a pensão por morte deve corresponder ao valor da totalidade dos proventos do servidor falecido, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescido de setenta por cento da parcela excedente a este limite, caso aposentado à data do óbito, conforme dispõe o atual §7º do artigo 40 da Constituição Federal de aplicação imediata, que prescinde de lei ordinária estabelecendo a correspondente fonte de custeio.
+    A parcela remuneratória criada para garantir a irredutibilidade de vencimentos para os Procuradores de Justiça quando da criação do subsídio está, na realidade, incluída no valor da totalidade de proventos para efeito de cálculo do benefício de pensão, devendo o redutor constitucional ser aplicado sobre o total da soma das parcelas denominadas ‘proventos’ e ‘art. 128, § 5º, IC – CF’.
+    Segundo orientação firmada pelo colendo Superior Tribunal de Justiça no julgamento do Recurso Especial nº 1086944/SP, selecionado como representativo da controvérsia, nas causas ajuizadas após a vigência do art. 1º-F da Lei 9.494/97, os juros de mora nas condenações impostas à Fazenda Pública seguem a taxa definida na Lei especial.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, §§ 7º e 8º, da CF.
+    A Procuradoria-Geral da República opina que seja negado seguimento ao agravo, ante a falta de perspectiva de êxito do recurso extraordinário.
+    O recurso extraordinário é inadmissível. Com efeito, o Tribunal de origem assentou que a parcela destacada dos subsídios do instituidor da pensão tem natureza de “vencimento básico”, devendo ser incluída no valor da totalidade de proventos para efeito de cálculo do benefício de pensão, “visto que o seu pagamento decorre não do preenchimento de uma condição especial do servidor – seja ela ligada à função desempenhada, ao tempo de serviço, etc. - mas, sim do próprio exercício da função por ele desempenhada”.
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Nessas condições, aplica-se a Súmula 283/STF.
+    Ademais, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica da parcela em questão, seria necessária uma nova apreciação dos fatos e do material probatório constantes dos autos, hipótese inviável de ser realizada neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
