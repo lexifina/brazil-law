@@ -1,0 +1,5 @@
+# Lei nº 5.045, de 6 de dezembro de 2019, do Estado do Amazonas
+
+ALTERA, NA FORMA QUE ESPECIFICA, A LEI N. 2.607, DE 28  DE JUNHO DE 2000, QUE “DISPÕE SOBRE A CONTRATAÇÃO DE PESSOAL POR TEMPO DETERMINADO PARA ATENDER A NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO, SOB REGIME DE DIREITO ADMINISTRATIVO, NOS TERMOS DO ART. 37, IX, DA CONSTITUIÇÃO FEDERAL E DO ART. 108, § 1º, DA CONSTITUIÇÃO DO ESTADO.”, E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10709>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2019/10709/5045.pdf>
