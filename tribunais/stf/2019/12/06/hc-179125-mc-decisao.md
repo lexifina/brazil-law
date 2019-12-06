@@ -1,0 +1,78 @@
+DECISÃO: Registro, preliminarmente, por relevante, que se mostra regimentalmente viável, no Supremo Tribunal Federal, o julgamento imediato, monocrático ou colegiado, da ação de “habeas corpus”, independentemente de parecer do Ministério Público, sempre que a controvérsia versar matéria objeto de jurisprudência prevalecente no âmbito desta Suprema Corte, valendo assinalar, quanto ao aspecto ora ressaltado, que este Tribunal, em decisões colegiadas (HC 103.955/SP, Rel. Min. CELSO DE MELLO – HC 107.200/RS, Rel. Min. CELSO DE MELLO, v.g.), reafirmou a possibilidade processual do julgamento do próprio mérito da ação de “habeas corpus” sem prévia manifestação da douta Procuradoria-Geral da República, desde que observados os requisitos estabelecidos no art. 192 do RISTF, na redação dada pela Emenda Regimental nº 30/2009:
+    “POSSIBILIDADE DE JULGAMENTO IMEDIATO DA AÇÃO DE ‘HABEAS CORPUS’
+    – Mostra-se regimentalmente viável, no Supremo Tribunal Federal, o julgamento imediato, monocrático ou colegiado, da ação de ‘habeas corpus’, independentemente de parecer do Ministério Público, sempre que a controvérsia versar matéria objeto  de jurisprudência prevalecente no âmbito desta Suprema Corte. Emenda Regimental nº 30/2009. Aplicabilidade, ao caso, dessa orientação.”
+    (HC 109.544-MC/BA, Rel. Min. CELSO DE MELLO)
+    Tendo em vista essa delegação regimental de competência ao Relator da causa, impõe-se reconhecer que a presente controvérsia ajusta-se à jurisprudência que o Supremo Tribunal Federal firmou na matéria em exame, o que possibilita seja proferida decisão monocrática sobre o litígio em questão.
+    Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “PROCESSO PENAL. ‘HABEAS CORPUS’. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. ORGANIZAÇÃO CRIMINOSA ESPECIALIZADA EM TRÁFICO DE DROGAS. CONTEMPORANEIDADE. ‘BALA NA CARA’. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+    1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o ‘periculum libertatis’.
+    2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à existência de organização criminosa altamente estruturada voltada para o cometimento de crimes graves. Assim, a prisão se faz necessária para garantir a ordem pública, evitando o prosseguimento das atividades criminosas desenvolvidas.
+    3. Conforme magistério jurisprudencial do Pretório Excelso, ‘a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva’ (STF, Primeira Turma,  HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe de 20/2/2009).
+    4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+    5. Ordem denegada.”
+    (HC 509.509/RS, Rel. Min. ANTONIO SALDANHA PALHEIRO – grifei)
+    A parte ora impetrante busca, neste “writ”, seja assegurado ao paciente o direito de estar em liberdade, sustentando, para tanto, a ocorrência de situação de injusto constrangimento ao seu “status libertatis”, resultante da ausência dos requisitos necessários para a decretação de sua prisão preventiva e do excesso de prazo na formação da culpa.
+    Sendo esse o contexto, passo a apreciar o pleito em causa. E, ao fazê-lo, entendo não assistir razão à parte impetrante.
+    Verifico, desde logo, no que concerne ao alegado excesso de  prazo na formação da culpa do ora paciente, que a decisão ora impugnada sequer examinou os fundamentos nos quais se apoia, quanto a esse específico aspecto, esta impetração.
+    Inexiste, portanto, coincidência temática entre as razões invocadas nesta ação de “habeas corpus” em face da situação jurídico-processual que venho de referir e aquelas que dão apoio à decisão objeto de impugnação na presente sede processual.
+    Essa circunstância (ocorrência de incoincidência temática) faz incidir, na espécie, em relação a este “writ” constitucional, a jurisprudência do Supremo Tribunal Federal, que assim se tem pronunciado nos casos em que os fundamentos apresentados pelo impetrante não guardam pertinência com aqueles que dão suporte à decisão impugnada (RTJ 182/243-244, Rel. Min. SEPÚLVEDA PERTENCE – HC 73.390/RS, Rel. Min. CARLOS VELLOSO – HC 81.115/SP, Rel. Min. ILMAR GALVÃO, v.g.):
+    “IMPETRAÇÃO DE ‘HABEAS CORPUS’ COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL.
+    – Revela-se insuscetível de conhecimento, pelo Supremo Tribunal Federal, o remédio constitucional do ‘habeas corpus’, quando impetrado com suporte em fundamento que não foi apreciado pelo Tribunal apontado como coator.
+    Se se revelasse lícito ao impetrante agir ‘per saltum’, registrar-se-ia indevida supressão de instância, com evidente subversão de princípios básicos de ordem processual. Precedentes.”
+    (RTJ 192/233-234, Rel. Min. CELSO DE MELLO)
+    “Em ‘habeas corpus’ substitutivo de recurso ordinário, a inconformidade deve ser com o acórdão proferido pelo STJ, e não contra o julgado do Tribunal de Justiça.
+    O STF só é competente para julgar ‘habeas corpus’ contra decisões provenientes de Tribunais Superiores.
+    Os temas objeto do ‘habeas corpus’ devem ter sido examinados pelo STJ.
+    .......................................................................................................
+    Caso contrário, caracterizaria supressão de instância.
+    ‘Habeas Corpus’ não conhecido.”
+    (HC 79.551/SP, Rel. Min. NELSON JOBIM – grifei)
+    Disso tudo resulta que, quanto às alegações da parte impetrante ora sob análise, para serem conhecidas pelo Supremo Tribunal Federal em sede de “habeas corpus”, precisavam constituir objeto de prévio exame por parte do E. Superior Tribunal de Justiça, sob pena de configurar-se, como precedentemente já acentuado, inadmissível supressão de instância, consoante tem advertido o magistério jurisprudencial desta Suprema Corte:
+    “EXECUÇÃO PENAL. ‘HABEAS CORPUS’. PROGRESSÃO DE REGIME. CUMPRIMENTO DE UM SEXTO DA PENA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ‘A QUO’. SUPRESSÃO DE INSTÂNCIAS. PRECEDENTES. ‘WRIT’ NÃO CONHECIDO.
+    1. A presente impetração visa ao reconhecimento do direito do paciente em progredir de regime prisional em razão do cumprimento de um sexto da pena.
+    2. A questão suscitada pelo impetrante no presente ‘habeas corpus’ não foi sequer apreciada pelo Superior  Tribunal de Justiça, já que não tinha sido submetida anteriormente ao crivo do Tribunal de Justiça do Rio de Janeiro.
+    3. Desse modo, o conhecimento da matéria, neste momento, pelo Supremo Tribunal Federal acarretaria inadmissível supressão de instâncias.
+    4. A jurisprudência dessa Suprema Corte é firme no sentido de que ‘não se conhece de ‘habeas corpus’ cujas questões não foram apreciadas pela decisão contra a qual é impetrado’ (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 094).
+    5. ‘Writ’ não conhecido.”
+    (HC 97.761/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    De outro lado, no tocante ao pleito de revogação da custódia cautelar, entendo não procederem as alegações da parte impetrante, pois os fundamentos que dão suporte ao acórdão ora impugnado ajustam-se, com integral fidelidade, à orientação jurisprudencial que esta Suprema Corte firmou a propósito da matéria em análise.
+    Todos sabemos que a privação cautelar da liberdade individual é sempre qualificada pela nota da excepcionalidade. Não obstante o seu caráter extraordinário, a prisão cautelar pode efetivar-se, desde que o ato judicial formalizador de sua decretação tenha fundamentação substancial, apoiando-se em elementos concretos e reais que se ajustem aos requisitos abstratos – juridicamente definidos em sede legal – autorizadores da decretação dessa modalidade de tutela cautelar penal (RTJ 134/798, Red. p/ o acórdão Min. CELSO DE MELLO, v.g.).
+    É por essa razão que o Supremo Tribunal Federal, em pronunciamentos sobre a matéria (RTJ 64/77, Rel. Min. LUIZ GALLOTTI, v.g.), tem acentuado, na linha de autorizado magistério doutrinário (JULIO FABBRINI MIRABETE, “Código de Processo Penal Interpretado”, p. 688, 7ª ed., 2000, Atlas; PAULO LÚCIO NOGUEIRA, “Curso Completo de Processo Penal”, p. 250, item n. 3, 9ª ed., 1995, Saraiva; VICENTE GRECO FILHO, “Manual de Processo Penal”, p. 274/278, 4ª ed., 1997, Saraiva), que, uma vez comprovada a materialidade dos fatos delituosos e constatada a existência de meros indícios de autoria – e desde que concretamente ocorrente qualquer das situações referidas no art. 312 do Código de Processo Penal –, torna-se legítima, presentes razões de necessidade, a decretação, pelo Poder Judiciário, dessa especial modalidade de prisão cautelar:
+    “A PRISÃO CAUTELAR CONSTITUI MEDIDA DE NATUREZA EXCEPCIONAL
+    – A privação cautelar da liberdade individual reveste-se de caráter excepcional, somente devendo ser decretada ou mantida em situações de absoluta necessidade.
+    – A questão da decretabilidade ou da manutenção da prisão cautelar. Possibilidade excepcional, desde que satisfeitos os requisitos mencionados no art. 312 do CPP. Necessidade da verificação concreta, em cada caso, da imprescindibilidade da adoção dessa medida extraordinária. Precedentes.
+    DEMONSTRAÇÃO, NO CASO, DA NECESSIDADE CONCRETA DE DECRETAR-SE A PRISÃO CAUTELAR DO PACIENTE
+    – Revela-se legítima a prisão cautelar se a decisão que a decreta, mesmo em grau recursal, encontra suporte idôneo em elementos concretos e reais que – além de ajustarem-se aos fundamentos abstratos definidos em sede legal – demonstram que a permanência em liberdade do suposto autor do delito comprometerá a garantia da ordem pública e frustrará a aplicação da lei penal.”
+    (HC 101.026/SP, Rel. Min. CELSO DE MELLO)
+    É inquestionável, portanto, que a antecipação cautelar da prisão – qualquer que seja a modalidade autorizada pelo ordenamento positivo (prisão em flagrante, prisão temporária, prisão preventiva, prisão decorrente da decisão de pronúncia e prisão resultante de sentença penal condenatória recorrível) – não se revela incompatível com o princípio constitucional da presunção de inocência (RTJ 133/280 – RTJ 138/216 – RTJ 142/855 – RTJ 142/878 – RTJ 148/429 – HC 68.726/DF, Rel. Min. NÉRI DA SILVEIRA, v.g.).
+    O exame da decisão que decretou a prisão cautelar do ora paciente evidencia, como bem salientou o acórdão ora impugnado, que tal ato sustenta-se em razões de necessidade, confirmadas, no caso, pela existência de base empírica idônea.
+    Impende registrar, por relevante, que o Supremo Tribunal Federal tem entendido, em precedentes de ambas as Turmas (HC 89.847/BA, Rel. Min. ELLEN GRACIE – HC 90.889/PE, Rel. Min. JOAQUIM BARBOSA – HC 94.999/SP, Rel. Min. ELLEN GRACIE – HC 95.024/SP, Rel. Min. CÁRMEN LÚCIA – HC 97.378/SE, Rel. Min. CELSO DE MELLO, v.g.), revestir-se de fundamentação idônea a prisão cautelar decretada contra acusados/réus que supostamente integrem organização criminosa:
+    “‘HABEAS CORPUS’. PRISÃO PREVENTIVA. DECISÃO FUNDAMENTADA. ORDEM DENEGADA.
+    A decisão que decretou a prisão preventiva demonstrou a materialidade dos fatos e a presença de indícios da autoria, o que restou confirmado pela sentença condenatória.
+    Dados concretos evidenciam a necessidade de  garantir-se a ordem pública, dada a alta periculosidade do paciente, que integrava sofisticada organização criminosa dedicada ao tráfico internacional de drogas. Ademais, ao que se apurou, o réu faz do comércio de entorpecentes a sua profissão, a indicar que ele, caso venha a ser solto, voltará à criminalidade.
+    Assim, presentes os requisitos previstos no art. 312 do Código de Processo Penal, impõe-se a manutenção da prisão preventiva.
+    Ordem denegada.”
+    (HC 94.442/SP, Rel. Min. JOAQUIM BARBOSA – grifei)
+    “AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. PROCESSUAL PENAL. PRISÃO CAUTELAR CONCRETAMENTE FUNDAMENTADA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL A JUSTIFICAR EXCEÇÃO À REGRA DA SÚMULA 691/STF.
+    A prisão cautelar do paciente acusado de ser um dos principais integrantes da organização criminosa está concretamente fundamentada, não justificando excepcionar-se a Súmula 691 desta Corte.
+    Agravo regimental em ‘habeas corpus’ não provido.”
+    (HC 95.421-AgR/RJ, Rel. Min. EROS GRAU – grifei)
+    “‘HABEAS CORPUS’ – PRISÃO PREVENTIVA – NECESSIDADE COMPROVADA DE SUA DECRETAÇÃO – DECISÃO FUNDAMENTADA – MOTIVAÇÃO IDÔNEA QUE ENCONTRA APOIO EM FATOS CONCRETOS – POSSÍVEL INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA – LEGALIDADE DA DECISÃO QUE DECRETOU A PRISÃO CAUTELAR – PEDIDO INDEFERIDO.
+    …...................................................................................................
+    PACIENTE QUE INTEGRARIA ORGANIZAÇÃO CRIMINOSA – SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA.
+    A jurisprudência desta Suprema Corte, em situações semelhantes à dos presentes autos, já se firmou no sentido  de que se reveste de fundamentação idônea a prisão cautelar  decretada contra possíveis integrantes de organizações criminosas. Precedentes.”
+    (HC 101.026/SP, Rel. Min. CELSO DE MELLO)
+    “AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.  1. A prisão preventiva está devidamente motivada, tendo em vista ‘tratar-se de agentes, em tese, integrantes de perigosa quadrilha especializada em assaltos a agências bancárias’, bem como em razão da ‘necessidade de se prevenir a reprodução de novos delitos’. (…). 3. Agravo regimental a que se nega provimento.”
+    (HC 125.568-AgR/BA, Rel. Min. ROBERTO BARROSO – grifei)
+    Legítimas, ainda, as razões adotadas pelo E. Superior Tribunal de Justiça, no ponto em que revela existir contemporaneidade entre os fatos alegadamente criminosos e o decreto de prisão preventiva:
+    “A divergência, contudo, surge no exame do requisito referente à contemporaneidade do decreto em relação à data em que teriam sido praticados os delitos narrados na denúncia.
+    …...................................................................................................
+    Tenho para mim, entretanto, renovando o pedido de vênia ao relator, que tal requisito está preenchido, uma vez que a decretação da prisão somente foi possível após o aprofundamento das investigações.
+    Comungo do entendimento que reclama a necessidade de que a prisão cautelar, quando presentes seus requisitos, seja decretada tão logo se tenha conhecimento da autoria do crime.
+    Não obstante, há casos, como o presente, em que a colheita de informações para se alcançar um grau maior de certeza quanto à autoria demanda maior tempo. Nem por isso desaparecem os requisitos do art. 312 do Código de Processo Penal, mantendo-se a necessidade de que seja imposta a prisão provisória.” (grifei)
+    Sendo assim, em face das razões expostas, conheço, em parte, do pedido de “habeas corpus” e, nessa parte, indefiro-o, restando prejudicado, em consequência, o exame da medida liminar requerida.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 06 de dezembro de 2019.
+Ministro CELSO DE MELLO
+Relator
