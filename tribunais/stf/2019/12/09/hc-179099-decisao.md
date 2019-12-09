@@ -1,0 +1,41 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por José Henrique Quiros Bello, em favor de Fábio Augusto de Almeida, contra decisão monocrática proferida por Ministro Relator do STJ, nos autos do HC 525.189/SP.
+    Colho da decisão impugnada:
+          Trata-se de habeas corpus, substitutivo de recurso especial, com pedido liminar, impetrado em favor de FABIO AUGUSTO DE ALMEIDA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+    Depreende-se dos autos que o d. Juízo de primeiro grau indeferiu o pleito do paciente de detração de penas (fl. 57).
+    Irresignada, a Defesa ajuizou o prévio writ perante o eg. Tribunal de origem, que foi parcialmente conhecido e, nesta extensão, denegado, nos termos do v. acórdão de fls. 58-65 assim ementado:
+    "HABEAS CORPUS - SENTENÇA CONDENATÓRIA - Pedido de reconhecimento da detração e demais benefícios - Não conhecimento – Matéria de execução, já discutida em sede de apelação por esta Corte, inclusive - Expedição de guia definitiva, independentemente do encarceramento do paciente - Impossibilidade - Recolhimento do sentenciado que se faz indispensável para o início da execução penal - Exegese dos arts. 674 do CPP e 105 da LEP - Precedentes do STJ - Inexistência de constrangimento ilegal - Ordem parcialmente conhecida e, nesta parte, denegada."
+    No presente habeas corpus, o impetrante afirma que, "em face de sentença condenatória, o Paciente logrou cumprir período de prisão cautelar para lhe ser aplicado a detração penal ou a progressão ao regime aberto. Ocorre que, o MM. Juiz de Direito se nega a detrair o período de prisão cautelar, efetuar a progressão de regime ou expedir a carta de guia e determinar a formação da execução antes do cumprimento do mandado de prisão"
+    Alega que "a autoridade coatora apenas determina a expedição de guia definitiva após o cumprimento da prisão do paciente, de modo que não há processo de execução. O que se vê no presente caso é uma lacuna da Lei. Faz algum sentido condicionar a análise do direito ao regime aberto (seja por detração, seja por progressão) ao encarceramento do paciente? Mesmo tendo cumprido a exigência legal do período de prisão para progredir de regime?" (fl. 6).
+    Aduz que "não há por tanto, motivos ensejadores para o paciente ser levado e mantido em custódia, pois preenchidos os requisitos exigidos por lei para o cumprimento de sua pena em regime aberto, pois cumpriu muito mais de 1/6 (um sexto) em regime fechado ou similar, fazendo o paciente jus ao beneficio" (fl. 11).
+    Requer, por fim, a concessão da ordem, inclusive liminarmente, "para que independentemente do recolhimento do paciente à prisão, seja expedida a guia definitiva e instaurado o processo de execução penal, ainda, seja considerada a detração, assim como os demais requisitos legais, estabelecido o regime carcerário para o resgate do restante da pena privativa de liberdade" (fl. 13).
+    O pedido liminar foi indeferido às fls. 71-73.
+    As informações foram prestadas às fls. 77-369 e 372-463.
+    O Ministério Público Federal manifestou-se, às fls. 465-467, pela denegação da ordem, em parecer com a seguinte ementa:
+    "PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DETRAÇÃO. COMPETÊNCIA CONCORRENTE DO JUÍZO DA EXECUÇÃO PENAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELA DENEGAÇÃO DA ORDEM."
+    É o relatório.
+    Decido. (fl. 5). (eDOC 7)
+    No STJ, o habeas corpus não foi conhecido.
+    Nesta Corte, o impetrante requer seja expedida a guia de execução definitiva antes do cumprimento do mandado de prisão, para que seja feita a detração, com a consequente progressão de regime.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    Impossível o acolhimento do pedido do impetrante, vez que a lei não estabelece, para a progressão de regime, o requisito meramente temporal No ponto, destaco trecho da decisão impugnada:
+    Quanto ao pedido de detração, ressalte-se que dispõe o § 2º do art. 387 do Código de Processo Penal, acrescentado pela Lei n. 12.736/2012, que o tempo de prisão cautelar deve ser considerado para a determinação do regime inicial de cumprimento de pena. Ou seja, a detração do período de segregação cautelar relativa ao delito em julgamento deve influenciar já no estabelecimento do regime inicial pela decisão condenatória.
+    Destarte, forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+    Ainda, tem-se que as alterações trazidas pelo diploma legal supramencionado não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência.
+    Ciente disso, a despeito das alegações contidas na impetração de que o paciente já cumpriu provisoriamente parte da pena, a eg. Corte originária deixou a análise do pleito para o d. Juízo das Execuções Criminais, tendo em vista a ausência de elemento seguro quanto ao real período de encarceramento provisório, bem como quanto ao atendimento dos requisitos para progressão.
+    Assinale-se que, em informações prestadas à fl. 373, o eg. Tribunal de origem noticiou o trânsito em julgado da ação penal, após esta Corte Superior não conhecer do Agravo em Recurso Especial n. 1.398.693/SP, que versava sobre a matéria.
+    Desta feita, o abatimento do tempo de prisão provisória do total da condenação decretada neste processo-crime é providência que competirá ao d. Juízo da Execução Penal, consoante dicção do art. 66, III, "c", da Lei n. 7.210/1984. (eDOC 7, p. 4)
+    Quanto ao pedido de expedição de guia de execução definitiva, antes do enclausuramento do paciente, registrou o STJ:
+    Quanto ao pedido de expedição da guia de execução antes da prisão do paciente, a fim de que seja analisado o pleito de progressão de regime antes de seu recolhimento ao cárcere, tem-se que não há como se pleitear benefícios que somente podem ser obtidos durante o cumprimento da pena se esse sequer começou.
+    O processo de execução penal só terá início com a autuação e registro da guia de recolhimento provisória ou definitiva. E o art. 674 do Código de Processo Penal, bem como o art. 105 da Lei de Execução Penal, são expressos no sentido de que a guia de recolhimento definitiva para a execução penal somente será expedida após o trânsito em julgado da sentença que aplicar pena privativa de liberdade, quando o condenado estiver ou vier a ser preso. (eDOC 7, p. 6)
+    Da leitura dos excertos acima, vê-se que o impetrante requer que o Juízo sentenciante detraia “o período de prisão cautelar, efetuar a progressão de regime ou expedir a carta de guia e determinar a formação da execução antes do cumprimento do mandado de prisão”, quando o Tribunal registrou ser da competência do Juízo das Execuções. (eDOC 1, p. 3)
+    Com efeito, nenhum Juízo ou Tribunal negaram o direito à detração, mas apenas registraram ser das Execuções o Juízo competente para apreciá-lo. (eDOC 5)
+    De outro lado, prevê o artigo 105 da Lei de Execuções Penais que, “transitando em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução”, razão por que não há suporte legal para se determinar a expedição da guia do réu solto, caso do paciente.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 9 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
