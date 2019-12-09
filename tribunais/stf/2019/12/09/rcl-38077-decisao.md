@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Cabral e Souza Ltda. assevera haver a Oitava Turma do Tribunal Regional Federal da 1ª Região, no processo nº 0007980-15.2014.4.01.3307, desrespeitado o decidido no recurso extraordinário nº 240.785 e, sob o regime da repercussão geral, no extraordinário de nº 574.706 – Tema nº 69.
+    Segundo narra, formalizou demanda, submetida ao rito ordinário, visando a relativização da coisa julgada formada no mandado de segurança nº 2006.3307.009.683-7, impetrado com a finalidade de excluir o Imposto sobre Circulação de Mercadorias e Serviços – ICMS da base de cálculo das contribuições ao Programa de Integração Social – PIS e ao Financiamento da Seguridade Social – COFINS e a compensação de valores. Esclarece a formalização do processo originário levando em conta a mudança de entendimento do Supremo sobre a matéria, considerado o assentado no recurso extraordinário nº 240.785. Destaca a procedência do pedido, tendo sido a óptica reformada pelo Tribunal reclamado em virtude do acolhimento da preliminar de coisa julgada.
+    Sustenta contrariedade ao decidido no extraordinário de nº 574.706, no qual fixada tese, sob o regime de repercussão maior, a revelar pertinente a pretendida exclusão do ICMS da base de incidência do PIS e da COFINS. Diz encontrar-se obrigado a recolher tributo cobrado de forma inconstitucional. Alude ao verbete nº 239 da Súmula do Supremo. Distingue o alcance do mandado de segurança e da demanda ordinária ajuizados, no que o pedido de compensação visou períodos diversos. Salienta em jogo relação de trato sucessivo.
+    Sob o ângulo do risco, afirma estar obrigado ao recolhimento de tributo calculado sobre base tida por inconstitucional.
+    Requer, no campo precário e efêmero, seja “reconsiderado” o acórdão atacado para desprover apelação interposta. Busca a confirmação da providência objetivando a exclusão postulada da base de cálculo do PIS e da COFINS e a compensação de valores pagos indevidamente.
+    2. No tocante ao decidido no recurso extraordinário nº 240.785, a reclamante não participou da relação subjetiva formada. De natureza excepcional, a medida formalizada não se presta à uniformização de jurisprudência. É inadequado utilizá-la como sucedâneo recursal, para guindar, com queima de etapas, controvérsia ao Supremo.
+    Relativamente ao assentado no recurso extraordinário nº 574.706 – Tema nº 69, a par de a discussão, na origem, ter ficado limitada à ocorrência da coisa julgada, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela estar o cabimento da reclamação, objetivando ver reconhecida erronia quanto ao regime da repercussão geral, condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando apreciado agravo interposto em face de inadmissão de extraordinário. O requisito não foi atendido, uma vez direcionada a irresignação contra acórdão decorrente do exame de apelação.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 9 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
