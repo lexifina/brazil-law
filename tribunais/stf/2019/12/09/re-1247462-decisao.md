@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE.
+    1. A orientação consolidada pelo Supremo Tribunal Federal, trilhada por esta Corte, é a de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, relator o Ministro Teori Zavascki, Tribunal Pleno, DJe de 17/5/2016).
+    2. No entanto, a Terceira Seção desta Casa, no julgamento do EREsp n. 1.619.087/SC, firmou a compreensão de que, em relação às penas restritivas de direitos, a execução somente poderia ocorrer quando transitada em julgado a condenação, em observância ao art. 147 da Lei de Execução Penal.
+    3. De mais a mais, a orientação manifestada no EREsp n. 1.619.087/SC foi reafirmada pela Terceira Seção desta Corte em 24/10/2018, no julgamento do AgRg no HC n. 435.092/SP (relator Ministro ROGERIO SCHIETTI CRUZ, relator para acórdão Ministro REYNALDO SOARES DA FONSECA, DJe de 26/11/2018).
+    4. Agravo regimental desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que “a reforma do acórdão recorrido é medida de rigor, a fim de que prevaleça o entendimento dado à matéria por ocasião do julgamento do HC n. 126.292/SP, das ADC 43 e ADC 44, e do ARE 964.246/SP, fazendo cessar a afronta ao princípio da presunção de inocência, consubstanciado no art. 5º, inciso LVII, da CF/88 preservando-se, assim, a segurança jurídica das decisões soberanas desse Excelso Pretório”.
+    O recurso não merece ser acolhido. A conclusão do acórdão recorrido (que vedou a execução provisória da pena restritiva de direitos) está alinhada com a orientação do Plenário do Supremo Tribunal Federal, no julgamento do mérito das ADCs 43, 44 e 54, Rel. Min. Marco Aurélio, ocorrido na sessão de 07.11.2019.
+    Na oportunidade, esta Corte, por maioria, decidiu pela constitucionalidade do art. 283 do Código de Processo Penal, no ponto em que impõe o trânsito em julgado da condenação para o início do cumprimento da pena. Para a corrente vencedora, o art. 283 do Código de Processo Penal, segundo o qual “ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva”, está alinhado com o princípio da presunção de inocência, nos termos do art. 5º, LVII, da Constituição Federal. Fiquei vencido, na companhia dos ministros Alexandre de Moraes, Edson Fachin, Luiz Fux e Cármen Lúcia, por entender que a execução da pena após a condenação em segunda instância não viola o princípio da presunção de inocência.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 09 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
