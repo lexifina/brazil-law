@@ -1,0 +1,29 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Phablo Henrik Pinheiro do Carmo, em favor de Rodrigo Pereira Veras, contra decisão monocrática proferida por Ministro Relator do STJ, nos autos do HC 548.431/CE.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de RODRIGO PEREIRA VERAS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - HC n. 0626208-66.2019.8.06.0000.
+    Noticiam os autos que o paciente encontra-se preso preventivamente, nos autos da ação penal em que foi denunciado por ter supostamente praticado o delito tipificado no art. 157, § 2º, incisos I e II, e c/c o art. 71, ambos do Código Penal (e-STJ fl. 41).
+    Aduz o impetrante a ocorrência de constrangimento ilegal, sob o argumento de que o paciente se encontra preso desde 25 de novembro de 2018, tendo sido a audiência de instrução designada para o dia 18 de fevereiro de 2020, a ponto de restar configurado o excesso de prazo de sua custódia cautelar.
+    Requer, liminarmente e no mérito, a concessão da ordem constitucional para que o paciente seja colocado em liberdade em virtude do apontado excesso de prazo.
+    É o relatório. ” (eDOC 6)
+    No STJ, a liminar foi indeferida.
+    Nesta Corte, o impetrante sustenta que há excesso de prazo na prisão preventiva, razão por que deve ela ser revogada.
+    É o relatório.
+    Decido.
+    De início, verifico que o pedido se esbarra na Súmula 691 desta Corte, razão por que dele não posso conhecer.
+    É bem verdade que o rigor na aplicação da Súmula 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Na hipótese dos autos, não vislumbro constrangimento ilegal manifesto a autorizar o afastamento da incidência da referida Súmula.
+    Na espécie, o paciente foi preso em flagrante, porquanto, em concurso com mais dois corréus, teria praticado um roubo contra uma farmácia em 25.11.2018. (eDOC 7, p. 3)
+    Ao apreciar o habeas corpus por cujo meio a defesa sustenta a ocorrência de excesso de prazo, registrou o Tribunal de Justiça do Ceará:
+    Em consulta aos autos da ação penal de origem n° 0181208-42.2018.8.06.0001, considero regular o prazo da tramitação do processo. Confira-se:
+    Preso no dia 25/11/2018; Denúncia ofertada em 29/01/2019; Recebimento da delatória em 04/02/2019; Resposta à acusação do impetrante em 17/04/2019; No dia 10/06/2019, houve despacho nomeando a Defensoria Pública para atuar em favor dos outros corréus, os quais não nomearam seus respectivos causídicos; Em sequência, no dia 29/06/2019, certificou-se a ausência de apresentação de defesa prévia por parte da Dafensoria Pública. Por sua vez, em consulta aos autos da ação penal n° 0015154-52.2019.8.06.0001, que trata sobre o pedido de revogação da prisão preventiva, também se percebe o regular trâmite processual, senão vejamo: Pedido de revogação em 19/02/2019; Parecer do parquet, datado em 07/06/2019, opinando pelo indeferimento do pedido; Decisão de indeferimento em 10/06/2019.
+    Destarte, pela análise da marcha processual acima descrita, resta clarividente a complexidade do feito, considerando a pluralidade de réus, com patronos distintos, pluralidade de vítimas, complexidade do delito imputado ao paciente e aos demais corréus, conjuntura que atrai a incidência da Súmula n° 15 desta Egrégia Corte, segundo o qual: SÚMULA 15.: Não há falar em ilegalidade da prisão por excesso de prazo quando a complexidade do crime apurado ou a pluralidade de réus justifica a mora na ultimação dos atos processuais. (grifei)
+    Assim, em juízo acerca da proporcionalidade e razoabilidade, verifica-se que não há desídia a ser atribuída ao juízo de origem nem, portanto, constrangimento ilegal capaz de ensejar a concessão da ordem de habeas corpus.
+    Outrossim, forçoso é concluir que não houve negligência do douto Juízo singular, já que o mesmo vem conferindo o impulso oficial necessário para que a tramitação do feito se dê de forma regular, não se mantendo inerte durante o decorrer da ação penal e realizando todos os devidos atos processuais, em tempo, a meu ver, razoável, verificando, pois, a devida complexidade do caso em análise, diante do número de réus. (eDOC 7, p. 4-5)
+    Desse modo, da leitura do excerto acima, vê-se que, embora alongada a duração do processo, ela está devidamente justificada, de modo que não resta configurado qualquer constrangimento ilegal a autorizar a revogação da prisão preventiva.
+    Frise-se que a configuração do excesso de prazo a justificar a revogação da prisão não se verifica a partir, tão somente, do requisito temporal. É necessário apurar a presença de circunstâncias que demandam maior tempo, a exemplo de expedição de carta precatória e número de réus na ação penal, o que verifico no caso dos autos. Cito precedentes: RHC 140.840, Rel. Min. Luix Fuz, DJe 3.3.2017; HC 132.172, DJe 11.2.2016 e HC 158.279, DJe 9.8.2018, ambos de minha relatoria.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 10 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
