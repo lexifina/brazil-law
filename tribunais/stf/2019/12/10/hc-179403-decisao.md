@@ -1,0 +1,16 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça assim ementado (eDOC 7):
+    CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO. I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição a recurso, o que implica o seu não conhecimento, ressalvados casos excepcionais, onde seja possível a concessão da ordem, de ofício. II - "A jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/02/2019). III - No caso concreto, o v. acórdão considerou, além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, ausente o requisito subjetivo, com base em elementos concretos da execução penal: quatro faltas graves. Writ não conhecido.
+    Busca o impetrante, em suma, a imediata concessão de livramento condicional ao paciente, sob a assertiva de que preenchidos os requisitos objetivos e subjetivos para concessão da benesse, inclusive por atestado de bom comportamento carcerário.
+    É o relatório. Decido.
+    2. A despeito da irresignação defensiva, a apontada ilegalidade não pode ser aferida de pronto, uma vez deficiente a instrução do mandamus.
+    Com efeito, não obstante os documentos apresentados, verifica-se que não foi colacionado ao autos cópia integral do acórdão inquinado coator, com a totalidade das razões de fato e de direito consideradas pelo órgão colegiado de origem para o não conhecimento do writ lá impetrado.
+    A formação claudicante do remédio heroico, sem os documentos indispensáveis à plena compreensão da matéria vertida, inviabiliza a escorreita aferição do direito líquido e certo que se alega haver sido violado, a conduzir, por conseguinte, à negativa de processamento do feito.
+    Acrescente-se que, consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/10/09, grifei). Na mesma linha: HC 130240 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 24/11/2015 e HC 131202 AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 03/03/2016.
+    Na mesma linha, consolidado nesta Corte o entendimento acerca da impossibilidade de emenda à impetração, haja vista que o habeas corpus, “instrumento destinado à proteção de direito líquido e certo, demonstrável de plano, que não admite dilação probatória” (HC 103606, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 21/09/2010).
+    3. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se e intimem-se.
+    Brasília, 10 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
