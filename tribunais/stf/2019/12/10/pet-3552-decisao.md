@@ -1,0 +1,16 @@
+Decisão:
+Ementa: DIREITO ADMINSITRATIVO E PROCESSUAL CIVIL. PETIÇÃO. AGRAVO DE INSTRUMENTO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. O Supremo Tribunal Federal julgou procedente a ADI 2.797, Rel. Min. Sepúlveda Pertence, j. em 15.09.2005, para declarar a inconstitucionalidade dos §1º e 2º do art. 84 do CPP, com a redação dada pela Lei nº 10.628/2005, que instituía o foro por prerrogativa de função ao agente público para atos praticados no exercício da função, ainda que o inquérito, ação de improbidade ou ação penal fossem iniciados após o fim do exercício da função pública.
+2. A competência para julgamento do agravo de instrumento é o TRF-1. Declínio de competência.
+    1. Trata-se de agravo de instrumento interposto por Arnoldo Souza de Oliveira, ex-diretor do Banco Nacional, contra decisão da 4ª Vara Federal de Brasília/DF, que decretou a indisponibilidade dos bens do requerente nos autos da ação civil de improbidade administrativa nº 0020760-29.1996.4.01.3400.
+    2. Em síntese, o requerente alega ser incabível a cumulação do pedido condenatório com o pedido de indisponibilidade de bens, deferido pelo Juízo de primeiro grau. Sustenta, ainda, a ausência de interesse de agir do Ministério Público Federal, na medida em que os bens do requerente já se encontravam indisponíveis, por força do art. 36 da Lei nº 6.024/1976. Defende, por fim, não existir justa causa para a indisponibilidade, alegando que não praticou nenhum ato de improbidade.
+    3. Em 22.02.2005, o Tribunal Regional da Primeira Região declinou a competência para o Supremo Tribunal Federal, entendendo serem constitucionais o art. 84, §1º e §2º, do Código de Processo Penal, com a redação dada pela Lei nº 10.628/2005, que estenderam o foro por prerrogativa de função ao agente público para atos praticados no exercício da função, ainda que o inquérito, ação de improbidade ou ação penal fossem iniciados após o fim do exercício da função pública.
+    4. Em 26.06.2013, os autos vieram a mim conclusos, em substituição da relatoria do Min. Joaquim Barbosa.
+    5. É o relatório. Decido.
+    6. Em 15.09.2005, foi julgada a ADI 2.797, Rel. Min. Sepúlveda Pertence, que declarou a inconstitucionalidade dos §1º e 2º do art. 84 do CPP, com a redação dada pela Lei nº 10.628/2005. Em 17.05.2012, em julgamento de embargos de declaração, o Tribunal fixou a data de 15 de setembro de 2005 como termo inicial dos efeitos da declaração de inconstitucionalidade dos dispositivos impugnados, preservando-se a validade dos atos processuais até então praticados, determinando que as ações ainda não transitadas em julgado deveriam seguir na instância adequada.
+    7. Assim, considerando que a ação civil de improbidade administrativa nº 0020760-29.1996.4.01.3400 não transitou em julgado, declino a competência do julgamento do agravo de instrumento interposto para a instância adequada, isto é, o Tribunal Regional Federal da Primeira Região.
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do pedido formulado nesta petição, remetendo os autos ao Tribunal Regional Federal da Primeira Região para julgamento do agravo de instrumento.
+    Publique-se. Intimem-se.
+          Brasília, 10 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
