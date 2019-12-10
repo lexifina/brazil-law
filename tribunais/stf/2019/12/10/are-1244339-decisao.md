@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. Na ação civil pública, a regra é o recebimento dos recursos apenas no efeito devolutivo, requerendo robusta motivação a atribuição de efeito suspensivo.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXIV, XXXV, LIV e LV; 93, IX; e 100, § 1º, da Constituição.
+    O recurso extraordinário não deve ser provido.
+    Inicialmente, aplica-se a jurisprudência do Supremo Tribunal Federal (STF) que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido em face da da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, o Tribunal de origem assentou que “para ser conferido efeito suspensivo aos embargos de divergência necessita que o requerente faça prova conjunta de três requisitos: (a) a viabilidade do recurso a que se pretende conferir efeito suspensivo; (b) a plausibilidade jurídica da pretensão invocada; e (c) a urgência do provimento. No caso, não há notícia de atribuição de efeito suspensivo aos embargos de divergência opostos contra o acórdão do recurso especial, razão pela qual tenho como viável o manejo da execução provisória”.
+    Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Nessas condições, aplica-se a Súmula 283/STF.
+    Quanto à alegada ofensa ao art. 93, IX, da CF, o Plenário do STF já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios.
+     Publique-se.
+          Brasília, 10 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
