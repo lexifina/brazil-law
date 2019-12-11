@@ -1,0 +1,28 @@
+RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA. EMPRESA EM RECUPERAÇÃO JUDICIAL. ISENÇÃO DE DEPÓSTIO RECURSAL. ARTIGO 899, PARÁGRAFO 10, DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. LEI 13.467/2017. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. DEFERIMENTO DA MEDIDA LIMINAR.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Oi S/A – em recuperação judicial – contra acórdão proferido pela 2ª Turma do Tribunal Regional do Trabalho da 4ª Região nos autos da Reclamação Trabalhista 0020670-84.2018.5.04.0004, por suposta afronta à Súmula Vinculante 10.
+    Eis a ementa do acórdão ora reclamado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DESERTO. AUSÊNCIA DE COMPROVAÇÃO DO DEPÓSITO RECURSAL E CUSTAS. EMPRESA EM RECUPERAÇÃO JUDICIAL. NÃO CONHECIMENTO. Hipótese de não conhecimento do agravo de instrumento por meio de que se busca o destrancamento do recurso ordinário interposto, pois considerado deserto, na medida em que não recolhido o depósito recursal e não comprovado o pagamento das custas processuais. Não há previsão legal de isenção de depósito judicial para empresas em recuperação judicial, nos termos da Lei nº 11.101/2005, apenas para massa falida. Aplicação do § 4º do artigo 899 da CLT.”
+    Narra a parte reclamante que está em recuperação judicial e que o artigo 899, § 10, da CLT, com redação dada pela Lei 13.467/2017, prevê expressamente que as empresas em recuperação são isentas da realização do depósito recursal.
+    Relata que, ao não conhecer o seu recurso ordinário por deserção, o juízo reclamado afastou a aplicação de dispositivo da Lei 13.467/2017, sem declarar a sua inconstitucionalidade, em violação ao enunciado da Súmula Vinculante 10.
+    Sustenta, nesse sentido, que “não resta qualquer dúvida, portanto, que a decisão impugnada viola cláusula de reserva de plenário (art. 97 da Constituição Federal) e colide com a Súmula Vinculante 10 do STF”.
+    Requer, liminarmente, a suspensão da decisão “proferida pela 2ª turma do Tribunal Regional do Trabalho da 4ª Região nos autos 0020670- 84.2018.5.04.0004, no que diz respeito não conhecer de recurso interposto por empresa em recuperação judicial sem o pagamento do depósito recursal, em dissonância com o artigo 899, §10º da CLT”. No mérito, pugna pela procedência do pedido para cassar a decisão reclamada, determinando que se observe o artigo 97 da Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, quanto à alegada ofensa ao teor da Súmula Vinculante 10, é preciso esclarecer o que ela dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.”
+    Nesse contexto, ao realizar a leitura do decisum ora reclamado, verifico que parece ter havido afronta ao conteúdo da súmula vinculante em apreço, conforme se observa do seguinte excerto:
+    “[...]
+    Pois bem, entendo que a lei 13.467/17, que alterou significativamente a CLT, é inaplicável e ilegítima. Nesse sentido não é possível o atendimento à nova redação dada ao art. 899 da CLT.
+    Entendo que a ausência de depósito recursal pela reclamada, impõe o não conhecimento do respectivo recurso ordinário. Além disso, inexiste previsão legal de isenção de depósito judicial para empresas em processo de recuperação judicial, nos termos da Lei n. 11.101/2005, a qual trata exclusivamente da manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, porém em nada refere à isenção ou ausência de cumprimento de quaisquer dispositivos legais, em especial o que rege o recurso ordinário no processo trabalhista.” (Grifei)
+    Dispõe o artigo 899, § 10, da CLT, com redação dada pela Lei 13.467/2017:
+    “Art. 899 - Os recursos serão interpostos por simples petição e terão efeito meramente devolutivo, salvo as exceções previstas neste Título, permitida a execução provisória até a penhora.
+    § 10.  São isentos do depósito recursal os beneficiários da justiça gratuita, as entidades filantrópicas e as empresas em recuperação judicial. (Incluído pela Lei nº 13.467, de 2017).” (Grifei)
+    Dessa forma, entendo, neste juízo provisório, que o órgão fracionário afastou integralmente o comando legal que isenta as empresas em recuperação judicial do pagamento do depósito recursal, em afronta à Súmula Vinculante 10, uma vez que destituiu “a norma de qualquer carga de eficácia jurídica, esvaziando por completo a pretensão originária do legislador, seja ela qual tenha sido” (Reclamação 25.508, rel. min. Alexandre de Moraes, DJe de 22/8/2017).
+    Ex positis, por entender que os argumentos da parte reclamante são plausíveis, DEFIRO o pedido de MEDIDA LIMINAR, com fundamento no inciso II do artigo 989 do Código de Processo Civil, para suspender os efeitos do acórdão proferido pela 2ª Turma do colendo Tribunal Regional do Trabalho da 4ª Região nos autos da Reclamação Trabalhista 0020670-84.2018.5.04.0004, até o julgamento final desta reclamação.
+    Solicitem-se informações (artigo 989, inciso I, do CPC) e comunique-se o teor desta decisão ao Tribunal Regional do Trabalho da 4ª Região, em especial no que concerne ao deferimento da medida liminar.
+    Cite-se o beneficiário do decisum impugnado para a apresentação de contestação (artigo 989, inciso III, do CPC).
+    Nos termos do artigo 52, parágrafo único, do RISTF, dispenso o parecer da Procuradoria-Geral da República, por cuidar-se de matéria de caráter reiterado.
+    Publique-se.
+    Brasília, 11 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
