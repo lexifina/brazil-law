@@ -1,0 +1,1 @@
+Art. 88-A. As nomeações dos Diretores de que trata o art. 88 serão precedidas, individualmente, de aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.
