@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso de agravo, tempestivamente interposto, contra decisão que, por mim proferida, não conheceu da reclamação ajuizada pelo ora recorrente.
+    Afirma a parte reclamante, ora agravante, em síntese, que o ato judicial questionado – emanado da 2ª Câmara Cível do E. Tribunal de Justiça do Estado do Rio Grande do Norte – teria desrespeitado os enunciados constantes das Súmulas Vinculantes nº 04/STF e nº 10/STF, que possuem, respectivamente, os seguintes teores:
+    “Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.” (grifei)
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.” (grifei)
+    O exame da presente causa, no entanto, evidencia a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto desta ação reclamatória.
+    Com efeito, em momento posterior ao do ajuizamento desta ação reclamatória, o eminente Ministro ALEXANDRE DE MORAES, ao analisar o RE 754.561/RN, de que foi Relator, conheceu “dos recursos extraordinários, para dar-lhes provimento, com o que se restabelece a sentença” (grifei), sendo certo, ainda, que essa decisão veio a ser confirmada, em sede de agravo interno, pela colenda Primeira Turma desta Suprema Corte, havendo transitado em julgado em 02/06/2018, evidenciando, desse modo, não mais subsistir a situação versada nos presentes autos.
+    A existência desse fato assume relevo processual, eis que faz instaurar, no caso, situação de prejudicialidade, apta a gerar a extinção deste instrumento reclamatório, em virtude da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que esse entendimento encontra apoio na jurisprudência do Supremo Tribunal Federal (Rcl 7.404/SP, Rel. Min. GILMAR MENDES – Rcl 8.294/SC, Rel. Min. RICARDO LEWANDOWSKI – Rcl 9.274/AM, Rel. Min. CELSO DE MELLO – Rcl 10.043/RJ, Rel. Min. CELSO DE MELLO – Rcl 10.242/RJ, Rel. Min. DIAS TOFFOLI – Rcl 11.083/SP, Rel. Min. ROBERTO BARROSO – Rcl 13.681/RJ, Rel. Min. ROSA WEBER – Rcl 15.644/MS, Rel. Min. LUIZ FUX – Rcl 15.810/RS, Rel. Min. TEORI ZAVASCKI – Rcl 15.816/MG, Rel. Min. CÁRMEN LÚCIA – Rcl 16.906/SP, Rel. Min. GILMAR MENDES – Rcl 29.542-MC/SP, Rel. Min. CELSO DE MELLO, v.g.), cabendo destacar, entre outras, a seguinte decisão que esta Corte proferiu a propósito do tema ora em análise:
+    “RECLAMAÇÃO – ATO IMPUGNADO –  REVOGAÇÃO – PERDA DE OBJETO. A revogação do ato tido, no pedido inicial da reclamação, como discrepante de certa decisão implica o prejuízo da reclamação, julgando-se extinto o processo sem apreciação do tema de fundo.”
+    (Rcl 2.496-QO/PE, Rel. Min. MARCO AURÉLIO – grifei)
+    Sendo assim, e pelas razões expostas, julgo prejudicada a presente reclamação, em face da perda superveniente de seu objeto, inviabilizando-se, em consequência, a apreciação do recurso de agravo interposto nesta sede processual.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 11 de dezembro de 2019.
+Ministro CELSO DE MELLO
+Relator
