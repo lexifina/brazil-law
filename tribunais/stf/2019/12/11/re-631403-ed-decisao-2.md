@@ -1,0 +1,73 @@
+DECISÃO: Reconsidero a decisão de fls. 740/745, restando prejudicado, em consequência, o exame do recurso de fls. 747/751.
+
+    Passo a examinar, desse modo, o apelo extremo deduzido pelo Município de São Vicente Férrer/MA.
+
+    O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado (fls. 602/603):
+
+    “TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM). JULGAMENTO CITRA PETITA. ART. 515, DO CPC. PRESCRIÇÃO QUNQUENAL. PORTARIA STN E BGU. NÃO INCLUSÃO E EXCLUSÃO INDEVIDA DE VALORES NA BASE DE CÁLCULO DO FUNDO. PIN E PROTERRA. FEF E FSE (5,6%). RESTITUIÇÃO DO IMPOSTO DE RENDA RETIDO NA FONTE PELA UNIÃO, AUTARQUIAS E FUNDAÇÕES. INOCORRÊNCIAS. ACRÉSCIMOS LEGAIS: IR E IPI. AUSÊNCIA DE COMPROVAÇÃO. ART. 333,I, DO CPC.
+
+    1. Nos exatos termos do artigo 1º do Decreto 20.910/32, o prazo prescricional para pleitear todo e qualquer direito contra a Fazenda Pública é de cinco anos, incidindo a prescrição nas parcelas ou diferenças não reclamadas no quinquênio anterior à propositura da ação.
+
+    2. O art. 515 autoriza a apreciação e julgamento, pelo Tribunal, de todas as questões suscitadas e discutidas no processo, ainda que a sentença não as tenha julgado por inteiro.
+
+    3. Razão não assiste ao Município-Apelante quanto aos argumentos referentes à diferença entre a arrecadação expressa nas Portarias da Secretaria do Tesouro Nacional (STN), vez que os montantes dos repasses da União para o FPM se encontram corretos, não se podendo comparar os valores das Portarias da STN e do BGU, pois não espelham exatamente as mesmas quantias, notadamente em face da defasagem temporal existente e diversidade de regimes de apuração. Por outro lado, não restou comprovado que as diferenças existentes entre os dois documentos tenha influenciado a base de cálculos dos Fundos de Participação ou mesmo causado quaisquer prejuízos aos estados, DF e municípios.
+
+    4. Correta a dedução do percentual de 5,6% para o Fundo Social de Emergência – FSE e para o Fundo de Estabilização Fiscal – FEF, nos termos do art. 72, § 5º, do Ato das Disposições Constitucionais Transitórias de 1988.
+
+    5. De fato, não há que se falar em indevida dedução para FSE/FEF, tendo por base o limite máximo permitido, vez que todos os dados indicam que as variações do IR e do IPI sempre foram, no mínimo, igual ou superiores a 5,6% da arrecadação total, o que caracteriza a inexistência de qualquer diferença a favor dos municípios em decorrência das divergências eventualmente verificadas. Ademais, conforme a decisão do TCU, restou demonstrada a impossibilidade, em face dos dados contábeis disponíveis, de se determinar se os Municípios ou Estados sofreram qualquer prejuízo com a utilização do percentual no máximo permitido.
+
+    6. Correto o procedimento adotado pela STN para a obtenção da base de cálculo do FPM, em que os valores correspondentes às contribuições ao PIN e ao PROTERRA são deduzidos do imposto original. De fato, tais valores devem ser deduzidos porque, embora arrecadados a título de imposto de renda, correspondem a incentivos fiscais redirecionados para aplicações em regiões incentivadas e como tal, constituem renúncia de receitas, e são deduzidos da base de cálculo da repartição tributária da União, conforme estabelecido na legislação pertinente.
+
+    7. Quanto às deduções de restituições de imposto de renda retido na fonte pela União (IRRF-União), melhor sorte não socorre o(s) município(s), na medida em que ‘(...)É inviável o pedido de recálculo das parcelas do FPM, por força de pretendida inclusão na base de cálculo do FPE/FPM, dos valores restituídos pela União a seus servidores e aos de suas autarquias e fundações, após as declarações anuais de ajuste do Imposto de Renda, pois a quantificação desses valores dependeria de impraticável prova pericial que identificasse as restituições feitas a cada um desses servidores, em todo o País’ (AC 2000.34.00.007892-7/DF, Rel. Desembargador Federal Antônio Ezequiel Da Silva, Sétima Turma,DJ p.64 de 10/11/2006).
+
+    8. Precedentes do TRF/1ª Região e do TRF/4ª Região: (AC 2000.34.00.007892-7/DF, Rel. Desembargador Federal Antônio Ezequiel Da Silva, Sétima Turma, DJ de 10/11/2006, pág. 64; TRF/4ª REGIÃO. APELREEX – Apelação/Reexame Necessário nº 200172050016233/SC, Relator(a) Marga Inge Barth Tessler, Quarta Turma, D.E. 17/11/2008; TRF 4ª/REGIÃO, AC Nº 200072060018441/SC, Rel. Des. Federal Dirceu de Almeida Soares, Segunda Turma, DJ 25/08/2004, pág. 488).
+
+    9. Em que pese à expressa previsão legal para inclusão, na base de cálculo do FPM, de juros, correção monetária e multas cobradas administrativamente ou judicialmente na arrecadação do IR e IPI, nos termos da Lei Complementar 62/89; ‘in casu’, os documentos de fls. 48/52, não constituem prova idônea e suficiente para a demonstração de que os referidos acréscimos legais não foram incluídos, quando do repasse do FPM, vez que produzidas unilateralmente, inclusive desprovidas de assinatura, bem como as provas periciais emprestadas aos autos não se manifestaram no ponto. Meras alegações não são capazes de infirmar a presunção de legalidade dos atos administrativos.
+
+    10. Recurso de Apelação do Autor provido em parte, apenas para reconhecer a ocorrência de sentença ‘citra petita’ e, em atenção aos termos do § 3º do art. 515 do CPC (introduzido pela Lei nº 10.352/01), julgar integralmente improcedente os pedidos. Apelo da Fazenda Nacional provido para reformar a sentença no tocante aos honorários advocatícios, majorando-os para R$ 6.000,00 (seis mil reais), nos termos do art. 20, § 4º, do CPC.”
+
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se, em parte, incognoscível.
+
+    Cumpre ressaltar, desde logo, no que concerne à pretensão a propósito das deduções da base de cálculo do Fundo de Participação dos Municípios do percentual de 5,6% para o Fundo Social de Emergência e para o Fundo de Estabilização Fiscal e das restituições do imposto de renda retido na fonte pela União Federal, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao resolver a questão suscitada nos autos, sustentou as suas conclusões em aspectos fático-probatórios (fls. 594/596):
+
+    “Assim, não há que se falar em indevida dedução para FSE/FEF, tendo por base o limite máximo permitido, vez que todos os dados indicam que as variações do IR e do IPI sempre foram, no mínimo, igual ou superiores a 5,6% da arrecadação total, o que caracteriza a inexistência de qualquer diferença a favor dos municípios em decorrência das divergências eventualmente verificadas. Ademais, conforme a decisão do TCU, restou demonstrada a impossibilidade, em face dos dados contábeis disponíveis, de se determinar se os Municípios ou Estados sofreram qualquer prejuízo com a utilização do percentual no máximo permitido.
+
+    …...................................................................................................
+
+    Quanto às deduções de restituições de imposto de renda retido na fonte pela União (IRRF-União), melhor sorte não socorre o(s) apelante(s), na medida em que ‘(...)É inviável o pedido de recálculo das parcelas do FPM, por força de pretendida inclusão na base de cálculo do FPE/FPM, dos valores restituídos pela União a seus servidores e aos de suas autarquias e fundações, após as declarações anuais de ajuste do Imposto de Renda, pois a quantificação desses valores dependeria de impraticável prova pericial que identificasse as restituições feitas a cada um desses servidores, em todo o País’ (AC 2000.34.00.007892-7/DF, Rel. Desembargador Federal Antônio Ezequiel Da Silva, Sétima Turma,DJ p.64 de 10/11/2006).
+
+    …...................................................................................................
+
+    Cumpre, ainda, destacar a Decisão nº 125/2002-TCU-Plenário, do Tribunal de Contas da União, a quem compete a fiscalização das transferências constitucionais, que no tema, se pronunciou nos seguintes termos: ‘entendo não haver irregularidade no procedimento adotado pela SRF quanto à devolução do imposto sobre a renda incidente sobre os rendimentos pagos pelos Estados, Distrito Federal e Municípios, ou pela STN, quanto à repartição de que trata o art. 159 da Constituição’.”
+
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+
+    Impõe-se observar, ainda, no tocante a dedução dos valores destinados ao PIN e ao PROTERRA da base de cálculo do FPM, que a controvérsia jurídica ora suscitada já foi dirimida pelo Plenário desta Suprema Corte que ao julgar a ACO 758/SE, Rel. Min. MARCO AURÉLIO, fixou entendimento consubstanciado em acórdão assim ementado:
+
+    “FUNDO – ESTADOS – PARTICIPAÇÃO – ARTIGO 159, INCISO I, ALÍNEA ‘A’, DA CONSTITUIÇÃO FEDERAL – ALCANCE – PROGRAMAS PIN E PROTERRA – SUBTRAÇÃO – IMPROPRIEDADE.
+
+    A participação dos Estados, no que arrecadado pela União, faz-se segundo o figurino constitucional, sendo impróprio subtrair valores destinados aos Programas PIN e PROTERRA.
+
+    PRESCRIÇÃO – OBRIGAÇÃO DE DAR – QUINQUÊNIO. Uma vez reconhecido certo direito, cumpre observar o prazo prescricional.”
+
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em sucessivos julgamentos proferidos no âmbito desta Suprema Corte (AI 794.118/DF, Rel. Min. DIAS TOFFOLI – RE 611.671/DF, Rel. Min. DIAS TOFFOLI – RE 741.252/PE, Rel. Min. ALEXANDRE DE MORAES – RE 1.075.419/PE, Rel. Min. ROBERTO BARROSO – RE 1.111.731/PE, Rel. Min. ALEXANDRE DE MORAES – RE 1.116.442/PE, Rel. Min. ROBERTO BARROSO, v.g.).
+
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge, no ponto, da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+
+    Sendo assim, e tendo em consideração as razões expostas, conheço, em parte, do presente recurso extraordinário, para, nessa parte, dar-lhe provimento, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar que as deduções referentes ao PIN e ao PROTERRA sejam afastadas do cálculo dos valores repassados pela União, a título do Fundo de Participação dos Municípios – FPM, para a parte ora recorrente, apurando-se as diferenças devidas em sede de liquidação de sentença, invertidos os ônus de sucumbência.
+
+    Publique-se.
+
+    Brasília, 11 de dezembro de 2019.
+
+Ministro CELSO DE MELLO
+
+Relator
