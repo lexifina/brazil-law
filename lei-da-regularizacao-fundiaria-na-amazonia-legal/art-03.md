@@ -4,4 +4,4 @@ II - abrangidas pelas exceções dispostas no parágrafo único do art. 1º do D
 III - remanescentes de núcleos de colonização ou de projetos de reforma agrária que tiverem perdido a vocação agrícola e se destinem à utilização urbana;
 IV - devolutas localizadas em faixa de fronteira; ou
 V - registradas em nome do Instituto Nacional de Colonização e Reforma Agrária - Incra, ou por ele administradas.
-Parágrafo único. Esta Lei aplica-se subsidiariamente a outras áreas sob domínio da União, na Amazônia Legal, sem prejuízo da utilização dos instrumentos previstos na legislação patrimonial.
+Parágrafo único. Esta Lei aplica-se subsidiariamente a outras áreas sob domínio da União, sem prejuízo da utilização dos instrumentos previstos na legislação patrimonial.
