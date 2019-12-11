@@ -1,0 +1,2 @@
+Institui mecanismo de financiamento para o Programa de Ciência e Tecnologia para o Agronegócio, para o Programa de Fomento à Pesquisa em Saúde, para o Programa Biotecnologia e Recursos Genéticos - Genoma, para o Programa de Ciência e Tecnologia para o Setor Aeronáutico e para o Programa de Inovação para Competitividade, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
