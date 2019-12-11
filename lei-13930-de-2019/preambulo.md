@@ -1,0 +1,2 @@
+Altera a Lei nº 10.332, de 19 de dezembro de 2001, para garantir aplicação de percentual dos recursos do Programa de Fomento à Pesquisa em Saúde em atividades relacionadas ao desenvolvimento tecnológico de medicamentos, imunobiológicos, produtos para a saúde e outras modalidades terapêuticas destinados ao tratamento de doenças raras ou negligenciadas.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei:
