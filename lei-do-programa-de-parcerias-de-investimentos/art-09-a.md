@@ -1,0 +1,1 @@
+Art. 9º-A. A SPPI manterá mecanismos de diálogo com as confederações nacionais patronais setoriais, comissões temáticas e frentes parlamentares do Congresso Nacional do setor de infraestrutura, que poderão contribuir com estudos, pesquisas e análises temáticas para subsídio à tomada de decisões de caráter estratégico para a agenda de infraestrutura do País.
