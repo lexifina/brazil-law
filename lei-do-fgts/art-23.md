@@ -5,14 +5,14 @@ II - omitir as informações sobre a conta vinculada do trabalhador;
 III - apresentar as informações ao Cadastro Nacional do Trabalhador, dos trabalhadores beneficiários, com erros ou omissões;
 IV - deixar de computar, para efeito de cálculo dos depósitos do FGTS, parcela componente da remuneração;
 V - deixar de efetuar os depósitos e os acréscimos legais, após ser notificado pela fiscalização; e
-VI - deixar de apresentar, ou apresentar com erros ou omissões, as informações de que trata o art. 17-A e as demais informações legalmente exigíveis.
+VI - deixar de apresentar, ou apresentar com erros ou omissões, as informações de que trata o art. 17-A desta Lei e as demais informações legalmente exigíveis.
 § 2º A inobservância ao disposto no § 1º sujeitará o infrator às seguintes multas:
 a) nos casos dos incisos II e III do § 1º, o pagamento da multa prevista no inciso I do caput do art. 634-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943;
 b) nos casos dos incisos I, IV e V do § 1º, o pagamento de multa no valor de 50% (cinquenta por cento) do valor do crédito lançado; e
 c) no caso do inciso VI do § 1º, o pagamento de multa no valor de R$100,00 (cem reais) a R$300,00 (trezentos reais) por trabalhador prejudicado.
 § 3º Nos casos de fraude, simulação, artifício, ardil, resistência, embaraço ou desacato à fiscalização, assim como na reincidência, a multa especificada no parágrafo anterior será duplicada, sem prejuízo das demais cominações legais.
 § 4º Sobre os valores das multas não recolhidas no prazo legal incidirão juros e multa de mora nas formas previstas no art. 13 da Lei nº 9.065, de 20 de junho de 1995, e no art. 84, da Lei nº 8.981, de 20 de janeiro de 1995.
-§ 5º O processo de fiscalização, de autuação e de imposição de multas reger-se-á pelo disposto no Título VII da CLT, respeitado o privilégio do FGTS à prescrição trintenária.
+§ 5º O processo de fiscalização, de autuação e de imposição de multas reger-se-á pelo disposto no Título VII da CLT.
 § 6º Quando julgado procedente o recurso interposto na forma do Título VII da CLT, os depósitos efetuados para garantia de instância serão restituídos com os valores atualizados na forma de lei.
 § 7º A rede arrecadadora e a Caixa Econômica Federal deverão prestar ao Ministério do Trabalho e da Previdência Social as informações necessárias à fiscalização.
 § 8º As penas previstas no § 2º serão reduzidas pela metade, quando o infrator for empregador doméstico, microempresa ou empresa de pequeno porte.

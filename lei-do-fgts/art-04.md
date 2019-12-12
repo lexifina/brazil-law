@@ -1,1 +1,1 @@
-Art. 4º A gestão da aplicação do FGTS será efetuada pelo Ministério da Ação Social, cabendo à Caixa Econômica Federal (CEF) o papel de agente operador.
+Art. 4º O gestor da aplicação dos recursos do FGTS será o órgão do Poder Executivo responsável pela política de habitação, e caberá à Caixa Econômica Federal (CEF) o papel de agente operador.
