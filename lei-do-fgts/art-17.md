@@ -1,1 +1,4 @@
-Art. 17. Os empregadores se obrigam a comunicar mensalmente aos trabalhadores os valores recolhidos ao FGTS e repassar-lhes todas as informações sobre suas contas vinculadas recebidas da Caixa Econômica Federal ou dos bancos depositários.
+Art. 17. O Poder Executivo assegurará a prestação de serviços digitais:
+I - aos trabalhadores, que incluam a prestação de informações sobre seus créditos perante o Fundo e o acionamento imediato da inspeção do trabalho em caso de inadimplemento do empregador, de forma que seja possível acompanhar a evolução de eventuais cobranças administrativas e judiciais dos valores não recolhidos;
+II - aos empregadores, que facilitem e desburocratizem o cumprimento de suas obrigações perante o Fundo, incluídos a geração de guias, o parcelamento de débitos, a emissão sem ônus do Certificado de Regularidade do FGTS e a realização de procedimentos de restituição e compensação.
+Parágrafo único. O desenvolvimento, a manutenção e a evolução dos sistemas e ferramentas necessários à prestação dos serviços a que se refere o caput deste artigo serão custeados com recursos do FGTS.

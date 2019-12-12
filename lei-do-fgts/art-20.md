@@ -12,7 +12,7 @@ VI - liquidação ou amortização extraordinária do saldo devedor de financiam
 VII - pagamento total ou parcial do preço de aquisição de moradia própria, ou lote urbanizado de interesse social não construído, observadas as seguintes condições:
 a) o mutuário deverá contar com o mínimo de 3 (três) anos de trabalho sob o regime do FGTS, na mesma empresa ou empresas diferentes;
 b) seja a operação financiável nas condições vigentes para o SFH;
-VIII - quando o trabalhador permanecer três anos ininterruptos, a partir de 1º de junho de 1990, fora do regime do FGTS, podendo o saque, neste caso, ser efetuado a partir do mês de aniversário do titular da conta.
+VIII - quando o trabalhador permanecer três anos ininterruptos fora do regime do FGTS;
 IX - extinção normal do contrato a termo, inclusive o dos trabalhadores temporários regidos pela Lei nº 6.019, de 3 de janeiro de 1974;
 X - suspensão total do trabalho avulso por período igual ou superior a 90 (noventa) dias, comprovada por declaração do sindicato representativo da categoria profissional.
 XI - quando o trabalhador ou qualquer de seus dependentes for acometido de neoplasia maligna.
@@ -30,8 +30,7 @@ XIX - pagamento total ou parcial do preço de aquisição de imóveis da União 
 a) o mutuário deverá contar com o mínimo de três anos de trabalho sob o regime do FGTS, na mesma empresa ou em empresas diferentes;
 b) seja a operação financiável nas condições vigentes para o Sistema Financeiro da Habitação (SFH) ou ainda por intermédio de parcelamento efetuado pela Secretaria do Patrimônio da União (SPU), mediante a contratação da Caixa Econômica Federal como agente financeiro dos contratos de parcelamento;
 c) sejam observadas as demais regras e condições estabelecidas para uso do FGTS.
-XX - anualmente, no mês de aniversário do trabalhador, por meio da aplicação dos valores da tabela constante do Anexo, observado o disposto no art. 20-D; e
-XXI - a qualquer tempo, quando seu saldo for inferior a R$ 80,00 (oitenta reais) e não tiverem ocorrido depósitos ou saques por, no mínimo, um ano, exceto na hipótese prevista no inciso I do § 5º do art. 13.
+XX - anualmente, no mês de aniversário do trabalhador, por meio da aplicação dos valores constantes do Anexo desta Lei, observado o disposto no art. 20-D desta Lei;
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.
@@ -58,6 +57,7 @@ I - elaboração e entrega de prospecto ao trabalhador; e
 II - declaração por escrito, individual e específica, pelo trabalhador de sua ciência quanto aos riscos do investimento que está realizando.
 § 21. As movimentações autorizadas nos incisos V e VI do caput serão estendidas aos contratos de participação de grupo de consórcio para aquisição de imóvel residencial, cujo bem já tenha sido adquirido pelo consorciado, na forma a ser regulamentada pelo Conselho Curador do FGTS.
 § 22. Na movimentação das contas vinculadas a contrato de trabalho extinto até 31 de dezembro de 2015, ficam isentas as exigências de que trata o inciso VIII do caput deste artigo, podendo o saque, nesta hipótese, ser efetuado segundo cronograma de atendimento estabelecido pelo agente operador do FGTS.
-§ 23. O trabalhador poderá sacar os valores decorrentes da situação de movimentação de que trata o inciso XX do caput até o último dia útil do segundo mês subsequente ao da aquisição do direito de saque.
-§ 24. O agente operador deverá oferecer, nos termos do regulamento a ser editado pelo Conselho Curador, em plataformas de interação com o titular da conta, opções para que este transfira os recursos de que trata o inciso XXI do caput para conta de sua titularidade em outra instituição financeira ou entidade autorizada a funcionar pelo Banco Central do Brasil.
-§ 25. As transferências de que trata o § 24 poderão acarretar cobrança de tarifa pela instituição financeira.
+§ 23. As movimentações das contas vinculadas nas situações previstas nos incisos V, VI e VII do caput deste artigo poderão ser realizadas fora do âmbito do SFH, observados os mesmos limites financeiros das operações realizadas no âmbito desse sistema, no que se refere ao valor máximo de movimentação da conta vinculada, e os limites, critérios e condições estabelecidos pelo Conselho Curador.
+§ 24. O trabalhador poderá sacar os valores decorrentes da situação de movimentação de que trata o inciso XX do caput deste artigo até o último dia útil do segundo mês subsequente ao da aquisição do direito de saque.
+§ 25. O agente operador deverá oferecer, nos termos do regulamento do Conselho Curador, em plataformas de interação com o titular da conta, inclusive por meio de dispositivos móveis, opções para consulta e transferência, a critério do trabalhador, para conta de depósitos de sua titularidade em qualquer instituição financeira do Sistema Financeiro Nacional, dos recursos disponíveis para movimentação em decorrência das situações previstas neste artigo, cabendo ao agente operador estabelecer os procedimentos operacionais a serem observados.
+§ 26. As transferências de que trata o § 25 deste artigo não acarretarão a cobrança de tarifas pelo agente operador ou pelas demais instituições financeiras.

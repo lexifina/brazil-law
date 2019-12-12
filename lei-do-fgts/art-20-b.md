@@ -1,1 +1,1 @@
-Art. 20-B. O titular de contas vinculadas do FGTS estará sujeito originalmente à sistemática de saque-rescisão a que se refere o inciso I caput do art. 20-A e poderá optar por alterá-la, observado o disposto no art. 20-C.
+Art. 20-B. O titular de contas vinculadas do FGTS estará sujeito originalmente à sistemática de saque-rescisão e poderá optar por alterá-la, observado o disposto no art. 20-C desta Lei.
