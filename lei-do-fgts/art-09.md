@@ -1,4 +1,4 @@
-Art. 9º As aplicações com recursos do FGTS poderão ser realizadas diretamente pela Caixa Econômica Federal e pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH, exclusivamente segundo critérios fixados pelo Conselho Curador do FGTS, em operações que preencham os seguintes requisitos:
+Art. 9º As aplicações com recursos do FGTS serão realizadas exclusivamente segundo critérios fixados pelo Conselho Curador do FGTS e em operações que preencham os seguintes requisitos:
 I - Garantias:
 a) hipotecária;
 b) caução de Créditos hipotecários próprios, relativos a financiamentos concedidos com recursos do agente financeiro;
@@ -17,7 +17,7 @@ o) outras, a critério do Conselho Curador do FGTS;
 II - correção monetária igual à das contas vinculadas;
 III - taxa de juros média mínima, por projeto, de 3 (três) por cento ao ano;
 IV - prazo máximo de trinta anos.
-§ 1º A rentabilidade média das aplicações deverá ser suficiente à cobertura de todos os custos incorridos pelo Fundo e ainda à formação de reserva técnica para o atendimento de gastos eventuais não previstos, sendo da Caixa Econômica Federal o risco de crédito.
+§ 1º A rentabilidade média das aplicações deverá ser suficiente à cobertura de todos os custos incorridos pelo Fundo e ainda à formação de reserva técnica para o atendimento de gastos eventuais não previstos, e caberá ao agente operador o risco de crédito.
 § 2º Os recursos do FGTS deverão ser aplicados em habitação, em saneamento básico, em infraestrutura urbana e em operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do SUS, desde que as disponibilidades financeiras sejam mantidas em volume que satisfaça as condições de liquidez e de remuneração mínima necessária à preservação do poder aquisitivo da moeda.
 § 3º O programa de aplicações deverá destinar:
 I - no mínimo, 60% (sessenta por cento) para investimentos em habitação popular; e,
@@ -26,6 +26,8 @@ II - 5% (cinco por cento) para operações de crédito destinadas às entidades 
 § 4º Os projetos de saneamento básico e infra-estrutura urbana, financiados com recursos do FGTS, deverão ser complementares aos programas habitacionais.
 § 5º As garantias, nas diversas modalidades discriminadas no inciso I do caput deste artigo, serão admitidas singular ou supletivamente, considerada a suficiência de cobertura para os empréstimos e financiamentos concedidos.
 § 6º Mantida a rentabilidade média de que trata o § 1º, as aplicações em habitação popular poderão contemplar sistemática de desconto, direcionada em função da renda familiar do beneficiário, onde o valor do benefício seja concedido mediante redução no valor das prestações a serem pagas pelo mutuário ou pagamento de parte da aquisição ou construção de imóvel, dentre outras, a critério do Conselho Curador do FGTS.
+§ 6º-A. (VETADO).
+§ 6º-B. (VETADO).
 § 7º Os recursos necessários para a consecução da sistemática de desconto serão destacados, anualmente, do orçamento de aplicação de recursos do FGTS, constituindo reserva específica, com contabilização própria.
 § 8º É da União o risco de crédito nas aplicações efetuadas até 1º de junho de 2001 pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH e pelas entidades credenciadas pelo Banco Central do Brasil como agentes financeiros, subrogando-se nas garantias prestadas à Caixa Econômica Federal.
 § 9º A Caixa Econômica Federal, o Banco do Brasil S.A. e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) poderão atuar como agentes financeiros autorizados para aplicação dos recursos do FGTS em operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuam no campo para pessoas com deficiência, e sem fins lucrativos que participem de forma complementar do SUS.
