@@ -1,0 +1,22 @@
+DECISÃO
+TUTELA PROVISÓRIA – RELEVÂNCIA – AUSÊNCIA – INDEFERIMENTO.
+    1. Eis as balizas reveladas pelo assessor Vinicius de Andrade Prado:
+    O Estado de Rondônia ajuizou ação cível originária, com pedido de liminar, em face da União, buscando afastar inscrição nos cadastros federais de inadimplência.
+    Segundo narra, firmou com a ré o Convênio nº 11/SAS/MPAS/1998, visando atender crianças e adolescentes no âmbito do Programa Brasil Criança Cidadã. Noticia que, no acordo, celebrado em 1998 com vigência de 2 meses, estava previsto repasse de R$ 300.000,00 da União e contrapartida de R$ 30.000,00 do Estado.
+    Frisa que, em 2015, a União enviou ofícios indicando pendência na prestação de contas, aludindo aos termos da Instrução Normativa nº 1/1997 da Secretaria do Tesouro Nacional. Destaca surgido incêndio no prédio da Secretaria de Estado de Assistência Social, a provocar a destruição de grande parte dos processos. Conforme elucida, a União, após ser informada sobre o ocorrido, concedeu prazo adicional de 30 dias para regularização, sob pena de inscrição do ente nos cadastros de inadimplência – CAUC/SIAFI/CADIN. Diz apresentada prestação de contas parcial, ficando pendente a comprovação relativa ao emprego dos valores da contrapartida.
+    Sustenta a competência originária do Supremo, com amparo no artigo 102, inciso I, alínea “f”, da Constituição Federal. Sublinha a inércia da União no período de 1998 a 2015. Menciona o prazo prescricional de 5 anos para cobrança judicial dos créditos não tributários, a teor do disposto no artigo 39 da Lei nº 4.320/1964 e no Decreto nº 20.910/1932. Cita precedentes do Supremo – recurso extraordinário nº 669.069 e ação cível originária nº 2.932.
+    Articula com o princípio da intranscendência subjetiva, a inibir a imposição de sanções em virtude de irregularidades da gestão anterior. Acentua descabidas as exigências feitas pela ré, levando em conta o cumprimento do objeto e os princípios da proporcionalidade e da razoabilidade. Salienta desrespeitados o pacto federativo e o princípio da legalidade, a teor dos artigos 2º, 5º, inciso II, 37, 84, inciso IV, e 60 da Lei Maior. Ressalta que a União deveria, dentro do prazo prescricional, ter notificado o Estado, com a abertura de prazo para defesa sobre a pendência na prestação de contas, na forma dos artigos 2º, § 2º, da Lei nº 10.522/2002, 8º, § 2º, da Lei nº 11.945/2009 e 72, § 11, da Portaria Interministerial nº 507/2011.
+    Sob o ângulo do risco, frisa negativa da União relativamente ao repasse de recursos – em especial quanto ao Convênio nº 839.458/2016, celebrado com o fim de realizar investimentos no aeroporto de Cacoal/RO –, causando prejuízos a políticas públicas essenciais à população.
+    Requer tutela provisória de urgência visando que a União, sob pena de multa diária, providencie a exclusão da anotação referente ao Convênio nº 11/SAS/MPAS/98 nos cadastros federais de inadimplentes, abstenha-se de nova inclusão e cumpra os termos do Convênio nº 839.458/2016. No mérito, postula a confirmação da medida acauteladora.
+    2. A situação jurídica revelada na inicial difere de outros casos em que implementada liminar. Não está em discussão o lançamento no cadastro de inadimplentes sem proporcionar-se ao Estado o direito de defesa.
+    Quanto à arguida prescrição, considerado o artigo 39 da Lei nº 4.320/1964 e no Decreto nº 20.910/1932, faz-se em jogo unicamente o dever de prestação de contas.
+    Relativamente à evocação dos princípios da intranscendência subjetiva e da legalidade, bem assim à apontada ofensa ao pacto federativo, surge a necessidade de buscar-se a boa destinação de recursos públicos, com a publicidade almejada e prestação de contas que permita o acompanhamento. Confiram o teor do artigo 70, parágrafo único, da Constituição Federal:
+    Art. 70 […]
+    Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.
+    Tendo em vista o envolvimento de gestões anteriores, deve-se atentar para o princípio da impessoalidade, no que rege a Administração Pública – artigo 37 da Lei Maior. O inadimplemento e o registro em cadastro referem-se não ao governante, mas ao Estado.
+    3. Indefiro o pedido de tutela.
+    4. Citem a ré.
+    5. Publiquem.
+Brasília, 12 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
