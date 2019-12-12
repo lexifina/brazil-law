@@ -1,0 +1,36 @@
+Trata-se de reclamação proposta pela Defensoria Pública do Estado de São Paulo em favor de Wilian Rodrigues, na qual sustenta a inobservância ao enunciado da Súmula Vinculante 26.
+    A Defensoria alega o seguinte:
+    “Conforme demonstra a documentação anexa, o reclamante, que cumpre pena privativa de liberdade em estabelecimento prisional na Comarca de Araraquara/SP, afeto ao Departamento Estadual De Execução Criminal Da 6ª Região Administrativa Judiciária do Estado de São Paulo, atingiu o requisito objetivo para progressão de regime.
+    Diante de tais fatos, foi instaurado expediente para a progressão do apenado ao regime cabível.
+    Entretanto, ao analisar o pedido acima mencionado, o MM. Juiz responsável pela execução do reclamante decidiu, em decisão padrão, sem qualquer análise do caso concreto, pela realização do exame criminológico, como condição à progressão de regime.
+    Assim, tendo em vista que a decisão que determinou a realização do exame criminológico não ostenta fundamentação idônea, tratando-se de mero ‘despacho padrão’, salta aos olhos a infração à Súmula Vinculante n° 26 dessa Colenda Corte, sendo imperiosa, portanto, a cassação da decisão judicial que violou a citada Súmula, como agora se demonstrará” (págs. 1-2 da petição inicial).
+    Ao final, requer
+    “haja por bem essa Colenda Corte acolher a presente reclamação pleiteada em favor de WILIAN RODRIGUES, para que se faça valer a Súmula Vinculante n° 26, cassando-se a r. decisão que determinou, de forma não fundamentada, a realização de exame criminológico, garantindo-se, assim, que a análise do requisito subjetivo para a progressão de regime se dê apenas e tão somente mediante a requisição da certidão de boa conduta carcerária” (pág. 7 da petição inicial).
+    É o relatório. Decido.
+    Registro, inicialmente, que o art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal faculta ao relator julgar a reclamação quando a matéria for objeto de jurisprudência consolidada na Suprema Corte, como ocorre na espécie.
+    Por este motivo, passo ao exame do mérito desta reclamação.
+    Compete a este Supremo Tribunal, precipuamente, a guarda da Constituição, cabendo-lhe processar e julgar originariamente a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, nos termos do art. 102, I, l, da Carta Magna.
+    Anoto, ainda, que, conforme determina o art. 988, I, II, III e IV, do Código de Processo Civil, caberá a reclamação da parte interessada ou do Ministério Público para: (i) preservar a competência do STF; (ii) garantir a autoridade das suas decisões; (iii) garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; e (iv) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    E, quanto ao tema específico posto à apreciação nesta reclamação, reitero o que afirmei quando da análise da Proposta de Súmula Vinculante 30/DF (convertida posteriormente na SV 26), no sentido de que, a meu sentir, a lei superveniente 10.792/2003, que alterou a Lei de Execução Penal, simplesmente aboliu, suprimiu, a exigência de que se faça o exame criminológico, mas não retirou a faculdade do juiz para determiná-lo. Essa opção subjetiva decorre, inclusive, do poder geral de cautela e da possibilidade que tem o magistrado, na legislação processual tanto civil como penal, de requisitar perícias.
+    Entretanto, o pedido deverá ser suficientemente fundamentado, individualizando-se as características inerentes à pessoa e à pena do preso, de modo a justificar a opção do juiz pelo exame criminológico.
+    Feitos esses registros, transcrevo o teor da Súmula Vinculante 26 do STF, in verbis:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico”.
+    Outrossim, reproduzo o teor da decisão proferida pelo Juiz de Direito da Unidade Regional do Departamento Estadual de Execução Criminal DEECRIM 6ª RAJ, Hélio Benedini Ravagnani, ora combatida, no que interessa:
+    “Imprescindível a submissão do sentenciado a exame criminológico, com o escopo de verificar se se encontra satisfeito, na espécie, o requisito subjetivo legalmente exigido para a concessão de benefício.
+    Tal aferição psicológica revela-se indispensável no caso em comento em razão da gravidade do delito cometido pelo condenado, concretamente considerada (deveras prejudicial à sociedade), bem assim da personalidade criminosa por ele revelada. De consignar-se, ao propósito, que o sentenciado fora condenado porque cometeu crime hediondo, cuja denominação legal fala por si quanto à gravidade da conduta praticada, a indicar, portanto, periculosidade além do normal, o que legitima a providência acima alvitrada.
+    Necessário, então, diante desse contexto, constatar se, atualmente, dispõe o sentenciado de condições mérito para obter benefício, sem novos abalos à paz social.
+     Em outros termos: o interesse público exige, no caso em apreço, a realização da avaliação supracitada, porquanto não se pode admitir que a sociedade seja laboratório de criminosos.
+    Tal providência, ademais, encontra amparo no entendimento consolidado do Egrégio Supremo Tribunal Federal e do Colendo Superior Tribunal de Justiça.
+    Confira-se, ao propósito, a súmula vinculante n. 26, nestes termos:
+    […]
+    O Colendo Superior Tribunal de Justiça, por sua vez, editou, a respeito, a súmula n. 439, in verbis:
+    [...]
+    Posto isso, DETERMINO que o condenado Wilian Rodrigues, MTR: 541613-6, RG: 45.639.372, RGC: 61.362.340, RJI: 170113071-45, Penitenciária ‘Dr. Sebastião Martins Silveira’ - Araraquara seja submetido a exame criminológico, a ser realizado por equipe profissional - psicológico e assistente social que atua no presídio onde ele se encontra” (págs. 557-559 do documento eletrônico 2).
+    Conforme se verifica, razão jurídica assiste à Defensoria. O ato reclamado possui fundamento genérico que não atende aos preceitos inscritos na Súmula Vinculante 26.
+    No mesmo sentido do que aqui decidido, cito os seguintes precedentes de Ministros integrantes de ambas as Turmas deste Supremo Tribunal: Rcl 28.377/SP; Rcl 28.266/DF; Rcl 26.851/SP; Rcl 27.106/SP; Rcl 27.729/SP todos de relatoria do Ministro Alexandre de Moraes; Rcl 25.304/DF, de relatoria do Ministro Teori Zavascki; Rcl 24.785/DF, de relatoria do Ministro Edson Fachin; e Rcl 32.479, de minha relatoria.
+    Isso posto, julgo procedente esta reclamação (art. 161, parágrafo único, do RISTF) para cassar o ato reclamado e determinar que o Juízo da execução refaça o pedido de exame criminológico, caso ainda o entenda necessário, mas de modo individualizado, nos termos desta decisão, observando-se obrigatória e rigorosamente o teor da Súmula Vinculante 26.
+    Publique-se.
+    Intime-se.
+    Brasília, 12 de dezembro de 2019.
+Ministro Ricardo Lewandowski
+Relator
