@@ -1,0 +1,397 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.190.875
+GOIÁS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. RICARDO LEWANDOWSKI
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: GBC NAUTICA EIRELI
+: FABRIZIO CALDEIRA LANDIM
+
+Ementa:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO
+GERAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 282 E
+356/STF. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO A QUE SE
+NEGA PROVIMENTO.
+I – É ônus do recorrente apresentar a preliminar, formal e
+fundamentada, de repercussão geral da matéria constitucional versada no
+recurso extraordinário, com indicação específica das circunstâncias que
+evidenciem, no caso concreto, a relevância econômica, política, social ou
+jurídica, para que seja atendido o requisito previsto no art. 102, § 3°, da
+Constituição e no art. 1.035 do CPC.
+II – Recurso extraordinário com alegações que esbarram no óbice da
+ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF.
+III – Agravo regimental a que se nega provimento.
+AC ÓRDÃ O
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual da Segunda Turma, na conformidade da ata de julgamentos, por
+unanimidade, negar provimento ao agravo regimental, nos termos do
+voto do Relator.
+Brasília, 13 de dezembro de 2019.
+RICARDO LEWANDOWSKI – RELATOR
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BA16-F644-1DD8-4251 e senha 0967-8522-1E9C-8871
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.190.875
+GOIÁS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. RICARDO LEWANDOWSKI
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: GBC NAUTICA EIRELI
+: FABRIZIO CALDEIRA LANDIM
+RE LAT Ó RI O
+
+O Senhor Ministro Ricardo Lewandowski (Relator): Trata-se de
+agravo regimental interposto contra decisão por mim proferida, que
+negou seguimento ao recurso extraordinário com agravo.
+No presente agravo regimental, em síntese, demonstra-se
+inconformismo com a decisão combatida e defende-se a sua reforma,
+consoante os argumentos lançados no documento eletrônico 9.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 26C0-2137-78C2-D5A1 e senha A0CC-A65E-030F-96D1
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.190.875
+GOIÁS
+VOTO
+O Senhor Ministro Ricardo Lewandowski (Relator): Transcrevo o
+inteiro teor da decisão agravada:
+“Trata-se de agravo contra decisão que negou seguimento
+ao recurso extraordinário interposto em face de acórdão assim
+ementado:
+‘REEXAME NECESSÁRIO E APELAÇÃO CÍVEL.
+AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO
+DE TUTELA. INCONSTITUCIONALIDADE DAS LEIS
+ESTADUAIS 15.505/2005, 15.921/2006 e 15.945/2006.
+MODIFICAÇÃO NO CÓDIGO TRIBUTÁRIO ESTADUAL
+POR LEI ORDINÁRIA. VÍCIO FORMAL. I- A criação de
+Fundos pelos Estados por meio de Lei Ordinária, de
+cunho social, em atendimento ao comando do artigo 82,
+por simetria ao modelo estabelecido para a criação de
+Fundos pela União, consoante determina o artigo 792,
+ambos do Ato das Disposições Constitucionais
+Transitórias - ADCT é inconstitucional por inobservância
+da espécie legislativa determinada na Norma Magna. II - A
+alteração de Código Tributário é matéria de reserva de Lei
+Complementar, diante do fenômeno da recepção
+constitucional, não possuindo as reportadas Leis
+Ordinárias competência de impor alteração em texto
+referido. III- A declaração pela Corte Especial deste
+Tribunal de Justiça da inconstitucionalidade das Leis
+Estaduais 15.505/2005, 15.921/2006 e 15.945/2006, através
+da Arguição de Inconstitucionalidade de lei n. 111090.02, é
+regra de observação obrigatória por esta Câmara, uma vez
+que a cobrança do Fundo de Combate à Pobreza deveria
+ter sido instituída por meio de lei complementar. IVDiante do desprovimento do recurso interposto pela
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0BA3-FCC6-4515-087D e senha 30FA-B816-3863-6716
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+ARE 1190875 AGR / GO
+apelante, passo a proceder a majoração dos honorários
+advocatícios, posto que a instauração da fase processual
+recursal impõe ao vencido o ônus pelo pagamento da
+majoração honorária tipificada no artigo 85, §11º, do
+NCPC. REEXAME NECESSÁRIO E APELAÇÃO CÍVEL
+CONHECIDOS E DESPROVIDOS’ (pág. 144 do
+documento eletrônico 4).
+No RE, fundado no art. 102, III, a, da Constituição Federal,
+alegou-se, em suma, ofensa ao art. 83 do ADCT.
+A pretensão recursal não merece acolhida.
+Isso porque o recorrente, apesar de afirmar a existência de
+repercussão geral no recurso extraordinário, não demonstrou as
+razões pelas quais entende que a questão constitucional aqui
+versada seria relevante, sob o ponto de vista econômico,
+político, social ou jurídico, e ultrapassaria os interesses
+subjetivos do processo. Na verdade, o recorrente limitou-se a
+sustentar a existência de repercussão geral em hipótese diversa
+da examinada nestes autos, sem demonstrar a relevância e a
+transcendência em relação às questões especificamente
+discutidas no caso.
+Desse modo, a mera alegação de existência do requisito,
+desprovida de fundamentação adequada que demonstre seu
+efetivo preenchimento, não satisfaz a exigência prevista no art.
+1.035, § 2º, do Código de Processo Civil. Nesse sentido,
+transcrevo ementas de julgados de ambas as Turmas desta
+Corte:
+‘AGRAVO
+INTERNO.
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO
+GERAL.
+INSUFICIÊNCIA.
+REAPRECIAÇÃO
+DE
+PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF.
+1. Os recursos extraordinários somente serão
+conhecidos e julgados, quando essenciais e relevantes as
+questões constitucionais a serem analisadas, sendo
+imprescindível ao recorrente, em sua petição de
+interposição de recurso, a apresentação formal e
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0BA3-FCC6-4515-087D e senha 30FA-B816-3863-6716
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+ARE 1190875 AGR / GO
+motivada da repercussão geral, que demonstre, perante o
+Supremo Tribunal Federal, a existência de acentuado
+interesse geral na solução das questões constitucionais
+discutidas no processo, que transcenda a defesa
+puramente de interesses subjetivos e particulares.
+2. A obrigação do recorrente em apresentar formal e
+motivadamente a preliminar de repercussão geral, que
+demonstre sob o ponto de vista econômico, político,
+social ou jurídico, a relevância da questão constitucional
+debatida que ultrapasse os interesses subjetivos da
+causa, conforme exigência constitucional e legal (art. 102,
+§ 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se
+confunde com meras invocações desacompanhadas de
+sólidos fundamentos no sentido de que o tema
+controvertido é portador de ampla repercussão e de
+suma importância para o cenário econômico, político,
+social ou jurídico, ou que não interessa única e
+simplesmente às partes envolvidas na lide, muito menos
+ainda divagações de que a jurisprudência do Supremo
+Tribunal Federal é incontroversa no tocante à causa
+debatida, entre outras de igual patamar argumentativo.
+3. A argumentação do recurso extraordinário traz
+versão dos fatos diversa da exposta no acórdão, de modo
+que seu acolhimento passa necessariamente pela revisão
+das provas. Incide, portanto, o óbice da Súmula 279 desta
+Corte (Para simples reexame de prova não cabe recurso
+extraordinário).
+4. Agravo interno a que se nega provimento’ (ARE
+1.009.564-AgR/ES, Rel. Min. Alexandre de Moraes,
+Primeira Turma – grifei).
+‘DIREITO
+ADMINISTRATIVO.
+AGRAVO
+REGIMENTAL EM AGRAVO DE INSTRUMENTO.
+IMPROBIDADE. ADMINISTRATIVO. AUSÊNCIA DE
+PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO
+GERAL DA MATÉRIA CONSTITUCIONAL. EXIGÊNCIA
+DE
+DEMONSTRAÇÃO.
+LEGISLAÇÃO
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0BA3-FCC6-4515-087D e senha 30FA-B816-3863-6716
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+ARE 1190875 AGR / GO
+INFRACONSTITUCIONAL. SÚMULA 279/STF. 1. A parte
+recorrente não apresentou mínima fundamentação
+quanto à repercussão geral das questões constitucionais
+discutidas, limitando-se a fazer observações genéricas
+sobre o tema. A peça de recurso, portanto, não atende ao
+disposto no art. 543-A, § 2º, do CPC. Precedente. 2. A
+solução da controvérsia demanda a análise da legislação
+infraconstitucional pertinente e uma nova reapreciação
+dos fatos e do material probatório constante dos autos
+(Súmula 279/STF), o que é inviável nesta fase recursal. 3.
+Agravo regimental a que se nega provimento’ (AI 814.690AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma –
+grifei).
+‘AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. CRIMINAL.
+DEMONSTRAÇÃO DE REPERCUSSÃO GERAL.
+FUNDAMENTAÇÃO
+DEFICIENTE.
+AGRAVO
+REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I – A mera alegação, nas razões do recurso
+extraordinário, de existência de repercussão geral das
+questões constitucionais discutidas, desprovida de
+fundamentação adequada que demonstre seu efetivo
+preenchimento, não satisfaz a exigência prevista nos arts.
+102, § 3°, da CF; 1.035, § 2°, do CPC; e 327, § 1°, do RISTF.
+II – Agravo regimental a que se nega provimento’
+(ARE 1.102.012-AgR/PR, de minha relatoria, Segunda
+Turma – grifei).
+‘AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. INTERPOSIÇÃO EM 6.4.2017.
+RECURSO EXTRAORDINÁRIO. PRELIMINAR DE
+REPERCUSSÃO
+GERAL.
+DEFICIÊNCIA
+NA
+FUNDAMENTAÇÃO.
+1. Nos termos da orientação firmada nesta Corte,
+cabe à parte recorrente demonstrar fundamentadamente
+a existência de repercussão geral da matéria
+constitucional em debate no recurso extraordinário,
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0BA3-FCC6-4515-087D e senha 30FA-B816-3863-6716
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+ARE 1190875 AGR / GO
+mediante o desenvolvimento de argumentação que, de
+maneira explícita e clara, revele o ponto em que a
+matéria veiculada no recurso transcende os limites
+subjetivos do caso concreto do ponto de vista econômico,
+político, social ou jurídico.
+2. Revela-se deficiente a fundamentação da
+existência de repercussão geral de recurso extraordinário
+que se restringe a alegar de forma genérica que a questão
+em debate tem repercussão geral.
+3. Agravo regimental a que se nega provimento, com
+previsão de aplicação da multa prevista no art. 1.021, § 4º,
+do CPC. Inaplicável o artigo 85, § 11, CPC, em virtude da
+não fixação de honorários advocatícios nas decisões
+anteriores’ (RE 993.775-AgR/AM, Rel. Min. Edson Fachin,
+Segunda Turma – grifei).
+Além disso, verifico que o dispositivo constitucional
+suscitado pelo recorrente não foi prequestionado. Assim, como
+tem consignado este Tribunal, por meio da Súmula 282, é
+inadmissível o recurso extraordinário se a questão
+constitucional suscitada não tiver sido apreciada no acórdão
+recorrido. Ademais, não opostos embargos declaratórios para
+suprir a omissão, é inviável o recurso, nos termos da Súmula
+356 desta Corte. Nesse sentido, destaco o julgamento do RE
+750.142-AgR/ES, de relatoria do Ministro Edson Fachin, cuja
+ementa segue transcrita:
+‘AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO.
+CONSTITUCIONAL.
+COMPETÊNCIA. JUSTIÇA FEDERAL. SÚMULA 517 DO
+STF.
+1. O recurso extraordinário esbarra nos óbices
+previstos nas Súmulas 282 e 356 do STF, por ausência de
+prequestionamento e não oposição de embargos
+declaratórios.
+2. A competência é da Justiça Federal quando a
+União intervém como assistente nos casos envolvendo
+sociedades de economia mista.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0BA3-FCC6-4515-087D e senha 30FA-B816-3863-6716
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+ARE 1190875 AGR / GO
+3. Agravo regimental a que se nega provimento’
+(grifei).
+Isso posto, nego seguimento ao recurso (art. 21, § 1°, do
+RISTF). Com base no art. 85, § 11, do Código de Processo Civil,
+majoro os honorários em 10% (dez por cento) do total da verba
+fixada a esse título, observados os limites legais” (documento
+eletrônico 7).
+
+Bem reexaminados os autos, verifico que a decisão ora atacada não
+merece reforma, tendo em vista que foi proferida de acordo com a
+jurisprudência do Supremo Tribunal Federal. Desse modo, deve ser
+mantida por seus próprios fundamentos.
+Ademais, quanto à deficiência dos fundamentos da preliminar de
+repercussão geral, acrescento os seguintes precedentes: AI 814.690AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma; ARE 934.591AgR/BA, Rel. Min. Celso de Mello, Segunda Turma.
+Por fim, em relação à ausência de prequestionamento, cito os
+julgados a seguir: RE 860.320-AgR/MG, Rel. Min. Luiz Fux, Primeira
+Turma; ARE 683.626-AgR-segundo/MA, Rel. Min. Teori Zavascki,
+Segunda Turma.
+Isso posto, nego provimento ao agravo regimental.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0BA3-FCC6-4515-087D e senha 30FA-B816-3863-6716
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/12/2019
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.190.875
+PROCED. : GOIÁS
+RELATOR : MIN. RICARDO LEWANDOWSKI
+AGTE.(S) : ESTADO DE GOIÁS
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE GOIÁS
+AGDO.(A/S) : GBC NAUTICA EIRELI
+ADV.(A/S) : FABRIZIO CALDEIRA LANDIM (20073/GO)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 6.12.2019 a 12.12.2019.
+Composição: Ministros Cármen Lúcia (Presidente), Celso de
+Mello, Gilmar Mendes, Ricardo Lewandowski e Edson Fachin.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6184-4E08-1F4B-A5CF e senha 6FAC-7DDA-770A-E8E3
