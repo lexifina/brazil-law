@@ -1,0 +1,731 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 18
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 171.539 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. EDSON FACHIN
+: ADILSON APARECIDO AMÂNCIO
+: ANDRE LUIZ PLACCO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSO PENAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO.
+ACRÉSCIMO NA PENA-BASE JUSTIFICADO. AFASTAMENTO DO
+REDUTOR DO ART. 33, § 4º, DA LEI 11.343/06. FUNDAMENTAÇÃO
+IDÔNEA. REGIME INICIAL. ART. 33 DO CP. AGRAVO REGIMENTAL
+DESPROVIDO.
+1. O julgador, nas instâncias ordinárias, possui discricionariedade
+para proceder à dosimetria da pena, cabendo aos Tribunais Superiores o
+controle da legalidade e da constitucionalidade dos critérios empregados
+na fixação da sanção. Jurisprudência do Supremo Tribunal Federal.
+2. Não há ilegalidade na decisão que fundamenta o acréscimo da
+pena-base na quantidade e natureza da substância aprendida, nos termos
+do art. 42 da Lei 11.343/06.
+3. A causa de diminuição prevista no § 4º do art. 33 da Lei
+11.343/2006 é aplicada desde que o agente seja primário, possua bons
+antecedentes, não se dedique às atividades criminosas nem integre
+organização criminosa.
+4. Em se tratando de requisitos negativos a serem avaliados pelas
+instâncias próprias segundo as particularidades de cada caso, não há
+ilegalidade na decisão que não aplica a minorante com respaldo em
+evidências de que o agravante integra organização criminosa.
+5. A fixação de regime inicial mais gravoso com lastro em
+circunstância judicial desfavorável atende aos critérios previstos no art. 33
+do Código Penal.
+6. Agravo regimental desprovido.
+ACÓRDÃO
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3498-ED50-D737-AFF1 e senha C933-11DE-DFA8-7F87
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 18
+
+HC 171539 AGR / SP
+
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em sessão virtual de 6 a
+12 de dezembro de 2019, sob a Presidência da Senhora Ministra Cármen
+Lúcia, na conformidade da ata de julgamento e das notas taquigráficas,
+por unanimidade de votos, em negar provimento ao agravo regimental,
+nos termos do voto do Relator.
+Brasília, 13 de dezembro de 2019.
+Ministro EDSON FACHIN
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3498-ED50-D737-AFF1 e senha C933-11DE-DFA8-7F87
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 18
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 171.539 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. EDSON FACHIN
+: ADILSON APARECIDO AMÂNCIO
+: ANDRE LUIZ PLACCO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se
+de agravo regimental interposto contra decisão que, forte na ausência de
+flagrante ilegalidade ou teratologia, negou seguimento ao habeas corpus.
+Nas razões recursais, sustenta-se que: a) a exasperação da pena-base
+foi excessiva, uma vez que o agravante possui condições pessoais
+favoráveis; b) a causa de diminuição do art. 33, § 4º, da Lei 11.343/06 deve
+ser aplicada no patamar máximo, uma vez que o réu atende a todos os
+requisitos para sua aplicação; c) é indevida a fixação do regime inicial
+fechado baseada na gravidade abstrata do delito, especialmente quando
+se trata de réu primário, com bons antecedentes; d) deferidos os pleitos
+anteriores, o paciente fará jus à substituição da pena privativa de
+liberdade.
+Ante o exposto, requer o estabelecimento da pena-base no mínimo
+legal, a aplicação da redutora prevista no art. 33, § 4º, da Lei 11.343/06, a
+fixação de regime inicial em aberto ou semiaberto e a substituição da
+pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 65D6-788A-BF89-9CAD e senha B836-0DA2-3124-13ED
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 4 de 18
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 171.539 SÃO PAULO
+VOTO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): O
+agravante não trouxe argumentos aptos a infirmar a decisão atacada.
+O ato ora impugnado afastou a alegação de constrangimento ilegal
+nos seguintes termos:
+“1. No caso dos autos, a apontada ilegalidade não pode
+ser aferida de pronto.
+1.1 No caso, verifico que, ao prover o recurso do
+Ministério Público, o Tribunal de origem concluiu pela devida
+comprovação da materialidade e da autoria dos delitos de
+tráfico e de associação para o tráfico, nos seguintes termos
+(eDOC 02, p. 60/72):
+"Narra a inicial que em data incerta, mas até o dia 19
+de fevereiro de 2016, por volta das 09h05min, na Rodovia
+BR-116, altura do Km 287, Jardim Itapecerica, na cidade e
+comarca de Itapecerica da Serra, Renato Souza Araújo e
+Adriano Santos Rio, ora apelantes, associaram-se para o
+fim de praticar de forma reiterada ou não, o crime de
+tráfico de drogas entre a cidade de Foz do Iguaçu/PR e a
+cidade de São Paulo/SP.
+Consta também que no mesmo dia, local e horário,
+Renato transportava, entre a cidade de Foz do Iguaçu/PR e
+a cidade de São Paulo/SP, sem autorização e em desacordo
+com determinação legal ou regulamentar, 30 tabletes
+contendo cocaína em pó, totalizando o peso líquido de
+29,3kg, droga esta que causa dependência física e psíquica.
+Consta por fim que em igual data, local e horário,
+Adriano prestou auxílio para o cometimento de tráfico de
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 5 de 18
+
+HC 171539 A GR / SP
+drogas mencionado. Segundo o que restou apurado, em
+data anterior ao dia 16 de fevereiro de 2016, os réus se
+associaram com a finalidade de prática crime de tráfico de
+entorpecentes, mais especificamente efetuar o transporte
+de drogas entre os Estados do Paraná e São Paulo.
+Para tanto, Adriano ajustou com Renato que este iria
+com o veículo I/JAC J6 2.0 Diamond, de cor cinza e placas
+Aul-0741-Curitiba/PR até a cidade de Foz do Iguaçu/PR, a
+fim de abastecer o carro com entorpecentes e trazê-lo até a
+cidade de São Paulo/SP.
+Outrossim, a fim de garantir que não ocorreria
+qualquer intercorrência no transporte da droga à cidade
+de São Paulo/SP também acertaram que Adriano
+acompanharia Renato a distância em um Fiat/Punto ELX
+1.4, de cor vermelha e placas EPZ-3644- Guarulhos/SP.
+Por fim, também acertaram que fariam a
+comunicação entre eles utilizando dois aparelhos de
+telefônica celular, marca MOX, de cor laranja, IMEI's
+351632040144342 e 3516320401043835.
+Desta forma, no dia 16 de fevereiro de 2016, Renato
+assumiu a direção do I/JAC J6 2.0 Diamond e se dirigiu à
+cidade de Foz do Iguaçu/PR, tendo inclusive passado pela
+Base da Polícia Rodoviária Federal, situada na Rodovia
+BR-116, altura do Km 285, na cidade e comarca de
+Itapecerica da Serra.
+Após chegar a cidade de Foz de Iguaçu/PR, o I/JAC
+J6 2.0 Diamond foi abastecido com trinta tabletes de
+cocaína em pó, sendo certo que tais substâncias foram
+ocultadas em compartimento ao qual o acesso se dava
+após acionamento de botões no painel central.
+No dia 18 de fevereiro de 2016, Adriano se dirigiu ao
+Estado do Paraná, a fim de se encontrar com Renato e o
+acompanhar no trajeto de volta até a cidade de São
+Paulo/SP, tendo passado pelo posto de controle da Polícia
+Rodoviária Federal com o Fiat/Punto Elx 1.4 às 14h12min
+33 (fl. 31).
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 6 de 18
+
+HC 171539 A GR / SP
+Após se encontrarem em cidade situada no meio do
+trajeto, os apelantes se dirigiram à cidade de São Paulo/SP,
+sendo certo que Renato ia à frente com o I/JAC J6 2.0
+Diamond, juntamente com Adriano no Fiat/Punto ELX 1.4
+a traz.
+Policiais civis tomaram conhecimento de que um
+veículo da marca JAC, de placas AUL-0741-Curitiba/PR, se
+desloucou até a cidade de Foz do Iguaçu/PR, situada
+próximo à fronteira com o Paraguai, e retornaria com
+drogas que seriam comercializadas na cidade de São
+Paulo/SP. Diante de tal informação, os agentes públicos
+apuraram que tal carro efetivamente havia passado pelo
+posto de controle da PRF no dia 16 de fevereiro de 2016.
+Assim, resolveram efetuar campana em uma praça
+de pedágio situada no Km 287 da Rodovia BR-116, na
+cidade e comarca de Itapecerica da Serra, onde o
+automóvel passaria em direção à capital deste Estado. No
+dia 19 de fevereiro de 2016, por volta das 09h05min, os
+agentes policiais avistaram na cancela do pedágio o I/JAC
+J6 2.0 Diamond, placas AUL-0741-Curitiba/PR, conduzido
+por Renato e ordenaram que ele parasse.
+Efetuada a revista, os policiais civis indagaram a ele
+se transportava drogas no veículo, o que foi respondido
+afirmativamente, porém sem saber informar o local onde
+os entorpecentes se encontravam. Asseverou, ainda, que
+Adriano o havia contratado e que este vinha logo atrás
+dele em um automóvel Fiat/Punto de cor vermelha.
+Após vistoria no veículo, os agentes policiais
+encontraram um dispositivo que, acionado, possibilitou o
+acesso a compartimento no qual se encontravam os tijolos
+de droga acima mencionados. Por conta da localização das
+substâncias
+entorpecentes,
+os
+agentes
+públicos
+prosseguiram na campana e, após cerca de vinte minutos,
+visualizaram o Fiat/Punto ELX 1.4, de cor vermelha,
+dirigido por Adriano e determinaram a para do veículo.
+Questionado a respeito, Adriano negou qualquer
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 7 de 18
+
+HC 171539 A GR / SP
+envolvimento com os fatos. Contudo, à distância, Renato
+indicou aos agentes públicos que se tratava do indivíduo
+que lhe prestava auxilio no transporte da droga. Cumpre
+salientar que cada um dos autores portava um telefone
+celular, marca MOX, de cor laranja, os quais eram
+utilizados para eles se comunicarem durante o caminho
+entre o Estado do Paraná e a cidade de São Paulo.
+Diante do constatado, foi dada voz de prisão aos
+recorrentes, que foram conduzidos à Delegacia de Polícia,
+onde os fatos foram registrados. Cabe lembrar, por
+absolutamente oportuno, que o art. 33, caput, da Lei nº
+11.343/06, estabelece que constitua crime de tráfico de
+entorpecente:
+[...]
+A prática de qualquer uma das condutas acima
+descrita configura o tráfico de entorpecentes e não há
+necessidade da efetiva venda do entorpecente para
+terceiros, inclusive, este fornecimento pode até ser
+gratuito.
+Pois bem.
+[...]
+A grande quantidade de drogas aprendida quase 30
+quilos de cocaína, as circunstâncias do crime: investigação
+que levou o conhecimento de que o carro conduzido por
+Renato trazia drogas para a cidade de São Paulo, a
+informação de que Renato foi contratado por Adriano, o
+qual fazia escolta do veículo que trazia o entorpecente, a
+confissão informal e policial de Renato, o auxílio de
+Adriano na prática do tráfico, participando do delito,
+enfim, todas estas circunstâncias demonstram que os
+recorrentes praticavam a traficância, nos exatos termos
+previstos no § 2º, do artigo 28, da Lei 11.343/06.
+Inviável a absolvição desejada.
+O mesmo ocorre com o reconhecimento da causa de
+aumento descrita no art. 40, V, da Lei Antidrogas, uma vez
+que, restou claro pelos depoimentos que Renato, auxiliado
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 8 de 18
+
+HC 171539 A GR / SP
+por Adriano, trazia a droga do Estado do Paraná até a
+cidade de São Paulo.
+De outra parte, acolho o pedido do Ministério
+Público, em relação à associação.
+Para a configuração desse delito, é imprescindível
+que o conjunto fático-probatório reunido nos autos seja
+convincente no sentido de demonstrar a existência de
+vínculo associativo para o tráfico ilícito de drogas, cujos
+elementos de convicção demonstrem que os réus estejam
+inseridos em uma mínima estrutura organizacional e
+tenham divisões de tarefas entre eles.
+Neste caso específico, restou demonstrado houvesse
+convergência de vontades entre os envolvidos, com
+estrutura organizada e divisão de tarefas, voltadas ao
+comércio de entorpecentes, de forma reiterada ou não.
+Colhe-se dos depoimentos das testemunhas de
+acusação que no dia dos fatos tinham a notícia de que um
+carro estaria transportando drogas para abastecer São
+Paulo, fizeram campana no pedágio e quando avistaram o
+carro abordaram e encontraram no painel do automóvel a
+droga apreendida.
+Renato que conduzia o carro com as drogas, disse
+que estava sendo escoltado, indicando as características do
+veículo dirigido por Adriano. Os agentes públicos
+continuaram no pedágio, perceberam o veículo chegando,
+o qual foi abordado.
+Nota-se assim que havia notícia anterior dando
+conta da prática do tráfico por parte destes agentes
+específicos, porquanto havia informação de que um
+veículo específico iria buscar drogas em outra cidade e
+retornaria para esta capital, de forma que ficou
+demonstrada certeza da existência de um vínculo
+preestabelecido entre os sentenciados, não se trata, aqui,
+de mera coautoria.
+Assim, com razão os ilustres membros do Ministério
+Público das duas instâncias, o conjunto probatório deixou
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 9 de 18
+
+HC 171539 A GR / SP
+fora de dúvida que os sentenciados associados praticavam
+o tráfico de entorpecentes." (e-STJ, fls. 58-70 - grifo nosso)
+O Superior Tribunal de Justiça reputou inviável o pleito de
+absolvição do paciente, forte nas conclusões do Tribunal de
+origem, que, após detida análise dos fatos e provas carreados
+aos autos, considerou devidamente comprovado o tráfico ilícito
+de entorpecentes, bem como o vínculo associativo para esse fim
+(eDOC 02, p. 102):
+Como se percebe, há testemunhos seguros, somado
+ao conjunto probatório trazido como fundamento no
+acórdão recorrido (auto de exibição e apreensão, laudo
+químico toxicológico) de que o paciente e corréu estavam
+associados de maneira estável e permanente para o
+cometimento do tráfico ilícito de entorpecentes. No caso, o
+Tribunal de origem entendeu que "o conjunto probatório
+deixou fora de dúvida que os sentenciados associados
+praticavam o tráfico de entorpecentes." (e-STJ, fl. 70) Desse
+modo, o acolhimento do pedido de absolvição – por
+ausência
+de
+animus
+associativo
+–
+demanda,
+necessariamente, o revolvimento do conteúdo fático
+probatório, o que é vedado na via do habeas corpus.
+(...)
+Observo que o Tribunal local, soberano quanto à matéria
+fática, concluiu pela comprovação do ânimo associativo entre a
+paciente e os demais integrantes da associação criminosa. Não
+há ilegalidade nessa conclusão.
+Importa ressaltar que, na linha dos precedentes desta
+Corte, a condenação pelo delito de associação ao tráfico de
+drogas impede o reconhecimento da minorante, porquanto
+evidencia a dedicação da paciente a atividades criminosas.
+Nesse sentido:
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 10 de 18
+
+HC 171539 A GR / SP
+Recurso ordinário em habeas corpus. Penal. Tráfico e
+associação para o tráfico de drogas (arts. 33 e 35 da Lei nº
+11.343/06). Reconhecimento da causa especial de redução
+de pena prevista no § 4º do art. 33 da Lei de Drogas em
+seu grau máximo. Impossibilidade. Condenação por
+associação que desautoriza o reconhecimento da
+minorante. Precedentes. Recurso não provido. 1. A
+condenação por integrar associação criminosa para o
+tráfico de drogas (art. 35 da Lei de Drogas) é, por si só,
+fator mais do que suficiente para afastar a aplicação da
+causa especial de diminuição de pena prevista no § 4º do
+art. 33 da Lei nº 11.343/06. 2. [...] 3. Recurso ordinário ao
+qual se nega provimento. (RHC 128.452, Rel. Min. Dias
+Toffoli, Segunda Turma, julgado em 22.09.2015, grifei)
+A despeito do inconformismo defensivo, presente
+fundamentação razoável, descabe à Suprema Corte dissentir da
+conclusão das instâncias ordinárias quanto à demonstração de
+que o agente se dedicava ou não a atividades criminosas, o que
+pressuporia revolvimento de fatos e provas, ao que não se
+presta o habeas corpus. No mesmo sentido:
+“As instâncias ordinárias, soberanas na apreciação do
+conteúdo fático-probatório, assentaram que os elementos
+colhidos sob o crivo do contraditório indicaram a dedicação do
+agravante a atividades criminosas, sobretudo em razão da
+expressiva quantidade de droga apreendida (170 kg de maconha).
+Para se afastar dessa conclusão seria necessário proceder à
+análise de fatos e provas, providência incompatível com esta
+via processual. Precedentes.” (RHC 153.194 AgR, Rel. Min.
+ALEXANDRE DE MORAES, Primeira Turma, julgado em
+27.04.2018, grifei)
+“Agravo regimental em habeas corpus. Penal. Tráfico.
+Condenação. Incidência da causa especial de diminuição de pena (art.
+33, § 4º, da Lei de Drogas). Não ocorrência. Conclusão pelas
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 11 de 18
+
+HC 171539 A GR / SP
+instâncias ordinárias de que o agravante se dedicava a
+atividade criminosa. Impossibilidade de revolver fatos e
+provas, na via do habeas corpus, para se chegar a conclusão
+diversa. Precedentes.” (HC 153.641 AgR, Rel. Min. DIAS
+TOFFOLI, Segunda Turma, julgado em 27.03.2018, grifei)
+“A tese defensiva de aplicação da minorante do § 4º do
+art. 33 da Lei 11.343/2006, afastada pelas instâncias anteriores dada
+a constatação de o paciente integrar organização criminosa e/ou
+dedicar-se à atividades delitivas, demanda o reexame e a valoração
+de fatos e provas, para o que não se presta a via eleita.” (RHC
+140.006 AgR, Rel. Min. ROSA WEBER, Primeira Turma, julgado
+em 01.12.2017, grifei)
+1.2. Quanto à dosimetria da pena, a jurisprudência desta
+Corte é consolidada no sentido de que “o juízo revisional da
+dosimetria da pena fica circunscrito à motivação (formalmente idônea)
+de mérito e à congruência lógico-jurídica entre os motivos declarados e
+a conclusão” (HC 69.419/MS, Primeira Turma, Rel. Min.
+Sepúlveda Pertence, DJ de 28.08.1992).
+Não bastasse, merece ponderação o fato de que “é vedado
+subtrair da instância julgadora a possibilidade de se movimentar com
+certa discricionariedade nos quadrantes da alternatividade
+sancionatória” (HC 97.256, Rel. Min. AYRES BRITTO, Tribunal
+Pleno, julgado em 01.09.2010).
+Diante desse limite cognitivo, a revisão da dosimetria não
+permite incursão no quadro fático-probatório, tampouco a
+reconstrução da discricionariedade constitucionalmente
+atribuída às instâncias ordinárias. Quando o assunto consiste
+em aplicação da pena, a atividade do Supremo Tribunal
+Federal, em verdade, circunscreve-se “ao controle da legalidade
+dos critérios utilizados, com a correção de eventuais arbitrariedades”
+(HC 128446, Relator(a): Min. TEORI ZAVASCKI, Segunda
+Turma, julgado em 15/09/2015).
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 12 de 18
+
+HC 171539 A GR / SP
+No caso, o TJSP manteve a majoração da pena-base do
+crime de tráfico de drogas nestes termos (eDOC 02, p. 72/73):
+Os apelantes foram presos em flagrante por
+transportarem
+grande
+quantidade
+de
+drogas,
+acondicionadas em pacotes prontos para a entrega a
+terceiros.
+A pena-base de ambos foi acrescida de maneira
+fundamentada, dentro dos parâmetros legais, atentando
+aos ditames do art. 42, da Lei Antidrogas, porquanto é
+pacifico o entendimento que a quantidade da substância
+entorpecente justifica o aumento.
+De modo que, inviável a fixação da pena-base no
+mínimo, uma vez que, não se vislumbrando, no caso,
+exasperação ilegal ou desmotivada, até porque o
+legislador infraconstitucional não quantificou as
+circunstâncias judiciais, deixando a critério do julgador a
+tarefa de encontrar números suficientes a desestimular o
+agente e a própria sociedade a patrocinarem condutas
+análogas
+e,
+simultaneamente,
+a
+garantir
+a
+proporcionalidade entre o fato praticado e a pena (HC nº
+107.626/MS, rel. Minª Carmem Lúcia, j. Em 2.10.2012).
+Assim, correto o aumento, que resultou em 07 (sete)
+anos e 700 (setecentos) dias-multa.
+Com efeito, a quantidade e a natureza do entorpecente
+também se ajustam, substancialmente, às circunstâncias
+judiciais, relacionando-se ao conceito amplo de culpabilidade,
+mormente pela previsão expressa do art. 42 da Lei 11.343/06. Na
+mesma linha: HC 123.110 AgR, Rel. Min. ROBERTO BARROSO,
+Primeira Turma, julgado em 19.08.2014.
+Segundo o art. 42 da Lei 11.343/2006, “na fixação das
+penas, considerará, com preponderância sobre o previsto no
+art. 59 do Código Penal, a natureza e a quantidade da
+substância ou do produto, a personalidade e a conduta social
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 13 de 18
+
+HC 171539 A GR / SP
+do agente”.
+Ao contrário do que alega o impetrante, as decisões
+impugnadas foram devidamente fundamentadas. A expressiva
+quantidade de cocaína apreendida – 29,3kg - seria
+fundamento robusto e suficiente para elevar a pena-base do
+paciente.
+Ressalto que não há como se empreender juízo exato da
+correspondência entre o aumento da pena e a quantidade de
+circunstâncias judiciais desfavoráveis. Em verdade, cada
+circunstância do delito, se negativa, demanda incremento
+próprio, de acordo com as peculiaridades do caso concreto, em
+cumprimento ao comando constitucional que impõe a
+individualização da pena.
+Sendo assim, desde que racionalmente motivado, é
+possível que determinada circunstância judicial negativa
+desafie maior ou menor exasperação que outra(s), sem qualquer
+vinculação quantitativa apriorística. Desinfluente, portanto,
+para tal desiderato, a expressividade numérica das
+circunstâncias judiciais desfavoráveis.
+Dessa forma, considerando o limite cognitivo desta
+Suprema Corte, não há como acolher a pretensão defensiva.
+1.3. Mantido o quantum da pena definitiva, constato que
+o paciente não preenche o requisito objetivo exigido para fins
+de substituição da pena, tampouco para concessão de regime
+aberto ou semiaberto.
+1.4. Com relação à fixação do regime inicial, tenho que o
+tema segue os critérios estabelecidos no art. 33 do Código Penal,
+quais sejam, a quantidade de pena, a reincidência e as
+circunstâncias judiciais:
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 14 de 18
+
+HC 171539 A GR / SP
+Art. 33 - A pena de reclusão deve ser cumprida em
+regime fechado, semi-aberto ou aberto. A de detenção, em
+regime semi-aberto, ou aberto, salvo necessidade de
+transferência a regime fechado.
+(…)
+§ 2º - As penas privativas de liberdade deverão ser
+executadas em forma progressiva, segundo o mérito do
+condenado, observados os seguintes critérios e ressalvadas
+as hipóteses de transferência a regime mais rigoroso:
+a) o condenado a pena superior a 8 (oito) anos deverá
+começar a cumpri-la em regime fechado;
+b) o condenado não reincidente, cuja pena seja
+superior a 4 (quatro) anos e não exceda a 8 (oito), poderá,
+desde o princípio, cumpri-la em regime semi-aberto;
+c) o condenado não reincidente, cuja pena seja igual
+ou inferior a 4 (quatro) anos, poderá, desde o início,
+cumpri-la em regime aberto .
+§ 3º - A determinação do regime inicial de
+cumprimento da pena far-se-á com observância dos
+critérios previstos no art. 59 deste Código.
+Ainda nesse sentido, as Súmulas 718 e 719/STF enunciam
+que a mera gravidade do crime não se revela argumento hígido
+a chancelar a imposição de regime mais gravoso que o
+estipulado aprioristicamente pela lei. Da mesma forma, o
+regime mais severo que a quantidade de pena permitir é
+admissível tão somente nas hipóteses de motivação idônea,
+calcada, como dito, nas circunstâncias descritas no art. 59 do
+Código Penal:
+Súmula 718: A opinião do julgador sobre a gravidade
+em abstrato do crime não constitui motivação idônea para
+a imposição de regime mais severo do que o permitido
+segundo a pena aplicada.
+Súmula 719: A imposição de regime de cumprimento
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 15 de 18
+
+HC 171539 A GR / SP
+mais severo do que a pena aplicada permitir exige
+motivação idônea.
+Na espécie, o TJSP fixou o regime nestes termos (eDOC
+02, p. 75/76):
+Por esta razão, mesmo que a quantidade da pena imposta
+permitisse estabelecer regime inicial mais benéfico, sempre
+dependerá, em última análise, do exame da culpabilidade da
+agente, de seus antecedentes, de sua conduta social, de sua
+personalidade, bem como dos motivos, das circunstâncias e das
+consequências do crime.
+Dessa, forma, diante da análise do caso concreto,
+consoante os termos dos artigos 59 e 33 do Código Penal,
+impõe-se a adoção do regime mais gravoso.
+A modalidade menos severa para o cumprimento da pena
+mostra-se insuficiente e inadequada à repressão do delito,
+mantendo-se o regime inicial fechado para o cumprimento da
+reprimenda.
+Não há ilegalidade na conclusão do Tribunal local, que
+impôs regime inicial fechado considerando a pena definitiva de
+12 (doze) anos de reclusão, decorrente do concurso material, e a
+quantidade do entorpecente.
+Trata-se, à obviedade, de juízo empreendido à luz das
+particularidades do caso concreto, descabendo à Suprema Corte
+reanalisar tais aspectos inerentes à discricionariedade afeta à
+dosimetria da pena.
+Destarte, como não se trata de decisão manifestamente
+contrária à jurisprudência do STF ou de flagrante hipótese de
+constrangimento ilegal, descabe conceder a ordem.”
+
+Verifico que os argumentos apresentados no agravo, que constituem
+reiteração dos termos da impetração, não alteram as conclusões da
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 16 de 18
+
+HC 171539 A GR / SP
+decisão recorrida.
+Conforme anteriormente consignado, não há arbitrariedade no
+critério eligido na dosagem das penas. A questão situa-se, portanto,
+dentro da margem legalmente atribuída às instâncias ordinárias no mister
+de, discricionariamente, atribuir plena concretude ao princípio da
+individualização da pena, não havendo que se falar em constrangimento
+ilegal, nesse tocante.
+Com efeito, a exasperação da pena-base defluiu da concreta
+negativação da quantidade (30 quilogramas) e natureza (cocaína) da
+substância apreendida, as quais, no sentir do juízo sentenciante, seriam
+capazes de impor maior rigor na apenação do agravante.
+Ademais, o afastamento do redutor previsto no art. 33, § 4º da Lei
+11.343/2006 está devidamente motivado no envolvimento do agravante
+com organização criminosa destinada ao tráfico de entorpecentes, tendo
+sido inclusive condenado pelo crime de associação (art. 35 da Lei
+11.343/06).
+Por sua vez, a fixação de regime inicial mais gravoso se deu
+conforme os critérios do art. 33 e 59 do Código Penal, forte nas
+circunstâncias judicais negativas.
+Em razão do quantum da pena estabelecida, o recorrente não atende
+ao requisito objetivo para a substituição da pena corporal por restritivas
+de direitos, conforme dispõe o art. 44 do CP.
+Desse modo, a despeito das alegações da parte ora agravante, a
+decisão recorrida converge com a jurisprudência desta Turma, razão pela
+qual se impõe sua manutenção pelos próprios fundamentos.
+Diante do exposto, nego provimento ao agravo regimental.
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 17 de 18
+
+HC 171539 A GR / SP
+
+É como voto.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 70C2-DD0C-C8B5-5F07 e senha C439-29B9-4E02-BC53
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/12/2019
+
+Inteiro Teor do Acórdão - Página 18 de 18
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 171.539
+PROCED. : SÃO PAULO
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : ADILSON APARECIDO AMÂNCIO
+ADV.(A/S) : ANDRE LUIZ PLACCO (225584/SP)
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 6.12.2019 a 12.12.2019.
+Composição: Ministros Cármen Lúcia (Presidente), Celso de
+Mello, Gilmar Mendes, Ricardo Lewandowski e Edson Fachin.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1966-49F4-841A-7964 e senha AB41-98D6-1E73-411E
