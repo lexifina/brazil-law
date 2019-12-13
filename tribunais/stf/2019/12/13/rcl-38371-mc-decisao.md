@@ -1,0 +1,23 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada por Eron Rodrigues Barbiero e Márcia Serafini Cassiano da Silva, vereadores do Município de Mandaguari/PR, em face de ato do Presidente da Câmara Municipal daquele ente que declarou a rejeição de denúncia proposta em face do Prefeito, pela suposta prática de infração político-administrativa.
+    2. Os reclamantes narram que a denúncia em face do Prefeito Municipal de Mandaguari foi apresentada por eleitor, tendo sido submetida ao plenário da Câmara de Vereadores para consulta sobre o seu recebimento. Em sessão, foram cinco vereadores favoráveis ao recebimento da denúncia e quatro contra. Não obstante, o Presidente do Órgão declarou o não recebimento da denúncia, porquanto não alcançado o quórum de dois terços dos presentes.
+    3. Nesse cenário, a presente reclamação é ajuizada, por alegação de afronta à Súmula Vinculante 46, uma vez que a autoridade reclamada teria privilegiado disposição constante de regimento interno, em detrimento da previsão do art. 5º, II, do Decreto-Lei nº 201/67.
+    4. É o relatório. Decido o pedido liminar.
+    5. Na hipótese, alega-se violação à Súmula Vinculante nº 46, de acordo com a qual “a definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa privativa da União”.
+    6. Resultante da conversão da Súmula 722 da jurisprudência dominante do STF, a Súmula Vinculante 46 foi editada por esta Corte após reiterados precedentes que, com base no art. 22, I, da CRFB/1988, afirmaram a inconstitucionalidade de normas estaduais e municipais que previam crimes de responsabilidade ou dispunham sobre seu processo e julgamento. Concluiu-se que, independentemente da esfera a qual vinculado o agente político, estará ele submetido ao regramento federal. No que concerne ao regime pertinente aos Prefeitos Municipais, a referida competência foi exercida com a edição do Decreto-Lei nº 201/1967.
+    7. Sobre o recebimento da denúncia pela Câmara Municipal, o Decreto-lei nº 201/1967 dispõe o seguinte:
+    “Art. 5º O processo de cassação do mandato do Prefeito pela Câmara, por infrações definidas no artigo anterior, obedecerá ao seguinte rito, se outro não for estabelecido pela legislação do Estado respectivo:
+    (…)
+    II - De posse da denúncia, o Presidente da Câmara, na primeira sessão, determinará sua leitura e consultará a Câmara sobre o seu recebimento. Decidido o recebimento, pelo voto da maioria dos presentes, na mesma sessão será constituída a Comissão processante, com três Vereadores sorteados entre os desimpedidos, os quais elegerão, desde logo, o Presidente e o Relator.” (destaquei)
+    8. No caso em análise, consta da Ata nº 34/2019, da Sessão Ordinária do dia 02.12.2019 da Câmara Municipal de Mandaguari a conclusão de que “a denúncia precisava para abrir Comissão Processante seria necessário dois terços da Câmara Municipal, foram cinco votos que aceitam e quatro que rejeitam e a denúncia está rejeitada” (doc. 27, p. 7). O ato foi embasado em parecer da assessoria jurídica da Câmara Municipal, com o seguinte teor:
+    “No entanto, a previsão contida no Decreto-Lei n 201/1967 encontra-se em discordância com o art. 189 do Regimento Interno desta Casa de Leis, que assim dispõe:
+    (…)
+    Dessa forma,o rito previsto no Decreto-Lei nº 201/1967 estabelece a maioria simples para aprovação da instalação da Comissão Processante. Este rito, porém, não é o recepcionado pela Constituição Federal e pela Constituição do Estado do Paraná, devendo ser aplicado o quórum de 2/3 (dois terços) de seus membros, conforme previsão constitucional e decisões judiciais apresentadas”.
+    9. Ao afastar o regramento federal, para aplicar o princípio da simetria e a legislação estadual e local, o ato reclamado, aparentemente, acabou por contrariar a Súmula Vinculante 46. Nessa linha, confiram-se, entre outras, Rcl 22.034, da minha relatoria; Rcl 24.727, Rel. Min. Dias Toffoli; e Rcl 37.923, Rel. Min. Alexandre de Moraes. Presente, portanto, o fumus boni iuris.
+    10. Igualmente presente o periculum in mora, em face do eminente encerramento da sessão legislativa.
+    11.  Do exposto, nos termos do art. 989, II, do CPC, defiro o pedido liminar.
+    12. Determino: (i) seja intimada a parte reclamante, para que emende a inicial, no prazo de 15 (quinze) dias úteis, a fim de que faça dela constar o endereço de Romualdo Batista, beneficiário do ato reclamado, sob pena de indeferimento da inicial (arts. 321 e 989, III, do CPC); (ii) notifique-se a autoridade reclamada para prestar as informações.
+    Publique-se. Comunique-se.
+    Brasília, 13 de dezembro de 2019
+Ministro LUÍS ROBERTO BARROSO
+Relator
