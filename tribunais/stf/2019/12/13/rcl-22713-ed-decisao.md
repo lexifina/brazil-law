@@ -1,0 +1,26 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – INTEMPESTIVIDADE – NÃO CONHECIMENTO.
+    1. O assessor Vinícius Machado Calixto assim retratou o caso:
+    Luiz Everton Reis Moura assevera haver o Juízo da Décima Sétima Vara Federal da Seção Judiciária de Pernambuco, na ação penal nº 70-21.2015.4.05.8308, no pedido de prisão preventiva e busca e apreensão nº 71-06.2015.4.05.8308 e no incidente de insanidade mental nº 77-13.2015.4.05.8308, usurpado a competência do Supremo.
+    Conforme narra, figura como réu na ação penal nº 70- 21.2015.4.05.8308, na qual é acusado da prática dos crimes previstos nos artigos 138 (calúnia), 139 (difamação), 140 (injúria) e 344 (coação no curso do processo) do Código Penal. Aponta, no cumprimento de diligências, a apreensão de documento intitulado “A Conciliação”, cujo teor ofenderia os membros da magistratura vinculados ao Tribunal Regional Federal da 5ª Região. Transcreve trechos do referido documento. Reporta-se à nota de esclarecimento veiculada pela Justiça Federal em Pernambuco. Menciona manifestações da Associação dos Juízes Federais da 5ª Região e da Associação dos Juízes Federais do Brasil no tocante à própria prisão. Conclui pela existência de interesse dos membros do Judiciário Federal relativamente ao desenlace da ação penal formalizada contra si e demais incidentes, do que decorreria a competência originária do Supremo.
+    Vossa Excelência negou seguimento à reclamação, ante os seguintes fundamentos:
+    […]
+    É imprópria a irresignação. A competência do Supremo é de direito estrito, descabendo elastecê-la para além do que consignado na Constituição Federal. O caso não se enquadra em nenhum dos incisos do artigo 102 da Carta da República, no que evidenciado não caber ao Tribunal, originariamente, atuar na ação penal e nos incidentes conexos iniciados perante a Justiça Federal em Pernambuco. Além de o reclamante não ocupar nenhum dos cargos mencionados nas alíneas “b” e “c” do inciso I do artigo 102 da Lei Maior, não se faz em jogo, presente a redação da subsequente alínea “n”, interesse de todos os membros da magistratura, senão o do próprio reclamante de ter a verdade por si proclamada reconhecida no campo da persecução criminal.
+    […]
+    O reclamante, em declaratórios, aponta omissão ante a ausência do reconhecimento da circunstância prevista no artigo 102, inciso I, alínea “n”, da Constituição Federal. Alega ter demonstrado interesse dos membros da magistratura no julgamento do processo. Junta novo instrumento de procuração, atestado médico conferido ao profissional de advocacia anteriormente constituído e cópia de pedido de dilação de prazo protocolado em processo distinto.
+    O embargado assinala a intempestividade do recurso. Sustenta que a apresentação de atestado médico não comprova a impossibilidade de substabelecimento a outro advogado. No mérito, diz não ter a indicação de vícios pelo embargante. Ressalta não usurpada a competência do Supremo.
+    2. A peça foi formalizada fora do prazo assinado em lei. A decisão impugnada foi publicada no Diário da Justiça eletrônico de 26 de abril de 2016 e os embargos protocolados no dia 15 de maio subsequente.
+    O artigo 223, cabeça, do Código de Processo Civil possibilita a restituição de prazo se existente justa causa, o que não se observa no caso. Na esteira da jurisprudência do Supremo, a configuração da referida circunstância demanda a demonstração de doença grave o suficiente para impedi-lo até mesmo de substabelecer o mandato. A propósito, confiram as seguintes ementas:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 11.8.2015. DEVOLUÇÃO DO PRAZO RECURSAL. IMPOSSIBILIDADE.
+    1. A jurisprudência desta Corte admite a devolução do prazo recursal em virtude de força maior apenas quando o advogado demonstra que a doença é grave o suficiente para impedi-lo até mesmo de substabelecer o mandato, o que não ocorreu no presente caso. Precedentes.
+    2. Agravo regimental a que se nega provimento.
+    (agravo regimental no recurso extraordinário com agravo nº 819295, relator o ministro Luiz Edson Fachin, Primeira Turma, com acórdão publicado no Diário da Justiça de 2 de dezembro de 2016)
+    Agravo regimental em agravo de instrumento. 2. AgRAI intempestivo. 3. Alegação de doença da pessoa responsável pela interposição do recurso. Força maior. Justa causa. Inocorrência. Patrono da causa que não comprova sua impossibilidade em substabelecer, ou em protocolar o recurso dentro do prazo. 4. Lei 9.800, de 1999. Inaplicabilidade. 5. Agravo regimental não conhecido.
+    (agravo regimental em agravo de instrumento nº 421932, relator o ministro Gilmar Mendes, Segunda Turma,com acórdão publicado no Diário da Justiça de 27 de junho de 2003)
+    Conforme consta em documento anexado pelo próprio embargante, o então patrono substabeleceu, durante o período em que afastado das atividades por determinação médica, outro profissional da advocacia para atuação em processo diverso, o que evidencia a possibilidade de ter assim procedido neste caso.
+    3. Ante a extemporaneidade, não conheço dos embargos de declaração.
+    4. Certifiquem o trânsito em julgado.
+    5. Publiquem
+Brasília, 13 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
