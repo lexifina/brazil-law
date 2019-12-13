@@ -1,0 +1,30 @@
+RECLAMAÇÃO. AGRAVO REGIMENTAL. PENAL E PROCESSO PENAL. VULNERAÇÃO AO ENUNCIADO 14 DA SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL. OCORRÊNCIA. ELEMENTOS DE PROVA JÁ DEVIDAMENTE DOCUMENTADOS EM AUTOS DE INVESTIGAÇÃO. PENDÊNCIA, UNICAMENTE, DO RELATÓRIO POLICIAL. DIREITO DE ACESSO PELA DEFESA. RECONSIDERAÇÃO DO DECISUM AGRAVADO. RECLAMAÇÃO JULGADA PROCEDENTE.
+1. É direito da defesa ter acesso a todo o teor dos elementos produzidos e já devidamente documentados em autos de procedimento investigatório, nos termos do enunciado 14 da Súmula Vinculante do Supremo Tribunal Federal.
+2. In casu, (a) O Reclamante sustenta que a autoridade Reclamada negou acesso aos elementos de prova já documentados nos autos, advindos do cumprimento de medida de busca e apreensão.
+(b) Solicitadas informações, a Autoridade Reclamada esclareceu que o acesso foi negado em razão de pedido de “dilação de prazo para apresentação do relatório de diligências da Autoridade Policial”.
+(c) Ouvida, a Procuradoria-Geral da República destacou que ”não se mostra razoável interpretar a referida súmula vinculante de modo a permitir o acesso irrestrito aos autos se os trabalhos investigativos ainda estão pendentes, sendo certo que o poder-dever do Estado de investigar e punir os autores dos crimes ficará prejudicado caso seja franqueado ao investigado o acesso geral ao conteúdo da investigação criminal”.
+3. (a) O acesso da defesa aos autos da investigação deve ser garantido nos termos da SV 14, revelando-se incabível seu indeferimento quando, concluídas as diligências investigatórias, esteja pendente, tão-somente, pedido de dilação de prazo para a apresentação de relatório policial.
+(b) In casu, verifica-se que o pedido de dilação de prazo para apresentação do relatório de diligências foi deduzido em 20/09/2019. Solicitadas novas informações, a Autoridade Reclamada informou, em 07/11/2019, que a Autoridade Policial ainda não havia apresentado o devido relatório, “tendo em vista a quantidade de documentos e bens apreendidos nos 19 endereços (fls. 428), encontrando-se os autos da medida cautelar com a Autoridade Policial”.
+(c) Constata-se que as diligências já se concluíram, razão pela qual, tão-logo disponíveis em cartório, os autos devem ser disponibilizados para vista da defesa, em observância ao enunciado 14 da Súmula Vinculante desta Corte.
+4. Ex positis, reconsidero o decisum agravado e julgo procedente a presente Reclamação, para determinar a observância da SV 14/STF.
+    Decisão: Trata-se de agravo regimental interposto contra decisão de minha relatoria que restou assim ementada:
+    “RECLAMAÇÃO. PENAL E PROCESSO PENAL. SUPOSTA VULNERAÇÃO AO ENUNCIADO 14 DA SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL. INOCORRÊNCIA. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.”
+    A presente reclamação foi ajuizada contra ato do Juízo do Foro Central Criminal Barra Funda (DIPO-4) da Comarca de São Paulo/SP, sob o fundamento de afronta à Súmula Vinculante nº 14 do STF.
+    Narrou a petição inicial que a autoridade reclamada teria negado “acesso amplo aos elementos de prova já documentados nos autos nº 1523241-12.2019.8.26.0050, em trâmite perante a Delegacia do Meio Ambiente de Diadema/SP”, advindos de medida de Busca e Apreensão decretada nos autos do Inquérito Policial nº 4048332/2019.
+    Requereu, no mérito, que fosse julgada procedente a demanda para ter vista e obter cópias “do Inquérito Policial nº 4048332/2019, bem como dos autos da Busca e Apreensão nº 1523241-12.2019.8.26.0050, em trâmite perante a Delegacia do Meio Ambiente de Diadema/SP e autuados junto ao Departamento de Inquéritos Policiais DIPO 4 do Foro Criminal Central da Capital“.
+    Prestadas as informações pela autoridade reclamada e ouvido o Parquet Federal, neguei seguimento à presente reclamação, com fundamento no artigo 161 do RISTF, tendo em vista o inequívoco descabimento da presente ação.
+    Irresignada, a defesa manejou o presente agravo regimental, no qual repisa os argumentos da petição inicial, reforçando o que aduzido sob o fundamento de que “até o momento a Defesa não possui elementos para ajuizar as medidas judiciais cabíveis a fim de que os bens apreendidos sejam restituídos às empresas para a regular continuidades de suas atividades”.
+    É o relatório. DECIDO.
+    A Súmula Vinculante 14 do Supremo Tribunal Federal volta-se à garantia do direito de defesa, determinando o amplo acesso do defensor aos elementos de prova já documentados em procedimento investigatório criminal, qualquer que seja a denominação a este conferida.
+    Eis o teor do enunciado, in verbis:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa”.
+    A determinação de amplo acesso aos elementos de prova já documentados teve por fim excluir do direito de acesso, unicamente, as diligências ainda em andamento, para evitar prejuízo à investigação quando o caráter sigiloso se revela fundamental à obtenção de possíveis elementos de prova da prática delitiva.
+    In casu, em informações prestadas nestes autos, a autoridade reclamada aduziu que o acesso foi negado em razão de pedido de “dilação de prazo para apresentação do relatório de diligências da Autoridade Policial, em 20/09/2019, tendo em vista a quantidade de documentos e bens apreendidos nos 19 endereços”.
+    Constata-se, portanto, que as diligências já se concluíram, razão pela qual, tão-logo disponíveis em cartório, os autos devem ser disponibilizados para vista da defesa, em observância ao enunciado 14 da Súmula Vinculante desta Corte.
+    Ex positis, com esteio no artigo 161 do RISTF, reconsidero o decisum agravado e julgo procedente a presente Reclamação.
+    Comunique-se ao juízo de origem, para que conceda acesso da defesa aos autos da medida cautelar, tão-logo estejam disponíveis em cartório, independentemente de apresentação de relatório policial.
+    Publique-se. Cumpra-se.
+    Brasília, 13 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
