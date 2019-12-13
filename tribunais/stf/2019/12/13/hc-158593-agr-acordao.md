@@ -1,0 +1,944 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 22
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 158.593 RIO DE JANEIRO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: THIAGO SOARES DE GODOY
+: FERNANDO AUGUSTO HENRIQUES FERNANDES E
+OUTRO(A/S)
+: TRIBUNAL SUPERIOR ELEITORAL
+
+EMENTA: AGRAVO REGIMENTAL NO HABEAS CORPUS.
+PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA, EXTORSÃO,
+CORRUPÇÃO PASSIVA, LAVAGEM DE DINHEIRO E FALSIDADE
+IDEOLÓGICA ELEITORAL. COMPETÊNCIA DA JUSTIÇA ELEITORAL
+PARA JULGAMENTO DO CRIME DE FALSIDADE IDEOLÓGICA E
+DELITOS CONEXOS. PRECEDENTE DO SUPREMO TRIBUNAL: INQ.
+N. 4.435. PEDIDO MANIFESTAMENTE IMPROCEDENTE E
+CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL
+FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a Presidência da
+Ministra Cármen Lúcia, na conformidade da ata de julgamento, por
+unanimidade, em negar provimento ao agravo regimental, nos termos
+do voto da Relatora. Sessão Virtual de 6.12.2019 a 12.12.2019.
+Brasília, 13 de dezembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9AD3-2773-FD27-FBEA e senha 935E-3626-2704-870D
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 22
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 158.593 RIO DE JANEIRO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: THIAGO SOARES DE GODOY
+: FERNANDO AUGUSTO HENRIQUES FERNANDES E
+OUTRO(A/S)
+: TRIBUNAL SUPERIOR ELEITORAL
+RELATÓRIO
+
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Agravo Regimental em Habeas Corpus, impetrado por Fernando
+Augusto Fernandes e outros, advogados, em benefício de Thiago Soares
+de Godoy, contra acórdão do Tribunal Superior Eleitoral pelo qual
+concedido parcialmente o Habeas Corpus n. 0604296-17.2017.6.00.0000, em
+3.5.2018, para revogar a prisão preventiva do paciente, mantida a
+competência do juízo da Nonagésima Oitava Zona Eleitoral de Campo de
+Goytacazes/RJ para processamento da Ação Penal n. 12-81.2017.6.19.0098.
+2. Consta dos autos ter sido o paciente denunciado na ação penal n.
+12-81.2017.6.19.0098 pela prática dos delitos previstos nos §§ 2º e 3º do art.
+2º da Lei n. 12.850/2013 (organização criminosa); no § 1° do art. 158 e no
+art. 317 do Código Penal (extorsão por concurso de agentes e corrupção
+passiva); no caput e no inc. II do § 1º do art. 1° da Lei n. 9.613/1998
+(lavagem de dinheiro) e no art. 350 do Código Eleitoral (falsidade
+ideológica eleitoral), na forma dos arts. 29 e 69 do Código Penal (em
+concurso de pessoas e concurso material).
+Narrou-se na denúncia:
+“O Inquérito Policial que embasa a presente Denúncia, foi
+instaurado por requisição do Ministério Público, a partir de notícias
+veiculadas em mídia nacional, dando conta da realização de
+Colaboração Premiada firmada por Executivos do grupo J&F,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A94C-3D93-7E44-ABE5 e senha 9772-59D7-79A9-A2AB
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 22
+
+HC 158593 AGR / RJ
+proprietários da JBS S/A, mais precisamente por Joesley e Wesley
+Batista, além de Ricardo Saud.
+Na ocasião, foi relatado que o referido Grupo Econômico doou
+cerca de R$ 3.000.000,00 (três milhões de reais) para a campanha de
+Anthony Garotinho ao Governo do Estado do Rio de Janeiro em 2014,
+a título de “caixa 2”, dinheiro não contabilizado na prestação de
+contas eleitoral, valendo-se de um contrato de prestação de serviços
+celebrado com uma empresa indicada por aquele candidato, apenas
+para dar uma aparência de legalidade ao repasse de dinheiro.
+Após a divulgação dos fatos na imprensa nacional, o Sr. André
+Luiz da Silva Rodrigues procurou a Polícia Federal espontaneamente,
+dispondo-se a esclarecer os fatos divulgados e de colaborar com as
+investigações, trazendo fatos até então desconhecidos dos
+investigadores, inclusive apontando e revelando a estruturação de
+uma organização criminosa, com emprego de arma de fogo inclusive,
+no seio da gestão municipal de Campos dos Goytacazes, no período em
+que Rosinha Garotinho foi Prefeita (2009 a 2016)”.
+
+3. Em 17.11.2017, o juízo da Nonagésima Oitava Zona Eleitoral do
+Rio de Janeiro recebeu a denúncia e decretou a prisão preventiva do
+paciente.
+4. A defesa impetrou o Habeas Corpus n. 182-07 no Tribunal Regional
+Eleitoral do Rio de Janeiro, que concedeu parcialmente a ordem para
+determinar a observância da prerrogativa do inc. V do art. 7º da Lei n.
+8.906/1994.
+5. Contra esse acórdão, impetrou-se no Tribunal Superior Eleitoral o
+Habeas Corpus n. 0604296-17.2017.6.00.0000 e, em 3.5.2018, a ordem foi
+parcialmente concedida para revogar a prisão preventiva do paciente,
+mantendo-se a competência da Justiça Eleitoral para o julgamento do
+caso.
+6. Esse acórdão é o objeto da presente impetração.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A94C-3D93-7E44-ABE5 e senha 9772-59D7-79A9-A2AB
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 22
+
+HC 158593 AGR / RJ
+7. Em 25.6.2018, o Ministro Dias Toffoli julgou prejudicada a medida
+liminar requerida em razão do deferimento da liminar no Habeas Corpus
+n. 157.467, requisitou informações e determinou vista à ProcuradoriaGeral da República.
+8. O Tribunal Superior Eleitoral prestou informações em 17.9.2018.
+9. A Procuradoria-Geral da República opinou pela denegação da
+ordem:
+“PROCESSO
+PENAL.
+HABEAS
+CORPUS.
+ORGANIZAÇÃO CRIMINOSA. CRIMES DE FALSIDADE
+IDEOLÓGICA ELEITORAL, CORRUPÇÃO PASSIVA, LAVAGEM
+DE DINHEIRO E EXTORSÃO. CRIME ELEITORAL CONEXO
+COM DELITOS DE JURISDIÇÃO COMUM FEDERAL.
+NECESSIDADE
+DE
+UNIFORMIZAÇÃO
+DA
+JURISPRUDÊNCIA. MISSÃO INSTITUCIONAL DOS ÓRGÃOS
+DE CÚPULA DO PODER JUDICIÁRIO. IMPOSSIBILIDADE DE
+MODIFICAÇÃO DA COMPETÊNCIA DA JUSTIÇA COMUM
+FEDERAL FIXADA NA CONSTITUIÇÃO FEDERAL POR
+NORMAS DE ÍNDOLE INFRACONSTITUCIONAL. NÃO
+APLICAÇÃO DO CRITÉRIO DA ESPECIALIDADE. HIPÓTESE
+QUE ENSEJA A CISÃO DO PROCESSO COM RELAÇÃO AOS
+CRIMES FEDERAIS. DENEGAÇÃO DA ORDEM, COM A
+CASSAÇÃO DA MEDIDA LIMINAR.
+1. A Segunda Turma do Supremo Tribunal Federal tem
+entendido que, nos casos de doações eleitorais por meio de caixa 2, a
+conexão entre o suposto crime eleitoral de falsidade ideológica (art.
+350, Código Eleitoral) e os delitos de competência da Justiça Comum como corrupção passiva e lavagem de capitais -, não afasta a
+competência da Justiça Eleitoral, por força do art. 35, II, do Código
+Eleitoral e do art. 78, IV, do Código de Processo Penal. (PET nº
+7.319/DF-AgR-ED, Relator para o acórdão o Ministro Dias Toffoli,
+DJe de 05/5/18).
+2. Hipótese em que estão em apuração, perante a Justiça
+Eleitoral, crimes contra a Administração Pública praticados por
+organização criminosa voltada, fundamentalmente, a arrecadar
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A94C-3D93-7E44-ABE5 e senha 9772-59D7-79A9-A2AB
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 22
+
+HC 158593 AGR / RJ
+recursos destinados a financiar campanhas eleitorais via “caixa 2”,
+mediante o cometimento de delitos diversos, como de corrupção
+passiva, lavagem de dinheiro, extorsão e falsidade ideológica eleitoral.
+3. Andamento da ação penal a que responde o paciente
+sobrestado em writ impetrado em favor de corréu, a indicar uma
+possível revisão do posicionamento sobre a matéria, e a necessidade de
+uniformização da jurisprudência, missão institucional dos órgãos de
+cúpula do Poder Judiciário.
+4. O critério da especialidade, previsto nos arts. 78, IV, do CPP e
+35, II, do Código Eleitoral não tem o condão de modificar a
+competência absoluta constitucionalmente estabelecida, como é o caso
+da competência da Justiça Federal.
+5. Havendo conexão entre crimes comuns de natureza federal e
+crimes eleitorais, deve-se preservar a competência de cada Justiça – a
+Federal e a Eleitoral –, em seus respectivos campos de incidência, com
+a cisão da investigação ou ação penal. Adotar entendimento diverso,
+para manter a unidade processual, equivale a reconhecer maior força
+atrativa da jurisdição especial infraconstitucional, em detrimento da
+eficácia da norma constitucional, o que não é admitido no
+ordenamento jurídico pátrio.
+- Parecer pelo conhecimento do writ e pela denegação da ordem
+buscada”.
+
+10. Em 17.10.2019, neguei seguimento ao presente habeas corpus, com
+requerimento de medida liminar
+11. Publicada essa decisão no DJe de 22.10.2019, Thiago Soares de
+Godoy, por seus advogados, interpôs, em 28.10.2019, tempestivamente, o
+presente agravo regimental.
+12. O agravante alega que “o Ministério Público Eleitoral arvorou-se na
+competência federal e resolveu, por conta própria, instaurar procedimento para
+investigar fatos que já se encontravam sob jurisdição federal, cumprindo ordem
+do STF”.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A94C-3D93-7E44-ABE5 e senha 9772-59D7-79A9-A2AB
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 22
+
+HC 158593 AGR / RJ
+Sustenta que “a denúncia da ação penal 12-81 se encontra essencialmente
+fundamentada em instrumento de delação premiada celebrada pelo sr. Ricardo
+Saud, ex-executivo da empresa JBS, no âmbito da Operação Lava Jato,
+homologada nos autos da Petição 7.003/DF pelo Supremo Tribunal Federal, e que
+está sob suspeita, decorrente de todos os escândalos advindos da referida delação”.
+Afirma que “o que ocorreu foi a burla do direito fundamental ao Juiz
+Natural, a partir do momento no qual promotores eleitorais instauraram
+investigação com base em notícia jornalística sobre o referido compartilhamento
+de provas determinado pelo STF, passando a incluir, no bojo do inquérito, o tipo
+penal do art. 350, CE apenas para justificarem sua própria competência”.
+Aduz que “a Justiça Eleitoral é absolutamente incompetente para julgar a
+ação penal originária, e o processo está em curso, fadado ao insucesso, fazendo-se
+com que se processe e julgue uma causa natimorta”.
+Argumenta inexistir “a possibilidade constitucional ou legal da justiça
+eleitoral, fundamentando-se em um tipo penal (art. 350 do Código Eleitoral), com
+pena máxima equivalente a três anos, atrair para si acusação de crimes como o de
+extorsão (art. 158 CP), cuja pena é de quatro a dez anos de reclusão, assim como
+de lavagem de dinheiro, da Lei 9.613/98”.
+Defende que “tendo em vista, portanto, que o STF já autorizou o
+encaminhamento do procedimento oriundo da delação em tela à Procuradoria da
+República no Rio de Janeiro, com posterior instauração de procedimento baseado
+em veiculação jornalística; bem como que o artigo 350 do Código Eleitoral é
+crime meio, e menos grave, essencial à prática de outros imputados na denúncia,
+tem-se como completamente incompetente a Justiça Eleitoral, ofendendo-se de
+maneira direta o princípio do Juiz Natural, bem como ocasionando a
+possibilidade de um odioso bis in idem perante o Paciente e os demais réus da
+Ação Penal em comento”.
+Este o teor dos requerimentos e pedido:
+“Ante o exposto, requer-se:
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A94C-3D93-7E44-ABE5 e senha 9772-59D7-79A9-A2AB
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 22
+
+HC 158593 AGR / RJ
+a) Seja reconsiderada monocraticamente, ou provido o agravo
+interno pela col. Segunda Turma para que o habeas corpus tenha seu
+regular trâmite, tendo em vista que a problemática trazida na inicial
+não se confunde com precedente firmado nos autos do INQ 4435, já
+que o que aqui se expõe é que o MPE imputa delito eleitoral apenas
+para atrair competência inexistente; e que o compartilhamento das
+provas que geraram a ação penal 12-81.2017.6.19.0098 foi
+determinado pelo STF em favor da Justiça Federal do Rio de Janeiro, e
+não a Eleitoral, tendo o Parquet instaurado investigação apenas com
+base em matéria jornalística sobre o referido compartilhamento,
+utilizando-se do crime do art. 350 para justificar esta competência, o
+que configura absoluta violação ao princípio fundamental do Juiz
+Natural.
+b) Ao final, seja conhecido o writ, ou concedida a ordem de
+ofício, para determinar o trancamento e anulação integral da ação
+penal nº. 12-81.2017.6.19.0098, em virtude da flagrante
+incompetência da Justiça Eleitoral, consubstanciada nos fatos de que:
+(i) o STF remeteu o feito para a Justiça Federal do Rio de Janeiro; (ii)
+na subsidiariedade do tipo penal do artigo 350 do Código Eleitoral
+frente aos demais imputados; (iii) sua obrigatória utilização moderada,
+na qualidade de ‘soldado de reserva’; e (iv) os brilhantes fundamentos
+constantes do voto do e. Ministro Alexandre de Moraes no TSE e do e.
+Ministro Dias Toffoli na decisão liminar nos autos do HC
+157.467/RJ”.
+
+É o relatório.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A94C-3D93-7E44-ABE5 e senha 9772-59D7-79A9-A2AB
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 8 de 22
+
+13/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 158.593 RIO DE JANEIRO
+VOTO
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Razão jurídica não assiste ao agravante.
+2. O pedido apresentado é manifestamente
+jurisprudência dominante no Supremo Tribunal Federal.
+
+contrário
+
+à
+
+A ação penal de que cuidou o Tribunal Superior Eleitoral no acórdão
+objeto do presente habeas é a n. 12-81.2017.6.19.0098. O processo está em
+curso na Nonagésima Oitava Zona Eleitoral do Tribunal Regional
+Eleitoral do Rio de Janeiro.
+A competência assim definida pelos órgãos judiciais que se
+sucederam na análise do pleito do paciente guarda estrita conformidade
+com a jurisprudência prevalecente neste Supremo Tribunal, pacificada a
+partir do julgamento do Inquérito n. 4.435. Embora tenha votado vencida
+naquele julgamento, em respeito ao princípio da colegialidade, há que ser
+acatado por todos o que naquele julgamento se definiu e que está em
+consonância com o que se tem na espécie, a saber, a competência da
+Justiça Eleitoral para o processamento da ação contra o paciente.
+3. Ao receber a denúncia, o juízo de origem decidiu pela
+competência da Justiça Eleitoral para processar e julgar a ação penal por
+haver conexão entre os crimes comuns e o crime eleitoral narrado na
+denúncia:
+“(…) Entendo necessário esclarecer sobre a competência deste
+juízo para cognição e julgamento do feito.
+Conforme se observa da denúncia, há conexão entre crimes da
+competência da Justiça Eleitoral e crimes da Justiça Comum e, por tal,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 9 de 22
+
+HC 158593 A GR / RJ
+deve prevalecer a primeira como Especial, nos termos do disposto no
+artigo 78, inc. IV do CPP. (…)
+Por outro lado, de se aplicar ainda o disposto no artigo 78, lI,
+"á' do Estatuto Processual Penal, pois deve preponderar a jurisdição
+do local da infração com pena mais grave. Isto porque se denota da
+exordial acusatória que o delito com reprimenda mais grave é o
+previsto no artigo 158, § Iodo CP, possibilitada a causa de aumento de
+um terço à metade, e que foi praticado neste Município de Campos dos
+Goytacazes e, portanto, na circunscrição territorial da 98" Zona
+Eleitoral. Como bem salientou o MPE, ainda que se entenda ser mais
+grave o crime de corrupção passiva, tipificado no art. 317 do CP,
+firma-se a mesma competência jurisdicional pela aplicação do disposto
+no art. 78, lI, "b" do mesmo diploma legal, pois onde ocorreu o maior
+número de infrações penais, segundo se vislumbra na denúncia e se
+observa dos autos”.
+
+No julgamento do Habeas Corpus n. 182-07, o Tribunal Regional
+Eleitoral do Rio de Janeiro assentou a competência desta Justiça
+especializada para julgar o caso, em acórdão cuja ementa é a seguinte:
+“HABEAS
+CORPUS.
+PRISÃO
+PREVENTIVA
+DECRETADA. PRESENÇA DOS REQUISITOS LEGAIS
+INDISPENSÁVEIS À CUSTÓDIA PREVENTIVA, NOS TERMOS
+DO ART. 312 E DO ART. 313, INCISO I, DO CPP. DENEGAÇÃO
+DA ORDEM.
+1 – Habeas Corpus nº 182-07, tendo como objeto decreto
+prisional da lavra do Juízo da 98ª Zona Eleitoral (Campos dos
+Goytacazes). Colaboração premiada de altos executivos do Grupo
+econômico J&F(JBS S/A) no curso da operação lava-jato, que noticiou
+doação ilegal simulada através de contrato de prestação de serviços
+com uma empresa indicada pelo corréu Anthony Garotinho, do
+importe de R$ 3.000.000,00 (três milhões de reais) para a campanha
+deste ao Governo do Estado do Rio de Janeiro em 2014. Dinheiro que
+teria entrado como “caixa 2”. Fato noticiado pela imprensa nacional
+que levou a instauração de Inquérito Policial que embasou a Denúncia
+recebida pelo juízo eleitoral de Campos dos Goytacazes. Depoimento
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 10 de 22
+
+HC 158593 A GR / RJ
+do proprietário da empresa Ocean Link Solutions Ltda., informando
+que realizou o contrato simulado com a JBS, a fim de viabilizar o
+pagamento da verba ilícita para favorecer a campanha do réu.
+2 – Acusado que responde pelos crimes de falsidade ideológica
+em âmbito eleitoral, organização criminosa, corrupção passiva,
+extorsão e lavagem de dinheiro, tudo na forma dos artigos 69 e 29 do
+Código Penal.
+3 – Competência da Justiça Eleitoral que se reconhece. A Justiça
+Especializada atrai para julgamento os crimes comuns conexos aos
+eleitorais. Inteligência do art. 35, inciso II, do Código Eleitoral e do
+art. 78, inciso IV, do CPP.
+4 – Fumus commissi delicti. Robusto conjunto probatório,
+que conduz à conclusão que o réu, de fato, participou efetivamente do
+esquema, como longa manus do líder da organização criminosa (Sr.
+Anthony Garotinho), fazendo acordos para captação de verbas ilícitas,
+bem como executando as cobranças referentes a essas tratativas,
+conforme relato de distintos colaboradores, prova testemunhal e
+documental. Indícios concretos da ocorrência do ilícito penal.
+5 – Periculum libertatis. Garantia de ordem pública
+suficientemente fundamentada pelo Juízo de piso. Réu que exerce
+poder intimidativo sobre pessoas comuns e empresários, especialmente
+aquelas envolvidas nos fatos. Necessidade de se resguardar a
+integridade do colaborador e demais testemunhas. Imprescindível
+evitar a continuidade das atividades ilícitas da organização criminosa.
+6 – Periculum libertatis. Conveniência da instrução criminal.
+Práticas hostis empreendidas pelo grupo criminoso. Intimidação
+armada exercida contra as testemunhas e contra o colaborador.
+7 – Necessária contemporaneidade para a decretação da prisão
+preventiva. Instrução atual de fatos ocorridos em datas pretéritas.
+8 – Panorama fático-probatório que revela a insuficiência das
+medidas cautelares diversas da prisão. Manutenção da segregação
+preventiva da liberdade do paciente que preenche os requisitos
+indispensáveis, pela precisa satisfação das exigências insculpidas nos
+artigos 312 e 313, inciso I, do Código de Processo Penal.
+9 – Tendo em vista que o paciente é advogado regularmente
+inscrito na OAB, determino seja observada a prerrogativa disposta no
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 11 de 22
+
+HC 158593 A GR / RJ
+art. 7º, V da Lei 8.906/94 (Estatuto da OAB).
+Concessão parcial da ordem”.
+
+No Habeas Corpus n. 0604296-17.2017.6.00.0000, o Tribunal Superior
+Eleitoral concedeu, em parte, a ordem para revogar a prisão preventiva
+do paciente e manteve a competência da Justiça Eleitoral para
+processamento da causa, nos termos definidos por este Supremo Tribunal
+na matéria:
+“HABEAS CORPUS. ELEIÇÕES 2010 (DEPUTADO
+FEDERAL), 2012 (PREFEITO), 2014 (GOVERNADOR) E 2016
+(PREFEITO). AÇÃO PENAL. FALSIDADE IDEOLÓGICA PARA
+FINS ELEITORAIS (ART. 350 DO CÓDIGO ELEITORAL).
+CORRUPÇÃO PASSIVA (ART. 317 DO CP). EXTORSÃO (ART.
+158, § 1º, DO CP). LAVAGEM DE DINHEIRO (ART. 1º DA LEI
+9.613/98). DECRETAÇÃO. PRISÃO PREVENTIVA (ART. 312 DO
+CPP).
+1. Trata-se de habeas corpus impetrados em favor de Anthony
+Garotinho (candidato a Governador do Rio de Janeiro nas Eleições
+2014 e Presidente estadual do Partido da República); Rosinha
+Garotinho (Prefeita de Campos dos Goytacazes/RJ de 2009 a 2016);
+Antonio Carlos Rodrigues (Presidente do Diretório Nacional);
+Fabiano Rosas Alonso (genro de Antonio Carlos); Thiago Soares de
+Godoy (coordenador financeiro das campanhas de Rosinha em 2012 e
+de Anthony em 2014, ex-Subsecretário Municipal de Governo e
+suplente de Vereador) e Suledil Bernardino da Silva (ex-Secretário
+Municipal de Controle, de Governo e de Fazenda) contra ato em tese
+coator do TRE/RJ que, ao apreciar habeas corpus, determinou o
+monitoramento eletrônico de Rosinha e manteve as prisões
+preventivas dos demais pacientes decretadas pelo Juiz da 98ª Zona
+Eleitoral/RJ (ao receber denúncia na AP 12-81).
+2. Os pacientes e outros dois réus foram denunciados por
+esquema na Prefeitura de Campos dos Goytacazes/RJ, nos mandatos
+de Rosinha Garotinho de 2009 a 2016, ao condicionarem a liberação de
+verbas devidas a empresas locais – por obras e serviços prestados – a
+contribuições nas Eleições 2010 (Anthony; Deputado Federal), 2012
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 12 de 22
+
+HC 158593 A GR / RJ
+(Rosinha; reeleição), 2014 (Governo do Estado) e 2016 (Francisco
+Arthur, aliado do clã Garotinho, para Prefeito), omitindo-se os valores
+das contas de campanha. A denúncia fundou-se nos delitos de
+falsidade ideológica para fins eleitorais (art. 350 do Código Eleitoral),
+extorsão (art. 158, § 1º, do CP), corrupção passiva (art. 317 do CP) e
+lavagem de dinheiro (art. 1º da Lei 9.613/98).
+PRELIMINAR. WRIT SUBSTITUTIVO DE RECURSO
+ORDINÁRIO. CABIMENTO. NOVEL ENTENDIMENTO DO
+SUPREMO TRIBUNAL FEDERAL.
+3. A teor do novel entendimento da c. Suprema Corte, é cabível a
+impetração de habeas corpus, inclusive como sucedâneo recursal, na
+hipótese de flagrante constrangimento ilegal.
+COMPETÊNCIA.
+JUSTIÇA
+ELEITORAL.
+CRIMES
+ELEITORAIS E COMUNS QUE LHES FOREM CONEXOS.
+ARTS. 35, II, DO CÓDIGO ELEITORAL E 78, II, DO CPP.
+4. O art. 35, II, do Código Eleitoral – que segue a sistemática do
+art. 78, IV, do CPP – é expresso quanto à competência desta Justiça
+Especializada para processar e julgar os crimes eleitorais e os comuns
+que lhes forem conexos. Precedentes desta Corte Superior, dentre eles o
+HC 0603111-41/RJ, Rel. Min. Tarcisio Vieira de Carvalho Neto, DJE
+de 14.2.2017.
+5. Descabe examinar nesta seara a alegação de que o “caixa
+dois” em processo de contas representa mero exaurimento dos crimes
+anteriores, porquanto o habeas corpus – remédio constitucional de rito
+célere e cognição sumária – demanda que se comprove de plano o
+constrangimento ilegal. Precedentes.
+ARGUIÇÃO.
+SUSPEIÇÃO.
+JUIZ
+ELEITORAL.
+SUPRESSÃO DE INSTÂNCIA. DILAÇÃO PROBATÓRIA. NÃO
+CONHECIMENTO.
+6. Incabível conhecer da alegada suspeição do magistrado de
+primeiro grau, pois a matéria demanda dilação probatória e, ademais,
+não fora decidida pelo TRE/RJ, de modo que haveria, no caso,
+supressão de instância. Precedentes.
+PRESTAÇÃO
+DE
+CONTAS.
+DOCUMENTO
+DE
+NATUREZA PÚBLICA. RECLUSÃO DE ATÉ CINCO ANOS.
+ART. 350 DO CÓDIGO ELEITORAL. AUSÊNCIA. AFRONTA.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 13 de 22
+
+HC 158593 A GR / RJ
+ART. 313, I, DO CPP.
+7. A prestação de contas é conceituada por este Tribunal e pela c.
+Suprema Corte como documento de natureza pública. Assim, na
+hipótese do crime de falsidade ideológica para fins eleitorais em
+processo contábil, a pena é de até cinco anos de reclusão (art. 350 do
+CPP), inexistindo afronta ao art. 313, I, do CPP.
+TEMA DE FUNDO. PRISÃO PREVENTIVA. REQUISITOS.
+CONVENIÊNCIA DA INSTRUÇÃO. FALTA. REFERÊNCIA. ATO
+CONCRETO. GARANTIA DA ORDEM PÚBLICA. ELEIÇÕES
+FINDAS. PREFEITURA GERIDA POR ADVERSÁRIOS
+POLÍTICOS.
+8. Decreta-se a prisão preventiva somente quando não for
+cabível sua substituição por outra medida cautelar e quando
+efetivamente se mostrar necessária e adequada às circunstâncias em
+que cometido o delito e às condições pessoais do agente. Exegese do art.
+282, § 6º, do CPP.
+9. De início, chama a atenção o fato de que o Parquet, ao
+requerer a medida segregadora, mencionou de modo expresso apenas
+os pacientes Anthony Garotinho, Rosinha Garotinho e Antonio Carlos
+Rodrigues, sem nenhuma referência aos demais.
+10. Quanto à conveniência da instrução, o juiz zonal apontou
+que colaboradores e testemunhas estariam sendo coagidos, sem, porém,
+especificar que elementos concretos e contemporâneos evidenciariam
+tais condutas.
+11. Com efeito, após assentar que “o instituto da prisão
+preventiva [...] está mais forte do que nunca no cenário jurídico”,
+consignou apenas que: a) o réu Antônio Carlos Ribeiro, policial civil
+aposentado, teria poder intimidativo perante os empresários que
+integraram o suposto esquema; b) “o réu Ney Flores era [...]
+coordenador de campanha do réu Anthony Garotinho, tendo por isso
+ampla ascendência intimidatória”; c) o réu Garotinho “detém
+considerável e inafastável poder sobre pessoas, incluindo empresários
+que se sentem intimidados por suas ordens”, sem especificar, repita-se,
+atos concretos e contemporâneos que justifiquem a segregação.
+12. De outra parte, o próprio colaborador André Luiz assentou
+que não se sentiu ameaçado quando o paciente Suledil Bernardino
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 14 de 22
+
+HC 158593 A GR / RJ
+questionou-lhe “se a família dele está bem”.
+13. No que toca à garantia da ordem pública, apontou-se o
+seguinte quadro: a) possibilidade de se reiterar a conduta, com
+extorsão de empresários que mantêm contratos com a Prefeitura em
+troca de repasses a campanhas; b) os réus Antonio Carlos Rodrigues e
+Anthony Garotinho presidem, respectivamente, os órgãos nacional e
+regional do Partido da República (PR).
+14. No entanto, tem-se que o grupo político do clã Garotinho –
+que, por Rosinha Garotinho, dirigiu a Prefeitura de Campos dos
+Goytacazes/RJ por oito anos – não se elegeu em 2016. Assim, havendo
+solução de continuidade no Poder Executivo, não há indicativo de que
+os réus persistem nos ilícitos.
+15. Da mesma forma, o réu Antonio Carlos Rodrigues em tese
+operou no esquema objeto da denúncia apenas em 2014 (campanha de
+Anthony Garotinho ao governo do Rio de Janeiro) e, ainda assim, de
+modo relutante, conforme se infere das declarações de Ricardo Saud,
+executivo do grupo J&F (JBS S/A), no curso do inquérito. Em suma,
+trata-se em princípio de conduta restrita a pleito majoritário findo há
+mais de três anos.
+CONCESSÃO PARCIAL DA ORDEM. REVOGAÇÃO.
+PRISÃO
+PREVENTIVA.
+SUBSTITUIÇÃO.
+MEDIDA
+CAUTELAR. ART. 319, III, DO CPP.
+16. Ordem parcialmente concedida para substituir a prisão
+preventiva dos pacientes pela providência cautelar alternativa prevista
+no art. 319, III, do CPP, proibindo-se contato com as testemunhas
+(excetuando-se a medida quanto ao paciente Thiago Soares de Godoy,
+vencido no ponto este Relator), estendendo-se os efeitos da decisão aos
+corréus em igual situação, Ney Flores Braga e Antonio Carlos Ribeiro
+da Silva, na forma do artigo 580 do referido diploma”.
+
+4. Como antes anotado, quanto à competência da Justiça Eleitoral o
+decidido nas instâncias antecedentes harmoniza-se com o entendimento
+firmado pelo Plenário deste Supremo Tribunal no julgamento do
+Inquérito n. 4.435:
+“Decisão: O Tribunal, por maioria e nos termos do voto do
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 15 de 22
+
+HC 158593 A GR / RJ
+Ministro Marco Aurélio (Relator), no que foi acompanhado pelos
+Ministros Alexandre de Moraes, Ricardo Lewandowski, Gilmar
+Mendes, Celso de Mello e Dias Toffoli (Presidente), manteve sua
+jurisprudência e deu parcial provimento ao agravo interposto pelos
+investigados para: i) no tocante ao fato ocorrido em 2014, reconsiderar
+a decisão recorrida e assentar a competência do Supremo Tribunal
+Federal; e ii) quanto aos delitos supostamente cometidos em 2010 e
+2012, declinar da competência para a Justiça Eleitoral do Estado do
+Rio de Janeiro; e julgou prejudicado o agravo regimental interposto
+pela Procuradoria-Geral da República, no que voltado à fixação da
+competência da Justiça Federal, relativamente ao delito de evasão de
+divisas, vencidos os Ministros Edson Fachin, Roberto Barroso, Rosa
+Weber, Luiz Fux e Cármen Lúcia, que davam parcial provimento aos
+agravos regimentais interpostos pela Procuradoria-Geral da República
+e pelos investigados para cindir os fatos apurados neste inquérito e
+determinar a remessa de cópia dos autos à Justiça Eleitoral do Estado
+do Rio de Janeiro para apuração, mediante livre distribuição, dos
+supostos crimes de falsidade ideológica eleitoral ocorridos nos anos de
+2010, 2012 e 2014 (sendo que, quanto aos fatos ocorridos no ano de
+2014, os Ministros que divergiram do Relator negavam provimento ao
+recurso por entenderem ser incompetente o STF) e, ainda, determinar
+o encaminhamento dos autos à Seção Judiciária do Rio de Janeiro para
+apuração, mediante livre distribuição, dos supostos crimes de
+corrupção ativa, corrupção passiva, lavagem de capitais e evasão de
+divisas ocorridos no ano de 2012. Plenário, 14.03.2019” (DJe
+28.3.2019).
+
+A Segunda Turma deste Supremo Tribunal também acatou a
+orientação jurisprudencial de que os crimes eleitorais e os conexos de
+competência da Justiça comum devem ser julgados pela Justiça
+especializada, nos termos do inc. II do art. 35 do Código Eleitoral e no inc.
+IV do art. 78 do Código de Processo Penal.
+5. Contudo, alega o agravante que “o que ocorreu foi a burla do direito
+fundamental ao Juiz Natural, a partir do momento no qual promotores eleitorais
+instauraram investigação com base em notícia jornalística sobre o referido
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 16 de 22
+
+HC 158593 A GR / RJ
+compartilhamento de provas determinado pelo STF, passando a incluir, no bojo
+do inquérito, o tipo penal do art. 350, CE apenas para justificarem sua própria
+competência”.
+Tem-se dos autos que o paciente foi denunciado, em conjunto com
+outros acusados, pela prática, em tese, dos crimes de organização
+criminosa, corrupção passiva, falsidade ideológica eleitoral, extorsão e
+lavagem de dinheiro. A denúncia é peça técnica e nela se atribui a
+determinada pessoa a responsabilidade penal por determinado fato. Há
+de conter "a exposição do fato criminoso, com todas as suas circunstâncias",
+com adequada indicação da conduta ilícita imputada ao réu, para
+propiciar-lhe o pleno exercício do direito de defesa (art. 41 do Código de
+Processo Penal).
+Denúncia é proposta de demonstração de prática de fato típico e
+antijurídico imputado a determinada pessoa, sujeita à efetiva
+comprovação e contradita e, como assentado na jurisprudência, somente
+pode ser rejeitada quando a) não houver indícios da ocorrência de crime;
+b) de início, seja possível reconhecer, indubitavelmente, a inocência do
+acusado; ou c) não houver pelo menos indícios de sua participação.
+Descritos na denúncia comportamentos típicos, ou seja, factíveis e
+obviados os indícios de autoria e materialidade delitivas, como se tem na
+espécie vertente, não se pode retirar, neste momento processual, uma ou
+algumas das imputações. Assim, por exemplo:
+“Embargos de declaração em habeas corpus. Decisão
+monocrática. Embargos de declaração recebidos como agravo
+regimental. 2. Crime contra a ordem tributária. 3. Trancamento da
+Ação Penal. Carência de justa causa. 4. Inépcia da denúncia por
+ausência de individualização das condutas. Não ocorrência.
+Preenchimento dos requisitos do art. 41 do CPP. 5. Descrição mínima
+dos fatos e de suas circunstâncias. Constrangimento ilegal não
+caracterizado. 6. Ausência de argumentos capazes de infirmar a
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 17 de 22
+
+HC 158593 A GR / RJ
+decisão agravada. 7. Agravo regimental a que se nega provimento”
+(HC n. 149.337-ED, Relator o Ministro Gilmar Mendes, DJe
+9.10.2018).
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL EM
+HABEAS CORPUS. CRIMES CONTRA A ORDEM
+TRIBUTÁRIA. TRANCAMENTO DE AÇÃO PENAL. INÉPCIA
+DA DENÚNCIA.1. O trancamento da ação penal, por meio do
+habeas corpus, só é possível quando estiverem comprovadas, de
+plano, a atipicidade da conduta, a extinção da punibilidade ou a
+evidente ausência de justa causa (HC 103.891, Redator para o acórdão
+o Min. Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto;
+HC 81.648, Rel. Min. Ilmar Galvão; HC 118.066-AgR, Relª. Minª.
+Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux).2. No caso de que se
+trata, inexiste razão para a superação dessa orientação restritiva. Da
+leitura da denúncia e das demais peças de informação que instruem o
+recurso, não se visualiza, de plano, a alegada inépcia da inicial
+acusatória. 3. Agravo regimental a que se nega provimento” (HC n.
+137738-AgR, Relator o Ministro Roberto Barroso, DJe 21.5.2018).
+
+Na mesma linha: HC n. 84.776, Relator o Ministro Eros Grau, DJ
+28.10.2004; HC n. 80.954, Relator o Ministro Sydney Sanches, DJ 5.4.2002;
+HC n. 81.517, Relator o Ministro Maurício Corrêa, DJ 14.6.2002; e HC n.
+82.393, Relator o Ministro Celso de Mello, DJ 22.8.2003.
+Diante do exposto, para acolher a alegação do agravante de que a
+conduta de falsidade ideológica eleitoral atribuída ao paciente se deu com
+o único objetivo de se fixar a competência da Justiça Eleitoral, sem lastro
+probatório adequado, e que, portanto, tal imputação não deveria
+subsistir, seria necessário reexaminar os fatos e as provas dos autos e
+cotejá-los com o conteúdo da denúncia, situação que não se coaduna com
+a via estreita do habeas corpus.
+6. Menciona o agravante, ainda, que os termos do colaborador
+Ricardo Saud estariam na base da denúncia recebida e processada como
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 18 de 22
+
+HC 158593 A GR / RJ
+ação penal. Anota que aqueles termos teriam sido remetidos para a
+Justiça Federal do Rio de Janeiro por ordem deste Supremo Tribunal.
+Entretanto, não noticia o impetrante identidade de investigação ou
+de ação paralela contra o paciente neste momento nem comprova algo
+além da remessa dos termos de colaboração para os órgãos da Justiça
+Federal competente.
+Termos de colaboração premiada, entretanto, podem dar origem a
+investigações ou a ações penais. Também podem não conduzir a qualquer
+processamento judicial. Os termos de colaboração premiada são notícias
+de fato que podem, ou não, se desdobrar em procedimentos referentes a
+alguém mencionado, como podem a não conduzir a qualquer ato ou
+procedimento.
+A Ação Penal n. 12-81.2017.6.19.0098 a que responde o paciente
+partiu da mesma colaboração mencionada por ele e que teria tido os seus
+termos enviado à Justiça Federal, pelo que se noticia nos autos deste
+habeas.
+Todavia, foram os fatos investigados e denunciados especificamente
+em relação ao paciente que levaram ao processamento da ação penal em
+curso na Justiça Eleitoral, competente para conhecer e julgar a matéria.
+Confiram-se, por exemplo, os seguintes precedentes:
+“Agravo regimental. Petição. Doações eleitorais por meio de
+caixa dois. Fatos que poderiam constituir crime eleitoral de falsidade
+ideológica (art. 350 do Código Eleitoral). Competência da Justiça
+Eleitoral. Crimes conexos de competência da Justiça Comum.
+Irrelevância. Pretendido reconhecimento da competência das Seções
+Judiciárias do Distrito Federal ou do Estado de São Paulo. Não
+cabimento. Prevalência da Justiça Especial (art. 35, II, do Código
+Eleitoral e art. 78, IV, do Código de Processo Penal). Precedentes.
+Possível falsidade ideológica relativa a pleito presidencial. Prestação de
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 19 de 22
+
+HC 158593 A GR / RJ
+contas realizada perante o Tribunal Superior Eleitoral. Competência
+territorial do Distrito Federal. Agravo regimental não provido.
+Competência absoluta. Matéria de ordem pública. Remessa, de ofício,
+dos termos de colaboração premiada ao Tribunal Regional Eleitoral do
+Distrito Federal. Determinação que não firma, em definitivo, a
+competência do juízo indicado. Investigação em fase embrionária.
+Impossibilidade, em sede de cognição sumária, de se verticalizar a
+análise de todos os aspectos concernentes à declinação de
+competência” (Pet n. 6533 AgR, Relator o Ministro Edson Fachin,
+Redator para acórdão o Ministro Dias Toffoli, Segunda Turma,
+DJe 4.12.2018).
+“Agravo regimental. Petição. Doações eleitorais por meio de
+caixa dois. Fatos que poderiam constituir crime eleitoral de falsidade
+ideológica (art. 350 do Código Eleitoral). Competência da Justiça
+Eleitoral. Crimes conexos de competência da Justiça Comum.
+Irrelevância. Pretendido reconhecimento da competência da Seção
+Judiciária do Distrito Federal ou do Estado de São Paulo. Não
+cabimento. Prevalência da Justiça Especial (art. 35, II, do Código
+Eleitoral e art. 78, IV, do Código de Processo Penal). Precedentes.
+Possível falsidade ideológica relativa a pleito presidencial. Prestação de
+contas realizada perante o Tribunal Superior Eleitoral. Competência
+territorial do Distrito Federal. Agravo regimental não provido.
+Competência absoluta. Matéria de ordem pública. Remessa, de ofício,
+dos termos de colaboração premiada ao Tribunal Regional Eleitoral do
+Distrito Federal. Determinação que não firma, em definitivo, a
+competência do juízo indicado. Investigação em fase embrionária.
+Impossibilidade, em sede de cognição sumária, de se verticalizar a
+análise de todos os aspectos concernentes à declinação de competência.
+1. A Segunda Turma do Supremo Tribunal Federal firmou o
+entendimento de que, nos casos de doações eleitorais por meio de caixa
+2 - fatos que poderiam constituir o crime eleitoral de falsidade
+ideológica (art. 350, Código Eleitoral) -, a competência para processar
+e julgar os fatos é da Justiça Eleitoral (PET nº 6.820/DF-AgR-ED,
+Relator para o acórdão o Ministro Ricardo Lewandowski, DJe de
+23/3/18).
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 20 de 22
+
+HC 158593 A GR / RJ
+2. A existência de crimes conexos de competência da Justiça
+Comum, como corrupção passiva e lavagem de capitais, não afasta a
+competência da Justiça Eleitoral, por força do art. 35, II, do Código
+Eleitoral e do art. 78, IV, do Código de Processo Penal.
+3. Tratando-se de possível crime de falsidade ideológica relativo a
+pleito presidencial, em que a prestação de contas é feita perante o
+Tribunal Superior Eleitoral, o foro territorialmente competente deve
+ser o do Distrito Federal.
+4. Como a investigação se encontra em fase embrionária e diante
+da impossibilidade, em sede de cognição sumária, de se verticalizar a
+análise de todos os aspectos concernentes à declinação de competência,
+o encaminhamento de termos de colaboração não firmará, em
+definitivo, a competência do juízo indicado, devendo ser observadas as
+regras de fixação, de modificação e de concentração de competência,
+respeitando-se, assim, o princípio do juiz natural (Inq nº 4.130/PRQO, Pleno, de minha relatoria, DJe de 3/2/16).
+5. A competência absoluta é matéria de ordem pública, razão por
+que, não obstante o objeto do agravo regimental seja tão somente a
+pretendida fixação da competência da Seção Judiciária do Distrito
+Federal ou de São Paulo, nada obsta que, de ofício, se disponha a seu
+respeito.
+6. Agravo regimental não provido. Determinação, de ofício, de
+remessa dos termos de colaboração premiada ao Tribunal Regional
+Eleitoral do Distrito Federal, para posterior encaminhamento ao juízo
+de primeiro grau competente” (Pet n. 6986 AgR, Relator o Ministro
+Edson Fachin, Redator para acórdão o Ministro Dias Toffoli,
+Segunda Turma, DJe 20.6.2018).
+
+7. Conquanto alguns fatos apurados na ação penal n. 1281.2017.6.19.0098 tenham sido extraídos da colaboração premiada de
+Ricardo Saud, não se há cogitar de usurpação da competência deste
+Supremo Tribunal, assente na jurisprudência atualmente prevalecente o
+entendimento de que, “ainda que válidos os elementos de informação trazidos
+pelo colaborador, relativamente a outros crimes que não sejam objeto da
+investigação matriz, há que se ressaltar que o acordo de colaboração, como meio
+de obtenção de prova, não constitui critério de determinação, de modificação ou
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 21 de 22
+
+HC 158593 A GR / RJ
+de concentração de competência. Vale dizer: ainda que o agente colaborador
+aponte a existência de outros crimes e que o juízo perante o qual foram prestados
+seus depoimentos ou apresentadas as provas que corroborem suas declarações
+ordene a realização de diligências (interceptação telefônica, busca e apreensão
+etc.) para sua apuração, esses fatos, por si sós , não firmam sua prevenção” (Inq.
+n. 4.130 QO, Relator o Ministro Dias Toffoli, Tribunal Pleno, DJe 3.2.2016).
+De resto, deve-se anotar ter sido este Supremo Tribunal que
+determinou a remessa de alguns dos termos extraídos daquela
+colaboração para os órgãos judiciais competentes para as providências
+juridicamente necessárias.
+8. Pelo exposto, nego provimento ao agravo regimental.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC46-BA71-F079-DCA9 e senha B532-DE1A-6F0F-843C
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/12/2019
+
+Inteiro Teor do Acórdão - Página 22 de 22
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 158.593
+PROCED. : RIO DE JANEIRO
+RELATORA : MIN. CÁRMEN LÚCIA
+AGTE.(S) : THIAGO SOARES DE GODOY
+ADV.(A/S) : FERNANDO AUGUSTO HENRIQUES FERNANDES (33007/DF,
+108329/RJ, 271947/SP) E OUTRO(A/S)
+AGDO.(A/S) : TRIBUNAL SUPERIOR ELEITORAL
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto da Relatora. Segunda Turma, Sessão
+Virtual de 6.12.2019 a 12.12.2019.
+Composição: Ministros Cármen Lúcia (Presidente), Celso de
+Mello, Gilmar Mendes, Ricardo Lewandowski e Edson Fachin.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 35B7-4A42-9B50-A254 e senha 8E41-3FD9-CA10-71FA
