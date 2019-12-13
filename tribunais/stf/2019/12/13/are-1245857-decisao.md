@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “EXECUÇÃO FISCAL – REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE – AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA ESSA DECISÃO. IPTU E TAXAS MUNICIPAIS – ISENÇÃO CONCEDIDA MEDIANTE ATO ADMINISTRATIVO, POR PRAZO INDETERMINADO – AUSÊNCIA DE REVOGAÇÃO POR ATO ADMINISTRATIVO – VIGÊNCIA DO BENEFÍCIO. MULTAS ADMINISTRATIVAS – NATUREZA NÃO TRIBUTÁRIA – NÃO ABRANGÊNCIA PELA ISENÇÃO. EXTINÇÃO PARCIAL DA EXECUÇÃO, PROSSEGUINDO-SE COM RELAÇÃO ÀS MULTAS – DECISÃO REFORMADA EM PARTE.
+    Agravo parcialmente provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Impende registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido  pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    É que o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional e Código de Processo Civil), o que torna incognoscível o apelo extremo.
+    Convém observar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático- -probatórios:
+    “De fato, foi concedida a isenção do imposto, assim como das taxas, por decisão administrativa, como se verifica a fls. 49/51.
+    Ressalte-se que, ao contrário do afirmado na r. decisão recorrida, há evidências suficientes de que o ato administrativo concessivo de isenção abrange o imóvel sobre o qual pendem os débitos exequendos. Com efeito, a decisão administrativa beneficia os "Proprietários Moradores do Jardim Ismênia", sendo que o imóvel do agravante situa-se no Bairro Jardim lsmênia, conforme registrado na petição inicial e CDAs (fls. 18/23).
+    …..................................................................................................
+    É possível a revogação da isenção a qualquer tempo, conforme prescreve o art. 178 do CTN. Entretanto, se o beneficio é concedido mediante lei, como impõe o art. 176, a revogação deverá ocorrer igualmente por lei, nos termos do mencionado art. 178.
+    …...................................................................................................
+    Na hipótese, a isenção foi concedida por ato administrativo, o que é autorizado pelo art. 179 do CTN, quando se tratar de concessão em caráter específico, como ocorre no caso.
+    …...................................................................................................
+    Não obstante a aplicabilidade da isenção, observe-se que a execução fiscal tem como objeto também multas por não ter o executado procedido à ‘reforma do passeio’, como se denota das CDAs de fls. 22 e 23.
+    …...................................................................................................
+    De rigor, pois, a procedência parcial da exceção de pré-executividade, com a consequente extinção da execução fiscal quanto aos créditos tributários, representados pelas CDAs de fls. 03/05 dos autos principais, nos termos dos artigos 267, IV, 586 e 618, I, todos do Código de Processo Civil e 1º da Lei de Execuções Fiscais, prosseguindo a execução com relação às multas administrativas.”
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 13 de dezembro de 2019.
+Ministro CELSO DE MELLO
+Relator
