@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de reclamação ajuizada em face de ato praticado pelo Juízo da 4ª Vara do Trabalho de Teresina, que, ao julgar reclamação trabalhista considerando constitucional a cobrança compulsória da contribuição sindical, teria violado o disposto na Súmula Vinculante nº 40.
+    Segundo as partes reclamantes, na origem, foi apresentada reclamação trabalhista questionando a legalidade do desconto da contribuição sindical em folha de pagamento e com autorização obtida por meio de assembleia geral da categoria.
+    Aduz-se que o ato reclamado está em desacordo com a atual jurisprudência desta Casa que, não obstante a existência da Súmula Vinculante nº 40, considerou constitucional uma contribuição negocial em favor do Sindicatos dos Bancários do PI, autorizando a cobrança compulsória em folha de pagamento dos autores. Aduz-se:
+    “Tal decisão fora prolatada de forma irregular, pois confrontou o posicionamento consolidado por este Tribunal, que veda o desconto sob qualquer denominação a não sindicalizados e retirou o caráter tributário, portanto compulsório de tais sinecuras (…). ”
+    Nesse contexto, requer seja cassada a decisão reclamada para preservação do entendimento consolidado na Súmula Vinculante nº 40.
+    Solicitei informações (eDOC 7) as quais não foram prestadas (eDOC 10).
+    A Procuradoria-Geral da República emitiu parecer pelo não conhecimento da ação e, no mérito, pela improcedência do pedido (eDOC 11).
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A matéria também veio disciplinada pelo Novo Código de Processo Civil, que, no art. 988, prevê as hipóteses de seu cabimento, in verbis:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016)
+    I - proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016)
+    II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias. (Incluído pela Lei nº 13.256, de 2016)
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.”
+    Ademais, a relação de pertinência estrita entre o ato reclamado e o parâmetro de controle é requisito indispensável para o cabimento de reclamação, não sendo possível a sua utilização como sucedâneo recursal. Nesse sentido: Rcl 7.082 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.12.2014; Rcl 11.463 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.2.2015; Rcl 15.956 ED, Rel. Min. Teori Zavascki, Segunda Turma, DJe 5.3.2015; Rcl 12.851 AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe 26.3.2015, entre outros.
+    No caso concreto, a pretensão da parte reclamante tem como causa de pedir o alegado descumprimento da Súmula Vinculante nº 40, cujo teor é o seguinte: “A contribuição confederativa de que trata o artigo 8º, IV, da Constituição Federal, só é exigível dos filiados ao respectivo sindicato”.
+    A análise do parâmetro constitucional de controle reforça a conclusão de que a norma que dele exsurge relaciona-se, unicamente, com a Contribuição Confederativa, cujo objetivo é o custeio do sistema confederativo, sendo devido, obrigatoriamente, somente aos filiados ao respectivo sindicato da categoria.
+    E, no caso, como se extrai da documentação trazidas aos autos, o ato ora reclamado é, por conseguinte, ato que autoriza o desconto de contribuição sindical, prevista na parte final do artigo 8º, IV, da Constituição Federal. Vejamos o que diz o ato reclamado (eDOC 3, p. 4):
+    “Destarte, os autores não têm razão em apontar pretensa ilegalidade no desconto em sua remuneração da contribuição sindical informada nos autos e, consequente, pedido de restituição em dobro.
+    Como visto, o desconto tem assento Constitucional (art. 8º, inc. IV), bem como a deliberação coletiva em assembleia geral da categoria profissional (poderes implícitos da assembleia), de modo que a exigência legal disposta no art. 545 da CLT é atendida pela deliberação coletiva em comento.
+    Inexistindo, portanto, inconstitucionalidade ou ilegalidade na exação da contribuição sindical no modo pelo qual noticiado nos autos, não são as entidades demandadas obrigadas a procederem à restituição de valores em favor dos autores e menos ainda ao pagamento em dobro, como deduzido na inicial.”
+    Portanto, como se depreende, a situação específica narrada nos autos em nenhum momento foi tratada na Súmula Vinculante nº 40, razão pela qual ela não guarda relação de estrita pertinência com o ato reclamado, necessária ao cabimento da reclamação. Reforço, por oportuno, inadmissível a utilização da reclamação como sucedâneo recursal. Nesse sentido:
+    “AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL. AÇÃO DE IMPROBIDADE. PRESCRITIBILIDADE DA PRETENSÃO DE RESSARCIMENTO AO ERÁRIO EM FACE DE AGENTES PÚBLICOS POR ATO DE IMPROBIDADE ADMINISTRATIVA. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. IMPOSSIBILIDADE DO USO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO INTERNO DESPROVIDO. 1. A reclamação não pode ser utilizada como um atalho processual destinado à submissão imediata do litígio ao exame direto desta Suprema Corte, não se caracterizando como sucedâneo recursal. Precedentes: Rcl 10.036-AgR, rel. Min. Joaquim Barbosa, Plenário, DJe 1º/2/2012; Rcl 4.381-AgR, rel. Min. Celso de Mello, Plenário, DJe 5/8/2011. 2. Agravo interno desprovido.”
+    (Rcl 24639-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 09-06-2017).
+    “Agravo regimental na reclamação. ADI nºs 2.356/DF e 2.362/DF. Inexistência de identidade de temas entre o ato reclamado e o paradigma da Corte. Uso da via reclamatória como sucedâneo recursal. Agravo regimental ao qual se nega provimento. 1. Reclamação usada como sucedâneo de recurso a ser desenvolvido pelos meios ordinários nas ações paradigmas ou pelos respectivos graus no MS nº 0000466-54.2014.404.0000. 2. Há necessidade de aderência estrita do objeto do ato reclamado ao conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes para que seja admitida a reclamatória constitucional. Precedentes. 3. Agravo regimental não provido.”
+    (Rcl 19687-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe PUBLIC 07-04-2017).
+    Ante o exposto, nos termos dos art. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 13 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
