@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de incidente de suspensão de liminar proposto pela Câmara Municipal da Estância de Águas de Lindoia -SP, para sustar os efeitos da decisão proferida pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, nos autos da ADI nº 2064881-88.2019.8.26.0000, em que se questiona a criação de cargos comissionados na estrutura administrativa do Poder Legislativo.
+    O requerente alega que a referida ação direta de inconstitucionalidade foi julgada procedente, tendo o acórdão assentado a inconstitucionalidade do regime jurídico e do cargo de provimento em comissão de assessor jurídico da Presidência da Câmara do Municipal da Estância de Águas de Lindoia, modulando prospectivamente os efeitos da decisão.
+    Afirma que a decisão viola à ordem pública na sua acepção administrativa. Por fim, aduz que estão presentes os requisitos para a concessão da medida de urgência.
+    É o relato do necessário. Passo a decidir.
+    A suspensão de liminar é um incidente processual de proteção do interesse público maior, suscitado em ações propostas contra o Poder Público. Sua finalidade precípua é sustar a eficácia de pronunciamento judicial que comprometa à ordem, à saúde, à economia ou à segurança públicas.
+    Em razão das especificidades do instituto da suspensão de liminar, não se examina a juridicidade da decisão impugnada, nem se pretende, em juízo de probabilidade e verossimilhança, invalidá-la ou reformá-la, mas apenas suspender seus efeitos.
+    Os artigos 1º, da Lei nº 9.494/1997 e 4º, da Lei nº 8.437/1992 disciplinam os pedidos de suspensão de execução liminar e demais decisões, formulados pelo Ministério Público ou pela pessoa jurídica de direito público interessada, em ações propostas contra o Poder Público, nos casos de manifesto interesse público ou de flagrante ilegitimidade, assim como para evitar grave lesão à ordem, à saúde, à segurança ou à economia públicas.
+    Preliminarmente, importa ressaltar que a admissibilidade do incidente de suspensão de liminar exige a necessidade demonstração da legitimidade ativa ad causam pelo requerente.
+    No presente caso, o incidente foi suscitado pela Câmara Municipal da Estância de Águas de Lindoia -SP, para sustar os efeitos da decisão proferida pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, nos autos da ADI nº 2064881-88.2019.8.26.0000, em que se questiona a criação de cargos comissionados na estrutura administrativa do Poder Legislativo.
+    Embora as Câmaras Municipais tenham importância fundamental na estrutura constitucional dos Municípios, não se lhe reconhece, em regra, a legitimidade processual ativa para propor o incidente de suspensão de liminar.
+    Em estudo clássico sobre o tema da legitimidade para agir no direito processual civil brasileiro, o Professor Donaldo Armelin leciona que “[…] a legitimidade emerge de uma situação legitimante que resulta de própria pretensão, ou seja da afirmação da titularidade de um direito, donde, destarte, ter natureza processual, embora reportando-se ao direito questionado, que pode ou não vir a ser reconhecido em juízo [...]”. (ARMELIN, Donaldo. A legitimidade para agir no direito processual civil brasileiro. São Paulo: Revista dos Tribunais, 1979. p.173).
+    Dessa forma, pode-se afirmar que parte legítima é aquela que está autorizada por uma determinada situação legitimante estabelecida no direito material ou no próprio direito processual.
+     É certo que se reconhece tão somente a legitimidade das Câmaras Municipais para ajuizar suspensão de liminar com o objetivo de obstar os efeitos de decisões que impliquem violação de suas prerrogativas institucionais ou constituam óbice ao normal exercício de seus poderes (SS nº 1264/AM, Rel. Min. Celso de Mello, Dj 24.05.1999).
+    Em que pese a relevância, a questão de fundo não evidencia a existência de violação às funções institucionais atribuídas ao Poder Legislativo local, a saber: função legislativa, função fiscalizadora e função representativa.
+    Assim, não lhe sendo conferida a legitimidade ativa ad causam para propor o incidente de suspensão de liminar, indefiro o pleito formulado (RISTF, art. 21, § 1º).
+    Publique-se. Int.
+    Brasília, 16 de dezembro de 2019.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
