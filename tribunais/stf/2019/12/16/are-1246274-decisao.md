@@ -1,0 +1,12 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO GRATUITO DE MEDICAMENTOS NECESSÁRIOS À SAÚDE DE PESSOAS HIPOSSUFICIENTES NÃO INCLUÍDOS NA LISTA PADRONIZADA FORNECIDA PELO SUS. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 6. RE 566.471. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Ab initio, no que tange ao prequestionamento, afasto a aplicação das Súmulas 282 e 356 do STF, uma vez que a controvérsia atinente ao fornecimento de medicamento que não consta em protocolo clínico do SUS foi apreciada no acórdão recorrido.
+    Com efeito, o Ministro Marco Aurélio, Relator do RE 566.471, sugeriu a seguinte tese referente ao Tema 6, submetido por esta Corte ao regime de repercussão geral: “o reconhecimento do direito individual ao fornecimento, pelo Estado, de medicamento de alto custo, não incluído na política nacional de medicamentos ou em programa de medicamentos de dispensação em caráter excepcional, constante de rol de aprovados, depende da demonstração da imprescindibilidade (adequação e necessidade), da impossibilidade de substituição, da incapacidade financeira do enfermo e da falta de espontaneidade dos membros da família solidária em custeá-lo, respeitadas as disposições sobre alimentos dos artigos 1.649 a 1.710 do Código Civil e assegurado o direito de regresso”.
+    Naquela ocasião, o  Relator também assentou os seguintes requisitos cumulativos para o Estado fornecer medicamento de alto custo: “a) incapacidade financeira de arcar com o custo do medicamento; b) demonstração de que a não incorporação do medicamento não resultou de decisão expressa dos órgãos competentes; c) inexistência de substituto terapêutico incorporado pelo SUS; d) comprovação de eficácia do medicamento pleiteado à luz da medicina baseada em evidências; e) propositura da demanda necessariamente contra a União, já que compete a ela a decisão final sobre a incorporação ou não de medicamentos ao SUS”.
+    O julgamento encontra-se suspenso por pedido de vista.
+    Dessa forma, constata-se que a matéria versada no presente recurso extraordinário foi submetida por esta Corte ao regime da repercussão geral (Tema 6, RE 566.471, Rel. Min. Marco Aurélio).
+    Ex positis, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem.
+    Publique-se.
+    Brasília, 16 de dezembro de 2019.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
