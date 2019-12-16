@@ -1,0 +1,41 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Armando Zavitoski Junior, em favor de Marcos Roberto de Oliveira Costa, contra decisão monocrática de Ministro Relator do STJ, nos autos do HC 550.834/SP.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS ROBERTO DE OLIVEIRA COSTA contra decisão indeferitória de provimento urgente do Desembargador Relator do HC n.º 2269941-58.2019.8.26.0000, em trâmite no Tribunal de Justiça do Estado de São Paulo.
+    Consta dos autos que o Paciente foi denunciado pela suposta prática do delito previsto no art. 33, caput, da Lei n.º 11.343/2006, pois "tinha em depósito, transportava e guardava, para venda, o total de 64 porções de cocaína, com peso líquido de 34,36 gramas, e 03 porções de Cannabis Sativa L, com peso líquido de 22,04 gramas (auto de exibição e apreensão a fls. 15/16 e laudos de constatação a fls. 58/59 e 60/61 e de exame químico-toxicológico a fls. 165/166 e 167/169), sem autorização e em desacordo com determinação legal e regulamentar" (fl. 287).
+    A Defesa impetrou habeas corpus no Tribunal de origem, cujo pedido liminar foi indeferido pelo Desembargador Relator (fls. 26-29).
+    No presente writ, o Impetrante alega que "impossível admitir a atuação da polícia quando da invasão de domicílio perpetuada, que nada mais foi do que verdadeiro abuso de autoridade. Nesse passo, garantias fundamentais individuais foram feridas, ignoradas e violadas, o que não se pode admitir" (fl. 12).
+    Aduz que "toda a demanda contra o paciente se originou de uma delação sem qualquer lastro probatório mínimo, na própria decisão o juiz fl. 245, o setor de investigação recebeu delações -' simples assim manda invadir casas sem saber de quem é, absurdo!!!!!" (fl. 13).
+    Argumenta que não basta a natureza permanente do delito de tráfico de drogas para justificar a entrada no domicílio sem o devido mandado judicial.
+    Requer "a acolhida do presente writ para a concessão da ordem de habeas corpus, deferindo a liminar, determinando o trancamento da ação penal, pelos motivos apresentados, pela violação de dogmas fundamentais, concessa venia, deve ser declarada a eiva total da diligência policial que deu origem à presente lide, considerando-a nula e proibida e, portanto, imprestável, sendo o mesmo para todos os atos e termos subsequentes, prevalecendo à máxima da Teoria dos Frutos da Árvore Envenenada" (fl. 25).
+    É o relatório inicial. Passo a decidir o pedido urgente”. (eDOC 7)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, o impetrante insiste no pedido de trancamento do processo penal, por ausência de justa causa.
+    É o relatório
+    Decido.
+    Inicialmente, verifico que o mérito da controvérsia não foi apreciado pelo Tribunal de Justiça e pelo Superior Tribunal de Justiça, motivo por que a apreciação por esta Corte resultaria em dupla supressão de instância, inadmitida pela jurisprudência do Tribunal.
+    Ademais, trata-se de pedido de trancamento de processo penal, pleito revestido de acentuada excepcionalidade. Desse modo, o presente constitui a excepcionalidade da excepcionalidade, o que somente pode ser acolhido em caso de gravíssima, manifesta e incontestável ilegalidade.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    Segundo jurisprudência consolidada desta Suprema Corte, a extinção de processo penal de forma prematura somente é possível em situação de manifesta atipicidade, ausência de justa causa ou de flagrante ilegalidade demonstradas por meio de prova pré-constituída.
+    No ponto, destaco os seguintes precedentes:
+    “Processual penal. Habeas corpus. Fraude à licitação, Crime de responsabilidade e Associação criminosa. Trancamento de ação penal. Ausência de teratologia, ilegalidade flagrante ou abuso de poder. Inadequação da via eleita.
+    1. O trancamento da ação penal só é possível quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa.
+    2. As peças que instruem este processo não evidenciam nenhuma teratologia, ilegalidade flagrante ou abuso de poder que autorize o encerramento prematuro do processo-crime.
+    3. A denúncia descreveu, de forma suficientemente clara, as condutas imputadas aos agentes, apontando a presença dos elementos indiciários mínimos necessários para a instauração da persecução penal. Inicial acusatória que bem permitiu aos pacientes o pleno exercício do direito de defesa.
+    4. A jurisprudência do Supremo Tribunal Federal, em matéria de crimes societários, tem orientação consolidada, no sentido de que não se faz necessária ‘descrição minuciosa e pormenorizada da conduta de cada acusado, sendo suficiente que, demonstrado o vínculo dos indiciados com a sociedade comercial, narre as condutas delituosas de forma a possibilitar o exercício da ampla defesa’ (RHC 117.173, Rel. Min. Luiz Fux).
+    5. Agravo regimental desprovido.” (HC 138.147-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 17.5.2017)
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. ANÁLISE DOS FUNDAMENTOS DA IMPETRAÇÃO PELO SUPERIOR TRIBUNAL DE JUSTIÇA: POSSIBILIDADE DO REEXAME DO WRIT PELO SUPREMO TRIBUNAL FEDERAL. DENÚNCIA QUE CONTÉM A ADEQUADA INDICAÇÃO DAS CONDUTAS DELITUOSAS IMPUTADAS AO RECORRENTE. O RECEBIMENTO DA PEÇA ACUSATÓRIA É DE MERA DELIBAÇÃO E NÃO DE COGNIÇÃO EXAURIENTE. TRANCAMENTO DA AÇÃO PENAL EM HABEAS CORPUS: MEDIDA EXCEPCIONAL A SER APLICADA SOMENTE EM CASOS DE MANIFESTA ATIPICIDADE DA CONDUTA, CAUSA DE EXTINÇÃO DA PUNIBILIDADE OU AUSÊNCIA DE INDÍCIOS MÍNIMOS DE AUTORIA E MATERIALIDADE DELITIVAS. RECURSO AO QUAL SE NEGA PROVIMENTO.
+    I – Embora os ministros integrantes da Sexta Turma do Superior Tribunal de Justiça não tenham conhecido do writ, Suas Excelências, ao afastarem a possibilidade da concessão da ordem, de ofício, analisaram os fundamentos de mérito da impetração, o que autoriza o reexame do habeas corpus por esta Suprema Corte.
+    II – A denúncia contém a adequada indicação das condutas delituosas imputadas ao ora recorrente, a partir de elementos aptos a tornar plausível a acusação, o que lhe permite o pleno exercício do direito de defesa.
+    III – O juízo de recebimento da peça acusatória é de mera delibação, jamais de cognição exauriente. Não se pode, portanto, confundir os requisitos para o recebimento da denúncia com o juízo de procedência da imputação criminal.
+    IV – O trancamento da ação penal, em habeas corpus, constitui medida excepcional que só deve ser aplicada nos casos de manifesta atipicidade da conduta, de presença de causa de extinção da punibilidade do paciente ou de ausência de indícios mínimos de autoria e materialidade delitivas.
+    V – Recurso ao qual se nega provimento.” (RHC 140.008, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 26.4.2017)
+    Na espécie, o paciente foi denunciado por, supostamente, infringir o artigo 33 da Lei de Drogas.
+    Quanto ao pedido de trancamento do processo penal, registrou o STJ que “a fundamentação da decisão que recebeu a denúncia, no tocante à suposta ilegalidade, não se mostra, em juízo perfunctório, desarrazoada ou ilegal, mormente por ter consignado que "não há que se falar em nulidade pelo fato de ter a polícia encetado diligência em local diverso do constante do mandado de busca. Ademais, pelo que consta, o réu foi abordado saindo da residência com seu veículo, ou seja, encontrava-se na via pública. Logo, prescindível novo mandado de busca domiciliar" (fl. 30).” (eDOC 7, p. 2-3)
+    Nos autos do HC 174.105, deferi a liminar em seu favor, para revogar a prisão preventiva.
+    No caso concreto, não é possível decidir pelo trancamento do processo penal, ante a ausência de manifesta ilegalidade e a indiscutível necessidade de se permitir à acusação produzir as provas que entender.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se. Comunique-se.
+    Brasília, 16 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
