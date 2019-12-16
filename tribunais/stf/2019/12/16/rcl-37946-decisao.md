@@ -1,0 +1,21 @@
+DECISÃO:
+    1.  Trata-se de reclamação ajuizada em face de decisão do Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro, nos autos do agravo de instrumento nº 0005912-46.2018.8.19.0000. Na decisão reclamada, manteve-se decisão monocrática da 3ª Vice-Presidência, que negou seguimento a recurso extraordinário, nos termos do art. 1.030, I, a, do CPC/2015.
+    2. A reclamante alega a incorreta aplicação das teses dos Temas 275 (ARE 746.996), 660 (ARE 748.371), 734 (RE 657.871) e 866 (ARE 919.285) da Repercussão Geral, para negar seguimento ao recurso extraordinário, bem como violação ao art. 5º, XXXVI, da Constituição. Narra que não há similitude com os Temas mencionados, porque, no contexto da execução do processo originário, houve desrespeito à coisa julgada.
+    3. É o relatório. Decido.
+    4. Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do presente pedido.
+    5. De início, observo terem sido esgotadas as instâncias ordinárias, porquanto cumprido o correto percurso de todo o iter processual, ultimado na interposição de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015. Assim, foi preenchido o requisito do artigo 988, § 5º, II, do CPC/2015, para cabimento da reclamação constitucional.
+    6. Observo, também, que foi mencionada na petição inicial a aplicação dos Temas 275 (ARE 746.996), 660 (ARE 748.371), 734 (RE 657.871) e 866 (ARE 919.285) da Repercussão Geral. No entanto, a decisão reclamada teve como fundamento apenas os Temas 660 e 734, tendo sido afastada a aplicação dos outros temas (doc. 20, p. 5).
+    7. O Supremo Tribunal Federal, no paradigma do Tema 660, entendeu que não há repercussão geral quando a alegada violação aos limites da coisa julgada depender de prévia análise de normas infraconstitucionais. No paradigma do Tema 734, consignou-se ser pacífica a jurisprudência no sentido de que os conceitos de direito adquirido, ato jurídico perfeito e coisa julgada não se encontram na Constituição Federal.
+    8. A situação dos autos enquadra-se nestes paradigmas. Isso porque a reclamante alega violação à coisa julgada, em vista da aplicação da Súmula 362 do STJ, o que, hipoteticamente, alterou o termo inicial para incidência da correção monetária (doc. 1, p. 5). Assim, trata-se de discussão sobre os limites da coisa julgada, à luz de normas infraconstitucionais. Há, portanto, aderência entre a decisão reclamada e os paradigmas, tornando inviável o prosseguimento da reclamação.
+    9. Por fim, a alegação de violação ao art. 5º, XXXVI, da Constituição, não dá ensejo à propositura de reclamação, conforme já decidiu o Supremo Tribunal Federal nas Rcl 4.381 AgR, Rel. Min. Celso de Mello, e Rcl 5.391 AgR, Rel. Min. Dias Toffoli. No mesmo sentido, veja-se a Rcl 23.051 AgR, sob a minha relatoria:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. DESCABIMENTO DA VIA. ALEGAÇÃO DE OFENSA A DIREITO OBJETIVO E A PRECEDENTE SEM FORÇA VINCULANTE. PRECLUSÃO DA DISCUSSÃO SOBRE A QUESTÃO IMPUGNADA NAS INSTÂNCIAS INFERIORES.
+    1. A reclamação dirigida a esta Corte só é cabível quando sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CRFB/1988, arts, 102, I, l, e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte.
+    2. A alegação de ofensa ao direito objetivo ou a enunciado de Súmula sem força vinculante não dá ensejo à propositura de reclamação.
+    3. Não cabe reclamação para o exame da tese de fundo quando o que se pretende, na verdade, é viabilizar um recurso não interposto.
+    4. Agravo regimental desprovido.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    11. Defiro a gratuidade de justiça. Sem honorários, pois não houve contraditório efetivo.
+    Publique-se.
+    Brasília, 16 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
