@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Paraíba, ementado nos seguintes termos:
+    “COBRANÇA. PRESTADOR DE SERVIÇOS. SALÁRIO. AUSÊNCIA DE CONTRATAÇÃO LEGAL. APELAÇÃO. PRELIMINAR. INÉPCIA DA INICIAL. REJEIÇÃO. NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO DO AUTOR. INEXISTÊNCIA DE RELAÇÃO JURÍDICA CONTRATUAL ENTRE AS PARTES. ENTE PÚBLICO. IMPOSSIBILIDADE DE CONTRATAÇÃO TÁCITA OU VERBAL. DESPROVIMENTO.” (eDOC 1, p. 108)
+    Opostos embargos de declaração, foram rejeitados. (eDOC 1, p. 121)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, III e VII do texto constitucional.
+    Nas razões recursais, alega-se que o texto constitucional não condicionou os salários e valores referentes aos depósitos do FGTS à existência de um contrato formal, escrito, tampouco afastou estes direitos àqueles que apenas firmaram contrato tácito ou verbal. (eDOC 1, p. 140)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou ser inadmissível a contratação tácita ou verbal pela Administração Pública, vício que torna a prestação de serviços e o respectivo pagamento absolutamente ilegal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No mérito, não há nos autos comprovação do fato constitutivo do direito do Apelante.
+    A documentação por ele colacionada, resume-se co à Declaração, de f. 07, informando que exerceu função de Inspetor de Ensino, entre os meses de fevereiro a junho de 2009, e a frequência assinada dos referidos meses, f. 08/10, não se desincumbindo de provar que houve a contratação legal pelo ente público, tais como a portaria de nomeação ou qualquer outro registro de sua contratação, tanto que o Apelado não conseguiu encontrar registro da sua contratação, f. 45/46.
+    Destarte, não há como amparar o pedido Autoral, porquanto é inadmissível a contratação tácita ou verbal pela Administração Pública, vício que torna a prestação de serviços e o respectivo pagamento absolutamente ilegal, não merecendo, por conseguinte reforma a Sentença.” (eDOC 1, p. 110)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE NO CONTRATO. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 967.539 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 29.3.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE DO CONTRATO CELEBRADO ENTRE AS PARTES. INAPLICABILIDADE DO DECIDIDO NA ADI 4.876/DF. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Tribunal de origem entendeu que o caso dos autos não é de nulidade do contrato por investidura em cargo ou emprego público sem concurso público (art. 37, II da Constituição da República), conforme decidido na ADI 4.876/DF, que reconheceu a inconstitucionalidade apenas da efetivação dos contratos, tão somente, nada dispondo acerca dos contratos celebrados, propriamente ditos. II – Para divergir desse entendimento seria necessário o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. III - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (RE 1.136.525 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 7.12.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
