@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Fundamentos. Excesso de prazo. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 549.795, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que, em 31.10.2018, o paciente foi preso preventivamente e, em 26.03.2019, foi denunciado pelos crimes previstos nos arts. 33 e 35 da Lei 11.343/06.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, sobreveio HC no Superior Tribunal de Justiça. O Relator, Ministro Ribeiro Dantas, indeferiu a medida cautelar. Em seguida, a defesa apresentou pedido de reconsideração, também indeferido.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, excesso de prazo para a formação da culpa, alegando, para tanto, que a “prisão do PACIENTE e do corréu já atingiu MAIS DE 300 DIAS”. Ademais, afirma “não concorrem na espécie os requisitos autorizadores da decretação da prisão preventiva”, ressaltando que “não há qualquer motivo que implique na necessidade de manutenção da prisão do PACIENTE. Não há risco há ordem pública, não tendo o PACIENTE resistido à prisão, tampouco demonstrado em todo o trâmite processual o mínimo de periculosidade”.
+    5. A defesa requer a concessão da ordem a fim de revogar a prisão preventiva do paciente. Subsidiariamente, requer “seja afastada mediante a imposição de uma ou mais medidas diversas da prisão, nos termos do ‘art. 319 do CPP’”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF.
+    9. A orientação jurisprudencial do STF é no sentido de que a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    10. Na hipótese de que se trata, o Tribunal de origem não divergiu desse entendimento ao denegar a ordem lá impetrada, sob o fundamento, dentre outros, de que “não é o primeiro envolvimento de Welton Paulo na prática ilícitos penais. Pelo contrário, o paciente ostenta duas condenações criminais pela prática do delito de tráfico de drogas e receptação (autos n.º 0072968-98.2011.8.13.0456 e n.º 0035157- 41.2010.8.13.0456)”.
+    11. Quanto ao mais, o STF já decidiu que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    12. No caso, o TJMG ressaltou que a “complexidade do feito é evidente, tendo em vista que na ação penal se apura a prática de delitos de tráfico de drogas e associação para tal fim supostamente perpetrados por 04 (quatro) acusados, que contam com procuradores distintos, tendo sido necessária a expedição de cartas precatórias para as Comarcas de Bom Sucesso/MG e Curvelo/MG”. Nessas condições, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento do pleito defensivo.
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 16 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+          Relator
