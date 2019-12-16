@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos art. 5º, caput, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CIRURGIA. FILA DE ESPERA. PRINCÍPIO DA ISONOMIA. SÚMULA 279/STF. 1. A solução da controvérsia demanda o reexame do conjunto fático-probatório dos autos, procedimento vedado neste momento processual. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 851874 AgR, Relator(a):  Min. Roberto Barroso, Primeira Turma, julgado em 20.02.2018, ACÓRDÃO ELETRÔNICO DJe-039 DIVULG 28.02.2018 PUBLIC 01.3.2018).
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REALIZAÇÃO DE CIRURGIA. AUSÊNCIA DE COMPROVAÇÃO DE RISCO DE VIDA. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS: IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 408673 AgR, Relator(a):  Min. Cármen Lúcia, Primeira Turma, julgado em 03.3.2009, DJe-071 DIVULG 16.4.2009 PUBLIC 17.4.2009 EMENT VOL-02356-06 PP-01146).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de dezembro de 2019.
+Ministra Rosa Weber
+Relatora
