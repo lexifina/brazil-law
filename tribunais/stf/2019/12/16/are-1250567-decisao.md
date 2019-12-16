@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão da Terceira Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado do Amazonas:
+    “recurso inominado. ação de indenização por dano moral. ofensa à honra e imagem. ofensas proferidas entre integrantes da igreja. insultos que atingiram à honra do autor. exposição vexatória e humilhação, que foi chamado de adúltero, prostituto, destruidor de lar. fato com repercussão em cidade do interior. e ridícula. dano moral configurado. direito à indenização. quantum indenizatório apropriado. sentença mantida em seus fundamentos. recurso conhecido e não provido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, II e LV, da CF. Sustenta que “a prudência deve estar sempre presente nas decisões judiciais, no sentido de acatar-se pedido de produção de provas, somente sendo-se admitido o indeferimento quando foram elas indiscutivelmente desnecessárias e inúteis”.
+    O recurso é inadmissível. Com efeito, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Ademais, no caso, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 16 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
