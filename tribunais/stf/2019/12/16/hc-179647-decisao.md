@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Crimes de lavagem de capitais e organização criminosa. Alegação de nulidades. Dosimetria da pena. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 390.533, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e à pena de 80 (oitenta) dias-multa, pelo crime previsto no art. 1º, V, VI e VII, c/c o § 4º, da Lei 9.613/1998.
+    3. O Tribunal Regional Federal da 3ª Região deu parcial provimento à apelação da defesa, apenas para reduzir a pena de multa. Após, foram opostos embargos declaratórios, rejeitados.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 390.533, Ministro Jorge Mussi, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante alega demora para o julgamento do mérito da impetração formalizada no STJ. Além disso, sustenta a violação dos princípios do contraditório e da ampla defesa, em razão:
+    (i) da realização da audiência de instrução e julgamento sem a presença do paciente, nem de seu defensor;
+    (ii) do “indeferimento de provas essenciais (oitiva de testemunha referida e perícia grafotécnica)”, requeridas pela defesa;
+    (iii) da “violação do princípio da congruência ou correlação entre acusação e sentença” porque na condenação imposta ao acionante foi aplicada a causa de aumento de pena prevista no art. 1º, § 4º, da Lei 9.613/98, que não teria sido descrita na denúncia; e
+    (iv) da inaplicabilidade, no caso, da majorante prevista no art. 1º, § 4º, da Lei 9.613/98, na medida em que os fatos são anteriores à vigência das Leis 12.683/12 e 12.850/13.
+    6. A defesa requer a concessão da ordem “para que sejam reconhecidas a nulidades, determinado a remessa do feito ao Juízo de primeiro grau para que a fase instrutória seja refeita, bem como que se reconheça a inaplicabilidade da causa de aumento de pena prevista § 4° do art. 1° da Lei n° 9.613/98”. Subsidiariamente, pleiteia que seja reduzida a pena imposta ao acionante.
+    7. Decido.
+    8. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar o imediato acolhimento da pretensão defensiva, notadamente se se considerar que a orientação jurisprudencial do STF é firme no sentido de que o “princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, podendo ser ela tanto a nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção” (HC 132.149-AgR, Rel. Min. Luiz Fux).
+    10. Além disso, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do habeas corpus. Contudo, recomendo ao Superior Tribunal de Justiça celeridade no julgamento do HC 390.533.
+    Publique-se.
+          Brasília, 16 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
