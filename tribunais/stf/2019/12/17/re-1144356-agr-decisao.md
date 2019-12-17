@@ -1,0 +1,9 @@
+Decisão: Trata-se de agravo regimental interposto contra decisão na qual deixei de conhecer do recurso extraordinário, em que se discute o aproveitamento integral do crédito dos valores despendidos a título de COFINS-Importação no desembaraço aduaneiro, recolhidos considerando as majorações da alíquota em 1,5%, entre dezembro/2011 e julho/2012, e em 1%, desde agosto/2012, promovidas, respectivamente, pelas Medidas Provisórias nº 540/2011 e nº 563/2012, as quais foram convertidas, nesta ordem, nas Leis Federais nº 12.546/2011 e nº 12.715/2012 (eDOC 7).
+    De plano, verifica-se a inclusão superveniente da controvérsia em exame na sistemática da repercussão geral, Tema 1047, cujo recurso paradigma é o RE 1178310 RG/PR , de relatoria do Min. Marco Aurélio, DJe 22.05,19. Na oportunidade, o Plenário Virtual reconheceu a existência de repercussão geral da questão constitucional suscitada, cuja ementa restou assim redigida:
+    “COFINS – IMPORTAÇÃO – ALÍQUOTA ADICIONAL E VEDAÇÃO AO CREDITAMENTO INTEGRAL – RECURSO EXTRAORDINÁRIO – ADEQUAÇÃO – REPERCUSSÃO GERAL – CONFIGURAÇÃO. Possui repercussão geral controvérsia alusiva à constitucionalidade da majoração, em um ponto percentual, da alíquota da COFINS-Importação, introduzida pelo artigo 8º, § 21, da Lei nº 10.865/2004, com redação dada pela Lei nº 12.715/2012, e da vedação ao aproveitamento integral dos créditos oriundos do pagamento da exação, constante do § 1º-A do artigo 15 da Lei 10.865/2004, incluído pela Lei 13.137/2015.”
+    Ante o exposto, reconsidero a decisão agravada e, em consequência, julgo prejudicado o agravo regimental, bem como determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 17 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
