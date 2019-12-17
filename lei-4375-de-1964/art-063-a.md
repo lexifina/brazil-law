@@ -1,0 +1,1 @@
+Art. 63-A. Os convocados, durante o tempo em que estiverem incorporados a organizações militares da ativa ou matriculados em órgãos de formação de reserva, inclusive para a prestação do serviço militar obrigatório, terão direito a férias.

@@ -1,0 +1,1 @@
+Art. 34-A. Os militares temporários indiciados em inquérito policial comum ou militar ou que forem réus em ações penais de igual natureza, inclusive por crime de deserção, serão licenciados ao término do tempo de serviço, com a comunicação à autoridade policial ou judiciária competente e a indicação dos seus domicílios declarados.

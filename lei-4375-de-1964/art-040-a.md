@@ -1,0 +1,1 @@
+Art. 40-A. O Certificado de Isenção e o Certificado de Dispensa de Incorporação dos brasileiros concluintes dos cursos de Medicina, Farmácia, Odontologia e Veterinária terão validade até a diplomação e deverão ser revalidados pela região militar competente para ratificar a dispensa ou recolhidos, no caso de incorporação, a depender da necessidade das Forças Armadas.

@@ -1,0 +1,1 @@
+Art. 27-A. Por ocasião do licenciamento do militar temporário das Forças Armadas, o tempo de atividade e as contribuições recolhidas para a pensão militar serão transferidos ao Regime Geral de Previdência Social, para fins de contagem de tempo de contribuição, na forma estabelecida em regulamento a ser editado pelo Poder Executivo federal.
