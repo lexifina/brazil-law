@@ -1,0 +1,1 @@
+Art. 50-A. O Sistema de Proteção Social dos Militares das Forças Armadas é o conjunto integrado de direitos, serviços e ações, permanentes e interativas, de remuneração, pensão, saúde e assistência, nos termos desta Lei e das regulamentações específicas.

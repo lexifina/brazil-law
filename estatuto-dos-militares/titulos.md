@@ -80,21 +80,6 @@ SEÇÃO I
 Da Ocorrência
 SEÇÃO II
 Da Transferência para a Reserva Remunerada
-Idades
-Idades
-60 anos
-58 anos
-56 anos
-54 anos
-Idades
-Capitão-de-Mar-e-Guerra
-Idades
-62 anos
-60 anos
-58 anos
-56 anos
-56 anos
-Idades
 SEÇÃO III
 Da Reforma
 SEÇÃO IV

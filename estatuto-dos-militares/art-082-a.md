@@ -1,0 +1,1 @@
+Art. 82-A. Considera-se incapaz para o serviço ativo o militar que, temporária ou definitivamente, se encontrar física ou mentalmente inapto para o exercício de cargos, funções e atividades militares.
