@@ -1,0 +1,3 @@
+Art. 112-A. O militar reformado por incapacidade definitiva para o serviço ativo das Forças Armadas ou reformado por invalidez poderá ser convocado, por iniciativa da Administração Militar, a qualquer momento, para revisão das condições que ensejaram a reforma.
+§ 1º O militar reformado por incapacidade definitiva para o serviço ativo das Forças Armadas ou reformado por invalidez é obrigado, sob pena de suspensão da remuneração, a submeter-se à inspeção de saúde a cargo da Administração Militar.
+§ 2º Na hipótese da convocação referida no caput deste artigo, os prazos previstos no art. 112 desta Lei serão interrompidos.
