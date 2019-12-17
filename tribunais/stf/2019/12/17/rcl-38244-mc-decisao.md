@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE Nº 43, 44 E 54 – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Carlos Vinicius de Oliveira assevera haverem o Juízo da Vara Criminal da Comarca de Lorena/SP e a Sexta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, no processo nº 0000808-92.2017.8.26.0621, desrespeitado o decidido nas ações declaratórias de constitucionalidade nº 43, 44 e 54.
+    Segundo narra, figura como réu em processo-crime ante alegada prática do delito de tráfico de entorpecentes. Realça a substituição da custódia preventiva por medidas cautelares diversas e a condenação a 5 anos e 7 meses de reclusão, tendo sido permitido recorrer em liberdade. Menciona o desprovimento de apelação em 14 de novembro de 2019, com determinação imediata de expedição de mandado de prisão. Diz da pendência de declaratórios.
+    Salienta que o Pleno, na sessão de 7 de novembro de 2019, ao apreciar os paradigmas, assentou a validade do artigo 283 do Código de Processo Penal, na redação conferida pela Lei nº 12.403/2011, a impedir a execução da pena antes do trânsito em julgado.
+    Requer, no campo precário e efêmero, seja determinado o recolhimento do mandado de prisão expedido pelo Juízo. Pretende a cassação do ato impugnado, no tocante à prisão.
+    A ata de julgamento dos processos objetivos foi publicada em 11 de novembro de 2019.
+    2. A leitura do acórdão impugnado revela a determinação de prisão em virtude da confirmação da condenação em segundo grau. Confiram o seguinte trecho do pronunciamento, surgido de sessão ocorrida, no Tribunal de origem, em 14 de novembro último:
+    […]
+    Por fim, seja em face da inadequada permissão para os Réus aguardarem o julgamento de recurso em liberdade (reforçada agora pela mantença da condenação), seja pela necessidade de se assegurar a paz pública (na qual se embutem, tanto a garantia da ordem pública, quanto a asseguração da efetiva aplicação da lei penal), seja pela regra específica do artigo 59 da Lei n° 11.343/06, e especialmente pela situação fática concreta (estreita ligação com organização criminosa; prática do tráfico como meio remunerativo; estabilidade no
+    ramo ilícito, já que os usuários sabiam onde procurá-los; quantidade e nocividade da droga apreendida), sabendo-se também que eventuais recursos, desta fase em diante, têm cabimento restrito e sem efeito suspensivo (sem que a prisão decorrente de condenação em Segunda Instância seja inconstitucional HC n° 126.292-SP, rel. Min. Teori Zavascki, T. Pleno, j. em 17.02.2016, com seu posicionamento ratificado pelo indeferimento da cautelar na ADC n° 43 e na ADC n° 44, ambas julgadas em 05.10.2016), como, aliás, já reconheceu o Superior Tribunal de Justiça (HC n° 430.896-SP, rel. Min. Félix Fischer, 5ª T., j. em 02.08.2018 “III - Os recursos às instâncias superiores carecem de efeito suspensivo e a execução provisória da pena é consectário lógico do esgotamento da jurisdição das instâncias ordinárias, não necessitando de fundamentação a determinação do cumprimento provisório da pena fixada”,determina-se, nos termos do artigo 387 § 1°, c/c artigo 312, ambos do Código de Processo Penal, a imediata expedição de mandado de prisão contra os dois Réus.
+    […]
+    A óptica conflita com o decidido nos paradigmas, no que assentada a inadequação da prisão automática, após o julgamento em segundo grau de jurisdição.
+    3. Defiro o pedido de liminar para suspender, até a apreciação final desta reclamação, a eficácia do acórdão formalizado pela Sexta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, no processo nº 0000808-92.2017.8.26.0621, relativamente à determinação de custódia, bem assim o mandado de prisão expedido pelo Juízo da Vara Criminal da Comarca de Lorena/SP.
+    4. Deem ciência ao Ministério Público do Estado de São Paulo e solicitem informações. Colham, em seguida, o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 17 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
