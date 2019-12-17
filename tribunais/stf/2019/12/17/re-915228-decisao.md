@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, ementado nos seguintes termos:
+    “ADMINISTRATIVO. GRATIFICAÇÕES DE ATIVIDADE. GDAMP E GDAPMP. PARIDADE ENTRE SERVIDORES ATIVOS E INATIVOS/PENSIONISTAS. PRECEDENTES. A jurisprudência do STF reconhece que as gratificações por desempenho de atividade têm caráter de generalidade enquanto não forem regulamentados e processados os resultados da avaliação individual e institucional, motivo por que é extensível aos servidores inativos no mesmo percentual devido aos servidores ativos, com vistas a resguardar o princípio da isonomia. ” (eDOC 1, p. 192)
+    Opostos embargos de declaração, foram acolhidos apenas para fins de prequestionamento sem efeitos infringentes. (eDOC 1, p. 230)
+    O recurso foi interposto com fundamento no art. 102, III, a, da Constituição Federal.
+    Nas razões recursais, alega-se a inexistência de violação ao princípio constitucional da isonomia entre servidores ativos e inativos quanto à percepção de gratificação de desempenho. (eDOC 1, p. 296)
+    Nesse sentido, argumenta-se que a Gratificação de desempenho de atividade de perícia médica previdenciária (GDAPMP) não possuiria caráter linear e geral. (eDOC 1, p. 277)
+    Oportunamente, determinei a a devolução dos autos ao tribunal de origem com base no Tema 153 da sistemática da repercussão geral, cujo paradigma é o RE-RG 597.154, de minha relatoria, para que observasse o disposto no art. 543-B do Código de Processo Civil de 1973. (eDOC 2)
+    Diante disso, a Vice-Presidência do Tribunal a quo prejudicou o RE, ao fundamento de que aquela Corte teria decidido a hipótese apresentada nos autos em consonância com o entendimento do STF.
+    Foram aviados recursos sucessivos (ED, AgR e ED), a fim de sanar erro material, uma vez que haveria dissonância da decisão embargada com a Súmula Vinculante 20 do STF, tendo em vista que o presente caso versaria sobre a gratificação GDAPMP, e não acerca das gratificações debatidas no âmbito da referida súmula vinculante, a saber, GDATA ou GDASST.
+    O órgão fracionário do Tribunal de origem manteve seu entendimento:
+    “DECISÃO DA VICE-PRESIDÊNCIA APOIADA NO ART. 543-B, § 2º, DO CPC. LEGALIDADE. AGRAVO REGIMENTAL. COMPETÊNCIA: SEÇÃO ESPECIALIZADA DO TRIBUNAL DE ORIGEM. TEMA Nº 153 DO STF. 1. Devem ser mantidos os fundamentos da decisão guerreada, considerando não se tratar de simples exame de admissibilidade, mas sim do cotejo analítico próprio da disciplina da repercussão geral e dos recursos repetitivos, nos termos das Leis nºs 11.418/2006 e 11.672/2008, respectivamente. 2. Agravo regimental desprovido.” (eDOC 10, p. 61)
+    Diante disso, foi interposto novo recurso em que se reitera, em síntese, as razões do primeiro extraordinário. (eDOC 10, p. 103)
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016. (eDOC 10, p. 80)
+    A irresignação não merece prosperar.
+    No caso em apreço, observo que o entendimento do Tribunal de origem, tanto no primeiro acórdão, quanto na manutenção do seu entendimento, não destoa do entendimento desta Corte no âmbito de repercussão geral, no sentido de que as gratificações de desempenho, enquanto possuírem caráter genérico, são extensíveis aos servidores inativos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A Gratificação de Desempenho de Atividade Técnico-Administrativa foi instituída pela Lei nº 10.404, de 09/01/2002 com o objetivo de incentivar a qualidade de prestação dos serviços públicos mediante a instituição de uma avaliação de desempenho profissional, institucional ou individual dos servidores nos seguintes termos:
+    (...)
+    A mesma Lei, em seu artigo 5º, previu que a Gratificação seria devida aos aposentados e pensionistas de acordo com: a) a média dos valores recebidos nos últimos 60 meses ou, b) no caso de aposentadorias e pensões existentes quando da publicação da Lei, no valor equivalente a 10 pontos, quando recebida por interregno inferior a 60 meses.
+    (...)
+    Percebe-se que a referida gratificação perdeu, em dois momentos, o caráter pro labore faciendo e passou a ser uma gratificação genérica, paga aos servidores em razão do efetivo exercício do cargo. Ao estender a parcela aos servidores inativos em percentual inferior ao genericamente fixado para os servidores ativos, a norma violou o princípio da isonomia, uma vez que o artigo 40, § 4º, da CF (e posteriormente com a redação dada pela Emenda Constitucional nº 20/98, combinado com o art. 7º da Emenda Constitucional nº 41/03) previa a paridade entre vencimentos e proventos.” (eDOC 1, p. 183-184) (Grifei)
+    Com efeito, por ocasião do julgamento do RE-RG 597.154/PB (Tema 153), esta Corte fixou a tese de que “a fixação GDATA e da GDASST em relação aos servidores inativos deve obedecer aos critérios a que estão submetidos os servidores em atividade de acordo com a sucessão de leis de regência.”
+    Eis a ementa do processo paradigma:
+    “1. Questão de ordem. Repercussão Geral. Recurso Extraordinário. 2. GDATA e GDASST. 3. Servidores inativos. Critérios de cálculo. Aplicação aos servidores inativos dos critérios estabelecidos aos ativos, de acordo com a sucessão de leis de regência. 4. Jurisprudência pacificada na Corte. 5. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do tribunal, desprover o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 3º, do Código de Processo Civil”. (Grifei)
+    A propósito, registre-se ser admissível a aplicação da sistemática da repercussão geral não apenas a questões fáticas absolutamente idênticas, podendo-se também fazê-lo em situações apenas similares, quando realizado o cotejo da controvérsia constitucional contida no paradigma com a situação a ser analisada.
+    Nessa mesma linha, cito ainda a seguinte decisão monocrática: ARE 1176936, Rel. Min. Alexandre de Moraes, DJe 13.12.2018.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF)
+    Publique-se.
+    Brasília, 17 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
