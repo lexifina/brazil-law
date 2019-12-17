@@ -1,0 +1,23 @@
+Decisão: Trata-se de Reclamação, com pedido de antecipação de tutela, ajuizada em face de decisão proferida pelo Juízo da 79ª Vara do Trabalho do Rio de Janeiro que, nos autos nº 0100997-32.2019.5.01.0079, determinou a reintegração da ora reclamada ao trabalho, na mesma função que ocupava quando da dispensa, no quadro de empregados da Sociedade de Economia Mista, parte ora reclamante.
+    Aduz com a violação da autoridade da decisão vinculante proferida por esta Corte no RE 688.267, Tema nº 1.022 da Repercussão Geral.
+    Defende a necessidade de suspensão de todos os processos em tramitação que versem sobre a mesma matéria – a possibilidade de despedida sem motivação de empregado de empresa pública ou de sociedade de economia mista admitido por concurso público – conforme determinação do Ministro Relator Alexandre de Moraes no caso líder.
+    Com amparo nesses argumentos, pleiteia a concessão de medida liminar para cassar o acórdão reclamado e sobrestar a tramitação dos autos.
+    No mérito, requer a procedência da ação com a finalidade da manutenção e preservação da competência do Supremo.
+    Dispenso o pedido de informações, bem como remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RI/STF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    De início consigno que a reclamação se caracteriza como uma demanda de fundamentação vinculada, vale dizer, cabível somente quando se fizer presente alguma das hipóteses para ela estritamente previstas.
+    Partindo de construção jurisprudencial a instrumento com expresso assento constitucional, trata-se de ação vocacionada, precipuamente, a duas diferentes finalidades.
+    De um lado, visa a reclamação à (i) tutela da autoridade das decisões proferidas por esta Corte e das súmulas vinculantes por ela editadas. De outro, à (ii) proteção do importante rol de competências atribuídas ao Supremo Tribunal Federal. É o que se vê nos artigos 102, I, l, e 103-A, §3º, da Constituição da República.
+    A presente reclamação cinge-se à primeira hipótese, sustentando a reclamante que a decisão prolatada pela autoridade reclamada descumpre decisão proferida pelo relator do RE 688.267.
+    Adentrando ao caso concreto, verifica-se que a autoridade reclamada consignou (eDOC ):
+    “De acordo com o artigo 37 da Constituição Federal combinada com a decisão do Recurso Extraordinário 589.998, do Supremo tribunal Federal, com repercussão geral, quando da dispensa de um empregado público, as empresas tem o dever jurídico de motivar, em ato formal, a demissão de seus empregados, em observância aos princípios da impessoalidade e isonomia.
+    De fato a Reclamada deixou de ser empresa pública, no entanto a União ainda possui parte de seu capital social, inclusive com direito de veto e de gestão de suas ações preferencias, o que faz da Reclamada uma sociedade de economia mista e a decisão exarada no recurso extraordinário 589998 - embora ser adstrita aos empregados da ECT - entendeu ser obrigatória a motivação para a dispensa de empregados públicos vinculados a empresas públicas e sociedades de economia mista, pelo que entendo ser, por analogia, claramente aplicado ao caso em análise.
+    Assim, a mudança da natureza jurídica da Reclamada não interferiu nos direitos trabalhistas e não havendo comprovação de que a Reclamante tenha sido submetida a qualquer processo administrativo para apuração de justa causa, em observância ao princípio da dignidade da pessoa humana, defiro a tutela pretendida para que a mesma seja reintegrada aos quadros da empresa Reclamada, com o mesmo cargo e benefícios anteriores à sua dispensa, sendo garantida a compensação dos valores pagos em sua rescisão.”
+    Ao contrário do que alega o reclamante, não há, aqui, ofensa à decisão do Supremo Tribunal Federal. Como se depreende da leitura da decisão reclamada, o juízo de origem limitou-se a analisar pedido de urgência veiculado pela parte.
+    Consabido, os pedidos de urgência não estão abrangidos pela decisão de suspensão, conforme preceitua o art. 314 do Código de Processo Civil, que dispõe: “durante a suspensão é vedado praticar qualquer ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável, salvo no caso de arguição de impedimento e de suspeição”.
+    Diante do exposto, com fundamento no art. 21 do RISTF, nego seguimento a presente reclamação, prejudicado o pedido de liminar.
+    Publique-se. Intime-se.
+    Brasília, 17 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
