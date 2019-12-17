@@ -1,0 +1,78 @@
+EMBARGANTE:
+JOÃO GILBERTO ARGENTON E OUTRO(s)
+RODRIGO DARLAN FOCHESSATO E OUTRO(s)
+EMBARGADO:
+COLONIZADORA FELIZ LTDA.
+
+Número do Protocolo: 59557/2019
+Data de Julgamento: 17-12-2019
+
+E M E N T A
+EMBARGOS DE DECLARAÇÃO – APELAÇÃO – CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL – AUSÊNCIA – EMBARGOS REJEITADOS.
+Não há vícios do art. 1022 do CPC/2015 e, conforme entendimento assente do Superior Tribunal de Justiça, os embargos de declaração só se revestem de efeito infringente quando existir, de fato, omissão, obscuridade, contradição ou erro material na decisão embargada, de maneira que a correção desses vícios implique, como consequência, na modificação do julgamento, o que não se configura no caso em questão, em que a pretensão da parte embargante é de revisitar a lide, pois o entendimento foi contrário à sua pretensão.
+
+EMBARGANTE:
+JOÃO GILBERTO ARGENTON E OUTRO(s)
+RODRIGO DARLAN FOCHESSATO E OUTRO(s)
+EMBARGADO:
+COLONIZADORA FELIZ LTDA.
+
+R E L A T Ó R I O
+EXMA. SRA. DESA. NILZA MARIA PÔSSAS DE CARVALHO
+Egrégia Câmara:
+Trata-se de embargos de declaração contra acórdão de provimento de apelação e procedência em parte de pedido em Ação de Reintegração de Posse, código nº 44655, da 3ª Vara Cível de Sorriso/MT, ajuizada por COLONIZADORA FELIZ LTDA contra JOÃO GILBERTO ARGENTON, RODRIGO DARLAN FOCHESATTO, NÉDIO PAULO OLBERMANN, ANA PAULA FOCHESSATTO, LÚCIA LENI FOCHESSATTO e ROSMILDA LURDES ALVES LEAL, com reintegração de imóvel e preservação do direito de passagem forçada aos requeridos, com exceção de João Argenton, nos termos da perícia judicial (4 metros de largura e 20 metros de cumprimento), devendo a parte autora ser indenizada do montante correspondente, a ser verificado em sede de liquidação de sentença, bem como condenou-se a parte autora ao pagamento da benfeitoria necessária realizada no imóvel, e ambas as partes nas custas e honorários, meio a meio, em 15% do valor atualizado da causa (fls. 374/388v).
+JOÃO GILBERTO ARGENTON E OUTROS embargam e sustentam que alegações apresentadas com sua defesa não foram enfrentadas expressamente no acórdão embargado, sendo implicitamente rejeitadas, o que traz vício de omissão por ausência de fundamentação, nos termos do art. 489, §1º, IV do CPC/15.
+Afirmam que, no acórdão embargado, reconheceu-se o início da posse desde 1995, mas que a notificação extrajudicial, de 2003, é marco interruptivo da prescrição aquisitiva de usucapião, de modo que, como o exercício da posse teria sido de 08 (oito) anos, já que a ação foi ajuizada em 2008, não haveria qualquer direito dos embargantes.
+Entretanto, aludem que não se enfrentou os fundamentos trazidos pelos embargantes acerca da taxatividade do art. 202 do CC/02, ou seja, apenas as causas ali descritas devem ser reconhecidas como causas interruptivas.
+Defendem que, para fins de reconhecimento da usucapião, é condicionada a interposição de medidas judiciais contra o exercício da posse, o que não existe nos autos, bem como que a notificação extrajudicial não tem este condão.
+Em suma, requerem o acolhimento dos embargos com apreciação do art. 202 do CC/02 e atribuição de efeito modificativo, reconhecendo-se a posse por 10 (dez) anos e o direito à usucapião (fls. 391/403).
+Em resposta, a parte embargada pede a rejeição dos embargos (fls. 408/411v).
+É o relatório.
+
+V O T O
+EXMA. SRA. DESA. NILZA MARIA PÔSSAS DE CARVALHO (RELATORA)
+Egrégia Câmara:
+Trata-se de embargos de declaração contra acórdão de provimento de apelação e procedência em parte de pedido em Ação de Reintegração de Posse, código nº 44655, da 3ª Vara Cível de Sorriso/MT, ajuizada por COLONIZADORA FELIZ LTDA contra JOÃO GILBERTO ARGENTON, RODRIGO DARLAN FOCHESATTO, NÉDIO PAULO OLBERMANN, ANA PAULA FOCHESSATTO, LÚCIA LENI FOCHESSATTO e ROSMILDA LURDES ALVES LEAL, com reintegração de imóvel e preservação do direito de passagem forçada aos requeridos, com exceção de João Argenton, nos termos da perícia judicial (4 metros de largura e 20 metros de cumprimento), devendo a parte autora ser indenizada do montante correspondente, a ser verificado em sede de liquidação de sentença, bem como condenou-se a parte autora ao pagamento da benfeitoria necessária realizada no imóvel, e ambas as partes nas custas e honorários, meio a meio, em 15% do valor atualizado da causa (fls. 374/388v).
+Cabem embargos de declaração nas seguintes hipóteses:
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.”
+Em resumo, afirmam os embargantes que, no acórdão embargado, reconheceu-se o início da posse desde 1995, mas que a notificação extrajudicial, de 2003, é marco interruptivo da prescrição aquisitiva de usucapião, de modo que, como o exercício da posse teria sido de 08 (oito) anos, já que a ação foi ajuizada em 2008, não haveria qualquer direito dos embargantes.
+Entendem que, no acórdão embargado, reconheceu-se a notificação extrajudicial como causa interruptiva da usucapião, o que afrontaria o art. 202 do CC/02, devendo os embargos ser acolhidos com efeito modificativo.
+Em que pese o alegado pelos embargantes, em momento algum foi reconhecido, no acórdão embargado, que a sua posse teria iniciado em 1995, tratando-se de afirmação que não condiz com os fundamentos postos no acórdão, sendo discutível, até mesmo, se houve ofensa ao princípio da dialeticidade.
+Pelo contrário. Analisando as provas juntadas aos autos, concluiu-se que “Não se extrai da perícia, assim, qualquer elemento probatório de que os apelados tenham exercido a posse no imóvel por 10 (dez) anos, pois as construções evidenciadas pelo perito foram constatadas como ocorridas em 2008, 2013 e 2014, e como a ação foi ajuizada em 2008, não há elementos seguros a se deferir o direito à usucapião previsto no art. 1.238, parágrafo único, do CC/02”, ou seja, os indícios de posse dos embargantes tiveram início a partir do ano do ajuizamento da ação.
+Bem se destacou, ademais, que, “Por mais que os apelados tenham apego à resposta ao quesito 06, de fl. 227, da sua mera leitura se vê que a dita posse exercida há 20 (vinte) anos não foi constatada pelo perito, e sim informação repassada pela requerida/apelada Lúcia Leni Fochessatto ao mesmo, de forma unilateral, não se podendo considerar como prova do exercício possessório para fins de usucapião”.
+Eis os termos do acórdão embargado, em que bem se aclarou que a ausência de posse desde 1995:
+“[...] Em que pese toda a discussão recursal acerca de que o prazo seria de 10 (dez) anos, 15 (quinze) anos ou 17 (dezessete) anos, não vejo exercício de posse por parte dos apelados a preservar direito à usucapião nem mesmo pelo prazo mais curto.
+No decisum final, o juiz de primeiro grau entendeu pela aplicação do art. 1.242 do CC/02, ou seja, aplicou o dispositivo que rege que “Adquire também a propriedade do imóvel aquele que, contínua e incontestadamente, com justo título e boa-fé, o possuir por dez anos”.
+Da leitura dos documentos que instruíram o feito, não vejo qualquer “justo título” que ampare a aplicação dos 10 (dez) anos da prescrição aquisitiva em favor dos requeridos/apelados.
+Apesar de ter se dado ênfase ao contrato de compra e venda realizado entre o apelado João Gilberto Argenton e a apelante, datado de 26/01/1995, este se refere ao lote 50, e não ao lote 49, objeto do litígio.
+O justo título que deve amparar o direito à usucapião deve ser do próprio imóvel usucapiendo, e não do imóvel vizinho, como no presente caso, que passou a ser utilizado pelos apelados sem justo título, pois não há instrumento contratual que ampare a utilização do lote 49.
+Entretanto, observemos a possibilidade de aplicação do art. 1.238, parágrafo único do CC, também utilizado como tese pelos apelados.
+O art. 1.238 estabelece que “Aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis.”
+O parágrafo único reduz o prazo, ao dizer que “O prazo estabelecido neste artigo reduzir-se-á a dez anos se o possuidor houver estabelecido no imóvel a sua moradia habitual, ou nele realizado obras ou serviços de caráter produtivo.”
+Assim, ao menos o prazo de 10 (dez) anos deve ser cumprido pelos requeridos/apelados para que possam ter direito à usucapião, se no imóvel fizeram sua moradia habitual ou nele realizaram obras ou serviços de caráter produtivo.
+Na perícia realizada judicialmente, não se verifica qualquer exercício possessório há mais de 10 (dez) anos por parte dos apelados, nos termos dispostos no art. 1.238, parágrafo único, do CC/02.
+A ação foi ajuizada em 27/03/2008 e a perícia produzida em 27/07/2015, e, conforme verificado pelo perito, o canil realizado na casa do apelado João Argenton foi realizado em 2008, ano do ajuizamento da ação (fl. 208); o depósito e a varanda em construção rústica na casa do apelado João foram “executada[s] após o ano de 2013” (fl. 209), 05 (cinco) anos após o ajuizamento da ação; piso de concreto, na casa do apelado João, foi “construído recentemente após o ano de 2008” (fl. 209), no ano do ajuizamento da ação; floreira, na casa do apelado João, foi “construída há poucos meses” (fl. 209), próximo de 2015; casa residencial construída entre os lotes 49 e 50 “foi construída após a data de 07/11/2013” (fl. 209), 05 (cinco) anos após o ajuizamento da ação; na área do apelado Rodrigo Fochessato foi construído um canil que, conforme “fotografias de 2007 (fls. 46/49) e nas fotografias constantes às folhas 73/75 datadas de junho de 2.008 este canil ainda não existia” (fl. 211), ou seja, após o ajuizamento da ação; na área de Nédio Olbermann também há canil que, com base em fotos de 2007 e 2008, “não existia” (fl. 213), sendo também construído após o ajuizamento da ação; acerca de muro no imóvel e canil, foi dito, ainda, que, “Conforme fotografias às folhas 46/49 já existia o muro construído na Rua Passo Fundo e que às folhas 73/75, já existia o muro na Rua Jaciara, já existia os canis e os muros dividindo cada ocupante de cada parte do lote 49, deste modo concluímos que estas construções possuem idade aproximada de sete anos uma vez que as fotos são de maio de 2008” (fl. 223), de modo que foram construídos em 2008; acerca do “depósito com varanda, a casa, o piso cimentado e a floreira são construções recentemente concluídas, conforme informações do Sr. Claudinei que mora na referida casa, esta foi construída há um ano” (fl. 223), em 2014, portanto.
+Não se extrai da perícia, assim, qualquer elemento probatório de que os apelados tenham exercido a posse no imóvel por 10 (dez) anos, pois as construções evidenciadas pelo perito foram constatadas como ocorridas em 2008, 2013 e 2014, e como a ação foi ajuizada em 2008, não há elementos seguros a se deferir o direito à usucapião previsto no art. 1.238, parágrafo único, do CC/02.
+Por mais que os apelados tenham apego à resposta ao quesito 06, de fl. 227, da sua mera leitura se vê que a dita posse exercida há 20 (vinte) anos não foi constatada pelo perito, e sim informação repassada pela requerida/apelada Lúcia Leni Fochessatto ao mesmo, de forma unilateral, não se podendo considerar como prova do exercício possessório para fins de usucapião:
+“Às folhas 09 do processo em epígrafe consta que o requerido (João Gilberto Argenton) comprou da Colonizadora Feliz através de contrato assinado e 26 de janeiro de 1995 o lote 50. A senhora Lúcia Leni Fochessato me informou que neste ano vai fazer 20 anos que reside no local, ou seja, o lote 50 foi adquirido da Colonizadora Feliz em janeiro de 1995 na sequencia foram construídas as três casas de madeira onde residem os requeridos deste processo” (fl. 227).
+Depreende-se do escrito pelo perito é que, sobre o lote 50, a requerida disse que a posse seria exercida há 20 (vinte) anos, e que as 03 (três) casas foram construídas neste lote, conforme pode-se ver na imagem de fl. 207, entretanto, nada se afirma sobre o lote 49, objeto do litígio, nem mesmo posse por mais de 10 (dez) anos, nos termos da perícia.
+Inclusive, em resposta ao quesito 2, de fl. 226, no sentido de se “Existem indícios de posse ou posse anterior aos atuais possuidores”, o perito respondeu que “Não constatei haver posse de outras pessoas anteriores”, o que afasta o aludido pelos apelados, no sentido de que, antes deles, terceiro não informado teria exercido a posse por 05 (cinco) anos. [...]”.
+Outro ponto que deixa claro a ausência de posse desde 1995 é a expressa afirmação neste sentido no acórdão, em que, por amor ao debate, infirmou-se que a boa-fé, com o recebimento de notificação, deveria prevalecer:
+“[...] Mesmo que se analise o exercício de posse desde 1995, o que não se demonstrou, entre esta data e 2003, data da primeira notificação extrajudicial, decorreram-se apenas 08 (oito) anos, tempo insuficiente, ainda, para configuração de usucapião. Destaco que na notificação há expressa consignação de hipótese de desocupação do imóvel lote 49, devidamente recebido por pessoa do mesmo sobrenome do apelado João Argenton, a pessoa de Rosilda Argenton, devendo ser preservada a boa-fé objetiva. [...]”.
+Com isto, observa-se que a discussão acerca da ocorrência da usucapião ficou afastada pela ausência de posse desde 1995, e a aplicabilidade do art. 202, portanto, está descartada na espécie. Eventual reconhecimento de que a notificação foi ou não marco interruptivo é desnecessária, já que exteriorização de posse apenas se presume a partir de 2003, ano da primeira notificação.
+Portanto, não há elementos suficientes a se concluir pela modificação do acórdão embargado, ou erro na conclusão que se chegou.
+Não há vícios do art. 1022 do CPC/2015 e, conforme entendimento assente do Superior Tribunal de Justiça, os embargos de declaração só se revestem de efeito infringente quando existir, de fato, omissão, obscuridade, contradição ou erro material na decisão embargada, de maneira que a correção desses vícios implique, como consequência, na modificação do julgamento, o que não se configura no caso em questão, em que a pretensão da parte embargante é de revisitar a lide, pois o entendimento foi contrário à sua pretensão.
+Conforme ensinamentos de THEOTÔNIO NEGRÃO, “Os embargos de declaração não são palco para a parte simplesmente se insurgir contra o julgado e requerer sua alteração. Por isso, ‘não se admite embargos de declaração com efeitos modificativos quando ausente qualquer dos requisitos do art. 535 do Código de Processo Civil’ (STJ-Corte Especial, ED no REsp 437.380, rel. Min. Menezes Direito, j. 20.4.05, não conheceram, v.u., DJU 23.5.05, p. 119).” (Código de Processo Civil e legislação processual em vigor. Theotonio Negrão e José Roberto F. Gouvêa. 41. ed. São Paulo: Saraiva, 2009. nota 6 ao artigo 535. p. 742).
+Ante o exposto, REJEITO OS EMBARGOS.
+É como voto.
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a PRIMEIRA CÂMARA DE DIREITO PRIVADO do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência do DES. SEBASTIÃO BARBOSA FARIAS, por meio da Câmara Julgadora, composta pela DESA. NILZA MARIA PÔSSAS DE CARVALHO (Relatora), DES. JOÃO FERREIRA FILHO (1º Vogal) e DES. SEBASTIÃO BARBOSA FARIAS (2º Vogal), proferiu a seguinte decisão: À UNANIMIDADE, REJEITOU OS EMBARGOS.
+
+Cuiabá, 17 de dezembro de 2019.
+
+-------------------------------------------------------------------------------------------
+DESEMBARGADORA NILZA MARIA PÔSSAS DE CARVALHO - RELATORA
