@@ -1,0 +1,20 @@
+Decisão: Trata-se de habeas corpus impetrado em favor de Waldomiro de Oliveira contra acórdão proferido no âmbito do Superior Tribunal de Justiça, no RHC 110.539, assim ementado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS. RECORRENTE DEFINITIVAMENTE CONDENADO. PLEITO DE PRISÃO DOMICILIAR HUMANITÁRIA. REQUISITOS. EXTREMA DEBILIDADE. IMPOSSIBILIDADE DE REALIZAÇÃO DO TRATAMENTO NA UNIDADE PRISIONAL. NÃO VERIFICADOS. AUSÊNCIA DE ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+    II - A excepcional concessão do benefício da prisão domiciliar àqueles definitivamente condenados ao cumprimento de pena privativa de liberdade em regime inicial fechado, por interpretação extensiva do artigo 318 do Código de Processo Penal e artigo 117 da Lei de Execuções Penais, exige a comprovação inequívoca de que o reeducando esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, hipótese que não restou demonstrada in casu.
+    III - A Defesa limitou-se a repisar os argumentos suscitados no habeas corpus, o que atrai a Súmula n. 182 desta Corte Superior de Justiça.
+    Agravo regimental não conhecido”.
+    Narra o impetrante, em suma, que, (a) desde 23.8.2017, o paciente encontra-se segregado na Penitenciária III de Hortolândia para fins de cumprimento da pena privativa de liberdade que lhe foi imposta pelo Juízo da 13ª Vara da Seção Judiciária de Curitiba, em sentença transitada em julgado em 22.8.2017; (b) no cárcere, o paciente – pessoa com “idade avançada” e acometida de doenças crônicas preexistentes –, enfrenta complicações gradativas no seu estado de saúde, apresentando “sintomas depressivos e ansiosos graves”, “condição severa de emagrecimento” e problemas cardíacos, atestados por laudo médico coligido ao feito; (c) o quadro clínico do paciente demanda “tratamento médico multiprofissional e constante, alimentação balanceada e local com boas condições de higiene para implementação de procedimento médico”.
+    Sustenta, desse modo, que “a situação avançada de debilidade física e mental” do segregado constitui óbice à permanência no ambiente prisional, sendo recomenda a sua transferência para prisão domiciliar.
+    Postula, liminarmente e no mérito, o cumprimento da pena em regime de prisão domiciliar, nos moldes do art. 318, IV, do Código de Processo Penal, ou, alternativamente, o “direito à internação hospitalar à escolha de seus familiares”.
+    É o relatório. Decido.
+    2. Principio assinalando, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos, a saber: (i) a existência de plausibilidade jurídica (fumus boni juris); (ii) a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora). Sem que concorram esses requisitos, essenciais e cumulativos, não se legitima a concessão do provimento cautelar.
+    Num juízo de cognição sumária, próprio desta específica fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Ao lado disso, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se impõe quando a situação demonstrada nos autos representa manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirma.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente habeas corpus, indefiro a liminar.
+    Dê-se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 17 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
