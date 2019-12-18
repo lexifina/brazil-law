@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, American Airlines Inc. Aparelhado o recurso na violação do art. 178 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 178 da Constituição da República. Nesse sentido:
+    “AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE AÉREO DE CARGA. MERCADORIAS DANIFICADAS. SEGURADORA. AÇÃO DE REGRESSO. DANO MATERIAL. LIMITAÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. CONVENÇÃO DE VARSÓVIA. RE 636.331. TEMA 210 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO” (AI 822191 AgR, Relator(a): Min. Luiz Fux, Primeira Turma, julgado em 15.02.2019, ACÓRDÃO ELETRÔNICO DJe-038 DIVULG 22.02.2019 PUBLIC 25.02.2019).
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. OFENSA CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 3. Agravo Interno a que se nega provimento” (ARE 1146801 AgR, Relator(a): Min. Alexandre de Moraes, Primeira Turma, julgado em 05.10.2018, PROCESSO ELETRÔNICO DJe-220 DIVULG 15.10.2018 PUBLIC 16.10.2018).
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2019.
+Ministra Rosa Weber
+Relatora
