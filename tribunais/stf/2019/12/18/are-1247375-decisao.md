@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Agente de escolta/vigilância penitenciária. Possibilidade de cálculo da contribuição previdenciária sobre o adicional de insalubridade. Art. 6° da Lei Complementar n° 432/85. Pretensão improcedente. Recurso conhecido e desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, LIV e LV; 40, §§ 2° e 12; 93, IX; 150, IV; 195, § 5°; 201, § 11; todos da CF. Sustenta, em essência, que não incide contribuição previdenciária sobre os valores recebidos a título de adicional de insalubridade.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “O recurso extraordinário interposto não comporta seguimento.
+    Com efeito, não há hipótese do art. 102, III, “a”, da Constituição Federal, configurada, nem repercussão geral a ser admitida, segundo exame das razões oferecidas pela recorrente.
+    Daí que inadmito o recurso extraordinário interposto, nos termos do art. 1030, inciso I, alínea “a”, do Código de Processo Civil.”
+    A pretensão recursal não merece prosperar.
+    Quanto à alegada ofensa ao art. 93, IX, da CF, o Plenário do Supremo Tribunal Federal (STF) já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nessa linha, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Quanto à questão de fundo, dissentir das conclusões adotadas demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese, a saber, a Lei Complementar n° 432/85, providência vedada nesta via processual. Incide na hipótese a jurisprudência do STF que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional.
+    No mesmo sentido, vejam-se as seguintes decisões monocráticas: ARE 1.245.153/SP, Rel. Min. Alexandre de Moraes; ARE 1.195.704/SP, Rel. Min. Gilmar Mendes.
+    Por fim, cumpre registrar que o STF já assentou a ausência de repercussão geral da controvérsia relativa à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 18 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
