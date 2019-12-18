@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PIS. COFINS. ICMS. EXCLUSÃO. BASE DE CÁLCULO. CDA. PRESUNÇÃO DE LEGITIMIDADE. ÔNUS PROBATÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário (doc. 44, p. 1-9), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região (doc. 69, p. 1) que, em juízo de retratação (artigo 1.040, II, CPC), manteve decisão desse mesmo órgão julgador (doc. 42, p. 1-2) e assentou, in verbis:
+    “TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. DO PIS E DA COFINS. TEMA 69 DO STF (RE 574.706). LEIS 9.718/1998 E 12.973/2014. RETRATAÇÃO. PROVA. 1. Nos termos do enunciado do Tema 69 - STF, o ICMS destacado nas notas fiscais não compõe a base de cálculo para a incidência do PIS e da COFINS. 2. A tese jurídica advinda do julgamento do RE 574.706 aplica-se inclusive aos pagamentos efetuados sob a égide da Lei 12.973/2014 (TRF4, Arguição de Inconstitucionalidade n. n.º 5051557-64.2015.404.0000). 3. Nos embargos à execução fiscal, é ônus do embargante produzir prova destinada a afastar a presunção de certeza e liquidez de que goza o crédito tributário, inexistente na espécie. 4. Caso em que a embargante não se desincumbiu do ônus que lhe competia, não produzindo nenhuma prova de que houve, efetivamente, a inclusão do ICMS na base de cálculo do PIS e COFINS em cobrança.”
+    Nas razões do apelo extremo, a recorrente sustenta preliminar de repercussão geral e, no mérito, apontou violação ao artigo 195, I, da Constituição Federal.
+    Para tanto, alega que o ICMS deve ser excluído da base de cálculo da contribuição para a PIS e COFINS, na âmbito do decidido no Tema 69, RE 574.706, rel. min. Cármen Lúcia, da repercussão geral do Supremo Tribunal Federal.
+    Argui, ainda, ser desnecessário o reexame do conjunto fático-probatório na espécie.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    É certo que esta Corte, no julgamento do RE 574.706, rel. min. Cármen Lúcia (Tema 69), feito submetido à sistemática da repercussão geral, definiu orientação na Corte no sentido da exclusão de valores referentes ao ICMS da base de cálculo da contribuição para PIS e COFINS.
+    Ocorre que o acórdão recorrido concluiu não ter o contribuinte se desincumbido do ônus de demonstrar a efetiva inclusão do ICMS na base de cálculo da contribuição para PIS e COFINS, cujo crédito resultou executado por meio da CDA preservada ante a presunção de legitimidade.
+    Nesse contexto, observo que a violação constitucional que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos não se revela cognoscível em sede de recurso extraordinário, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se à fundamentação vinculada de discussão eminentemente de direito constitucional. No caso, incide os óbices erigidos pelas Súmulas nº 279 do STF, com o seguinte teor, in verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
