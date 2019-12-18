@@ -1,0 +1,2 @@
+Art. 2º-A - (…)
+§ 4º - O disposto neste artigo aplica-se aos membros dos conselhos dos Poderes do Estado, em relação ao exercício de suas atribuições, ainda que não percebam remuneração e exerçam função sem cargo, assim como aos integrantes da Secretaria de Estado de Fazenda, da Polícia Militar do Estado de Minas Gerais, do Corpo de Bombeiros Militar de Minas Gerais, da Polícia Civil de Minas Gerais e da Secretaria de Estado de Justiça e Segurança Pública, nos termos de regulamento.
