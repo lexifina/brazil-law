@@ -1,0 +1,24 @@
+Decisão: Trata-se de reclamação constitucional, ajuizada por Frederico Rogério Falcão da Costa, contra acórdão da 7ª Turma Recursal do Tribunal Regional Federal da 2ª Região, nos autos do Processo 0016520-14.2017.4.02.5152.
+    Na petição inicial, o reclamante sustenta a substituição da TR (Taxa Referencial) como índice de correção da contas vinculadas do FGTS por outros que efetivamente acompanhem as perdas inflacionárias. Afirma que essa matéria se encontra em discussão na ADI 5.090, nos autos do qual se determinou a suspensão dos processos que versem sobre o tema.
+    Argumenta que, no entanto, o recurso extraordinário interposto, alegando a discussão na ADI 5.090, teve o seu seguimento obstado, assim como o agravo que se seguiu. Nesses termos, afirma que o Juízo reclamado teria violado a autoridade do Supremo Tribunal Federal ao deixar de observar a decisão monocrática de suspensão nacional de processos que versem sobre a rentabilidade do FGTS, nos termos da determinação na ADI-MC 5.090.
+    Requer-se, assim, a suspensão do processo de origem até o julgamento do mérito da ADI 5.090 e, caso nela sobrevenha declaração de inconstitucionalidade da utilização da TR para a correção das contas vinculadas do FGTS, postula-se pelo prosseguimento do recurso extraordinário interposto.
+    Pleiteia-se a gratuidade de justiça.
+    A autoridade reclamada prestou informações. (eDOC 25)
+    Citada, a interessada não apresentou contestação, conforme certidão constante do eDOC 32.
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “PROCESSUAL CIVIL. RECLAMAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA DE CONTA VINCULADA AO FGTS. TAXA REFERENCIAL (TR). ADI 5090/DF. AUSÊNCIA DE JULGAMENTO PELO PLENÁRIO. DECISÃO RECLAMADA ANTERIOR À DECISÃO CAUTELAR DE SOBRESTAMENTO DOS FEITOS QUE ENVOLVAM A MATÉRIA. PARECER PELA IMPROCEDÊNCIA DA RECLAMAÇÃO”. (eDOC 33)
+    É o relatório.
+    Decido.
+    Inicialmente, defiro o pedido de assistência judiciária gratuita.
+    Registre-se que a reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    Na hipótese, a parte reclamante sustenta violação ao decidido por esta Corte na ADI 5.090, no qual se determinou a suspensão dos feitos que tratam da correção dos depósitos nas contas vinculadas ao FGTS pela taxa referencial. Com efeito, o Ministro Roberto Barroso deferiu medida cautelar nos autos da referida ADI para determinar a imediata suspensão de todos os feitos que cuidam desse tema nos seguintes termos:
+    “Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal. (DJe 9.9.2019)
+    Assim, entendo existir plausibilidade jurídica na tese defendida pelo reclamante.
+    Desse modo, o descumprimento da decisão proferida por esta Corte em ação de controle concentrado com efeitos vinculantes pelo Juízo de origem vulnerabiliza o próprio mecanismo jurídico de correção da conformidade vertical de ato infraconstitucional com a Constituição. Assim, verifico a necessidade de suspensão do processo na origem, nos termos da decisão proferida pelo Ministro Roberto Barroso na ADI 5.090.
+    Cabe ressaltar que o fato de o ato reclamado ter sido proferido em momento anterior ao julgamento da medida cautelar na ADI 5.090 não obsta a determinação de suspensão do processo, tendo em vista a inexistência de trânsito em julgado do ato reclamado.
+    Ante o exposto, julgo procedente o pedido para determinar o sobrestamento do Processo 0016520-14.2017.4.02.5152, em trâmite no Tribunal Regional Federal da 2ª Região, até o pronunciamento definitivo desta Corte na ADI-MC 5.090/DF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
