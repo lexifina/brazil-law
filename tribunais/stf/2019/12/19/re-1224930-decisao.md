@@ -1,0 +1,16 @@
+DESPACHO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. OPERAÇÕES DE ‘SWAP’ PARA FIM DE ‘HEDGE’. CARACTERIZAÇÃO DO FATO GERADOR DO IMPOSTO DE RENDA. ART. 43 DO CTN. RETENÇÃO NA FONTE. LEI 8.981/95. MP 1.788/98. LEI 9.779/99. POSSIBILIDADE. PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. NÃO VIOLAÇÃO.
+    I – As operações de ‘swap’ (troca) para o fim de ‘hedge’ (proteção) constituem fato gerador da obrigação tributária prevista no art. 43 do Código Tributário Nacional, na medida em que caracterizam acréscimo de renda.
+    II – A incidência do imposto de renda sobre o resultado obtido com a operação de ‘swap’ já era prevista desde a Lei 8.981/95 (art. 77, § 3º). Com a edição da Medida Provisória 1.788/98, convertida na Lei 9.779/99, o regime de recolhimento passou a ser o de retenção na fonte, incidente sobre o lucro obtido na operação de ‘swap’, o que é perfeitamente válido, por se tratar de mera política de arrecadação.
+    III – Inexistência de ofensa ao princípio da anterioridade tributária, insculpido no art. 104 do CTN, vez que, mesmo para os contratos assinados na vigência da Lei 8.981/95, o fato gerador do IR (o resultado positivo obtido) ocorreu já sob a égide da MP 1.788/98, convertida na Lei 9.779/99.
+    IV – Apelação improvida.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Assinalo, desde logo, que dei provimento ao AI 735.505/SP, interposto contra decisão que, emanada da Vice-Presidência do E. Tribunal Regional Federal da 3ª Região, negou trânsito ao presente recurso extraordinário, para admitir o apelo extremo em causa e determinar a devolução daqueles autos ao Tribunal de origem para que, neste, fosse observado o disposto no art. 543-B e respectivos parágrafos do CPC/73 (Lei nº 11.418/2006) em razão do reconhecimento, por esta Corte, da repercussão geral da questão constitucional suscitada no RE 596.286-RG/RJ, Rel. Min. MARCO AURÉLIO, motivo pelo qual os presentes autos me foram distribuídos por prevenção.
+    Convém salientar, nesse contexto, que o Supremo Tribunal Federal ainda não examinou o fundo da controvérsia jurídica em questão, eis que o “leading case” revelou-se processualmente inviável e teve seguimento negado pelo eminente Ministro Relator.
+    Impõe-se observar, por necessário, que o E. Tribunal “a quo” ordenou a remessa dos presentes autos a esta Suprema Corte, em ordem a viabilizar a substituição do recurso extraordinário originalmente selecionado como representativo de controvérsia jurídica afetada ao regime da repercussão geral.
+    Delineado esse quadro, verifico que o RE 596.286-RG/RJ foi substituído pelo RE 1.224.686/SP, também de Relatoria do eminente Ministro MARCO AURÉLIO, como paradigma de repercussão geral (Tema nº 185/RG).
+    Isso significa que se impõe, quanto ao Tema nº 185/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministro CELSO DE MELLO
+Relator
