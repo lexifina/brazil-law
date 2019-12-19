@@ -1,0 +1,15 @@
+DECISÃO:
+    1.  Trata-se de reclamação ajuizada em face de decisão que negou seguimento ao recurso extraordinário com base em tema da repercussão geral (art. 1.030, I, a, do CPC).
+    2.  A reclamante sustenta má aplicação do tema 174 da repercussão geral ao caso concreto, sob a assertiva de que “este E. STF restringiu a aplicação da tese ali fixada aos casos que versam sobre ‘resgate de reserva de poupança’ (desligamento do participante do plano de benefícios), o que não é o caso dos autos, já que os Terceiros Interessados buscam o recálculo de benefício complementar (participante assistido do plano de benefícios)”.
+    3. Em atendimento a despacho, a reclamante juntou os documentos necessários à instrução do feito (docs. 5 e segs.)
+    4.  É o relatório. Decido.
+    5. Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    6. Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    7. Não houve equívoco do órgão reclamado ao fazer incidir ao caso os efeitos da repercussão geral, conforme firmado pelo STF no Tema 174 (RE 582.504-RG). Isto porque a pretensão deduzida pelo autor na ação originária foi de “recalculo do complemento da aposentadoria mediante a aplicação dos índices indicados na inicial”, tendo em vista que “não foram devidamente corrigidos os últimos 12 salários de contribuição, acarretando prejuízos financeiros no pagamento do complemento da aposentadoria”. O recurso extraordinário foi interposto por alegação de afronta aos arts. 195, §5º, e 202 da CF/88 , em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. Pretensão de recálculo de complementação de aposentadoria utilizando-se do IPC. Sentença de procedência reformada com base na prescrição da pretensão. Mudança de entendimento do Superior Tribunal de Justiça. Prescrição apenas das parcelas além do quinquênio anterior à ação. No mérito propriamente dito, aplica-se o entendimento da Corte Superior. Manutenção da sentença com base no Recurso Repetitivo n. 1183474/DF. RECURSO DESPROVIDO”.
+    8. Apreciando o tema 174 da repercussão geral, esta Corte concluiu pela ausência de repercussão da questão referente ao “índice de correção monetária aplicável sobre as parcelas de contribuição a serem restituídas aos associados que se desligam de plano de previdência privada” (grifou-se). Isto porque suposta violação ao art. 202 configuraria mera ofensa reflexa à Constituição da República, já que dependeria de reexame prévio do caso à luz das normas infraconstitucionais. A matéria julgada na origem, portanto, é regida pelo tema acima apontado, de modo que não há que se falar em má aplicação da sistemática da repercussão geral.
+    9. Por todo o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+          Brasília, 19 de dezembro de 2019
+Ministro Luís Roberto Barroso
+Relator
