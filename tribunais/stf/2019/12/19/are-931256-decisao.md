@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA. SERVIDORES PÚBLICOS ESTADUAIS. VANTAGEM INCORPORADA. REESTRUTURAÇÃO ADMINISTRATIVA. LEI 2.387/2001 DO ESTADO DE MATO GROSSO DO SUL. DIREITO À PERMANÊNCIA DO REGIME LEGAL DE REAJUSTE DE VANTAGEM. INEXISTÊNCIA. PRECEDENTES. AGRAVO PROVIDO PARA, DESDE LOGO, PROVER O RECURSO EXTRAORDINÁRIO E DENEGAR A ORDEM.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “MANDADO DE SEGURANÇA - PRELIMINARES DE DECADÊNCIA, IMPOSSIBILIDADE JURÍDICA E LEGITIMIDADE DA AGEPREV AFASTADAS - SERVIDOR ESTADUAL - TAF - GRATIFICAÇÃO INCORPORADA - ART. 77, § 4º DA LEI 1.102/90 - REAJUSTE - LEIS 2.387/01, 2.964/04 E 3.146/05 - DIREITO LÍQUIDO E CERTO - ORDEM CONCEDIDA.
+    Não ocorre decadência quando a relação jurídica é típica de trato sucessivo.
+    Discussão a respeito da revisão de valores que compõem a remuneração de servidor ativo e inativo é de competência do Estado de Mato Grosso do Sul.
+    A insurgência a respeito de reconhecimento de direito à atualização de gratificação incorporada prevista em lei em sede de mandamus não caracteriza ação de cobrança.
+    A gratificação incorporada por força do artigo 77 da Lei 1.102/90 deve ser corrigida de acordo com a evolução da remuneração e parâmetros fixados pela legislação pertinente, tendo em vista que a lei que a revogou não dispôs em sentido contrário.” (Doc. 4, p. 107)
+    Os embargos de declaração opostos foram desprovidos (Doc. 6, p. 28).
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI, e 37, XIII e XV, da Constituição Federal (Doc. 6, p. 34-50). Alega, em síntese, a necessidade de aplicação do entendimento firmado no RE 563.965, Rel. Min. Cármen Lúcia, Tema 41 da Repercussão Geral. Afirma que o acórdão recorrido realizou “uma verdadeira equiparação ou vinculação da verba recebida, referente à incorporação de cargo em comissão que exerceram (estabilidade financeira) com o vencimento pago ao cargo em que se teria transformado aquele, estendendo as majorações do novo cargo à vantagem paga ao recorrido” (Doc. 6, p. 43).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice nas Súmulas 279 e 280 do STF (Doc. 6, p. 99-102).
+    Interposto agravo nos próprios autos contra referida decisão, determinei a devolução do feito à origem pela sistemática da repercussão geral – RE 563.965, Tema 41 (Doc. 10).
+    O Órgão Especial do Tribunal de Justiça de Mato Grosso do Sul não exerceu o juízo de retratação, em acórdão cuja ementa transcrevo, in verbis:
+    “MANDADO DE SEGURANÇA – RETORNO DOS AUTOS AO ÓRGÃO ESPECIAL PARA REAPRECIAÇÃO DA MATÉRIA – SERVIDORES PÚBLICOS ESTADUAIS – TAF - GRATIFICAÇÃO INCORPORADA – ART. 77 DA LEI 1.102/90 – REAJUSTE – LEIS 2.387/01, 2.964/04 E 3.146/05 – INAPLICABILIDADE DA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL COM BASE NO RE Nº 563.965/RN – TEMA 41 - RETRATAÇÃO NÃO EXERCIDA.
+    - Hipótese em que se analisa a matéria decidida no acórdão em relação ao julgamento ocorrido em sede de repercussão geral no RE 563.965/RN – Tema 41.
+    - O acórdão não contrasta com o paradigma porque não se está discutindo direito adquirido a regime jurídico, mas reajuste previsto em lei de vantagens que já haviam sido incorporadas aos vencimentos por ocasião da edição da nova norma.” (Doc. 23, p. 22)
+    Em razão do juízo negativo de retratação, o Vice-Presidente do Tribunal a quo determinou o reenvio dos autos a esta Corte (Doc. 23, p. 42-43).
+    É o relatório. DECIDO.
+    O presente agravo merece prosperar.
+    Ab initio, ressalto que o presente recurso foi interposto sob a égide do Código de Processo Civil de 1973.
+    O acórdão recorrido diverge da jurisprudência desta Suprema Corte, a qual se pacificou no sentido de que, uma vez respeitada a irredutibilidade dos vencimentos, não existe direito adquirido a regime jurídico. Esse entendimento foi reafirmado pelo Plenário no julgamento do mérito do Recurso Extraordinário 563.965, da relatoria da Ministra Cármen Lúcia, paradigma do Tema 41 da Repercussão Geral, DJe de 20/3/2009. O acórdão desse julgado restou assim ementado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    O Supremo Tribunal Federal, ao julgar casos semelhantes ao dos autos, referentes ao instituto da estabilidade financeira de servidor público que tenha incorporado aos seus proventos adicionais por tempo de serviço ou parcelas relativas a função ou cargo comissionado por ele exercido, firmou entendimento no sentido de que não há direito à permanência de regime legal de reajuste de vantagem.
+    À guisa de exemplo, em casos referentes à legislação do Estado de Mato Grosso do Sul, confiram-se os julgados proferidos no ARE 782.465-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 13/5/2019, no RE 971.192-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 12/12/2019 e no RE 698.242-AgR-EDv-AgR, Rel. Min. Teori Zavascki, Plenário, DJe de 28/10/2015, este último com a seguinte ementa:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDORES PÚBLICOS. ESTADO DO MATO GROSSO DO SUL. ESTABILIDADE FINANCEIRA. DESVINCULAÇÃO ENTRE A VANTAGEM INCORPORADA E OS VENCIMENTOS DO CARGO EM COMISSÃO. LEGITIMIDADE. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME DE CÁLCULO DE REMUNERAÇÃO. JURISPRUDÊNCIA PACÍFICA. ART. 332 DO RISTF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (Grifei)
+    Ex positis, PROVEJO o agravo e, com fundamento no disposto no artigo 932, V, do Código de Processo Civil/2015, DOU PROVIMENTO ao recurso extraordinário para denegar a ordem. Sem honorários advocatícios (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
