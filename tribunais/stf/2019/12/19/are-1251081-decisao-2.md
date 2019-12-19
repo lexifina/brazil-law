@@ -1,0 +1,30 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIME DE CORRUPÇÃO PASSIVA. ARTIGO 317, CAPUT, DO CÓDIGO PENAL. PENAL E PROCESSUAL PENAL. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS ORDINÁRIAS. SÚMULA 281 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Josival Bezerra de Melo, objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça que assentou o seguinte:
+    “Trata-se de embargos de declaração de Josival Bezerra de Melo contra acórdão que rejeitou seus embargos de declaração e concedeu ordem de habeas corpus de ofício, conforme termos da seguinte ementa (fls. 9.413/9.415):
+    […]
+    O embargante alega, em síntese, que a jurisprudência seria cristalina no sentido de não se poder ter a aposentadoria cassada com base no art. 92 do Código Penal. Afirma ter tido os proventos de aposentadoria cassados, motivo pelo qual usa os presentes aclaratórios para que seja determinada a revogação do ato de cassação de sua aposentadoria.
+    Requer que a pena de 2 anos e 6 meses seja declarada prescrita, pois a pena máxima do crime seria de 8 anos, lapso esse já decorrido (fls. 9.539/9.541).
+    É o relatório.
+    Os presentes embargos encontram-se prejudicados ante o decidido às fls. 9.600/9.602, ocasião na qual declarei extinta a punibilidade de Josival Bezerra de Melo pelo advento da prescrição.
+    O reconhecimento da prescrição, inclusive, importa na extinção da pena e de todos os seus consectários legais. À fl. 9.438 consignei expressamente que a pena da perda de cargo não se transforma em cassação de aposentadoria.
+    No entanto, essa vedação à cassação dos proventos de aposentadoria em decorrência da condenação não alcança punição aplicada em processo administrativo próprio. Nesse caso, as discussões deverão ser travadas em sede própria, não nos autos desta ação penal.
+    Ante o exposto, julgo os embargos prejudicados”. (Doc. 52, p. 207-209 )
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXVI e LVII, da Constituição Federal. (Doc. 53, p. 19-79)
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que as alegações encontrariam óbice na Súmula 281 do STF, em decisão com a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DA SÚMULA 281/STF. RECURSO NÃO ADMITIDO”. (Doc. 55, p. 20)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    De fato, a decisão que desafia o recurso extraordinário deve provir de única ou última instância, razão pela qual o não esgotamento das instâncias recursais ordinárias conduz à inadmissão do apelo extremo.
+    No caso sub examine, verifica-se que o ora agravante deixou de interpor agravo interno em face da decisão monocrática que julgou prejudicados os segundos embargos de declaração em recurso especial, descumprindo assim, o comando expresso no artigo 102, III, da Constituição Federal, que exige o esgotamento das instâncias recursais ordinárias para a interposição de recurso extraordinário.
+    Incide, in casu, o óbice erigido pela Súmula 281 desta Suprema Corte, de seguinte teor: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário contra a decisão impugnada.” Nesse sentido, colacionam-se os seguintes julgados:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. APELO EXTREMO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DE RELATOR NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SÚMULA 281/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 664.388-AgR-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 23/3/2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO IMPUGNADA. MONOCRÁTICA. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. AGRAVO IMPROVIDO. I - Recurso extraordinário interposto contra decisão monocrática em embargos de declaração. Não esgotamento da via recursal ordinária (súmula 281 do STF). II - Agravo regimental improvido. (ARE 656.132-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 16/11/2011)
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Servidor público federal. Não aprovação em estágio probatório. Prazo para a homologação. 4. Recurso extraordinário oposto contra decisão monocrática que indefere liminarmente embargos de divergência no âmbito do STJ. Incidência da Súmula 281 do STF. Precedentes. 5. Agravo regimental a que se nega provimento.” (RE 1.047.587-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 6/6/2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. PRESTAÇÃO DE CONTAS DE CAMPANHA. DESAPROVAÇÃO. SUPOSTA NULIDADE DA INTIMAÇÃO. PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE JULGOU EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS ORDINÁRIAS. SÚMULA 281 DO STF. ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA SEM REPERCUSSÃO GERAL. TEMA 181. RE 598.365. AGRAVO INTERNO DESPROVIDO.” (ARE 1.037.001-AgR, Rel. Min. Luiz Fux, Primeira Turma DJe de 1º/9/2017, grifei)
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. SÚMULA 281 DO STF. INCIDÊNCIA NO CASO. 1. Aplica-se no caso a Súmula 281 desta CORTE: É inadmissível o recurso extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada. 2. Agravo Interno a que se nega provimento.” (ARE 1.193.713-AgR, Rel. Min. Alexandre de Moraes, DJe de 17/5/2019)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
