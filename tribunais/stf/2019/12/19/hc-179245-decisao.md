@@ -1,0 +1,36 @@
+DECISÃO
+HABEAS CORPUS. PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. CITAÇÃO POR EDITAL. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. RETOMADA DO CURSO DO PROCESSO. SUPERVENIÊNCIA DE SENTENÇA ABSOLUTÓRIA. TRÂNSITO EM JULGADO. PERDA SUPERVENIENTE DE OBJETO. HABEAS CORPUS PREJUDICADO.
+Relatório
+    1. Habeas corpus, sem requerimento de medida liminar, impetrado pela Defensoria Pública da União em benefício de Marilda Christ, contra acórdão da Sexta Turma do Superior Tribunal de Justiça pelo qual, em 12.11.2019, negado provimento ao Recurso Ordinário em Habeas Corpus n. 112.703/RS, Relator o Ministro Nefi Cordeiro.
+O caso
+    2. Consta dos autos ter sido a paciente denunciada pela prática do crime descrito no inc. I do art. 1º da Lei n. 8.137/1990, na forma do art. 71 do Código Penal porque, como sócia gerente da empresa Christ Lima Ltda., teria reduzido tributos federais (IRPJ, CSLL, PIS e COFINS) relativos aos períodos de apuração havidos em 1998, em valores que, somados, alcançavam a quantia de R$745.606,58 (setecentos e quarenta e cinco mil, seiscentos e seis reais e cinquenta e oito centavos), perfazendo o crédito tributário em favor da União de R$2.908.596,01 (dois milhões, novecentos e oito mil, quinhentos e noventa e seis reais e um centavo), valor já acrescido dos consectários legais.
+    A denúncia foi recebida em 10.3.2003.
+    Por estar em local incerto e não sabido, a ré foi citada por edital.
+    Em audiência de instrução realizada em 2.12.2003, não tendo comparecido em juízo nem constituído advogado, o juízo da Vigésima Segunda Vara Federal de Porto Alegre/RS determinou a suspensão do processo e do prazo prescricional, na forma do art. 366 do Código de Processo Penal, pelo prazo máximo de doze anos.
+    Transcorrido o prazo sem a localização da ré, foi proferida nova decisão, determinando-se a retomada da contagem do prazo prescricional e o prosseguimento do processo.
+    3. A defesa impetrou habeas corpus no Tribunal Regional Federal da Quarta Região, ao argumento de que “o prosseguimento da ação penal sem a citação da ré afrontaria os princípios do contraditório e da ampla defesa, pois a acusada seria processada e julgada sem tomar conhecimento da acusação e sem possibilidade de produzir provas em contrário” (fl. 15, e-doc. 2).
+    Em 18.9.2018, o Desembargador João Pedro Gebran Neto, Relator do Habeas Corpus n. 5035576-87.2018.4.04.0000/RS, deferiu parcialmente o requerimento liminar para suspender o andamento da Ação Penal n. 5025621-72.2018.4.04.7100 até o julgamento final da impetração (fls. 15-19, e-doc. 2).
+    Em 23.1.2019, no julgamento do mérito, a Oitava Turma do Tribunal Regional Federal da Quarta Região denegou a ordem:
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CITAÇÃO POR EDITAL. SUSPENSÃO DO CURSO DO PROCESSO E DO PRAZO PRESCRICIONAL. RETOMADA DO PROCESSO APÓS O TRANSCURSO DO PRAZO. AUSÊNCIA DE CITAÇÃO PESSOAL. AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INOCORRÊNCIA. ORDEM DENEGADA.
+    1. O prazo máximo de suspensão do curso do processo e do prazo prescricional é regulado pelo artigo 109 do Código Penal, nos termos do enunciado sumular 415 do Superior Tribunal de Justiça. Findo tal prazo, deve ser levantada a suspensão da prescrição e retomado o curso regular do processo.
+    2. Desnecessária a ciência do acusado revel, quando da retomada da marcha processual, tendo em vista que a sua não localização propiciou a citação por edital, a suspensão do processo e do lapso prescricional, devendo, após o decurso dessa, prosseguir seu curso. Precedentes.
+    3. Ordem denegada” (fl. 54, e-doc. 2).
+    4. Contra essa decisão se interpôs no Superior Tribunal de Justiça o Recurso Ordinário em Habeas Corpus n. 112.703/RS, no qual se alegou que “seria cabível apenas o retorno da fluência do prazo prescricional, contudo com a manutenção da suspensão do processo”.
+    Em 12.11.2019, a Sexta Turma do Superior Tribunal de Justiça negou provimento ao recurso ordinário nos termos seguintes:
+    “RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. CITAÇÃO POR EDITAL. ART. 366 DO CÓDIGO DE PROCESSO PENAL. SUSPENSÃO DO CURSO DO PROCESSO E DA PRESCRIÇÃO. PRAZO MÁXIMO. ART. 109 DO CÓDIGO PENAL. CONSTITUIÇÃO DE DEFESA TÉCNICA. RECURSO IMPROVIDO.
+    1. Esgotado o prazo máximo de suspensão processual, nos termos do art. 366 do CPP, regulado pelas mesmas regras contidas no art. 109 do Código Penal – in casu, 12 anos –, e citado o réu por edital, haja vista a sua não localização, deve o feito ter o seu regular prosseguimento, mesmo com a ausência daquele à lide, mediante a constituição de defesa técnica.
+    2. Recurso em habeas corpus improvido” (fl. 117, e-doc. 2).
+    5. Esse o acórdão objeto do presente habeas corpus, no qual a impetrante alega que “a volta do curso processual sem a devida citação pessoal da paciente fere integralmente os princípios constitucionais do contraditório e da ampla defesa, uma vez que, se prosseguirá com uma ação penal na qual a paciente evidentemente não tem conhecimento, pois a mesma não compareceu em juízo e nem constituiu advogado” (fl. 2, e-doc. 1).
+    Sustenta que, “em relação ao tema ora em destaque, o STF no julgamento do RE n. 600.851 RG/DF que aborda essa questão, a Suprema Corte, diante da relevância do tema veio por reconhecer a repercussão geral da mesma, todavia, não julgando o mérito até a presente data” (fl. 4, e-doc. 1).
+    Assevera que “a revelia não é compatível com o que dispõe o Código de Processo Penal, pois o art. 366 do mesmo diploma, justamente, impõe a suspensão do processo penal nas hipóteses em que, quando o réu é citado por edital, não comparece em juízo e não constitui advogado. O real sentido desse dispositivo é propriamente resguardar o direito de defesa que deve ser exercido em sua plenitude, principalmente nos processos penais” (fl. 5, e-doc. 1).
+    Este o teor dos pedidos:
+    “Requer seja determinada uma nova suspensão da ação penal n. 5025621-72.2018.4.04.7100 que tramita em favor da paciente e que a mesma perdure até a localização da acusada” (fl. 6, e-doc. 1).
+    6. A Procuradoria-Geral da República manifestou-se pela extinção do processo sem julgamento do mérito pela perda superveniente do objeto.
+    Examinada a matéria posta à apreciação, DECIDO.
+    7. A presente impetração está prejudicada. Conforme apontado pela Procuradoria-Geral da República, consta do sítio do Tribunal Regional Federal da Quarta Região, que, nos autos da Ação Penal n. 5025621-72.2018.4.04.7100/RS, o juízo da Vigésima Segunda Vara Federal de Porto Alegre/RS, acolhendo manifestação do Ministério Público Federal, absolveu a paciente, nos termos do inc. V do art. 386 do Código de Processo Penal, pela ausência de prova de a ré ter concorrido para a prática da infração penal.
+    Essa decisão transitou em julgado em 13.12.2019.
+    8. Pelas mudanças processadas no quadro fático-jurídico após a impetração, julgo prejudicado o presente habeas corpus pela perda superveniente do objeto (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal, art. 38 da Lei n. 8.038/1990 e art. 659 do Código de Processo Penal).
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
