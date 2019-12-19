@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PROCESSUAL CIVIL. COMPLEMENTAÇÃO DE APOSENTADORIA. RECURSO EXTRAORDINÁRIO INTERPOSTO EM FACE DE DECISÃO DE MINISTRO DESTA SUPREMA CORTE. ERRO GROSSEIRO. OCORRÊNCIA. DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO, COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS AO JUÍZO DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO. RECURSO NÃO CONHECIDO.
+    Decisão: Trata-se de recurso extraordinário interposto por Pilade Mori Lopes, por intermédio da Petição 72.418/2019 (Doc. 53), em face de decisão monocrática de minha relatoria, assim ementada:
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPLEMENTAÇÃO DE APOSENTADORIA PREVISTA EM LEI ESTADUAL. FERROVIÁRIOS DA EXTINTA FEPASA. COMPETÊNCIA DA JUSTIÇA COMUM. PRECEDENTES. AGRAVO PROVIDO PARA, DESDE LOGO, PROVER O RECURSO EXTRAORDINÁRIO.” (Doc. 51)
+    É o relatório. DECIDO.
+    O presente recurso é manifestamente incognoscível.
+    Com efeito, o manejo de recurso extraordinário em face de decisão proferida por Ministro ou Turma desta Suprema Corte evidencia a ocorrência de erro grosseiro. A propósito, confiram-se, à guisa de exemplo, os seguintes julgados:
+    “Recurso extraordinário interposto contra acórdão proferido por Turma do STF. Inviabilidade jurídica e constitucional. 2. Agravo regimental a que se nega provimento.” (AI 297.864-AgR-AgR, Rel. Min. Néri da Silveira, Plenário, DJ de 14/12/2001, grifei)
+    “RECURSO EXTRAORDINÁRIO INTERPOSTO - ACÓRDÃO DO SUPREMO – INADEQUAÇÃO. É inadequado recurso extraordinário contra acórdão de Turma do Supremo. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil.” (AI 755.519-ED-AgR-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 24/10/2013, grifei)
+    “Agravo regimental no agravo regimental no agravo de instrumento. Matéria criminal. Recurso extraordinário contra acórdão do Supremo Tribunal Federal. Consumação do Trânsito em julgado. Jurisdição desta Corte encerrada no presente feito. Recurso manifestamente protelatório. Circunstância que autoriza o imediato cumprimento da decisão proferida por esta Suprema Corte, independentemente da publicação do acórdão. Precedentes. Regimental a que se nega provimento. Baixa imediata para execução da pena imposta.” (AI 728.267-AgR-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 30/9/2011, grifei)
+    Saliente-se, ainda, que esta Corte sufraga o entendimento de que o erro grosseiro obsta a aplicação do postulado da fungibilidade recursal. Nesse sentido:
+    “JULGAMENTO COLEGIADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL – INTERPOSIÇÃO, CONTRA O ACÓRDÃO, DE ‘AGRAVO REGIMENTAL’ – INADMISSIBILIDADE – ERRO GROSSEIRO – CONSEQUENTE INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL – RECURSO DE AGRAVO NÃO CONHECIDO.
+    – Não se revela admissível ‘agravo regimental’ contra acórdão emanado de órgão colegiado (Turma ou Plenário) do Supremo Tribunal Federal. Precedentes.
+    – Inaplicabilidade, ao caso, por tratar-se de erro grosseiro, do postulado da fungibilidade recursal. Precedentes. Doutrina.” (ARE 926.113-AgR-EDv-AgR-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 10/11/2016)
+    Por oportuno, vale destacar a lição do inolvidável professor Barbosa Moreira:
+    “Recurso inadmissível, ou tornado tal, não tem a virtude de empecer ao trânsito em julgado: nunca a teve, ali, ou cessou de tê-la, aqui. Destarte, se inexiste outro óbice (isto é, outro recurso ainda admissível, ou sujeição da matéria ex vi legis, ao duplo grau de jurisdição), a coisa julgada exsurge a partir da configuração da inadmissibilidade. Note-se bem: não a partir da decisão que a pronuncia, pois esta, como já se assinalou, é declaratória; limita-se a proclamar, a manifestar, a certificar algo que lhe preexiste.” (BARBOSA MOREIRA, José Carlos. Comentários ao Código de Processo Civil. 16. ed. Rio de Janeiro: Forense, 2011. p. 266)
+    Destarte, com vistas a impedir verdadeiro abuso de direito processual, faz-se necessária a imediata certificação do trânsito em julgado do feito.
+    Ex positis, com fundamento no artigo 932, III, do Código de Processo Civil/2015, NÃO CONHEÇO do presente RECURSO, por ser manifestamente inadmissível.
+    DETERMINO à Secretaria Judiciária desta Suprema Corte que certifique o trânsito em julgado do presente feito, com a consequente baixa imediata dos autos ao Juízo de origem, independentemente da publicação desta decisão.
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
