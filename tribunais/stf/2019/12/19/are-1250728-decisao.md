@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Tráfico de Entorpecentes e associação para esse fim. Preliminar rejeitada. Interceptação telefônica tida por prova idônea. Materialidade e autorias comprovadas. Condenações mantidas. Confissão de parte das rés quanto ao tráfico. Pena -base fixada acima do mínimo com excessivo rigor. Redução. Impossibilidade de aplicação do redutor e da substituição da pena corporal por restritivas de direitos para nenhum dos acusados, em razão da demonstração de dedicação a atividades criminosas. Reincidência que pode ser tomada como agravante e como impedimento para a concessão da benesse prevista no art. 33, § 4°, da Lei n. 11.343/06 sem que implique em bis in dem. Finalidades distintas da mesma circunstância que é analisada em fases diferentes. Regimes mantidos. Recursos parcialmente providos, rejeitada a preliminar.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que “o v. acórdão impugnado está em completa dissonância com o entendimento cristalizado por esta Suprema Corte, visto que a r. decisão que decretou as medidas cautelares de interceptação telefônica fere, sem resquício de dúvidas, o disposto no artigo 93, inciso IX, da Constituição Federal”. Afirma que “o il. Magistrado de piso deferiu todos os pleitos policiais da forma mais LACÔNICA E DESFUNDAMENTADA possível”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    A preliminar suscitada, relativa à inidoneidade da interceptação telefônica, não pode ser acolhida, posto que já foi detidamente analisada na r. sentença, que a rejeitou fundamentadamente (fls. 346/347). Em síntese, as referidas interceptações telefônicas foram autorizadas judicialmente na forma prevista em Lei e as transcrições sempre estiveram à disposição da defesa, sendo desnecessária sua degravação integral. Nenhum prejuízo foi comprovado, como seria necessário para o acolhimento de nulidade processual, inexistindo cerceamento de defesa.
+    […].”
+    Esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de dezembro de 2019.
+Ministro Luís Roberto Barroso
+Relator
