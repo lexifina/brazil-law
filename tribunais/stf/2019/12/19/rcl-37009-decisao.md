@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Adobe Assessoria de Serviços Cadastrais S.A. e Crefisa S.A. Crédito, Financiamento e Investimentos asseveram haver a Relatora do agravo de instrumento em recurso de revista nº 0010914-22.2016.5.03.0013, integrante da Sexta Turma do Tribunal Superior do Trabalho, olvidado o decidido na arguição de descumprimento de preceito fundamental nº 324 e, sob o regime da repercussão geral, no recurso extraordinário nº 958.252 – Tema nº 725.
+    Segundo narram, figuram como rés em ação trabalhista por meio da qual empregado da primeira empresa – Adobe – pretende a declaração de ilicitude da terceirização verificada, uma vez que os serviços prestados estariam ligados à atividade-fim da segunda reclamante – Crefisa. Mencionam acolhido o pedido, a resultar na configuração de vínculo com a tomadora e o enquadramento na categoria dos financiários. Interposto recurso de revista, teve a sequência impedida. Sobreveio agravo de instrumento, acabou suspenso pela autoridade reclamada, surgindo o alegado descompasso.
+    Salientam contrariedade aos paradigmas no que obrigatória a observância do entendimento adotado a partir da publicação da ata de julgamento respectiva, mostrando-se desnecessário aguardar o trânsito em julgado dos acórdãos tidos como desrespeitados. Sublinham admitida, nestes, a validade da intermediação de mão de obra inclusive no tocante à atividade-fim.
+    Requerem, no campo precário e efêmero, seja suspenso o ato atacado e determinado o exame do agravo de instrumento em recurso de revista em consonância com a óptica veiculada nos paradigmas. Buscam a confirmação da providência.
+    A conclusão da análise da arguição de descumprimento de preceito fundamental ocorreu na Sessão Plenária de 30 de agosto de 2018 e a publicação da ata de julgamento no dia seguinte.
+    O pronunciamento impugnado foi proferido em 27 de agosto de 2019.
+    2. Quanto ao proclamado no recurso extraordinário nº 958.252, a leitura da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela que o cabimento da reclamação, buscando ver assentada erronia quanto à sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente se verifica quando apreciado agravo interposto contra inadmissão de extraordinário. O requisito não foi atendido na situação concreta, tendo sido direcionada a medida em face de ato praticado pela Relatora do agravo de instrumento em recurso de revista.
+    No tocante ao apontado desrespeito ao decidido na arguição de descumprimento de preceito fundamental nº 324, a par de o ato reclamado haver sido editado em momento anterior, nele nada se decidiu sobre a problemática atinente à validade da terceirização. A Relatora do processo, no Tribunal Superior Trabalho, limitou-se a suspendê-lo, com a finalidade de aguardar a apreciação de declaratórios interpostos nos paradigmas alusivos à questão da validade da terceirização. Em síntese, inexiste identidade material entre o versado no ato atacado e os acórdãos ditos inobservados.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 19 de dezembro de 2019.
+Ministro MARCO AURÉLIO
+Relator
