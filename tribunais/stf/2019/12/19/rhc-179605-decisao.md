@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do STJ, assim ementado (HC 428.369/PE - eDOC 6, p. 54):
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ALEGAÇÃO DE NULIDADE DA SESSÃO DE JULGAMENTO DO RECURSO DE APELAÇÃO. NÃO OCORRÊNCIA. INTIMAÇÃO DE UM DOS CINCO ADVOGADOS CONSTITUÍDOS NOS AUTOS. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO. 1. A decisão agravada deve ser mantida por seus próprios fundamentos, pois em consonância com a jurisprudência desta Corte. 2. Não há nulidade da sessão de julgamento do acórdão da apelação, pois a intimação somente foi dirigida a um dos cinco advogados da parte, uma vez que o requerimento no sentido de que todos os seus patronos fossem intimados dos atos processuais somente foi feito na primeira instância e não houve a comprovação de prejuízo concreto. 3. Agravo regimental improvido.
+    Alega-se que: a) o TJSC, ao designar a sessão de julgamento do Recurso de Apelação, deixou de intimar a todos os procuradores do paciente; b) quando da apresentação da resposta à acusação (ocorrida em outubro de 2012), a defesa técnica do paciente requereu o cadastramento de todos os seus procuradores para que as devidas intimações fossem a todos dirigidas; c) “o prejuízo da defesa do recorrente é manifesto, eis que a ausência desta intimação ceifou a oportunidade de proferir sustentação oral na sessão de julgamento e, de igual forma, apresentar o recurso cabível contra aquela e ter que iniciar o cumprimento da pena sem ter a possibilidade de ver a matéria apreciada pelas instancias superiores”; d) há nulidade processual, tendo em vista a violação ao art. 272, §5º, do CPC, aplicado subsidiariamente ao processo penal.
+    Pugna, liminarmente, pelo sobrestamento da execução criminal. No mérito, pede o provimento do recurso para declarar a nulidade do realizado pelo Tribunal de Justiça de Santa Catarina.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na situação aventada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 19 de dezembro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
