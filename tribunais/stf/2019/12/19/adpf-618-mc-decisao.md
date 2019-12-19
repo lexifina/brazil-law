@@ -1,0 +1,6 @@
+DECISÃO: Assinalo, desde logo, por necessário, que o Supremo Tribunal Federal tem entendido revelar-se possível a aplicação analógica do art. 12 da Lei nº 9.868/99 ao procedimento de arguição de descumprimento de preceito fundamental (ADPF 181/DF, Rel. Min. MARCO AURÉLIO – ADPF 222-MC/MT, Rel. Min. CÁRMEN LÚCIA – ADPF 233/SP, Rel. Min. GILMAR MENDES – ADPF 236-MC/DF, Rel. Min. ROBERTO BARROSO – ADPF 245/DF, Rel. Min. MARCO AURÉLIO – ADPF 263/PB, Rel. Min. GILMAR MENDES – ADPF 271/DF, Rel. Min. CÁRMEN LÚCIA – ADPF 276/DF, Rel. Min. DIAS TOFFOLI – ADPF 284/PB, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    Sendo assim, tendo em vista a relevância da matéria ora em exame, e considerando, ainda, que se acham presentes os requisitos autorizadores da instauração do procedimento abreviado, a que se refere a norma legal que venho de mencionar (Lei nº 9.868/99, art. 12), ouçam-se, no prazo de 10 (dez) dias, os órgãos de que emanaram os atos estatais ora impugnados: O Senhor Presidente da República e os Senhores Presidentes da Câmara dos Deputados e do Senado Federal, bem  assim os Senhores Presidentes do Conselho Federal de Medicina e do Conselho Regional de Medicina do Estado do Rio de Janeiro.
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministro CELSO DE MELLO
+Relator
