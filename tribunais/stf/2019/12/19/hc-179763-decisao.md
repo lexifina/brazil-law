@@ -1,0 +1,25 @@
+DECISÃO
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INDEFERIMENTO DE MEDIDA LIMINAR EM HABEAS CORPUS POR DESEMBARGADOR. ATO QUESTIONADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. JULGAMENTO DE MÉRITO DA IMPETRAÇÃO NO TRIBUNAL DE JUSTIÇA. ACÓRDÃO SUBSTITUTIVO DA DECISÃO MONOCRÁTICA. HABEAS CORPUS PREJUDICADO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Fábio Rodrigo Peresi e outro, advogados, em benefício de Marcelo Domingues Celico, contra decisão da Ministra Laurita Vaz, do Superior Tribunal de Justiça, pela qual, em 5.12.2019, indeferido liminarmente o Habeas Corpus n. 549.815, cujo objeto é o indeferimento da medida liminar no Habeas Corpus n. 2259379-87.2019.8.26.0000 pelo Desembargador Guilherme G. Strenger, do Tribunal de Justiça de São Paulo:
+    “HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA”.
+    2. Contra essa decisão impetra-se o presente habeas corpus, no qual os impetrantes pedem o afastamento da Súmula n. 691 deste Supremo Tribunal.
+    Alegam que o paciente e o coautuado Paulo Eduardo Fernandes Pereira teriam sido presos em 11.11.2019 pela prática de tráfico de drogas, com cinco tijolos de maconha pesando 3.885 gramas.
+    Asseveram que o decreto prisional estaria fundamentado apenas “na gravidade abstrata do delito e para garantia da ordem pública”.
+    Assinalam terem constado do decreto prisional elementos estranhos à sua condição subjetiva.
+    Salientam demonstrada “a ausência de periculum libertatis, pleiteando-se ao PACIENTE a aplicação de medidas cautelares alternativas à prisão, nos termos do artigo 319 do Código de Processo Penal”.
+    Eis o teor dos pedidos e do requerimento:
+    “Por todo o exposto, no mérito, requer-se que este SUPREMO TRIBUNAL FEDERAL conceda a presente ordem de habeas corpus concedendo assim a liberdade provisória ao PACIENTE, determinando-se a imediata expedição de alvará de soltura em favor de MARCELO DOMINGUES CELICO, independentemente e sem prejuízo da aplicação de medidas cautelares diversas da prisão (art. 319, CPP), cessando o flagrante constrangimento ilegal a que vem sendo sujeitado”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A presente impetração está prejudicada.
+    Este habeas corpus foi impetrado contra decisão da Ministra Laurita Vaz, do Superior Tribunal de Justiça, pela qual, em 5.12.2019, indeferido liminarmente o Habeas Corpus n. 549.815, cujo objeto é o indeferimento da medida liminar no Habeas Corpus n. 2259379-87.2019.8.26.0000 pelo Desembargador Guilherme G. Strenger, do Tribunal de Justiça de São Paulo.
+    Consta do sítio do Tribunal de Justiça de São Paulo que, em 16.12.2019, a Décima Primeira Câmara de Direito Criminal julgou o mérito do Habeas Corpus n. 2259379-87.2019.8.26.0000, substituindo-se, assim, o ato coator apontado e objeto de julgamento no Superior Tribunal de Justiça.
+    4. A decisão objeto da impetração no Superior Tribunal de Justiça foi substituída pelo julgamento de mérito no Tribunal de Justiça de São Paulo.
+    Os novos fundamentos desse julgado não podem ser apreciados neste momento, sob pena de supressão de instância e em prejuízo do paciente, que não teria tido oportunidade de manifestar-se sobre os fundamentos da decisão proferida. Confira-se a jurisprudência deste Supremo Tribunal:
+    “HABEAS CORPUS CONTRA INDEFERIMENTO MONOCRÁTICO DE PEDIDO DE LIMINAR. SUPERVENIENTE JULGAMENTO DE MÉRITO DA IMPETRAÇÃO NO TRIBUNAL A QUO. PREJUDICIALIDADE. 1. Superveniente julgamento de mérito de Habeas Corpus, impetrado perante o Tribunal a quo, prejudica o exame da impetração. 2. Habeas corpus prejudicado” (HC n. 152.375, Relator o Ministro Marco Aurélio, Redator para o acórdão o Ministro Alexandre de Moraes, Primeira Turma, DJe 4.6.2019).
+    “PENAL. PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E FALTA DE FUNDAMENTAÇÃO DA DECISÃO QUE A DECRETA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. QUADRILHA OU BANDO. ART. 288, § 1º, DO CÓDIGO PENAL. SUPRESSÃO DE INSTÂNCIA. PREJUDICIALIDADE. I - Não pode o Supremo Tribunal Federal apreciar situação processual nova diversa da apresentada à autoridade tida por coatora, sob pena de supressão de instância. II - A sentença condenatória superveniente, ainda que, alegadamente e em tese, mantenha a inconsistência de fundamento do decreto de prisão preventiva, é novo título justificador da prisão. III - Habeas corpus prejudicado” (HC n. 87.775, Relator o Ministro Ricardo Lewandowski, DJ 13.4.2007).
+    5. Pelas mudanças processadas no quadro fático-jurídico após a impetração, julgo prejudicados o habeas corpus e a medida liminar requerida (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de dezembro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
