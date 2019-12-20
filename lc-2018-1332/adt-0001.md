@@ -1,0 +1,8 @@
+## DISPOSIÇÕES TRANSITÓRIAS
+Artigo 1º - Ao servidor da Secretaria da Fazenda ou de outras Secretarias que tenha exercido, na Secretaria da Fazenda, cargo em comissão constante do Anexo da Lei Complementar nº 804, de 21 de dezembro de 1995, fica assegurada a incorporação, até o dia 7 de junho de 2017, do Prêmio de Incentivo à Qualidade - PIQ correspondente ao cargo em comissão exercido, à razão de 1/10 (um décimo) por ano de recebimento, até o limite de 10/10 (dez décimos), mediante requerimento do servidor.
+§ 1º - Para os fins do disposto neste artigo, considera-se ano de recebimento do PIQ correspondente ao cargo em comissão exercido, o período de 365 (trezentos e sessenta e cinco) dias, contínuos ou não, apurado até a data mencionada no "caput" deste artigo." (NR)
+§ 2º - Na hipótese de exercício sucessivo de mais de um cargo em comissão, durante o ano de recebimento, o décimo do PIQ a ser incorporado corresponderá ao do cargo exercido por maior tempo.
+§ 3º - O pagamento do PIQ a que se refere o "caput" deste artigo será efetuado em código distinto.
+§ 4º - Na hipótese de o servidor a que se refere este artigo estar no exercício de cargo também passível de recebimento do PIQ, ser-lhe-á devida, a esse título, apenas a diferença entre o valor incorporado nos termos deste artigo e o devido em razão do cargo ocupado.
+§ 5º - A incorporação a que se refere o "caput" deste artigo poderá ser requerida a qualquer tempo. (NR)
+§ 6º - O valor correspondente aos décimos incorporados somente produzirá efeitos pecuniários quando o servidor se encontrar no cargo ou função em que tenha ocorrido a incorporação, ou quando optar pelo percebimento de seus vencimentos ou salários. (NR)
