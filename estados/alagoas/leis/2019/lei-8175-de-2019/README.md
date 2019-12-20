@@ -1,0 +1,5 @@
+# Lei nº 8.175, de 18 de outubro de 2019, do Estado de Alagoas
+
+ALTERA A COMPETÊNCIA DA 5ª VARA CRIMINAL DA CAPITAL, TORNANDO-A 30ª VARA CÍVEL DA CAPITAL E JUIZADO ESPECIAL ADJUNTO COM COMPETÊNCIA DE FAZENDA PÚBLICA NO ÂMBITO DA SAÚDE E ALTERA A COMPETÊNCIA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA, TORNANDO-O 31ª VARA CÍVEL DA CAPITAL - FAZENDO PÚBLICO ESTADUAL E JUIZADO DA FAZENDA PÚBLICA ADJUNTO E ADOTA PROVIDENCIAS CORRELATAS.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/1710>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1710/lei_no_8.175_de_18_de_outubro_de_2019__4.pdf>
