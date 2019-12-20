@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 309, de 18 de dezembro de 2019
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+MUDANÇA DE REGIME DE APURAÇÃO. CRÉDITOS. IMOBILIZADO. ESTOQUE DE ABERTURA. FALTA DE PREVISÃO LEGAL.
+A pessoa jurídica que, tributada com base no lucro presumido e, portanto, submetida à sistemática de apuração cumulativa da Cofins, passar a adotar o regime do lucro real, na hipótese de, em decorrência dessa opção, sujeitar-se à incidência não cumulativa desse tributo, não poderá optar pela possibilidade de desconto imediato de créditos estabelecida pelo art. 1º, inciso XII, da Lei nº 11.774, de 2008, relativamente a máquinas e equipamentos (ativo imobilizado) destinados à produção de bens e prestação de serviços cuja aquisição no mercado interno ou importação tenha ocorrido antes da citada migração, dado que não há autorização legal para tanto.
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 111; Lei nº 10.833, de 2003, art. 3º, I, II, VI, § 1º, III, e art. 12, § 5º.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP MUDANÇA DE REGIME DE APURAÇÃO. CRÉDITOS. IMOBILIZADO. ESTOQUE DE ABERTURA. FALTA DE PREVISÃO LEGAL.
+A pessoa jurídica que, tributada com base no lucro presumido e, portanto, submetida à sistemática de apuração cumulativa da Contribuição para o PIS/Pasep, passar a adotar o regime do lucro real, na hipótese de, em decorrência dessa opção, sujeitar-se à incidência não cumulativa desse tributo, não poderá optar pela possibilidade de desconto imediato de créditos estabelecida pelo art. 1º, inciso XII, da Lei nº 11.774, de 2008, relativamente a máquinas e equipamentos (ativo imobilizado) destinados à produção de bens e prestação de serviços cuja aquisição no mercado interno ou importação tenha ocorrido antes da citada migração, dado que não há autorização legal para tanto.
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 111; Lei nº 10.637, de 2002, art. 3º, I, II, VI, § 1º, III, e art. 11, § 3º.
+.
+[arquivo anexo: SC Cosit nº 309-2019.pdf]
