@@ -1,0 +1,16 @@
+Solução de Consulta Cosit nº 296, de 12 de dezembro de 2019
+Assunto: Contribuição para o PIS/Pasep
+INCIDÊNCIA NÃO CUMULATIVA. CRÉDITOS BÁSICOS E PRESUMIDOS. MILHO PARA PIPOCA ADQUIRIDO COM INCIDÊNCIA OU SUSPENSÃO DA CONTRIBUIÇÃO.
+É permitida à pessoa jurídica que produza milho para pipoca, exercendo atividade de agroindústria, a utilização de créditos presumidos na forma do art. 8º da Lei nº 10.925, de 2004, calculados em relação ao milho para pipoca utilizado como insumo, adquirido com suspensão da Contribuição para o PIS/Pasep, desde que respeitadas cumulativamente as demais condições previstas no art. 4º da IN RFB nº 660, de 2006.
+A aquisição de produtos agropecuários efetuada de pessoa física ou com suspensão, não gera direito ao desconto de créditos calculados na forma do art. 3ºda Lei nº10.637, de 2002, conforme disposição contida no inciso II, do § 2º do art. 3ºda mesma lei.
+Em face da cogência da norma suspensiva, o descumprimento de uma obrigação acessória prevista no § 2º do art. 2º da IN SRF nº 660, de 2006, não fulmina o direito de suspensão instituída pelo art. 9º da Lei nº 10.925, de 2004. Consequentemente, o adquirente dos insumos, desde que respeitadas as demais regras legais, pode apurar o crédito presumido previsto no art. 8º da Lei nº 10.925, de 2004.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 324, DE 27 DE DEZEMBRO DE 2018, PUBLICADA NO DOU DE 31 DE DEZEMBRO DE 2018, E À SOLUÇÃO DE CONSULTA COSIT Nº 105, DE 08 DE JULHO DE 2016, PUBLICADA NO DOU DE 13 DE JULHO DE 2016.
+Dispositivos Legais: art. 3º, II, da Lei nº 10.637, de 2002; arts. 8º e 9º da Lei nº 10.925, de 2004; IN SRF nº 660, de 2006.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+INCIDÊNCIA NÃO CUMULATIVA. CRÉDITOS BÁSICOS E PRESUMIDOS. MILHO PARA PIPOCA ADQUIRIDO COM INCIDÊNCIA OU SUSPENSÃO DA CONTRIBUIÇÃO.
+É permitida à pessoa jurídica que produza milho para pipoca, exercendo atividade de agroindústria, a utilização de créditos presumidos na forma do art. 8º da Lei nº 10.925, de 2004, calculados em relação ao milho para pipoca utilizado como insumo, adquirido com suspensão da Cofins, desde que respeitadas cumulativamente as demais condições previstas no art. 4º da IN RFB nº 660, de 2006.
+A aquisição de produtos agropecuários efetuada de pessoa física ou com suspensão, não gera direito ao desconto de créditos calculados na forma do art. 3ºda Lei nº10.833, de 2003, conforme disposição contida no inc. II, do § 2º do art. 3ºda mesma lei.
+Em face da cogência da norma suspensiva, o descumprimento de uma obrigação acessória prevista no §2º do art. 2º da IN SRF nº 660, de 2006, não fulmina o direito à hipótese de suspensão instituída pelo art. 9º da Lei nº 10.925, de 2004. Consequentemente, o adquirente dos insumos, desde que respeitadas as demais regras legais, pode apurar o crédito presumido previsto no art. 8º da Lei nº 10.925, de 2004.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 324, DE 27 DE DEZEMBRO DE 2018, PUBLICADA NO DOU DE 31 DE DEZEMBRO DE 2018, E À SOLUÇÃO DE CONSULTA COSIT Nº 105, DE 08 DE JULHO DE 2016, PUBLICADA NO DOU DE 13 DE JULHO DE 2016.
+Dispositivos Legais: art. 3º, II, da Lei nº 10.833, de 2002; arts. 8º e 9º da Lei nº 10.925, de 2004, IN SRF nº 660, de 2006.
+[arquivo anexo: SC Cosit nº 296-2019.pdf]
