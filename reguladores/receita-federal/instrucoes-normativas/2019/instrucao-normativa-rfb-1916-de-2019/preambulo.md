@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1916, de 18 de dezembro de 2019
+Altera a Instrução Normativa RFB nº 1.585, de 31 de agosto de 2015, que dispõe sobre o imposto sobre a renda incidente sobre os rendimentos e ganhos líquidos auferidos nos mercados financeiro e de capitais.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 16 a 19 da Lei nº 13.043, de 13 de novembro de 2014, resolve:
