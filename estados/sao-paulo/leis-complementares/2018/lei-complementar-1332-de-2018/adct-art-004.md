@@ -1,0 +1,1 @@
+Artigo 4º - O disposto nos artigos 1º a 3º destas disposições transitórias aplica-se aos servidores designados até o dia 7 de junho de 2017 para responder por cargo vago e para exercer função de serviço público retribuída mediante "pro labore", nos termos da Lei nº 10.168, de 10 de julho de 1968, na Secretaria da Fazenda.

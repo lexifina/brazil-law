@@ -1,0 +1,2 @@
+Artigo 3º - O disposto no artigo 1º destas disposições transitórias aplica-se, inclusive, ao servidor do Quadro da Secretaria da Fazenda e das demais Secretarias que tenha se aposentado até 07 de junho de 2017, com fundamento nos artigos 3º e 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, e no artigo 3º da Emenda Constitucional nº 47, de 5 de julho de 2005. (NR)
+- Artigo 3° com redação dada pela pela Lei Complementar nº 1.352, de 20/12/2019, produzindo efeitos a partir de 08/06/2017.
