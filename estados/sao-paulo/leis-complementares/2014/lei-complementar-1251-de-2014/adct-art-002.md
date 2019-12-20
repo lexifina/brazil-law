@@ -1,0 +1,1 @@
+Artigo 2° - Os atuais servidores integrantes das classes constantes do Subanexo 2 do Anexo I e Subanexo 1 do Anexo II desta lei complementar, ficam com os respectivos cargos e funções-atividades enquadrados na referência 1, mantido o grau em que se encontrarem enquadrados em 31 de julho de 2014.
