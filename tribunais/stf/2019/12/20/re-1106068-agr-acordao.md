@@ -1,0 +1,513 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+20/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.106.068 MATO GROSSO DO
+SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. RICARDO LEWANDOWSKI
+: GUILHERME VIEIRA GOMES NETO
+: SERGIO LUIZ BERNARDELLI JUNIOR
+: ESTADO DE MATO GROSSO DO SUL
+: PROCURADOR-GERAL DO ESTADO DE MATO
+GROSSO DO SUL
+
+Ementa:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+DELEGATÁRIOS
+DE
+SERVENTIAS
+EXTRAJUDICIAIS.
+NATUREZA
+PÚBLICA.
+VEDAÇÃO
+DE
+ACUMULAÇÃO DE CARGOS, EMPREGOS E FUNÇÕES PÚBLICAS.
+AGRAVO A QUE SE NEGA PROVIMENTO.
+I - Os delegatários das serventias extrajudiciais desempenham
+funções que detêm inegável natureza pública, a motivar a incidência em
+relação a eles das regras constitucionais que vedam a acumulação de
+cargos, empregos e funções públicas. Precedentes.
+II - Agravo regimental a que se nega provimento.
+AC ÓRDÃ O
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual da Segunda Turma, na conformidade da ata de julgamentos, por
+unanimidade, negar provimento ao agravo regimental, nos termos do
+voto do Relator.
+Brasília, 20 de dezembro de 2019.
+
+RICARDO LEWANDOWSKI – RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8629-695C-BEDB-1AB8 e senha AA08-D328-59DB-A416
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+20/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.106.068 MATO GROSSO DO
+SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. RICARDO LEWANDOWSKI
+: GUILHERME VIEIRA GOMES NETO
+: SERGIO LUIZ BERNARDELLI JUNIOR
+: ESTADO DE MATO GROSSO DO SUL
+: PROCURADOR-GERAL DO ESTADO DE MATO
+GROSSO DO SUL
+RE LAT Ó RI O
+
+O Senhor Ministro Ricardo Lewandowski (Relator): Trata-se de
+agravo regimental interposto contra decisão que deu provimento ao
+recurso extraordinário em razão de o acórdão recorrido estar em
+divergência com a jurisprudência deste Supremo Tribunal Federal quanto
+à matéria (documento eletrônico 12).
+O agravante sustenta, inicialmente, que a matéria deduzida no RE
+não têm repercussão geral, pois não se evidenciou qualquer reflexo social,
+econômico, político ou jurídico que tenha ultrapassado o interesse
+subjetivo das partes recorrentes (págs. 3-5 do documento eletrônico 14).
+Afirma, também, que a matéria é de ordem infraconstitucional, uma
+vez que a controvérsia reside na interpretação da Lei 8.935/1994 (págs. 511 do documento eletrônico 14).
+Argumenta que o STF “[...] já decidiu que os serviços notariais e de
+registro não se enquadram na categoria de cargo público, mas sim uma
+delegação de um serviço público, exercido em caráter privado” (pág. 11
+do documento eletrônico 14).
+Defende, por fim, que a situação do agravante é transitória, pois a
+licença para tratar de interesse particular está limitada a três anos (pág. 12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D6AE-89D7-5A1F-988F e senha 9C54-41FA-7D23-BCBA
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+RE 1106068 AGR / MS
+do documento eletrônico 14).
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D6AE-89D7-5A1F-988F e senha 9C54-41FA-7D23-BCBA
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+20/12/2019
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.106.068 MATO GROSSO DO
+SUL
+VOTO
+O Senhor Ministro Ricardo Lewandowski (Relator): De início,
+registro que a apreciação do mérito do recurso, com o seu consequente
+provimento, é decorrência da superação do juízo de conhecimento ao
+qual pertence a análise da presença da repercussão geral da matéria, bem
+como de outros pressupostos de admissibilidade.
+De resto, consta da decisão agravada:
+“Trata-se de recurso extraordinário interposto em face de
+acórdão assim ementado:
+‘MANDADO DE SEGURANÇA CONCURSO
+PÚBLICO PARA A OUTORGA DE DELEGAÇÃO DE
+SERVENTIAS
+NOTARIAIS
+E
+REGISTRAIS
+DECADÊNCIA PRELIMINAR REJEITADA MÉRITO
+PRETENSÃO DE EXERCÍCIO DA DELEGAÇÃO
+INDEPENDENTEMENTE DE EXONERAÇÃO DE
+CARGO PÚBLICO OCUPADO EM OUTRO ENTE DA
+FEDERAÇÃO SERVIÇO EXTRAJUDICIAL NÃO SE
+CONFUNDE COM CARGO, EMPREGO OU FUNÇÃO
+PÚBLICA ENTENDIMENTO DO STF GOZO DE
+LICENÇA PARA TRATO DE INTERESSE PARTICULAR
+IMPETRANTE
+NÃO
+ESTÁ
+RECEBENDO
+REMUNERAÇÃO EM RELAÇÃO AO CARGO PÚBLICO
+INEXISTÊNCIA DE INCOMPATIBILIDADE, POR NÃO
+HAVER SIMULTANEIDADE DE EXERCÍCIO ART. 25 DA
+LEI N. 8.935/1994 CONCESSÃO DA ORDEM.
+O termo a quo do prazo decadencial não é a data de
+publicação do edital de abertura de concurso público,
+tampouco das subsequentes convocações para escolha das
+serventias, vez que o impetrante não se insurge,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+RE 1106068 AGR / MS
+diretamente, contra as regras ali previstas, mas sim contra
+o ato que condicionou o exercício da atividade notarial e
+registral à comprovação de requerimento de exoneração
+do cargo público, de modo que não há falar em
+decadência.
+Consoante entendimento sedimentado pelo Supremo
+Tribunal Federal, os delegatários de serventia extrajudicial
+não são titulares de cargo ou emprego público, tampouco
+ocupantes de função pública, mas sim exercentes de
+atividade própria do Estado mediante delegação. Desta
+feita, a eles não se impõe a vedação insculpida no artigo
+37, incisos XVI e XVII, da Constituição da República.
+A Lei nº 8.935/1994, ao que interessa à discussão em
+questão, reza em seu artigo 25: O exercício da atividade
+notarial e de registro é incompatível com o da advocacia, o
+da intermediação de seus serviços ou o de qualquer cargo,
+emprego ou função públicos, ainda que em comissão.
+Somente se pode falar em exercício do cargo público
+quando o agente público efetivamente realiza as
+atividades que lhes são inerentes, de sorte que, no período
+em que está licenciado para tratar de interesse particular,
+nos moldes do artigo 91 da Lei nº 8.112/1990, ele não
+desempenha as funções inerentes ao cargo, embora ainda
+esteja a ele vinculado.
+Por corolário, não configurada a acumulação de
+cargos, empregos ou funções públicas, haja vista a
+delegação de serventia extrajudicial com eles não se
+confundir, não há falar em infringência da regra do artigo
+37, incisos XVI, da Constituição da República; assim como
+não se constata o exercício simultâneo da delegação e do
+cargo público, como veda o artigo 25 da Lei nº 8.935/1994,
+de modo que a segurança deve ser concedida, pois a
+Administração Pública está sujeita ao princípio da
+legalidade estrita, pelo qual não é possível outorgar
+interpretação extensiva a norma restritiva de direitos’
+(pág. 59 do documento eletrônico 3).
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+RE 1106068 AGR / MS
+No RE fundado no art. 102, III, alínea a , da Constituição,
+alegou-se violação dos arts. 37, caput, e XVI; e 236, § 1° e § 3°, da
+mesma Carta. Sustenta o recorrente, em síntese, que
+‘O raciocínio empregado pelos v. Acórdão recorrido
+contraria a regra do art. 236, § 3º da CF/88 na dimensão de
+que o recorrido mesmo não estando desligado
+definitivamente do serviço público federal (o que se daria
+via exoneração a pedido, para que se dê a vacância no
+cargo público), quer assumir outra função que
+notadamente é pública, porque se a regra do art. 236, § 3º
+da CF/88 exige concurso público, significa dizer que a
+atividade a ser desempenhada na qualidade de notarial e
+de registro público é efetivamente, na sua essência, de
+natureza PÚBLICA, porque se fosse o contrário, bastaria a
+mera indicação política e arbitrária da pessoa do recorrido
+por uma autoridade judiciária da circunscrição a qual
+precisaria ser provido tal função notarial e de registro, o
+que não é o caso no atual ordenamento constitucional
+brasileiro’ (págs. 73-74 do documento eletrônico 5).
+O Ministério Público Federal, em parecer da lavra do
+Subprocurador-Geral da República, Paulo Gustavo Gonet
+Branco, opina pelo provimento do recurso (documento
+eletrônico 11).
+A pretensão recursal merece acolhida.
+Destaca-se do voto condutor do acórdão recorrido (pág. 64
+do documento eletrônico 3):
+‘A exigência de prévia aprovação em concorrência
+pública, no entanto, não outorga às serventias
+extrajudiciais a natureza jurídica de cargo, emprego ou
+função pública, malgrado constituam atividade estatal,
+consoante já sedimentado pelo Supremo Tribunal Federal,
+[…]
+Partindo, então, do pressuposto que os delegatários
+de serventia extrajudicial não são titulares de cargo ou
+emprego público, tampouco ocupantes de função pública,
+mas sim exercentes de atividade própria do Estado
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+RE 1106068 AGR / MS
+mediante delegação, a eles não pode ser imposta a
+vedação insculpida no artigo 37, incisos XVI e XVII, da Lei
+Fundamental [...].’
+Observa-se que o Tribunal de origem concedeu a
+segurança pleiteada sob o entendimento de que, como os
+delegatários das serventias extrajudiciais não ocupam cargos,
+empregos, ou funções públicas, não lhes podem ser impostas as
+vedações previstas no art. 37, XVI e XVII, da Constituição
+Federal.
+Entretanto, a jurisprudência desta Corte reconhece que os
+delegatários das serventias extrajudiciais, desempenham
+funções que, por serem titularizadas pelo Estado, detêm
+inegável natureza pública, a motivar a incidência em relação a
+eles das regras constitucionais que vedam a acumulação de
+cargos, empregos e funções públicas.
+Verifica-se que o acórdão recorrido divergiu do
+entendimento deste Supremo Tribunal, assim, acolho o parecer
+do Ministério Público Federal, do qual transcrevo (págs. 5 e 6
+do documento eletrônico 11):
+‘No caso concreto, incidindo o art. 37, XVI e XVII, da
+CF, há de se concluir que é inviável a acumulação de
+função notarial com o cargo público de analista judiciário
+do Tribunal de Justiça do Distrito Federal e Territórios. O
+fato de o recorrido estar em licença para tratar de
+interesses particulares não altera essa conclusão.
+Conforme a jurisprudência do Supremo Tribunal Federal,
+a licença não remunerada não afasta a aplicação das
+normas constitucionais que vedam a acumulação de
+cargos e funções públicas, uma vez que o gozo de licença
+não descaracteriza o vínculo jurídico do servidor com a
+Administração. Essa a lição da Ministra Ellen Gracie no
+RE 382.389/MG (DJ 17/3/2006), em que também se disse:’
+“CONSTITUCIONAL.
+ADMINISTRATIVO.
+CUMULAÇÃO
+DE
+PROVENTOS
+COM
+VENCIMENTOS. ART. 11 DA EC Nº 20/98.
+INAPLICABILIDADE. 1. As recorrentes pretendem
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+RE 1106068 AGR / MS
+continuar recebendo, cumulativamente, os proventos
+de aposentadoria com os vencimentos do cargo da
+ativa. Alegam que foram beneficiadas pela exceção
+criada no art. 11 da EC 20/98. 2. A EC 20/98 vedou a
+percepção simultânea de proventos de aposentadoria
+com a remuneração de cargo, emprego ou função
+pública, ressalvados os cargos acumuláveis na forma
+desta Constituição. Por outro lado, reconheceu o
+direito daqueles servidores aposentados que, até a
+data da promulgação dessa emenda, retornaram à
+atividade.
+3. Não é o caso das recorrentes. Elas não
+ingressaram novamente no serviço público, mas
+ocuparam indevidamente dois cargos públicos em
+atividade. Embora não recebessem os vencimentos
+de um deles, pois gozaram de sucessivas licenças
+para tratar de interesse particular, tal circunstância
+não as torna beneficiárias da referida regra
+transitória. O gozo de licença não descaracteriza o
+vínculo jurídico do servidor com a Administração.
+4. Recurso extraordinário conhecido e
+improvido.”(grifou-se)
+Também nesse sentido:
+“SERVIDOR PÚBLICO. ACUMULAÇÃO DE
+DOIS CARGOS DE ENFERMEIRO. ART. 17, § 2º, DO
+ADCT/88. LICENÇA PARA TRATO DE INTERESSES
+PARTICULARES. 1 - O fato de o servidor encontrarse licenciado para tratar de interesses particulares
+não descaracteriza o seu vínculo jurídico, já que a
+referida licença somente é concedida a critério da
+administração e pelo prazo fixado em lei, podendo,
+inclusive, ser interrompida, a qualquer tempo, no
+interesse do serviço ou a pedido do servidor. 2 - A
+Corte de origem limitou-se a interpretar a norma
+constitucional de natureza transitória, fazendo-o de
+forma razoável, sem ampliar direito que a Carta
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+RE 1106068 AGR / MS
+concedeu, excepcionalmente, aos profissionais de
+saúde que estivessem em situação de acumulação à
+época de sua promulgação. Vale dizer, a norma
+especial contempla a acumulação e afasta a
+incidência da regra geral que manteve vedada a
+acumulação remunerada de cargos, funções ou
+empregos tanto na administração direta, como na
+administração indireta ou fundacional (incs. XVI e
+XVII do art. 37). 3 - Recurso extraordinário não
+conhecido.” (RE 180597, relator o Min. Ilmar Galvão,
+DJ 27/2/1998).
+Em caso similar ao dos autos, no MS 27.955/DF (DJe
+18/4/2018), afirmou o Ministro Roberto Barroso:
+“[...]10. No mérito, a questão cinge-se em
+decidir se é possível a cumulação de delegação de
+serventia cartorial extrajudicial com um cargo
+público (no caso, técnico judiciário do TJ/PE), de cujo
+exercício o servidor encontra-se afastado em razão de
+licença, sem remuneração, para trato de interesse
+particular. Para formulação da conclusão final, então,
+mostra-se necessário que sejam respondidas duas
+questões: (i) o exercício da função de serventia
+extrajudicial por particular caracteriza uma função
+pública para fins de aplicação da regra que veda a
+cumulação de funções públicas? (ii) é possível a
+cumulação de uma função pública com um cargo
+público em que o servidor público esteja afastado
+sem remuneração?
+11. Quanto à primeira questão, a resposta é no
+sentido de que o titular de serviço cartorário exerce
+efetiva função pública, devendo ser respeitada a
+regra constitucional que veda a cumulação de cargos,
+empregos e funções públicas. É verdade que o
+Supremo Tribunal Federal já assentou que os
+serviços de registros públicos, cartorários e notariais
+são exercidos em caráter privado por delegação do
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+RE 1106068 AGR / MS
+Poder Público e, por consequência, que os notários e
+os registradores não são titulares de cargo público
+efetivo, tampouco ocupam cargo público(ADI
+2.602/MG, redator p/ o acórdão Min. Eros Grau).
+No entanto, apesar de não ocuparem efetivo
+cargo público, a função exercida pelos titulares de
+serventias extrajudiciais possui inegável natureza
+pública. Os serviços de registros públicos, cartorários
+e notariais são delegações de uma atividade cuja
+titularidade é do Estado, havendo, assim, uma
+intrínseca natureza pública em suas atividades.
+Dessa forma, entendo aplicável ao caso, não a
+vedação do inciso XVI do art. 37 da Constituição
+Federal, senão aquela prevista no inciso XVII do
+mesmo artigo, que estende a proibição de cumulação
+também para as função públicas. O mesmo óbice,
+inclusive, consta no art. 25 da Lei nº 8.935/1994,
+devendo ser reconhecida a impossibilidade de a
+impetrante acumular o cargo público de técnica
+judiciária com a função exercida por conta da
+titularidade de serventia extrajudicial.
+12. Quanto à segunda questão, entendo que a
+impossibilidade de acumulação de cargos, empregos
+e funções se mantém, mesmo tendo sido concedida
+licença não remunerada para a impetrante em
+relação ao seu cargo de técnico judiciário. A
+Constituição Federal não estabeleceu qualquer
+distinção a respeito do exercício ou não do cargo,
+vedando em termos bastante amplos a cumulação de
+cargos, empregos e funções. Por outro lado, não se
+pode esquecer que a concessão de qualquer licença,
+ainda que não remunerada, não descaracteriza o
+vínculo jurídico do servidor com a Administração
+(RE 382.389- AgR, Segunda Turma, Rel. Min. Ellen
+Gracie). No RE 810.350, inclusive, reconheci a
+impossibilidade de cumulação de cargos públicos,
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+RE 1106068 AGR / MS
+mesmo que houvesse o afastamento não remunerado
+em um dos vínculos (DJe 04.09.2014), devendo ser
+mantido o mesmo entendimento e fundamento para
+este caso concreto.
+13. Seria ilógico que todos os servidores
+públicos pudessem assumir outros cargos, empregos
+ou funções públicas simplesmente requerendo uma
+licença não remunerada no cargo antecedente. Não
+se pode aceitar a existência de inúmeros cargos
+públicos que não estejam em exercício efetivo por
+conta de uma impossibilidade jurídica de tal
+exercício. A ausência de exercício da função por
+tempo demasiadamente amplo e de forma
+indeterminada pode trazer reais prejuízos para a
+Administração Pública, já que ficará impossibilitada
+de dar novo provimento aos cargos públicos
+necessários para o atingimentos de seus objetivos
+institucionais.” (grifos no original).
+Isso posto, dou provimento ao recurso para denegar a
+segurança concedida pelo Tribunal a quo , nos termos da
+fundamentação acima (art. 21, § 2°, do RISTF).”.
+
+Assim, bem reexaminada a questão, verifica-se que a decisão ora
+atacada não merece reforma, visto que o recorrente não aduz argumentos
+capazes de afastar as razões nela expendidas.
+Isso posto, nego provimento ao agravo regimental.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 967B-98A1-40A5-7DAC e senha 0FA3-FC57-4CE9-78EE
+
+Supremo Tribunal Federal
+Extrato de Ata - 20/12/2019
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.106.068
+PROCED. : MATO GROSSO DO SUL
+RELATOR : MIN. RICARDO LEWANDOWSKI
+AGTE.(S) : GUILHERME VIEIRA GOMES NETO
+ADV.(A/S) : SERGIO LUIZ BERNARDELLI JUNIOR (13719/MS)
+AGDO.(A/S) : ESTADO DE MATO GROSSO DO SUL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE MATO GROSSO DO SUL
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 13.12.2019 a 19.12.2019.
+Composição: Ministros Cármen Lúcia (Presidente), Celso
+Mello, Gilmar Mendes, Ricardo Lewandowski e Edson Fachin.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 347C-8368-F313-62D7 e senha 689C-4C05-1F4D-41DF
+
+de
