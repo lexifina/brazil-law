@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98553, de 28 de novembro de 2019
+Assunto: Classificação de Mercadorias
+Mercadoria: Sistema para aquecimento de água constituído por aquecedor solar, aquecedor a gás de passagem, reservatório térmico (acoplado ao aquecedor solar ou independente deste), interligações, conexões, vedações, estrutura e suporte metálico com articulações, elementos de fixação e montagem, não se encontra abrangido pela Nota 3 da Seção XVI e também não se enquadra no conceito de Unidade Funcional estabelecido na Nota 4 da Seção XVI. Cada máquina se classifica separadamente na posição que lhe é estabelecida pela Nomenclatura, segundo seu próprio regime.
+Dispositivos Legais: RGI 1, RGI 6 e RGC 1, da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.553-2019.pdf]
