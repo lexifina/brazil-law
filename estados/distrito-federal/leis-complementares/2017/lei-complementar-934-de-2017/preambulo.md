@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 934, DE 7 DE DEZEMBRO DE 2017
+(Autoria do Projeto: Poder Executivo)
+Institui a Lei Orgânica da Cultura dispondo sobre o Sistema de Arte e Cultura do Distrito Federal.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
