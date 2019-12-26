@@ -1,0 +1,1 @@
+Art. 38-A. Compete à Subsecretaria da Receita da Secretaria de Estado de Economia do Distrito Federal, concomitantemente com a Procuradoria-Geral do Distrito Federal, a inscrição, a cobrança extrajudicial e a gestão da dívida ativa tributária e não tributária do Distrito Federal.
