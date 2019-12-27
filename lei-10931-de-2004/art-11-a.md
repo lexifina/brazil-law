@@ -1,0 +1,1 @@
+Art. 11-A. O regime especial de tributação previsto nesta Lei será aplicado até o recebimento integral do valor das vendas de todas as unidades que compõem o memorial de incorporação registrado no cartório de imóveis competente, independentemente da data de sua comercialização, e, no caso de contratos de construção, até o recebimento integral do valor do respectivo contrato.
