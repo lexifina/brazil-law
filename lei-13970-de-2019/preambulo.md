@@ -1,0 +1,2 @@
+Altera a Lei nº 10.931, de 2 de agosto de 2004, que dispõe sobre o patrimônio de afetação de incorporações imobiliárias, e a Lei nº 12.024, de 27 de agosto de 2009, que dispõe sobre o tratamento tributário a ser dado às receitas mensais auferidas pelas empresas construtoras nos contratos de construção de moradias firmados no âmbito do Programa Minha Casa, Minha Vida (PMCMV).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei:
