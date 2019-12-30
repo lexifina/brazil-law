@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para prorrogar prazos em relação à apropriação dos créditos do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação (ICMS).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
