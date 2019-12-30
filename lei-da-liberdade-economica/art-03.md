@@ -27,7 +27,6 @@ III - na hipótese de existência de legislação estadual, distrital ou municip
 § 3º O disposto no inciso III do caput deste artigo não se aplica:
 I - às situações em que o preço de produtos e de serviços seja utilizado com a finalidade de reduzir o valor do tributo, de postergar a sua arrecadação ou de remeter lucros em forma de custos ao exterior; e
 II - à legislação de defesa da concorrência, aos direitos do consumidor e às demais disposições protegidas por lei federal.
-§ 4º Para fins do disposto no inciso VII do caput deste artigo, entende-se como restrito o grupo cuja quantidade de integrantes não seja superior aos limites específicos estabelecidos para a prática da modalidade de implementação, teste ou oferta, conforme estabelecido em portaria do Secretário Especial de Produtividade, Emprego e Competitividade do Ministério da Economia.
 § 5º O disposto no inciso VIII do caput deste artigo não se aplica à empresa pública e à sociedade de economia mista definidas nos arts. 3º e 4º da Lei nº 13.303, de 30 de junho de 2016.
 § 6º O disposto no inciso IX do caput deste artigo não se aplica quando:
 I - versar sobre questões tributárias de qualquer espécie ou de concessão de registro de marcas;
@@ -38,3 +37,4 @@ III - houver objeção expressa em tratado em vigor no País.
 § 9º (VETADO).
 § 10. O disposto no inciso XI do caput deste artigo não se aplica às situações de acordo resultantes de ilicitude.
 § 11. Para os fins do inciso XII do caput deste artigo, é ilegal delimitar prazo de validade de certidão emitida sobre fato imutável, inclusive sobre óbito.
+§ 12. O disposto no inciso IX do caput não se aplica às atividades com impacto significativo no meio ambiente, conforme estabelecido pelo órgão ambiental competente.
