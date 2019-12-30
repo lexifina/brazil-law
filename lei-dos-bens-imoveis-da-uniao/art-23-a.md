@@ -1,0 +1,9 @@
+Art. 23-A. Qualquer interessado poderá apresentar proposta de aquisição de imóveis da União que não estejam inscritos em regime enfitêutico ou em ocupação, mediante requerimento específico à Secretaria de Coordenação e Governança do Patrimônio da União.
+§ 1º O requerimento de que trata o caput não gera obrigação para a administração pública federal alienar o imóvel ou direito subjetivo à aquisição.
+§ 2º A Secretaria de Coordenação e Governança do Patrimônio da União se manifestará sobre o requerimento de que trata o caput e avaliará a conveniência e a oportunidade de alienar o imóvel.
+§ 3º Na hipótese de manifestação favorável da Secretaria de Coordenação e Governança do Patrimônio da União, se o imóvel não possuir avaliação dentro do prazo de validade, o interessado providenciará, às suas expensas, avaliação elaborada por avaliador habilitado ou empresa especializada, nos termos do disposto nos § 1º, § 7º e § 7º 8º do art. 11-C.
+§ 4º Compete à Secretaria de Coordenação e Governança do Patrimônio da União homologar os laudos de avaliação e iniciar o processo de alienação do imóvel, observado o disposto no art. 24.
+§ 5º A homologação da avaliação pela Secretaria de Coordenação e Governança do Patrimônio da União não constituirá nenhum direito ao interessado e a Secretaria poderá desistir da alienação.
+§ 6º As propostas apresentadas que não cumprirem os requisitos mínimos ou que forem descartadas de plano pela Secretaria de Coordenação e Governança do Patrimônio da União serão desconsideradas.
+§ 7º As propostas apresentadas nos termos do disposto neste artigo serão disponibilizadas pela Secretaria de Coordenação e Governança do Patrimônio da União em seu endereço eletrônico, exceto as propostas de que trata o § 6º.
+§ 8º Ato do Secretário de Coordenação e Governança do Patrimônio da União disporá sobre o conteúdo e a forma do requerimento de que trata o caput.

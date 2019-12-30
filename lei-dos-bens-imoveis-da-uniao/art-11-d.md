@@ -1,0 +1,4 @@
+Art. 11-D. Ato do Secretário de Coordenação e Governança do Patrimônio da União estabelecerá critérios técnicos e impessoais para habilitação de profissionais com vistas à execução de medidas necessárias ao processo de alienação dos bens imóveis da União.
+§ 1º A remuneração do profissional habilitado pela Secretaria de Coordenação e Governança do Patrimônio da União será devida somente na hipótese de êxito do processo de alienação correspondente.
+§ 2º Os laudos de avaliação dos imóveis elaborados pelos avaliadores serão homologados pela Secretaria de Coordenação e Governança do Patrimônio da União ou pelo órgão ou entidade pública gestora do imóvel.
+§ 3º O profissional que atender aos critérios estabelecidos no ato a que se refere o caput será automaticamente considerado habilitado, sem necessidade de declaração da Secretaria de Coordenação e Governança do Patrimônio da União.
