@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 307, de 17 de dezembro de 2019
+Assunto: Obrigações Acessórias
+DECLARAÇÃO DO IMPOSTO SOBRE A RENDA RETIDO NA FONTE (DIRF). BENEFICIÁRIOS PESSOAS FÍSICAS. LUCROS E DIVIDENDOS.
+Para efeito de prestação de informações na Declaração do Imposto sobre a Renda Retido na Fonte (Dirf), a pessoa jurídica deverá registrar, quanto aos lucros e dividendos a que têm direito as pessoas físicas, somente os valores efetivamente pagos no ano-calendário.
+Dispositivos Legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), arts. 43, 113, § 1º, e 114; Decreto-Lei nº 1.968, de 23 de novembro de 1982, art. 11; Lei nº 7.713, de 22 de dezembro de 1988, art. 2º; Lei nº 8.134, de 27 de dezembro de 1990, arts. 2º e 3º; Lei nº 9.250, de 26 de dezembro de 1995, art. 3º, parágrafo único; Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, arts. 2º, 34, parágrafo único, e 974; Instrução Normativa RFB nº 1.500, 29 de outubro de 2014, arts. 3º, § 3º, 53, inciso II e § 1º, 54, 55, 56, 65 e 66; Instrução Normativa RFB nº 1.836, de 3 de outubro de 2018, arts. 11, inciso VIII, e 13, inciso VII, alínea "d"; Instrução Normativa RFB nº 1.858, de 20 de dezembro de 2018.
+[arquivo anexo: SC Cosit nº 307-2019.pdf]
