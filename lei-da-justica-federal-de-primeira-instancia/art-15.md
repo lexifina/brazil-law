@@ -1,5 +1,6 @@
-Art. 15. Nas Comarcas do interior onde não funcionar Vara da Justiça Federal (artigo 12), os Juízes Estaduais são competentes para processar e julgar:
+Art. 15. Quando a Comarca não for sede de Vara Federal, poderão ser processadas e julgadas na Justiça Estadual:
 II - as vistorias e justificações destinadas a fazer prova perante a administração federal, centralizada ou autárquica, quando o requerente fôr domiciliado na Comarca;
-III - os feitos ajuizados contra instituições previdenciárias por segurados ou beneficiários residentes na Comarca, que se referirem a benefícios de natureza pecuniária.
+III - as causas em que forem parte instituição de previdência social e segurado e que se referirem a benefícios de natureza pecuniária, quando a Comarca de domicílio do segurado estiver localizada a mais de 70 km (setenta quilômetros) de Município sede de Vara Federal;
 IV - as ações de qualquer natureza, inclusive os processos acessórios e incidentes a elas relativos, propostas por sociedades de economia mista com participação majoritária federal contra pessoas domiciliadas na Comarca, ou que versem sôbre bens nela situados.
-Parágrafo único. Sem prejuízo do disposto no art. 42 desta Lei e no art. 1.213 do Código de Processo Civil, poderão os Juízes e auxiliares da Justiça Federal praticar atos e diligências processuais no território de qualquer dos Municípios abrangidos pela seção, subseção ou circunscrição da respectiva Vara Federal.
+§ 1º Sem prejuízo do disposto no art. 42 desta Lei e no parágrafo único do art. 237 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), poderão os Juízes e os auxiliares da Justiça Federal praticar atos e diligências processuais no território de qualquer Município abrangido pela seção, subseção ou circunscrição da respectiva Vara Federal.
+§ 2º Caberá ao respectivo Tribunal Regional Federal indicar as Comarcas que se enquadram no critério de distância previsto no inciso III do caput deste artigo.
