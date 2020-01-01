@@ -35,3 +35,5 @@ IV - a capacitação dos gestores.
 § 5º As auditorias externas contratadas pelo Comitê a que se refere o § 1º deste artigo não poderão prestar serviços ao agente operador durante a execução dos contratos de auditoria com o FGTS.
 § 6º O limite de custos e despesas a que se refere o § 3º deste artigo não inclui taxas de risco de crédito e demais custos e despesas devidos ao agente operador e aos agentes financeiros.
 § 7º O limite de que trata o § 3º deste artigo será, em cada exercício, de até 0,04% (quatro centésimos por cento) do valor dos ativos do FGTS ao final do exercício anterior, e, até a publicação das respectivas demonstrações financeiras, esse limite será calculado a partir de estimativas divulgadas pelo Conselho Curador para o valor dos ativos do FGTS ao final daquele exercício.
+§ 8º A taxa de administração do FGTS devida ao agente operador não será superior a 0,5% (cinco décimos por cento) ao ano do valor total dos ativos do Fundo.
+§ 9º A taxa de administração de que trata a alínea "d" do inciso XIII do caput deste artigo não será superior a 0,5% (cinco décimos por cento) ao ano do valor total dos ativos do FI-FGTS.
