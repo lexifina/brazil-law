@@ -1,0 +1,2 @@
+Art. 32. Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível:
+Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
