@@ -1,0 +1,1 @@
+Art. 39. Aplicam-se ao processo e ao julgamento dos delitos previstos nesta Lei, no que couber, as disposições do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e da Lei nº 9.099, de 26 de setembro de 1995.
