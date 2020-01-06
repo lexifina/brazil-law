@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 963, DE 03 DE JANEIRO DE 2020
+(Autoria do Projeto: Deputado Eduardo Pedrosa)
+Altera a legislação distrital relativa ao Imposto sobre Serviços de Qualquer Natureza - ISS e dá outras providências.
+O VICE-GOVERNADOR DO DISTRITO FEDERAL NO EXERCÍCIO DO CARGO DE GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
