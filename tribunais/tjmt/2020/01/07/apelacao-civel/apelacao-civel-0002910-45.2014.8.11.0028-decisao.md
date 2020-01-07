@@ -1,0 +1,21 @@
+PJE: 0002910-45.2014.8.11.0028
+Vistos etc.
+Cuida-se de recurso de apelação cível interposta pelo ESPÓLIO DE VAGNER MARTINS contra sentença proferida pelo Juízo da Vara Única da Comarca de Poconé que, nos autos da Ação de Rescisão Contratual c/c Reintegração de Posse e Perdas e Danos no 0002910-45.2014.8.11.0028, ajuizada por CLÓVIS DAMIÃO MARTINS, julgou parcialmente procedentes os pedidos da inicial para resolver o contrato de Compra e Venda entabulado entre as partes.
+Submetido a julgamento pelo Órgão Colegiado, os autos foram retirados de pauta em razão da petição juntada no ID no 15504997.
+A mencionada petição foi apresentada por PEDRO DE FIGUEIREDO FERREIRA MARTINS e LUCAS FERREIRA MARTINS, representados por sua genitora NATASHA DE FIGUEIREDO FERREIRA MARTINS. Os peticionantes (netos de Vagner Martins e filhos de Tiago Martins, ambos falecidos no mesmo acidente aéreo) alegam que assumiram a cota parte da herança deixada pelo avô, em representação ao pai, Thiago.
+Diante disso, afirmam que consta das primeiras declarações dos autos de inventário (Processo no 43611-14.2011.8.11.0041) que os peticionantes são herdeiros, e assim, o objeto contratual da relação aqui discutida nestes autos faz parte do patrimônio do inventariado e, como consequência, interfere no interesse dos menores – herdeiros.
+Sendo assim, requereram a declaração de não conhecimento do recurso de apelação, com o retorno dos autos ao Juízo de 1o grau para que o autor/apelado promova a correção do polo passivo da demanda, bem como providencie a citação de todos os herdeiros e demais interessados na causa e, por fim, a remessa do processo ao Ministério Público de primeiro grau em razão da existência de interesse de menor (ID 15504997).
+Dessa indagação, foram intimados o apelado CLÓVIS DAMIÃO MARTINS e o apelante VAGNER MARTINS, tendo o primeiro defendido o prosseguimento da apelação (ID no 19953453) e o segundo a nulidade absoluta dos autos (ID no 20975975)
+A douta Procuradoria-Geral de Justiça embora entenda desnecessária sua manifestação, opinou no ID no 22090512 de que não houve qualquer prejuízo aos menores, devendo o recurso ter seu regular processamento.
+Pois bem.
+No caso em comento, em razão da morte de Vagner Martins foi realizada a abertura do inventário em 19/12/2011 (ID no 19953454), sendo o Espólio representado pelo inventariante, logo, cumpre a este responder ativa e passivamente pelas eventuais obrigações deixadas pelo “de cujus”, nos exatos termos do artigo 75, VII, do CPC/15.
+Portanto, não há razão para a inclusão dos herdeiros no polo passivo da ação.
+Ademais, a Ação de Rescisão Contratual foi ajuizada em 14/11/2014, posteriormente ao inventário, inclusive a citação da inventariante HELLEN ELIZABETH CORREA MARTINS ocorreu em 03/07/2015 (ID no 8375081), portanto, inexistindo obrigação de proceder a citação dos demais herdeiros, sejam menores ou maiores, já que se encontravam devidamente representados pela inventariante.
+Ademais, sobre a questão, transcrevo o seguinte trecho do parecer do ilustre Procurador da Justiça – Dr. FLÁVIO CEZAR FACHONE -:
+“(...) Conforme se observa dos autos, o óbito de um dos contratantes ocorreu em 2.011. Tão logo ocorrido o falecimento, procedeu-se abertura do inventário (19/12/2.011), sendo apresentada, ali, as primeiras declarações (momento em que já houve menção da existência dos menores – id 15505452. Isso em 2.011). Registre-se que a inventariante e, aqui representante do espólio, é avó dos requerentes.
+A presente ação – rescisão contratual, tramita há 05 (cinco) anos. Não se sabe porque, mas em decorrência de sua própria omissão, a apelante/inventariante, jamais fez nenhuma menção sobre os peticionantes (menores), mesmo sendo seus netos.
+Agora, quando os autos encontram-se em sua fase final, é que os peticionantes decidem admitir possível prejuízo.
+Diante desses relatos e, por não vislumbrar a ocorrência de qualquer prejuízo, devolvo os autos ao Tribunal de Justiça, para o regular prosseguimento do recurso de apelação, sem a devida manifestação ministerial, por entender desnecessária (...)”
+Portanto, inexiste qualquer prejuízo dos menores, assim, o processo deverá ter seu normal prosseguimento, com a nova inclusão do recurso na pauta de julgamento.
+P.I.
+Cuiabá, 07 de janeiro de 2020.-
