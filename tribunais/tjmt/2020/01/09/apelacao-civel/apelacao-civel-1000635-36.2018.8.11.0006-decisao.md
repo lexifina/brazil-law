@@ -1,0 +1,49 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial interposto na Apelação Cível n. 1000635-36.2018.8.11.0006
+RECORRENTE(S): SEGURADORA LÍDER E OUTRO
+RECORRIDO(S): IDEOMAR DA SILVA AGUIAR, menor representado por sua genitora, ROSELY ROSA DA SILVA AGUIAR
+Vistos, etc.
+Trata-se de Recurso Especial (id. 12647956) interposto por SEGURADORA LÍDER, com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Segunda Câmara de Direito Privado, assim ementado (id. 21828995):
+“AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA EM APELAÇÃO CÍVEL – AÇÃO SUMÁRIA DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT) – ACIDENTE ENVOLVENDO VEÍCULO AUTOMOTOR – ALEGADA NULIDADE POR JULGAMENTO ULTRA PETITA – INOCORRÊNICA – INDENIZAÇÃO EM CONFORMIDADE COM A QUANTIFICAÇÃO DA INVALIDEZ CONSTANTE DO LAUDO MÉDICO – SÚMULA 474 DO STJ – PRECEDENTES – REDISCUSSÃO DO CONTEÚDO DECIDIDO NA APELAÇÃO – MESMOS FUNDAMENTOS APRESENTADOS NAS RAZÕES DA APELAÇÃO – AUSÊNCIA DE ELEMENTOS NOVOS CAPAZES DE MODIFICAR O DECISUM – MANIFESTA INADMISSIBILIDADE – ARTIGO 1.021, § 1o, DO CPC/15 – APLICAÇÃO DE MULTA – ARTIGO 1.021, § 4o, DO CPC/15 – RECURSO INADMITIDO.
+Se a parte agravante se limitou a rediscutir o mesmo conteúdo objeto da decisão agravada, qual seja, a nulidade por julgamento ultra petita, ao argumento de que o valor da condenação é superior à pretensão inicial, não cumprindo o disposto no art. 1.021, § 1o, do CPC/15, o recurso não deve ser admitido.
+Sendo o recurso manifestamente inadmissível, deverá ser aplicada a multa prevista no § 4o do art. 1.021 do CPC/15, a ser arbitrado no momento do julgamento, caso haja unanimidade na votação.” (TJMT. AGRAVO INTERNO NA APELAÇÃO CÍVEL 1000635-36.2018.8.11.0006. RELATORA DESA. MARILSEN ANDRADE ADDARIO, SEGUNDA CÂMARA DE DIREITO PRIVADO. Julgado em 30/10/2019. Publicado em 01/11/2019).
+A Recorrente sustenta violação aos artigos 141 e 492 do Código de Processo Civil, ao argumento de que teria ocorrido julgamento ultra petita.
+Aduz, ainda, divergência jurisprudencial quanto à interpretação dada ao artigo 1.021, §4o, do CPC, sob a assertiva de que seria indevida a fixação de multa em razão do desprovimento por unanimidade do Agravo Interno interposto contra decisão monocrática.
+Recurso tempestivo (id. 25195979) e devidamente preparado (id. 25461499 e id. 25466453).
+Sem contrarrazões, nos termos do id. 29000952.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das Leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Nesse sentido:
+“AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. INDENIZAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ). 2. Agravo interno a que se nega provimento”. (AgInt no AREsp 927.217/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2018, DJe 14/12/2018). (g.n.)
+In casu, a Recorrente sustenta violação aos artigos 141 e 492 do Código de Processo Civil, em que alega a nulidade parcial do acórdão, tendo em vista suposta ocorrência de julgamento ultra petita.
+Quanto à matéria, consignou-se no acórdão impugnado (id. 21828995):
+“Ao analisar detidamente os autos, verifica-se que razão não assiste à parte apelante, pois a condenação em montante superior ao requerido na petição inicial não caracteriza a hipótese de nulidade por sentença ultra petita.
+(...)
+Assim, após a realização da perícia o magistrado singular, ao perceber a ocorrência de fato modificativo do direito perseguido, determinou a intimação das partes para se manifestarem acerca da confecção do laudo pericial, conforme movimento ID 7044222.
+Na sequência, ambas as partes se manifestaram sobre o laudo pericial juntado aos autos (IDs 7044226 e 7044234), tendo a seguradora afirmado inexistir qualquer oposição aos termos do laudo pericial, requerendo apenas a observância ao pagamento proporcional ao grau de lesão apresentado pela parte autora (ID 7044226).
+Além disso, o § 2o do artigo 322 do CPC/15 autoriza que a condenação seja superior ao montante indicado pela parte autora na inicial, pois embora o pedido seja certo, é possível a ocorrência de pedidos implícitos que deverão ser interpretados de acordo com o conjunto fático probatório dos autos em observância ao princípio da boa-fé processual” (g.n.)
+Assim, para rever o entendimento firmado no aresto recorrido sobre este ponto, seria necessário o reexame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado, conforme preconiza o STJ, senão vejamos:
+“PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO SUSTENTANDO ILIQUIDEZ DO TÍTULO EXECUTIVO JUDICIAL. SENTENÇA QUE EXTINGUE A EXECUÇÃO.PROVIMENTO DO APELO PARA ANULAR A SENTENÇA E DETERMINAR O PROSSEGUIMENTO DA EXECUÇÃO. VIOLAÇÃO AO ART. 535 DO CPC.INEXISTÊNCIA. PEDIDO. INTERPRETAÇÃO AMPLA. POSSIBILIDADE.INEXIGIBILIDADE DO TÍTULO EXECUTIVO. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.o 7/STJ. 1. (...) 2. Não ocorre julgamento ultra petita se o Tribunal local decide questão que é reflexo do pedido na exordial. Diante disso, na análise da petição inicial, verifica-se que a lide foi apreciada nos termos do pedido e da causa de pedir, razão pela qual não há falar em decisum extra petita. Ademais, o pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita. 3. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". 4. Recurso Especial não conhecido.” (REsp 1662652/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/04/2017, DJe 08/05/2017) (g.n.)
+Igual entendimento é aplicado à alegada violação ao artigo 1.021, §4o, do CPC, em que a Recorrente defende a inexistência de fundamento para aplicação da multa do agravo interno, posto que o acórdão não teria apontado os motivos pelos quais impôs a penalidade.
+Neste ponto, consignou-se no acórdão recorrido (id. 8658124):
+“Nesse sentido, descabida a discussão da nulidade da decisão por julgamento ultra petita, pois correspondem aos mesmos argumentos enfrentados e decididos na apelação.
+Assim, evidente que a parte agravante não trouxe nenhum fato novo e tampouco as suas razões vieram acompanhadas de documentos capazes de ensejar a reforma da decisão monocrática. Pelo contrário, simplesmente reproduziu os mesmos argumentos apresentados nas razões da apelação (ID 7044245).
+Portanto, a rigor, sob o enfoque do CPC/15, o presente agravo interno afigura-se inadmissível - até porque, trata-se de mera reprodução dos fundamentos já enfrentados na apelação, logo, não há suporte jurídico para a devida provocação da mesma temática neste grau recursal, consoante se infere da decisão monocrática abaixo transcrita (ID 7596264) (...)
+Desta forma, diante de todas as circunstâncias, não há dúvida de que o agravo interno é totalmente inadmissível, inclusive devendo ser imposta a multa prevista no § 4o do art. 1.021 do CPC/15.” (g.n.)
+Sendo assim, para alterar a conclusão do Tribunal de origem, que reconheceu a manifesta inadmissibilidade do Agravo Interno em razão da repetição dos argumentos trazidos no Recurso de Apelação, seria necessário o reexame dos fatos e provas dos autos, o que atrai a incidência da indigitada Súmula 7/STJ.
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” do artigo 105, III da Constituição Federal, diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA. (...) 3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’. 4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto. 5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 09 de janeiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVIII
