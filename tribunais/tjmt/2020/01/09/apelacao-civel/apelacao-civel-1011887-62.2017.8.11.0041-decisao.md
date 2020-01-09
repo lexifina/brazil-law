@@ -1,0 +1,33 @@
+RECURSO DE APELAÇÃO CÍVEL No. 1011887-62.2017.8.11.0041
+Vistos etc.
+Trata-se de Recurso de Apelação interposto pela OI S.A. em razão da sentença proferida pelo Juízo da 3.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Obrigação de Fazer c/c Danos Morais ajuizada por MARIZE FRANCISCA DE ASSIS, julgou procedentes os pedidos iniciais, declarou a inexistência do débito discutido e condenou a Apelante ao pagamento de R$ 10.000,00 (dez mil reais) de indenização por danos morais, com juros de 1% a.m. a partir do evento danoso e correção monetária desde o arbitramento.
+Ainda condenou a Recorrente ao pagamento das custas e honorários advocatícios em 10% (dez por cento) do valor da condenação.
+Inconformada, a Empresa de Telefonia afirma que a negativação é exercício regular do seu direito de credora diante da inadimplência da consumidora, motivo pelo qual não há falar em inexistência do débito, tampouco em dano moral indenizável.
+Sustenta, ainda, que o quantum indenizatório foi estipulado em patamar exorbitante e que os juros, bem como a correção monetária, devem incidir a partir do arbitramento.
+Assim, pugna pela improcedência dos pedidos exordiais ou a reforma da sentença nos demais pontos insurgidos.
+Contrarrazões apresentadas no ID. 26450150.
+É o relatório. Fundamento.
+DECIDO.
+Desde logo, verifica-se que o caso se coaduna com o entendimento sumulado do STJ no verbete 568/STJ, em que “o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema”. (STJ. Corte Especial. Aprovada em 16/03/2016. DJE 17/03/2016). Diante disto, passo a analisar e decidir o caso monocraticamente.
+Nota-se que a matéria já se encontra consolidada na jurisprudência dos Tribunais, o que justifica o julgamento monocrático (AgRg no REsp 857133/SE e AgInt no REsp 948956/SP, RAC 71004971230, TJRS, RAC 38513/2016, TJMT, AgRg no AREsp 735.741/RS, Rel. Ministro Herman Benjamin. STJ).
+Consta do extrato processual que MARIZE FRANCISCA DE ASSIS ajuizou Ação de Obrigação de Fazer c/c Danos Morais em desfavor da OI S.A. em virtude da inclusão do seu nome no rol de inadimplentes por débito no valor de R$ 302,12 (trezentos e dois reais e doze centavos) inserido em 21/10/2013, o qual afirma desconhecer a origem.
+Após a instrução processual, o Juiz singular julgou parcialmente procedentes os pedidos, o que deu azo ao Apelo.
+Como é cediço, o dever de indenizar exige a coexistência de três pressupostos: a prática do ato ilícito, a ofensa à honra ou à dignidade e o nexo de causalidade entre tais elementos, nos termos dos artigos 186 e 927, ambos do Código Civil.
+Partindo dessa premissa e diante da relação consumerista, constitui ônus da empresa Recorrente comprovar, por meio de documento ou outro meio admitido, a legitimidade da dívida objeto da negativação. Em outras palavras, competia-lhe apresentar documentação capaz de evidenciar a contratação e prestação do serviço que originou a dívida objeto das negativações.
+Contudo, a Apelante limitou-se a trazer fotos das telas do seu sistema interno de computadores (ID. 26450130 - Pág. 4 e ID. 26450143), as quais não se mostram idôneas e suficientes para conferir licitude ao débito e comprovar a relação contratual. Logo, a negativação oriunda da dívida objeto da controvérsia não se sustenta e enseja indenização por danos morais, cuja prova é in re ipsa.
+Nesse sentido:
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO – DÍVIDA INEXISTENTE - INCLUSÃO DO NOME NOS ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO - INDENIZAÇÃO POR DANO MORAL – ATO ILÍCITO – DANO MORAL “IN RE IPSA” – VALOR INDENIZATÓRIO – MANTIDO – PRECEDENTES STJ – JUROS DE MORA – INCIDÊNCIA A PARTIR DO EVENTO DANOSO – RECURSO PROVIDO EM PARTE.
+A inscrição indevida em cadastro de inadimplente por dívida inexistente gera direito à indenização por dano moral, independente da prova do dano moral sofrido pelo consumidor (in re ipsa). Precedentes do STJ.
+(..) (TJMT. Recurso de Apelação Cível no 8572/2018. Rel. Desa. Nilza Maria Pôssas de Carvalho. 1.a Câmara de Direito Privado. Julgado em 13/11/2018. Publicado no DJE em 22/11/2018 – sem grifo no original).
+APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS – SERVIÇO DE TV A CABO – ORIGEM DA DÍVIDA NÃO DEMONSTRADA – ÔNUS QUE INCUMBE À PARTE RÉ (ART. 373, II, DO CPC) – INSCRIÇÃO INDEVIDA DO NOME NOS CADASTROS DE PROTEÇÃO AO CRÉDITO – DANO MORAL IN RE IPSA – PESSOA JURÍDICA – DANO MORAL CONFIGURADO – VALOR – RAZOABILIDADE E PROPORCIONALIDADE – MANUTENÇÃO – HONORÁRIOS RECURSAIS – MAJORAÇÃO - § 11, ARTIGO 85, CPC. Recurso conhecido e desprovido.
+1-Havendo discussão a respeito da origem da dívida, compete à empresa demandada comprová-la, considerando a natureza consumerista da relação, bem como a distribuição da carga probatória do art. 373, II, do CPC.
+2-A inscrição de nome em órgão de proteção ao crédito, por débito inexistente, configura ato ilícito passível de reparação, e o dano moral, daí decorrente, presume-se, dispensando a produção de prova, ainda que seja pessoa jurídica. (...) (TJMT. Rel. Des. Sebastião de Moraes Filho. 2.a Câmara de Direito Privado. Julgado em 31/10/2018. Publicado no DJE em 05/11/2018 – sem grifo no original).
+No que tange ao quantum indenizatório, o cuidado no momento de sopesá-lo é com a figura da vítima, cujo dano se busca amenizar ou, ao menos, reduzir sensivelmente.
+Na espécie, considerando o valor negativado de R$ 302,12 (trezentos e dois reais e doze centavos) inserido no rol de inadimplentes desde 21/10/2013, a qualificação da consumidora como “do lar” e a situação econômica da Recorrente como uma das grandes empresas do ramo, tem-se que a indenização na quantia de R$ 6.000,00 (seis mil reais) melhor atende ao caso em exame.
+De outro norte, é sabido que, em havendo relação extracontratual, os juros devem incidir a partir do evento danoso, conforme Verbete Sumular 54 do STJ, enquanto que a correção monetária figura desde a data do arbitramento, consoante Verbete Sumular 362 do STJ. Assim, a sentença vergastada não merece reparos nesse ponto.
+Com essas considerações, dou parcial provimento ao Apelo e reduzo o dano moral para R$ 6.000,00 (seis mil reais). Demais consectários mantidos conforme sentença objurgada.
+Deixo de fixar os honorários advocatícios, porque de acordo com o STJ, “não cabe a condenação ao pagamento de honorários advocatícios recursais de sucumbência no caso de parcial provimento ao recurso”. (STJ. AgInt no AREsp 1451789/MS. Rel. Ministro Marco Aurélio Bellizze. 3.a Turma. Julgado em 19/08/2019. DJE 22/08/2019).
+Intimem-se. Cumpra-se.
+Cuiabá, 09 de janeiro de 2020.
+Desa. Clarice Claudino da Silva
+Relatora
