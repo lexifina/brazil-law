@@ -1,0 +1,1 @@
+Artigo 4º - Serão transferidos à Caixa Beneficente da Polícia Militar os saldos, existentes na data da vigência desta lei, das dotações consignadas nos orçamentos deste exercício, das Caixas Beneficentes que se fundem.

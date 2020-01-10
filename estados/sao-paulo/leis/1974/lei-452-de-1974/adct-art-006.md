@@ -1,0 +1,1 @@
+Artigo 6º - As pensões deixadas por contribuintes falecidos anteriormente à vigencia desta lei, continuarão reguladas pela legislação em vigor ao tempo de sua concessão, calculada, porém, na base de 75% (setenta e cinco por cento) da retribuição-base de que trata esta lei.

@@ -1,0 +1,1 @@
+Artigo 3º - No mesmo prazo previsto no artigo anterior, a CBPM tomará as providências necessárias à cessão, em comodato, dos bens imóveis e dos equipamentos, viaturas, móveis, utensílios e demais implementos utilizados pela Caixa Beneficente da Guarda Civil de São Paulo, para fins de assistência médico-hospitalar e odontológica, à Cruz Azul de São Paulo.
