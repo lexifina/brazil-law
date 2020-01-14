@@ -1,0 +1,1 @@
+Art. 31-A. A adesão do patrocinador ao plano de benefícios, a aplicação do regulamento do plano de benefícios e suas respectivas alterações, bem como as retiradas de patrocínio, dependerão de prévia e expressa autorização do órgão fiscalizador das entidades fechadas de previdência complementar.

@@ -1,0 +1,1 @@
+Art. 23-A. A concessão dos benefícios de que trata o § 3º do art. 18 da Lei Complementar Federal n° 109, de 29 de maio de 2001, aos participantes ou assistidos pela entidade fechada de previdência social, é condicionada à concessão do benefício pelo Regime Próprio de Previdência Social.

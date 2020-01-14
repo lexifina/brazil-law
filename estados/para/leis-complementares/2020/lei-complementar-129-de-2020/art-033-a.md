@@ -1,0 +1,1 @@
+Art. 33-A. Cabe ao Instituto de Gestão Previdenciária do Estado do Pará prover os meios necessários para articular as gestões e providências pertinentes à implantação e ao funcionamento do Regime de Previdência Complementar de que trata esta Lei, observado o disposto no art. 2º, inciso I, alínea "a" desta Lei.
