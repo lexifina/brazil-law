@@ -1,0 +1,1 @@
+Entretanto, o Superior Tribunal de Justiça proveu o Recurso Especial interposto pela Agravante AMBEV, reconhecendo a tempestividade dos Embargos de Terceiros. Isto posto, procedam-se as baixas devidas no presente Agravo Interno e retornem conclusos os autos relacionados a Apelação Cível n. 169063/2014 para julgamento das teses meritórias ali expostas.
