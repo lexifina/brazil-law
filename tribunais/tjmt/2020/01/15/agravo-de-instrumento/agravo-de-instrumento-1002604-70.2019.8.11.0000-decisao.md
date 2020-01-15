@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO INTERPOSTO NOS AUTOS DE AGRAVO DE INSTRUMENTO N. 1002604-70.2019.8.11.0000.
+RECORRENTE: MARIA ALICE JERONIMO FEITOZA.
+RECORRIDO: MUNICÍPIO DE CUIABÁ - MT.
+Vistos, etc.
+Trata-se de Recurso Extraordinário interposto por MARIA ALICE JERONIMO FEITOZA, com fundamento no artigo 102, III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela Primeira Câmara de Direito Público e Coletivo, assim ementado (id. 18712997-TJ):
+“AGRAVO INTERNO – AGRAVO DE INSTRUMENTO - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO - AÇÃO DE COBRANÇA – DECLÍNIO DE COMPETÊNCIA PARA O JUIZADO ESPECIAL DA FAZENDA PÚBLICA – IRDR N. 85660/2016 - SENTENÇA ILÍQUIDA - TRAMITAÇÃO JUNTO AO JUIZADO ESPECIAL DA FAZENDA - POSSIBILIDADE - RECURSO DESPROVIDO.
+O Juizado Especial da Fazenda Pública é competente para julgar as causas cíveis de interesse do Estado e dos Municípios, desde que seu valor não exceda 60 (sessenta) salários mínimos (Lei no 12.153/2009)-
+Compete ao Juizado Especial processar e julgar as ações de conhecimento, em que o valor da causa não ultrapasse 60 (sessenta) salários mínimos, independentemente da complexidade da matéria e da necessidade de prova pericial. (N.U. 1002604-70.2019.8.11.0000, DESA. HELENA MARIA BEZERRA RAMOS, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 04/11/2019)”.
+A parte Recorrente alega violação ao artigo 5o, XXXV da CF, uma vez que ocorreu impedimento de acesso à justiça.
+Recurso tempestivo (id. 27827461-TJ).
+Contrarrazões no id. 29628499-TJ.
+É o relatório. Decido.
+Da sistemática de repercussão geral
+Não foi encontrado no Supremo Tribunal Federal tema afetado que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de repercussão geral no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “a”, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da ausência de prequestionamento. Súmulas 282 e 356 do STF
+Com o objetivo de evitar a supressão de Instância, nos termos do artigo 102, inciso III, “a”, da Constituição Federal, para que o Supremo Tribunal Federal tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância, ex vi Súmula 282/STF, segundo a qual “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Ainda, que caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos Embargos de Declaração com a indicação precisa do ponto supostamente omisso, em aplicação da Súmula 356/STF – “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+À propósito:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). INDEFERIMENTO DE PRODUÇÃO DE PROVAS NO PROCESSO JUDICIAL. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA (TEMA 424). AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência das Súmulas 282 e 356/STF. III - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279/STF. IV - O Supremo Tribunal Federal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 – ARE 748.371-RG/MT, Rel. Min. Gilmar Mendes). V - A controvérsia alusiva à observância dos princípios do contraditório e da ampla defesa nos casos de indeferimento de pedido de produção de provas em processo judicial teve repercussão geral rejeitada pelo Supremo Tribunal Federal no julgamento do ARE 639.228-RG/RJ (Tema 424), de relatoria do Ministro Presidente. VI - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)”. (ARE 1156225 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 14/12/2018, PROCESSO ELETRÔNICO DJe-019 DIVULG 31-01-2019 PUBLIC 01-02-2019).
+Dessa forma, verifica-se que em relação à suposta violação ao artigo 5o, XXXV da Constituição Federal, em que a parte Recorrente sustenta impedimento de acesso a justiça, verifica-se que a controvérsia não fora abordada pelo acórdão impugnado, tampouco foram opostos Embargos de Declaração para prequestionar a matéria, situação que obsta o seu exame pelo Superior Tribunal Federal e impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá-MT, 15 de janeiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VIII
