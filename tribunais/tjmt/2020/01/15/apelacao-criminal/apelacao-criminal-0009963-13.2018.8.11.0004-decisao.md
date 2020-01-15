@@ -1,0 +1,39 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CRIMINAL N. 0009963-13.2018.8.11.0004
+RECORRENTES: ANA PAULA DE SOUZA E MICHAEL ROBB OLIVEIRA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 27001992) interposto por ANA PAULA DE SOUZA e MICHAEL ROBB OLIVEIRA, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Terceira Câmara Criminal deste Sodalício, assim ementado (Id. 16788968):
+“APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS –SENTENÇA ABSOLUTÓRIA COM RECONHECIMENTO DE NULIDADE DA BUSCA PESSOAL REALIZADA NOS ACUSADOS – RECURSO DO MINISTÉRIO PÚBLICO – PRETENDIDA A CONDENAÇÃO DOS ACUSADOS COM A LEGITIMAÇÃO DA AÇÃO DOS POLICIAIS – PROCEDÊNCIA – EXISTÊNCIA DE FUNDADAS RAZÕES QUE INDICAVAM NO CASO CONCRETO A OCORRÊNCIA DO CRIME DE TRÁFICO DE DROGAS – APREENSÃO DE QUASE UM QUILO DE MACONHA APÓS A REALIZAÇÃO DE BUSCAS PESSOAIS - NÃO VIOLAÇÃO DA INTIMIDADE DOS ACUSADOS – RECURSO ACUSATÓRIO PROVIDO EM PARTE. A busca pessoal é um meio de prova com previsão expressa no art. 240, § 2o, do CPP, cuja realização independe de mandado judicial (CPP, art. 244), condicionando-se apenas à fundada suspeita de que o sujeito oculta consigo objetos ilícitos, o que ocorreu no caso em apreço.” (Ap 0009963-13.2018.811.0004, DES. JUVENAL PEREIRA DA SILVA, TERCEIRA CÂMARA CRIMINAL, Julgado em 23/10/2019)
+Alegam violação aos arts. 157 e 244, ambos do CPP, bem como ao 5°, X, da Constituição Federal, ao argumento de ilicitude das provas obtidas diante da ausência de fundadas suspeitas para a realização da busca pessoal.
+Recurso tempestivo (Id. 27400490).
+Contrarrazões – Id. 29100958.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Violação da Constituição Federal. Via inadequada.
+Consoante os arts. 102, III e 105, III, ambos da Constituição Federal, é patente que a afronta à dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação dada a dispositivo de lei federal.
+Confira-se:
+“PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. DECISÃO MANTIDA. PLEITO DE ABSOLVIÇÃO OU DE DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. PLEITOS QUE DEMANDAM REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7/STJ. INCIDÊNCIA MANTIDA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL EM SEDE DE RECURSO ESPECIAL. VIA INADEQUADA. COMPETÊNCIA CONSTITUCIONAL DO PRETÓRIO STF. AGRAVO REGIMENTAL DESPROVIDO. I - A interposição do apelo extremo, com fulcro na alínea c do permissivo constitucional exige o atendimento dos requisitos contidos no art. 1028, e § 1o do Código de Processo Civil, e no art. 255, § 1o, do Regimento Interno do Superior Tribunal de Justiça, para a devida demonstração do alegado dissídio jurisprudencial, pois, além da transcrição de acórdãos para a comprovação da divergência, é necessário o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu no presente caso. II - A análise da pretensão recursal no sentido de que deve haver, in casu, a absolvição ou a desclassificação do delito de tráfico de drogas para o previsto no art. 28, caput, Lei n. 11.343/2006 demandaria, como ressaltado no decisum objurgado, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula n. 7/STJ. III - Não compete a este eg. STJ se manifestar explicitamente sobre violação a dispositivos ou a princípios de extração constitucional, sob pena de usurpação da competência outorgada pela Constituição da República ao Pretório Supremo Tribunal Federal. (Precedentes). Agravo regimental desprovido.” (AgRg no AREsp 1490150/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/06/2019, DJe 25/06/2019) (destaquei)
+Assim, em relação à suposta violação ao art. 5°, X, da Constituição Federal, o Recurso Especial é via inadequada para a análise da questão.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, ao apontar a violação aos arts. 157 e 244, ambos do CPP, defendem os Recorrentes a ilicitude das provas obtidas diante da ausência de fundadas suspeitas para a realização da busca pessoal.
+No aresto assim restou consignado:
+“Na hipótese, a atitude suspeita dos réus que estariam de madrugada, “atravessando” a cidade por ruas mais escondidas, justifica por si só a abordagem policial e a busca pessoal realizada, tanto é que foram flagrados em posse de 867,885g (oitocentos e sessenta e sete gramas, e oitocentos e oitenta e cinco miligramas), de “maconha”, dividida em dois tabletes, ou seja, quase um quilo de droga sem autorização e em desacordo com determinação legal.
+Nota-se do depoimento acima transcrito, que ao visualizarem que os réus estavam transitando de madrugada, por ruas “mais escondidas”, os milicianos fizeram um prévio acompanhamento dos suspeitos para ver se não eram moradores daquela região, abordando-os somente após detectarem que os réus estavam indo sentido saída de Ribeirãozinho.” (Id. 16788964, p. 3/4)
+Todavia, conquanto pretenda rever a conclusão do órgão colegiado sobre o ponto, a análise da questão exige o exame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. BUSCA PESSOAL. FUNDADA SUSPEITA. FUNDAMENTAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. Nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar. Hipótese em que o Tribunal de origem, diante das circunstâncias peculiares do caso - veículo parado em atitude suspeita, durante a madrugada, com quatro indivíduos em seu interior - entendeu haver fundada suspeita para a realização da abordagem pessoal, que resultou na apreensão de arma de fogo. A decisão vergastada está em consonância com o art. 244 do CPP e os elementos fáticos consignados no acórdão recorrido são legítimos para fins de busca pessoal. Rever a conclusão do aresto necessitaria do reexame do conjunto probatório, o que é vedado pela Súmula n. 7 do STJ. Agravo regimental não provido.” (AgRg no AREsp 1403409/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/03/2019, DJe 04/04/2019) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 15 de janeiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
