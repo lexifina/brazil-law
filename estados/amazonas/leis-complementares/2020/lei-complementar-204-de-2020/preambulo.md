@@ -1,0 +1,7 @@
+LEI COMPLEMENTAR N. 204, DE 16 DE JANEIRO DE 2020.
+
+ALTERA e INCLUI dispositivos na Lei n. 2.423, de 10 de dezembro de 1996, e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
