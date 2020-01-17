@@ -1,0 +1,25 @@
+Decisão.
+    Vistos.
+    Licínio Soares Bastos formula novo pedido de extensão (Petição/STF nº 831/2020) da decisão mediante a qual o eminente Relator, Ministro Marco Aurélio, concedeu a medida liminar no habeas corpus para determinar a entrega do passaporte ao paciente Aniz Abrahão David e autorizar a realização de viagem ao exterior no período de 26 de dezembro de 2019 a 4 de janeiro de 2020 e de 6 a 28 de janeiro de 2020.
+    O requerente sustenta, em síntese, que
+    “requereu no passado recente, em 29.dez.19, e obteve [omissis], no dia 31.dez.19, a extensão dos efeitos da liminar concedida ao paciente Aniz Abrahão David para que pudesse empreender cruzeiro marítimo internacional entre os dias 31.dez.19 e 07.jan.20, já tendo retornado ao Brasil e se apresentado, incontinente, ao Tribunal Regional Federal da 2ª Região, conforme o comando da Presidência dessa Suprema Corte.
+    Agora, surgiu a oportunidade de o requerente empreender nova viagem ao exterior, com destino aos Estados Unidos da América e Portugal, mais especificamente às cidades de Orlando e do Porto, entre os dias 17.jan.20 e 09.mar.20, conforme reserva de passagens aéreas em anexo.
+    Assim, considerando que permanecem inalterados a identidade de situação jurídica entre requerente e paciente, o sistemático indeferimento de pedidos de autorização de viagem pela autoridade apontada como coatora, e a ausência de qualquer razão objetiva que justifique o ilegal cerceamento à sua liberdade de locomoção, pede-se novamente a Vossa Excelência, com fundamento no disposto no artigo 580 do Código de Processo Penal, seja renovada a extensão ao ora requerente dos efeitos da liminar concedida nos autos da presente ordem de habeas corpus, a fim de autorizá-lo a empreender viagem ao exterior entre os dias 17 de janeiro e 09 de março de 2020, comprometendo-se o requerente, desde logo, a informar ao Tribunal Regional Federal da 2ª Região os endereços em que ficará hospedado, bem como em se apresentar àquele Órgão em até 48 horas de seu retorno ao Brasil” (grifos do autor).
+    Por fim, requer,
+    “[d]ada a proximidade da data de embarque, e a fim de evitar o perecimento do direito constitucionalmente assegurado ao requerente de ir e vir em liberdade, especialmente quando ausente qualquer imposição de medida restritiva contra si, pede-se seja o pleito submetido à Presidência desse Supremo Tribunal Federal, em excepcional caráter de urgência, com fundamento no disposto no artigo 13, inciso VIII, do Regimento Interno dessa egrégia Corte”.
+    Examinados os autos, decido.
+    Em 31 de dezembro de 2019, deferi a liminar para determinar a entrega do passaporte e autorizar o requerente, Licínio Soares Bastos, a se ausentar temporariamente do país, no período compreendido entre 31 de dezembro de 2019 a 7 de janeiro de 2020, tendo em vista vislumbrar, naquele momento, a identidade de situação entre o requerente e o paciente Aniz Abrahão David, que obteve o deferimento liminar pelo digno Ministro Relator.
+     As referidas liminares concedidas foram amparadas no princípio da presunção de inocência, não obstante o reconhecimento da reprovabilidade e gravidade das condutas perpetradas pelos agentes. Contudo, ressalte-se que é de apreciação casuística pedidos dessa natureza, os quais devem observar a proporcionalidade das medidas invocadas e a conveniência do andamento processual.
+    Nesse contexto, verifica-se que o requerente foi condenado em segunda instância à pena de 9 (nove) anos e 2 (dois) meses de reclusão, em regime inicialmente fechado, pelo delito de corrupção ativa na denominada Operação Furacão e aguarda em liberdade o julgamento dos embargos de declaração opostos do acórdão que julgou a apelação no Tribunal Regional Federal da 2ª Região.
+    Eis que já beneficiado por autorização de recente viagem ao exterior, que foi realizada entre 31 de dezembro de 2019 e 7 de janeiro de 2020, requer, sucessivamente, empreender nova viagem no período de 17 de janeiro a 9 de março de 2020.
+    Vê-se, no entanto, que o período compreendido excede o que se considera proporcional ao atual estágio em que se encontra a ação penal em comento, mormente ante a constatação de que a viagem pretendida não possui nenhum caráter excepcional, em se tratando, portanto, ao que tudo indica, de viagem de lazer, não havendo motivo justificável para autorizar o benefício em tela pelo período exorbitante de quase 2 (dois) meses.
+    Ademais, conceder ao paciente a autorização para deixar o país indistintamente por longo período, vale dizer de 17 de janeiro a 9 de março de 2020, conforme dito, por lazer, tornará inócua as limitações estabelecidas pelo juízo de origem, bem como poderá frustar outras medidas cautelares eventualmente impostas.
+    Nesta conformidade, sem prejuízo do reexame por parte do eminente Relator, indefiro a liminar requerida.
+    Ouça-se a Procuradoria-Geral da República.
+    Após, remetam-se aos autos ao ilustre Ministro Relator para a sua competente reapreciação.
+    Publique-se. Int.
+    Brasília, 17 de janeiro de 2020.
+Ministro Dias Toffoli
+Presidente
+(art. 13, VIII, do RISTF)
+Documento assinado digitalmente
