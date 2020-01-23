@@ -1,0 +1,9 @@
+Art. 17-A. (VETADO):
+I - (VETADO);
+II - (VETADO);
+III - (VETADO).
+§ 1º (VETADO).
+§ 2º (VETADO).
+§ 3º (VETADO).
+§ 4º (VETADO).
+§ 5º (VETADO).

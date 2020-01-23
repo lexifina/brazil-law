@@ -1,0 +1,10 @@
+Art. 10-A. Será admitida a ação de agentes de polícia infiltrados virtuais, obedecidos os requisitos do caput do art. 10, na internet, com o fim de investigar os crimes previstos nesta Lei e a eles conexos, praticados por organizações criminosas, desde que demonstrada sua necessidade e indicados o alcance das tarefas dos policiais, os nomes ou apelidos das pessoas investigadas e, quando possível, os dados de conexão ou cadastrais que permitam a identificação dessas pessoas.
+§ 1º Para efeitos do disposto nesta Lei, consideram-se:
+I - dados de conexão: informações referentes a hora, data, início, término, duração, endereço de Protocolo de Internet (IP) utilizado e terminal de origem da conexão;
+II - dados cadastrais: informações referentes a nome e endereço de assinante ou de usuário registrado ou autenticado para a conexão a quem endereço de IP, identificação de usuário ou código de acesso tenha sido atribuído no momento da conexão.
+§ 2º Na hipótese de representação do delegado de polícia, o juiz competente, antes de decidir, ouvirá o Ministério Público.
+§ 3º Será admitida a infiltração se houver indícios de infração penal de que trata o art. 1º desta Lei e se as provas não puderem ser produzidas por outros meios disponíveis.
+§ 4º A infiltração será autorizada pelo prazo de até 6 (seis) meses, sem prejuízo de eventuais renovações, mediante ordem judicial fundamentada e desde que o total não exceda a 720 (setecentos e vinte) dias e seja comprovada sua necessidade.
+§ 5º Findo o prazo previsto no § 4º deste artigo, o relatório circunstanciado, juntamente com todos os atos eletrônicos praticados durante a operação, deverão ser registrados, gravados, armazenados e apresentados ao juiz competente, que imediatamente cientificará o Ministério Público.
+§ 6º No curso do inquérito policial, o delegado de polícia poderá determinar aos seus agentes, e o Ministério Público e o juiz competente poderão requisitar, a qualquer tempo, relatório da atividade de infiltração.
+§ 7º É nula a prova obtida sem a observância do disposto neste artigo.
