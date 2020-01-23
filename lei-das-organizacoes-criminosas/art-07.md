@@ -1,4 +1,4 @@
 Art. 7º O pedido de homologação do acordo será sigilosamente distribuído, contendo apenas informações que não possam identificar o colaborador e o seu objeto.
 § 1º As informações pormenorizadas da colaboração serão dirigidas diretamente ao juiz a que recair a distribuição, que decidirá no prazo de 48 (quarenta e oito) horas.
 § 2º O acesso aos autos será restrito ao juiz, ao Ministério Público e ao delegado de polícia, como forma de garantir o êxito das investigações, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exercício do direito de defesa, devidamente precedido de autorização judicial, ressalvados os referentes às diligências em andamento.
-§ 3º O acordo de colaboração premiada deixa de ser sigiloso assim que recebida a denúncia, observado o disposto no art. 5º.
+§ 3º O acordo de colaboração premiada e os depoimentos do colaborador serão mantidos em sigilo até o recebimento da denúncia ou da queixa-crime, sendo vedado ao magistrado decidir por sua publicidade em qualquer hipótese.

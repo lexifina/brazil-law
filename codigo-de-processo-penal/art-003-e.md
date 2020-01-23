@@ -1,0 +1,1 @@
+Art. 3º-E. O juiz das garantias será designado conforme as normas de organização judiciária da União, dos Estados e do Distrito Federal, observando critérios objetivos a serem periodicamente divulgados pelo respectivo tribunal.
