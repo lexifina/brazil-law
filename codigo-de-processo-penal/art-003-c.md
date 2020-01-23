@@ -1,0 +1,5 @@
+Art. 3º-C. A competência do juiz das garantias abrange todas as infrações penais, exceto as de menor potencial ofensivo, e cessa com o recebimento da denúncia ou queixa na forma do art. 399 deste Código.
+§ 1º Recebida a denúncia ou queixa, as questões pendentes serão decididas pelo juiz da instrução e julgamento.
+§ 2º As decisões proferidas pelo juiz das garantias não vinculam o juiz da instrução e julgamento, que, após o recebimento da denúncia ou queixa, deverá reexaminar a necessidade das medidas cautelares em curso, no prazo máximo de 10 (dez) dias.
+§ 3º Os autos que compõem as matérias de competência do juiz das garantias ficarão acautelados na secretaria desse juízo, à disposição do Ministério Público e da defesa, e não serão apensados aos autos do processo enviados ao juiz da instrução e julgamento, ressalvados os documentos relativos às provas irrepetíveis, medidas de obtenção de provas ou de antecipação de provas, que deverão ser remetidos para apensamento em apartado.
+§ 4º Fica assegurado às partes o amplo acesso aos autos acautelados na secretaria do juízo das garantias.
