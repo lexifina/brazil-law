@@ -1,0 +1,1 @@
+Art. 124-A. Na hipótese de decretação de perdimento de obras de arte ou de outros bens de relevante valor cultural ou artístico, se o crime não tiver vítima determinada, poderá haver destinação dos bens a museus públicos.
