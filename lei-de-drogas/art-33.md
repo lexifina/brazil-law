@@ -5,6 +5,7 @@ Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos)
 I - importa, exporta, remete, produz, fabrica, adquire, vende, expõe à venda, oferece, fornece, tem em depósito, transporta, traz consigo ou guarda, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, matéria-prima, insumo ou produto químico destinado à preparação de drogas;
 II - semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas;
 III - utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou consente que outrem dele se utilize, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, para o tráfico ilícito de drogas.
+IV - vende ou entrega drogas ou matéria-prima, insumo ou produto químico destinado à preparação de drogas, sem autorização ou em desacordo com a determinação legal ou regulamentar, a agente policial disfarçado, quando presentes elementos probatórios razoáveis de conduta criminal preexistente.
 § 2º Induzir, instigar ou auxiliar alguém ao uso indevido de droga:
 Pena - detenção, de 1 (um) a 3 (três) anos, e multa de 100 (cem) a 300 (trezentos) dias-multa.
 § 3º Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem:
