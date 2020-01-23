@@ -1,0 +1,7 @@
+Art. 14-A. Nos casos em que servidores vinculados às instituições dispostas no art. 144 da Constituição Federal figurarem como investigados em inquéritos policiais, inquéritos policiais militares e demais procedimentos extrajudiciais, cujo objeto for a investigação de fatos relacionados ao uso da força letal praticados no exercício profissional, de forma consumada ou tentada, incluindo as situações dispostas no art. 23 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), o indiciado poderá constituir defensor.
+§ 1º Para os casos previstos no caput deste artigo, o investigado deverá ser citado da instauração do procedimento investigatório, podendo constituir defensor no prazo de até 48 (quarenta e oito) horas a contar do recebimento da citação.
+§ 2º Esgotado o prazo disposto no § 1º deste artigo com ausência de nomeação de defensor pelo investigado, a autoridade responsável pela investigação deverá intimar a instituição a que estava vinculado o investigado à época da ocorrência dos fatos, para que essa, no prazo de 48 (quarenta e oito) horas, indique defensor para a representação do investigado.
+§ 3º (VETADO).
+§ 4º (VETADO).
+§ 5º (VETADO).
+§ 6º As disposições constantes deste artigo se aplicam aos servidores militares vinculados às instituições dispostas no art. 142 da Constituição Federal, desde que os fatos investigados digam respeito a missões para a Garantia da Lei e da Ordem.
