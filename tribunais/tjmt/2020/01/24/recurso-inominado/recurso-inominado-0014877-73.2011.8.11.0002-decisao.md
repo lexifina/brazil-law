@@ -1,0 +1,23 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+RECURSO INOMINADO No 0014877-73.2011.8.11.0002
+REQUERENTE: ESTADO DE MATO GROSSO
+REQUERIDO: DISPROVEL - DISTRIBUIDORA DE PRODUTOS VETERINÁRIOS LTDA
+Vistos, etc.
+Da análise dos autos, observo que, no despacho de ID no 19505481, o Juiz Relator do feito perante a Turma Recursal devolveu os autos a esta Desembargadora, para reanálise da decisão monocrática proferida no ID no 14875972 e 14875973, que declarou a incompetência deste Egrégio Tribunal de Justiça para apreciar este recurso, por conseguinte, determino a remessa dos autos à Turma Recursal competente, elencando, para tanto, a razão que examino a seguir.
+Alegando que a parta autora do feito é empresa e que não se enquadra nas condições estabelecidas da Lei no 9.099/1995, não sendo EPP ou microempresa. Segundo pesquisa realizada perante o site da Receita Federal com o CNPJ da empresa, verificou-se que a parte autora não optou pelo regime tributário diferenciado simplificado, o que afasta sua legitimidade para propor ação no âmbito dos juizados especiais.
+Pois bem.
+De fato, o feito deve tramitar neste Sodalício.
+Isso porque, a Requerente não se enquadra na previsão do artigo 5o da Lei no 12.153/2009, que dispõe:
+Art. 5o Podem ser partes no Juizado Especial da Fazenda Pública:
+I – como autores, as pessoas físicas e as microempresas e empresas de pequeno porte, assim definidas na Lei Complementar no 123, de 14 de dezembro de 2006;
+II – como réus, os Estados, o Distrito Federal, os Territórios e os Municípios, bem como autarquias, fundações e empresas públicas a eles vinculadas. [Destaquei]
+A Requerente é uma sociedade empresária limitada e, em consulta ao seu CNPJ junto ao sítio da Receita Federal, observa-se que no campo “porte” ela foi caracterizada como “demais” e segundo informações do próprio órgão, o porte “demais” é utilizado para empresas que não sejam micro ou de pequeno porte, portanto, a Requerente não se enquadra na disposição legal e, consequentemente, os autos devem tramitar na justiça estadual.
+A propósito, já proferi voto em Conflito de Competência que versava sobre situação semelhante, reconhecendo a competência do Juízo da Vara da Fazenda Pública para processar a matéria. Confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA — AÇÃO ANULATÓRIA — VALOR DA CAUSA INFERIOR A SESSENTA (60) SALÁRIOS MÍNIMOS — IRRELEVÂNCIA — PESSOA JURÍDICA QUE NÃO SE ENQUADRA COMO MICROEMPRESA OU EMPRESA DE PEQUENO PORTE — NATUREZA JURÍDICA – SOCIEDADE ANÔNIMA — IMPOSSIBILIDADE DE DEMANDAR NO JUIZADO ESPECIAL DA FAZENDA PÚBLICA — JUÍZO DA VARA ESPECIALIZADA DA FAZENDA PÚBLICA — COMPETÊNCIA. Para fixação de competência, é irrelevante o valor da causa, visto que a empresa de grande porte não está entre as pessoas jurídicas legitimadas para demandar no Juizado Especial da Fazenda Pública (Lei no 12.153, 22 de dezembro de 2009, artigo 5o, I); logo, compete ao Juízo da Vara Especializada da Fazenda Pública processar e julgar. Conflito julgado procedente. (CC 137242/2016, DESA. HELENA MARIA BEZERRA RAMOS, TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO, Julgado em 06/07/2017, Publicado no DJE 14/07/2017). [Destaquei]
+Ante o exposto, de fato os autos devem permanecer neste egrégio Tribunal de Justiça para ser julgado.
+Intimem-se.
+Após, retornem-me conclusos.
+Cumpra-se.
+Cuiabá, 22 de janeiro de 2020.
+Desa. Helena Maria Bezerra Ramos
+Relatora
