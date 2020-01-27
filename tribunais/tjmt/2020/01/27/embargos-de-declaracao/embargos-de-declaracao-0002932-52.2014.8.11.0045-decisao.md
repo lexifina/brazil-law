@@ -1,0 +1,28 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE EMBARGOS DE DECLARAÇÃO (interpostos nos autos do Recurso de Apelação Cível no 0002932-52.2014.8.11.0045 – Classe 198 – CNJ – LUCAS DO RIO VERDE/MT)
+Embargante : REJANE ALICE ELY E ADOLAR SEBALDO ELY
+Embargadas : PAULO CESAR GARCIA
+Número do Protocolo : 0002932-52.2014.8.11.0045
+Recurso de EMBARGOS DE DECLARAÇÃO interposto por REJANE ALICE ELY E ADOLAR SEBALDO ELY, contra a decisão monocrática que negou provimento ao Recurso de Apelação Cível interposto contra a decisão monocrática que negou provimento ao apelo do embargante, mantendo a sentença proferida pelo MM. Juiz de Direito da 2a Vara Cível da Comarca de Lucas do Rio Verde/MT, que nos autos da ação de “Embargos a Execução” (Proc. no 2932-52.2014.811.0045 - Código 96236), ajuizada pelos embargante, contra PAULO CESAR GARCIA, julgou parcialmente procedentes os pedidos, para determinar o afastamento da cláusula penal, e o prosseguimento da execução em apenso, observando-se a aplicação de juros legais de 1% ao mês, de forma simples, incidente sobre o valor contratado (R$ 190.000,00), a partir de 17/07/2013, nos termos da cláusula 2.1.2 da avença, abatendo-se, contudo, os valores comprovadamente pagos. A sentença condenou ambas as partes ao pagamento das custas e honorários de advocatícios, estes fixados em 15% sobre o valor do proveito econômico, na proporção de 50% para cada parte.
+Os embargantes alegam que a decisão combatida não analisou expressamente se o fato de a nota promissória exequenda se tratar de título vinculado a contrato com valor variável denota iliquidez ou não.
+Alega, também, que a decisão se contradiz ao não reconhecer o afastamento da mora, mesmo tendo confirmado expressamente que o apelado cobrou encargos ilegais (juros de 2,5%) antes do vencimento da obrigação, ou seja, no período de normalidade compreendido entre a celebração do contrato (17/03/2013) até o vencimento (14/10/2013).
+Diz, ainda, que a decisão se omitiu quanto ao fundamento de que a penalidade do art. 940 do CC deve ser aplicada em razão da cobrança de cláusula penal não prevista no título.
+Por fim, afirma que também houve omissão quanto a desproporção dos honorários aplicados na sentença.
+Pede, pois, o acolhimento dos embargos para que os vícios sejam sanados (cf. ID. 28178985).
+Não houve apresentação de contrarrazões ao recurso (cf. ID. 31264964).
+É a suma.
+D E C I D O
+Conforme orientação do eg. STJ, “a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão; já a omissão que enseja o acolhimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais” (EDcl no AgRg na PET no REsp 1359666/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 04/08/2017), sendo evidente a pretensão de rediscussão da matéria.
+O embargante não demonstrou a existência de obscuridade, pela eventual falta de clareza do núcleo decisório ou ocorrência de erro de natureza formal, nem a existência de contradição, no sentido de conflito lógico entre as proposições da decisão, e muito menos a falta de pronunciamento sobre qualquer ponto relevante do tema recursal, já que o acórdão combatido analisou as teses apontadas, como se vê nos seguintes trechos:
+“(...)
+No julgamento do Resp no 1061530/RS, afetado à Segunda Secção sob o rito dos recursos repetitivos, o eg. STJ fixou a tese de que “a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora; b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual” (REsp 1061530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009).
+Logo, considerando que a revisão do contrato se deu apenas em relação à multa moratória, encargos inerentes ao período de inadimplência contratual, não há falar em descaracterização ou afastamento da mora, de iliquidez do título, e, consequentemente, de cobrança de juros somente após a data final do vencimento da obrigação.
+No que diz respeito ao pedido de aplicação da multa de má-fé, como mencionado pela sentença, não restou suficientemente demonstrada a má-fé da parte apelada, até mesmo porque o apelado indicou ter recebido valor próximo ao efetivamente pago (R$ 84.357,67), anotando-se, ainda, que tais valores foram pagos de forma intempestiva (14/10 a 17/10), não havendo apontamento de qualquer correção do crédito principal para fins do escorreito abatimento, que deveria incidir desde 17/07/2013, consoante cláusula 2.1.2. do contrato celebrado entre as partes.
+Por fim, também não há qualquer readequação a ser feita nos honorários fixados pela sentença, já que, dos diversos pedidos feitos pela parte autora, que compreendem o de declaração de iliquidez, afastamento da mora, repetição de indébito, redução de juros e afastamento da multa, apenas dois foram acolhidos pela sentença
+(...) (Sem destaque no original).
+Assim, ante a manifesta higidez da decisão monocrática, o evidente escopo de rediscussão da matéria, e clara ausência dos requisitos do art. 1.022 do CPC, rejeito os aclaratórios, com aplicação da multa do art. 1.026, §2o, do mesmo Código, no importe de 1% (um por cento) sobre o valor atualizado da causa, em decorrência da interposição protelatória do recurso.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 27 de janeiro de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
