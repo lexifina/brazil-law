@@ -1,0 +1,15 @@
+Decisão: Trata-se de pedido do Ministério Público Federal, no sentido da revogação de decisões proferidas na RCL 32.081/PR, Rel. Min. Gilmar Mendes, por alegada usurpação de competência do Relator do presente feito, Ministro Roberto Barroso.
+    Segundo o Parquet, o deferimento, em 25 de novembro de 2019, dos pedidos de extensão deduzidos na RCL 32.081/PR, com determinação de soltura de João Marafon Júnior, João Chiminazzo Neto, Luiz Fernando Fernando Wolff de Carvalho e Luiz Abi Antoun, teria contrariado decisão anterior da Presidência desta Corte, que confirmara a competência do Ministro Roberto Barroso para os fatos oriundos da Operação Integração I e II. Isso porque a competência do Ministro Gilmar Mendes estaria restrita aos feitos relacionados à Operação Rádio Patrulha, no âmbito da qual Sua Excelência concedeu ordens de habeas corpus para fazer cessar violação oblíqua à proibição da condução coercitiva.
+    A PGR argumenta, relativamente aos investigados João Marafon Júnior, João Chiminazzo Neto e Luiz Fernando Wolff de Carvalho, serem os fatos e fundamentos que orientaram sua prisão preventiva, no âmbito da Operação Integração, distintos daqueles infirmados pelo Ministro Gilmar Mendes, ao conceder habeas corpus de ofício na ADPF 444 em favor dos investigados presos na Operação Rádio Patrulha.
+    Relativamente a Leonardo Guerra, informa que o pedido do investigado não foi apreciado pelo Ministro Gilmar Mendes nos autos da RCL 32.081/PR, pois a prisão preventiva contra ele decretada já havia sido substituída por medidas cautelares alternativas. De toda sorte, sustenta a PGR que o respectivo pedido de revogação das cautelares deve ser redistribuído ao Ministro Roberto Barroso, Relator do presente feito.
+    Por fim, em relação a Luiz Abi Antoun, informa que o investigado se encontra foragido, com possível paradeiro no Líbano, circunstância que não teria sido examinada na decisão paradigma da RCL 32.081/PR e que, por consequência, não poderia ter sido objeto de controle diretamente pelo Ministro Gilmar Mendes.
+    Em suma, entende o órgão ministerial inexistir identidade entre os motivos que conduziram à decretação da prisão preventiva dos investigados na Operação Integração e aqueles reputados inválidos pelo Ministro Gilmar Mendes na Operação Rádio Patrulha, razão pela qual pleiteia seja suscitada, pelo Relator do presente feito, questão de ordem voltada à redistribuição, a Sua Excelência, dos pedidos deduzidos nos autos da RCL 32.081/PR, e o subsequente restabelecimento das prisões preventivas revogadas nos autos da RCL 32.081/PR.
+    É o relatório.
+    Decido.
+    A necessidade de aprofundada análise de fatos e provas e a proximidade do início do ano judiciário não recomendam, observados termos do art. 13, VIII, do RISTF, a atuação excepcional desta Presidência, em substituição ao Relator originário do feito, Ministro Roberto Barroso.
+    Encaminhem-se os autos ao gabinete do eminente Ministro Relator.
+    Publique-se. Int..
+    Brasília, 28 de janeiro de 2020.
+Ministro Luiz Fux
+Presidente em exercício
+Documento assinado digitalmente
