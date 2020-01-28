@@ -1,0 +1,35 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CRIMINAL N. 0001957-05.2015.8.11.0042
+RECORRENTE: ALAN GUILBERT SOUZA CRUZ
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 23084475) interposto por ALAN GUILBERT SOUZA CRUZ, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Terceira Câmara Criminal deste Sodalício, assim ementado (Id. 13484992):
+“APELAÇÃO CRIMINAL – TRIBUNAL DO JÚRI – DENÚNCIA PELA PRÁTICA DO CRIME PREVISTO NO ART. 121, §2o, INCISOS I E IV DO CÓDIGO PENAL – DECISÃO DE IMPRONÚNCIA – IRRESIGNAÇÃO MINISTERIAL – PEDIDO PARA QUE O AGENTE SEJA PRONUNCIADO –POSSIBILIDADE – CONJUNTO PROBATÓRIO SUFICIENTE QUANTO AOS INDÍCIOS DE AUTORIA DELITIVA – ELEMENTOS INQUISITIVOS CORROBORADOS NA ESFERA JUDICIAL – DÚVIDA A SER DIRIMIDA PELO CONSELHO DE SENTENÇA – EVIDÊNCIAS MÍNIMAS QUANTO ÀS QUALIFICADORAS DO MOTIVO TORPE E DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA – PRONÚNCIA NOS TERMOS DA EXORDIAL ACUSATÓRIA – RECURSO MINISTERIAL PROVIDO. 1. A decisão de pronúncia consubstancia mero juízo de admissibilidade da acusação. Destarte, se presentes a prova da materialidade delitiva e os indícios suficientes de autoria no crime doloso contra a vida, impõe-se o pronunciamento do agente a fim de ser submetido a julgamento pelo eg. Tribunal do Júri, em observância ao comando expresso da Constituição Federal e com fulcro no brocardo jurídico in dubio pro societate, devendo eventuais dúvidas acerca da autoria delitiva serem submetidas à discussão em Plenário. 1. As qualificadoras só podem ser excluídas da pronúncia quando se revelarem manifestamente improcedentes, despropositadas ou desarrazoadas, isto é, sem qualquer apoio nos autos, sob pena de ser invadida a competência constitucional do Conselho de Sentença, a quem compete decidir se os tipos penais derivados ficaram, ou não, configurados. Precedentes. 2. Recurso ministerial provido.” (Ap. 0001957-05.2015.8.11.0042, DES. GILBERTO GIRALDELLI, TERCEIRA CÂMARA CRIMINAL, Julgado em 25/09/2019)
+Alega violação ao art. 155 do CPP, ao argumento de que é vedada a prolação de sentença de pronúncia baseada unicamente em elementos colhidos na fase policial.
+Recurso tempestivo (Id. 23861455).
+Contrarrazões – Id. 31377467.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ. Súmula 83 do STJ.
+Como preconiza a Súmula 83 do STJ, “Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, o Recorrente defende que é vedada a prolação de sentença de pronúncia baseada unicamente em elementos colhidos na fase policial, em respeito à necessidade de fundamentação das decisões do Júri e aos princípios constitucionais do devido processo legal, ampla defesa e contraditório.
+No acórdão recorrido ficou consignado que:
+“No entanto, e a despeito da dicotomia jurisprudencial sobre o tema, a Sexta Turma do Superior Tribunal de Justiça assentou o entendimento de que a observância do disposto no art. 155 do Código de Processo Penal é dispensável na fase do judicium acusationis, de modo que se revela possível o reconhecimento de indícios de autoria do crime unicamente com base em elementos inquisitivos.
+Isso porque, nesta fase processual, impera o princípio do in dubio pro societate, segundo o qual, em caso de dúvida, impõe-se submetê-la ao crivo do Conselho de Sentença, juiz natural da causa, a quem incumbe a apreciação probatória aprofundada e exauriente.” (Id. 13484989, p. 4)
+Observa-se, pois, que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que a decisão de pronúncia pode ser baseada em elementos colhidos na fase policial.
+A propósito:
+“PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA DECISÃO DE PRONÚNCIA FUNDAMENTADA EXCLUSIVAMENTE EM ELEMENTOS DE INFORMAÇÃO COLETADOS NA FASE EXTRAJUDICIAL. INEXISTÊNCIA DE NULIDADE OU DE OFENSA AO ART. 155 DO CPP. PLEITO SUBSIDIÁRIO DO RECONHECIMENTO DE NULIDADE DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA DEFESA AO ACÓRDÃO DECORRENTE DO RECURSO EM SENTIDO ESTRITO INTERPOSTO DA DECISÃO DE PRONÚNCIA. ALEGAÇÃO DE PARTICIPAÇÃO E DE VOTO DE DESEMBARGADOR DECLARADO SUSPEITO QUANDO DO PRIMEIRO JULGAMENTO. CERTIDÃO NOS AUTOS DANDO CONTA DA AVERBAÇÃO DO DESEMBARGADOR COMO SUSPEITO. IMPROCEDÊNCIA DA ALEGAÇÃO DE NULIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. 1. A pronúncia é um juízo de justa causa, cuja análise não exclui as provas colhidas no inquérito policial, por tratar-se de indícios. Tal entendimento não viola o disposto no art. 155 do CPP pois, como se sabe, o juiz não pode condenar exclusivamente com base em prova do inquérito policial, mas isso não impede que a decisão de pronúncia seja com base nessa prova (HC n. 265.842/MG, Ministro Rogerio Schietti Cruz, relator para o acórdão Ministro Nefi Cordeiro, Sexta Turma, DJe 1o/9/2016). (...)” (HC 465.298/PB, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/12/2019, DJe 13/12/2019) (destaquei)
+“AGRAVO REGIMENTAL. RECURSO ESPECIAL DA DEFESA E DO MINISTÉRIO PÚBLICO. HOMICÍDIO NO TRÂNSITO. 1. OFENSA AO SISTEMA ACUSATÓRIO. PRODUÇÃO DE PROVA DE OFÍCIO. IMPARCIALIDADE DO MAGISTRADO. 2. INDEFERIMENTO DE OITIVA DA VÍTIMA HOSPITALIZADA. FUNDAMENTAÇÃO CONCRETA. 3. SENTENÇA DE PRONÚNCIA. ELEMENTOS INDICIÁRIOS. 4. DESCLASSIFICAÇÃO DO DELITO. DOLO EVENTUAL X CULPA CONSCIENTE. 5. PREQUESTIONAMENTO EXPLÍCITO DE MATÉRIA CONSTITUCIONAL. AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. 6. COEXISTÊNCIA DE DOLO EVENTUAL COM QUALIFICADORAS - MEIO CRUEL E MOTIVO FÚTIL. 7. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (...) 3.1. Nos termos da jurisprudência desta Corte Superior, é admissível o uso do inquérito policial como parâmetro de aferição dos indícios de autoria imprescindíveis à pronúncia, sem que isto represente violação ou negativa de vigência ao art. 155 do CPP. (...) 7.1. Agravo regimental a que se nega provimento.” (AgRg no REsp 1573829/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/04/2019, DJe 13/05/2019) (destaquei)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta ao art. 155 do CPP, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ, o que impede o seguimento do recurso.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de janeiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
