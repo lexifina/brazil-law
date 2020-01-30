@@ -1,0 +1,39 @@
+Recurso Especial no Agravo de Instrumento n. 1001057-97.2016.8.11.0000
+RECORRENTE(s): KAUE GONCALVES DOS SANTOS
+RECORRIDO(s): ESTADO DE MATO GROSSO E MUNICÍPIO DE SINOP
+Vistos, etc.
+Trata-se de Recurso Especial interposto por KAUE GONCALVES DOS SANTOS com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela Primeira Câmara de Direito Público e Coletivo (ID 13669972):
+“AGRAVO DE INSTRUMENTO – DECISÃO QUE INDEFERIU O FORNECIMENTO DE LEITE E INSUMOS – CRIANÇA REGULADA PELO SUS – HIPOSSUFICIÊNCIA DA GENITORA – PACIENTE CRIANÇA – NOVO PEDIDO DA PARTE APÓS ANGULARIZAÇÃO PROCESSUAL – NÃO OPORTUNIZADA MANIFESTAÇÃO DOS REQUERIDOS - AGRAVO DESPROVIDO- DECISÃO MANTIDA. 1“(...). O pedido e a causa de pedir da ação podem ser alterados pelo autor, desde que haja consentimento do réu ou desde que seja oportunizada a sua manifestação, no prazo e na forma do artigo 329, II do CPC.2. Ausentes o consentimento e não oportunizada a manifestação da parte adversa, impõe-se a extinção da ação, sem resolução do mérito.3. Apelo provido. (Apelação / Remessa Necessária 60624/2017, Desa. Helena Maria Bezerra Ramos, Primeira Câmara de Direito Público e Coletivo, Julgado em 18/12/2017, Publicado no DJE 02/02/2018)”.
+2. Agravo desprovido – decisão mantida. (AGRAVO DE INSTRUMENTO 1001057-97.2016.8.11.0000, DES. MARIA EROTIDES KNEIP, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 20/05/2019)”.
+Alega violação aos artigos 300, 497, 536, § 1o, do CPC, ao argumento de que foram preenchidos os requisitos da tutela de urgência para o fornecimento de insumos para o Recorrente e, que, deve ser aplicada a multa cominatória ao poder público para garantir os direitos à saúde e à vida.
+Recurso tempestivo (ID 21302999).
+Sem contrarrazões (ID 31097982).
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ato decisório não definitivo
+Súmula 735 do STF. Aplicação analógica
+Nos termos do artigo 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e a uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de Recurso Especial contra acórdão proferido em sede de tutela provisória, ante o caráter precário da decisão.
+In casu, o órgão fracionário negou provimento ao Agravo de Instrumento interposto pela Recorrente mantendo o indeferimento da tutela de urgência postulada na ação de obrigação de fazer, cujo objetivo era a modificação do pedido de fornecimento insumos, no curso do processo em que já havia a estabilização da lide.
+Nesse caso, a decisão é provisória, incidindo, por analogia, a Súmula 735/STF, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”. Desse modo:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. REQUISITOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO. I. (...). IV. Consoante reiterada jurisprudência desta Corte, não é cabível Recurso Especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação dos efeitos da tutela, é tratada, pelo Tribunal de origem, apenas sob juízo precário de mera verossimilhança, porquanto, em relação a "tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: 'Não cabe recurso extraordinário contra acórdão que defere medida liminar'" (STJ, REsp 765.375/MA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 08/05/2006).
+V. Ademais, "a iterativa jurisprudência do STJ é no sentido de que, para analisar critérios adotados pela instância ordinária para conceder ou não liminar ou antecipação dos efeitos da tutela, é necessário reexaminar os elementos probatórios, a fim de aferir 'a prova inequívoca que convença da verossimilhança da alegação', nos termos do art. 273 do CPC/1973, o que não é possível em Recurso Especial, ante o óbice da Súmula 7/STJ" (STJ, REsp 1.666.019/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017).
+VI. No caso, o Tribunal de origem concluiu, à luz das provas dos autos, pela "presença da verossimilhança do direito da agravada e bem assim o periculum in mora, a legitimar a antecipação de tutela deferida em primeiro grau", mormente considerando a imprescindibilidade da medicação requerida e a gravidade da doença.
+Desse modo, era de ser aplicado o óbice da Súmula 7/STJ ao caso, porquanto rever a conclusão da instância ordinária - firmada diante das provas dos autos - é pretensão inviável, em sede de Recurso Especial.
+VII. Agravo interno improvido. (AgInt no AREsp 1171669/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2018, DJe 09/05/2018)”. (contrario sensu). (g.n.).
+Portanto, no tocante à aventada violação ao artigo 300, do CPC, inadmissível o recurso, face ao óbice da Súmula 735/STF.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 497 e 536, § 1o, do CPC, está amparada na assertiva de que no presente caso deve ser aplicado a multa cominatória para o cumprimento da obrigação de fazer, pelo ente público.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. RAZOABILIDADE. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO CPC DE 2015. TEMPUS REGIT ACTUM. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NESTA CORTE. SÚMULA 83/STJ. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1.(...).
+3. As conclusões da Corte Estadual em relação ao cabimento, proporcionalidade e razoabilidade das astreintes, caso a decisão judicial não seja cumprida, não podem ser revistas por esta Corte Superior, pois demandaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+4. Agravo interno não provido. (AgInt no AREsp 1493932/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/08/2019, DJe 02/09/2019) (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de janeiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+X
