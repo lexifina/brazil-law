@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CRIMINAL N. 0006737-91.2018.8.11.0006
+RECORRENTE: MARINALDO JUNIOR FERREIRA DA SILVA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 30349977) interposto por MARINALDO JUNIOR FERREIRA DA SILVA, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara Criminal deste Sodalício, assim ementado (Id. 17717992):
+“APELAÇÃO CRIMINAL – TRÁFICO DE DROGAS E RECEPTAÇÃO – CONDENAÇÃO – PRETENDIDA ABSOLVIÇÃO POR FALTA DE PROVAS NO TOCANTE À AUTORIA – IMPOSSIBILIDADE – EXISTÊNCIA DE ELEMENTOS CONVINCENTES ACERCA DO ENVOLVIMENTO DO RÉU – DENÚNCIAS ANÔNIMAS, CAMPANAS POLICIAIS, BUSCA E APREENSÃO DOMICILIAR E DEPOIMENTOS TESTEMUNHAIS, INCLUSIVE DE USUÁRIOS – CONJUNTO PROBATÓRIO FARTO – DOSIMETRIA – PENAS-BASES ELEVADAS POUCO ACIMA DO MÍNIMO LEGAL – MAUS ANTECEDENTES – FUNDAMENTAÇÃO IDÔNEA – NÃO APLICAÇÃO DO PRIVILÉGIO DO § 4o DO ART. 33 DA LEI N. 11.343/06 – CONDIÇÃO DE REINCIDENTE INCOMPATÍVEL COM A BENESSE – PENA DE MULTA – SIMETRIA COM A SANÇÃO CORPORAL – MANUTENÇÃO DO PATAMAR ESTABELECIDO – SENTENÇA MANTIDA – RECURSO DESPROVIDO. Se as provas reunidas ao longo da instrução processual dão conta de que o apelante estava exercendo o comércio ilícito de drogas em sua residência e que, inclusive, recebia como “moeda de troca” objetos de origem criminosa, escorreita a condenação por violação aos tipos penais do art. 33 da Lei n. 11.343/06 e 180, caput, do CP. Subsistindo circunstância judicial negativa, deve a pena-base ser afastada do mínimo legal. Inviável o reconhecimento da minorante prevista no § 4o do art. 33 da Lei de Drogas quando evidenciado que o apelante é comprovadamente reincidente. Verificada que a pena de multa está em sintonia com a sanção corporal aplicada, imperiosa a sua manutenção.” (Ap. 0006737-91.2018.8.11.0006, DES. PEDRO SAKAMOTO, SEGUNDA CÂMARA CRIMINAL, Julgado em 30/10/2019)
+Os Embargos de Declaração de Id. 23845969 opostos contra o aresto foram rejeitados (Id. 26531463).
+Alega: (i) violação ao art. 156 do CPP, ao argumento de que não foi produzido conteúdo probatório extreme de dúvidas a ensejar a condenação; (ii) violação aos arts. 59 e 68, ambos do CP, diante da incorreta apuração das circunstâncias judiciais e utilização da gravidade abstrata do delito para majoração da pena-base; (iii) falta de fundamentação e utilização da gravidade abstrata do delito para a exasperação do regime inicial do cumprimento da pena.
+Recurso tempestivo (Id. 31176996).
+Contrarrazões – Id. 31653475.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ E 284 DO STF. DECISÃO MANTIDA. (...) 2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF. (...) 5. Agravo regimental não provido.” (AgRg no AREsp 828.593/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2016, DJe 18/04/2016) (destaquei)
+“PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NA QUESITAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INCIDÊNCIA DA AGRAVANTE POR TER SIDO O CRIME PRATICADO CONTRA CRIANÇA E DA QUALIFICADORA DA UTILIZAÇÃO DE RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DA VÍTIMA. AUSÊNCIA DE BIS IN IDEM. 1. Se, nas razões do recurso especial, a parte recorrente não infirma os fundamentos do acórdão recorrido, tem aplicação, por analogia, o Enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes. 2. Enquanto a agravante prevista art. 61, II, "h", do Código Penal é objetiva e incide em razão de ter sido praticado o crime contra criança, a qualificadora de que cuida o artigo 121, IV, do Código Penal envolve considerações específicas do caso concreto, para verificação acerca da presença de recurso que dificulte ou torne impossível a defesa da vítima, não havendo falar em bis in idem. 3. Agravo regimental improvido.” (AgRg no REsp 1634727/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017) (destaquei)
+In casu, a despeito de alegar violação ao art. 156 do CPP, ao argumento de ausência de provas suficientes para a condenação, e aos arts. 59 e 68, ambos do CP, sob a assertiva de indevida majoração da pena-base, verifica-se que o Recorrente não infirmou especificamente os fundamentos adotados no aresto para a rejeição das teses apresentadas, o que impossibilita a exata compreensão da matéria e a admissão do recurso.
+Outrossim, embora defenda a necessidade de abrandamento do regime inicial de cumprimento da pena, não demonstrou de forma individualizada e específica quais dispositivos de lei federal foram violados ou tiveram interpretação divergente de outros Tribunais, o que igualmente veda a admissão do recurso, por força do óbice sumular supracitado.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 30 de janeiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
