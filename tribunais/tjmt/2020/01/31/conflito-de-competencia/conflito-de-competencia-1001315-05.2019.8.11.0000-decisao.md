@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+CONFLITO DE COMPETÊNCIA n. 1001315-05.2019.8.11.0000
+Recorrente: CROÁCIA COMÉRCIO DE MÁQUINAS E LOCADORA LTDA – ME – EM RECUPERAÇÃO JUDICIAL
+Recorrido: PORTOBENS ADMINISTRADORA DE CONSÓRCIOS LTDA
+Vistos.
+Trata-se de Recurso Especial interposto por CROÁCIA COMÉRCIO DE MÁQUINAS E LOCADORA LTDA – ME – EM RECUPERAÇÃO JUDICIAL (id 32006985) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PRIVADO assim ementado (id 7756297):
+“CONFLITO DE COMPETÊNCIA - AÇÃO DE BUSCA E APREENSÃO - DEVEDORA EM RECUPERAÇÃO JUDICIAL - CRÉDITOS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA – ART. 49, § 3o, DA LEI No. 11.101/2005 - APRECIAÇÃO NÃO VINCULADA AO JUÍZO UNIVERSAL – PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA – SÚMULA 480 STJ – COMPETÊNCIA DA VARA DE DIREITO BANCÁRIO - CONFLITO PROCEDENTE. Da simples leitura do artigo 49, §3o, da Lei de Recuperação Judicial e Falência, verifica-se que não se submete aos efeitos da recuperação judicial o bem móvel de credor titular de posição de proprietário fiduciário, prevalecendo os direitos de propriedade sobre a coisa e as condições contratuais. O Tribunal da Cidadania possui entendimento consolidado no sentido de que, não se submetem aos efeitos da recuperação judicial, os créditos garantidos por alienação fiduciária. (1006681-93.2017.8.11.0000 – CLEUCI TEREZINHA CHAGAS - , Julgado em 04/04/2018, Publicado no DJE 10/04/2018) O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa (Súmula no. 480 do STJ). " (AgRg no REsp 1.463.385/RN).” (TJMT, CC 1001315-05.2019.8.11.0000, Desa NILZA MARIA POSSAS DE CARVALHO, PRIMEIRA TURMA DE CÂMARAS REUNIDAS DE DIREITO PRIVADO, Julgado em 01/08/2019)
+Os Embargos de Declaração id 11125979 foram rejeitados, conforme acórdão id 27401578.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo, uma vez que v. acórdão recorrido incorreu em violação aos artigos 47 e 49 da Lei n. 11.101/2005 o que motiva a interposição do presente Recurso Excepcional.
+Afirma que há dissídio jurisprudencial entre a decisão recorrida e o posicionamento do STJ, uma vez que cabe ao Juízo recuperacional decidir acerca do patrimônio da Recuperanda, ora Recorrente, de acordo com às regulamento da Lei 11.101/2005, devendo ser reformado o acórdão que validou a competência do Juízo da Vara Bancária para análise da busca e apreensão dos bens pertencentes à Recorrente.
+Assevera que “o bem móvel discutido em sede de Ação de Busca e Apreensão no. 1031874-50.2018.811.0041, encontra-se guarida no Laudo de Ativos do Plano de Recuperação Judicial apresentado pela Recorrente (DOC. 11), salientando que o mesmo é essencial às atividades, pois é usado diretamente no objeto social da empresa (DOC. 10) que se trata de uma empresa de aluguel de máquinas e equipamentos para construção”.
+Especificamente em relação ao efeito suspensivo, assevera que “a plausabilidade de direito dos argumentos do Recorrente está demonstrada na medida em que o acórdão recorrido dá provimento ao Conflito de Competência, em que declara a competência para julgamento e processamento de demandas que discutem o destino do patrimônio de empresa recuperanda, ora Recorrente, à Juízo distinto do Universal, ou seja, declarou competência do Juízo da 1a Vara Especializada de Direito Bancário da Comarca de Cuiabá/MT.
+Em razão dessa decisão, dentre as inúmeras consequências à Recorrente, tem-se que a mais gravosa consiste na iminência de constrição e perdimento de capital.
+Além disso, há risco configurado também quando o Recorrente de encontra submetido, caso não seja concedido o efeito suspensivo vindicado, ao iminente cumprimento de decisão, que se mostra contrária ao ordenamento jurídico, o que por si já constitui um mal a ser evitado, permitindo, até que se resolva definitivamente o mérito do presente recurso, a atribuição de efeito suspensivo.
+Mesmo que desconsiderados os prejuízos a que o recorrente se encontra submetido, a simples constrição de seus bens/direitos sem que a decisão que o ordene esteja em estrita consonância com o ordenamento jurídico já configura violação à garantia constitucional-processual do devido processo legal disposta no 5o, LIV CF, segundo qual: “ninguém será privado da liberdade ou de seus bens sem o devido processo legal”.
+Recurso tempestivo e preparado, conforme certidões id 32026483 e 32034490.
+É o relatório.
+Decido.
+Estabelece o Art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente afirma que o acórdão recorrido incorreu em violação aos artigos 47 e 49 da Lei n. 11.101/2005, uma vez que que cabe ao Juízo recuperacional decidir acerca do patrimônio da Recuperanda, ora Recorrente, ressaltando que “o bem móvel discutido em sede de Ação de Busca e Apreensão no. 1031874-50.2018.811.0041, encontra-se guarida no Laudo de Ativos do Plano de Recuperação Judicial apresentado pela Recorrente (DOC. 11), salientando que o mesmo é essencial às atividades, pois é usado diretamente no objeto social da empresa (DOC. 10) que se trata de uma empresa de aluguel de máquinas e equipamentos para construção”.
+Sobre o probabilidade do direito, verifica-se que o acórdão recorrido invocou precedentes do STJ ao decidir o conflito de competência, atraindo em tese a aplicação da Súmula n. 83 do STJ, afastando as pretensões da parte Recorrente.
+E ainda, em relação à essencialidade dos bens, fez ressalva no julgamento dos Embargos de Declaração id 23071034 no sentido de que o conflito de competência não é o meio hábil para tal análise, devendo a parte interessada buscar a via adequada.
+Cumpre ressaltar que a análise da essencialidade dos bens não foi tratada em Primeiro Grau ou no acórdão recorrido, o que impede o Juízo positivo de admissibilidade do presente recurso especial.
+Por fim, afastada a probabilidade do direito, não há falar em perigo da demora, uma vez que os requisitos devem estar presentes de forma concomitante para a concessão do efeito suspensivo.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do Art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 31 de janeiro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
