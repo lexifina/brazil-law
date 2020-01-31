@@ -1,0 +1,25 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1000955-36.2020.8.11.0000
+AGRAVANTE: MONKEY FILMES EIRELI - R. S. SHINIKE MULLER E SHINIKE LTDA – ME
+AGRAVADOS: DIRETORIO MUNICIPAL PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA EM CUIABA MT e WILSON PEREIRA DOS SANTOS
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto por MONKEY FILMES EIRELI, contra decisão proferida pelo MM. Juiz Dr. Yale Sabo Mendes, da 7a Vara Cível da Comarca desta Capital, nos autos da Ação de Execução n. 1007722-35.2018.8.11.0041 ajuizada em desfavor do DIRETORIO MUNICIPAL PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA – PSDB DE CUIABÁ e WILSON PEREIRA DOS SANTOS, que deferiu a exclusão do segundo executado do polo passivo da demanda executiva, determinando o seu prosseguimento apenas em relação à agremiação política.
+A agravante relata que a execução foi ajuizada em 26/03/2018, a fim de receber por dívida eleitoral do então candidato ao cargo majoritário nas eleições de 2016, Wilson Pereira Santos, consubstanciada na prestação de serviço de produção, captação e edição de inserções para TV, representada por 02 (dois) contratos firmados com a pessoa jurídica criada temporariamente para a campanha e por um termo de assunção de dívida, firmados pelos devedores e de acordo com a lei eleitoral.
+Relata que só conseguiu citar os executados três meses após a distribuição, ocasião em que não pagaram, tampouco ofertaram embargos à execução ou garantiram a execução, e que, depois de várias diligências em busca de bens para a penhora, as quais restaram infrutíferas, indicou 02 (dois) imóveis de propriedade do agravado Wilson Santos, situados no Município de Chapada dos Guimarães, o que foi deferido em 03/05/2019.
+Todavia, assevera que “Ato contínuo à decisão de penhora dos imóveis, que igualmente foi muito divulgada pela imprensa regional, o Agravado, de forma astuta e sorrateira, peculiar características dos lacaios, compareceu nos autos, representado pelo i. advogado José Antônio Rosa, e simplesmente apresentou um “termo de confissão de dívida”, do Diretório Municipal do PSDB, com o aval do Diretório Regional, para tanto, requereu o “indeferimento da ação em relação ao ora peticionante e a suspensão da penhora de todos os seus bens arrolados nos autos” , o que foi acolhida na instância a quo.
+Assim, insurge-se contra o decisum e, diante dos inúmeros fatos não observados pelo magistrado, principalmente a falta de anuência da credora na confissão de dívida firmada somente entre os devedores, além da evidente legitimidade da parte e a observância aos requisitos que compõe o título executivo extrajudicial representante da dívida, pugna pela concessão do efeito suspensivo, bem como a sua reforma mediante o provimento do recurso.
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC, cujo preparo encontra-se acostado no ID. 31805494.
+Como relatado, a agravante busca a suspensão dos efeitos da decisão que excluiu um dos devedores do polo passivo da ação de execução, mesmo depois de citados e com o decurso do prazo para pagamento e/ou ingresso de embargos à execução, mantendo-se as averbações à margem das matrículas dos imóveis já penhorado e as restrições no órgão de proteção de crédito, até o julgamento de mérito do presente recurso.
+Assim, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que restaram configurados os pressupostos autorizativos para a concessão da medida de urgência.
+A um primeiro olhar, vislumbra-se que os títulos que embasam a ação de execução ajuizada pela agravante, foram firmados pelo PSDB, como também pelo agravado Wilson Pereira dos Santos, enquanto que o instrumento apresentado na origem e que culminou com a decisão agravada, qual seja, Termo de Confissão de Dívida foi subscrita unicamente pelos representantes do Diretório Municipal do PSDB, que, ao que tudo indica, sem a observância às regras de direito contratual.
+Não bastasse isso, eventual nulidade da execução dependeria de instrução probatória em sede de embargos à execução, já que tal ilegitimidade na forma apresentada, por ora, não pode ser considerada matéria de ordem pública
+Dessa maneira, nada obsta que diante de uma análise mais acurada por ocasião do julgamento do mérito, esta Câmara possa firmar convencimento diverso, haja vista a análise de outros elementos nos autos, inclusive o contraponto a ser apresentado em contrarrazões.
+Assim, CONCEDO o efeito suspensivo vindicado, determinando, desde logo, a manutenção da constrição averbada à margem das matrículas dos imóveis já penhorados e as restrições no órgão de proteção de crédito
+Comunique-se ao juízo da causa, na forma do art. 1.019, inciso I do CPC.
+Intimem-se os agravados para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Cumpra-se.
+Cuiabá, 31 de janeiro de 2020.
+Desa. Antônia Siqueira Gonçalves
+Relatora
