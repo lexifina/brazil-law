@@ -1,0 +1,55 @@
+DECISÃO
+    Trata-se de Reclamação, com pedido liminar, proposta contra decisão do Juiz de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 5ª RAJ da Comarca de Presidente Prudente, do Tribunal de Justiça do Estado de São Paulo, consistente na negativa de vigência da Súmula Vinculante n. 56 e do RE 641.320/RS, ambos do SUPREMO TRIBUNAL FEDERAL.
+    Na inicial, o reclamante alega que se encontra custodiado em estabelecimento prisional incompatível com o regime semiaberto. Numa síntese, sustenta que as decisões das instâncias ordinárias contrariaram a Súmula Vinculante n. 56 e o RE 641.320/RS, violaram os princípios da legalidade e da individualização da pena e caracterizaram excesso de execução. Assim, requer, inclusive em caráter liminar, o direito de aguardar em liberdade até o surgimento de regime penitenciário adequado para o cumprimento do restante da pena.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O parâmetro invocado é a Súmula Vinculante n. 56, cujo teor é o seguinte:
+    A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.
+    Importante ressaltar que o precedente paradigma da Súmula Vinculante acima transcrita foi o Tema 423 da Repercussão Geral, cuja tese firmada restou assim ementada:
+    I - A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+    II - Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como "colônia agrícola, industrial" (regime semiaberto) ou "casa de albergado ou estabelecimento adequado" (regime aberto) (art. 33, §1º, alíneas "b" e "c");
+    III - Havendo déficit de vagas, deverá determinar-se: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+    Como se observa, de fato, o paradigma tido como violado consigna a ilegitimidade do cumprimento de pena em regime mais grave do que o imposto na sentença, em razão da ausência de vaga em estabelecimento prisional adequado a seu regime. Contudo, estipula uma série de medidas a serem observadas antes do deferimento ao sentenciado para aguardar em liberdade, o que não foi analisado no caso em apreço.
+    No caso concreto, o Juiz de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 5ª RAJ da Comarca de Presidente Prudente, do Tribunal de Justiça do Estado de São Paulo, determinou a transferência do reclamante para estabelecimento penal adequado provisoriamente ao cumprimento de pena em regime semiaberto, nos seguintes termos:
+    DECIDO.
+    A pretensão é procedente.
+    Com efeito, o(a) sentenciado(a) preenche o requisito objetivo e subjetivo, visto que já cumpriu parcela superior a um sexto (1/6) da pena, no regime fechado, contando com bom comportamento carcerário.
+    Diante do exposto, PROMOVO o sentenciado GERSON HERALDO GAZITO, MTR: 361814-7, RG: 19464226, RJI: 170083498-00, recolhido no(a) Penitenciária de Pacaembu, ao regime SEMIABERTO, com fundamento no art. 112 da Lei de Execuções Penais.
+    Cópia desta decisão servirá de intimação, que deverá permanecer arquivada no prontuário do sentenciado devidamente cientificado.
+    A presente também serve como guia de transferência no tocante às providências burocráticas para a remoção do sentenciado a estabelecimento prisional de regime semiaberto.
+    Intimem-se.
+    Inconformada, a defesa impetrou Habeas Corpus, ao qual o Tribunal de Justiça do Estado de São Paulo indeferiu a liminar:
+    Vistos.
+    O advogado Vinícius de Souza Ribeiro impetra este habeas corpus em favor de Gerson Heraldo Gazito, com pedido liminar, sob a alegação de que este sofre constrangimento ilegal por parte do MM. Juízo de Direito da Unidade Regional do Departamento Estadual de Execuções Criminais da 5ª Região Administrativa Judiciária, Comarca de Presidente Prudente, uma vez que foi progredido ao regime intermediário em 21/11/2019, porém, continua a cumprir a pena em regime fechado.
+    Postula, liminarmente, que, até o surgimento de vaga no regime adequado, seja-lhe concedido o cumprimento da pena no regime aberto.
+    Contudo, as circunstâncias de fato e de direito deduzidas na presente impetração não autorizam a concessão da liminar alvitrada, uma vez que não evidenciam a presença do fumus boni iuris e do periculum in mora necessários.
+    Indefiro, por conseguinte, a liminar.
+    Requisitem-se informações da autoridade judiciária indigitada coatora, remetendo-se os autos, em seguida, à douta Procuradoria Geral de Justiça.
+    Nos termos da Súmula Vinculante n. 56 e do RE 641.320-RG (Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 1º/8/2016), a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, sob pena de afronta aos princípios constitucionais da individualização da pena (art. 5º, XLVI) e da legalidade (art. 5º, XXXIX). No julgamento do referido RE 641.320/RS, o Plenário do SUPREMO TRIBUNAL FEDERAL assentou os seguintes parâmetros para avaliação da adequação dos estabelecimentos prisionais ao regime semiaberto:
+    [...]
+    3. Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, §1º, alíneas “b” e “c”). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado.
+    [...]
+    No julgamento acima "ficou claro que os juízes e Tribunais locais devem avaliar as medidas alternativas ao regime mais gravoso concretamente, não sendo permitida decisão genérica. Com efeito, a ausência de vagas no regime semiaberto não é, por si só, justificativa para determinar ao apenado a prisão domiciliar. O apenado deve se enquadrar nos requisitos exigidos pela lei para que possa fruir desse tipo de benefício." (Rcl. 34.700/RS, Rel. Min. LUÍS ROBERTO BARROSO, j. 07.05.2019).
+    Portanto, compete aos Magistrados responsáveis pelas execuções penais verificar se a unidade prisional proporciona a determinado sentenciado os direitos compatíveis com o regime intermediário (separação dos presos em regime fechado, possibilidade de remição por trabalho etc.), atendendo, assim, aos parâmetros fixados no Recurso Extraordinário 641.320/RS. Sem isso, não se mostra possível avaliar eventual violação da Súmula Vinculante n. 56.
+    E, no caso em tela, nem sequer houve a referida análise pelo Juízo de origem, tampouco se sabe se a decisão deferindo a progressão de regime prisional para o regime semiaberto foi, de fato, cumprida pela unidade prisional.
+    Fora isso, o reclamante não apresentou qualquer ato violador do referido enunciado vinculante. Em verdade, a defesa busca a efetivação do regime prisional com claro propósito de substituir a via recursal convencional, o que não é admitido por esta CORTE SUPREMA. Ora, o instituto da Reclamação, cuja finalidade tem previsão constitucional taxativa, não "pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal" (Rcl 4.381 AgR/RJ, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 5/8/2011). Seguindo essa orientação, vale lembrar o já decidido pelo saudoso Min. TEORI ZAVASCKI no julgamento da Rcl 24.686-ED-AgR/RJ, Segunda Turma, DJe de 11/04/2017:
+    [...] se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação. Esse é o sentido que deve ser conferido ao art. 988, §5º, II, do CPC. Interpretação puramente literal desse dispositivo acabaria por transferir a esta Corte, pela via indireta da reclamação, a competência de pelo menos três tribunais superiores (Superior Tribunal de Justiça, Tribunal Superior do Trabalho, Tribunal Superior Eleitoral), para onde podem ser dirigidos recursos contra decisões de tribunais de segundo grau de jurisdição (grifos nossos).
+    Ausente, por parte da autoridade judicial, o referido juízo de valor acerca da condição individual do sentenciado e do estabelecimento prisional em que está custodiado, não é possível reconhecer a violação da tese assentada nesta CORTE SUPREMA.
+    Não há, portanto, qualquer ilegalidade a ser amparada por meio da via reclamatória.
+    Diante do exposto, com base no art. 21, §1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se. Intime-se.
+    Brasília, 31 de janeiro de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
