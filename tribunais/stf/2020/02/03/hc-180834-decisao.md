@@ -1,0 +1,19 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 553.292, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado pela prática dos crimes previstos no art. 121, § 2º, III, c/c o art. 14, II, do Código Penal, por duas vezes, e no art. 14 da Lei 10.826/03, à pena de 11 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado. Foi negado o direito de recorrer em liberdade.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado do Paraná. Denegada a ordem, sobreveio HC no Superior Tribunal de Justiça. O Relator, Ministro Joel Ilan Paciornik, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, ser “evidente que o paciente tem direito de recorrer em liberdade da sentença do Tribunal do Júri, tendo em vista que cabe Recurso, estando comprovado o direito do paciente de aguardar o julgamento em liberdade provisória, pois, respondeu ao processo em liberdade”; bem como ressalta que o “[s]entenciado possui residência fixa, onde reside com sua família e filhos, trabalhando para sustentá-los. Prestou todas as informações em Juízo durante a instrução probatória e ainda compareceu a todos os atos do processo (...)”.
+    5. A defesa requer a concessão da ordem a fim de “REVOGAR A PRISÃO PREVENTIVA DECRETADA EM DESFAVOR DO PACIENTE”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF.
+    9. As instâncias de origem estão de acordo com a orientação jurisprudencial do STF no sentido de que a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli). No ponto, transcrevo as seguintes passagens do acórdão estadual:
+    “[...] diferente do alegado pelos Impetrantes, o Paciente não respondeu o processo em liberdade, como bem ressaltado pela ilustre Procuradora de justiça: ‘Como se pode aferir, ao contrário do consignado pelo impetrante, o paciente não respondeu ao processo em liberdade. Ele obteve decisão liminar do Supremo Tribunal Federal para aguardar o julgamento do processo em liberdade, porém a medida foi revogada quando da análise do habeas corpus pela Turma julgadora. Em vista disso, a decisão que decretou a constrição cautelar retomou a validade. E, naquela ocasião, foi constatada a periculosidade concreta do paciente, na medida em que ele responde a vários outros processos criminais, inclusive, por fatos posteriores ao presente, demonstrando, assim, fundado receio de recidiva delitiva. (...) Não bastasse, verifica-se que no período em que esteve em liberdade, por força da decisão liminar do STF, ele praticou, em tese, crime contra a honra do magistrado competente para o seu julgamento, circunstância que gerou o impedimento daquele juiz’
+    […]
+    Note-se que o Paciente reiterou em condutas criminosas, durante o curso do processo, inclusive com uso de arma de fogo”.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 03 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+          Relator
