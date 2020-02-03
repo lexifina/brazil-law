@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo (eDOC 15) interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Primeira Turma do Colégio Recursal de Tupã-SP, ementado nos seguintes termos:
+    “Servidora municipal da educação – gratificação – Lei Municipal nº 3877/2008 de Lucélia – Decreto 8332/2017 – ausência de incorporação – suspensão dos pagamentos – viabilidade – improcedência mantida – recurso improvido.” (eDOC 7, p. 2)
+    No recurso extraordinário (eDOC 10), interposto sem a indicação da alínea a do art. 102, III, da Constituição Federal, aponta-se violação aos princípios da legalidade e da irredutibilidade salarial.
+    Nas razões recursais, alega-se que o Chefe do Poder Executivo, qual seja o Prefeito de Lucélia-SP, não poderia expedir decreto com a finalidade de suspender a eficácia de lei local que dispõe sobre a concessão de “gratificação área da educação”, ante o critério de hierarquia normativa.
+    Pugna também pelo reconhecimento de incorporação da parcela à remuneração, sob os fundamentos da habitualidade e da conservação do padrão remuneratório do servidor.
+    É o relatório.
+    Decido.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal de Lucélia nº 3.877, de 17 de janeiro de 2008) e o conjunto probatório constante dos autos, consignou que tão somente o pagamento da “gratificação área da educação” havia sido suspenso, não tendo o Decreto Municipal nº 8.332, de 27 de janeiro de 2017, revogado o inteiro teor do diploma legal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Esta a hipótese dos autos. Houve análise aprofundada da questão. A ausência de recursos do FUNDEB para fazer frente ao pagamento da gratificação autorizava o Alcaide a suspender tal pagamento, por meio de Decreto.
+    Isso porque a lei municipal de regência não determinou o pagamento ao Chefe do Executivo, apenas autorizou que o fizesse.
+    Ora, está na discricionariedade administrativa e na boa gestão financeira das contas públicas a opção do Prefeito Municipal em contingenciar pagamentos não obrigatórios, como a da gratificação tratada nos autos.
+    Não é só. Não há qualquer possibilidade de incorporação dos valores, por expressa vedação legal.” (eDOC 7, p. 3)(Grifei)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE NO ÂMBITO ESTADUAL. LEI 1.473/2016 DO MUNICÍPIO DE BURITIZAL - SP. FIXAÇÃO DO SUBSÍDIO DE PREFEITO. CONTROVÉRSIA QUANTO À IRREDUTIBILIDADE SALARIAL. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO INTERNO DESPROVIDO.” (RE 1152245 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 03.09.2019)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. NATUREZA JURÍDICA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 1188557 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 18.06.2019)
+    Por fim, no tocante ao princípio da legalidade, registro que o entendimento desta Corte é de que não cabe recurso extraordinário por contrariedade ao citado princípio, quando sua verificação exija a análise da interpretação dada pelo Tribunal a quo na normas infraconstitucionais, nos termos da Súmula 636/STF.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 7, p. 3), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
