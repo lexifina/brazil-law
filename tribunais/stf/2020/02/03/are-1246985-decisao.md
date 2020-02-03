@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “APELAÇÕES CÍVEIS. DIREITO ADMINISTRATIVO. AÇÃO DE COBRANÇA. MUNICÍPIO DE JUIZ DE FORA. HORAS EXTRAS. REGIME DE PLANTÃO 12 X 36 HORAS. DIVISOR 200. BASE DE CÁLCULO. VENCIMENTO BÁSICO. PERCENTUAL DO ACRÉSCIMO DA SOBREJORNADA. PORTARIA N° 4.967/2004. HONORÁRIOS ADVOCATICIOS. FIXAÇÃO. JUÍZO DA LIQUIDAÇÃO. SENTENÇA REFORMADA, EM PARTE.
+    I. O art. 7° c/c o art. 39, §3°, ambos da CR/88, garante aos servidores ocupantes de cargo público, a remuneração do serviço extraordinário superior.
+    II. Com a edição da Portaria n° 4.964/2004, o Município de Juiz Fora regulamentou o pagamento das horas -extras aos seus servidores públicos s que laboram em regime de sobrejornada, sendo devido o pagamento das horas extraordinárias excedentes á 172° hora mensais trabalhadas. [...]”(eDOC 2, p. 115)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 7°, XIII, XV e 39, §3°, do texto constitucional.
+    Nas razões recursais, alega-se que a recorrida excedeu 172 (cento e setenta e duas) horas mensais por trabalhar no regime de 12x36, e, portanto, faz jus às respectivas horas extras. (eDOC 2, p. 171)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Portaria Municipal 4.964/2004) e o conjunto probatório constante dos autos, consignou que a recorrida não teria recebido por todas as horas extras autorizadas e prestadas. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Sabe-se também que o empregado/servidor que cumpre regime de revezamento de 12 (doze) horas de trabalho ininterruptos por 36 (trinta e seis) de descanso labora quatro dias em uma semana e três dias na seguinte. Por conseguinte, o trabalho desempenhado além da carga horária normal deve ser recompensado mediante pagamento de horas extras.
+    [...]
+    “De uma interpretação literal dos dispositivos transcritos, conclui-se, portanto, que são devidas as horas extras que excedam a 172ª hora mensal, com remuneração da hora normal acrescida de 50% (cinquenta por cento) em dias úteis e 100% (cem por cento) em domingos e feriados.
+    Nota-se mais. Os documentos apresentados às f. 71/178 demonstram, de forma clara e segura, que a autora efetuou plantões que excederam a jornada de 172 horas mensais, executando as suas atividades laborais em escala de 15 horas de trabalho por 16 horas de descanso, o que indiscutivelmente excede a jornada de 172 horas mensais.” (eDOC 2, p. 120 - 122)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. JORNADA DE TRABALHO. HORAS EXTRAS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice das Súmulas 279 e 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. (...). (ARE 1.087.196 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 21.3.2018)”
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito civil e Direito Administrativo. 3. Responsabilidade civil . Autorização de pagamento de horas extras a servidores comissionados 4. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 279. 5. Necessidade de análise de legislação local. Incidência da Súmula 280. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento. (ARE 1.065.324 AgR, de minha relatoria, Segunda Turma, DJe 8.11.2017)”
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
