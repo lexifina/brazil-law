@@ -1,0 +1,23 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO DE INSTRUMENTO no 1001274-04.2020.8.11.0000 – Classe 202 – CNJ – CUIABÁ
+Agravante : BANCO BMG S.A.
+Agravada : MARIA LUCIA FERREIRA DOS SANTOS DUARTE
+Protocolo no : 1001274-04.2020.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto pelo BANCO BMG S.A. contra a r. decisão proferida pela MMa. Juíza de Direito da 8a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação “Declaratória c/c Repetição de Indébito c/c Indenização por Danos Morais e Materiais” (Número Único 1053282-63.2019.8.11.0041), ajuizada contra o agravante por MARIA LUCIA FERREIRA DOS SANTOS DUARTE, deferiu o pedido de tutela provisória de urgência determinando que o Banco/réu suspenda os descontos realizados no benefício da autora junto ao INSS em relação ao empréstimo consignado descrito, fixando multa diária no valor de R$ 1.000,00 para o caso de descumprimento (cf. ID 32025958).
+O agravante alega que não estão preenchidos os requisitos essenciais ao deferimento da tutela de urgência, afirmando que a agravada tinha pleno conhecimento do contrato celebrado, não estando presente também o requisito do perigo de ineficácia do provimento final, havendo, ao contrário, perigo de irreversibilidade da medida, já que em caso de improcedência do pedido inicial o Banco estará impossibilitado de retomar o cartão de crédito e a margem consignável.
+Por outro lado, questiona a aplicação da multa para o caso de descumprimento da ordem, afirmando que a “instituição financeira requerida sempre se pautou com o devido respeito e sempre colaborou com o bom andamento e celeridade da justiça”, sendo que o valor fixado, sem limitação, viola os princípios da proporcionalidade e razoabilidade, podendo ensejar o enriquecimento sem causa da parte adversa.
+Pede, pois, a reforma da decisão agravada, mas de imediato, a concessão de efeito suspensivo à interposição (cf. ID 32025953).
+É a suma.
+D E C I D O
+Sem delongas, a concessão da antecipação dos efeitos da tutela recursal, e o mesmo vale para a concessão do efeito suspensivo, exige “elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo” (CPC, art. 300), ou seja, não se opera automaticamente só porque a parte quer e requer, exigindo fundamentos relevantes apoiados em prova idônea e, ainda, a demonstração de que o diferimento da análise do pleito recursal possa tornar inútil a pretensão almejada se mais tarde concedida.
+Compete, portanto, à parte agravante, alegar e provar, como condição de procedibilidade, que a não concessão do efeito suspensivo poderá causar lesão grave e de difícil reparação, sem perder de vista a relevância da fundamentação.
+A decisão recorrida se baseou na informação de que o serviço jamais fora solicitado/contratado pela autora/agravada, sendo, ao menos nesta sede de cognição sumária, inviável reavaliar a conclusão da magistrada ou concluir pelo desacerto da decisão.
+Outrossim, ao menos em análise preliminar, os fundamentos recursais não convencem sobre a “probabilidade do direito” invocado, uma vez que as razões recursais praticamente flertam com a completa ausência de dialeticidade, já que os argumentos apresentados são absolutamente vagos e genéricos, e sequer tangenciam os fatos discutidos na lide, posto que nada dizem em concreto sobre a alegação autoral de que jamais realizou a contratação de qualquer operação financeira na modalidade cartão de crédito ou empréstimo consignado junto ao Banco/agravante.
+No mais, a multa diária fixada se mostra em valor razoável e capaz de impor o cumprimento do comando judicial, não merecendo, portanto, qualquer modificação ou ajuste neste momento.
+Assim, não enxergo necessidade em imediato pronunciamento jurisdicional sobre a matéria recursal, nem mesmo que a manutenção da decisão agravada acarretará danos irreparáveis ao agravante, ou, então, caracteriza risco de perecimento fatal ao direito alegado, caso mantida até ulterior julgamento da questão.
+Ante o exposto, admito a interposição recursal tal como efetivada (CPC, art. 1.019, “caput”), de modo que recebo e autorizo o processamento do agravo por instrumento, mas INDEFIRO o pedido de efeito suspensivo, quadro que fica assim constituído até que a Câmara, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a agravada, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 (quinze) dias.
+Cuiabá, 03 de fevereiro de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
