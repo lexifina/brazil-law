@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, LVII, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. PRESUNÇÃO DE INOCÊNCIA. CONTROVÉRSIA DECIDIDA COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA DE ARGUIÇÃO. PRESSUPOSTOS DE EMBARGABILIDADE. INOCORRÊNCIA. CARÁTER MERAMENTE INFRINGENTE. DECLARATÓRIOS OPOSTOS SOB A VIGÊNCIA DO CPC/2015. 1. Não se prestam os embargos de declaração, não obstante sua vocação democrática e sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas no acórdão embargado. 2. Ausência de arguição de omissão, contradição, obscuridade ou erro material justificadores da oposição de embargos declaratórios, nos termos do art. 619 do Código de Processo Penal, a evidenciar o caráter meramente infringente da insurgência. 3. Embargos de declaração rejeitados” (RE 1187463 AgR-ED, de minha relatoria, Primeira Turma, julgado em 29.11.2019, PROCESSO ELETRÔNICO DJe-274 DIVULG 10.12.2019 PUBLIC 11.12.2019).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. TRIBUNAL DO JÚRI. JULGAMENTO ANULADO PELO TRIBUNAL DE JUSTIÇA. DECISÃO CONTRÁRIA ÀS PROVAS DOS AUTOS. REEXAME DE FATOS E PROVAS. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. Não cabe, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279 do STF. 2. Agravo regimental desprovido” (RE 1067698 AgR, Relator (a): Min. Edson Fachin, Segunda Turma, julgado em 07.12.2018, ACÓRDÃO ELETRÔNICO DJe-269 DIVULG 14.12.2018 PUBLIC 17.12.2018).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
