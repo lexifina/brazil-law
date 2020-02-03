@@ -1,0 +1,18 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto contra acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (Vol. 1, fl. 73):
+    E M E N T A – AGRAVO EM EXECUÇÃO PENAL- NOVO CRIME NO CURSO DA EXECUÇÃO - MARCO INICIAL PARA PROGRESSÃO DE REGIME - DATA DA ÚLTIMA PRISÃO - INTELIGÊNCIA DO POSICIONAMENTO DO STJ FIRMADO EM SEDE DE RECURSOS REPETITIVOS - RECURSO PROVIDO.
+    Conforme assentado pelo STJ, em sede de recursos repetitivos, "a alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução."
+    Assim, o dia da última prisão do sentenciado deve ser considerado como data-base para progressão de regime.
+    No apelo extremo, interposto com amparo no art. 102, III, "a", da Constituição Federal, o recorrente aponta violação ao art. 5º, XLVI, da Constituição Federal.
+    Sustenta, em suma, que o acórdão recorrido afrontou o princípio da individualização da pena ao considerar como marco inicial para a concessão de benefícios executórios a data da última prisão do apenado. Assim, pleiteia a definição do dia do trânsito em julgado da última condenação do sentenciado como data-base para concessão de futuros benefícios da execução.
+    É o relatório. Decido.
+    Verifico que o entendimento assentado no acórdão recorrido diverge da jurisprudência firmada nesta CORTE.
+    Com efeito, o acórdão impugnado não se amolda à jurisprudência do SUPREMO TRIBUNAL FEDERAL segundo a qual, em se tratando de unificação de penas, como no presente caso, modifica-se a data-base para a concessão de benefícios, sendo considerado como termo inicial o trânsito em julgado da última condenação. Precedentes: ARE 1.151.739/RS, Rel. Min. LUIZ FUX, DJe de 27/9/2018; HC 136.754 AgR/MG, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 15/3/2018; RHC 135.826 AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 13/6/2017; RHC 121.849/MG, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 17/6/2014; RHC 133.934/PR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 23/5/2016; HC 101.023/RS, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 26/03/2010, esse último assim ementado:
+    HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CONDENAÇÃO SUPERVENIENTE. ALTERAÇÃO DA DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. PRECEDENTES. ORDEM DENEGADA. I - A superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base para concessão de benefícios, ainda que o crime tenha sido cometido antes do início de cumprimento da pena. II - A data do trânsito em julgado da nova condenação é o termo inicial de contagem para concessão de benefícios, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas. III - Habeas corpus denegado.
+    Por estar em dissonância com a jurisprudência desta CORTE, a decisão recorrida deve ser reformada.
+    Diante do exposto, nos termos do art. 21, §2º, do Regimento Interno do Supremo Tribunal Federal, conheço do AGRAVO e DOU PROVIMENTO ao Recurso Extraordinário para cassar o acórdão recorrido, reconhecendo a data do trânsito em julgado da última condenação do réu como data-base para a concessão de benefícios durante a execução penal.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
