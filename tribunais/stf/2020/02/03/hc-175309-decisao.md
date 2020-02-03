@@ -1,0 +1,16 @@
+Em 4/10/2019, a Segunda Turma desta Suprema Corte negou provimento ao agravo regimental interposto pelo Ministério Público Federal, para manter a decisão monocrática que concedeu, de ofício, a ordem de habeas corpus ao paciente. Eis a ementa desse julgado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. INVIABILIDADE DO WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONDENAÇÃO PRETÉRITA CUMPRIDA OU EXINTA HÁ MAIS DE 5 ANOS. UTILIZAÇÃO COMO MAUS ANTECEDENTES. IMPOSSIBILIDADE. APLICAÇÃO DO ART. 64, I, DO CÓDIGO PENAL. PRECEDENTES DA SEGUNDA TURMA. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, é no sentido de que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo Colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    II – Nos termos da jurisprudência desta Segunda Turma, a existência de condenações pretéritas não podem ser valoradas como maus antecedentes quando o paciente, nos termos do art. 64, I, do Código Penal, não puder mais ser considerado reincidente. Precedentes.
+    III – Ordem concedida de ofício para determinar ao Juízo da origem que afaste o aumento da pena decorrente da valoração como maus antecedentes de condenação pretérita alcançada pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, com fixação do regime prisional, à luz do art. 33 do mesmo Codex.
+    IV – Agravo regimental a que se nega provimento”.
+    Todavia, a Defensoria Pública do Estado de São Paulo comunicou que, “a despeito da comunicação do V. Acórdão proferido no bojo do presente habeas corpus ter sido efetuada ao E. Tribunal de Justiça bandeirante aos 18 de outubro de 2019, até a presente data a decisão não foi cumprida” (doc. eletrônico 21).
+    Determinei, então, que se oficiasse ao Tribunal de Justiça do Estado de São Paulo – TJSP para que prestasse esclarecimentos acerca do cumprimento da decisão proferida nestes autos (doc. eletrônico 23).
+    Em resposta, o Presidente daquele Tribunal esclareceu que, “diante do decisum proferido por esse Excelso Pretório no Habeas Corpus nº 175.309, os autos da apelação foram encaminhados ao Relator para cumprimento” (pág. 3 do doc. eletrônico 25). Nada mais.
+    Em consulta ao sítio eletrônico do TJSP, é possível verificar que o processo foi concluso ao Relator em 18/10/2019, mas nenhuma providência foi tomada. A situação agrava-se, ainda mais, diante do fato de o paciente encontrar-se cumprindo pena, desde maio de 2019.
+    Ante o exposto, determino a imediata adequação da reprimenda imposta ao paciente nos autos da Apelação 0039229-13.2012.8.26.0562, tal como decidido por esta Suprema Corte no presente habeas corpus.
+    Comunique-se, com urgência, diretamente ao Relator da referida apelação.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2020.
+Ministro Ricardo Lewandowski
+Relator
