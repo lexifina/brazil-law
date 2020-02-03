@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO – DESPROVIMENTO DO AGRAVO.
+    1. Eis a síntese do acórdão recorrido:
+    DIREITO FINANCEIRO E TRIBUTÁRIO- TÍTULOS DA DÍVIDA PÚBLICA FEDERAL EMITIDOS NO INÍCIO DO SÉCULO XX - DECRETOS-LEI N°S 263/67 E 396/68 - PRESCRIÇÃO: OCORRÊNCIA.
+    1. Os Títulos da Dívida Pública Federal emitidos no início do século XX foram afetados pela prescrição, nos termos dos Decretos-lei n°s 263/67 e 396/98.
+    2. Apelação improvida.
+    2. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, incisos XXXVI, da Constituição Federal de 1988 e 58 da Constituição Federal de 1967. Sustenta afronta ao direito adquirido e ao ato jurídico perfeito. Afirma a impossibilidade de alteração unilateral das condições de resgate dos títulos da dívida pública federal. Alega a inconstitucionalidade, sob o ângulo formal, dos Decretos-Leis n º 263/1967 e nº 396/98, no que versado temas distintos à segurança nacional ou às finanças públicas, nos termos da Carta Maior de 1967.
+    2. Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim concluiu o Supremo no julgamento do agravo regimental no agravo de instrumento nº 541.696-6/DF, de que fui relator, com acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, resumido na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO PREQUESTIONAMENTO CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    No caso, o que sustentado nas razões do extraordinário deixou de ser enfrentado pelo Órgão julgador, inexistindo pronunciamento sobre a alegada ofensa ao ato jurídico perfeito e ao direito adquirido, bem como em relação à inconstitucionalidade formal dos aludidos atos normativos. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. A par desse aspecto, verifica-se a inexistência de pretensão voltada à anulação do acórdão revelador dos embargos declaratórios, ficando afastada a possibilidade de concluir-se pela ofensa ao artigo 93, inciso IX, da Carta de 1988.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 3 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
