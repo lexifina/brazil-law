@@ -1,0 +1,23 @@
+DECISÃO:
+Ementa: DIREITO PREVIDENCIÁRIO. RECLAMAÇÃO. APOSENTADORIA ESPECIAL. SÚMULA VINCULANTE 33.
+1. Viola a Súmula Vinculante 33 ato administrativo que indefere pedido de aposentadoria especial por atividade insalubre, em razão da inexistência da Lei Complementar a que se refere o art. 40, § 4º, III, da CRFB/1988.
+2. Reclamação parcialmente procedente.
+    1. Trata-se de reclamação, com pedido liminar, em que se alega descumprida a Súmula Vinculante 33 pelo (i) Município de São João Del Rei e Instituto Municipal de Previdência de São João Del Rei -IMP; e (ii) Tribunal de Justiça de Minas.
+    2. O Sindicato dos Servidores Municipais de São João Del Rei - SINDSERV narra que o Município de São João Del Rei e o seu Instituto de Previdência vêm indeferindo pedidos administrativos de aposentadoria especial por atividade insalubre, sob o fundamento de ausência de regulamentação do art. 40, § 4º, III, da Constituição. Junta aos autos processo administrativo relativo ao servidor André Moisés Sales Guedes e ofício de autoridade administrativa, de 26.02.2018, que diz o seguinte:
+    “Ilustríssimo Senhor Presidente do SINDSERV,
+    Vimos através deste informar a Vª Sª que a aposentadoria especial do servidor público ainda não fora regulamentada, conforme preceito estatuído pelo art. 40, § 4º, III, da CF/88.
+    Destarte, ante a falta de previsão legal, em homenagem ao princípio da Legalidade, o IMP, enquanto componente da Administração Pública Indireta, encontra-se impedido de conceder tal benesse”
+    3. O reclamante impugna, ademais, decisões que indeferiram tutela antecipada em ação ordinária na qual pleiteou, entre outros pedidos, que aquele Município procedesse à análise dos pedidos de aposentadoria especial de seus servidores.
+    4. O pedido liminar foi parcialmente deferido (doc. 8). Citados, apenas o Município apresentou contestação (doc.22), onde suscitou uma preliminar de “carência de ação por ilegitimidade passiva” e pugnou pelo indeferimento dos pedidos.
+    5. É o relatório. Decido.
+    6. Dispenso as informações, porquanto suficiente a instrução do feito, bem como o parecer da Procurador-Geral da República (art. 52, parágrafo único, do RI/STF).
+    7. Rejeito a preliminar suscitada pelo Município e entendo que ele é parte legítima da presente demanda, tendo em vista que a ausência de legislação local que discipline o tema da aposentadoria especial foi o motivo para a rejeição dos pedidos de aposentadoria especial.
+    8. Esta Corte tem jurisprudência firmada no sentido de que a inexistência de Lei Complementar regulamentadora do art. 40, § 4º, III, da Constituição caracteriza omissão inconstitucional. A fim de superar o obstáculo ao exercício do direito, foram proferidas reiteradas decisões em mandados de injunção, determinando às autoridades administrativas competentes que procedessem ao exame do pedido de aposentadoria formulado pelos servidores, com aplicação supletiva do art. 57 da Lei nº 8.213/1991. Nessa linha, confiram-se, entre outras decisões: MI 721, Rel. Min. Marco Aurélio, e MI 795, Rel. Min. Cármen Lúcia.
+    9. A jurisprudência pacificou-se a tal ponto que foi editada a Súmula Vinculante 33 (DJe 24.04.2014), que garante ao servidor a aplicação supletiva das regras do regime geral de previdência social diante da inexistência de regulação infraconstitucional específica. Eis o seu teor:
+    Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica.
+    10. Assim, a autoridade administrativa, ao indeferir o pedido de aposentadoria especial com fundamento apenas na inexistência de regramento legal, sem sequer analisar as circunstâncias do caso concreto (isto é, se o reclamante preenche ou não os requisitos do art. 57 da Lei nº 8.213/1991), violou a Súmula Vinculante 33. Saliente-se, no entanto, que não cabe a este Tribunal, definir se o os servidores têm ou não efetivo direito à aposentadoria e em que condições: a Súmula Vinculante 33 destina-se apenas a suprir a lacuna normativa, cabendo à autoridade competente analisar o cumprimento dos requisitos legais.
+    11. Diante do exposto, julgo parcialmente procedente o pedido, para determinar ao Instituto Municipal de Previdência de São João Del Rei que, com base no art. 57 da Lei nº 8.213/1991, verifique o preenchimento dos requisitos para a concessão da aposentadoria especial de que trata o art. 40, § 4°, III, da Constituição, concedendo-a ou não, conforme o resultado da análise.
+    Publique-se. Comunique-se.
+          Brasília, 3 de fevereiro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
