@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Hileia Indústrias de Produtos Alimentícios S.A. Aparelhado o recurso na afronta aos arts. 5º, II e LIV, 150, I, e 155, § 2º, XII, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+     O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais, consagradores dos princípios da legalidade e do devido processo legal (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013).
+    Por seu turno, na esteira da Súmula nº 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. ISS. Base de cálculo. Construção civil. Pauta fiscal. 4. Discussão sobre matéria fática. Súmula 279. 5. Matéria infraconstitucional e local. Súmula nº 280. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (ARE 984240 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 29.9.2017, PROCESSO ELETRÔNICO DJe-232 DIVULG 09.10.2017 PUBLIC 10.10.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. BASE DE CÁLCULO. PAUTA FISCAL OU PAUTA DE VALORES. LEGITIMIDADE. PRINCÍPIO DA LEGALIDADE. CÁLCULO POR ARBITRAMENTO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. VERIFICAÇÃO DO REAL VALOR DA OPERAÇÃO. INCURCIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE 857606 AgR, Relator(a): Min. Luiz Fux, Primeira Turma, julgado em 15.12.2015, PROCESSO ELETRÔNICO DJe-027 DIVULG 12.02.2016 PUBLIC 15.02.2016).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
