@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL – APELAÇÃO CÍVEL – AÇÃO COMINATÓRIA CUMULADA COM PEDIDO DE TUTELA ANTECIPADA COM DANO MORAIS – DANOS ESTRUTURAIS NA RESIDÊNCIA DO APELADO DECORRENTES DE OBRA E CONSTRUÇÃO DE DRENAGEM PELA MUNICIPALIDADE – RESPONSABILIDADE SUBJETIVA – AVERIGUAÇÃO DE CULPA – LAUDO PERICIAL CONCLUSIVO PELA NEGLIGÊNCIA DO MUNICÍPIO – CONDUTA OMISSIVA DA MUNICIPALIDADE – NEXO DE CAUSALIDADE E CULPA EVIDENCIADOS – DANO MORAL MANTIDO – QUANTUM RAZOÁVEL – RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da Constituição e ao Tema 339 da repercussão geral. Sustenta que o acórdão recorrido é “desprovido de fundamentos, uma vez que se limitou à simples reprodução dos argumentos apresentados pelo Ministério Público”.
+    A Presidência do Supremo Tribunal Federal (STF) devolveu o processo ao Tribunal de origem para que fosse aplicado o paradigma de repercussão geral de Tema 339. O Tribunal de origem assentou que não é o caso de retratação por entender que o acórdão recorrido está alinhado com o paradigma apontado e determinou a devolução dos autos ao STF.
+    Passo a análise do recurso.
+    O recurso é inadmissível, tendo em vista que não configura negativa de prestação jurisdicional ou inexistência de motivação a decisão que adota, como razão de decidir, os fundamentos do parecer lançado pelo Ministério Público. Nessa linha, veja-se o ARE 757.522 AgR, Rel. Min. Celso de Mello, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO DIREITO LOCAL INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INCORPORAÇÃO, AO ACÓRDÃO, DAS RAZÕES EXPOSTAS PELO MINISTÉRIO PÚBLICO FEDERAL MOTIVAÇÃO PER RELATIONEM LEGITIMIDADE JURÍDICO-CONSTITUCIONAL DESSA TÉCNICA DE FUNDAMENTAÇÃO AGRAVO IMPROVIDO.”
+    O STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Ademais, para divergir do entendimento proferido pelo Tribunal de origem seria necessário analisar os fatos e provas constantes dos autos, providência inviável de ser realizada neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 03 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
