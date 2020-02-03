@@ -1,0 +1,19 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Crimes de trânsito. Produção de provas. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 557.875, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi denunciado pelos crimes previstos nos arts. 302 e 306 da Lei 9.503/1997. A audiência de instrução, debates e julgamento está marcada para o dia 11.02.2020.
+    3. Em 30.10.2019, foi indeferido pedido de complementação de perícia formulado pela defesa. Contra a decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio HC no STJ. O Presidente da Corte Superior, Min. João Otávio de Noronha, indeferiu o pedido de liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “a complementação do laudo pericial requerida pela defesa poderá auxiliar o Juiz na formação de sua convicção, não havendo nenhum motivo para o seu indeferimento”; e que a “possibilidade de complementação do laudo pericial encontra respaldo na legislação e se mostra extremamente pertinente, pois, caso se verifique que a colisão ocorreu no local indicado pela testemunha [...], restaria comprovado que o acidente ocorreu por culpa exclusiva da vítima e, por consequência, o acusado poderia ser absolvido sumariamente”.
+    5. A defesa requer “a concessão definitiva da ordem de habeas corpus para: I- anular a decisão que indeferiu o pedido de complementação do laudo pericial e de nomeação de assistente técnico; II- determinar a realização do exame pericial complementar; III- autorizar a defesa a nomear assistente técnico pericial”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    9. A orientação jurisprudencial do STF é no sentido de que o “indeferimento da diligência pelo magistrado de primeiro grau não configura cerceamento de defesa, uma vez que o próprio Código de Processo Penal prevê, no § 1º do art. 400, a possibilidade de o juiz indeferir as provas consideradas irrelevantes, impertinentes ou protelatórias, sem que isso implique em nulidade da respectiva ação penal” (RHC 120.551, Rel. Min. Ricardo Lewandowski).
+    10. No caso de que se trata, o Juízo de origem indeferiu o pedido de complementação de perícia formulado pela defesa, utilizando-se dos seguintes fundamentos:
+    “[...] não há necessidade alguma de complementação da perícia. Absolutamente tudo o que a defesa pretende demonstrar pode ser por ela provado por testemunhos e documentos, em sede de instrução. Justamente por isso, não há espaço para absolvição sumária. Fica, ademais, indeferido o requerido a fls. 255/256, alínea ‘a’, que não tem forma e figura de juízo. Indeferido o pedido de complementação da perícia, torna-se prejudicada a pretendida indicação de assistente técnico pela parte [...]”.
+    11. Nessas condições, para dissentir das premissas que embasaram as decisões das instâncias de origem, seria necessário o revolvimento da matéria fático-probatória, o que não é possível na via estreita do habeas corpus.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 03 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+                            Relator
