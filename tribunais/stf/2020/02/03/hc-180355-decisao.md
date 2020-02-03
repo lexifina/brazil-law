@@ -1,0 +1,25 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Leonardo Couto Vilela em favor de Júlio César de Souza, contra decisão monocrática da lavra do Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça, que indeferiu a liminar no RHC 119.351/GO.
+    Em 29.5.2019, o paciente foi preso cautelarmente pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, II, do Código Penal).
+    Extraio do ato dito coator:
+    “(...).
+    A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+    Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+    Assim, não obstante os argumentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+    Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo deste recurso.
+    Ante o exposto, indefiro a liminar”.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Argumenta excesso de prazo para formação de culpa, preso o paciente desde 29.5.2019. Alega inidônea a fundamentação do decreto prisional. Requer, em medida liminar e no mérito, a revogação da prisão preventiva, com a expedição do competente alvará de soltura em favor do paciente, e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 154.149-AgR/DF, Rel. Min. Dias Toffoli, 2ª Turma, DJe 28.5.2019; HC 155.878-AgR/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 10.4.2019; HC 169.068-AgR/PI, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 08.5.2019; e HC 153.411/SP, Rel. p/ acórdão Min. Roberto Barroso, 1ª Turma, DJe 26.4.2019.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete, pois, de acordo com o ato dito coator, ‘Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência’.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Por outro lado, a razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto, até porque a melhor compreensão do princípio constitucional aponta para processo sem dilações indevidas, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    A jurisprudência deste Supremo Tribunal Federal é no sentido de que “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 180.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Considerada a prisão do paciente desde 29.5.2019 e o regular andamento da ação penal na instância de origem, nada colhe o alegado excesso de prazo para formação da culpa, porquanto inexistente ‘situação anômala que compromete a efetividade do processo’ ou ‘desprezo estatal pela liberdade do cidadão’ (HC 142.177/RS, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.9.2017).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
