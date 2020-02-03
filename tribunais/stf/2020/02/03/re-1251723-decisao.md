@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RECEITA BRUTA. DESONERAÇÃO DA FOLHA DE SALÁRIOS. LEIS NS. 12.546/2011 E 13.670/2018. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. REGIME DE DESONERAÇÃO DA FOLHA. LEI Nº 13.670/2018. ANO CALENDÁRIO. IRRETRATABILIDADE. ANTERIORIDADE NONAGESIMAL. Não há qualquer óbice, durante o ano calendário, à revogação do regime de desoneração da folha, pela Lei nº 13.670/2018, e na retomada da sistemática de apuração anterior, desde que observadas a anterioridade nonagesimal e a irretroatividade, como garantia da segurança jurídica do contribuinte" (fl. 1, e-doc. 10).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A recorrente alega ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º da Constituição da República.
+    Sustenta que “a alteração de apuração da contribuição previdenciária passou a ser obrigatória desde o dia 1º de setembro de 2018, tendo em vista que o artigo 11 da Lei nº. 13.670/20189 previu expressamente que essa alteração entraria em vigor a partir do primeiro dia do quarto mês subsequente ao de sua publicação, ocorrida em 30.05.2018.
+    Todavia, a Lei nº. 13.670/2018 jamais poderia impor que a alteração na sistemática de apuração da contribuição previdenciária fosse feita ainda no ano-calendário de 2018, já que, conforme dito anteriormente, a opção pela CPRB, manifestada em janeiro de cada ano, é irretratável para todo o ano-calendário.
+    Diante disso, e da patente inconstitucionalidade da Lei nº. 13.670/2018 nesse particular, não estou alternativa à Recorrente se não a impetração do writ a fim de assegurar o reconhecimento do seu direito líquido e certo de continuar recolhendo a CPRB até o fim do ano-calendário de 2018” (fls. 6-7, e-doc. 18).
+    Pede “seja o presente Recurso Extraordinário conhecido e provido para reformar integralmente o v. acórdão recorrido a fim de conceder a segurança, assegurando o seu direito líquido e certo de recolher a CPRB durante todo o ano calendário de 2018, nos termos do § 3º do artigo 8º e do § 13 do artigo 9º da Lei nº. 12.546/2011, tendo em vista que a Lei nº. 13.670/2018 violou frontalmente os princípios da segurança jurídica e da confiança legítima” (fl. 19, e-doc. 18).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste à recorrente.
+    4. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Leis ns. 12.546/2011 e 13.670/2018), a inviabilizar o processamento do recurso extraordinário. Assim, por exemplo:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. REGIME SUBSTITUTIVO DA LEI 12.546/2011. INAPLICABILIDADE NO CASO CONCRETO. VIOLAÇÃO AO ARTIGO 97 DA CONSTITUIÇÃO NÃO CONFIGURADA. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. INCIDÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NESTA SEDE RECURSAL. ARTIGO 85 DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (RE n. 936.113-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 22.2.2017).
+    Confiram-se também as seguintes decisões monocráticas transitadas em julgado: RE n. 978.318, Relator o Ministro Alexandre de Moraes, DJe 26.3.2018; RE n. 1.045.528, Relator o Ministro Celso de Mello, DJe 19.6.2017; RE n. 792.821-ED, Relator o Ministro Roberto Barroso, DJe 15.2.2017; e RE n. 996.086, Relator o Ministro Ricardo Lewandowski, DJe 26.10.2016; e as decisões monocráticas por mim proferidas no RE n. 1.243.537, DJe 3.12.2019, e no RE n. 1.238.409, DJe 22.10.2019.
+    Nada há a prover quanto às alegações da recorrente.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
