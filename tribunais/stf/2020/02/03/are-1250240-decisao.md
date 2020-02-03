@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação Cível - Anulação do ato de exoneração de servidor em estágio probatório no Departamento de Água e Esgoto de Americana, para adequação à Lei de Responsabilidade Fiscal. Restrições e medidas de contenção prevista na LRF e na Constituição Federal efetivamente observadas pela Municipalidade - Ausência de vícios formais no processo administrativo que culminou na exoneração do autor - Legalidade da exoneração dos servidores não estáveis - Sentença de improcedência mantida, por fundamentos diversos. Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV; e 37, caput, V, da CF.
+    A pretensão recursal não merece prosperar. Inicialmente, pontuo que a questão relativa ao indeferimento, pela origem, de determinada diligência probatória não possui repercussão geral. Nessa linha, veja-se a ementa do ARE 639.228-RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. indeferimento. contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Ademais, para dissentir do entendimento do Tribunal de origem, seriam necessários a reapreciação dos fatos e do material probatório constantes dos autos e o reexame da legislação infraconstitucional aplicada ao caso, procedimentos inviáveis neste momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 03 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
