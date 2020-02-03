@@ -1,0 +1,20 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos por Pedra de Souza Martins (evento 8) em face da decisão monocrática de minha lavra (evento 4) que julgou parcialmente procedente o pedido efetuado na presente ação rescisória e condenou a ré (ora embargante) ao pagamento das custas judiciais e dos honorários advocatícios fixados em 10% (dez por cento) do valor atualizado da causa.
+    Alega que a decisão embargada foi omissa “em relação à concessão dos benefícios da Justiça Gratuita e sobre a obrigação da embargante em devolver qualquer valor que porventura tenha recebido proveniente da decisão de procedência até aqui vigente na qual poderia ter implantado em sua renda mensal a vantagem obtida pela revisão combatida na presente ação”.
+    Sustenta que, desde a ação originária, litiga sob o pálio da Justiça Gratuita e ainda apresentou, nos presentes autos, requerimento expresso neste sentido.
+    Intimado, o embargado se manifestou alegando ausente omissão no julgado (evento 14).
+    Com vista dos autos o Procurador-Geral da República opinou pela rejeição dos embargos porque afastada expressamente, pela decisão embargada, a possibilidade de restituição de valores recebidos, bem como porque o pedido de assistência judiciária não foi processado em apenso aos autos.
+    É o relatório do essencial. Decido.
+    Tratando-se de embargos de declaração interpostos na vigência do Código de Processo Civil/2015, decido-os monocraticamente nos termos do disposto em seu art. 1.024, § 2º.
+    É caso de acolhimento parcial dos embargos.
+    Quanto à suposta omissão quanto ao tema da devolução de valores recebidos, a decisão embargada foi de fato expressa em repelir tal prática, nos seguintes termos:
+    “Quanto à restituição dos valores indevidamente recebidos pela parte ré, julgo improcedente o pedido, na linha do entendimento desta Suprema Corte nos julgamentos do MS 26.085/DF e do AI 746.442 – AgR/RS, Relatora Min. Cármen Lúcia, bem como do AI 490.551-AgR/DF, Relatora Min. Ellen Gracie.” (evento 4, p. 18).
+    Por outro lado, quanto ao pleito de assistência judiciária, foi de fato omissa a decisão.
+    Embora a Lei nº 1.060/50 (aplicável à hipótese quando do requerimento apresentado pelo embargante) mencionasse (art. 4º, § 2º) que a impugnação do direito à assistência judiciária seria feita "em autos apartados", o fato do pedido do réu ter sido feito no corpo da contestação (evento 2, p. 172) não impede seja ele conhecido pelo Juízo na decisão final, mormente diante de declaração do próprio interessado afirmando não ter condições de arcar com as despesas do presente processo sem prejuízo de seu sustento e de seus familiares (evento 2, p. 173).
+    Tal situação justifica a concessão de tais benefícios, nos termos da jurisprudência que registra ser “pacífico o entendimento da Corte de que para a obtenção de assistência jurídica gratuita, basta a declaração, feita pelo próprio interessado, de que sua situação econômica não lhe permite ir a Juízo sem prejudicar sua manutenção ou de sua família" (AI 649.283-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ de 19/9/2008).
+    Destarte, os embargos merecem acolhimento parcial para deferir ao réu a gratuidade da justiça (art. 98, caput, do CPC/2015 e art. 21, XIX, do RISTF) e suas consequências legais sem que tal, todavia, afaste a condenação pelas despesas processuais e honorários advocatícios.
+    Isso posto, acolho em parte os presentes embargos de declaração para, suprindo omissão na decisão embargada, deferir ao réu a gratuidade da justiça e acrescentar ao julgado advertência final quanto às condenações decorrentes de sua sucumbência ali imposta que, desta forma, “ficarão sob condição suspensiva de exigibilidade e somente poderão ser executadas se, nos 5 (cinco) anos subsequentes ao trânsito em julgado da decisão, o credor demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, extinguindo-se, passado esse prazo, tais obrigações do beneficiário” (art. 98, §§ 2º e 3º do CPC/2015).
+    Publique-se. Intimem-se.
+    Brasília, 03 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
