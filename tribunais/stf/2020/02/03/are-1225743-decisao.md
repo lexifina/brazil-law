@@ -1,0 +1,26 @@
+DECISÃO:
+    A Presidência da Corte determinou a devolução destes autos ao Tribunal de origem considerada a sistemática da repercussão geral (Tema n. 853 – Recurso Extraordinário com Agravo nº 906.491).
+    Os autos retornaram ao STF por ter o Tribunal a quo considerado que a matéria aqui examinada não possui identidade com aquela tratada no referido tema de repercussão geral.
+    Examinados os autos, decido.
+    Com razão a Corte de origem quanto à inaplicabilidade do Tema 853 ao caso em tela, ante a falta de identidade entre as matérias examinadas nestes autos e àquela analisada no paradigma da repercussão.
+    O mencionado tema de repercussão geral tratou da competência da Justiça do Trabalho para julgar as demandas propostas contra os entes públicos por servidores contratados sob regime da Consolidação das Leis do Trabalho – CLT.
+    No caso em tela, por sua vez, não há ente público no polo passivo da ação e, conforme ficou expressamente consignado no acórdão atacado, “Os arts. 58 e 59, da Resolução n° 944/1999, da Câmara Municipal de Betim, dispõem que o regime jurídico de seus servidores públicos, mesmo os comissionados, é estatutário”.
+    Assim, reconsidero o despacho de devolução e passo ao exame do recurso.
+    A jurisprudência da Suprema Corte já assentou ser inviável o agravo em recurso extraordinário que não ataca especificamente todos os fundamentos da decisão de admissibilidade do recurso, a teor da Súmula nº 287/STF.
+    A propósito, confira-se o julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Agravo contra a inadmissão do processamento do recurso extraordinário pelo juízo de origem. Fundamentos. Ausência de impugnação. Precedentes.
+    1. Segundo a firme jurisprudência do Supremo Tribunal Federal, devem ser impugnados, na petição do agravo, todos os fundamentos da inadmissão do apelo extremo.
+    2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.189.373/RS-AgR, Tribunal Pleno; Rel. Min. Dias Toffoli, DJe de 16/5/19).
+    Nesse sentido, vejam-se ainda os seguintes precedentes: ARE nº 1.123.973/AP – AgR, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18; ARE nº 1.076.524/SP – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 1º/2/19; ARE nº 1.161.442/PE – AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 1º/2/19; ARE nº 1.1.135.071/RJ – AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 17/9/18; ARE nº 890.639/SP – AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 10/10/17.
+    Anote-se que o recorrente não impugnou devidamente os fundamentos de que o julgamento do recurso demandaria o reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório dos autos, bem como de que o “que o entendimento adotado pela Turma Julgadora não destoa da orientação do excelso STF”.
+    Ressalte-se que, quando da interposição de um recurso dirigido ao Supremo Tribunal Federal, incumbe ao Tribunal de origem proceder a um exame prévio de admissibilidade desse apelo, sem que isso implique usurpação da competência constitucional cominada ao Supremo Tribunal Federal. A propósito, destacam-se:
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal” (AI nº 178.743/SP-AgR, Relator o Ministro Marco Aurélio, Segunda Turma, DJ de 16/5/97).
+    “RECURSO EXTRAORDINÁRIO (…) O Presidente do Tribunal Superior do Trabalho, ao emitir juízo negativo de admissibilidade do recurso extraordinário - nele destacando a ausência dos pressupostos condicionadores da valida utilização processual desse meio de impugnação - exerce, legitimamente, competência que lhe foi outorgada pelo ordenamento positivo, não praticando, em consequencia, qualquer ato de usurpação das atribuições jurisdicionais deferidas ao Supremo Tribunal Federal (RTJ 143/46). - (…)” (AI nº 153.147/RS-AgR, Relator o Ministro Celso de Mello, Primeira Turma, DJ de 6/5/94).
+    Ante o exposto, nego seguimento ao agravo em recurso extraordinário (art. 13, inciso V, alínea c, do Regimento Interno do Supremo Tribunal Federa).,
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
