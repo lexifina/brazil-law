@@ -1,0 +1,18 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Comarca de Campestre/MG, no processo nº 8187087, determinou a prisão preventiva do paciente, ocorrida em 9 de maio de 2019, ante a suposta prática das infrações previstas nos artigos 121, § 2º, incisos I e II (homicídio qualificado mediante paga ou promessa de recompensa e pelo motivo torpe), do Código Penal, com relação à vítima Thamer Wesley Franco, e 121, § 2º, incisos I e II, combinado com o 14, inciso II (tentativa de homicídio qualificado mediante paga ou promessa de recompensa e pelo motivo torpe), do Código Penal, considerada a vítima Marcelo Pereira Ramos. Destacou a materialidade e os indícios de autoria, aludindo aos elementos revelados mediante investigação policial. Concluiu imperiosa a custódia para garantir a ordem pública, salientando os contornos do crime, no que o acusado, com premeditação e considerada divisão de tarefas, compareceu ao local dos fatos, durante o dia, minutos antes da execução dos delitos, praticados mediante disparos de arma de fogo, afim de prestar auxílio aos corréus. Frisou conteúdo de quebra de sigilo telefônico, revelador de contato entre o paciente e corréus nos momentos que antecederam a prática do crime. Assentou configurado risco de interferência na instrução processual, aludindo ao fato de haver apagado mensagens de texto constantes de aplicativo de aparelho celular, visando dificultar a produção provas.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 114.694/RS. A Quinta Turma desproveu a ordem.
+    Os impetrantes afirmam estar a decisão por meio da qual determinada a custódia desprovida de fundamentação, dizendo-a lastreada na gravidade abstrata da imputação. Destacam não demonstrada a imprescindibilidade da medida nem o risco concreto de fuga, tendo em vista que permaneceu na comarca após os fatos. Sustentam viável a imposição de cautelares alternativas.
+    Requerem, no campo precário e efêmero, a revogação da preventiva, com expedição de alvará de soltura. No mérito, buscam a confirmação da providência.
+    A etapa é de exame da liminar.
+    2. Ante o julgamento, pelo Colegiado, do recurso em habeas corpus nº 114.694/RS, retifiquem a autuação para fazer constar, como coator, o Superior Tribunal de Justiça.
+    O Juízo, ao determinar a custódia, fez ver a indispensabilidade da medida. Ao fazê-lo, destacou haver o paciente, de forma premeditada e mediante divisão de tarefas, prestado auxílio aos corréus, durante o dia, na prática de homicídio consumado e tentado, executado por meio de disparos de arma de fogo. Ressaltou conteúdo de quebra de sigilo telefônico, no que revelado contatos entre o paciente e corréus nos momentos que antecederam a prática dos crimes, bem assim o fato de haver apagado mensagens de texto constantes de aplicativo de aparelho celular, a revelar a interferência na produção provas e risco à instrução criminal. O quadro indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a prisão mostrou-se pertinente, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+     5. Publiquem.
+Brasília, 4 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
