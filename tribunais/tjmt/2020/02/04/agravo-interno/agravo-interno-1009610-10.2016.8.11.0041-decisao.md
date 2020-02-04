@@ -1,0 +1,11 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+COMARCA DE CUIABÁ
+Turma Recursal Única
+Dr. Sebastião de Arruda Almeida – Juiz de Direito/Relator
+VISTOS, ETC...
+Homologo a desistência recursal, declarando prejudicado o Agravo Interno interposto pela parte recorrente.
+Baixem-se os autos à Instância Singela para cumprimento da r. sentença proferida.
+Int. Cumpra-se.
+Dr. Sebastião de Arruda Almeida
+Juiz de Direito/Relator
