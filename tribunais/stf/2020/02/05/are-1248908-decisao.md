@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. LEGITIMIDADE ATIVA DA UNIÃO. REQUISITOS PARA O RECEBIMENTO DA PETIÇÃO INICIAL DE ACP. INDISPONIBILIDADE DE BENS. LIMITAÇÃO. MEDIDA LIMINAR.
+    1. A União tem legitimidade para propor Ação Civil Pública quando interessada juridicamente, nos termos do disciplinado no artigo 17, caput, da Lei n.º 8.429/1992, e no caso do artigo 5º, inciso III, da Lei n.º 7.347/85.
+    2. É exigível apenas a apresentação de indícios da prática de atos qualificáveis como ímprobos, para autorizar o recebimento da petição inicial de Ação Civil Pública, uma vez que vigora o princípio do in dubio pro societate, a bem do interesse público, conforme dispõe o § 6º do artigo 17 da LIA, de modo que a rejeição de plano somente se justifica se houver demonstração de que o alegado ato de improbidade não existiu, ou de que os fatos narrados claramente não caracterizam qualquer das figuras típicas previstas na legislação de regência.
+    3. O decreto de indisponibilidade dos bens consiste em medida acautelatória que visa a assegurar a efetividade da prestação jurisdicional, sendo presumido o risco de dilapidação patrimonial quando presentes fortes indícios da prática de atos de improbidade administrativa. Precedentes.
+    4. O decreto de indisponibilidade dos bens e ativos financeiros, por ser de caráter assecuratório, deve incidir sobre quantos bens se façam necessários ao integral ressarcimento do dano e, ainda, ao potencial valor de multa civil, conforme precedentes do Supremo Tribunal Federal.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LIII, e 109 da CF. Defende a ilegitimidade ativa ad causam da União para propor ação de improbidade administrativa por atos praticados em detrimento de sociedade de economia mista, bem como a incompetência da Justiça Federal para processar e julgar o caso.
+    O recurso extraordinário é inadmissível. A solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional, bem como o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 05 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
