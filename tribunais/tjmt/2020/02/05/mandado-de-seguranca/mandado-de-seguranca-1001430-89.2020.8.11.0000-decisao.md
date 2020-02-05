@@ -1,0 +1,37 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+MANDADO DE SEGURANÇA No. 1001430-89.2020.8.11.0000
+IMPETRANTE: JACKSON CARVALHO DE MACEDO
+IMPETRADOS: EXMO. SR. GOVERNADOR DO ESTADO DE MATO GROSSO E SRA. SECRETÁRIA DE ESTADO DE EDUCAÇÃO, ESPORTE E LAZER DE MATO GROSSO
+Vistos, etc.
+Trata-se de Mandado de Segurança com pedido de liminar impetrado por Jackson Carvalho de Macedo em face de ato supostamente ilegal atribuído ao Exmo. Sr. Governador do Estado de Mato Grosso e da Sra. Secretária de Estado de Educação, Esporte e Lazer de Mato Grosso, consubstanciado no ato administrativo que determinou o afastamento do Impetrante de suas funções de professor em sala de aula.
+O Impetrante relata que contra si foi instaurado processo administrativo disciplinar, mediante Portaria no. 661/2019/GS/SEDUC/MT, subscrito pela Secretária de Estado de Educação, cujo fito é apurar suposta irregularidades na conduta funcional do servidor, por ter, em tese, no ano de 2019, mantido relações sexuais/atos libidinosos com aluna menor de idade, determinando, ao final, o afastamento do Impetrante do exercício do cargo, devendo desenvolver suas atividades na assessoria pedagógica de Nova Mutum.
+Alega o Impetrante que responde processo criminal sobre tais acusações, de modo que são tão levianas, que a Juíza competente sequer se dobrou ao trabalho de acolher o pedido de prisão formulado pelo Ministério Público.
+Afirma que, o Ministério Público da comarca de Nova Mutum, recorreu da decisão da Juíza que uma vez estando no tribunal foi analisada pelo próprio membro do Ministério Público, que pediu pela improcedência do pedido de seu próprio par de instância a quo, pedido que foi acolhido por este Egrégio Tribunal de Justiça, por sua câmera competente.
+Aduz que, as acusações ocorreram no início do ano letivo de 2019, de modo que a portaria afastou o Impetrante somente ao final, desta forma, passou vários meses sem que necessitasse afastar o Impetrante de suas atividades.
+Diz que, a medida de afastamento é desnecessária, tornou a vida pessoal do Impetrante caótica, muito embora, o salário seja mantido, no entanto, não poderá lecionar em aulas excedentes de sua carga horaria, o que afeta diretamente no orçamento do Impetrante, que tem seu ganho reduzido sistematicamente, vez que está asfaltado de qualquer instituição de ensino do Estado.
+Requer a concessão da medida liminar para suspender o ato arbitrário, determinando aos Impetrados, que restabeleçam o Impetrante nas suas funções de professor. No mérito, pugna pela concessão da segurança.
+É o relatório.
+Decido.
+Inicialmente, verifico que o ato supostamente ilegal contra o qual se volta o Impetrante foi praticado, em tese, pela Secretária de Estado de Educação, tendo em vista que a Portaria no. 661/2019/GS/SEDUC/MT, publicada no Diário Oficial no. 27.640, de 28 de novembro de 2019, que determinou a instauração do processo administrativo disciplinar para apuração dos fatos descritos na inicial, bem como o afastamento do servidor do cargo de professor, foi subscrita apenas pela Secretária de Estado.
+Portanto, falece ao Governador do Estado de Mato Grosso, legitimidade para estar no polo passivo do mandamus, porque desprovido de competência para deferir ou indeferir a pretensão do Impetrante.
+É sabido que “a autoridade coatora deve ser aquela que pratica ou determina a prática do ato administrativo, que concretiza a norma geral e abstrata anteriormente editada”. (STJ, Terceira Seção, MS 15104/DF, relatora Ministra Laurita Vaz, publicado no Diário da Justiça Eletrônico em 14 de maio de 2012).
+[...] Segundo a jurisprudência desta Corte, a autoridade coatora, para fins de impetração de Mandado de Segurança, é aquela que pratica ou ordena, de forma concreta e específica, o ato ilegal; ou, ainda, que detém competência para corrigir a suposta ilegalidade. [...]. (STJ, Primeira Turma, AgRg no REsp 1292897/BA, relator Ministro Napoleão Nunes Maia Filho Teixeira, publicado no Diário da Justiça Eletrônico em 7 de junho de 2016). [Destaquei].
+Feito este esclarecimento, passo à análise do pedido liminar.
+De acordo com o artigo 5o, LXIX, da CF e do artigo 1o da Lei n. 12.016/09, o remédio heroico consiste em uma ação constitucional, franqueada à proteção de direito líquido e certo, nas hipóteses em que haja lesão ou ameaça de lesão, por parte de conduta ilegal ou abusiva (comissiva ou omissiva) praticada por autoridade pública, ou quem as suas vezes fizer.
+Nesse contexto, a concessão de provimento liminar em mandado de segurança reclama a presença concomitante dos requisitos relativos à relevância dos fundamentos jurídicos da impetração (fumus boni iuris) e a possibilidade de sobrevir ao impetrante a ineficácia da medida reclamada, caso não seja liminarmente concedida (periculum in mora) (artigo 7o, III, da Lei n. 12.016/2009).
+Pois bem. Analisando as razões e os documentos anexados autos, não verifico, nesta fase, os requisitos legais para concessão da medida liminar requerida. Isso porque, foi determinado apenas o afastamento do cargo de professor, devendo desenvolver suas atividades na Assessoria Pedagógica de Nova Mutum, pelo prazo de 60 (sessenta dias), podendo ser prorrogado uma única vez.
+Ademais, a medida é legal e está prevista na Lei Complementar no. 207, de 29 de dezembro de 2004, que institui o Código Disciplinar do Servidor Público Civil do Poder Executivo do Estado de Mato Grosso:
+Art. 71. Como medida cautelar e a fim de que o servidor não venha a influir na apuração da irregularidade, a autoridade instauradora do processo administrativo disciplinar poderá ordenar o seu afastamento do exercício do cargo, pelo prazo de até 60 (sessenta) dias, sem prejuízo da remuneração, podendo o afastamento ser prorrogado, somente uma vez, em até mais 60 (sessenta dias).
+Parágrafo único. Durante o afastamento previsto no caput o servidor deverá ser colocado à disposição da Escola de Governo ou congêneres, devendo cumprir integralmente seu horário de trabalho.
+Finalmente, a priori, entendo que o fato do pedido de decretação da prisão preventiva ter sido indeferido pelo Juízo competente, não justifica, por si só, o deferimento do seu retorno ao cargo de professor.
+A Magistrada entendeu que, a despeito da reprovabilidade moral da conduta, não há prova de materialidade de alguma conduta típica por parte do representado a desafiar a medida extrema da prisão processual.
+Recordo que o servidor Impetrante não foi afastado do serviço público, mas tão somente das atividades em sala de aula, temporariamente, para evitar que venha a influir na apuração da irregularidade.
+Logo, diante da ausência dos requisitos para a concessão da medida, impõe-se o indeferimento do pedido liminar, sem prejuízo de uma análise mais acurada por ocasião do julgamento do mérito do presente writ.
+Ante o exposto, decido que: a) com fundamento nos artigos 6o, § 5o, e 10 da Lei de Regência, artigos 51, XIV, e 161, § 1o, do RITJ/MT, INDEFIRO a segurança em relação ao GOVERNADOR DO ESTADO DE MATO GROSSO, ante o reconhecimento da sua ilegitimidade passiva e, b) INDEFIRO o pleito liminar.
+Notifique-se a autoridade tida por coatora, para prestar as informações necessárias, no prazo de 10 (dez) dias.
+Dê-se ciência à Procuradoria-Geral do Estado (art.7o, II, da Lei no 12.016/09).
+Após, vistas à Procuradoria-Geral de Justiça.
+Publique-se. Cumpra-se.
+Cuiabá (MT), 5 de fevereiro de 2020.
+Desa. Helena Maria Bezerra Ramos
+Relatora
