@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1922, de 4 de fevereiro de 2020
+Aprova o Manual da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP) e a versão 8.4, de 16 de janeiro de 2020, do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social (Sefip).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 14-A da Lei nº 5.889, de 8 de junho de 1973, e no art. 32 da Lei nº 8.212, de 24 de julho de 1991, resolve:
