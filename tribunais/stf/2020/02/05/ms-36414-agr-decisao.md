@@ -1,0 +1,14 @@
+Trata-se de agravo regimental interposto contra decisão por mim proferida, que negou seguimento ao mandado de segurança (documento eletrônico 12).
+    Em seguida, o impetrante apresentou pedido de tutela provisória incidental (documento eletrônico 14), que foi encaminhado à Presidência desta Corte (documento eletrônico 18), a qual não verificou situação emergencial que justificasse a sua atuação (documento eletrônico 19).
+    Após, o pedido de tutela provisória incidental foi reiterado (documento eletrônico 20).
+    É o relatório necessário. Decido.
+    O presente agravo regimental busca o regular processamento de mandado de segurança relacionado à tramitação da PEC 6/2019, que foi aprovada e convertida na Emenda Constitucional 103/2019.
+    Nesse contexto, a jurisprudência desta Corte é pacífica em considerar que a aprovação de proposta de emenda à constituição implica na perda superveniente da legitimidade ativa do parlamentar para a impetração do writ, visto que ele passaria ter o efeito de ação direta de inconstitucionalidade. Nesse sentido:
+    “MANDADO DE SEGURANÇA. PROJETO DE EMENDA CONSTITUCIONAL Nº 48/91, QUE AUTORIZA A UNIÃO A INSTITUIR NOVO IMPOSTO (IPMF) PARA SER EXIGIDO NO MESMO EXERCÍCIO DE SUA CRIAÇÃO. PRETENSÃO DE DEPUTADO FEDERAL A QUE LHE SEJA RECONHECIDO O DIREITO DE NÃO TER DE MANIFESTAR-SE SOBRE O REFERIDO PROJETO, QUE CONSIDERA VIOLADOR DO PRINCÍPIO DA ANUALIDADE DA LEI TRIBUTÁRIA. Perda de legitimidade do impetrante, por modificação da situação jurídica no curso do processo, decorrente da superveniente aprovação do projeto, que já se acha em vigor. Hipótese em que o mandado de segurança, que tinha caráter preventivo, não se pode voltar contra a emenda já promulgada, o que equivaleria a emprestar-se-lhe efeito, de todo descabido, de ação direta de inconstitucionalidade, para a qual, ademais, não está o impetrante legitimado.” (MS 21.648/DF, Rel. p/acórdão Min. Ilmar Galvão, Tribunal Pleno)
+    “Processo de emenda constitucional: mandado de segurança requerido por Deputado Federal, sob o fundamento de violação de normas regimentais: impetração que - ainda quando se considerasse admissível em tese - estaria prejudicada pela promulgação da emenda constitucional.” (MS 24.430-QO/DF, Rel. Min. Sepúlveda Pertence, Tribunal Pleno)
+    Outrossim, uma vez aprovada a Emenda Constitucional, a proposta de emenda à qual se relaciona o mandado de segurança deixa de existir, o que acarreta a perda superveniente do objeto do mandamus. Veja-se: MS 36.442/DF, Rel. Min. Gilmar Mendes; MS 36.692/DF, Rel. Min. Edson Fachin; MS 33.556/DF, Rel. Min. Cármen Lúcia; MS 35.586 MC/DF, Rel. Min. Celso de Mello.
+    Isso posto, julgo prejudicado o agravo regimental e, em consequência, o pedido de tutela provisória incidental (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 5 de fevereiro de 2020.
+Ministro Ricardo Lewandowski
+Relator
