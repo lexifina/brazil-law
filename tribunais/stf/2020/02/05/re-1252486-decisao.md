@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INVIABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, afastou a prescrição quinquenal e julgou procedente o pedido de depósitos do FGTS, considerada a nulidade do contrato de trabalho temporário sucessivamente renovado. No extraordinário, o recorrente alega a violação do artigo 7º, inciso XXIX, da Constituição Federal. Afirma aplicar-se ao caso a prescrição quinquenal. Diz indevido o benefício pleiteado, afirmando a regularidade do contrato havido entre as partes.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    No caso dos autos, considerando que a parte autora foi contratada em caráter excepcional, por tempo indeterminado, para o desempenho de serviço ordinário permanente do Estado (magistério) e sem a devida exposição do interesse público excepcional que justificasse a não contratação de pessoal aprovado em concurso público, é flagrante a nulidade da contratação, nos termos do §2º do artigo 37, da CF, pois contrária aos ditames dos incisos II e IV, do mesmo diploma legal.
+    Nesse contexto, o artigo 19-A da Lei nº 8.036/1990 estabelece que, nos casos de contrato declarado nulo, por força da regra inserta no artigo 37, §2º, da CF, é devido o depósito de FGTS na conta vinculada do trabalhador, sempre que mantido o direito ao salário, tal como no caso dos autos.
+    [...]
+    Sendo assim, na medida em que a Constituição Federal de 1988 considera nula a contratação de servidores sem a devida observância dos requisitos elencados nos incisos II e III do artigo 37 da CF, garantindo-lhes apenas a percepção dos salários referentes ao período trabalhado, é devido o depósito do Fundo de Garantia por Tempo de Serviço, nos termos do artigo 19-A da Lei nº 8.036/1990.
+    Extraio o seguinte trecho do julgamento dos embargos de declaração:
+    Conforme ressaltou-se no acórdão embargado, o colendo STF, ao julgar o ARE 709.212/DF, que deu origem ao Tema 608, malgrado tenha reconhecido que o prazo prescricional aplicável à cobrança de valores não depositados no Fundo de Garantia por Tempo de Serviço (FGTS) é quinquenal, atribuiu efeitos ex nunc à decisão, com modulação de efeitos
+    Assim, para as ações cujo termo inicial da prescrição ocorra após a data do julgamento do ARE 709.212/DF, em 13/11/2014, aplicasse, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir da data do julgamento pelo STF.
+    No caso dos autos, considerando que o termo inicial ocorreu anteriormente ao referido julgamento, a prescrição somente se implementaria cinco anos após a data de julgamento do STF (13/11/2014).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    No mais, o acórdão está em harmonia com a jurisprudência do Supremo. O Pleno, no julgamento do recurso extraordinário com agravo nº 709.212, relator o ministro Gilmar Mendes, decidiu que o prazo prescricional aplicável à cobrança de valores não depositados no Fundo de Garantia por Tempo de Serviço (FGTS) é quinquenal, nos termos do artigo 7º, inciso XXIX, da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 5 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
