@@ -1,0 +1,24 @@
+DECISÃO:
+ementa: Direito Processual. Reclamação. Medida liminar. Julgamento de mérito do recurso extraordinário. Aparente usurpação de competência do SUPREMO TRIBUNAL FEDERAL (STF) . Liminar deferida.
+1. A apreciação da existência ou não de repercussão geral de uma matéria é de competência exclusiva do STF.
+2. O Tribunal reclamado apreciou o mérito do recurso extraordinário, extrapolando a sua competência para realizar o juízo de admissibilidade e invadiu, assim, a competência do STF .
+3. Assim, parece plausível a tese de usurpação da competência do STF para apreciar o recurso extraordinário interposto.
+4. Liminar deferida.
+    1.  Trata-se de reclamação, com pedido liminar, proposta pela José Roberto Estevam dos Santos contra acórdão proferido pela 2ª Turma do Colégio Recursal de Americana/SP, no julgamento de agravo interno em recurso extraordinário. O acórdão reclamado foi ementado nos seguintes termos:
+    “Agravo Interno – Decisão denegatória de seguimento de recurso extraordinário – Impossibilidade de rediscussão proba tória – Não demonstração de repercussão geral – Decisão de negatória mantida ”
+    2.  A parte reclamante alega que a decisão reclamada teria usurpado a competência desta Corte e violado a autoridade de suas decisões, por ter aplicado incorretamente as teses firmadas pelo Supremo Tribunal Federal no julgamento do ARE 872.271, do ARE 837.318 e do ARE 835.833, rel. Min. Teori Zavascki, paradigmas dos temas nº 797, 798 e 800 da repercussão geral e por ter deixado de reconhecer a pertinência do Tema nº 924 da repercussão geral ao caso. Requer a concessão de medida cautelar para suspender a decisão reclamada. No mérito, pleiteia a confirmação da medida liminar, com a cassação do acórdão.
+    3.  É o relatório. Decido o pedido liminar.
+    4.  A parte reclamante narra que foi condenada em primeira instância em razão da prática da contravenção penal prevista artigo 50 do Decreto Lei 3.688/41. Em face da decisão condenatória, interpôs apelação, a qual foi desprovida. Após, interpôs recurso extraordinário em face deste acórdão que manteve sua condenação, argumentando ter ocorrido violação ao princípio da livre iniciativa e não ter sido recepcionado o artigo 50 do Dec. Lei 3.688/41 pela vigente Constituição Federal.
+    5.  A presidência do Colégio Recursal negou seguimento ao recurso extraordinário, sob o fundamento de que o Supremo Tribunal Federal havia reconhecido a ausência de repercussão geral da matéria nos temas nº 797, 798 e 800. Confira-se trecho da decisão:
+    O Supremo Tribunal Federal, ao apreciar os temas 797 (ARE 872.271), 798 (ARE 837.318) e 800 (ARE 835.833), todos de relatoria do Ministro Teori Zavascki, atribuiu os efeitos da ausência de repercussão geral aos recursos extraordinários interpostos em causas processadas perante os Juizados Especiais Cíveis da Lei 9.099/95 que não demonstrem claramente (a) o prequestionamento de matéria constitucional e (b) a repercussão geral a questão suscitada.
+    Portanto, neste caso, não se verifica qualquer violação a dispositivo constitucional.
+    Ressalto ainda que, a matéria sequer fora objeto de prequestionamento, tendo em vista a ausência de apreciação de matéria que contrarie o texto constitucional nas decisões proferidas. Por fim, não restou evidenciada qualquer repercussão geral acerca da matéria ventilada no recurso interposto.
+    Desse modo, como o caso sub examine amolda-se a esses temas, com o permissivo do 1.039 do Código de Processo Civil, JULGO PREJUDICADO o presente recurso, INDEFERINDO o seu seguimento.
+    6. Para impugnar essa decisão, a ora reclamante interpôs agravo interno, que foi desprovido pelo Colégio Recursal de Americana/SP.
+    7.   Entendo que a tese jurídica articulada pela ora reclamante é plausível, uma vez que, ao contrário do deduzido no acórdão, aparentemente foi demonstrado, no recurso extraordinário por ele interposto, o prequestionamento de matéria constitucional e a repercussão geral da questão suscitada, tendo-se invocado o Tema nº 924 da repercussão geral, que versa a recepção do art. 50 do Decreto-Lei n. 3.688/1941 (Lei das Contravenções Penais), pelo qual tipificada a exploração ou o estabelecimento de jogos de jogos de azar como contravenções penais. Considero, ainda, haver risco de dano irreparável, já que a manutenção da decisão reclamada propiciará o trânsito em julgado da decisão de mérito proferida no processo originário, tornando viável a execução definitiva.
+    8.  Diante do exposto, com base no art. 989, II, do CPC/2015, defiro a medida liminar pleiteada, para suspender os efeitos da decisão reclamada (autos nº 0011213-39.2016.8.26.0229 ).
+    9.  Comunique-se a autoridade reclamada e requisitem-se as informações. Após, ao Ministério Público Federal para manifestação de mérito.
+    Publique-se. Comunique-se.
+          Brasília, 05 de fevereiro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
