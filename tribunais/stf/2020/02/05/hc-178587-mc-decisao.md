@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina assim retratou o caso:
+    O Juízo da Auditoria Militar da Comarca de Campo Grande/MS, no processo nº 0014413-78.2018.8.12.0001, determinou a prisão preventiva do paciente, ocorrida no dia 16 de maio de 2018, ante o suposto cometimento dos delitos previstos nos artigos 308, § 1º (corrupção passiva com causa de aumento por infração ao dever funcional), do Código Penal Militar e 2º, § 4º, inciso II (integrar organização criminosa com o concurso de funcionário público), da Lei nº 12.850/2013.
+    Condenou-o, no processo que passou a tramitar sob o nº 0041935-80.2018.8.12.0001, a 11 anos e 4 meses de reclusão, em regime inicial de cumprimento fechado, tendo em vista a prática dos delitos citados. Deixou de reconhecer o direito de recorrer em liberdade. Concluiu necessária a prisão para garantir a ordem pública e a disciplina militar.
+    Chegou-se ao Superior Tribunal de Justiça com a impetração de nº 522.805/MS. A Sexta Turma indeferiu a ordem.
+    O impetrante sublinha configurado o excesso de prazo da custódia, a perdurar por mais de 1 ano. Realça estar pendente de análise apelação interposta pela defesa.
+    Requer, no campo precário e efêmero, a revogação da prisão e, sucessivamente, a aplicação de cautelares diversas. Busca, alfim, a confirmação da providência.
+    Em 14 de agosto de 2019, Vossa Excelência no habeas corpus nº 174.202, originário do mesmo processo-crime e voltado contra a preventiva do paciente, deferiu medida acauteladora para, considerado o excesso de prazo, afastar a custódia. A Primeira Turma, em 22 de outubro seguinte, no julgamento de mérito, por maioria e nos termos do voto do ministro Alexandre de Moraes, inadmitiu a impetração e tornou insubsistente a liminar implementada. A prisão foi restabelecida no dia 28 de outubro de 2019.
+    A fase é de apreciação da medida de urgência.
+    2. O paciente permaneceu custodiado, sem culpa formada, entre 16 de maio de 2018 e 14 de agosto de 2019 e, após o julgamento em que a Primeira Turma inadmitiu a impetração de nº 174.202, a partir de 28 de outubro de 2019. Levando em conta a soma dos lapsos, tem-se que a prisão preventiva perfaz 1 ano, 6 meses e 3 dias. Surge o excesso de prazo. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    A superveniência de sentença penal condenatória não afasta a natureza preventiva da custódia. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as prisões decorrentes de pronúncia e de sentença penal condenatória recorrível integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a custódia oriunda de condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja custodiado por motivo diverso da prisão preventiva formalizada no processo nº 0014413-78.2018.8.12.0001, mantida na sentença proferida no de nº 0041935-80.2018.8.12.0001, da Auditoria Militar da Comarca de Campo Grande/MS. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
