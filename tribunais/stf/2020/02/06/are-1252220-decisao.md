@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios confirmou o entendimento do Juízo quanto à improcedência do pedido relativo à tratamento médico de alto custo, considerada a legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 1º, inciso III, 5º, cabeça, 6º, 196 e 198, inciso II, da Constituição Federal. Discorre sobre o direito fundamental à saúde. Afirma não demonstrada a inexistência do necessário aporte financeiro.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Consigna-se, de início, a ausência de ilegalidade da Portaria n. 725/2018. Conforme histórico narrado anteriormente, constata-se a crescente tentativa do Distrito Federal, submetido ao controle do Tribunal de Contas distrital e do Poder Judiciário, de regularizar e tornar eficiente o tratamento dos pacientes portadores de coagulopatias.
+    […]
+    Cumpre observar que o apelante não foi privado de acompanhamento, tampouco de prescrição dos medicamentos que necessita. Constata-se, em verdade, que possivelmente será submetido a novo protocolo de tratamento, condizente com as diretrizes do Ministério da Saúde, o qual não se revela de menor eficácia, e que tem sido, inclusive, adotado por outros médicos do sistema de saúde do Distrito Federal e do resto do país.
+    […]
+    No que tange à determinação da ACP Nº. 2012.01.1.150802-2 de lotação de médicos especialistas em coagulopatias na FHB, verifica-se que o comando judicial não se destinou, especificamente, à médica que acompanhava o apelante, revelando-se em comando de ordem geral, no intuito de proporcionar aos pacientes do FHB o atendimento por médicos capacitados a tratar coagulopatias.
+    Posto isto, presente evidências que justificam a não inclusão do Hospital HRAN no rol das instituições autorizadas a prestar atendimento aos pacientes portadores de coagulopatias, notadamente pela atuação da profissional de saúde lotada em seus quadros, a qual se revela destoante dos protocolos adotados pela SES/DF e pelo Ministério da Saúde, não há embasamento para a manutenção do atendimento do apelante pela médica Jussara Oliveira S. C. Almeida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o pronunciamento demonstra interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 200,00 (duzentos reais), fixo os honorários recursais no patamar de R$ 100,00 (cem reais), nos termos do artigo 85, § 11, do Código de Processo Civil. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 6 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
