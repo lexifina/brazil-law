@@ -1,0 +1,7 @@
+Despacho:
+    1. Trata-se de arguição de descumprimento de preceito fundamental, proposta pela então Procuradora-Geral da República, tendo por objeto o Decreto 10.003/2019, que alterou as normas sobre a constituição e o funcionamento do Conselho Nacional da Criança e do Adolescente – Conanda e destituiu seus membros, no curso dos seus mandatos.
+    2. Deferi parcialmente a cautelar para suspender: (i) os artigos 79, 80, caput e §3º, e 81 do Decreto nº 9.579/2018, com a redação dada pelo Decreto 10.003/2019; bem como (ii) o art. 2º do Decreto 10.003/2019. Em razão disso, restabeleci: “(i) o mandato dos antigos conselheiros até o seu termo final; (ii) a eleição dos representantes das entidades da sociedade civil em assembleia específica, disciplinada pelo Regimento Interno do Conanda; (iii) a realização de reuniões mensais pelo órgão; (iv) o custeio do deslocamento dos conselheiros que não residem no Distrito Federal; (v) a eleição do Presidente do Conanda por seus pares, na forma prevista em seu Regimento Interno”.
+    3. Em atenção à manifestação do Instituto ALANA e demais amici curiae (Pet. 2456/2020), intimem-se: (i) a Presidência da República, (ii) o Ministério da Mulher, da Família e dos Direitos Humanos e (iii) a Advocacia-Geral da União, para que informem a este juízo, no prazo de 5 (cinco) dias corridos, as medidas tomadas com vistas ao cumprimento da liminar.
+    Brasília, 6 de fevereiro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
