@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Civil pública – Loteamento com instalação de cancelas e guaritas em área pública – Impossibilidade – Associação pode contratar vigilância, mas estes não podem revisitar e impedir o acesso de pessoas em vias públicas – Legitimidade do MP para pedir a restituição de valores cobrados indevidamente a título de contribuição pela SARP – Direitos individuais homogêneos que geram efeitos erga omnes alcançando todos os moradores que forma compelidos a contribuir para a associação – Obrigatoriedade da Prefeitura de São Paulo em planejar, regulamentar e operar o trânsito de veículos e pedestres na cidade – Omissão configurada – Dever de restaurar a via é inteiramente da Prefeitura Municipal de São Paulo, sem obrigação solidária da SARP – Recursos da Prefeitura de São Paulo e Ministério Público não providos e parcialmente provido o recurso da SARP.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º e 30, III e VIII, da CF/1988.
+    O recurso não deve ser admitido, tendo em vista que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o reexame dos fatos e do material probatório constante dos autos, bem como a análise dos termos do acordo firmado entre as partes, providências inviáveis de serem realizadas neste momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+                Brasília, 06 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
