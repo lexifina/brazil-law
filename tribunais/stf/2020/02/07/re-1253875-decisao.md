@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PRECATÓRIO. ARTIGO 78 DO ADCT. PARCELAMENTO. EXCLUSÃO DE JUROS MORATÓRIOS E COMPENSATÓRIOS NO PERÍODO DE GRAÇA CONSTITUCIONAL. ARTIGO 100, PARÁGRAFO 5º, DA CONSTITUIÇÃO DA REPÚBLICA. DEVOLUÇÃO DE VALORES PAGOS A MAIOR. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “AÇÃO DE PROCEDIMENTO COMUM. REPETIÇÃO DE INDÉBITO. Débito decorrente de desapropriação indireta. Precatório abrangido pelo art. 78 do ADCT. Alegação pelo DER de que o artigo 78 do ADCT foi declarado inconstitucional nas Ações Diretas de Inconstitucionalidade n° 2356 e 2362 e no julgamento do Recurso Extraordinário n° 590.751 teve seus efeitos modulados, passando a ser o entendimento de que devem ser excluídos os juros moratórios e compensatórios sobre as parcelas resultantes do parcelamento do precatório. Pleito de condenação dos expropriados à devolução de valores supostamente pagos a maior.
+    PRELIMINAR. R. sentença que extinguiu o processo, sem resolução de mérito, em razão do reconhecimento da litispendência. Inexistência de litispendência. R. sentença ‘extra-petita’.
+    Julgamento do mérito da ação, nos termos do art. 1.013, § 3º, inciso II do CPC/2015. Improcedência do pedido. V. acórdão proferido pelo E. STF no RE n° 590.751/SP em 09.12.2010 (tema 132 do STF), quando de há muito já estabelecido o título executivo judicial na ação de desapropriação, o qual obedeceu ao entendimento deste E. Tribunal de Justiça e a jurisprudência à época.
+    ÔNUS DE SUCUMBÊNCIA. Condenação do DER, nos termos fixados na r. sentença e do art. 85 do CPC/2015.
+    RECURSO DE APELAÇÃO DO DER PARCIALMENTE PROVIDO, apenas para afastar a litispendência e, no mérito, JULGAR IMPROCEDENTE O PEDIDO.” (Doc. 9, p. 2)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 15)
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 100, § 1º e § 12, da Constituição Federal e 97, § 16, do Ato das Disposições Constitucionais Transitórias – ADCT, à Súmula Vinculante 17 e ao que decidido pelo Supremo Tribunal Federal no julgamento do RE 590.751, Tema 132 da Repercussão Geral. (Doc. 18)
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso. (Doc. 22)
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    In casu, a pretensão recursal consiste na devolução à Fazenda de supostos valores pagos a maior, por ser indevido o pagamento de juros moratórios e compensatórios, nos termos do artigo 78 do ADCT, introduzido pela Emenda Constitucional 30/2000, e do artigo 100, § 5º, da Constituição da República.
+    Com efeito, verifico que o acórdão ora recorrido divergiu da jurisprudência iterativa do Supremo Tribunal Federal quanto à impossibilidade de aplicação de juros moratórios e compensatórios após a consolidação do parcelamento, entendimento que se estende inclusive às parcelas já quitadas. Nesse sentido, à guisa de exemplo, cito o RE 463.349-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 18/3/2011, o RE 454.140-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 28/8/2014, o RE 731.988, Rel. Min. Alexandre de Moraes, DJe de 17/5/2018, e o ARE 926.748, Rel. Min. Luiz Fux, DJe de 3/12/2015, o qual porta a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXCLUSÃO DOS JUROS MORATÓRIOS E COMPENSATÓRIOS NO PERÍODO DO PARCELAMENTO PREVISTO NO ARTIGO 78 DO ADCT. EXCLUSÃO DAS PARCELAS JÁ PAGAS. AGRAVO PROVIDO PARA, DESDE LOGO, PROVER O RECURSO EXTRAORDINÁRIO.”
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do Código de Processo Civil/2015, para excluir a incidência de juros moratórios e compensatórios no período de graça constitucional, nos termos do artigo 100, § 5º, da Constituição Federal e do artigo 78 do Ato das Disposições Constitucionais Transitórias, ficando invertidos os ônus de sucumbência fixados na sentença anteriormente proferida (Doc. 5).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
