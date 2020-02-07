@@ -1,0 +1,21 @@
+Visto.
+Trata-se de Embargos de Declaração opostos por GD COMÉRCIO DE BORRACHAS E DERIVADOS LTDA contra o acordão, que, por unanimidade, julgou procedente o presente Agravo de Instrumento, para reformar a decisão proferida pelo Juízo da 2a Vara Especializada da Fazenda Pública da Comarca de Rondonópolis/MT, nos autos da Ação Declaratória de Inexistência de Relação Jurídico Tributária com Repetição de Indébito no 1003336-42.2019.8.11.0003 movida pela embargante contra o embargado, que deferiu a tutela de urgência, determinando a suspensão da exigibilidade da Taxa de Segurança Contra Incêndio (Tacin).
+Sustenta que há obscuridade no acórdão, uma vez que Supremo Tribunal Federal (STF), decidiu, recentemente, que a Tacin deve ser cobrada por meio de imposto e não de taxa.
+Ao final, requer que sejam acolhidos os embargos, com efeitos infringentes, para desprover o agravo de instrumento e manter a decisão do Juízo de origem, que suspendeu a cobrança da taxa de incêndio.
+Contrarrazões pelo desprovimento do recurso (ID 24775994).
+É o relatório.
+Decido.
+Ao compulsar os autos, verifica-se que o caso em análise, dispensa o julgamento do Colegiado, uma vez que presentes os elementos autorizativos para julgar o recurso monocraticamente, nos termos do artigo 932, inciso III, do Código de Processo Civil.
+Conforme se verifica dos autos, não mais subsiste o interesse recursal, tendo em vista que o processo originário foi sentenciado pelo Juízo a quo, que julgou procedente a pretensão inicial da embargante, para reconhecer a ilegalidade nas cobranças relativas a taxa de segurança e combate contra incêndio (TACIN) e determinar a devolução dos valores pagos, devidamente corrigidos, vejamos:
+“(...) Ante o exposto e por tudo que dos autos constam, JULGO O FEITO PARCIALMENTE PROCEDENTE e COM A RESOLUÇÃO DO MÉRITO, nos termos do artigo 487, inciso I, do Código de processo Civil, RECONHECENDO a ilegalidade das cobranças relativas taxa de segurança e combate contra incêndios – TACIN, bem como DETERMINANDO a devolução dos valores pagos, devidamente corrigidos desde o pagamento equivocado, com juros moratórios desde o trânsito em julgado desta sentença, nos termos da Súmula 188 do STJ, ressalvando os débitos já prescritos, conforme fundamentação posta. O requerido deverá restituir o autor das custas e taxas processuais adiantadas. Condeno o requerido ao pagamento de honorários advocatícios, que fixo em 10% sob o valor do proveito econômico obtido. Transitada em julgado, em nada sendo requerido, arquivem-se os autos com as baixas e anotações de estilo”.
+Neste contexto, revela-se a superveniente perda de objeto recurso, uma vez que o acórdão agravado foi publicado em 29/10/2019, os embargos foram interpostos em 31/10/2019 e a sentença julgando procedente os pedidos da exordial proferida em 03/12/2019. Portanto, a modificação da decisão que se pretendia obter nesta sede recursal restou prejudicada.
+Assim, torna-se dispensável a apreciação do presente recurso ante o desfazimento do elemento material da ação (interesse de agir) no curso da demanda, caracterizado pela desnecessidade do provimento jurisdicional solicitado.
+Sobre o tema, preleciona o eminente processualista Nelson Nery Junior, in Comentários ao Código de Processo Civil, 2015, p.1.851:
+“Recurso prejudicado. É aquele que perdeu seu objeto. Ocorrendo a perda do objeto, há falta superveniente de interesse recursal, impondo-se o não conhecimento do recurso por ausência de requisito de admissibilidade. Assim, ao relator cabe julgar inadmissível o recurso por falta de interesse, ou seja, julgá-lo prejudicado”.
+A propósito:
+AGRAVO DE INSTRUMENTO. DECISÃO SUPERVENIENTE. PERDA DO OBJETO. Sobrevindo, do juízo de origem, decisão de retratação da decisão agravada, resta prejudicado o exame do recurso, por perda do objeto. Prejudicado o exame do agravo de instrumento, por perda de objeto. (Agravo de Instrumento, No 70081309882, Décima Nona Câmara Cível, Tribunal de Justiça do RS, Relator: Voltaire de Lima Moraes, Julgado em: 14-06-2019)
+Diante do exposto, em virtude da perda superveniente do interesse recursal, JULGO PREJUDICADO o presente recurso, nos termos do artigo 932, inciso III, do Código de Processo Civil.
+Intime-se.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
