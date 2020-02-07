@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “GRATIFICAÇÃO ATIVIDADE PERIGOSA. POLICIAL MILITAR LOTADO EM PENITENCIÁRIA. EXTENSÃO. LEI 3.694/01. PRESCRIÇÃO QUINQUENAL. DANOS MORAIS. PROCEDÊNCIA PARCIAL. RECURSO CONHECIDO E PROVIDO EM PARTE.” (eDOC 4, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2°; 37, X; 61, § 1°, II, “b” e 169, do texto constitucional.
+    Nas razões recursais, alega-se em síntese, que a gratificação de atividade perigosa foi concedida somente aos servidores vinculados à Secretaria Estadual de Administração Penitenciária, restando cristalino, portanto, o fato de que a Recorrida não faz jus a referida gratificação, pelo simples fato de não pertencer aos quadros daquela secretaria estadual. (eDOC 5, p. 7)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, no que tange à alegada violação ao princípio da isonomia, cumpre destacar que o acórdão recorrido está de acordo com a jurisprudência firmada por esta Corte no sentido de que não cabe ao Poder Judiciário proceder ao aumento de vencimentos de servidores públicos, utilizando como fundamento, para tanto, o aludido princípio.
+    A repercussão geral da matéria foi reconhecida por ocasião de julgamento do RE-RG 592.317, de minha relatoria, tema 315 da sistemática da repercussão geral, DJe 10.11.2014, assim ementado:
+    “Recurso extraordinário com repercussão geral reconhecida. Administrativo. Servidor Público. Extensão de gratificação com fundamento no princípio da Isonomia. Vedação. Enunciado 339 da Súmula desta Corte. Recurso extraordinário provido.”
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei 3.694/01) e o conjunto probatório constante dos autos, consignou o seguinte:
+    “O que ocorreu foi que a Lei 5.348/06 regulou os cargos da Administração Penitenciária, fazendo extinguir a gratificação de atividade perigosa, que passou a integrar o vencimento base.
+    Mas essa aplicação, por óbvio, se restringe aos servidores ocupantes desse cargo.
+    Aos demais servidores no exercício dessa atividade, como no caso do autor, a Lei 3.694/01 permaneceu prevendo a aplicação da gratificação respectiva.
+    Contudo, em que pese a sentença prever a condenação ao pagamento da gratificação no percentual estabelecido nessa lei, há que se destacar que o dispositivo que prevê a gratificação na forma de percentual (art. 2º) foi alterado, passando a estabelecer o limite de R$ 478,40, o que deve ser ressaltado na sentença.” (eDOC 4, p. 3 – 4)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE PENITENCIÁRIO ESTADUAL. PERCEPÇÃO DE ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. LEI 6.772/2006 DO ESTADO DE ALAGOAS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO. (RE 896468 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 20.5.2019)”
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES PÚBLICOS. ESTADO DO RIO DE JANEIRO. REAJUSTE CONCEDIDO PELA LEI ESTADUAL 1.206/87. EXTENSÃO AOS SERVIDORES DO PODER JUDICIÁRIO, COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA. ILEGITIMIDADE. SÚMULA VINCULANTE 37. JURISPRUDÊNCIA REAFIRMADA NO JULGAMENTO DO RE 592.317-RG (REL. MIN. GILMAR MENDES, PLENÁRIO, TEMA 315). 1. A extensão do reajuste instituído pela Lei Estadual 1.206/87 aos servidores públicos do Poder Judiciário do Estado do Rio de Janeiro, com base no princípio da isonomia, contraria firme jurisprudência do Supremo Tribunal Federal consubstanciada na Súmula Vinculante 37 (“Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”). 2. Agravo regimental provido. (ARE 841799 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 12.5.2016)”
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
