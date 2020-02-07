@@ -1,0 +1,21 @@
+DECISÃO
+PENA – CUMPRIMENTO – REGIME – ARTIGO 33, PARÁGRAFOS 2º E 3º, DO CÓDIGO PENAL.
+PENA – LIBERDADE – RESTRITIVAS DE DIREITOS – SUBSTITUIÇÃO – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Queluz/SP, no processo nº 0000947-65.2011.8.26.0488, condenou o paciente a 1 ano, 11 meses e 10 dias de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 194 dias-multa, ante a prática do delito previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Impôs a pena-base, levando em conta o piso de 5 e o teto de 15 anos, em 5 anos e 10 meses, valorando negativamente a quantidade de entorpecente apreendido – 224 comprimidos do medicamento Desobesi-M, contendo cloridrato de femproporex, e 40 comprimidos de anfepramona. Observou, em 2/3, a causa de diminuição versada no § 4º do artigo 33 da Lei de regência. Deixou de substituir a pena privativa de liberdade por restritiva de direitos. Fixou o regime inicial de cumprimento fechado, aludindo ao artigo 2º, § 1º, da Lei nº 8.072/1990.
+    A Quinta Câmara de Direito Criminal negou provimento a apelação interposta pela defesa. Ressaltou adequado o regime de cumprimento mais gravoso, considerada a gravidade do delito e a quantidade de comprimidos de medicamentos encontrados com o paciente. Recurso especial não foi admitido.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo nº 1.1176.681. A Presidência não conheceu do recurso e desproveu embargos declaratórios. A Quinta Turma negou provimento a agravo regimental. O acórdão transitou em julgado em 11 de abril de 2018.
+    No mesmo Tribunal, impetrou-se o habeas corpus nº 540.202/SP. O Relator inadmitiu-o. De ofício, deferiu a ordem para estabelecer o regime inicial semiaberto. Agravo regimental está pendente de análise.
+    O impetrante sustenta a existência de constrangimento ilegal, consistente no risco de o paciente ser preso. Afirma que a decisão do Relator no habeas corpus nº 540.202, mediante a qual reconhecido o direito ao semiaberto, implicou a nulidade do título condenatório e, consequentemente, da preclusão maior. Aponta a possibilidade de fixação do regime aberto e de conversão da pena privativa de liberdade em restritiva de direitos.
+    Requer, em âmbito liminar, a expedição de contramandado de prisão, garantindo-se ao paciente o direito de aguardar solto o julgamento do agravo regimental no habeas corpus nº 540.202, do Superior Tribunal de Justiça. No mérito, busca a confirmação da providência e a observância do regime aberto, com a substituição da sanção por restritiva de direitos.
+     A fase é de exame da medida acauteladora.
+    2. O Relator do habeas corpus nº 540.202/SP, ao deferir, de ofício, a ordem para estabelecer o regime de cumprimento semiaberto, não assentou a nulidade do título condenatório, razão pela qual descabe cogitar de insubsistência do trânsito em julgado, ocorrido em 11 de abril de 2018, bem assim de expedição do contramandado de prisão. A par desse aspecto, o reconhecimento de ilegalidade na dosimetria não alcança a íntegra da sentença e do acórdão decorrente do julgamento da apelação, restringindo-se, no caso, ao critério adotado para a fixação do regime de cumprimento de pena. Precedentes: habeas corpus nº 59.950, Segunda Turma, relator o ministro Moreira Alves; e habeas corpus nº 98.888, Segunda Turma, relatora a ministra Ellen Gracie.
+    O regime de cumprimento de pena é norteado, a teor do artigo 33, parágrafos 2º e 3º, do Código Penal, pelo patamar alusivo à condenação e as circunstâncias judiciais. Ante a sanção imposta – 1 ano, 11 meses e 10 dias de reclusão – e a valoração negativa de circunstância judicial, surgiu viável o semiaberto.
+    Quanto à substituição da pena por restritivas de direitos, a quantidade de droga apreendida – 224 comprimidos do medicamento Desobesi-M, contendo cloridrato de femproporex, e 40 comprimidos de anfepramona – indica não ser a medida suficiente à repressão criminosa, a teor do artigo 44, inciso III, do Código Penal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 7 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
