@@ -1,0 +1,30 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 1, Vol. 3):
+    “APELAÇÃO CÍVEL INTERPOSTA SOB A ÉGIDE DO CPC/1973. AÇÃO DE RESTITUIÇÃO DE INDÉBITO AJUIZADA EM FACE DO MUNICÍPIO DE RESENDE. PRETENSÃO DE RESTITUIÇÃO DO DEPÓSITO RECURSAL EM SEDE DE PROCESSO ADMINISTRATIVO FISCAL. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DA MUNICIPALIDADE QUE PLEITEIA A REFORMA DO DECISUM. COM EFEITO, A EXIGÊNCIA DO PRÉVIO RECOLHIMENTO DO DEPÓSITO PRÉVIO COMO CONDIÇÃO DE ADMISSIBILIDADE DO RECURSO ADMINISTRATIVO FOI DECLARADA INCONSTITUCIONAL PELO STF NO JULGAMENTO DA ADIN Nº 1.976 E CONSOLIDADA NA CORTE SUPREMA COM A EDIÇÃO DA SÚMULA VINCULANTE Nº 21 (“É INCONSTITUCIONAL A EXIGÊNCIA DE DEPÓSITO OU ARROLAMENTO PRÉVIOS DE DINHEIRO OU BENS PARA ADMISSIBILIDADE DE RECURSO ADMINISTRATIVO”). SÚMULA VINCULANTE N° 21/STF QUE PRODUZ EFEITOS EX NUNC, NÃO ALCANÇANDO O PROCESSO ADMINISTRATIVO N° 23.835/2002, OBJETO DA PRESENTE DEMANDA, EIS QUE O RECEBIMENTO DO RECURSO ADMINISTRATIVO OCORREU ANTERIORMENTE À EDIÇÃO DA REFERIDA SÚMULA. RECURSO PROVIDO PARA JULGAR IMPROCEDENTE O PEDIDO. CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM R$ 2.000,00, NA FORMA DO ART. 20, §4º, DO CPC/1973.“
+    Os Embargos Declaratórios opostos foram rejeitados (fl. 1, Vol. 7).
+    No Recurso Extraordinário (fl. 1, Vol. 9), interposto com fundamento no art. 102, III, “a”, da Constituição, alega-se violação aos arts. 5º, XXXIV, “a”, e LV; e 103-A da Constituição, bem como à Súmula Vinculante 21/STF. Em síntese, defende que a partir da publicação da SV 21, “a Lei do Município, que previa a exigência de depósito prévio como requisito de admissibilidade de recursos administrativos fiscais foi eliminada do mundo jurídico desde a sua edição” (fl. 9, Vol. 9).
+    Em contrarrazões (fl. 1, Vol. 10), a recorrida afirma, em suma: (a) a regularidade do depósito recursal e sua conversão em renda à época de sua realização; (b) a inércia da parte quando da exigência da exação; e (c) a impossibilidade de retroação do direito para macular fatos consumados.
+    É o relatório. Decido.
+    Reputam-se preenchidos todos os pressupostos constitucionais de admissibilidade do Apelo Extremo. Dessa forma, passo à análise do mérito.
+    Assiste razão à parte recorrente.
+    Insta consignar que a discussão sobre a retroatividade, ou não, dos efeitos das súmulas vinculantes do SUPREMO TRIBUNAL FEDERAL não se mostra necessária, uma vez que a edição de tal instrumento somente se justifica após a consolidação do entendimento desta CORTE sobre um tema específico.
+    Desse modo, tem-se que quando da publicação da Súmula Vinculante 21 (29/10/2009), a discussão relativa à necessidade de depósito prévio como condição de admissibilidade de recurso administrativo já havia sido tratada no julgamento das ADI’s 1.976/DF e 1.922/DF (ambas de relatoria do Min. JOAQUIM BARBOSA, DJe de 18/5/2007). Naquela oportunidade, o SUPREMO declarou a inconstitucionalidade do art. 21 da Medida Provisória 1.699-41/1988, convertida na Lei 10.522/2002, que dispunha sobre referida obrigação.
+    Posteriormente, no julgamento do RE 601.235-RG (Rel. Min. ELLEN GRACIE, Tema 314, DJe de 25/9/2014), esta CORTE, reafirmando sua jurisprudência, fixou tese no sentido de que “É inconstitucional a exigência de depósito prévio como requisito de admissibilidade de recurso administrativo”.
+    Dessa forma, embora a Súmula Vinculante 21 tenha sido publicada em data posterior ao recurso administrativo interposto pela ora recorrente (2003), tal circunstância não impede a aplicação do entendimento jurisprudencial consolidado desta CORTE, no sentido da inconstitucionalidade da exigência de depósito prévio como condição para admissibilidade de recurso interposto na via administrativa.
+    Ainda sobre a questão, cite-se, por esclarecedora, decisão proferida pelo Ilustre Min. JOAQUIM BARBOSA nos autos do RE 580.762/SP, DJe de 18/2/2011:
+    “ DECISÃO: Trata-se de recurso extraordinário interposto de acórdão que considerou inválida a exigência de depósito prévio, como condição de admissibilidade de recurso administrativo.
+    Em 28.03.2007, o Plenário desta Corte, por decisão unânime, julgou a ADI 1.976 e a ADI 1.922, de minha relatoria, para declarar inconstitucional o art. 32 da Medida Provisória 1.699-41/1998, convertida na Lei 10.522/2002. O artigo estabelecia o arrolamento de bens e direitos de valor equivalente a trinta por cento da exigência fiscal como condição de admissibilidade de recurso administrativo que visasse a discutir a validade de crédito relativo a tributo federal no âmbito dos Conselhos de Contribuintes do Ministério da Fazenda.
+    Na mesma assentada, o Plenário julgou o RE 389.383 e o RE 390.513 (rel. min. Marco Aurélio), declarando, incidentalmente e por maioria, a inconstitucionalidade dos §§ 1º e 2º do artigo 126 da Lei 8.213/1991, com as redações dadas pelo artigo 10 da Lei 9.639, de 25 de maio de 1998, originária da Medida Provisória 1.608-14/1998 (cf. os Informativos STF 461 e 462/2007).
+    Em ambos os casos, concluiu a Corte que tanto a obrigação de arrolar bens como a de depositar quantias para recorrer criavam o mesmo tipo de dificuldade, desarrazoada, para o contribuinte.
+    Ressalto, ainda, que o Plenário desta Corte aprovou, em 29.10.2009, a Súmula Vinculante 21, com o seguinte teor:
+    “É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo.” (DJe de 10.11.2009 e DOU de 10.11.2009)
+    Dessa orientação não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.”
+    O acórdão recorrido divergiu desse entendimento.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO para restabelecer a sentença.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
