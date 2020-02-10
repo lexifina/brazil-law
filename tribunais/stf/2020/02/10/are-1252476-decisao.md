@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LOCAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Mato Grosso julgou procedente representação de inconstitucionalidade em face da Lei Complementar estadual nº 555/2014, consignando a violação à vedação de aumento de despesa pelo Legislativo em projetos de lei de iniciativa privativa do Chefe do Executivo. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 7º, inciso IX, 39, § 3º, e 63, inciso I, da Constituição Federal. Diz não demonstrado o aumento de gastos. Discorre sobre o direito dos servidores ao adicional noturno, cabendo ao Legislativo suprir a omissão quanto à regulamentação do benefício. Sustenta terem as modificações feitas ao projeto de lei pertinência temática em relação à proposta do Executivo.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Embora a Casa de Leis de Mato Grosso não queira reconhecer, indiscutivelmente, na Lei reprochada, foram aplicados os direitos pecuniários/indenizatórios dos militares estaduais, gerando aumento de despesas ao erário, sob o argumento de que as emendas e substitutivos vergastados são prerrogativas do Poder Legislativo. Todavia, tais assertivas não se sustentam, eis que, não obstante seja admitida a participação de seus membros nos processos legislativos de iniciativa do Governador do Estado – e não poderia ser diferente mesmo – a doutrina e jurisprudência são unânimes no sentido de impor limites às emendas, que devem guardar pertinência temática com o projeto de lei e não acarretar aumento de despesa. O que não ocorreu na espécie.
+    [...]
+    Assim, é imperioso concluir que a alteração do Estatuto dos Militares do Estado de Mato grosso, levada a efeito pelo Poder Legislativo estadual, impondo deveres ao erário, sob a alegação de auto aplicabilidade das normas constitucionais relativas aos direitos sociais, viola não somente as regras de competência deste ente federativo, especificamente os arts. 39 e 40, da Constituição de Mato Grosso, como também o princípio da separação de poderes, e o entendimento pacificado pelo Supremo Tribunal Federal em relação à matéria.
+    Somente pela análise da legislação local seria dado decidir de forma diversa, o que é vedado em sede extraordinária.
+    No mais, a decisão está em harmonia com a jurisprudência do Supremo. O Pleno, no julgamento do recurso extraordinário nº 745.811, relator o ministro Gilmar Mendes, decidiu que a extensão, por meio de emenda parlamentar, de gratificação ou vantagem prevista pelo projeto do Chefe do Poder Executivo é inconstitucional por vício formal, considerando a reserva de iniciativa do Chefe do Poder Executivo para edição de normas que alterem o padrão remuneratório dos servidores públicos.
+    3. Conheço do agravo, desprovendo-o.
+    4. Publiquem.
+Brasília, 10 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
