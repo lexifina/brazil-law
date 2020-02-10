@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se concluiu que a Lei 17.292/2017 do Estado de Santa Catarina – ao determinar que os estacionamentos privados e os fornecedores de serviço de manobra e guarda de veículos em geral concedam aos veículos utilizados por pessoas com deficiência o período mínimo de gratuidade do pagamento de tarifa equivalente a 90 minutos – invadiu competência privativa da União para tratar de matéria de direito civil.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 22, I; 23, II; 24, XIV; e 30, I e V, da mesma Carta, sob o argumento de que a Lei estadual 17.292/2017 não viola a Lei Maior, visto que disciplina matéria de proteção e integração social das pessoas com deficiência.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corte, conforme se verifica nos seguintes precedentes:
+    “Ementa: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL. COMPETÊNCIA LEGISLATIVA. LEI ESTADUAL 4.049/2002. ESTACIONAMENTOS PÚBLICOS E PRIVADOS. GRATUIDADE AOS PORTADORES DE DEFICIÊNCIA E AOS MAIORES DE SESSENTA E CINCO ANOS. VIOLAÇÃO AO ART. 22, I, DA CONSTITUIÇÃO. INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO CIVIL. AGRAVO IMPROVIDO.
+    I – A Lei estadual 4.049/2002, ao prever a gratuidade de todos os estacionamentos situados no Estado do Rio de Janeiro aos portadores de deficiência e aos maiores de sessenta e cinco anos, proprietários de automóveis, violou o art. 22, I, da Constituição Federal. Verifica-se, no caso, a inconstitucionalidade formal da mencionada lei, pois a competência para legislar sobre direito civil é privativa da União. Precedentes.
+    II – Agravo regimental improvido” (AI 742.679-AgR/RJ, de minha relatoria).
+    “Ementa: COMPETÊNCIA PRIVATIVA DA UNIÃO – DIREITO CIVIL – ESTACIONAMENTO – SHOPPING CENTER – HIPERMERCADOS – GRATUIDADE – LEI Nº 4.541/2005, DO ESTADO DO RIO DE JANEIRO – PRECEDENTES. Invade competência legislativa da União, prevista no artigo 22, inciso I, da Carta da República, norma estadual que veda a cobrança por serviço de estacionamento em locais privados. Precedentes: Ações Diretas de Inconstitucionalidade nº 1.472/DF, relator ministro Ilmar Galvão, nº 2.448/DF, relator ministro Sydney Sanches, e nº 1.623/RJ, relator ministro Joaquim Barbosa” (AI 730.856-AgR/RJ, Rel. Min. Marco Aurélio).
+    “Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL. ESTACIONAMENTO EM LOCAIS PRIVADOS. COBRANÇA. IMPOSSIBILIDADE. OFENSA AO ART. 22, I DA CONSTITUIÇÃO.
+    Esta Corte, em diversas ocasiões, firmou entendimento no sentido de que invade a competência da União para legislar sobre direito civil (art. 22, I da CF/88) a norma estadual que veda a cobrança de qualquer quantia ao usuário pela utilização de estabelecimento em local privado (ADI 1.918, rel. min. Maurício Corrêa; ADI 2.448, rel. Min. Sydney Sanches; ADI 1.472, rel. min. Ilmar Galvão).
+    Ação direta de inconstitucionalidade julgada procedente” (ADI 1.623/RJ, Rel. Min. Joaquim Barbosa).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2020.
+Ministro Ricardo Lewandowski
+Relator
