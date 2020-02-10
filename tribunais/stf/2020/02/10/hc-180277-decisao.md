@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas e associação para o tráfico. Cerceamento de defesa. Excesso de prazo. Deficiência na instrução do writ.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE. SUMIÇO DE PROVA POR PARTE DO ESTADO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVIDÊNCIAS TOMADAS PELO JUÍZO DE PRIMEIRO GRAU. PERTINÊNCIA DA PROVA. TAREFA DO MAGISTRADO. EXAME INCABÍVEL NA VIA ELEITA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INSTRUÇÃO ENCERRADA. INCIDÊNCIA DA SÚMULA N. 52/STJ. RECURSO IMPROVIDO.
+    1. Não se mostra cabível, na presente via, a análise acerca do sumiço de prova - HD de monitoramento eletrônico apreendido na data da prisão do recorrente - por parte do Estado, tampouco sua imprescindibilidade para o deslinde da ação penal, porquanto a elucidação de tal controvérsia, demandaria, invariavelmente, o exame de material probatório.
+    2. Conforme foi assentado pelo Tribunal de origem, observa-se que o Juízo de primeiro grau tomou as medidas necessárias à regularização do feito, a fim de que a defesa possa ter acesso à pretendida prova e apresentar as suas alegações finais, contudo, o extravio do objeto não é um ato que possa ser imputado ao Magistrado, tendo em vista que o fato se deu no âmbito da Polícia Judiciária.
+    3. Na hipótese, a instrução criminal encontra-se encerrada, estando superada a alegação de excesso de prazo na formação da culpa, nos termos da Súmula n. 52 deste Superior Tribunal de Justiça.
+    4. Recurso ordinário em habeas corpus improvido”.
+    2. Extrai-se da inicial que o paciente foi denunciado pela prática dos crimes previstos nos arts. 33, caput, 35, caput, c/c o art. 40, IV, da Lei 11.343/06, na forma do art. 69 do Código Penal.
+    3. A parte impetrante aponta violação aos princípios do contraditório e da ampla defesa. Para tanto, alega que “o Juiz Coator de ‘piso’ arbitrariamente não cumpriu a determinação do (...) Acórdão n.º 0028844-91.2019.8.19.0000, no prazo de 48 horas, da juntada da prova das filmagens armazenadas no HD apreendido no local da prisão do paciente, com fundamento do art. 564, inciso III, ‘b’, do CPP, haja vista, que a referida prova foi perdida pelo Estado do Rio de Janeiro”. Ademais, afirma que o HD poderia “já ter inocentado há muito tempo” o paciente; e que toda essa situação resultou em um “excesso de prazo ‘monstruoso’” na instrução processual.
+    4. A defesa requer a concessão da ordem a fim de que “SEJA ANALISADO O EXCESSO DE PRAZO E O CONSTRANGIMENTO ILEGAL E REVOGADO O MANDADO DE PRISÃO DO PACIENTE (...) COM A EXPEDIÇÃO DO COMPETENTE ALVARÁ DE SOLTURA”. Além disso, requer:
+    “[…] JÁ QUE HOUVE O ESVAZIAMENTO DA TORRE DE MONITORAMENTO ELETRONICO COM O SUMIÇO DO HD E DEMAIS COMPONENTES, […] SEJA DECRETADA A NULIDADE ABSOLUTA DO PROCESSO COM FULCRO NO ART. 564, INCISO III, ‘b’ DO CPP EM SEDE DE PLANTÃO;
+    […] SEJA DETERMINADO POR ESTE MINISTRO RELATOR, AO JUIZ COATOR DE ‘PISO’, A APURAÇÃO POR ACAREAÇÃO COM A REALIZAÇÃO DE UMA AUDIÊNCIA ESPECIAL COM O PERITO DO IML (...); O INSPETOR DE POLÍCIA DA 74ª DP (...); E O DELEGADO TITULAR DA 74ª DP, COM SEUS RESPECTIVOS LIVROS TOMBOS, PARA TENTAR FAZER CUMPRIR A DETERMINAÇÃO DO V. ACÓRDÃO NO HC N.º 0028844-91.2019.8.19.0000 [...]”.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. A petição inicial não foi instruída com cópia do acórdão do Tribunal estadual e do inteiro teor do acórdão do STJ. Circunstância que não permite a exata compreensão da controvérsia, assim como atrai a orientação jurisprudencial do STF no sentido de que constitui ônus da parte impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+                            Relator
