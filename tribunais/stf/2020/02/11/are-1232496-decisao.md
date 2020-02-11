@@ -1,0 +1,18 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUNAL DE CONTAS ESTADUAL. LEI ESTADUAL N. 5.888/2009. ATRASO NA PRESTAÇÃO DE CONTAS MUNICIPAL. BLOQUEIO DE CONTAS. PRINCÍPIO DA SIMETRIA. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Piauí:
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. BLOQUEIO DE CONTAS MUNICIPAIS. ATRASO NAS PRESTAÇÕES DE CONTAS. MEDIDA IRRAZOÁVEL. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. 1. A organização político - administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição (texto do art. 18 da CF/88). 2. O bloqueio de contas de um município é uma medida irrazoável, uma vez que os valores depositados em contas versam sobre receitas vinculadas aos interesses de toda a comunidade a que se destinam, e não para saldar dividas com determinados credores ou condicionar o cumprimento de obrigação, evidenciando verdadeira penhora de dinheiro público. 3. Segurança concedida” (fl. 127, e-doc. 1).
+    Os embargos de declaração opostos foram conhecidos “apenas para fins de prequestionamento, mas para negar-lhes provimento, mantendo-se o acórdão embargado em todos os seus termos” (fls. 161-165, e-doc. 1).
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o inc. IX do art. 49, o inc. II do art. 71 e o art. 75 da Constituição da República (fl. 187, e-doc. 1).
+    Argumenta que, “com o objetivo de auxiliar a Corte de Contas a cumprir sua missão institucional, a Lei n.º 5.888/09, especificamente seu art. 86, inciso IV, previu a possibilidade de adoção de medidas cautelares, entre elas o bloqueio das contas bancárias dos entes e órgãos públicos no caso de atraso injustificado no envio das prestações de contas” (fl. 190, e-doc. 1).
+    Assevera que “o Tribunal de Contas detém a atribuição de poderes explícitos, tal como enunciado no dispositivo constitucional citado [art. 71 da Constituição da República], reconhecendo-lhe a titularidade de meios destinados a viabilizar a adoção de medidas cautelares vocacionadas a conferir real efetividade às suas deliberações finais, permitindo, assim, que se neutralizem situações de lesividade, atual ou iminente, ao erário” (fl. 193, e-doc. 1).
+    Sustenta que “o desprezo e resistência na obrigação de prestar contas da res pública foi constante, de tal modo que emergiu como inadimplente na prestação de contas solicitadas” (fl. 194, e-doc. 1).
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 284 do Supremo Tribunal Federal (fl. 230, e-doc. 1).
+    O agravante ressalta que “houve ampla e profunda fundamentação do recurso. Impossível arguir fundamentação insuficiente no mesmo. Outrossim, houve demonstração da expressa violação aos dispositivos constitucionais” (fl. 241, e-doc. 1).
+    Aponta que, “não obstante os claros dispositivos legais que impõe ao gestor público a inafastável obrigação de prestar contas perante o Tribunal de Contas, o representante do ente ora impetrante, nega-se a apresentar documentos necessários para apreciação da sua gestão e que daria transparência à sua atuação” (sic, fl. 242, e-doc. 1).
+    4. Vista à Procuradoria-Geral da República (inc. XV do art. 52 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de fevereiro de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
