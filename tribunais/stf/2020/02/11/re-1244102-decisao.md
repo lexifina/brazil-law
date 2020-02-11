@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Mauro Viecili. Aparelhado o recurso na afronta ao art. 8º, II e III, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem decidiu a controvérsia nos seguintes termos:
+    “CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. ABRANGÊNCIA DA DECISÃO. LIMITAÇÃO À BASE TERRITORIAL DO SINDICATO AUTOR. Tratando-se de ação coletiva movida por sindicato, os efeitos da sentença se estendem a todos os substituídos, mas apenas no âmbito da representação geográfica ou base territorial do sindicato. Não comprovado o vínculo da parte exequente ao sindicato que ajuizou a ação coletiva, carece ela de legitimidade para promover a execução do título judicial.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que “Os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. I – Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos” (RE 883642 RG, Relator(a): Min. Ministro Presidente, julgado em 18.6.2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-124 DIVULG 25.6.2015 PUBLIC 26.6.2015).
+    No que diz com a limitação territorial, ao julgamento do ARE 796.473/RG, Rel. Min. Gilmar Mendes, Pleno, DJe 21.10.2014, esta Suprema Corte decidiu pela inexistência de repercussão geral da matéria relacionada aos limites territoriais da eficácia de decisão proferida em ação coletiva. O acórdão está assim ementado:
+    “PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. LIMITES TERRITORIAIS DA COISA JULGADA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 18 E 125 DA CONSTITUIÇÃO FEDERAL. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. REPERCUSSÃO GERAL REJEITADA.”
+    Por seu turno, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
