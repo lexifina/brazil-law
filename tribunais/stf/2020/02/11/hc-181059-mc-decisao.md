@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Edvaldo Ramos Nobre Filho prestou as seguintes informações:
+     O Juízo da Primeira Vara da Comarca de Penápolis/SP, no processo nº 0001002-25.2018.8.26.0438, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 14 de fevereiro de 2018, ante a suposta prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas) e 12 (posse irregular de arma de fogo de uso permitido) da Lei nº 10.826/2003. Destacou a quantidade e a natureza dos entorpecentes apreendidos – 1 tijolo de maconha (660,5 gramas), 2 porções de crack (6,56 gramas) e 1 porção de cocaína (91,3 gramas). Realçou os maus antecedentes do paciente. Assentou necessária a custódia para garantir a ordem pública.
+    Condenou-o a 6 anos e 6 meses de reclusão, em regime inicial de cumprimento fechado, e 550 dias-multa, em razão do cometimento dos delitos mencionados. Deixou de reconhecer o direito de recorrer solto, ressaltando persistirem os motivos ensejadores da prisão.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 557.721/SP, indeferido liminarmente pelo Relator.
+    Os impetrantes sustentam a desproporcionalidade da preventiva. Sublinham ausentes os requisitos versados no artigo 312 do Código de Processo Penal. Apontam o excesso de prazo da custódia, a perdurar por quase 2 anos. Sublinham inexistir previsão para o julgamento de apelação interposta.
+    Requerem, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a aplicação das cautelares versadas no artigo 319 do Código de Processo. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 6 de fevereiro de 2020, revelou estar pendente de exame apelação interposta pela defesa.
+    A etapa é de apreciação da medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, considerada a quantidade e a natureza de entorpecentes apreendidos – 1 tijolo de maconha (660,5 gramas), 2 porções de crack (6,56 gramas) e 1 porção de cocaína (91,3 gramas) –, indicam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução de pena, prender – foi justificada, atendendo-se ao figurino legal.
+    O paciente está preso, sem culpa formada, desde 14 de fevereiro de 2018, ou seja, há 1 ano, 11 meses e 27 dias. Surge o excesso de prazo. A preventiva há de ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    A superveniência de decisão condenatória recorrível não afasta a natureza preventiva da prisão. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a prisão oriunda da condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja custodiado por motivo diverso da prisão preventiva formalizada no processo nº 0006904-57.2013.8.26.0268, da Primeira Vara da Comarca de Penápolis/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 11 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
