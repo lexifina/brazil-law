@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “DIREITO PROCESSUAL CIVIL. ARROLAMENTO SUMÁRIO. PARTILHA AMIGÁVEL. FORMAL DE PARTILHA. EXPEDIÇÃO. PRÉVIA QUITAÇÃO DOS TRIBUTOS. DESNECESSIDADE. SENTENÇA MANTIDA.
+    1. O art. 659, § 2º, do CPC/2015 excepciona o disposto no art. 192 do CTN, não se fazendo mais necessária a prévia comprovação de pagamento dos débitos fiscais para a expedição do formal de partilha, no caso de arrolamento sumário, na hipótese de partilha amigável, devendo a Fazenda Pública buscar satisfazer seus créditos tributários pelos procedimentos administrativos, consoante os ditames legais.
+    2. Recurso conhecido e desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 146, III, b, da CF. Sustenta que normas gerais sobre direito tributário devem ser veiculadas por lei complementar.
+    A pretensão recursal não merece prosperar. Incide, na hipótese, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. No caso, o acórdão recorrido consignou o seguinte:
+    “Não obstante a previsão constante no Código de Processo Civil revogado de que a partilha somente podia ser homologada mediante a prova de quitação dos débitos tributários atinentes aos bens objetos da partilha, o Código Processual atual ditou nova regra para a partilha amigável, realizada pelo rito sumário, ao estabelecer que sua homologação pelo magistrado dar-se-á de plano, sendo o Fisco intimado, posteriormente, para o lançamento administrativo do imposto de transmissão e outros tributos porventura incidentes, conforme dispõem os artigos 659, caput e § 2º, 660 e 663, todos do Código de Processo Civil, in verbis:
+    […]
+    Diante disso, evidente que o artigo 659, § 2º, do Código de Processo Civil excepciona o disposto no artigo 192 do Código Tributário Nacional, não se fazendo mais necessária a prévia comprovação de pagamento dos débitos fiscais para a expedição do formal de partilha, no caso de arrolamento sumário, na hipótese de partilha amigável, devendo a Fazenda Pública buscar satisfazer seus créditos tributários pelos procedimentos administrativos, consoante os ditames legais.”
+    Com efeito, dissentir das conclusões adotadas pelo Tribunal de origem demandaria tão somente o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual. No mesmo sentido, cito as seguintes decisões monocráticas: RE 1.241.584/DF, Rel. Min. Alexandre de Moraes; RE 1.231.646/DF, Rel. Min. Edson Fachin; RE 1.218.108/DF, Rel. Min. Ricardo Lewandowski; ARE 1.216.638/DF, Relª. Minª. Cármen Lúcia; ARE 1.210.691/DF, Relª. Minª. Rosa Weber; ARE 1.076.848/DF, sob a minha relatoria.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 11 de fevereiro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
