@@ -1,0 +1,31 @@
+Recurso Especial em Agravo de Instrumento n. 1015107-60.2018.8.11.0000
+RECORRENTE SPE SANTA LUCIA TRANSMISSORA DE ENERGIA S. A.
+RECORRIDO CONCESSIONÁRIA ROTA DO OESTE S. A.
+Vistos, etc.
+Trata-se de Recurso Especial (ID 28370970), com pedido de efeito suspensivo, interposto por SPE SANTA LUCIA TRANSMISSORA DE ENERGIA S. A., com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Primeira Câmara de Direito Privado assim ementado (ID 8471121):
+“AGRAVO DE INSTRUMENTO – SERVIDÃO ADMINISTRATIVA- IMISSÃO PROVISÓRIA NA POSSE - PRAZO LEGAL DE IMISSÃO 120 DIAS A CONTAR DA DECLARAÇÃO DE URGÊNCIA – PRETENSÃO AJUIZADA MUITO APÓS O PRAZO LEGAL DO DECRETO – LEI 3.365/41 – URGÊNCIA AFASTADA – RECURSO PROVIDO. “[...] A imissão provisória na posse em imóvel sobre o qual se constitui servidão administrativa para instalação de linhas de transmissão de energia requer alegação de urgência, com requerimento tempestivo de imissão provisória na posse, além do depósito do valor encontrado em avaliação judicial prévia”. (TJSP; Agravo de Instrumento 2018473-73.2018.8.26.0000; Relator (a): Vicente de Abreu Amadei; Órgão Julgador: 1a Câmara de Direito Público; Foro de Tupã - 1a Vara Cível; Data do Julgamento: 06/03/2018; Data de Registro: 06/03/2018) [...]”.[...]”. NILZA MARIA PÔSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 05/02/2019, Publicado no DJE 08/02/2019)” “O art. 15 do Decreto-Lei no 3.365/1941 estabelece como requisitos para deferimento da liminar (a) alegação de urgência, (b) propositura da ação dentro do prazo legal e (c) depósito de quantia arbitrada nos termos do art. 685 do CPC. Faltando um deles, a liminar será indeferida. 2. Os §§ 2o e § 3o do citado art. 15, além de fixar um prazo final para o pedido de desapropriação (120 dias), criam também uma norma proibitiva, ou seja, que veda a concessão da imissão provisória quando decorrido o prazo legal, contado a partir do ato de urgência” (TJ-MT - AI: 00343975920108110000 34397/2010, Relator: DES. SEBASTIÃO DE MORAES FILHO, Data de Julgamento: 02/06/2010, QUINTA CÂMARA CÍVEL, Data de Publicação: 14/06/2010)” (N.U 1015107-60.2018.8.11.0000, DES. SEBASTIAO BARBOSA FARIAS, Primeira Câmara de Direito Privado, Julgado em 16/07/2019, Publicado no DJE 23/07/2019)
+Os Embargos de Declaração ID 8878383 foram rejeitados conforme ementa de ID 22335969.
+Alega violação aos artigos 15 do DL n. 3.365/41; 9o, 371, 372 e 1.029 do Código de Processo Civil, bem como divergência jurisprudencial, aduzindo que o alegado excesso de prazo para decretar a urgência da medida não pode impedir a concessão da liminar relacionada a servidão administrativa.
+Recurso tempestivo (ID 28448490) e preparado (ID 28504986).
+Contrarrazões juntadas conforme ID 32713992.
+Pedido de efeito suspensivo indeferido, conforme ID 28634561.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ato decisório não definitivo (Súmula 735 do STF)
+Nos termos do artigo 105, inciso III da Constituição Federal, compete ao Superior Tribunal de Justiça à aplicação e à uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de Recurso Especial tratando-se de acórdão proferido em sede de medida liminar, ante o caráter precário da decisão.
+In casu, o órgão fracionário negou provimento ao Agravo de Instrumento interposto pela parte Recorrente, contra a decisão do Juízo de primeiro grau que na Ação de Constituição de Servidão Administrativa fundada em declaração de utilidade pública n. 1031894-41.2018 que “deferiu a liminar reivindicada e imissão de posse, da “área localizada na BR 163, KM 484 + 865 metros e KM 403 + 765 metros, além das faixas dos acessos de serviços existentes e/ou a serem constituídos na BR 163, no município de Acorizal/MT, para construção da linha de transmissão de energia elétrica sobre área de responsabilidade da empresa Requerida (SPE SANTA LUCIA TRANSMISSORA DE ENERGIA S.A.), mediante o prévio pagamento indenizatório de 15.021,85 (quinze mil, vinte e um reais e oitenta e cinco centavos) a ser depositado judicialmente na Conta Única vinculada ao presente feito, sem prejuízo do valor definitivo a ser apurado ao final da demanda”.
+Neste caso, a decisão é provisória, incidindo, por analogia, a Súmula n. 735/STF, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”. Confira-se:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MEDIDA LIMINAR. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela ausência dos requisitos autorizadores da suspensão da liminar que deferiu a imissão da agravada na posse do imóvel. Alterar esse entendimento demandaria reexame do conjunto fático-probatório, vedado em recurso especial.
+3. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. Agravo interno a que se nega provimento.” (AgInt no AREsp 1192819/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/04/2018, DJe 16/04/2018) (g.n.)
+Portanto, no tocante à aventada violação aos artigos 15 do DL n. 3.365/41; 9o, 371 e 372 do CPC, inadmissível o recurso, face ao óbice da Súmula 735/STF.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 11 de fevereiro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+IX
