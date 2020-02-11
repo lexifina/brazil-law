@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1923, de 7 de fevereiro de 2020
+Altera a Instrução Normativa SRF nº 121, de 11 de janeiro de 2002, a Instrução Normativa RFB nº 1.291, de 19 de setembro de 2012, e a Instrução Normativa RFB nº 1.612, de 26 de janeiro de 2016, que dispõem sobre regimes aduaneiros especiais.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e o art. 92 da Lei nº 10.833, de 29 de dezembro de 2003, e tendo em vista o disposto nos arts. 420 a 426 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
