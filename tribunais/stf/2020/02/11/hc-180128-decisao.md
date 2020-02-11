@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Joel Ilan Paciornik, assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+    1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal – STF e do próprio Superior Tribunal de Justiça – STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+    2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal – CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+    3. A prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do paciente, evidenciadas pela natureza e quantidade das drogas apreendidas – 32,16g de cocaína, 0,7g de crack e quantia em dinheiro. Além do mais, o paciente possui outros registros criminais.
+    4. A prisão processual está devidamente fundamentada na garantia da ordem pública e para evitar reiteração delitiva, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação. Precedentes.
+    5. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+    6. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+    7. Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/06. A prisão foi convertida em preventiva. Contra a decisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio HC no Superior Tribunal de Justiça, não conhecido.
+    3. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “não estão presentes os requisitos autorizadores para a prisão preventiva, não tendo a custódia qualquer função instrumental, sendo patente antecipação de uma indevida pena”.
+    4. A defesa requer a concessão da ordem a fim de “fazer impedir o constrangimento ilegal que o [paciente] vem sofrendo, (…) expedindo-se, imediatamente, o competente ALVARÁ DE SOLTURA c/c as medidas diversas da prisão se necessário, a fim de que seja o paciente posto em liberdade”.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. As instâncias de origem estão alinhadas com o entendimento do STF no sentido de que a fundada probabilidade de reiteração criminosa justifica a decretação da custódia preventiva (HC 131.005-AgR, Rel. Min. Edson Fachin; HC 131.002, Rel. Min. Gilmar Mendes; HC 115.930, Rel. Min. Ricardo Lewandowski; HC 111.009, Relª. Minª. Cármen Lúcia). Ademais, a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux). Nesse sentido, transcrevo as seguintes passagens do decreto prisional:
+    “[...]
+    Segundo consta dos autos, os investigados possuem péssimos antecedentes criminais. (…) Welton cumpriu pena recentemente em regime aberto nos autos da Execução de Sentença 2885-50. 2016.8.26.0026. Diante disso, conclui-se que há necessidade de acautelar-se a ordem pública, levando-se em conta que os investigados há algum tempo vem se dedicando à prática de ilícitos. Grande é a quantidade de entorpecentes apreendidos a demonstrar o envolvimento com o meio ilícito, forma ativa, portanto, em liberdade, a ordem pública está em perigo.
+    […].”
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 11 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+          Relator
