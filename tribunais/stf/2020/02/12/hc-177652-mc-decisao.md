@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – RELEVÂNCIA NÃO DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Federal da Subseção Judiciária de Ponta Porã/MS, no processo nº 0002486-04.2016.4.03.6005, determinou a prisão preventiva do paciente, ocorrida em 30 de julho de 2018, e de outras pessoas, ante a suposta prática das infrações previstas nos artigos 2º, cabeça, combinado com o § 4º, incisos II, IV e V (integração a organização criminosa com causas de aumento alusivas ao concurso de funcionários públicos, à manutenção com outros grupos independentes e ao caráter transnacional), da Lei nº 12.850/2013, 180, cabeça (receptação), 297 (falsificação de documento público), 298 (falsificação de documento particular), 299 (falsidade ideológica) e 334-A (contrabando) do Código Penal, bem assim o 70 (instalação ou utilização de telecomunicações, sem observância do disposto na Lei de regência e nos regulamentos) da Lei nº 4.117/1962. Ressaltou conteúdo de interceptações telefônicas, por meio do qual evidenciado o envolvimento em organização criminosa especializada no contrabando de cigarros. Concluiu demonstrado o esquema ilícito, mencionando tratar-se de grupo com diversos integrantes, bem articulado, com participação de policiais rodoviários federais e atuação mediante divisão de tarefas e uso de armamento de grosso calibre. No tocante ao paciente, frisou ser fornecedor do material, proprietário da empresa Liza S.A, distribuidora de cigarros sediada no Paraguai. Assentou indispensável a custódia para garantir a ordem pública.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 513.143/MS. A Sexta Turma indeferiu a ordem.
+    O impetrante sustenta insubsistentes os fundamentos do ato que implicou a prisão. Articula com o artigo 93, inciso IX, da Constituição Federal. Alude ao deferimento, por Vossa Excelência, de medidas acauteladoras nos habeas corpus nº 174.198 e 175.371, no que revogadas as custódias de corréus. Diz não haver notícia do oferecimento de denúncia contra o paciente, a revelar excesso de prazo da preventiva. Destaca que o paciente é estrangeiro, de nacionalidade paraguaia, e reside naquele país. Aduz a iminência de ser cumprido o mandado de prisão.
+    Requer, no campo precário e efêmero, o afastamento da prisão. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal Regional Federal da 3ª Região, realizada em 11 de fevereiro de 2020, não revelou oferecimento de denúncia contra o paciente.
+    Nos habeas de nº 174.198 e 175.371, impetrados em favor de corréus, Vossa Excelência acolheu, em 16 de agosto e 17 de setembro de 2019, os pedidos de liminar para afastar as custódias, considerado o excesso de prazo. No tocante ao primeiro, não consta parecer da Procuradoria-Geral da República. Quanto ao segundo, a Primeira Turma, no dia 5 de novembro último, inadmitiu a impetração, revogando a liminar implementada.
+    Não há, no processo, notícia acerca do cumprimento do mandado de prisão.
+    A etapa é de apreciação da medida de urgência.
+    2. O Juízo, ao determinar a preventiva, aludiu a conteúdo de interceptações telefônicas por meio do qual demonstrado o envolvimento em organização criminosa especializada no contrabando de cigarros, com participação de policiais rodoviários federais, mediante divisão de tarefas e utilização de armamento de grosso calibre. Frisou ser o paciente fornecedor do grupo delitivo, no que proprietário da empresa Liza S.A, distribuidora de cigarros sediada no Paraguai. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o ato atacado. A inversão da ordem do processo-crime no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    No tocante ao excesso de prazo da custódia, não há notícia do cumprimento do mandado de prisão expedido contra o paciente. Surge irrelevante o que articulado.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 12 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
