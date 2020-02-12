@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Paraná, assim ementado (eDOC 02, p. 101-102):
+    APELAÇÃO CRIMINAL - CONDENAÇÃO PELA PRÁTICA DE DISPARO DE ARMA DE FOGO EM VIA PÚBLICA (ARTIGO 15 DA LEI 10826/03) - PRELIMINAR DE NULIDADE DO PROCESSO, POR FALTA DE INTIMAÇÃO DA EXPEDIÇÃO DA CARTA PRECATÓRIA REJEITADA - PREJUÍZO NÃO DEMONSTRADO, TENDO EM CONTA QUE FOI NOMEADO DEFENSOR DATIVO PARA A INQUIRIÇÃO DAS TESTEMUNHAS DEPRECADAS - CASO EM QUE A EVENTUAL NULIDADE SERIA RELATIVA - APLICAÇÃO AO CASO DO DISPOSTO NA SÚMULA 155 DO STJ E ARTIGO 563 DO CPP - NO MÉRITO, AUTORIA E MATERIALIDADE INQUESTIONADAS - RÉU CONFESSO - PROVAS PRODUZIDAS QUE CORROBORAM A CONFISSÃO - ALEGAÇÃO DE SER INCABÍVEL A PENA DE PERDA DO CARGO OU FUNÇÃO PÚBLICA DESCABIDA - RÉU AFIRMOU QUE, QUANDO EFETUOU OS DISPAROS CONTRA O CARRO ONDE SE ENCONTRAVAM AS VÍTIMAS, ESTAVA AGINDO COMO POLICIAL CIVIL - PREENCHIDOS OS REQUISITOS DO ARTIGO 92 DO CPP - SENTENÇA CONFIRMADA PELOS PRÓPRIOS FUNDAMENTOS - DOSIMETRIA DA PENA ESCORREITA.
+    RECURSO DESPROVIDO
+    - "(...) 1. A falta de intimação do patrono do réu à oitiva de testemunha por meio de carta precatória, desde que nomeado defensor dativo à realização do ato, constitui nulidade relativa (Súmula 155/STF), motivo pelo qual deve ser suscitada até as alegações finais (art. 571, inciso II, do CPP), sob pena de preclusão. 2. Ordem denegada." (HC 82.212/PE, 5.ª Turma, Rel. Min. ARNALDO ESTEVES LIMA, DJ de 10/12/2007.)
+    - Sumula 155, do STJ: "É relativa a nulidade do processo criminal por falta de intimação da expedição de precatória para inquirição de testemunhas."
+    - "(...). 1. Para o reconhecimento da excludente de ilicitude do estrito cumprimento do dever legal, a conduta do agente deve se mostrar absolutamente necessária e proporcional, o que não ocorre quando o agente desfere diversos tiros em direção ao veículo ocupado por pessoas, que não ofereciam qualquer risco a ele mesmo ou aos demais presentes. 2. Resta configurado o delito previsto no art. 15, da Lei n. 10.826/03 quando o agente, deliberadamente, efetua disparos de arma de fogo em via pública, não exigindo o tipo penal o dolo específico de lesionar alguém.” (TJ-MG - APR: 10079083984058001 MG , Relator: Maria Luíza de Marilac, Data Julg.26/02/2013, Câm.Crim.Isol./3ª CÂM.CRIM, Data de Publicação: 06/03/2013)”
+    Os embargos de declaração foram rejeitados (eDOC 02, p. 137-138).
+    No recurso extraordinário (eDOC 02, p. 180-202), interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 5°, LIV, LV, LX e LXIII; 37, II; e 93, IX, todos da Constituição Federal.
+    Sustenta-se, em suma, que a confissão do recorrente não pode servir como fundamento para exonerá-lo de cargo público, e que não poderia ser considerado funcionário público à época dos fatos. Aponta, ainda, nulidade processual decorrente da ausência de intimação acerca da expedição de carta precatória para oitiva de testemunhas.
+    O apelo extremo foi inadmitido na origem por pretender análise de ofensa reflexa ao Texto Constitucional, bom como por ausência de prequestionamento, a atrair a incidência da Súmula 282 do STF (eDOC 03, p. 01-03).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Consabido, a admissibilidade dos recursos é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchido os pressupostos processuais.
+    De plano, verifica-se que a negativa de seguimento do apelo extremo fundou-se na ausência de prequestionamento, bem como na ofensa reflexa à Constituição. Ressalto, no entanto, que o agravante deixou de impugnar esse último fundamento, limitando-se a sustentar a que a matéria constitucional foi prequestionada e que o recorrente demonstrou o prejuízo.
+    O agravo, portanto, não ataca todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF.
+    Ante o exposto, nos termos do art. 21, § 1º, do RISTF, não conheço do presente recurso de agravo.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
