@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (eDOC 4, p. 46):
+    “AGRAVO DE INSTRUMENTO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. ERRO MÉDICO. ÔNUS DA PROVA. INVERSÃO. HIPOSSUFICIÊNCIA TÉCNICA E PROBATÓRIA DO AUTOR. CONFIGURAÇÃO.
+    Como é cediço, o autor tem o ônus de produzir provas sobre os fatos constitutivos do seu direito alegado em juízo, enquanto o réu tem o ônus de produção probatória de eventuais fatos impeditivos, modificativos ou extintivo do autor.
+    O disposto no art. 373, §1°, do CPC, prevê a possibilidade de distribuição dinâmica do ônus da prova (art. 373, § 1º, do CPC), ante o exame, no caso concreto, de qual parte litigante possui as melhores condições para a produção da prova dos fatos alegados em juízo.
+    In casu, considerando a hipossuficiência técnica do autor em produzir provas referentes ao direito que postula, quanto ao acerto ou desacerto do procedimento médico empregado, bem como a maior facilidade do réu no acesso ao prontuário médico, a inversão do ônus da prova determinada pelo Juízo não a quo comporta qualquer censura.
+    Agravo de instrumento desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 5, p. 20).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, § 6º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 6, p. 9):
+    “... o requerente pretende se ver eximido não o de trazer aos autos o seu prontuário médico, mas sim de comprovar, em essência, a própria existência dos pressupostos da responsabilidade civil extracontratual do Estado.
+    Com o devido respeito e acatamento, deve-se reconhecer que o acórdão embargado apresenta omissões por não considerar o contexto fático da demanda e também por não se atentar ao que dispõe o art. 37, § 6º, da Constituição Federal, que não justifica, nos casos em que se pretende a responsabilização civil extracontratual do Estado, a inversão do ônus da prova.”
+    A Presidência do TJDFT inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 279 do STF (eDOC 6, p. 44-45).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do agravo de instrumento, asseverou que (eDOC 4, p. 49):
+    “Na origem, o autor ajuizou ação de indenização, requerendo a condenação do Distrito Federal por danos materiais e morais que alega sofridos, em razão de erro médico na realização de cirurgias de catarata, a primeira no olho direito, ocorrida em 28/09/2014, e a segunda no olho esquerdo, ocorrida em 17/10/2014.
+    Alega que reportou aos agentes públicos da “Carreta da Visão” sobre o desconforto nos olhos, após a realização das cirurgias, contudo, não obteve tratamento adequado, sendo ainda informado que o incômodo estaria dentro da normalidade.
+    Em razão da piora no quadro clínico e com a ajuda financeira de familiares, procurou atendimento particular, no qual foi constatado o erro médico, razão pela qual se submeteu a novo procedimento cirúrgico, entretanto, a sua visão não foi totalmente restabelecida. Destaca que ainda terá de se submeter a outras cirurgias para a reparação das lesões sofridas.
+    Delimitado o objeto da controvérsia, verifico que a irresignação da parte agravante não comporta acolhimento, isso porque o entendimento externado pelo Juízo não comporta qualquer modificação a quo diante das circunstâncias fáticas apresentadas na origem.”
+    Como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “EMENTA: Direito Administrativo. Agravo interno em recurso extraordinário. Responsabilidade da administração. Dano moral e material. Ausência de questão constitucional. Análise de legislação infraconstitucional e reapreciação do material fático-probatório. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (RE 933.535-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 13.3.2017).
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Administrativo. Responsabilidade civil. Queda em bueiro. Danos morais. Elementos da responsabilidade civil demonstrados na origem. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisprudência da Corte firmou-se no sentido de que as pessoas jurídicas de direito público respondem objetivamente pelos danos que causarem a terceiros, com fundamento no art. 37, § 6º, da Constituição Federal, tanto por atos comissivos quanto por atos omissivos, desde que demonstrado o nexo causal entre o dano e a omissão do Poder Público. 2. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido.” (ARE 931.411-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 28.4.2016).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
