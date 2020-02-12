@@ -1,0 +1,37 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 126):
+    “ADMINISTRATIVO - RESSARCIMENTO DE DANOS AO ERÁRIO - PAGAMENTO INDEVIDO DE HORAS EXTRAS A FUNCIONÁRIO COMISSIONADO - AFRONTA A DISPOSIÇÃO DE LEI MUNICIPAL - PAGAMENTO INCOMPATÍVEL COM A NATUREZA DO CARGO COMISSIONADO - SENTENÇA DE PROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 155).
+    No recurso extraordinário, com fundamento no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa aos arts. 5º; 7º, VIII e XVI; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 4, p. 42/44):
+    “a Constituição Federal de 1988 assegura, em seu art. 7º, que trata dos direitos dos trabalhadores urbanos e rurais, a remuneração do serviço extraordinário superior, no mínimo, em cinquenta por cento à do normal (inciso XVI) e a duração do trabalho normal em jornada não superior a 8 (oito) por dia (inciso VIII). A combinação de ambos os dispositivos garante a remuneração pelo trabalho efetivamente prestado em horas extraordinárias.
+    (…)
+      A restrição de direito veiculada na norma municipal, por óbvio, NÃO FOI RECEPCIONADA PELA A CONSTITUIÇÃO FEDERAL DE 1988. Lei Municipal que RESTRINGE DIREITO não tem o condão de suplantar dispositivo constitucional ainda que superveniente. Tal situação enseja a declaração de não recepção.
+    E mais, a não recepção aponta para o efetivo descumprimento de preceito fundamental, eis que viola o art. 1º, IV, e o art. 5º, caput, da Constituição Federal. Por essa razão, a Lei Municipal arguida não se prestaria a fundamentar r. decisão judicial combatida no presente recurso.”
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário por entender que a análise da controvérsia demandaria a interpretação de normas infraconstitucionais (eDOC 4, p. 167-168).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 3, p. 127-129):
+    “Segundo consta da inicial, o Tribunal de Contas do Estado de São Paulo constatou que na gestão da ré, Dalvani Analia Nasi Caramez, junto Prefeitura Municipal de Itapevi, no período de janeiro/2001 a dezembro/2004, foi determinado o pagamento indevido de 110 horas extras a servidores comissionados, causando prejuízo ao erário municipal.
+    Busca a municipalidade o ressarcimento do prejuízo causado.
+    A respeitável sentença julgou procedente a ação e deve ser mantida.
+    A Lei Municipal n° 223/1974 dispôs:
+    Art. 148. O funcionário convocado para trabalhar fora do horário de seu expediente ou em dias que não sejam de expediente normal, terá direito a gratificação por serviços extraordinários.
+    §1°. O exercício de cargo em comissão ou de função gratificada exclui a gratificação por serviços extraordinários. (g.n.)
+    Assim, da leitura da norma acima transcrita resta hialina a ilegalidade do pagamento e consequente dano ao erário.
+    Contudo, a apelante vem sustentando sua legalidade com fundamento na Constituição Federal, mas não lhe assiste razão.
+    Ora, o comissionado é uma função pública exercida, por permissivo constitucional, de maneira transitória e estritamente de confiança do Administrador.
+    Com efeito, a interpretação sistemática dos incisos II e V do art. 37 da Constituição Federal revela as características de proximidade, de pessoalidade e de irrestrita confiança entre ocupante de cargo comissionado e autoridade que o nomeia, impedindo a percepção de horas extras, por absoluta incompatibilidade lógica e, também, por inegável inviabilidade de controle de horário de trabalho.
+    Assim, é incompatível coma natureza dos cargos comissionados o pagamento de horas extras, pois essa relação de trabalho é estabelecida com base na confiança, demandando disponibilidade de horário e dedicação integral.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, e o exame da legislação local aplicável à espécie (Lei Municipal 223/1974), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. VALORES PERCEBIDOS INDEVIDAMENTE. DEVOLUÇÃO AO ERÁRIO. MÁ-FÉ COMPROVADA NA ORIGEM. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DA DECISÃO RECORRIDA. ACÓRDÃO RECORRIDO PUBLICADO EM 13.9.2013. Divergir do entendimento do Tribunal a quo no tocante à configuração de má-fé na percepção dos valores indevidos exigiria a reelaboração da moldura fática delineada no acórdão de origem, o que é vedado a esta instância extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes. Agravo regimental conhecido e não provido.” (ARE 795.633-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 21.8.2014).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. DEVOLUÇÃO AO ERÁRIO. VENCIMENTOS. COMPROVAÇÃO DE MÁ-FÉ. AUSÊNCIA DE CONTROVÉRSIA SOB A ÓTICA CONSTITUCIONAL. REEXAME DE PROVAS. SÚMULA 279/STF. A questão constitucional alegada no recurso extraordinário não foi objeto de análise pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. Ademais, para dissentir do entendimento do Tribunal de origem seria necessária nova apreciação dos fatos e do material probatório constantes dos autos. Incidência da Súmula 279/STF. Precedente. Agravo regimental a que se nega provimento.” (AI 593.460-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 12.12.2013).
+    Ademais, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Por fim, quanto à interposição do apelo extraordinário com base no art. 102, III, alínea c, da Constituição Federal, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal. Portanto, resta inviabilizado o recurso extraordinário.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
