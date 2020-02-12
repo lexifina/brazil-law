@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Porto Alegre. Aparelhado o recurso na afronta ao art. 30, I, II e VIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 765.586-AGR/RS, Rel. Min. Ellen Gracie, 2ª Turma, DJe 21.5.2010; ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012; e RE 587814 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 03.5.2017, cuja ementa transcrevo:
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DESLIGAMENTO DE ESTAÇÕES DE RÁDIO-BASE POR FALTA DE LICENÇA AMBIENTAL. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA NÃO CONFIGURADA. QUESTÃO DECIDIDA COM BASE NA INTERPRETAÇÃO DE LEI LOCAL (LEI MUNICIPAL Nº 8.896/2002) E NO EXAME DOS FATOS E DAS PROVAS CONSTANTES DOS AUTOS. SÚMULAS 279 E 280/STF. PRECEDENTES. 1. Em se tratando de supostas ofensas aos princípios do contraditório e da ampla defesa, o que se permite discutir nesta sede, em linha de princípio, é apenas a eventual inobservância ao núcleo de tais preceitos, seja em razão da absoluta inexistência de oportunidade para o seu respectivo exercício, seja em decorrência da manifesta insuficiência dos instrumentos existentes para garantir o seu cumprimento. No caso em exame, não se verifica qualquer ofensa aos termos da Constituição Federal. 2. Dissentir da conclusão do Tribunal de origem e acolher a pretensão da agravante demandaria a análise da legislação local aplicável ao caso (Lei municipal nº 8.896/2002), bem como o reexame dos fatos e do material probatório constantes dos autos. Incidência das Súmulas 279 e 280/STF. Precedente. 3. Agravo interno a que se nega provimento.”
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
