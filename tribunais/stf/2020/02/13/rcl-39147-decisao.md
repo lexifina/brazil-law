@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada em face de acórdão do Tribunal Regional Federal da 1ª Região, que determinou a anulação de sentença para que o processo fosse remetido à origem para nova apreciação da demanda com observância da tese fixada pelo Supremo Tribunal Federal no RE 631.240, tema 350 da repercussão geral (“Prévio requerimento administrativo como condição para o acesso ao Judiciário”).
+    2. O reclamante alega inobservância da tese firmada no RE 631.240, uma vez que já haveria nos autos comprovação do prévio requerimento administrativo ao órgão previdenciário.
+    3. É o relatório. Decido.
+    4. De início, observo que a procuração anexada aos autos habilita o outorgado a representar a parte reclamante apenas na demanda originária (doc. 04, pp. 08). Deixo, no entanto, de determinar a emenda da inicial, tendo em vista a manifesta inviabilidade da reclamação.
+    5. Dispenso as informações, a citação do beneficiário do ato reclamado, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    6. É incabível a presente reclamação. Com efeito, o Código de Processo Civil de 2015, na linha das suas demais inovações relativas à evolução legislativa do sistema de precedentes, previu a possibilidade de ajuizamento da reclamação para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, ou de acórdão proferido em julgamento de recursos extraordinários repetitivos. Todavia, para tanto, deveriam ser esgotadas as instâncias ordinárias (art. 988, § 5º, II, do CPC/2015).
+    6.  O STF firmou entendimento no sentido de que a correta interpretação do dispositivo exige o percurso de todo o iter processual, ultimado na interposição de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015. Ou seja, é imprescindível que a parte tenha interposto todos os recursos cabíveis, até a última via processual que lhe é aberta. Nesse sentido, veja-se a Rcl 24.686-ED-AgR, Rel. Min. Teori Zavascki; Rcl. 30018, Rel. Min. Ricardo Lewandowski; Rcl. 28.690, Rel. Min. Alexandre de Moraes e Rcl. 27.437, Rel. Min. Luiz Fux.
+    7.  No caso dos autos, a reclamação impugna acórdão em apelação, que determinou o retorno do processo à primeira instância para devido processamento. Assim, não foram esgotadas as instâncias ordinárias, de modo que a reclamação não pode prosseguir.
+    8. Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, nego seguimento à reclamação. Defiro a gratuidade da justiça. Sem honorários, porquanto não citada a parte interessada.
+    9. Observo que, em caso de interposição de recurso, deve a parte promover a completa instrução da inicial, apresentando procuração que conceda ao advogado poderes suficientes para o ajuizamento da reclamação, sob pena de não conhecimento.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2020
+Ministro LUÍS ROBERTO BARROSO
+Relator
