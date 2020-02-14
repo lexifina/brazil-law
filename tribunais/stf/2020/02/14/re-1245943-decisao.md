@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. TAXA DE UTILIZAÇÃO POTENCIAL DO SERVIÇO DE EXTINÇÃO DE INCÊNDIO - TAXA DE INCÊNDIO. IMPOSSIBILIDADE. SERVIÇO ESSENCIAL E INDIVISÍVEL NÃO PODE SER CUSTEADO POR TAXA. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que, em sede de juízo de retratação, assentou:
+    “AGRAVO INTERNO. JUÍZO DE RETRATAÇÃO (ARTIGO 1.030, II, DO CPC.) PROFERIDO EM DECISÃO MONOCRÁTICA. PRELIMINAR DE OFENSA AO COLEGIADO. REJEIÇÃO. INAPLICABILIDADE DO ARTIGO 10 DO NCPC. SUSPENSÃO DO PROCESSO EM VIRTUDE DA ADI 44111MG. DESNECESSIDADE. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. TAXA DE INCÊNDIO. IMPOSSIBILIDADE DE SUA INSTITUIÇÃO POR ESTADOS E MUNICÍPIOS. TESE DEFINIDA PELO STF. REPERCUSSÃO GERAL. - Segundo o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE 6432.47/SP, no qual foi reconhecida a existência de repercussão geral, "Descabe introduzir no cenário tributário, como obrigação do contribuinte, taxa visando a prevenção e o combate a incêndios, sendo imprópria a atuação do Município em tal campo". - O julgamento foi realizado no âmbito do paradigma representado pelo RE 6432471SP, que deve, naturalmente, ser acatado por este Tribunal, em juízo de retratação, nos termos do artigo 1.030, II, do CPC. - Juízo de retratação exercido para em reexame necessário, reformar parcialmente a r. sentença e conceder a ordem pleiteada, suspendendo a exigibilidade do crédito relativo a taxa de incêndio para todos os imóveis da empresa autora, localizados no Estado de Minas Gerais. - Agravo interno desprovido.” (Doc. 33, p. 5)
+    Nas razões do apelo extremo, o Estado de Minas Gerais sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 145, II, da Constituição Federal. Alega, em síntese, que o entendimento alcançado pelo STF, ao jugar o RE 643.247 (Tema 16), não tem alcance para invalidar a taxa de incêndio criada pelo Estado.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    O Plenário Virtual desta Corte, no julgamento da ADI 2.908, Rel. Min. Cármen Lúcia, DJe de 21/10/2019, firmou entendimento no sentido de que o serviço de segurança contra incêndio não pode ser custeado por taxa, por ser atividade essencial geral e indivisível, de utilidade genérica, devendo ser custeada por imposto.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
