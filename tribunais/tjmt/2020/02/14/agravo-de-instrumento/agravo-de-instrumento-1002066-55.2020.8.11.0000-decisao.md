@@ -1,0 +1,29 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1002066-55.2020.8.11.0000
+AGRAVANTE: BANCO BRADESCO SA
+AGRAVADO: TOTTI TRANSPORTES LTDA - EPP, TOTTI PRESTADORA DE SERVIOS AGRICOLAS LTDA - ME
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pelo BANCO BRADESCO S/A, com o fito de suspender a decisão que, nos autos da Impugnação de Créditos de no 7792-86.2015.8.11.0037, apresentada pelo agravante incidentalmente ao pedido de recuperação judicial promovido por TOTTI TRANSPORTES LTDA – EPP e TOTTI PRESTADORA DE SERVIÇOS AGRÍCOLAS LTDA – ME, julgou parcialmente procedente a impugnação para retificar o quadro de credores e excluir da lide recuperacional os créditos garantidos por alienação fiduciária, ressalvada a manutenção das recuperandas na posse dos bens respectivos.
+Para tanto, o agravante aduz que não poderia a juíza de primeiro grau, a um só turno, excluir determinados créditos dos efeitos da recuperação judicial e manter os bens objeto de garantia fiduciária na posse das recuperandas, sob pena de inviabilizar a satisfação dos valores garantidos fiduciariamente.
+Afirma, ainda, que a essencialidade dos bens fiduciariamente alienados foi aduzida com base em documentos unilateralmente produzidos pelas agravadas, não havendo, portanto, prova robusta da tese acolhida pela julgadora a quo.
+Defende, por fim, a necessidade de delimitação de data específica para que a manutenção de posse tenha desfecho e os bens correspondentes possam ser reavidos pelo credor.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, não se observa a presença dos requisitos legais para a concessão da medida liminar, sobretudo a plausibilidade jurídica da argumentação recursal.
+Isso porque, embora o agravante afirme a unilateralidade das informações que fundamentaram o entendimento adotado pela juíza de primeira instância, não há qualquer argumento e, muito menos, prova capaz de abalar a conclusão de essencialidade dos bens mantidos em posse das devedoras.
+Registre-se que a jurisprudência do Superior Tribunal de Justiça é tranquila no sentido de que, embora os créditos garantidos por alienação fiduciária não se submetam aos efeitos da recuperação judicial, os bens correspondentes não podem ser bruscamente retirados do estoque societário se a medida prejudicar, de alguma forma, o soerguimento empresarial.
+A esse respeito, muito esclarece o informativo jurisprudencial de n.o 550 do Tribunal Superior:
+DIREITO EMPRESARIAL. NÃO SUBMISSÃO DE CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA AOS EFEITOS DE RECUPERAÇÃO JUDICIAL. Não se submetem aos efeitos da recuperação judicial os créditos garantidos por alienação fiduciária de bem não essencial à atividade empresarial. O art. 49, caput, da Lei 11.101/2005 estabelece que estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos. Por sua vez, o § 3o do mesmo artigo prevê hipóteses em que os créditos não se submeterão aos efeitos da recuperação judicial, entre eles, os créditos garantidos por alienação fiduciária. A jurisprudência do STJ, no entanto, tendo por base a limitação prevista na parte final do § 3o do art. 49 - que impede a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial - e inspirada no princípio da preservação da empresa, tem estabelecido hipóteses em que se abre exceção à regra da não submissão do crédito garantido por alienação fiduciária ao procedimento da recuperação judicial. De acordo com a linha seguida pelo STJ, a exceção somente é aplicada a casos que revelam peculiaridades que recomendem tratamento diferenciado visando à preservação da atividade empresarial, como, por exemplo, no caso em que o bem dado em alienação fiduciária componha o estoque da sociedade, ou no caso de o bem alienado ser o imóvel no qual se situa a sede da empresa. Em suma, justifica-se a exceção quando se verificar, pelos elementos constantes dos autos, que a retirada dos bens prejudique de alguma forma a atividade produtiva da sociedade. Caso contrário, isto é, inexistente qualquer peculiaridade que justifique excepcionar a regra legal do art. 49, § 3o, deve prevalecer a regra de não submissão, excluindo-se dos efeitos da recuperação judicial os créditos de titularidade da interessada que possuem garantia de alienação fiduciária. CC 131.656-PE, Rel. Min. Maria Isabel Gallotti, julgado em 8/10/2014.
+Logo, evidenciada a falta dos pressupostos exigidos, não há de se falar no reexame liminar da decisão agravada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intime-se, advertindo-se as agravadas do prazo de 15 (quinze) dias de que dispõem para a apresentação de resposta, bem como todos os litigantes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
+Cuiabá, 14 de fevereiro de 2020.
+Desa. Serly Marcondes Alves
+Relatora
