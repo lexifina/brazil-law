@@ -1,0 +1,37 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Mauro Atui Neto em favor de João Matheus Rodrigues da Silva, contra decisão monocrática da lavra do Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 560.468/SP.
+    O paciente foi preso preventivamente pela suposta prática do crime de roubo (art. 157, caput, do Código Penal).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), indeferiu liminarmente o HC 560.468/SP.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Alega inidônea fundamentação do decreto prisional, porquanto lastreada na gravidade abstrata do delito e ausentes os requisitos autorizadores. Aponta a possibilidade aplicação de medidas cautelares diversas da prisão. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+    A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+    O writ impetrado na origem deferiu em parte a liminar sob os seguintes fundamentos, verbis:
+    "[...]
+    prática de constrangimento ilegal.
+    Alega, em síntese, que o Paciente foi preso preventivamente pela suposta prática do crime previsto no artigo 157, "caput", na forma do artigo 71, ambos do Código Penal. Sustenta que a r. decisão carece de fundamentação, contrariando o disposto no art. 93, inciso IX, da Constituição Federal. Destaca que a r. decisão está fundada na gravidade abstrata do delito, pois ausente motivação concreta acerca da existência dos requisitos que autorizam a prisão cautelar. Assevera que não estão preenchidos os requisitos autorizadores da prisão preventiva, elencados no artigo 312, do CPP. Sustenta que a prisão preventiva deve ser substituída por qualquer das medidas cautelares previstas no artigo 319, do Código de Processo Penal. Pontua a necessidade de revisão da manutenção da prisão preventiva, com fundamento no artigo 316, do Código de Processo Penal. Requer, por fim, a revogação da prisão preventiva, por violação ao artigo 316, §único e artigo 282, §6°, ambos do Código de Processo Penal, com a imposição de medida cautelar alternativa, determinando-se a expedição do competente alvará de soltura clausulado.
+    Defere-se em parte a liminar requerida, apenas para determinar que a autoridade apontada coatora revise a necessidade da manutenção da prisão preventiva, nos termos do art. 316, § único, do Código de Processo Penal.
+    Trata-se de Paciente preso preventivamente pela suposta prática do crime de roubo, previsto no artigo 157, "caput", na forma do art. 71, ambos do Código Penal.
+    Verifica-se pela r. decisão de fls. 09/10 que a autoridade apontada coatora decretou a prisão preventiva do Paciente, por entender que estão presentes os requisitos ensejadores da custódia cautelar, a teor do disposto no artigo 312, do Código de Processo Penal.
+    [...]
+    Diante disso, convém mencionar que a r. decisão atacada encontra-se suficiente fundamentada, de modo que, até o presente momento, de rigor a manutenção da prisão cautelar, pois inviável a aplicação de quaisquer das medidas cautelares elencadas no artigo 319, do Código de Processo Penal.
+    Contudo, verifica-se que o Paciente teve a prisão preventiva decretada em 03/07/2019, e, ante a recentíssima entrada em vigor da Lei n° 13.964/2019, que acrescentou o parágrafo único ao art. 316, do Código de Processo Penal, tem-se que, decretada a prisão preventiva, como no presente caso, deverá o responsável por tal decisão (in casu, o Juízo de Primeiro Grau), revisar a necessidade de sua manutenção a cada 90 (noventa) dias, mediante decisão fundamentada, de ofício, sob pena de tornar a prisão ilegal.
+    Assim, nesse novo panorama estabelecido pela novatio legis, com urgência, determina-se à autoridade impetrada que reaprecie os motivos que fundamentaram a prisão preventiva, no prazo e nos termos da referida lei, bem como apresente as informações de praxe" (fls. 13-16).
+    Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+    Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+    No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+    Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.”
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte para indeferir liminarmente a impetração. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual indeferira liminar em habeas corpus impetrado naquela Corte Estadual.
+    Ao rejeitar o pedido liminar, o Tribunal de Justiça não reputou presentes requisitos autorizadores da imediata soltura do Paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Da decisão singular, a Defesa impetrou habeas corpus originário no Superior Tribunal de Justiça e, ante a negativa de seguimento, novo writ, desta feita neste Supremo Tribunal Federal. Constato, pois, não esgotada a jurisdição da Corte Superior, na medida em que o ato impugnado é decisão monocrática extintiva do writ, e não o resultado de julgamento colegiado.
+    Cumpriria à Defesa, pretendendo a reforma da decisão monocrática, ter aviado agravo regimental para que a questão fosse apreciada pelo órgão colegiado do STJ (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
