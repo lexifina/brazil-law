@@ -1,0 +1,13 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 547.491, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, preso preventivamente, foi condenado, em primeira instância, pela prática dos crimes previstos no “art. 14, caput c/c art. 12, caput, da Lei nº 10.826/03 c/c art. 33, caput c/c art. 40, VII c/c 35, caput, da Lei nº 11.343/06 c/c arts. 29 e 69, do Código Penalc/c art. 2º, da Lei nº 8.072/90, com incidência da agravante prevista no art. 62, I, do Código Penal, por promover e dirigir a atividade dos demais agentes”; às penas de 13 anos, 9 meses e 27 dias de reclusão e 1 ano, 5 meses e 15 dias de detenção, mais o pagamento de 1500 dias-multa. Irresignada, a defesa interpôs recurso de apelação, pendente de julgamento.
+    3. Neste habeas corpus, a parte impetrante requer a revogação da prisão preventiva do paciente, alegando, em síntese, que, “se os fatos apresentados pela autoridade policial foram extraídos no mesmo contexto, envolvendo todos os réus nos crimes acima tipificados, não se verifica qualquer diferença que justifique o tratamento diferenciado percebido pelo paciente, referente ao que foi dispensado aos corréus [...], vez que, ostentam as mesmas condições nos autos do processo, não se observa plausibilidade na manutenção da custodia cautelar do paciente”.
+    4. Decido.
+    5.  O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar o imediato acolhimento da pretensão defensiva, notadamente se se considerar a informação constante da sentença penal condenatória, no sentido de que o paciente promovia e dirigia a atividade dos demais agentes, tanto que teve a pena agravada nos termos do art. 62, I, do Código Penal.
+    7. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 14 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+                            Relator
