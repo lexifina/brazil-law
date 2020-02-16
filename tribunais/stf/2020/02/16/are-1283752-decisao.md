@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo de instrumento. Pedido de reforma de decisão que determinou extinta obrigação de fazer, sob a alegação da obrigação não ter sido cumprida como determinado em sentença. Interpretação abrangente ou restritiva da expressão para todos os fins legais. Agravo provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação ao art. 5º, XXXV, LIV, LV e 93, IX, da CF. Aduz que “devem os demais órgãos do Poder Judiciário respeitar o entendimento do STF que reconheceu a validade dos parâmetros de contratação definidos na Lei Federal n. 10.029/00, os quais foram reproduzidos de forma obrigatória na Lei Estadual n. 11.064/02”.
+    De fato, o Supremo Tribunal Federal (STF) pacificou entendimento no sentido de que as relações instituídas entre a Administração Pública e os prestadores de serviço temporário são submetidas a regime jurídico próprio, sendo a eles assegurados somente os direitos previstos pela legislação específica de regência (cf. ADI 4.173, Rel. Min. Alexandre de Moraes, e RE 1.231.242, Rel. Min. Luiz Fux).
+    No caso concreto contém especificidades que afastam a aplicação automática dos precedentes acima mencionados ao recurso extraordinário em análise. O cerne da discussão travada nas instâncias ordinárias diz respeito aos limites da coisa julgada material formada na fase de conhecimento. Para o Tribunal de origem, o título executivo judicial é amplo, engloba as rubricas requeridas pelo recorrido e impede a rediscussão na fase executória.
+    Esse fundamento deixou de ser impugnado no recurso extraordinário, motivo pelo qual o recurso não deve ser conhecido, pois a decisão recorrida possui mais de um fundamento e o recurso não abrange todos eles, encontrando óbice no entendimento sumulado desta Corte (Súmula 283/STF).
+    Ademais, analisar a amplitude da coisa julgada é inviável em sede extraordinária, pois demandaria o reexame do acervo fático-probatório dos autos. No mesmo sentido, ainda quanto aos pressupostos de admissibilidade, a afronta à coisa julgada caracteriza ofensa reflexa à Constituição, sendo insuscetível de ser reapreciada em recurso extraordinário.
+    Por fim, é importante ressaltar que o título exequendo é anterior à decisão desta Corte em controle concentrado. Assim sendo, caberia ao recorrente, se fosse o caso, ajuizar ação rescisória no prazo de dois a contar do trânsito em julgado do acórdão do STF na ADI 4.173, de acordo com o disposto no art. 535, § 8º, do CPC, e não buscar desconstituir a coisa julgada na execução.
+     Diante do exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se.
+                Brasília, 16 de fevereiro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
