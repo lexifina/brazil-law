@@ -1,5 +1,5 @@
 Art. 4º A fase externa do pregão será iniciada com a convocação dos interessados e observará as seguintes regras:
-I - a convocação dos interessados será efetuada por meio de publicação de aviso na imprensa oficial e em sítio eletrônico oficial do respectivo ente federativo, facultado aos Estados, ao Distrito Federal e aos Municípios, alternativamente, a utilização de sítio eletrônico oficial da União, conforme regulamento do Poder Executivo federal;
+I - a convocação dos interessados será efetuada por meio de publicação de aviso em diário oficial do respectivo ente federado ou, não existindo, em jornal de circulação local, e facultativamente, por meios eletrônicos e conforme o vulto da licitação, em jornal de grande circulação, nos termos do regulamento de que trata o art. 2º;
 II - do aviso constarão a definição do objeto da licitação, a indicação do local, dias e horários em que poderá ser lida ou obtida a íntegra do edital;
 III - do edital constarão todos os elementos definidos na forma do inciso I do art. 3º, as normas que disciplinarem o procedimento e a minuta do contrato, quando for o caso;
 IV - cópias do edital e do respectivo aviso serão colocadas à disposição de qualquer pessoa para consulta e divulgadas na forma da Lei no 9.755, de 16 de dezembro de 1998;
