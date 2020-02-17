@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do acórdão recorrido:
+    AÇÃO DE COBRANÇA. Conta de depósito popular. Pretensão à restituição de valores depositados junto à instituição financeira. Hipótese que não se trata de postulação a diferenças de rendimentos em caderneta de poupança decorrentes de expurgos inflacionários de planos econômicos. Recurso não conhecido no que tange às questões abordadas pelo recorrente sob esta ótica equivocada. Razões recursais dissociadas dos fundamentos da decisão recorrida e do pedido inicial. Arguição de ilegitimidade passiva ad causam do apelante, ao fundamento de que não é sucessor do Banco Econômico S/A. Inadmissibilidade. Hipótese em que a jurisprudência desta Corte é uníssona no sentido de reconhecer que o banco recorrente é o legitimo sucessor do Banco Econômico S/A. Legitimidade passiva reconhecida. Inocorrência de prescrição. Aplicação do art. 2°, § 1°, da Lei n. 2.313/54, que estabelece ser imprescritível a pretensão de restituição de depósito popular. Existência de precedentes do C. STJ e desta Corte. Inexistência de incorreção nos critérios fixados na sentença para o cálculo do valor da condenação. Pedido inicial julgado procedente. Sentença mantida. Recurso conhecido em parte e, nesta, improvido.
+    2. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 5º, incisos II, XXXV e XXXVI, da Constituição Federal. Sustenta ilegitimidade passiva, alegando inexistência de sucessão em razão de personalidade jurídica distinta, patrimônio próprio e administração diversa.
+    Somente pela análise do quadro probatório e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    No mais, percebe-se não ter sido analisado, pelo Colegiado de origem, o artigo 5º, incisos XXXV e XXXVI, da Carta Maior, tidos por violados, padecendo o recurso da ausência do prequestionamento. Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
