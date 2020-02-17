@@ -1,0 +1,21 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento a agravo em recurso extraordinário, ao fundamento da ausência de ressonância constitucional das matérias que versam sobre a constitucionalidade da “Taxa Siscomex” e da possibilidade de o Poder Executivo atualizar os valores previamente fixados na lei, de acordo com os índices oficiais, mediante a Portaria nº 257 de 2011.
+    O embargante aduz obscuro o julgado ao articular direta a ofensa a preceitos constitucionais. Defende que, muito embora haja flexibilização do princípio da legalidade, incumbe ao Poder Legislativo determinar os limites em que o Poder Executivo pode majorar a taxa de utilização do sistema Siscomex. Nessa linha de raciocínio, argumenta que além de obedecer aos índices oficiais a atualização deve ser fixada em lei.
+     Requer a concessão de efeitos infringentes para apreciar o mérito do apelo extremo.
+     Destaco cuidar-se de recurso extraordinário aparelhado na afronta ao arts. 5º, II e LIV, e 150, I e II, da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO E ADUANEIRO. PROCEDIMENTO COMUM. TAXA DE UTILIZAÇÃO DO SISCOMEX. PORTARIA MF Nº 257, DE 2011. REAJUSTE DE VALORES. EXCESSO. É excessivo o reajuste integral aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso.”
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    De início, realço devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, nos termos do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016, e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016. Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Por outro lado, inexistente o vício da obscuridade no decisum no qual se assenta, de forma clara, a inviabilidade do apelo extremo, haja vista desatendida a exigência do art. 102, III, “a”, da Carta Magna.
+    Nesse sentido, colho recente precedente acerca da matéria:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TAXA DE UTILIZAÇÃO DO SISCOMEX. MAJORAÇÃO POR PORTARIA DO MINISTÉRIO DA FAZENDA. AFRONTA À LEGALIDADE TRIBUTÁRIA. AGRAVO REGIMENTAL PROVIDO. 1. É inconstitucional a majoração de alíquotas da Taxa de Utilização do SISCOMEX por ato normativo infralegal. Não obstante a lei que instituiu o tributo tenha permitido o reajuste dos valores pelo Poder Executivo, o Legislativo não fixou balizas mínimas e máximas para uma eventual delegação tributária. 2. Conforme previsto no art. 150, I, da Constituição, somente lei em sentido estrito é instrumento hábil para a criação e majoração de tributos. A Legalidade Tributária é, portanto, verdadeiro direito fundamental dos contribuintes, que não admite flexibilização em hipóteses que não estejam constitucionalmente previstas. 3. Agravo regimental a que se dá provimento tão somente para permitir o processamento do recurso extraordinário” (RE 959274 AgR, da minha relatoria, Relator para Acórdão Roberto Barroso, 1ª Turma, DJe 13.10.2017).
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2020.
+Ministra Rosa Weber
+      Relatora
