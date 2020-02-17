@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 4, p. 321):
+    “EXECUÇÃO DE SENTENÇA. AÇÃO COLETIVA PROPOSTA POR ASSOCIAÇÃO DE CLASSE. LEGITIMIDADE PARA EXECUÇÃO DO TÍTULO COLETIVO.ASDNER. REAJUSTE DE 3,17%.
+    1. O Supremo Tribunal Federal, no julgamento do RE nº 573232, conforme a sistemática prevista no art. 543-B do CPC/73, consolidou entendimento no sentido de que "as balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial."
+    2. Conclui-se, assim, que somente o associado cujo nome se encontra na lista juntada na ação de conhecimento e que tenha autorizado expressamente a associação para ingressar com a respectiva ação judicial possui legitimidade ativa para executar a ação coletiva nº 2000.70.00.001932-1.”
+    Os embargos de declaração foram rejeitados. (eDOC 4, p. 351-354 e 376-379)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se violação aos arts. 5º, XXI, XXXV, XXXVI, LIV e LV; e 93, IX, da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, que “Na sentença proferida na ação ordinária nº 2000.70.00.001932-1, restou expressamente consignado que “a autora regularizou sua representação processual (fls. 317-318 e 323)” e que “no que tange à alegação de que não é válida a autorização dos associados constante das fls. 317-319, entendo que não está correta a União, porquanto a Associação dos Servidores do DNER – ASDNER foi autorizada expressamente por seus associados, sendo irrelevante o número de associados presentes à assembléia, podendo ser, inclusive, aprovado por maioria simples”. Ainda, em recurso de apelação, a União não se insurgiu quanto a este ponto em específico, de modo que a decisão transitou em julgado na data de 10/09/2008.” (eDOC 4, p. 428)
+    Aduz-se, ainda, que “o título executivo judicial expressamente abarcou todos os associados da ASDNER, eis que a Associação foi também expressamente autorizada em assembleia geral para ajuizar ação coletiva referente ao índice de 3,17% sobre os vencimentos e demais vantagens dos servidores.” (eDOC 4, p. 439-440)
+    A Vice-Presidência do TRF da 4ª Região admitiu o extraordinário. (eDOC 5, p. 28/29)
+    É o relatório. Decido.
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do ARE 901.963-RG, Rel. Min. Teori Zavascki, DJe 16.9.2015 (Tema 848), em que não reconheceu a repercussão geral da matéria, fixou a seguinte tese: “A questão acerca dos legitimados para executar sentença proferida em ação coletiva, na hipótese em que o título transitado em julgado define explicitamente os beneficiários do direito, tem natureza infraconstitucional, pois trata de discussão sobre os limites da coisa julgada (Tema 660), e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
