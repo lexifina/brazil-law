@@ -1,0 +1,5 @@
+VISTOS.
+Trata-se de agravo de instrumento interposto por RODRIGO GEHM contra decisão do juízo da 4a Vara Cível da Comarca de Barra do Garças, nos autos dos Embargos de Terceiro no 11293-11.2019.811.0004 (código 316346), distribuídos por dependência à Ação Civil de Improbidade Administrativa no 7436-93.2015.8.11.0004 (código 206460) (id. 32426495).
+O Registro de Pesquisa informa a Apelação no 37595/2018 interposta contra a sentença prolatada na ação principal, distribuída à Segunda Câmara de Direito Público e Coletivo, redistribuída à relatoria do MM. Juiz de Direito Convocado Dr. Edson Dias Reis, nos termos da Portaria no 549/2019-PRES (id. autos (Id. 7282673 e 7226191).
+No vertente recurso tirado de embargos de terceiro, sobressai à determinação da competência, a circunstância de a referida ação ter como pressuposto necessário, a existência da ação principal, no caso, a ação civil de improbidade administrativa (art. 61 do CPC).
+Sendo assim, proceda-se a redistribuição do feito, por prevenção, nos termos do art. 676 do CPC c/c artigos 80, §§ 1o e 2o e 83, XVI do RI/TJMT.
