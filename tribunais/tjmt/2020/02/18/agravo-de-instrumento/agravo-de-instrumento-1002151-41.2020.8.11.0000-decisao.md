@@ -1,0 +1,22 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1002151-41.2020.8.11.0000
+Vistos etc.
+Trata-se de Agravo de Instrumento interposto por EDUARDO BRINGHENTI em virtude da decisão proferida pelo Juízo da 2.a Vara da Comarca de São José do Rio Claro que, nos autos da Ação de Consignação em Pagamento ajuizada por DESTILARIA DE ÁLCOOL LIBRA LTDA., ao sanear o feito, rejeitou a preliminar de conexão e prevenção formulada pelo Agravante em sede de contestação.
+Inconformado, o Recorrente alega que entre a ação que gerou este recurso (Ação de Consignação em Pagamento) e a ação que tramita perante a 2.a Vara da Comarca de Campo Novo do Parecis (Ação Cautelar Preparatória) há identidade da causa de pedir, o que por si só já seria suficiente para que o pedido fosse deferido.
+Sustenta, ainda, que no caso em tela há identidade entre os fatos, uma vez que a ação de consignação foi proposta em razão de haver entre Agravante e o agravado ODAIR JOSÉ DAUEK WOJCIECHOWSKI discussão acerca da validade ou não da cessão do crédito devido pela Agravada DESTILARIA DE ÁLCOOL LIBRA LTDA., e na ação proposta perante a comarca de Campo Novo do Parecis também se contempla o litígio existente entre o Agravante e a DESTILARIA no qual se afirma que a cessão deve ser reconhecida como nula e o crédito pertencente ao Agravante.
+Forte nesses argumentos, requer a concessão do efeito suspensivo, a fim de suspender o andamento da Ação de Consignação em Pagamento até o julgamento final do recurso.
+Eis o relatório. DECIDO.
+De proêmio, convém ressaltar que o Recurso comporta recebimento, pois apesar do Código de Processo Civil não prever expressamente o uso do agravo de instrumento contra decisão interlocutória relacionada ao caso, recentemente, o STJ, no Acórdão proferido no Recurso Repetitivo, REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018, Tema 988, fixou a seguinte tese: “O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação”.
+Além disso, modulou os efeitos da decisão, para que a tese seja aplicável somente às decisões interlocutórias proferidas após a publicação do Acórdão, que, na hipótese, se deu em 19/12/2018.
+Na espécie, vê-se que o caso se amolda à jurisprudência contemporânea, seja pelo fato de que ficou demonstrada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, seja em virtude da decisão invectivada ter sido proferida em 22/02/2020, data posterior à fixada pelo STJ para a modulação dos efeitos da nova interpretação ser aplicável.
+Portanto, o Agravo comporta recebimento.
+No que tange ao pedido liminar, o artigo 1.019 inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Diante de tais premissas, é patente que ao afirmar que há necessidade de agregar o efeito suspensivo/ativo, incumbe à parte demonstrar de forma clara e segura em que consiste a probabilidade do direito alegado e, também, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Na hipótese sob exame, neste juízo de cognição incompleta, não entrevejo a confluência dos requisitos para concessão do pedido liminar, pois, apesar das ações de consignação e pagamento e a cautelar preparatória, aparentemente, serem conexas em razão da causa de pedir, não ficou comprovado o risco de dano grave com o prosseguimento da ação de consignação, eis que no Agravo de Instrumento de n.o 1003901-49.2018.8.11.0000 já foi determinado o depósito em juízo do valor correspondente à cessão de crédito firmado entre as partes.
+Dessa forma, ausentes os requisitos necessários para concessão da liminar recursal, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intime-se a parte Agravada para, querendo, apresentar resposta no prazo legal.
+Cumpra-se.
+Cuiabá, 18 de fevereiro de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
