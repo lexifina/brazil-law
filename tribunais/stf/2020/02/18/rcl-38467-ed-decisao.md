@@ -1,0 +1,28 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. RECLAMAÇÃO CONSTITUCIONAL. HONORÁRIOS SUCUMBENCIAIS E CONTRATUAIS. SÚMULA VINCULANTE Nº 47. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+1. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+2. Ausência de omissão, contradição, obscuridade ou erro material justificador da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015,
+3. Embargos de declaração rejeitados.
+    Vistos etc.
+    1. Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento à presente reclamação, pois não configurada violação da Súmula Vinculante nº 47.
+    2. O embargante aduz omisso o julgado, ao articular que “tal reclamação se dá também na recusa do juízo de piso em indeferir a expedição de RPV pertinente aos honorários sucumbenciais ao determinar a expedição de RPV in totun em nome da reclamante, sendo que nos cálculos estão inclusos os honorários sucumbências de propriedade deste causídico”. Requer a concessão de efeitos infringentes.
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    2. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    3. Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios.
+    4. Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    5. A Súmula Vinculante nº 47 dispõe sobre o fracionamento da execução contra a Fazenda Pública para pagamento de valor relativo aos honorários de sucumbência. Nela não se insere a controvérsia acerca do direito à expedição de RPV em separado para o pagamento de honorários contratuais.
+    6. Com efeito, não há na decisão embargada qualquer omissão. Cito para melhor esclarecer a decisão reclamada apontada pela ora embargante como descumpridora da Súmula Vinculante nº 47:
+    “Vistos.
+    1. Em relação ao contrato de honorários advocatícios juntado aos autos, tem-se que ele não se presta ao fim pretendido. Ademais, a jurisprudência do STF não admite a expedição de requisitório em separado para pagamento de honorários advocatícios contratuais, à luz do art. 100, §8º, da Constituição da República. Nesse sentido:
+    Agravo regimental no recurso extraordinário. Processual Civil. Honorários advocatícios contratuais. Fracionamento para pagamento por RPV ou precatório. Impossibilidade. Súmula Vinculante 47. Inaplicabilidade. Precedentes. 1. A jurisprudência da Corte é firme no sentido de que a Súmula Vinculante 47 não alcança os honorários contratuais resultantes do contrato firmado entre advogado e cliente, não abrangendo aquele que não fez parte do acordo. 2. O Supremo Tribunal Federal já assentou a inviabilidade de expedição de RPV ou de precatório para pagamento de honorários contratuais dissociados do principal a ser requisitado, à luz do art. 100, § 8º, da Constituição Federal. 3. Agravo regimental não provido. [RE 1.094.439 AgR, rel. min. Dias Toffoli, 2ª T, j. 2-3-2018, DJE 52 de 19-3-2018.]
+    Ainda: “CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADO FRACIONAMENTO DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA DE ESTADO-MEMBRO. HONORÁRIOS ADVOCATÍCIOS. VERBA DE NATUREZA ALIMENTAR, A QUAL NÃO SE CONFUNDE COM O DÉBITO PRINCIPAL. AUSÊNCIA DE CARÁTER ACESSÓRIO. TITULARES DIVERSOS. POSSIBILIDADE DE PAGAMENTO AUTÔNOMO. REQUERIMENTO DESVINCULADO DA EXPEDIÇÃO DO OFÍCIO REQUISITÓRIO PRINCIPAL. VEDAÇÃO CONSTITUCIONAL DE REPARTIÇÃO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. INTERPRETAÇÃO DO ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO”. (RE 564132, Rel. p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, j. 30.10.2014, DJe 10.02.2015).
+    No mesmo sentido o art. 100, §8º, aduz que: “É vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § 3º deste artigo”. (Grifou-se). Isto posto, indefiro o pedido de destacamento dos valores, uma vez que a Súmula Vinculante 47 não alcança os honorários contratuais resultantes do contrato firmado entre advogado e cliente”.
+    7. Conforme destacado na decisão embargada, não houve na decisão reclamada qualquer violação da Súmula Vinculante nº 47, visto que tratou tão somente do pedido de destacamento dos valores referentes aos honorários contratuais firmados entre advogado e cliente.
+    8. Enfim, não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que ostentam e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    9. Não configuradas, portanto, quaisquer das hipóteses elencadas no art. 1022 do CPC, evidenciando-se tão somente o inconformismo da parte com a decisão que lhe foi desfavorável.
+    10. Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2020.
+Ministra Rosa Weber
+Relatora
