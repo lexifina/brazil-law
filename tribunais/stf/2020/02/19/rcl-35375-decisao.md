@@ -1,0 +1,11 @@
+DECISÃO:
+    1. Chamo os feitos à ordem. Trata-se de duas reclamações - Rcls 32.909 e 35.375 - ajuizadas em face de acórdão do Tribunal Regional do Trabalho da 3ª Região proferido nos autos nº 0001016-84.2015.5.03.0056, que reconheceu a nulidade de terceirização de mão de obra, condenando a ora reclamante, sociedade de economia mista, subsidiariamente, ao pagamento de verbas trabalhistas decorrentes do reconhecimento de isonomia remuneratória entre trabalhador terceirizado e empregado direto.
+    2. Em 17.06.2019, julguei procedente o pedido formulado na Rcl 32.909, para cassar o acórdão reclamado (autos nº 0001016-84.2015.5.03.0056) e determinar que outro fosse proferido pelo órgão reclamado, com a observância da jurisprudência vinculante do Supremo Tribunal Federal.
+    3. Na sequência, em 27.06.2019, julguei parcialmente extinta a Rcl 35.375, sem resolução do mérito, quanto à alegada afronta às teses firmadas na ADC 16 e tema 246 da repercussão geral (art. 485, IV, do CPC/15); e, no mais, julguei prejudicado o pedido de medida cautelar, com base na decisão proferida na Rcl 32.909. Na mesma ocasião, tendo em vista a conexão, determinei o apensamento do feito à primeira reclamação.
+    4. A decisão da Rcl 32.909 transitou em julgado em 15.08.2019. Embora expedida comunicação ao TRT 3ª Região acerca da decisão proferida na Rcl 32.909, verifiquei, ao consultar o andamento processual da ação originária (na página eletrônica do respectivo tribunal), que o órgão reclamado teve ciência apenas do teor da liminar anteriormente concedida (em 1º.02.2019).
+    5. No que tange à Rcl 35.375, como a inicial pede, igualmente, a cassação da decisão proferida pelo TRT 3ª Região nos autos nº 0001016-84.2015.5.03.0056, verifico que o feito perdeu o seu objeto, uma vez que já atendida a pretensão na Rcl 32.909.
+    6. Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicada a Rcl 35.375. Sem honorários, porquanto não citada a parte interessada. Publique-se. Comunique-se, inclusive quanto à decisão proferida na Rcl 32.909.
+    7. Após o escoamento do prazo recursal, rementam-se os autos à Secretaria para que certifique o trânsito em julgado e proceda à baixa dos autos de ambas as reclamações ao arquivo.
+    Brasília, 19 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
