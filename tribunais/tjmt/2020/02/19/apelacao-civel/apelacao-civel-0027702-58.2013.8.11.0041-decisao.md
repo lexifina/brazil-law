@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 0027702-58.2013.8.11.0041
+APELANTE: BANCO DO BRASIL SA
+APELADO: MODDA ROUPAS E ACESSORIOS LTDA - ME, KLEBER AUGUSTO BACCARIN, VIVIANNY IACONO ROMAO BACCARIN
+Visto etc.
+Trata-se de Recurso de Apelação Cível, interposto pelo Banco do Brasil S.A., com o fito de reformar a sentença proferida pelo Juízo da 1a Vara Especializada de Direito Bancário da Comarca de Cuiabá, que julgou procedentes os pedidos formulados na ação de cobrança ajuizada em face de Modda Roupas e Acessórios Ltda. - ME. e Outros., para condenar os réus, solidariamente, ao pagamento de R$ 280.117,62 (duzentos e oitenta mil cento e dezessete reais e sessenta e dois centavos), acrescido de juros de mora e a correção monetária, a partir do vencimento da obrigação, com fundamento no artigo 397 do Código Civil e na Súmula n. 43 do Superior Tribunal de Justiça. Por conseguinte, condenou os réus ao pagamento das custas processuais, bem como dos honorários advocatícios, fixados em 10% do valor da condenação, nos termos do artigo 85, §2o, do Código de Processo Civil.
+Nas razões recursais, o banco apelante pugna para os juros e a correção monetária tenham incidência, a partir da citação.
+As contrarrazões não foram apresentadas (id. 22053962).
+Sedo isto o que basta relatar, sigo aos fundamentos e, ao final, decido.
+A rigor do artigo 932, do Código de Processo Civil, incumbe ao relator não conhecer do recurso inadmissível, prejudicado, ou que não tenha impugnado especificamente os fundamentos da decisão recorrida. Ainda, cumpre negar ou dar provimento ao recurso contrário à Súmula dos Tribunais Superiores e Locais, e Acórdão dos Tribunais Superiores submetidos ao rito dos recursos repetitivos.
+A esse respeito, esclarecem Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero:
+“1. O relator tem o dever de julgar o recurso monocraticamente, preenchidos os requisitos inerentes à espécie, porque aí está prestigiando a autoridade do precedente (arts. 926 e 927, CPC) e patrocinando sensível economia processual. Pode o relator julgar monocraticamente qualquer espécie recursal a partir do art. 932, CPC, podendo inclusive invocá-lo para decidir a remessa necessária (súmula 253, STJ: “o art. 557 do CPC, que autoriza o relator a decidir o recurso, alcança o reexame necessário”) e para, em sendo o caso, decidir questões concernentes a processos de competência originária. O relator deve exercer seus poderes de ofício, independentemente de requerimento de quaisquer das partes.” (Marinoni, Luiz Guilherme; Arenhart, Sérgio Cruz e Mitidiero, Daniel. Código de Processo Civil Comentado. São Paulo: Revista dos Tribunais, 2. Ed. 2016, p. 997).
+E mais:
+“5. Negar provimento. O relator pode negar provimento ao recurso liminarmente, quando esse for contrário a precedentes das Cortes Supremas (art. 932, IV, a e b, CPC). Note-se que a alusão do legislador a súmulas ou a casos repetitivos constitui apenas um indício – não necessário e não suficiente – a respeito ou não de precedentes sobre a questão que deve ser decidida. O que interessa para a incidência do art. 932, IV a e b, CPC, é que exista precedente sobre a matéria – que pode ou não estar subjacente a súmulas e pode ou não decorrer do julgamento de recursos repetitivos. O relator também pode negar provimento a recurso invocando jurisprudência vinculante das Cortes de Justiça – que depende de se encontrar sumulada (art. 932, IV, a, in fine, CPC) ou de ter sido gerada a partir da forma específica dos incidentes de resolução de demandas repetitivas e de assunção de competência (art. 932, IV, c, CPC). O que se procura prestigiar com a possibilidade de o relator negar provimento ao recurso é a força vinculante dos precedentes e da jurisprudência sumulada ou decorrente de julgamentos dos incidentes próprios.
+6. Dar provimento. O relator pode dar provimento ao recurso – mas aí, em respeito ao contraditório, deve primeiro ouvir a parte contrária (art. 932, V, CPC). As mesmas situações que autorizam o relator a negar provimento autorizam-no a dar provimento: a diferença entre os incisos OIV e V do artigo 932, CPC, encontra-se apenas na necessidade de prévia oitiva da parte contrária. O legislador persegue a mesma motivação: prestigiar a força vinculante dos precedentes e da jurisprudência sumulada ou de corrente de julgamentos dos incidentes próprios. Da decisão cabe agravo interno (art. 1.021,CPC)” (Marinoni, Luiz Guilherme; Arenhart, Sérgio Cruz e Mitidiero, Daniel. Código de Processo Civil Comentado. São Paulo: Revista dos Tribunais, 2. Ed. 2016, p. 998).
+No mesmo sentido, o Superior Tribunal de Justiça editou a Súmula 568, estabelecendo a possibilidade de julgamento monocrático com base em entendimento dominante acerca do tema, senão vejamos:
+Súmula 568/STJ - O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema. (Súmula 568, CORTE ESPECIAL, julgado em 16/03/2016, DJe 17/03/2016).
+Neste contexto, por analogia ao verbete acima transcrito, há de se concluir que, o relator, em qualquer caso, poderá, monocraticamente, dar provimento ou negar seguimento, conforme esteja ou não de acordo com a jurisprudência dominante.
+Pois bem.
+O banco autor se insurge tão-somente contra o termo inicial da incidência dos juros e da correção monetária, fixado pelo magistrado, alegando que os encargos devem incidir a partir da citação, e não do vencimento da dívida, como estipulado na sentença.
+Com razão o apelante.
+Isto porque, consoante se observa do demonstrativo de débito, que instruiu a petição inicial, a dívida cobrada já foi corrigida pela instituição financeira até a data do ajuizamento da ação.
+Nesse contexto, a manutenção da sentença, nos moldes proferidos, resultaria na incidência de juros e correção monetária em duplicidade, o que se mostra inadmissível, sob pena de inarredável enriquecimento sem causa.
+Pelo exposto, DOU PROVIMENTO ao recurso, para que os juros e a correção monetária, incidentes sobre a dívida, tenham início após a citação
+Ao ensejo, advirto às partes da pena de multa que incorre àquele que interpõe recurso manifestamente protelatório, nos termos dos artigos 80, VII, 81, e 1.026, §§2o e 3o, todos do Código de Processo Civil, salientando que a assistência judiciária gratuita não exime o litigante do pagamento de multas processuais eventualmente impostas nos autos, nos termos do artigo 98, §4o, do mesmo diploma legal.
+Publique-se.
+Intime-se.
+Cumpra-se.
+Cuiabá, 19 de fevereiro de 2020.
+Desa. Serly Marcondes Alves
+Relatora
