@@ -1,0 +1,13 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, em que a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    Observe-se, ainda, que, mesmo a CORTE já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, o recorrente não se exime de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (AI 664.567-QO, Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+    Mesmo que fosse possível superar esse grave óbice, quanto à alegação de afronta à ampla defesa e ao direito de ação, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
