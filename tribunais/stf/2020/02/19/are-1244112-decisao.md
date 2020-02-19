@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (eDOC 6, p. 1):
+    “APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA – SERVIDORA MUNICIPAL – MUNICÍPIO DE SIMÃO DIAS – BENEFÍCIO DA JUSTIÇA GRATUITO CONCEDIDO À AUTORA -PRELIMINARES – ILEGITIMIDADE PASSIVA DO DEMANDADO – INCOMPETÊNCIA DO JUÍZO – REJEITADAS – MÉRITO - APOSENTADORIA NO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS) - PEDIDO DE PARIDADE – ENTE MUNICIPAL QUE NÃO INSTITUIU O REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL – IMPOSSIBILIDADE DE APLICAÇÃO DAS REGRAS INSTITUIDAS PELA CONSTITUIÇÃO, NO ARTIGO 40 – PRECEDENTES DO STF E DESTA CORTE - RECURSO CONHECIDO E PROVIDO – DECISÃO UNÂNIME.
+    - “A jurisprudência do Supremo Tribunal Federal entende que o art. 40, § 5º, da Constituição Federal não se aplica a ex-empregados públicos, submetidos ao regime da CLT. Controvérsia que deve ser decidida à luz da legislação infraconstitucional aplicável à espécie. Agravo regimental a que se nega provimento.” (RE 262.748-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 6.3.2015)”
+    Os embargos de declaração não foram providos. (eDOC 8)
+    No recurso extraordinário, com fundamento no art. 102, III, a, do texto constitucional, aponta-se violação ao art. 7º da EC 41/2003, bem como à EC 47/2005.
+    Nas razões recursais, sustenta-se, em suma, que “não foi analisada/aplicada a legislação municipal, isto porque, Nobres Ministros, a Corte Estadual, embora tenha condicionado o direito autora a existência de regime próprio, não considerou a legislação municipal, notadamente a Lei maior Municipal, a Lei Orgânica Municipal, notadamente em seu artigo 19 (...)” (eDOC 9, p. 8)
+    Aduz-se, ainda, que “A inércia do município, em não propor a Casa Legislativa Municipal Projeto de Lei que institua o Regime Próprio de Previdência Social – RPPS e/ou o Regime Próprio de Previdência Complementar-RPPC, previstos no artigo 40 § 13 da Constituição Federal, não pode causar prejuízo aos seus servidores.” (eDOC 9, p. 9)
+    O Tribunal de origem inadmitiu o extraordinário por entender que a ofensa à Constituição Federal, se existente, seria apenas reflexa. (eDOC 12)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assentou que (eDOC 6, p. 3-5):
+    “Adentrando no mérito, tem-se que a Autora foi aposentada em 14/06/1999, recebendo os proventos pelo INSS, por força da ausência de regime de previdência no Município Apelante, proventos estes que, alega ser menor que o dos servidores em atividade.
+    (...)
+    De fato, conforme o disposto no art. 7º da EC 41/2003, o benefício da paridade ficou assegurado aos servidores públicos que ingressaram na Administração Pública direta, autárquica ou fundacional, até a data de publicação da EC nº 20/1998, desde que atendidos os requisitos estabelecidos no art. 2º da EC 41/2003.
+    (...)
+    Ocorre que aludido raciocínio e legislação só podem ser aplicados ao servidores dos entes público que possuam regime de previdência próprio.
+    In casu, é fato incontroverso que o Município de Simão Dias, apelante, não possui regime de previdência próprio, sendo aplicado a lei do regime geral de previdência social e não o artigo 40 da CF, como pleiteia.
+    Corrobora essa raciocínio os documentos da aposentadoria da autora de fls. 25/41 que atestam que a apelada se aposentou segundo as norma da previdência Social Geral, INSS.
+    (...)
+    Assim, inexiste o direito autoral à paridade pela aplicação do artigo 40 da CF, vez que se aposentou pelo regime geral da previdência social.”
+    Sendo estas as razões de decidir, verifica-se que eventual divergência com o entendimento adotado pelo Tribunal de origem, acerca do direito da recorrente à paridade de sua aposentadoria com servidores ativos, demandaria o reexame de fatos e provas e o da legislação infraconstitucional local (Lei Orgânica Municipal) aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida nas Súmula 279 e 280 do STF.
+    Assim, a hipótese tratada nos autos guarda pertinência com os seguintes precedentes, em casos análogos, assim ementados:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. AUSÊNCIA DE REGIME PRÓPRIO DE PREVIDÊNCIA. SUBMISSÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. DIREITO À COMPLEMENTAÇÃO DOS PROVENTOS DA APOSENTADORIA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. ALÍNEAS C E D DO PERMISSIVO CONSTITUCIONAL. INADMISSIBILIDADE. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1136044-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 17.9.2018)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidora pública municipal. 4. Ausência de regime jurídico próprio. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental desprovido.” (ARE 1009758-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 13.2.2019)
+    Ante o exposto, nego provimento ao recurso nos termos do artigo 932, IV, a e b, do CPC.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+    Brasília, 19 de fevereiro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
