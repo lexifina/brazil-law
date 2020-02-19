@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO – PRAZO – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Sorocaba/SP, no processo nº 1501278-46.2019.8.26.0567, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 24 de julho de 2019, e de outras pessoas, ante a prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico) da Lei nº 11.343/2006 e 16, parágrafo único, inciso IV (posse ilegal de arma de fogo com numeração suprimida), da Lei nº 10.826/2003. Assentou haver indícios de autoria e materialidade caracterizada na apreensão de 573 porções de crack (125 gramas), 57 de cocaína (45 gramas), 8 de maconha (45 gramas), além de 1.000 embalagens para acondicionamento de entorpecentes e R$ 951,50. Ressaltou imperiosa a custódia para garantir a ordem pública e a aplicação da lei penal. Aludiu à condenação anterior em virtude de cometimento do delito de roubo. Destacou os malefícios sociais causados pela mercancia de substâncias ilícitas. Afastou a viabilidade de cautelares diversas.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 560.248/SP, indeferido liminarmente pelo Relator.
+    O impetrante alega a insubsistência dos fundamentos da decisão por meio da qual determinada a prisão cautelar. Cita precedentes do Supremo nos quais revogadas custódias determinadas com base em pronunciamentos padronizados. Assevera o excesso de prazo da prisão, a perdurar por mais de 6 meses, sem que encerrada a instrução criminal. Articula com a ofensa ao artigo 5º, inciso LXXVIII, da Constituição Federal.
+    Requer, no campo precário e efêmero, seja afastada a preventiva, com ou sem aplicação de cautelares alternativas, sem especificá-las. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 10 de fevereiro de 2020, revelou que o processo-crime, em curso no Juízo da Primeira Vara da Comarca de Piedade/SP, encontra-se na fase de instrução. Em 7 de fevereiro último, o Juízo, considerado o parágrafo único do artigo 316 do Código de Processo Penal, incluído pela Lei nº 13.964/2019, reiterou a necessidade da custódia, declarando persistirem os motivos que a ensejaram.
+    Este habeas foi distribuído, por prevenção, em virtude da vinculação com o de nº 177.822. Nesse processo, aparelhado para exame, Vossa Excelência, no dia 18 de novembro de 2019, indeferiu a liminar, assentando adequados os fundamentos do ato mediante o qual imposta a prisão.
+    A etapa é de análise da medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, consideradas a natureza e a quantidade de substâncias encontradas – 573 porções de crack (125 gramas), 57 de cocaína (45 gramas) e 8 de maconha (45 gramas) –, além de 1.000 embalagens para acondicionamento de drogas e R$ 951,50, indicam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução de pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A decisão do Juízo, proferida em 7 de fevereiro último, observado o parágrafo único do artigo 316 do Código de Processo Penal, incluído pela Lei nº 13.964/2019, mostra-se apta a afastar o excesso de prazo articulado. O citado dispositivo passou a versar, expressamente, acerca da duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, mediante ato fundamentado. Apresentada motivação suficiente à manutenção da prisão, desde que levado em conta o lapso de 90 dias entre os pronunciamentos judiciais, fica afastado o argumento alusivo ao constrangimento ilegal decorrente do excesso de prazo, revelando-se subsistente a custódia.
+    3. Indefiro a liminar.
+    4. Ante vinculação deste habeas corpus com o de nº 177.822, providenciem o apensamento dos processos.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 19 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
