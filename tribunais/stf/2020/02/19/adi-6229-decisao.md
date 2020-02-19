@@ -1,0 +1,19 @@
+Decisão: Trata-se de ação direta de inconstitucionalidade, com pedido de liminar, proposta por Rede Sustentabilidade, contra a Medida Provisória 896, de 9 de setembro de 2019, que dispõe sobre a forma de publicação dos atos da Administração Pública.
+    Aponta-se violação aos artigos 5º, IV, IX e XIV; 22, XXVII; 37, XXI; 62; 173 e 220 da Constituição Federal, bem como ao art. 13 da Convenção Americana Sobre Direitos Humanos.
+    Em suas razões, o autor alega ausência dos requisitos de relevância e urgência a justificar a edição de medida provisória sobre a matéria. Traz como argumento, inclusive, que o Plenário da Câmara dos Deputados iniciou discussão e votação do PL 1.292/1995, que teve origem no PLS 163/1995, do Senado Federal, e trata da nova lei de licitação, prevendo a publicação dos editais no Portal Nacional de Contratações Públicas, a ser criado. (eDOC 1)
+    Deferi o ingresso nos autos, como amicus curiae, da Associação Nacional de Jornais (ANJ). Adotei o rito do art. 12 da Lei 9.868/1999 e solicitei informações. (eDOC 27)
+    A Presidência da República encaminhou as informações elaboradas pela Advocacia-Geral da União (eDOC 35).
+    Em 18 de outubro de 2019, deferi parcialmente a medida cautelar solicitada, ad referendum do Plenário (art. 21, V, do RISTF; art. 10, §3º, Lei 9.868/1999), para suspender a eficácia do ato impugnado até a conclusão de sua análise pelo Congresso Nacional. (eDOC 37)
+    O Estado de São Paulo solicitou a participação no processo como amici curiae, o que foi deferido no eDOC 43.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Congresso Nacional, verifico que a Medida Provisória 896/2019 perdeu sua eficácia em 17 de fevereiro de 2020, por não haver sido convertida em lei no prazo de sessenta dias.
+    Em casos como o dos autos, a jurisprudência do Supremo Tribunal Federal é assente quanto à prejudicialidade da ação direta de inconstitucionalidade, por perda superveniente de objeto, quando sobrevém a revogação da norma impugnada pela sua não conversão em lei, quer com sua rejeição expressa, quer pelo decurso do prazo sem que tenha havido apreciação pelo Congresso. Confira-se, a propósito, a ementa da ADI 293-QO/DF, de relatoria do Ministro Celso de Mello:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – MEDIDA PROVISÓRIA 190/90 – PERDA DE EFICÁCIA POR FALTA DE APRECIAÇÃO OPORTUNA PELO CONGRESSO NACIONA (CF, ART. 62, PARÁGRAFO ÚNICO) – PREJUDICIALIDADE DA AÇÃO DIRETA. A medida provisória constitui espécie normativa juridicamente instável. Esse ato estatal dispõe, em função das notas de transitoriedade e de precariedade que o qualificam, de eficácia temporal limitada, na medida em que, não convertido em lei, despoja-se desde o momento de sua edição, da aptidão para inovar o ordenamento positivo. - A perda retroativa de eficácia jurídica da medida provisória ocorre tanto na hipótese de explícita rejeição do projeto de sua conversão em lei quanto no caso de ausência de deliberação parlamentar no prazo constitucional de trinta (30) dias. Uma vez cessada a vigência da medida provisória, pelo decurso ‘in albis’ do prazo constitucional, opera-se, ante a superveniente perda de objeto, a extinção anômala do processo de ação direta de inconstitucionalidade”.
+    No mesmo sentido, confiram-se ainda os seguintes precedentes: ADI 2.087, Rel. Min. Dias Toffoli, Dje 8.5.2018; ADI 1.080, Redatora do acórdão Min. Rosa Weber, Dje 13.9.2018; ADI-AgR 2.542, Rel. Min. Luiz Fux, Dje 21.10.2017; ADI-AgR 3.408, Rel. Min. Dias Toffoli, Dje 15.2.2017; ADI 5.809, Rel. Min. Ricardo Lewandowski, DJe 27.4.2018.
+    Ante o exposto, julgo prejudicada a presente ação direta de inconstitucionalidade, por perda superveniente de objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
