@@ -1,0 +1,34 @@
+SEGUNDA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1017854-46.2019.8.11.0000
+AGRAVANTE: IBRAHIM SARTORI E OUTRO
+AGRAVADO: CARGIL AGRÍCOLA S/A
+Vistos etc.
+Trata-se de recurso de agravo de instrumento interposto por IBRAHIM SARTORI e JOEDI INÊS TAVARES SARTORI contra a decisão proferida nos Embargos à Execução no 4001-43.2019.8.11.0046 – Código 139856, opostos em face da CARGIL AGRÍCOLA S/A, que indeferiu o pedido de assistência judiciária gratuita e determinou o recolhimento das custas no prazo de 30 (trinta) dias sob pena de cancelamento da distribuição (ID 25101480).
+Sustentam os agravantes em suas razões recursais (ID 28454465) não possuírem capacidade financeira para arcar com as custas do processo sem prejuízo próprio e de seus familiares.
+Asseveram que o valor das custas processuais ultrapassa o valor de R$ 7.000,00 (sete mil reais) o que compromete o equivalente a 5 (cinco) meses da renda líquida do casal, motivo pelo qual a manutenção da decisão agravada inviabilizaria o direito de acesso à prestação jurisdicional.
+Ao final, aduzem estar documentalmente comprovada sua indisponibilidade financeira e que o fato de possuir bens não invalida seu direito à justiça gratuita, pois não retiram nenhum proveito econômico do referido imóvel.
+Sob tais argumentos pugnou pelo provimento do recurso.
+A liminar recursal foi deferida (ID 25479951).
+Nas contrarrazões, a parte agravada impugna todos os argumentos apresentados neste recurso e juntam aos autos avaliações do imóvel rural de propriedade dos agravantes (ID 28302499).
+É o necessário.
+Decido.
+Por se tratar de matéria já consolidada neste Tribunal de Justiça e no STJ, passo ao julgamento monocrático.
+O direito à concessão do benefício pretendido pode ser deferido mediante simples declaração da parte de que não possui meios financeiros para custear as despesas processuais. Porém, o julgador pode negá-lo quando não encontrar elementos que atestem essa afirmação.
+Ademais, não se pode perder de vista que o direito à gratuidade da justiça é assegurado àquele que for verdadeiramente necessitado e não ao que se diz necessitado, inclusive pela simples leitura das peças processuais extrai-se informações relevantes sobre a capacidade financeira da parte, sendo com base nisso que se deferirá ou não a gratuidade da justiça.
+In casu, em que pese as declarações de impossibilidade das partes recorrentes, não é o que se evidencia dos autos, porquanto, apesar de trazer declaração de hipossuficiência, cópia da declaração de imposto de renda e demais documentos em nome apenas do agravante IBRAHIM SARTORI, as partes recorrentes não lograram êxito em demonstrar a alegada necessidade a justificar a concessão da justiça gratuita.
+Isso porque, constata-se dos documentos anexados nos movimentos IDs 28310450 e 28310451 a existência de um imóvel rural em nome dos agravantes denominado Fazenda Mata Azul, registrado no registro de imóveis de Comodoro/MT, avaliado a pedido do agravante IBRAHIM SARTORI em R$ 34.602.000,00 (trinta e quatro milhões seiscentos e dois mil reais) e avaliado em R$ 23.496.000,00 (vinte e três milhões quatrocentos e noventa e seis mil reais) nos autos da Carta Precatória código 78412 a pedido do magistrado da 2aVara da Comarca de Comodoro/MT, o que afasta a alegação de insuficiência econômica.
+Com efeito, o indeferimento do pedido de justiça gratuita é medida que se impõe, sem que isso ofenda aos incisos XXXV e LXXIV do artigo 5o da Constituição Federal, na medida em que não cabe ao Estado assumir despesas de quem tem condições de atendê-las, sob pena de não poder prover aquelas dos que realmente necessitam.
+Sobre o tema, os doutrinadores NELSON NERY JÚNIOR e ROSA MARIA DE ANDRADE NERY, assim dispõe:
+“O juiz da causa, valendo-se de critérios objetivos, pode entender que a natureza da ação movida pelo interessado demonstra que ele possui porte econômico para suportar as despesas do processo. A declaração pura e simples do interessado, conquanto seja o único entrave burocrático que se exige para liberar o magistrado para decidir em favor do peticionário, não é prova inequívoca daquilo que ele afirma, nem obriga o juiz a se curvar aos seus dizeres se de outras provas e circunstâncias ficar evidenciado que o conceito de pobreza que a parte invoca não é aquele que justifica a concessão do privilégio. Cabe ao magistrado, livremente, fazer juízo de valor acerca do conceito do termo pobreza, deferindo ou não o benefício”. (Código de Processo Civil comentado e legislação extravagante. 11. ed. São Paulo: Revista dos Tribunais, 2010. p. 1.562).
+Ainda sobre o tema, segue uma coletânea de ementas extraídas dos mais diversos tribunais brasileiros:
+Superior Tribunal de Justiça: Primeira Turma
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO RECEBIDO COMO AGRAVO REGIMENTAL. GRATUIDADE DE JUSTIÇA. APRESENTAÇÃO DE DOCUMENTOS QUE LEVARAM AO INDEFERIMENTO. PRESUNÇÃO LEGAL AFASTADA. (...) 4. Ademais, conforme entendimento jurisprudencial pacífico do STJ, "a presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais (STJ - AgRg no AREsp 136.756/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 24/04/2013). 5. (...)” (STJ - EDcl no AREsp 168203 / RJ. Relator Min Benedito Gonçalves. Órgão Julgador: T1. Data do Julgamento: 06/12/2012. DJe: 11/12/2012)
+Superior Tribunal de Justiça: Quarta Turma
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PROPÓSITO NITIDAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. POSSIBILIDADE. PEDIDO DE JUSTIÇA GRATUITA. PESSOA FÍSICA. INDEFERIMENTO PELA INSTÂNCIA ORDINÁRIA. PRESUNÇÃO IURIS TANTUM. 1. A afirmação de impossibilidade de arcar com o ônus financeiro de processo judicial possui presunção iuris tantum, podendo o magistrado indeferir a assistência judiciária se não encontrar fundamentos que confirmem o estado de hipossuficiência do requerente. Precedente. 2. Embargos de declaração recebidos como agravo regimental, a que se nega provimento.” (STJ - EDcl no AREsp 38303 / RJ. Rel. Min. MARIA ISABEL GALLOTTI. Órgão julgador: T4. Data do Julgamento: 26/05/2013. DJe 01/06/ 2013)
+Assim, uma vez que a precariedade econômica não restou evidenciada, impossível o deferimento do benefício da justiça gratuita.
+Com estas considerações, nego provimento monocraticamente ao presente recurso, mantendo a decisão agravada.
+P.I.C.
+Após o trânsito em julgado desta decisão, intime-se o agravante para efetuar o preparo do presente recurso, sob pena de protesto, consoante Provimento no 88/2014 e Instrução Normativa no 10/2014.
+Cuiabá/MT, 19 de fevereiro de 2020.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
