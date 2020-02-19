@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE FURTO QUALIFICADO. ARTIGO 155, §§ 3º E 4º, II, DO CÓDIGO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “Apelação - Furto de água qualificado pela fraude, em continuidade delitiva - Condenação - Recurso defensivo - Absolvição - Descabimento - Materialidade e autoria comprovadas - Confissão extrajudicial do acusado em consonância com a prova colhida - Funcionário da empresa-vítima e policial civil firmes ao confirmar os termos da denúncia - Dolo demonstrado - Conduta típica e antijurídica – Princípio da insignificância não aplicado - Precedentes do C. STJ - Condenação de rigor.
+    Dosimetria Pena-base fixada acima do mínimo, por ter o réu mentido em Juízo, indicando sua personalidade deturpada Redução ao patamar de base Aplicação do princípio 'nemo tenetur se detegere' Acréscimo de 1/3 pela continuidade delitiva mantido – Crimes que perduraram por cerca de 4 meses Reprimenda diminuída - Regime aberto - Substituição penal correta - Afastada a reparação de danos à vítima - Existência de acordo entre o apelante e a Sabesp para o pagamento do valor devido - Recurso parcialmente provido".  (Doc. 12, p. 9)
+    Os embargos de declaração opostos foram acolhidos sem efeitos modificativos, in verbis:
+    “Embargos de declaração - Furto de água - Omissão - Ocorrência - Ausência de manifestação a respeito da possibilidade de o pagamento da dívida antes do oferecimento da denúncia extinguir a punibilidade do embargante - Tese não acolhida - Inexistência de documentos aptos a comprovar a liquidação do montante total devido à Sabesp - Embargos acolhidos, sem reflexo no julgado”. (Doc. 13, p. 21)
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos princípios da intervenção mínima e da dignidade da pessoa humana. (Doc. 12, p. 22-30 e doc. 13, p. 1/2)
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que as alegações encontram óbice nas Súmulas 279 e 284 do STF. (Doc. 15, p. 3/4)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, o acórdão recorrido fundamentou-se na premissa de que “não houve qualquer documento juntado pela defesa comprovando que o quantum devido foi devidamente quitado”. (Doc. 13, p. 22)
+    As razões do recurso extraordinário, no entanto, reiteram, apenas, a argumentação no sentido de que deve-se aplicar ao caso concreto, no que tange à extinção de punibilidade do recorrente, as Leis 9.249/1995 e 10.684/2003.
+    Assevere-se que a parte recorrente tem o dever de impugnar os fundamentos da decisão recorrida, sob pena de não ter sua pretensão examinada, por vedação expressa do enunciado da Súmula 283 do STF, que dispõe: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido:
+    “AGRAVO OBJETO. Visando o agravo a fulminar a decisão que se ataca, as razões devem estar direcionadas de modo a infirmá-la. O silêncio em torno dos fundamentos consignados é de molde, por si só, a levar à manutenção do que assentado. Diante do descompasso entre o acórdão impugnado e as razões do extraordinário, este transparece como sendo meramente protelatório.” (ARE 846.515-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 10/11/2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Razões recursais dissociadas dos fundamentos do acórdão recorrido. Incidência do Enunciado 284 da Súmula do STF. 3. Argumentos incapazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 906.883-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 15/10/2015)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2020.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
