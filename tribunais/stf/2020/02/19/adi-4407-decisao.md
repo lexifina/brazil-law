@@ -1,0 +1,31 @@
+Decisão: Trata-se de ação direta de inconstitucionalidade proposta pelo Partido Trabalhista Brasileiro – PTB, contra o art. 28, § 4º, da Lei 11.488/2007; o art. 58-T, caput e § 2º, da Lei 10.833/2003; a Instrução Normativa 869/2008 e o Ato Declaratório Executivo 61/2008, da Secretaria da Receita Federal, que dispõem sobre o Sistema de Controle de Produção de Bebidas – Sicobe.
+    Aponta-se violação aos artigos 145, II e § 1º; 149; 150, I e IV; 165; 167, VIII; 195; e 239 da Constituição Federal.
+    O autor alega que não questiona a existência do Sistema de Controle de Produção de Bebidas, mas os custos com instalação e manutenção do Sicobe e a forma de ressarcimento dos custos suportados pela indústria, que levariam à queda de arrecadação das contribuições sociais. Afirma também que o valor de ressarcimento a ser pago à Casa da Moeda, estabelecido pela Receita Federal, teria sido fixado sem razoabilidade e por ato normativo infralegal.
+    Requer a concessão de medida liminar para suspender a eficácia dos atos impugnados, bem como de quaisquer atos declaratórios executivos deles decorrentes, e que ao final seja declarada sua inconstitucionalidade.
+    Apliquei ao feito o rito do art. 12 da Lei 9.868/1999. (eDOC 27)
+    A Câmara dos Deputados, em suas informações, historiou o processo legislativo do ato impugnado. (eDOC 33)
+    O Secretário da Receita Federal do Brasil traz nota explicativa da conformidade legal e constitucional dos atos normativos da Receita, ressaltando a eficácia do Sicobe para a fiscalização tributária. (eDOC 35)
+    O Senado Federal defende a constitucionalidade dos dispositivos legais impugnados. (eDOC 38)
+    O Advogado-Geral da União manifesta-se pelo não conhecimento da ação quanto aos atos oriundos da Secretaria da Receita Federal e pela improcedência do pedido quanto aos dispositivos legais. (eDOC 47)
+    O Procurador-Geral da República opina pelo não conhecimento da ação quanto aos indeterminados atos declaratórios executivos decorrentes das normas impugnadas e, no mérito, pela improcedência do pedido. (eDOC 48)
+    Deferi o ingresso nos autos, como amici curiae, do Instituto Brasileiro de Ética Concorrencial - ETCO; do Sindicato das Indústrias de Refrigerantes do Estado de Santa Catarina; e da Casa da Moeda do Brasil – CMB. (eDOC 56)
+    É o relatório.
+    Decido.
+    Verifico que os dispositivos legais aqui impugnados (art. 28, § 4º, da Lei 11.488/2007 e art. 58-T, caput e § 2º, da Lei 10.833/2003) foram revogados pela Lei 12.995, de 18 de junho de 2014, e Lei 13.097, de 19 de janeiro de 2015.
+    Portanto, impende reconhecer a perda superveniente do objeto desta ação, em conformidade com o entendimento firmado no julgamento da ADI 709/PR, rel. Min. Paulo Brossard (DJ 7.10.1992) e já consolidado na jurisprudência do Tribunal nos seguintes precedentes: ADI 1.889/AM, rel. Min. Eros Grau, DJ 3.10.2005, ADI 387/RO, rel. Min. Sepúlveda Pertence, DJ 9.9.2005; ADI 3.513/PA, rel. Min. Ellen Gracie, DJ 22.8.2005; ADI 2.436/PE, rel. Min. Joaquim Barbosa, DJ 26.8.2005, ADI 380/RO, rel. Min. Celso de Mello, DJ 4.3.2005; e ADI 3.408 AgR, rel. Min. Dias Toffoli, DJe 15.2.2017, este último assim ementado:
+    “Agravo regimental na ação direta de inconstitucionalidade. Tributário. Contribuições anuais. Conselhos de fiscalização de profissões regulamentadas. Impugnação de normas constantes da Lei nº 11.000/04. Revogação tácita pela Lei nº 12.514/04. Ação direta prejudicada. 1. As normas impugnadas na presente ação direta, constantes da Lei nº 11.000/04, foram tacitamente revogadas pela Lei nº 12.514/11. 2. A jurisprudência da Corte é pacífica quanto à prejudicialidade da ação direta de inconstitucionalidade, por perda superveniente de objeto, quando sobrevém a revogação da norma questionada. 3. Agravo regimental não provido”.
+    Quanto à Instrução Normativa 869/2008, os artigos 11 e 12 da Instrução Normativa RFB 869/2008 tiveram sua redação profundamente alterada pela Instrução Normativa RFB 1517/2014, sem que o requerente tenha promovido o aditamento da inicial.
+    Ademais, sua impugnação isolada não permite a continuidade do processo objetivo, por tratar-se de ato normativo secundário. A revogação do supedâneo legal que a fundamentava acarreta a perda de objeto também quanto a ela, como já sedimentado na jurisprudência desta Corte:
+    “AGRAVO REGIMENTAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. INSTRUÇÃO NORMATIVA DO INSS. CRÉDITO CONSIGNADO. ATO NORMATIVO SECUNDÁRIO. REGULAMENTAÇÃO DA LEI N.º 10.820/2003. CONTROLE DE LEGALIDADE. PRECEDENTES. NÃO CONHECIMENTO. 1. Nos termos da jurisprudência desta Corte, é inviável o controle concentrado de instrução normativa editada para regulamentar lei, desafiando o controle de legalidade e não de constitucionalidade. 2. Agravo regimental a que se nega provimento”. (ADI 6.111 AgR, rel. Min. Edson Fachin, Tribunal Pleno, DJe 17.5.2019)
+    Registro, ainda, que o Ato Declaratório Executivo COFIS 75/2016 suspendeu a indispensabilidade do SICOBE, desobrigando o pagamento das taxas e acabando com o sistema de ressarcimento de crédito, aqui questionados:
+    “O COORDENADOR-GERAL DE FISCALIZAÇÃO da atribuição que lhe confere o art. 8º da Instrução Normativa RFB nº 869, de 12 de agosto de 2008, declara:
+    Art. 1º Ficam os estabelecimentos industriais envasadores de bebidas, relacionados no anexo único deste ato, desobrigados – a partir de 13 de dezembro de 2016 – da utilização do Sistema de Controle de Produção de Bebidas (Sicobe) de que trata a Instrução Normativa RFB nº 869, de 2008.
+    Art. 2º Este ato entra em vigor na data de sua publicação no Diário Oficial da União”.
+    Pelas informações disponíveis no site da Receita Federal, a nova solução tecnológica que substituirá o SICOBE, em desenvolvimento pela Casa da Moeda, ainda não foi implementada.
+    Logo, considerando todas as alterações legislativas e infralegais na matéria, que levaram, inclusive, à suspensão de utilização do SICOBE, impõe-se o reconhecimento da perda de objeto da presente ação.
+    Ante o exposto, julgo prejudicada, pela perda superveniente de seu objeto, a presente ação direta de inconstitucionalidade (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 19 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
