@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “REMESSA NECESSÁRIA CONHECIDA DE OFÍCIO – AÇÃO DE INDENIZAÇÃO – ILEGITIMIDADE PASSIVA DO ESTADO DE MINAS GERAIS – TIRO DISPARADO POR AGENTE POLICIAL MILITAR – AGENTE À PAISANA E FORA DE SERVIÇO – ARMA DE FOGO PROPRIEDADE DO ESTADO – ATO NÃO PRATICADO EM NOME DO ENTE PÚBLICO – SENTENÇA CASSADA – RECURSOS PREJUDICADOS.
+    O Estado de Minas Gerais não possui legitimidade para figurar no polo passivo de ação de indenização proposta em decorrência de dano causado por ato praticado por agente público policial à paisana e fora de suas funções. Inteligência do art. 37, § 6º, CF” (pág. 4 do documento eletrônico 15).
+    Os embargos de declaração que se seguiram foram rejeitados (págs. 1-4 do doc. eletrônico 20).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se ofensa ao art. 37, § 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem assim dirimiu a controvérsia:
+    “[…]
+    Ao que se vê pra que o Estado de Minas Gerais seja parte em uma ação é necessário que seus agentes tenham praticado atos, ‘na qualidade de pessoa jurídica de direito público interno’, contra terceiros, o que não ocorreu na hipótese, como se infere do relato dos autores.
+    Assim, na hipótese em comento, apesar de o agente público estar, na data dos fatos, portando arma de fogo de propriedade do Estado de Minas Gerais, não estava em serviço, e nem mesmo uniformizado, o que afasta a possibilidade de responsabilização do ente público pelo ocorrido.
+    Tenho, portanto, que não se pode admitir como legitimidade a figurar no polo passivo de um demanda aquele que não tem capacidade para suportar os eventuais efeitos oriundos do provimento judicial, uma vez que o agente a paisana não estava agindo em nome do Estado de Minas Gerais” (págs. 6-7 do doc. eletrônico 15).
+    Nesses termos, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco julgados de ambas as Turmas da Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DISPARO DE ARMA DE FOGO PERTENCENTE À CORPORAÇÃO. AGENTE POLICIAL À PAISANA. INDENIZAÇÃO. INCURSIONAMENTO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279/STF. AGRAVO REGIMENTAL DESPROVIDO” (ARE 725.763-AgR/BA, Rel. Min. Luiz Fux, Primeira Turma).
+    “RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO (CF, ART. 37, § 6º) – CONFIGURAÇÃO – TEORIA DO RISCO ADMINISTRATIVO – MORTE CAUSADA POR DISPARO EFETUADO COM ARMA DE FOGO PARTICULAR MANEJADA POR POLICIAL MILITAR DO ESTADO DE PERNAMBUCO EM PERÍODO DE FOLGA – RECONHECIMENTO, PELO TRIBUNAL DE JUSTIÇA LOCAL, DE QUE SE ACHAM PRESENTES TODOS OS ELEMENTOS IDENTIFICADORES DO DEVER ESTATAL DE REPARAR O DANO – CARÁTER SOBERANO DA DECISÃO LOCAL, QUE, PROFERIDA EM SEDE RECURSAL ORDINÁRIA, RECONHECEU, COM APOIO NO EXAME DOS FATOS E PROVAS, A INEXISTÊNCIA DE CAUSA EXCLUDENTE DA RESPONSABILIDADE CIVIL DO PODER PÚBLICO – INADMISSIBILIDADE DE REEXAME DE PROVAS E FATOS EM SEDE RECURSAL EXTRAORDINÁRIA (SÚMULA 279/STF) – DOUTRINA E PRECEDENTES EM TEMA DE RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO – ACÓRDÃO RECORRIDO QUE SE AJUSTA À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL – SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE ‘TRABALHO ADICIONAL’ POR PARTE DO VENCEDOR DA DEMANDA (NÃO APRESENTAÇÃO DE CONTRARRAZÕES RECURSAIS) – AGRAVO INTERNO IMPROVIDO” (ARE 919.386-AgR/PE, Rel. Min. Celso de Mello, Segunda Turma)
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2020.
+Ministro Ricardo Lewandowski
+Relator
