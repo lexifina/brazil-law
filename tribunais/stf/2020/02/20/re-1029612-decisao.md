@@ -1,0 +1,16 @@
+IN    DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. FGTS. CONTRIBUIÇÕES SOCIAIS GERAIS. ART. 1º DA LEI COMPLEMENTAR Nº 110/01. CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal, no julgamento da Medida Cautelar em ADIN nº 2556, firmou posição no sentido da constitucionalidade das contribuições sociais gerais previstas na Lei Complementar nº 110/01, obstando apenas a exigibilidade das novas contribuições no mesmo exercício financeiro em que instituídas.
+    2. A natureza jurídica das duas exações criadas pela Lei Complementar nº 110/01 é tributária, classificando-se como contribuições sociais gerais, regidas pelo art. 149 da Constituição Federal.
+    3. Quanto à finalidade das contribuições combatidas, o Ministro Moreira Alves concluiu pela inequívoca finalidade social, a saber, atender ao direito social referido no inc. III do art. 7º da Constituição Federal, isto é, o Fundo de Garantia por Tempo de Serviço - FGTS.
+    4. A Corte Especial deste Tribunal, nos autos do Incidente de Arguição de Inconstitucionalidade nº 5029170-55.2015.404.0000, concluiu pela constitucionalidade do art. 1º da Lei Complementar nº 110/01, assentando (a) que a referida contribuição não foi instituída exclusivamente com a finalidade de resolver o déficit gerado pela necessidade de reparar os prejuízos sofridos pelos depositantes em decorrência dos Planos Verão (janeiro/89) e Collor I (abril/90), mas, também, com o objetivo de carrear para o FGTS um capital de proteção contra futuros desequilíbrios financeiros, e (b) que a Emenda Constitucional nº 33/01, que acrescentou o § 2º ao art. 149 da Constituição Federal, não invalida o referido tributo, uma vez que apenas dispôs que as contribuições instituídas com fundamento em tal dispositivo constitucional poderão ter as bases de cálculo nele mencionadas, sem prejuízo das demais bases de cálculo já indicadas pelo próprio texto constitucional.
+    5. Sentença mantida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, IV, XXXVI e LIV; 7º, IX, XXIII, XVI; 93, IX; 150, I, III, a; 154, I e 195, I, a, § 4º, todos da CF. Sustenta, em essência, a inconstitucionalidade da contribuição social prevista no art. 1° da LC 110/2001, diante do esgotamento da finalidade para a qual fora criada.
+    Em 24 de abril de 2017, determinei o sobrestamento do presente feito até o julgamento da ADI 5.050. Afasto o sobrestamento e passo à análise do recurso.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão em que se discute, à luz dos arts. 149 e 154, I, da Constituição Federal, se, constatado o exaurimento do objetivo para o qual foi instituída a contribuição social, deve ser extinto o tributo ou admitida a perpetuação da sua cobrança ainda que o produto da arrecadação seja destinado a fim diverso do original (Tema 846).
+    Diante do exposto, com base no art. 1.036 do CPC/2015 e no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 20 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
