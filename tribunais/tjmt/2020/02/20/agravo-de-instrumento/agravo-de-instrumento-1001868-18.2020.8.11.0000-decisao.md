@@ -1,0 +1,159 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1001868-18.2020.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DE BARRA DO GARÇAS
+AGRAVANTE: WILSON VILELA MEDEIROS FILHO;
+AGRAVADO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO.
+Vistos etc.
+Agravo de instrumento, com pedido de antecipação de tutela da pretensão recursal e efeito suspensivo, interposto por Wilson Vilela Medeiros Filho contra a decisão que, em ação civil de responsabilidade por ato de improbidade administrativa e de reparação de danos c/c pedido liminar de indisponibilidade de bens proposta pelo Ministério Público do Estado de Mato Grosso contra si, Adriana Cristine Pereira e outros, deferiu a liminar.
+Assegura que, “no período de março a agosto de 2016, embora ele tenha realizado plantões, exerceu cumulativamente e alternativamente os cargos em comissão de Coordenador de UTI (meses de março e maio/2016), e de Coordenador de Emergência (meses de abril, junho, julho e agosto/2016)”. Também, “em razão do cargo e do nível que exercia (coordenador de unidade de terapia intensiva e de emergência/ DAS-4), sequer havia a obrigatoriedade de registro eletrônico de assiduidade”.
+Assevera que “não registrou ponto no referido período justamente por que conhecia a norma inserta no art. 8o, inciso II, da Portaria no. 587/2015-MS, pelo que acreditava piamente estar agindo dentro dos quadrantes normativos”, pelo que se “tivesse agido de má-fé, em tese, haveria ao menos registros de ponto parciais, já que, ninguém, no exercício de um cargo público, no integral gozo das faculdades mentais, deixaria de registrar completamente sua frequência ao trabalho se não acreditasse estar agindo amparado por uma norma que o dispensasse de tal ônus”.
+Afiança que que, “não há contemporaneidade entre data da prática dos supostos atos ímprobos imputados (de abril a junho de 2016) e a data da decretação da indisponibilidade de bens (26.11.2019), o que demonstra a completa ausência de cautelaridade da medida deferida”.
+Afirma que, “embora seja possível a fungibilidade entre as tutelas provisórias, a decisão questionada também viola o disposto no parágrafo único do art. 311, do CPC, que não admite a concessão da tutela da evidência no caso do inciso IV, sem oportunizar o contraditório prévio à parte contrária”.
+Acentua que “a simples propositura da inicial, por si só, não constitui automaticamente fator presuntivo da existência de ‘fortes indícios da prática de ato de improbidade administrativa’ [...]. Esta aferição deve ser realizada no plano concreto e de forma individualizada pelo magistrado, inclusive, demonstrando, com base em elementos constantes dos autos e em critérios jurídicos próprios, a extensão de eventual responsabilidade de cada um dos envolvidos”.
+Alega que “a decisão que decretou a indisponibilidade de bens é nula por deficiência de fundamentação, em especial, pela ausência de demonstração concreta pelo magistrado dos critérios utilizados para aferição do valor de R$ 338.668,16 (trezentos e trinta e oito mil, seiscentos e sessenta e oito reais e dezesseis centavos), a título de indisponibilidade de bens do agravante”.
+Requer a antecipação de tutela da pretensão recursal para “liberar os valores e bens constritos”, ou subsidiariamente, “seja atribuído o efeito suspensivo”.
+É o relatório.
+Eis o dispositivo da decisão:
+[...] Ante todo o exposto e por tudo mais que dos autos consta defere-se o pedido liminar para determinar:
+- a indisponibilidade de bens dos demandados da seguinte forma:
+Adriana Cristine Pereira R$ 115.400,44
+Aldo Rosa Cruz R$ 350.213,6
+Antônio Bueno Junior R$ 134.165,68
+Carlos Eduardo Silva Leão R$ 35.880,00
+Clodoaldo Pirani Junior R$ 482.800,00
+Daniel Barbosa Rosa R$ 181.941,84
+Darcyane de Assis Cavalcante R$ 132.894,56
+Deyvid D’leonn Barros de Oliveira R$ 32.668,28
+Edila Maria Fonseca Mena R$ 237.609,84
+Fernando Elias Martins Fonseca R$ 92.000,00
+Frederico de Oliveira de Lima R$ 335.859,36
+Frederico Ligeiro Medeiros R$ 36.800,00
+Gentil Pagotto R$ 127.020,00
+Hilmar Dantas Reis R$ 135.429,92
+Jailton Pereira de Abreu R$ R$ 4.604.613,00
+João Washington Rocha R$ 84.618,08
+Jorge Eduardo Martins de Almeida R$ 51.714,72
+José Maria Alves Villar R$ 63.156,88
+Kwong Chun Cheung R$ 388.329,08
+Lorraine Malafaia da Conceição R$ 184.276,56
+Mara Cleyde Quirino R$ 221.125,64
+Mauro Fernando Gomes Ferreira R$ 4.604.613,00
+Misael Rioja Orellana R$ 22.001,76
+Primo Deliberalli R$ 159.913,24
+Rafael Joviano Souza de Barros R$ 211.536,24
+Reuller Deibas Pires da Silva R$ 130.162,80
+Silvonet de Campos R$ 314.701,76
+Tatiane Peres Vilarinho R$ 185.833,92
+Verônica Alves Vilar R$ 188.095,04
+Virgílio Bueno Vilela de Moraes R$ 399.412,00
+Wendel Balduino Macedo R$ 167.385,48
+Wilson Vilela Medeiros Filho R$ 338.668,16
+Wladimir Antônio de Faria R$ 329.568,16
+Seguem anexados os extratos referentes à ordem de bloqueio no BACENJUD e RENAJUD, bem como a inclusão e comunicação da decisão de indisponibilidade a Central Nacional de Indisponibilidade de Bens (CNIB).
+Para dar devida efetividade à medida, oficie-se, também, à Junta Comercial do Estado de Mato Grosso (JUCEMAT) para que se abstenham de quaisquer atos que impliquem na transferência de participação e/ou quotas em empresas comerciais de que sejam os requeridos cotistas ou acionistas.
+Indefiro, por ora, a quebra de sigilo fiscal. A medida é desarrazoada no momento, em face da proteção constitucional.
+Notifiquem-se os requeridos para oferecerem manifestação por escrito sobre os fatos objeto da ação, que poderá ser instruída com documentos e justificações, no prazo de 15 (quinze) dias, conforme disciplina inserta no art. 17 e § 7o da Lei no 8.429/92.
+Após, intime o Município de Barra do Garças/MT, para apresentar manifestação, bem como ao Poder Legislativo daquela cidade e, em seguida, abra vista ao Ministério Público se houver preliminares a enfrentar.
+Intimem-se. Notifiquem-se. Cumpra-se. [...]. (Id. 33185982, fls. 8/10).
+A conduta ímproba imputada ao agravante estaria configurada em razão de ter, em tese, recebido valores de plantões médicos sem a devida contraprestação do serviço.
+[...] A presente ação se insere no contexto dos fatos apurados no âmbito do Inquérito Civil no 055/2019, tendo sido constatado que os médicos Adriana Cristine Pereira, Aldo Rosa Cruz, Antônio Bueno Júnior, Carlos Eduardo Silva Leão, Clodoaldo Pirani Júnior, Daniel Barbosa Rosa, Darcyane de Assis Cavalcante, Deyvid D’leonn Barros de Oliveira, Edila Maria Fonseca Mena, Fernando Elias Martins Fonseca, Frederico de Oliveira Lima, Frederico Ligeiro Medeiros, Gentil Pagotto, Hilmar Dantas Reis, João Washington Rocha, Jorge Eduardo Martins de Almeida, Kwong Chun Cheung, Lorraine Malafaia da Conceição, Mara Cleyde Quirino, Mauro Fernando Gomes Ferreira, Misael Rioja Orellana, Primo Deliberalli, Rafael Joviano Souza de Barros, Reuller Deibas Pires da Silva, Silvonet de Campos, Tatiane Peres Vilarinho, Verônica Alves Vilar, Virgílio Bueno Vilela de Moraes, Wendel Balduíno Macedo, Wilson Vilela Medeiros Filho e Wladimir Antônio de Faria, que atuava (sic) no nível do Hospital Municipal Milton Pessoa Morbeck, receberam valores significativos por plantões médicos sem a contraprestação dos serviços, com o que concorreram os requeridos Jailton Pereira de Abreu e Mauro Fernando Gomes Ferreira, respectivamente, Diretor Geral e Diretor Técnico do Hospital Municipal.
+Com efeito, o Tribunal de Contas do Estado de Mato Grosso, no ano de 2016, realizou Auditoria de Conformidade sobre a Prestação de Serviços Médicos no Município de Barra do Garças, identificando, por ocasião das vistorias realizadas no Hospital Municipal Milton Pessoa Morbeck, que 32 médicos do Município de Barra do Garças, efetivos e contratados, receberam, no período de abril a junho de 2016, o pagamento de adicional de plantão como se a totalidade das horas previstas na escala tivessem efetivamente sido cumpridas, situação que de fato não ocorreu, a par da revelação do descumprimento sistemático e institucionalizado das horas médicas pactuadas, cujos apontamentos de frequência foram objeto de fraude, a par de que não descontadas as horas não trabalhadas, o que gerou pagamentos indevidos, proporcionando enriquecimento ilícito dos médicos beneficiados e significativo dano ao erário. [...]. (petição inicial, Id. 32804474, fls. 6).
+No relatório conclusivo de auditoria do Tribunal de Contas do Estado de Mato Grosso, datado de “agosto de 2017” (sic), ficou constatado:
+[...] Os registros de ponto individual dos médicos demonstram a falta de cumprimento da jornada de plantão estabelecida.
+Os registros de frequência não são expostos fielmente nos Relatórios de Apontamento de Horas Médicas.
+A Escala é apresentada como cumprimento da jornada de trabalho, mas ela somente apresenta a previsão de atendimento dos médicos no regime de plantão. O demonstrativo que informa o cumprimento da jornada é extraído do Sistema de Apuração de Pontos – Point Line, em que se demonstra que o cumprimento da jornada não é pleno.
+Essa deficiência de cumprimento gera dano, porque os médicos receberam sem prestar o serviço. Conforme a análise sintetizada no Anexo_do_Relatório_Técnico [...], o valor pago sem contraprestação é de R$ 506.000,39 [...]. (Id. 32804493 , fls. 4).
+O relatório regista, ainda, que “há médicos que receberam adicional noturno ao mesmo tempo que receberam horas plantão” (Id. 32804493, fls. 10).
+O contrato de trabalho por prazo determinado firmado pelo agravante com o Município de Barra do Garças está assim redigido:
+[...] Pelo presente Instrumento de Contrato de Trabalho por tempo determinado para atender a necessidade temporária de excepcional interesse público, a Prefeitura Municipal de Barra do Garças-MT [...] denominada a seguir Empregadora e o(a) Sr(a). Wilson Vilela Medeiros Filho [...] doravante designado Empregado(a) celebram o presente Contrato Individual de Trabalho, nos termos do Art. 443 & 1o da Consolidação das Leis de Trabalho e a Lei Municipal no 3.700, de 21 de dezembro de 2015, para atender necessidade temporária de excepcional interesse público nos termos do inciso IX do Art. 37 da Constituição Federal, regido pelas cláusulas e condições abaixo:
+1o - O empregado(a) trabalhará para a Empregadora no(a) Secretaria de Saúde no cargo de Médico Plantonista podendo, eventualmente ou permanentemente, segundo a necessidade realizar o seu serviço em outra área de governo, desde que compatível com as atribuições para as quais foi contratado.
+2o - O local de trabalho será o designado pela Empregadora e no âmbito da necessidade para a qual foi o Empregado(a) admitido(a), podendo, na forma da cláusula anterior, ser modificado, a critério da Empregadora.
+3o - Este contrato poderá ser rescindido a qualquer tempo. Por qualquer uma das partes desde que previamente comunicado por escrito, sendo que nenhum vínculo empregatício decorrerá do presente contrato.
+4o - Será distribuída conforme tabela de plantão, ficando a cargo da Empregadora estabelecer os turnos diários de trabalho de maneira a atender suas necessidades, sem prejuízos dos direitos do Empregado(a).
+5o - A remuneração mensal do(a) Empregado(a) é de R$ 115,00 por hora plantão (cento e quinze reais) com reajuste de acordo com a política salarial adotada para os demais servidores municipais.
+6o - A vigência do presente contrato será de 01/01/2016 até o dia 31/12/2016.
+7o - Além dos descontos previstos em lei reserva-se a Empregadora o direito de descontar as importâncias correspondentes aos danos causados pelo(a) Empregado(a).
+8o - As despesas com execução deste contrato correrão por conta da dotação orçamentária:
+Secretaria de Saúde ___________ Vencimentos e Vantagens Fixas.
+9o - Fica eleito o foro da Comarca de Barra do Garças, para dirimir quaisquer dúvidas do presente renunciando a qualquer outro por mais privilegiado que seja.
+Achando-se justos e Contratados, assinam o presente Instrumento, na presença das testemunhas abaixo.
+Barra do Garças – MT, 01 de janeiro de 2016. [...]. (Id. 32860453, fls. 7). [com e sem negrito no original]
+No “Apontamento de Horas Médicas” do Hospital e Pronto Socorro Milton Pessoa Morbeck, consta descrito os seguintes pagamentos, em favor do agravante:
+Mês de abril de 2016
+Cento e quatro (104) horas de “plantão UTI (normal)”
+R$ 11.960,00
+Dezesseis (16) horas de “plantão noturno UTI”
+R$ 1.840,00
+Vinte e cinco por cento (25%) de “adicional noturno UTI”
+R$ 460,00
+Quatro (4) horas de “plantão P.S – emergência (normal)”
+R$ 333,36
+Supervisor de AIH’S
+R$ 7.000,00
+Coordenador de Emergência
+R$ 10.585,00
+Mês de maio de 2016
+Cento e dezesseis (116) horas de “plantão UTI (normal)”
+R$ 13.340,00
+Dezesseis (16) horas de “plantão noturno UTI”
+R$ 1.840,00
+Vinte e cinco por cento (25%) de “adicional noturno UTI”
+R$ 460,00
+Quatro (4) horas de “plantão P.S – emergência (normal)”
+R$ 333,36
+Oito (8) horas de “plantão noturno emergência”
+R$ 666,72
+Vinte e cinco por cento (25%) de “adicional noturno emergência”
+R$ 166,68
+Coordenador de Emergência
+R$ 10.585,00
+Mês de junho de 2016
+Cento e dezesseis (116) horas de “plantão UTI (normal)”
+R$ 13.340,00
+Dezesseis (16) horas de “plantão noturno UTI”
+R$ 1.840,00
+Vinte e cinco por cento (25%) de “adicional noturno UTI”
+R$ 460,00
+Coordenador de Emergência
+R$ 2.000,00
+Doze (12) “Procedimento cirúrgico até 23/06/2016”
+R$ 4.290,00
+Doze (12) horas de “plantão P.S – emergência (normal)”
+R$ 1.000,08
+Vinte e quatro (24) horas de “plantão noturno emergência”
+R$ 2.000,16
+Vinte e cinco por cento (25%) de “adicional noturno emergência”
+R$ 333,36
+Vinte e cinco por cento (25%) de “adicional noturno emergência”
+R$ 166,68
+(Id's. 32881454, fls. 41; 32881454, fls 55; e 32881454, fls. 67)
+Entretanto, o documento nominado “Sistema de Apuração de Pontos – Point Line” aponta que, nos meses de abril, maio e junho de 2016, inexiste registro de horas trabalhadas no Hospital e Pronto Socorro Milton Pessoa Morbeck (Id. 32813968, fls. 7/9). Por outro lado, consta registrado tão somente a hora de entrada nos dias 18, 19, 21, 29 e 30 de maio de 2016, sem, contudo, constar a hora de saída.
+Por conseguinte, a alegação de que “não há sequer registro parcial de ponto justamente pelo fato de ele acreditar que o cargo DAS-4 que exercia era dispensado de efetuar os registros de frequências” (Id. 33185978, fls. 10), tem a exata consistência de uma bola de sabão.
+A circunstância de o agravante exercer cargo em comissão, de livre nomeação e exoneração, não o dispensava da obrigação de registrar o ponto em relação ao contrato temporário, visto que neste ficou estabelecido que o pagamento dar-se-ia por hora plantão.
+Aliás, a possibilidade de cumulação de cargo público (em sentido lato) está a exigir esclarecimento na fase instrutória.
+Além disso, no Relatório Complementar de Análise de Vínculo Empregatício por Estabelecimento de Saúde juntado ao inquérito civil, com a finalidade de demonstrar a “circunstância que pode constituir elemento influenciador para a falta de cumprimento da carga horária de trabalho e dos plantões médicos perante a Administração Pública Municipal”, apurou-se que:
+[...] o profissional, na qualidade de Médico Clínico e Médico em Medicina Intensiva, estava vinculado a 02 (dois) estabelecimentos de saúde, quais seja, (1) Hospital e Pronto Socorro Municipal Milton Pessoa Morbeck (público) e (2) Hospital São Benedito de Cuiabá/MT (público).
+A carga horária semanal por estabelecimento de saúde era a seguinte:
+· Hospital Municipal Milton Pessoa Morbeck (Clínico): 40 horas semanais;
+· Hospital São Benedito de Cuiabá (Medicina Intensiva): 12 horas semanais;
+O total de carga horária semanal, portanto, correspondeu a 52 horas semanais.
+O extrato completo dos dados obtidos no Cadastro Nacional de Estabelecimentos de Saúde (CNES) em relação ao médico Wilson Vilela Medeiros Filhos está contido no Anexo XXX deste relatório. [...]. (Id. 32995536, fls. 11).
+Portanto, nesta fase de cognição não exauriente, pode-se afirmar a presença de indícios suficientes da prática de atos de improbidade administrativa, a evidenciar a presença da fumaça do bom direito.
+Quanto à indisponibilidade de bens, a Lei no 8.429, de 2 de junho de 1992, no artigo 7o, dispõe sobre a tutela de urgência consistente na indisponibilidade de bens, cuja natureza é de cautelar e tem por finalidade impedir a quem é atribuída a prática de ato ímprobo, que causa prejuízo ao erário, se desfaça do seu patrimônio material, e, ao final, o ressarcimento do dano não se concretize, logo pode ser decretada antes do recebimento da inicial, decidiu o Superior Tribunal de Justiça:
+[...] O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual a decretação de indisponibilidade de bens é possível mesmo antes do recebimento da inicial da ação civil pública de improbidade administrativa, podendo ser lastreada em documentos ainda não submetidos ao contraditório, não havendo necessidade de prévia manifestação do acusado. [...]. (STJ, Primeira Turma, AgInt no REsp 1630633/SC, relator Ministra Regina Helena Costa, publicado no Diário da Justiça Eletrônico em 10 de novembro de 2017). [sem negrito no original]
+[...] 2. Esta Corte Superior firmou entendimento de que a indisponibilidade dos bens não está condicionada à comprovação de que o réu esteja dilapidando seu patrimônio, ou na iminência de fazê-lo, tendo em vista que o periculum in mora encontra-se implícito no comando normativo do art. 7o da LIA.
+3. O deferimento dessa medida não está condicionado ao recebimento da exordial e à prévia manifestação do réu. [...]. (STJ, Segunda turma, AgInt no AREsp 1045364/MS, relator Ministro Og Fernandes, publicado no Diário da Justiça Eletrônico em 25 de agosto de 2017). [sem negrito no original]
+Afinal de contas, a medida é consequência lógica do ato ímprobo que causou lesão ao patrimônio público, por força do disposto no artigo 37, § 4o, da Constituição da República Federativa do Brasil, que preceitua: “os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível”.
+[...] 3. A Corte de origem afirmou que mantinha a decretação da indisponibilidade de bens, diante ‘dos indícios de participação da agravante no suposto esquema engendrado’ (fl. 751, grifo acrescentado).
+4. Esclareça-se que não há como fugir ao decreto da indisponibilidade, uma vez que, estando dispensada a prova da dilapidação patrimonial ou de sua iminência, o registro da presença do fumus boni iuris é suficiente para autorizar a medida constritiva.
+5. É firme o entendimento no STJ de que a decretação de indisponibilidade dos bens não se condiciona à comprovação de dilapidação efetiva ou iminente de patrimônio, porquanto visa, justamente, a evitar dilapidação patrimonial futura. Nesse sentido: Recurso Especial Repetitivo 1.366.721/BA, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Og Fernandes, Primeira Seção, DJe 19.9.2014; AgRg no REsp 1.314.088/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27.6.2014; AgRg no REsp 1.407.616/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2.5.2014; AgRg no AREsp 287.242/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13.11.2013; AgRg no REsp 1.375.481/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2.5.2014; AgRg no REsp 1.414.569/BA, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13.5.2014; REsp 1.417.942/PB, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16/12/2013; AgRg no AREsp 415.405/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11.12.2013; AgRg nos EREsp 1.315.092/RJ, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 7.6.2013; AgRg no AgRg no REsp 1.328.769/BA, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 20.8.2013; REsp 1.319.583/MT, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 20.8.2013; AgRg no AREsp 144.195/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 9/4/2013; AgRg no AREsp 133.243/MT, Rel. Ministro Castro Meira, Segunda Turma, DJe 24.5.2012; AgRg no REsp 1.312.389/PA, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 14.3.2013; AgRg no AREsp 197.901/DF, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 6.9.2012; AgRg no AREsp 188.986/MG, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 24.9.2012; AgRg nos EDcl no REsp 1.271.045/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 12.9.2012; REsp 1.373.705/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/9/2013; REsp 1.319.484/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20.6.2014, REsp 1.304.148/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9.5.2013, e REsp 1.308.512/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1o.8.2013.
+6. Ademais, alterar o entendimento firmado pelo Tribunal de origem demanda reexame dos elementos fático-probatórios dos autos, o que é inviável em Recurso Especial, diante do óbice da Súmula 7/STJ.
+7. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ. [...]. (STJ, Segunda Turma, REsp 1653591/MT, relator Ministro Herman Benjamin, publicado no Diário da Justiça Eletrônico em 30 de junho de 2017). [com itálico no original]
+Ademais, é fora de qualquer dúvida que “deve recair sobre tantos bens quantos forem suficientes a assegurar as consequências financeiras da suposta improbidade, inclusive a multa civil. Precedentes: REsp 1115452/MA; REsp 1194045/SE e REsp 1135548/PR.” (STJ, Primeira Turma, AREsp 20853/SP, relator Ministro Benedito Gonçalves, publicado no Diário da Justiça Eletrônico em 29 de junho de 2012).
+[...] O Superior Tribunal de Justiça, ao interpretar o art. 7o da Lei no 8.429/92, tem decidido que, por ser medida de caráter assecuratório, a decretação de indisponibilidade de bens, ainda que adquiridos anteriormente à prática do suposto ato de improbidade, deve incidir sobre quantos bens se façam necessários ao integral ressarcimento do dano, levando-se em conta, ainda, o potencial valor de multa civil. Precedentes. [...]. (STJ, Primeira Turma, AgRg no REsp 1260737/RJ, relator Ministro Sérgio Kukina, publicado no Diário da Justiça Eletrônico em 25 de novembro de 2014). [sem negrito no original]
+Essas, as razões por que determino o processamento do recurso, sem atribuir a ele efeito suspensivo, bem como sem deferir, em antecipação de tutela, a pretensão recursal.
+Intimem-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Após, à Procuradoria-Geral de Justiça.
+Intimem-se.
+Às providências.
+Cuiabá, 20 de fevereiro de 2020.
+Des. Luiz Carlos da Costa
+Relator
