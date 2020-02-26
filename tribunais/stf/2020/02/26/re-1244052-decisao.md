@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “APELAÇÃO CÍVEL – PENSÃO POR MORTE A ASCENDENTE – PRINCÍPIO CONSTITUCIONAL DA ISONOMIA – INCONSTITUCIONALIDADE DO ART. 90 DA LEI COMPLEMENTAR ESTADUAL N 030/2001 JÁ PRONUNCIADA – DEPENDÊNCIA ECONÔMICA DEMONSTRADA – PENSÃO POR MORTE DEVIDA – RECURSO CONHECIDO E PROVIDO.
+    1. Em observância ao princípio constitucional da isonomia, esta Corte já declarou a inconstitucionalidade do art. 90 da Lei Complementar Estadual n. 030/2001 (arguição de inconstitucionalidade 0010673-16.013-8.04.0000), de forma que não é condição a eventual concessão de pensão aos ascendentes do falecido a inserção expressa na condição de beneficiário.
+    2. Hipótese dos autos em que o contexto probatório evidenciou a configuração da situação de fato caracterizadora da dependência econômica, determinante da relação previdenciária de dependência entre a mãe e a filha falecida.
+    3. Recurso conhecido e provido.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 18; 149, §1º e 195, §5º, todos da CF.
+    O recurso não deve ser provido, tendo em vista que para dissentir do acórdão recorrido seria necessária a análise do material fático-probatório dos autos, procedimento inviável nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de serem observados fatos subjacentes, veja-se o seguinte trecho do acórdão recorrido:
+    “De acordo com o bojo probatório produzido, a recorrente dispunha, quando da propositura da demanda, de 67 anos de idade, sem instrução relevante, não trabalha, é viúva e conta com benefício previdenciário decorrente da morte de seu ex-marido, no valor de dois salários mínimos.
+    Não obstante, a apelante afirma que somente tinha a falecida como filha, não dispondo de nenhum parente com dever de auxílio e socorro material.
+    Dos elementos carreados aos autos, não há como se concluir diversamente sobre a existência de dependência econômica em relação à sua filha.
+    A uma, porque ainda que se tangencie acerca de eventual renda auferida pela apelante, a mesma é claramente desprovida de expressividade quanto ao seu valor econômico, não sendo suficientes para suprir todas as necessidades básicas e elementares da recorrente, tais como: água, luz,saúde, alimentação e transporte, por exemplo.
+    A duas, porque, pelo que se infere dos autos, a filha falecida autora era detentora de maior projeção econômica, eis que servidora pública estadual, não se podendo, então, afirmar que eram desprezíveis para a satisfação das necessidades elementares do núcleo familiar em que vivia, com a autora, sua mãe, mas, ao contrário, era essa renda de maior significado para a economia do lar, tanto que, consoante se infere do bojo probatório, as contas mais importantes estavam sob a responsabilidade da falecida.
+    Destaque-se que resta evidenciado que a referida falecida, em vida, era a provedora das necessidades da apelante, na medida em que, solteira e residindo com a genitora, pagava as despesas do lar (contas de água, luz, telefone e de supermercado, por exemplo) com habitualidade e não a título eventual, em sintonia com a prova documental apresentada, salientando que, como bem demonstrado, a apelante e seu esposo eram arrolados pela filha como seus dependentes em sua declaração de ajuste anual junto a Receita Federal do Brasil, segundo demonstra a cópia da declaração anexada.
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 26 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
