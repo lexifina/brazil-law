@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Ação Anulatória de Ato Administrativo - Multa aplicada em razão da quebra de bloqueio determinado por Lei contra vendas por Telemarketing - Liminar para suspensão dos efeitos até final decisão negada - Circunstância em que houve a correta instauração de processo administrativo no qual houve contraditório, sendo improvido o recurso da apelante - Infração à lei plenamente comprovada nos autos - Improcedência - Recurso improvido.” (eDOC 5, p. 16)
+    Opostos embargos de declaração, foram rejeitados. (eDOC 5, p. 82)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, c e d da Constituição Federal, aponta-se violação aos arts. 1º, IV; 5º, II, LIV e LV; 21, XI; 22, IV; 37; 93 e; 170 do texto constitucional.
+    Nas razões recursais, alega-se que a multa é inconstitucional em virtude de dificultar, limitar e impedir o direito de utilização dos meios de telecomunicação, cuja organização, funcionamento e normatividade é de competência exclusiva da União.
+    Aduz ainda que houve violação aos princípio da livre iniciativa, legalidade, impessoalidade, moralidade, publicidade e eficiência, bem como os princípios da ampla defesa, contraditório, devido processo legal.
+    Afirma ainda terem sido violados o princípio da defesa do consumidor, que garante os valores sociais do trabalho e da livre iniciativa, assim como afronta a razoabilidade e a proporcionalidade. Aponta ainda ausência de fundamentação da decisão, por ter sido aplicado pena superior a mínima, pela falta de menção aos cálculos da multa, seus parâmetros, formas de apuração, o que caracteriza falta de motivação. (eDOC 5, p. 161/194)
+    Em parecer, a Procuradoria Geral da República opinou pelo provimento do agravo e do recurso extraordinário. ( eDOC 14)
+    É o relatório.
+    Decido.
+    A irresignação merece prosperar.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    No que se refere à alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, observo que o Supremo Tribunal Federal já apreciou essa matéria no ARE-RG 748.371 (tema 660), de minha relatoria. Nessa oportunidade, esta Corte rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário nesse ponto.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 13.226/2008) e o conjunto probatório constante dos autos, consignou que não existe inconstitucionalidade na referida lei, sendo reconhecida a legitimidade do procon para a aplicação de sanções. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O recurso não comporta provimento porque a sentença entregou ao caso a solução correta.
+    Trata-se de Ação Anulatória de Ato Administrativo por meio da qual pretendia a autora, inicialmente, a concessão de liminar para a suspensão de multa que lhe foi aplicada pelo Procon em razão de desrespeito à Lei no 13.226/08, que previu o cadastro para bloqueio de ligações de Telemarketing que proibia a autora de vender seus produtos por telefone.
+    As preliminares arguidas, são de pronto afastadas, como também já o foram na decisão apelada, inexistindo qualquer vício ou irregularidade na mesma.
+    Com efeito,. houve o enfrentamento de todas as questões postas pela autora à fls.866/867.
+    Outrossim, não existe qualquer inconstitucionalidade na lei no 13.226/08, bem como no DF no 53.921/08, pois, esta C. Câmara já reconheceu a legitimidade do Procon para a aplicação de sanções, na Apelação no 994.09.368471-7, que teve como relator o E. Desembargador Wanderley Federigui e, do voto condutor permite-se transcrever a seguinte ementa:
+    …
+    Assim, torna-se evidente inexistir inconstitucionalidade na lei apontada porque, de que adianta se estabelecer a proibição, se não se arma o órgão responsável pela fiscalização, para que possa coibir os abusos, como é o caso dos autos.
+    Desta forma,à União é reservada a competência para a ger4ação das normas e, ao Estado a competência suplementar para que possa agir onde não o fizer a União.
+    Ademais, tal lei também não veda as práticas da livre iniciativa; apenas a regulamenta e proibindo ligações aos consumidores que se voltarem contra tal prática; é direito fundamental, assim como a livre atividade econômica.
+    Quanto ao mérito, melhor sorte não assiste à apelante porquanto a sua atuação ficou suficientemente demonstrada pela prova trazida aos autos, atuação essa que desaguou em processo administrativa sancionatório, no qual foi permitido o contraditório e que também deu causa à aplicação da multa impugnada.
+    Conforme se observa, naquela oportunidade a autora interpôs o recurso de fls.308/318, e que foi improvido e mantida a multa (fls.320/322).
+    Com efeito, a sentença abordou todos esses pontos, inclusive no que tange à incompetência constitucional do Procon, de acordo com o artigo 55, e seus parágrafos do Código de Defesa do Consumidor.
+    Mesmo no que toca à aplicação da multa, sem qualquer censura ao que ficou decidido, pois, restou evidente a conduta grave da autora, que chegou a ligar mais de 30 vezes para números cadastrados no bloqueio, havendo desrespeito reiterado à Lei.” (eDOC 5, p. 17/18)
+    Desta forma, acórdão recorrido entendeu que o Estado de São Paulo é competente para editar lei que imponha obrigação a cargo da empresa concessionária de serviço de telecomunicações. A jurisprudência desta corte é firme no sentido contrário, conforme se vê deste precedente, tratando do mesmo tema:
+    “Processo legislativo. Ação Direta de Inconstitucionalidade. Lei estadual que cria obrigações para empresas prestadoras do serviço de telecomunicações. Inconstitucionalidade. 1. A Lei nº 12.239/2006, do Estado de São Paulo, obriga as companhias operadoras de telefonia fixa e móvel a constituírem cadastro especial de assinantes do serviço interessados no sistema de venda por meio de telemarketing. 2. Compete à União Federal legislar privativamente sobre o serviço de telecomunicações (CF, art. 22, IV), bem como a sua exploração (CF, art. 21, XI, CF). Exercício abusivo da competência legislativa estadual. 3. Procedência da ação direta.” (ADI 3.959, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 10.05.2016)
+    Ante o exposto, dou provimento ao recurso extraordinário (art. 932, V, b do CPC, c/c art. 21, § 1º, do RISTF) para reformar o acórdão recorrido, julgando procedente o pedido do recorrente.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
