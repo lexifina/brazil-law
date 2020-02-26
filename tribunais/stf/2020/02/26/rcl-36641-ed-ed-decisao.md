@@ -1,0 +1,32 @@
+Decisão: Trata-se de segundos embargos de declaração opostos contra decisão que julgou procedente a reclamação para cassar o acórdão reclamado, no ponto em que afastou a incidência do art. 94, II, da Lei 9.472/1997, determinando que outro seja proferido, nos termos da jurisprudência desta Corte. (eDOC 53)
+    Em suas razões, a embargante alega omissão quanto à ocorrência de trânsito em julgado da decisão reclamada. Aduz que “cerca de 4 (quatro) anos antes do julgamento do tema pelo Supremo Tribunal Federal, a decisão que reconheceu a ilicitude da terceirização e declarou a existência de vínculo do trabalhador com a empresa tomadora (TIM) já havia transitado em julgado”. (eDOC 55, p. 2)
+    Desta forma, requer sejam providos os embargos com efeito modificativos para sanar a omissão apontada.
+    Intimada, a parte embargada apresentou contrarrazões, sustentando que o ato reclamado “se trata de decisão interlocutória, não dando assim encerramento ao processo, mas apenas mandando retornar para proferir novo julgamento, ou seja, NÃO HÁ TRÂNSITO EM JULGADO, processo continua tramitando normalmente, onde foi proferida novo Acórdão e houve continuação de seu trâmite”. (eDOC 58, p. 2).
+    Passo a decidir.
+    No caso, a embargante alega ocorrência do trânsito em julgado do ato judicial impugnado.
+    Com razão a embargante.
+    Extrai-se dos autos que o acórdão reclamado, que deu provimento ao recurso de revista para reconhecer a ilicitude da terceirização, foi publicado em 13.6.2014. Confira-se trecho da decisão:
+    “Esta Corte tem entendido que o artigo 94 da Lei nº 9.472/97, ao autorizar a contratação de terceiros para o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço, não se refere à atividade-fim da empresa, mas apenas autoriza a terceirização de atividades-meio.
+    No presente caso, o serviço terceirizado pela segunda Reclamada (Tim Celular S.A.) foi o de teleatendimento (call center), o qual, nos termos da atual jurisprudência da SBDI-1 do TST e desta Turma, classifica-se como atividade-fim das empresas de telefonia, razão por que a hipótese dos autos revela-se enquadrada no item I da Súmula 331 do TST.
+    (…)
+    Nesse contexto, conclui-se que o Regional, ao declarar a licitude da terceirização de serviços e ao afastar o reconhecimento do vínculo de emprego com a tomadora dos serviços, contrariou a invocada Súmula 331, I, do TST, o que autoriza a admissão do presente Recurso de Revista, com fulcro no § 6º do artigo 896 da CLT.
+    Conheço.
+    (…)
+    Conhecido o Recurso de Revista por contrariedade à Súmula 331, I, do TST, a consequência lógica é o seu provimento para, reformando o acórdão regional, restabelecer a sentença de origem quanto ao reconhecimento do vínculo de emprego com a TIM Celular S.A. (segunda Reclamada) e determinar o retorno dos autos ao TRT da 3ª Região a fim de que analise a pretensão da Reclamante às vantagens previstas nos instrumentos normativos da categoria (diferenças de piso salarial e de tíquete-refeição, participação nos lucros, diferenças de reajustes salariais e multas previstas nos acordos coletivos).”
+    Verifica-se ainda que não foi interposto recurso pela ora reclamante em face da referida decisão, motivo pelo qual ocorreu o trânsito em julgado da questão, em 1.7.2014, e os autos retornaram à origem para que decidisse sobre “as vantagens previstas nos instrumentos normativos da categoria (diferenças de piso salarial e de tíquete-refeição, participação nos lucros, diferenças de reajustes salariais e multas previstas nos acordos coletivos)”.
+    Tendo em vista que a presente reclamação somente foi ajuizada no dia 2.9.2019, ou seja, após a ocorrência do trânsito em julgado do ato judicial que se busca impugnar, incide na hipótese o teor da Súmula 734, a saber:
+    “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    Nos mesmos termos, registro que o Código de Processo Civil de 2015, confirmando essa jurisprudência, estabeleceu a inadmissibilidade da reclamação após o trânsito em julgado da decisão impugnada, nos seguintes termos:
+     “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+     (…)
+     § 5º É inadmissível a reclamação:
+     I – proposta após o trânsito em julgado da decisão reclamada”.
+     Desse modo, é inviável a reclamação contra o Processo 0001977- 37.2013.5.03.0010, uma vez que a decisão impugnada transitou em julgado para a parte reclamante. Cito, a propósito, precedentes de ambas as turmas:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO CONSTITUCIONAL. RECLAMAÇÃO MANEJADA PARA DISCUTIR ATO JUDICIAL JÁ ACOBERTADO PELA COISA JULGADA. ART. 988, 5º, I, DO CPC/2015. SÚMULA 734/STF. RAZÕES RECURSAIS QUE APENAS REPETEM, IPSIS LITTERIS, OS ARGUMENTOS TRAZIDOS EM SEDE DE EMBARGOS. AGRAVO NÃO CONHECIDO. 1. Incabível reclamação constitucional ajuizada para discutir ato decisório que já tenha transitado em julgado e acobertado pela coisa julgada, a teor do art. 988, 5º, I, do CPC/2015. Aplicação da Súmula 734 do STF. 2. Razões recursais de Agravo Regimental que repetem, ipsis litteris, os argumentos já afastados em sede de embargos declaratórios, a demonstrar total ausência de aptidão para infirmar decisão monocrática. 3. A jurisprudência desta Corte é firme no sentido de que, nos casos em que as razões do recurso não impugnam os fundamentos da decisão agravada ou deles estejam dissociadas, não resta preenchido o requisito de regularidade formal disposto no artigo 317, 1º, do RISTF e no artigo 1.021, §1º, do CPC/2015. 4. Agravo regimental não conhecido”. (Rcl 25.311 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 6.6.2018)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. SÚMULA 734 DO STF. NÃO CABIMENTO DE RECLAMAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO. 1. A Reclamação que ataca decisão em processo já transitado em julgado esbarra no óbice do art. 988, § 5º, I, do CPC e da Súmula 734/STF. 2. Agravo regimental a que se nega provimento, com aplicação de multa, fixada em R$ 1.000,00 (mil reais), observado o disposto no art. 1.021, § 5º, do CPC”. (Rcl 25.476 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 22.8.2018)
+    Ante o exposto, acolho os presentes embargos de declaração para tornar sem efeito as decisões de eDOCs 43 e 53 e negar seguimento à reclamação (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
