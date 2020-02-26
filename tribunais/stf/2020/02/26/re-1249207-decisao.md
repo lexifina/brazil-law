@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 26ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E LUCROS CESSANTES. 1. Se a parte não justificou adequadamente a pertinência e relevância da prova que pretendia produzir, bem como a sua utilidade para o deslinde do feito, não pode ser reconhecido o cerceamento de defesa. 2. A sentença proferida fora do pedido deve ser reformada em parte com adequação aos termos requeridos na inicial. 3. Cabe à concessionária, responsável pela administração e conservação da rodovia, a obrigação de reparar os prejuízos causados pela presença de animal na pista de rolamento. Inteligência do artigo 37, § 6º, da Constituição da República. 4. Comprovado que os transtornos sofridos pelo autor geraram inconteste abalo moral, justifica-se a reparação do dano daí decorrente. 5. O valor do dano moral deve ser aferido com razoabilidade, sem excesso, para que não gere enriquecimento, nem com insignificância, que o torne inexpressivo. 6. O dano material, para ser ressarcido, deve ser comprovado, bem como os gastos realizados pelo autor a este título, não sendo admissível a adoção de valor módico sem nenhuma comprovação. 7. O lucro cessante, como espécie dos lucros e perdas, de natureza material, não se presume, pois sua comprovação constitui pressuposto da obrigação de indenizar. Recurso provido em parte.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, § 6º, da CF.
+    O recurso é inadmissível, tendo em vista que para concluir pela constitucionalidade apontada seria imprescindível a análise do material fático probatório dos autos, procedimento vedado nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de serem observados fatos subjacentes, veja-se o seguinte trecho do acórdão recorrido:
+    “Ora, pelo conjunto probatório amealhado nos autos restou comprovado e incontroverso que o autor colidiu com animal (cachorro) que estava na rodovia administrada pela ré.
+    Além disso, em momento algum restou evidenciada conduta irregular do autor como, por exemplo, a condução do veículo em alta velocidade ou sob efeito de álcool.
+    No mais, cumpre trazer o ensinamento do eminente RUI STOCO (in “Tratado de Responsabilidade Civil”, 7ª ed., RT., p. 1430/31), ao tratar da questão do pedágio e da obrigação das concessionárias quando da presença de animais na pista, nos seguintes termos:
+    […]
+    Em síntese: evidenciada a responsabilidade da concessionária, nos termos da disposição contida no artigo 37, § 6º, da Constituição da República, de rigor o dever de indenizar pelos danos demonstrados.
+    E no que tange aos danos morais, inquestionável o dano moral sofrido pelo autor que sofreu fratura em seu punho esquerdo, sendo necessário se submeter a procedimentos médicos constantes até a consolidação do trauma suportado, além do trauma psicológico causado pelo acidente.
+    Dessa forma, é devida a indenização pelos danos morais sofridos, uma vez que é decorrência lógica dos fatos apurados nos autos a dor e o padecimento sofrido pelo autor em decorrência da conduta da apelante.
+    Portanto, comprovada a ocorrência dos danos morais, de rigor a manutenção da condenação e no montante fixado no julgado ora recorrido.”
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 26 de fevereiro de 2020.
+Ministro Luís Roberto Barroso
+Relator
