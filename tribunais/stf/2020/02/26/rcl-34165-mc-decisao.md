@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 16 – ACÓRDÃO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Cubatão/SP assevera haver o Tribunal Regional do Trabalho da 2ª Região, no processo nº 1001083-22.2016.5.02.0251, olvidado o decidido na ação declaratória de constitucionalidade nº 16/DF e, sob o ângulo da repercussão geral, no recurso extraordinário nº 760.931.
+    Segundo narra, foi condenado, de forma subsidiária, ao pagamento de créditos trabalhistas devidos a empregada de prestadora de serviços, considerada terceirização de mão de obra. Esclarece declarada, no processo objetivo, a validade do § 1º do artigo 71 da Lei nº 8.666/1993, a impedir a responsabilização direta e automática da Administração Pública. Salienta reafirmada a óptica, em sede de repercussão maior, no julgamento do aludido extraordinário, no que assentada a inadequação da imposição, ao Poder Público, de obrigação subsidiária em virtude de simples inadimplemento da contratada. Ressalta fiscalizado, no caso concreto, o cumprimento dos deveres contratuais.
+    Sob o ângulo do risco, alude à irrepetibilidade de verbas de caráter alimentar.
+    Requer, no campo precário e efêmero, a imediata cassação do pronunciamento atacado. Busca a confirmação da providência, inclusive em relação à multa aplicada pelo Tribunal reclamado.
+    2. No tocante à alegada inobservância do decidido no recurso extraordinário nº 760.931, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela que o cabimento desta medida, objetivando ver reconhecida erronia quanto à sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando examinado agravo interposto em face de inadmissão de extraordinário. O requisito não foi atendido, uma vez direcionada a irresignação contra ato surgido da apreciação de recurso ordinário.
+    Da leitura do acórdão impugnado depreende-se em jogo discussão sobre a atribuição, ao Poder Público, de responsabilidade por créditos devidos a empregada de prestadora de serviços, ante arguida falha na fiscalização do contrato de terceirização. O Pleno, no dia 24 de novembro de 2010, julgou procedente o pedido formulado na ação declaratória de constitucionalidade nº 16 e proclamou a harmonia, com a Constituição Federal, do § 1º do artigo 71 da Lei nº 8.666/1993, no que excluída, de modo automático, a responsabilização subsidiária da tomadora – Administração Pública. Em 30 de março de 2017, reiterou a óptica ao concluir, sob o ângulo da repercussão maior, a análise do recurso extraordinário nº 760.931.
+    3. Defiro a liminar para suspender, até o julgamento final da reclamação, a eficácia do acórdão do Tribunal Regional do Trabalho da 2ª Região no recurso ordinário nº 1001083-22.2016.5.02.0251, quanto à imposição de responsabilidade subsidiária ao Município de Cubatão/SP.
+    4. Retifiquem a autuação para incluir, como interessada, Marilene Maria da Silva, considerada a relação subjetiva formada no processo originário.
+    5. Citem as interessadas e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 26 de fevereiro de 2020.
+Ministro MARCO AURÉLIO
+Relator
