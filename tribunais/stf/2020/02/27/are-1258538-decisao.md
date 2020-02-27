@@ -1,0 +1,36 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33, CAPUT, DA LEI 11.343/2006. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. DESCABIMENTO. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “PENAL -TRÁFICO DE DROGAS - ILEGALIDADE DA BUSCA E APREENSÃO - INOCORRÊNCIA - DESCLASSIFICAÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - RECONHECIMENTO DA CIRCUNSTÂNCIA ATENUANTE DA CONFISSÃO ESPONTÂNEA - INVIABILIDADE - RECURSO IMPROVIDO.
+    1. Tratando-se de delito de tráfico de droga, considerando sua natureza permanente, não há se falar em ilegalidade do mandado de busca e apreensão e consequentemente dos atos subsequentes e de prova obtida por meio ilícito, posto que a invasão de domicilio no caso de flagrante é recepcionada pela Constituição Federal nos termos do artigo 5° inciso XI.
+    2. Impõe-se a condenação quando comprovadas estão a autoria e a materialidade do delito de tráfico de droga, afastando-se o pleito desclassificatório.
+    3. Incabível é o reconhecimento da circunstância atenuante da confissão espontânea vez que não foi confessada a prática do delito.
+    4. Recurso Improvido.” (Doc. 1, p. 215)
+    Os embargos infringentes opostos foram rejeitados em acórdão assim ementado:
+    “EMBARGOS INFRINGENTES E DE NULIDADE - TRÁFICO DE DROGAS - VIOLAÇÃO DE DOMICÍLIO - INOCORRÊNCIA – CRIMES PERMANENTES - INEXISTÊNCIA DE PROVA ILÍCITA - MATERIALIDADES DELITIVAS COMPROVADAS – EMBARGOS INFRINGENTES REJEITADOS.
+    O crime de tráfico ilícito de entorpecentes é de natureza permanente, cuja consumação se prolonga no tempo, de forma que, enquanto o agente mantém em sua guarda substância entorpecente, em desacordo com determinação legal ou regulamentar, está em estado de flagrância, o que permite que a prisão ocorra a qualquer tempo, independentemente de mandado de busca e apreensão.” (Doc. 1, p. 261)
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XI, da Constituição Federal. (Doc. 1, p. 278-288)
+    Argumenta que “a entrada dos policiais na residência do réu se deu de forma manifestamente ilegal, pois não acobertada por mandado judicial”. (Doc. 1, p. 285)
+    A Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, com fundamento nos artigos 1.030, I, e 1.040, I, do Código de Processo Civil, aplicou a sistemática da repercussão geral e negou seguimento ao recurso extraordinário, em decisão assim fundamentada:
+    “O Supremo Tribunal Federal definiu a questão constitucional sub examine, ao julgar o RE 603.616, tema n° 280, Relator Ministro GILMAR MENDES, publicado em 10/05/2016, recurso no qual foi reconhecida a repercussão geral da matéria, restando assentado que: […].
+    Na hipótese dos autos, constato que o acórdão recorrido amolda-se à orientação consolidada pelo Supremo Tribunal Federal, devendo, portanto, ser negado seguimento ao extraordinário, a teor do que dispõe o inciso I dos artigos 1.030 e 1.040 do Código de Processo Civil.” (Doc. 1, p. 309-310)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O recurso de agravo é inadmissível contra decisão que aplica a sistemática da repercussão geral. Nesse sentido:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+    1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+    2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+    3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+    4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (AI 760.358-QO, Rel. Min. Gilmar Mendes, Plenário, DJe de 19/2/2010)
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+    É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+    A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+    Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+    Agravo regimental a que se nega provimento.” (ARE 761.661-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe de 28/4/2014)
+    Destaco que, após o exame da existência de repercussão geral da matéria versada no recurso extraordinário, pelo Supremo Tribunal Federal, compete às cortes de origem a aplicação da decisão aos demais casos. Nesse sentido, ARE 823.651, Rel. Min. Gilmar Mendes, DJe de 16/9/2014; AI 846.808-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 10/11/2014; Rcl 11.940, Rel. Min. Ricardo Lewandowski, DJe de 14/2/2014; Rcl 12.395-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 6/11/2013; Rcl 15.080-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 18/2/2014; e Rcl 16.915-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 13/3/2014, com a seguinte ementa:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. CONSTITUCIONAL. PROCESSUAL PENAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Ex positis, NÃO CONHEÇO do agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
