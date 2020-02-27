@@ -1,0 +1,30 @@
+Trata-se de reclamação com pedido de liminar proposta por AEC Centro de Contatos S/A contra acórdão proferido pelo Tribunal Regional do Trabalho da 3ª Região - TRT3 nos autos da Reclamação Trabalhista 0000074-83.2016.5.13.0009.
+    A reclamante alega violação da Súmula Vinculante 10 e das decisões proferidas nos julgamentos da ADPF 324/DF e do RE 958.252-RG/MG (Tema 725 da Repercussão Geral).
+    Aduz que,
+    “[a]o apreciar e julgar o RO da ora reclamada, nos autos do processo 0000074-83.2016.5.13.0009, a 2ª Turma do TRT 13, fundamentou que a Lei 9.472/1997 não se estende ao direito do trabalho, contrariando o que dispõe a redação do art. 94, II da referida Lei, que autoriza a contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço, bem como a implementação de projetos associados:
+    ‘Esclareça-se ainda que a Lei nº 9.472/1997, art. 94, II, vincula apenas o órgão regulador e a concessionária, não se estendendo ao Direito do Trabalho, ou a qualquer outro, pois assim estabelece o parágrafo primeiro da norma em tela: Em qualquer caso, a concessionária continuará sempre responsável perante a Agência e os usuários.
+    Destarte, evidenciada a terceirização de atividade-fim, é ilícita a intermediação, consoante os itens I e II da Súmula 331 do Colendo TST, devendo ser declarada nula a teor do disposto no art. 9º da CLT [...]”.
+    Mencionada Lei não deixa dúvidas de que é expressa e literal a autorização para terceirização de atividades não só complementares e acessórias, mas também das atividades inerentes às concessionárias, que nada mais são do que a indigitada atividade fim perseguida pela Justiça Especializada, pois se o que é inerente é o que é inseparável, não pode ser menos do que os fins do contrato da concessionária” (págs. 4-5 do documento eletrônico 1 – grifos no original).
+    Requer, ao final,
+    “[...] a concessão da antecipação dos efeitos da tutela em liminar, [...] para que, cautelarmente, seja cassada a decisão Reclamada, oriunda da Reclamação Trabalhista nº 0000074-83.2016.5.13.0009, em curso perante a 3ª Vara do Trabalho de Campina Grande, substituindo-a pelo entendimento de licitude da terceirização conforme decisão da ADPF 324 e o RE 958.252, tema 725 da sistemática da repercussão geral.
+    Alternativamente, requer antecipação dos efeitos da tutela em liminar para determinar a suspensão da Reclamação Trabalhista nº 0000074-83.2016.5.13.0009, da 3ª Vara do Trabalho de Campina Grande, bem como, eventual execução daquela decisão, e, ao final, seja determinada a aplicação do entendimento contido na decisão proferida nos autos da ADPF 324 e o RE-RG 958.252, tema 725 da sistemática da repercussão geral.
+    Sucessivamente, caso não seja o entendimento pela aplicação imediata da decisão da ADPF 324 e o RE 958.252, tema 725 da sistemática da repercussão gera, proceda à cassação do Acórdão Reclamado por violação à Súmula Vinculante nº 10, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferida nova decisão (págs. 13-14 da petição inicial).
+    Indeferi a liminar em 26/4/2018 (documento eletrônico 24).
+    A autoridade reclamada prestou informações (documento eletrônico 29).
+    O Ministério Público Federal opinou pelo não conhecimento da reclamação (documento eletrônico 32).
+    É o relatório. Decido.
+    A reclamante aponta como decisão reclamada o acórdão proferido em 12/12/2017 pelo Tribunal Regional do Trabalho da 13ª Região (pág. 25 do documento eletrônico 11).
+    De início, anoto que o ADPF 324/DF não poderia ser utilizada como paradigma na presente reclamação, porque o seu julgamento ocorreu em 30/8/2018, data posterior à da decisão reclamada, conforme jurisprudência firme desta Corte.
+    Por outro lado, a decisão apontada como reclamada, da lavra do TRT da 13ª Região, foi objeto de recurso submetido ao Tribunal Superior do Trabalho, onde os autos encontram-se no momento.
+    Em consulta ao processo no sítio eletrônico do TST, verifico que, após a interposição de recurso extraordinário, houve o sobrestamento do feito para aguardar o julgamento do RE 958.252-RG/MG (Tema 725 da Repercussão Geral) por este Supremo Tribunal Federal.
+    O Tema 725 foi um dos colacionados pela ora reclamante na petição inicial.
+    Assim, o eventual juízo de retratação oportunizado pelo TST pode alcançar todos os pedidos desta ação.
+     Em caso análogo ao dos presentes autos, o Ministro Dias Toffoli, relator da Rcl 27.163/MG, durante julgamento presencial do feito na Segunda Turma, consignou o seguinte:
+    “Entendo, desta perspectiva, que qualquer manifestação desta Suprema Corte acerca da alegada violação da regra do art. 97 da CF/88 por órgão fracionário do Poder Judiciário ao decidir pela impossibilidade de se firmar contrato de terceirização de serviços relacionados com a atividade-fim de concessionária de serviço público em sede reclamatória e com paradigma na Súmula Vinculante n° 10 tem o potencial de subverter a sistemática da repercussão geral enquanto instrumento adequado para obter do STF segurança jurídica na prestação jurisdicional.
+    Assim, em respeito à necessidade de racionalização e de estabilização da prestação jurisdicional, entendo que a solução da presente reclamatória se orienta pelos efeitos da submissão da matéria constitucional ora controvertida à sistemática da repercussão geral no ARE n° 791.932/DF, que tem por consequência esgotar a cognição nesta Corte de feitos com fundamento em idêntica controvérsia e recomendar que todos os processos, principais ou acessória, à respectiva origem, a fim de aguardarem o pronunciamento do STF e, após, serem submetidos à concretização da norma de interpretação exarada do precedente [...]” (grifei).
+    Com base nessas premissas, e diante da possibilidade da eventual adequação da decisão reclamada à pretensão da reclamante, é forçoso reconhecer a ausência do interesse processual no prosseguimento do feito.
+    Isso posto, julgo prejudicada a reclamação e, consequentemente, o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2020.
+Ministro Ricardo Lewandowski
+Relator
