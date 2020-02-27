@@ -1,0 +1,44 @@
+Recurso Especial em Apelação Cível n. 0016871-48.2013.8.11.0041
+RECORRENTE CLAUDINEI VIEIRA DE CHAVES - ME
+RECORRIDO ITAU UNIBANCO S.A.
+Vistos, etc.
+Trata-se de Recurso Especial (ID 30417956) interposto por CLAUDINEI VIEIRA DE CHAVES - ME, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado (ID 12718986):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE BUSCA E APREENSÃO – CONTRATO DE ALIENAÇÃO FIDUCIÁRIA – FINANCIAMENTO DE VEÍCULO – LIMINAR DEFERIDA – APREENSÃO DO VEÍCULO – PROCESSO EXTINTO SEM JULGAMENTO DE MÉRITO – ART. 485, CPC/15 – ABANDONO – LIMINAR REVOGADA – CUMPRIMENTO DE SENTENÇA – INEXISTÊNCIA DE TÍTULO EXECUTIVO JUDICIAL – INTELIGENCIA DO §7o DO ART. 3o DO DECRETO-LEI No 911/96 – NECESSIDADE DE SE APURAR EM PERDAS E DANOS – SALDO DEVEDOR DO CONTRATO DE ALIENAÇÃO FIDUCIÁRIA EM ABERTO – EXCEPTIO NON ADIMPLETI CONTRACTUS – ART. 476 DO CC – RECURSO DESPROVIDO.
+“Não se extrai da dicção do § 7o do art. 3o do DL n. 911/1969 (redação dada pela Lei n. 10.931/2004) a imputação clara de responsabilidade ao credor fiduciário por perdas e danos decorrentes da execução da liminar no caso de extinção do feito sem julgamento de mérito, devendo a pretensão indenizatória ser objeto de ação própria.” - (REsp 1591851/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016).
+Não cumprida a obrigação do devedor fiduciário em adimplir integralmente o contrato pactuado – o que deu causa ao ajuizamento da ação de busca e apreensão do veículo objeto de alienação fiduciária, não pode exigir do outro o cumprimento de uma contraprestação devida (exceptio non adimpleti contractus), conforme preleciona o artigo 476 do Código Civil.” (N.U 0016871-48.2013.8.11.0041, DESA. MARILSEN ANDRADE ADDARIO, Segunda Câmara de Direito Privado, Julgado em 11/09/2019)
+Os Embargos de Declaração ID 16781986 foram desprovidos conforme ementa de ID 20900994.
+Alega violação aos artigos 502, 503 e 924, inciso II, do Código de Processo Civil, bem como divergência jurisprudencial, aduzindo a não observância dos princípios da coisa julgada e da segurança jurídica, haja vista que o mérito da ação de busca e apreensão no rito ordinário/fase de conhecimento, transitou em julgado e não cabia mais discussão, ou seja, o processo passou a ser operado em fase de execução/cumprimento de sentença.
+Recurso tempestivo (ID 31165474) e preparado (ID 31182096).
+Sem contrarrazões conforme ID 34600466.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Ao alegar violação aos artigos 502, 503 e 924, inciso II, do CPC, a parte Recorrente defende a não observância dos princípios da coisa julgada e da segurança jurídica, haja vista que o mérito da ação de busca e apreensão no rito ordinário/fase de conhecimento, transitou em julgado e não cabia mais discussão, ou seja, o processo passou a ser operado em fase de execução/cumprimento de sentença.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado.
+Confira-se:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL CONSIDERADO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMPRÉSTIMO COMPULSÓRIO. CORREÇÃO MONETÁRIA. FASE DE CUMPRIMENTO DE SENTENÇA. COISA JULGADA. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL DA EMPRESA WEG EQUIPAMENTOS ELÉTRICOS S.A
+1. A recorrente alega violação da coisa julgada, sob o fundamento de que, "ao contrário do entendimento do v. acórdão combatido, a sentença de primeiro grau, na fase de conhecimento, reconheceu a existência de valores vencidos a título de diferenças de juros remuneratórios" (fl. 509, e-STJ).
+2. Com relação a esse assunto, a Corte regional consignou (fl. 446, e-STJ): "Por outro lado, em relação ao termo inicial de incidência dos juros de mora, tenho que não assiste razão à parte agravante. E isso porque, no caso dos autos, o título executivo trata apenas das diferenças de correção monetária do montante principal - apuradas da data do recolhimento até 31-12 do mesmo ano (cf. item 4 da ementa do REsp no 1.003.955/RS) - e dos juros remuneratórios reflexos sobre ela incidentes. Não há, assim, condenação relativa à atualização monetária das diferenças de juros remuneratórios pagos anualmente aos consumidores nas contas de energia elétrica, na forma do artigo 2o, do Decreto-Lei no 1.512, de 1976 - que teria por base a ilegalidade do pagamento em julho de cada ano sem incidência de atualização entre a data da constituição do crédito, em 31-12 do ano anterior, e o efetivo pagamento (cf. item 3 da ementa do REsp no 1.003.955/RS)".
+3. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, a fim de apurar se o título executivo contempla condenação relativa à atualização monetária das diferenças de juros remuneratórios pagos anualmente aos consumidores, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1o, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+5. [...] CONCLUSÃO
+11. Recurso Especial da Weg Equipamentos Elétricos não conhecido.
+Recurso Especial da Centrais Elétricas Brasileiras S.A. não provido.” (REsp 1751504/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/11/2019, DJe 18/11/2019) (g.n.)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...) 2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 27 de fevereiro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+IX
