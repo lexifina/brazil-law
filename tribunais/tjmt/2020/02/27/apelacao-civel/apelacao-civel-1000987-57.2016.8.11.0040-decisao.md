@@ -1,0 +1,41 @@
+Vice-Presidência
+Processo Judicial Eletrônico - PJe
+Recurso Especial n. 1000987-57.2016.8.11.0040
+Vistos, etc.
+Trata-se de Recurso Especial interposto por JOCIMAR CAPITANIO, CARLOS GILBERTO CAPITANIO e SILVIA MATHILDE CAPITANIO, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado assim ementado (id 11091498):
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – EXTEMPORANEIDADE DA JUNTADA DE DOCUMENTOS PELO AUTOR –RECONHECIMENTO – DESCONSIDERAÇÃO –NECESSIDADE - SUSCITAÇÃO DE DÚVIDA – ILEGITIMIDADE PASSIVA EM RELAÇÃO A PROCESSO EM QUE FIGURA COMO PARTE EMPRESA DIVERSA – CONFIGURADA - HONORÁRIOS ADVOCATÍCIOS A SEREM FIXADOS COM BASE NA NATUREZA DO PROCESSO E O TRABALHO DESENVOLVIDO PELO CAUSÍDICO – REDUÇÃO/READEQUAÇÃO – CABIMENTO – VERBA SUCUMBENCIAL - REDUÇÃO/READEQUAÇÃO – IMPOSSIBILIDADE - SENTENÇA PARCIALMENTE REFORMADA – RECURSO DOS RÉUS PESSOA FÍSICA DESPROVIDO –RECURSO DA EMPRESA RÉ PARCIALMENTE PROVIDO.
+1. Somente é cabível a juntada extemporânea de prova apenas quando ateste fato antigo de ciência nova ou quando se tratar de documento novo ou restar comprovada a impossibilidade de acesso pela parte, o que não é o caso dos autos, razão pela qual não devem ser considerados/apreciados para julgamento da lide.
+2. Deve ser afastada a condenação da ré/apelante ao pagamento dos honorários advocatícios referentes à suscitação de dúvida na qual figura como parte empresa diversa.
+3. Comprovada a prestação de serviços em benefício da empresa ré, indiferente é a nulidade da contratação, sendo cabível a fixação de honorários pelos serviços prestados pelo autor/apelado.
+4. No entanto, embora devidos os honorários advocatícios, estes devem ser fixados observando-se a natureza do processo em que atuou o causídico, no caso, simples pedido de providência, não se confundindo com o negócio jurídico (compra e venda) firmado entre a ré/apelante e terceiros.
+5. Logo, os honorários advocatícios devem ser fixados observando-se os critérios equitativos, como: a natureza do processo, o grau de zelo do profissional, o trabalho realizado e o tempo exigido para o serviço do autor/apelado, bem como o que dispõe o art. 22, §2o, do Estatuto da OAB, de maneira que devem ser reduzidos para R$ 4.000,00 (quatro mil reais), conforme dispõe a Tabela II, item 3, da Tabela de Honorários da OAB/MT.
+6. Resta caracterizada a falta interesse recursal dos réus/apelantes Jocimar Capitanio, Silvia Mathilde Capitanio e Carlos Gilberto Capitanio, porquanto, embora entenda que a verba sucumbencial deveria ter sido arbitrada com base no valor dado causa, tem-se que esse equivale a R$ 1.000,00 (mil reais), o que conduziria à reforma da sentença para a fixação dos honorários em R$ 100,00 (cem reais), ou seja, em montante bem inferior ao fixado.
+7. Ou seja, inclusive para se evitar a reformatio in pejus, mantenho os honorários sucumbenciais, tais como fixados na sentença, ou seja, em 10% (dez por cento) sobre o valor da condenação, definido nesse julgado. (Apelação Cível n. 1005145-76.2019.8.11.0000, Desa. Serly Marcondes Alves, Quarta Câmara de Direito rivado, data do julgamento 04/09/2019).
+Os Embargos de Declaração foram acolhidos (id 18639985):
+“RECURSO DE EMBARGOS DE DECLARAÇÃO – APELAÇÃO CÍVEL – AÇÃO DE ARBITRAMENTO DE HONORÁRIOS – CONTRADIÇÃO – INEXISTÊNCIA – SITUAÇÃO DE CONFIGURA ERRO DE JULGAMENTO – VERBA SUCUMBENCIAL A SER ARBITRADA COM BASE NO VALOR DA CONDENAÇÃO – INTELIGÊNCIA DO §2o, DO ART. 85, DO CPC - RECURSO ACOLHIDO SEM EFEITOS INFRINGENTES.
+1. A questão consiste em erro de julgamento, ensejando a análise da matéria aventada nas razões do recurso de apelação por eles interposto.
+2. A teor do que dispõe o §2o, do art. 85, do CPC, a sentença condenará o vencido a pagar honorários ao advogado do vencedor, fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação efetivamente imposta e não com base no valor realmente atribuído à causa.
+3. Nesse contexto, tem-se que, a análise da matéria arguida no recurso de apelação em nada altera o resultado do julgamento, que desproveu o apelo interposto pelos ora embargantes.” (Apelação Cível n. 1005145-76.2019.8.11.0000, Desa. Serly Marcondes Alves, Quarta Câmara de Direito rivado, data do julgamento 06/11/2019).
+A parte Recorrente alega violação ao art. 85, §2o do CPC, mencionando que os honorários sucumbenciais devem observar o valor da causa, que nos autos, representa a importância de R$ 2.520.000,00 (dois milhões quinhentos e vinte mil reais).
+O Recurso é tempestivo (id 26544995).
+Contrarrazões (id 31385975).
+É o relatório.
+Decido.
+Sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Ao alegar violação ao artigo 85, §2o, do CPC, a Seguradora Recorrente defende que os honorários sucumbenciais devem ser fixados sobre o valor da causa, que nos autos representa a importância de R$ 2.520.000,00 (dois milhões quinhentos e vinte mil reais).
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. ASTREINTES. IMPOSSIBILIDADADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7 DO STJ. ALEGAÇÃO DE SEREM IRRISÓRIOS OS HONORÁRIOS. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. DIVERGÊNCIA JURISPRUDENCIAL ANÁLISE PREJUDICADA. 1. A revisão, no âmbito do STJ, do valor estipulado a título de astreintes pelas instâncias ordinárias só é admitida quando verificada irrisoriedade ou exorbitância, o que não se configura na hipótese dos autos. Modificar tal conclusão de modo a acolher a tese dos recorrentes, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. 2. A jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal obstáculo sumular somente é relativizado em situações excepcionais, que se caracterizam quando os referidos honorários são estabelecidos em montantes irrisórios ou exorbitantes, o que não é o caso dos autos. 3. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional, tendo em conta a aplicação das vedações previstas nos citados verbetes sumulares. 4. Recursos Especiais não conhecidos. (REsp 1701970/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 17/12/2018).”
+Assim, registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+Nesse sentido é o Enunciado n. 31 do Colégio Permanente de Vice-Presidentes de Tribunais de Justiça do Brasil - CPVIP:
+“Reconhecida a aplicabilidade da Súmula 7 do STJ com relação ao requisito previsto na alínea “a” do inciso III do art. 105 da Constituição Federal, fica prejudicado o exame do dissídio jurisprudencial invocado com fundamento na alínea “c” do mesmo dispositivo.” (Enunciado no 31 – CPVIP)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Posto isso, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá-MT, 27 de fevereiro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XII
