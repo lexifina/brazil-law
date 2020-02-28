@@ -1,0 +1,28 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO DE INSTRUMENTO no 1004790-32.2020.8.11.0000 – Classe 202 – CNJ – RONDONÓPOLIS
+Agravante : COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS DO SUL DE MATO GROSSO - SICREDI SUL/MT
+Agravado : N R S DE MORAES E CIA LTDA – ME E NUBIA REGINA SOUZA DE MORAES
+Número do Protocolo : 1004790-32.2020.8.11.0000
+Recurso de AGRAVO DE INSTRUMENTO interposto por COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS DO SUL DE MATO GROSSO - SICREDI SUL MT, contra a r. decisão proferida pelo MM. Juiz de Direito da 3a Vara Cível da Comarca de Rondonópolis/MT, que nos autos da ação de “Execução” (Número Único 1000500-04.2016.8.11.0003), ajuizada pelo agravante, contra N R S DE MORAES E CIA LTDA – ME E NUBIA REGINA SOUZA DE MORAES, indeferiu o pedido de bloqueio de ativos financeiros, via Bacenjud, da conta dos executados, por entender que o “sistema eletrônico pode formalizar o exagero desnecessário de gravames” (cf. ID 34934474).
+O agravante alega que a decisão deve ser reformada, pois o sistema Bacenjud é meio colocado à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados, não caracterizando, no caso, a infração disposta no art. 36, da Lei no 13.869/19.
+Afirma que não cabe ao Magistrado cotejar o excesso da indisponibilidade para fins de ocorrência do crime previsto no artigo 36, pois só haverá abuso de autoridade se a indisponibilidade de ativos financeiros for decretada em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte, e desde que o magistrado não a corrija após a demonstração da excessividade da constrição pela parte interessada.
+Ressalta, também, que os crimes descritos na lei de abuso de autoridade só se configuram “quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal”.
+Pede, pois, o provimento do recurso para que, desde já, seja deferido o pedido de bloqueio de ativos financeiros da conta da parte agravada (cf. ID 34934473).
+É a suma.
+D E C I D O
+A decisão agravada foi proferida com base nos seguintes fundamentos:
+“O exequente requer a penhora on line, em conta corrente da executada, para garantia da execução, vez que não houve pagamento do débito.
+O credor limita-se em requerer, de forma genérica, a penhora on line, via Bacenjud, de dinheiro sobre valores existentes em contas de depósitos ou instituições financeiras em nome dos devedores.
+Registra-se, a princípio, que a partir de 03/01/2020, entrou em vigor a Lei no 13.869, de 05 de setembro de 2019, que dispõe sobre os crimes de abuso de autoridade.
+O art. 36 da Lei 13.869/2019, prevê que incorrerá na prática de delito de abuso de autoridade aquele que decretar em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la, fixando pena de detenção, de 1 (um) a 4 (quatro) anos, e multa.
+Em que pese o magistrado não utilizar-se dos sistemas colocados à disposição do juízo para localizar bens do devedor, de forma indevida, o sistema, automaticamente e sem limitação, bloqueia o valor exequendo em toda e qualquer conta bancária ou aplicação financeira vinculada ao devedor; ou seja, o quantum executado é bloqueado tantas quantas forem as contas bancárias e aplicações financeiras existentes configurando, assim, o bloqueio exacerbado para a satisfação da dívida.
+Destarte, considerando que, no dia a dia forense, é impossível a devolução imediata do montante excedente e, em alguns casos pode demorar meses, a nova lei de abuso de autoridade inviabilizou a continuidade da penhora eletrônica de ativos financeiros, vez que o próprio sistema comunica o bloqueio 48h00 após sua efetivação, não podendo o magistrado ser alcançado por eventual abuso que não cometeu, para o qual não concorreu.
+Como dito alhures, o sistema não se mostra confiável, vez que efetua a penhora em todas as contas existentes em nome do devedor o que, por certo, lhe será muito mais oneroso, eis que flagrante a ocorrência do excesso de penhora.
+In casu, considerando que a situação exige uma rápida manifestação do STF; considerando, ainda, que na prática diária o magistrado é responsável pela condução de milhares de processos, os quais nem sempre são rapidamente visualizados e corrigidos; considerando, também, que o próprio sistema eletrônico pode formalizar o exagero desnecessário de gravames, indefiro o pedido de bloqueio de ativos financeiros, via Bacenjud, formulado no Id. 26167213” (Grifei – cf. ID 34934474).
+Sem delongas, a agravante nada trouxe para os autos capaz de amparar possível decisão de reversão do quadro constituído pela decisão agravada, tampouco demonstração convincente capaz de autorizar a atribuição de efeito suspensivo à interposição, já que não se vê qualquer urgência na medida pleiteada.
+Assim, admito a interposição recursal tal como efetivada (CPC, art. 1.019, “caput”), de modo que recebo e autorizo o processamento do agravo por instrumento, mas INDEFIRO o pedido de efeito suspensivo, quadro que fica assim constituído até que a Câmara, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que respondam no prazo de 15 (quinze) dias.
+Cuiabá-MT, 28 de fevereiro de 2020.
+Des. SEBASTIÃO BARBOSA FARIAS
+Relator em Substituição Legal
