@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo (eDOC 25, p. 20; eDOC 26, p. 1-19; eDOC 27, p. 1-2) interposto contra decisão de inadmissibilidade de recurso extraordinário (eDOC 24, p. 10-13), em face de acórdão proferido pela 3ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará (eDOC 19, p. 19-22; eDOC 20, p. 1-18).
+    Preliminarmente, diante dos termos da petição do recurso extraordinário (eDOC 22, p. 2-20; eDOC 23, p. 1-3), verifico a inafastável incidência da Súmula 284/STF. Para tanto, destaco da decisão ora impugnada, que se encontra em conformidade com a jurisprudência desta Suprema Corte (eDOC 24, p. 10-13):
+    “Percebo, de pronto, que a insurgência não reúne condições para ascender, porquanto carece de fundamentação adequada. Analisando o arrazoado recursal, observa-se que a parte recorrente não cuidou de indicar violação a qualquer dispositivo constitucional, tornando-se inviável a delimitação da matéria constitucional a ser debatida.
+    Denota-se, com efeito, que as razões do apelo suscitam, de forma bastante genérica, debate acerca da dosimetria da pena, sem, no entanto, fazer qualquer menção, acerca de eventual malferimento de dispositivo da Constituição Federal, conforme exige a alínea ‘a’ do inciso III do art. 102 da CF/88.
+    Em assim sendo, nos termos da Súmula n.° 284/STF, impende reconhecer a deficiência de fundamentação do recurso. Conforme o referido enunciado do Supremo Tribunal Federal: ‘É inadmissível o recurso extraordinário, quando a deficiência na sua o fundamentação não permitir a exata compreensão da controvérsia’. Nesse sentido, não vacila a jurisprudência da Suprema Corte:
+    Agravo regimental no recurso extraordinário com agravo. Não indicação dos dispositivos constitucionais violados. Súmula n° 284/STF. Prequestionamento. Ausência. Súmulas n°s 282 e 356/STF. [...] 1. No tocante à preliminar de prescrição trazida no recurso extraordinário, nota-se que o recorrente não indicou os dispositivos constitucionais que, porventura, teriam sido violados. Incidência da Súmula e 284/STF. [...] (STF ARE 946110 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 28/06/2016, PROCESSO ELETRÔNICO DJe-165 DIVULG 05-08-2016 PUBLIC 08-08-2016) (destacou-se)
+    Diante do exposto, com base no art. 1.030, inciso V, do CPC, inadmito o Recurso Extraordinário. (eDOC 2, p. 146-148; grifos originais)
+    Nesse sentido, além do precedente referido no decisum impugnado, menciono: ARE 1.162.348 AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 16.8.2019; ARE 1.131.117 AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 6.9.2018; ARE 1.092.099 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 4.5.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RI/STF).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
