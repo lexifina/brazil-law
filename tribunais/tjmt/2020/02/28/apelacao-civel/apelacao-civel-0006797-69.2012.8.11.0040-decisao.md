@@ -1,0 +1,51 @@
+SEGUNDA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No 0006797-69.2012.8.11.0040
+APELANTE(S):
+HSBC BANK BRASIL S.A. - BANCO MULTIPLO
+APELADO(S):
+NELSON CANDIDO NERIS
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Trata-se de Recurso de Apelação Cível interposto por HSBC BANK BRASIL S.A. - BANCO MULTIPLO na Ação de Busca e Apreensão - (cédula de crédito no 000000009430474952) - ajuizada em desfavor de NELSON CANDIDO NERIS, contra a sentença que julgou extinto o processo sem resolução do mérito, os termos do artigo 485, inciso VI e X, do CPC/15, porquanto “o requerido faleceu em 03/1/2012, acarretando a ilegitimidade passiva deste feito cautelar de busca e apreensão, mormente porque quando da notificação extrajudicial do débito, o devedor já havia falecido. De igual sorte, a presente demanda só foi distribuída após o óbito do requerido. ” (ID. 26664952 – ID. 1).
+Interposto Embargos Declaratórios, estes foram rejeitados, condenando o embargante/apelante ao pagamento de multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, §2o, do CPC/15.
+Em síntese, sustenta o banco apelante que em não tendo sido informado do falecimento do devedor fiduciário, a notificação encaminhada no endereço do contrato é suficiente para constituir a mora, mesmo que tenha ocorrido após a morte.
+Destaca, ainda, que a mora do fiduciante, nos termos do art. 2o, §2o, do decreto-lei, decorre, em princípio, do simples vencimento do prazo para pagamento (mora ex re) e pode ser comprovada tanto por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatários, bem como não sendo possível a intimação pessoal do devedor, resta autorizada a intimação por protesto do título.
+Assim, em atenção aos princípios da boa-fé processual, da cooperação judicial e da economia e celeridade processual, pugna pelo regular prosseguimento do feito e consequentemente pelo deferimento da liminar de busca e apreensão.
+Requer, ainda, o afastamento da multa por considerar os Embargos Declaratórios protelatórios, restituindo-lhe o valor pago previamente.
+Sem contrarrazões (ID. 26664964 – pg.3).
+É o relatório.
+Decido.
+A pretensão recursal merece imediato julgamento monocrático, nos termos do art. 932, V “a”, do CPC/15 e Súmula 568 do STJ, na medida em que a matéria colocada a exame já se encontra com entendimento consolidado no STJ.
+Segundo se observa, o banco credor/apelante manejou ação de Busca e Apreensão com pedido de liminar em face do apelado, alegando que firmaram contrato financiamento com cláusula de alienação fiduciária sendo dado em garantia o veículo Chevrolet S-10 Pick-Up Tornado, Ano Modelo: 2008/2009, Cor: PRETA, Placa: NJD 1686.
+Consoante sentença de primeiro grau:
+“Conforme certidão de óbito extraída dos autos apensos (Codigo96348) que ora se junta neste feito, o requerido faleceu em 03/01/2012, acarretando a ilegitimidade passiva deste feito cautelar de busca e apreensão, mormente porque quando da notificação extrajudicial do débito, o devedor já havia falecido. De igual sorte, a presente demanda só foi distribuídas após o óbito do requerido.
+Em suma: não houve configuração da mora do devedor, circunstância indispensável ao prosseguimento da presente demanda (Súmu1a 72, STJ), sendo impossível a substituição processual no curso da demanda.
+[...]
+Consigno, ainda, a impossibilidade de conversão do rito procedimental postulada pela parte autora as fls. 79/82, porque mesmo devidamente intimada (fls. 49) nada manifestou quanto ao óbito do requerido.”
+Após, adveio a sentença que julgou extinto o processo sem resolução do mérito.
+Inconformada, a instituição financeira credora apela.
+Pois bem.
+O ordenamento jurídico que regula a matéria, qual seja, o Decreto-Lei no 911/69, prevê no §2° do art. 2o que:
+“A “§ 2o A mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário. (Redação dada pela Lei no 13.043, de 2014)
+Da redação da norma extrai-se que, na alienação fiduciária, a mora do devedor origina-se com o não pagamento da prestação no vencimento, ou seja, decorre automaticamente do vencimento do prazo para o pagamento.
+No entanto, a mora, por si só, não basta para o credor fiduciário demandar a recomposição de seu direito mediante a busca e apreensão do bem, sendo indispensável sua comprovação, consoante entendimento sedimentado pela jurisprudência do Superior Tribunal de Justiça, nos termos da Súmula n. 72: "A comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente".
+Na espécie, verifica-se que a instituição financeira, em 30/3/2012 (ID. 26663463-pg.3), enviou notificação extrajudicial para o endereço constante do contrato, que não pode ser entregue à destinatária (ID. 26663463-pg.5/6) pelo motivo: “número inexistente”.
+Diante disso, promoveu o protesto da cédula de crédito bancário com garantia fiduciária, para o fim de constituir a devedora em mora e apresentar prova apta ao ajuizamento de demanda de busca e apreensão.
+No entanto, o presente caso apresenta peculiaridades que impedem a aplicação, pura e simples, das referidas regras.
+Isso porque, está comprovado nos autos que, antes mesmo do envio da notificação extrajudicial (30/3/2012), já havia ocorrido o falecimento do devedor fiduciário, fato que ocorreu em 03/01/2012, ou seja, quase 2 meses antes (ID. 26664953 – pg.1), de modo que não merece reparos a sentença que extinguiu o feito.
+Nesse sentido:
+“DECISÃO MONOCRÁTICA
+Trata-se de recurso especial interposto pelo Banco Toyota do Brasil S/A no qual se alega violação dos arts. 2o e 3o, § 1o, do Decreto-Lei n. 911/69. O acórdão recorrido está retratado na seguinte ementa (fl. 99):
+PROCESSUAL CIVIL. APELAÇÃO. BUSCA E APREENSÃO. RÉU. ÓBITO ANTECEDENDO A PROPOSITURA DA AÇÃO. PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. FALTA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. 1. A morte do réu antecedendo a propositura da ação de busca e apreensão inviabiliza a substituição processual de vez que a ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, ocasiona a extinção do feito. 2. Recurso desprovido.
+[...]
+Na hipótese dos autos, verifico que a Corte de origem manteve a sentença que extinguiu o processo sem resolução do mérito e revogou a liminar de busca e apreensão, uma vez que a instituição financeira não comprovou a constituição em mora do devedor, conforme se extrai dos seguintes excertos (fls. 101/103):
+(...) Trata-se de Ação de Busca e Apreensão de Veículo em Alienação Fiduciária proposta em 03.09.2012 pela instituição bancária Apelante, em desfavor de José Ferreira Castelo. Todavia, resulta da certidão de óbito de p.64, que o falecimento do Réu ocorreu em data anterior ao ajuizamento do pedido. Portanto, ausente pressuposto de constituição e de desenvolvimento válido e regular do processo de vez que proposta a demanda contra de pessoa que falecera. (...) Por outro lado, como bem consignou o d. Juízo de origem, a instituição financeira não preencheu um dos requisitos da busca e apreensão, qual seja, a constituição do devedor em mora, porque a notificação apresentada ocorreu quando já falecera o devedor. De igual modo, restou consignado que proposta a demanda após o óbito da parte indicada no polo passivo, não sendo o caso de substituição processual, dado que a pessoa falecida não possui capacidade para estar em juízo, tornando irretocável a sentença que decretou a extinção do processo, consoante julgados deste Tribunal de Justiça, in verbis: (...) De todo exposto, voto pelo desprovimento do recurso para manter íntegra a sentença por seus próprios fundamentos. “
+Anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, procedimento que, em sede especial, encontra óbice no enunciado n. 7 da Súmula do STJ. Em face do exposto, nego seguimento ao recurso especial.” (STJ - REsp: 1633257 AC 2016/0276802-5, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Publicação: DJ 27/06/2017)
+“APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO – FALECIMENTO DO DEVEDOR ANTES DO AJUIZAMENTO DA AÇÃO – NOTIFICAÇÃO EXTRAJUDICIAL ENCAMINHADA APÓS A MORTE – INEFICÁCIA – FALTA DE PRESSUPOSTO PROCESSUAL DE EXISTÊNCIA DO PROCESSO – CONSTITUIÇÃO EM MORA – INOCORRÊNCIA - RECURSO IMPROVIDO Inexistindo notificação prévia válida, impõe-se a extinção do processo por ausência de pressuposto específico, como bem concluiu o juízo a quo, cabendo ressaltar que em se tratando de ação de busca e apreensão, procedimento especial, que impõe obrigação personalíssima ao devedor, não resta transmitida automaticamente a obrigação aos herdeiros em caso de falecimento.” (TJ-MS - AC: 08013482020188120021 MS 0801348-20.2018.8.12.0021, Relator: Des. Divoncir Schreiner Maran, Data de Julgamento: 08/11/2019, 1a Câmara Cível, Data de Publicação: 11/11/2019)
+“APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. MORTE DO DEVEDOR ANTES DO AJUIZAMENTO DA AÇÃO. ILEGITIMIDADE PASSIVA. NÃO CONSTITUIÇÃO DA MORA. EXTINÇÃO DO PROCESSO. RECURSO DESPROVIDO. - Ocorrendo o falecimento do promovido antes do ajuizamento da demanda, não se configura hipótese de aplicação dos dispositivos de direito processual que versam sobre habilitação, mas sim de legitimidade para a causa. In casu, verifica-se que resta ausente uma das condições da ação, qual seja, a legitimidade passiva da parte - Aliada à ilegitimidade ad causam, verifica-se que a notificação também foi expedida depois do falecimento do réu (fl. 37), não sendo eficaz, obviamente, para constituí-lo em mora, inexistindo, portanto, documento indispensável à propositura da ação. (TJPB - ACÓRDÃO/DECISÃO do Processo No 00001037020158150201, 3a Câmara Especializada Cível, Relator DESA. MARIA DAS GRAÇAS MORAIS GUEDES , j. em 08-05-2018)
+Assim, ausente o pressuposto para desenvolvimento regular e válido do processo, a manutenção da sentença é medida que se impõe.
+Ante o exposto, com fundamento no artigo 932, inciso IV, do CPC/15 e Súmula 568 do STJ, nego provimento monocrático ao recurso.
+P.I.C.
+Cuiabá-MT, 28 de fevereiro de 2020.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
