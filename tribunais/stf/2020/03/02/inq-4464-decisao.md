@@ -1,0 +1,14 @@
+DECISÃO
+DILIGÊNCIA – PRAZO – PRORROGAÇÃO – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina assim retratou o caso:
+    A Procuradoria-Geral da República requereu a instauração de inquérito para investigar a alegada prática, por Fernando Bezerra de Souza Coelho, José Renan de Vasconcelos Calheiros, Senadores da República, e José Renan Vasconcelos Calheiros Filho, Governador do Estado de Alagoas, dos crimes previstos nos artigos 317 (corrupção passiva) do Código Penal e 1º, cabeça e § 1º, inciso I (lavagem de dinheiro), da Lei nº 9.613/1998, consideradas eventuais irregularidades, narradas em depoimentos prestados em acordos de delação premiada, ocorridas na construção do Canal do Sertão, em Alagoas.
+    Em 24 de agosto de 2017, Vossa Excelência determinou, quanto ao investigado José Renan Vasconcelos Calheiros Filho, o desmembramento dos autos e o encaminhamento ao Superior Tribunal de Justiça, assentando não ser detentor de prerrogativa de foro no Supremo, ante o cargo ocupado, de Governador de Estado.
+    No dia 10 de setembro de 2018, determinou fossem desmembrados os autos no tocante a Fernando Bezerra Coelho, declinando da competência para a Justiça Federal de primeiro grau da Seção Judiciária do Estado de Alagoas, observada a conexão com o procedimento investigatório nº 52/2016. Assinalou que os fatos objeto do inquérito, consistentes em supostas solicitações e recebimentos de vantagens indevidas, referentes à obra do citado Canal, a título de contribuição à campanha eleitoral de 2014, vinculam-se ao cargo de Ministro da Integração Nacional, à época desempenhado, ausente relação com o mandato parlamentar atualmente exercido. Em 27 de novembro de 2018, a Primeira Turma desproveu agravo interno.
+    O delegado de Polícia Federal Wedson Cajé Lopes, à folha 590, apontou a necessidade de novas medidas investigativas, consistentes na juntada dos depoimentos de Marcelo de Oliveira Cerqueira e Carlos José Fadigas de Souza Filha, prestados no bojo do inquérito nº 4.389, e de cópia de e-mail do delator Ariel Parente contendo tratativas sobre pagamentos a José Renan de Vasconcelos Calheiros, bem assim na análise, relativamente ao mesmo investigado, do acervo digital dos sistemas Drousys e MywebdayB, para fins de verificação de registros de pagamentos. Enviou os autos a Vossa Excelência buscando o deferimento de novo prazo para prosseguimento das investigações.
+    Por meio da petição/STF nº 8.613/2020, a Procuradoria-Geral da República requer a prorrogação, por 60 dias, do prazo para a conclusão do inquérito, ante a necessidade de realização das diligências pendentes.
+    2. Cumpre dar sequência às investigações, visando o esclarecimento dos fatos.
+    3. Acolho o pedido de prorrogação de prazo.
+    4. Publiquem.
+Brasília, 2 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
