@@ -1,0 +1,16 @@
+Vistos etc.
+Recurso de agravo de instrumento, com pedido liminar, interposto por BRADESCO VIDA E PREVIDENCIA S.A. contra decisão proferida na ação de cobrança de indenização securitária no 9156-81.2015.811.0041, Código 969620, movida em seu desfavor por DANIEL GONZALEZ, em trâmite na 11a Vara Cível da Comarca de Cuiabá - MT, que homologou a proposta de honorários do perito no valor de R$ 12.500,00 (ID 35285968, p. 38/40).
+Assevera a agravante, em síntese que perícia servirá para a constatação de invalidez permanente total ou parcial por acidente ou doença, e seu real grau, não apresenta maiores complexidades, uma vez que a elaboração do laudo consistirá no exame clínico da parte autora, análise dos documentos médicos acostados nos autos, e a elaboração do laudo. Alega que os honorários propostos foram feitos sem uma relação lógica para que se pudesse apurar efetivamente qual o valor do trabalho a ser desempenhado e a complexidade. Aduz que a resolução no 232/2016, do CNJ, a qual estabeleceu critérios para fixação de honorários, sendo que para as perícias médicas a quantia máxima é de R$ 370,00, podendo ser superada em até cinco vezes, ou seja, R$ 1.850,00. Por fim, fala que os honorários periciais fixados encontram-se distantes de tudo o que se considera razoável, proporcional e equânime à realidade vivida pelos autos originários, justificando a redução.
+Pede seja concedido efeito suspensivo ao presente Agravo e, no mérito, pelo provimento.
+Síntese necessária.
+A meu ver, a agravante logrou êxito em demonstrar os requisitos que, a princípio, estão configurados com toda documentação e exposição contida na peça vestibular, suficientes para o conhecimento do agravo em sua forma instrumental.
+Da mesma forma, numa análise preliminar e não-exauriente do tema, tem-se que presente a relevância da fundamentação, na medida em que os honorários periciais exigem moderação, podendo ser complementados futuramente, se for o caso, de modo a remunerar condignamente o trabalho do perito, sem onerar demasiadamente a parte.
+Acrescente-se que a natureza da perícia não demanda esforço extraordinário.
+O perigo da demora, por sua vez, encontra-se evidente porque apesar de ter apresentado uma segunda proposta de honorários pelo perito nomeado, referida quantia foi objeto de discordância pela agravante e, o depósito do valor no prazo fixado pelo Juízo, sem dúvida, causará prejuízos a recorrente que deverá desembolsar valor relativamente alto, sem ter sido oportunizada a sua redução, ou, ainda, a apresentação de nova proposta.
+Com essas considerações, CONCEDO A LIMINAR e, de consequência, determino a SUSPENSÃO da decisão vergastada, até que esta questão seja mais bem vista e analisada pela Segunda Câmara Cível deste sodalício conterrâneo, quando do julgamento do mérito recursal.
+Notifique-se o juízo de origem para que preste as necessárias informações, principalmente se a agravante cumpriu a obrigação estabelecida pelo art. 1.018, § 2o, do CPC e outras que julgar pertinentes.
+Intimem-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador SEBASTIÃO DE MORAES FILHO.
+- r e l a t o r -
