@@ -1,0 +1,20 @@
+Petição/STF nº 78.041/2019
+DECISÃO
+OBRIGAÇÃO DE FAZER – CUMPRIMENTO – EXTINÇÃO.
+OBRIGAÇÃO DE PAGAR QUANTIA CERTA – CUMPRIMENTO – IMPUGNAÇÃO – ACOLHIMENTO PARCIAL.
+    1. O assessor William Akerman Gomes prestou as seguintes informações:
+    Francisco de Assis Praxedes, juiz federal aposentado, impetrou mandado de segurança contra a deliberação nº 7.236/2016, da Primeira Câmara do Tribunal de Contas da União, por meio da qual considerada ilegal alteração implementada na própria aposentadoria, nos termos do artigo 192, inciso I, da Lei nº 8.112/1990, a prever a passagem à inatividade com remuneração do padrão de classe imediatamente superior àquela em que posicionado o servidor.
+    A Primeira Turma deferiu parcialmente a ordem, tornando insubsistente a deliberação do Órgão de Contas e determinando o restabelecimento da vantagem versada no artigo 192, inciso I, da Lei nº 8.112/1990, com efeitos financeiros a partir da formalização do mandado de segurança. Em 27 de agosto de 2019, a decisão transitou em julgado.
+    Mediante a petição/STF nº 51.670/2019, o impetrante requereu a ciência do Presidente do Tribunal Regional Federal da 4ª Região para implantar, em folha de pagamento, a parcela devida e adimplir, desde a data da impetração, o montante representativo dos efeitos financeiros do restabelecimento.
+    Em 5 de setembro de 2019, Vossa Excelência determinou fossem intimados a União, para cumprimento da obrigação de fazer – artigo 536 do Código de Processo Civil –, e o impetrante, para apresentação de demonstrativo discriminado e atualizado do crédito, visando a execução da obrigação de pagar – artigo 534 do mesmo diploma legal.
+    Apresentados os cálculos, a União foi intimada na forma do artigo 535 do Código de Processo Civil. Com a petição/STF nº 59.885/2019, assevera cumprida a obrigação de fazer. Por meio da petição/STF nº 72.141/2019, impugna o cumprimento quanto à obrigação de pagar, apontando excesso de execução. Aduz inviável a cobrança de juros da mora e correção monetária em mandado de segurança. Evoca o verbete nº 269 da Súmula do Supremo. Sucessivamente, realça indevida a incidência de juros de 1%, em virtude do entendimento do Pleno, firmado, sob a sistemática da repercussão geral, no recurso extraordinário nº 870.947/SE, relator o ministro Luiz Fux. Sublinha o valor do débito – R$ 14.536,33 – e junta planilha de cálculo.
+    O impetrante, com a petição/STF nº 78.041/2019, manifesta ciência no tocante ao cumprimento da obrigação de fazer, e concordância com os valores constantes da planilha de cálculo apresentada pela União.
+    2. Declaro cumprida a obrigação de fazer e julgo extinto o respectivo cumprimento de sentença.
+    Quanto à obrigação de pagar, o Pleno, ao julgar o recurso extraordinário nº 870.947/SE, relator o ministro Luiz Fux, declarou constitucional o artigo 1º-F da Lei nº 9.494/1997, no que previstos juros moratórios segundo o índice de remuneração da caderneta de poupança, nas condenações da Fazenda Pública decorrentes de relação jurídica não tributária. Assentou a inconstitucionalidade da atualização monetária segundo a remuneração oficial da caderneta de poupança, devendo ser utilizado, no caso, o IPCA-E, a refletir a variação de preços.
+    Não prospera a pretensão da União de pagar o valor principal, sem os consectários legais, do que resultaria restrição indevida ao direito patrimonial do impetrante.
+    Ante a concordância do impetrante, acolho parcialmente a impugnação formalizada pela União para fixar o valor do crédito devido em R$ 14.536,33, atualizado até setembro de 2019.
+    Remetam o processo à Presidência deste Tribunal, para emissão de requisição de pequeno valor – artigos 3º e 17, § 1º, da Lei nº 10.259/2001 e 100, § 3º, da Constituição Federal –, observada a incidência de juros da mora, entre a data da realização do cálculo e a da expedição do precatório, nos termos do decidido, sob o regime da repercussão geral – Tema nº 96 –, no exame do extraordinário de nº 579.431, de minha relatoria, julgado em 19 de abril de 2017.
+    4. Publiquem.
+Brasília, 2 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
