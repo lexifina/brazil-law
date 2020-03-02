@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – IMUNIDADE – LEI COMPLEMENTAR PRECEDENTES – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do decidido pelo Tribunal Regional Federal da 3ª Região:
+    EMBARGOS DE DECLARAÇÃO – OMISSÃO RECONHECIDA – PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO (CF, XXXV) – ENTIDADE FILANTRÓPICA DE ASSISTÊNCIA SOCIAL – IMUNIDADE TRIBUTÁRIA – REQUISITOS DOS ARTS. 9º E 14º DO CTN – DESCUMPRIMENTO – NÃO COMPROVADO.
+    I – Assiste razão à recorrente impetrante porque presente o vício de omissão por não ter sido explicitado as razões pelas quais restou afastado a aplicação do disposto pelo art. 5º, XXXV, da CF/88;
+    II – No caso presente, o fato de existir recurso pendente na esfera administrativa, não exclui a apreciação da questão pelo Poder Judiciário, em homenagem ao princípio da inafastabilidade da jurisdição insculpido no art. 5º, XXXV, da Carta Política de 1988;
+    III – O cerne da questão posta está relacionado ao direito à imunidade tributária prevista nos artigos 150, VI, “c”, e 195, § 7º, da Constituição Federal;
+    IV – Sobre a controvérsia no que toca à espécie legislativa apta a regulamentar a imunidade, em atenção à redação do artigo 146, inciso II, da CF, o Supremo Tribunal Federal pacificou o entendimento de que a regência de imunidade faz-se mediante lei complementar, conforme julgamento do RE nº 566.622;
+    V – Dessa forma, à vista de que o CTN foi recepcionado pela CF com status de lei complementar, para fazer jus à imunidade mencionada a entidade beneficente de assistência social deve preencher os requisitos previstos nos artigos 9º e 14º do Código Tributário Nacional;
+    VI – Detendo a entidade a qualidade de entidade filantrópica, o desatendimento às obrigações daí decorrentes deve ser apurado em processo administrativo regular (art. 32 da Lei nº 9.430/96), com ampla defesa;
+    VII – Conforme entendimento fixado pelo STF no RE nº 385091 (Rel. Min. Dias Toffoli, 1a Turma, DJe de 18-10-2013), a imunidade é uma de supressão de competência impositiva, resultando disso que, uma vez adquirido por determinada entidade o status de imune, as presunções sobre o enquadramento originalmente conferido devem militar a favor do contribuinte, de sorte que somente mediante prova em contrário da administração tributária competente pode ocorrer o afastamento dessa imunidade;
+    VIII – Verifico que, conforme ofício nº 21.404.1/181/2006 – SEARP, de fl. 41, o indeferimento do pedido administrativo de isenção de contribuições sociais se deu ao fundamento da recorrente impetrante não ter comprovado o cumprimento dos requisitos constantes do inciso III, do art. 55 da Lei 8.212/91;
+    IX – Todavia, a União Federal não logrou demonstrar o não cumprimento pela recorrente impetrante dos requisitos estabelecidos pelos artigos 9º e 14º do Código Tributário Nacional;
+    X – Assim sendo, reconheço o direito à imunidade tributária à recorrente impetrante;
+    XI – Embargos de declaração opostos pela impetrante acolhidos. Rejeitados os aclaratórios opostos pela União Federal.
+    2. No extraordinário, a União aponta a violação do artigo 97, 102, § 2º, 103-A, 146, inciso II, e 195, § 7º, da Constituição Federal. Alega afastado o artigo 55, inciso II, da Lei nº 8.212/1991, e o artigo 29, da Lei nº 12.101/2009, sem declaração de inconstitucionalidade, em afronta ao verbete nº 10 da Súmula do Supremo. Afirma descumprimento ao entendimento firmado nas ações diretas de inconstitucionalidade nº 2.028 e 1.802. Sustenta a constitucionalidade dos requisitos procedimentais previstos no artigo 55, inciso III, da Lei 8.212/1991.
+    Atentem para o decidido na origem. O Colegiado local assentou impróprio exigir-se o cumprimento dos requisitos previstos no inciso III do artigo 55 da Lei 8.212/1991, considerada a negativa do pedido da recorrente na via administrativa. Nada versou sobre o inciso II do aludido dispositivo legal, surgindo descabida a alegação de afastamento da norma sem a observância da reserva de Plenário – artigo 97 da Lei Maior. Neste ponto, mostra-se pertinente o teor do verbete nº 284 da Súmula do Supremo:
+    É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    O ato recorrido está em consonância com a jurisprudência do Supremo. O Pleno, ao analisar as ações diretas de inconstitucionalidade nº 2.028/DF e nº 2.036/DF, redatora para o acórdão a ministra Rosa Weber, publicado no Diário da Justiça de 8 de maio de 2017, assentou a inconstitucionalidade formal do artigo 55, inciso III, da Lei 8.212/1991, com a redação conferida pelo artigo 1º, da Lei nº 9.732/1998, no que veiculado conteúdo normativo reservado, pela Constituição Federal, à lei complementar.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 2 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
