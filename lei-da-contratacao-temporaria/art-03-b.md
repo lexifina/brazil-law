@@ -1,0 +1,1 @@
+Art. 3º-B Estendem-se ao pessoal contratado nos termos do disposto no art. 3º-A as atribuições da respectiva carreira ou cargo necessárias ao desempenho das atividades objeto do contrato, quando se tratar de atividades específicas, nos termos do disposto no inciso I do § 3º do art. 3º-A.

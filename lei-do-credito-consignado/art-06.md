@@ -4,7 +4,7 @@ I - as formalidades para habilitação das instituições e sociedades referidas
 II - os benefícios elegíveis, em função de sua natureza e forma de pagamento;
 III - as rotinas a serem observadas para a prestação aos titulares de benefícios em manutenção e às instituições consignatárias das informações necessárias à consecução do disposto nesta Lei;
 IV - os prazos para o início dos descontos autorizados e para o repasse das prestações às instituições consignatárias;
-V - o valor dos encargos a serem cobrados para ressarcimento dos custos operacionais a ele acarretados pelas operações; e
+V - os encargos a serem cobrados para remuneração dos serviços de operacionalização das consignações, inclusive o ressarcimento dos custos operacionais; e
 VI - as demais normas que se fizerem necessárias.
 § 2º Em qualquer circunstância, a responsabilidade do INSS em relação às operações referidas no caput deste artigo restringe-se à:
 I - retenção dos valores autorizados pelo beneficiário e repasse à instituição consignatária nas operações de desconto, não cabendo à autarquia responsabilidade solidária pelos débitos contratados pelo segurado; e
@@ -15,3 +15,7 @@ II - manutenção dos pagamentos do titular do benefício na mesma instituição
 I - a amortização de despesas contraídas por meio de cartão de crédito; ou
 II - a utilização com a finalidade de saque por meio do cartão de crédito.
 § 6º A instituição financeira que proceder à retenção de valor superior ao limite estabelecido no § 5º deste artigo perderá todas as garantias que lhe são conferidas por esta Lei.
+§ 7º Os encargos de que trata o inciso V do § 1º poderão ser estabelecidos em:
+I - valores fixos;
+II - percentuais sobre o valor da operação; ou
+III - uma combinação de valores fixos e percentuais sobre o valor da operação.
