@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Caio Salles assim retratou o caso:
+    O Juízo da Vara Única de Curionópolis/PA, no processo nº 0003845.16.2018.8.14.0108, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 5 de setembro de 2018, ante a suposta prática das infrações previstas nos artigos 12 (posse irregular de arma de fogo de uso permitido) e 16 (posse ilegal de arma de fogo de uso restrito) da Lei nº 10.826/2003 e 28 (posse de entorpecente) da Lei nº 11.343/2006. Ressaltou demonstrada a materialidade e os indícios de autoria, referindo-se a depoimentos prestados no auto de prisão em flagrante. Assentou indispensável a custódia para garantir a ordem pública, destacando o envolvimento do acusado com roubos a bancos na região e a apreensão de revólver calibre .38 municiado, espingarda calibre 12 com projéteis, celulares e porção de maconha. Concluiu imperiosa a medida à conveniência da instrução criminal e à aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 527.982/PA. A Sexta Turma indeferiu a ordem.
+    O impetrante sustenta configurado o excesso de prazo da custódia cautelar, a perdurar desde 5 de setembro de 2018, sem que encerrada a instrução. Conforme aponta, o não comparecimento da defesa à audiência realizada mediante carta precatória não justifica a demora na instrução. Afirma não se tratar de excesso de prazo imputável à defesa, uma vez decorrer, segundo aduz, do fato de não ter o Juízo instruído adequadamente a nova carta precatória expedida, inviabilizando-se o cumprimento.
+    Requer, no campo precário e efêmero, a revogação da preventiva, com expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    O Juízo informou não realizada anteriormente a audiência por carta precatória em razão do não comparecimento do advogado do acusado. Destacou estar o processo-crime aguardando o retorno da carta, cuja audiência no Juízo deprecado foi designada para 5 de fevereiro de 2020.
+    Consulta ao sítio do Tribunal de Justiça, em 27 de fevereiro de 2020, revelou encontrar-se o processo-crime na fase de instrução. O Juízo, no dia 12 de março de 2019, indeferiu pedido de afastamento da custódia provisória, assentando persistirem os motivos ensejadores. Não se constata haver sido formalizada, posteriormente, decisão reiterando a necessidade da prisão.
+    A etapa é de apreciação da medida acauteladora.
+    2. O parágrafo único do artigo 316 do Código de Processo Penal, incluído pela Lei nº 13.964/2019, passou a dispor, expressamente, acerca da duração da preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, por meio de ato fundamentado.
+    Dessa forma, apresentada motivação suficiente à manutenção da prisão, desde que observado o lapso de 90 dias entre os pronunciamentos judiciais, fica afastado o constrangimento ilegal decorrente do excesso de prazo, revelando-se subsistente a custódia.
+    O paciente está preso, sem culpa formada, desde 5 de setembro de 2018, sendo a custódia mantida, mediante ato fundamentado, em 12 de março de 2019. Ante a não constatação da existência de decisão posterior, na qual reiterada a necessidade da medida, tem-se a inobservância do mencionado artigo 316, parágrafo único, surgindo configurado o excesso de prazo.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja custodiado por motivo diverso da prisão preventiva retratada no processo nº 0003845.16.2018.8.14.0108, da Vara Única de Curionópolis/PA, ressalvando-se o atendimento, pelo Juízo, do versado no artigo 316, parágrafo único, do Código de Processo Penal. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
