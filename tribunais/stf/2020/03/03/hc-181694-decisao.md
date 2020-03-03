@@ -1,0 +1,40 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Jorge Vicente Silva, em favor de Larissa Tessaro Menarim, contra acórdão decisão proferida pela Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça (STJ) que negou seguimento ao RE nos EDcl no AgR nos ED nos EDv em RESP N. 1.419.845/PR.
+    Consta dos autos que o paciente foi condenado pela prática do delito de latrocínio (art. 157, § 3º, segunda parte, do CP), à pena de 10 anos, 3 meses e 5 dias de reclusão, a ser cumprida inicialmente em regime fechado, pois juntamente com outros corréus, subtraiu R$ 5.000,00 de uma casa lotérica, além de outros objetos (carteira e telefone celular do gerente do estabelecimento), tendo os agentes atirado num policial federal que se encontrava no local e que tentou impedir a prática delitiva, causando a sua morte.
+    Sobreveio recurso especial, o qual foi desprovido no STJ.
+    Após sucessivos embargos de declaração, todos rejeitados, foram opostos embargos de divergência, o qual obstado em razão da ausência de recolhimento de custas.
+    Impugnou-se a decisão por meio de agravo regimental, que restou desprovido nos termos da ementa a seguir transcrita:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OBRIGATORIEDADE DE PRÉVIO RECOLHIMENTO DE CUSTAS. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, DO CÓDIGO DE PROCESSO CIVIL/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. AGRAVO DESPROVIDO.
+    1. “Os Embargos de Divergência, previstos no artigo 266 e seguintes do Regimento Interno do STJ, não se incluem na denominação 'processo criminal' e tampouco são modalidade de recurso previsto na legislação processual penal. Não sendo espécie recursal catalogada no Código de Processo Penal ou em legislação processual penal especial, mas mero meio geral de impugnação interna, aos Embargos de Divergência não se aplica a isenção estipulada no artigo 7º da Lei 11.636/2007, sendo lícita a exigência de recolhimento antecipado das custas” (AgRg nos EREsp n. 1.332.521/PR, relator Ministro HERMAN BENJAMIN, Corte Especial, julgado em 5/6/2019, DJe de 18/6/2019).
+    2. In casu, apesar de o embargante ter sido intimado para recolher o preparo em dobro, não cumpriu corretamente a determinação, uma vez que recolheu o pagamento na forma simples. Nos termos do art. 1.007, §§ 4º e 5º, do CPC, tal situação leva à aplicação da pena de deserção.
+    3. Agravo regimental desprovido.” (eDOC
+    Nesta Corte o impetrante postula, em suma, que o STJ aprecie os embargos de divergência sem o recolhimento de custas, haja vista tratar-se de matéria penal.
+    A Procuradoria-Geral da República opinou pelo não conhecimento do writ. Eis a ementa:
+    “PROCESSUAL PENAL. EMBARGOS DE DIVERGÊNCIA INTERPOSTOS NO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE EXAME DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO EM SEDE DE HC. PARECER PELO NÃO CONHECIMENTO DA IMPETRAÇÃO”. (
+    Este mandamus veio a mim distribuído por prevenção ao HC 181.694/PR.
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    Isso porque não cabe ao Supremo Tribunal Federal substituir-se ao Superior Tribunal de Justiça na análise dos requisitos de admissibilidade do recurso especial, salvo em caso de abuso de poder ou flagrante ilegalidade (HC 112.130/MG, Rel. Min. Ayres Britto, DJe 8.6.2012; HC 125.024/DF, Rel. Min. Rosa Weber, DJe 3.12.2014; HC 126.750/SP, Rel. Min. Teori Zavascki, DJe 4.3.2015, e HC 110.186/SP, Primeira Turma, Relator originário Ministro Marco Aurélio, Red. p/ o acórdão Ministro Roberto Barroso, DJe 2.12.2014), o que não ocorreu no caso em epígrafe.
+    Dessarte, o Superior Tribunal de Justiça, ao reputar não preenchidos os pressupostos de admissibilidade dos embargos de divergência lá interposto e, por conseguinte, não adentrar a matéria de fundo, não adquiriu a condição de autoridade coatora, inviabilizando a impetração de habeas corpus perante esta Suprema Corte.
+    Cito, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA ACÓRDÃO QUE ASSINALOU A AUSÊNCIA DE PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO ESPECIAL. AS MATÉRIAS VEICULADAS NESTE WRIT NÃO FORAM ANALISADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.1. As matérias trazidas pela defesa nesta impetração não foram analisadas pela Corte Superior, que se limitou a assinalar a ausência de preenchimento de requisitos próprios do Recurso Especial. Desse modo, torna-se inviável a este SUPREMO TRIBUNAL delas conhecer originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências. Precedentes.2. Conforme entendimento deste Tribunal, “[o] Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos e o rejulgar do recurso, salvo, por se tratar de habeas corpus, na hipótese de flagrante ilegalidade” (HC 85.195, Rel. Min. AYRES BRITTO, Primeira Turma, DJ de 7/10/2005), situação não configurada nestes autos.3. Agravo Regimental a que se nega provimento”. (HC-AgR 177.427/SP, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 11.12.2019)
+    Corrobora este entendimento a Procuradoria-Geral da República, que opinou sob os seguintes fundamentos:
+    “O parecer é pelo não conhecimento da impetração.
+    Essa Suprema Corte tem jurisprudência consolidada no sentido de que não lhe cabe, em sede de habeas corpus, reexaminar os pressupostos de admissibilidade de recurso interposto no Superior Tribunal de Justiça.
+    (…)
+    A decisão tomada pelo acórdão impugnado está em consonância com a jurisprudência daquela Corte, assentada pelo Órgão Especial no julgamento do EREsp nº 1.332.521/PR, no sentido de que os embargos de divergência não configuram “processo criminal”, tampouco espécie recursal prevista na legislação processual penal, para os quais é prevista a isenção de custas (art. 7º da Lei nº 11.636/2007).
+    (…)
+    Registre-se que a decisão da Corte, aqui impgunada, revestiu-se de
+    absoluta legalidade na medida em que, antes da rejeição dos Embargos de
+    Divergência, o Presidente da Corte determinou a intimação da paciente para que procedesse ao recolhimento das custas. Somente com a omissão em cumprir à determinação é que foi proferida a decisão que rejeitou os embargos de divergência.
+    14. Não há, portanto, ilegalidade a ser corrigida.
+    15. Ante o exposto, manifesta-se o Ministério Público Federal pelo não conhecimento do habeas corpus”. (eDOC 9)
+    Desse modo, segundo a jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo STJ ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido, consoante a reiterada jurisprudência desta Corte. Nesse sentido: HC 110.968/DF, Rel. Min. Ricardo Lewandowski, Segunda Turma, unânime, DJe 3.5.2012 e HC 106.159/SP, Rel. Min. Rosa Weber, Primeira Turma, maioria, DJe 24.5.2012.
+    Ante o exposto, com base no art. 21, § 1º, do RISTF, nego seguimento ao presente writ .
+    Desse modo, segundo a jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo STJ ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido, consoante a reiterada jurisprudência desta Corte. Nesse sentido: HC 110.968/DF, Rel. Min. Ricardo Lewandowski, Segunda Turma, unânime, DJe 3.5.2012 e HC 106.159/SP, Rel. Min. Rosa Weber, Primeira Turma, maioria, DJe 24.5.2012.
+    Ante o exposto, com base no art. 21, § 1º, do RISTF, nego seguimento ao presente writ.
+    Publique-se.
+    Brasília, 3 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
