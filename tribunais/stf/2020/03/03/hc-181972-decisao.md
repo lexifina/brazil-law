@@ -1,0 +1,32 @@
+Decisão: Trata-se de habeas corpus impetrado por Bruno Barros Mendes, em favor de Werley da Silva Ferreira, contra acórdão proferido pelo STJ, nos autos do HC 556.697/SP.
+    Colho o relatório da decisão impugnada:
+    Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WERLEY DA SILVA FERREIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+    Consta dos autos que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto, mais o pagamento de 23 dias-multa, pela prática do crime do art. 157, § 2º, II, c/c o art. 70, ambos do Código Penal (e-STJ, fls. 8-14).
+    Interpostas apelações, o Tribunal de origem negou provimento ao recurso da defesa e deu provimento ao apelo ministerial, para fixar ao paciente o regime prisional inicialmente fechado. O acórdão restou assim ementado:
+    […]
+    Neste writ, o impetrante alega, em síntese, que "embora sejam DUAS vítimas, a conduta foi praticada em um mesmo contexto fático, sendo certo que o dolo do paciente diz respeito ao cometimento de apenas um único delito, devendo ser reconhecida a existência de unidade delitiva" (e-STJ, fl. 4).
+    Requer, assim, que seja reconhecido o crime único, afastando-se, por consequencia, o aumento de pena decorrente do concurso formal.
+    O Ministério Público Federal opinou pelo não conhecimento da ordem (e-STJ, fls. 45-48).
+    É o relatório. (eDOC 2, p. 56)
+    No STJ, o habeas corpus não foi conhecido.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Na espécie, o impetrante pretende o afastamento do concurso formal do roubo, porquanto “não há pluralidade de crimes, porque a agressão a patrimônios distintos não foi intencional, mas sim ocasional.”
+    Ao apreciar o habeas corpus, registrou o STJ:
+    “O reconhecimento do concurso formal próprio exige que o agente, mediante apenas uma ação ou omissão, pratique dois ou mais crimes, idênticos ou não (CP, art. 70, caput), ou seja, é necessária a presença de unidade de conduta e a pluralidade de resultados criminosos. Ainda, caso evidenciado que a conduta dolosa do paciente deriva de desígnios autônomos, restará configurado o concurso impróprio (CP, art. 70, parágrafo único), que implica soma das penas, nos moldes do concurso material.
+    Conforme a iterativa jurisprudência desta Corte, não há que se falar em crime único quando, num mesmo contexto fático, são subtraídos bens pertencentes a vítimas distintas, caracterizando concurso formal, por terem sido atingidos patrimônios diversos, nos moldes do art. 70 do Código Penal.
+    […]
+    Ademais, se as instâncias ordinárias entenderam, com base em elementos dos autos, que a conduta delitiva atingiu dois patrimônios distintos, para infirmar tal conclusão seria necessário, revolvimento do conjunto fático-comprobatório produzido no curso da persecução penal, o que não se mostra viável em sede de writ. (eDOC 2, p. 58)
+    Da leitura dos excertos acima, registro que é impossível acolher a tese defensiva.
+    A jurisprudência desta Corte é firme no sentido de configurar-se concurso formal a ação única que tenha como resultado a lesão ao patrimônio de vítimas diversas, de modo a afastar a tese defensiva de ocorrência de crime único. Cito precedentes:
+    “Concurso formal: ação única, ainda que desdobrada em atos diversos, da qual resultou a lesão patrimonial de vítimas diferentes: jurisprudência do S.T.F., firmada para elidir a tese do crime único, mas que afasta também a existência em tais hipóteses do crime continuado, que reclama pluralidade de ações: conseqüente descabimento da duplicação da pena-base, fundada no art. 71, parag. único, da qual, em se tratando de concurso formal, só poderia resultar da autonomia de desígnios, (CP, art. 70, ‘in fine’), da qual não se cogitou na espécie” (HC 68.728, Relator o Ministro Sepúlveda Pertence, DJ 12.6.1992)
+    “HABEAS CORPUS. PENAL. AÇÃO ÚNICA QUE TEM COMO RESULTADO LESÃO A VÍTIMAS DIVERSAS: CONCURSO FORMAL (ART. 70, PARTE FINAL, DO CÓDIGO PENAL). ORDEM DENEGADA. 1. Roubo qualificado consistente na subtração de dois aparelhos celulares, pertencentes a duas pessoas distintas, no mesmo instante. 2. A jurisprudência deste Supremo Tribunal Federal é firme no sentido de configurar-se concurso formal a ação única que tenha como resultado a lesão ao patrimônio de vítimas diversas, e não crime único: Precedentes. 3. Habeas corpus denegado” (HC 91.615, Rel. Min. Cármen Lúcia, DJ 28.9.2007)
+    “HABEAS CORPUS. CRIME DE ROUBO. VÍTIMAS DIVERSAS. CONCURSO FORMAL (ART. 70 DO CP). ALEGAÇÃO DE CRIME ÚNICO. VIA PROCESSUALMENTE CONTIDA DO HABEAS CORPUS. ORDEM DENEGADA. 1. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido da caracterização do concurso formal (art. 70 do Código Penal), quando o delito de roubo acarreta lesão ao patrimônio de vítimas diversas. Precedentes específicos: HC 103.887, da relatoria do ministro Gilmar Mendes; HC 91.615, da relatoria da ministra Cármen Lúcia; HC 68.728, da relatoria do ministro Sepúlveda Pertence. 2. O habeas corpus é garantia constitucional que pressupõe, para o seu adequado manejo, uma ilegalidade ou um abuso de poder tão flagrante que se revele de plano (inciso LXVIII do art. 5º da Magna Carta de 1988). Tal qual o mandado de segurança, a ação constitucional de habeas corpus é via processual de verdadeiro atalho. Isso no pressuposto do seu adequado ajuizamento, a se dar quando a petição inicial já vem aparelhada com material probatório que se revele, ao menos num primeiro exame, induvidoso quanto à sua faticidade mesma e como fundamento jurídico da pretensão. 3. No caso, o acatamento da tese defensiva também demandaria a renovação de atos próprios da instrução processual penal para desqualificar as conclusões adotadas pelas instâncias precedentes; isto é, no âmbito deste habeas corpus, não seria possível invalidar toda a fundamentação lançada pela autoridade apontada como coatora, no sentido de que o paciente atingiu, sim, o patrimônio de vítimas distintas. 4. Ordem denegada” (HC 96.787, Relator o Ministro Ayres Britto , DJ 21.11.2011)
+    “Habeas Corpus. 2. Roubo. Lesão ao patrimônio de vítimas diversas. Concurso formal. 3. Constrangimento ilegal não caracterizado. 4. Ordem denegada” (HC 103.887, de minha relatoria , DJ 14.12.2010).
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 3 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
