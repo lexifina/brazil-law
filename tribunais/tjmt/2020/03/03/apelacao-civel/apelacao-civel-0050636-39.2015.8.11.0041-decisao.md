@@ -1,0 +1,44 @@
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial interposto na Apelação Cível n. 0050636-39.2015.811.0041 - PJE
+Recorrente: ESTADO DE MATO GROSSO
+Recorrido: MARIA AMELIA DA SILVA RODRIGUES
+Vistos, etc.
+Trata-se de Recurso Especial interposto pelo ESTADO DE MATO GROSSO, com fundamento no art. 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO assim ementado (ID. 19617970):
+“APELAÇÃO CÍVEL E REMESSA NECESSÁRIA – AÇÃO ORDINÁRIA DE COBRANÇA – URV – PRESCRIÇÃO DO FUNDO DO DIREITO – NÃO OCORRÊNCIA – INCIDÊNCIA DA SÚMULA 85 STJ – APURAÇÃO DO PERCENTUAL - MODALIDADE DE LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO – REESTRUTURAÇÃO DA CARREIRA – OBSERVÂNCIA - HONORÁRIOS ADVOCATÍCIOS ARBITRADOS QUANDO LIQUIDADO O JULGADO – ARTIGO 85, §4o, II DO CPC - JUROS E CORREÇÃO MONETÁRIA – TEMA 810 DO STF – RECURSO PARCIALMENTE PROVIDO – SENTENÇA PARCIALMENTE RETIFICADA.
+1. Os Tribunais Superiores já pacificaram entendimento de que os servidores públicos federais, estaduais ou municipais - inclusive do Poder Executivo - têm direito ao acréscimo da diferença decorrente da conversão de seus vencimentos para a Unidade Real de Valor - URV, nos moldes previstos na Lei 8.880/94, levando-se em conta a data do efetivo pagamento. (Ag 126295/2015, DESA. MARIA APARECIDA RIBEIRO, TERCEIRA CÂMARA CÍVEL, Julgado em 12/12/2016, Publicado no DJE 16/12/2016).
+2. Somente com a liquidação da sentença, por arbitramento, é que será esclarecido se houve realmente a reestruturação da carreira do servidor apelado, se esta supriu por completo eventual defasagem remuneratória, e, em caso de se constatar a defasagem, qual o percentual devido, nos moldes previstos na Lei no 8.880/94.
+3. “Para a fixação do índice decorrente da conversão de Cruzeiro Real para Unidade Real de Valor, deve ser considerada a reestruturação financeira da carreira, acaso ocorrida, consoante decidiu o Supremo Tribunal Federal: STF, Tribunal Pleno, RE 561836/RN, relator Ministro Luiz Fux, DJe 10/2/2014” (Apelação/Remessa Necessária 85268/2016, Rel. Des. Luiz Carlos da Costa, 2a Câmara de Direito Público e Coletivo, julgado em 19.07.2016).
+4. Na linha de entendimento firmada pelo STJ, é obrigatória a observância pelos Estados e Municípios, dos critérios previstos na Lei Federal no 8.880/94, para a conversão em URV, dos vencimentos e proventos de seus servidores.
+5. Tratando-se de parcelas de trato sucessivo, que se renova mês a mês, ocorre a prescrição apenas das prestações referentes ao quinquênio anterior à propositura da ação, conforme orientação consolidada na Súmula no 85, do Colendo Superior Tribunal de Justiça.
+6. As verbas percebidas por servidores públicos resultantes da diferença apurada na conversão de suas remunerações da URV para o Real têm natureza salarial e, portanto, estão sujeitas à incidência de Imposto de Renda e de Contribuição Previdenciária.
+7. Os índices para atualização dos valores devidos pela Fazenda Pública serão fixados em liquidação de sentença, observado o que for decidido pelo Supremo Tribunal Federal quando do julgamento do Tema 810.
+8 – Não sendo líquida a sentença, a fixação do percentual dos honorários advocatícios somente ocorrerá quando liquidado o julgado, nos termos do artigo 85, §§3o e 4o, inc. II, do Código de Processo Civil. (RAC no 0050636-39.2015.811.0041, DR. GILBERTO LOPES BUSSIKI, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 09/10/2019).
+Opostos Embargos de Declaração, estes foram rejeitados no acórdão proferido no ID. 29109985.
+O Recorrente alega violação aos artigos 189 do Código Civil e 1o do Decreto no 20.910/32, sustentando que conforme o entendimento do STF, as leis que promoveram a reestruturação remuneratória da carreira são o termo final para a percepção de qualquer parcela decorrente da errônea conversão da URV, o que fulmina a pretensão autoral nos cinco anos subsequentes à reestruturação, não havendo falar em trato sucessivo, bem como apontou dissídio jurisprudencial em relação à mesma matéria, argumentando que enquanto o acórdão recorrido aplicou a prescrição de trato sucessivo, com incidência da Súmula no 85 do STJ, o acórdão paradigma entendeu incidir a prescrição de fundo de direito, cujo termo inicial é a reestruturação de carreira dos servidores públicos.
+Recurso tempestivo (ID. 34498494).
+Contrarrazões (ID. 33456458).
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ. Súmula 83 do STJ.
+A Súmula 83 do STJ preconiza que “Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+A parte Recorrente sustenta violação aos artigos 189 do Código Civil e 1o do Decreto no 20.910/32, alegando que as leis que promoveram a reestruturação remuneratória da carreira são o termo final para a percepção de qualquer parcela decorrente da errônea conversão da URV, o que fulmina a pretensão autoral nos cinco anos subsequentes à reestruturação, não havendo falar em trato sucessivo, apontando, ainda, dissídio jurisprudencial em relação à mesma matéria.
+A questão foi expressamente analisada pelo acórdão recorrido, como se observa dos seguintes trechos:
+“O Estado de Mato Grosso aponta prejudicial de mérito, aduzindo que o fundo de direito pleiteado pela apelada está prescrito com base no artigo 1o do Decreto-Lei n. 20.910/1932, ao argumento de que a partir da reestruturação da carreira dos profissionais do Desenvolvimento Econômico e Social do Estado de Mato Grosso, Lei Estadual no. 7554/2001, instaurou-se a fluência do prazo prescricional para o exercício da pretensão almejada, qual seja, a verificação do acréscimo de 11,98%, a título de URV, sobre os seus vencimentos.
+Todavia, em que pesem os argumentos do recorrente, o Superior Tribunal de Justiça pacificou entendimento no sentido de que, por tratar-se de relação jurídica de trato sucessivo, a prescrição renova-se a cada mês, atingindo tão somente as parcelas anteriores ao quinquênio que precedeu à propositura da ação, consoante disposto na Súmula 85 do STJ.
+Nesse sentido:
+“(...)É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, que não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês. (...)”(AgRg no REsp 1557867/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 19/04/2016)
+Assim, rejeito a prejudicial de mérito aventada pelo apelante, mantendo-se aquela já aplicada pelo magistrado de primeiro grau, qual seja, por se tratar de trato sucessivo, prescrevem apenas as parcelas vencidas anteriormente ao quinquênio que antecedeu ao ajuizamento da ação. ”
+Com isso, observa-se que o entendimento lançado no acórdão recorrido está em consonância com a jurisprudência pacífica de que nas demandas em que se busca o reconhecimento de diferenças salariais advindas de errônea conversão da moeda a prescrição atinge tão somente as parcelas anteriores aos 5 (cinco) anos que antecederam à data da propositura da ação, nos termos da Súmula 85 do STJ, uma vez que a relação jurídica existente é de trato sucessivo, que se renova mês a mês.
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos 189 do Código Civil e 1o do Decreto no 20.910/32, visto que os entendimentos expostos no acórdão recorrido encontram-se em sintonia com as orientações sedimentadas no STJ, o que obsta a admissibilidade do presente recurso.
+Por fim, consigne-se que, embora a Súmula no 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”, conforme disposto no Enunciado no 16 da Reunião dos Vice-Presidentes de Tribunais de Justiça do Brasil:
+“Enunciado no 16 - É aplicável a Súmula 83 do STJ ao recurso especial interposto com fundamento na alínea ‘a’ do inciso III do art. 105 da Constituição Federal”.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 27 de fevereiro de 2020.
+Des. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVII
