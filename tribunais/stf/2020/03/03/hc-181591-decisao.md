@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de Habeas Corpus impetrado contra acórdão da Corte Especial do Superior Tribunal de Justiça (AgRg no RE nos EDcl no AgRg no Agravo em Recurso Especial 552.492/RR, Rel. Min. LAURITA VAZ).
+    Consta dos autos, em síntese, que o paciente foi condenado à pena de 4 anos de reclusão, em regime inicial aberto, substituída por restritivas de direitos, pela prática do crimes de tráfico de drogas (arts. 33, caput, da Lei 11.343/2006), porque, segundo a inicial acusatória,
+    No dia 20/07/2012, por volta das 11h, na rua CJ-lO, n° 261, bairro Jóquei Clube, o denunciado, de forma livre e consciente, guardava, mantinha em depósito, vendia e expunha à venda drogas, das quais foram apreendidas 1.066,6g (um quilo, sessenta e seis gramas e seis decigramas) de cocaína, substância de uso proscrito no Brasil conforme resolução RDC n° 021/201O/ANVISA e portaria n° 344/98-SVS/MS, atestada pelos laudo toxicológico preliminar de fl. 12.
+    O Tribunal de Justiça do Estado de Roraima deu provimento ao apelo Ministerial para elevar a pena ao patamar de 5 anos e 6 meses de reclusão, a ser cumprida em regime inicial fechado. Eis ementa do julgado (Doc. 2 – fl. 183):
+    APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS -DOSIMETRIA - IRRESIGNAÇÃO MINISTERIAL - APREENSÃO DE UM QUILO DE COCAINA - NATUREZA E QUANTIDADE DA DROGA - PREVALÊNCIA DO ART. 42 DA LEI DE DROGAS - PENA-BASE REDIMENSIONADA EM PATAMAR ACIMA DO MÍNIMO - ALTERADA A PENA RESTRITIVA DE DIREITO FIXADA NA SENTENÇA POR PRIVATIVA DE LIBERDADE - CAUSA ESPECIAL PREVISTA NO PARÁGRAFO 4° DO ART. 33 DA LEI DE DROGAS - QUANTIDADE NÃO DESPREZÍVEL DE DROGA - DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA - PRECEDENTE DESTA CORTE - AFASTAMENTO DA CAUSA DE DIMINUIÇÃO - APELO INTEGRALMENTE PROVIDO.
+    Contra esse julgado, a defesa interpôs Recurso Especial, inadmitido pelo Tribunal de origem (Doc. 2 – fls. 216/217), e o subsequente Agravo perante o Superior Tribunal de Justiça, conhecido pelo Ministro Relator para negar seguimento ao Recurso Especial (Doc. 2 – fls. 249/255), em decisão confirmada pelo colegiado, conforme ementa (Doc. 2 – fl. 259):
+    PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO AGRAVADA. FUNDAMENTOS INATACADOS. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. Não se conhece do agravo regimental que deixa de impugnar, de forma direta e objetiva, os fundamentos da decisão agravada. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça.
+    2. O agravante deixou de impugnar os seguintes fundamentos: a) a pena-base foi exasperada com base na preponderância da quantidade e natureza da droga apreendida sobre as circunstâncias judiciais do art. 59 do Código Penal; b) a dedicação a atividades criminosas impede a concessão do benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+    3. Agravo regimental não conhecido.
+    Esse julgado foi mantido pelo Superior Tribunal de Justiça após rejeitar os sucessivos recursos interpostos pela defesa (Doc. 2 – fls. 263; 275-277; 279-280; 281-286; e 288-294).
+    Nesta ação, o impetrante alega, em suma: (a) O sentenciado é réu primário, de bons antecedentes, é graduado, é funcionário público concursado, é casado e tem uma filha, tem endereço fixo e profissão, preenchendo os requisitos necessários para iniciar o cumprimento da pena em regime mais brando do que o regime fechado; (b) o sentenciado cumpriu 7 meses de prisão preventiva em regime fechado e atualmente está há 3 meses preso em regime fechado por mandado de prisão em sentença condenatória, totalizando dez meses em regime fechado; e (c) 16% da pena recebida de 5 anos e 6 meses, para a progressão de regime para o semiaberto, segundo a nova dicção do artigo 112 da LEP, dado pelo Texto da Lei 13.964/2019 é de 9 meses e 22 dias. Tempo este já cumprido pelo peticionante em regime fechado.
+    Requer-se, ao final, a concessão da ordem, para que o paciente cumpra a pena em regime prisional menos gravoso.
+    É o relatório. Decido.
+    Os temas veiculados nesta impetração não foram examinadas pelo Órgão colegiado do Superior Tribunal de Justiça. Desse modo, torna-se inviável a esta SUPREMA CORTE conhecer dela originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências. Nesse sentido:
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MATÉRIA NÃO ANALISADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA.
+    1 . A questão suscitada não foi analisada pelo Superior Tribunal de Justiça e, portanto, qualquer juízo desta CORTE sobre a matéria implicaria supressão de instância, o que não é admitido pela jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+    2 . Agravo regimental a que se nega provimento.
+    (HC 151816 AgR, Relator(a): Min. ALEXANDRE DE MORAES, DJe de 10/5/2018).
+    E ainda: HC 132.864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, Dje de 18/3/2016; HC 136.452-ED, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 10/2/2017; HC 135.021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 6/2/2017; HC 135.949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje 24/10/2016.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 3 de março de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
