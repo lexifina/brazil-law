@@ -1,0 +1,30 @@
+Trata-se de recurso ordinário em habeas corpus interposto por Jackson Flores Kuhnen, representado pela Defensoria Pública da União – DPU, contra decisão proferida pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça - STJ que negaram provimento ao AgRg no HC 490.633/SC (págs. 1-8 do documento eletrônico 7).
+    O recorrente alega, em síntese, que,
+    “[em] sentença de 03 de setembro de 2018, Jacson Flores Kuhnen foi condenado por infração ao art. 157, § 2º, incisos I, II e V, por 03 (três) vezes, na forma do art. 70, c/c art. 65, inciso III, ‘d’, todos do Código Penal, imputando-lhe a pena de 07 (sete) anos, 06 (seis) meses e 19 (dezenove) dias de reclusão, em semiaberto, e 21 (vinte e um) dias-multa.
+    A defesa interpôs Apelação, pleiteando a fixação da pena-base no mínimo legal, além do afastamento das circunstâncias majorantes de emprego de arma e da restrição da liberdade das vítimas, conjuntamente com a redução de 5/12 para 1/3 em relação à fração das majorantes e o afastamento do concurso formal e, assim, reconhecimento de crime único.
+    O Tribunal de Justiça do Estado de Santa Catarina, por unanimidade, negou provimento ao apelo da defesa.
+    Por conseguinte, foi impetrado habeas corpus em face do referido acórdão, requerendo a exclusão da valoração negativa da circunstância judicial das consequências do crime na pena-base. O writ foi denegado pelo e. Relator.
+    Irresignado, Jacson Flores Kuhnen, presentado pela Defensoria Pública da União, interpôs agravo regimental no habeas corpus.
+    Por unanimidade, o e. STJ, por intermédio da Sexta Turma, negou provimento ao agravo regimental, assim ementado: [...].
+    Diante desta decisão prolatada pelo c. Superior Tribunal de Justiça, interpõe-se o presente Recurso em habeas corpus” (págs. 17-18 do documento eletrônico 7).
+    Ao final, requer:
+    “1) o conhecimento e provimento do presente recurso, com a reforma do acórdão prolatado pelo c. STJ, para que seja excluída a valoração negativa das consequências do crime, nos termos do art. 59 do CP, redimensionando-se a pena-base;
+    2) que sejam observadas as prerrogativas funcionais dos membros da Defensoria Pública da União, especialmente, a concessão de prazo em dobro e a intimação pessoal do Defensor Público-Geral Federal de todos os atos processuais, inclusive da sessão de julgamento, ressaltando-se a desnecessidade de procuração” (págs. 19-20 do documento eletrônico 7).
+    Nos termos do art. 311 do Regimento Interno do Supremo Tribunal Federal, deu-se vista deste autos ao Procurador-Geral da República (documento eletrônico 9).
+    Posteriormente, a Subprocuradora-Geral da República Cláudia Sampaio Marques manifestou-se no seguinte sentido:
+    “PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. TRÂNSITO EM JULGADO DA CONDENAÇÃO. IMPOSSIBILIDADE DE UTILIZAR O HABEAS CORPUS EM SUBSTITUIÇÃO À REVISÃO CRIMINAL. CRIME DE ROUBO QUALIFICADO. PRETENSÃO DE EXCLUSÃO DA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL CONSEQUÊNCIAS DO CRIME. ARGUIÇÕES IMPROCEDENTES. CONDUTA QUE RESULTOU EM INTENSO DANO PSICOLÓGICO À VÍTIMA GESTANTE E PREJUÍZO FINANCEIRO À TODAS AS VÍTIMAS, DIANTE DO ALTO VALOR DOS BENS SUBTRAÍDOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO QUANTO À INDIVIDUALIZAÇÃO DA PENA. PARECER PELO DESPROVIMENTO DO RECURSO” (pág. 1 do documento eletrônico 10).
+    É o relatório necessário. Decido.
+    Anoto, de início, que o art. 192, caput, c/c art. 312, ambos do Regimento Interno do Supremo Tribunal Federal, facultam ao Relator do recurso ordinário em habeas corpus, denegar ou conceder a ordem, monocraticamente, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Nesse sentido, indico os seguintes precedentes: RHC 138.843/MG, Rel. Min. Dias Toffoli; RHC 138.939/BA, Min. Roberto Barroso; RHC 136.727/SP, Rel. Min. Edson Fachin; RHC 135.985/DF, Rel. Min. Gilmar Mendes; e RHC 135.824/SP, de minha relatoria; entre outros.
+    Por esse motivo, passo ao exame do mérito recursal.
+    Transcrevo, por oportuno, a ementa da decisão combatida:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE. CONSEQUÊNCIAS. MOTIVAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Acerca das consequências, ficou registrado o trauma psicológico sofrido pelas vítimas - especialmente a que estava grávida de seis meses à época da ação criminal, que declarou que o bebê, após o crime, não manteve a taxa de crescimento e o peso esperado, nascendo abaixo do peso normal.
+    2. As instâncias antecedentes apresentaram motivação idônea para a exasperação da pena-base do paciente, baseada em elementos concretos dos autos – os prejuízos materiais e extrapatrimoniais suportados pelas vítimas. 3. Agravo regimental não provido” (pág. 4 do documento eletrônico 7).
+    Todavia, a via estreita do habeas corpus não permite que se proceda à ponderação e o reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória. Nesse sentido:
+    “Agravo regimental em habeas corpus. Penal e Processual Penal. Corrupção passiva e facilitação ao descaminho. Dosimetria. Pena-base. Reexame de circunstâncias judiciais. Impossibilidade em sede de habeas corpus. Regimental não provido. 1. Havendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08), sendo certo, ademais, que o habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal e consideradas na sentença condenatória. 2. Agravo regimental ao qual se nega provimento” (HC 157.596-AgR/CE, Rel. Min. Dias Toffoli, Segunda Turma, grifei).
+    Isso posto, nego provimento a este recurso (art. 192, caput, c/c art. 312, ambos do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 4 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
