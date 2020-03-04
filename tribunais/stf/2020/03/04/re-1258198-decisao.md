@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+    “AGRAVO. DECISÃO MONOCRÁTICA DO RELATOR. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. COMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO. DECISÃO DO STF EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. MODULAÇÃO. Com fundamento no artigo 27 da Lei nº 9.868/99, a Excelsa Corte modulou os efeitos da decisão proferida, fixando entendimento no sentido de que devem permanecer sob a competência desta Justiça Especializada todas as reclamações trabalhistas que tenham sido sentenciadas até o dia 20/02/2013. Assim, por força da modulação dos efeitos da decisão, permanece a competência da Justiça do Trabalho para o julgamento do caso sob análise, uma vez que proferida sentença por Juiz do Trabalho em data anterior àquela fixada pelo excelso STF. Assim, nega-se provimento ao agravo quando o agravante não desconstitui os fundamentos contidos na decisão monocrática proferida. Agravo a que se nega provimento.” (eDOC 44, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 114 do texto constitucional.
+    Nas razões recursais, alega-se a incompetência da Justiça do Trabalho para dirimir conflitos relativos à complementação de aposentadoria de funcionários celetistas em face da sucessão entre a FEPASA e a CPTM, uma vez que o benefício foi instituído por Lei Estadual e não guarda relação com a CLT.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal Superior do Trabalho reconheceu a competência da Justiça do Trabalho para julgamento da controvérsia por entender que esta Corte modulou os efeitos da decisão proferida no RE 594.435, Rel. Min. Marco Aurélio.
+    Fixou-se o entendimento de que devem permanecer sob a competência da justiça do Trabalho todos os processos desta matéria em que a sentença de mérito tenha sido proferida até o dia 24/5/2018 (ED-RE 594.435, Rel. Min. Marco Aurélio, Redator do Acórdão Min. Alexandre de Moraes, DJe 23/09/2019).
+    O acórdão recorrido não destoa da jurisprudência desta Corte.
+    No caso em apreço, verifico que a sentença de mérito foi proferida em data anterior a 24 de maio de 2018 (eDOC 16), de modo que permanece competente para resolver a controvérsia a Justiça do Trabalho.
+    Confiram-se, a propósito, o seguinte precedente:
+    “CONSTITUCIONAL E PROCESSO CIVIL. MODULAÇÃO DE EFEITOS EM EMBARGOS DE DECLARAÇÃO. VIABILIDADE. DEMONSTRAÇÃO DE SITUAÇÃO DE EXCEPCIONALIDADE. MODULAÇÃO DOS EFEITOS DO ACÓRDÃO PARA MANTER, NA JUSTIÇA DO TRABALHO, ATÉ FINAL EXECUÇÃO, TODOS OS PROCESSOS DESTA MATÉRIA EM QUE JÁ TENHA SIDO PROFERIDA SENTENÇA DE MÉRITO, ATÉ O DIA DA CONCLUSÃO DO JULGAMENTO DO RECURSO EXTRAORDINÁRIO (24/5/2018). 1. O § 3º do art. 927 do Código de Processo Civil de 2015 preconiza que, “na hipótese de alteração de jurisprudência dominante do Supremo Tribunal Federal e dos tribunais superiores ou daquela oriunda de julgamento de casos repetitivos, pode haver modulação dos efeitos da alteração no interesse social e no da segurança jurídica”. 2. Tendo em vista a duradoura jurisprudência do Tribunal Superior do Trabalho em sentido oposto ao decidido pelo SUPREMO TRIBUNAL FEDERAL neste precedente, surge, inevitavelmente, o interesse em resguardar os atos praticados ao longo de vários anos, enquanto perdurou a indefinição acerca do Juízo competente para dirimir a controvérsia. 3. Precedente: RE 586.453, Rel. Min. ELLEN GRACIE, Rel. p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 6/6/2013, Tema 190 da Repercussão Geral. 4. Embargos de Declaração acolhidos para efeitos de modulação.”(ED-RE 594.435, Rel. Min. Marco Aurélio, Redator do Acórdão Min. Alexandre de Moraes, DJe 23/09/2019).
+    Confiram-se, ainda, RE 1.251.619, Rel. Min. Cármen Lúcia, DJe 17/02/2020.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
