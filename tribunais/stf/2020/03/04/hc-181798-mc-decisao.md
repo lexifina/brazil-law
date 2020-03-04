@@ -1,0 +1,20 @@
+DECISÃO
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – ATIVIDADES CRIMINOSAS – DEDICAÇÃO.
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, PARÁGRAFOS 2º E 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Caio Salles assim retratou o caso:
+    O Juízo da Vigésima Nona Vara Criminal da Comarca de São Paulo/SP, no processo nº 0021741-19.2018.8.26.0050, condenou o paciente a 2 anos e 6 meses de reclusão, em regime inicial de cumprimento aberto, e ao pagamento de 250 dias-multa, ante a prática do crime previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Estabeleceu a pena-base no mínimo definido para o tipo, levando em conta o piso de 5 e o teto de 15 anos. Observou, em 1/2, a causa de diminuição versada no artigo 33, § 4º, da Lei de regência. A sanção privativa de liberdade foi substituída por restritiva de direito.
+    A Nona Câmara de Direito Criminal deu provimento a apelação interposta pelo Ministério Público para, considerada a dedicação a atividades criminosas, afastar a causa de diminuição, reportando-se à natureza e à quantidade de entorpecente apreendido – 42 porções de crack, 31 de maconha e 29 de cocaína – e ao informado, no interrogatório, pelo acusado, no que afirmou o recebimento, por dia, de R$ 100,00 decorrentes da mercancia de drogas. Impôs a pena em 5 anos de reclusão e pagamento de 500 dias-multa. Aludindo à gravidade e à repercussão social negativa do tráfico, fixou o regime inicial fechado.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 552.793/SP, inadmitido pela Quinta Turma.
+    A Defensoria Pública do Estado de São Paulo sustenta configurado constrangimento ilegal, consistente no afastamento da causa de diminuição prevista no artigo 33, § 4º, da Lei de regência. Diz inviável a não aplicação do dispositivo em virtude da quantidade de substância, ressaltando haver sido a pena-base imposta no mínimo legal. Aponta não demonstrada a dedicação a atividades criminosas. Destaca pertinentes o reconhecimento do direito a regime menos gravoso, ante a ausência de circunstâncias judiciais negativas, e a substituição da pena privativa de liberdade por restritiva de direitos. Frisa as condições pessoais favoráveis do paciente – residência fixa e emprego com registro na carteira de trabalho.
+    Requer, no campo precário e efêmero, a observância da causa de diminuição, com o consequente regime aberto, substituindo-se a pena por restritiva de direitos. Sucessivamente, busca seja implementado o regime semiaberto. No mérito, pretende a confirmação das providências.
+    Consulta ao sítio do Tribunal de Justiça revelou o trânsito em julgado do título condenatório em 12 de novembro de 2018.
+    A fase é de apreciação da medida acauteladora.
+    2. A teor do artigo 33, § 4º, da Lei nº 11.343/2006, tem-se a redução da pena, no patamar de 1/6 a 2/3, quando o agente é primário, possui bons antecedentes e não se dedica a atividades delituosas nem integra organização criminosa. O Tribunal de Justiça, ao concluir pela inadequação do preceito, salientou a dedicação a atividades ilícitas, reportando-se à natureza e quantidade de droga apreendida – 42 porções de crack, 31 de maconha e 29 de cocaína – e ao informado, no interrogatório, pelo acusado, considerado o recebimento, por dia, de R$ 100,00 decorrentes da mercancia de entorpecentes.
+    Quanto ao regime de cumprimento de pena, norteia-o, nos termos do artigo 33, parágrafos 2º e 3º, do Código Penal, o patamar alusivo à condenação e as circunstâncias judiciais. Tendo em vista a sanção imposta – 5 anos de reclusão – e a ausência de circunstâncias judiciais negativas, surge adequado o semiaberto.
+    3. Defiro a liminar, determinando seja observado, até o exame de mérito da impetração, o regime inicial semiaberto no cumprimento da pena, considerado o título condenatório formalizado no processo nº 0021741-19.2018.8.26.0050, da Vigésima Nona Vara Criminal da Comarca de São Paulo/SP.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 4 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
