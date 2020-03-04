@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – COMPETÊNCIA DO SUPREMO – USURPAÇÃO – PROCEDÊNCIA DO PEDIDO.
+    1. O assessor Vinícius Machado Calixto assim revelou as balizas do caso:
+    José Toledo Marques Neto e Maria Ângela de Abreu Cabianca Marques afirmam haver o Tribunal de Justiça do Estado de São Paulo, no agravo de instrumento nº 2175678- 68.2018.8.26.0000, olvidado o decidido no recurso extraordinário nº 605.709 e usurpado a competência do Supremo.
+    Segundo narram, no curso de determinada execução de título extrajudicial, tiveram penhorado bem de família. Sobreveio agravo de instrumento, no qual mantida a constrição. Interposto recurso extraordinário, foi inadmitido ante o assentado no extraordinário de nº 612.360. Não houve êxito em subsequente agravo. Declaratórios aguardam apreciação.
+    Mencionam o insucesso de pedidos de atribuição de eficácia suspensiva ao extraordinário protocolado, autuados como petições nº 7.985 e 8.016, distribuídos a Vossa Excelência, tendo em vista a ausência de devolutividade da matéria quando da formalização dos pedidos.
+    Distinguem a controvérsia versada na origem daquela objeto do paradigma da repercussão geral. Conforme argumentam, neste não estava em discussão a penhorabilidade de bem de família decorrente de fiança prestada em contrato de locação de imóvel comercial, tema debatido no caso concreto. Salientam que, no recurso extraordinário nº 605.709, o Supremo declarou, por maioria de votos, inadequada a constrição de bem nessa situação. Apontam violação dos artigos 5º, cabeça, incisos XXXVI, LIV e LXXVIII, 6º e 226, cabeça, da Constituição Federal. Assinalam que, uma vez impedida a sequência do agravo interposto em virtude da inadmissão do extraordinário, acabou usurpada a competência deste Tribunal.
+    Requereram, no campo precário e efêmero, a suspensão do ato impugnado. Buscam a cassação do pronunciamento atacado e a remessa do caso ao Supremo.
+    Vossa Excelência, em 15 de outubro de 2019, deferiu liminar.
+    Em contestação, Albertina da Purificação Ribas Esteves sublinha impertinente a medida, ressaltando alcançada a preclusão maior, na origem, antes de ajuizada a reclamação. Salienta a arguição tardia quanto à impenhorabilidade do imóvel, a justificar, destacam, a aplicação de multa por litigância de má-fé e o arbitramento de honorário advocatícios.
+    O Ministério Público Federal manifesta-se pela procedência da reclamação. Diz usurpada a competência do Supremo ante o óbice ao extraordinário interposto. Alude ao entendimento, adotado no exame do recurso de nº 605.709, segundo o qual, na locação comercial, o imóvel bem de família do fiador não pode estar sujeito a execução formalizada pelo locador.
+    2. Não procede o alegado relativamente ao trânsito em julgado na origem, uma vez direcionada a medida contra decisão proferida no agravo. Ajuizada a reclamação antes da preclusão maior, descabe evocar o disposto no artigo 988, § 5º, inciso I, do Código de Processo Civil e no enunciado nº 734 da Súmula do Tribunal.
+    O recurso extraordinário teve a sequência impedida com fundamento em precedente que não guarda pertinência com o caso concreto. Decidiu-se, no referido processo piloto da repercussão geral, observado o direito constitucional de moradia, sobre a problemática da garantia dada em decorrência de locação residencial. Uma vez debatida fiança prestada em ajuste voltado ao aluguel de imóvel comercial, a situação concreta não se faz alcançada pelo entendimento. Ao julgar o extraordinário de nº 605.709, embora não submetido ao regime da repercussão maior, a Primeira Turma chancelou a distinção. Na oportunidade, acompanhando o voto da ministra Rosa Weber, fiz ver:
+    […]
+    Não cabe distinguir onde a lei não distingue. Há manifestação de vontade do fiador, quer se trate de locação residencial, quer comercial. E não vejo como potencializar a livre iniciativa, o comércio, em detrimento de certo direito fundamental, o direito à moradia, proteção da própria família.
+    [...]
+    Com interposição de agravo, cumpria remeter o processo ao Supremo, ao qual cabe avaliar a adequação dos fundamentos arguidos visando a configuração da repercussão geral. Inobservada a providência, acabou usurpada a competência deste Tribunal.
+    3. Julgo procedente o pedido para cassar o acórdão formalizado no agravo de instrumento nº 2175678-68.2018.8.26.0000, em tramitação no Tribunal de Justiça do Estado de São Paulo, determinando a remessa do extraordinário ao Supremo.
+    4. Publiquem.
+Brasília, 4 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
