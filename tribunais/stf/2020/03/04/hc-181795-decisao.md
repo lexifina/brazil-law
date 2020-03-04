@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: Penal e Processual penal. Habeas corpus. Associação para o tráfico de drogas. Livramento condicional. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 561.488, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado a cumprir pena total de 16 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, como incurso nos artigos 35, c/c o art. 40, III, VI, V e VI, da Lei nº. 11.343/2006; 288, parágrafo único e 180, caput, do Código Penal.
+    3. O Tribunal de Justiça do Estado de São Paulo deu provimento a agravo em execução interposto pelo Ministério Público estadual para “determinar a retificação do cálculo relativo ao livramento condicional, respeitando-se a fração de dois terços (2/3) prevista nos artigos 44 da Lei de Drogas e 83, V, do Código Penal no que tange à pena correspondente à associação voltada ao tráfico”. Irresignada, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator, Min. Antonio Saldanha Palheiro, indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “o crime de associação para o tráfico não integra o rol de crimes hediondos ou equiparados, previstos na Lei n.º 8.072/90” e que, assim, “somente para os delitos equiparados ao crime hediondo será necessário o cumprimento da fração de 2/3 da pena, nos termos do artigo 83, inciso V, do Código Penal”.  Com essa argumentação, requer seja “mantida a decisão do juízo de 1 instancia, ou seja, mantendo 1/3 para fins de Livramento Condicional no crime do art 35 da Lei de Tóxicos”.
+    5. Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    7. Com efeito, inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+     I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+     III – Agravo regimental a que se nega provimento.”
+    8. Não é caso de concessão da ordem de ofício.
+    9. A decisão impugnada está alinhada com entendimento do STF no sentido de que “o requisito objetivo do livramento condicional (2/3) para o caso de condenação por associação para o tráfico decorre de previsão expressa do art. 44, parágrafo único, da Lei nº 11.343/2006” (RHC 133.938, da minha Relatoria). No mesmo sentido, o HC 118.213, Rel. Min. Gilmar Mendes.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 04 de março de 2020.
+Ministro Luís Roberto Barroso
+Relator
