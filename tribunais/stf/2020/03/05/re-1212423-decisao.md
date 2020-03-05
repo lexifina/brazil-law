@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, que julgou procedente pedido de indenização por danos morais, formulado por morador residente próximo a área pertencente à União, em face da existência de dano ambiental, decorrente da aplicação irregular de agrotóxicos no referido terreno.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 37, § 6º; e 225, § 3º, assim como aos arts. 5º, caput, II e XXXVI, 37, caput, 102, I, a, e § 3º, todos da CF. Requer a reforma do acórdão recorrido de modo que seja reconhecida a improcedência do pedido inicial. Defende ainda a aplicação da correção monetária nos moldes estabelecidos pela Lei nº 11.960/2009.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Wagner Natal Batista, opinou pelo não conhecimento do recurso extraordinário.
+    O recurso extraordinário não deve ser provido. Na hipótese, para dissentir da conclusão adotada pela Turma de origem no tocante à indenização, em face do reconhecimento do dano ambiental, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Ademais, o Plenário do Supremo Tribunal Federal (STF), ao apreciar o mérito do RE 870.947-RG, Rel. Min. Luiz Fux, sob a sistemática da repercussão geral (Tema 810), deu “parcial provimento ao recurso para, confirmando, em parte, o acórdão lavrado pela Quarta Turma do Tribunal Regional Federal da 5ª Região, (i) assentar a natureza assistencial da relação jurídica em exame (caráter não-tributário) e (ii) manter a concessão de benefício de prestação continuada (Lei nº 8.742/93, art. 20) ao ora recorrido (iii) atualizado monetariamente segundo o IPCA-E desde a data fixada na sentença” (grifos acrescentados).
+    Na oportunidade, o STF decidiu pela inconstitucionalidade do art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, na parte em que disciplinou a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança. Veja a redação da tese:
+    “[...]
+    2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.”
+    Ao rejeitar todos os embargos de declaração opostos, o STF decidiu não modular os efeitos da mencionada decisão.
+    Portanto, neste caso, o entendimento da Turma de origem no tocante à aplicação da correção monetária pela variação do IPCA-e, não contrariou a orientação emanada desta Corte.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 05 de março de 2020.
+Ministro Luís Roberto Barroso
+Relator
