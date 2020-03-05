@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário remetido ao Tribunal de Justiça do Estado do Pará para que se cumprisse o disposto no art. 1.036 do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 804, cujo paradigma é o ARE-RG 871.499, Rel. Min. Teori Zavascki, DJe 20.4.2015. (eDOC 6)
+    Encaminhados os autos, o Tribunal de origem negou seguimento ao RE, por sua Vice-Presidência, tendo em vista que, por ocasião do julgamento do referido tema de repercussão geral, o Supremo Tribunal Federal teria decidido pela inexistência de repercussão geral da controvérsia dos autos refente à natureza jurídica de aumento remuneratório: se de revisão geral ou não. (eDOC 9, p. 2)
+    Contra tal decisão, foi interposto outro agravo do art. 1.042 do Código de Processo Civil (eDOC 9, p. 7) e os autos vieram novamente a este Tribunal.
+    É o relatório.
+    Decido.
+    O recurso não merece conhecimento.
+    Registro que o Supremo Tribunal Federal, no julgamento do AI-QO 760.358, de minha relatoria, DJe 19.2.2010, firmou sua jurisprudência no sentido de não ser cabível recurso para esta Corte contra a aplicação do procedimento da repercussão geral nas instâncias de origem. Transcrevo a seguir a ementa desse julgado:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3o do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+    Com efeito, o artigo 1.042 do NCPC (art. 544 do CPC/1973) prevê o cabimento do agravo nos próprios autos somente contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, com a ressalva dos casos em que a inadmissão fundar-se na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+    Assim, não é cabível o agravo nos próprios autos contra decisão que aplica a sistemática da repercussão geral na origem.
+    Ante o exposto, não conheço do agravo. (art. 932, III, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 5 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
