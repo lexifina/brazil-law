@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ERRO GROSSEIRO – NÃO CONHECIMENTO – MATÉRIA LOCAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo, confirmando o entendimento do Juízo, julgou procedente o pedido de integração do período de exercício nas funções de direção e chefia da carreira de Agente de Segurança Penitenciária para cômputo do tempo de serviço e do pagamento de diferenças remuneratórias. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violação dos artigos 40, § 4º, inciso II, da Constituição Federal. Afirma contar-se para aposentadoria especial apenas o tempo de exercício na atividade fim. Sustenta a incidência da taxa referencial no período até 25 de março de 2015. Alude a precedentes do Supremo.
+    2. Descabe cogitar, a esta altura, da discussão alusiva ao índice de correção monetária. Pelo juízo primeiro de admissibilidade foi negado seguimento ao extraordinário no particular, aludindo à decisão do Supremo em repercussão geral no recurso extraordinário nº 870.947, relator o ministro Luiz Fux, revelando-se cabível o agravo interno para a impugnação.
+    No mais, colho do acórdão recorrido o seguinte trecho:
+    Cuida-se de ação ordinária ajuizada por Agente de Segurança Penitenciária Classe VII, que pretende o computo do tempo de serviço em que ocupou funções de direção na respectiva carreira para concessão do abono de permanência e/ou a expedição de certidão de tempo de contribuição visando à obtenção de aposentadoria especial, com o pagamento das diferenças salariais.
+    A Lei Complementar n° 1.109/2010 dispõe sobre requisitos e critérios diferenciados para a concessão de aposentadoria voluntária aos integrantes da carreira de Agente de Segurança Penitenciária e da classe de Agente de Escolta e Vigilância Penitenciária, em razão do exercício de atividade de risco, nos termos do inciso II, do § 4° do artigo 40 da Constituição Federal. Estabelece em seu artigo 2° que:
+    “Artigo 2° – Os Agentes de Segurança Penitenciária, a que se refere a Lei Complementar n. 498, de 29 de dezembro de 1986, serão aposentados voluntariamente, desde que atendidos, cumulativamente, os seguintes requisitos:
+    I – 55 (cinquenta e cinco) anos de idade, se homem, e 50 (cinquenta) anos de idade, se mulher;
+    II – 30 (trinta) anos de contribuição previdenciária;
+    III – 20 (vinte) anos de efetivo exercício no cargo.
+    Parágrafo único – Aos integrantes da carreira de Agente de Segurança penitenciária cujo provimento no cargo ocorreu em data anterior à de vigência da Emenda Constitucional n°. 41, de 19 de dezembro de 2003, não será exigido o requisito de idade, bastando a comprovação do tempo de contribuição previdenciária e do efetivo exercício no cargo, previstos nos incisos II e III deste artigo”.
+    Já a Lei n. 498, de 29 de dezembro de 1986, que instituiu a série de classes de Agente de Segurança Penitenciária no Quadro da Secretaria da Justiça, ao disciplinar o acesso dos servidores a cargos de classes superiores, considera como tempo de efetivo exercício aquele prestado junto às unidades dos estabelecimentos penitenciários, na qualidade de “ocupante de cargo de direção”, o “designado para função de serviço público de direção, retribuída mediante “pro labore” nos termos do artigo 28 da Lei 10.168, de 10 de julho de 1968, o responsável por cargo vago de direção” e o substituo em qualquer das hipóteses anteriores (art. 4°, § 4°).
+    Não há dúvida, portanto, de que a legislação prevê que o tempo em que o Agente de Segurança Penitenciária permanecer na função de Diretor seja contado como de efetivo exercício, inclusive para fins previdenciários. Também não há como negar que o exercício da função de Diretor, no interior da unidade prisional, corresponde a atividade de risco, motivo pelo qual gera direito a regime especial de aposentadoria, conforme autorizado pelo art. 40, § 4°, da Constituição Federal e regulamentado pela Lei Complementar n. 1.109/2010.
+    [...]
+    Logo, no caso em exame, incorporados os fundamentos supracitados, tem-se pelo não provimento dos recursos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assetar-se a viabilidade do recurso.
+    O acórdão impugnado revela interpretação de normas estritamente locais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo em parte e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
