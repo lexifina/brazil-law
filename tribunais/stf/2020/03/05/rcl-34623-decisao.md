@@ -1,0 +1,26 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+LIMINAR – REVOGAÇÃO.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Cemig Distribuição S. A. assevera haver a Oitava Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0000221-85.2012.5.03.0023, inobservado o verbete vinculante nº 10 da Súmula do Supremo, bem assim o decidido na arguição de descumprimento de preceito fundamental nº 324.
+    Segundo narra, o interessado, Márcio Xavier Pimenta, ajuizou ação contra si e Engelminas Construções Elétricas Ltda., esta na condição de empregadora e prestadora de serviços, objetivando, considerado o princípio da isonomia, o recebimento de verbas trabalhistas levando em conta o que pago aos próprios empregados. Salienta o êxito parcial dos pedidos formulados, no que reconhecida a ilicitude da terceirização verificada. Declaratórios foram providos apenas para a prestação de esclarecimentos. A sentença acabou, nessa parte, confirmada em sede de ordinário, tendo sido atribuída a si responsabilidade solidária pelos créditos, surgindo daí o arguido descompasso. Interposto recurso de revista, foi inadmitido. Realça o desprovimento do subsequente agravo de instrumento. Protocolado extraordinário, foi suspenso em virtude a sistemática da repercussão geral.
+    Diz ofendido o acórdão da arguição de descumprimento de preceito fundamental nº 324 no qual fixada tese no sentido da licitude da terceirização de toda e qualquer atividade, meio ou fim. Assevera a insubsistência do verbete nº 331 da Súmula do Tribunal Superior do Trabalho ante o assentado no paradigma.
+    Sustenta contrariado o verbete vinculante nº 10, afirmando afastado, com alegada base na Constituição Federal e por órgão fracionário, o artigo 25, § 1º, da Lei nº 8.987/1995, a permitir a terceirização de atividades inerentes, acessórias ou complementares ao serviço concedido. Eis o teor da norma:
+    Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.
+    [...]
+    Articula com a adequação da terceirização de tarefas inerentes ao serviço concedido, entre as quais se incluem, conforme destaca, eventual atividade integrada à própria dinâmica produtiva. Frisa afastado o preceito, mesmo de forma implícita, considerado o princípio da isonomia, a revelar transgressão à cláusula de reserva de plenário. Assinala a insuficiência do critério atinente à distinção entre atividades meio e fim, estando permitida a terceirização de mão de obra inclusive quanto à atividade alcançada pelo próprio objeto social.
+    Sob o ângulo do risco, alude à iminência da execução.
+    Requereu, em sede liminar, a suspensão doa to impugnado e do curso do processo originário. Busca, alfim, a cassação do acórdão atacado.
+    Vossa Excelência, em 8 de abril de 2019, deferiu liminar.
+    O Tribunal reclamado, nas informações, relata o histórico processual. Transcreve os fundamentos da decisão questionada.
+    O Ministério Público Federal opina pela inadmissão da reclamação. Aduz não ter o reclamante impugnado, oportunamente, a decisão de desprovimento do agravo de instrumento em recurso de revista. Ante o efeito substitutivo, frisa que somente poderia ser objeto de reclamação esse último ato, a revelar a impropriedade da medida. Acrescenta que, interposto extraordinário, o processo foi suspenso na origem considerada a sistemática da repercussão maior, a esvaziar o interesse de agir. Diz do manuseio da reclamação como sucedâneo recursal.
+    A conclusão do julgamento da arguição de descumprimento de preceito fundamental ocorreu na sessão do Pleno de 30 de agosto de 2018 e a publicação da ata de julgamento no dia imediato.
+    O pronunciamento reclamado resultou da análise, no dia 17 de dezembro de 2012, de recurso ordinário pelo Tribunal Regional do Trabalho da 3ª Região.
+    2. Levando em conta o veiculado no parecer do Ministério Público Federal, verifica-se que, na ocasião da formalização da reclamação, em 29 de abril de 2019, o pronunciamento impugnado, formalizado pelo Regional do Trabalho da 3ª Região e decorrente de julgamento concluído no dia 17 de dezembro de 2012, já havia sido substituído por acórdão do Tribunal Superior do Trabalho em agravo de instrumento em recurso de revista. Este foi desprovido em 17 de junho de 2015, oportunidade na qual abordada a controvérsia atinente à licitude da terceirização surgida.
+     O artigo 1.008 do Código de Processo Civil prevê que “o julgamento prolatado pelo Tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso”. Tendo em vista a decisão do Tribunal Superior do Trabalho, mostrou-se impróprio o direcionamento da irresignação contra o do Regional.
+    3. Nego seguimento à reclamação, revogando a liminar implementada.
+    4. Publiquem.
+Brasília, 5 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
