@@ -1,0 +1,27 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CÍVEL N. 0010197-06.2011.8.11.0015
+RECORRENTES: LUIZ ERARDI FERREIRA DOS SANTOS E OUTROS
+RECORRIDO: ROSI MARY DE SOUZA
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 34930959), com pedido de efeito suspensivo, interposto por LUIZ ERARDI FERREIRA DOS SANTOS E OUTROS, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado deste Sodalício, assim ementado (Id. 31196963):
+“RECURSOS DE APELAÇÃO CÍVEL – Ação de Indenização por Danos Morais - ACIDENTE DE TRÂNSITO – ILEGITIMIDADE PASSIVA DOS GENITORES DO MENOR QUE CONDUZIA O VEÍCULO – PRELIMINAR REJEITADA – DANOS MORAIS – OCORRÊNCIA – MAJORAÇÃO DA QUANTIA FIXADA PELO JUIZ SENTENCIANTE – NECESSIDADE – OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE – JUROS DE MORA – TERMO INICIAL A PARTIR DO EVENTO DANOSO – SÚMULA DE No 54 DO SUPERIOR TRIBUNAL DE JUSTIÇA – RECURSO DA AUTORA – PARCIALMENTE PROVIDO – RECURSOS DOS RÉUS – DESPROVIDOS. I – Embora a ação tenha disso distribuída em 27.10.2011, ou seja, decorridos mais de 19 (dezenove) anos após a ocorrência do acidente que vitimou fatalmente o filho da autora, e, por consequência lógica, quando o terceiro réu, condutor do veículo, já era maior de idade, tal fato, por si só, não enseja a ilegitimidade passiva arguida.II - Independentemente do tempo em que a ação foi protocolada, fato é que o decurso do tempo entre o ajuizamento da ação e a ocorrência dos fatos, por si só, não significa que a dor e o sofrimento de uma mãe, que vê seu filho ser atropelado e morto pela imperícia ou imprudência de terceiros, venha a se esvair no tempo.III - Em outras palavras, a dor e o sofrimento de uma mãe na perda de um filho - ainda mais quando se trata de uma criança com apenas 9 (nove) anos de idade -, é uma situação que, como costumamos dizer, inverte a ordem natural das coisas, e não se apaga simplesmente pelo decurso dos anos.IV - Como cediço, o valor da indenização por danos extrapatrimoniais não deve implicar em enriquecimento ilícito da vítima, tampouco pode ser irrisório, a ponto de afastar o caráter pedagógico que é inerente à medida.V - Desse modo, considerando as peculiaridades do caso, mormente a gravidade dos acontecimentos que resultou na perda de uma vida e a inexistência qualquer elemento de prova acerca da incapacidade econômica dos réus, bem como em consonância com os valores que esta Câmara vem fixando em casos semelhantes, entendo que o valor arbitrado (R$ 59.880,00) não se mostra proporcional e adequado ao caso, devendo ser majorado para o valor de R$ 100.000,00 (cem mil reais).” (Ap. 0010197-06.2011.8.11.0015, DES. SERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 05/02/2020)
+Alegam: (i) divergência de interpretação jurisprudencial acerca da influência na demora na busca da reparação por dano moral sobre o quantum indenizatório e (ii) violação aos arts. 156 e 1.521, ambos do CC/1916, ao argumento de ilegitimidade passiva dos genitores Recorrentes, visto que, à época do Codex revogado, o menor, entre 16 e 21 anos, era equiparado ao maior para efeitos de reparar danos por ilícito.
+Requerem a atribuição de efeito suspensivo ao recurso, nos termos do art. 1.029, §5°, do CPC, “a fim de que não seja levado a efeito a execução de sentença e ter penhorado bens ou ainda, ter a não negativação nos cadastros de proteção” (Id. 34930959, p. 18).
+É a síntese.
+Decido.
+Defiro, à luz dos documentos juntados com a petição de Id. 35998965, a gratuidade da justiça aos Recorrentes, para fins de interposição do presente recurso.
+Superada tal questão, nos termos do art. 995, parágrafo único, c/c art. 1.029, § 5o, do CPC, “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) dano grave de difícil ou impossível reparação.
+In casu, em uma análise sumária do feito, verifica-se que os Recorrentes, além de não realizarem o exame comparativo da divergência jurisprudencial, haja vista terem se limitado a simples reprodução de ementas, não indicaram, de forma específica e individualizada, quais dispositivos da legislação federal foram objeto de interpretação diversa.
+Outrossim, no tocante aventada ilegitimidade, verifica-se que não infirmaram especificamente os fundamentos adotados no aresto para a rejeição da tese apresentada, onde restou assentada a comprovação da culpa in vigilando genitores, fatores que atestam contra a probabilidade de provimento do recurso.
+Ademais, verifica-se que o pedido de efeito suspensivo foi formulado de forma genérica e superficial, não discorrendo a parte quanto ao risco de dano grave de difícil ou impossível reparação a autorizar, no caso concreto, a concessão da excepcional suspensividade.
+Logo, por entender que não se encontram presentes os requisitos legais previstos no art. 995, parágrafo único do CPC, indefiro o pedido de atribuição de efeito suspensivo ao recurso.
+Intimem-se a parte Recorrida para, querendo, apresentar contrarrazões, no prazo legal.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 5 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
