@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo (eDOC 3, p. 241-244) interposto contra decisão de inadmissibilidade de recurso extraordinário (eDOC 3, p. 238-240), em face de acórdão proferido pela 5ª Turma do Tribunal Regional Federal da 3ª Região (eDOC 3, p. 201-214).
+    Preliminarmente, diante dos termos da petição do recurso extraordinário (eDOC 3, p. 215-228), verifico a inafastável incidência da Súmula 284/STF. Para tanto, destaco da decisão ora impugnada, que se encontra em conformidade com a jurisprudência desta Suprema Corte (eDOC 3, p. 238-240):
+    “O recurso extraordinário, como é sabido, tem fundamentação vinculada, de modo que não basta que a parte indique o seu direito sem veicular ofensa a algum dispositivo constitucional específico. No caso, o recorrente limitou-se a defender sua tese como se fosse mero recurso ordinário. Não apontou, de forma precisa, quais dispositivos da Constituição teriam sido violados e, consequentemente, não atendeu aos requisitos de admissibilidade do recurso extremo.
+    Em casos como este o Supremo Tribunal Federal não tem admitido o reclamo extraordinário, conforme revelam os precedentes a seguir transcritos:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE INDICAÇÃO EXPRESSA DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS PELO ACÓRDÃO IMPUGNADO. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. PRECEDENTES. EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES.
+    1. A agravante não indicou, nas razões do extraordinário, quais dispositivos constitucionais teriam sido violados pelo acórdão recorrido, limitando-se a manifestar sua irresignação contra o julgado, o que torna inviável o apelo extremo.
+    2. Nos termos do consolidado magistério jurisprudencial da Corte, ‘o recurso extraordinário é inviável se a questão constitucional não é posta com clareza, com a indicação expressa das normas constitucionais que se dizem ofendidas’ (AI n° 527.232/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 23/8/05).
+    3. O tribunal a que, ao decidir a questão, se ateve ao exame da legislação infraconstitucional. Por consequência, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    4. Agravo regimental ao qual se nega provimento. (STF, ARE 692714 AgR, Rel. Min. DIAS TOFFOLI Primeira Turma, j. 04/06/2013)
+    DIREITO TRIBUTÁRIO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS SUPOSTAMENTE VIOLADOS. RAZÕES RECURSAIS DISSOCIADAS DAS RAZÕES DE DECIDIR. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 27.3.2008.
+    Ausente a indicação dos dispositivos constitucionais tidos por violados pelo acórdão, incide, na espécie, o entendimento jurisprudencial vertido na Súmula 284/STF . Agravo regimental conhecido e não provido.’ (STF, AI 792033 AgR, Rel. Min. ROSA WEBER, Primeira Turma, j. 04/06/2013)
+    Imperioso anotar que na via estreita do recurso extraordinário, para que haja interesse em recorrer não basta a mera sucumbência como ocorre nos demais recursos ordinários. É necessário que haja efetivamente uma questão constitucional, pois, o extraordinário não se presta a examinar a justiça da decisão, mas a solucionar controvérsia acerca da interpretação das normas constitucionais.
+    Por fim, quanto à pretensa violação da súmula n. 24/STF, o recurso não comporta trânsito à instância superior, pois a hipótese não se amolda às previsões normativas que ensejam a interposição de recurso extraordinário descritas no art. 102, III, da Constituição Federal.
+    Ante o exposto, não admito o recurso extraordinário.” (eDOC 3, p. 238-240; grifos originais)
+    Nesse sentido, além do precedente referido no decisum impugnado, menciono: ARE 1.249.205 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 4.3.2020; ARE 1.162.348 AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 16.8.2019; ARE 1.131.117 AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 6.9.2018; ARE 1.092.099 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 4.5.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RI/STF).
+    Publique-se.
+    Brasília, 6 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
