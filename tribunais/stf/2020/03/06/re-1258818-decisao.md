@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. INDEFERIMENTO. CONTROVÉRSIA ACERCA DO DEFERIMENTO OU INDEFERIMENTO DE MEDIDAS CAUTELARES, PROVIMENTOS LIMINARES OU ANTECIPAÇÃO DE TUTELA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    "AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. ANTECIPAÇÃO DA TUTELA. REVISÃO DE BENEFÍCIO. EMENDAS 20/1998 E 41/2003.
+    Embora presente a verossimilhança do direito alegado, uma vez que o Supremo Tribunal Federal, no julgamento (com repercussão geral) do Recurso Extraordinário n. 564.354/SE, entendeu que, elevado o teto do salário de contribuição sem que tenha havido reajuste das prestações previdenciárias (como no caso das Emendas Constitucionais 20/1998 e 41/2003), ou reajustado em percentual superior ao concedido àquelas, o benefício recupera o que normalmente receberia se o teto à época fosse outro - isto é, sempre que alterado o valor do limitador previdenciário, haverá a possibilidade de o segurado adequar o valor de seu benefício ao novo teto constitucional, recuperando o valor perdido em virtude do limitador anterior, pois coerente com as contribuições efetivamente pagas -, esta Corte já pacificou o entendimento de que, como regra, inexiste, nas ações revisionais de benefício previdenciário, risco de dano à parte agravante que justifique a antecipação de tutela, porquanto a parte já está em gozo de benefício previdenciário e pode, em tese, aguardar o desfecho da lide para receber as diferenças que lhe forem concedidas em sentença.
+    Não se encontra presente, no caso dos autos, hipótese de incidência da regra prevista no parágrafo 6º do art. 273 do CPC ('§ 6º A tutela antecipada também poderá ser concedida quando um ou mais dos pedidos cumulados, ou parcela deles, mostrar-se incontroverso.')." (Doc. 2, p. 46)
+    Os embargos de declaração opostos foram desprovidos (Doc. 2, p. 66).
+    Nas razões do apelo extremo, a recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação “do direito à Justiça Célere e urgente, quando se tratando de matéria sobre a qual já houve pronunciamento em Repercussão Geral do Excelso Pretório” (Doc. 2, p. 82).
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso (Doc. 2, p. 109).
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Esta Suprema Corte firmou jurisprudência no sentido de que não cabe recurso extraordinário contra decisão que defere ou indefere provimento liminar ou antecipação dos efeitos da tutela, por vedação expressa da Súmula 735 deste Tribunal, de seguinte teor: “Não cabe recurso extraordinário contra acórdão que defere medida liminar“. Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DA SÚMULA 735 DO STF.
+    1. A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Súmula 735 do STF.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o art. 85, § 11, do CPC, visto que não houve fixação prévia de honorários advocatícios no presente feito.” (ARE 988.731-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 7/12/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULA 735 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+    I – Em regra é incabível a interposição de recurso extraordinário para combater decisão que concede ou denega pedido de medida cautelar ou de antecipação de tutela, porque esses provimentos judiciais não são definitivos e, assim, não se ajustam a um dos requisitos do art. 102, III, da Constituição.
+    II – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 987.342-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 23/2/2017)
+    In casu, cuida-se de recurso extraordinário interposto contra acórdão proferido em agravo de instrumento apresentado contra decisão que indeferiu o pedido de antecipação dos efeitos da tutela.
+    Nesse contexto, revela-se inarredável a incidência do óbice erigido pela Súmula 735 do STF.
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 6 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
