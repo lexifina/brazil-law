@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de incidente de restituição de coisas apreendidas por meio do qual Gustavo e Silva Nogueira Lima e Livia Aguiar Santos Nogueira Lima postulam reaver a propriedade de bens arrecadados por ocasião do cumprimento de mandados de busca e apreensão expedidos no bojo da Ação Cautelar nº 4422.
+    Aduzem, em síntese, que os bens reivindicados não têm qualquer relação com o objeto da investigação que motivou a expedição dos mandados e que sua retenção estaria inviabilizando a regular operação das atividades dos postulantes.
+    Por seu turno, Ciro Nogueira Agropecuária e Imóveis Ltda. postula o espelhamento dos HD’s identificados nos itens 1, 2, 3, 15, 16 e 17 do auto de apreensão que formalizou, naqueles autos, o cumprimento do Mandado de Busca e Apreensão nº 5.
+    Determinei o desentranhamento das peças do Inquérito nº 4736 e a reautuação do feito, na classe PET, em observância ao rito previsto no artigo 118 e seguintes do CPP.
+    Reautuados, os autos foram encaminhados para parecer do Ministério Público Federal, que em manifestação da lavra da Subprocuradora-Geral da República Lindôra Maria Araújo opinou “favoravelmente ao pedido de restituição dos HD’s constantes dos itens 01, 02, 03, 15, 16, 17 do Mandado de Busca e Apreensão n 05”.
+    É o relatório.
+    Decido.
+    O Código de Processo Penal adota o critério do interesse para balizar as hipóteses em que se admite a restituição de bens apreendidos em investigações e ações penais, dispondo que “antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo” (artigo 118).
+    Paralelamente ao critério do interesse, o regime legal que disciplina os efeitos genéricos da condenação impõe uma segunda condicionante a ser observada em feitos desta natureza, vinculada à licitude e à origem dos bens que se pretende reaver. Assim, a restituição é inviabilizada quando se trate de instrumentos do crime cujo “fabrico alienação, uso, porte ou detenção constitua fato ilícito” e do produto ou proveito do delito, ressalvados os direitos do lesado ou de terceiro de boa-fé (artigo 91, inciso II, alíneas a e b, CP).
+    Em suma, a restituição de coisas apreendidas exige cumulativamente (i) a prova de propriedade dos bens; (ii) o desinteresse dos bens para o processo ou inquérito e (iii) o afastamento da potencial incidência dos efeitos genéricos da condenação.
+    Particularmente quanto aos delitos de lavagem de capitais, há ainda regra específica na Lei 9.613/1998:
+    Art. 4º O juiz, de ofício, a requerimento do Ministério Público ou mediante representação do delegado de polícia, ouvido o Ministério Público em 24 (vinte e quatro) horas, havendo indícios suficientes de infração penal, poderá decretar medidas assecuratórias de bens, direitos ou valores do investigado ou acusado, ou existentes em nome de interpostas pessoas, que sejam instrumento, produto ou proveito dos crimes previstos nesta Lei ou das infrações penais antecedentes.
+    [...]
+    § 2º O juiz determinará a liberação total ou parcial dos bens, direitos e valores quando comprovada a licitude de sua origem, mantendo-se a constrição dos bens, direitos e valores necessários e suficientes à reparação dos danos e ao pagamento de prestações pecuniárias, multas e custas decorrentes da infração penal. (original sem destaques)
+    No caso, consta do Termo de Restituição acostado às f. 449-450 da Ação Cautelar nº 4422 que Livia Aguiar Santos Nogueira Lima já obteve restituição dos bens de sua propriedade, em sede policial. Igualmente, o pedido de espelhamento de HD’s formalizado por Ciro Nogueira Agropecuária e Imóveis Ltda. foi devidamente atendido em sede inquisitorial, conforme se extrai do item 2 do despacho da autoridade policial acostado às f. 330 da Ação Cautelar nº 4422 (Despacho nº 226/2019).
+    Por seu turno, os bens que Gustavo e Silva Nogueira Lima pretende ver restituídos não foram precisamente identificados nos autos, mas descritos de modo meramente exemplificativo, sem a indicação particularizada de suas características.
+    Os pedidos de restituição devem identificar com exatidão os bens sobre os quais o postulante pretende venha a incidir a prestação jurisdicional, sob pena de inviabilizar a análise das condicionantes acima expostas e, por conseguinte, o próprio mérito do pedido de restituição.
+    Ante o exposto, julgo prejudicados os pedidos formulados por Livia Aguiar Santos Nogueira Lima, Ciro Nogueira Agropecuária e Imóveis Ltda. e Gustavo e Silva Nogueira Lima.
+    Publique-se. Intimem-se. Nada sendo requerido, arquivem-se os autos.
+    Brasília, 6 de março de 2020.
+Ministra Rosa Weber
+Relatora
