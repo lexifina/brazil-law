@@ -1,0 +1,34 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1009144-71.2018.8.11.0000
+Recorrente: SISTEMA FÁCIL, INCORPORADORA IMOBILIÁRIA – CUIABÁ II – SPE LTDA
+Recorrido: MUNICÍPIO DE CUIABÁ
+Vistos.
+Trata-se de Recurso Especial interposto por SISTEMA FÁCIL, INCORPORADORA IMOBILIÁRIA – CUIABÁ II – SPE LTDA (id 30664487) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO assim ementado (id 26157481):
+“TRIBUTÁRIO — PROCESSO CIVIL — AGRAVO DE INSTRUMENTO — EXECUÇÃO FISCAL — SUSPENSÃO DE EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO — OFERECIMENTO DE SEGURO GARANTIA — IMPOSSIBILIDADE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE — ALEGAÇÃO DE ILEGITIMIDADE PASSIVA — INADMISSIBILIDADE — NECESSIDADE DE DILAÇÃO PROBATÓRIA — CONSTATAÇÃO — VERBETE DA SÚMULA 393 DO SUPERIOR TRIBUNAL DE JUSTIÇA — OBSERVÂNCIA — RECURSO NÃO PROVIDO. O oferecimento de seguro garantia, não se presta à suspensão da exigibilidade do crédito tributário, pelo que não é equiparável ao depósito do montante integral e em dinheiro, na forma do artigo 151, II, da Lei no 5.172, de 25 de outubro de 1966. Inadmissível exceção de pré-executividade em execução fiscal com fundamento em ilegitimidade passiva, quando a análise da questão demandar dilação probatória, nos termos do verbete da súmula no 393 do Superior Tribunal de Justiça.” (TJMT, RAI 1009144-71.2018.8.11.0000, Dr MARCIO APARECIDO GUEDES, SEGUNDA CÂMARA DE DIREITO PÚBLICO, Julgado em 22/11/2019)
+Não foram apresentados Embargos de Declaração.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo, alegando que: 1) há divergência jurisprudencial entre o acórdão recorrido e a jurisprudência do STJ; 2) “no caso em tela, é simples observar pelos documentos ora juntados (PROVAS PRÉ-CONSTITUÍDAS) que o imóvel que originou a presente execução fiscal foi desmembrado em unidades autônomas, os quais foram tributados individualmente no mesmo exercício que está sendo cobrado da gleba-mãe, em nítido bis in idem.”; 3) “não se pode admitir é o bis in idem cometido pelo Recorrido pois pretende cobrar o IPTU de 2013 sobre a extinta gleba que deu origem ao empreendimento, sendo que em concomitância cobrou o IPTU do mesmo exercício individualmente sobre as unidades autônomas, devendo ser cancelado o valor integral do IPTU cobrado sobre a gleba referente aos exercícios de 2013, objeto da presente execução fiscal.”; 4) o artigo 34 do CTN é claro ao dispor que o IPTU recai sobre o proprietário do imóvel.
+Em especial sobre o efeito suspensivo, assevera que existem vícios e nulidades que maculam a execução fiscal, devendo ser permitida a discussão pela via da exceção de pré-executividade.
+Sustenta que deve ser observado o artigo 805 do CPC que garante a execução menos gravosa ao devedor.
+Por fim, pugna pelo reconhecimento da ilegitimidade passiva da parte Recorrente para figurar como devedor do IPTU cobrado pelo ente público, apontando que o débito está garantido por fiança, cumprindo o determinado no artigo 9o da LEF.
+Recurso tempestivo e concedida a justiça gratuita, conforme certidões id 35122466 e 3258542.
+O pedido de efeito suspensivo foi indeferido, ID n. 35345953.
+O Recorrido apresentou contrarrazões, ID n. 35794493.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE VENCIMENTOS. CONVERSÃO DA MOEDA. UNIDADE REAL DE VALOR - URV. LEI 8.880/1994. NÃO INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. COMPROVAÇÃO DE PREJUÍZO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. DATA DO EFETIVO PAGAMENTO. LIQUIDAÇÃO DE SENTENÇA. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. 1. Infere-se das razões do Recurso Especial que as recorrentes deixaram de estabelecer, com a precisão necessária, os dispositivos de lei federal que consideram violados para sustentar sua irresignação pela alínea "a" do permissivo constitucional. Dessa forma, ante a deficiência na fundamentação, o conhecimento do Recurso Especial encontra óbice, por analogia, na Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia." 2. Discute-se a existência do direito de servidor público estadual às diferenças remuneratórias decorrentes da conversão de Cruzeiros Reais para Unidade Real de Valor - URV pela incidência da Lei 8.880/1994. 3. O STJ tem o posicionamento consolidado de que eventual prejuízo remuneratório resultante da conversão equivocada da moeda deve ser apurado em liquidação de sentença. 4. A análise das alegações trazidas no apelo recursal, a fim de aferir se existiu a recomposição remuneratória do recorrido, pressupõe o reexame do conjunto fático-probatório do feito, o que é obstado na via do Recurso Especial pela Súmula 7/STJ. 5. Quanto à prescrição, o STJ firmou o entendimento de que, nas ações em que se busca o pagamento das diferenças salariais oriundos da edição da Lei 8.880/1994, a relação é de trato sucessivo, incidindo a prescrição tão somente sobre as parcelas vencidas no quinquênio anterior ao ajuizamento da ação, não alcançando o fundo de direito, ex vi do enunciado sumular 85/STJ. 6. Recurso Especial não conhecido. (REsp 1796411/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 22/04/2019)
+Assim, embora a Recorrente tenha alegado a necessidade de reformar a decisão recorrida, não demonstrou de forma individualizada e específica quais dispositivos de lei foram supostamente violados, e em que medida o acórdão recorrido os teria vulnerado, inviabilizando a exata compreensão da controvérsia, o que faz incidir o óbice sumular supracitado.
+Portanto, há que ser obstada a admissão recursal com base em qualquer das alíneas do inciso III do art. 105 da Constituição Federal.
+Posto isso, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 06 de março de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+IV
