@@ -1,0 +1,52 @@
+DECISÃO
+    Trata-se de Reclamação, com pedido liminar, contra ato da 2ª Turma Cível, Criminal e Fazenda, do Colégio Recursal de Americana, do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao Agravo Interno e deixou de determinar a remessa dos autos para a análise do Recurso Extraordinário, por parte do SUPREMO TRIBUNAL FEDERAL.
+    Segundo consta, a reclamante foi condenada no Juízo de Origem, à pena de 03 (três) meses de prisão simples e 10 (dez) dias-multa, no mínimo legal, regime aberto, como incursa no art. 50, do Decreto-lei n. 3.688/41. Substituída a pena privativa de liberdade por prestação pecuniária no valor de R$ 1.800,00, corrigido pelo índice do TJSP desde a data da sentença, destinado a entidade pública ou privada com destinação social a ser definida em sede de execução, nos termos do art. 45, §1º, do Código Penal.
+    Inconformada, a reclamante interpôs recurso de apelação, ao qual a 1ª Turma Cível, Criminal e Fazenda, do Colégio Recursal de Americana, do Tribunal de Justiça do Estado de São Paulo, por unanimidade, negou provimento ao recurso, mantendo a sentença pelos "seus próprios fundamentos, em razão do princípio "tempus regit actum", tendo em vista que a atipicidade ainda não foi conhecida e o relator do processo, Ministro Luiz Fux, não determinou a suspensão dos feitos em andamento, servindo a Súmula de julgamento de acórdão.".
+    A defesa opôs embargos de declaração, os quais não foram conhecidos pele Colégio Recursal local:
+    Vistos, etc.
+    Embora tempestivos, não conheço dos embargos de declaração opostos pelo embargante em face do Enunciado 05 (Penal e Processo Penal), elaborado pelo II FOJESP e adotado pelas turmas recursais desta 53ª Circunscrição Judiciária o qual transcrevo:
+    “Não são cabíveis embargos de declaração contra acórdão que confirma a sentença pelos próprios fundamentos, nos termos do art. 82, §5° da Lei 9.099/95.”.
+    Ademais, os embargos declaratórios ora opostos ostentam nítido caráter infringente, não passando de meio para obtenção de reforma no tangível ao mérito esposado pelo Colégio Recursal.
+    Int.
+    Na sequência, a defesa interpôs Recurso Extraordinário.
+    O Juiz Presidente do Colégio Recursal da 53ª Circunscrição do Foro da Comarca de Americana, do Tribunal de Justiça do Estado de São Paulo, julgou prejudicado o recurso, indeferindo o seu seguimento, porque "competia ao recorrente demonstrar a ofensa à norma constitucional, comprovar a repercussão geral, reconhecida pelo Supremo Tribunal Federal, ou ainda, demonstrar em sede de recurso que há repercussão geral sobre a matéria discutida nos autos". O reclamado aduziu, ainda, ausência de prequestionamento das questões constitucionais, consoante as Súmulas 282 e 356, ambas do SUPREMO TRIBUNAL FEDERAL e que não restou evidenciada qualquer repercussão geral acerca da matéria ventilada no recurso interposto.
+    Não satisfeita, a defesa interpôs Agravo Interno, a fim de ensejar o acesso ao SUPREMO TRIBUNAL FEDERAL.
+    Entretanto, por decisão monocrática, o Juiz Presidente do Colégio Recursal da 53ª Circunscrição do Foro da Comarca de Americana, do Tribunal de Justiça do Estado de São Paulo, manteve a decisão agravada, pois proferida em conformidade ao disposto no art. 1.030, I, "a", do Código de Processo Civil.
+    Após, a 2ª Turma Cível, Criminal e Fazenda do Colégio Recursal de Americana, do Tribunal de Justiça do Estado de São Paulo, por unanimidade, conheceu do Agravo Interno e negou provimento ao recurso:
+    Agravo interno contra decisão monocrática denegatória de seguimento de recurso extraordinário. Recurso improvido, porque a despeito do reconhecimento de repercussão geral no bojo do recurso extraordinário já em trâmite junto ao STF, não foi determinada a suspensão dos processos penais.
+    Diante desse quadro, foi proposta a presente Reclamação pela defesa técnica. Na inicial, a reclamante alega que "o caso em tela versa sobre a questão da recepção (ou não) do artigo 50 do Dec. Lei 3.688/41 (jogo de azar) pela vigente Constituição Federal, estando em julgamento o Recurso Extraordinário 966.177-RS, no E. Supremo Tribunal Federal com repercussão geral sobre a matéria, sendo, portanto cabível, no caso, recurso extraordinário.". Ressalta que "a questão possui relevância política, econômica, social, jurídica e tem potencialidade a atingir um significativo número de pessoas, estando preenchido o requisito da repercussão geral, nos termos do artigo 102, §3º da CF/88, e art. 1.035, do CPC, §§1º e 2º do Código de Processo Civil.". Ressalta, ainda, que "a Súmula 440 do STF diz: É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de alçada, ou por turma recursal de juizado especial cível e criminal.".
+    Isso posto, requer, "seja provida a presente reclamação para cassar, reformar (artigo 992 do CPC) e sustar de imediato (artigo 993 do CPC) os efeitos do acórdão, alinhando-se aos preceitos estabelecidos" e "a suspensão do processo, de modo a evitar dano irreparável ocasionado pelo trânsito em julgado do acórdão (artigo 989, inciso II, do CPC).".
+    É o relatório. Decido.
+    A respeito do cabimento da Reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Na presente hipótese, a parte autora impugna acórdão oriundo do Colégio Recursal da 53ª Circunscrição do Foro da Comarca de Americana, do Tribunal de Justiça do Estado de São Paulo, sob a alegação de que teria sido indevida a negativa de seguimento do seu recurso extraordinário, dada a aplicação equivocada do Tema 924 ao caso em exame. Eis o teor do ato reclamado:
+    Vistos.
+    - 1 –
+    Cuida-se de AGRAVO INTERNO interposto por MARIA HELENA NUNES OLIM objetivando seja confiado seguimento ao recurso extraordinário que interpôs contra o acórdão que manteve sentença condenatória proferida contra o ora agravante.
+    - 2 –
+    O recurso extraordinário deveras não merece trânsito.
+    Não, de proêmio, porque de nulidade alguma padece o acórdão proferido, porque em absoluta conformidade com a ordem constitucional a regra constante do artigo 82, §5º da Lei nº 9.099/95, que autoriza a manutenção de sentença pelos próprios fundamentos, olvidando-se por completo o agravante, nessa senda, das especificidades do procedimento e dos princípios dos Juizados Especiais.
+    E não, num segundo plano, porque a despeito do reconhecimento, pelo STF, da repercussão geral no bojo do RE 966.177, na mesma ocasião foi rejeitada a suspensão dos processos penais respeitantes à mesma questão (tipicidade da conduta prevista no artigo 50 da Lei das Contravenções Penais), impedimento algum havendo, portanto, ao normal processamento da ação penal ora em comento.
+    - 3 –
+    Por todo o exposto VOTO POR NEGAR PROVIMENTO ao agravo interno interposto, mantendo incólume, destarte, a negativa de seguimento do recurso extraordinário.
+    O parâmetro invocado é o julgamento do RE 966.177 RG/RS, Rel. Min. LUIZ FUX, Tema 924, cuja ementa é a seguinte:
+    RECURSO EXTRAORDINÁRIO. CONTRAVENÇÃO PENAL. ARTIGO 50 DO DECRETO-LEI 3.688/1941. JOGO DE AZAR. RECEPÇÃO PELA CONSTITUIÇÃO FEDERAL. TIPICIDADE DA CONDUTA AFASTADA PELO TRIBUNAL A QUO FUNDADO NOS PRECEITOS CONSTITUCIONAIS DA LIVRE INICIATIVA E DAS LIBERDADES FUNDAMENTAIS. ARTIGOS 1º, IV, 5º, XLI, E 170 DA CONSTITUIÇÃO FEDERAL. QUESTÃO RELEVANTE DO PONTO DE VISTA ECONÔMICO, POLÍTICO, SOCIAL E JURÍDICO. TRANSCENDÊNCIA DE INTERESSES. RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL.
+    De fato, o Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do RE 966.177 RG/RS (Rel. Min. LUIZ FUX, Tema 924 - Tipicidade das condutas de estabelecer e explorar jogos de azar em face da Constituição da República de 1988. Recepção do "caput" do art. 50 do Decreto-Lei n. 3.688/1941 - Lei das Contravenções Penais) reconheceu a existência de repercussão geral da questão constitucional veiculada neste recurso, mérito ainda não julgado.
+    A reclamante, nos termos do art. 1.035, §2º, do Código de Processo Civil, demonstrou a existência de repercussão geral para a apreciação exclusiva pelo SUPREMO TRIBUNAL FEDERAL.
+    Nessas circunstâncias, em que se tem violado o contexto específico do RE 966.177 RG/RS (Rel. Min. LUIZ FUX), assiste razão à parte reclamante, pois a presente Reclamação é instrumento adequado para que este SUPREMO TRIBUNAL garanta a autoridade das suas decisões.
+    Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, julgo PROCEDENTE a RECLAMAÇÃO para cassar o ato reclamado e DETERMINAR, por consequência, o SOBRESTAMENTO do processo n. 0002912-40.2015.8.26.0229, em trâmite no Juizado Especial Criminal da Comarca de Hortolândia, do Tribunal de Justiça do Estado de São Paulo, até o pronunciamento final desta CORTE no RE 966.177 RG/RS (Rel. Min. LUIZ FUX).
+    Publique-se. Intime-se.
+    Brasília, 6 de março de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
