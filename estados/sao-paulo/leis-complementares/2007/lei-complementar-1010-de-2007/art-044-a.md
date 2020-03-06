@@ -1,0 +1,2 @@
+Artigo 44-A - Enquanto não for editada a lei específica que regulará o Sistema de Proteção Social dos Militares a que se refere o artigo 24-E do Decreto-lei nº 667, de 2 de julho de 1969, com as alterações inseridas pela Lei federal nº 13.954, de 16 de dezembro de 2019, será mantida na SPPREV a gestão da pensão e da inatividade militar. (NR)
+- Artigo 44-A acrescentado pela Lei nº 17.293, de 15/10/2020.
