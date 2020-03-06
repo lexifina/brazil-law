@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+    “RECURSO DE REVISTA DA FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO. DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. Face à modulação dos efeitos da decisão proferida pelo e. Supremo Tribunal Federal em matéria de repercussão geral tem-se por ressalvada a competência da Justiça do Trabalho para prosseguir no julgamento e execução dos processos relativos a diferenças de complementação de aposentadoria em que conste sentença com data anterior à 20/02/2013, tal como no caso dos autos. Recurso de revista não conhecido.” (eDOC 39, p. 1/2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37, XIII e; 114 do texto constitucional.
+    Nas razões recursais, alega-se que ao estabelecer o direito de pleitear diferenças de complementação de aposentadoria é consequência direta da relação trabalhista anteriormente existente, a corte trabalhista acabou por ampliar, de maneira equivocada sua competência. (eDOC 42, p. 5/15)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    O recurso merece prosperar.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido que compete à Justiça comum processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA. Nessa linha, vejam-se:
+    “DIREITO PROCESSUAL CIVIL E DO TRABALHO. SEGUNDO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. FEPASA. COMPETÊNCIA. JUSTIÇA COMUM. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido que compete à Justiça comum processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento.” (RE 1.033.957 AgR-segundo, Rel. Min. Roberto Barroso, Primeira Turma, DJe 22.5.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÕES DE COMPLEMENTAÇÃO DE APOSENTADORIA AJUIZADAS POR ANTIGOS FERROVIÁRIOS DA EXTINTA FEPASA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. JURISPRUDÊNCIA DA CORTE. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - A jurisprudência do Supremo Tribunal Federal é firme no sentido que compete à Justiça comum processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA. Precedentes. III - Agravo regimental a que se nega provimento, com aplicação da multa (art. 1.021, § 4°, do CPC).” (RE 1.112.202 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 1.2.2019)
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso para reconhecer a competência da Justiça Comum para processar e julgar a presente ação.
+    Publique-se.
+    Brasília, 6 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
