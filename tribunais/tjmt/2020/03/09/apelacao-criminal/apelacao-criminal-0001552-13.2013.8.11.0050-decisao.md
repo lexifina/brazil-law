@@ -1,0 +1,29 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CRIMINAL N. 0001552-13.2013.8.11.0050
+RECORRENTE: CARLOS AUGUSTO BARBOSA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de Recurso Especial (Id. 35433483) interposto por CARLOS AUGUSTO BARBOSA, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Segunda Câmara Criminal deste Sodalício, assim ementado (Id. 32881049):
+“APELAÇÃO CRIMINAL – SENTENÇA CONDENATÓRIA – PRÁTICA DO CRIME PREVISTO NO ARTIGO 306, DO CÓDIGO DE TRÂNSITO BRASILEIRO – DECISÃO QUE REVOGOU A SUSPENSÃO CONDICIONAL DO PROCESSO APÓS O PERÍODO DE PROVA – IRRESIGNAÇÃO DEFENSIVA – PRELIMINAR – EXTINÇÃO DA PUNIBILIDADE ANTE O CUMPRIMENTO DO PERÍODO DE PROVA DO SURSIS ANTES DA DECISÃO QUE O REVOGOU E AUSÊNCIA DE INTIMAÇÃO DA DEFESA PARA JUSTIFICAR O DESCUMPRIMENTO – DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS DURANTE O PERÍODO DE PROVA – FATO OCORRIDO DURANTE SUA VIGÊNCIA - REVOGAÇÃO DO BENEFÍCIO MESMO QUE ULTRAPASSADO O PRAZO LEGAL – PRECEDENTES DO STJ (RESP. 1498034/RS) – APELANTE NÃO LOCALIZADO – PROVIDÊNCIA DA DEFESA – PRELIMINAR REJEITADA – MÉRITO – ABSOLVIÇÃO DO DELITO DE EMBRIAGUEZ NA DIREÇÃO DE VEÍCULO AUTOMOTOR – IMPOSSIBILIDADE – MATERIALIDADE E AUTORIA COMPROVADAS – PROVA TESTEMUNHAL QUE INDENTIFICA SINAIS RELACIONADOS AO ODOR ETÍLICO E DIFICULDADE DE EQUILÍBRIO – PROVAS SUFICIENTES DA CAPACIDADE PSICOMOTORA ALTERADA – AUSÊNCIA DO EXAME DE ALCOOLEMIA OU DE LAUDO CLÍNICO NÃO AFASTA A CARACTERIZAÇÃO DA EMBRIAGUEZ – ELEMENTOS PROBATÓRIOS SEGUROS E COERENTES DEMONSTRANDO QUE O APELANTE CONDUZIU VEÍCULO AUTOMOTOR SOB INFLUÊNCIA DE ÁLCOOL – CONDENAÇÃO MANTIDA – REDUÇÃO DA REPRIMENDA ABAIXO DO MÍNIMO LEGAL ANTE O RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA E DA MENORIDADE RELATIVA – IMPOSSIBILIDADE – SÚMULA 231 DO STJ – ENUNCIADO CONFIRMADO EM SEDE DE REPERCUSSÃO GERAL (RE 597270-4/RS) – RECURSO DESPROVIDO. “2. Da exegese do § 4o do art. 89 da Lei n. 9.099/1995 ("a suspensão poderá ser revogada se o acusado vier a ser processado, no curso do prazo, por contravenção, ou descumprir qualquer outra condição imposta), constata-se ser viável a revogação da suspensão condicional do processo ante o descumprimento, durante o período de prova, de condição imposta, mesmo após o fim do prazo legal.... 4. Recurso especial representativo de controvérsia provido para, reconhecendo a violação do art. 89, §§ 1o, 2o, 4o e 5o da Lei n. 9.099/1995, afastar a decisão de extinção da punibilidade do recorrido, com o prosseguimento da Ação Penal n. 0037452-56.2008.8.21.0017 (REsp 1498034/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 25/11/2015, DJe 02/12/2015).” Não há que se falar em absolvição do crime de embriaguez ao volante quando devidamente demonstradas a materialidade e a autoria delitivas, ante os depoimentos firmes e coerentes dos policiais militares que realizaram a prisão em flagrante, os quais relataram nas duas fases da persecução penal que o acusado conduziu veículo automotor em visível estado de embriaguez – com alteração na fala, olhos vermelhos e exalando um forte odor etílico, além da confissão do apelante, sendo totalmente inviável, neste contexto, o acolhimento do pleito absolutório. Inobstante tenha sido reconhecida a atenuante da confissão espontânea, não se pode conduzir a sanção aquém do mínimo legal na segunda etapa dosimétrica, por força do que dispõe a Súmula n. 231 do Superior Tribunal de Justiça, entendimento, esse, que não denota violação aos princípios da legalidade, isonomia e da individualização da pena, consoante precedente do Supremo Tribunal Federal.” (Ap. 0001552-13.2013.8.11.0050, DES. RUI RAMOS RIBEIRO, SEGUNDA CÂMARA CRIMINAL, Julgado em 05/02/2019)
+Alega violação aos arts. 89, §4°, da Lei n. 9.099/95; 9° e 10, caput, do CPC, e art. 3° do CPP, diante confirmação da revogação da suspensão condicional do processo sem a sua prévia intimação para justificar sua ausência.
+Recurso tempestivo (Id. 35630465).
+Contrarrazões no Id. 36175970, pelo provimento do recurso.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos.
+A câmara julgadora, quando do julgamento do recurso de Apelação, consignou que o Recorrente não foi localizado no estabelecimento para tratamento de dependência química indicado pela Defesa, onde estaria internado.
+Dessa forma, concluiu que “a inobservância das condições impostas ao beneficiário, com base no artigo 89, § 49, da Lei n9 9.099/95, enseja a revogação do benefício”. (Id. 32892950, p. 4)
+Nesse contexto, ao apontar a violação aos arts. 89, § 4°, da Lei n. 9.099/95; 9° e 10, caput, do CPC, e art. 3° do CPP, defende o Recorrente que o órgão fracionário chancelou a decisão de Primeiro Grau que revogou a suspensão condicional do processo sem intimá-lo previamente, e nem a sua Defesa, para justificar sua ausência.
+Observa-se que houve o devido prequestionamento da questão acima mencionada, o que impede a incidência das Súmulas 211 do STJ, 282 e 356 do STF, e a matéria não se reporta ao conjunto fático-probatório dos autos (não aplicação da Súmula 7 do STJ), além de não incidir no caso concreto nenhuma outra súmula impeditiva.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso pela aduzida afronta legal.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 9 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
