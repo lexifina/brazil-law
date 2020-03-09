@@ -1,0 +1,29 @@
+MANDADO DE SEGURANÇA CÍVEL n.o 1004865-71.2020.8.11.0000
+IMPETRANTE: LUDIO ARAUJO CORREA
+IMPETRADO: SECRETÁRIA DE EDUCAÇÃO DO ESTADO DE MATO GROSSO
+VISTO.
+1. Trata-se de mandado de segurança, com pedido de liminar, impetrado por LUDIO ARAUJO CORREA contra ato imputado ao Exmo. Sr. Secretário de Estado de Educação do Estado de Mato Grosso, consubstanciado na recusa da contratação temporária do impetrante, por ter o mesmo usufruído mais de 60 (sessenta) dias de licença médica em anos anteriores.
+Alega o impetrante, em apertada síntese, que participou do Edital de Seleção no 007/2019/GS/SEDUC/MT, publicado no Diário Oficial no 27625/2019, alcançando a 1a colocação na ordem de classificação para professor temporário, disciplina matemática, vinculado à unidade escolar 184403 – Escola Estadual Pontal do Glória, no município de Santo Antônio de Leverger/MT, e que foi impedido de ser contratado por ter o mesmo usufruído mais de 60 (sessenta) dias de licença médica em anos anteriores.
+É o breve relatório.
+DECIDO
+2. Inicialmente, cumpre salientar que a autoridade coatora, conforme prescreve o artigo 1o, da Lei 12.016/2009, é aquela que comete a ilegalidade, ou abuso de poder, em detrimento de direito líquido e certo do impetrante. Exige-se, inclusive, que, na petição inicial, identifique não só a autoridade coatora como também a pessoa jurídica a que o agente do ato impugnado se acha integrado (Júnior, Humberto Theodoro. Lei do Mandado de Segurança comentada, 2014. Rio de Janeiro: Forense. p. 84).
+Nessa quadra, entende-se como autoridade coatora o agente da administração pública ou que exerça ato próprio do Poder Público, ou que, por lei, seja a estes equiparados (p. 84), de acordo com o preconizado no artigo 6o, §3o, da Lei no 12.016/2009:
+Art. 6o (...).
+§ 3o Considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática.
+Pois bem.
+Verifico, desde logo, a incompetência deste Tribunal para apreciar o feito, ante a ausência de ato coator praticado pela autoridade impetrada, qual seja, o Secretário de Estado de Educação do Estado de Mato Grosso.
+O impetrante não apresentou, na sua petição inicial, qualquer ato da lavra do Secretário de Estado de Educação do Estado de Mato Grosso, da responsabilidade na recusa de contratação, apto a atrair a competência deste Sodalício.
+Impende destacar que embora a SECRETÁRIA DE ESTADO DE EDUCAÇÃO DE MATO GROSSO no uso de suas atribuições tenha tornado público o Edital de Seleção no 007/2019/GS/SEDUC/MT, que regulamentou a seleção de candidatos interessados em concorrer às vagas de contratação temporária de servidores para exercerem os cargos de Professor, Técnico Administrativo Educacional e Apoio Administrativo Educacional, nas funções respectivas de cada cargo, em conformidade com os demais atos normativos que regem o Processo de Atribuição SEDUC - PAS, o edital prevê que a COMISSÃO DE ATRIBUIÇÃO é encarregada pela validação, análise dos documentos, atribuição e responder a possíveis recursos interpostos, conforme dispõe o item nos itens 3.2, 6.0, 6.1 e 10.1, in verbis:
+[...] 3.2 Para a seleção dos candidatos a contrato temporário, dever-se-á inicialmente constituir-se a “COMISSÃO DE ATRIBUIÇÃO”, que ficará encarregada do processo de VALIDAÇÃO, ANÁLISE DOS DOCUMENTOS, ATRIBUIÇÃO e RESPONDER a POSSÍVEIS RECURSOS INTERPOSTOS, conforme regras estabelecidas na Instrução Normativa no 006/19/GS/Seduc/MT.
+(...) 6.0 DA ATRIBUIÇÃO/CONTRATAÇÃO DOS PROFESSORES:
+6.1 - DA ENTIDADE EXECUTORA DA SELEÇÃO - O processo de atribuição para contratação temporária de professor será realizado pela COMISSÃO DE ATRIBUIÇÃO, conforme art. 8o da Instrução Normativa 006/2019/GS/SEDUC/MT e critérios de classificação obtidos no Formulário de Seleção (Anexo I, deste Edital), para as unidades escolares que tenham cargos disponíveis.(...)
+10.1. O servidor que sentir-se prejudicado quanto a sua INSCRIÇÃO, VALIDAÇÃO de DOCUMENTOS e ATRIBUIÇÃO, poderá interpor RECURSO, justificando o motivos da divergência perante a Comissão de Atribuição (...)
+Assim, consoante a literalidade dos citados subitens, a prática do ato impugnado é de competência da COMISSÃO DE ATRIBUIÇÃO, logo, é esta a responsável pela aludida ilegalidade, motivo da impetração.
+Esse também é o entendimento desta Corte. Confira-se:
+PROCESSO CIVIL – AGRAVO DE INSTRUMENTO – MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – PRELIMINAR DE ILEGITIMIDADE PASSIVA – AFASTADA – ATO COATOR SUBSCRITO PELO IBADE – INVESTIGAÇÃO SOCIAL – CANDIDATO NÃO RECOMENDADO – EXISTÊNCIA DE NOTÍCIA CRIME - BOLETIM DE OCORRÊNCIA – ANTECEDENTES CRIMINAIS – ELIMINAÇÃO – LEGALIDADE – DECISÃO DE PRIMEIRO GRAU MANTIDA – RECURSO DESPROVIDO. Considera-se autoridade coatora a pessoa que ordena ou omite a prática do ato impugnado, que in casu é quem subscreveu o indeferimento do pedido de revisão do resultado do teste. O conjunto fático-jurídico é apto a demonstrar que o candidato omitiu informações quando do preenchimento da ficha de investigação social, no que se refere aos antecedentes criminais.
+(N.U 1004523-31.2018.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARCIO VIDAL, Primeira Câmara de Direito Público e Coletivo, Julgado em 18/3/2019, Publicado no DJE 30/4/2019). [Destaquei]
+Nesse contexto, à míngua de ato praticado pela autoridade apontada como coatora, em decorrência da ausência de documentos que o comprovem, ou diante da sua incompetência material para a prática do ato, não possui o Secretário de Estado de Educação do Estado de Mato Grosso legitimidade para figurar no polo passivo desta ação constitucional de Mandado de Segurança.
+3. Por essas razões, reconheço a ilegitimidade passiva do Secretário de Estado de Segurança Pública e, de consequência, DENEGO A SEGURANÇA postulada, razão pela qual JULGO EXTINTO O FEITO sem resolução de mérito, nos termos do artigo 485, inciso VI, do CPC.
+Intime-se e cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Relatora
