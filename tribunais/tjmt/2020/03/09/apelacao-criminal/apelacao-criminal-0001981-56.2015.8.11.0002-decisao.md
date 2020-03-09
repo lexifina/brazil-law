@@ -1,0 +1,65 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CRIMINAL N. 0001981-56.2015.8.11.0002
+RECORRENTE: FLARES RICARDO DA SILVA PEGO
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 34937970) interposto por FLARES RICARDO DA SILVA PEGO, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 28950970):
+“APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO – CONDENAÇÃO – IRRESIGNAÇÃO DEFENSIVA – ANULAÇÃO DA SESSÃO DE JULGAMENTO – DECISÃO DOS JURADOS CONTRÁRIA À PROVA DOS AUTOS – EXISTÊNCIA DE DUAS VERSÕES ANTAGÔNICAS – OPÇÃO DO CONSELHO DE SENTENÇA POR UMA DELAS – VOTAÇÃO CALCADA NO ARCABOUÇO FÁTICO-PROBATÓRIO COLIGIDO DURANTE A INSTRUÇÃO PROCESSUAL – JULGAMENTO MANTIDO – SOBERANIA DO VEREDITO POPULAR – RECURSO DESPROVIDO, EM CONSONÂNCIA COM O PARECER MINISTERIAL. Não há falar em decisão manifestamente contrária à prova dos autos quando o corpo de jurados, ao analisar as teses invocadas pela acusação e pela defesa, optar por uma delas.” (Ap 0001981-56.2015.8.11.0002, DES. ORLANDO DE ALMEIDA PERRI, PRIMEIRA CÂMARA CRIMINAL, Julgado em 28/01/2020)
+Alega violação ao art. 593, III, “d”, do CPP, além de divergência jurisprudencial, ao argumento de decisão dos jurados manifestamente contrária à prova dos autos, visto que “a única testemunha que declarou em na fase policial que o recorrente foi o autor do delito, não foi inquirida em nenhuma das fases do procedimento do júri” (Id. 34937970, p. 4).
+Recurso tempestivo (Id. 35478984).
+Contrarrazões – Id. 36308982.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, a suposta violação art. 593, III, “d”, do CPP, fundada na tese de decisão dos jurados manifestamente contrária à prova dos autos, exige o exame do conjunto fático-probatório dos autos, o que atrai o óbice sumular acima mencionado.
+A propósito:
+“PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 593, III, "D", DO CPP NÃO CONFIGURADA. SÚMULA 7/STJ. AGRAVO DESPROVIDO. 1. Inexiste contrariedade ao art. 593, III, "d", do Código de Processo Penal, pois o acórdão recorrido indicou expressamente que a decisão dos jurados não é manifestamente contrária à prova dos autos, "vez que há elementos de prova aptos a sustentar a tese escolhida pelo Conselho de Sentença", destacando o depoimento do policial condutor, o interrogatório judicial do agravado, depoimento de testemunhas e demais provas dos autos. 2. Consoante jurisprudência pacífica desta Corte Superior, "é inviável, por parte deste Sodalício, avaliar se as provas constantes dos autos são aptas a desconstituir a decisão dos jurados, porquanto a verificação dos elementos de convicção reunidos no curso do feito implicaria o aprofundado revolvimento de matéria fático-probatória, o que é vedado na via eleita, conforme disposição da Súmula n. 7 desta Corte" (AgRg no AREsp 1303184/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 11/12/2018, DJe 04/02/2019). 3. Agravo regimental desprovido.” (AgInt no AREsp 1442041/CE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/05/2019, DJe 20/05/2019) (destaquei)
+“AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO TENTADO. SENTENÇA DE PRONÚNCIA. ACUSADO NÃO ENCONTRADO. SUFICIENTE A INTIMAÇÃO DO DEFENSOR. INTIMAÇÃO QUANTO AO JULGAMENTO PELO TRIBUNAL DO JÚRI. NÃO ENCONTRADO O RÉU. INTIMAÇÃO POR EDITAL. PRECEDENTES. ALEGAÇÃO DE DEFICIÊNCIA DA DEFESA TÉCNICA APRESENTADA. PREJUÍZO NÃO DEMONSTRADO. PAS DE NULLITÉ SANS GRIEF. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. PLEITO PARA REDUÇÃO PELA TENTATIVA NA FRAÇÃO MÁXIMA. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N.o 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO. (...) 5. O Tribunal de origem, soberano quanto à análise do conjunto fático-probatório, entendeu que, na hipótese, não ficou caracterizado julgamento contrário à prova dos autos. Portanto, a inversão do julgado encontra óbice no comando contido na Súmula n.o 7 do Superior Tribunal de Justiça. (...)” (AgRg nos EDcl no AREsp 1365782/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/05/2019, DJe 20/05/2019) (destaquei)
+Registre-se que, no ponto, está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ, senão vejamos:
+“PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL. ART. 1o, I E II, DA LEI N. 8.137/90. 1) VIOLAÇÃO AO ARTIGO 157 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. 2) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. CONSEQUÊNCIAS DO CRIME. EXASPERAÇÃO IDÔNEA. 3) AGRAVO DESPROVIDO. 1. In casu, reconhecer a obtenção ilícita da prova pelos fiscais da Receita Federal demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem apresentou fundamentação concreta para entender pela licitude da prova, qual seja, o estabelecimento comercial ser aberto ao público, a atuação decorrente do poder de polícia e a coleta de dados ter sido realizada sem oposição do administrador. 1.1. É assente o entendimento deste Sodalício no sentido de que a análise da alegada divergência jurisprudencial fica prejudicada quando a suposta dissonância aborda a mesma tese que amparou o recurso pela alínea "a" do permissivo constitucional, e cujo julgamento esbarrou no óbice do enunciado n. 7 da Súmula deste Tribunal. 2. A desvaloração de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal. 2.1. In casu, o desvalor das consequências do delito foi justificado pelo montante sonegado aos cofres públicos. Precedentes. 3. Agravo regimental desprovido.” (AgRg no AREsp 682.150/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/04/2018, DJe 25/04/2018) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 9 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO EXTRAORDINÁRIO NA APELAÇÃO CRIMINAL N. 0001981-56.2015.8.11.0002
+RECORRENTE: FLARES RICARDO DA SILVA PEGO
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Extraordinário (Id. 34937461) interposto por FLARES RICARDO DA SILVA PEGO, com fundamento no art. 102, III, “a”, da Constituição Federal, contra o acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 28950970):
+“APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO – CONDENAÇÃO – IRRESIGNAÇÃO DEFENSIVA – ANULAÇÃO DA SESSÃO DE JULGAMENTO – DECISÃO DOS JURADOS CONTRÁRIA À PROVA DOS AUTOS – EXISTÊNCIA DE DUAS VERSÕES ANTAGÔNICAS – OPÇÃO DO CONSELHO DE SENTENÇA POR UMA DELAS – VOTAÇÃO CALCADA NO ARCABOUÇO FÁTICO-PROBATÓRIO COLIGIDO DURANTE A INSTRUÇÃO PROCESSUAL – JULGAMENTO MANTIDO – SOBERANIA DO VEREDITO POPULAR – RECURSO DESPROVIDO, EM CONSONÂNCIA COM O PARECER MINISTERIAL. Não há falar em decisão manifestamente contrária à prova dos autos quando o corpo de jurados, ao analisar as teses invocadas pela acusação e pela defesa, optar por uma delas.” (Ap 0001981-56.2015.8.11.0002, DES. ORLANDO DE ALMEIDA PERRI, PRIMEIRA CÂMARA CRIMINAL, Julgado em 28/01/2020)
+Alega violação ao art. 5°, II e LV, da Constituição Federal, ao argumento de decisão dos jurados manifestamente contrária à prova dos autos, “haja vista que inexiste elementos probatórios revestidos de idoneidade jurídica e produzidos sob a garantida constitucional do contraditório a justificar uma condenação” (Id. 34937461, p. 6).
+Recurso tempestivo (Id. 35478984).
+Contrarrazões – Id. 36308983.
+É o relatório.
+Decido.
+Controvérsia sem repercussão geral. Tema 660.
+Nos termos do art. 1.030, I, “a”, parágrafo único, do CPC, quando idêntica controvérsia já foi apreciada pelo Supremo Tribunal Federal e a ela não foi reconhecida a repercussão geral, todos os demais recursos devem ser inadmitidos.
+Ao examinar os autos, denota-se que o Recorrente se insurge contra o acórdão com a alegação de violação ao princípio do contraditório (art. 5°, LV, da CF), por ter sido a condenação baseada exclusivamente em declaração de testemunha dada na fase policial.
+Idêntica controvérsia já foi apreciada pelo STF, por meio do tema 660, representado pelo Leading case ARE 748371 RG/MT, no qual não foi reconhecida a repercussão geral, conforme se observa por meio da ementa abaixo transcrita:
+“Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (STF ARE 748371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013).
+Assim, verifica-se que a referida matéria discutida neste recurso (suposta inobservância do princípio do contraditório) não teve reconhecida sua repercussão geral pelo STF (tema 660), circunstância que impede o seguimento recursal no ponto.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Extraordinário, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo constitucional violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO. LEI 4.051/1986 DO ESTADO DO PIAUÍ. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. INTERPOSIÇÃO DE APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes, o que é vedado pela Súmula 280/STF. Precedentes. III - Apelo extremo com base na alínea c do inciso III do art. 102 da Constituição Federal. É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (RE 1183212 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/04/2019, PROCESSO ELETRÔNICO DJe-098 DIVULG 10-05-2019 PUBLIC 13-05-2019) (destaquei)
+In casu, o Recorrente alega genericamente violação ao art. 5°, II, da CF (que dispõe acerca do princípio da legalidade) deixando de demonstrar em que medida o acórdão recorrido o teria vulnerado, ou de associá-lo às razões recursais (voltadas à suposta ocorrência de decisão dos jurados manifestamente contrária à provas dos autos), o que inviabiliza a exata compreensão da matéria e faz incidir o óbice sumular supracitado.
+Ante o exposto, nego seguimento ao Recurso Extraordinário.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 9 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
