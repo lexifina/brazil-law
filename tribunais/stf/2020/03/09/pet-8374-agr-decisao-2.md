@@ -1,0 +1,43 @@
+Decisão: 1. Trata-se de Agravo Regimental interposto em 14.10.2019 por Márcio Henrique Junqueira Pereira (fls. 287-294) contra a decisão de fls. 278-281, por meio da qual foi indeferida a pretensão de revogação de medidas cautelares pessoais que lhe foram impostas nos autos do INQ 4.720.
+
+    Afirma o agravante a regular submissão às medidas cautelares de proibição de ausentar-se da Capital Federal e de recolhimento domiciliar no período noturno e nos fins de semana desde o dia 6.11.2018, “o que perfaz, atualmente, mais de 11 (onze) meses de monitoramento eletrônico” (fl. 289).
+
+    Defende, na sequência, que tal lapso de duração das medidas cautelares evidenciaria a desproporcionalidade da limitação ao seu direito ambulatório, já que, em razão do pedido de vista dos autos do INQ 4.720 pelo Ministro Gilmar Mendes na sessão de julgamentos do dia 13.11.2018, sequer há previsão de término do juízo de admissibilidade da denúncia contra si ofertada.
+
+    Destaca que, cingindo-se a acusação à prática do delito previsto no art. 2º, § 1º, da Lei 12.850/2013, “a sanção restaria fixada, considerando a primariedade e a ausência de quaisquer transgressões às medidas que lhe foram impostas, no seu mínimo legal de 3 (três) anos” (fl. 292), o que lhe garantiria a substituição de eventual pena privativa de liberdade por restritiva de direitos, motivo pelo qual a manutenção das medidas cautelares pessoais importaria em antecipação de pena.
+
+    Requer, com tais considerações, a reconsideração da decisão agravada, com a revogação das medidas cautelares previstas nos incisos IV e V do art. 319 do Código de Processo Penal, ou a submissão da presente insurgência à deliberação do órgão colegiado.
+
+    Com vista dos autos, a Procuradoria-Geral da República, por meio de petição protocolizada em 21.10.2019 (fls. 299-303), manifesta-se pelo desprovimento do agravo regimental.
+
+    2. Conforme já consignado nestes autos, estando as medidas cautelares sujeitas à cláusula rebus sic stantibus, cumpre perquirir, diante do atual cenário fático-processual que permeia a pretensão punitiva estatal exercida nos autos do INQ 4.720 e dos argumentos declinados nas razões desta insurgência, a necessidade da manutenção das restrições impostas ao direito ambulatório do agravante.
+
+    À época em que proferida a decisão agravada, a necessidade da manutenção das medidas cautelares pessoais impostas ao agravante foi justificada “nos concretos indícios da prática de atos tendentes a obstaculizar atos investigativos levados a efeito pelos órgãos de persecução penal” (g.n.) (fl. 280), considerado, ainda, o início da deliberação colegiada acerca da denúncia ofertada pela Procuradoria-Geral da República na sessão de julgamentos da Segunda Turma do dia 6.11.2018, a evidenciar, naquela quadra, a regular tramitação da pretensão punitiva estatal.
+
+    Nada obstante, conforme se infere do extrato de movimentação processual do INQ 4.720 disponibilizado na página deste Supremo Tribunal Federal localizada na internet, tal deliberação encontra-se suspensa desde o dia 13.11.2018, oportunidade na qual o eminente Ministro Gilmar Mendes pediu vista dos autos.
+
+    No momento da análise da pretensão ora sob revisão (4.10.2019), até o início do recesso forense ainda seriam realizadas 11 (onze) sessões ordinárias pela Segunda Turma, órgão ao qual compete a análise da admissibilidade da denúncia ofertada nos autos do INQ 4.720, a permitir, em juízo prospectivo de razoabilidade, a conclusão pela regular e tempestiva prestação jurisdicional, diante da existência de tempo hábil à continuidade da deliberação colegiada.
+
+    No entanto, passados cerca de 14 (quatorze) meses desde a suspensão, por circunstâncias alheias à atuação deste relator, os autos do INQ 4.720 não retornaram à pauta para a continuidade do julgamento, evento que caracteriza substancial alteração no quadro fático-processual sobre o qual se realiza o juízo de cautelaridade das medidas impostas ao ora agravante e autoriza, por conseguinte, a revisão almejada.
+
+    Com efeito, nada obstante a gravidade dos atos atribuídos ao agravante, que, como consignado na decisão agravada, agiu, em tese, com a intenção de demover testemunha a colaborar com os atos investigativos, é dever dos órgãos do Poder Judiciário, dentre os quais se inclui o Supremo Tribunal Federal (art. 92, I, da Constituição Federal), a observância à garantia insculpida no art. 5º, LXXVIII, da CF/1988, a qual prevê a razoável duração do processo e a disponibilização de meios que garantam a celeridade da prestação jurisdicional.
+
+    Nessa ambiência, e tendo em vista a acessoriedade que reveste as medidas cautelares, a incomum delonga no juízo de admissibilidade da denúncia ofertada em desfavor do requerente recomenda a revogação daquelas que importem limitação direta ao seu direito de locomoção, consubstanciadas, exclusivamente, na (i) proibição de ausentar-se desta Capital Federal e no (ii) recolhimento domiciliar no período noturno e nos dias de folga, com controle via monitoramento eletrônico. Todavia, deve ser mantida, porque relacionada ao fato que deu ensejo, inclusive, à decretação da sua prisão preventiva, a proibição de manter contato com as testemunhas arroladas pela Procuradoria-Geral da República nas denúncias ofertadas nos autos dos INQ 3.989 e 4.720.
+
+    Tal medida resguarda o jurisdicionado do efeito negativo que ressuma da dilação verificada na resolução do juízo de admissibilidade da denúncia, assegurando, ainda que de forma tênue, a integridade de eventual instrução criminal.
+
+    3. Ante o exposto, com fundamento no art. 282, § 5º, do Código de Processo Penal, revogo as medidas cautelares impostas nos itens “b” e “c” do acórdão proferido nos autos da PET 7.632 AgR-Segundo, consubstanciadas na proibição de ausentar-se desta Capital Federal e no recolhimento domiciliar no período noturno e nos dias de folga, com controle via monitoramento eletrônico.
+
+    Oficie-se, pelo meio mais expedito, o Juízo da Vara de Execuções Penais do Distrito Federal para cumprimento desta decisão.
+
+    Providencie-se a juntada de cópia desta decisão aos autos do INQ 4.720.
+
+    Publique-se. Intime-se.
+
+    Brasília, 9 de março de 2020.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
