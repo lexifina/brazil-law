@@ -1,0 +1,22 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO. VALIDADE DE NORMA COLETIVA DE TRABALHO. SUSPENSÃO DE TODOS OS PROCESSOS PENDENTES QUE VERSEM SOBRE O TEMA. ALEGAÇÃO DE AFRONTA À DECISÃO PROFERIDA NO AGRAVO EM RECURSO EXTRAORDINÁRIO 1.121.633. TEMA 1.046 DA REPERCUSSÃO GERAL. ORDEM DE SUSPENSÃO NACIONAL DE PROCESSOS. TUTELA PROVISÓRIA DE URGÊNCIA DEFERIDA.
+    DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada por São Martinho S.A contra decisão proferida pela 3ª Câmara – Quarta Turma do Tribunal Regional do Trabalho da 15ª Região nos autos do Processo 0010004-92.2017.5.15.0120, sob a alegação de descumprimento da ordem de suspensão nacional de processos proferida por esta Corte nos autos do ARE 1.121.633 – Tema 1046.
+     A parte reclamante sustenta que a questão debatida nos autos trata da validade de cláusulas relativas à supressão do pagamento de horas in itinere, prevista em acordo coletivo, matéria que guarda relação com o Tema 1.046 da repercussão geral, em que houve a determinação de suspensão do trâmite de todos os processos pendentes, nos quais se discute a validade de pactos coletivos que limitam ou restringem direito trabalhista não assegurado constitucionalmente.
+    Argumenta que “apresentou embargos de declaração pretendendo, em síntese, a manifestação do Juízo em razão do disposto no atual Tema 1046/STF (ARE 1121633/GO)”.
+    Aduz que a autoridade reclamada indeferiu seu pedido de suspensão do processo.
+    Requer, liminarmente, a suspensão do andamento do processo na origem e, no mérito, pugna pela procedência da reclamação, “para cassar o acórdão proferido pela E. Câmara do TRT 15, como forma de preservar a competência e a autoridade do Supremo Tribunal Federal em suas decisões (determinando a suspensão do processo 0010004-92.5.15.0120)”.
+    É o relatório. DECIDO.
+     Antes de examinar se, de fato, há desobediência à decisão proferida nos autos do ARE 1.121.633, Rel. Min. Gilmar Mendes, é preciso esclarecer o que ela dispõe. Com efeito, no julgamento do dia 2/5/2019, o Plenário desta Corte reconheceu a existência de repercussão geral na matéria constitucional objeto do Tema 1.046.
+    A descrição do mérito a ser analisado no aludido tema restou assim delineada:
+    “Recurso extraordinário com agravo em que se discute, à luz dos arts. 5º, incisos II, LV e XXXV; e 7º, incisos XIII e XXVI, da Constituição Federal, a manutenção de norma coletiva de trabalho que restringe direito trabalhista, desde que não seja absolutamente indisponível, independentemente da explicitação de vantagens compensatórias”.
+    Da análise dos autos, verifica-se que a pretensão deduzida pelo autor da demanda de origem envolve a validade de cláusulas referentes à supressão do pagamento de horas in itinere, previsto em acordo coletivo de trabalho, matéria relacionada diretamente ao aludido tema da Repercussão Geral.
+    Por essa razão, a decisão cautelar proferida nos autos do ARE 1.121.633 abarca o caso concreto, bem como tem aplicabilidade à lide, haja vista que o ato impugnado foi publicado em 03/01/2020, enquanto o julgamento, em sessão plenária, em que restou reconhecida a existência de repercussão geral da questão constitucional analisada no Tema 1.046 ocorreu em 2/5/2019.
+    Demonstrada, portanto, ao menos nesse juízo prévio, a não aplicação da tese jurídica firmada em repercussão geral pelo Tribunal a quo, revelam-se presentes os requisitos que autorizam a concessão da medida liminar requerida.
+    Ex positis, por entender que os argumentos da parte reclamante são plausíveis, CONCEDO A TUTELA PROVISÓRIA DE URGÊNCIA, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para suspender os efeitos da decisão reclamada e a tramitação do Processo 0010004-20.2016.5.15.0120 em curso no Tribunal de Regional do Trabalho da 15ª Região, até o julgamento final desta reclamação.
+    Solicitem-se informações (artigo 989, inciso I, do CPC) e comunique-se o teor desta decisão ao Tribunal Regional do Trabalho da 15ª Região, em especial no que concerne ao deferimento da medida liminar.
+    Cite-se o beneficiário do decisum impugnado para a apresentação de contestação, na forma do inciso III do artigo 989 do Código de Processo Civil.
+    Nos termos do parágrafo único do artigo 52 do RISTF, dispenso o parecer da Procuradoria-Geral da República, por entender suficiente a instrução do feito e cuidar-se de matéria de caráter reiterado.
+    Publique-se.
+    Brasília, 09 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
