@@ -1,0 +1,30 @@
+DECISÃO
+MANDADO DE INJUNÇÃO – APOSENTADORIA ESPECIAL – SERVIDOR FEDERAL – EMENDA CONSTITUCIONAL Nº 103/2019 – DEFICIÊNCIA – PERDA DE OBJETO –
+APOSENTADORIA ESPECIAL –ATIVIDADE DE RISCO – SEGUIMENTO – NEGATIVA.
+    1. O assessor William Akerman Gomes assim retratou o caso:
+    Associação Nacional dos Servidores Efetivos das Agências Reguladoras Federais busca suprir lacuna legislativa, imputada ao Presidente da República, a tornar inviável o exercício do direito previsto no artigo 40, § 4º, incisos I e II, da Constituição Federal. Pretende o deferimento da ordem objetivando serem, os servidores substituídos, beneficiados por tempo de contribuição reduzido no acesso à inatividade, mediante a aplicação, por analogia, do disposto na Lei nº 8.213/1991.
+    O Presidente da República afirma a ausência da mora legislativa, levando em conta a tramitação, no Congresso Nacional, de projetos de lei complementar voltados a disciplinar a matéria. Sublinha inviável, no regime próprio, a incidência das regras da aposentadoria especial relativas ao Regime Geral de Previdência Social. Menciona precedentes do Supremo.
+    A União assinala a falta de interesse processual, uma vez instaurado o processo legislativo pertinente. Postula a inadmissão da medida e, sucessivamente, a improcedência do pedido.
+    A Procuradoria-Geral da República manifesta-se pelo deferimento parcial da ordem, limitado à declaração da mora na regulamentação do direito pretendido.
+    Vossa Excelência, em 16 de dezembro de 2019, possibilitou manifestação acerca do interesse processual, tendo em vista o advento da Emenda Constitucional nº 103/2019.
+    Por meio da petição/STF nº 5.009/2020, a impetrante requer o prosseguimento do mandado de injunção.
+    2. Figurando entre as garantias instrumentais do cidadão e servindo à efetividade da Lei Maior, o mandado de injunção tem objeto próprio, consistente em pronunciamento voltado a neutralizar os efeitos da mora, do legislador ordinário, em cumprir o dever de regulamentar o exercício de direitos e liberdades constitucionais.
+    A omissão normativa apontada, quanto ao artigo 40, § 4º, inciso I, da Carta da República, deixou de existir considerado o artigo 22 da Emenda de nº 103, de 12 de novembro de 2019, mediante o qual determinada a aplicação, no tocante à jubilação de servidor público com deficiência, do disposto na Lei Complementar nº 142/2013, até a edição de diploma específico alusivo ao § 4º-A do artigo 40 da Constituição Federal.
+    A pretensão voltada a ver o processo administrativo de aposentadoria especial analisado pela autoridade competente à luz da mencionada Lei Complementar ficou, ante a atuação do poder constituinte derivado, assegurada.
+    O quadro é revelador da perda do interesse processual, observado o parágrafo único do artigo 11 da Lei nº 13.300/2016.
+    Em relação ao pedido voltado a remediar a mora na regulamentação do inciso II do § 4º do artigo 40 da Lei Maior, o Tribunal, nos mandados de injunção nº 833/DF e 844/DF, proclamou não haver lacuna legislativa quando o risco indicado for contingente. Acompanhei o voto proferido pelo ministro Luís Roberto Barroso, redator do acórdão, assentando a necessidade de o perigo ser inerente à profissão, surgindo irrelevante o recebimento de gratificação ou adicional de periculosidade, bem como o porte de arma de fogo.
+    Eis a síntese do segundo julgado, com ementa similar à do primeiro:
+    DIREITO PREVIDENCIÁRIO. MANDADO DE INJUNÇÃO COLETIVO. OFICIAIS DE JUSTIÇA E SERVIDORES DO JUDICIÁRIO E DO MINISTÉRIO PÚBLICO DA UNIÃO COM ATRIBUIÇÕES RELACIONADAS À SEGURANÇA. ALEGADA ATIVIDADE DE RISCO. APOSENTADORIA ESPECIAL. ORDEM DENEGADA.
+    1. Diante do caráter aberto da expressão atividades de risco (art. 40, § 4º, II, da Constituição) e da relativa liberdade de conformação do legislador, somente há omissão inconstitucional quando a periculosidade seja inequivocamente inerente ao ofício.
+    2. A eventual exposição a situações de risco a que podem estar sujeitos os servidores ora substituídos e, de resto, diversas outras categorias não garante direito subjetivo constitucional à aposentadoria especial.
+    3. A percepção de gratificações ou adicionais de periculosidade, assim como o porte de arma de fogo, não são, por si sós, suficientes para reconhecer o direito à aposentadoria especial, em razão da autonomia entre o vínculo funcional e o previdenciário.
+    4. Voto pela denegação da ordem, sem prejuízo da possibilidade, em tese, de futura lei contemplar a pretensão das categorias representadas pela impetrante.
+    (Mandado de injunção nº 844/DF, relator ministro Ricardo Lewandowski, redator do acórdão ministro Luís Roberto Barroso, julgado em 11 de junho de 2015.)
+    A opção política normativa não se faz em jogo. Caso o Congresso venha a dispor sobre a matéria, incluindo o serviço prestado na regra alusiva à aposentadoria especial prevista no artigo 40, § 4º, inciso II, da Lei Maior, estar-se-á diante de nova realidade. Não cabe adotar a premissa de serem arriscadas as atividades dos servidores das Agências Reguladoras, fugindo aos parâmetros regulamentares definidores da profissão e mesclando os regimes geral e próprio de previdência, conforme pretendido.
+    A Emenda Constitucional nº 103/2019 restringiu aos ocupantes dos cargos de agente penitenciário, agente socioeducativo e policial dos órgãos versados nos artigos 51, inciso IV, 52, inciso XIII, e 144, incisos I a IV, o alcance da aposentadoria especial. A modificação, contida no § 4º-B do artigo 40 da Carta da República, reforça o acerto do entendimento firmado pelo Supremo.
+    3. Declaro o prejuízo da impetração quanto à apontada omissão legislativa na disciplina do direito previsto no artigo 40, § 4º, inciso I, da Constituição Federal.
+    Relativamente à regulamentação da aposentadoria especial pelo exercício de atividade de risco – artigo 40, § 4º, inciso II, da Carta da República –, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 9 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
