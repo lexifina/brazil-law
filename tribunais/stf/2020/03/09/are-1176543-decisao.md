@@ -1,0 +1,31 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+     “AGRAVO DE INSTRUMENTO. Desapropriação indireta. Precatório. Incidência de juros moratórios e compensatórios. Possibilidade. Inaplicabilidade do art. 78 do ADCT, introduzido pela EC n° 30/2000, e da Súmula Vinculante n° 17 do STF. Normas que definem apenas situações jurídicas futuras, diante das garantias constitucionais do direito adquirido, do ato jurídico perfeito e da coisa julgada. Juros que devem ser pagos nos termos da decisão que transitou em julgado” (pág. 109 do documento eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação do art. 100, § 5°, da mesma Carta, bem como à Súmula Vinculante 17.
+    Foi determinada a devolução dos autos à origem para que fosse aplicada à sistemática da repercussão geral (Tema 132, Recurso Extraordinário 590.751/SP, de minha relatoria). O Tribunal de origem , em juízo de retratação, manteve o acórdão recorrido.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto condutor do acórdão recorrido (págs. 94 e seguintes do documento eletrônico 1):
+    “Segundo consta, em ação de desapropriação indireta,o agravante foi condenado a pagar ao agravado a importância de Cr$ 3.388.312,29,com incidência de juros compensatórios de 12% ao ano e juros moratórios de 6% ao ano (fls.32). A decisão transitou em julgado antes da vigência do art. 78 do ADCT,introduzido pela Emenda Constitucional nº 30/2000,e da edição da Súmula nº 17 do STF.
+    As alegações do agravante que não merecem guarida,pois as normas por ele invocadas somente podem atingir os processos que não tenham sido acobertados pelo manto da coisa julgada material.
+    Destarte,não pode o agravante beneficiar-se com pagamento de valor menor do que realmente se devido por simples aplicação imediata da lei, vez que tal aplicação sempre respeitará o ato jurídico perfeito, o direito adquirido e a coisa julgada, conforme o disposto nos arts.5º, XXXVI, da CF e 6º da Lei de Introdução ao Código Civil.
+    Isso porque formou-se o título executivo que é, segundo melhor doutrina“ ato ou fato jurídico, do qual resulta a concreta adequação das medidas de execução forçada para atuação da vontade da Lei”.
+    […]
+    No âmbito jurisdicional,o título executivo se define pelo trânsito em julgado da sentença condenatória,enquanto ato decorrente do exercício da atividade jurisdicional do Estado
+    por força de provocação das partes. Esse título
+    é dotado de eficácia da coisa julgada material
+    que torna imutável e indiscutível a sentença pelo exaurimento dos recursos (art.467, CPC).
+    Assim,os juros compensatórios e de mora encontram-se protegidos pela imutabilidade da coisa julgada, de modo que não é possível que o art. 78 do ADCT, introduzido pela Emenda Constitucional nº 30/2000,nem a Súmula Vinculante nº 17 do STF, retroajam para alcançar a relação jurídica posta nos autos” (págs. 110- 111 do documento eletrônico 6 ).
+    Assim, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, notadamente quanto à ocorrência do cômputo de juros durante o período da moratória, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF.
+    Além disso, verifico que o Juízo de origem apoiou-se na existência de coisa julgada. Esse fundamento, suficiente para a manutenção do acórdão impugnado, não pode ser afastado na instância extraordinária, visto que seria necessária a análise prévia da legislação infraconstitucional, sendo certo que eventual ofensa à Constituição seria meramente indireta. Nesse sentido, cito julgados de ambas as Turmas deste Tribunal, cujas ementas transcrevo a seguir:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. LIMITES OBJETIVOS DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL.
+    1. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de violação aos limites da coisa julgada, uma vez que se trata de tema cujo âmbito é estritamente infraconstitucional.
+    2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (AI 764.011-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma ).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. PRECATÓRIO. INCIDÊNCIA DE JUROS: LIMITES OBJETIVOS DA COISA JULGADA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 891.461-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: RE 919.346-AgR/SP e RE 981.983/SP, Rel. Min. Dias Toffoli; RE 475.237-AgR/SC, Rel. Min. Cármen Lúcia; RE 554.176-AgR/RS, Rel. Min. Teori Zavascki; AI 618.795-AgR/RS, Rel. Min. Joaquim Barbosa; RE 621.637-AgR/RS, Rel. Min. Luiz Fux; RE 406.199/PR, Rel. Min. Gilmar Mendes; RE 543.756/SP e ARE 1.097.412-AgR/SP, de minha relatoria.
+    Por fim, ressalto que os Ministros deste Tribunal, no julgamento do ARE 748.371-RG/MT (Tema 660), de relatoria do Ministro Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da violação dos limites da coisa julgada e dos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, por tratar-se de ofensa meramente reflexa ao texto constitucional. A propósito, transcrevo a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 9 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
