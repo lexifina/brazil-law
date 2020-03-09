@@ -1,0 +1,21 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO DE INSTRUMENTO no 1004776-48.2020.8.11.0000 – Classe 202 – CNJ – NOVO SÃO JOAQUIM/MT
+Agravante : RENATO GOMES NERY E LUIZ CARLOS SALESSE
+Agravado : JULINERE GOULART BENTOS
+Número do Protocolo : 1004776-48.2020.8.11.0000
+Recurso de AGRAVO DE INSTRUMENTO interposto por RENATO GOMES NERY E LUIZ CARLOS SALESSE, contra a r. decisão proferida pelo MM. Juiz de Direito da Vara única da Comarca de Novo São Joaquim/MT, que nos autos da ação de “Embargos de Terceiro” (Número Único 775-78.2018.811.0106 - Código 80002), ajuizada contra os agravantes, por JULINERE GOULART BENTOS, indeferiu o pedido cautelar incidental de sequestro do soja plantado na área discutida, por entender que, como a reintegração da área já foi deferida em favor dos embargantes, eles são os responsáveis pelo produto, não havendo falar em sequestro de bens (cf. ID. Num. 34919964 - Pág. 2).
+Os agravantes alegam que, “ao se negar a solucionar o conflito levado pelos Agravantes, decorrente de invasão da área, mediante esbulho possessório e utilização do imóvel para plantio clandestino de soja, o Juízo de Primeiro Grau negou vigência ao referido princípio constitucional e deixou os Agravantes a mercê da ação criminosa dos Agravados que invadiram a área, plantaram a safra de soja 2019/2020 e estão colhendo, mesmo com decisões desfavoráveis proferidas pelo próprio juízo agravado, confirmada pelo Tribunal de Justiça em sede de Agravo de Instrumento”.
+Afirmam que a finalidade do seu pedido é impedir que a agravada e os sucessores de Dorvalino Sechi promovam a colheita da safra de soja 2019/2020 e desvie a totalidade do produto, uma vez que, se não houver uma decisão que impeça o desvio do produto, os agravantes, além de serem impedidos de usar e gozar direito possessório que lhes pertence, não poderão minimizar os seus prejuízos, pois o produto soja plantado na área já terá sido todo desviado.
+Dizem que, apesar de todas as decisões contrárias, a agravada se recusa a sair do imóvel, e já iniciou a colheita do soja plantado indevidamente no local.
+Pedem, pois, o provimento do recurso para que, desde já, seja deferido o pedido de sequestro do soja plantado na área discutida (cf. ID 34919962).
+É a suma.
+D E C I D O
+A concessão da antecipação dos efeitos da tutela recursal, e o mesmo vale para a concessão do efeito suspensivo, exige “elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo” (CPC, art. 300), ou seja, não se opera automaticamente só porque a parte quer e requer, exigindo fundamentos relevantes apoiados em prova idônea e, ainda, a demonstração de que o diferimento da análise do pleito recursal possa tornar inútil a pretensão almejada se mais tarde concedida.
+Compete, portanto, à agravante, alegar e provar, como condição de procedibilidade, que a não concessão do efeito suspensivo poderá causar lesão grave e de difícil reparação, sem perder de vista a relevância da fundamentação.
+No caso, considerando que a reintegração de posse da área em que o soja encontra-se plantado foi deferida em favor dos agravantes, não há razões para indeferir do pedido de sequestro do produto plantado clandestinamente pela agravada, dando, assim, maior segurança aos possuidores, e evitando possíveis desvios do produto, afinal, levando em consideração que existem tantos conflitos entre as partes, pecar por excesso é mais prudente do que indeferir o pedido dos recorrentes.
+Assim, admito a interposição recursal tal como efetivada (CPC, art. 1.019), pelo que recebo e autorizo o processamento do agravo por instrumento, e DEFIRO os pleitos de antecipação da pretensão recursal, acolhendo o pedido cautelar incidental de sequestro da safra de soja 2019/2020, plantada na área reintegrada aos agravantes, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, especialmente pelo contraponto ofertado pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que apresente as contrarrazões.
+Cuiabá-MT, 09 de março de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
