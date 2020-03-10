@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Cuida-se de suspensão de segurança, ajuizada pelo Estado da Paraíba contra a decisão proferida no mandado de segurança  nº 0801211-54.2017.815.0000, em trâmite no Tribunal de Justiça daquele estado, que determinou a imediata convocação e nomeação de um candidato aprovado em concurso público ao cargo de diretor de escola pública.
+    O requerente aduziu que tal determinação judicial “compromete o próprio funcionamento da gestão estadual, na medida em que fará com que se torne refém de uma série de consequências legais, dentre as quais se destaca o aumento excessivo na folha de pessoal, aliado à possibilidade de efeito multiplicador, comprometendo-se, finalmente, a estabilidade e a manutenção do equilíbrio fiscal do Estado da Paraíba.”
+    Pondera ainda que “a despesa com pessoal do Estado da Paraíba está próxima do limite prudencial, de modo que não se afigura recomendável a nomeação dos concursados aprovados.”
+    Sustenta haver risco à economia pública, já que o requerente enfrenta grave crise econômica e tenta controlar gastos e evitar novas despesas, por meio de uma gestão consciente e equilibrada.
+    Ressalta também o risco de efeito multiplicador, com a possibilidade de determinação de novas convocações de aprovados, “comprometendo-se, finalmente, a estabilidade e a manutenção do equilíbrio fiscal do Estado da Paraíba.”
+    Ao fim, pede a suspensão dos efeitos da decisão que determinou a imediata convocação e nomeação do candidato aprovado em concurso público.
+    É o relatório.
+    Decido.
+    Inicialmente, convém deixar assentado que a admissibilidade da contracautela pressupõe a demonstração de que o ato questionado possa vir a causar grave lesão à ordem, à saúde, à segurança ou à economia públicas.
+    Nesse ponto, destaco que a natureza excepcional desta ação permite, tão somente, um juízo mínimo de delibação sobre a matéria de fundo quando necessário à análise do risco aos bens jurídicos tutelados pelo instituto (SS nº 5.049-AgR-ED/BA, Tribunal Pleno, Presidente o Min. Ricardo Lewandowski, DJe de 16/5/16).
+    No caso dos autos, sustenta o Estado da Paraíba, que a decisão judicial atacada representaria risco à ordem e economia públicas; contudo, não é isso que se constata, da leitura dos documentos trazidos aos autos.
+    Dentre esses, aliás, não consta cópia da decisão atacada, tampouco do inteiro teor da decisão proferida pelo E. STJ, no pedido de suspensão ajuizado perante aquela Corte.
+    De qualquer forma, o certo é que referida decisão foi proferida em hipótese de alegada preterição do impetrante, depois de aprovado em concurso público, destacando-se que o pedido de cautelar foi reiteradamente indeferido, até que acabou por ser acolhido, depois que apresentadas provas da alegada preterição.
+    Assim, a eventual apreciação do quanto alegado pelo requerente exigiria a reapreciação do contexto fático-probatório subjacente ao aludido mandamus, providência incompatível, não apenas com a via excepcional do pedido de suspensão de segurança, mas também com a própria competência do Supremo Tribunal Federal em sede recursal extraordinária, a teor da Súmula nº 279/STF, in verbis:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Ressalte-se, ademais, que tampouco se mostra possível o uso do instituto da suspensão como sucedâneo de recurso. Vide precedentes:
+    “Agravo regimental na suspensão de tutela antecipada. Acórdão proferido em ação civil pública. Concurso público. Vaga para deficientes. Impossibilidade de se fazer uso do instituto da suspensão como sucedâneo de recurso. Grave lesão não demonstrada. Agravo regimental ao qual se nega provimento” (STA nº 840/DF-AgR, de minha relatoria, Tribunal Pleno, DJe de 18/10/18).
+    “Agravo regimental na suspensão de liminar. Eleição da mesa diretora do poder legislativo do município de Cambé/PR. Recondução dos membros aos mesmos cargos em biênios consecutivos. Ação civil pública. Afastamento do presidente. Ilegitimidade ativa para contracautela: precedentes. Risco aos valores tutelados na legislação aplicável não demonstrado. Pretensão recursal na suspensão de liminar: inviabilidade. Precedentes. Agravo regimental ao qual se nega provimento” (SL nº 1121/PR-AgR, Relª Minª Cármen Lúcia (Presidente), DJe de 18/4/18).
+    Não cabe ao Supremo Tribunal Federal, na via excepcional da contracautela, imiscuir-se no contexto fático-probatório dos autos em que se contende na origem, devendo a reapreciação da interpretação dada ao conteúdo ser buscada nas vias ordinárias competentes para conhecer do processo. Nesse sentido:
+    “Agravo regimental em suspensão de segurança. Ausência de demonstração de lesão à ordem ou à segurança públicas em razão de decisão liminar que assentou a insubsistência dos motivos que justificaram a decisão administrativa. Impossibilidade do uso do instituto da suspensão como sucedâneo recursal. Agravo regimental não provido. 1. Impossibilidade de o Supremo Tribunal Federal, na via excepcional da contracautela, imiscuir-se no contexto fático-probatório do processo de origem, devendo a reapreciação da interpretação dada ao conteúdo ser buscada na via recursal. 2. Agravo regimental não provido” (SS nº 5.224/Ap-AgR, de minha relatoria, Tribunal Pleno, DJe de 30/5/19).
+    Como se não bastasse, tem-se que a ordem contra a qual se insurge o requerente foi proferida há quase dois anos, encontrando-se vigente desde então, sem que tenha provocado maiores riscos à gestão administrativa e econômica do estado, tampouco gerado indesejável efeito multiplicador, pois não noticiou o requerente o ajuizamento de outras demandas, com o mesmo fito.
+    Não demonstradas, assim, a presença dos requisitos legais ensejadores da pretendida contracautela, impõe-se a pronta rejeição do pedido.
+    Ante o exposto, nego seguimento ao presente requerimento de suspensão (RISTF, art. 21, §1º), prejudicada a análise do pedido de liminar.
+    Publique-se.
+    Brasília, 10 de março de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
