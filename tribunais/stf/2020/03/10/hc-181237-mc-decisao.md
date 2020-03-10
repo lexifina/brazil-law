@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Edvaldo Ramos Nobre prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Passos/MG, no processo nº 0015592-51.2019.8.13.0529, em 5 de janeiro de 2020, ante a prisão em flagrante do paciente decorrente do suposto cometimento do delito previsto no artigo 157, parágrafos 2º, inciso II, e 2-A, inciso I (roubo mediante concurso de pessoas e emprego de arma de fogo), do Código Penal, concedeu liberdade provisória cumulada com medidas cautelares diversas consistentes no comparecimento bimestral em Juízo, proibição de ausentar-se da Comarca sem autorização, bem como recolhimento domiciliar noturno nos dias de folga.
+    O processo passou a tramitar na Vara Única da Comarca de Pratápolis/MG sob o nº 0000014-14.2020.8.13.0529. O Juízo, ao acolher requerimento do Ministério Público, determinou a prisão preventiva do paciente, ocorrida em 17 de janeiro de 2020. Frisou haver materialidade e indícios de autoria. Destacou os contornos do delito – roubo de R$ 200,00 a posto de gasolina, localizado às margens de rodovia, à noite, em concurso de agentes e com emprego de arma de fogo. Concluiu necessária a custódia para garantir a ordem pública, referindo-se ao risco de reiteração criminosa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 558.861/MG, indeferido liminarmente pelo Ministro Presidente.
+    Os impetrantes sustentam a insubsistência dos fundamentos da decisão que implicou a preventiva, afirmando-a lastreada na gravidade abstrata do delito. Realçam a primariedade do paciente. Asseveram violados o artigo 93, inciso IX, da Constituição Federal. Sublinham ausentes os requisitos do artigo 312 do Código de Processo Penal. Conforme arguem, não sobrevieram elementos novos aptos a justificarem a custódia.
+    Requerem, no campo precário e efêmero, o afastamento da prisão. Buscam, alfim, a concessão de liberdade cumulada com medidas cautelares alternativas.
+    A fase é de exame da medida acauteladora.
+    2. A análise do ato por meio do qual determinada a preventiva revela haver-se considerado a imputação. Inexiste a prisão automática tendo em vista a infração supostamente cometida, levando à inversão da ordem do processo-crime, que direciona, observado o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Sublinhou o risco de reiteração delitiva, partindo da capacidade intuitiva, olvidando que a presunção seria de postura digna, ante o fato de estar o paciente submetido aos holofotes da Justiça. Há mais. Nenhum elemento novo sobreveio após a decisão mediante a qual implementadas as cautelares diversas, nem notícia de estarem sendo descumpridas. Surge a insubsistência das premissas lançadas.
+    3. Defiro a liminar, para afastar a prisão preventiva do paciente, formalizada no processo nº 0000014-14.2020.8.13.0529, da Vara Única da Comarca de Pratápolis/MG, restabelecendo-se os efeitos do pronunciamento por meio do qual implementadas as cautelares diversas. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República
+    5. Publiquem.
+Brasília, 10 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
