@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Penal e processual penal. Habeas corpus. Art. 16, parágrafo único, IV, do CP. Condenação transitada em julgado. Prisão decorrente de sentença condenatória irrecorrível. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 564.936, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 16, parágrafo único, IV, da Lei 10.826/03.
+    3. Após o trânsito em julgado da condenação, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, não conhecido. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 564.936, Ministro Leopoldo de Arruda Raposo, Desembargador Convocado do TJ/PE, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante afirma que “o Paciente foi considerado reincidente por força de uma condenação (anterior) pelo crime previsto no artigo 28 da Lei 11.343/06”. Contudo, sustenta a “IMPOSSIBILIDADE DE UTILIZAÇÃO DO ARTIGO 28, DA LEI DE DROGAS PARA CARACTERIZAR A REINCIDÊNCIA”, destacando que, no caso, “o reconhecimento dessa reincidência teria acarretado o aumento da pena em 06 meses, a fixação de regime prisional e a impossibilidade de substituição por penas restritivas de direitos”.
+    5. A defesa requer o deferimento de medida liminar a fim de que “seja determinada a suspensão cautelar da execução da pena”. No mérito, pleiteia a concessão da ordem “para afastar a agravante da reincidência pela condenação anterior ao crime do artigo 28 da Lei 11.343/06, bem como para readequar a pena para 03 anos de reclusão, fixar o regime inicial aberto e, como consequência, substituir a pena privativa de liberdade por penas restritivas de direitos, nos moldes do artigo 44 do CP, determinando-se a imediata expedição de ALVARÁ DE SOLTURA”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) firmou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF.
+    9. A orientação jurisprudencial do STF é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia.
+    10. Ademais, a “prisão decorrente de sentença criminal transitada em julgado encontra arrimo na jurisprudência consolidada deste Supremo Tribunal Federal. O ajuizamento da ação revisional não impede a execução da pena definitiva” (HC 120.492, Relª. Minª. Rosa Weber).
+    11. Não bastasse isso, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva.
+    12. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de março de 2020.
+Ministro Luís Roberto Barroso
+                            Relator
