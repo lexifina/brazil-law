@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA – DECISÃO JUDICIAL – TRÂNSITO EM JULGADO – VERBETE Nº 268 DA SÚMULA DO SUPREMO – SEGUIMENTO – NEGATIVA.
+    1. O assessor William Akerman Gomes assim retratou o caso:
+    O recorrente insurge-se contra acórdão da Corte Especial do Superior Tribunal de Justiça por meio do qual indeferida segurança voltada a invalidar decisão individual reconhecendo a prescrição da pretensão punitiva, na modalidade intercorrente, relativa a crime de tortura do qual foi vítima.
+    Eis a síntese do pronunciamento recorrido:
+    PENAL E PROCESSUAL PENAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. ORDEM IMPETRADA CONTRA DECISÃO JUDICIAL. TERATOLOGIA. NÃO OCORRÊNCIA. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. DECISÃO JURIDICAMENTE FUNDAMENTADA. MANDADO DE SEGURANÇA IMPETRADO CONTRA DECISÃO PASSÍVEL DE RECURSO PRÓPRIO, DA TITULARIDADE DO MINISTÉRIO PÚBLICO. WRIT IMPETRADO CONTRA DECISÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 267/STF E 268/STF. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ENTENDIMENTO PACIFICADO NO ÂMBITO DO STJ A PARTIR DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL.
+    1. "Este Superior Tribunal e a Suprema Corte possuem jurisprudência pacífica quanto à impossibilidade de intervenção de terceiros no habeas corpus, seja na condição de amicus curiae ou como assistente de acusação, por se tratar de ação constitucional que objetiva garantir a liberdade de locomoção dos pacientes" (HC 411.123/RJ, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 06/03/2018, DJe de 22/06/2018).
+    2. É incabível mandado de segurança contra decisão judicial transitada em julgado, consoante disposto no art. 5º, inciso III, da Lei 12.016/2009 e verbete da Súmula 268/STF.
+    3. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Rel. Ministro Nefi Cordeiro, DJe de 2/10/2018).
+    4. É vedada à parte impetrante a inovação do pedido e da causa de pedir, com a apresentação, somente nas razões do agravo interno, de tese não veiculada na inicial. Precedentes.
+    5. Agravo interno não provido.
+    Afirma cabível o mandado de segurança, apontando, a justificá-lo, teratologia no ato atacado. Sustenta impertinentes o artigo 5º, inciso II, da Lei nº 12.016/2009 e o verbete nº 268 da Súmula deste Tribunal, ao argumento de figurar como terceiro interessado e não haver atuado no recurso especial em habeas corpus no qual formalizada a decisão questionada. Assevera possuir, na condição de vítima do crime, direito líquido e certo a ver afastada a extinção da punibilidade. Assinala equivocado o reconhecimento da prescrição na modalidade intercorrente. Frisa violada a coisa julgada formada no processo em que determinada, ao autor do fato, condenação. Destaca o ajuizamento, pelos condenados, de revisão criminal perante o Tribunal de Justiça do Estado de Minas Gerais, julgada improcedente.
+    Pede tutela provisória recursal visando suspender o pronunciamento de 18 de agosto de 2017 no agravo regimental no recurso especial nº 1.440.707, interposto em habeas corpus. No mérito, busca o provimento do recurso, com o deferimento da ordem para anular o ato judicial impugnado.
+    A União, em contrarrazões, diz do acerto do acórdão atacado.
+    2. A análise do andamento processual demonstra ocorrido o trânsito em julgado em 11 de setembro de 2017, anteriormente ao ajuizamento desta ação mandamental, em 23 de novembro seguinte. O mandado de segurança não faz as vezes de ação rescisória, tampouco de revisão criminal – verbete nº 268 da Súmula do Supremo.
+    3. Nego seguimento ao recurso. Declaro o prejuízo do pedido de tutela provisória recursal.
+    4. Publiquem.
+Brasília, 10 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
