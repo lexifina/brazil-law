@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Superior Tribunal de Justiça assentou, de ofício, a extinção da punibilidade do réu em decorrência da prescrição da pretensão punitiva, tendo como marco interruptivo somente a publicação da sentença condenatória. No extraordinário, o recorrente aponta violado o artigo 5º, incisos II e LIV, da Constituição Federal. Assevera afronta aos princípios da proporcionalidade, da proteção deficiente e da legalidade, tecendo considerações acerca da legislação de regência. Discorre sobre o tema de fundo, alegando ter o acórdão confirmatório da condenação implicado a interrupção da prescrição. Indica precedentes do Supremo.
+    2. Eis a síntese do pronunciamento recorrido:
+    Ademais, a Segunda Turma do Supremo Tribunal Federal, no julgamento do AgRg no RE n.º 1.202.790/GO, em 28/06/2019, ratificou o entendimento de que o acórdão confirmatório da condenação não possui o condão de interromper o curso da prescrição da pretensão punitiva e de que a discussão da referida matéria não demanda a análise direta de dispositivos constitucionais. Confira-se, a esse respeito, a ementa do referido julgado:
+      "RECURSO EXTRAORDINÁRIO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA – AUSÊNCIA DE OFENSA DIRETA – PRETENDIDO AFASTAMENTO DA EXTINÇÃO DA PUNIBILIDADE DO RÉU – ALEGADA EFICÁCIA INTERRUPTIVA DO ACÓRDÃO CONFIRMATÓRIO (QUE CONFIRMA SENTENÇA CONDENATÓRIA) – INOCORRÊNCIA – AGRAVO INTERNO IMPROVIDO. – Jurisprudência desta Suprema Corte, cujas decisões corretamente distinguem, para efeito de interrupção da prescrição penal (CP, art. 117, IV), entre acórdão condenatório e acórdão meramente confirmatório de anterior condenação penal, em ordem a não atribuir eficácia interruptiva do lapso prescricional à decisão do Tribunal que simplesmente nega provimento ao recurso interposto pelo réu contra anterior sentença condenatória. Precedentes. Doutrina." (RE 1.202.790 AgR, Rel. Ministro Relator CELSO DE MELLO, Segunda Turma, julgado em 28/06/2019).
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Constituição Federal, pretende-se guindar a este Tribunal recurso que não se enquadra no inciso III do artigo 102 nela contido.
+    3. Nego seguimento ao recurso extraordinário.
+    4. Publiquem.
+Brasília, 10 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
