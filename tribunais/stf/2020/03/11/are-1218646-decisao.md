@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional contra o acórdão da Corte de origem.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO CÍVEL. ADMINISTRATIVO. FGTS. CUMPRIMENTO DA SENTENÇA. RECOMPOSIÇÃO DA CONTA FUNDIÁRIA. FIXAÇÃO DE HONORÁRIOS. CUMPRIMENTO ESPONTÂNEO. IMPROVIMENTO.
+    1. Trata-se de apelação cível interposta por Waldir Vieira da Silva contra sentença que julgou extinta a execução, nos termos do art. 794, I do CPC, dando por cumprida a obrigação de reconstituir o saldo da conta vinculada ao FGTS, aplicando os índices expurgados, conforme determinado no título judicial.
+    2. No presente caso, trata-se de cumprimento de obrigação na qual foi a ré condenada a recompor o saldo da conta vinculada ao FGTS, aplicando os expurgos inflacionários sobre o saldo da conta do fundista.
+    3. Com efeito, a questão relativa aos juros de mora restou superada em razão do acolhimento da alegação da CEF pelo juízo de 1° grau, que analisou minuciosamente a matéria - verificando que se operou a preclusão acerca dos juros.
+    4. Quanto aos honorários de sucumbência, da análise dos autos, verifica-se que a CEF efetuou os créditos na conta do titular, não tendo oferecido resistência infundada. Ressalte-se, conforme já analisado, que as partes divergiram quanto aos valores, sendo os autos remetidos várias vezes à Contadoria para verificação e elaboração de cálculos.
+    5. Ademais, importa salientar que, após ter sido encerrado o processo de execução, com sentença terminativa, o autor se insurgiu, interpondo recurso, tendo o juízo se retratado, determinando a remessa dos autos à Contadoria e, ao final da discussão acerca do quantum devido, a CEF adimpliu espontaneamente a obrigação, razão pela qual não há que se falar em fixação de honorários em execução.
+    6. Apelação conhecida e improvida.
+    No recurso extraordinário sustenta-se violação do(s) artigo(s) 5º. incisos II, XXXV, XXXVI, LIV, LV; 93, inciso IX; 100, §§ 3º, 8º e 12; e 133 da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o(s) dispositivo(s) indicado(s) como violado(s) no recurso extraordinário carece(m) do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas 282 e 356 desta Corte. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli (Presidente), DJe de 18/12/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. INEXISTÊNCIA DE DEBATE NO TRIBUNAL DE ORIGEM SOBRE A AFRONTA CONSTITUCIONAL APONTADA. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO NÃO DEMONSTRADO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, RESSALVADA EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.144.189/ES-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 3/12/18).
+    Ante o exposto, nego seguimento ao(s) recurso(s) (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 11 de março de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
