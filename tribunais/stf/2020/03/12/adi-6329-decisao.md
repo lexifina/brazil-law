@@ -1,0 +1,29 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE – LIMINAR – ARTIGO 12 DA LEI Nº 9.868/1999 – JULGAMENTO DEFINITIVO.
+    1. O assessor Hazenclever Lopes Cançado Júnior prestou as seguintes informações:
+    Confederação Nacional das Carreiras Típicas de Estado – Conacate ajuizou esta ação, com pedido de liminar, buscando seja declarada a compatibilidade, com a Constituição Federal, dos artigos 1º, 2º e 3º da Lei nº 11.087, de 5 de março de 2020, do Estado de Mato Grosso, a versar criação de verba indenizatória a agentes públicos. Eis o teor dos preceitos impugnados:
+    Art. 1º Fica alterado o art. 1º da Lei nº 8.555, de 19 de setembro de 2006, com a redação dada pela Lei nº 8.941, de 29 de julho de 2008, que passa a vigorar com a seguinte redação:
+     “Art. 1º Fica instituída verba de natureza indenizatória pelo exercício de atividades fins de controle externo aos ocupantes dos cargos de Auditor Público Externo, Auxiliar de Controle Externo, Técnico de Controle Público Externo e aos membros do Tribunal de Contas do Estado, nos termos do §11 do art. 37 da Constituição Federal.”
+    Art. 2º Fica instituída uma verba indenizatória no valor correspondente ao subsídio de DGA-2 em favor dos Secretários Estaduais, Procurador - Geral do Estado e Presidentes de Autarquias e Fundações e no valor correspondente ao subsídio de DGA-3 aos Secretários-Adjuntos, quando em efetivo exercício das atividades do cargo, de forma compensatória ao não reembolso de diárias referentes a viagens dentro do Estado.
+    § 1º A verba de que trata o caput será paga mensalmente em efetivo exercício das atividades do cargo, não sendo devida em períodos de gozo de férias.
+     § 2º Os servidores ocupantes dos cargos previstos no caput que já percebam verba indenizatória de mesma natureza definida em lei específica não fazem jus à percepção da verba prevista no caput.
+     § 3º A verba indenizatória definida no caput não cobrirá gastos de terceiro, bem como não incorporará definitivamente na remuneração do agente político.
+     Art. 3º. Ficam acrescentados o art. 3-A, parágrafos 1º e 2º, e o art. 3º-B à Lei 8555, de 19 de setembro de 2006, com a seguinte redação:
+     “Art. 3º-A. Os membros do Tribunal de Contas fazem jus à indenização mensal, de forma compensatória ao não recebimento de ajuda de custo de transporte, passagens e diárias dentro do Estado, entre outras despesas ou perdas inerentes ao desempenho de suas atividades institucionais e de controle externo, a ser regulamentada por provimento do Tribunal.
+    § 1º Para fins de aplicação desta Lei, consideram-se membros do Tribunal de Contas do Estado os Conselheiros, os Procuradores do Ministério Público de Contas e os Auditores Substitutos de Conselheiros.
+    § 2º O valor da indenização a se refere o caput deste artigo será de até um subsídio dos cargos de Conselheiro, de Procurador do Ministério Público de Contas e de Auditor Substituto de Conselheiro.
+    Art. 3º-B. Fica instituída indenização ao Presidente no valor correspondente a 50% (cinquenta por cento) do fixado no parágrafo 2º do art. 3º-A, relacionada ao desempenho das funções institucionais de representatividade do Tribunal de Contas do Estado, além daquelas destinadas a compensar o exercício das funções institucionais ordinárias de controle externo”
+    Ressalta a própria legitimidade, na forma do artigo 103, inciso IX, da Carta da República, tendo em vista a condição de entidade de âmbito nacional representativa da categoria dos servidores públicos civis estaduais. Justifica a pertinência temática no fato de a aplicação dos dispositivos em jogo traduzir-se em desrespeito à moralidade administrativa e ao livre exercício das atividades de controle e fiscalização, afetando os interesses dos associados.
+    Aponta contrariedade ao princípio da paridade de garantias, vencimentos e prerrogativas entre os Conselheiros e Procuradores do Tribunal de Contas e os membros do Tribunal de Justiça e do Ministério Público do mesmo ente federado, nos termos dos artigos 73, § 3º, e 130 da Constituição Federal. Evoca precedente do Supremo. Assevera que atividades de controle externo são remuneradas via subsídio, sendo a indenização voltada ao ressarcimento, a pressupor a comprovação de despesa efetuada durante a prestação de serviço público.
+    Segundo narra, a criação da verba indenizatória não observou os princípios constitucionais da proporcionalidade, razoabilidade e publicidade dos impactos orçamentários, tampouco o dever de prestação de contas derivado do princípio republicano previsto no parágrafo único do artigo 70 da Carta da República.
+    Aduz que, a teor do artigo 39, § 4º, da Lei Maior, Secretários Estaduais são remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória.
+    Assinala a natureza remuneratória, submetida ao teto, da indenização, em percentual do subsídio, devida ao Presidente do Tribunal de Contas estadual ante o desempenho das funções institucionais de representatividade do Órgão. Diz violado o artigo 37, incisos XI, XIII e XIV, da Constituição Federal.
+    Sob o ângulo do risco, sustenta o alto dispêndio de verbas públicas, considerada a fragilidade financeira do Estado.
+    Requer, liminarmente, a suspensão da eficácia das normas atacadas. Busca a confirmação da tutela de urgência com a declaração de inconstitucionalidade dos artigos 1º, 2º e 3º Lei nº 11.087, de 5 de março de 2020, do Estado de Mato Grosso.
+    O processo encontra-se concluso no Gabinete.
+    2. A racionalidade própria ao Direito direciona no sentido de aguardar-se o julgamento definitivo.
+    3. Aciono o disposto no artigo 12 da Lei nº 9.868/1999. Providenciem as informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República.
+    4. Publiquem.
+Brasília, 12 de março de 2020
+Ministro MARCO AURÉLIO
+Relator
