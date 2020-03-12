@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 3ª Região confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime previsto no 1º, inciso I, da Lei nº 8.137/90. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, incisos XLVI, XLVII, LIV e LV, e 93, inciso IX, da Constituição Federal. Sustenta a nulidade do acórdão recorrido por ausência de fundamentação sobre o cerceamento de defesa e o pedido de conversão do julgamento em diligência para novo interrogatório do réu. Diz contrariados os princípios da ampla defesa e do contraditório. Discorre sobre a necessidade de individualização da pena na fixação do regime inicial de cumprimento da reprimenda.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão os seguintes trechos:
+    Primeiramente, sobre a preliminar suscitada, tenho por certo que não merece acolhimento eis que não houve qualquer nulidade no processamento do feito.
+    O cerceamento de defesa alegado no recurso do réu não ocorreu, tendo em vista que os sucessivos pedidos de adiamento do interrogatório partiram da própria defesa constituída, revelando, é certo, tratar-se de estratégia defensiva.
+    O motivo para o último adiamento seria o acesso a documentos que teriam sido apreendidos por ordem do Juízo Estadual da 8ª Vara Cível, os quais seriam imprescindíveis para a realização do interrogatório.
+    Ocorre que não houve comprovação da alegada necessidade de acesso aos aludidos documentos, os quais, aliás, não sobrevieram aos autos em momento posterior. Ora, se realmente fossem tão importantes os tais documentos, é certo que a defesa constituída do réu teria providenciado sua juntada o quanto antes.
+    Ademais, não se constatou a ocorrência de qualquer prejuízo à defesa, que foi exercida de modo pleno, combativo, tendo inclusive obtido êxito parcial em suas argumentações, haja vista que não houve procedência total da denúncia contra o réu.
+    Confiram o seguinte trecho do acórdão revelador dos declaratórios:
+    Relativamente à questão do regime de cumprimento da pena, não foi sequer suscitada no recurso.
+    À obviedade, não foi enfrentado no acórdão embargado pois restou mantido o regime semiaberto fixado no decisum, por seus próprios fundamentos.
+    Caso outro fosse o entendimento, por certo o acórdão embargado enfrentaria a questão.
+    O Colegiado de origem consignou inexistente o cerceamento de defesa apontado em razão da ausência de demonstração de prejuízo ao réu. Assentou, ainda, alheio à apelação o debate sobre o regime inicial de cumprimento de pena fixado em sentença. As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Ademais, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, relatado pelo ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
