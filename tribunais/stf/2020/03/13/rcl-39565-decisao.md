@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação ajuizada em face de acórdão mediante a qual o Tribunal Regional do Trabalho da 18ª Região, ao negar seguimento a recurso de revista apresentado, manteve a condenação subsidiária da parte reclamante pelo pagamento de verbas trabalhistas de empregado de empresa contratada para prestação de serviços junto ao Estado.
+    Na reclamação, aponta-se violação do entendimento firmado no julgamento da ADC 16 e do RE 760.931/DF, paradigma do citado tema.
+    Sustenta-se, em síntese, que o ato reclamado, ao reconhecer a responsabilidade subsidiária da Administração Pública pelos débitos trabalhistas de empresa contratada em contrato de terceirização, violou o disposto no art. 71, § 1º, da Lei 8.666/93.
+    Dispenso a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    No julgamento do mérito do RE 760.931 (paradigma do Tema 246 da repercussão geral) fixou-se a seguinte tese: “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.”
+    Por sua vez, o Tribunal Regional do Trabalho da 18ª Região, quando da análise do Recurso ordinário, confirmou a sentença a qual reconheceu a responsabilidade subsidiária da reclamante por débitos trabalhistas com base na culpa in vigilando da Administração, ao faltar com o dever de fiscalização do cumprimento das obrigações trabalhistas por parte da devedora principal, com base nos seguintes fundamentos (eDOC 4, p. 63):
+    “Noto, no caso dos autos, que o tomador dos serviços, Estado de Goiás, não fiscalizou de modo eficaz o cumprimento das obrigações trabalhistas que deveriam ser suportadas pela prestadora dos serviços, mesmo porque houve condenação quanto a salários dos meses de julho, agosto, setembro e outubro/2018, não havendo, inclusive, nos autos indício de fiscalização concernente ao pagamento das verbas rescisórias. Resta, portanto, configurada a conduta culposa e a consequente responsabilidade subsidiária do tomador de serviços, nos termos do item V da Súmula 331 do TST. ”
+    Em hipóteses como a dos autos, a jurisprudência do Supremo Tribunal Federal entende não haver violação da autoridade da decisão proferida em processo com repercussão geral reconhecida (Tema 246, RE 760.931), pois, conforme se depreende da tese naquela ocasião fixada pelo Plenário da Suprema Corte e acima descrita, o que se veda é a transferência automática da responsabilidade dos encargos trabalhistas ao Poder Público, seja em caráter solidário ou subsidiário, nos termos do art. 71, §1º, da Lei 8.666/93.
+    Não houve, na espécie, transferência automática de responsabilidade.
+    A reclamação, explicita-se, não constitui via adequada para debater premissas fáticas da decisão, como pretende o reclamante quando alega que os documentos e provas produzidos nos autos originários conduzem à conclusão sobre a existência de fiscalização por parte do Município.
+    Inviável, portanto, o manejo da reclamação.
+    Ante o exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação, ficando prejudicado o pedido de liminar.
+    Publique-se. Intime-se
+    Brasília, 13 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
