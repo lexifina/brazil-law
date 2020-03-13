@@ -1,0 +1,18 @@
+RECLAMAÇÃO MANEJADA PARA DISCUTIR ATO JUDICIAL JÁ ACOBERTADO PELA COISA JULGADA. ART. 988, 5º, I, DO CPC/2015. SÚMULA 734/STF. NÃO CABIMENTO SEGUIMENTO NEGADO.
+    Vistos, etc.
+    1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Cemig Distribuição S/A, com fulcro no art. 102, I, “l”, da Constituição Federal e no artigo 156 do RISTF, em face de acórdão proferida pelo Tribunal Regional do Trabalho da 3ª Região nos autos do processo nº 0010623-64.2016.5.03.0096.
+    2. A parte reclamante sustenta que, ao reconhecer a responsabilidade subsidiária da reclamante ao pagamento de verbas trabalhistas de empregados de empresa prestadora de serviços, a autoridade reclamada negou vigência ao §1º do artigo 71 da Lei nº 8.666/1993, vulnerando a Súmula Vinculante nº 10 do STF.
+    Aduz que, ao aplicar o enunciado da Tese Jurídica Prevalecente nº 23 do TRT da 3ª Região, o qual confere ao ente público o ônus da prova quanto à efetiva fiscalização dos contratos de trabalho de terceirização, o Juízo trabalhista teria novamente violado o verbete vinculante mencionado, por afastar o art. 8º, §2º, da CLT. Relata que o dispositivo legal veda a criação de obrigação não prevista em lei pela Justiça do Trabalho.
+    Dessume, ainda, que o acolhimento da tese obreira infringiu a autoridade da decisão desta Suprema Corte exarada no RE 760.931-RG, no qual fixada a seguinte tese: “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93”.
+    3. Requer a concessão de medida cautelar, a fim de que seja determinada a suspensão da eficácia da decisão reclamada, nos termos do art. 989, II, do CPC/2015. No mérito, pugna pela procedência do pedido para cassar a decisão reclamada.
+    4. Deixo de determinar a citação da parte beneficiária do ato judicial reclamado, em decorrência da manifesta inviabilidade da reclamação. Igualmente, dispenso a intimação da autoridade reclamada para prestar informações, bem como do Procurador-Geral da República para ofertar parecer, por tratar a demanda de matéria repetitiva.
+    É o relatório.
+    Decido.
+    1. Em consulta ao sítio do Tribunal Superior do Trabalho, verifico que a decisão que negou provimento ao agravo interno em recurso extraordinário foi publicada em 19.02.2020, com trânsito em julgado em 28.02.2020, tendo sido os autos remetidos ao Tribunal Regional do Trabalho da 3ª Região em 05.03.2020.
+    2. Como a presente reclamação foi protocolada somente em 03.03.2020, a pretensão nela deduzida encontra óbice no art. 988, 5º, I, do CPC/2015, segundo o qual é inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada, e na Súmula 734/STF, cujo teor é o seguinte: “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    3. Anoto, ainda, que a jurisprudência deste Supremo Tribunal Federal é firme no sentido da “impossibilidade de restabelecimento do debate sobre questão com decisão transitada em julgado” (Rcl 22.385-AgR/SP, Rel. Min. Cármen Lúcia, 2ª Turma; DJe 25.02.2016); e da “impossibilidade do uso da reclamação como sucedâneo de ação rescisória” (Súmula STF nº 734) (Rcl 19.884-AgR/BA, Rel. Min. Dias Toffoli, 2ª Turma, DJe 01.7.2015).
+    4. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o pedido liminar.
+    Publique-se.
+    Brasília, 13 de março de 2020.
+Ministra Rosa Weber
+Relatora
