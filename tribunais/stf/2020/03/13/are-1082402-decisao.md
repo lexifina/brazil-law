@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, IX, e 39, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local que fundamentou o acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. FÉRIAS-PRÊMIO. PERÍODO DE SERVIÇO ANTERIOR PRESTADO À MUNICIPALIDADE. POSSIBILIDADE DO CÔMPUTO. ADICIONAL POR TEMPO DE SERVIÇO. INCIDÊNCIA SOBRE A VANTAGEM DECORRENTE DE APOSTILAMENTO. LEI MUNICIPAL Nº 5.809/1990. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 21.8.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido” (ARE 878.025-AgR, de minha lavra, 1ª Turma, DJe 26.5.2015).
+    “Agravo regimental em recurso extraordinário. 2. Servidor público efetivo. Férias-prêmio não gozadas. Conversão em espécie. Necessidade de análise e interpretação da legislação infraconstitucional aplicável (Constituição estadual mineira). Ofensa reflexa. 3. Violação ao princípio da legalidade. Enunciado n. 636. 4. Agravo regimental a que se nega provimento” (RE 653.010-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.9.2012).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de março de 2020.
+Ministra Rosa Weber
+Relatora
