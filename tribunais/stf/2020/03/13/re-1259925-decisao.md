@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – NEGATIVA – SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado do Paraná confirmou o entendimento do Juízo quanto à improcedência do pedido de diferenças salariais. No extraordinário, o recorrente aponta violados os artigos 5º, cabeça, e 39, inciso I e § 4º, da Constituição Federal. Articula com a inconstitucionalidade da Lei estadual nº 17.170/2012, à medida que fixa critérios de progressão horizontal em carreira de servidores públicos cuja remuneração submete-se ao regime de subsídio. Insurge-se contra a majoração dos honorários na origem, afirmando ter jus ao benefício da gratuidade.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea “c” do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do recorrente, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal.
+    Atentem para o decidido na origem. O Colegiado de origem concluiu pela improcedência do pedido de diferenças salariais, afirmando a legalidade da norma mediante a qual instituído o escalonamento em referências para pagamento do subsídio de Policiais Militares. À mercê de articulação sobre a violência à Lei Maior, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: “Por ofensa a direito local não cabe recurso extraordinário” –, o acesso ao Supremo.
+    Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça, consoante decidido por ambas as Turmas do Supremo em situações análogas – precedentes: recurso extraordinário nº 674.124, relatora ministra Cármen Lúcia, Segunda Turma, com acórdão publicado no Diário da Justiça de 23 de abril de 2014; embargos de declaração no recurso extraordinário com agravo nº 905.564, relator ministro Luiz Fux, Primeira Turma, com acórdão publicado no Diário da Justiça de 18 de maio de 2017.
+    No mais, no tocante aos honorários advocatícios a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Nego seguimento o extraordinário.
+    4. Publiquem.
+Brasília, 13 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
