@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CÍVEL N. 1004586-47.2018.8.11.0003
+RECORRENTE: CONCEIÇÃO SENA DE SOUSA
+RECORRIDO: BANCO BONSUCESSO CONSIGNADO S.A.
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 33029957), com pedido de efeito suspensivo, interposto por CONCEIÇÃO SENA DE SOUSA, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Terceira Câmara de Direito Privado deste Sodalício, assim ementado (Id. 28876992):
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL – ALEGAÇÃO DE INSCRIÇÃO INDEVIDA - EMPRÉSTIMO DEVIDAMENTE CONTRATADO – DEVER DE INDENIZAR INEXISTENTE – RECURSO DESPROVIDO. A responsabilidade da instituição financeira requerida pelos danos causados aos seus clientes/consumidores é objetiva, sendo desnecessária a comprovação de culpa pelo ilícito, nos termos do artigo 14 do CDC. Malgrado a aplicação do Código de Defesa do Consumidor, há necessidade de demonstração mínima dos fatos elencados na inicial, ao passo que, se a instituição financeira comprova a adesão da parte autora ao contrato de financiamento, assim como a licitude da negativação decorrente do inadimplemento das parcelas, não há que falar em ato ilícito indenizável.” (Ap 1004586-47.2018.8.11.0003, DES. JOSE ZUQUIM NOGUEIRA, TERCEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 18/12/2019, Publicado DJE em 22/01/2020)
+Alega violação aos arts. 5°, V, da Constituição Federal; 186 e 927, ambos do CC, e 373, II, do CPC, além de divergência jurisprudencial, ao argumento de que restou demonstrado nos autos que não houve a contratação do empréstimo pelo qual fora negativado.
+O efeito suspensivo foi indeferido, ID n. 33113039.
+O Recorrido apresentou contrarrazões ID n. 35992492.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Violação ao art. 5o, V da Constituição Federal. Via inadequada
+Consoante o artigo 5o, V da Constituição Federal, é patente que a afronta a dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação dada a dispositivo de lei federal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO EMBARGADO. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS E A PRINCÍPIOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA. COMPETÊNCIA CONSTITUCIONAL DO PRETÓRIO STF. EMBARGOS REJEITADOS. I - "Segundo esta Corte Superior, a violação às normas inseridas na Constituição Federal não pode ser analisada no âmbito do apelo nobre pois, consoante farta jurisprudência deste Sodalício, não é possível apreciar malferição a dispositivos da Carta Magna Constitucional, em sede de recurso especial, porquanto a análise da referida matéria por este Superior Tribunal de Justiça importaria em verdadeira usurpação da competência do Supremo Tribunal Federal. Precedentes." (...) (EDcl no AgRg no AREsp 1478975/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019) (grifei)
+Assim, em relação à suposta violação ao artigo 5o, V da Constituição Federal, o Recurso Especial constitui via inadequada para a análise da questão, o que obsta a sua admissão neste ponto.
+Violação aos artigos 373, II do CPC e artigos 186 e 927 do Código Civil. Reexame de matéria fática. Súmula 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais, o que afasta o exame de matéria fático-probatória, conforme dispõe a sua Súmula 7/STJ.
+Ao apontar a violação aos artigos 373, II do CPC e 186 e 927 do CC, a Recorrente sustenta a ausência dos pressupostos ensejadores da reparação civil à título de dano moral, tendo em vista restou demonstrado nos autos que não houve a contratação do empréstimo pelo qual fora negativado.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre estes pontos, é necessário o exame dos fatos e provas dos autos, o que atrai óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR. 1. A reforma do julgado estadual, a fim de afastar a afirmação contida na decisão atacada acerca da existência dos elementos caracterizadores da responsabilidade civil, ensejaria necessário o reexame das provas juntadas aos autos, providência vedada na via eleita, por força da Súmula 7/STJ. Precedentes. 2. A análise de eventual ofensa ao artigo 373 do CPC/15, tal como posta a questão nas razões do apelo extremo, exigiria rediscussão de matéria fático-probatória, providência vedada nesta sede a teor do óbice previsto na Súmula 7 desta Corte. Precedentes. 3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade. Precedentes. 4. Agravo interno desprovido. (AgInt no AREsp 1374426/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/03/2019, DJe 22/03/2019)
+Igual entendimento é aplicado à alegada afronta aos artigos 186, e 927 do CC, a controvérsia se refere à prática de ato ilícito ou antijurídico a ensejar a condenação da parte recorrente ao pagamento de indenização por dano moral, todavia atrai igualmente o óbice sumular acima mencionado.
+Nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AOS ARTS. 186 E 927 DO CÓDIGO CIVIL. TRIBUNAL A QUO ENTENDEU CONFIGURADA A RESPONSABILIDADE CIVIL DA AGRAVANTE. AUSÊNCIA DE COMPROVAÇÃO DO CONLUIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO. 1. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela responsabilidade civil da ora agravante para responder pelos atos de seu empregado, porque não comprovado o alegado conluio deste com empregados da sociedade empresária agravada. A pretensão de alterar tal entendimento, sob alegada ofensa aos arts. 186 e 927 do Código Civil, demandaria o reexame do acervo fático-probatório, inviável em recurso especial, ante a incidência da Súmula 7/STJ. 2. A incidência da Súmula 7/STJ também é óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. 3. Agravo interno desprovido. (AgInt no AREsp 1379466/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 15/04/2019) ”.
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Posto isso, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 11 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+IV
