@@ -1,0 +1,30 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NO AGRAVO DE INSTRUMENTO N. 1008515-97.2018.8.11.0000
+RECORRENTE: DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO
+RECORRIDO: MUNICÍPIO DE JUARA
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 27208963) interposto pela DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo deste Sodalício, assim ementado (Id. 16292482):
+“AGRAVO DE INSTRUMENTO — DIREITO CONSTITUCIONAL — EXECUÇÃO FISCAL — CUMPRIMENTO DE SENTENÇA — HONORÁRIOS ADVOCATÍCIOS — DEFENSORIA PÚBLICA — NÃO CABIMENTO — PRECEDENTES DESTE TRIBUNAL — RECURSO DESPROVIDO. Diante da nova redação conferida ao art. 134, caput, da Constituição Federal pela Emenda Constitucional no 80/14, a Defensoria Pública não mais faz jus ao recebimento de honorários advocatícios, seja quando atua contra pessoa jurídica de direito público a que pertença, seja quando o faz em relação a ente federativo diverso, devendo prestar sua função institucional de forma integral e gratuita. Dispensar os documentos constantes nos artigos 443 §2° e 444, ambos do Provimento 41/2016 da CGJ/MT, necessários ao levantamento dos valores, culminaria em admitir conduta contrária à EC No 80/2014, incompatível, portanto com o ordenamento jurídico hodierno. Recurso desprovido.” (AI 1008515-97.2018.8.11.0000, DR. MARCIO APARECIDO GUEDES, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 09/10/2019)
+Alega violação aos arts. 9o, da Lei n. 1060/50 e 98 do CPC, ao argumento de que a condenação ao pagamento de honorários advocatícios em favor da Defensoria Pública Estadual já transitou em julgado, não cabendo mais discussão, sendo descabida as exigências de custeio e/ou apresentação de cópias de documentos essenciais para a expedição de ofício requisitório.
+Recurso tempestivo (Id. 28412465).
+Ausente contrarrazões, consoante certidão de Id. 36376972.
+É o relatório.
+Decido.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC/2015.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do acórdão impugnado, ou se referidos comandos são dissociados das razões recursais a ele relacionadas, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. RECEITA BRUTA. INCIDÊNCIA DO IRPJ, CSSL, PIS E COFINS. CONCEITO DE PERMUTA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE O ACÓRDÃO RECORRIDO TERIA VIOLADO OU AO QUAL TERIA DADO INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF, APLICADA POR ANALOGIA. ALEGADA VIOLAÇÃO AO ART. 30 DA LEI 8.981/95. AUSÊNCIA DE COMANDO NORMATIVO CAPAZ DE INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO. I. Agravo interno aviado contra decisão publicada em 10/09/2018, que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73. II. No caso, a parte recorrente, nas razões do Especial, fundamentado nas alíneas a e c do permissivo constitucional, não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura teriam sido violados ou objeto de interpretação divergente, pelo Tribunal de origem. III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgRg no AREsp 732.546/MA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/11/2015. IV. A jurisprudência do STJ "firmou-se no sentido de que é deficiente o Recurso Especial quando o dispositivo legal tido por violado não ampara a tese defendida pelo recorrente ou não contém normativo suficiente para infirmar o acórdão recorrido. Incide, por analogia, o óbice da Súmula 284/STF" (STJ, AgRg no REsp 1.539.607/MT Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/11/2015). V. Agravo interno improvido.” (AgInt no REsp 1465454/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/02/2019, DJe 13/02/2019) (destaquei)
+In casu, o comando normativo dos dispositivos legais apontados como violados (art. 9° da Lei n. 1.060/50 e art. 98 do CPC), que dispõe acerca do direito à gratuidade judiciária e sua extensão a todos os atos do processo, até decisão final, revela-se inapto a sustentar a tese recursal aventada, de impossibilidade de revisão de matéria já decidida, e a infirmar os fundamentos do aresto, voltados ao não cabimento de honorários sucumbenciais em favor da Defensoria Pública após a EC 80/2014, impossibilitando, consequentemente, a exata compreensão da matéria apresentada.
+Dessa forma, consoante o óbice sumular supracitado, inadmissível o inconformismo por deficiência na sua fundamentação.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 13 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
