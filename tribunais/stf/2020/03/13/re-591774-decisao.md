@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DA COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Superior Tribunal de Justiça negou provimento a agravo interposto contra decisão negativa de seguimento de recurso especial aludindo, em síntese, à natureza constitucional da controvérsia. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, incisos XXXV e LV, 93, inciso IX, e 105, inciso III, da Constituição Federal. Discorre sobre o tema de fundo, apontando as questões federais a justificar o processamento do especial.
+    Uma vez em jogo controvérsia sobre cabimento de recurso da competência de Corte diversa, a via do extraordinário só é aberta quando o acórdão proferido revela tese contrária a texto da Carta da República. Isso não ocorreu na espécie.
+    Eis a síntese da decisão proferida pelo Superior Tribunal de Justiça:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU FALTA DE MOTIVAÇÃO NO ACÓRDÃO A QUO. MATÉRIA DE CUNHO CONSTITUCIONAL EXAMINADA NO TRIBUNAL A QUO. IMPOSSIBILIDADE DE APRECIAÇÃO DO APELO.
+    1. Agravo regimental contra decisão que negou provimento a agravo de instrumento ante a inexistência de omissão na decisão recorrida e por ter o acórdão local tratado de matéria de cunho predominantemente constitucional.
+    2. O acórdão a quo apreciou demanda acerca da exigibilidade da Taxa de Saúde Complementar, instituída pela Lei n° 9.961/00.
+    3. Ocorrendo omissão de apreciação de ponto levantado no Especial, faz-se a sua necessária correção.
+    4. Argumentos da decisão a quo que são claros e nítidos. Não dão lugar a omissões, obscuridades, contradições ou ausência de motivação. O não-acatamento das teses contidas no recurso não implica cerceamento de defesa. Ao julgador cabe apreciar a questão de acordo com o que ele entender atinente à lide. Não está obrigado o magistrado a julgar a questão posta a seu exame de acordo com o pleiteado pelas partes, mas sim com o seu livre convencimento (art. 131 do CPC), utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso. Não obstante a oposição de embargos declaratórios, não são eles mero expediente para forçar o ingresso na instância especial, se não há omissão a ser suprida. Inexiste ofensa aos arts. 463, II, e 535, II, do CPC quando a matéria enfocada é devidamente abordada no aresto a quo.
+    5. Quanto à matéria de fundo, não se conhece de recurso especial quando a decisão atacada baseou-se, como fundamento central, em matéria de cunho eminentemente constitucional, cuja competência é, apenas, do augusto STF. Apesar de haver fundamento infraconstitucional e dissídio jurisprudencial a respeito, não prevalecem estes em detrimento da abordagem central de natureza constitucional.
+    6. Agravo regimental parcialmente provido.
+    Em momento algum, foi adotado entendimento conflitante com a Constituição Federal. A alegação de ofensa ao Diploma Maior apenas visa a deslocar o processo ao Supremo, mostrando-se de todo imprópria.
+    No recurso extraordinário nº 598.365/MG, da relatoria do ministro Ayres Britto, o denominado Plenário Virtual, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema relativo ao cabimento de recursos da competência dos demais tribunais.
+    No mais, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, relatado pelo ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 13 de março de 2020
+Ministro MARCO AURÉLIO
+Relator
