@@ -1,0 +1,73 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (DOC 22, p. 15):
+    Apelação. Crime de tráfico de drogas. Sentença condenatória. Recurso defensivo. 1. Quadro probatório suficiente a demonstrar a responsabilidade penal do acusado. 2. Sanção final que não merece alteração. Recurso desprovido.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário (eDOC 23, p. 9-19/ eDOC 24, p. 1-6), interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XLVI, da Constituição Federal.
+    Sustenta-se ofensa ao princípio constitucional da individualização da pena, tendo em vista que tanto a fundamentação para a fixação do regime inicial fechado quanto a negativa de substituição da pena se ativeram à gravidade abstrata do crime.
+    Alega-se, ainda, a inconstitucionalidade da pena de multa para o crime de tráfico, por ofensa ao princípio da proporcionalidade.
+    A Presidência da Seção de Direito Criminal inadmitiu o recurso extraordinário por ausência de adequação e de fundamentação, bem como por configurar ofensa meramente reflexa ao Texto Constitucional, (eDOC 25, p. 10-11).
+     É o relatório. Decido.
+    A irresignação vertida no recurso não merece prosperar.
+    Inicialmente, observo que as questões referentes à violação do dispositivo constitucional apontado não foram objeto de debate no acórdão recorrido e não houve a oposição de embargos de declaração com essa finalidade. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282 do STF).
+    Não obstante seja o caso de negar seguimento ao recurso, verifico hipótese de constrangimento ilegal a autorizar a concessão do habeas corpus de ofício, nos termos do art. 654, § 2º, do CPP, no que se refere ao regime de pena fixado.
+    Enfatizo que, considerando a excepcionalidade de tal proceder, a ilegalidade deve ser reconhecida de plano, apta a oportunizar a atuação jurisdicional de ofício, como é a situação desses autos.
+    Com efeito, a jurisprudência desta Corte é consolidada no sentido de que “o juízo revisional da dosimetria da pena fica circunscrito à motivação (formalmente idônea) de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419/MS, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 28.08.1992).
+    Diante desse limite cognitivo, a revisão da dosimetria não permite incursão no quadro fático-probatório, tampouco a reconstrução da discricionariedade constitucionalmente atribuída às instâncias ordinárias. Quando o assunto consiste em aplicação da pena, a atividade do Supremo Tribunal Federal, em verdade, circunscreve-se “ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 128.446, Rel. Min. TEORI ZAVASCKI, Segunda Turma, julgado em 15.09.2015).
+    No caso concreto, verifico que o Juiz de primeiro grau condenou o ora recorrente por tráfico de drogas, aplicando o redutor do parágrafo quarto em sua fração máxima, porém, fixou o regime inicial fechado com base na Lei de Crimes Hediondos, conforme se extrai do seguinte excerto (eDOC 20, p. 20-23):
+    “[…]
+    Não é caso de desclassificação para o crime do art. 28, porque apesar de a quantidade ser pequena (18 trouxinhas de maconha e 11 invólucros de cocaína) há provas nos autos que se destinava ao tráfico.
+    Assim, impõe-se a condenação do acusado, posto que a materialidade esta provada pelo laudo de constatação (fls. 58/60) e laudo definitivo (fls.102/104).
+    Passo a individualizar a pena a ser aplicada ao acusado, que segundo consta dos autos é primário (fls. 90/92 e 128 - extinta a punibilidade pela prescrição fls.135).
+    Levando em conta as circunstâncias judiciais do artigo 59 do Código Penal, fixo a pena -base em 5 anos de reclusão e 500 dias -multa, à razão mínima em face da situação econômica do acusado.
+    Diminuo a pena de 2/3, posto que o réu é primário (art. 33, §4.°), não ficou demonstrado que se dedique a atividades criminosas ou integre organização criminosa (art. 33, §4.°), observando, ainda, que o M.P. concordou com tal redução. O réu na época do crime já tinha 22 anos (fls. 49), pelo que não incide a atenuante da menoridade alegada pela defesa.
+    Observo que a V. Decisão do E. STF que entendeu inconstitucional o 2.°, §1.°, da Lei de Crimes Hediondos, o qual prevê o cumprimento da pena em regime inicialmente fechado aos condenados por crimes hediondos e equiparados deu-se incidentalmente, sem efeito erga omnes.
+    O entendimento deste juízo é no sentido de que a pena deverá ser cumprida inicialmente no regime fechado, nos termos do art. 2°., §1°., da Lei n° 8072/90, com a redação dada pela Lei n.° 11.464/06, o que não fere qualquer princípio constitucional, uma vez que está em conformidade com o disposto no art. 5.°, incs. XXXIX, XLVI e XLIII, da Constituição Federal.
+    Ademais, é incompatível outro regime, pois se trata de crime equiparado a hediondo, portanto, de extrema gravidade, uma vez que causa dependência física e psíquica atingindo inúmeros usuários, provocando perda de emprego, envolvimento cm delitos para comprarem drogas, venda de bens inclusive de familiares para satisfação do vício, acarretando efeitos deletérios para a sociedade.
+    Inviável a conversão em restritiva de direitos, pois no art. 44 da Lei n.º 11.343/06 há expressa vedação, sendo que está em consonância com o art. 5.º, incs. XXXIX, XLVI e XLIII, da Constituição Federal e, ainda, por ser incompatível com o regime fechado.
+    Incabível o "sursis", por não preencher os requisitos do art. 77, inc. II, do Código Penal e por ser incompatível com o regime fechado previsto na Lei 8072/90.
+    […]
+    Não se desconhece a decisão do Tribunal Pleno do E. STF (HC 111.840/ES, Rel. Min. Dias Toffoli, j. 14.06.2012) que declarou a inconstitucionalidade do art. 2°, §1º, da Lei de Crimes Hediondos, o qual prevê o cumprimento da pena em regime inicialmente fechado aos condenados por crimes hediondos e equiparados.
+    Importa consignar que tal decisão deu-se incidentalmente, sem efeito erga omnes.
+    Ademais, entende esta c. Câmara pela aplicabilidade da referida norma, o que obriga à fixação do regime inicial mais severo, como se retira do teor de recente acórdão da lavra do Eminente Des. Edison Brandão: […]” (grifei)
+    O Tribunal de origem manteve a condenação, justificando o regime mais gravoso na quantidade e natureza da droga – não valorada na dosimetria – , bem como nas circunstâncias do delito, nos seguintes termos (eDOC 22, p. 16-19):
+    “[…]
+    É dizer, bem definido que o acusado trazia consigo, tinha em depósito e guardava, para fornecimento a terceiros, as drogas apreendidas, mais especificamente: 11 porções de cocaína (9,7 gramas) e 18 porções de maconha (15,0 gramas).
+    Vale dizer, a condenação pelo crime de tráfico de drogas era mesmo inexorável.
+    Tanto que a apelo sequer busca a absolvição.
+    4. No tocante à sanção, sobre os quais versam os pontos feridos no apelo, não há alteração a se proceder.
+    5. A pena -base foi estabelecida no mínimo legal, a saber, 5 anos de reclusão, mais o pagamento de 500 dias -multa.
+    Na segunda fase de dosimetria da pena, a sanção não sofreu qualquer alteração, ante a ausência de circunstâncias agravantes ou atenuantes a serem consideradas.
+    Na terceira fase, foi reconhecida a minorante prevista no artigo 33, par. 4°, da Lei n° 11.343/06, com redução da sanção no percentual máximo previsto em lei (2/3), chegando-se a uma pena final de 1 ano e 8 meses de reclusão, mais o pagamento de 166 dias -multa.
+    6. Por sua vez, não se desconhece que o Plenário do Supremo Tribunal Federal, mercê de sua condição de intérprete maior e defensor da higidez da Constituição Federal, proclamou a inconstitucionalidade do artigo 44, da Lei n° 11.343/06, nas partes em que se vedava a concessão de liberdade provisória (HC n° 104.339, rel. Min. Gilmar Mendes) e a conversão da pena privativa de liberdade em pena restritiva de direitos (HC n° 97.256, rel. Min. Ayres Britto), bem do artigo 2°, par. 1°, da Lei n° 8.072, que impunha o regime inicial fechado (HC n° 111.840, rel. Min. Dias Toffoli).
+    Sucede que os dados empíricos da causa não permitem solução diversa da adotada na r. sentença.
+    A conduta do acusado envolveu significativa quantidade de drogas, de espécies diversas, atentando-se, ainda, para o alto poder nocivo da cocaína para a saúde pública - bem tutelado pela norma penal. Circunstâncias concretas a traduzir uma elevada censurabilidade da conduta a impor o regime inicial fechado para a pena privativa de liberdade, sem o que não haveria suficiente reprovação e prevenção do crime.
+    De notar que o estabelecimento da pena-base no mínimo legal não obsta a fixação de regime inicial fechado, desde que haja justificação com base em dados concretos da causa […]
+    Cenário este - marcado pela quantidade e natureza da droga incompatível com a substituição da pena privativa de liberdade por penas restritivas de direito (artigo 44, III, do Código Penal), bem como com a concessão do sursis (artigo 77, II, do Código Penal), beneficias que não se mostram como uma resposta penal adequada.
+    7. Por sua vez, não é o caso de alteração do regime inicial de cumprimento de pena à luz da regra estampada no artigo 387, par. 2°, do Código de Processo Penal.
+    Urge proceder-se a uma interpretação sistemática da norma, atentando-se que o estabelecimento do regime inicial é pautado não somente pela quantidade da pena, mas também pelas circunstâncias do delito (artigo 33, do Código Penal). Nessa ordem de ideias, o dispositivo em tela somente deve ser aplicado em segunda instância quando a fixação do regime inicial tenha sido feito apenas com base no "quantum" da pena.
+    […]
+    Neste cenário, tendo em conta que o regime fechado veio calcado em outras circunstâncias que não a quantidade da pena, a detração não tem influência na fixação do regime inicial de cumprimento de pena, devendo ser considerada, para fins de progressão, pelo juízo da execução.” (grifei)
+    Importa observar que o Plenário desta Corte declarou inconstitucional o art. 2º, § 1º, da Lei 8.072/1990, no julgamento do HC 111.840/ES (Relator Dias Toffoli, sessão de 27.06.2012) e em diversos precedentes de ambas as Turmas do STF.
+    Confiram-se: HC 140.423, Relator Ricardo Lewandowski, Redator p/ acórdão Dias Toffoli, Segunda Turma, DJe 10.08.2017; HC 133.028, Relator Gilmar Mendes, Segunda Turma, DJe 05.08.2016; ARE 844.780, Relatora Cármen Lúcia, Segunda Turma, DJe 10.03.2015; ARE 778.332 AgR-ED, Relator Roberto Barroso, Primeira Turma, DJe 20.11.2014.
+    Nessa linha, extrai-se que a fixação do regime fechado com fundamento apenas na gravidade abstrata do delito viola o princípio da individualização da pena.
+    Com relação à fixação do regime inicial, tenho que o tema segue os critérios estabelecidos no art. 33 do Código Penal, quais sejam, a quantidade de pena, a reincidência e as circunstâncias judiciais:
+    “Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.
+    (…)
+    § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+    a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+    b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+    c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto .
+    § 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.”
+    Ainda nesse sentido, as Súmulas 718 e 719/STF enunciam que a mera gravidade do crime não se revela argumento hígido a chancelar a imposição de regime mais gravoso que o estipulado aprioristicamente pela lei. Da mesma forma, o regime mais severo que a quantidade de pena permitir é admissível tão somente nas hipóteses de motivação idônea, calcada, como dito, nas circunstâncias descritas no art. 59 do Código Penal:
+    “Súmula 718: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.”
+    “Súmula 719: A imposição de regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.”
+    Verifico que a sentença condenatória impôs o regime fechado com fundamento o art. 2º, § 1º, da Lei 8.072/1990. Em recurso exclusivo da defesa, o acórdão recorrido justificou o regime mais gravoso em razão da quantidade e da natureza da droga, não desvaloradas em nenhuma das fases da dosimetria, bem como nas “circunstâncias do delito”, sem justificar, contudo, em que consistiriam tais circunstâncias negativas.
+    Assim, levando-se em conta que a pena-base foi fixada no mínimo legal e mantido o redutor do § 4º do art. 33 da Lei 11.343/2006 em sua fração máxima, constato que a quantidade e a natureza da droga apreendida, não ponderadas em nenhuma das fases da dosimetria, não configuram razão adequada a justificar a escolha de regime inicial mais gravoso (art. 33, §§ 2º, “c”, e 3º, do CP).
+    Da mesma forma, pontuo que a negativa de substituição da pena privativa de liberdade por restritiva de direitos fundou-se em motivação que desborda das balizas legais, forte na inteligência do art. 44, § 3º, do Código Penal.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF. Contudo, nos termos do art. 654, § 2º, do CPP, concedo a ordem de habeas corpus, de ofício, para, a partir da pena privativa de liberdade imposta (um ano e 08 oito meses de reclusão), fixar o regime inicial aberto, nos termos do art. 33, § 2º, “c”, do CP, bem como determinar a substituição da pena privativa de liberdade por restritiva de direitos, a ser definida pelo Juízo da Execução nos moldes do art. 44, § 2º, do CP.
+    Comunique-se, com urgência e pelo meio mais expedito, ao Juiz da causa.
+    Comunique-se, outrossim, ao TJSP, para ciência desta decisão.
+    Publique-se. Intime-se.
+    Brasília, 13 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
