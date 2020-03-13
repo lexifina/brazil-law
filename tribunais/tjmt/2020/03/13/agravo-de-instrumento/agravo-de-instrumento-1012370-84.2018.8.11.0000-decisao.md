@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NOS AUTOS DO AGRAVO DE INSTRUMENTO N. 1012370-84.2018.8.11.0000
+RECORRENTES: TÓKIO MARINE SEGURADORA S.A., ITAÚ SEGUROS S.A., CAIXA SEGURADORA S.A., BRADESCO SEGUROS S.A., SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS.
+RECORRIDOS: FERNANDO ARAUJO, FELIPE ARAUJO, MIGUEL RUA PEDROSO DE BARROS, LEONIDIA ROSA DE BARROS, NILCE MONICA DE CAMPOS SILVA, PAULO DE BRITO FERREIRA, RICARDO STROPA, DZIRRE MICHELLE BRUNO RONCADOR STROPA, TEREZA CORREA DE MORAES E ALDENOR ALVES FERREIRA.
+Vistos, etc.
+Trata-se de Recursos Especiais interpostos por TÓKIO MARINE SEGURADORA S.A. (ID 6080603), ITAÚ SEGUROS S.A. (ID 6947791), CAIXA SEGURADORA S.A. (ID 6968477), BRADESCO SEGUROS S.A. (ID 6968990), SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS (ID 6969215), com fundamento no art. 105, inciso III, alínea “a” e “c”, da Constituição Federal, contra acórdão da Quarta Câmara de Direito Privado (ID 5519799):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA – SEGURO HABITACIONAL – VÍCIOS DE CONSTRUÇÃO – REMESSA DOS AUTOS À JUSTIÇA FEDERAL – AUSÊNCIA DE PROVA DOCUMENTAL DO INTERESSE DA CEF – NECESSIDADE – ENTENDIMENTO CONSOLIDADO EM REPETITIVO (ED NO RESP 1.091.363/SC) – COMPROMETIMENTO DA FCVS – NÃO DEMONSTRAÇÃO - COMPETÊNCIA DA JUSTIÇA ESTADUAL – RECURSO PROVIDO. No julgamento do REsp no1.091.36/SC, representativo de causas repetitivas, foi sedimentando o entendimento de que, “nos feitos em que se discute a respeito de contrato de seguro adjeto a contrato de mútuo, por envolver discussão entre seguradora e mutário, e não afetar o FCVS (Fundo de Compensação de Variações Salarias), inexiste interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário, sendo, portanto, da Justiça Estadual competência par o seu julgamento”. (Agravo de Instrumento n. 1012370-84.2018.8.11.0000, Relator Des. Rubens de Oliveira Santos Filho – J. 19/12/2018)
+Propostos Embargos de Declaração, restaram parcialmente providos, conforme ementa de ID 6291693:
+EMBARGOS DE DECLARAÇÃO – AÇÃO DE COBRANÇA - AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA – OMISSÃO QUANTO O CABIMENTO DE AGRAVO DE INSTRUMENTO – DECISÃO RECORRÍVEL POR ESSA VIA - VÍCIO SANADO – ALEGAÇÃO DE NÃO MANIFESTAÇÃO SOBRE A REMESSA DOS AUTOS À JUSTIÇA FEDERAL – SEGURO HABITACIONAL – VÍCIOS DE CONSTRUÇÃO – AUSÊNCIA DE PROVA DOCUMENTAL DO INTERESSE DA CEF – NECESSIDADE – ENTENDIMENTO CONSOLIDADO EM REPETITIVO (ED NO RESP 1.091.363/SC) – COMPROMETIMENTO DA FCVS – NÃO DEMONSTRAÇÃO - COMPETÊNCIA DA JUSTIÇA ESTADUAL – VÍCIO INEXISTENTE - RECURSO PARCIALMENTE PROVIDO. Apesar de não estar elencado no art. 1.015 do CPC, é cabível ingressar com Agravo de Instrumento para impugnar decisum relacionado à definição de competência, conforme já consignado pelo STJ no REsp 1.696.396. Verificada a omissão, o vício deve ser sanado, ainda que não altere o resultado do julgamento. Sendo evidente que o verdadeiro propósito do embargante é rediscutir o mérito da lide, não cabem Embargos de Declaração, até mesmo para fins de prequestionamento. (Embargos de Declaração n. 1012370-84.2018.8.11.0000, Relator Des. Rubens de Oliveira Santos Filho – J. 19/12/2018)
+As Seguradoras recorrentes alegam ofensa ao art .1015 do CPC, ante a ausência de previsão legal para cabimento do Recurso de Agravo de Instrumento.
+Sustentam ainda violação aos artigos 119, 489, §1o, inciso IV, e 1.022, inciso II, do Código de Processo Civil, 1o, 1o-A e 2o da Lei n. 12409/2011 e Súmula 150 do STJ, uma vez que pretendem o ingresso da Caixa Econômica Federal na lide e, consequentemente a remessa dos autos à Justiça Federal.
+Os Recursos são tempestivos e devidamente preparados conforme certidões de Ids. 6949889, 6947791, 6968477, 6968990 e 6969215.
+Os recorridos FELIPE ARAUJO E OUTROS, apresentaram contrarrazões conforme ID 7185941.
+Foi realizada análise de admissibilidade do Recurso Especial no ID n. 7462414, confirmada no Recurso de Agravo Interno no ID n. 15782452, todavia, tornaram-se sem efeitos após o acolhimento dos Embargos de Declaração no ID n. 28945971.
+Passo a nova análise do Recurso Especial.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos. Tema 988
+Sustentam as Seguradoras Recorrentes violação ao art. 1.015 do CPC, ao argumento de que a decisão que determinou que a Caixa Econômica Federal integre o polo passivo da lide, remetendo os autos a Justiça Federal, não é passível de ser atacada por meio de Agravo de Instrumento.
+Sobre a questão, o Superior Tribunal de Justiça, na sistemática de recursos repetitivos, julgou o REsp n. 1.696.396/MT (Tema 988), ocasião em que firmou a tese no sentido de que “o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação”.
+Constou, ainda, do referido aresto que “(...) modulam-se os efeitos da presente decisão, a fim de que a tese jurídica apenas seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão”, fato que se deu em 19/12/2018.
+O órgão fracionário deste e. Tribunal, por sua vez, entendeu que “ Apesar de não estar elencado no art. 1.015 do CPC, é cabível ingressar com por esta via para impugnar decisum relacionado à definição de competência.
+O STJ, nos recursos representativos da controvérsia REsp 1.696.396 e REsp 1.704.520 já consignou que as situações descritas no dispositivo em referência têm taxatividade mitigada e admitem Agravo de Instrumento quando verificada urgência decorrente da inutilidade do julgamento da questão na Apelação. ” (ID n. 6249397).
+Diante desse quadro, observa-se que o aresto impugnado se encontra em aparente desconformidade com a orientação do STJ, uma vez que para a mitigação da taxatividade do rol do art. 1.015, do CPC, exige-se a presença de dois requisitos: a demonstração do perigo da demora e a condição temporal, ou seja, que a decisão interlocutória tenha sido proferida após o dia 19/12/2018 e no presente caso, a decisão agravada pelos Recorridos foi publicada em 11/05/2016.
+Posto isso, e em face da aparente desconformidade do acórdão recorrido com o entendimento do Superior Tribunal de Justiça, manifestado no recurso paradigma (Tema 988), determino a devolução dos autos à Quarta Câmara de Direito Privado, nos termos do art. 1.030, II, do CPC, para a verificação de um possível JUÍZO DE RETRATAÇÃO.
+Após, voltem-me conclusos.
+Publique-se. Cumpra-se.
+Cuiabá-MT, 13 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+IV
