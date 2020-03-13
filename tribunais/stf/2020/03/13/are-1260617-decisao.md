@@ -1,0 +1,24 @@
+Decisão: A Primeira Câmara Criminal do Tribunal de Justiça do Estado do Paraná deu provimento ao recurso de apelação interposto pelo recorrido, mediante acórdão (eDOC 23, p. 26-28; eDOC 24, p. 1-19 e eDOC 25, p. 1-15), de cuja ementa destaco:
+    “PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS INTERESTADUAL (LEI 11.343/2006, ART. 33, CAPUT, C/C ART. 40, V). SENTENÇA ABSOLUTÓRIA. RECURSO DA ACUSAÇÃO.
+    PEDIDO DE CONDENAÇÃO PELA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS. ACOLHIMENTO. MATERIALIDADE E AUTORIA SUFICIENTEMENTE DEMONSTRADAS. CONJUNTO PROBATÓRIO FORMADO PELAS INVESTIGAÇÕES POLICIAIS E PROVA TESTEMUNHAL. DEPOIMENTO DA ‘MULA’ QUE SERVE COMO PROVA EMPRESTADA. SENTENÇA REFORMADA.
+    EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO DECRETADA POR ESTE TRIBUNAL. PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. REEXAME SOBRE A MATÉRIA FÁTICA E ELEMENTOS DE PROVA ESGOTADO. CASO QUE SE AMOLDA À NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC 126.292/SP), RATIFICADA POR OCASIÃO DO INDEFERIMENTO DAS MEDIDAS CAUTELARES OBJETO DAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE 43 E 44.” (eDOC 23, p. 26)
+    Daí o recurso extraordinário (eDOC 32, p. 19-25; eDOC 33, p. 1-19), fundado no art. 102, III, “a”, da Constituição Federal, no qual se alegou ofensa ao art. 5º, incisos LV e LVII, da mesma Carta, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    O ora recorrente também interpôs recurso especial (eDOC 27, p. 21-23; eDOC 28, p. 1-19; eDOC 29, p. 1-8).
+    O Segundo Vice-Presidente do TJ/SC não admitiu o REsp (eDOC 30, p. 17-22; eDOC 31, p. 1-2), bem como negou seguimento ao RE, com fundamento no art. 1.030, inciso I, alínea “a”, do CPC, porque incidentes, no caso, os Temas 660 e 925 da sistemática da repercussão geral, e não o admitiu quanto ao art. 5º, incisos LV e LVII, da CF (eDOC 34, p. 15-18).
+    Houve, então, a interposição do presente ARE (eDOC 34, p. 21-24; eDOC 35, p. 1-19; eDOC 36, p. 1-4) e do AREsp (eDOC 31, p. 5-21; eDOC 32, p. 1-7).
+    O Relator, no STJ, não conheceu do AREsp 1.258.881/SC (eDOC 36, p. 30-31). Após uma série de recursos, a Sexta Turma daquela Corte rejeitou os Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no AREsp 1.258.881/SC, mediante acórdão (eDOC 36, p. 113-120) transitado em julgado aos 2.3.2020 (certidão; eDOC 36, p. 125).
+    É o relatório.
+    Decido.
+    Inicialmente, no que concerne à negativa de seguimento do RE em relação aos Temas 660 e 925 da sistemática da repercussão geral, a decisão deve ser mantida, porque incidente, no caso, o art. 1.030, inciso I, alínea “a”, do CPC, conforme acertadamente decidiu a Vice-Presidência do TJ/SC (eDOC 34, p. 15-18).
+    No mais, a presente irresignação recursal não merece prosperar, porquanto a ofensa à Constituição, se existente, seria reflexa ou indireta, de índole infraconstitucional, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 13 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
