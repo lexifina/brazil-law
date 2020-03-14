@@ -1,0 +1,5 @@
+# Lei nº 5.101, de 14 de janeiro de 2020, do Estado do Amazonas
+
+DISPÕE SOBRE A OBRIGATORIEDADE DE HOSPITAIS, CLÍNICAS E ASSEMELHADOS, LOCALIZADOS NO ESTADO DO AMAZONAS, AFIXAREM CARTAZ OU SIMILAR, INFORMANDO SOBRE A LEI FEDERAL N. 9.797/1999, QUE ASSEGURA A CIRURGIA PLÁSTICA REPARADORA DA MAMA NOS CASOS DE MUTILAÇÃO DECORRENTES DE TRATAMENTO DE CÂNCER.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10801>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2020/10801/5101.pdf>
