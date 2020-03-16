@@ -1,0 +1,17 @@
+DECISÃO:
+    1. Trata-se de reclamação contra decisão do Superior Tribunal de Justiça que desproveu agravo interno em recurso especial, mantendo decisões das instâncias inferiores que, reconhecendo a revelia do reclamante, julgaram procedente a ação de reintegração de posse.
+    2. Na presente reclamação, a parte alega afronta à Súmula 231 do STF, a qual dispõe que “o revel, em processo cível, pode produzir provas, desde que compareça em tempo oportuno.”
+    3. É o relatório. Decido.
+    4. Dispenso as informações, devido à suficiente instrução do feito, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte contrária, em razão do manifesto descabimento da via.
+    5. Com efeito, a reclamação dirigida a esta Corte só é cabível quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CRFB/1988, arts. 102, I, l, e 103-A, § 3º). No segundo caso, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte. A alegação de ofensa ao direito objetivo ou a precedente sem força vinculante não dá ensejo à propositura de reclamação. Nesse sentido firmou-se a jurisprudência:
+    “RECLAMAÇÃO - ALEGADO DESRESPEITO A DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL EM PROCESSOS DE ÍNDOLE SUBJETIVA, VERSANDO CASOS CONCRETOS NOS QUAIS A PARTE RECLAMANTE NÃO FIGUROU COMO SUJEITO PROCESSUAL - INADMISSIBILIDADE - INADEQUAÇÃO DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL - EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO - PRECEDENTES - RECURSO DE AGRAVO IMPROVIDO.
+    Não se revela admissível a reclamação quando invocado, como paradigma, julgamento do Supremo Tribunal Federal proferido em processo de índole subjetiva que versou caso concreto no qual a parte reclamante sequer figurou como sujeito processual. Precedentes.
+    Não cabe reclamação quando utilizada com o objetivo de fazer prevalecer a jurisprudência desta Suprema Corte, em situações nas quais os julgamentos do Supremo Tribunal Federal não se revistam de eficácia vinculante, exceto se se tratar de decisão que o STF tenha proferido em processo subjetivo no qual haja intervindo, como sujeito processual, a própria parte reclamante.
+    O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. […]” (Rcl 4.381 AgR, Rel. Min. Celso de Mello)
+    6. Confiram-se, ainda: Rcl 4.119 AgR, Rel. Min. Cármen Lúcia; Rcl 5.391 AgR, Rel. Min. Dias Toffoli, entre muitos outros.
+    7. A Súmula invocada pelo reclamante como sendo violada (Súmula 231, STF) constitui precedente sem força vinculante. Assim, considerando que a parte reclamante aponta apenas o mero desacerto da decisão reclamada e não indica qualquer precedente vinculante do Supremo Tribunal que teria sido violado, é manifesto o descabimento desta via.
+    8. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+          Brasília, 16 de março de 2020
+Ministro LUÍS ROBERTO BARROSO
+Relator
