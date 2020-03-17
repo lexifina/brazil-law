@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Hugo Hartz e outro(a/s). Aparelhado o recurso na afronta aos arts. 5º, XXXVI, da Constituição Federal e 8º, § 3º, do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que que os efeitos financeiros da anistia, nos termos do § 1º do art. 8º do ADCT da CF/1988, contam-se a partir da promulgação da CF/1988 razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AÇÃO RESCISÓRIA. RECURSO INTERPOSTO EM 04.08.2010. DIREITO ADMINISTRATIVO. ANISTIA. COMPATIBILIDADE DO ART. 9º DO ADCT DA CONSTITUIÇÃO DO ESTADO DO RIO GRANDE DO SUL COM O CONTEÚDO DO ARTIGO 8º, §1º, DO ADCT DA CONSTITUIÇÃO DE 1988. RETROATIVIDADE DOS EFEITOS FINANCEIROS. IMPOSSIBILIDADE. COMPETÊNCIA EXCLUSIVA DO PODER CONSTITUINTE ORIGINÁRIO FEDERAL. PRECEDENTES. 1. O Supremo Tribunal Federal já assentou que os efeitos financeiros da anistia, nos termos do §1º do art. 8º do ADCT da CF/88, contam-se a partir da promulgação da CF/88. 2. É firme a jurisprudência desta Corte no sentido de que a competência para concessão de anistia é exclusiva do poder constituinte originário federal, razão pela qual não é possível que norma constitucional estadual amplie tal benefício. 3. Agravo regimental a que se nega provimento” (AR 2013 AgR, Relator(a): Min. Edson Fachin, Tribunal Pleno, julgado em 07.4.2017, ACÓRDÃO ELETRÔNICO DJe-091 DIVULG 03.5.2017 PUBLIC 04.5.2017).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – BENEFÍCIO CONSTITUCIONAL DA ANISTIA – EFEITOS FINANCEIROS DO ATO EM QUE RECONHECIDA A CONDIÇÃO DE ANISTIADO POLÍTICO – RETROAÇÃO À DATA DA PROMULGAÇÃO DA CONSTITUIÇÃO FEDERAL DE 1988 (ADCT, ART. 8º, § 1º) – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO” (ARE 1091076 AgR-segundo, Relator(a): Min. Celso De Mello, Segunda Turma, julgado em 14.6.2019, PROCESSO ELETRÔNICO DJe-140 DIVULG 27.6.2019 PUBLIC 28.6.2019).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de março de 2020.
+Ministra Rosa Weber
+Relatora
