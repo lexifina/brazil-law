@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “RECURSO DE APELAÇÃO – DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO – REVOGAÇÃO DE PROMOÇÃO – APROVAÇÃO DO AUTOR NO PROCESSO SELETIVO E NO CURSO DE FORMAÇÃO PARA 3º SARGENTO DA POLÍCIA MILITAR – PROMOÇÃO CONCEDIDA POR SENTENÇA TRANSITADA EM JULGADO PROFERIDA EM MANDADO DE SEGURANÇA – DECISÃO DE CARÁTER DEFINITIVO – INCIDÊNCIA DA TEORIA DO FATO CONSUMADO – POSSIBILIDADE.
+    1- De acordo com a teoria do fato consumado, situações consolidadas no tempo, amparadas por decisão judicial de caráter definitivo, não podem ser desconstituídas, em razão dos princípios da segurança jurídica, da boa-fé, da razoabilidade e da estabilidade das relações sociais.
+    2- Considerando as peculiaridades do caso concreto, promoção do autor ao cargo de 3º Sargento da Polícia Militar por sentença transitada em julgado, proferida em mandado de segurança, é de rigor a manutenção desta situação jurídica consolidada no tempo por quase 7 (sete) anos.
+    Recurso provido” (pág. 32 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se, em suma, ofensa aos arts. 5°, caput, II, XXXVI e LIV, e 37, caput, I e II, da mesma Carta.
+    Em 22/8/2019, a Presidência do STF determinou a devolução destes autos ao Tribunal de origem para que fosse observada a sistemática da repercussão geral, tendo em vista o decidido no RE 608.482-RG/RN (documento eletrônico 8).
+    Posteriormente, a Vice-Presidência do Tribunal de Justiça do Mato Grosso do Sul entendeu que não seria o caso de enviar os autos ao órgão prolator do acórdão impugnado, visto que naquele julgamento já teria sido realizado o distinguishing em relação ao paradigma mencionado pela Presidência do STF. Assim, deu seguimento ao recurso extraordinário para os fins previstos no art. 1.041 do CPC, de modo a se evitar a demora na prestação jurisdicional (págs. 50-52 do documento eletrônico 23).
+    A Presidência desta Corte, diante do referido entendimento, determinou a distribuição deste processo na forma regimental. Em seguida, este apelo extremo admitido foi distribuído para a minha relatoria.
+    É o relatório necessário. Decido.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com o entendimento desta Corte firmado no julgamento do RE 608.482-RG/RN (Tema 476 da Repercussão Geral), de relatoria do Ministro Teori Zavascki, no sentido de que não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado. A seguir, transcrevo a ementa desse julgado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO QUE ASSUMIU O CARGO POR FORÇA DE LIMINAR. SUPERVENIENTE REVOGAÇÃO DA MEDIDA. RETORNO AO STATUS QUO ANTE. “TEORIA DO FATO CONSUMADO”, DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. INAPLICABILIDADE. RECURSO PROVIDO.
+    1. Não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+    2. Igualmente incabível, em casos tais, invocar o princípio da segurança jurídica ou o da proteção da confiança legítima. É que, por imposição do sistema normativo, a execução provisória das decisões judiciais, fundadas que são em títulos de natureza precária e revogável, se dá, invariavelmente, sob a inteira responsabilidade de quem a requer, sendo certo que a sua revogação acarreta efeito ex tunc, circunstâncias que evidenciam sua inaptidão para conferir segurança ou estabilidade à situação jurídica a que se refere.
+    3. Recurso extraordinário provido”.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (art. 932, V, b, do CPC). Inverto os ônus sucumbenciais.
+    Publique-se.
+    Brasília, 17 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
