@@ -1,0 +1,31 @@
+Trata-se de recurso extraordinário interposto contra acórdão que reformou a sentença para julgar improcedente o pedido do autor de fornecimento dos medicamentos empagliflozina e linagliptina, para tratamento de diabetes mellitus, de que é portador.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se a violação dos arts. 1, III; 5°; 6°; 194; 196; 197 e 198, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais suscitados pelo recorrente não foram devidamente prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, destaco o RE 750.142-AgR/ES, da relatoria do Min. Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. JUSTIÇA FEDERAL. SÚMULA 517 DO STF.
+    1. O recurso extraordinário esbarra nos óbices previstos nas Súmulas 282 e 356 do STF, por ausência de prequestionamento e não oposição de embargos declaratórios.
+    2. A competência é da Justiça Federal quando a União intervém como assistente nos casos envolvendo sociedades de economia mista.
+    3. Agravo regimental a que se nega provimento” (grifei).
+    Verifico, ademais, que a Turma Recursal de origem, com apoio no acervo probatório dos autos, rejeitou o pedido de fornecimento da medicação nos seguintes termos:
+    “A análise conjunta dos dados supra, permite concluir que:
+    1. o tratamento endocrinológico transcorria normalmente, sem qualquer intercorrência digna de nota, até que a consulta com médico nefrologista constatou descontrole do diabetes, anotando que a parte autora não seguia dieta para controle daquela enfermidade ou da hipertensão arterial. Visando proteger o único rim da parte autora, o médico nefrologista prescreveu empagliflozina e fez encaminhamento para consulta com nutricionista;
+    2. em que pese ter ocorrido a consulta com nutricionista, o prontuário não trouxe registro do retorno - que deveria ocorrer em 30 dias -, não sendo possível asseverar se houve mudanças nos hábitos alimentares;
+    3. após a prescrição de empagliflozina, a médica endocrinologista registra a ocorrência de HIPOS, justamente o tipo de situação que visaria prevenir com a substituição da medicação padronizada pela ora postulada. Não suficiente, inclui linagliptina, sem apresentar justificativa no prontuário;
+    4. o laudo pericial não considera o contexto apresentado nos autos e peca por atestar uma situação sem substrato médico, visto que refere um exame de laboratório realizado em 02/08/2017 - a parte autora já estava em uso de empagliflozina em 11/10/2016, com hipoglicemia - e sem exame anterior que lhe permitisse estabelecer uma comparação.
+    Diante deste quadro, concluo que não há efetiva prova de ineficácia do tratamento disponibilizado pelo SUS, sendo questionável a conduta alimentar da parte autora para bom controle de suas enfermidades. É duvidoso, em contrapartida, os resultados obtidos com empagliflozina, e o motivo para prescrição de linagliptina” (pág. 3 do documento eletrônico 101).
+    Nesse contexto, para divergir desse entendimento, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Fornecimento de medicamento oncológico. Adequação e necessidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento), em desfavor da parte recorrente, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1.090.602-AgR/PR, Rel. Min. Presidente, Tribunal Pleno).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE ALIMENTO ESPECIAL A CRIANÇA PORTADORA DE FENILCETONÚRIA. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REAFIRMAÇÃO DA JURISPRUDÊNCIA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. RE 855.178-RG. VERIFICAÇÃO DA NECESSIDADE DE FORNECIMENTO DO ALIMENTO PLEITEADO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF.
+    1. É firme o entendimento deste Tribunal de que o Poder Judiciário pode, sem que fique configurada violação ao princípio da separação dos Poderes, determinar a implementação de políticas públicas nas questões relativas ao direito constitucional à saúde.
+    2. O acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, reafirmada no julgamento do RE 855.178-RG, Rel. Min. Luiz Fux, no sentido de que constitui obrigação solidária dos entes federativos o dever de fornecimento gratuito de tratamentos e de medicamentos necessários à saúde de pessoas hipossuficientes.
+    3. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à necessidade, ou não, do fornecimento do alimento especial pleiteado, seria necessário o reexame de fatos e provas. Incidência da Súmula 279 do STF.
+    3. [sic] Agravo regimental a que se nega provimento” (ARE 947.823-AgR/RS, Rel. Min. Edson Fachin, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. TRATAMENTO INDISPENSÁVEL PARA A SAÚDE DO PACIENTE. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.178.771-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
