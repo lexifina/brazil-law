@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Estabelecimento penal adequado. Prisão domiciliar. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 565.204, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o Juízo das Execuções Criminais autorizou ao paciente a saída antecipada, em regime semiaberto, para a prisão domiciliar. Contra a decisão, o Ministério Público estadual interpôs agravo em execução. O Tribunal de Justiça do Estado de Santa Catarina deu provimento ao recurso para cassar a decisão do Juízo de origem. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator, Min. Reynaldo Soares da Fonseca, indeferiu o pedido de liminar.
+    3. Neste habeas corpus, a parte impetrante afirma que o “[m]agistrado de primeiro grau pontuou todos os aspectos legais e fáticos vividos atualmente pelos que estão presos na Comarca de Joinville, e concluiu que tal estabelecimento não é adequado para cumprimento de pena no regime semiaberto, chegando inclusive a realizar uma inspeção in loco no local”. Daí o pedido de concessão da ordem a fim de que “seja concedido o regime aberto, ou a prisão domiciliar ao paciente, para que cesse o constrangimento ilegal que padece, respeitando assim o entendimento deste tribunal”.
+    4. Decido.
+    5. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar o imediato acolhimento da pretensão defensiva. Dou especial relevância às seguintes passagens da decisão impugnada:
+    “[...] o Tribunal cassou a decisão do Juízo de Execução Criminais, por entender que não há, no presente caso, razões plenamente justificáveis para a adoção da excepcional medida de concessão de prisão domiciliar (e-STJ, fls. 18/19):
+    [...] a Penitenciária Industrial de Joinville contém espaço destacado aos internos do semiaberto, a eles destinado, exclusivamente, além de possibilitar a realização de trabalho externo, amoldando-se, portanto, ao conceito de estabelecimento similar à colônia agrícola ou industrial, em consonância com o disposto no art. 91 da Lei de Execução Penal e no art. 33, §1°, ‘b’, do Código Penal.
+    Segundo ainda o Tribunal, o ora paciente não se encontrava cumprindo pena em regime mais gravoso, uma vez que usufruía dos benefícios inerentes ao regime semiaberto, inclusive com maior liberdade e menos vigilância. Nesse aspecto, consignou que ‘mostra-se possível o recolhimento do agravado na Penitenciária Industrial de Joinville em regime semiaberto, desde que preservados os direitos inerentes ao regime’ (e-STJ fl. 20/22).
+    Assim, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+    […].”
+    7. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 18 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
