@@ -1,0 +1,38 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS E COFINS. EXCLUSÃO DO IPI DA BASE DE CÁLCULO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. PIS E COFINS. BASE DE CÁLCULO. INCLUSÃO DA PARCELA DESTINADA AO PAGAMENTO DE ICMS E DO IPI. SÚMULAS 94 e 68 DO STJ.
+    1. Ainda é pacífico o entendimento jurisprudencial, no âmbito do Superior Tribunal de Justiça, de que a parcela relativa ao ICMS inclui-se na base de cálculo do PIS e da COFINS; inteligência das súmulas nº 94 e 68 daquela Corte; idêntico raciocínio, aliás, vale para o IPI;
+    2. Apelação improvida.” (Doc. 2, p. 65)
+    Nas razões do apelo extremo, a recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 195, I, b, da Constituição Federal. Sustenta, em síntese, que os valores referentes ao ICMS e ao IPI não devem ser contabilizados na base de cálculo do PIS e da COFINS.
+    O Vice-Presidente do Tribunal de origem determinou a manifestação do órgão julgador, considerando o julgamento definitivo do RE 574.706, Rel. Min. Cármen Lúcia, Tema 69 da Repercussão Geral, por entender que a controvérsia poderia guardar identidade com o tema.
+    Em sede de juízo de retratação, a Turma de origem houve por bem se retratar parcialmente da decisão anteriormente proferida, em acórdão assim ementado, in verbis:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E COFINS. MATÉRIA DECIDIDA PELO STF EM REPERCUSSÃO GERAL. RE Nº 574.706. REALIZAÇÃO DE JUÍZO DE RETRATAÇÃO.
+    1. Os autos retornaram da Vice-Presidência desta Corte para esta egrégia Terceira Turma, se assim entender, realizar o juízo de retratação ante a decisão proferida pelo Supremo Tribunal Federal, no RE nº 574.706/PR (Tema 69), que firmou a seguinte tese: ‘O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS’.
+    2. O acórdão anteriormente prolatado por esta egrégia Turma negou provimento à apelação interposta, acolhendo o entendimento de que a parcela relativa ao ICMS e ao IPI inclui-se na base de cálculo do PIS e da COFINS, consoante inteligência das Súmulas 94 e 68 do STJ.
+    3. O STF, em sede de repercussão geral, no julgamento do RE nº 574.706 (decisão de 15.03.2017), assentou o entendimento de que o Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) não integra a base de cálculo das contribuições para o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS).
+    4. ‘A mera possibilidade de aplicação de efeitos infringentes aos embargos não é suficiente para afastar o cumprimento da decisão proferida, que vincula as demais instâncias judiciais do país’. (TRF5, APELREEX 00002958120144058500, Des. Fed. ÉIio Wanderley de Siqueira Filho, Primeira Turma, DJE: 04/09/2017).
+    5. O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária, nos termos da Súmula 213 do STJ, ainda que se refiram às parcelas anteriores à impetração; já que a impetração se limita a ver reconhecido o direito de compensar (que tem como pressuposto um ato da autoridade de negar a compensabilidade), mas sem fazer juízo específico sobre os elementos concretos da própria compensação, a prova exigida é a da ‘condição de credora tributária’.
+    6. A compensação tributária somente poderá ser levada a efeito com o trânsito em julgado da sentença, conforme estabelece o artigo 170-A do CTN, resguardando-se ao Fisco a conferência e a correção dos valores a compensar.
+    7. A presente ação foi ajuizada após o advento da LC nº 118/2005 (vigência em 9 de junho de 2005), de modo que deve ser observado o prazo prescricional quinquenal na apuração dos valores a serem restituídos.
+    8. Incidência da Taxa SELIC, excluído qualquer outro indicador de atualização monetária, a partir da publicação da Lei nº 9.250/95.
+    9.Ausência de condenação da parte vencida ao pagamento de honorários advocatícios, em razão do art. 25 da Lei nº 12.016/2009.
+    10. Procede-se ao juízo: de retratação para dar parcial provimento à apelação, apenas para excluir o ICMS da base de cálculo do PIS e COFINS, bem como reconhecer o direito à compensação/repetição do indébito em questão, respeitada a prescrição quinquenal.” (Doc. 3, p. 21-22)
+    O recurso extraordinário foi admitido na origem quanto à controvérsia relativa à exclusão do IPI da base de cálculo do PIS e COFINS, uma vez que, após a retratação houve provimento parcial pelo Tema 69.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    In casu, no tocante à exclusão do IPI da base de cálculo do PIS e da COFINS, a sentença, mantida pelo Tribunal de origem, em análise infraconstitucional, consignou o seguinte:
+    “A autoridade impetrada argumenta que careceria a impetrante de interesse processual, na medida em que o IP já não comporia a base de cálculo das contribuições, a partir das alterações legislativas promovidas pelas Leis n. 10.637/02 (PIS) e 10.833/03 (COFINS).
+    Como se verifica da análise dos DARFs juntados às fls. 41/45, a impetrante está sujeita ao regime não cumulativo de recolhimento da contribuição ao PIS e COFINS. Assim sendo, está sujeita, atualmente, ao disposto nas Leis n. 10.637/02 (PIS) e 10.833/03 (COFINS). Dispõe o artigo 1º, § 3º, da Lei n. 10.637/02 e artigo 1º, § 3º, da Lei n. 10.833/03, respectivamente:
+    (…)
+    Como se percebe, não há autorização expressa de exclusão dos valores cobrados pelo contribuinte a título de IPI da base de cálculo das contribuições, está sujeita ao disposto nas Leis n. 10.637/02 (PIS) e 10.833/03 (COFINS).
+    Todavia, interpretando corretamente a legislação aplicável, na medida em que o IPI é cobrado por fora, com destaque à nota fiscal, diferentemente do que ocorre com o ICMS, a Instrução Normativa SRF n. 247/02 estatuiu: (…)” (Doc. 2, p. 6-7, grifei)
+    Verifica-se que, para divergir das razões do Tribunal de origem, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Leis 10.637/2002 e 10.833/2003 e Instrução Normativa SRF 247/2002), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCLUSÃO DO IMPOSTO SOBRE PRODUTOS INDUTRIALIZADOS - IPI NA BASE DE CÁLCULO DO PIS E DA COFINS. 1. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE ATO NORMATIVO INFRALEGAL. OFENSA CONSTITUCIONAL INDIRETA. 2. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 611.891-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 24/9/2010)
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 18 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
