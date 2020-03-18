@@ -1,0 +1,36 @@
+DECISÃO:
+    Ementa: DIREITO PROCESSUAL PENAL E PENAL. RECLAMAÇÃO. SUMULA VINCULANTE 26. INEXISTE ESTRITA PERTINÊNCIA ENTRE A DECISÃO RECLAMADA E O PARADIGMA INVOCADO. SEGUIMENTO NEGADO.
+    1. A reclamação exige estrita pertinência entre a decisão reclamada e o paradigma invocado, não servindo de sucedâneo de recurso ou ação cautelar.
+    2. A decisão que determina o cumprimento de 2/5 da pena para progressão para regime mais brando em caso de condenação por crime hediondo, em conformidade com o que dispõe o artigo 2º, § 2º, da Lei 8.072/90, com redação dada pela Lei nº 11.464/2007, não possui aderência estrita ao conteúdo da Súmula Vinculante 26.
+    3. Reclamação a que se nega seguimento.
+    1. Trata-se de reclamação, com pedido de liminar, contra decisão do Tribunal de Justiça do Estado do Espírito Santo no agravo em execução penal nº 0022306-92.2019.8.08.0035. Confira-se a ementa do julgado:
+    “AGRAVO EM EXECUÇÃO CRIMINAL. PROGRESSÃO DE REGIME EM CRIMES HEDIONDOS. INCONSTITUCIONALIDADE DO REQUISITO OBJETIVO DO CUMPRIMENTO DE 2/5 DA PENA. RECURSO IMPROVIDO.
+    1. A progressão no regime de cumprimento da pena, nas espécies fechado, semiaberto e aberto, tem como razão maior a ressocialização do preso, que, mais dia ou menos dia, voltará ao convívio social.
+    2. Lei nº 11.464/2007 deu nova redação à Lei dos Crimes Hediondos, revogando o artigo em que se vedava a progressão de regime nesses crimes considerados mais graves.
+    3. Lei e a jurisprudência continuam a dar tratamento mais gravoso aos crimes hediondos. O requisito objetivo para a progressão do regime nos crimes hediondos é o cumprimento de 2/5 da pena, na hipótese de réu primário. Lei nº 8.072/90. Precedente do STJ.
+    4. Recurso improvido.”
+    2. O Reclamante invoca, a seu favor, a Súmula Vinculante 26, com base nos seguintes fundamentos:
+    “No caso em apreço, o acordão estabeleceu que “...Lei n 11.464/2007 deu nova redação a Lei dos Crimes Hediondos, revogando o artigo em que se vedava a progressão de regime nesses crimes considerados mais graves.”
+    Salvo engano, a lei de crimes hediondos, de numero 8072/90, jamais vedou a progressão de regime em crime algum. Apenas estabeleceu formato mais rigoroso do que o estabelecido pelo CPB, entre outras regras, como o cumprimento inicial no regime fechado.
+    A citada lei 11.464/2007 deu nova redação á alguns artigos da lei de crimes hediondos, POREM, manteve o regime inicial fechado e o mesmo formato de progressão do § 2º da lei 8072/90, de cuja a sumula 26 declarou a inconstitucionalidade. Resta feita, tendo a lei 11464/2007 mantido o mesmo regramento que o § 2º da lei de crimes hediondos, que foram declarados inconstitucionais pela sumula vinculante 26 STF, os efeitos deste enunciado devem se estender á nova lei.”
+    3.  Requer-se, em caráter liminar, a cassação da decisão reclamada, a fim de determinar a progressão do reclamante ao regime aberto e, no mérito, a procedência da reclamação para que a decisão seja cassada.
+    4. É o relatório. Decido.
+    5. O conhecimento da reclamação exige estrita aderência entre o ato impugnado e o paradigma supostamente violado. Nesse sentido, confira-se a ementa da Rcl 12.887 AgR/DF (rel. Min. Dias Toffoli):
+    “Agravo regimental na reclamação. ADI nº 3.378/DF. Inexistência de identidade de temas entre o ato reclamado e o paradigma da Corte. Agravo regimental ao qual se nega provimento.
+    1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    2. Deve haver aderência estrita do objeto do ato reclamado ao conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes para que seja admitido o manejo da reclamatória constitucional.
+    3. A declaração de inconstitucionalidade, com redução do texto do § 1º do art. 36 da Lei nº 9.985/2000, na ADI nº 3.378/DF, foi no sentido de se retirar a obrigatoriedade de o valor mínimo de compensação ambiental ser sempre correspondente a meio por cento do custo do empreendimento, podendo ser fixada outra forma de compensação pelo órgão responsável após estudos pertinentes ao caso.
+    4. Agravo regimental não provido”. (Grifos acrescentados)
+    6. Vide precedentes na mesma linha: Rcl 6.040-ED/AM, Rel. Min. Teori Zavascki; Rcl 11.246-Agr/BA, Rel. Min. Dias Toffoli; Rcl 15.578-AgR/DF, Rel. Min. Celso de Mello.
+    7. O reclamante insurgiu-se contra decisão do Tribunal de Justiça do Estado do Espírito Santo que manteve o indeferimento de pedido formulado pela defesa para progressão de regime, tendo em vista o cumprimento de 1/6 da pena. No acórdão, assentou-se que, tendo o reclamante sido condenado pela prática de crime hediondo (art. 121, §2º, IV, na forma do art. 14, II c/c art. 70), a fração, para fins de progressão de regime, conforme prevê a Lei 8.072/90 em seu artigo 2º, §2º, seria de 2/5.
+    8. Verifico que a presente hipótese não tem estrita aderência com o conteúdo da Súmula Vinculante 26, que possui o seguinte teor:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.” (Grifos acrescentados)
+    9. Perceba-se que a Súmula Vinculante 26, cujo precedente representativo fora julgado em 2006 (HC 82.959, rel. Min. Marco Aurélio), visou assentar a inconstitucionalidade da antiga redação do §1º do art. 2º da Lei 8.072/90, a qual impunha o cumprimento da pena por crime hediondo em regime integralmente fechado. Confira-se a ementa do julgado:
+    “PENA - REGIME DE CUMPRIMENTO - PROGRESSÃO - RAZÃO DE SER. A progressão no regime de cumprimento da pena, nas espécies fechado, semiaberto e aberto, tem como razão maior a ressocialização do preso que, mais dia ou menos dia, voltará ao convívio social. PENA - CRIMES HEDIONDOS - REGIME DE CUMPRIMENTO - PROGRESSÃO - ÓBICE - ARTIGO 2º, § 1º, DA LEI Nº 8.072/90 - INCONSTITUCIONALIDADE - EVOLUÇÃO JURISPRUDENCIAL. Conflita com a garantia da individualização da pena - artigo 5º, inciso XLVI, da Constituição Federal - a imposição, mediante norma, do cumprimento da pena em regime integralmente fechado. Nova inteligência do princípio da individualização da pena, em evolução jurisprudencial, assentada a inconstitucionalidade do artigo 2º, § 1º, da Lei nº 8.072/90.”
+    10. Assim, a aplicação da superveniente Lei nº 11.464/2007, a qual deu nova redação ao dispositivo para permitir a progressão de regime mesmo em caso de condenação por crime hediondo, apenas exigindo o cumprimento de maior fração de pena, não é abrangida pelo verbete vinculante.
+    11. Incabível, portanto, a reclamação para este efeito.
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF,  nego seguimento à reclamação. Resta prejudicada a análise do pedido de medida liminar.
+    Publique-se. Intimem-se.
+          Brasília, 18 de março de 2020
+Ministro LUÍS ROBERTO BARROSO
+Relator
