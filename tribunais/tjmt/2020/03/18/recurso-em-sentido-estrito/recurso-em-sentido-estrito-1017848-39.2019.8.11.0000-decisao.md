@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NO RECURSO EM SENTIDO ESTRITO N. 1017848-39.2019.8.11.0000
+RECORRENTE: ELIAS BATISTA RAMOS
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 34829490) interposto por ELIAS BATISTA RAMOS, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 34330980):
+“RECURSO EM SENTIDO ESTRITO - HOMICÍDIO - PRONÚNCIA - AUSÊNCIA DE INDÍCIOS DE AUTORIA - PEDIDO DE DESPRONÚNCIA - DECLARAÇÕES COERENTES DAS TESTEMUNHAS PRESENCIAIS - PERÍCIA NO LOCAL E ARMA DO CRIME - INDÍCIOS DE AUTORIA SUFICIENTES PARA A PRONÚNCIA - JULGADO DO TJMT - ANÁLISE DO CONJUNTO PROBATÓRIO RESERVADO AO CONSELHO DE SENTENÇA - CP, ART. 5o, XXXVIII, ‘D’, DA CF - RECURSO DESPROVIDO. “A sentença de pronúncia se caracteriza como mero juízo de admissibilidade, na qual o magistrado não deve se aprofundar no conjunto probatório dos autos, mas apenas mencionar as provas sobre a materialidade delitiva e os indícios suficientes da autoria, porquanto compete ao Tribunal do Júri a apreciação das versões e teses existentes no feito, conforme art. 5o, XXXVIII, “c”, da CF” (TJMT, RSE no 97978/2017)” (RSE 1017848-39.2019.8.11.0000, DES. MARCOS MACHADO, PRIMEIRA CÂMARA CRIMINAL, Julgado em 18/02/2020, Publicado DJE em 27/02/2020)
+Alega violação aos art. 413 do CPP, ao argumento de inexistência de prova suficiente para sustentar a sentença de pronúncia.
+Recurso tempestivo (Id. 37173493).
+Contrarrazões – Id. 37499472.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, a análise da suposta violação ao art. 413 do CPP, fundada na tese de inexistência de prova suficiente a sustentar a sentença de pronúncia, exige o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA COM BASE EM ELEMENTOS COLHIDOS NA FASE EXTRAJUDICIAL. 1) VIOLAÇÃO AO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. 2) INOVAÇÃO RECURSAL CONFIGURADA. ALTERAÇÃO DAS RAZÕES. 3) IMPRONÚNCIA. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, VEDADO CONFORME SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 4) AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO. 1) Nos termos da jurisprudência desta Corte, encerrando, a sentença de pronúncia, conteúdo meramente declaratório e não juízo de certeza, esta pode ser fundamentada em elementos produzidos na fase inquisitorial. Precedentes (AgRg no AREsp 1342408/MT, de minha relatoria, QUINTA TURMA, DJe 15/2/2019). 2) Descabe, em sede de agravo regimental, ainda que mantido o artigo de lei federal violado, alterar o fundamento do pedido constante do recurso especial, por acarretar inovação recursal. Após interposto o recurso especial, novas teses de ilegalidades constantes do acórdão ficam obstadas pela preclusão consumativa. Precedentes. 3) Para se afastar a conclusão do Tribunal de origem a respeito da pronúncia, seria necessário o reexame fático-probatório, providência vedada pela Súmula n. 7/STJ, ante os indícios de autoria apontados no acórdão recorrido. 4) Agravo regimental parcialmente conhecido e desprovido.” (AgRg no AREsp 1269695/PI, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/04/2019, DJe 29/04/2019) (destaquei)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ, senão vejamos:
+“PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL. ART. 1o, I E II, DA LEI N. 8.137/90. 1) VIOLAÇÃO AO ARTIGO 157 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. 2) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. CONSEQUÊNCIAS DO CRIME. EXASPERAÇÃO IDÔNEA. 3) AGRAVO DESPROVIDO. 1. In casu, reconhecer a obtenção ilícita da prova pelos fiscais da Receita Federal demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem apresentou fundamentação concreta para entender pela licitude da prova, qual seja, o estabelecimento comercial ser aberto ao público, a atuação decorrente do poder de polícia e a coleta de dados ter sido realizada sem oposição do administrador. 1.1. É assente o entendimento deste Sodalício no sentido de que a análise da alegada divergência jurisprudencial fica prejudicada quando a suposta dissonância aborda a mesma tese que amparou o recurso pela alínea "a" do permissivo constitucional, e cujo julgamento esbarrou no óbice do enunciado n. 7 da Súmula deste Tribunal. 2. A desvaloração de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal. 2.1. In casu, o desvalor das consequências do delito foi justificado pelo montante sonegado aos cofres públicos. Precedentes. 3. Agravo regimental desprovido.” (AgRg no AREsp 682.150/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/04/2018, DJe 25/04/2018) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 18 de março de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
