@@ -1,0 +1,10 @@
+Despacho: 1. Trata-se de pedido de urgência, datada de 18.3.2020 (eDOC 23), por meio da qual a Defensoria Pública da União reitera o pleito de concessão da prisão domiciliar em favor de LUIZA APOLINÁRIO SOARES, condenada pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, ao cumprimento da pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado.
+    Sustenta, em suas razões, a necessidade de imediata adoção da referida substituição do regime prisional “por se tratar a recorrente de pessoa maior de 75 anos, acometida de hipertensão arterial sistêmica e diabetes mellitus tipo 2, em razão de ser ela pertencente ao grupo de risco do Coronavírus, tanto pela idade, quanto pela doenças que a atingem”.
+    2. Principio registrando que, em razão da disseminação do vírus causador da doença denominada COVID-19, o Plenário do Supremo Tribunal Federal, em sessão realizada em 18.3.2020, deliberou, por maioria dos seus integrantes, por negar referendo à referida decisão monocrática proferida pelo eminente Ministro Marco Aurélio, relator da ADPF 347, considerando, em essência, as providências constantes da Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça, dirigidas a Tribunais e magistrados em todo o território nacional.
+    3. Diante da amplitude subjetiva das recomendações expedidas, solicitem-se, com urgência, informações ao Juízo da Vara de Execuções Penais da Comarca de Criciúma/SC, pelo meio mais expedito (e-mail), para que, no prazo de 48 (quarenta e oito) horas, esclareça: (i) se foi submetido àquele Juízo pedido de concessão da prisão domiciliar em favor da ora recorrente em face do novo contexto relatado; (ii) as condições da penitenciária onde se encontra a apenada para prestar tratamento adequado à requerente em relação às patologias das quais é acometida.
+    Com estas, retornem os autos conclusos.
+    Publique-se. Intime-se.
+    Brasília, 19 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
