@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO INTERNO interposto nos autos do Recurso de Apelação Cível no 0000815-45.2015.8.11.0048 – Classe 206 – CNJ – JUSCIMEIRA
+Agravante : OSVALDO XAVIER DE AZEVEDO e outra
+Agravado : NELSON JOSÉ VIGOLO
+Número do Protocolo : 0000815-45.2015.8.11.0048
+Recurso de AGRAVO INTERNO interposto por OSVALDO XAVIER DE AZEVEDO e MARIA LÚCIA PORTO AZEVEDO contra a r. decisão que, por entender não demonstrado o recolhimento do preparo recursal no quinquídio assinalado pela decisão indeferitória do pedido de assistência judiciária gratuita, proclamou a deserção e não conheceu do Recurso de Apelação Cível no 0000815-45.2015.8.11.0048, interposto pelos agravantes contra a r. sentença pelo MM. Juiz de Direito da Única Vara da Comarca de Juscimeira/MT, que nos autos da ação de “Adjudicação Compulsória” (Proc. no 0000815-45.2015.8.11.0048 – Código 27887), ajuizada contra os agravantes por NELSON JOSÉ VIGOLO, julgou procedente o pedido para adjudicar, em favor do requerente, os imóveis matriculados o sob os no 481, 606 e 607, junto ao SRI da Comarca de Juscimeira/MT (cf. doc. Num. 34161468 - Pág. 1/3 e Num. 37260483 - Pág. 1).
+Os agravantes expõem que a decisão indeferitória do pedido de assistência judiciária gratuita disponibilizada no DJE no 10.684, do dia 27/02/2020, quinta-feira, considerada publicada em 28/02/2020, sexta-feira, deflagrando-se aí o prazo de cinco dias para recolhimento do preparo recursal, conforme ordenado, sendo que, “por um equívoco por conta do pagamento feito pelo aplicativo bancário, ao invés do pagamento ser feito no dia da emissão da guia”, fato ocorrido no próprio dia 27/02/2020, quinta-feira, “foi ele agendado para (o) dia 03/03/2020”.
+Asseveram que, embora se dessuma deste fato que o pagamento da guia tenha sido efetuado “posteriormente à sua data de emissão”, certo é que o recolhimento do preparo, efetivamente ocorrido em 03/03/2020, se deu “antes do término do prazo assinado” para tal providência, que se esgotou apenas em 06/03/2020.
+Argumentam que, mesmo se superada esta particularidade, o não recolhimento do preparo no quinquídio indicado ensejaria intimação para seu recolhimento em dobro, nos termos do art. 1.007, §4o, do CPC, o que, aliás, já foi feito.
+Discorrendo ainda sobre a ausência de prejuízo decorrente do regular processamento do recurso, “nem para o Egrégio Tribunal de Justiça, nem para as partes”, inclusive porque “a guia de preparo recursal, recolhida em dobro, está material e comprovadamente arrecadada e creditada dentro do prazo assinalado pelo relator”, e também sobre o princípio da primazia das decisões de mérito vigente no ordenamento jurídico pátrio, pedem reforma da r. decisão agravada, para que, afastada a deserção, seja dado regular prosseguimento ao feito nesta etapa recursal.
+É a suma do necessário.
+D E C I D O
+Sem delongas, considerando os fundamentos do presente Agravo Interno, plenamente respaldado pelo conjunto probatório dos autos, especialmente pela guia de recolhimento de preparo recursal expedida em 27/02/2020 e comprovante bancário de pagamento desta em 03/03/2020, bem como a certidão e o documento informativos de efetiva arrecadação dos valores ao FUNAJURIS (cf. docs. Num. 35283495 - Pág. 1, Num. 35283497 - Pág. 1, Num. 36766971 - Pág. 1 e Num. 36479987 - Pág. 1, respectivamente), capitulo do entendimento esposado na decisão recorrida e repilo a deserção equivocadamente proclamada.
+Pelo exposto, em sede de retratação (RITJMT, art. 134-A, §1o), revogo a decisão a Num. 37260483 - Pág. 1 e restabeleço o processamento do Recurso de Apelação Cível no 0000815-45.2015.8.11.0048, interposto por Osvaldo Xavier de Azevedo e Maria Lúcia Porto Azevedo.
+Considerando que já houve oferecimento de contrarrazões pelo apelado Nelson José Vigolo (cf. doc. Num. 34161485 - Pág. 1 a Num. 34161487 - Pág. 9), ordeno apenas a publicação da presente decisão, para fins de intimação das partes, e, após, retornem os autos conclusos para julgamento do apelo.
+Cumpra-se, expedindo o necessário.
+Cuiabá, 18 de março de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
