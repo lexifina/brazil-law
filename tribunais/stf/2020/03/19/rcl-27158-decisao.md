@@ -1,0 +1,23 @@
+DECISÃO
+RECLAMAÇÃO – SUSPENSÃO.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Encel – Engenharia de Construções Elétricas Ltda. afirma haver o Tribunal Regional do Trabalho da 3ª Região, no processo nº 0000293-05.2015.5.03.0076, inobservado o teor do verbete vinculante nº 10 da Súmula do Supremo.
+    Narra que o interessado, Rogério da Silva Neves, ajuizou ação contra si, na condição de empregadora e prestadora de serviços, e Cemig Distribuição S.A., visando o recebimento de verbas previstas em acordo coletivo firmado entre a concessionária de serviço público e os empregados. Menciona a procedência do pedido em primeira instância, no que reconhecida a ilicitude da intermediação de mão de obra ocorrida. O entendimento foi mantido em segundo grau, surgindo o apontado desrespeito. Noticia a pendência de extraordinário.
+    Assevera contrariedade ao paradigma, afirmando afastado, com alegada base na Constituição Federal e por órgão fracionário, o versado no artigo 25, § 1º, da Lei nº 8.987/1995, a permitir a terceirização de atividades inerentes ao serviço concedido. Eis os termos do preceito:
+    Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.
+    Evoca jurisprudência. Discorre sobre o marco regulatório do setor elétrico, considerado o disposto na mencionada Lei. Assevera adequado o desenvolvimento, por trabalhadores terceirizados, de atividades inerentes ao serviço objeto da concessão, entre as quais se incluem as desempenhadas pelo interessado na situação concreta. Conforme ressalta, a distribuição de energia elétrica constitui a atividade-fim da referida concessionária, não estando nela compreendidas manutenção e substituição de postes e fios rompidos, construção de hidrelétricas, pavimentação, obras de calçamento, entre outras. Conclui assinalando que o interessado atuava na área de manutenção, em relação à qual ficaria permitida a terceirização. Cita as Leis nº 13.429/2017, 5.645/1970 e o Decreto-Lei nº 200/1967. Reporta-se aos Temas nº 725 e 739 do repositório da repercussão geral.
+    Não alude ao requisito do risco.
+    Requer a cassação do ato atacado.
+    O Tribunal reclamado, nas informações, relata o histórico processual. Transcreve os fundamentos da decisão questionada.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Noticia que, quando da formalização da medida, já existia pronunciamento do Tribunal Superior do Trabalho. Frisa que, tendo em vista o efeito substitutivo, somente poderia ser objeto de reclamação esse último ato, a revelar a inadequação da medida. No mérito, sustenta ausente contrariedade ao enunciado vinculante nº 10 da Súmula do Supremo.
+    Vossa Excelência, em 1º de agosto de 2017, negou seguimento à reclamação. Interposto agravo interno, a decisão foi reconsiderada, sendo determinada a sequência da medida.
+    2. Levando em conta a instrumentalidade do Direito Processual, cabe racionalizar a entrega da prestação jurisdicional. O Pleno, nas sessões de 30 de agosto e 11 de outubro de 2018, ao apreciar, respectivamente, os extraordinários de nº 958.252 e 791.932, fixou as seguintes teses:
+    É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante.
+    É nula a decisão de órgão fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/1997, sem observar a cláusula de reserva de Plenário (CF, art. 97), observado o artigo 949 do CPC.
+    Uma vez dirimido o tema sob o regime da repercussão maior, cumpre ter presente os artigos 1.030, inciso II, e 1.040, inciso II, do Código de Processo Civil, a permitirem ao Órgão julgador de origem que, caso assim entenda, implemente o juízo de retratação.
+    3. Suspendo o processo pelo prazo de 30 dias, para, considerada a pendência de extraordinário e observadas as teses fixadas nos Temas nº 725 e 739, permitir a submissão, ao Colegiado competente do Tribunal Superior do Trabalho, da controvérsia revelada no processo nº 0000293- 05.2015.5.03.0076 .
+    4. Publiquem.
+Brasília, 19 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
