@@ -1,0 +1,26 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+JUIZADOS ESPECIAIS
+PRESIDÊNCIA DA TURMA RECURSAL ÚNICA
+Vistos etc.
+Trata-se de Recurso Extraordinário interposto pela parte Recorrente, com fulcro no art. 102, inciso III, alínea “a” da Constituição Federal, visando reformar decisão monocrática proferida pelo Relator.
+Contra a decisão monocrática do relator, objeto deste recurso, poderia ter interposto agravo interno, para ser apreciado pelo órgão colegiado, em face ao disposto no art. 1.021 do referido Código, in verbis:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal
+Se o órgão colegiado da Turma Recursal não acolhesse sua pretensão, aí sim, haveria possibilidade jurídica de interpor o Recurso Extraordinário.
+A decisão proferida monocraticamente pelo relator, não pode ser objeto de imediato a interposição de recurso extraordinário, ante o não esgotamento das vias recursais pela ausência de oferecimento do agravo interno, pois a decisão denegatória deve provir do órgão colegiado e não ato isolado de um de seus membros.
+A jurisprudência do excelso Supremo Tribunal Federal é pacífica no sentido de não ser admissível a interposição do Recurso Extraordinário contra decisão monocrática do relator, sem esgotar o recurso previsto na lei, que é o Agravo.
+Agravo regimental em agravo de instrumento. 2. Decisão monocrática. Não exaurimento de instâncias. Enunciado 281 da Súmula do STF. 3. Constitucional e Tributário. Artigos 1o e 2o da Lei Complementar n. 110/2001. Correção monetária do FGTS. Ausência de repercussão geral. Precedente. RE-RG 571.184. 4. Agravo regimental a que se nega provimento. (STF - AI 727143 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 28/02/2012, ACÓRDÃO ELETRÔNICO DJe-052 DIVULG 12-03-2012 PUBLIC 13-03-2012)
+Agravo regimental no recurso extraordinário. Embargos declaratórios rejeitados monocraticamente pelo Relator. Ausência de interposição do recurso cabível. Não esgotamento das instâncias ordinárias. Súmula no 281/STF.
+1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo Relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula no 281/STF.
+2. Agravo regimental não provido.
+(STF - RE 572470 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 31/05/2011, DJe-161 DIVULG 22-08-2011 PUBLIC 23-08-2011 EMENT VOL-02571-01 PP-00165)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS OPOSTOS NA ORIGEM DECLARADOS PREJUDICADOS PELO RELATOR. AUSÊNCIA DE INTERPOSIÇÃO DO RECURSO CABÍVEL. NÃO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA No 281/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE MANTEVE DECISÃO QUE HAVIA INDEFERIDO PEDIDO DE TUTELA ANTECIPADA. RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES.
+1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula no 281/STF.
+2. É pacífico o entendimento da Corte no sentido de que não cabe recurso extraordinário contra acórdão que concede ou indefere medida liminar ou antecipação de tutela. Incidência da Súmula no 735/STF.
+3. Agravo regimental não provido.
+(STF - RE 907099 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 22/09/2015, PROCESSO ELETRÔNICO DJe-224 DIVULG 10-11-2015 PUBLIC 11-11-2015)
+Desta forma, se contra a decisão monocrática foi interposto o Recurso Extraordinário, sem previamente utilizar o Agravo Interno, para o recurso ser julgado pelo órgão colegiado, o referido recurso não deve ser admitido.
+Ante o exposto, por não ter a parte Recorrente esgotado a prestação jurisdicional nesta Turma Recursal, NÃO ADMITO o presente Recurso Extraordinário.
+Intimem-se. Cumpra-se.
+VALMIR ALAÉRCIO DOS SANTOS
+Juiz de Direito - Presidente da Turma Recursal Única
