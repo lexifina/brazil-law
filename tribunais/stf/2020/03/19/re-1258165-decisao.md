@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Superior Tribunal de Justiça, em conflito positivo, reconheceu a competência da Justiça Federal para julgamento da controvérsia relativa à existência, ou não, de vínculo empregatício com a antiga Embratur no período de estágio, de modo a inviabilizar a estabilidade excepcional prevista no artigo 19 do Ato das Disposições Constitucionais Transitórias. No extraordinário, a recorrente aponta a violação do artigo 114, inciso I, da Constituição Federal. Diz ser competência da Justiça do Trabalho o reconhecimento do vínculo empregatício durante o período de estágio.
+    2. O Tribunal, no julgamento da medida cautelar na ação direta de inconstitucionalidade nº 3.395/DF, relator ministro Cezar Peluso, com acórdão público no Diário da Justiça de 5 de abril de 2006, conferiu interpretação ao artigo 114 da Constituição Federal de modo a afastar da competência da Justiça do Trabalho a apreciação de quaisquer causas entre os servidores e o Poder Público, assentada a jurisdição comum, ante fundamentos assim resumidos:
+    INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.
+    No mais, tendo o Tribunal de origem assentado a condição de estagiária da autora da ação, concluindo pela inexistência da natureza trabalhista, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    4. Em situações como esta, o STJ tem afirmado a competência da Justiça Federal para a análise da controvérsia, uma vez que a relação baseada em contrato de estágio não cria vínculo trabalhista, o que afasta a competência da Justiça Especializada. Nesse sentido, confiram-se:
+    Conflito de competência. Juízo do Trabalho e Juízo de Direito. Reclamatória. Estagiária.
+    1. Compete ao Juízo de Direito processar e julgar reclamação trabalhista baseada em contrato de estágio, haja vista que a Lei nº 6.494/77, art. 4º, regulamentada pelo Decreto nº 87.497/82, dispõe que a relação decorrente de contrato como o da espécie não cria vínculo trabalhista.
+    2. Conflito conhecido para declarar a competência do Juízo de Direito (CC 29.637/MG, Rel. p/ acórdão Min. CARLOS ALBERTO MENEZES DIREITO, DJU de 19.12.2003).
+     RECLAMAÇÃO TRABALHISTA. CONFLITO DE COMPETÊNCIA. CONTRATO DE ESTÁGIO.
+    1. Se o contrato de estágio não cria vínculo empregatício de qualquer natureza, conforme dispõe o art. 4º da lei nº 6.494/77, o litígio daí decorrente não se insere nas hipóteses de competência da justiça do trabalho, a este não cabendo processar e julgar o feito.
+    2. Conflito conhecido para declarar-se competente o Juízo de Direito da 1ª Vara da Fazenda Pública do Recife - PE, o suscitante (CC 20.335/PE, Min. ANSELMO SANTIAGO, DJU de 17.8.1998).
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais – Lei nº 6.494/1977, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+ Brasília, 19 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
