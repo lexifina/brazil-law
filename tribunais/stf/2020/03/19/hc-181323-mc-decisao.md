@@ -1,0 +1,20 @@
+DECISÃO
+CAUTELARES – FUNDAMENTOS – SUBSISTÊNCIA.
+CAUTELARES – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Edvaldo Ramos Nobre Filho prestou as seguintes informações:
+    O Juízo da Central de Flagrantes de Belo Horizonte/MG, no inquérito nº 0024.19.086121-1, converteu em preventiva a prisão em flagrante da paciente, ocorrida no dia 6 de setembro de 2019, em virtude do suposto cometimento da infração prevista no artigo 273, § 1º (ter em depósito produto destinado a fins terapêuticos ou medicinais falsificado, corrompido, adulterado ou alterado), do Código Penal. Ressaltou surpreendida na prática delitiva quando a autoridade policial efetivava prisão temporária decorrente da prática de aborto. Concluiu necessária a custódia para garantir a ordem pública.
+    Em 26 de setembro subsequente, tendo em vista a existência de filho portador de necessidades especiais (transtorno do espectro autista), dependente dos cuidados maternos, o Juízo do Segundo Tribunal do Júri da Comarca de Belo Horizonte, no processo nº 0480616-21.2019.8.13.0024, substituiu a preventiva por custódia domiciliar cumulada com as seguintes cautelares: monitoração eletrônica, recolhimento domiciliar em período integral, não se distanciar da residência mais de 50 metros, proibição de ausentar-se da Comarca sem autorização judicial e entrega de passaporte.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 544.386/SP. O Relator indeferiu o pedido de liminar.
+    O impetrante alega a insubsistência dos fundamentos do ato que implicou a prisão preventiva, afirmando-o lastreado na gravidade abstrata da infração. Sustenta o excesso de prazo da custódia domiciliar e das demais cautelares, sem que iniciada a instrução processual. Conforme argumenta, as medidas impostas inviabilizam a assistência ao filho da paciente. Destaca as condições pessoais – primariedade, ocupação lícita e residência fixa.
+    Requer, no campo precário e efêmero, o afastamento das cautelares substitutivas. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 18 de março de 2020, revelou que o processo-crime, encontra-se na fase de resposta à acusação.
+    A etapa é de apreciação da medida de urgência.
+    2. A prisão em flagrante, considerado o cometimento do delito de ter em depósito produto destinado a fins terapêuticos ou medicinais falsificado, corrompido, adulterado ou alterado, ocorrida por ocasião de efetivação de custódia temporária decorrente da prática de aborto, indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a prisão domiciliar e as demais cautelares mostraram-se viáveis, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamento o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Surge a problemática do excesso de prazo das medidas impostas em substituição à preventiva. Levando em conta a data em que estabelecidas, 26 de setembro de 2019, perduram por 5 meses e 22 dias. A manutenção por período indeterminado caracteriza constrangimento ilegal, porquanto resulta, em maior ou menor grau, na violação da liberdade de locomoção. À semelhança da cautelar de gravidade maior – a preventiva –, as providências mais brandas também devem balizar-se no tempo.
+    3. Defiro a liminar, para afastar a prisão domiciliar e as demais cautelares impostas pelo Juízo do Segundo Tribunal do Júri da Comarca de Belo Horizonte, no processo nº 0480616-21.2019.8.13.0024. Advirtam a paciente da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judicias, de informar eventual transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 19 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
