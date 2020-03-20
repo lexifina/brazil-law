@@ -1,0 +1,41 @@
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de tutela antecipada recursal, interposto por LUIZ ALCIR DE MORAES, contra a r. decisão proferida pelo Juízo da Vara Especializada do Meio Ambiente da Comarca de Cuiabá-MT, nos autos da Ação Declaratória de Nulidade de Ato Administrativo n.o 2661-53.2019.811.0082, que indeferiu a tutela de urgência pleiteada na inicial, consubstanciada na suspensão da multa ambiental lavrada por meio do Auto de Infração n.o 101.325, e por conseguinte, do Processo Administrativo n.o 324.671/2006.
+Aduz que em razão do processo administrativo ser anterior ao Decreto Estadual n.o 1.986/2013, deve se aplicado o prazo da prescrição intercorrente extrajudicial previsto no Decreto Federal n.o 20.910/32.
+Sustenta que de acordo com o Decreto Federal 20.910/32, o prazo para se concluir o processo administrativo é de 05 (cinco) anos, o qual não foi observado pela administração pública.
+Argumenta que quando o Decreto Estadual n.o 1.986/2013 entrou em vigor, já havia se operado a prescrição intercorrente administrativa com fulcro no Decreto Federal 20.910/32, motivo pelo qual, a legislação estadual não deve ser aplicada ao caso.
+Assevera que embora não tenha sido notificado da lavratura do auto de infração, que se deu em 21/11/2006, apresentou defesa administrativa em 27/09/2009.
+Assegura que somente na data de 17/01/2013 que foi proferida a decisão administrativa que homologou o auto de infração e, em 17/04/2016, foi julgado o recurso extrajudicial.
+Pontua que o crédito tributário já foi alcançado pelo instituto da prescrição, motivo pelo qual deve ficar suspenso até o julgamento do mérito da ação.
+Afirma que estão presentes os requisitos da probabilidade do direito e do perigo na demora, necessários para o deferimento da tutela de urgência.
+Com base nestes fundamentos, pugna pela concessão da tutela antecipada recursal. Ao final requer que seja dado provimento ao recurso, para deferir a tutela de urgência pleiteada exordial.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo ao Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, ambos do Novo Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de tutela antecipada recursal merece acolhimento. Vejamos.
+Extrai-se dos autos que, em 21/11/2006, foi lavrado pela SEMA o Auto de Infração Ambiental n.o 101.325, em desfavor do ora Agravante LUIZ ALCIR DE MORAES, sendo-lhe aplicado multa no valor de R$ 28.854,00 (vinte e outo mil oitocentos e cinquenta e quatro reais), a qual foi parcialmente homologada em 22/07/2008 pela Superintendência de Procedimento Administrativo e Autos de Infração, a qual decidiu pela aplicação de multa na importância de R$ 11.541,60 (onze mil quinhentos e quarenta e um reais e sessenta centavos), conforme se verifica dos documentos apresentados nos Ids. 37128960 - Pág. 51 e 37128960 - Pág. 55-68.
+O Autor, antes de ser notificado da imposição da multa, apresentou defesa administrativa em 29/07/2009, a qual foi analisada em 17/01/2013, sendo decidido pela minoração da multa à importância de R$ 9.618,00 (nove mil seiscentos e dezoito reais), conforme se vê do Id. 37128963 - Pág. 19-28.
+Contra a decisão de 1o grau administrativo foi interposto recurso pelo autor, o qual foi rejeitado em 17/04/2016 (Id. 37128963 - Pág. 50-53).
+O autuado ajuizou a ação originária alegando, em síntese, que em razão da morosidade para o encerramento do procedimento administrativo deve ser reconhecida a prescrição administrativa.
+Pois bem. Na vertente hipótese, uma vez que na data em que foi lavrado o auto de infração e instaurado o procedimento administrativo ainda não estava em vigor o Decreto Estadual no 1.986/2013, evidencia-se que deve se aplicado ao caso o prazo da prescrição intercorrente administrativa previsto no Decreto Federal n.o 20.910/1932.
+De acordo com o Decreto Federal a prescrição intercorrente nos casos dos processos administrativos, é de 5 (cinco) anos, contados da data do ato ou fato do qual se originarem, como cito:
+“Art. 1o As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+[...]
+Art. 5o Não tem efeito de suspender a prescrição a demora do titular do direito ou do crédito ou do seu representante em prestar os esclarecimentos que lhe forem reclamados ou o fato de não promover o andamento do feito judicial ou do processo administrativo durante os prazos respectivamente estabelecidos para extinção do seu direito à ação ou reclamação”.
+No caso dos autos, verifica-se que da homologação parcial da multa administrativa (22/07/2008) até a decisão final proferida no recurso administrativo (17/04/2016) transcorreu quase 08 (oito) anos, evidenciando possível prescrição.
+Nesse sentido tem se posicionado esta e. Corte de Justiça, como cito:
+“AMBIENTAL E PROCESSUAL CIVIL – RECURSOS DE APELAÇÃO – AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO – AUTO DE INFRAÇÃO – PRESCRIÇÃO INTERCORRENTE NO PROCESSO ADMINISTRATIVO – OCORRÊNCIA – APLICABILIDADE DO DECRETO N. 20.910/1932 – PRECEDENTES DO STJ – INEXISTÊNCIA DE FATO INTERRUPTIVO [...]. Evidenciado o decurso de mais de cinco anos entre a data da homologação da multa administrativa e a decisão final no recurso administrativo, sem que, nesse interregno, tenha havido a prática de qualquer manifestação hábil a interromper o prazo prescricional, operada está a prescrição intercorrente, com base no art. 1o do Decreto n. 20.910/1932 [...]”. (TJMT - N.U 0000110-86.2008.8.11.0082, Des. MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 20/08/2018, Publicado no DJE 30/08/2018)
+“REMESSA NECESSÁRIA - AÇÃO ORDINÁRIA - PROCESSO ADMINISTRATIVO - DEMORA NA APRECIAÇÃO - AFRONTA A PRINCÍPIO CONSTITUCIONAL DA RAZOABILIDADE (ART. 5o, LXXVIII, CF) - SENTENÇA RATIFICADA. A injustificada demora no trâmite e decisão dos procedimentos administrativos consubstancia lesão a direito subjetivo individual, passível de reparação pelo Poder Judiciário, à luz do disposto no artigo 5o, LXXVIII, da Constituição Federal”. (TJMT - N.U 0003248-80.2016.8.11.0082, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA APARECIDA RIBEIRO, Segunda Câmara de Direito Público e Coletivo, Julgado em 09/07/2019, Publicado no DJE 19/07/2019)
+Com efeito, verifica-se a presença do requisito da probabilidade do direito.
+Vislumbra-se, também, o perigo de dano e/ou o ou o risco ao resultado útil do processo, considerando que, acaso não suspensa a exigibilidade do crédito, a parte autora/Agravada ficará impedida de emitir certidão de regularidade fiscal, de realizar transações comerciais, e, ainda, poderá ter sua conta bancária bloqueada.
+Ante o exposto, defiro a tutela antecipada recursal vindicado, para determinar a suspensão da multa ambiental lavrada por meio do Auto de Infração n.o 101.325,até o julgamento do presente recurso.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se o Agravado, para querendo, apresentar resposta no prazo legal.
+À Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. Mario Roberto Kono de Oliveira
+Relato
