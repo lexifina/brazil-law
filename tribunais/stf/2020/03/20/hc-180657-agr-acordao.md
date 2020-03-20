@@ -1,0 +1,639 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+20/03/2020
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 180.657 PARÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: FRANCIDALVA NASCIMENTO DA SILVA
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO REGIMENTAL EM HABEAS CORPUS.
+AUDIÊNCIA DE INSTRUÇÃO. ALEGADO CERCEAMENTO DE
+DEFESA. PREJUÍZO NÃO DEMONSTRADO.
+1. Não haverá declaração de nulidade quando não demonstrado o
+efetivo prejuízo causado à parte (pas de nullité sans grief). Doutrina.
+Precedentes.
+2. Além de a ausência da Defensoria Pública não implicar a
+“automática redesignação dos atos nos processos conduzidos pela
+instituição, sob pena de se mitigar os poderes atribuídos ao magistrado
+na condução dos atos processuais” (HC 123494, Rel. Min. TEORI
+ZAVASCKI, Segunda Turma, DJe de 2/3/2016), a parte agravante nem
+sequer indicou de que modo a renovação dos atos processuais poderia
+beneficiar a paciente, limitando-se a tecer considerações genéricas sobre
+violação de princípio constitucional.
+3. Se “o Defensor dativo, dentro das possibilidades que lhe oferece
+um processo, com réu revel, cumpre satisfatoriamente sua missão, não se
+pode falar em deficiência de defesa” (HC 70.541, Rel. Min. SYDNEI
+SANCHES, Primeira Turma, DJ de 18/3/1994).
+4. Agravo regimental a que se nega provimento.
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Primeira Turma, sob a Presidência da Senhora
+Ministra ROSA WEBER, em conformidade com a ata de julgamento e as
+notas taquigráficas, por maioria, acordam em negar provimento ao
+agravo regimental, nos termos do voto do Relator, vencido o Ministro
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AF75-B8BA-D368-8354 e senha 1E48-54C0-A876-D45B
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+HC 180657 AGR / PA
+MARCO AURÉLIO.
+Brasília, 20 de março de 2020.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AF75-B8BA-D368-8354 e senha 1E48-54C0-A876-D45B
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+20/03/2020
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 180.657 PARÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: FRANCIDALVA NASCIMENTO DA SILVA
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão que
+indeferiu a ordem de Habeas Corpus impetrado contra acórdão da Sexta
+Turma do Superior Tribunal de Justiça (RHC 83.970/PA, Relator para
+Acórdão Ministro ROGERIO SCHIETTI CRUZ).
+Consta dos autos, em síntese, que a paciente foi “denunciada nas
+penas do art. 46, parágrafo único, c/c arts. 2º e 3º, todos da Lei n.
+9.605/1998 – por ter, na qualidade de administradora à época dos fatos, o
+controle sobre as atividades desenvolvidas pela empresa Pontual
+Madeiras Ltda. (venda de madeira e outros produtos de origem vegetal
+sem licença válida outorgada pela autoridade competente) –, e do art. 299
+do Código Penal, por falsidade ideológica”.
+Alegando que “é nula a audiência de inquirição de testemunha da
+acusação realizada com a nomeação de advogada dativa”, a defesa
+impetrou Habeas Corpus no Tribunal Regional Federal da 1ª Região, que
+denegou a ordem, conforme ementa:
+PROCESSUAL
+PENAL.
+INQUIRIÇÃO
+DE
+TESTEMUNHA DE ACUSAÇÃO. DEFENSORIA PÚBLICA DA
+UNIÃO. ATRASO. ADVOGADO AD HOC. NOMEAÇÃO. CPP,
+ART. 261. CERCEAMENTO DE DEFESA. PREJUÍZO NÃO
+DEMONSTRADO. PRINCÍPIO PAS DE NULLITÉ SANS
+GRIEF. CPP, ARTIGO 563. NULIDADE. AUSÊNCIA. HABEAS
+CORPUS. DIREITO DE IR E VIR. VIA INADEQUADA.
+REVOGAÇÃO DA AUDIÊNCIA. ORDEM DENEGADA.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6B8F-7DFD-0662-0238 e senha 40E2-1FFB-C2FD-D7B5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+HC 180657 AGR / PA
+1. Habeas Corpus impetrado sob alegação de cerceamento
+de defesa em face da realização de audiência de inquirição de
+testemunha sem a presença do defensor natural que, embora
+tenha comparecido ao ato, ausentou-se após atraso de trinta
+minutos do horário designado.
+2. Mostra-se destituída de fundamento a pretensão
+deduzida pela Defensoria Pública da União quanto ao
+refazimento do ato de inquirição de testemunha, por isso que,
+embora a ré não tenha comparecido, foi assistida por advogado
+dativo nomeado para o ato, em cumprimento às disposições do
+artigo 261 do Código de Processo Penal, não sendo dado
+cogitar-se de ocorrência de qualquer nulidade.
+3. Em sede de processo penal, de acordo com o princípio
+pas de nullité sans grief, consubstanciado no artigo 563 do
+Código de Processo Penal: "nenhum ato será declarado nulo se
+da nulidade não tiver resultado prejuízo para uma das partes".
+Precedentes do STF e STJ.
+4. O habeas corpus é o remédio constitucional destinado a
+tutelar a liberdade de locomoção, o direito de ir e vir. Tratandose de garantia individual que tem por finalidade fazer cessar o
+constrangimento ilegal ou a simples ameaça de constrição à
+liberdade de pessoa física, constitui via inadequada para o
+exame de questões alheias à sua finalidade constitucional.
+
+Irresignada, a Defensoria Pública interpôs Recurso Ordinário no
+Superior Tribunal de Justiça, que lhe negou provimento, em acórdão
+assim ementado:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM
+HABEAS CORPUS. ATRASO DE MAGISTRADO. AUDIÊNCIA
+DE OITIVA DE TESTEMUNHA. DEFENSOR PÚBLICO.
+RETIRADA DO RECINTO. ATO REALIZADO COM 50
+MINUTOS DE ATRASO. DESIGNAÇÃO DE ADVOGADO AD
+HOC. ACUSADA INTIMADA. NÃO COMPARECIMENTO.
+NULIDADE DO ATO. AUSÊNCIA DE PREJUÍZO. PAS DE
+NULLITÉ SANS GRIEF. NÃO OCORRÊNCIA. RECURSO NÃO
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6B8F-7DFD-0662-0238 e senha 40E2-1FFB-C2FD-D7B5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+HC 180657 AGR / PA
+PROVIDO.
+1. Para a declaração de nulidade de determinado ato
+processual, deve haver a demonstração de eventual prejuízo
+concreto suportado pela parte. Não é suficiente a mera alegação
+da ausência de alguma formalidade, mormente quando se
+alcança a finalidade que lhe é intrínseca, consoante o disposto
+no art. 563 do Código de Processo Penal.
+2. Na hipótese, embora a oitiva de testemunhas de
+acusação haja ocorrido sem a presença do defensor público, o
+qual havia anteriormente apresentado defesa escrita, foi
+designada advogada ad hoc para o ato, de forma que a ré não
+ficou indefesa. Aliás, ela, em que pese haver sido intimada, não
+compareceu e, por essa razão, foi declarada revel, de forma que
+não pode agora alegar nulidade por eventual deficiência da
+defesa, que, diga-se, não ficou demonstrada, notadamente
+porque não há notícias de haver o defensor público,
+previamente, conversado com a parte sob as minúcias da causa.
+3. Recurso não provido.
+
+Nesta ação, a Defensoria Pública da União sustentou que: (a) “O
+referido ato coator repercutiu em prejuízo da assistida, violando o seu direito de
+defesa, podendo afetar a sua liberdade de ir e vir, em razão de eventual
+proferimento de sentença condenatória, lastreada nas provas colhidas na referida
+audiência”; (b) “é entendimento doutrinário e jurisprudencial que o direito de
+defesa engloba a defesa técnica e a autodefesa, sendo esta última disponível
+decorrente da vontade livre e consciente do acusado”; (c) “A simples presença do
+defensor ad hoc não garante o respeito ao direito de defesa do acusado, uma vez
+que o causídico somente soube da demanda no momento do ato, para o qual foi
+designado, não dispondo do conhecimento necessário acerca dos fatos para exercer
+de forma efetiva o contraditório e a ampla defesa (art. 5º, LV, da CF/88)”; (d)
+“Esses direitos fundamentais compreendem a disposição de meios necessários
+pela parte ré para exercer o seu direito de defesa, bem como, a partir destes
+manifestar-se e ter a possibilidade de influir no convencimento do juiz. No caso
+concreto, a advogada nomeada, não participou efetivamente do ato processual em
+questão, não tendo formulado sequer pergunta às testemunhas de acusação,
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6B8F-7DFD-0662-0238 e senha 40E2-1FFB-C2FD-D7B5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+HC 180657 AGR / PA
+conforme registro constante nos autos”; (e) “O relato dos fatos demonstra que o
+ato processual atrasou 50 (cinquenta) minutos, o que é superior ao tempo exigido
+de espera na lei [art. 7º, XX, do Estatuto da OAB], em decorrência do não
+comparecimento pontual da autoridade judicial, sendo, portanto, justificada e
+legal a retirada do defensor do local de realização da audiência”, ressaltando que
+“a nomeação de um advogado ad hoc somente deve ser promovida se a ausência
+do defensor responsável pela defesa da parte ré não comparecer ao ato de forma
+justificada, conforme o disposto no art. 265, §2º, do CPP”.
+Requereu, assim, “a concessão da ordem, a fim de que seja anulada a
+audiência de inquirição de testemunhas de acusação, sendo renovado o ato com a
+presença do defensor público responsável pela defesa da assistida”.
+Indeferi a ordem.
+Neste recurso, a defesa reforça os argumentos anteriormente
+expendidos e pugna pela reconsideração da decisão agravada ou, caso
+assim não se entenda, postula o provimento do Agravo Regimental pelo
+Colegiado.
+É o relatório.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6B8F-7DFD-0662-0238 e senha 40E2-1FFB-C2FD-D7B5
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+20/03/2020
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 180.657 PARÁ
+
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+O agravo interno não apresentou qualquer argumento apto a
+desconstituir os fundamentos apontados na decisão impugnada, pelo que
+se reafirma o seu teor.
+Na presente hipótese, a insurgência centra-se na alegação de
+nulidade da audiência de instrução e julgamento realizada com a
+nomeação de advogada dativa, ao argumento de que a ausência do
+defensor público ocorreu em razão do atraso do Juízo em realizar a
+audiência.
+As instâncias ordinárias enfrentaram a matéria nos seguintes termos:
+Em relação ao ocorrido na data da audiência, o
+Magistrado a quo prestou as seguintes informações (fls. 41-43):
+[...]
+1) V.Exa. sabe melhor do que ninguém que esta 33
+Vara Federal está à beira do colapso. Desde 1993 para cá
+(22 anos) foram pequenos os períodos em que esta Vara
+contou com juiz substituto. O acervo de processos impares
+(juiz substituto)
+igual ao do juiz titular; então, não é exagero dizer-se
+que a vara trabalha no pleno emprego, onde um juiz
+executa tarefas de dois juízes. Não há dinheiro que
+remunere tanto desgaste e será dia de festa aqui, quando
+chegar um juiz substituto. Não me cabe aprofundar agora
+o porquê dessa carência de juízes e
+servidores, problemas acima das minhas atribuições.
+A menos que se trabalhe 24 horas sem parar, não há
+como dar vazão a tantas audiências, sem atropelos. Não
+custa mencionar que, nas 24 horas, o juiz dorme, toma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+HC 180657 AGR / PA
+café, almoça, janta, toma banho e o horário de 7 horas de
+jornada de trabalho é extrapolado diariamente.
+Faço audiências todos os dias e junto como prova a
+tabela de audiências do mês de junho/2015, lembrando,
+ainda, que reservo as manhãs para trabalhar em casa (no
+mínimo 5 horas).
+Miseravelmente, a necessidade de audiências de
+custódia reduziu a dedicação de tempo para julgamento
+de processos e sou obrigado a deslocar-me para o foro
+federal pela manhã por dezenas de vezes, tamanha a
+incidência de prisões em
+flagrante. Essas audiências de custódia são
+extremamente trabalhosas por exigirem logística com o
+Sistema Penal, o que gera atrasos e perda de tempo útil.
+O que a DPU não entende, ou finge não entender, é a
+situação caótica que já se iniciou. Estão em andamento
+inúmeras operações policiais (Operação Flagelo I,
+Operação Flagelo II, Operação Hidra de Lerna, Operação
+Ouro Verde I, Operação Ouro Verde II, Operação
+Arapiranga, Operação Giga Tribe), com dezenas de réus e,
+111, consequentemente, com centenas de audiências para
+instrução.
+Se V.Exa. atentar para o detalhe dos horários verá
+que não existe pontualidade da parte dos jurisdicionados,
+inclusive da DPU. Cansei de inverter pautas por falta de
+defensores públicos, aguardar defensores públicos,
+fracionar audiências por causa de defensores públicos,
+mas a partir de agora vou certificar nos autos todos os
+atrasos da DPU. Não adianta representar contra
+defensores públicos, porque a Corregedoria da DPU
+simplesmente não toma providências. Já reclamei, não dos
+atrasos da DPU, e sim, da forma descortês e desrespeitosa
+dos defensores públicos de se conduzirem em juízo,
+simplesmente retirando-se do recinto da audiência,
+sabendo que não há juiz substituto há anos, e que o
+volume de processos não é o de 1970.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+HC 180657 AGR / PA
+Eu duvido que, na atual conjuntura, alguém
+reclamasse do juiz Sérgio Moro da SJ/PR por acelerar a
+Operação Lava-Jato e atrasar outros feitos criminais. Esta
+3ª Vara Federal/PA julga grandes operações todos os anos.
+Eu disse julga, não apenas instrui. Só que aqui no Pará,
+defensores públicos inexperientes entendem que o juiz só
+tem para instruir os processos da DPU.
+É despropositada a menção ao art. 265/CPP, por não
+ser caso de abandono do processo por defensor. É
+impertinente a menção ao art. 7°, XX, da Lei 8.906/1994
+(EOAB), porque o defensor público não é advogado
+privado, e, mais do que ninguém, não desconhece o que
+seja estrutura do judiciário numa sociedade de massas.
+Na justiça do trabalho tenho notícias de atrasos por
+mais de 1h30min. Na justiça estadual, ai de quem reclamar
+dos atrasos, costumeiramente superiores a 1 hora! Num
+atendimento médico ou odontológico, mesmo privado, e
+nos aeroportos, os atrasos são frequentes. Será lá a
+situação diferente da justiça federal? Para a DPU a justiça
+padrão é a militar (pasmem!!!) segundo comentam. Uma
+comparação dessas sem sentido, revela o quanto existe de
+falta de vivência nos foros ordinários. Não pode esse E.
+TRF dobrar-se a reivindicações absurdas como a deste HC.
+O defensor público retirou-se do recinto porque quis, e
+seu dever é o de aguardar o início da audiência, porque
+aqui ninguém está brincando. Pela manhã, até a hora do
+almoço, é quando o julgador mais trabalha, julgando, sem
+tempo até para cuidar da saúde. Se chego com algum
+atraso, a DPU atrasa até mais, e não tenho culpa dos
+engarrafamentos, das chuvas, e outros riscos. O que
+importa é que as audiências, todas, são realizadas, com ou
+sem DPU.
+Já propus ao MPF que enquadre na lei de
+improbidade o defensor público que ganha vencimentos e
+não quer trabalhar. Totalmente descabida a menção à lei
+do EOAB, que, na parte em que se refere a atrasos na
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+HC 180657 AGR / PA
+audiência, é totalmente corporativo e inconstitucional, por
+não prever, em simetria, qualquer punição para o atraso
+de advogado. E defensor público não é advogado privado.
+2. A providência tomada em audiência dada a
+indisciplina do defensor público foi a de nomear defensor
+ad hoc, conforme determina o art. 265 do CPP. Não se trata
+de ad hoc qualquer e, sim de advogada brilhante que já
+atuou no foro federal, como estagiária, e tem tudo para
+destacar-se como profissional do direito. Quem, há de
+avaliar o prejuízo à defesa é o juiz criminal ou o Tribunal,
+não o defensor público.
+No mais, o ajuizamento deste HC é mais uma das
+cansativas peças da DPU, para tentar desmoralizar a
+atuação deste julgador, que tem sido inflexível na
+celeridade da prestação jurisdicional, embora desagrade
+quem defenda o lado do crime.
+Para esses deixo apenas o meu passado de árduo
+trabalho na luta pelo direito.
+Aproveito o ensejo para renovar protestos de apreço
+e consideração.
+O Tribunal de origem entendeu, então, que (fls. 77-81):
+Compulsando os presentes autos verifico que o
+ilustre Defensor Público requereu a expedição de Certidão
+(fl. 31), atestando que se retirara do foro, às 15:50hs, "em
+razão do atraso da audiência".
+Consta, ainda, que FRANCIDALVA NASCIMENTO
+DA SILVA, ora paciente, também, não compareceu à
+audiência e, por esse motivo, foi-lhe decretada a revelia (fl.
+32).
+Pois bem, em habeas corpus também impetrado pela
+Defensoria Pública da União contra ato do mesmo juiz
+federal que nomeou advogado ad hoc em face da retirada
+do Defensor Público, decidiu a Terceira Turma desta
+Corte, à unanimidade, denegar a ordem, ao entendimento
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+HC 180657 AGR / PA
+de que: "O réu foi assistido por advogado ad hoc, nomeado
+para o ato em cumprimento às disposições do artigo 261
+do Código de Processo Penal, não se mostrando possível,
+nesse contexto cogitar-se de ocorrência de nulidade por
+cerceamento de defesa" (HC n. 3811-75.2015.4.01.0000/PA,
+de minha relatoria, julgado em 14/04/2015 - grifei).
+Vê-se, portanto, diante das circunstâncias do
+presente caso, que a pretensão da impetrante mostra-se
+destituída de razoabilidade, uma vez que os fatos
+ocorridos não consubstanciam qualquer nulidade.
+Com efeito, apesar de o defensor natural, sob
+alegação de atraso no início da audiência, ter-se retirado
+após o decurso do tempo de tolerância de 30 minutos
+previsto no artigo 7°, inciso XX, do Estatuto da OAB (no
+caso, aplicado por analogia), mesmo estando ausente a ré,
+o certo é que foi assistida por advogada ad hoc, nomeada
+para o ato em cumprimento às disposições do artigo 261
+do Código de Processo Penal, não sendo possível, nesse
+contexto, cogitar-se na ocorrência de qualquer nulidade
+por violação aos princípios do devido processo legal, do
+contraditório e da ampla defesa.
+Deve-se salientar, a propósito, que em sede de
+processo penal, de acordo com o princípio pas de nullité
+sans grief, consubstanciado no artigo 563 do Código de
+Processo Penal: "nenhum ato será declarado nulo se da
+nulidade não tiver resultado prejuízo para uma das
+partes".
+[...]
+Por outro lado, é certo, há que se ter em conta que a
+testemunha de acusação se deslocou para ser ouvida em
+juízo e compareceu dentro do prazo previsto para a
+realização da audiência, não existindo razão para que seja
+reinquirida, até porque, conforme atesta a Autoridade
+Impetrada (fls.41/42), a defensora dativa nomeada "não se
+trata de ad hoc qualquer e, sim de advogada brilhante que
+já atuou no foro federal" (fl. 42).
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+HC 180657 AGR / PA
+[...]
+A propósito, conforme consignou a representante do
+Ministério Público Federal, a ilustre Procuradora
+WALQUÍRIA OLIVEIRA QUIXADÁ NUNES:
+"(...) O enunciado da Súmula 523 do Supremo
+Tribunal Federal dispõe que 'no processo penal, a
+falta de defesa constitui nulidade absoluta, mas a sua
+deficiência só o anulará se houver prova de prejuízo
+para o réu'. (...).
+Não bastasse a providência adotada pelo Juízo
+impetrado, no sentido de nomear defensor ad hoc à
+paciente, exclusivamente para aquela audiência de
+instrução,
+atendeu de modo satisfatório não só ao
+postulado constitucional do direito à ampla defesa,
+mas também aos princípios da razoabilidade e
+proporcionalidade. Ora, o adiamento da oitiva das
+testemunhas representaria prejuízo aos inúmeros e
+dispendiosos atos preparatórios efetivados pelo
+Estado a fim de viabilizar a realização da audiência
+(...)".
+(fls. 54 e 56-v° - grifei)
+Isto posto, em face de tais razões e fundamentos,
+denego a ordem de habeas corpus, determinando o
+prosseguimento da ação penal respectiva (Processo
+2008.39.00.004846-5/PA).
+É como voto.
+
+Não se pode ignorar a regra segundo a qual não haverá declaração
+de nulidade quando não demonstrado o efetivo prejuízo causado à parte
+(pas de nullité sans grief). Pertinentes, a propósito dessa temática, as lições
+de ADA, SCARANCE e MAGALHÃES: Sem ofensa ao sentido teleológico da
+norma não haverá prejuízo e, por isso, o reconhecimento da nulidade nessa
+hipótese constituiria consagração de um formalismo exagerado e inútil, que
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+HC 180657 AGR / PA
+sacrificaria o objetivo maior da atividade jurisdicional (As nulidades no processo
+penal, p. 27, 12ª ed., 2011, RT). Nesse mesmo sentido é a jurisprudência do
+SUPREMO TRIBUNAL FEDERAL: HC 130.433, Rel. Min. MARCO
+AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira
+Turma, DJe de 19/4/2018; HC 132.149-AgR, Rel. Min. LUIZ FUX, Primeira
+Turma, DJe de 16/6/2017; RE 971.305-AgR, Rel. Min. ROBERTO
+BARROSO, Primeira Turma, DJe de 13/3/2017; RHC 128.827, Rel. Min.
+RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/3/2017; RHC
+129.663-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de
+16/5/2017; HC 120.121-AgR, Rel. Min. ROSA WEBER, Primeira Turma,
+DJe de 9/12/2016; HC 130.549-AgR, Rel. Min. EDSON FACHIN, Primeira
+Turma, DJe de 17/11/2016; RHC 134.182, Rel. Min. CÁRMEN LÚCIA,
+Segunda Turma, DJe de 8/8/2016; HC 132.814, Rel. Min. TEORI
+ZAVASCKI, Segunda Turma, DJe de 1º/8/2016; AP 481-EI-ED, Rel. Min.
+DIAS TOFFOLI, Tribunal Pleno, DJe de 12/8/2014, este último assim
+ementado:
+4 .Além da arguição opportune tempore da suposta
+nulidade, seja ela relativa ou absoluta, a demonstração de
+prejuízo concreto é igualmente essencial para o seu
+reconhecimento, de acordo com o princípio do pas de nullité
+sans grief, presente no art. 563 do Código de Processo Penal.
+Precedentes.
+
+Na espécie, a instância antecedente destacou que: (a) “não há
+notícias de haver o defensor público, previamente, conversado com a
+parte”; (b) “a defensora designada para o ato pôde conhecer da causa
+igualmente pela simples leitura dos documentos já produzidos e juntados
+no processo até aquele momento”; (c) “não há nenhum dado concreto que
+permita inferir que a atuação do defensor público seria diferente da
+defensora ad hoc”; e (d) a própria acusada, embora intimada, não
+compareceu à audiência de instrução.
+Consideradas essas particularidades, aliadas ao disposto na
+legislação processual penal a respeito de nulidades, não há, realmente,
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+HC 180657 AGR / PA
+razão suficiente para nulificar o processo criminal, já que inexistente
+prejuízo ao exercício do direito de defesa do paciente.
+Com efeito, além de a ausência da Defensoria Pública não implicar
+“a automática redesignação dos atos nos processos conduzidos pela
+instituição, sob pena de se mitigar os poderes atribuídos ao magistrado
+na condução dos atos processuais” (HC 123494, Rel. Min. TEORI
+ZAVASCKI, Segunda Turma, DJe de 2/3/2016), a impetrante nem sequer
+indicou de que modo a renovação dos atos processuais poderia beneficiar
+a paciente, limitando-se a tecer considerações genéricas sobre violação de
+princípios constitucionais. Ora, “se o Defensor dativo, dentro das
+possibilidades que lhe oferece um processo, com réu revel, cumpre
+satisfatoriamente sua missão, não se pode falar em deficiência de defesa”
+(HC 70.541, Rel. Min. SYDNEI SANCHES, Primeira Turma, DJ de
+18/3/1994).
+Em conclusão, não se verifica ilegalidade apta a desconstituir o
+acórdão impugnado.
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É o voto.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D29F-A2D5-49F4-9668 e senha 5DAF-AFDD-98F5-5FC4
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+20/03/2020
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 180.657 PARÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: FRANCIDALVA NASCIMENTO DA SILVA
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O SENHOR MINISTRO MARCO AURÉLIO – O habeas corpus é ação
+constitucional voltada a preservar a liberdade de ir e vir do cidadão. O
+processo que o veicule, devidamente aparelhado, deve ser submetido ao
+julgamento de Colegiado. Descabe observar quer o disposto no artigo 21
+do Regimento Interno, no que revela a possibilidade de o Relator negar
+seguimento a pedido manifestamente improcedente, quer o artigo 932 do
+Código de Processo Civil. Ante o fato de atuar na sessão virtual, quando
+há o prejuízo da organicidade do Direito, do devido processo legal,
+afastada a troca de ideias e a sustentação da tribuna, provejo o agravo
+para que o habeas corpus tenha sequência.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7C62-6B4F-5D96-0F75 e senha 5D25-F31D-A5BE-1FF9
+
+Supremo Tribunal Federal
+Extrato de Ata - 20/03/2020
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 180.657
+PROCED. : PARÁ
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : FRANCIDALVA NASCIMENTO DA SILVA
+ADV.(A/S) : DEFENSOR PÚBLICO-GERAL FEDERAL
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por maioria, negou provimento ao agravo
+regimental, nos termos do voto do Relator, vencido o Ministro
+Marco Aurélio. Primeira Turma, Sessão Virtual de 13.3.2020 a
+19.3.2020.
+Composição: Ministros Rosa Weber (Presidente), Marco Aurélio,
+Luiz Fux, Luís Roberto Barroso e Alexandre de Moraes.
+João Paulo Oliveira Barros
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A2D-9975-BCC1-08DA e senha 24DB-F0E5-A4F0-2BD0
