@@ -1,0 +1,12 @@
+Despacho: 1. Trata-se de pedido protocolado em 19.3.2020 (e.Doc. 32), por meio do qual a defesa constituída reitera o pleito de prisão domiciliar humanitária em favor de Waldomiro de Oliveira.
+    Sustenta, em suas razões, a necessidade de imediata concessão da liberdade condicional ou de regime domiciliar ao paciente, nos termos da decisão do Min. Marco Aurélio, na ADPF 347, bem assim da recomendação constante da Resolução 62 do Conselho Nacional de Justiça de concessão de saída antecipada dos regimes fechado e semiaberto para, dentre outros, os idosos, com o escopo de evitar a propagação do novo Coronavírus (Covid-19) no âmbito do sistema prisional.
+    Nessa toada, especifica que o paciente, condenado pela prática de crime sem violência ou grave ameça à pessoa, conta com 76 (setenta e seis) anos de idade, além de ser portador de graves doenças crônicas.
+    Com essas considerações, requer a imediata colocação do paciente em regime domiciliar ou em liberdade condicional.
+    2. Principio registrando que, em razão da disseminação do vírus causador da doença denominada COVID-19, o Plenário do Supremo Tribunal Federal, em sessão realizada em 18.3.2020, deliberou, por maioria dos seus integrantes, por negar referendo à aludida decisão monocrática proferida pelo eminente Ministro Marco Aurélio de Mello, relator da ADPF 347, considerando, em essência, as providências constantes da Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça, dirigidas a Tribunais e magistrados em todo o território nacional, e cujo teor fora expressamente invocado pelo requerente.
+    Diante da amplitude subjetiva das recomendações expedidas, solicitem-se informações ao Juízo da Vara de Execuções Penais da Comarca de Campinas/SP, pelo meio mais expedito (e-mail), para que, no prazo de 48 (quarenta e oito) horas, esclareça (i) as providências adotadas, à luz da Recomendação n. 62 do Conselho Nacional de Justiça, em relação aos custodiados na Penitenciária III de Hortolândia, em especial no tocante ao requerente Waldomiro de Oliveira; e (ii) as condições da Penitenciária III de Hortolândia para prestar tratamento adequado ao requerente em relação às patologias das quais é acometido.
+    Com estas, abra-se vista à Procuradoria-Geral da República para manifestar-se, com a máxima urgência.
+    Publique-se. Intime-se.
+    Brasília, 20 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
