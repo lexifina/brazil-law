@@ -1,0 +1,15 @@
+PEDIDO DE RECONSIDERAÇÃO. NÃO CABIMENTO. DECISÃO NÃO IMPUGNADA. INEFICÁCIA SUSPENSIVA OU INTERRUPTIVA DE PRAZOS RECURSAIS. PEDIDO NÃO CONHECIDO. DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+    Decisão: Em decisão datada de 6/3/2020 julguei extinta esta reclamação, tendo em vista que o reclamante não regularizou o feito no prazo estabelecido.
+    Ato contínuo, foi apresentado o presente pedido de reconsideração, pelo qual o reclamante requer que seja cancelado o envio de ofícios ao Ministério Público Federal e à Ordem dos Advogados do Brasil – OAB, conforme determinado na decisão exarada em 17/12/2019.
+    É o relatório.
+    DECIDO.
+    De plano, constato que a irresignação manifestada por intermédio de “pedido de reconsideração” constitui meio processual absolutamente incabível para a reforma da decisão que extinguiu esta reclamação, ainda mais se considerarmos que tal pedido não traz qualquer fundamento impugnando este decisum. Portanto, há clarividente inobservância ao princípio processual da taxatividade dos recursos.
+    Assevere-se, ainda, que o pedido de reconsideração, por ser manifestamente incabível, não suspende o decurso do prazo recursal. Nesse sentido, confira-se o acórdão do Plenário desta Corte no AI 802.037-AgR-ED-Extn-Rcon, Rel. Min. Celso de Mello, DJe de 16/12/2014:
+    “DECISÃO QUE NÃO CONHECE DE PEDIDO DE EXTENSÃO DEDUZIDO EM SEDE PROCESSUAL PENAL – AGRAVABILIDADE (Lei nº 8.038/90, art. 39) – AUSÊNCIA DE IMPUGNAÇÃO RECURSAL – FORMULAÇÃO DE SIMPLES PEDIDO DE RECONSIDERAÇÃO – PLEITO QUE NÃO SE REVESTE DE EFICÁCIA SUSPENSIVA NEM INTERRUPTIVA DE PRAZOS RECURSAIS – PRECEDENTES – FORMAÇÃO DE COISA JULGADA – CONSEQUENTE IRRECORRIBILIDADE DA DECISÃO – PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO – DEVOLUÇÃO IMEDIATA DOS AUTOS AO JUÍZO DE ORIGEM, INDEPENDENTEMENTE DE PUBLICAÇÃO DO ACÓRDÃO REFERENTE A ESTE JULGAMENTO. – Simples pedido de reconsideração não se reveste de eficácia interruptiva ou suspensiva dos prazos recursais (RTJ 123/470 – RTJ 203/416 – RT 477/122 – RT 481/102, v.g.). – Os prazos recursais são peremptórios e preclusivos (RT 473/200 – RT 504/217 – RT 611/155 – RT 698/209 – RF 251/244). Com o decurso, ‘in albis’, do prazo legal, extingue-se, de pleno direito, quanto à parte sucumbente, a faculdade processual de interpor, em tempo legalmente oportuno, o pertinente recurso. – A tempestividade – que se qualifica como pressuposto objetivo inerente a qualquer modalidade recursal – constitui matéria de ordem pública, passível, por isso mesmo, de conhecimento ‘ex officio’ pelos juízes e Tribunais. A inobservância desse requisito de ordem temporal, por parte do interessado, provoca, como necessário efeito de caráter processual, a incognoscibilidade do recurso interposto ou, quando ausente este, do pedido de reconsideração.”
+    Ex positis, NÃO CONHEÇO do presente pedido de reconsideração, por manifestamente incabível, nos termos do artigo 21, § 1º, do RISTF.
+    À Secretaria, para certificação do trânsito em julgado.
+    Publique-se. Arquive-se.
+    Brasília, 20 de março de 2020.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
