@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO . ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 12.599/2017 DO MUNICÍPIO DE UBERABA – MG. USO E OCUPAÇÃO DO SOLO. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PELO PREFEITO. PETIÇÃO RECURSAL. AUSÊNCIA DE ASSINATURA DO PREFEITO. PETIÇÃO SUBSCRITA POR PROCURADOR JURÍDICO. ILEGITIMIDADE. PRECEDENTES. RECURSO NÃO CONHECIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo nas alíneas a e c do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – LEI MUNICIPAL – INICIATIVA DO PODER LEGISLATIVO – MATÉRIA DE USO E OCUPAÇÃO DO SOLO – VÍCIO DE INICIATIVA NÃO VERIFICADO – COMPETÊNCIA CONCORRENTE – ORIENTAÇÃO JURISPRUDENCIAL – STF – PEDIDO JULGADO IMPROCEDENTE.” (Doc. 21)
+    Os embargos de declaração opostos ao acórdão da ação direta de inconstitucionalidade foram desprovidos (Doc. 27).
+    Nas razões do apelo extremo, o Prefeito do Município de Uberaba sustenta preliminar de repercussão geral e, no mérito, afirma que o entendimento adotado pelo Tribunal de origem – para julgar improcedente a ação direta de inconstitucionalidade da Lei Municipal 12.599/2017, que “determina que os postes que dão sustentação às redes aéreas de distribuição de energia elétrica sejam preferencialmente colocados nas divisas dos lotes de terrenos” – viola os artigos 21, inciso XVII, “b”, 22, inciso IV, e 175 da Constituição da República, máxime porque o Município teria extrapolado os limites de sua competência legislativa (Doc. 31).
+    A recorrida deixou transcorrer in albis o prazo para apresentar contrarrazões ao recurso extraordinário (Doc. 35).
+    O Tribunal a quo admitiu o recurso extraordinário (Doc. 36).
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Esta Suprema Corte firmou entendimento de que apenas os entes que possuem legitimidade para suscitar o processo de fiscalização abstrata de constitucionalidade podem recorrer no âmbito da ação direta.
+    Nada obstante, verifica-se que a subscrição do recurso extraordinário não se deu pelo Prefeito de Uberaba, mas por procurador jurídico sem legitimidade ativa para atuar em sede de controle concentrado de constitucionalidade. É inadmissível recurso extraordinário aviado por ente legitimado sem que haja a sua assinatura da peça recursal. Nesse sentido, colacionam-se os seguintes julgados desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 16.3.2017. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. PETIÇÃO RECURSAL. AUSÊNCIA DE ASSINATURA DO PRESIDENTE DA CÂMARA MUNICIPAL. PETIÇÃO SUBSCRITA POR PROCURADOR JURÍDICO. ILEGITIMIDADE.
+    1. A legitimidade ativa para a propositura da ação direta de inconstitucionalidade, bem como dos recursos dela decorrentes, nos termos da Constituição Federal (art. 103, III), e, por simetria, pela Constituição Estadual (art. 118 da Constituição do Estado de Minas Gerais), pertence à Mesa da Câmara Municipal.
+    2. O procurador constituído pela parte legitimada não pode ajuizar, singularmente, ações de controle abstrato de constitucionalidade e interpor os recursos delas decorrentes, inclusive o recurso extraordinário, sem que as referidas peças processuais também estejam subscritas ou ratificadas pela parte legítima para propor a ação.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Sem honorários, por se tratar de recurso oriundo de ação direta de inconstitucionalidade.” (RE 934.913-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 8/11/2017, grifei)
+    “Agravo regimental no recurso extraordinário. Interposição do apelo extremo por entidade que não figura no rol dos legitimados a atuar em sede de controle concentrado previsto na Constituição do Estado de São Paulo. Ausência de legitimidade para recorrer. Inexistência, ademais, de assinatura do legitimado ratificando a atuação do procurador judicial. Inadmissibilidade do recurso extraordinário. Precedentes.
+    1. Consoante a pacífica Jurisprudência desta Corte, a legitimidade recursal no controle concentrado é paralela à legitimidade processual ativa, de modo que somente tem legitimidade para atuar nessa sede processual, seja para propor a ação direta, seja para interpor os recursos pertinentes durante seu processamento, a pessoa ou entidade designada no texto constitucional para essa finalidade.
+    2. Inexistência, ademais, de assinatura do legitimado constitucional na petição do recurso extraordinário ratificando a atuação do procurador judicial, a impor a manutenção da inadmissibilidade do apelo extremo. Precedentes.
+    3. Agravo regimental não provido.” (RE 868.639-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 10/8/2017, grifei)
+    Ex positis, NÃO CONHEÇO do recurso extraordinário, com fundamento no artigo 932, III, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 20 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
