@@ -1,0 +1,42 @@
+DECISÃO:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Crime de roubo. Uso de arma branca. Dosimetria da pena. Reformatio in pejus. Inexistência. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+    “PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO. ARMA BRANCA. NOVATIO LEGIS IN MELLIUS. VALORAÇÃO COMO CIRCUNSTÂNCIA JUDICIAL PELO JUÍZO DA EXECUÇÃO PENAL. POSSIBILIDADE. REFORMATIO IN PEJUS NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+    2. O delito em análise foi praticado com o emprego de arma branca, situação, de fato, não mais abrangida como majorante do crime de roubo, uma vez que a Lei n. 13.654/2018 revogou o inciso I do § 2º do art. 157 do CP.
+    3. Tendo em vista a abolitio criminis, promovida pela referida lei, e em observância ao art. 5º, inciso XL, da Constituição Federal, era mesmo de rigor a aplicação da novatio legis in mellius, excluindo-se, na terceira fase, a causa de aumento do art. 157, § 2º, inciso I, do CP.
+    4. É pacífico o entendimento jurisprudencial no sentido de que o emprego de arma branca,’embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem’ (HC 436.314/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 16/8/2018, DJe 21/8/2018).
+    5. Mesmo em recurso exclusivo da defesa é possível que o Tribunal passe a considerar o emprego de arma branca como circunstância judicial desfavorável, sem que isso configure ofensa ao princípio da reformatio in pejus, ‘desde que se valha de elementos contidos na sentença condenatória e não agrave a situação do réu.’ (HC 462.160/RJ, minha Relatoria, Quinta Turma, julgado em 6/11/2018, DJe 13/11/2018).
+    6. No caso, não houve aumento da reprimenda originalmente imposta tampouco falta de justificativa para o reconhecimento da maior reprovabilidade da conduta na primeira fase, tendo sido mantida a correta classificação dos fatos delituosos.
+    7. Writ não conhecido.”
+    2. Extrai-se dos autos que o Juízo das Execuções, deferindo o pedido formulado pela defesa, afastou a incidência da majorante do emprego de arma, por ter o crime de roubo sido perpetrado com arma branca, tendo, porém, valorado tal circunstância na primeira fase da dosimetria e mantido a exasperação da reprimenda em 1/3 pela incidência da majorante do concurso de agentes. Inconformada, a defesa interpôs agravo em execução, desprovido.
+    3. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 544.434, Min. Ribeiro Dantas, indeferiu a liminar e, posteriormente, a Quinta Turma do STJ não conheceu do habeas corpus.
+    4. Neste recurso ordinário, a defesa afirma que:
+          (i)  “o paciente na sentença penal condenatória teve valorado negativamente o concurso de pessoas na fixação da pena-base e, na terceira fase, reconheceu-se a causa de aumento de pena pelo uso de arma branca. No entanto, o artigo 4º da Lei n. 13.654, de 23 de abril de 2018, revogou expressamente a majorante prevista no inciso I do artigo 157 do Código Penal, instituindo como causa de aumento de pena somente o uso de arma de fogo”;
+          (ii) “trata-se, portanto, de um novatio legis que é mais benéfica ao paciente, devendo ser extirpado de sua condenação o cálculo relativo à terceira fase da dosimetria que impôs uma causa de aumento em razão do uso de arma branca”, e que “refazer a dosimetria invertendo o que restou determinado pela sentença penal condenatória se consubstancia em afronta ao artigo 185 da Lei 7.210/84,1 que prevê a ocorrência de excesso de execução sempre que algum ato for praticado além dos limites fixados na sentença”;
+          (iii) “não cabe ao Juízo de execução penal modificar título condenatório transitado em julgado para fazer prevalecer o seu juízo particular de censura em detrimento daquele juízo que foi apurado no devido processo legal de conhecimento. O excesso é patente e na mesma medida da ofensa ao artigo 185 da Lei 7.210/84”.
+    5. Decido.
+    6. O recurso ordinário não deve ser provido.
+    7. O Ministério Público Federal se manifestou nos autos sob os seguintes fundamentos, que acolho como razões de decidir:
+    “[...] o legislador optou por retirar do tipo de roubo a causa de aumento concernente à utilização de arma branca, caso em que estará configurado o crime de roubo simples, sem prejuízo de eventual majoração da pena-base quando as circunstâncias do caso concreto a justificarem.
+    10. Assim, o emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem.
+    11. Com efeito, conquanto o emprego de arma branca não consista mais majorante do crime de roubo, a partir da vigência da Lei n 13.654/2018, não se obsta sua aplicação quando da avaliação do art. 59, do CP, ainda que em recurso de apelação exclusivo da defesa, salvo se agravar a situação do réu.
+    12. Assim, cabe ao órgão julgador, ao aplicar retroativamente a Lei n. 13.654/2018, realizar uma nova dosimetria, observadas as circunstâncias judiciais do art. 59 do CP, não estando vinculada à pena-base fixada anteriormente, pois agora deverá avaliar, nessa fase, a maior reprovabilidade do emprego de arma na execução do delito.
+    13. Conforme apontou o STJ, a fl. 125, “não houve aumento da reprimenda originalmente imposta tampouco falta de justificativa para reconhecimento da maior reprovabilidade da conduta na primeira fase, tendo sido mantida a correta classificação dos fatos delituosos”.
+    […].”
+    8. O acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que, “com a edição da Lei n. 13.654/18, não mais se considera como causa de aumento o emprego de arma branca no crime de roubo. Entretanto, nada obsta a valoração dessa circunstância na primeira fase da dosimetria da pena” (RHC 176.359, Rel. Min. Alexandre de Moraes).
+    9. Ainda nessa linha, vejam-se o RHC 176.719, de minha relatoria e o RHC 175.510, Rel. Min. Luiz Fux, do qual se extrai da decisão os seguintes trechos:
+    “[...]
+    Na espécie, o juízo da execução procedeu à aplicação da novatio legis in mellius, que afastou o emprego de arma branca como causa de aumento de pena no crime de roubo. Por outro lado, reconheceu o juízo que tal circunstância não se tornou um indiferente penal, procedendo, portanto, à sua valoração na fixação da pena-base. […].
+    […]
+    […] com a edição da Lei 13.654/2018, não mais se considera circunstância majorante o emprego de arma branca no crime de roubo. Contudo, nada obsta a valoração dessa circunstância na primeira fase da dosimetria da pena. A propósito, cumpre mencionar precedente nesse sentido: HC 164.959, rel. min. Gilmar Mendes, Dje de 4/12/208.
+    Demais disso, conquanto a defesa sustente a caracterização da reformatio in pejus, verifico que não houve incremento na fundamentação da pena cominada ao paciente, porquanto não houve reconhecimento de novas circunstâncias desfavoráveis.
+    Com efeito, a sentença definitiva que condenou o paciente pelo crime de roubo já havia procedido à valoração da circunstância relativa ao concurso de agentes, contudo, o fez na primeira fase da dosimetria, em razão da existência de outra causa de aumento, qual seja, o emprego de arma branca.
+    Destarte, ao proceder à aplicação da Lei 13.654/18, o juízo realizou a readequação das circunstâncias já descritas na sentença transitada em jugado, de modo a adequar a dosimetria realizada à nova legislação.
+    Ademais, ressalte-se que não houve agravamento da situação jurídica do paciente, uma vez que a pena anteriormente fixada não foi majorada pela nova decisão.
+    […].”
+    10. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 20 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
