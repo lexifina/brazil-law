@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do acórdão prolatado pelo Superior Tribunal de Justiça:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSO CIVIL. INAPLICABILIDADE DO ART. 741, PARÁGRAFO ÚNICO, DO CPC, ACRESCIDO PELA MP N° 2.180-35/2001. SENTENÇA TRANSITADA EM JULGADO ANTES DA VIGÊNCIA DA NOVA LEGISLAÇÃO. 1. A alegação de declaração de inconstitucionalidade de norma a ser tratada em embargos à execução, nos termos do artigo 741, parágrafo único, do CPC, inserido pela Medida Provisória n.° 2.180/2001, somente pode valer a partir da sua edição, em respeito aos princípios constitucionais da coisa julgada (explícito) e da segurança jurídica (implícito). 2. O fato de o Supremo Tribunal Federal não ter adotado o mesmo posicionamento deste Superior Tribunal de Justiça, não impede esta Corte de dar a interpretação que entender mais correta a uma norma infraconstitucional. Não há, portanto, que se falar nem em violação ao princípio constitucional da reserva de plenário, nem em inobservância a orientação firmada em súmula vinculante, quando não há, ao menos implicitamente, declaração, por este Tribunal, de inconstitucionalidade de ato normativo. 3. Agravo regimental improvido."
+    O recorrente, no extraordinário cujo trânsito busca alcançar, afirma a violação dos artigos 5º, incisos XXXV e XXXVI, 37, cabeça, 97, 102, § 2º, 167, inciso II e 169, § 1º e incisos I e II, da Constituição Federal. Pretende o afastamento da coisa julgada, ainda quando consolidada antes da alteração do artigo 741 do Código de Processo Civil de 1973, considerada a existência de decisão fundada em norma declarada inconstitucional.
+    2. De início, quanto à evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    O entendimento lançado pelo Colegiado de origem está em sintonia com a jurisprudência do Supremo. Confiram com a seguinte ementa:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ARTIGO 741 DO CPC. APLICAÇÃO ÀS SENTENÇAS TRANSITADAS EM JULGADO ANTES DA EDIÇÃO DA MP Nº 2.180/2001. OFENSA REFLEXA. ALEGADA VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. AUSÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL A QUO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+(agravo regimental no recurso extraordinário nº 873.120, relator o ministro Luiz Fux, Primeira Turma, acórdão publicado no Diário da Justiça eletrônico de 11 de abril d 2016)
+    3. Conheço do agravo interposto e o desprovejo.
+    4. Publiquem.
+Brasília, 23 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
