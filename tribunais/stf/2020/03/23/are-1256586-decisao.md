@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO NO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “AGRAVO DE INSTRUMENTO JUÍZO DE ADMISSIBILIDADE EMBARGOS À EXECUÇÃO Decisão que homologou laudo pericial e declarou encerrada a instrução do processo. NÃO CONHECIMENTO: Decisão interlocutória não enquadrada no rol taxativo do art. 1.015 do CPC/2015. RECURSO NÃO CONHECIDO” (fl. 21, vol. 4).
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o inc. XXXV do art. 5º da Constituição da República.
+    3. O Presidente da Seção de Direito Público do Tribunal de Justiça de São Paulo negou seguimento ao recurso extraordinário com fundamento na sistemática da repercussão geral, Tema 424 (fls. 28-29, vol. 11).
+    Contra essa decisão a agravante interpôs recurso extraordinário com agravo para o Supremo Tribunal Federal, no qual alega que “encerrar a instrução sem a realização dessa prova fundamental, é impedir o exercício do direito a ação, estampado na Constituição Federal no inciso XXXV do art. 5º. Da mesma forma, obstaculizar a produção de prova fundamental para a demonstração do direito posto pela ora Agravante, fere frontalmente o Devido Processo Legal, principio pétreo da carta Magna” (fls. 1-8, vol. 12).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Este agravo não pode ser conhecido por incabível.
+    5. O Tribunal de origem aplicou a sistemática da repercussão geral e inadmitiu o recurso extraordinário, nos termos da al. a do inc. I do art. 1.030 do Código de Processo Civil.
+    No julgamento da Questão de Ordem no Agravo de Instrumento n. 760.358, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou não caber recurso ou outro instrumento processual para o Supremo Tribunal Federal contra a decisão pela qual se aplica a sistemática da repercussão geral na origem:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (Plenário, DJe 3.12.2009).
+    Confira-se também o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. RECURSO MANIFESTAMENTE INCABÍVEL. PRECEDENTES. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.118.522-AgR, de minha relatoria, Plenário, DJe 22.8.2018).
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, não conheço do recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de março de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
