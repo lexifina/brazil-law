@@ -1,0 +1,19 @@
+Trata-se de agravo interposto contra decisão por meio da qual não se admitiu o recurso extraordinário.
+    Bem examinados os autos, verifico que o RE foi interposto intempestivamente.
+    Isso porque o acórdão impugnado foi publicado em 3/4/2019 (pág. 210 do documento eletrônico 3), porém o recurso extraordinário foi interposto apenas em 22/4/2019 (pág. 273 do documento eletrônico 3), fora do prazo previsto no art. 1.003, § 5°, do Código de Processo Civil, combinado com o art. 798 do Código de Processo Penal.
+    No caso, o termo final para a apresentação do recurso se deu em 22/4/2019 (segunda-feira), uma vez que a contagem dos prazos processuais penais deve correr de forma contínua, ante o disposto no art. 798 do CPP. Nesse sentido, cito precedentes de ambas as Turmas desta Corte:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – INTEMPESTIVIDADE DO APELO EXTREMO – INOBSERVÂNCIA DO PRAZO PARA INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO EM MATÉRIA CRIMINAL – MODO DE CONTAGEM DOS PRAZOS PROCESSUAIS PENAIS – DISCIPLINA NORMATIVA EXPRESSA (CPP, ART. 798, ‘CAPUT’) – INEXISTÊNCIA DE OMISSÃO NA LEGISLAÇÃO PROCESSUAL PENAL (CPP, ART. 3º) – INAPLICABILIDADE DA REGRA FUNDADA NO ART. 219, ‘CAPUT’, DO CÓDIGO DE PROCESSO CIVIL DE 2015 – AGRAVO INTERNO IMPROVIDO” (ARE 1.086.135-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE GUARDA E POSSE DE OBJETOS DESTINADOS À PREPARAÇÃO OU TRANSFORMAÇÃO DE DROGAS. ARTIGO 34, CAPUT, DA LEI 11.343/2006. CONTAGEM CONTÍNUA DO PRAZO EM MATÉRIA PENAL. ARTIGO 798 DO CÓDIGO DE PROCESSO PENAL. APELO EXTREMO INTEMPESTIVO. AGRAVO INTERNO DESPROVIDO” (ARE 1.091.883-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    Embora seja o caso de negar seguimento ao agravo, constato tratar-se de hipótese de flagrante constrangimento ilegal a autorizar a concessão do habeas corpus, de ofício, nos termos do art. 5°, LXVIII, da Constituição Federal e do art. 654, § 2°, do CPP.
+    Verifico que o Tribunal de Justiça de Minas Gerais Catarina manteve a pena do recorrente em 18 anos e 8 meses reclusão bem como a execução antecipada da pena nos seguintes termos:
+    “Em relação a manutenção da prisão do apelante, ressalta-se que tal pleito já foi devidamente analisado pelo MM. Juiz sentenciante, tendo sido mantida a prisão e determinada a expedição da guia de execução provisória, inexistindo qualquer reparo a ser feito neste ponto” (pág. 186 do documento eletrônico 3).
+    Todavia, no julgamento das ADC’s 43 e 44, esta Suprema Corte julgou-as procedentes para declarar a constitucionalidade do art. 283 do Código de Processo Penal, na redação dada pela Lei 12.403, de 2011, cujo teor é o seguinte:
+    “Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva”.
+    Assim, levando-se em consideração que o art. 283 do CPP está em absoluta harmonia com o art. 5°, LVII, da CF, não há como dar-se início à execução da pena antes do trânsito em julgado da sentença penal condenatória restando superados os fundamentos externados no HC 126.292/SP e no RE 964.246-RG.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF), e, nos termos do art. 5°, LXVIII, da Constituição e art. 654 do CPP, concedo a ordem de habeas corpus, de ofício, a fim de que o recorrente aguarde, em liberdade, o trânsito em julgado da sentença penal condenatória (art. 5°, LVII, da CF e art. 283 do CPP).
+    Expeça-se alvará de soltura clausulado.
+    Comunique-se ao Tribunal de Justiça de Minas Gerais.
+    Publique-se.
+    Brasília, 23 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
