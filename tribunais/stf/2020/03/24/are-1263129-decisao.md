@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, do qual se extrai da ementa o seguinte trecho:
+    “APELAÇÃO CRIMINAL - CONDENAÇÃO - TRÁFICO DE ENTORPECENTES – RECURSO DA DEFESA – 1. ABSOLVIÇÃO/DESCLASSIFICAÇÃO - ART. 28 DA LEI ANTIDROGAS – IMPROCEDÊNCIA – PROVA DA MATERIALIDADE E AUTORIA DO TRÁFICO ILÍCITO DE ENTORPECENTES – 2. PENA BASILAR – MÍNIMO LEGAL – IMPROCEDÊNCIA – CONSEQUÊNCIAS DO CRIME – COMÉRCIO DE DROGAS ENVOLVENDO CAMINHONEIROS – CONDUÇÃO DE VEÍCULO SOB EFEITO DE COCAÍNA – RISCO DE ACIDENTES - PENA BASILAR ACIMA DO MÍNIMO LEGAL – NATUREZA DELETÉRIA DA COCAÍNA, QUE AUTORIZA - ART. 42 DA LEI Nº 11.343/06 – 3. REGIME PRISIONAL FECHADO – IMPERTINÊNCIA – PENA BASE ACIMA DO MÍNIMO LEGAL – 4. ISENÇÃO DAS CUSTAS PROCESSUAIS – HIPOSSUFICIÊNCIA – IMPERTINÊNCIA – IMPOSIÇÃO LEGAL – COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL – RECURSO DESPROVIDO – CONSONÂNCIA COM O PARECER MINISTERIAL.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, XLVI e 93, IX, da CF. Sustenta a “AUSENCIA DE APLICAÇÃO DE CAUSA DE DIMINUIÇÃO DE PENA, não sendo possível, pois, que o Tribunal, diante da ausência de justificativa acerca da não concessão do benefício em seu grau máximo, venha a NÃO concedê-lo, ao invés de remeter os autos ao magistrado para que fundamente seu convencimento sobre TAL AUSÊNCIA DO PERCENTUAL”.
+    O recurso é inadmissível, tendo em vista que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; o RE 505.815-AgR, Rel. Min. Joaquim Barbosa; e o ARE 1.075.559, Rel. Min. Luiz Fux.
+    No caso, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    E mais: o STF já decidiu que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
