@@ -1,0 +1,20 @@
+DECISÃO
+    Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 5ª região que, em habeas corpus, afastou a decisão proferida em execução fiscal que determinava a suspensão do passaporte do executado. No apelo extremo, interposto com amparo no art. 102, III, alínea “a” da Constituição Federal, o Ministério Público Federal sustenta que o acórdão violou o art. 5º, LXVII, da Constituição Federal.
+    Em suas razões, sustenta a ausência de autorização constitucional para a impetração de habeas corpus contra suspensão de passaporte em processo cível, haja vista que não há restrição direta, imediata, a liberdade de locomoção. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, com base nos elementos fáticos dos autos, entendeu presente a ameaça à liberdade de locomoção do ora recorrido em acórdão assim resumido (Vol. 1, fls. 221-222):
+    “CONSTITUCIONAL. CÓDIGO DE PROCESSO PENAL. HABEAS CORPUS. LIBERDADE DE LOCOMOÇÃO. ILEGALIDADE. ABUSO DE PODER. IMINÊNCIA. COAÇÃO ILEGAL. A Liberdade de Locomoção no espectro constitucional compreende elenco mais preciso e abrangente. Absorve e recepciona a vaga construção do Código de Processo Penal.
+    AMEAÇA. Ameaça sobre ser Garantia e Proteção não é espaço indistinto. Provém de Ilegalidade ou Abuso de Poder. A abstração anterior da ideia de Ir e Vir não suprime a Causa Jurídica dos limites ao exercício do Direito Subjetivo de Locomoção. A Ameaça concreta, atual ou iminente, sobre ser temporal, advém de Ilegalidade ou Abuso de Poder. "Sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder" . (Constituição Federal). " Sempre que alguém sofre ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir." (Código de Processo Penal).
+    DICÇÃO CONSTITUCIONAL. LEGALIDADE. Extrai-se na dicção constitucional de que toda Coação ou Abuso de Poder, não conformando-se ao Controle da Legalidade, dá ensejo ao Habeas Corpus ou aos Recursos Legais. O que está fora dela ameaçando-a ou violando-a. No Habeas Corpus abrange o que a Lei não prevê expressamente e o que a Constituição protege. Na Legalidade, a previsão infraconstitucional.
+    HIPÓTESE. Habeas Corpus impetrado em face de Decisão proferida nos autos de Ação de Execução Fiscal, que determinou a suspensão da Carteira Nacional de Habilitação e do Passaporte do Executado, ora Paciente, pelo prazo de cinco anos, "sem prejuízo da cessação da medida antes do prazo fixado, em caso de pagamento ou garantia integral da dívida."
+    Revela-se inadequada a suspensão do Passaporte, porquanto há Penhora de Imóveis, um deles pertencente ao Executado, nos autos da Ação de Execução Fiscal, e uma vez que não fora observado o Contraditório antes da adoção da medida de suspensão do Passaporte.
+    Concessão, em parte, da Ordem.”
+    Assim, acolher as razões do recurso extraordinário demandaria a incursão no conjunto probatório dos autos, inviável, nos termos da Súmula 279 (para simples reexame de prova não cabe recurso extraordinário) desta CORTE.
+    Por outro lado, o apelo extremo não se ocupou de afastar os argumentos supracitados, de modo que as alegações sustentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido, o que faz incidir, no caso, os óbices das Súmulas 283 (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles) e 284 (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia), ambas do STF.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 24 de março de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
