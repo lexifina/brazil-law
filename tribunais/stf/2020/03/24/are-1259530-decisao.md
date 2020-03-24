@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 22, pp. 38-53):
+    “RECURSO DE APELAÇÃO CRIMINAL - APROPRIAÇÃO INDÉBITA MAJORADA EM RAZÃO DO OFÍCIO - NULIDADES - PRESCRIÇÃO - CERCEAMENTO - NÃO OCORRÊNCIA - ABSOLVIÇÃO - REDUÇÃO DA PENA - IMPOSSIBILIDADE, NO CASO - SENTENÇA CONDENATÓRIA MANTIDA - RECURSO NÃO PROVIDO. Ausente o transcurso do prazo prescricional durante a persecução criminal, devido a suspensão do feito na forma do art. 366 do Código de Processo Penal, não há que se falar em ausência da pretensão punitiva. "Não será declarada a nulidade de ato processual que não houver influído na apuração da verdade substancial ou na decisão da causa." (art. 566 do Código de Processo Penal). "No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu." (Súmula no. 523 do Supremo Tribunal Federal). Comprovada a apropriação indébita de bens por parte do agente, que tinha sua posse ou detenção em razão do ofício, mister é sua condenação nas sanções do art. 168, § 10, inciso III do Estatuto Repressivo. Preenchidas as condições do art. 71 do Código Penal, deve ser reconhecida a continuidade delitiva. A fixação da pena acima do mínimo legal, desde que devidamente fundamentada e em consonância com o disposto no art. 68 do Código Penal, representa a resposta estatal necessária e suficiente para reprovação e prevenção do crime. Apelação conhecida e não provida. “
+    Os embargos de declaração não foram conhecidos, em virtude de sua intempestividade (eDOC 23, pp. 13-15).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 1º, III, e 5º, LIV e LV, da Constituição da República.
+    O apelo extremo foi inadmitido na origem em razão da intempestividade do recurso extraordinário (eDOC 25, pp. 5-7).
+    É o relatório. Decido.
+    Verifico que o presente agravo é intempestivo. Com efeito, a decisão agravada foi publicada em 8/7/2019 (segunda-feira) (eDOC 25, p. 8). O prazo para recurso iniciou-se em 9/7/2019 (terça-feira) e findou-se em 23/7/2019 (terça-feira). Ocorre que o agravo foi interposto somente em 26.7/2019 (sexta-feira), quando já expirado o prazo de 15 (quinze) dias corridos.
+    Ressalto que, a despeito do que dispõe o art. 219, caput, do NCPC, que determina a contagem do prazo recursal em dias úteis, o caso em apreço trata de agravo em recurso extraordinário em matéria criminal, cujo processo é regido por normas processuais penais.
+    As regras do processo civil só se aplicam aos processos penais subsidiariamente, pela via do art. 3º do CPP, vale dizer, quando não houver regra processual penal expressa regulando a matéria.
+    Dessa forma, sempre que em conflito regras formalmente expressas em lei, há de ser aplicado o critério da especialidade. No caso, a contagem dos prazos no processo penal está prevista em regra específica do CPP, que dispõe:
+    Art. 798. Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+    Sendo assim, o novo Código de Processo Civil não regula o processo penal nesse particular. Tratando-se de matéria com regulamentação expressa, não demanda, portanto, aplicação subsidiária do NCPC.
+    Logo, diante da nova sistemática processual, o prazo para interposição do agravo que almeja destrancar recurso extraordinário criminal inadmitido na origem passou a ser de 15 (quinze) dias, face ao NCPC. Porém, a contagem continua regida pelo CPP.
+    Considerando que o protocolo do recurso em exame se deu após o transcurso do prazo de 15 (quinze) dias, contados de forma contínua, é intempestivo o presente agravo.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 24 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
