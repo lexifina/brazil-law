@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado:
+    “RECURSO EM SENTIDO ESTRITO - REFORMA DA DECISÃO QUE NÃO RECEBEU O RECURSO DE APELAÇÃO - PRIMEIRO JULGAMENTO - APELAÇÃO MINISTERIAL - SEGUNDO JULGAMENTO - APELAÇÃO DA DEFESA - DECISÃO CONTRÁRIA À PROVA DOS AUTOS - SUBMISSÃO A NOVO JURI - IMPOSSIBILIDADE - MESMO FUNDAMENTO - VEDAÇÃO EXPRESSA NO ART. 593, §3°, DO CPP - RECURSO CONHECIDO E IMPROVIDO.
+    1 - O Código de Processo Penal dispõe, em seu art. 593, § 3°, a respeito da vedação expressa da admissão de nova apelação contra o veredicto popular, se por idêntico fundamento promoveu-se a anulação do julgamento anterior, de modo a se evitar a prorrogação infindável do litígio, pela reiterada interposição de recurso.
+    2 - Considerando que houve um primeiro julgamento realizado pelo Tribunal do Júri, no qual de acordo com a vontade soberana dos jurados, o acusado, ora recorrente, foi absolvido, e esta eg. Corte de Justiça deu provimento ao recurso interposto pelo Ministério Público para anular o julgamento, com fundamento na alínea ‘d’ do inciso III do art. 593 do Código de Processo Penal, não é possível a interposição de novo recurso, com base no mesmo fundamento, como pretende a combativa defesa.
+    3 - Recurso conhecido e improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e § 2º, da CF. Afirma que “está sendo negado o acesso ao duplo grau de jurisdição, pois no primeiro momento era juridicamente impossível, ante a ausência de um requisito intrínseco. Já nesse momento, tem-se a impossibilidade causada pela inobservância do conteúdo do art. 5", LIV e art. 5" §2" da CF/88 pelo juízo de origem e pelo e. TJTO”.
+    O recurso é inadmissível, tendo em vista que por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Ademais, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Por fim, vale ressaltar que a jurisprudência do Supremo Tribunal Federal é firme no sentido da inexistência de repercussão geral da discussão acerca dos pressupostos de admissibilidade de recursos de competência de Cortes diversas, por não se tratar de matéria constitucional (RE 598.365-RG, Rel. Min. Ayres Britto).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso .
+    Publique-se.
+          Brasília, 24 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
