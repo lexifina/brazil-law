@@ -1,0 +1,23 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara da Comarca de Andradas/MG, no processo nº 0018132-63.2018.8.13.0026, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 20 de março de 2018, ante a suposta prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006. Destacou a materialidade e indícios de autoria, aludindo à apreensão de 39 quilos de maconha. Concluiu indispensável a custódia para garantir a ordem pública.
+    Em 6 de maio de 2019, condenou-o a 8 anos e 10 meses de reclusão, em regime inicial de cumprimento fechado, e 1.260 dias-multa, em virtude do cometimento dos mencionados delitos. Deixou de reconhecer o direito de recorrer em liberdade, assentando permanecerem os motivos ensejadores da prisão.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 547.620/MG. O Relator inadmitiu-o.
+    Os impetrantes sustentam a insubsistência dos fundamentos da decisão que implicou a preventiva, mantida na sentença condenatória, afirmando-a lastreada na gravidade abstrata do crime. Apontam o excesso de prazo da custódia, a perdurar, segundo aduzem, por mais de 1 ano e 11 meses. Realçam não se tratar de demora atribuível à defesa. Assinalam a formalização de recurso de apelação, pendente de exame. Dizem violado o artigo 5º, inciso LXVIII, da Constituição Federal. Sublinham as condições pessoais do paciente – primariedade e bons antecedentes.
+    Requerem, no campo precário e efêmero, o afastamento da preventiva e, sucessivamente, a aplicação de cautelar diversa, sem especificá-la. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 23 de março de 2020, revelou a interposição de apelação, pendente de análise. Não se verificou a existência de pronunciamento concernente à manutenção da preventiva do paciente.
+    A fase é de apreciação da medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, considerada a quantidade de entorpecentes encontrados – 39 quilos de maconha –, indicam estar em jogo a preservação da ordem pública. O Juízo, ao deixar de reconhecer o direito de recorrer solto, salientou a manutenção dos motivos ensejadores da custódia. Sem prejuízo do princípio constitucional da não culpabilidade, a prisão mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    O parágrafo único do artigo 316 do Código de Processo Penal, incluído pela Lei nº 13.964/2019, passou a dispor sobre a duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, mediante ato fundamentado.
+    Apresentada motivação suficiente à manutenção da prisão, desde que levado em conta o lapso de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal resultante de excesso de prazo, revelando-se subsistente a custódia.
+    O paciente está preso, sem culpa formada, desde 20 de março de 2018, ou seja, há 2 anos e 4 dias. Uma vez inexistente ato sobre a indispensabilidade da medida, tem-se desrespeitado o artigo 316, parágrafo único, surgindo configurado o excesso de prazo.
+    A superveniência da decisão condenatória recorrível não afasta o caráter preventivo da prisão. Não decorrendo a custódia de título condenatório alcançado pela preclusão maior, a prisão reveste-se de natureza cautelar, conforme previsto no artigo 283, cabeça, do Código de Processo Penal. O artigo 387, § 1º, denomina, expressamente, preventiva a custódia oriunda da condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre custodiado por motivo diverso da prisão preventiva formalizada no processo nº 0018132-63.2018.8.13.0026, da Primeira Vara da Comarca de Andradas/MG. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 24 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
