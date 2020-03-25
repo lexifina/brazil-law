@@ -1,0 +1,29 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO CÍVEL (198) 1003987-96.2018.8.11.0007
+APELANTE: DIONE IUDI MINE
+APELADO: MUNICIPIO DE CARLINDA MT, ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de Recurso de Apelação Cível interposto pela DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO, nos autos da Ação de Obrigação de Fazer que move em favor de MARIA DIONE IUDI MINE contra o ESTADO DE MATO GROSSO e o MUNICÍPIO DE CARLINDA, contra sentença proferida pelo Juízo da 2a Vara da Comarca de Alta Floresta, que julgou procedentes os pedidos formulados na inicial e, por conseguinte determinou que os entes públicos assegurem a devida assistência à parte autora, disponibilizando, para tanto, todos os meios e recursos necessários para o tratamento médico especializado postulado nos autos, deixando, por fim, de condenar o Estado ao pagamento de honorários sucumbenciais.
+Alega a Apelante a respeito da superação do disposto na Súmula n° 421 do Superior Tribunal de Justiça, dada a autonomia orçamentária reconhecida à Defensoria Pública Estadual, alcançada, inclusive, pela decisão proferida pelo Plenário do Supremo Tribunal Federal na AR 1937.
+Frisou, ainda, que a Lei Complementar n° 80/94 alcançou à Defensoria Pública a condição de órgão constitucional e independente, com autonomia orçamentária, motivo pelo qual lhe é devido o pagamento de honorários sempre que for vencedora e independentemente de quem seja a parte contra qual atuou.
+Prequestiona os dispositivos citados e, ao final, pugna pelo provimento do recurso, para o fim de que, reformada a sentença, sejam fixados os honorários devidos pelo ente público sucumbente na demanda (ID 33714481).
+Houve contrarrazões (IDs 33714483 e 33714487).
+A Procuradoria Geral de Justiça opinou pelo desprovimento do apelo (id.n.o 34757998).
+É o relatório.
+Decido.
+Inicialmente, insta salientar que a matéria comporta julgamento monocrático, posto que a matéria abordada é fundamentada em enunciado sumular, com fulcro no artigo 932, inciso IV, “a” e “b”.
+O recurso interposto pela Defensoria Pública visa tão somente a reforma parcial da sentença, que deixou de condenar os entes públicos em honorários advocatícios, tendo em vista a superação do entendimento firmado na Súmula 421 do STJ.
+Sobre a fixação de honorários sucumbenciais em favor da Defensoria Pública do Estado de Mato Grosso, importa mencionar que a Emenda Constitucional n° 80/2014 conferiu à instituição plena autonomia funcional, administrativa e financeira.
+Sobre o assunto, cabe esclarecer que o Superior Tribunal de Justiça, há muito, firmou entendimento no sentido de que a Defensoria Pública, como órgão do Estado, não pode recolher honorários sucumbenciais decorrentes de condenação contra a Fazenda em causa patrocinada por Defensor Público.
+Nessa linha, aliás, a Corte Superior editou a Súmula n° 421, de 11 de março de 2010, cujo teor estabelece que " Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público a qual pertença.”
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA. INDEVIDOS QUANDO ELA ATUA CONTRA PESSOA JURÍDICA DE DIREITO PÚBLICO QUE INTEGRA A MESMA FAZENDA PÚBLICA. ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.1. O Supremo Tribunal Federal afetou o Tema 1002 de Repercussão Geral (RE 1140005/RJ, DJe de 10/8/2018), assim redigido: "Discussão relativa ao pagamento de honorários à Defensoria Pública, em litígio com ente público ao qual vinculada". 2. Entretanto, não consta dos autos do Recurso Extraordinário com Repercussão Geral ordem de suspensão dos processos em andamento, por isso o presente recurso deve seguir sua tramitação normal. 3. Esta Corte de Justiça possui entendimento consolidado no sentido de não ser cabível o arbitramento honorários advocatícios em favor da Defensoria quando esta litiga com pessoa jurídica de direito público que integra a mesma Fazenda Pública. Precedentes do STJ.4. Agravo interno não provido.(AgInt no REsp 1821663/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/10/2019, DJe 14/10/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS.DEFENSORIA PÚBLICA ESTADUAL. PRETENSÃO AJUIZADA CONTRA O ESTADO. NÃO CABIMENTO. SÚMULA 421/STJ. CONFUSÃO DE CRÉDITO DA MESMA FAZENDA PÚBLICA. COISA JULGADA. NÃO OCORRÊNCIA. 1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, submetido ao rito do art. 543-C do CPC, da relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/2011, firmou não serem devidos honorários advocatíeios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público à qual pertença ou que integre a mesma Fazenda Pública. 2. "Não se pode falar em violação a coisa julgada quando há confusão entre as pessoas da mesma Fazenda Pública, por se tratar de crédito extinto na sua origem." (AgInt no REsp 1.546.228/AL, Rel. Ministro Napoleão Nunes Ma ia Filho, Primeira Turma, julgado em 14/3/2017, DJe 27/3/2017).3. Recurso Especial provido.(REsp 1826953/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 11/10/2019).
+Assim, enquanto o Supremo Tribunal Federal não concluir o julgamento do RE no 1.140.005, caso paradigmático submetido ao rito da Repercussão Geral, há de prevalecer o entendimento cristalizado na citado enunciado sumular.
+Com efeito, a orientação ainda pacífica do Superior Tribunal de Justiça deve prevalecer por força do microssistema de precedentes introduzido pelo Código de Processo Civil.
+Com essas considerações, NEGO PROVIMENTO ao recurso, mantendo incólume a sentença, com fulcro no artigo 932, do CPC.
+Intimem-se.
+Cumpra-se.
+Cuiabá, 25 de março de 2020.
+Desa. MARIA EROTIDES KNEIP
+Relatora
