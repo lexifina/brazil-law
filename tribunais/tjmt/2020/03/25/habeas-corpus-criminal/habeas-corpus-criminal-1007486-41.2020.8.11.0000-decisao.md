@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+HABEAS CORPUS CRIMINAL (307) 1007486-41.2020.8.11.0000
+IMPETRANTE: KATIA VALADARES SILVA, FELIPE GOMES DE ALMEIDA
+IMPETRADO: JUÍZO DA VARA ÚNICA DA COMARCA DE SÃO JOSÉ DOS QUATRO MARCOS
+Vistos etc.
+Proceda-se a redistribuição, observando-se a prevenção indicada na certidão ID 382955484, conforme determina o artigo 80, § 1o, do RITJMT.
+Cumpra-se, com urgência.
+Cuiabá, data da assinatura digital.
+Desembargador PAULO DA CUNHA
