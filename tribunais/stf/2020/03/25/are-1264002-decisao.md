@@ -1,0 +1,35 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL MILITAR. COMPETÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO ORA AGRAVADA. SÚMULA 287 DO STF. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto pelo Ministério Público Militar, objetivando a reforma da decisão que inadmitiu o recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “APELAÇÃO. MPM. HOMICÍDIO TENTADO. PRELIMINAR DE INCOMPETÊNCIA DA JMU. MATÉRIA DECIDIDA PELO STM E STF. NÃO CONHECIMENTO. UNANIMIDADE. PRELIMINAR DE INCOMPETÊNCIA CPJ/EX PARA JULGAR RÉU CIVIL. IMPROCEDÊNCIA. MAIORIA. MÉRITO. LEGÍTIMA DEFESA. NÃO CARACTERIZADA. DESCLASSIFICAÇÃO. LESÃO CULPOSA. IMPOSSIBILIDADE. ATENUAÇÃO. CONFISSÃO ESPONTÂNEA. INAPLICABILIDADE. ART. 44 CP. INAPLICABILIDADE. PRINCÍPIO DA ESPECIALIDADE. DIMINUIÇÃO DA PENA. PROCEDÊNCIA.
+    1. Preliminar de incompetência da Justiça Militar da União. A competência da JMU para o julgamento de crimes militares decorre de comando constitucional. O STF e o STM já decidiram pela competência da JMU para processar julgar o feito. Preliminar não conhecida. Decisão unânime.
+    2. Preliminar de incompetência do Conselho Permanente de Justiça. A Lei nº 8.457/1992 estabelece a competência do Conselho de Justiça para o processamento e o julgamento dos crimes militares, sem fazer ressalva à condição do réu. Precedentes do STM. Preliminar rejeitada. Decisão majoritária.
+    3. Restou demonstrado que houve flagrante excesso que descaracteriza a legítima defesa.
+    4. Impossível a desclassificação para o delito de lesão corporal. As provas carreadas aos autos demonstram que estão presentes as elementares do delito de homicídio, na sua forma tentada.
+    5. Inaplicável a atenuante da confissão espontânea (art. 72, ‘d’, do CPM), uma vez que não restou dúvida sobre a autoria do delito.
+    6. Inaplicável o art. 44 do CP, uma vez que a legislação penal militar possui regras próprias, devendo prevalecer sobre a legislação penal comum pelo Princípio da Especialidade.
+    7. Demonstrado que houve agressão física por parte de um dos Ofendidos, que antecedeu aos disparos, deve ser aplicado o previsto no §1º do art. 205 do CPM.
+    8. Recurso parcialmente provido, para aplicar a causa de diminuição da pena prevista no §1º do art. 205 do CPM, somente para um dos crimes, reduzindo a pena em 1/3, o que resulta na pena final de 1 (um) ano e 4 (quatro) meses para o crime praticado contra um dos Ofendidos, mantidos os demais termos da Sentença. Decisão unânime”. (Doc. 6, p. 7)
+    Os embargos de declaração opostos foram rejeitados. (Doc. 8, p. 2)
+    Ato contínuo, opostos embargos infringentes, estes foram desprovidos, em acórdão assim ementado
+    “EMBARGOS INFRINGENTES. DPU. ART. 205 DO CPM. PRELIMINAR DE NÃO CONHECIMENTO DOS EMBARGOS INFRINGENTES OPOSTOS PELO MPM. IMPOSSIBILIDADE. EMBARGOS DE NULIDADE OPOSTOS PELA PGJM. NÃO PROVIMENTO. INCOMPETÊNCIA DO CONSELHO PERMANENTE DE JUSTIÇA PARA JULGAR CIVIL. REJEIÇÃO.
+    A metodologia adotada pelo STM é a de considerar como assinatura eletrônica ‘a senha obtida por meio de cadastro de usuário perante a Justiça Militar da União’ (art. 2º, inciso V, do Ato normativo nº 239/2017), o mesmo modelo que foi definido pelo TRF-4ª Região, precursor do e-Proc, que inclusive já tem julgados sobre o tema negando a referida preliminar.
+    Configurada a prática delituosa descrita no artigo 205 (homicídio), c/c o art. 30, II, ambos do CPM, caracterizado pelo disparo de arma de fogo efetuado por civil em direção as vítimas militares que estavam de serviço, a competência para o processamento e julgamento do feito é da Justiça Militar, nos termos da alínea ‘d’ do inciso III do art. 9º do Código Penal Militar.
+    Os Embargos de Nulidade opostos pela PGJM, requereu a prevalência dos votos vencidos, que declaravam a nulidade do processo desde o recebimento da Denúncia, por incompetência do Conselho Permanente de Justiça para julgar cidadão civil. Embargos Infringentes rejeitados.
+    Decisão majoritária”. (Doc. 13, p. 3)
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXVIII, da Constituição Federal. (Doc. 14)
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que “o STF já decidiu pela fixação da competência da Justiça Militar da União para processar e julgar os fatos relacionados à presente Ação Penal, afastando a competência de Tribunal do Júri”. (Doc. 18)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, a parte agravante não atacou o único fundamento da decisão agravada, relativo ao reconhecimento, por esta Suprema Corte, da “competência da Justiça Militar da União para processar e julgar os fatos relacionados à presente Ação Penal, [...] com trânsito em julgado da referida Decisão”. Esta Suprema Corte firmou jurisprudência no sentido de que a parte tem o dever de impugnar os fundamentos da decisão agravada, sob pena de não ter sua pretensão acolhida, por vedação expressa do enunciado da Súmula 287 deste Supremo Tribunal Federal, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.083.973-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 17/4/2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TEMA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. AGRAVO DESPROVIDO.
+    1. Para dissentir da conclusão do Tribunal de origem mostra-se necessário o reexame da legislação infraconstitucional aplicável à espécie, a revelar que a ofensa à Constituição, se existente, seria meramente reflexa.
+    2. É inviável o conhecimento do recurso que não ataca, especificamente, os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287 do STF.
+    3. O acolhimento da ausência de prática de delito permanente exige reexame do conjunto fático-probatório, providência inadmitida pela Súmula 279/STF.
+    4. Agravo regimental a que se nega provimento.” (ARE 1.012.203-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 12/4/2018)
+    Ex positis, NÃO CONHEÇO do agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de março de 2020.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
