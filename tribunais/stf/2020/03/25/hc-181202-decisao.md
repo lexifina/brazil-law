@@ -1,0 +1,25 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Wellington Correa da Costa Junior e outros em favor de Alexandre Santana, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da lavra do Ministro Antônio Saldanha Palheiro, exarado nos autos do HC 528.889/RJ.
+    O paciente foi preso preventiva pela suposta prática dos crimes de tráfico de drogas e de associação para o tráfico (art. 33 e 35 da Lei 11.343/2006).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, em acórdão da lavra do Ministro Antonio Saldanha Palheiro, concedeu a ordem no HC 528.889/RJ para “substituir a prisão preventiva de ALEXANDRE SANTANA, salvo se por outro motivo estiver preso, por outras medidas cautelares constantes do art. 319 do Código de Processo Penal, quais sejam: a) suspensão do exercício da advocacia; b) proibição de manter contato com qualquer pessoa vinculada aos fatos objeto da investigação em questão; e c) proibição de frequentar estabelecimentos prisionais, sem prejuízo da decretação de outras medidas cautelares diversas do cárcere pelo Juízo local, caso entenda necessárias”.
+    No presente writ, a Defesa argumenta, em síntese, a possibilidade de afastamento da medida cautelar de suspensão do exercício da advocacia. Requer, em medida liminar e no mérito, a revogação da medida cautelar de suspensão do exercício da advocacia.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “HABEAS CORPUS. PRISÃO PREVENTIVA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. NECESSIDADE DE INTERRUPÇÃO DO CICLO DELITIVO. RELEVÂNCIA DA PARTICIPAÇÃO DO PACIENTE. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA.
+    1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos nos arts. 282 e 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+    2. Na espécie, a prisão preventiva foi decretada visando impedir a subsistência da organização criminosa e a reiteração dos delitos, diante dos elementos colhidos, especialmente pelas interceptações telefônicas, os quais revelaram que o paciente e os demais os investigados estariam, em tese, vinculados a facção criminosa autodenominada Comando Vermelho. Nesse cenário, o paciente estaria se valendo da condição de advogado para viabilizar a comunicação entre as lideranças do grupo e repassando as ordens dos líderes presos aos demais traficantes.
+    3. Com efeito, a necessidade de interrupção do ciclo delitivo de associações e de organizações criminosas é fundamento idôneo para justificar a custódia cautelar, com fulcro na garantia da ordem pública.
+    4. Contudo, considerando o cenário descrito pelas instâncias ordinárias, entende-se não estar devidamente demonstrada a relevante participação do paciente dentro da estrutura criminosa, uma vez ser a ele imputada apenas a conduta de utilizar-se "da condição de advogado para viabilizar a comunicação entre as lideranças do grupo e repassando as ordens dos líderes presos aos demais traficantes". Ademais, deve ser ressaltado tratar-se de agente primário.
+    5. Assim, conclui-se haver constrangimento ilegal a ser sanado na espécie, sendo mais proporcional e adequada às circunstâncias do caso concreto, nos termos do art. 282, § 6º, do Código de Processo Penal, a imposição de medidas cautelares alternativas, a fim de resguardar a ordem pública, notadamente a suspensão do exercício da advocacia e a proibição de frequentar estabelecimentos prisionais.
+    6. Ordem concedida para determinar a substituição da prisão preventiva do paciente, salvo se por outro motivo estiver preso, por outras medidas cautelares constantes do art. 319 do Código de Processo Penal, quais sejam: a) suspensão do exercício da advocacia; b) proibição de manter contato com qualquer pessoa vinculada aos fatos objeto da investigação em questão; e c) proibição de frequentar estabelecimentos prisionais, sem prejuízo da decretação de outras medidas cautelares diversas do cárcere pelo Juízo local, caso entenda necessárias.”
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator configura patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata revogação da medida cautelar de suspensão do exercício da advocacia.
+    Ante o exposto, indefiro o pedido de liminar.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 25 de março de 2020.
+Ministra Rosa Weber
+Relatora
