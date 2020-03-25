@@ -1,0 +1,15 @@
+Trata-se de agravo interposto contra decisão por meio da qual foi negado seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) inexistência de repercussão geral, conforme decidido pelo Supremo Tribunal Federal no julgamento do Tema 660 (ARE 748.371-RG/MT); (ii) incidência, na espécie, da Súmula 279 desta Corte; e (iii) não cabimento de RE com fundamento na alínea d do inciso III do art. 102 da Constituição Federal, visto que não foi julgada válida lei local contestada em face de lei federal.
+    A pretensão recursal não merece acolhida.
+    Quanto ao fundamento da decisão agravada relacionado à aplicação do Tema 660 da Repercussão Geral, não é cabível o agravo.
+    Com efeito, o novo Código de Processo Civil, na linha da jurisprudência anteriormente firmada pelo Supremo Tribunal Federal, afastou o cabimento de agravo contra a decisão do Juízo de origem que aplica a sistemática da repercussão geral. Por oportuno, transcrevo o art. 1.042, caput, do CPC:
+    “Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos” (grifei).
+    Além disso, o recorrente, nas razões do agravo, não impugnou o fundamento da decisão agravada referente à incidência, no caso, da Súmula 279 do Supremo Tribunal Federal, o que atrai a aplicação da Súmula 287/STF.
+    De fato, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma - grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma - grifei).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; e ARE 752.372-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 8° e § 11, do Código de Processo Civil, majoro os honorários em 10% (dez por cento) do total da verba fixada a esse título.
+    Publique-se.
+    Brasília, 25 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
