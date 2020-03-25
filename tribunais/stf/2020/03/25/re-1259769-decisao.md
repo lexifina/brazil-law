@@ -1,0 +1,27 @@
+Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça Militar do Estado de São Paulo.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 129, I, da mesma Carta, buscando-se:
+    “[...] que se declare a nulidade do r. decidir do E. Tribunal de Justiça Militar do Estado de São Paulo, para que outro seja prolatado com observância do disposto no artigo 129, inciso I, da Constituição Federal, ou para que seja cassada a r. decisão de Primeira Instância impugnada, determinando-se o encaminhamento do IPM ao Juízo do Júri de São Paulo” (págs. 13-22 do doc. eletrônico 2).
+    O presente recurso perdeu o objeto. Com efeito, verifico o provimento do REsp 1.855.033/SP, relatado pelo Ministro Joel Ilan Paciornik (págs. 70-75 do doc. eletrônico 2), com trânsito em julgado certificado em 27/2/2020 (pág. 80 do doc. eletrônico 2), nos seguintes termos:
+    “[...]
+    O recurso merece prosperar.
+    O voto condutor assim se posicionou quanto à controvérsia, no que importa, verbis:
+    ‘O caso dos autos compreende apuração de homicídio praticado por policial militar que, de folga e civilmente trajado, percebeu, enquanto caminhava pela calçada, que dois indivíduos em uma motocicleta roubada abordaram um casal que estava dentro de veículo próximo e anunciaram o assalto. Ao reagir prontamente àquela ação criminosa, identificando-se como policial, o condutor da moto disparou duas vezes na sua direção, enquanto que o garupa fez menção de sacar uma arma, obrigando-o a revidar aquela injusta agressão com seis disparos de sua pistola carga da Corporação, dos quais três atingiram o agressor, que caiu ao solo, sendo que o seu comparsa conseguiu fugir a pé do local. Após a chegada da equipe médica, o ofendido foi levado ao hospital, onde faleceu.
+    Em sua manifestação inicial (fls. 95) o I. Representante do Ministério Público descreveu os fatos e sinalizou tratar-se, em tese, de crime de homicídio doloso contra a vida de civil praticado por militares em serviço, com eventual presença das excludentes de ilicitude, mas, nos termos do art. 9°, parágrafo único, da Lei 9.299/96, arguiu a incompetência da Justiça Militar e requereu a remessa dos autos à Vara do Tribunal do Júri com atribuição para a apuração dos fatos, conforme o disposto no art. 82, § 2°, do Código de Processo Penal.
+    Com efeito, o pleito ministerial baseia-se na Lei 9.299, de 1996, a qual, concomitante ao § 4°, do art. 125, da Constituição Federal, alterado pela Emenda n° 45, excluíram da Justiça Militar a competência para processar e julgar os delitos dolosos contra a vida praticados por policiais militares contra civis.
+    Entretanto, a P Câmara deste E. Tribunal confirmou a competência da Justiça Castrense para todos os atos pré-processuais que envolvam o inquérito relacionado ao tema, dentre eles o arquivamento quando presente a excludente de ilicitude.
+    O § 4°, do art. 125, da Constituição Federal, restringe a competência do Júri apenas para processar e julgar feitos envolvendo crime doloso contra vida cometido por militar e com vítima civil.
+    Portanto, todo o remanescente (competência pré-processual) cumpre à Justiça Militar.
+    Vale ressaltar que tal posicionamento foi confirmado em voto vencedor do Min. Carlos Velloso, do Supremo Tribunal Federal, na ADI 1.494-2/DF (Medida Cautelar), no qual o Ministro expressamente afirma que à Justiça Militar competirá exercer o exame primeiro da questão.
+    Em Sessão Plenária deste E. Tribunal, firmou-se o mesmo entendimento sobre a matéria, chancelando a posição aqui externada, no julgamento dos Embargos Infringentes e de Nulidade n° 84/2012, ocorrido em 11.07.2012, de relatoria do E. Juiz Fernando Pereira.
+    Ademais, é preciso salientar que o Promotor de Justiça que atua na Justiça Militar é o mesmo Promotor de Justiça que atua no Tribunal do Júri. A formação e a capacitação são as mesmas e não há razão alguma para que a opinio delicti do representante ministerial designado para esta Justiça Especializada seja preterida, sendo plenamente capacitado para aferir se a hipótese do IPM é realmente de delito a ser processado e julgado pelo Tribunal do Júri, não havendo razão, sequer lógica, para que tal análise inicial seja feita pelos Promotores do Júri.
+    O caso dos autos contém provas irrefutáveis da licitude da conduta praticada pelo militar envolvido sendo, portanto, impossível determinar a presença do dolo capaz de transferir a competência para a Justiça Comum’ (fls. 210/211).
+    O entendimento do Tribunal a quo, de fato, encontra-se desalinhado ao desta Corte, firmado no sentido de que, ‘(...) não é da competência do Juiz Militar determinar o arquivamento do inquérito policial militar, que investiga crime doloso contra a vida praticado por militar contra civil, em virtude do reconhecimento de excludente de ilicitude’ (AgRg no REsp 1.725.235/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 30/05/2018).
+    Nesse sentido, cito os seguintes julgados:
+    [...]
+    Ante o exposto, com fundamento no Enunciado n. 568 da Súmula do STJ, dou provimento ao recurso especial para cassar o acórdão impugnado e determinar a remessa dos autos originais ao Juízo de Direito da Vara do Júri com jurisdição sobre o local dos fatos.
+    Publique-se. Intimem-se”.
+    Isso posto, julgo prejudicado o recurso (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 25 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
