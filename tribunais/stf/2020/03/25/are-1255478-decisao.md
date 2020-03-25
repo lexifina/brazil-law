@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO – Execução individual de sentença proferida em Mandado de Segurança Coletivo – Direito dos associados da Associação dos Cabos e Soldados da Polícia Militar do Estado de São Paulo ao recebimento da GAP – Questão da autorização assemblear que já foi decidida no processo originário – Inaplicabilidade do Recurso Extraordinário nº 573.232-1/SC – Sentença mantida – Recurso não provido” (pág. 2 do documento eletrônico 8).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 5°, XXI, da mesma Carta, sob o argumento de que o Tribunal de origem “entendeu possível a execução de sentença coletiva por associado que não integrava os quadros da associação autora da ‘ação coletiva de rito ordinário’, referida, equivocadamente, como um mandado de segurança coletivo” (pág. 2 do documento eletrônico 15).
+    A pretensão recursal não merece acolhida.
+    Na origem, o Estado de São Paulo apresentou embargos à execução, sob o argumento de que
+    “no caso em tela, para que o exequente seja beneficiado da sentença coletiva proferida no mandado de segurança nº 0026076-68.2001.8.26.0053, deve comprovar que, no momento da propositura da ação, havia apresentado autorização expressa a associação. Como, todavia, carece a referida comprovação, impõe-se o reconhecimento da ilegitimidade ativa para a execução” (págs. 7-8 do documento eletrônico 1 - grifei).
+    Na sentença, foram rejeitados os embargos à execução e assentado que “nos autos principais consta a expressa autorização aqui reclamada como ausente” (pág. 3 do documento eletrônico 4).
+    O Tribunal de Justiça do Estado de São Paulo, ao julgar a apelação, manteve a sentença e também consignou que o caso versa sobre a legitimidade para execução individual de mandado de segurança coletivo impetrado por associação.
+    Daí foram opostos embargos de declaração pelo Estado de São Paulo, sob o argumento de que a hipótese em exame não versa sobre execução de sentença proferida em mandado de segurança coletivo, mas, sim, em ação coletiva ordinária.
+    O Tribunal de origem, todavia, rejeitou os embargos de declaração e manteve o acórdão recorrido.
+    Na sequência, foi interposto o recurso extraordinário, no qual se reiterou a alegação de que, por se tratar o caso em tela de execução de ação coletiva de rito ordinário proposta por associação, é indispensável que o exequente comprove que se associou previamente ao ajuizamento da ação coletiva, o que não foi demonstrado nestes autos.
+    Nesse contexto, verifico que, para divergir do acórdão recorrido e apurar a procedência dos argumentos consignados no recurso extraordinário, notadamente quanto à natureza da sentença coletiva cuja execução se discute e quanto à existência, ou não, de autorização do exequente, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, cito as seguintes decisões, entre outras: ARE 1.256.119/SP, Rel. Min. Rosa Weber; ARE 1.252.494/RJ, Rel. Min. Gilmar Mendes; RE 1.253.470/RS, Rel. Min. Alexandre de Moraes; RE 1.252.854/SP, Rel. Min. Cármen Lúcia; e RE 1.244.929/SP, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com apoio no art. 85, § 11, do Código de Processo Civil, majoro os honorários em 20% (vinte por cento) do total da verba fixada a esse título, observados os limites legais.
+    Publique-se.
+    Brasília, 25 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
