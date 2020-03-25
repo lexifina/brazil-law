@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de habeas corpus interposto em face de acórdão do Superior Tribunal de Justiça assim ementado (eDOC 4, pp. 1-2):
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. SUPRESSÃO DE INSTÂNCIA. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. MANTIDOS OS FUNDAMENTOS DA SEGREGAÇÃO. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. QUANTIDADE E QUALIDADE DA DROGA APREENDIDA. RISCO AO MEIO SOCIAL. PACIENTE FORAGIDO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+    1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal – STF e do próprio Superior Tribunal de Justiça – STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+    2. A alegação concernente à insuficiência dos indícios de autoria de que o paciente seja o autor do delito não foi objeto de exame no acórdão recorrido, o que obsta o seu exame por este Tribunal Superior, sob pena de supressão de instância. Precedentes.
+    3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal – CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+    4. A prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a periculosidade do paciente e a gravidade do delito, evidenciadas pela quantidade e natureza da droga apreendida – 5,95g de cocaína separados em porções individuais –, em local conhecido como ponto de tráfico, da qual o paciente tentou se desvencilhar após avistar a polícia, sendo, ainda, considerado foragido. Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e na aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+    5. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+    6. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+    7. Habeas corpus não conhecido.
+    Busca-se, em suma, a expedição de contramandado de prisão em favor do paciente.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni iuris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Tendo em vista o teor da Recomendação 62/2020, do Conselho Nacional de Justiça, solicitem-se informações ao Relator da Apelação Criminal 0001033-62.2018.8.26.0400.
+    Publique-se. Intime-se.
+    Brasília, 25 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
