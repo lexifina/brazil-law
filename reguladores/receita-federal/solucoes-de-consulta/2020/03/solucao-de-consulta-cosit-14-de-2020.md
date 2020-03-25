@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 14, de 17 de março de 2020
+Assunto: Normas Gerais de Direito Tributário
+REGIME ESPECIAL DE TRIBUTAÇÃO. OPÇÃO. PAGAMENTO UNIFICADO DE TRIBUTOS. CONSIDERADO DEFINITIVO. VENDA DE UNIDADES IMOBILIÁRIAS A ÓRGÃOS DA ADMINISTRAÇÃO PÚBLICA FEDERAL.
+O disposto no art. 1º da Lei nº 10.931, de 2004, que estabelece, em caráter opcional, a possibilidade de pagamento unificado de tributos, pelo RET, não afasta, no caso de venda de unidades imobiliárias a órgãos da Administração Pública Federal, a obrigação de eles efetuarem as retenções obrigatórias dos tributos federais, nos pagamentos que realizarem. O pagamento unificado de tributos no âmbito do RET será considerado definitivo, não gerando, em qualquer hipótese, direito à restituição ou à compensação com tributos que forem apurados pela incorporadora, ainda que da mesma espécie dos tributos pagos pelo RET.
+ADMINISTRAÇÃO PÚBLICA FEDERAL. PAGAMENTOS POR PRESTAÇÃO DE SERVIÇOS OU FORNECIMENTO DE BENS. RETENÇÕES NA FONTE. OBRIGAÇÃO. RETENÇÃO A MAIOR QUE O DEVIDO. CRÉDITO PASSÍVEL DE RESTITUIÇÃO. COMPENSAÇÃO.
+Os órgãos da Administração Pública Federal, dos Poderes Executivo, Legislativo e Judiciário, que efetuarem pagamentos pela prestação de serviços e/ou pelo fornecimento de bens, são obrigados a realizar a retenção de tributos federais, prevista no art. 64 da Lei nº 9.430, de 1996, e nos art. 2º e 3º da IN RFB nº 1.234, de 2012.
+O valor retido poderá ser deduzido pela incorporadora, observando-se as regras previstas no art. 64 da Lei nº 9.430, de 1996. Além da dedução é possível a restituição do saldo ou a sua utilização em compensação com outros tributos administrados pela RFB, observadas as restrições dispostas no inciso I do art. 2º e nos arts. 3º, 9º e 23 da Instrução Normativa RFB nº 1.234, de 2012.
+Dispositivos Legais: Lei nº 10.931, de 2004, arts. 1º, 2º e 4º; IN RFB nº 1.435, de 2013, arts. 2º e 5º; Lei nº 9.430, de 1996, arts. 64 ; IN RFB nº 1.234, de 2012, inciso I do art. 2º, e arts. 3º, 9º e 23.
+.
+[arquivo anexo: SC Cosit nº 14-2020.pdf]
