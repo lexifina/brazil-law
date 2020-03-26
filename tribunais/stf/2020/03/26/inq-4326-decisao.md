@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de inquérito no qual a Procuradoria-Geral da República ofertou denúncia em desfavor de Edison Lobão, Jader Fontenelle Barbalho, José Renan Vasconcelos Calheiros, José Sarney, José Sérgio de Oliveira Machado, Romero Jucá Filho e Valdir Raupp de Matos, na qual descreve condutas enquadradas, em tese, no tipo penal de associação criminosa, previsto no art. 2º, § 4º, II, III e V, da Lei 12.850/2013 (fls. 327-552).
+    Sobrevém a petição protocolada sob o n. 0080.356/2019, por meio da qual a União vem solicitar “(i) o acesso ao inteiro teor do Inquérito n. 4.326 e (ii) a respectiva autorização para utilização das provas nele produzidas para análise acerca de eventuais medidas de natureza cível e administrativa na defesa dos interesses do ente central” (fl. 1.729).
+    Instada, manifesta-se a Procuradoria-Geral da República no sentido do “deferimento parcial do pedido deduzido pela União, de modo que seja autorizado, por ora, o compartilhamento do inteiro teor do Inquérito em epígrafe, exceto quanto aos anexos sigilosos, os quais, se forem necessários, exigem nova solicitação específica, delimitada e motivada” (fls. 1.748-1.749).
+    2. O pedido vocaciona acolhida, inclusive nos limites consignados no parecer do Ministério Público Federal.
+    Consabido estar sedimentada na jurisprudência desta Suprema Corte a admissibilidade de prova emprestada do processo penal em processos administrativos (RE 810.906, Rel. Min. ROBERTO BARROSO, julgado em 25.5.2015, DJe de 28.5.2015), e também para o fim de subsidiar apurações de outra natureza (INQ-QO 2.725, Rel. Min. CARLOS BRITTO, julgado em 25.6.2008, publicado em 26.9.2008, Tribunal Pleno).
+    Na espécie, estão configurados os requisitos indispensáveis ao deferimento do pleito deduzido, pois justificada a necessidade dos dados e elementos para “utilização das provas nele produzidas, para subsidiar eventuais medidas de natureza cível e administrativa na defesa dos interesses do ente central” (fl. 1.729).
+    Ademais, registro que os autos principais tramitam sem qualquer restrição de publicidade.
+    3. Pelo exposto, defiro, em parte, o pedido formulado pela União, autorizando o compartilhamento de cópias destes autos e dos seus apensos públicos, ressalvando-se dessa decisão os documentos apartados e anexos sigilosos que, se forem necessários, exigem nova solicitação específica, delimitada e motivada.
+    Intime-se a requerente, a quem incumbirá a retirada dessas cópias, mediante solicitação junto ao Setor de Processos Originários Criminais, da Secretaria deste Supremo Tribunal.
+    Publique-se. Intimem-se.
+    Brasília, 26 de março de 2020.
+Ministro Edson Fachin
+Relator - Documento assinado digitalmente
