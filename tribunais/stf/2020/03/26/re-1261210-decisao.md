@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. QUADRO DA DEFENSORIA PÚBLICA DA UNIÃO – DPU. PROGRESSÕES E PROMOÇÕES FUNCIONAIS. MARCO INICIAL PARA A CONTAGEM DOS INTERSTÍCIOS. LEI 11.357/2006. DECRETO 84.669/1980. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: A 1ª Turma Recursal dos Juizados Especiais Federais de Pernambuco, ao apreciar a controvérsia, assentou, in verbis:
+    “ADMINISTRATIVO. PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS. DATA DA EFETIVA IMPLEMENTAÇÃO DOS REQUISITOS. RECURSO IMPROVIDO.” (Doc. 6)
+    A União formulou pedido de uniformização nacional de interpretação de lei federal em face do acórdão da mencionada Turma Recursal (Doc. 7).
+    A Turma Nacional de Uniformização manteve a decisão da referida Turma Recursal, em acórdão que porta a seguinte ementa:
+    “PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. INCIDENTE DE UNIFORMIZAÇÃO JULGADO COMO REPRESENTATIVO DA CONTROVÉRSIA (TEMA 189). DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO DA DEFENSORIA PÚBLICA DA UNIÃO. PROGRESSÃO FUNCIONAL. INTERSTÍCIO. TERMO INICIAL. DATA DO INGRESSO NO CARGO. ILEGALIDADE DO ART. 10, § 2º, DO DECRETO Nº 84.669/80. PRINCÍPIO DA ISONOMIA. INOBSERVÂNCIA. TESE FIRMADA: ‘O MARCO INICIAL, PARA CONTAGEM DOS INTERSTÍCIOS DAS PROGRESSÕES E PROMOÇÕES FUNCIONAIS DOS SERVIDORES PÚBLICOS INTEGRANTES DO QUADRO DA DEFENSORIA PÚBLICA DA UNIÃO, É A DATA DE INÍCIO DO EXERCÍCIO DO SERVIDOR NA RESPECTIVA CARREIRA'. INCIDENTE DA UNIÃO CONHECIDO E NÃO PROVIDO.” (Doc. 11, p. 180 e Doc. 12)
+    Daí o recurso extraordinário interposto pela União, com arrimo na alínea a do permissivo constitucional, em que sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput, e 84, IV, da Constituição Federal e à Súmula Vinculante 37 (Doc. 16).
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário (Doc. 18).
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso (Doc. 20).
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Para divergir das razões do referido acórdão quanto ao marco inicial para contagem dos interstícios das progressões e promoções funcionais da parte recorrida seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei 11.637/2006 e Decreto 84.669/1980), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido, à guisa de exemplo, foram as seguintes decisões, proferidas em casos análogos ao presente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. INTERPRETAÇÃO DAS LEIS FEDERAIS NºS 11.784/2008 E 11.344/2006. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL.
+    Em casos análogos, o Supremo Tribunal Federal afastou o cabimento do recurso extraordinário, tendo em vista depender o deslinde da controvérsia de interpretação de normas infraconstitucionais. Precedentes.
+    Agravo regimental a que se nega provimento.” (ARE 764.226-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 28/2/2014, grifei)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. INSTITUTO NACIONAL DO SEGURO SOCIAL – INSS. PROMOÇÃO E PROGRESSÃO FUNCIONAL. INTERSTÍCIO. LEIS 10.355/2001 E 10.855/2004 E DECRETO 84.669/1980. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.” (ARE 1.132.287, Rel. Min. Luiz Fux, DJe de 21/5/2018, grifei)
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 26 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
