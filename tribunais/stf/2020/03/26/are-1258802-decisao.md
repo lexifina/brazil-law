@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região. Extrai-se da ementa o seguinte trecho conclusivo:
+    “ADMINISTRATIVO. PENSÃO POR MORTE. FILHA SOLTEIRA MAIOR DE 21 ANOS E NÃO OCUPANTE DE CARGO PÚBLICO PERMANENTE. PRELIMINARES DE INCOMPETÊNCIA E ILEGITIMIDADE REJEITADAS. DIREITO AO BENEFÍCIO. DEPENDÊNCIA ECONÔMICA. REQUISITO NÃO PREVISTO EM LEI. RESSALVA DO ENTENDIMENTO DO RELATOR. APELAÇÃO IMPROVIDA. REMESSA OFICIAL IMPROVIDA.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, caput; 70; 71; e 102, I, d, todos da Constituição.
+    A pretensão recursal não merece prosperar. De início, observo que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 1.035 do CPC/2015.
+    Como já registrado por este Tribunal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, pontuo que a questão relativa ao indeferimento, pela origem, de determinada diligência probatória não possui repercussão geral. Nessa linha, veja-se a ementa do ARE 639.228-RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. indeferimento. contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Quanto à questão de fundo, para dissentir do entendimento do Tribunal de origem, seriam necessários a reapreciação dos fatos e do material probatório constantes dos autos e o reexame da legislação infraconstitucional pertinente, procedimentos inviáveis neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 26 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
