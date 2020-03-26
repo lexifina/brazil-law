@@ -1,0 +1,1 @@
+Art. 4º Aplica-se ao franqueador que omitir informações exigidas por lei ou veicular informações falsas na Circular de Oferta de Franquia a sanção prevista no § 2º do art. 2º desta Lei, sem prejuízo das sanções penais cabíveis.
