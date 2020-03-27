@@ -1,0 +1,43 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Telma da Silva Gonçalves contra decisão proferida pelo Juiz de Direito da Comarca de Taubaté/SP, Fábio Franco de Camargo, que indeferiu pedido formulado nos autos do HC 1000018-95.2020.8.26.0618 (documento eletrônico 13).
+    Os impetrantes alegam, em síntese, que
+    “[a] reeducanda havia sido absolvida em primeira instância, nos autos do processo nº 0003338-33.2012.8.26.0625, perante a 1ª Vara Criminal da Comarca de Taubaté-SP, como incursa no art. 33, caput, da Lei 11.343/06 c/c art. 12 da Lei 10.826/03.
+    Todavia, após Recurso manejado pela acusação, o Egrégio Tribunal de Justiça deu provimento ao apelo Ministerial, condenando-a pelos crimes acima citados, às penas de 06 (seis) anos e 08 (oito) meses de reclusão para o crime de tráfico de drogas, c/c a pena de 03 (três) anos e 06 (seis) meses de reclusão para o crime de posse de munição, cuja soma totaliza 10 (dez) anos e 02 (dois) meses, tudo conforme cópia do v. acórdão proferido em sede de apelação, diga-se, já transitado em julgado.
+    Segundo se infere do mandado de prisão cumprido anexo, a reeducanda encontra-se enclausurada desde 11/10/2019 até a presente data, aguardando análise de pedido de prisão domiciliar formulado nos autos da Execução Penal (Autos nº 0000350-82.2020.8.26.0520 – DEECRIM da 9ª RAJ).
+    Além disso, trata-se de paciente primária, de bons antecedentes criminais – à exceção do processo originário em comento, que culminou nesta prisão, além de possuir residência fixa no Distrito da culpa.
+    Ciente de que o surto do novo coronavírus, denominado Covid-19 vem assolando toda a sociedade brasileira, com vistas ao agravamento do cenário atual que já é assustador, aliado ao fato de estar presa junto com um neném recém-nascido, que veio ao mundo em 22/02/2020 e encontra-se em fase de amamentação nas dependências da unidade prisional onde se encontra, surgiu-se a necessidade de manejar o presente mandamus para buscar salvaguardar a maior garantia fundamental do paciente e a de seu filho, qual seja: A VIDA de ambos, assim como a garantia constitucional correlata, tal como: a dignidade da pessoa humana visando a manutenção da integridade física e psíquica deles.
+    [...]
+    Nobre Ministro, é num ato de desespero que este subscritor aciona esta Suprema Corte, porquanto a Reeducanda encontra-se enclausurada nas dependências da Penitenciária Feminina II de Tremembé-SP, junto com seu filho recém-nascido (01 mês de vida), em fase de amamentação, em plena pandemia do novo coronavírus.
+    Sabe-se à exaustão que devemos respeitar a hierarquia das instâncias, sob pena de incorrer na indevida supressão delas – o que ensejaria o não conhecimento do presente mandamus, TODAVIA venho demonstrar que o caso é excepcional e capaz de superar o enunciado da Súmula 691 do STF, pois com essa paralisação do Poder Judiciário, que vem funcionando somente em sede de plantão, os Habeas Corpus protocolados há alguns dias no sítio eletrônico do Tribunal de Justiça de São Paulo sequer foram distribuídos, culminando em retardamento da prestação jurisdicional que se pretende em caráter de URGÊNCIA.
+    Invocando a permissa venia, clamamos que a matéria abaixo arguida seja enfrentada por Vossa Excelência, ante a possibilidade de concessão da Ordem imediata” (págs. 2-4 do documento eletrônico 1).
+    Ao final, requerem
+    “[...] em caráter de URGÊNCIA, a concessão da prisão domiciliar à reeducanda TELMA DA SILVA GONÇALVES e seu filho recém-nascido Carlos Levi Gonçalves da Silva, como medida da mais lídima justiça, baseando-se na Recomendação nº 62 do CNJ, e no senso humanitário” (pág. 10 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Anote-se, inicialmente, que este Supremo Tribunal não possui competência para processar e julgar habeas corpus contra ato da indigitada autoridade coatora, pois esta não figura no rol taxativo do art. 102, I, i, da Constituição Federal.
+    Todavia, ante a flagrante ilegalidade constatada nestes autos, faz-se necessária a concessão da ordem, de ofício, nos termos do art. 192, caput, do Regimento Interno do Supremo Tribunal Federal.
+    Assim, transcrevo, por oportuno, o inteiro teor da decisão combatida:
+    “Trata-se de pedido de prisão domiciliar, que já fora veiculado perante o DEECRIM, sob o argumento de que a sentenciada foi presa gestante e que hoje a criança está com meses de vida, junto com a mãe no sistema prisional, e, que, por causa da pandemia do coronavírus, deve ser liberada, para cumprir a sentença definitiva em regime de prisão domiciliar.
+    O Ministério Público opinou pelo indeferimento do pedido.
+    Decido.
+    Com efeito, a matéria já está sub judice, não sendo de fato caso de plantão judiciário.
+    No entanto, passo ao exame do mérito, em virtude dos valores jurídicos envolvidos.
+    O argumento invocado pela Defesa não nos parece consistente, uma vez que dentro do sistema prisional a sentenciada tem todas as condições de cuidar da criança, permanecendo, ainda, isolada do contato com o meio externo.
+    Em regime de prisão domiciliar teria muito mais dificuldades e muito mais riscos, para si e para a criança, caso necessitasse do sistema de saúde, em virtude da pandemia e do número de pessoas contaminadas que frequentam esses lugares.
+    Ademais, como bem destacou a Promotora de Justiça, a sentenciada foi condenada a pena de 06 anos e 08 meses, por tráfico, que era praticado no interior de sua residência, sendo apreendida quantidade expressiva de drogas, tendo o Tribunal, inclusive, afastado a redução por conta da primariedade.
+    Por todos esses motivos, INDEFIRO o pedido formulado.
+    Aguarde-se o término do plantão, remetendo-se ao juízo competente” (documento eletrônico 13, grifei).
+    Todavia, o decisum combatido vai de encontro à Recomendação 62/2020 do Conselho Nacional de Justiça - CNJ que preconiza aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus – Covid-19 no âmbito dos sistemas de justiça penal e socioeducativo.
+    Na referida recomendação, o CNJ, ao considerar, entre outros motivos, “o alto índice de transmissibilidade do novo coronavírus e o agravamento significativo do risco de contágio em estabelecimentos prisionais e socioeducativos, tendo em vista fatores como a aglomeração de pessoas, a insalubridade dessas unidades, as dificuldades para garantia da observância dos procedimentos mínimos de higiene e isolamento rápido dos indivíduos sintomáticos, insuficiência de equipes de saúde, entre outros, características inerentes ao ‘estado de coisas inconstitucional’ do sistema penitenciário brasileiro reconhecido pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental no 347”, propôs:
+    “[...]
+    Art. 5° Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+    I - concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante n° 56 do Supremo Tribunal Federal, sobretudo em relação às:
+    a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+    [...]” (grifei).
+    Isso posto, nego seguimento a este writ (art. 21, § 1°, do RISTF), mas, levando-se em consideração os fundamentos expostos pelo juiz de direito da Comarca de Taubaté/SP, que são contrários às orientações propostas pelo CNJ, concedo a ordem de habeas corpus, de ofício (art. 192, caput, do RISTF), para determinar o recolhimento domiciliar da paciente lactante, com monitoramento eletrônico (art. 146-B, IV, da LEP), pelo prazo de vigência da Recomendação 62/2020 do CNJ:
+    “Art. 15. As medidas previstas nesta Recomendação deverão vigorar pelo prazo de noventa dias, avaliando-se posteriormente a possibilidade de prorrogação”.
+    Neste período, o magistrado da execução deverá refazer os cálculos para a progressão de regime, da ora paciente, combinando, necessariamente, o que estabelecido no art. 112, § 3°, I, II, III, IV e V, da Lei de Execuções Penais com os termos do art. 5°, I, a, da Recomendação 62/2020 do CNJ .
+    Envie-se cópia desta decisão ao Presidente do TJSP.
+    Comunique-se com urgência.
+    Publique-se. Intime-se.
+    Brasília, 27 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
