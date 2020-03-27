@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão Tribunal de Justiça do Estado de Tocantins, assim ementado (eDOC 9, p. 4/5):
+    “EMENTA: APELAÇÃO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA ANTECIPADA. CONCURSO PÚBLICO. QUADRO-GERAL DO ESTADO. EDITAL COM PREVISÃO DE QUE CANDIDATOS NÃO CLASSIFICADOS DENTRO DO NÚMERO DE VAGAS DISPONIBILIZADAS ESTARIA AUTOMATICAMENTE ELIMINADO DO CERTAME. DIREITO SUBJETIVO À NOMEAÇÃO INEXISTENTE. RECURSO PROVIDO. SENTENÇA REFORMADA.
+    - O Supremo Tribunal Federal fixou tese de Repercussão Geral nos autos do Recurso Extraordinário nº 837.311/PI (Tema 784), em que se discutiu sobre o direito subjetivo à nomeação de candidatos aprovados fora das vagas previstas no edital, como é o caso do recorrido. Na ocasião do julgado, os Ministros da Corte Suprema entenderam que o surgimento de novas vagas ou abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital.
+    - No caso em voga, o Concurso Público do Quadro-Geral do Poder Executivo do Estado do Tocantins - Edital nº 001/Quadro-Geral/2012, de 04/05/2012, estabeleceu cláusula de barreira, dispondo que será eliminado do certame o candidato que não estiver classificado até o limite de vagas definido no Anexo I para o cadastro de reserva (item 15.1.5.).
+    - Para o cargo de Auxiliar Administrativo, no município Palmeirópolis/TO, o Edital inicial disponibilizou apenas 01 (uma) vaga de provimento imediato e nenhuma para cadastro de reserva, tendo a apelada sido eliminada do certame “cláusula de barreira”.
+    - Após a publicação do Edital nº 019/QUADRO-GERAL/2014, retirou a previsão da “cláusula de barreira” para o cadastro de reserva e consequentemente, a recorrida passou então a figurar na 6º (sexta) posição na lista de aprovados do concurso, figurando novamente fora do número de vagas previstas no Edital, restando, igualmente eliminada do concurso, por expressa previsão editalícia.
+    - Considerado aprovada fora do número de vagas ofertadas no concurso, a autora não possui direito à convocação para nomeação no cargo ao qual concorreu, especialmente por se tratar de candidata eliminada do certame.
+    - Laborou em equívoco, o Juízo de primeiro grau ao declarar nulo os efeitos do EDITAL n.º 021/QUADRO GERAL/2015, reconhecendo o direito alegado pela Recorrida determinando a posse da Requerente no cargo de Auxiliar Administrativo – Palmeirópolis-TO.
+    - Recurso de apelo ao qual se dá provimento, a fim de reformar a sentença recorrida.”
+    Os embargos de declaração foram rejeitados. (eDOC 12)
+    No recurso extraordinário, interposto com base art. 102, III, a, do permissivo constitucional, aponta-se violação ao arts. 37, II, da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, que “a candidata passou a figurar dentro do número de vagas de provimento imediato, tendo direito subjetivo à nomeação no momento em que a posse do candidato melhor classificado tornou-se sem efeito. Direito, este, que resta violado pela omissão do recorrido que, até então, NÃO procedeu à respectiva nomeação.” (eDOC 15, p. 14)
+    É o relatório. Decido.
+    De plano, verifica-se que o Supremo Tribunal Federal, no julgamento do ARE-RG 808.524, Rel. Min. Teori Zavascki, DJe 10.06.2014 (Tema 735), reconheceu a inexistência de repercussão geral da controvérsia referente à preterição na nomeação de candidato aprovado em concurso público, em virtude de sua natureza infraconstitucional.
+    Na oportunidade, a ementa restou assim redigida:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DO RIO GRANDE DO SUL. CONCURSO PÚBLICO. MAGISTÉRIO. DIREITO À NOMEAÇÃO. PRETERIÇÃO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. Não possui repercussão geral a controvérsia relativa ao direito à nomeação de candidato participante de concurso público, quando decidida pelo Juízo de origem à luz da legislação infraconstitucional, dos fatos da causa e das cláusulas do edital do certame.
+    2. Inviável, em recurso extraordinário, apreciar alegada violação aos arts. 5º, XXXV, LIV e LV, da Constituição Federal, quando isso depender de interpretação e aplicação de normas infraconstitucionais (AI 796.905- AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011).
+    3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009).
+    4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de março de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
