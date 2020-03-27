@@ -1,0 +1,50 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE FALSIDADE IDEOLÓGICA. ARTIGO 299 DO CÓDIGO PENAL. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL, ABUSO DE PODER OU FLAGRANTE ILEGALIDADE. INVIABILIDADE DO WRIT PARA EXAME DE QUESTÕES ALHEIAS AO DIREITO DE LOCOMOÇÃO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+- Seguimento negado, com fundamento no artigo 21, § 1º do RISTF.
+- Ciência ao Ministério Público Federal.
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça nos autos do recurso ordinário em habeas corpus 118.562, assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. RÉU QUE TEVE A PUNIBILIDADE EXTINTA PELA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PREENCHIMENTO DOS REQUISITOS PARA O RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AUSÊNCIA DE AMEAÇA OU VIOLAÇÃO À LIBERDADE DE LOCOMOÇÃO. ENUNCIADO 695 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. DESPROVIMENTO DO RECLAMO.
+    1. Nos termos do enunciado 695 da Súmula do Supremo Tribunal Federal, ‘não cabe habeas corpus quando já extinta a pena privativa de liberdade’.
+    2. No caso dos autos, o agravante teve a sua punibilidade extinta pela prescrição da pretensão executória, o que revela o descabimento do mandamus para questionar o preenchimento dos requisitos para o reconhecimento da prescrição da pretensão punitiva. Precedentes.
+    3. Agravo regimental desprovido”.
+    Colhe-se dos autos que o paciente foi condenado à pena de 03 (três) anos de reclusão, no regime inicial semiaberto, pela prática do crime previsto no artigo 299 do Código Penal.
+    Em sede de apelação, o Tribunal de origem negou provimento ao recurso defensivo, mantendo integralmente a sentença de origem.
+    Contra esse decisum, foi interposto recurso especial, o qual foi inadmitido na origem, ensejando a interposição do agravo em recurso especial, cujo provimento foi negado pelo Superior Tribunal de Justiça.
+    Narra a defesa que “tal decisão foi publicada em 04/04/2016, sendo que o trânsito em julgado foi certificado somente em 03/05/16”.
+    Após o trânsito em julgado da condenação, a defesa requereu ao juízo de primeira instância, o reconhecimento da prescrição intercorrente, ao argumento de que “fora ultrapassado o lapso de 08 ano, previsto no artigo 109, IV, do Código Penal”.
+    Em sentença, o juízo de origem reconheceu a ocorrência da prescrição da pretensão executória.
+    Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, visando a correção de suposto erro material. Contudo, não obteve êxito.
+    Ato contínuo, foi interposto recurso ordinário em habeas corpus perante o Superior Tribunal de Justiça, que negou provimento ao pleito defensivo.
+    Foram opostos embargos declaratórios, os quais restaram rejeitados.
+    Ainda irresignada, a defesa interpôs agravo regimental. Em decisão monocrática, a Corte Superior reconsiderou a decisão impugnada para não conhecer do recurso ordinário em habeas corpus lá interposto.
+    Na sequência, foi interposto novo agravo regimental, o qual restou desprovido, nos termos da ementa supratranscrita.
+    Sobreveio o presente mandamus, no qual a defesa sustenta, em síntese, a existência de constrangimento ilegal consubstanciado no não reconhecimento da prescrição da pretensão punitiva.
+    Alega que “a liberdade ambulatorial do Paciente está, sim, sob ameaça. A partir do momento em que consta como reconhecida, apenas, a ‘prescrição da pretensão executória’ , todos os efeitos secundários da condenação convergem contra si, inclusive para fins de reincidência”.
+    Argumenta que “busca corrigir mero erro material”, entendendo que “o transcurso de lapso superior aos 08 anos necessários ao reconhecimento da prescrição da pretensão punitiva - não da ‘pretensão executória’ – constitui tema indiscutível, em torno do qual cristalizou-se a coisa julgada”.
+    Considera que “após reconhecer o transcurso do lapso superior em questão, o enquadramento dado ao caso – ‘prescrição da pretensão executória’ – ressoa como mero erro material que, como todos sabemos, não é abrangido pela imutabilidade da coisa julgada material”.
+    Sustenta a defesa que é “ flagrante haver o Juízo de 1º Grau incorrido em erro material, eis que toda a fundamentação invocada no decisum tendia ao reconhecimento da prescrição da pretensão punitiva, não da ‘prescrição da pretensão executória’, como ficou terminou registrado”.
+    Ao final, formula pedido nos seguintes termos:
+    “Assim, por abordar questão puramente de direito, e dada a manifesta condição deletéria imposta à liberdade ambulatorial do Paciente, decorrente da renitência dos efeitos secundários da condenação, roga-se seja concedida a ordem, procedendo-se a devida corrigenda, restando proclamada a PRESCRIÇÃO DA PRETENSÃO PUNITIVA (superveniente ou subsequente), na forma da lei”.
+    É o relatório, DECIDO.
+    In casu, inexiste situação que autorize a concessão da ordem ante a ausência de flagrante ilegalidade ou abuso de poder na decisão atacada. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+    “Inicialmente, tendo em vista que a decisão impugnada foi publicada em 5.2.2020 (e-STJ fl. 145), cumpre atestar a tempestividade da insurgência, pois interposta no dia 10.2.2020 (e-STJ fl. 161), ou seja, dentro do prazo previsto no artigo 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+    No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+    Isso porque, consoante consignado no provimento judicial questionado, o recorrente teve a sua punibilidade extinta pela prescrição da pretensão executória, o que revela a impossibilidade de conhecimento desta insurgência.
+    Com efeito, nos termos do enunciado 695 da Súmula do Supremo Tribunal Federal, ‘não cabe habeas corpus quando já extinta a pena privativa de liberdade’.
+    Na mesma esteira são os julgados deste Superior Tribunal de Justiça:
+    (…)
+    Ante o exposto, nega-se provimento ao agravo regimental”.
+    Consoante se depreende da fundamentação do Tribunal a quo, “o recorrente teve a sua punibilidade extinta pela prescrição da pretensão executória”. Com efeito, a decisão do juízo de origem, que reconheceu a prescrição da pretensão executória, transitou em julgado sem que houvesse qualquer insurgência da defesa acerca do suposto erro material.
+    Sendo esse o contexto, não se verifica qualquer constrangimento ilegal sanável pela via estreita do habeas corpus.
+    Outrossim, forçoso concluir que o writ traz questões alheias ao direito de locomoção. Com efeito, tendo sido reconhecida a prescrição da pretensão executória, verifica-se a ausência de qualquer ameaça concreta ao pleno exercício do seu direito de liberdade, porquanto inexiste notícia, nos autos, de impedimento ao livre exercício do direito de ir e vir do paciente.
+    Nesse diapasão, a ameaça de iminente constrição ilegítima do direito de locomoção deve ser demonstrada objetivamente, de forma clara e dotada de plausibilidade. A não indicação e comprovação, de modo preciso, específico e aferível concretamente, de fatos aptos a tolher a liberdade de locomoção física do paciente não permitem o conhecimento deste ponto da impetração.
+    Assim, embora o writ of Habeas Corpus seja admissível, em tese, para prevenir e corrigir qualquer restrição ilegal ou abusiva do direito de locomoção dos indivíduos, é ausente, no caso ora em análise, qualquer elemento capaz de evidenciar a necessidade de utilização desta ação autônoma de impugnação.
+    Por fim, cumpre destacar que não cabe a rediscussão da matéria perante essa Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. COMPETÊNCIA PRECÍPUA DO SUPERIOR TRIBUNAL DE JUSTIÇA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. INVIABILIDADE. 1. Compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo quanto a tal recurso de fundamentação vinculada. Salvo hipóteses de flagrante ilegalidade ou abuso de poder, inadmissível o reexame dos pressupostos de admissibilidade do recurso especial pelo Supremo Tribunal Federal. Precedentes. 2. Inadmissível a utilização do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 3. Agravo regimental conhecido e não provido”. (HC 133.648-AgR, Primeira Turma, rel. min. Rosa Weber, DJe de 7/6/2016)
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. PENAL. VIOLAÇÃO DE DIREITO AUTORAL. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPETRAÇÃO DE HABEAS CORPUS NESTE SUPREMO TRIBUNAL APÓS TRANSCURSO DO PRAZO RECURSAL: IMPOSSIBILIDADE DE UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DEFICIÊNCIA DE INSTRUÇÃO DO HABEAS CORPUS. PRECEDENTES. DECISÃO AGRAVADA MANTIDA. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Trânsito em julgado do acórdão objeto da impetração no Superior Tribunal de Justiça. Jurisprudência do Supremo Tribunal Federal no sentido de não ser viável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. Não estando o pedido de habeas corpus instruído, esta deficiência compromete a sua viabilidade, impedindo que sequer se verifique a caracterização, ou não, do constrangimento ilegal. 3. Agravo regimental ao qual se nega provimento”. (HC 132.103, Segunda Turma, rel. min. Cármen Lúcia, DJe de 15/3/2016)
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º do RISTF.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se.
+    Brasília, 27 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
