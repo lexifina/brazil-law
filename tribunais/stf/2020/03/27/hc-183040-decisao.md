@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 560.271, do Superior Tribunal de Justiça.
+    2. A parte impetrante afirma que o paciente – cuja prisão preventiva foi decretada em 13.09.2017 – foi denunciado e pronunciado pelo crime previsto no art. 121, § 2º, IV, c/c o art. 14, II, do Código Penal. Alega que, da sentença de pronúncia, interpôs recurso em sentido estrito e que o TJ/RJ negou provimento ao recurso, mantendo a custódia preventiva.
+    3. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator, Min. Antonio Saldanha Palheiro, indeferiu o pedido de liminar. Ato contínuo, apresentou-se pedido de reconsideração, também indeferido.
+    4. Neste habeas corpus, a defesa sustenta, em síntese, que “a custódia provisória que foi imposta ao Paciente com base em elementos do próprio tipo penal, desassociados de circunstâncias do caso concreto”, afirmando ser “perfeitamente cabível a substituição da prisão preventiva por outra medida cautelar menos gravosa elencada no artigo 319 do Código de Processo Penal”. Além disso, alega ser caso “de aplicação da prisão domiciliar em razão da fragilidade do estado de saúde do Paciente, portador de asma e de alto grau de probabilidade de óbito ao contrair o COVID-19”.
+    5. Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. A hipótese é de paciente preso preventivamente e pronunciado pelo crime de homicídio qualificado, na modalidade tentada. Os autos dão conta de que o paciente tentou matar o ofendido mediante disparos de arma de fogo, empregando meio que dificultou a defesa da vítima. Vítima que foi abordada no portão de sua própria residência e que teve de entrar em luta corporal com o acusado, que ainda lhe desferiu uma coronhada na cabeça. Quadro empírico que não favorece a imediata expedição do alvará de soltura do paciente.
+    9. Não fosse isso o bastante, o fato é que a alegada “fragilidade do estado de saúde do Paciente”, ao que consta dos autos, sequer foi suscitada perante as instâncias de origem. O que também impede o imediato exame dessa matéria por esta Corte, sob pena de indevida supressão de instâncias. Até porque a defesa não fez a prova pré-constituída do quanto alegado na petição inicial.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 27 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
