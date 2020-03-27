@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “ADMINISTRATIVO. APELAÇÃO. SERVIDOR PÚBLICO. CONCURSO DE REMOÇÃO. PARTICIPAÇÃO. MPU. PRAZO MÍNIMO DE PERMANÊNCIA NO LOCAL DE LOTAÇÃO INICIAL. ART. 9º DA LEI N. 13.316/16. AUSÊNCIA DE PREJUÍZO À ADMINISTRAÇÃO. PRINCÍPIOS DA RAZOABILIDADE, DA PROPORCIONALIDADE E DA ISONOMIA.
+    1. Dispõe o §1º do artigo 9º da Lei n. 13.316/2016 que a remoção, anteriormente ao término de 1(um) ano iniciado a partir da lotação inicial do servidor público, somente é possível se decorrer do interesse da Administração Pública.
+    2. A proibição de servidor público do MPU de participar de concurso de remoção, pelo fato de não ter completado o período mínimo de um ano na unidade administrativa, contados a partir da lotação decorrente de provimento inicial de cargo, vai de encontro aos princípios da proporcionalidade, da razoabilidade e da isonomia, tal como ocorre quando a instituição deixa de abrir processo de relotação prévio à nomeação de aprovados em concurso público mais recente, pois em ambos os casos se está privilegiando quem pretende ingressar nos quadros funcionais em detrimento daqueles que já o compõem” (pág. 1 do documento eletrônico 58).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se ofensa aos arts. 2º; 5°, XXXIV, XXXV, LIV e LV; 37, caput; 93, IX; e 97 da mesma Carta.
+    A pretensão recursal merece acolhida.
+    Com efeito, esta Corte possui entendimento firmado no sentido de que, para caracterizar violação da cláusula de reserva de plenário (art. 97 da CF/1988), é necessário que o órgão fracionário fundamente-se na incompatibilidade entre a norma legal e a Constituição Federal, o que ocorreu no caso. Eis o teor da Súmula Vinculante 10, verbis :
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte”.
+    No caso, verifica-se que o acórdão recorrido afastou a aplicação do § 1° do art. 9° da Lei 13.316/2016 com fundamento nos princípios da razoabilidade, da proporcionalidade e da isonomia sem antes submeter a matéria ao órgão especial daquela Corte de origem, o que caracteriza evidente desrespeito ao enunciado da Súmula Vinculante 10. Com a orientação acerca da inobservância do referido verbete vinculante, cito a Rcl 27.184-AgR/MG, de relatoria do Ministro Roberto Barroso, assim ementado:
+    “Direito do Trabalho e Administrativo. Agravo interno em reclamação. Alegada ofensa à Súmula Vinculante nº 10.
+    1. De acordo com a Súmula Vinculante nº 10, o afastamento da incidência de lei, mesmo sem declaração expressa de inconstitucionalidade, exige a observância da cláusula de reserva de plenário. Essa regra não é observada quando a decisão do órgão fracionário, sob o fundamento de interpretar dispositivo legal, não deixa qualquer espaço para que ele seja aplicado.
+    2. Viola a Súmula Vinculante nº 10 a decisão que, invocando o art. 25, § 1º, da Lei nº 8.987/1995, afasta genericamente o comando que permite a terceirização, pelas concessionárias de serviço público, de atividades inerentes ao serviço concedido.
+    3. Agravo regimental desprovido”.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (art. 21, § 2°, do RISTF) para determinar a devolução dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento do recurso de apelação, com a observância do princípio da reserva de plenário.
+    Publique-se.
+    Brasília, 27 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
