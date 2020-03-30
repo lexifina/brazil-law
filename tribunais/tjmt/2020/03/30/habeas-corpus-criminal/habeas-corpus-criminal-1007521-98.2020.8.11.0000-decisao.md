@@ -1,0 +1,27 @@
+TRIBUNAL DE JUSTIÇA
+ESTADO DE MATO GROSSO
+GABINETE DO DESEMBARGADOR JUVENAL PEREIRA DA SILVA
+TERCEIRA CÂMARA CRIMINAL
+HABEAS CORPUS CRIMINAL (307) 1007521-98.2020.8.11.0000 – COMARCA DE CUIABÁ
+IMPETRANTE: HUMBERTO MORAIS GOMES
+PACIENTE: EVERSON OLIVEIRA DA SILVA
+Vistos.
+Trata-se de habeas corpus, com pedido de liminar, impetrado pelo Dro HUMBERTO MORAIS GOMES, advogado (OAB. 22449), em favor de EVERSON OLIVEIRA DA SILVA, preso no dia 15/02/2019 pela polícia civil, em cumprimento de mandado de busca e apreensão em sua residência, onde foi encontrada uma porção de 41 gramas de cocaína em sua residência, levando a sua prisão em flagrante delito pelo crime de tráfico de drogas (Ação penal código 569418).
+O impetrante sustenta que houve sentença condenatória pelo delito de tráfico e associação ao tráfico, e que interpôs recurso de apelação, a qual encontra-se pendente de julgamento em razão das medidas temporárias contra o contágio do COVID 19.
+Ressalta que houve expedição de guia de execução provisória para a 2a Vara Criminal de Cuiabá (autoridade coatora), tendo o paciente formulado pedido de prisão domiciliar em razão de sua situação de saúde, pois é portador de insuficiência renal (possui apenas um rim) e ter contraído tuberculose, estando com maior vulnerabilidade diante da pandemia Covid-19, além de ter contraído tuberculose no presídio, sendo, pois, pessoa com insuficiência renal e de quadro de saúde delicado.
+Sustenta que foi ofertado novo pedido de prisão domiciliar em 11/11/2019, o qual foi analisado pela autoridade coatora em 05/03/2020, ou seja, 04 meses depois, no qual “...nem deferiu nem negou o pedido” (Inicial pagina 08-PDF), tendo apenas determinado a expedição de ofício à unidade prisional para informar o quadro de saúde do paciente/reeducando no prazo de 05 (cinco) dias, cujo ofício sequer foi expedido até a presente data.
+Assinala ser portador de doença que o coloca em situação de risco, estando com maior vulnerabilidade diante da pandemia Covid-19; que teve a sessão de julgamento que poderia rever as questões acerca do mérito da acusação penal e libertá-lo suspensa, não viu outra maneira para cessar a coação ilegal que o mantém preso e em risco de morte em caso de contaminação pelo vírus, ressaltando que a OMS – Organização Mundial de Saúde – destacou que pessoas com problemas renais são incluídas nos grupos de risco.
+Por fim verbera que o acusado está preso preventivamente há mais de um ano, portanto supera os 90 dias, e a acusação é de crime cometido sem violência ou grave ameaça à pessoa, nos termos do art. 4o, I, c) da recomendação na 62 de 2020 do CNJ.
+Forte nessas razões, a impetrante requer, liminarmente, a restituição do status libertatis do paciente, mediante expedição de alvará de soltura, diante da situação de risco em que se encontra, ou seja-lhe aplicada prisão domiciliar ou outras medidas diversas da prisão (artigo 319-CP).
+DECIDO
+Conquanto o ordenamento jurídico pátrio não preveja a possibilidade de se conceder medida liminar em sede de habeas corpus, tal providência tem sido admitida tanto pela doutrina quanto pela jurisprudência, quando se mostram configurados os requisitos do fumus boni iuris e do periculum in mora, pressupondo o elemento da impetração que aponta a ilegalidade reclamada e a probabilidade de dano irreparável, e evidente o constrangimento ilegal no direito de ir e vir do acusado.
+Da análise perfunctória própria desta fase de cognição sumária, observa-se que o dito constrangimento ilegal propalado na exordial se refere ao risco de contágio ao qual o paciente estaria submetido, diante do seu encarceramento no Sistema Prisional, em virtude de ser ele portador de doença renal e tuberculose.
+No entanto, a Declaração médica datada em 22/02/2019, indica que o paciente passou por cirurgia de laparotomia em 28/04/2020 (pag. 20-PDF), e o Exame de Radiologia datado de 20/09/2019 (pag. 36-PDF), CONTUDO, tais documentos não demonstra a iminência de doença grave ou de que o paciente esteja necessitando de cuidados médicos fora da instituição em que se encontra recluso. Não há qualquer exame ou laudo médico indicando urgência de tratamento médico ou risco iminente por parte do paciente.
+Consigno que o Laudo Médico de ADIRCE MARIA DE OLIVEIRA (genitora do paciente), juntado nos autos (pag. 21-PDF), por si só não revela que sua mãe dependa única e exclusivamente dos seus cuidados.
+Desse modo, os documentos juntados nos autos não são aptos a concluir pela demonstração do imediato risco ao qual o paciente em tese encontra-se submetido.
+Quanto a alegação de que a unidade de saúde não forneceu o prontuário médico do paciente, consigno que a autoridade coatora, em suas informações juntada nos autos em 27/03/2020, informou: “...Ao serem os autos encaminhados conclusos no dia de hoje, foi determinado o imediato cumprimento da decisão alhures...” (ID 38651490), ao passo que, a par de ausência de prova pré-constituída do imediato risco ao qual o paciente em tese encontra-se submetido de forma diferenciada dos demais reeducandos, aguarda-se a análise do pleito em sua totalidade para ocasião do mérito.
+Assim, INDEFIRO a pretensão inicial em sua fase liminar.
+Considerando que já houve a juntada das informações da douta autoridade indigitada coatora, remetam-se à i. Procuradoria-Geral de Justiça, para fins de direito.
+Cuiabá, 30 de março de 2020.
+DES. JUVENAL PEREIRA DA SILVA
+Relator
