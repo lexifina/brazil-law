@@ -1,0 +1,31 @@
+DECISÃO
+MANDADO DE SEGURANÇA – DEVIDO PROCESSO LEGISLATIVO – MEDIDA PROVISÓRIA Nº 905 – LIMINAR – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes assim retratou o caso:
+    Fabiano Contarato e Randolph Frederich Rodrigues Alves, Senadores da República, impetraram mandado de segurança, no qual apontam, como autoridade coatora, o Presidente do Congresso Nacional, senador Davi Alcolumbre, visando o reconhecimento da inobservância ao devido processo legislativo no tocante à tramitação do Projeto de Lei de Conversão nº 4/2020, oriundo da Medida Provisória nº 905/2019, editada em 12 de novembro de 2019, mediante a qual instituído o denominado “Contrato de Trabalho Verde e Amarelo”.
+          Discorrem sobre a tramitação da medida provisória, no curso da qual, segundo articulam, foram apresentadas 1.930 emendas, 125 aprovadas pelo Relator na Comissão Mista.
+          Destacam a publicação, em 16 de março de 2020, do Ato nº 4, do Presidente do Senado Federal, a considerar justificadas as ausências, em reuniões de Comissões e do Plenário, de Senadores maiores de 65 anos, gestantes, imunodeprimidos ou portadores de doenças crônicas, por integrarem grupos sujeitos a maior risco de mortalidade em razão da pandemia ocasionada pelo coronavírus.
+          Esclarecem haver sido realizada reunião da Comissão Mista no dia 17 de março, com a aprovação do relatório da medida provisória e da Emenda de nº 132, objeto do requerimento de destaque nº 66. Alegam descumprido acordo firmado entre os parlamentares, na reunião de 11 de março, para a votação nominal dos destaques. Afirmam ocorrida a votação sem a presença dos Senadores maiores de 65 anos – 9 dos 26 integrantes da Comissão. Mencionam a atual crise sanitária vivenciada e a contaminação pelo coronavírus de parlamentares e servidores, a indicar indispensável o isolamento.
+    Realçam o princípio democrático. Aduzem violados os artigos 58, § 1º, e 62, § 9º, da Constituição Federal, a estabelecerem, na composição da Comissão Mista, à qual cabe examinar as medidas provisórias e emitir parecer, representação proporcional dos partidos ou blocos parlamentares que participam de cada Casa Legislativa. Alegam prejuízo à bancada da oposição, decorrente da ausência dos 9 Senadores. Compondo a minoria, afirmam a inviabilidade de buscar construir consenso sobre pontos, que dizem fundamentais, da matéria apreciada.
+          Sustentam inobservados os princípios da proporcionalidade e da isonomia. Asseveram a necessidade de nova deliberação, remota ou presencialmente, neste caso após o fim da pandemia. Evocam o decidido na ação direta de inconstitucionalidade nº 4.029, relator ministro Luiz Fux.
+    Sob o ângulo do risco, aludem à iminência da análise da medida provisória pelos Plenários das Casas Legislativas e da subsequente conversão em lei, segundo arguem, ao arrepio da Constituição Federal.
+    Requerem, no campo precário e efêmero, seja suspensa a tramitação do Projeto de Lei de Conversão nº 4/2020, originário da Medida Provisória nº 905/2019, ou, sucessivamente, anulada a reunião da Comissão Mista realizada em 17 de março último. Pretendem, no mérito, o deferimento da ordem para invalidar a referida reunião, determinando-se nova votação da matéria.
+    A impetração foi formalizada em 18 de março de 2020, e distribuída ao ministro Celso de Mello por prevenção, considerado o mandado de segurança nº 36.824, no qual figuram como impetrantes os senadores Fabiano Contarato e Randolph Frederich Rodrigues Alves e a deputada federal Joenia Batista de Carvalho, buscando a invalidação, em parte, da Medida Provisória nº 905/2019.
+    No dia 27 de março último, ante licença médica do Relator, a Presidência determinou o encaminhamento da impetração a Vossa Excelência, na condição de substituto eventual, com fundamento no artigo 38, inciso I, do Regimento Interno do Supremo, para exame da liminar.
+    2. Os artigos 58, § 1º, e 62, § 9º, da Lei Maior assim disciplinam:
+    Art. 58. O Congresso Nacional e suas Casas terão comissões permanentes e temporárias, constituídas na forma e com as atribuições previstas no respectivo regimento ou no ato de que resultar sua criação.
+    § 1º Na constituição das Mesas e de cada Comissão, é assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares que participam da respectiva Casa.
+    [...]
+    Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.
+    […]
+    § 9º Caberá à comissão mista de Deputados e Senadores examinar as medidas provisórias e sobre elas emitir parecer, antes de serem apreciadas, em sessão separada, pelo plenário de cada uma das Casas do Congresso Nacional.
+    O Ato nº 4 do Presidente do Senado Federal não implica óbice ao comparecimento às sessões. Considera justificada eventual ausência de parlamentar com mais de 65 anos, gestante, imunodeprimido ou portador de doenças crônicas, tendo em vista o quadro pandêmico atual, provocado pelo coronavírus.
+    A falta motivada de parlamentar a reunião não contraria o artigo 58, § 1º, da Carta Política, no tocante à representação dos partidos e blocos, a revelar inexistir transgressão à proporcionalidade e à isonomia. Também não houve usurpação da atribuição da comissão, a qual examinou a proposição legislativa.
+    O precedente evocado – ação direta de inconstitucionalidade nº 4.029, relator ministro Luiz Fux – versava situação distinta, no que apontada inconstitucionalidade formal, na conversão da Medida Provisória nº 366 na Lei nº 11.516/2007 – a qual dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade –, em razão da ausência de deliberação da Comissão Mista de Deputados e Senadores.
+    Inexistem elementos a indicarem descumprimento de acordo referente à votação nominal dos destaques.
+    3. Indefiro a liminar.
+    4. Ouçam a autoridade impetrada, observado o artigo 7º, inciso I, da Lei nº 12.016/2009. Deem ciência à Advocacia-Geral da União, na forma do artigo 7º, inciso II, do mesmo diploma legal.
+    5. Após, colham o parecer da Procuradoria-Geral da República.
+    6. Retornem o processo ao Gabinete do eminente Relator.
+    7. Publiquem.
+Brasília, 30 de março de 2020.
+Ministro MARCO AURÉLIO
