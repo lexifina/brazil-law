@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. RE 564.354. TEMA 76 DA REPERCUSSÃO GERAL. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003.
+    - Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+    - O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+    - Benefício concedido antes da CF/88 não se sujeita à revisão pela aplicação dos tetos preceituados pelas ECs nº 20/98 e 41/03, restando forçoso o reconhecimento da improcedência do pedido.
+    - Honorários recursais fixados em 2% (dois por cento), nos termos do art. 85, § 11, do CPC de 2015.
+    - Apelação improvida.” (Doc. 26)
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, caput, XXXV e LV, e 93, IX, da Constituição Federal, 14 da Emenda Constitucional 20/1998, 5º da Emenda Constitucional 41/2003 e 58 do Ato das Disposições Constitucionais Transitórias – ADCT, bem como ao que decidido no Tema 76 da Repercussão Geral (Doc. 28).
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário (Doc. 29).
+    A Vice-Presidência do Tribunal Regional Federal da 2ª Região determinou o retorno dos autos à Turma julgadora para a apreciação da controvérsia à luz do entendimento firmado pelo Supremo Tribunal Federal na análise do Tema 76 da Repercussão Geral (Doc. 30).
+    O órgão julgador do Tribunal a quo manteve o acórdão anteriormente proferido, em juízo negativo de retratação (Doc. 32).
+    Em juízo de admissibilidade, a Vice-Presidência do Tribunal a quo, considerando o teor da decisão supracitada, admitiu o apelo extremo (Doc. 34).
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    Esta Corte, ao apreciar o RE 564.354, Rel. Min, Cármen Lúcia, Tema 76 da Repercussão Geral, firmou entendimento no sentido de que não ofende o ato jurídico perfeito a aplicação imediata do artigo 14 da Emenda Constitucional 20/1998 e do artigo 5º da Emenda Constitucional 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional. Por oportuno, trago à colação a ementa do referido julgado:
+    “DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada.
+    2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+    3. Negado provimento ao recurso extraordinário.”
+    Assevere-se que, naquela oportunidade, este Supremo Tribunal não estabeleceu limites temporais relacionados à data de início do benefício, razão pela qual o entendimento do STF no julgamento do RE 564.354 deve ser aplicado independentemente da data de início do benefício. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. RGPS. REVISÃO DE BENEFÍCIO. TEMA 76 DA REPERCUSSÃO GERAL. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL. IRRELEVÂNCIA.
+    1. Verifico que a tese do apelo extremo se conforma adequadamente com o que restou julgado no RE-RG 564.354, Rel. Min. Cármen Lúcia, DJe 15.02.2011, não havendo que se falar em limites temporais relacionados à data de início do benefício.
+    2. Agravo regimental a que se nega provimento.” (RE 959.061-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 17/10/2016, grifei)
+    Nesse mesmo sentido, em casos análogos, destaco as seguintes decisões: RE 1.038.326, Rel. Min. Edson Fachin, DJe de 6/6/2017; RE 1.044.326, Rel. Min. Dias Toffoli, DJe de 5/6/2017; ARE 953.153, Rel. Min. Teori Zavascki, DJe de 23/5/2016; ARE 885.608, Rel. Min. Roberto Barroso, DJe de 26/5/2015; e RE 1.049.287, Rel. Min. Rosa Weber, DJe de 30/5/2017.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do Código de Processo Civil/2015, para determinar a aplicação imediata do artigo 14 da Emenda Constitucional 20/1998 e do artigo 5º da Emenda Constitucional 41/2003 ao benefício previdenciário da parte ora recorrente, de modo que passe a observar o novo teto constitucional. Ficam invertidos os ônus da sucumbência fixados na sentença anteriormente proferida (Doc. 14).
+    Publique-se.
+    Brasília, 30 de março de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
