@@ -1,0 +1,23 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. HONORÁRIOS ADVOCATÍCIOS FIXADOS PELO TRIBUNAL DE ORIGEM: MAJORAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM ALTERAÇÃO DO DISPOSITIVO DA DECISÃO.
+Relatório
+    1. Em 27.1.2020, neguei provimento ao recurso extraordinário interposto pela União ao fundamento de que o acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal:
+     “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE ESTIPÊNDIO DE REFORMA DE MILITAR COM REMUNERAÇÃO DE CARGO PÚBLICO CIVIL. PRECEDENTES. CONTROVÉRSIA QUANTO À CONTINUIDADE E INEXISTÊNCIA DE INTERRUPÇÃO DO VÍNCULO NO SERVIÇO PÚBLICO. EXONERAÇÃO DE CARGO MUNICIPAL ANTERIOR À EMENDA CONSTITUCIONAL N. 20/1998 E POSSE EM CARGO FEDERAL NA MESMA DATA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO” (fl. 1, e-doc. 8).
+    2. Publicada essa decisão no DJe de 19.2.2020, Osvaldo Jurandir Nunes da Silva opôs, em 27.2.2019, tempestivamente, embargos de declaração (e-doc. 9).
+    3. O embargante alega haver omissão pois no julgado embargado, “embora tenha negado provimento ao recurso interposto pela parte demandada, deixou de majorar os honorários advocatícios sucumbenciais anteriormente fixados nos autos, tal como disposto na regra do § 11 do art. 85 do CPC” (fl. 1, e-doc. 9).
+    Pede “o conhecimento e provimento dos vertentes embargos declaratórios, mediante a atribuição de efeitos infringentes, para que, sanando-se a omissão apontada, seja determinada, ante a rejeição do apelo extremo interposto pela parte demandada, a majoração dos honorários advocatícios sucumbenciais anteriormente fixados nos autos, de acordo com o que disposto na regra do § 11 do art. 85 do CPC” (fls. 1-2, e-doc. 9).
+    4. Em 27.2.2020, deu-se vista à embargada para manifestar-se (§ 2º do art. 1.023 do Código de Processo Civil) (e-doc. 11), a qual deixou de apresentar contrarrazões (e-doc. 14).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica assiste ao embargante.
+    6. São requisitos para a majoração de honorários advocatícios sucumbenciais pela interposição recurso neste Supremo Tribunal fixação de honorários pelas instâncias ordinárias e interposição do recurso a partir de 18.3.2016, data de vigência do atual Código de Processo Civil. Assim, por exemplo:
+    “Embargos de declaração em agravo regimental em recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Agravo regimental interposto contra decisão publicada sob a égide do Código de Processo Civil de 2015. Existência de honorários advocatícios fixados nas instâncias de origem. Majoração (Art. 85, § 11, do CPC). Cabimento. Precedentes. 4. Ausência de omissão, contradição ou obscuridade. Acórdão embargado suficientemente motivado. Embargos protelatórios. 5. Embargos de declaração rejeitados” (ARE n. 1.143.302-AgR-ED, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 8.4.2019).
+    Esse também é o entendimento do Superior Tribunal de Justiça em ser “ devida a majoração da verba honorária sucumbencial, na forma do art. 85, §11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso” (EREsp n. 1.539.725-AgInt, Relator o Ministro Antonio Carlos Ferreira, DJe 19.10.2017).
+    7.  Na sentença o juiz da Quinta Vara Federal de Porto Alegre/RS fixou os honorários de sucumbência nos seguintes termos:
+    “Condeno a parte ré ao ressarcimento das custas adiantadas e ao pagamento de honorários advocatícios, que fixo em R$3.000,00 (três mil reais), com base no art. 20, § 4º, do CPC, atualizados pelo IPCA-E, desde a prolação desta sentença, sem incidência de juros de mora até a execução da verba (Ag Rg no REsp 1143313/RS), e tampouco durante o prazo constitucional para pagamento (art. 100, § 5º, da CF/88)“ (fl.12, vol. 3).
+    Essa sentença foi mantida no acórdão recorrido (fls. 100-108, vol. 3).
+    Na espécie em exame o recurso extraordinário foi interposto em 14.11.2017 (fl. 146, vol. 3), na vigência do novo Código de Processo Civil, pelo que cabível a majoração dos honorários.
+    8. Pelo exposto, acolho os embargos de declaração apenas para determinar a majoração dos honorários advocatícios em 10% sobre o valor fixado na sentença de primeiro grau, conforme disposto no § 11 do art. 85 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de março de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
