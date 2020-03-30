@@ -1,0 +1,17 @@
+DECISÃO:
+    1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que concluiu pela incidência do ISSQN sobre sobre serviços postais prestados por empresa privada franqueada perante a Empresa Brasileira de Correios e Telégrafos (ECT), em face de suposta previsão na Lei Complementar nº 116/2003, itens 17.08. e 26.01. Confira-se, a propósito, a ementa do julgado:
+    “MANDADO DE SEGURANÇA – TRIBUTÁRIO – EMPRESA FRANQUEADA DA ECT – AGÊNCIA DE CORREIO – LEI COMPLEMENTAR 116/03 – ISSQN – INCIDÊNCIA. A Carta Magna prevê expressamente a possibilidade de concessão de serviços públicos, a que o Estado é detentor do monopólio, aos particulares. No caso da franquia de serviços postais, dominava o entendimento de incidência de ISSQN, mesmo porque a CR/88 trazia em seu artigo 150, VI, ‘a’ o benefício de isenção fiscal quanto das atividades prestadas pelo Estado e a Lei anterior não trazia tal previsão. A LC 116/03 trouxe inovação, quando inseriu explicitamente os serviços postais franqueados no rol taxativo das hipóteses geradoras do recolhimento de ISSQN.”
+    2. Na peça de recurso extraordinário (art. 102, III, a e c, da CF/1988), a empresa franqueada alega violação aos arts. 21, X, 93, IX, 150, VI, a, e 175, da Constituição Federal. Afirma que, “sendo os serviços postais monopólio da União que pode prestá-los por conta própria ou concedê-los ao particular, independente de qual forma o mesmo for prestado, não haverá a tributação municipal, ainda que o referido serviço esteja previsto na lista anexa à Lei Complementar nº 116/03, em decorrência da incidência da imunidade recíproca”.
+    3. Em 3 de maio de 2012, o Ministro Joaquim Barbosa, então relator dos autos, determinou o sobrestamento do feito até que ocorresse o julgamento do RE 603.136-RG e do RE 600.867-RG, Temas 300 e 508 respectivos da sistemática da repercussão geral.
+    4. Em que pese a decisão determinando o sobrestamento, tenho que a controvérsia não se amolda aos paradigmas citados.
+    5. No RE 603.136-RG (Tema 300) esta Corte reconheceu a presença de repercussão geral da controvérsia acerca da alegada inconstitucionalidade do item 17.08 da Lista anexa à Lei Complementar nº 116/2003, em autos que trata da incidência do ISSQN sobre royalties recebidos por empresa franqueadora, decorrentes de contratos de franquia.
+    6. Já no RE 600.867-RG (Tema 508), por outro lado, discute-se a aplicação da imunidade tributária recíproca a entidade cuja composição acionária, objeto de negociação em Bolsa de Valores, revela inequívoco objetivo de distribuição de lucros a investidores públicos e privados.
+    7. Assim, afasto o sobrestamento dos autos em relação aos Temas 300 e 508 e passo à análise do recurso.
+    8. Decido.
+    9. O Supremo Tribunal Federal na ADI 4.784, sob minha relatoria, discute a matéria de fundo ora em análise, acerca da constitucionalidade do itens 17.08, 26 e 26.1 da lista de serviços anexa, contemplado pelo art. 1º da Lei Complementar nº 116/2003, que trata da incidência do Imposto Sobre Serviço de Qualquer Natureza (ISSQN) sobre agencia de correio franqueada.
+    9. Diante do exposto, com base no art. 21, I, do RI/STF, determino novo sobrestamento do presente recurso, até que seja concluído o julgamento da mencionada ação.
+    Aguarde-se o julgamento na Secretaria.
+    Publique-se.
+          Brasília, 30 de março de 2020.
+Ministro Luís Roberto Barroso
+Relator
