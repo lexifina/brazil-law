@@ -1,0 +1,1 @@
+Art. 12-B. O disposto nos art. 12 e art. 12-A aplica-se aos participantes e aos instituidores de arranjos de pagamento, ainda que esses arranjos não sejam alcançados pelas disposições desta Lei, nos termos do disposto no § 4º do art. 6º.
