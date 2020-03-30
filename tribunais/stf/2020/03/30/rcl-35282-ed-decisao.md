@@ -1,0 +1,37 @@
+Decisão: Trata-se de embargos de declaração opostos em face de decisão monocrática pela qual neguei seguimento à reclamação, sob o seguinte fundamento (eDOC 6):
+    “Trata-se de reclamação ajuizada em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, nos autos do Processo n.º 0012180-35.2013.8.26.0053, negou provimento ao agravo interno interposto de decisão que inadmitiu o recurso extraordinário, com fundamento no Tema 338 da repercussão geral.
+    Aponta-se, em síntese, a má aplicação do paradigma da repercussão geral e articula com a violação da Súmula Vinculante nº 44.
+    É o relatório.
+    Decido.
+    Defiro a gratuidade da justiça. Mediante análise dos autos, verifica-se que a publicação do acórdão que julgou o agravo interno ocorreu em 01.04.2019 e a presente reclamação somente foi protocolada em 07.06.2019. Assim, apresenta-se incabível, porque incide, na hipótese, a Súmula 734 do STF. Nessa esteira:
+    “RECLAMAÇÃO COISA JULGADA. A reclamação não faz as vezes de rescisória. Verbete nº 734 da súmula do Supremo: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.” (Rcl 19.567 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 28.5.2015).
+    “RECLAMAÇÃO ALEGADO DESRESPEITO À AUTORIDADE DAS DECISÕES PROFERIDAS, PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE FISCALIZAÇÃO ABSTRATA ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, CUJO FUNDAMENTO DE VALIDADE RESIDE EM JULGAMENTO COLEGIADO JÁ TRANSITADO EM JULGADO AJUIZAMENTO DA RECLAMAÇÃO EM MOMENTO POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO EMANADA DO TRIBUNAL DE JUSTIÇA LOCAL INCIDÊNCIA, NA ESPÉCIE, DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF INADMISSIBILIDADE DA RECLAMAÇÃO COMO SUCEDÂNEO DA AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO PRECEDENTES RECURSO DE AGRAVO IMPROVIDO.” (Rcl 16.313 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 19.12.2014).
+    Referida vedação foi positivada no art. 988, §5º, I, do CPC.
+    Cabe esclarecer que o Código de Processo Civil não previu nenhum recurso cabível em face do acordão do Tribunal que julga o agravo interno interposto em face de decisão que inadmite o recurso extraordinário com fundamento em recurso paradigma da repercussão geral.
+    Aceitáveis, com fundamento no novo Código de Processo Civil, seriam os embargos de declaração, no prazo de cinco dias, consoante previsão do artigo artigo 1.023 do CPC.
+    Nessa linha, após a publicação do acórdão e para não configurar o trânsito em julgado do ato reclamado, a reclamação, quando cabível, deveria ter sido interposta no prazo máximo de cinco dias e não de quinze dias como defende a parte reclamante.
+    Por oportuno, registre-se que a parte reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de postular expressamente a citação do beneficiário da decisão impugnada para apresentar contestação e de indicar valor da causa (artigos 290 e 291 do CPC).
+    Nada obstante, ante o indeferimento da inicial, deixa-se de determinar sua emenda, nos termos do art. 321 do CPC. Caso haja interposição de recurso desta decisão, observe-se que o conhecimento recursal fica condicionado ao saneamento do defeito processual (art. 292, §3º, CPC).
+    Ante o exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação.”
+    O embargante sustenta, em síntese, omissão na decisão monocrática ao aduzir que não ocorreu o trânsito em julgado do ato judicial reclamado (eDOC. 7, p.3).
+    O embargante requer a concessão de efeitos infringentes, para, ao aclarar as questões postas, que a reclamação seja recebida e provida, considerando a não incidência da súmula 734 do STF (eDOC. 7, p.5).
+    A parte embargada, apesar de intimada, não apresentou manifestação (eDOC 13).
+    É o relatório. Decido.
+    Sem razão a parte embargante.
+    Nos termos do art. 1.024, § 2º, do CPC, “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.” E de acordo com a norma do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material.
+    Observada regra processual, não há omissão a ser sanada.
+    A reclamação é instrumento com expresso assento constitucional, trata-se de ação vocacionada, precipuamente, a duas diferentes finalidades. De um lado, visa a reclamação à (i) tutela da autoridade das decisões proferidas por esta Corte e das súmulas vinculantes por ela editadas. De outro, à (ii) proteção do importante rol de competências atribuídas ao Supremo Tribunal Federal. É o que se vê nos artigos 102, I, l, e 103-A, §3º, da Constituição da República.
+    Com efeito, da análise dos documentos juntados nos autos, verifica-se que a publicação do acórdão que julgou o agravo interno ocorreu em 01.04.2019 e a presente reclamação somente foi protocolada em 07.06.2019. A parte embargante, entretanto, limitou-se a alegar que não ocorreu o trânsito em julgado sem, contudo, acostar nos autos documentos capazes de afastar as razões lançadas no decisum atacado, devendo este, portanto, ser mantido por seus próprios fundamentos.
+     Desse modo, a reclamação apresenta-se incabível e incide na espécie o teor da Súmula 734 do STF:
+     “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    Nesse sentido:
+    “RECLAMAÇÃO ALEGADO DESRESPEITO À AUTORIDADE DE DECISÃO PROFERIDA, PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE FISCALIZAÇÃO ABSTRATA. ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, JÁ TRANSITADO EM JULGADO. AJUIZAMENTO DA RECLAMAÇÃO EM MOMENTO POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO EMANADA DO E. TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL. INCIDÊNCIA, NA ESPÉCIE, DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF E NO ART. 988, § 5º, INCISO I, DO CPC/15. INADMISSIBILIDADE DA RECLAMAÇÃO COMO SUCEDÂNEO DA AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL. EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO. PRECEDENTES. RECURSO DE AGRAVO IMPROVIDO”. (Rcl 24.091-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 20/10/2016).
+    Inelutável ainda o óbice do art. 988, 5º, I, do CPC/2015, segundo o qual inadmissível a reclamação ajuizada após o trânsito em julgado da decisão reclamada.
+    Na verdade, observa-se nítido caráter infringente nas alegações recursais, porquanto se busca a revisão da decisão embargada. O Supremo Tribunal Federal possui entendimento reiterado no sentido de que os embargos de declaração não se prestam à rediscussão do assentado no julgado, em decorrência de inconformismo da parte Embargante (cf. RE nº 211.390-AgR-ED, Relator o Ministro Gilmar Mendes, DJ de 04.11.05; AI nº 543.738-AgR-ED, Relator o Ministro Sepúlveda Pertence, DJ de 14.10.05; AI nº 528.469-AgR-ED, Relator o Ministro Carlos Velloso, DJ de 30.09.05; RE nº 547.063- ED, Relator o Min. Dias Toffoli, DJe 27.10.11).
+    Desse modo, observo ausente o veiculado vício na decisão embargada, haja vista didaticamente explanada a inviabilidade da reclamação, à luz do trânsito em julgado do ato judicial reclamado.
+    Ante o exposto, rejeito os embargos declaratórios.
+    Publique-se. Intimem-se.
+    Brasília, 30 de março de 2020.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
