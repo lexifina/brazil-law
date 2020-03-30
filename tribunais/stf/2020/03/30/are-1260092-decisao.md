@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE IMPROBIDADE ADMINISTRATIVA LASTREADA EM SUPOSTAS ILEGALIDADES QUANTO AO USO DE RECURSOS ADVENIENTES DE CONVÊNIO FIRMADO ENTRE O MUNICÍPIO DE CORRENTE/PI E O MINISTÉRIO DA INTEGRAÇÃO NACIONAL, QUE SE DESTINARAM À CONSTRUÇÃO DE TRÊS PASSAGENS MOLHADAS NA URBE. MANIFESTAÇÃO EXPRESSA DA UNIÃO DE QUE NÃO INTERVIRÁ NO PROCESSO, FIRMANDO-SE, POR ISSO, A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA A LIDE. PARECER DO MPF PELA COMPETÊNCIA DO JUÍZO FEDERAL. AGRAVO INTERNO DO MPF DESPROVIDO”. (eDOC 1, p. 82)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 109, I e IV, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que a fixação da competência da Justiça Federal não pode depender da manifestação de interesse da União, mas do objeto da lide – no caso, aplicação irregular de verbas federais decorrentes de convênio. (eDOC 1, p. 105)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a espécie dos autos, consignou o seguinte:
+    “No caso dos autos, há registro neste caderno processual de que a União manifestou não ter interesse em intervir na lide (fls. 09), razão pela qual não figura, em nenhum dos polos da relação processual, ente federal indicado no art. 109, I da Constituição Federal, o que atrai a competência da Justiça Estadual para processar e julgar a demanda de origem”. (eDOC 1, p. 88)
+    Divergir dessa constatação demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário.
+    Se o Ministério Público Federal, ora recorrente, não participa da relação processual, que se trava apenas entre Município e seu ex-prefeito, não há violação à norma constitucional, que fixa a competência da Justiça Federal a partir de critério subjetivo:
+    “Art. 109. Aos juízes federais compete processar e julgar:
+    I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes (...)”.
+     Confiram-se, a propósito, os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – COMPETÊNCIA PARA PROCESSAR E JULGAR AÇÃO CIVIL DE IMPROBIDADE ADMINISTRATIVA AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL – INTERVENÇÃO DA UNIÃO – COMPETÊNCIA DA JUSTIÇA FEDERAL – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – (...)”. (ARE 1.108.862 AgR, rel. Min. Celso de Mello, Segunda Turma, Dje 30.10.2018)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTE DESTA SEGUNDA TURMA EM CASO ANÁLOGO (RE 822.816-AGR, DE MINHA RELATORIA). 1. Para efeito de determinação de competência, pouco importa que a parte seja legítima ou não. A existência ou não da legitimação deve ser apreciada e decidida pelo juiz considerado competente para tanto, o que significa que a questão competencial é logicamente antecedente e eventualmente prejudicial e da legitimidade das partes. 2. O que se leva em consideração é a parte processual, que nem sempre coincide com a parte legítima. Parte processual é a que efetivamente figura na relação processual, ou seja, é aquela que pede ou em face de quem se pede a tutela jurisdicional numa determinada demanda. Já a parte legítima é aquela que, segundo a lei, deve figurar como demandante ou demandada no processo. 3. A simples circunstância de se tratar de ação civil pública proposta pelo Ministério Público Federal é suficiente para fixar a competência da Justiça Federal. Ao juiz federal caberá apreciar a demanda, ainda que seja para dizer que não é ele, e sim o Ministério Público Estadual, o que tem legitimação ativa para a causa. Concluindo pela ilegitimidade, a solução não será a da declinação da competência, mas a de extinção do processo sem julgamento de mérito. (…)”. (RE 859.405, rel. Min. Teori Zavascki, Segunda Turma, DJe 10.8.2016)
+    Mencione-se, ainda, nesse sentido:
+    Sendo ratione personae a competência prevista no art. 109, I, da Constituição, e não integrando a União a presente vistoria ad perpetuam rei memoriam na qualidade de autora, ré, assistente ou opoente, inexiste ofensa ao citado dispositivo constitucional, porquanto a simples alegação da existência de interesse da União feita pela ora recorrente não desloca, só por isso, a competência para a Justiça Federal.
+    [RE 172.708, rel. min. Moreira Alves, j. 28-9-1999,  1ª T,  DJ  de 12-11-1999.]
+    =  AI 814.728 AgR, rel. min. Ricardo Lewandowski, j. 8-2-2011, 1ª T,  DJE  de 10-3-2011
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 30 de março de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
