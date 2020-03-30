@@ -1,0 +1,9 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+SEGUNDA TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PRIVADO
+CONFLITO DE COMPETÊNCIA (221) No 1007155-59.2020.8.11.0000
+SUSCITANTE: JUÍZO DA 1a VARA CÍVEL DA COMARCA DE ALTA FLORESTA
+SUSCITADO: JUÍZO DA 3a VARA CÍVEL DA COMARCA DE ALTA FLORESTA
+À redistribuição, porquanto a competência para exame da matéria é, Regimentalmente, reservada a uma das Câmaras Cíveis Reunidas de Direito Público e Coletivo (art. 17-B, I, "b" do RI/TJMT).
+Cuiabá, 30 de março de 2020
+Des. GUIOMAR TEODORO BORGES
