@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. Eis a síntese do acórdão recorrido:
+    MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA SUBSTITUTIVA DA CONTIBUIÇÃO SOBRE A FOLHA DE SALÁRIOS. CONSTITUCIONALIDADE. A contribuição sobre a receita bruta, prevista na Lei nº 12.546, de 2011, substitutiva da contribuição previdenciária sobre a folha de salários (art. 22 da Lei 8.212, de 1991), está em conformidade com os princípios constitucionais, sendo legítima sua cobrança.
+    No extraordinário, o recorrente aponta ofensa aos artigos 5º, incisos XXXV, LIV e LV, 93, inciso IX, 195, inciso I, §§ 4° e 13, e 154, inciso I, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração por negativa de prestação jurisdicional. Salienta caracterizada a dupla incidência da contribuição sobre a mesma base de cálculo, no que a receita bruta é a base imponível das contribuições ao PIS e a Cofins. Aponta inobservados os princípios da não cumulatividade, capacidade contributiva, razoabilidade e proporcionalidade, salientando que a substituição da base de incidência promovida pela Lei nº 12.546/11, com as alterações das Leis nº 12.715/2012 e nº 12.844/2013, deram ensejo a um aumento excessivo da carga tributária.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+     As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 30 de março de 2020
+Ministro MARCO AURÉLIO
+Relator
