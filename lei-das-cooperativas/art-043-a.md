@@ -1,0 +1,1 @@
+Art. 43-A. O associado poderá participar e votar a distância em reunião ou assembleia, nos termos do disposto na regulamentação do Departamento Nacional de Registro Empresarial e Integração da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.
