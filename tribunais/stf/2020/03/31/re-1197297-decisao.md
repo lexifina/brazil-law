@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “EMENTA: APELAÇÃO CÍVEL — Acidentária — Processo de execução — Sentença que extinguiu a execução nos termos do art. 794, I, do antigo CPC — Admissibilidade —Obrigação de pequeno valor satisfeita dentro do prazo de sessenta dias — Inteligência do art. 17, da Lei n° 10.259/01 — Inexistência de mora da autarquia — Inviabilidade da cobrança reclamada — Precedente — Decisão mantida por fundamentação diversa — Recurso não provido” (pág. 88 do documento eletrônico 3).
+    Neste RE, fundado no art. 102, III, a , da Constituição, alega-se violação do art. 100, § 1°, da mesma Carta. Aduz o recorrente que
+    “[o] C. STF entende que não são devidos juros de mora entre a data de expedição do precatório e a data do pagamento judicial, período de tramitação constitucional (§ 1°, do art. 100, da CF), porém essa decisão não implica expunção dos juros incidentes entre a feitura do cálculo e a data de inscrição” (pág. 316 do documento eletrônico 115).
+    Antes da remessa dos autos a esta Corte, a Vice-Presidência do Tribunal de Justiça do Estado de São Paulo entendeu que o Tema 96 da Repercussão Geral não se aplica ao caso dos autos, sob o fundamento de que
+    “[...] em que pese o entendimento esposado no RE no 579.431/RS, Terma no 96, STF, não é caso de aplicá-lo à espécie, uma vez que o aresto de fls. 478/479v revelou de maneira clara que a hipótese é específica de pagamento de RPV efetuado dentro do prazo de 60 dias previsto no art. 17, da Lei n° 10.259/01, de modo que inexiste qualquer mora da autarquia no caso em apreço, pouco importando para a solução da demanda, portanto, o tema aqui trazido para reapreciação” (pág. 135 do documento eletrônico 3).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Wagner Natal Batista, opinou pelo provimento do recurso. Colho do parecer:
+    “[...] verifica -se que os cálculos foram realizados pela contadoria em 02/2005, conforme fl. 365, os quais foram homologados pela r. decisão às fls. 375/376. No entanto, o ofício requisitório foi expedido somente em 07.08.2009, conforme verifica-se à fl. 393. Assim, é possível afirmar que entre a data da realização dos cálculos e a da requisição transcorreram mais de quatro anos, devendo incidir juros moratórios, conforme indica a tese firmada no RE 579.431/RS” (pág. 4 do documento eletrônico 8).
+    A pretensão recursal merece acolhida.
+    Observa-se que a conclusão do Juízo a quo diverge do entendimento desta Corte no que tange à incidência de juros de mora entre a data da realização dos cálculos e a data da expedição do precatório ou da requisição. É que os Ministros desta Corte reconheceram a existência de repercussão geral quanto à questão no julgamento do RE 579.431-RG/RS, Relator o Ministro Marco Aurélio, e, ao analisarem o mérito, assim ficou ementado o acórdão:
+    “JUROS DA MORA – FAZENDA PÚBLICA – DÍVIDA – REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório”.
+    No mesmo sentido, cito precedentes desta Corte:
+    “Ementa: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. PRECEDENTE DE REPERCUSSÃO GERAL. TEMA 96.
+    1. ‘Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório’ (RE 579.431, Plenário, Min. MARCO AURÉLIO, Dje de 30/6/2017).
+    2. Agravo interno a que se nega provimento” (RE 1.058.457-AgR/AL, Primeira Turma, Rel. Min. Alexandre de Moraes)
+    “JUROS DA MORA – FAZENDA PÚBLICA – DÍVIDA – REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório. Precedente: recurso extraordinário nº 579.431/RS, da minha relatoria, Pleno, julgado sob o ângulo da repercussão geral, acórdão publicado no Diário da Justiça de 30 de junho de 2017” (RE 514.688-AgR/RS, Primeira Turma, Rel. Min. Marco Aurélio)
+    Isso posto, dou provimento ao recurso para determinar a incidência dos juros da mora entre a data da realização dos cálculos e a da requisição de pequeno valor (art. 21, § 2°, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
