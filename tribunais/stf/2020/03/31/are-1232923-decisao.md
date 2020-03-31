@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 97 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Inexistente ofensa ao art. 97 da Carta Maior ou contrariedade à Súmula Vinculante nº 10, inaplicável o postulado da reserva de plenário aos feitos em trâmite nos juizados especiais. Nesse sentido:
+    “PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO (ART. 97 DA CF/88). ALEGAÇÃO MANIFESTAMENTE IMPROCEDENTE. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EFEITOS FINANCEIROS RETROATIVOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. O princípio da reserva de plenário não se aplica no âmbito dos juizados de pequenas causas (art. 24, X, da Constituição Federal) e dos juizados especiais em geral (art. 98, I, da CF/88), que, pela configuração atribuída pelo legislador, não funcionam, na esfera recursal, sob o regime de plenário ou de órgão especial. 2. A manifesta improcedência da alegação de ofensa ao art. 97 da Carta Magna pela Turma Recursal de Juizados Especiais demonstra a ausência da repercussão geral da matéria, ensejando a incidência do art. 543-A do CPC. 3. É de natureza infraconstitucional a controvérsia relativa à legitimidade da retroação dos efeitos financeiros da revisão de benefício previdenciário, nas hipóteses em que o segurado preencheu, na data de entrada do requerimento administrativo, os requisitos para a concessão de prestação mais vantajosa. 4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 5. Ausência de repercussão geral das questões suscitadas, nos termos do art. 543-A do CPC” (ARE 868.457-RG, Rel. Min. Teori Zavascki,  DJe 27.4.2015).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2020.
+Ministra Rosa Weber
+Relatora
