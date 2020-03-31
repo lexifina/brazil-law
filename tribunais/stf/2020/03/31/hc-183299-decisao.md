@@ -1,0 +1,16 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 569.148, em tramitação no Superior Tribunal de Justiça.
+    2. A parte impetrante afirma que a defesa, “impetrou habeas corpus, com pedido liminar, junto ao Tribunal de Justiça do Estado do Rio de Janeiro, sendo certo que até a presente data não fora sequer distribuído (doc. junto), posto ser o paciente portador de diabetes, doença abrangida no grupo de risco no contágio com a COVID 19, na medida em que o indivíduo com diabetes tem um sistema imunológico mais fraco, o que aumenta consideravelmente o risco de complicações ao contrair uma infecção, como o novo coronavírus, onde requereu que sua prisão preventiva fosse substituída por prisão domiciliar”. Nesse contexto, “a não distribuição imediata do processo de habeas corpus (...) está comprometendo sobremaneira e expondo em risco real de vida o paciente”.
+    3. Prossegue a narrativa para sustentar que deve “ser flexibilizado e afastado o óbice da Súmula 691 do Supremo Tribunal Federal, para que seja concedido ao paciente o direito de aguardar o transcurso do processo em prisão domiciliar, nos termos da Recomendação nº. 62 do CNJ do dia 17 de março de 2020, que estabeleceu medidas preventivas à propagação da infecção pelo novo Coronavírus, associado ao dado de que no dia 19 de março do ano em curso o CNJ também publicou a Resolução nº. 313 que suspendeu, a princípio, os prazos processuais até o dia 30 de abril do ano em curso”.
+    4. Com essa argumentação, requer a concessão da ordem a fim de que a prisão preventiva do acionante seja substituída pela prisão domiciliar.
+    5. Decido.
+    6. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. Inicialmente, registro que a petição inicial do habeas corpus não foi instruída com cópia da denúncia, do decreto prisional e de qualquer manifestação do Tribunal estadual. O que impede a exata compreensão da controvérsia, assim como atrai a orientação jurisprudencial do Supremo Tribunal Federal (STF) no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    9. Não bastasse isso, as peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar o imediato acolhimento da pretensão defensiva.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 31 de março de 2020.
+Ministro Luís Roberto Barroso
+          Relator
