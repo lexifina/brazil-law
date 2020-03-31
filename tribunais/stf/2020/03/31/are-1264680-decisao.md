@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. AVISO PRÉVIO INDENIZADO. DÉCIMO-TERCEIRO SALÁRIO PROPORCIONAL. AFASTAMENTO POR MOTIVO DE DOENÇA OU ACIDENTE (QUINZE PRIMEIROS DIAS). FÉRIAS GOZADAS. TERÇO CONSTITUCIONAL DE FÉRIAS. HORAS-EXTRAS.
+    1. Diante da natureza indenizatória, é indevida a incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado.
+    2. O décimo-terceiro proporcional sobre o aviso prévio indenizado também tem natureza indenizatória, não incidindo, pois, contribuição previdenciária sobre tal parcela.
+    3. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que não é devida a contribuição previdenciária sobre a remuneração paga pelo empregador ao empregado durante os primeiros quinze dias de afastamento por motivo de doença ou acidente, porquanto essa verba não possui natureza salarial.
+    4. Em situações ordinárias, porém, em que há o efetivo gozo do direito, a verba se reveste de indubitável caráter salarial, conforme previsão constitucional do artigo 7º, inciso XVII, devendo, pois, nestes casos, incidir contribuição previdenciária.
+    5. Face à natureza indenizatória, é indevida a contribuição previdenciária sobre o terço constitucional de férias.
+    6. É legítima a incidência de contribuição previdenciária sobre as horas extras.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 149 e 195, I, a, da CF. Sustenta, em essência, que não incide contribuição previdenciária sobre os valores dispendidos a título de férias gozadas e horas extras, em razão da natureza indenizatória das verbas.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que é infraconstitucional a discussão acerca da incidência de contribuição previdenciária quando baseada na natureza da verba.
+    (…)
+    Ante o exposto, não admito o recurso extraordinário.”
+    O recurso não merece acolhida, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, a jurisprudência do Supremo Tribunal Federal vem, reiteradamente, negando a repercussão geral de controvérsias relativas à cobrança de contribuição previdenciária sobre valores pagos pelo empregador, quando pendente discussão acerca da natureza jurídica das verbas. Nesse sentido, confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA DE VERBAS PAGAS AO TRABALHADOR. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. ACÓRDÃO RECORRIDO PUBLICADO EM 02.7.2015.
+    1. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (RE 945.513, Relª. Minª. Rosa Weber)
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PATRONAL. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES 1. A jurisprudência desta Suprema Corte entende ser de índole infraconstitucional a discussão da natureza da verba (remuneratória ou indenizatória) para fins de incidência de tributo. 2. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC/2015.” (RE 967.780-AgR, sob a minha relatoria)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 31 de março de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
