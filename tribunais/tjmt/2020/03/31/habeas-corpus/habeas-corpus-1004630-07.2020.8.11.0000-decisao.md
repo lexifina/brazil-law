@@ -1,0 +1,18 @@
+PJe
+Habeas Corpus n. 1004630-07.2020.8.11.0000
+Impetrante: Carolina Del’Isola Ramos Frantz
+Paciente: Luiz Henrique Fidelis de Figueiredo
+Impetrado: Juiz de Direito da 4a Vara Criminal da Comarca de Várzea Grande/MT
+Por meio da petição de Id. n. 38689954, a impetrante almeja ver reconsiderada a decisão de indeferimento da liminar pleiteada neste habeas corpus (Id. n. 34828994), argumentando, desta feita, que a pandemia de COVID-19 em curso torna insustentável a permanência do paciente no cárcere, e invocando, nessa linha intelectiva, o artigo 4o, inciso I, alínea “b”, da Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Como é sempre melhor pecar pelo excesso do que pela falta, convém salientar que o mencionado ato administrativo editado pelo CNJ tem caráter meramente recomendatório.
+Ao cometer a infração penal, o agente faz uma escolha, livre e consciente, de se sujeitar às reprimendas cominadas ao ilícito. Sabe ele que, a depender de uma determinada combinação de variáveis (gravidade da conduta, quantum de pena aplicável, reincidência etc.), poderá ser preso cautelarmente ou iniciar o cumprimento de eventual sanção privativa de liberdade em regime fechado. Sabe também que as consequências de sua escolha implicam, não raro, a sua remoção temporária do seio da coletividade e colocação em ambiente enclausurado, não apenas a fim de que seja promovida a sua ressocialização, mas, principalmente, para que seja neutralizada a ameaça concreta que a sua liberdade representa àqueles que optam por conduzir suas vidas de modo diverso, em conformidade com as leis do País, e querem se ver imunes à criminalidade, em especial à violenta, moléstia de ímpar severidade.
+O estabelecimento prisional não é um resort. Ninguém, no pleno gozo de suas faculdades mentais, quer nele permanecer; logo, o receio de contrair a enfermidade du jour se apresenta como um pretexto deveras atraente para quem almeja se ver livre das grades. Todavia, não há notícia de incidência da COVID-19 nas cadeias públicas e presídios deste Estado – em relação aos quais, diga-se de passagem, já foram adotadas medidas preventivas como a suspensão de visitas –, e, ainda que houvesse, a soltura geral e indiscriminada dos indivíduos que neles se encontram certamente se revelaria temerária, por implicar a disseminação do novo coronavírus numa população já fragilizada pela pandemia amplamente divulgada nos meios de comunicação.
+Nesse contexto, é necessário que a possibilidade de substituição da custódia por medidas alternativas, como a prisão domiciliar e o monitoramento eletrônico, seja aferida a partir de uma análise individualizada da situação de cada preso, sobretudo porque nem todos fazem parte dos denominados “grupos de risco” da COVID-19, a saber, idosos, diabéticos, hipertensos etc., consoante estudos da Organização Mundial da Saúde e do Ministério da Saúde.
+Na espécie, além de inexistir indicativo de que o paciente se enquadre num desses grupos, não se sabe nem ao menos se a pretensão deduzida no vertente pedido de reconsideração chegou a ser submetida ao crivo do juízo de origem, de modo que o enfrentamento da questão, nesta oportunidade, caracterizaria inequívoca supressão de instância.
+Não fosse o bastante, o vertente writ já se encontra instruído com informações prestadas pelo impetrado, dando conta da não ocorrência do constrangimento ilegal narrado na exordial (Id. n. 37420499), bem como o parecer da Procuradoria-Geral de Justiça, juntado na data de hoje, recomendando a denegação da ordem (Id. n. 38766484).
+Diante do exposto, mantenho incólume o decisum em comento.
+Intime-se a impetrante.
+Após, volvam-me conclusos para a elaboração de relatório e voto.
+Cuiabá, 30 de março de 2020.
+Desembargador Pedro Sakamoto
+Relator
