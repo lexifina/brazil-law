@@ -1,0 +1,24 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL/73. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO. CONTRIBUIÇÃO PREVIDENCIÁRIA. VERBAS REMUNERATÓRIAS. 13° SALÁRIO REFLEXO AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. VERBAS DE CARÁTER INDENIZATÓRIO. TERÇO CONSTITUCIONAL DE FÉRIAS E AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA.
+    I - O Código de Processo Civil vigente a época atribuía poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+    II - Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil.
+    III – O acórdão recorrido não afastou a aplicação da Lei 8.212/1991 ou violou a Constituição, limitando-se o relator a examinar a lei infraconstitucional aplicável a espécie, para concluir pela existência, ou não, de natureza salarial cm sintonia com o posicionamento do E. STJ sobre a correta incidência da exação.
+    IV - Incide contribuição previdenciária sobre o 13° salário reflexo ao aviso prévio indenizado. Precedentes do STJ.
+    V - As verbas pagas a título de terço constitucional de férias e aviso prévio indenizado possuem natureza indenizatória, motivo pelo qual não integram o salário-de-contribuição para fins de incidência da exação prevista no art. 22, 1, da Lei no 8.212/91, ao RAT/SAT e a ‘terceiros'. E o entendimento que prevalece no Colendo Superior Tribunal de Justiça, bem como neste Egrégio Sodalício.
+    VI - Agravo legal e agravo interno desprovidos” (págs. 358-359 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se violação do art. 195, I, a, da mesma Carta, sob o argumento de que não incide contribuição previdenciária sobre os reflexos do aviso prévio indenizado no décimo terceiro salário, tendo em vista o caráter indenizatório da referida verba.
+    A pretensão recursal não merece acolhida.
+    Isso porque, nos termos da jurisprudência da Corte, a controvérsia relativa à definição da natureza remuneratória ou indenizatória das parcelas sobre as quais incide a contribuição previdenciária patronal, entre as quais se insere o décimo terceiro salário proporcional ao aviso prévio indenizado, se restringe ao âmbito infraconstitucional. Nesse sentido:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, a controvérsia relativa à natureza remuneratória ou indenizatória das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame da legislação infraconstitucional.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 968.110-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma - grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS BASEADA NA NATUREZA JURÍDICA DA VERBA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. CARÁTER INFRACONSTITUCIONAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA.
+    1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba.
+    2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessária a análise da legislação infraconstitucional aplicável à espécie.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, CPC” (RE 1.013.951-AgR/RS, rel. Min. Edson Fachin, Segunda Turma - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 31 de março de 2020.
+Ministro Ricardo Lewandowski
+Relator
