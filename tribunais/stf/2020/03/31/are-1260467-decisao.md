@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 1ª Região confirmou o entendimento do Juízo quanto à improcedência do pedido de homologação de certificado de conclusão do curso de formação de vigilante, assentando não comprovada a reabilitação após a condenação, na forma da legislação de regência. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violação dos artigos 1º, inciso III, e 5º, incisos XLVIII e LIV e § 2º, da Constituição Federal. Diz ter sido extinta a execução em razão do cumprimento integral da pena restritiva de direitos, insistindo no direito pleiteado ante o princípio da dignidade da pessoa humana, a proibição das penas de caráter perpétuo, o princípio da não culpabilidade, o direito ao esquecimento e o acesso ao mercado de trabalho.
+    2. Eis a síntese do acórdão recorrido:
+    No que concerne à exigência de o candidato a vigilante não ostentar antecedentes criminais, prevista no inciso VI do art. 16 da Lei n. 7.102/1983, o entendimento jurisprudencial emanado do Supremo Tribunal Federal e do Superior Tribunal de Justiça é no sentido de que não se deve considerar como antecedente criminal a circunstância de o requerente figurar como indiciado em inquérito policial ou mesmo denunciado em ação penal ainda em curso, mas tão somente a condenação por fato criminoso, transitada em julgado.
+     Nos termos da orientação jurisprudencial desta Corte, o cumprimento de pena pela prática de crime previsto na legislação penal e a posterior reabilitação do condenado criminalmente permitem a homologação do certificado de Curso de Formação de Vigilantes, não podendo incidir o óbice previsto no inciso VI do art. 16 da Lei n° 7.102/83 e no inciso Ido art. 4° da Lei n° 10.826/2003, in verbis: [...]
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 31 de março de 2020.
+Ministro MARCO AURÉLIO
+Relator
