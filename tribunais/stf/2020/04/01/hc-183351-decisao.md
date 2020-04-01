@@ -1,0 +1,22 @@
+DECISÃO:
+Ementa: Execução Penal. Habeas corpus. Progressão de regime. Prisão domiciliar. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 568.223, do Superior Tribunal de Justiça.
+    2. A parte impetrante afirma que o paciente preenche os pressupostos da Recomendação n. 62/2020 do Conselho Nacional de Justiça, que trata da adoção de medidas preventivas à propagação da infecção pelo Novo Coronavírus – Covid19, para ser beneficiado com a promoção de regime ou com a prisão domiciliar.
+    3. Argumenta que o apenado encontra-se cumprindo pena no regime semiaberto, o delito não foi cometido com violência ou grave ameaça e já alcançou o lapso para a obtenção da progressão ao modo prisional mais brando, sendo devida a sua transferência para o regime aberto.
+    4. Nesse contexto, considerando que o paciente cumpre uma pena total de “08 anos, 01 mês e 18 dias de reclusão e ele cumpre pena por processos de furto e corrupção ativa (Doc. 01, 02 e 03) – todos crimes sem violência ou grave ameaça. Ele já cumpriu mais de 02 anos e 08 meses de reclusão. Pelos cálculos de pena (…) já deveria estar em regime aberto desde 18 de janeiro de 2020”. Sendo assim, “temos que a colocação de Caique em regime aberto ou, pelo menos, sua colocação em prisão domiciliar, é medida que se impõe”.
+    5. Com essa argumentação, requer a concessão da ordem a fim de determinar a imediata progressão do acionante para o regime intermediário. Subsidiariamente, pleiteia que seja assegurado ao paciente o direito de cumprir o restante da pena em regime domiciliar.
+    6. Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III Agravo regimental a que se nega provimento.”
+    9. Não é o caso de concessão da ordem de ofício.
+    10. Inicialmente, verifico que não há notícia nos autos de que o pedido defensivo tenha sido submetido ao exame do Juízo da execução. Além disso, o mérito da controvérsia não foi analisado pelo TJ/SP, nem pelo STJ. Sendo assim, considerando que a situação concreta do paciente não passou pelo crivo das instâncias judicantes competentes, não é possível a imediata análise da questão por esta Corte, sob pena de indevida supressão de instâncias.
+    11. Não bastasse isso, para além de observar que a parte impetrante não instruiu os autos com cópia da sentença condenatória, as peças que instruem a impetração não evidenciam teratologia, ilegalidade flagrante ou abuso de poder capaz de justificar o imediato acolhimento da pretensão defensiva. Noutros termos: não tenho como saltar várias instâncias para reconhecer uma ilegalidade cuja comprovação a defesa não se desincumbiu.
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de abril de 2020.
+Ministro Luís Roberto Barroso
+          Relator
