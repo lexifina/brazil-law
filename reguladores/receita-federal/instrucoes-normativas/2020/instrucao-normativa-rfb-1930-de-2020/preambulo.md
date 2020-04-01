@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1930, de 1º de abril de 2020
+Altera a Instrução Normativa RFB nº 1.924, de 19 de fevereiro de 2020, que dispõe sobre a apresentação da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2020, ano-calendário de 2019, pela pessoa física residente no Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no inciso II do art. 14 da Lei nº 9.250, de 26 de dezembro de 1995, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
