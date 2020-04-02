@@ -1,7 +1,9 @@
 Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.
 § 1º Para os efeitos do disposto no caput, a família é composta pelo requerente, o cônjuge ou companheiro, os pais e, na ausência de um deles, a madrasta ou o padrasto, os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que vivam sob o mesmo teto.
 § 2º Para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
-§ 3º Considera-se incapaz de prover a manutenção da pessoa com deficiência ou idosa a família cuja renda mensal per capita seja inferior a 1/2 (meio) salário-mínimo.
+§ 3º Considera-se incapaz de prover a manutenção da pessoa com deficiência ou idosa a família cuja renda mensal per capita seja:
+I - igual ou inferior a 1/4 (um quarto) do salário-mínimo, até 31 de dezembro de 2020;
+II - (VETADO).
 § 4º O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória.
 § 5º A condição de acolhimento em instituições de longa permanência não prejudica o direito do idoso ou da pessoa com deficiência ao benefício de prestação continuada.
 § 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de impedimento de que trata o § 2º, composta por avaliação médica e avaliação social realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro Social - INSS.
@@ -11,3 +13,5 @@ Art. 20. O benefício de prestação continuada é a garantia de um salário-mí
 § 10. Considera-se impedimento de longo prazo, para os fins do § 2º deste artigo, aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos.
 § 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar e da situação de vulnerabilidade, conforme regulamento.
 § 12. São requisitos para a concessão, a manutenção e a revisão do benefício as inscrições no Cadastro de Pessoas Físicas (CPF) e no Cadastro Único para Programas Sociais do Governo Federal - Cadastro Único, conforme previsto em regulamento.
+§ 14. O benefício de prestação continuada ou o benefício previdenciário no valor de até 1 (um) salário-mínimo concedido a idoso acima de 65 (sessenta e cinco) anos de idade ou pessoa com deficiência não será computado, para fins de concessão do benefício de prestação continuada a outro idoso ou pessoa com deficiência da mesma família, no cálculo da renda a que se refere o § 3º deste artigo.
+§ 15. O benefício de prestação continuada será devido a mais de um membro da mesma família enquanto atendidos os requisitos exigidos nesta Lei.
