@@ -1,0 +1,5 @@
+# Lei nº 5.153, de 2 de abril de 2020, do Estado do Amazonas
+
+ALTERA A LEI ORDINÁRIA N. 4.749, DE 03 DE JANEIRO DE 2019, QUE “DISPÕE SOBRE O PARTO HUMANIZADO E O PLANO DE PARTO INDIVIDUAL (PPI) NOS ESTABELECIMENTOS DA REDE PÚBLICA ESTADUAL E NOS ESTABELECIMENTOS CONVENIADOS COM O PODER EXECUTIVO ESTADUAL NO ÂMBITO DO ESTADO DO AMAZONAS E ADOTA OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10898>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2020/10898/5153.pdf>
