@@ -1,0 +1,35 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1008076-18.2020.8.11.0000 - COMARCA DE POCONÉ
+IMPETRANTE: CLARISSA MARIA DA COSTA OCHOVE– DEF. PÚBLICO
+PACIENTE: VITÓRIA CAMARGO CIRQUEIRA
+Vistos,
+Habeas Corpus impetrado em favor de VITÓRIA CAMARGO CIRQUEIRA contra ato comissivo do Juízo da Vara Única da Comarca de Poconé, nos autos de ação penal (Código 183920), que indeferiu a revogação da custódia preventiva pelo cometimento, em tese, de tráfico de drogas em transporte público interestadual - art. 33, caput, c/c art. 40, III e V, todos da Lei no 11.343/2006 - (Sistema Primus).
+A impetrante sustenta que: 1) “a paciente reúne todos os requisitos para que seja colocada em liberdade”, por ser primária, menor de 21 (vinte um) anos, ter endereço certo e não integrar organização criminosa; 2) a custódia poderia ser convertida em prisão domiciliar, visto que a paciente é mãe de duas crianças menores de 12 (doze) anos de idade, cujo genitor encontra-se segregado.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade provisória à paciente, “fixando-se medidas cautelares substitutivas da prisão” (ID 39224958), com documentos (ID 39224959/ID 39224994).
+Relatos.
+No dia 1o.11.2019, o Juízo da Comarca de Poconé converteu o flagrante em prisão preventiva com a seguinte fundamentação:
+“[...]Ausentes vícios formais e materiais HOMOLOGO o flagrante. Assim, passo a análise dos requisitos para que seja mantida a prisão preventiva. [...].
+A acusada foi presa pelos policiais rodoviários federais em posse de grande quantidade de substância entorpecente. Aliado a isso, confessou que receberia determinada quantia em dinheiro para transportar o entorpecente, identificado como maconha.
+Aliado a isso, a quantidade de droga apreendida justifica a conversão do flagrante em prisão preventiva, ante a necessidade da preservação da segurança social e da saúde pública.
+É valido salientar de não se tratar delito violento, é necessária a segregação cautelar como forma de garantia da ordem pública em especial no que tange a saúde pública.
+Nestes termos, considerando o contexto em que a droga foi apreendida, em especial a quantidade significativa de porções, demonstrando que a intenção era a comercialização do entorpecente, aliado a confissão do indiciado, como forma de garantia da ordem pública e tendo em vista que trata-se da proteção da saúde pública é essencial a decretação da prisão preventiva do acusado. [...].
+De outra banda, entendo pelo menos nesta quadra inicial processual, que não é o caso de substituição pelas medidas cautelares previstas no artigo 319 do CPP, diante da necessidade da manutenção da prisão para a garantia da ordem pública, que exclui a possibilidade da substituição pelas medidas cautelares, ante a aparente ineficácia de outras medidas, salvo se houver modificação das circunstancias fáticas. [...].
+Diante do exposto, presentes os requisitos e pressupostos do artigo 312 do CPP, e mostrando-se insuficiente no caso concreto à aplicação das medidas cautelares previstas no artigo 319 do CPP, CONVERTO a PRISÃO EM FLAGRANTE de VITORIA CAMARGO CIRQUEIRA em PRISÃO PREVENTIVA. [...].” (Katia Rodrigues Oliveira, juíza de Direito - Código 182905 - ID 39224973)
+Em 19.3.2020, o Juízo singular, em cumprimento à Recomendação 62 do c. CNJ, reavaliou a prisão preventiva da paciente e a manteve, in verbis:
+“Da análise dos autos, verifica-se que a ré VITÓRIA CAMARGO CIRQUEIRA encontra-se segregada preventivamente pela suposta prática do delito tráfico, em razão da necessidade de resguardar a ordem pública, tendo em vista a gravidade do crime em questão, quanto a quantidade de droga apreendida em poder da denunciada, qual seja, 29,985kg de substancia entorpecente de maconha.
+Com efeito, tais circunstâncias apontam a reprovabilidade da conduta e igualmente a periculosidade dos acusados, demonstrando assim, a necessidade da prisão.
+Saliento também que desde a prisão da denunciada até a presente data não houve alteração no contexto fático hábil a justificar a revogação da medida imposta.
+Insta mencionar que, no caso em análise, as medidas cautelares são insuficientes a repreensão da denunciada, tendo em vista que no contexto da apreensão dos entorpecentes, aliada a imensa quantidade, a intenção clara era o tráfico. [...].
+Diante disso, e de tudo o mais que dos autos consta, em observância ao disposto no art. 316, parágrafo único, do Código de Processo Penal, MANTENHO a prisão preventiva decretada em desfavor de VITÓRIA CAMARGO CIRQUEIRA.” (Katia Rodrigues Oliveira, juíza de Direito - Código 183920/Comarca de Poconé - ID 39224973).
+Pois bem.
+A manutenção da custódia da paciente está fundamentada na garantia da ordem pública, consubstanciada quantidade de maconha apreendida - 29,985kg (vinte e nove quilos e novecentos e oitenta e cinco) de maconha -, consoante Enunciado Criminal no 25 deste e. Tribunal.
+Todavia, a quantidade da droga merece ser ponderada com as circunstâncias fáticas e pessoais da paciente, notadamente diante da excepcionalidade da segregação no período de pandemia de COVID-19 (Resolução no 62/20, art. 4o, I).
+No caso, a paciente transportou a droga, aparentemente, como “mula” pelo valor de R$4.000,00 (quatro mil reais), conforme extrai-se da denúncia (ID 39224959); tem 19 (dezenove) anos, é primária (SIAP), possui endereço certo [rua Anísio Teixeira n° 4020, apto 02, bairro Setor 11, Ariquemes/RO] e dois filhos [Samuel Camargo Jeremia/1 ano e 8 meses e Henrique Gabriel Camargo Jeremia/4 anos e 5 meses de idade], cujo genitor encontra-se segregado (ID 39224976); não possui familiares no Estado de Mato Grosso e foi interrogada na data de 11.3.2020 (www.tjmt.jus.br-Código 612194).
+A iminente conclusão da fase instrutória, a menoridade relativa e a vulnerabilidade dos filhos da paciente recomendam, ante a perspectiva da menor restrição à liberdade e pela interpretação pro infans, a substituição da custódia preventiva por medidas cautelares alternativas, “porquanto seu recolhimento residencial a impediria de exercer o labor e outras atividades benéficas às crianças” (STJ, HC no 539.327/SP – Relator: Min. Rogerio Schietti Cruz – 2.12.2019).
+Nesse quadro, afigura-se pertinente a adoção das medidas previstas no art. 319 do CPP, instrumentos de natureza inibitória e/ou proibitiva eficazes para atingir a mesma finalidade da prisão (STF, HC no 127823 - Relator: Min. Teori Zavascki - 23.6.2015).
+Com essas considerações, DEFERE-SE o pedido liminar para substituir a prisão preventiva da paciente pelas medidas cautelares: 1) comparecimento aos atos processuais, quando determinado pelo juiz da causa; 2) informar e manter endereço atualizado nos autos (CPP, art. 319, I e IV), ressalvada a dispensa de qualquer delas e sem prejuízo da fixação de outras pelo Juízo singular, sob pena de revogação do benefício.
+Outrossim, OFICIE-SE ao Juízo singular para expedir o apto alvará de soltura, observadas as medidas cautelares impostas, facultando-lhe informações ano prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 2 de abril de 2020.
+Des. MARCOS MACHADO
