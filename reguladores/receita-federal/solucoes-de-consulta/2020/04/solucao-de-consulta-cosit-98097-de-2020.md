@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 98097, de 4 de março de 2020
+Assunto: Classificação de Mercadorias
+Código NCM: 8471.50.90
+Mercadoria: Unidades de processamento destinadas a máquinas automáticas digitais para processamento de dados, baseadas em processador Intel Celeron J4105 com clock de 1,5GHz, com ou sem aplicativo operacional, contendo memória RAM de 4 GB ou 8GB DDR4, 1 ou 2 slots de expansão SODIM, memória na forma de dispositivo não volátil de armazenamento de dados à base de semicondutores EMMC FLASH (16 GB) ou SSD (128 GB), placa de vídeo integrada, conectividade wireless, RJ 45 e bluetooh, saídas de vídeo DP (display port) e para fones de ouvido, portas USB 2.0, USB 3.0, USB-C, suporte ao teclado e mouse, com tamanho reduzido tipo Mini PC, próprias para os usuários acessarem aplicativos virtualizados e informações que são processadas em servidores centralizados de forma remota (processamento em nuvem), conhecidas comercialmente como "thin client".
+Dispositivos Legais: RGI 1 (textos da posição 84.71), RGI6 (texto da subposição 8471.50) e RGC 1 (texto do item 8471.50.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.097-2020 .pdf]
