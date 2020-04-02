@@ -1,0 +1,24 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+APELAÇÃO CÍVEL No 0001607-31.2011.8.11.0018
+APELANTE: JOSE ROBERTO RODRIGUES
+APELADO: UNIVERSIDADE ESTADUAL DO TOCANTINS - UNITINS
+VISTOS.
+Trata-se de recurso de apelação cível interposto por José Roberto Rodrigues contra a sentença proferida pelo Juízo da 1a Vara da Comarca de Juara/MT que, nos autos da Ação Obrigação de Fazer c/c Indenizatória sob no 1607-31.2011, movida pelo apelante em face de Universidade Estadual do Tocantins – UNITINS, julgou improcedente.
+Irresignado, assevera o apelante, em síntese, que “o inconformismo recursal restringe-se tão somente à ausência de condenação da verba indenizatória não fixada pelo Magistrado, não condizente com o sofrimento moral causado pela parte apelada, e, também pela ausência de condenação da parte apelada em custas processuais e honorários de sucumbência em favor do patrono do apelante”. (id. 22100493)
+Aduz que “houve a necessidade que o ora apelante socorresse ao poder judiciário para resguardar seus direitos conferido pro Lei, necessário foi a contratação de advogado, tudo em conformidade aos autos, merece ainda atenção o depoimento das testemunhas e do apelante onde ficou claramente demonstrado a dor moral sofrida, as perturbações nas relações psíquicas”. (id. 22100493)
+Com essas considerações, requer a reforma da sentença na integra para condenar o apelado em danos morais.
+O apelado apresentou contrarrazões alegando não existir elementos fáticos aptos a caracterizar o direito do apelante, devendo, contudo, ao final, ser desprovido o recurso.
+A Procuradoria-Geral de Justiça deixou de opinar, ante a ausência de interesse público a justificar a sua intervenção (id 29322962).
+É o relatório.
+Decido.
+Como se vê, no caso em apreço, José Roberto Rodrigues ajuizou ação de obrigação de fazer c/c indenizatória por danos morais em face da Universidade Estadual do Tocantins – UNITINS, vindicando a expedição do diploma ou certificado de conclusão do curso de serviço social, sob o argumento de que a instituição vem se negando a fazê-lo.
+Entretanto, em que pese a parte apelada seja instituição de ensino, fundação, tal circunstância não se mostra suficiente para determinar a competência desta Câmara de Direito Público para processar e julgar o presente recurso. Isso porque os artigos 21, II, “a” e 21-A, II, “a”, do Regimento Interno deste Sodalício dispõem que a distribuição da competência recursal entre as Câmaras de Direito Público e Privado varia conforme a identificação da natureza do interesse jurídico envolvido, ou seja, se público ou privado.
+No caso dos autos, foi demandada ação pelo consumidor, a qual contesta a demora na expedição do diploma ou certificado de conclusão do curso de Serviço Social, logo, de sorte que a competência para julgar o recurso interposto é da Câmara Cível de Direto Privado, haja vista que a relação jurídica é de consumo, cuja natureza é privada.
+Exatamente sobre a matéria, o Pleno deste Egrégio Tribunal de Justiça firmou entendimento no sentido de que a norma interna deste sodalício mato-grossense é muito clara que a questão de competência diz respeito à matéria e não a parte, senão vejamos:
+“CONFLITO NEGATIVO DE COMPETÊNCIA – CÂMARA DE DIREITO PRIVADO – CÂMARA DE DIREITO PÚBLICO – REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO – ARTIGOS 21 E 21-A – DEFINIÇÃO PELA MATÉRIA. CONFLITO JULGADO IMPROCEDENTE. A rigor do estabelecido no RITJMT a competência para apreciar os recursos oriundos dos Juízos de Direito diz respeito tão somente à natureza da matéria. Existindo predominância em relação aos interesses dos alunos, expedição de diploma pela entidade de ensino, aspecto que diz respeito a contrato e obrigação de fazer após a sua conclusão, trata-se de típico caso de direito privado e, por consequência, aflora-se a competência de uma das Câmaras de Direito Privado do sodalício mato-grossense.” (N.U 0095282-63.2015.8.11.0000, SEBASTIÃO DE MORAES FILHO, TRIBUNAL PLENO, Julgado em 27/08/2015, Publicado no DJE 03/09/2015) (g.n)
+Dito isto, temos que, em relação à matéria tratada no recurso, como, de resto, já anotado linhas acima, diz respeito à falta de entrega pela instituição de ensino, fundação, dos diplomas do curso de Serviço Social, apesar de ter o apelante, em tese, alegado ter cumprido todas às metas, limite da lide, égide do artigo 128 do Código de Processo Civil, tratando-se de ação de obrigação de fazer.
+Assim, considerando a incompetência absoluta desta Câmara para o julgamento dos processos que envolvam matérias de direito privado, como no caso em apreço, declino da competência e com fundamento no artigo 21, II - a, do Regimento Interno deste Tribunal de Justiça determino a remessa dos autos ao DEJAUX para redistribuição a uma das Câmaras Cíveis Isoladas de Direito Privado, mediante baixa e formalidades de praxe.
+Cumpra-se, anotando-se o necessário.
+Às providências.
+Desembargadora Maria Aparecida Ribeiro
+Relatora
