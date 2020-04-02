@@ -1,0 +1,16 @@
+Trata-se de habeas corpus impetrado em favor de Anetilia Freire da Silva contra acórdão proferido pelo Superior Tribunal de Justiça – STJ, nos autos do RHC 181.701/DF, de relatoria do Ministro Nefi Cordeiro, assim ementado:
+    “RECURSO EM HABEAS CORPUS. PROCESSO PENAL. OPERAÇÃO ZELOTES. TRANCAMENTO DA AÇÃO PENAL. CRIMES DE LAVAGEM DE DINHEIRO. FALTA DE JUSTA CAUSA NÃO VERIFICADA. RECURSO IMPROVIDO. 1. A denúncia preenche os requisitos do art. 41 do CPP, indicando elementos probatórios justificadores da imputação do crime de lavagem de dinheiro à paciente, na ocultação em seu patrimônio de valores que em verdade seriam de servidor corrupto, não se verificando assim a discutida inépcia. 2. Recurso improvido.
+    No presente writ a defesa aponta
+    “[a] falsidade do documento que suplanta a hipotética afirmação de recebimento de propina pelo filho da impetrante, do que resulta o constrangimento ilegal de ter sido denunciada no processo 0033478-91.2015.4.01.3400 (“Caso Cimento Penha”), que resultou em Denúncia da Paciente pelos ilícitos previstos no art. 1º, da Lei n. 9.613/98 e; sobretudo, da sua prisão” (pág. 54 do documento eletrônico 1).
+    Requer, por fim,
+    “declarar a ilicitude da prova, consistente na informação e no documento que lhe segue, alusiva ao recebimento do valor de R$ 104.220,00 (cento e quatro mil, duzentos e vinte reais), em 08.05.2013 por JORGE CELSO, filho da PACIENTE (ANETILIA FREIRE DA SILVA) em função da sua manifesta falsidade e, por conseguinte, ilicitude, para determinar a sua inutilização e desentranhamento e retirada do Processo n. 0028042-88.2014.4.01.3400 e a retiradas das provas ilícitas por derivação no processo nº; 0033478-91.2015.4.01.3400, IPL 0684/2015 (“Caso Cimento Penha”) nos termos da Constituição Federal de 1988 (inciso LVI, do art. 5º) e o Código de Processo Penal (§ 3º, do art. 157)” (pág. 55 do documento eletrônico 1).
+    É o relatório. Decido.
+    Este pleito não pode ter seguimento, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Assim, a ausência da análise do mérito do writ pelo colegiado da Corte Superior, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso porque o acórdão proferido pelo STJ, apontado neste habeas corpus como ato coator, examinou apenas a questão referente aos requisitos da denúncia, não havendo decisão sobre eventual ilícitude das provas apresentadas pelo Parquet.
+    Ademais, na espécie, não verifico teratologia, flagrante ilegalidade ou abuso de poder que possam ser constatados ictu oculi e que mitigariam a impossibilidade da análise per saltum das questões trazidas no presente habeas corpus.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o exame do pleito cautelar, caso tenha sido requerido.
+    Publique-se.
+    Brasília, 2 de abril de 2020.
+Ministro Ricardo Lewandowski
+Relator
