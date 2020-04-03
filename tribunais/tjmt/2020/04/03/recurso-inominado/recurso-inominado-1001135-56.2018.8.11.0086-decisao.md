@@ -1,0 +1,42 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TURMA RECURSAL DOS JUIZADOS ESPECIAIS
+Recurso Inominado no. 1001135-56.2018.8.11.0086
+EMENTA – DECISÃO MONOCRÁTICA
+RECURSO INOMINADO. TELEFONIA. INCLUSÃO DO NOME DO CONSUMIDOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO POR OBRIGAÇÃO CONSIDERADA INDEVIDA. AUSÊNCIA DE PROVA DA EXISTÊNCIA DE RELAÇÃO JURIDICA ENTRE AS PARTES. FALHA NA PRESTAÇÃO DO SERVIÇO, RESPONSABILIDADE OBJETIVA. DANO MORAL IN RE IPSA. VALOR DA INDENIZAÇÃO FIXADO DENTRO DOS PARÂMETROS DA PROPORCIONALIDADE E DA RAZOABILIDADE. MANUTENÇÃO DA SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO INICIAL. DECISÃO MONOCRÁTICA COM FUNDAMENTO ART. 932, IV, “a” DO CPC. NEGADO PROVIMENTO AO RECURSO.
+A inclusão do nome do consumidor nos órgãos de proteção ao crédito por obrigação considerada indevida configura falha na prestação do serviço e gera a obrigação de indenizar a titulo de dano moral, na modalidade “in re ipsa”.
+Nega-se provimento ao recurso inominado, visando reformar a sentença que julgou parcialmente procedente o pedido inicial, se o valor da indenização, a título de dano moral, foi fixado dentro dos parâmetros da proporcionalidade e da razoabilidade, que tem sido estabelecido por esta Turma Recursal.
+Decisão monocrática em face ao disposto no art. 932, IV, “a”, do Código de Processo Civil, no Enunciado 102 do FONAJE - Fórum Nacional dos Juizados Especiais e Súmula 01 da Turma Recursal Única de Mato Grosso.
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Dispensado o relatório em face ao disposto no art. no 38 da Lei no 9.099 de 26 de setembro de 1995.
+Trata-se de recurso inominado contra a sentença que apresentou a seguinte parte dispositiva:
+Ante o exposto, opino pela IMPROCEDÊNCIA do pedido contraposto e pela PROCEDÊNCIA PARCIAL da pretensão inicial para DECLARAR inexistente o débito objeto da inscrição restritiva e para CONDENAR a Reclamada a pagar ao Reclamante a quantia de R$ 5.000,00 (cinco mil reais), a título de indenização por danos morais, corrigida monetariamente pelo índice INPC a partir desta data e acrescida de juros de mora de 1% ao mês desde a citação, com resolução do mérito a teor do disposto no artigo 487, inciso I, do Código de Processo Civil.
+Sem custas processuais e honorários advocatícios (art. 54 e art. 55 da lei no 9.099/95).
+Como o Recorrido nega a existência de relação jurídica entre as partes e, consequentemente, a responsabilidade pelo débito questionado, no valo de R$ 109,94, vencido em 26.06.2017, entendo que cabia à Recorrente comprovar a sua origem e licitude, ônus que não se desincumbiu a teor do disposto no art. 373, II, do CPC, devendo ser observado que provas produzidas de forma unilateral, consistentes em cópias de telas de computador e desprovidas de assinatura do consumidor não se prestam para o fim desejado. Sequer apresentou alguma gravação de áudio, como indício de prova da existência de relação jurídica entre as partes.
+A jurisprudência de nossos tribunais, inclusive do Colendo Superior Tribunal de Justiça, é pacífica no sentido de que a negativação indevida em cadastros de maus pagadores gera dano moral presumido - in re ipsa -, não sendo necessária, portanto, a prova do prejuízo.
+"Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica." (STJ - REsp 1059663⁄MS, Rel. Min. NANCY ANDRIGHI, DJe 17⁄12⁄2008).
+“A inscrição/manutenção indevida do nome do consumidor em cadastro de inadimplentes constitui ato ilícito passível de indenização a título de dano moral. Caracterização de dano in re ipsa. Precedentes” (STJ – 4a Turma – AgRg no AREsp 322.079/PE – Rel. Ministro MARCO BUZZI – j. 15/08/2013, DJe 28/08/2013).
+Eis como tem decidido o egrégio Tribunal de Justiça do Estado de Mato Grosso, em casos similares:
+A simples negativação indevida já constitui motivo suficiente para responsabilizar quem a ela deu causa, não havendo necessidade da efetiva comprovação dos danos morais, pois, trata-se de dano moral “in re ipsa”, presumido, que dispensa a demonstração da extensão do dano.
+(TJMT – Apelação Cível 52271/2014 – Rel. Desembargadora Cleuci Terezinha Chagas Pereira da Silva, J. 24.09.2014 – fonte site TJMT)
+Uma vez constatado que a parte autora foi vítima de cobrança e negativação de seu nome perante os órgãos de proteção ao crédito, indevidamente. Circunstancia que caracteriza defeito na prestação do serviço pela operadora do serviço público. Prática de ato ilícito que acarretou a inscrição injusta do nome do nome do demandante no rol de inadimplentes, dispensando-se, assim, a prova do efetivo prejuízo, eis que se trata de dano moral “in re ipsa”.
+(TJMT – Apelação Cível 52271/2014 – Rel. Desembargador Adilson Polegato de Freitas, J. 18.11.2014 – fonte site TJMT)
+Há muito tempo esta Turma Recursal também tem entendimento no mesmo sentido, ou seja, que a indevida negativação do nome em órgãos de proteção ao crédito gera dano moral, in re ipsa, isto é, prescinde de prova.
+1 – A inscrição sem causa dos dados da parte Autora em cadastro de inadimplentes, assegura-lhe o direito à indenização pelo dano moral que decorre da própria ação ilícita, não se exigindo prova de efetivo prejuízo sofrido. É o chamado dano moral “in re ipsa”.
+(TRU-MT – Recurso inominado no 001.2010.020.196-9 - Rel. Juiz de Direito João Bosco Soares da Silva, J. 23.08.2012)
+A inscrição indevida do nome do autor nos órgãos de proteção ao crédito, é causa que enseja o recebimento de indenização por dano moral, uma vez que se trata de dano moral “in re ipsa” e, portanto, dispensa a comprovação da extensão dos danos experimentados. Assim, restando comprovado nestes autos que a inscrição fora indevida, posto que decorrente de cobrança indevida, o dano moral resta configurado, especialmente quando não comprovada a contratação.
+(TRU-MT – Recurso inominado no 574/2013 - Rel. Juíza de Direito Lúcia Peruffo, J. 12.11.2012)
+Dessa forma, como vem reiteradamente decidindo diversos Tribunais, inclusive o colendo Superior Tribunal de Justiça e esta Turma Recursal, a negativação indevida em órgãos de proteção ao crédito é suficiente para emergir direito à indenização a título de dano moral, “in re ipsa”.
+No tocante ao quantum fixado na sentença recorrida está de acordo com os critérios da razoabilidade e da proporcionalidade que tem sido estabelecido por esta Turma Recursal, por isso não deve ser alterado, devendo a sentença recorrida ser mantida por seus próprios e jurídicos fundamentos a teor do disposto no art. 46 da Lei 9.099/95.
+Esta Turma Recursal tem reiteradamente aplicado as orientações supras nos julgamentos dos recursos inominado, de forma que se a sentença recorrida delas não destoou inexiste razão jurídica para ser reformada.
+Na atual redação do artigo 932, IV, “a” do CPC/2015 observa-se apenas a sua delimitação em relação à questão conceitual, ou seja, se determinado assunto já foi ou não submetido a Súmula do STF, STJ ou do Tribunal de Origem, sendo que, exatamente o que se discute nestes autos, sendo a questão da valoração subjetiva e impossível de ser sumulada e cada caso tem as suas peculiaridades, sendo perfeitamente possível o julgamento monocrático.
+Assim, o relator pode, monocraticamente, negar provimento a recurso que esteja em desacordo com a jurisprudência dominante do respectivo Tribunal, é o que dispõe o art. 932, inciso IV, alínea “a” do Código de Processo Civil, podendo ser aplicada multa, caso haja interposição de agravo inadmissível ou infundado, in verbis:
+Art. 932. Incumbe ao relator:
+(...)
+IV - negar provimento a recurso que for contrário a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;
+Ante o exposto, conheço o recurso inominado, porém, como a pretensão da Recorrente confronta com a jurisprudência desta Turma Recursal e do Colendo Superior Tribunal de Justiça, em face ao disposto no art. 932, inciso IV, “a” do Código de Processo Civil e na Súmula no 01 desta Turma Recursal, monocraticamente, NEGO-LHE PROVIMENTO. Condeno a Recorrente a pagar as custas processuais, já recolhidas, e honorários advocatícios que fixo-os em 15% (quinze por cento) sobre o valor da condenação. Registro ainda que, em caso de interposição de Agravo Interno infundado, será aplicada a multa do artigo 1.021, § 4o do CPC.
+Intimem-se. Cumpra-se.
+Valmir Alaércio dos Santos
+Juiz de Direito, Relator
