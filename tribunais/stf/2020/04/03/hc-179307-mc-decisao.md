@@ -1,0 +1,24 @@
+Decisão: Trata-se de pedido de reconsideração formulado em favor de Diego da Silva Rossi.
+    Colhe-se dos autos que a liminar foi indeferida pelo Relator, Min. Celso de Mello, nos seguintes termos:
+    Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    ‘AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. DOIS CRIMES DE ROUBO TENTADO. REGIME INICIAL MAIS GRAVOSO. SEMIABERTO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. GRAVIDADE CONCRETA DO DELITO. POSSIBILIDADE. AGRAVO DESPROVIDO. 1. A fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais do art. 59 do Código Penal – CP ou de outro dado que demonstre a extrapolação da normalidade do tipo. No caso, embora o paciente seja primário, as circunstâncias judiciais favoráveis e a pena final não tenha superado 4 anos, o regime semiaberto se justifica na maior gravidade do delito e periculosidade do paciente, evidenciadas pelas circunstâncias que envolveram os delitos. Ressaltando-se o fato de terem sido atingidas duas vítimas, umas delas ter sofrido lesões físicas, os crimes terem sido praticados em plena via pública e mediante simulação de porte de arma de fogo. Precedentes. 2. Agravo desprovido.’ (HC 501.177-AgRg/SP, Rel. Min. JOEL ILAN PACIORNIK – grifei)
+    Busca-se, liminarmente, nesta sede processual, “(...) que ao paciente seja permitido o início do cumprimento da pena em regime aberto (…)” (grifei).
+    O exame dos fundamentos em que se apoia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida pela parte impetrante.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar. (eDOC 19)
+    Na reconsideração, a defesa reforça que o periculum in mora é patente em razão da pandemia do novo coronavírus.
+    Os autos me vieram conclusos, em razão da licença médica concedida ao Ministro Relator, nos termos do artigo 38, I, RISTF.
+    É o breve relatório. Decido.
+    Inicialmente, registro que a minha análise na condição de substituto do Relator se resume à identificação de possível risco de perecimento do direito ou necessidade premente a justificar a concessão da liminar.
+    No caso dos autos, o pedido de concessão da medida liminar já foi apreciado e indeferido.
+    Diante da pandemia de coronavírus que afeta o Brasil e o mundo, o Conselho Nacional de Justiça editou, no dia 17.3.2020, a Recomendação n. 62/2020, indicando a adoção de medidas preventivas à propagação da infecção (Covid-19) no âmbito do sistema de justiça prisional e socieducativo.
+    O Plenário do STF, nos autos da ADPF 347, negou referendo à medida liminar incidental concedida pelo relator, o Ministro Marco Aurélio, e, desta forma, consolidou o entendimento de que o enfrentamento da propagação da infecção pelo novo coronavírus, no âmbito do sistema prisional, deverá ser feito segundo a Recomendação n. 62/2020 do CNJ.
+     Nos termos de tal documento, as recomendações têm como finalidade específica, dentre outras, a proteção da vida e da saúde das pessoas privadas de liberdade, sobretudo daqueles que integram o grupo de risco, tais como idosos, gestantes e pessoas com doenças crônicas, imunossupressoras, respiratórias e outras comorbidades preexistentes que possam conduzir a um agravamento do estado geral de saúde a partir do contágio, com especial atenção para diabetes, tuberculose, doenças renais, HIV e coinfecções.
+    No caso dos autos, não há informação de que o requerente sofra de alguma enfermidade crônica grave ou integre grupo de risco para infecções de coronavírus, não havendo qualquer elemento que aponte para um perigo concreto e real à sua saúde no momento.
+    Ante o exposto, indefiro o pedido de reconsideração, mas determino ao Juízo da execução que reavalie a situação do paciente, à luz da recomendação n. 62/2020 do CNJ (art. 5º, inciso III), consideradas as peculiaridades do caso concreto.
+    Publique-se. Intime-se.
+    Brasília, 3 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
