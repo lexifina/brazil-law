@@ -1,0 +1,15 @@
+Petição 19.755/2020:
+Despacho
+    Por meio da petição em referência, informa-se o seguinte:
+    “No último dia 30 de março de 2020, a Procuradoria-Geral da República, a Advocacia-Geral da União, a Presidência da FUNAI e sua Procuradoria Jurídica, a Associação Ashaninka do Rio Amônia - APIWTXA, o espólio de Orleir Messias Cameli e a empresa Marmud Cameli & Cia assinaram o Termo de Conciliação n. 001/2020/CCAF/CGU/AGU-JRP-RCM (doc. 01), realizado no âmbito da Câmara de Conciliação e Arbitragem da Administração Federal, da Advocacia-Geral da União.
+    No aludido acordo, firmado em observância ao art. 32, inciso II, da Lei 13.140/15 (Lei de mediação) e decreto n. 7.392/10 – celebrado com o objetivo de transacionar com relação às verbas indenizatórias decorrentes da reparação civil discutidas no presente Recurso Extraordinário – acordaram as partes signatárias, em síntese, que o espólio de Orleir Messias Cameli e a empresa Marmud Cameli & Cia deverão arcar com os valores e formas de pagamento descritos nas cláusulas 1.1 a 1.6 do referido termo, declarando os respectivos representantes legais, mediante assinatura de TERMO DE CONSENTIMENTO próprio (doc. 02) que concordam expressamente com as condições de pagamento fixadas no acordado.
+    Nos termos da cláusula 1.7, o Ministério Público Federal, a FUNAI e a Associação Ashaninka do Rio Amônia - APIWTXA concordam com a exclusão do Espólio de Orlei Messias Cameli e da empresa Marmud Cameli Ltda. e respectivos sócios do polo passivo da ação civil pública originária mediante a assinatura do referido acordo, mantendo-se o curso da demanda com relação a Abraão Cândido da Silva.
+    (…) sobreveio o despacho nº. 00119/2020/CCAF/CONC./CGU/AGU (doc. 04), por meio do qual aprovou-se a NOTA nº. 00015/2020/CCAF/CONC./CGU/AGU, aguardando-se, por fim, o encaminhamento de pedido de homologação do termo anexo a esta eminente relatoria, neste e. Supremo Tribunal Federal.
+    Por tudo quanto exposto, o ESPÓLIO DE ORLEIR MESSIAS CAMELI, a empresa MARMUD CAMELI & CIA e a ASSOCIAÇÃO ASHANINKA DO RIO AMÔNIA – APIWTXA, respectivamente representados por seus procuradores ora signatários, com poderes regularmente outorgados para tal finalidade (doc. 05) 1 , vem respeitosamente à presença de Vossa Excelência REQUERER a homologação do presente Termo de Conciliação n. 001/2020/CCAF/CGU/AGU-JRP-RCM, com a consequente exclusão do Espólio de Orleir Messias Cameli e da empresa Marmud Cameli Ltda. e respectivos sócios do polo passivo do presente feito, na forma dos arts. 487, inciso III; 515, inciso III; e 932, inciso I, do Código de Processo Civil, com o prosseguimento da tramitação do processo com relação ao réu remanescente e por força da reconhecida repercussão geral. “
+    Concedo o prazo improrrogável de 48 (quarenta e oito) horas para que a Procuradoria-Geral da República e a Fundação Nacional do Índio – FUNAI manifestem-se quanto ao alegado na petição em tela.
+    Comunique-se COM URGÊNCIA.
+    Publique-se.
+    Brasília, 3 de abril de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
