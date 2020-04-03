@@ -1,0 +1,9 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTOS ESPECÍFICOS DE RECORRIBILIDADE – ATENDIMENTO – EMBARGOS ADMITIDOS.
+    1. O artigo 330 do Regimento Interno do Supremo revela o cabimento de embargos de divergência contra ato de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal, devendo a parte comprovar a discrepância jurisprudencial na forma do disposto no artigo 331 nele contido, ou seja, via certidão ou cópia autenticada ou mediante citação do repositório de jurisprudência, oficial ou autorizado, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados – situação verificada.
+    2. Ante o quadro, considerado o atendimento aos pressupostos de admissibilidade intrínsecos e extrínsecos, tenho como adequados os embargos.
+    3. Encaminhem o processo para que se proceda à distribuição nos termos do artigo 335, § 3º, do Regimento Interno do Supremo.
+    4. Publiquem.
+Brasília, 3 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
