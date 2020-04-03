@@ -1,0 +1,20 @@
+Decisão: A Câmara Criminal do Tribunal de Justiça do Estado de Sergipe deu provimento em parte ao recurso de apelação interposto pelo recorrente “a fim de reduzir a pena na terceira fase da dosimetria (§ 4º, do art. 33), aplicando o patamar de ¼, dosando a pena definitiva em 03 (três) anos e 09 (nove) meses, bem como majorar o quantum dos honorários advocatícios devidos ao Defensor Dativo”, mediante acórdão assim ementado (eDOC 6, p. 1-5; grifos originais):
+    “DIREITO PENAL E DIREITO PROCESSUAL PENAL – APELAÇÃO CRIMINAL – TRÁFICO DE ENTORPECENTES (ART. 33, DA LEI Nº 11.343/06) – IRRESIGNAÇÃO QUANTO À SUA dosimetria –ACOLHIMENTO em parte - DOSIMETRIA penal – PENA-BASE FIXADA NO MÍNIMO LEGAL – PLEITO DE VALORAÇÃO DA CONFISSÃO - SÚMULA Nº 231 DO STJ – INACOLHIDO - PENA FIXADA NO MÍNIMO LEGAL – ENTENDIMENTO DIVERSO - ACOLHIMENTO EM NOME DA COLEGIALIDADE – APLICAÇÃO DO REFERIDO VERBETE SUMULAR – REDUÇÃO EM GRAU MAIOR (1/4), EM RAZÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º, DO ART. 33, LEI 11.343/06 – PENA DEFINITIVA REDUZIDA - PEDIDO DE MAJORAÇÃO DE HONORÁRIOS – QUANTUM ARBITRADO MUITO AQUÉM DO ESTIPULADO NA TABELA DA OAB/SE – CAUSÍDICO NOMEADO PARA APRESENTAR ALEGAÇÕES FINAIS - VALOR DESPROPORCIONAL COM SERVIÇO PRESTADO PELO ADVOGADO – VERBA HONORÁRIA MAJORADA PARA R$ 1.600,00 – INTIMAÇÃO DO ESTADO DE SERGIPE, QUE SE QUEDOU INERTE - APELO CONHECIDO E PARCIALMENTE PROVIDO - UNÂNIME.” (eDOC 6, p. 1)
+    Daí o recurso extraordinário (eDOC 12, p. 1-9), fundado no art. 102, III, “a”, da Constituição Federal, no qual se alegou ofensa ao art. 5º, inciso XLVI, da mesma Carta, e à Sumula 231/STJ, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    O Presidente do TJ/SE não admitiu o RE, negando-lhe seguimento (eDOC 16, p. 1-4).
+    Houve, então, a interposição do presente ARE (eDOC 20, p. 1-9).
+    O Presidente do STF proferiu a seguinte decisão:
+    “Este Supremo Tribunal submeteu as questões trazidas no presente processo à sistemática da repercussão geral (Recurso Extraordinário n. 597.270, Tema 158): repercussão geral reconhecida e mérito julgado.
+    Pelo exposto, determino a devolução destes autos ao Tribunal de origem para observância dos procedimentos previstos nos incs. I e II do art. 1.030 do Código de Processo Civil (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).” (eDOC 25, p. 1)
+    Após, o Presidente do STF reconsiderou (eDOC 31, p. 1) referida decisão, ficando prejudicado o agravo regimental interposto pelo MPF (eDOC 26, p. 1-6).
+    Decido.
+    Inicialmente, no que concerne à negativa de seguimento do RE em relação ao Tema 158 da sistemática da repercussão geral, a decisão deve ser mantida, porque incidente, no caso, o art. 1.030, inciso I, alínea “a”, do CPC, conforme acertadamente decidiu a Presidência do TJ/SE (eDOC 16, p. 1-4).
+    Além disso, consoante asseverado no decisum ora impugnado, “não há como se conhecer da irresignação invocada, pois o Supremo Tribunal Federal sedimentou entendimento de que a análise da matéria implicaria meramente ofensa reflexa ao texto constitucional, por demandar a análise da legislação infraconstitucional aplicada ao caso, o que refoge de sua competência” (eDOC 16, p. 2).
+    Outrossim, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte. Além dos precedentes mencionados na decisão agravada, acrescento: ARE 868.197 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.9.2015; ARE 737.083 AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, DJe 6.8.20185; dentre outros. Mais recentemente: RE 1.263.965/MS, Rel. Min. Marco Aurélio, DJe 25.3.2020 e ARE 1.092.752 AgR/RJ, Rel. Min. Edson Fachin, Segunda Turma, DJe 15.6.2019.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 3 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
