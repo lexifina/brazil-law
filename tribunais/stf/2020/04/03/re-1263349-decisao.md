@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – COMPLEMENTAÇÃO DE APOSENTADORIA – COMPETÊNCIA DA JUSTIÇA COMUM – PRECEDENTES – PROVIMENTO.
+    1. O Tribunal Superior do Trabalho confirmou o entendimento do Regional quanto à competência da Justiça do Trabalho para o julgamento de lide a versar sobre complementação de aposentadoria. No extraordinário, o recorrente alega a violação do artigo 114, inciso I, da Constituição Federal. Afirma competente a Justiça Estadual para apreciação da controvérsia, asseverando ter sido instituída a complementação de proventos por força lei estadual, e não em razão do contrato de trabalho.
+    2. Colho os seguintes trechos da decisão recorrida:
+    O e. Regional, pelo acórdão de fls. 342-359, complementado as fls. 371 e 372, por força de embargos de declaração, negou provimento ao recurso ordinário da reclamada para afastar a preliminar de incompetência desta Justiça especializada.
+    Nas razões de revista, fls. 375-399, a Fazenda Pública do Estado de São Paulo sustenta, em síntese, a incompetência da Justiça do Trabalho para apreciar o pedido referente a complementação de aposentadoria, ao argumento de que o benefício é de natureza administrativa, uma vez que decorre de lei estadual e, não, do contrato de trabalho. Aponta violação do art. 114 da Constituição Federal.
+    O recurso não merece conhecimento.
+    Tratando-se de empregado aposentado, que percebe complementação de aposentadoria, a competência da Justiça do Trabalho é fixada pela natureza do pedido deduzido em Juízo: se vinculado ao contrato de trabalho ou ao contrato de adesão a plano de previdência privada.
+    Conforme consignado pelo Regional, a pretensão se refere as diferenças de complementação de aposentadoria de verbas decorrentes do contrato de trabalho.
+    Nesse contexto, por certo que a solução da controvérsia exige a interpretação e aplicação de institutos próprios do Direito do Trabalho.
+    O acórdão recorrido está em dissonância da jurisprudência do Supremo, segundo o qual compete à Justiça Comum o julgamento de questão alusiva à complementação de proventos de aposentadoria instituída por lei estadual. Confiram as ementas dos pronunciamentos formalizados pelo Tribunal:
+    DIREITO PROCESSUAL CIVIL E DO TRABALHO. SEGUNDO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. FEPASA. COMPETÊNCIA. JUSTIÇA COMUM. 1. A jurisprudência do Supremo tribunal Federal é firme no sentido que compete à Justiça comum processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas de empresas incorporadas à FEPASA. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento. (Segundo agravo regimental no recurso extraordinário nº 1.033.957, Primeira Turma, relator o ministro Roberto Barroso, acórdão publicado no Diário de Justiça de 22 de maio de 2018)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPLEMENTAÇÃO DE APOSENTADORIA ORIUNDA DE REGIME PÚBLICO INSTITUÍDO POR LEI ESTADUAL. COMPETÊNCIA. JUSTIÇA COMUM. 1. Compete à Justiça Comum o julgamento de conflito a envolver complementação de proventos de aposentadoria instituída por lei estadual. 2. Agravo regimental a que se nega provimento. (Agravo regimental no recurso extraordinário com agravo nº 1.051.142, Segunda Turma, relator o ministro Edson Fachin, acórdão publicado no Diário de Justiça de 27 de junho de 2019)
+    3. Ante os precedentes, conheço do extraordinário e o provejo para, reformando o acórdão recorrido, reconhecer a competência da Justiça Comum estadual para processar e julgar a controvérsia.
+    4. Publiquem.
+Brasília, 3 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
