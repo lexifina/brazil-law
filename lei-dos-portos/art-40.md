@@ -9,3 +9,4 @@ VI - bloco: atividade de limpeza e conservação de embarcações mercantes e de
 § 2º A contratação de trabalhadores portuários de capatazia, bloco, estiva, conferência de carga, conserto de carga e vigilância de embarcações com vínculo empregatício por prazo indeterminado será feita exclusivamente dentre trabalhadores portuários avulsos registrados.
 § 3º O operador portuário, nas atividades a que alude o caput, não poderá locar ou tomar mão de obra sob o regime de trabalho temporário de que trata a Lei nº 6.019, de 3 de janeiro de 1974.
 § 4º As categorias previstas no caput constituem categorias profissionais diferenciadas.
+§ 5º Desde que possuam a qualificação necessária, os trabalhadores portuários avulsos registrados e cadastrados poderão desempenhar quaisquer das atividades de que trata o § 1º, vedada a exigência de novo registro ou cadastro específico, independentemente de acordo ou convenção coletiva.
