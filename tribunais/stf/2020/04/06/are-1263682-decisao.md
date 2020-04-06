@@ -1,0 +1,41 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional contra o acórdão da Corte de origem.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO. ADMINISTRATIVO. ANATEL. LEGITIMIDADE. LEGALIDADE ESTRITA. APLICAÇÃO DE MULTA. AMOSTRAGEM. VINCULAÇÃO AOS MOTIVOS. 1. Apelações interpostas em face de sentença que julga parcialmente procedente o pedido formulado para reduzir o valor da multa imposta para R$ 12.000,00 (doze mil reais) e condena a parte demandada ao ressarcimento das custas processuais e ao pagamento de honorários advocaticios fixados em RS 25.000,00 (vinte e cinco mil reais). 2. Conforme preceitua a Lei n° 9.472/97, a ANATEL tem atribuição e legitimidade para, além de fiscalizar e regulamentar, estabelecer critérios e procedimentos para a aplicação das penalidades por infração a normas referentes aos serviços de telecomunicações. 3. A autuação aplicada pela agência reguladora encontra guarida na própria Lei Geral das Telecomunicações. Os artigos 19, VI e 82 preveem que, no caso de descumprimento das obrigações na prestação do serviço, a ANATEL poderá aplicar sanções à concessionária. Dessa forma, a medida visa a proteger o consumidor contra a má prestação dos serviços e coibir irregularidades na prestação das atividades de telecomunicações. 4. Não se verifica qualquer violação ao principio da legalidade estrita, haja vista que as infrações estão previstas no contrato de concessão firmado entre as partes e nas normas expedidas pela ANATEL, conforme disposto na Lei n° 9.472/97. 5. Também não se verifica invasão de competência do Conselho Diretor, prevista no art. 22, inciso IV, da Lei n° 9.472/97, pois o referido dispositivo estabelece que cabe àquele órgão editar normas sobre matéria de competência da Anatel, e isso foi atendido, porquanto a Resolução n° 344/2003, que aprova o Regulamento de Aplicações de Sanções Administrativas, foi devidamente precedida da Consulta Pública n° 277, de 10.1.2001, publicada no DOU de 12.1.2001, e aprovada pelo Conselho Diretor da ANATEL, bem como a Resolução n° 589/2012 também foi precedida da Consulta Pública n° 22, de 24.6.2010, publicada no DOU, de 29.6.2010. 6. A ANATEL utilizou-se metodologia de amostragem definida por fórmula de população finita, respaldada pela Portaria n° 185, de 10.6.2005, para analisar 38 dos 498 não atendimentos de instalação de terminais, tendo concluído que apenas 3 (três) teriam apresentado atraso de execução de ordem de serviço pela Concessionária, e que "as 35 demais solicitações tiveram seus prazos comprometidos em função de pendências dos interessados que ocorreram antes do prazo regulamentar, ocasionando os atrasos nas instalações". 7. Não poderia a agência reguladora aplicar multa no valor nominal de R$ 1.992.000,00 (um milhão, novecentos e noventa e dois mil reais) com base na ocorrência de 498 irregularidades. Isso porque a administração esta vinculada aos motivos declarados no processo e, tendo havido o reconhecimento de que somente 7,89% das irregularidades poderiam ser atribuídas à culpa exclusiva da concessionária, a multa aplicada deveria observar tal conclusão. 8. A Cláusula 25.2 do "contrato de concessão do serviço telefónico fixo comutado local" celebrado entre as partes estabelece que, para a aplicação das multas contratuais previstas, a proporcionalidade entre a intensidade do apenamento e a gravidade da falta, inclusive quanto ao número dos usuários atingidos deverá ser observado pela ANATEL na definição da gravidade das sanções e na fixação das multas. 9. Utilizando-se os parâmetros definidos pela agência reguladora no INFORME 330, que detalha a metodologia de cálculos das sanções decorrentes de descumprimentos de metas previstas no PGMU, e considerando apenas o percentual de descumprimento que foi efetivamente apurado pela fiscalização no Parecer Técnico de n° 000120030809, 7,89%, o valor da multa imposta deve ser fixado em R$ 157.263,16 (cento e cinquenta e sete mil, duzentos e sessenta e três reais e dezesseis centavos). 9. Apelação da ANATEL parcialmente provida para fixar a multa imposta em R$ 157.263,16 (cento e cinquenta e sete mil, duzentos e sessenta e três reais e dezesseis centavos) e apelação de Telemar Norte Leste S.A não provida.
+
+    Opostos os embargos, foram acolhidos em parte para suprir omissão apontada, sem efeitos infringentes.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 25, I, da ADCT; 5°, caput e incisos II e XXXIX; 37, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o(s) dispositivo(s) apontado(s) como violado(s), carece(m) do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da(s) referida(s) norma(s). Ademais, a matéria apresentada apenas nos embargos de declaração não supre o requisito do prequestionamento quando ficar caracterizada a inovação recursal. Incide na espécie a Súmula 282 desta Corte. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO AO FGTS. ACORDOS TRABALHISTAS. CONTROVÉRSIA A RESPEITO DA VALIDADE DO PAGAMENTO DA PARCELA REFERENTE AO FGTS DIRETAMENTE AOS EMPREGADOS. LEI 9.491/1997. ARTIGO 7º, III, DA CONSTITUIÇÃO. MATÉRIA SUSCITADA ORIGINARIAMENTE EM EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO AUSENTE. INCIDÊNCIA DA SÚMULA 282 DO STF. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. MATÉRIA SEM REPERCUSSÃO GERAL. TEMA 660. ARE 748.371. MANTIDA A MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.065.617/SP-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/10/17).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. RENDA MENSAL INICIAL. CÁLCULO. APOSENTADORIA POR INVALIDEZ. ACIDENTE DE TRABALHO. PRELIMINAR DE NULIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO NOS EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DA SÚMULA 282 DO STF. ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. LEI 8.213/91. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido. Súmulas 282. 2. Além disso, quanto à questão de fundo, para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame de legislação infraconstitucional aplicável à espécie (Lei 8.213/91). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o art. 85, § 11, do CPC, em virtude do parcial provimento do recurso de apelação do Recorrente para o fim de conceder-lhe a isenção do pagamento dos ônus sucumbenciais, nos termos do art. 129 da Lei 8.213/91” (ARE 1.072.565/PR–AgR Segunda Turma, Rel. Min. Edson Fachin, DJe de 11/4/19).
+
+    Ademais, verifica-se que a alegada violação do art. 5º, inciso II, da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não enseja reexame da matéria em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que dispõe in verbis:
+
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade[...] quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+
+    Nesse sentido, os seguintes precedentes: ARE nº1.172.505/MG-ED, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 6/5/19; ARE nº 1.175.218/MG-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 20/5/19 e ARE nº ARE nº 1.160.836/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 1º/2/19.
+
+    Ante o exposto, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 6 de abril de 2020.
+
+Ministro DIAS TOFFOLI
+
+Presidente
+
+Documento assinado digitalmente
