@@ -1,0 +1,23 @@
+Trata-se de habeas corpus com pedido de liminar impetrado pela Defensoria Pública do Estado de São Paulo em favor de Michele Meiriane Faria contra decisão proferida pela Ministra do Superior Tribunal de Justiça Laurita Vaz que denegou a ordem de habeas corpus.
+    Consta dos autos que
+    “[f]oi feito pedido de substituição da prisão preventiva em domiciliar (processo principal nº 0010232-78.2019.8.26.0625 e apenso nº 0010377-37.2019.8.26.0625), pelo fato de a paciente possuir um filho de pouco mais de 2 (dois) meses de idade e o pai da criança também estar preso preventivamente, o qual foi indeferido pois, segundo a Magistrada: é imprescindível para assegurar a ordem pública, pois, se colocada em liberdade, voltará a delinquir, haja vista ser pessoa com personalidade voltada para o crime`.
+    Após, a Defensoria Pública impetrou Habeas Corpus junto ao Tribunal de Justiça de São Paulo (autos nº 2224790-69.2019.8.26.0000), para que a paciente aguarde em prisão domiciliar o julgamento definitivo do feito, o qual também foi indeferido.
+    A questão foi levada ao Superior Tribunal de Justiça, através do Habeas Corpus nº 553.626. No entanto, a excelentíssima Ministra Laurita Vaz denegou a ordem, porque a paciente está sendo acusada da prática de crime cometido com violência à pessoa” (pág. 3 do documento eletrônico 1).
+    A Defensoria Pública alega que
+    “[o] presente caso traz situação de grave, pois a prisão preventiva é algo extremamente excepcional, principalmente em se considerando que a paciente é mãe de uma criança de apenas alguns meses de vida, cujo pai também está preso. Situação ainda mais agravada pela pandemia declarada pela organização mundial de saúde em virtude da COVID-19” (pág. 4 do documento eletrônico 1).
+    Requer, por fim, a concessão da ordem de habeas corpus para que a paciente aguarde em prisão domiciliar o julgamento definitivo da ação penal.
+    É o relatório. Decido.
+    Anote-se, inicialmente, que este Supremo Tribunal não possui competência para processar e julgar habeas corpus contra ato da indigitada autoridade coatora, pois esta não figura no rol taxativo do art. 102, I, i, da Constituição Federal.
+    Todavia, ante a flagrante ilegalidade constatada nestes autos, faz-se necessária a concessão da ordem, de ofício, nos termos do art. 192, caput, do Regimento Interno do Supremo Tribunal Federal.
+    Em que pese ter a paciente cometido crime mediante violência, os fatos narrados pelo Defensoria paulista e o contexto sanitário enfrentado pelo nosso País revelam a necessidade de aplicar, in casu, a Recomendação 62/2020 do Conselho Nacional de Justiça - CNJ que preconiza aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus – Covid-19 no âmbito dos sistemas de justiça penal e socioeducativo.
+    Na referida recomendação, o CNJ, ao considerar, entre outros motivos, “o alto índice de transmissibilidade do novo coronavírus e o agravamento significativo do risco de contágio em estabelecimentos prisionais e socioeducativos, tendo em vista fatores como a aglomeração de pessoas, a insalubridade dessas unidades, as dificuldades para garantia da observância dos procedimentos mínimos de higiene e isolamento rápido dos indivíduos sintomáticos, insuficiência de equipes de saúde, entre outros, características inerentes ao ‘estado de coisas inconstitucional’ do sistema penitenciário brasileiro reconhecido pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental no 347”, propôs:
+    “[...]
+    Art. 4° Recomendar aos magistrados com competência para a fase de conhecimento criminal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+    I – a reavaliação das prisões provisórias, nos termos do art. 316, do Código de Processo Penal, priorizando-se:
+    a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até doze anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência ou que se enquadrem no grupo de risco; [...]”
+    Isso posto, nego seguimento a este writ (art. 21, § 1°, do RISTF), mas, levando-se em consideração os fundamentos expostos pelas instâncias inferiores, que são contrários às orientações propostas pelo CNJ, concedo a ordem de habeas corpus, de ofício (art. 192, caput, do RISTF), para determinar o recolhimento domiciliar da paciente lactante, até o trânsito em julgado da sentença penal condenatória, sendo este período computado para posterior detração.
+    Comunique-se com urgência.
+    Publique-se. Intime-se.
+    Brasília, 6 de abril de 2020.
+Ministro Ricardo Lewandowski
+Relator
