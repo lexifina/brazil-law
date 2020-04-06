@@ -1,0 +1,24 @@
+VISTOS...
+Agravo de instrumento, com pedido de efeito suspensivo, interposto pela Unimed Cuiabá Cooperativa de Trabalho Médico, em face da decisão proferida nos autos da ação de obrigação de fazer c/c indenização por danos morais, proposta por Vera Botof Gonçalves, onde o juízo singular deferiu o pedido de antecipação de tutela para determinar que a agravante custeie todo o tratamento médico em favor da agravada, conforme indicação médica, sob pena de multa diária fixada em R$ 5.000,00 (cinco mil reais).
+A agravante sustenta que os requisitos autorizadores à concessão dos efeitos da tutela não estão presentes, pois o tratamento pretendido foi prescrito e caráter eletivo e, ainda, não possui cobertura contratual e não se encontra no rol de procedimentos estabelecidos pela ANS, o que foi devidamente informado à autora/agravada.
+Pede, pois, a concessão da liminar, para que, reformada a decisão, seja indeferido o pedido de tutela de urgência.
+É o que merece registro.
+Decido.
+Para a concessão antecipada da tutela pretendida no recurso de Agravo de Instrumento, prevista no artigo 1.019, inciso I, do CPC, faz-se necessária a presença dos requisitos previstos no artigo 300 do mesmo diploma, quais sejam, probabilidade do direito e o fundado receio de dano grave ou de difícil reparação.
+Compulsando os autos, em fase de cognição sumária, não verifico a existência dos requisitos para o acolhimento do efeito suspensivo pretendido.
+Pois bem.
+A agravada propôs a ação sub examine com a finalidade de compelir a parte agravante autorizar o tratamento médico de urgência indicado para o restabelecimento da saúde da autora, pós quadro de Acidente Vascular Cerebral Agudo (AVC) ocorrido em 06/02/2020, recidivo em 16/02/2020 e 26/02/2020, o qual não teria sido autorizado pelo plano de saúde por divergir com o entendimento médico da junta assistencial.
+Desse modo, a agravada pleiteou a concessão da tutela antecipada, para que a agravante cumpra imediatamente com a obrigação autorizar/realizar a cirurgia “TRATAMENTO COM OCLUSÃO PERCUTANEA DO APENDICE ATRIAL ESQUERDO COM PROTESE”, com o fornecimento de todos os procedimentos, exames e materiais necessários à realização desta, conforme prescrição médica, a qual foi deferida pelo magistrado a quo.
+O caso é de indeferimento da liminar.
+Isso porque, em que pese as alegações da agravante, o STJ firmou o entendimento de que o plano de saúde pode especificar a abrangência da cobertura, mas não o tipo de tratamento a ser utilizado, por comprometer a própria essência do negócio jurídico, que é a manutenção da saúde, além da autonomia do médico responsável pelo procedimento.
+Na hipótese, verifico que, a priori, restou demonstrado nos autos, a necessidade da agravada em ter o atendimento especializado, em especial: “TRATAMENTO COM OCLUSÃO PERCUTANEA DO APENDICE ATRIAL ESQUERDO COM PROTESE”, diante de seu quadro de saúde delicado comprovado pelo laudo médico acostado a exordial (Id 30539549, dos autos principais).
+Nesse sentido, in verbis:
+“AGRAVO DE INSTRUMENTO - PLANO DE SAÚDE – PACIENTE PORTADOR DE AUTISMO – INDICAÇÃO DE FISIOTERAPIA MOTORA GLOBAL (MÉTODO ABA) - RECUSA NO CUSTEIO - PROCEDIMENTO AUSENTE DO ROL DAS COBERTURAS EXCLUÍDAS - ABUSO CONFIGURADO - PERIGO DE DANO - ART. 300 DO CPC/2015 – TUTELA DEFERIDA E MANTIDA – RECURSO NÃO PROVIDO.A Cooperativa não pode se recusar a custear o TRATAMENTO sob a justificativa de não figurar no rol de coberturas obrigatórias da ANS e de ser inapropriado para o caso. Devem ser propiciados todos os meios disponíveis para resguardar a vida e a saúde do beneficiário do plano adquirido. O médico que acompanha o paciente é quem apresenta melhor condição técnica para a escolha do procedimento mais adequado ao combate dos sintomas diagnosticados, sendo desaconselhável a prestação jurisdicional contrária a essa prescrição e sem suporte científico.” (N.U 1003839-72.2019.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, RUBENS DE OLIVEIRA SANTOS FILHO, Quarta Câmara de Direito Privado, Julgado em 29/05/2019, Publicado no DJE 31/05/2019) (destaquei)
+Outrossim, a agravante não demonstrou o prejuízo de difícil ou incerta reparação que exija o deferimento da medida neste momento, porque em caso de improcedência do pedido veiculado na demanda originária, a agravante possui mecanismos adequados para busca de eventual prejuízo financeiro que venha a suportar em razão do tratamento oferecido à ora agravada.
+Logo, mostra-se prudente manter os efeitos da decisão impugnada, até o pronunciamento definitivo da Câmara.
+Posto isso, indefiro o efeito suspensivo.
+Comunique-se ao Juízo a quo, solicitando-lhe informações.
+Em seguida, intime-se a agravada para, querendo e no prazo legal, apresentar contrarrazões.
+Cuiabá, 04 de março de 2020.
+José Zuquim Nogueira
+Desembargador Relator
