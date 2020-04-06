@@ -1,0 +1,5 @@
+# Lei nº 5.163, de 6 de abril de 2020, do Estado do Amazonas
+
+DISPÕE SOBRE A PRIORIDADE DE CONCESSÃO DE VAGAS PARA ADOLESCENTES INSTITUCIONALIZADOS QUE SE ENCONTREM SOB A RESPONSABILIDADE DO ESTADO EM CURSOS PROFISSIONALIZANTES, PROJETOS DE INSERÇÃO PROFISSIONAL E CONTRATOS DE ESTÁGIOS EFETUADOS PELO ESTADO DO AMAZONAS.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10908>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2020/10908/5163.pdf>
