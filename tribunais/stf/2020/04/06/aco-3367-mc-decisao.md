@@ -1,0 +1,21 @@
+DESPACHO
+    Trata-se de petição protocolizada pelo Estado do Paraná, em que alega ter a União descumprido decisão monocrática por mim proferida na qual determinei a “a suspensão por 180 (cento e oitenta dias) do pagamento das parcelas relativas ao Contrato nº 011/98 STN/COAFI e seus aditivos”, bem como que a União não poderia “proceder as medidas decorrentes do descumprimento do referido contrato enquanto vigorar a presente liminar”.
+    O Estado alega que foi surpreendido com o Ofício emitido pela Secretaria do Tesouro Nacional, o qual “noticia a suspensão da Capacidade de Pagamento do Estado do Paraná, nos termos da Portaria MF 501, de 23 de novembro de 2017”.
+    O autor afirma que o fundamento para a declaração de “Suspensão de Capacidade de Pagamento” seria justamente a concessão da liminar nos presentes autos.
+    Sustenta que o Estado possui pedidos de créditos pendentes de análise, os quais estarão suspensos até nova reavaliação da classificação final da capacidade de pagamento do ente.
+    Aduz, ainda, que além do que já afirmado, o Estado do Paraná recebeu indevidamente “Nota C, o que o impede de receber qualquer garantia, mesmo tendo cumprido a risca todas as demais determinações orçamentárias e financeiras para obtenção de nota superior”.
+    Finaliza, destacando que “ao procurar amparo jurisdicional visando a assegurar recursos públicos para enfrentar a pandemia, o Estado do Paraná foi penalizado administrativamente com a suspensão da análise de todos os demais procedimentos de operação de crédito que já estavam em curso e com o impedimento de participar de qualquer outra linha de crédito a ser ofertada pela União, além de ter rebaixada para “C” a sua nota de crédito junto à União”.
+    É o Relatório. Decido.
+    Diante das informações trazidas pelo autor, fica evidente o descumprimento, pela União, da medida de cautela deferida liminarmente no processo.
+    Foi precisa a tutela cautelar ao determinar que a União se abstivesse de praticar qualquer ato em desfavor do Estado, como consequência do não pagamento das parcelas do Contrato de Consolidação, Assunção e Refinanciamento da Dívida Pública do Estado. Até porque houve expressa suspensão do pagamento das parcelas originadas da mencionada dívida, o que afasta situação de inadimplência do ente federativo devedor.
+    Entretanto, a própria Secretaria do Tesouro Nacional fundamentou seu ato administrativo de suspender a Capacidade de Pagamento do Estado do Paraná na medida liminar neste processo, conforme podemos verificar do seguinte trecho do Ofício emitido pelo citado órgão da União:
+    “Em relação ao assunto, o Estado do Paraná ajuizou a Ação Cível Originária (ACO) nº 3.367 no Supremo Tribunal Federal, em face da União, solicitando a suspensão temporária do pagamento das prestações vincendas da dívida com a União decorrente do Contrato nº 011/98 STN/COAFI e seus aditivos, com fulcro no fato de que o cenário no qual foram estabelecidas as regras contratuais foi alterado, o que acarretará efeitos tanto em suas despesas quanto em suas receitas.
+    [...]
+    Em razão do exposto, informo que a Capacidade de Pagamento do Estado do Paraná calculada por esta Secretaria do Tesouro Nacional em conformidade com a metodologia estabelecida na Portaria em epígrafe, editada com fundamento na competência atribuída pela Resolução do Senado Federal nº 43, de 2001, encontra-se suspensa.”
+    Assim, resta claro que a alteração na “Capacidade de Pagamento do Estado” se deu em total afronta ao que foi determinado da liminar, ocasionando, ainda, por consequência, o rebaixamento da Nota do Estado, segundo dados do Tesouro Nacional Transparente.
+    Ante o exposto, torno sem efeito o ato proferido pela Secretaria do Tesouro Nacional, que suspendeu a Classificação da Capacidade de Pagamento do Estado do Paraná, bem como todos os atos praticados em consequência deste e, reconhecendo a urgência que abrange o pedido, concedo o prazo improrrogável de 48h (quarenta e oito horas) para que a União, sem prejuízo do cumprimento da presente decisão, informe o motivo do descumprimento da liminar concedida.
+    Intime-se, pelo meio mais célere. Publique-se.
+    Brasília, 6 de abril de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
