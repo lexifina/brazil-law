@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto pela União contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO E CIVIL. ENSINO SUPERIOR. RESPONSABILIDADE CIVIL. VIZIVALI. RECUSA DE REGISTRO DE DIPLOMA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.
+    1- 'O Programa Especial de Capacitação para a Docência dos Anos Iniciais do Ensino Fundamental e da Educação Infantil, instituído pelo Estado do Paraná em 2002, com o objetivo de 'propiciar, a todos os profissionais em exercício de atividades docentes, formação em nível superior, em caráter especial', a ser executado até 31/12/2007, era regular, porquanto visava ao implemento de meta de capacitação de docentes, especialmente dos que atuavam na educação infantil e nas quatro primeiras séries do ensino fundamental (art. 62 da Lei de Diretrizes e Bases da Educação - Lei n.º 9.394/96), e tinha respaldo em regra de transição vigente à época (art. 87 da Lei n.º 9.394/1996) e na própria Lei n.º 10.172 (Plano Nacional de Educação)'. (TRF 4ª Região, ementa da AC 5000085-04.2010.404.7015, 2ª SEÇÃO, Des. Federal VIVIAN JOSETE PANTALEÃO CAMINHA, POR VOTO DE DESEMPATE, JUNTADO AOS AUTOS EM 20/02/2015).
+    3- Nos casos de professor voluntário, a condenação pelo pagamento de indenização pelos danos morais e materiais deve recair sobre a União e o Estado do Paraná.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, Constituição. A parte recorrente alega violação aos arts. 22, XXIV; 37, § 6º; e 209, todos da CF.
+     O recurso extraordinário é inadmissível. Isso porque, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. Precedentes: RE 1.135.863-AgR, Rel. Min. Luiz Fux; e RE 1.152.592-AgR, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com fundamento no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso da União. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 07 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
