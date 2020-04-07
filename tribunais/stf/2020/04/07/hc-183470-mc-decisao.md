@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – ARTIGO 318-A DO CÓDIGO DE PROCESSO PENAL – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Ourinhos/SP, no processo nº 1504248-11.2019.8.26.0408, converteu em preventiva a prisão em flagrante da paciente, ocorrida no dia 13 de outubro de 2019, ante a suposta prática do delito previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Destacou haver materialidade e indícios de autoria, reportando-se à natureza e quantidade de entorpecentes e objetos apreendidos – 4 porções de cocaína, pesando 861,86 gramas, e 1 balança de precisão. Concluiu imperiosa a custódia para garantir a ordem pública. Afastou a substituição por domiciliar, frisando a inexistência de filho com idade até 12 anos incompletos.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 546.913/SP, inadmitido pelo Relator.
+    O impetrante sustenta a insubsistência dos fundamentos da decisão que implicou a preventiva. Salienta não atendidos os requisitos do artigo 312 do Código de Processo Penal. Ressalta a existência de filhos menores, dizendo-os dependentes dos cuidados maternos, aduzindo adequada a prisão domiciliar. Menciona a crise sanitária relacionada à pandemia da covid-19, dizendo cabível a adoção de medidas preventivas voltadas a evitar a propagação da doença. Sublinha as condições pessoais – primariedade, bons antecedentes e residência fixa.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a substituição por domiciliar. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 7 de abril de 2020, revelou haver o Juízo, em 5 de fevereiro último, reiterado a necessidade da custódia, nos termos do artigo 316 do Código de Processo Penal.
+    A etapa é de apreciação da medida acauteladora.
+    2. A prisão em flagrante e a gradação do tráfico de entorpecentes, considerada a natureza e a quantidade de substâncias e objetos encontrados – 4 porções de cocaína (861,86 gramas) e 1 balança de precisão –, indicam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A paciente comprovou ser mãe dos adolescentes Nicolas Ferreira da Silva Garcia, nascido em 2 de maio de 2004, na data de hoje com 15 anos, 11 meses e 5 dias, Nathan Gabriel Ferreira dos Santos, nascido em 6 de abril de 2006, no momento com 14 anos e 1 dia, e Ítalo Ferreira da Silva Garcia, nascido em 10 de junho de 2007, atualmente com 12 anos, 9 meses e 27 dias. Levando em conta o disposto no artigo 318-A do Código de Processo Penal, no que voltado à mulher gestante, mãe ou responsável por criança – com 12 anos de idade incompletos – ou pessoas com deficiência, tem-se inadequado o benefício. A par desse aspecto, consta, no ato de conversão do flagrante em preventiva, a informação de os filhos estarem sob os cuidados da avó materna, bem como haver a paciente usado a própria residência, na qual postula recolhimento, para guardar substâncias ilícitas.
+    A crise sanitária decorrente da pandemia do novo coronavírus, por si só, é insuficiente a levar ao acolhimento da providência pretendida. Não há notícia de encontrar-se a paciente em grupo de risco de infecção ou acometida de qualquer doença preexistente que possa conduzir ao agravamento do estado geral de saúde a partir do contágio.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 7 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
