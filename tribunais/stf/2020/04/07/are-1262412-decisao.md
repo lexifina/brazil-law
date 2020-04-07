@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 303, Vol. 1):
+    “ADMINISTRATIVO. SERVIDORES PÚBLICOS. ARQUITETOS VINCULADOS AO IPHAN. LEI 11.227/2010. GDACE. Os arquitetos do IPHAN têm direito à Gratificação de Desempenho de Atividade de Cargos Específicos - GDACE, instituída pela Lei nº 12.227/10, pois pertencem ao Plano Especial de Cargos da Cultura, regulamentado pela Lei nº 11.233, de 22 de dezembro de 2005, expressamente citado pelo anexo XII da norma instituidora da vantagem.”
+    Os Embargos Declaratórios foram acolhidos apenas para fins de prequestionamento (fl. 337, Vol. 1).
+    No apelo extremo (fl. 361, Vol. 1), alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou os arts. 37, X; 39, I, II e III; e 61, §1º, II, “a”, da CF/1988, pois: (a) o IPHAN não tem legitimidade para figurar no polo passivo da presente demanda; (b) descabe a concessão da Gratificação de Desempenho de Atividade de Cargos Específicos – GDACE aos detentores de cargos técnicos do IPHAN; e (c) não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia.
+    Em contrarrazões (fl. 423, Vol. 1), a parte recorrida aduz, em suma: (a) ausência de prequestionamento da matéria; (b) incidência da Súmula 284/STF; e (c) necessidade de exame de provas.
+    Em juízo de admissibilidade (fl. 25, Vol. 2), negou-se seguimento ao extraordinário ao argumento de que a violação à Constituição seria apenas reflexa.
+    No Agravo (fl. 39, Vol. 2), a parte agravante alega que a ofensa ao texto constitucional ocorreu de forma direta.
+    É o relatório. Decido.
+    Inicialmente, reputam-se preenchidos todos os pressupostos de admissibilidade do apelo extremo, razão pela qual passo à análise do mérito.
+    Assiste razão à parte recorrente.
+    Quanto ao tema, esta SUPREMA CORTE, no RE 592.317/RJ-RG, julgado sob o rito da repercussão geral (Tema 315), posteriormente consolidado na Súmula Vinculante 37 , firmou a seguinte tese:
+    Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+    Verifica-se, portanto, que o acórdão recorrido violou frontalmente este entendimento.
+    No mesmo sentido, citem-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Constitucional. Servidor público. Abono salarial concedido em valor fixo. Reajuste salarial com fundamento no princípio da isonomia. Impossibilidade. Súmula nº 339/STF. RE nº 592.317/RJ-RG. Súmula vinculante nº 37. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal sempre foi pacífica no sentido de que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia (Súmula nº 339/STF). Essa Orientação foi reiterada no julgamento do mérito do RE nº 592.317/RJ-RG, Relator o Ministro Gilmar Mendes, sob o rito da repercussão geral (DJe de 10/11/14) e, posteriormente, com a edição da Súmula vinculante nº 37. 2. Agravo regimental não provido. 3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça”. (ARE 1.060.326-AgR/SP, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 8/2/2018)
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. AUMENTO DE VENCIMENTO. PRINCÍPIO DA ISONOMIA. IMPOSSIBILIDADE. SÚMULA VINCULANTE 37. 1. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia (Súmula Vinculante 37). 2. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual”. (RE 574.204-AgR/RS, de minha relatoria, Primeira Turma, DJe de 1º/8/2018)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUMENTO DE VENCIMENTOS PELO PODER JUDICIÁRIO A PRETEXTO DA REVISÃO GERAL ANUAL. IMPOSSIBILIDADE. SÚMULA VINCULANTE 37. 1. O Supremo Tribunal Federal veda o aumento de vencimentos pelo Judiciário, com base no princípio da isonomia, na equiparação salarial ou a pretexto da revisão geral anual. Tal entendimento restou pacificado no julgamento do RE 592.317-RG, sob a relatoria do Ministro Gilmar Mendes, e consolidou-se com a edição da Súmula Vinculante 37. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento”. (ARE 811.619-AgR/AP, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 20/11/2017)
+    No mesmo sentido, veja-se a decisão proferida no ARE 1.028.036, Rel. Min. DIAS TOFFOLI, DJe de 6/4/2017.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, CONHEÇO DO AGRAVO PARA, DESDE LOGO, DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO, para julgar improcedente o pedido.
+    Invertam-se os ônus sucumbenciais.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 7 de abril de 2020.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
