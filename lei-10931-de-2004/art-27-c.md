@@ -1,2 +1,2 @@
-Art. 27-C. A entidade responsável pelo sistema eletrônico de escrituração de que trata o art. 27-A expedirá, mediante solicitação de seu titular, certidão de inteiro teor do título, a qual corresponderá a título executivo extrajudicial.
-Parágrafo único. A certidão de que trata o caput poderá ser emitida na forma eletrônica, observados os requisitos de segurança que garantam a autenticidade e a integridade do documento.
+Art. 27-C. A entidade responsável pelo sistema eletrônico de escrituração de que trata o art. 27-A desta Lei expedirá, mediante solicitação de seu titular, certidão de inteiro teor do título, a qual corresponderá a título executivo extrajudicial.
+Parágrafo único. A certidão de que trata o caput deste artigo poderá ser emitida na forma eletrônica, observados os requisitos de segurança que garantam a autenticidade e a integridade do documento.
