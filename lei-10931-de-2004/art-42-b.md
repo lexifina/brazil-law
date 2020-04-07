@@ -1,0 +1,1 @@
+Art. 42-B. Para fins da cobrança de emolumentos e custas cartorárias relacionadas ao registro da garantia, fica a Cédula de Crédito Bancário, quando utilizada para a formalização de operações de crédito rural, equiparada à Cédula de Crédito Rural de que trata o Decreto-Lei nº 167, de 14 de fevereiro de 1967.

@@ -1,2 +1,2 @@
-Art. 4º-B A liquidação do pagamento em favor do legítimo credor, por qualquer meio de pagamento existente no âmbito do Sistema de Pagamentos Brasileiro, constituirá prova de pagamento total ou parcial da CPR emitida sob a forma escritural.
-Parágrafo único. A prova de pagamento de que trata o caput será informada no sistema eletrônico de escrituração de que trata o § 1º do art. 3º-A, com referência expressa à CPR amortizada ou liquidada.
+Art. 4º-B. A liquidação do pagamento em favor do legítimo credor, por qualquer meio de pagamento existente no âmbito do Sistema de Pagamentos Brasileiro, constituirá prova de pagamento total ou parcial da CPR emitida sob a forma escritural.
+Parágrafo único. A prova de pagamento de que trata o caput deste artigo será informada no sistema eletrônico de escrituração de que trata o § 1º do art. 3º-A desta Lei, com referência expressa à CPR amortizada ou liquidada.
