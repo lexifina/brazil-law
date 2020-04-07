@@ -1,0 +1,2 @@
+Dispõe sobre a adoção de medidas de vigilância em saúde quando verificada situação de iminente perigo à saúde pública pela presença do mosquito transmissor do vírus da dengue, do vírus chikungunya e do vírus da zika; e altera a Lei nº 6.437, de 20 de agosto de 1977.
+O VICE - PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
