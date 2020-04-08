@@ -1,0 +1,28 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+GABINETE DO DESEMBARGADOR MÁRCIO VIDAL
+AGRAVO DE INSTRUMENTO N. 1008345-57.2020.8.11.0000
+AGRAVANTE: MUNICÍPIO DE PONTES E LACERDA
+AGRAVADO: ALICE GOUVEIA
+Vistos, etc.
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto pelo Município de Pontes e Lacerda, contra a decisão proferida pelo Juízo da Segunda Vara da Comarca de mesma denominação que, nos autos do Processo n. 1998-83.2020.811.0013, determinou ao Agravante que providencie, em favor da pessoa de Alice Gouveia, ora Agravada, no prazo de 24 (vinte e quatro) horas, o procedimento cirúrgico de implante de ceratoprótese de Dohlman OD, além de todo procedimento, ou tratamento, necessários à preservação da saúde da Agravada; impôs, ainda, preceito cominatório, para a hipótese de descumprimento da obrigação de fazer, no patamar equivalente a R$ 1.000,00 (mil reais), por dia, a serem revertidos em prol da Agravada (art. 537, caput, do NCPC), limitando-se à R$ 30.000,00 (trinta mil reais); determinou, também, de ofício, com espeque no poder geral de cautela do juiz, que, na hipótese de não cumprimento do preceito mandamental, sejam bloqueadas as contas públicas municipais, em montante equivalente ao necessitado pela Agravada, sem prejuízo das demais deliberações supramencionadas.
+O Agravante defende, inicialmente, a necessidade de atribuição do efeito suspensivo ao Recurso, na medida que a Secretaria Municipal de Saúde de Pontes e Lacerda está impossibilitada de cumprir a liminar no prazo de 24 ( vinte e quatro) horas, determinados na decisão, uma vez que o tratamento cirúrgico de implante de ceratoprótese de Dohlman no olho direito é um procedimento de média/alta complexidade, sendo necessário um tempo maior para o agendamento e demais procedimentos burocráticos, perante os hospitais a serem cotados pelo Município de Pontes e Lacerda.
+Requereu, então, liminarmente, a concessão do efeito suspensivo ao Recurso, para o fim de suspender a decisão hostilizada em todos os seus termos, ou que, pelo menos, seja concedido o efeito suspensivo parcial, para determinar a exclusão da multa diária cominatória, em razão da existência de outras sanções processuais para o caso de descumprimento da ordem liminar.
+No mérito, sustenta, em síntese, que, ante o fato de o procedimento cirúrgico ser de alta complexidade, a responsabilidade pelo seu custeio é do Estado de Mato Grosso, e não do Município de Pontes e Lacerda, bem como a necessidade da exclusão da multa diária.
+Juntou documentos.
+É o que merece registro. Decido.
+Inicialmente, cabe analisar se é o caso de conceder, liminarmente, a antecipação da tutela recursal, consoante a norma procedimental do artigo 1.019, inciso I, do Código de Processo Civil, e que o pedido de liminar somente será concedido nos casos em que houver a probabilidade do provimento do Recurso, ou houver risco de dano grave ou de difícil reparação, por aplicação analógica do artigo 1.012, parágrafo 4o,do CPC.
+Extrai-se dos documentos acostados a este Recurso e dos fundamentos apresentados no Agravo de Instrumento que, a princípio, assiste parcial razão ao Recorrente.
+Registro, inicialmente, que, embora exista a necessidade de considerar a preponderância das atribuições na definição da responsabilidade de cada ente público, no que pertine à garantia das ações da saúde pública, a responsabilidade pela sua oferta é solidária entre estes, de sorte que o fato de a parte ter ingressado em juízo, apenas, contra o Município Agravante não deve obstar o seu pleno acesso ao tratamento de que necessita.
+Assim, compete, em tese, ao Município de Pontes e Lacerda promover a ação adequada para o tratamento de saúde pleiteado pelo Agravado e, verificada a sua complexidade e/ou o seu alto custo, realizar a compensação financeira, ou ajuste adequado, com o Estado de Mato Grosso, ou com a União Federal, a depender da hipótese, para o seu devido ressarcimento.
+Não destoa dessa linha, aliás, o que decidido pela Suprema Corte no RE 855.178, submetido à sistemática da Repercussão Geral, tendo originado o Tema 793, verbis:
+Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro. (Destaquei).
+Não obstante, me parece que o prazo estabelecido pelo Juízo a quo, para a realização do sobredito procedimento cirúrgico, é extremamente exíguo, de sorte que me parece razoável alargar esse lapso temporal.
+De outro giro, tenho que deve ser suspensa a aplicação da multa cominatória, na medida que a penhora on line, com o consequente bloqueio do valor correspondente ao cumprimento da obrigação, revela-se medida mais eficaz na consecução da tutela pretendida, no caso de não ser cumprida espontaneamente a decisão, nos termos dos artigos 497, 536 e 537, todos do CPC.
+Forte nessas razões, CONCEDO PARCIALMENTE o efeito suspensivo pretendido pelo Município de Pontes e Lacerda, para determinar que o procedimento cirúrgico seja realizado no prazo de 10 (dez) dias, bem como para determinar a exclusão da multa diária cominatória, mantendo-se inalterados os demais termos da decisão impugnada.
+Comunique-se, com urgência, ao Juízo de origem.
+Intime-se a parte Agravada para contraminutar o Recurso, facultando-lhe juntar a documentação que entender necessária ao julgamento do Agravo.
+Após, encaminhem-se os autos à Procuradoria-Geral de Justiça.
+Intimem-se e cumpra-se.
+Cuiabá/MT, 07 de abril de 2020.
+Des. Márcio VIDAL,
+Relator.
