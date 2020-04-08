@@ -1,0 +1,4 @@
+a
+[arquivo anexo: anexo.html]
+Art. 2º Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial da União.
+JOSÉ BARROSO TOSTES NETO
