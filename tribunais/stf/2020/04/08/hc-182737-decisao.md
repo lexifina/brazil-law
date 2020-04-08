@@ -1,0 +1,19 @@
+Decisão (referente à petição 20.075/2020): Trata-se de pedido de reconsideração (eDOC 6) em face da decisão monocrática que, forte na ocorrência de hipótese de não conhecimento, sem possibilidade de concessão da ordem de ofício em razão da ausência de ilegalidade flagrante ou teratologia, negou seguimento ao habeas corpus (eDOC 5).
+    Requer, em suma, a reconsideração da decisão monocrática e a juntada da peça faltante referente ao ato apontado como coator, a fim de que seja concedida a ordem pleiteada.
+    1. Preliminarmente, cumpre-me salientar ser uníssona a jurisprudência deste Supremo Tribunal Federal no sentido de que “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434/SP, Primeira Turma, Rel. Min. RICARDO LEWANDOWSKI, DJe 02.10.09). Na mesma linha: HC 130.240 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 16.12.2015 e HC 131.202 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 21.03.2016.
+    Não bastasse, consolidado nesta Corte o entendimento acerca da impossibilidade de emenda à impetração, haja vista que o habeas corpus, “instrumento destinado à proteção de direito líquido e certo, demonstrável de plano, que não admite dilação probatória” (HC 103.606, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 09.12.2010).
+    Afinal, a instrução deficitária inviabiliza a análise do constrangimento ilegal invocado pelo impetrante e a concessão da ordem pleiteada.
+    Existindo decisão colegiada proferida por Tribunal Superior e sendo esse o ato contra o qual se insurge o remédio heroico, cabe ao impetrante – e não ao Poder Judiciário – colacioná-lo prontamente aos autos, ainda que, ao fim e ao cabo, seja confirmatório de decisão de cunho unipessoal proferida por membro da Corte Superior. Isso porque é por meio da íntegra do acórdão, com a totalidade dos votos proferidos, que é possível aferir os fundamentos de fato e de direito que foram empregados para a conclusão daquele julgamento.
+    Ausente o referido documento é inviável não apenas o reconhecimento da inauguração da competência deste Supremo Tribunal, mas a plena compreensão das matérias delineadas e, por conseguinte, o exame da ofensa aos direitos líquidos e certos que assere terem sido violados.
+    2. Não bastasse, malgrado seja reiterada a prática forense de formulação de pedidos de reconsideração, inexistente previsão legal sobre o uso do referido instituto.
+    O Regimento Interno desta Corte prevê expressamente o cabimento do agravo regimental ou embargos de declaração para impugnar, respectivamente, decisões monocráticas ou acórdãos proferidos pelas Turmas. Confira-se:
+    “Art. 317. Ressalvadas as exceções previstas neste Regimento, caberá agravo regimental, no prazo de cinco dias da decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte.”
+    “Art. 337. Cabem embargos de declaração, quando houver no acórdão obscuridade, dúvida, contradição ou omissão que devam ser sanadas.”
+    Ademais, no caso em exame, verifico que o pedido de reconsideração sequer foi apresentado dentro do prazo para interposição de agravo regimental, uma vez que a decisão que ora se pretende ver modificada foi publicada em 27.03.2020 e a petição em referência protocolada apenas em 06.04.2020, portanto, de modo intempestivo, quando já decorrido o prazo para recurso. Desse modo, resta inviabilizado até mesmo eventual possibilidade de se homenagear os princípios da economia e da celeridade processuais para fins de apreciação do pleito.
+    3. Ante o exposto, indefiro o pedido de reconsideração, nos termos do art. 21, § 1º, do RISTF.
+    Lance-se nos autos o trânsito em julgado da presente ação mandamental.
+    Publique-se. Intime-se.
+    Brasília, 8 de abril de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
