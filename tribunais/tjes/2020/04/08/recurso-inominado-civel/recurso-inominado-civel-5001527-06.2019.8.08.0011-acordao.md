@@ -1,0 +1,64 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001527-06.2019.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: MAURO NELSON FERREIRA
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+VOTO
+-
+VENCEDOR
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS.
+PRELIMINAR DE INCOMPETÊNCIA AFASTADA. DESNECESSIDADE DE PERÍCIA TÉCNICA. SOLUÇÃO DA LIDE QUE SE EXTRAI DA PROVA DOCUMENTAL ACOSTADA AOS AUTOS. TERMO DE OCORRÊNCIA DE INFRAÇÃO. IRREGULARIDADE NO EQUIPAMENTO DE MEDIÇÃO DE CONSUMO. RECUPERAÇÃO DE CONSUMO.
+RETIRADA DO MEDIDOR DA UNIDADE IMOBILIÁRIA. NECESSIDADE DE REALIZAÇÃO DE PROVA PERICIAL NO APARELHO COM PRÉVIA COMUNICAÇÃO DO CONSUMIDOR.
+INOBSERVÂNCIA DO ART. 129, §§
+5
+º,
+6º
+E
+7
+º, DA RESOLUÇÃO NORMATIVA ANEEL Nº 414/2010
+1
+. AUSÊNCIA DE PROVA DA NOTIFICAÇÃO PRÉVIA DO RECORRIDO.
+SUSPENSÃO DO SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA POR DÍVIDA NÃO ALCANÇADA PELO PROCEDIMENTO DE RECUPERAÇÃO DE RECEITA. SUSPENSÃO DEVIDA. IMPOSIÇÃO DE RESTABELECIMENTO DO SERVIÇO AO PAGAMENTO DA DÍVIDA APURADA PELO PROCEDIMENTO DE RECUPERAÇÃO DE RECEITA. OBRIGAÇÕES REMOTAMENTE VENCIDAS.
+ABUSIVIDADE FLAGRANTE. HIPERVULNERABILIDADE DO CONSUMIDOR. SERVIÇO ESSENCIAL. IMPOSSIBILIDADE DE QUE O CORTE SEJA EFETUADO POR DÉBITOS ANTERIORES AOS NOVENTA DIAS DA APURAÇÃO DA FRAUDE. CRÉDITO A SER RECUPERADO PELAS VIAS ORDINÁRIAS.
+SERVIÇO QUE SOMENTE FOI RESTABELECIDO POR ORDEM JUDICIAL
+. VIOLAÇÃO DA BOA-FÉ OBJETIVA. DANO MORAL CARACTERIZADO.
+CONDUTA REPROVÁVEL E QUE ULTRAPASSA A ESFERA DO MERO ABORRECIMENTO. INDENIZAÇÃO ARBITRADA EM
+R
+$
+5
+.000,00
+EM
+CONSONÂNCIA COM A RAZOABILIDADE E PROPORCIONALIDADE.
+ANULAÇÃO DO TOI E DA COBRANÇA DA DÍVIDA APURADA NO PROCEDIMENTO DE RECUPERAÇÃO DE RECEITA ACERTADA. IMPROCEDÊNCIA DO PEDIDO CONTRAPOSTO. RECURSO CONHECIDO MAS IMPROVIDO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9.099/95
+.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E DE HONORÁRIOS DE SUCUMBÊNCIA EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO
+.
+
+1
+129 § 5º
+. Nos casos em que houver a
+necessidade de retirada do medidor
+ou demais equipamentos de medição, a distribuidora deve acondicioná-los em invólucro específico, a ser lacrado no ato da retirada, mediante entrega de comprovante desse procedimento ao consumidor ou àquele que acompanhar a inspeção, e
+encaminhá-los por meio de transporte adequado para realização da avaliação técnica
+.
+
+§ 6º A
+avaliação técnica
+dos equipamentos de medição pode ser realizada pela Rede de Laboratórios Acreditados ou pelo laboratório da distribuidora, desde que com pessoal tecnicamente habilitado e equipamentos calibrados conforme padrões do órgão metrológico, devendo o processo ter certificação na norma ABNT NBR ISO 9001, preservado o direito de o consumidor requerer a perícia técnica de que trata o inciso II do § 1º.
+
+§ 7º Na hipótese do § 6º,
+a distribuidora deve comunicar ao consumidor, por escrito, mediante comprovação, com pelo menos 10 (dez) dias de antecedência, o local, data e hora da realização da avaliação técnica, para que ele possa, caso deseje, acompanhá-la pessoalmente ou por meio de representante nomeado.
+
+Voto servindo como ementa.
+
+DECISÃO
+
+A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
