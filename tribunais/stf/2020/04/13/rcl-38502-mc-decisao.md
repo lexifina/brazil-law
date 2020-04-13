@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se sustenta que o ato judicial ora questionado – emanado do E. Tribunal Regional do Trabalho da 3ª Região (Processo nº 0010025- -36.2015.5.03.0035) – teria desrespeitado o enunciado constante da Súmula Vinculante nº 10/STF, que possui o seguinte teor:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97)  a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.” (grifei)
+    Sendo esse o contexto, passo a apreciar o pedido formulado nesta sede processual. E, ao fazê-lo, verifico a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto da reclamação.
+    Com efeito, em momento posterior ao do ajuizamento desta ação reclamatória, o E. Tribunal Superior do Trabalho, em juízo de retratação, deu parcial provimento ao RR nº 0010025-36.2015.5.03.0035, para o fim de reconhecer “a licitude da terceirização dos serviços de eletricista de empresa concessionária de distribuição de energia elétrica”, evidenciando-se, desse modo, não mais subsistir a situação versada nos presentes autos.
+    A existência desse fato assume relevo processual, eis que faz instaurar, no caso, situação de prejudicialidade, apta a gerar a extinção deste instrumento reclamatório, em virtude da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que esse entendimento encontra apoio na jurisprudência do Supremo Tribunal Federal (Rcl 7.404/SP, Rel. Min. GILMAR MENDES – Rcl 8.294/SC, Rel. Min. RICARDO LEWANDOWSKI – Rcl 9.274/AM, Rel. Min. CELSO DE MELLO – Rcl 10.043/RJ, Rel. Min. CELSO DE MELLO – Rcl 10.242/RJ, Rel. Min. DIAS TOFFOLI – Rcl 11.083/SP, Rel. Min. ROBERTO BARROSO – Rcl 13.681/RJ, Rel. Min. ROSA WEBER – Rcl 15.644/MS, Rel. Min. LUIZ FUX – Rcl 15.810/RS, Rel. Min. TEORI ZAVASCKI – Rcl 15.816/MG, Rel. Min. CÁRMEN LÚCIA – Rcl 16.906/SP, Rel. Min. GILMAR MENDES – Rcl 29.542-MC/SP, Rel. Min. CELSO DE MELLO, v.g.), cabendo destacar, entre outras, a seguinte decisão que esta Corte proferiu a propósito do tema ora em análise:
+    “RECLAMAÇÃO – ATO IMPUGNADO –  REVOGAÇÃO – PERDA DE OBJETO. A revogação do ato tido, no pedido inicial da reclamação, como discrepante de certa decisão implica o prejuízo da reclamação, julgando-se extinto o processo sem apreciação do tema de fundo.”
+    (Rcl 2.496-QO/PE, Rel. Min. MARCO AURÉLIO – grifei)
+    Sendo assim, e pelas razões expostas, julgo prejudicada a presente reclamação, em face da perda superveniente de seu objeto, inviabilizando-se, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
