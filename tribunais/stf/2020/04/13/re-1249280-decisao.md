@@ -1,0 +1,23 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado do Tocantins contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO – REEXAME NECESSÁRIO – AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA – INSTALAÇÃO DO PARQUE ESTADUAL DO CANTÃO – LAUDO PERICIAL – MÉTODO COMPARATIVO – VALOR DE MERCADO – INDENIZAÇÃO PREVIA E JUSTA – HONORÁRIOS ADVOCATICIOS. 1. O laudo pericial é o meio apropriado para fixação da indenização prévia e justa de imóvel rural (Lote 2, Loteamento Cantão, com área total de 2.087,00.71 hectares) – desapropriado por utilidade pública para a implantação do Parque Estadual do Cantão – mormente quando elaborado em consonância com a legislação pertinente, amparado em critérios objetivos e observando o valor de mercado do bem à época da desapropriação. 2. Apresenta-se correta a fixação da verba honorária, exclusivamente em desfavor do autor da Ação de Desapropriação por Utilidade Pública, em 5% sobre a diferença corrigida entre a oferta e o preço final da indenização, o disposto no § 1º, do art. 27 do Decreto Lei nº 3.365/41, em razão do autor ser totalmente sucumbente, já que o valor integral da indenização arbitrada na sentença é superior à importância total ofertada na inicial da Ação de Desapropriação. 3. Apelo e reexame Necessário improvidos.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 100 da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    De outro lado, e mesmo que a suposta ofensa à Constituição houvesse surgido, originariamente, na instância recursal, derivando do próprio acórdão recorrido, ainda assim seria imprescindível que, nos embargos declaratórios, o tema constitucional fosse arguido pela parte recorrente – o que não se verificou nos presentes autos –, para que se ensejasse, ao Tribunal “a quo”, a possibilidade de examiná-lo expressamente, observando-se, desse modo, a jurisprudência firmada pelo Supremo Tribunal Federal:
+    “Prequestionamento.
+    Quando é o acórdão recorrido que teria ofendido implicitamente o texto constitucional, o prequestionamento se faz mediante a interposição de embargos declaratórios, para que se supra a omissão quanto à questão constitucional por ele não enfrentada.
+    Agravo regimental a que se nega provimento.”
+    (RTJ 123/383, Rel. Min. MOREIRA ALVES)
+    “RECURSO EXTRAORDINÁRIO. TEMA CONSTITUCIONAL, NÃO PREQUESTIONADO (SÚMULAS 282 E 356).
+    Se a afronta à lei surge no próprio julgamento, é essencial que o tema seja ventilado através de embargos de declaração, pois o prequestionamento é uma das condições de admissibilidade do extraordinário.
+    Agravo regimental a que se nega provimento.”
+    (AI 124.036-AgR/RS, Rel. Min. FRANCISCO REZEK)
+    Cabe registrar, no entanto, que a parte ora recorrente deixou de assim proceder, inviabilizando, desse modo, por ausência de prequestionamento explícito da matéria constitucional, a possibilidade jurídico-processual de ver apreciado seu recurso extraordinário.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a fixação da verba honorária, na origem, em seu percentual máximo.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
