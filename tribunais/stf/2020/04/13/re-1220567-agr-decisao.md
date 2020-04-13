@@ -1,0 +1,28 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido pelo Banco do Brasil S.A..
+    O recurso extraordinário em questão foi interposto contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE DA LEI Nº 13.015/2014 E DO NCPC – COMPETÊNCIA DA JUSTIÇA DO TRABALHO – CONTRIBUIÇÕES DEVIDAS À ENTIDADE DE PREVIDÊNCIA PRIVADA – PARCELAS DEFERIDAS EM JUÍZO.
+    Ressalvado meu posicionamento anterior, curvo-me ao entendimento da C. SBDI-1, adotado por esta C. Turma, no sentido de ser competente a Justiça do Trabalho para o julgamento de lide envolvendo o pedido de recolhimento das contribuições devidas pelo empregador (patrocinador) à entidade de previdência privada, decorrente das diferenças salariais deferidas em juízo. Julgados.
+    Recurso de Revista não conhecido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 144, I e IX, e 202, § 2º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende ressaltar, por oportuno, ante a inquestionável procedência de suas observações, o seguinte trecho da decisão do eminente Ministro EDSON FACHIN, proferida no RE 1.256.766/PR:
+    “O Tribunal Superior do Trabalho, com fundamento nos fatos e nas provas dos autos, reformou o acórdão do Tribunal Regional do Trabalho e reconheceu a competência da Justiça do Trabalho para o julgamento do caso.
+    De acordo com o acórdão recorrido, o presente feito não tratou de complementação de aposentadoria por entidade de previdência complementar, mas dos reflexos do pagamento das horas extras nas contribuições devidas à Previ. Vejamos (eDOC 46, p. 12):
+    ‘Tal orientação emanada do e. STF destina-se claramente a definir a competência para apreciar o conflito em relações jurídicas discutindo os benefícios, ou seja, a complementação de aposentadoria em si, não alcançando as contribuições previdenciárias.
+    Logo, aquela limitação quanto à competência não se aplica ao caso dos autos, em que nem mesmo a entidade de previdência privada consta do polo passivo da demanda, e em que o pedido é dirigido apenas contra o empregador (patrocinador), referente à integração dos reflexos decorrentes das parcelas a que este foi condenado na presente demanda.
+    Na mesma senda, o critério eleito pelo Pretório Excelso foi o da maior efetividade e racionalidade do sistema, o que, no caso das contribuições sociais, diversamente da situação dos benefícios, é alcançada pela fixação da competência da Justiça do Trabalho para apreciar demandas envolvendo contribuição social incidente sobre o objeto das condenações por ela proferidas, conforme entendimento firmado pelo próprio STF no RE 569.056-3, que culminou na edição da Súmula Vinculante 53.’
+    Por isso, não há se falar em aplicação do Tema 190, tendo em vista a distinção entre o explicitado pelo tema 190 da sistemática da repercussão geral, cujo paradigma é o RE 586.453, e o caso posto nos autos, em que se decidiu pela competência da Justiça do Trabalho para julgar os eventuais reflexos do recolhimento da contribuição previdenciária sobre os valores pagos a título de parcelas salariais discutidas na reclamação trabalhista.
+    Desta forma, qualquer incursão sobre eventual ofensa à Constituição demandaria revolvimento dos fatos, o que encontra óbice na Súmula 279, do STF. (…).” (grifei)
+    Impõe-se destacar, ainda, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Corte (RE 1.220.572-ED/DF, Rel. Min. MARCO AURÉLIO – RE 1.219.239- -AgR/DF, Rel. Min. CÁRMEN LÚCIA – RE 1.221.534/DF, Rel. Min. RICARDO LEWANDOWSKI – RE 1.242.494/MG, Rel. Min. EDSON FACHIN, v.g.):
+    “Agravo regimental em recurso extraordinário. 2. Direito do Trabalho. 3. Conflito negativo de competência. Complementação de aposentadoria. Entidade de previdência privada. Competência da Justiça do Trabalho para processar e julgar as causas nas quais a causa de pedir e o pedido não se limitam somente ao pedido de complementação de aposentadoria, mas também fazem referência a outros requerimentos relacionados ao vínculo trabalhista. 4. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    (RE 1.089.108-AgR/DF, Rel. Min. GILMAR MENDES – grifei)
+    Vê-se, desse modo, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
