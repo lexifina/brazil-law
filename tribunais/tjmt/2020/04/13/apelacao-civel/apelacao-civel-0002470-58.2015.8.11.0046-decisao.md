@@ -1,0 +1,49 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No 0002470-58.2015.8.11.0046 – CLASSE CNJ - 198 – COMARCA DE COMODORO
+APELANTE: JOSE ODIL DA SILVA, IZABEL WINGENBACH DA SILVA
+APELADO: BANCO DO BRASIL S. A.
+DECISÃO MONOCRÁTICA
+DESA. NILZA MARIA PÔSSAS DE CARVALHO (RELATORA)
+Visto etc.
+Trata-se de recurso de apelação cível interposto por JOSE ODIL DA SILVA e IZABEL WINGENBACH DA SILVA, contra sentença proferida pelo Juízo da 2a Vara Cível de Comodoro/MT, que nos autos dos Embargos à Execução n. 2470-58.2015.811.0046, Código 78221, em que se julgou improcedente os embargos, condenando os embargantes ao pagamento de custas, despesas processuais e verba honorária, esta arbitrada em R$ 5.000,00 (cinco mil) reais, nos termos do art. 85, § 8o, do CPC/2015 (Id. 29702987).
+Aduzem que compareceram nos autos da execução apenas para arguir a nulidade da citação, nos termos do art. 214, § 2°, do CPC/73, conforme se observa nas cópias de fls. 44-45, assim sendo, defende que o comparecimento espontâneo não foi para embargar a execução, mas, repete-se, apenas para alegar a nulidade das citações por carta, o que foi acolhido, tanto que, as fls. 47-48, o r. Juízo mencionou “muito embora a citação o seja nula... ”.
+Explicam que, mesmo com a redação expressa do § 2° do art. 214 do CPC/ 73, e mesmo tendo sido reconhecida a nulidade das citações, contraditoriamente a sentença não poderia ter aceitado que a citação nula produzisse os mesmos efeitos de uma citação válida, eis que não era o caso de aplicação do art. 241, § 1° do CPC 73, mas de a aplicabilidade do § 2o desse mesmo dispositivo, que assim preceitua: “Comparecendo o réu apenas para arguir a nulidade e sendo esta decretada, considerar-se-á feita a citação na data em que ele ou seu advogado for intimado da decisão”.
+Asseveram que está equivocada a sentença que esta equivocada a sentença que reconheceu como a data da citação o dia do comparecimento espontâneo dos executados, pois estes somente arguiram a nulidade da citação.
+Ao final, pugnam pelo provimento do presente recurso, para reformar a sentença vergastada, no sentido de se reconhecer a incidência da prejudicial de mérito da prescrição, invertendo-se o ônus da sucumbência, uma vez que, por culpa da instituição apelada, a interrupção da prescrição não retroagiu a data da propositura da execução (Id. 29702997).
+Devidamente intimado, o BANCO DO BRASIL S. A. não apresentou contrarrazões ao recurso (Id. 29703451).
+É o relatório.
+Decido.
+Pois bem. Satisfeitos os pressupostos de admissibilidade, conhece-se do recurso.
+Cuidou-se, na origem, de Ação de Execução de título extrajudicial consistente em cédula rural pignoratícia, disciplinada no Decreto-Lei no 167/1967. Assim, o prazo prescricional da pretensão executiva é de 03 (três) anos, nos termos do art. 206, § 3o, VIII, do Código Civil.
+Destarte, os executados ajuizaram os respectivos embargos à execução, onde pugnam pelo reconhecimento da prescrição da pretensão do banco exequente, tendo em vista que, muito embora a ação tenha sido ajuizada tempestivamente, a citação só se efetivou quando transcorrido o lapso prescricional, por culpa exclusiva do exequente, não havendo interrupção da prescrição.
+Eis o teor da sentença combatida:
+“(...) Tendo em vista que o processo de execução foi ajuizado na vigência do Código de Processo Civil de 1973, o prazo prescricional somente se interrompe com a citação válida, interrupção esta que retroagirá à data da propositura da demanda, desde que referida citação seja efetuada nos 10 (dez) dias seguintes à prolação do despacho que a determinou, prorrogáveis por no máximo 90 dias, a pedido da parte exequente, conforme inteligência do artigo 219, §§ 1o, 2o, 3o e 4o, do CPC/73.
+Depreende-se dos autos da execução (CI 32543) que a ação foi ajuizada dentro do prazo legal, em 29.03.2010, considerando que o vencimento da cédula de crédito rural objeto dos autos se deu em 30.10.2011 (pág. 11/15).
+Devidamente intimado para efetuar o pagamento das custas judiciais (pág. 21/22), em 07/06/2010, o exequente quedou-se inerte.
+Em 11.08.2011, o exequente procedeu a juntada do comprovante de recolhimento das custas judiciais (págs. 29/31).
+Em seguida, sobreveio despacho determinando a citação dos executados em 21/06/2013 (págs. 35/38), os quais compareceram espontaneamente em juízo em 31/03/2014 (págs. 43/44).
+Desta forma, vislumbra-se que entre a data do vencimento do título executivo (30/10/2011) à data do comparecimento espontâneo do executado, que supre a falta de citação (31/03/2014) não transcorreu o triênio estabelecido pela LUG, de modo que não há como acolher o pleito pelo reconhecimento da prescrição.
+Em face do exposto, com supedâneo no art. 487, I, do Novo Código de Processo Civil, JULGO IMPROCEDENTES os presentes embargos” (Id. 29702987)
+Irresignados, os apelantes aduzem que compareceram nos autos da execução apenas para arguir a nulidade da citação, nos termos do art. 214, § 2°, do CPC/73, conforme se observa nas cópias de fls. 44-45, assim sendo, defende que o comparecimento espontâneo não foi para embargar a execução, mas, repete-se, apenas para alegar a nulidade das citações por carta, o que foi acolhido, tanto que, as fls. 47-48, o r. Juízo mencionou “muito embora a citação o seja nula... ”.
+Explicam que, mesmo com a redação expressa do § 2° do art. 214 do CPC/ 73, e mesmo tendo sido reconhecida a nulidade das citações, contraditoriamente a sentença não poderia ter aceitado que a citação nula produzisse os mesmos efeitos de uma citação válida, eis que não era o caso de aplicação do art. 241, § 1° do CPC 73, mas de a aplicabilidade do § 2o desse mesmo dispositivo, que assim preceitua: “Comparecendo o réu apenas para arguir a nulidade e sendo esta decretada, considerar-se-á feita a citação na data em que ele ou seu advogado for intimado da decisão”.
+Pois bem. Tendo em vista a data do ajuizamento da ação originária (Execução de Título Extrajudicial n.o 730-41.2010.811.0046, Cód. 32543), é preciso ressaltar, inicialmente, que não obstante a incidência do CPC/2015, quanto ao cabimento do recurso e a forma de sua interposição, os atos processuais praticados e as situações jurídicas consolidadas sob a vigência do Antigo Código de Processo Civil, Lei no 5.869/1973, até 17 de março de 2016, deverão ser preservados, em obediência à regra da irretroatividade positivada no artigo 14, do Novo Código. Isso para evitar prejuízos aos litigantes, destinatários imediatos da atividade jurisdicional desenvolvida no processo.
+Assim, os embargos à execução fora ajuizado em 21/07/2015, a ação de execução em 29/03/2010 e, em seguida, sobreveio o despacho determinando a citação dos executados em 21/06/2013, os quais compareceram espontaneamente em juízo em 31/03/2014. O caso dos autos deve ser apreciado sob a ótica do art. 219 do CPC/1973, que dispõe:
+“Art. 219. A citação válida torna prevento o juízo, induz litispendência e faz litigiosa a coisa; e, ainda quando ordenada por juiz incompetente, constitui em mora o devedor e interrompe a prescrição.
+§ 1o A prescrição considerar-se-á interrompida na data do despacho que ordenar a citação.
+§ 2o Incumbe à parte, nos dez (10) dias seguintes à prolação do despacho, promover a citação do réu.
+Inconcusso que, nos termos do art. 202, I do Código Civil e art. 219, §1o do Código de Processo Civil, interrompe-se a prescrição com a citação do réu, ato cuja eficácia retroagirá à data de propositura da ação, entendida segundo os critérios do art. 263 do CPC.
+.A citação é ato de tal forma indispensável que repercute diretamente na relação processual, seja no plano da existência (TEREZA ARRUDA ALVIM WAMBIER, Nulidades do processo e da sentença, 4a ed, São Paulo: RT, 2003, 1998, p. 39) ou no da validade (PONTES DE MIRANDA, Comentários ao Código de Processo Civil., t. 11, 2a ed, Rio de Janeiro: Forense, 2002, pp. 81-86). Contudo, não se trata de vício insanável, eis que se admite o suprimento pelo comparecimento espontâneo do réu (art. 214, §1o do CPC).
+Cabe, neste contexto, determinar se foi produzido o efeito material pertinente à citação, qual seja, a interrupção da prescrição.
+Neste contexto, tanto o regime legal sobre a matéria como o entendimento jurisprudencial condicionam a interrupção da prescrição à atuação diligente do autor, que deve promover a citação no prazo de dez dias (art. 219, §2o do CPC), não podendo ser responsabilizado pela demora imputável ao serviço judiciário (Súmula 106 do STJ e art. 219, §2o, parte final, do CPC).
+Somente haver-se-á por não interrompida a prescrição se o autor não promover a citação no decêndio legal, contemplada a possibilidade de prorrogação (art. 219, §§2o, 3o e 4o do CPC).
+Deve-se ter em mente que promover a citação não é propriamente realizar o ato, que se insere na competência estatal.
+Ao determinar que o exequente promova a citação dos executados, o CPC não o transforma em oficial de justiça, nem lhe outorga competência para efetivar o ato de comunicação pré-processual.
+Promover citação é apontar o endereço dos citandos, fornecer os documentos necessários e pagar as despesas necessárias.
+E assim se portou o banco/embargado como revela o exame dos autos.
+Daí se conclui que, comparecendo de forma espontânea os executados (Embargantes), e mesmo sendo apenas para arguir a nulidade da citação (art. 214, § 2o, do CPC) supre-se a ausência de citação e são produzidos, regularmente, todos os efeitos materiais e processuais da citação válida, dentre os quais a interrupção da prescrição, que retroage à data de propositura da demanda executiva (art. 617 do CPC, correspondente em parte ao art. 802 do CPC/15).
+Assim, ajuizada a ação executiva antes de escoado o prazo prescricional - o que não se discute -, o comparecimento espontâneo faz retroagir a interrupção da prescrição, razão pela qual se deve manter a sentença.
+Ante o exposto, DESPROVEJO O RECURSO.
+Intime-se.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
