@@ -1,0 +1,26 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, restando prejudicado, em consequência, o exame do recurso contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido por Maurilio Francisco Galdino.
+    O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de juízo de retratação pela 2ª Turma Recursal Cível do Estado de São Paulo, está assim ementado:
+    “REPETIÇÃO DE INDÉBITO. SERVIDOR ESTADUAL. AGENTE DE SEGURANÇA PENITENCIÁRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE ADICIONAL DE INSALUBRIDADE. Possibilidade da incidência de contribuição previdenciária sobre o adicional de insalubridade. Inteligência do art. 6º da Lei Complementar nº 432/85. Sentença mantida. Recurso improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 432/85), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Não obstante, fato é que no cargo ocupado pelo recorrente – agente de segurança penitenciária – o adicional de insalubridade não ostenta caráter transitório e natureza precária, sendo, ademais, incorporado aos vencimentos quando da inatividade do servidor.
+    Na forma da legislação local, o adicional de insalubridade é computado no momento da aposentadoria, na base de 1/60 do respectivo valor para cada mês, ou seja, passível da inclusão na base de cálculo da contribuição previdenciária, conforme disposição do art. 6.º, da Lei Complementar n.º 432/85:
+    ‘Artigo 6º – No cálculo dos proventos será computado o adicional de insalubridade a que fizer jus o funcionário ou servidor no momento da aposentadoria, na base de 1/60 (um sessenta avos) do respectivo valor para cada mês em que, no período dos 60 (sessenta) meses imediatamente anteriores a aposentadoria, o funcionário ou servidor tenha estado em exercício nas condições referidas no artigo 1º, com a percepção do mencionado adicional’.
+    …...................................................................................................
+    Desta feita, passível a incidência da contribuição previdência sobre o adicional de insalubridade aos ocupantes do cargo de agente de segurança penitenciária, como se da no caso dos autos.
+    Destaque-se que a decisão proferida pela Turma de Uniformização dos Juizados Especiais do Estado de São Paulo nº 0000201-02.2016.826.9000 é inaplicável ao presente feito, posto referir-se a cargo diverso do ocupado pelo recorrente.
+    Assim, válido consignar uma vez mais que o Adicional de Insalubridade, no caso em comento, tem caráter regular e habitual, tratando-se, na verdade, de vantagem pecuniária que, na prática, assume caráter geral sendo pago a todos os servidores que ocupam o cargo de agente de segurança penitenciária exercido pelo recorrente, sendo, por tal razão, passível de inclusão na base de cálculo dos adicionais temporais. (…).”
+    Impõe-se observar, finalmente, que essa orientação tem sido observada em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão processual idêntica à que ora se examina (ARE 1.231.740/SP, Rel. Min. GILMAR MENDES – ARE 1.245.153/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.246.558/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.247.375/SP, Rel. Min. ROBERTO BARROSO – ARE 1.254.908/SP, Rel. Min. DIAS TOFFOLI, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Adicional de insalubridade. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame de legislação local. Incidência da Súmula 280 do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negado provimento ao agravo regimental, sem fixação de verba honorária.”
+    (ARE 1.231.740-AgR/SP, Rel. Min. GILMAR MENDES)
+    Vê-se, portanto, que a pretensão deduzida pela parte ora recorrente revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que  culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
