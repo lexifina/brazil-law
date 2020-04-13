@@ -1,0 +1,46 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVOS REGIMENTAIS NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVOS DE ANA CAROLINA E NATHALIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DOS ARTS. 1.021, § 1º, DO CPC E 253 DO RISTJ. SÚMULA 182/STJ. AGRAVOS NÃO CONHECIDOS. PRESCRIÇÃO EXECUTÓRIA RECONHECIDA EM FAVOR DE ANA CAROLINA. AGRAVOS DE KELLY E OSVALDO. AGRAVANTE PREVISTA NO ART. 62, I, DO CP. ALEGADA AUSÊNCIA DE PROVAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E FALTA DE PREQUESTIONAMENTO. SÚMULAS 7/STJ E 282 E 356/STF. CAUSA DE AUMENTO PREVISTA NO ART. 1º, § 4º, DA LEI 9.613/98 E CONTINUIDADE DELITIVA.  ‘BIS IN IDEM’ CONFIGURADO. ENTENDIMENTO ADOTADO PELA SUPREMA CORTE NA AP 470/MG. REDUÇÃO DA PENA. COLABORAÇÃO PREMIADA.  NÃO OCORRÊNCIA. REVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+    1. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 desta Corte, por analogia.
+    2. Transcorrido lapso temporal superior a 4 anos, desde o trânsito em julgado da sentença condenatória para o Ministério Público, sem que tenha sido iniciada a execução da pena, operou-se a prescrição da pretensão executória apenas em relação à agravante Ana Carolina.
+    3. Além da necessidade de reexame do conjunto fático- -probatório, a irresignação quanto à aplicação da agravante prevista no art. 62, I, do CP não foi analisada pelo Tribunal ‘a quo’, carecendo o recurso especial do indispensável requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+    4. Resulta ‘bis in idem’ o reconhecimento da continuidade delitiva e a incidência da majorante prevista no art. 1º, § 4º,  da Lei 9.613/98. Precedente do STF no julgamento da AP 470/MG.
+    5. Tendo a Corte de origem concluído pela ausência de colaboração premiada, a desconstituição das premissas fáticas do acórdão, com fim de aplicar a redução da pena prevista no art. 1º, § 5º, da Lei 9.613/98, demandaria incursão na seara probatória, inadmissível no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+    6. Agravos regimentais de Ana Carolina e Nathalia não conhecidos, com reconhecimento, de ofício, da prescrição da pretensão executória, em relação à agravante Ana Carolina,  e agravos regimentais de Kelly e Osvaldo parcialmente providos para, afastada a majorante prevista no art. 1º, § 4º, da Lei 9.613/98, redimensionar a pena.”
+    (REsp 1.667.301-AgRg-EDcl/SP, Rel. Min. NEFI CORDEIRO – grifei)
+    Busca-se, nesta sede processual, o ingresso da ora paciente em regime de execução de pena menos gravoso (semiaberto).
+    O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. ALCIDES MARTINS, opinou contrariamente à concessão da ordem de “habeas corpus” em parecer assim ementado:
+    “’HABEAS CORPUS’. LAVAGEM DE DINHEIRO EM CONTINUIDADE DELITIVA. PLEITO DE FIXAÇÃO DE REGIME SEMIABERTO PARA PURGAÇÃO DA PENA. INVIABILIDADE. GRAVIDADE CONCRETA DOS DELITOS. PARECER PELO NÃO CONHECIMENTO DO ‘WRIT’.” (grifei)
+    Sendo esse o contexto, passo a apreciar a causa ora em julgamento. E, ao fazê-lo, entendo não assistir razão à parte impetrante.
+    Observo, inicialmente, no que se refere à discussão em torno da imposição do regime inicial fechado à ora paciente, que o Supremo Tribunal Federal tem entendido que o fato de o sentenciado haver sofrido condenação a pena igual ou inferior a 08 (oito) anos de reclusão não lhe confere, só por si, o direito público subjetivo à obtenção de regime prisional menos gravoso (RTJ 148/490-491, Rel. Min. SYDNEY SANCHES, v.g.).
+    É que o preceito inscrito no art. 33, § 2º, “b”, do Código Penal não obriga o magistrado sentenciante, mesmo tratando-se de réu primário e sujeito a pena não superior a oito anos de prisão, a fixar, desde logo, o regime penal semiaberto.
+    Como se sabe, a norma legal em questão permite ao juiz impor ao sentenciado regime penal mais severo, desde que o faça, no entanto, em decisão suficientemente motivada (RTJ 141/545 – RTJ 151/212, v.g.). Assim, a opção pelo regime menos gravoso constitui mera faculdade legal reconhecida ao magistrado, consoante enfatizado pela jurisprudência do Supremo Tribunal Federal:
+    “(…) O direito positivo brasileiro permite ao juiz impor ao sentenciado regime penal mais severo, desde que o faça em decisão suficientemente motivada (…).”
+    (RTJ 154/103, Rel. Min. CELSO DE MELLO)
+    “O cumprimento em regime mais brando (…) não é decorrência automática da duração da pena, mas simples faculdade do juiz, que pode e deve evitá-lo, quando não satisfeitos os pressupostos estabelecidos no ‘caput’ do art. 59 do Código Penal.”
+    (HC 66.950/RO, Rel. Min. OCTAVIO GALLOTTI – grifei)
+    Convém destacar, por relevante, que o Poder Judiciário – em face do que prescreve o art. 33, § 3º, do Código Penal – deve  justificar, de modo adequado e satisfatório, a imposição do regime inicial fechado, quando cabível, em tese, como no caso, a aplicação de regime penal menos gravoso.
+    Vale ressaltar, neste ponto, por oportuno, que, em sessão  realizada em 24/09/2003, o Plenário desta Corte aprovou o  Enunciado nº 719 da Súmula de sua jurisprudência predominante, que assim dispõe:
+    “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.” (grifei)
+    Desse modo, embora tratando-se de paciente condenada à pena de 07 (sete) anos de reclusão, nada impedia a imposição, quanto a tal sentenciada, do regime inicial fechado, eis que o preceito inscrito no art. 33, § 2º, “b”, do Código Penal tornou meramente facultativa, consoante firme jurisprudência do Supremo Tribunal Federal, a concessão do regime semiaberto para o condenado não reincidente sujeito a pena cujo “quantum” seja superior a 04 (quatro) anos (limite mínimo) e não exceda a 08 (oito) anos (limite máximo):
+    “‘Habeas Corpus’. Regime de cumprimento da pena imposta. Faculdade do Magistrado de elegê-lo, atento às circunstâncias e conseqüências do crime. Juízo que não comporta revisão em sede de ‘habeas corpus’.
+    Ordem denegada.”
+    (RTJ 125/578, Rel. Min. CÉLIO BORJA – grifei)
+    “‘Habeas corpus’. Pena. Regime de cumprimento. Questões insusceptíveis de se verem revisadas em ‘habeas corpus’.
+    Fixação da pena e do seu regime de cumprimento, segundo parâmetros legais e no âmbito da discrição legítima do magistrado singular. Hipótese estranha aos limites do ‘habeas corpus’.”
+    (RTJ 119/668, Rel. Min. FRANCISCO REZEK – grifei)
+    “2. Não é o ‘habeas corpus’ instrumento adequado  para reavaliação das condições subjetivas do paciente para efeito de regime de prisão, matéria, ademais, a ser submetida, primeiramente, ao juízo da execução.
+    3. ‘Habeas corpus’ indeferido.”
+    (RT 666/389, Rel. Min. SYDNEY SANCHES – grifei)
+    “4. Regime inicial de cumprimento de pena. Com base no art. 33, § 2º, ‘c’, do Código Penal, a despeito de a condenação aplicada ser inferior a quatro anos, há a presença de circunstâncias desfavoráveis ao paciente, o que possibilita a aplicação de regime mais gravoso para o cumprimento da pena do que aquele previsto no art. 33, § 2º, ‘c’, do Código Penal, devendo ser mantido o regime semiaberto. 5. ‘Habeas Corpus’ indeferido.”
+    (HC 100.695/SP, Rel. Min. GILMAR MENDES – grifei)
+    No contexto delineado nos autos, o E. Tribunal de Justiça do Estado de São Paulo, no julgamento do recurso de apelação, destacou que a pena imposta à ora paciente, bem assim a fixação do regime fechado, tiveram em consideração as “particularidades do caso” e a “gravidade concreta dos crimes”, valendo transcrever, no ponto, fragmento do voto condutor do acórdão emanado daquela E. Corte estadual:
+    “Com efeito, porque se vê dos autos que em novembro de 2002, o réu OSVALDO foi condenado – juntamente com terceiros – pelos delitos de tráfico e associação (fls. 345/428), e depois, em novembro de 2011, ele e a corré KELLY foram denunciados – juntamente com terceiros – pela prática dos delitos de tráfico de drogas e associação (fls. 89/95) anotando-se à oportunidade a apreensão de expressiva quantidade de moeda nacional e estrangeira, além de veículos, empregados na atividade ilícita ou dela resultantes, promovida, inclusive, medida cautelar incidental de sequestro de imóvel (v. sentença – fls. 589/591).
+    …...................................................................................................
+    Para OSVALDO e KELLY se impôs o fechado, mais gravoso, não sendo qualquer outro recomendável diante das particularidades do caso e anotando-se inclusive a reincidência do primeiro e a gravidade concreta dos crimes.” (grifei)
+    Em suma: tenho para mim que os fundamentos subjacentes a esta causa divergem dos critérios que a jurisprudência do Supremo Tribunal Federal consagrou na matéria ora em análise.
+    Sendo assim, em face das razões expostas, e acolhendo, ainda, os fundamentos do parecer da douta Procuradoria-Geral da República, indefiro o pedido de “habeas corpus”.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
