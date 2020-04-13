@@ -1,0 +1,2 @@
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 8 de abril de 2020, com base nos arts. 9º e 37 da Lei nº 4.595, de 31 de dezembro de 1964, nos arts. 6º e 7º da Lei nº 11.795, de 8 de outubro de 2008, no art. 61 da Lei nº 11.941, de 27 de maio de 2009, nos arts. 9º e 15 da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto no art. 12 da Resolução nº 4.720, de 30 de maio de 2019,
+R E S O L V E :
