@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Itaju/SP contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está, no ponto objeto de impugnação, assim ementado:
+    “APELAÇÃO CÍVEL. Ação civil pública. Município de Itaju. Obrigação de fazer concernente no cumprimento integral da Lei nº 12.527/2011 (‘Lei de Acesso à Informação’), bem como da Lei Complementar nº 131/2009 (‘Lei da Transparência’). Sentença de primeiro grau que julgou parcialmente procedente a ação, desafiando recurso de apelação interposto pelo ente requerido.
+    1. Objeção. Alegada incompetência absoluta da justiça estadual, uma vez que o autor da ação é o Ministério Público Federal. Prejudicial que não prospera. Caso em que a ação em epígrafe fora originalmente promovida pelo Ministério Público Federal e distribuída junto à justiça federal, a qual declinou da competência para conhecimento do feito, determinando a remessa à justiça estadual, tendo sido a titularidade da ação, a partir de então, assumida pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO.
+    .......................................................................................................
+    4. Sentença mantida. Recurso não provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 109, I, e 128, I, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “3.2. Com efeito, conforme se infere dos autos, de fato, a ação civil pública em deslinde fora, inicialmente, ajuizada pelo Ministério Público Federal e, inclusive, endereçada ao juízo federal da Comarca de Jaú.
+    3.3. Contudo, o juízo federal da Comarca de Jaú declinou da competência para conhecimento do feito, preconizando sua incompetência absoluta, e determinou a remessa dos autos ao juízo de direito da Comarca de Bariri.
+    3.4. E fato superveniente, conforme se extrai do ofício de fls. 107, com o deslocamento do feito para o juízo de direito da Comarca de Bariri, o MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO assumiu a titularidade da ação.
+    3.5. Logo, diante desse quadro, não há se falar em incompetência da justiça estadual para julgamento da presente ação civil pública.
+    3.6. Ademais, emerge mencionar que, conforme se extrai do documento de fls. 112, o MUNICÍPIO DE ITAJU suscitou conflito de competência junto ao Colendo Superior Tribunal de Justiça, incidente este que acabou não conhecido.” (grifei)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora recorrente revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
