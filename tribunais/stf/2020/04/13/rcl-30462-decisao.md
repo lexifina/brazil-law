@@ -1,0 +1,9 @@
+DECISÃO: Registro, desde logo, que, em 26/09/2019, concedi o prazo de 30 (trinta) dias, para que o reclamante instruísse, adequadamente, a presente reclamação, produzindo, nos autos, cópia de todos os  documentos comprobatórios da existência de relação jurídico-administrativa entre o Município de Timon/MA e a parte beneficiária da decisão ora impugnada, sob pena de extinção deste processo (CPC, art. 321, “caput” e parágrafo único).
+    Observo, no entanto, que, embora regularmente intimada e não obstante tenha apresentado documentos em aditamento à petição inicial (petição protocolada eletronicamente sob o nº 75.457/2019), a parte reclamante não atendeu à determinação de juntada dos documentos a que aludi no despacho por mim anteriormente proferido, pois deixou de produzir, como lhe foi expressamente determinado, certidão processual apta a comprovar a inocorrência do trânsito em julgado da decisão impugnada, em atenção ao disposto no art. 988, § 5º, inciso I, do CPC (na redação dada pela Lei nº 13.256/2016) e no enunciado constante da Súmula 734/STF.
+    Sendo assim, e considerando que o reclamante não procedeu à correta instrução destes autos, expressamente determinada – insista-se – no despacho de 26/09/2019, julgo extinta, sem resolução de mérito, a presente ação reclamatória (RISTF, art. 21, § 1º, c/c os arts. 485, I, e 321, parágrafo único, do CPC), tornando sem efeito, em consequência, a medida liminar anteriormente deferida.
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão ao E. Tribunal Superior do Trabalho (Processo nº 0016277-14.2013.5.16.0019), ao E. Tribunal Regional do Trabalho da 16ª Região (Processo nº 0016277- -14.2013.5.16.0019) e ao Juízo da Vara do Trabalho de Timon/MA (Processo nº 0016277-14.2013.5.16.0019).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
