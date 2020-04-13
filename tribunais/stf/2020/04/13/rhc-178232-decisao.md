@@ -1,0 +1,31 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Wellington Martins Rodrigues contra decisão monocrática da lavra do Ministro Nefi Cordeiro, do Superior Tribunal de Justiça, que denegou a ordem no HC 529.893/SP.
+    O Recorrente foi condenado à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, pela prática do crime de roubo circunstanciado (art. 157, § 2º, I, do Código Penal).
+    Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso defensivo para reduzir a pena para 04 (quatro) anos de reclusão.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Nefi Cordeiro, denegou a ordem no HC 529.893/SP.
+    No presente recurso ordinário, alega o Recorrente, em síntese, falta de fundamentação idônea quanto à fixação do regime inicial semiaberto para cumprimento da pena. Defende a imposição de regime prisional mais brando. Requer, em medida liminar e no mérito, a fixação do regime inicial aberto.
+    É o relatório.
+    Decido.
+    Colho da decisão recorrida:
+    “(...).
+    Conforme relatado, o impetrante requer a fixação do regime aberto de cumprimento da pena, sob o argumento de ausência de fundamentação idônea para a manutenção do regime prisional de cumprimento de pena mais gravoso que o legalmente previsto.
+    A Corte de origem, ao reformar a sentença, reduzindo a pena do paciente para 4 anos de reclusão e 10 dias-multa, e manter o regime prisional semiaberto, assim dispôs (fls. 19/20):
+    Com isso, a condenação fica adequada para o art. 157, caput, do Código Penal,restando a análise da pena imposta.
+    Nesse mister, o que se vê é que a pena base do acusado foi estabelecida no mínimo legal e, na segunda fase não sofreu alteração, já que a menoridade relativa não poderia mesmo trazê-la para baixo desse patamar (Súmula nº 231, do Col. Superior Tribunal de Justiça).
+    E, com o afastamento da qualificadora reconhecida, a reprimenda torna-se definitiva em 4 anos de reclusão e 10 dias-multa, de valor unitário mínimo.
+    O regime prisional semiaberto para o início do cumprimento da pena é mesmo o que melhor se adequa à natureza do crime e à reprovação da conduta do acusado, porque praticado mediante grave ameaça com uso de faca, circunstância que torna inviável o regime aberto e impede a substituição da pena por restritiva de direitos, por expressa vedação legal (art. 44, inciso I e art. 77, ambos do Código Penal.[...].
+    No caso, como visto, foi estabelecido o regime mais gravoso do que a pena permite, no caso o semiaberto, com base nas circunstâncias do crime, praticado mediante o emprego de uma faca, o que a teor da jurisprudência desta Corte é fundamento válido para o estabelecimento do regime mais gravoso. Nesse sentido:
+    (…).
+    Ante o exposto, denego o habeas corpus.”
+    Registro que há obstáculo à admissibilidade do presente recurso, porquanto não exaurida a jurisdição do Superior Tribunal de Justiça.
+    Na dicção do art. 102, II, a, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus decidido em única instância pelos Tribunais Superiores, se denegatória a decisão.
+    O ato impugnado na presente via é mera decisão monocrática e não o resultado de julgamento colegiado do Superior Tribunal de Justiça. Deveria, pretendendo a Defesa a reforma da decisão monocrática, ter interposto o pertinente agravo regimental para que a questão fosse apreciada pelo órgão colegiado. Não o fazendo, inadmissível o presente recurso.
+    Nesse prisma, “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011) e que “A carência de exaurimento da jurisdição no âmbito do Tribunal a quo, configurada pela não interposição de agravo regimental da decisão monocrática que negou seguimento ao writ, também configura óbice ao conhecimento do presente recurso, por inobservância ao princípio da colegialidade insculpido no artigo 102, inciso II, alínea a, da Constituição Federal” (RHC 111.935/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 30.9.2013). Outros julgados: RHC 114.961/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2013; RHC 115492-EDcl/PE, Rel. Min. Dias Toffoli, 1ª Turma, DJe 28.8.2013.
+    Por outro lado, a fixação do regime inicial de cumprimento da pena não está condicionada somente ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais do art. 59 do Código Penal, conforme remissão do artigo 33, § 3º, do mesmo diploma legal - “A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código”.
+    O Superior Tribunal de Justiça ratificou o regime prisional inicial, pois ‘foi estabelecido o regime mais gravoso do que a pena permite, no caso o semiaberto, com base nas circunstâncias do crime, praticado mediante o emprego de uma faca, o que a teor da jurisprudência desta Corte é fundamento válido para o estabelecimento do regime mais gravoso. ’.
+    Inobstante o preenchimento do requisito objetivo previsto no art. 33, § 2º, b, do Código Penal – primariedade e pena igual ou inferior a 04 (quatro) anos – para o cumprimento da pena em regime aberto, há fundamentos idôneos adotados pelas instâncias anteriores, a justificar a imposição do regime semiaberto. Nesse prisma, “A gravidade concreta da conduta legitima a fixação de regime inicial mais gravoso para cumprimento de pena.” (HC 167.986-AgR/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 08.5.2019); e “fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada. Desde que o faça em decisão lastreada nas particularidades do caso, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do § 2º do art. 33 do Código Penal. Inteligência da Súmula 719/STF” (HC 144.805-AgR/SP, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 16.10.2017).
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministra Rosa Weber
+Relatora
