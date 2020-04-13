@@ -1,0 +1,22 @@
+DECISÃO: O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA, ao deduzir o presente recurso extraordinário, sustentou que o acórdão, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 11.357/2006), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao resolver a questão suscitada nos autos, sustentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático- -probatórios:
+    “Com efeito, a GTEMA substituiu a GDAMB no caso dos servidores públicos que migraram partir da MP 304/2006, convertida na Lei 11.357/2006, estabelecendo seu art. 17 (redação original):
+    …...................................................................................................
+    No caso, o IBAMA não demonstrou efetivamente a existência de avaliações de desempenho ou de regulamentação relativa à GTEMA. Apenas afirmou a realização de avaliações de desempenho relativas à GDAEM (Lei nº 11.156/05). De outro lado, tampouco há comprovação da alegação de que inexistem servidores ativos recebendo a GTEMA, que, segundo o dispositivo suprarreferido, é devida a todos os titulares dos cargos do PECMA, instituído no art. 12 da lei em comento:
+    …...................................................................................................
+    Dessa forma, o autor faz jus ao recebimento da GTEMA em paridade com os servidores da ativa, até o início das avaliações de desempenho dos servidores da ativa. A partir de então, passam a ser aplicáveis as disposições legais relativas ao pagamento da GTEMA aos inativos (atualmente, o art. 17-C da Lei nº 11.357/06, incluído pela Lei nº 11.907/09).”
+    Impõe-se destacar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 748.751-ED/GO, Rel. Min. CÁRMEN LÚCIA – ARE 750.843-ED/SC, Rel. Min. ROSA WEBER – ARE 794.416/CE, Rel. Min. LUIZ FUX – RE 897.967/PE, Rel. Min. EDSON FACHIN, v.g.):
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. SERVIDOR PÚBLICO FEDERAL APOSENTADO. EXTENSÃO DOS CRITÉRIOS DE CÁLCULO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE (GDAMB) E DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE (GTEMA). REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL REFLEXA.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    (ARE 765.719-AgR/SC, Rel. Min. TEORI ZAVASCKI – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 13 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
