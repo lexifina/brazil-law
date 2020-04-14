@@ -1,0 +1,31 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional contra o acórdão da Corte de origem.
+    O acórdão recorrido ficou assim ementado:
+    RECURSO INOMINADO DO ENTE PÚBLICO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES PÚBLICOS MUNICIPAIS DE BOQUIM. MAGISTÉRIO. LEI Nº 11.738/2008. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DA ADI Nº. 6147-3. DEVER DE PAGAMENTO DAS DIFERENÇAS REMUNERATÓRIAS A TÍTULO DE IMPLEMENTAÇÃO RETROATIVA DO PISO NACIONAL. 01/2015 À 04/2015. ALEGAÇÃO DE IMPOSSIBILIDADE FINANCEIRA DO MUNICÍPIO QUE NÃO MERECE GUARIDA. OBSERVÂNCIA DOS ARTIGOS 169, § 3º, CF E 4º DA LEI Nº 11.738/2008. INEXISTÊNCIA DE INTERFERÊNCIA DO PODER JUDICIÁRIO NA ESFERA ADMINISTRATIVA. MERA APLICAÇÃO DA LEI NOS SEUS CORRETOS TERMOS. SENTENÇA MANTIDA. RECURSO INOMINADO CONHECIDO E DESPROVIDO.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º e 37, inciso X, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    (...)
+    2. O piso salarial dos profissionais do magistério público da educação básica foi instituído pela Lei Federal nº 11.738/2008, que regulamenta o artigo 206, inciso VIII, da Constituição Federal e o artigo 60, inciso III, alínea “e” do ADCT, constituindo o menor valor de vencimento inicial para a formação em nível médio, na modalidade Normal, com jornada de, no máximo, 40 (quarenta) horas semanais, a ser estabelecido pela União, pelos Estados, pelo Distrito Federal e pelos Municípios.
+    3. No entanto, a Lei nº 11.738/2008 passou a ser aplicável a partir de 27/04/2011, data em que houve o julgamento de mérito da ADI 4.167, na qual o Supremo Tribunal Federal declarou a constitucionalidade do piso dos professores da educação básica com base no vencimento e não na remuneração global, além de reconhecer a matéria como norma geral de competência da União.
+    (...)
+    5. Nesse toar, o piso salarial do magistério público passou a ser reajustado anualmente por força do artigo 5º da Lei nº 11.738/2008, sendo de 13,01% em 2015, os reajustes anunciados pelo Ministério da Educação, incidentes a partir do mês de janeiro, com a vinculação de todos os entes federados às disposições da Lei nº 11.738/2008, conforme determinação expressa contida em seu artigo 2º § 1º.
+    6. Tais reajustes, cumpre registrar, foram objeto de regulamentação municipal. À vista das tabelas que funcionam como apêndices da Lei Municipal748/2015 (fl. 18 a 21), verifica-se que esta atualizou o vencimento base da carreira de acordo com o reajuste conferido anualmente ao piso salarial nacional do Magistério Público, na tentativa de sempre equiparar os valores, não se tratando de simples reajuste anual concedido pelo ente público municipal, e sim de complementação de valores abaixo do piso nacional.
+    7. À vistas das ficha financeira acostadas às fls. 16, verifica-se que a municipalidade apenas implementou os referidos aumentos após a vigência das referidas leis, do que se depreende a necessidade de retroatividade dos reajustes implementados pela legislação local a partir do mês de janeiro até abril de 2015, nos moldes do artigo 5º da lei nº 11.738/2008.
+    (...)
+    10. Desse modo, diante das peculiaridades do caso apresentado, constata-se que não há argumentos novos a ensejar a modificação da decisão fustigada, tendo o referido decisum sido prolatado de acordo com as provas existentes nos autos, não merecendo qualquer reparo, razão pela qual subscreve-se os seus fundamentos, chamando-os à colação como parte integrante deste voto, confirmando a sentença nos termos do art. 46, 2ª parte, da Lei nº 9.099/95.
+    11. Ante o exposto, o recurso inominado interposto deve ser CONHECIDO e DESPROVIDO, mantendo-se integrais os termos da sentença combatida, nos moldes do artigo 46 da Lei 9.099/95 c/c artigo 27, da Lei n.º 12.153/2009.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 14 de abril de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
