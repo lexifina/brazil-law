@@ -1,0 +1,25 @@
+Decisão: Trata-se de pedido de reconsideração formulado pela defesa em favor de Paulo Salim Maluf.
+    A defesa afirma que a pandemia do novo coronavírus constitui fato novo que agrega risco à vida e a saúde do paciente, que é idoso e portador de comorbidades (doença cardíaca e câncer de próstata).
+    Sustenta que a prisão do paciente, mesmo se tratando de domiciliar, está ultrapassando os limites de justiça, relativos ao cumprimento de pena, levando-lhe a um profundo estado de depressão com grande sofrimento psicológico. (eDOC 41, p. 4).
+    Requer que o paciente aguarde em liberdade o julgamento do agravo regimental.
+    É o breve relatório. Decido.
+    O pleito da defesa não deve prosperar, uma vez que, estando o paciente em prisão domiciliar, não há se falar em qualquer incremento do risco em decorrência da pandemia do novo coronavírus que já afeta toda a população do Brasil e do mundo.
+    Diante dessa realidade global, o Conselho Nacional de Justiça editou, no dia 17.3.2020, a Recomendação n. 62/2020, indicando a adoção de medidas preventivas à propagação da infecção (Covid-19) no âmbito do sistema de justiça prisional e socieducativo. Ou seja, a recomendação tem o objetivo de evitar a propagação do vírus dentro do sistema prisional, prevendo a adoção de medidas alternativas ao encarceramento, tal como a prisão domiciliar.
+    O Plenário do STF, nos autos da ADPF 347, negou referendo à medida liminar incidental concedida pelo relator, o Ministro Marco Aurélio, e, desta forma, consolidou o entendimento de que o enfrentamento da propagação da infecção pelo novo coronavírus, no âmbito do sistema prisional, deverá ser feito segundo a Recomendação n. 62/2020 do CNJ.
+    Nos termos de tal documento, as recomendações têm como finalidade específica, dentre outras, a proteção da vida e da saúde das pessoas privadas de liberdade, sobretudo daqueles que integram o grupo de risco, tais como idosos, gestantes e pessoas com doenças crônicas, imunossupressoras, respiratórias e outras comorbidades preexistentes que possam conduzir a um agravamento do estado geral de saúde a partir do contágio, com especial atenção para diabetes, tuberculose, doenças renais, HIV e coinfecções.
+    No caso dos autos, o paciente já se encontra em prisão domiciliar, sendo esta a providência recomendada pelo Conselho Nacional de Justiça no caso de execução penal. Confira-se:
+    Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+    I – concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante no 56 do Supremo Tribunal Federal, sobretudo em relação às:
+    a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+    b) pessoas presas em estabelecimentos penais com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, sob ordem de interdição, com medidas cautelares determinadas por órgão de sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+    II – alinhamento do cronograma de saídas temporárias ao plano de contingência previsto no artigo 9º da presente Recomendação, avaliando eventual necessidade de prorrogação do prazo de retorno ou adiamento do benefício, assegurado, no último caso, o reagendamento da saída temporária após o término do período de restrição sanitária;
+    III – concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução;
+    IV – colocação em prisão domiciliar de pessoa presa com diagnóstico suspeito ou confirmado de Covid-19, mediante relatório da equipe de saúde, na ausência de espaço de isolamento adequado no estabelecimento penal;
+    V – suspensão temporária do dever de apresentação regular em juízo das pessoas em cumprimento de pena no regime aberto, prisão domiciliar, penas restritivas de direitos, suspensão da execução da pena (sursis) e livramento condicional, pelo prazo de noventa dias;
+    Parágrafo único. Em caso de adiamento da concessão do benefício da saída temporária, o ato deverá ser comunicado com máxima antecedência a presos e seus familiares, sendo-lhes informado, assim que possível, a data reagendada para o usufruto, considerando as orientações das autoridades sanitárias relativas aos riscos epidemiológicos e em observância ao contexto local de disseminação do novo coronavírus.
+    Nesses termos, considerando que as medidas recomendadas pelo CNJ já foram implementadas no caso concreto, e não havendo qualquer incremento do risco, indefiro o pedido de reconsideração da defesa.
+    Publique-se. Intime-se.
+    Brasília, 14 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
