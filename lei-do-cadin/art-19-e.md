@@ -1,0 +1,1 @@
+Art. 19-E. Em caso de empate no julgamento do processo administrativo de determinação e exigência do crédito tributário, não se aplica o voto de qualidade a que se refere o § 9º do art. 25 do Decreto nº 70.235, de 6 de março de 1972, resolvendo-se favoravelmente ao contribuinte.
