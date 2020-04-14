@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO DOMICILIAR – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Ministério Público do Estado de São Paulo apresentou denúncia contra o paciente e outras duas pessoas, imputando-lhes a prática do crime tipificado no artigo 157, § 2º, incisos I e II (roubo com causas de aumento alusivas ao emprego de arma de fogo e concurso de agentes), do Código Penal – redação anterior à Lei nº 13.654/2018. Narrou que, mediante violência e grave ameaça exercida com arma de fogo, abordaram a vítima, subtraindo a quantia de R$ 300,00, 5 lanches e 2 refrigerantes.
+    O Juízo da Segunda Vara Criminal da Comarca de Barretos/SP, no processo nº 0008779-86.2013.8.26.0066, condenou o paciente a 5 anos e 4 meses de reclusão, em regime inicial de cumprimento semiaberto, ao pagamento de 13 dias-multa e a reparar o prejuízo patrimonial sofrido pela vítima. Fixou a pena-base no mínimo legal, tendo em vista o piso de 4 e o teto de 10 anos. Na terceira etapa da dosimetria, observou, em 1/3, a causa de aumento versada no artigo 157, § 2º, incisos I e II, do Código Penal. Teve como comprovada a utilização da arma.
+    A Quinta Câmara Criminal do Tribunal de Justiça proveu parcialmente apelação interposta pela defesa, para afastar a reparação do prejuízo.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 568.464/SP, inadmitido pelo Relator.
+    O impetrante sustenta viável a desclassificação da conduta para o crime de furto qualificado. Reportando-se ao depoimento da vítima, afirma não configurada violência ou grave ameaça, no que os agentes, segundo argui, apenas anunciaram o roubo. Sublinha adequado, uma vez desclassificado o comportamento imputado, o reconhecimento da insignificância. Aludindo à ausência de apreensão e realização de perícia na arma, aduz não configurada a causa de aumento prevista no artigo 157, § 2º, inciso I, do Código Penal. Diz haver o corréu confessado, apenas, a utilização de simulacro de arma. Aponta sem fundamentação a imposição do regime semiaberto, tendo como viável o aberto. Sublinha pertinente o cumprimento da sanção em regime domiciliar, considerada a existência de filha, nascida em 16 de fevereiro de 2020, dependente dos cuidados paternos e a crise relacionada à pandemia da covid-19.
+    Requer, no campo precário e efêmero, a observância da prisão domiciliar. No mérito, busca a desclassificação da conduta para o crime de furto, reconhecendo-se a insignificância. Sucessivamente, pretende seja afastada a causa de aumento prevista no artigo 157, § 2º, inciso I, do Código Penal e observado o regime de cumprimento aberto.
+    Consulta ao sítio do Tribunal de Justiça revelou o trânsito em julgado do título condenatório.
+    A fase é de apreciação da medida acauteladora.
+    2. O cumprimento de sanção na modalidade domiciliar pressupõe situação excepcional. Nos termos do artigo 117 da Lei nº 7.210/1984, o beneficiário de regime aberto poderá recolher-se em residência particular quando maior de 70; acometido de doença grave; ter filho menor, deficiente físico ou mental; gestante. Uma vez encontrar-se o paciente no regime semiaberto, descabe o implemento da providência. Quanto ao alegado acerca da existência de filha, nascida em 16 de fevereiro de 2020, o artigo 318, inciso VI, do Código de Processo Penal tem aplicação em relação à prisão preventiva, revelando-se inviável a observância do preceito nos casos de cumprimento de pena decorrente de título condenatório alcançado pela preclusão maior.
+    O argumento acerca da pandemia relacionada ao novo coronavírus é insuficiente ao acolhimento da providência pretendida. O paciente cumpre pena em virtude de crime cometido com grave ameaça, não havendo notícia de encontrar-se acometido de qualquer doença que possa provocar o agravamento, a partir de contágio, do estado geral de saúde.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
