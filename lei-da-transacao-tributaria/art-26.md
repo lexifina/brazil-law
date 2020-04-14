@@ -1,0 +1,1 @@
+Art. 26. A proposta de transação poderá ser condicionada ao compromisso do contribuinte ou do responsável de requerer a homologação judicial do acordo, para fins do disposto nos incisos II e III do caput do art. 515 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).

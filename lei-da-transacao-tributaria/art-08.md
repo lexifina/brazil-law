@@ -1,0 +1,1 @@
+Art. 8º Na hipótese de a proposta de transação envolver valores superiores aos fixados em ato do Ministro de Estado da Economia ou do Advogado-Geral da União, a transação, sob pena de nulidade, dependerá de prévia e expressa autorização ministerial, admitida a delegação.

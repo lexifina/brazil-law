@@ -1,0 +1,2 @@
+Art. 24. A transação relativa a crédito tributário de pequeno valor será realizada na pendência de impugnação, de recurso ou de reclamação administrativa ou no processo de cobrança da dívida ativa da União.
+Parágrafo único. Considera-se contencioso tributário de pequeno valor aquele cujo crédito tributário em discussão não supere o limite previsto no inciso I do caput do art. 23 desta Lei e que tenha como sujeito passivo pessoa natural, microempresa ou empresa de pequeno porte.
