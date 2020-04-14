@@ -1,0 +1,1 @@
+Art. 7º A proposta de transação e a sua eventual adesão por parte do sujeito passivo ou devedor não autorizam a restituição ou a compensação de importâncias pagas, compensadas ou incluídas em parcelamentos pelos quais tenham optado antes da celebração do respectivo termo.

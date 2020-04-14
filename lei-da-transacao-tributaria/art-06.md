@@ -1,0 +1,1 @@
+Art. 6º Para fins do disposto nesta Lei, considera-se microempresa ou empresa de pequeno porte a pessoa jurídica cuja receita bruta esteja nos limites fixados nos incisos I e II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006, não aplicados os demais critérios para opção pelo regime especial por ela estabelecido.
