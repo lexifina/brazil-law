@@ -1,0 +1,25 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REQUERIMENTOS DE RETIRADA DO AMBIENTE VIRTUAL: RESOLUÇÃO STF N. 642/2019. AUSÊNCIA DE PREJUÍZO ÀS REQUERENTES: INDEFERIMENTO.
+Relatório
+    1. Ação direta de inconstitucionalidade, com requerimento de medida cautelar, ajuizada em 21.1.1999 pelo Partido do Movimento Democrático Brasileiro – PMDB contra a Lei matogrossense n. 7.098/1998, pela qual se “consolidam normas referentes ao Imposto sobre Operações relativas a Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS”.
+    Em 2.4.2020, determinei a inclusão deste feito na pauta de julgamento virtual do Plenário do Supremo Tribunal Federal, agendado para iniciar em 17.4.2020.
+    2. Confederação Nacional de Serviços – CNS, Sindicato das Empresas de Processamento de Dados e Serviços de Informática do Estado de São Paulo – SERPOSP e Associação Brasileira das Empresas de Software – ABES, admitidas como amici curiae, pedem a retirada de pauta da ação da sessão virtual.
+    Associação Brasileira das Empresas de Software – ABES assevera que “o caso está agora pautado para julgamento virtual em lista, a se iniciar dia 17/4, marco a partir do qual esse tema, essencial ao tempo presente, no qual o país segue de pé exatamente em razão dos softwares que têm interconectado as pessoas mesmo com a pandemia, contará com a deliberação da Suprema Corte, sem que advogados assomem a tribuna, nem possa ir aos gabinetes, muito menos contar com as audiências físicas com os julgadores e julgadores da Casa”.
+    Confederação Nacional de Serviços – CNS e Sindicato das Empresas de Processamento de Dados e Serviços de Informática do Estado de São Paulo – SERPOSP asseveram que, “diante da relevância da matéria, entende-se que é de suma importância que o julgamento ocorra em sessão presencial com a participação de todos Ministros deste C. STF, em conjunto com as demais ações ajuizadas mais recentemente que tratam da matéria e levam em consideração os avanços tecnológicos nas operações com software e, após vasta discussão e realização de sustentação oral pelas partes e pelos amici curiae”.
+    Examinados os elementos havidos no processo, DECIDO.
+    Razão jurídica não assiste às requerentes.
+    3. No inc. II do art. 4º da Resolução n. 642/2019, dispõe-se que “não serão julgados em ambiente virtual as listas ou os processos com pedido de: II – destaque feito por qualquer das partes, desde que requerido até 48 (quarenta e oito) horas antes do início da sessão e deferido pelo relator”.
+    Esse dispositivo legal submete o deferimento ou indeferimento do pedido de destaque ao relator, que verificará, em cada caso, circunstância apta a justificar o acolhimento do pleito. Assim, por exemplo:
+    “Verifica-se que, embora haja previsão para pedido de destaque seu deferimento está condicionado ao exame do relator.
+    Registro, inicialmente, que o julgamento em ambiente virtual não prejudica a análise da matéria, uma vez que a decisão recorrida, o voto do relator, bem como as demais peças processuais podem ser visualizadas por todos os Ministros, o que propicia uma ampla análise do processo. Por esse motivo, só excepcionalmente se justifica a concessão de pedido de destaque.
+    No caso, não vislumbro nenhuma especificidade no caso para justificar o julgamento presencial, mormente se levarmos em conta a discussão em tela é objeto jurisprudência pacífica na Corte.
+    Ante o exposto, indefiro o pedido de destaque” (ACO n. 3.273-AgR, Relator o Ministro Dias Toffoli, DJe 12.8.2019).
+    O uso de ferramentas tecnológicas para o exercício da jurisdição é adotado por este Supremo Tribunal como forma de se cumprir o postulado constitucional da celeridade processual. Nele não há prejuízo ao direito de defesa, não havendo limitação nem prejuízo na análise do caso pelos Ministros.
+    No julgamento em ambiente virtual, o voto do relator e as demais peças processuais podem ser visualizadas pelos Ministros, propiciando ampla análise do processo. Assim, só excepcionalmente se justifica o pedido de destaque, não se configurando, no caso em análise, a situação autorizadora do deferimento do pleito.
+    4. Pelo art. 5º-A da Resolução n. 642/2019 do Supremo Tribunal Federal, acrescido pela Resolução n. 669/2020, assegura-se aos representantes das partes e dos demais habilitados nos autos a realização de sustentação oral em ambiente virtual:
+    “Nas hipóteses de cabimento de sustentação oral previstas no regimento interno do Tribunal, fica facultado à Procuradoria-Geral da República, à Advocacia-Geral da União, à Defensoria Pública da União, aos advogados e demais habilitados nos autos encaminhar as respectivas sustentações por meio eletrônico após a publicação da pauta e até 48 horas antes de iniciado o julgamento em ambiente virtual”.
+    5. Pelo exposto, indefiro os requerimentos de retirada da presente ação da pauta da sessão virtual.
+    Publique-se.
+    Brasília, 14 de abril de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
