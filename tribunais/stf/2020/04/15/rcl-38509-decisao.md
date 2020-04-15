@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de reclamação na qual se sustenta que o ato judicial ora impugnado teria desrespeitado a autoridade da Súmula Vinculante nº 26/STF, que possui o seguinte teor:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.” (grifei)
+    A parte ora reclamante, para justificar o alegado desrespeito ao enunciado sumular vinculante em questão, aduz que a autoridade judiciária reclamada, ao ordenar a realização de exame criminológico, deixou de indicar elementos concretos aptos a legitimar a adoção de tal medida.
+    Sendo esse o contexto, passo a apreciar a postulação em causa. E, ao fazê-lo, entendo que, considerados os elementos contidos nestes autos, o ato objeto desta ação reclamatória não desrespeitou a autoridade da Súmula Vinculante nº 26/STF.
+    É que as razões de decidir invocadas no ato judicial ora questionado (ainda mais se se considerar o contexto em que proferido) revelam-se  em conformidade com aquelas que deram suporte à Súmula Vinculante nº 26/STF, o que basta para afastar a alegação de desrespeito à autoridade daquele pronunciamento sumular do Supremo Tribunal Federal.
+    Com efeito, a decisão proferida pelo Juízo de Direito da 2ª Vara Criminal, Execuções Criminais, Corregedoria de Presídios e Polícia da comarca de Limeira/SP, objeto desta reclamação, está assim fundamentada:
+    “A concessão de progressão de regime depende da análise de duas espécies de requisitos.
+    O primeiro deles é o requisito objetivo. Na análise deste basta simples conferência do tempo de pena efetivamente cumprido e a aplicação da fração pertinente.
+    No caso em tela tal requisito encontra-se devidamente preenchido.
+    Ocorre que existe a necessidade de avaliação, ainda,  do chamado requisito subjetivo.
+    Este é analisado com base no mérito do condenado.
+    Nesse sentido, o sentenciado deve demonstrar méritos a justificar a progressão (TACRIM-SP, HC 142.282, JTACRIM-SP, 85:83).
+    E, com base no disposto nos artigos 34 e 35 do Código Penal e também no artigo 8º da Lei de Execuções Penais, o instrumento adequado para a correta individualização da pena é o exame criminológico, que deve ser realizado no início do cumprimento das penas e, posteriormente, para fins de progressão.
+    O exame criminológico não se confunde com o exame de classificação.
+    O exame criminológico é mais restrito e analisa questões de ordens psicológicas e psiquiátricas do sentenciado visando revelar elementos como maturidade, frustrações, vínculos afetivos, grau de agressividade, periculosidade, entre outros fatores, e, a partir daí, prognosticar a potencialidade de novas práticas criminosas.
+    Consigno que, para tal finalidade, é insuficiente o atestado de bom comportamento carcerário subscrito pelo diretor da unidade.
+    Nesse sentido, o julgado do STF no ‘Habeas Corpus’ 112.464/RS: ‘I – Prevalece nesta Corte o entendimento no sentido de que a alteração do artigo 112 da LEP pela Lei 10.792/2003 não proibiu a realização do exame criminológico, quando necessário para a avaliação do sentenciado, tampouco proibiu a sua utilização para a formação do convencimento do magistrado sobre o direito de promoção para regime mais brando.’ Publicado no Diário de Justiça de 14 de Setembro de 2012 – relator Ministro Ricardo Lewandowski.
+    Por este motivo, neste caso concreto, considerando que não há nos autos elementos suficientes para que este Magistrado possa analisar o requisito subjetivo do sentenciado, indispensável a realização do exame criminológico, recomendado pela Lei, para correta análise do pedido.
+    Vale lembrar que o crime praticado por ALLAN DIMAS MILHANI de tráfico ilícito de drogas (artigo 33, ‘caput’, da Lei 11.343/06) atenta contra a pessoa e indica periculosidade do sentenciado.
+    Oficie-se ao Centro de Detenção Provisória, com  urgência, requisitando-se a vinda do referido exame criminológico completo ou, na sua impossibilidade, avaliação psicossocial a ser realizada pela equipe volante da SAP, bem como relatório circunstanciado, subscrito pelo Diretor de Disciplina e Diretor-Geral, a respeito da rotina e conduta do sentenciado, e boletim informativo, atestado de comportamento carcerário, no prazo de 30 dias.” (grifei)
+    Vê-se, desse modo, que o ato decisório ora reclamado ajusta-se ao conteúdo do enunciado sumular alegadamente transgredido, pois a deliberação emanada do Juízo de Direito da 2ª Vara Criminal, Execuções Criminais, Corregedoria de Presídios e Polícia da comarca de Limeira/SP apoiou-se em fundamentação que tem por suporte o reconhecimento (expressamente autorizado pela decisão desta Suprema Corte) de que não havia, nos autos, elementos suficientes para demonstrar o preenchimento dos requisitos subjetivos inerentes ao benefício legal em questão.
+    Cumpre acentuar, ainda, que a diretriz consagrada no enunciado sumular vinculante em referência tem sido reafirmada por esta Suprema Corte em casos nos quais se instaurou controvérsia virtualmente idêntica à que ora se examina (Rcl 18.158/SP, Rel. Min. CELSO DE MELLO – Rcl 18.589/SP, Rel. Min. GILMAR MENDES – Rcl 18.734-AgR/SP, Rel. Min. CELSO DE MELLO – Rcl 18.764/SP, Rel. Min. CÁRMEN LÚCIA – Rcl 20.941/SP, Rel. Min. MARCO AURÉLIO – Rcl 20.964/SP, Rel. Min. LUIZ FUX – Rcl 20.968/SP, Rel. Min. ROBERTO BARROSO, v.g.):
+    “RECLAMAÇÃO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 26 DO SUPREMO TRIBUNAL FEDERAL. EXAME CRIMINOLÓGICO DETERMINADO DE FORMA FUNDAMENTADA. MANIFESTA IMPROCEDÊNCIA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.”
+    (Rcl 18.371/SP, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Em suma: resulta claro, na espécie, inexistir ofensa à Súmula Vinculante nº 26/STF.
+    Sendo assim, e pelas razões expostas, julgo improcedente a presente reclamação.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 15 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
