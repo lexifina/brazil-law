@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 4ª Região reformou o entendimento do Juízo para extinguir o feito sem exame de mérito, assentando a ilegitimidade ativa da confederação na defesa em juízo do direito das empresas filiadas às federações e sindicatos que representa.
+    Eis a síntese do acórdão recorrido:
+    TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. CONFEDERAÇÃO. ILEGITIMIDADE ATIVA.
+    A federação possui legitimidade ativa restrita à discussão judicial de seus próprios direitos e dos sindicatos que representa, não se estendendo a prerrogativa aos direitos das empresas a estes associadas.
+    No extraordinário a recorrente aponta a violação dos artigos 5º, incisos XXXV, LV e LXX, alínea “b”, da Constituição Federal. Sublinha a nulidade do acórdão recorrido. Sustenta a legitimidade ativa para atuar na defesa coletiva dos direitos e interesses das empresas filiadas às federações que representa. Destaca previsão contida no Estatuto Social, possibilitando a representação judicial das empresas prestadoras de serviços filiadas às federações a ela vinculadas em âmbito nacional.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se faze voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécia, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par deste aspecto, a decisão impugnada está em consonância com a jurisprudência do Supremo no sentido da impossibilidade de ter-se a defesa de filiados a sindicatos e associações exercida pelas federações. Confiram os seguintes pronunciamentos:
+    Direito Civil. Agravo interno em recurso extraordinário com agravo. Mandado de segurança. Federação. Substituição processual. Impossibilidade. Precedentes. Reapreciação dos fatos e do material probatório constantes dos autos. Súmulas 279 e 454/STF. Caráter protelatório. Imposição de multa.
+    1. A jurisprudência desta Corte não admite a atuação de Federação, na condição de substituta processual, na defesa direta de filiados à associações ou organizações sindicais filiadas à própria federação demandante. Precedentes.
+    2. A solução da controvérsia demanda uma nova reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279 e 454/STF), procedimentos inviáveis em recurso extraordinário. 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+    (agravo regimental no recurso extraordinário co agravo nº 872.818, Primeira Turma, relator o ministro Luís Roberto Barroso, com acórdão publicado no Diário da Justiça de 14 de março de 2017).
+    Agravo regimental no recurso extraordinário. Direito constitucional e processual civil. Ofensa ao art. 8º, inciso III, da Constituição Federal. Não ocorrência. Federação. Substituição processual. Impossibilidade. Fatos e provas. Reexame. Inadmissibilidade. Precedentes.
+    1. Conforme a redação do art. 8º, inciso III, da Constituição Federal, somente os sindicatos possuem legitimidade para atuar como substitutos processuais.
+    2. Inadmissível, na instância extraordinária, o exame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. (agravo regimental no recurso extraordinário nº 753.226, Segunda Turma, relator ministro Dias Toffoli, acórdão publicado no Diário da Justiça de 1º de julho de 2015).
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 15 de abril de 2020
+Ministro MARCO AURÉLIO
+Relator
