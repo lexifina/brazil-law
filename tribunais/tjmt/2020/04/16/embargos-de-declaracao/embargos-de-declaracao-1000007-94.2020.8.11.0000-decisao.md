@@ -1,0 +1,27 @@
+RECURSO DE EMBARGOS DE DECLARAÇÃO N.o 1000007-94.2020.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Embargos de Declaração oposto por TÉRCIO SOARES DA SILVA em face da decisão que não conheceu do Agravo de Instrumento em virtude da falta de interesse recursal.
+Nas suas razões, o Embargante alega que a decisão é omissa e contraditória, eis que “recorreu no próprio processo em que alhures tornou-se parte, tendo sido previamente admitido a atuar como terceiro juridicamente interessado, processo no qual praticou efetivos atos processuais, sem nunca ter recusada ou impugnada sua qualidade, tanto que foi proferida decisão pelo juízo a quo quanto ao seu pleito (devolução valores pagos pela arrematação – ID 29075975), posto que é destinatário e diretamente atingido pela decisão da qual veio a agravar a este E. Tribunal”.
+Sustenta que está claro o seu interesse em recorrer, pois, conforme frisou na inicial do Agravo, o Exequente não tem condições financeiras para arcar com a devolução da comissão recebida pela leiloeira.
+Sob tais argumentos, sustenta que o Instrumental deve ser conhecido e provido para que a leiloeira devolva os valores devidamente corrigidos, os quais foram recebidos por hasta pública que foi anulada.
+É o relatório. Decido.
+A questão debatida nestes Embargos dispensa o julgamento pelo Colegiado, sendo de rigor a análise monocrática, conforme artigo 1.024, § 2.o, do CPC.
+Com efeito, os Embargos Declaratórios constituem instrumento processual destinado a sanar obscuridade, contradição, omissão do julgado e erro material, não tendo a finalidade de solucionar o inconformismo da parte, conforme estabelece o art. 1.022, II, do Código de Processo Civil.
+Ao examinar a peça recursal, denota-se que não há qualquer vício a ser sanado na decisão objurgada,a qual foi clara e precisa ao se pronunciar sobre a matéria posta no Agravo, baseando-se nos fatos e fundamentos trazidos pelas partes, à luz da legislação, doutrina e jurisprudência aplicáveis.
+Com efeito, na decisão embargada consta expressamente que o Agravo de Instrumento foi interposto pelo Embargante em face da decisão proferida pela Juíza da Vara Única da Comarca de Itaúba que, nos autos da Ação de Execução de Título Extrajudicial n.o 9-56.1998.8.11.0096, movida pelo primeiro Agravado VALMIR ASSIS DE OLIVEIRA em face de JOSÉ EDUARDO RAMOS GONÇALVES, anulou os atos subsequentes à citação, ordenou a desconstituição da penhora do imóvel de fls. 54 e, de conseguinte, anulou a hasta pública e a arrematação de fls. 327, de modo que o valor pago a título de comissão ao leiloeiro deve ser restituído ao Arrematante/Embargante pelo Exequente.
+Consignei, ainda, que o Arrematante/Agravante não tem legitimidade e tampouco interesse recursal para se opor à decisão que determinou que o Exequente deve suportar as despesas com o leilão, inclusive o valor referente à comissão da leiloeira, pois somente o próprio Exequente é o legítimo interessado em recorrer do ficou estipulado.
+No caso, incide o disposto nos arts. 17 e 18 do CPC, no sentido de que, para postular em juízo, é necessário ter interesse e legitimidade, e a ninguém é dado pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.
+Ademais, conforme dispõe o art. 996 do CPC, o recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica, condições nas quais não se enquadra o Arrematante do imóvel, ora Agravante.
+Vale ressaltar que o Agravante não demonstrou qualquer tipo de prejuízo com o teor da decisão, eis que será reembolsado do valor pago a título de comissão pela parte Exequente e não pela própria leiloeira. Não se vislumbra, com isso, que haja qualquer prejuízo ao Agravante, e que o legitime a promover o recurso.
+Importante relembrar que é necessária a identificação do pressupostos intrínsecos para o conhecimento do recurso, quais sejam: a legitimidade, o cabimento e o interesse recursal.
+Nesse sentido, oportuna a lição de Nelson Nery Jr ao adotar os critérios propostos por Barbosa Moreira:
+Os pressupostos intrínsecos são aqueles que dizem respeito à decisão recorrida em si mesmo considerada. Para serem aferidos, leva-se em consideração o conteúdo e a forma da decisão impugnada. De tal modo que, para proferir-se o juízo de admissibilidade, toma-se o ato judicial impugnado no momento e da maneira como foi prolatado. São eles o cabimento, a legitimidade para recorrer e o interesse em recorrer.
+Mais a fundo, acerca do interesse recursal:
+Da mesma forma com que se exige o interesse processual para que a ação seja julgada pelo mérito, há necessidade de estar presente o interesse recursal para que o recurso possa ser examinado em seus fundamentos. Assim, poder-se-ia dizer que incide no procedimento recursal o binômio necessidade + utilidade como integrantes do interesse em recorrer.
+Ademais, embora o Agravante sustente que o Exequente não tem condições de pagar/devolver o valor pago a título de comissão, não há qualquer prova nos autos das suas condições financeiras, bem como que este se negou a pagar a quantia, de modo que não há demonstração do interesse recursal do Embargante.
+Assim, conclui-se que não há qualquer vício a ser sanado, devendo os Embargos serem rejeitados.
+Ante o exposto, considerando que não há na decisão impugnada quaisquer dos vícios previstos no artigo 1022, do CPC, rejeito os Embargos de Declaração e mantenho intacta a decisão embargada.
+Intime-se.
+Cuiabá, 16 de abril de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
