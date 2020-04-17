@@ -1,0 +1,15 @@
+Trata-se de reclamação ajuizada contra decisão do Desembargador Presidente do Tribunal de Justiça do Distrito Federal e Territórios – TJDFT que negou seguimento ao recurso extraordinário interposto pela defesa, “violando […] a competência constitucional do Supremo Tribunal Federal para apreciar a questão de mérito”.
+    O reclamante relata que interpôs recurso extraordinário contra o acórdão de segunda instância que deu provimento à apelação do Ministério Público do Distrito Federal, porém a autoridade ora reclamada negou seguimento ao apelo extremo com base no julgamento do Supremo Tribunal Federal, sob a sistemática da Repercussão Geral, do Tema 280 (págs. 4-7 da petição inicial).
+    Defende “ter havido equívoco da decisão Reclamada quanto ao alcance da decisão em Repercussão Geral do Tema 280, do Supremo Tribunal Federal” (pág. 8 da petição inicial).
+    Daí porque o pretende, por meio desta reclamação, “ver apreciada pela Magna Corte se a invasão de domicílio, quando ausentes as fundadas razões, devidamente justificadas, ofende o art. 5º, inciso XI, da Constituição Federal”, pelos motivos que expõe (págs. 8-13 da petição inicial).
+    Requer, ao final, que “seja julgada procedente a presente Reclamação, cassando a decisão reclamada, a fim de [que] seja ABSOLVIDO do crime que lhe foi imputado” (págs. 14-15 da petição inicial).
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que a pretensão não merece acolhida. Isso porque o pedido formulado pelo reclamante não se enquadra em nenhuma das hipóteses de cabimento de reclamação previstas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Suprema Corte, seja para garantir a autoridade de suas decisões e súmulas vinculantes.
+    Alegando a ilegalidade do ingresso de policiais em sua residência, o qual teria ocorrido a partir de denúncias anônimas, o reclamante insurge-se contra decisão do Desembargador Presidente do Tribunal de Justiça do Distrito Federal e Territórios – TJDFT que, ao negar seguimento ao recurso extraordinário da defesa, teria aplicado, equivocadamente, o entendimento desta Suprema Corte firmado no julgamento do Tema 280 da Repercussão Geral.
+    Todavia, é inadequada a utilização desta via reclamatória como sucedâneo de recurso ordinário cabível, diretamente no Supremo Tribunal Federal. Nesse sentido: Rcl 11.022-ED/DF, de relatoria da Ministra Cármen Lúcia; Rcl 4.803/SP, de relatoria do Ministro Dias Toffoli; Rcl 9.127-AgR/RJ, de relatoria do Ministro Ayres Britto; e Rcl 6.078-AgR/SC, de relatoria do Ministro Joaquim Barbosa. Aliás, em consulta ao sítio eletrônico do TJDFT, há registro de impugnação daquela decisão por meio do recurso de agravo.
+    Com essas considerações, entendo que é inviável a utilização da via reclamatória em circunstâncias como a aqui descrita.
+    Ante o exposto, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de abril de 2020.
+Ministro Ricardo Lewandowski
+Relator
