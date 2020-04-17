@@ -1,0 +1,33 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por José Pedro Said Junior e outros, em favor de Diogo Marinho da Silva, contra decisão proferida pelo Ministro Félix Fischer do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC n. 571.760/PR.
+    Consta dos autos que o paciente está preso preventivamente pela prática dos delitos descritos nos arts. 288, 159 e 180 do Código Penal e no art. 16 da Lei n. 10.823/03, pois, juntamente com outros 11 corréus, associaram para a prática de diversos crimes.
+    Irresignada, a defesa impetrou habeas corpus no TJPR postulando, em suma, a revogação da constrição cautelar.
+    O pedido liminar foi indeferido, pendente o julgamento do mérito. (eDOC 2, p. 57)
+    Daí a impetração de novo writ no Superior Tribunal de Justiça, que indeferiu liminarmente o mandamus por óbice da Súmula 691/STF.
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza o argumento no sentido de que o paciente sofre constrangimento ilegal em virtude da demora na análise da legalidade de sua sua custódia cautelar.
+    Argumenta excesso de prazo para a formação da culpa.
+    Alega, ainda, que com o avanço da contaminação do COVID-19, a manutenção da prisão do réu viola os direitos humanos.
+    É o relatório.
+    Passo a decidir.
+    Trata-se de habeas corpus no qual a defesa insurge-se contra decisão monocrática proferida pelo Ministro Félix Fischer do STJ, que indeferiu liminarmente o HC n. 571.760/PR
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão de mérito objeto de exame definitivo pelo STJ, ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013; HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013; HC 127.975-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 3.8.2015 e HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a decisão do STJ. Aliás, no que se refere ao tema, tenho-me posicionado, na 2ª Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se manifestou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no art. 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque o alegado excesso de prazo para a formação da culpa está justificado pela quantidade de réus e pela complexidade da causa.
+    Cito, a propósito, trechos da decisão proferida pelo Tribunal de origem:
+    “É o essencial a ser relatado.
+    DECIDO. Compulsando os autos, vislumbra-se novamente que o pedido não comporta deferimento.2.Em consonância com parecer ministerial, tem-se que a manutenção da prisão do requerente é medida que se impõe, conforme já discutido em momentos anteriores, nos autos 0013783-35.2017.8.16.0069e 0001471-56.2019.8.16.0069.Ainda que a defesa tenha apresentado um novo pedido, não demonstrou qualquer fato que justificasse a revogação da medida imposta, nenhum argumento novo, permanecendo, portanto, os pressupostos que fundamentaram o decreto prisional. Em análise, constato a existência de indícios suficientes de autoria e prova da materialidade do crime imputado ao requerente, o que se pode observar pelos documentos juntados ao feito principal. A defesa alega excesso de prazo, sustentando que o requerente se encontra detido há mais de 03(três) anos. Afirma ainda que, estando os autos conclusos para sentença, houve a conversão do feito em diligências, para juntada de certidões de antecedentes criminais dos réus, referentes a outros estados, o que ocasionará maior demora para formação da culpa.
+    Primeiramente, constatou-se a necessidade de tal diligência, em virtude da maioria dos réus do processo serem de outro estado. Com isso, para melhor análise de cada um, principalmente no caso de condenação, imperiosa se faz a juntada dos antecedentes criminais dos demais estados, vez que, no Paraná, muitos deles são considerados primários.
+    Outrossim, conforme se observa do feito principal, são 11 (onze) réus e 12 (doze) fatos, ou seja, um caso muito complexo, que demanda tempo e cuidado para análise e julgamento. Vale registrar que existem diversas testemunhas arroladas no processo, algumas residentes fora da Comarca, fazendo com que o deslinde do feito demore ainda mais”. (eDOC 2, 57-58)
+    Quanto à questão relacionada a pandemia do coronavírus, o Plenário do STF na ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar quanto à matéria de fundo, nos termos do voto do Ministro Alexandre de Moraes. Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+    Por fim, muito embora, no meu entender, o paciente tenha direito à audiência de custódia, pois preso preventivamente, o atual estado pandêmico não a recomenda, nos termos da própria Recomendação do CNJ invocada pelo impetrante.
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, denego a ordem, com fundamento no artigo 192, caput , do RISTF. Remeto os autos ao Juiz da origem para que reavalie a prisão preventiva do paciente, à luz da recomendação n. 62/2020 do CNJ, levando-se em conta as peculiaridades do caso concreto.
+    Comunique-se ao juízo de origem, ao TJPR e ao STJ.
+    Publique-se.
+    Brasília, 17 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
