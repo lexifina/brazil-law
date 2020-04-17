@@ -1,0 +1,41 @@
+SEGUNDA CÂMARA CÍVEL
+RECURSO DE APELAÇÃO CÍVEL No 1001240-54.2019.8.11.0003
+APELANTE(S):
+CLAYTON EDUARDO LENTE DA SILVA
+APELADO(S):
+BANCO DO BRASIL S/A
+BANCO PAN S/A
+BANCO BRADESCO S/A
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Trata-se de Recurso de apelação cível interposto por CLAYTON EDUARDO LENTE DA SILVA contra a sentença proferida na Ação Revisional de Contrato de Empréstimo c.c Obrigação de Fazer c.c Tutela de Urgência n. 1001240-54.2019.8.11.000 ajuizada em desfavor de BANCO DO BRASIL S/A, BANCO PAN S/A e BANCO BRADESCO S/A, que indeferiu a petição inicial e extinguiu o feito, nos termos dos artigos 485, I, do CPC/15, em razão da inércia da parte autora que, “instada a proceder à emenda à inicial, persistiu com a irregularidade, conforme se observa pelo documento juntado no Id. 17941702 – pág. 09/10.” (ID. 33516459), condenando-a ao pagamento das custas processuais.
+Em síntese, sustenta o apelante que ajuizou demanda em 13/06/2018 em face dos apelados e da Caixa Econômica Federal, perante a 1a Vara Federal da SSJ de Rondonópolis (Processo origem no 1000265 -48.2018.4.01.3602), alegando que, por problemas financeiros e graves problemas de saúde de seus pais, recorreu a diversos empréstimos junto às citadas instituições, levando-o a uma situação de superendividamento.
+Esclarece que o processo na Justiça Federal foi declarado extinto sem exame do mérito em relação à Caixa Econômica Federal e declinada a competência para o julgamento para a Justiça Comum em relação às outras requeridas.
+Afirma, contudo, que na Justiça Comum a demanda também fora julgada extinta sem exame do mérito, sendo condenado ao pagamento de custas processuais, malgrado seja beneficiário da assistência judiciaria gratuita.
+Prossegue sustentando que, em que pese serem documentos indispensáveis à análise do mérito da demanda e para concessão da assistência judiciária gratuita a que o apelante faz jus, estranhamente tais documentos não constam dos presentes autos.
+Diante de tais argumentos, pugna pela nulidade da r. sentença, reiterando o pedido de beneficio da justiça gratuita diante da sua situação de hipossuficiência.
+Contrarrazões BANCO BRADESCO S/A - ID. 33516479.
+Contrarrazões BANCO DO BRASIL S/A - ID. 33516487.
+Contrarrazões BANCO PAN S/A - ID. 33516499.
+É o relatório.
+Decido.
+Consoante se verifica dos autos, a controvérsia do presente recurso versa tão somente quanto à concessão ou não do beneficio da assistência judiciária gratuita ao apelante, uma vez que tal pedido não fora apreciado pelo juízo monocrático, que de plano, extinguiu a ação pelo indeferimento da petição inicial (art. 485, I, do CPC/15).
+Pois bem.
+Trata-se de questão consolidada neste Tribunal e no Superior Tribunal de Justiça, razão pela qual passo a decidir de forma monocrática.
+O direito à concessão do benefício pretendido pode ser deferido mediante simples declaração da parte de que não possui meios financeiros para custear as despesas processuais. Porém, o julgador pode negá-lo quando não encontrar elementos que atestem essa afirmação.
+Ademais, não se pode perder de vista que o direito à gratuidade da justiça é assegurado àquele que for verdadeiramente necessitado e não ao que se diz necessitado, inclusive pela simples leitura das peças processuais extrai-se informações relevantes sobre a capacidade financeira da parte, sendo com base nisso que se deferirá ou não a gratuidade da justiça.
+No caso sub judice, constata-se que o agravante é funcionário público federal (professor de ensino superior – UFMT), percebendo subsidio bruto mensal de R$ 16.360,00 em out/2017, R$32.151,39 em nov/2017, R$32.151,39 em dez/2017, R$ 16.424,07 em jan/2018, R$ 20.413,83 em fev/2018, R$ 16.424,07 em março/2018, R$ 16.402,73 em abril/2018 e R$ 13.139,15 em maio/2018.
+Assim, conquanto afirme problemas financeiros e graves problemas de saúde de seus pais, tendo que recorrer a diversos empréstimos junto às citadas instituições, levando-o a uma situação de superendividamento, verifica-se que, além de não comprovado tais gastos com problemas de saúde dos pais, todos os empréstimos bancários foram assumidos livremente e usufruídos indistintamente pelo agravante, de modo que perfeitamente possível suportar as custas processuais sem prejuízo de sua mantença ou de sua família.
+Nestes termos, outro destino não resta ao presente recurso a não ser o desprovimento, e sem que isso ofenda aos incisos XXXV e LXXIV do artigo 5o da Constituição Federal, na medida em que não cabe ao Estado assumir despesas de quem tem condições de atendê-las, sob pena de não poder prover aquelas dos que realmente necessitam.
+Sobre o tema, os doutrinadores NELSON NERY JÚNIOR e ROSA MARIA DE ANDRADE NERY, assim dispõe:
+“O juiz da causa, valendo-se de critérios objetivos, pode entender que a natureza da ação movida pelo interessado demonstra que ele possui porte econômico para suportar as despesas do processo. A declaração pura e simples do interessado, conquanto seja o único entrave burocrático que se exige para liberar o magistrado para decidir em favor do peticionário, não é prova inequívoca daquilo que ele afirma, nem obriga o juiz a se curvar aos seus dizeres se de outras provas e circunstâncias ficar evidenciado que o conceito de pobreza que a parte invoca não é aquele que justifica a concessão do privilégio. Cabe ao magistrado, livremente, fazer juízo de valor acerca do conceito do termo pobreza, deferindo ou não o benefício” (Código de Processo Civil comentado e legislação extravagante. 11. ed. São Paulo: Revista dos Tribunais, 2010. p. 1.562).
+Nesse sentido:
+“PROCESSUAL CIVIL. JUSTIÇA GRATUITA INDEFERIDA. REEXAME DE PROVAS. SÚMULA 7/STJ. IMPOSSIBILIDADE. 1.O Tribunal de origem reconheceu que o recorrente não se enquadra na situação de pobreza, a pretensão deduzida no Recurso Especial envolve o reexame da matéria fática, o que é vedado nos termos da Súmula 7/STJ. 2. A declaração de pobreza implica simples presunção juris tantum, suscetível de ser elidida pelo magistrado se tiver fundadas razões para declarar que o requerente não se encontra no estado de miserabilidade anunciado. 3. Agravo conhecido para não conhecer do Recurso Especial.” (STJ, 2a TURMA, AREsp 1542058/SP, Rel. Ministro HERMAN BENJAMIN, j. em 03/10/2019, DJe 18/10/2019).
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PROPÓSITO NITIDAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. POSSIBILIDADE. PEDIDO DE JUSTIÇA GRATUITA. PESSOA FÍSICA. INDEFERIMENTO PELA INSTÂNCIA ORDINÁRIA. PRESUNÇÃO IURIS TANTUM. 1. A afirmação de impossibilidade de arcar com o ônus financeiro de processo judicial possui presunção iuris tantum, podendo o magistrado indeferir a assistência judiciária se não encontrar fundamentos que confirmem o estado de hipossuficiência do requerente. Precedente. 2. Embargos de declaração recebidos como agravo regimental, a que se nega provimento.” (STJ, Órgão Julgador: T4, EDcl no AREsp 38303/RJ, Rel. Min. MARIA ISABEL GALLOTTI, j. em 26/05/2013, DJe 1o/06/ 2013).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO RECEBIDO COMO AGRAVO REGIMENTAL. GRATUIDADE DE JUSTIÇA. APRESENTAÇÃO DE DOCUMENTOS QUE LEVARAM AO INDEFERIMENTO. PRESUNÇÃO LEGAL AFASTADA. [...] 4. Ademais, conforme entendimento jurisprudencial pacífico do STJ, ‘a presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais (STJ - AgRg no AREsp 136.756/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 24/04/2013). 5. [...]” (STJ, Órgão Julgador: T1, EDcl no AREsp 168203/RJ, Relator Min Benedito Gonçalves, j. em 06/12/2012, DJe: 11/12/2012).
+Assim, uma vez que a precariedade econômica não restou evidenciada, impossível o deferimento do benefício da justiça gratuita.
+Diante do exposto, com fundamento no artigo 932, inciso IV, do CPC/15 c/c Súmula no 568 do STJ, nego provimento monocrático ao recurso, intimando-se a parte apelante para providenciar o preparo do recurso no prazo de 10 (dez) dias.
+P. I. C.
+Cuiabá, 17 de abril de 2020.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
