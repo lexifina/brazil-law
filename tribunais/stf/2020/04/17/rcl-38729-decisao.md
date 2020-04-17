@@ -1,0 +1,27 @@
+DECISÃO
+RECLAMAÇÃO – MEDIDA CAUTELAR NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL Nº 347 – DESRESPEITO – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto assim revelou as balizas do caso:
+    A Defensoria Pública do Estado do Rio de Janeiro afirma haver o Tribunal de Justiça olvidado o decidido na medida cautelar na arguição de descumprimento de preceito fundamental nº 347.
+    Segundo narra, a autoridade reclamada editou o Aviso TJ nº 99/2019, versando a suspensão do expediente forense nos dias 24, 25 e 31 de dezembro de 2019 e 1º de janeiro de 2010. Destaca o teor do ato:
+    O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, DESEMBARGADOR CLAUDIO DE MELLO TAVARES, no uso de suas atribuições legais;
+    CONSIDERANDO as disposições que se encontram insculpidas na Lei Estadual 6.956/2015 - LODJ, no que concerne às atribuições do Presidente do Tribunal de Justiça do Estado do Rio de janeiro;
+    CONSIDERANDO a necessidade de disciplinar o expediente forense de modo a possibilitar às partes o conhecimento prévio da realização, ou não, dos atos processuais;
+    CONSIDERANDO os problemas estruturais e de logística para o perfeito funcionamento do Sistema de Audiência de Custódia, ante a dificuldade de apresentação dos presos, de realização das entrevistas com os seus advogados ou defensores públicos, e para a realização dos atos processuais, diante das festividades natalina e de fim de ano.
+    AVISA aos Magistrados, membros do Ministério Público e da Defensoria Pública, Advogados, Delegados de Polícia, chefia da Secretaria de Administração Penitenciária, Responsáveis pelo Expediente, Secretários de Juízes e demais Servidores em atuação nas Centrais de Audiência de Custódia da Capital, Volta Redonda e Campos dos Goytacazes, que está suspenso o expediente forense nos respectivos órgãos judiciais, nos dias 24, 25 e 31 de dezembro de 2019 e 01 de janeiro de 2020, devendo ser analisada a legalidade e a conveniência da manutenção da prisão em flagrante pelo plantão judiciário diurno da circunscrição correspondente à competência das respectivas CEACs.”
+    Narra ter sido utilizado pelo tribunal reclamado, como fundamento para a edição do ato, problemas estruturais a impedir a realização ininterrupta das Centrais de Audiência de Custódia. Alude à possibilidade de responsabilização internacional do Estado Brasileiro, considerado precedente da Corte Interamericana de Direitos Humanos.
+    Sob o ângulo do risco, refere-se à possibilidade de perda do objeto da medida e de violação de direito subjetivo de apresentação à autoridade judicial.
+    Requereu, no campo precário e efêmero, a suspensão do ato impugnado, determinando-se a realização de audiências de custódia nos dias 31 de dezembro de 2019 e 1º de janeiro de 2020. Busca, alfim, a confirmação da providência.
+    A autoridade reclamada, nas informações, realça que a ausência de expediente nos referidos dias tem o objetivo de resguardar a segurança dos servidores, considerado o deslocamento de grande parte do efetivo de segurança pública do estado para a cidade do Rio de Janeiro e para a região dos lagos. Alega a ausência de inovação na edição do Aviso nº 99/2019, uma vez ter sido a providência determinada em anos anteriores.
+     Em 30 de dezembro de 2019, o ministro Dias Toffoli, na condição de Presidente, deferiu a liminar para suspender o ato reclamado e determinar a realização das audiências de custódia nos dias 31 de dezembro de 2019 e 1º de janeiro de 2020.
+    A Defensoria Pública do Estado do Rio de Janeiro reitera, por meio da petição/STF nº 10022/2020, possuir interesse na sequência do processo e requer a procedência do pedido.
+    2. Constata-se, da leitura das peças do processo, ter havido omissão do Tribunal de Justiça do Estado do Rio de Janeiro quanto à observância do determinado na medida cautelar na arguição de descumprimento de preceito fundamental nº 347, no que diz respeito à feitura das audiências de custódia.
+    Ao assim proceder, o Tribunal reclamado incorreu em ofensa ao acórdão do aludido processo objetivo, mediante o qual determinada a implementação das audiências em 90 dias, devendo estas ocorrer no lapso de 24 horas, contado da prisão. Embora se tenha, conforme noticiado pelo Tribunal reclamado, observado a realização das audiências, a modificação se deu em virtude do deferimento de providência acauteladora nesta medida.
+    O Pleno, ao deferir a liminar na arguição de descumprimento de preceito fundamental nº 347, além de assentar a necessidade de ocorrência das audiências em 90 dias, consignou a obrigatoriedade de realização destas em até 24 horas, a contar da prisão. Inobservado o prazo indicado, fica configurado o desrespeito ao paradigma. Confiram o seguinte trecho da ementa:
+    […]
+    AUDIÊNCIA DE CUSTÓDIA – OBSERVÂNCIA OBRIGATÓRIA. Estão obrigados juízes e tribunais, observados os artigos 9.3 do Pacto dos Direitos Civis e Políticos e 7.5 da Convenção Interamericana de Direitos Humanos, a realizarem, em até noventa dias, audiências de custódia, viabilizando o comparecimento do preso perante a autoridade judiciária no prazo máximo de 24 horas, contado do momento da prisão.
+    (Medida cautelar na arguição de descumprimento de preceito fundamental nº 347, de minha relatoria, acórdão publicado no Diário da Justiça eletrônico de 18 de fevereiro de 2016.)
+    3. Julgo procedente o pedido formulado nesta reclamação, confirmando a medida acauteladora.
+    4. Publiquem.
+Brasília, 17 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
