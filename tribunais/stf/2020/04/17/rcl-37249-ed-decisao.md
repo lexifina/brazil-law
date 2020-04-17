@@ -1,0 +1,23 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO SINGULAR. RECLAMAÇÃO CONSTITUCIONAL. AGRAVO EM RECURSO EXTRAORDINÁRIO N. 1.121.633/GO. TEMA 1.046 DA REPERCUSSÃO GERAL. AUSÊNCIA DE ESTRITA ADERÊNCIA. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. AUSÊNCIA. EMBARGOS REJEITADOS.
+    Vistos etc.
+    1. Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento à reclamação constitucional, à compreensão de que ausente a violação da autoridade da decisão exarada no Agravo em Recurso Extraordinário nº 1.121.633/GO (Tema nº 1.046 da Repercussão Geral) bem como inexistente a usurpação de competência desta Corte.
+    2. O embargante aduz necessário suprir equívoco quanto à admissibilidade da presente reclamação, ao fundamento de que a decisão reclamada foi publicada em 26/09/2019, posteriormente, portanto, à decisão proferida no ARE 112.633 - Tema 1.046. Desse modo, assevera que a decisão cautelar proferida nos autos do mencionado ARE "abarca o caso concreto, bem como tem aplicabilidade à lide".
+    3. Reitera que "ao recusar o processamento do recurso de revista sobre a matéria em foco e, com isso, obstar todos os meios de acesso à jurisdição constitucional, parece ter a autoridade reclamada usurpado a competência deste Supremo Tribunal Federal".
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios.
+    2. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+    3. Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios.
+    4. Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    5. De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    6. Quanto ao suposto vício veiculado, ressalto assinalado, na decisão embargada, que a decisão em que reconhecida a ausência de transcendência do recurso de revista foi proferida em 06.9.2018 e publicada em 12.9.2018, ou seja, quando ainda não existia o reconhecimento da repercussão geral por esta Suprema Corte no ARE 1.121.633/GO, ocorrida apenas em 03.5.2019.
+    7. Em igual medida, destacado que a Corte reclamada denegou seguimento ao agravo em recurso extraordinário em razão da anterior certificação do trânsito em julgado, com fulcro no art. 896-A, § 5º, da CLT, o qual dispõe irrecorrível a decisão monocrática do relator que, em agravo de instrumento em recurso de revista, considera inexistente a transcendência.
+    8. Nesse sentir, torno a enfatizar que a decisão reclamada, em que pese proferida posteriormente à decisão emanada no ARE 1.121.633/GO, se limitou a reconhecer o trânsito em julgado do processo, atuando consoante as balizas processuais e constitucionais de sua competência. Nessa seara, asseverada a inexistência de identidade material entre os fundamentos do ato reclamado e o efetivamente decidido no parâmetro de controle, a demonstrar a ausência de estrita aderência com o paradigma apontado. Confira-se excerto da decisão embargada, por elucidativo da controvérsia:
+    “13. À época do exame da transcendência realizado pelo TST (12.9.2018) não existia o reconhecimento da repercussão geral no ARE 1.121.633/GO pelo Supremo (03.5.2019), o que inviabiliza o reconhecimento de identidade material entre os fundamentos do ato reclamado e o que foi efetivamente decidido nos parâmetros de controle. E mais, autos já se encontravam no Tribunal Regional de Origem desde 14.9.2018”.
+    9. Por tudo o exposto, observo ausente o veiculado vício na decisão embargada, haja vista didaticamente explanada a inviabilidade da reclamação.
+    10. Pontuo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    11. Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 17 de abril de 2020.
+Ministra Rosa Weber
+Relatora
