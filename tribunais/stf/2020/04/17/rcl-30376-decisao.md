@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Maria de Souza afirma haver o Superior Tribunal de Justiça, no agravo no recurso especial nº 1.609.241, usurpado a competência do Supremo ao impedir a remessa de agravo protocolado ante a negativa de sequência a extraordinário por si formalizado.
+    Segundo narra, ajuizou ação contra o Instituto Nacional do Seguro Social visando a concessão de aposentadoria por idade rural. Menciona a procedência do pedido em primeiro grau, sendo a óptica reformada em apelação. Interposto recurso especial, acabou inadmitido. Sobreveio agravo, desprovido. O entendimento foi mantido em agravo interno. Protocolado extraordinário, teve o prosseguimento negado, considerado o decidido, sob o regime da repercussão geral, no agravo de instrumento nº 791.292 e no recurso extraordinário nº 598.365 – Temas nº 339 e 181, respectivamente. Sublinha o insucesso de subsequente agravo.
+    Assevera caber a este Tribunal examinar agravo formalizado em face da ausência de processamento de extraordinário, tendo em conta o previsto no artigo 1.030, § 1º, do Código de Processo Civil. Diz em jogo questão constitucional, decorrente da falha na prestação jurisdicional pelo Superior Tribunal de Justiça ao dirimir o especial.
+    Requer a cassação da decisão impugnada e a remessa do caso ao Supremo para apreciação.
+    2. Eis o teor da ementa do acórdão do Superior Tribunal de Justiça, atacado mediante extraordinário, cujo processamento foi negado na origem:
+    PREVIDENCIÁRIO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. 1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pela monocrática agravada para negar provimento ao agravo em recurso especial. Incidência da Súmula 182/STJ. 2. Agravo interno não conhecido.
+    (Agravo interno no agravo no recurso especial nº 1.609.241, Primeira Turma do Superior Tribunal de Justiça, relator ministro Sérgio Kukina, acórdão publicado no Diário da Justiça eletrônico de 3 de agosto de 2017.)
+    Conforme se verifica, no aludido pronunciamento, a discussão ficou limitada à ocorrência de vício formal, não havendo impugnação específica dos fundamentos revelados na decisão que implicou o desprovimento do agravo em recurso especial. No extraordinário de nº 598.365/MG, relator ministro Carlos Ayres Britto, o Supremo proclamou a falta de repercussão geral, ante a inexistência de tema constitucional quando a controvérsia diz respeito à adequação de recurso da competência de Tribunal diverso, regido por normas estritamente legais, como ocorre na situação concreta.
+    A teor do artigo 1.030, inciso I, alínea “a”, e § 2º, do Código de Processo Civil, o Tribunal de origem deve negar seguimento a recurso extraordinário se versada discussão em relação à qual tenha o Supremo assentado não configurada a repercussão maior. Em face da decisão, pertinente é o agravo interno. A glosa ao manuseio de recurso inadequado na origem não implica usurpação da competência deste Tribunal. Em síntese, uma vez observada óptica adotada pelo Supremo sob a sistemática da repercussão geral, não está configurada a arguida usurpação da competência do Tribunal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 17 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
