@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de reclamação na qual se sustenta que o ato judicial ora questionado – emanado do E. Tribunal Superior do Trabalho (Processo nº 0001133-20.2016.5.20.0007) – teria desrespeitado a autoridade da decisão que, proferida pelo eminente Ministro GILMAR MENDES, deferiu, com apoio no § 5º do art. 1.035 do CPC, o pedido de suspensão nacional dos feitos que versem sobre o mesmo tema veiculado no âmbito de recurso extraordinário com repercussão geral reconhecida (RE 960.429-RG/RN).
+    Sendo esse o contexto, passo a apreciar o pedido formulado pela parte reclamante. E, ao fazê-lo, verifico a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto da reclamação.
+    Com efeito, em momento posterior ao do ajuizamento desta ação, o Plenário do Supremo Tribunal Federal julgou o mérito do RE 960.429/RN e fixou a seguinte tese de repercussão geral:
+    “Compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal.” (grifei)
+    A existência desse fato assume relevo processual, eis que faz instaurar, no caso, situação de prejudicialidade, apta a gerar a extinção deste instrumento reclamatório, em virtude da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que esse entendimento encontra apoio na jurisprudência do Supremo Tribunal Federal (Rcl 7.404/SP, Rel. Min. GILMAR MENDES – Rcl 8.294/SC, Rel. Min. RICARDO LEWANDOWSKI – Rcl 9.274/AM, Rel. Min. CELSO DE MELLO – Rcl 10.043/RJ, Rel. Min. CELSO DE MELLO – Rcl 10.242/RJ, Rel. Min. DIAS TOFFOLI – Rcl 11.083/SP, Rel. Min. ROBERTO BARROSO – Rcl 13.681/RJ, Rel. Min. ROSA WEBER – Rcl 15.644/MS, Rel. Min. LUIZ FUX – Rcl 15.810/RS, Rel. Min. TEORI ZAVASCKI – Rcl 15.816/MG, Rel. Min. CÁRMEN LÚCIA – Rcl 16.906/SP, Rel. Min. GILMAR MENDES – Rcl 29.542-MC/SP, Rel. Min. CELSO DE MELLO, v.g.), cabendo destacar, entre outras, a seguinte decisão que esta Corte proferiu a propósito do tema ora em análise:
+    “RECLAMAÇÃO – ATO IMPUGNADO –  REVOGAÇÃO – PERDA DE OBJETO. A revogação do ato tido, no pedido inicial da reclamação, como discrepante de certa decisão implica o prejuízo da reclamação, julgando-se extinto o processo sem apreciação do tema de fundo.”
+    (Rcl 2.496-QO/PE, Rel. Min. MARCO AURÉLIO – grifei)
+    Sendo assim, e pelas razões expostas, julgo prejudicada a presente reclamação, em face da perda superveniente de seu objeto, tornando sem efeito, ainda, a medida liminar anteriormente deferida.
+    Comunique-se, com urgência, transmitindo-se cópia da presente decisão ao E. Tribunal Superior do Trabalho (Processo 0001133- -20.2016.5.20.0007), ao E. Tribunal Regional do Trabalho da 20ª Região (Processo nº 0001133-20.2016.5.20.0007) e ao Juízo da 7ª Vara do Trabalho de Aracaju/SE (Processo nº 0001133-20.2016.5.20.0007).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 17 de abril de 2020.
+Ministro CELSO DE MELLO
+Relator
