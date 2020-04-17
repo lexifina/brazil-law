@@ -1,0 +1,17 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 567.771/SC, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente – preso preventivamente – foi condenado ao cumprimento, em regime inicial fechado, na forma do art. 69 do Código Penal, da pena privativa de liberdade de 11 anos e 3 meses de reclusão, pela prática dos crimes previstos no art. 2º, §§ 2º e 4º, I, da Lei 12.850/13 e art. 16, caput, da Lei 10.826/03. Foi negado o direito de recorrer em liberdade.
+    3. Foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator, Min. Ribeiro Dantas, indeferiu o pedido de liminar.
+    4. Neste habeas corpus, a parte impetrante alega que o “paciente permanece desde o mês de agosto de 2019 aguardando o julgamento pelo e. Tribunal de Justiça de Santa Catarina, estando o presente concluso para julgamento”. Afirma que o “tempo decorrido é suficiente para que seja exarada decisão em segundo grau sobre seu caso, sendo o claro excesso de prazo e o consequente constrangimento ilegal”. Prossegue para apontar, ainda, a situação de risco decorrente da pandemia do Coronavírus (Covid-19). Daí o pedido de concessão da ordem, a fim de que seja “revogada a prisão preventiva decretada em face do ora paciente”.
+    5. Decido.
+    6. O Supremo Tribunal Federal firmou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. Observo que a autoridade impetrada deixou de analisar o “pleito pertinente à pandemia causada pelo COVID-19” sob o fundamento de que a questão “não foi objeto de cognição pelo Tribunal de origem e, sequer, pelo Juízo das Execuções”. Fato que impede o exame da matéria pelo STF, sob pena de supressão de instâncias.
+    9. As peças que instruem o processo não evidenciam ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Dou especial importância à informação de que que “a facção ‘Chelsea’, a qual o acusado integra, é uma organização criminosa de altíssima periculosidade, […] tratando-se de um braço do próprio PGC (facção que atua em todo o território Catarinense denominada Primeiro Grupo Catarinense), constituída para a prática de crimes graves e das mais variadas espécies”.
+    10. Ademais, o STF já decidiu que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). No caso, os autos não evidenciam desídia ou injustificada demora que autorize o acolhimento do pleito defensivo, notadamente se se considerar a informação da Presidência da Corte estadual de que “o feito foi incluído em pauta para julgamento, a ser realizado na data de 23 de abril de 2020” .
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 17 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
