@@ -1,0 +1,20 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática, da minha lavra, pela qual foi dado provimento ao recurso extraordinário para julgar improcedentes os pedidos formulados na ação rescisória. Invertidos os ônus da Sucumbência.
+     Trata-se na origem de ação rescisória proposta pelo Estado de São Paulo com vistas a rescindir acórdão que o condenou ao pagamento de vantagens pecuniárias tais como férias, adicional, décimo terceiro a Robson Rodrigo Ramos Ribeiro, por força da Lei Estadual nº 11.064/2002.
+    O embargante aponta erro material no dispositivo da decisão embargada, porquanto esta deixou de mencionar a procedência da ação rescisória na origem.
+    Destaco cuidar-se de recurso extraordinário aparelhado na afronta aos arts. 2º, 5º, II, e 37, caput, II e IX, da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO RESCISÓRIA. PRETENSÃO DE DESCONSTITUIÇÃO DE ACÓRDÃO TRANSITADO EM JULGADO. FALTA DE INTERESSE PROCESSUAL. Não cabimento da ação rescisória. Possibilidade de recebimento da petição inicial in status assertionis. Cabimento de julgamento do substrato da demanda. ACÓRDÃO RESCINDENDO. Reconhecimento do direito ao pagamento de férias e 13º salário. Soldado PM Temporário. VIOLAÇÃO DO ENTENDIMENTO CONSAGRADO NA ADI 4.173/DF. Reconhecimento da constitucionalidade da Lei Federal n. 10.029/2000 pelo STF. Irrelevância. Vigência da Lei Estadual Paulista n. 11.064/2002. Atos normativos declarados inconstitucionais pelo Órgão Especial desta Corte. Contratação que viola a obrigatoriedade do concurso para o acesso aos cargos públicos. Tese n. 2 firmada no julgamento do IRDR n. 0038758-92.2016.8.26.0000. Inocorrência da alegada ofensa por não ser objeto do julgado paradigma a Lei estadual vigente e que foi declarada inconstitucional pelo plenário dessa Corte. Improcedência do pedido mediato. IMPROCEDÊNCIA DO PEDIDO MEDIATO.”
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil Lei nº 13.105/2015)
+    O art. 1.022 do CPC/2015 admite  embargos de declaração contra qualquer decisão judicial, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+    Com base nesse permissivo legal, procedo à apreciação singular destes declaratórios.
+    Verificado erro material, de rigor sua correção.
+    Conforme consignado na monocrática, ao julgamento da ADI 4173, Rel. Min. Alexandre de Moraes, Tribunal Pleno, esta Suprema Corte decidiu que “ao dispor que os voluntários por ela disciplinados terão direito ao recebimento de auxílio mensal de natureza indenizatória destinado ao custeio das despesas necessárias à execução dos serviços a que se refere essa lei (art. 6º), sem a configuração de vínculo empregatício ou de obrigação de natureza trabalhista, previdenciária ou afim, em decorrência da relação jurídica constituída (art. 6º, § 2º), a Lei Federal nº 10.029/2000 não viola o art. 37, I, II e IX, da Constituição Federal, dada a diversidade da natureza dos vínculos jurídicos estabelecidos”.
+    Nesse contexto, verifico que o acórdão recorrido diverge da jurisprudência deste Supremo Tribunal Federal, razão pela qual assiste razão ao embargante, devendo constar no dispositivo da decisão embargada a procedência da ação rescisória na origem de forma a se alinhar a esta presente decisão.
+    Diante do exposto, acolho os  embargos  de declaração para, corrigindo  erro  material, retificar o dispositivo fazendo constar:
+    “Ante o exposto, forte nos arts. 21, § 1º, do RISTF, e 932, V, ‘b’, e VIII, do CPC/2015, conheço do agravo e dou provimento ao recurso extraordinário para julgar procedentes os pedidos formulados na ação rescisória. Invertidos os ônus da Sucumbência.”
+    Publique-se.
+    Brasília, 20 de abril de 2020.
+Ministra Rosa Weber
+Relatora
