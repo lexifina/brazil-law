@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de embargos de declaração opostos contra decisão que deferiu medida liminar “para determinar a suspensão por 180 (cento e oitenta dias) do pagamento das parcelas relativas aos Contratos de Consolidação, Assunção e Refinanciamento da dívida pública firmado entre o Estado autor e a União (Contrato n. 017/98 STN/COAFI e respectivos aditivos), devendo, obrigatoriamente, o ESTADO DE ALAGOAS COMPROVAR QUE OS VALORES RESPECTIVOS ESTÃO SENDO INTEGRALMENTE APLICADOS NA SECRETARIA DA SAÚDE PARA O CUSTEIO DAS AÇÕES DE PREVENÇÃO, CONTENÇÃO, COMBATE E MITIGAÇÃO À PANDEMIA DO CORONAVÍRUS (COVID-19)”.
+    O embargante sustenta que almeja sanar obscuridade presente na abrangência da vinculação dos recursos por entender que “a própria decisão proferida reconhece que os impactos originados pela pandemia do COVID-19, vão muito além das necessidades diretas e imediatas necessárias para a contenção do vírus”.
+    Segundo o Estado, “o e. Ministro relator reconheceu como plausíveis as alegações concernentes “à pandemia do COVID-19 e todas as circunstâncias nele envolvidas”, ou seja, a fundamentação da tutela concedida assentou-se na plausibilidade das considerações da peça inicial quanto a todas as circunstâncias concernentes à crise, dentre elas os inegáveis efeitos financeiros, tendo sido demonstrado que os maiores impactos da pandemia no Estado de Alagoas decorrem justamente da queda da arrecadação do ICMS”.
+    Afirma que “a fim de cumprir o comando judicial em sua inteireza, buscando o custeio das ações de prevenção, contenção, combate e mitigação à pandemia do coronavírus, tal como estabelecido no dispositivo, a situação exige, nesse momento, igual necessidade de efetividade de medidas concretas para mantença da própria Secretaria de Saúde, a fim de não prejudicar a oferta de serviços públicos para aqueles que vivem em Alagoas, notadamente os de premente atendimento, sob pena de inegável e irrecuperável prejuízo ao interesse público primário, o qual é buscado em sua totalidade pelo Estado”.
+    O embargante aduz, por fim, que “faz-se necessário o esclarecimento do decisum, notadamente no que toca à necessária consideração e contabilização de qualquer gasto na área de saúde pública como de “combate e mitigação à pandemia do coronavírus”, nos exatos termos da decisão proferida”.
+    É o relatório. Decido.
+    A decisão embargada não apresenta nenhum dos vícios passíveis de correção por meio de embargos de declaração, a saber, omissão, contradição, obscuridade ou erro material.
+    A propósito, cumpre ressaltar que a decisão ora embargada foi clara ao determinar que os valores bloqueados deverão ser INTEGRALMENTE APLICADOS NA SECRETARIA DA SAÚDE PARA O CUSTEIO DAS AÇÕES DE PREVENÇÃO, CONTENÇÃO, COMBATE E MITIGAÇÃO À PANDEMIA DO CORONAVÍRUS (COVID-19).
+    Não é cabível, portanto, qualquer interpretação de destinação dos valores para fins diversos do que contido na decisão, sem prejuízo de nova análise quando da audiência de conciliação já designada para o dia 27/04/2020.
+    Por todo o exposto, ausentes os vícios dos incisos do art. 1.022 do CPC/2015, REJEITO OS EMBARGOS DE DECLARAÇÃO.
+    Publique-se.
+    Brasília, 20 de abril de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
