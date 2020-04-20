@@ -1,0 +1,2 @@
+Art. 6º Fica autorizado o trabalho aos domingos nas atividades do comércio em geral, observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição.
+Parágrafo único. O repouso semanal remunerado deverá coincidir, pelo menos uma vez no período máximo de três semanas, com o domingo, respeitadas as demais normas de proteção ao trabalho e outras a serem estipuladas em negociação coletiva.
