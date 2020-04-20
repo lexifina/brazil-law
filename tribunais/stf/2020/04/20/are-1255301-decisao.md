@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 1ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARGO DE TÉCNICO DE APOIO ESPECIALIZADO/ORÇAMENTO DO MINISTÉRIO PÚBLICO DA UNIÃO. VISÃO MONOCULAR. DEFICIÊNCIA CARACTERIZADA. VAGA DESTINADA A PORTADOR DE NECESSIDADES ESPECIAIS. ARTS. 3º E 4º DO DECRETO Nº 3.298/1999. POSSIBILIDADE. SENTENÇA CONFIRMADA”. (eDOC 2, p. 59)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º; e 37, I e II, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão violaria o princípio da isonomia, já que apenas para o recorrente teria sido permitido concorrer às vagas reservadas para deficientes como portador de visão monocular, contrariamente às cláusulas do edital. (eDOC 4, p. 14)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto 3.298/1999) e as cláusulas do edital de concurso, consignou que o portador de visão monocular seria considerado portador de deficiência. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O Decreto n. 3.298/1999 estabelece: (...).
+    Constata-se que o Edital do certame transcreve as mesmas disposições em seu item 3 (fls. 56/57) o seguinte: (...).
+    A jurisprudência do Colendo Superior Tribunal de Justiça é no sentido de que o artigo 4º, inciso III, do Decreto n. 3.298/1999, deve ser interpretado no sentido da não exclusão dos portadores de visão monocular do benefício da reserva de vagas para deficientes físicos. Esse entendimento deu ensejo, inclusive, à edição da Súmula n. 377 do Superior Tribunal de Justiça, de seguinte teor: “o portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes’”. (eDOC 2, p. 55)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 454 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. COMPROVAÇÃO DE DEFICIÊNCIA PARA FINS DE OCUPAÇÃO DE VAGA DESTINADA AOS PORTADORES DE NECESSIDADES ESPECIAIS. VISÃO MONOCULAR. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF”. (ARE 658.703 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 21.8.2012)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Concurso público. Princípios do contraditório e da ampla defesa. Repercussão geral. Inexistência. Caracterização de deficiência de candidato. Fatos e provas. Cláusulas editalícias. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, da inafastabilidade da jurisdição e do devido processo legal (ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13). 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame das cláusulas de edital de concurso público, bem como dos fatos e das provas dos autos. Incidência das Súmulas nºs 280, 454 e 279 do STF. 3. Agravo regimental não provido”. (ARE 911.584 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 18.5.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 20 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
