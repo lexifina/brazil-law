@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1940, de 20 de abril de 2020
+Altera a Instrução Normativa RFB nº 1.737, de 15 de setembro de 2017, que dispõe sobre o tratamento tributário e os procedimentos de controle aduaneiro aplicáveis às remessas internacionais.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no Decreto-Lei nº 1.804, de 3 de setembro de 1980, e na Portaria MF nº 156, de 24 de junho de 1999, resolve:
