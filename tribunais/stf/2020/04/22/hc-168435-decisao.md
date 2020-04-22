@@ -1,0 +1,20 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido liminar, impetrado por Fabiana de Gusmão Caroni em favor de Jarbas Caroni, contra acórdão, do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 461.773/SP.
+    O paciente foi condenado à pena de 05 (cinco) anos de reclusão, em regime inicial semiaberto, pela prática do crime de concussão, tipificado no art. 316 do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça de São Paulo deu parcial provimento ao recurso ministerial para redimensionar a pena para 04 (quatro) anos, 05 (cinco) meses e 10 (dez) dias de reclusão. Opostos embargos de declaração, foram rejeitados.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Reynaldo Soares da Fonseca, não conheceu do HC 461.773/SP, mas concedeu a ordem, de ofício, para redimensionar a pena do paciente para 03 (três) anos e 04 (quatro) meses de reclusão. Ato contínuo, manejado, sem sucesso, agravo regimental.
+    No presente writ, a Impetrante alega, em síntese, falta de fundamentação idônea do ato dito coator quanto à manutenção do regime intermediário e à negativa de substituição da pena privativa de liberdade por restritiva de direitos. Requer, em medida liminar e no mérito, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos e, sucessivamente, a suspensão da execução antecipada da pena.
+    Em 12.3.2019, indeferi a liminar (evento 9).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Juliano Baiocchi Villa-Verde de Carvalho, opina pela denegação da ordem (evento 10).
+    Em 26.3.2020, por meio da Petição 17.611/STF, a Defesa formulou pedido de reconsideração e reforçou a necessidade de manter fora do presídio o paciente, que se enquadra no grupo de risco para a Covid-19, tendo em vista contar com 62 (sessenta e dois) anos de idade, além de ser hipertenso.
+    É o relatório.
+    Decido.
+    De início, consigno que o objeto do presente writ foi julgado por esta Suprema Corte nos autos do HC 172.956/SP, de minha relatoria, em que neguei seguimento, em 25.3.2020.
+    Ressalto que ambas impetrações são idênticas, com as mesmas partes, o mesmo pedido e a mesma causa de pedir, a delinearem a tríplice identidade definidora da litispendência. Dessa maneira, não há como dar prosseguimento ao presente feito, enquanto mera reiteração de impetração já julgada.
+    Nesse contexto, “A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus” (HC 146.334-AgR/PR, Rel. Min. Celso de Mello, 2ª Turma, DJe 23.10.2017); “a jurisprudência deste Supremo Tribunal já assentou a inadmissibilidade de ‘habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada’ (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 18/8/15)”(HC 129.705-AgR/SP, Rel. Min. Dias Toffoli, 2ª Turma, DJe 14.12.2015); e “O habeas corpus é inadmissível quando se trata de mera reiteração das razões de medida anteriormente impetrada nesta Corte. Precedentes...” (RHC 113.089-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.9.2014).
+    Anoto, por fim, que a questão relativa à pandemia do COVID-19, não foi objeto de apreciação pelas instâncias anteriores, a inviabilizar a análise do writ, neste ponto, pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de abril de 2020.
+Ministra Rosa Weber
+Relatora
