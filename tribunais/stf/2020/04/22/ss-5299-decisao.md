@@ -1,0 +1,30 @@
+DECISÃO:
+    Vistos.
+    Trata-se de pedido de suspensão de liminar, ajuizado pelo Estado do Piauí, em face de decisão oriunda do Plenário do Tribunal de Justiça daquele estado, que, nos autos do processo nº 2016.0001.004043-4, impôs-lhe ordem para providenciar o enquadramento de 17 servidores, no Plano de Cargos, Carreiras e Salários do Ministério Público estadual.
+    Asseverou que em procedimento levado a cabo perante o CNMP, constatou-se que os interessados, embora ocupando cargos em comissão, do Ministério Público daquele estado, em verdade exerciam atividades típicas de cargos de provimento efetivo; por isso, deu-se sua exoneração desses cargos, ato posteriormente revertido em Juízo.
+    Acrescentou que, em fase de execução do julgado, restou determinado o enquadramento dos interessados no plano de cargos, carreiras e salários do Ministério Público do Estado do Piauí, ordem contra a qual se insurgiu, através da presente contracautela.
+    Depois que alguns interessados se manifestaram nos autos, adveio a decisão datada de 6/6/19, pela qual concedi, liminarmente, a pretendida suspensão.
+     Houve a interposição de agravo regimental, em que se arguiu o não cabimento da presente contracautela, dada a interposição simultânea de reclamação, em face da mesma decisão e sua utilização com nítido intuito recursal. Destacou que o acórdão regional ainda não transitou em julgado e que o requerente noticiou nos autos originais, que está cumprindo a determinação judicial, o que o impediria de interpor recurso contra ela, asseverando, ainda, inexistir risco de lesão à ordem pública, administrativa, ou econômica, em vista da prolação da referida ordem. Aduziu, por fim, que sequer detém o requerente legitimidade para o ajuizamento da presente suspensão, dada a autonomia financeira do Ministério Público.
+    Depois de apresentadas contrarrazões, veio aos autos o parecer da douta Procuradoria-Geral da República, pelo acolhimento do pedido de suspensão, que restou assim ementado:
+    SUSPENSÃO DE SEGURANÇA. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDORES PÚBLICOS COMISSIONADOS. ENQUADRAMENTO NO PLANO DE CARGOS E CARREIRAS DO MINISTÉRIO PÚBLICO ESTADUAL. RISCO DE LESÃO À ORDEM PÚBLICA EVIDENCIADO. DEFERIMENTO DA CONTRACAUTELA.
+    1. Pedido de contracautela ajuizado contra decisão mediante a qual se determinou o enquadramento de servidores no Plano de Cargos, Carreiras e Salários do Ministério Público do Estado do Piauí.
+    2. A decisão objeto do pedido suspensivo deixou de observar a regra do concurso público, afrontando o disposto no art. 37, II, da Constituição Federal.
+    3. O enquadramento em causa constitui, ainda, desobediência à determinação constante da Súmula Vinculante 43, consubstanciando risco de lesão à ordem pública, na acepção jurídico-constitucional.
+    – Parecer pelo deferimento do pedido de suspensão, prejudicado o agravo regimental.
+    É o relatório.
+    Decido:
+    Reitero, inicialmente, a presença de matéria constitucional no presente feito, no tocante à incidência do art. 37, inciso II, da Constituição da República, a justificar a apreciação do pedido de suspensão de segurança pela Presidência do Supremo Tribunal Federal.
+    Refuto, ainda, as preliminares levantadas pelos interessados, na medida em que o fato de o requerente ter apresentado reclamação constitucional em face dessa mesma decisão, não o impedia de interpor a presente contracautela, máxime tendo em vista o fato de que aquela reclamação foi liminarmente rejeitada.
+    Tampouco há que se falar em ilegitimidade do requerente para a propositura desta ação, posto que os recursos públicos que eventualmente venham a ser destinados à satisfação do julgado provirão de seus cofres, o que lhe confere legitimidade para requerer a suspensão do efeito da aludida medida judicial, destacando-se, ainda, que referido pleito não parece dotado de caráter meramente recursal, vez que fundamentado nas hipóteses legalmente previstas para tanto, segundo a legislação de regência.
+    Quanto ao mais, tem-se que, conforme bem salientado no parecer trazido aos autos pela douta Procuradoria-Geral da República,
+    “A determinação constante do acórdão impugnado parece ter extrapolado a decisão de mérito do writ originário – de investidura dos interessados nos cargos comissionados por eles ocupados anteriormente –, afrontando, ademais, o enunciado da Súmula Vinculante 43, que pronuncia a inconstitucionalidade de ‘toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido’.
+    Desse modo, o provimento concessivo fere a regra do concurso público, além de desprestigiar a força vinculante dos pronunciamentos da Suprema Corte, revelando-se, assim, risco de lesão à ordem pública, na acepção jurídico-constitucional”.
+    Ademais, conforme destaquei quando da concessão da medida cautelar,
+    “(...) sob o ângulo do risco, o requisito da urgência se infere da possibilidade de inocuidade de eventual procedência do pedido formulado no presente incidente, pois, a subsistir a decisão impugnada, restará comprometida parte significativa do orçamento público do Estado do Piauí, uma vez que, consoante alega o requerente, a estimativa de impacto financeiro se aproxima da expressiva soma de R$ 1.010.747,98 (um milhão diz setecentos e quarenta e sete reais e noventa e oito centavos)”.
+    De rigor, assim, manter-se suspensa referida ordem, para evitar risco de grave lesão à ordem econômica e administrativa do requerente, até seu respectivo trânsito em julgado.
+     Ante o exposto, confirmando a medida cautelar liminarmente concedida, defiro a suspensão da execução do quanto decidido pelo Plenário do Tribunal de Justiça do estado do Piauí, nos autos do processo nº 2016.0001.002212-0, até seu trânsito em julgado, prejudicado o agravo regimental interposto nos autos.
+    Publique-se.
+    Brasília, 22 de abril de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
