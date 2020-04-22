@@ -1,0 +1,26 @@
+Decisão: Trata-se de embargos de declaração (eDOC 8, p. 1-4) opostos por Desiree Anne Salles da decisão que negou seguimento ao presente ARE, com fundamento no art. 21, §1º, do RI/STF (eDOC 6, p. 1-4).
+    A embargante sustenta, em síntese, a ocorrência de omissão, pelos seguintes motivos:
+    a) impossibilidade de julgamento monocrático do presente ARE, tendo em vista o contido no art. 932, inciso IV, do CPC, o qual não autorizaria essa atuação monocrática do relator, sendo ainda certo que teria havido revogação, no mínimo tácita, do art. 21, §1º, do RI/STF, pelo novo CPC;
+    b) a arguição de nulidade no julgamento dos embargos infringentes perante o TJ/MG, por ofensa ao princípio do juiz natural, não teria sido aqui examinada, sendo certo que se trata de omissão em matéria de ordem pública.
+    Ao final, a recorrente pede “sejam examinadas as matérias aqui agitadas e sanadas as omissões apontadas, para que possa melhor elevar a questão à e. Turma Julgadora, ainda que pela via do agravo interno” (eDOC 8, p. 10).
+    É o breve relatório.
+    Decido.
+    Preliminarmente, assevere-se que os embargos de declaração são cabíveis para indicar ocorrência de ambiguidade, omissão, contradição ou obscuridade da decisão embargada (art. 620 do CPP c/c o art. 337 do RI/STF).
+    Conforme relatado, a embargante sustenta, em síntese, a existência de omissões na decisão ora embargada.
+    De início, acentue-se que o relator pode decidir monocraticamente pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou à súmula desta Corte, nos termos do artigo 21, § 1º, do RI/STF. Nesse sentido se pacificou a jurisprudência do Supremo Trubunal Federal: HC 174.335 AgR/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 11.10.2019; ARE 1.050.178 AgR-ED-AgR/RS, por mim relatado, Segunda Turma, DJe 31.5.2019; ARE 1.095.768 AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, DJe 13.3.2019; ARE 1.140.411 AgR/RS, Rel. Min. Edson Fachin, Segunda Turma, DJe 10.6.2019; dentre outros. Assim, o contido no citado artigo 21, § 1º, do RI/STF, permanece absolutamente vigente e eficaz, inclusive à luz do novo CPC.
+    Ademais, frise-se que a decisão ora embargada consignou o seguinte:
+    “A presente irresignação recursal não merece prosperar, porquanto a ofensa à Constituição, se existente, seria reflexa ou indireta, de índole infraconstitucional, o que inviabiliza o processamento do presente recurso.
+    Ademais, o RE em apreço carece do necessário prequestionamento da matéria constitucional nele suscitada, o que faz atrair os óbices das Súmulas 282 e 356/STF.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    ‘Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento’. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016).
+    No mesmo sentido, recentemente: RE 1.240.600 AgR-EDv/SP, Rel. Min. Luiz Fux, Plenário, DJe 12.3.2020; ARE 1.245.190/AC, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.3.2020, dentre outros.
+    Ante o exposto, nego seguimento ao presente recurso (art. 21, § 1º, do RI/STF).” (eDOC 6, p. 1-4; grifos originais)
+    Assim, diante do pedido deduzido no RE (eDOC 3, p. 197-212), dos fundamentos da decisão que não o admitiu (eDOC 3, p. 254-255), e da iterativa jurisprudência do Supremo Tribunal Federal mencionada na decisão ora embargada (eDOC 6, p. 1-4), neguei seguimento ao presente ARE, com fundamento no art. 21, §1º, do RI/STF, o que legitimamente inviabilizou o processamento do recurso extraordinário, aliás, repita-se, sequer admitido e, por conseguinte, a apreciação recursal da matéria de mérito ali deduzida, bem como nos presentes embargos de declaração, os quais também apresentam nítido caráter infringente.
+    Do exposto, ausente qualquer omissão, rejeito os presentes embargos de declaração.
+    Publique-se.
+    Brasília, 22 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
