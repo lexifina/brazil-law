@@ -1,0 +1,34 @@
+Visto.
+Trata-se de recurso de apelação cível interposto pelo MUNICÍPIO DE SINOP contra sentença proferida pelo Juízo da Vara Especializada da Fazenda Pública da Comarca de Sinop/MT, que julgou procedente o pedido formulado por JOSÉ ROCHA nos autos da Ação de Cobrança no 1009737-55.2018.8.11.0015, para condenar o apelante a incorporar à remuneração do apelado o percentual decorrente da perda ocorrida quando da conversão do Cruzeiro Real para URV, além dos valores pretéritos, observada a prescrição quinquenal do montante referente aos cinco anos anteriores ao ajuizamento da ação, a ser apurado em sede de liquidação de sentença.
+O Juízo a quo determinou que as perdas deverão ser computadas sobre todas as verbas recebidas no período, fixando a correção monetária pelo INPC, até 30 de junho de 2009, e, após, deve-se aplicar os índices oficiais de remuneração básica (TR) e juros da caderneta de poupança.
+Por fim, o magistrado condenou a Fazenda Pública ao pagamento de honorários advocatícios, devendo o quantum ser aferido em liquidação de sentença, na forma do art. 85, §4o, II, CPC/2015.
+Nas razões recursais, o Município de Sinop sustenta a prescrição dos créditos cobrados, sob o fundamento de que a ação teria sido ajuizada fora do prazo legal.
+Alega que com a implantação de planos de carreira aos servidores municipais, eventuais perdas deixaram de existir.
+Com base nestes fundamentos, pugna pelo provimento do recurso, para a reforma integral da sentença e, por conseguinte, a improcedência dos pedidos deduzidos na inicial, bem como da condenação em honorários advocatícios.
+Contrarrazões pelo desprovimento do recurso e majoração da verba honorária (ID 28019681).
+É o relatório
+Decido.
+Extrai-se do processo que JOSÉ ROCHA ajuizou em 02/10/2018, a Ação de Cobrança no 1009737-55.2018.8.11.0015 visando receber valores à título de recomposição de seus rendimentos no que se refere à diferença resultante da conversão do Cruzeiro Real para URV.
+A ação foi julgada parcialmente procedente pelo Juízo a quo, o que motivou a interposição do presente recurso.
+Ao compulsar os autos, verifica-se que a situação em análise, dispensa o julgamento do Colegiado, visto que se encontra pacificado nos Tribunais Superiores à discussão acerca da defasagem ocorrida na remuneração de servidor público diante da conversão da moeda de Cruzeiro Real para URV, conforme RE 561.836 do STF.
+O art. 932, incisos IV e V do Código de Processo Civil (CPC), estabelece que o relator, monocraticamente, poderá dar ou negar provimento ao recurso, quando houver entendimento dominante acerca do tema pelo Supremo Tribunal Federal, pelo Superior Tribunal de Justiça ou pelo próprio tribunal.
+Com essas considerações, passo à análise das insurgências recursais.
+Aduz o apelante a prescrição dos créditos cobrados, sob o fundamento de que a ação teria sido ajuizada fora do prazo legal.
+Sobre o assunto, o Superior Tribunal de Justiça, no julgamento de recursos repetitivos, traz o entendimento de que por tratar-se de relação jurídica de trato sucessivo, a prescrição renova-se a cada mês, atingindo tão somente as parcelas anteriores ao quinquênio que precedeu à propositura da ação, vejamos:
+“ADMINISTRATIVO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). SERVIÇOS PRESTADOS AO SUS. TABELAS DE PREÇOS.FATOR DE CONVERSÃO EM URV. PRESCRIÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.1. Nas demandas que envolvem a discussão sobre a conversão da tabela de ressarcimentos de serviços prestados ao SISTEMA ÚNICO de SAÚDE - SUS de cruzeiro real para real, o Superior Tribunal de Justiça firmou entendimento no sentido de que: a) por se tratar de relação de trato sucessivo, prescrevem apenas as parcelas vencidas anteriormente ao quinquênio que antecedeu ao ajuizamento da ação (Súmula 85/STJ); b) deve ser adotado como fator de conversão o valor de Cr$ 2.750,00, nos termos do art. 1o, § 3o, da MP 542/95, convertida na Lei 9.096/95; e c) o índice de 9,56%, decorrente da errônea conversão em real, somente é devido até 1o de outubro de 1999, data do início dos efeitos financeiros da Portaria 1.323/99, que estabeleceu novos valores para todos os procedimentos.2. Recurso especial conhecido e não provido. Acórdão submetido ao regime do art. 543-C do CPC”. (REsp 1179057/AL, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 12/09/2012, DJe 15/10/2012).
+A propósito, confira-se o teor da Súmula 85 do STJ:
+“Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação”.
+Assim, não há que se falar em reforma da sentença nesse ponto.
+Também não merece acolhida a tese do apelante de que com a implantação de planos de carreira aos servidores municipais, eventuais perdas deixaram de existir.
+É sabido que eventual reestruturação remuneratória da carreira não prejudica o reconhecimento da pretensão versada na inicial, uma vez que, somente em liquidação de sentença poderá ser apurada possível reestruturação e constatada de maneira inequívoca a sua incidência sobre a remuneração, com reflexos na correção.
+Consoante o entendimento do Supremo Tribunal Federal, apenas com a liquidação da sentença é que se encontrarão os erros da conversão salarial em URV e que ainda são absorvidos pelos servidores nos dias atuais, inclusive depois da reestruturação de sua carreira.
+No mesmo sentido é a jurisprudência do Egrégio Tribunal de Justiça do Estado de Mato Grosso, senão vejamos:
+APELAÇÃO/REMESSA NECESSÁRIA — UNIDADE REAL DE VALOR (URV) — PRESCRIÇÃO — PARCELAS ANTERIORES AOS CINCO ANOS, A CONTAR DA DISTRIBUIÇÃO DA PETIÇÃO INICIAL — EVENTUAL EXISTÊNCIA DE DEFASAGEM SALARIAL — APURAÇÃO DO PERCENTUAL — REESTRUTURAÇÃO REMUNERATÓRIA DA CARREIRA — VERIFICAÇÃO — LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. Opera-se a prescrição das parcelas anteriores aos cinco anos, a contar da distribuição da petição inicial. Eventual existência de defasagem salarial, apuração do percentual e a ocorrência de reestruturação remuneratória da carreira, devem ser verificadas em liquidação de sentença por arbitramento. Recurso provido em parte. Sentença parcialmente retificada. (Apelação/Remessa Necessária 151081/2017, DES. LUIZ CARLOS DA COSTA, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 12/02/2019, Publicado no DJE 26/02/2019)
+Ante o exposto, NEGO PROVIMENTO ao recurso, para manter o decisum nos seus próprios termos.
+DA REMESSA NECESSÁRIA
+Em sede de reexame, RETIFICO a sentença objurgada, apenas no que tange aos consectários legais, que devem ser fixados nos termos da decisão proferida pelo STF, no RE 870947 RG/SE – Tema 810/STF.
+Os honorários advocatícios serão definidos no juízo de execução, nos termos previstos no artigo 85, § 4o, inciso II, do CPC.
+Intime-se.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
