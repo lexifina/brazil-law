@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se concluiu que incide contribuição previdenciária sobre os valores pagos a título de adicional noturno, de insalubridade e de periculosidade, tendo em vista a natureza remuneratória dessas verbas.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação dos arts. 40, § 3°, e 201, § 11, da mesma Carta, sob o argumento de que não incide contribuição previdenciária sobre parcelas que não se incorporam aos proventos de aposentadoria do servidor público.
+    A pretensão recursal não merece acolhida.
+    Conforme a jurisprudência desta Corte, a controvérsia relativa à definição da natureza remuneratória ou indenizatória de verbas para efeito de incidência de contribuição previdenciária patronal restringe-se ao âmbito infraconstitucional. Nesse sentido, menciono os seguintes precedentes deste Tribunal:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, a controvérsia relativa à natureza remuneratória ou indenizatória das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame da legislação infraconstitucional.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 968.110-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma – grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS BASEADA NA NATUREZA JURÍDICA DA VERBA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. CARÁTER INFRACONSTITUCIONAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA.
+    1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba.
+    2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessária a análise da legislação infraconstitucional aplicável à espécie.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC” (RE 1.013.951-AgR/RS, Rel. Min. Edson Fachin, Segunda Turma – grifei).
+    Com esse entendimento, sobre as verbas em discussão nestes autos, destaco o RE 1.202.233-AgR/CE, Rel. Min. Gilmar Mendes, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. Contribuição previdenciária. Alcance da expressão folha de salários. Incidência sobre ganhos habituais do empregado. RE-RG 565.160 (tema 20). 4. Adicional noturno, de insalubridade e de periculosidade. Natureza da verba. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Negado provimento ao agravo regimental. Verba honorária majorada em 10%”.
+    Nesse mesmo sentido, cito ainda os seguintes julgados desta Corte, entre outros: RE 1.252.299/RN, Rel. Min. Edson Fachin; ARE 1.241.961/RN, Rel. Min. Alexandre de Moraes; ARE 1.199.763-AgR-segundo/SP, Rel. Min. Cármen Lúcia; RE 1.0955.055/RS, de minha relatoria; e RE 1.264.041/SP, Rel. Min. Roberto Barroso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com apoio no art. 85, § 11, do CPC, majoro em 20% (vinte por cento) os honorários anteriormente fixados.
+    Publique-se.
+    Brasília, 23 de abril de 2020.
+Ministro Ricardo Lewandowski
+Relator
