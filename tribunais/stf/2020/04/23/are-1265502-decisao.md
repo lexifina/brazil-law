@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de dois recursos extraordinários com agravo interpostos por ASCENCAO AMARELO MARTINS contra decisão de inadmissão dos recursos interpostos contra os acórdãos proferidos pelo SUPERIOR TRIBUNAL DE JUSTIÇA e pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIAO.
+    Decido.
+    Quanto à insurgência de ASCENCAO AMARELO MARTINS veiculada no apelo extremo interposto contra o acórdão proferido pelo SUPERIOR TRIBUNAL DE JUSTIÇA, verifica-se que o recurso extraordinário foi interposto na vigência da Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao art. 102 da Constituição Federal, criando a exigência de demonstração da repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    No caso em tela, o recurso extraordinário foi interposto após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional.
+    A petição recursal, todavia, não possui tópico devidamente fundamentado de repercussão geral da matéria, o que implica a impossibilidade do trânsito do presente recurso. Sobre o tema, anote-se: RE nº 569.476/SC-AgR, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 25/4/08; ARE nº 1.163.658/AP-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 14/12/18; ARE nº 1.138.998/PE-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 6/12/18; ARE nº 1.166.618/ES-AgR, Rel. Min. Roberto Barroso, DJe de 7/12/18.
+    Já quanto à insurgência de ASCENCAO AMARELO MARTINS contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIAO, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 656558, o Recurso Extraordinário com Agravo nº 748371 e o Recurso Extraordinário nº 852475 segundo a sistemática da repercussão geral (Temas nºs 309, 660 e 897, respectivamente) decidiu o seguinte:
+    a) quanto ao Tema nº 309: há repercussão geral - Acórdão de Repercussão Geral publicado,
+    b) quanto ao Tema nº 660: não há repercussão geral (questão infraconstitucional) - Trânsito em Julgado em 06/08/2013, e
+    c) quanto ao Tema nº 897: há repercussão geral - Trânsito em Julgado 06/12/2019.
+    O Código de Processo Civil assim disciplina os procedimentos aplicáveis aos recursos extraordinários que suscitem matéria(s) analisada(s) pelo STF no rito da repercussão geral:
+    Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá: (Redação dada pela Lei nº 13.256, de 2016)(Vigência)
+    I – negar seguimento: (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral; (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+    b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos; (Incluída pela Lei nº 13.256, de 2016)(Vigência)
+    II – encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+    III – sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional; (Incluído pela Lei nº 13.256, de 2016) (Vigência) (grifo nosso).
+    Ante o exposto, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e, quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de abril de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
