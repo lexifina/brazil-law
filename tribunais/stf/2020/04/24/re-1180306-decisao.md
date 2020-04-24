@@ -1,0 +1,13 @@
+DECISÃO:
+    1. Trata-se de recurso extraordinário interposto pela Mesa da Câmara Municipal de São Paulo, pelo Presidente da Câmara Municipal de São Paulo e pela Câmara Municipal de São Paulo contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Intervenção de terceiro: amicus curiae – Admissibilidade, des’que requerida antes de enviados os autos à Mesa, pelo Relator, para o julgamento da causa – Intervenção, no caso, manifesta a destempo pelo SINDSEP – Indeferimento.
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Emenda nº 39/2015 à Lei Orgânica do Município de São Paulo – Dispositivo que trata da concessão de aposentadoria especial a servidor integrante da Guarda Civil Municipal – Matéria Previdenciária – Aposentadoria especial de servidor público que deve ser regulada em norma de caráter nacional (lei complementar federal), de competência privativa da União e concorrente dos Estados e Distrito Federal (suplementar ou plena, na falta de lei federal), não aos Municípios (arts. 24, XII, e 40, § 2º, CF, este último reproduzido pelo art. 126, § 4º, da Constituição Estadual, todos aplicáveis aos Municípios por força do art. 144 da Constituição Estadual) – Jurisprudência do C. Supremo Tribunal Federal e desta Corte – Inconstitucionalidade reconhecida.
+    Ação julgada procedente.”
+    2. O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 24, XII, §§ 1º e 2º; e 30, I e II, da CF.
+    3. O Ministério Público Federal, em parecer do Subprocurador-Geral da República Wagner Natal Batista, opinou pelo não provimento dos recursos extraordinários em análise nos autos.
+    4. O recurso não deve ser provido. De acordo com a jurisprudência do Supremo Tribunal, a competência legislativa concorrente não afasta a necessidade de regulamentação por norma de caráter nacional, de competência da União, que trate de previdência social dos servidores públicos. Precedentes: RE 797.905-RG (Tema 727), Rel. Min. Gilmar Mendes; RE 785.311-AgR, Rel. Min. Luiz Fux; RE 941.001-AgR, Rel. Min. Dias Toffoli; ARE 685.002-AgR-Segundo, Relª. Minª. Rosa Weber.
+    5. Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento aos recursos extraordinários da Mesa da Câmara Municipal de São Paulo, do Presidente da Câmara Municipal de São Paulo e da Câmara Municipal de São Paulo. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 24 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
