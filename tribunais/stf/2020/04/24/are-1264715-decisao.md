@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (eDOC 7, pp. 1-5):
+    “CONSTITUCIONAL. PROCESSUAL PENAL. PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE PROVAS SEGURAS QUANTO À TRAFICÂNCIA. DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ARTIGO 28, DA LEI DE DROGAS. AUTORIA E MATERIALIDADE DELITIVAS CONFIGURADAS. JUÍZO DE DIREITO DA 2ª VARA ESPECIALIZADA EM CRIMES DE USO E TRÁFICO DE ENTORPECENTES QUE, EM SEDE DE CONTROLE DIFUSO DE CONSTITUCIONALIDADE, DECLAROU A INCONSTITUCIONALIDADE DO DISPOSITIVO. IRRESIGNAÇÃO RECURSAL EXCLUSIVA DO MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS. PEDIDO DE REFORMA DA DECISÃO DE PISO PARA AFASTAR A SUSOMENCIONADA DECLARAÇÃO DE INCONSTITUCIONALIDADE COM O CONSEQUENTE ENVIO DO CADERNO PROCESSUAL AO JUIZADO ESPECIAL CRIMINAL, COMPETENTE PARA SEU REGULAR PROCESSAMENTO E JULGAMENTO. PRESUNÇÃO DE CONSTITUCIONALIDADE DAS NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE PRONUNCIAMENTO DEFINITIVO SOBRE A MATÉRIA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO Nº 635.659/SP. DIVERGÊNCIA EXISTENTE ENTRE OS SUPREMOS MINISTROS ATÉ AQUI VOTANTES. NEGATIVA DE SUSPENSÃO DE TODAS AS AÇÕES QUE TRATAM DO TEMA. PLAUSIBILIDADE DAS ALEGAÇÕES RECURSAIS. COCAÍNA APREENDIDA. SUBSTÂNCIA ESTUPEFACIENTENTE SABIDAMENTE DE MAIOR LESIVIDADE. ARTIGO 28, DA LEI DE DROGAS, COM NATUREZA DE CRIME ABSTRATO, QUE TUTELA A SAÚDE PÚBLICA. DELITO DESPENALIZADO, MAS NÃO DESCRIMINALIZADO. RECURSO CONHECIDO E PROVIDO.”
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, alega-se violação ao art. 5º, X, da Constituição Federal. Busca-se, em suma, a declaração de inconstitucionalidade do art. 28 da Lei 11.343/2006.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal, no julgamento do RE 635.659, Rel. Min. Gilmar Mendes, pendente, ainda, a análise de mérito, concluiu pela existência de repercussão geral da matéria versada nestes autos (Tema 506), em entendimento assim sintetizado:
+    “Constitucional. 2. Direito Penal. 3. Constitucionalidade do art. 28 da Lei 11.343/2006. 3. Violação do artigo 5º, inciso X, da Constituição Federal. 6. Repercussão geral reconhecida.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 24 de abril de 2020
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
