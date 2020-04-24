@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CIVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À EDUCAÇÃO. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MP POR CONTA DA AUSÊNCIA DE PROFESSORES E PESSOAL ADMINISTRATIVO NO COLÉGIO ESTADUAL MONTEIRO DE CARVALHO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO PARQUET. PRELIMINAR ARGUIDA PELO APELADO DE AUSÊNCIA DE INTERESSE DE AGIR E DE QUE O PEDIDO SERIA GENÉRICO E INDETERMINADO. PRELIMINAR REJEITADA, NO MÉRITO, PROVIMENTO PARCIAL RECURSO”. (eDOC 9, p. 42)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, LIV; 84; e 167, I, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que houve ingerência direta do Poder Judiciário sobre o Poder Executivo, que estaria envidando todos os esforços para suprir os professores necessários ao sistema educacional, dentro das possibilidades materiais e financeiras. Colho o seguinte trecho do arrazoado:
+    “Há no presente momento inúmeras outras ações idênticas do Ministério Público do Estado do Rio de Janeiro versando sobre o mesmo tema, muitas com liminares já deferidas. A obrigação de cumprir todas as diversas liminares que hoje se encontram em vigor, e com diferentes conteúdos (contratação de professores temporários, abertura de concurso público, etc.) e prazos de cumprimento (10, 20, 30 dias, etc.), criam uma nível de desorganização administrativa que compromete toda a política de educação estadual”. (eDOC 11, p. 34)
+    Sustenta-se, igualmente, que o cumprimento da ordem judicial dependeria da prévia disponibilidade de recursos orçamentários. (eDOC 11, p. 38)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que apesar das medidas administrativas tomadas os alunos do Colégio Monteiro de Carvalho permaneceriam sem professores. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não se desconsidera ou se ignora os esforços da Administração Pública com vistas a superação das carências profissionais no caso descritas (fls.1.012), todavia, o direito à educação dos menores permanece vulnerado”. (eDOC 10, p. 1)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Por fim, quanto à alegada ofensa à norma do art. 2º da Constituição Federal, registro que esta Corte já firmou entendimento no sentido de que o Poder Judiciário pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes, o que se aplica ao caso dos autos em que se busca a tutela do direito à educação.
+    Nesse sentido, confiram-se os seguintes julgados desta Turma:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. OBRIGAÇÃO DE FAZER: REFORMA DE ESCOLA EM SITUAÇÃO PRECÁRIA. POSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 850215 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.4.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLÍTICAS PÚBLICAS. ACESSIBILIDADE. PORTADORES DE NECESSIDADES FÍSICAS ESPECIAIS. PRAZO PARA REALIZAÇÃO DE OBRAS. LEI N. 10.098/2000 E DECRETO N. 5.296/2004: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 722.778-AgR, rel. Min. Cármen Lúcia, 2ª Turma, DJe 3.4.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. POLÍTICAS PÚBLICAS. DESCUMPRIMENTO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. IMPLEMENTAÇÃO POR DETERMINAÇÃO JUDICIAL. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. VIOLAÇÃO. NÃO OCORRÊNCIA. HONORÁRIOS. MAJORAÇÃO. NÃO CABIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA”. (ARE 1.015.529 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.4.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de ação civil pública na origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 24 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
