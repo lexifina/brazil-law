@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1009163-09.2020.8.11.0000
+AGRAVANTE: DEUZENIR DA SILVA RIBEIRO
+AGRAVADO: MUNICIPIO DE RIBEIRAOZINHO, JOSE CARLOS MUNIZ
+A competência é, regimentalmente, reservada a uma das Câmaras de Direito Público e Coletivo.
+Redistribua-se.
+Cuiabá, 25 de abril de 2020.
+Des. Guiomar Teodoro Borges
