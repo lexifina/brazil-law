@@ -1,0 +1,29 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1009036-71.2020.8.11.0000 - COMARCA DE BARRA DO BUGRES
+IMPETRANTE(S): JOSIANE ALVES BARROS-DEF. PÚBLICO
+PACIENTE(S): DIEGO DOS SANTOS BARROS
+Vistos,
+Habeas Corpus impetrado em favor de DIEGO DOS SANTOS BARROS contra ato comissivo da 3a Vara Criminal da Comarca de Barra do Bugres, nos autos de incidente processual (Código 161078), que converteu o flagrante em prisão preventiva pelo cometimento, em tese, de furto - art. 155 do CP- (Sistema Primus).
+A impetrante sustenta que: 1) “o juízo a quo realizou a audiência de custódia sem QUALQUER DEFESA TÉCNICA ao paciente, não apresentando qualquer justificativa para que assim fizesse”, de modo que a prisão seria nula; 2) a decisão constritiva não estaria fundamentada em pressupostos da custódia cautelar.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade processual ao paciente, “aplicando-se, caso se repute cabível, medidas cautelares diversas da prisão” (ID 40289976), com documentos (ID 40289977/ID 40289979).
+Relatos.
+Na audiência de custódia realizada em 20.2.2020, o Juízo da 3a Vara Criminal da Comarca de Barra do Bugres converteu o flagrante em prisão preventiva mediante a seguinte fundamentação:
+“[...] No caso em apreço, verifica-se que o(s) indiciado(s) encontra(m)-se na hipótese autorizadora da decretação da prisão preventiva prevista no art. 312, do CPP, por conveniência da instrução criminal, bem como para assegurar a aplicação da lei penal e para garantia da ordem pública, haja vista que praticou supostamente o fato delituoso tipificado pelo art. 155 do Código Penal, anotando-se, inclusive, que o indiciado possui processo-crime em trâmite na Comarca de Tangará da Serra/MT (Acão Penal sob o no 374-04.2019.811.0055 – Código 299656; Executivo de Pena sob o no 10225-67.2019.811.0055 – Código 309305; Executivo de Pena sob o no 2000002-21.2019.811.0055 – Código 20000322). Desse modo, resta demonstrada a prática reiterada de crimes, evidenciando que a soltura prematura do acusado representaria risco iminente a garantia da ordem pública e social. Ensejando, de igual modo, a hipótese do art. 313, inciso II do Código de Processo Penal, autorizadora da prisão preventiva. Há ainda que se ressaltar, que o fumus comissi delicti está amparado no auto de prisão em flagrante, bem como no depoimento dos policiais que conduziram o autuado, em sede de investigação policial. Nesse sentido: [...].
+Diante dos elementos informativos que acompanham a presente comunicação, tenho que se revelam inadequadas e insuficientes às medidas cautelares diversas da prisão, além de estarem presentes as circunstâncias previstas no art. 312 do Código de Processo Penal, conforme requisito previsto no inciso II do art. 310 do mesmo diploma. Ademais, anoto que a medida de encarceramento prevenirá que o indiciado encontre mais estímulos relacionados com a infração porventura cometida, notadamente que receba a liberdade como prêmio pela prática de conduta desabonadora. Ante o exposto, HOMOLOGO o presente auto de prisão em flagrante e CONVERTO a prisão em flagrante delito em prisão preventiva do indiciado DIEGO DOS SANTOS BARROS, já qualificado nos autos, nos termos do artigo 312 e 310, II, 313, II ambos do Código de Processo Penal, para garantir a aplicação da lei penal e a ordem pública. [...].” (Arom Olímpio Pereira, juiz de Direito – ID 40289979)
+Pois bem.
+A audiência de custódia foi realizada sem a presença de advogado constituído ou nomeado (ID 40289979).
+Todavia, o c. STJ firmou entendimento no sentido de que a falta do defensor na audiência de custódia não enseja a anulação do ato constritivo, sobretudo por se tratar de ato realizado antes da fase processual, “onde a ausência de defesa técnica é, sim, causa de nulidade” (RHC n. 111.891/MT – Relator: Min. Reynaldo Soares da Fonseca – 1o.7.2019; RHC 121.048/MG – Relator: Min. Leopoldo de Arruda Raposo [Desembargador convocado do TJ/PE] – 13.12.2019).
+Portanto, não se evidencia a nulidade apontada.
+Em sua vez, o Juízo singular motivou a prisão preventiva na garantia da ordem pública, consubstanciada a reiteração delitiva do paciente, o qual possui condenações por roubo e furto (Executivo de Pena no 2000002-21.2019.8.11.0055 - https://seeu.pje.jus.br).
+A fundada probabilidade de reiteração delitiva justifica a ordem de prisão cautelar (STF, HC no 128.779 - Relator: Min. Dias Toffoli; HC no 135.418 - Relator: Min. Gilmar Mendes; HC no 135.105, - Relatora: Min.a Cármen Lúcia; HC no 137558AgR - Relator: Min. Roberto Barroso - 13.3.2017).
+Destaca-se o Enunciado Criminal 6 deste e. Tribunal:
+“O risco de reiteração delitiva, fator concreto que justifica a manutenção da custódia cautelar para a garantia da ordem pública, pode ser deduzido da existência de inquéritos policiais e de ações penais por infrações dolosas em curso, sem qualquer afronta ao princípio da presunção de inocência.” (www.tjmt.jus.br)
+Quanto às medidas cautelares alternativas, verifica-se que são inadequadas/insuficientes para preservar a ordem pública, em análise perfunctória, sopesada a reiteração delitiva em crimes patrimoniais, notadamente porque o paciente foi preso em flagrante 6 (seis) dias após obter liberdade provisória (concedida em 13.2.2020, conforme Executivo de Pena no 2000002-21.2019.8.11.0055 - https://seeu.pje.jus.br/).
+Segue-se orientação do c. STF:
+“Paciente em gozo de liberdade provisória, quando da prática do delito. 6. As medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.” (HC no 127979 - Relator: Min. Gilmar Mendes - 3.11.2015)
+Com essas considerações, INDEFERE-SE o pedido liminar.
+Outrossim, COMUNIQUE-SE o Juízo singular sobre esta impetração, facultadas informações, no prazo de até 5 (cinco) dias.
+Após, abra-se VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 27 de abril de 2020.
+Des. MARCOS MACHADO
