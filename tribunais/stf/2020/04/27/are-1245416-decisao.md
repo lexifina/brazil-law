@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. ARGUMENTOS INSUFICIENTES PARA INFIRMAR A DECISÃO AGRAVADA QUE SE MANTÊM POR SEUS PRÓPRIOS FUNDAMENTOS. DESCONTOS PARA O FUNBEN. INCONSTITUCIONALIDADE DA LEI. RESTITUIÇÃO. POSSIBILIDADE. MANUTENÇÃO DE ATENDIMENTO MÉDICO NO HOSPITAL DO SERVIDOR INDEPENDENTEMENTE DA CONTRIBUIÇÃO PARA O FUNBEN. AGRAVO CONHECIDO E IMPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 196 da CF. Sustenta, em essência, a constitucionalidade da instituição de um fundo destinado à prestação de atendimento complementar à saúde dos servidores públicos estaduais, custeado por meio de contribuição incidente diretamente no contracheque dos estatutários.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No que se refere à alegada contrariedade ao artigo mencionado, porém, constato a ausência de prequestionamento, uma vez que tal matéria não foi objeto de análise por parte do Acórdão recorrido, incidindo, na espécie, o óbice da Súmula 282 do Supremo Tribunal Federal.
+    Ante o exposto, inadmito o presente Recurso Extraordinário.”
+    A pretensão recursal não merece prosperar. A alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, dissentir das conclusões adotadas demandaria o reexame da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmula 280/STF). Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ATENDIMENTO MÉDICO EM HOSPITAL DO SERVIDOR INDEPENDENTE DA CONTRIBUIÇÃO PARA O FUNDO DE BENEFÍCIOS DOS SERVIDORES DO ESTADO DO MARANHÃO – FUNBEN: LEI ESTADUAL N. 7.374/1999. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 1.237.161-AgR, Relª. Minª. Cármen Lúcia)
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO. FUNDO DE BENEFÍCIOS DOS SERVIDORES DO ESTADO DO MARANHÃO. COMPULSORIEDADE AFASTADA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+    1. O acórdão recorrido, ao afastar a compulsoriedade dos descontos para o Fundo de Benefícios dos Servidores do Estado do Maranhão, está alinhado com a jurisprudência desta Corte, que, ao apreciar o Tema 55 da sistemática da repercussão geral, fixou a seguinte tese: I - Os Estados membros possuem competência apenas para a instituição de contribuição voltada ao custeio do regime de previdência de seus servidores. Falece-lhes, portanto, competência para a criação de contribuição ou qualquer outra espécie tributária destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores; II - Não há óbice constitucional à prestação, pelos Estados, de serviços de saúde a seus servidores, desde que a adesão a esses ‘planos’ seja facultativa.
+    2. Para a solução da controvérsia relativa à manutenção do atendimento no Hospital do Servidor, seria indispensável o reexame da legislação infraconstitucional pertinente. Precedentes.
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1.203.727-AgR, sob a minha relatoria)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 27 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
