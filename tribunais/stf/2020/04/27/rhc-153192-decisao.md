@@ -1,0 +1,24 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Delson Lima Neto contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da lavra do Ministro Sebastião Reis Júnior, que negou provimento ao RHC 87.589/RJ.
+    O Recorrente foi preso cautelarmente e, posteriormente, denunciado pela suposta prática do crime de organização criminosa (art. 2º, § 2º, da Lei 12.850/2013).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem.
+    A questão, então, foi submetida à apreciação da Sexta Turma do Superior Tribunal de Justiça, que, em acórdão da lavra do Ministro Sebastião Reis Júnior, negou provimento ao RHC 87.589/RJ.
+    No presente recurso ordinário, argumenta a Defesa, em síntese, falta de fundamentação idônea da prisão preventiva, porquanto ausentes os requisitos autorizadores. Sustenta a existência de circunstâncias favoráveis ao Recorrente, como possuir residência fixa e ocupação lícita. Aduz que ‘o Juízo se baseia na única testemunha que supostamente teria reconhecido o paciente’. Requer, em medida liminar e no mérito, a revogação da constrição cautelar do Recorrente.
+    É o relatório.
+    Decido.
+    Colho do acórdão recorrido:
+    “PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. RECORRENTE INTEGRANTE DE MILÍCIA DENOMINADA LIGA DA JUSTIÇA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. DECRETO PREVENTIVO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO IMPROVIDO.
+    1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente na participação do recorrente e outros acusados em organização criminosa denominada Liga da Justiça, na medida em que se organizaram e estipularam funções de planejamento e execução de delitos, utilizando modus operandi de grupo criminoso conhecido por milícia, tais como homicídios, cobrança extorsiva de taxas de segurança e porte ilegal de arma de fogo.
+    2. Recurso em habeas corpus improvido.
+    Não obstante o recebimento do recurso ordinário pela Vice-Presidência do Superior Tribunal de Justiça, constato a inadequação da via eleita.
+    Na dicção do art. 102, II, a, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus decidido em única instância pelos Tribunais Superiores, se denegatória a decisão.
+    Na hipótese, o presente recurso ordinário, manejado contra o acórdão exarado em outro recurso ordinário anteriormente interposto perante o Superior Tribunal de Justiça, configura erro grosseiro que impede a aplicação do princípio da fungibilidade recursal (RHC 123.002/MS, de minha relatoria, 1ª Turma, DJe 28.10.2014; e RHC 120.363-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 19.3.2014).
+    Ademais, manifesta a intempestividade do presente recurso ordinário em habeas corpus. O acórdão impugnado foi publicado em 09.10.2017, segunda-feira. O recurso foi protocolado em 23.10.2017, segunda-feira, após o prazo de 5 dias, consoante disposto na Súmula 319/STF e no art. 310 do RISTF. Inexistente nos autos notícia ou elemento indicativo de causa suspensiva ou interruptiva do prazo recursal, cuja prova, em qualquer hipótese, incumbiria à Recorrente.
+    Por outro lado, na esteira do parecer ministerial, ‘em consulta ao sítio eletrônico do TJ/RJ aos autos da ação penal originária de nº 0006070-36.2016.8.19.0206, de competência do Juízo da 2ª Vara Criminal da Comarca do Foro Regional de santa Cruz – Rio de Janeiro/RJ, tem-se que no dia 11/01/2018 foi proferida sentença condenatória, sendo o recorrente condenado a 11 anos e 3 meses de reclusão em regime inicial fechado’.
+    Nesse contexto, ressalto que foi alterado substancialmente o quadro fático do caso, não mais subsistindo prisão preventiva decretada antes do julgamento, e sim segregação cautelar baseada em sentença condenatória, com a consequente alteração do título prisional. A superveniência da sentença condenatória exarada pelo magistrado de primeiro grau, portanto, passou a constituir o novo título, a desafiar nova impetração perante o Tribunal de Justiça.
+    Anoto, por fim, que a jurisprudência desta Corte é no sentido de que “A superveniência de sentença de pronúncia ou condenatória na qual é mantida a prisão cautelar, anteriormente decretada, implica a mudança do título da prisão e prejudica o conhecimento do habeas corpus impetrado contra a prisão antes do julgamento” (HC 103.027/SP, Rel. Min. Marco Aurélio, Redatora para o acórdão Min. Rosa Weber, 1ª Turma, DJe 12.8.2013).
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2020.
+Ministra Rosa Weber
+Relatora
