@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro ementado nos seguintes termos:
+    “Acordam os Juízes que integram a Primeira Turma Recursal Fazendária, por unanimidade, em conhecer do recurso e negar-lhe provimento para manter a sentença por seus próprios fundamentos. Condenado o recorrente ao pagamento das custas e honorários advocatícios, arbitrados no percentual mínimo estabelecido nos termos do art. 85, §§ 1º e 2º do CPC, em 10% do valor da execução, observado o art. 98, §§ 1º ao 3º, do Código de Processo Civil, valendo esta súmula como acórdão.” (eDOC 4, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 1º, III; 5º, XXXV, LIV e LV; 196 e 197, do texto constitucional.
+    Nas razões recursais, alega-se que autor utilizou tanto da medicação disponibilizada pelo Município quanto da verba recebida para tratamento de sua doença. (eDOC 7, p. 5)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base na sentença, consignou que o autor deve depositar em juízo o valor da verba que lhe fora fornecida. Nesse sentido, extrai-se o seguinte trecho:
+    “Os executados, Município e Estado impugnaram o requerimento, argumentado que a tutela jurisdicional concedida alberga somente uma dose do medicamento, para o joelho esquerdo do autor, que já havia sido fornecido pelo Município, de forma que a segunda dose, para o joelho direito não faz parte do objeto do presente feito. Assim, além da extinção da execução, pugnam pela devolução do valor levantado pelo autor.
+    Da análise detida dos autos, verifica-se que, de fato, o Acórdão de fls. 234/235, modificou a sentença para excluir a condenação de fornecimento de outros medicamentos de forma genérica, de forma que a tutela concedida alberga tão somente uma dose do medicamento SYNOVIUM 75mg, par ao joelho esquerdo, que já havia sido fornecido pelo Município quando do requerimento do levantamento do valor.
+    Portanto, verifica-se que o cumprimento da sentença, não havendo nada pendente a executar. Por consequência, o autor deve ser intimado a depositar em juízo o valor levantado.” (eDOC 2, p. 1)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Fornecimento de medicamento. Necessidade. Comprovação. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (AI 868203 AgR, Re. Min. Dias Toffoli, Tribunal Pleno, DJe 18.9.2019)
+    “DIREITO CONSTITUCIONAL. DIREITO À SAÚDE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MEDICAMENTO. FORNECIMENTO. OBRIGAÇÃO SOLIDÁRIA. ENTES FEDERATIVOS. PRECEDENTES. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o fornecimento gratuito de tratamentos e medicamentos necessários à saúde de pessoas hipossuficientes é obrigação solidária de todos os entes federativos, podendo ser pleiteado de qualquer deles, União, Estados, Distrito Federal ou Municípios (Tema 793). 2. Agravo a que se nega provimento.” (RE 892590 AgR-segundo, Rel. Min. Roberto Barroso, Primeira Turma, DJe 30.9.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
