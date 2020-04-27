@@ -1,0 +1,30 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+GABINETE DESEMBARGADOR MÁRCIO VIDAL
+Agravo de Instrumento n. 1008799-37.2020.8.11.0000
+Processo originário: Ação Popular n. 1016418-89.2020.8.11.0041– Vara Especializada em Ação Civil Pública e Ação Popular da Comarca de Cuiabá)
+Agravante: JÚNIOR CÉSAR LEITE DA SILVA
+Agravado: Município de Sorriso
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento, interposto por Júnior César Leite da Silva, contra a decisão, proferida pelo Juízo da Vara Especializada em Ação Civil Pública e Ação Popular da Comarca da Capital, que, nos autos da Ação Popular n. 1016418-89.2020.8.11.0041, por ele movida, em face do Município de Sorriso e outros, declinou da competência em razão da provável conexão com a Ação Civil Pública 1000656-41.2017.811.0040, cuja competência para julgamento coube à Justiça Federal.
+O Recorrente sustenta que ingressou com a aludida Ação Popular, com pedido de tutela de urgência, para determinar que os réus interrompam, de imediato, a construção de uma obra que irá sediar uma escola municipal.
+Noticia que a área onde está sendo realizada a referida construção é objeto de uma Ação Civil Pública, que objetiva a reparação ao meio ambiente, em razão de diversas irregularidades cometidas, inclusive, sem licença ambiental válida, posto que a área em comento é uma reserva ambiental, além de ser considerada área rural, logo, não poderia haver transferência para área urbana.
+Assevera que a Ação Civil Pública supracitada foi remetida à Justiça Federal, por força da decisão do STJ, em razão da instauração do conflito de competência entre a 4a Vara Cível da Comarca de Sorriso e a Justiça Federal.
+Informa que inexiste conexão entre as demandas, porque a Ação Civil Pública envolve apuração de fatos irregulares no loteamento descrito na inicial, bem como infrações ambientais, com a consequente reparação e indenização, se cabíveis à espécie, ao passo que, a Ação Popular em testilha, se refere a fazer cessar a construção de uma obra pública, em uma área proibida, por se tratar de reserva legal, portanto, protegida pelas leis ambientais.
+Aduz que a Ação Popular tem sujeitos diversos e objeto diverso dos da Ação Civil Pública n. 1000656-41.2017.811.0040, e não se presta a apurar condutas ilegais ou puni-las, mas, tão somente, fazer cessar o possível dano ambiental, e, por isso, não há falar em conexão, de modo que a competência para o seu julgamento deveria permanecer na Vara Especializada da Ação Civil Pública e Ação Popular da Comarca da Capital.
+Dessa forma, pede a concessão do efeito suspensivo e da tutela ativa recursal, para suspender os efeitos da decisão atacada, e, no mérito, o provimento do recurso.
+Juntou documentos.
+É a síntese. Decido.
+Como explicitado alhures, Júnior César Leite da Silva pretende a suspensão dos efeitos decisão, proferida pelo Juízo da Vara Especializada em Ação Civil Pública e Ação Popular da Comarca da Capital, que, nos autos da Ação Popular n. 1016418-89.2020.8.11.0041, por ele movida, em face do Município de Sorriso e outros declinou da competência para a Justiça Federal, em razão da conexão com a Ação Civil Pública n. 1000656-41.2017.811.0040.
+A questão resume-se em saber se é o caso de conceder, liminarmente, o efeito suspensivo, consoante a norma procedimental do artigo 1.019, inciso I, do Código de Processo Civil (Lei 13.105/2015), o que somente será concedido nos casos, em que houver probabilidade de provimento do recurso ou houver risco de dano grave ou de difícil reparação, por aplicação analógica do artigo 1.012, parágrafo 4o.
+Denota-se dos autos que o Ministério Público Estadual ajuizou Ação Civil Pública contra o Município de Sorriso e outros, em razão de danos ao meio ambiente, supostamente, cometidos pelos réus, buscando, dessarte, a reparação e indenização pertinentes.
+Verifica-se que a Ação Civil Pública em comento foi objeto de Conflito de Competência, porquanto foi conferida conexão com a Ação 711-02.2017.4.01.3603, distribuída perante a Justiça Federal de Sinop/MT, cujo objetivo é a anulação da penalidade administrativa aplicada pelo IBAMA, bem como do embargo ambiental apresentado pelo referido órgão, uma vez que ambas as ações estariam baseadas em controvérsia relativa à eventual desobediência das mesmas licenças e regras ambientais expedidas pelos órgãos competentes.
+Desse modo, o STJ determinou a reunião dos feitos invocados no aludido conflito e declarou que o julgamento de ambos seja da competência do Juízo Federal da 2a Vara de Sinop/MT.
+Entrementes, da leitura dos documentos que instruem os autos, analisando não só os fundamentos deste recurso, como também os documentos e o objeto da ação de base, verifico que, in casu, a probabilidade do direito invocado neste Recurso está presente, na medida em que não há, a priori, elementos bastantes, nos autos de base, que justifiquem a necessidade de reunião das ações em comento, porque, malgrado a área em que se pretende fazer cessar a construção da obra que abrigará a escola municipal seja também objeto da Ação Civil Pública, que apura danos ambientais, a causa de pedir é distinta, assim como são, também, os sujeitos envolvidos em cada um dos litígios, respectivamente, de modo que não se vislumbra, nessa fase perfunctória de cognição sumária, a presença dos requisitos ensejadores da conexão.
+Por tais considerações, neste exame preliminar da matéria, convenci-me da probabilidade de provimento do recurso e da existência de risco de dano grave, ou de difícil reparação ao direito do Agravante.
+Não há desconsiderar ainda que, em se tratando de decisão liminar, pode o Magistrado revogá-la no curso da instrução, caso altere sua convicção.
+Ante o exposto, CONCEDO o efeito suspensivo postulado, para sobrestar os efeitos da decisão agravada, até o julgamento do mérito pelo Colegiado.
+Intime-se a parte agravada para contraminutar o Recurso, facultando-lhe juntar a documentação que entender necessária ao julgamento do Agravo.
+Colha-se o parecer da Procuradoria-Geral de Justiça.
+A seguir, façam-me conclusos os autos.
+Intime-se e cumpra-se.
+Cuiabá/MT, 27 de abril de 2020.
