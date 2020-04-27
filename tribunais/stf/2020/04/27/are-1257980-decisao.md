@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 4, p. 1):
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. DETRAN. VEÍCULO ADQUIRIDO EM OUTRO ESTADO - SÃO PAULO – NO ANO DE 2014. COBRANÇA DE IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULO AUTOMOTOR – IPVA – NO RIO DE JANEIRO. EXERCÍCIO DE 2014 ANTERIORMENTE QUITADO NO ESTADO DE SÃO PAULO. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DO RÉU. A transferência de veículo é comprovada através da entrega do Certificado de Registro Veicular – CRV. As provas demonstram que a propriedade do veículo somente foi transferida ao autor, residente no Estado do Rio de Janeiro, após o pagamento do tributo do exercício de 2014 no Estado de São Paulo, pelo antigo proprietário. Nova cobrança configura bitributação, o que é vedado pelo ordenamento. Recurso CONHECIDO e DESPROVIDO.”
+    Os embargos de declaração foram desprovidos (eDoc 7, p. 1).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 24, §§ 1º e 3º, 146, I e III, “a”, e 155, III, do Texto Constitucional.
+    Sustenta-se tratar a lide de “controvérsia acerca do local a ser pago o Imposto sobre a Propriedade de Veículos Automotores – IPVA, se em favor do estado no qual se encontra sediado ou domiciliado o contribuinte ou onde registrado e licenciado o veículo automotor cuja propriedade constitui fato gerador do tributo e que decorre da aplicação do art. 155, III da CF” (eDOC 9, p. 1).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na Súmula 284 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 4, pp. 3-7):
+    “O recurso é tempestivo e ostenta os demais requisitos de admissibilidade, razão porque o conheço. O autor interpôs a ação anulatória de débito fiscal objetivando afastar a cobrança do IPVA do ano 2014, pois, alega que este tributo foi integralmente pago a outro ente da Federação, o Estado de São Paulo, em razão de ser o local de residência do antigo proprietário do automóvel.
+    Inicialmente cumpre esclarecer que a hipótese não se enquadra na discutida pelo Supremo Tribunal Federal, ARE 784682 RG/MG, onde se reconheceu a repercussão geral da controvérsia acerca do local a ser pago o Imposto sobre a Propriedade de Veículos Automotores – IPVA, uma vez que a matéria discutida diz respeito à registro de veículos em unidade federativa diversa da que o proprietário tem domicílio, o que não é o caso nestes autos.
+    O autor, ora apelado, comprou um veículo que estava licenciado no Estado de São Paulo, cuja transferência de propriedade é comprovada através da entrega dos Certificados de Registro Veicular – CRV, item 000011: [...].
+    O valor do IPVA – exercício 2015 – foi corretamente pago no Estado do Rio de Janeiro, local de residência do novo proprietário, ora recorrido, que obteve novo documento veicular para o ano de exercício 2015, o que demonstra a inexistência de pendências no pagamento do tributo, o que, à época, inviabilizaria a vistoria realizada pelo Detran: [...].
+    Deste modo, nova cobrança configura bitributação, o que é vedado pelo ordenamento. Portanto, correta a sentença que não merece reparo.”
+    De plano, constata-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso a Súmula 284 desta Corte.
+    Isso porque, como demonstra o trecho acima transcrito, não está em discussão a “Possibilidade de recolhimento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) em estado diverso daquele em que o contribuinte mantém sua sede ou domicílio tributário”, controvérsia em debate no Tema 708 da sistemática da repercussão geral (ARE 784682 RG, Relator: Min. MARCO AURÉLIO, DJe 24-4-2014).
+    Além disso, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, para exame da existência, ou não, de bitributação em concreto, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Nesse sentido: ARE 1043272 (Relator: Min. ROBERTO BARROSO, DJe 16/12/2019); ARE 987759 (Relator: Min. GILMAR MENDES, DJe 24/9/2019); ARE 1108925 (Relator: Min. MARCO AURÉLIO, DJe1º/10/2018).
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos dos arts. 932, IV, “a”, do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de abril de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
