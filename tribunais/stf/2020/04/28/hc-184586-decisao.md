@@ -1,0 +1,22 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Hugo Andrade Cossi em favor de Wilsonei Sebastião de Oliveira, contra acórdão da 5ª Turma do Superior Tribunal de Justiça, da lavra do Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), que negou provimento ao agravo regimental no HC 555.086/SP.
+    O paciente foi condenado à pena de 02 (dois) anos de reclusão, em regime aberto, substituída por 02 (duas) restritivas de direitos, pela prática do crime de contrabando (art. 334-A, § 1º, IV e V do Código Penal).
+    Em sede de apelação, o Tribunal Regional Federal da 3ª Região de parcial provimento ao recurso ministerial para majorar a pena para 02 (dois) anos e 06 (seis) meses de reclusão.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), não conheceu do HC 555.086/SP. Ato contínuo, a Corte Superior negou provimento ao agravo regimental interposto pela Defesa.
+    No presente writ, a Defesa alega a aplicação do princípio da insignificância dada a mínima ofensividade da conduta supostamente perpetrada, à luz da Portaria 75/2012 do Ministério da Fazenda. Requer, em medida liminar, a suspensão da execução da pena e, no mérito, a absolvição do paciente.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCAMINHO. CIGARRO. MERCADORIA INTEGRANTE DO FATO GERADOR. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+    I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+    II - Com efeito, 'os Tribunais Superiores possuem entendimento consolidado de que o princípio da insignificância não se aplica aos crimes de contrabando de cigarros, por menor que possa ter sido o resultado da lesão patrimonial, pois a conduta atinge outros bens jurídicos, como a saúde, a segurança e a moralidade públicas. Precedentes do STF e do STJ' (REsp n. 1.719.439/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 24/08/2018, grifei).
+    Agravo regimental desprovido”.
+    Consta da denúncia que ‘em fiscalização de rotina, Policiais Militares abordaram o veículo que Claudinei Cândido de Faria conduzia e encontraram, no seu veículo, dois pacotes fechados de cigarros da marca TE. Quando interrogado, Claudinei os informou o local onde comprou os cigarros. Na sequência, foram até o local indicado por Claudinei, e localizaram o réu, que negou a venda dos cigarros. Assim, foi realizada vistoria em seu carro e localizaram 22 (vinte e dois) pacotes de cigarros da marca TE e 8 (oito) da marca MI. Na sua casa, foram encontrados mais 810 (oitocentos e dez) pacotes de cigarros da marca TE, 181 (cento e oitenta e um) da marca Mill, 46 (quarenta e seis) da marca Eight, 4 (quatro) maços da marca Mill, 1 (um) maço da TE e 3 (três) maços da marca Eight (fls. 100/101)’.
+    O delito de contrabando de cigarros reveste-se de elevada reprovabilidade, sobretudo pela violação de bens juridicamente tutelados não restritos ao erário, como o caso da saúde pública, a inviabilizar a aplicação do princípio da insignificância.
+    Nesse prisma, o ato dito coator está em conformidade com a jurisprudência desta Suprema Corte no sentido da ‘Impossibilidade de incidência, no contrabando ou descaminho de cigarros, do princípio da insignificância’ (HC 131.205/MG, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 22.9.2016); ‘O princípio da insignificância não incide na hipótese de contrabando de cigarros, tendo em vista que, além do valor material, os bens jurídicos que o ordenamento jurídico busca tutelar são os valores éticos-jurídicos e a saúde pública’ (HC 129.382-AgR/PR, Rel. Min. Luiz Fux, 1ª Turma, DJe 16.9.2016); ‘Consoante entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, não se aplica o princípio da insignificância ao contrabando de cigarros’ (RE 821.108-AgR/PR, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.9.2014).
+    Inexistente, pois, ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de abril de 2020.
+Ministra Rosa Weber
+Relatora
