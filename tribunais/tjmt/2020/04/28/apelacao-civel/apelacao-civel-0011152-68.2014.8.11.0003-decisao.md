@@ -1,0 +1,26 @@
+RAC No 00011152-68.2014.8.11.0003
+APELANTES: OLAVO AGUIAR PAIVA FILHO e JOSÉ LUIZ SOARES DE MENDONÇA
+APELADO: JOÃO CARLOS MARINHO LUTZ
+Vistos etc.
+Chamo o feito à ordem.
+JOSÉ LUIZ SOARES DE MENDONÇA, interpôs o recurso de apelação Cível no ID no 8557450, sem, no entanto, recolher às custas de preparo. Contudo, no ID no 8557457, requereu os benefícios de assistência judiciária gratuita, isenção de custas e de honorários advocatícios, juntando nos autos os documentos de ID no 8557458 a ID no 8557461.
+É o necessário.
+Decido.
+O direito pretendido pode ser deferido mediante simples declaração da parte de que não possui meios financeiros para custear as despesas processuais ou diante de outros documentos que atestem hipossuficiência. Porém, o julgador pode negá-lo quando não encontrar elementos suficientes para a aludida assistência judiciária gratuita, como o caso dos autos
+Isto porque, não se pode perder de vista que o direito à gratuidade da justiça é assegurado àquele que for verdadeiramente necessitado e não ao que se diz necessitado, inclusive pela simples leitura das peças processuais extrai-se informações relevantes sobre a capacidade financeira da parte e, é com base nisso que se deferirá, ou não, a gratuidade da justiça.
+In casu, em que pese as declarações de impossibilidade da parte recorrente, não é o que se evidencia dos autos, porquanto, apesar trazer os documentos de ID no 8557458 a ID no 8557461 (recibo de pagamento de pró-labore, atestado de capacidade reduzida, certidão de tabelionado que é proprietário de 70% de 1/3 da área de 11,00 hectares, auto de arrematação de 1/6 da área 11 hectares e comprovante cadastro nacional de pessoa física), a parte não trouxe elementos aptos a demonstrar a alegada necessidade, como por exemplo declaração de imposto de renda ou extrato bancário.
+Aliás, pelos documentos trazidos aos autos (proprietário de 70% de 1/3 da área de 11,00 hectares, o qual foi reduzido somente 1/6 (um sexto), bem como o recibo de pagamento de pró-labore, o que indica ser sócio proprietário de alguma empresa), além do valor em discussão (R$249.048,70), por si só, demonstra que não se trata de parte que apresenta hipossuficiência econômica.
+Sobre o tema, esclarecem os doutrinadores NELSON NERY JUNIOR e ROSA MARIA DE ANDRADE NERY:
+“O juiz da causa, valendo-se de critérios objetivos, pode entender que a natureza da ação movida pelo interessado demonstra que ele possui porte econômico para suportar as despesas do processo. A declaração pura e simples do interessado, conquanto seja o único entrave burocrático que se exige para liberar o magistrado para decidir em favor do peticionário, não é prova inequívoca daquilo que ele afirma, nem obriga o juiz a se curvar aos seus dizeres se de outras provas e circunstâncias ficar evidenciado que o conceito de pobreza que a parte invoca não é aquele que justifica a concessão do privilégio. Cabe ao magistrado, livremente, fazer juízo de valor acerca do conceito do termo pobreza, deferindo ou não o benefício”. (Código de Processo Civil comentado e legislação extravagante. 11. ed. São Paulo: Revista dos Tribunais, 2010. p. 1.562). Grifei.
+Ainda sobe o tema, segue uma coletânea de ementas extraídas dos mais diversos tribunais brasileiros:
+Superior Tribunal de Justiça: Primeira Turma
+" PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO RECEBIDO COMO AGRAVO REGIMENTAL. GRATUIDADE DE JUSTIÇA. APRESENTAÇÃO DE DOCUMENTOS QUE LEVARAM AO INDEFERIMENTO. PRESUNÇÃO LEGAL AFASTADA. (...) 4. Ademais, conforme entendimento jurisprudencial pacífico do STJ, "a presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais (STJ - AgRg no AREsp 136.756/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 24/04/2013). 5. (...) (STJ - EDcl no AREsp 168203 / RJ. Relator Min Benedito Gonçalves. Órgão Julgador: T1. Data do Julgamento: 06/12/2012. DJe: 11/12/2012)
+Superior Tribunal de Justiça: Quarta Turma
+" PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PROPÓSITO NITIDAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. POSSIBILIDADE. PEDIDO DE JUSTIÇA GRATUITA. PESSOA FÍSICA. INDEFERIMENTO PELA INSTÂNCIA ORDINÁRIA. PRESUNÇÃO IURIS TANTUM. 1. A afirmação de impossibilidade de arcar com o ônus financeiro de processo judicial possui presunção iuris tantum, podendo o magistrado indeferir a assistência judiciária se não encontrar fundamentos que confirmem o estado de hipossuficiência do requerente. Precedente. 2. Embargos de declaração recebidos como agravo regimental, a que se nega provimento. (STJ - EDcl no AREsp 38303 / RJ. Rel. Min. MARIA ISABEL GALLOTTI. Órgão julgador: T4. Data do Julgamento: 26/05/2013. DJe 01/06/ 2013)
+Assim, uma vez que a precariedade econômica não restou evidenciada, intime-se a parte recorrente para providenciar o preparo do recurso no prazo de 5 (cinco) dias, sob pena de deserção.
+Decorrido o prazo, encaminhem-se os autos ao DEJAUX para certificar o regular pagamento.
+Após, voltem-me os autos, com máxima urgência para julgamento.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de abril de 2020.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
