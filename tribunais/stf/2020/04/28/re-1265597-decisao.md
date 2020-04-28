@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado da Paraíba confirmou o entendimento do Juízo quanto à procedência do pedido de pagamento de diferenças salariais decorrentes de aumento de jornada de trabalho. No extraordinário, o recorrente aponta a violação do artigo 37, inciso XV, da Constituição Federal. Alega que a adoção de jornada de trabalho de sete horas, por ato normativo, não implicou contrariedade à previsão legal sobre carga horária. Afirma devido o pagamento de horas extras apenas após a oitava hora diária, aludindo à Resolução nº 88/2009 do Conselho Nacional de Justiça. Afirma a existência de autorização legislativa para o acréscimo de jornada, vedado o aumento remuneratório. Discorre sobre a ausência de direito adquirido a regime jurídico.
+    2. Da sentença, expressamente mantida pelo acórdão recorrido, consta:
+    Como se sabe, com base do art. 19 da Lei Complementar nº 58, de 30 de dezembro de 2003, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba, os servidores do Tribunal de Justiça do Estado da Paraíba cumpriam carga horária de 6 (seis) horas diárias, ininterruptas, in verbis:
+      “Art. 19 - A jornada máxima semanal de trabalho é de quarenta e quatro horas, respeitada duração mínima e máxima de seis e oito horas diárias, respectivamente. “
+    Com o advento da Resolução nº 88/2009, do Conselho Nacional de Justiça, na qual estabeleceu, em seu art. 1º, que o regime de trabalho para servidores do Poder Judiciário em todo país seria de 08 (oito) horas diárias e 40 (quarenta) semanais, facultando a fixação de 07 (sete) horas ininterruptas.
+     Com base nesse ato normativo, o Tribunal de Justiça do Estado da Paraíba editou a Resolução nº 33/2009, datada de 18/11/2009, cujo art. 6º, determinou o aumentando da jornada de trabalho de seus servidores, passando a exigir a 7ª (sétima) hora diária, sem qualquer compensação remuneratória:
+    “Art. 6º. No ato de composição dos grupos de servidores referidos nos arts. 2º e 3º desta Resolução, deverá ser respeitada a jornada de trabalho de sete horas ininterruptas ou oito horas com intervalo de duas horas, estipulada na forma do art. 19 da Lei Complementar nº 58/2003.”
+    Posteriormente, o Supremo Tribunal Federal, por ocasião do julgamento do RE nº 660.010/PR, cuja repercussão geral fora submetida ao rito dos recursos repetitivos (art. 543-B do CPC/73), firmou entendimento pela impossibilidade do acréscimo da carga horária dos servidores públicos sem a respectiva vantagem remuneratória, sob pena de afronta ao princípio da irredutibilidade dos vencimentos.
+    A decisão impugnada está em harmonia com a jurisprudência do Supremo, considerado o julgamento do recurso extraordinário com agravo nº 660.010, da relatoria do ministro Dias Toffoli, submetido à sistemática da repercussão geral, no sentido de que a ampliação da jornada de trabalho sem alteração da remuneração do servidor implica violação à regra constitucional da irredutibilidade de vencimentos. Na ocasião, fiquei vencido, em parte, por concluir pela impossibilidade de o Estado alterar a jornada de trabalho dos servidores.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 28 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
