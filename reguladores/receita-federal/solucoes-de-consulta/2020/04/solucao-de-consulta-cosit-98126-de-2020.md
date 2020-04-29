@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98126, de 2 de abril de 2020
+Assunto: Classificação de Mercadorias Código NCM: 9021.90.19 Mercadoria: Microimplante intraocular, de titânio revestido com heparina, com dimensões de até 1 mm, próprio para criar uma passagem na malha trabecular capaz de drenar o humor aquoso e consequentemente reduzir a pressão intraocular em pacientes com glaucoma. Apresenta-se em blíster com um aplicador pré-carregado de uso único que, a depender do modelo, contém um ou dois microimplantes. Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.126-2020 .pdf]
