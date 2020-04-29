@@ -1,0 +1,36 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - AGRAVO DE INSTRUMENTO (202) 1004707-16.2020.8.11.0000 – PROCESSO DE ORIGEM 1000184-80.2020.811.0025 - COMARCA DE JUÍNA
+AGRAVANTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+AGRAVADO: MUNICÍPIO DE CASTANHEIRA
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto pelo MINISTÉRIO PÚBLICO em face do MUNICÍPIO DE CASTANHEIRA e SILVIO MORENO DE SOUZA, contra decisão proferida pelo Juízo da Vara Única da Comarca de Juína, nos autos da Ação Civil Pública no 1000184-80.2020.811.0025, que deferiu a liminar apenas com relação ao Município de Castanheira.
+Sustenta o Recorrente que a ação de base “envolve lesão ao meio ambiente perpetrado pelos requeridos Município de Castanheira e Silvio Moreno de Souza”, em região situada nesse município, requerendo a recuperação da área degradada, bem como a condenação ao pagamento de indenização pelos danos ambientais praticados.
+Afirma que o MM. Juiz do feito indeferiu o pedido liminar com relação ao primeiro requerido pelo fundamento de que faltam comprovação da titularidade deste sob a área degrada, com base em informações do 1o Serviço de Registro de Imóveis e Títulos e Documentos de Juína.
+Registra que há nos autos outros elementos que comprovam o vínculo do Requerido com a área, como a Notificação da Sema no 108644 e 11392 e os relatórios realizados no local, indicando que o “domínio pertence ao requerido Silvio Moreno de Souza”, bem como informações do próprio Município de Castanheira.
+Cita o disposto no artigo 7o, § 1o, da Lei Federal no 12.651/12, que atribui a responsabilidade pelo dano ambiental ao proprietário, possuidor ou ocupante a qualquer título.
+Cita jurisprudência em reforço a sua tese.
+Pugna pelo deferimento do efeito ativo, para estender a liminar também ao requerido Silvio Moreno de Souza.
+É o relato necessário.
+Decido.
+De plano, vislumbro a presença dos requisitos de admissibilidade do Agravo de Instrumento interposto.
+Nos termos do artigo 1.019, inciso I, do Código de Processo Civil/2015, é facultado ao relator atribuir efeito suspensivo ao recurso, ou deferir, em sede de antecipação de tutela, total, ou parcialmente a pretensão, comunicando ao juiz a sua decisão, verbis:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão.”
+Contudo, para que se possa conceder a antecipação recursal postulada, é necessário verificar a presença concomitante dos requisitos necessários ao deferimento de qualquer medida liminar, quais sejam, o perigo de ocorrer dano irreparável, ou de difícil reparação e a relevância da fundamentação do direito invocado.
+Da análise dos autos, em cognição inicial, própria do estágio em que se encontra o feito, observa-se que apesar dos fundamentos apresentados pelo Agravante, não restou demonstrado nos autos, qual o perigo de lesão grave e de difícil reparação ao interesse postulado que justifique o pedido e que não possa aguardar a decisão final do recurso, posto que, a decisão recorrida já determinou ao Município de Castanheira a adoção das medidas necessárias à contenção do dano. Vejamos:
+“Por sua vez, o perigo de dano decorre do fato de que a não contenção da expansão da erosão ocasionará, muito provavelmente, a instabilidade da área, cujo risco encontra-se especialmente acentuado em virtude do atual período chuvoso, sendo imperiosa a efetivação de medidas tendentes a eliminar, ou ao menos mitigar, possíveis acidentes na região.
+Assim sendo, já que o relatório técnico aponta, de forma precisa, que o principal motivo da expansão da voçoroca é a existência de uma abertura no meio-fio e de uma boca de lobo situada próxima às coordenadas geográficas LAT. S-11o 08’ 13,27”/LONG.:W-58o 36’ 29,8”, cumpre compelir o Município de Castanheira, como medida de urgência tendente a mitigar os riscos, a consertar a dita abertura no meio-fio e desativar a boca de lobo próxima à erosão ou, não sendo possível a imediata desativação, executar medidas paliativas para contenção da rede de água pluvial (canalização de águas da chuva) dos bairros localizados topograficamente acima do local, o que deve ser feito no prazo de 30 (trinta) dias corridos.
+No que se refere ao primeiro requerido, indicado como proprietário do imóvel onde a erosão está situada, considerando a informação prestada pelo 1o Serviço de Registro de Imóveis e Títulos e Documentos de Juína (Id n. 29159864, pág. 04) no sentido de que ele não possui atualmente imóveis registrados em seu nome, visto que alienou os dois lotes que possuía no município de Castanheira-MT a terceiros, e à mingua de maiores informações acerca de quem é o atual proprietário/posseiro da área, deixo de imputar-lhe, ao menos por ora, qualquer medida, a fim de que, com o contraditório, melhores informações sejam trazidas ao conhecimento deste Juízo, até porque já foram fixadas as medidas necessárias à contenção do risco e, nesse ponto, não haverá maiores prejuízos aos moradores da redondeza.
+Isso posto, considerando a verossimilhança dos fatos narrados na exordial, estando suficientemente preenchidos os requisitos do art. 300 do CPC/2015, defiro parcialmente a medida liminar requestada, nos termos acima expostos.”
+Sobre o periculum in mora, o Doutrinador Daniel Amorim Assumpção Neves ensina que o risco de dano deve ser concreto, atual e grave, ou seja, deve ser iminente, provocar um sério prejuízo à parte e não decorrer de mero temor subjetivo, mas de dados concretamente demonstrados. Entende-se que os inconvenientes gerados pela demora processual, consequências naturais do procedimento desenvolvido em respeito ao contraditório e à ampla defesa, não sejam suficientes para a concessão da tutela antecipada (Manual de Direito Processual Civil, Vol. Única, 4a Edição., Ed. Método, p. 1178).
+Com efeito, a configuração do periculum in mora exige a demonstração de existência ou da possibilidade de ocorrer um dano jurídico ao direito da parte, de obter uma tutela jurisdicional eficaz na ação principal.
+Aliás, no glossário jurídico do Supremo Tribunal Federal, o perigo na demora é definido como o receio que a demora da decisão judicial cause um dano grave ou de difícil reparação ao bem tutelado. Isso frustraria por completo a apreciação ou execução da ação principal, ou seja, não basta que a parte tenha pressa no provimento judicial ou alegue a necessidade financeira, como na maioria dos casos. É necessário verificar se o próprio direito, o bem tutelado corre o risco de perecer, ou, como definiu o STF, de restar frustrado.
+Então, por ora, não me convenci da presença de um dos requisitos necessários ao deferimento do pedido liminar.
+Desse modo, INDEFIRO O PEDIDO DE EFEITO ATIVO PLEITEADO NO RECURSO.
+Intimem-se os Agravados, para que, desejando, ofereçam contrarrazões, no prazo legal.
+Após, à douta Procuradoria Geral de Justiça para parecer.
+Comunique-se ao Juízo o teor dessa decisão.
+Publique-se. Cumpra-se.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relator
