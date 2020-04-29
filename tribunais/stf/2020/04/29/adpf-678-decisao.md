@@ -1,0 +1,22 @@
+DECISÃO
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Hazenclever Lopes Cançado Júnior prestou as seguintes informações:
+    Rede Sustentabilidade formalizou arguição de descumprimento de preceito fundamental, com pedido de liminar, contra Decreto do Presidente da República, de 27 de abril de 2020, mediante o qual nomeado Alexandre Ramagem Rodrigues para exercer o cargo de Diretor-Geral da Polícia Federal do Ministério da Justiça e Segurança Pública. Eis o teor do ato questionado:
+    Decretos de 27 de abril de 2020
+    [...]
+    O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso XXV, da Constituição, e tendo em vista o disposto no art. 2º-C da Lei nº 9.266, de 15 de março de 1996, resolve: NOMEAR ALEXANDRE RAMAGEM RODRIGUES, para exercer o cargo de Diretor-Geral da Polícia Federal do Ministério da Justiça e Segurança Pública, ficando exonerado do cargo que atualmente ocupa.
+    Diz do cabimento da arguição, levando em conta a inexistência de outro meio adequado à solução da controvérsia. Ressalta em jogo a constitucionalidade de ato do Poder Público, fato a impedir o ajuizamento de ação direta. Aponta como preceitos fundamentais violados os princípios da impessoalidade e da moralidade, que regem a Administração Pública nos termos do artigo 37, cabeça, da Carta da República.
+    Alude à autonomia funcional da Polícia Federal, em que pese competir, ao Presidente da República, a nomeação e exoneração do Diretor-Geral do Órgão, a teor do artigo 84, inciso XXV, da Lei Maior.
+    Menciona o pronunciamento, veiculado na imprensa em 24 de abril último, do então Ministro da Justiça, Sérgio Moro, por meio do qual noticiado interesse subjacente, atribuído ao Presidente da República, Jair Bolsonaro, em interferir na organização da instituição policial, visando acesso a investigações. Segundo argumenta, sob a aparência da legalidade, a designação impugnada revela inobservância do interesse público, conduzindo a finalidade incompatível com a Carta da República.
+    Pretende, no campo precário e efêmero, sejam suspensos o ato atacado e, preventivamente, futuras nomeações para o mesmo cargo a sinalizarem contrariedade a preceito fundamental. Busca, alfim, a confirmação da tutela de urgência, com a declaração da inconstitucionalidade do decreto presidencial e de eventuais atos de nomeação para o cargo nos quais revelada a apontada incompatibilidade.
+    2. Observem a adequação da arguição de descumprimento de preceito fundamental, no que previsto o requisito da subsidiariedade, considerado o disposto no artigo 4º, § 1º, da Lei nº 9.882/1999:
+    Art. 4º […]
+    § 1º Não será admitida argüição de descumprimento de preceito fundamental quando houver qualquer outro meio eficaz de sanar a lesividade.
+    A leitura da norma revela a pertinência da ação quando inexistir outro meio capaz de sanar lesão a dispositivo fundamental. A amplitude do objeto não significa admitir que todo e qualquer ato desprovido de caráter normativo seja passível de submissão direta ao Supremo. A óptica implicaria o desvirtuamento da sistemática de distribuição orgânica da jurisdição assegurada na Constituição Federal.
+    A arguição de descumprimento de preceito fundamental é instrumento nobre de controle de constitucionalidade objetivo, destinado à preservação de norma nuclear da Carta da República. Descabe utilizá-la para dirimir controvérsia atinente a circunstâncias e agentes plenamente individualizáveis. Fosse isso possível, surgiria situação incompatível com o texto constitucional, transmudando-se a natureza da ação, de objetiva a subjetiva. A ressaltar esse entendimento, noticia-se a formalização, perante o Judiciário, de demandas objetivando desconstituir os efeitos do ato atacado, tanto na via ordinária, quanto na mandamental. Vale dizer que se tem campo jurisdicional para solução de eventual contenda considerado instrumental adequado, chegando-se, se for o caso, ao Supremo, sem queima de etapas.
+    Mostra-se inadequado o manuseio da arguição na situação versada na inicial. A pretensão veiculada não visa reparar, no plano objetivo, lesão a preceitos fundamentais, mas potencializar as possibilidades de êxito, em sede concreta, de tutela dos próprios interesses, surgindo impróprio o exame preventivo de qualquer ato de nomeação envolvendo o mesmo cargo.
+    3. Nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 29 de abril de 2020.
+Ministro MARCO AURÉLIO
+Relator
