@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Renata Ferreira de Rezende Brites. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 37, caput, e 39, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que não faz jus a férias-prêmio o servidor contratado para o exercício de função temporária e posteriormente efetivado pela Lei Estadual MG nº 100/2007, a qual foi declarada inconstitucional pelo Supremo Tribunal Federal na ADI 4.876, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. NULIDADE DE CONTRATAÇÃO. EFEITOS JURÍDICOS. DIREITO À PERCEPÇÃO DE FÉRIAS-PRÊMIO PAGAS EM PECÚNIA. INEXISTÊNCIA. 1. A jurisprudência desta Corte é no sentido de que ‘a Constituição de 1988 comina de nulidade as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público (CF, art. 37, § 2º), não gerando, essas contratações, quaisquer efeitos jurídicos válidos em relação aos empregados contratados, a não ser o direito à percepção dos salários referentes ao período trabalhado’ (AI 757.244 -RG, reautuado como RE 705.140-RG, julgado sob a relatoria do Ministro Teori Zavascki) 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação de multa de 5% (cinco por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015” (ARE 1082403 AgR, Relator(a): Min. Roberto Barroso, Primeira Turma, julgado em 23.02.2018, PROCESSO ELETRÔNICO DJe-049 DIVULG 13.3.2018 PUBLIC 14.3.2018).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2020.
+Ministra Rosa Weber
+Relatora
