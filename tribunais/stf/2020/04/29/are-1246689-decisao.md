@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL- EMBARGOS À EXECUÇÃO FISCAL - PRESTADORA DE SERVIÇO DE TELECOMUNICAÇÕES - ICMS - NÃO INCIDÊNCIA SOBRE LOCAÇÃO DE APARELHOS CELULARES E SERVIÇOS SUPLEMENTARES AO DE COMUNICAÇÃO - REPETITIVO DO STJ. A Primeira Seção do STJ, na sistemática do art. 543-C do Código de Processo Civil/1973, ao julgar o REsp 816.512/PI, consolidou jurisprudência no sentido de que os serviços de habilitação, instalação, locação de aparelhos celulares e assinatura, entre outros, por configurarem atividade -meio ou serviços suplementares á prestação dos serviços de comunicação (atividade -fim), não podem ser incluídos na base de cálculo do ICMS. HONORÁRIOS ADVOCATICIOS - PRETENSA MODIFICAÇÃO - POSSIBILIDADE. A modificação da fixação dos honorários advocatícios produzidos só se justifica havendo prova de que o valor se mostre efetivamente ínfimo, o que importa na reforma da sentença em função das condições fáticas a darem justificativa á pretensa majoração. Confirmada a sentença, no reexame necessário, prejudicado o segundo recurso voluntário. Provido o primeiro recurso voluntário”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 146 e 155, § 2º, XII, da CF, bem como ao art. 34, § 8º, do ADCT. Sustenta que:
+    (i) a Lei Complementar nº 87/1996 estabelece que a base de cálculo do imposto, nos serviços de comunicação, é o preço desse serviço, ou seja, o somatório de valores cobrados dos usuários pela prestadora, a título de remuneração;
+    (ii) a cobrança de locação, acesso, adesão, ativação e habilitação integra a base de cálculo do ICMS incidente sobre os serviços de comunicação;
+    (iii) o comando constitucional autoriza a tributação sobre o serviço de comunicação da forma mais ampla possível;
+    (iv) a locação não pode ser entendida como meio preparatório ao serviço de comunicação;
+    (v) o serviço de locação guarda semelhança com a assinatura básica de telefonia, cuja cobrança apresenta relação de trato sucessivo, sendo cobrada mensalmente.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    A abertura da instância superior é inviável.
+    De início, verifica-se que não se aplica ao presente recurso a decisão proferida nos autos do RE nº 912.888 (Tema nº 827), em que se decidiu sobre a incidência de ICMS sobre o valor pago a título de assinatura básica mensal pelo serviço de telefonia, tendo em vista que diverge da hipótese dos autos, em que o recorrente pretende a tributação do serviço de comunicação da forma mais ampla possível.
+    Verifica-se que o entendimento adotado pela Turma Julgadora encontra ressonância na orientação do Tribunal ad quem, circunstância que retira razoabilidade à pretensão recursal, inviabilizando o trânsito do recurso.
+    […]
+    Ao exposto, com fundamento no artigo 1.030, V, do CPC/2015, nego seguimento ao recurso.”
+    A pretensão recursal não merece prosperar.
+    Quanto ao ICMS incidente sobre operações de comunicação, a jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que o imposto somente pode incidir sobre os serviços de comunicação propriamente ditos, ou seja, somente sobre a atividade-fim. Confiram-se os julgados:
+    “Agravo regimental no recurso extraordinário com agravo. ICMS. Serviço de comunicação. Telefonia celular. Habilitação. Atividades-meio. Não incidência. 1. No RE n° 572.020/DF, Tribunal Pleno, Relator para o acórdão o Ministro Luiz Fux, DJe de 13/10/14, a Corte firmou o entendimento de que os serviços preparatórios dos serviços de comunicação, tais como assinatura, instalação, habilitação de aparelhos celulares etc. configuram atividade meio, a qual não se confunde com o serviço de comunicação propriamente dito, sendo, portanto, incabível a incidência de ICMS no caso em tela. 2. Agravo regimental não provido”. (ARE 770.102-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIÇO DE INTERNET. LOCAÇÃO DE MODEM. UTILIZAÇÃO COMO MEIO PARA A PRESTAÇÃO DO SERVIÇO DE INFORMAÇÃO. ICMS. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O Plenário do Supremo Tribunal Federal, ao julgar o RE 572.020/DF, de relatoria do Ministro Marco Aurélio, acórdão redigido pelo Ministro Luiz Fux, fixou entendimento no sentido de que o ICMS não incide nos atos preparatórios de serviços de comunicação. II – A locação de modem enquadra-se como meio para prestação do serviço de informação, razão pela qual descabida a incidência de ICMS. III – Agravo regimental a que se nega provimento”. (ARE 1.138.434-AgR, Rel. Min. Ricardo Lewandowski)
+    No mesmo sentido, cito as seguintes decisões monocráticas: ARE 1.106.810, Rel. Min. Alexandre de Moraes; e ARE 1.100.249, Rel. Min. Edson Fachin.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do RI/STF, fica majorado em 25% o valor da veba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 29 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
