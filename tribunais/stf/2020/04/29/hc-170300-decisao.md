@@ -1,0 +1,16 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Eugênio Carlo Balliano Malavasi e outro(s) em favor de Gabriel Dias dos Santos Filho, contra decisão monocrática da lavra do Ministro Felix Fischer, do Superior Tribunal de Justiça, que não conheceu do HC 493.929/SP.
+    O paciente foi condenado à pena de 06 (seis) anos e 10 (dez) dias, em regime inicial fechado, pela prática dos crimes de posse ou porte ilegal de arma de fogo de uso restrito, de receptação e de crime de receptação e depósito de substâncias tóxicas, perigosas e nocivas à saúde humana e ao meio ambiente (combustíveis), tipificados nos arts. 16 da Lei 10.826/2003, 180 do Código Penal e 56 da Lei 9.605/1998.
+    Em sede de apelação, o Tribunal de Justiça de São Paulo negou provimento ao recurso defensivo, oportunidade em que determinou a expedição de mandado de prisão em desfavor do ora paciente. Opostos embargos de declaração, foram rejeitados.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que via decisão monocrática da lavra do Ministro Felix Fischer, não conheceu do HC 493.929/SP.
+    No presente writ, sustentam os Impetrantes a possibilidade de aplicação do princípio da insignificância em relação aos delitos de posse ou porte ilegal de arma de fogo de uso restrito (art. 16 da Lei 10.826/2003) e de receptação e depósito de substâncias tóxicas, perigosas e nocivas à saúde humana e ao meio ambiente (art. 56 da Lei 9.605/1998), com repercussão no regime prisional. Sustentam que a ínfima quantidade de munições e de combustíveis apreendidos configuram reduzida lesividade ao bem jurídico tutelado. Requerem, em medida liminar, a suspensão da execução antecipada da pena até o julgamento final da presente impetração. No mérito, pugnam pelo reconhecimento da atipicidade das condutas imputadas e pela fixação de regime inicial menos gravoso.
+    É o relatório.
+    Decido.
+    De início, consigno que o objeto do presente writ está sendo apreciado por esta Suprema Corte nos autos do RHC 172.825/SP, de minha relatoria, em interposto pelo ora Paciente contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 493.929/SP.
+    Ressalto que ambas impetrações são idênticas, com as mesmas partes, o mesmo pedido e a mesma causa de pedir, a delinearem a tríplice identidade definidora da litispendência. Dessa maneira, não há como dar prosseguimento ao presente feito, enquanto mera reiteração do recurso ordinário em análise.
+    Nesse espectro, “A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus” (HC 146.334-AgR/PR, Rel. Min. Celso de Mello, 2ª Turma, DJe 23.10.2017); e “O habeas corpus é inadmissível quando se trata de mera reiteração das razões de medida anteriormente impetrada nesta Corte. Precedentes...” (RHC 113.089-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.9.2014).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2020.
+Ministra Rosa Weber
+Relatora
