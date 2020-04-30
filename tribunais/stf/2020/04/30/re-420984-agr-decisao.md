@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão monocrática de minha relatoria que negou seguimento ao recurso extraordinário interposto pelo Fisco.
+    A parte agravante sustenta que “somente é exigida lei complementar para regular as contrapartidas exigidas das entidades beneficentes para o gozo da imunidade prevista no art. 195, §7º, da Constituição de 1988, devendo, quanto aos demais pontos, ser aplicada a legislação em vigor”.
+    Assiste razão à parte recorrente. Com efeito, o Supremo Tribunal Federal, ao apreciar os Embargos de Declaração no RE 566.622-RG, acolheu-os parcialmente para: (i) assentar a constitucionalidade do art. 55, II, da Lei nº 8.212/1991, na redação original e nas redações que lhe foram dadas pelo art. 5º da Lei nº 9.429/1996 e pelo art. 3º da Medida Provisória n. 2.187-13/2001; e (ii) conferir à tese relativa ao Tema n. 32 da repercussão geral a seguinte formulação: "A lei complementar é forma exigível para a definição do modo beneficente de atuação das entidades de assistência social contempladas pelo art. 195, § 7º, da CF, especialmente no que se refere à instituição de contrapartidas a serem por elas observadas". Portanto, esta Corte entendeu pela constitucionalidade da exigência do CEBAS por intermédio de lei ordinária.
+    Dessa orientação divergiu o acórdão recorrido. O Tribunal de origem entendeu que “o instrumento normativo eleito pela Lei Maior para estabelecer as exigências e condições necessárias que o sujeito passivo deve preencher para ser contemplado por determinada imunidade é, única e exclusivamente, a lei complementar, que, no caso em tela, é o Código Tributário Nacional, precisamente em seu art. 14, c/c art. 9°, IV, c”.
+    Diante do exposto, reconsidero a decisão monocrática anteriormente proferida, e, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário, a fim de reconhecer a constitucionalidade da exigência do CEBAS. Julgo prejudicado o agravo interno.
+    Publique-se.
+       Brasília, 30 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
