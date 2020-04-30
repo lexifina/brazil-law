@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto contra acórdão que reformou a sentença de primeiro grau, julgando improcedente a posse do autor no cargo de Professor Nível Superior I do Município de Jequitinhonha/MG, por não restar demonstrada a prova pré-constituída de existência de vagas.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, ofensa ao art. 5°, LXIX, da mesma Carta.
+    O 1° Vice-Presidente do Tribunal de Justiça do Estado de Minas Gerais, com base no julgamento do Tema 784 da sistemática da Repercussão Geral, pelo Supremo Tribunal Federal, devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.030, II, do CPC.
+    O órgão de origem, todavia, manteve o acórdão recorrido sob o entendimento de que a hipótese em tela é diversa do mencionado tema.
+    A pretensão recursal não merece acolhida.
+    Com efeito, o Tribunal de Justiça de Minas Gerais rejeitou o pleito de posse no mencionado cargo de professor tendo em vista a ausência de provas para a concessão da segurança, conforme se verifica do seguinte trecho extraído do acórdão recorrido:
+    “[...]
+    Neste contexto, o que fica patente é o fato de que conquanto o impetrante busque convencer sobre a existência de vagas no cargo efetivo em que pretende tomar posse, a prova trazida aos autos não autoriza o reconhecimento de sua existência, mormente porque a alegada preterição ou burla À vaga não restou demonstrada.
+    Vale dizer, o impetrante vindica direito de nomeação sobre a vaga que não demonstrou existir o que, de fato, inviabilizaria a concessão da ordem requerida dadas as condições particulares do presente caso.
+    O caso, tal como trazido à baila, de fato sustenta a falta de comprovação da existência de vaga disponível no cargo em que concorreu, o que afasta o suposto direito de obter o reconhecimento do seu direito subjetivo à nomeação e posse […]” (págs. 202-203 do documento eletrônico 1).
+    Nesse termos, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Concurso público. Classificação fora do número de vagas. Nomeação. Preterição. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF).
+    2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1.252.436-AgR/GO, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 27.02.2018. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO REGIONALIZADO. APROVAÇÃO FORA DO NÚMERO DE VAGAS. DISCUSSÃO SOBRE A EXISTÊNCIA, OU NÃO, DE PRETERIÇÃO DE CANDIDATA À NOMEAÇÃO. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. TEMA 735. APLICABILIDADE.
+    1. Eventual divergência ao entendimento adotado pelo Juízo a quo, quanto à existência ou não de preterição de forma arbitrária e imotivada da candidata, quanto ao cargo de Analista de Seguro Social – Área Terapia Ocupacional para a localidade pretendida, demandaria o reexame de fatos e provas constantes dos autos e do edital do concurso, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF.
+    2. O Plenário desta Corte, no julgamento do RE-RG 808.524, Relator Min. Teori Zavascki, Tema 735, firmou o entendimento no sentido de que não possui repercussão geral a controvérsia relativa ao direito à nomeação de candidato participante de concurso público, quando decidida pelo Juízo de origem à luz da legislação infraconstitucional, dos fatos da causa e das cláusulas do edital do certame, como ocorrido na hipótese em exame.
+    3. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC” (ARE 1.077.941-AgR/GO, Rel. Min. Edson Fachin, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Sem honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 30 de abril de 2020.
+Ministro Ricardo Lewandowski
+Relator
