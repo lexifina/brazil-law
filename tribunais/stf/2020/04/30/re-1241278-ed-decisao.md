@@ -1,0 +1,29 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO TRIBUTÁRIO. CREDITAMENTO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. TEMA 844 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. OMISSÃO. NÃO OCORRÊNCIA. APELO EXTREMO E DECLARATÓRIOS MANEJADOS SOB A VIGÊNCIA DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+2. Ausência de contradição, omissão ou obscuridade, justificadoras da oposição de embargos declaratórios, nos termos do art. 1.022 do CPC.
+3. Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+4. Embargos de declaração rejeitados.
+    Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual neguei seguimento ao recurso extraordinário interposto pela ora embargante, com fundamento no Tema 844 da sistemática da repercussão geral (“Possibilidade de creditamento de IPI pela aquisição de insumos isentos, não tributados ou sujeitos à alíquota zero.”).
+    A embargante aponta omisso o julgado. Argumenta que “não foram declinados na decisão embargada os fundamentos que levaram à conclusão segundo a qual a jurisprudência do STF, relativa ao creditamento do IPI nas hipóteses de isenção, alíquota-zero, não-tributação e imunidade teria aplicação ao caso concreto, em que se discute outra matéria em tudo diversa, qual seja, a do creditamento do IPI nas operações com suspensão do imposto” (doc. 06, fl. 03).
+    Recurso extraordinário e declaratórios manejados sob a vigência do CPC/2015.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios.
+    Reputo inexistente vício a ensejar o seu acolhimento.
+    De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, nos termos do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016, e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Observo ausente a alegada omissão, haja vista expressamente consignado, na decisão embargada, que a jurisprudência desta Suprema Corte está orientada no sentido da aplicação do entendimento sufragado ao exame do Tema 844, sob a sistemática da repercussão geral, a hipóteses como a que ora se analisa.
+    Colho do julgado vergastado:
+    “O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que ‘o princípio da não cumulatividade não assegura direito de crédito presumido de IPI para o contribuinte adquirente de insumos não tributados, isentos ou sujeitos à alíquota zero’. Essa orientação é aplicável ao caso dos autos. Não se divisa, assim, a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    ‘Recurso extraordinário. Repercussão geral. 2. Tributário. Aquisição de insumos isentos, não tributados ou sujeitos à alíquota zero. 3. Creditamento de IPI. Impossibilidade. 4. Os princípios da não cumulatividade e da seletividade, previstos no art. 153, § 3º, I e II, da Constituição Federal, não asseguram direito de crédito presumido de IPI para o contribuinte adquirente de insumos não tributados ou sujeitos à alíquota zero. Precedentes. 5. Recurso não provido. Reafirmação de jurisprudência’ (RE 398365 RG, Relator(a): Min. Gilmar Mendes, julgado em 27.8.2015, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-188 DIVULG 21.9.2015 PUBLIC 22.9.2015).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.”
+    Com efeito, resta consolidado neste Tribunal o entendimento segundo o qual a suspensão do IPI na aquisição dos insumos corresponde à sua isenção no que diz à inexistência de direito ao crédito presumido. Nesse compasso, os seguintes precedentes, inter plures: RE 1.257.446/AL, Rel. Min. Cármen Lúcia, DJe 06.3.2020; RE 1.166.440/PR, Rel. Min. Ricardo Lewandowski, DJe 17.9.2019; ARE 1.262.350/SP, Rel. Min. Alexandre de Moraes, DJe 15.4.2020; e RE 1.069.767/SP, Rel. Min. Luiz Fux, DJe 05.9.2017.
+    Enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, afasta-se a tese veiculada nos embargos declaratórios de que omisso o julgado, desatendidos os pressupostos de embargabilidade, nos termos do art. 1.022 do CPC.
+    Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    Rejeito os embargos declaratórios (art. 1.024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 30 de abril de 2020.
+Ministra Rosa Weber
+Relatora
