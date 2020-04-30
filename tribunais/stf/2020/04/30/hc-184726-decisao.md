@@ -1,0 +1,20 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública de São Paulo, em favor de John Kleber Ribeiro Damasceno, contra decisão monocrática proferida por Ministro Relator do STJ, nos autos do HC 574.130/SP.
+    Adua a DPE que “o paciente, primário, atingiu o lapso para a progressão ao regime semiaberto em 09/07/2019 (fls. 36/38) e tem bom comportamento carcerário (fl. 43). Após a realização de exame criminológico, o qual foi favorável ao paciente, a MM. Juíza de primeira instância deferiu a progressão ao regime semiaberto, no entanto negou a colocação do paciente em prisão domiciliar, pedido formulado com base no artigo 5º, III, da Recomendação nº 62/2020 do CNJ.”
+    Impetrado habeas corpus no Tribunal de Justiça, negou-se-lhe seguimento. No STJ, o pedido seguiu a mesma sorte.
+    Nesta Corte, a DPE “requer a concessão da liminar para determinar que o paciente aguarde o julgamento de mérito do presente writ em liberdade; no mérito, requer-se a concessão da ordem para conceder ao paciente a prisão domiciliar, nos termos da Recomendação 62/2020 do CNJ.”
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    É que, quanto à alegação de pandemia, o Plenário do STF, nos autos da ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar por ele concedida, nos termos do voto do Ministro Alexandre de Moraes.
+    Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça, como foi feita pelo Juízo de primeiro grau:
+    “Anoto, desde logo, que não vislumbro cabimento do regime domiciliar ou mesmo a antecipação de lapso para meio aberto no presente caso, não obstante a situação de pandemia do COVID-19 e a Recomendação 62/2020 do CNJ. Trata-se de sentenciado que não atingiu o requisito objetivo para progressão ao meio aberto. Ainda, acrescento que as visitas estão suspensas nas unidades prisionais do Estado de São Paulo, conforme decisão liminar no processo 1015074-20.2020 da 16ª Vara da Fazenda Pública, e que não há prova nos autos de que o sentenciado integre o grupo de risco (idosos, portadores de doenças crônicas etc.).
+    Ante o exposto, presentes os requisitos legais, com fundamento no art. 112, da Lei nº 7.210/84, indefiro o pedido de prisão domiciliar e defiro o pedido de progressão ao regime semiaberto formulado em favor do sentenciado John Kleber Ribeiro Damasceno, ID: V-3343 I-2242, MTR: 1041572, PT: 35837E, RG: 57039124, RJI: 170349061-00, Penitenciária "ASP Joaquim Fonseca Lopes" de Parelheiros. Removase, incontinenti, o sentenciado para unidade prisional adequada ao o regime de desconto de pena fixado na presente decisão”. (eDOC 2, p. 115)
+    Como se vê, não há provas de que o paciente, agente de homicídio tentado e porte ilegal de armas, integre grupo de risco. Além disso, as visitas na unidade prisional estão suspensas, de modo a afastar, ao menos em tese, a alegação de alto risco de contaminação.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
