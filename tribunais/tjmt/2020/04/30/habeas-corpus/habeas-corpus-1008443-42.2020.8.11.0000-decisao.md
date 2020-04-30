@@ -1,0 +1,33 @@
+EMBARGOS DECLARATÓRIOS – HABEAS CORPUS PREVENTIVO – EXECUÇÃO DE ALIMENTOS - LIMINAR - OMISSÃO – OCORRÊNCIA - CORREÇÃO NECESSÁRIA – SUBSTITUIÇÃO DA PRISÃO CIVIL POR PRISÃO DOMICILIAR – MEDIDA EXCEPCIONAL – POSSIBILIDADE - EMBARGOS ACOLHIDOS PARA FIM DE SANAR A OMISSÃO APONTADA.
+Atual estado de calamidade pública decorrente da pandemia do covid-19 que autoriza, de forma excepcional, que o cumprimento da prisão civil seja realizado em regime domiciliar.
+Vistos etc.
+Recurso de Embargos de Declaração oposto por LUIS GUSTAVO BANZI TONUCCI, através de petição (ID 40384967), contra decisão proferida no respectivo Habeas Corpus Preventivo n. 1008443-42.2020.8.11.0000, figurando como parte contrária ELLEN CAMILA DA SILVA ARRUDA, da 2a Câmara Cível desse Tribunal, que indeferiu o pedido liminar em benefício do paciente JOSÉ MARCOS DE ARRUDA.
+Alega que o embargante que o acórdão contém vício passível de correção eis que omissão quanto ao pedido alternativo de liminar para que o embargante possa cumprir o seu mandado de prisão em regime domiciliar em razão da pandemia decorrente do coronavírus.
+Síntese necessária.
+Após a publicação da decisão de ID 40168961, por meio do qual indeferiu a pretensão inicial deduzida no respectivo Habeas Corpus no 1008443-42.2020.8.11.0000, o Embargante aponta ocorrência de omissão no decisum.
+Para acolhimento dos embargos de declaração deve a parte encaixar sua pretensão nos moldes do art. 1022 do CPC, especificando a incidência da omissão, contradição ou obscuridade da decisão recorrida.
+No caso vertente, entende-se caracterizada a omissão, uma vez que embora o embargante tenha trazido aos autos a questão relativa Ao aproveitamento/extensão da decisão do Habeas Corpus Preventivo n. 1007514 -09.2020.8.11.0000, no sentido de autorizá-lo a cumprir o mandado de prisão em regime domiciliar em razão da pandemia decorrente do coronavírus.
+A insurreição da Embargante procede, visto ser de fácil constatação que os fundamentos da decisão que indeferiu a liminar, não tratou sobre a questão.
+Na situação em análise, o paciente não demonstrou a quitação dos valores cobrados; limitou-se a declarar que o decreto de prisão é abusivo, por ausência do pressuposto de atualidade e emergência dos alimentos; que a exequente atingiu a maioridade e que restou descaracterizado o inadimplemento voluntário.
+Por referidos aspectos a liminar foi indeferida, todavia, o atual estado de calamidade pública decorrente da pandemia do covid-19 autoriza, de forma excepcional, que o cumprimento da prisão civil seja realizado em regime domiciliar, ao menos até o final da crise sanitária, como medida de combate à dispersão do vírus, evidente o risco à saúde do paciente.
+Nesse aspecto, dispõe o art. 6o da Recomendação no 62/2020 do Conselho Nacional de Justiça: “Recomendar aos magistrados com competência cível que considerem a colocação em prisão domiciliar das pessoas presas por dívida alimentícia, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus”.
+No mesmo sentido a decisão proferida pelo nobre colega Des. João Ferreira Filho, quando da análise do Habeas Corpus n. 1007514 -09.2020.8.11.0000, senão vejamos:
+“(...).
+DECIDO
+Sem delongas, o mesmíssimo tema já foi objeto de análise pelo eg. STJ nos autos do HC no 568.021/CE, impetrado pela Defensoria Púbica do Estado do Ceará em favor de todos os presos civis daquele Estado, de modo que, por brevidade, transcrevo trechos da decisão proferida pelo Exmo. Sr. Ministro Paulo de Tarso Sanseverino, adotando-os como fundamentos do presente pronunciamento jurisdicional:
+“Quanto ao mérito, em 17/03/2020, o Conselho Nacional de Justiça editou a Recomendação no 62, recomendando aos Tribunais e magistrados a adoção de medidas preventivas à propagação do coronavírus.
+Uma das grandes preocupações é "o alto índice de transmissibilidade do novo coronavírus e o agravamento significativo do risco de contágio em estabelecimentos prisionais e socioeducativos, tendo em vista fatores como a aglomeração de pessoas, a insalubridade dessas unidades, as dificuldades para garantia da observância dos procedimentos mínimos de higiene e isolamento rápido dos indivíduos sintomáticos, insuficiência de equipes de saúde, entre outros, características inerentes ao “estado de coisas inconstitucional” do sistema penitenciário brasileiro reconhecido pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental no 347", editou a Recomendação no 62/2020.
+Em seu artigo 6o, o referido ato dispõe:
+Art. 6o Recomendar aos magistrados com competência cível que considerem a colocação em prisão domiciliar das pessoas presas por dívida alimentícia, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus.
+Portanto, considerando o crescimento exponencial da pandemia em nosso país e no mundo, e com vistas a assegurar efetividade às recomendações do Conselho Nacional de Justiça para conter a propagação da doença, concedo parcialmente a liminar para determinar o cumprimento das prisões civis por devedores de alimentos do Estado do Ceará, excepcionalmente, em regime domiciliar.
+As condições de cumprimento da prisão domiciliar serão estipuladas pelos juízos de execução da prisão civil por alimentos do Estado do Ceará, inclusive com relação à duração, levando em conta as medidas adotadas pelo Governo Federal e pelo próprio Estado do Ceará para conter a pandemia.
+Ante o exposto, defiro parcialmente a liminar, nos termos da fundamentação”.
+Pelo exposto, reportando-me expressamente aos fundamentos da decisão supratranscrita, DEFIRO PARCIALMENTE o pedido de liminar para determinar o cumprimento das prisões civis por devedores de alimentos do Estado de Mato Grosso, excepcionalmente, em regime domiciliar, devendo as condições de cumprimento da prisão domiciliar serem estipuladas pelos respectivos juízos de execução da prisão civil por alimentos.(ID 40384968)
+Por esses aspectos, reputo adequado neste momento, que o cumprimento da prisão seja realizado em regime domiciliar, ao menos até o final da crise sanitária.
+Com essas considerações, ACOLHO os embargos de declaração para, sanando a omissão apontada, CONCEDER a liminar pleiteada a fim determinar o cumprimento da prisão civil do paciente JOSÉ MARCOS DE ARRUDA, em regime domiciliar, devendo as condições de cumprimento da prisão domiciliar serem estipuladas pelo magistrado de piso.
+Notifiquem-se o Magistrado singular.
+Após, remetam-se os autos à Procuradoria Geral de Justiça.
+Por fim, voltem-me conclusos.
+Intime-se. Cumpra-se.
+Desembargador Sebastião de Moraes Filho
+= r e l a t o r =
