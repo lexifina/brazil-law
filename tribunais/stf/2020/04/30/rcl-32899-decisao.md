@@ -1,0 +1,25 @@
+RECLAMAÇÃO. AFRONTA À SÚMULA VINCULANTE Nº 10. INEXISTÊNCIA DE AFASTAMENTO DE LEI OU ATO NORMATIVO COM BASE EM FUNDAMENTO CONSTITUCIONAL. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    1. Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, com fulcro no art. 103-A, § 3º, da Constituição da República, em face da decisão proferida nos autos da Correição Parcial nº 0362237-60.2018.8.21.7000 pela Quarta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, à alegação de violação da Súmula Vinculante nº 10.
+    2. Quanto ao contexto fático e decisório de origem, o reclamante afirma tratar-se de correição parcial interposta pelo parquet, decorrente da atuação do Magistrado de primeiro grau que não homologou o acordo de não persecução penal, por entender inconstitucional o art. 18 da Resolução nº 181 do CNMP.
+    3. Destaca que “o acórdão foi expresso em afastar o instituto jurídico previsto na Resolução do CNMP ao afirmar que: ‘o instituto jurídico, por não estar previsto em lei específica, mas em Resolução administrativa, não produz os efeitos legais pretendidos, de tal maneira que a decisão que não o reconhece não causa inversão tumultuária aos termos e fórmulas legais’.” (grifos no original)
+    4. Afirma, ainda, que, “ao chancelar a decisão de origem, o acórdão reclamado violou a Súmula Vinculante nº 10 e o artigo 97 da Constituição Federal, os quais impõem a observância da cláusula de reserva de plenário para manifestação dos Órgãos Fracionários dos Tribunais acerca da constitucionalidade das normas”. Pontua a interposição de recurso extraordinário contra o referido acórdão, o qual subiu a este Supremo Tribunal por força de agravo.
+    5. Requer a procedência da presente reclamação, com a finalidade de que seja cassada a decisão de origem, em razão da inobservância da Súmula Vinculante nº 10.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, “l”, e 103-A, § 3º, da Constituição da República é cabível nas hipóteses de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de decisão desta Corte com efeito vinculante.
+    2. O reclamante alega afronta à Súmula Vinculante nº 10, a qual contêm o seguinte teor:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.”
+    3. Destaco que a discussão posta na presente reclamação chegou a este Supremo Tribunal também por meio do Agravo em Recurso Extraordinário nº 1.213.317/RS, do qual fui relatora, em que o ora reclamante, do mesmo modo, sustentou violação da Súmula Vinculante nº 10 e do art. 97 da Constituição da República, pelo acórdão proferido na Correição Parcial nº 0362237-60.2018.8.21.7000, pela Quarta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul.
+    4. Na oportunidade de julgamento do agravo em recurso extraordinário, neguei seguimento sob o seguinte fundamento:
+    “[...]
+    De outra parte, incabível a alegação de ofensa à cláusula de reserva de plenário, porquanto a Corte de origem não emitiu juízo acerca da incompatibilidade entre a norma legal e a Magna Carta.
+    O Supremo Tribunal Federal entende que, para caracterizar violação da reserva de plenário, é necessário que a decisão se fundamente na incompatibilidade entre a norma legal e a Constituição. Nesse sentido: RE 639.866-AgR/RS, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 16.9.2011; e AI 848.332-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 24.4.2012, assim ementado:
+    ‘Agravo regimental no agravo de instrumento. Constitucional. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Artigo 5º, inciso XXXII. Ofensa reflexa. Precedentes. 1. Pacífica a jurisprudência desta Corte de que não há violação do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do STF quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 2. Inadmissível, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição. 3. Agravo regimental não provido’.”
+    5. Ressalto que a referida decisão transitou em julgado em 22.7.2019.
+    6. Desse modo, tal como já apontado no agravo em recurso extraordinário, em que analisado o mesmo argumento contra o mesmo acórdão ora reclamado, não havendo naquela decisão juízo de compatibilidade entre a norma legal e a Constituição, não há que se falar em violação da Súmula Vinculante nº 10.
+    7. Ante o exposto, forte no no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame da medida liminar.
+    Brasília, 30 de abril de 2020.
+    Publique-se.
+Ministra Rosa Weber
+Relatora
