@@ -1,0 +1,19 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO E ADMINISTRATIVO. CRITÉRIOS DE SELEÇÃO E ADMISSÃO DE PESSOAL. PESSOA JURÍDICA DE DIREITO PRIVADO. COMPETÊNCIA PARA JULGAMENTO. TEMA 992 DA REPERCUSSÃO GERAL – RE 960.429. SUSPENSÃO NACIONAL DE TODOS OS FEITOS SOBRE O MESMO TEMA. SUPERVENIENTE JULGAMENTO DO RECURSO EXTRAORDINÁRIO PELO PLENÁRIO DESTA CORTE. RECLAMAÇÃO QUE SE JULGA PREJUDICADA.
+    Decisão: Trata-se de reclamação ajuizada por Humberto de Araújo Silva Filho contra decisão proferida pelo Juízo da 26ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro nos autos do Processo 0216162-30.2013.8.19.0001, por suposta inobservância da decisão proferida pelo Ministro Gilmar Mendes nos autos do RE 960.429/RN - Tema 992 da repercussão geral.
+    Alega o reclamante, em síntese, que ajuizou ação ordinária em face da Petróleo Brasileiro S.A – PETROBRÁS, “a fim de discutir preterição em concurso público devido a terceirização ocorrida durante a vigência do certame e por descumprimento nos exames admissionais”.
+    Relata que a ação foi julgada procedente em primeira instância mas, em sede recursal, o Tribunal de Justiça reformou os termos da sentença, declarando improcedente o pleito autoral. Opostos embargos de declaração, os mesmos foram desprovidos. Contra tal decisão insurge-se através da presente.
+     Aduz que, após o reconhecimento de repercussão geral no Recurso Extraordinário 960.429, cuja discussão remete à competência para processar e julgar controvérsias nas quais se pleiteiam questões afetas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame, em face de pessoa jurídica de direito privado, foi determinado pelo Relator, Ministro Gilmar Mendes, a suspensão nacional de todos os feitos envolvendo a temática, com aplicação do artigo 1.035, § 5º, do CPC.
+    Diante disso, argumenta que a decisão reclamada não poderia ter sido proferida, devendo ser declarada nula, já incumbia ao Juízo reclamado deferir, de plano, a suspensão do processo com base na autoridade da decisão desta Suprema Corte, a qual, expressamente, determinou a suspensão de todos os feitos que envolvam a temática discutida naqueles autos.
+    Requer, por fim, a procedência da reclamação, reconhecendo-se “o sobrestamento nacionalmente do feito em 29/05/2018, declarando nula qualquer decisão proferida nos autos após esta data”.
+    É o relatório. DECIDO.
+    Ab initio, constato, de plano, a ocorrência de fato posterior capaz de ensejar a prejudicialidade da presente ação.
+    Com efeito, verifica-se que na assentada do dia 05 de março de 2020, o Plenário do Supremo Tribunal Federal concluiu o julgamento do RE 960.429/RN, fixando tese vinculante acerca do tema.
+    Haja vista a superveniência do referido julgamento e forte na jurisprudência assentada desta Corte, no sentido de que a eficácia das decisões com efeitos vinculantes e erga omnes do Supremo Tribunal Federal se inicia com a publicação da ata de seu julgamento, entendo prejudicada a presente reclamação, cabendo às partes informar o Juízo do processo de origem acerca da tese vinculante fixada no julgamento do RE 960.429/RN - Tema 992 da repercussão geral.
+    Nada obstante, ainda que assim não fosse, observa-se que o decisum reclamado encontra-se em consonância com a tese fixada no aludido paradigma, segundo a qual “compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal”.
+    Ex positis, JULGO PREJUDICADA a presente reclamação, com fundamento no art. 932, III, do Código de Processo Civil.
+    Notifique-se o juízo reclamado.
+    Publique-se.
+    Brasília, 30 de abril de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
