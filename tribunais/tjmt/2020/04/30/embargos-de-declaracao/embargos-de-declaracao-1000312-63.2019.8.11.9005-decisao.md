@@ -1,0 +1,21 @@
+Embargos de Declaração em Agravo de Instrumento n. 1000312-63.2019.8.11.9005
+DECISÃO MONOCRÁTICA
+Trata-se de Embargos de Declaração opostos por JEAN MARCOS DA CRUZ PRADO contra acórdão que julgou prejudicado o recurso de agravo de instrumento em decorrência do bloqueio judicial de numerário no processo principal, sustentando que padece de erro material, uma vez que não houve retratação pelo juízo primevo.
+É o breve relato. DECIDO. .
+O objetivo da parte embargante é o julgamento de mérito do agravo de instrumento cujo objeto trata do indeferimento de tutela de urgência.
+Contudo, em consulta ao processo na origem, constato que já houve análise em caráter definitivo (sentença de improcedência).
+Assim, a notícia rende ensejo a perda superveniente do interesse recursal, eis que seu manejo discute decisão interlocutória de cognição não-exauriente, sendo transmudada a situação com a sentença, agora plena, de modo que eventual enfrentamento deve ocorrer por meio de recurso próprio à espécie.
+Neste sentido, o Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. TUTELA ANTECIPADA. SENTENÇA SUPERVENIENTE. PERDA DO OBJETO. PRECEDENTES. 3. AGRAVO INTERNO DESPROVIDO. 1. Não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte insurgente. 2. A superveniente prolação de sentença de mérito na ação principal enseja a perda de objeto do agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, pois estas não representam pronunciamento definitivo, mas provisório, devendo ser confirmadas ou revogadas pela sentença final. Acórdão recorrido em harmonia com a jurisprudência desta Corte Superior. Súmula n. 83/STJ. 3. Agravo interno desprovido. (AgInt no AREsp 1318669/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/03/2019, DJe 22/03/2019)
+E ainda, decisões no âmbito do Tribunal de Justiça e Turma Recursal deste Estado:
+EMBARGOS DE DECLARAÇÃO – AGRAVO DE INSTRUMENTO – AÇÃO DE EXECUÇÃO DE ALIMENTOS – SENTENÇA PROLATADA NA ORIGEM – PERDA DO OBJETO - EMBARGOS PREJUDICADOS – RECURSO NÃO CONHECIDO. Resta prejudicada a análise dos presentes embargos declaratórios, em razão da perda do objeto do agravo de instrumento que originou o acórdão embargado. (N.U 1013220-75.2017.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, ANTONIA SIQUEIRA GONCALVES, Terceira Câmara de Direito Privado, Julgado em 03/04/2019, Publicado no DJE 09/04/2019)
+AGRAVO DE INSTRUMENTO. SAÚDE PÚBLICA. DIREITO CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO. RECURSO PREJUDICADO EM FACE DA SUPERVENIÊNCIA DA SENTENÇA DE MÉRITO. 1. A superveniente sentença prolatada na origem acarreta a perda do objeto do presente agravo de instrumento interposto com o fito de obter a modificação da decisão que indeferiu a tutela de urgência. 2. Recurso prejudicado. (N.U 1009367-58.2017.8.11.0000, TURMA RECURSAL, LAMISSE RODER FEGURI ALVES CORREA, Turma Recursal Única, Julgado em 13/02/2020, Publicado no DJE 14/02/2020), Turma Recursal Única, Julgado em 13/02/2020, Publicado no DJE 14/02/2020)
+Nessas circunstâncias, consoante o disposto no inciso III, do art. 932, do Código de Processo Civil c.c Súmula 01, desta Turma Recursal, incumbe ao relator, monocraticamente, não conhecer do recurso quando inadmissível, prejudicado ou que tenha deixado de impugnar especificamente os fundamentos da decisão recorrida.
+Tem-se, pois, o esvaziamento da utilidade dos aclaratórios, isto porque, independente do seu acolhimento, importaria no mesmo resultado.
+Ante o exposto, julgo prejudicado o exame destes embargos de declaração por perda superveniente do objeto e nego seguimento ao recurso de agravo de instrumento, com fulcro no art. 932, III, do CPC.
+Sem custas e sem honorários.
+Preclusa a via recursal, arquivem-se.
+Publique-se. Intime-se. Cumpra-se.
+Cuiabá (MT), data registrada no sistema.
+Juiz Antônio Veloso Peleja Júnior
+Relator
