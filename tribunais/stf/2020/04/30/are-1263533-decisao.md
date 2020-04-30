@@ -1,0 +1,13 @@
+Despacho: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 4ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 10, p. 1):
+    “RECURSO INOMINADO. ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR ESTADUAL. PRÊMIO DE PRODUTIVIDADE. SENTENÇA DE PROCEDÊNCIA. REESTRUTURAÇÃO DA CARREIRA. TRANSPOSIÇÃO DE CARGO DE AGENTE FISCAL PARA AUDITOR FISCAL. ARTIGO 156 DA LEI COMPLEMENTAR Nº 92/2002. ARTIGOS 151 E 153 DA LEI COMPLEMENTAR Nº 131/2010. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA. ILEGITIMIDADE ATIVA DO RECORRIDO. PRESSUPOSTO PROCESSUAL. PRECLUSÃO CONSUMATIVA NÃO VERIFICADA. EXTINÇÃO DO FEITO. ART. 485, VI, CPC. PRECEDENTES TJPR E TURMA RECURSAL. RECURSO PROVIDO.”
+    Os embargos de declaração não foram acolhidos. (eDOC 14)
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 102, § 2º, da Constituição da República.
+    Sustenta-se, em suma, que “o Acórdão recorrido não observou que nos termos da legislação vigente todos os Auditores Fiscais ativos e aposentados recebem o prêmio de produtividade, o qual foi estabelecido antes da Constituição Federal de 1988.” (eDOC 18, p. 10)
+    Aduz-se, ainda, que “a matéria referente à suposta transposição do cargo de Agente Fiscal para o de Auditor Fiscal não tem o condão de interferir no direito ao recebimento do Prêmio de Produtividade. E isto decorre de uma conclusão básica: tal prêmio não é exclusividade dos Auditores Fiscais. Tal prêmio não foi criado pela Lei Complementar 92, que modificou a nomenclatura dos antigos Agentes Fiscais. Ao contrário: tal prêmio é direito assegurado a todos os integrantes do Grupo TAF desde 1978!!!” (eDOC 18, p. 11)
+    Verifico que a matéria veiculada nestes autos é semelhante àquela objeto da ADI 5510/PR, de relatoria do Ministro Roberto Barroso, e que contesta a constitucionalidade dos arts. 150, I a VI e § 1°; e 156 da Lei Complementar nº 131, de 29.09.2010, e os art. 156, I a VI e § 2°; e 157 da Lei Complementar nº 92, de 05.07.2002, ambas do Estado do Paraná, porquanto tais dispositivos estariam a violar os arts. 1º, caput; 5°, caput; e 37, caput, II, da Constituição Federal de 1988, pois autorizariam provimento derivado de cargos públicos.
+    Tendo em vista que a matéria ainda não foi apreciada pelo Plenário da Corte, determino o sobrestamento do presente recurso até o julgamento da referida ADI, nos termos do art. 21, I, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
