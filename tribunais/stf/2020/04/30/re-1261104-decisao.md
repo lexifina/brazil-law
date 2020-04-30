@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “Remessa Necessária. Apelação cível. Constitucional. Tributário. Mandado de Segurança contra Lei em tese. Violação da Súmula nº 266 do STF. Inocorrência. Ofensa do Princípio da anterioridade. Ocorrência.
+    1. A demanda não foi proposta contra a lei em tese, mas, sim, aos seus efeitos, visto que o impetrante suportaria diretamente o ICMS de dois pontos percentuais destinados ao financiamento do ‘Fundo de Promoção Social e Erradicação da Pobreza’, razão pela qual é incabível o argumento de violação à súmula nº 266, do STF.
+    2. Majorada a alíquota do ICMS com o adicional de 2% (dois por cento) previsto em Lei Estadual, certo é que sua incidência somente alcançará os fatos geradores ocorridos no ano seguinte em obediência ao princípio da anterioridade de exercício insculpido na Constituição.
+    3. Apelação conhecida e desprovida. Remessa necessária prejudicada.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, III, b, e 195, § 6º, da CF, bem como ao art. 82, § 1º do ADCT. Sustenta que o adicional de ICMS, criado pela Lei nº 4.454/2017, editada pelo Estado do Amazonas, não viola o princípio da anterioridade.
+    A pretensão recursal não merece prosperar. Ao contrário da argumentação desenvolvida pelo Estado recorrente, o Plenário do Supremo Tribunal Federal, ao apreciar em 20.09.2019 o mérito da ADI 5.733, Rel. Min. Alexandre de Moraes, declarou a inconstitucionalidade parcial, sem redução de texto, do art. 5º da Lei nº 4.454/2017 do Estado do Amazonas, em face da constatação de ofensa ao princípio da anterioridade (art. 150, III, b, da CF/1988). Confira-se, à propósito, a ementa do julgado:
+    “CONSTITUCIONAL. AÇÃO DIRETA. LEI 4.454/2017 DO ESTADO DO AMAZONAS. INSTITUIÇÃO DE ADICIONAL NAS ALÍQUOTAS DO ICMS, DESTINADO À CRIAÇÃO DE FUNDO ESTADUAL DE COMBATE À POBREZA (ART. 82 DO ADCT). PERDA PARCIAL DO OBJETO. COBRANÇA DO TRIBUTO DENTRO DO MESMO EXERCÍCIO FINANCEIRO NO QUAL FOI PUBLICADA A LEI QUE O INSTITUIU. CARACTERIZAÇÃO DE OFENSA AO PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA (ART. 150, III, ‘B’, DA CF).
+    1. A revogação expressa de alguns dos dispositivos da norma impugnada enseja a perda parcial do objeto da ação.
+    2. O Princípio da Anterioridade (art. 150, III, ‘b’, da CF), por configurar uma das maiores garantias tributárias do cidadão em face do Estado/Fisco, é consagrado pelo SUPREMO TRIBUNAL FEDERAL como cláusula pétrea, nos termos do art. 60, § 4º, IV, da CF (ADI 939, Rel. Min. SYDNEY SANCHES, DJ de 18/03/1994). Além de constituir garantia individual, assegura a possibilidade de o contribuinte programar-se contra a ingerência estatal em sua propriedade, preservando-se, pois, a segurança jurídica.
+    3. A instituição do adicional de alíquota de ICMS, facultada pelo art. 82, § 1º, do ADCT, não configura hipótese de relativização do referido princípio.
+    4. Ação Direta julgada procedente, na parte em que conhecida, para declarar a inconstitucionalidade parcial, sem redução de texto, do artigo 5º da Lei 4.454/2017 do Estado do Amazonas, restringindo-se a censura aos fatos geradores ocorridos entre a data de vigência da norma (1º de julho de 2017) e 31 de dezembro de 2017.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 30 de abril de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
