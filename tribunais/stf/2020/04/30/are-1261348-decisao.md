@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 3, p. 19):
+    “AGRAVOS INOMINADOS INTERPOSTOS CONTRA DECISÃO MONOCRÁTICA PROFERIDA EM APELAÇÃO. OBRIGAÇÃO DE FAZER. PEDIDO DE TRANSFERÊNCIA PARA HOSPITAL PÚBLICO COM UNIDADE DE TRATAMENTO INTENSIVO. SENTENÇA JULGANDO PROCEDENTE O PEDIDO. PERDA DO OBJETO APENAS NO QUE TANGE À OBRIGAÇÃO DE FAZER. DIREITO PERSONALÍSSIMO E INTRANSMISSÍVEL. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO, COM FULCRO NO ARTIGO 267, IX, DO CPC, MANTENDO-SE INALTERADA A CONDENAÇÃO DOS RÉUS AO RESSARCIMENTO DAS DESPESAS MÉDICOHOSPITALARES, CASO EXISTENTES. DECISÃO AMPARADA EM SÓLIDA JURISPRUDÊNCIA DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA, QUE SE MANTÉM. NEGA-SE PROVIMENTO AOS RECURSOS.”
+    Os embargos de declaração foram rejeitados (eDOC 4, p. 18).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LIV e LV; 37, caput e § 6º; 197; 198; 199; e 200 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que ”a assunção dos custos de tratamento em hospital particular pela administração acarretaria excessiva onerosidade em benefício de um único paciente, que gozaria de atendimento médico à sua escolha, em detrimento de outros pacientes que seriam privados de serviços de saúde.” (eDOC 5, p. 22).
+    Acrescenta-se, ainda, que “Não há lei, contrato administrativo, ato administrativo ou qualquer outro meio de constituição legítima de obrigações a serem arcadas pelo Estado do Rio de Janeiro. Do ponto de vista do Direito das Obrigações, tal ente público não pode ser responsável pelo pagamento de obrigação existente entre a parte agravada e o hospital particular em que se manteve internada.” (eDOC 6, p. 3).
+    A 3ª Vice-Presidência do TJ/RJ inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 279 do STF (eDOC 8, p. 9-10).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento dos agravos inominados, asseverou (eDOC 3, p. 22; e eDOC 4, p. 1):
+    “Na hipótese dos autos, a decisão hostilizada está alicerçada em reiteradas decisões deste Egrégio Tribunal, não merecendo reparos.
+    Como cediço, a saúde é direito de todos e dever do Estado. Trata-se de garantia inerente à saúde e à vida, as quais estão intrinsecamente ligadas ao princípio da dignidade da pessoa humana, um dos fundamentos basilares de nossa República.
+    (…)
+    Pontue-se que eventual limitação orçamentária não se sobrepõe ao direito fundamental da requerente, constitucionalmente garantido. Assim, o direito será efetivamente garantido ainda que necessário socorrer-se ao atendimento em unidade privada de saúde.
+    Por outro lado, no que toca ao ressarcimento das despesas médico - hospitalares decorrentes da internação em hospital privado, caso existentes, o recurso não merece prosperar, devendo permanecer inalterada, neste aspecto, a decisão guerreada, haja vista que não se trata de direito intransmissível.”
+    Como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. RESSARCIMENTO DE HONORÁRIOS MÉDICOS. INTERNAÇÃO EM HOSPITAL PARTICULAR. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 279/STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 856.323-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.5.2016).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. NECESSIDADE DE INTERVENÇÃO CIRÚRGICA. GRAVIDADE E URGÊNCIA. INEXISTÊNCIA DE VAGA IMEDIATA NA REDE PÚBLICA DE SAÚDE. REALIZAÇÃO DO PROCEDIMENTO EM HOSPITAL PARTICULAR. RESSARCIMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II Agravo regimental improvido.” (ARE 677.280-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 5.12.2012).
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371, Rel. Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+    Publique-se.
+    Brasília, 30 de abril de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
