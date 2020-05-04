@@ -1,0 +1,33 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N.o 1018975-12.2019.8.11.0000 - COMARCA DE CUIABÁ
+AGRAVANTE(S): BEACH PARK HOTÉIS E TURISMO S.A.
+AGRAVADO(S): ALEXANDRE CORREA MENDES
+DECISÃO MONOCRÁTICA
+Trata-se de recurso de agravo de instrumento, com pedido de efeito suspensivo, interposto por BEACH PARK HOTÉIS E TURISMO S.A., contra decisão proferida pelo 7a Vara Cível da Comarca de Cuiabá, nos autos do Cumprimento de Sentença n.o 27157-17.2015.8.11.0041, proposta por ALEXANDRE CORREA MENDES, que extinguiu o cumprimento de sentença nos termos do art. 924, II, do CPC.
+A agravante questiona o cálculo apresentado pela contadoria judicial, afirmando que a atualização dos valores deveria ser feita da data de cada desembolso como estabelecido na sentença, sendo que o cálculo realizado pelo valor total da dívida, a qual fora paga em parcelas em meses diferentes.
+Argumenta que deve ser excluída a multa por inadimplemento, visto que a parcela foi paga, uma vez que foi diluída em outras parcelas, assim estaria demonstrado nos autos esse pagamento na data aprazada.
+Ao final, pugna pelo provimento do recurso, de modo a reformar o decisum invectivado.
+Em contrarrazões o apelado manifestou-se pelo não conhecimento do recurso, por se tratar de decisão que extinguiu o cumprimento de sentença por isso seria questionável por meio de apelação cível.
+Intimado, o agravante afirmou que não ocorreu a extinção porque os embargos à execução não foram acolhidos.
+Vieram os autos conclusos.
+É o relatório.
+Decido.
+A hipótese se amolda à previsão do art. 932, III do Código de Processo Civil, o qual estabelece que incumbe ao relator não conhecer do recurso manifestamente inadmissível, improcedente, prejudicado, ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Nesse sentido, MARINONI, ARENHART e MITIDIERO, esclarecem sobre o não conhecimentos dos recursos, nos seguintes termos:
+“O relator deve inadmitir – isto é, não conhecer – o recurso quando esse não preencher os requisitos intrínsecos e/ou extrínsecos que viabilizam o seu conhecimento. Inadmissibilidade é gênero no qual se inserem as espécies recurso prejudicado e recurso sem impugnação específica – rigorosamente, portanto, bastaria a alusão à inadmissibilidade.” (MARIONONI, Luiz Guilherme; ARENHART, Sérgio Cruz e; MITIDIERO, Daniel. Novo código de processo civil comentado, São Paulo: Ed. Revista dos Tribunais, 2015, p. 879)
+No mesmo sentido:
+Ao relator, na função de juiz preparador de todo e qualquer recurso do sistema processual civil brasileiro, compete o juízo de admissibilidade do recurso. Deve verificar se estão presentes os pressupostos de admissibilidade (cabimento, legitimidade recursal, interesse recursal, tempestividade, preparo, regularidade formal e inexistência de fato impeditivo ou extintivo do poder de recorrer). Trata-se de matéria de ordem pública, cabendo ao relator examiná-lo de ofício.
+(...) Nas hipóteses mencionadas, pode o relator, em qualquer tribunal, indeferir o processamento de qualquer recurso. (...)
+Pretende-se, com a aplicação da providência prevista no texto ora analisado, a economia processual, com a facilitação do trâmite do recurso no tribunal. O relator pode decidir monocraticamente tudo, desde a admissibilidade do recurso até o seu próprio mérito (...).” (NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Comentários ao Código de Processo Civil. São Paulo: Editora Revista dos Tribunais, 2015, p. 1850/1853, 2078/2079) (grifei)
+O relator deve inadmitir – isto é, não conhecer – o recurso quando esse não preencher os requisitos intrínsecos e/ou extrínsecos que viabilizam o seu conhecimento. (MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz. MITIDIERO, Daniel. Novo Código de Processo Civil Comentado. São Paulo: Editora Revista dos Tribunais, 2015, p. 879, 945/946)
+É consabido que, para cada tipo de decisão há um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em como no caso dos autos, cuja a decisão é atacável por meio de apelação cível.
+Em que pese o agravante afirmar que não houve extinção do feito, vislumbra-se que a sentença teve como base o art. 924, II, do CPC, o qual estabelece exatamente tal extinção, dessa maneira a insurgência, inclusive sobre a impossibilidade de extinção da ação, deveria ter sido realizada por meio de recurso adequado, qual seja apelação cível.
+Esse entendimento é pacífico na jurisprudência pátria, veja-se:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO. 1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. 2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes. 3. Agravo interno a que se nega provimento.” (STJ, AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020).
+“PROCESSO CIVIL – RECURSO – SENTENÇA QUE RESOLVE IMPUGNAÇÃO AO CUMPRIMENTO DE TÍTULO EXECUTIVO JUDICIAL COM EXTINÇÃO DA EXECUÇÃO, NA FORMA DO ART. 924, II DO CPC – DECISÃO TERMINATIVA DO FEITO – HIPÓTESE EM QUE A NORMA PROCESSUAL NÃO SUSCITA DÚVIDA QUANTO AO RECURSO CABÍVEL (APELAÇÃO) – ERRO INESCUSÁVEL – IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE – A norma do art. 1. 009 do CPC dispõe expressamente, não suscitando, assim, dúvida, que da sentença caberá apelação, bem como reza o seu art. 203, § 1o que sentença é o pronunciamento por meio do qual o juiz extingue a execução – Hipótese de processo, em fase de execução, extinto na forma do art. 924, II do CPC – Não se inferindo, no caso, dúvida quanto ao recurso cabível, diante da expressa previsão legal, verifica-se hipótese de erro inescusável, não se afigurando possível, por consequência, a aplicação do princípio da fungibilidade – Agravo de instrumento não conhecido, por decisão monocrática.” (TJ-SP - AI: 21514595920168260000 SP 2151459-59.2016.8.26.0000, Relator: Luiz Arcuri, Data de Julgamento: 02/08/2016, 15a Câmara de Direito Privado, Data de Publicação: 02/08/2016)
+Ante o exposto, NÃO CONHEÇO o presente recurso, com fulcro no artigo 932, III, do Código de Processo Civil.
+Publique-se.
+Intime-se.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
