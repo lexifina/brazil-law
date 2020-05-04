@@ -1,0 +1,11 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO CÍVEL (198) 1002417-93.2018.8.11.0001
+APELANTE: ANTONIO DE LIMA BRAGA
+APELADO: ESTADO DE MATO GROSSO, MUNICIPIO DE CUIABA
+REPRESENTANTE: ESTADO DE MATO GROSSO, MUNICIPIO DE CUIABÁ
+Vistos etc.
+I- Encaminhem-se os autos à i. Procuradoria Geral de Justiça, para manifestação.
+II- Após, conclusos.
+Cuiabá, data da assinatura digital
+Desa. MARIA EROTIDES KNEIP
+Relatora
