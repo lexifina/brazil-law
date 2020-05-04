@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada em face de decisão proferida pelo Juízo da 3ª Vara do Trabalho de Caxias do Sul/RS, nos autos do Processo 0020295-50.2018.5.04.0403, que, ao declarar inconstitucionais as alterações processadas nos arts. 545, 578, 579, 582, 583, 587 e 602 da CLT pela Lei 13.467/2017, que tornaram facultativa a contribuição sindical, teria afrontado o que decidido por esta Corte no julgamento da ADI 5794.
+    Requereu-se, liminarmente, a suspensão dos efeitos da decisão reclamada e, no mérito, a procedência do pedido, a fim de cassar o pronunciamento referido.
+    Em 28 de junho de 2019, deferi a medida liminar requerida, para suspender os efeitos da decisão reclamada até o julgamento final desta reclamação (eDOC 8).
+    A autoridade reclamada apresentou informações (eDOC 13).
+    A parte beneficiária, devidamente citada, não contestou (eDOC 15).
+    A Procuradoria-Geral da República manifestou em parecer pelo não conhecimento da reclamação e, no mérito, pelo acolhimento do pedido (eDOC 16).
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    Conforme asseverado ao deferir a medida liminar, quando da análise da ADI 5794 este Supremo Tribunal Federal assentou a constitucionalidade da nova redação dada pela Lei 13.467/2017, aos artigos 545, 578, 579, 582, 583, 587 e 602 da Consolidação das Leis do Trabalho, que exigem autorização prévia e expressa daqueles que participam de uma categoria profissional, a fim de que o desconto da contribuição sindical possa ser realizado.
+    Não obstante, esse não foi o entendimento aplicado ao caso pelo Juízo de origem, uma vez que, conforme se extrai das informações prestadas, a magistrada entendeu que o acórdão do processo paradigma ainda não havia sido publicado quando da prolação do ato reclamado (eDOC 13):
+    “4. No tocante à declaração de inconstitucionalidade dos artigos 545, 578, 579, 582, 583, 587 e 602 da CLT pela Lei 13.467/2017, que tornaram facultativa a contribuição sindical, este era, e ainda é, o entendimento desta magistrada que, na época da prolação da sentença ora impugnada, ainda não havia sido publicado o acórdão da ADI 5794 pelo Supremo Tribunal Federal, o que ocorreu somente em 23/04/2019, o qual ainda não transitou em julgado.
+    5. Cumpre registrar que desde a publicação do acórdão, por disciplina judiciária, esta magistrada vem acatando a decisão proferida pelo Supremo Tribunal Federal na ADI 5794, declarando constitucionais as alterações processadas nos artigos 545, 578, 579, 582, 583, 587 e 602 da CLT pela Lei 13.467/2017, que tornaram facultativa a contribuição sindical, conforme pode ser observado nos processos nº 0020279-96.2018.5.04.0403, 0020290-28.2018.5.04.0403 e 0020293- 80.2018.5.04.0403.”
+    No entanto, a decisão reclamada foi proferida em 23.1.2019 (eDOC 4), ao passo que a decisão desta Corte de declarou a constitucionalidade dos dispositivos em questão, ADI 5.794, fora publicada em 1º.8.2018, ou seja, em data anterior à publicação do ato reclamado. Sendo assim, ao deixar de aplicar a decisão proferida pelo Supremo Tribunal Federal na referida ADI, o ato reclamado vulnerou a autoridade de decisão desta Corte em sede de controle concentrado.
+    Ante o exposto, nos termos do art. 161, parágrafo único, do RISTF, julgo procedente esta reclamação para, cassando a decisão reclamada, determinar que outra decisão seja proferida com a observância do que decidido por esta Corte na ADI 5.794.
+    Publique-se.
+    Brasília, 4 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
