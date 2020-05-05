@@ -1,0 +1,22 @@
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. CONSELHO NACIONAL DE JUSTIÇA. SUSPENSÃO DOS PRAZOS PROCESSUAIS. RESOLUÇÃO N. 313/2020 CNJ. ALTERADA PELA RESOLUÇÃO N. 314/2020 CNJ. PRAZOS JÁ RETOMADOS. INEXISTÊNCIA DE LIDE. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. MANDAMUS PREJUDICADO. MANDADO DE SEGURANÇA EXTINTO.
+    Decisão: Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Marcos Gustavo Heusi Netto, em face de alegada ilegalidade do Presidente do Conselho Nacional de Justiça (CNJ), haja vista a edição da Resolução 313/2020 do CNJ, a qual havia suspendido os prazos processuais até o dia 30 de abril de 2020.
+    Narra o impetrante que a despeito da “louvável a intenção da ilustre autoridade coatora, de evitar o contato físico entre os atores dos processos judiciais (juízes, advogados e serventuários), visando ‘prevenir contágio pelo novo Coronavirus – Covid 19’, não faz qualquer sentido a suspensão de prazos, em processos eletrônicos, ”.
+    Em amparo a sua pretensão, argumenta que “o impetrante, enquanto parte no processo eletrônico acima referido -- Ação de Cumprimento de Sentença, para recebimento de honorários de sucumbência -- tem direito líquido e certo “ ... de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa.” (art. 4º, Código de Processo Civil) .”
+    Ao final, o impetrante tece os seguintes requerimentos:
+    “pede a concessão da medida liminar para suspender de imediato, até o julgamento da presente impetração, os efeitos do art. 5º, da Resolução nº 313, de 19 de março de 2020, da presidência do Conselho Nacional de Justiça, permitindo desde logo o recomeço da fluência dos prazos, no âmbito do processo eletrônico (Apolo) nº 0004579-90.1998.4.02.5101, ora em tramitação perante a 11ª Vara Federal do Rio de Janeiro;
+    Requer, ainda, deferida a liminar, seja a mesma comunicada, com urgência, diretamente ao Juízo da 11ª Vara Federal do Rio de Janeiro, bem como à Presidência e a Corregedoria do Tribunal Regional Federal da 2ª Região, para pronto e imediato cumprimento.”
+    É o relatório. DECIDO.
+    Ab initio, destaco que o presente writ resvala em óbice intransponível: a Resolução n. 313/2020 do CNJ foi parcialmente alterada pela Resolução n. 314/2020 do CNJ, sobretudo na parte impugnada por este mandamus relativa aos prazos processuais, in verbis:
+    Art. 2° Continuam suspensos durante a vigência do regime diferenciado de trabalho instituído pela Resolução no 313, de 19 de março de 2020, os prazos processuais dos processos que tramitam em meio físico (CPC, art. 313, VI).
+    Art. 3° Os processos judiciais e administrativos em todos os graus de jurisdição, exceto aqueles em trâmite no Supremo Tribunal Federal e no âmbito da Justiça Eleitoral, que tramitem em meio eletrônico, terão os prazos processuais retomados, sem qualquer tipo de escalonamento, a partir do dia 4 de maio de 2020, sendo vedada a designação de atos presenciais.
+    A primeira condição da ação é justamente o interesse de agir, o qual surge da necessidade da obtenção de proteção judicial ao interesse substancial, por meio do processo; ao lado da utilidade do prosseguimento desse (FUX, Luiz. Teoria Geral do Processo Civil. Rio de Janeiro: Editora Forense, 2019, p. 155).
+     Consoante aponta Humberto Teodoro Junior, o interesse de agir pode ser assim definido, verbis (destaquei):
+    “Só o dano ou perigo de dano jurídico, representado pela efetiva existência de uma lide, é que autoriza o exercício do direito de ação. Falta interesse, portanto, se a lide não chegou a configurar-se entre as partes, ou se, depois de configurada, desapareceu em razão de qualquer forma de composição válida.”
+    (TEODORO JÚNIOR, Humberto. Curso de Direito Processual Civil. Volume I. 58a Edição. Rio de Janeiro: Editora Forense, 2017, p. 164).
+    Consectariamente, percebe-se que (i) ocorreu a perda superveniente do interesse de agir, bem como (ii) inexiste direito liquido e certo do Impetrante sendo violado, mercê de os prazos processuais relativos aos processos judiciais eletrônicos já terem sido retomados, desde a data de ontem, conforme os novos ditames elucidados pela Resolução n. 314/2020 do CNJ.
+    Ex positis, nos termos do art. 21, IX, do Regimento Interno deste STF, julgo EXTINTO o presente mandamus, máxime de prejudicado e da perda superveniente do interesse de agir.
+    Publique-se. Int..
+    Brasília, 5 de maio de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
