@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 2, p. 266):
+          APELAÇÃO CRIME – CRIME DE HOMICÍDIO CULPOSO (CP, ART. 302) – SENTENÇA CONDENATÓRIA – COLISÃO ENTRE AUTOMÓVEL E MOTOCICLETA – RECURSO DA DEFESA – PRETENDIDA ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS – NÃO CABIMENTO – CONDUTA IMPRUDENTE CARACTERIZADA – VIOLAÇÃO DE VIA PREFERÊNCIAL – INOBSERVÂNCIA DE DEVER OBJETIVO DE CUIDADO – CULPA EXCLUSIVA DA VÍTIMA – NÃO OCORRÊNCIA – IMPOSSIBILIDADE DECOMPENSAÇÃO DE CULPAS NO DIREITO PENAL – SENTENÇA MANTIDA – RECURSO NÃO PROVIDO
+    Os embargos de declaração foram parcialmente acolhidos para corrigir erro material, sem efeitos infringentes (eDOC 3, p. 14).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV e LV; e 93, IX, ambos da CF. Alega-se o acórdão recorrido violou os princípios da inafastabilidade do controle jurisdicional, do contraditório e da ampla defesa e do dever de fundamentação das decisões judiciais, pois as teses defensivas não foram suficientemente analisadas e os elementos probatórios não foram apreciados corretamente.
+    O Supremo Tribunal Federal já se manifestou sobre as matérias suscitadas sob a sistemática da repercussão geral.
+    No julgamento do ARE 748.371 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 01.08.2013, Tema 660), o STF assentou que o tema sobre violação dos princípios do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, não possui repercussão geral.
+    Da mesma forma, no tocante ao acesso ao Poder Judiciário e ao seu dever de fundamentação, o Plenário desta Suprema Corte reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (AI-QO-RG 791.292, Relator Gilmar Mendes, DJe 13.08.2010, Tema 339).
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca da matéria suscitada neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 5 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
