@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (HC 512.118/MS), assim ementado (eDOC 30):
+    AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AFASTAMENTO DA TRANSNACIONALIDADE. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. PENA-BASE MAJORADA. ELEVADA QUANTIDADE DE DROGA E MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. MAUS ANTECEDENTES. INAPLICABILIDADE. BIS IN IDEM NÃO CONFIGURADO. AGRAVO NÃO PROVIDO.
+    1. Segundo reiterada jurisprudência deste Tribunal, a pretensão de descaracterização da transnacionalidade do delito de tráfico não pode ser apreciada por esta Corte Superior de Justiça, na via estreita do habeas corpus, por demandar o exame aprofundado do conjunto fático-probatório dos autos.
+    2. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito e em decisão motivada. Assim, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes superiores a revisão dos critérios adotados na dosimetria
+    da pena.
+    3. Na hipótese, o Tribunal de origem, atento as diretrizes do art. 42 da Lei de Drogas, considerou a expressiva quantidade dos entorpecentes apreendidos - 336,50 kg de cocaína -, além dos maus antecedentes do paciente, para elevar a pena-base em 5 anos anos de reclusão. Daí, não se mostra desproporcional ou desarrazoada, porquanto fundamentada a fração em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+    4. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+    5. No caso, observa-se que a minorante foi negada ao paciente em razão dos maus antecedentes. Logo, incabível a aplicação da mencionada benesse, uma vez que ausente o preenchimento dos requisitos legais.
+    6. "A jurisprudência deste Tribunal Superior entende que não resta configurado indevido bis in idem a utilização de tal vetor [maus antecedentes] para aumentar a pena-base e, concomitantemente, afastar a minorante em questão" (HC 520.497/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 3/9/2019, DJe 12/9/2019).
+    7. Agravo regimental desprovido.
+    Busca-se, em suma: “a) que seja reconhecida a incompetência material da Justiça Federal, anulando-se a sentença e determinando-se a expedição de alvará de soltura e a remessa dos autos à Justiça Estadual; b) ou para que seja reduzida a pena base; c) ou para que seja reconhecida a incidência de bis in idem na valoração negativa dos maus antecedentes na primeira e terceira fases da aplicação da pena, concedendo-se a ordem para afastá-la da primeira ou da terceira fase.”
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar. Abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 5 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
