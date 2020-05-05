@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Victor Hugo Anuvale Rodrigues, em favor de Lucas Luis Lopes, contra decisão monocrática proferida por Ministro Relator do STJ, nos autos do HC 573.725/SP.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus impetrado em benefício de LUCAS LUIS LOPES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0000574-20.2017.8.26.0069).
+    Foi o paciente denunciado pela suposta prática da conduta descrita no art. 33, caput, c/c o art. 40, inciso VI, por duas vezes, bem como no art. 35, c/c o art. 40, inciso VI, todos da Lei n. 11.343/2006 (tráfico de drogas e associação).
+    Nos termos da peça acusatória, "[...] de maneira estável e organizada, cada qual a seu modo e com função específica, os denunciados construíram associação para fins de tráfico, e, desde então (pelo menos desde 14 de fevereiro de 2017 até 30 de junho de 2017, referida associação tornou-se responsável pela aquisição, fornecimento, transporte, distribuição e venda de considerável parte das drogas comercializadas na cidade de Bastos e região" (e-STJ fl. 12). Esclareceu o titular da ação penal pública que o paciente era um dos responsáveis pela venda das drogas aos usuários. Nesse contexto, o paciente e os demais réus foram surpreendidos na posse de 105,68g (cento e cinco gramas, sessenta e oito centigramas) de cocaína, bem como de 327g (trezentos e vinte e sete gramas) de maconha.
+    Superadas as demais fases processuais, o paciente foi condenado à pena de 24 (vinte e quatro) anos e 6 (seis) meses de reclusão, a ser cumprida inicialmente no regime fechado, vedado o direito de recorrer em liberdade.
+    Contra o édito condenatório insurgiu-se a defesa. Entretanto, esclarece o impetrante que até o momento o Tribunal de Justiça não apreciou o recurso, situação de manifesto desrespeito ao disposto no art. 316, parágrafo único,do Código de Processo Penal. Pondera que o referido dispositivo determinada o reexame da prisão a cada 90 (noventa) dias. Sendo assim, assere que, ultrapassado o mencionado prazo, imperioso o relaxamento da custódia cautelar. Diante disso, pede, liminar e definitivamente, o relaxamento da prisão preventiva, com a correspondente expedição de alvará de soltura. (eDOC 2)
+    No STJ, a liminar foi indeferida.
+    Nesta Corte, o impetrante reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    De início, verifico que o pedido se esbarra na Súmula 691 desta Corte, razão por que dele não posso conhecer.
+    É bem verdade que o rigor na aplicação da Súmula 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Na hipótese dos autos, não vislumbro constrangimento ilegal manifesto a autorizar o afastamento da incidência da referida Súmula.
+    A controvérsia aqui posta diz respeito à ausência de reavaliação periódica da prisão preventiva, à luz do artigo 316, parágrafo único, do CPP.
+    Para o impetrante, a ausência da referida revisão conduz, automaticamente, à revogação da prisão do paciente, o que não me parece ter sido a ratio legis da novel previsão.
+    O preso tem direito à revisão da necessidade da prisão preventiva a cada noventa dias e, na sua ausência, cabe ao Poder Judiciário determinar sua pronta satisfação.
+    Penso que pretendeu o Legislativo garantir ao preso o direito de ter sua prisão regularmente analisada, a fim de se evitarem prisões processuais alongadas sem qualquer necessidade, impostas a todos os acusados/suspeitos/indiciados, mas em especial aos tecnicamente desassistidos, porquanto os afortunados requerem, com certa frequência, a revogação da prisão preventiva ou a concessão da liberdade provisória.
+    A mim me parece que a melhor solução para a falta de revisão da necessidade da prisão preventiva (ex officio) seja mesmo a determinação para a sua realização pelo Tribunal.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF), mas determino ao o Relator da 13º Câmara de Direito Criminal do TJ/SP que reavalie a prisão preventiva imposta ao paciente, nos termos do artigo 316, parágrafo único, do CPP.
+    Publique-se. Comunique-se ao TJ/SP e ao STJ.
+    Brasília, 5 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
