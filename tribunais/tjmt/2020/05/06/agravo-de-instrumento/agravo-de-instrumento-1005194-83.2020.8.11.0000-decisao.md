@@ -1,0 +1,28 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1005194-83.2020.8.11.0000
+Agravo no 1005194-83.2020.811.0000
+Agravantes: Eduardo José Rodrigues, Miriam Teresa Alves Rodrigues, Rosely Alves Rodrigues Jaune, Edna Alves Rodrigues e Reginaldo José Rodrigues e outros.
+Agravado: Leonardo Blanco Araujo
+Interessados: Espólio de Edmundo José Rodrigues, Vitorino Pereira da Costa, Vania Aparecida Vieira de Souza, MGR Construtora e Incorporadora Ltda-ME, Rcihard Jaune, Mary Vilma Pereira Rodrigues, Hospital Amecor Ltda., Dalila Alves Rodrigues, Espólio de Ernani Vieira de Souza e Energisa Mato Grosso – Distribuidora de Energia S.A.
+Pedido de reconsideração de decisão que indeferiu efeito suspensivo ao Agravo 1005194-83.2020.811.0000, interposto pelos executados, aqui requerentes, Eduardo José Rodrigues, Miriam Teresa Alves Rodrigues, Rosely Alves Rodrigues Jaune, Edna Alves Rodrigues e Reginaldo José Rodrigues e outros, contra decisão proferida pelo Juízo da 3a Vara Especializada de Família e Sucessões de Cuiabá, que no Inventário Convertido em Arrolamento em Razão do Valor (art. 664 do CPC, quando não ultrapassar 1.000 salários mínimos) no 0018938-30.2006.811.0041, código no 253968 dos bens do Espólio de Edmundo José Rodrigues em que figura como inventariante Edna Alves Rodrigues, determinou a expedição de Carta de Arrematação ao Sr. Leonardo Blanco Araujo, adquirente dos dois imóveis pertencentes ao Espólio, levados à praça.
+Alegaram se tratarem de herdeiros e de inventariante do Espólio de Edmundo José Rodrigues e informaram que o Sr. Leonardo Blanco de Araujo arrematou, em praça, os dois imóveis do Espólio de Edmundo José Rodrigues, localizados na Av. Ipiranga, no. 1.595, Lote 67 e 68, Bairro Porto, em Cuiabá, avaliados cada um pelo valor de R$400.000,00, no total, assim, de R$800.000,00.
+Arguiram que a arrematação se deu pela metade, 50%, do valor da avaliação e que a Ata do leilão se revelou viciada, na medida que não contém data e o da praça. Relataram que após diversas intimações do juízo de origem, o leiloeiro esclareceu que os imóveis foram arrematados em 2a praça, ocasião em que juntou cópia da Ata da 1a praça, em que não houveram ofertas.
+Alegaram que o arrematante, em um primeiro momento, teria ofertado, sem, entretanto, formalizar no processo a proposta, do pagamento valor de cada imóvel, com 25% de entrada (R$50.000,00) e o restante em 30 parcelas de R$5.000,00, bem assim que após a manifestação do inventariante, que teria recusado a oferta ao argumento de preço vil, foi que o arrematante propôs o pagamento à vista, no prazo de 40 dias.
+Informaram que após tais fatos, os herdeiros e a inventariante, que tempestivamente, apresentaram sua impugnação a oferta de pagamento feita pelo arrematante e arguiram, inclusive, eventuais irregularidades praticadas pelo leiloeiro, tiveram seu indeferido em 01.2.2019. Ocasião em que foi determinada a intimação do arrematante para, em 05 dias, efetuar o depósito do valor integral remanescente, com a devida atualização.
+Relataram que a referida decisão foi objeto de anterior Agravo (no 1002347-45.2019.811.0000), que foi desprovido, e que na sequência, o arrematante denunciou obras realizadas nos imóveis e requereu a expedição da Carta de Arrematação, cujo pedido foi deferido, condicionado, entretanto, ao pagamento, pelo mencionado arrematante, dos valores dos IPTU’s dos imóveis matriculados nos números 16.476 e 16.477.
+Irresignaram com a decisão, por entenderem que o arrematante não cumpriu com sua obrigação, porquanto foi intimado, em diversos momentos, para quitar, integralmente, a arrematação, o que somente fez em 26.2.2020. Arguiram que o pagamento feito tanto tempo depois da arrematação fez com que os juros e atualizações diluíssem o capital, de modo que prejudicou os credores do Espólio e a finalidade da praça.
+Sustentaram que a proposta de pagamento não deveria ter sido aceita e nem concedido novo prazo para pagamento, agora, de valor de IPTU’s, bem como que o leilão previa o pagamento à vista e no prazo máximo de 24 horas (parágrafo 10o do edital), que não ocorreu, e que o pagamento foi feito a bel prazer do arrematante, sem a devida comprovação e sem qualquer atualização.
+Após discorrerem sobre a eventual ilegalidade da Arrematação, pediram a concessão de efeito suspensivo. No mérito, o provimento do recurso e a reforma da decisão impugnada, a fim de ser declarada a nulidade da praça e da Arrematação.
+O efeito suspensivo foi indeferido.
+É o relatório.
+Decido.
+Em que pese as alegações, não se verifica elemento novo e apto a provocar a reconsideração da decisão que indeferiu o pedido de efeito suspensivo ao Agravo.
+Os argumentos lançados neste Pedido de Reconsideração são os mesmos que foram sopesados quando da análise do pedido de concessão de efeito ao recurso e, que, inclusive, não lograram convencer acerca da necessidade então vindicada.
+Como consignado na decisão, cuja reconsideração se pretende, para a concessão do efeito suspensivo ao Agravo, com a finalidade de suspender a eficácia da decisão agravada, há de se perquirir, conforme dispõe regra do parágrafo único do art. 995 do Novo CPC, se presentes os elementos próprios que lhe autorizam, vale dizer, o risco de dano grave ou de difícil ou impossível reparação (perigo de demora) e a probabilidade de provimento do recurso (fumaça do bom direito).
+E não restou verificado urgência que não possa aguardar a solução do recurso pelo julgamento de seu mérito, situação essa que persiste.
+Isso posto, indefere-se o pedido de reconsideração e determina-se o cumprimento da decisão lançada no id. 37128497.
+Cuiabá, 06 de maio de 2020.
+Des. Guiomar Teodoro Borges
+Relator
