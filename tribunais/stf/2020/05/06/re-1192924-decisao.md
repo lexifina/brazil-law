@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 63):
+     Apelação. Crime contra a ordem tributária. Preliminar de prescrição rejeitada. No mérito, materialidade e autoria comprovadas. Condenação correta. Pena, porém, a merecer reparo, deferida a substituição da privativa de liberdade. Recurso provido em parte.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 5º, XL, LIV e LV, da CF. Alega-se que o acórdão recorrido: a) violou o princípio da irretroatividade ao aplicar a Súmula Vinculante 24 a fatos anteriores à sua edição, em prejuízo do recorrente; b) negou vigência aos incisos LIV e LV do art. 5º da CF, “pois se tomou a suposta declaração do destinatário como verdadeira e a declaração da empresa do recorrente (bem como os documentos que apresentou) como falsos, em total afronta ao devido processo legal, a isonomia, a ampla defesa e ao princípio do contraditório”.
+    A Presidência da Seção de Direito Criminal do TJSP negou seguimento ao recurso quanto ao art. 5º, LIV e LV, com fulcro no art. 1.030, I, “a”, do CPC, em razão do tema 660 de repercussão geral, e admitiu o recurso quanto à outra matéria.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    No tocante à aplicação da Súmula Vinculante 24 a fatos anteriores à sua edição, verifico que o acórdão recorrido se alinha à jurisprudência desta Corte:
+    AGRAVO REGIMENTAL NO RECURSO  EXTRAORDINÁRIO  COM AGRAVO. APLICAÇÃO DA  SÚMULA VINCULANTE N. 24  A FATOS ANTERIORES À EDIÇÃO. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 1223777 AgR, Relatora Cármen Lúcia, Segunda Turma, DJe 28.10.2019)
+    RECURSO  EXTRAORDINÁRIO  COM AGRAVO – MATÉRIA PENAL – CRIMES CONTRA A ORDEM TRIBUTÁRIA (LEI Nº 8.137/90, ART. 1º) – PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO ESTADO – TRANSCURSO DO PRAZO SOMENTE A PARTIR DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO –  SÚMULA VINCULANTE Nº 24  DO STF – APLICAÇÃO A FATOS ANTERIORES A SUA EDIÇÃO – POSSIBILIDADE – ENUNCIADO QUE APENAS REFLETE ENTENDIMENTO JÁ DOMINANTE NESTA CORTE – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – AGRAVO INTERNO IMPROVIDO. (ARE 1173813 AgR, Relator Celso de Mello, Segunda Turma, DJe 29.04.2019)
+    AGRAVO REGIMENTAL NO RECURSO  EXTRAORDINÁRIO  CRIMINAL.  SÚMULA VINCULANTE 24.  APLICAÇÃO A FATOS ANTERIORES À SUA EDIÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O Supremo Tribunal Federal tem admitido a aplicação da  Súmula Vinculante 24  a fatos anteriores à sua edição, porquanto o respectivo enunciado apenas sintetiza a jurisprudência dominante desta Corte e, dessa forma, não pode ser considerada como retroação de norma mais gravosa ao réu. Precedentes. II – Agravo regimental a que se nega provimento. (RE 1165040 AgR, Relator Ricardo Lewandowski, Segunda Turma, DJe 01.02.2019)
+    Quanto à suposta violação ao art. 5º, LIV e LV, da CF, observo que o Tribunal local aplicou corretamente o tema 660 e o recorrente não se insurgiu quanto a essa decisão.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 6 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
