@@ -1,0 +1,36 @@
+TRIBUNAL DE JUSTIÇA
+ESTADO DE MATO GROSSO
+GABINETE DO DESEMBARGADOR JUVENAL PEREIRA DA SILVA
+TERCEIRA CÂMARA CRIMINAL
+HABEAS CORPUS CRIMINAL (307) – 1000003-57.2020.8.11.0000
+IMPETRANTE: DR. JONAS DUARTE DE ARAÚJO
+IMPETRADO: JUÍZO DA VARA ÚNICA DA COMARCA DE SAPEZAL - MT
+PACIENTE: FRANCIELLY ETIENE PEREIRA DA SILVA
+Vistos.
+Trata-se de Habeas Corpus, com pedido liminar, impetrado pelo advogado - Dr. JONAS DUARTE DE ARAÚJO, em favor de FRANCIELLY ETIENE PEREIRA DA SILVA, visando cessar o constrangimento ilegal que alega estar sofrendo a paciente, imposto pelo MM. Juiz da Vara Única da Comarca de Sapezal, nos autos n.o 3771-02.2019.811.0078, código 123860.
+Sustenta o impetrante que o juiz da primeira instância converteu a prisão em flagrante em preventiva da paciente, com o escopo de garantir a da ordem pública, em razão da suposta autoria pela prática dos crimes de tráfico de drogas (artigo 33, caput, da Lei no 11.343/06) crime de favorecimento a prostituição (218-B do Código Penal).
+Assevera que a prisão preventiva decretada carece de fundamentação nos termos da lei, devendo esta ser concretamente fundamentada, sendo que, no caso, a autoridade coatora utilizou-se de termos genéricos e hipotéticos, sem qualquer referência aos elementos de provas dos autos, ressaltando que não se fazem presentes os fundamentos autorizadores da prisão preventiva.
+Subsidiariamente, pleiteia a concessão de prisão domiciliar na forma do art. 318, inciso V, do Código de Processo Penal, em razão da necessidade de cuidar do filho menor, nascido no dia 17/02/2016 (id.29076959).
+O pleito liminar foi indeferida pela Desembargadora Plantonista - Marilsen Andrade Addario (id. 29075477) e aportaram aos autos as informações da autoridade apontada como coatora (id. 29421482).
+O parecer, da lavra da Dra. Julieta do Nascimento Souza (id.34582456), Procuradora de Justiça, é pela denegação da ordem.
+Os autos vieram-me conclusos para a elaboração de voto a ser apreciado em sessão de julgamento pelo órgão colegiado. Contudo, em razão da pandemia do Covid-19 e das diversas medidas de urgência adotadas pelas autoridades para contenção da doença, como a proibição de visitas de familiares e a suspensão das atividades do Tribunal, por meio da Portaria-Conjunta 305/2020, passo ao exame do pedido monocraticamente.
+É o relatório. Decido.
+Conforme relatado, o impetrante busca a revogação da custódia cautelar da paciente por entender que não se fazem presentes os requisitos mínimos, especialmente pela falta de prova de indícios suficientes de autoria da prática dos crimes de tráfico de drogas (artigo 33, caput, da Lei no 11.343/06) crime de favorecimento a prostituição (218-B do Código Penal).
+Do exame dos documentos que instruem o presente habeas corpus aliado às informações prestadas pelo douto magistrado da origem verifica-se que a decisão que decretou a custódia cautelar da paciente está firmada na gravidade abstrata das condutas a ela imputadas.
+Vejamos:
+“(..) No presente caso, justificável é a prisão preventiva com base no artigo 312 do Código de Processo Penal, ou seja, como medida de garantia da ordem pública, vez que a materialidade e os indícios de autoria estão comprovadas pelas declarações das testemunhas e termo de apreensão juntado aos autos, o qual discrimina a; 1 (uma) balança de precisão, um invólucro contendo 52,1 gramas de pasta base de cocaína e seis invólucros contendo 3,4 de cocaína.
+Além disso, substancial destacar que os flagrados foram detidas em operação conjunta realizada pela Polícia Militar, Civil, Gefron e Força Tática, tendo por base inúmeras denúncias indicando a comercialização de entorpecentes no bar administrado por Franciely Etiene, tendo sido localizado no quarto de Franciele várias porções de substâncias aparentando ser pasta base de cocaína, no quarto da menor Franciele, seis invólucros contendo, 3,4 gramas e no quarto de Lorayne, um invólucro contendo 51,2, gramas de pasta base de cocaína e uma balança de pasta base de cocaína e uma balança de precisão, o que foi confirmado tanto por Gustavo Godoy Alevado, Nelson Machado Costa, Wesley Henrique de Siqueira, Everton da Silva Bertoncello;”
+Por sua vez, em consulta ao andamento processual no Sistema Primus deste Tribunal de Justiça, verifica-se que o magistrado indeferiu o pedido de revogação da prisão preventiva nos seguintes termos:
+“(...) Da análise detida dos autos, verifico que as razões que ensejaram a decretação da prisão preventiva da indiciada encontram-se inalteradas, uma vez que a defesa não acostou aos autos nenhum fato novo apto a ensejar a revogação da segregação cautelar, sendo que a manutenção do cárcere continua imprescindível para garantia da ordem pública.
+Ademais, as condições pessoais favoráveis e a invocação do princípio da presunção não têm o condão, por si só, de revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade, consoante explanado na decisão que decretou a prisão preventiva.
+Por fim, demonstrada a imprescindibilidade da prisão preventiva da suspeita, não há que se falar em revogação ou substituição por outra medida cautelar (art. 319, do CPP), haja vista estarem presentes os pressupostos autorizadores da medida extrema, consoante determina o artigo 282, § 6o, do Código de Processo Penal.
+À VISTA DO EXPOSTO, com base na motivação supra, INDEFIRO o pedido de revogação de prisão preventiva de Francielly Etiene Pereira da Silva. (...)” (sic).
+De início, verifica-se que são idôneas as razões apontadas pelo juízo da primeira instância, as quais demonstram a necessidade de algum acautelamento da ordem público e da instrução processual.
+Contudo, considerando que a paciente é portadora de bons antecedentes e mãe de uma criança de 04 (quatro) anos de idade, conforme certidão de nascimento colacionada aos autos, (id. 29076959), à luz do princípio do melhor interesse da criança, presume-se imprescindível a presença da mãe aos cuidados do seu filho, até que se prove o contrário, especialmente se tratando de criança que está na primeira infância, conforme prescreve a Lei no 13.257/2016, razões pelas quais se mostra mais adequada e conveniente a aplicação de medida cautelar diversa da prisão.
+Logo, defiro o pedido de aplicação da medida cautelar de prisão domiciliar, conforme artigo 318, inciso III, do Código de Processo Penal, devendo a ora paciente permanecer em sua residência para o efetivo cuidado da criança, podendo se ausentar apenas mediante prévia autorização judicial (artigo 317 do Código de Processo Penal), sob pena de revogação do benefício e restabelecimento da prisão preventiva.
+Pelo exposto, defiro o pedido apresentado na inicial para aplicar a medida cautelar de PRISÃO DOMICILIAR, conforme art. 318, inciso III, do CPP, devendo a paciente FRANCIELLY ETIENE PEREIRA DA SILVA permanecer em sua residência para o efetivo cuidado do lactante, podendo se ausentar apenas mediante prévia autorização judicial (artigo 317 do CPP).
+Delego ao juízo de origem, a responsabilidade pela expedição o alvará de soltura, facultando-lhe a imposição de outras medidas cautelares que reputar necessárias, advertindo-se a paciente da possibilidade de nova prisão em caso de descumprimento.
+Cumpra-se. Publique-se e intimem-se.
+Cuiabá, 06 de maio de 2020
+DES. JUVENAL PEREIRA DA SILVA
+Relator
