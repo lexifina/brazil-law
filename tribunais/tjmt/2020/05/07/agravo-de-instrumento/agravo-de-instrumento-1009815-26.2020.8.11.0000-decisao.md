@@ -1,0 +1,22 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) 1009815-26.2020.8.11.0000
+AGRAVANTE: LUBIANE GEORGIA CANDIDO BOFF
+AGRAVADO: UNIMED CACERES COOPERATIVA DE TRABALHO MEDICO
+Vistos etc
+Trata-se de agravo de instrumento com pedido de efeito suspensivo interposto por LUBIANE GEORGIA CANDIDO BOFF contra decisão proferida pelo MM. Juiz da ,3a Vara Cível da Comarca de Rondonópolis que indeferiu o pedido de antecipação de tutela em ação de obrigação de fazer cumulada com pedido de tutela de urgência ou evidência e reparação de danos ajuizada em face de UNIMED CACERES COOPERATIVA DE TRABALHO MEDICO, na qual a agravante requereu a condenação de sua operadora de saúde, ora agravada, à realização de cirurgia reparadora pós -bariátrica
+Sustenta a agravante, em síntese, que “foi diagnosticada com obesidade mórbida (CID 10 E. 66) e, após recomendação médica, foi submetida à cirurgia bariátrica, apresentando perda maciça de peso de 4 1 quilos. Todavia, referido tratamento médico é agressivo e o paciente apresenta uma perda de peso extremamente rápida, sendo comum, portanto, que apresente considerável flacidez e excesso de pele, sendo usualmente recomendada a estas pessoas a continuação do tratamento médico pós - bariátrica, por meio da cirurgia reparadora. É o caso da agravante. Conforme demonstrado documentalmente nos autos de origem, a agravante apresenta considerável flacidez de pele em diversas regiões do corpo. Ademais, a avaliação psicológica juntada nestes autos atesta que “durante o atendimento pode -se observar riscos de agravo dos sintomas depressivos relacionados a déficits em vida afetiva, social, laboral e autonegação.” Requer, ao final, a concessão do efeito ativo para que a agravada realize integralmente o procedimento cirúrgico e a fornecer seus respectivos materiais, conforme descrito pelo laudo médico e laudo psicológico, no período de 48 horas.
+É o breve relato. Decido.
+Com relação à pretensão da agravante, o Novo Código de Processo Civil assim dispõe:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão;”
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+A concessão do efeito ativo condiciona-se a relevância da fundamentação formulada pela agravante, bem como a possibilidade de lesão grave e de difícil reparação, nos termos dos artigos supracitados.
+De acordo com os argumentos apresentados pela agravante, não vislumbro como relevantes os fundamentos e o perigo de lesão irreparável, a ensejar a concessão da suspensão da decisão agravada, de acordo com o demonstrado nos autos.
+Isso porque, muito embora a realização da cirurgia seja de grande relevância à agravante, não se trata de situação a revelar circunstância excepcional, a ser concedida em caráter de urgência.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO - OBRIGAÇÃO DE FAZER COM TUTELA DE URGENCIA - UNIMED DE CAMPO GRANDE-MS – PLANO COLETIVO EMPRESARIAL – ANÁLISE DA TUTELA - SUBMETEU-SE A CIRURGIA BARIATRICA – EXCESSO DE PELE E FLACIDEZ NAS MAMAS – RECONSTRUÇÃO MAMÁRIA BILATERAL - AUSENTES OS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA - CIRURGIA REPARADORA - PROSSEGUIMENTO NORMAL DA DEMANDA – RECURSO DESPROVIDO. 1. Nos termos do artigo 300 do Código de Processo Civil, a concessão da tutela de urgência exige elementos que evidenciem a probabilidade do direito alegado (verossimilhança das alegações) e a existência de perigo de dano ou risco ao resultado útil do processo. 2. Ausente o perigo de dano irreparável e de difícil reparação, deve ser mantida a decisão que indeferiu o pedido de tutela antecipada. (TJ-MS - AI: 14124765120188120000 MS 1412476-51.2018.8.12.0000, Relator: Des. Amaury da Silva Kuklinski, Data de Julgamento: 06/02/2019, 3a Câmara Cível, Data de Publicação: 07/02/2019)
+Por tal razão, INDEFIRO O PEDIDO DE EFEITO ATIVO.
+Intime-se a agravada para apresentar contrarrazões ao presente recurso no prazo legal.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
