@@ -1,0 +1,38 @@
+Agravo de Instrumento no 1000218-81.2020.8.11.9005.
+Agravante: Município de Tangará da Serra
+Agravada: Maria de Lourdes Selmini Raimundo
+Vistos etc.
+Cuida a espécie de agravo de instrumento interposto pelo Município de Tangará da Serra contra decisão prolatada nos autos no 1001620-18.2019.8.11.0055, pelo MM. Juiz de Direito do Juizado Especial Cível e Criminal da Comarca de Tangará da Serra-MT, que deferiu o bloqueio judicial de verba pública, no valor de R$ 9.278,82 (nove mil e duzentos e setenta e oito reais e oitenta e dois centavos), visando o cumprimento da tutela de urgência concedida nos autos.
+Sustenta o agravante que o bloqueio de valores ocorreu sem a análise da alegação constante na peça contestatória, quanto a inclusão do Estado de Mato Grosso no polo passivo da demanda, ao argumento de ser o responsável pelo fornecimento do medicamento pleiteado pela agravada.
+Ao final, pleiteia a concessão do efeito suspensivo da decisão agravada.
+É o relatório.
+DECIDO.
+Em que pese na Lei no 9.099/95 vigorar o princípio da irrecorribilidade das decisões interlocutórias, na quadra dos Juizados Especiais da Fazenda Pública, que é regulamentada pela Lei no 12.153/2009, é perfeitamente cabível, nos termos dos artigos 3o e 4o, a interposição de recurso cujo escopo seja reformar decisão que deferiu tutela de urgência, ou seja, decisão interlocutória.
+O Código de Processo Civil, em seu art. 1.019, inciso I, prevê a possibilidade da concessão de efeito suspensivo ou antecipação dos efeitos da tutela recursal.
+Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão;
+Não obstante os argumentos apresentados pelo agravante, vê-se que a decisão objurgada foi proferida com o objetivo de garantir o cumprimento da tutela de urgência concedida nos autos, que determinou que o reclamado disponibilizasse à reclamante o medicamento MESALAZINA 800MG, necessário à saúde da agravada, uma vez que é portadora da doença de Crohn, conforme atestado médico subscrito pelo Dr. Bruno Viana Nuss, CRM-MT 5761, anexado aos autos de origem.
+Conforme se vê dos artigos 6o e 196, da Constituição Federal, incumbe ao Poder Público, por meio de políticas sociais e econômicas, a obrigação de garantir o acesso à Saúde.
+Art. 6o São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
+Com efeito, o direito à vida e à saúde deve ser resguardado pelos entes públicos, solidariamente, mediante o custeio de consultas, realização de exames, medicamentos e cirurgias indispensáveis ao cidadão. Vejamos:
+CONSTITUCIONAL E ADMINISTRATIVO – REEXAME NECESSÁRIO – AÇÃO CIVIL PÚBLICA – OBRIGAÇÃO DE FAZER – PRELIMINAR DE ILEGITIMIDADE PASSIVA – REJEITADA – DIREITO À SAÚDE – DISPENSAÇÃO DE SUPLEMENTOS ALIMENTARES – NECESSIDADE E HIPOSSUFICIÊNCIA DEMONSTRADAS – DIREITO CONSTITUCIONAL À SAÚDE – SENTENÇA RATIFICADA. O funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios. O direito à vida e à saúde deve ser resguardado pelos entes públicos, mediante o custeio de consultas, realização de exames, de cirurgias, dispensação de medicamentos e insumos necessários ao cidadão, ao qual deve o gestor, em todos os graus de complexidade, prestar, incondicional e irrestrita atenção (CRF, art. 196). (TJMT - ReeNec 144525/2017, Relator: DES. MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 27/08/2018, Publicado no DJE 06/09/2018) (grifei)
+ADMINISTRATIVO. PROCESSUAL CIVIL. DEVER DO ESTADO. FORNECIMENTO GRATUITO DE MEDICAMENTO. PESSOAS CARENTES.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é dever do Estado fornecer gratuitamente às pessoas carentes a medicação necessária para o efetivo tratamento médico, conforme premissa contida no art. 196 da Constituição Federal.
+2. A responsabilidade em matéria de saúde, aqui traduzida pela distribuição gratuita de medicamentos em favor de pessoas carentes, é dever do Estado, compreendidos aí todos os entes federativos.
+3. Recurso Especial não provido. (STJ – REsp 1548342/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/09/2015, DJe 10/11/2015)
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente. (STF - RE 855178 RG, Relator(a): Min. LUIZ FUX, julgado em 05/03/2015, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-050 DIVULG 13-03-2015 PUBLIC 16-03-2015) (grifei)
+Ademais, o entendimento do Superior Tribunal de Justiça é no sentido de ser cabível o bloqueio de verba pública a fim compelir o demandado a cumprir decisão judicial, que determinou o fornecimento de medicamento. Vejamos:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DIREITO À SAÚDE. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. FORNECIMENTO DE MEDICAMENTOS. DESCUMPRIMENTO DA OBRIGAÇÃO. ESTABELECIMENTO DE MEDIDA COERCITIVA. BLOQUEIO DE VERBAS PÚBLICAS. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. No caso dos autos, o Tribunal de origem entendeu cabível o bloqueio de verba pública a fim compelir o Município a cumprir obrigação de fazer para assegurar a aquisição de medicamento.
+2. Não cabe falar em ofensa ao art. 535 do Código de Processo Civil, quando o Tribunal de origem pronuncia-se de forma clara e suficiente sobre a questão colocada nos autos, o que é o caso da presente hipótese.
+3. A Corte a quo decidiu de acordo com jurisprudência desta Corte, no sentido de que é cabível o bloqueio de verba pública a fim compelir o demandado a cumprir obrigação de fazer ou de não fazer para assegurar a aquisição de medicamento no caso, em cumprimento a decisão judicial, e que cabe ao Juiz adotar medidas eficazes à efetivação de suas decisões nesse sentido. Incidência da Súmula 568/STJ.
+Agravo interno improvido.
+(STJ - AgInt no AREsp 879.520/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/06/2016, DJe 08/06/2016) (grifei)
+Por fim, consigno que o bloqueio judicial foi no valor de R$ 9.278,82 (nove mil e duzentos e setenta e oito reais e oitenta e dois centavos), tendo o Juízo a quo procedido o desbloqueio dos valores excedentes, conforme se vê do Recibo de Protocolamento de Ordens Judiciais de Transferências, Desbloqueios e/ou Reiterações para Bloqueio de Valores anexado nos autos de origem.
+Assim, não visualizo, ao menos nesta sede de cognição sumária, relevância na fundamentação do agravante.
+Com essas considerações, INDEFIRO o pedido de efeito suspensivo da decisão agravada.
+Cumpra-se o disposto no artigo 1.019, incisos I a III, do Código de Processo Civil.
+Às providências.
+Cuiabá (MT), 07 de maio de 2020.
+Juiz Gonçalo Antunes de Barros Neto
