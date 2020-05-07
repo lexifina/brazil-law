@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1945, de 6 de maio de 2020
+Altera a Instrução Normativa RFB nº 1.915, de 27 de novembro de 2019, que dispõe sobre a Declaração do Imposto sobre a Renda Retido na Fonte relativa ao ano-calendário de 2019 e a situações especiais ocorridas em 2020 (Dirf 2020) e sobre o Programa Gerador da Dirf 2020 (PGD Dirf 2020).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
