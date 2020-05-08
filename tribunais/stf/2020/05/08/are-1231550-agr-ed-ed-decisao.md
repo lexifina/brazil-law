@@ -1,0 +1,20 @@
+P    Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão pela qual indeferi o pedido de destaque feito pelo embargante, ao fundamento da ausência excepcionalidade justificadora do deferimento do pedido.
+    O embargante aduz omisso o julgado, ao articular genérica a decisão embargada. Afirma não examinados os fundamentos do pedido de destaque. Requer a concessão de efeitos infringentes para que seja deferido o pedido.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Código de Processo Civil (Lei nº 13.105/2015).
+    O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base nesse permissivo legal, procedo à apreciação singular destes aclaratórios, independentemente do caráter infringente que ostentam.
+    Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, nos termos do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016, e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Observo ausente a alegada omissão na decisão embargada, haja vista didaticamente explanado o entendimento de que ausente qualquer excepcionalidade que aconselhe o julgamento presencial, estando a decisão recorrida em consonância com a jurisprudência desta Suprema Corte.
+    Ressalto que, embora o art. 4º, II, da Resolução STF 642/2019, preveja a possibilidade de pedido de destaque por qualquer das partes, o deferimento do pedido é faculdade do Relator, atento à existência de excepcionalidade que o justifique, o que, conforme já asseverado, não é o caso dos autos. Nesse sentido:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PEDIDO DE DESTAQUE PARA JULGAMENTO DO PRESENTE RECURSO. INDEFERIMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 317, § 1°, DO RISTF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O pedido de destaque feito pelas partes com base no inciso II da Resolução 587/2016 desta Suprema Corte não produz efeitos automaticamente, visto que submetido a deferimento ou indeferimento pelo Relator. Assento não verificar, no presente caso, qualquer especificidade apta a lastrear o deferimento do pedido. II – O agravante não refutou os fundamentos da decisão agravada, o que atrai a incidência do art. 317, § 1°, do Regimento Interno do Supremo Tribunal Federal – RISTF. Precedentes. III – Agravo regimental a que se nega provimento” (HC-AgR 166.127, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 28.2.2019).
+    De mais a mais, consoante registrado na decisão embargada “com a adoção da sistemática virtual de julgamento, a decisão recorrida, o voto do Relator e as demais peças processuais ficam à disposição de todos os Ministros para consulta, no próprio ambiente virtual, o que propicia ampla análise do processo”, sendo certo, ainda, que não há previsão legal para sustentação oral nessa fase processual, nos termos do art. 131, § 2º, do RISTF: “Não haverá sustentação oral nos julgamentos de agravo, embargos declaratórios, arguição de suspeição e medida cautelar“.
+    Pontuo, por derradeiro, que não se prestam os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 08 de maio de 2020.
+Ministra Rosa Weber
+Relatora
