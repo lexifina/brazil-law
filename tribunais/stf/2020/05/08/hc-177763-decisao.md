@@ -1,0 +1,75 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “’HABEAS CORPUS’. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+    1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedente.
+    2. Todavia, o alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ‘ex officio’, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+    TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O NARCOTRÁFICO. REGIME INICIAL FECHADO MANTIDO COM BASE NA GRAVIDADE CONCRETA DOS DELITOS. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. CONSTRANGIMENTO NÃO EVIDENCIADO.
+    1. A jurisprudência desta Corte Superior consolidou-se no sentido de que a escolha do sistema inicial não está atrelada, de modo absoluto, ao ‘quantum’ de sanção firmada, devendo-se considerar as demais circunstâncias do caso versado.
+    2. Na hipótese, o Colegiado ‘a quo’ concluiu de modo fundamentado quanto à necessidade do regime inicial fechado, haja vista a gravidade concreta do delito cometido, reveladora da periculosidade do envolvido, demonstrada, especialmente, pelas circunstâncias do caso concreto, não havendo ilegalidade na manutenção do modo mais gravoso de execução, na forma do art. 33 do CP.
+    3. ‘Habeas corpus’ não conhecido.”
+    (HC 378.111/SP, Rel. Min. JORGE MUSSI – grifei)”
+    Busca-se, nesta sede processual, o ingresso do ora paciente em regime de execução de pena menos gravoso (semiaberto).
+    O Ministério Público Federal, em pronunciamento da lavra do ilustre Subprocurador-Geral da República Dr. ALCIDES MARTINS, opinou contrariamente à concessão da ordem de “habeas corpus” em parecer assim ementado:
+    “’HABEAS CORPUS’. PENAL E PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. REGIME PRISIONAL. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DO CRIME. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA ARMADA. QUANTIDADE DE DROGA APREENDIDA. OBSERVÂNCIA DO DISPOSTO NO ART. 33, § 3º, DO CP. PARECER PELA DENEGAÇÃO DA ORDEM.” (grifei)
+    Sendo esse o contexto, passo a apreciar a presente causa. E, ao fazê-lo, entendo não assistir razão à parte impetrante.
+    Observo, inicialmente, no que se refere à discussão em torno da imposição do regime inicial fechado ao ora paciente, que o Supremo Tribunal Federal tem entendido que o fato de o sentenciado haver sofrido condenação a pena igual ou inferior a 08 (oito) anos de reclusão não lhe confere, só por si, o direito público subjetivo à obtenção de regime prisional menos gravoso (RTJ 148/490-491, Rel. Min. SYDNEY SANCHES, v.g.).
+    É que o preceito inscrito no art. 33, § 2º, “b”, do Código Penal não obriga o magistrado sentenciante, mesmo tratando-se de réu primário e sujeito a pena não superior a oito anos de prisão, a fixar, desde logo, o regime penal semiaberto.
+    Como se sabe, a norma legal em questão permite ao juiz impor ao sentenciado regime penal mais severo, desde que o faça, no entanto, em decisão suficientemente motivada (RTJ 141/545 – RTJ 151/212, v.g.). Assim, a opção pelo regime menos gravoso constitui mera faculdade legal reconhecida ao magistrado, consoante enfatizado pela jurisprudência do Supremo Tribunal Federal:
+    “(…) O direito positivo brasileiro permite ao juiz impor ao sentenciado regime penal mais severo, desde que o faça em decisão suficientemente motivada (…).”
+    (RTJ 154/103, Rel. Min. CELSO DE MELLO)
+    “O cumprimento em regime mais brando (…) não é decorrência automática da duração da pena, mas simples faculdade do juiz, que pode e deve evitá-lo, quando não satisfeitos os pressupostos estabelecidos no ‘caput’ do art. 59 do Código Penal.”
+    (HC 66.950/RO, Rel. Min. OCTAVIO GALLOTTI – grifei)
+    Convém destacar, por relevante, que o Poder Judiciário – em face do que prescreve o art. 33, § 3º, do Código Penal – deve  justificar, de modo adequado e satisfatório, a imposição do regime inicial fechado, quando cabível, em tese, como no caso, a aplicação de regime penal menos gravoso.
+    Vale ressaltar, neste ponto, por oportuno, que, em sessão  realizada em 24/09/2003, o Plenário desta Corte aprovou o  Enunciado nº 719 da Súmula de sua jurisprudência predominante, que assim dispõe:
+    “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.” (grifei)
+    Desse modo, embora tratando-se de paciente condenado à pena de 08 (oito) anos de reclusão, nada impedia a imposição, quanto a tal sentenciado, do regime inicial fechado, eis que o preceito inscrito no art. 33, § 2º, “b”, do Código Penal tornou meramente facultativa, consoante firme jurisprudência do Supremo Tribunal Federal, a concessão do regime semiaberto para o condenado não reincidente sujeito a pena cujo “quantum” seja superior a 04 (quatro) anos (limite mínimo) e não exceda  a 08 (oito) anos (limite máximo):
+    “‘Habeas Corpus’. Regime de cumprimento da pena imposta. Faculdade do Magistrado de elegê-lo, atento às circunstâncias e conseqüências do crime. Juízo que não comporta revisão em sede de ‘habeas corpus’.
+    Ordem denegada.”
+    (RTJ 125/578, Rel. Min. CÉLIO BORJA – grifei)
+    “‘Habeas corpus’. Pena. Regime de cumprimento. Questões insusceptíveis de se verem revisadas em ‘habeas corpus’.
+    Fixação da pena e do seu regime de cumprimento, segundo parâmetros legais e no âmbito da discrição legítima do magistrado singular. Hipótese estranha aos limites do ‘habeas corpus’.”
+    (RTJ 119/668, Rel. Min. FRANCISCO REZEK – grifei)
+    “2. Não é o ‘habeas corpus’ instrumento adequado  para reavaliação das condições subjetivas do paciente para efeito de regime de prisão, matéria, ademais, a ser submetida, primeiramente, ao juízo da execução.
+    3. ‘Habeas corpus’ indeferido.”
+    (RT 666/389, Rel. Min. SYDNEY SANCHES – grifei)
+    “4. Regime inicial de cumprimento de pena. Com base no art. 33, § 2º, ‘c’, do Código Penal, a despeito de a condenação aplicada ser inferior a quatro anos, há a presença de circunstâncias desfavoráveis ao paciente, o que possibilita a aplicação de regime mais gravoso para o cumprimento da pena do que aquele previsto no art. 33, § 2º, ‘c’, do Código Penal, devendo ser mantido o regime semiaberto. 5. ‘Habeas Corpus’ indeferido.”
+    (HC 100.695/SP, Rel. Min. GILMAR MENDES – grifei)
+    No contexto delineado nos autos, o E. Superior Tribunal de Justiça salientou a existência, em desfavor do ora paciente, de circunstâncias (participação em organização criminosa, quantidade e natureza da droga apreendida) cuja presença justificou, plenamente, a opção judicial pelo regime penal inicial fechado, valendo transcrever, por relevante, fragmento do voto condutor do acórdão emanado daquela Alta Corte judiciária, ora impugnado nesta sede processual:
+    “(...) verifica-se que o regime inicial fechado foi fixado com base na gravidade concreta do crime cometido pelo paciente, demonstrada, especialmente, pela sua participação em organização criminosa armada, com o propósito de aquisição e distribuição de drogas, fato comprovado em juízo a partir de todo o contexto probatório, dos depoimentos prestados pelos policiais, degravação das escutas telefônicas trazidas aos autos, os quais demonstram a dimensão dos negócios por ela mantidos, tendo inclusive, o paciente, e outros co-denunciados, sido condenados pelo crime do art. 35 da Lei de Drogas (e-STJ fls 35/40), motivação suficiente – ao lado da quantidade considerável de droga apreendida – 237,5 g de ‘crack’ (...) –, a justificar a imposição do regime prisional fechado.
+    Nesse diapasão:
+    ‘HABEAS CORPUS’. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. DENEGAÇÃO DA ORDEM.
+    1. Devidamente fundamentada a imposição do regime inicial fechado, com base nas circunstâncias do caso concreto, tendo a Corte de origem destacado o ‘alto nível de organização da associação’ formada entre o paciente e os corréus, bem como diante da significativa quantidade e natureza da droga apreendida – 242,96 g de cocaína – (art. 42 da Lei n.º 11.343/2006), não há constrangimento ilegal a ser sanado.
+    2. ‘Habeas corpus’ denegado.
+    (HC 389.863/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/03/2017, DJe 04/04/2017)
+    ‘HABEAS CORPUS’ SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ARTS. 33 E 35 DA LEI N. 11.343/06). PENA IGUAL A 8 ANOS.  REGIME FECHADO. GRAVIDADE CONCRETA DO DELITO. MEMBRO DE FACÇÃO CRIMINOSA NACIONALMENTE CONHECIDA COMO COMANDO VERMELHO. ART. 33, § 3º, DO CÓDIGO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ‘HABEAS CORPUS’ NÃO CONHECIDO.
+    …..........................................................................................
+    2. A análise do regime prisional deve ser feita com base nos elementos concretos dos autos, de acordo com o disposto no art. 33, § 3º, do Código Penal e em consonância com o entendimento desta Corte.
+    ‘In casu’, não há ilegalidade na imposição do regime fechado pela Corte estadual, que se baseou na gravidade concreta do delito, vedando a aplicação da causa redutora de pena (§ 4º do art. 33 da Lei de Drogas), pois, embora a pena tenha sido fixada no mínimo legal e aplicada em patamar igual a 8 anos (art. 33, § 2º, ‘b’, do CP), permitem, em tese, a fixação do regime semiaberto, o fato do paciente ser integrante de facção criminosa nacionalmente conhecida como Comando Vermelho justifica a imposição de regime prisional mais gravoso, no caso o fechado, de acordo com o disposto no § 3º do art. 33 do Código Penal e em consonância com o entendimento desta Corte de Justiça.
+    ‘Habeas corpus’ não conhecido.
+    (HC 366.429/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/12/2016, DJe 10/02/2017)
+    ‘HABEAS CORPUS’. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. NÃO CONHECIMENTO.
+    1. Devidamente fundamentada a imposição do regime inicial fechado, com base nas circunstâncias do caso concreto, em especial a expressiva quantidade e a natureza das drogas apreendidas – (art. 42 da Lei n.º 11.343/2006), bem como o fato de o paciente integrar ‘organização criminosa altamente especializada na disseminação de substâncias diluidoras de cocaína’, não há constrangimento ilegal a ser sanado.
+    2. ‘Habeas corpus’ não conhecido.
+    (HC 360.540/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+    Repise-se que a quantidade de droga apreendida e pertencente à organização foi considerável – 237,5 g de ‘crack’ (e-STJ fls. 35 e 24/25) –, motivo que, aliado à sua nocividade, reforça a necessidade de maior repressão da conduta imputada, justificando a imposição do modo de execução estabelecido pela Corte estadual.
+    Confira-se:
+    ‘HABEAS CORPUS’ SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/06). NATUREZA DAS DROGAS (‘CRACK’). DEDICAÇÃO DA RÉ A ATIVIDADE CRIMINOSA. REEXAME DE PROVAS. PENA-BASE MAJORADA ACIMA DO MÍNIMO LEGAL. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. REGIME FECHADO. CONDIÇÕES JUDICIAIS DESFAVORÁVEIS. ART. 42 DA LEI N. 11.343/06 E ART. 33, § 3º, DO CP. AUSÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PATAMAR DA REPRIMENDA SUPERIOR A 4 ANOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ‘HABEAS CORPUS’ NÃO CONHECIDO.
+    …..........................................................................................
+    3. A quantidade e/ou natureza de drogas apreendidas constitui elemento idôneo para justificar a imposição de regime mais gravoso, de acordo com o disposto no art. 42 da Lei de Drogas e no art. 33, § 3º, do Código Penal – CP e em consonância com o entendimento desta Corte.
+    ‘In casu’, não evidencio ilegalidade na imposição do regime fechado pela Corte estadual, pois, embora a primariedade da paciente e o ‘quantum’ de pena aplicado, superior a 4 e inferior a 8 anos, permitem, em tese, a aplicação do regime semiaberto, a pena-base foi fixada acima do mínimo legal (art. 59, CP), em razão da presença de circunstância judicial desfavorável (art. 42 da Lei n. 11.343/06), justificando a imposição de regime prisional mais gravoso, de acordo com o disposto no § 3º do art. 33 do CP e com a jurisprudência desta Quinta Turma.
+    …..........................................................................................
+    ‘Habeas corpus’ não conhecido.
+    (HC 350.268/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/11/2016, DJe 14/11/2016)
+    PENAL. ‘HABEAS CORPUS’ SUBSTITUTIVO DE RECURSO. ASSOCIAÇÃO E TRÁFICO DE DROGAS. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. PRETENDIDA APLICAÇÃO. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). PENA DE 8 (OITO) ANOS DE RECLUSÃO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. ‘HABEAS CORPUS’ NÃO CONHECIDO.
+    …..........................................................................................
+    4. Estabelecidas as penas definitivas em 8 (oito) anos de reclusão e consideradas a variedade e a natureza das drogas apreendidas (52g de maconha, 5g de cocaína e 10g de ‘crack’), o regime prisional fechado é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, ‘a’, do Código Penal e 42 da Lei n. 11.343/06.
+    5. ‘Habeas Corpus’ não conhecido.
+    (HC 357.701/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/08/2016, DJe 23/08/2016)
+    Nesse contexto, verifica-se que a manutenção do regime inicial fechado encontra-se devidamente justificada, mostrando-se adequada e proporcional ao caso, nos termos do art. 33 do CP,  não havendo o que se reparar.” (grifei)
+    Não se pode perder de perspectiva, finalmente, o que se contém  no art. 42 da Lei nº 11.343/2006, que manda observar, na determinação do regime inicial de cumprimento da pena, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância (no caso, 237,5g de “crack”). Tais circunstâncias, na espécie, segundo assinalaram as instâncias inferiores, mostraram-se desfavoráveis ao ora paciente, o que legitimou a imposição do regime penal fechado.
+    Em suma: tenho para mim que os fundamentos subjacentes a esta causa divergem dos critérios que a jurisprudência do Supremo Tribunal Federal consagrou na matéria ora em análise.
+    Sendo assim, em face das razões expostas, e acolhendo, ainda, o parecer da douta Procuradoria-Geral da República, indefiro o pedido de “habeas corpus”.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 08 de maio de 2020.
+Ministro CELSO DE MELLO
+Relator
