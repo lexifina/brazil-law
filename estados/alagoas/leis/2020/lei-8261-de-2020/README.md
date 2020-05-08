@@ -1,0 +1,5 @@
+# Lei nº 8.261, de 7 de maio de 2020, do Estado de Alagoas
+
+MENSAGEM Nº 13/2020 REFERENTE AO PROJETO DE LEI QUE AUTORIZA O PODER EXECUTIVO A OUTORGAR, MEDIANTE A CONCORRÊNCIA PÚBLICA,  A CONCESSÃO ONEROSA DE DIREITO REAL DE USO PARA PRESTAÇÃO DOS SERVIÇOS  PÚBLICOS DE ADMINISTRAÇÃO, MANUTENÇÃO E EXPLORAÇÃO DO MATADOURO REGIONAL DO MUNICÍPIO DE VIÇOSA/AL, COM OBRIGAÇÃO DE REALIZAR INVESTIMENTOS QUE SE REVELEM NECESSÁRIOS.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/1829>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2020/1829/lei_no_8.261_de_7_de_maio_de_2020..pdf>
