@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – REGIME SEMIABERTO – INCOMPATIBILIDADE.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Oitava Vara Criminal da Comarca de Fortaleza/CE, no processo nº 0134612-68.2016.8.06.0001, em 2 de agosto de 2019, condenou o paciente a 7 anos de reclusão, no regime inicial de cumprimento semiaberto, e ao pagamento de 45 dias-multa, ante o cometimento das infrações previstas nos artigos 180, § 1º (receptação qualificada), 288 (associação criminosa) e 311 (adulteração de sinal identificador de veículo automotor) do Código Penal. Determinou a prisão preventiva, reportando-se à notícia de haver o paciente, após a prática delitiva objeto do processo-crime, continuado a cometer infrações. Concluiu imperiosa a custódia para garantir a ordem pública e a aplicação da lei penal, tendo em vista a necessidade de afastar a sensação de impunidade.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 123.786/CE. O Relator acolheu o pedido de liminar, determinando a compatibilização da prisão preventiva com o regime de cumprimento semiaberto, fixado na sentença. No julgamento de mérito, negou provimento ao recurso e, de ofício, deferiu ordem, confirmando a medida acauteladora.
+    O impetrante afirma caracterizada ilegalidade na decisão por meio da qual, na sentença, determinada a custódia provisória. Sublinha haver o paciente permanecido solto durante a instrução. Ressalta inexistir fato novo a respaldá-la. Enfatiza que a imposição de regime diverso do fechado mostra-se incompatível com a negativa do direito de recorrer em liberdade.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou a interposição de apelação pela defesa, pendente de remessa ao Órgão.
+    A etapa é de exame da medida de urgência.
+    2. O Juízo, ao determinar a prisão preventiva do paciente, aludiu à reiteração delitiva, em razão do cometimento, após os crimes objeto do processo, de novas infrações. Levando em conta a superveniência de fatos reveladores da indispensabilidade da medida, é viável a custódia provisória, observado o artigo 316 do Código de Processo Penal,
+    Contudo, o Superior Tribunal de Justiça, no recurso em habeas corpus nº 123.786, considerada a fixação, na sentença, do semiaberto, determinou a adequação da preventiva ao regime estabelecido, deixando de afastá-la. Ocorre que a imposição de regime menos gravoso, ante a ausência de previsão legal acerca do cumprimento da prisão cautelar em regime diverso do fechado, mostra-se incompatível com a manutenção da preventiva. A compatibilização da custódia com o regime fixado, a revelar privação parcial da liberdade sem amparo na legislação, assume contornos de execução antecipada da pena estabelecida, surgindo descaracterizado o caráter instrumental da prisão preventiva. Precedentes: habeas corpus nº 132.923 e 136.397, Segunda Turma, relator ministro Teori Zavascki; habeas corpus nº 138.122, Segunda Turma, relator ministro Ricardo Lewandowski; e habeas corpus nº 177.740, relator ministro Alexandre de Moraes.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja custodiado por motivo diverso da prisão preventiva formalizada no processo nº 0134612-68.2016.8.06.0001, da Oitava Vara Criminal da Comarca de Fortaleza/CE. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 8 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
