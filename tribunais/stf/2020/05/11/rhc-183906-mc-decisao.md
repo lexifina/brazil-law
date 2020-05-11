@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+RECURSO EM HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Sexta Vara Criminal de Brasília/DF, nos autos do inquérito nº 2019.01.1.009383-0, determinou, em 5 de junho de 2019, a prisão preventiva do recorrente e de outras sete pessoas, ante o suposto cometimento das infrações previstas nos artigos 157, § 2º, inciso II (roubo praticado em concurso de pessoas), 158 (extorsão), do Código Penal e 2º (integrar organização criminosa) da Lei nº 12.850/2013. Aludindo a conteúdo obtido mediante interceptações telefônicas autorizadas, assentou a existência de indícios da participação do recorrente nos fatos, destacando haver, em 26 de janeiro de 2019, por meio de violência e grave ameaça, constrangido a vítima a entregar aparelho celular e documentos pessoais, bem assim a fornecer cartão de débito e a senha, realizando várias transações bancárias. Concluiu indispensável a custódia para garantir a ordem pública e a aplicação da lei penal, considerados indicativos de associação dos investigados ao cometimento reiterado de extorsões e roubos.
+    Recebeu a denúncia – processo nº 0718877-11.2019.8.07.0001 –, tendo em vista a imputação dos delitos versados nos artigos 157, § 2º, inciso II (roubo com causa de aumento alusiva ao concurso de pessoas), 158, § 1º (extorsão com causa de aumento pelo concurso de pessoas), do Código Penal, e 2º (integrar organização criminosa) da Lei nº 12.850/2013. Procedeu ao desmembramento com relação ao recorrente e outros dois corréus. O processo-crime passou a tramitar sob o nº 0735533-43.2019.8.07.0001.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 544.125/DF, liminarmente indeferido pelo Relator. A Quinta Turma desproveu agravo interno.
+    O recorrente sustenta a insubsistência dos fundamentos da decisão que implicou a custódia preventiva, dizendo-a lastreada na gravidade abstrata das imputações.
+    Requer, no campo precário e efêmero, a revogação da preventiva, com expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou haver sido o mandado de prisão cumprido em Madrid/Espanha, no dia 11 de julho de 2019. O processo-crime encontra-se na fase de instrução. Em 2 de abril de 2020, o Juízo deixou de acolher pedido de revogação da custódia, reafirmando a necessidade da preventiva. Destacou assentada, pela Espanha, a viabilidade da extradição, estando pendente a providência ante a pandemia decorrente do novo coronavírus. Realçou encontrar-se o recorrente isolado socialmente, de acordo com recomendação da Organização Mundial da Saúde.
+    A etapa é de apreciação da medida acauteladora.
+    2. O Juízo, ao determinar a prisão preventiva, ressaltou conteúdo extraído de interceptações telefônicas, concluindo tratar-se de cidadão supostamente integrante de organização criminosa voltada ao cometimento de extorsões e roubos. O quadro indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    4. Indefiro a liminar.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 11 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
