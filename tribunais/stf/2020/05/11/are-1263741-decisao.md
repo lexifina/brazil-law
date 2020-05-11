@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de São Paulo contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “EMBARGOS À EXECUÇÃO – Execução individual de sentença proferida em Mandado de Segurança Coletivo – Direito dos associados da Associação dos Cabos e Soldados da Polícia Militar do Estado de São Paulo ao recebimento da GAP – Questão da autorização assemblear que já foi decidida no processo originário – Inaplicabilidade do Recurso Extraordinário nº 573.232-1/SC – Sentença mantida – Recurso não provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida pela colenda Primeira Turma desta Suprema Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXTENSÃO DE VANTAGEM A MAGISTRADO INATIVO. 1. NATUREZA DA VANTAGEM. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. 2. MANDADO DE SEGURANÇA COLETIVO. SUBSTITUIÇÃO PROCESSUAL. DESNECESSIDADE DE AUTORIZAÇÃO EXPRESSA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 437.971-AgR/BA, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “Agravo regimental no recurso extraordinário. Constitucional. Mandado de segurança coletivo. Associação. Legitimidade ativa. Autorização expressa dos associados. Relação nominal. Desnecessidade. Precedentes.
+    1. É pacífica a jurisprudência desta Corte de que as associações, quando impetram mandado de segurança coletivo em favor de seus filiados, atuam como substitutos processuais, não dependendo, para legitimar sua atuação em Juízo, de autorização expressa de seus associados, nem de que a relação nominal desses acompanhe a inicial do ‘mandamus’, consoante firmado no julgamento do MS nº 23.769/BA, Tribunal Pleno, Relatora a Ministra Ellen Gracie.
+    2. Agravo regimental não provido.”
+    (RE 501.953-AgR/DF, Rel. Min. DIAS TOFFOLI – grifei)
+    Impõe-se destacar, por relevante, que o entendimento exposto na presente decisão tem sido observado em sucessivas decisões proferidas no âmbito desta Suprema Corte (ARE 1.184.206/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.184.674/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.196.216/SP, Rel. Min. LUIX FUX – ARE 1.197.753/SP, Rel. Min. GILMAR MENDES – ARE 1.221.160/SP, Rel. Min. ROBERTO BARROSO – ARE 1.259.949/SP, Rel. Min. MARCO AURÉLIO – ARE 1.260.481/SP, Rel. Min. LUIZ FUX – ARE 1.260.499/SP, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou quanto à análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 11 de maio de 2020.
+Ministro CELSO DE MELLO
+Relator
