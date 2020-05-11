@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do TRF da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. AFASTADA. PRESCRIÇÃO DAS PARCELAS VENCIDAS. AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO. DATA INICIAL. AJUIZAMENTO DA AÇÃO INDIVIDUAL. TEMA STJ 1005. LIMITAÇÃO AO TETO. EMENDAS CONSTITUCIONAIS 20/98 E 41/03. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. REGRAS VIGENTES. MENOR E MAIOR VALOR-TETO. LIMITADORES EXTERNOS. SEM LIMITAÇÃO. EXCEDENTES RECUPERADOS. CONSECTÁRIOS DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO”. (eDOC 15, p. 21)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 201, § 1º, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido teria deixado de considerar o valor total do benefício concedido antes da vigência da Lei 8.213/1991, mas considerado apenas o valor limitado pelo teto então aplicável, em contrariedade ao decidido no tema 76 do Plenário Virtual. (eDOC 19, p. 8)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o valor da renda mensal inicial da recorrida não teria sido limitado à época de sua concessão. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Consoante constou na origem, no presente caso, é possível afirmar que o benefício recebido pela parte autora não sofreu limitação.
+    Observa-se dos documentos dos eventos 14 e 15 que a média dos salários de contribuição restou calculada em Cr$ 14.312,91 (quatorze mil, trezentos e doze cruzeiros e noventa e um centavos), todavia, em 12-1978 (data da concessão), o maior valor teto era de Cr$ 28.940,00 (vinte e oito mil, novecentos e quarenta cruzeiros) e o menor valor teto era de Cr$ 14.470,00 (quatorze mil, quatrocentos e setenta cruzeiros). Ou seja, a média dos salários de contribuição não sofreu a incidência do menor valor teto, tampouco do maior valor, não fazendo jus à revisão com base nas ECs supervenientes”. (eDOC 15, p. 19)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE RMI. APLICAÇÃO DOS NOVOS TETOS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO”. (RE 930.380 ED-AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 7.5.2019)
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Benefício. Revisão. RE nº 564.354/SE-RG. Inaplicabilidade. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A Corte de origem, a partir da análise do conjunto fático-probatório dos autos, concluiu que o ora agravante jamais teve o valor de seu benefício reduzido em razão da aplicação de limitador previdenciário. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido”. (ARE 828.256 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 28.4.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 15, p. 19), observados os limites previstos nos §§ 2º e 3º do referido dispositivo e as disposições relativas à gratuidade de justiça.
+    Publique-se.
+    Brasília, 11 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
