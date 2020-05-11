@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO DOMICILIAR – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles assim retratou o caso:
+    O Juízo da Primeira Vara de Tietê/SP, acolhendo representação da autoridade policial, determinou a prisão temporária do paciente, ocorrida em 22 de dezembro de 2016, e de outras pessoas, ante a suposta prática das infrações previstas nos artigos 2º (integrar organização criminosa) da Lei nº 12.850/2013, 33 (tráfico de drogas), 35 (associação para o tráfico) da Lei nº 11.343/2006, 155, § 4º, incisos I e IV (furto qualificado pelo rompimento de obstáculo e concurso de agentes), 251 (explosão) do Código Penal e 15 (disparo de arma de fogo) da Lei nº 10.826/2003.
+    Ao receber a denúncia, no processo nº 0002292-55.2016.8.26.0629, converteu a custódia em preventiva, considerado o cometimento dos delitos mencionados. Aludindo a informações obtidas em interceptações telefônicas, destacou tratar-se de organização criminosa voltada ao tráfico de entorpecentes e à prática de furtos a caixas eletrônicos, mediante utilização de explosivos e disparos de arma de fogo. Ressaltou imperiosa a prisão para garantir a ordem pública, a instrução processual e a aplicação da lei penal, sublinhando a continuidade das atividades ilícitas mesmo após iniciadas investigações e cumpridos mandados de busca.
+    Em 15 de abril de 2020, não acolheu pedido de revogação da custódia e de substituição por prisão domiciliar, assentando persistirem os motivos que a ensejaram. Salientou que o paciente permaneceu foragido por mais de 6 meses, ocultando-se das intimações para audiência de instrução. Realçou, no tocante ao pedido de prisão domiciliar, inexistir comprovação da alegada doença respiratória. Concluiu não implicar a pandemia decorrente do novo coronavírus o afastamento da preventiva, uma vez adotadas, nas unidades prisionais, medidas para evitar a propagação da doença.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 575.056/SP, indeferido liminarmente pela Relatora.
+    O impetrante, reportando-se à crise sanitária ocasionada pela covid-19, sustenta viável a observância da prisão domiciliar. Afirma ser o paciente portador de bronquite crônica, apontando o aumento do risco de contágio no estabelecimento prisional. Alude à Recomendação nº 62/2020 do Conselho Nacional de Justiça. Aduz que, em virtude de medidas acauteladoras implementadas por Vossa Excelência nos habeas corpus nº 147.866 e 170.895, permaneceu solto por quase dois anos, não surgindo notícia de envolvimento em práticas ilícitas.
+    Requer, no campo precário e efêmero, seja reconhecido o direito à prisão domiciliar. No mérito, busca a confirmação da providência.
+    Vossa Excelência, nos habeas de nº 147.866 e 170.895, deferiu liminares para, ante o excesso de prazo, afastar a preventiva do paciente. A Primeira Turma, no julgamento de mérito, inadmitiu as impetrações e tornou insubsistentes as medidas de urgência.
+    Consulta ao sítio do Tribunal de Justiça, em 5 de maio de 2020, revelou haver o Juízo, em 24 de abril, deixado de acolher novo pedido da defesa, voltado à observância do recolhimento domiciliar. Assentou que o fato de ser portador de bronquite não viabiliza o implemento da providência, ressaltando não demonstrado o elevado risco de contaminação. Destacou genérico o relatório médico apresentado pela defesa.
+    A etapa é de exame da liminar.
+    2. A crise sanitária decorrente do novo coronavírus é insuficiente a levar ao deferimento da providência pretendida. O relatório médico juntado pelo impetrante – folha e-STJ 248 – revela-se genérico, inexistindo menção à gravidade do quadro clínico a justificar o acolhimento do que postulado. A par desse aspecto, não se tem notícia de o tratamento estar inviabilizado ou o atendimento impedido de vir a ser realizado de forma adequada no local da custódia, bem assim acerca de casos confirmados ou suspeitos de infecção na unidade prisional.
+    3. Indefiro a medida acauteladora.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 11 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
