@@ -1,0 +1,11 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1008802-89.2020.8.11.0000 - COMARCA DE RONDONÓPOLIS
+IMPETRANTE(S): DR. ARY DA COSTA CAMPOS
+PACIENTE(S): WALISSON PEREIRA SOARES, LUIZ HENRIQUE FERREIRA DOS SANTOS E DNYSON FERREIRA LOPES
+DESPACHO
+Vistos,
+Ao relatar os autos, verifica-se que não foi juntada a manifestação da i. PGJ.
+Nesse quadro, aguarde-se a intervenção da i. PGJ.
+Cumpra-se.
+Cuiabá,11 de maio de 2020.
+Des. MARCOS MACHADO
