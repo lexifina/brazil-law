@@ -1,0 +1,29 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Associação para o tráfico de drogas. Prisão preventiva. Ordem concedida de ofício.
+1. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito suscitada na impetração. Precedentes.
+2. A prisão preventiva de jovem de 21 anos de idade - primário e condenado a 3 anos de reclusão - é contraproducente do ponto de vista da política criminal, notadamente se se considerar o tempo em que já permaneceu preso (desde 27.08.2019).
+3. Habeas corpus a que se nega seguimento. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 569.111/SP.
+    2. Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 35, caput, da Lei 11.343/06, à pena de 3 anos de reclusão, em regime inicial fechado. Foi negado o direito de recorrer em liberdade.
+    3. Em 06.03.2020, o paciente foi promovido ao “REGIME SEMIABERTO de cumprimento de pena – Processo nº 1503604-96.2019.8.26.0625” (e-doc. 10).
+    4. Em 07.04.2020, o Juízo da Execução indeferiu pleito de prisão domiciliar formulado pela defesa do paciente. Contra a decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio HC no Superior Tribunal de Justiça. A Presidência da Corte Superior indeferiu liminarmente o writ.
+    5. Neste habeas corpus, a parte impetrante afirma, em síntese, que o Juízo de origem indeferiu pedido de prisão domiciliar ao paciente, “com decisão genérica sob o fundamento de que o paciente não comprovou estar no grupo de risco quanto ao COVID 19, deixando de mencionar o fato do paciente ter sido promovido ao regime semiaberto e estar cumprindo pena em regime mais gravoso”.
+    6. Prossegue a impetração para informar que “o paciente foi condenado a pena de 3 (três) anos, em regime fechado, e, seu recurso de apelação [...] sequer foi distribuído no Tribunal de Justiça competente, o que [...] traz grandes e sérios prejuízos ao paciente”.
+    7. Com esses argumentos, e fazendo referência à Recomendação nº 62 do CNJ, a defesa requer “seja concedida a saída antecipada do paciente, para que ao menos, cumpra sua pena em regime albergue domiciliar”.
+    8. Decido.
+    9. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    10. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    11. Sem prejuízo desse encaminhamento, a ordem deve ser concedida de ofício.
+    12. A jurisprudência desta Corte considera que o decreto prisional deve apontar elementos concretos idôneos que evidenciem a real necessidade da custódia processual, nos termos do art. 312 do CPP. A jurisprudência não admite, portanto, a decretação da prisão preventiva mediante argumentos genéricos, fundados exclusivamente na gravidade abstrata da imputação.
+    13. Nessas condições, não encontro no decreto de prisão preventiva do paciente, na concreta situação dos autos, a demonstração, empiricamente motivada, dos requisitos previstos no art. 312 do Código de Processo Penal (Cf. HC 109.449, Rel. Min. Marco Aurélio; e HC 115.623, Rel. Min. Rosa Weber).
+    14. No caso, a manutenção da prisão preventiva de paciente jovem com 21 anos de idade - primário e condenado a 3 anos de reclusão - mostra-se contraproducente do ponto de vista da política criminal, notadamente se se considerar o tempo em que já permaneceu preso (desde 27.08.2019). Ademais, os autos dão conta que, em 06.03.2020, o paciente foi promovido ao “REGIME SEMIABERTO de cumprimento de pena – Processo nº 1503604-96.2019.8.26.0625”, vez que comprovada a “presença de lapso temporal necessário e da boa conduta carcerária registrada pelo(a) detento(a), bem como a concordância do Ministério Público” (e-doc.10).
+    15. Diante do exposto, com apoio no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus. Contudo, concedo a ordem de ofício para determinar ao Juízo de origem que substitua a prisão preventiva do paciente pela prisão domiciliar; sem prejuízo das medidas cautelares do art. 319 do CPP e de eventual necessidade de restabelecimento da prisão por motivação idônea.
+    Publique-se.
+    Comunique-se, com urgência.
+          Brasília, 11 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
