@@ -1,0 +1,15 @@
+DECISÃO:
+Ementa: PEDIDO DE NULIDADE DE CITAÇÃO. INTIMAÇÃO IRREGULAR. NULIDADE RECONHECIDA.
+1. A intimação da decisão monocrática do ARE 1.260.560 foi realizada em nome de advogados que não mais representam o requerente.
+2. Pedido deferido para: (i) reconhecer a nulidade da intimação do requerente, da decisão monocrática no ARE 1.260.560; (ii) determinar a retificação da autuação; e (iii) conforme solução tipificada no art. 272, § 9º, do CPC/15, devolver o prazo recursal à parte peticionante, relativamente à decisão monocrática de 17.03.2020 no ARE 1.260.560, o qual será contado da publicação da presente decisão.
+    1. Trata-se de pedido de nulidade de intimação de decisão monocrática de não conhecimento do ARE 1.260.560, de minha relatoria.
+    2. Em síntese, o requerente alega que, em 04.11.2019, quando os autos ainda se encontravam no Superior Tribunal de Justiça, realizou o substabelecimento, sem reserva de poderes, em nome do advogado Ludgero Ferreira Liberato dos Santos, tendo o STJ regularizado a representação processual. Entretanto, no momento da remessa a esta Corte, em 05.03.2020, os autos foram erroneamente cadastrados no nome dos antigos advogados. Afirma que tal fato o impediu de ser intimado tempestivamente da decisão monocrática de não conhecimento do recurso extraordinário com agravo.
+    3. Requer, então, seja declarada a nulidade da intimação da decisão monocrática que julgou o ARE 1.260.560, ocorrida em 19.03.2020, como nos termos do artigo 272, § 9º, do CPC/2015 e a reabertura de prazo para a interposição de agravo regimental.
+    4. É o relatório. Decido.
+    5. O pedido do requerente merece provimento. De fato, verifico que a intimação foi realizada em nome dos antigos advogados, que não mais representam o recorrente.
+    6. Desta forma, defiro o pedido para: (i) reconhecer a nulidade da intimação do requerente na decisão monocrática proferida no ARE 1.260.560, publicada no DJe de 19.03.2020, porquanto não observada a forma estipulada no art. 272, §2º, do CPC/15; (ii) tornar sem efeito o transito em julgado do ARE 1.260.560; (iii) oficiar o Tribunal de origem para devolver os autos do ARE 1.260.560 para o cumprimento da decisão; (iv) após o retorno dos autos a esta Corte, determinar a retificação da autuação, para fazer constar como advogado do requerente no ARE 1.260.560 o Sr. Ludgero Ferreira Liberato dos Santos (OAB/ES 21.748), bem como remover o nome dos advogados Sebastião Rivelino de Souza Amaral (OAB/ES 8.963) e Marcio Azevedo Schneider (OAB/ES 16.291); (v) conforme solução tipificada no art. 272, § 9º, do CPC/15, devolver o prazo recursal à parte peticionante, relativamente à decisão monocrática de 17.03.2020 no ARE 1.260.560, o qual será contado da publicação da presente decisão; e (vi) autuar a presente PET 8.799 como petição nos autos do ARE 1.260.560, bem como incorporar a presente decisão ao referido recurso.
+    À Secretaria, para oficiar o Tribunal de origem, retificar a autuação no ARE 1.260.560 e demais providências cabíveis.
+    Publique-se. Intimem-se.
+          Brasília, 11 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
