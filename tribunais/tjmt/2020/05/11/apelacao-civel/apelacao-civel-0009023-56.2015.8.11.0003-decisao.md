@@ -1,0 +1,46 @@
+Vice-Presidência
+Processo Judicial Eletrônico – PJe
+Recurso Especial n. 0009023-56.2015.8.11.0003
+Recorrente NOBRE SEGURADORA DO BRASIL S/A
+Recorridos C R PASSAGEM E TURISMO LTDA – ME e outros
+Vistos, etc.
+Trata-se de Recurso Especial interposto por NOBRE SEGURADORA DO BRASIL S/A, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado assim ementado (id 34634499):
+“RECURSOS DE APELAÇÃO CÍVEL - Ação de Indenização por Danos Materiais e Morais – ACIDENTE DE TRÂNSITO - RECURSO DA DENUNCIADA - não CONHECIDO – DESERÇÃO - VALOR DA INDENIZAÇÃO POR DANOS MORAIS – MAJORAÇÃO – NECESSIDADE – OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE – PENSÃO MENSAL – IMPOSSIBILIDADE – HONORÁRIOS SUCUMBENCIAIS – COMPENSAÇÃO AFASTADA – APLICAÇÃO DO §14 DO ARTIGO 85 DO CÓDIGO DE PROCESSO CIVIL - sentença PARCIALMENTE REFORMADA - RECURSO DO AUTOR – PARCIALMENTE PROVIDO.
+I – Ao invés de recolher o preparo, a segunda apelante, além de manejar embargos de declaração, que acabou desprovido, ainda deixou transcorrer o prazo concedido para tanto, sem o recolhimento do preparo, sendo de rigor, portanto, a aplicação do artigo 1.007, caput, do Código de Processo Civil, com o reconhecimento da deserção do recurso de apelação.
+II - Como cediço, é pacífico o entendimento da jurisprudência pátria, no sentido de que o valor da indenização por danos extrapatrimoniais não deve implicar em enriquecimento ilícito da vítima, tampouco pode ser irrisório, a ponto de afastar o caráter pedagógico que é inerente à medida.
+III - Considerando as peculiaridades do caso e as condições socioeconômicas das partes, entendo que o valor de R$ 6.000,00 (seis mil reais) fixado pelo Juiz sentenciante, não se mostra proporcional e razoável para reparar todo o transtorno sofrido pelo autor, ora primeiro apelante, bem como servir de medida educativa para as rés, ora apeladas, razão pela qual majoro o valor da indenização por danos morais para R$ 10.000,00 (dez mil reais).
+IV - Já no que diz respeito ao recebimento de pensão vitalícia, não assiste razão ao autor, ora primeiro apelante, eis que, embora o perito tenha constatado a limitação laboral em 100% no punho esquerdo para qualquer atividade braçal, também deixou claramente elucidado que o autor, ora primeiro apelante, poderá, em função que não exija esforço repetitivo e nem trabalho braçal, adaptar-se e exercer outras atividades.
+V – Por sua vez, a teor do que dispõe o §14 do artigo 85 do Código de Processo Civil, assiste razão ao autor, ora primeiro apelante, quanto à vedação da compensação dos honorários sucumbenciais, haja vista que, no caso, a sucumbência é parcial.” (N.U 0009023-56.2015.8.11.0003, DESA. SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 11/03/2020, Publicado no DJE 16/03/2020).
+Alega violação aos artigos 98 e 99 do CPC, além de divergência jurisprudencial, ao argumento de que é patente a hipossuficiência capaz de ensejar a concessão da gratuidade judiciária.
+Recurso tempestivo (id 39575999).
+Instada a comprovar a sua hipossuficiência (id 39727492), a parte Recorrente carreou novos documentos ao feito e reiterou se tratar de Recurso Especial aviado com a finalidade do reconhecimento e concessão da assistência judiciária gratuita (id 41467496), o que, portanto, torna desnecessário o recolhimento das referidas custas.
+É o relatório.
+Decido.
+Sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ
+Imprime -se das razões recursais, que a Recorrente interpôs Apelação Cível vindicando a reforma da sentença do juízo da Comarca de Rondonópolis/MT que a condenou ao pagamento de indenização ao argumento de que a condenação era exorbitante, diante da sua frágil situação financeira, bem como pela necessidade de habilitação do crédito no processo falimentar.
+Por sua vez, a Colenda Câmara não conheceu do apelo ante a sua deserção, conforme se extrai do voto carreado ao id 34634495:
+“Ao invés de recolher o preparo, a segunda apelante, NOBRE SEGURADORA DO BRASIL S.A. (em liquidação extrajudicial), além de manejar embargos de declaração, que acabou desprovido, ainda deixou transcorrer o prazo concedido para tanto, sem o recolhimento do preparo (id. 33015490), sendo de rigor, portanto, a aplicação do artigo 1.007, caput, do Código de Processo Civil, com o reconhecimento da deserção do recurso de apelação.”
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Ao apontar violação aos artigos 98 e 99 do CPC, a parte Recorrente defende que a hipossuficiência a ensejar a concessão da gratuidade judiciária esta demonstrada através de provas produzidas nos autos.
+Ocorre, no entanto, que para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO.
+AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4o, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. HONORÁRIOS RECURSAIS DE SUCUMBÊNCIA. RECURSO ORIUNDO DE PROVIMENTO INTERLOCUTÓRIO, SEM A PRÉVIA FIXAÇÃO DA VERBA HONORÁRIA. NÃO CABIMENTO NA ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a orientação jurisprudencial desta Corte, sacramentada na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais". Todavia, no caso dos autos, não houve a demonstração da incapacidade econômica da empresa recorrente, o que afasta a aplicação do verbete sumular e, por outro lado, atrai a incidência da Súmula 7/STJ.
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4o, do NCPC, devendo ser analisado caso a caso.
+3. Não é cabível a fixação de honorários recursais, in casu, porquanto, além de não ter sido fixada tal verba nas instâncias ordinárias, o recurso especial foi interposto contra acórdão proferido no âmbito de agravo de instrumento, sendo inaplicável o art. 85, § 11, do CPC/2015.
+4. Agravo interno desprovido.” (AgInt no AREsp 1611322/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020) (g.n)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ausência de cotejo analítico.
+Ainda, quanto à dissonância jurisprudencial com fundamento na alínea “c” do permissivo constitucional do art. 105, inciso III, Nos termos do art. 1.029, § 1o, do CPC, e do art. 255, § 1o, do RISTJ, não basta a simples reprodução de ementas, pois é imprescindível que se comprove o dissídio com a transcrição do relatório e do voto dos acórdãos recorrido e paradigma e cotejo analítico a evidenciar a similitude fática entre os casos apontados e a dissonância de interpretações.
+A propósito:
+“PROCESSUAL CIVIL. (...) ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. (...) 3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (Art. 541, parágrafo único, do CPC e Art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea ‘c’ do inciso III do Art. 105 da Constituição Federal”. (STJ AgRg no AREsp 553.725/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/11/2014, DJe 02/02/2015).
+Dessa forma, em análise às razões recursais, observa-se que a parte Recorrente trouxe ao autos suposta ementa que versa sobre idêntica situação jurídica, mas decidida de maneira diversa, entretanto, não é a realizada. Visto que, o paradigma versa sobre o indeferimento de plano da assistência, sem prévia intimação para comprovação da hipossuficiência, o que não é o caso dos autos, portanto, deixou de efetuar o exame comparativo da divergência jurisprudencial, o que impede a admissão do recurso.
+Posto isso, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá-MT, 11 de maio de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XII
