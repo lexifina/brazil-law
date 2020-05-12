@@ -1,0 +1,15 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Prejudicialidade.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 575.272, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 04.04.2020, pela suposta prática do crime previsto no art. 155, caput, c/c o art. 14, II, do Código Penal. O Juízo da Vara de Inquéritos da Comarca de Belo Horizonte/MG, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Inconformada com a prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. A Presidência do STJ indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia preventiva. Destaca, ainda, a necessidade de revogação da prisão “por estar configurada flagrante ilegalidade e em razão da evidente situação de perigo e urgência, sobretudo pelo fato notório da pandemia do novo coronavírus (COVID-19) e de [ser] o paciente PRIMÁRIO e acusado de delito cometido sem violência ou grave ameaça”.
+    5. Com essa argumentação, a defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia preventiva por outra medida cautelar ou, ainda, pela prisão domiciliar.
+    6. Decido.
+    7. O habeas corpus perdeu o objeto.
+    8. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “a superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo”. (HC 83.799-AgR, Rel. Min. Celso de Mello). No caso, em consulta à página oficial do Superior Tribunal de Justiça na internet, verifico que a parte impetrante interpôs agravo regimental contra a decisão que indeferiu liminarmente a impetração lá formalizada. Em 08.05.2020, o Relator do HC 572.272-AgR, Ministro Rogerio Schietti Cruz, reconsiderou a decisão agravada a fim de conceder “o habeas corpus, in limine, para revogar a prisão preventiva do paciente e fixar-lhe as seguintes medidas cautelares, para garantia da ordem pública: a) proibição de ausentar-se da Comarca quando sua permanência seja conveniente ou necessária para a investigação ou instrução; b) recolhimento domiciliar no período noturno, das 22h às 5h da manhã”. A decisão foi publicada em 11.05.2020. De modo que este habeas corpus perdeu o objeto.
+    9. Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o habeas corpus.
+    Publique-se.
+          Brasília, 12 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
