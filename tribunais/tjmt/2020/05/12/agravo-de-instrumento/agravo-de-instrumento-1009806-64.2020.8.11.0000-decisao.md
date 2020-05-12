@@ -1,0 +1,31 @@
+RAI no. 1009806.64.2020.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento com pedido de efeito suspensivo interposto por BANCO BRADESCO FINANCIAMENTOS S/A, em face a r. decisão prolatada pelo juízo da 1a Vara Cível da Comarca de Diamantino/MT, que nos autos da ação revisional no 1002066-74.2019.8.11.0005 movida por ALCIDES MANTELLI JUNIOR, deferiu a medida de urgência pleiteada pela parte autora ora agravada e determinou a reintegração da posse do bem, objeto da presente demanda; via de consequência, suspendeu os efeitos da liminar nos autos de busca e apreensão, autos do processo tombado sob no 1001436-18.2019.8.11.0005, procedendo-se a sra gestora as providências necessárias para informar no referido feito e, alcançada a composição entre os litigantes, conclusos para homologação. (id. 41469993)
+Sustenta o banco agravante que para a aplicação da teoria mencionada é necessário que o Agravado tenha cumprido com quase toda a totalidade da dívida contratual, o que não ocorreu no presente, pois constam pendentes de pagamento as parcelas sete em diante de modo que não há que se falar adimplemento substancial; assim, não há que se falar em pagamento substancial do contrato, porque existindo o inadimplemento do devedor, e configurada a mora através da notificação extrajudicial, está presente o direito deste Banco Credor de retomada do bem.
+Requer seja recebido o presente recurso, pelos motivos já expostos, para inicialmente, ser deferida a tutela provisória, bem como, ao final, dar provimento ao recurso, para ser reconhecido que não houve inadimplência substancial, restituindo o veículo à Instituição Financeira.
+É o relatório.
+Decido.
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, para a concessão do efeito ativo pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. ”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Pois bem, É incontestável a relevância das argumentações do Agravante, todavia, para fins de apreciação preliminar, há que se ater aos termos e fundamentação adotada pela decisão interlocutória combatida, transcrevo:
+“(...)Noutro viés, o pedido do autor em relação a reintegração da posse do veículo deve ser DEFERIDO.
+Com efeito, “a aplicação da Teoria do Adimplemento Substancial exigiria, para a hipótese, o preenchimento dos seguintes requisitos: a) a existência de expectativas legítimas geradas pelo comportamento das partes; b) o pagamento faltante há de ser ínfimo em se considerando o total do negócio; c) deve ser possível a conservação da eficácia do negócio sem prejuízo ao direito do credor de pleitear a quantia devida pelos meios ordinários.” (critérios adotados no REsp 76.362/MT, Quarta Turma, J: 11/12/1995, P: 01/04/1996).
+No caso dos autos, a prova inequívoca e a verossimilhança das alegações estão presentes, já que o autor acostou nos autos o comprovante de pagamento de mais de 50% da dívida (R$ 25.000,00), ao passo que o veículo que encontrar-se na posse da parte demandada, através da ação de busca e apreensão, custa aproximadamente R$ 150.000,00, sendo tais razões o bastante para demonstrar o ‘fumus boni iuris’.
+Também se encontra configurado o fundado receio de dano ou de difícil reparação, porquanto inquestionáveis seriam os prejuízos da parte autora em ver seu veículo apreendido, vez que necessidade do veículo para o seu trabalho, bem como para locomoção de seu pai para tratamento de saúde que é deficiente físico.
+Ademais, a perda do bem vital do requerido é um sacrifício excessivo em relação ao prejuízo ínfimo que a parte demandada sofre com as parcelas em aberto, haja vista que já recebeu praticamente todo o valor do contrato. Daí nota-se que a busca e apreensão se demonstra-se totalmente abusivo. Vale registrar, de que a persistência do inadimplemento a parte demandada poderá buscar outros meios para a satisfação do seu crédito.
+Vale lembrar que o valor da causa de busca e apreensão é de R$ 23.856.28; o autor efetuou o depósito em juízo de R$ 7.631,81; o valor do veículo é aproximadamente R$ 150.000,00.
+Ante o exposto, DEFIRO a medida de urgência pleiteada pela parte autora e DETERMINO a reintegração da posse do bem, objeto da presente demanda.
+Via de consequência, SUSPENDO os efeitos da liminar nos autos de busca e apreensão, autos do processo tombado sob no 1001436-18.2019.8.11.0005, procedendo-se a Sra Gestora as providências necessárias para informar no referido feito. (...)”.
+Com esses apontamentos, em sede de cognição sumária, julgo pertinente a manutenção da decisão agravada.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO, pois, o efeito almejado, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o juízo a quo, facultando-lhe prestar informações.
+Intime-se a parte agravada para, querendo, no prazo legal, apresentar contrarrazões ao recurso.
+Às providências.
+Cumpra-se.
+Des. Sebastião BARBOSA FARIAS
+Relator
