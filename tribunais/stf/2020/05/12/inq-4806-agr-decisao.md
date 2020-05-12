@@ -1,0 +1,28 @@
+Vistos etc.
+    Trata-se de inquérito policial instaurado por determinação e sob supervisão desta Suprema Corte, no qual figuravam como investigados Newton Cardoso Júnior, Soraya Santos, Vital do Rêgo, Eduardo Cosentino da Cunha, Fernando Jordão, Geraldo Pereira, Manoel Júnior, Marçal Filho, Henrique Alves, Leonardo Quintão, Saraiva Felipe, João Magalhães, Toninho Andrade, Alexandre Santos, Sandro Mabel, Carlos Bezerra, Mauro Lopes e José Priante.
+    A investigação apura o “suposto cometimento de crime por diversos políticos, especialmente parlamentares federais, em troca de apoio político para a eleição de Eduardo Cunha à Presidência da Câmara dos Deputados, intermediados por Lúcio Bolonha Funaro e pelos políticos João Magalhães e Toninho Andrade” (f. 76).
+    O feito, ainda autuado como Petição 7863, foi submetido originalmente à relatoria do eminente Min. Edson Fachin, por prevenção à Petição 7.003.
+    Os pedidos formulados pela Procuradoria-Geral da República, ainda naquela Petição 7863, foram parcialmente deferidos pelo Min. Edson Fachin, que determinou: (i) a reclassificação do feito como Inquérito, com a inclusão de todos os investigados no polo passivo do procedimento apuratório; (ii) a remessa dos autos à Presidência deste Supremo Tribunal Federal, para fins de redistribuição, por entender que o objeto da investigação não possuía “qualquer relação dos fatos confidenciados com os episódios que vitimaram a Petrobras S.A.” (f. 99-103).
+    Reautuados como Inquérito, os autos seguiram à Presidência, que veio a acolher a manifestação do então Relator e determinar a livre redistribuição do feito (f. 106-113), a mim submetido por sorteio (f. 114).
+    Assim que assumi a relatoria, ratifiquei os atos processuais até então praticados e deferi os pedidos deduzidos pelo Ministério Público Federal, para (f. 115-122):
+    (i) declinar da competência para o processamento e julgamento do feito em relação aos investigados Newton Cardoso Júnior, Soraya Santos, Eduardo Cunha, Fernando Jordão, Geraldo Pereira, Manoel Júnior, Marçal Filho, Henrique Alves, Leonardo Quintão, Saraiva Felipe, João Magalhães, Toninho Andrade, Alexandre Santos, Sandro Mabel e Vital do Rego, em favor do Tribunal Regional Federal da 1ª Região e da Seção Judiciária do Distrito Federal (Inquérito nº 0024545-42.2018.4.01.0000/MG e Ação Penal nº 60203-83.2016.4.01.3400);
+    (ii) autorizar o prosseguimento, nestes autos, das investigações dos fatos relacionados aos Deputados Federais Carlos Bezerra, Mauro Lopes e José Priante;
+    (iii) determinar a abertura de vista à Procuradoria-Geral da República para que, no prazo regimental, indique as diligências que pretende encetar.
+    Contra a decisão declinatória, a Defesa de Eduardo Cosentino da Cunha interpôs agravo regimental aduzindo, em síntese: (i) a prevenção do Ministro Ricardo Lewandowski (Petição nº 7997); (ii) que a suposta compra dos votos para eleição de presidente da Câmara teria o especial fim de agir eleitoral, com recursos transitando por “caixa dois”, a atrair a competência da Justiça Eleitoral. Ao final, postulou (f. 129-142):
+    a) Seja recebido e processado o presente recurso;
+    b) Preliminarmente, que seja determinado a remessa do feito ao Ministro Lewandowski, ante a prevenção esboçada; ou
+    c) Que seja provido o agravo regimental, ainda que por meio de reconsideração, para o fim de determinar a remessa da investigação preliminar à Justiça Eleitoral de Minas Gerais (TRE/MG); ou
+    d) Que seja reformada parcialmente a decisão que declinou a competência, indeferindo o pedido de remessa da investigação preliminar aos autos nº 60203-83.2016.4.01.3400 (JF/DF); e
+    e) Que seja intimada a defesa da inclusão do recurso em pauta, para que possa oferecer memoriais e proferir sustentação oral.
+    É o relatório. Decido.
+    Como se observa, a investigação contra o ora recorrente Eduardo Cosentino da Cunha foi remetida à Primeira Região da Justiça Federal. Neste recurso, a par da alegação de prevenção, a Defesa argumenta que o correto seria o encaminhamento dos autos à Justiça Eleitoral de Minas Gerais, ante a conotação eleitoral dos fatos sob apuração.
+    É preciso enfatizar, entretanto, que, desmembrado quanto aos agentes não detentores de foro por prorrogativa de função, a investigação continua em andamento sob supervisão desta Suprema Corte em relação aos investigados Carlos Bezerra, Mauro Lopes e José Priante, que ainda exercem mandatos de Deputado Federal.
+    Assim, é forçoso concluir que o enfrentamento do agravo regimental nos mesmos autos do inquérito policial originário implicaria atraso injustificado no andamento das investigações, para solver questão processual que, ao fim e ao cabo, não repercutirá sobre a tramitação do apuratório na parte mantida sob a jurisdição da Corte.
+    Ante o exposto, forte no artigo 317, § 4º, do Regimento Interno da Corte, que estabelece não ser dotada, esta espécie de insurgência recursal, de efeito suspensivo, determino à Secretaria Judiciária que:
+    (i) autue novos autos na classe PET, distribuindo-os por prevenção a esta Relatora, os quais deverão ser instruídos com a íntegra deste inquérito policial, incluindo cópia da presente decisão, para que neles seja processado o julgamento do agravo regimental de f. 129-142.
+    (ii) nos autos a serem formados, independentemente de nova conclusão, dê-se vista à Procuradoria-Geral da República para contrarrazões recursais, no prazo regimental;
+    (iii) no presente Inquérito 4806, dê-se, igualmente, vista à PGR para que, em cumprimento ao item (iii) da decisão de fls. 115-122, indique as diligências que pretende encetar.
+    Publique-se. Intime-se. Cumpra-se.
+    Brasília, 12 de maio de 2020.
+Ministra Rosa Weber
+Relatora
