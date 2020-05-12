@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — PENA — EXECUÇÃO PROVISÓRIA — PRINCÍPIO DA NÃO CULPABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. O Superior Tribunal de Justiça, confirmando o entendimento do Regional, assentou a impossibilidade de execução provisória das penas restritivas de direitos impostas ao recorrido. No extraordinário, o recorrente aponta transgressão aos artigos 5º, cabeça e incisos XXXVI e LVI, e 93, inciso IX, da Constituição Federal. Alega nulidade do acórdão recorrido em razão de negativa de prestação jurisdicional. Insurge-se contra a suspensão da execução da pena até o trânsito em julgado, aludindo precedentes do Supremo.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando sobre os motivos pelos quais suspendeu a execução provisória da pena restritiva de direitos.
+    No mais, o acórdão recorrido encontra-se em harmonia com a jurisprudência do Supremo. O Pleno, no julgamento das ações declaratórias de constitucionalidade nº 43, 44 e 54, de minha relatoria, assentou a constitucionalidade do artigo 283 do Código de Processo Penal, afastando a possibilidade da execução precoce da pena. Precipitá-la importa antecipação de culpa, por serem indissociáveis. Conforme dispõe o inciso LVII do artigo 5º da Constituição Federal, “ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória”, ou seja, a culpa surge após alcançada a preclusão maior. Descabe inverter a ordem do processo-crime – apurar para, selada a culpa, prender ou restringir direitos, em verdadeira execução da sanção.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 12 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
