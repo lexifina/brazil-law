@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Cuida-se de suspensão de segurança ajuizada pela Câmara Municipal de Penedo/AL com o objetivo de sustar os efeitos de decisão proferida no Agravo de Instrumento nº 0802850-02.2019.8.02.0000, em trâmite no Tribunal de Justiça do estado de Alagoas (TJAL), no qual se deferiu o pedido liminar formulado por Evaldo Ferreira, nos autos do Mandado de Segurança nº 0700502-50.2019.8.02.0049, determinando a suspensão da decisão administrativa que afastou o impetrante e a reintegração do servidor aos quadros da Câmara de Vereadores.
+    A Câmara Municipal de Penedo alega que a autoridade requerida determinou, ainda, “[o] pagamento retroativos [dos subsídios do impetrante] desde a data da impetração do mandamus”.
+    Sustenta que a decisão objurgada afirma a
+    “possibilidade da acumulação de aposentadoria concedida pelo Regime Geral de Previdência com o exercício de cargo público, mesmo que a sobre dita aposentadoria tenha se implementado mediante tempo de contribuição decorrente do exercício do cargo público”.
+    A parte autora defende a existência de matéria constitucional controvertida na origem, “notadamente o disposto no § 14, do art. 37, da Constituição da República, o art. 97 da Constituição Federal (cláusula de reserva do plenário), e o positivado no art. 100, da Carta Magna (regime exclusivo dos precatórios para as condenações judiciais pecuniárias suportadas pelo Poder Público)”.
+    Aduz que a decisão no AI nº 0802850-02.2019.8.02.0000 viola o devido processo legal e os postulados da ampla defesa e do contraditório, pois a Câmara de Vereadores não integra a relação processual, não lhe tendo sido oportunizada manifestação nos autos.
+    Argumenta que a ordem ora questionada vai de encontro à regra do art. 100 da CF/88, pois determina a inclusão de servidor na folha de pagamento do órgão fora do regime de precatórios. Sustenta, ainda, que a decisão do TJAL desrespeita o art. 2º-B da Lei nº 9.494/1997, o art. 1º, caput e § 3º, da Lei nº 8.437/1992 e o art. 7º, §§ 2º e 5º, da Lei nº 12.016/2009, os quais, segundo alega, vedam a concessão de tutela liminar em desfavor do poder público que esgotem, no todo ou em parte, o objeto da demanda.
+    Pondera, também, que vige no Município de Penedo/AL, a lei nº 288/1955 (Estatuto dos Servidores Públicos municipais), cujo art. 76, V, institui a aposentadoria como hipótese de vacância de cargos públicos.
+    No ponto, defende que, a teor do art. 97 da CF/88, somente o plenário do TJAL poderia afastar a incidência da norma municipal para solução do caso concreto; e que o § 14 do art. 37 da CF/88 corrobora o entendimento pela possibilidade de rompimento do vínculo entre servidor e poder público em razão da aposentadoria.
+    Em suas razões, sustenta que:
+    “Inexorável, pois, a ilegitimidade e a lesividade da decisão impugnada ao interesse público municipal e à ordem pública, em decorrência de todas as suas ilegalidades e inconstitucionalidades e em razão de todas as suas vicissitudes.
+    Ademais, além de determinar a reintegração do servidor com sua inclusão em folha de pagamento, em absoluto descompasso com a legislação de regência da matéria, a decisão combatida ainda impõe o pagamento retroativo de todos os valores referentes aos salários que o servidor teria deixado de perceber desde a impetração do writ, na origem.
+    O que representa, evidentemente, importante lesão à economia pública, agravada em razão da natureza salarial e alimentar da condenação imposta, além da falta de certeza acerca da solvência do servidor, que é, inclusive, beneficiário da Justiça Gratuita.
+    Nesse contexto, o ente público prejudicado fatalmente não logrará êxito na repetição desses valores, uma vez eles já pagos, o que significaria, ao fim e ao cabo, substancial prejuízo ao Erário.”
+    Requer que seja deferido o pedido liminar e, ao final, que seja julgado procedente a suspensão de segurança para sustar os efeitos da decisão proferida no AI nº 0802850-02.2019.8.02.0000.
+    É o relatório.
+    Decido.
+    Além de se ter matéria constitucional controvertida na origem, a admissibilidade da contracautela pressupõe a demonstração de que o ato questionado possa vir a causar grave lesão à ordem, à saúde, à segurança ou à economia públicas.
+    No caso, a parte requerente não se desincumbiu do ônus de comprovar os efeitos alegadamente danosos à ordem e à economia públicas decorrentes da manutenção da decisão liminar deferida no Agravo de Instrumento nº 0802850-02.2019.8.02.0000.
+    Ressalta-se que essa violação não pode ser presumida de meras declarações do requerente, consoante bem salienta o Ministro Celso de Mello:
+    “Em tema de suspensão de segurança, não se presume a potencialidade danosa da decisão concessiva do writ mandamental ou daquela que defere liminar em sede de mandado de segurança. A existência da situação de grave risco ao interesse público, alegada para justificar a concessão da drástica medida de contracautela, há de resultar cumpridamente demonstrada pela entidade estatal que requer a providência excepcional [...]. Não basta, para esse efeito, a mera e unilateral declaração de que, da execução da decisão concessiva do mandado de segurança ou daquela que deferiu a liminar mandamental, resultarão comprometidos os valores sociais protegidos pela medida de contracautela (ordem, saúde, segurança e economia públicas)” (SS nº 1.185/PA, Ministro Marco Aurélio, publicado no DJ de 4/8/1998 – grifei).
+    Outrossim, entendo que a presente suspensão de segurança é usada pela Câmara Municipal de Penedo/AL como sucedâneo de recurso ou de ação própria para questionar o iter procedimental no Agravo de Instrumento nº 0802850-02.2019.8.02.0000, fim ao qual não se presta a medida de contracauetla.
+    No sentido do não cabimento da via da suspensão como sucedâneo recursal, vide SL nº 14/MG, Rel. Min. Maurício  Corrêa, DJ de 3/10/03; SL nº 80/SP, Rel. Min. Nelson  Jobim, DJ de 19/10/05; SS nºs 3.319/SC, 3.320/SC e 3.321/SC, Rel. Min. Ellen Gracie, DJ de 24/8/07.
+    Ante o exposto, nego seguimento ao pedido (RISTF, art. 21, § 1º), ficando prejudicada a análise da liminar.
+    Publique-se. Intime-se.
+    Brasília, 12 de maio de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
