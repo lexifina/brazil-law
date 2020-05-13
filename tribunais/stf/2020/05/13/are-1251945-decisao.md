@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (eDOC 13, p. 19):
+    E M E N T A – RECURSO DE APELAÇÃO CRIMINAL MINISTERIAL – TRÁFICO DE DROGAS – SENTENÇA ABSOLUTÓRIA REFORMADA - AUTORIA E MATERIALIDADE DEMONSTRADAS - CONDENAÇÃO – RECURSO PROVIDO.
+    Deve ser reformada a sentença absolutória, uma vez que as provas colhidas nos autos processuais, aliados aos elementos colhidos na fase investigatória, demonstram a materialidade e autoria delitiva, sendo que esta última recai sobre o apelado.
+    Os embargos de declaração foram parcialmente acolhidos, para reconhecer a circunstância atenuante da confissão espontânea e efetuar a compensação desta com a circunstância agravante da reincidência (eDOC 14, p. 29 e eDOC 15, pp. 1-9).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 1º, III; 5º, I e LVII; e 93, IX, da CF. Alega-se, em suma, que não há nos autos provas que demonstrem que o ora recorrente promovia a traficância do entorpecente apreendido, razão por que deve ser afastada a incidência do art. 33 da Lei de Drogas. Aduz-se que está comprovada, nos autos, a sua condição de usuário de drogas, e não de traficante. Além disso, o recorrente afirma que o aumento de 2 anos e 6 meses da pena mínima prevista para o tipo penal se mostra desproporcional, ante a existência de apenas duas circunstâncias judiciais. Por essa razão, pleiteia o provimento do recurso para redimensionamento da pena-base para 6 anos (eDOC 16, 21-38).
+    O Tribunal a quo inadmitiu o recurso sob o fundamento de que a ofensa à Constituição, se existisse, seria indireta ou reflexa (eDOC 19, pp. 11-27).
+    É o relatório. Decido.
+    Inicialmente, observo que o Tribunal de origem assentou que “ainda que o réu fosse usuário de drogas, tal fato, por si só, não afasta a possibilidade de condenação pelo crime de tráfico de drogas, tendo em vista que o conjunto probatório aponta que, naquele momento, a droga apreendida com o acusado era destinada à comercialização”. Assim, para verificar se o ora recorrente era apenas usuário de drogas ou se ele se dedicava à traficância, seria necessário o reexame de fatos e provas, o que encontra óbice na Súmula 279/STF.
+    Ademais, constato que o Superior Tribunal de Justiça concedeu habeas corpus de ofício nos autos do AREsp 1.596.747 (2019/0299598-5), simultaneamente interposto ao presente recurso, para redimensionar a pena do agravante para 6 anos de reclusão e 500 dias-multa, nos termos do dispositivo. (eDOC 20, pp. 32-36).
+    Ante o exposto, julgo prejudicado, em parte, o recurso, por perda superveniente do objeto, no que tange ao redimensionamento da pena-base e nego seguimento ao recurso, quanto às demais questões suscitadas, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
