@@ -1,0 +1,14 @@
+Trata-se de habeas corpus impetrado, de próprio punho, pelo corréu e marido da paciente, no qual se aponta como autoridade coatora o Superior Tribunal de Justiça – STJ.
+    A irresignação é inviável.
+    O impetrante não instruiu a petição inicial com o inteiro teor do ato atacado, nem mesmo mencionou o número da HC formulado no STJ. O único documento trazido foi a sentença condenatória, e, mesmo assim, apenas parte dela, o que considero insuficiente para o perfeito exame das questões jurídicas veiculadas nesta impetração.
+    De qualquer modo, em consulta ao sítio eletrônico daquele Tribunal Superior, foi possível identificar o HC 538.767/SP, no qual a Ministra Relatora indeferiu o pedido de liminar, entendendo que “o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável neste juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito”.
+    Aquela Magistrada solicitou, então, “informações pormenorizadas ao Tribunal de origem e ao Juízo de primeira instância, notadamente sobre a situação prisional da Paciente e sobre as condições de vulnerabilidade de seus filhos […]”.
+    Incide, pois, a orientação jurisprudencial deste Supremo Tribunal, firme no sentido de que a superação da Súmula 691 somente se justifica nos casos de flagrante teratologia, ilegalidade manifesta ou abuso de poder, situações nas quais não se enquadra a decisão impugnada.
+    Ainda que em juízo de mera delibação, não é possível aferir, no decisum questionado, situações aptas a justificar a superação do referido verbete. Infere-se, com efeito, que a Ministra do STJ, ao analisar a impetração do habeas corpus, apreciou tão somente os requisitos autorizadores daquela excepcional medida e concluiu pela improcedência deles.
+    Não há nesse ato nenhuma ilegalidade flagrante, tampouco abuso de poder. Muito pelo contrário. Não se pode exigir, nesta fase processual, que o julgador esgote os fundamentos pelos quais a ordem deva ou não ser concedida. Se a argumentação do impetrante não foi suficiente para, a priori, convencer aquela Magistrada, caberá ao colegiado respectivo, depois de instruído o processo, analisar as questões postas sob exame, não havendo nesse agir nenhum constrangimento ilegal.
+    Tal circunstância impede o exame do tema por este Supremo Tribunal, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.
+    Isso posto, nego seguimento a este habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
