@@ -1,0 +1,19 @@
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. AÇÃO JULGADA PROCEDENTE. ALEGADAS OMISSÃO E OBSCURIDADES. PROVIMENTO PARCIAL DOS EMBARGOS PARA, SEM EFEITOS MODIFICATIVOS, ACLARAR O DECISUM RECORRIDO.
+    Decisão: Trata-se de embargos de declaração opostos pelo Banco do Brasil S/A contra decisão de minha relatoria que restou assim ementada:
+    “RECLAMAÇÃO. CONSTITUCIONAL E PREVIDENCIÁRIO. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. ENTIDADE PRIVADA DE PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA. ALEGAÇÃO DE AFRONTA À AUTORIDADE DA DECISÃO PROFERIDA POR ESTA CORTE NO JULGAMENTO DO RE 586.453 – TEMA 190 DA REPERCUSSÃO GERAL. OCORRÊNCIA. TERATOLOGIA DA DECISÃO RECLAMADA. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES. RECLAMAÇÃO QUE SE JULGA PROCEDENTE”.
+    Alega o embargante, em síntese, que o decisum recorrido incorreu em omissão e obscuridades, do que decorreria a necessidade de complementação.
+    Sustenta que o fato de a decisão impugnada não ter cassado expressamente a decisão do STJ, que assentava a competência da Justiça do Trabalho - a despeito de ter declarado a competência da Justiça Comum para o julgamento do feito – configuraria omissão passível de gerar “eventuais embaraços processuais, tal como a não apreciação do Recurso Especial” do embargante.
+    Aduz, ademais, a ocorrência de obscuridades, relativas a inexistência de teratologia na decisão do STJ, na medida em que a decisão reclamada teria feito um distinguishing entre a o caso concreto e o Tema 190 da sistemática da repercussão geral.
+    É o relatório. DECIDO.
+    Ab initio, pontuo que os embargos de declaração devem ser decididos monocraticamente quando opostos contra decisão unipessoal proferida em tribunal, nos termos do artigo 1.024, § 2º.
+    Como é sabido, os embargos de declaração somente são cabíveis quando houver, em decisão judicial, obscuridade, contradição, omissão ou erro material, consoante disposto pelo artigo 1.022 do CPC. Incabíveis, por conseguinte, para mera obtenção de efeitos infringentes quanto à matéria decidida, objeto de  irresignação  do embargante. Neste sentido, são os seguintes precedentes: Rcl 9.977 AgR-ED/PR, Rel. Min. Rosa Weber, Primeira Turma, DJe 05/04/2019; Pet 5.243 ED/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe 20/04/2017.
+    In casu, entendo não haver qualquer obscuridade na decisão recorrida.
+    Com efeito, a decisão embargada apontou claramente que a decisão reclamada não observou ou, ao menos, aplicou de modo equivocado a tese vinculante fixada pelo Plenário do Supremo Tribunal Federal no julgamento do RE 586.453 – Tema 190 da sistemática da repercussão geral, incorrendo, assim, na hipótese de cabimento da reclamação prevista no inciso IV e no §4º do art. 988 do CPC.
+    No que pertine à omissão alegada, saliento que o reconhecimento da incompetência absoluta acarreta automaticamente a nulidade de todas as decisões proferidas pelo órgão jurisdicional incompetente.
+    Nada obstante, com o fito exclusivo de aclarar a decisão recorrida, sem modificação de seu conteúdo, cabível o provimento dos presentes embargos, nesta parte, para assentar a cassação da decisão reclamada e a determinação de que outra seja proferida, com observância da competência da Justiça Comum para o julgamento do feito, nos termos do que consta do Tema 190 da sistemática da repercussão geral.
+    Ex positis, PROVEJO PARCIALMENTE os embargos de declaração, complementando a decisão recorrida, para julgar procedente a reclamação, cassando a decisão reclamada e determinando que o Superior Tribunal de Justiça profira outra, com a observância da competência da Justiça Comum para o feito de origem, nos termos da tese vinculante fixada pelo Plenário do Supremo Tribunal Federal no julgamento do RE 586.453 – Tema 190 da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 13 de maio de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
