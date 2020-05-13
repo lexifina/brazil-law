@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Empresa Brasileira de Correios e Telégrafos – ECT contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “AGRAVO. AGRAVO DE INSTRUMENTO – DESCABIMENTO. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS – ECT. DISPENSA IMOTIVADA. REINTEGRAÇÃO. O agravo não prospera, uma vez que a decisão acolhe a compreensão do item II da Orientação Jurisprudencial nº 247 da SBDI-1/TST. Agravo conhecido e desprovido.” (grifei)
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo, no que se refere à dispensa imotivada, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 589.998/PI, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS – ECT.  DEMISSÃO IMOTIVADA DE SEUS  EMPREGADOS. IMPOSSIBILIDADE. NECESSIDADE DE MOTIVAÇÃO DA DISPENSA. RE PARCIALMENTE PROVIDO.
+    I – Os empregados públicos não fazem jus à estabilidade prevista no art. 41 da CF, salvo aqueles admitidos em período anterior ao advento da EC nº 19/1998. Precedentes.
+    II – Em atenção, no entanto, aos princípios da impessoalidade e isonomia, que regem a admissão por concurso publico, a dispensa do empregado de empresas públicas e sociedades de economia mista que prestam serviços públicos deve ser motivada, assegurando-se, assim, que tais princípios, observados no momento daquela admissão, sejam também respeitados por ocasião da dispensa.
+    III – A motivação do ato de dispensa, assim, visa a resguardar o empregado de uma possível quebra do postulado da impessoalidade por parte do agente estatal investido do poder de demitir.
+    IV – Recurso extraordinário parcialmente provido para afastar a aplicação, ao caso, do art. 41 da CF, exigindo-se, entretanto, a motivação para legitimar a rescisão unilateral do contrato de trabalho.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Cumpre ressaltar, de outro lado, no tocante à controvérsia a propósito da possibilidade, ou não, da reintegração, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se observar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende assinalar, nesse contexto, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.251.340/RJ, Rel. Min. CÁRMEN LÚCIA – ARE 1.253.942/CE, Rel. Min. ALEXANDRE DE MORAES – ARE 1.254.097/CE, Rel. Min. GILMAR MENDES, v.g.):
+    “DIREITO DO TRABALHO. REINTEGRAÇÃO NO EMPREGO. NULIDADE DA DEMISSÃO. ALEGAÇÃO DE VIOLAÇÃO DO PRINCÍPIO DA LEGALIDADE. MATÉRIA INFRACONSTITUCIONAL. ANALISAR A OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO EXIGIRIA A REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. ACÓRDÃO RECORRIDO PUBLICADO EM 31.8.2012.
+    O exame da alegada ofensa ao art. 5º, II, da Constituição Federal dependeria do reexame da legislação infraconstitucional aplicada, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Divergir do entendimento do Tribunal a quo, acerca da existência de direito à reintegração no emprego, demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate.
+    Agravo regimental conhecido e não provido.”
+    (ARE 777.745-AgR/PR, Rel. Min. ROSA WEBER – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 13 de maio de 2020.
+Ministro CELSO DE MELLO
+Relator
