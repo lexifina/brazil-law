@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de agravo interposto contra a decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - Mandado de Segurança - ISS dos exercícios de 2017 e 2018 - Serviços de transporte municipal requisitado por aplicativo móvel (UBER). 1) Preliminar de ilegitimidade passiva da autoridade apontada como coatora afastada - Aplicação da teoria da encampação, nos termos da Súmula 628 do STJ. 2) Da sujeição do impetrante ao ISS - A empresa responsável pelo aplicativo apenas viabiliza o negócio entre o tomador do serviço e o motorista parceiro que efetivamente presta os serviços de transporte municipal, sujeitando-se ao recolhimento do ISS - Inexistência de afronta aos princípios da legalidade, da segurança jurídica e da motivação dos atos administrativos. 3) Alegada afronta ao princípio da anterioridade - Inocorrência - Lei Complementar Municipal nº 415/2017 que apenas detalhou as modalidades de transporte municipal, nos termos da LC 157/2016 - Serviço de transporte municipal que já era previsto pela Lei Complementar Municipal nº 108/2003. 4) Da cobrança do tributo por valor fixo anual - Inteligência do § 1º do art. 9º do Decreto-lei 406/68 - Exação que se mostra justa e preserva os profissionais que prestam serviço sob a forma de trabalho pessoal – Ausência de violação dos princípios constitucionais da razoabilidade, da proporcionalidade, da igualdade tributária e da capacidade contributiva. 5) Da alegada ofensa ao princípio da livre concorrência - Ausência de provas em torno desta questão - Descabimento do writ neste tocante - Sentença reformada - Recursos providos.
+     No recurso extraordinário sustenta-se violação do(s) art.(s) 37, inciso XIV, 145, § 1º, 146, e 150, incisos I, II e III, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o recurso extraordinário foi interposto na vigência da Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao art. 102 da Constituição Federal, criando a exigência de demonstração da repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    No caso em tela, o recurso extraordinário foi interposto após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional.
+    A petição recursal, todavia, não possui tópico devidamente fundamentado de repercussão geral da matéria, o que implica a impossibilidade do trânsito do presente recurso. Sobre o tema, anote-se: RE nº 569.476/SC-AgR, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 25/4/08; ARE nº 1.163.658/AP-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 14/12/18; ARE nº 1.138.998/PE-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 6/12/18; ARE nº 1.166.618/ES-AgR, Rel. Min. Roberto Barroso, DJe de 7/12/18.
+    Ante o exposto, com fundamento no art. 13, V, c, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 13 de maio de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
