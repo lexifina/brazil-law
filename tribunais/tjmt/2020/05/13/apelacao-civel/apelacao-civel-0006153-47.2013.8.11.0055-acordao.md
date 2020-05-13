@@ -1,0 +1,83 @@
+APELANTE(S):
+MUNICÍPIO DE TANGARÁ DA SERRA
+APELADO(S):
+VERÔNICA BELEM DE SOUZA
+
+Número do Protocolo: 46871/2017
+Data de Julgamento: 13-05-2020
+
+E M E N T A
+
+RECURSO DE APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – CUMPRIMENTO PROVISÓRIO DE SENTENÇA CONTRA FAZENDA PÚBLICA – OBRIGAÇÃO DE FAZER – POSSIBILIDADE – MATÉRIA JÁ ENFRENTADA NOS AUTOS PRINCIPAIS – PRECLUSO – EMBARGOS MANIFESTAMENTE PROTELATÓRIOS – MULTA DEVIDA – RECURSO CONHECIDO E DESPROVIDO.
+1.É cabível a execução provisória de sentença de obrigação de fazer contra a Fazenda Pública, uma vez que não se enquadra na vedação imposta pelo art. 2º-B da Lei nº 9.494/97, as quais devem ser interpretadas restritivamente.
+2.Nos termos do art. 740, parágrafo único, do CPC/73, vigente à época, “no caso de embargos manifestamente protelatórios, o juiz imporá, em favor do exequente, multa ao embargante em valor não superior a 20% (vinte por cento) do valor em execução”.
+
+APELANTE(S):
+MUNICÍPIO DE TANGARÁ DA SERRA
+APELADO(S):
+VERÔNICA BELEM DE SOUZA
+
+R E L A T Ó R I O
+EXMO. SR. DR. EDSON DIAS REIS
+Egrégia Câmara:
+Trata-se de recurso de apelação cível interposto pelo MUNICÍPIO DE TANGARÁ DA SERRA contra sentença proferida pelo Juízo da 4ª Vara Cível da Comarca de Tangará da Serra, M.M. Elza Yara Ribeiro Sales Sansão, nos autos dos Embargos à Execução nº 6153-47.2013.811.0055 movida pelo Apelante em face do cumprimento provisório da sentença ajuizada por VERÔNICA BELEM DE SOUZA consistente no fornecimento de medicamento.
+A sentença rejeitou os embargos liminarmente e condenou o Apelante em multa equivalente a 1 % sobre o valor executado em razão da conduta protelatória do Embargante.
+O Apelante sustenta como causa de pedir recursal o não cabimento de execução provisória em face da Fazenda Pública, uma vez que há necessidade de observância de rito próprio.
+Assevera que, caso entenda cabível a execução provisória, que não houve o cumprimento dos requisitos do art. 475-O do CPC/73.
+Aduz que a multa fixada por conduta protelatória é indevida, uma vez que somente exerceu o seu direito à ampla defesa e contraditório.
+Ao final, pugna pelo provimento do recurso, para reformar a sentença, julgando procedente a pretensão posta nos Embargos à Execução, bem como seja afastada a multa equivalente a 1% sobre o valor executado.
+Contrarrazões apresentada pela apelada – fls. 30/32 -.
+A Procuradoria-Geral de Justiça manifestou pela desnecessidade de sua intervenção nos autos – fl. 43 -.
+É o relatório.
+
+Edson Dias Reis
+Juiz de Direito Convocado
+
+V O T O
+EXMO. SR. DR. EDSON DIAS REIS (RELATOR)
+Egrégia Câmara:
+Como visto do relatório, o presente recurso visa a reforma da sentença proferida pelo Magistrado a quo que rejeitou os Embargos à Execução e condenou o Apelante em multa de 1% por conduta protelatória.
+De início, ressalto que no recurso de apelação se encontram presentes os requisitos extrínsecos, quais sejam, tempestividade, regularidade formal e preparo, bem como os intrínsecos, entre eles, cabimento, legitimidade, interesse recursal e ausência de fato extintivo ou impeditivo de recorrer, que autorizam reconhecer a admissibilidade e a apreciação da pretensão recursal.
+Ressai dos autos que o Apelante MUNICÍPIO DE TANGARÁ DA SERRA opôs Embargos à Execução nº 6153-47.2013.811.0055 em face do cumprimento provisório da sentença ajuizada por VERÔNICA BELEM DE SOUZA consistente no fornecimento de medicamento.
+No caso, o Apelante sustenta que é cabível cumprimento provisório de sentença em face da Fazenda Púbica.
+Em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que o recurso de apelação não merece provimento.
+Com efeito, é certo que é vedado o cumprimento provisório de sentença em face da Fazenda Pública em casos de execução por quantia certa, uma vez que necessitada de expedição de RPV ou Precatório, e nos casos inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores, no termos do art. 2º-B da Lei 9.494/97, in verbis:
+Art. 2o-B. A sentença que tenha por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do Distrito Federal e dos Municípios, inclusive de suas autarquias e fundações, somente poderá ser executada após seu trânsito em julgado.
+No entanto, o cumprimento provisório de sentença apresentado pelo Apelado, não se enquadra nas hipóteses acima mencionadas, posto que se trata de cumprimento de obrigação de fazer fundado em entrega de medicamento.
+Ora, nesse contexto, não há qualquer impedimento legal para sua realização, razão pela qual descabe invocar a aplicação do art. 2º-B da Lei nº 9.494/97.
+Nesse sentido é a jurisprudência dos Tribunais:
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. EXECUÇÃO PROVISÓRIA. TUTELA MANDAMENTAL. POSSIBILIDADE DE PROCESSAMENTO, EXCLUÍDA A HIPÓTESE DE EXPEDIÇÃO DE PRECATÓRIO. 1. O Ministério Público ajuizou ação civil pública em face do Estado, tendo em vista a situação calamitosa do Presídio Estadual de Alegrete. Diante do não cumprimento das obrigações de fazer por parte do Estado, determinadas em antecipação de tutela, o Ministério Público promoveu execução provisória. 2. No Agravo de Instrumento nº 70065719130 pela Terceira Câmara Cível, j. em 01/10/2015, foi firmado entendimento de que a decisão que aparelha a execução provisória é interlocutória, e não se reveste de exigibilidade, ainda que tenha transitado em julgado a decisão do agravo de instrumento, de acordo com o que previa o § 1º do art. 475-I do CPC então vigente. 3. O art. 537, § 3º, do CPC/15, dispõe que a decisão que fixa multa, ainda que em sede de tutela provisória, é passível de cumprimento provisório, mas o levantamento do valor depende do trânsito em julgado da sentença favorável à parte4. Hipótese em que não há qualquer óbice para que a parte mandamental da decisão de antecipação de tutela seja cumprida, pois independeria sequer do ajuizamento da presente execução provisória, com suporte no que determinavam os artigos 461 e 461-A do CPC/73, correspondentes aos artigos 536 e 537 do CPC vigente. 5. O STF, em 13/08/2015, no julgamento do RE 592581, submetido ao rito da repercussão geral ? Tema 220 ? fixou a tese de que é lícito ao Judiciário impor à Administração Pública obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais, com o objetivo de assegurar a observância dos direitos fundamentais de presos. 6. Possibilidade de processamento de execução provisória contra a Fazenda Pública para determinar ao Executivo a melhoria de presídio estadual, excetuada a hipótese de expedição de precatório (lato sensu), que depende do trânsito em julgado da sentença na ação de conhecimento. Precedente do Agravo de Instrumento, Nº 70067742346, Vigésima Segunda Câmara Cível, Rel. Desa. Marilene Bonzanini, Julgado em: 14-12-2015.APELAÇÃO DESPROVIDA.(Apelação Cível, Nº 70077221315, Terceira Câmara Cível, Tribunal de Justiça do RS, Relator: Leonel Pires Ohlweiler, Julgado em: 31-10-2019)
+(TJ-RS - AC: 70077221315 RS, Relator: Leonel Pires Ohlweiler, Data de Julgamento: 31/10/2019, Terceira Câmara Cível, Data de Publicação: 07/11/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO – CUMPRIMENTO DE SENTENÇA – EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA – SERVIDOR PÚBLICO – POLICIAL CIVIL – APOSENTADORIA ESPECIAL – OBRIGAÇÃO DE FAZER - ADMISSIBILIDADE. Cumprimento de sentença contra a Fazenda Pública. Execução provisória. Lide de natureza previdenciária (Súmula nº 729 STF). Obrigação de fazer consistente no apostilamento do direito à aposentadoria especial com integralidade e paridade. Sentença pendente de recurso para os Tribunais Superiores. Admissibilidade. A vedação de execução provisória de sentença contra a Fazenda Pública se restringe às hipóteses do art. 2º-B da Lei nº 9.494/97, as quais devem ser interpretadas restritivamente. Decisão mantida. Recurso desprovido.
+(TJ-SP 30016328320188260000 SP 3001632-83.2018.8.26.0000, Relator: Décio Notarangeli, Data de Julgamento: 05/07/2018, 9ª Câmara de Direito Público, Data de Publicação: 05/07/2018)
+
+AGRAVO DE INSTRUMENTO. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. TÍTULO JUDICIAL CONTENDO OBRIGAÇÃO DE FAZER. POSSIBILIDADE, EXCETO NAS HIPÓTESES RESTRITIVAS CONTIDAS NO ART. 2º-B DA LEI 9.494/97. ISONOMIA/PARIDADE, QUE REPRESENTA EXTENSÃO DE VANTAGEM PECUNIÁRIA PARA O FIM PRETENDIDO PELO LEGISLADOR NA FASE DE CUMPRIMENTO PROVISÓRIO DA SENTENÇA. EXISTÊNCIA DE STA NO STF DETERMINANDO A SUSTAÇÃO DOS EFEITOS DA IMPLANTAÇÃO ATÉ O TRÂNSITO EM JULGADO DO FEITO, QUE AINDA NÃO OCORREU. 01 - O ordenamento processual brasileiro prevê a possibilidade de que uma decisão judicial, seja Sentença ou Acórdão, surta efeitos concretos mesmo quando verificada a existência de recurso pendente que seja desprovido de efeito suspensivo. Todavia, a execução provisória por quantia certa contra a Fazenda Pública ganha outra roupagem, diante da necessidade de ser observado o sistema de precatório, o qual possui natureza incompatível com características de precariedade ou transitoriedade, já que integram o orçamento público. 02 ? No caso da execução provisória da obrigação de fazer em desfavor da Fazenda Pública, não há previsão para tratamento diferenciado, regendo-se pelas regras contidas no art. 497 do Código de Processo Civil de 2015, já que não pressupõe pagamento através de precatórios, o que exige a necessidade de rito próprio. 03 ? É possível a execução provisória da obrigação de fazer em desfavor da Fazenda Pública, exceto nas hipóteses restritivas contidas no art. 2º-B da Lei n.º 9.494/97. 04 - Apesar da existência de discussão acerca da diferença entre equiparação e isonomia, que inclusive foi objeto de deliberação na fase de conhecimento, fato é que para fins de cumprimento provisório da sentença, a exegese da norma contida no art. 2º_B da Lei nº 9.494/97 é vedar qualquer forma de equiparação salarial, que aqui inclui a isonomia reconhecida. 05 ? O Supremo Tribunal Federal determinou na Suspensão de Tutela Antecipada nº 735-AL que os efeitos da tutela antecipada buscada pelos servidores públicos estavam sustados até o trânsito em julgado deste feito, o que não ocorreu no caso concreto. Ora, apesar de já ter havido sentença e julgamento por acórdão da apelação cível interposta, fato é que a interpretação da decisão do Pretório Excelso é impedir que antes de transitar em julgado, de forma definitiva, a discussão acerca da pretensão dos servidores públicos, não deve haver qualquer prematura antecipação dos seus comandos, vedando a efetivação de medida que implante a buscada extensão de vantagem momentânea. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+(TJ-AL - AI: 08044835320168020000 AL 0804483-53.2016.8.02.0000, Relator: Des. Fernando Tourinho de Omena Souza, Data de Julgamento: 17/05/2017, 1ª Câmara Cível, Data de Publicação: 19/05/2017)
+Ademais, a matéria discutida nestes Embargos – possibilidade do manejo de cumprimento provisório de sentença – já esta preclusa, posto que alegada nos autos principais e foi rejeitada, sem o Apelante ter apresentado qualquer impugnação/recurso a decisão, como se vê:
+VISTOS, ETC.
+Trata-se de execução provisória de sentença em que os entes executados foram condenados a obrigação de fazer consistente no fornecimento de medicamento, na forma e nos prazos constantes do pronunciamento judicial constante nos autos principais em apenso.
+A despeito da possibilidade de execução provisória em face da Fazenda Pública, vejamos:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. FORNECIMENTO DE MEDICAMENTOS. OBRIGAÇÃO DE FAZER. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. Possível o manejo de execução provisória de obrigação de fazer contra a Fazenda Pública, em se tratando de obrigação de fornecimento de medicamentos. Legalidade da via processual eleita. Precedentes. Isento o Estado do pagamento das custas processuais, nos termos da lei 13.471/2010, observada a limitação imposta pela liminar deferida na ADI 70039278296. Deram parcial provimento ao apelo. Unânime. (Apelação Cível Nº 70038271672, Quarta Câmara Cível, Tribunal de Justiça do RS, Relator: Alexandre Mussoi Moreira, Julgado em 17/11/2010)
+
+APELAÇÃO CÍVEL. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. FORNECIMENTO DE MEDICAMENTO. OBRIGAÇÃO DE FAZER. HIPÓTESE EM QUE NÃO INCIDE A VEDAÇÃO DA LEI 9.494/97 (ART. 2º-B) E DA CONSTITUIÇÃO FEDERAL (ART. 100 E PARÁGRAFOS). A execução visa o fornecimento de medicação em favor de pessoa que dela necessita e não dispõe de recursos para tanto. Cuida-se, portanto, de execução de obrigação de fazer, e não de execução por quantia certa. Por conta disso, o pleito executivo provisório não encontra óbice no que dispõe o artigo 100 e parágrafos da Constituição Federal, modo de pagamento de quantia certa a que condenada a Fazenda Pública, hoje em total descrédito. Com segurança, pois, pode-se dizer que a hipótese não incide na vedação da Lei 9.494/97 (art. 2º-B) e da Constituição Federal (art. 100 e parágrafos). Não bastasse tudo isso, importa rematado absurdo aguardar o trânsito em julgado para só então fornecer a medicação. Por esse tempo sobrevém o agravamento da moléstia, quando não o óbito, o que parece preferir o Estado. Apelo desprovido. Unânime. (Apelação Cível Nº 70035567544, Vigésima Primeira Câmara Cível, Tribunal de Justiça do RS, Relator: Genaro José Baroni Borges, Julgado em 12/05/2010)
+Outrossim, apesar de as sentenças que imponham obrigação de fazer e não fazer demandarem execução imediata e ex officio, consoante interpretação dos artigos 461 e 644 do Código de Processo Civil, dispensando, assim, formação de feito executivo, no caso versando a sentença proferida esta sujeita a reexame necessário, razão pela qual não vislumbro qualquer óbice à formação de instrumento em apartado para fins de cumprimento de sentença.
+Verifico ademais, que a sentença em execução, além de preencher os requisitos do artigo 475-O, § 3° e incisos, do CPC não encontra óbice na Lei nº. 9.494/97, razão pela qual determino a imediata intimação dos executados, para, em 05 dias, cumprirem o estabelecido na sentença meritória, o que faço com fulcro no artigo 461, §5º do Código de Processo Civil.
+Decorrido o prazo retro, volvam-me conclusos para análise do pleito de penhora online.
+Logo, não há que se discutir uma matéria já devidamente enfrentada pelo juízo a quo e preclusa.
+No tocante a ausência dos requisitos previstos no art. 475-O do CPC/73, não deve prosperar, uma vez que o Apelante sequer indicou quais dos requisitos não foram obedecidos, arguindo de forma genérica.
+Ademais, trata-se de inovação recursal, posto que não foi alegado em primeiro grau, surgindo sua impugnação apenas na fase recursal, o que obsta sua análise, sob pena de se suprimir instância de jurisdição.
+Por fim, no tocante a multa fixada em 1% sobre o valor executado, é certo que é cabível sua fixação em caso em caso de Embargos manifestamente protelatório, nos termos do art. 740, parágrafo único, do CPC/73, vigente à época, in verbis:
+Art. 740. Recebidos os embargos, será o exequente ouvido no prazo de 15 (quinze) dias; a seguir, o juiz julgará imediatamente o pedido (art. 330) ou designará audiência de conciliação, instrução e julgamento, proferindo sentença no prazo de 10 (dez) dias.
+Parágrafo único. No caso de embargos manifestamente protelatórios, o juiz imporá, em favor do exequente, multa ao embargante em valor não superior a 20% (vinte por cento) do valor em execução.
+Partindo dessa premissa, no caso concreto, restou devidamente comprovado que os Embargos à Execução é manifestamente protelatório, posto que a matéria apresentada já havia sido devidamente enfrentada nos autos principais, de modo que possuía apenas o intuito de rediscutir a matéria.
+Ademais, o valor fixado de 1% sobre o valor da execução se mostra dentro da razoabilidade e proporcionalidade.
+Ante o exposto, conheço do recurso e NEGO-LHE PROVIMENTO.
+É como voto.
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência da DESA. MARIA APARECIDA RIBEIRO, por meio da Câmara Julgadora, composta pelo DR. EDSON DIAS REIS (Relator), DR. GILBERTO LOPES BUSSIKI (1º Vogal convocado) e DESA. MARIA APARECIDA RIBEIRO (2ª Vogal), proferiu a seguinte decisão: À UNANIMIDADE, DESPROVEU O RECURSO.
+
+Cuiabá, 13 de maio de 2020.
+
+-------------------------------------------------------------------------------------------
+DOUTOR EDSON DIAS REIS - RELATOR
