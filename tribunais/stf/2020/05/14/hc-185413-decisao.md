@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus impetrado por Wendel Araújo de Oliveira e outro, em favor de Antonio Marco Braga Campos, contra decisão monocrática proferida pelo Superior Tribunal de Justiça, nos autos do HC 578.636/RN.
+    Colho da decisão impugnada:
+    “ANTONIO MARCO BRAGA CAMPOS alega sofrer constrangimento ilegal decorrente de decisão proferida por Desembargador do Tribunal Regional Federal da 5ª Região, que indeferiu a liminar no HC n. 0804609-16.2020.4.05.0000.
+    Extrai-se dos autos que o paciente cumpre pena em regime fechado pela prática do delito de tráfico de drogas, e pugna, liminarmente, pela concessão de prisão domiciliar, haja vista ser hipertenso e integrar o grupo de risco, diante das consequências causadas pela Covid-19”. (eDOC 11)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, a defesa reitera os fundamentos e pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Tribunal Regional Federal e do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação colegiada das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observe-se o teor da decisão proferida pelo STJ:
+    “Na espécie, o Juízo das execuções indeferiu o pedido de prisão domiciliar, pois:
+    ‘Inicialmente, é necessário pontuar que o preso, hipertenso, está recebendo o tratamento médico adequado na Penitenciária Federal em Mossoró/RN, conforme informação do Diretor da referida penitenciária.
+    Ressalta-se que o local mais propício no sistema penitenciário, para o oferecimento de assistência médica adequada às condições clínicas do interno, é o sistema prisional federal.
+    Há de se convir que o sistema penitenciário estadual, muitas das vezes, não dispõe sequer de unidade de saúde, como têm todas as penitenciárias federais. E quando se oferece esse serviço, a demanda é elevadíssima, sem atendimento da totalidade dos internos que dela necessitam.
+    Em relação ao Coranavírus, destaca-se que a questão do isolamento imposto a toda a sociedade, para conter sua disseminação, é facilmente observada no presídio federal que conta com celas individuais, além de garantir maior proteção para o contágio de outras doenças, diferentemente dos presídios estaduais, que possuem celas coletivas, abrigando vários presos.
+    E mais, o Departamento Penitenciário Federal editou portaria suspendendo as visitas e atendimento de advogados, como forma de prevenção à disseminação do Coronavírus’ (fls. 31-32, grifei).
+    O Desembargador relator do writ impetrado na origem, por sua vez, indeferiu a medida de urgência, sob a seguinte motivação:
+    ‘[...] 10. Além de não ter trazido a impetração risco concreto no tocante à possibilidade de contaminação do paciente ANTONIO MARCO BRAGA CAMPOS em relação ao Coronavírus (COVID-19), relatando de maneira genérica a segregação na Penitenciária Federal em Mossoró e o diagnóstico de hipertensão, o que se tem no feito são elementos no sentido de que a unidade prisional onde este se encontra recolhido dispõe da estrutura necessária ao seu eficaz isolamento (medida de combate à COVID-19), com a disponibilização de todos os cuidados exigidos e necessários a manutenção de sua saúde e controle da doença que porta (hipertensão).
+    [...] 12. Segundo informações do Diretor da Penitenciária Federal em Mossoró, Ofício n. 100/2020/SJ-MOS/DIPF-MOS/PFMOS/DEPEN/MJ, acostado ao ID 4058400.6828897, com data de 3 de abril de 2020, o paciente ANTONIO MARCO BRAGA CAMPOS faz uso de medicação anti-hipertensiva, recebendo dieta apropriada e está incluso no programa Hiperdia para acompanhamento aproximado e regular do quadro de hipertensão, bem assim recebe medicamentos psicotrópicos, tendo passado por atendimento psicológico e estando em boas condições de saúde, o que demonstra os cuidados que vem atualmente recebendo e também evidencia a inexistência de justificativa, ao menos neste momento, para a substituição do regime fechado de cumprimento de pena pela prisão domiciliar’ (fl. 48, grifei).
+    […]
+    Este Superior Tribunal, assim como o Tribunal de Justiça do Estado de São Paulo, não conhece a realidade dos presos do regime fechado do presídio onde se encontra o ora paciente. Não sabe que medidas foram adotadas pelas autoridades locais para resguardar os integrantes do grupo de risco à Covid-19. Nada está a sugerir a instabilidade de quadro clínico do paciente ou que não foi adotada nenhuma providência para resguardá-lo do contágio ou para tratá-lo, se necessário. Assim, considero temerário, em liminar, determinar a soltura, sob a mera alegação de que possui comorbidades pré-existentes. É imprescindível a oitiva do Juiz da VEC, para constatar eventual omissão da autoridade apontada como coatora.
+    Ademais, verifico que o Desembargador do Tribunal a quo pediu informações ao Juízo de primeiro grau e encaminhou imediatamente o feito ao Ministério Público, para manifestação, o que sinaliza um empenho no expedito julgamento da impetração.
+    Diante das circunstâncias expostas, entendo que não era o caso, portanto, da concessão da prisão domiciliar pelo Desembargador e não soa absurda sua decisão, ora impugnada. Assim, não se pode superar o óbice da Súmula n. 691 do STF.” (eDOC 11, p. 3-6)
+    Observe-se que o paciente está em estabelecimento prisional federal, em cela individual, onde há, segundo os autos, rigoroso controle sanitário, a fim de poupá-lo da contaminação pelo coronavírus.
+    Ademais, o Plenário do STF, nos autos da ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar por ele concedida, nos termos do voto do Ministro Alexandre de Moraes.
+    Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça, o que já foi feito pelo Juízo de primeiro grau e pelo TRF.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se. Comunique-se ao TRF.
+    Brasília, 14 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
