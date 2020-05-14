@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+EMBARGOS DE DECLARAÇÃO CÍVEL (1689) 0023538-45.2016.8.11.0041 - COMARCA DA CAPITAL
+EMBARGANTE: ENERGISA COMERCIALIZADORA DE ENERGIA LTDA.
+EMBARGADO: L M ORGANIZACAO HOTELEIRA LTDA
+Vistos etc.
+Intime-se a embargada para apresentar contrarrazões.
+Cumpra-se.
+Cuiabá, 13 de maio de 2020.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
