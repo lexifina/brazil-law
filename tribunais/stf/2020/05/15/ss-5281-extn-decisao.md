@@ -1,0 +1,22 @@
+Decisão:
+    A contracaurtela deferida nos presentes autos foi mantida pelo Plenário do STF, em acórdão assim ementado:
+    “Agravo regimental na suspensão de segurança. Tributário. Servidor público em atividade com neoplasia maligna. Isenção de Imposto de Renda de Pessoa Física (art. 6º, XIV, da Lei nº 7.713/88). Matéria constitucional a ser debatida no exame da ADI nº 6.025/DF. Efeito multiplicador. Risco à ordem econômica. Agravo regimental não provido.
+    1. O Supremo Tribunal Federal é competente para julgar pedido de contracautela contra decisão de tribunal local que reconheceu, à luz dos princípios constitucionais da dignidade da pessoa humana e da igualdade, ser aplicável ao ora agravante, servidor público em atividade acometido de neoplasia maligna, a isenção do imposto de renda prevista no art. 6º, XIV, da Lei nº 7.713/88.
+    2. A existência de debate constitucional na origem é ainda reforçada pela ciência de que tramita no Supremo Tribunal Federal a ADI nº 6.025/DF, proposta pela Procuradoria-Geral da República, na qual, em síntese, se argumenta que a não concessão do benefício fiscal aos trabalhadores com doença grave que permanecem em atividade viola não só os preceitos constitucionais aduzidos acima, mas também o princípio do valor social do trabalho, a proteção constitucional conferida às pessoas com deficiência e a Convenção Sobre os Direitos das Pessoas com Deficiência.
+    3. Há comprovação dos efeitos concretos da execução da decisão objurgada na composição dos recursos destinados às despesas correntes com pagamento de pessoal, com caráter irreversível para o exercício financeiro de 2019; bem assim o risco de efeito multiplicador, com a existência de inúmeras ações judiciais ajuizadas por servidores em situação similar a do impetrante do writ na contracautela.
+    4. Agravo regimental não provido.”
+    O Estado de Alagoas requer
+    a) a extensão da suspensão para os seguintes casos já noticiados nessa ação: - 0003491-30.2013.8.02.0001 - Maria Valéria Lins Calheiros - 9000003-04.2019.8.02.0000 (0728253-93.2018.8.02.0001) – Carlos Eduardo Baltar Maia - 0701343-92.2019.8.02.0001 – Maria do Perpétuo Socorro Passos de Araújo Jorge;
+    b) a extensão da suspensão para o Processo nº 0706835-65.2019.8.02.0001 do Sr. José Henrique Gama Lins;
+    c) a determinação à Justiça Estadual Alagoana no incidente de inconstitucionalidade do Processo nº 0003491-30.2013.8.02.0001, neste ato representada pelo TJAL, que se abstenha de conceder novas liminares aos servidores até que o STF decidida em definitivo a questão nos autos da ADI 6025 – a qual trata do mesmo tema.” (eDoc. 17, p. 4 e 5).
+    Defende que as causas acima indicadas versam sobre idêntica questão de direito controvertida no processo objeto da presente suspensão de segurança, o que reforça o risco de lesão à ordem administrativa e econômica presente em razão do efeito multiplicador, acolhido para justificar o deferimento da ordem de contracautela.
+    É breve o relatório.
+    Decido.
+    Prefacialmente, consigno ser incabível a concessão da ordem de suspensão na extensão requerida pelo Estado de Alagoas – no sentido de determinar ao TJAL “que se abstenha de conceder novas liminares aos servidores até que o STF decidida em definitivo a questão nos autos da ADI 6025”. A medida de suspensão, como regra, requer a demonstração em concreto do risco à ordem pública, sendo prematuro afirmar a necessidade de suspender todas as ordens judiciais que possam vir a ser proferidas acerca do tema.
+    Quanto às ações supra indicadas, tenho que é caso de concessão da ordem de extensão, uma vez que i) as decisões proferidas nos Processos nºs 0003491-30.2013.8.02.0001, 9000003-04.2019.8.02.0000 (o qual é acessório ao Processo nº 0728253-93.2018.8.02.0001), 0701343-92.2019.8.02.0001 e 0706835-65.2019.8.02.0001 reforçam o quanto já acolhido pelo plenário do STF quando ao efeito multiplicador mencionado na decisão concessiva da ordem de contracautela e ii) a matéria de direito constitucional controvertido guarda perfeita relação de identidade com a que foi debatida no acórdão inauguralmente suspenso neste feito.
+    Ante o exposto, defiro o pedido de extensão para suspender o efeito das decisões proferidas nos Processos nºs 0003491-30.2013.8.02.0001, 9000003-04.2019.8.02.0000 (0728253-93.2018.8.02.0001), 0701343-92.2019.8.02.0001 e 0706835-65.2019.8.02.0001.
+    Publique-se. Int..
+    Brasília, 15 de maio de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
