@@ -1,0 +1,32 @@
+Trata-se de petição (Petição nº 6903/2020, protocolizada em 14.2.2020) na qual a Ordem dos Advogados do Brasil - Seção de São Paulo requer a anulação da decisão proferida em 30.1.2020, em razão de ter feito pedido de desistência em 9.10.2019, junto ao Superior Tribunal de Justiça.
+    Relata a requerente que logo após o pedido de desistência no STJ, em 14.10.2019, foi homologado o pedido, certificando-se em seguida o trânsito em julgado.
+    Afirma que “acreditava a ora peticionaria que os autos haviam sido remetidos à vara de origem com o consequente arquivamento, contudo o recurso fora remetido a esta Suprema Corte e teve seu julgamento realizado.”
+    Sustenta que não foi intimada da “remessa dos autos ao STF e da inclusão do processo em pauta de julgamento” e que, por se tratar a demanda de Ação Civil Pública, não cabe a condenação da requerida em honorários, custas e despesas processuais, conforme art. 18, da Lei 7.347/1985.
+    Em seguida, a Sociedade Brasileira de Direito Médico e Bioética – Anadem, por intermédio da Petição nº 9210/2020, protocolizada em 27.2.2020, afirma que a requerente, Ordem dos Advogados do Brasil - Seção de São Paulo, não requereu expressamente a desistência do Recurso Extraordinário interposto, por isso, entende que “não teve o Tribunal da Cidadania outro caminho, a não ser enviar o Apelo Extremo para ser julgado pelo Supremo Tribunal Federal.”
+    Sustenta que a jurisprudência deste Supremo Tribunal Federal é pacífica no sentido que “a parte pode desistir do recurso a qualquer tempo, desde que haja pedido expresso e o julgamento não tenha sido ultimado, vide o AI 773.754-AgR-ED-AgR/ Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.5.2012.”
+    Argumenta que esta Corte admite a desistência de pedidos em mandado de segurança, desde que a decisão não tenha sido publicada (RE 231.671-AgRAgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe 22.5.2009). Como a decisão que negou seguimento ao ARE 1.243.954/SP foi publicada em 4.2.2020, entende que o pedido da OAB-SP deve ser indeferido, com a integral manutenção do acórdão recorrido e de seus efeitos.
+    Decido
+    Analisados os autos, verifica-se que a Ordem dos Advogados do Brasil, Seção de São Paulo, antes do julgamento do Agravo Interno, no Superior Tribunal de Justiça, formulou pedido de desistência do referido recurso de agravo, nestes termos (e-STJ fl.1.958) :
+    “A ORDEM DOS ADVOGADOS DO BRASIL, SEÇÃO DE SÃO PAULO, por suas advogadas, nos autos do agravo interno em epigrafe, interposto em face da SOCIEDADE BRASILEIRA DE DIREITO MEDICO E BIO-ÉTICA ADVOGADOS, vem, respeitosamente, à presença de Vossa Excelência, requerer a desistência do recurso de agravo interno, com fundamento no artigo 988 do Código de Processo Civil, certificando-se de imediato o trânsito em julgado do processo.” (g.n.)
+    A Ministra Assusete Magalhães, relatora, homologou o pedido, nestes termos:
+    “Nos termos dos arts. 998 do CPC/2015 e 34, IX, do RISTJ, homologo o pedido de desistência recursal formulado pela parte recorrente (fls. 1.958/1.959e).”
+    Este Recurso Extraordinário com Agravo 1.250.758/SP, por sua vez, foi recebido e autuado nesta Corte em 18.12.2019, às 09:46:53.
+    Após o recesso, os autos foram remetidos à Presidência, em 9.1.2020 e, em 30.1.2020, neguei seguimento ao recurso, por entender ser inviável o agravo em recurso extraordinário que não ataca especificamente todos os fundamentos da decisão de admissibilidade do recurso, a teor da Súmula nº 287/STF.
+    A referida decisão transitou em julgado em 21.3.2020.
+    Assim, como se vê, não houve pedido expresso de desistência do recurso extraordinário, antes do seu julgamento, que se deu em 30.1.2020, publicada no Dje de 4.2.2020. Aliás, conforme transcrito, a requerente postulou a desistência do recurso de agravo interno interposto no STJ. Cito, a propósito, o seguinte precedente:
+    “Agravo regimental em embargos de declaração em agravo regimental em agravo de instrumento. Homologação de pedido de desistência do recurso antes de ultimado seu julgamento. Possibilidade. 1. Na dicção da jurisprudência desta Suprema Corte, enquanto não ultimado o julgamento do apelo aqui em trâmite, pode a parte desistir do recurso. 2. Havendo embargos de declaração ainda pendentes de apreciação, a desistência alcança apenas esse último recurso, ainda não julgado. 3. Não tendo sido apresentado, nesta instância, expresso pedido de renúncia ao direito sobre o qual se funda a ação, não há como tê-lo por fictamente deduzido para fins de sua homologação. 4. Agravo regimental parcialmente provido.” (Ag. Reg. nos Emb. Decl. no Ag. Reg. no Agravo de Instrumento 773.754, de minha lavra, Dje 21-05-2012)
+    Por outro lado, o disposto no artigo 13, inciso V, letra “c” do Regimento Interno do Supremo Tribunal Federal, autoriza o Presidente da Corte, independentemente de publicação de pauta, a despachar, até eventual distribuição, os agravos, recursos extraordinários e petições ineptos ou de outro modo manifestamente inadmissíveis, como no caso:
+    “Art. 13. São atribuições do Presidente:
+    (...)
+    V – despachar:
+    (...)
+    c) como Relator, nos termos dos arts. 544, § 3º, e 557 do Código de Processo Civil, até eventual distribuição, os agravos de instrumento, recursos extraordinários e petições ineptos ou de outro modo manifestamente inadmissíveis, inclusive por incompetência, intempestividade, deserção, prejuízo ou ausência de preliminar formal e fundamentada de repercussão geral, bem como aqueles cuja matéria seja destituída de repercussão geral, conforme jurisprudência do Tribunal; (Redação dada pela Emenda Regimental n. 24, de 20 de maio de 2008)”
+    Finalmente, quanto à alegação de impossibilidade de condenação da requerida em honorários, consta da decisão que negou seguimento ao Recurso Extraordinário com Agravo:
+    “Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.”
+    Assim, ante a ressalva transcrita e o fato de que não houve condenação de honorários na presente demanda, não há nada a deliberar no presente feito.
+    Baixem os autos à instância de origem.
+    Publique-se.
+    Brasília, 15 de maio de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
