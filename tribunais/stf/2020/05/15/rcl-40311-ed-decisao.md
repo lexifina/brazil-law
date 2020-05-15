@@ -1,0 +1,33 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO SINGULAR. RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE EQUÍVOCO NA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. CONTRADIÇÃO. OMISSÃO. AUSÊNCIA. CARÁTER MERAMENTE INFRIGENTE. EMBARGOS REJEITADOS.
+1. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+3. Ausência de vício justificador da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+4. Embargos de declaração rejeitados.
+    Vistos etc.
+    1. Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento à reclamação constitucional, à compreensão de que inexistente a usurpação de competência desta Casa em razão da má aplicação da sistemática de repercussão geral quanto ao precedente firmado no AI 791.292 QO-RG (Tema nº 339), bem como ausente violação da autoridade de decisão proferida no RE 719.870-RG (Tema nº 670).
+    2. O embargante aduz omisso e contraditório o julgado, por reputar inexistente qualquer fundamentação em relação às teses das embargantes, as quais seriam aptas a alterar o desfecho da causa.
+    3. Defende violado o art. 93, IX da Constituição Federal, "consubstanciada no dever de fundamentação das decisões judiciais".
+    4. Requer sejam os presentes embargos providos para correção dos vícios apontados.
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios.
+    2. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+    3. Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios.
+    4. Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    5. De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    6. Observo ausente os veiculados vícios na decisão embargada, haja vista didaticamente explanada a inviabilidade da reclamação, considerada a ausência de equívoco na aplicação da sistemática de repercussão pela Corte de origem quanto aos precedentes suscitados, além da inexistência de usurpação de competência desta Suprema Corte, verbis:
+    “4. Ao exame dos autos, verifico que o Superior Tribunal de Justiça, negou provimento ao agravo interno contra decisão monocrática de negativa de seguimento do recurso extraordinário, com compreensão alinhada ao Tema 339, porquanto enfrentadas todas as teses capazes de infirmar a conclusão do órgão julgador a afastar a nulidade de prestação jurisdicional, consoante os fundamentos sintetizados na seguinte ementa: [...]
+    5. Nesse contexto, não há falar em equívoco na aplicação da sistemática da repercussão geral, uma vez que a Corte de origem entendeu pelo não cabimento de recurso de sua competência, em razão do não atendimento de pressuposto de admissibilidade de recurso próprio de seu âmbito, a justificar a adoção do entendimento firmado no AI 791.292 QO-RG (Tema 339) .
+    6. Tampouco há usurpação de competência desta Suprema Corte, uma vez que o CPC/2015 prevê, expressamente, em seu art. 1.030, § 2º, o cabimento do agravo interno na hipótese em que negado seguimento a recurso extraordinário “interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral”.
+    7. Já o art. 1.042 do CPC/2015 excetua, das hipóteses de cabimento do agravo dirigido a esta Suprema Corte, aquele interposto contra decisão do presidente ou do vice-presidente do tribunal recorrido que não admite o apelo extremo, quando fundada, a inadmissão, na aplicação de entendimento firmado em regime de repercussão geral.
+    8. Nessa perspectiva, quando a negativa de seguimento do recurso extraordinário se der em razão da aplicação da sistemática da repercussão geral, não cabe a esta Casa analisar o agravo manejado para questionar eventual equívoco pela Corte origem.”
+    7. Em igual medida, destacado inexistir violação do RE 719.870-RG (Tema nº 670), ante a ausência de identidade material entre o paradigma suscitado e o objeto da reclamação.
+    8. Demais disso, observo que as razões dos embargos consubstanciam simples reiteração de todo o teor do quanto exposto na petição inicial, ausente qualquer impugnação específica ao decisum prolatado.
+    9. Não se ressente de vício apto a aclaratórios a decisão embargada, em que salientada, de forma clara, a inviabilidade do feito, haja vista não atendido pressuposto de cabimento da reclamação constitucional.
+    10. Enfim, não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que ostentam e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    11. Não configuradas, portanto, quaisquer das hipóteses elencadas no art. 1022 do CPC, evidenciando-se tão somente o inconformismo da parte com a decisão que lhe foi desfavorável.
+    12. Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 15 de maio de 2020.
+Ministra Rosa Weber
+Relatora
