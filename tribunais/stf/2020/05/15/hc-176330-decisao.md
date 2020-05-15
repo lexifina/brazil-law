@@ -1,0 +1,33 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública da União, em favor de Elton Fumiho de Farias, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do AgR no AREsp 1.368.290/PR.
+    Colho da decisão impugnada:
+    Trata-se de agravo regimental interposto por Elton Fumiho de Farias contra decisão monocrática que conheceu do seu agravo para negar provimento ao seu recurso especial, mantendo a unificação das penas e o afastamento da substituição da pena corporal, no bojo do Processo n. 5000516-54.2018.4.04.7016, conforme os termos da seguinte ementa (fl. 133):
+    AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 111 E 181 DA LEP E DO ART. 44, §§ 4 o E 5 o , DO CP. UNIFICAÇÃO. SUPERVENIÊNCIA DE CONDENAÇÃO À PENA RESTRITIVA DE DIREITOS. CUMPRIMENTO EM REGIME SEMIABERTO. INCOMPATIBILIDADE. PRECEDENTES. Agravo conhecido para negar provimento a recurso especial.
+    O agravante alega, nas suas razões recursais, em síntese, que não teria respondido em uma única ação penal pela prática de diversos crimes e não teria se verificado, em nenhum momento, a regra do concurso de crimes, seja formal seja material. A decisão do Tribunal Regional Federal da 4ª Região teria desrespeitado o trânsito em julgado das sentenças condenatórias impostas, alterando a reprimenda imposta.
+    Sustenta que estaria configurada violação do art. 44, §§ 4º e 5º, do Código Penal, bem como dos arts. 111 e 181 da Lei de Execução Penal, pois o Juízo da execução deveria ter se limitado ao trânsito em julgado das condenações. Não teria havido imposição de pena privativa de liberdade pelos Juízos sentenciantes, motivo pelo qual a conversão das penas restritivas de direitos em pena privativa de liberdade estaria em desacordo com o entendimento desta Corte.
+    Pede a reconsideração da decisão para manter a execução das penas restritivas de direitos (fls. 141/147).
+    É o relatório.
+    No STJ, o agravo não foi provido.
+    Nesta Corte, a DPU insiste na alegação de que o paciente não recebeu nenhuma condenação à pena privativa de liberdade e que, após a unificação das penas pelo Juízo da Execução, não poderiam as penas restritivas de direitos ser regredidas, mesmo no caso dos autos, em que o quantum ultrapassou quatro anos.
+    A PGR opina pelo não conhecimento do pedido.
+    É o relatório.
+    Decido.
+    Por meio do presente habeas corpus, a DPU pretende impugnar, pela via oblíqua, acórdão proferido pelo Tribunal Regional Federal, que assentou não ser “razoável que o réu, condenado a mais de uma pena em processos distintos, cuja soma ultrapassa 04 (quatro) anos, possa ser beneficiado com a substituição da pena corporal por penas restritivas de direitos.” (eDOC 2, p. 50)
+    Na espécie, consta dos autos que o paciente ELTON FUMIHO DE FARIAS foi condenado às seguintes penas:
+    (i) na Ação Penal n. 5001400-59.2013.4.04.7016/PR: condenado pela prática do delito do art. 334, §1º, alínea b, do Código Penal (redação anterior à Lei n. 13.008/14) à pena de 01 (um) ano de reclusão (evento 01 - INIC1 da execução penal originária). O fato foi praticado em 26/07/2012, em Jesuítas/PR;
+    (ii) na Ação Penal n. 5000077-89.2012.4.04.7004/PR: condenado pela prática do delito do art. 334, §1º, b, do Código Penal (redação anterior à Lei n. 13.008/14), à pena de 01 (um) ano de reclusão (evento 30 - FICHIND3 da execução penal originária). O fato foi praticado em 15/07/2011, em Cruzeiro do Oeste/PR;
+    (iii) na Ação Penal n. 5000899-68.2014.4.04.7017/PR: condenado pela prática do delito do art. 334, § 1º, alínea b, do Código Penal (redação anterior à Lei n. 13.008/14), à pena de 01 (um) ano de reclusão, e do delito do art. 70 da Lei n. 4.117/62, à pena de 01 (um) ano, 04 (quatro) meses e 10 (dez) dias de detenção (evento 40 - VOTO4 da execução penal originária). O fato foi praticado em 29/10/2012, em Terra Roxa/PR;
+    (iv) na Ação Penal n. 5003376-75.2015.4.04.7002/PR: condenado pela prática do delito do art. 334, §1º, b, do Código Penal (redação anterior à Lei n. 13.008/14), à pena de 01 (um) ano de reclusão (evento 62 - FICHIND2 da execução penal originária). O fato foi praticado em 22/05/2012, em Santa Terezinha de Itaipu/PR. (eDOC 2, p. 49)
+    Em todos os processos, a pena privativa de liberdade foi substituída por restritiva de direitos, na fase de conhecimento. Na unificação das penas, o regime inicial foi fixado no semiaberto, mas mantidas as penas restritivas de direitos, sob o argumento de que “é inviável, em sede de execução penal, reverter a substituição das reprimendas privativas de liberdade por restritivas de direitos determinada em cada processo autônomo, exceto nas hipóteses do artigo 44, §§ 4º e 5º, do Código Penal, c/c o artigo 181, § 1º, 'e', da Lei 7.210/84. O Juízo da execução encontra-se limitado pelo trânsito em julgado das condenações, nas quais já consolidado e integrado ao patrimônio jurídico do executado o direito à substituição de pena privativa de liberdade por restritivas de direitos” (eDOC 2, p. 46)
+    Contudo, não há se falar em violação à coisa julgada, porquanto a substituição da pena privativa de liberdade por restritiva de direitos está atrelada, intimamente, ao regime de cumprimento da pena.
+    No caso dos autos, fixado o regime semiaberto, é imperiosa a reversão da pena restritiva de direitos à pena privativa de liberdade, sobretudo porque não há compatibilidade entre o cumprimento da pena privativa de liberdade e da restritiva de direitos.
+    No ponto, frisou o STJ:
+    Ora, o advento da nova condenação levou a pena, após a unificação, para patamar superior aos 4 anos, em regime semiaberto, o que inviabiliza, assim, a manutenção da pena restritiva de direitos.
+    Assim, após a unificação, o executado fica sujeito à regressão da pena, podendo ser alterado o regime de cumprimento ou a modalidade, como in casu (HC n. 464.031/RS, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018). (eDOC 3, p. 5)
+    A jurisprudência do STJ não diverge no entendimento desta Corte:
+    Agravo regimental no habeas corpus. 2. Penal e Processo Penal. 3. Condenação à pena restritiva de direitos após condenação ao cumprimento de pena privativa de liberdade. Impossibilidade de cumprimento simultâneo que autoriza a conversão. 4. Pedido de suspensão da execução da pena restritiva de direitos até o fim da incompatibilidade. Impossibilidade. 5. Agravo improvido. (AgR no HC 167.966, de minha relatoria, Segunda Turma, DJe 14.6.2019)
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 15 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
