@@ -1,0 +1,13 @@
+TRIBUNAL DE JUSTIÇA
+ESTADO DE MATO GROSSO
+GABINETE DO DESEMBARGADOR JUVENAL PEREIRA DA SILVA
+TERCEIRA CÂMARA CRIMINAL
+RECURSO EM SENTIDO ESTRITO (426) – 1010077-73.2020.8.11.0000
+RECORRENTE: CLEITON OLIVEIRA ALVES, WAGNER DA SILVA CAPILA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Tendo em vista a ausência de parecer, remetam-se os autos à douta Procuradoria-Geral de Justiça, para manifestação.
+Cumpra-se.
+Cuiabá, 15 de maio de 2020.
+Desembargador Juvenal Pereira da Silva
+Relator
