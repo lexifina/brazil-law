@@ -1,0 +1,10 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Jail Coelho de Almeida contra acórdão do Tribunal Regional Federal da 4ª Região (Autos nº 5093926-50.2014.4.04.7100), que, ao dar parcial provimento à apelação da União, julgou improcedente os pedidos de restabelecimento dos proventos de reforma e do benefício do auxílio-invalidez.
+    2. Nos termos da Súmula 734/STF, “não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”. Este entendimento foi positivado pelo art. 988, § 5º, I, do CPC/2015, que prevê: “§ 5º É inadmissível a reclamação: I – proposta após o trânsito em julgado da decisão reclamada”.
+    3. Em consulta ao andamento do processo de origem (Autos nº 5093926-50.2014.4.04.7100), verifica-se que o autor interpôs agravo em recurso extraordinário contra a decisão reclamada, que foi negado nesta Corte (ARE 1.258.665), com o trânsito definitivo da decisão em 31.03.2020, antes, portanto, da propositura da presente reclamação, realizada somente em 12.05.2020. Não é possível, desse modo, prosseguir na análise pretendida.
+    4. Com efeito, o autor parece pretender utilizar a via estreita da reclamação como sucedâneo recursal para postular uma nova apreciação do mérito de um julgamento que transcorreu na origem de forma regular, o que não é admitido por esta Corte. Advirto, por fim, que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, tomando tempo e recursos escassos desta Corte. De modo que eventual recurso apresentado com base nos mesmos fundamentos da inicial implicará a imposição de multa por litigância de má-fé, nos termos do art. 80 e seguintes do CPC/2015.
+    5. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicado o exame do pedido liminar. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+          Brasília, 18 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
