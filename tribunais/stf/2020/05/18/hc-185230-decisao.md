@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus contra ato de Ministro do Supremo Tribunal Federal (STF). Inadequação da via eleita.
+1. A jurisprudência atual e majoritária do Supremo Tribunal Federal não admite a impetração de habeas corpus contra ato de Ministro do STF. Precedente específico: HC 105.959, Redator para o acórdão o Ministro Edson Fachin.
+2. Hipótese em que os autos não evidenciam teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício, especialmente se se considerar que o entendimento STF é no sentido de que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+3. Habeas Corpus não conhecido, por inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, no qual Ministro do Supremo Tribunal Federal (STF) é apontado como autoridade coatora.
+    2. Extrai-se dos autos que, em 18.03.2018, os pacientes foram presos em flagrante pela suposta prática dos crimes previstos nos arts. 33, 34 e 35 da Lei 11.343/06 e no art. 16 da Lei 10.826/03. As prisões em flagrante foram convertidas em preventiva.
+    3. Neste habeas corpus, a parte impetrante requer a revogação de “ato do Ministro ALEXANDRE DE MORAES QUE INDEFERIU o HABEAS COPRPUS Nº. 184.593”, e que, em consequência, “os pacientes possam ter o direito de seus Remédios apreciados pelo ministro competente pela REGRA da prevenção e assim, ter o prosseguimento do mesmo, sendo apreciado por esta Corte e assim, pelo notório flagrante EXCESSO DE PRAZO, expedindo-se em favor dos pacientes JEFFERSON QUINTANILHA DOS SANTOS, REGINALDO BARBOSA JUNIOR e CARLOS AUGUSTO PEDROSO MENDES os competentes CONTRAMANDADOS DE PRISÃO, a fim de que sejam colocados imediatamente em liberdade, concedendo a PRISÃO DOMICILIAR, nos termos do art. 4º, I, ‘c’, da Recomendação nº 62, do CNJ”.
+    4. Decido.
+    5. O habeas corpus não pode ser conhecido.
+    6. O Supremo Tribunal Federal firmou orientação no sentido do descabimento da impetração de habeas corpus contra ato de Ministro, Turma ou do Plenário do Tribunal (Súmula 606/STF; HC 100.738, Redatora para o acórdão a Ministra Cármen Lúcia; HC 101.432, Redator para o acórdão o Ministro Dias Toffoli; HC 88.247-AgR-AgR, Rel. Min. Celso de Mello; HC 91.020-AgR, Rel. Min. Celso de Mello; HC 86.548, Rel. Min. Cezar Peluso).
+    7. Muito embora essa orientação jurisprudencial tenha sido rediscutida no julgamento do HC 127.483, Rel. Min. Dias Toffoli (oportunidade em que se verificou o empate na votação), o Plenário do STF “reafirmou sua jurisprudência no sentido de não ser cabível ‘habeas corpus’ impetrado contra decisão monocrática de ministro da Corte.” Refiro-me ao HC 105.959, Redator para o acórdão o Ministro Edson Fachin, julgado com a participação de todos os integrantes do Tribunal. De modo que o processo deve ser extinto sem resolução do mérito.
+    8. Ademais, não encontro nos autos situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem de ofício, especialmente se se considerar que o entendimento do STF é no sentido de que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 18 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
