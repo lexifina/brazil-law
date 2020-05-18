@@ -1,0 +1,20 @@
+Vistos etc.
+Inicialmente, a ação libertária foi distribuída por sorteio eletrônico a este subscritor (ID 40217494), mas ao constatar que a Exma. Dra. Glenda Moreira Borges foi a responsável por relatar, anteriormente, o RESE no. 1001039-37.2020, determinei a redistribuição do mandamus a ela (ID 40385964).
+Todavia, ao receber os autos, a nobre magistrada lançou despacho ponderando que como o recurso em referência foi distribuído “durante sua convocação para substituição legal do Des. Alberto Ferreira de Souza, e não por força da atual convocação para fins de preenchimento de vaga aberta neste Tribunal”, a regra de prevenção estabelecida no RI/TJMT é inaplicável. Por isso, foi ordenada a redistribuição do remédio constitucional a este subscritor (ID 40771964).
+O comando judicial foi imediatamente cumprido e assim que os autos aportaram em meu gabinete, a tutela de urgência vindicada no writ foi examinada e indeferida (ID 40929966).
+Em seguida, os impetrantes opuseram Embargos de Declaração contra o pronunciamento exarado pela Dra. Glenda Moreira Borges. Segundo eles, a decisão padece do vício de contradição por ter deixado de reconhecer a prevenção da magistrada gerada pelo julgamento do RESE no. 1001039-37.2020.
+Eis as suas palavras, in litteris:
+“(...) evidencia-se a contradição ao negar a prevenção, posto que existe norma interna e Lei Ordinária demonstrando quando se dá a prevenção. Insta destacar que, nos termos do art. 22, I, da Constituição Federal, é competência privativa da União legislar sobre direito processual, não sendo viável argumentos de sobreposição do Regimento Interno acerca do andamento processual, nos moldes do art. 930 do Código de Processo Civil e 83 do Código de Processo Penal. Por fim, vale destacar que, já fora protocolado em 06.05.2020 o incidente de conflito de competência negativo em razão das negativas constantes na tramitação do feito” (ID 41458979). Destaquei.
+Feitas essas elucidações e partindo da premissa de que contradição é uma incongruência entre afirmações feitas dentro do mesmo julgado, basta voltar os olhos ao teor do título impugnado (ID 40771964) para se notar que ali não paira o referido vício.
+Ali, consignou-se expressamente que a distribuição por dependência ao magistrado que substitui o Relator só tem pertinência em caso de afastamento do Relator (arts. 59 a 61 do RI/TJMT), sem abarcar, contudo, a convocação decorrente de vaga pendente de preenchimento, como é o caso da Dra. Glenda Moreira Borges.
+Igualmente, pontuou-se que a ordem de redistribuição dos autos a este subscritor, originariamente sorteado para relatar o feito, foi embasada na Consulta no. 0016457-32.2020 feita ao Presidente desta Corte, que assim se pronunciou: “levada a efeito a aposentadoria de Membro da Corte, o Juiz Convocado para assumir as funções judicantes até o preenchimento da vaga não atrairá a prevenção para julgamento de feitos que guardem vinculação com outros anteriormente distribuídos ao desembargador aposentado”.
+Nesses moldes, diante da idoneidade das razões invocadas pela magistrada e da sintonia guardada com a Consulta no. 0016457-32.2020, refletindo o tratamento claro, direto e objetivo dado à controvérsia sobre a competência para processar o mandamus, a este Desembargador não restou outro caminho senão acolher a competência declinada e retomar o curso do writ, apreciando a medida pleiteada em sede de cognição sumária (por sinal, desfavorável ao paciente).
+Enfim, sabendo-se que questões relativas à competência de magistrados devem ser veiculadas por instrumento próprio e que sobre a decisão atacada, como visto nas linhas acima, não pairam vícios de qualquer natureza (art. 619 do CPP), fica afastada a pretensão recursal.
+Com essas considerações, NEGO provimento aos aclaratórios.
+Procedam-se aos registros, baixas, anotações e intimações necessárias.
+Com o trânsito em julgado, retome-se o fluxo do writ, colhendo-se o parecer ministerial.
+Às providências.
+Cumpra-se.
+Cuiabá, 18 de maio de 2020.
+Rondon Bassil Dower Filho
+Relator
