@@ -1,0 +1,19 @@
+Decisão: Trata-se de embargos de declaração opostos em favor de Ismael da Ros Auer e Ozair Coutinho Gonçalves Auer contra decisão que indeferiu o pedido de extensão (eDOC 53, DJe 2.4.2020).
+    Nas razões recursais, a defesa aponta omissão no que tange à efetiva aplicação da Recomendação n. 62 do Conselho Nacional de Justiça. Afirma que a condição de idoso não é requisito imprescindível para o deferimento da prisão domiciliar no contexto de pandemia de coronavírus.
+    Sustenta que as hipóteses de risco elencadas pela Recomendação não são cumulativas e que os requerentes apresentam comorbidades graves, que os colocam em situação de vulnerabilidade em caso de contágio.
+    Pugna sejam os presentes Embargos Declaratórios conhecidos e providos com o intuito de sanar a omissão apresentada, deferindo o pedido de extensão formulado.
+    É o relatório. Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada. No presente caso, não verifico a presença de qualquer dos vícios.
+    Como já ressaltado na decisão monocrática, o Conselho Nacional de Justiça, como medida de prevenção e contenção do avanço da epidemia de Covid-19 no âmbito dos sistemas de justiça penal, editou a Recomendação n. 62/2020, indicando a adoção de providências pelos Tribunais e magistrados do país.
+    Nos termos de tal documento, as indicações têm como finalidade específica, dentre outras, a proteção da vida e da saúde das pessoas privadas de liberdade, sobretudo daqueles que integram o grupo de risco, tais como idosos, gestantes e pessoas com doenças crônicas, imunossupressoras, respiratórias e outras comorbidades preexistentes que possam conduzir a um agravamento do estado geral de saúde a partir do contágio, com especial atenção para diabetes, tuberculose, doenças renais, HIV e coinfecções.
+    Sem dúvidas não se trata de um rol cumulativo de hipóteses, como bem ponderou a defesa.
+    Porém, por outro lado, enfatiza-se que a Recomendação expedida pelo CNJ não é, por si só, peremptória, de modo a se ter uma equação certa de que o réu preso provisório, pertencente ao grupo de risco, se beneficiará de medida menos gravosa. Em verdade, a Recomendação determina, para tais casos, uma reavaliação dos elementos da prisão, nos termos do art. 316 do Código de Processo Penal. Portanto, a análise do cabimento da prisão domiciliar ou de medidas alternativas à prisão deverá ser feita caso a caso, considerando as condições de saúde e idade do réu, do estabelecimento prisional, bem como os elementos da prática do crime, tudo isso em conjunto.
+    Nesse sentido, entendo que a imposição ou manutenção de medidas restritivas de liberdade deve ser analisada dentro do cenário de pandemia mundial e considerando-se as péssimas condições da superlotação e aglomeração entre os presos, falta de higiene, proliferação de doenças infecto-contagiosas, falha na prestação dos serviços de saúde e demais circunstâncias que levaram o STF a reconhecer a existência de um estado de coisas inconstitucional.
+    Por outro lado, não é possível renegar o legítimo interesse da sociedade e promover uma soltura indiscriminada da população carcerária, sem levar em conta elementos relacionados à gravidade do delito praticado, as condições específicas do estabelecimento prisional, bem como as condições peculiares de saúde e idade dos réus.
+    Por essa razão, a decisão monocrática proferida no eDOC 53 determinou a remessa do feito ao Juiz da origem para que fosse promovida a reanálise da prisão preventiva nos moldes da Recomendação n. 62/2020 do CNJ, não havendo que se falar em vício do julgado.
+    Ante o exposto, rejeito os embargos de declaração.
+    Publique-se. Int..
+    Brasília, 18 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
