@@ -1,0 +1,17 @@
+Despacho: 1. Por intermédio das Petições STF 32.971/2020 e 33.138/2020, as defesas constituídas dos acusados Aníbal Ferreira Gomes e Luis Carlos Batista Sá pretendem, respectivamente, o adiamento do julgamento da presente ação penal, diante da inclusão na pauta da sessão ordinária do dia 19.5.2020 da Segunda Turma do Supremo Tribunal Federal.
+    Sustentam, em conjunto, a ausência de urgência na retomada do julgamento da ação penal iniciada há 5 (cinco) meses, por se tratar de classe processual não incluída no rol de processos com julgamento preferencial em ambiente virtual por videoconferência, nos moldes das alterações determinadas pela Resolução 669/2020 do Supremo Tribunal Federal.
+    Anotam, ademais, que há questão preliminar sensível a ser julgada no caso, pertinente ao compartilhamento de Relatório de Inteligência Financeira pelo COAF, a demandar o debate pela forma presencial para que haja “melhor e efetiva entrega da prestação jurisdicional”.
+    Adverte a defesa de Aníbal Ferreira Gomes, na sequência, o descumprimento do prazo de 48 horas para inclusão do feito em pauta, disposto no art. 83 do RISTF.
+    Com essas razões, pleiteiam pela retirada de pauta de julgamento, de modo que a sua continuidade ocorra na subsequente sessão presencial da Segunda Turma do Supremo Tribunal Federal.
+    Subsidiariamente, pugnam pela renovação do prazo para apresentação da sustentação oral e para apresentação de novos memoriais.
+    2. Da análise das razões externadas pelas defesas técnicas dos acusados, não se extraem justificativas idôneas ao deferimento da pretensão de adiamento do julgamento agendado para o dia 19.5.2020.
+    Cumpre destacar, de início, que o apregoamento da presente ação penal não se dará no ambiente eletrônico regulamentado pela Resolução n. 642/2019 do Supremo Tribunal Federal, que dispõe sobre “o julgamento de processos em lista nas sessões presenciais e virtuais do Supremo Tribunal Federal”, mas com os integrantes da colenda Segunda Turma reunidos, em tempo real, por meio de videoconferência, conforme regulamentação dada pela Resolução n. 672, de 26 de março de 2020, na qual são previstas as formas por meio das quais serão exercidas as garantias constitucionais aplicáveis.
+    Trata-se de medida implementada para viabilizar o pleno funcionamento do Supremo Tribunal Federal e a respectiva prestação jurisdicional, tanto pelo Plenário como pelos órgãos fracionários, durante o período em que estiverem vigentes as recomendações de isolamento social expedidas por autoridades sanitárias em decorrência da pandemia declarada em 11.3.2020 pela Organização Mundial da Saúde.
+    Nesse cenário, a par da circunstância de que magistrados e partes não estarão no mesmo ambiente físico, não há qualquer distinção na forma como a jurisdição será prestada na ação penal em apreço que justifique o acolhimento da pretensão nos moldes como formulada.
+    Ademais, conforme destacado pelas defesas constituídas, a primeira inclusão da presente ação penal no calendário de julgamentos da Segunda Turma se deu em 21.8.2019, a revelar, além da regular observância dos prazos regimentais, o fato de que, até o momento, dispuseram as partes de tempo suficiente à pretendida distribuição de memoriais.
+    3. Ante o exposto, indefiro os pedidos de adiamento.
+    Publique-se. Intime-se.
+    Brasília, 18 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
