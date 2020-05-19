@@ -1,0 +1,30 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1010425-91.2020.8.11.0000 - COMARCA DE TANGARÁ DA SERRA
+IMPETRANTE: DR. WELLINGTON PEREIRA DOS SANTOS
+PACIENTE: CLAUDIANE ALVES DA SILVA
+Vistos,
+Habeas Corpus impetrado em favor de CLAUDIANE ALVES DA SILVA contra ato comissivo do Juízo da 1a Vara Criminal da Comarca de Tangará da Serra, nos autos do incidente processual (Código 337427), que converteu a prisão em flagrante em preventiva pelo cometimento, em tese, de tráfico de drogas - art. 33, caput, da Lei no 11.343/2006 - (Sistema Primus).
+O impetrante sustenta que a paciente “tem sob seu cuidado e responsabilidade a filha, LORRANY BEATRIZ ALVEZ BASTOS de apenas 4 (quatro) anos de idade” e é primária, de modo que preenche os requisitos para a conversão da custódia cautelar em prisão domiciliar.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade provisória à paciente ou aplicadas medidas cautelares “menos gravosas que a prisão” (ID 42622499), com documentos (ID 42622493/ID 42629956).
+Relatos.
+No dia 2.5.2020, o Juízo singular converteu o flagrante em prisão preventiva com a seguinte fundamentação:
+“[...] HOMOLOGO o presente auto lavrado em desfavor de CLAUDIANE ALVES DA SILVA.
+Em observância ao disposto no art. 310 do Código de Processo Penal, com redação dada pela Lei no 12.403/2011, passo à análise da conversão da prisão em flagrante em preventiva ou concessão de liberdade provisória, com ou sem fiança.
+Analisando a situação fático/processual apresentada nos autos, verifica-se que estão presentes os pressupostos da preventiva, ou seja, há o fumus comissi delicti (prova da materialidade e indícios de autoria), consubstanciado pelo Auto de Prisão em Flagrante, pelo Boletim de Ocorrência, pelo Termo de Apreensão, pelo Laudo de Constatação e pelos depoimentos dos policiais militares que conduziram o flagrante.
+Com efeito, o Policial Militar Natan Vieira Leite, condutor do flagrante, informou à Autoridade Policial que:[...].
+[...] ao aquilatar o caso em apreço, verifica-se que se encontra presente um dos fundamentos ensejadores da referida custódia, qual seja a garantia da ordem pública e, quando me refiro à ordem pública é no sentido de acautelar o meio social em face da quantidade de droga apreendida em poder da custodiada. Nesse sentido, o laudo de constatação atesta que foram apreendidos 2,270 kg de substância análoga à maconha, os quais evidenciam a gravidade concreta da conduta supostamente perpetrada pela agente. [...].
+E embora a flagrada tenha declarado que possui 01 (um) filho de 04 (quatro) anos em seu Termo de Qualificação, Vida Pregressa e Interrogatório, não é possível avaliar, neste momento, a possibilidade de concessão de prisão domiciliar, a uma, por não haver prova da idade do infante e, a duas, por não haver provas de que reside com a flagrada e que esta seria imediatamente responsável pelos seus cuidados.
+Por fim, os crimes imputados à custodiada é doloso, punido com pena privativa de liberdade máxima superior a 04 (quatro) anos, satisfazendo o requisito inserido no art. 313, I do CPP.
+Diante disso, restando demonstrado o risco concreto à ordem pública, nos termos do art. 310, inciso II, c/c art. 312, ambos do Código de Processo Penal, CONVERTO em PRISÃO PREVENTIVA a prisão em flagrante da custodiada CLAUDIANE ALVES DA SILVA. [...]” (Edna Ederli Coutinho, juíza de Direito - Código 337427)
+Pois bem.
+A manutenção da custódia da paciente está fundamentada na garantia da ordem pública, consubstanciada quantidade de maconha apreendida - 2,270kg (dois quilos e duzentos de setenta gramas) -, consoante Enunciado Criminal no 25 deste e. Tribunal.
+Todavia, a quantidade da droga merece ser ponderada com as circunstâncias fáticas e pessoais da paciente, notadamente diante da excepcionalidade da segregação no período de pandemia de COVID-19 (Resolução no 62/20, art. 4o, I).
+No caso, a paciente encontrava-se residindo com Alexander Moraes da Silva suspeito de tráfico de drogas e sua namorada “Tainá” [ele estava sendo monitorado pelo serviço de inteligência da Polícia Militar], o qual evadiu-se do local [juntamente com terceiro não identificado]; a substância entorpecente estava ocultada no quintal, sendo que havia algumas porções em um dos dormitórios da casa (ID 4262249); a paciente utilizava cômodo distinto, residia no local apenas há 3 (três) meses, tem 21(vinte e um) anos, é primária (SIAP e ID 42629956) e mãe de uma criança [Lorrany Beatriz Alvez Bastos] de quatro anos de idade, conforme certidão de nascimento (ID 42622498), sob sua guarda.
+A vulnerabilidade da filha da paciente recomenda, ante a perspectiva da menor restrição à liberdade e pela interpretação pro infans, a substituição da custódia preventiva por medidas cautelares alternativas, “porquanto seu recolhimento residencial a impediria de exercer o labor e outras atividades benéficas às crianças” (STJ, HC no 539.327/SP – Relator: Min. Rogerio Schietti Cruz – 2.12.2019).
+Nesse quadro, afigura-se pertinente a adoção das medidas previstas no art. 319 do CPP, instrumentos de natureza inibitória e/ou proibitiva eficazes para atingir a mesma finalidade da prisão (STF, HC no 127823 - Relator: Min. Teori Zavascki - 23.6.2015).
+Com essas considerações, DEFERE-SE o pedido liminar para substituir a prisão preventiva da paciente pelas medidas cautelares de: 1) comparecimento aos atos processuais, quando determinado pelo juiz da causa; 2) informar e manter endereço atualizado nos autos; 3) não se ausentar da Comarca, sem prévia autorização judicial; 4) recolhimento domiciliar no período noturno e nos dias de folga (CPP, art. 319, I, IV e V), ressalvada a dispensa de qualquer delas e sem prejuízo da fixação de outras pelo Juízo singular, sob pena de revogação do benefício.
+Outrossim, OFICIE-SE ao Juízo singular para expedir o apto alvará de soltura, observadas as medidas cautelares impostas, facultando-lhe informações ano prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 18 de maio de 2020.
+Des. MARCOS MACHADO
