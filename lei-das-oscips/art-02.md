@@ -12,3 +12,4 @@ X - as cooperativas;
 XI - as fundações públicas;
 XII - as fundações, sociedades civis ou associações de direito privado criadas por órgão público ou por fundações públicas;
 XIII - as organizações creditícias que tenham quaisquer tipo de vinculação com o sistema financeiro nacional a que se refere o art. 192 da Constituição Federal.
+Parágrafo único. Não constituem impedimento à qualificação como Organização da Sociedade Civil de Interesse Público as operações destinadas a microcrédito realizadas com instituições financeiras na forma de recebimento de repasses, venda de operações realizadas ou atuação como mandatárias.
