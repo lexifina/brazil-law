@@ -1,0 +1,39 @@
+Trata-se de agravo regimental contra decisão por meio da qual julguei prejudicada a reclamação (documento eletrônico 33).
+    A presente reclamação foi ajuizada pela União em face de alegado descumprimento da Súmula Vinculante 37 pelo Juízo da 1ª Vara do Juizado Especial Federal de Bauru, da Seção Judiciária do Estado de São Paulo, no Processo 0002857-75.2016.4.03.6325.
+    Consta dos autos que o Juízo de origem julgou parcialmente procedente a ação proposta pela beneficiária do ato ora reclamado para reconhecer o direito da autora à conversão de 1/3 das férias em pecúnia e, ainda, o direito ao gozo de licença-prêmio (documento eletrônico 4).
+    Em sua exordial, sustenta a reclamante que
+    “a concessão de incremento remuneratório, pelo Juízo reclamado, com fundamento na isonomia/simetria da carreira da magistratura com a do Ministério Público, caracteriza indesejada interferência do Poder Judiciário sobre o Legislativo. Em tal situação o órgão julgador atua como legislador positivo, incidindo na vedação constante da Súmula Vinculante n° 37” (pág. 4 da petição inicial; grifos no original).
+    Alega, ainda, que
+    “[a] decisão reclamada, ao também assegurar à parte autora o direito à conversão de um terço de suas férias em abono pecuniário sob o fundamento de isonomia/simetria ao regime jurídico dos membros do Ministério Público da União, violou novamente o texto da Súmula Vinculante n° 37.
+    […]
+    Essa Corte Suprema tem reconhecido a violação à autoridade da Súmula Vinculante n° 37 ao enfrentar a questão relativa ao pedido de conversão em pecúnia de um terço de férias, sob fundamento na isonomia/simetria, o que, em última ratio, permite ao magistrado receber valores do erário sem a respectiva autorização legal” (págs. 8-9 da petição inicial; grifos no original).
+    Ao fundamentar a necessidade de deferimento da liminar, aduz que
+    “se mostra patente o risco de dano ao interesse público, pois a União está compelida ao pagamento de valores indevidos e que, em razão da sua natureza alimentar, dificilmente serão reavidos, gerando grave e irreversível dano ao patrimônio público.
+    [...]
+    Logo, resta evidente também nesse caso o risco de dano ao interesse público, pois a União, ao conceder a licença-prêmio, não usufruirá da contraprestação dos serviços da parte interessada, que estará recebendo, normalmente, os valores referentes à sua remuneração, os quais, em razão da sua natureza alimentar, dificilmente serão reavidos, gerando grave e irreversível dano ao patrimônio público.
+    Além disso, não é demasiado ressaltar (sobretudo porque a parte autora da demanda originária busca o reconhecimento da licença-prêmio desde a data do seu ingresso na Magistratura) a eventual possibilidade da conversão do direito em pecúnia, o que teria o condão de causar ainda mais prejuízo ao erário, uma vez que, repita-se, trata-se de vantagem sem respaldo legal, concedida com base em indevida simetria com membros do Ministério Público” (págs. 11-12 da petição inicial; grifos no original).
+    Quanto ao mérito, requer a confirmação da liminar e consequente procedência do pedido, para que seja determinada a anulação da decisão reclamada.
+    Por considerar presentes os requisitos necessários, deferi a medida liminar (documento eletrônico 9).
+    A autoridade reclamada prestou informações (documento eletrônico 13).
+    A beneficiária do ato reclamado apresentou contestação (documento eletrônico 16).
+    A Procuradoria-Geral da República opinou pela negativa de seguimento à reclamação (documento eletrônico 22).
+    Em 3/4/2019, julguei parcialmente procedente o pedido (documento eletrônico 23).
+    Contra essa decisão, a beneficiária do ato reclamado opôs embargos declaratórios (documento eletrônico 25). A União apresentou as respectivas contrarrazões (documento eletrônico 31).
+    Em 26/8/2019, acolhi os embargos com efeitos modificativos e julguei prejudicada a reclamação (documento eletrônico 33).
+    Em face da supramencionada decisão, a União interpôs agravo regimental (documento eletrônico 38).
+    Neste regimental, a agravante sustenta em suma, que,
+    “para que a tutela jurisdicional na presente reclamatória seja eficaz, é necessário não apenas suspender o processo no qual proferida a decisão reclamada mas também que haja a determinação de suspensão de seus efeitos, de modo que, com isso, conforme assentado no julgamento da mencionada Rcl 27872-AgR, se possa ‘obstar o pagamento a magistrado de vantagem pecuniária instituída pelo Poder Legislativo à carreira do Ministério Público (SV nº 37), sem, contudo, esvaziar a competência do Plenário para decidir – seja na ADI nº 4.822/PE, seja nos RE nºs 1.059.466/AL e 968.646/SC – a matéria constitucional específica debatida no caso concreto’ (pág. 6 do documento eletrônico 38; grifos no original).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico que a pretensão recursal merece acolhida.
+    Primeiramente, rememoro que, conforme relatado, concedi a liminar e, posteriormente, julguei parcialmente procedente esta reclamação para determinar o sobrestamento na origem do Processo 0002857-75.2016.4.03.6325, com a consequente suspensão dos efeitos do ato reclamado, até a conclusão do julgamento da ADI 4.822/PE e dos Temas 966 e 976 da Repercussão Geral pelo Plenário do STF.
+    No entanto, ao julgar os embargos declaratórios opostos pela beneficiária do ato reclamado, e verificar que o Juizado Especial Federal da 3ª Região, nos autos do Processo 0002857-75.2016.4.03.6325, já havia determinado o sobrestamento do processo objeto desta reclamação, no aguardo da fixação da tese do RE 1.059.466 pelo Supremo Tribunal Federal, entendi por acolhê-los, julgando prejudicada a reclamação (documento eletrônico 33).
+    Ocorre que, como esclarecido pela agravante, a tutela pretendida na presente reclamação não se resume à suspensão do processo no qual foi proferida a decisão reclamada, mas também na suspensão de seus efeitos. Portanto, não há falar em perda do interesse processual no prosseguimento do feito e prejudicialidade dos pedidos.
+    Ressalto, ainda, que a reconsideração da decisão agravada faz-se relevante e urgente, pois em consulta ao site do Juizado Especial Federal da 3ª Região observei que a beneficiária do ato reclamado vem protocolando requerimentos no sentido de alcançar os efeitos da decisão ora reclamada, de sorte a assegurar a opção pela conversão, em pecúnia, de 1/3 de férias e pelo gozo de licença-prêmio.
+    Impõe-se, dessa forma, não só o sobrestamento da demanda originária, como também suspensão dos efeitos do ato reclamado, até a conclusão do julgamento da questão jurídica pelo Plenário do STF.
+    Em casos análogos, os Ministros desta Suprema Corte têm julgado procedentes pedidos formulados em reclamações com objeto semelhante ao desta demanda, para os fins acima propostos. Nesse sentido, a título exemplificativo, cito as seguintes decisões monocráticas: Rcl 28.896/PB, Rel. Min. Rosa Weber; Rcl 27.942/DF, Rcl 28.688/PE e Rcl 32.196/SC, todas de relatoria do Ministro Luiz Fux; Rcl 32.342/MG e Rcl 32.067/MG, ambas de relatoria do Ministro Gilmar Mendes; Rcl 38.818/CE, Rel. Min. Cármen Lúcia; Rcl 35.017/PE, Rel. Min. Marco Aurélio; Rcl 32.025/BA, Rel. Min. Celso de Mello; Rcl 32.128/RN, Rel. Min. Edson Fachin; e Rcl 34.347/PE, de minha relatoria.
+    Isso posto, reconsidero a decisão agravada e julgo parcialmente procedente o pedido, para determinar o sobrestamento na origem do Processo 0002857-75.2016.4.03.6325, com a consequente suspensão dos efeitos do ato reclamado, até a conclusão do julgamento da ADI 4.822/PE e dos Temas 966 e 976 da Repercussão Geral pelo Plenário do STF.
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 19 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
