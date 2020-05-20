@@ -1,0 +1,29 @@
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto pelo MUNICÍPIO DE PONTES E LACERDA contra decisão proferida pelo Juízo da 1a Vara da Fazenda Pública da Comarca de Várzea Grande/MT, que nos autos da Ação de Obrigação de Fazer com Pedido de Tutela Antecipada de Urgência no 1017394-53.2019.8.11.0002 movida por EULINA ANDRADE DE CARVALHO em desfavor do agravante e do ESTADO DE MATO GROSSO, determinou que seja assegurada a agravada internação domiciliar (HOME CARE) com o fornecimento dos equipamentos e materiais necessários aos cuidados diários, incluindo cama hospitalar e ventilador de suporte à vida.
+Irresignado com a decisão proferida, sustenta o agravante que não há urgência.
+Alega ausência de necessidade de Home Care, sendo sugerido pelo Núcleo de Apoio Técnico (NAT) a modalidade conhecida como Atenção Domiciliar 2.
+Aduz sua ilegitimidade para fornecer o tratamento pretendido pela autora, uma vez que ao Município compete as ações básicas e de baixa complexidade.
+Suscita violação ao princípio da reserva do possível.
+Com base nestes fundamentos, pugna pela concessão do efeito suspensivo, sobrestando a decisão agravada e no mérito que seja afastada sua responsabilidade no cumprimento da obrigação.
+É o relatório.
+Decido.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão do efeito suspensivo ao agravo de instrumento não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+In casu, verifica-se que há indícios suficientes nos autos de que a agravada, hoje com 70 anos de idade, portadora de Esclerose Lateral Amiotrófica (ELA), necessita do Home Care para tratamento da doença que a acomete.
+O laudo médico assinado pelo profissional do próprio Município de Pontes e Lacerda, após determinação judicial, destacou que a autora “não possui condições de suportar internação diante do enorme perigo de infeções hospitalares que podem ser de enorme gravidade, uma vez que se trata de paciente já com grande debilidade física e mental” (ID 28497815 – autos principais).
+Consignou ainda o médico que, a autora se encontra “na condição de deficiente física, com dificuldade de deglutição, com quase nenhum movimento nas pernas, dependente de cadeiras de rodas, pouco movimento nos braços, incapaz de locomoção; já apresenta úlceras de pressão que se não obtiver o cuidado adequado vão gerar mais dores e sofrimentos” (ID 28497815 – autos principais).
+A indicação de Home Care também foi confirmada no parecer do Núcleo de Apoio Técnico (NAT), vejamos:
+“Conclui-se que há a indicação de home care, já que é, em princípio, enquadrada na modalidade de atenção domiciliar, AD2, estabelecida na Portaria no 963, de 27 de maio de 2013, que redefine a Atenção Domiciliar no âmbito do Sistema Único de Saúde (SUS) e no Artigo 9o da Portaria 825 de 25/04/2016” (ID 42088978 – autos principais).
+Ademais, a própria Secretaria Municipal de Saúde informou que possui limitações no que tange a composição de equipe multidisciplinar (ID 28497815 – autos principais).
+Assim, não pode o Poder Judiciário negar a prestação jurisdicional aos necessitados, mormente quando o caso concreto apresenta risco iminente à saúde e à vida humana.
+Ademais, é cediço que a proteção da saúde e o dever de assistência médica por parte do Estado é uma atividade indispensável. Tanto é assim que a Constituição Federal resguarda em seu artigo 198 e seguintes como será prestado esse Direito Social, após dispor em seu art. 196 que “a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação”.
+Além disso, a tutela desse direito indisponível também é amparada pela Lei 8.080/90, a qual descreve os princípios do sistema de saúde nacional, reconhecendo que “a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício” (art. 2o).
+No que tange a alegação do agravante de sua ilegitimidade passiva, por se tratar de tratamento de alto custo, o entendimento é uníssono de que a responsabilidade é solidária entre os entes federativos, o que não implica em obrigatoriedade de inclusão ou exclusão de um ou outro, pois cada ente federativo possui responsabilidade integral pelo aludido fornecimento, cabendo ao cidadão optar por acionar qualquer dos entes públicos para lhe prestar assistência à saúde, em atendimento às mencionadas normas constitucionais.
+O tema está pacificado no Supremo Tribunal Federal (STF), por meio da Repercussão Geral no Recurso Extraordinário no 855178 RG/SE, de relatoria do ministro Luiz Fux, vejamos:
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO à SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente ou conjuntamente. (RE 855178 RG, Relator (a): Min. LUIZ FUX, julgado em 05/03/2015, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-050 DIVULG 13-03-2015 PUBLIC 16-03-2015)
+Feitas estas considerações, na espécie, não há se falar em plausibilidade do direito substancial invocado a revelar, a relevância da pretensão recursal, uma vez que se encontra demonstrada a necessidade do tratamento e o risco ao próprio direito à vida, à dignidade e à saúde da agravada.
+Ante o exposto, INDEFIRO o pedido de concessão do efeito suspensivo.
+Comunique-se o juízo de primeiro grau.
+Intime-se para apresentar contrarrazões.
+Após, colha-se o parecer da Procuradoria Geral de Justiça.
+Des. Mario Roberto Kono de Oliveira
+Relator
