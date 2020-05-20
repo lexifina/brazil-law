@@ -1,0 +1,42 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+GABINETE DESEMBARGADOR MÁRCIO VIDAL
+Agravo de Instrumento n. 1010634-60.2020.8.11.0000
+Processo originário: Ação de Obrigação de Fazer n. 1009574-46.2020.8.11.0002
+Agravante: Município de Cuiabá
+Agravado: Sophia Ribeiro de Souza
+Vistos, etc.
+Trata-se de Agravo de Instrumento, com pedido de liminar, interposto pelo Município de Cuiabá, contra a decisão proferida pelo Juízo da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande que, nos autos de Ação de Obrigação de Fazer n. 1009574-46.2020.8.11.0002, determinou que o ente municipal e o Estado de Mato Grosso forneçam o complemento nutricional, necessário à saúde da menor Sophia Ribeiro de Souza.
+O Município de Cuiabá se insurge, em face da decisão que determinou o fornecimento do suplemento alimentar, pretendendo sua reforma, ao argumento de que inexistem razões médicas que respaldem o deferimento da liminar, haja vista que a menor possui 09 (nove) meses de idade, sendo possível tanto o aleitamento materno, quanto a ingestão de alimentos, e até mesmo de fórmulas caseiras.
+Alega que existe recomendação médica para a introdução de novos alimentos, a partir dos 4 (quatro) meses, que dirá com 09 meses, como é o caso da infante.
+Salienta que, em momento algum, foi demonstrado grave estado de desnutrição da criança.
+Aduz que as demandas de saúde, ao contrário dos recursos financeiros, são infinitas, o que torna necessária a realização de escolhas, pois não se mostra possível atender a toda e qualquer demanda do cidadão, relacionada, ainda que indiretamente, ao direito à saúde.
+Assevera que o suplemento requerido pela parte autora não obstante tenha sido incorporado ao Sistema Único de Saúde (SUS), em 23/11/2018, ainda não está efetivamente disponibilizado para a população, pois alguns ritos processuais devem ser seguidos, como a publicação do Protocolo Clínico e Diretrizes Terapêuticas, de modo que ainda não faz parte da lista de medicamentos fornecidos pela Rede Básica de Saúde, de competência do Município.
+Relata que não há urgência ou risco de morte, em caso de não fornecimento do insumo, e que não se comprovou a insuficiência alimentar da autora, ou de que a substituição do suplemento por fórmula alimentar caseira não seja suficiente.
+Por fim, afirma que os requisitos exigidos, para o deferimento do efeito suspensivo ao Recurso, encontram-se presentes, pugnando, consequentemente, por sua concessão, para sustar os efeitos da decisão agravada, até o julgamento do mérito pelo Colegiado.
+É a síntese e decido.
+Como visto, pretende, o Município de Cuiabá, que seja afastada a decisão proferida pelo Juízo a quo, que determinou ao Recorrente propiciar o fornecimento do complemento nutricional, em favor da menor, Sophia Ribeiro de Souza, na ação de Obrigação de Fazer, por ela proposta por intermédio da Defensoria Pública do Estado de Mato Grosso.
+Sabe-se que, no âmbito recursal, para o deferimento do pedido de tutela antecipada, cabe ao relator do agravo de instrumento avaliar se é caso de conceder, liminarmente, a antecipação da tutela da pretensão recursal, consoante a norma procedimental do artigo 1.019, inciso I, do Código de Processo Civil, e que, nessa medida, o pleito somente será concedido nos casos em que houver probabilidade de provimento do recurso e risco de dano grave, ou de difícil reparação, por aplicação analógica ao artigo 1.012, parágrafo 4o do CPC.
+Da leitura dos autos, verifica-se que a ação de base foi proposta com o objetivo propiciar o fornecimento do complemento nutricional à menor Sophia Ribeiro de Souza, em razão do seu quadro de saúde, porque foi diagnosticada com intolerância à proteína do leite de vaca (CID K 52.2), como, também, com diarreia crônica, baixo peso, má absorção alimentar e infecções, e necessita do suplemento alimentar Neocate LCP, ou outro do mesmo princípio ativo, em caráter de urgência, conforme descrito na solicitação, feita pela médica pediatra, assistente do SUS, Dra. Ana Carolina Santos – CRM-MT 3992, p. 5 (id. 42911980).
+Dessarte, o Juízo de Primeiro Grau, diante dos fatos e documentos apresentados pela parte autora, ressaltou que prevalece o direito da menor à saúde, em razão do risco iminente das sequelas, caso haja postergação no fornecimento do complemento nutricional, nos seguintes termos:
+Concedo, em parte, a antecipação da tutela para fornecimento da fórmula de aminoácidos livres em favor do paciente, 10 latas ao mês, conforme relatórios e prescrições médicas juntadas nos autos, para tratamento das patologias que o acometem, até que o tratamento seja desnecessário à sua saúde, podendo ser dispensado itens de marcas diferentes da solicitada na exordial, desde que não acarretem prejuízos clínicos ao tratamento da menor. Concedo o prazo de até 15 (quinze) dias para cumprimento. Deverá a parte Autora comprovar, mensalmente, a persistência na necessidade da fórmula nutricional, sob pena de perda de efeitos da presente liminar (Enunciado no 2 da III Jornada de Direito da Saúde do CNJ).
+Denota-se que a tutela antecipatória de urgência foi concedida, em razão de o Magistrado a quo, em cognição sumária, ter verificado os elementos que evidenciaram, igualmente, a probabilidade do direito e o perigo de dano, ou risco ao resultado útil do processo, em conformidade com o art.300, do CPC.
+Tem-se, aqui, o fenômeno da judicialização da saúde, que se caracteriza pela amplitude e diversidade de reclames de bens (fornecimento de medicamentos) e de direitos (saúde), como internação, cirurgia, vaga em UTI, etc., entre tantas outras demandas protetivas do direito à saúde.
+O fenômeno surge diante da impossibilidade de efetivar-se o direito constitucional, tendo em vista a ineficiência do órgão estatal competente.
+A questão em exame é a mais importante para qualquer ser humano, pois trata da manutenção da vida biológica, um bem jurídico a ser protegido por todos.
+O direito postulado na ação de base, como se sabe, decorre da Constituição da República Federativa do Brasil que garante a todos a inviolabilidade do direito à vida (art. 5o, caput) e elege a saúde como direito social (art. 6o), sendo papel fundamental do Estado concretizar o mandamento constitucional. Ademais, a Seguridade Social tem como pressuposto a universalidade da cobertura e do atendimento (art. 194, CRF).
+O dever estatal não se restringe apenas a organizar políticas públicas que visem a combater ou a prevenir a população da propagação de doenças, mas, também, o atendimento individual do paciente, que deve ter uma assistência digna nos hospitais mantidos pelo Poder Público.
+Dessa forma, os direitos fundamentais à vida e à saúde são inalienáveis e reservam especial proteção à dignidade da pessoa humana, devendo superar quaisquer espécies de restrições legais.
+Negar o tratamento de urgência indicado implica a negativa ao direito fundamental à saúde e à vida, consagrado pela Constituição Federal e pela Lei n. 8.080/90, que impõem a assistência terapêutica integral, e cabe à União, ao Distrito Federal, aos Estados Membros e aos Municípios, solidariamente, prover as condições indispensáveis ao pleno exercício da saúde, direito fundamental do ser humano.
+Ressalto que, apesar de haver solicitação pelo SUS, a Secretaria Municipal de Saúde negou o fornecimento do aludido suplemento alimentar.
+Não há desconsiderar que o direito à saúde é dever estatal. Logo, cabe ao ente público municipal ofertar o tratamento de que a Agravada necessita, pois é pacífico, na jurisprudência nacional, que, em se tratando de serviços de saúde, a responsabilidade é solidária.
+Por fim, anoto que o decisum não viola o princípio da isonomia, na medida que o acesso à justiça é garantido constitucionalmente (art. 5o, XXXV). Portanto, toda pessoa que se sentir lesada, em algum direito, deve buscar amparo no Poder Judiciário.
+Posto isso, nada obstante a judicialização do pedido da parte recorrida, entendo, por bem, manter a decisão de Primeiro Grau, a fim de evitar mais prejuízos à menor, de modo a limitar sua qualidade de vida, por falta dos insumos necessários.
+Assim, nesta fase de cognição sumária, não me convenço da necessidade de sobrestar a decisão hostilizada, até o julgamento final pelo Órgão Colegiado.
+Ante o exposto, NÃO CONCEDO o efeito suspensivo pretendido.
+Intime-se a parte agravada para contraminutar o Recurso.
+Após, colha-se o parecer da Procuradoria de Justiça.
+Ultimadas as providências, voltem-me para julgamento.
+Intimem-se e cumpra-se.
+Cuiabá/MT, 20 de maio de 2020.
+Des. Márcio VIDAL,
+Relator.
