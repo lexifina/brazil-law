@@ -10,7 +10,6 @@ a) delimitação de zonas especiais de interesse social em quantidade compatíve
 b) diretrizes e parâmetros urbanísticos de parcelamento, uso e ocupação do solo urbano;
 c) diretrizes para infraestrutura e equipamentos urbanos e comunitários; e
 d) diretrizes para proteção do meio ambiente e do patrimônio cultural;
-VIII - concessão de direito real de uso: cessão de direito real de uso, onerosa ou gratuita, por tempo certo ou indeterminado, para fins específicos de regularização fundiária;
-IX - alienação: doação ou venda, direta ou mediante licitação, nos termos da Lei nº 8.666, de 21 de junho de 1993, do domínio pleno das terras previstas no art. 1º;
-X - área urbana: a definição levará em consideração, para fins do disposto nesta Lei, o critério da destinação; e
-XI - infração ambiental: conduta lesiva ao meio ambiente comprovada por meio do esgotamento das vias administrativas.
+VIII - concessão de direito real de uso: cessão de direito real de uso, onerosa ou gratuita, por tempo certo ou indeterminado, para fins específicos de regularização fundiária; e
+IX - alienação: doação ou venda, direta ou mediante licitação, nos termos da Lei nº 8.666, de 21 de junho de 1993, do domínio pleno das terras previstas no art. 1º.
+X - área urbana: a definição levará em consideração, para fins do disposto nesta Lei, o critério da destinação.
