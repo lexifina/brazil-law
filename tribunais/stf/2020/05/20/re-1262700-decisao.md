@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE SEGUIMENTO – NEGATIVA.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, julgou procedente o pedido de incidência dos juros de mora até o efetivo pagamento do precatório. No extraordinário, o recorrente aponta a violação dos artigos 100, parágrafos 5º e 12, da Constituição Federal e 78 do Ato das Disposições Constitucionais Transitórias. Diz contrariado o verbete vinculante nº 17 da Súmula do Supremo. Insiste na observância do versado no recurso extraordinário nº 590.751 e na Lei nº 11.960, tendo por inexistente o óbice da preclusão maior. Assevera não ter havido atraso no pagamento.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Quanto à incidência dos juros moratórias no curso do parcelamento constitucional estabelecido pelo art. 78 do ADCT, não se olvida que restou decidido, no julgamento do Recurso Extraordinário n° 590.751/SP, a não incidência dos juros legais em continuação no curso do parcelamento desde que adimplidos a tempo.
+    […]
+    No caso, inobstante o entendimento acima, tenha-se presente que não pode a FEsP impugnar os pagamentos já realizados e levantados, uma vez que os depósitos obedeceram ao título executivo e à jurisprudência vigente a época, de modo que os juros moratórios computados nas parcelas pagas não podem mais ser discutidos, sob pena de ofensa à segurança jurídica e à estabilidade das relações.
+    Feitas essas considerações, quanto aos depósitos retidos aos autos (fls. 560, fls. 573 e fls. 586/592), deve-se prosseguir a execução, afastando-se a (i) aplicação da Lei n ° 11.960/09; (ii) a incidência do Súmula Vinculante n° 17; e (iii) o cômputo dos juros moratórios em continuação, nos termos do Recurso Extraordinário n° 590.751/SP, desde que o débito tenha sido adimplido a tempo.
+    Por fim, o Supremo, no julgamento do recurso extraordinário nº 590.751/SP, da relatoria do ministro Ricardo Lewandowski, concluiu pela não incidência de juros no pagamento de precatórios, quando realizado no prazo previsto no artigo 78 do Ato das Disposições Transitórias da Carta Federal, acrescido pela Emenda Constitucional nº 30/2000. A situação concreta, no entanto, distancia-se da retratada no precedente, ante circunstância ressaltada no acordão recorrido: o fato de a decisão, quanto aos juros compensatórios, estar coberta pela preclusão maior, a coisa julgada.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
