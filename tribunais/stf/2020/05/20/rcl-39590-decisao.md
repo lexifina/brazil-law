@@ -1,0 +1,22 @@
+RECLAMAÇÃO. CONSTITUCIONAL. RELAÇÕES DECORRENTES DO TRANSPORTE RODOVIÁRIO DE CARGAS. TERCEIRIZAÇÃO DA ATIVIDADE-FIM. LEI 11.442/2007. TRANSPORTE AUTÔNOMO DE CARGAS. ALEGAÇÃO DE AFRONTA À DECISÃO DESTA SUPREMA CORTE PROFERIDA NA MEDIDA CAUTELAR DA ADC 48. SUSPENSÃO NACIONAL DE PROCESSOS. SUPERVENIENTE JULGAMENTO DA ADC PELO PLENÁRIO DESTA CORTE. REVOGAÇÃO DA LIMINAR DEFERIDA. RECLAMAÇÃO QUE SE JULGA PREJUDICADA.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Quality Transportes e Entregas Rápidas Ltda contra decisão proferida pela 17ª Vara do Trabalho de Belo Horizonte/BH nos autos do Processo 00110214920195030017, objetivando garantir a autoridade da decisão proferida na Medida Cautelar da Ação Declaratória de Constitucionalidade 48.
+    Extrai-se da decisão ora reclamada, in verbis:
+    “O procurador da 1ª e 3ª ré requer a suspensão do feito uma vez que se trata de pedido de vínculo empregatício envolvendo TAC. O pleito será analisado em momento oportuno, quando da audiência de instrução e julgamento do processo, de modo que até aquela fase processual não há qualquer prejudicialidade na realização de perícia para averiguação de insalubridade/periculosidade ou mesmo de manifestação da parte autora sobre as defesas das rés. Protestos do procurador”
+    Narra a reclamante que é demandada em reclamação trabalhista proposta por prestador de serviços autônomo, na qual se discute o reconhecimento de vínculo de emprego.
+    Sustenta que requereu junto ao juízo reclamado a suspensão do feito, em razão da decisão proferida por esta Corte nos autos da ADC 48. Contudo, “o Juízo reclamado não acatou a decisão deste Colendo Tribunal, e em decisão proferida na própria audiência, simplesmente indeferiu o pedido sob a alegação de que tal requerimento seria analisado em momento oportuno, mais especificadamente quando da audiência de instrução e julgamento do processo e ainda determinou a produção de prova pericial além de designar audiência de instrução e julgamento”.
+    Aduz que a questão dos autos é “completamente pautada na inexistência de vínculo trabalhista em razão da realização de subcontratação através de contrato de transporte de cargas entre as partes exatamente a base do artigo 5º da Lei 11.442/2007, o que, pela própria denominação legal, atrairia a condição de TAC ao obreiro, nos termos do artigo 4, §§ 1º ou 2º, da mesma norma”, o que evidencia que a decisão impugnada incorreu em ofensa à determinação constante na decisão proferida na ADC 48-MC, na medida em que não determinou a suspensão do feito.
+    Requer, ao final, a concessão de medida liminar para suspender o andamento do Processo 00110214920195030017. No mérito, pugna pela confirmação da liminar deferida, “tendo em vista o evidente descumprimento da ordem proveniente na ADC nº48 e determinar a suspensão dos autos com efeitos retroativos à data do requerimento, consoante fundamentação”.
+    Em 12/03/2020, deferi a medida liminar pleiteada para suspender os efeitos da Reclamação Trabalhista 00110214920195030017, em trâmite no Tribunal Regional do Trabalho da 3ª Região, até o julgamento final desta reclamação.
+    A autoridade reclamada prestou informações (doc. 64).
+    Devidamente citado, o beneficiário da decisão reclamada deixou de apresentar contestação (doc. 66).
+    É o relatório. DECIDO.
+    Ab initio, constato, de plano, a ocorrência de fato posterior capaz de ensejar a prejudicialidade da presente ação.
+    Com efeito, verifica-se que em Sessão Virtual de 03/04/2020 a 14/04/2020 o Plenário do Supremo Tribunal Federal concluiu o julgamento de mérito da Ação Declaratória de Constitucionalidade 48, proferindo decisão dotada de efeitos vinculantes, ficando superada a decisão cautelar indicada como paradigma.
+    Haja vista a superveniência do referido julgamento e forte na jurisprudência assentada desta Corte, no sentido de que a eficácia das decisões com efeitos vinculantes e erga omnes do Supremo Tribunal Federal se inicia com a publicação da ata de seu julgamento, entendo prejudicada a presente reclamação, cabendo às partes informar o Juízo do processo de origem acerca do que decidido no julgamento da ADC 48.
+    Ex positis, JULGO PREJUDICADA a presente reclamação, com fundamento no art. 932, III, do Código de Processo Civil, ficando revogada a medida liminar anteriormente concedida nos autos.
+    Notifique-se o juízo reclamado.
+    Publique-se.
+    Brasília, 20 de maio de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
