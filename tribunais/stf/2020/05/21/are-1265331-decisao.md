@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. AMBIENTAL. ÁREA DE PRESERVAÇÃO PERMANENTE. COMPETÊNCIA DA JUSTIÇA FEDERAL. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO FEDERAL. DEMOLIÇÃO DAS OBRAS. RECUPERAÇÃO DA ÁREA DEGRADADA. CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO. CUMULAÇÃO INDEVIDA DE SANÇÕES NO CASO. HONORÁRIOS EM FAVOR DO IBAMA INDEVIDOS”. (eDOC 27, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXII e XXIII; 109; 129, III e IX; e 225, § 4º, do texto constitucional.
+    Em suas razões os recorrentes alegam, preliminarmente, a incompetência da Justiça Federal para julgamento do feito, por não se situar o imóvel em terreno de marinha ou em área de preservação permanente (eDOC 37, p. 11), e a ilegitimidade processual do Ministério Público para atuar em benefício do erário federal; (eDOC 37, p. 16); no mérito, afirmam a violação do seu direito de propriedade, nulificado pelo impedimento a construir em área urbana consolidada, após a expedição de todas as licenças pela autoridade municipal, e a falta de proporcionalidade da condenação à demolição. (eDOC 37, p. 22)
+    O recurso especial dos recorrentes foi parcialmente provido, para substituir a condenação de demolição do imóvel por penalidade pecuniária. (eDOC 68, p. 10)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Impõe-se reconhecer a perda do objeto do pedido de mérito do recurso extraordinário, visto que o acórdão recorrido foi reformado quanto à condenação de desfazimento da construção erguida no imóvel.
+    No remanescente, a irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o imóvel dos recorrentes encontrar-se-ia em terreno de marinha, de propriedade da União, e área de preservação permanente, com interesse ambiental. Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+    “Há de ser afastada a alegação de que a Justiça Federal é incompetente para processar e julgar a ação. Isso porque as condutas narradas ocorreram em terreno de marinha, bem de propriedade da União (art. 20, inc. VII da Constituição)”. (eDOC 23, p. 2)
+    “Assim, por objetivar a presente ação civil pública proteger áreas de preservação permanente situadas sobre terrenos de marinha e acrescidos, resta evidente a legitimidade do Ministério Público Federal”. (eDOC 23, p. 5)
+    Assim, divergir desse entendimento para reconhecer a incompetência da Justiça Federal ou a ilegitimidade do Ministério Público demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF”. (RE 1.100.737 AgR, rel. Min. Alexandre de Moraes, Primeira Turma, DJe 13.6.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA E O DO MINISTÉRIO PÚBLICO FEDERAL. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE. SÚMULA/STF 279. COMPETÊNCIA DA JUSTIÇA FEDERAL. OFENSA REFLEXA. PRECEDENTES.AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - A legitimidade do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e o do Ministério Público Federal para atuação em ação civil pública na qual se discute licenciamento ambiental e a consequente competência da Justiça Federal é matéria que exige o reexame do contexto fático-jurídico da causa e da legislação processual infraconstitucional. Súmula 279/STF. Precedentes. (...)”. (RE 1.061.773 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 13.6.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
