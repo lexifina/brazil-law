@@ -1,0 +1,23 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual foi negado seguimento ao recurso extraordinário, sob o fundamento de que, com a negativa de seguimento do REsp 1.739.578/PR, tornaram-se definitivos os fundamentos infraconstitucionais do acórdão (documento eletrônico 13).
+    Os embargantes sustentam a ocorrência de omissão na decisão recorrida, sob o argumento de que não foi analisada a questão referente à aplicação do Tema 624 da Repercussão Geral (pág. 2 do documento eletrônico 13).
+    Além disso, afirmam ainda que
+    “apresenta contradição a v. decisão embargada ao considerar que a questão já foi resolvida em sede infraconstitucional, quando o próprio e. STJ deixou de apreciar a matéria, ao argumento de que é constitucional” (pág. 4 do documento eletrônico 13).
+     É o relatório. Decido.
+    Bem reexaminados os autos, verifico que os embargos declaratórios não merecem acolhida, tendo em vista a ausência dos pressupostos de embargabilidade.
+    Os embargos de declaração apenas são cabíveis, nos termos do art. 1.022 do Código de Processo Civil, quando a decisão recorrida contiver omissão, contradição, obscuridade ou erro material. Desse modo, incumbe ao embargante indicar a ocorrência de algum desses vícios e desenvolver argumentos para demonstrar a sua existência na decisão embargada.
+    No presente caso, a decisão embargada negou seguimento ao recurso extraordinário sob o entendimento de que o acórdão recorrido baseou-se em fundamentos infraconstitucionais para chegar à conclusão de que os impetrantes careceriam de interesse processual para postular em juízo, nos termos do art. 330, III, do Código de Processo Civil.
+    Assim, evidencia-se que, a pretexto de sanar omissão ou contradição, os embargantes têm o propósito de provocar o reexame da causa. Entretanto, os embargos de declaração não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes do Plenário desta Corte:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS” (ARE 892.129-AgR-ED/DF, Rel. Min. Cármen Lúcia).
+    “EMBARGOS DECLARATÓRIOS. PEDIDO DE SOBRESTAMENTO DO FEITO POSTERIOR A JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. INDEFERIMENTO. ALEGAÇÃO DE OMISSÃO. NÃO CONFIGURAÇÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. 1. Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para fins de correção de erro material. 2. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso. 3. O Embargante busca indevidamente rediscussão da matéria. 4. Embargos de declaração, opostos em 06.02.2017, rejeitados” (Rcl 17.218-AgR-EDv-ED-ED/RS, Rel. Min. Edson Fachin).
+    Ademais, observo que apenas a contradição interna dá ensejo à oposição de embargos de declaração, ou seja, ela deve ocorrer entre os fundamentos e a conclusão do próprio acórdão embargado. Eventual contradição entre o acórdão e a lei, os fatos, a jurisprudência ou a interpretação à qual a parte considera mais adequada não são aptas a configurar a contradição mencionada pelo art. 1.022 do CPC. Confira-se:
+    “Embargos de declaração no agravo regimental no recurso extraordinário com agravo. Inexistência das hipóteses do art.535 do CPC.
+    1. O julgado embargado não incorreu em omissão. O órgão julgador decidiu as questões postas no recurso extraordinário a partir das balizas fixadas no acórdão recorrido.
+    2. A contradição que autoriza a oposição do recurso declaratório deve ser interna à decisão, verificada entre os fundamentos do julgado e a sua conclusão.
+    3. Embargos de declaração rejeitados” (ARE 736.099-AgR-ED, Rel. Min. Dias Toffoli, Primeira Turma).
+    No presente caso, não se verifica contradição interna entre as premissas e a conclusão do aresto embargado.
+    Desse modo, após analisar detidamente a decisão impugnada, e atento ao que sustentado nos embargos declaratórios, entendo que o julgamento ora combatido não incorreu em nenhum dos vícios descritos pelo art. 1.022 do CPC.
+    Isso posto, rejeito os embargos de declaração (art. 1.024, § 2°, do CPC).
+    Publique-se.
+    Brasília, 21 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
