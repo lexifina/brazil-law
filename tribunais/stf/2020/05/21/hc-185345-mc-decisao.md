@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles assim retratou o caso:
+    O Juízo da Primeira Vara da Comarca de Jacupiranga/SP, no processo nº 0000942-33.2017.8.26.0294, determinou a prisão preventiva da paciente, ocorrida no dia 26 de janeiro de 2018, ante a suposta prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas) e 35 (associação para o tráfico) da Lei nº 11.343/2006. Reportando-se a relatório de investigação, lastreado em interceptações telefônicas, assentou haver materialidade e indícios de autoria, considerada a integração a organização criminosa voltada ao tráfico de entorpecentes. Aludindo a informações prestadas pela autoridade policial por meio das quais noticiada tentativa de resgaste dos envolvidos, custodiados na Cadeia Pública de Eldorado, concluiu necessária a medida para garantir a ordem pública, a instrução criminal e a aplicação da lei penal.
+    Em 18 de setembro de 2019, condenou-a a 8 anos de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 1.200 dias-multa, em virtude do cometimento dos delitos mencionados. Não reconheceu o direito de recorrer em liberdade, assentando persistirem os motivos que levaram à custódia.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 570.693/SP, indeferido liminarmente pelo Relator.
+    O impetrante sustenta estar a manutenção, na sentença, da prisão preventiva sem fundamentação, afirmando-a genérica. Frisa configurado o excesso de prazo da custódia, a perdurar por mais de 2 anos e 3 meses. Aponta demora na remessa, ao Tribunal, do recurso de apelação. Sublinha atendido o lapso necessário à progressão de regime, dizendo cumprido 1/6 da sanção imposta. Menciona a crise sanitária decorrente do novo coronavírus.
+    Requer, no campo precário e efêmero, a revogação da preventiva. No mérito, busca a confirmação da providência e, sucessivamente, a progressão de regime.
+    Consulta ao sítio do Tribunal de Justiça, realizada no dia 19 de maio de 2020, revelou encontrar-se a apelação interposta pela defesa pendente de exame. O Juízo, em 21 de fevereiro de 2020, manteve a prisão preventiva. No dia 27 de março seguinte, não acolheu pedido de revogação da medida. Assentou inexistir comprovação de a paciente integrar grupo de risco de contrair covid-19.
+    A fase é de apreciação da liminar.
+    2. O Juízo, ao determinar a prisão preventiva, aludindo a relatório de investigação lastreado em interceptações telefônicas, assentou a participação da paciente em grupo criminoso voltado ao tráfico de drogas. Ressaltou informações prestadas pela autoridade policial, por meio das quais noticiada tentativa de resgaste dos integrantes do grupo, custodiados na Cadeia Pública de Eldorado. Na sentença, concluiu persistirem os motivos que ensejaram a custódia. O quadro indica em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a prisão mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A decisão mediante a qual o Juízo, em 27 de março de 2020, reiterou a necessidade da prisão afasta o excesso de prazo. O artigo 316, parágrafo único, do Código de Processo Penal dispõe sobre a duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, mediante ato fundamentado. Apresentada motivação suficiente à manutenção, fica afastado constrangimento ilegal.
+    A crise sanitária decorrente do novo coronavírus é insuficiente a levar ao acolhimento da providência pretendida. Não se tem notícia de encontrar-se a paciente acometida de doença preexistente que possa se agravar a partir do contágio nem de casos confirmados ou suspeitos de infecção no estabelecimento prisional.
+    Quanto à progressão, não se verifica o cumprimento do requisito objetivo de 2/5, uma vez condenada a paciente pelo delito de tráfico de drogas, bem como a comprovação da observância do subjetivo.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 21 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
