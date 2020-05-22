@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE DE POLÍCIA CIVIL. ADICIONAIS DE INSALUBRIDADE, PERICULOSIDADE E PENOSIDADE. CUMULAÇÃO. LEIS 2.165/2009 E 1.041/2002 DO ESTADO DE RONDÔNIA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “Apelação. Agente de Polícia Civil. Cerceamento de defesa. Inocorrência. Cumulação do adicional de insalubridade, periculosidade e penosidade. Lei 1.041/02. Lei 2.165/2009. Inconstitucionalidade rejeitada. Impossibilidade de cumulação.
+    1. Não há falar em cerceamento de defesa quando constatada prova suficiente para o convencimento do magistrado.
+    2. Dentre os direitos assegurados aos servidores públicos no exercício de sua função, a Constituição Federal não garantiu direito aos adicionais de insalubridade, periculosidade e penosidade, deixando à discricionariedade do legislador ordinário de cada ente federativo, no exercício de sua autonomia gerencial, dispor sobre a remuneração do seu servidor.
+    3. Em se tratando de direito garantido por norma infraconstitucional, é possível impor restrições e requisitos, sendo legítima a vedação do recebimento cumulativo dos adicionais de insalubridade, periculosidade e penosidade, sem que isso seja considerado ofensa à Constituição Federal.
+    4. Ao vedar a cumulação dos adicionais e exigir que o servidor deve optar por um deles, o legislador rondoniense não transbordou os limites constitucionais, pois legislou no exercício do poder legislativo discricionário e no uso da autonomia para dispor sobre o sistema remuneratório do seu servidor público.
+    5. O servidor público do Estado de Rondônia, por expressa vedação legal, não pode cumular adicionais de periculosidade, insalubridade e penosidade (art. 1º, § 4º, da Lei 2.165/2009).
+    6. Em obediência ao princípio de legalidade estrita, não pode o Judiciário ampliar direito não previsto em lei.
+    7. Apelo não provido.” (Doc. 16)
+    Os embargos de declaração opostos foram desprovidos (Doc. 20).
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, III, 7º, XXII e XXIII, e 39, § 3º, da Constituição Federal (Doc. 24).
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário (Doc. 26).
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso (Doc. 28).
+    É o relatório. DECIDO.
+    Ab initio, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie (Leis 1.041/2002 e 2.165/2009 do Estado de Rondônia), cuja análise se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Incide, na espécie, o óbice da Súmula 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário”.
+    Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados: ARE 1.165.754, Rel. Alexandre de Moraes, DJe de 11/10/2018; ARE 1.164.033-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 8/2/2019; e ARE 1.265.082, Rel. Min. Dias Toffoli, DJe de 22/4/2020.
+    A propósito, menciono as lições do professor Roberto Rosas sobre a Súmula 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 138)
+    Por fim, observo que o recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015), ficando suspensa sua exigibilidade, nos termos do artigo 98, § 3º, do referido código.
+    Publique-se.
+    Brasília, 22 de maio de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
