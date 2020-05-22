@@ -1,0 +1,29 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que denegou a ordem no habeas corpus de fundo para manter a prisão preventiva decretada em desfavor de Gabriel Gonçalves da Circuncisão (eDOC 19).
+    A defesa alega que há manifesto excesso de prazo na manutenção da segregação cautelar, cuja tendência é alongar-se ainda mais, motivo pelo qual a decisão embargada contradiz a realidade ao não reconhecê-lo.
+    Ademais, afirma que a recomendação disposta ao final da monocrática, para que o TJSP cumpra a decisão proferida pelo STJ em sede de Recurso Especial com a devida celeridade, contradiz o não reconhecimento do mencionado excesso.
+    Adiante, assevera que a decisão impugnada deságua em omissão, uma vez que os pressupostos autorizadores da preventiva não estão presentes, inexistindo contemporaneidade entre a prisão e os fatos atuais.
+    Aduz, ainda, que as medidas cautelares diversas da prisão poderiam ter sido aplicadas à espécie de maneira satisfatória e conclui que o decisium combatido deixou de analisar a prisão preventiva sob o enfoque do art. 387, § 1º, do CPP, incorrendo em nova omissão.
+    Nesse sentido, pleiteia a correção da decisão embargada, “ainda mesmo que isso venha a implicar na alteração do seu decisum, coerentemente aos efeitos infringentes que a este inconformismo podem ser emprestados” (eDOC 21, p. 10).
+    É o relatório.
+    Passo a decidir.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (artigo 1.022 do NCPC). No presente caso, não verifico a presença de qualquer dos vícios.
+    Tudo o que pretende o embargante é a reforma do julgado, intento para qual não servem os embargos de declaração.
+    A contradição que pretendem ver sanada os embargos de declaração é a que se dá entre os fundamentos da decisão impugnada, que a torna incoerente – e não o se entende por incompatível com a realidade. Quanto ao excesso de prazo, amplamente analisado, consignei o seguinte:
+    “Considerando-se que o ordenamento brasileiro não define prazos específicos para a realização do processo ou da investigação criminal, afirma-se que a adoção da doutrina do não prazo pressupõe a definição judicial de critérios para aferição do excesso. Aponta-se que as Cortes Internacionais (CIDH e TEDH) adotam três parâmetros: a) complexidade do caso; b) atividade processual do interessado (imputado); c) a conduta das autoridades judiciárias (BADARÓ, Gustavo Henrique; LOPES JÚNIOR, Aury. Direito ao processo penal no prazo razoável. Rio de Janeiro: Lumen Juris, 2006. p. 127; FERNANDES, Antonio Scarance. Processo Penal Constitucional. 7ª ed. São Paulo: 2012. p. 127).
+    Nesse sentido, verifico que a hipótese dos autos teve regular tramitação, o que pode ser corroborado pela cronologia das diversas decisões – decorrentes do impulso recursal provocado pela defesa – proferidas, conforme relatei, tendo a marcha processual passado, inclusive, pela via do Recurso Especial, o que culminou no retorno dos autos à origem.
+    Não havendo nada que indique irregular processamento do feito, reputo ausente qualquer constrangimento ilegal a ser reparado, haja vista inexistir demora injustificada que possa ser imposta ao magistrado ou à acusação.” (eDOC 19, p. 8)
+    Do excerto colecionado, fica evidente a inexistência de contradição a ser sanada nesse ponto.
+    Ademais, a recomendação do cumprimento de uma decisão judicial com a devida celeridade não contradiz o não reconhecimento do excesso de prazo. Do contrário, essa é apenas uma forma de endossar a regular tramitação dos atos processuais, já verificada na espécie, objetivando-se sempre entregar a tutela jurisdicional dentro do prazo mais adequado às complexidades do caso concreto.
+    Quanto à omissão a que se refere o Codex processual no dispositivo mencionado, de se ressaltar que esta se consubstancia na não examinação dos fundamentos essenciais invocados pela parte na impetração. Não é o que ocorre no que diz respeito aos pressupostos autorizadores da prisão preventiva. A esse respeito, assentei expressamente:
+    “Assim, da leitura dos trechos acima transcritos, verifico que o decreto prisional encontra-se devidamente fundamentado em dados concretos colhidos dos próprios autos, satisfazendo aos requisitos dispostos no art. 312 do Código de Processo Penal. Harmoniza-se, portanto, a constrição da liberdade do acusado com a jurisprudência do STF.” (eDOC 19, p. 6)
+    A hipótese de aplicação das medidas cautelares diversas da prisão também consta expressamente da decisão impugnada, concluindo-se por sua impossibilidade. Veja-se:
+    “Sublinha-se, também, que o juízo de origem analisou, de maneira idônea, a hipótese de aplicação das medidas cautelares diversas da prisão, concluindo por sua impossibilidade, como já ressaltei, não havendo de se falar em ilegalidade manifesta nesse aspecto.” (eDOC 19, p. 6)
+    Por fim, não merece prosperar a alegação segundo a qual a monocrática deixou de examinar a preventiva à luz do art. 387, § 1º, do CPP.
+    Embora não haja menção expressa ao dispositivo de lei, impossível desconsiderar que, ao longo de toda a fundamentação, ponderaram-se especificamente as razões do decreto preventivo e de sua manutenção pelo juízo sentenciante. Tal conclusão está evidenciada nos termos do decisium, senão vejamos:
+    “Nessa toada, além de não constituir abuso, porque aparada em fundamentação idônea, a manutenção da preventiva não incide em antecipação da execução da pena aplicada (…).” (eDOC 19, p. 6, grifei)
+    Ante o exposto, inexistindo contradição, omissão, obscuridade ou erro material a serem reparados na decisão impugnada, rejeito os embargos.
+    Publique-se.
+    Brasília, 22 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
