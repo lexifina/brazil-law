@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    "APELAÇÃO CÍVEL. USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS DA PRESCRIÇÃO AQUISITIVA ATENDIDOS. MANUTENÇÃO DA SENTENÇA. Não há motivos para rever a sentença que julgou procedente o pedido, tendo em vista que restaram preenchidos os requisitos da prescrição aquisitiva na ação de usucapião extraordinária, quais sejam, posse com animus domini; posse justa (não clandestina, violenta ou precária) e sem oposição; e, o decurso de, pelo menos, 20 anos, ininterruptos, conforme dispõe o Código Civil. Em que pese os argumentos da União, não restou comprovado a devolutividade ou imprescindibilidade da área usucapienda para defesa das fronteiras. Assim, adoto os fundamentos da sentença como razões de decidir, pois analisou de forma irrepreensível todos os argumentos trazidos no apelo" (e-STJ fls. 720/721)”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LV; 20, inciso II e § 2º; 183, § 3º; e 191, parágrafo único, todos da CF.
+    O recurso extraordinário é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 22 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
