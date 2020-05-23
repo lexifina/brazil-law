@@ -1,0 +1,34 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1010305-48.2020.8.11.0000
+AGRAVANTE: ANA MARIA FREITAS ALMEIDA.
+AGRAVADOS: BANCO BRADESCO E OUTRO.
+Processo na Origem n.o 1002741-89.2020.811.0041
+Comarca de Cuiabá.
+Agravo interposto por ANA MARIA FREITAS ALMEIDA de decisão que indeferiu pedido de tutela de urgência.
+AÇÃO: Obrigação de Fazer (Proc. n.o 1002741-89.2020.811.0041) que ANA MARIA FREITAS ALMEIDA move contra BANCO BRADESCO e BRADESCO SEGUROS.
+DECISÃO AGRAVADA: indeferiu o pedido de tutela de urgência por meio da qual a agravante pretendia o imediato restabelecimento do seu plano de saúde, bem como aqueles de seus dependentes (ID 42374486 - Pág. 18 /22).
+AGRAVO: ANA MARIA FREITAS ALMEIDA alega que possui contrato de plano de saúde para si e seus dependentes desde que foi admitida em 01/08/1983 pelo Banco Financial, sucedido pelo Banco Bamerindus, pelo HSBC Bank e, por último pelo Banco Bradesco. Relata que se aposentou em 20/09/2013, porém continuou trabalhando para a empresa agravada até que, em 28/12/2017, aderiu ao PDV – Programa de Demissão Voluntaria, o que correspondeu à sua demissão sem justa causa. Argumenta que, por ocasião de sua demissão (PDV), foi informada pelo banco que o seu plano de saúde seria mantido por 18 meses (até junho de 2019) e que, posteriormente, poderia permanecer no plano nas mesmas condições de cobertura assistencial, porém o lhe foi apresentada tabela de preços com valores muito superiores aos que pagava anteriormente. Sustenta que empregado aposentado e com mais de 10 (dez) anos de vínculo empregatício e contribuição para o plano de saúde, tem direito vitalício à manutenção do plano, com os mesmos direitos e obrigações dos funcionários da ativa, ressalvado, apenas, o fato de que a agravante é quem este responderá pela integralidade do custo do prêmio do seguro. Defende que o fato de ter aderido ao plano de demissão voluntária não altera o direito adquirido por ocasião de sua aposentadoria, conforme se depreende das disposições consumeristas e da legislação de regência. Aduz que se fazem presentes os requisitos para a concessão da tutela de urgência e destaca a reversibilidade da medida e a ausência de prejuízos para a agravada, porquanto ficará com o encargo do pagamento integral do prêmio. Ao final, pugna pela concessão de liminar para conceder a tutela de urgência, de modo a determinar que a agravada restabeleça o plano de saúde da agravante e seus dependentes, em condições iguais às oferecidas aos empregados na ativa, e, no mérito, pugna pelo provimento do recurso para reformar a decisão e ratificar a liminar.
+É o relato.
+Decido.
+A agravante relata que as partes celebraram contrato de prestação de serviços médicos e odontológicos, por ocasião de sua contratação, em 1983, pacto que esteve vigente até o momento em que ocorreu a sua demissão sem justa causa, por ter aderido ao plano de demissão voluntário oferecido pela agravada.
+Esclarece que, segundo a proposta de demissão voluntária, a agravada ofereceu benefícios àqueles que aderissem ao plano, dentre os quais a manutenção do plano de saúde, sem qualquer custo, por um período de 18 meses, ao fim do qual apresentou nova proposta de plano à agravante, com valores diferentes daqueles pagos por seus ex-colegas que continuam na ativa.
+Por esse motivo, promoveu a ação para obter a manutenção do plano de saúde, nas mesmas condições, e formulou pedido de tutela de urgência para que seu plano de saúde e o de seus dependentes fosse imediatamente restabelecido, pleito que restou indeferido.
+Pois bem. Busca a agravante a concessão de liminar para conceder a tutela de urgência, de modo a determinar que a agravada restabeleça o plano de saúde da agravante e seus dependentes, em condições iguais às oferecidas aos empregados da ativa.
+A tutela cujos efeitos se antecipam é aquela que mesmo à luz de um exame sumário, mostra-se marcadamente vocacionada a se tornar definitiva por ocasião do exame da matéria pelo mérito.
+Para a concessão então, constitui ônus de quem a postula demonstrar os requisitos que lhe são próprios, ou seja, a probabilidade do direito e o perigo que resulta, se reservado seu exame apenas para o final.
+Da análise dos documentos apresentados se observa que a agravante teve o seu plano de saúde ativo por todo o período em que prestou serviços ao Banco Bradesco e que sempre pagou a sua contribuição no valor do prêmio, já descontada de sua conta corrente, desde que trabalhava para os empregadores sucedidos e também durante todo o período em que prestou serviços a esta última empregadora, a empresa agravada (ID 42374483 - Pág. 4 a 42374486 - Pág. 6), o que totaliza um período de 35 anos, ou seja, período bem maior que 10 anos consecutivos exigidos pela lei de regência.
+Também não há dúvidas de que lhe foi concedido o benefício da aposentadoria em 20/09/2013 (ID 42374478 - Pág. 13), o que, nos termos do art. 31 da Lei 9.656/98, permite que continue como beneficiário do plano por tempo indeterminado.
+Nesse sentido:
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER – PLANO DE SAÚDE – APOSENTADORIA – MANUTENÇÃO DO CONTRATO – POSSIBILIDADE – RECURSO IMPROVIDO SENTENÇA MANTIDA.
+Os planos de saúde estão submetidos às disposições do Código de Defesa do Consumidor, enquanto relação de consumo atinente ao mercado de prestação de serviços médicos. Isto é o que se extrai da interpretação literal do art. 35 da Lei 9.656/98. Súmula n. 469 do STJ. No caso em exame, busca o demandante a sua manutenção como beneficiário do plano de saúde contratado pelo seu empregador, por tempo indeterminado, nos termos do artigo 31 da Lei 9.656/98.
+Restando incontroverso que o autor contribuiu para o plano de saúde coletivo por mais de dez anos, tem, assim o direito de ser incluído mantido como beneficiário do contrato firmado pela sua ex-empregadora em benefício de seus empregados”. (N.U 0042736-73.2013.8.11.0041, , SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 05/12/2017, Publicado no DJE 11/12/2017)
+Resta, assim, demonstrada a probabilidade do direito da agravante.
+No caso, deve ainda prevalecer a proteção da vida, da saúde e da dignidade dos beneficiários do plano de saúde celebrado com a agravada, que se encontram privados do atendimento desde a suspensão do plano em junho de 2019.
+Principalmente porque, é maior o risco da agravante e sua família ficarem sem a cobertura de serviços médicos e hospitalares, do que da operadora do plano de saúde, que continuará a receber integralmente as mensalidades.
+Posto isso, concedem-se os efeitos da tutela recursal pleiteada para determinar que as empresas agravadas mantenham em atividade o plano de saúde da agravante e seus dependentes, até o julgamento do presente recurso.
+Intime-se a agravada para oferecimento da contraminuta.
+Cuiabá, 22 de maio de 2020.
+Des. Guiomar Teodoro Borges.
+Relator
