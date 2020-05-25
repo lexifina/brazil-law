@@ -1,0 +1,44 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+TURMA RECURSAL ÚNICA
+
+Número Único
+:
+
+1006358-54.2018.8.11.0000
+Classe:
+
+RECURSO INOMINADO (460)
+Assunto:
+
+[Fornecimento de Medicamentos]
+Relator:
+Des(a).
+SEBASTIAO DE ARRUDA ALMEIDA
+
+Turma Julgadora:
+
+[DES(A). SEBASTIAO DE ARRUDA ALMEIDA, DES(A). GONCALO ANTUNES DE BARROS NETO, DES(A). MARCELO SEBASTIAO PRADO DE MORAES]
+
+Parte(s):
+
+[MUNICIPIO DE CUIABÁ - CNPJ: 03.533.064/0001-46 (RECORRENTE), MATHEUS MEDEIROS BANDEIRA DE OLIVEIRA (RECORRIDO), MPEMT - CUIABÁ - INFÂNCIA (RECORRIDO), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO (CUSTOS LEGIS), ESTADO DE MATO GROSSO - CNPJ: 03.507.415/0003-06 (RECORRIDO), M. M. B. D. O. (TERCEIRO INTERESSADO), MPEMT - CUIABÁ - JUIZADO ESPECIAL (CUSTOS LEGIS)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a TURMA RECURSAL ÚNICA do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+SEBASTIAO DE ARRUDA ALMEIDA, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE CONHECEU DO RECURSO E NEGOU-LHE PROVIMENTO. O REPRESENTANTE DO MINISTÉRIO PÚBLICO, DR. ALMIR TADEU DE ARRUDA GUIMARÃES: Ratificou o parecer em sessão de julgamento.
+
+E M E N T A
+
+EMENTA:
+
+DECISÃO QUE DETERMINOU O FORNECIMENTO DE MEDICAMENTO – MEDICAMENTO INCLUIDO NA LISTA DO SUS – RESPONSABILIDADE CIVIL EVIDENCIADA – URGÊNCIA E HIPOSSUFICIÊNCIA – CARACTERIZADA – CORRETO DEFERIMENTO DA TUTELA ANTECIPADA – RECURSO CONHECIDO E DESPROVIDO.
+
+Existindo risco de prejuízos irreparáveis à parte agravada, ante a necessidade de urgência no procedimento, deve ser mantida a decisão que concedeu a tutela antecipada para compelir o ente público a fornecer o medicamento essencial à saúde.
+
+Data da sessão:
+Cuiabá-MT, 25/05/2020
