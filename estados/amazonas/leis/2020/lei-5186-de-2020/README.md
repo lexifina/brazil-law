@@ -1,0 +1,5 @@
+# Lei nº 5.186, de 25 de maio de 2020, do Estado do Amazonas
+
+ALTERA DISPOSITIVOS DA LEI N. 4.790, DE 27 DE FEVEREIRO DE 2019, QUE “DISPÕE SOBRE AS MEDIDAS A SEREM ADOTADAS PARA IDENTIFICAR, ACOMPANHAR E AUXILIAR O ALUNO COM TRANSTORNO DO DÉFICIT DE ATENÇÃO E HIPERATIVIDADE – TDAH E/OU DISLEXIA NA REDE PÚBLICA E PRIVADA DE ENSINO DO ESTADO DO AMAZONAS E DÁ OUTRAS PROVIDÊNCIAS”.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10945>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2020/10945/5186.pdf>
