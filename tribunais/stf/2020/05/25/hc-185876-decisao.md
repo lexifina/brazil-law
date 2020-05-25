@@ -1,0 +1,25 @@
+DECISÃO:
+Ementa: Processual Penal. Habeas Corpus. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 579.803/SP.
+    2. Extrai-se dos autos que, 09.09.2019, o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/06 (628g de maconha). A prisão em flagrante foi convertida em preventiva.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio impetração de HC no Superior Tribunal de Justiça (HC 579.803/SP). A Presidência da Corte Superior indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, excesso de prazo, sob o fundamento de que o paciente se encontra preso há 9 meses e “sequer foi interrogado”. Ademais, aponta a ausência de fundamentos da prisão preventiva e que “a quantidade [de droga] apreendida pode perfeitamente consubstanciar a conduta prevista no artigo 28 da Lei nº. 11.343/06 - hipótese na qual sequer se pode cogitar a manutenção da custódia”.
+    5. A defesa requer seja concedido “ao paciente o direito de responder o processo em liberdade, aplicando-se as medidas previstas no artigo 282 do Código de Processo Penal”.
+    6. Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. As teses desenvolvidas na impetração não foram decididas pelas instâncias de origem (TJSP e STJ). Fato que impede a imediata análise da questão pelo STF, sob pena de dupla supressão de instâncias.
+    10. As peças que instruem o processo não evidenciam ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Dou especial importância ao fundamento utilizado pelo Juízo de origem que, ao decidir pela manutenção da custódia cautelar do acionante, destacou a “existência de risco real de reiteração criminosa [...], uma vez se tratar de réu reincidente” (e-doc. 6).
+    11. Ademais, pontuo que o STF já decidiu que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). Na hipótese de que se trata, não há comprovação de desídia ou de injustificada demora por parte do Poder Judiciário que autorize o pronto acolhimento da pretensão defensiva. Transcrevo, nesse sentido, as seguintes passagens da decisão que, em 07.05.2020, entendeu pela manutenção da prisão preventiva do paciente:
+    “[...] ao contrário do aventado pela defesa, a instrução processual já se encontra iniciada, apenas não tendo encerrado dada a necessidade de oitiva de testemunha arrolada em comum pelas partes por meio de carta precatória, cuja audiência foi redesignada para 16 de junho de 2020 em razão da situação pandêmica enfrentada a nível mundial, atingindo, portanto, a todos indistintamente.
+    Em arremate, verifico que o interrogatório do réu também foi deprecado, sendo informado ao juízo a redesignação da sobredita audiência por meio do ofício de fls. 143.
+    [...]”
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 25 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
