@@ -1,0 +1,25 @@
+Vistos, etc.
+Agravo de Instrumento interposto por LUIZ SOARES DA SILVA contra decisão proferida nos autos da Ação Declaratória de Nulidade de Contrato de Empréstimo c/c Repetição de Indébito c/c Danos Morais de no o 10077177-11.2020.8.11.0003, em tramitação na 2a Vara Cível da Comarca de Rondonópolis que indeferiu o pedido de antecipação de tutela, de abstenção do agravado de efetuar descontos mensais no benefício previdenciário do consumidor, enquanto perdurar a demanda.
+Explica a agravante que tem 75 (setenta e cinco) anos de idade e é aposentado por invalidez perante o INSS, sendo a aposentadoria percebida sua singular fonte de renda mensal.
+Aduz que o Agravante nunca realizou qualquer empréstimo junto ao Banco Agravado, sendo que os valores atualmente descontados mediante folha de pagamento do benefício previdenciário por invalidez que percebe mensalmente estão sendo realizados de forma ilícita.
+Ocorre que o Agravado alega que o Agravante havia adquirido um cartão magnético consignado que autorizava aquele a descontar essa reserva de margem consignável todo mês em seu benefício previdenciário, com limite de R$ 1.089,00 e margem para desconto de R$ 43,56.
+Assevera que procurou o PROCON e, em resposta o Banco Agravado nada esclareceu.
+Neste cenário, defende que a probabilidade do direito é exatamente a impugnação a dívida; no tange a urgência, assevera que está havendo diminuição da capacidade aquisitiva. Lado outro, “possível dano causado ao Banco Agravado é proporcionalmente inferior ao severamente imposto àquele que carece dos valores percebidos à título de benefício.”
+Adiante argumenta: “No mais, em que pese o douto magistrado tenha argumentado que não há urgência no pedido, eis que os valores discutidos estão sendo descontados há cerca de 5 (cinco) anos, fato é Excelência, que não se trata de um dano que ocorreu há 05 (cinco) anos, mas sim de um dano que se consuma a cada mês, eis que se tratam de descontos que vêm sendo realizados mês a mês. Logo, apesar dele estar se consumando há 05 (cinco) anos, não se pode afastar a urgência e relevância do pedido, uma vez que se não houver a cessação desses descontos que agora estão impugnados, eles continuarão a ocorrer nos próximos meses, sendo que a cada mês o dano se renova e se agrava, à medida que ele sofre uma majoração, já que remonta aquilo que ele já descontou no passado com aquilo que o Agravado está descontando mês a mês e virá a descontar durante o curso dessa ação, acaso o mesmo não seja proibido de assim fazê-lo.”
+Liminarmente requer a antecipação da tutela, determinando-se que o Agravado se abstenha de efetuar descontos mensais no benefício previdenciário do consumidor, enquanto perdurar a demanda, sob pena de pagamento de multa diária que desde já requer seja fixada em valor não inferir a R$ 500,00 por dia de descumprimento, a fim de que a medida atinja sua finalidade coercitiva.
+É o relatório.
+DECIDO.
+Para concessão do efeito requerido, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do Novo Diploma Processual.
+Malgrados as alegações do agravante, os fundamentos da r. decisão são consistentes, inclusive de possibilidade de reanálise após o contraditório, vejamos:
+“Dos autos nota-se, todavia, que o débito em questão data de meados de 2015 (ID. 31495429 - Pág. 1), ou seja, há, aproximadamente, 05 (cinco) anos.
+A dilação temporal entre o ocorrido e o presente pedido, por si só, já afasta o segundo requisito necessário à concessão de uma tutela de urgência, ou seja, o perigo de dano ou o risco ao resultado útil do processo.
+Entendo, portanto, por prematura a concessão da Tutela Antecipatória nos moldes pleiteados pelo autor, sem que antes seja oportunizado prévio esclarecimento pela parte contrária.
+Considero que os elementos de convicção apresentados no presente momento processual pelo requerente não denotam o perigo de dano ou risco ao resultado útil do processo, a ponto de suprimir o contraditório e o direito de defesa do réu .
+Consigno que, com a perfectibilização do contraditório e a instrução processual, terei maiores elementos para análise da controvérsia encetada na espécie. Deste modo, prudente que se aguarde a angularização do feito, sendo oportuno ressaltar também que a tutela de urgência pode ser reexaminada em qualquer fase do processo.”
+Embora a parte alegue que o débito foi contestado no PROCON não faz juntada do documento a fim de amparar suas pretensões; além disso, causa estranheza somente após cinco anos o agravante que está sendo descontados valores da sua aposentadoria e somente agora a situação causar diminuição da capacidade aquisitiva.
+Ante o exposto, por ora, INDEFIRO O EFEITO pretendido.
+Concedo Justiça Gratuita também nesta Instância.
+Intime-se, a parte agravada para, querendo, apresentar contrarrazões.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
