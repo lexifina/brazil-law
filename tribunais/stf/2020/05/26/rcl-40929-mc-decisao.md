@@ -1,0 +1,34 @@
+Decisão: Trata-se de reclamação constitucional com pedido de medida liminar, proposta por DACASA Financeira S/A, em face de acórdão proferido pelo Tribunal Regional do Trabalho da 5ª Região, nos autos do Processo 0010432-15.2015.5.05.0511.
+    Na petição inicial, alega-se, em síntese, que a decisão reclamada teria incorrido em ofensa ao decidido no julgamento da ADPF 324 e à Súmula Vinculante 10, ao reconhecer a ilicitude da terceirização.
+    Relata que o Tribunal reclamado reconheceu a ilicitude da terceirização da atividade-fim e o vínculo empregatício diretamente com o tomador dos serviços.
+    Requer assim a concessão de liminar para a suspensão dos efeitos do acórdão reclamado e, ao final, sua cassação.
+    É o breve relatório.
+    Passo à análise do pedido liminar.
+    A reclamação, tal como prevista no art. 102, I, l , da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    Na espécie, o Tribunal reclamado decidiu pela ilicitude da terceirização da atividade-fim, nos seguintes termos:
+    “Esclareço, inicialmente, que, não obstante tenha verificado que a discussão a ser analisada nestes autos envolve o instituto da terceirização de serviços, e muito embora o referido tema tenha sido regulamentado pela Lei nº 13.429 de 2017 e pela Reforma Trabalhista, entendo que a matéria ora analisada não será apreciada sob o enfoque dos mencionados diplomas legais, uma vez que estes somente passaram a viger, respectivamente, em 31 de março de 2017 e em 11 de novembro de 2017, ao passo que a lide em apreço envolve relação jurídica que se findou na data de 03.11.2014.
+    (…)
+    Feitas tais considerações, da análise do conjunto probatório produzido neste feito extraio que a Reclamante foi contratada pela 1ª Reclamada, Promov - Sistema de Vendas e Serviços Ltda., para desempenhar atividades inerentes à função de atendente e, posteriormente, de atendente comercial, prestando serviços diretamente em prol da 2ª Reclamada (DACASA), e que, de fato, exercia atividades inerentes à atividade-fim desta.
+    Explico.
+    Verifico que a Autora declarou, naquela oportunidade, que prestava serviços diretamente ligados à atividade-fim da 2a Ré, ‘atuando sempre diretamente nas operações de financiamento, atendendo clientes, analisando crédito, liberando crédito, entregando numerário ao cliente e às empresas de segurança (Doc. 04), fazendo cobrança e acordo com clientes inadimplentes, além de outras atividades relacionadas aos negócios propriamente ditos da Segunda Reclamada, empréstimos pessoais’ (destaques no original, cf. ID f819e7d, pág. 3).
+    (...)
+    Ora, considerando que não há nenhuma controvérsia sobre a atividade financeira desenvolvida pela empresa DACASA, as quais não divergem do quanto estabelecido no art. 17 da Lei nº 4.595/64, está patente que as atividades laborais da Autora estavam diretamente ligadas à atividade-fim da referida empresa tomadora, sendo a terceirização, nesta hipótese, ilícita, nos termos do item III da Súmula nº. 331 do TST, razão por que irrelevante perquirir, por conta disso, se os serviços foram prestados com pessoalidade e com subordinação.
+    Com efeito, observo que a prova da pessoalidade e da subordinação na prestação dos serviços somente seria necessária se o labor desempenhado pela Reclamante estivesse relacionado à atividade-meio da tomadora, tal como se evidencia do entendimento sumulado pelo C. TST, item III, o que, contudo, não se configura no caso dos autos.
+    Dúvida não há, portanto, de que as atividades desenvolvidas pela Obreira eram essenciais às operações da 2ª Reclamada e, por isso mesmo, estavam atreladas à sua própria essência.
+    Registro, por oportuno, que a matéria em apreço já foi tratada por esta eg. Turma de Julgamento nos autos do processo nº. 0010048-74.2014.5.05.0612RecOrd, cuja Relatoria coube à Exma. Desembargadora Margareth Rodrigues Costa, publicado no DJ do dia 23/05/2018, em que as ora Demandadas também figuraram como partes.
+    Assim, provada a ilicitude da terceirização, reformo a r. sentença, no particular, para reconhecer o vínculo de emprego da Reclamante diretamente com a 2ª Reclamada, DACASA, bem como condenar a 1ª Reclamada, PROMOV, de forma solidária, com base no quanto disposto no parágrafo único do art. 942 do Código Civil vigente”. (eDOC 4, p. 14-5)
+    Todavia, verifico que a controvérsia corresponde ao objeto da ADPF 324 e do RE-RG 958.252, Rel. Min. Luiz Fux, tema 725 da sistemática da repercussão geral, no qual se reconheceu a inconstitucionalidade do critério de distinção entre atividade-meio e atividade-fim para fins de definição da licitude ou ilicitude da terceirização, afastando a incidência da interpretação conferida pelo TST à Súmula 331 daquele Tribunal, estabelecendo-se tese, nos seguintes termos:
+    “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada.
+    2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+    Desse modo, em primeiro juízo, entendo que o Tribunal reclamado, ao considerar ilícita a terceirização de atividades inerentes ao serviço concedido, violou a autoridade da decisão proferida por esta Corte na ADPF 324.
+    Nesse sentido, cito as seguintes decisões: Rcl-MC 35.884, Rel. Min. Edson Fachin, DJe 12.8.2019; Rcl 34.874, Rel. Min. Luiz Fux, DJe 4.9.2019; Rcl 38119, Rel. Min. Alexandre de Moraes, DJe 4.12.2019; Rcl 37.828, Rel. Min. Ricardo Lewandowski, DJe 26.11.2019.
+    Ante o exposto, reservando-me o direito a exame mais detido da controvérsia por ocasião do julgamento do mérito, presentes os pressupostos de periculum in mora e fumus boni iuris, defiro o pedido de liminar para determinar a suspensão do Processo 0010432-15.2015.5.05.0511, até a decisão final da presente reclamação.
+    Solicitem-se informações à autoridade reclamada (art. 989, I, NCPC).
+    Citem-se os interessados. (art. 989, III, NCPC)
+    Intime-se, se necessário, o reclamante para que forneça o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+    Após, abra-se vista à Procuradoria-Geral da República. (art. 991, NCPC)
+    Publique-se.
+    Brasília, 26 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
