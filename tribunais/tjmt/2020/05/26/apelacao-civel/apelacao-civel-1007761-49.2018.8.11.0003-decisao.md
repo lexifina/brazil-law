@@ -1,0 +1,115 @@
+SEGUNDA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No 1007761-49.2018.8.11.0003 – RONDONÓPOLIS/MT
+APELANTE: EDSON ESTEVÃO REY MOLINA
+APELADA: CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Trata-se de recurso de apelação cível interposto por EDSON ESTEVÃO REY MOLINA contra a sentença que julgou improcedente a Ação de Nulidade de Ato Jurídico por Falta de Notificação c/c Danos Morais no 1007761-49.2018.8.11.0003 ajuizada em face de CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS (SPC BRASIL). Ao final, condenou o autor ao pagamento de custas processuais e honorários advocatícios arbitrados em R$ 1.000,00 (mil reais), nos termos do artigo 85, §8o, do CPC/15, observando-se que o demandante é beneficiário da assistência judiciária gratuita.
+Inicialmente, o apelante requer a manutenção da concessão dos benefícios da justiça gratuita, diante da sua hipossuficiência já comprovada nos autos.
+Em suas razões recursais, o recorrente sustenta que teve seu nome negativado, incluso no banco de dados da parte requerida como mal pagador, sem que tenha sido previamente notificado, configurando ato ilícito da recorrida.
+Defende a ausência de notificação válida, afirmando que o simples fato de a recorrida alegar que agiu em exercício regular do direito na condição de “arquivista” e mera mantenedora dos registros, não lhe cabendo averiguar eventual invalidade, inexistência ou inexigibilidade da dívida noticiada pelo estabelecimento credor não retira a obrigação em cumprir a notificação prévia, nos termos do artigo 43, §2o, do Código de Defesa do Consumidor, bem como de ser responsabilizada pela falha na prestação dos serviços, ante a responsabilidade objetiva e solidária (artigo 14 do CDC).
+Consigna que os documentos apresentados pela defesa como suposta notificação foram prontamente impugnados por serem unilaterais e inidôneos.
+Salienta que o endereço onde sempre residiu é situado na Rua Ormindo Pires de Amorim, no 867, Vila Mariana, em Rondonópolis/MT, CEP: 78714-265, já o endereço para envio da suposta notificação é na Rua Jussara, no 416, Parque Residencial, Cidade Alta, Rondonópolis/MT, CEP: 78730-434.
+Ressalta sobre a necessidade de se aplicar a inversão do ônus da prova, destacando ser evidente que não há comprovação de que a correspondência relativa à anotação existente em nome da parte autora tenha sido remetida dentre as milhares postadas nos correios, infringindo o disposto na Súmula no 359 do STJ.
+Por fim, prequestiona a matéria, pugna pelo provimento do recurso e pela reforma da sentença, a fim de julgar a ação procedente, declarando nulo o ato jurídico, postulando pela retirada do seu nome dos órgãos de proteção ao crédito e seja a parte adversa condenada em indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais).
+Ao apresentar as contrarrazões, a parte apelada suscita sua ilegitimidade passiva e, no mérito, requer o desprovimento do recurso (ID no 40450461).
+É o relatório.
+Decido.
+Trata-se de questão consolidada neste Tribunal e no Superior Tribunal de Justiça, razão pela qual passo a decidir de forma monocrática.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM
+Em suas contrarrazões, a requerida/apelada suscita a presente preliminar, sob o argumento de que os registros questionados não foram lançados no banco de dados da entidade demandada, mas, sim, foram registrados no cadastro da CDL VÁRZEA GRANDE - MT. A referida informação foi retransmitida aos demais bancos de dados de proteção ao crédito do Brasil, mas apenas para efeito de consulta.
+Ressalta que a legitimidade passiva somente existe em relação à instituição que recebeu o registro.
+Afirma que a organização de bancos de dados de crédito não é um sistema em que existe monopólio, ou seja, existem diversas instituições que buscam atuar no segmento não existindo grupo econômico e muito menos unicidade na prestação do referido serviço.
+Ao final, requer o reconhecimento da ilegitimidade passiva, vez que a entidade registradora foi plenamente identificada e por consequência é a única que pode atuar com ampla defesa.
+Todavia, não merece prosperar tal pretensão.
+Sobre o tema, o Superior Tribunal de Justiça já se manifestou em recurso repetitivo que os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos. Confira-se:
+“Direito processual civil e bancário. Recurso especial. Ação de compensação por danos morais. Inscrição em cadastro de proteção ao crédito sem prévia notificação. Legitimidade passiva do órgão mantenedor do cadastro restritivo. Dano moral reconhecido, salvo quando já existente inscrição desabonadora regularmente realizada, tal como ocorre na hipótese dos autos.
+I- Julgamento com efeitos do art. 543-C, § 7o, do CPC.
+- Orientação 1: Os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidades diversas.
+[...]
+II- Julgamento do recurso representativo.
+- É ilegal e sempre deve ser cancelada a inscrição do nome do devedor em cadastros de proteção ao crédito realizada sem a prévia notificação exigida pelo art. 43, § 2o, do CDC.
+- Não se conhece do recurso especial quando o entendimento firmado no acórdão recorrido se ajusta ao posicionamento do STJ quanto ao tema. Súmula n.o 83/STJ.
+Recurso especial parcialmente conhecido e, nesta parte, provido para determinar o cancelamento da inscrição do nome do recorrente realizada sem prévia notificação.
+Ônus sucumbenciais redistribuídos.” (STJ, SEGUNDA SEÇÃO, REsp no 1061134/RS, Rel. Ministra NANCY ANDRIGHI, j. em 10/12/2008, DJe 01/04/2009) (g.n.).
+Nesse sentido, o seguinte julgado:
+“[...]’... Os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidades diversas. (REsp 1061134/RS). 2- Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição (STJ, Súmula 359). 3- Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento (STJ, Súmula 385).’ (TJMG – Apelação Cível n. 1.0079.15.010908-4/001 – Relator: Des. José Flávio de Almeida – julgado em 07/6/2017 – publicado em 13/6/2017) [...]” (TJMT, 1a CÂMARA DE DIREITO PRIVADO, RAC no 27691/2017, Relator DES. SEBASTIÃO BARBOSA FARIAS, j. em 25/07/2017, DJE 31/07/2017) (g.n.).
+No caso em tela, evidente que a requerida/recorrida possui legitimidade para figurar no polo passivo desta ação, conforme bem fundamentado na sentença, in verbis:
+“[...] No caso dos autos, apesar da arguição que o apontamento, objeto da lide, foi registrado pela associada CDL Várzea Grande MT, tem-se que a demandada é parte legítima para figurar no polo passivo da demanda, em razão da tese firmada pelo c. STJ no Recurso Especial Repetitivo no 1.061.134/RS, tendo assim se posicionado:
+‘Os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidade diversas.’[...]
+Dessa forma, rejeito a preliminar arguida.” (ID no 40450455) (g.n.).
+Portanto, rejeito a preliminar suscitada.
+MÉRITO
+EDSON ESTEVÃO REY MOLINA ajuizou a Ação de Nulidade de Ato Jurídico por Falta de Notificação c/c Danos Morais no 1007761-49.2018.8.11.0003 em face de SPC/BRASIL – SERVIÇO DE PROTEÇÃO AO CRÉDITO, aduzindo, em suma, que teve seu nome incluído no banco de dados da parte requerida, sem ser previamente notificado.
+Informou que teve crédito negado por ação ilícita cometida pela requerida, a qual lançou restrição em seu nome, sem a notificação prévia obrigatória prevista no CDC, cuja suposta dívida seria referente aos débitos em nome do suposto credor:
+CREDOR: FAB MÓVEIS
+ORIGEM: CDL- VÁRZEA GRANDE-MT
+DATA DE VENCIMENTO: 10/04/2015
+DATA DA INCLUSÃO: 19/06/2018
+TIPO: COMPRADOR
+NÚMERO DO CONTRATO: 69138
+VALOR: R$ 488,00
+Asseverou que tal lançamento foi indevido e ilícito, sendo que não deve nada à suposta credora e teve abalo no crédito.
+Ao final, requereu a procedência da ação, os benefícios da justiça gratuita, a inversão do ônus da prova, a retirada do seu nome dos cadastros de inadimplentes, a declaração de nulidade do ato jurídico por falta de notificação prévia. Ainda, postulou pela condenação da requerida ao pagamento de indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais), devidamente corrigido.
+A douta magistrada singular Dra. Milene Aparecida Pereira Beltramini julgou improcedente a ação, consoante relato já exposto.
+Contra a referida sentença foi interposto o presente recurso pela parte autora.
+Pois bem.
+Sobre o tema, cabe destacar que o §2o do artigo 43 do Código de Defesa do Consumidor, não deixa dúvida acerca da obrigatoriedade da prévia notificação ao consumidor acerca da abertura de registro negativo em seu nome, senão vejamos:
+“Art. 43 [...]
+§2o - A abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele.”.
+Com efeito, referida matéria já se encontra sumulada pelo STJ:
+Súmula 359: “Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição” (Destaquei).
+O objetivo fundamental da norma é justamente oportunizar ao consumidor o acesso às informações arquivadas em bancos de dados de restrição ao crédito, para evitar registros indevidos, possibilitar a retificação de dados e, até mesmo o pagamento da dívida, evitando-se, com isso, situações vexatórias e constrangimentos decorrentes de eventuais equívocos.
+No caso, extrai-se dos autos que, ao ingressar com a ação, para comprovar as alegações formuladas na sua petição inicial, o autor/apelante juntou cópia de um comprovante de endereço – Rua Ormindo Pires de Amorim, no 867, Vila Mariana, CEP: 78714-265, Rondonópolis/MT –, em nome de SEBASTIÃO LEVINO DE OLIVEIRA (ID no 40445987).
+Juntou também uma “Declaração de Moradia” assinada por SEBASTIÃO LEVINO DE OLIVEIRA, declarando para fins de comprovante de residência que o autor reside no endereço – Rua Ormindo Pires de Amorim, no 867, Vila Mariana, CEP: 78714-265 – por ser seu inquilino; contudo, não há juntada de contrato de aluguel.
+Ainda, o autor acostou aos autos cópia dos seus documentos pessoais e comprovante de renda (ID no 40445988), o comprovante da negativação do seu nome (ID no 40445989), em que consta como credor FAB MÓVEIS, contrato no 69138, data da inclusão em 19/06/2018. Não há qualquer comprovação de ajuizamento de ação contra o suposto credor FAB MÓVEIS, a fim de questionar o débito vencido em 30/04/2015, no valor de R$ 488,00 (quatrocentos e oitenta e oito reais).
+In casu, inconteste a aplicação do Código de Defesa do Consumidor, sendo aplicável o artigo 6o, VIII, do CDC.
+Ainda, sobre o ônus da prova, o Código de Processo Civil estabelece em seu artigo 373, incisos I e II, que cabe ao autor comprovar o fato constitutivo de seu direito e ao réu apresentar provas hábeis a demonstrar fato impeditivo, modificativo ou extintivo do direito do autor, in verbis:
+“Art. 373. O ônus da prova incumbe:
+I - ao autor, quanto ao fato constitutivo de seu direito;
+II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.”.
+Diante do conjunto probatório dos autos, observa-se que o requerente/apelante não se desincumbiu do ônus de comprovar os fatos noticiados na petição inicial em relação ao seu real endereço – não trazendo nenhum comprovante de endereço em seu próprio nome ou documento apto/idôneo, pois, ainda que se aplique o Código de Defesa do Consumidor na relação de consumo, é certo que o autor deve trazer o mínimo de prova para comprovar as suas alegações.
+Nesse sentido:
+“[...] A teor do art. 333, I, do CPC, é da parte autora o ônus da prova quanto ao fato constitutivo do seu direito. E, mesmo que se considere como sendo de consumo a relação em discussão, a ser amparada pelo Código de Defesa do Consumidor, o fato é que a inversão do ônus da prova em benefício do consumidor somente deve ser determinada, quando, a critério do juiz, for verossímil a alegação ou quando for ele - o consumidor - hipossuficiente (art. 6o, VIII do CDC). [...]. Apelação improvida.” (TRF-5, 1a Turma, RAC no 433239 PB 2007.82.01.001686-0, Relator: Desembargador Federal José Maria Lucena, j. em 29/05/2008) (g.n.).
+Por sua vez, consoante o artigo 373, II, do CPC/15, tem-se dos autos que a parte requerida comprovou ter realizado a notificação prévia ao autor sobre a inclusão do seu nome no cadastro de inadimplentes no endereço fornecido pelo credor, desconstituindo assim as alegações trazidas na petição inicial e nas razões recursais.
+Com essas considerações, mostra-se acertada a sentença que julgou improcedente a ação, sob o seguinte fundamento:
+“[...] Observa-se dos autos que o requerente teve seu nome negativado no banco de dados da requerida, por débito oriundo da empresa FAB Móveis. A controvérsia situa-se na suposta violação ao artigo 43, parágrafo 2o, da Lei 8.078/90, vez que o demandante não foi comunicado acerca da inclusão de seu nome em banco de dados mantido pela demandada.
+Conforme o disposto no art. 43, § 2o, do CDC, os órgãos mantenedores de cadastro de proteção ao crédito, quando da abertura de registro relativamente a um determinado consumidor, têm o dever de comunicá-lo sobre tal apontamento, oportunizando o oferecimento de impugnação com vistas a evitar as inscrições indevidas.
+O contato repetitivo com ações semelhantes a estas, nas quais se discute o dano moral ante a ausência de notificação da devedora, passou a reclamar mais reflexão e rigor.
+Num primeiro momento, o posicionando adotado no sentido de que o órgão administrador do cadastro de proteção ao crédito tinha o dever de indenizar ao devedor, nos casos em que não fazia prova efetiva da notificação exigida pelo art. 43, § 2o, do CDC.
+Porém, diante da verdadeira indústria de pedidos indenizatórios, é visível que os devedores estão se agarrando em uma formalidade legal para beneficiarem-se pecuniariamente, auferindo indevidas indenizações.
+A exigência legal da notificação vem sendo invocada de forma deturpada para justificar alegados danos morais que na prática, não existem.
+A falta de notificação prévia do devedor, tendo ele ou não outros apontamentos em seu nome, mesmo que ele negue a existência da dívida que gerou a inscrição, por si só, não tem o condão de gerar dano moral passível de reparação. Pelo menos em relação ao mantenedor do cadastro. Isso porque não há como debater nestes autos se o apontamento negativo é devido ou não, já que a mantenedora do cadastro não tem nenhuma informação acerca do respectivo débito.
+Se o apontamento for legítimo, do ponto de vista da existência efetiva e confessada da inadimplência, ou seja, se o apontamento for resultado do exercício regular do direito da credora, a indenização deferida por ausência de notificação apenas torna-se um prêmio para àquele que não cumpre pontualmente com suas obrigações.
+Por outro lado, se o apontamento for ilegítimo, também do ponto de vista da efetiva inadimplência, tal discussão deve ser travada junto a credora, única que tem condições de defender a legitimidade da sua conduta.
+O descumprimento do dispositivo legal consumerista (art. 43, § 2o) pode, no máximo, considerando cada caso concreto, gerar a exclusão da inscrição, até que a notificação regular tenha sido cumprida.
+In casu, não é necessário sequer chegar à análise do dano moral já que nem mesmo o ato ilícito existiu. É que, pelos documentos juntados aos autos, a mantenedora comprovou que houve a comunicação ao demandante no endereço declinado pela associada (Num. 19010370).
+Importa destacar que o Código Consumerista não exige seja comprovado o recebimento da correspondência pelo próprio destinatário. Basta o envio da comunicação, independentemente de aviso de recebimento ao endereço residencial do consumidor para que reste cumprida a determinação contida no art. 43 § 2o do Código de Defesa do Consumidor. [...]
+Esse entendimento encontra sumulado pelo c. STJ, vejamos:
+‘Súmula 404 – É dispensável o Aviso de Recebimento (AR) na carta de comunicação ao consumidor sobre a negativação de seu nome em bancos de dados e cadastros.’
+A ré atua apenas repassando informações fornecidas pelos supostos credores, não podendo ela ser responsabilizada pela verificação de seu conteúdo.
+O dever que lhe é atribuído é apenas o de envio da notificação ao devedor cujo nome está para ser inscrito no cadastro de inadimplentes, com os dados fornecidos pelos credores, não cabendo ao arquivista a responsabilidade pela atualização do endereço e tampouco a verificação se o mesmo está ou não correto. [...]” (ID no 40450455) (g.n.).
+Deveras, verifica-se dos autos, em especial do Comunicado/Carta de Notificação de Registro (ID no 40445999), que a apelada comprovou de forma clara a notificação/comunicação do autor acerca do registro da inclusão do seu nome nos órgãos de restrição ao crédito, em razão de débito vencido em 30/04/2015, no valor de R$ 488,00 (quatrocentos e oitenta e oito reais), com data de postagem em 08/06/2018, no endereço fornecido pelo credor “RUA JUSSARA, 416 PARQUE RESIDENCIAL CIDADE ALTA RONDONOPOLIS - MT 78730434”.
+No ID no 40445989, observa-se que a inclusão do nome do autor no cadastro de inadimplentes ocorreu em 19/06/2018; logo, resta comprovada a prévia notificação do requerente/apelante, nos termos do artigo 43, §2o, do Código de Defesa do Consumidor.
+Desta feita, tem-se que a requerida/apelada cumpriu a obrigação que lhe competia, não havendo falar-se em indenização por danos morais.
+Nesse contexto, trago posicionamento do Superior Tribunal de Justiça, in verbis:
+“AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO PARA SUBIDA DE RECURSO ESPECIAL. INCLUSÃO DO NOME DA AUTORA EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. SERASA. COMUNICAÇÃO PRÉVIA EFETIVADA COM BASE NO ENDEREÇO CONSTANTE NO CONTRATO. DISPENSA DE COMPROVAÇÃO POR AVISO DE RECEBIMENTO. INTELIGÊNCIA DA SÚMULA 83⁄STJ. RECURSO QUE NÃO LOGRA INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. IMPROVIMENTO.
+I - A orientação iterativa nesta Corte é a de que cabe aos bancos de dados e cadastros de inadimplentes apenas a anotação das informações passadas pelos credores, não sendo de sua alçada a confirmação dos dados fornecidos. [...]” (STJ, AgRg no AgInstr. 727440/RJ, Rel. Ministro PAULO FURTADO (desemb. Convocado do TJ/BA), TERCEIRA TURMA, julgado em 04/06/09, Dje 17/06/09) (Destaquei).
+Na mesma vertente é o entendimento deste Tribunal:
+“APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS – INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO - NOTIFICAÇÃO PRÉVIA - NECESSIDADE - CUMPRIDA - DANO MORAL - NÃO CONFIGURADO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Para inscrição do nome em cadastros de proteção ao crédito, deve haver prévia comunicação ao devedor, nos moldes do artigo 43, §2o, do CDC. Não é caso de dano moral se regular a comunicação feita pelo órgão mantedor do cadastro.” (TJMT, 4a CÂMARA DE DIREITO PRIVADO, RAC no 0028500-14.2016.8.11.0041, Relator Des. Guiomar Teodoro Borges, j. em 23/01/2019, publicado em 25/01/2019) (g.n.).
+“APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANO MORAL C/C NULIDADE DE ATO JURÍDICO POR FALTA DE NOTIFICAÇÃO – COMUNICAÇÃO PRÉVIA ENVIADA AO ENDEREÇO FORNECIDO PELOS CREDORES – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+Se o réu comprova que enviou a notificação para o endereço do autor informado pelos credores, não há que se falar em ausência de notificação.” (TJMT, 1a Câmara Cível, RAC no 165165/2014, DES. SEBASTIÃO BARBOSA FARIAS, j. em 12/05/2015, Publicado no DJE 20/05/2015).
+“APELAÇÃO CÍVEL – INDENIZAÇÃO POR DANO MORAL – INCLUSÃO NOME SERASA – PRÉVIA NOTIFICAÇÃO OBSERVADA – ENVIO CORRESPONDÊNCIA AO ENDEREÇO REPASSADO PELA CREDORA – DESNECESSIDADE DE CONFIRMAÇÃO DADOS DO DEVEDOR – DANO MORAL NÃO CONFIGURADO – PREQUESTIONAMENTO – PRESCINDIBILIDADE DE DISCUSSÃO EM APELAÇÃO – RECURSO CONHECIDO E DESPROVIDO.
+Os órgãos que mantém banco de dados de restrição ao crédito não possuem obrigação de confirmar os dados cadastrais dos consumidores, a responsabilidade se restringe ao envio de prévia comunicação ao endereço fornecido pela empresa que solicitou a negativação.
+Quanto ao prequestionamento, a decisão não está obrigada a enfrentar todos os pontos levantados no recurso, mas, sim, em resolver a controvérsia posta na lide.” (TJMT, 5a Câmara Cível, RAC no 109634/2014, DESA. CLEUCI TEREZINHA CHAGAS PEREIRA DA SILVA, j. em 18/02/2015, Publicado no DJE 24/02/2015).
+Ademais, cabe ressaltar ainda que no caso é desnecessária a comprovação do recebimento da notificação pelo requerente, bastando, para tanto, que tenha sido encaminhada ao endereço do consumidor.
+Aliás, trata-se inclusive de entendimento já sumulado no Superior Tribunal de Justiça, no verbete no 404: “É dispensável o aviso de recebimento (AR) na carta de comunicação ao consumidor sobre a negativação de seu nome em banco de dados e cadastros.”.
+Portanto, se comprovou a parte requerida de forma clara a notificação/comunicação do autor acerca do registro da inclusão ocorrida em seu nome, conforme endereço fornecido pela empresa credora, à espécie, não há falar-se em ato ilícito a ensejar indenização por danos morais, razão pela qual a manutenção da sentença é medida que se impõe.
+Por fim, relativamente ao prequestionamento, ressalte-se que para solução da questão posta em exame, não há necessidade de o órgão colegiado citar todos os dispositivos. Interessa que o acórdão aprecie integralmente a questão trazida aos autos, dando-lhe o devido fundamento.
+Ante o exposto, com fundamento no artigo 932, inciso IV, do CPC/15 c/c Súmula no 568 do STJ, nego provimento monocraticamente ao recurso para manter in totum a sentença recorrida.
+Por fim, a verba honorária comporta majoração para 1.500,00 (mil e quinhentos reais), nos termos do artigo 85, §§ 1o, 2o, 8o e 11, do CPC/2015, levando-se em conta a atuação do advogado da parte recorrida nesta instância recursal, observando-se a manutenção do deferimento da justiça gratuita ao autor/apelante (ID no 40445994).
+P.I.C.
+Cuiabá, 27 de maio de 2020.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
