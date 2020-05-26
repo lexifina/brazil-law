@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LV, 37, 145, § 1º, 146, 150, IV, e 156, II e § 2º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O acórdão do Tribunal de Justiça do Estado de São Paulo assim restou ementado:
+    “Apelação – Anulatória – ITBI – Pessoa jurídica – Integralização de capital – Imunidade do ITBI sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nos termos do art. 156, § 2", I da Constituição Federal - Alegações de imunidade, decadência e nulidade dos autos de infração cabalmente afastadas – Ausência de elementos aptos a ensejar a reforma da decisão recorrida – Inconformismo que não encontra guarida junto à realidade fática evidenciada nos autos – Recurso desprovido.”
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Constituição do Estado de São Paulo e Lei nº 11.154/1991 ), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Ausência de pressupostos de cabimento do recurso. Violação restrita à legislação infraconstitucional. Precedentes. 1. Recurso extraordinário interposto com fundamento na letra a do permissivo constitucional que não aponta violação a qualquer norma da Constituição Federal. Aplicação da jurisprudência do Supremo Tribunal, firme no sentido de que as hipóteses de cabimento de recurso extraordinário, nos exatos termos do art. 102, da Constituição Federal, são restritas a normas constitucionais. 2. Alegações quanto a extinção do crédito tributário, pela decadência, à luz do Código Tributário Nacional, norma infraconstitucional, não ensejam a abertura da via extrema. 3. Agravo regimental não provido” (AI-AgR 614.904, Rel. Min. Dias Toffoli, Primeira Turma, DJe 10.10.2011).
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de maio de 2020.
+Ministra Rosa Weber
+Relatora
