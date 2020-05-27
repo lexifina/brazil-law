@@ -1,0 +1,19 @@
+AGRAVO DE INSTRUMENTO N.o 1010428.2020.8.11.0000
+Vistos etc.
+Cuida-se de recurso de Agravo de Instrumento interposto por ALÊ CORRETORA DE SEGUROS LTDA. em virtude da decisão proferida pelo Juízo da 3.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação Tutela Provisória de Caráter Antecedente n.o 1013834-49.2020.8.11.0041, movida em desfavor da UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, indeferiu o pedido de tutela de urgência consistente na continuidade do pagamento da comissão vitalícia até o final da lide.
+A Agravante informa que deixou de recolher o preparo, eis que o objeto de agravo também abrange o pedido de gratuidade de justiça.
+Analisando detidamente os autos de origem, verifico que há pedido de gratuidade de justiça; contudo, ainda não foi objeto de apreciação pelo juiz singular, portanto não cabe a esta relatora a análise deste pedido, sob pena de supressão de instância.
+Por outro lado, considerando que o preparo é requisito intrínseco e que tem pedido de gratuidade para este instrumental, passo a análise do pedido de gratuidade para o processamento deste recurso.
+Em síntese, a Agravante alega que firmou com a Agravada contrato de representação comercial, cujo objeto do contrato consistia no pagamento de comissão vitalícia referente às carteiras já existentes e representação comercial para realização de vendas planos de saúde.
+Afirma que a comissão vitalícia paga pela Agravada constituía única fonte de receita e que, em 11/03/2020, a Agravada notificou a Agravante sobre o desinteresse na manutenção do negócio jurídico, e que dentro de 30 (trinta) dias o contrato seria encerrado.
+A Agravante foi intimada para apresentar documentos aptos a comprovar fazer jus ao benefício, e juntou aos autos balancetes patrimoniais, extratos bancários, declaração de IRPJ.
+Feitas essas observações, passo à analise do pedido de gratuidade formulado nesta seara recursal, porque se for indeferido, o pagamento do preparo é imprescindível para o conhecimento do mérito do Agravo.
+Conforme é cediço, o artigo 99, § 2.o, da legislação processual civil determina que “o juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos”.
+Na hipótese, pelos documentos apresentados (cópias de balancetes patrimoniais, IRPJ e extratos bancários), entendo que a Agravante não se enquadra no perfil de hipossuficiente. Com efeito, a alegação de que a rescisão do contrato firmado com a Agravada afetou drasticamente a sua situação econômica não está evidenciada nos autos. Além disso, o balanço patrimonial apresentando sinaliza aparente equilíbrio financeiro da Agravante. Ademais, o benefício da gratuidade não comporta deferimento para albergar situação de futuro estado de insolvência ou mera possibilidade de quebra.
+Portanto, em que pese às ilações da Recorrente de que não dispõe de capital para arcar com o pagamento do preparo deste Agravo de Instrumento, tenho que o indeferimento do pedido se impõe, haja vista que não há provas de que a Recorrente não dispõe de meios para efetuar o recolhimento de R$ 155,88 (cento e cinqüenta e cinco reais e oitenta e oito centavos) (fonte: http://www.tjmt.jus.br/INTRANET.ARQ/downloads/Corregedoria/Custas%20do%20Judici%C3%A1rio/Provimento_N%C2%B0112018-CGJ.pdf), motivo pelo qual indefiro o pedido de assistência gratuita nesta seara recursal.
+Nos termos do artigo 99, § 7.o, do CPC, intime-se a Apelante para, no prazo de 05 (cinco) dias, efetuar o pagamento do preparo, sob pena de não conhecimento do Agravo (art. 101, § 2.o, CPC).
+Após, conclusos.
+Cumpra-se.
+Cuiabá-MT, 26 de maio de 2.020.
+Des.a Clarice Claudino da Silva
+Relatora
