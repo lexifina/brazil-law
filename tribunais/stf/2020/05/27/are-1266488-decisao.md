@@ -1,0 +1,35 @@
+Decisão: Trata-se de recurso extraordinário (eDOC 1, p. 133-151) interposto contra acórdão da Terceira Seção do Superior Tribunal de Justiça (eDOC 1, p. 113-117), ementado nos seguintes termos:
+     “AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. ART. 19 DA LEI N.º 7.492/1986. OBTENÇÃO, MEDIANTE FRAUDE, DE FINANCIAMENTO EM INSTITUIÇÃO FINANCEIRA, COM DESTINAÇÃO ESPECÍFICA. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO DESPROVIDO.
+    1. A conduta de obtenção de veículo automotor com o uso de meio fraudulento perante instituição financeira subsume-se ao tipo previsto no art. 19 da Lei n.º 7.492/1986, tratando-se de delito contra o Sistema Financeiro Nacional, cuja competência para o processamento e julgamento é da Justiça Federal, conforme dispõe expressamente a referida Lei. Precedentes.
+    2. Agravo regimental desprovido.” (eDOC 1, p. 113).
+    Rejeitaram-se os embargos de declaração opostos (eDOC 1, p. 128-131).
+    No RE (eDOC 1, p. 133-167), interposto com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal, o MPF aponta violação dos arts. 5º, inciso LIII; 109, incisos IV e VI; e 192 da mesma Carta, além de ter sido indicada a repercussão geral dos temas de índole constitucional.
+    O recorrente sustenta, em síntese, a competência da justiça estadual para processar e julgar o caso em que há fraude na contratação de operação de financiamento de veículo automotor.
+    A Vice-Presidente do STJ não admitiu o RE (eDOC 1, p. 161-163).
+    Daí o presente ARE (eDOC 1, p. 165-169).
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar, dado que o acórdão recorrido está ajustado à jurisprudência iterativa do Supremo Tribunal Federal
+    Assim, porque acertado e pertinente, destaco da decisão ora agravada (eDOC 1, p. 161-163):
+    “Cinge-se a controvérsia vertida nos autos à questão da competência do juízo para trâmite de inquérito policial instaurado tendente apurar eventual prática do crime previsto no art. 19 da Lei n.º 7.492/1986. O acórdão recorrido encontra-se assim fundamentado (fl. 117):
+    A insurgência não merece prosperar. Conforme ressaltado na decisão agravada, trata-se de inquérito policial instaurado para apurar conduta de obtenção de veículo automotor com o uso de meio fraudulento perante instituição financeira.
+    Desse modo, o caso em exame subsume-se, em tese, ao tipo previsto no art. 19 da Lei n.º 7.492/1986, que exige, para o financiamento fraudulento, vinculação certa, como a aquisição de veículos automotores. Logo, tratando as investigações de suposto delito contra o Sistema Financeiro Nacional, a Lei n.º 7.492/1986 expressamente prevê a competência da Justiça Federal para processar e julgar os crimes nela elencados, in litteris:
+    ‘Art. 26. A ação penal, nos crimes previstos nesta lei, será promovida pelo Ministério Público Federal, perante a Justiça Federal.’
+    E, como é sabido, o art. 109, inciso VI, da Constituição República, determina que, nos casos previstos em lei, compete à Justiça Federal processar e julgar os crimes contra o Sistema Financeiro e a Ordem Econômico-Financeira.
+    [...]
+    Como visto, a análise da questão suscitada no presente Recurso Extraordinário perpassa, inexoravelmente, pelo exame de dispositivos da Lei n.º 7.492/1986, de modo que eventual afronta à Constituição Federal, se houvesse, seria indireta (ofensa reflexa), o que não legitima a interposição do apelo extremo.
+    No mesmo sentido, confiram-se os seguintes precedentes do Supremo Tribunal Federal:
+    DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 5º, II, XLVI, "A", E LIV, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que foge à competência jurisdicional extraordinária desta Corte Suprema, nos termos do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido.
+    (RE 1242533 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 13/12/2019, PROCESSO ELETRÔNICO DJe-019 DIVULG 31-01-2020 PUBLIC 03-02-2020)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. ALEGAÇÃO DE AUSÊNCIA DE CONEXÃO PROCESSUAL. OFENSA REFLEXA. FATOS E PROVAS. RECURSO DESPROVIDO. 1. Nos termos da jurisprudência do STF, é inadmissível irresignação excepcional na hipótese em que o desate da controvérsia desafiar a prévia análise da legislação infraconstitucional, caso em que a ofensa ao texto constitucional, se efetivamente existente, seria meramente reflexa. 2. O recurso extraordinário não comporta reexame de fatos e provas, forte no enunciado pelo verbete 279 da Súmula do STF. 3. Agravo regimental desprovido.
+    (ARE 1179280 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 23/08/2019, PROCESSO ELETRÔNICO DJe-191 DIVULG 02-09-2019 PUBLIC 03-09-2019)
+    Agravo regimental. Matéria criminal. Ofensa reflexa. Precedentes. Competência da Justiça Federal. Artigo 109, inciso IV, da Constituição Federal. Interesse direto e específico da União. Ocorrência. Precedentes. 1. Nos termos da jurisprudência deste Supremo Tribunal Federal, a afronta aos princípios da ampla defesa e do contraditório, entre outros, configura ofensa indireta ou reflexa à Constituição Federal e, por isso, não abre passagem ao recurso extraordinário. 2. Não ocorrência de violação do artigo 109, inciso IV, da Constituição, pois aplica-se, no caso em espécie, a orientação desta Suprema Corte no sentido de que a determinação de competência da Justiça Federal depende da prova de efetiva lesão a bens, serviços ou direitos da União, de suas autarquias ou empresas públicas. 3. Agravo regimental não provido.
+    (RE 591599 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 08/02/2011, DJe-070 DIVULG 12-04-2011 PUBLIC 13-04-2011 EMENT VOL-02502-02 PP-00282)
+    Ante o exposto, com espeque no art. 1.030, inciso V, do Código de Processo Civil, não admito o recurso extraordinário.” (eDOC 1, p. 161-163; grifos originais)
+    Ainda no mesmo sentido, menciono: RE 1.139.090/MG, Rel. Min. Alexandre de Moraes, DJe 5.12.2018; ARE 1.206.408/ES, Rel. Min. Celso de Mello, DJe 28.5.2019; ARE 1.200.877/MG, por mim relatado, DJe 31.5.2019; dentre outros.
+    Do exposto, nego seguimento ao recurso, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intime-se.
+    Brasília, 27 de maio de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
