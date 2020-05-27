@@ -1,0 +1,17 @@
+DECISÃO
+TRANSAÇÃO PENAL – ARTIGO 76 DA LEI Nº 9.099/1995 – HOMOLOGAÇÃO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    A Procuradoria-Geral da República apresenta proposta de transação penal ao deputado federal Luiz Gonzaga Patriota, considerado o suposto cometimento da infração prevista no artigo 129, cabeça (lesão corporal), do Código Penal. Destaca os elementos colhidos mediante o procedimento de investigação nº 1.26.001.000223/2018-32 – NFID/PGR, no que o parlamentar, em 8 de abril de 2018, na cidade de Petrolina/PE, teria ofendido a integridade corporal de Gilmar dos Santos Ferreira, ao desferir-lhe soco no rosto. Transcreve trecho de laudo de exame de corpo de delito realizado na vítima, revelador de lesão: “equimose violácea de formato circular em face interna de lábio superior à direita, cerca de 0,5 cm, além de equimose violácea de formato irregular de 0,4 cm em face interna de lábio inferior à direita”. Alude a depoimento da testemunha Pedro Elias de Carvalho à Polícia Civil, dizendo-o corroborar a versão apresentada pelo ofendido. Sublinha a relação dos fatos com o mandato político, porquanto ocorridos durante audiência pública e motivados por atuação de Luiz Gonzaga Patriota em votação na Câmara dos Deputados. Menciona o Ofício nº 2.701/2019-GP/CZ, encaminhado pelo parlamentar ao Ministério Público Federal, no qual reconhece ser autor da agressão, afirmando haver agido em legítima defesa. Assevera não verificada a excludente de ilicitude articulada.
+    Salienta cabível a transação penal, uma vez tratar-se de infração de menor potencial ofensivo, bem como atendidos os requisitos dos artigos 76 e 88 da Lei nº 9.099/1995. Propõe a aplicação imediata de pena restritiva de direitos, consistente em prestação pecuniária no valor de R$ 8.000,00, em benefício de instituição a ser designada pelo Supremo. Requer a notificação do deputado federal Luiz Gonzaga Patriota para manifestar-se sobre a proposta.
+     Luiz Gonzaga Patriota, por meio da petição/STF nº 27.123/2020, subscrita por si próprio, diz concordar com a proposta de transação penal formalizada. Sugere, realçando fazê-lo para auxiliar a escolha da entidade a ser beneficiada, as instituições Fundação Assistencial, Educacional e Cultural de Petrolina – FAEPE, Associação Petrolinense de Amparo a Maternidade e a Infância – APAMI e Hospital Dom Tomás, assinalando-as filantrópicas.
+    2. O Plenário do Supremo, na questão de ordem suscitada no inquérito nº 1.055/AM, relator ministro Celso de Mello, assentou aplicáveis aos procedimentos penais originários, em curso no Tribunal, as medidas despenalizadoras previstas na Lei nº 9.099/1995, entre as quais a transação penal.
+    Há a concordância do investigado quanto à proposta, a saber:
+    Prestação pecuniária no valor de R$ 8.000,00, em favor de instituição a ser indicada pelo Supremo.
+    Homologo a transação para que surta os efeitos próprios.
+    3. Delego a execução do transacionado à Justiça Federal no Distrito Federal, considerado o fato de o denunciado exercer mandato eletivo na Câmara dos Deputados, devendo ser comunicado ao Supremo o cumprimento do objeto, quando implementado, ou eventual descumprimento, a qualquer tempo.
+    Providenciem, expedindo a carta de ordem.
+    Deem ciência desta decisão ao Ministério Público Federal e ao deputado federal Luiz Gonzaga Patriota.
+    4. Publiquem.
+Brasília, 27 de maio de 2020.
+Ministro MARCO AURÉLIO
+Relator
