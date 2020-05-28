@@ -1,0 +1,33 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1010895-59.2019.8.11.0000
+AGRAVANTE: BANCO BRADESCO FINANCIAMENTOS S/A
+AGRAVADO: JUCÉLIO LELIS DE SOUZA
+DECISÃO MONOCRÁTICA
+AGRAVO DE INSTRUMENTO – AÇÃO DE BUSCA E APREENSÃO – CONSTITUIÇÃO EM MORA – NÃO EVIDENCIADA - DEVEDOR MUDOU-SE DE ENDEREÇO – NÃO EFETIVADA A NOTIFICAÇÃO EXTRAJUDICIAL/PROTESTO DO TÍTULO POR EDITAL - SENTENÇA SUPERVENIENTE - PERDA DE OBJETO DO AGRAVO DE INSTRUMENTO – RECURSO NÃO CONHECIDO.
+Sobrevindo sentença nos autos originários, resta prejudicada a apreciação da matéria recursal vertida em sede de agravo de instrumento, diante da perda superveniente de seu objeto.
+I – Retire-se de pauta.
+II - Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto por BANCO BRADESCO FINANCIAMENTOS S/A, contra decisão proferida pelo MM. Juiz de Direito da Primeira Vara Cível da Comarca de Sinop/MT, Dr. Walter Tomaz da Costa, que nos autos da Ação de Busca e Apreensão no. 1006837-65.2019.8.11.0015 movida em face de JUCÉLIO LÉLIS DE SOUSA, determinou a intimação da parte autora, ora agravante, para que, no prazo de 15 (quinze) dias, comprove a mora do agravado, sob pena de extinção do feito.
+Em síntese, o agravante alega que a mora é decorrente do inadimplemento de parcelas relativas a contrato de alienação fiduciária, que diz permanecer mesmo após a notificação extrajudicial do cliente.
+Alega que “nem sequer houve uma tentativa de renegociação da dívida ou purgação da mora, optando o Réu por manter-se inerte, em total prejuízo econômico contratual do agravante, cuja mora permanece”.
+Assevera que “Pelo contrato firmado entre as partes, o devedor sabia que estava alienando fiduciariamente o veículo dado em garantia e que, em caso de não pagamento, acarretaria o vencimento antecipado das prestações vincendas e a entrega do bem ao Credor fiduciário, inclusive, independentemente de notificação, sob pena de busca e apreensão”.
+Afirma que “a notificação deixou de ser entregue pelo fato do Requerido, Ora Agravado, ter deixado de residir no endereço indicado no contrato sem informar o credor a respeito da referida mudança”.
+Entende que “Se o requerido deixou de residir no endereço indicado e não procedeu prontamente a correção de seu cadastro com o Banco-Autor, deve sujeitar-se aos eventuais prejuízos advindos de ato a ele mesmo imputável”.
+Forte nesses argumentos, alegando o preenchimento dos requisitos da medida de urgência, pugna pela concessão do efeito suspensivo à decisão agravada até o pronunciamento definitivo desta Colenda Câmara, e no mérito, o provimento do recurso.
+O efeito suspensivo foi indeferido em 29.07.2019, pelo Des. Dirceu dos Santos, Relator em Substituição Legal [id. 9131970].
+Sem contraminuta.
+O agravante efetuou o recolhimento do preparo no id. 8909224.
+É o relatório.
+Ab initio, pelas informações extraídas dos autos originários no PJE, apura-se que em 28.02.2020, o juízo de primeiro grau proferiu a sentença.
+Perante tal circunstância, houve perda superveniente de objeto, que é requisito de admissibilidade do agravo de instrumento, deixando o recorrente de ter interesse recursal, por conta da prolação de sentença a ser atacada por recurso próprio.
+Neste contexto, configura-se a carência superveniente de interesse recursal, devendo ser julgado prejudicado o recurso, pois perdeu-se sua necessidade e utilidade.
+Diante da sentença sem resolução de mérito do processo de origem, extingue-se, consequentemente, a produção de efeitos da decisão agravada.
+Sobre o tema, destacam-se os seguintes arestos dos Tribunais pátrios, inclusive deste Sodalício, in verbis:
+“AGRAVO DE INSTRUMENTO – AÇÃO DE COBRANÇA – insurgência em face da decisão pela qual foi indeferido o requerimento da agravante de instauração de incidente de desconsideração da personalidade jurídica da empresa agravada – superveniência de sentença de extinção sem resolução do mérito do processo de origem – agravo de instrumento prejudicado – eventual provimento do agravo que será inócuo ante a extinção do processo por falta de pressuposto de constituição e desenvolvimento válido – inexistência de discussão neste recurso a respeito do fundamento adotado na sentença – agravo não conhecido, por decisão monocrática, com base no art. 932, III do CPC/2015.” (TJ-SP 21267620320188260000 SP 2126762-03.2018.8.26.0000, Relator: Castro Figliolia, Data de Julgamento: 03/08/2018, 12a Câmara de Direito Privado, Data de Publicação: 03/08/2018)
+“AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE CONVERTIDA EM EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL. DEFERIMENTO DA INSCRIÇÃO DO AGRAVANTE NOS CADASTROS RESTRITIVOS AO CRÉDITO. JUÍZO DE RETRATAÇÃO. AUSÊNCIA DE ASSINATURA DAS TESTEMUNHAS. TÍTULO INEXIGÍVEL. ART. 784, III, DO CPC. SUPERVENIÊNCIA DE SENTENÇA DE EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO POR INADEQUAÇÃO DA VIA ELEITA. PERDA SUPERVENIENTE DO OBJETO. FALTA DE INTERESSE DE AGIR DO AGRAVANTE. ART. 932, III, DO CPC. RECURSO PREJUDICADO. 1. A superveniência de sentença de extinção sem resolução de mérito proferida pelo Juízo a quo, torna prejudicada a análise do recurso, por falta de interesse recursal do agravante. 2. Realizado juízo de retratação, com prolação de sentença de extinção sem resolução de mérito, posto que o título extrajudicial apresentado não possuía a assinatura das testemunhas, na forma do art. 784, III, do CPC. 3. Verificação da perda do objeto e ausência de interesse recursal do agravante, uma vez que a decisão agravada não está mais apta a produzir qualquer efeito, pela superveniência de sentença extintiva sem análise de mérito. 4. Não conhecimento do recurso, com aplicação do art. 932, III, do CPC. 5. Recurso prejudicado.” (TJ-RJ – AI: 00127146020188190000 RIO DE JANEIRO BARRA DA TIJUCA REGIONAL 2 VARA CIVEL, Relator: ELTON MARTINEZ CARVALHO LEME, Data de Julgamento: 20/06/2018, DÉCIMA SÉTIMA CÂMARA CÍVEL, Data de Publicação: 27/06/2018)
+“EMBARGOS DE DECLARAÇÃO – AGRAVO DE INSTRUMENTO – DIREITO TRIBUTÁRIO – SENTENÇA PROLATADA NA ORIGEM – PERDA DO OBJETO – EMBARGOS PREJUDICADOS – RECURSO NÃO CONHECIDO. Prejudicada a análise dos presentes embargos declaratórios, em razão da perda do objeto do agravo de instrumento que originou o acórdão embargado”. (TJMT ED 44344/2017, DES. JOSÉ ZUQUIM NOGUEIRA, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 20/02/2018, Publicado no DJE 01/03/2018).
+Com essas considerações, ante a manifesta prejudicialidade do presente recurso, dele NÃO CONHEÇO, nos termos do artigo 932, inciso III do Código de Processo Civil.
+Intimem-se. Cumpra-se.
+Transcorrido o prazo recursal, certifique-se e dê-se as baixas de estilo.
+Cuiabá/MT, 28 de maio de 2020.
+Desa. Antônia Siqueira Gonçalves
+Relatora
