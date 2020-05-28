@@ -1,0 +1,27 @@
+DECISÃO:
+Ementa: Processual penal. Prisão preventiva. Excesso de prazo. Fundamentos. Ausência de ilegalidade flagrante. Jurisprudência do STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Nefi Cordeiro, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTOS. INOVAÇÃO RECURSAL. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. MARCHA REGULAR. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Não cabe a apreciação da ausência de fundamentação do decreto preventivo, suscitada apenas na via regimental, por configurar indevida inovação recursal.
+    2. É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+    3. Não se verifica a ocorrência de excesso de prazo se o feito possui pluralidade de réus e esteve em constante movimentação, seguindo o seu trâmite regular, apesar de ter sido necessária a expedição de diversas cartas precatórias, não tendo sido demonstrada desídia por parte do Estado.
+    4. Apesar de a prisão ter ocorrido em 1/3/2019, há cerca de um ano, tem-se que é imputada ao paciente a prática de três delitos – estelionato, falsificação de documento público e uso de documento falso –, cujas penas mínimas, em abstrato, somam 5 anos, não se verificando, no momento, desproporcionalidade da prisão preventiva.
+    5. Agravo regimental improvido. ”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos crimes previstos no art. 171, § 3º, c/c os arts. 304 e 297, do Código Penal. A prisão foi convertida em preventiva.
+    3. A defesa impetrou habeas corpus no Tribunal Regional Federal da 1ª Região. Denegada a ordem, sobreveio interposição de recurso ordinário em habeas corpus no Superior Tribunal de Justiça (RHC 121.054). O Relator, Min. Nefi Cordeiro, negou provimento ao recurso. Contra a decisão, foi interposto agravo regimental, desprovido.
+    4. Neste habeas corpus, o impetrante sustenta excesso de prazo para formação da culpa, afirmando que o “acusado encontra-se preso preventivamente desde 02/03/2019, somando mais de 1 (um) ano e 2 (dois) meses da privação de sua liberdade”. Alega que não estão preenchidos os requisitos do art. 312 do Código de Processo Penal.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. O Supremo Tribunal Federal (STF) já decidiu que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    8. No caso, as peças que instruem os autos não evidenciam desídia ou de injustificada demora por parte do Poder Judiciário que autorize o pronto acolhimento da pretensão defensiva. Transcrevo, nesse sentido, as seguintes passagens do acórdão impugnado:
+    “[...] o feito possui pluralidade de réus e esteve em constante movimentação, seguindo o seu trâmite regular, apesar de ter sido necessária a expedição de diversas cartas precatórias, não tendo sido demonstrada desídia por parte do Estado.
+    Com efeito, a prisão em flagrante remonta a 1/3/2019, convertida em preventiva em 2/3/2019; a denúncia foi recebida em 2/4/2019; a citação ocorreu em 13/5/2019; a defesa prévia, 22/8/2019; houve transferência para outro presídio, a pedido da defesa, em 9/9/2019 e foi nomeado defensor público para assistir a um dos corréus em 23/10/2019.
+    Além disso, constam a expedição de precatórias e diversas cargas tanto à Defensoria Pública (4/11/2019, 4/10/2019 e 12/8/2019) quanto ao Ministério Público (27/9/2019, 12/8/2019, 28/6/2019, 24/5/2019 e 10/5/2019). Atualmente, após a devolução de carta precatória sem cumprimento em 17/2/2020, os autos foram retirados em carga pelo Ministério Público Federal em 28/2/2020.
+    Como já demonstrado, não constatada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+    […].”
+    9. Ademais, o Tribunal de origem, ao denegar o habeas corpus lá impetrado, assentou que “a custódia cautelar do acusado se faz necessária para a garantia da ordem pública e econômica, da aplicação da lei penal e por conveniência da instrução criminal, especialmente em face de sua contumácia delitiva, uma vez que milita em seu desfavor condenação, com trânsito em julgado em 02/10/2017, por roubo qualificado de veículo (Processo nº 0515765-14.2015.8.05.0001), sendo lícito concluir que, se solto, voltará a delinquir” (e-doc. 2, p. 8). Sendo assim, a hipótese atrai a orientação jurisprudencial do STF no sentido de que a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    10. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 28 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
