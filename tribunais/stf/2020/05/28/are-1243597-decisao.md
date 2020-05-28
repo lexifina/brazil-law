@@ -1,0 +1,38 @@
+Trata-se de agravo interposto contra decisão por meio da qual foi negado seguimento ao recurso extraordinário com fundamento no art. 102, III, a, da Constituição Federal.
+    O agravante alega violação dos arts. 1°, III; 5°, XXXVIII, d, LIII, LIV, LVII, e LIX; e 129, I, da Carta Magna.
+    Sustenta, em síntese, que
+    "[a] evidência lógica de que os ilustríssimos jurados julgaram o feito contrariamente as provas apresentadas, e consequentemente feriu a lei maior, remansa pacífica, tendo em vista que à única tese apresentada era a de desclassificação de homicídio qualificado para a de lesão corporal seguida de morte, o que foi ignorado pelo Tribunal de Justiça de Mato Grosso o qual apegou unicamente à soberania do veredictos.
+    Repisa-se, não existiam conflitos de teses, não existia resistência a pretensão estatal oficial da acusação. Julgando os jurados por uma tese mutatis mutandis ‘extra ou ultra petita’, NÃO APRESENTADA NO AUTOS.
+    […]
+    No mais, o fato de a condenação ter se dado no âmbito do Tribunal do Júri não afasta a sua nulidade.
+    Cumpre ressaltar que o processo de competência do Tribunal do Júri também é regido pelo princípio acusatório, de forma que somente os fatos alegados pelas partes em plenário merecem ser apreciados e julgados pelo Conselho de Sentença.
+    Nesse passo, não havendo conflitos de tese pelo titular da ação penal e defesa, deve se reconhecer a impossibilidade de submissão do réu a julgamento diverso daquilo que fora apresentado.
+    Não há que se falar em violação ao princípio da soberania dos veredictos, positivado no art. 5º, XXXVIII, ‘c’, da Constituição, porque esse princípio deve ser compreendido no sentido de que o Tribunal do Juri é competente para julgar os crimes dolosos contra a vida, sendo, em regra, vedado ao Tribunal togado reformar, pelo mérito, a decisão proferida pelos jurados no exercício de sua competência constitucional.
+    O princípio da soberania dos veredictos não autoriza, todavia, o Tribunal do Júri a conhecer de matéria não alegada pela acusação ou defesa em plenário. – como ocorreu.
+    […]" (págs. 58 e 64 do documento eletrônico 12).
+    Ao final, requer
+    “[...] o recebimento e o conhecimento do presente Recurso, que o admita, dele conheça e lhe dê provimento para reformar o V. Acórdão recorrido, cassando a R. Sentença de 1º Grau impondo a cassação da sentença para sujeitar o Recorrente a novo julgamento pelo Tribunal do Júri, é o que requer.
+    […]” (pág. 68 do documento eletrônico 12).
+    A pretensão recursal não merece acolhida.
+    Eis a ementa do acórdão recorrido:
+    "APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO [MOTIVO FÚTIL E MEIO CRUEL] E CORRUPÇÃO DE MENOR, EM CONCURSO MATERIAL – VEREDITO CONDENATÓRIO – RECURSO DEFENSIVO - DECISÃO DOS JURADOS CONTRÁRIA ÀS PROVAS POR AUSÊNCIA DE PRETENSÃO ACUSATÓRIA E PROVAS PRODUZIDAS NO ÂMBITO DO CONTRADITÓRIO E AMPLA DEFESA – PEDIDO DE NOVO JULGAMENTO – MANIFESTAÇÃO DO ÓRGÃO DO MINISTÉRIO PÚBLICO - DESCLASSIFICAÇÃO DO CRIME DE HOMICIDIO PARA LESÃO CORPORAL SEGUIDA DE MORTE – ENTENDIMENTO DA PROMOTORIA DE JUSTIÇA INTEGRADO - NÃO VINCULAÇÃO DO CONSELHO DE SENTENÇA – JULGADO DO STJ - CONCLUSÃO DOS JURADOS - SUPORTE NA CONFISSÃO DO APELANTE, EM SESSÃO PLENÁRIA – OPÇÃO DOS JURADOS POR UMA DAS CORRENTES DE INTERPRETAÇÃO DA PROVA - DECISÃO CONTRÁRIA NÃO CONFIGURADA – ARESTOS DO STJ E TJTM - SUBMISSÃO DO APELANTE A NOVO JULGAMENTO INJUSTIFICADA – RECURSO DESPROVIDO.
+    Embora a acusação ‘tenha requerido a desclassificação do delito de homicídio qualificado para lesão corporal seguida de morte, tal requerimento não vincula a decisão dos jurados, que podem concluir por consequência diversa ao analisarem as provas’ (Washington Eduardo Borrére, promotor de Justiça).
+    O Conselho de Sentença, como juiz natural da causa, poderá proferir sentença condenatória ainda que o Ministério Público tenha opinado pela absolvição (CPP, art. 385; STJ, AgRg no REsp nº 1612551/RJ).
+    A decisão do Júri deve prevalecer por disposição constitucional contida em cláusula pétrea [CF, art. 5º, XXXVIII, ‘c’], ressalvada hipótese de estar absolutamente dissociada do conjunto probatório (TJMT, Ap nº 0011392-71.2013.8.11.0042).
+    ‘Não cabe aos tribunais analisar se os jurados decidiram bem ou mal, mas apenas verificar se a decisão do Tribunal Popular está completamente divorciada da prova dos autos. Isso porque, reserva-se ao Júri a faculdade de apreciar os fatos e de, na hipótese de versões e teses porventura discrepantes, optar pela que lhe pareça mais razoável. Assim, ainda que existam duas versões amparadas pelo material probatório produzido nos autos, deve ser preservado o juízo feito pelos jurados no exercício de sua função constitucional.’ (STJ, HC nº 158.929/RJ)
+    ‘A decisão do corpo de jurados que, com supedâneo nos elementos constantes do feito, acolhe uma das versões apresentadas, não pode ser anulada sob a alegação de ser contrária à prova dos autos, pois tal procedimento só se justifica quando o veredicto é arbitrário e manifestamente dissociado do conjunto probatório.’ (TJMT, Ap nº 151435/2014)" (págs. 45-46 do documento eletrônico 12).
+    Transcrevo, por oportuno, trecho do acórdão proferido pelo Tribunal de Justiça do Mato Grosso – TJMT, no que pertine ao exame do recurso:
+    “[...]
+    A pretensão recursal reside na anulação do julgamento sob a assertiva de que a decisão do Júri seria contrária às provas, pois estaria vinculada à manifestação do órgão ministerial [durante os debates], o qual ‘pugnou pela desclassificação do crime de homicídio para o crime de lesão corporal seguida de morte’ (fls. 413/424 do ID 6877517/ID 6877518).
+    O Conselho de Sentença, ao responder os quesitos, rechaçou a tese de desclassificação do homicídio para lesão corporal seguida de morte e não absolveu o apelante (fls. 388/390 do ID 6877503). Registre-se que inexiste impugnação, por parte da Defesa, quanto a elaboração dos quesitos, conforme se infere da ata de julgamento (fls. 371 do ID 6877501).
+    Como bem consignado pelo i. promotor de Justiça Washington Eduardo Borrére, embora a acusação ‘tenha requerido a desclassificação do delito de homicídio qualificado para lesão corporal seguida de morte, tal requerimento não vincula a decisão dos jurados, que podem concluir por consequência diversa ao analisarem as provas’ (ID 6877521).
+    Isso porque o Conselho de Sentença, como juiz natural da causa, poderá proferir sentença condenatória ainda que o Ministério Público tenha opinado pela absolvição (CPP, art. 385).
+    […]
+    Por sua vez, a conclusão dos jurados tem suporte na confissão do apelante, na sessão plenária, o qual revelou ter participado das agressões na vítima, tendo desferido dois chutes e a arrastado ‘da beira da estrada para um capim na beira do rio’ (Relatório de Mídias – ID 6877526), bem como no Laudo de Necropsia nº 01-05-04-853/2010 (fls. 68/71 do ID 6877319), Mapa Topográfico para Localização de Lesões (fls. 72/73 do ID 6377319) e Laudo Pericial nº 02.05.06.0759/2010 (fls. 74/84 do ID 6877320/ID 6877321), que descreveram lesões contusas.
+    […]” (pág. 40 do documento eletrônico 12).
+    Verifico que para divergir do acórdão recorrido e verificar a procedência do apelo extremo seria necessário a reanálise do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF, e das normas infraconstitucionais pertinentes ao caso (Código de Processo Penal), sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Isso posto, nego seguimento ao recurso extraordinário (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
