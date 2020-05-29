@@ -1,0 +1,25 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual concedi a ordem de habeas corpus, de ofício, para determinar o trancamento da ação penal, aplicando, na espécie, o princípio da insignificância ao crime de descaminho (documento eletrônico 19).
+    O embargante argumenta, em suma, que
+    “[a] decisão, porém, no ponto, merece reparo.
+    7. Concluiu-se pela incidência do princípio da insignificância ante ao valor do tributo devido decorrente do descaminho imputado ao ora embargante, R$ 13.587,67 (treze mil, quinhentos e oitenta e sete reais e sessenta e sete centavos), valor inferior ao limite estabelecido no art. 20 da Lei n 10.522/2002 com atualização decorrente da edição das Portarias 75 e 130/2012 do Ministério da Fazenda.
+    8. É ver porém que, conforme salientado pela sentença condenatória às fls. 702, ao afastar a pretensão de aplicação do princípio da insignificância naquela instância, a habitualidade delitiva do acusado impede o reconhecimento da causa supralegal de exclusão da tipicidade material, entendimento apto a tanto.
+    […]” (pág. 4 do documento eletrônico 23).
+    Ao final, requer
+    “[...] o acolhimento dos declaratórios, a fim de que, sanada a omissão apontada, seja reformada a decisão monocrática, afastando-se a concessão, de ofício, da ordem de habeas corpus, pela qual se reconheceu a atipicidade material da conduta ante a insignificância da conduta.
+    […]” (pág. 6 do documento eletrônico 23).
+    É o relatório. Decido.
+    Bem reexaminada a questão, verifico que o embargante, a pretexto de sanar supostas omissões, busca apenas a rediscussão da matéria.
+    Destaco, ainda, que o entendimento desta Corte é no sentido de que os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes desta Corte:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO PENAL E PROCESSUAL PENAL.ESTELIONATO. ARTS. 171, § 3º, DO CÓDIGO PENAL E 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. NÃO OCORRÊNCIA. APRECIAÇÃO DAS TESES DEFENSIVAS. AUTORIA E MATERIALIDADE DELITIVA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. MANUTENÇÃO DO DECISUM. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração visam ao aperfeiçoamento da prestação jurisdicional, com a sua entrega de forma completa, e ao aclaramento dos julgados, quando presentes omissão, contradição, obscuridade e/ou ambiguidade ao feitio do art. 619 do Código de Processo Penal, admitida, ainda, a correção de eventuais erros materiais. 2. Ausência de omissão justificadora da oposição de embargos declaratórios, ao feitio do art. 619 do CPP, a evidenciar o caráter meramente infringente da insurgência. 3. Embargos de declaração rejeitados” (ARE 1.140.216-AgR-ED/PA, Rel. Min. Rosa Weber).
+    “EMBARGOS DE DECLARAÇÃO – MATÉRIA PENAL – INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE, OMISSÃO OU AMBIGUIDADE – PRETENDIDO REEXAME DA CAUSA – CARÁTER INFRINGENTE – INADMISSIBILIDADE NO CASO – EMBARGOS DE DECLARAÇÃO REJEITADOS. OS EMBARGOS DE DECLARAÇÃO NÃO SE REVESTEM, ORDINARIAMENTE, DE CARÁTER INFRINGENTE – Não se revelam cabíveis os embargos de declaração quando a parte recorrente – a pretexto de esclarecer uma inexistente situação de obscuridade, omissão, contradição ou ambiguidade (CPP, art. 619, e RISTF, art. 337) – vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes” (ARE 1.101.140-ED-AgR-ED/SP, Rel. Min. Celso de Mello)
+    Destaco que a controvérsia destes autos foi assim dirimida:
+    “[...]
+    No caso, nota-se que o montante de tributo devido à União totalizou R$ 13.587,67 (treze mil, quinhentos e oitenta e sete reais e sessenta e sete centavos), sendo este valor aquém ao arbitrado pela Fazenda Pública para iniciar a execução fiscal, que outrora era de R$ 10.000,00 (dez mil reais) e atualmente, encontra-se no limite de R$ 20.000,00 (vinte mil reais).
+    A jurisprudência desta Corte entende que o princípio da insignificância deve ser aplicado ao delito de descaminho quando o valor sonegado for inferior ao estabelecido no art. 20 da Lei 10.522/2002, atualizado pelas Portarias 75 e 130/2012 do Ministério da Fazenda, […]” (pág. 12 do documento eletrônico 19).
+    Observo que não consta nos autos a comprovação de reincidência ou reiteração delitiva, mas apenas a indicação da habitualidade pelo Magistrado sentenciante com base em supostas informações prestadas pelos recorrentes.
+    Desse modo, não se aplica ao caso o posicionamento adotado por ambas as Turmas desta Corte no sentido de mitigar a aplicação do princípio da insignificância aos acusados reincidentes ou de habitualidade delitiva comprovada, como nos casos de delitos de descaminho.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 29 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
