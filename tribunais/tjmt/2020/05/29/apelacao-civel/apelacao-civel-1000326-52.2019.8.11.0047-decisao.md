@@ -1,0 +1,36 @@
+APELAÇÃO CÍVEL N.o 1000326-52.2019.8.11.0047
+Vistos etc.
+Trata-se de Recurso de Apelação interposto por Maria Moreira Primo em virtude da sentença proferida pelo Juízo da Vara Única da Comarca de Jauru, que julgou improcedentes os pedidos formulados na Ação Declaratória de Anulabilidade de Negócio Jurídico c/c Repetição de Indébito c/c Indenização por Danos Morais, ajuizada em face do Banco Itaú BMG – Consignado S.A.
+Ao final, a Apelante foi condenada no ônus da sucumbência, cujos honorários advocatícios foram arbitrados em 10% do valor da causa, nos termos do art. 85, § 2°, do CPC; no entanto, foi suspensa a exigibilidade por ser beneficiária da justiça gratuita.
+Em sede de preliminar, a Apelante suscitou a nulidade da sentença por não teve a oportunidade de produzir prova pericial grafotécnica, haja vista que o Banco juntou contrato escaneado, não se podendo afirmar, com certeza absoluta, que a digital lançada no documento é, ou não, da Apelante.
+No mérito, a Apelante afirma que não contratou o empréstimo e que faz jus à condenação do Apelado ao pagamento de indenização por danos morais.
+As contrarrazões foram apresentadas no ID 43393454.
+Eis a síntese do relatório. Fundamento.
+DECIDO.
+Desde logo, verifico que o caso se coaduna com o entendimento sumulado do STJ no verbete 568/STJ, em que “o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.” (STJ. Corte Especial. Aprovada em 16/03/2016. DJe 17/03/2016). Diante disto, passo a analisar e decidir o caso monocraticamente.
+A Apelante é pessoa não alfabetizada e afirma desconhecer o Contrato Bancário n.o 555630922 firmado com o Apelado, em 27/04/2015, no valor de R$ 836,82 (oitocentos e trinta e seis reais e oitenta e dois centavos), cujo pagamento seria em 72 (setenta e duas) prestações de R$ 24,00 (vinte e quatro reais), com desconto diretamente no benefício previdenciário.
+De acordo com o Quadro V do contrato, o crédito contratado foi depositado na Agência do Banco (código 001) n.o 2214; todavia, não foi registrado no pacto o número da Conta para o depósito ou transferência.
+Com a petição inicial, foi juntado o extrato do Instituto de Seguridade Social referente ao mês de maio/2019, no qual se vê a consignação da parcela de R$ 24,00 (vinte e quatro reais).
+Forte na tese de que foi ludibriada, pois não teria anuído com a contratação, a Apelante pugnou pela declaração de inexigibilidade da dívida e a condenação do Apelado ao pagamento de indenização por danos morais.
+Ao contestar, o Apelante juntou a cópia do contrato e o extrato de consignação das parcelas durante 49 (quarenta e nove) meses; todavia, não juntou a prova de que o valor contratado foi creditado na conta bancária à disposição da Apelante.
+No que tange à preliminar de cerceamento de defesa, esta não deve prevalecer, pois é prescindível a produção de prova técnica se os autos contiverem outros elementos para elucidar a verdade real sobre os fatos.
+No caso concreto, conquanto a Apelante questione a autenticidade da digital lançada no contrato que subsidiou a consignação desde maio/2015, verifica-se que falta, na espécie, a prova concreta de que a Apelante tenha se beneficiado do valor supostamente contratado.
+Dito isso, sem delongas, rejeito a preliminar de cerceamento de defesa.
+No mérito, conforme dito alhures, a demanda está baseada em suposto contrato firmado por pessoa analfabeta que, embora juntado aos autos, está dissociado da prova de que o crédito contratado foi disponibilizado à Apelante, o que torna verossímil a alegação inicial, de que não houve a contratação.
+Ora, se há fundadas dúvidas de que o valor do empréstimo foi creditado em favor da Apelante, à míngua de juntada da Ficha de Compensação Bancária, é de rigor a reforma do ato sentencial objurgado.
+O artigo 595 do Código Civil, de forma expressa estabelece que “no contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas”.
+Em comentário ao citado dispositivo, Silvio de Salvo Venosa elucida que “nesse artigo, permite-se que o analfabeto contrate, exigindo-se, porém, a forma escrita particular, com assinatura a rogo e participação de duas testemunhas.” (in Código Civil Interpretado. Atlas, São Paulo: 2010, P. 600).
+Assim, esta Câmara Cível entende que a análise da existência, ou não, do vício de consentimento, ou seja, a averiguação se o consumidor tinha ou não ciência dos termos do contrato, não pode simplesmente se resumir ao fato de que é pessoa analfabeta, e de não ter outorgado instrumento público para terceiro para representá-la. Passou-se a considerar o substrato fático-probatório produzido no processo, em especial se há prova inconteste de que o valor da operação foi creditado na conta bancária indicada pelo contratante.
+Na espécie, conforme dito, não há prova inequívoca do repasse do valor contratado para conta bancária em favor da Apelante ou de pessoa por ela indicada, ganha força a tese da existência de fraude e dá ensejo à anulação do contrato objeto da lide.
+Dito de outra maneira, o Banco Apelado não foi capaz de comprovar fato impeditivo do direito da Apelante, de acordo com a exigência contida no art. 373, II, do CPC.
+Feitas essas considerações, anulo o Contrato de Empréstimo Consignado n.o 555630922 e condeno o Apelado à repetição do indébito e ao pagamento de indenização por danos morais.
+Registro, por oportuno, que deixo de condenar o Apelado à repetição do indébito em dobro, porque tal pedido não foi devolvido à apreciação recursal, sendo vedado ao julgador decidir sobre matérias não abordadas no apelo.
+No que se refere ao valor da indenização, o critério que vem sendo adotado pela Corte Superior na fixação do valor da indenização por danos morais são condições pessoais e econômicas das partes, devendo o arbitramento se operar com moderação e razoabilidade, atento à realidade da vida e às peculiaridades e aos fatos de cada caso, de forma a não haver o enriquecimento indevido do ofendido, bem como que sirva para desestimular o ofensor a repetir o ato ilícito.
+No caso concreto, a Apelante é aposentada e teve o seu benefício previdenciário reduzido durante 49 (quarenta e nove) meses.
+Assim sendo, levando-se em consideração o caso concreto, em especial a repercussão causada à Apelante, tenho que o valor de R$ 3.000,00 (três mil reais) é condizente com o abalo moral sofrido, além de o montante ser capaz de atender à dúplice função: compensatória e preventiva, e não significar enriquecimento sem causa.
+Dito isso, dou provimento ao apelo para reformar a sentença, declarar a nulidade do Contrato Bancário n.o 555630922 e condenar o Banco Itaú BMG – Consignado S.A. ao pagamento de indenização por danos morais no valor de R$ 3.000,00 (três mil reais), corrigido pelo INPC a partir do arbitramento e acrescido de juros de mora de 1% ao mês a contar da citação.
+Considerando o resultado do julgamento, inverto o ônus da sucumbência e fixo os honorários advocatícios em 15% do valor da condenação, nos termos do art. 85, § 11, do CPC.
+Intimem-se. Cumpra-se.
+Cuiabá, 29 de maio de 2020.
+Desa. Clarice Claudino da Silva
+Relatora
