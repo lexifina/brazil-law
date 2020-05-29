@@ -1,0 +1,20 @@
+Trata-se de reclamação proposta pelo Banco Central do Brasil contra acórdão proferido pelo Tribunal Superior do Trabalho (TST), nos autos da Reclamação Trabalhista 131000-32.2007.5.02.0056, por suposto desrespeito ao que decidido por esta Suprema Corte no julgamento da ADC 16/DF e do RE 760.931/DF (Tema 246 da Repercussão Geral).
+    O reclamante sustenta, em síntese, que: (i) o ato reclamado reconheceu a sua responsabilidade subsidiária por débitos trabalhistas de empresa com quem firmou contrato de terceirização; (ii) o entendimento do ato reclamado, por implicar em reconhecimento de responsabilidade subsidiária automática do reclamante, viola a autoridade do julgamento proferido na ADC 16/DF e no RE 760.931/DF.
+    É o relatório necessário. Decido.
+    Inicialmente, consigno que deixo de requisitar informações e enviar o feito à Procuradora-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    Destaco que este Tribunal, no julgamento da ADC 16/DF, de relatoria do Ministro Cezar Peluso, declarou a constitucionalidade do art. 71 da Lei 8.666/1993, entendendo, por conseguinte, que a mera inadimplência do contratado não tem o condão de transferir à administração pública a responsabilidade pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+    Em 26/4/2017, esta Corte, confirmando o entendimento adotado na ADC 16/DF, concluiu o julgamento do RE 760.931-RG/DF, Tema 246 da sistemática da Repercussão Geral, Redator para o acórdão Ministro Luiz Fux, fixando a seguinte tese de repercussão geral:
+    “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93”.
+    Importante ressaltar que, no julgamento da ADC 16/DF, este Tribunal reconheceu que eventual omissão da administração pública no dever de fiscalizar as obrigações do contratado poderia gerar essa responsabilidade, caso efetivamente demonstrada a culpa in vigilando do ente público.
+    Nesse contexto, não se pode impedir que a justiça laboral, à luz dos fatos da causa, reconheça a responsabilidade subsidiária da administração. Pelos elementos que constam dos autos, entendo que a atribuição da responsabilidade subsidiária não se deu de forma automática, mas por ter entendido o Juízo trabalhista que ficou efetivamente delineada a culpa da administração.
+    No caso dos autos, destaco os seguintes trechos do aresto proferido pelo Tribunal Superior do Trabalho:
+    “Na hipótese dos autos, o Tribunal de origem, com base no conjunto probatório, consignou ter havido culpa do ente público, o que é suficiente para a manutenção da decisão em que se o condenou a responder, de forma subsidiária, pela satisfação das verbas e demais direitos objeto da condenação.
+    […]
+    Desse modo, a decisão regional não merece reparos, pois aplicou, no caso, a jurisprudência desta Corte, consubstanciada na Súmula nº 331, uma vez constatada a conduta culposa do tomador dos serviços, razão pela qual não há falar eventual afronta aos dispositivos legais invocados, tampouco em divergência jurisprudencial, nos termos do artigo 896, § 4º, da CLT, e da Súmula n° 333 do TST.” (págs. 74-75 do documento eletrônico 9)
+    Percebe-se, assim, que a responsabilidade subsidiária não decorreu, no caso, de mera presunção, tendo sido verificada com base na análise do conjunto fático-probatório dos autos, de modo que ficou consignada a caracterização da culpa in vigilando.
+    Nesse quadro, entendo ser evidente que o ato reclamado não responsabilizou subsidiariamente o reclamante de forma automática, e, portanto, não desrespeitaram o entendimento firmado por esta Corte ao julgar a ADC 16/DF, interpretado no julgamento do RE 760.931/DF.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
