@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    "Processual Civil e Constitucional. Agravo de instrumento atacando decisão que declara a incompetência da Justiça Federal para a ação de nulidade de sentença de usucapião, de área incluída em imóvel rural, adquirido pelo ora agravante, por força de desapropriação, e, em consequência, determinou a remessa dos autos ao juízo estadual da comarca de Areia Branca.
+    Incompetência da Justiça Federal para declarar a nulidade de sentença prolatada por juiz estadual, caso em que a competência única e exclusiva é do Tribunal de Justiça do Estado do Rio Grande do Norte.
+    Inadequação da remessa do feito ao juízo estadual, porquanto a questão deve ser levada pelo agravante ao referido tribunal, para fins da nulidade devida, ficando os autos da presente ação ordinária suspensa, para, uma vez resolvida a matéria atinente à nulidade, poder a demanda ter seu seguimento para decisão acerca da reintegração de posse e indenização por perdas e danos.
+    Provimento parcial" (fls. 488).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação do art. 109, da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Odim Brandão Ferreira, opinou pelo desprovimento do recurso extraordinário (fls. 519-522).
+    A pretensão recursal não merece acolhida.
+    Com efeito, esta Corte possui entendimento firmado no sentido de que é infraconstitucional a controvérsia relativa à adequação da via processual pelo Tribunal de origem. Nesse contexto, para dissentir do acórdão impugnado, seria necessário o reexame da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria indireta; bem como a reanálise do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 deste Tribunal. Nesse sentido, precedentes desta Corte:
+    “Agravo interno em agravo de instrumento. 2. Querela nullitatis. Definição de competência in concreto. 3. Matéria de fato. Questão processual de índole eminentemente infraconstitucional. Precedentes. Enunciados 279 e 636 da Súmula/STF. 4. Abusividade do direito de recorrer. Multa do art. 557, § 2º, do CPC. 5. Agravo interno a que se nega provimento” (AI 828.652-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (RE 598.365/MG, Rel. Min. Ayres Britto, Tribunal Pleno - grifei).
+    “DIREITO CIVIL. PROCESSUAL CIVIL. PRESTAÇÃO DE CONTAS. DECISÃO ADMINISTRATIVA DA OAB. INOCORRÊNCIA DE PRESCRIÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. INADEQUAÇÃO DA VIA ELEITA PARA IMPUGNAÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, LIII, E 109 DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE 1.129.501-AgR, Min. Rosa Weber/SP, Primeira Turma - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2020.
+Ministro Ricardo Lewandowski
+Relator
