@@ -1,0 +1,37 @@
+Recurso Especial em Agravo de Instrumento n. 1013215-82.2019.8.11.0000
+RECORRENTE ADRIANA REGINA GOMES DI LORETO
+RECORRIDO ESPÓLIO DE FLORIANO GARMS
+Vistos, etc.
+Trata-se de Recurso Especial (ID 40346496) interposto por ADRIANA REGINA GOMES DI LORETO, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado (ID 22390496):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE EXECUÇÃO - NÃO RECONHECIMENTO DE FRAUDE À EXECUÇÃO – AUSÊNCIA DE AVERBAÇÃO DA EXISTÊNCIA DA AÇÃO CONTRA O DEVEDOR NA MATRÍCULA DO IMÓVEL – SÚMULA 375, DO STJ - PRECEDENTES DA CORTE SUPERIOR – AUSÊNCIA DE PROVA DE MÁ-FÉ DOS TERCEIROS ADQUIRENTES - DECISÃO MANTIDA - AGRAVO DESPROVIDO. A questão necessariamente passa pelo exame da boa-fé do terceiro adquirente, necessário salientar a tese firmada pelo STJ quando da apreciação do TEMA No 243, julgado pelo rito dos processos repetitivos, em que se assentou ser “indispensável citação válida para configuração da fraude de execução, ressalvada a hipótese prevista no § 3o do art. 615-A do CPC”; “o reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375/STJ)”; “a presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar parêmia: a boa-fé se presume; a má-fé se prova. No caso, inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência, sob pena de torna-se letra morta o disposto no art. 659, § 4o, do CPC73 (atual art. 844, do NCPC). Nos termos preconizados pela vasta orientação jurisprudencial em situações similares, não comprovada a má-fé do terceiro, bem como ausente restrição junto ao registro de imóveis na época em que entabulado o negócio jurídico com este, não há falar em fraude à execução, competindo à parte exequente comprovar tenha o adquirente agido de má-fé, pois a boa-fé se presume.” (N.U 1013215-82.2019.8.11.0000, DES. SEBASTIAO DE MORAES FILHO, Segunda Câmara de Direito Privado, Julgado em 27/11/2019, Publicado no DJE 02/12/2019)
+Os Embargos de Declaração ID 27433471 foram rejeitados conforme ementa de ID 34896960.
+Alega violação aos artigos 792, inciso IV, e 1.022, inciso II, do CPC, aduzindo a necessidade do reconhecimento da fraude à execução.
+Recurso tempestivo (ID 40366010) e preparado (ID 40366988).
+Contrarrazões juntadas conforme ID 43879998.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+A parte Recorrente defende o reconhecimento da fraude à execução.
+Porém, essa tese, está atingida pela sistemática dos recursos repetitivos, conforme se depreende do recurso paradigma REsp n. 956.943/PR (Tema 243), em que o Superior Tribunal de Justiça concluiu que para o reconhecimento da fraude da execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente:
+“PROCESSO CIVIL. RECURSO REPETITIVO. ART. 543-C DO CPC. FRAUDE DE EXECUÇÃO. EMBARGOS DE TERCEIRO. SÚMULA N. 375/STJ. CITAÇÃO VÁLIDA. NECESSIDADE. CIÊNCIA DE DEMANDA CAPAZ DE LEVAR O ALIENANTE À INSOLVÊNCIA. PROVA. ÔNUS DO CREDOR. REGISTRO DA PENHORA. ART. 659, § 4o, DO CPC. PRESUNÇÃO DE FRAUDE. ART. 615-A, § 3o, DO CPC.
+1. Para fins do art. 543-c do CPC, firma-se a seguinte orientação: 1.1. É indispensável citação válida para configuração da fraude de execução, ressalvada a hipótese prevista no § 3o do art. 615-A do CPC. 1.2. O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375/STJ). 1.3. A presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar a parêmia: a boa-fé se presume; a má-fé se prova. 1.4. Inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência, sob pena de tornar-se letra morta o disposto no art. 659, § 4o, do CPC. 1.5. Conforme previsto no § 3o do art. 615-A do CPC, presume-se em fraude de execução a alienação ou oneração de bens realizada após a averbação referida no dispositivo. 2. Para a solução do caso concreto: 2.1. Aplicação da tese firmada. 2.2. Recurso especial provido para se anular o acórdão recorrido e a sentença e, consequentemente, determinar o prosseguimento do processo para a realização da instrução processual na forma requerida pelos recorrentes.” (REsp 956.943/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 20/08/2014, DJe 01/12/2014) (g.n.)
+O órgão fracionário deste Tribunal, por sua vez, entendeu que:
+“Nesse contexto, nos termos preconizados pela vasta orientação jurisprudencial em situações similares, não comprovada a má-fé do terceiro, bem como ausente restrição junto ao registro de imóveis na época em que entabulado o negócio jurídico com este, não há falar em fraude à execução, competindo à parte exequente comprovar tenha o adquirente agido de má-fé, pois a boa-fé se presume.” (ID 22390495 – p.5)
+Assim, ao analisar o acórdão recorrido, observa-se que este se encontra em conformidade com a orientação do STJ, pois, ambos os Tribunais entenderam que para reconhecer a fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente.
+Desse modo, com fundamento no art. 1.030, inciso I, “b”, do CPC, e em face da conformidade do acórdão impugnado com o julgamento do recurso paradigma (Tema 243 do STJ), o recurso não pode ser admitido quanto a este item, diante da sistemática de precedentes.
+Por essa razão, passo à análise dos demais pressupostos de admissibilidade.
+Suposta violação ao artigo 1.022, inciso II, do CPC
+A partir da suposta ofensa ao artigo 1.022, inciso II, do CPC, alega que o órgão fracionário deste Tribunal não analisou a questão referente a tese de fraude à execução relativa aos imóveis que o devedor Recorrido transferiu fradulentamente para seus filhos e netos, objeto das Matrículas n.o 21.600, 8.792 e 16.666, todas do CRI de Paraguaçu Paulista/SP.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Ao contrário dos argumentos vertidos pelo embargante, não se constata quaisquer dos vícios alegados, uma vez que, a referida decisão combatida, motivou a fundamentação da decisão.
+Senão:
+“(...)
+Nesse contexto, nos termos preconizados pela vasta orientação jurisprudencial em situações similares, não comprovada a má-fé do terceiro, bem como ausente restrição junto ao registro de imóveis na época em que entabulado o negócio jurídico com este, não há falar em fraude à execução, competindo à parte exequente comprovar tenha o adquirente agido de má-fé, pois a boa-fé se presume.”
+Pergunta-se: onde encontram-se a omissão, obscuridade e contradição, se o acórdão encontra-se devidamente fundamentado. In casu, verifica-se que inexiste qualquer vício na decisão objurgada.” (ID 34896959 – p. 1/2)
+Diante desse quadro, não há evidência de violação ao artigo 1.022, inciso II, do CPC, o que conduz à inadmissão do recurso.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de maio de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+IX
