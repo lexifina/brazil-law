@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto pela União contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. FUNDEF. HONORÁRIOS CONTRATUAIS. RETENÇÃO REQUERIDA ANTES DA EXPEDIÇÃO DO REQUISITÓRIO. DESTAQUE. POSSIBILIDADE. AGRAVO DE INSTRUMENTO PROVIDO E AGRAVO INTERNO PREJUDICADO.
+    1. O agravo de instrumento foi interposto em face de decisão em que o Magistrado de primeira instância deferiu a expedição de precatório, determinando, contudo, que o mesmo permanecesse com ordem de bloqueio até que sanadas as controvérsias discutidas em sede de embargos à execução, bem como referentes à titularidade dos honorários advocatícios devidos.
+    2. Nos termos do art. 22, parágrafo 4º, da Lei 8.906/94, é possível o deferimento do pedido de retenção do percentual de honorários contratuais ao exequente, desde que tal provimento seja requerido em momento anterior à expedição do requisitório de pagamento, como ocorreu no presente caso.
+    3. O entendimento majoritário deste sodalício é no sentido de se reconhecer a possibilidade da retenção pretendida, ainda que diga respeito a verbas do FUNDEF, desde que sejam observados os requisitos previstos no citado art. 22, § 4º, da Lei nº 8.906/94. Precedentes: AG142930/AL, Des. Federal MANOEL ERHARDT, 1ª Turma, Julgado: 30/06/2016, PJE 07/07/2016; 08031755820144058000, AC/AL, Des. Federal RONIVON DE ARAGÃO (CONVOCADO), 2ª Turma, Julgado 21/07/2016; 08001353120154058001, AC/AL, Des. Federal PAULO MACHADO CORDEIRO, 3ª Turma, Julgado: 04/08/2016; AG143265/PB, Des. Federal SÉRGIO MURILO WANDERLEY QUEIROGA (CONVOCADO), 4ª Turma, Julgado: 15/03/2016, DJe 18/03/2016.
+    4. Agravo de instrumento provido para que seja deferida a retenção de 20% a título de honorários advocatícios em favor do escritório agravante, do valor a ser expedido do precatório em favor do Município de Pindoba, uma vez que preenchidos os requisitos do art. 22, § 4º da Lei nº 8.906/1994, determinando ainda a correção da requisição de pagamento 2016.80.00.002.200150, para que expressamente conste tal disposição, mantendo-se, contudo, a ordem de bloqueio determinada pelo Juízo de origem, até ulterior resolução das mencionadas controvérsias e agravo interno prejudicado”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 60, do ADCT. Sustenta que: (i) os valores pretéritos a título de complementação pela União ao FUNDEF somente podem ser destinados à manutenção e desenvolvimento da educação básica e na valorização dos profissionais de educação; (ii) o valor da condenação não pode se destinar ao pagamento dos honorários contratuais.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    […]
+    Constato que o exame da alegada ofensa ao art. 60 do ADCT, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, de modo que a ofensa ao texto constitucional, se ocorrente, seria reflexa ou indireta e, por isso, sua análise, na via extraordinária, mostra-se inadmissível.
+    Assim, INADMITO o recurso extraordinário”.
+    O recurso está prejudicado, tendo em vista que o Superior Tribunal de Justiça, no julgamento do Resp 1.679.974, simultaneamente interposto em face do mesmo acórdão, deu provimento ao Recurso Especial para o fim de afastar o direito à retenção dos honorários contratuais. Confira-se trecho do julgado:
+    […]
+    De pronto, observo que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual não é possível a aplicação do art. 22, § 4º, da Lei n. 8.906/1994, às execuções em face da União, nas quais se busque verbas decorrentes de diferenças do FUNDEF/FUNDEB, não repassadas ao tempo e modo, consoante precedente da 1ª Seção deste Tribunal Superior, assim ementado:
+    […]
+    Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para afastar o direito à retenção dos honorários advocatícios contratuais, nos termos expostos”. ( REsp 1.679.974, Rel.ª Min.ª Regina Helena Costa)
+    A referida decisão monocrática foi mantida, por unanimidade, pela Primeira Turma do STJ, em julgamento de agravo interno.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso extraordinário interposto pela União.
+    Publique-se.
+          Brasília, 29 de maio de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
