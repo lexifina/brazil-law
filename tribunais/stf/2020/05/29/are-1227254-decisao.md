@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “AGRAVO LEGAL EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI Nº 12.546/11. CONSTITUCIONALIDADE. AGRAVO IMPROVIDO.
+    1. A decisão agravada foi proferida em consonância com o entendimento jurisprudencial do C. STJ e desta Eg. Corte, com supedâneo no art. 557, do CPC, inexistindo qualquer ilegalidade ou abuso de poder.
+    2. A incidência sobre a receita bruta foi uma alteração com vistas à desoneração a folha de pagamento de alguns setores. A contribuição, antes fixada em 20% incidente sobre a folha de pagamento, foi substituída pela incidência do percentual de 2% sobre a receita bruta, nos termos da Lei nº 12.546/11.
+    3. Agravo improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto do presente recurso, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 12.546/2011), circunstância essa que obsta o próprio conhecimento do apelo extremo.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 830.832-AgR/SC, Rel. Min. CELSO DE MELLO – RE 1.129.648/PR, Rel. Min. ROBERTO BARROSO – RE 1.136.284-AgR/SC, Rel. Min. CÁRMEN LÚCIA – RE 1.250.849/RS, Rel. Min. ALEXANDRE DE MORAES – RE 1.263.639/PR, Rel. Min. EDSON FACHIN, v.g.):
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. REGIME SUBSTITUTIVO DA LEI 12.546/2011. INAPLICABILIDADE NO CASO CONCRETO. VIOLAÇÃO AO ARTIGO 97 DA CONSTITUIÇÃO NÃO CONFIGURADA. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. INCIDÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NESTA SEDE RECURSAL. ARTIGO 85 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.”
+    (RE 936.113-AgR/PR, Rel. Min. LUIZ FUX – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009,  art. 25).
+    Publique-se.
+    Brasília, 29 de maio de 2020.
+Ministro CELSO DE MELLO
+Relator
