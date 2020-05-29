@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo interno contra decisão monocrática de minha relatoria.
+    Em 03.02.2014, determinei a devolução dos autos à origem, com base no art. 543-B, do CPC/1973, a fim de que fosse aplicada a sistemática da repercussão geral. Contra essa decisão a Fazenda Nacional interpôs agravo interno, alegando distinção entre o caso dos autos e a matéria discutida no recurso adotado como paradigma (RE 596.701-RG).
+    Ao apreciar o referido agravo interno, em 08.04.2014, determinei o sobrestamento do feito até o julgamento do RE 596.701-RG.
+    Tendo em vista que o recurso paradigma foi julgado pelo Plenário do Supremo Tribunal Federal em 20.04.2020, afasto o sobrestamento.
+    Dessa forma, reconsidero a decisão monocrática agravada. Passo à análise do recurso.
+    Trata-se de recurso extraordinário interposto contra acórdão de Turma Recursal vinculada ao Tribunal Regional Federal da 5ª Região, assim ementado:
+    “MILITAR. CONTRIBUIÇÃO PREVIDENCIÁRIA. ART. 40, § 18 DA CONSTITUIÇÃO FEDERAL. RESPEITO AO TETO CONSTITUCIONAL. RGPS. PRINCÍPIO DA ISONOMIA. CONCEDE. RECURSO IMPROVIDO.
+    Os militares contribuem para a previdência no patamar de 7,5% (sete e meio) por cento sobre o total da remuneração.
+    Pretende a parte autora, que a incidência da contribuição previdenciária sobre os militares inativos recaia sobre o valor que exceder o teto da previdência, tal como ocorre em relação aos servidores civis.
+    Juiz A QUO deferiu o pedido autoral para que a contribuição de 7,5% (sete e meio por cento) incida sobre o valor que exceder o teto da previdência social.
+    Constituição não disciplinou o regime de previdência dos militares, mas remeteu o cálculo de seus proventos de inatividade, para a forma do art. 40, § 3º, CR/88, isto é, a mesma prevista para os servidores públicos civis. A EC 41/03, em seu art. 1º, acrescentou, no art. 40, § 18º, relativo ao cálculo dos proventos de aposentadoria e, portanto, aplicável aos militares, nos termos do art. 42, § 1º, no qual se previu: "incidirá contribuição sobre os proventos de aposentadoria e pensões concedidas pelo regime de que trata este artigo que superem o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.’ (grifei)
+    Precedentes do STJ.
+    Recurso improvido.”
+    O recurso busca fundamento no 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 18º, 142, X, 150, II e 150, § 6º, todos da Carta. Sustenta que: (i) o acórdão recorrido declarou a inconstitucionalidade do artigo 3º-A da Lei nº 3.765/1960; (ii) não é possível estender aos militares o disposto no art. 40, § 18, da Carta, tendo em vista que esses agentes possuem regime jurídico distinto daquele a que estão submetidos os servidores públicos; (iii) o advento da Emenda Constitucional nº 41/2003 (EC 41/03) não afastou as especificidades do Regime Jurídico dos militares, delineado desde a promulgação da Emenda Constitucional nº 18/1998 (EC 18/98).
+    Cumpre registrar que o Supremo Tribunal Federal, em sessão plenária, finalizou o julgamento do RE 596.701-RG, de relatoria do Min. Edson Fachin, decidindo pela validade das contribuições incidentes sobre proventos de militares inativos no período compreendido entre as Emendas Constitucionais 20/98 e 41/03.
+    Naquela assentada, foi fixada a seguinte tese: “É constitucional a cobrança de contribuições sobre os proventos dos militares inativos, aqui compreendidos os Policiais Militares e o Corpo de Bombeiros dos Estados e do Distrito Federal e os integrantes das Forças Armadas, entre o período de vigência da Emenda Constitucional 20/98 e da Emenda Constitucional 41/03, por serem titulares de regimes jurídicos distintos dos servidores públicos civis e porque a eles não se estende a interpretação integrativa dos textos dos artigos 40, §§ 8º e 12, e artigo 195, II, da Constituição da República".
+    A Corte entendeu, por maioria, que os militares possuem regime jurídico próprio e distinto dos servidores públicos civis, e que a eles (militares) não se estende a interpretação integrativa dos textos dos artigos 40, §§ 8º e 12, e artigo 195, II, da Constituição da República.
+    Diante do exposto, reconsidero a decisão monocrática agravada e, com base no art. 1.036, do CPC/2015, e no art. 328, parágrafo único, do RI/STF, determino a remessa dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 29 de maio de 2020.
+Ministro Luís Roberto Barroso
+Relator
