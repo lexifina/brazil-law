@@ -1,0 +1,45 @@
+Trata-se de habeas corpus impetrado em favor de Francisco de Assis Neres da Silva contra decisão proferida pelos Ministros integrantes da Quinta Turma do Superior Tribunal de Justiça que não conheceram do HC 540.980/MA (págs. 219-225 do documento eletrônico 3).
+    Os impetrantes alegam, em síntese, que
+    “[trata-se] de acordão que rejeitou os argumentos de nulidade processual pela ausência de intimação pessoal do acusado na decisão de pronúncia ao Tribunal do Júri trazidos à baila pelo Habeas Corpus nº 540.980/MA, limitando-se, apenas, em considerações genéricas, objurgando as alegações, ignorando o preceitos legais, bem como garantias fundamentais de defesa, eis o que encampa em Ato Coator (STJ – HC 540.980 – MA, Rel. Ministro Jorge Mussi, QUINTA TURMA, julgado em 03 de Março de 2020, DJe 05/03/2020).
+    10. Para melhor compreensão, vejamos a ementa do acórdão ora tido como Ato Coator: [...].
+    11. Como supra explicitado, a decisão guerreada não conheceu a via estreita, por entender a existência de recurso próprio para o feito.
+    12. Ainda, limitou o entendimento do artigo 420, I, do Código Processo Penal, dando uma interpretação restritiva, prejudicial ao Paciente.
+    13. Não sendo suficiente, mencionou uma suposta ‘relação de confiança’ entre advogado e cliente, para justificar a ausência de intimação pessoal da decisão de pronúncia.
+    14. Com a devida vênia, a decisão atenta contra a garantias fundamentais do contraditório e ampla defesa encampando o ato em manifesto ato atentatório a dignidade da pessoa humana. Não! Isso não pode ocorrer em uma República Democrática de Direito.
+    15. Por estas motivações interpõe-se Habeas Corpus a esta Suprema Corte.
+    16. Eis a síntese fatídica e processual que permeia o presente remédio heroico” (págs. 4-5 do documento eletrônico 1).
+    Ao final, requerem:
+    “a) [...] o Conhecimento deste Remédio Heroico como sucedâneo recursal, ante a inequívoco constrangimento ilegal, conforme entendimento firmado por esta Suprema Corte, (HC 13971/DF, Rel. Min. Dias Toffoli, DJe 6.3.2018).
+    b) Ao final, depois de prestadas as devidas informações (sem necessidade ante a juntada integral da Ação Penal), bem ainda, após a ilustre manifestação da eminente Procuradoria-Geral de Justiça, REQUER que seja concedida a ordem definitiva, ratificando-se a liminar, para, proceder com o ANULAÇÃO DO TRÂNSITO EM JULGADO da decisão judicial que pronunciou o Paciente, em razão de estarem presentes - de plano e sem necessidade de dilação probatória - a inobservância da obrigação de intimação pessoal acerca da decisão judicial de pronúncia, nos termos da maçante jurisprudência do deste Supremo Tribunal Federal – STF, atendendo-se, destarte, aos reclamos da mais pura e cristalina Justiça” (págs. 13-14 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Destaco, inicialmente, que, embora o presente habeas corpus tenha sido impetrado em substituição a recurso ordinário, não oponho óbice ao seu conhecimento, na linha do que tem decidido a Segunda Turma deste Supremo Tribunal. Nesse sentido, cito os seguintes precedentes: HC 122.268/MG, Rel. Min. Dias Toffoli; HC 116.437/SC, Rel. Min. Gilmar Mendes; e HC 112.836/SE, Rel. Min. Cármen Lúcia.
+    Anote-se, também, que o art. 192 do Regimento Interno do Supremo Tribunal Federal faculta ao Relator denegar ou conceder a ordem de habeas corpus, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Por este motivo, passo ao exame do mérito desta impetração.
+    O art. 420, I, do Código de Processo Penal determina que a intimação da decisão de pronúncia será feita ao defensor constituído, ao querelante e ao assistente do Ministério Público, na forma do disposto no § 1° do art. 370 daquele Código.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. NA FORMA DO § 1° DO ART. 370 DO CÓDIGO DE PROCESSO PENAL, A INTIMAÇÃO DA DECISÃO DE PRONÚNCIA SERÁ FEITA AO DEFENSOR CONSTITUÍDO, AO QUERELANTE E AO ASSISTENTE DO MINISTÉRIO PÚBLICO: INC. I DO ART. 420 DO CPP. O ACUSADO SOLTO QUE NÃO FOR ENCONTRADO SERÁ INTIMADO POR EDITAL: PARÁGRAFO ÚNICO DO ART. 420 DO CPP. É ÔNUS DA PARTE A IMPUGNAÇÃO DA NULIDADE DE ATO PROCESSUAL NA PRIMEIRA OPORTUNIDADE QUE TIVER PARA SE MANIFESTAR NOS AUTOS. A DEMONSTRAÇÃO DE PREJUÍZO É ESSENCIAL À ALEGAÇÃO DE NULIDADE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - O agravante apenas reitera os argumentos anteriormente expostos na inicial do habeas corpus, sem, contudo, aduzir novos elementos capazes de afastar as razões expendidas na decisão agravada.
+    II - Determina o inc. I do art. 420 do Código de Processo Penal que a intimação da decisão de pronúncia será feita ao defensor constituído, ao querelante e ao assistente do Ministério Público, na forma do disposto no § 1° do art. 370 daquele Código.
+    III - Estabelece, ainda, o parágrafo único do aludido art. 420 que será intimado por edital o acusado solto que não for encontrado.
+    IV – É ônus da parte, na primeira oportunidade que lhe couber falar nos autos, impugnar a nulidade de ato processual, sob pena de preclusão temporal e convalidação do ato.
+    V – Os fundamentos expostos no decisum combatido estão em conformidade com a jurisprudência desta Suprema Corte que orienta a resolução das questões postas à exame.
+    VI - Agravo a que se nega provimento” (HC 156.616-AgR/PE, de minha relatoria, Segunda Turma).
+    Feitos esses registros, transcrevo novamente, por oportuno, o inteiro teor proferido pelo Ministro Jorge Mussi, Relator do HC 540.980/MA na Quinta Turma do STJ, in verbis:
+    “Por meio deste habeas corpus, pretende-se, em síntese, a anulação do trânsito em julgado do acórdão que pronunciou o paciente pela prática do delito de homicídio.
+    Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+    O alegado constrangimento ilegal, entretanto, é analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+    O artigo 420, inciso I, do Código de Processo Penal preceitua que a intimação da decisão de pronúncia será feita pessoalmente ao acusado, ao defensor nomeado e ao Ministério Público.
+    Da leitura do mencionado dispositivo legal, verifica-se que é obrigatória a intimação pessoal do réu somente em relação à decisão de pronúncia, exigência que não se estende ao acórdão proferido no julgamento do respectivo recurso.
+    Nesse sentido já decidiu esta colenda Quinta Turma: [...].
+    Quanto ao ponto, é imperioso destacar que a doutrina tem dispensado a intimação pessoal do acusado que possui defensor constituído até mesmo quanto à decisão de pronúncia proferida em primeira instância, dada a relação de confiança existente entre eles, que demonstra a inequívoca ciência da submissão do réu a julgamento pelo Tribunal do Júri.
+    Sobre o assunto, Guilherme de Souza Nucci leciona que ‘se o acusado constitui defensor, torna-se mais nítida a relação de confiança existente entre ambos, motivo pelo qual se supõe que a intimação pode dar-se diretamente ao advogado’, que, ‘por certo, avisará o pronunciado’, podendo ser feita ‘pela imprensa, pois se considera o preparo de escritórios particulares para o recebimento dessa forma de intimação’ (Código de Processo Penal Comentado. Rio de Janeiro: Forense, 2018, p. 1078).
+    Na espécie, não obstante o paciente não tenha sido pessoalmente intimado do acórdão impugnado, verifica-se que o advogado por ele constituído foi devidamente notificado tanto da sessão de julgamento do recurso de apelação quanto do acórdão nele proferido por meio do Diário de Justiça Eletrônico (e-STJ fl. 422), o que afasta a eiva articulada na impetração.
+    Com efeito, ao contrário do que sustentado pelo Ministério Público Federal, em se tratando de defensor constituído, exatamente como no caso em apreço, a intimação deve ser feita por meio de publicação no diário de justiça, não havendo que se falar em notificação pessoal.
+    A propósito: [...].
+    [...]
+    Não se deparando, portanto, com flagrante ilegalidade no ato apontado como coator, não se conhece do habeas corpus substitutivo” (págs. 223-225 do documento eletrônico 3).
+    Conforme se verifica, o acórdão recorrido harmoniza-se com a referida orientação jurisprudencial desta Suprema Corte, pois “o advogado por ele constituído foi devidamente notificado tanto da sessão de julgamento do recurso de apelação quanto do acórdão nele proferido por meio do Diário de Justiça Eletrônico”.
+    Isso posto, denego a ordem (art. 192, caput, do RISTF).
+    Publique-se.
+Ministro Ricardo Lewandowski
+Relator
