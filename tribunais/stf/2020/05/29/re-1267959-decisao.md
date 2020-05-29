@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (eDOC 28, p. 19).
+    “APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO DISCIPLINAR QUE ENSEJOU A EXCLUSÃO DE MILITAR DAS FILEIRAS DA CORPORAÇÃO. MANDADO DE SEGURANÇA IMPETRADO ANTERIORMENTE QUE DECIDIU A MESMA SITUAÇÃO JURIDICA. AÇÕES QUE OBJETIVARAM O MESMO RESULTADO. COISA JULGADA. cc ADOÇÃO DA TEORIA DA IDENTIDADE DA RELAÇÃO JURÍDICA ENTRE AS DEMANDAS. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. RECURSO PREJUDICADO.”
+    Os embargos de declaração não foram providos (eDOC 29, p. 19-22).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, incisos XXXV, LIV, LV e LVII, da Constituição Federal.
+    Nas razões recursais, sustenta-se que (eDOC 30, p. 19-21):
+    “Quando o Tribunal a quo afirma que deixa de enfrentar as suscitações em sede de apelo, sob o manto da coisa julgada; pois, alega que há litispendência entre duas ações ajuizadas em momentos diferentes e ritos diferentes, sendo uma mandamental e a outra ordinária, porém, elas são substancialmente iguais, contudo, deve-se utilizar da identidade da relação jurídica, para fins de caracterização da identidade demandas, aparenta ser o mais adequado, especificamente no caso presente.
+    (...)
+    O acesso à justiça é direito humano e essencial ao completo exercício da cidadania. Mais que acesso ao judiciário, alcança também o acesso a aconselhamento, consultoria, enfim, justiça social.
+    O disposto no artigo 5°, XXXV, da Constituição Federal é muito mais abrangente que o acesso ao Poder Judiciário e suas instituições por lesão a direito. Vai além, enquadrando-se aí também a ameaça de direito, e segue-se com uma enorme gama de valores e direitos fundamentais do ser humano.”
+    Aduz-se, também, que (eDOC 30, p. 21):
+1.     “A decisão recorrida afronta o artigo 5º, inciso LIV, da CRFB/88, pois quando o Tribunal Regional chancela e sacramenta a exoneração do recorrente ao bem do serviço público, com uma ficha funcional no comportamento "ótimo", fundamentado em um processo administrativo que recomendou a sua permanência nas fileiras, mas que por decisão injusta e solitária do seu comandante, determinou a sua exoneração com base em processo criminal arquivado, justificando que o simples envolvimento de militar em suposto crime já depõe contra o decoro militar, configurando-se em transgressão disciplinar. Viola e fere mortalmente o Princípio Constitucional o devido processo legal.”
+    Ao fim, assevera que (eDOC 30, p. 22):
+    “A decisão recorrida afronta os princípios constitucionais do contraditório e da ampla defesa, pois o Tribunal Regional não permitiu que o recorrente assistisse o julgamento da preliminar da revelia arguida em sua apelação, quando o Estado/recorrido protocolou a sua contestação intempestivamente, em virtude de o referido acórdão "esconder-se" atrás da coisa julgada como prejudicial de análise de mérito de sua apelação, protegendo assim, a dissidia do procurador do Estado.”
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    As teses encampadas pela parte recorrente já foram amplamente debatidas por esta Corte em oportunidades em que se concluiu não haver repercussão geral de tais temas, por tratarem de normas infraconstitucionais; portanto, se ofensa à Constituição houvesse, seria meramente por via reflexa.
+    Primeiramente, em relação à discussão sobre eventual ofensa ao art. 5º, XXXVI, LIV e LV, da Constituição Federal, o Supremo Tribunal Federal já decidiu no julgamento do ARE 748.371-RG, rel. Min. Gilmar Mendes, DJe 1º.08.2013, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (Tema 660).
+    Do mesmo modo, quanto à alegada violação ao art. 5º, XXXV, da Carta Magna, esta Corte reconheceu não haver repercussão geral da questão (Tema 895 - Ofensa ao princípio da inafastabilidade de jurisdição na hipótese em que há óbice processual intransponível ao julgamento de mérito). Eis a ementa do RE 956.302-RG, de minha relatoria, Plenário Virtual, DJe 16.06.2016:
+    “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, no tocante à aplicação dos Temas 660 e 895 (arts. 1.036 do CPC e 328 do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
