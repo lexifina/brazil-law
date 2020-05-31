@@ -1,0 +1,1 @@
+Art. 61-H. É autorizada a constituição de sociedade de contragarantia, que tem como finalidade o oferecimento de contragarantias à sociedade de garantia solidária, nos termos a serem definidos por regulamento.

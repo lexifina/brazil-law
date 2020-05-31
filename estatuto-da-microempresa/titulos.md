@@ -57,6 +57,8 @@ CAPÍTULO IX
 DO ESTÍMULO AO CRÉDITO E À CAPITALIZAÇÃO
 Seção I
 Disposições Gerais
+Seção I-A
+Da Sociedade de Garantia Solidária e da Sociedade de Contragarantia
 Seção II
 Das Responsabilidades do Banco Central do Brasil
 Seção III
