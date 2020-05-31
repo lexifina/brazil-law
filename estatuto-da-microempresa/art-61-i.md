@@ -1,0 +1,1 @@
+Art. 61-I. A sociedade de garantia solidária e a sociedade de contragarantia integrarão o Sistema Financeiro Nacional e terão sua constituição, organização e funcionamento disciplinados pelo Conselho Monetário Nacional, observado o disposto nesta Lei Complementar.
