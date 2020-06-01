@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1957, de 29 de maio de 2020
+Altera a Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, que dispõe sobre o Cadastro de Pessoas Físicas (CPF), em decorrência da pandemia da doença pelo coronavírus 2019 (Covid-19).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto na Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, e na Portaria RFB nº 543, de 20 de março de 2020, resolve:
