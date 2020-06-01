@@ -1,0 +1,30 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - AGRAVO DE INSTRUMENTO (202) 1012477-94.2019.8.11.0000
+AGRAVANTE: MUNICIPIO DE SANTO ANTONIO DO LEVERGER
+AGRAVADO: WANDERLINA HERVATIM, EVAIR MARIA MONTEIRO SILVA, ANTONIA MARIA PINTO DE MAGALHAES
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento c/c pedido de efeito ativo interposto pelo MUNICÍPIO DE SANTO ANTÔNIO DE LEVERGER em desfavor de WANDERLINA HERVATIME OUTROS em face da decisão proferida pelo Juízo da Vara Única de Santo Antônio de Leverger-MT que, nos autos de Cumprimento de Sentença no 1655-74.2014.811.0053, rejeitou a matéria deduzida na impugnação.
+Aduz que, na origem, trata-se de cumprimento de sentença para determinar a incorporação do percentual de 11,98%, bem como o pagamento da diferença remuneratória, decorrente da implantação da URV.
+Narra que apresentou impugnação ao cumprimento de sentença para fins de reconhecer a causa impeditiva/extintiva da obrigação, decorrente da Lei Municipal no 1.027/2009, ou pelo pagamento ocorrido no ano de 2009 ou, ainda, em decorrência da prescrição da ação de cobrança.
+Discorre sobre a necessidade da realização de perícia contábil, para fins de apurar eventual perda remuneratória.
+Ao final requer o provimento do recurso.
+Contrarrazões id.n.o 27826963.
+É o relatório.
+Decido.
+O recurso visa a reforma da decisão monocrática que em sede de impugnação ao cumprimento provisório da sentença, o rejeitou liminarmente.
+Em análise dos autos, verifico que na verdade o Agravante tenta reabrir discussão abrangida pelo manto da coisa julgada, e, com nítida intenção protelatória.
+As teses de reestruturação da carreira, em decorrência da implementação da Lei Municipal no 1.027/2009, com consequente pagamento, ou de prescrição, são matérias que deveriam ser deduzidas por ocasião da ação de conhecimento, eis que “transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido”, conforme prevê o art. 508 do CPC.
+O Magistrado singular em sua bem lançada decisão, elucidou a lide:
+[...]. A impugnação lastreia-se na argumentação da inexigibilidade do crédito, pois que a administração pública teria realizado a reestruturação do plano de carreira dos servidores públicos municipais. Contudo, como cediço, a impugnação é um incidente processual defensivo na fase de cumprimento de sentença, e, por este motivo, não se permite que o executado/impugnante reabra a discussão de matérias superadas em fase de conhecimento. Isto porque, a reanálise de questão acobertada pelo manto da coisa julgada é impossível, ante sua eficácia preclusiva pena de afronta a imutabilidade da sentença e ofensa à segurança jurídica. Assim, caberia à administração pública trazer à baila a discussão da reestruturação dos servidores públicos na primeira fase do processo sincrético. Neste sentido, e o entendimento jurisprudencial: “(...) 1. Em decorrência dos efeitos da coisa julgada, é inviável, na impugnação ao cumprimento de sentença, afastar a condenação do Distrito Federal ao pagamento de honorários advocatícios à Defensoria Pública do Distrito Federal. (...)”. (Acórdão n.1008178, 07026400720168070000, Relator: FÁTIMA RAFAEL 3a Turma Cível, Data de Julgamento: 16/03/2017, Publicado no PJe: 31/05/2017. Pág.: Sem Página Cadastrada.). (Destaquei). DISPOSITIVO. Isto posto, e pelo que mais consta dos autos, CONHEÇO a presente impugnação ao cumprimento provisório de sentença manejada pelo Município de Santo Antônio de Leverger/MT, mas, no mérito, REJEITO-A LIMINARMENTE, pelo seu caráter protelatório.
+Por sua vez, observo que em sua impugnação ao cumprimento de sentença o Agravante não pediu a realização de perícia contábil, para fins de apurar eventual perda remuneratória.
+Desse modo, eventual análise da matéria pode configurar supressão de instância, o que será melhor avaliado por ocasião da análise de mérito deste recurso.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO. QUESTÕES NÃO ENFRENTADAS NA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA E VIOLAÇÃO DO DUPLO GRAU DE JURISDIÇÃO. VEDAÇÃO. RECURSO NÃO CONHECIDO. O recurso de agravo de instrumento, em função de seu efeito devolutivo, está limitado a impugnar as matérias decididas pelo juízo "a quo", sendo vedado ao juízo "ad quem", por incorrer em supressão de instância e na violação ao princípio do duplo grau de jurisdição, a análise de matérias que extrapolem esses limites objetivos, mesmo tratando-se de matéria de ordem pública.(TJ-MG - AI: 10000180682957001 MG, Relator: Belizário de Lacerda, Data de Julgamento: 11/12/2018, Data de Publicação: 13/12/2018)
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DESCONSTITUIÇÃO DE PERSONALIDADE JURÍDICA. PRELIMINAR de ofício. SUPRESSÃO DE INSTÂNCIA E VIOLAÇÃO AO DUPLO GRAU DE JURISDIÇÃO. Acolhida. Recurso NÃO conhecido. 1- O recurso de agravo de instrumento, em função de seu efeito devolutivo, está limitado a impugnar as matérias decididas pelo juízo a quo , sendo vedado ao juízo ad quem , por incorrer em supressão de instância e na violação ao princípio do duplo grau de jurisdição, a análise de matérias que extrapolem esses limites objetivos, mesmo tratando-se de matéria de ordem pública. 2- Inviável a cognição da matéria relativa à desconstituição da personalidade jurídica da agravada, tendo em vista tal matéria não ter sido analisada pelo juiz de primeiro grau. 3- Recurso improvido.(TJ-ES - AI: 00120462320188080024, Relator: JORGE DO NASCIMENTO VIANA, Data de Julgamento: 16/07/2018, QUARTA CÂMARA CÍVEL, Data de Publicação: 26/07/2018).
+Assim, [...] Incabível a apreciação pelo Tribunal de Justiça, de matéria não analisada pelo Juízo a quo, sob pena de supressão de instância.(TJ/MT, Quarta Câmara Cível, agravo regimental 119522/2014, relator Desembargador José Zuquim Nogueira, julgamento em 21 de outubro de 2014).
+Desse modo, verifica-se que o Juízo "a quo" não decidiu as questões postas no hodierno agravo de instrumento, NEGO PROVIMENTO ao recurso.
+Intimem-se.
+Cumpra-se.
+Cuiabá, 1 de junho de 2020
+Desa. MARIA EROTIDES KNEIP
+Relatora
