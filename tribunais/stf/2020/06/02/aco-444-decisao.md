@@ -1,0 +1,11 @@
+DECISÃO:
+    1. O Estado de São Paulo requer que o feito seja retirado da pauta de julgamento em ambiente eletrônico, para que o prosseguimento da discussão ocorra presencialmente. Argumenta, essencialmente, que o processo é tecnicamente complexo, envolve interesses políticos e econômicos relevantes, que pode ser necessário o esclarecimento de questões de fato e que existem, entre os documentos dos autos, mapas de grandes dimensões.
+    Decido.
+    2. O julgamento em ambiente eletrônico é uma medida que, cada vez mais, ganhará espaço no Poder Judiciário, dada a sua aptidão para a concretização do princípio da duração razoável do processo. Esse fato se acentua em tempos de pandemia, que dificulta sobremaneira a realização de reuniões presenciais.
+    3. O Regimento Interno do Supremo Tribunal Federal, em seu art. 21-B, permite o julgamento em ambiente eletrônico de “todos os processos de competência do Tribunal”. Os autos foram praticamente integralmente digitalizados e, em relação a eventuais documentos não digitalizados, estão à disposição para consulta de quaisquer dos Ministros e Ministras que a entendam necessária. Não haverá, portanto, prejuízo com relação ao conhecimento integral dos autos.
+    4. A eventual necessidade de esclarecimento de questões de fato tampouco representa um obstáculo a um julgamento adequado, já que “iniciada a sessão virtual, os advogados e procuradores poderão realizar esclarecimentos exclusivamente sobre matéria de fato, por meio do sistema de peticionamento eletrônico do STF, os quais serão automaticamente disponibilizados no sistema de votação dos Ministros” (Art. 5º-A, § 6º, da Resolução nº 642, de 14 de junho de 2019, acrescido pela Resolução nº 675, de 22 de abril de 2020).
+    5. O feito é realmente complexo. Porém, já houve possibilidade de discussão presencial, quando da sessão em que apresentei meu voto. Posteriormente, houve dois pedidos de vista e nada impede que outro Ministro ou Ministra formule novo pedido de vista ou de destaque (RISFT, art. 21-B, § 3º). Da minha parte, contudo, entendo que o processo pode ser perfeitamente julgado em ambiente virtual.
+    6. Diante do exposto, indefiro o pedido.
+    Brasília, 02 de junho de 2020.
+Ministro Luís Roberto Barroso
+Relator
