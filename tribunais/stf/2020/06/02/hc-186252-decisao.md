@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Execução Penal. Habeas Corpus. Roubo Majorado. Livramento condicional. Exame criminológico. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 579.550/SP, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 11 anos, 4 meses e 17 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 2º, I e II, do Código Penal.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio impetração de HC no Superior Tribunal de Justiça (HC 579.550/SP). O Relator, Ministro Jorge Mussi, indeferiu o pedido de liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que: (i) o paciente já preencheu todos os requisitos para o livramento condicional, devendo ser beneficiado “com urgência, independentemente de realização de exame criminológico”; (ii) há o risco decorrente da pandemia do Coronavírus (Covid-19), reessaltando “a urgência do afastamento da necessidade de tal exame, tendo em vista que ele tem bronquite e está em unidade superlotada”.
+    5. Decido.
+    6. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. A orientação jurisprudencial do STF é no sentido de que “a Lei 10.792/03 deu nova redação ao artigo 112 da Lei de Execuções Penais (Lei n. 7.210/84), excluindo a previsão de exame criminológico para a obtenção da progressão de regime, livramento condicional, indulto e comutação de penas. O silêncio da Lei a respeito da obrigatoriedade do exame criminológico, contudo, não inibe o juízo da execução do poder de determiná-lo, desde que fundamentadamente. Isso porque a análise do requisito subjetivo pressupõe a verificação do mérito do condenado, que não está adstrito ao ‘bom comportamento carcerário’, como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador, como assentado na ementa do Tribunal a quo” (RHC 121.851, Rel. Min. Luiz Fux). No mesmo sentido: HC 114.137, Relª. Minª. Rosa Weber; HC 114.409, Rel. Min. Ricardo Lewandowski).
+    9. No caso, o Tribunal de origem assentou que “o paciente foi condenado por roubo, crime praticado mediante violência, e já teve anotação de prática de falta grave, o que justifica, a princípio, a realização do exame criminológico”. Nessas condições, não verifico ilegalidade flagrante ou abuso de poder que autorize o imediato acolhimento do pleito defensivo.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 02 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
