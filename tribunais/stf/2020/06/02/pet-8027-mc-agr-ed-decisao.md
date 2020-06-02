@@ -1,0 +1,32 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA MEDIDA CAUTELAR NA PETIÇÃO. PROCESSUAL CIVIL. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO: NATUREZA ACESSÓRIA. JULGAMENTO DO RECURSO: PERDA SUPERVENIÊNCIA DO OBJETO. PETIÇÃO PREJUDICADA.
+Relatório
+    1. Em 26.12.2018, Jack Houat Harb e outros apresentaram petição, com requerimento de medida liminar, com a pretensão de ser dado efeito suspensivo ao Recurso Extraordinário n. 1.204.884 de minha relatoria.
+O caso
+    2. Em 28.1.2019, o Ministro Luiz Fux, no exercício da Presidência deste Supremo Tribunal, no recesso judiciário, indeferiu medida liminar requerida nesta ação:
+    “PETIÇÃO. PROCESSUAL CIVIL E ELEITORAL. ELEIÇÕES 2018. DRAP INDEFERIDO. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PROBABILIDADE DE PROVIMENTO DO RECURSO. ARTIGO 995, PARÁGRAFO ÚNICO, DO CPC/2015. MEDIDA LIMINAR INDEFERIDA” (doc. 16).
+    Em 22.3.2019, a Segunda Turma deste Supremo Tribunal negou provimento ao agravo regimental interposto contra decisão monocrática do Ministro Luiz Fux, no exercício da Presidência:
+    “AGRAVO REGIMENTAL EM PETIÇÃO. DEFERIMENTO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO. ACÓRDÃO DO TRIBUNAL SUPERIOR ELEITORAL PELO QUAL SE APLICOU A RESOLUÇÃO/TSE N. 23.432/2014 À PRESTAÇÃO DE CONTAS DO EXERCÍCIO FINANCEIRO DE 2015. PRETENSÃO DE APLICAÇÃO RETROATIVA DA LEI N. 13.165/2015. AUSÊNCIA DA PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA CAUTELAR. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (doc. 24).
+    Publicada essa decisão no DJe de 11.4.2019, opõem os embargantes, tempestivamente, os presentes embargos de declaração, no qual alegam haver na decisão agravada “omi[ssão] quanto ao fato de que a alteração normativa que trouxe ao ordenamento o dispositivo do artigo 37-A da Lei dos Partidos Políticos já estava em vigor quando do julgamento das contas do partido e, por conseguinte, retirou o fundamento de validade do normativo da Corte Eleitoral“ (fl. 2, doc. 25).
+    Requerem:
+    “a supressão da omissão apontada quanto ao alcance do dispositivo constitucional do artigo 17, § 3º que reserva à lei a regulação do acesso aos recursos do fundo partidário – o que revela que uma vez editado texto legal quanto à sanção a ser imposta em caso de contas julgadas não prestadas, restou derrogado o fundamento de validade da resolução do Tribunal Superior Eleitoral que previa sanção diversa.
+    Suprida a omissão quanto à relevante questão constitucional debatida e configurada a plausibilidade de êxito do apelo extraordinário, requer-se, por consectário, seja atribuído efeito suspensivo ativo aos recursos extraordinários interpostos pelos requerentes, para suspender os efeitos do acórdão do c. TSE e determinar, por consectário lógico do deferimento do DRAP, o deferimento registro do primeiro requerente e de todos os integrantes da Coligação, a retotalização dos votos para a diplomação e posse dos eleitos“ (fls. 10-11, doc. 25).
+    Em 9.10.2019, determinei o sobrestamento destes embargos de declaração ”até o exame do referendo do Plenário à decisão monocrática proferida na Ação Direta de Inconstitucionalidade n. 6.032” (doc. 34).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. A presente petição está prejudicada pela perda superveniente de seu objeto.
+    4. Em 16.12.2019, dei parcial provimento ao Recurso Extraordinário n. 1.204.884 para anular o acórdão recorrido e determinar a devolução dos autos ao Tribunal Superior Eleitoral para decidir como de direito (doc. 13).
+    Contra essa decisão Jaci Pena Amanajas interpôs agravo regimental (doc. 31).
+    Em 13.2.2020, não conheci do agravo regimental pela ilegitimidade do peticionário para ingressar na presente lide (doc. 45).
+    A Secretaria Judiciária deste Supremo Tribunal certificou que “o (a) acórdão/decisão transitou em julgado em 22/02/2020” (doc. 47) e, em 26.5.2020, baixou-se o Recurso Extraordinário n. 1.204.884, ao Tribunal Superior Eleitoral.
+    5. A decisão pela qual se defere efeito suspensivo ao recurso extraordinário é acauteladora, sem definitividade, produzindo efeitos somente até o julgamento do extraordinário, o que se deu na espécie.
+    Ao dispor sobre as tutelas provisórias fundadas em urgência ou evidência, no art. 296 do Código de Processo Civil se estabelece que “a tutela provisória conserva sua eficácia na pendência do processo, mas pode, a qualquer tempo, ser revogada ou modificada”, a revelar não apenas sua precariedade como a relação de acessoriedade que guarda com a ação principal.
+    Em razão da natureza cautelar do provimento de urgência veiculado nesta petição e o Recurso Extraordinário n. 1.204.884, é de ser reconhecido o prejuízo desta ação. Assim, por exemplo:
+    “Ante a natureza eminentemente efêmera dos provimentos cautelares e sua incompatibilidade com a decisão final tomada no apelo extremo, é de se ter como instantaneamente cassada a liminar, não havendo, portanto, motivo para se aguardar o trânsito em julgado do recurso. Questão de ordem que se resolve no sentido do imediato cumprimento da decisão Plenária de 22.09.2005, com as comunicações devidas” (RE n. 446.907-QO/AP, Redator para o acórdão o Ministro Ayres Britto, Plenário, DJ 6.10.2006).
+    “A medida cautelar requerida para o fim de ser dado efeito suspensivo a recurso extraordinário é mero incidente relativo ao julgamento do recurso, que se exaure com o deferimento ou o indeferimento do pedido” (Pet n. 2.464-AgR/PR, Relator o Ministro Carlos Velloso, Segunda Turma, DJ 4.4.2003).
+    “Embargos declaratórios opostos a acórdão em que se indeferiu medida cautelar destinada a emprestar efeito suspensivo a recurso extraordinário. Perda de seu objeto, em virtude do julgamento do recurso, de que não conheceu o Tribunal” (Pet n. 1.592-MC-ED-QO/RJ, Relator o Ministro Octavio Gallotti, Tribunal Pleno, DJ 25.5.2001).
+    Sendo a pretensão cautelar precária e provisória, substituída pelo julgamento definitivo do recurso extraordinário, há de se ter por prejudicada a presente petição, por perda superveniente de seu objeto, o que se estende, por óbvio, aos presentes embargos de declaração.
+    6. Pelo exposto, julgo prejudicada a presente petição e, por óbvio, os embargos de declaração opostos no agravo regimental contra o indeferimento da medida liminar (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de junho de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
