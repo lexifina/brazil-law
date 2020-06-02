@@ -1,0 +1,25 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Edvaldo Ramos Nobre Filho assim retratou o caso:
+    O Juízo da Primeira Vara Criminal de Canoas/RS não acolheu representação da autoridade policial visando a prisão preventiva do paciente, assentando não atendidos os requisitos legais. Em seguida, impôs as cautelares previstas nos incisos I e III do artigo 319 do Código de Processo Penal – comparecimento mensal em Juízo e proibição de manter contato com a vítima e testemunha –, ante a suposta prática do delito versado no artigo 121, § 2º, inciso IV, combinado com 14, inciso II (tentativa de homicídio qualificado mediante emprego de recurso que dificultou a defesa da vítima), do Código Penal.
+    Requerimento do Ministério Público voltado à observância da custódia foi indeferido.
+    A Primeira Câmara Criminal do Tribunal de Justiça, ao prover recurso em sentido estrito formalizado pelo Órgão acusador, determinou a prisão preventiva do paciente, efetivada em 1º de novembro de 2018. Concluiu necessário garantir a ordem pública, tendo em vista a insuficiência das cautelares diversas, no que o paciente voltou a delinquir, sendo preso em flagrante por duas vezes, considerado o cometimento de crimes em outras Comarcas. Embargos infringentes protocolados não tiveram êxito.
+    No processo nº 0014266-84.2015.8.21.0008, sobreveio decisão de pronúncia, na qual foi mantida a custódia.
+    No Superior Tribunal de Justiça, a Relatora conheceu parcialmente do recurso em habeas corpus nº 122.371 e, nessa extensão, negou-lhe provimento.
+    O impetrante sustenta não demonstrada a imprescindibilidade da custódia, afirmando-a desproporcional. Frisa ausente a contemporaneidade, no que alusiva a fato ocorrido há mais de 5 anos. Assevera que as provas colhidas no processo-crime evidenciam a inocência. Aponta o excesso de prazo da prisão, dizendo-a perdurar, sem culpa formada, há mais de 2 anos. Sublinha o cancelamento do julgamento do Júri marcado para 2 de junho de 2020, inexistindo designação de nova data.
+    Requer, no campo precário e efêmero, o afastamento da prisão e, sucessivamente, a substituição por cautelar alternativa. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou que, em 12 de fevereiro último, o Juízo não acolheu pedido de revogação, realçando a persistência dos requisitos que a ensejaram.
+    A fase é de apreciação da medida acauteladora.
+    2. O Tribunal de Justiça, ao determinar a custódia, ante o cometimento do delito de tentativa de homicídio qualificado, mediante emprego de recurso que dificultou a defesa da vítima, salientou o risco de reiteração delitiva, realçando a insuficiência das cautelares impostas, no que o paciente voltou a delinquir. Segundo destacou, foi preso em flagrante duas vezes, considerada a prática de crimes em outras Comarcas. O quadro indica em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a prisão mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Quanto à ausência de contemporaneidade, não surge relevante o articulado. Foi determinada no acórdão por meio do qual provido recurso em sentido estrito, em 28 de março de 2018, após revelada a continuidade no cometimento de crimes. O distanciamento temporal entre o fato delituoso e a decisão respectiva não leva a concluir pela insubsistência da medida. Descabe potencializar a data dos fatos criminosos.
+    O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, mediante ato fundamentado.
+    Apresentada motivação suficiente à manutenção da prisão, desde que levado em conta o lapso de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal.
+    O paciente está preso, sem culpa formada, desde 1º de novembro de 2018, ou seja, há 1 ano, 7 meses e 1 dia, sendo mantida a custódia em 12 de fevereiro de 2020. Uma vez inexistente ato posterior sobre a necessidade da medida, formalizado nos últimos 90 dias, tem-se desrespeitada a previsão legal, surgindo o excesso de prazo.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja custodiado por motivo diverso da prisão preventiva formalizada no processo nº 0014266-84.2015.8.21.0008, da Primeira Vara Criminal de Canoas/RS . Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 2 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
