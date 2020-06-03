@@ -1,0 +1,31 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE INSTRUMENTO N. 1004499-66.2019.8.11.0000
+RECORRENTE: COMPLEXX TECNOLOGIA LTDA.
+RECORRIDO: JUÍZO DA 1a VARA CÍVEL ESPECIALIZADA EM RECUPERAÇÃO JUDICIAL E FALÊNCIA DA COMARCA DE CUIABÁ
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 33524510) interposto por COMPLEXX TECNOLOGIA LTDA., com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, assim ementado (Id. 20990479):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE RECUPERAÇÃO JUDICIAL – HOMOLOGAÇÃO DO PLANO – CONTROLE DE LEGALIDADE PELO JUDICIÁRIO – POSSIBILIDADE – DESÁGIO DO CRÉDITO TRABALHISTA – DESÁGIO DE 20% - ILEGALIDADE - CLÁUSULA AFASTADA – NECESSIDADE DE NOVA ASSEMBLEIA EM CASO DE DESCUMPRIMENTO DO PLANO – IMPOSSIBILIDADE – VIOLAÇÃO AOS ARTIGOS 61, § 1.o E 73, INCISO IV, AMBOS DA LEI 11.101/2005 – RECURSO DESPROVIDO. Segundo o STJ, é possível que o Poder Judiciário, sem imiscuir-se na análise da viabilidade econômica da empresa em crise, promova controle de legalidade do plano de recuperação judicial que, em si, em nada contemporiza a soberania da assembleia geral de credores. Todavia, somente mediante acordo ou convenção coletiva, o que pressupõe a participação do sindicato, é possível o deságio dos créditos trabalhistas, o que não foi observado. No que tange à necessidade de designação de nova assembleia de credores para deliberação sobre eventual descumprimento do plano, tem-se que a referida cláusula viola o disposto nos artigos 61, § 1.o e 73, inciso IV da Lei 11.101/05, eis que o descumprimento de qualquer obrigação prevista no plano, durante o período de supervisão legal, acarretará a convolação da recuperação judicial em falência.” (AI 1004499-66.2019.8.11.0000, DESA. CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, Julgado em 18/12/2019, Publicado DJE em 22/01/2020).
+Alega divergência de interpretação jurisprudencial acerca: (i) da possibilidade de aplicação, na recuperação judicial, de deságio ao crédito trabalhista, notadamente diante da soberania da assembleia de credores e da heterogeneidade na composição do referido crédito; (ii) da limitação do Poder Judiciário ao de controle da legalidade do plano de recuperação e (iii) da possibilidade de convocação de nova assembleia geral de credores em caso de descumprimento ou alteração do plano.
+Recurso tempestivo (Id. 33532982).
+Ausente contrarrazões, consoante certidão de Id. 44937994.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, mesmo quando fundamentado em dissídio jurisprudencial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL CONSIDERADO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMPRÉSTIMO COMPULSÓRIO. CORREÇÃO MONETÁRIA. FASE DE CUMPRIMENTO DE SENTENÇA. COISA JULGADA. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL DA EMPRESA WEG EQUIPAMENTOS ELÉTRICOS S.A (...) 6. A propositura do recurso pela via da divergência jurisprudencial não dispensa o recorrente de apontar qual o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide a Súmula 284/STF. Precedentes do STJ. (...)” (REsp 1751504/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/11/2019, DJe 18/11/2019)
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1o, IV e V, e 1.022 do CPC/2015 NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. COLISÃO ENTRE PREMISSAS DE NATUREZA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. (...) 5. A argumentação contida no recurso especial não possui elementos suficientes para infirmar as razões colacionadas no acórdão recorrido, pois não ataca especificamente os fundamentos utilizados pela instância a quo para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação a fundamento autônomo. (...)” (AgInt no AREsp 1294074/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018) (destaquei)
+In casu, embora a Recorrente defenda dissenso de interpretação jurisprudencial acerca da possibilidade de aplicação, na recuperação judicial, de deságio ao crédito trabalhista, da limitação do Poder Judiciário ao de controle da legalidade do plano de recuperação e da possibilidade de convocação de nova assembleia geral de credores em caso de descumprimento ou alteração do plano, verifica-se que, além de não realizar o devido cotejo analítico (visto que limitou-se a reprodução de emendas), não demonstrou de forma individualizada e específica quais dispositivos de lei federal foram violados ou tiveram interpretação divergente de outros Tribunais, o que faz incidir o óbice sumular supracitado, vedando a admissão do recurso.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 2 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
