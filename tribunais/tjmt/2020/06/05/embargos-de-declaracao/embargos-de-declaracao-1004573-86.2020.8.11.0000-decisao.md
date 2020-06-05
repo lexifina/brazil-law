@@ -1,0 +1,37 @@
+EMBARGOS DE DECLARAÇÃO N.o 1004573-86.2020.8.11.0000
+Vistos etc.
+Trata-se de recurso de Embargos de Declaração opostos por EZIO AUGUSTO TIERRE NUNES DE ALMEIDA em virtude da decisão que indeferiu o pedido de antecipação da tutela recursal do Agravo Interno.
+O Embargante alega que o decisum é omisso, haja vista que ficaram demonstrados os requisitos necessários para concessão da liminar recursal.
+Sustenta que diante do indeferimento do efeito suspensivo, houve a prolação de sentença pelo juízo a quo, pois não teve condições de arcar com as custas iniciais.
+Segue argumentando que a comprovação da insuficiência financeira é evidente, eis que apesar de ser advogado encontra-se desempregado.
+Sob esses argumentos, pugna pelo provimento dos Aclaratórios, a fim de que seja sanado o vício apontado e, consequentemente, seja concedido o efeito suspensivo pleiteado no Agravo para evitar o transito em julgado da sentença.
+É o relatório. DECIDO.
+De acordo com a regra estabelecida no artigo 1.024, § 2.o, do Código de Processo Civil, este Recurso deve ser julgado monocraticamente, pois foi oposto contra decisão unipessoal desta Relatora.
+Revisitando os autos, extrai-se que o Embargante EZIO AUGUSTO TIERRE NUNES DE ALMEIDA interpôs recurso de Agravo de Instrumento em virtude da decisão proferida pelo Juízo da 1.a Vara Cível da Comarca de Várzea Grande/MT que, nos autos da Ação de Obrigação de Fazer c/c Danos Morais com Pedido de Tutela de Urgência Antecipada n.o 1001918-38.2020.8.11.0002 proposta em desfavor de AMERICA PHONE COMÉRCIO DE CELULARES E SERVIÇOS DE MANUTENÇÃO EIRELI, indeferiu o pedido de assistência de justiça gratuita.
+Em suas razões recursais, o Embargante alegou fazer jus ao benefício, eis que não pode custear as despesas do processo sem prejuízo do sustento próprio ou da família.
+Sustentou, ainda, que o fato de ser advogado não torna presumível a sua condição de poder arcar com as custas processuais ou outros valores, e que o acervo probatório colacionado ao caderno eletrônico processual comprova sua hipossuficiência.
+Sob tais argumentos, pugnou pela concessão do efeito suspensivo para suspender os efeitos da decisão agravada dos autos de origem, determinando o recebimento da petição inicial e regular andamento do feito.
+Ao recurso foi negado provimento, uma vez que o Agravante não trouxe documentos que demonstrassem a carência financeira arguida pelo Recorrente.
+Da decisão monocrática, o Embargante interpôs recurso de Agravo Interno, no qual reiterou a argumentação de que faz jus aos benefícios da justiça gratuita, razão pela qual pugnou pela concessão do efeito suspensivo.
+O pleito liminar foi indeferido, ante a ausência dos requisitos elencados no Parágrafo Único do art. 995 do CPC, o que deu azo à oposição destes Embargos de Declaração.
+O Embargante alega que o decisum é omisso, haja vista que ficaram demonstrados os requisitos necessários para concessão da liminar recursal.
+Sustenta que diante do indeferimento do efeito suspensivo, houve a prolação de sentença pelo juízo a quo, pois não teve condições de arcar com as custas iniciais.
+Segue argumentando que a comprovação da insuficiência financeira é evidente, eis que apesar de ser advogado encontra-se desempregado.
+O artigo 1.022 do diploma processual civil, define que o Recurso de Embargos de Declaração é oponível para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Nesse prisma, considera-se omissa a decisão que deixa de apreciar ponto ou questão relevante, inclusive no tocante às matérias que deva conhecer de ofício.
+Na hipótese, as irresignações do Embargante não prosperaram, isso porque, ao analisar o pedido liminar consignei que, ao contrário do que afirma, a Constituição Federal exige a demonstração da insuficiência de recursos àqueles que pleitearem a gratuidade, conforme preceitua o artigo 5.o, inciso LXXIV.
+Nesse sentido, colaciono os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE IMPUGNAÇÃO À CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. ÔNUS DA PROVA DO REQUERENTE. 1. A presunção de necessidade do benefício da assistência judiciária gratuita, conforme a jurisprudência do Superior Tribunal de Justiça, a partir de simples declaração de pobreza firmada pelo requerente do pedido, é relativa, devendo ser comprovada pela parte a real necessidade de sua concessão. (...) (STJ. AgInt no REsp 1708654/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/08/2019, DJe 26/08/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARAÇÃO DE POBREZA. PRESUNÇÃO JURIS TANTUM. JUSTIÇA GRATUITA. INDEFERIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3o, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AREsp 1311620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018).
+Na hipótese, depois de ordenado o encarte da cópia da Declaração de Imposto de Renda entregue à Receita Federal nos anos de 2018 e 2019, bem como cópia dos extratos bancários dos últimos 6 (seis) meses, o Embargante se limitou a colacionar tão somente a cópia da CTPS (ID. 3597295).
+Todavia, a ausência de registro de trabalho na CTPS do Recorrente (ID. 3597295) é insuficiente para comprovar a falta de recursos financeiros, visto que por ser profissional liberal, pode auferir renda sem vínculo empregatício.
+Ademais, das movimentações bancárias apresentadas nos Ids 34544478; 34544480, não é possível entrever, de modo seguro e inconteste, a carência financeira arguida pelo Recorrente.
+Assim, consoante bem exposto na decisão combatida, ausentes os requisitos necessários para a concessão do efeito suspensivo.
+O caso em tela, portanto, não se trata de omissão na decisão combatida, mas sim, do inconformismo do Embargante acerca ao resultado obtido na fase de cognição sumária do recurso de agravo interno.
+É de bom alvitre ressaltar, que os Aclaratórios têm natureza particular, seu objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição, omissão ou erro material e, em casos excepcionais, é admitido para sanar julgamento proferido com base em premissas equivocadas, ou seja, o simples descontentamento da parte com o julgado não tem o condão de tornar cabível a interposição de Embargos de Declaração.
+Com efeito, este recurso não serve para forçar a reapreciação da matéria, quando a decisão embargada foi proferida com clara exposição das razões de fato e de direito pelas quais indeferiu o pedido liminar, pois os Aclaratórios não podem ser utilizados para o reexame e novo julgamento do que já foi decidido.
+Ante o exposto, considerando que não há no acórdão impugnado quaisquer dos vícios previstos no artigo 1.022, do CPC, rejeito os Embargos de Declaração opostos.
+Publique-se. Cumpra-se.
+Cuiabá, 04 de junho de 2.020.
+Des.a Clarice Claudino da Silva
+Relatora
