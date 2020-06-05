@@ -1,0 +1,27 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE APELAÇÃO CÍVEL no 1033304-03.2019.8.11.0041– CLASSE 198 – CNJ – CAPITAL
+Apelante : PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+Apelado : NIVALDO AUGUSTO DE CARVALHO
+Número do Protocolo: 1033304-03.2019.8.11.0041
+Recurso de APELAÇÃO CÍVEL interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS contra a r. sentença proferida pelo MM. Juiz de Direito da 7a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação de “Cobrança de Seguro Obrigatório” (Proc. no1033304-03.2019.8.11.0041), ajuizada contra a apelante por NIVALDO AUGUSTO DE CARVALHO, julgou o pedido parcialmente procedente para condenar a Seguradora/apelante ao pagamento do valor de R$ 3.375,00 a título de indenização securitária, acrescido de juros de 1% a.m. a partir da citação e correção monetária pelo INPC a partir do evento danoso, em razão da invalidez permanente do apelado, vítima de acidente de trânsito; a r. sentença condenou a apelante a pagar as custas processuais e os honorários advocatícios, estes arbitrados em R$ 1.200,00 (cf. ID no42393488).
+A apelante sustenta que o conjunto probatório não comprova o nexo causal entre o acidente automobilístico e a lesão permanente sofrida pela vítima, pois o boletim de ocorrência foi registrado 3 meses após o suposto acidente, e, não há nenhum documento médico que faça menção ao acidente de trânsito, de modo que não há falar em pagamento da indenização securitária.
+Pede, pois, o provimento do recurso, para que, reformada a sentença, seja julgado improcedente o pleito autoral (cf. ID no 42393490).
+Nas contrarrazões de ID n°42393496, o apelado refuta os argumentos recursais e torce pelo desprovimento do recurso, requerendo, ainda, a majoração dos honorários advocatícios em sede recursal.
+É o relatório.
+D E C I D O
+O autor/apelado ajuizou a presente ação em razão da lesão decorrente do acidente automobilístico no qual se envolveu em08/01/2019.
+O art. 5o da lei no 6.194/74, que trata do seguro obrigatório, dispõe que o “pagamento da indenização será efetuado mediante simples prova do acidente e do dano decorrente independentemente da existência de culpa, haja ou não resseguro, abolida qualquer franquia de responsabilidade do segurado”.
+Então, para que a indenização se torne devida à vítima de acidente de trânsito, basta haver “simples prova do acidente e do dano decorrente”, exigência plenamente satisfeita, no caso, pela apresentação do Boletim de Ocorrência (cf. ID n°42386998) e do Boletim de Atendimento Clinico (cf. ID no42386999).
+A Seguradora/apelante se insurge contra o Boletim de Ocorrência apresentado pelo apelado, alegando insuficiência probatória do documento, contudo, o Boletim de Ocorrência juntado ao ID no 42386998, lavrado pela autoridade policial, possui presunção de veracidade e legitimidade, sendo documento hábil à comprovação dos fatos ocorridos decorrentes do acidente, de modo que a partir da apresentação desse documento, incumbia à apelante produzir provas para contrapor essa assertiva.
+No caso, os documentos apresentados atestam as lesões sofridas e a ocorrência do acidente automobilístico e são elementos dotados de aptidão para conferir sustentação à pretensão indenizatória, até porque a apelante não infirmou tais elementos, já que prova alguma em contrário produziu, agarrando-se apenas ao frágil argumento de que os documentos não são dotados de confiabilidade, o que não se sustenta.
+Nesse sentido:
+“EMENTA: RECURSO DE APELAÇÃO CÍVEL – AÇÃO SUMARÍSSIMA DE COBRANÇA – SEGURO OBRIGATÓRIO (DPVAT) – INDENIZAÇÃO POR MORTE – PROCEDÊNCIA – RECURSO DA SEGURADORA REQUERIDA – AUSÊNCIA DE COMPROVAÇÃO DO NEXO CAUSAL ENTRE O ÓBITO E O ACIDENTE AUTOMOBILÍSTICO – DESCABIMENTO – CERTIDÃO DE ÓBITO E CERTIDÃO DE OCORRÊNCIA DE TRÂNSITO – DOCUMENTOS LAVRADOS POR AGENTES DOTADOS DE FÉ PÚBLICA - NEXO CAUSAL COMPROVADO - RECURSO DESPROVIDO. Restando comprovado nos autos as exigências do artigo 5o, da Lei no 6.197/74, qual seja, a prova do acidente, por meio de certidão de ocorrência lavrada por agente dotado de fé pública, e do dano dele decorrente (óbito) - correta a decisão que condenou a ré/apelante ao pagamento do valor do Seguro Obrigatório - DPVAT aos autores, não devendo prosperar a alegação de não comprovação do nexo causal” (TJMT – 2a Câmara de Direito Privado – RAC 67355/2014 – Rel. DESA. MARILSEN ANDRADE ADDARIO – j. 03/12/2014, Publicado no DJE 10/12/2014).
+“EMENTA: SEGURO OBRIGATÓRIO (DPVAT) – (...) A Lei no 6.194/74 que dispõe sobre Seguro Obrigatório de Danos Pessoais causados por veículos automotores de via terrestre, ou por sua carga, a pessoas transportadas ou não, previu em seu art. 5o, não alterado pela Lei 11.482/07, que o pagamento da indenização prevista será efetuado mediante simples prova do acidente e do dano decorrente e considerando que a acidentada juntou certidão de ocorrência emitida pelo Corpo de Bombeiros Militar de Mato Grosso onde consta o atendimento realizado e o resultado de perícia médica por perito oficial do Estado de Mato Grosso, sendo perfeitamente possível o aferimento da indenização” (TJMT – 3a Câmara de Direito Privado – RAC 1136/2012 – Rel. DES. CARLOS ALBERTO ALVES DA ROCHA – j. 01/04/2015, Publicado no DJE 10/04/2015).
+Isto posto, nego provimento ao recurso e mantenho a sentença por seus próprios fundamentos.
+Em observância ao art. 85, §11, do CPC, majoro o valor dos honorários em R$ 200,00 (duzentos reais).
+Custas pela apelante.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 04 de junho de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
