@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEI MUNICIPAL – INICIATIVA – SEPARAÇÃO DOS PODERES – PRECEDENTES – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de origem julgou procedente o pedido lançado na petição inicial de ação direta estadual formalizada contra a Lei nº 5.698/2014, do Município do Rio de Janeiro, de iniciativa parlamentar, que “proíbe a instalação de dispositivos eletrônicos de controle de velocidade de forma oculta e cancela as multas emitidas após a data de publicação” para assentar a inconstitucionalidade, sob o ângulo formal. Eis a síntese do acórdão:
+    REPRESENTAÇÃO DE INCONSTITUCIONALIDADE – PRETENSÃO À DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI Nº 5.698 DE 31 DE MARÇO DE 2014, DO MUNICÍPIO DO RIO DE JANEIRO, QUE PROÍBE A INSTALAÇÃO DE DISPOSITIVOS ELETRÔNICOS DE CONTROLE DE VELOCIDADE DE FORMA OCULTA E CANCELA AS MULTAS EMITIDAS APÓS A DATA DE PUBLICAÇÃO – LEI ADVERSADA QUE ADENTRA À RESERVA DE ATUAÇÃO DO EXECUTIVO – AFRONTA, POR SIMETRIA, ÀS DISPOSIÇÕES CONTIDAS NOS ARTIGOS 7º, 112, §1º, I, “D” E 145, VI, DA CONSTITUIÇÃO ESTADUAL – CABE AO EXECUTIVO, NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA, A ANÁLISE DA CONVENIÊNCIA E OPORTUNIDADE PARA A UTILIZAÇÃO DOS SEUS RECURSOS FINANCEIROS – É VEDADO AO LEGISLATIVO SE IMISCUIR NA ESFERA DISCRICIONÁRIA DE OUTRO PODER CONSTITUÍDO - VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES - PRECEDENTES JURISPRUDENCIAIS - PROCEDÊNCIA DA REPRESENTAÇÃO PARA DECLARAR A INCONSTITUCIONALIDADE DA LEI Nº 5.698, DE 31 DE MARÇO DE 2014, DO MUNICÍPIO DO RIO DE JANEIRO, COM EFICÁCIA EX TUNC.
+    A Câmara Municipal diz ofendidos os artigos 2º, 61, § 1º, inciso II, e 84, inciso VI, da Constituição Federal. Discorre sobre o cabimento do recurso, alegando ofensa a normas de reprodução obrigatória pelos entes federados. Diz que as leis de iniciativa reservada mostram-se excepcionais, devendo ser interpretadas de maneira estrita. Conforme afirma, ao prever a proibição de instalação oculta de dispositivos de controle de velocidade, a legislação municipal questionada não invade o âmbito de atuação do Chefe do Executivo local.
+    2. Na ação direta de inconstitucionalidade, impugnou-se o artigo 6º da Lei Complementar municipal nº 50/2001, indicando, a título de parâmetro de controle, o artigo 222 da Constituição estadual. Colho do pronunciamento recorrido o seguinte trecho:
+    Da leitura da norma ora impugnada, mostra-se patente que a questão nela tratada não está afeta a iniciativa do Legislativo Municipal, além de violar o princípio da separação dos poderes.
+    Nesta esteira, veja-se o que preconiza os artigos 7º, 112, §1º, I, “d” e 145, VI, da Constituição do Estado, in verbis:
+    Art. 7º - São Poderes do Estado, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
+    Art. 112 - A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Assembleia Legislativa, ao Governador do Estado, ao Tribunal de Justiça, ao Ministério Público e aos cidadãos, na forma e nos casos previstos nesta Constituição.
+    § 1º - São de iniciativa privativa do Governador do Estado as leis que: [...]
+    II - disponham sobre: [...]
+    d) criação e extinção de Secretarias de Estado e órgãos da administração pública, observado o disposto no art. 145, caput, VI, da Constituição.
+    Art. 145 – Compete privativamente ao Governador do Estado: [...]
+    VI – dispor, mediante decreto, sobre:
+    a) Organização e funcionamento da administração estadual, que não implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+    b) Extinção de funções ou cargos públicos, quando vagos.
+    Neste passo, a Lei Municipal adversada cria atribuições ao Poder Executivo, adentrando indevidamente na reserva de atuação de outro poder constituído.
+    O acórdão recorrido está em harmonia com a jurisprudência do Supremo, segundo a qual são incompatíveis, com a Constituição Federal, diplomas normativos de iniciativa parlamentar a versarem a criação, estruturação e, como na situação em jogo, atribuições das secretarias e órgãos da Administração Pública, considerada a competência privativa do Chefe do Executivo – artigo 61, § 1º, inciso II, alínea “a”, da Lei Maior. Precedentes: ação direta de inconstitucionalidade nº 2.857, relator ministro Joaquim Barbosa, Pleno, com acórdão publicado no Diário da Justiça de 30 de novembro de 2007; ação direta de inconstitucionalidade nº 2.329, relatora ministra Cármen Lúcia, Pleno, com acórdão veiculado no Diário da Justiça de 25 de junho de 2010; agravo regimental no recurso extraordinário nº 653.041, relator ministro Edson Fachin, Primeira Turma, com acórdão publicado no Diário da Justiça de 9 de agosto de 2016. Confiram a ementa da decisão proferida nesse último processo:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. VÍCIO DE INICIATIVA. LEI DE INICIATIVA PARLAMENTAR QUE DISPÕE SOBRE ATRIBUIÇÕES E ESTABELECE OBRIGAÇÃO A ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA. INCONSTITUCIONALIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+    1. Acórdão recorrido que se encontra em sintonia com a jurisprudência desta Corte no sentido de que padece de inconstitucionalidade formal a lei de iniciativa parlamentar que disponha sobre atribuições ou estabeleça obrigações a órgãos públicos, matéria da competência privativa do Chefe do Poder Executivo.
+    2. Agravo regimental a que se nega provimento.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 5 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
