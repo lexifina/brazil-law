@@ -1,0 +1,22 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática, da minha lavra, pela qual negado seguimento a agravo em recurso extraordinário, ao fundamento da consonância do entendimento do acórdão recorrido com a jurisprudência desta Corte no tocante a exigibilidade da contribuição sindical dos servidores públicos, independentemente da existência de lei específica regulamentando sua instituição.
+    O embargante aduz omisso o julgado, ao articular direta a ofensa a preceitos constitucionais. Alega que a decisão é omissa e que “ela não se pronunciou sobre o capítulo recursal que veiculou ofensa ao art. 8º, caput, I e IV da Carta Maior, em razão da ilegitimidade de Confederação para propor a presente demanda”.
+     Destaco cuidar-se de recurso extraordinário aparelhado na afronta aos arts. 5º, XVII e LXIX, 8º, caput, I e IV, 37, VI, 39, § 3º, e 150, I, da Constituição Federal, interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO - RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - CONTRIBUIÇÃO SINDICAL ('IMPOSTO SINDICAL') - SERVIDOR PÚBLICO ESTADUAL - RECOLHIMENTO COMPULSÓRIO - LEGITIMIDADE ATIVA DA CONFEDERAÇÃO. 1. A lei específica que disciplina a contribuição sindical compulsória ('imposto sindical') é a CLT, nos arts. 578 e seguintes, a qual é aplicável a todos os trabalhadores de determinada categoria, inclusive aos servidores públicos, observada a unicidade sindical e a desnecessidade de filiação, segundo a jurisprudência do Supremo Tribunal Federal, que considerou recepcionada a exação pela atual Constituição Federal. 2. O desconto da contribuição sindical pode ocorrer a pedido de qualquer das entidades incluídas no rol dos beneficiários da importância da arrecadação, como previsto no art. 589 da CLT. 3. Recurso ordinário em mandado de segurança provido.”
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    De início, realço devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, nos termos do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016, e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016. Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Sobrelevo não se ressentir do vício da omissão, ao feitio legal, o decisum no qual se assenta, de forma inequívoca, a inviabilidade do apelo extremo, haja vista não preenchido o requisito do art. 102, III, da Constituição Federal.
+    Isso porque, consoante consignado no decisum embargado, o entendimento adotado no acórdão recorrido não diverge da jurisprudência cristalizada nesta Suprema Corte.
+    Ademais, no tocante à alegada omissão quanto a análise da pretensa ilegitimidade de Confederação para propor a presente demanda, expressamente consignada na decisão ora embargada a ausência de ofensa a preceitos constitucionais. Destaco que as instâncias ordinárias reconheceram a legitimidade da entidade sindical, entendimento cujo reexame não compete a este Supremo Tribunal Federal, por demandar o revolvimento do quadro fático delineado.
+    De mais a mais, enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, bem como aquelas tidas por omissas, afasta-se a tese veiculada nos embargos declaratórios de que omisso o decisum.
+    Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 05 de junho de 2020.
+Ministra Rosa Weber
+Relatora
