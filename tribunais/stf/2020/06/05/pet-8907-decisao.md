@@ -1,0 +1,12 @@
+Decisão: Cuida-se de recurso ordinário protocolado na Corte e autuado como petição, interposto contra julgado proferido pelo STJ no bojo do HC 571.260.
+    É o breve relatório. Decido.
+    A Petição é manifestamente incabível, eis que veicula a inadmissível interposição de recurso diretamente na Suprema Corte. Nesse sentido, destaco os seguintes precedentes, verbis:
+    “PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INTEMPESTIVIDADE. RECURSO INTERPOSTO DIRETAMENTE NESTA CORTE. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDAMENTE FUNDAMENTADA. RÉU QUE PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL. ALEGAÇÃO DE EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. SUPERVENIÊNCIA DE JULGAMENTO. PREJUDICIALIDADE. RECURSO ORDINÁRIO NÃO CONHECIDO.” (RHC 119.269, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 5/12/13)
+    “AGRAVO REGIMENTAL NA PETIÇÃO. RECURSO ORDINÁRIO EM HABEAS DATA. IMPETRAÇÃO NÃO CONHECIDA POR VARA DA JUSTIÇA FEDERAL. MANIFESTA INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INTEMPESTIVIDADE DO REQUERIMENTO. RECURSO INTERPOSTO DIRETAMENTE NO SUPREMO TRIBUNAL FEDERAL. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE ARGUMENTOS OU FATOS NOVOS CAPAZES DE INFIRMAR A DECISÃO RECORRIDA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Pet 7.517-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia (Presidente), DJe de 7/8/18)
+    “Recurso ordinário constitucional contra denegação de ‘habeas corpus’ (art. 119, II, ‘c’, da C.F.). Interposição junto à Secretaria do S.T.F. e não na do Tribunal prolator do acórdão recorrido. Inadmissibilidade. Recurso não conhecido, sem prejuízo do que foi interposto concomitantemente perante o Tribunal de origem. Em se tratando de recurso ordinário contra acórdão denegatório de ‘habeas corpus’, deveria ter sido interposto, perante o Tribunal de origem, nos próprios autos em que proferido o julgado (artigos 119, II, ‘c’, da C.F. 310 e 312 do R.I.S.T.F., 578 e 667 do C.P.Penal) e não diretamente junto ao S.T.F.” (HC 66.489, Primeira Turma, Relator o Ministro Sydney Sanches, DJ de 9/9/88)
+    Ex positis, nos termos do art. 13, V, c, e do art. 21, § 1º, ambos do Regimento Interno do STF, nego seguimento à presente petição.
+    Publique-se.
+    Brasília, 5 de junho de 2020.
+Ministro Luiz Fux
+Presidente em exercício
+Documento assinado digitalmente
