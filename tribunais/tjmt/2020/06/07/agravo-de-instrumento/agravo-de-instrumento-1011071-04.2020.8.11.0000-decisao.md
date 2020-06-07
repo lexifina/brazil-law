@@ -1,0 +1,23 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1011071-04.2020.8.11.0000
+Vistos etc.
+Cuida-se de recurso de agravo de instrumento interposto por JOSÉ VALMIR BROCHERS em virtude de decisão proferida pelo juízo da 6.a Vara Cível de Cuiabá que, nos autos da Ação de Execução de Título Extrajudicial n.o 1010885-86.2019.8.11.0041, determinou o prosseguimento da execução, nos seguintes termos:
+[...] não se visualizando indício de irregularidade ou de nulidade processual e, por outro lado, considerando que o pedido dos exequentes de remoção das sacas de arroz para a empresa Agro - Norte já foi cumprido, conforme certidão Id. 29496498, determino seja intimada a parte exequente para requerer o que entender de direito, no prazo de 15 (quinze) dias. Sobre o bloqueio de valores, nenhuma providência deve ser adotada, vez que já houve imediato desbloqueio tão logo obtida resposta do Sistema Bacenjud, que constatou tratar de saldos irrisórios, conforme recibo Id. 26907834. Intimem -se. Cumpra –se. [...]
+Inconformado, o Recorrente interpôs este Agravo sob o fundamento de que as sacas de soja ainda não foram removidas, de modo que o exequente, ora Agravado, induziu o juiz singular a erro ao determinar o prosseguimento da execução.
+De início, o Agravante pugna pela concessão da justiça gratuita para o processamento deste recurso.
+Para corroborar sua assertiva colaciona ao caderno processual documentos nos ID’s 45131460 45101545 e seguintes, tais como Declaração de Imposto de Renda, Informe de Rendimentos e comprovantes de empréstimos.
+Por fim, aduz que “necessária a interposição do presente, para que sejam regularizados os autos de primeira instância, com o reconhecimento da nulidade de citação do Agravante e a anulação do arresto”.(Sic)
+Com esses argumentos, pugna pela concessão do efeito suspensivo e, no mérito, o provimento do recurso.
+É o relatório. Passo à análise do pedido de gratuidade da justiça para processamento deste Agravo.
+É cediço que a concessão da justiça gratuita é admissível apenas quando comprovada a insuficiência de recursos, conforme já preceituava o artigo 5.o, inciso LXXIV, da Constituição Federal e, atualmente, o artigo 99, § 2.o, do CPC, haja vista que a presunção da necessidade é relativa.
+Com efeito, o § 1.o do artigo 99 do codex vigente diz que é permitido ao juiz indeferir a gratuidade “se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade”, desde oportunizada a prova do alegado. Vale dizer, para evitar prejuízo à parte, o magistrado poderá indeferir o pedido após a comprovação documental de fazer jus à gratuidade.
+Na hipótese, o Agravante pleiteou os benefícios da justiça gratuita, sob o argumento de que está passando por problemas financeiros.
+Contudo, apesar das alegações de que não dispõe de capacidade financeira para arcar com o pagamento do preparo, tenho que o indeferimento do pedido se impõe, diante da falta de elemento probatório que demonstre a necessidade da benesse, isto porque o Agravante é produtor rural, proprietário da Fazenda São Sebastião (2.500 hectares) situada no município de Peixoto e Azevedo, onde cultiva soja, arroz, milho, girassol e, inclusive, criação de bovinos de corte (conforme Inscrição Estadual sob ID 28125007 acostada nos Autos de gênese) o que, por si só, evidencia que a tese de insuficiência financeira para o preparo não prospera.
+Com efeito, da análise dos extratos (ID 45101544), verifica-se que foram concedidos empréstimos no valor de até R$ 658.660,70 (seiscentos e cinquenta e oito mil, seiscentos e sessenta reais e setenta centavos), o que só é possível a quem tem patrimônio suficiente para garantir a operação bancária.
+Nessa toada, em que pesem às declarações do Recorrente, não é de clareza palmar a carência econômica do Agravante para o recolhimento do preparo recursal que, conforme consulta no sitio eletrônico desta Corte, tem o valor de R$ 155,88 (cento e cinquenta e cinco reais e oitenta e oito centavos).
+No que tange à existência de inscrições do nome do Recorrente em cadastros de proteção ao crédito, é cediço que não são documentos hábeis para comprovar a situação de carência econômico-financeira da pessoa, ou seja, que o Agravante não possui capacidade para suportar o encargo financeiro do preparo recursal, sem prejuízo do efetivo exercício de suas atividades.
+Portanto, indefiro o pedido de assistência gratuita para o processamento deste recurso.
+Nos termos do artigo 99, § 7.o, do CPC, intime-se o Agravante para, no prazo de 05 (cinco) dias, efetuar o pagamento do preparo, sob pena de deserção.
+Cumpra-se.
+Cuiabá, 07 junho de 2020.
+Desa. Clarice Claudino da Silva
+Relatora
