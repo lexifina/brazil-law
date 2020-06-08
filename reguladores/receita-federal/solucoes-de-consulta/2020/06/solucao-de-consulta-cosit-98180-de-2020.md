@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98180, de 21 de maio de 2020
+Assunto: Classificação de Mercadorias
+Código NCM: 8542.31.20
+Mercadoria: Microprocessador e controlador, próprio para montagem em superfície (SMD - Surface Mounted Device), composto de circuito integrado de multicomponentes (MCOs), medindo 32 x 29 x 2.4 mm e pesando menos que 5g, contendo, montados em uma placa de circuito impresso, entre outros componentes, processador Qualcomm Quad-core A53 (64bit) 1.4GHz; processador gráfico A308 600MHz; memória RAM de 1Gb e ROM de 8Gb; modulares de rádio celular, FM e Bluetooth; Wi-Fi e gerenciador de entrada e saída (USB, Display, TF card, etc), utilizado, entre outros, em dispositivos POS, impressora fiscal, robôs inteligentes, dispositivos vestíveis (wearables), controles de acesso, monitoramento de segurança e máquina de vendas, comercialmente denominado "System-in-Package".
+Dispositivos Legais: RGI 1 (Nota 9 b) do Capítulo 85), RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.180-2020.pdf]
