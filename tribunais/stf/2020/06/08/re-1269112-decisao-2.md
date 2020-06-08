@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto pelo Município contra acórdão assim ementado:
+    “Tributário. Restituição de indébito. Contribuição Previdenciária:. Agentes políticos. Prescrição parcial. i. A sistemática de contagem do prazo prescricional instituída pela Lei Complementar 118/2005 somente se aplica aos fatos geradores ocorridos após 'o início de sua vigência (08.06.2005). O Plenário deste Tribunal, no julgamento do AI na AC 419228/PB, acolheu a inconstitucionalidade do art. 4º, do referido diploma legal, que permitia sua aplicação 'retroativa. Inconstitucionalidade também declarada pelo eg.' Superior Tribunal de Justiça, no julgamento do AI no EREsp 644736 -PE. Prescrição parcial. 2. A contribuição previdenciária patronal incidente sobre os subsídios dos agentes políticos, detentores de mandatos eletivos, prevista no art. 12, inc. I, alínea 'h', da Lei 8.212/91, com 'a redação conferida pelo art. 13, da Lei 9.506/97, foi declarada inconstitucional pelo eg. Supremo Tribunal Federal. ' 3. A exigência de retificação das GFIP, para realização da compensação,' tem sua previsão no art. 4º, da Portaria 133, do Ministério da Previdência, e encontra amparo' no art. 131, da Lei 8.213/91. Legalidade da exigência. 4. Improvimento da remessa oficial e das apelações.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II, da CF. Sustenta, em essência, a impossibilidade da exigência de retificação da GFIP para compensação tributária.
+    A pretensão recursal não merece prosperar. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. No caso dos autos, o acórdão recorrido consignou o seguinte:
+    “Nesse contexto, não subsiste qualquer ilegalidade na exigência retificação das GFIP, para realização da compensação, cuja previsão está inserida no art. 4º, inc I, da Portaria/133, do Ministério da Previdência, e amparada pelo art. 131, da Lei 8.213/91, conforme inclusive já decidiu esta eg. 3ª Turma, em acórdão, cujo excerto da ementa, transcrevo apenas neste particular:
+    […].”
+    Assim, dissentir das conclusões adotadas demandaria tão somente o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual. Confira-se:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL. SUPOSTA CRIAÇÃO POR PORTARIA DE OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que as violações aos preceitos constitucionais da legalidade, do devido processo legal, do contraditório e da ampla defesa demandam, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie. Precedentes.
+    2. O Tribunal de origem decidiu a controvérsia à luz da Lei nº 8.212/1991, da Portaria nº 133/2006 e das Instruções Normativas nºs 15 e 18, de 2006, editadas com base no Decreto nº 2346/1997.
+    4. Hipótese em que, para dissentir do entendimento do Tribunal de origem, seria imprescindível a análise das normas infraconstitucionais pertinentes, providência que não tem lugar neste momento processual. A hipótese atrai a incidência da Súmula 279/STF.
+    5. Agravo regimental a que se nega provimento.” (ARE 641226 AgR, sob a minha relatoria)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
