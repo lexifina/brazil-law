@@ -1,0 +1,46 @@
+Recurso Especial em Apelação Cível n. 0046825-71.2015.8.11.0041
+RECORRENTE ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.
+RECORRIDO ANTONIO NOGUEIRA DA SILVA
+Vistos, etc.
+Trata-se de Recurso Especial (ID 44005988), com pedido de efeito suspensivo, interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A., com fundamento no artigo 105, inciso III, alíneas “a” e “c, da Constituição Federal, contra acórdão da Quarta Câmara de Direito Privado (ID 34864494):
+“APELAÇÃO CÍVEL – ENERGIA ELÉTRICA – FATURAS DE RECUPERAÇÃO DE RECEITA – AUSÊNCIA DE PROVA DA PARTICIPAÇÃO DO CONSUMIDOR NA APURAÇÃO TÉCNICA QUE TERIA CONSTATADO IRREGULARIDADES NO MEDIDOR – INEXIGIBILIDADE DO VALOR APURADO – CORTE NO FORNECIMENTO - CONDUTA ILÍCITA – NECESSIDADE DE UTILIZAÇÃO DOS MEIOS ORDINÁRIOS DE COBRANÇA – PRECEDENTES DO STJ – DANO MORAL – VALOR INDENIZATÓRIO – REDUÇÃO – IMPOSSIBILIDADE – JUROS E CORREÇÃO MONETÁRIA – RELAÇÃO CONTRATUAL – OS JUROS DE MORA DEVEM INCIDIR A PARTIR DA CITAÇÃO E A CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO – MANUTENÇÃO DO TERMO INICIAL FIXADO EM SENTENÇA, EM ATENÇÃO AO PRINCÍPIO DO REFORMATIO IN PEJUS - SENTENÇA MANTIDA – RECURSO DESPROVIDO. 1. Não havendo prova de que o valor correspondente à fatura de recuperação de receita foi calculado em atendimento à Resolução n.o 414/2010 da ANEEL, com a notificação do usuário a respeito da fiscalização que atestou a irregularidade em seu medidor, faz-se necessária a declaração de inexistência do débito correspondente. 2. O Superior Tribunal de Justiça considera ilícita e passível de indenização por danos morais a interrupção do fornecimento de energia elétrica com base em débitos pretéritos, calculados em fatura de recuperação de consumo utilizado e não registrado. 3. Porém, no que tange à fixação do quantum, é cediço que o julgador deve observar a capacidade econômica das partes, bem como os princípios da razoabilidade e da proporcionalidade, visto que o valor da indenização deve ser fixado em parâmetro que a dê caráter pedagógico, desestimulando a reiteração da conduta ilícita, mas que não leve o devedor a bancarrota. 4. O “quantum” fixado é inferior àquele usualmente adotado pela Câmara em casos análogos (negativação/corte indevidos), não havendo que se falar em necessidade de redução da verba indenizatória. 5. Trata-se de relação contratual, razão pela qual os juros de mora devem incidir a partir da citação, a teor do art. 405, do Código Civil. Já o termo inicial da correção monetária dá-se a partir do arbitramento, conforme entendimento da Súmula de no. 362 do STJ, que faz exceção à regra da Súmula de no. 43 do STJ (que define que nas indenizações de modo geral a correção da indenização deve contar da data do efeito danoso). 6. Todavia, em razão do princípio do reformatio in pejus, mantenho o termo inicial fixado em sentença.” (N.U 0046825-71.2015.8.11.0041, DESA. SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 11/03/2020, Publicado no DJE 16/03/2020)
+Os Embargos de Declaração (ID 38664473) foram rejeitados conforme ementa de ID 39257487.
+Alega violação ao artigo 188, inciso I, do Código Civil e divergência jurisprudencial, aduzindo má valorização das provas dos autos, que demonstravam ser totalmente devidos os valores cobrados do Recorrido a título de recuperação de consumo.
+Recurso tempestivo (ID 44458490) e preparado (ID 44562455).
+Contrarrazões juntadas conforme ID 45498457.
+Pedido de efeito suspensivo indeferido (ID 44866495).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Alega violação ao artigo 188, inciso I, do Código Civil e divergência jurisprudencial, aduzindo má valorização das provas dos autos, que demonstravam serem totalmente devidos os valores cobrados do Recorrido a título de recuperação de consumo.
+A violação ao artigo 188, inciso I, do Código Civil está amparada na assertiva de que houve má valorização das provas dos autos, que demonstravam serem totalmente devidos os valores cobrados do Recorrido a título de recuperação de consumo.
+Neste ponto, consignou-se no aresto recorrido que:
+“Digo, não há nos autos prova de que o autor/apelado teve ciência do procedimento de apuração de irregularidades efetuado em sua unidade consumidora.
+Com efeito, o Termo de Ocorrência e Inspeção (TOI) que a própria concessionária trouxe consigo no ID 34396954 demonstra que a apuração foi realizada exclusivamente pelos técnicos da ré/apelante, não havendo qualquer identificação ou rubrica por parte do titular da unidade consumidora inspecionada.
+Nesse ponto, é imperioso destacar que a Resolução n.o 414/2010 da ANEEL, em seu artigo 129, §2o dispõe que é dever da concessionária entregar, mediante recibo, uma cópia do TOI ao consumidor ou àquele que acompanha a inspeção:
+[...]
+Não há, contudo, recibo devidamente assinado e apto a comprovar a participação do titular na inspeção que teria apontado as irregularidades no medidor de consumo.
+Além disso, não há prova de que a autora se negou a assinar o aludido termo de inspeção, considerando que a ré não trouxe consigo qualquer documento indicativo da recusa, nos moldes exigidos pelo §3o do art. 129 da Resolução n.o 414/2010:” (ID 37008987 – p.4/5)
+Confira-se:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FORNECIMENTO DE ENERGIA ELÉTRICA. FRAUDE NO MEDIDOR. IRREGULARIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. VIOLAÇÃO DO ART. 51 DO CÓDIGO DE DEFESA DO CONSUMIDOR. NECESSIDADE DE INTERPRETAÇÃO PRÉVIA DAS RESOLUÇÕES N. 132 E 414/2010/ANEEL. DIPLOMAS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I – [...] II - In casu, rever o entendimento do tribunal de origem, que consignou acerca da comprovação de fraude nos medidores de energia elétrica, da responsabilidade e do critério de cálculo para a fixação dos valores sobrados, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. III – [...] IV - É incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n. 7/STJ.
+V – [...] VII - Agravo Interno improvido.” (AgInt no REsp 1708627/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 17/04/2018) (g.n.) (mutatis mutandis)
+Logo, para rever o entendimento firmado pela Câmara sobre esse ponto, é necessário o exame de fatos e provas, o que atrai o óbice sumular acima mencionado.
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...) 2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 08 de junho de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+IX
