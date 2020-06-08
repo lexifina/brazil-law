@@ -1,0 +1,24 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 47 DA SÚMULA DO SUPREMO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de São Joaquim da Barra/SP assevera haver o Juízo da Vara Única do Trabalho local, no processo nº 0012216-95.2017.5.15.0117, olvidado o teor do verbete vinculante nº 47 da Súmula do Supremo.
+    Segundo narra, no curso de certa execução, a autoridade reclamada determinou o pagamento, em apartado, de honorários contratualmente ajustados entre a parte vencedora e o advogado constituído. Afirma inobservado o paradigma, frisando adequada a quitação, em separado, apenas da verba honorária relativa à sucumbência. Argumenta que a interpretação equivocada do enunciado implica desrespeito, não cabendo ampliação do alcance. Evoca jurisprudência.
+    Sob o ângulo do risco, alude à iminência de satisfação da verba.
+    Requer, no campo precário e efêmero, a suspensão da execução. Busca, no mérito, a cassação do pronunciamento atacado.
+    2. Com apontado respaldo no enunciado vinculante nº 47 da Súmula deste Tribunal, o Juízo determinou o pagamento, em separado, levando em conta recorte do crédito principal objeto da execução, de honorários advocatícios pactuados entre o patrono e a parte representada. Ao permitir o adimplemento da verba contratual, na forma indicada, incorreu em ofensa, decorrente da observância equivocada, do definido no verbete, cujo teor é o seguinte:
+    Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.
+    No debate que culminou na aprovação do enunciado, ocorrida em 27 de maio de 2015, o Presidente à época, ministro Ricardo Lewandowski esclareceu, considerada a proposta apresentada, a impossibilidade de quitação, em apartado, da verba honorária contratual. Vejam o consignado por Sua Excelência:
+    [...]
+    No que se refere propriamente à matéria de fundo, o Procurador-Geral da República opinou pelo regular processamento do feito, ressaltando que a natureza alimentícia dos honorários advocatícios decorrentes da condenação e a possibilidade do fracionamento da execução para satisfação dessas verbas está pacificada na jurisprudência desta Corte, notadamente após o julgamento pelo Plenário deste Supremo Tribunal Federal do RE 564.132/RS, com repercussão geral reconhecida.
+    No entanto, o Parquet consigna que não há entendimento jurisprudencial consolidado nesta Corte quanto à possibilidade do fracionamento da execução para que os honorários advocatícios contratuais sejam pagos em separado, sendo incabível, portanto, a proposta de que também os honorários destacados do montante principal devido ao credor devam ser incluídos no verbete sumular.
+    Assim, concluiu o Dr. Rodrigo Janot Monteiro de Barros que a súmula vinculante proposta seja aprovada com a seguinte redação:
+    “Os honorários advocatícios incluídos na condenação, na forma do § 1º do art. 100 da Constituição Federal e do art. 23 da Lei n. 8.906/94, consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza” (pág. 14 do documento eletrônico 14).
+    O Ministro Dias Toffoli, na qualidade de integrante da Comissão de Jurisprudência do Supremo Tribunal Federal, ressaltou o seguinte:
+    “Entendo que merecem prestígio os fundamentos trazidos pela Procuradoria-Geral da República, uma vez que o Plenário desta Corte já assentou a natureza alimentícia e a possibilidade do fracionamento da execução para pagamento em separado dos honorários advocatícios decorrentes da condenação. Essa orientação, todavia, não abrange os honorários contratuais, ante a ausência de precedentes específicos sobre o tema. Assim, considero que a súmula em questão, com a redação proposta pela Procuradoria-Geral da República, reflete, com fidelidade, a orientação jurisprudencial consolidada nesta Suprema Corte, pelo que me manifesto pela sua aprovação, tendo em vista sua conveniência e adequação” (documento eletrônico 33).
+    [...]
+    3. Defiro a liminar, para suspender a eficácia da decisão do Juízo da Vara Única do Trabalho de São Joaquim da Barra, proferida em 26 de maio de 2020, no processo nº 0012216-95.2017.5.15.0117, no tocante à determinação de pagamento, via requisitório, em separado, da verba honorária de caráter contratual.
+    4. Solicitem informações e citem o interessado. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 8 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
