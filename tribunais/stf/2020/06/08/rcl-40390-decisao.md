@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Empresa de Assistência Técnica e Extensão Rural do Estado do Rio de Janeiro – Emater-Rio assevera haver o Juízo da Primeira Vara do Trabalho de Itaperuna, no processo nº 0102045-48.2018.5.01.0471, olvidado o decidido nos seguintes processos: a) arguições de descumprimento de preceito fundamental nº 387, 437 e 530; b) ação direta de inconstitucionalidade nº 1.642; c) recurso extraordinário nº 599.628 – Tema nº 253 do repertório da repercussão geral; d) recursos extraordinários nº 220.906, 852.302, 592.004, 230.051, 627.242, 1.092.308; e) ação cautelar nº 669; e f) reclamação nº 32.217.
+    Segundo narra, é empresa pública voltada à prestação, em caráter exclusivo, do serviço de assistência técnica e extensão rural. Discorre sobre os objetivos institucionais. Diz depender dos cofres públicos para a manutenção das atividades, uma vez não possuir receitas próprias. Afirma ter jus às prerrogativas da Fazenda Pública, concernentes à impenhorabilidade de bens e valores, bem assim ao pagamento mediante a sistemática de precatórios.
+    Ressalta indeferida, pelo Juízo reclamado, pretensão voltada à observância do regime de requisitórios, surgindo o alegado descompasso. Sublinha determinado o pagamento de R$ 50.133,85 no prazo de quinze dias, sob pena de inclusão no Banco Nacional dos Devedores Trabalhistas. Cita jurisprudência.
+    Sob o ângulo do risco, salienta prejudicada a consecução dos próprios objetivos.
+    Requer, no campo precário e efêmero, a suspensão das medidas de execução de débitos surgidos no processo originário, inclusive no tocante a penhora on-line ou qualquer outra constrição. Pretende, no mérito, a cassação da decisão impugnada.
+    2. O inconformismo está baseado na tese da eficácia transcendental dos motivos determinantes. Relativamente às arguições de descumprimento de preceito fundamental nº 387, 347 e 530, fez-se em jogo discussão alusiva à Empresa de Gestão de Recursos do Estado do Piauí S.A. – EMGERPI, à Empresa de Assistência Técnica e Extensão do Ceará – EMATERCE e à Empresa de Assistência Técnica e Extensão Rural do Estado do Pará – EMATER/PA, sem nenhuma ligação com o caso concreto. Na ação direta de nº 1.642, o debate dizia respeito à validade de preceito da Constituição do Estado de Minas Gerais.
+    No tocante ao arguido descompasso com o assentado no recurso extraordinário nº 599.628 – Tema nº 253 do repertório da repercussão geral –, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela estar o cabimento da reclamação, objetivando ver reconhecida erronia quanto à sistemática da repercussão maior, condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando examinado agravo interposto em face de inadmissão de extraordinário. O requisito não foi atendido, sendo direcionada a irresignação contra ato de Juízo.
+    A reclamante não participou das relações subjetivas atinentes aos demais precedentes evocados na inicial. Descabe o manuseio desta medida visando a uniformização de jurisprudência.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 8 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
