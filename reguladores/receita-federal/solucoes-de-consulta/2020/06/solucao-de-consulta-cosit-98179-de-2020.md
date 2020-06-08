@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98179, de 21 de maio de 2020
+Assunto: Classificação de Mercadorias
+Código NCM: 8542.31.20
+Mercadoria: Microprocessador e controlador, próprio para montagem em superfície (SMD - Surface Mounted Device), composto de circuito integrado de multicomponentes (MCOs), medindo 43 x 30 x 3,2 mm e pesando 8 g, contendo, montados em uma placa de circuito impresso, entre outros componentes, processador OpenCPU 4G baseado na plataforma Spreadtrum SC8920W, sistema operacional Linux; modular rádio celular; Wi-fi; Bluetooth; GPS e memórias RAM de 2Gb e ROM de 4Gb, dotado de tecnologia MIMO (Multiple Input Multiple Output - múltiplas entradas e múltiplas saídas), permite suportar a comunicação Wi-Fi e Bluetooth com dispositivos simultaneamente, utilizado em POS sem fio, roteador, cartão de dados, smartphone, sinalização digital, painel de alarme, entre outros.
+Dispositivos Legais: RGI 1 (Nota 9 b) do Capítulo 85), RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.179-2020.pdf]
