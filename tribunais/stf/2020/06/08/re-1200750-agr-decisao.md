@@ -1,0 +1,32 @@
+Decisão: Trata-se de agravo regimental (eDOC 33) interposto em face de decisão monocrática em que neguei seguimento a recurso extraordinário com agravo nestes termos (eDOC 30):
+    A irresignação não merece prosperar.
+    Para se divergir das conclusões adotadas na instância de origem, seria necessário reexaminar a legislação infraconstitucional de regência da matéria, sobretudo o art. 117, IV, do Código Penal, de modo que eventual ofensa porventura verificada atingiria o texto constitucional, quando muito, por via oblíqua, inapta, desse modo, a viabilizar o processamento do apelo extremo.
+    Confira-se, a esse respeito, o seguinte precedente:
+    Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. IMPOSSIBILIDADE DE REANÁLISE DA INTERPRETAÇÃO CONFERIDA ÀS NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA NÃO CONFIGURA MARCO INTERRUPTIVO DA PRESCRIÇÃO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – O exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo, o que inviabiliza o extraordinário. III – A jurisprudência desta Corte é no sentido de que o acórdão confirmatório da sentença condenatória não possui o condão de interromper a fluência do prazo prescricional. IV – Agravo regimental a que se nega provimento.
+    (RE 1226710 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 05/11/2019 - grifei)
+    Ante o exposto, nos termos do art. 21, § 1º, do RISTF, nego seguimento ao recurso.
+    Nas razões recursais, insiste-se na tese de que o acórdão confirmatório de sentença penal condenatória também é causa interruptiva da prescrição da pretensão penal punitiva, sustentando-se seu caráter constitucional.
+    É o relatório.
+    Tendo em vista a permissão contida no art. 317, § 2º, do RISTF, reconsidero a decisão agravada e passo à reanálise dos autos.
+    Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça assim ementado (eDOC 9, p. 121):
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO. MARCO INTERRUPTIVO. ART. 117, IV, DO CP. SENTENÇA OU ACÓRDÃO CONDENATÓRIOS. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Nos termos do entendimento do Superior Tribunal de Justiça, o acórdão confirmatório da condenação não constitui marco interruptivo da prescrição. Precedentes.
+    2. Agravo regimental improvido “
+    Os embargos de declaração foram rejeitados (eDOC 9, p. 153)
+    No recurso extraordinário (eDOC 9, p. 163-181), interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, caput e I, II e LXXVIII, da Constituição Federal. Sustenta-se, em síntese, que o acórdão confirmatório de sentença penal condenatória também é causa interruptiva da prescrição da pretensão penal punitiva.
+    Decido.
+    A irresignação merece prosperar.
+    O Superior Tribunal de Justiça reconheceu a prescrição e, por conseguinte, declarou extinta a punibilidade do ora recorrido por entender que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, conforme interpretação dada ao art. 117 do Código Penal.
+    Tal compreensão, todavia, destoa da jurisprudência do Plenário do Supremo Tribunal Federal. Em sessão virtual ocorrida entre 17.4.2020 e 24.4.2020, por maioria, o colegiado máximo desta Corte, ao indeferir a ordem pleiteada no HC 176.473/RR, da relatoria do Ministro Alexandre de Moraes, fixou a tese de que “[n]os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta”.
+    Verificada a contrariedade entre a decisão recorrida e a jurisprudência consolidada deste Tribunal, encontra-se preenchido o requisito da repercussão geral da matéria, dada a presunção legal estabelecida no art. 1.035, § 3º, I, do CPC.
+    De mais a mais, a questão examinada pelo Plenário possui aspectos de índole constitucional que possibilitam a atuação do Supremo Tribunal Federal em sede de recurso extraordinário, conforme se depreende do julgado da Primeira Turma adiante transcrito:
+    DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL DA MATÉRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. POSSIBILIDADE. 1. A tese em discussão foi debatida pelo acórdão do Superior Tribunal de Justiça, tendo o recurso extraordinário sido admitido pela Vice-Presidente daquela Corte, bem como a parte agravada trouxe nas razões do recurso extraordinário a preliminar fundamentada de repercussão geral da matéria. Além do mais, a discussão é relevante do ponto de vista constitucional, à luz do princípio da presunção de inocência. 2. A jurisprudência desta Corte é no sentido de que o acórdão que confirma a sentença condenatória é marco interruptivo do prazo prescricional. “A ideia de prescrição está vinculada à inércia estatal e o que existe na confirmação da condenação é a atuação do Tribunal. Consequentemente, se o Estado não está inerte, há necessidade de se interromper a prescrição para o cumprimento do devido processo legal” (RE 1.226.719-AgR, redator para o acórdão o Min. Alexandre de Moraes). Precedentes. 3. Agravo interno a que se nega provimento.
+    (RE 1245295 AgR, Relator ROBERTO BARROSO, Primeira Turma, julgado em 27/04/2020)
+     Impõe-se, desse modo, o afastamento da declaração de extinção da punibilidade exarada sem que se observasse ser também o acórdão confirmatório da condenação marco interruptivo da prescrição.
+    Ante o exposto, nos termos do art. 21, § 2º, RISTF, reconsidero a decisão anteriormente proferida e dou provimento ao recurso extraordinário para cassar o acórdão recorrido e determinar que outro seja proferido em seu lugar.
+    Remetam-se os autos ao Superior Tribunal de Justiça para que sua Quinta Turma prossiga no julgamento do recurso especial em conformidade com a jurisprudência desta Corte.
+    Publique-se.
+    Brasília, 8 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
