@@ -1,0 +1,33 @@
+DECISÃO
+HABEAS CORPUS. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA PROCESSAR E JULGAR HABEAS CORPUS IMPETRADO CONTRA ATO DE MAGISTRADO DE VARA DE EXECUÇÕES CRIMINAIS. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO E DECLINA-SE DA COMPETÊNCIA.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, manuscrito por Leandro Cosme Vieira Machado, em benefício próprio, sem indicação de autoridade coatora.
+O caso
+    2. Pelo que se depreende da inicial, o paciente está cumprindo pena definitiva total de oito anos, seis meses e vinte dias, em regime semiaberto, proveniente de dois processos (Processo n. 001395929.2016.8.26.0050 e Processo n. 0007299.16.2012.8.26.0161), sendo um deles pela prática de roubo, estando atualmente recluso na Penitenciária de Potim II/SP, ala de progressão.
+    Busca pela presente impetração “mudança de processo físico para processo eletrônico, devido à demora para julgar os benefícios [progressão de regime aberto e livramento condicional], que foram protocolados em 12.11.2019”, atribuindo a demora ao fato de que “os Fóruns estão trabalhando com funcionários reduzidos para não gerar aglomerações”.
+    Relata temer a pandemia de Covid-19 e que “gostaria de poder ajudar a mãe idosa e o filho de quase dois anos de idade”.
+    Afirma que “no dia 5.3.2020 fiz a última etapa do exame criminológico para fins de progressão de regime aberto e livramento condicional”. Alega que, além de cumprir o requisito temporal, tem bom comportamento carcerário durante todo o período de prisão, exerce trabalho interno e tem direito à saídas temporárias.
+    Pede que “sejam tomadas as providências necessárias de acordo cm a Constituição e seja dado provimento ao Recurso, encaminhando à Sra. Dra. Cármen o meu B.I.”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A presente impetração, manuscrita pelo paciente/impetrante, sem indicação de autoridade coatora ou juntada de documentos que viabilizem a integral compreensão da controvérsia apresenta apenas o número de duas ações penais que estariam na fase de execução de sentença, portanto no juízo de Execuções Criminais de São Paulo.
+    Pelo que se depreende, busca-se a possibilidade de progressão de regime ou livramento condicional após o cumprimento de 1/6 de condenação de oito anos, seis meses e vinte dias que lhe foi imposta, noticiando demora na análise dos pedidos em razão da pandemia de coronavírus.
+    4. Não consta a existência de incidente na execução ou que igual pretensão tenha sido suscitada no Tribunal de Justiça de São Paulo, tampouco que suposto constrangimento decorrente da negativa de concessão de progressão de regime ao paciente pelo juízo da execução tenha sido decidido indeferido por aquele tribunal ou pelo Superior Tribunal de Justiça.
+    O juízo das Execuções Criminais, pretensamente responsável pelo alegado constrangimento, não tem os seus atos judiciais sujeitos à apreciação direta e originária do Supremo Tribunal Federal.
+    5. A competência do Supremo Tribunal para julgar habeas corpus é determinada constitucionalmente em razão do paciente ou da autoridade coatora (al. i do inc. I do art. 102 da Constituição da República).
+    Naquele rol constitucionalmente afirmado, não se inclui a atribuição deste Supremo Tribunal para processar e julgar, originariamente, ação de habeas corpus na qual figure como autoridade coatora juiz de direito de Tribunal de Justiça estadual, cujos atos estão sujeitos ao primeiro controle ao Tribunal de Justiça a que estão vinculados.
+    A matéria não comporta discussão mínima, pois a regra de competência constitucional é expressa e, para os fins de julgamento válido, não possibilita extensão.
+    6. Considerado o histórico processual narrado, a hipossuficiência do paciente e haver relato que, não obstante a incongruência de seus termos e a ininteligibilidade da narrativa que impedem a perfeita compreensão da controvérsia, demonstra ser ato sujeito ao cuidado do Tribunal de Justiça de São Paulo, é de ser remetido o processo, com a máxima urgência, para análise e decisão daquele órgão judicial.
+     Confiram-se em sentido análogo e decisão conclusiva no sentido de negativa de seguimento de ação neste Supremo Tribunal, por exemplo, os seguintes julgados:
+    “DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. ‘HABEAS CORPUS’. NULIDADES. DEFESAS CONFLITANTES. SEVÍCIAS SOFRIDAS PELO RÉU: FALTA DE EXAME DE CORPO DE DELITO. OMISSÕES DA SENTENÇA CONDENATÓRIA. INJUSTIÇA DESTA. NÃO ESTANDO O PEDIDO DE ‘HABEAS CORPUS’ INSTRUÍDO COM CÓPIAS DE PEÇAS DO PROCESSO, PELAS QUAIS SE PODERIA EVENTUALMENTE, CONSTATAR A OCORRÊNCIA DAS FALHAS ALEGADAS, NÃO SE PODE SEQUER VERIFICAR A CARACTERIZAÇÃO, OU NÃO, DO CONSTRANGIMENTO ILEGAL. ‘H.C.’ NÃO CONHECIDO” (HC n. 71.254/RJ, Relator o Ministro Sydney Sanches, DJ 24.2.1995).
+    “1.  Habeas corpus: STF: competência originária: incidência da Súmula 691-STF (‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus, requerido a tribunal superior, indefere a liminar’). Não é dado analisar o mérito das questões discutidas para, a partir daí, conhecer ou não do habeas corpus. 2. Habeas corpus: inviabilidade, no caso - dada a manifesta deficiência da instrução do pedido -, do exame da questão de fundo para ponderar do cabimento ou não, de eventual habeas corpus de ofício” (HC n. 87.048-AgR/SP, Relator o Ministro Sepúlveda Pertence, DJ 9.12.2005).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. PENAL MILITAR. PACIENTE DENUNCIADO POR INFRAÇÃO DO ART. 290, CAPUT, DO CÓDIGO PENAL MILITAR. 1. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. (…)
+    1. Não tendo sido juntado qualquer documento na impetração do presente habeas corpus, não foi possível, no momento da prolação da decisão ora agravada, ter ciência do que ocorreu no processo, motivo pelo qual esta impetração não poderia ter seguimento, pois carente dos requisitos necessários. Decisão agravada mantida. (...)
+    3. Agravo regimental ao qual se nega provimento” (HC n. 104.564-AgR, de minha relatoria, DJe 27.5.2011).
+    7. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida e determino a remessa dos autos ao Tribunal de Justiça de São Paulo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Comuniquem-se ao paciente/impetrante os termos desta decisão e dê-se-lhe ciência de ter direito a advogado público, se não puder arcar com os ônus de profissional de livre escolha.
+    Encaminhem-se cópias da inicial e desta decisão ao Defensor Público-Geral de São Paulo.
+    Publique-se.
+    Arquive-se.
+    Brasília, 8 de junho de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
