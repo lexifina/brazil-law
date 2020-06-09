@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à concessão de benefício previdenciário, consideradas as premissas fáticas. No extraordinário, o recorrente aponta a violação dos artigos 2º, 97, 195, § 5º, e 201 da Constituição Federal. Insiste na inviabilidade da aposentadoria por idade híbrida, nos termos da Lei nº 8.213/91. Alega contrariedade do princípio da separação dos Poderes. Entende inobservada a cláusula de reserva de Plenário. Assevera a inexistência de prévia formação de fonte de custeio para concessão do benefício.
+    2. De início, quanto a evocação do artigo 97 da Lei Maior, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    Colho os seguinte trechos do acórdão recorrido:
+    Por ocasião do julgamento do PEDILEF 5009416-32.2013.4.04.7200/SC (Representativo de Controvérsia - Tema 131), ocorrido em 23/02/2017, a Turma Nacional de Uniformização solidificou a tese de que, para a concessão da aposentadoria por idade híbrida ou mista, na forma do art. 48, § 3º, da Lei n. 8.213/91 - cujo requisito etário é o mesmo exigido para a aposentadoria por idade urbana - é irrelevante a natureza rural ou urbana da atividade exercida pelo segurado no período imediatamente anterior à implementação do requisito etário ou ao requerimento do benefício.
+    […]
+    Na hipótese específica dos autos, a parte demandante cumpriu o requisito etário para o benefício de aposentadoria por idade híbrida em 14/07/2016, necessitando, como carência, de 180 contribuições.
+    O INSS homologou, na via administrativa, o tempo de labor rural de 01/01/1973 a 31/12/1986 e, em sentença, o Juízo de origem reconheceu como tal o intervalo de 14/07/1968 a 31/12/1972 (evento 16).
+    Em análise ao Resumo de Documentos para Cálculo de Tempo de Contribuição, anexado ao evento 14 (RESPOSTA2, Página 20), depreende-se que a parte demandante atendeu ao requisito da carência para o deferimento do benefício, uma vez que reconhecido judicialmente o exercício de atividade rural de 14/07/1968 a 31/12/1972, além dos 135 meses de carência apurados administrativamente até o requerimento administrativo - o que torna suficiente a outorga da prestação previdenciária pretendida.
+    Destarte, impõe-se dar provimento ao recurso da parte autora, para o fim de determinar ao INSS a concessão do benefício de aposentadoria por idade de regime híbrido a contar de seu requerimento na esfera administrativa (08/08/2017), condenando-se o réu ao pagamento das parcelas vincendas e vencidas, descontados os valores recebidos a título de benefícios inacumuláveis desde então.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 9 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
