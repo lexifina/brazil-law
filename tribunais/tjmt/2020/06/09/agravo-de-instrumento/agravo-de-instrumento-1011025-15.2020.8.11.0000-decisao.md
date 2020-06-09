@@ -1,0 +1,26 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+AGRAVO DE INSTRUMENTO No 1011025-15.2020.8.11.0000
+AGRAVANTE (S): BANCO PAN S.A.
+AGRAVADO (S): ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por Banco Pan S.A, contra a decisão proferida pelo Juízo da 4.a Vara Especializada da Fazenda Pública da Comarca de Cuiabá, que, nos autos da Ação Anulatória n.o 1017718-86.2020.8.11.0041, ajuizada em face do Estado de Mato Grosso, deferiu parcialmente a liminar, apenas para determinar a expedição de Certidão Positiva com efeitos de negativa.
+Sustenta que ajuizou a ação retro mencionada, objetivando, liminarmente, a suspensão da exigibilidade da multa aplicada no Processo Administrativo – F.A no 02.15.0019721 - 4, lavrado em face da instituição financeira ante a suposta infração ao CDC, oferecendo para tanto, apólices de seguro em garantia no importe integral da multa discutida, no montante de R$ 80.000,00, acrescido de 30%, totalizando o valor de R$ 104.000,00, referida apólice de no 0306920209907750367204000, emitida por POTTENCIAL SEGURADORA S/A, em 13/04/2020.
+Defende que a probabilidade do seu direito está presente, pois a multa foi fixada sem observância dos preceitos legais, bem como imposta de forma arbitraria, extrapolando o caráter punitivo da penalidade, além do perigo de dano, em razão da impossibilidade de participação em procedimentos licitatórios e de contratar com o Poder Público.
+Alega, também, que, o STJ, proferiu decisão em 25/06/2019, na qual afirmou que é cabível a suspensão da exigibilidade do crédito não tributário com a garantia do juízo por meio de apólice de seguro.
+Dessa forma, requer a concessão da liminar para o fim de suspender a exigibilidade do débito [Processo Administrativo no F.A.: 02.15 -0019721 - 4], até o julgamento definitivo do presente recurso de agravo de instrumento, com base no artigo 1.019, inciso I, do CPC. Alternativamente, pleiteia -se a suspensão da exigibilidade da multa citada, mediante a caução do juízo através da apólice de seguro garantia.
+No mérito, pugna pelo provimento do recurso, com a confirmação da liminar.
+É o que merece registro.
+Decido
+Para a concessão de medida liminar em sede de Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores, quais sejam, a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos 1.019, I, c/c 995, parágrafo único, do Código de Processo Civil.
+Após a análise da situação concreta emergente dos autos e dos documentos instruidores deste agravo, verifica-se que está ausente os requisitos legais, a ensejar o deferimento da medida.
+Isso porque, o STJ, nos autos do Recurso Especial no 1.381.254/PR, submetido a sistemática dos recursos repetitivos, firmou a seguinte tese: o entendimento contemplado no Enunciado Sumular 112 do STJ, segundo o qual o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro, que se reproduziu no julgamento do Recurso Representativo da Controvérsia, nos autos do REsp. 1.156.668/DF, não se estende aos créditos não tributários originários de multa administrativa imposta no exercício do Poder de Polícia (REsp 1.381.254/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 28/06/2019).
+Na decisão proferida pelo eminente Ministro Relator constou ser cabível a suspensão da exigibilidade do crédito não tributário a partir da apresentação da fiança bancária e do seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento, nos moldes previstos no art. 151, inciso II, do CTN c/c o art. 835, § 2o. do Código Fux e o art. 9o, § 3o da Lei 6.830/1980, uma vez que não há dúvida quanto à liquidez de tais modalidades de garantia, permitindo, desse modo, a produção dos mesmos efeitos jurídicos do dinheiro.
+No presente caso, compulsando os autos da ação de origem, verifica-se que a Agravante foi multada em R$ 80.000,00 (oitenta mil reais), consoante de extrai da decisão administrativa e do Documento de Arrecadação de Id. 43447976 - Pág. 79 e, o seguro garantia oferecido no valor de R$ 104.000,00 (cento e quatro mil reais), aparentemente acrescido dos 30%, consoante entendimento do STJ, bem como, também foi contratado em conformidade com as Condições Gerais do Seguro Garantia, de acordo com a Circular SUSEP no 477/2013.
+Sendo assim, tenho que a probabilidade do direito resta demonstrada consoante entendimento retro mencionado, bem como o perigo de dano, diante da impossibilidade de praticar atos de comércio, o que autorizam a concessão do pedido de liminar.
+Com tais considerações, DEFIRO o pedido a liminar para permitir a suspensão da exigibilidade do débito ora discutido, mediante o oferecimento do seguro garantia ora apresentado, devendo o Juízo de origem tomar por termo a caução ofertada.
+Comunique-se sobre esta decisão o Juízo do feito, requisitando-lhe informações.
+Intime-se o Agravado para, querendo, apresentar resposta no prazo legal.
+Após, encaminhem-se os autos à Procuradoria-Geral de Justiça para parecer.
+Cuiabá/MT, 8 de junho de 2019.
+Desa. Helena Maria Bezerra Ramos
+Relatora
