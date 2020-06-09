@@ -1,0 +1,47 @@
+Agravante: FUNDAÇÃO DE PESQUISA E DESENVOLVIMENTO TECNOLÓGICO RIO VERDE
+Agravado: ESTADO DE MATO GROSSO
+Protocolo: 1011125-67.2020.8.11.0000
+LIMINAR
+Visto.
+Trata-se de Agravo de Instrumento interposto pela FUNDAÇÃO DE PESQUISA E DESENVOLVIMENTO TECNOLÓGICO RIO VERDE, contra a r. decisão proferida pelo Juízo da Vara Especializada do Meio Ambiente da Comarca de Cuiabá-MT, nos autos da Ação de Obrigação de Fazer n.o 1007423-87.2020.8.11.0041, que indeferiu a tutela de urgência pleiteada na exordial (Id. 43539491).
+Aduz que a autorização do cultivo excepcional para realização de pesquisa em fevereiro é legal e não ameaça o vazio sanitário.
+Sustenta que a norma não limita ou proíbe o plantio de soja fora do vazio sanitário, como no caso da pesquisa defendida nos autos originários, mas tão somente o plantio feito entre 15/06 a 15/09.
+Argumenta que o acordo extrajudicial homologado por mediador público e credenciado no Tribunal de Justiça de Mato Grosso é título executivo extrajudicial, conforme prevê o artigo 784 Código de Processo Civil.
+Assevera que o acordo extrajudicial firmado entre as partes é válido, eficaz e produz efeitos entre as partes, cabendo ao Ministério Público o ajuizamento de eventuais medidas judiciais para de anular ou revogar o título.
+Assegura que embora o artigo 8o, inciso VII, da Lei Complementar Estadual n. 111/2002 estabeleça que compete ao Procurador-Geral do Estado desistir, concordar, transigir, firmar, não há qualquer irregularidade quando o ato é assinado por uma entidade nomeada pelo Procurador Geral para representa-lo, como no caso dos autos.
+Pontua que não pode o Estado de Mato Grosso e a Procuradoria Geral do Estado alegar unicidade de representação depois de nomear a SEMA para lhe representar, sob pena de se beneficiar a própria torpeza.
+Argui que não cabe ao INDEA a declaração de nulidade ou a revogação do ato administrativo criado por meio do Acordo Extrajudicial firmado na AMIS, uma vez que o título criou direito e deveres para terceiros e para próprio Estado de Mato Grosso.
+Verbera que os atos com defeitos sanáveis devem ser convalidados quando não houver lesão a interesse público de modo a resguardar os efeitos já produzidos perante terceiros de boa-fé.
+Narra que a Instrução Normativa Conjunta SEDEC/INDEA-MT n. 002/2015 é ilegal, pois estipulou data para plantio de soja sem embasamento técnico/científico, desrespeitando o Programa Nacional de Controle da Ferrugem Asiática contido na Instrução Normativa do MAPA, o artigo 338 da Constituição do Estado de Mato Grosso e outros diplomas legais nacionais e internacionais.
+Informa que o Acordo Parcial firmado no Procedimento 000294/2019 junto a AMIS firmado por representantes da APROSOJA, do INDEA-MT, da Secretaria de Estado de Meio Ambiente – SEMA-MT e do Ministério da Agricultura, Pecuária e Abastecimento – MAPA visando à revisão da aludida instrução normativa por meio de “pesquisas sérias e científicas”, restando autorizado o plantio de soja em até 30 (trinta) propriedades, com 50 (cinquenta) hectares cada, no período de 1o a 15 de fevereiro de 2020.
+Diz que foi dado inicio à plantação para a pesquisa somente depois de firmado um acordo extrajudicial na Promotoria de Justiça de Cuiabá, o qual se deu com o intuito de demonstrar a ilegalidade da Instrução Normativa n.o 002/2015.
+Narra que suspender a pesquisa depois de iniciada, viola as situações jurídicas anteriormente constituídas, bem como a boa-fé objetiva dos produtores rurais.
+Pontua que inexiste qualquer prejuízo ambiental com a realização da pesquisa científica da calendarização da soja no Estado.
+Afirma que estão presentes os requisitos necessários para o deferimento da tutela antecipada recursal.
+Com base nestes fundamentos, pugna pelo deferimento da tutela antecipada recursal para: a) reconhecer que a Instrução Normativa veda apenas o plantio de soja durante o período de vazio sanitário (de junho a setembro) e o Acordo Extrajudicial firmado pelo Estado autorizou o plantio entre fevereiro a maio, fora do vazio sanitário; b) Determinar às partes requeridas que participem da pesquisa ainda em andamento, contribuindo com a ciência em Mato Grosso; c) garantir o cumprimento da obrigação estatal assumida no Acordo Parcial Extrajudicial; d) manter a pesquisa científica, determinando aos réus a participação no experimento; e) Reconhecer a força executiva do Acordo Extrajudicial; f) vedar a atuação contrária e infringência ao princípio da boa-fé objetiva dos produtores, que participaram da pesquisa acreditando no acordo firmado com Estado de Ministério Público, que posteriormente cancelaram a autorização. No mérito pugna pelo deferimento da tutela de urgência pleiteada nos autos originários.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo no Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, todos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Na vertente hipótese, em que pese sejam relevantes os fundamentos apresentados nas razões recursais, da análise dos presentes autos, bem como dos demais processos e recursos relacionados à pesquisa científica em questão, é possível constatar que o plantio da soja experimental já foi efetuado, a colheita realizada, e as sojas experimentais (sementes ou grãos comerciais) armazenadas com a fiscalização, condições técnicas, condições de segurança e garantia necessária para a conservação do produto do experimento.
+Isso, porque, na decisão mais recente proferidas pelo Magistrado a quo nas Ações Civis Pública ajuizada pelo Ministério Público ficou estabelecido que o Instituto de Defesa Agropecuária do Estado de Mato Grosso – INDEA-MT: a) realize a classificação e pesagem do produto da colheita da soja experimental descrita na inicial; b) indique os silos para armazenamento, devendo tal escolha recair, preferencialmente, em local próximo ao imóvel rural onde ocorreu o plantio, sem prejuízo do atendimento das condições técnicas e de segurança para a conservação da soja colhida; c) colha amostras dos grãos, para posterior análise, caso necessário.
+A propósito, Transcrevo esse trecho da decisão:
+“[...] Desse modo, em atenção ao requerido pelas partes e considerando a indispensabilidade de se explicitar a forma como se dará o cumprimento da ordem proferida pelo d. Desembargador MÁRIO ROBERTO KONO DE OLIVEIRA no Recurso de Agravo de Instrumento [...]em estrita observância aos termos da referida decisão – e, por óbvio, mantida a suspensão da ordem de destruição do plantio experimental –, bem assim em razão da imprescindibilidade da medida para evitar o perecimento ou lesão do direito tutelado na presente ação coletiva, notadamente porque se avizinha o período de colheita do plantio experimental, DEFIRO PARCIALMENTE os pedidos das partes para, sem prejuízo do integral cumprimento da ordem judicial do relator no agravo interposto, DETERMINAR:
+[...]
+2. A INTIMAÇÃO do Presidente do Instituto de Defesa Agropecuária do Estado de Mato Grosso – INDEA-MT para ciência e cumprimento da presente decisão, mormente no que concerne:
+2.1. À indicação de silo (s) para o armazenamento do produto da colheita da soja experimental descrita na inicial, devendo tal escolha recair, preferencialmente, em local próximo ao imóvel rural onde ocorreu o plantio, sem prejuízo do atendimento das condições técnicas e de segurança para a conservação dos grãos.
+2.2. Ao acompanhamento da colheita da soja experimental descrita na inicial e do transporte de seu produto até o local em que será realizado o armazenamento.
+2.3. À realização da classificação e pesagem do produto da colheita da soja experimental descrita na inicial, bem assim para que colha amostras dos grãos, para posterior análise, caso necessário. [...]”.
+Conforme se verifica do citado decisum, constata-se que foi estabelecido, inclusive, que a instituição fiscalizadora colha amostras de grãos, para posterior análise, caso seja necessário.
+Destarte, não vislumbro o perigo de dano ou o risco ao resultado útil do processo caso não seja deferida a tutela antecipada recursal pleiteada no presente agravo.
+Cabe ressaltar que a ausência de apenas um dos requisitos legais já é suficiente pra impossibilitar o deferimento da tutela antecipada recursal.
+Ante o exposto, indefiro a tutela antecipada recursal pleiteada.
+Intime-se a parte Agravada para que querendo apresente contrarrazões no prazo legal.
+À Procuradoria-Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relato
