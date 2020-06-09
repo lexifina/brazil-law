@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO CIVIL PÚBLICA AMBIENTAL – PRELIMINARES – NÃO CONHECIMENTO DO RECURSO POR AUSÊNCIA DE PREPARO – AFASTADA – NÃO CONHECIMENTO DO RECURSO POR INTEMPESTIVIDADE – NULIDADE DA SENTENÇA POR AUSÊNCIA DE INTERESSE DE AGIR E POR DEFICIÊNCIA DO RELATÓRIO – NULIDADE DO PROCESSO PELA NECESSIDADE DE LITISCONSÓRCIO E PELA EXISTÊNCIA DE LITISPENDÊNCIA – AFASTADAS – MÉRITO – OCUPAÇÃO E EDIFICAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE (APP) – MARGENS DO RIO IVINHEMA – EXISTÊNCIA DE AUTORIZAÇÃO DO ÓRGÃO COMPETENTE – IMASUL – POSSIBILIDADE – MATÉRIA AMBIENTAL – COMPETÊNCIA DA UNIÃO, DOS ESTADOS E DOS MUNICÍPIOS – DIREITO DE PROPRIEDADE – IMPOSSIBILIDADE DE ADOÇÃO DE MEDIDAS EXTREMAS – OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE – SENTENÇA REFORMADA – RECURSO PROVIDO.
+    Se a justiça gratuita foi indeferida em sede de agravo de instrumento, tal questão fica restrita ao âmbito de admissibilidade deste recurso. Seus efeitos não podem ser estendidos aos autos da ação principal, especialmente se na contestação o beneficiário requereu a gratuidade e essa foi concedida na sentença.
+    Nos termos do artigo 177, do CPC, os atos processuais devem ser realizados nos prazos prescritos em lei ou no prazo assinalado pelo magistrado, sob pena de preclusão, razão pela qual evidencia-se a tempestividade do recurso de apelação.
+    Nos casos em que a alegação de ausência de interesse de agir estiver ligada à matéria de fundo do processo, sua apreciação deve ser feita juntamente com o mérito.
+    A ausência de relatório enseja a declaração de nulidade da sentença, mas a sua elaboração de forma sucinta não macula o decisum.
+    Ainda que preenchidos os requisitos que autorizariam a propositura de uma única ação em face de todos os réus, tal medida não é recomendável nos casos em que o excesso de demandados causar tumulto processual, inviabilizando o exercício da jurisdição, comprometendo a rápida solução do litígio.
+    Para que haja litispendência não é suficiente que haja a repetição da ação, sendo de fundamental importância haver uma tríplice identidade: mesmas partes, mesmo pedido e mesma causa de pedir.
+    Área de preservação permanente pode ser entendida como aquela merecedora da mais alta escala de proteção ambiental, cujo conceito foi trazido pelo artigo 1º, da Lei n.º 4.771/65.
+    A proteção ao meio ambiente se insere no âmbito da competência comum dos entes federados, com fulcro no artigo 23, VI, da Constituição Federal. Também, compete à União e aos Estados legislar concorrentemente sobre florestas, fauna, conservação da natureza, defesa do solo e dos recursos naturais e proteção do meio ambiente, como estabelece o artigo 24, VI, da Carta Superior.
+    O IMASUL – Instituto de Meio Ambiente de Mato Grosso do Sul possui competência para concessão de licenciamento ambiental e realização de controle de obras, empreendimentos e atividades efetivas ou potencialmente poluidoras ou modificadoras do meio ambiente, nos termos do artigo 2º, do Decreto Estadual n.º 12.725/2009 e Decreto Estadual n.º 12.673/2009.
+    A situação já consolidada de ocupação da área de preservação permanente não atenta contra a ordem jurídica, eis que respaldada em autorização da ordem competente, motivo pelo qual descabe a adoção das severas medidas de desocupação, demolição ou remoção das edificações e reflorestamento da área, uma vez que fere os princípios da razoabilidade e da proporcionalidade.
+    Recurso provido” (págs. 41-42 do documento eletrônico 10).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, afronta ao art. 225, § 1°, I, II, IV e VIII, e § 3°, da mesma Carta.
+    O presente recurso perdeu o objeto.
+    O STJ, ao julgar o REsp 1.390.736/MS, deu provimento ao recurso especial para restabelecer a sentença (págs. 128-129 do documento eletrônico 16). Interposto recurso extraordinário dessa decisão, a Segunda Turma do Supremo Tribunal Federal negou provimento ao agravo regimental (documento eletrônico 23), que transitou em julgado em 12 de fevereiro de 2019 (certidão constante do documento eletrônico 26).
+    Isso posto, julgo prejudicado o recurso (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 9 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
