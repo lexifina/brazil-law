@@ -31,6 +31,8 @@ a) o mutuário deverá contar com o mínimo de três anos de trabalho sob o regi
 b) seja a operação financiável nas condições vigentes para o Sistema Financeiro da Habitação (SFH) ou ainda por intermédio de parcelamento efetuado pela Secretaria do Patrimônio da União (SPU), mediante a contratação da Caixa Econômica Federal como agente financeiro dos contratos de parcelamento;
 c) sejam observadas as demais regras e condições estabelecidas para uso do FGTS.
 XX - anualmente, no mês de aniversário do trabalhador, por meio da aplicação dos valores constantes do Anexo desta Lei, observado o disposto no art. 20-D desta Lei;
+XXI - a qualquer tempo, quando seu saldo for inferior a R$ 80,00 (oitenta reais) e não houver ocorrido depósitos ou saques por, no mínimo, 1 (um) ano, exceto na hipótese prevista no inciso I do § 5º do art. 13 desta Lei;
+XXII - quando o trabalhador ou qualquer de seus dependentes for, nos termos do regulamento, pessoa com doença rara, consideradas doenças raras aquelas assim reconhecidas pelo Ministério da Saúde, que apresentará, em seu sítio na internet, a relação atualizada dessas doenças.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.
