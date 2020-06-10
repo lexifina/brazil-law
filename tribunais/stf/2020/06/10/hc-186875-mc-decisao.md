@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. ‘REFORMATIO IN PEJUS’. NÃO OCORRÊNCIA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO ‘MANDAMUS’. REGIME FECHADO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+    I – É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+    II – Mesmo se tratando de recurso exclusivo da defesa, é possível nova ponderação das circunstâncias que conduza à revaloração sem que se incorra em ‘reformatio in pejus’, desde que a situação final do réu não seja agravada, conforme ocorreu na hipótese (HC n. 358.518/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/2/2017).
+    III – Além de não preencher os requisitos para o reconhecimento da figura do tráfico privilegiado, as instâncias ordinárias constataram que não se tratava de traficante ocasional, afirmando haver provas nos autos de que o paciente se dedicava às atividades ilícitas, fazendo do tráfico seu meio de vida, além de relatar que o réu atuava com mais pessoas com o fim destinado ao comércio de drogas. Assim, rever o entendimento das instâncias ordinárias demandaria, necessariamente, o revolvimento de todo o acervo fático- -probatório, procedimento incompatível com a via do ‘habeas corpus’ (HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017).
+    IV – Não se verifica a apontada ilegalidade na fixação do regime inicial fechado, uma vez que há, nos autos, dados fáticos suficientes a indicar a gravidade concreta do crime. Ressalto, por oportuno, que a quantidade de entorpecente apreendido, no caso, 79 comprimidos de ‘ecstasy’, por si só, já é fundamento a ensejar a aplicação do regime mais danoso, conforma entendimento desta Corte Superior, ‘ex vi’ do art. 33, § 2º, b, e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/06 (HC n. 385.934/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017 – ...).
+    V – Não se trata de caso em que a simples gravidade abstrata do delito cometido é utilizada como fundamentação para a imposição de regime prisional mais gravoso do que o permitido em razão da sanção aplicada, o que ensejaria violação dos enunciados das Súmulas n. 440/STJ, n. 718/STF e n. 719/STF.
+    VI – O agravante não aduz qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada.
+    Agravo regimental desprovido.”
+    (HC 544.492-AgRg/SP, Rel. Min. FELIX FISCHER – grifei)
+    Busca-se, liminarmente, na presente sede processual, “(...) suspender a execução da pena até o julgamento do mérito deste ‘writ’”.
+    O exame dos fundamentos em que se apoia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida pela parte impetrante.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar.
+    2. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 10 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
