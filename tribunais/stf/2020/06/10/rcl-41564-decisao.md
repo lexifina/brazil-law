@@ -1,0 +1,26 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta por Carlos Eduardo Sales Cardoso, contra ato do Tribunal de Justiça do Rio de Janeiro, que teria indeferido o pedido liminar no HC n. 0032776-53.2020.8.19.000.
+    Consta dos autos que o reclamante foi condenado pela prática do delito de tráfico de drogas (art. 35, c.c art. 40, da Lei 11.343/2006), à pena de 8 (oito) anos de reclusão, a ser cumprida inicialmente em regime semiaberto. (eDOC 11, p. 13)
+    Na petição inicial, o reclamante alega que recorreu da sentença condenatória e, não obstante o recurso, a sentença condenatória foi executada provisoriamente pela Vara de Execuções Penais nos autos do processo de execução nº 0041978-85.2019.8.19.0001.
+    Afirma que em decisão de 05.05.2020, a Vara de Execuções Penais do Estado do Rio de Janeiro, concedeu a progressão do regime fechado para o semiaberto.
+    Irresignada, a defesa impetrou habeas corpus buscando a revogação da prisão preventiva, assim como seu relaxamento pelo excesso de prazo. (eDOC 1). A ordem foi denegada (eDOC 22).
+    Requer, portanto, a revogação da prisão preventiva (eDOC 1).
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante. (CF/88, art. 103-A, § 3º)
+    O Código de Processo Civil de 2015, na linha da jurisprudência anteriormente firmada por esta Corte (Rcl 10.793, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 6.6.2011), vedou expressamente a utilização da reclamação para impugnar decisões judiciais que revelem contrariedade a tese firmada pelo Supremo Tribunal Federal em recursos extraordinários com repercussão geral, ressalvadas as hipóteses de prévio exaurimento das instâncias ordinárias. Transcrevo os dispositivos pertinentes:
+    Art. 988, § 5º É inadmissível a reclamação:
+    (...)
+    II proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    Observo que, na espécie, o ato reclamado (habeas corpus nº 0032776-53.2020.8.19.000) foi proferido em fase de apelação no TJRJ, recurso ainda não apreciado. Nesses termos, além da apelação, ainda seria cabível a interposição de recurso extraordinário contra a decisão reclamada, para provocar o Tribunal a quo a aplicar o entendimento firmado no recurso-paradigma indicado ao caso concreto.
+    Dessa forma, tendo em vista que não houve o esgotamento das instâncias, incabível a presente reclamação.
+    Com efeito, o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal. Nesse sentido, trago os seguintes precedentes:
+    “PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA. 1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação. 2. Agravo regimental não provido” (Rcl 24686 ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 11.4.2017 - grifou-se)
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. NÃO ESGOTAMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I A reclamação não é sucedâneo ou substitutivo de recurso próprio para conferir eficácia à jurisdição invocada nos autos de recursos interpostos da decisão de mérito e da decisão em execução provisória. II É inadmissível a reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário, quando não esgotadas as instâncias ordinárias (art. 988, § 5°, II, do CPC). III - Agravo regimental a que se nega provimento.” (Rcl 29505 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 6.8.2018)
+    Desse modo, inadmissível a presente reclamação, tendo em vista a utilização desta via processual como mero sucedâneo recursal.
+    Ante o exposto, julgo improcedente a reclamação.
+    Publique-se.
+    Brasília, 10 de junho de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
