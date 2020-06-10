@@ -1,0 +1,30 @@
+Recurso Especial na Apelação Cível n. 0001095-42.2011.8.11.0020
+RECORRENTE(s): CONPREM CONCRETO PREMOLDADO LTDA
+RECORRIDO(s): ROSANA TEIXEIRA SILVA BARROS E OUTROS
+Vistos, etc.
+Trata-se de Recurso Especial interposto por CONPREM CONCRETO PREMOLDADO LTDA com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado assim ementado (ID 16922966):
+“APELAÇÃO – INDENIZAÇÃO COM DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO – PROCURAÇÃO – JUNTADA EXTEMPORÂNEA – REVELIA – FORMALISMO EXACERBADO – MÉRITO – EXERCÍCIO REGULAR DO DIREITO DAS REQUERIDAS – PROTESTO DEVIDO – FATOS CONSTITUTIVOS DO DIREITO NÃO DEMONSTRADOS – RECURSO DESPROVIDO. 1- “Mesmo juntada a destempo a procuração, há o aproveitamento dos atos já praticados” (TJ-SP - EMBDECCV: 10015922520178260145 SP 1001592-25.2017.8.26.0145, Relator: Miguel Brandi, Data de Julgamento: 11/04/2019, 7a Câmara de Direito Privado, Data de Publicação: 11/04/2019). 2- “Nos termos do art. 373, inciso I, do NCPC, não havendo nos autos prova suficiente dos fatos constitutivos do direito alegado pela parte autora na peça exordial, há de se manter a sentença que, acertadamente, julgou improcedentes os pedidos iniciais. - O protesto de título por falta de pagamento constitui exercício regular de direito.” (TJ-MG - AC: 10452120053973001 MG, Relator: Sérgio André da Fonseca Xavier, Data de Julgamento: 23/08/2016, Câmaras Cíveis / 18a CÂMARA CÍVEL, Data de Publicação: 29/08/2016). (TJMT – Primeira Câmara de Direito Privado – RAC n. 0001095-42.2011.8.11.0020, Relatora: Desa NILZA MARIA POSSAS DE CARVALHO, j. em 24/09/20169).
+Opostos Embargos de Declaração, estes foram rejeitados no acórdão de ID 27300972
+A Recorrente alega violação aos artigos 492 do CPC; artigo 476 do CC, ao argumento de que a sentença é extra petita, uma vez que o juízo de primeiro grau confundiu-se quanto ao pedido e a causa de pedir, e que as provas dos autos comprovam o inadimplemento contratual por parte da Recorrida.
+Recurso tempestivo (ID 32229998).
+Sem contrarrazões, conforme ID 44905455.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A Recorrente alega violação aos artigos 492 do CPC e artigo 476 do CC, ao argumento de que sentença é extra petita, uma vez que a o juízo de primeiro grau confundiu-se quanto ao pedido e a causa de pedir e que as provas dos autos comprovam o inadimplemento contratual por parte da Recorrida.
+Assevera que: “A recorrente afirmou que a cobrança e, consequentemente, os protestos eram indevidos, uma vez que ocorreram descumprimentos do contrato de locação por parte da recorrida, fato amplamente demonstrado pelos documentos que acompanham a inicial. Consequência desse descumprimento, é a aplicação do princípio da exceção do contrato não cumprido e, portanto, não há débito a exigir da recorrente. Por isso o pedido de declaração de inexistência de débito” (Num. 31973972 - Pág. 5).
+Neste ponto, consignou-se no aresto recorrido que:
+“ (...) Logo, apesar de afirmar que a sentença seria “extra petita”, entendo não haver qualquer vício, pois verifica-se que, apesar de o serviço não ter sido realizado a contento, a apelante não teve interesse de interrompê-los antes do vencimento do contrato, e não comprovou o pagamento dos débitos apontados na contestação como sendo os originários do protesto, de modo que, como asseverado na sentença, o ponto controvertido pairou na ausência de demonstração de pagamento ou de que não existiram débitos a originarem o protesto, o que não foi demonstrado pela apelante e só poderia sê-lo mediante provas documentais.
+(...). O conhecimento pleno da apelante sobre a duplicata e de que seria levada a protesto, como informado pela apelada em e-mail, e a mudança de endereço sem comunicação dos credores, deixa patente a validade da notificação via edital, após 03 (três) tentativas de notificação pessoal no endereço constante no contrato. Ademais, a não demonstração de que os serviços cobrados se restringiriam aos previstos no contrato fazem cair por terra a afirmação de que houve majoração unilateral da mensalidade, o que ainda é prejudicado pelas inúmeras notas fiscais, referentes a outros serviços, e que não foram impugnadas especificamente pela apelante, além do e-mail, em que se verifica que a própria aquiesce sobre serviços extras. Diante destes elementos, não vejo comprovados fatos constitutivos do direito da parte autora. Pelo contrário, entendo que a parte requerida demonstrou fato extintivo, modificativo ou impeditivo do direito da apelante e que agiu no exercício regular do seu direito, de maneira que a manutenção da improcedência dos pedidos é medida que se impõe, não havendo que se falar na declaração da inexistência do débito e condenação em compensação por dano moral. (ID 16922966).
+Logo, para rever o entendimento firmado pela Câmara sobre esse ponto, é necessário o exame de fatos e provas, o que atrai o óbice sumular acima mencionado.
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 09 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+x
