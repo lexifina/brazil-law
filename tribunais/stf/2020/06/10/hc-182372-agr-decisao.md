@@ -1,0 +1,22 @@
+DECISÃO
+PETIÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. SUSTENTAÇÃO ORAL: NÃO CABIMENTO (§ 2º DO ART. 131 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL). INDEFERIMENTO DO PEDIDO.
+Relatório
+    1. Em 11.5.2020, foi negado seguimento ao habeas corpus em decisão com a seguinte ementa:
+    “HABEAS CORPUS. PROCESSUAL PENAL. FURTO PRATICADO DURANTE O REPOUSO NOTURNO E DUPLAMENTE QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E CONCURSO DE AGENTES. REGIME SEMIABERTO. CONDENAÇÃO TRANSITADA EM JULGADO ANTES DA IMPETRAÇÃO. HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DOMINANTE DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO” (doc. 29).
+    Contra essa decisão foi interposto agravo regimental (doc. 30).
+    2. Em 1º.6.2020, foi determinada a inclusão deste recurso na sessão virtual da Segunda Turma deste Supremo Tribunal, agendada para iniciar-se em 12.6.2020.
+    3. Em 8.6.2020, pela Petição/STF n. 41.558/2020, o agravante requer “a intimação acerca da data de julgamento para fins de sustentação oral virtual” (doc. 36).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao requerente.
+    5. As alterações promovidas pela Resolução/STF n. 669/2020 na Resolução/STF n. 642/2019 permitem sustentação oral nos julgamentos das classes processuais com previsão legal de sustentação oral, o que não cabe em agravo regimental em habeas corpus.
+    Como disposto no § 2º do art. 131 do Regimento Interno do Supremo Tribunal Federal, não cabe sustentação oral nos julgamentos de agravo e embargos declaratórios em habeas corpus, arguição de suspeição e medida cautelar. Confiram-se, por exemplo, os seguintes julgados:
+    “HABEAS CORPUS. SUSTENTAÇÃO ORAL EM SEDE DE AGRAVO REGIMENTAL. INADMISSIBILIDADE. CONSTITUCIONALIDADE DA VEDAÇÃO REGIMENTAL (RISTF, ART. 131, § 2º). PEDIDO DE RETIRADA DA CAUSA EM EXAME DA PAUTA DO PLENÁRIO VIRTUAL. INSUFICIÊNCIA DAS RAZÕES APONTADAS PELA PARTE ORA AGRAVANTE. INDEFERIMENTO DO PEDIDO IMPETRAÇÃO COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO WRIT. CONSTITUCIONAL. RECURSO DE AGRAVO IMPROVIDO. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL EM SEDE DE AGRAVO INTERNO. Não cabe sustentação oral, em sede de agravo interno, considerada a existência de expressa vedação regimental que a impede (RISTF, art. 131, § 2º), fundada em norma cuja constitucionalidade foi expressamente reconhecida pelo Supremo Tribunal Federal. Precedentes” (HC n. 145.627-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 20.11.2017).
+    “PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUSTENTAÇÃO ORAL NO JULGAMENTO DO AGRAVO REGIMENTAL. INADMISSIBILIDADE. SÚMULA 691/STF. SUPERVENIÊNCIA DE NOVO TÍTULO PRISIONAL. PREJUDICIALIDADE. (…) 2. O Plenário desta Corte, ao examinar feitos de natureza penal, assentou o entendimento de que não cabe sustentação oral, em sede de "agravo regimental", considerada a existência de expressa vedação regimental que a impede (RISTF, art. 131, § 2º), fundada em norma cuja constitucionalidade foi expressamente reconhecida pelo Supremo Tribunal Federal (Pet 2.820-AgR, Rel. Min. Celso de Mello). (…) 4. Pedido de reconsideração recebido como agravo regimental a que se nega provimento” (HC n. 135.175-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 1º.6.2017).
+    No Código de Processo Civil se prevê a possibilidade de sustentação oral em agravo interno em ação rescisória, mandado de segurança ou reclamação, não sendo essa a situação da espécie em exame.
+    6. No julgamento do Agravo Regimental no Habeas Corpus n. 165.973 em 25.6.2019, a Segunda Turma permitiu a realização de sustentação em agravos regimentais em habeas corpus até posterior manifestação do Plenário sobre o tema.
+    O Plenário deste Supremo Tribunal firmou o entendimento de que, “no âmbito da jurisdição do Supremo Tribunal Federal, não cabe sustentação oral no julgamento de agravo regimental de decisão monocrática proferida pelo Relator em sede de habeas corpus. Constitucionalidade do art. 131, § 2º, do RISTF” (HC n. 164.593-AgR, Relator o Ministro Edson Fachin, Plenário, julgado em sessão virtual de 24.4.2020 a 30.4.2020, DJe 10.6.2020).
+    7. Pelo exposto, indefiro o pedido formulado na Petição/STF n. 41.558/2020.
+    Publique-se.
+    Brasília, 10 de junho de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
