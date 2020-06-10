@@ -1,0 +1,26 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1011884-31.2020.8.11.0000
+AGRAVANTE: UNIMED NORTE MATO GROSSO COOPERATIVA TRABALHO MEDICO
+AGRAVADO: DEOLINDO MEZZALIRA
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pela UNIMED NORTE MATO GROSSO – COOPERATIVA DE TRABALHO MÉDICO, com o fito de suspender a decisão que, nos Autos da Ação de Obrigação de fazer no 1021234-25.2020.811.0041, ajuizada por DEOLINDO MEZZALIRA, deferiu o pedido de tutela de urgência antecipada e determinou que, no prazo de 24 (vinte e quatro) horas, sob pena de multa, a agravante forneça o medicamento DEXAMETASONA 40mg e REVLIMID ao agravado, conforme indicação médica.
+Para tanto, a agravante alega estar sendo compelida a prestar tratamento médico, sem, contudo, coexistir previsão contratual para o custeio dos fármacos indicados, que sequer constam no rol da ANS, sendo legítima, portanto, a negativa de fornecimentos dos medicamentos.
+Argumenta que a cobertura de fármacos pelas operadoras de planos de saúde está restrita ao uso em ambiente hospitalar, sem qualquer possibilidade de estender tal obrigação para uso domiciliar.
+Assim, requer seja atribuído efeito suspensivo ao presente recurso.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre consentâneos com aqueles que, por outro lado, decorrem da decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Nesse sentido, os ensinamentos de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Apesar do esforço da agravante, por ora, não há nada que convença da liminar pleiteada.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois estão presentes os requisitos autorizadores da tutela jurisdicional, dispostos no artigo 300 do Código de Processo Civil, quais sejam, o grau de probabilidade do direito invocado e a urgência da medida, consubstanciados na patologia da agravada (mieloma múltiplo – câncer nos ossos) conforme laudo médico apresentado no id no 45188497, que também indicou o uso de DEXAMETASONA.
+Desse modo, havendo a cobertura para o tratamento da doença da qual a agravada foi acometida, não pode a operadora de plano de saúde determinar qual o tipo de medicação deverá ser utilizado.
+Diante desse quadro, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
+Cuiabá, 10 de junho de 2020.
+Desa. Serly Marcondes Alves
+Relatora
