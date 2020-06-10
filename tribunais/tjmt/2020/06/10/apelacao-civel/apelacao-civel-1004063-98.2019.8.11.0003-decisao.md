@@ -1,0 +1,39 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO CÍVEL (198) 1004063-98.2019.8.11.0003
+APELANTE: KEILA COUTINHO, LUCIA RODRIGUES DE ANDRADE, PATRICIA SIMON FUZARO, SIRINEIA FELIPE DE LIMA
+APELADO: MUNICIPIO DE RONDONOPOLIS
+DECISÃO MONOCRÁTICA
+Trata-se de Recurso de Apelação Cível interposto por KEILA COUTINHO e OUTROS contra sentença proferida pelo Juízo da 2a Vara Especializada da Fazenda Pública da Comarca de Rondonópolis, que nos autos do Mandado de Segurança n. 1004063-98.2019.811.0003 denegou liminarmente o mandamus, ante a necessidade de produção de prova pericial para analisar acerca da insalubridade.
+Em suas razões recursais (Id. 7580436), sustentam as Apelantes que recebiam o adicional há anos e foi suprimido sem a realização de perícia.
+Argumentam acerca da existência de direito líquido e certo, desrespeito ao Anexo 14 da NR 15 da Portaria no 3.214/78 do MTE e que o ato administrativo é nulo.
+Não houve apresentação de contrarrazões, ante a não formação da triangularização processual.
+Instada a se manifestar, a d. Procuradoria Geral de Justiça deixou de opinar, ante à ausência de interesse público (Id. 8204722).
+É o relatório.
+Fundamento. Decido.
+A causa comporta julgamento monocrático, pois atende ao disposto no artigo 932, do CPC.
+O presente apelo tem como escopo a reforma da sentença, que indeferiu liminarmente a ação mandamental, ante a ausência de prova pré-constituída.
+Ao contrário do que alegam as Apelantes, a decisão administrativa que suprimiu o adicional de insalubridade ocorreu mediante observância e realização de longa e detalhada perícia técnica no local onde laboram, conforme se pode observar nos extensos Laudos Técnicos de Insalubridade e Periculosidade e Laudos Técnicos das Condições Ambientais de Trabalho no Município de Rondonópolis anexados nos Id’s 7580422 e 7580423 dos autos.
+Os referidos laudos resultaram na decisão administrativa publicada no Diário Oficial Eletrônico (Diorondon-e) no 4.394 de 25 de fevereiro de 2.019 e anexado no Id. 7580421, a qual transcrevo na sua integralidade, in verbis:
+Decisão Administrativa
+Considerando os preceitos relativos às Normas Regulamentadoras do Ministério do Trabalho e Emprego, publicados pela Portaria n.o 3.214, de 08 de junho de 1978, seja NR 15 – Atividades e Operações Insalubres e NR16 – Atividade e Operações Perigosas, bem como, das Consolidações das Leis Trabalhistas – CLT.
+Considerando a Lei no 8.798, de 28 de março de 2016, art.o 70 e art.o 70-A, que altera a Lei 1.752 de 17 de agosto de 1990, que dispõe sobre o Regime Jurídico Único Dos Servidores Públicos Do Município De Rondonópolis, das Autarquias e Fundações Municipais.
+A Secretaria Municipal de Gestão de Pessoas resolve publicar, com base na Decisão Administrativa proferida por esta secretaria, publicada no Diário Oficial n° 4.367 de 17 de janeiro de 2019, os resultados dos Laudos de Insalubridade e Periculosidade – LTCAT, abaixo relacionados, em obediência as normativas de segurança do trabalho e demais legislações aplicáveis.
+Esta decisão entra em vigor na data da publicação, com efeitos a partir de 01/03/2019, e a realização de alterações/supressões na próxima folha de pagamento, de competência março de 2019.
+Cumpra-se. (NEGRITEI)
+Nesse contexto, considerando que a supressão do adicional de insalubridade ocorreu por meio de realização de perícia, a declaração e o reconhecimento de nova realidade fática e jurídica passa, imprescindivelmente e indiscutivelmente, pela realização de nova perícia para a constatação da insalubridade do ambiente de trabalho e o seu grau.
+Para saber se atividade é ou não insalubre, bem como aferir o grau de insalubridade, se mínimo, médio ou grave, inegável é a realização de dilação probatória, mormente, a produção de prova pericial.
+Nesse norte, a realização da prova pericial se mostra imprescindível por tratar-se da insalubridade de questão não apenas de direito, mas sim de fato, o que corrobora ainda mais a produção da referida prova.
+Trago à colação, os seguintes arestos deste Sodalício, in verbis:
+AGRAVO INTERNO – APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE COBRANÇA – ADICIONAL DE INSALUBRIDADE – NECESSIDADE DE PERÍCIA – JULGAMENTO ANTECIPADO DA LIDE – CERCEAMENTO DE DEFESA – SENTENÇA DESCONSTITUÍDA – PRECEDENTE DO STJ - DECISÃO MANTIDA – RECURSO DESPROVIDO. “[...] Controvertida a existência de insalubridade nas condições de trabalho do autor da demanda, é de rigor a instrução regular com a oitiva de testemunhas e, se for o caso, com a produção de prova pericial. Cerceamento de defesa caracterizado porque o MM. Juiz de Direito julgou antecipadamente a lide. [...].” (REsp 1417869/PA, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 04/02/2014) (TJ/MT - AgR 160957/2016, DES. JOSÉ ZUQUIM NOGUEIRA, QUARTA CÂMARA CÍVEL, Julgado em 25/04/2017, Publicado no DJE 03/05/2017)
+PROCESSUAL CIVIL – RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO MUNICIPAL – ADICIONAL DE INSALUBRIDADE – JULGAMENTO ANTECIPADO DA LIDE – QUESTÃO DE FATO – NECESSIDADE DE PERÍCIA JUDICIAL – CERCEAMENTO DE DEFESA – CONFIGURADO – PREJUDICIAL ACOLHIDA – PRECEDENTES DO STJ – RECURSO PROVIDO – SENTENÇA CASSADA. O Superior Tribunal de Justiça já se pronunciou, no sentido de que controvertida a existência de insalubridade nas condições de trabalho do autor da demanda, é de rigor a instrução regular com a oitiva de testemunhas e, se for o caso, com a produção de prova pericial. (REsp 1417869/PA, Rel. Ministro Ari Pargendler, Primeira Turma, julgado em 17/12/2013, DJe 04/02/2014). Dessa forma, na espécie, o julgamento antecipado da lide, cuja matéria debatida depende de prova pericial, caracteriza cerceamento de defesa. (TJ/MT - Ap 27918/2016, DES. MÁRCIO VIDAL, TERCEIRA CÂMARA CÍVEL, Julgado em 27/03/2017, Publicado no DJE 07/04/2017)
+REMESSA NECESSÁRIA COM RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA - SERVIDOR PÚBLICO MUNICIPAL - PEDREIRO – ADICIONAL DE INSDALUBRIDADE - LAUDO PERICIAL - NECESSIDADE - RETORNO DOS AUTOS À ORIGEM PARA INSTRUÇÃO - SENTENÇA CASSADA - RECURSO PREJUDICADO.A prova pericial se mostra indispensável para comprovar a existência de insalubridade, devendo os autos ser remetidos à instância de origem, a fim de que seja reaberta a instrução e realizada a perícia técnica para a sua apuração.(TJ/MT - Apelação / Remessa Necessária 32103/2017, DESA. ANTÔNIA SIQUEIRA GONÇALVES , SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 11/07/2017, Publicado no DJE 19/07/2017)
+Ao analisar os documentos anexados na exordial mandamental, é possível perceber que as Impetrantes, ora Apelantes, exercerem o princípio constitucional do contraditório e ampla defesa, haja vista que interpuseram recurso administrativo, conforme se infere nos Id’s 7580424, 7580425, 7580426, 7580427 e 7580428.
+Como se pode observar, a decisão administrativa combatida pelas Apelantes não contem qualquer irregularidade, ilegalidade ou nulidade.
+De outro norte, também não há que se falar em desrespeito ao Anexo 14 da NR 15 da Portaria no 3.214/78 do MTE, pois tal norma regulamentadora fora observada na realização dos laudos periciais acima mencionados, onde se concluiu que as atividades desenvolvidas pelas Impetrantes não se amoldam nesta norma.
+Assim, ante indispensável realização de prova pericial para averiguar se o local de trabalho e as atividades desenvolvidas pelas Impetrantes é ou não insalubre, inviável é o manejo e impetração de Mandado de Segurança, posto que não se admite a dilação probatória na via estreita deste remédio constitucional.
+Diante do acima exposto, conheço do presente Recurso de Apelação, mas NEGO-LHE PROVIMENTO.
+Transitada em julgada e não havendo manifestação das partes, o que deverá ser certificado, determino a remessa dos autos à Comarca de origem.
+Intimem-se e cumpra-se, expedindo o necessário.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
