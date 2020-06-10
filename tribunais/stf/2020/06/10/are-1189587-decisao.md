@@ -1,0 +1,40 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “Apelação civil - Ação declaratória de inexistência de débito - Preliminar - Não acolhimento - Empresa dedicada à construção civil - Operação interestadual - Compra e venda de semi-reboque - Bem destinado à atividade fim da empresa - Diferencial de alíquota de ICMS - Não incidência - Enunciado 432 da Súmula do STJ - Apelação a que se nega provimento.
+    1. Nas ações cujo mérito tratar de matéria unicamente de direito, não há falar em prejuízo quando não especificadas eventuais provas.
+    2. Consoante entendimento consolidado pelo Superior Tribunal de Justiça (Enunciado 432) ‘as empresas de construção civil não estão obrigadas a pagar ICMS sobre mercadorias adquiridas como insumos em operações interestaduais’.
+    3. Na construção civil, o semi-reboque carrega tudo, além de incorporar o ativo imobilizado da empresa, é utilizado na atividade fim, apresentando natureza de insumo.
+    4. Não há incidência de diferencial de alíquota quando a operação for realizada por não contribuinte do ICMS na aquisição de mercadoria para a sua atividade principal (insumo)” (pág. 454 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5°, LIV e LV; e 155, § 2°, VII, a e VIII, da mesma Carta.
+    Sustentou-se, ainda, que o
+    “[...] semirreboque adquirido pela empresa Recorrida não pode jamais ser considerado como insumo, especialmente porque não se destina à atividade fim da empresa, haja vista não ser material que será agregado à obra” (pág. 535 do documento eletrônico 1).
+    A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso (documento eletrônico 5).
+    A pretensão recursal não merece acolhida.
+    Isso porque o Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG/MT (Tema 660 da Repercussão Geral), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, saliento que a jurisprudência desta Corte está firmada no sentido de que as empresas da construção civil – por serem, em regra, contribuintes do ISS – que adquirirem materiais em Estado com alíquotas de ICMS mais favoráveis, ao empregarem essas mercadorias como insumos em suas obras, não estão obrigadas a satisfazer a diferença da alíquota maior do Estado destinatário. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal cujas ementas transcrevo a seguir:
+    “TRIBUTÁRIO. ICMS. AQUISIÇÃO DE MATERIAL. EMPRESA DA CONSTRUÇÃO CIVIL. EMPREGO EM OBRA. INSUMOS. DIFERENCIAL DE ALÍQUOTA. COBRANÇA. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+    I – As empresas da construção civil – por serem, em regra, contribuintes do ISS – que adquirirem materiais em Estado com alíquotas de ICMS mais favoráveis, ao empregarem essas mercadorias como insumos em suas obras, não estão obrigadas a satisfazer a diferença da alíquota maior do Estado destinatário. Precedentes.
+    II – Agravo regimental improvido” (RE 559.936-AgR/CE, de minha relatoria, Primeira Turma).
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – EMPRESAS DE CONSTRUÇÃO CIVIL – ALÍQUOTA – DIFERENÇA – INSUMOS – AQUISIÇÃO – UNIDADE DA FEDERAÇÃO. Não é devido o diferencial de alíquota do Imposto sobre Circulação de Mercadorias – ICMS quando da aquisição, por empresas dedicadas à construção civil, de insumos empregados na consecução de obras.
+    HONORÁRIOS ADVOCATÍCIOS. Descabe a fixação de honorários recursais, previstos no artigo 85, § 11, do Código de Processo Civil de 2015, quando se tratar de recurso formalizado em processo cujo rito os exclua.
+    AGRAVO – MULTA – ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. Se o agravo é manifestamente inadmissível ou improcedente, impõe-se a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil de 2015, arcando a parte com o ônus decorrente da litigância protelatória” (ARE 1.051.044-AgR/RO, Rel. Min. Marco Aurélio, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. EMPRESA DE CONSTRUÇÃO CIVIL. AQUISIÇÃO DE MERCADORIAS DE OUTROS ESTADOS DA FEDERAÇÃO PARA UTILIZAÇÃO COMO INSUMOS. COBRANÇA DA DIFERENÇA DE ALÍQUOTA INTERESTADUAL. IMPOSSIBILIDADE. DESPROVIMENTO.
+    1. Nos termos da jurisprudência desta Corte, é incabível a cobrança do diferencial de alíquota de ICMS pelo Estado de destino referente às operações interestaduais de aquisição de mercadorias por empresas de construção civil, para as empregar como insumos em suas obras. Precedentes.
+    2. Agravo regimental a que se nega provimento” (RE 1.212.551-AgR/AP, Rel. Min. Edson Fachin, Segunda Turma).
+    Por fim, com relação à discussão sobre o enquadramento da mercadoria adquirida como insumo da construção civil e a sua utilização na atividade fim da recorrida, o Tribunal de origem decidiu essas questões com base nos seguintes fundamentos:
+    “[...]
+    A adquirente na situação enfocada nesta lide não é contribuinte do ICMS e não está caracterizado o intuito comercial da mercadoria adquirida (semi-reboque carrega tudo), uma vez ter sido destinada à atividade fim da apelada.
+    Não se olvida que o semi-reboque carrega tudo incorporou o ativo permanente da apelada. Por outro lado, também na há como negar que o referido bem material adquirido em outro Estado da federação é utilizado na atividade fim da apelada, de modo que é possível caracterizá-lo como insumo da construção civil.
+    […]
+    Diante disso, não há dúvidas de que a operação noticiada nos autos refere-se a uma compra e venda de insumo para a atividade de construção civil, realizada por um não contribuinte de ICMS” (págs. 462-463 do documento eletrônico 1).
+    Assim, para dissentir da conclusão adotada pelo Juízo de origem e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. Nesse sentido, destaco o julgamento do RE 572.811-AgR/RN, de minha relatoria, cuja ementa segue transcrita:
+    “CONSTITUCIONAL. TRIBUTÁRIO. ICMS. AQUISIÇÃO DE BENS PARA UTILIZAÇÃO NA CONSTRUÇÃO CIVIL. DIFERENCIAL DE ALÍQUOTA. ALEGADA OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. SÚMULA 279 DO STF.
+    I - As empresas de construção civil – por serem, em regra, contribuintes do ISS –, ao adquirir, em outros Estados, materiais para empregar em suas obras, não estão compelidas a satisfazer a diferença em virtude de alíquota maior do ICMS cobrada pelo Estado destinatário. Precedentes.
+    II - Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado.
+    III - Para entender em sentido diverso do acórdão recorrido quanto à utilização dos insumos adquiridos nas obras de construção civil da empresa agravada, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que inviável, a teor da Súmula 279 do STF.
+    IV - Agravo improvido” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 10 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
