@@ -1,0 +1,18 @@
+Vistos etc.
+    Trata-se de revisão criminal ajuizada por Luiz Adriano da Silva contra ato exarado pelo Juiz de Direito da Vara Criminal da Comarca de Nova Brasilândia/RO.
+    Na presente via, alega a Defesa, em síntese, que ‘a condenação foi baseada em provas falsas, de modo que esta merece ser totalmente revisionada para a consequente absolvição do Revisionando e a sua liberdade’. Sustenta que ‘pelas provas produzidas fica claro a insubsistência da imputação penal proferida na denúncia contra o revisionando, ante a inexistência do fato alegado na denúncia’. Requer, em medida liminar, a suspensão da execução penal de origem. No mérito, pugna pela anulação do título penal condenatório e, sucessivamente, pela absolvição do Requerente.
+    É o relatório.
+    Decido.
+    Na dicção do art. 102, I, “j”, da Lei Maior, o Supremo Tribunal Federal possui competência para processar e julgar, originariamente, a revisão criminal de seus julgados. No mesmo diapasão, o art. 624 do Código de Processo Penal assevera que as revisões criminais serão processadas e julgadas pelo Supremo Tribunal Federal “quanto às condenações por ele proferidas”.
+    Nesse espectro, o art. 263 do RISTF esclarece que “será admitida a revisão, pelo Tribunal, dos processos criminais findos, em que a condenação tiver sido por ele proferida ou mantida no julgamento de ação penal originária ou recurso criminal ordinário”.
+    A presente revisão criminal foi ajuizada contra sentença condenatória exarada pelo Juiz de Direito da Vara Criminal da Comarca de Nova Brasilândia/RO.
+    Inexistente, portanto, em desfavor do Requerente, título condenatório penal exarado em ação penal originária desta Suprema Corte ou em recurso criminal ordinário.
+    Cito precedentes desta Suprema Corte:
+    “AGRAVO INTERNO NA REVISÃO CRIMINAL. ACÓRDÃO DE TURMA. JULGAMENTO DE RECURSO EXTRAORDINÁRIO COM AGRAVO. CABIMENTO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. NECESSIDADE DE CONDENAÇÃO CRIMINAL ORIGINÁRIA DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGAVADA. AGRAVO INTERNO NÃO PROVIDO. I - Cabe este Supremo Tribunal Federal processar e julgar, originariamente, a revisão criminal de seus julgados em processos cuja condenação for por ele proferida ou mantida no julgamento de ação penal originária ou recurso criminal ordinário. II - É dever da parte agravante impugnar especificamente os fundamentos da decisão agravada. Precedentes. III - Agravo não provido.” (RvC 5.460-AgR/SP, Rel. Min. Ricardo Lewandowski, Plenário, DJe 30.5.2017).
+    “AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. AUSÊNCIA DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal é competente apenas para processar e julgar revisão criminal quando a condenação tiver sido por ele proferida ou mantida no julgamento de ação penal originária, em recurso criminal ordinário ou em recurso extraordinário com conhecimento do mérito. Precedentes. 2. Com fundamento no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, deve o Relator negar seguimento à revisão criminal manifestamente inadmissível, improcedente ou contrária à jurisprudência dominante, embora sujeita a decisão a agravo regimental. 3. Agravo regimental ao qual se nega provimento.” (RvC 5.448-AgR/MG, Rel. Min. Cármen Lúcia, Plenário, DJe 08.4.2016).
+    Assim, a inobservância da hipótese legal de cabimento da revisão criminal inviabiliza, de plano, o processamento do presente pleito defensivo.
+    Ante o exposto, nego seguimento à presente revisão criminal (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de junho de 2020.
+Ministra Rosa Weber
+Relatora
