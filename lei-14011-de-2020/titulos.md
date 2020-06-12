@@ -1,0 +1,1 @@
+Art. 22-B. Ficam revertidos aos respectivos Estados, ao Distrito Federal e aos Municípios os imóveis doados ao Fundo do Regime Geral de Previdência Social cujas obras não tenham sido iniciadas até 1º de dezembro de 2019.
