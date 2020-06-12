@@ -37,4 +37,3 @@ III - houver objeção expressa em tratado em vigor no País.
 § 9º (VETADO).
 § 10. O disposto no inciso XI do caput deste artigo não se aplica às situações de acordo resultantes de ilicitude.
 § 11. Para os fins do inciso XII do caput deste artigo, é ilegal delimitar prazo de validade de certidão emitida sobre fato imutável, inclusive sobre óbito.
-§ 12. O disposto no inciso IX do caput não se aplica às atividades com impacto significativo no meio ambiente, conforme estabelecido pelo órgão ambiental competente.
