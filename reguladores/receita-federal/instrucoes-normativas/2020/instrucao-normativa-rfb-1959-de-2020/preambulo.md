@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1959, de 9 de junho de 2020
+Altera a Instrução Normativa RFB nº 1.717, de 17 de julho de 2017, que dispõe sobre normas sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria Especial da Receita Federal do Brasil (RFB).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.250, de 26 de dezembro de 1995, resolve:
