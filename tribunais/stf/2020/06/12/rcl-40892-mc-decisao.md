@@ -1,0 +1,27 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 56 – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    A Defensoria Pública do Estado de São Paulo formalizou reclamação, em benefício de Valter José Gomes Junior, afirmando haver o Juízo da Unidade Regional de Departamento de Execução Criminal em São José dos Campos/SP, no processo nº 0000791-53.2018.8.26.0158, olvidado o teor do verbete vinculante nº 56 da Súmula do Supremo.
+    Segundo narra, embora o Juízo da Execução Criminal tenha deferido progressão ao regime de cumprimento semiaberto, a decisão não foi cumprida, mantida a custódia em unidade destinada ao regime fechado – Penitenciária Masculina I de Potim, com capacidade para 844 internos, atualmente em situação de superlotação. Sublinha que a Secretaria de Administração Penitenciária, em caso semelhante, admitiu não haver transferido presos no regime intermediário para estabelecimentos adequados considerada a pandemia de covid-19. Discorre sobre o contexto carcerário nacional e o quadro de crise surgido a partir do novo coronavírus.
+    Aponta contrariedade ao enunciado uma vez que a ausência de vaga em estabelecimento penal apropriado não autoriza a manutenção do condenado em regime prisional mais gravoso. Sustenta configurado excesso de execução. Menciona a edição, pelo Conselho Nacional de Justiça, da Resolução nº 62/2020.
+    Requer, no campo precário e efêmero, a colocação em custódia domiciliar ou em regime aberto, e a dispensa do uso de tornozeleira se não disponível o equipamento. Pretende a confirmação da providência.
+    A autoridade reclamada, nas informações, reconhece a progressão e o encarceramento em local inadequado.
+    2. A leitura das informações prestadas pelo Juízo revela que, embora admitido o direito à progressão, o reclamante permanece em penitenciária destinada a presos no regime fechado. Confiram trecho da manifestação:
+    […]
+    Pelo presente, informo a Vossa Excelência que, ao reclamante foi concedida progressão ao regime semiaberto em 23/01/2020.
+    Informo ainda, que o mesmo encontra-se recolhido na Penitenciária I de Potim, adequada ao cumprimento de pena no regime fechado, aguardando a disponibilização de vaga, pela Secretaria da Administração Penitenciária, para sua efetiva remoção ao regime semiaberto.
+    […] (sic)
+    A óptica adotada conflita com o verbete vinculante nº 56, cujo teor é o seguinte:
+    A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.
+    O Supremo, ao apreciar, na sistemática da repercussão geral, o recurso extraordinário nº 641.320/RS, fixou tese nestes termos:
+    a) a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+    b) os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, §1º, alíneas “b” e “c”);
+    c) havendo déficit de vagas, deverá determinar-se: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+    Cabe à autoridade reclamada observar as balizas assentadas no enunciado vinculante e, por consequência, no acórdão alusivo ao referido extraordinário, quer viabilizando a prisão em unidade apropriada, quer implementando regime menos gravoso.
+    O argumento do risco de contágio é de todo improcedente. A pandemia está generalizada. Alcança não apenas os custodiados em regime fechado, mas também no semiaberto e no domiciliar. Em síntese, o que vivenciado nos dias atuais é de neutralidade absoluta considerado o sistema jurídico de cumprimento da pena, cabendo ao Estado viabilizá-lo, presente o instituto da progressão. O raciocínio contrário implica não só o descumprimento da ordem jurídica, chegando-se à extravagância de manter-se sob custódia todo e qualquer preso, até que afastada do cenário a pandemia e correspondente possibilidade de contágio. O isolamento pressupõe espontaneidade e não ato de força. Pressupõe a adoção de cautela, sem menosprezo ao direito do custodiado.
+    3. Defiro a liminar, para determinar ao Juízo da Unidade Regional de Departamento de Execução Criminal em São José dos Campos/SP, no processo nº 0000791-53.2018.8.26.0158, seja assegurada ao reclamante a custódia em estabelecimento prisional adequado ao regime semiaberto. Caso inexistente ou na falta de vaga, cumpre implementar o regime aberto ou, se ausente casa de albergado ou similar a possibilitar o pernoite, a prisão domiciliar, com monitoramento eletrônico se disponível o equipamento.
+    4. Deem ciência ao Ministério Público do Estado de São Paulo. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 12 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
