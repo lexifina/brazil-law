@@ -1,0 +1,1 @@
+§ 4º Os registros contábeis decorrentes da dação em pagamento de que trata o caput deste artigo observarão as normas gerais de consolidação das contas públicas de que trata o § 2º do art. 50 da Lei Complementar nº 101, de 4 de maio de 2000.

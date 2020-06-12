@@ -1,0 +1,2 @@
+Altera as Leis nº 8.981, de 20 de janeiro de 1995, para dispor acerca da incidência de imposto sobre a renda na hipótese de ganho de capital em decorrência da alienação de bens e direitos de qualquer natureza, e 12.973, de 13 de maio de 2014, para possibilitar opção de tributação de empresas coligadas no exterior na forma de empresas controladas; e regulamenta o inciso XI do art. 156 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
