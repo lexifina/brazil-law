@@ -1,0 +1,26 @@
+Vistos etc.
+    Referente à Petição STF 40.286/2020.
+    Em 28.5.2020, a Defesa formulou pedido de reconsideração da decisão em que neguei seguimento ao habeas corpus, forte na instrução deficiente do writ (HC 103.240-AgR/RS, Rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011). Para tanto, a Defesa, por intermédio da referida petição, instrui o feito com os documentos necessários à apreciação do writ.
+    Superado o referido óbice e no exercício, pois, de juízo de retratação, reconsidero a decisão em que neguei seguimento ao habeas corpus pela deficiência na instrução, prosseguindo em sua análise.
+    O presente habeas corpus, com pedido de liminar, foi impetrado por Armando de Oliveira Costa Neto e outro(s) em favor de Clivison Vicente da Silva, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, da lavra do Ministro Ribeiro Dantas, que negou provimento ao agravo regimental no HC 568.771/SP.
+    O paciente foi preso em flagrante pela suposta prática dos crimes de roubo circunstanciado e de dano (arts. 157, § 2º, V, e § 2º-A, I, e 163 do CP). Ato contínuo, o magistrado de primeiro grau converteu a prisão em flagrante em preventiva.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo/SP, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Ribeiro Dantas, que indeferiu liminarmente o HC 568.771/SP. Posteriormente, manejado, sem sucesso, agravo regimental defensivo.
+    No presente writ, o Impetrante pugna, preliminarmente, pelo afastamento da Súmula 691/STF. Alega, em síntese, falta de fundamentação idônea do decreto prisional, porquanto lastreada na gravidade abstrata dos delitos e ausentes os requisitos autorizadores. Sustenta a necessidade de reapreciação da constrição cautelar, nos termos do art. 316, parágrafo único, do CPP. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. AUDIÊNCIA DE CUSTÓDIA. LIMINAR EM HABEAS CORPUS INDEFERIDA PELO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 691/STF. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADAS. AGRAVO DESPROVIDO.
+    1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+    2. Na hipótese, a decisão que converteu a prisão em flagrante em preventiva menciona que o paciente teria cometido o delito de roubo mediante emprego de arma de fogo e restrição de liberdade da vítima, o que torna o delito passível de maior reprimenda. Ademais, foi praticado com emprego de violência real, contra vítima em pleno exercício de atividade laborativa, a qual teve uma arma apontada para sua cabeça e ameaças com um gargalo de garrafa quebrado, o que demonstra a periculosidade social do autuado e a necessidade de manutenção da custódia para a garantia da ordem pública. Tais circunstâncias afastam a incidência da Súmula 691/STF.
+    3. As possíveis ilegalidades e teratologias aptas à mitigação da mencionada Súmula a justificar manifestação antecipada deste Superior Tribunal de Justiça não foram demonstradas pela defesa.
+    4. Agravo regimental desprovido.”
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte ao negar provimento ao agravo regimental defensivo. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual indeferira liminar em habeas corpus impetrado naquela Corte Estadual.
+    Ao rejeitar o pedido liminar, o Tribunal de Justiça não reputou presentes requisitos autorizadores da imediata soltura do Paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Anoto, por fim, que à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 15 de junho de 2020.
+Ministra Rosa Weber
+Relatora
