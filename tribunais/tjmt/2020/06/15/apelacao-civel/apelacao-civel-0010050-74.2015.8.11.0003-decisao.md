@@ -1,0 +1,36 @@
+Recurso Especial na Apelação Cível n. 0010050-74.2015.8.11.0003
+RECORRENTE(s): GERALDINA PEREIRA REZENDE
+RECORRIDO(s): JANAÍNA DE FRANÇA BORGES E OUTRA
+Vistos, etc.
+Trata-se de Recurso Especial interposto por GERALDINA PEREIRA REZENDE com fundamento no artigo 105, inciso III, alínea “c”, da Constituição Federal, contra o acórdão da Terceira Câmara de Direito Privado assim ementado (ID 24335481):
+“APELAÇÃO – AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO – ILEGITIMIDADE ATIVA – AFASTADA – EMPRESA EXEQUENTE COM SITUAÇÃO CADASTRAL DE BAIXA NOS REGISTROS – EXECUÇÃO AJUIZADA PELOS SÓCIOS PROPRIETÁRIOS – POSSIBILIDADE –INTERESSE DE MENOR – AFASTADA – COISA JULGADA MATERIAL – RECURSO DESPROVIDO – SENTENÇA MANTIDA. Não há falar em ilegitimidade ativa dos ex-sócios, quando comprovada a baixa definitiva da sociedade empresarial, de modo que as ex-sócias proprietárias tornaram-se credoras do débito, e, por consequência, legítimas ao ajuizamento da execução. Diante da ausência de interesse do menor, não há falar em necessidade de manifestação ministerial, tampouco em litisconsórcio necessário, notadamente em razão da coisa julgada material. (TJMT – Terceira Câmara de Direito Privado – RAC n. 0010050-74.2015.8.11.0003, Relatora: Desa ANTONIA SIQUEIRA GONCALVES, j. em 13/11/2019).
+Opostos Embargos de Declaração, decidiu-se, in verbis (ID 1896807):
+“EMBARGOS DE DECLARAÇÃO - RECURSO DE APELAÇÃO - HONORÁRIOS SUCUMBENCIAIS - AUSÊNCIA DE FIXAÇÃO EM GRAU RECURSAL - OMISSÃO EVIDENCIADA - MAJORAÇÃO DOS HONORÁRIOS - EMBARGOS ACOLHIDOS . Tem-se que os honorários sucumbenciais não foram fixados no caso concreto em favor da parte vencedora no recurso de apelação, conforme previsão contida no §11 do art. 85 do CPC. Constatada a omissão no acórdão embargado, majoram-se os honorários sucumbenciais à proporção legal, no caso 5% sobre o valor da causa. (Terceira Câmara de Direito Privado – ED n. 0010050-74.2015.8.11.0003, Relatora: Desa ANTONIA SIQUEIRA GONCALVES, j. em 04/03/2020).
+A Recorrente alega divergência jurisprudencial, ao argumento de: (a) ilegitimidade ativa ad causam – as recorridas não eram pessoas legítimas para propor a ação de execução relativa a supostos créditos derivados do contrato de Compra e Venda, visto que são ex sócias da empresa (Borges Faria & França Borges Ltda); (b) litisconsórcio necessário – falta de intimação pessoal da menor representada pelos genitores (Gilberto e Geraldina); (c) há impedimento – teoria dos jogos e processo, uma vez que o assessor direto do magistrado que atuou no feito por muitos anos, é filho e sobrinho das recorridas.
+Recurso tempestivo (ID 43252003).
+Contrarrazões no ID 46041455.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da necessidade de identificação do dispositivo legal violado (Súmula 284/STF)
+Sem a identificação precisa do dispositivo legal supostamente violado, ou objeto de dissídio jurisprudencial, fica prejudicada a análise da controvérsia, o que caracteriza deficiência de fundamentação, e atrai a aplicação da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. O conhecimento do recurso especial pelas alíneas ‘a"’e ‘c’ do permissivo constitucional exige a indicação de qual ou quais os dispositivos de lei que supostamente teriam sido violados ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. O Tribunal de origem, com base na análise do acervo probatório dos autos, concluiu que o segurado faz jus ao recebimento da indenização correspondente à cobertura securitária, por entender que a questão relativa ao pagamento da indenização de forma proporcional ao grau de invalidez do segurado, encontra-se tão somente nas condições gerais da apólice, da qual não há prova de que o autor, na condição de segurado, tomou conhecimento. Assim, para rever o entendimento do acórdão recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e reinterpretação de cláusulas contratuais, o que é vedado em razão das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido”. (AgInt no AREsp 1220109/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018).
+A Recorrente alega divergência jurisprudencial, ao argumento de: (a) ilegitimidade ativa ad causam – as recorridas não eram pessoas legítimas para propor a ação de execução relativa a supostos créditos derivados do contrato de Compra e Venda, visto que são ex sócias da empresa (Borges Faria & França Borges Ltda); (b) litisconsórcio necessário – falta de intimação pessoal da menor representada pelos genitores (Gilberto e Geraldina); (c) há impedimento – teoria dos jogos e processo, uma vez que o assessor direto do magistrado que atuou no feito por muitos anos, é filho e sobrinho das recorridas.
+Entretanto, não se demonstrou quais os dispositivos da legislação federal foram objeto do dissídio, o que faz incidir a Súmula 284/STF e, por consequência, impede a admissão do recurso.
+Ausência de cotejo analítico
+Quanto à dissonância jurisprudencial com fundamento na alínea “c” do permissivo constitucional do art. 105, inciso III, nos termos do artigo 1.029, § 1o, do CPC, e do art. 255, § 1o, do RISTJ, não basta a simples reprodução de ementas, pois é imprescindível que se comprove o dissídio com a transcrição do relatório e do voto dos acórdãos recorrido e paradigma e cotejo analítico a evidenciar a similitude fática entre os casos apontados e a dissonância de interpretações.
+A propósito:
+“PROCESSUAL CIVIL. (...) ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. (...) 3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (Art. 541, parágrafo único, do CPC e Art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea ‘c’ do inciso III do Art. 105 da Constituição Federal”. (STJ AgRg no AREsp 553.725/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/11/2014, DJe 02/02/2015).
+Dessa forma, em análise às razões recursais, observa-se que a recorrente deixou de efetuar o exame comparativo da divergência jurisprudencial, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 15 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+x
