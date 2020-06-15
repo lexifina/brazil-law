@@ -1,0 +1,41 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Homicídio duplamente qualificado e homicídio tentado. Alegação de nulidades. Inexistência.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Min. Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO E HOMICÍDIO TENTADO. PRONÚNCIA TRANSITADA EM JULGADO. INIMPUTABILIDADE DO RÉU. SUPERVENIÊNCIA DE SENTENÇA ABSOLUTÓRIA. NULIDADE DA DECISÃO DE ABSOLVIÇÃO. EXISTÊNCIA DE MAIS DE UMA TESE DEFENSIVA. INEXISTÊNCIA DE REFORMATIO IN PEJUS. PRECLUSÃO DA PRONÚNCIA. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A anulação de sentença que absolveu sumariamente o réu, com aplicação de medida de segurança – diante da superveniência de laudo atestando certo grau de insanidade –, não ofende o art. 415, parágrafo único, do CPP, quando existiam outras teses defensivas – legítima defesa e desclassificação dos delitos – cuja competência para análise era do Tribunal do Júri e cujo exame poderia importar, inclusive, em situação mais benéfica ao réu.
+    2. A alegação de reformatio in pejus só estará configurada caso a nova sentença venha a ser mais gravosa do que aquela estabelecida no decisum anulado.
+    3. Transitada em julgado a pronúncia, a competência para o exame de eventual inimputabilidade do réu é do Tribunal do Júri. Precedentes.
+    4. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi denunciado e pronunciado pela prática do crime previsto no art. 121, § 2°, II e IV, e art. 121, c/c o art. 14, II, todos do Código Penal.
+    3. Após a preclusão da pronúncia, o Juízo da origem absolveu o acusado, nos termos do art. 415, IV, do Código de Processo Penal, aplicando-lhe medida de segurança.
+    4. O Tribunal de Justiça do Estado do Paraná, contudo, anulou a sentença de absolvição sumária e determinou que o paciente fosse julgado pelo Tribunal do Júri, ao fundamento de que a inimputabilidade não foi a única tese alegada pela defesa. Opostos embargos de declaração, estes foram rejeitados.
+    5. Ainda irresignada, a defesa interpôs recurso especial. O Ministro Rogério Schietti Cruz, ao analisar o REsp 1.478.330, negou provimento ao recurso, e, posteriormente, a Sexta Turma do STJ desproveu o agravo regimental.
+    6. Neste habeas corpus, a parte impetrante sustenta que as instâncias de origem violaram o art. 415, parágrafo único, do CPP, sob o central argumento de que a única tese defensiva na fase de alegações finais consistiu na inimputabilidade do paciente. De modo que não seria dado ao Tribunal de segundo grau, em recurso exclusivo da defesa, submeter o acusado ao Júri.
+    7. Nesse contexto, a defesa requer a concessão da ordem a fim de reformar o “acórdão que reconheceu a nulidade do feito pela suposta existência de outras teses de defesa, determinando-se, ainda, que o Tribunal local profira novo julgamento da apelação interposta pela defesa (em seu mérito), conforme entender de direito, afastando-se, contudo, a possibilidade de nova incursão na questão da nulidade do processo por suposta existência de outras teses defensivas, pois o advogado subscritor, em sua manifestação de fls. 280 a 283, somente sustentou a inimputabilidade do recorrente”.
+    8. Decido.
+    9. O habeas corpus não deve ser concedido.
+    10. A principal alegação defensiva está na consideração de que, em alegações finais, o único argumento apresentado pelo defensor constituído consistiu na tese de inimputabilidade do paciente. Ocorre que as instâncias de origem, soberanas na análise da prova, deixaram consignado que a submissão do paciente a julgamento pelo Tribunal do Júri teve por fundamento o fato de que a inimputabilidade não foi a única tese defensiva alegada.
+    11. Nessas condições, tenho por acertado o parecer do Ministério Público Federal pela denegação da ordem, cujos fundamentos reproduzo:
+    “[...]
+    Conforme previsto no parágrafo único do art. 415 do Código de Processo Penal, embora o acusado seja declarado inimputável, ele não será absolvido com base no inciso IV da referida norma (causa de isenção de pena ou de exclusão do crime) caso o seu defensor tenha alegado outras teses defensivas.
+    Na espécie, tem-se que o anterior defensor dativo do paciente, ao oferecer alegações finais (fls. 226/231), sustentou as teses de legítima defesa e desclassificação dos crimes de homicídio qualificado consumado e tentativa de homicídio para, respectivamente, homicídio simples e lesões corporais graves. O Juízo de primeiro grau, ao pronunciar o paciente (fls. 238/246), se manifestou sobre as referidas teses (…).
+    […]
+    Assim, tendo em vista que na espécie, além da inimputabilidade, foi alegada a tese de legítima defesa, foi acertada a decisão do Tribunal local que determinou o retorno dos autos ao Tribunal do Júri para que seja decidido pelo Conselho de Sentença se o paciente agiu sob excludente de ilicitude.
+    Portanto não há que se falar em violação ao art. 415 do Código de Processo Penal e, consequentemente, em nulidade do acórdão do TJ/PR.
+    […].”
+    12. A jurisprudência desta Corte é no sentido de que “o órgão constitucionalmente competente para julgar os crimes contra a vida e, portanto, apreciar as questões atinentes ao elemento subjetivo da conduta do agente aqui suscitadas, inclusive sobre sua inimputabilidade, é o Tribunal do Júri, de modo que não cabe ao Supremo Tribunal Federal, na via estreita do habeas corpus, antecipar-se ao juízo natural da causa” (HC 176.593, Rel. Min. Ricardo Lewandowski).
+    13. Na hipótese de que se trata, a autoridade impetrada não divergiu desse entendimento, ao assentar que, “conforme ensinam Rogério Sanches Cunha e Ronaldo Batista Pinto, "Pronunciado o réu não é mais cabível o reconhecimento de sua inimputabilidade pelo Juiz togado" (Tribunal do Júri: Procedimento Especial Comentado por Artigos – 4. ed. Salvador: Ed. JusPudivm, 2018. p. 416, grifei)”.
+    14. Transcrevo, nesse sentido, as seguintes passagens do acórdão do STJ:
+    “[...]
+    (…) a se considerar que a insanidade mental do acusado foi apontada apenas depois de haver sido ele pronunciado, não há dúvidas de que foram sustentadas outras teses em defesa do recorrente, além da sua inimputabilidade, pois a defesa técnica "pugnou pela desclassificação do primeiro fato para homicídio simples e pela desclassificação do segundo fato para lesões corporais" (fl. 230, grifei), e o acusado confessou o crime e alegou ter agido em legítima defesa (fl. 230, destaquei). Tanto foi assim, que a referida excludente de ilicitude foi analisada na decisão de pronúncia.
+    Dessa forma, embora esteja consignado no agravo que "a defesa técnica em nenhum momento sustentou a tese de legítima defesa" (fl. 596), não se pode ignorar as palavras do réu, que alegou estar acobertado pelo manto da legítima defesa, pois "A garantia constitucional à ampla defesa nos processos judiciais, prevista no artigo 5º, inciso LV, da Constituição Federal, engloba a autodefesa, exercida pelo próprio acusado, e a defesa técnica, a qual deve ser plena e efetiva, sob pena de ofensa ao aludido preceito" (HC n. 334.600/PE, Rel. Ministro Jorge Mussi, 10/11/2015).
+    Diante dessa constatação, percebe-se não haver a apontada violação, uma vez que o Tribunal a quo decidiu de acordo com o entendimento desta Corte, atento, inclusive, à possibilidade de, ante à existência da alegada legítima defesa, o insurgente vir a ser absolvido, sem o ônus da medida de segurança.
+    Importante consignar que, embora a defesa aduza ter havido reformatio in pejus, a apontada reforma para pior só estará configurada caso a nova sentença venha a ser mais gravosa do que aquela estabelecida no decisum anulado.
+    […]
+    Ademais, conforme ensinam Rogério Sanches Cunha e Ronaldo Batista Pinto, "Pronunciado o réu não é mais cabível o reconhecimento de sua inimputabilidade pelo Juiz togado" (Tribunal do Júri: Procedimento Especial Comentado por Artigos – 4. ed. Salvador: Ed. JusPudivm, 2018. p. 416, grifei).
+    […].”
+    15. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 15 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
