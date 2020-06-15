@@ -1,0 +1,21 @@
+DECISÃO
+NULIDADE – RELEVÂNCIA – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Quinta Vara Federal da Quarta Subseção Judiciária de Santos/SP, no processo nº 0012478-85.2013.4.03.6104, condenou o paciente a 12 anos de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 975 dias-multa, ante o cometimento da infração prevista no artigo 33, cabeça (tráfico de drogas), combinado com o 40, inciso I (transnacionalidade), da Lei nº 11.343/2006. Absolveu-o no tocante ao delito versado no artigo 35 (associação para o tráfico) da mesma Lei. Indeferiu o pedido de recorrer em liberdade, assentando permanecerem os motivos que levaram à custódia.
+    Ministério Público Federal e defesa interpuseram apelação.
+    Após apresentação das razões recursais, o corréu Leandro Teixeira de Andrade, mediante petição, requereu a juntada de parecer técnico, elaborado por profissional contratado, por meio do qual veiculado haver dúvidas quanto à idoneidade das provas resultantes de interceptação de mensagens do aplicativo BBM, em aparelhos Blackberry. Pretendeu o reconhecimento da nulidade processual e, sucessivamente, a conversão do julgamento em diligência.
+    A Décima Primeira Turma do Tribunal Regional Federal da 3ª Região teve como inadequada a petição, ressaltando inoportuna a alegação. Destacou que o argumento suscitado, bem como o parecer técnico, não foram submetidos ao Juízo, revelando inovação recursal. Concluiu pela preclusão, no que realizada a articulação após protocoladas as razões da apelação. Ressaltou ter sido objeto de análise, por ocasião do julgamento do habeas corpus nº 0028984-47.2015.4.03.0000, a legalidade das interceptações, sendo indeferida a ordem. Proveu parcialmente recurso formalizado pelo Órgão acusador, para condenar os acusados considerada a prática do crime previsto no artigo 35 da Lei nº 11.343/2006, e apelação da defesa, redimensionando o patamar alusivo à causa de aumento do artigo 40, inciso I. A sanção total ficou estabelecida em 15 anos, 6 meses e 20 dias de reclusão, no regime inicial fechado, e pagamento de 2.331 dias-multa. A Vice-Presidência inadmitiu recurso especial.
+    No Superior Tribunal de Justiça, o Relator não conheceu do agravo nº 1.421.634.
+    O impetrante sustenta configurado cerceamento de defesa, ante a não apreciação, pelo Tribunal Regional Federal, dos argumentos suscitados na petição e no parecer técnico. Sublinha a pertinência e a relevância do laudo. Mencionando o artigo 231 do Código de Processo Penal, diz viável, a qualquer momento, a juntada de documentos.
+    Postula, no campo precário e efêmero, o reconhecimento da nulidade processual, com a revogação da custódia provisória, determinando-se ao Regional Federal que examine o parecer técnico ou converta o julgamento em diligência. No mérito, busca a confirmação das providências.
+    A fase é de análise da medida acauteladora.
+    2. Conforme se verifica do acórdão formalizado pelo Tribunal Regional Federal, a petição mediante a qual juntado o parecer técnico, elaborado por profissional contratado, e articulada a existência de irregularidades de elementos de convicção oriundos de interceptação de mensagens do aplicativo BBM, foi protocolada a destempo, somente após a apresentação das razões de apelação.
+     A atividade probatória das partes não é garantia absoluta, surgindo vinculada à observância dos momentos processuais previstos na Lei de regência. Descabe assentar a caracterização de cerceamento de defesa ante a falta de exame, pelo Tribunal, dos argumentos relativos ao citado parecer técnico, produzido sem o contraditório, não submetido à apreciação do Juízo.
+    Embora viável, a teor do artigo 231 do Código de Processo Penal, a juntada de documentos, a análise do laudo, a envolver questões técnicas referentes à interceptação das mensagens, pressupõe prova pericial – produzida por perito oficial – cuja realização, uma vez não postulada ou especificada no curso do processo de conhecimento na origem, mostrou-se preclusa.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 15 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
