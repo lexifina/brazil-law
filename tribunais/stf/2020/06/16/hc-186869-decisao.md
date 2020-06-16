@@ -1,0 +1,47 @@
+Decisão: Trata-se de habeas corpus impetrado por Paulo Emilio Catta Preta de Godoy e outro, em favor de José Fagundes Maia Neto e Maria de Fátima Gonçalves dos Santos Maia, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do RHC 103.223/DF.
+    Colho da decisão impugnada:
+    “Trata-se de recurso ordinário em habeas corpus interposto por JOSÉ FAGUNDES MAIA NETO e MARIA DE FATIMA GONCALVES DOS SANTOS MAIA contra acórdão proferido pela 1ª Turma do Tribunal de Justiça do Distrito Federal e Territórios, no julgamento do HC 2017.00.2.013366-2.
+    Noticiam os autos que os recorrentes foram denunciados na Ação Penal n. 2018.01.1.017329-3 pela suposta prática de crime contra a ordem tributária, tendo o processo sido distribuído, por prevenção, ao Juízo da 5ª Vara Criminal da Circunscrição Judiciária do Distrito Federal, em decorrência do Processo n. 2016.01.1.073322-2, no qual lhes foram imputados os ilícitos previstos no artigo 2º, inciso II, combinado com o artigo 12, inciso I, ambos da Lei 8.137/1990, e no artigo 1º, § 2º, inciso I, combinado com o artigo 1º, § 4º, ambos da Lei 9.613/1998.
+    Sob o argumento de que não haveria prevenção, a defesa opôs exceção de incompetência, que foi rejeitada.
+    Contra tal decisão, foi impetrado prévio writ na origem, cuja ordem foi denegada.
+    Sustentam os patronos dos acusados que os fatos apurados nos referidos feitos não possuiriam qualquer relação, tratando-se de imputações autônomas e inconfundíveis, ocorridas em períodos e circunstâncias completamente distintos.
+    Alegam que, caso houvesse conexão, esta ocorreria com relação à Ação Penal n. 2014.01.1.188586-8, deflagrada perante o Juízo da 6ª Vara Criminal da Circunscrição Judiciária de Brasília/DF e cujo auto de infração decorreria da mesma fiscalização que ensejou o presente processo.
+    Requerem o provimento da insurgência para que seja reconhecida a competência de uma das varas criminais do Gama/DF, ou, sucessivamente, que se reconheça a existência probatória entre o referido feito e o Processo n. 2014.01.1.188586-8, determinando-se a sua remessa ao Juízo da 6ª Vara Criminal e Brasília/DF.
+    Contra-arrazoado o reclamo (e-STJ fls. 457/458), os autos ascenderam a este Superior Tribunal de Justiça, tendo a liminar sido indeferida, nos termos da decisão de fls. 471/473.
+    O Ministério Público Federal, em parecer de fls. 478/479, manifestou-se pelo não provimento do inconformismo”. (www.stj.jus.br)
+    No STJ, o recurso ordinário foi julgado prejudicado. Interposto agravo regimental, negou-se-lhe provimento. (eDOC 13)
+    Nesta Corte, a defesa “requer seja apresentado o presente writ em mesa para julgamento perante a colenda Turma Excelso Pretório para que seja conhecido e, no mérito, seja concedida a ordem, determinando-se ao c. STJ que proceda à análise do mérito do RHC n.º 103.223/DF. Sucessivamente, caso seja o entendimento, que conceda a ordem para reconhecer a competência do emérito juízo de uma das Varas Criminais do Gama/DF para processo e julgamento da ação penal n.º 2018.01.1.017329-3 ou, quando menos, que se reconheça a existência de conexão probatória entre as Ações Penais n.º 2014.01.1.188586-8 e 2018.01.1.017329-3, firmando a competência da emérita 6ª Vara Criminal de Brasília para processar e julgar o feito.”
+    A PGR opina pelo não conhecimento do pedido (eDOC 18).
+    É o relatório.
+    Decido.
+    Inicialmente, o artigo 192, caput, do Regimento Interno da Corte, autoriza o Ministro Relator a conceder ou denegar a ordem monocraticamente, “quando a matéria for objeto de jurisprudência consolidada do Tribunal”. Na espécie, a controvérsia não ostenta qualquer complexidade a justificar o deslocamento do julgamento para o colegiado, razão pela qual indefiro os pedidos.
+    Na espécie, o recurso ordinário, por meio do qual se buscava o afastamento da prevenção do Juízo da 5ª Vara Criminal da Circunscrição Judiciária do Distrito Federal, foi julgado prejudicado, porquanto a exceção de incompetência teria sido julgada improcedente e o Juízo já havia proferido sentença absolutória, a evidenciar a total ausência de prejuízo.
+    Observe-se a fundamentação do acórdão impugnado:
+    “No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+    Isso porque, consoante consignado no provimento judicial impugnado, em consulta à página eletrônica do Tribunal de origem, constatou-se que os recorrentes foram absolvidos na Ação Penal n. 2018.01.1.017329-3, o que revela a perda do objeto deste recurso.
+    […]
+    Quanto ao ponto, é imperioso destacar que, embora a sentença absolutória ainda não tenha transitado em julgado, dada a pendência do julgamento do recurso de apelação interposto pelo Ministério Público, o certo é que inexiste, nesse momento, ato coator passível de ser analisado por este Superior Tribunal de Justiça.
+    Com efeito, o interesse de agir deve ser aferido no momento julgamento, não se mostrando pertinente postergar ou sobrestar indefinidamente a prestação jurisdicional quando inexiste qualquer ameaça concreta à liberdade de locomoção dos recorrentes, que, como visto, foram absolvidos das acusações.
+    […]
+    Ademais, nos termos do enunciado do enunciado 706 da Súmula do Supremo Tribunal Federal, "é relativa a nulidade decorrente da inobservância da competência penal por prevenção", sendo certo que, embora a defesa tenha arguido tempestivamente a incompetência do Juízo processante, a prolação de sentença absolutória em favor dos recorrentes afasta a existência de prejuízos e impede o deslocamento do processo, como pretendido.
+    Da mesma forma, com o julgamento do mérito da ação penal, não há que se falar em reunião de processos por conexão, consoante o disposto no enunciado 235 da Súmula deste Superior de Justiça, in verbis:
+    "Súmula n. 235. A conexão não determina a reunião dos processos, se um deles já foi julgado."
+    Por conseguinte, ainda que houvesse conexão probatória entre o presente feito e o Processo n. 2014.01.1.188586-8, já não seria mais possível a reunião das ações penais...
+    […]
+     Sobre o assunto, Renato Brasileiro de Lima adverte que, "se um dos processos já foi sentenciado, não mais haverá razão para a reunião dos processos, na medida em que o objetivo maior da conexão/continência - simultaneus processus como fator de produção probatória mais eficaz e a fim de se evitar julgamentos conflituosos - mão mais será passível de ser atingido" (Competência Criminal. Salvador: JUSPODIVM, 2010, p. 564/565)”. (eDOC 13)
+    O impetrante afirma que o habeas corpus não poderia ter sido julgado prejudicado, porque, embora haja proferido sentença absolutória, a apelação interposta foi registrada por prevenção à 1ª Turma Criminal do Tribunal, “em razão de pretérita distribuição de ordens de habeas corpus originários dos autos da ação penal 2016.01.1.073322-2.”
+    Com todas as licenças, a alegação é meramente retórica.
+    Se os pacientes foram absolvidos pelo Juízo que alegam ser incompetente, prejuízo algum há.
+    Só que, agora, o impetrante, na essência, não quer mais o reconhecimento da incompetência do Juízo da 5ª Vara Criminal da Circunscrição Judiciária do Distrito Federal, mas da 1ª Turma Criminal do Tribunal de Justiça, que teria analisado habeas corpus anterior, o que não tem o menor sentido.
+    Se a Primeira Turma analisou os fatos veiculados em qualquer ação penal, é de se esperar que ela seja preventa para analisar a apelação interposta contra sentença proferida por qualquer Juízo, que diga respeito a esses fatos. É dizer: ainda que afastada a competência da 5ª Vara, a Primeira Turma será competente para julgar a apelação.
+    A Primeira Turma não está vinculada à Vara, mas aos fatos.
+    Quanto à alegação de conexão, embora o dispositivo da decisão proferida no STJ indique a perda integral do objeto, a fundamentação tratou da questão nos termos acima já transcritos.
+    Com efeito, ainda que a exceção de incompetência tenha sido apresentada antes da prolação da sentença, a análise do pedido ocorreu quando já proferida, motivo por que é incabível a reunião dos processos, nos termos da jurisprudência desta Corte:
+    “Habeas corpus. 2. Peculato e fraude à licitação. 3. Pedidos de trancamento da ação penal em razão da litispendência ou de reconhecimento da continuidade delitiva. 4. Fatos distintos, ocorridos sucessivamente. 5. Inviabilidade da reunião de processos que se encontram em fases distintas. 6. Ordem denegada”. (HC 108.121, de minha relatoria, Segunda Turma, DJe 1º.3.2013)
+    “Agravo regimental em habeas corpus. Crime tributário. Ações em fases distintas. Reunião de processos. Impossibilidade. Várias condutas delitivas. Análise de continuidade delitiva. Reexame de fatos e provas. Imprópria a via estreita do habeas corpus. Regimental não provido. 1. Inviabilidade da reunião de processos em fases distintas. 2. A via estreita do habeas corpus é inadequada para a incursão em aspectos fáticos ou para promover dilação probatória tendente a comprovar a existência dos requisitos objetivos e subjetivos para o reconhecimento da continuidade delitiva. Precedentes. 3. Agravo regimental ao qual se nega provimento”. (AgR no HC 156.532, Rel. Min. Dias Toffoli, Segunda Turma, DJe 17.10.2018)
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 16 de junho de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
