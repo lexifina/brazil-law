@@ -1,0 +1,68 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, proposta por Fabio Zimmer, cidadão três-coroense, em face de ato do presidente da comissão processante do expediente de cassação do mandato do prefeito da cidade, processo administrativo 01/2020 da Câmara Municipal de vereadores de Três Coroas, que indeferiu o pedido de suspensão do procedimento em face da prevenção no combate à propagação do coronavírus e determinou o prosseguimento do expediente por meio de sessões “a portas fechadas”, impedindo a participação do ora reclamante, bem como da população, em especial, da população três-coroense, criando uma “modalidade de Sessão que não está prevista em Lei”, violando, assim, a Súmula Vinculante 46 do STF (eDOC 1, p. 8).
+    Em 11.5.2020, deferi a medida liminar, assentando que (eDOC 15):
+    “Na espécie, ao indeferir o pedido de suspensão do procedimento administrativo, a Comissão Processante determinou o prosseguimento do feito em solenidade de “maneira interna”, com fornecimento de materiais de proteção e prevenção à COVID-19 aos participantes.
+    No entanto, no referido ato, esclarece-se que, nos termos do que decido por aquela Casa Legislativa, as sessões internas ocorrem “sem a presença de público”, respeitando as recomendações do Ministério da Saúde em razão da grave situação que assola o País e o mundo.
+    A legislação de regência do procedimento para a cassação dos Prefeitos, arts. 4º e 5º do Decreto-Lei 201/1967, não prevê a realização de “sessões” sem a presença de público.
+    Desse modo, ao prever a realização de sessões no processo de cassação do Prefeito de “maneira interna”, sem qualquer previsão de participação popular, ainda que virtualmente, a Comissão Processante aparenta ter ultrapassado os limites do legislador federal quanto ao estabelecimento de normas de processo e julgamento para o crime de responsabilidade, ferindo a Súmula Vinculante 46, que assentou, para a hipótese, a competência privativa da União.
+    Ademais, o caput do art. 37 da Constituição Federal assegura a observância por quaisquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios aos princípio da publicidade.
+    (…)
+    Assim, em juízo de cognição sumária, entendo que a restrição ao público imposta pela Comissão Processante ultrapassa os limites contidos na legislação federal de regência, revelando possível ofensa ao citado verbete vinculante.
+    Presente o fumus boni iuris, o pequeno prazo estipulado pela legislação para a realização do procedimento de cassação do Prefeito, por sua vez, é suficiente a evidenciar o periculum in mora.
+    Ante o exposto, nos termos do art. 989, II, do CPC, defiro a medida liminar para suspender os efeito do ato reclamado, bem como determinar a suspensão das audiências aprazadas para os dias 12, 14 e 15 de maio de 2020, até a decisão final desta Reclamação, ou até que seja assegurada a observância do princípio da publicidade, ainda que de maneira virtual, quando da realização das referidas audiências.
+    Intime-se a parte autora para, no prazo de 15 (quinze) dias, para indicar o nome e qualificação do interessado.
+    Requisitem-se informações à autoridade (CPC, art. 989, I).
+    Após, abra-se vista à Procuradoria-Geral da República (CPC, art. 991).”
+    Solicitadas as informações, veio aos autos a Petição 31.696/2020, pela qual a Presidente da Comissão Parlamentar Processante da Câmara de Vereadores de Três Coroas informa que (eDOC 21):
+    “… visando a preservação da publicidade dos atos praticados, a Comissão Processante contratou a empresa VERDE-TV para a realização da transmissão ao vivo das solenidades aprazadas.
+    Assim sendo, já havia sido verificada a viabilidade técnica de transmissão ao vivo das audiências de instrução junto à equipe técnica, e todas as audiências serão transmitidas pelo canal de televisão local que costumeiramente transmite as sessões ordinárias da casa legislativa Verde TV, bem como por meio da rede social Facebook, tanto na página da Verde TV quanto na página da Câmara de Vereadores de Três Coroas, garantindo a publicidade requerida por meio da reclamação constitucional.
+    (…)
+    Logo, buscando assegurar o direito de todo cidadão de ter acesso aos atos da administração - sem desconsiderar a saúde da população, em razão da pandemia -, a Câmara Municipal tratou, de maneira prévia ao protocolo da presente Reclamação Constitucional, garantir a transmissão ao vivo das audiências aprazadas, visando, sobretudo, a proteção ao princípio da publicidade, ora em discussão.
+    Mais que isso, a Comissão Processante abrirá as portas da casa legislativa para as audiências de instrução vindouras, respeitando o distanciamento imposto pelo Art.12, Inc. IV, do Decreto Estadual nº 55.240/2020, in verbis:
+    Art. 12 São medidas sanitárias permanentes, de adoção obrigatória por todos, para fins de prevenção e de enfrentamento à epidemia de COVID-19, dentre outras:
+    (…)
+     IV - a observância do distanciamento interpessoal mínimo de dois metros, evitando-se a formação de aglomerações de pessoas nos recintos ou nas áreas internas e externas de circulação ou de espera, bem como nas calçadas, portarias e entradas dos prédios e estabelecimentos, públicos ou privados.
+    No mesmo sentido:
+    Art. 13 São de cumprimento obrigatório, em todo o território estadual, independentemente da Bandeira Final de cada Região, por todo e qualquer estabelecimento destinado a utilização simultânea por várias pessoas, de natureza pública ou privada, comercial ou industrial, fechado ou aberto, com atendimento a público amplo ou restrito, devendo o responsável cumpri-las e, quando for o caso, exigir o seu cumprimento pelos empregados, clientes ou usuários, as seguintes medidas permanentes de prevenção à epidemia de COVID-19:
+    (...)
+    IX – diminuir o número de mesas ou estações de trabalho ocupadas no estabelecimento de forma a aumentar a separação entre elas, diminuindo o número de pessoas no local e garantindo o distanciamento interpessoal de, no mínimo, dois metros;
+    Assim, a casa legislativa será aberta para a recepção dos cidadãos que desejam participar das audiências de instrução, respeitando a limitação supra, mediante o bloqueio de cadeiras.
+    Portanto, nota-se que a Comissão Processante, ao dar prosseguimento ao expediente de cassação na forma supra está (i) em conformidade com o Decreto Estadual nº 55.240/2020 do Governo do Estado do Rio Grande do Sul e (ii) em conformidade com o princípio da publicidade, vez que as solenidades serão transmitidas ao vivo para o público, de maneira virtual, bem como será permitida a participação do público, ainda que de forma restritiva.
+    Assim ante a inexistência de qualquer ofensa ao princípio da publicidade ao longo de toda a instrução do Processo Administrativo n.º 01/2020 será dado andamento, com o reagendamento das oitivas a partir da data de 18/05/2020, e com a devida intimação do denunciado e sua defesa constituída.
+    Face ao exposto, requer o recebimento da presente manifestação, considerando o atendimento da publicidade reclamada, possibilitando o regular andamento do Processo Administrativo n.º 01/2020.”
+    A parte reclamante, por meio da Petição 32.414/2020, referindo-se às informações prestadas pela autoridade reclamada, manifesta-se asseverando, em síntese, que (eDOC 26):
+    “’Data venia’, a Petição exterioriza a forma autoritária com a qual é conduzido o Expediente de Cassação, precipuamente quando, no seu penúltimo parágrafo, assevera que “[...] será dado andamento, com o reagendamento das oitivas a partir da data de 18/05/2020 [...]”.
+    Desconsidera, a ilustre Vereadora Presidente da Comissão Processante, a existência de Decisão de lavra de Vossa Excelência determinando a suspensão das audiências. Logo, com o devido respeito, não cabe a ela determinar o prosseguimento, mas a uma nova ordem judicial advinda desse MM. Juízo.
+    (…)
+    O prosseguimento do expediente, sem que esta E. Corte revogue a liminar concedida, configura flagrante descumprimento de ordem judicial.
+    (…)
+    Quanto a transmissão, cabe mencionar que a “Verde TV” nada mais é do que uma página no Facebook, ou seja, está limitada aquelas pessoas que têm conta de Facebook, e mais, que possuem acesso à internet. A realidade das grandes cidades não é a mesma que de uma cidade do interior, com péssima qualidade de internet, seja 3G, o que diria 4G. Portanto, longe está de ser um Canal de TV para dar publicidade a Municipalidade, conforme comprova a imagem a seguir e o arquivo anexo, ambos retirados do site da “Verde TV” (https://www.averdetv.com/).
+    (…)
+    Ademais, a afirmação constante na Petição do Evento 21 de que “todas as audiências serão transmitidas pelo canal de televisão local” não passa de uma tremenda invenção, “data venia”!
+    Não passa de uma tentativa desleal de induzir esse MM. Juízo em erro, até porque NÃO EXISTE CANAL DE TELEVISÃO LOCAL!
+    (…)
+    E, aqui, cabe ressaltar que, em caso de votações importantes da Câmara de Vereadores, são, de costume, colocadas cadeiras extras e ainda permitida a permanência de munícipes em pé. Tudo para que comunidade possa participar ativamente dos assuntos do Município. O que a Comissão Processante está claramente tentando fazer com que não ocorra no presente caso.
+    Em verdade, excetuando-se as Partes envolvidas no Expediente, a publicidade, nos termos dispostos na petição retro, dar-se-á de modo limitadíssimo, ou seja, colidindo frontalmente com o princípio constitucional da publicidade. A importância do aludido princípio é explicitada em obra de José Afonso da Silva, ao referir que:
+    (…)
+    Ainda, chama a atenção, que a ilustríssima Senhora Vereadora Presidente da Comissão Processante parece não conhecer a realidade trêscoroense. Ora, grande parte das famílias são beneficiárias de cestas básicas, o que dirá ter dinheiro para acessar a internet a fim de acompanhar a página do Facebook “VerdeTV”.
+    (…)
+    Diante do exposto, Requer que seja mantida a liminar deferida até que a publicidade das sessões do Expediente de Cassação se dê por meios oficiais e, sobretudo, isentos e não através de “live” na rede social Facebook, por intermédio da contratação da empresa “VERDE-TV” que, repita-se, tem como um dos seus patrocinadores a empresa de um dos membros da Comissão Processante.”
+     A autoridade reclamada aditou às informações anteriormente prestadas, apresentando fotos da sala de reuniões onde ocorrerão as sessões e esclarecendo que (eDOC 34):
+    “Como se vê, em virtude da pandemia estão bloqueados os assentos do meio em cada uma das fileiras de três cadeiras, respeitando o distanciamento imposto pela norma estadual.
+    Assim, será permitido o acesso ao público, dentro das limitações necessárias, protegendo a saúde de todos.
+    Já em relação à transmissão ao vivo das audiências, importante retificar a informação anteriormente prestada, pois o referido canal de televisão é, na verdade, um veículo de comunicação que transmite exclusivamente por meio da rede social Facebook, tendo um alcance elevado no município, conforme se vê na publicação do mesmo ao buscar anúncios:
+    (…)
+    Face ao exposto, requer o recebimento da presente manifestação, que demonstra mais uma vez o atendimento da publicidade reclamada, possibilitando o regular andamento do Processo Administrativo nº 01/2020.”
+    Inconformada, a parte reclamante peticiona (Petição 32739/2020), sustentando que “A situação apresentada não se presta para atender ao disposto no artigo 37 da Constituição Federal.” e requer “a declaração de nulidades dos atos instrutórios praticados sem a autorização e chancela deste MM. Juízo, com a conseguinte aplicação da litigância de má-fé”, bem como a “imediata intervenção do Ministério Público, frente às ilegalidades ora cometidas pela Reclamada” (eDOC 37, p. 3/4).
+    Em nova petição (Petição 33937/2020), reitera as razões pelas quais entente descumprida a medida liminar deferida e requer “sejam suspensos os trabalhos da Comissão Processante até o julgamento do mérito da presente Reclamação” (eDOC 39).
+    É o relatório. Decido.
+    Ao deferir a liminar condicionei a suspensão dos efeitos do ato reclamado, bem como das audiências aprazadas para os dias 12, 14 e 15 de maio de 2020, até a decisão final desta Reclamação, ou até que fosse assegurada a observância do princípio da publicidade, ainda que de maneira virtual, quando da realização das referidas audiências.
+    A autoridade reclamada informa que “a Comissão Processante abrirá as portas da casa legislativa para as audiências de instrução vindouras, respeitando o distanciamento imposto pelo Art.12, Inc. IV, do Decreto Estadual nº 55.240/2020” (eDOC 21, p. 4)
+    Diante disso, ainda em juízo de delibação, verifico que a garantia da presença da população local às audiências em que serão realizados os trabalhos da Comissão Processante, observadas as restrições impostas pelo Decreto Estadual 55.240/2020, por si só, atendem ao requisito de publicidade exigido para a prática do ato, de modo que a transmissão ao vivo das reuniões em veículo de mídia revela-se procedimento não essencial ao atendimento da exigência constitucional.
+    Sendo assim, não mais subsiste fumus boni iuris suficiente à manutenção da medida constritiva, razão pela qual indefiro o que requerido pela parte reclamante e suspendo os efeitos da decisão liminar por mim deferida nestes autos.
+    Cite-se o interessado Orlando Teixeira dos Santos Sobrinho (eDOC 26, p. 6).
+    Aguarde-se a manifestação da Procuradoria-Geral da Republica.
+    Comunique-se. Publique-se. Intimem-se.
+    Brasília, 16 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
