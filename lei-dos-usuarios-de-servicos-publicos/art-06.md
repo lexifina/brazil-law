@@ -10,3 +10,5 @@ b) serviços prestados pelo órgão ou entidade, sua localização exata e a ind
 c) acesso ao agente público ou ao órgão encarregado de receber manifestações;
 d) situação da tramitação dos processos administrativos em que figure como interessado; e
 e) valor das taxas e tarifas cobradas pela prestação dos serviços, contendo informações para a compreensão exata da extensão do serviço prestado.
+VII - comunicação prévia da suspensão da prestação de serviço.
+Parágrafo único. É vedada a suspensão da prestação de serviço em virtude de inadimplemento por parte do usuário que se inicie na sexta-feira, no sábado ou no domingo, bem como em feriado ou no dia anterior a feriado.
