@@ -4,3 +4,4 @@ Art. 6º Toda concessão ou permissão pressupõe a prestação de serviço adeq
 § 3º Não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando:
 I - motivada por razões de ordem técnica ou de segurança das instalações; e,
 II - por inadimplemento do usuário, considerado o interesse da coletividade.
+§ 4º A interrupção do serviço na hipótese prevista no inciso II do § 3º deste artigo não poderá iniciar-se na sexta-feira, no sábado ou no domingo, nem em feriado ou no dia anterior a feriado.

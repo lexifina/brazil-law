@@ -14,3 +14,5 @@ XII - observância dos códigos de ética ou de conduta aplicáveis às várias 
 XIII - aplicação de soluções tecnológicas que visem a simplificar processos e procedimentos de atendimento ao usuário e a propiciar melhores condições para o compartilhamento das informações;
 XIV - utilização de linguagem simples e compreensível, evitando o uso de siglas, jargões e estrangeirismos; e
 XV - vedação da exigência de nova prova sobre fato já comprovado em documentação válida apresentada.
+XVI - comunicação prévia ao consumidor de que o serviço será desligado em virtude de inadimplemento, bem como do dia a partir do qual será realizado o desligamento, necessariamente durante horário comercial.
+Parágrafo único. A taxa de religação de serviços não será devida se houver descumprimento da exigência de notificação prévia ao consumidor prevista no inciso XVI do caput deste artigo, o que ensejará a aplicação de multa à concessionária, conforme regulamentação.
