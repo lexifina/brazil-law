@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 586.887, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que, em 25.04.2020, o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/2006 (887,04 g de maconha). A prisão foi convertida em preventiva.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça (HC 586.887). O Relator, Ministro Reynaldo Soares da Fonseca, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a desnecessidade da prisão processual do paciente, ressaltando que “com o paciente foi apreendido apenas 437,1g de maconha, sendo o restante da droga de propriedade do coacusado Bruno, o qual não tem relação alguma com o paciente, tanto é que na denúncia anexa do Ministério Público, o mesmo não denunciou os acusados no delito de associação, somente no delito de tráfico de drogas”.
+    5. Prossegue a impetração para alegar que o paciente “é pessoa de passado limpo, sendo réu primário e portador de excelentes antecedentes criminais, não tendo jamais respondido a outro processo crime” e que “[n]ão há, nos autos, nenhum indicativo de que integre organização criminosa ou associação para o tráfico”.
+    6. A defesa requer a concessão da ordem a fim de “garantir que o paciente responda ao processo em liberdade”. Subsidiariamente, pleiteia “quaisquer das medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal, vez que menos gravosas e mais adequadas à situação de SEBASTIAN”.
+    7. Decido.
+    8. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício, notadamente se se considerar que as instâncias de origem justificarem a necessidade da custódia preventiva com fundamento na quantidade da droga apreendida em poder do paciente e do corréu (887,04 g de maconha). Sendo assim, o caso atrai o entendimento do STF, no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 16 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
