@@ -1,0 +1,26 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por José Belga Assis Trad e outro(s) em favor de Luiz César de Oliveira Silva, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, da lavra do Ministro Joel Ilan Paciornik, que negou provimento ao agravo regimental no HC 537.845/MS (evento 21).
+    O paciente foi condenado à pena de 14 (catorze) anos de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas e de associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006). O magistrado de primeiro grau negou o direito de o paciente recorrer em liberdade.
+    Em sede de apelação, o Tribunal de Justiça do Estado de Mato Grosso do Sul deu parcial provimento ao recurso defensivo, para redimensionar a pena para 09 (nove) anos, 8 (oito) meses e 3 (três) dias de reclusão. Posteriormente, a Defesa impetrou habeas corpus junto à Corte Estadual, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática do Ministro Joel Ilan Parcionik, não conheceu do HC 537.845/MS. Ato contínuo, manejado, sem sucesso, agravo regimental.
+    No presente writ, argumenta a Defesa, em síntese, falta de fundamentação idônea da prisão preventiva do paciente, porquanto lastreada na gravidade abstrata do delito e ausentes os requisitos autorizadores. Aponta excesso de prazo prisional, custodiado o paciente desde 06.6.2018. Aduz a existência de circunstâncias pessoais favoráveis, como primariedade, bons antecedentes, ocupação lícita e residência fixa. Requer, em medida liminar, a suspensão do decreto prisional. No mérito, pugna pela revogação a prisão preventiva do paciente.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO DE ENTORPECENTES. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. RÉU QUE RESPONDEU A AÇÃO PENAL PRESO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. REFORMATIO IN PEJUS PELO TRIBUNAL A QUO. INOVAÇÃO RECURSAL. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+    1. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal – CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP.
+    No caso dos autos, a negativa ao apelo em liberdade foi adequadamente motivada pelas instâncias ordinárias, que demonstraram, com base em elementos concretos, a periculosidade do agravante e a gravidade da conduta, evidenciadas pela natureza deletéria e expressiva quantidade da droga apreendida – 64,4kg (sessenta e quatro quilos e quatrocentos gramas) de cocaína –, o que demonstra, portanto, sólido risco ao meio social.
+    A prisão processual está devidamente fundamentada na necessidade de garantir a ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação e tampouco em aplicação de medida cautelar alternativa.
+    2. Tendo o ora agravante permanecido preso durante todo o curso do processo, não deve ser permitido o recurso em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em primeiro grau. Precedente.
+    3. A presença de condições pessoais favoráveis, como primariedade, bons antecedentes e residência fixa, não impede a decretação da segregação cautelar.
+    4. A tese referente à alegação de inovação nos fundamentos do decreto cautelar por parte da Corte a quo, não foi arguida na inicial do presente habeas corpus. Vedada a inovação recursal, não deve ser conhecido o Agravo Regimental nesse ponto. A título de obter dictum, destacou-se que originariamente a segregação preventiva foi decretada para garantia da ordem pública, o que restou preservado pelo colegiado, tendo, portanto, a custódia sido mantida pelos mesmos motivos apresentados pelo Magistrado de primeiro grau. Ademais, somente se verifica a existência de reformatio in pejus quando, em recurso exclusivo da defesa, o Tribunal promove o agravamento da situação do acusado, o que não se verificou na hipótese dos autos.
+    5.Agravo regimental parcialmente conhecido e, nesta extensão, desprovido.”
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que a decisão exarada pela Corte Superior se encontra fundamentada, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar para suspender o decreto prisional.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 16 de junho de 2020.
+Ministra Rosa Weber
+Relatora
