@@ -1,0 +1,51 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial 0037093-03.2014.8.11.0041
+RECORRENTE: JOSÉ ANTONIO ARMOA
+RECORRIDO: EMILIO CASSIANO OSSANI
+Vistos, etc.
+Trata-se de Recurso Especial interposto por JOSÉ ANTONIO ARMOA com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela TERCEIRA CÂMARA DE DIREITO PRIVADO, assim ementado (ID 32099968):
+“APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE COMPRA E VENDA DE VEÍCULO – FALSIDADE DOCUMENTAL – REALIZAÇÃO DE PERÍCIA – ADULTERAÇÃO DE CONTEÚDO E ASSINATURA – INSTRUMENTO PARTICULAR - COMPROVAÇÃO DA AVENÇA POR OUTROS MEIOS – IMPROCEDÊNCIA MANTIDA – RECURSO DESPROVIDO.
+“(...) 1. A tese defendida no recurso especial demanda o reexame do conjunto fático e probatório dos autos, vedado pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 800.028/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/02/2016, DJe 05/02/2016).” (N.U. 0037093-03.2014.8.11.0041, DES. JOSÉ ZUQUIM NOGUEIRA, TERCEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 29/01/2020).
+Os Embargos de Declaração foram rejeitados (ID 36271972).
+Alega violação aos artigos 783, 784, III e 1.022 do CPC e artigo 422 do CC.
+Recurso tempestivo (ID 42374971).
+Contrarrazões (ID 45705957).
+É o relatório. Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Alegada violação ao artigo 1.022 do CPC
+A partir da suposta ofensa ao artigo 1.022 do CPC, o Recorrente alega que o acórdão impugnado é omisso, visto que não enfrentou a tese acerca da falta de certeza, liquidez e exigibilidade dos títulos executivos extrajudiciais, visto que as testemunhas que subscreveram o instrumento particular de venda e compra de veículo e a renegociação feita por meio da declaração de quitação, apresentados pelo Recorrido, são desconhecidas das próprias partes, existe disparidade entre as testemunhas de uma e de outra via contratual e ausência de testemunha em uma das vias e presença na outra, impossibilitando que as testemunhas, sejam chamadas em Juízo, a fim de comprovar os fatos testemunhados.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“No caso, o apelante alega o excesso de execução, decorrente da falsidade documental perpetrada pelo exequente, que teria majorado os juros contratados de 1% para 2,5%, e ainda, incluído posterior assinatura de duas testemunhas no pacto.
+O título que embasa a execução questionada, trata-se de um contrato compra e venda de veículo, ocorrido em 24/10/2008, pelo valor de R$100.000,00 (cem mil reais) (fls. 15/17- feito executivo – código 830722).
+Acompanha o respectivo contrato, a Declaração de Quitação de Instrumento Particular de Venda e Compra, em que constou a repactuação do débito remanescente, que deveria ser pago por meio de 08 (oito) cheques; para o caso de inadimplemento, pactuou-se a aplicação de juros de 2,5% ao mês, e que o não pagamento de três cheques subsequentes acarretaria o vencimento antecipado dos demais, independente de notificação judicial ou extrajudicial.
+A execução foi proposta em razão de que o embargante/executado pagou apenas 02 (dois) cheques (fls. 18/21-v). Em razão da alegada adulteração documental, que teria sido feita pelo exequente/embargado, foi realizada perícia nos autos, a qual constatou: 1) A aposição de assinatura de duas testemunhas, no contrato de compra e venda original juntado pelo exequente/embargado; 2) A adulteração da lauda no 1, da Declaração de Quitação, especificamente em relação à via do embargante. Por outro lado, a alegada adulteração por parte do embargado não restou comprovada. Pelo contrário. A perícia realizada nos autos comprovou que a adulteração de conteúdo e assinatura ocorreram na página no 01, da Declaração de Quitação, apresentada pelo embargante às fls. 98/99, senão vejamos: “[...] Após a verificação dos padrões dos documentos, verificou-se das 04 (quatro) laudas examinadas, apenas a Lauda 01 da via atinente ao embargante (documento fls. 98) apresentou divergência, restando comprovado que a lauda 01 de uma das vias fora alterada em conteúdo e lançamento dos vistos de ciência. [...] Desse modo com vistas a identificar qual seria a Lauda Original, qual seja, aquela que fora produzida e assinada juntamente com as demais laudas, e aquela alterada, fora realizada a verificação do tipo de entitamento das canetas utilizadas nos lançamentos dos vistos.
+Após a verificação do entitamento, observou-se que ambas as vias foram assinadas com a qual possui pigmentação originada por Phthalocyanine Blue Bn, apresentando coloração uniforme, todavia, verificou-se padrão de entitamento apenas na Lauda 02 da via do embargante e laudas 01 e 02 do Embargado, sendo que a Lauda 01 da via do embargante apresenta nível de entitamento divergente das demais, sendo verificado que esta via fora assinada com caneta a qual permitia maior nível de entitamento, enquanto as demais foram assinadas com caneta que apresentava “falha” de entitamento (...) onde, dando a perceber que houve maior nível de pressão no lançamento dos vistos na lauda 01 da via do embargante, não sendo identificado tais padrões nas demais laudas dos documentos analisados.
+[...] Nesse sentido, em que pese o acordo entre as partes, restou evidenciado que a lauda 01 da via do embargante apresenta padrão divergente das demais laudas, sendo, constatado, portanto, por este profissional, que tal lauda não apresenta os mesmos padrões de entitamento dos vistos e informações constantes na via apresentada pelo embargado. [...] CONCLUSÃO: A análise nas vias do documento “Declaração de Quitação”, constatou que a lauda 01 (via apresentada pelo embargante – fl. 98) foi alterada por outra com conteúdo e visto distinta da via da embargada, a qual foi tida como original em sua integralidade. [...]” (fls. 130/134) (g.n.)
+Aliás, como bem mencionado pela Magistrada Singular, in verbis: “(....) conclui-se que o embargante adulterou os juros pactuados no contrato original de 2,5%, reduzindo-o para 1%. Portanto, o contrato apresentado pelo exequente/embargado e sua renegociação feita por meio da Declaração de Quitação de Instrumento Particular de Venda e Compra (fls. 18/19-feito executivo), é válida e consiste em título executivo extrajudicial.” (ID 32099969)
+Diante desse quadro, não há evidência de violação ao artigo 1.022 do CPC, o que conduz à inadmissão do recurso.
+Reexame de matéria fática e cláusulas contratuais. Súmulas 5 e 7/STJ.
+Conforme o artigo 105, III, da CF, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais e, consequentemente, não é possível o exame de matéria fático-probatória, o que inclui a interpretação de cláusulas contratuais, conforme prelecionam as Súmulas 5 e 7 do STJ.
+Nesse sentido:
+“AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. INDENIZAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento”. (AgInt no AREsp 927.217/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2018, DJe 14/12/2018). (g.n.)
+Amparada na suposta violação aos artigos 783 e 784, III, do CPC e artigo 422 do CC, o Recorrente defende a ausência da assinatura de duas testemunhas no contrato particular de compra e vende de veículo, fato que retira a força executiva do título.
+Alega afronta ao princípio da boa-fé contratual, tendo em vista que o instrumento particular de venda e compra de veículo e a renegociação feita por meio da declaração de quitação, apresentados pelo Recorrido, não possuem certeza, liquidez e exigibilidade dos títulos executivos extrajudiciais, visto que as testemunhas que subscreveram os documentos são desconhecidas das próprias partes, existe disparidade entre as testemunhas de uma e de outra via contratual e ausência de testemunha em uma das vias e presença na outra.
+No entanto, para a análise da citada controvérsia é necessário o exame de prova documental para a interpretação das cláusulas contratuais, atraindo a aplicação das Súmulas 5 e 7 do STJ.
+A propósito:
+“PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE FAIXA ETÁRIA. POSSIBILIDADE. REDUÇÃO DO PERCENTUAL. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS N° 5 E 7/STJ.
+1. [...] 3. A jurisprudência sedimentada neste Superior Tribunal de Justiça entende ser possível o reajuste de contratos coletivos de saúde, em face do implemento de idade, quando a mensalidade mostrar-se irrisória em face da variação de custos ou do aumento de sinistralidade. 4. A tese defendida no recurso especial demanda reexame de cláusulas contratuais e do contexto fático e probatório dos autos, vedados pelas Súmulas n° 5 e 7/STJ. 5. Agravo interno a que se nega provimento.” (AgInt no AREsp 894.701/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018).
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 16 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XI
