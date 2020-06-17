@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Ação ordinária – Servidora estadual – Agente de segurança penitenciária aposentada – Pretensão de reconhecimento do direito e consequente pagamento dos proventos de aposentadoria com base na remuneração percebida na classe ocupada quando da inativação, ou seja, Classe IV – Admissibilidade – Precedentes – Sentença de procedência da ação – Desprovimento do recurso da SPPREV e oficial considerado interposto, para manter a r. sentença recorrida, também por seus próprios e jurídicos fundamentos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (AI 813.763-AgR/RS, Rel. Min. GILMAR MENDES – ARE 1.208.619-AgR/SP, Rel. Min. ROSA WEBER – ARE 1.214.476-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.240.280-AgR/SP, Rel. Min. ROBERTO BARROSO – RE 590.762-AgR/RS, Rel. Min. ROBERTO BARROSO, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. APOSENTADORIA DE SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA: AUSÊNCIA DE CONTRARIEDADE AO INC. III DO § 1º DO ART. 40 DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 1.254.446-AgR/SP, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA. INEXISTÊNCIA DE CONTRADIÇÃO AO ART. 40, § 1º, III, DA CONSTITUIÇÃO. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que ‘a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado’ (AI 768.895, Relª. Minª. Cármen Lúcia). Desse modo, a aposentadoria de servidor público promovido no mesmo cargo, mas em classe distinta, não está condicionada ao prazo de 5 anos estabelecido no art. 40, § 1º, III, da Constituição. Precedentes.
+    2. Ausência de argumentos capazes de infirmar a decisão agravada.
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+    (RE 1.255.987-AgR/SP, Rel. Min. ROBERTO BARROSO – grifei)
+    Cumpre ressaltar, por necessário, que essa orientação tem sido observada em sucessivas decisões proferidas no âmbito desta Suprema Corte (ARE 932.468/SP, Rel. Min. LUIZ FUX – ARE 1.061.856/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.120.083/SP, Rel. Min. EDSON FACHIN – ARE 1.260.113/SP, Rel. Min. CELSO DE MELLO,v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 17 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
