@@ -1,0 +1,30 @@
+DECISÃO
+JÚRI – ANULAÇÃO – ACÓRDÃO – FUNDAMENTAÇÃO – VÍCIO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Ministério Público do Estado de Mato Grosso do Sul apresentou denúncia contra o paciente e outras pessoas, imputando-lhes a prática do crime previsto no artigo 121, § 2º, incisos I, III e IV (homicídio qualificado por motivo torpe, emprego de meio cruel e recurso que impossibilitou a defesa da vítima), do Código Penal. Narrou terem os envolvidos, utilizando-se de pedaço de pau e facão, provocado lesões no ofendido, levando-o a óbito. Conforme descreveu, o denunciado Célio, com auxílio de outras pessoas, amarrou-o com uma corda e arrastou-o até a última rua do bairro. Sublinhou que o paciente encontrou-os no local e agrediu a vítima, desferindo-lhe golpes com facão.
+    O Juízo da Primeira Vara Criminal de Três Lagoas/MS, no processo nº 0003630-74.2012.8.12.0021, recebeu a peça.
+    Em 8 de agosto de 2012, pronunciou o paciente.
+    No julgamento perante o Júri, a defesa sustentou a absolvição, considerada a negativa de autoria e a existência de dúvida a afastar a condenação. Disse sobre a improcedência das qualificadoras. O Conselho de Sentença respondeu negativamente o quesito alusivo à participação do paciente nos fatos – “O acusado Mauro Pereira Lins, juntamente com terceiras pessoas, concorreu para a prática do crime ao agredir fisicamente a vítima com golpes de facão?”. O Juízo absolveu-o.
+    A Segunda Câmara Criminal do Tribunal de Justiça proveu apelação interposta pelo Ministério Público, para anular a decisão do Júri, tendo-a contrária às provas do processo. Aludiu ao depoimento da testemunha Edson, à época do delito, menor com 7 anos de idade, que, presenciando os fatos, narrou o ocorrido e a participação. Ressaltou corroborada a declaração pelo conjunto probatório, observados autos de apreensão de pedaços de pau, facão e cordas utilizadas no crime; laudo necroscópico, mediante o qual constatado óbito ante choque hipovolêmico por agente perfurocortante; depoimento de Neuci, mãe do ofendido, e Guedes, padrasto, confirmando a narrativa do menor, além do interrogatório do corréu Célio. Destacou depoimento de Josélia, esposa do paciente, que, embora tenha negado a participação deste no crime, confirmou ter saído, com um facão, à procura da vítima. Salientou isolada a versão apresentada no sentido da negativa de autoria.
+    A defesa protocolou embargos declaratórios, mediante os quais sustentou não haver o Tribunal se pronunciado sobre argumentos veiculados em contrarrazões, relativamente à existência de versão conflitante, apoiada em provas, a respaldar a conclusão dos jurados, levando em conta relatório policial e depoimentos, prestados em Plenário, dos investigadores e do delegado responsáveis pela investigação. A Segunda Câmara desproveu o recurso, assentando inexistir omissão a ser sanada.
+    A Vice-Presidência inadmitiu recurso especial.
+    No Superior Tribunal de Justiça, o Relator conheceu do agravo nº 753.034 para desprover o especial. A Sexta Turma negou provimento a agravo.
+    O impetrante afirma não ter o Tribunal de Justiça se manifestado quanto a argumentos veiculados pela defesa, no que sustentou a existência de outra versão sobre os fatos. Sublinha violada a soberania dos veredictos, dizendo haver o Órgão substituído o Júri, no que procedeu à valoração de elementos de convicção existentes no processo. Frisa não ter sido a conclusão dos jurados manifestamente contrária às provas. Reportando-se ao depoimento dos policiais e do delegado que realizaram as investigações, bem como ao relatório do inquérito, aponta dados a indicarem que a testemunha Edson não visualizou a execução da vítima. Aduz caracterizado excesso de linguagem no pronunciamento decorrente do julgamento da apelação, tendo-o como suscetível de influenciar os jurados.
+    Requer, no campo precário e efêmero, a suspensão do processo-crime. No mérito, busca o restabelecimento da absolvição.
+    Consulta ao sítio do Tribunal de Justiça revelou que o Juízo, em 22 de abril de 2020, em razão da pandemia de covid-19, cancelou a Sessão do Júri, marcada para 20 de maio. O processo-crime aguarda designação de nova data para o julgamento.
+    A fase é de apreciação da medida acauteladora.
+    2. Considerada a soberania dos veredictos, a anulação de decisão do Tribunal do Júri, juiz natural para julgamento de crimes dolosos contra a vida, pressupõe ser a conclusão dos jurados manifestamente contrária às provas.
+    O Tribunal de Justiça, ao prover apelação interposta pelo Ministério Público, assentou que a conclusão sobre a não participação do paciente no delito fez-se desvinculada dos elementos de convicção existentes no processo.
+    O Tribunal deixou de enfrentar argumentos veiculados nas contrarrazões (documento comprobatório nº 26 – folha 819 a 828), por meio das quais se sustentou haver outra versão dos fatos, acolhida pelo Júri, lastreada em provas. Surge vício de fundamentação. Ao assentar a nulidade da decisão dos jurados, concluindo pela manifesta contrariedade, cumpria proceder ao exame da argumentação suscitada pela defesa, de modo a demonstrar a insubsistência das provas tidas como suficientes a respaldar o decidido pelo Júri.
+    O § 2º, inciso IV, do artigo 315 do Código de Processo Penal, ao dispor acerca do dever de fundamentação das decisões, prevê a impropriedade de pronunciamento silente quanto aos argumentos:
+    Art. 315.[...]
+    § 2º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que
+    [...]
+    IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador
+    3. Defiro a liminar, para suspender, até o julgamento do mérito da impetração, a tramitação do processo-crime nº 0003630-74.2012.8.12.0021, da Primeira Vara Criminal de Três Lagoas/MS.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 17 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
