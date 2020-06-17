@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: Processual Penal. Habeas Corpus. Tráfico e associação para o tráfico de drogas. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça, nos autos do RHC 126.228.
+    2. Extrai-se dos autos que o paciente foi preso preventivamente e denunciado pelos crimes previstos nos arts. 33 e 35 da Lei 11.343/2006, em concurso material – 9 tijolos de maconha, com peso bruto de "3.398.45g (três quilogramas, trezentos e noventa e oito gramas e quarenta e cinco centigramas), e 1 (uma) porção de maconha, embalada em segmento plástico transparente, com peso bruto de 102,61g (cento e dois gramas e sessenta e um centigramas)".
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a interposição de RHC no Superior Tribunal de Justiça (RHC 126.228). O Relator, Min. Reynaldo Soares da Fonseca, conheceu em parte do recurso e, nessa extensão, negou-lhe provimento.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a “ausência de algum dos requisitos da prisão preventiva e, mais, porquanto não há óbice à concessão da liberdade provisória, além da ausência de fundamentação na decisão que negou o intento formulado nos autos em favor do ora Paciente”. Daí o pedido de “concessão da ordem de soltura do Paciente”.
+    5. Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    7. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    8. As peças que instruem a impetração não evidenciam teratologia, ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício. Tal como assentou a autoridade impetrada, a “prisão preventiva do recorrente está fundamentada na gravidade concreta do delito e na necessidade de garantia da ordem pública, destacando-se a quantidade de substância entorpecente apreendida (cerca de 3,5 kg de maconha)”.
+    9.  Nessas condições, o caso atrai a orientação jurisprudencial do STF no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    10.  Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 17 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
