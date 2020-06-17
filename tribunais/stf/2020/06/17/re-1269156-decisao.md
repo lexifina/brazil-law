@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 4ª Região, ao negar provimento à apelação, assentou a impossibilidade de afastar a exigência da contribuição ao Funrural, no que contribuinte não demonstrou a condição de empregador rural, de modo a ensejar a aplicação do decidido pelo Pleno recurso extraordinário nº 363.852, de minha relatoria. Eis a síntese do ato recorrido:
+    TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO CONVERTIDO EM RETIDO. NÃO CONHECIMENTO. FUNRURAL. EMPREGADOR RURAL. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. PRECEDENTES.
+    1. Em atenção ao disposto no art. 523, § 1º, do CPC, não se conhece de agravo convertido em retido cuja apreciação não foi expressamente requerida no momento oportuno.
+    2. A declaração de inconstitucionalidade do art. 1º da Lei nº 8.540/92 (dando nova redação ao art. 12, V; art. 25, I e II, e 30, IV, da Lei nº 8212/91), levada a efeito pelo egrégio STF nos autos do RE 362.852/MG não alcança os segurados especiais, tampouco aqueles produtores rurais autônomos sem empregados.
+    3. Nem mesmo a inclusão da alínea a do inciso V do art. 12 da Lei nº 8.212/91 pela Lei nº 11.718/08, a qual se refere ao produtor rural que, mesmo não tendo empregados, explore atividade agropecuária em área superior a quatro módulos fiscais, confere ao autor a condição de empregador rural.
+    […]
+    O entendimento firmado no RE 363.852 se refere exclusivamente aos casos de produtores rurais (pessoas físicas) que possuam empregados, o que não é o caso em exame, como ressaltou o próprio autor.
+    Cumpre observar que, como bem destaca o julgador monocrático, nem mesmo a inclusão da alínea a do inciso V do art. 12 da Lei 8.212/91 pela Lei nº 11.718/08, a qual se refere ao produtor rural que, mesmo não tendo empregados, explore atividade agropecuária em área superior a quatro módulos fiscais, confere ao autor a condição de empregador rural.
+    […]
+    Dessarte, tendo sido concedido prazo para comprovar sua alegada condição de empregador rural, irreparável a sentença que extinguiu o processo sem julgamento do mérito
+    No extraordinário, aponta violados os artigos 150, inciso I, 154, inciso I, 195, inciso I, alíneas “a”, “b” e “c” e § 4º, da Constituição Federal. Articula a condição de empregador rural, sublinhando indevida a exigência do tributo, considerado o decidido pelo Pleno no recurso extraordinário nº 363.852. Destaca que o pronunciamento do Supremo no paradigma evocado tornou insubsistente a contribuição, inclusive, para os segurados especiais.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par deste aspecto, descabe articular a inexigibilidade da contribuição no tocante aos segurados especias. Conforme salientando pelo Tribunal recorrido, o pronunciamento do Pleno no recurso extraordinário nº 363.852 fez-se considerado o empregador rural pessoa natural. A óptica foi corroborada no julgamento, em Sessão Plenária, do extraordinário nº 596.177, relator o ministro Ricardo Lewandowski, acórdão publicado no Diário de Justiça de 29 de agosto de 2011. Confiram a ementa formalizada:
+    CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL PREVIDENCIÁRIA. EMPREGADOR RURAL PESSOA FÍSICA. INCIDÊNCIA SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/1991, NA REDAÇÃO DADA PELO ART. 1º DA LEI 8.540/1992. INCONSTITUCIONALIDADE. I – Ofensa ao art. 150, II, da CF em virtude da exigência de dupla contribuição caso o produtor rural seja empregador. II – Necessidade de lei complementar para a instituição de nova fonte de custeio para a seguridade social. III – RE conhecido e provido para reconhecer a inconstitucionalidade do art. 1º da Lei 8.540/1992, aplicando-se aos casos semelhantes o disposto no art. 543-B do CPC.
+    3. Ante o exposto, nego seguimento ao extraordinário
+    4. Publiquem.
+Brasília, 17 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
