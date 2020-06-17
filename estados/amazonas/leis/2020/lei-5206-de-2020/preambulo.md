@@ -1,0 +1,7 @@
+LEI N. 5.206, DE 17 DE JUNHO DE 2020.
+
+INSTITUI a Política Estadual de Promoção da Educação Socioemocional.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
