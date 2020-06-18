@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 3.395 – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Girau do Ponciano/AL afirma haver o Tribunal Regional do Trabalho da 19ª Região, no processo nº 001225-86.2018.5.19.0061, desrespeitado a liminar deferida na ação direta de inconstitucionalidade nº 3.395.
+    Segundo narra, Marleide Domingos Lima ajuizou contra si demanda visando o pagamento dos depósitos do Fundo de Garantia do Tempo de Serviço – FGTS. Ressalta afastada, em primeiro grau, preliminar de incompetência da Justiça do Trabalho, mantido o entendimento em recurso ordinário. Não houve êxito em declaratórios. Sobreveio recurso de revista, inadmitido. Realça pendente agravo de instrumento.
+    Conforme discorre, o Supremo, ao implementar a medida acauteladora no processo objetivo, afastou, no tocante ao artigo 114, inciso I, da Constituição Federal, na redação conferida pela Emenda de nº 45/2004, interpretação que inclua, na competência da Justiça trabalhista, causas instauradas entre Poder Público e servidor, alusivas a relação de cunho estatutário. Destaca a contratação da interessada mediante liame administrativo, para atender necessidade temporária, com base no artigo 66 da Lei Orgânica municipal e na de nº 278/1993, por meio da qual instituído o regime próprio do funcionalismo local. Evoca jurisprudência.
+    Requer, no campo precário e efêmero, a suspensão do acórdão impugnado e do curso do processo originário. Busca a cassação do ato atacado e a declaração de nulidade dos praticados pela Justiça especializada.
+    2. Tem-se, a esta altura, quando da formalização da reclamação, o julgamento definitivo da ação direta de inconstitucionalidade nº 3.395. O chamado Plenário Virtual, na Sessão finda em 14 de abril de 2020, confirmou a medida de urgência implementada, adotando óptica restrita ao afastamento de qualquer sentido dado ao inciso I do artigo 114 da Constituição Federal, na redação conferida pela Emenda de nº 45/2004, que implique admissão da competência da Justiça do Trabalho para apreciar questões atinentes a regime especial, de caráter jurídico-administrativo.
+    Segundo se extrai das peças que instruem a reclamação, a interessada não postulou, na origem, o recebimento de valores decorrentes de regime estatutário. Busca a condenação do ente público ao pagamento dos depósitos do Fundo de Garantia do Tempo de Serviço. Está presente a articulação, como causa de pedir, da regência do vínculo pela Consolidação das Leis do Trabalho. Não há a arguida contrariedade ao assentado no processo objetivo. Define-se a competência conforme a ação proposta. Se a causa de pedir é a relação de natureza celetista, pretendendo-se parcelas trabalhistas, a análise do tema cabe à Justiça do Trabalho, e não à comum.
+    Observem a organicidade e a instrumentalidade do Direito. Parte-se de exercício interpretativo para guindar, com queima de etapas, controvérsia ao Supremo.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 18 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
