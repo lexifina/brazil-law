@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de Mandado de Injunção em face de omissão legislativa atribuída ao Presidente da República, ao Presidente do Senado Federal e Presidente da Câmara dos Deputados, relativamente à ausência de legislação complementar que regulamente a aposentadoria especial dos servidores públicos portadores de deficiência permanente, o que inviabiliza o exercício do direito à aposentadoria.
+    Na inicial, a parte autora apresenta as seguintes alegações de fato e de direito (fls. 2/3):
+    É servidor público estadual na secretaria da Fazenda de Minas Gerais na função de técnico fazendário da administração financeira desde 10 de julho de 1991, hoje com 55 anos de idade, totalizando 37 anos e 102 dias, sendo deficiente físico de grau moderado para grave, desde a nascença.
+    No entanto, como citado no parágrafo primeiro a deficiência é permanente desde sua nascença, desta maneira o mesmo já era deficiente na posse do cargo atuando nesta situação.
+    A deficiência do Impetrante, também, já fora comprovada, pela junta médica do órgão público em que o mesmo é lotado, conforme laudo de avaliação deficiência física, anexo IX datado no dia 12 de janeiro 2015 e 16 julho 2019, documentos em anexo, que identifica o requerente como portador de nanismo.
+    (...)
+    O IMPETRANTE buscou a APOSENTADORIA DO DEFICIENTE POR TEMPO DE CONTRIBUIÇÃO no regime próprio em que está vinculado, porém lá recebeu a NEGATIVA que seu pedido não poderia ser apreciado por não haver LEI FEDERAL autorizando o Estado de Minas Gerais a agir de tal forma.
+    Sendo assim, busca apreciação de seu pedido de aposentadoria especial na qualidade de servidor público portador de deficiência, com base no artigo 40, parágrafo 4º, inciso I, da Constituição Federal.
+    Traz em juízo que o IMPETRANTE possui 55 anos em idade e 37 anos e 102 dias no cargo público. Nos termos da LC 142/2013 em seu art. 3°, inciso II, o portador de deficiência em grau moderado, possui aos 29 (vinte e nove) anos de tempo de contribuição, se homem, trabalhados nesta situação, possui o direito a aposentadoria por tempo de contribuição. Nos termos da mesma lei é disciplinado que por perícia médica será averiguado se a situação de deficiência foi no trilhar dos anos trabalhados.
+    É sabido por todos que a referida norma constitucional não tratou em especialidade do servidor público e carece de regulamentação, motivo pelo qual os pedidos administrativos em regimes próprios são reiteradamente negados pela administração.
+    Dessa forma, é fato que tal comando constitucional necessita urgentemente de regulamentação, uma vez que, por ausência legislativa, a autora está impedida de exercer seu direito.
+    Ao final, requer a concessão da ordem a fim de que seja determinada cação ao pedido administrativo de aposentadoria especial da impetrante, na condição de portadora de deficiência (art. 40, § 4º, I da CF/88), as regras aplicáveis aos trabalhadores do Regime Geral de Previdência Social, quais sejam, a Lei nº 8.213/1991 aos casos nos quais alcançadas as condições para a aposentadoria especial antes do advento da Lei Complementar nº 142/2013, e o desta no tocante às situações em que o implemento ocorreu depois da promulgação (fl. 9).
+    É o relatório. Decido.
+     Nos termos do art. 102, I, q, do texto constitucional, compete ao Supremo Tribunal Federal processar e julgar, originalmente, o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, da Mesa de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal.
+    No caso, o impetrante, na qualidade de servidor público estadual, fundamenta seu pleito em omissão relativa ao artigo 40, § 4º, I da Constituição Federal.
+    Ocorre, porém, que o art. 40, § 4º-A, da Carta da República, incluído pela Emenda Constitucional 103/2019, predica que cada ente político da Federação deverá estabelecer, em relação a seus próprios agentes estatais, por meio de leis complementares a serem editadas no âmbito de cada uma das unidades federadas, o respectivo regime especial de aposentadoria dos servidores portadores de deficiência (MI 4245, Rel. Min. LUIZ FUX, Pleno, julgada em 25/4/2020) – o que caracteriza a inviabilidade do presente mandado de injunção, dada a manifesta incompetência desta CORTE para exame do pedido.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, evidenciada a incompetência desta CORTE, NÃO CONHEÇO DO PEDIDO.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 18 de junho de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
