@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “RECURSO DE REVISTA. AÇÃO CIVIL PÚBLICA. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. RETENÇÃO DE VALORES POR ADVOGADO. RELAÇÃO CÍVEL OU DE CONSUMO. Consoante se depreende do acórdão regional, "a competência da Justiça do Trabalho para garantir o provimento efetivo de suas decisões não admite interpretação tão extensiva a ponto de abranger problemas que derivem da relação advogado-cliente". Nesse contexto, é impossível divisar ofensa ao art. 114, I e IX, da CF, porquanto não se está diante de relação de trabalho capaz de atrair a competência desta Justiça Especializada para o exame da lide. Recurso de revista não conhecido”. (eDOC 31, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 114, I e IX; e 133 do texto constitucional.
+    Nas razões recursais, alega-se que a causa não versaria sobre cobrança de honorários advocatícios previstos em contrato de natureza civil ou consumerista, mas sobre a efetividade das decisões trabalhistas e intangibilidade das verbas trabalhistas objeto de condenação judicial. (eDOC 45, p. 11)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que seria cível a natureza do objeto da lide deduzida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “In casu, consoante delineado pelo Tribunal de origem, ‘entendo que a Justiça do Trabalho não tem competência material para apreciar a presente lide. Isso porque se trata de conflito de interesses decorrentes não de relação de trabalho, mas sim da relação cível ou mesmo relação de consumo (advogado-cliente)’.
+    Nesse contexto, ainda que se trate de retenção de valores oriundos de reclamações trabalhistas, a pretensão gira em torno da relação mantida entre advogado e cliente, a qual não se insere no âmbito da competência desta Justiça Especializada, porquanto não configura relação de trabalho”. (eDOC 31, p. 9)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO DO TRABALHO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CONTROVÉRSIA ENTRE EMPREGADOS E SEU SINDICATO. DESCONTO DE HONORÁRIOS ADVOCATÍCIOS DO CRÉDITO TRABALHISTA. REEXAME SOBRE A NATUREZA DA DISCUSSÃO. SÚMULA 279/STF. 1. Dissentir do Tribunal de origem quanto à natureza da discussão travada entre as partes ultrapassa os limites cognitivos desta Corte, a atrair a incidência da Súmula 279/STF. (...)”. (ARE 1.249.979 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 25.5.2020)
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PRESTAÇÃO DE SERVIÇO. AÇÃO DE COBRANÇA. COMPETÊNCIA. NATUREZA DO VÍNCULO EXISTENTE ENTRE AS PARTES. NECESSIDADE DE REEXAME DE PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Para dissentir da conclusão adotada pelo acórdão recorrido no que se refere à natureza do vínculo existente entre as partes, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279 desta Corte. Precedentes. II – Agravo regimental a que se nega provimento”. (ARE 758.390 ED, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 4.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 18 de junho de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
