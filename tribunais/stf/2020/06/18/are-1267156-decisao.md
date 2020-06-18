@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. RITO ORDINÁRIO. SERVIDORES PÚBLICOS APOSENTADOS. GAE. MEDIDA PROVISÓRIA N° 2.150-39/2001. TRANSFORMAÇÃO EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA - VPNI. AUSÊNCIA DE DECESSO REMUNERATÓRIO. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA.
+    1. ‘A GAE - Gratificação de Atividade Executiva, então paga nos termos da Lei Delegada 13/92, não foi suprimida da remuneração dos servidores públicos federais com a edição da MP 2.150- 41/2001, mas apenas transformada em Vantagem Pessoal Nominalmente Identificada (VPNI), sendo reajustada em decorrência da revisão geral de remuneração, não ocorrendo, assim, violação do princípio constitucional da irredutibilidade dos proventos dos servidores com a referida transformação.’ (AMS 2001.38.00.027691-6/MG, Rel. Juiz Federal Miguel Angelo de Alvarenga Lopes (conv.)
+    2. A GDAE foi estendida às aposentadorias e pensões no mesmo percentual fixo destinado aos servidores em atividade, não se havendo de falar em ofensa à regra da paridade então presente o art. 40 § 8°, da CF/88.
+    3. Apelo desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação aos arts. 37, XV, e 40, § 8º, da CF.
+    O recurso extraordinário não pode ser admitido, tendo em vista que a decisão recorrida está alinhada com a jurisprudência do Supremo Tribunal Federal (STF), que, após reconhecida a repercussão geral da matéria no RE 563.965, Relª. Minª. Cármen Lúcia, fixou o entendimento de que não há direito adquirido à forma de composição dos vencimentos, tendo em vista a inexistência de direito adquirido a regime jurídico. Assegurou-se, por outro lado, a irredutibilidade de vencimentos e proventos. Veja-se a ementa do julgado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento”.
+     Quanto à inexistência de decesso remuneratório, dissentir da conclusão do Tribunal de origem demandaria nova análise da legislação infraconstitucional pertinente, assim como dos fatos e do material probatório constantes dos autos, providência inviável neste momento processual (Súmulas 279 e 280/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 18 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
