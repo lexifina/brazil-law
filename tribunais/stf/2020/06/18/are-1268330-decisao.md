@@ -1,0 +1,25 @@
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso extraordinário com fundamento no art. 102, III, a, da Constituição Federal.
+    O agravante alega violação dos arts. 5°, IV e IX; e 37, caput, da Carta Magna.
+    Sustenta, em síntese, que
+    “[e]ntende a defesa técnica merecer reforma o acórdão recorrido ante a impossibilidade de considerar compatível com a nova ordem constitucional, instaurada com a Constituição Federal de 1988, o tipo penal previsto no artigo 331 do CP. Com efeito, os funcionários públicos estão sujeitos a um maior controle por parte da sociedade, sendo certo que as leis que punem a manifestação ofensiva dirigida a funcionários públicos atentam contra a liberdade de expressão, em seu enfoque crítico/fiscalizatório da Administração Pública, ao abrigo dos incisos IV e IX, do art. 5°, c/c art. 37, caput, todos da Constituição da República, conforme melhor será visto adiante.
+    A criminalização do desacato é incompatível com o sistema constitucional vigente, na medida em que proporciona um maior nível de proteção aos funcionários públicos do que aos cidadãos civis, suprimindo o debate essencial para o funcionamento de um sistema verdadeiramente democrático e restringindo, desnecessariamente, o direito à liberdade de pensamento e de expressão, direitos fundamentais garantidos pelo primeiro artigo 5°, IV e IX, c/c art. 37, caput, todos da Constituição da República.
+    […]” (págs. 12-13 do documento eletrônico 14).
+    Ao final, requer
+    “[...] seja admitido o presente Recurso Extraordinário pela alínea a do inciso III, do art. 102, da Constituição da República, para que o mesmo seja conhecido e provido pelo Egrégio Supremo Tribunal Federal, para reformar o acórdão em virtude da afronta ao artigo 5°, inciso IV e IX, c/c art. 37, caput, todos da Constituição da República e absolver o réu ante a inconstitucionalidade do tipo penal previsto no art. 331 do Código Penal, o qual deve ser tido como não recepcionado pela ordem constitucional vigente.
+    […]” (pág. 17 do documento eletrônico 14).
+    A pretensão recursal não merece acolhida.
+    Colho trecho do acórdão proferido pela Segunda Turma Recursal Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, no que pertine ao exame do recurso:
+    “[...]
+    No mérito, meu voto será pelo não provimento do apelo, pois não há incompatibilidade entre crime de desacato e o conteúdo da Convenção Interamericana de Direitos Humanos. O direito à liberdade de expressão, previsto na referida Convenção, não deve ter um condão absoluto, uma vez que não deve ser uma escusa para ofensas sem limitações a funcionários públicos, no exercício de suas funções. A liberdade de expressão, ainda que um direito de todos, não pode ser usada como defesa para a prática de um crime que tutela um bem tão importante, que é respeito ao funcionário público, um representante do Estado que busca garantir a consecução do interesse público.
+    […]” (pág. 3 do documento eletrônico 8).
+    Verifico que o acórdão recorrido está em consonância com o entendimento consolidado por esta Corte no sentido de que o art. 331 do Código Penal foi recepcionado pela Constituição Federal de 1988, sendo o crime de desacato também compatível com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). Transcrevo, por oportuno, as ementas abaixo:
+    “Habeas corpus. 2. Crime de desacato a militar (art. 299 do Código Penal Militar). 3. Controle de constitucionalidade (arts. 1º; 5º, incisos IV, V e IX, e 220 da Constituição Federal) e de convencionalidade (art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). 4. Alegada ofensa à liberdade de expressão e do pensamento que se rejeita. 5. Criminalização do desacato que se mostra compatível com o Estado Democrático de Direito. 6. Ordem denegada” (HC 141.949/DF, Rel. Min. Gilmar Mendes).
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Crime de desacato (CP, art. 331). Recepção pela Constituição Federal de 1988. Artigo 13 da CADH (Pacto de São José da Costa Rica). Compatibilidade. Agravo regimental não provido.
+    1. A Segunda Turma da Corte, no julgamento do HC nº 141.949/DF, Relator o Ministro Gilmar Mendes, DJe de 21/3/18, assentou a recepção do crime de desacato pela Constituição Federal de 1988 (CF, art. 5º, IV, da CF), bem como a compatibilidade da figura penal do desacato com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica).
+    2. Agravo regimental a que se nega provimento” (ARE 1.049.152-AgR/DF, Rel. Min. Dias Toffoli).
+    Nessa linha, são as seguintes decisões: ARE 1.127.673/DF, Rel. Min. Celso de Mello; RE 1.120.118/AM e RE 1.121.884/AM, Rel. Min. Dias Toffoli; ARE 1.056.927/RS e ARE 1.133.857/DF, Rel. Min. Luiz Fux; RHC 143.206/RS, Rel. Min. Alexandre de Moraes; HC 143.968/RJ e HC 149.580/SC, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
