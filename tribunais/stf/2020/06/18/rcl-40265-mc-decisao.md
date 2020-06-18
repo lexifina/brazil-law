@@ -1,0 +1,32 @@
+DECISÃO
+VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinícius Machado Calixto assim retratou o caso:
+    Cemig Distribuição S.A. afirma haver a Terceira Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0001643-13.2012.5.03.0018, inobservado o verbete vinculante nº 10 da Súmula do Supremo, bem assim o decidido na ação declaratória de constitucionalidade nº 16.
+    Segundo narra, a interessada, Kátia de Oliveira Silva Marques, ajuizou ação contra si na condição de tomadora de serviços, objetivando o recebimento de verbas trabalhistas não pagas pela prestadora de serviços. Relata a procedência dos pedidos, tendo sido mantido o entendimento em sede de recurso ordinário, no que declarada a falha na fiscalização e, consequentemente, a responsabilidade subsidiária. Protocolado recurso de revista, não foi conhecido. Aponta pendente o juízo de retratação, à luz do contido no artigo 1.030, inciso II, do Código de Processo Civil, ante a interposição de recurso extraordinário.
+    Destaca a desnecessidade de prévio esgotamento das instâncias ordinárias tendo em conta alegada violação a verbete vinculante e ao decidido em processo objetivo.
+    Aponta contrariedade ao verbete vinculante nº 10, sustentando afastados, com alegada base na Constituição Federal e por órgão fracionário, os artigo 71, § 1º, da Lei nº 8.666/1993 – no que proíbe a transferência dos encargos trabalhista para o ente estatal tomador dos serviços e o artigo 8º, cabeça e § 2º, da Consolidação das Leis do Trabalho. Eis o teor das normas:
+    [...]
+    Art. 71. O contratado é responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+    § 1º A inadimplência do contratado, com referência aos encargos trabalhistas, fiscais e comerciais não transfere à Administração Pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do contrato ou restringir a regularização e o uso das obras e edificações, inclusive perante o Registro de Imóveis.
+    […]
+    Art. 8º – As autoridades administrativas e a Justiça do Trabalho, na falta de disposições legais ou contratuais, decidirão, conforme o caso, pela jurisprudência, por analogia, por equidade e outros princípios e normas gerais de direito, principalmente do direito do trabalho, e, ainda, de acordo com os usos e costumes, o direito comparado, mas sempre de maneira que nenhum interesse de classe ou particular prevaleça sobre o interesse público.
+    […]
+    § 2º Súmulas e outros enunciados de jurisprudência editados pelo Tribunal Superior do Trabalho e pelos Tribunais Regionais do Trabalho não poderão restringir direitos legalmente previstos nem criar obrigações que não estejam previstas em lei.
+    [...]
+    Acrescenta ofendido o assentado na ação declaratória de constitucionalidade nº 16, na qual declarada a validade do artigo 71, § 1º, da Lei nº 8.666/1993, a vedar a transferência à Administração Pública da responsabilidade pelo pagamento de encargos trabalhistas em razão da inadimplência de empresa contratada. Diz reafirmada idêntica óptica quando do julgamento do recurso extraordinário nº 760.931, a impedir a imposição, de forma automática, de obrigação ao Poder Público pelos referidos créditos. Assevera inexistir prova de culpa na situação concreta relativamente à fiscalização do cumprimento das obrigações contratuais assumidas pela prestadora dos serviços. Evoca jurisprudência.
+    Frisa a competência privativa da União, tendo em conta o artigo 22, inciso XXVII, da Constituição Federal, para legislar sobre normas gerais de licitação e contratação. Destaca a adoção de óptica linear pelo Tribunal de origem a respeito da imposição de responsabilidade subsidiária à Administração. Argumenta caber ao trabalhador demonstrar a falha na fiscalização. Cita jurisprudência.
+    Sob o ângulo do risco, ressalta dano irreparável ante a real possibilidade de constrição de verbas públicas.
+    Requer, em sede liminar, a suspensão do ato impugnado e do processo trabalhista. Busca, alfim, a cassação do pronunciamento atacado.
+    2. Quanto ao arguido desrespeito ao verbete vinculante nº 10, nota-se o afastamento, na origem, do § 1º do artigo 71 da Lei nº 8.666/1993, no que exclui a responsabilidade automática da tomadora dos serviços. Acabou atribuída à Administração, de forma linear, obrigação subsidiária pelos créditos trabalhistas. Em 24 de novembro de 2010, o Plenário do Supremo julgou procedente o pedido formulado na ação declaratória de constitucionalidade nº 16/DF e concluiu pela harmonia do mencionado parágrafo com a Constituição Federal. Em 30 de março de 2017, apesar da ausência de eficácia vinculante, reiterou o entendimento, sob o ângulo da repercussão geral, por ocasião da apreciação do recurso extraordinário nº 760.931. Confiram o seguinte trecho do acórdão impugnado:
+    […]
+    Cabe, portanto, ao ente público a comprovação da efetiva fiscalização do cumprimento da legislação trabalhista por parte da prestadora de serviços por ele contratada, em razão da obrigação fiscalizatória que lhe impõe o art. 67 da Lei 8.666/93 e à luz do princípio da aptidão para a prova.
+    Na hipótese dos autos, não produziu a 2ª ré - CEMIG Distribuição S/A - qualquer prova de que tenha fiscalizado o cumprimento das obrigações trabalhistas decorrentes do contrato de prestação de serviços, configurando-se culpa in vigilando, a ensejar sua responsabilização subsidiária.
+    Portanto, diante da decisão do excelso STF e da jurisprudência da mais alta corte trabalhista, na sua melhor interpretação, está correta a decisão do Juízo a quo que condenou a 2ª ré, subsidiariamente, ao pagamento das parcelas trabalhistas deferidas à obreiro nesta ação.
+    […]
+    A constatação do afastamento do artigo 71, § 1º, da Lei nº 8.666/1993, sem observância da cláusula de reserva de plenário, torna prejudicada a alegada negativa de vigência do artigo 8º, cabeça e § 2º, da Consolidação das Leis do Trabalho.
+    3. Defiro a liminar para suspender, até a decisão final nesta reclamação, a eficácia do acórdão proferido pela Terceira Turma do Tribunal Regional do Trabalho da 3ª Região no recurso ordinário nº 0001643-13.2012.5.03.0018.
+    4. Citem o interessado e solicitem informações. Colham, em seguida, o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 18 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
