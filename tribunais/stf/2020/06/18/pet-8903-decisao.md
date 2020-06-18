@@ -1,0 +1,52 @@
+Trata-se de representação criminal formulada em face do Ministro do Supremo Tribunal Federal Celso de Mello, decano desta Corte, por suposta ofensa aos arts. 1º, III e 5º, VIII, X e XVI, da Constituição Federal – CF e, ainda, por alegadamente estar incurso nos delitos tipificados nos arts. 139, 140 e 141, III, todos do Código Penal.
+    Segundo a inicial, o autor seria advogado e “incondicionalmente apoiador da Direita e do Presidente Jair Messias Bolsonaro”, integrando ativamente diversos grupos constituídos por pessoas conservadoras, além de ser assíduo participante de manifestações públicas de apoio ao atual Presidente da República.
+    Nesta condição, o autor afirma, verbis:
+    “O Noticiado é MINISTRO DO SUPREMO TRIBUNAL FEDERAL, e, portanto, tem o DEVER MORAL e DEVER DE CAUTELA em suas aparições públicas, seja através de entrevistas, quer seja por notas veiculadas pela “grande mídia”.
+    Todavia, nesta data, 31 de maio de 2020, o Noticiado, demonstrando sua abjeção à DIREITA, AO PRESIDENTE JAIR MESSIAS BOLSONARO e aos CONSERVADORES, chamados de ‘bolsonaristas, o qual este Noticiante tem o orgulho de fazer parte, ‘vazou’ um suposto e-mail que supostamente teria sido enviado a membros desta corte.
+    Mas, é de conhecimento público que dentro desta Suprema Corte ocorrem ‘vazamentos seletivos’ de decisões que ainda sequer foram publicadas (e pode provar o que está afirmando PET 8808/DF) e outras informações, como este e-mail supostamente vazando, com teor altamente ofensivo à HONRA, DIGNIDADE E DECORO deste Noticiante.”
+    Sustenta que a manifestação atribuída ao Ministro Celso de Mello seriam ofensivas à sua honra, na qualidade de apoiador do Chefe do Poder Executivo Federal, cujo conteúdo e forma traduziriam grave ofensa à sua dignidade e decoro.
+    Aduz, ainda, que:
+    “Por ricochete, sendo este Noticiante um ‘ORGULHOSO BOLSONARISTA’, CONSERVADOR e de DIREITA, também recebe a pecha de ‘GENOCIDA’, o que é fomentado por declarações infelizes e repletas de ódio propagadas por pessoas que possuem a obrigação inversa, qual seja, CUIDAR DA IMAGEM ALHEIA e FAZER CUMPRIR A CONSTITUIÇÃO FEDERAL.
+    [...]
+    Ora, quando o Noticiado afirma que ‘bolsonaristas’ estão propondo intervenção militar para a volta da ditadura e ainda comparando ao NAZISMO, é absolutamente uma declaração abjeta e ofensiva a todos os apoiadores do Presidente Jair Messias Bolsonaro, o qual este Noticiante tem orgulho em fazer parte desde o primeiro dia.”
+    Ao pontuar a ocorrência de crimes contra “a sua honra”, afirma que a presente notitia criminis destina-se à futura propositura de ação penal, uma vez configurados o animus diffamandi e o animus injuriandi, requerendo a notificação da Procuradoria-Geral da República, por ser a “titular da ação penal, para, nos termos do art. (sic) 27, 38, 39 e 40, CPP, com fito de tomar as medidas cabíveis aos fatos gravíssimos narrados em face da Autoridade Noticiada, que ofendeu a honra, dignidade e decoro do noticiante, e outros 58 milhões de ´bolsonaristas´”.
+    É o relatório. Decido.
+    Bem examinados os autos, entendo que o caso é de arquivamento sumário da representação criminal.
+    Registro, inicialmente, que o art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal – RISTF atribui ao relator o poder de negar seguimento a pedido contrário à jurisprudência dominante ou manifestamente improcedente, sendo esta a hipótese dos autos.
+    Sublinho, ainda, que nessas hipóteses pode ser dispensada a vista à Procuradoria-Geral da República, na forma do art. 52, parágrafo único, do RISTF.
+    Os fatos trazidos à lume nesta representação criminal, imputados ao Decano desta Suprema Corte, estão lastreados em declarações e condutas supostamente ofensivas à honra do noticiante, que se autointitula “bolsonarista” e apoiador incondicional do Presidente da República, Jair Messias Bolsonaro.
+    Para melhor compreensão do tema, entendo oportuno trazer à baila a redação dos dispositivos penais relativamente aos quais o noticiante se diz “sujeito passivo”, verbis:
+    “Art. 139 - Difamar alguém, imputando-lhe fato ofensivo à sua reputação:
+    Pena - detenção, de três meses a um ano, e multa.
+    [...]
+    Art. 140 - Injuriar alguém, ofendendo-lhe a dignidade ou o decoro:
+    Pena - detenção, de um a seis meses, ou multa.
+    [...]
+    § 2º - Se a injúria consiste em violência ou vias de fato, que, por sua natureza ou pelo meio empregado, se considerem aviltantes:
+    Pena - detenção, de três meses a um ano, e multa, além da pena correspondente à violência.
+    Art. 141 - As penas cominadas neste Capítulo aumentam-se de um terço, se qualquer dos crimes é cometido:
+    I - contra o Presidente da República, ou contra chefe de governo estrangeiro;
+    II - contra funcionário público, em razão de suas funções;
+    III - na presença de várias pessoas, ou por meio que facilite a divulgação da calúnia, da difamação ou da injúria.
+    [...]
+    Art. 145 - Nos crimes previstos neste Capítulo somente se procede mediante queixa, salvo quando, no caso do art. 140, § 2º, da violência resulta lesão corporal.
+    Parágrafo único. Procede-se mediante requisição do Ministro da Justiça, no caso do inciso I do caput do art. 141 deste Código, e mediante representação do ofendido, no caso do inciso II do mesmo artigo, bem como no caso do § 3ºdo art. 140 deste Código”.
+    Como deflui da simples leitura dos dispositivos legais acima transcritos, verifica-se, de pronto, que os crimes de calúnia, difamação e injúria são delitos de ação penal privada e, por consequência, só podem ser processados mediante queixa, salvo quando, no caso do art. 140, § 2º, da violência praticada resultar lesão corporal, o que não é o caso. Por isso mesmo, inexiste legitimidade concorrente do Ministério Público para propor ação penal pública.
+    No modelo estabelecido pela ordem constitucional vigente, o Ministério Público – e somente ele - detém o monopólio estatal para a propositura da ação penal pública, cabendo-lhe “promover, privativamente, a ação penal pública, na forma da lei” (art. 129, I, da CF, grifei), ressalvada a hipótese da ação privada subsidiária (art. 5º, LIX, da CF). Por isso mesmo não cabe ao Parquet propor a ação penal privada como aqui se cogita.
+    Na hipótese de suposta prática de delito contra a honra do Presidente da República - o que não é o caso dos autos, pois, como ressaltado, o noticiante se diz ofendido em sua própria honra - a ação penal dependerá de requisição do Ministro da Justiça.
+    Daí porque a representação criminal manejada pelo noticiante, que, inclusive, pretende o envio desta representação para a PGR, traduz medida manifestamente inapropriada.
+    Há, contudo, um segundo óbice insuperável ao processamento da presente representação, pois, em um exame ainda que perfunctório de sua admissibilidade, salta à vista que os fatos nela descritos não trazem indícios, ainda que mínimos, de materialidade delitiva.
+    Com efeito, da análise dos pronunciamentos tidos como ofensivos, verifico que, dado o seu elevado grau de generalidade, as quais, de resto, fazem alusão a conhecidos episódios da História, não é possível extrair qualquer identidade com os tipos penais apontados na representação, sendo certo que não há neles qualquer menção ao noticiante e nem mesmo alguma expressão que pudesse, ainda que reflexamente, atingi-lo. Isso leva à inexorável conclusão da total atipicidade dos atos imputados ao Decano desta Corte, cuja conduta, ao longo das várias décadas em que vem servindo à causa da Justiça, sempre se pautou pelos mais elevados padrões éticos.
+    Nem mesmo ofensa reflexa existe, pois o fato de o autor dizer-se entusiasta do Chefe do Poder Executivo Federal não o torna sujeito passivo de qualquer afirmação feita pelo Ministro Celso de Mello. Tal elasticidade de exegese das elementares típicas do delito, destaco, é de todo incompatível com a legalidade estrita inerente às condutas subsumidas à esfera do Direito Criminal.
+    Como lecionava o saudoso Professor Damásio de Jesus, “para que ocorra o crime contra a honra é necessário que a ofensa se dirija contra pessoa certa e determinada” (Direito Penal, Parte Especial- Crimes Contra a Pessoa e Crimes Contra o Patrimônio – arts. 121 a 183 do CP. vol. 2. 36 ed. São Paulo: Saraiva, 2020, pág. 488).
+    Consoante também já decidiu esta Suprema Corte, os crimes contra a honra pressupõem, para sua configuração estrutural e típica, a existência de um sujeito passivo determinado e conhecido, como destacado pela Ministra Rosa Weber no julgamento da PET 5.956/DF. Confira-se:
+    “Desde logo registro entender que as expressões publicadas não foram dirigidas especificamente à querelante. A montagem contava com a imagem de um grupo de pessoas, entre as quais figurava a querelante. Todavia, o querelado não cita nominal ou diretamente a querelante, tendo direcionado sua fala aos movimentos sociais em geral. A imagem é representativa, para os fins da crítica, não somente daquele coletivo de manifestantes, mas, igualmente, dos movimentos sociais atuantes no atual cenário político e vinculados a partidos políticos criticados pelo querelado.
+    [...]
+    5.1. É pressuposto dos crimes contra a honra a determinação do sujeito passivo, uma vez que a honra é atributo da pessoa, sendo ela física ou jurídica. A identificação da vítima tem de ser minimamente possível, ainda que não haja a citação nominal. A eventual ofensa dirigida a um grupo de pessoas não configura ilícito para os fins do preconizado nos arts. 139 e 140 do Código Penal, dada a impossibilidade de individualização do destinatário da conduta e a inexistência, ao menos jurídica, de um conceito de honra coletiva.” (grifei).
+    Como se verifica do quanto acima descrito, não há nenhuma possibilidade de enquadrar as condutas imputadas ao Ministro Celso de Mello em qualquer das figuras típicas apontadas.
+    Longe de evidenciar a prática de quaisquer delitos, a inicial, ao revés, revela claro descontentamento de seu subscritor com as medidas legitimamente adotadas pelo Ministro Decano, na qualidade de Relator do INQ 4.831/DF, as quais, destaco, têm seguido estritamente a ordem constitucional e legal, cumprindo, ainda, e de forma escrupulosa, o que consta do art. 230 e seguintes do RISTF.
+    Isso posto, determino o arquivamento sumário deste procedimento.
+    Publique-se.
+    Brasília, 18 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
