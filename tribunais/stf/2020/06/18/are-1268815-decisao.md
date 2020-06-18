@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão, cuja ementa segue parcialmente transcrita:
+    “APELAÇÃO. MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL. COTA SOCIAL. ALUNO DE REDE PÚBLICA. OUTRA UNIDADE DA FEDERAÇÃO. INTERPRETAÇÃO EXTENSIVA.
+    1. A interpretação de uma norma pode ser, quanto aos resultados, declarativa, extensiva ou restritiva. A interpretação extensiva é uma correção do texto legal para alcançar o verdadeiro sentido da norma, por concluir que o texto disse menos do que pretendia.
+    2. O princípio da máxima efetividade, no campo constitucional, orienta que se deve atribuir o sentido que dê maior eficácia à norma constitucional.
+    3. Quando a Lei Distrital n. 3.361/2004 reserva vagas nas universidades e faculdades públicas do Distrito Federal para alunos oriundos de escolas públicas do Distrito Federal, deve-se evitar interpretá-la de modo excludente, no sentido de que alunos oriundos de outras unidades da Federação sejam excluídos do benefício, o que acabaria por acarretar a violação ao princípio da isonomia e a própria invalidação da lei. O intérprete deve, ao contrário, buscar a interpretação mais compatível com a Constituição Federal e que reforce o sentido da norma, que seria garantir o acesso ao nível superior aos alunos hipossuficientes. A interpretação, portanto, deve ser ampliativa, estendendo o benefício a alunos de outras unidades da Federação.
+    4. Apelação e remessa necessária desprovidas.” (documento eletrônico 12).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação dos arts. 2°; 37, I e II; 97; 205; 207; da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, informo que a violação do art. 2° e 97, da CF/1988, não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, cito o ARE 772.836-AgR/PE, da relatoria do Ministro Dias Toffoli, Segunda Turma, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    3. Agravo regimental não provido” (grifei).
+    Além disso, dissentir das razões adotadas pelo acórdão recorrido, e verificar a procedência dos argumentos consignados no recurso extraordinário, demandaria a interpretação prévia da Lei distrital 3.361/2004 e do Decreto 25.394/2011, o que é vedado pela Súmula 280/STF. Inviável, portanto, o recurso extraordinário. Em sentido semelhante:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. VANTAGEM PESSOAL. BASE DE CÁLCULO. GRATIFICAÇÃO POR TEMPO DE SERVIÇO. LEI ESTADUAL 10.470/1991. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes.
+    II - Agravo regimental improvido” (ARE 677.144-AgR/MG, de minha relatoria, Segunda Turma - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
