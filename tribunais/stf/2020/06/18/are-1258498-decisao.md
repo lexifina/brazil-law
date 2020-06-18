@@ -1,0 +1,34 @@
+DECISÃO:
+    Em 15/05/2020, proferi decisão negando seguimento ao recurso extraordinário por considerá-lo deserto, nos seguintes termos:
+    “Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    Decido.
+    Analisados os autos, verifica-se que o recurso extraordinário não foi devidamente preparado, mesmo tendo sido a parte intimada a efetuar o recolhimento, na forma do art. 1.007, § 4º, CPC/15.
+    Assim, não se verifica o atendimento da exigência contida no art. 1.007, caput, do Código de Processo Civil, o que leva a deserção do recurso. Nesse sentido: ARE nº 1.082.020, Rel. Min. Ricardo Lewandowski, DJe de 20/10/17; ARE nº 993.673/RS, Rel. Min. Gilmar Mendes, DJe de 16/2/17.
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (DJe de 20/05/2020).
+    O recorrente, por meio da Petição nº 36.299/2020, protocolada em 25/05/2020, vem informar e requerer o que se segue:
+    “O presente Recurso foi considerado deserto, contudo não consta dos autos apreciação do requerimento de gratuidade de justiça carreada no presente recurso.
+    Mister frisar, ainda, que em conformidade com o art. 99, § 1º, do novo CPC/2015, o pedido de gratuidade da justiça pode ser formulado por petição simples e durante o curso do processo, tendo em vista a possibilidade de se requerer em qualquer tempo e grau de jurisdição os benefícios da justiça gratuita, ante a alteração do status econômico.
+    Ainda sobre a gratuidade a que tem direito, o novo Código Instrumentalista dispõe em seu art. 99, § 3º, que “presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural”. Assim, à pessoa natural basta a mera alegação de insuficiência de recursos, sendo desnecessária, num primeiro momento, a produção de provas da hipossuficiência financeira.
+    Desde já o Recorrente acosta aos sua CTPS que comprova que o mesmo encontra-se desempregado.
+    Assim, ex positis, pois, requer-se os benefícios da assistência judiciária gratuita.
+    Requer, na oportunidade, o prosseguimento do feito” (eDoc. 39).
+    Decido.
+    A alegação do recorrente de que a decisão que reputou deserto o apelo extremo deixou de apreciar o pedido de gratuidade de justiça formulado na petição do recurso extraordinário não tem o condão de alterar a decisão que negou seguimento ao recurso, haja vista que, mesmo que se afaste a deserção do recurso extraordinário, o referido recurso não pode ser conhecido em virtude do que dispõe a Súmula nº 281 do Supremo Tribunal Federal.
+    Consoante entendimento da mencionada súmula nº 281/STF, é necessário que a parte interponha todos os recursos ordinários perante o tribunal de origem antes de buscar a instância extraordinária.
+    Nesse sentido, os seguintes precedentes: ARE nº 788.525/PR-AgR, Rel. Min. Ricardo Lewandowski, DJe de 19/2/14; ARE nº 731.916/SP-AgR, Rel. Min. Joaquim Barbosa (Presidente), DJe 11/11/13; ARE nº 730.431/RJ-ED, Rel. Min. Cármen Lúcia, DJe de 7/2/14.
+    Dessa forma, cabia à parte ora recorrente, antes de interpor o recurso extraordinário, impugnar, por meio de agravo interno, a decisão monocrática do Relator que não conheceu do recurso inominado, por considerá-lo deserto.
+     Assim, não esgotada a jurisdição na Corte a quo, mostra-se manifestamente incabível o recurso extraordinário.
+    Ademais, nem mesmo um eventual deferimento do pedido de assistência judiciária gratuita no âmbito do STF seria suficiente para afastar a deserção do recurso inominado anteriormente reconhecida pelo Juízo de origem, haja vista que a posterior concessão do benefício, incidentemente postulado, não teria o condão de retroagir para afastar a deserção já dantes configurada nos autos.
+    Tal entendimento vem sendo reiteradamente repetido por esta Corte, conforme se colhe da ementa do seguinte julgado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. PREPARO. DESERÇÃO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 287. NORMAS INFRACONSTITUCIONAIS. OFENSA INDIRETA. BENEFÍCIO DA JUSTIÇA GRATUITA. BENEFÍCIO FUTURO. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - O agravante não atacou todos os fundamentos do acórdão recorrido, o que atrai a incidência da Súmula 287 do STF. II - A jurisprudência do Supremo Tribunal Federal é no sentido de que incumbe ao recorrente comprovar, no ato de interposição do recurso, o pagamento do respectivo preparo. Precedentes. III - É que a apreciação do tema constitucional, no caso, demanda o prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. IV - O deferimento do benefício da gratuidade da justiça, só produz efeitos futuros, assim, julgado deserto o recurso, de nada adiantaria a concessão posterior do benefício. Precedentes. V - Recurso protelatório. Aplicação de multa. VI - Agravo regimental improvido” (AI nº 744.487-AgR/DF, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe de 16/10/09 – grifo nosso).
+    Por fim, cumpre assentar a existência de outro óbice intransponível ao acolhimento da pretensão formulada pelo autor no recurso extraordinário.
+    O Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 759.421/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência da repercussão geral da matéria relativa à possibilidade de denegação da gratuidade de justiça com base nas provas dos autos, em virtude da natureza infraconstitucional dessa questão. A decisão do Pleno está assim ementada:
+RECURSO. Extraordinário. Incognoscibilidade. Gratuidade de Justiça. Declaração de hipossuficiência. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à declaração de hipossuficiência, para obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional (DJe de 13/11/09 - Tema 188).
+    A declaração de ausência de repercussão geral da única questão devolvida no referido recurso extraordinário, também impede, induvidosamente, o acolhimento da pretensão recursal.
+    Ante o exposto, indefiro o pedido formulado na Petição nº 36.299/2020 e mantenho a negativa seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de junho de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
