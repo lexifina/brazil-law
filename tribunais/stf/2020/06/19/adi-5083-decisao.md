@@ -1,0 +1,28 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PREVIDENCIÁRIO. MENOR SOB GUARDA. EQUIPARAÇÃO A FILHO. SUPRESSÃO. LEI N. 9.528/1997. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Ação direta de inconstitucionalidade, com requerimento de medida cautelar, ajuizada pelo Conselho Federal da Ordem dos Advogados do Brasil – OAB, em 11.10.2013, com o objetivo de obter a declaração de inconstitucionalidade do art. 2º da Lei n. 9.528/1997, pela qual se alterou o § 2º do art. 16 da Lei n. 8.213/1991 (Lei de Planos de Benefícios da Previdência Social), nos termos seguintes:
+    “Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de dependentes do segurado:  (...)
+    § 2º. O enteado e o menor tutelado equiparam-se a filho mediante declaração do segurado e desde que comprovada a dependência econômica na forma estabelecida no Regulamento”.
+    A norma alterada (da Lei 9.528/1997) estabelecia:
+    “Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de dependentes do segurado:
+    (...)
+    § 2º Equiparam-se a filho, nas condições do inciso I, mediante declaração do segurado: o enteado; o menor que, por determinação judicial, esteja sob a sua guarda; e o menor que esteja sob sua tutela e não possua condições suficientes para o próprio sustento e educação”.
+    2. Sustenta o autor que, ao suprimir os menores sob guarda do rol de beneficiários de pensão por morte do segurado do Instituto Nacional do Seguro Social, na norma impugnada teriam sido desrespeitados os princípios constitucionais do Estado Democrático de Direito (art. 1º); da dignidade da pessoa humana (inc. III do art. 3º); da máxima eficácia e efetividade das normas definidoras de direitos fundamentais (§ 1º do art. 5º); da segurança jurídica (caput do art. 5º); da proteção integral da criança e do adolescente como medida protetiva de direitos ( § 3º do inc. II do art. 227) e o princípio da proteção da confiança.
+    Defende que “a pensão por morte de segurado, garantida originariamente pela redação anterior da Lei Federal nº 8.213/91, ao menor sob guarda, era (e é!) direito previdenciário conquistado e garantido em face do inciso II do § 3º do 227 da Carta Maior, não podendo sofrer retrocessão na forma insculpida pela Lei Federal nº 9.528/97” (fl. 6).
+    Alega que o benefício previdenciário representaria direito fundamental do menor sob guarda e que sua supressão atentaria contra o princípio que veda o retrocesso social em direitos fundamentais.
+    Advoga a inconstitucionalidade da norma “por violação ao princípio constitucional da isonomia (art. 5º, caput, CF), eis que a criança sob guarda está na mesma posição jurídica que o filho, enteado, ou menor sob tutela e dependência econômica, não havendo razão legítima para a discriminação introduzida pela Lei Federal nº 9.528/97, que fora desigualitária e anti-isonômica” (fl. 9).
+    Pontua haver “violação ao princípio constitucional da proporcionalidade (artigo 5º, inciso LIV, CF), tendo em conta os subprincípios da adequação, necessidade e proporcionalidade em sentido estrito” (fl. 10).
+    Afirma que “a medida legislativa inaugurada pela Lei Federal nº 9.528/97 viola o art. 227, caput, e §3º, incisos II e VI da Carta Magna, haja vista que retira o benefício pensão por morte a todos os menores em idêntica situação de guarda para fins previdenciários” (fl. 13).
+    Requer medida cautelar para “suspender a eficácia do artigo 2º da Lei Federal nº 9.528/97, na parte em que altera a redação do §2º do art. 16 da Lei Federal nº 8.213/91, (…) em razão dos fundamentos acima elencados e, notadamente, em face da alta relevância social e moral da questão ora versada, a repercutir na esfera de milhares de crianças e adolescentes sob guarda judicial em toda a federação brasileira” (fl. 15).
+    No mérito, pede “seja julgado procedente o pedido de declaração de inconstitucionalidade do art. 2º da Lei Federal nº 9.528/97, no ponto em que alterou o artigo 16, § 2º, da Lei Federal nº 8.213/91 (revogou em parte), ou lhe seja conferida interpretação conforme a Constituição ou haja declaração de inconstitucionalidade sem redução de texto, para o fim de se garantir o pensionamento ao menor sob guarda, por morte de segurado do INSS”(fl. 16).
+    3. Em 28.3.2014, o Ministro Dias Toffoli, então Relator, adotou o rito do art. 12 da Lei n. 9.868/1999 (doc. 10).
+    4. Em 29.1.2015, o Procurador-Geral da República suscitou a necessidade de redistribuição da presente ação, por prevenção, ao Ministro Gilmar Mendes, Relator da Ação Direta de Inconstitucionalidade n. 4.878. Destacou que, por haver “identidade de objeto entre esta ação direta e a ADI 4.878/DF, aliada ao risco de decisões contraditórias,[estaria] evidencia necessidade de reunião dos processos para julgamento conjunto pelo Plenário do Supremo Tribunal Federal”.
+    4. No art. art. 77-B do Regimento Interno do Supremo Tribunal Federal se estabelece:
+    “Na ação direta de inconstitucionalidade, na ação direta de inconstitucionalidade por omissão, na ação declaratória de constitucionalidade e na arguição de descumprimento de preceito fundamental, aplica-se a regra de distribuição por prevenção quando haja coincidência total ou parcial de objetos”.
+    5. A Ação Direta de Inconstitucionalidade n. 4.878, ajuizada pelo Procurador-Geral da República, em 19.11.2012, tem como objeto o art. 2º da Lei n. 9.528/1997, pela qual se alterou o § 2º do art. 16 da Lei n. 8.213/1991. Há, portanto, identidade total de objetos.
+    6. Pelo exposto, submeto este processo à apreciação da Presidência do Supremo Tribunal Federal para o exame de eventual redistribuição por prevenção.
+    Publique-se.
+    Brasília, 19 de junho de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
