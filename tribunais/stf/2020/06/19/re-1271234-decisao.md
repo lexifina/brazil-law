@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se concluiu pela validade da penhora de bem de família pertencente a fiador de contrato de locação comercial, conforme autorizada pelo art. 3°, VII, da Lei 8.009/1990. O acórdão recorrido foi assim ementado:
+    “AGRAVO DE INSTRUMENTO. LOCAÇÃO. EXECUÇÃO DE SENTENÇA. IMPENHORABILIDADE. BEM IMÓVEL DO FIADOR. IMPENHORABILIDADE NÃO RECONHECIDA.
+    Em se tratando de imóvel do fiador do contrato de locação, descabe falar em impenhorabilidade nos termos do art. 3º, VII, da Lei n. 8009/1990” (pág. 19 do documento eletrônico 8).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação dos arts. 1°, caput e III; 6°; 97 e 226 da mesma Carta, sob o argumento de que, conforme recente jurisprudência do Supremo Tribunal Federal, não é admitida a penhora de imóvel de fiador de contrato de locação comercial.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com o entendimento desta Corte firmado no sentido de que é impenhorável o bem de família do fiador em contrato de locação de imóvel comercial. Nesse sentido, destaco o RE 605.709/SP, redatora para o acórdão a Ministra Rosa Weber, Primeira Turma, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO MANEJADO CONTRA ACÓRDÃO PUBLICADO EM 31.8.2005. INSUBMISSÃO À SISTEMÁTICA DA REPERCUSSÃO GERAL. PREMISSAS DISTINTAS DAS VERIFICADAS EM PRECEDENTES DESTA SUPREMA CORTE, QUE ABORDARAM GARANTIA FIDEJUSSÓRIA EM LOCAÇÃO RESIDENCIAL. CASO CONCRETO QUE ENVOLVE DÍVIDA DECORRENTE DE CONTRATO DE LOCAÇÃO DE IMÓVEL COMERCIAL. PENHORA DE BEM DE FAMÍLIA DO FIADOR. INCOMPATIBILIDADE COM O DIREITO À MORADIA E COM O PRINCÍPIO DA ISONOMIA.
+    1. A dignidade da pessoa humana e a proteção à família exigem que se ponham ao abrigo da constrição e da alienação forçada determinados bens. É o que ocorre com o bem de família do fiador, destinado à sua moradia, cujo sacrifício não pode ser exigido a pretexto de satisfazer o crédito de locador de imóvel comercial ou de estimular a livre iniciativa. Interpretação do art. 3º, VII, da Lei nº 8.009/1990 não recepcionada pela EC nº 26/2000.
+    2. A restrição do direito à moradia do fiador em contrato de locação comercial tampouco se justifica à luz do princípio da isonomia. Eventual bem de família de propriedade do locatário não se sujeitará à constrição e alienação forçada, para o fim de satisfazer valores devidos ao locador. Não se vislumbra justificativa para que o devedor principal, afiançado, goze de situação mais benéfica do que a conferida ao fiador, sobretudo porque tal disparidade de tratamento, ao contrário do que se verifica na locação de imóvel residencial, não se presta à promoção do próprio direito à moradia.
+    3. Premissas fáticas distintivas impedem a submissão do caso concreto, que envolve contrato de locação comercial, às mesmas balizas que orientaram a decisão proferida, por esta Suprema Corte, ao exame do tema nº 295 da repercussão geral, restrita aquela à análise da constitucionalidade da penhora do bem de família do fiador em contrato de locação residencial.
+    4. Recurso extraordinário conhecido e provido”.
+    No mesmo sentido, cito julgado da Segunda Turma deste Tribunal:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONTRATO DE LOCAÇÃO DE IMÓVEL COMERCIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA DO FIADOR. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 1.228.652-AgR/RJ, Rel. Min. Cármen Lúcia).
+    Com idêntico entendimento, menciono ainda as seguintes decisões, entre outras: RE 1.268.112/RS, Rel. Min. Gilmar Mendes; RE 1.256.594/RS, Rel. Min. Edson Fachin; e RE 1.223.149/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento.
+    Publique-se.
+    Brasília, 19 de junho de 2020.
+      Ministro Ricardo Lewandowski
+Relator
