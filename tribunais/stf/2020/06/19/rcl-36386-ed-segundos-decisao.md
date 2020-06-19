@@ -1,0 +1,26 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual cassei a liminar anteriormente deferida e neguei seguimento à reclamação (documento eletrônico 22).
+    A embargante alega, em suma, o seguinte:
+    “Com todo o respeito, a respeitável decisão padece de uma omissão, no sentido de declarar um defiance, que persiste, mesmo à luz da ratio decidendi ofertada.
+    É que a respeitável decisão assenta-se em um distinguishing que não se compatibiliza com o caso em apreço.
+    Como se sabe, em se tratando de exercício de mandatos temporários, como é o caso de presidente da Associação dos Juízes para a Democracia, o tempo é um fator determinante para a solução do caso. É o tempo que define o que seja cassação e o que seja suspensão.
+    Uma medida aparentemente provisória, como a suspensão dos efeitos de uma autorização ou licenciamento para presidir associação de classe, pode suscitar efeitos definitivos que prejudicam o exercício regular de direito.
+    Como se observa da decisão reclamada, com supressão – ao menos imediata – do contraditório e da ampla defesa, que são os direitos fundamentais aqui objeto da tutela da Súmula Vinculante nº 3, suspendeu-se o exercício do direito à licença prevista em Lei Complementar, sob o especioso argumento de que a Associação dos Juízes para a Democracia não seria entidade de classe dos juízes.
+    Entre a suspensão e anulação, aqui, a distinção não consegue oferecer qualquer disparidade real. Sim, porque a suspensão corresponde à anulação, conquanto precária, do exercício do direito durante o mandato, acaba por se tornar definitiva” (págs. 9-10 do documento eletrônico 31).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico que a embargante, a pretexto de sanar suposta omissão, busca apenas a rediscussão da matéria.
+    Com efeito, o entendimento desta Corte é no sentido de que os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes desta Corte:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO PENAL E PROCESSUAL PENAL.ESTELIONATO. ARTS. 171, § 3º, DO CÓDIGO PENAL E 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. NÃO OCORRÊNCIA. APRECIAÇÃO DAS TESES DEFENSIVAS. AUTORIA E MATERIALIDADE DELITIVA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. MANUTENÇÃO DO DECISUM. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    1. Os embargos de declaração visam ao aperfeiçoamento da prestação jurisdicional, com a sua entrega de forma completa, e ao aclaramento dos julgados, quando presentes omissão, contradição, obscuridade e/ou ambiguidade ao feitio do art. 619 do Código de Processo Penal, admitida, ainda, a correção de eventuais erros materiais.
+    2. Ausência de omissão justificadora da oposição de embargos declaratórios, ao feitio do art. 619 do CPP, a evidenciar o caráter meramente infringente da insurgência.
+    3. Embargos de declaração rejeitados” (ARE 1.140.216-AgR-ED/PA, Rel. Min. Rosa Weber).
+    “EMBARGOS DE DECLARAÇÃO – MATÉRIA PENAL – INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE, OMISSÃO OU AMBIGUIDADE – PRETENDIDO REEXAME DA CAUSA – CARÁTER INFRINGENTE – INADMISSIBILIDADE NO CASO – EMBARGOS DE DECLARAÇÃO REJEITADOS. OS EMBARGOS DE DECLARAÇÃO NÃO SE REVESTEM, ORDINARIAMENTE, DE CARÁTER INFRINGENTE – Não se revelam cabíveis os embargos de declaração quando a parte recorrente – a pretexto de esclarecer uma inexistente situação de obscuridade, omissão, contradição ou ambiguidade (CPP, art. 619, e RISTF, art. 337) – vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes” (ARE 1.101.140-ED-AgR-ED/SP, Rel. Min. Celso de Mello).
+    Na espécie, o que se tem é mero inconformismo da embargante com o resultado que não lhe foi favorável. Ao contrário do que sustenta, não há vício a ser sanado, uma vez que a análise da reclamação foi exauriente e a decisão está em consonância com a jurisprudência do Supremo Tribunal Federal.
+    Conforme já consignado, a jurisprudência desta Corte é pacífica no sentido de que os atos reclamados devem guardar estrita aderência ao conteúdo das decisões do STF, o que não ocorre no caso dos autos.
+    Isso porque o ato reclamado apenas determinou a suspensão da decisão concessória de licença para representação de classe, enquanto a súmula vinculante trata de anulação ou revogação de ato administrativo que beneficie o interessado.
+    Ressalto, ainda, que a própria afirmação da embargante no sentido de que “[é] o tempo que define o que seja cassação e o que seja suspensão” (pág. 9 do doc. eletrônico 21) demonstra que o ato reclamado não se ajusta, com exatidão e pertinência, ao verbete sumular invocado.
+    Assim, como a via reclamatória somente pode ser acionada se houver estrita aderência entre o conteúdo do ato reclamado e o paradigma apontado, não merece acolhimento a pretensão da reclamante.
+    Isso posto, rejeito os embargos de declaração (art. 1.024, § 2°, do CPC).
+    Publique-se.
+    Brasília, 19 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
