@@ -1,0 +1,24 @@
+DECISÃO
+    Vistos etc.
+    Passo a deliberar sobre a realização da perícia.
+    Trata-se de ação ajuizada pelo Estado do Piauí em face da União, Banco Nacional de Desenvolvimento Econômico e Social - BNDES, e das Centrais Elétricas Brasileira S/A – ELETROBRAS, pela qual pleiteada indenização em razão de supostos prejuízos causados pelo alegado não cumprimento dos contratos firmados entre as partes para a desestatização da empresa distribuidora de energia elétrica CEPISA (ELETROBRAS-PI, à época do ajuizamento).
+    Alega o autor que, conforme contratos realizados por volta do ano de 1.997, lhe seria devido, quando do futuro leilão de privatização da CEPISA, o pagamento da diferença entre 90% do valor obtido com a venda das ações e o valor que lhe fora antecipado (R$ 120.003.368,27 - cento e vinte milhões, três mil, trezentos e sessenta e oito reais e vinte e sete centavos). Sustenta que, no ano 2.000, a CEPISA foi avaliada por empresa contratada pelo BNDES em R$ 260.400.000,00 (duzentos e sessenta milhões e quatrocentos mil reais).
+    Além desse valor, alega também estabelecido contratualmente o pagamento de possível ágio, considerando os valores obtidos com o leilão de diversas Companhias Energéticas do mesmo porte da CEPISA no mesmo período.
+    Entretanto, segundo também alega o autor, o processo de privatização só foi retomado pelas rés 20 anos depois, em um cenário econômico-financeiro totalmente diverso daquele que, segundo sustenta, deveria ter sido ultimado, de forma a lhe causar extremo prejuízo.
+    No curso do presente feito, conforme informado pela corré ELETROBRÁS “o leilão de privatização da Companhia Energética do Piauí - CEPISA, foi realizado pelo Banco Nacional do Desenvolvimento Econômico e Social - BNDES na, Bolsa, Balcão - B3 no dia 26 de julho de 2018, e resultou na venda do controle acionário da distribuidora por R$ 50.000,00 para a Equatorial Energia S.A.” (evento 128, destaquei).
+    Em suma, pede o autor na presente ação:
+    a) seja considerado o valor estabelecido como preço mínimo da empresa, na avaliação econômico-financeira, realizada no ano de 2.000, no montante de R$ 260.400.000,00 (duzentos e sessenta milhões e quatrocentos mil reais), valor contemporâneo à data em que houve a entrega (federalização) da empresa para fins de leilão, regularmente corrigido pelo mesmo critério fixado nos instrumentos contratuais celebrados entre as partes, para pagamento da diferença devida pela transferência das ações da empresa para a ELETROBRAS; e
+    b) que sejam os réus condenados a lhe indenizar em razão do prejuízo pela demora na finalização do processo de desestatização, no valor equivalente ao preço mínimo de avaliação da empresa, realizado no ano de 2000, devidamente corrigido pelo mesmo critério fixado nos instrumentos contratuais celebrados entre as partes, acrescido do ágio a ser apurado pela média dos percentuais de ágio obtido na venda à época de empresa de porte equivalente à CEPISA.
+    Portanto, controvertem as partes sobre o cumprimento de contrato de alienação de ações da Companhia Energética do Piauí – CEPISA, a existência de dano e eventual dever de indenizar bem como, em caso positivo, o seu quantum.
+    Porque fundamentais do Juízo, necessários ao esclarecimento da causa, formulo os seguintes quesitos a serem respondidos pelos peritos (art. 470, II, do CPC), sem prejuízo daqueles a serem apresentados pelas partes:
+    1) Houve mora dos réus para a realização do leilão da empresa CEPISA? Em caso positivo, quais os motivos da mora e qual dos réus foi por ela responsável?
+    2) Qual o valor da CEPISA à época de sua federalização? E qual sua correção pelos critérios contratuais até a data do efetivo leilão ocorrido em 2018?
+    4) Qual o valor do ágio, se apurado pela média dos percentuais de ágio obtidos na venda à época de empresas de porte equivalente?
+    5) A CEPISA sofreu prejuízo entre a data de sua federalização e a do efetivo leilão, ocorrido em 2.018? Em caso positivo, quem arcou com tal prejuízo?
+    Ante a concordância das partes (eventos 210, 211 e 213) quanto à designação de servidores da área Técnica do Tribunal de Contas da União para a elaboração da perícia nestes autos, determino:
+    1. Intimem-se as partes para, no prazo de 15 (quinze) dias, apresentar quesitos e nomear assistentes técnicos.
+    2. Após, decorrido o prazo, oficie-se à Presidência do Tribunal de Contas da União solicitando a sua manifestação quanto à possibilidade de elaboração da perícia por seu corpo técnico e, caso positivo, que designe os servidores para tal mister (arts. 471 e 91, § 1º, do CPC). Instrua-se o ofício com cópias desta decisão, dos documentos constantes nos eventos 01, 35, 49, 50, 35, 54, 128, 165, 166, 177, 179, 186, 198, 204, 206 e dos quesitos a serem apresentados pelas partes em resposta ao item anterior.
+    Publique-se e intimem-se.
+    Brasília, 19 de junho de 2020.
+Ministra Rosa Weber
+Relatora
