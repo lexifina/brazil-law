@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE EMBARGOS DE DECLARAÇÃO No 1021829-84.2018.8.11.0041 (ID no 46180969 - interposto nos autos do Recurso de Apelação Cível autuado sob mesmo número - CLASSE 198 - CNJ - Capital)
+Embargante : RONNAN MARTINS DE VASCONCELOS
+Embargado : BANCO J. SAFRA S.A.
+Número do Protocolo : 1021829-84-84.2018.8.11.0041 (ID no 46180969)
+Recurso de EMBARGOS DE DECLARAÇÃO interposto por RONNAN MARTINS DE VASCONCELOS nos autos do Recurso de Apelação Cível no 1010940-91.2018.8.11.0041 – Classe 198 – Capital, interposto contra a decisão proferida em 01.06.2020, que desproveu o recurso interposto pelo autor/embargante, e, por outro lado, proveu o recurso interposto pelo Banco/embargado, para julgar improcedente o pedido, mantendo os encargos expressamente contratados Cédula de Crédito Bancário de no 011450001 14366, emitida pelo embargante em razão do embargado (cf. ID 42322991).
+O embargante diz que a decisão objurgada padece de contradição consistente no fato de rejeitou a tese de cerceamento de defesa, contudo, “desproveu o pedido de reconhecimento de juros acima do contratado ao fundamento de ausência de provas” (cf. fls. 02 ID 46180969), assim, insistindo na arguição de cerceamento de defesa, pede sejam acolhidos os embargos para que o vício apontado seja sanado e, reformada a decisão recorrida, seja anulada a r. sentença por cerceamento de defesa, remetendo-se os autos à Comarca de origem para retomada da fase instrutória, oportunizando a realização da prova pericial contábil.
+O Banco/embargado contra-arrazoou o recurso com réplica às razões recursais e pugnando pela rejeição dos aclaratórios (cf. ID 46712988).
+É o relatório.
+D E C I D O
+No pronunciamento do eg. STJ, os “embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.” (Segunda Seção - EDcl no AgInt nos EAREsp 969978/MS Embargos de Declaração no Agravo Interno nos Embargos de Divergência em Agravo em Recurso Especial 2016/0220161-6 – Ministra NANCY ANDRIGHI – Julgado em 13.12.2017 – DJe do dia 15.12.2017).
+A decisão não padece de quaisquer dos vícios do art. 1.022 do CPC/2015; leitura das razões recursais se verifica é que o intuito do embargante é promover a rediscussão dos fatos e fundamentos que levaram à rejeição da tese de juros remuneratórios exigidos acima do contratado.
+Sobre a arguição de cerceamento de defesa, como constou da decisão hostilizada, a “revisão judicial dos contratos exige apenas análise jurídica de suas cláusulas; a redefinição de valores, se cabível, demanda apenas cálculo aritmético, e, no caso, a tese de defesa se vinculava apenas à suposta ilegalidade das cobranças realizadas pelo Banco”, depois, conquanto o embargante “alegue que o Banco/apelante tenha exigido juros remuneratórios superiores ao contratado, o conjunto probatório não corrobora essa assertiva, porque, não se verifica do acervo probatório qualquer cobrança acima do estipulado na cédula objeto do litígio; o autor/apelante não instruiu os autos com qualquer documento que demonstrasse que o Banco/apelante exigiu o valor da parcela acima do expressamente pactuado, o que poderia ter sido comprovado pelo autor/apelante com facilidade mediante a juntada dos boletos mensais eventualmente emitidos acima do valor mensal da prestação fixada na cédula (R$ 785,43)” - (cf. ID 44868959).
+No caso, a r. decisão apenas decidiu contrariamente à tese defendida pelo embargante, sendo incabível a interposição de embargos de declaração apenas para expressar o inconformismo da parte embargante contra o comando judicial que lhe foi desfavorável, porque, em tais casos, o que se faz é simples rediscussão da matéria recursal.
+Assim, rejeito os embargos de declaração e mantenho incólume a decisão embargada por seus próprios fundamentos.
+Intimem-se.
+Cuiabá/MT, 22 de junho de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
