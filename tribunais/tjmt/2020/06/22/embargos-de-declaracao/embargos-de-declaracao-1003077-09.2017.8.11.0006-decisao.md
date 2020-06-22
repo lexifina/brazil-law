@@ -1,0 +1,22 @@
+Decisão do Presidente da Câmara.
+Vistos e examinados.
+Recurso de embargos de declaração opostos por JOSEMARI DE OLIVEIRA CAMPOS EIRELLI – EPP, através da petição de ID 41169463, visando esclarecimentos quanto ao acórdão proferido no ID no 21379481 pelo colegiado da 2a Câmara de Direito Privado.
+A parte Embargante formula questionamentos acerca da necessidade de submissão do presente recurso de apelação cível à técnica de julgamento alongado (art. 942, do CPC), em razão da divergência quanto aos valores da pensão e do valor indenizatório.
+Com relação ao tema, a questão foi enfrentada quando do julgamento do recurso, conforme se verifica do ID 12384470.
+Mesmo assim, a fim de complementar a decisão, anota-se que diante da deliberação da ilustre Desembargadora Relatora e da leitura do acórdão, do corpo do voto, das notas taquigráficas, verifica-se que o recurso foi conhecido e parcialmente provido à unanimidade nos termos do voto da relatora, havendo divergência do 1o Vogal Des. Sebastião de Moraes Filho e da 2o Vogal Desa. Clarice Claudino da Silva tão somente com relação ao ‘quantum’ da indenização a título de pensionamento e dos danos morais (ID 12384470).
+Importante esclarecer, que na ocasião do julgamento, no que tange ao pensionamento, a relatora fixou 50% sobre o salário que a vítima recebia como autônoma e, em face da culpa concorrente, fixou o dano moral em R$15.000,00, enquanto que o 1o Vogal acompanhado da 2a Vogal divergiram da eminente relatora para que o pensionamento seja fixado 50% sobre o salário mínimo e para que o dano moral passe a ser de R$ 30.000,00, sendo, portanto, duas manifestações diferenciadas, mas, apenas quanto ao patamar de valores.
+Assim, é correto afirmar, que efetivamente foi provido em parte o recurso a unanimidade, e, que não há voto minoritário, mas, só vencedores, e, deverá constar, no acórdão, a estipulação dos valores dos honorários atribuídos pela Relatora, 1a e 2o vogal, diante da regra do § 5o do art. 94 do Regimento Interno do TJMT, assim prescrito:
+“Art. 94 (...)
+“§ 5° - Tratando-se de determinação do valor ou quantidade, o resultado do julgamento será expresso pelo quociente da divisão dos diversos valores ou quantidades homogêneas, pelo número de Juízes votantes.”
+Conclui-se, portanto, que, em relação aos danos morais, em sendo quantitativo e não qualitativo, não incide a regra do artigo 942 do CPC e, desta forma, em relação aos danos morais, deverá ser obtido pela meda aritmética obtida, somando-se os três valores e dividindo pelo número de julgadores, ou seja, R$ 25.000,00 (vinte e cinco mil reais).
+Com relação a os valores da pensão e a alegada necessidade de aplicação da regra do artigo 942 do CPC/15, tendo em vista o julgamento não unânime do recurso de apelação, tenho que prospera a pretensão da embargante.
+Sobre o tema dispõe o artigo 942 do CPC/15:
+“Art. 942. Quando o resultado da apelação for não unânime, o julgamento terá prosseguimento em sessão a ser designada com a presença de outros julgadores, que serão convocados nos termos previamente definidos no regimento interno, em número suficiente para garantir a possibilidade de inversão do resultado inicial, assegurado às partes e a eventuais terceiros o direito de sustentar oralmente suas razões perante os novos julgadores.”
+Verifica-se do referido dispositivo que qualquer divergência que resulte em julgamento não unânime deve ser submetida à técnica de julgamento ampliado.
+Nesse sentido:
+“Não interessa a matéria objeto da divergência: não sendo unânime o julgamento, este deve prosseguir com a agregação de novos julgadores. Ainda que a discrepância esteja circunscrita, p. ex. , à matéria de honorários sucumbenciais, o julgamento deve ser alongado.” (NEGRÃO, Theotonio; GOUVÊA, José Roberto F.; BONDIOLI, Luis Guilherme A.; FONSECA, João Francisco N.da. Código de Processo Civil e Legislação Processual em vigor. 47a ed. atual. e reform.. São Paulo: Editora Saraiva, 2016. pg. 842.)
+Assim, no que tange ao pensionamento, havendo divergência, ainda que somente em relação a sua incidência - se 50% sobre o valor recebido como autônoma ou, 50% sobre o valor do salário mínimo - deve a questão ser submetida à técnica de julgamento alongado.
+Desta forma, sanado esta situação, determino a remessa dos autos à eminente Desembargadora Relatora originária, para as demais providências cabíveis ao caso, grafando à mesma as considerações de estilo.
+Às providências.
+Des. Sebastião de Moraes Filho.
+= Presidente da Câmara =
