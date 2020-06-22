@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Douglas Cristiano Alves Lopes em favor de Erivaldo Lima da Silva, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da lavra do Ministro Nefi Cordeiro, exarado nos autos do HC 575.588/MT.
+    O paciente foi denunciado e preso cautelarmente pela suposta prática do crime de organização criminosa (art. 2º, § 2º, da Lei 12.850/2013).
+    Irresignada, a Defesa formulou pedido de extensão em habeas corpus, impetrado em benefício de corréu, perante o Tribunal de Justiça de Mato Grosso que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Nefi Cordeiro, indeferiu liminarmente o HC 575.588/MT. Ato contínuo, a Sexta Turma da Corte Superior negou provimento ao agravo regimental.
+    No presente writ, o Impetrante argumenta, em síntese, falta de fundamentação idônea do decreto prisional, porquanto ausentes os requisitos autorizadores. Defende a identidade de situação fática e jurídica em relação aos corréus beneficiados com liberdade provisória, nos termos do art. 580 do CPP. Ressalta a existência de circunstâncias favoráveis, como residência fixa e ocupação lícita. Aponta a pandemia da Covid-19 e a Recomendação nº 62/2020 do CNJ para reforçar a necessidade dos pleitos. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE RECURSAL. ORDEM EM SEDE DE PEDIDO DE EXTENSÃO. DECISÃO LIMINAR INDEFERIDA NA ORIGEM. SÚMULA 691/STF. MANUTENÇÃO DO ÓBICE. NECESSIDADE DE EXAME DA MATÉRIA MERITÓRIA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE NÃO DETECTADA. FUGA DO DISTRITO DA CULPA. MANUTENÇÃO DA PRISÃO PREVENTIVA. ASSEGURAÇÃO DA APLICAÇÃO DA LEI PENAL. RECURSO IMPROVIDO.
+    1. Pedido de reconsideração apresentado dentro do quinquídio legal recebido como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+    2. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal e plenamente adotada por esta Corte, em princípio, não se admite a utilização de habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. A despeito de tal óbice processual, tem-se entendido que tão somente em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+    3. Não há manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, tendo em vista o registro de que o paciente, diferentemente do corréu ao qual a ordem foi concedida, fugiu do distrito da culpa, fundamento válido à segregação cautelar, forte na asseguração da aplicação da lei penal, consoante jurisprudência desta Corte, descabendo, em exame inicial, a extensão da ordem nos termos do art. 580 do CPP.
+    4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento”.
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte ao negar provimento ao agravo regimental defensivo. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual indeferira liminar em habeas corpus impetrado naquela Corte Estadual.
+    Ao rejeitar o pedido liminar, o Tribunal de Justiça não reputou presentes requisitos autorizadores da imediata soltura do Paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Anoto, por fim, que à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 22 de junho de 2020.
+Ministra Rosa Weber
+Relatora
