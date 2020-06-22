@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 146, III, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    “ILEGITIMIDADE PASSIVA Execução fiscal IPTU do exercício de 2016 Imóvel alienado fiduciariamente ao banco executado Sujeição passiva do devedor fiduciante, nos termos dos Artigos 32 e 34 do Código Tributário Nacional e o Artigo 27 da Lei 9.514/97 Precedentes do STJ e desta Corte Ilegitimidade passiva do credor fiduciário - Exceção de pré-executividade acolhida Extinção da execução fiscal determinada, nos termos do artigo 485, inciso VI, do CPC - Recurso provido.”
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. RETROAÇÃO DO MARCO INTERRUPTIVO DA PRESCRIÇÃO À DATA DA PROPOSITURA DA AÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. PRESCRIÇÃO. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DA ANTERIORIDADE TRIBUTÁRIA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULAS 280 E 636 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE 1071754 AgR, Relator(a): Min. Luiz Fux, Primeira Turma, julgado em 06.5.2019, PROCESSO ELETRÔNICO DJe-101 DIVULG 14.5.2019 PUBLIC 15.5.2019).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. PARCELAMENTO E SEUS CONSECTÁRIOS LEGAIS. GARANTIA DA EXECUÇÃO FISCAL. LEI ESTADUAL 6.374/1989 E DECRETO 58.811/2012. INCIDÊNCIA DA SÚMULA 280 DO STF. DESPROVIMENTO. 1. É inviável o processamento do apelo extremo quando a análise implica rever a interpretação de legislação infraconstitucional de índole local, por incidência da Súmula 280 do STF. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC” (ARE 1114888 AgR, Relator(a): Min. Edson Fachin, Segunda Turma, julgado em 05.11.2019, PROCESSO ELETRÔNICO DJe-275 DIVULG 11.12.2019 PUBLIC 12.12.2019).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de junho de 2020.
+Ministra Rosa Weber
+Relatora
