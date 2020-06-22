@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto em face de acórdão da Terceira Turma Recursal do Estado do Rio Grande do Sul que, em juízo de retratação, deu parcial provimento ao recurso da parte autora. Veja-se trecho pertinente do acórdão recorrido:
+    “[…]
+    Com efeito, o voto é no sentido de reconhecer os períodos de 18.05.1970 a 31.05.1973 (que corresponde a 37 meses de carência) e de 01.01.1986 a 31.12.1990 (que corresponde a 60 meses de carência), bem como é no sentido de reconhecer o direito da autora a acrescentar/agregar esse subtotal de 97 meses de carência rural aos 94 meses de carência como contribuinte individual já reconhecidos administrativamente pelo INSS (evento 17 - PROCADM1 - fl. 43), o que resulta num total 191 meses computáveis para fins de carência da aposentadoria por idade híbrida de que cuida o § 3º do já citado art. 48 da Lei nº 8.213/1991, com a redação dada pela Lei nº 11.718/2008, motivo pelo qual o recurso da parte autora merece ser provido, condenando-se o INSS à concessão de aposentadoria por idade híbrida em favor da autora a contar da DER em 30.07.2014.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 195, § 5º, e 201 da CF.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido fundamentou sua decisão na legislação infraconstitucional pertinente, bem como no material fático-probatório dos autos, cujo reexame é inviável nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Veja-se, nessa linha, o seguinte precedente, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA DE TRABALHADOR RURAL. CUMPRIMENTO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.079.183-AgR, Ministra Presidente).
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 22 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
