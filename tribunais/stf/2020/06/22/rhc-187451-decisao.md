@@ -1,0 +1,25 @@
+DECISÃO:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Execução Penal. Supressão de instâncias. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NÃO ESGOTAMENTO DA JURISDIÇÃO ORDINÁRIA. COMPETÊNCIA DO STJ NÃO INAUGURADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por este Superior Tribunal.
+    2. "Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciada pela Corte de origem, sob pena de indevida supressão de instância (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015)." (AgRg no RHC 118.447/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/10/2019, DJe 18/10/2019).
+    3. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente formulou pedido de prisão domiciliar ao Juízo da Execução Penal. Diante da ausência de apreciação do pedido, reiterou o pleito ao Juízo de plantão, que, por sua vez, deixou de conhecê-lo. Inconformada, a defesa impetrou habeas corpus no Tribunal de origem, que, por decisão monocrática do Relator, não conheceu do writ, ao fundamento de supressão de instância.
+    3. Na sequência a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Ministro Ribeiro Dantas, ao analisar o HC 571.479, indeferiu liminarmente o habeas corpus. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa afirma que “o Conselho Nacional de Justiça, acertadamente, emitiu a Recomendação 62/2020, por meio da qual foram elaboradas uma série de diretrizes a fim de diminuir o impacto da pandemia sobre a população carcerária, de forma a evitar um sem número de mortos e infectados (…). E, analisando-se a situação específica do Paciente, é fato que ele se enquadra, com perfeição, na hipótese do artigo 5º, inciso I, alínea ‘a’, e, por isso, faz por merecer que lhe seja concedido o benefício da prisão domiciliar”.
+    5. A defesa requer a concessão da ordem para determinar a imediata remoção do paciente “do ambiente prisional onde se encontra para o da sua residência, onde irá permanecer em regime de prisão domiciliar, nos termos do artigo 5º, inciso I, alínea ‘a’, da Recomendação 62/2020, do CNJ”.
+    6. Decido.
+    7.  O recurso ordinário não deve ser provido.
+    8.  Tal como consta no voto condutor do acórdão proferido pelo STJ, “o presente writ foi manejado contra decisão singular do Desembargador Relator do Tribunal de origem, sem que tenha sido julgado o agravo regimental noticiado pelo agravante, por ocasião da interposição do presente recurso. Assim, ausente o exaurimento da instância ordinária, não se conhece do pedido sob pena de indevida supressão de instância”.
+    9. A matéria ora em discussão não foi analisada pelo Tribunal de origem, nem pelo STJ, o que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias. Nessa linha, veja-se o HC 182.700-ED, Rel. Min. Alexandre de Moraes, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. HABEAS CORPUS. CRIME DE LESÃO CORPORAL EM ÂMBITO DOMÉSTICO. NULIDADE DO INQUÉRITO. TEMA NÃO APRECIADO PELO ATO REPUTADO COATOR. SUPRESSÃO DE INSTÂNCIA.
+    1. Ante o notório propósito infringente, em nome do princípio da fungibilidade recursal, os presentes Embargos serão recebidos como Agravo Regimental.
+    2. As questões suscitadas não foram objeto de apreciação no Tribunal estadual nem no Superior Tribunal de Justiça. Desse modo, qualquer juízo desta CORTE a respeito da matéria implicaria dupla supressão de instância e contrariedade à repartição constitucional de competências, o que não é admitido pela jurisprudência do STF.
+    3. Embargos de Declaração recebidos como Agravo Regimental, ao qual se nega provimento.”
+    10. E mais: as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício, notadamente se se considerar que, tal como assentou o STJ, “a despeito do indeferimento liminar do habeas corpus, pela decisão agravada, este Relator recomendou, de ofício, celeridade ao Juízo da Execução, no que tange à apreciação do pedido de prisão domiciliar formulado pela defesa do agravante, o que ora se mantém”.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 22 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
