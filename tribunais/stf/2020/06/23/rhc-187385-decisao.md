@@ -1,0 +1,15 @@
+Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Tribunal Superior Eleitoral, que negou provimento ao Agravo Regimental no HC 753-35 AgR/ES, de relatoria do Ministro Edson Fachin, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA ATO DE RELATOR EM TRIBUNAL REGIONAL ELEITORAL. INEXISTÊNCIA DE DECISÃO DO TRIBUNAL REGIONAL ELEITORAL. ART. 121, § 4º, INCISO V, DA CONSTITUIÇÃO FEDERAL. INADMISSIBILIDADE DO WRIT SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. TERATOLOGIA. AUSÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. A natureza monocrática da decisão liminar exige a sua confirmação, ou revogação, pelo órgão colegiado da Corte regional para que ocorra o necessário esgotamento daquela instância e possa ser inaugurada a jurisdição desta instância especial. Conhecer habeas corpus sem o encerramento da instância ordinária importa em inadmissível supressão de instância. Precedentes.
+    2. Não se identifica teratologia na decisão que reconhece a ausência de competência da Justiça Eleitoral para conhecer de habeas corpus contra ato da lavra da Justiça Comum.
+    3. Agravo interno desprovido” (págs. 127-132 do vol. 16).
+    É o relatório. Decido.
+    A insurgência é inviável. Isso porque o pedido veiculado neste recurso ordinário em habeas corpus é mera repetição do HC 185.378/ES, de minha relatoria, com a mesma causa de pedir e o mesmo pedido. O acórdão questionado, aliás, é o mesmo. Não conheci do referido habeas corpus, sob pena de indevida supressão de instância e de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal. Essa decisão foi mantida em agravo regimental julgado pela Segunda Turma na Sessão Virtual de 5 a 15/6/2020.
+    Mutatis mutandis, a remansosa orientação do Supremo Tribunal Federal é no sentido de não se admitir a reiteração de habeas corpus (vide RHC 121.127 AgR/SP, de relatoria do Ministro Teori Zavascki; HC 103.004/SP e RHC 91.237/MS, ambos de minha relatoria; HC 102.597/SP, de relatoria da Ministra Cármen Lúcia; HC 83.578/RJ, de relatoria do Ministro Nelson Jobim; HC 84.351/RS e HC 85.679/DF, ambos de relatoria do Ministro Carlos Velloso).
+    Na mesma linha de consideração, é ilustrativo o RHC 120.023-AgR/PE, de relatoria da Ministra Cármen Lúcia, cuja ementa possui o seguinte teor:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO IDÊNTICO AO HABEAS CORPUS IMPETRADO ORIGINARIAMENTE NO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE IDENTIDADE DE SITUAÇÕES ENTRE O RECORRENTE E OS CORRÉUS. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. É incabível a repetição do que posto em discussão e objeto de prestação jurisdicional neste Supremo Tribunal. Precedentes. […] 3. Agravo regimental ao qual se nega provimento”.
+    Isso posto, com base no art. 21, § 1º, do Regimento Interno do STF, nego seguimento a este recurso ordinário.
+    Publique-se.
+    Brasília, 23 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
