@@ -1,0 +1,34 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CÍVEL N. 1010165-10.2017.8.11.0003
+RECORRENTE: YARA VIEIRA DA SILVA PISTORI
+RECORRIDO: IMPACTUS COMERCIAL S/A (TelexFree)
+Vistos, etc.
+Trata-se de Recurso Especial interposto por YARA VIEIRA DA SILVA PISTORI, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado deste Sodalício, assim ementado (Id. 37018964):
+“APELAÇÃO CÍVEL – LIQUIDAÇÃO DE SENTENÇA – AÇÃO CIVIL PÚBLICA – TELEXFREE – EMENDA À INICIAL – AUSÊNCIA DE PROVA MÍNIMA DO ALEGADO DIREITO – TEORIA DINÂMICA DA DISTRIBUIÇÃO DO ÔNUS DA PROVA – NÃO APLICAÇÃO – PROVA POSSÍVEL DE SER PRODUZIDA PELO AUTOR – INDEFERIMENTO DA INICIAL – EXTINÇÃO DO PROCESSO – SENTENÇA MANTIDA – RECURSO DESPROVIDO. Facultado à autora a emenda da petição inicial com provas mínimas do alegado direito, esta não apresentou nenhuma prova, motivo pelo qual, indeferida a petição inicial. Não é caso de aplicar a Teoria Dinâmica da Distribuição do ônus da Prova, pois a prova determinada pelo magistrado era possível de ser produzida pelo autor. Mesmo em caso de inversão do ônus da prova, cabe à autora a produção de prova mínima.” (Ap 1010165-10.2017.8.11.0003, DESA. NILZA MARIA POSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 10/03/2020)
+A Recorrente alega violação aos arts. 373, II, §1o do CPC e 6o, VIII do CDC, além de divergência jurisprudencial, ao argumento de que o legislador deu ampla assistência àqueles que não possuem condições de provar o alegado, atribuindo tal encargo processual àquele que, de fato, possui capacidade probante, ainda que inversa.
+O recurso é tempestivo e a Recorrente é beneficiária da justiça gratuita, conforme certidões de Ids n. 43154470 e n. 43188996.
+A Recorrida não apresentou contrarrazões, conforme certidão de decurso de prazo ID n. 46659464.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Violação aos artigos 373, II, §1o do CPC e 6o, VIII do CDC. Reexame de matéria fática. Súmula 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais, o que afasta o exame de matéria fático-probatória, conforme dispõe a sua Súmula 7/STJ.
+Ao apontar a violação aos artigos 373, II, §1o do CPC e 6o, VIII do CDC, a Recorrente sustenta que o legislador deu ampla assistência àqueles que não possuem condições de provar o alegado, atribuindo tal encargo processual àquele que, de fato, possui capacidade probante, ainda que inversa.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre estes pontos, é necessário o exame dos fatos e provas dos autos, o que atrai óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR. 1. A reforma do julgado estadual, a fim de afastar a afirmação contida na decisão atacada acerca da existência dos elementos caracterizadores da responsabilidade civil, ensejaria necessário o reexame das provas juntadas aos autos, providência vedada na via eleita, por força da Súmula 7/STJ. Precedentes. 2. A análise de eventual ofensa ao artigo 373 do CPC/15, tal como posta a questão nas razões do apelo extremo, exigiria rediscussão de matéria fático-probatória, providência vedada nesta sede a teor do óbice previsto na Súmula 7 desta Corte. Precedentes. 3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade. Precedentes. 4. Agravo interno desprovido. (AgInt no AREsp 1374426/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/03/2019, DJe 22/03/2019)
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. DANOS MORAIS. EXISTÊNCIA OU VALOR DA INDENIZAÇÃO. ANÁLISE. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. ÔNUS PROBATÓRIO. VERIFICAÇÃO. SÚMULA 7/STJ. 1. Descabe ao STJ, no âmbito do recurso especial, a apreciação de supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal. 2. Em relação aos danos morais, a pretensão não pode ser conhecida, porquanto a revisão do entendimento da Corte de origem, no tocante à existência de tais danos, bem como ao valor da indenização, demandaria o revolvimento do acervo fático-probatório acostados aos autos, o que é vedado pela Súmula 7/STJ. 3. Ademais, consoante posicionamento pacificado pelo STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017). 4. Agravo Interno não provido. (AgInt no AREsp 1529089/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/06/2020, DJe 04/06/2020)”
+Assim, registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+Nesse sentido é o Enunciado n. 31 do Colégio Permanente de Vice-Presidentes de Tribunais de Justiça do Brasil - CPVIP:
+“Reconhecida a aplicabilidade da Súmula 7 do STJ com relação ao requisito previsto na alínea “a” do inciso III do art. 105 da Constituição Federal, fica prejudicado o exame do dissídio jurisprudencial invocado com fundamento na alínea “c” do mesmo dispositivo.” (Enunciado no 31 – CPVIP)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Posto isso, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá-MT, 22 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+IV
