@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0004848-28.2017.8.11.0042
+RECORRENTE: JANYELSON SILVINO DOS SANTOS
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 39927987), interposto por JANYELSON SILVINO DOS SANTOS, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 29736465):
+“APELAÇÃO CRIMINAL – CRIME DE ROUBO MAJORADO PELO CONCURSO DE AGENTES – IRRESIGNAÇÃO MINISTERIAL – DOSIMETRIA – PLEITO DE APLICAÇÃO DA MAJORANTE DO EMPREGO DE ARMA DE FOGO – PROCEDÊNCIA – POSIÇÃO TOPOGRÁFICA COM O ADVENTO DA LEI No 13.654/2018 – CAUSA DE AUMENTO DO EMPREGO DE ARMA DE FOGO NÃO EXTIRPADA – RECURSO PROVIDO. Em razão da alteração legislativa incluída pela Lei no 13.654/2018 (art. 157, § 2o-A, inciso I, do Código Penal), limitou-se a possibilidade de aumento de pena do crime de roubo à hipótese de violência cometida mediante emprego de arma de fogo, devendo ser excluída a causa de aumento do art. 157, § 2o, inciso I, do CP, tão somente para os casos de armas impróprias, ou popularmente conhecidas como “arma branca”. A nova posição topográfica dada à majorante do emprego de arma de fogo não impede o seu reconhecimento em casos de roubo ocorridos antes da nova redação legal, devendo ser aplicada a fração anterior à Lei no 13.654/18.” (Ap. 0004848-28.2017.8.11.0042, DES. PAULO DA CUNHA, PRIMEIRA CÂMARA CRIMINAL, Julgado em 11/02/2020).
+Alega violação ao art. 59 do CP, ao argumento de desproporcionalidade na exasperação da pena-base em 1 (um) ano acima do mínimo, em razão da valoração negativa de apenas uma circunstância judicial, a saber, as circunstâncias do crime.
+Recurso tempestivo (Id. 44251486).
+Contrarrazões – Id. 47111452.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, ao apontar a violação ao art. 59 do CP, defende o Recorrente a desproporcionalidade na exasperação da pena-base em 1 ano acima do mínimo legal em razão da negativação de apenas uma circunstância judicial (circunstâncias do crime).
+Todavia, conquanto pretenda rever a conclusão do acórdão impugnado acerca da correta pena-base a ser aplicada ao caso concreto, a análise desta questão exige o exame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado.
+A propósito:
+“PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADO. DOSIMETRIA. PENA PROPORCIONAL E FUNDAMENTADA EM ELEMENTOS CONCRETOS. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. 1. "O julgamento monocrático do recurso especial não constitui ofensa ao princípio da colegialidade, sobretudo porque, conforme a jurisprudência do Superior Tribunal de Justiça, com a interposição de agravo regimental, torna-se superada a alegação de violação ao referido postulado, tendo em vista a devolução da matéria recursal ao órgão julgador competente" (AgRg no REsp 1.571.787/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/5/2016, DJe 20/5/2016). 2. No que se refere à dosimetria, a jurisprudência desta Corte aduz que "não se presta o recurso especial à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias. Admite-se, contudo, o reexame quando configurada manifesta violação dos critérios dos arts. 59 e 68 do CP, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica." (AgRg no REsp 1.217.998/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/2/2016, DJe 15/2/2016). 4. No caso dos autos, a pena não se mostra desproporcional ou desarrazoada e rever os fundamentos do acórdão, nos termos como postulado pela defesa, demandaria reexame do acervo fático-probatório, o que encontra óbice na Súmula n. 7/STJ. 5. "Não cabe o apelo nobre, mesmo pela alínea 'c' do permissivo constitucional, quando a tese recursal demandar revolvimento do conjunto fático-probatório constante dos autos" (AgRg no AREsp 438.454/GO, Rel. Ministra MARILZA MAYNARD - DESEMBARGADORA CONVOCADA DO TJ/SE, SEXTA TURMA, julgado em 24/4/2014, DJe 5/5/2014). Precedentes. 6. Agravo regimental não provido.” (AgRg no AREsp 1049360/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019) (destaquei)
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. PROPORCIONALIDADE. ALTERAÇÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO. 1. Inexiste um critério puramente aritmético para a dosimetria da pena, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio, como na espécie, em que a pena varia entre quatro e dez anos e foi fixada em oito anos de reclusão. 2. Ademais, cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático-probatório a fim de analisar a adequada pena-base a ser aplicada ao réu. Óbice do enunciado n. 7 da Súmula desta Corte Superior (ut, AgInt no AREsp 865.672/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 12/5/2016). 3. Agravo regimental desprovido.” (AgRg no AREsp 1320824/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/09/2018, DJe 03/10/2018) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal no ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 23 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
