@@ -1,0 +1,25 @@
+Trata-se de agravo regimental interposto contra decisão por meio da qual neguei seguimento ao recurso extraordinário com agravo em razão da intempestividade do RE, e concedi a ordem de habeas corpus, de ofício, a fim de que o recorrido aguarde em liberdade o trânsito em julgado da sentença penal condenatória (documento eletrônico 5).
+    O agravante sustenta, em síntese, que
+    “[...] o agravado teve a sua prisão preventiva mantida quando da sentença condenatória (e permaneceu em custódia cautelar no curso do processo), ao argumento de que ‘a condenação ora proferida reconheceu a prática de reincidência específica em crime hediondo, qual seja, homicídio triplicamente qualificado’ e que ‘Tal conduta e modus operandi, com mais de 30 golpes de faca contra a vítima, demonstra a periculosidade concreta do acusado, que, nos termos do art. 312 e 313, I do Código de Processo Penal, está a exigir medida cautelar para salvaguardar a ordem pública’ […]
+    Como bem esclareceu o Conselho Nacional de Justiça (CNJ), ao emitir ‘Nota sobre julgamento das ADCs 43, 44 e 54 pelo STF’, mesmo afastada a possibilidade de execução provisória da pena, continua sendo possível aos juízos, ‘avaliando as peculiaridades de cada caso, sob a égide do mesmo artigo 312 do CPP, determinar a prisão cautelar’.
+    10. Nesse contexto, portanto, não se pode cogitar de revogação automática das custódias cautelares (prisão preventiva) decretadas com base no entendimento anterior do STF, se há nos autos do processo evidências de elementos capazes de justificar a manutenção da prisão cautelar (no caso, a nítida periculosidade do agravado, reincidente em crime de homicídio, que matou a vítima (quando estava em cumprimento de pena relativa a outro homicídio qualificado), com 30 facadas, tudo a justificar a manutenção de sua custódia para a garantia da ordem pública, de modo, inclusive, a evitar a reiteração na prática de delitos, conforme reconhecido pelo magistrado de primeiro grau).
+    […]” (págs. 2-4 do documento eletrônico 12).
+    Ao final, requer
+    “a reconsideração da decisão impugnada ou, se assim não for, o provimento do Agravo Interno para que seja desprovido o agravo no Recurso Extraordinário, com a consequente cassação da liberdade provisória deferida ao agravado.
+    […]” (pág. 4 do documento eletrônico 2).
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, verifico que assiste razão ao agravante, dado que a questão em exame não se amolda à jurisprudência indicada na decisão agravada.
+    Com efeito, o Magistrado sentenciante determinou a prisão do agravado com base nos seguintes fundamentos:
+    “[...] verifico que até o último júri o réu respondia preso ao processo. Além disso, a condenação ora proferida reconheceu a prática de reincidência específica em crime hediondo, qual seja, homicídio triplicamente qualificado. Tal conduta e modus operandi, com mais de 30 golpes de faca contra a vítima, demonstra a periculosidade concreta do acusado, que, nos termos do art. 312 e 313, I do Código de Processo Penal, está a exigir medida cautelar para salvaguardar a ordem pública. Não reputo eficácia de medida em meio aberto, até porque o crime foi cometido pouco tempo após o acusado ter sido beneficiado com prisão domiciliar, nos autos da execução penal anterior. Assim, decreto a prisão preventiva do acusado, para salvaguardar a ordem pública, neste ato intimando o réu de sua prisão e, por fim, determinando a formalização do competente mandado de prisão, a fim de que o réu seja recomendado na prisão em que se encontra.
+    […]” (págs. 36-37 do documento eletrônico 3).
+    Além disso, o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais – TJMG assim decidiu sobre a questão:
+    “[...]
+    Em relação a manutenção da prisão do apelante, ressalta-se que tal pleito já foi devidamente analisado pelo MM. Juiz sentenciante, tendo sido mantida a prisão […]” (pág. 186 do documento eletrônico 3).
+    Conforme julgamento das ADCs 43 e 44, esta Suprema Corte julgou-as procedentes para declarar a constitucionalidade do art. 283 do Código de Processo Penal – CPP, na redação dada pela Lei nº 12.403, de 4 de maio de 2011, cujo teor é o seguinte:
+    “Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva”.
+    Nesse contexto, constato que o acórdão recorrido não divergiu desse entendimento, firmado por esta Corte na análise específica da mesma controvérsia ora em exame, uma vez que a prisão do agravado foi mantida com fundamento nos arts. 312 e 313 do CPP, motivo pelo qual não prospera o recurso extraordinário.
+    Isso posto, dou provimento ao agravo regimental para reconsiderar a decisão agravada e negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
