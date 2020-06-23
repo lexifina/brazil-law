@@ -1,0 +1,40 @@
+Visto.
+Trata-se de Recursos de Agravo de Instrumento, interposto por ESTADO DE MATO GROSSO, contra decisão proferida pelo Juízo da 4a Vara Cível da Comarca de Sorriso-MT, nos autos da Ação Declaratória de Nulidade de Multa Ambiental no. 1002406-73.2020.8.11.0040, que deferiu a tutela de urgência pleiteada na exordial, para determinar ao requerido a expedição de Certidão Positiva com Efeitos de Negativa Estadual com relação ao credito não tributário (Multa Ambiental) objeto da demanda, mediante oferecimento de caução real do imóvel ofertado na inicial.
+Aduz que não ficou demonstrado nos autos originários os requisitos do artigo 300 do Código de Processo Civil, necessários para o deferimento da tutela de urgência pleiteada na exordial.
+Sustenta que embora seja admitida a emissão de certidão negativa mediante oferecimento de caução, o Superior Tribunal de Justiça entende que a garantia deve se dar por meio de deposito integral e em dinheiro do crédito impugnado.
+Afirma que o oferecimento de imóvel para garantir o juízo não tem o condão de suspender a exigibilidade do crédito não tributário e nem autoriza a emissão de certidão de regularidade fiscal.
+Com base nestes fundamentos, pugna pelo deferimento do efeito suspensivo recursal para suspender a decisão objurgada. Ao final, requer que seja dado provimento ao recurso para indeferir a tutela de urgência pleiteada na inicial.
+É o relatório.
+Decido.
+Para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, todos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+In casu vislumbra-se a presença dos requisitos necessários para o fim de suspender a decisão objurgada. Vejamos.
+O Magistrado a quo deferiu a tutela de urgência pleiteada na exordial, para o fim de determinar ao requerido a expedição de Certidão Positiva com Efeitos de Negativa Estadual com relação ao credito não tributário (Multa Ambiental) objeto da demanda, mediante garantia do juízo por meio de caução real do imóvel oferecido na inicial.
+Sobre o assunto, sabe-se que de acordo com o artigo 151, incisos “II” do Código Tributário Nacional, autoriza nas ações ordinárias, a suspensão do crédito tributário mediante realização do depósito em juízo do montante impugnado.
+Vejamos o disposto no Código Tributário Nacional:
+“Art. 151. Suspendem a exigibilidade do crédito tributário:
+[...]
+II - o depósito do seu montante integral;
+[...]”.
+Têm-se, portanto, que de acordo com o citado dispositivo legal, ainda não que esteja presentes os requisitos da probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo seria possível a suspensão da exigibilidade do crédito tributário com fulcro no artigo 151, inciso “II”, do CTN, mediante realização do depósito integral e em dinheiro da dívida impugnada.
+A matéria encontra-se inclusive pacificada por meio da Súmula 112 do Superior Tribunal de Justiça, como cito:
+“Súmula 112 do STJ. O depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro”.
+No entanto, o Tribunal da Cidadania, em decisão recente, se manifestou no sentido de admitir oferecimento de seguro garantia e fiança bancária para o fim de suspensão da exigibilidade do crédito NÃO TRIBUTÁRIO, bem como para emissão de Certidão Positiva com Efeito de Negativa.
+A propósito:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MULTA ADMINISTRATIVA. CRÉDITO NÃO TRIBUTÁRIO. NATUREZA JURÍDICA SANCIONADORA. UTILIZAÇÃO DE TÉCNICAS INTERPRETATIVAS E INTEGRATIVAS VOCACIONADAS À PROTEÇÃO DO INDIVÍDUO (GARANTISMO JUDICIAL). AUSÊNCIA DE PREVISÃO LEGAL DE SUSPENSÃO DE EXIGIBILIDADE DE CRÉDITO NÃO TRIBUTÁRIO. MÉTODO INTEGRATIVO POR ANALOGIA. É CABÍVEL A SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO NÃO TRIBUTÁRIO A PARTIR DA APRESENTAÇÃO DA FIANÇA BANCÁRIA E DO SEGURO GARANTIA JUDICIAL, DESDE QUE EM VALOR NÃO INFERIOR AO DO DÉBITO CONSTANTE DA INICIAL, ACRESCIDO DE TRINTA POR CENTO (ART. 151, INCISO II DO CTN C/C O ART. 835, § 2o. DO CÓDIGO FUX E O ART. 9o., § 3o. DA LEI 6.830/1980). RECURSO ESPECIAL DA ANTT DESPROVIDO. 1. Consolidou-se o entendimento, pela Primeira Seção desta Corte Superior de Justiça, no julgamento do Recurso Representativo da Controvérsia, nos autos do REsp. 1.156.668/DF, da Relatoria do eminente Ministro LUIZ FUX, Tema 378, DJe 10.12.2010, de que o art. 151, II do CTN é taxativo ao elencar as hipóteses de suspensão da exigibilidade do crédito, não contemplando o oferecimento de seguro garantia ou fiança bancária em seu rol. 2. O entendimento contemplado no Enunciado Sumular 112 do STJ, segundo o qual o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro, que se reproduziu no julgamento do Recurso Representativo da Controvérsia, nos autos do REsp. 1.156.668/DF, não se estende aos créditos não tributários originários de multa administrativa imposta no exercício do Poder de Polícia. 6. É cabível a suspensão da exigibilidade do crédito não tributário a partir da apresentação da fiança bancária e do seguro garantia judicial [...] 8. O crédito não tributário, diversamente do crédito tributário, o qual não pode ser alterado por Lei Ordinária em razão de ser matéria reservada à Lei Complementar (art. 146, III, alínea b da CF/1988), permite, nos termos aqui delineados, a suspensão da sua exigibilidade, mediante utilização de diplomas legais de envergaduras distintas por meio de técnica integrativa da analogia. 9. Recurso Especial da ANTT desprovido”. (STJ - REsp 1381254/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 28/06/2019)
+Destarte, uma vez que a dívida impugnada se refere à multa ambiental, ou seja, crédito não tributário, os indícios se pairam no sentido de ser possível a suspensão da exigibilidade e/ou emissão de certidão de regularidade fiscal por meio de deposito integral e em dinheiro do crédito impugnado ou mediante apresentação de seguro garantia ou fiança bancária.
+In casu, a garantia do juízo oferecida pela parte Agravada não se trata de deposito integral e em dinheiro, e nem seguro garantia ou fiança bancária acrescida de 30% (trinta por cento) do valor do crédito impugnado, conforme prevê o artigo 835, §2o do Código de Processo Civil.
+Destarte, os indícios se pairam no sentido de que a Agravada não atendeu as exigências necessárias para a suspensão da exigibilidade do crédito não tributário impugnado nos autos de origem.
+Assim, vislumbra-se a presença do requisito da probabilidade do direito postulado nas razões recursais.
+Da mesma forma, constata-se o perigo de dano grave, de difícil ou impossível reparação, necessários para o deferimento do efeito suspensivo recursal.
+Ante o exposto, defiro o efeito suspensivo recursal, o que faço para suspender a decisão objurgada até a análise do mérito do presente recurso.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se o Agravado, para querendo, apresentar resposta no prazo legal.
+Após, encaminhe os autos à Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
