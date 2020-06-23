@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO – EFICÁCIA SUSPENSIVA – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes assim retratou o caso:
+    Washington Gutemberg Pires Ribeiro, Juiz do Tribunal Regional do Trabalho da 5ª Região, insurge-se contra pronunciamento do Conselho Nacional de Justiça, por meio do qual referendada decisão do Relator, conselheiro Marcos Vinícius Jardim Rodrigues, prorrogando o prazo do processo administrativo disciplinar nº 0008118-28.2019.2.00.0000 e mantendo o afastamento cautelar determinado na instauração. Requereu, no campo precário e efêmero, a suspensão dos efeitos do ato. No mérito, busca a anulação.
+    Vossa Excelência, em 18 de maio de 2020, implementou medida acauteladora para viabilizar a volta ao cargo no Regional do Trabalho.
+    Com a petição/STF nº 37.624/2020, o impetrante noticia cumprida a determinação.
+    O Órgão de controle, nas informações, afirma respeitado o disposto no artigo 14, § 9º, da Resolução CNJ nº 135/2011, uma vez submetido a referendo do Plenário o pronunciamento do Relator. Ressalta caber ao Presidente a organização do calendário de julgamentos, no que justificado o lapso temporal entre o ato individual e a deliberação do Colegiado, em 30 de abril último. Esclarece observada a liminar deferida. Diz haver o Relator, estendendo a medida acauteladora implementada por Vossa Excelência, revogado o afastamento dos demais magistrados.
+    A União interpôs agravo interno, com pedido de efeito suspensivo, em face da decisão por meio da qual implementada a medida de urgência. Frisa ausentes os pressupostos da tutela provisória. Destaca a legalidade e eficácia imediata do ato de prorrogação do processo administrativo, ante a urgência da situação, incompatível, conforme sustenta, com o funcionamento periódico do Órgão colegiado. Menciona confirmado o pronunciamento, à unanimidade, atendidos os requisitos dos artigos 14, § 9º, da Resolução nº 135/2011 e 75, parágrafo único, do Regimento Interno, ambos do Conselho. Alega fundamentada a manutenção do afastamento cautelar. Sublinha o perigo inverso na demora, asseverando maculada a imagem do Poder Judiciário em função do retorno dos envolvidos às atividades jurisdicionais nada obstante a gravidade das acusações. Articula com a revogação dos afastamentos dos demais magistrados, resultando na volta, à Quinta Turma do Regional do Trabalho, de três Juízes, a formarem maioria nas deliberações. Evocando o artigo 995, parágrafo único, do Código de Processo Civil, requer a atribuição de efeito suspensivo ao agravo, restabelecendo-se a eficácia do acórdão por meio do qual afastado o impetrante. Postula a reconsideração e, sucessivamente, a reforma do ato recorrido.
+    2. A alegação concernente à legalidade da prorrogação, mediante decisão individual, do afastamento cautelar de magistrado, submetida, mais de dois meses depois, a referendo do Plenário do Órgão de controle, foi examinada e rechaçada no pronunciamento que implicou o deferimento da liminar. Conforme fiz ver:
+    […]
+    O processo administrativo disciplinar foi deflagrado, em desfavor do impetrante e de outros Juízes do Tribunal Regional do Trabalho da 5ª Região, por meio da Portaria nº 7, de 9 de outubro de 2019, editada em cumprimento a decisão formalizada pelo Plenário do Conselho.
+    O prazo de 140 dias findou em 26 de fevereiro de 2020. A prorrogação pressupõe deliberação colegiada, implicando a sequência do procedimento, sem manifestação do Órgão competente, transgressão ao devido processo legal – artigo 5º, inciso LIV, da Constituição Federal.
+    […]
+    O crivo do Plenário, ocorrido em 30 de abril de 2020, mais de dois meses após o pronunciamento do Relator, não tem o condão de convalidar o vício revelado pela prorrogação do prazo do processo e afastamento cautelar implementado mediante ato individual.
+    [...]
+    Descabe proceder de cambulhada, violando o devido processo legal, ao argumento de proteger a credibilidade do Poder Judiciário.
+    O articulado quanto ao perigo de dano reverso, tendo em conta o ato do Relator do procedimento administrativo, que estendeu aos Juízes do Regional os efeitos da medida acauteladora, determinando o retorno às funções, não infirma, mas ratifica a óptica adotada por ocasião do implemento da tutela provisória.
+    Argumentos consequencialistas não têm o condão de suplantar a transgressão à Lei Maior. Os meios justificam o fim, não o fim aos meios. Dias melhores pressupõem a observância irrestrita à ordem jurídico-normativa, especialmente a constitucional.
+    3. Ausente fundamento relevante, indefiro o pedido de efeito suspensivo.
+    4. Publiquem.
+Brasília, 23 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
