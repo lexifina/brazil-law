@@ -1,0 +1,28 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1013128-92.2020.8.11.9005 - CLASSE CNJ - 307 COMARCA DE PORTO ALEGRE DO NORTE
+IMPETRANTE(S): DRa. TALITA SANTANA COSTA
+PACIENTE(S): CICERO JUNIOR PEREIRA CONCEICAO
+Vistos,
+Habeas Corpus impetrado em favor de CICERO JUNIOR PEREIRA CONCEICAO contra ato comissivo do Juízo da 3a Vara Criminal da Comarca de Porto Alegre do Norte, nos autos de incidente processual (1001047-31.2020.8.11.0059), que converteu o flagrante em prisão preventiva pelo cometimento, em tese, de tráfico de drogas - art. 33, caput, da Lei no 11.343/2006 - (www.tjmt.jus.br).
+O impetrante sustenta que: 1) é “usuário de maconha desde os 14 anos, afirmativa essa respaldada pela ínfima quantidade de maconha apreendida”; 2) inexistiriam os pressupostos da custódia cautelar; 3) o paciente é primário, tem endereço certo e exerce ocupação lícita.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade provisória ao paciente e, subsidiariamente, a substituição por medidas diversas da cautelar segregatória ou pela prisão domiciliar (ID 47108499), com documentos (ID 47111952/ ID 47111959).
+Relatos.
+Em 17.5.2020, o Juízo singular converteu o flagrante em prisão preventiva com a seguinte fundamentação:
+“[...]Com efeito, a manutenção da liberdade do custodiado coloca em xeque a garantia da ordem pública em razão da gravidade concreta do crime em apreço.
+A gravidade concreta da conduta do custodiado revela-se a partir da apreensão de um tablete de maconha, conforme relato policial e termo de apreensão, bem como das circunstâncias que permeiam o fato delitivo, ocasião em que fica demonstrada a evidente intenção do custodiado em comercializar a droga encontrada pelos policiais a diversos menores que frequentam o local. Nesse sentido, de acordo com o termo de exibição e apreensão, além da quantidade de drogas, também foi apreendida certa quantia de notas trocadas e uma faca utilizada para o manuseio da droga, o que revela a realização de tráfico de entorpecentes.
+[...]Por esse motivo restam inadequadas as imposições de medidas cautelares diversas da prisão em relação ao custodiado.
+[...]Portanto, tendo sido demonstrada a exigência de provas da materialidade delitiva e de indícios seguros extraídos dos autos, a gravidade concreta da conduta, revelada pela forma como foi praticado o crime enaltece a periculosidade social do custodiado e justifica a imposição da custódia cautelar para garantir a ordem pública.
+[...] Logo, considerando a gravidade do delito, as circunstancias de fato e as condições pessoais do custodiado, a manutenção da prisão preventiva se mostra necessária, como garantia da ordem pública a fim de prevenir a reprodução de novos delitos.
+Esse o quadro, CONVERTO EM PREVENTIVA a prisão em flagrante do custodiado Cícero Júnior Pereira Conceição, como garantia da ordem pública, de acordo com a fundamentação já deduzida.” (Thalles Nóbrega Miranda Rezende de Britto, juiz de Direito - PJE -1000883-66.2020.8.11.0059)
+Pois bem.
+A análise sobre a destinação da droga [consumo pessoal] não se mostra pertinente em habeas corpus, visto que depende do exame de elementos de convicção, afetados à instrução criminal, pelo juiz da causa (TJMT, HC no 1010410-59.2019.8.11.0000 – Primeira Câmara Criminal - 19.8.2019).
+Em sua vez, o Juízo singular elegeu o pressuposto da garantia da ordem pública para converter o flagrante em prisão preventiva, ao considerar a apreensão de uma porção de maconha 30,19g (trinta gramas e dezenove centigramas), a forma de acondicionamento [dentro da geladeira], o valor de R$195,50 (cento e noventa cinco reais e cinquenta centavos) em notas trocadas, bem como pelo rádio de comunicação portátil encontrado na residência.
+Todavia, a quantidade de entorpecentes apreendidos não revela significativo [30,19g de maconha – PJE – ação penal 1001047 -31.2020.8.11.0059], o paciente é prismático (www.tjmt.jus.br - Sistema Primus), possui apenas 20 (vinte) anos de idade, tem endereço certo [av. Sabino de Brito, no 334, Centro, Porto Alegre do Norte] e trabalha na Fazenda Regina Gonçalves Reis, desempenhando a função de trabalhador agrícola polivalente (ID 47111960), segundo afirmação do impetrante, sob fé do grau de advogado, a presumir veracidade, até prova em contrário.
+Nesse quadro, reconhece-se a pertinência da adoção de instrumentos de natureza inibitória e/ou proibitiva eficazes para atingir a mesma finalidade da prisão (STF, HC no 127823 - Relator: Min. Teori Zavascki - 23.6.2015; STJ, STJ ,HC no 533.436/RS - Relator: Min. Rogerio Schietti Cruz - 2.12.2019), nos termos do CPP, art. 315.
+Enfim, no momento atual do Sistema de Justiça, convém ao juiz criminal evitar o encarceramento em unidade prisional coletiva diante da pandemia de COVID-19 (Recomendação no 62/2020 do CNJ, art. 4o) se não caraterizada reiteração delitiva.
+Com essas considerações, DEFERE-SE PARCIALMENTE o pedido liminar para substituir a prisão preventiva do paciente pelas medidas cautelares: 1) comparecimento periódico em Juízo singular, em prazo e condições estabelecidas pelo juiz da causa, para informar e justificar atividades civis; 2) não se ausentar da Comarca, sem prévia autorização judicial, e comunicar eventual mudança de endereço; 3) recolhimento domiciliar no período noturno e nos dias de folga (CPP, art. 319, I, IV e V), ressalvada a dispensa de qualquer delas e sem prejuízo da fixação de outras pelo Juízo singular, sob pena de revogação do benefício.
+Por feito, COMUNIQUE-SE o Juízo singular para expedir o apto alvará de soltura, observadas as medidas cautelares impostas, facultadas informações no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 23 de junho de 2020.
+Des. MARCOS MACHADO
