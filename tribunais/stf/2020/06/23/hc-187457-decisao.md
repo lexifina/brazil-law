@@ -1,0 +1,37 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Guilherme André de Castro Francisco em favor de Anderson Rodrigo Alves de Oliveira, contra decisão monocrática da lavra do Ministro Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça, que denegou a ordem no HC 574.498/SP.
+    O paciente foi condenado à pena de 22 anos de reclusão, em regime inicial fechado, pela prática do crime de roubo qualificado pelo resultado morte (latrocínio), tipificado no art. 157, § 3°, c/c art. 29, do Código Penal, tendo sido negado o direito de recorrer em liberdade (evento 10, fls. 80/91).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (evento 9, fls. 97/100 e evento 10, fls. 1/3).
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que denegou a ordem no HC 574.498/SP (evento 11).
+    No presente writ, o Impetrante alega, em síntese, excesso de prazo para julgamento da apelação, distribuída no Tribunal de Justiça em 13.12.2019, preso o paciente desde 10.04.2019. Requer, em medida liminar e no mérito, o relaxamento da prisão preventiva, presente o excesso de prazo, e, subsidiariamente, postula seja substituída a prisão cautelar por medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    ‘(...).
+    Busca-se, na presente impetração, o reconhecimento de excesso de prazo no julgamento da apelação, apontando-se como coator ato omissivo da 14ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo.
+    A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação." No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+    Necessário, porém, considerar que, cumprido tal requisito, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+    Cumpre lembrar o patamar de pena a que o paciente foi condenado, e que “a jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento da apelação” (Informações adicionais do HC n. 448.058/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 12/2/2019, DJe 8/3/2019).
+    Na espécie, o paciente foi preso preventivamente em 10/4/2019, ou seja, há 1 (um) ano e, posteriormente, condenado à pena de 22 (vinte e dois) anos de reclusão. O recurso de apelação encontra-se na Corte de origem há 5 (cinco) meses, o que não justifica reconhecer o excesso de prazo no seu julgamento.
+    Nesse sentido:
+    (…)
+    Ante o exposto, denego o habeas corpus.’
+    Registro a existência de óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, pois o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Por outro lado, não detecto manifesto constrangimento ilegal ou teratologia hábil à concessão da ordem de habeas corpus.
+    Sobre o alegado excesso de prazo, nada colhe o writ.
+    A razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto. Na espécie, não configurado o alegado excesso de prazo, até porque a melhor compreensão do princípio constitucional aponta para processo sem dilações indevidas, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    A jurisprudência deste Supremo Tribunal Federal é no sentido de que “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 180.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Ademais, o tema do excesso de prazo no processo criminal está usualmente associado ao período anterior à prolação da sentença, a qual, no caso, foi proferida em 27.09.2019.
+    Prolatada a sentença, a jurisprudência posiciona-se no sentido de que não há mais falar em excesso de prazo (HC 115.763/PR, Rel. Min. Marco Aurélio, Redator para acórdão Min. Rosa Weber, 1ª Turma, DJe 04.8.2014; HC 110.313/MS, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.02.2012; HC 104.227/MS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.6.2011; HC 97.548/SP, Rel. Min. Ellen Gracie, 2ª Turma, DJe 27.8.2009; HC 86.630/RJ, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ de 07.12.2006).
+    É com base nesse entendimento que toda a construção doutrinária e jurisprudencial sobre o excesso de prazo diz respeito à demora para o julgamento em primeiro grau de jurisdição, e não para o julgamento dos recursos contra a sentença condenatória.
+    Não há melhores parâmetros normativos para definir quando a demora no julgamento de um recurso se torna arbitrária.
+    Por outro lado, entendo que o Supremo Tribunal Federal, salvo casos teratológicos de demora no julgamento de recursos, não deve interferir nessa questão, por política judiciária.
+    De todo modo, analisando o caso concreto, não resta evidenciada uma demora extraordinária no julgamento do recurso. Na esteira do ato coator, ‘o paciente foi preso preventivamente em 10/4/2019, ou seja, há 1 (um) ano e, posteriormente, condenado à pena de 22 (vinte e dois) anos de reclusão. O recurso de apelação encontra-se na Corte de origem há 5 (cinco) meses, o que não justifica reconhecer o excesso de prazo no seu julgamento ’.
+    De fato, o recurso de apelação foi distribuído no Tribunal de Justiça em 13.12.2019, de modo que, associando o lapso transcorrido com a pena imposta ao Paciente nas circunstâncias do caso, não há excesso de prazo a ser repelido.
+    Nesse contexto, dada colhe o alegado excesso de prazo para julgamento do recurso criminal, porquanto inexistente ‘situação anômala’ a comprometer ‘a efetividade do processo’ ou ‘desprezo estatal pela liberdade do cidadão’ (HC 142.177/RS, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.9.2017).
+    Inexistente, pois, ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de junho de 2020.
+Ministra Rosa Weber
+Relatora
