@@ -1,0 +1,27 @@
+DECISÃO:
+Ementa: Penal. Habeas corpus. Contrabando. Dosimetria da pena. Regime inicial. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ribeiro Dantas, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MAUS ANTECEDENTES. CONDENAÇÕES TRANSITADAS EM JULGADO. PERÍODO DEPURADOR. NÃO APLICAÇÃO. MOTIVAÇÃO IDÔNEA PARA INCREMENTO DA PENA-BASE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Nos termos da jurisprudência desta Corte, condenações anteriores ao prazo depurador de 5 (cinco) anos, malgrado não possam ser valoradas na segunda fase da dosimetria como reincidência, constituem motivação idônea para a exasperação da pena-base a título de maus antecedentes.
+    2. Agravo regimental a que se nega provimento.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 (três) anos, 11 (onze) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, pelo crime previsto no art. 334-A, § 1º, I, do Código Penal.
+    3. O Tribunal Regional Federal da 4ª Região negou provimento à apelação da defesa. Ato contínuo, a defesa opôs embargos declaratórios. Os embargos foram acolhidos, com efeitos infringentes, para corrigir a parte dispositiva do acórdão da apelação, fazendo constar a concessão de habeas corpus de ofício, a fim de reduzir a pena imposta ao ora paciente para 3 (três) anos e 2 (dois) meses de reclusão, mantido o regime inicial fechado.
+    4. Na sequência, a defesa interpôs recurso especial. O Relator do REsp 1.858.990, Ministro Ribeiro Dantas, negou provimento ao recurso. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta:
+     “o art. 5º, XLVII, ‘b’ da CF/88 veda expressamente a pena de caráter perpétuo. Com tal garantia constitucional, fica proibido que as consequências decorrentes da prática de um crime possam perdurar por toda a existência do agente, da mesma forma os efeitos da condenação não podem ser perpétuos. Exatamente por isso, o art. 64, I do CP declarou expressamente que a maior consequência de uma incidência criminal - afora a própria punibilidade em concreto - não perdurará perpetuamente. Se a condição de delinquente desaparece após o decurso do período depurador, nenhum sentido em se considerar o fato passado possa fundamentar por toda a vida do indivíduo a condição de portador de maus antecedentes. (…) Assim, reconhecido que a legislação penal não adotou o critério da perpetuidade da reincidência no tempo, passado o quinquênio depurador o fato não pode mais ser considerado como incidência criminal para qualquer efeito”.
+    6. A defesa requer a concessão da ordem “para estabelecer a pena base do paciente, na primeira fase da dosimetria, no seu mínimo legal, uma vez que não existem circunstâncias negativas a serem consideradas, com a consequente adequação do regime inicial de cumprimento de pena”.
+    7. Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. A Primeira Turma do Supremo Tribunal Federal, no julgamento do ARE 925.136-AgR, Rel. Min. Edson Fachin, decidiu que “[c]ondenações anteriores transitadas em julgado, alcançadas pelo decurso do prazo de 5 anos previsto no art. 64, I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes”.
+    10. Veja-se, no mesmo sentido, o RHC 116.070, Relª. Minª. Cármen Lúcia:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTE. TRÂNSITO EM JULGADO DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO RECURSO DE APELAÇÃO DA DEFESA. IMPETRAÇÃO DE HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA QUE NÃO IMPEDE A FORMAÇÃO DA COISA JULGADA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. FIXAÇÃO DA PENA-BASE. POSSIBILIDADE DE UTILIZAÇÃO DE CONDENAÇÕES TRANSITADAS HÁ MAIS DE CINCO ANOS COMO MAUS ANTECEDENTES.
+    1. Trânsito em julgado do acórdão objeto da impetração no Superior Tribunal de Justiça. Nos termos da jurisprudência deste Supremo Tribunal, o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal.
+    2. As condenações criminais transitadas em julgado há mais de cinco anos podem ser consideradas como maus antecedentes do Recorrente para fins de exacerbação da pena-base.
+    3. Recurso a que se nega provimento.” (Sem grifos no original)
+    11. Embora tenha ocorrido a suspensão do julgamento plenário do RE 593.818-RG, de minha relatoria, ante pedido de vista regimental, a maioria dos Ministros que já votaram até o momento se pronunciou na mesma linha da jurisprudência retratada nestes autos.
+    12. Quanto ao mais, reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, no caso, o regime fechado foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente tendo em vista que “o réu é reincidente em crime doloso e apresenta antecedente”. De modo que não verifico situação de teratologia ou ilegalidade flagrante que justifique o acolhimento da pretensão defensiva.
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 24 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
