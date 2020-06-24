@@ -1,0 +1,36 @@
+DECISÃO:
+EMENTA: PROCESSUAL PENAL. HABEAS CORPUS. PEDIDO DE RECONSIDERAÇÃO. REGIME INICIAL. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Corte Especial do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. PREENCHIMENTO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. AGRAVO NÃO PROVIDO.
+    1. Consoante entendimento firmado pelo Supremo Tribunal Federal, no julgamento da Repercussão Geral no RE 598.365 RG/MG, ‘a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral’ (Tema 181/STF).
+    2. Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da ausência de repercussão geral.
+    3. Agravo regimental não provido”.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 02 anos de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 168, § 1º, II, do Código Penal. Inconformada, a defesa interpôs recurso especial, inadmitido na origem.
+    3. Na sequência, sobreveio agravo em recurso especial (AREsp 1.410.982/SP), não conhecido. Contra essa decisão, foi interposto agravo regimental no agravo em recurso especial, não conhecido. Em seguida, o STJ negou seguimento ao recurso extraordinário interposto. Ato contínuo, não proveu o agravo regimental no recurso extraordinário.
+    4. Neste habeas corpus, a parte impetrante sustenta que o paciente está sofrendo constrangimento ilegal “por lhe ter sido negado o direito de regime inicial mais benéfico e/ou a substituição da pena privativa de liberdade por restritivas de direito, vez que é primário e preenche os requisitos legais”.
+    5. Em 26.02.2020, neguei seguimento ao presente habeas corpus, uma vez que a parte impetrante não instruiu os autos com cópia do inteiro teor do acórdão condenatório do Tribunal Estadual. Isso impede a exata compreensão da controvérsia, bem como atrai a orientação jurisprudencial do Supremo Tribunal Federal (STF), no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    6. Por meio da petição nº 10503/2020, a defesa requer a reconsideração da decisão que negou seguimento ao writ. Para tanto, anexou aos autos cópia do acórdão condenatório estadual.
+    7. Decido.
+    8. Suprida a deficiência na instrução do habeas corpus, passo ao exame da pretensão defensiva.
+    9. A jurisprudência do Supremo Tribunal Federal orienta que a superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do habeas corpus, faz instaurar situação configuradora de prejudicialidade, justificando-se, em consequência, a extinção anômala do processo. (HC 83.799-AgR, Rel. Min. Celso de Mello). No caso, em consulta à página oficial do Superior Tribunal de Justiça na internet, verifico que, em 20.05.2020, sobreveio o trânsito em julgado do acórdão condenatório.
+    10. Além disso, o entendimento do STF é pacífico no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante Tribunal Superior (HC 111.324, de que fui Redator para o acórdão; HC 109.156, Rel. Min. Dias Toffoli; HC 115.357-AgR, Rel. Min. Dias Toffoli).
+    11. A alegação de direito ao regime inicial mais benéfico e/ou à substituição da pena privativa de liberdade por restritivas de direito não foi sequer apreciada pelo STJ. Fato que impede o imediato exame da matéria pelo Supremo Tribunal Federal, sob pena de supressão de instância.
+    12. Ainda que assim não fosse, o caso não autoriza a concessão da ordem de ofício.
+    13. A jurisprudência do Supremo Tribunal Federal entende que a análise desfavorável das circunstâncias judiciais do art. 59 do Código Penal impossibilita a concessão do regime inicial aberto e a substituição da pena privativa de liberdade por pena restritiva de direitos (interpretação dos arts. 33 e 44 do Código Penal). Precedentes: HC 114.197, sob minha relatoria; RHC 120.025, Rel. Min. Luiz Fux; HC 132.029, Rel. Min. Edson Fachin; HC 142.602, Relª. Minª. Rosa Weber. No caso de que se trata, a decisão do Tribunal Estadual não divergiu desse entendimento. Reproduzo, nesse sentido, as seguintes passagens do acórdão condenatório:
+    “Atendendo aos requisitos norteadores estabelecidos no art. 59, do Código Penal, a pena-base deve ser fixada em 1/2 acima do mínimo legal.
+    (...)
+    Primeiramente, porque Thiago ostenta mau antecedente, conforme se infere da certidão de fls. 229 (proc. 0021370-02.2011.8.26.0050, da 24ª Vara Criminal de São Paulo, cujos fatos ocorreram em 02.02.2011 e a condenação transitou em julgado em 18.01.2017).
+    E, mesmo que citada condenação tenha se tornado definitiva após os fatos ora tratados, tal entendimento não afronta a Súmula nº 444, do Superior Tribunal de Justiça, pois não se trata de processo em andamento.
+    (...)
+    Com efeito, o acusado é detentor de personalidade ousada e avessa aos mais comezinhos princípios de convivência social, na medida em que se apropriou indevidamente de bens que lhe foram confiados a título de fiel depositário pela Polícia Civil, o que revela total ausência de freios inibitórios e sensação de impunidade pela conduta que praticou.
+    Também deve ser valorada negativamente as consequências do crime, porquanto sua ação tornou impossível a investigação de crime grave (receptação), já que a motocicleta que lhe foi entregue como depositário apresentava indícios de procedência ilícita.
+    Nessa toada, fixa-se a sanção inicial em 01 ano e 06 meses de reclusão e pagamento de 15 dias-multa.
+    (...)
+    Lado outro, pelas mesmas razões que ensejaram a elevação da pena-base, de rigor a fixação do regime inicial semiaberto, a despeito do quantum de pena aplicada, já que o crime não foi praticado com violência contra a pessoa, revelando-se o regime intermediário consentâneo e suficiente aos fins de reprovação e prevenção do delito cometido pelo acusado, nos termos do art. 33, §3º, do Código Penal
+    Por derradeiro, não se fazem presentes os requisitos do art. 44, do Código Penal, uma vez que as circunstâncias judiciais são desfavoráveis ao acusado (art. 44, III, CP). Assim, descabida a substituição da sanção corporal por restritivas de direitos”.
+    14. Ausente, portanto, situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique o acolhimento da pretensão defensiva.
+    15. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 24 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
