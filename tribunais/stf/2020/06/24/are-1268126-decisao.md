@@ -1,0 +1,32 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Amparo/SP contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “DESAPROPRIAÇÃO.
+    A expropriação de imóveis situados em área de preservação permanente importa em efetiva perda de patrimônio da parte requerida, que despendeu recursos financeiros para adquirir o prédio, fazendo ‘jus’, portanto, à compensação financeira pela retirada forçada dos bens.
+    Não provimento da remessa necessária e da apelação.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, § 6º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que, no tocante às controvérsias jurídicas a propósito da incidência, ou não, de juros compensatórios e da taxa a ser aplicada, o Plenário do Supremo Tribunal Federal, ao julgar a ADI 2.332/DF, Rel. Min. ROBERTO BARROSO, fixou entendimento que torna acolhível a pretensão deduzida pela parte recorrente:
+    “ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REGIME JURÍDICO DOS JUROS COMPENSATÓRIOS E DOS HONORÁRIOS ADVOCATÍCIOS NA DESAPROPRIAÇÃO. PROCEDÊNCIA PARCIAL.
+    1. A jurisprudência desta Corte é firme no sentido de que o controle judicial dos pressupostos constitucionais para a edição das medidas provisórias tem caráter excepcional, justificando-se apenas quando restar evidente a inexistência de relevância e urgência ou a caracterização de abuso de poder do Presidente da República, o que não ocorre no presente caso.
+    2. É constitucional o percentual de juros compensatórios de 6% (seis por cento) ao ano para a remuneração do proprietário pela imissão provisória do ente público na posse do seu bem, na medida em que consiste em ponderação legislativa proporcional entre o direito constitucional do proprietário à justa indenização (art. 5º, XXIV, CF/88) e os princípios constitucionais da eficiência e da economicidade (art. 37, ‘caput’, CF/88).
+    3. Declaração da inconstitucionalidade do termo ‘até’ e interpretação conforme a Constituição do caput do art. 15-A, de maneira a incidir juros compensatórios sobre a diferença entre 80% do preço ofertado pelo ente público e o valor fixado na sentença.
+    4. Constitucionalidade dos §§ 1º, 2º e 4º, do art. 15-A, do Decreto-lei nº 3.365/1941, ao determinarem a não incidência dos juros compensatórios nas hipóteses em que (i) não haja comprovação de efetiva perda de renda pelo proprietário com a imissão provisória na posse (§ 1º), (ii) o imóvel tenha ‘graus de utilização da terra e de eficiência na exploração iguais a zero’ (§ 2º), e (iii) sobre o período anterior ‘à aquisição da propriedade ou posse titulada pelo autor da ação’. Voto reajustado para expressar o entendimento da maioria.
+    5. É constitucional a estipulação de parâmetros mínimo e máximo para a concessão de honorários advocatícios, previstos no § 1º, do art. 27, do Decreto-lei nº 3.365/1941.
+    6. Declaração da inconstitucionalidade da expressão ‘não podendo os honorários ultrapassar R$ 151.000,00 (cento e cinquenta e um mil reais)’ por inobservância ao princípio da proporcionalidade e por possibilitar violação reflexa ao justo preço na indenização do expropriado (art. 5º, XXIV, CF/88).
+    7. Ação direta julgada parcialmente procedente. Fixação das seguintes teses:
+    ‘(i) É constitucional o percentual de juros compensatórios de 6% (seis por cento) ao ano para a remuneração pela imissão provisória na posse de bem objeto de desapropriação;
+    (ii) A base de cálculo dos juros compensatórios em desapropriações corresponde à diferença entre 80% do preço ofertado pelo ente público e o valor fixado na sentença;
+    (iii) São constitucionais as normas que condicionam a incidência de juros compensatórios à produtividade da propriedade;
+    (iv) É constitucional a estipulação de parâmetros mínimo e máximo para a concessão de honorários advocatícios em desapropriações, sendo, contudo, vedada a fixação de um valor nominal máximo de honorários.’
+    (ADI 2.332/DF, Rel. Min. ROBERTO BARROSO – grifei)
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.056.475/SC, Rel. Min. GILMAR MENDES – ARE 1.227.959/SP, Rel. Min. CELSO DE MELLO – ARE 1.262.695/SP, Rel. Min. RICARDO LEWANDOWSKI – RE 909.189- -AgR-ED/DF, Rel. Min. ALEXANDRE DE MORAES – RE 1.120.865- -AgR/PR, Rel. Min. EDSON FACHIN, v.g.):
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS E MORATÓROS. APLICAÇÃO DO DECIDIDO NOS AUTOS DA ADI 2.332/DF. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+    1. Os argumentos aduzidos pela parte recorrente não foram suficientes para caracterizar o alegado erro de enquadramento pela decisão agravada. Cabe ao Tribunal de origem realizar as modificações necessárias para adequar o seu julgado às alterações trazidas pelo julgamento do mérito da ADI 2.332/DF.
+    2. Quanto à não incidência dos juros moratórios e compensatórios em razão de o valor do imóvel ter sido integralmente depositado em juízo antes de qualquer perda patrimonial, dissentir da conclusão do Tribunal de origem exigiria a análise dos fatos e provas constantes dos autos. Incidência da Súmula 279/STF.
+    3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    4. Agravo interno a que se nega provimento.”
+    (ARE 1.242.521-AgR/SP, Rel. Min. ROBERTO BARROSO – grifei)
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária diverge, no ponto, da orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar que sejam observadas, quanto ao percentual e à base de cálculo dos juros compensatórios, as teses fixadas por ocasião do julgamento da ADI 2.332/DF.
+    Publique-se.
+    Brasília, 24 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
