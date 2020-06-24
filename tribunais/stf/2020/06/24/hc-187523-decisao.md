@@ -1,0 +1,28 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL. PENAL. DEFICIÊNCIA DE INSTRUÇÃO. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Daniel Santuchi Ladeira, advogado, em benefício de Matheus Teixeira Gonçalves, contra decisão do Superior Tribunal de Justiça pela qual teria sido indeferida a medida liminar.
+    2. O impetrante alega ser possível a superação da Súmula n. 691 deste Supremo Tribunal, ao argumento de excesso de prazo para formação da culpa.
+    Narra que, em 22.8.2019, o paciente teria sido preso em flagrante, convertida a prisão em preventiva, pela prática do delito previsto no inc. I do § 2º-A do art. 157 (duas vezes), na forma do art. 70, ambos do Código Penal.
+    Menciona que “em 31.10.2019 foi realizada a audiência de instrução e julgamento, tendo sido ouvidas as vítimas, testemunhas e o Acusado Matheus, contudo conforme poderá ser aferido na ata de Audiência de Instrução e Julgamento em anexo, o julgamento foi convertido em diligências, sendo determinado pelo Exmo. Juiz a DETERMINAÇÃO em busca e apreensão dos laudos faltantes, para abertura de vista ao Ministério Público e Defesa para apresentação de alegações finais”.
+    Assinala que, “passados mais de 05 (cinco) meses da Audiência Instrução e Julgamento que foi convertida em Diligências, tendo em vista a decretação da Pandemia do COVID-19, (NOVO CORONA-VIRUS) em 18 de março de 2020, tendo em vista que por sinal houve a suspensão das atividades Judiciais” (sic).
+    Argumenta que “não subsistem mais as causas que justificam a prisão preventiva do paciente Matheus, bem como pelo fato de o acusado estar acautelado por considerável período de tempo à espera de laudos, e, principalmente, por não haver previsão para a JUNTADA DOS LAUDOS FALTANTES PARA SENTENÇA FINAL, entendo que a prisão deve ser relaxada, devendo ser aplicado a adoção das medidas cautelares previstas nos incisos I, IV e V do art. 319 do Código de Processo Penal, quais sejam, comparecimento mensal” (sic).
+    Este o teor dos requerimentos e do pedido:
+    “1- Seja dado recebimento e provimento a presente ação autônoma substituta de recurso próprio interposto para fim de ser concedida, LIMINARMENTE, a ordem de habeas corpus impetrada em favor do Nacional o Paciente Matheus Teixeira Gonçalves, sendo reconhecido a falta de razoabilidade, proporcionalidade e homogeneidade da prisão cautelar para que o paciente tenha sua LIBERDADE PROVISÓRIA, ainda que de ofício, para que responda o imprevisível processo em liberdade, podendo, inclusive, substituir a prisão por uma ou mais medidas cautelares previsto no art. 319 do CPP, expedindo-se o competente alvará de soltura, por ser medida de inteira e mais lídima JUSTIÇA;
+    2- Determinar a manifestação do MPF;
+    3- No mérito, requer a confirmação da possível liminar deferida ou a Concessão da ordem nos termos já narrados e apontados acima” (sic).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A presente ação está deficientemente instruída, desacompanhada de documentos essenciais, em especial a decisão que teria sido proferida no Superior Tribunal de Justiça, a impossibilitar a compreensão ou o exame do pedido.
+    Sem dados passíveis de serem minimamente analisados para a ciência plena do caso, de eventuais incidentes havidos e possíveis consequências, o presente habeas corpus não pode ter seguimento por carecer dos requisitos necessários ao válido processamento.
+    Confiram-se, por exemplo, os seguintes julgados:
+    “DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. ‘HABEAS CORPUS’. NULIDADES. DEFESAS CONFLITANTES. SEVÍCIAS SOFRIDAS PELO RÉU: FALTA DE EXAME DE CORPO DE DELITO. OMISSÕES DA SENTENÇA CONDENATÓRIA. INJUSTIÇA DESTA. NÃO ESTANDO O PEDIDO DE ‘HABEAS CORPUS’ INSTRUÍDO COM CÓPIAS DE PEÇAS DO PROCESSO, PELAS QUAIS SE PODERIA EVENTUALMENTE, CONSTATAR A OCORRÊNCIA DAS FALHAS ALEGADAS, NÃO SE PODE SEQUER VERIFICAR A CARACTERIZAÇÃO, OU NÃO, DO CONSTRANGIMENTO ILEGAL. ‘H.C.’ NÃO CONHECIDO” (HC n. 71.254/RJ, Relator o Ministro Sydney Sanches, DJ 24.2.1995).
+    “1.  Habeas corpus: STF: competência originária: incidência da Súmula 691-STF (‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus, requerido a tribunal superior, indefere a liminar’). Não é dado analisar o mérito das questões discutidas para, a partir daí, conhecer ou não do habeas corpus. 2. Habeas corpus: inviabilidade, no caso - dada a manifesta deficiência da instrução do pedido -, do exame da questão de fundo para ponderar do cabimento ou não, de eventual habeas corpus de ofício” (HC n. 87.048-AgR/SP, Relator o Ministro Sepúlveda Pertence, DJ 9.12.2005).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. PENAL MILITAR. PACIENTE DENUNCIADO POR INFRAÇÃO DO ART. 290, CAPUT, DO CÓDIGO PENAL MILITAR. 1. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. (…)
+    1. Não tendo sido juntado qualquer documento na impetração do presente habeas corpus, não foi possível, no momento da prolação da decisão ora agravada, ter ciência do que ocorreu no processo, motivo pelo qual esta impetração não poderia ter seguimento, pois carente dos requisitos necessários. Decisão agravada mantida. (...)
+    3. Agravo regimental ao qual se nega provimento” (HC n. 104.564-AgR, de minha relatoria, DJe 27.5.2011).
+    4. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+    Publique-se.
+    Arquive-se.
+    Brasília, 24 de junho de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
