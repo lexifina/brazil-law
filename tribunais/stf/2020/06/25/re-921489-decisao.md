@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal Regional Federal da 4ª Região, para que se cumprisse o disposto no art. 1.036 do CPC/2015, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 69, cujo paradigma é o RE-RG 574.706. (eDOC 69)
+    Posteriormente, o Tribunal de origem devolveu o processo ao STF, ao fundamento de que a questão tratada nos autos não se enquadraria no referido paradigma. (eDOC 84)
+    Desse modo, torno sem efeito a devolução constante no eDOC 69 e passo a julgar o recurso.
+    Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. PIS. COFINS. IRPJ. CSLL. BASE DE CÁLCULO. ICMS. ISS. EXCLUSÃO. POSSIBILIDADE. COMPENSAÇÃO. CORREÇÃO MONETÁRIA. 1. Segundo jurisprudência do egrégio STF, é inconstitucional a inclusão do ICMS na base de cálculo do PIS e da COFINS, por violação ao art. 195, inc. I, alínea 'b', da Constituição Federal, uma vez que tal montante não têm natureza de faturamento ou receita. O mesmo entendimento estende-se, por simetria, à contribuição ao PIS e ao IRPJ e à CSLL calculados sobre o lucro presumido, porquanto possuem a mesma base de cálculo. 2. A compensação deverá ser efetuada após o trânsito em julgado da decisão (art. 170-A do CTN), na forma do disposto no art. 74 da Lei nº 9.430/96 e alterações posteriores. 3. A atualização monetária do indébito incide desde a data do pagamento indevido do tributo, nos termos da Súmula nº 162 do STJ, até a sua efetiva compensação, mediante a aplicação da taxa SELIC, a qual engloba juros e correção monetária. 4. Sentença reformada”. (eDOC 9, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 151, III; e 195, I, b, do texto constitucional.
+    Nas razões recursais, alega-se a inclusão do ICMS na base de cálculo do IRPJ e CSLL calculados sobre o lucro presumido.
+    É o relatório.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Decido.
+    O recurso não merece prosperar.
+    Na hipótese, registro que o tribunal de origem assentou a possibilidade da exclusão do ICMS na base de cálculo do IRPJ e CSLL calculados sobre o lucro presumido.
+    Com efeito, verifico que a jurisprudência do Supremo Tribunal Federal está consolidada no sentido de que a questão da exclusão do valor do ICMS da base de cálculo do IRPJ e da CSLL para contribuintes optantes pelo sistema de tributação pelo lucro presumido possui natureza infraconstitucional. Assim, a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Inclusão do ICMS na base de cálculo do IRPJ e da CSLL. Matéria de índole infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 975505 AgR, de minha relatoria, Segunda Turma, DJe 05.09.2017)
+    “DIREITO TRIBUTÁRIO. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E CSLL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 145, § 1º, E 150, IV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO.” (RE 937648 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 25.09.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS E PIS/COFINS. CRÉDITOS RELATIVOS A INCENTIVOS FISCAIS. CONSIDERAÇÃO COMO CUSTOS NO BALANÇO FISCAL PARA ALTERAR A BASE DE CÁLCULO DO IMPOSTO DE RENDA DE PESSOA JURÍDICA – IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.(RE 1.153.653 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 29.03.2019)
+    Cabe ressaltar que esta Corte, no RE-RG 1.052.277 (tema 957), no âmbito da repercussão geral, assentou a natureza infraconstitucional da questão referente à possibilidade de inclusão dos créditos presumidos de ICMS na base de cálculo do IRPJ e da CSLL. Eis a ementa desse julgado:
+    “Recurso extraordinário. Tributário. Créditos presumidos de ICMS. Inclusão na base de cálculo do IRPJ e da CSLL. Natureza infraconstitucional da controvérsia. Ausência de repercussão geral”.(RE 1.052.277 RG, Rel. Min. DIAS TOFFOLI, DJe 29.8.2017 )
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de junho de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
