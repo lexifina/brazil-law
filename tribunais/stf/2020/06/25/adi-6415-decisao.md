@@ -1,0 +1,17 @@
+Petição/STF nº 45.744/2020
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE – PEDIDO CAUTELAR – ARTIGO 12 DA LEI Nº 9.868/1999 – JULGAMENTO DEFINITIVO.
+    1. O assessor Hazenclever Lopes Cançado Júnior prestou as seguintes informações:
+    A Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil – ANFIP ajuizou esta ação direta, com pedido de liminar, buscando seja declarada a incompatibilidade, com a Constituição Federal, do artigo 28 da Lei nº 13.988, de 14 de abril de 2020, no que afastado o voto de qualidade, em virtude de empate, no Conselho Administrativo de Recursos Fiscais – CARF.
+    Vossa Excelência acionou, em 12 de maio de 2020, o disposto no artigo 12 da Lei nº 9.868/1999, determinando fossem providenciadas as informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República.
+    O Conselho Federal da Ordem dos Advogados do Brasil – CFOAB, a Confederação Nacional do Transporte – CNT e a Confederação Nacional das Instituições Financeiras – CNF foram admitidos no processo, na condição de terceiros interessados.
+    Com a petição/STF nº 45.744/2020, a autora renova o pedido de implemento de liminar visando a suspensão da eficácia do preceito atacado. Evoca o princípio da segurança jurídica, consideradas as controvérsias alusivas aos seguintes pontos: (a) alcance da fase de conhecimento dos recursos; (b) abrangência dos créditos não tributários e das pretensões de restituição, ressarcimento, reembolso e declaração de compensação; e (c) marco temporal de aplicação. Menciona recentes decisões mediante as quais o CARF atribuiu interpretação literal ao dispositivo impugnado, aplicando o voto de qualidade em processo administrativo que não versava determinação e exigência de crédito tributário. Frisa a tendência de impugnação, pelo contribuinte, perante o Judiciário, das decisões do Órgão envolvendo a matéria. Sob o ângulo do risco, sublinha a queda na arrecadação tributária decorrente da pandemia de covid-19. Requer seja o pedido de medida acauteladora apreciado pelo Colegiado Maior. Sucessivamente, pretende o implemento por meio de decisão individual, submetida ao referendo do Pleno.
+    2. Atentem para a organicidade do Direito, em especial dos procedimentos atinentes ao itinerário processual das ações trazidas a exame do Supremo. Ainda não foram apresentadas as informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República.
+    Deixou-se de veicular fatos capazes de alterar o quadro ensejador da adoção do rito do artigo 12 da Lei nº 9.868/1999, ante a notícia, na petição, de atuação do CARF voltada à aplicação do preceito em jogo. A situação retratada revela-se insuficiente a conduzir a intervenção cautelar do Tribunal, no que o deferimento da medida pressupõe não só relevância maior do pedido, como risco de manter-se dispositivo com plena vigência, entendendo-se este último como irreparável.
+    No tocante ao que requerido sucessivamente, tenho por princípio inafastável a inviabilidade de haver, em processo objetivo, determinação, mediante pronunciamento individual, de suspensão de ato normativo, considerada a competência do Pleno para implemento de medida acauteladora, exigida a maioria absoluta – 6 votos.
+    3. Indefiro os pedidos.
+    Imprimam preferência à tramitação do processo.
+    4. Publiquem.
+Brasília, 25 de junho de 2020.
+Ministro MARCO AURÉLIO
+Relator
