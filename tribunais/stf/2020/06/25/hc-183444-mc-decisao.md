@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de novo habeas corpus impetrado em prol do paciente, mas desta vez contra acórdão que, proferido no âmbito do Superior Tribunal de Justiça, restou assim ementado (eDOC 7):
+    PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. TENTATIVA DE LATROCÍNIO. REVISÃO DA DOSIMETRIA. APLICAÇÃO DA PENA PREVISTA NO ART. 157, § 3º, PRIMEIRA PARTE, DO CÓDIGO PENAL. EXISTÊNCIA DE ANIMUS NECANDI. NECESSIDADE DE REEXAME DE FATOS E PROVAS. TENTATIVA DE LATROCÍNIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO. 1. Pedido de reconsideração, apresentado dentro do quinquídio legal, deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade. 2. As instâncias antecedentes, após percuciente análise do conjunto probatório, concluíram que os autores agiram imbuídos de animus necandi, não alcançando os resultados pretendidos por circunstâncias alheias a suas vontades. Dessa maneira, a modificação de tal conclusão depende de novo exame do conjunto probatório, providência não comportada pelos estreitos limites cognitivos do habeas corpus. 3. De acordo com o entendimento consolidado no Superior Tribunal de Justiça, há tentativa de latrocínio quando há dolo de subtrair e dolo de matar,sendo que o resultado morte somente não ocorre por circunstâncias alheias à vontade do agente. (HC n. 201.175/MS, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 8/5/2013). 4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+    Assim como no HC n. 178000, busca o impetrante, em suma, seja “a “concessão da ordem para anular a sentença penal condenatória na parte em que se fixou a pena, refazendo-se a dosimetria, desta vez com observância ao disposto na primeira parte do §3º do artigo 157 do Código Penal”.
+    É o relatório. Decido.
+    1. Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Nessa quadra, em um juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante no decisum atacado, a justificar a concessão, in limine, da tutela vindicada.
+     Dessarte, sem prejuízo de ulterior reapreciação da matéria no julgamento final deste recurso ordinário, indefiro a liminar.
+    Encaminhem-se os autos ao Ministério Público Federal.
+    Publique-se e intime-se.
+    Brasília, 25 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
