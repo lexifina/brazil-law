@@ -1,0 +1,37 @@
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. CONSELHO NACIONAL DE JUSTIÇA. SERVENTIA EXTRAJUDICIAL. PROCEDIMENTO DE CONTROLE ADMINISTRATIVO. EDITAL Nº 1/2020, DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ. CONCURSO PARA DELEGAÇÃO DE SERVIÇOS NOTARIAIS E REGISTRAIS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE CONSELHEIRO DO CNJ. ALEGAÇÃO DE INCOMPETÊNCIA. MATÉRIA ENCAMINHADA AO PLENÁRIO DO CONSELHO. PERDA SUPERVENIENTE DO OBJETO. MANDADO DE SEGURANÇA PREJUDICADO.
+    Decisão: Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Eduardo Santana Xavier contra suposto ato coator praticado pelo Conselheiro Henrique de Almeida Ávila, do Conselho Nacional de Justiça.
+    Narra o impetrante que é candidato regularmente inscrito e aprovado no concurso público objeto do Edital nº 1/2015 para outorga de delegações de serventias extrajudiciais de notas e de registro do Tribunal de Justiça do Estado do Pará. Destaca que o Edital garante aos aprovados o direito de escolha e re-escolha de serventias vagas, conforme previsão no Edital nº 1/2020.
+    Aduz que o “ato ilegal perpetrado pelo Ilustríssimo Conselheiro Henrique Ávila, nos autos do Procedimento de Controle Administrativo - CNJ, sob o nº 0000476-67.2020.2.00.0000, no qual analisou de ofício a legalidade de ato emanado pelo Tribunal de Justiça do Estado do Pará, Edital 01/2020 do TJPA, exarando decisão monocrática que interfere abruptamente no Concurso para Delegação de serviços notariais e registrais do Tribunal de Justiça do Estado do Pará” (e-Doc. 1, p. 2).
+    E que, “por ocasião deste acontecimento foi aberto o PCA, pelo senhor Breno Alves Paiva, que é Oficial interino do Cartório do Único Ofício de Piçarra/PA, com o intuito de que este cartório fosse excluído da audiência de reescolha, por entender que sua serventia havia ficado vaga após o decorrer do concurso, devendo ser ofertado apenas em certame posterior” (e-Doc. 1, p. 3).
+    Como único fundamento deste mandamus, alega a incompetência do Conselheiro relator para rever monocraticamente, de ofício, ato administrativo do TJ-PA, eis que “a decisão monocrática afronta o Regimento Interno do CNJ quando Conselheiro Relator, na análise de caso concreto, passa de ofício, a rever atos administrativos praticados por membros ou órgãos do Poder Judiciário, anulando decisão do Tribunal de Justiça sem que tal imbróglio seja submetido ao plenário do Conselho” (e-Doc. 1, p. 4).
+     Ao final, tece os seguintes requerimentos:
+    “a) a concessão da medida liminar, inaudita altera parte, para suspender os efeitos do item 4.1 do dispositivo da decisão do PCA nº 0000476-67.2020.2.00.0000, do CNJ;
+    (…)
+    d) ao final, seja concedida a segurança para declarar a nulidade do ato impetrado, em razão da ausência de competência do Conselheiro para o controle de ato de Tribunal de ofício através de decisão monocrática.” (e-Doc. 1, p. 9)
+    Em 12/5/2020, determinei a notificação, com urgência, da autoridade apontada como coatora para que prestasse informações quanto à alegação do impetrante de afronta ao Regimento Interno do CNJ por suposta incompetência para proferir a referida determinação e quanto ao eventual andamento dos recursos administrativos interpostos (e-Doc. 16).
+    Em 26/5/2020, a União requereu seu ingresso no feito (e-Doc. 19).
+    Em 1º/6/2020, o Conselho Nacional de Justiça (CNJ) prestou informações alegando, em síntese, verbis:
+    “Quanto à alegação de incompetência deste Conselheiro para a prolação da decisão impugnada, o Regimento Interno do Conselho Nacional de Justiça confere ao relator a possibilidade de resolução monocrática da lide administrativa sempre que a tese apresentada houver sido consolidado em Enunciado Administrativo ou em precedentes do próprio CNJ ou do Supremo Tribunal Federal.
+    Assim dispõe o RICNJ:
+    Art. 25. São atribuições do Relator:
+    (...)
+    VII - proferir decisões monocráticas e votos com proposta de ementa e lavrar acórdão quando cabível;
+    (...)
+    XII - deferir monocraticamente pedido em estrita obediência a Enunciado Administrativo ou entendimento firmado pelo CNJ ou pelo Supremo Tribunal Federal; (g. n.)
+    A decisão contra a qual se volta a impetração lastreia-se em posicionamentos já anunciados pelo Conselho em oportunidades anteriores, tanto para dar substância à linha argumentativa adotada no ato de julgar quanto para afastar a interpretação dada por terceiros interessados no resultado do Procedimento a determinado precedente que afiançaria a posição vencida.
+    De toda sorte, a interposição de recursos administrativos contra a decisão monocrática questionada tem o condão de devolver o amplo conhecimento da matéria ao colegiado do CNJ, a quem competirá reanalisar os fatos e o conjunto normativo de regência.” (e-Doc. 23, p. 4)
+    É o Relatório. DECIDO.
+    Ab initio, defiro o pedido o pedido de ingresso da União no feito, nos termos do artigo 7º, inciso II, da Lei 12.016/2009.
+    Rememoro que o artigo 21 do Regimento Interno desta Corte ostenta o seguinte teor:
+    "Art. 21 - São atribuições do Relator: (…)
+    IX - julgar prejudicado pedido ou recurso que haja perdido o objeto.”
+    Nesse sentido, importa reconhecer a prejudicialidade do presente writ. É que o pedido do impetrante foi expresso em pugnar pela concessão da “segurança para declarar a nulidade do ato impetrado, em razão da ausência de competência do Conselheiro para o controle de ato de Tribunal de ofício através de decisão monocrática.”
+    Ocorre que, devido à interposição de recursos administrativos em face do decisum monocrático, o amplo conhecimento da matéria foi devolvido ao Plenário do CNJ, o qual agora deliberará sobre o tema de acordo com o amplo suporte fático presente.
+    A decisão apontada como ilegal será, segundo as balizas do regimento do CNJ, analisada em toda a sua extensão pelo colegiado, não havendo mais que se argumentar pela suposta violação de direito liquido e certo em virtude de alegada incompetência para apreciação monocrática da demanda. Destarte, é inelutável que a devolução do mérito do procedimento administrativo ao Plenário do Conselho Nacional de Justiça acarreta a perda de objeto desta ação mandamental, uma vez que não mais subsiste o fundamento do pedido apresentado, qual seja, a suposta incompetência do relator em decidir monocraticamente a matéria sub judice.
+    Por fim, insta ressaltar que, estando a análise acerca dos procedimentos administrativos relativos aos concursos públicos para ingresso na atividade notarial e de registro dentro do espectro de competências do CNJ, e não havendo qualquer ilegalidade manifesta, entendo que as teses delineadas pela parte impetrante esbarram em óbice intransponível: é absolutamente descabida a pretensão de convolar este Tribunal Constitucional em árbitro de todas as etapas dos concursos públicos e, por consequência, em instância recursal das decisões administrativas tomadas pelo Conselho Nacional de Justiça no regular exercício das atribuições constitucionalmente estabelecidas. Inexiste ilegalidade flagrante que demande a brusca interferência judicial nos atos do CNJ, sobretudo por se tratar de caso ainda em estágio deveras inicial.
+    Ex positis, JULGO PREJUDICADO o presente mandado de segurança, na forma do artigo 21, IX, do Regimento Interno do Supremo Tribunal Federal, restando prejudicada a análise do pedido de medida liminar.
+    Publique-se. Int..
+    Brasília, 25 de junho de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
