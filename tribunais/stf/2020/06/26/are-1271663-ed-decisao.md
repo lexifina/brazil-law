@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de tempestivos embargos de declaração opostos ao despacho mediante o qual determinei a devolução dos autos à origem, sob o fundamento de ser incabível agravo contra a aplicação da sistemática da repercussão geral pelo juízo de origem.
+    Nas razões dos embargos de declaração, a parte agravante sustenta a inaplicabilidade do referido óbice.
+    Decido.
+    Trata-se, na origem, de recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. APELAÇÃO EM MANDADO DE SEGURANÇA. REEEXAME NECESSÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. REFLEXOS DE AVISO PRÉVIO INDENIZADO NO 13° SALÁRIO E MÉDIAS DE HORAS EXTRAS. NATUREZA SALARIAL. INCIDÊNCIA. CERTIDÃO POSITIVA DE DÉBITOS COM EFEITOS DE NEGATIVA. DEPÓSITO INTEGRAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. 1. O reflexo do aviso prévio indenizado no pagamento da gratificação natalina compõe o conceito de remuneração, nos termos do artigo 28, § 7°, da Lei 8.212/91. Precedentes do Supremo Tribunal Federal (Súmula 207). 2. A interpretação conjunta da Constituição Federal e da Consolidação das Leis do Trabalho - CLT afirma a natureza remuneratória do pagamento a título de serviço extraordinário, que não objetiva ‘indenizar’ o trabalhador por dano ou prejuízo algum, mas remunerá-lo pelo trabalho ou tempo à disposição do empregador (artigo 28, 1, da Lei 8.212/91). 3. O pagamento de "médias de horas" na rescisão do contrato de trabalho não tem outra natureza senão a de horas extraordinárias calculadas de forma estimada em função da antecipação da ruptura da relação de emprego pela indenização do período relativo ao aviso prévio. 4. O depósito de montante integral do crédito tributário suspende sua exigibilidade e assegura a expedição de certidão de regularidade fiscal, nos termos dos artigos 151, II e 206, do Código Tributário Nacional. 5. Recurso de apelação da impetrante desprovido. Apelo da União Federal e remessa oficial a que se dá provimento.”
+    Na decisão de admissibilidade proferida pelo Tribunal Regional Federal da 3ª Região, constou a seguinte afirmação:
+    “Nesse contexto, e segundo a orientação adotada pelo STF, a tese fixada no julgamento do RE n.° 565.160/SC não afasta a necessidade da definição individual das verbas controvertidas e sua habitualidade, providência, no entanto, que é de todo estranha ao contencioso estritamente constitucional.”
+    Encontra-se em votação no Plenário Virtual desta Corte a análise da existência ou ausência da repercussão geral da matéria debatida no presente feito (Recurso Extraordinário com Agravo n. 1.260.750, Tema n. 1100).
+    Pelo exposto, reconsidero o despacho anteriormente proferido e determino a devolução destes autos ao Tribunal de origem para observância do procedimento previsto no art. 1.030 do Código de Processo Civil (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de junho de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
