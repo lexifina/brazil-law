@@ -1,0 +1,22 @@
+RAI No 1013462-29.2020.8.11.0000
+VISTOS...
+Agravo de Instrumento, com pedido de efeito suspensivo, interposto por Kelly Dayana Benedet Maas, em face da decisão proferida nos autos da ação de imissão na posse, movida por Fagner de Mattos Negrão e Henriette Carmem Negrão, que deferiu o pedido de tutela de urgência antecipada e determinou que a ora agravante desocupe, no prazo de 15 (quinze) dias, o imóvel, objeto da lide.
+Nas razões de recurso, a agravante informa que está litigando junto a Caixa Econômica Federal desde o ano de 2016, quanto à manutenção do contrato de financiamento habitacional do imóvel objeto da lide, que tramita perante a Terceira Vara Federal de Cuiabá e que está pendente de julgamento o recurso de apelação interposto em face da sentença de improcedência.
+Aduz que os agravados omitiram ao juízo a quo acerca do conhecimento de que o imóvel sub judice é objeto de ação judicial e que diante da pendência de processo judicial antecedente a ação promovida pelo agravado, cujas causas de pedir são idênticas, é necessária a suspensão da tramitação do feito até ulterior julgamento daquela pelo TRF1a Região.
+Alega, ainda, o perigo da evicção e que é possuidora de boa-fé, devendo ser mantida na posse até a prolação e trânsito em julgado da decisão do TRF1a Região, bem como até que passe essa fase de calamidade pública – COVID 19 -, tendo em vista o quadro delicado de sua mãe e filha que residem com ela no imóvel.
+Pugna pela concessão da liminar de efeito suspensivo.
+O pedido não merece acolhimento.
+Isso porque, compulsando os autos e as alegações do presente recurso, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+Apesar da situação em comento reclamar providência urgente, ao menos neste instante não se verifica qualquer irregularidade na expropriação do imóvel e na liminar deferida em favor dos agravados, ainda mais quando a decisão objurgada tenha observado o título de domínio da propriedade do imóvel - Matrícula do Imóvel de n. 76.515 do 1o Serviço Notarial e de Registro de Várzea Grande/MT (Id. 31925769 dos autos de origem) -, o qual, por seu turno, autoriza a imissão sumária do proprietário no exercício da posse.
+Da mesma forma, restou incontestável a presença do perigo de dano e difícil reparação, tendo em vista que a demora na desocupação do imóvel constitui claro obstáculo ao exercício pleno dos atributos inerentes a propriedade.
+Outrossim, a existência de ação pendente de julgamento junto à Justiça Federal, proposta pela agravante, não é óbice para a tramitação e julgamento da ação de imissão na posse pelos arrematantes, ora agravados, perante a Justiça Comum.
+Nesse sentido, colaciono precedente deste Sodalício, in verbis:
+“RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO DE IMISSÃO NA POSSE – LIMINAR QUE DETERMINOU A DESOCUPAÇÃO DO IMÓVEL - MANUTENÇÃO – IMÓVEL ARREMATADO PELO AGRAVADO – IRREGULARIDADES NÃO COMPROVADAS – EMBARGOS DE TERCEIRO EM CURSO NA JUSTIÇA FEDERAL - IRRELEVÂNCIA – EFEITO SUSPENSIVO NÃO CONCEDIDO - DECISÃO MANTIDA – RECURSO DESPROVIDO. I- Na espécie, em que pese a pendência de discussões na esfera Federal acerca do procedimento de consolidação da propriedade em favor da Caixa Econômica Federal, tal fato, por si só não é apto a elidir a imissão da posse em favor do agravado. II- É que, tendo o recorrido arrematado o bem, em leilão extrajudicial que observou os preceitos legais, nada mais adequado do que a imissão sumária do proprietário no exercício da posse, com a consequente desocupação do imóvel pelos antigos fiduciantes, ora agravantes.” (N.U 1007201-19.2018.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 22/08/2018, Publicado no DJE 29/08/2018) (destaquei)
+Quanto ao prejuízo suscitado pela agravante, tendo em vista o estado de calamidade que atualmente estamos vivendo, importante consignar que ela já tinha plena ciência da aquisição do imóvel pelos agravados desde o dia de 13 de março de 2020, quando foi devidamente notificada para desocupação do bem no prazo de 30 (trinta) dias (Id. 47711988), não podendo, agora, justificar a impossibilidade de cumprimento da medida por conta de tal situação.
+Isso posto, indefiro o pedido de efeito suspensivo vindicado.
+Comunique-se, o juízo de primeiro grau.
+Intime-se para contrarrazões.
+Após, voltem-me conclusos.
+Cuiabá, 26 de junho de 2020.
+José Zuquim Nogueira
+Desembargador Relator
