@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. AÇÃO ORDINÁRIA. APELAÇÃO. EMENDA CONSTITUCIONAL Nº 33/2001. CONTRIBUIÇÕES PARA O SEBRAE, INCRA E FNDE.
+    1. A 2ª Seção Especializada deste TRF firmou o entendimento de que (i) a UNIÃO detém, com exclusividade, a legitimidade para figurar no polo passivo das demandas em que se visa a declaração de inexigibilidade das contribuições especiais destinadas ao INCRA, SESC, SENAC e SEBRAE, assim como as contribuições para o FNDE (salário-educação), pois todas elas estão sob a administração e fiscalização da Receita Federal do Brasil, sendo o interesse das entidades que recebem os respectivos valores meramente econômico; e (ii) a cobrança dessas contribuições sobre a folha de salários após a Emenda Constitucional nº 33 não é inconstitucional, pois o rol de possíveis bases de cálculo das contribuições sociais por ela incluído no § 2º, III, a, no art. 149 da Constituição Federal não é taxativo (Incidente de Uniformização de Jurisprudência n° 0151343-83.2014.4.02.5101, julgado em 21/06/2018).
+    2. Ressalva do entendimento pessoal da Relatora em relação à possibilidade de cobrança das contribuições para o INCRA, para o SEBRAE e para o Salário-Educação.
+    3. Apelação da Impetrante a que se nega provimento. Remessa necessária e apelação da União Federal a que se dá provimento”(pág. 20 do documento eletrônico 63).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, a inexigibilidade do recolhimento das
+    “[...] contribuições ao SEBRAE, APEX, ABDI e INCRA, uma vez que, a partir de 12 de dezembro de 2001, marco inicial dos efeitos da EC 33/2001, que alterou a redação do art. 149 da Constituição Federal, vedou-se a incidência das referidas contribuições sobre a folha de pagamento das empresas” (pág. 21 do documento eletrônico 66).
+    Sustenta-se, ainda, que o rol de bases de cálculo do art. 149, § 2°, III, a, da Lei Maior, incluído pela Emenda Constitucional 33/2001, é taxativo.
+    A Procuradoria-Geral da República manifestou-se pela devolução dos autos ao Tribunal de origem para aplicação do regime da repercussão geral (documento eletrônico 86).
+    Bem examinados os autos, verifico que as questões trazidas no presente processo já foram examinadas na sistemática da repercussão geral (RE 603.624-RG/SC – Tema 325 e RE 630.898-RG/RS – Tema 495). Por oportuno, transcrevo as ementas dos mencionados paradigmas:
+    “TRIBUTÁRIO. CONTRIBUIÇÕES. BASES ECONÔMICAS. ART. 149, § 2º, III, A, DA CONSTITUIÇÃO FEDERAL, INSERIDO PELA EC 33/01. FOLHA DE SALÁRIOS. CONTRIBUIÇÕES AO SERVIÇO BRASILEIRO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS - SEBRAE, À AGÊNCIA BRASILEIRA DE PROMOÇÃO DE EXPORTAÇÕES E INVESTIMENTOS - APEX E À AGÊNCIA BRASILEIRA DE DESENVOLVIMENTO INDUSTRIAL - ABDI INCIDENTES SOBRE A FOLHA DE SALÁRIOS. EXISTÊNCIA DE REPERCUSSÃO GERAL” (RE 603.624-RG/SC – Tema 325 da Repercussão Geral).
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO DESTINADA AO INCRA. REFERIBILIDADE. RECEPÇÃO PELA CF/88. EMENDA CONSTITUCIONAL Nº 33/01. NATUREZA JURÍDICA. EXISTÊNCIA DE REPERCUSSÃO GERAL” (RE 630.898-RG/RS – Tema 495 da Repercussão Geral).
+    Isso posto, determino a devolução destes autos à origem a fim de que seja observado o disposto nos arts. 1.039, 1040 e 1.041 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 26 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
