@@ -1,0 +1,32 @@
+DECISÃO:
+Ementa: Penal. Recurso ordinário em habeas corpus. Estelionato. Inadequação da via eleita. Dosimetria da pena. Fatos e provas. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO DA DEFESA. ESTELIONATO. CONDENAÇÃO TRANSITADA EM JULGADO. PENA-BASE FIXADA EM 2 ANOS, DADAS AS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Conforme registrado na decisão ora impugnada, que nesta oportunidade se confirma, as instâncias ordinárias definiram a pena-base em patamar superior ao mínimo legal ao condenar o ora paciente pelo crime de estelionato, valorando negativamente as circunstâncias judiciais a que se refere o art. 59 do CP.
+    2. Considerou-se o caráter profissional da atuação estelionatária e o alcance da fraude, perpetrada em detrimento não apenas da autarquia previdenciária federal, mas também de ‘pessoas simples, de baixa instrução e com grau de vulnerabilidade’.
+    3. Ao que se vê, valoraram-se negativamente as circunstâncias e as consequências do crime, sem confusão alguma com elementos próprios do tipo penal, não havendo falar em ausência de fundamentação concreta para o distanciamento da pena-base, tampouco em falta de razoabilidade.
+    4. Também se nota que as instâncias ordinárias procederam, quanto à fração de aumento na primeira fase da dosimetria, conforme balizas aprovadas por esta Corte em casos similares.
+    5. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 4 anos, 2 meses e 23 dias de reclusão, em regime semiaberto, pela prática do crime previsto no art. 171, § 3º (duas vezes), c/c o art. 71, do Código Penal. Interposta apelação, o Tribunal regional deu parcial provimento ao recurso apenas para reduzir a pena de multa aplicada, mantendo os demais termos da condenação.
+    4. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 533.065, indeferiu o pedido liminar e, posteriormente, não conheceu do writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste recurso ordinário, a defesa sustenta que “em análise dos autos, com ênfase na r. sentença de folhas 394/402, verifica-se DATA VENIA, um flagrante descompasso no critério trifásico da aplicação da pena, em relação ao disposto nos artigos 59 e 68, ambos do Código Penal, vez que na DOSIMETRIA DA PENA, em sua 1ª fase, houve exacerbado aumento da pena mínima (de um ano para dois anos), sem que houvesse justificativa plausível, ou ao menos aceitável”. Com essa argumentação requer que a “pena-base da 1ª fase da dosimetria seja estabelecida no mínimo legal previsto no artigo 171, do Código Penal, e, consequentemente, seja estipulado o regime inicial aberto, com a substituição da pena privativa de liberdade por restritivas de direito”.
+    6.  Decido.
+    7. O recurso ordinário não deve ser provido.
+    8. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que o habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. No caso, em consulta à página oficial do TRF da 3ª Região, na internet, verifico que a condenação transitou em julgado em 01.02.2018.
+    9. E mais: a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível em habeas corpus a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena se cinge ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    10. Além disso, o entendimento do STF é firme no sentido de que a existência de circunstâncias judiciais desfavoráveis justifica a fixação da pena-base em patamar acima do mínimo legal (RHC 117.806, Redator para o acórdão o Ministro Edson Fachin; HC 124.250, Rel. Min. Teori Zavascki; HC 122.344, Relª. Minª. Rosa Weber).
+    11. No caso, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento do pleito defensivo. Transcrevo, nesse sentido, as seguintes passagens do acórdão proferido pelo STJ:
+    “[...]
+    Conforme registrado na decisão ora impugnada, que nesta oportunidade se confirma, as instâncias ordinárias definiram a pena-base em patamar superior ao mínimo legal ao condenar o ora paciente pelo crime de estelionato, valorando negativamente as circunstâncias judiciais a que se refere o art. 59 do CP.
+    Considerou-se o caráter profissional da atuação estelionatária e o alcance da fraude, perpetrada em detrimento não apenas da autarquia previdenciária federal, mas também de ‘pessoas simples, de baixa instrução e com grau de vulnerabilidade’ (e-STJ fls. 98 e 160/161) (…).
+    […]
+    (...) valoraram-se negativamente as circunstâncias e as consequências do crime, sem confusão alguma com elementos próprios do tipo penal, não havendo falar em ausência de fundamentação concreta para o distanciamento da pena-base, tampouco em falta de razoabilidade.
+    […]
+    No mais, observa-se que a tese defensiva, quanto à condição dos requerentes de benefícios previdenciários, contraria o que foi registrado no acórdão sobre a matéria, de modo que a pretendida apreciação demandaria dilação probatória, medida incompatível com a via célere do habeas corpus.
+    Ante a ausência de modificação do patamar da pena, fica prejudicada a análise dos pedidos de aplicação de regime inicial mais brando e de substituição da pena privativa de liberdade por restritiva de direitos.
+    [...]”.
+    12. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 26 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
