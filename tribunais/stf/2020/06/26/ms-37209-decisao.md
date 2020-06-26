@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de Mandado de Segurança, com pedido de liminar, impetrado contra decisão do Presidente do Superior Tribunal de Justiça, que deferiu medida cautelar na Execução no Mandado de Segurança 17.602, para determinar a suspensão do pagamento do Precatório nº 5.662. Eis o teor do julgado:
+    Dada a notícia de julgamento do RE 817.338/DF pelo STF (Tema 839) e considerando que o nome do exequente está relacionado no Portaria Interministerial nº 134, de 15/02/2011, que autorizou a instauração de procedimento de revisão das anistias concedidas com fundamento na Portaria nº 1.104-GM3/1964 da Força Aérea Brasileira, e, ainda, que foi expedido precatório incluído na proposta orçamentária para pagamento neste exercício, tenho presentes os requisitos do fumus boni juris e do periculum in mora (arts. 300 e seguintes do CPC).
+    Diante do exposto, concedo a medida liminar para determinar a suspensão do pagamento do PRC n. 5662 e fixo o prazo de 90 (noventa) dias para que a UNIÃO comprove a efetiva instauração de procedimento de revisão da portaria de anistia.
+    Traslade-se cópia desta decisão para o referido precatório.
+    Publique-se. Intimem-se.
+     Os impetrantes sustentam que “o ato coator é manifestamente ilegal, e só resta (…) a utilização do remédio heroico para afastar a ilegalidade da suspensão do pagamento do precatório alimentar nº 5262”. Aduzem, mais, que o ato impugnado “incorreu em grave violação aos princípios da SEGURANÇA JURÍDICA” (doc. 1, fl. 5). Asseveram, outrossim, que “a d. autoridade coatora violou ainda o artigo 5º, II (reserva legal), 5º, XXII (direito de propriedade), 5º, XXXV (Princípio da Inafastabilidade da Jurisdição, também chamado de Direito de Ação, ou Princípio do Livre Acesso ao Judiciário, ou por fim, conforme nos ensina o Mestre Pontes de Miranda, Princípio da Ubiquidade da Justiça), 5º, XXXV, 5º XXXVI (coisa julgada) 5º, LIV (devido processo legal) e 5º, LV (ampla defesa e contraditório), e artigo 93, IX, todos da CF/88” (doc. 1, fl. 6).
+    Requerem, ao final, liminarmente, “a concessão da segurança para determinar ao Ministro do Superior Tribunal de Justiça que dê prosseguimento ao regular andamento, prosseguimento, processamento e pagamento do PRECATORIO nº 5262 expedido” (doc. 1, fl. 6). No mérito, pedem a manutenção do pedido liminar formulado e, por conseguinte, a concessão da segurança para determinar o “regular andamento, prosseguimento, processamento e pagamento do PRECATORIO nº 5262 expedido, acrescido de correção monetária e juros de mora, na forma da Lei, com reconhecimento de que se trata de crédito alimentar” (doc. 1, fl. 7).
+    É o relatório. Decido.
+    Segundo o art. 102, I, d, da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar originariamente o Mandado de Segurança contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio STF.
+    No caso, o presente Mandado de Segurança não instaura a competência desta CORTE, tendo em vista que a autoridade apontada como coatora – o Presidente do Superior Tribunal de Justiça – não está incluída no rol exaustivo do art. 102, I, d, da Constituição Federal. É o que prescreve a Súmula 624 do STF, segundo a qual:
+    Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros tribunais.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, evidenciada a incompetência desta CORTE, NÃO CONHEÇO DO PEDIDO.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 26 de junho de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
