@@ -1,0 +1,31 @@
+AGRAVO DE INSTRUMENTO N.o 1013357-52.2020.8.11.0000
+Vistos etc.
+Cuida-se de recurso de Agravo de Instrumento interposto por INDIANA AGRI COMÉRCIO DE EXPORTAÇÃO DE CEREAIS EIRELI em virtude da decisão proferida pelo Juízo da 3.a Vara Cível da Comarca de Primavera do Leste que, nos autos da Tutela Provisória de Urgência para Bloqueio de Bens c/c Reconhecimento de Título Executivo e Vencimento Antecipado de Contrato n.o 1002725-50.2020.8.11.0037, deferiu o pedido liminar formulado pelo Autor EDUARDO DE AGUIAR e determinou o arresto dos grãos depositados nos armazéns da empresa Ré nas unidades de Sorriso, Nova Xavantina e Gaúcha do Norte, observado o limite contratual de 85.500 kg de soja.
+Além disso, visando resguardar direito de terceiros e dar publicidade à demanda, deferiu a averbação da ação judicial nas matrículas n.o 18.038, 17.999 e 11.553, todas do Cartório de Registro de Imóveis da Comarca de Primavera do Leste, bem como na matrícula n.o 12.336 do Cartório de Registro de Imóveis de Sorriso.
+Em suas razões recursais, a Agravante afirma ser inequívoco o fato de que o crédito em discussão ter se originado de obrigação assumida antes do ajuizamento da ação de recuperação judicial.
+Acentua que o crédito pretendido pelo Agravado se trata de crédito concursal, devendo ser submetido ao concurso de credores da recuperação judicial proposta e, ser quitado de acordo com a forma e prazo de pagamento previsto no Plano de Recuperação.
+Alega que a ordem de arresto é prematura e viola a regra do o art. 47 da Lei 11.101/05 (princípio de preservação da empresa), sobretudo porque está embasada em contrato de compra e venda que não contém assinatura das partes e/ou de testemunhas. Ou seja, o título carece de liquidez, certeza e principalmente, exigibilidade, retirando-lhe qualquer possibilidade de execução.
+Aduz que se faz necessária a suspensão dos atos expropriatórios em face da empresa Agravante, ante a prejudicialidade externa decorrente da interposição de Recurso de Apelação contra a sentença que indeferiu o processo recuperacional.
+Salienta que os imóveis indicados pelo Agravado (matrícula n.o 17.999, 11.553, 12.336 e 18.038) não foram transferidos a terceiros.
+Sob tais argumentos, pugna pela concessão do efeito suspensivo pois, caso contrário, ficará sem bens essenciais para a manutenção de sua atividade empresária e, nesta hipótese, o Instrumental será totalmente inócuo, ainda que a ele seja dado provimento final, haja vista que a falta de bens essenciais para a manutenção de sua atividade desaguará em sua falência.
+No mérito, pede pelo provimento do recurso para a reforma da decisão hostilizada.
+Eis o relato necessário. DECIDO.
+Recebo o Agravo de Instrumento, pois o recurso é tirado em virtude de decisão interlocutória, o que é autorizado pelo inciso I, do artigo 1.015, do Código de Processo Civil, bem como instruído com os documentos necessários para sua análise e conhecimento, bem como instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, 5.o do mesmo Diploma Processual.
+Impõe salientar que neste momento cabe tão-somente verificar se os requisitos necessários para concessão do efeito suspensivo estão evidenciados. Isso porque a Agravante busca sobrestar os efeitos da decisão objurgada, até o julgamento de mérito do recurso.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao Recurso, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Da leitura das razões recursais, observa-se que a Agravante não nega o recebimento do produto, ou seja, 85.500 kg de soja. A insurgência, em resumo, diz respeito à vedação ao arresto, tendo em vista estar em curso Ação de Recuperação Judicial da empresa e, de conseguinte, o enquadramento do crédito como concursal, devendo se submeter à forma e prazo estabelecido no Plano de Recuperação Judicial.
+Da consulta ao processo n.o 1001969-41.2020.811.0037, verifica-se que a petição inicial da Ação de Recuperação Judicial ajuizada pela Agravante foi indeferida e, de conseguinte, o processo foi extinto sem resolução do mérito, nos moldes do art. 485, I, do CPC.
+A sentença foi desafiada por Recurso de Apelação Cível e a Relatora, Desa. Antônia Siqueira Gonçalves, indeferiu a tutela recursal, prevalecendo, portanto, a decisão unipessoal do juiz de primeiro grau.
+Assim, partindo do pressuposto de que a empresa não está protegida pelo manto da Recuperação Judicial, inconteste a sua obrigação de arcar com o pagamento devido ao Agravado.
+Em outras palavras, não entrevejo a plausibilidade do direito invocado pela Agravante para afastar o arresto dos grãos pois, diante do indeferimento do pedido de recuperação judicial, não há falar em sujeição do crédito do Agravado ao plano recuperacional.
+Ademais, em que pese ao Contrato de Compra e Venda anexado no ID. 47481455 esteja sem assinatura, repito, a Agravante não nega o recebimento dos produtos (85.500 kg de soja), cenário este que retrata a negociação e venda dos grãos e, sobretudo, o cumprimento da obrigação do vendedor nas tratativas comerciais entre as partes.
+Nesse passo, sem olvidar que o arresto implica apenas na indisponibilidade do bem até o julgamento final da demanda, não vislumbro perigo de dano decorrente da manutenção da decisão objurgada, haja vista trar de situação reversível.
+Assim, INDEFIRO o efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Determino à Diretora da 2.a Câmara de Direito Privado que proceda à retificação da autuação deste recurso, a fim de que faça constar como Agravante a empresa INDIANA AGRI COMÉRCIO DE EXPORTAÇÃO DE CEREAIS EIRELI, ao invés de Pereira & Parra Pereira Ltda.
+Após, intime-se o Agravado para apresentar contrarrazões, nos termos do art. 1.019, II do CPC.
+Cumpra-se.
+Cuiabá, 26 de junho de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
