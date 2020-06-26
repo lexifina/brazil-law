@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recursos extraordinários, ambos interpostos pela Cooperativa de Crédito Rural da Lapa Ltda.. O primeiro apelo extremo foi deduzido contra acórdão proferido pelo E. Tribunal Regional Federal da 4ª Região e o segundo contra acórdão emanado do E. Superior Tribunal de Justiça.
+    A parte ora recorrente, ao deduzir os apelos extremos em questão, sustentou que os Tribunais de origem teriam transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal deduzida contra acórdão proferido pelo E. Superior Tribunal de Justiça. E, ao fazê-lo, observo que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário em questão.
+    Passo a apreciar, finalmente, o apelo extremo interposto contra o acórdão proferido pelo E. Tribunal Regional Federal da 4ª Região. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 672.215-RG/CE Rel. Min. ROBERTO BARROSO, Tema nº 536/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de reproduzir-se em múltiplos feitos, refere-se à “Incidência de CONFINS, PIS e CSLL sobre o produto de ato cooperado ou cooperativo”.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário interposto contra o acórdão emanado do E. Superior Tribunal Justiça, e determino, de outro lado, quanto ao Tema nº 536/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao E. Tribunal Regional Federal da 4ª Região.
+    Publique-se.
+    Brasília, 26 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
