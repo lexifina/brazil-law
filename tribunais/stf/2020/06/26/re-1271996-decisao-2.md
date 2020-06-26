@@ -1,0 +1,23 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRESCRIÇÃO. PRIMEIROS QUINZE DIAS DE AUXÍLIO- -DOENÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. COMPENSAÇÃO. CORREÇÃO MONETÁRIA, SUCUMBÊNCIA.
+    1. Postulado o direito à compensação concernente aos últimos cinco anos que antecederam ao ajuizamento da demanda, não há se falar em prescrição.
+    2. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que não é devida a contribuição previdenciária sobre a remuneração paga pelo empregador ao empregado durante os primeiros quinze dias de afastamento por motivo de doença (§ 3º do art. 60 da Lei 8.213/91), porquanto essa verba não tem natureza salarial, já que não é paga como contraprestação do trabalho.
+    3. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições devidas à terceiros, na medida em que a base de incidência das mesmas também é a folha de salários.
+    4. As contribuições previdenciárias recolhidas indevidamente podem ser objeto de compensação com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie e destinação constitucional, conforme previsto nos arts. 66 da Lei nº 8.383/91, 39 da Lei nº 9.250/95 e 89 da Lei nº 8.212/91, observando-se as disposições do art. 170-A do CTN e do art. 89, § 3º, da Lei nº 8.212/91. É vedada a compensação, pelo sujeito passivo, das contribuições destinadas a outras entidades ou fundos.
+    5 . A atualização monetária incide desde a data do pagamento indevido do tributo até a sua efetiva compensação, sendo aplicável, para os respectivos cálculos, a taxa SELIC.
+    6. Sem honorários advocatícios, na forma das Súmulas 512 do STF e 105 do STJ. Em razão da sucumbência recíproca, determinado à União o ressarcimento de metade das custas adiantadas.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se salientar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 968.110-AgR/RS, Rel. Min. ROBERTO BARROSO – ARE 1.188.867/AL, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.200.590/RN, Rel. Min. ALEXANDRE DE MORAES – ARE 1.209.423/SP, Rel. Min. GILMAR MENDES – RE 915.179-AgR/RS, Rel. Min. DIAS TOFFOLI – RE 1.013.951-AgR/RS, Rel. Min. EDSON FACHIN, v.g.):
+    “AGRAVO INTERNO INTERPOSTO PELA TRANSPORTES NOSSA SENHORA DAS GRAÇAS LTDA. RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. HORAS-EXTRAS. ADICIONAIS NOTURNO, DE INSALUBRIDADE E PERICULOSIDADE. NATUREZA DAS VERBAS. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE.
+    1. O Tribunal de origem, ao dirimir a controvérsia, assentou que, em face da natureza salarial das horas-extras, dos adicionais noturno e de insalubridade e periculosidade, deve incidir contribuição previdenciária sobre tais verbas.
+    2. A jurisprudência do SUPREMO TRIBUNAL FEDERAL é firme no sentido de que a controvérsia acerca do caráter remuneratório ou indenizatório das verbas percebidas pelo empregado, para fins de incidência da contribuição previdenciária patronal, demanda o reexame de legislação infraconstitucional.
+    3. Agravo Interno a que se nega provimento.”
+    (ARE 887.000-AgR-segundo/RS, Rel. Min. ALEXANDRE DE MORAES – grifei)
+    Vê-se, portanto, que a pretensão deduzida pela parte ora recorrente revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
