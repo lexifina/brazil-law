@@ -1,0 +1,33 @@
+RECLAMAÇÃO. ADPF Nº 324. ANTERIORIDADE DA DECISÃO RECLAMADA. AUSÊNCIA DE PARÂMETRO. ALEGAÇÃO DE DESCUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE REPERCUSSÃO GERAL. RE Nº 958.252-RG. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, fundada no art. 102, I, “l”, da Constituição Federal e nos arts. 988 e seguintes do Código de Processo Civil, ajuizada por Aec Centro de Contatos S/A., em face de decisão proferida pelo Tribunal Regional do Trabalho da Terceira Região, nos autos do Processo nº 0011550-64.2016.5.03.0020, à alegação de afronta às decisões desta Suprema Corte proferidas na ADPF nº 324 e no RE nº 958.252, Tema 725 da sistemática de repercussão geral.
+    2. A reclamante argumenta violada a autoridade do que decidido na ADPF nº 324, oportunidade em que esta Suprema Corte fixou a seguinte tese: “É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada”.
+    Articula que o recurso não admitido pela Corte Trabalhista tem como objeto a aplicação de tese fixada pelo Supremo Tribunal Federal no julgamento do RE nº 958.252, Tema 725 da sistemática de repercussão geral.
+    Requer a concessão de medida liminar para suspender o trâmite do processo de origem. No mérito, pugna pela procedência do pedido para que seja cassada a decisão do Tribunal Superior do Trabalho.
+    3. Deixo de determinar a citação da parte beneficiária do ato judicial reclamado e de solicitar informações à autoridade reclamada, em decorrência da manifesta inviabilidade da reclamação. Igualmente, dispenso a intimação do Procurador-Geral da República, em razão do caráter repetitivo do litígio.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, “l” e 103-A, § 3º, ambos da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, desobediência à súmula vinculante ou descumprimento de autoridade de decisão proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, se cuide da mesma relação jurídica e das mesmas partes.
+    2. A questão jurídica controvertida na presente reclamação constitucional consiste na alegada violação das decisões proferidas por este Supremo Tribunal Federal na ADPF nº 324 e no RE nº 958.252-RG.
+    3.  De início, incabível suscitar como parâmetro da reclamação a ADPF nº 324, julgada em 30.8.2018, com ata de julgamento publicada em 03.9.2018, uma vez que o ato reclamado foi prolatado antes do julgamento do paradigma invocado.
+    4. Esta Suprema Corte entende inviável a reclamação quando a decisão do Supremo Tribunal Federal cuja autoridade se pretende preservar é posterior ao ato reclamado. Nesse sentido, cito os seguintes precedentes:
+    “EMENTA: RECLAMAÇÃO. INSTAURAÇÃO DE AÇÃO PENAL PARA APURAR EVENTUAL CRIME CONTRA A ORDEM TRIBUTÁRIA. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 1.571/DF. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO CONSTITUCIONAL COMO SUCEDÂNEO DE RECURSAL. ATO RECLAMADO ANTERIOR À DECISÃO PARADIGMA. PRECEDENTES. RECLAMAÇÃO JULGADA IMPROCEDENTE” (Rcl 3.076, Rel. Min. Cármen Lúcia, Tribunal Pleno, Dje 18.08.2011).
+    “Ementa: AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO INDENIZATÓRIA. REPARAÇÃO DE DANOS DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE 22 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO RECLAMADA anterior ao paradigma INVOCADO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A reclamação é incabível por alegação de afronta à autoridade de decisão ou de súmula vinculante do Supremo Tribunal Federal proferida ou editada posteriormente ao ato reclamado. 2. In casu, o ato apontado como reclamado reafirmou a competência da justiça comum estadual para o julgamento da ação de reparação de danos decorrente de acidente de trabalho, em decisão proferida e acobertada pelo trânsito em julgado em momento anterior à da edição da Súmula Vinculante 22. 3. Agravo regimental desprovido” (Rcl 18920 AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 11.3.2015).
+    5. Por sua vez, no que concerne à veiculada afronta ao RE nº 958.252-RG, o art. 988 do CPC/2015 assim disciplina o instituto da reclamação:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    (…)
+    § 5º É inadmissível a reclamação:
+    I proposta após o trânsito em julgado da decisão reclamada;
+    II proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias. (…)”.
+    6. Emerge do preceito supra transcrito - art. 988, § 5º, II, do CPC -, que admissível, a contrario sensu, a reclamação para garantir a observância de acórdão proferido em recurso extraordinário com repercussão geral reconhecida, desde que haja o esgotamento das instâncias ordinárias.
+    7. A jurisprudência desta Suprema Corte vem se firmando no sentido de que o esgotamento da instância ordinária somente se concretiza após o julgamento de agravo interno manejado contra a decisão da Presidência ou Vice-Presidência da Corte que, no exame de admissibilidade do recurso extraordinário, aplica a sistemática da repercussão geral, nos termos do art. 1.030 e § 2º, do CPC/2015. Nesse sentido: Rcl 26194/SP, Rel. Min. Luiz Fux, DJe 03.3.2017; Rcl 26458/RN, Rel. Min. Roberto Barroso, DJe 10.3.2017; Rcl 26300/RS, Rel. Min. Ricardo Lewandowski, DJe 02.3.2017; Rcl 26336/SP, Rel. Min. Dias Toffoli, DJe 02.3.2017.
+    8. Inviável, portanto, a provocação do Supremo Tribunal Federal para garantir a autoridade de acórdão em recurso ordinário, porquanto a decisão apontada como reclamada - do Tribunal Regional da 3ª Região - não preenche o requisito do esgotamento das instâncias ordinárias.
+    9. Diante do exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o pedido de medida liminar.
+    Publique-se. Intime-se.
+    Brasília, 26 de junho de 2020.
+Ministra Rosa Weber
+Relatora
