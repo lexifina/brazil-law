@@ -1,0 +1,15 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, proferido em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “PREVIDENCIÁRIO. TEMPO ESPECIAL. APOSENTADORIA ESPECIAL. REQUISITOS.
+    1. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+    2. No caso dos autos, a parte autora tem direito à aposentadoria especial, porquanto implementados os requisitos para sua concessão.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 1.029.723-RG/PR, Rel. Min. EDSON FACHIN, por  tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. NÃO CARACTERIZAÇÃO. PREVIDENCIÁRIO. CONVERSÃO DO TEMPO COMUM PARA ESPECIAL. TRABALHO PRESTADO EM PERÍODO ANTERIOR À LEI 9.032/1995. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário interposto pela parte ora recorrente.
+    Cabe registrar, de outro lado, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 788.092-RG/SC, posteriormente substituído pelo RE 791.961/PR, ambos de relatoria do eminente Ministro DIAS TOFFOLI, Tema nº 709/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa, fazendo em acórdão assim ementado:
+    “DIREITO PREVIDENCIÁRIO E CONSTITUCIONAL. CONSTITUCIONALIDADE DO ART. 57, § 8º, DA LEI Nº 8.213/91. DISCUSSÃO ACERCA DA POSSIBILIDADE DE PERCEPÇÃO DO BENEFÍCIO DA APOSENTADORIA ESPECIAL INDEPENDENTEMENTE DO AFASTAMENTO DO BENEFICIÁRIO DAS ATIVIDADES LABORAIS NOCIVAS À SAÚDE. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, COM REPERCUSSÃO NA ESFERA DE INTERESSE DE BENEFICIÁRIOS DA PREVIDÊNCIA SOCIAL. PRESENÇA DE REPERCUSSÃO GERAL.”
+    Sendo assim, e em face das razões expostas, não conheço, em parte, do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III), e, de outro lado, determino, quanto ao Tema nº 709/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 26 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
