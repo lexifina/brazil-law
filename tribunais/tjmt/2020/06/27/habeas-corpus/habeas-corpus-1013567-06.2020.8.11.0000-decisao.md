@@ -1,0 +1,19 @@
+HABEAS CORPUS – AUTOS N.o 1013567-06.2020.8.11.0000 – COMARCA DE PRIMAVERA DO LESTE/MT.
+Impetrante: Defensoria Pública de Mato Grosso
+Paciente: Claudiomar Luiz dos Santos
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Claudiomar Luiz dos Santos, submetido, em tese, a constrangimento ilegal creditado à autoridade judiciária da Vara Criminal da Comarca de Primavera do Leste/MT, aqui apontada como coatora por manter preso preventivamente o paciente, acusado da suposta prática do crime de previsto no art. 33, caput, da Lei 11.343/2006.
+Em síntese, aduz o impetrante que não há fundamento concreto a justificar a adoção da segregação cautelar na hipótese, porquanto não se verifica a presença dos pressupostos delineados no art. 312 do Código de Processo Penal, salientando que a gravidade abstrata dos delitos supostamente perpetrados não se presta a tanto, sobretudo porque o paciente é réu primário e não ostenta qualquer processo criminal em curso.
+Com essas considerações almeja, inclusive liminarmente, a concessão da ordem para que seja expedido alvará de soltura em favor do paciente, medida que espera ver ratificada com o julgamento do mérito. Junto documentos.
+É o relatório.
+A princípio, a partir do escasso material coligido, não se verifica, neste momento processual, destinado à cognição sumária e perfunctória, os pressupostos para a concessão da tutela de urgência, isto é, o fumus boni iuris e o periculum in mora.
+Analisando a decisão que homologou a prisão em flagrante e converteu em preventiva, tem-se que, ao lado da materialidade delitiva e dos indícios de autoria, encontra-se a segregação cautelar devidamente lastreada na necessidade de resguardo da ordem pública, tendo em vista, conforme consignado pelo juízo de origem, a gravidade extremada do fato em análise, uma vez que foi apreendida relevante quantidade de entorpecente (200 tabletes de pasta-base de cocaína, pesando aproximado de 206kg – id. 47898479, pág. 16), a atrair a inteligência do enunciado n. 25, deste e. Tribunal (Incidente de Uniformização de Jurisprudência n. 101532/2015, Turma de Câmaras Criminais Reunidas, julgado em 02.03.2017).
+Nesse sentido, é “idônea a motivação invocada pela Juízo de primeiro grau para embasar a ordem de prisão do paciente, porquanto evidenciou a gravidade em concreto da conduta praticada, consideradas a quantidade e a natureza do entorpecente apreendido - 654,684 kg de cocaína transportados em compartimento de caminhão -, e justificou a manutenção do encarceramento para a garantia da ordem pública. 3. Pelos mesmos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).” (HC 527.088/PR, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/09/2019)
+Desse modo, o decreto cautelar não comporta a imperfeição invocada, tampouco carente de fundamentação, pois reflete a presença dos requisitos postos no art. 312 do CPP, em ordem a inviabilizar, ao menos por ora, a fixação de medidas alternativas ao claustro (art. 319, CPP), considerada a suposta incursão do paciente na prática de crimes.
+Por fim, registro que as condições pessoais abonatórias ostentadas pelo paciente, nos termos do entendimento dessa Corte de Justiça, “não justificam a revogação, tampouco impedem a decretação da custódia cautelar, quando presente o periculum libertatis” (conforme exposto no Enunciado Orientativo n. 43 do IUJ n. 101532/2015).
+Logo, não configurado o constrangimento ilegal ostentado na incoativa, indefiro a liminar.
+Oficie-se à autoridade apontada como coatora para que, no prazo de 05 (cinco) dias, preste as informações que reputar pertinentes.
+Após, manifeste-se a douta Procuradoria-Geral de Justiça.
+Intime-se o impetrante.
+Cuiabá, 26 de junho de 2020.
+Glenda Moreira Borges
+Relatora Convocada
