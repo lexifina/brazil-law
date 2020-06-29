@@ -1,0 +1,32 @@
+DECISÃO:
+Ementa: Penal e processual penal. Habeas corpus. Roubo. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO. CIRCUNSTÂNCIAS DO CRIME. ELEVADO VALOR. BENS SUBTRAÍDOS. PERSONALIDADE. MAIOR PERICULOSIDADE. MAJORANTES. QUANTIDADE DE AGENTES. ARMAS DE FOGO. RESTRIÇÃO DA LIBERDADE. FRAÇÃO DE AUMENTO. MÁXIMO LEGAL. PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A natureza e o elevado valor dos bens subtraídos – cerca de meio milhão de reais – justificam a valoração negativa das circunstâncias do crime por imporem prejuízo significativo para a vítima e demandarem maior audácia e planejamento da ação delitiva.
+    2. A vetorial relativa à personalidade pode ser considerada desfavorável quando evidenciada a maior periculosidade do agente nas constantes ameaças de morte durante o período de restrição à liberdade das vítimas.
+    3. É proporcional o aumento de 1/2 na terceira fase pelo concurso de seis agentes armados e pela restrição da liberdade das vítimas por tempo excessivo.
+    4. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 9 anos e 9 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 2º, I, II e V, e 288, parágrafo único, do Código Penal. O Tribunal Regional Federal da 2ª Região deu parcial provimento ao apelo defensivo “para, mantendo, as condenações e a dosimetria das penas, afastar, tão somente, a determinação para a reparação de danos, a teor do art. 387, IV, do CPP”. Na sequência, foi interposto recurso especial, inadmitido na origem. Ato contínuo, sobreveio agravo em recurso especial (AREsp 1.291.474). O Relator, Ministro Rogerio Schietti Cruz (STJ), conheceu do agravo, contudo negou provimento ao REsp. Contra a decisão, a defesa interpôs agravo regimental, desprovido.
+    3. Neste habeas corpus, a parte impetrante sustenta que “o ora paciente suporta uma ilegal desproporcionalidade na fixação de sua pena-base”, afirmando que, “em tendo sido valorados negativamente apenas 04 das circunstâncias judiciais e, sendo em 04 anos a pena mínima do art. 157, do Código Penal, tem-se que o quantum máximo que poderia ser acrescido na 1ª fase da dosimetria é de 02 anos e 06 meses e não os exagerados 03 anos e 09 meses ilegalmente impostos ao ora paciente”. Alega que “não restou comprovado nos autos que as vítimas foram mantidas presas por tempo juridicamente superior ao necessário para a consumação do delito, daí porque não se aplica a causa de aumento de pena, com previsão no art. 157, § 2º, inciso V, do Código Penal”.
+    4. A defesa requer a concessão da ordem a fim de “readequar a pena-base ao mais próximo do mínimo legal e afastar a qualificadora prevista no art. 157, § 2º, V, do Código Penal”.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    8. Na hipótese de que se trata, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento da tese defensiva. Transcrevo, nesse sentido, as seguintes passagens do acórdão impugnado:
+    “[...]
+    No que tange às circunstâncias do crime, a sentença registrou que o crime foi praticado com extrema ousadia e perigo para terceiros e consistiu na subtração de cerca de meio milhão de reais.
+    Decerto, ‘a consideração, nas circunstâncias judiciais, da natureza e do elevado valor da res furtiva não constitui elemento ínsito ao tipo penal de roubo, podendo ser validamente observado na fixação da pena-base imposta ao infrator’ (HC n. 425.089/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T.,DJe 13/12/2017).
+    Com efeito, o elevado valor se distancia muito do que se observa nesse tipo de crime e evidencia ousadia e audácia extremas, dada a sofisticação da segurança de instituições financeiras. Da mesma forma, a ação de seis agentes munidos de arma de fogo expõe a maior perigo as pessoas cuja liberdade foi restringida.
+    […]
+    No que se refere à personalidade, é possível a valoração negativa dessa vetorial a partir de elementos concretos dos autos, que evidenciem a periculosidade do acusado.
+    […]
+    Na espécie, o réu foi descrito pelos ofendidos como o integrante da quadrilha que ‘ameaçou os funcionários e clientes com muita frequência’ (fl. 474), e ‘ameaçou de morte o tempo todo’ (fl. 475) durante os cerca de 30 minutos de duração do roubo.
+    Ao assentar a valoração negativa da personalidade nesses fatos, as instâncias ordinárias demonstraram a acentuada periculosidade do agente, que manteve os ofendidos sob constante ameaça por tempo prolongado, o que justifica a valoração desfavorável dessa vetorial.
+    Quanto à majorante relativa à restrição da liberdade das vítimas e ao patamar de aumento na terceira fase, não verifico ilegalidade na exasperação da pena na razão de 1/2, pois foram apontados dados fáticos suficientes a indicar os contornos incomuns do roubo – restrição à liberdade superior à necessária para a prática do crime e quantidade de agentes (seis no total) superior à necessária para configurar o concurso de pessoas.
+    [...]”
+    9. Ademais, ressalto que eventual acolhimento da tese defensiva no sentido de que “não restou comprovado nos autos que as vítimas foram mantidas presas por tempo juridicamente superior ao necessário para a consumação do delito” demandaria o revolvimento do conjunto fático-probatório, o que não é possível em habeas corpus.
+    10. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 29 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
