@@ -1,0 +1,18 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (HC 567.749/SC), assim ementado (eDOC 2, p. 122-123):
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONTINUIDADE DELITIVA. REQUISITO SUBJETIVO NÃO PREENCHIDO. DESÍGNIOS AUTÔNOMOS. INEXISTÊNCIA. REITERAÇÃO CRIMINOSA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NO ÂMBITO DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+    1. A continuidade delitiva configura-se quando as circunstâncias de modo, tempo e lugar da prática dos ilícitos apresentam relação de semelhança e unidade de desígnios, acarretando o reconhecimento do desdobramento da prática criminosa, o que não se verifica na hipótese dos autos.
+    2. Impende registrar, por oportuno, que ''esta Corte, ao interpretar o art. 71 do CP, adota a teoria mista, ou objetivo-subjetiva, segundo a qual caracteriza-se a ficção jurídica do crime continuado quando preenchidos tanto os requisitos de ordem objetiva - mesmas condições de tempo, lugar e modo de execução do delito -, quanto o de ordem subjetiva - a denominada unidade de desígnios ou vínculo subjetivo entre os eventos criminosos, a exigir a demonstração do entrelaçamento entre as condutas delituosas, ou seja, evidências no sentido de que a ação posterior é um desdobramento da anterior'' (AgRg no HC 426.556/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018).
+    3. A rediscussão da matéria mostra-se incompatível com a via mandamental eleita, porquanto, para se invalidar a conclusão da instância originária, torna-se imprescindível a reavaliação do contexto fático probatório
+    4. Agravo regimental não provido.
+    Narra o impetrante que: a) o Juízo de origem, em execução penal, reconheceu a continuidade delitiva com relação a duas condenações por crime de roubo circunstanciado, procedendo ao recálculo da pena; b) o Ministério Público interpôs agravo em execução, que foi provido para afastar a continuidade e determinar a soma das penas; c) os delitos praticados “foram cometidos de maneira sucessiva, em um mesmo espaço e executados da mesma forma, devendo, portanto, ser aplicado o Artigo 71, do Código Penal”; d) o reexame de provas é absolutamente dispensável para que se conheça das questões ora suscitadas.
+    À vista do exposto, requer o restabelecimento integral da decisão de 1º grau, com o reconhecimento da continuidade delitiva.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar. Abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 29 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
