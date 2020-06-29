@@ -1,0 +1,31 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0003709-93.2019.8.11.0002
+RECORRENTE: ALEXSANDRO BRITO MOREIRA DA SILVA,
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 45953003) interposto por ALEXSANDRO BRITO MOREIRA DA SILVA, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 43830954):
+“APELAÇÕES CRIMINAIS – ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS, EM CONCURSO FORMAL [QUATRO VÍTIMAS] – SENTENÇA CONDENATÓRIA – PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL MEDIANTE FUNDAMENTAÇÃO INIDÔNEA, INCIDÊNCIA DE CIRCUNSTÂNCIA ATENUANTE ENSEJARIA A REDUÇÃO DA PENA-BASE “ ABAIXO DO MÍNIMO LEGAL”, AFASTAMENTO DO CONCURSO FORMAL DE CRIMES – PEDIDO DE REDUÇÃO DAS PENAS – CIRCUNSTÂNCIAS DO CRIME NEGATIVADA – INCIDÊNCIA DE DUAS CAUSAS ESPECIAIS DE AUMENTO DE PENA DO ROUBO – ENTENDIMENTO DO STJ E ENUNCIADO CRIMINAL 32 DO TJMT – RECONHECIMENTO DAS ATENUANTES DA MENORIDADE RELATIVA E CONFISSÃO ESPONTÂNEA – REDUÇÃO DAS PENAS AO MÍNIMO LEGAL – SÚMULA 231 DO STJ – EXIGÊNCIA E SUBTRAÇÃO DE BENS INDIVIDUAIS – PATRIMÔNIOS DISTINTOS ATINGIDOS – JULGADO DO TJMT – CONCURSO FORMAL PRESERVADO – RECURSOS DEPROVIDOS. “A incidência de duas ou mais causas especiais de aumento de pena no crime de roubo autoriza a utilização de uma delas na terceira fase da dosimetria e as demais na primeira, como circunstâncias judiciais desfavoráveis.” (TJMT, Enunciado Criminal 32) “A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.” (STJ, Súmula 231) A regra do concurso formal de crimes deve ser aplicada se as condutas dos agentes são praticadas em um mesmo contexto fático, visando atingir patrimônios individuais distintos (TJMT, N.U 0002777-19.2018.8.11.0042).” (Ap 0003709-93.2019.8.11.0002, DES. MARCOS MACHADO, PRIMEIRA CÂMARA CRIMINAL, Julgado em 02/06/2020, Publicado DJE em 08/06/2020)
+Alega violação aos art. 59 e 68, parágrafo único, ambos do CP, bem como ao art. 156 do CPP, ao argumento de necessidade de: (i) fixação da pena-base no mínimo legal; (ii) reconhecimento das atenuantes da confissão espontânea e menoridade relativa; (iii) fixação da pena abaixo do mínimo legal na segunda fase da dosimetria da pena e (iv) desclassificação da conduta capitulada no art. 157, §2°, II e § 2°-A, I, por quatro vezes, c/c art. 70 do CP, para o art. 157, §2°, II e 2°A, inciso I, do CP, por apenas uma vez.
+Recurso tempestivo (Id. 45960463).
+Contrarrazões – Id. 48184950.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ E 284 DO STF. DECISÃO MANTIDA. (...) 2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF. (...) 5. Agravo regimental não provido.” (AgRg no AREsp 828.593/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2016, DJe 18/04/2016) (destaquei)
+“PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NA QUESITAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INCIDÊNCIA DA AGRAVANTE POR TER SIDO O CRIME PRATICADO CONTRA CRIANÇA E DA QUALIFICADORA DA UTILIZAÇÃO DE RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DA VÍTIMA. AUSÊNCIA DE BIS IN IDEM. 1. Se, nas razões do recurso especial, a parte recorrente não infirma os fundamentos do acórdão recorrido, tem aplicação, por analogia, o Enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes. 2. Enquanto a agravante prevista art. 61, II, "h", do Código Penal é objetiva e incide em razão de ter sido praticado o crime contra criança, a qualificadora de que cuida o artigo 121, IV, do Código Penal envolve considerações específicas do caso concreto, para verificação acerca da presença de recurso que dificulte ou torne impossível a defesa da vítima, não havendo falar em bis in idem. 3. Agravo regimental improvido.” (AgRg no REsp 1634727/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017) (destaquei)
+In casu, a despeito de alegar ofensa aos arts. 59 e 68, parágrafo único, ambos do CP, e ao art. 156 do CPP, verifica-se que o Recorrente não infirmou especificamente os fundamentos adotados no aresto, voltando suas razões recursais contra a sentença proferida pelo Juízo de origem, o que impossibilita a exata compreensão da matéria apresentada e atrai o óbice sumular acima mencionado.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 29 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
