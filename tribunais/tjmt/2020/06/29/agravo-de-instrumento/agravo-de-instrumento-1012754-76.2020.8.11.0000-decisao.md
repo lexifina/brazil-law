@@ -1,0 +1,32 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento com pedido de efeito suspensivo interposto por GILBERTO EGLAIR POSSAMAI, em face de decisão exarada pelo Juízo da 1a Vara Cível Especializada em Recuperação Judicial e Falência da Comarca de Cuiabá/MT que, nos autos de Embargos de Terceiro (Numeração Única: 36127 -40.2014.811.0041) opostos em desfavor da ora Agravada, ARIANE SOUZA FERREIRA, inventariante do espólio de JOSÉ OSMAR BORGES, rejeitou os embargos de declaração opostos em virtude da decisão que retificou de ofício o valor da causa nos embargos de terceiro.
+O Agravante aduz, em síntese, que “(...) é proprietário do imóvel denominado Fazenda São José (doc. 8), adquirido em alienação havida na Justiça do Trabalho de Cuiabá -MT, nos autos do processo no 00511.2005.007.23.00 -3, tendo sido expedida e assinada carta de alienação em 16/07/2012 (doc. 9 ), e efetivado o respectivo registro em 02/08/2012 . 10. Paralelamente, nos autos do Inventário no 25168 - 54.2007.8.11.0041, determinou -se a imissão na posse da agravada no imóvel arrematado pelo agravante, pois figura como meeira e herdeira (doc. 10, fls. 19/20 dos embargos de terceiro ) . 11. Desta decisão foram opostos os Embargos de Terceiro no 36127 -40.2014.8.11.0041 (doc. 11) . 12. O pedido liminar foi parcialmente deferido em agosto/2014 (doc. 12). Por conseguinte, a agravada apresentou contestação (doc. 13) e o agravante , réplica (doc. 14). 13. Os autos foram encaminhados ao Juízo Universal da Falência”. (ID. Num. 46492499 – págs. 7 e 8)
+Aduz que o Juízo de origem retificou de ofício o valor da causa, sendo opostos embargos de declaração, os quais foram rejeitados, sendo determinado o recolhimento das custas, sob pena de extinção dos embargos de terceiro, cancelando-se a distribuição.
+Argumenta que a retificação do valor da causa se fundamentou na correspondência de valores da arrematação da Fazenda São José; todavia, defende que tal decisão não merece prevalecer, pois o que se busca via embargos de terceiro não é o de se integrar o imóvel de R$ 22.000.000,00 (vinte e dois milhões) ao patrimônio do agravante, mas a preservação do direito abstrato de sua posse plena.
+Aduz que não se discute a propriedade do imóvel, eis que isso já está concretizado em sua matrícula; mas sim a imissão da inventariante na posse do im ́vel arrematado pelo Agravante.
+Assevera que “Em relação ao pedido de manutenção da posse do agravante no imóvel objeto dos embargos de terceiro, é cristalina a impossibilidade de aferição de qualquer conteúdo econômico. Isso porque, caso o pedido seja atendido, isso não trará qualquer benefício /proveito econômico imediato ao legítimo proprietário, ora agravante”. (ID. Num. 46492499 – pág. 14)
+Destaca que a atribuição da quantia de R$ 1.000,00 (mil reais) como valor da causa pelo Agravante retrata a desproporcionalidade e ausência de proveito econômico, uma vez que a propriedade do imóvel já e do Agravante, sendo que a discussão reside apenas na posse, que é de valor inestimável.
+Defende a reforma da decisão agravada, alegando que o arbitramento de ofício ora combatido inviabiliza o acesso à justiça, violando a preceito de ordem constitucional.
+Sustenta o preenchimento dos requisitos para que seja deferido o efeito suspensivo (plausibilidade do direito) e perigo de dano ou risco ao resultado útil do processo.
+Requer que o recurso seja recebido com efeito suspensivo, a fim de se manter o valor da causa em R$ 1.000,00 (mil reais). No mérito, pede o provimento do agravo, ratificando o pleito liminar.
+Alternativamente, pede que o recurso seja provido, para o fim de que outro valor da causa, mais razoável, seja atribuído pelo Juízo.
+É o relato.
+Decido.
+A concessão da tutela de urgência condiciona-se à relevância da fundamentação formulada pelo agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Assim, a concessão da antecipação da tutela recursal ou a suspensão do processo, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do Novo Diploma Processual.
+Pois bem.
+É de se salientar que já me posicionei em agravo (1001733 - 06.2020.8.11.0000), envolvendo a mesma parte, sendo praticamente idêntica à situação deste Agravo, em que foi concedida a medida de urgência.
+Dentro desse contexto, frise-se que meu posicionamento acerca do assunto continua o mesmo, de modo que identifico as presenças de ambos os requisitos, mormente porque “a priori” não se verifica o proveito econômico diretamente vinculado ao valor patrimonial do bem (imóvel Fazenda São José), uma vez que tal patrimônio já se encontra no domínio da Agravante, em razão da arrematação procedida na Justiça do Trabalho.
+Assim, como a tutela pretendida nos Embargos de Terceiro é de discussão em relação à posse do imóvel (manutenção da posse do agravante no imóvel objeto dos embargos de terceiro), não se mostra viável o arbitramento do valor da causa tendo como parâmetro o valor do imóvel.
+Dentro desse contexto, apenas com esses apontamentos, por ora, tenho que o valor econômico pretendido não confere com o valor da causa arbitrado, de ofício, pelo Juízo “a quo”, o que a “a priori”, a meu viso, viola o direito de acesso à justiça.
+Diante do exposto, DEFIRO o pleito de tutela de urgência, conforme vindicado, até que a Câmara reunida em sessão plenária julgue o recurso.
+Comunique-se a decisão ao Juízo “a quo”, solicitando-lhe as informações, oportunidade em que, querendo, poderá exercer o juízo de retratação.
+Intime-se a parte Agravada, na forma do art. 1.019, II do NCPC, para que respondam no prazo legal.
+Cumpra-se.
+Cuiabá, 26 de junho de 2020.
+Des. Sebastião Barbosa Farias
+Relator
