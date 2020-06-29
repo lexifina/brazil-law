@@ -1,0 +1,34 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0000802-67.2008.8.11.0088
+Recorrente: FCA FIAT CHRYSLER AUTOMÓVEIS BRASIL LTDA
+Recorrido: ROSANGELA MARIA PASSARELI
+Vistos.
+Trata-se de Recurso Especial interposto por FCA FIAT CHRYSLER AUTOMÓVEIS BRASIL LTDA (id 47420485) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 38132976):
+“APELAÇÃO CÍVEL – AÇÃO INDENIZATÓRIA – DEFEITO EM VEÍCULO NOVO – RECUSA DE COBERTURA CONTRATUAL – RELAÇÃO DE CONSUMO – RESPONSABILIDADE SOLIDÁRIA E OBJETIVA – EMPRESAS PARTICIPANTES DA CADEIA DE CONSUMO – LEGITIMIDADE PASSIVA DA CONCESSIONÁRIA – PRODUÇÃO DE PROVA PERICIAL – PRECLUSÃO – DECISÃO INDEFERITÓRIA NÃO IMPUGNADA OPORTUNAMENTE – CERCEAMENTO DE DEFESA NÃO CARACTERIZADO – INSUFICIÊNCIA DE PROVA DE CULPA EXCLUSIVA DO CONSUMIDOR – ÔNUS PROBATÓRIO DAS RÉS – FALHA NA PRESTAÇÃO DO SERVIÇO – DEVER DE INDENIZAR – DANO MATERIAL – PREJUÍZOS COMPROVADOS – DANO MORAL – CIRCUNSTÂNCIA QUE EXCEPCIONA SIMPLES INADIMPLEMENTO CONTRATUAL – INDENIZAÇÃO CONDIZENTE COM AS CIRCUNSTANCIAS DA LIDE – SENTENÇA MANTIDA – RECURSO DA AUTORA E DAS RÉS DESPROVIDO. 1. É de consumo a relação jurídica havida entre o fabricante do veículo, a concessionária de revenda e aquele que compra o bem para uso pessoal (CDC, art. 2o e 3o). 2. Tratando-se de relação de consumo, “a constatação de defeito em veículo zero-quilômetro revela hipótese de vício do produto e impõe a responsabilização solidária da concessionária (fornecedor) e do fabricante, conforme preceitua o art. 18, caput, do CDC” (STJ - REsp 611.872/RJ, Rel. Min. Antônio Carlos Ferreira, Quarta Turma, julgado em 02/10/2012). 3. Não caracteriza cerceamento de defesa quando o pedido de produção de prova é indeferido por decisão não impugnada, proferida na vigência do CPC/1973, ante a preclusão da matéria. 4. Cumpre ao fornecedor o ônus de provar que o defeito reclamado surgiu por culpa exclusiva do consumidor, mormente nas hipóteses em que envolvem problemas técnicos. 5. Comprovado o vício do produto, e não estando presente uma das hipóteses de excludente de responsabilidade, nasce o dever do fornecedor de ressarcir os prejuízos comprovados. 6. O dano advindo da descoberta do vício do produto e de caprichosa negativa de cobertura contratual, impondo ao consumidor injusta privação do veículo, além do sentimento de impotência, ludibrio, angústia e desrespeito, é suficiente para ensejar o abalo moral indenizável.” (TJMT, RAC 0000802-67.2008.8.11.0088, DES. JOÃO FERREIRA FILHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 19/03/2020)
+Os Embargos de Declaração id 39038993 e 41714452 foram rejeitados, conforme decisão id 44643470.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo, sustentando que o acórdão negou vigência aos artigos 369 e 371 do CPC, artigos 186 e 944 do Código Civil, além da Súmula n. 98 do STJ.
+Assevera que há violação aos artigos 369 e 371 do CPC no momento em que houve o indeferimento da prova pericial, acarretando em cerceamento de defesa.
+Afirma que houve negativa de vigência aos artigos 186 e 944 do Código Civil, uma vez que os danos morais e materiais se mostram abusivos e desproporcionais, até porque não houve comprovação dos danos materiais.
+Ao final, aduz que restou violada a Súmula n. 98 do STJ, uma vez que não é possível a aplicação de multa nos Embargos de Declaração quando possuem o objetivo de prequestionar a matéria.
+Em relação ao efeito suspensivo, aduz que este deve ser concedido, “em especial diante do direito demonstrado abaixo e sendo certo que eventual execução, com os seus consequentes atos de constrição, acarretarão graves prejuízos à recorrente, tendo em vista a possibilidade de reversão da decisão”.
+Recurso tempestivo e preparado, conforme certidões id 47528966 e 47520475.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que ao fundamentar o efeito suspensivo, assim dispôs: “em especial diante do direito demonstrado abaixo e sendo certo que eventual execução, com os seus consequentes atos de constrição, acarretarão graves prejuízos à recorrente, tendo em vista a possibilidade de reversão da decisão”.
+Ou seja, confirmou que inexiste qualquer medida já tomada pela parte vencedora da demanda no sentido de promover atos de constrição do patrimônio da parte Recorrente, o que afasta o perigo da demora.
+Note-se que a simples menção a uma hipotética execução provisória não é apta a comprovar os requisitos necessários à concessão do efeito suspensivo, quais sejam, a probabilidade do direito e o perigo da demora.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 29 de junho de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
