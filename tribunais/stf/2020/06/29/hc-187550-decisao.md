@@ -1,0 +1,21 @@
+Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado por Tiago Leardini Bellucci em favor de Rodrigo Aparecido de Creddo Jacob contra decisão do Min. Nefi Cordeiro, do Superior Tribunal de Justiça, no HC n. 586.470/SP.
+    Consta dos autos que o paciente foi preso em flagrante, e a prisão convertida em preventiva, pela prática dos crimes previstos nos artigos 33, caput e 35, caput, c.c. o artigo 40, VI, todos da Lei n.º 11.343/06.
+    A situação do flagrante foi assim descrita no Termo de Audiência de Custódia (eDOC 2, p. 16): os policiais se dirigiram à residência do paciente para dar cumprimento a mandado de busca e apreensão expedido nos autos nº 1500122-18.2020 e, no local, encontraram seis tijolos de maconha, totalizando 733g. Com o paciente e sua esposa, foi apreendido ainda seu filho, o adolescente Rodrigo Aparecido Creddo Junior, surpreendido no momento em que “picava” um dos tijolos de maconha. Foram também apreendidos na diligência uma porção de cocaína, uma balança de precisão, além de uma determinada quantia em dinheiro.
+    Irresignada com a prisão, a defesa impetrou habeas corpus no TJSP postulando a revogação da constrição cautelar. O pedido liminar foi indeferido (eDOC 2, p. 14-15).
+    Daí a impetração de novo writ no STJ, tendo o relator indeferido liminarmente o mandamus por óbice da Súmula 691/STF.
+    Nesta Corte, a defesa alega, em síntese, que o paciente sofre constrangimento ilegal em razão da carência de fundamentação concreta do decreto cautelar, reputando-se ausentes os requisitos autorizadores da medida, previstos no artigo 312 do CPP.
+    É o relatório. Passo a decidir.
+    As razões da defesa não merecem acolhimento, uma vez que a matéria trazida no presente writ não foi objeto de exame pelas instâncias pretéritas.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão de mérito objeto de exame definitivo pelo STJ, ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013; HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013; HC 127.975-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 3.8.2015 e HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque a prisão do paciente foi lastreada na gravidade em concreto do delito, especialmente pelo modo de agir, que envolve a prática de crime grave dentro da sua residência com participação do filho adolescente.
+     Soma-se isso a possibilidade de reiteração delitiva, já que o paciente já foi processado e condenado por tráfico de drogas e posse ilegal de arma de fogo. Nesse sentido, confira-se trecho da decisão que converteu o flagrante em prisão preventiva:
+    3. Os indiciados possuem residência fixa, são primários e supostamente trabalham Rodrigo já foi processado anteriormente por tráfico e condenado por posse ilegal de arma de fogo, enquanto que Ariana, por receptação (fls. 37/55). Contudo, diante das circunstâncias da prisão, realizada por guardas e policiais no contexto do cumprimento de um mandado de busca e apreensão expedido por este juízo justamente a fim de se apurar a prática de tráfico de drogas no local, residência da família, após a constatação, no ato, de que o adolescente, filho do casal, picotava um tijolo de maconha, dos vários que possuía, de modo aberto em seu quarto, inviável a concessão de liberdade provisória, já que demonstram, ao menos em tese, participar da atividade delitiva, sem prejuízo, por óbvio, de futura apuração das reais circunstâncias do fato. (eDOC 2, p. 16-18)
+    Portanto, não vislumbro coação ilegal na medida constritiva.
+    Ante o exposto, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 29 de junho de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
