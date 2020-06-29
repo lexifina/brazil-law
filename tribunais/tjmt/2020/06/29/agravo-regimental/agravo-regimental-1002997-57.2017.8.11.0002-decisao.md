@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO CÍVEL (1689) 1002997-57.2017.8.11.0002 - COMARCA DE VÁRZEA GRANDE
+AGRAVANTE: EURICO DE OLIVEIRA COSTA NETO
+AGRAVADOS: PEDRO PAULO IAZBICK FARINCHON, RUTH DA COSTA MARQUES FARINCHON
+Vistos etc.
+Intimem-se os agravados para se manifestarem sobre o Agravo Regimental, no prazo legal.
+Cumpra-se.
+Cuiabá, 29 de junho de 2020.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
