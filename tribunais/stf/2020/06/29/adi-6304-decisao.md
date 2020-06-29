@@ -1,0 +1,27 @@
+Despacho:
+    Vistos.
+    Vieram os autos conclusos à Presidência com despacho do eminente Ministro Celso de Mello, propondo a redistribuição da presente ação, por prevenção, ao eminente Ministro Luiz Fux (eDoc. 30).
+    Encaminhei os autos à Secretaria Judiciária para que informasse a respeito, considerando o que preconizado pelo art. 77-B do RISTF.
+    As informações foram oportunamente prestadas com o seguinte teor:
+    “Esta Ação Direta de Inconstitucionalidade foi proposta pela Associação Brasileira dos Advogados Criminalistas – ABRACRIM e impugna, nos termos da petição inicial, os artigos 91-A (perdimento de bens decorrente de ilícitos) e 116, IV do Código Penal (causa impeditiva de prescrição penal), artigo 28-A do Código de Processo Penal (acordo de não persecução penal) e artigo 112 da Lei de Execuções Penais (progressão de regime), todos introduzidos ou alterados pela Lei nº 13.964, de 24 de dezembro de 2019.
+    Foi distribuída livremente ao Exmo. Sr. Ministro Celso de Mello em 16/01/2020, considerando que, até essa data, não havia nenhuma outra ADI impugnando os dispositivos aqui citados.
+    A ADI nº 6.345, por sua vez, foi proposta pela Associação Nacional das Defensoras e dos Defensores Públicos – ANADEP, e ataca os artigos 75 (limite de penas) e 91-A, § 2º do Código Penal (perdimento de bens); os artigos 14-A, §1º (possibilidade de constituição de defensor no âmbito de inquérito), 28-A, § 2º, inciso II (não cabimento de acordo de não persecução penal), artigo 310, § 2º (conversão de prisão em flagrante em preventiva) e 492, inciso I, alínea ‘e’ (execução provisória da pena em julgamento do júri), do Código de Processo Penal; artigos 9-A, § 8º e artigo 50, inciso VIII (identificação de perfil genético) e artigo 122, § 2º (saída temporária), todos da Lei de Execuções Penais, com as redações dadas pela Lei nº 13.964/2019. Se insurge, ainda, contra os artigos 14 e 15 da própria Lei nº 13.964, que alteram, respectivamente, a Lei de Organizações Criminosas e a Lei do Disque-Denúncia.
+    Considerando que, tanto esta ADI nº 6.304 quanto a ADI nº 6.345 impugnam os artigo 28-A do Código de Processo Penal e 91-A do Código Penal, e ainda o fato de a ADI nº 6.304 ter sido a primeira distribuída nesta Corte onde houve impugnação desses dispositivos, foi apontada a prevenção entre elas, nos termos do artigo 77-B do Regimento Interno do Supremo Tribunal Federal,
+    A ADI nº 6.298, proposta pela Associação dos Magistrados Brasileiros – AMB, de relatoria do Exmo. Sr. Ministro Luiz Fux, se insurge, nos termos da petição inicial, contra os artigos 3-A, 3-B, 3-C, 3-D e 3-F do Código Penal (juiz de garantias), incluídos pela Lei nº 13.964, de 2019, bem como o artigo 20 da mesma lei, que fixou o prazo para sua entrada em vigor. Foi livremente distribuída em 27/12/2019.
+    Em 30/12/2019 foi distribuída a ADI nº 6.299, de autoria dos partidos políticos Podemos e Cidadania. Impugna os artigos 3-A, 3-B, 3-C, 3-D e 3-F do Código Penal e o artigo 157, § 5º do Código de Processo Penal. Pela coincidência dos artigos do Código Penal atacados, foi apontada a prevenção para a ADI nº 6.298.
+    A ADI nº 6.300, ajuizada pelo Partido Social Liberal – PSL, foi distribuída por prevenção ao Exmo. Sr. Ministro Luiz Fux, em 02/01/2020, nos termos artigo 77-B do RISTF, em razão de também atacar os artigos 3-A a 3-F do Código Penal, impugnados na ADI nº 6.298.
+    Por fim, a ADI nº 6.305, distribuída em 20/01/2020, foi proposta pela Associação Nacional dos Membros do Ministério Público – CONAMP, impugnando os artigos 3-A, 3-B, incisos IV, VIII, IX, X e XI, alíneas ‘d’ e ‘e’ do Código Penal, bem como o artigo 28- A, incisos III e IV e §§ 5º, 7º e 8º e o artigo 310, § 4º, do Código de Processo Penal. Em razão dos dispositivos impugnados, pelo teor do artigo 77-B do RISTF, caberia prevenção tanto para a ADI nº 6.298 quanto para esta ADI nº 6.304.
+    Considerando a anterioridade na distribuição, foi apontada a prevenção para a ADI nº 6.298. Em resumo, esta ADI nº 6.304 foi distribuída por sorteio ao Exmo. Sr. Ministro Celso de Mello, em razão de não haver, na data de distribuição, processo com objeto semelhante.
+    E a ADI nº 6.345 foi distribuída por prevenção em razão de Sua Excelência ter recebido o primeiro processo em que coincidiam os dispositivos impugnados.”
+    É o relatório.
+    Decido.
+    Consoante apontado pelo eminente Decano, esta ação direta mantem “inequívoca relação de conexão com a ADI 6.298/DF, a ADI 6.299/DF, a ADI 6.300/DF e a ADI 6.305/DF, tendo em vista a coincidência parcial, entre elas, no que concerne à causa de pedir e ao pedido”.
+    Tanto esta ação quanto aquelas que estão sob a relatoria do eminente Ministro Luiz Fux, questionam dispositivos introduzidos ou alterados pela Lei nº 13.964, de 24 de dezembro de 2019, conhecida como Pacote Anticrime.
+    Nesse contexto, cumpri observar a norma prevista no art. 77-B do RISTF, segundo a qual
+    “[n]a ação direta de inconstitucionalidade, na ação direta de inconstitucionalidade por omissão, na ação declaratória de constitucionalidade e na arguição de descumprimento de preceito fundamental, aplica-se a regra de distribuição por prevenção quando haja coincidência total ou parcial de objetos.”
+    Por essas razões, acolho a sugestão do eminente Ministro Celso de Mello, e determino a redistribuição desta ação, por prevenção, ao eminente Ministro Luiz Fux.
+    Publique-se.
+    Brasília, 29 de junho de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
