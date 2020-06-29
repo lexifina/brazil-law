@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA REGIDO PELA LEI 13.015/2014. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ADMISSÃO ANTERIOR À CONSTITUIÇÃO FEDERAL DE 1988 SEM CONCURSO PÚBLICO. TRANSMUDAÇÃO AUTOMÁTICA DO REGIME JURÍDICO. IMPOSSIBILIDADE (SÚMULA 333 DO TST). PRESCRIÇÃO. FGTS. MANUTENÇÃO DO SERVIDOR NO ANTIGO VÍNCULO CELETISTA. PRESCRIÇÃO TRINTENÁRIA DENTRO DA MODULAÇÃO EX NUNC DETERMINADA PELO STF NO ARE 709.212 (SÚMULA 362 DO TST). JULGAMENTO ULTRA PETITA. DECISÃO PROFERIDA DENTRO DOS LIMITES DA LIDE (AUSÊNCIA DE VIOLAÇÃO LEGAL). Ao se verificar a ausência de fundamentos que embasem a reforma da decisão agravada, há de se manter a decisão que denegou seguimento ao agravo de instrumento. Agravo não provido”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 19 do ADCT e aos arts. 37, II, e 39 da CF. Sustenta que “a Constituição Federal não veda a mudança de regime jurídico do funcionalismo, apenas proíbe a atribuição de cargo de provimento efetivo a pessoa que não se submeteu a concurso público, a teor do seu art.37,II”.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 279/STF.
+    O Ministério Público Federal, em parecer do Procurador-Geral da República, Augusto Aras, opinou pelo desprovimento do agravo em recursos extraordinário.
+    O recurso não merece acolhida, tendo em vista que a decisão proferida pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte.
+    No caso, é incontroverso que o ingresso do recorrente no serviço público se deu sem a prévia aprovação em concurso público, sob o regime celetista, antes da Constituição Federal de 1988. Nesses casos, a jurisprudência desta Corte se orienta no sentido de que é incabível a transmudação do regime celetista para o estatutário com base, exclusivamente, no art. 19 do ADCT. Nesse sentido, veja-se a ADI 1.150, Rel. Min. Moreira Alves.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 29 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
