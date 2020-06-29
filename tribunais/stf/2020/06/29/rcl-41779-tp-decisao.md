@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de reclamação, com pedido de tutela provisória, na qual se alega que os atos ora impugnados teriam transgredido a  autoridade de decisão proferida pelo Supremo Tribunal Federal em julgamento de recurso extraordinário com repercussão geral reconhecida (RE 870.947/SE, Rel. Min. LUIZ FUX), bem assim o entendimento firmado pelo Superior Tribunal de Justiça em sede de recurso repetitivo (Tema nº 905/STJ), além de supostamente haver desrespeitado a Lei Federal nº 11.960/2009.
+    Presente esse contexto, passo a apreciar a admissibilidade da presente reclamação.
+    E, ao fazê-lo, devo registrar, desde logo, que se revela inadmissível  a utilização do instrumento reclamatório por suposta transgressão à decisão emanada do E. Superior Tribunal de Justiça e à Lei Federal nº 11.960/2009.
+    É que a reclamação, como se sabe, qualquer que seja a natureza que se lhe atribua – ação (PONTES DE MIRANDA, “Comentários ao Código de Processo Civil”, tomo V/384, Forense), recurso ou sucedâneo recursal (MOACYR AMARAL SANTOS, RTJ 56/546-548; ALCIDES DE MENDONÇA LIMA, “O Poder Judiciário e a Nova Constituição”, p. 80, 1989, Aide), remédio incomum (OROSIMBO NONATO, “apud” Cordeiro de Mello, “O Processo no Supremo Tribunal Federal”, vol. 1/280), incidente processual (MONIZ DE ARAGÃO, “A Correição Parcial”, p. 110, 1969), medida de direito processual constitucional (JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. 03, 2ª parte, p. 199, item n. 653, 9ª ed., 1987, Saraiva) ou medida processual de caráter excepcional (RTJ 112/518-522, Rel. Min. DJACI FALCÃO) –, configura instrumento de extração constitucional (CF, arts. 102, I, “l”, e 103-A, § 3º), não obstante a origem pretoriana de sua criação (RTJ 112/504), revestida de múltiplas funções, tal como revelado por precedentes desta Corte (RTJ 134/1033, v.g.) e definido pelo novo Código de Processo Civil (art. 988), as quais, em síntese, compreendem (a) a preservação da competência global do Supremo Tribunal Federal, (b) a restauração da autoridade das decisões proferidas por esta Corte Suprema e (c) a garantia de observância da jurisprudência vinculante deste Tribunal Supremo (tanto a decorrente de enunciado sumular vinculante quanto a resultante dos julgamentos da Corte em sede de controle normativo abstrato), além de atuar como expressivo meio vocacionado a fazer prevalecer os acórdãos deste Tribunal proferidos em incidentes de assunção de competência.
+    Para legitimar-se o acesso à via reclamatória, no entanto, torna-se necessário que, de maneira efetiva, demonstre-se a existência de desrespeito a decisão desta Suprema Corte com efeito vinculante (ou, então, indique-se decisão emanada do Supremo Tribunal Federal em processo no qual haja intervindo a parte reclamante), ou comprove-se ocorrência de usurpação da competência deste Tribunal, ou, ainda, aponte-se situação de transgressão a súmula vinculante desta Corte Suprema.
+    A análise destes autos evidencia, contudo, que a parte ora reclamante não invocou, no ponto, qualquer das situações que venho de referir, o que torna inviável, em consequência, a instauração deste processo reclamatório quanto aos referidos paradigmas de confronto.
+    De outro lado, no que se refere à suposta transgressão à autoridade da decisão proferida por esta Suprema Corte no julgamento do RE 870.947/SE, Rel. Min. LUIZ FUX, melhor sorte não assiste à parte reclamante.
+    O exame destes autos e dos documentos que os instruem evidencia que, na espécie, não houve o esgotamento das instâncias ordinárias, o que torna inadmissível a invocação, como parâmetro de controle, do RE 870.947/SE.
+    Com efeito, nos casos em que a reclamação for ajuizada com o objetivo de fazer prevalecer julgamento desta Corte proferido em recurso extraordinário com repercussão geral reconhecida, é indispensável que haja o efetivo e prévio exaurimento das instâncias ordinárias, sob pena de a reclamação sofrer juízo negativo de cognoscibilidade (Rcl 23.689/SP, Rel. Min. DIAS TOFFOLI – Rcl 24.259/SP, Rel. Min. ROSA WEBER – Rcl 24.323/BA, Rel. Min. GILMAR MENDES – Rcl 24.707/MT, Rel. Min. LUIZ FUX, v.g.):
+    “PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+    1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+    2. Agravo regimental não provido.”
+    (Rcl 24.686-ED-AgR/RJ, Rel. Min. TEORI ZAVASCKI – grifei)
+    Convém salientar, por oportuno, que a colenda Primeira Turma desta Suprema Corte, defrontando-se com pretensão jurídica  virtualmente idêntica à ora em análise (Rcl 24.639-AgR/PR, Rel. Min. LUIZ FUX), negou seguimento à reclamação, em decisão que restou consubstanciada em acórdão assim ementado:
+    “AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL. AÇÃO DE IMPROBIDADE. PRESCRITIBILIDADE DA PRETENSÃO DE RESSARCIMENTO AO ERÁRIO EM FACE DE AGENTES PÚBLICOS POR ATO DE IMPROBIDADE ADMINISTRATIVA. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. IMPOSSIBILIDADE DO USO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.  AGRAVO INTERNO DESPROVIDO.
+    1. A reclamação não pode ser utilizada como um atalho processual destinado à submissão imediata do litígio ao exame direto desta Suprema Corte, não se caracterizando como sucedâneo recursal. Precedentes: Rcl 10.036-AgR, rel. Min. Joaquim Barbosa, Plenário, DJe 1º/2/2012; Rcl 4.381-AgR, rel. Min. Celso de Mello, Plenário, DJe 5/8/2011.
+    2. Agravo interno desprovido.” (grifei)
+    Tenho para mim, desse modo, que a situação veiculada nos presentes autos incide na restrição fundada no art. 988, § 5º, inciso II, do vigente Código de Processo Civil.
+    Impende enfatizar, finalmente, em face da ausência, na espécie, dos pressupostos que poderiam legitimar o ajuizamento da reclamação, que este instrumento reclamatório não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto desta Suprema Corte.
+    É que a reclamação não se qualifica como sucedâneo recursal, nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, nem traduz meio de uniformização de jurisprudência, eis que tais finalidades revelam-se estranhas à destinação subjacente a essa medida processual, consoante adverte a jurisprudência do Supremo Tribunal Federal:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. RECLAMAÇÃO: NÃO É SUCEDÂNEO DE RECURSO OU DE AÇÃO RESCISÓRIA.
+    I. – A reclamação não pode ser utilizada como sucedâneo de recurso ou de ação rescisória.
+    II. – Reclamação não conhecida.”
+    (RTJ 168/718, Rel. Min. CARLOS VELLOSO, Pleno – grifei)
+    “Não cabe reclamação destinada a invalidar decisão de outro Tribunal, que haja porventura divergido da jurisprudência do Supremo Tribunal, firmada no julgamento de causa diferente, mesmo em se tratando de controvérsias de porte constitucional.
+    Também não é a reclamação instrumento idôneo de uniformização de jurisprudência, tampouco sucedâneo de recurso ou rescisória, não utilizados tempestivamente pelas partes.”
+    (Rcl 724-AgR/ES, Rel. Min. OCTAVIO GALLOTTI, Pleno – grifei)
+    “O despacho acoimado de ofender a autoridade da decisão do Supremo Tribunal Federal negou seguimento, por razões processuais suficientes, ao recurso ordinário interposto contra acórdão em mandado de segurança. Por esse fundamento não é cabível reclamação, eis que a decisão da Corte Maior não cuida da matéria.
+    .......................................................................................................
+    A reclamação não pode servir de sucedâneo de recursos e ações cabíveis, como decidiu esse Plenário nas Rcl Ag.Rg 1852, relator Maurício Correa, e Rcl Ag.Rg. 724, rel. Min. Octavio Gallotti. (…).”
+    (Rcl 1.591/RN, Rel. Min. ELLEN GRACIE, Pleno – grifei)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. AFRONTA À DECISÃO PROFERIDA NA ADI 1662-SP. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE OU SIMILITUDE DE OBJETOS ENTRE O ATO IMPUGNADO E A EXEGESE DADA PELO TRIBUNAL.
+    .......................................................................................................
+    A questão da responsabilidade do Estado pelas dívidas da instituição financeira estatal revela tema afeto ao processo de execução que tramita na Justiça do Trabalho, não guardando pertinência com o objeto da presente ação. A reclamação não pode servir de sucedâneo de outros recursos ou ações cabíveis.”
+    (Rcl 1.852-AgR/RN, Rel. Min. MAURÍCIO CORRÊA, Pleno – grifei)
+    “EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    .......................................................................................................
+    3. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo ‘a quo’.
+    .......................................................................................................
+    5. Agravo regimental não provido.”
+    (Rcl 5.465-ED/ES, Rel. Min. CÁRMEN LÚCIA, Pleno – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. A RECLAMAÇÃO NÃO É SUCEDÂNEO DE RECURSO PRÓPRIO. RECURSO IMPROVIDO.
+    I – A reclamação constitucional não pode ser utilizada como sucedâneo de recurso próprio para conferir eficácia à jurisdição invocada nos autos da decisão de mérito.
+    .......................................................................................................
+    III – Reclamação improcedente.
+    IV – Agravo regimental improvido.”
+    (Rcl 5.684-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI, Pleno – grifei)
+    “(…) – O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. (…).”
+    (Rcl 6.534-AgR/MA, Rel. Min. CELSO DE MELLO, Pleno)
+    Sendo assim, e em face das razões expostas, nego seguimento à presente reclamação (CPC, art. 932, VIII, c/c o RISTF, art. 21, § 1º), restando prejudicado, em consequência, o exame do pedido de tutela provisória.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 29 de junho de 2020.
+Ministro CELSO DE MELLO
+Relator
