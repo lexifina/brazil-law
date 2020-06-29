@@ -1,0 +1,35 @@
+PODER JUDICIÁRIO
+DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+1008936-61.2018.8.11.0041
+APELANTE: MARCELO BORGES & ADVOGADOS ASSOCIADOS
+APELADO: BANCO DO BRASIL SA
+DES. RUBENS DE OLIVEIRA SANTOS FILHO
+APELAÇÃO CÍVEL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - DIREITO ATINGIDO PELA PRESCRIÇÃO QUINQUENAL - INÍCIO DESSE PRAZO - DATA DA CIÊNCIA DA REVOGAÇÃO DOS PODERES DO MANDATÁRIO - PRECEDENTES DO STJ - VERBA SUCUMBENCIAL - FIXAÇÃO EM QUANTIA RAZOÁVEL NA SENTENÇA - MANUTENÇÃO DEVIDA - MAJORAÇÃO NESTA FASE - APLICAÇÃO DO ARTIGO 85, §11, DO CPC - RECURSO NÃO PROVIDO.
+Com base no princípio da actio nata, o Superior Tribunal de Justiça firmou entendimento jurisprudencial reconhecendo que, nos contratos de prestação de serviços advocatícios, havendo rescisão unilateral do pacto firmado, o prazo prescricional para pleitear o pagamento dos honorários tem como termo inicial a data da ciência da revogação do contrato (STJ, AgInt no AREsp no. 1367106/SP).
+Não comportam alteração os honorários sucumbenciais fixados na sentença em valor que remunera com justiça o profissional e sem acarretar-lhe enriquecimento ilícito, o qual deverá ser majorado em grau recursal em razão do trabalho adicional realizado nesta fase (art. 85, §11, do CPC).
+Apelação em Ação de Arbitramento de Honorários extinta com resolução de mérito ante o reconhecimento da prescrição, com condenação do autor ao pagamento das custas e verba honorária de R$2.000,00.
+O apelante alega que o juízo de origem não considerou que, pelos 30 dias previstos na notificação de rescisão do contrato de prestação de serviços advocatícios, o prazo prescricional teria início em 22/04/2013. Aduz também que a verba sucumbencial é excessiva e comporta redução.
+Pugna pela reforma da sentença.
+Contrarrazões apresentadas no ID no. 47493996.
+É o relatório.
+Em 08/03/2013 o apelado notificou o apelante extrajudicialmente da rescisão unilateral do contrato de prestação de serviços (ID no. 47492644).
+A correspondência foi recebida em 22/03/2013 e contém a seguinte advertência – V.Sa. deverá permanecer na condução dos processos pelo prazo máximo de 30 (trinta) dias a contar da rescisão ora notificada, ou antes de tal prazo, mediante o efetivo ingresso do novo patrono nos autos (destaques originais).
+Como visto, o propósito dessa cláusula era a transição de mandatários nos processos judiciais em que o escritório apelante atuava. Portanto, não há como dizer que durante todo esse período defendeu em juízo os interesses do apelado. Não há nenhum documento nos autos que corrobore essa afirmação (art. 373, inciso I, do CPC).
+Com base no princípio da actio nata, o Superior Tribunal de Justiça firmou entendimento jurisprudencial reconhecendo que, nos contratos de prestação de serviços advocatícios, havendo rescisão unilateral do pacto firmado, o prazo prescricional para pleitear o pagamento dos honorários tem como termo inicial a data da ciência da revogação do contrato (STJ, AgInt no AREsp no. 1367106/SP, DJe de 30/08/2019).
+A Corte Superior admite que alternativamente se considere como marco inicial o efetivo término da atuação na lide, porém, como já consignado, não há qualquer evidência de que o apelante permaneceu advogando para o apelado após receber a notificação.
+Logo, poderia ingressar com este feito até 22/03/2018, e fazê-lo só em 06/04/2018 significa que deve ser reconhecida a extinção do seu direito de cobrança.
+Não se discute a importância do advogado para a promoção da justiça e nem a relevância dos seus honorários, consolidados jurisprudencialmente como verba alimentar. Todavia, no caso concreto é imperioso aplicar aquela orientação pacificada no STJ, já referida.
+Demanda similar à esta já foi enfrenta pela 4a Câmara de Direito Privado desta Corte, tendo a pretensão do apelante sido rejeitada por unanimidade de votos (confira-se AP no. 1008831-84.2018.8.11.0041, julgada em 10/06/2020).
+No mesmo sentido são os precedentes das duas Turmas de Direito Privado do Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. COBRANÇA. PRESCRIÇÃO. PRAZO. CONTAGEM. EFETIVA FINALIZAÇÃO DA ATUAÇÃO. DIES A QUO. ARTS. 25 DA LEI N. 8.906/1994. 1. A contagem do prazo prescricional a que se refere o artigo 25, inciso V, da Lei no 8.906/1994 se inicia na data em que ocorre a ciência da renúncia ou revogação do mandato ou o término da prestação dos serviços. 2. Agravo interno não provido. (AgInt no AREsp no. 1398468/RS, 4a Turma/STJ, Rel. Min. Luis Felipe Salomão, julgado em 14/05/2019, DJe de 23/05/2019, sem destaques no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. PRESCRIÇÃO. TERMO INICIAL. AGRAVO IMPROVIDO. 1. O prazo prescricional para cobrança de honorários advocatícios contratuais, quando houver renúncia ou revogação do mandato, conta-se do dia da ciência desses atos, e não do trânsito em julgado verificado na ação em que se deu a atuação do advogado. Precedentes. 2. Agravo interno improvido. (AgInt no REsp no. 1457585/PR, 3a Turma/STJ, Rel. Min. Marco Aurélio Bellizze, julgado em 18/08/2016, DJe de 05/09/2016, sem grifos no original).
+O apelante busca ainda a minoração da verba sucumbencial por ele devida. Contudo, o valor fixado (R$2.000,00) não é excessivo mas sim adequado para remunerar de forma digna o serviço prestado pela assessoria jurídica do apelado.
+Sobre o assunto, o STJ já decidiu que esse trabalho não se resume à elaboração das peças processuais em si, cabendo a ele diversas outras providências, como realizar reuniões com o cliente, analisar a documentação apresentada na petição inicial e aquela que irá instruir a defesa, acompanhar o andamento do processo, manter entendimentos com os patronos da parte adversa etc. Ademais, há de se levar em consideração a responsabilidade assumida pelo advogado ao aceitar o patrocínio de uma ação. Ainda que o seu dever seja de meio e não de fim, o advogado responderá pelos danos que eventualmente causar ao cliente. (REsp no. 1139630/SC).
+É notória aqui a responsabilidade assumida e o zelo dos profissionais envolvidos no desempenho de suas funções durante quase dois anos de tramitação do processo e não se verifica nenhum elemento que demonstrem o contrário.
+Por fim, em harmonia com o Enunciado Administrativo no. 7 do STJ, os honorários advocatícios sucumbenciais definidos em primeiro grau comportam majoração de ofício por este Tribunal.
+Segundo a Corte Superior, o §11 do art. 85 do Código de Processo Civil de 2015 tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada (...) (AgInt no AREsp no. 886004/RJ, DJe de 18/08/2016, sem grifos no original).
+Pelo exposto, com amparo nos arts. 85, § 11, e 932, inciso IV, do CPC, nego provimento ao Recurso e majoro os honorários arbitrados na sentença em R$2.000,00 para R$3.000,00.
+Cuiabá, 29 de junho de 2020.
+Des. Rubens de Oliveira Santos Filho
+Relator
