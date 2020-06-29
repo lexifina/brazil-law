@@ -1,0 +1,30 @@
+DECISÃO
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pelo Ministro SEBASTIÃO REIS JÚNIOR, do Superior Tribunal de Justiça, no HC 577.350/CE.
+    Consta dos autos, em síntese, que o paciente (nascido em 29/12/1992) foi preso preventivamente e denunciado pela prática dos crimes de roubo majorado (art. 157, § 2º, II, do Código Penal) e organização criminosa (art. 2º, § 2º, da Lei 12.850/2013).
+    Colhe-se das informações prestadas pelo Juízo de origem (Doc. 5, fls. 2-3):
+     A denúncia foi oferecida em 21 de maio de 2018, contra 05 (cinco) acusados, sustentando, resumidamente em relação ao paciente, que no dia 26 de abril de 2019 o mesmo foi preso em flagrante pela suposta prática do crime de roubo majorado e organização criminosa.
+    Aponta a peça ministerial que o paciente praticou diversos assaltos, com uso de arma de fogo. Relata, ainda, que os acusados integram a organização criminosa, Primeiro Comando da Capital – PCC, e que já responderam a crimes no Estado de São Paulo/SP, bem como que o requerente, Douglas Aparecido Ribeiro, foi preso em flagrante e indicou onde se encontrava os denunciados Thatiane de Paiva Soares e Rodrigo Azevedo Volcov, sendo apreendidos, na ocasião, uma submetralhadora, uma pistola IMBEL, cal. 380, munições, toucas ninjas, mapas e anotações referentes ao planejamento de roubos na região.
+    Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado do Ceará, que denegou a ordem, conforme ementa:
+    HABEAS CORPUS. PENAL E PROCESSO PENAL. ROUBO MAJORADO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE ACUSADOS. CARTA PRECATÓRIA.TRAMITAÇÃO REGULAR. CONSTRAGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM CONHECIDA E DENEGADA.
+    1. Aponta o impetrante constrangimento ilegal, haja vista excesso de prazo na formação da culpa.
+    2. Em análise ao desenvolvimento processual, observa-se que trata-se de processo complexo em face do caráter multitudinário no polo passivo da persecução penal, contando com 05 acusados, expedição de carta precatória e declínio de competência para a Vara de Delitos de Organizações Criminosas, circunstâncias que justificam uma tramitação mais compassada, contudo vê-se que a instrução criminal encontra-se praticamente encerrada, faltando apenas ouvir uma vítima residente nesta Comarca, não havendo, portanto, desídia por parte do Estado/Juiz na condução do processo nem demora desarrazoada, não restando caraterizado o excesso de prazo na formação da culpa. Precedente.
+    3. ORDEM CONHECIDA E DENEGADA.
+    Na sequência, nova impetração, dessa vez dirigida ao Superior Tribunal de Justiça, que indeferiu a medida acauteladora, nos termos seguintes:
+    Não me convenci, em princípio, do alegado constrangimento.
+    Da atenta análise dos autos, em especial das informações prestadas pelo Juízo de primeiro grau à autoridade apontada como coatora, observa-se que, além de se tratar de feito complexo, com cinco acusados, vários fatos delituosos a apurar e necessidade de expedição de carta precatória, o Magistrado singular consignou que (fl. 476):
+    [...] Em arremate, não existem novos fatos ou motivos que afastem a necessidade e a utilidade da segregação cautelar, é, portanto, forçoso concluir que a conduta delituosa do paciente revela, concretamente, a sua evidente periculosidade e anocividade da conduta criminosa no meio social no qual inserido. É, em igual dimensão,providência necessária para assegurar a aplicação da lei penal, bem como na garantia da ordem pública face a gravidade in concreto do delito. Os crimes tiveram premeditação, concurso de 05(cinco) agentes, e utilização de arma de fogo, amedrontando as vítimas, agredindo o patrimônio e integridade física e psíquica da destas. Por fim destaco que o paciente é suspeito e por isso está sendo processado nos autos n° 8738-75.2018.8.06.0107, pela prática dos crimes de tráfico, associação ao tráfico e corrupção de menores.
+    [...]
+    Sobre a alegação de aplicabilidade da Recomendação n. 62/2020, do Conselho Nacional de Justiça, cabe ao impetrante formular pedido de providências relativas à Covid-19, primeiramente, nas instâncias ordinárias.
+    Em face do exposto, indefiro o pedido liminar.
+    Solicitem-se informações ao Juízo de primeiro grau a respeito do atual andamento da ação penal, alertando-o para a necessidade de reavaliação fundamentada da prisão cautelar do paciente, nos termos do art. 316, parágrafo único, do Código de Processo Penal.
+    Nesta ação, o impetrante alega, em suma, a ausência dos pressupostos autorizadores da prisão cautelar. Enfatiza que o paciente encontra-se recolhido ao cárcere por mais de 02 (dois) anos e 02 (dois) meses, sem que tenha encerrado a instrução criminal.
+    Requer, assim, a concessão da ordem, para que seja revogado o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+    É o relatório. Decido.
+    Nos termos da Súmula 691/STF, não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus voltado contra decisão proferida por relator que indefere o pedido de liminar em impetração requerida a tribunal superior, sob pena de indevida supressão de instância. O rigor na aplicação desse enunciado tem sido abrandado por julgados desta CORTE somente em caso de manifesto constrangimento ilegal, prontamente identificável (HC 138.946, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 128.740, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ROSA WEBER, Primeira Turma, DJe de 24/10/2016; HC 138.945- AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 7/3/2017).
+    Na espécie, entretanto, não se constata a presença de flagrante ilegalidade apta a justificar a intervenção antecipada da SUPREMA CORTE.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 29 de junho de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
