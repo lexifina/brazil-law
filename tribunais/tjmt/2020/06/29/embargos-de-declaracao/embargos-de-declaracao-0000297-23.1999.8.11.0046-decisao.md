@@ -1,0 +1,32 @@
+RECURSO DE EMBARGOS DE DECLARAÇÃO (OPOSTOS NO RECURSO DE AGRAVO INTERNO - INTERPOSTO NO RECURSO DE APELAÇÃO N. 0000297-23.1999.8.11.0046)
+Vistos etc.
+Trata-se de Recurso de Recurso de Embargos de Declaração opostos pelo Banco do Brasil S.A. em virtude da decisão monocrática proferida no ID 44947958, que desproveu o apelo do Embargante e, por outro lado, deu provimento ao recurso dos Embargados João Clemente Reimann e Outro, fixando a verba honorária sucumbencial.
+O Embargante não se conforma com a decisão que manteve a sentença e extinguiu a Ação de Execução por abandono de causa.
+Alega, em suma, que o advogado constituído - Dr. Sérvio Túlio Barcelos (OAB/MT 14.258-A), não foi regularmente intimado para dar impulso ao feito, o que justifica a reforma da sentença extintiva, sobretudo porque o advogado Adriano Athala de Oliveira Schaira (OAB/MT 20.495-A) foi erroneamente cadastrado como patrono do Banco Embargante.
+Nas contrarrazões apresentadas pelos Embargados, estes pugnaram pela rejeição dos Aclaratórios.
+Eis a síntese do necessário. Fundamento.
+DECIDO.
+Do cotejo das ilações do Embargante com o acórdão invectivado, não há o que ser complementado à luz do art. 1.022 do CPC. Aliás, o Embargante sequer apontou em qual vício o julgado incorreu.
+No caso, está nítido o inconformismo do Embargante com o resultado do julgamento, haja vista que a sua pretensão é rediscutir matéria já decidida, ou seja, o Embargante busca o rejulgamento da causa, o que é vedado fazê-lo pela via eleita.
+É cediço que os Declaratórios, conforme palavras do Min. Marco Aurélio do E. STF: "não consubstanciam crítica ao ofício judicante, mas servem-lhe ao aprimoramento. Ao apreciá-los, o órgão deve fazê-lo com espírito de compreensão, atentando para o fato de consubstanciarem verdadeira contribuição da parte em prol do devido processo legal" (in STF-2a Turma, A.I. 163.047-5-PR-AGRG-EDCL, j. 18.12.95, v.u., DJU 8.3.96, p. 6.223. In Theotônio Negrão. Código de Processo Civil e Legislação em vigor, 35a ed., São Paulo: Saraiva, p. 592, 2003).
+O voto condutor é claro no sentido que, em 03/07/1995, a Instituição Bancária ajuizou a Ação de Execução em face dos Embargados aparelhada na Escritura Pública e Confissão e Assunção de Dívida com Garantia Pignoratícia e Hipotecária, vencida em 1.o/06/1994.
+Citados, os Embargados pugnaram, inicialmente, pela suspensão do andamento processual ante a possibilidade de securitização da dívida; todavia, não obtiveram êxito, o que deu causa à penhora de bens e à oposição dos Embargos à Execução n.o 136/CI/1998.
+Os Embargos à Execução foram julgados em 30/09/2003, cujos pedidos foram parcialmente acolhidos, tendo sido determinada a retificação do cálculo face à declaração de ilegalidade da capitalização dos juros e dos juros remuneratórios superiores à taxa de 12% ao ano. Quanto aos consectários da mora, determinou-se o cômputo dos juros moratórios de 1% ao mês, correção pelo INPC e multa de 10%.
+Referida sentença foi, parcialmente, modificada no RAC 2.332/2007, tendo sido mantida a limitação dos juros remuneratórios em 12% ao ano, capitalizados mensalmente. No que tange aos encargos da inadimplência, autorizou-se os juros moratórios para 1% ao ano, correção pelo BTNF em 41,28% em março e abril/1990.
+Retornados os autos à origem, o Contador Judicial certificou que não dispunha de meios técnicos suficientes para liquidar o débito conforme a decisão judicial, razão pela qual os Embargados foram instados a apresentarem a planilha de cálculo do valor devido, tendo sido pugnado o prazo de 90 (noventa) dias para o mister.
+Noutro viés, o Banco Embargante foi intimado para regularizar sua representação processual, tendo sido juntado o substabelecimento em favor da Sociedade de Advogados Signori, Pissini e Marquesini em 21/08/2013.
+Em seguida, o Banco Embargante pugnou pela penhora da Fazenda Branca e Fazenda Siriema II, localizadas na Gleba Juína, bem como que fosse renovada a avaliação dos imóveis penhorados em Santo Augusto/RS.
+Conquanto expedida a Carta Precatória para a Comarca de Santo Augusto/RS, até 09/10/2015, o Banco Agravado não havia retirado a Carta Precatória para remessa à Comarca Deprecada.
+Em petição protocolizada em 27/04/2016, a Sociedade de Advogados Signori, Pissini e Marquesini renunciou aos poderes.
+Logo em seguida, aportou aos autos a Procuração outorgada pelo Embargante à Sociedade de Advogados Barcelos Advogados Associados, tendo sido solicitado o cadastramento do advogado Sérvio Túlio Barcelos (OAB/MT 14.258-A) para o recebimento de intimações.
+A despeito disso, ato contínuo, o Banco Embargante juntou nova procuração nos autos, outorgando poderes para que a Shcaira Advogados Associados a representasse nos autos, solicitando os préstimos de cadastrar o advogado Adriano Athala de Oliveira Shcaira (OAB/MT 20495/A) como o responsável pelo recebimento das intimações, conforme ressoam dos Ids 31518959 e 31548960.
+Enfim, o último advogado constituído nos autos pelo Banco Embargante - Adriano Athala de Oliveira Shcaira (OAB/MT 20495/A) – foi intimado por meio do Diário da Justiça Eletrônico n.o 9951, publicado em 01/02/2017, para requerer o que de direito; no entanto, deixou transcorrer o prazo sem manifestação.
+Ressoa da decisão embargada, ainda, que considerando a inércia do advogado do Banco, conforme certidão lançada em 14/02/2017, o representante legal da Instituição Bancária também foi intimado por meio de Carta em 26/12/2017, tendo se mantido silente, sendo o aviso de recebimento juntado em 10/01/2018.
+E não foi só isso. A decisão é clara no sentido de que, em 06/03/2018, os Embargados compareceram nos autos e pugnaram pela extinção do feito por abandono da causa, motivo pelo qual, em 14/09/2018, foi prolatada a sentença recorrida que extinguiu o feito reconhecendo o abandono por mais de 30 (trinta) dias, sendo esta ratificada em sede de apelação.
+Nota-se, portanto, que não há vícios que maculem a decisão que confirmou a sentença extintiva, haja vista que o artigo 485, inciso III, do CPC, foi observado, tendo sido efetiva da dupla intimação, notadamente na pessoa do último advogado constituídos pelo Embargante – Dr. Adriano Athala de Oliveira Shcaira (OAB/MT 20495/A) – e o representante legal do Banco Embargante.
+Por oportuno, reitera-se que os Embargados requereram a declaração de abandono da causa. Logo, não há motivos para alterar o resultado da decisão combatida.
+Posto isso, rejeito os Aclaratórios.
+Intime-se. Cumpra-se.
+Cuiabá, 29 de junho de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
