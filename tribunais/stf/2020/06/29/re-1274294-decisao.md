@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO Exceção de pré-executividade em execução fiscal – São Paulo IPTU CDHU Imunidade recíproca Art. 150, VI, a, da CF Sociedade de economia mista Substituição das pessoas políticas na prestação de serviços públicos essenciais de interesse da coletividade – Participação do Estado de São Paulo como detentor da quase totalidade de seu capital social Não sujeição às normas que regulam a livre iniciativa Inaplicabilidade do artigo 173, § 2º, da Constituição Federal Aplicação da limitação constitucional que veda a instituição de impostos por um ente federativo sobre a renda ou o patrimônio dos outros RECURSO DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, VI, a; e 173, §§ 1º e 2º, da CF. Sustenta que “a Recorrida não foi arrolada entre os entes que fazem jus à imunidade recíproca prevista no artigo 150, I, ‘a’ , da Constituição Federal, uma vez que se trata de pessoa jurídica de direito privado, que, nos termos da Constituição Federal, está sujeita ao regime jurídico próprio das empresas privadas”.
+    A pretensão recursal não merece prosperar. O acórdão recorrido não diverge do entendimento desta Corte, segundo o qual o desempenho de serviço público essencial autoriza o reconhecimento de imunidade tributária recíproca a sociedade de economia mista. Confira-se:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. IMUNIDADE RECÍPROCA. ARTIGO 150, VI, A, DA CONSTITUIÇÃO FEDERAL. EXTENSÃO. EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA PRESTADORAS DE SERVIÇO PÚBLICO ESSENCIAL. JURISPRUDÊNCIA SEDIMENTADA NO STF. ACÓRDÃO RECORRIDO EM HARMONIA COM A ORIENTAÇÃO DESTA SUPREMA CORTE. AGRAVO INTERNO DESPROVIDO.” (ARE 1259100 AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+           Brasília, 29 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
