@@ -1,0 +1,32 @@
+Decisão: Trata-se de reclamação, com pedido liminar, ajuizada em face do Tribunal Regional do Trabalho da 15ª Região, nos autos do Processo nº 0010578-64.2017.5.15.0040, que, ao julgar procedente pedido de reajuste salarial aos servidores do Município de Cruzeiro-SP, relativos aos anos de 2016 e 2017, com apoio na interpretação das Leis Municipais 4.456/16 e 4.479/16, teria afrontado as Súmulas Vinculantes 10 e 37.
+    Sustenta-se, em síntese, a inobservância da Súmula Vinculante 37, uma vez que a concessão de reajuste sem base legal estaria fundamentada no princípio da isonomia e citam-se julgados nos quais esta Corte teria fixado entendimento amparador da pretensão veiculada.
+    Requer-se a concessão da liminar para se suspenderem os efeitos da decisão reclamada e os futuros atos executórios. No mérito, pugna-se pela procedência do pedido, a fim de cassar os pronunciamentos referidos.
+    Apontada possível prevenção do feito, em face da Rcl 32.805, Rel. Min. Cármen Lúcia, a Presidência desta Corte manteve a livre distribuição do processo (eDOC 15).
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    Ao apreciar a matéria, o acórdão reclamado assim assentou a consignou (eDOC 6, p. 1/2):
+     “Extrai-se dos autos que a Lei Municipal nº 4479, de 27/4/2016, em seu art. 1º, concedeu revisão salarial de 7% (sete por cento), devida a partir de fevereiro /2016, a todos os servidores públicos vinculados ao Poder Executivo, estendendo, em seu parágrafo 1º, aos servidores inativos, pensionistas e servidores das autarquias municipais.
+    Por sua vez, a Lei Municipal nº 4.456, de 3/2/2016, em seu art. 1º, concedeu reposição salarial de 10,67% (dez virgula sessenta e sete por cento) a todos os servidores públicos da Câmara Municipal, extensivo aos vencimentos dos servidores inativos e pensionistas aos subsídios dos Vereadores, do Prefeito, do Vice-Prefeito e dos Secretários Municipais (parágrafo único do artigo 1º e art. 2º).
+    Tal como decidido, a revisão geral anual é preceito constitucional e se caracteriza pela recomposição da perda de poder aquisitivo pelo efeito da inflação ocorrida dentro de um período de doze meses, com a aplicação de um mesmo índice a todos os que recebem remuneração ou subsídio,conforme previsto no inciso X do art. 37 da CF.
+    Tem por objetivo, portando, atualizar as remunerações de modo a acompanhar a evolução do poder aquisitivo da moeda, devendo ser utilizado um índice oficial igual para todos, não se tratando, portanto, de aumento salarial.
+    Logo, a Câmara Municipal não poderia conceder aumento real diferenciado aos seus servidores por meio de revisão geral, cujo pressuposto é recompor o poder aquisitivo em rezão da inflação no ano anterior, a qual atinge a todos indistintamente.
+    Nesse caminho, fica mantida a decisão na qual se determinou o pagamento de diferenças salariais à reclamante...”
+    Em sede de análise liminar, o pronunciamento impugnado parece não ter observado a Súmula Vinculante 37, como se vê em trechos do seguinte julgado, cuja tese se assemelha a destes autos:
+    “Na origem, foi proposta reclamação trabalhista em face do Município reclamante, por meio da qual servidor público pretende a percepção de diferenças salariais decorrentes das Leis Municipais nº 2.121/2001, 2.189/2002, 2.468/2006, 2.554/2007 e 2.685/2008. A sentença julgou improcedentes os pedidos. No entanto, o TRT da 15ª Região deu provimento ao recurso ordinário do autor para julgar procedente o pedido.
+    (...)
+    (...) a Súmula Vinculante nº 37 busca justamente impedir que o Poder Judiciário profira decisões que aumentem vencimentos de servidores públicos sob o fundamento de isonomia, como ocorreu neste caso. Nesse sentido, confiram-se os seguintes precedentes: ARE 1.029.464, Rel. Min. Dias Toffoli; Rcl 23443 AgR, Rel. Min. Luiz Fux; e ARE 925.396 AgR, sob a minha relatoria:
+    (...)
+     6. Assim, expostas as premissas da decisão reclamada, é possível notar aparente violação à Súmula Vinculante 37, o que demonstra a probabilidade do direito alegado pela parte reclamante.
+     7. Por outro lado, o perigo de dano oriundo da decisão reclamada é evidente. Caso seus efeitos não sejam suspensos, a Administração Pública efetuará pagamentos em provável desconformidade com a jurisprudência vinculante do Supremo Tribunal Federal, que dificilmente seriam recuperados pelo erário em caso de procedência da reclamação.
+     8. Por todo o exposto, com fundamento no art. 989, II, do CPC/2015, defiro a medida liminar, para suspender os efeitos da decisão reclamada” (Rcl 30991 MC, Rel. Min. Roberto Barroso, DJe 29.6.2018).
+    No mesmo sentido, são as seguintes decisões monocráticas: Rcl 32494-MC, Relator o Ministro Gilmar Mendes, DJe 12.11.2018; Rcl 30.944, Relator o Ministro Roberto Barroso, DJe 7.11.2018; Rcl 30.905-MC, Relatora a Ministra Rosa Weber, DJe 19.9.2018; Rcl 30.906-MC, Relator o Ministro Ricardo Lewandowski, DJe 2.8.2018; Rcl 30.931-TP, Relator o Ministro Dias Toffoli, DJe 31.7.2018.
+    Nesse cenário de juízo prefacial, depreende-se estar presente o fumus boni iuris, diante da impossibilidade de que o Poder Judiciário promova aumento salarial a servidor, com base no princípio da isonomia.
+    De outra parte, também entendo estar presente o periculum in mora, dado o fundado receio de que a decisão ora combatida, ainda não transitada em julgado, venha a produzir efeitos de cunho executivo, incorrendo em prejuízos aos cofres públicos.
+    Ante o exposto, sem prejuízo de nova apreciação da matéria quando do julgamento de mérito, bem como das alegações sustentadas em contestação, defiro a medida liminar requerida, para suspender os efeitos do acórdão exarado nos autos do Processo nº 0010578-64.2017.5.15.0040 até o julgamento final desta reclamação.
+    Requisitem-se informações à autoridade reclamada, no prazo legal, consoante o artigo 989, I, do CPC.
+    Ainda, cite-se o beneficiário da decisão reclamada, conforme o disposto no art. 989, III, do CPC, a fim de que apresente contestação.
+    Comunique-se. Publique-se. Intimem-se.
+    Brasília, 30 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
