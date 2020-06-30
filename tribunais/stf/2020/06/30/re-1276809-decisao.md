@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. REMESSA E X OFFICIO. INEXISTÊNCIA. DECADÊNCIA. AFASTADA. PRESCRIÇÃO DAS PARCELAS VENCIDAS. AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO. DATA INICIAL. AJUIZAMENTO DA AÇÃO INDIVIDUAL. TEMA STJ 1005. DIFERIMENTO PARA A FASE DE CUMPRIMENTO DE SENTENÇA. LIMITAÇÃO AO TETO. EMENDAS CONSTITUCIONAIS 20/98 E 41/03. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. REGRAS VIGENTES. MENOR E MAIOR VALOR-TETO. LIMITADORES EXTERNOS. PREVIDÊNCIA COMPLEMENTAR. RFFSA. COMPENSAÇÃO. ENTIDADE PRIVADA. PAGAMENTO DEVIDO. CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. RE Nº 870.947/SE. EMBARGOS DE DECLARAÇÃO. EFEITO SUSPENSIVO. INDEFINIÇÃO. DIFERIMENTO PARA A FASE DE CUMPRIMENTO. CONSECTÁRIOS DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, caput, XXXVI, 195, § 5º, e 201, § 1º, da CF, bem como ao art. 14 da EC 20/1998 e ao art. 5ª da EC 41/2003. Requer a reforma do acórdão recorrido de modo a “determinar que após a criação dos novos Tetos previstos nas ECs 20/98 e 41/03 os limitadores anteriores, por razões de pura lógica, devem deixar de ser aplicados”.
+    O recurso é inadmissível. O Supremo Tribunal Federal, no julgamento do RE 564.354, Relª. Minª. Cármen Lúcia, sob a sistemática da repercussão geral, entendeu ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários-de-contribuição que foram utilizados para os cálculos iniciais.
+    Na hipótese, para dissentir da conclusão adotada pelo Tribunal de origem, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 30 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
