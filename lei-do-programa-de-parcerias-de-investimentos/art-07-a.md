@@ -1,2 +1,2 @@
-Art. 7º-A Caberá ao Presidente do CPPI, em conjunto com o Ministro de Estado titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse público, ad referendum do Conselho.
-Parágrafo único. A decisão ad referendum de que trata o caput será submetida ao CPPI na primeira reunião subsequente à deliberação.
+Art. 7º-A. Caberá ao Ministro de Estado Chefe da Casa Civil da Presidência da República, em conjunto com o Ministro titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, ad referendum do CPPI.
+Parágrafo único. A decisão ad referendum a que se refere o caput deste artigo será submetida ao CPPI na primeira reunião após a deliberação.

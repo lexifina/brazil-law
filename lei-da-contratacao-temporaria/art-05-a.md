@@ -1,0 +1,1 @@
+Art. 5º-A Os órgãos e entidades contratantes encaminharão à Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão, para controle do disposto nesta Lei, síntese dos contratos efetivados.

@@ -1,3 +1,0 @@
-Art. 6º-B Fica autorizada a contratação de terceiros para a prestação dos serviços de operacionalização de consignações pelo INSS.
-§ 1º É facultada, além da contratação por meio de licitação, a contratação direta, por dispensa de licitação, de empresa pública ou sociedade de economia mista federal que tenha em seu objeto social a prestação de serviços de tecnologia da informação e comunicação, para a prestação dos serviços de que trata o caput.
-§ 2º O contrato poderá prever o recolhimento, pela empresa prestadora do serviço de operacionalização das consignações, de remuneração a ser cobrada das instituições consignatárias, nos termos do disposto no inciso V do § 1º e no § 7º do art. 6º.
