@@ -1,2 +1,1 @@
-Art. 5º As contratações serão feitas com observância à dotação orçamentária específica e com autorização prévia do Ministro de Estado da Economia e do Ministro de Estado sob cuja supervisão se encontre o órgão ou a entidade contratante, conforme estabelecido em ato do Poder Executivo federal.
-§ 2º O ato a que se refere o caput poderá estabelecer a dispensa de autorização prévia do Ministro de Estado da Economia nas hipóteses previstas no § 1º do art. 3º.
+Art. 5º As contratações somente poderão ser feitas com observância da dotação orçamentária específica e mediante prévia autorização do Ministro de Estado do Planejamento, Orçamento e Gestão e do Ministro de Estado sob cuja supervisão se encontrar o órgão ou entidade contratante, conforme estabelecido em regulamento.
