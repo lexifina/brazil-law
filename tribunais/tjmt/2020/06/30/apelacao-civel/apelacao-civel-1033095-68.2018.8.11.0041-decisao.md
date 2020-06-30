@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 1033095-68.2018.8.11.0041
+APELANTE: CAB CUIABA S/A - CONCESSIONARIA DE SERVICOS PUBLICOS DE AGUA E ESGOTO
+APELADO: JOSE ELIAS DA SILVA
+Manifesto minha suspeição para atuar no feito e incidentes posteriores (art. 144 do CPC).
+Redistribua-se.
+Cuiabá, 30 de junho de 2020.
+Des. Guiomar Teodoro Borges
