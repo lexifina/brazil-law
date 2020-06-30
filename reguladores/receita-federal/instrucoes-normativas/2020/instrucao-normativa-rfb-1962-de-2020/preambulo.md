@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1962, de 30 de junho de 2020
+Altera a Instrução Normativa RFB nº 1.931, de 2 de abril de 2020, que suspende a eficácia do art. 3º da Portaria RFB nº 2.860, de 25 de outubro de 2017, e do art. 35 da Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, em decorrência da emergência de saúde pública acarretada pelo coronavírus (Covid-19).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 3º da Portaria ME nº 96, de 17 de março de 2020, resolve:
