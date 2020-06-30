@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça assim ementado (eDOC 8, p. 35):
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A jurisprudência desta Corte Superior de Justiça é no sentido de que o acórdão que confirma a condenação, ainda que majore ou reduza a pena, não constitui marco interruptivo da prescrição.
+    2. Agravo regimental não provido.“
+    Os embargos de declaração foram rejeitados (eDOC 8, pp. 56-57).
+    No recurso extraordinário (eDOC 9, p. 163-181), interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, II, XXXV, LIV e LXXXVIII, 35 e 93, IX, da Constituição Federal. Sustenta-se, em síntese, que o acórdão confirmatório de sentença penal condenatória também é causa interruptiva da prescrição da pretensão penal punitiva.
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    O Superior Tribunal de Justiça reconheceu a prescrição e, por conseguinte, declarou extinta a punibilidade do ora recorrido por entender que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, conforme interpretação dada ao art. 117 do Código Penal.
+    Tal compreensão, todavia, destoa da jurisprudência do Plenário do Supremo Tribunal Federal. Em sessão virtual ocorrida entre 17.4.2020 e 24.4.2020, por maioria, o colegiado máximo desta Corte, ao indeferir a ordem pleiteada no HC 176.473/RR, da relatoria do Ministro Alexandre de Moraes, fixou a tese de que “[n]os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta”.
+    Verificada a contrariedade entre a decisão recorrida e a jurisprudência consolidada deste Tribunal, encontra-se preenchido o requisito da repercussão geral da matéria, dada a presunção legal estabelecida no art. 1.035, § 3º, I, do CPC.
+    De mais a mais, a questão examinada pelo Plenário possui aspectos de índole constitucional que possibilitam a atuação do Supremo Tribunal Federal em sede de recurso extraordinário, conforme se depreende do julgado da Primeira Turma adiante transcrito:
+    DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL DA MATÉRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. POSSIBILIDADE. 1. A tese em discussão foi debatida pelo acórdão do Superior Tribunal de Justiça, tendo o recurso extraordinário sido admitido pela Vice-Presidente daquela Corte, bem como a parte agravada trouxe nas razões do recurso extraordinário a preliminar fundamentada de repercussão geral da matéria. Além do mais, a discussão é relevante do ponto de vista constitucional, à luz do princípio da presunção de inocência. 2. A jurisprudência desta Corte é no sentido de que o acórdão que confirma a sentença condenatória é marco interruptivo do prazo prescricional. “A ideia de prescrição está vinculada à inércia estatal e o que existe na confirmação da condenação é a atuação do Tribunal. Consequentemente, se o Estado não está inerte, há necessidade de se interromper a prescrição para o cumprimento do devido processo legal” (RE 1.226.719-AgR, redator para o acórdão o Min. Alexandre de Moraes). Precedentes. 3. Agravo interno a que se nega provimento.
+    (RE 1245295 AgR, Relator ROBERTO BARROSO, Primeira Turma, julgado em 27/04/2020)
+     Impõe-se, desse modo, o afastamento da declaração de extinção da punibilidade exarada sem que se observasse ser também o acórdão confirmatório da condenação marco interruptivo da prescrição.
+    Assim, porque a pena privativa de liberdade foi fixada em patamar superior a 1 (um) ano e inferior a 2 (dois) anos e porque, em nenhum momento a partir da prolação da sentença, transcorreram 4 (quatro) anos sem que houvesse a interrupção da contagem do prazo prescricional, não há falar, ao menos por ora, em prescrição intercorrente.
+    Ante o exposto, nos termos do art. 21, § 2º, RISTF, dou provimento ao recurso extraordinário para reformar o acórdão do Superior Tribunal de Justiça e declarar não haver a punibilidade, até a presente data, sido extinta pela prescrição intercorrente.
+    Publique-se. Comunique-se o Superior Tribunal de Justiça.
+    Brasília, 30 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
