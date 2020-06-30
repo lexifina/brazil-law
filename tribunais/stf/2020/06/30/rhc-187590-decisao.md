@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Reformatio in pejus indireta. Inocorrência. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. PARCIAL PROCEDÊNCIA. REFORMATIO IN PEJUS INDIRETA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Segundo o entendimento desta Corte, não ocorre violação ao princípio da reformatio in pejus indireta no julgamento de recurso exclusivo da defesa, quando forem lançados novos fundamentos na prolação do decreto condenatório substitutivo, desde que a reprimenda do réu não seja agravada no seu aspecto quantitativo. Precedentes.
+    2. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 5 anos e 3 meses de reclusão, em regime semiaberto, pela prática do crime previsto no art. 33, § 4º, da Lei 11.343/06. Interposta apelação, pela defesa, o Tribunal estadual deu parcial provimento ao recurso, declarando a nulidade da instrução e determinando novo julgamento. Em nova sentença, foi imposta ao réu a pena de 5 anos e 10 meses de reclusão, pela prática do crime previsto no art. 33, c/c o art. 40, III, da Lei 11.343/2006.
+    3. Transitada em julgado a condenação, foi ajuizada revisão criminal, julgada parcialmente procedente para redimensionar a imposta ao paciente para 5 anos e 3 meses de reclusão.
+    4. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 557.090, Min. Joel Ilan Paciornik indeferiu a liminar e, posteriormente, não conheceu do writ. Interposto agravo regimental, o recurso foi desprovido.
+    5. Neste recurso ordinário, a defesa afirma que “o julgamento do recurso não poderá resultar para a parte recorrente situação mais desfavorável em relação àquela existente antes da sua interposição”. Sustenta que “o tempo de cumprimento de pena do recorrente em regime fechado é três vezes maior do que antes de recurso exclusivo da defesa”.
+    6. A defesa “requer seja reconhecida “a ocorrência da reformatio pejus indireta, registrando que o crime cometido pelo recorrente é, para efeitos de execução da pena, comum e não hediondo, nos termos de decisão judicial primeira anulada em recurso exclusivo da defesa”.
+    7. Decido.
+    8. O recurso ordinário não deve ser provido.
+    9. O acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que inexiste reformatio in pejus quando o Tribunal de segunda instância, em grau de apelação, mantém ou reduz a pena imposta em primeiro grau por fundamentos diversos daqueles invocados na sentença (RHC 117.756, Rel. Min. Dias Toffoli). Veja-se, nessa linha, o HC 76.156, Rel. Min. Sepúlveda Pertence, julgado pela Segunda Turma, em 31.03.1998:
+    “[...] II. Apelação criminal: individualização da pena: devolução ampla. A apelação da defesa devolve integralmente o conhecimento da causa ao Tribunal, que a julga de novo, reafirmando, infirmando ou alterando os motivos da sentença apelada, com as únicas limitações de adstringir-se à imputação que tenha sido objeto dela (cf. Súmula 453) e de não agravar a pena aplicada em primeiro grau ou, segundo a jurisprudência consolidada, piorar de qualquer modo a situação do réu apelante. Insurgindo-se a apelação do réu contra a individualização da pena, não está, pois, o Tribunal circunscrito ao reexame dos motivos da sentença: reexamina a causa, à luz do art. 59 e seguintes do Código, e pode, para manter a mesma pena, substituir por outras as circunstâncias judiciais ou legais de exasperação a que a decisão de primeiro grau haja dado relevo...”
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao presente recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 30 de junho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
