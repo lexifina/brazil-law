@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário criminal interposto em face do acórdão assim ementado:
+    “PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA. PATAMAR DE EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE DO JUIZ. RESPEITO À PROPORCIONALIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. Ao individualizar a pena, diante da falta de critério matemático legal, o julgador deve estabelecer com acuidade os elementos que dizem respeito ao fato, obedecidos sempre os critérios do art. 59 do CP, a fim de aplicar a reprimenda, de forma justa e fundamentada, sempre proporcional, necessária e suficiente para a reprovação do crime. 2. Recurso conhecido e desprovido” (pág. 1 do doc. eletrônico 10).
+    Os embargos de declaração que se seguiram foram rejeitados (doc. eletrônico 14).
+    No RE, fundado no art. 102, III, a, da Constituição, aponta-se ofensa ao art. 5°, XLVII, da mesma Carta, sustentando que a sentença penal condenatória transitada em julgado há mais de 5 anos não pode ser interpretada como maus antecedentes (doc. eletrônico 18).
+    A pretensão recursal não merece acolhida.
+    De início, observo que a matéria versada neste extraordinário diverge da controvérsia em discussão no Tema 150 da Repercussão Geral, ainda pendente de apreciação de mérito. Eis a ementa do leading case:
+    “MATÉRIA PENAL. FIXAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS JUDIDICAIS. MAUS ANTECEDENTES. SENTENÇA CONDENATÓRIA EXTINTA HÁ MAIS DE CINCO ANOS. PRINCÍPIO DA PRESUNÇÃO DE NÃO-CULPABILIDADE. MANIFESTAÇÃO PELO RECONHECIMENTO DO REQUISITO DE REPERCUSSÃO GERAL PARA APRECIAÇÃO DO RECURSO EXTRAORDINÁRIO” (RE 593.818-RG/SC, relatado inicialmente pelo Ministro Joaquim Barbosa e atualmente sob a relatoria do Ministro Roberto Barroso).
+     Como se pode perceber, o referido paradigma trata de reconhecimento, como maus antecedentes, de condenações anteriores extintas há mais de 5 anos (art. 64, I, do Código Penal). Não versa, portanto, sobre o transcurso de tempo após trânsito em julgado de sentença penal condenatória.
+    No mais, observo que o dispositivo constitucional suscitado pelo recorrente não foi prequestionado. Como tem consignado este Tribunal por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional versada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+    Nesse sentido, cito o ARE 772.836-AgR/PE, da relatoria do Ministro Dias Toffoli, Segunda Turma, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    3. Agravo regimental não provido” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2020.
+Ministro Ricardo Lewandowski
+Relator
