@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 1001525-13.2017.8.11.0037
+APELANTE: DELATORRE COMERCIO DE VEICULOS LTDA - ME
+APELADO: BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA.
+Manifesto meu impedimento para atura no feito e incidentes posteriores (art. 147 do CPC - id. 48143450).
+Redistribua-se.
+Cuiabá, 30 de junho de 2020.
+Des. Guiomar Teodoro Borges
