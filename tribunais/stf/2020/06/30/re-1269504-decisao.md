@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, p. 111-112):
+    “DIREITO PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. CAIXA ECONÔMICA FEDERAL NÃO É CONTRIBUINTE DO IPTU NA CONDIÇÃO DE CREDORA FIDUCIÁRIA. ARTIGO 27, §8°, DA LEI N° 9.514/1997. NEGADO PROVIMENTO AO AGRAVO INOMINADO.
+    1 - A decisão proferida tem embasamento legal, já que o antigo Código de Processo Civil permitia a prolação de decisão definitiva pelo relator do processo, quando a jurisprudência já havia se posicionado a respeito do assunto em debate, em homenagem aos princípios da celeridade e da economia processual.
+    2 - Quanto ao mérito, mantenho a decisão proferida, já que não foram trazidos no agravo inominado argumentos suficientes para a mudança de posicionamento, sendo que a decisão está em consonância com o entendimento jurisprudencial citado.
+    3 - Segundo o artigo 23 do CTN, o IPTU, "imposto, de competência dos Municípios, sobre a propriedade predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona urbana do Município".
+    4 - Ocorre que o §8° do artigo 27 da Lei n.° 9.514/1997 prescreve que "responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse".
+    5 - No caso, a Caixa Econômica Federal não é responsável pelo pagamento do IPTU na condição de credora fiduciária.
+    6 - Negado provimento ao agravo inominado. ”
+    No recurso extraordinário interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 146, III, “a”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que a Lei 9.514/1997 é via inadequada para contemplar matéria sob reserva de lei complementar.
+    Aduz-se, ainda, que o credor fiduciário é proprietário do imóvel em conjunto com o devedor fiduciante, devendo constar no polo passivo da demanda como responsável tributária.
+    É o relatório. Decido.
+    Não assiste razão à parte recorrente.
+    Da leitura dos fundamentos acolhidos pelo acórdão recorrido, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional, notadamente o CTN, e a Lei 9.514/1997, de modo que a discussão em tela revela-se adstrita ao âmbito infraconstitucional, tornando, do mesmo modo, oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Confira-se com o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.” (ARE 991704 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 13.03.2017)
+    Em controvérsia análoga, veja-se o RE 1.082.362, de relatoria do Ministro Celso de Mello, DJe 24.10.2017; RE 1.085.364, de relatoria do Ministro Dias Toffoli, DJe 07.11.2017; e RE 1.090.646, de relatoria do Ministro Alexandre de Moraes, DJe 20.11.2017.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de junho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
