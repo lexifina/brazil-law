@@ -1,1 +1,0 @@
-Art. 3º-D A contratação de que trata o art. 3º-A consiste no estabelecimento de vínculo jurídico-administrativo temporário para a realização de atividades, específicas ou gerais, em órgãos ou entidades públicas, e não caracteriza ocupação de cargo, emprego ou função pública.
