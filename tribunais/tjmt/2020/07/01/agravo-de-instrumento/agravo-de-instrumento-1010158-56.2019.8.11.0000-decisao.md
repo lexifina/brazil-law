@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1010158-56.2019.8.11.0000
+Recorrente: AGROPECUÁRIA TAUA LTDA
+Recorrido: BANCO ORIGINAL S. A.
+Vistos.
+Trata-se de Recurso Especial interposto por AGROPECUÁRIA TAUA LTDA (id 47712963) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 1010158-56.2019):
+“AGRAVO DE INSTRUMENTO – EXECUÇÃO – PERITO NOMEADO PARA AVALIAÇÃO JUDICIAL DE IMÓVEL – NÃO REALIZAÇÃO – ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA – OBSTÁCULOS INJUSTIFICÁVEIS COLOCADOS À REALIZAÇÃO DA PERÍCIA JUDICIAL – APLICAÇÃO DO ARTIGO 277 DO CÓDIGO DE PROCESSO CIVIL – PERÍCIA DESIGNADA COM O CONHECIMENTO DAS PARTES – MULTA APLICADA – VIABILIDADE DE REDUÇÃO, EM FACE À EMPRESA AGRAVADA ESTAR EM RECUPERAÇÃO JUDICIAL E TAMBÉM DIANTE DO VULTOSO VALOR DO DÉBITO – APLICABILIDADE DO PRINCÍPIO DA PROPORCIONALIDADE E RAZOABILIDADE – MINORAÇÃO DA MULTA PARA 3% (TRÊS POR CENTO) DO VALOR ATUALIZADO DO DÉBITO – INTELIGÊNCIA DO ARTIGO 277, PARÁGRAFO ÚNICO DO CPC – AGRAVO PROVIDO PARCIALMENTE. Ficando comprovado o ato atentatório à dignidade da justiça, concernente na injustificada obstaculização do trabalho do perito judicial, oportunidade em que a perícia anteriormente agendada, com a ciência das partes, não se realizou, em razão de exigência de mandado judicial e presença de Oficial de Justiça, impõe-se a fixação de multa, nos termos do artigo 277 do CPC. É possível a redução da multa fixada, quando não observados os princípios da razoabilidade e proporcionalidade, observado o limite máximo previsto no parágrafo único do artigo 277 do CPC.” (TJMT, RAC 1010158-56.2019.8.11.0000, DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 03/12/2019)
+Os Embargos de Declaração id 2873290 foram rejeitados, conforme acórdão id 44701491.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo, alegando que o acórdão deve ser reformado, uma vez que afrontou os artigos 11, 489, § 1o, II e 1.022, todos do CPC, afirmando que “cumpre mencionar que ao proceder apenas com a redução da multa aplicada em desfavor desta Recorrente, o E. Tribunal de Justiça do Estado do Mato Grosso deixou de considerar grande parte das razões expostas, as quais demonstram de forma clarividente que a empresa Agropecuária sempre agiu em conformidade com os parâmetros legais - e, no trilhar da mais lídima boa-fé”.
+Afirma que foi indevidamente condenada em multa por litigância de má-fé, fixada em 5% sobre o valor da causa, o que ultrapassaria R$ 2.000.000,00 (dois milhões de reais), mas não teria dado causa para tal penalidade, ressaltando que não estariam preenchidos os requisitos do artigo 80 do CPC.
+Assevera que a perícia não teria sido realizada na data acordada, o que teria motivado a informação de que haveria resistência, impossibilitando a entrada do perito na área a ser avaliada, mas tal situação não seria verídica.
+Diz que há dissídio jurisprudencial sobre o tema, pugnando pela admissão do recurso.
+Especificamente em relação ao efeito suspensivo, aduz que:
+“(...)Para que reste claro, destaca-se que o perigo de dano está presente, tendo em vista que o crédito ora perseguido está sujeito aos efeitos da Recuperação Judicial da principal signatária do contrato – Tauá Biodiesel Ltda, bem como da avalista da operação - também - em Recuperação Judicial – Têxtil Canatiba Ltda, ambas com o Plano de Recuperação Judicial já APROVADO e HOMOLOGADO, acarretando, assim, na necessidade de imediata suspensão das demandas executivas – inclusive, a que deu origem a expedição da Carta Precatória em epígrafe - , tendo por base previsão expressa inserida nos respectivos Aditivos ao Plano de Recuperação Judicial – repita-se já aprovados e homologado, vide abaixo
+(...)
+Ressalte-se, por oportuno, que uma vez aprovado e homologado os Planos da Canatiba e da Tauá, de rigor se faz a IMEDIATA suspensão da demanda executiva que, reitera-se, deu origem a expedição da Carta Precatória em epígrafe, uma vez que não se mostra cabível o prosseguimento da execução, bem como a realização da avaliação, até o cumprimento integral do Plano em vigor – já em fase de cumprimento (!).
+Ora Excelência, observe-se que a subsistência daquele processo de recuperação e a consequente homologação dos planos das devedoras Canatiba e Tauá, é suficiente para emolduração e resolução da controvérsia estabelecida nos presentes autos, vez que agora o Original deverá valer-se daqueles procedimentos para satisfação de seu crédito, não fazendo jus ao cumprimento da presente precatória.”
+Recurso tempestivo e isento de preparo, conforme certidões id 47853975 e 47900988.
+É o relatório.
+Decido.
+Estabelece o Art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que, embora alegue que a execução que originou a carta precatória deve ser suspensa, verifica-se que tal discussão não foi travada nos autos, sendo que o acórdão limitou-se a analisar os requisitos para aplicação e valor da multa arbitrada em desfavor da empresa Recorrente.
+Ou seja, o pedido relacionado ao efeito suspensivo não pode ser atendido, até porque não foi discutido nos autos do recurso, afastando a probabilidade do direito invocado.
+E ainda, em relação ao perigo da demora, aponta que deve ser evitada a constrição de valores pela parte Recorrida, mas não aponta qual seria o risco de tal ato, sendo que tal medida é reversível, como por exemplo, nos casos em que oferecida caução idônea.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do Art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 29 de junho de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
