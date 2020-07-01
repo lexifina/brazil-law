@@ -1,0 +1,47 @@
+Recurso Especial na Apelação Cível n. 0009680-58.2016.8.11.0004
+RECORRENTE: FERNANDO SILVA BRANDÃO
+RECORRIDO: BANCO BRADESCO S/A
+Vistos, etc.
+Trata-se de Recurso Especial com pedido de efeito suspensivo interposto por FERNANDO SILVA BRANDÃO com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado assim ementado (ID 41792489):
+“APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CLÁUSULA CONTRATUAL. CORRESPONDENTE BANCÁRIO - TRANSPORTE DE VALORES. ROUBO OCORRIDO DURANTE O TRANSPORTE DE VALORES. ALEGAÇÃO DE ABUSIVDADE DE CLÁUSULA QUE TRANSFERE A RESPONSABILIDADE AO CORRESPONDENTE BANCÁRIO. INOCORRÊNCIA. RISCO DO EMPREENDIMENTO DO PRÓPRIO CORRESPONDENTE. LEI 7.102/1983. INAPLICABILIDADE AOS CORRESPONDENTES BANCÁRIOS. SENTENÇA MANTIDA. RECURSO DESPROVIDO. 1. A instituição financeira não pode ser responsabilizada pela ocorrência de roubo ocorrido fora de suas agências durante o transporte de valores por seu correspondente bancário, já que a ocorrência desse tipo de crime faz parte do risco inerente à atividade exercida pelo referido correspondente, razão pela qual não há falar em abusividade na cláusula que estipula responsabilidade do correspondente bancário pelos valores transportados. 2. O Superior Tribunal de Justiça possui o entendimento de que o correspondente bancário não é juridicamente uma instituição financeira. (REsp 1224236RS, Rel. Min. Luis Felipe Salomão, 4a Turma, julgado em 11032014). 3. Os correspondentes bancários não possuem como atividade-fim (ou mesmo acessória), a captação, intermediação e aplicação de recursos financeiros. É que as instituições financeiras brasileiras somente podem funcionar no País mediante a prévia autorização do Banco Central da República Federativa do Brasil, nos termos do art. 18 da Lei n. 4.595/1964, motivo pelo qual as regras de segurança previstas na Lei n. 7.102/1983 não alcançam os correspondentes bancários. 4. Sentença mantida. 5. Recurso desprovido. (TJMT – Primeira Câmara de Direito Privado – RAC n. 0009680-58.2016.8.11.0004, Relator: Des SEBASTIAO BARBOSA FARIAS, j. em 30/01/2018).
+O Recorrente alega violação aos artigos 421, 422, e 887 do CC, além de divergência jurisprudencial, ao argumento de que o contrato entabulado entre as partes possui cláusulas abusivas e o título executivo é ineficaz uma vez que o contrato é abusivo.
+Afirma que é responsabilidade da instituição bancária ora recorrida arcar com prejuízo em decorrência de roubo fora de suas agências, durante o transporte de valores por seu correspondente bancário.
+Com fundamento no artigo 1.029, § 5o, do CPC, requer a concessão de efeito suspensivo.
+Recurso tempestivo (ID 44583463).
+Contrarrazões (ID 47435991)
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da ausência de prequestionamento (Súmulas 282 e 356 do STF)
+Com o objetivo de evitar a supressão de Instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282/STF, segundo a qual “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Ainda, que caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos Embargos de Declaração com a indicação precisa do ponto supostamente omisso, em aplicação da Súmula 356/STF – “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Desse modo:
+“TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA. INDIVISIBILIDADE DO IMÓVEL. FALTA DE PREQUESTIONAMENTO. REEXAME DE PROVAS DOS AUTOS. SÚMULAS 282 E 356 DO STF E 7 DO STJ.
+1. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar a possibilidade de dividir o bem imóvel penhorado, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: ‘A pretensão de simples reexame de prova não enseja recurso especial’. 3. Agravo interno a que se nega provimento”. (AgInt no REsp 1760106/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/12/2018, DJe 18/12/2018).
+Dessa forma, verifica-se que em relação à suposta violação ao artigo 887 do CC, em que a parte recorrente alega que o título executivo é ineficaz diante da abusividade do contrato, a questão não foi abordada pelo acórdão impugnado, tampouco foram opostos Embargos de Declaração para prequestionar a matéria, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso.
+Cláusulas contratuais (Súmulas 5 e 7 do STJ)
+Conforme o artigo 105, III, da CF, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais e, consequentemente, não é possível o exame de matéria fático-probatória, o que inclui a interpretação de cláusulas contratuais, conforme prelecionam as Súmulas 5 e 7 do STJ.
+Nesse sentido:
+“AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. INDENIZAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento”. (AgInt no AREsp 927.217/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2018, DJe 14/12/2018). (g.n.)
+No caso, quanto à suposta violação aos artigos 421 e 422 do CC, ressalta-se que para verificar se as cláusulas contratuais como responsabilidade da parte recorrida arcar com prejuízo em decorrência de roubo fora de suas agências, durante o transporte de valores por seu correspondente bancário, é abusiva ou não, é necessário o exame de prova documental para a interpretação das cláusulas contratuais, atraindo a aplicação do óbice sumular.
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso e, consequentemente, indefiro o pleito de efeito suspensivo, pois, nos termos dos artigos 995, parágrafo único, e 1.029, § 5o, do CPC, a probabilidade do seu provimento configura um dos pressupostos imprescindíveis para o seu deferimento. Ademais, o Recorrente não demonstra em momento algum como ocorreu o periculum in mora e fumus boni iuris.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 26 de junho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+x
