@@ -1,0 +1,79 @@
+EMENTA
+PROCESSUAL CIVIL. TEMPESTIVIDADE RECURSAL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
+1. A ausência de identificação da similitude fática e jurídica entre os arestos confrontados afasta a admissibilidade dos Embargos de Divergência.
+2. Hipótese em que o acórdão embargado julgou intempestivo o Agravo em Recurso Especial porque identificou a data de publicação da decisão agravada e definiu o documento que deve prevalecer em caso de conflito entre a data certificada por servidor de Justiça e a data lançada em movimentação processual pela internet. Tais circunstâncias não se encontram presentes nos acórdãos indicados como paradigmáticos.
+3. Embargos de Divergência não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça: "A Corte Especial, por maioria, não conheceu dos embargos de divergência.
+Lavrará o acórdão o Sr. Ministro Herman Benjamin. Votaram com o Sr. Ministro Herman Benjamin os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Felix Fischer, Nancy Andrighi, Laurita Vaz, Humberto Martins e Maria Thereza de Assis Moura. Vencidos os Srs. Ministros Relator, Luis Felipe Salomão e Raul Araújo que conheciam dos embargos de divergência e davam-lhes provimento.
+Ausentes, justificadamente, os Srs. Ministros Francisco Falcão e Jorge Mussi."
+RELATÓRIO
+1. Trata-se de Embargos de Divergência em Agravo em Recurso Especial opostos por JOÃO PAULINO MACHADO DA COSTA e N.S. FIGUEIREDO ROCHA DA COSTA contra acórdão proferido pela Terceira Turma, assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTEMPESTIVO. NÃO CONHECIMENTO DO AGRAVO. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO (fls. 388).
+2. Naquela oportunidade, lastreando-se na certidão de fls. 224, que registrou a publicação da decisão de inadmissibilidade do Recurso Especial em 8.1.2013, a Turma considerou intempestivo o Agravo em Recurso Especial interposto em 21.1.2013.
+3. Os Embargantes sustentam haver erro material na certidão de fls. 224, afirmando que a decisão recorrida teria sido publicada em 9.1.2013 e que a adoção desse dies a quo imporia a apreciação do seu recurso, interposto a tempo e modo.
+4. A fim de comprovar o alegado, os Embargantes haviam instruído seu Agravo Regimental com cópia do Diário da Justiça em que consta 9.1.2013 como a data da publicação (fls. 269), bem como apontaram certidão expedida pela Secretaria Judiciária do Tribunal de Justiça do Estado do Amazonas em que se reconhece o erro material contido na certidão de fls. 224 (fls. 444).
+5. Com base nisso, apontam divergência em relação aos seguintes acórdãos proferidos - o primeiro pela Segunda Turma e os demais pela Sexta Turma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. TEMPESTIVIDADE DO RECURSO ESPECIAL. EFEITO INFRINGENTE AOS ACLARATÓRIOS. CONHECIMENTO DO MÉRITO RECURSAL. PAGAMENTO POR HORA A TRABALHADOR QUE FICA À DISPOSIÇÃO DA EMPRESA, DURANTE O DESCANSO DIÁRIO. SITUAÇÃO ANÁLOGA À DA INDENIZAÇÃO POR HORA TRABALHADA - IHT. NATUREZA REMUNERATÓRIA. CONTRIBUIÇÃO SOCIAL. INCIDÊNCIA.
+1. Diferentemente do que consta do acórdão embargado, o Recurso Especial é tempestivo, pois a Fazenda foi intimada do acórdão em 11.5.2009 e recorreu em 15.5.2009. Os Aclaratórios devem ser acolhidos com efeito infringente, para conhecimento do mérito recursal.
+2. Não se trata de erro no que se refere à interpretação da legislação relativa ao prazo recursal (= erro de direito), mas de simples equívoco na leitura da certidão aposta nos autos (= erro de fato ou material).
+3. "Cabe a via dos Embargos de Declaração com efeitos infringentes para correção de erro material do julgado" (EDcl no AgRg no Ag. 579.431/RS, Rel. Min. CASTRO MEIRA, DJ 14.3.2005).
+4. Especificamente quanto à intempestividade, é pacífico que sua incorreta aferição implica erro material, conforme inúmeros precedentes do STJ que acolheram Aclaratórios com efeito infringente para, ultrapassada a questão, adentrar o mérito recursal.
+5. Há, inclusive, julgados no sentido de que "a tempestividade do recurso é matéria de ordem pública, cognoscível de ofício em qualquer tempo ou grau de jurisdição" (EDcl nos EDcl no AgRg no REsp. 888.998/ES, Rel. Min. HUMBERTO MARTINS, DJe 7.12.2009).
+6. Essa espécie de erro pode e deve ser corrigida em Aclaratórios, até porque seria insanável por meio de Embargos de Divergência: o STJ inadmite tal recurso em caso de não-conhecimento do Especial.
+(..).
+18. Embargos de Declaração acolhidos com efeito infringente para dar provimento ao Recurso Especial (EDcl no REsp. 1.157.849/RS, Rel. Min. HERMAN BENJAMIN, DJe 26.5.2011).
+
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TEMPESTIVIDADE. COMPROVAÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONSUMAÇÃO. EXTINÇÃO DA PUNIBILIDADE.
+(..).
+2. Situação em que, devido ao erro material na certidão de publicação do acórdão recorrido e de feriado local, devidamente comprovados, ficou evidenciada a tempestividade do Recurso Especial.
+(..).
+5. Embargos de Declaração acolhidos, com a atribuição de efeitos infringentes, para reconhecer a tempestividade do Recurso Especial (..) (EDcl no AgRg no REsp. 1.260.305/ES, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 19.3.2013).
+
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. NÃO OCORRÊNCIA. MERO ERRO MATERIAL NA CERTIDÃO DE PUBLICAÇÃO DA DECISÃO AGRAVADA.
+1. É tempestivo o Agravo de Instrumento interposto dentro do prazo legal de dez dias da publicação da decisão agravada, devendo ser afastado o erro material contido na certidão segundo a qual a publicação ocorreu em mês anterior à prolatação da decisão a ser publicada e ao envio dos autos para publicação.
+2. Agravo Regimental improvido (AgRg no AgRg no Ag 1.278.484/RJ, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 17.12.2010).
+6. Requerem, prevalecendo a orientação que admite prova de erro material no ato cartorário, seja reconhecida a invalidade da certidão de fls. 224 e prestigiadas as certidões de fls. 269 e 444, chancelando-se a tempestividade do Agravo em Recurso Especial interposto às fls. 226/242.
+7. É o relatório.
+VOTO VENCIDO
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL NA CERTIDÃO DE INTIMAÇÃO UTILIZADA COMO BASE PARA A AFERIÇÃO DO MARCO INICIAL DO PRAZO PARA A INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE DE CORREÇÃO. HIPÓTESE EM QUE FOI DEMONSTRADO O VÍCIO A PARTIR DO CONFRONTO COM AS INFORMAÇÕES CONSTANTES DA PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA, BEM COMO COM CERTIDÃO POSTERIORMENTE EMITIDA ADMITINDO O ERRO FORMAL. TEMPESTIVIDADE DO RECURSO. EMBARGOS DE DIVERGÊNCIA DOS PARTICULARES PROVIDOS.
+1. Hipótese de Agravo em Recurso Especial interposto em 21.1.2013 não conhecido por intempestividade lastreada na certidão de fls. 224, que registrou a publicação da decisão de inadmissibilidade do Apelo Nobre em 8.1.2013. Pretendem os embargantes seja reconhecida a necessidade de revisão de erro material no ato cartorário.
+2. Nos termos do art. 463, I do CPC/1973, aplicável à espécie, é possível a reparação, a qualquer tempo, de ofício ou a requerimento das partes, do erro material constante da sentença.
+3. Se admitida a retificação da decisão judicial transitada em julgado, afastando-se a preclusão e a imutabilidade de seu conteúdo, diante do erro material nela constante, com mais razão ainda deve-se acolher o pedido de correção de mero ato cartorário comprovadamente viciado, que, na sua forma originária, inviabilizaria o exercício do direito de recorrer da parte prejudicada.
+4. Na espécie, a publicação no Diário da Justiça revela a imprecisão da certidão de fls. 224. Essa informação foi posteriormente confirmada pela certificação acostada aos autos às fls. 444, quando a própria Secretaria responsável admitiu o equívoco formal. Deve, portanto, prevalecer a realidade dos fatos, prestigiando a ampla defesa e o direito de recorrer da parte prejudicada, admitindo-se a reparação do erro material na presente via.
+5. Assim, contando-se o prazo a partir do dia 10.1.2013, considera-se tempestivo o Agravo interposto no dia 21.1.2013.
+6. Embargos de Divergência dos Particulares providos, para reconhecer o erro formal da certidão utilizada como base para aferir a tempestividade do Agravo em Recurso Especial, e, por consequência, a interposição deste no prazo legal.
+1. Tem-se, na espécie, Agravo em Recurso Especial interposto em 21.1.2013 não conhecido por intempestividade lastreada na certidão de fls. 224, que registrou a publicação da decisão de inadmissibilidade do Apelo Nobre em 8.1.2013. Pretendem os embargantes seja reconhecida a necessidade de revisão de erro material no ato cartorário.
+2. Com efeito, a certidão de fls. 444 afasta qualquer dúvida acerca do dia preciso que deve ser adotado como marco inicial da contagem do prazo de interposição do recurso, devendo-se prestigiar, portanto, a data informada no Diário Oficial em detrimento daquela constante da certidão dos autos anterior, reconhecidamente viciada.
+3. Nos termos do art. 463, I do CPC/1973, aplicável à espécie, é possível a reparação, a qualquer tempo, de ofício ou a requerimento das partes, do erro material constante da sentença. A propósito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. EMBARGOS À EXECUÇÃO. SENTENÇA TRANSITADA EM JULGADO. FUNDAMENTAÇÃO DO RECURSO ESPECIAL DISSONANTE DA PARTE DISPOSITIVA. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. POSSIBILIDADE.
+1. Não há falar em violação do art. 535 do CPC/1973 quando realizada a devida prestação jurisdicional pelo Tribunal de origem, que se manifestou de forma clara e devidamente fundamentada.
+2. As expressões "inexatidão material" e "erro de cálculo", contidas no art. 463, I, do CPC/1973, configuram erro material, ou seja, aquele erro que pode ser corrigido a qualquer tempo pelo juiz ou tribunal prolator da decisão e cuja correção não implica alteração do provimento jurisdicional.
+3. A decisão eivada de erro material caracteriza-se pela ausência de declaração, intenção ou vontade do juiz, razão pela qual não pode fazer coisa julgada, mormente quando a parte dispositiva encontra-se totalmente dissonante da fundamentação da decisão.
+4. Considerando que a interpretação do dispositivo da sentença não deve ser realizada de forma isolada, mas de acordo com o contexto delineado em toda a sua fundamentação, o erro material, no presente caso, em que consta no título exequendo "dou provimento ao recurso interposto pelo INSS", mas, em seguida, consta a expressão "para restabelecer a sentença", a qual havia julgado procedente a ação da parte autora, configura nítido erro material, razão pela qual deve ser sanado.
+Recurso especial parcialmente provido (REsp. 1.593.461/SP, Rel. Min. HUMBERTO MARTINS, DJe 10.8.2016).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO EM FASE DE CUMPRIMENTO DE SENTENÇA. VALORES APRESENTADOS PELA PARTE EXEQUENTE EM DISSONÂNCIA COM O JULGADO EXEQUENDO.
+APRECIAÇÃO DA MATÉRIA. POSSIBILIDADE. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. A jurisprudência do STJ orienta-se no sentido de que "os erros de cálculo são passíveis de correção em qualquer tempo, de ofício ou a requerimento da parte, sem que isso importe em violação a coisa julgada, quando constatadas inconsistências de ordem material na elaboração dos cálculos, com a efetiva necessidade de correção, de maneira a afastar qualquer indício de enriquecimento sem causa pelo recebimento de valores acima dos realmente devidos." (AgRg no AREsp 113.266/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 6/11/2015).
+2. Agravo interno a que se nega provimento (AgRg no AREsp. 734.445/DF, Rel. Min. MARIA ISABEL GALLOTTI, DJe 22.4.2016).
+4. Se admitida a retificação da decisão judicial transitada em julgado, afastando-se a preclusão e a imutabilidade de seu conteúdo diante do erro material nela constante, com mais razão ainda deve-se acolher o pedido de correção de mero ato cartorário comprovadamente viciado, que, na sua forma originária, inviabilizaria o exercício do direito de recorrer da parte prejudicada.
+5. Na espécie, a publicação no Diário da Justiça revela a imprecisão da certidão de fls. 224. Essa informação foi posteriormente confirmada pela certificação acostada aos autos às fls. 444, quando a própria Secretaria responsável admitiu o equívoco formal. Deve, portanto, prevalecer a realidade dos fatos, prestigiando a ampla defesa e o direito de recorrer da parte prejudicada, admitindo-se a reparação do erro material na presente via.
+6. Assim, contando-se o prazo a partir do dia 10.1.2013, considera-se tempestivo o Agravo interposto no dia 21.1.2013.
+7. Ante o exposto, dá-se provimento aos Embargos de Divergência dos Particulares, reconhecendo o erro formal da certidão utilizada como base para aferir a tempestividade do Agravo em Recurso Especial, e, por consequência, a interposição deste no prazo legal.
+8. É como voto.
+VOTO-VENCEDOR
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Senhor Presidente, vou apresentar voto restrito à admissibilidade deste recurso.
+Li com muita atenção o voto do e. Ministro Napoleão Nunes Maia Filho. O que se discute, como mérito dos Embargos de Divergência, é a intempestividade ou não do recurso e a aferição desse aspecto pela constatação de erro material.
+Sua Excelência dá provimento aos Embargos de Divergência, e eu, enfim, ouso divergir, porque não há, a meu juízo, com todo o respeito, similitude fática e jurídica. Por que isso  Porque a decisão embargada possui dois fundamentos.
+O primeiro fundamento é que o Agravo em Recurso Especial é intempestivo, porque a certidão nos autos evidencia a publicação no dia 8 de janeiro de 2013, o que faria o prazo vencer em 18 de janeiro de 2013, mas o Agravo só foi protocolado em 21 de janeiro de 2013. Esse é o primeiro fundamento.
+O segundo fundamento da decisão embargada é que, em caso de conflito entre a informação a respeito desta data da publicação, lançada em certidão assinada por servidor de justiça, e o simples extrato da movimentação processual, obtido na internet, ou a "mera reprodução do que seria o Diário Oficial da União", prevalece a certidão do servidor público, que goza de fé pública.
+Em momento algum o acórdão embargado - repita-se, o acórdão embargado - examinou o principal fundamento adotado pelo e. Ministro Napoleão, de que há suposta existência de erro material.
+Não se fala de erro material. No máximo, o acórdão embargado comparou qual documento teria maior força probatória a respeito da tempestividade: de um lado, a certidão assinada por servidor público e, de outro, o simples extrato de internet contendo a movimentação processual ou a "mera reprodução do que seria o Diário Oficial". Note-se: nem mesmo se afirmou que a reprodução era, efetivamente, o Diário Oficial, mas, sim, o documento que, em tese, poderia ser o Diário Oficial da União.
+De um lado, temos que o acórdão embargado decidiu sobre a tempestividade recursal e qual documento possui maior força probatória a esse respeito, ou seja, em relação à tempestividade. De outro, os paradigmas - tive o cuidado de reanalisá-los - não cuidam desse ponto.
+Por isso divergi. Não é na matéria de fundo apreciada nos recursos, mas no aspecto técnico da similitude fática e jurídica que abre as portas para o recurso que estamos julgando.
+Com essas razões, peço vênia para não conhecer dos Embargos de Divergência.
+VOTO-VOGAL
+O SR. MINISTRO RAUL ARAUJO:
+Entendo que, na hipótese, houve uma falha atribuível ao serviço do Judiciário, a qual resultou em prejuízo para a parte. Nesses casos temos de mitigar os rigores técnicos para reparar o erro antes cometido por mecanismo do Judiciário.
+Peço vênia para acompanhar o eminente Relator.
