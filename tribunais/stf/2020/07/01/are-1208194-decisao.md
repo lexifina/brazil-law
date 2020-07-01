@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Gabriela Stadtlober Fermi contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AÇÃO ORDINÁRIA – Servidora Pública Municipal (Enfermeira) – Pretensão ao recebimento da diferença entre horas pagas e efetivamente trabalhadas – Inadmissibilidade – O C. Órgão Especial na ADIN nº 0189012-82.2013.8.26.0000 reconheceu a inconstitucionalidade da Lei Complementar Municipal nº 218/10 que previa redução da jornada de trabalho para 30 horas semanais –Retorno para a jornada de 40 horas semanais, portanto não configuradas horas extraordinárias – Atos praticados sob a égide de lei declarada inconstitucional são tidos como nulos – Precedentes desta Corte – Inaplicabilidade do Tema 514, do STF – Improcedência da ação mantida – Honorários recursais ora fixados – Recurso não provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 7º, V, e 37, XV, da Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora agravante, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Cumpre ressaltar, nesse contexto, que a questão ora em exame foi decidida com base no direito local (Leis Complementares municipais nºs 01/90, 218/2010 e 297/2012), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em aspectos fático-probatórios e em interpretação de direito local:
+    “Consta do processado, que a autora ocupa o cargo de enfermeira, tendo sido admitida em 01/07/2013 e labora na jornada de trabalho de 40 horas semanais; reconheceu que a Lei Complementar nº 218/10, alterou a jornada de vários cargos para 30 horas semanais, foi declarada inconstitucional.
+    Com efeito, o C. Órgão Especial deste Tribunal de Justiça declarou inconstitucional, com efeito ‘ex tunc’, a interpretação e aplicação quanto às Leis Complementares Municipais de nºs. 218, de 16/03/2010 e 297, de 02/10/2012, que conferiram nova redação ao § 2º do artigo 124, da Lei Complementar nº 01/1990 e lhe acrescentaram um § 3º, alterando a jornada semanal de trabalho dos cargos de Assistente Social, Fisioterapeuta, Fonoaudiólogo, Psicólogo, Enfermeiro, Técnico e Auxiliar de Enfermagem, Farmacêutico e Nutricionista, foram declaradas inconstitucionais, consoante se extrai da seguinte ementa:
+    …...................................................................................................
+    Prevalece, portanto, a disposição contida no art. 124, da Lei Complementar nº 01/90:
+    …...................................................................................................
+    Destarte, a pretensão da recorrente ao recebimento de indenização por horas extras que decorrem da redução de jornada de trabalho prevista na LC 218/10 não pode ser acolhida, houve o retorno da jornada de 40 horas semanais, portanto não configurado direito às horas extraordinárias.
+    Como bem observado pelo Juiz sentenciante: ‘O Edital do concurso não poderia ferir as regras vigentes e atos praticados sob a égide da Lei declarada inconstitucional são tidos como nulos, o edital, inclusive, o qual previa menor jornada de trabalho (30 em vez de 40 horas semanais), não se havendo falar em direito adquirido a justificar o pagamento de “horas extras’.
+    …...................................................................................................
+    Por fim, não demonstrados prejuízos, nem redução de vencimentos, não pode invocar ofensa ao princípio da irredutibilidade de vencimentos, limitando-se as afirmações ao campo da generalidade.
+    …..................................................................................................
+    Ressalte-se, ainda, que não verificada a redução nominal nos vencimentos da recorrente segundo os comprovantes de pagamento juntados (fls. 50/96).”
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.189.216/SP, Rel. Min. ROBERTO BARROSO – ARE 1.223.507/SP, Rel. Min. CELSO DE MELLO – ARE 1.223.680/SP, Rel. Min. ALEXANDRE DE MORAES, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a fixação da verba honorária, na origem, em seu percentual máximo.
+    Publique-se.
+    Brasília, 1º de julho de 2020.
+Ministro CELSO DE MELLO
+Relator
