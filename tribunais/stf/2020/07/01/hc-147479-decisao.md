@@ -1,0 +1,63 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. AUSÊNCIA DE PROVAS. PLEITO ABSOLUTÓRIO. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 41 E 395 DO CPP. INOVAÇÃO RECURSAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PRECLUSÃO. PRECEDENTES.
+    Agravo regimental improvido.”
+    (AREsp 1.075.547-AgRg/PA, Rel. Min. SEBASTIÃO REIS JÚNIOR – grifei)
+    Busca-se, nesta sede processual, seja concedida “(…) a ordem de ‘habeas corpus’, reconhecendo-se ausência de materialidade e autoria ao crime imputado a Altevir Fonseca de Oliveira, bem como a aplicação do princípio da consunção ao crime imputado a Neli Yachiyo Onuma,  abolindo o delito de falsidade ideológica” (grifei).
+    O Ministério Público Federal, em pronunciamento da lavra da ilustre Subprocuradora-Geral da República Dra. CLÁUDIA SAMPAIO MARQUES, opinou contrariamente à pretensão formulada pela parte impetrante em parecer assim ementado:
+    “‘HABEAS CORPUS’. CRIMES DE RESPONSABILIDADE DE PREFEITO E CRIME DE FALSIDADE IDEOLÓGICA. CONDENAÇÃO MANTIDA EM SEDE DE RESP. INADMISSIBILIDADE DE ‘HC’ SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. MATÉRIA DE FUNDO NÃO ANALISADA NO STJ. SUPRESSÃO DE INSTÂNCIA. PRELIMINAR DE NÃO CONHECIMENTO. PRETENDIDA APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. REEXAME DE FATOS  E PROVAS. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. CRIMES AUTÔNOMOS, QUE TUTELAM BENS JURÍDICOS DIVERSOS. INÉPCIA DA DENÚNCIA. QUESTÃO SUSCITADA APÓS CONDENAÇÃO CONFIRMADA EM SEDE DE APELAÇÃO. PRECLUSÃO DA MATÉRIA. PRECEDENTES DO STF. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER PELO NÃO CONHECIMENTO DO ‘WRIT’.” (grifei)
+    Sendo esse o contexto, aprecio, em caráter preliminar, a admissibilidade do pleito em causa. E, ao fazê-lo, entendo insuscetível de conhecimento a impetração ora em exame.
+    Com efeito, verifica-se da análise da decisão ora impugnada que ela sequer examinou os fundamentos em que se apoia esta impetração.
+    Inexiste, portanto, coincidência temática entre as razões invocadas nesta ação de “habeas corpus” e aquelas que dão apoio à decisão objeto de impugnação na presente sede processual.
+    A circunstância que venho de mencionar (ocorrência de incoincidência temática) faz incidir, na espécie, em relação a este “writ” constitucional, a jurisprudência do Supremo Tribunal Federal, que assim se  tem pronunciado nos casos em que os fundamentos apresentados pelo impetrante não guardam pertinência com aqueles que dão suporte à decisão impugnada (RTJ 182/243-244, Rel. Min. SEPÚLVEDA PERTENCE – HC 73.390/RS, Rel. Min. CARLOS VELLOSO – HC 81.115/SP, Rel. Min. ILMAR GALVÃO, v.g.):
+    “IMPETRAÇÃO DE ‘HABEAS CORPUS’ COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL.
+    – Revela-se insuscetível de conhecimento, pelo Supremo Tribunal Federal, o remédio constitucional do ‘habeas corpus’, quando impetrado com suporte em fundamento que não foi apreciado pelo Tribunal apontado como coator.
+    Se se revelasse lícito ao impetrante agir ‘per saltum’, registrar-se-ia indevida supressão de instância, com evidente subversão de princípios básicos de ordem processual. Precedentes.”
+    (RTJ 192/233-234, Rel. Min. CELSO DE MELLO)
+    “Em ‘habeas corpus’ substitutivo de recurso ordinário, a inconformidade deve ser com o acórdão proferido pelo STJ, e não contra o julgado do Tribunal de Justiça.
+    O STF só é competente para julgar ‘habeas corpus’ contra decisões provenientes de Tribunais Superiores.
+    Os temas objeto do ‘habeas corpus’ devem ter sido examinados pelo STJ.
+    .......................................................................................................
+    Caso contrário, caracterizaria supressão de instância.
+    ‘Habeas Corpus’ não conhecido.”
+    (HC 79.551/SP, Rel. Min. NELSON JOBIM – grifei)
+    Disso tudo resulta que as razões que dão suporte a esta impetração, para serem conhecidas pelo Supremo Tribunal Federal em sede de “habeas corpus”, precisam constituir objeto de prévio exame por parte do E. Superior Tribunal de Justiça, sob pena de configurar-se, como precedentemente já acentuado, inadmissível supressão de instância, consoante tem advertido o magistério jurisprudencial desta Suprema Corte:
+    “EXECUÇÃO PENAL. ‘HABEAS CORPUS’. PROGRESSÃO DE REGIME. CUMPRIMENTO DE UM SEXTO DA PENA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ‘A QUO’. SUPRESSÃO DE INSTÂNCIAS. PRECEDENTES. ‘WRIT’ NÃO CONHECIDO.
+    1. A presente impetração visa ao reconhecimento do direito do paciente em progredir de regime prisional em razão do cumprimento de um sexto da pena.
+    2. A questão suscitada pelo impetrante no presente ‘habeas corpus’ não foi sequer apreciada pelo Superior Tribunal de Justiça, já que não tinha sido submetida anteriormente ao crivo do Tribunal de Justiça do Rio de Janeiro.
+    3. Desse modo, o conhecimento da matéria, neste momento, pelo Supremo Tribunal Federal acarretaria inadmissível supressão de instâncias.
+    4. A jurisprudência dessa Suprema Corte é firme no sentido de que ‘não se conhece de ‘habeas corpus’ cujas questões não foram apreciadas pela decisão contra a qual é impetrado’ (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 094).
+    5. ‘Writ’ não conhecido.”
+    (HC 97.761/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    Mesmo se fosse possível superar esse obstáculo processual, melhor sorte não assistiria à parte impetrante.
+    É que a verificação da procedência, ou não, das alegações deduzidas no presente “writ”, sobre a apreciação dos fatos subjacentes à própria imputação penal, demandaria necessário reexame de fatos, o que não se admite nesta sede excepcional, especialmente se se considerarem os fundamentos que dão suporte ao acórdão proferido pelo E. Tribunal Regional Federal da 1ª Região no julgamento do recurso de apelação interposto pelos ora pacientes (Processo nº 0010677- -59.2003.4.01.3900), cuja ementa a seguir reproduzo:
+    “PENAL. PROCESSUAL PENAL. ART. 1º, INCISOS I E II DO DECRETO-LEI N. 201/67. FALSIDADE IDEOLÓGICA.  ART. 299 C/C O ART. 61, II, ‘B’, AMBOS DO CÓDIGO PENAL. AUTORIA E MATERIALIDADE COMPROVADAS. DOLO. APELAÇÃO DESPROVIDA.
+    I. As provas coligidas nos autos demonstram claramente a apropriação e a utilização indevida das verbas públicas federais destinadas ao Município de Garrafão do Norte/PA, verba essa objeto do Convênio n. 738/97, celebrado entre o Ministério da Saúde e a Prefeitura Municipal, na gestão da então Prefeita e de seu tesoureiro e marido.
+    II. As empresas que participaram da licitação, na modalidade Carta-Convite, para o fornecimento de leite em pó e óleo de soja, nos termos da ata de Abertura de Julgamento de Licitação, foram, respectivamente, COMERCIAL RESPLENDOR LTDA. e COMERCIAL SÃO FRANCISCO. No entanto, a empresa favorecida foi a ROMANIS COMERCIAL LTDA., que sequer participou do certame licitatório.
+    III. As cópias dos dois cheques (fls. 188/189), em que figura como favorecida a empresa ROMANIS COMERCIAL LTDA., em comparação com outros dois contendo os mesmos números e valores, constata-se empresas beneficiadas diversas daquela, o que comprova que os títulos destinados ao pagamento das mercadorias, objeto do Convênio, foram fraudados para simular as compras.
+    IV. A apresentação dos cheques adulterados ocorreu posteriormente à perpetração dos delitos descritos no art. 1º,  I e II, do Decreto-Lei n. 201/67, ou seja, já havia ocorrido a consumação destes crimes. Logo, torna-se impossível decidir  pela aplicação do Princípio de Absorção, porquanto a falsificação dos títulos de crédito não se prestou como meio para a prática do crime-fim.
+    V. Mantida a agravante do art. 61, II, ‘b’, do CP na dosimetria da pena arbitrada, à medida que pretendeu a ré, com esse delito, assegurar a ocultação de outro crime, no caso os de responsabilidade.
+    VI. Apelação desprovida.” (grifei)
+    Impõe-se observar, por relevante, que eventuais divergências no exame do conjunto probatório produzido no âmbito do processo penal de conhecimento não se mostram suscetíveis de apreciação na esfera deste “writ” constitucional.
+    A jurisprudência do Supremo Tribunal Federal – desde que ausente situação de certeza objetiva quanto aos fatos – tem assinalado não se revelar compatível com o âmbito estreito do “habeas corpus” a apreciação jurisdicional que importe em indagação probatória, ou em análise aprofundada de matéria fática, ou, ainda, em exame valorativo dos elementos de prova (RTJ 165/877-878, Rel. Min. CELSO DE MELLO – RTJ 168/863-865, Rel. Min. CELSO DE MELLO, v.g.).
+    Com efeito, a pretensão da parte impetrante, tal como deduzida, implicaria irrecusável análise da prova e importaria em aprofundada investigação dos fatos subjacentes à acusação penal, o que se revela inadmissível – como anteriormente assinalado – na via angusta e sumaríssima do “habeas corpus” (RTJ 140/893, Rel. Min. CELSO DE MELLO – HC 66.381/SP, Rel. Min. DJACI FALCÃO – HC 65.887/SP, Rel. Min. OCTAVIO GALLOTTI – HC 96.820/SP, Rel. Min. LUIZ FUX – HC 117.438/DF, Rel. Min. CELSO DE MELLO, v.g.):
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. COMPETÊNCIA PRECÍPUA DO SUPERIOR TRIBUNAL DE JUSTIÇA. CRIMES DE USO DE DOCUMENTO FALSO E AMBIENTAL. PRINCÍPIO DA CONSUNÇÃO. REEXAME DE FATOS E PROVAS. SUPRESSÃO DE INSTÂNCIA.
+    1. Compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ‘ad quem’, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo quanto a tal recurso de fundamentação vinculada. Salvo hipóteses de flagrante ilegalidade ou abuso de poder, inadmissível o reexame dos pressupostos de admissibilidade do recurso especial pelo Supremo Tribunal Federal. Precedentes.
+    2. Não se presta a via de ‘habeas corpus’ para o reexame  e a valoração de fatos e provas. Precedentes.
+    3. Inviável o exame de teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+    4. Agravo regimental conhecido e não provido.”
+    (HC 156.259-AgR/PA, Rel. Min. ROSA WEBER – grifei)
+    “Recurso ordinário em ‘habeas corpus’. Crimes de formação de quadrilha (CP, art. 288), estelionato (CP, art. 171), furto (CP, art. 155) e falsificação de documento particular  (CP, art. 298). Pretensão ao reconhecimento de inépcia da denúncia. Decisão do Superior Tribunal de Justiça negando conhecimento ao ‘writ’ por ser ele substitutivo do recurso ordinário cabível. Denúncia. Inépcia. Não ocorrência. Pretendido exame da ocorrência de continuidade delitiva e de absorção de crimes. Impossibilidade. Recurso não provido.
+    …...................................................................................................
+    3. Não é o ‘habeas corpus’, igualmente, sede apropriada para exame da ocorrência da continuidade delitiva ou da ocorrência de consunção, situações que demandam o exame do acervo fático-probatório e que nem sequer foram examinadas pelo juízo de primeiro grau. Precedentes.
+    4. Recurso a que se nega provimento.”
+    (RHC 121.747/DF, Rel. Min. DIAS TOFFOLI – grifei)
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite qualquer dilação probatória (RTJ 110/555 – RTJ 129/1199 – RTJ 163/650-651 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    A análise da controvérsia, na perspectiva sugerida pela parte impetrante, tornaria necessária a interpretação do conjunto probatório emergente do processo penal de conhecimento, o que constitui matéria pré-excluída da via estreita do “habeas corpus” (RTJ 136/1221 – RTJ 137/198, v.g.).
+    Sendo assim, em face das razões expostas, e acolhendo, ainda, o parecer da douta Procuradoria-Geral da República, não conheço da presente ação de “habeas corpus”.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 1º de julho de 2020.
+Ministro CELSO DE MELLO
+Relator
