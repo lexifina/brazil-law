@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. ROUBO CIRCUNSTANCIADO. PLEITO DE RECONHECIMENTO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. DOSIMETRIA DA PENA. TERCEIRA ETAPA DO CÁLCULO. FUNDAMENTAÇÃO IDÔNEA. NÃO INCIDÊNCIA DO ENUNCIADO 443 DA SÚMULA DESTA CORTE. MODIFICAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA SANÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A Corte de origem decidiu, de forma fundamentada, que não era a hipótese de participação de menor importância, pois a agravante foi verdadeira coautora e sua conduta foi essencial para a prática do crime de roubo circunstanciado.
+    2. Desconstituir os fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o ‘habeas corpus’.
+    3. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em ‘habeas corpus’ apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+    4. O Superior Tribunal de Justiça consagrou o entendimento de que ‘o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes’ (Súmula n. 443/STJ).
+    5. Na espécie, a fração de 1/2, superior, portanto, à mínima prevista para o tipo penal em exame, foi fixada com base em circunstâncias concretas atinentes às próprias causas de aumento e com indicação da maior reprovabilidade da conduta da agente, notadamente pelo longo tempo em que o ofendido ficou trancado no porta-malas do veículo em movimento, gerando-lhe inegáveis riscos à integridade física.
+    6. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito. Precedentes.
+    7. No caso dos autos, foram apontados elementos concretos capazes de justificar a imposição do regime inicialmente mais gravoso, diante da mecânica delitiva adotada pela paciente, uma vez que ela, juntamente com outro indivíduo, abordaram a vítima mediante ameaça e emprego de uma faca. Além disso, o ofendido permaneceu por cerca de uma hora e trinta minutos no porta-malas do carro.
+    8. Agravo regimental desprovido.”
+    (HC 546.232-AgRg/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO – grifei)
+    Busca-se, em sede cautelar, “a concessão de liminar para autorizar a paciente a aguardar o julgamento do mérito desta ação constitucional no regime semiaberto”.
+    O exame dos fundamentos em que se apoia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida pela parte impetrante.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar.
+    2. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 1º de julho de 2020.
+Ministro CELSO DE MELLO
+Relator
