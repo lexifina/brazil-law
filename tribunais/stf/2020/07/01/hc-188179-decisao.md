@@ -1,0 +1,35 @@
+DECISÃO:
+Ementa: Execução Penal. Habeas Corpus. Tráfico de drogas e Uso de documento falso. Regressão de regime. Fuga. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 580.668/SP, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi definitivamente condenado a 10 anos e 4 meses de reclusão, em regime fechado, por tráfico de drogas e uso de documento falso.
+    3. Em 11.09.2018, o Juízo da Vara de Execução Criminal deferiu ao paciente a progressão para o regime semiaberto
+    4. Narra a parte impetrante que, diante de rebelião ocorrida no presídio, “o paciente se viu em situação de desespero e optou por fugir do local de risco, para preservar a sua vida”. Fato que motivou a suspensão cautelar do regime semiaberto.
+    5. Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. A ordem, contudo, foi denegada. O que deu ensejo à impetração de HC no Superior Tribunal de Justiça. Ação constitucional denegada pelo Min. Nefi Cordeiro do Superior Tribunal de Justiça.
+    6. Neste habeas corpus, a parte impetrante reitera a tese de ilegalidade da regressão cautelar a que o paciente foi submetido pelas instâncias de origem. Daí o pedido de concessão da ordem para que o “paciente permaneça cumprindo a pena em regime semiaberto, e sucessivamente possa progredir ao regime aberto ou livramento condicional, por satisfeitos os requisitos legais, não havendo qualquer razão de cautela suficiente para embasar o encarceramento do paciente em regime mais gravoso...”
+    7. Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    9. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    10.  Não é o caso de concessão da ordem de ofício.
+    11. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o imediato retorno do paciente ao regime semiaberto. Para tanto, reproduzo as seguintes passagens do acórdão proferido pelo Tribunal de Justiça de São Paulo:
+    “[...] Devidamente processada, a ordem deve ser denegada.
+    De acordo com as informações prestadas pelo Juízo de piso, MOACIR HENRIQUE FONSECA GOMES se encontra atualmente preso no CDP de Hortolândia/SP, para cumprimento de condenação no processo nº 0012365-48.2014.8.26.0438, da 3ª Vara do Foro de Penápolis, no importe de 10 (dez) anos e 04 (quatro) meses, de reclusão, em regime inicial fechado.
+    Iniciou o cumprimento em 09/12/2014, com término previsto para 08/04/2025.
+    O paciente foi progredido para o regime semiaberto em 11/09/2018.
+    Diante da notícia de evasão, o regime semiaberto foi sustado cautelarmente até a vinda do procedimento apuratório disciplinar para averiguar o ocorrido.
+    Por fim, o Juízo informa que não há pedido de progressão de regime ou livramento condicional pendente de julgamento.
+    Pois bem.
+    Em que pese o inconformismo, não se vislumbra teratologia ou ilegalidade a ser sanada pela via do habeas corpus.
+    Como é cediço, a execução da pena privativa de liberdade, conforme dicção do artigo 118, inciso I, da Lei de Execuções Penais, fica sujeita à forma regressiva quando o condenado praticar fato definido como crime doloso ou falta grave, incluindo-se, nesta última modalidade, a evasão do estabelecimento prisional.
+    Não obstante as alegações defensivas de que o sentenciado só se evadiu em razão de se encontrar no meio do “fogo cruzado” durante uma rebelião ocorrida no presídio, tal fato não pode ser corroborado inequivocamente pelas provas carreadas aos autos, ainda mais na estreita via de cognição da ação mandamental do habeas corpus.
+    Assim, necessário se faz que os fatos sejam devidamente apurados e esclarecidos a fim de se concluir se o paciente cometeu ou não falta grave consistente na fuga do estabelecimento prisional, sendo perfeitamente cabível, neste ínterim, a sustação cautelar do regime semiaberto outrora concedido, em razão mesmo do próprio poder geral de cautela, do qual se encontram investidos todos os Magistrados, em observância, ainda, ao disposto no artigo 66, inciso IV, da Lei de Execução Penal.
+    Portanto, não se vislumbra ilegalidade alguma na decisão a quo que sustou cautelarmente o regime semiaberto concedido ao paciente, até a conclusão do procedimento administrativo disciplinar, ocasião em que o Juízo terá maiores subsídios para decidir pela revogação da medida ou pela regressão definitiva do paciente para o regime mais gravoso.
+    Ainda nesta senda, é preciso ressaltar que o writ não se mostra o instrumento mais adequado para guerrear decisões proferidas no curso da execução, o que desafia recurso de Agravo de em Execução, recurso este que permite a observação mais ampla e profunda do procedimento jurisdicional. Imperativo salientar, por fim, que não se trata de hipótese em que a liminar ou a ordem de habeas corpus seja manifestamente cabível, principalmente pelo fato de a denegação da tutela estar consubstanciada na análise casuística de elementos objetivos inerentes ao paciente e ao procedimento criminal, em atenção, ainda, ao princípio do livre convencimento motivado...”
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de julho de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
