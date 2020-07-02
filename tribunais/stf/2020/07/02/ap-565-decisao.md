@@ -1,0 +1,33 @@
+DESPACHO
+    1. Ação penal julgada pelo Plenário do Supremo Tribunal Federal com a condenação de Erodi Antônio Matt, Salomão da Silveira e Ivo Narciso Cassol à pena de quatro anos de detenção, em regime aberto, substituída por uma pena restritiva de direitos, consistente em prestação de serviços à comunidade, e por outra pena de multa, no valor de R$ 134.544,70 (cento e trinta e quatro mil, quinhentos e quarenta e quatro reais e setenta centavos) para os dois primeiros e de R$ 201.817,05 (duzentos e um mil, oitocentos e dezessete reais e cinco centavos) para o terceiro.
+    2. O Plenário deste Supremo Tribunal Federal julgou parcialmente procedente a Ação Penal n. 565 e condenou Erodi Antônio Matt, Salomão da Silveira e Ivo Narciso Cassol às penas de quatro anos de detenção, em regime aberto, substituídas por uma pena restritiva de direitos, consistente em prestação de serviços à comunidade, e pena de multa, no valor de R$ 134.544,70 (cento e trinta e quatro mil, quinhentos e quarenta e quatro reais e setenta centavos) para os dois primeiros e de R$ 201.817,05 (duzentos e um mil, oitocentos e dezessete reais e cinco centavos) para o terceiro.
+    Em 20.6.2018, o Plenário deste Supremo Tribunal Federal determinou a certificação do trânsito em julgado da presente ação penal, independente da publicação do acórdão, para fins de início de cumprimento da pena.
+    3. Em 21.6.2018, a Procuradora-Geral da República requereu a execução imediata das penas impostas.
+    4. O trânsito em julgado da ação penal foi certificado à fl. 3.012.
+    5. A execução das penas impostas aos condenados foi delegada ao juízo da Vara Criminal de Rolim Moura/RO (fls. 3031 e 3124).
+    6. Em 9.10.2018, tratando da pena imposta ao condenado Ivo Narciso Cassol e considerando “que a pena de multa no valor de R$ 201.817,05 deveria ser monetariamente atualizada a partir da data de formalização de cada um dos contratos impugnados na denúncia”, o juízo da Vara Criminal de Rolim Moura/RO informou que “os arquivos digitais remetidos ao Juízo da Vara Criminal de Rolim de Moura/RO, não constam a data da formalização dos contratos impugnados”, requerendo “que informe a data da formalização dos referidos contratos impugnados para atualização monetária da pena de multa, para ser revertida aos cofres municipais” (fl. 3082).
+    7. Expediente idêntico, porém relacionado ao condenado Salomão da Silveira, foi expedido pelo juízo da Vara Criminal de Rolim Moura/RO em 31.10.2018 (fl. 3089).
+    8. Novo ofício foi expedido pelo juízo da Vara Criminal de Rolim Moura/RO em 20.2.2019 (fls. 3095-3096), atualizando informações quanto à execução da pena restritiva de direitos pelo condenado Ivo Narciso Cassol e reiterando o pedido de esclarecimentos quanto à pena de multa.
+    9. Expediente idêntico, porém relacionado ao condenado Salomão da Silveira, foi expedido pelo juízo da Vara Criminal de Rolim Moura/RO em 2.5.2019 (fl. 3098).
+    10. Em 13.6.2019 determinei que a Procuradoria-Geral da República procedesse ao cálculo da pena de multa que conclui ter de ser paga pelos condenados, apresentando a este juízo o valor individualizado, atualizado até o momento (fl. 3124).
+    11. Em 7.8.2019 a Procuradoria-Geral da República apresentou os cálculos na forma que determinei, tendo chegado ao valor de R$ 638.651,95 quanto à pena de multa a ser paga pelo condenado Ivo Narciso Cassol e ao valor de R$ 425.767,98 em relação aos condenados Erodi Antônio Matt e Salomão da Silveira (fl. 3133).
+    12. Determinei, em 13.8.2019, a intimação dos condenados, por seus defensores constituídos nos autos, para que se manifestassem, no prazo máximo de cinco dias, sobre os cálculos de atualização das penas de multa (fl. 3283).
+    13. Sobreveio manifestação do condenado Ivo Narciso Cassol, concordando com os cálculos, e aduzindo ainda já ter pago parte do valor (fls. 3322-3323).
+    14. Em 13.9.2019, homologuei os cálculos apresentados pela Procuradoria-Geral da República às fls. 3.132-3.133 e determinei que a Secretaria Judiciária expedisse ofício ao juízo da Vara Criminal de Rolim Moura/RO para proceder à execução dos valores devidos pelos condenados Ivo Narciso Cassol, Erodi Antônio Matt e Salomão da Silveira.
+    Determinei, ainda, que o juízo da Vara Criminal de Rolim Moura/RO informasse o atual estágio de cumprimento das penas restritivas de direitos impostas aos condenados.
+    15. Em 10.12.2019, a Procuradoria-Geral da República requereu “a expedição de novo oficio ao Juízo da 1ª Vara Criminal da Comarca de Rolim de Moura/RO, requerendo informações detalhadas sobre o pagamento da pena de multa pelos três sentenciados, além da atualização sobre a informações do cumprimento da pena de prestação de serviços”.
+    16. Em 17.12.2019, 3.3.2020 e 3.6.2020 foram juntados novos ofícios do juízo da comarca de Rolim de Moura/RO.
+    17. Em 3.6.2020, a Procuradoria-Geral da República manifestou-se nos seguintes termos:
+    “9. Como cediço, cabe ao juízo executório enviar periodicamente informações acerca do cumprimento das penas a essa Corte Suprema, titular da execução penal sob exame, nos termos do art. 102, l, ‘m’: da Constituição Federal.
+    10. Considerando-se o tempo já transcorrido desde o encaminhamento das últimas informações prestadas pelo Juízo de Direito da Vara Criminal da Comarca de Rolim de Moura/RO, mostra-se oportuno encaminhamento de novo ofício ao aludido juízo, a fim de seja atualizado o andamento das execuções sub oculi, com ênfase nos seguintes pontos:
+    a) total de horas de serviço comunitário remanescentes em relação aos três reeducandos;
+    b) situação dos pedidos de parcelamento das multas impostas a Erodi Antônio Matt e Salomão da Silveira;
+    c) esclarecimento sobre o tratamento de saúde a que se encontra submetido Salomão da Silveira e seu eventual impacto no cumprimento da pena de prestação de serviços à comunidade que lhe foi imposta.
+    11. Protesta o Parquet Federal, desde já, por nova vista dos autos, tão logo encaminhadas as informações requeridas junto ao Juízo de Direito da Vara Criminal da Comarca de Rolim de Moura/RO”.
+    18. Na mesma data da manifestação da Procuradoria-Geral da República com os requerimentos apresentados e referindo-se aos itens pleiteados pelo Ministério Público, veio a este Supremo Tribunal documento do juízo que acompanha a execução das penas no presente caso.
+    Assim, determino seja encaminhado, de imediato e com urgência, o processo no qual se tem este novo documento de fls. 3.400-3.410, ainda não examinado pelo Ministério Público, para seu exame.
+    19. Na sequência, retornem-me os autos em conclusão.
+    Publique-se.
+    Brasília, 2 de julho de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
