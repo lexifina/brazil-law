@@ -1,0 +1,29 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1013856-36.2020.8.11.0000 - COMARCA DE COLNIZA
+IMPETRANTE(S): DR. LINDAMIR MACEDO DE PAIVA
+DR. JORGE BALBINO DA SILVA
+PACIENTE(S): JEFERSON RODRIGO NUNES MENDES
+Vistos,
+Habeas Corpus impetrado em favor de JEFERSON RODRIGO NUNES MENDES contra ato comissivo do Juízo da Vara Única da Comarca de Colniza, nos autos ação penal (no 1000348-96.2020.8.11.0105), que decretou a prisão preventiva pelo cometimento, em tese, de homicídio qualificado [mediante promessa, dissimulação e para assegurar a ocultação de outro crime] – art. 121, § 2o, I, IV e V do CP – (www.pje.tjmt.jus.br).
+O impetrante sustenta que: 1) o paciente se encontra segregado há aproximadamente 3 (três) meses [29.4.2020], sem que tenha sido interrogado (impetração em 29.6.2020); 2) o paciente não teria envolvimento com o crime que lhe foi imputado; 3) a decisão constritiva não estaria fundamentada em pressupostos da segregação cautelar; 4) o paciente possui predicados favoráveis [primário, bons antecedentes e endereço certo]; 5) as medidas cautelares diversas da prisão seriam suficientes.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade provisória ao paciente com medidas cautelares alternativas (ID 48288471), com documentos (ID 48288472/ID 48288477).
+Relatos.
+Em 9.4.2020, o Juízo singular deferiu o pedido de prisão preventiva mediante a seguinte fundamentação:
+“[...]No caso versado, a materialidade e os indícios de autoria (“fumus comissi delicti”) dos delitos estão presentes, consoante é demonstrado pelos boletins de ocorrência n. 2020.39203, 2020.78320, 2020.70854 e 2020.83608, laudo pericial, mapa topográfico para localização das lesões, termo de reconhecimento de pessoa positivo, relatório de investigação criminal e depoimentos testemunhais colhidos até o presente momento, apontando que os representados, em tese, praticaram os crimes de homicídio - em face da vítima Edivaldo Abreu dos Santos, e furto qualificado, por duas vezes, em face das vítimas Claudiomiro Marcelo da Silva e Nori Jorge Polles.
+[...] Na ocasião, ainda segundo a vítima Claudiomiro, JEFERSON teria levado Eduardo (seu amigo que se encontrava no local) ao banheiro do clube, colocado uma arma em sua cabeça, ameaçando-o de morte, por ter conhecimento de que ele (Eduardo) teria ciência dos fatos.
+[...] Diante disso, nota-se que o segundo requisito para a segregação cautelar “periculum libertatis” restou fartamente demonstrado nos autos, seja pela VIOLÊNCIA EMPREGADA NO CRIME, haja vista que a vítima foi morta a PAULADAS que FRATURARAM SEU CRÂNIO e em seguida ABANDONADA PRÓXIMO AO LIXÃO MUNICIPAL, localizado na BR 17, sentido Guariba (segundo o boletim de ocorrência n. 2020.83608); seja para a CONVENIÊNCIA DA INSTRUÇÃO PROCESSUAL, tendo em vista a potencialidade de os representados de ameaçarem uma de suas vítimas e intimidar testemunhas no curso da investigação, isso porque considero, como visto acima, as ameaças narradas pelas testemunhas.
+Por esta razão, vejo como imprescindível a prisão preventiva dos representados para conveniência da instrução processual (ante ao constrangimento de testemunhas e vítima) e garantia da ordem pública (investigados por vários crimes + gravidade concreta do crime pelo modus operandi)”. (Vagner Dupim Dias, juiz de Direito - Código 101557/Sistema Primus)
+Pois bem.
+O constrangimento ilegal decorrente de excesso de prazo caracteriza-se na hipótese de dilação processual não justificável, cuja análise deve ser reservada ao colegiado, após a audição do juiz da causa e intervenção do órgão do Ministério Público, na função de custos legis (STJ, AgRg no HC no 177.309/RJ - Relatora: Min.a Laurita Vaz - 21.10.2010; TJMT, HC no 1018624-39.2019.8.11.0000 - Relator: Des. Pedro Sakamoto - Segunda Câmara Criminal - 6.10.2019).
+Por seu turno, a análise da autoria delitiva retrata matéria inerente à instrução criminal, portanto não passível sua aferição em sede de habeas corpus, consoante Enunciado Criminal 42 deste e. Tribunal [“Não se revela cabível na via estreita do habeas corpus discussão acerca da autoria do delito”].
+Em sua vez, a custódia preventiva está fundamentada na garantia da ordem pública, consubstanciada na gravidade do crime [paciente teria contratado os corréus para matar a vítima, qual foi atingida com golpes de madeira na região da cabeça e teve seu corpo “abandonado” próximo ao lixão do Município de Colniza]; bem como na conveniência da instrução processual, visto que o paciente teria constrangido testemunhas [testemunha que foi coagida com uma arma de fogo apontada para sua cabeça no banheiro de clube local].
+A forma de execução do homicídio [cometido, em tese, por mando do paciente] e a ameaça relatada por testemunhas autorizam a prisão cautelar, por revelarem aparente periculosidade social do paciente (STJ, HC no 473.053/SP - Relator: Min. Antonio Saldanha Palheiro - 18.5.2020).
+Logo, impõe-se preservar o ato constritivo.
+No tocante aos predicados pessoais, não autorizam, em si, a revogação da custódia cautelar, tampouco impedem sua decretação (STJ, RHC no 107.968/PR, Relator: Min. Jorge Mussi - 28.5.2019; TJMT, Enunciado Criminal 43).
+Em relação às medidas cautelares alternativas, não se verifica, em análise perfunctória, que seriam adequadas ao considerar que o paciente estaria envolvido em furtos de gado na região de Colniza e teria mandado matar a vítima por suposta divergência nos lucros obtidos dessas infrações (Código 101557/Sistema Primus), a evidenciar maior reprovabilidade da conduta (STJ, HC No 357.511 – Ministro: Rel. Antonio Saldanha Palheiro – 2.9.2019).
+Com essas considerações, INDEFERE-SE o pedido liminar.
+Por efeito, COMUNIQUE-SE ao Juízo singular sobre esta impetração, facultadas informações no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 1o de julho de 2020.
+Des. MARCOS MACHADO
