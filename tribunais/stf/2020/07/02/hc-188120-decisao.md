@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 19, p. 61 – AgRg no Recurso Especial 1851939/PA):
+    AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. HOMICÍDIO SIMPLES. REPRIMENDA FINAL DE 7 (SETE) ANOS DE RECLUSÃO. PRIMARIEDADE. REGIME INICIAL FECHADO. ILEGALIDADE. AUSÊNCIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS NEGATIVAS. ANTECEDENTES E MOTIVOS. INDIVIDUALIZAÇÃO DA PENA. OBSERVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos de pacífica jurisprudência do Superior Tribunal de Justiça, não há ilegalidade na imposição de regime inicial fechado a condenado à pena superior a 4 (quatro) anos e igual ou inferior a 8 (oito) anos de reclusão, mesmo que primário, quando há circunstâncias idoneamente negativadas que justificaram a fixação da pena-base acima do mínimo legal, no caso, os antecedentes e os motivos do crime. 2. É descabido falar que a fundamentação utilizada para se manter o regime mais severo seria impessoal e teria violado o princípio da individualização da pena, uma vez que, exatamente a partir dos elementos da dosimetria da pena do próprio Agravante é que se observou o regime legalmente adequado para o cumprimento da reprimenda, em conformidade com o disposto no art. 33, § 3°, do Código Penal. 3. Agravo regimental desprovido.
+    Alega-se, em suma, que “o paciente é primário, assim, foge da razoabilidade e da proporcionalidade a determinação de cumprimento de pena em regime fechado, visto que o paciente não é reincidente e que pode, no regime semiaberto, ter a finalidade da sua pena atingida em sua plenitude: punição e ressocialização”.
+    À vista do exposto, requer o provimento do recurso a fim de que seja estabelecido o regime inicial semiaberto.
+    É o relatório. Decido.
+    1. A ilegalidade não pode ser aferida de pronto.
+    No caso concreto, o STJ afastou a tese defensiva nos seguintes termos (eDOC 19, p. 63/64):
+    Nos termos de pacífica jurisprudência do Superior Tribunal de Justiça, não há ilegalidade na imposição de regime inicial fechado a condenado à pena superior a 4 (quatro) anos e igual ou inferior a 8 (oito) anos de reclusão, mesmo que primário, quando há circunstâncias idoneamente negativadas que justificaram a fixação da pena-base acima do mínimo legal, no caso, os antecedentes e os motivos do crime.
+    (…)
+    É descabido falar que a fundamentação utilizada para se manter o regime mais severo seria impessoal e teria violado o princípio da individualização da pena, uma vez que, exatamente a partir dos elementos da dosimetria da pena do próprio Agravante é que se observou o regime legalmente adequado para o cumprimento da reprimenda, em conformidade com o disposto no art. 33, § 3°, do Código Penal.
+    Não verifico ilegalidade na decisão exarada pelo STJ, tendo em vista que a menção às circunstâncias judiciais para fixar o regime inicial em modalidade mais gravosa é fundamento suficiente, nos termos do art. 33, § 3º, do Código Penal.
+    Com efeito, a fixação do regime inicial submete-se aos critérios estabelecidos no art. 33 do Código Penal, quais sejam, a quantidade de pena, a reincidência e as circunstâncias judiciais previstas no art. 59 do CP.
+    Logo, nesse particular, a decisão não diverge da jurisprudência do Supremo Tribunal Federal segundo a qual a valoração negativa de circunstância judicial descrita no artigo 59 do Código Penal pode motivar a fixação do regime mais gravoso, conforme expressa disposição do art. 33, §3º, do CP. Precedentes: HC 139.377, Dias Toffoli, Segunda Turma, DJe 13.03.2017; HC 138.186 AgR, de minha relatoria, Primeira Turma, DJe 06.03.2017; HC 132029 AgR, de minha relatoria, Primeira Turma, DJe 28.09.2016; HC 136.361, Segunda Turma, DJe 28.11.2016.
+    Destarte, considerando o limite cognitivo desta Suprema Corte em matéria de dosimetria, não é o caso de concessão da ordem.
+    2. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 2 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
