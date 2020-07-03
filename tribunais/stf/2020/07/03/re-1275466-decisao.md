@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – PREQUESTIONAMENTO – AUSÊNCIA – NEGATIVA DE SEGUIMENTO.
+    1. Eis a síntese do acórdão recorrido:
+    PROCESSUAL CIVIL - AGRAVO LEGAL - ARTIGO 557, § 1°, DO CÓDIGO DE PROCESSO CIVIL - EMBARGOS À EXECUÇÃO FISCAL - IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL - ITR - ESVAZIAMENTO DOS ELEMENTOS DA PROPRIEDADE - SENTENÇA DE PROCEDÊNCIA MANTIDA - AGRAVO LEGAL IMPROVIDO.
+    1. Na apelação a União Federal insiste que o embargante é o proprietário do bem, nada importando se parte do bem está ocupada por grileiros pois a simples propriedade de imóvel rural faz nascer o dever de recolher o tributo; a tese do apelo é contrária ao entendimento pacífico do Superior Tribunal de Justiça.
+    2. Se a respeito do imóvel do autor pende sentença em ação de usucapião extraordinário, e se uma boa parte da antiga fazenda hoje é a sede do Município de Pontes e Lacerda, em Mato Grosso, fundado em 29/12/79, com população de 41.741 habitantes (Censo IBGE - 2010), não tem o menor propósito exigir do executado o ITR à conta de ser ele porprietário ou "possuidor" do imóvel.
+    3. Não há erro na decisão monocrática do Relator proferida nos termos do artigo 557 do Código de Processo Civil, pois o recurso da ora agravante foi manejado contra o entendimento pacífico do Superior Tribunal de Justiça.
+    4. Agravo legal a que se nega provimento.
+    No extraordinário, a recorrente aponta violados os artigos 5º, incisos XXXV e LIV, 93, inciso IX, 97, 145, § 1º e 153, inciso IV, da Constituição Federal. Argui a nulidade do acórdão por negativa de prestação jurisdicional. Alega ter a decisão recorrida implicado a declaração de inconstitucionalidade dos artigos 29 do Código Tributário Nacional – CTN e 1º da Lei nº 9.393/1996. Sustenta a incidência de Imposto Territorial Rural – ITR sobre a propriedade de imóvel ainda que a posse seja exercida por terceiro.
+    2. De início, quanto a evocação do artigo 97 da Lei Maior, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência, ausente declaração de inconstitucionalidade de normas legais.
+    Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Não houve interposição de embargos de declaração, nem debate e decisão prévios sobre a questão constitucional. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 3 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
