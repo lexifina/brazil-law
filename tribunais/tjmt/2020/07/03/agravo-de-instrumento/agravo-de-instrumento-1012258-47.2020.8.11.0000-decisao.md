@@ -1,0 +1,27 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1012258-47.2020.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DA CAPITAL
+AGRAVANTE: DIEGO DE OLIVEIRA MARTINS;
+AGRAVADO: MUNICÍPIO DE CUIABÁ.
+Vistos etc.
+Agravo de instrumento, com pedido de antecipação de tutela da pretensão recursal, interposto por Diego de Oliveira Martins contra a decisão que, em mandado de segurança impetrado contra ato do Prefeito do Município de Cuiabá e do Secretário de Educação, indeferiu a liminar.
+Assegura que participou do concurso público regido pelo Edital no 2, de 23 de julho de 2019, do Município de Cuiabá, para o cargo de Técnico de Nível Superior: Bacharel em Direito e foi nomeado em 9 de março de 2020, consoante Ato no 195/2020, publicado no Diário Oficial de Contas no 1860.
+Assevera que apresentou todos os documentos necessários à posse no dia 16 de março de 2020, porém, na data de 20 de março de 2020, o Município de Cuiabá decretou estado de calamidade pública, a suspender as atividades presenciais dos servidores públicos. Além disso, em 23 de março, foi publicado no sitio eletrônico do Município a prorrogação, por tempo indeterminado, do recebimento de documentos dos servidores nomeados.
+Afiança que “entre a data do primeiro decreto de estado de calamidade pública e suas prorrogações pelos decretos n. 7868 ID n. 326154477 (3 de abril) e 7898 (09 de maio) - que não mencionaram a suspensão da nomeação e posse -, a Secretaria Municipal de Educação, no dia 28 de abril de 2020, prorrogou contratos de servidores temporários, inclusive do mesmo cargo do agravante, com o motivo de mera ‘demanda de serviço’, deixando de conceder a posse e efetivo exercício para os servidores nomeados pelo concurso público no prazo legal. Situação que formalizou a preterição à posse e efetivo exercício.”.
+Afirma que, “posteriormente, o município de Cuiabá publicou, 09 de maio de 2020, o decreto no 7900 que suspendeu as nomeações dentro do município de Cuiabá, e fora publicado somente após 60 dias do termo final do ato de nomeação. Na decisão agravada o juiz de primeiro grau aplicou esse decreto retroativamente a data de 20 de março de 2020 e extensivamente, entendendo abranger os atos de nomeação, convocação, posse e exercício.”
+É o relatório.
+Eis, no essencial, o teor da decisão:
+[...] ressalvada a controvérsia doutrinária havia sobre o tema, é de se relembrar que o provimento do cargo público é ato administrativo de natureza complexa, formado por diversos componentes interdependentes com destaque para a nomeação, posse e entrada e exercício. Logo, quando o Decreto n° 7.900/2020 suspendeu as nomeações de novos servidores, esta suspensão alcança, em verdade, o processo de provimento por completo, sobrestando todos os atos de competência do Chefe do Poder Executivo Municipal.
+Sendo assim, embora já realizada a publicação da nomeação do impetrante para o cargo público, é certo que o Decreto mencionado suspendeu as demais etapas do processo administrativo de provimento do cargo, incluindo a pretendida convocação para posse e entrada em exercício objeto desta ação mandamental.
+Sob outro aspecto, vale mencionar que o protocolo de entrega dos documentos acostado no ID 32615459 não está datado, o que impossibilita o preciso cálculo das datas. Ademais, não é plausível a determinação de assinatura do termo de posse do impetrante, já que os documentos colacionados ao feito não comprovam o cumprimento de todos os requisitos e apresentação de todos os documentos descritos no art. 2o do ato de convocação da posse.
+Portanto, ausente o elemento probatório capaz de permitir valoração acerca dos fatos nos quais se assentam a lide, as alegações deduzidas na inicial, ao menos nesta aurora processual, não guardam relevância para o seu acolhimento.
+Razão disso, indefiro o pleito liminar. [...]. (Processo Judicial Eletrônico no 1012258-47.2020.8.11.0000, Primeira Instância, Id. 32773080).
+Na inicial está consignado que, “apesar do comprovante de entrega de documentos não estar datado, este foi recebido entre a data da nomeação e o dia 20 de marços de 2020, precisamente no dia 16 de março de 2020”. Porém, por mais respeitável que seja a palavra do agravante, mandado de segurança pressupõe, nas palavras de Castro Nunes: “direito provado de plano, documentalmente, sem necessidade de provas complementares, nem maior debate elucidativo dos fatos;” (Do mandado de segurança e de outros meios de defesa contra atos do poder público. 8. ed. atual. por José de Aguiar Dias. Rio de Janeiro: Forense, 1980, p. 65).
+A decisão agravada bem explicitou:
+[...] vale mencionar que o protocolo de entrega dos documentos acostado no ID 32615459 não está datado, o que impossibilita o preciso cálculo das datas. Ademais, não é plausível a determinação de assinatura do termo de posse do impetrante, já que os documentos colacionados ao feito não comprovam o cumprimento de todos os requisitos e apresentação de todos os documentos descritos no art. 2o do ato de convocação da posse. [...]. (Id. 32773080).
+Dessa forma, não vislumbro, nesta quadra, direito líquido e certo do agravante, que pudesse autorizar o deferimento de liminar, pelo que pelo que recebo e determino o processamento do recurso, sem deferir, em antecipação de tutela, a pretensão recursal.
+Intimem-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Após, à Procuradoria-Geral de Justiça.
+Intimem-se.
+Às providências.
+Cuiabá, 3 de julho de 2020.
+Des. Luiz Carlos da Costa
+Relator
