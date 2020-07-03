@@ -1,0 +1,37 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0036987-17.2009.8.11.0041
+Recorrente: DANILO ZANIRATO
+Recorrida: IRENE DE OLIVEIRA VIEIRA FINARDI e G. V. V. F.
+Vistos.
+Trata-se de Recurso Especial interposto por DANILO ZANIRATO (id 48522990) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela QUARTA CÂMARA DE DIREITO PRIVADO assim ementado (id 30981013):
+“APELAÇÕES CÍVEIS – AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS POR ERRO MÉDICO JULGADA PARCIALMENTE PROCEDENTE – CONDENAÇÃO SOLIDÁRIA – ILEGITIMIDADE PASSIVA DO HOSPITAL – CERCEAMENTO DE DEFESA – AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAÇÃO DAS ALEGAÇÕES FINAIS – PRELIMINARES REJEITADAS - IRREGULARIDADE DO LAUDO PERICIAL – QUESTÃO APRECIADA NO MÉRITO – PERITO DOTADO DE FÉ PÚBLICA – PRESUNÇÃO IURIS TANTUM DE VERACIDADE – OMISSÃO DO PROFISSIONAL NA INVESTIGAÇÃO DO QUADRO CLINICO DA PACIENTE – INEXISTÊNCIA DE PROVAS CONTRÁRIAS – DANO MORAL E ESTÉTICOS DEVIDOS – VALORES ARBITRADOS COM RAZOABILIDADE NA SENTENÇA – MANUTENÇÃO - REDUÇÃO DA VERBA HONORÁRIA – INVIABILIDADE – ART. 85, §2o DO CPC – INCIDÊNCIA DOS JUROS MORATÓRIOS INALTERADA – RECURSOS NÃO PROVIDOS. Não comprovada a natureza jurídica do vínculo entre o hospital e o médico que assistiu a paciente, o primeiro deve permanecer no polo passivo da lide. A ausência das alegações finais da parte ré não configura cerceamento de defesa se as partes tiveram conhecimento dos fatos e dos documentos contidos nos autos desde o momento de sua instauração e não foi demonstrado qualquer prejuízo. O perito é considerado auxiliar do juízo, nomeado quando há necessidade de conhecimento técnico ou científico. É dotado de fé pública com presunção iuris tantum de veracidade, admitindo-se que seja afastado apenas mediante provas robustas em contrário. São devidos os danos morais e estéticos quando não existe na lide elementos capazes de desconstituir o laudo pericial, e estando nele consignado que, se não houvesse omissão do médico em realizar os exames imprescindíveis ao diagnóstico correto e proceder ao tratamento devido na gestante, poderia ter sido evitado o nascimento prematuro da criança e a consequente imputação de sua perna. Levado em conta o intenso sofrimento das autoras, a negligência do profissional que as atendeu e o objetivo da reparação, impõe-se a manutenção dos valores fixados como dano moral (R$20.000,00 para cada uma) e estético (R$80.000,00). Não cabe redução da verba honorária para 5%, pois o §2o do art. 85 do CPC estabelece que serão fixados entre o mínimo de 10% e o máximo de 20%. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.” (Súmula 54/STJ)” (TJMT, RAC 0036987-17.2009.8.11.0041, DES. RUBENS DE OLIVEIRA SANTOS FILHO, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 22/01/2020)
+Os Embargos de Declaração id 32021974 e 32336466 foram rejeitados, conforme acórdão id 45253970.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo, pugnando “pela REVALORAÇÃO da controvérsia fática delineada no acórdão recorrido, a fim de que esta Egrégia Corte possa qual i ficá-la juridicamente e, assim, fazer valer o disposto no 14 do CDC, artigos 186 e 927 do CC e artigos 6o, 7o, 364, 371, 473, parágrafo 2o, 489, parágrafo 1o, incisos IV e VI, do CPC.”
+No corpo do recurso, aduz o Recorrente que as matérias foram prequestionadas e delimitadas, com as seguintes controvérsias:
+“a) Cerceamento de defesa, ante o vício que reveste o Laudo Pericial dos autos, pois eivado de subjetividade por parte da Per ita do Juízo, em flagrante contradição ao preconizado pelo art. 473, parágrafo 2o, do CPC.
+b) Cerceamento de defesa, considerando o notório prejuízo suportado pelo recorrente, que teve cerceado o direito de apresentar razões finais após a instrução processual , em flagrante violação ao disposto na norma processual civil vigente (arts. 6o, 7o e 364 do CPC)
+c) Ocorrência de excludente de responsabilidade (CASO FORTUITO), aplicabilidade do art. 14, parágrafo 3o, do CDC;
+d) Ausência dos requisitos da responsabilização civil, preconizados pelos artigos 186 e 927 do CC;
+e) Violação ao disposto no art. 489, parágrafo 1o, IV e VI, do CPC, ante o não enfrentamento dos argumentos deduzidos no processo capazes de infirmar a tese desenvolvida pelo julgador e a não demonstração de distinção dos precedentes invocados ao caso em análise.”
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...) seja o mesmo recebido em ambos os efeitos, DEVOLUTIVO E SUSPENSIVO e encaminhado ao conhecimento da instância superior, para posterior apreciação, nos termos da lei .”
+Recurso tempestivo e preparado, conforme certidões id 48657969 e 48751989.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que não trouxe qualquer fundamento relacionado ao perigo da demora ou a probabilidade do direito, limitando-se a postular pelo recebimento do recurso com o efeito suspensivo.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência ante a ausência de fundamentação para tanto, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Atente-se a Secretaria para intimar a parte Recorrida para que apresente as contrarrazões também em relação ao Recurso Especial interposto pela CLINICA SÃO LUCAS S. A. (id 48497535), salientando que não houve análise deste recurso neste momento em razão de inexistir pedido de efeito suspensivo.
+Publique-se. Intimem-se.
+Cuiabá, 03 de julho de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
