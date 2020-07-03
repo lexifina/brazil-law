@@ -1,0 +1,24 @@
+RECLAMAÇÃO. SÚMULA VINCULANTE Nº 14. ACESSO AOS AUTOS. DILIGÊNCIAS EM ANDAMENTO. NEGATIVA DE SEGUIMENTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal, e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Elton Leonel Rumich da Silva contra ato do Delegado de Polícia da Delegacia Especializada em Armas, Munições e Explosivos do Estado do Rio de Janeiro, que supostamente teria contrariado o enunciado da Súmula Vinculante nº 14.
+    Narra a inicial que, nos autos dos Inquéritos Policiais nºs 960.00017/2018, 960.00009/2018 e 960.00010/2018, a Defesa do Reclamante solicitou “a complementação de vista dos documentos já mencionados e encartados anteriormente”. Ato contínuo, a autoridade reclamada “negou acesso aos documentos, sob o frágil argumento de que os documentos mencionados e encartados nos autos seriam objeto de investigação ainda em curso”. Requer o Reclamante, em medida liminar e no mérito, que seja franqueado o acesso da Defesa aos referidos inquéritos policiais em sua integralidade.
+    Em 14.10.2019, indeferi o pedido de liminar.
+    Prestadas informações pela autoridade reclamada.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pela improcedência da reclamação.
+    É o relatório.
+    Decido.
+    A reclamação é ação autônoma de impugnação dotada de perfil constitucional, disposta no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal. Hoje prevista nos artigos 102, I, e 103-A, § 3º, da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, desobediência a súmula vinculante e de descumprimento de autoridade de decisão proferida por esta Corte com efeito vinculante.
+    A aferição da presença dos pressupostos que autorizam seu manejo há de ser feita com devido rigor técnico (Rcl 6735 AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe-168, p. 10.9.2010), não cabendo o alargamento de suas hipóteses de cabimento por obra de hermenêutica indevidamente ampliativa, sob pena de desvirtuamento da vocação dada pelo constituinte ao importante instituto da reclamação constitucional.
+    Baseada nestas premissas, a jurisprudência desta Corte exige, para o cabimento da reclamação constitucional, a estrita aderência entre ato reclamado e o conteúdo do paradigma de controle: Rcl 4.487/PR-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe-230 de 5.12.2011.
+    Extraio do enunciado da Súmula Vinculante nº 14:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.”
+    Por seu turno, a autoridade reclamada consignou, “conceda-se acesso ao autos já documentados, na forma da SV 14” (evento 11 – fls. 2).
+    Inexiste, assim, substrato fático ou jurídico capaz de ensejar a aplicação, na espécie, do enunciado da Súmula Vinculante nº 14.
+    A jurisprudência desta Suprema Corte orienta que “Diligências ainda em andamento não estão contempladas pelo teor da Súmula Vinculante 14” (Rcl 22.062-AgR/SP, Rel. Min. Roberto Barroso, 1ª Turma, DJe 20.5.2016); “Autos de inquérito policial que estavam circunstancialmente indisponíveis em razão da pendência de realização de diligência sigilosa. Além disso, os autos encontravam-se fisicamente em poder da autoridade policial, providência que, temporariamente, impedia o imediato acesso da defesa. Razões atinentes à gestão processual que evidenciam ausência de demonstração inequívoca de atos violadores da Súmula Vinculante 14” (Rcl 25.012-AgR/SP, Rel. Min. Edson Fachin, 2ª Turma, DJe 27.3.2017); e “Alegado descumprimento da Súmula Vinculante n. 14 não configurado. Diligências em curso” (Rcl 18.044-AgR/CE, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 18.12.2014).
+    Ademais, enfatiza o parecer ministerial que “a autoridade reclamada, em resposta ao requerimento da parte (fls. 208/209) para ter acesso aos documentos mencionados nas fls. 275 do IP nº 960.00017/2018, concedeu ao Dr. Renan Santana Carvalho, advogado do ora reclamante, “acesso aos atos já documentados, na forma da SV 14” (fls. 209 – Destaque do MPF)“. Nesse contexto, “não se mostra razoável interpretar a referida súmula vinculante de modo a permitir o acesso irrestrito aos autos se os trabalhos investigativos ainda estão pendentes”.
+    Não detecto, portanto, qualquer ato praticado pela autoridade reclamada capaz de afrontar o enunciado da Súmula Vinculante nº 14.
+    Ante o exposto, nego seguimento à presente reclamação (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de julho de 2020.
+Ministra Rosa Weber
+Relatora
