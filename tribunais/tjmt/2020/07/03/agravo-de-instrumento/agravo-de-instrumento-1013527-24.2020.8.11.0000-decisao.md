@@ -1,0 +1,37 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1013527-24.2020.8.11.0000
+AGRAVANTE: SINAGRO PRODUTOS AGROPECUARIOS S.A.
+AGRAVADO: BRAZ PEREIRA DA SILVA JUNIOR e outros
+Vistos.
+Trata-se de agravo de instrumento interposto por SINAGRO PRODUTOS AGROPECUARIOS S.A. contra a decisão interlocutória proferida pelo MM. Juiz de Direito da 2a Vara Cível da Comarca de Costa Rica/MT, Dr. Ivan Lúcio Amarante, que nos autos da Ação de Execução para Entrega de Coisa c/c Pedido de Tutela Provisória Cautelar em Caráter Antecedente no 1000689-96.2020.8.11.0049, ajuizada em face de BRAZ PEREIRA DA SILVA JUNIOR e outros, indeferiu o pedido da agravante para que fosse sequestrada a quantidade de 45.936 sacas de 60 kg cada, de milho em grãos, os quais lhe foram dados em penhor de primeiro grau, conforme os termos da CPR no 27.007.2020.
+Aduz a recorrente que tem por atividade empresarial a comercialização de insumos agrícolas e no regular exercício de suas atividades, a mesma comercializou diversas mercadorias junto ao agravado (produtor rural).
+Ressalta que “como forma de pagamento, o Agravado emitiu a favor da Agravante, a Cédula de Produto Rural no 27.007.2020, sendo oferecida garantia pessoal (aval) da segunda Agravada, JOELMA AUXILIADORA BORGES (mãe do produtor rural)” (sic).
+Discorre que “o vencimento da CPR no 27.007.2020 ocorreu em 15/06/2020, ou seja, o título encontra-se vencido e os Agravados não cumpriram com a obrigação de disponibilizar à Agravante a quantidade de 41.760 sacas de 60 kg cada de milho em grãos a granel, produzidas na FAZENDA IGOR, imóvel matriculado sob o no 5.948 do 1o Ofício de Registro de Imóveis da Comarca de Vila Rica/MT” (sic).
+Alega que na colheita do milho, os agravados, além de impedirem o monitoramento por parte da agravante, estão desviando o produto rural para terceiros.
+Anota que “tratando-se de produto de fácil comercialização e deslocamento, vê-se aumentado o risco do desvio e proporcionalmente diminuída a possibilidade da Agravante recuperar o seu crédito” (sic).
+Afirma que “deve-se levar em conta o caráter sazonal de colheita e venda do milho, específico do ramo agrícola, de modo que a Agravante tem um curto espaço de tempo para tentar impedir que este bem seja desviado sob pena de nada mais encontrar nesta presente” (sic).
+Com estes argumentos, requer a concessão da tutela cautelar em caráter antecedente, com fulcro nos artigos 301 c/c 305, ambos do Código de Processo Civil, para que possa ser sequestrada a quantidade de 45.936 sacas de 60 kg cada, de milho em grãos, em penhor de primeiro grau a favor da agravante, prevista na CPR no 27.007.2020, bem como que seja a agravante nomeada depositária dos grãos e que seja concedida a devida autorização para remoção e venda, para que possa cumprir com suas obrigações perante terceiros.
+Oferece em caução o imóvel matriculado sob o no 22.119 do Cartório de Registro de Imóveis de Primavera do Leste/MT avaliado em R$ 5.624.853,88 (cinco milhões, seiscentos e vinte e quatro mil, oitocentos e cinquenta e três reais e oitenta e oito centavos).
+Preparo recursal recolhido (Id. 47857469).
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC.
+Nos termos do art. 300, caput e 301 do CPC, a tutela de urgência cautelar será concedida quando houver elementos que evidenciem a probabilidade do direito e o risco ao resultado útil do processo e pode ser efetivada mediante arresto, sequestro, arrolamento de bens, registro de protesto contra alienação de bem e qualquer outra medida idônea para asseguração do direito.
+Tal medida é cabível se demonstrada a existência ao menos de indícios de que o devedor/executado esteja insolvente, ou na iminência de se tornar insolvente, ou de estar dilapidando seu patrimônio, mesmo porque o arresto é efetivado a fim de garantir o resultado útil do processo. No entanto, não se pode deixar de levar em consideração o “perigo de irreversibilidade da medida” (§ 3o do art. 300, CPC).
+Não há dúvidas que os agravados são devedores da agravante, referente à CPR no 27.007.2020, vencida em 15/06/2020, conforme Id. 47853493, com a obrigação de disponibilizar à agravante a quantidade de 41.760 sacas de 60 kg cada, de milho em grãos a granel (Item 8.1).
+Para o provimento cautelar, incidental ou autônomo, há pressupostos específicos para a sua concessão: o risco de ineficácia do provimento principal e a plausibilidade do direito alegado (periculum in mora e fumus boni iuris), que presentes, autorizam a concessão de tutela cautelar, para a proteção de bens ou direitos, de modo a garantir a produção de efeitos concretos ao provimento jurisdicional.
+Quanto ao fumus boni iuris, sua análise restringe-se ao mero juízo de plausibilidade do direito invocado, ou seja, não é um prognóstico de resultado favorável no processo principal, nem uma antecipação do julgamento, mas simplesmente um juízo de mera probabilidade, perspectiva essa que basta para justificar o resguardo do direito.
+E não obstante o fumus boni iuris não demande prova inequívoca das alegações formuladas e do direito invocado, torna-se imprescindível que a caracterização da plausibilidade do direito apontado legitime a medida excepcional pleiteada.
+Fixada esta premissa, nota-se que as alegações formuladas pela agravante são suficientes a autorizar a reforma da medida, ao menos é o que se extrai em juízo de cognição sumária.
+Explico.
+No caso em tela, a fumaça do bom direito é facilmente percebida pela existência da CPR (Id. 47853493), a consignar a agravante/requerente como detentora do direito real sobre o produto supostamente alienado pelos requeridos.
+No que tange ao periculum in mora, vê-se pertinência do alegado pela recorrente, já que o suposto desvio da produção serviria como forma oblíqua de extinção da garantia, em tudo prejudicando a realização do direito do crédito consignado no título emitido. E, como indício bastante do desvio de produção, servem o laudo de monitoramento e as fotografias apresentadas (Id. 47853495), consignado ainda, no referido laudo, que a colheita foi iniciada no dia 09/06/2020, portanto, ao que tudo indica, já está próxima ao final.
+Acresça-se que no presente momento, a um breve exame do que foi apresentado nas razões recursais e documentos que instruem o agravo, vislumbra-se que a autora/agravante depende do produto, objeto da lide, para gerir sua atividade econômica, sob pena de tornar-se, na pior das hipóteses, inadimplente perante instituições financeiras e no próprio comércio.
+Assim, vislumbra-se a presença dos dois pressupostos legais previstos no art. 300 do CPC. Demais disso, em tese alternativa, a agravante indicou imóvel em garantia ao crédito debatido (Id. 47853498 - fls. 05/29), o que afiança a reversibilidade da medida.
+Diante do exposto, DEFIRO a tutela vindicada, sem prejuízo do convencimento que formarei por ocasião do julgamento de mérito.
+Comunique-se o juízo de primeiro grau acerca desta decisão (art. 1.019, I, do CPC), inclusive para as providências inerentes ao cumprimento da medida, bem como quanto à efetivação dos procedimentos necessários em relação ao bem ofertado em caução.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 03 de julho de 2020.
+Desa. Antônia Siqueira Gonçalves
+Relatora
