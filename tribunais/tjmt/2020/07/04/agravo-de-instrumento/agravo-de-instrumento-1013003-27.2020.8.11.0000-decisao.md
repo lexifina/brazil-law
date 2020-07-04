@@ -1,0 +1,22 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1013003-27.2020.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por INDIANA AGRI COMÉRCIO DE EXPORTAÇÃO DE CEREAIS EIRELI em virtude da decisão proferida pelo Juízo da 3.a Vara Cível da Comarca de Primavera do Leste que, nos autos da Ação Cautelar de Arresto ajuizada por RAFAEL AUGUSTO DE CAMPOS, deferiu o pedido liminar de arresto de 288.000 kg (duzentos e oitenta e oito mil quilogramas) de soja que se encontram nos armazéns da executada INDIANA AGRI, nos municípios de Rondonópolis/MT (Armazém da Cutrale Trading, localizado na Avenida Cuiabá, 1332, centro / Armazém da ABJ Comercio Agrícola, localizado na Rodovia BR 364) e Sorriso/MT (Armazém da Indiana Agri, localizado na BR 163).
+Em suas razões recursais, a Agravante pugna pela reforma da decisão objurgada, sob o argumento de que não ficaram demonstrados os requisitos para concessão do arresto.
+Alega que o ajuizamento da Recuperação Judicial demonstra o pleno interesse da Agravante na manutenção de sua atividade empresarial e dos empregos dos trabalhadores, bem como no interesse de reestruturar suas dívidas de modo a ser hábil em pagar todos os créditos por meio de um plano de soerguimento a ser apresentado.
+Aduz que “o argumento de que o arresto seria cabível sob o simples fato de ter sido ajuizada recuperação judicial, a questão revela uma conduta contraditória, na medida em que, o fato do crédito estar listado importa em sua sujeição ao concurso de credores, de modo que em hipótese alguma poderia executar o valor em demanda autônoma – principalmente pelo fato do vencimento das obrigações ter ocorrido em data posterior, embora tenham sido pactuados antes do processo recuperacional”.
+Ressalta que o crédito do Agravado é de natureza concursal, ou seja, submetido ao concurso de credores da recuperação judicial, que deverá ser quitado nas formas e prazos a serem previstos no Plano de Recuperação Judicial.
+Forte nesses argumentos, pugna pela concessão do efeito suspensivo ao instrumental.
+Eis o relatório necessário. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois se enquadra na hipótese do artigo 1.015, inciso I, do CPC, bem como foi instruído com os documentos necessários para sua análise e conhecimento.
+Como é cediço, o artigo 1.019, inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise dos autos, não entrevejo a confluência dos requisitos para concessão do pedido liminar, isso porque, como bem consignado pelo Juiz de primeiro grau, o Autor, ora Agravado, demonstrou a probabilidade do seu direito, consubstanciado pelo título executivo representado pelo Contrato de Compra e Venda de Soja e notas fiscais, além de ter ficado demonstrado indício de dilapidação patrimonial da empresa.
+Ademais, constata-se dos autos que o pedido de recuperação judicial da Agravante foi indeferido, uma vez que o relatório de avaliação preliminar apresentou diversos apontamentos, em especial ausência de envio de toda a documentação solicitada, bem como diversos e-mails com documentos que denotam a possibilidade de ocorrência de fraude, além da inconsistência lógica não elucidada sobre a narrativa de crise empresarial.
+Do mesmo modo, não vislumbro na pretensão invocada pela Agravante o risco de dano irreparável ou de difícil reparação decorrente do indeferimento do pedido antecipatório; ao contrário, o perigo da demora milita em favor da parte Agravada, a qual busca o recebimento pela venda da quantia de 240.000 kg (duzentos e quarenta mil quilogramas) de soja.
+Dessa forma, ausentes os requisitos necessários para concessão da liminar recursal, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intime-se a parte Agravada para, querendo, apresentar resposta no prazo legal.
+Cumpra-se.
+Cuiabá, 03 de julho de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
