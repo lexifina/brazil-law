@@ -1,0 +1,24 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    O Município de Itajaí/SC assevera haver o ministro Presidente do Tribunal Superior do Trabalho, no processo nº 565-03.2016.5.12.0047, olvidado o verbete vinculante nº 10 da Súmula do Supremo, bem assim o decidido na ação declaratória de constitucionalidade nº 16/DF e, sob o ângulo da repercussão geral, no recurso extraordinário nº 760.931.
+    Segundo narra, foi condenado, de forma subsidiária, ao pagamento de créditos trabalhistas devidos a empregado de prestadora de serviços, considerada terceirização de mão de obra. Esclarece declarada, no processo objetivo, a validade do § 1º do artigo 71 da Lei nº 8.666/1993, a impedir a responsabilização direta e automática da Administração Pública. Salienta reafirmada a óptica, em sede de repercussão maior, no julgamento do aludido extraordinário, no que assentada a inadequação da imposição, ao Poder Público, de obrigação subsidiária em virtude de simples inadimplemento da contratada.
+    Articula com a violação do verbete vinculante nº 10, uma vez afastado, sem observância da cláusula de reserva de plenário, o artigo 71, § 1º, da Lei nº 8.666/1993, no que proíbe a transferência dos encargos trabalhista para o ente estatal tomador dos serviços. Eis o teor da norma:
+    Art. 71. O contratado é responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+    § 1º A inadimplência do contratado, com referência aos encargos trabalhistas, fiscais e comerciais não transfere à Administração Pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do contrato ou restringir a regularização e o uso das obras e edificações, inclusive perante o Registro de Imóveis.
+    Assevera que o inadimplemento de encargos trabalhistas dos empregados do contratado não implica transferência automática de responsabilidade ao Poder Público contratante, em caráter solidário ou subsidiário, tendo por imprescindível a comprovação da ocorrência de falha na fiscalização. Argumenta não ser do município o ônus da prova sobre a fiscalização.
+    Requer, no campo precário e efêmero, a imediata cassação do pronunciamento atacado. Busca a confirmação da providência.
+    2. No tocante à alegada violação do proclamado no recurso extraordinário nº 760.931, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela estar o cabimento da reclamação, objetivando ver reconhecida erronia quanto ao regime da repercussão geral, condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando examinado agravo interposto em face de inadmissão de extraordinário. O requisito não foi atendido, uma vez direcionada a irresignação contra ato mediante o qual apreciado agravo de instrumento em recurso de revista.
+    Da leitura da decisão verifica-se que o insucesso do agravo de instrumento em recurso de revista decorreu de vício formal, consistente na falta de destaque da parte do acórdão do Regional a evidenciar o prequestionamento. Confiram o seguinte trecho do pronunciamento atacado:
+    […]
+    No caso, a parte Recorrente deixou de atender, nas razões de recurso de revista, ao requisito do inciso I do § 1º-A do art. 896 da CLT, pois não transcreveu, naquelas razões recursais, o “trecho da decisão recorrida que consubstancia o prequestionamento da controvérsia objeto do recurso de revista”.
+    Registre-se que a transcrição integral do tópico recorrido não se presta ao cumprimento do art. 896, § 1º-A, I, da CLT. Faz-se necessário destacar, especificamente, o trecho revelador do prequestionamento da matéria objeto do recurso de revista. Do contrário, não se delimita o objeto da insurgência inserida no apelo, de forma a atrair o óbice para o trânsito do recurso de revista que se visa destrancar.
+    Por outro lado, o simples relato da parte Recorrente acerca dos fundamentos adotados pela Corte Regional no julgamento da matéria ou a menção, nas razões recursais, das folhas dos autos em que se encontra o trecho da decisão recorrida, desacompanhados da transcrição a que se refere o art. 896, § 1º-A, I, da CLT, não atendem à exigência legal em apreço.
+    […]
+    Não há a identidade material entre a decisão questionada e o alusivo à ação declaratória de constitucionalidade nº 16. No ato impugnado, inexiste discussão quanto ao tema relativo à imposição, ao ente público, de responsabilidade subsidiária por verbas trabalhistas em virtude do inadimplemento de empresa prestadora de serviços, considerada a terceirização.
+    Atentem para a excepcionalidade da medida. É inadequado utilizá-la como sucedâneo recursal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 6 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
