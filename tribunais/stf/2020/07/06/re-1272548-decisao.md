@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto por Marco Aurélio Ferreira em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 11, p. 2):
+    “ACIDENTÁRIA REVISÃO DE BENEFÍCIO ADEQUAÇÃO AOS TETOS DE CONTRIBUIÇÃO PREVISTOS PELAS EMENDAS CONSTITUCIONAIS Nº 20/98 E 41/2003 INADMISSIBILIDADE - ÍNDICES QUE ALTERARAM O LIMITE-TETO DOS SALÁRIOS-DECONTRIBUIÇÃO NÃO IMPONDO ACRÉSCIMO AOS BENEFÍCIOS EM MANUTENÇÃO DECRETO DE IMPROCEDÊNCIA MANTIDO POR FUNDAMENTO DIVERSO - ISENÇÃO DO AUTOR NOS ÔNUS DA SUCUMBÊNCIA.
+    Apelação desprovida.”
+    Os embargos de declaração foram rejeitados (eDOC 15, p. 2).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta ofensa aos arts. 5º, XXXV; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta, em síntese, que (eDOC 18, p. 9):
+    “O auxílio-doença foi selecionado administrativamente para a revisão do teto, contudo, o auxílio-acidente não foi revisto, sendo desprezado o valor excedente de R$ 76,75 correspondente à diferença entre R$ 1.011,42 (50% do salário-de-benefício do benefício de auxílio-doença antecedente) e R$ 934,67 (50% do teto da época).
+    Ocorre que, com o advento da Emenda Constitucional nº 41/2003 – frise-se, posteriormente à concessão do benefício em comento – foi ampliado o valor máximo dos benefícios previdenciários, mas essa alteração do teto da Previdência Social não ensejou a adequação da renda mensal inicial do recorrente, sendo mantido o valor que recebia anteriormente à edição daquela.”
+    Em um primeiro juízo de admissibilidade do recurso extraordinário, a Presidência da Seção de Direito Público do TJ/SP determinou a remessa dos autos à Turma Julgadora para verificação de procedência do pedido e uma possível retratação (eDOC 22).
+    A Turma Julgadora de origem, entretanto, manteve o acórdão (eDOC 24).
+    Após a não retratação, a Presidência da Seção de Direito Público do TJ/SP admitiu o recurso extraordinário (eDOC 26).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalta-se que o Plenário desta Corte, sob a sistemática da repercussão geral, concluiu não violar a Constituição Federal a aplicação imediata, aos benefícios em manutenção, dos novos tetos dos benefícios do Regime Geral de Previdência Social alterados pelas emendas constitucionais 20/98 e 41/03. Confira-se a ementa:
+    “DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. emendas constitucionais N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. 1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada. 2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional. 3. Negado provimento ao recurso extraordinário.”
+    Observa-se que o Supremo não colocou limites temporais relacionados à data de início do benefício, razão pela qual o entendimento do STF no julgamento do RE 564.354 deve ser aplicado independentemente da data de início do benefício.
+    Entretanto, verifica-se que o Tribunal de origem assim consignou (eDOC 11, p. 4):
+    “Conforme de depreende dos informes previdenciários de fls.09/15, observa-se que o auxílio-acidente que o autor recebe teve seu início em 06.11.2003, resultado da transformação do auxílio-doença recebido no período de 13.06.2003 a 05.11.2003, tratando-se, portanto, de benefício em manutenção quando da superveniência da EC 41/2003, de 19 de dezembro de 2003.”
+    Sendo assim, eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame do conjunto de fatos e provas constantes dos autos, possibilidade vedada pelo enunciado da Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 06 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
