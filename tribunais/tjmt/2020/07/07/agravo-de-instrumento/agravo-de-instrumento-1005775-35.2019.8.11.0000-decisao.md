@@ -1,0 +1,57 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial nos autos do Agravo de Instrumento 1005775-35.2019.8.11.0000
+RECORRENTE: CLOVES MARTINS DE ALMEIDA
+RECORRIDO: RODRIGO RESENDE LOBO
+Vistos, etc.
+Trata-se de Recurso Especial interposto por CLOVES MARTINS DE ALMEIDA com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela |Terceira Câmara de Direito Privado assim ementado (Id. 31169478):
+AGRAVO DE INSTRUMENTO – EXECUÇÃO DE TÍTULO JUDICIAL – SENTENÇA HOMOLOGATÓRIA DE ACORDO – INTERLOCUTÓRIA QUE DETERMINA A REINTEGRAÇÃO DE POSSE POR DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL – NÃO OCORRÊNCIA – DIREITO DE PREFERÊNCIA EXERCIDO TEMPESTIVAMENTE E CARTA DE FIANÇA BANCÁRIA OFERECIDA PARA A GARANTIA DO JUÍZO – DECISÃO REFORMADA NO PONTO – RECURSO CONHECIDO E PARCIALMENTE PROVIDO. Se houve a manifestação de interesse de preferência no prazo assinalado, bem como há justo receio de levantamento irregular de valores nos autos, além de apresentada Carta de Fiança Bancária como garantia do Juízo, impossível atribuir ao Recorrente o descumprimento do acordo homologado. Se outorgada escritura pública em favor do recorrente e este não realizar respectivo pagamento da dívida, se deve suportar a condenação em perdas e danos, a ser apurado em liquidação de sentença.
+(N.U 1005775-35.2019.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, DIRCEU DOS SANTOS, Terceira Câmara de Direito Privado, Julgado em 22/01/2020, Publicado no DJE 28/01/2020)
+Os Embargos de Declaração de Id. 32509992 foram rejeitados conforme acórdão de Id. 40854476.
+Alega violação ao artigo 11 do CPC e artigo 93, inciso IX da Constituição Federal, uma vez que faltaria fundamentação ao acórdão recorrido, alega violação aos artigos 371, 489 § 1o, inciso IV e § 3o, todos do CPC, visto que o acórdão recorrido não teria apreciado provas suficientes para o desate da questão, e as que foram apreciadas teriam sido de forma equivocada, alega violação aos artigos 481 e 515 do Código Civil, uma vez que estariam presentes os requisitos para a perda do direito de preferência do recorrido, violação aos artigos 884, 885 e 886 do Código Civil uma vez que seria devida a atualização dos valores sob pena de implicar em enriquecimento ilícito do recorrido.
+Recurso tempestivo (Id. 45039535).
+Contrarrazões sob Id. 46067470 e Id. 47899451.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da alegação de violação ao artigo 93, inciso IX da Constituição Federal. Violação da Constituição Federal. Via inadequada.
+Consoante os artigos 102, III e 105, III, ambos da Constituição Federal, é patente que a afronta a dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação dada a dispositivo de lei federal.
+Confira-se:
+“AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE USUCAPIÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS REQUERIDOS. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. REQUISITOS PARA USUCAPIÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. INVIÁVEL O EXAME DIANTE DO ÓBICE DA SÚMULA 7 DO STJ. INSURGÊNCIA RECURSAL DOS RÉUS.
+1. A ofensa ao artigo 5o, inciso XXXVI, da Constituição Federal foi aduzida em sede imprópria, cuja violação dá ensejo à interposição de recurso extraordinário para o Supremo Tribunal Federal
+(...)
+5. Agravo regimental desprovido.”
+(AgRg no AREsp 456.533/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/09/2015, DJe 25/09/2015)
+Assim, em relação à suposta violação ao artigo 93, inciso IX da Constituição Federal, o Recurso Especial constitui via inadequada para a análise da questão, o que obsta a sua admissão neste ponto.
+Da alegação de violação aos artigos 11, 371, 489 § 1o, inciso IV e § 3o, todos do CPC artigos 481 e 515 do Código Civil. Reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais, o que afasta o exame de matéria fático-probatória, conforme dispõe a sua Súmula 7.
+Assim, quanto à suposta violação aos artigos 11, 371, 489 § 1o, inciso IV e § 3o, todos do CPC, em que se pretende elucidar se o acórdão recorrido não teria apreciado provas suficientes para o desate da questão, e as que foram apreciada teriam sido de forma equivocada, é necessário o exame de fatos e provas, o que atrai, consequentemente, o óbice sumular acima mencionado, conforme preconiza o STJ:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REQUISITOS DE ADMISSIBILIDADE. AUSÊNCIA. 1. Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente a conclusão do acórdão embargado. 2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ). 3. Hipótese em que, atentando-se para o delineamento fático contido no acórdão recorrido, verificar se a decisão proferida em ação ordinária teria impacto sobre os créditos em cobrança é providência inadequada em recurso especial, consoante enuncia a Súmula 7 do STJ, óbice que também impede o conhecimento do recurso quanto à tese de violação dos arts. 138, 151 e 161 do CTN e dos arts. 10, XI, "c", e 15 da Lei n. 10.833/2003, e do art. 109 da Lei n. 11.196/2005. 4. Agravo interno não provido. (AgInt no REsp 1517875/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/05/2020, DJe 22/06/2020)
+Igual entendimento é aplicado à alegada afronta artigos 481 e 515 do Código Civil, cuja controvérsia se refere a estarem presentes os requisitos para a perda de do direito de preferência do recorrido, pois também é imprescindível o reexame das provas produzidas nos autos. Confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 535 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos. 2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282/STF). 3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. 4. No caso concreto, o Tribunal de origem entendeu que não houve comprovação de que o direito de preferência do agravante foi preterido. Concluiu ainda que não ficou comprovado o direito ao recebimento de perdas e danos, lucros cessantes, ou à repetição do indébito. Alterar esse entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial. 5. Agravo regimental a que se nega provimento. (AgRg no AREsp 401.206/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/09/2014, DJe 08/09/2014)
+Dessa forma, sendo insuscetível de revisão os entendimentos do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Da alegação de violação aos artigos 884, 885 e 886 do Código Civil. Inovação recursal
+Com o objetivo de evitar a supressão de Instância, Nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282 do STF.
+Consigne-se, ainda, que na hipótese de questão não decidida no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos Embargos de Declaração com a indicação precisa do ponto a ser examinado, em aplicação da Súmula 356/STF.
+No entanto, caso a tese não tenha sido alegada nas razões do recurso de Agravo de Instrumento, não se afigura possível a sua alegação somente nas razões dos Embargos de Declaração, por se tratar de inovação recursal.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. BEM DE FAMÍLIA. INDENIZAÇÃO. ATO ILÍCITO. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO DO RECURSO POR AMBAS AS ALÍNEAS AUTORIZADORAS. SÚMULAS 211/STJ, 282 E 356/STF. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE.
+AGRAVO NÃO PROVIDO. 1. A alegação de que a impenhorabilidade prevista na Lei 8.009/90 não é oponível ao credor de indenização por ato ilícito foi suscitada apenas em sede de embargos de declaração, razão pela qual não foi analisada pela Corte Estadual, por se tratar de indevida inovação recursal. Portanto, carece de prequestionamento, nos termos das Súmulas 211/STJ, 282 e 356/STF.
+2. É inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado. 3. ‘A falta de prequestionamento inviabiliza o recurso especial também pela alínea 'c' do permissivo constitucional, diante da impossibilidade de configuração do dissídio jurisprudencial, por não haver como ser feita a demonstração da similitude das circunstâncias fáticas em relação ao direito aplicado’ (AgRg nos EDcl no AREsp 174.853/RJ, Rel. Ministro SIDNEI BENETI, Terceira Turma, julgado em 28/5/2013, DJe de 14/6/2013).
+4. A jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame de questão não debatida na origem, ainda que se trate de matéria de ordem pública.
+5. Agravo interno a que se nega provimento”. (AgInt no AREsp 1317107/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018).
+Dessa forma, verifica-se que a controvérsia firmada nos autos a partir de suposta ofensa aos artigos 884, 885 e 886 do Código Civil, em que que se discute quanto à atualização dos valores sob pena de implicar em enriquecimento ilícito do recorrido, não foi decida pelo aresto recorrido, e por ter sido suscitada somente nas razões dos Embargos de Declaração, caracteriza inovação recursal e, portanto, carece de prequestionamento, nos termos das Súmulas 211/STJ, 282 e 356/STF.
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Intimem-se.
+Cumpra-se.
+Cuiabá/MT, 06 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça
+XIV
