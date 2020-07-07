@@ -1,0 +1,19 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (HC 556.858/SP), assim ementado (eDOC 3, p. 327):
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. FURTO QUALIFICADO E ESTELIONATO. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AÇÃO PENAL TRANSITADA EM JULGADO. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ÂMBITO DO STJ. INADMISSIBILIDADE. REGIME PRISIONAL MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. POSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+    1. O Regimento Interno deste Superior Tribunal prevê, expressamente, em seu art. 258, que trata do Agravo Regimental em Matéria Penal, que o feito será apresentado em mesa, dispensando, assim, prévia inclusão em pauta. A disposição está em harmonia com a previsão de que o agravo não prevê a possibilidade de sustentação oral (EDcl no AgRg nos EREsp n. 1.533.480/RR, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 31/5/2017)
+    2. Incabível a utilização do habeas corpus como sucedâneo de revisão criminal. Precedente.
+    3. A presença de circunstância judicial desfavorável e o quantum da pena superior a 4 anos justificam a fixação do regime inicial fechado, nos termos do art. 33 c/c o art. 59, ambos do Código Penal (AgRg no HC n. 525.512/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/9/2019).
+    4. Agravo regimental improvido.
+    Narra o impetrante que: a) deve ser reconhecida a nulidade da sessão virtual que julgou o agravo regimental no HC 556.858/SP, tendo em vista que o então agravante foi impedido de patrocinar sua defesa oral; b) o paciente foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática de furtos majorados e estelionatos, em coautoria; c) a sentença condenatória transitou em julgado; d) o regime inicial fixado para o cumprimento de pena deveria ter sido o semiaberto; e) deve ser reconhecida a extinção da punibilidade pela prescrição; f) houve violação ao princípio da individualização da pena, uma vez que à época da sentença todas as circunstâncias judiciais eram favoráveis; g) o paciente fará jus à progressão de regime em 6.10.2020; h) a pandemia da Covid-19 demanda a adoção de medidas imediatas e extremas para minimizar a transmissão da doença.
+    À vista do exposto, requer, alternativamente: a) a nulidade da sentença condenatória; b) a alteração do regime inicial de cumprimento para o semiaberto; c) seja reconhecida a extinção da punibilidade, com a consequente expedição do alvará de soltura.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Solicitem-se informações ao Superior Tribunal de Justiça. Com as informações, abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 7 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
