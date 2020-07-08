@@ -1,0 +1,43 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial interposto na Apelação Cível n. 0003994-42.2018.811.0028 - PJE
+Recorrente: BENEDITO RENATO ALVES RIBEIRO
+Recorrido: DÁCIO FREDERICO GAÍVA e HILTON NEY GAÍVA
+Vistos, etc.
+Trata-se de Recurso Especial interposto por BENEDITO RENATO ALVES RIBEIRO, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Terceira Câmara de Direito Privado, assim ementado (ID. 32062990):
+“APELAÇÃO CÍVEL - EXECUÇÃO PARA ENTREGA DE COISA INCERTA - ARRENDAMENTO PECUÁRIO - PRESCRIÇÃO TRIENAL – OCORRÊNCIA - RECURSO DESPROVIDO.
+Por se tratar de dívida decorrente do contrato de parceria pecuária, cujo quantitativo há de ser feita por meio de arbitramento, não há que se falar em liquidez e certeza de dívida que possa dar ensejo à aplicação do artigo 206, § 5o, I do CC. (TJMT – Apelação Civil no 0003994-42.2018.811.0028, DES. JOSE ZUQUIM NOGUEIRA, TERCEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 29/01/2020). ”
+Opostos Embargos de Declaração, decidiu-se, in verbis (ID. 37027482):
+“EMBARGOS DE DECLARAÇÃO - APELAÇÃO CÍVEL – AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA INCERTA - MAJORAÇÃO DA VERBA HONORÁRIA RECURSAL – OMISSÃO CONFIGURADA – INCIDÊNCIA DO ART. 85, §11o DO CPC – PRESCRIÇÃO – OCORRÊNCIA – REDISCUSSÃO – PRIMEIRO EMBARGOS DECLARATÓRIOS ACOLHIDOS E SEGUNDO EMBARGOS REJEITADOS.
+O objetivo dos embargos de declaração é revelar o sentido da decisão, tendo como pressupostos de admissibilidade a ocorrência de erro material, obscuridade, contradição, ou, ainda, omissão sobre questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício pelo julgador, preservando-se, em qualquer caso, a substância do julgado (art. 1022 do CPC).
+Considerando o trabalho adicional do advogado, quando deve atuar em outro grau recursal, deve ser majorado seus honorários, nos termos do que estabelece o artigo 85, §11 do CPC.
+Não se admite, em sede de embargos de declaração, rediscussão da matéria apreciada de forma fundamentada, tal como ocorreu quanto à ocorrência da prescrição. (TJMT – Embargos de Declaração no 0003994-42.2018.811.0028, DES. JOSE ZUQUIM NOGUEIRA, Terceira Câmara de Direito Privado, Julgado em 11/03/2020) ”.
+O Recorrente alega violação aos artigos 132, 206 §3o, inciso II e 206 §5o, inciso I, todos do Código Civil, ao não considerar o prazo de 05 anos para exercício da cobrança e, principalmente, por desconsiderar que não estivesse diante de uma hipótese de cobrança de dívida líquida constante de instrumento público e particular, além de divergência jurisprudencial.
+Recurso tempestivo (ID. 43706043).
+Os Recorridos ofertaram contrarrazões (ID. 47109971 e 47298484), pugnando pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ. Súmula 83 do STJ.
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+Em relação a contrariedade aos artigos 132, 206 §3o, inciso II e 206 §5o, inciso I, todos do Código Civil, a parte Recorrente sustenta que o contrato de arrendamento firmado entre as partes se trata de dívida líquida, via de consequência, aplica-se a prescrição quinquenal no caso concreto, de modo que suplica pela reforma do acordão guerreado que entendeu ser trienal a prescrição discutida nos autos, motivo este que ensejou o desprovimento do Recurso de Apelação, por considerar prescrita a pretensão almejada.
+No acórdão impugnado ficou consignado que:
+“Desta forma, como as supostas rendas a serem devolvidas decorrentes do contrato de parceria pecuária, cujo quantitativo há de ser feita por meio de arbitramento, não há que se falar em liquidez e certeza de dívida que pudesse dar ensejo à aplicação do artigo 206, § 5o, I do CC.
+Com efeito, o Decreto n. 59.566, de 14.11.66 que regulamenta a parceria pecuária, não traz nenhum dispositivo específico acerca da prescrição da pretensão de cobrança de rendas, de modo que incide ao presente caso o artigo 206, § 3o, II do CC: “Art. 206. Em três anos: II - a pretensão para receber prestações vencidas de rendas temporárias ou vitalícias.”
+Assim, considerando o termo inicial a data do adimplemento da última prestação, estaria prescrita a pretensão do exequente/apelante, uma vez que o prazo prescricional escoou-se no ano de janeiro de 2018, a ação foi proposta em agosto de 2018.
+Colaciono o seguinte julgado do Superior Tribunal de Justiça, sobre o assunto, in verbis:
+“RECURSO ESPECIAL. AÇÃO DE COBRANÇA DECORRENTE DE CONTRATO DE "ARRENDAMENTO" DE TOUROS PARA FINS DE REPRODUÇÃO. CONTRAPRESTAÇÃO CONSISTENTE EM DAÇÃO ANUAL DE BEZERROS E RESTITUIÇÃO DOS TOUROS AO FINAL DE CINCO ANOS. PRETENSÃO DE RECEBIMENTO DE PRESTAÇÕES VENCIDAS. PRAZO PRESCRICIONAL QUINQUENAL. 1. O Código Civil revogado estabelecia, como regra geral, o prazo prescricional vintenário para o exercício de pretensões de caráter pessoal não especificadas. Por outro lado, estipulava lapso diferenciado para as pretensões relativas a prestações de rendas temporárias ou vitalícias: cinco anos contados do dia em que cada prestação passasse a ser exigível. 2. O Codex de 2002, por sua vez, reduziu o prazo prescricional ordinário para 10 (dez) anos, bem como alterou de 5 (cinco) para 3 (três) anos o prazo referente às prestações vencidas de rendas temporárias ou vitalícias, as quais dizem respeito à figura do contrato de constituição de renda. 3. Tal contratação se caracteriza pela entrega de certo capital a alguém, consubstanciado em dinheiro, bem móvel ou imóvel, o qual deverá produzir renda a ser, em parte, transferida, periodicamente, ao titular do capital. 4. Desse modo, a pretensão voltada ao recebimento anual de bezerros (em razão do "arrendamento" de touros reprodutores) traduz o intuito de recebimento de prestações de rendas temporárias, vencidas, no caso, entre 1997 e 1999, motivo pelo qual aplicável a regra prescricional quinquenal disposta no inciso II do § 10 do artigo 178 do Código Civil de 1916 e não a prescrição vintenária subsidiária prevista no artigo 177 do mesmo Codex. Em relação à prestação vencida em 30.11.2000, à luz da regra de transição, não ultrapassado mais de metade de prazo prescricional revogado quando da entrada em vigor do novo código, o prazo trienal (artigo 206, § 3o, II, do Código Civil de 2002) passou a incidir a partir de então, tendo sido consumada a prescrição em 12.01.2006. 5. A insurgência fundada no alegado descumprimento da obrigação da autora (notadamente, a entrega de quinze touros nelore) encontra-se obstada pela incidência da Súmula 7/STJ. Isso porque, consoante exarado nas instâncias ordinárias, o réu não logrou comprovar o referido descumprimento por parte da sociedade autora. 6. A Súmula 283/STF inviabiliza o conhecimento da aduzida ilegalidade da cláusula penal avençada, por não ter o recorrente impugnado o fundamento, esposado no acórdão recorrido, no sentido de que o valor do cálculo total da multa somente supera o valor da obrigação principal por culpa da recalcitrância do devedor quanto ao seu cumprimento. 7. Recurso especial parcialmente provido.” (STJ - REsp: 1463677 MS 2014/0155334-8, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 03/08/2017, T4 - QUARTA TURMA, Data de Publicação: DJe 04/09/2017) (destaquei)”
+Assim sendo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 132, 206 §3o, inciso II e 206 §5o, inciso I, todos do Código Civil, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com as orientações sedimentadas no STJ.
+Por fim, consigne-se que, embora a Súmula n. 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”, conforme disposto no Enunciado no 16 da Reunião dos Vice-Presidentes de Tribunais de Justiça do Brasil:
+“Enunciado no 16 - É aplicável a Súmula 83 do STJ ao recurso especial interposto com fundamento na alínea ‘a’ do inciso III do art. 105 da Constituição Federal”.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 06 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVII
