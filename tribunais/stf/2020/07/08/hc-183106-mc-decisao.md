@@ -1,0 +1,18 @@
+DECISÃO
+JÚRI – SUSPENSÃO – RELEVÂNCIA – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara da Comarca de Piancó/PB, no processo nº 026.2003.010.976-8, pronunciou o paciente ante a suposta prática do delito previsto no artigo 121, § 2º, incisos I e IV (homicídio qualificado pela torpeza e recurso que tornou impossível a defesa), do Código Penal. Ressaltou demonstrados materialidade e indícios de autoria, aludindo a laudo necroscópico e a depoimentos de testemunhas.
+    A Câmara Criminal do Tribunal de Justiça desproveu recurso em sentido estrito, consignando existir acervo probatório coerente, a tornar idônea a imputação nos termos em que implementada. Realçou o teor das declarações prestadas, na fase judicial, pelas testemunhas Júlia Alves Queiroz, Antônio Souza Lacerda, Francisco Nunes da Silva e Rosa Helena da Silva. Salientou tratar-se de fase processual na qual eventual dúvida milita em favor da sociedade. Concluiu presentes os requisitos do artigo 413 do Código de Processo Penal. Com a protocolação de embargos declaratórios, por duas vezes, não se obteve êxito. Recursos especial e extraordinário tiveram a sequência negada.
+     Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 465.298/PB. A Sexta Turma indeferiu a ordem. Ao afastar tese relativa à nulidade do julgamento dos embargos de declaração formalizados, assentou não ter havido participação do Desembargador que se declarou suspeito, mencionando o conteúdo das certidões de julgamento respectivas.
+    O impetrante sustenta a inobservância do artigo 155 do Código de Processo Penal, alegando estar a pronúncia lastreada, tão somente, em elementos obtidos em sede policial. Aponta nulidade do julgamento dos embargos declaratórios no Tribunal de Justiça, considerada a participação do desembargador Márcio Murilo Cunha Ramos, que havia se declarado suspeito, conforme afirmam, quando da apreciação do recurso em sentido estrito. Sublinha o disposto nos artigos 101, 103 e 564, inciso I, do diploma processual penal.
+    Requer, no campo precário e efêmero, a suspensão do processo-crime, até a análise definitiva desta impetração. No mérito, busca seja declarada a nulidade da pronúncia e, sucessivamente, do julgamento dos embargos de declaração.
+    2. A suspensão de processo-crime é excepcional, sendo indispensável demonstração de ilegalidade manifesta.
+     Na pronúncia, o Juízo concluiu demonstrados indícios de autoria suficientes a autorizarem a atuação do Conselho de Sentença, aludindo a depoimentos coletados na fase policial, os quais foram renovados em Juízo. Ao apreciar o recurso em sentido estrito, o Tribunal de Justiça veio a chancelar tal entendimento, realçando o declarado, na fase judicial, pelas testemunhas Júlia Alves Queiroz, Antônio Souza Lacerda, Francisco Nunes da Silva e Rosa Helena da Silva. O quadro revela haver-se valorado todo o acervo probatório, não apenas os elementos informativos obtidos durante as investigações.
+    Conforme consta das certidões de julgamento dos recursos formalizados no Tribunal de Justiça, o Desembargador Márcio Murilo Cunha Ramos – que não integrou o Colegiado julgador do recurso em sentido – declarou-se suspeito por ocasião do julgamento dos primeiros embargos declaração, não tendo participado da Sessão na qual apreciados nem da referente aos segundos declaratórios.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 8 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
