@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    A Presidência do Supremo Tribunal Federal determinou a devolução destes autos à Corte de origem para aplicação da sistemática da repercussão geral (Recurso Extraordinário n. 592.730, Tema n. 134): ausência de repercussão geral .
+    Os autos retornaram a esta Corte Suprema após o Tribunal de origem fazer distinção entre a questão tratada no caso concreto e a matéria objeto do paradigma da repercussão geral indicado no despacho de devolução.
+    Examinados os autos, decido.
+    Anoto que, submetido o recurso paradigma ao Plenário Virtual, o Supremo Tribunal pode: a) recusá-lo por ausência de repercussão geral e devolver os demais recursos aos Tribunais de origem, que a eles deverão negar seguimento (art. 1.030, inc. I, al. a, do Código de Processo Civil); b) reconhecer a existência da repercussão geral e devolver os demais recursos aos Tribunais de origem, para serem sobrestados e aguardarem o julgamento de mérito pelo Supremo Tribunal Federal (art. 1.030, inc. III, do Código de Processo Civil); ou c) reconhecer a repercussão geral e julgar o mérito do recurso, devolvendo os demais recursos aos Tribunais de origem, que a eles negarão seguimento ou exercerão juízo de retratação, conforme o caso (art. 1.030, incs. I, al. a, e II, do Código de Processo Civil).
+    As possibilidades descritas compõem a sistemática da repercussão geral.
+    Nessa linha, considerada a ausência de conteúdo decisório no despacho de devolução dos autos à origem, não há vinculação quanto ao tema indicado, conforme já decidiu a Ministra Cármen Lúcia, ao proferir decisão quando no exercício da Presidência do Supremo Tribunal Federal,:
+    “4. O despacho de devolução dos autos à origem para observância da sistemática da repercussão geral não tem conteúdo decisório, ficando o órgão julgador autorizado a realizar a adequação pertinente. Confiram-se, por exemplo, os seguintes julgados:
+    (…)
+    “Agravo regimental em ação rescisória. Não conhecimento da ação. Ausência de coisa julgada e de análise de mérito na decisão rescindenda. Agravo não provido. 1. É inviável admitirse o processamento de ação rescisória enquanto não encerrada a lide primordial, com o julgamento de todos os recursos e incidentes processuais neles inclusos. 2. Para o conhecimento de ação rescisória no Supremo Tribunal, é imprescindível que a decisão rescindenda tenha versado sobre o mérito da divergência, nos termos do art. 485 do Código de Processo Civil. Inteligência da Súmula STF nº 249. O despacho monocrático com que se determina a devolução dos autos à Corte de origem para aplicação da sistemática da repercussão geral não possui conteúdo decisório e, portanto, não se sujeita à rescisão. 3. Agravo não provido” (AR n. 2.276-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 21.11.2014).
+    5. Reconhecendo equívoco na indicação do tema pelo despacho de devolução, o Tribunal a quo deve analisar a possibilidade de identificação do caso apresentado nos autos com outro tema da repercussão geral” (ARE nº 1.037.709/DF, DJe de 13/9/17).
+    Sob essa ótica, tem-se que a verificação da ocorrência de identidade material entre a questão devolvida no recurso extraordinário com agravo e outra à qual o Supremo Tribunal Federal já tenha analisado pelo procedimento da repercussão geral, cabe, precipuamente, ao juízo de origem. A mesma verificação pode ser feita quando da devolução dos autos à origem por este Supremo Tribunal com indicação de tema da repercussão geral.
+    Na espécie vertente tem-se equívoco na indicação do paradigma da repercussão geral, cuidando-se da controvérsia descrita no Recurso Extraordinário com Agravo nº 1.217.850, Tema nº 1.064: ausência de repercussão geral.
+    Pelo exposto, mantenho a devolução destes autos ao Tribunal de origem (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal), para, agora sob o Tema nº 1.064 da repercussão geral, observar os procedimentos previstos no inc. I do art. 1.030 do Código de Processo Civil .
+    Publique-se.
+    Brasília, 9 de julho de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
