@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL NA REVISÃO CRIMINAL N. 1001183-45.2019.8.11.0000
+RECORRENTE: VALQUÍRIA DE FÁTIMA CASTELHANO
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 47959581) interposto por VALQUÍRIA DE FÁTIMA CASTELHANO, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão da Turma de Câmaras Criminais Reunidas deste Sodalício, assim ementado (Id. 18260028):
+“REVISÃO CRIMINAL – ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS – SENTENÇA CONDENATÓRIA CONFIRMADA EM SEGUNDA INSTÂNCIA – SUPOSTA NULIDADE PROCESSUAL ABSOLUTA – AVENTADA AUSÊNCIA DE INTIMAÇÃO DA REQUERENTE PARA CONSTITUIÇÃO DE NOVO PATRONO AO TEMPO DA RENÚNCIA DO ADVOGADO ENTÃO CONSTITUÍDO – INOCORRÊNCIA – CIÊNCIA INEQUÍVOCA DA REQUERENTE DA RENÚNCIA DO PATRONO E DA POSSIBILIDADE DE SE CONSTITUIR NOVO CAUSÍDICO – INÉRCIA CONSTATADA – REMESSA DOS AUTOS À DEFENSORIA PÚBLICA – AUSÊNCIA DE PREJUÍZO – ALEGADA DEFICIÊNCIA DA DEFESA TÉCNICA – TESE A DIZER COM NULIDADE RELATIVA – ANÁLISE INCOMPATÍVEL COM A AÇÃO REVISIONAL – REVISIONAL IMPROCEDENTE. 1. Embora factível o ajuizamento de revisão criminal na hipótese de nulidade (absoluta) do processo, não se verifica situação apta a justificar a medida extrema de desconstituição da coisa julgada quando, demonstrada a inequívoca ciência acerca da renúncia do advogado então constituído e da possibilidade de nomeação de novo patrono, a requerente permanece inerte, de modo a ensejar a remessa dos autos à Defensoria Pública, a fim de assegurar-lhe as garantias constitucionais do contraditório e da ampla defesa. 2. Em sede de revisão criminal, revela-se imprópria a análise de tese relativa à suposta nulidade relativa, sobretudo se amparada em meras suposições, inábeis, por óbvio, ao juízo de cassação.” (RevCrim.. 1001183-45.2019.8.11.0000, DRA.. GLENDA MOREIRA BORGES, TURMA DE CÂMARAS CRIMINAIS REUNIDAS, Julgado em 03/10/2019)
+Os Embargos de Declaração de Id. 19959484 opostos contra o aresto foram rejeitados (Id. 27311499).
+Alega violação aos arts. 357, 370 e 564, IV, todos do CPP, além de divergência jurisprudencial, ao argumento de que o órgão fracionário deduziu que a Recorrente foi intimada pelo oficial de justiça.
+Recurso tempestivo (Id. 48465460).
+Contrarrazões – Id. 48589492.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ E 284 DO STF. DECISÃO MANTIDA. (...) 2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF. (...) 5. Agravo regimental não provido.” (AgRg no AREsp 828.593/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2016, DJe 18/04/2016) (destaquei)
+“PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NA QUESITAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INCIDÊNCIA DA AGRAVANTE POR TER SIDO O CRIME PRATICADO CONTRA CRIANÇA E DA QUALIFICADORA DA UTILIZAÇÃO DE RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DA VÍTIMA. AUSÊNCIA DE BIS IN IDEM. 1. Se, nas razões do recurso especial, a parte recorrente não infirma os fundamentos do acórdão recorrido, tem aplicação, por analogia, o Enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes. 2. Enquanto a agravante prevista art. 61, II, "h", do Código Penal é objetiva e incide em razão de ter sido praticado o crime contra criança, a qualificadora de que cuida o artigo 121, IV, do Código Penal envolve considerações específicas do caso concreto, para verificação acerca da presença de recurso que dificulte ou torne impossível a defesa da vítima, não havendo falar em bis in idem. 3. Agravo regimental improvido.” (AgRg no REsp 1634727/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017) (destaquei)
+In casu, verifica-se que a turma julgadora rejeitou a alegação de nulidade absoluta do processo por ausência de intimação para que constituísse novo patrono ao tempo da renúncia do advogado então constituído, sob os fundamentos: (i) o conjunto fático-probatório dos autos demonstra a ciência inequívoca da Recorrente acerca da faculdade de constituir novo defensor; (ii) não houve qualquer alegação de nulidade por parte da Defensoria Pública ou do defensor constituído, a qual somente foi aventada na seara revisional e (iii) não houve qualquer prejuízo concreto em desfavor da Recorrente, dado o pronto oferecimento das alegações finais pela Defensoria Pública em seu favor, que guardaram correlação com o recurso de Apelação posteriormente interposto pelo defensor constituído.
+Todavia, ao alegar violação aos arts. 357, 370 e 564, IV, todos do CPP, além de divergência jurisprudencial, limitou-se a Recorrente a afirmar que houve mera dedução do órgão fracionário acerca de sua efetiva intimação, não infirmando especificamente os fundamentos do aresto para rejeição da tese suscitada, o que atrai o óbice do enunciado sumular acima indicado.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá, 08 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
