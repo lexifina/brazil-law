@@ -1,0 +1,33 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE EMBARGOS DE DECLARAÇÃO (interpostos nos autos de Recurso de Apelação Cível no 1001660-13.2017.8.11.0041– CLASSE 198 –CAPITAL
+Embargante : PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+Embargado : ADEMILSON DIAS MIRANDA
+Número do Protocolo : 1001660-13.2017.8.11.0041
+Recurso de EMBARGOS DE DECLARAÇÃO interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS contra a r. decisão proferida nos autos do Recurso de Apelação no 1001660-13.2017.8.11.0041, que proveu parcialmente o recurso interposto por ADEMILSON DIAS MIRANDA, apenas para fixar os honorários advocatícios em R$ 1.000,00, e redistribuir o ônus sucumbencial na proporção de 70% para a Seguradora/embargante e 30% para o embargado (cf. Id 46336454).
+A embargante reedita as razões deduzidas por ela quando da interposição do Recurso de Apelação no 1001660-13.2017.8.11.0041, alegando que a r. decisão é contraditória, pois, ao fixar o valor dos honorários advocatícios afrontou o diploma do art. 85, § 2°, do CPC, assim, pede pois, que sejam acolhidos os embargos para que, sanando o vício apontado, arbitrar os honorários advocatícios em 10% sobre o valor da condenação (cf. Id no 47347491).
+Nas contrarrazões de Id. no 48777955, o embargado refuta os argumentos recursais e torce pela rejeição dos embargos de declaração, requerendo ainda, que seja atribuída a embargante multa por litigância de má fé.
+É o relatório.
+D E C I D O
+No pronunciamento do eg. STJ, os “embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.” (Segunda Seção - EDcl no AgInt nos EAREsp 969978/MS Embargos de Declaração no Agravo Interno nos Embargos de Divergência em Agravo em Recurso Especial 2016/0220161-6 – Ministra NANCY ANDRIGHI – Julgado em 13.12.2017 – DJe do dia 15.12.2017).
+No caso, a decisão não padece do vício da contradição; leitura as razões recursais mostra que a interposição do presente recurso tem intuito único de rediscutir os fatos e os fundamentos, merecendo registro o fato de que a decisão monocrática analisou a integralidade do conjunto probatório, as peculiaridades do caso concreto e as teses defendidas no recurso, concluindo pelo provimento parcial do RAC no 1001660-13.2017.8.11.0041 apenas para estabelecer a sucumbência recíproca entre os litigantes e fixar os honorários advocatícios em R$ 1.000,00 (cf. Id. no 46336454).
+A decisão embargada foi proferida sob os seguintes fundamentos:
+“Quanto ao reconhecimento da sucumbência recíproca, as custas processuais e os honorários advocatícios devem ser estipulados proporcionalmente ao “quantum” dos interesses das partes que restaram atendidos na decisão.
+Sobre o tema, ensinam Nelson Nery Junior e Rosa Maria de Andrade Nery:
+“1. Sucumbência recíproca. Há sucumbência recíproca quando uma das partes não obteve tudo o que o processo poderia lhe proporcionar. Se o autor pediu 100 e obteve 80, sucumbiu em 20, ao mesmo tempo em que o réu sucumbiu em 80. quando a parte sucumbiu em parte mínima do pedido, não se caracteriza a sucumbência recíproca. A sucumbência recíproca autoriza a interposição de recurso pela via adesiva. [...]. 3. Distribuição proporcional. As despesas processuais e os honorários de advogados deverão ser rateados entre as partes, na medida de sua parte na derrota, isto é, de forma proporcional” (Código de processo civil comentado, 11a ed., São Paulo: RT, 2010, p. 247).
+O art. 86, caput, do CPC, prevê que, “se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas”.
+No caso, a condenação em valor inferior àquele objeto da ação configura sucumbência recíproca e, consequentemente, conduz à repartição proporcional das despesas processuais, custas e honorários advocatícios, exceto no caso de indenização por dano moral, nos termos da Súmula 326/STJ.
+No que concerne aos honorários advocatícios, o valor dos honorários advocatícios deve ser atingido a partir do concurso de algumas variáveis em atenção à regra do art. 85, §2o, do CPC, quais sejam, o grau de zelo profissional, o lugar de prestação do serviço, o tempo exigido para o serviço, a singularidade da matéria e o trabalho realizado, daí resultando valor definido segundo apreciação equitativa do julgador.
+No presente caso, tendo em vista a condenação irrisória no valor de R$ 661,50, aplica-se o disposto no artigo 85, §8o, do CPC, que estabelece que, “nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do §2o”.
+Nesse sentido:
+(...)
+O c. STJ decidiu que o juiz deve agir com moderação e razoabilidade ao atender à qualidade e à quantidade do trabalho, bem como o proveito da parte, a fim de não onerar o vencido em demasia nem desqualificar o trabalho do advogado (STJ AgRg no REsp 1.194.995/SP).
+Assim, considerando que a ação de cobrança de seguro obrigatório DPVAT não envolveu matéria de grande complexidade, não exigindo, pois, atuação excepcional do causídico, mas que, por outro lado, houve a atuação diligente e satisfatória do advogado, sendo este responsável pela elaboração da peça inicial e demais manifestações que permitiram o devido prosseguimento regular do feito, pelo que fixo os honorários advocatícios em R$ 1.000,00 (mil reais).
+Isto posto, dou parcial provimento ao recurso apenas para fixar os honorários advocatícios em R$ 1.000,00 (mil reais), e redistribuir o ônus sucumbencial na proporção de 70% para a Seguradora/apelada e 30% para o apelante, devendo ser observado o que dispõe o art. 98, §3o, do CPC em relação ao autor/apelante.”
+Constata-se, portanto, que a decisão não padece do vício alegado, mas apenas decidiu contrariamente à tese defendida pela embargante, sendo incabível a interposição de embargos de declaração apenas para expressar o inconformismo da parte embargante contra a decisão que lhe foi desfavorável, porque, em tais casos, o que se faz é simples rediscussão da matéria recursal.
+É por estas fortes e sólidas razões já consignadas na decisão monocrática que o enfoque nela consagrado permanece inalterado, pelo que rejeito os presentes embargos.
+Custas pela embargante.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 09 de julho de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
