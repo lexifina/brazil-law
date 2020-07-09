@@ -1,0 +1,35 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE EMBARGOS DE DECLARAÇÃO interpostos nos autos do Recurso de Apelação Cível no 1038752-54.2019.8.11.0041– CLASSE 198– CNJ – CAPITAL
+Embargante : PAULA LEAL GOMES DE OLIVEIRA
+Embargada : PORTO SEGURO CIA DE SEGUROS GERAIS S.A.
+Recurso de EMBARGOS DE DECLARAÇÃO interposto por PAULA LEAL GOMES DE OLIVEIRA contra a r. decisão proferida nos autos do Recurso de Apelação no 1038752-54.2019.8.11.0041, que negou provimento ao recurso, mantendo inalterada a r. sentença que, nos autos da nos autos da ação de “Cobrança de Seguro Obrigatório” (Número Único 1038752-54.2019.8.11.0041– 4a Vara Cível da Capital),julgou o pedido parcialmente procedente para condenar a Seguradora/embargada ao pagamento de R$ 1.012,50 a título de seguro obrigatório, acrescido dos encargos legais, em razão da invalidez permanente do autora/embargante, vítima de acidente de trânsito e estabeleceu a sucumbência recíproca entre os litigantes e fixou honorários advocatícios em R$ 700,00 (cf. Id no 46564495).
+A embargante alega que a decisão foi omissa ao deixar de analisar o pedido relacionado à impossibilidade de compensação dos honorários, nos termos do artigo 85,§14, do CPC/2015.
+Pede, pois, sejam acolhidos os embargos, para suprir a omissão apontada e que seja afastada a compensação de honorários advocatícios, de modo que cada litigante arque com os honorários do advogado por ele constituído (cf. ID no 47517959).
+Nas contrarrazões de Id. no 48717453 a embargada refuta os argumentos recursais e pugna pela rejeição do recurso.
+É o relatório.
+D E C I D O
+No pronunciamento do eg. STJ, os “embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.” (Segunda Seção - EDcl no AgInt nos EAREsp 969978/MS Embargos de Declaração no Agravo Interno nos Embargos de Divergência em Agravo em Recurso Especial 2016/0220161-6 – Ministra NANCY ANDRIGHI – Julgado em 13.12.2017 – DJe do dia 15.12.2017).
+No caso, não há omissão; leitura as razões recursais mostra que a interposição do presente recurso tem intuito único de rediscutir os fatos e os fundamentos, merecendo registro o fato de que a decisão monocrática analisou a integralidade do conjunto probatório, as peculiaridades do caso concreto e as teses defendidas lado a lado no recurso, concluindo pelo desprovimento do RAC no 1038752-54.2019.8.11.0041; registre-se que há expressa vedação legal quanto à compensação dos honorários advocatícios, nos termos do art. 85, §14, do CPC, daí porque desnecessário a decisão dispor nesse sentido.
+A decisão embargada foi proferida sob os seguintes fundamentos:
+“Sem delongas, em relação ao alegado dano moral supostamente sofrido pelo autor, por ter a seguradora se recusado a receber o requerimento administrativo, entendo que tal pretensão não merece guarida.
+Isso porque o tema submetido à apreciação diz respeito ao sofrimento da alma, à dor, ao constrangimento, à humilhação, que decorrem de atos lesivos praticados contra a própria pessoa e seus familiares. Constitui ofensa ao decoro, aos bons costumes, à honra, à liberdade da pessoa ou de sua família. Enfim, atinge a personalidade.
+A comprovação de sua ocorrência, evidentemente, vai depender da verificação de cada caso concreto, observando-se que, no caso em exame, não se trata de uma situação em que o dano moral se encontra caracterizado in reipsa, havendo necessidade de efetiva demonstração.
+O argumento trazido pelo recorrente consubstanciado no fato de que a recusa perpetrada pela Seguradora/apelada lhe causou dificuldades para o recebimento do seguro e afronta o disposto nos art. 5o, §2o, da Lei no 6.194/74 e aos arts. 32 e 33, caput, ambos da Resolução CNSP no 332/2015, por si só, não é suficiente para justificar o reconhecimento de efetiva ocorrência de dor, sofrimento, lesão aos sentimentos íntimos juridicamente protegidos. Sem dúvida, evidencia uma inegável situação de transtorno, mas que não é o bastante para identificar verdadeiro dano moral.
+A propósito:
+(...)Quanto ao pedido de “proibição da Apelada de abordagem indevida na residência”, malgrado o apelante alegue que houve práticas inadequadas na condução do processo, não apresentou prova alguma dessas alegações, assim, impossível tal análise. Da mesma forma, ante o julgamento da causa, não se verifica continuidade de eventual atitude praticada por parte da apelada.
+Com relação ao ônus da sucumbência, a parte autora teve apenas parte do pedido inicial acatado, pois postulou o recebimento da integralidade do valor do seguro, sem levar em conta o grau das lesões.
+Na hipótese de sucumbência recíproca, custas processuais e os honorários advocatícios devem ser estipulados em relação ao quantum dos interesses das partes que restaram atendidos na decisão.
+Sobre o tema, ensinam Nelson Nery Junior e Rosa Maria de Andrade Nery que:
+1. Sucumbência recíproca. Há sucumbência recíproca quando uma das partes não obteve tudo o que o processo poderia lhe proporcionar. Se o autor pediu 100 e obteve 80, sucumbiu em 20, ao mesmo tempo em que o réu sucumbiu em 80. quando a parte sucumbiu em parte mínima do pedido, não se caracteriza a sucumbência recíproca. A sucumbência recíproca autoriza a interposição de recurso pela via adesiva. [...]. 3. Distribuição proporcional. As despesas processuais e os honorários de advogados deverão ser rateados entre as partes, na medida de sua parte na derrota, isto é, de forma proporcional (Código de processo civil comentado, 11a ed., São Paulo: RT, 2010, p. 247).
+A condenação em montante inferior ao objeto da ação configura sucumbência recíproca, e, consequentemente, conduz à repartição relativa das despesas processuais, custas e honorários advocatícios, exceto no caso de indenização por dano moral, nos termos da Súmula 326/STJ.
+A propósito:
+(...)
+No tocante ao pleito para majoração dos honorários advocatícios, fixados em R$ 700,00, sopesadas as particularidades e a tramitação dos autos, observando-se o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, não vejo razão para majoração do valor dos honorários advocatícios, sobretudo diante da baixa complexidade da causa”.
+Constata-se, portanto, que a decisão não padece de quaisquer dos vícios do art. 1.022 do CPC, sendo incabível a interposição de embargos de declaração apenas para expressar o inconformismo da parte, porque, em tais casos, o que se faz é simples rediscussão da matéria recursal.
+É por estas fortes e sólidas razões já consignadas na decisão monocrática que o enfoque nela consagrado permanece inalterado, pelo que rejeito os presentes embargos.
+Custas pela apelante.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 09 de julho de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
