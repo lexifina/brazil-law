@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1964, de 7 de julho de 2020
+Altera as Instruções Normativas SRF nº 241, de 6 de novembro de 2002, SRF nº 409, de 19 de março de 2004, e RFB nº 863, de 17 de julho de 2008, que dispõem sobre regimes aduaneiros especiais.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no inciso III do art. 418 e no art. 492 do Decreto nº 6.759, de 5 de fevereiro de 2009, e no artigo 18 da Portaria MF nº 112, de 10 de junho de 2008, resolve:
