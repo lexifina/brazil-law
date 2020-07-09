@@ -1,0 +1,21 @@
+HABEAS CORPUS – AUTOS N.o 1014331-89.2020.8.11.0000 – COMARCA DE DIAMANTINO.
+Impetrante: Marcos Wagner Santana Vaz
+Paciente: Thallys Michael da Silva
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de Thallys Michael da Silva, supostamente submetido a constrangimento ilegal creditado à autoridade judiciária da Vara Criminal da Comarca de Diamantino, que indeferiu o pedido de conversão da prisão preventiva do paciente em domiciliar em razão de estar infectado pelo novo coronavírus (covid-19).
+A presente ação constitucional foi inicialmente distribuída à relatoria do Des. Juvenal Pereira da Silva (certidão de id. 49404979, p. 01).
+Em razão da existência de um habeas corpus anterior, correlato ao fato debatido na petição inicial, já julgado perante a Segunda Câmara Criminal sob a minha relatoria, em substituição legal ao Des. Alberto Ferreira de Souza, a presente ação constitucional foi a mim automaticamente remetida, em razão de suposta prevenção para processar e julgar o presente remédio constitucional na condição de relatora (id. 49434492, p. 01).
+Posto o relato do essencial, passa-se à análise quanto à prevenção.
+Consoante o registro da autuação, o vertente habeas corpus refere-se a evento delitivo apreciado no bojo da Ação Penal n.o 0001797-52.2019.8.11.0005 (Código 136314), processada e julgada perante o Juízo da Vara Criminal da Comarca de Diamantino.
+No Tribunal de Justiça, o Habeas Corpus n.o 1002435-49.2020.8.11.0000 – referente ao fato debatido naquela ação penal – foi processado e julgado sob a minha relatoria perante a Segunda Câmara Criminal, em razão de convocação para substituir o Desembargador Alberto Ferreira de Souza, tendo em vista o afastamento legal daquele magistrado à época.
+Ocorre que a potencial prevenção para prosseguir no processamento e julgamento de feitos correlatos cessou em razão da aposentadoria do Desembargador Alberto Ferreira de Souza desde o dia 04 de março de 2020.
+Embora eu continue convocada para atuar no Tribunal de Justiça, isso atualmente se dá em razão da vaga aberta pela aposentadoria mencionada, e não mais em razão de substituição legal ao magistrado.
+Ademais, como não sou membro nato do Colegiado, a atuação decorrente de convocações anteriores não possui o condão de caracterizar a prevenção para funcionar como relatora de novos processos, cuja eventual vinculação tenha sido verificada em razão de feitos por mim julgados na condição de substituta legal do Desembargador Alberto Ferreira de Souza nos processos distribuídos antes do júbilo.
+Nesse sentido, o Superior Tribunal de Justiça compreende que “segundo o art. 4o, § 2o, da Resolução CNJ n. 72, que dispõe sobre a convocação de juízes de primeiro grau para substituição e auxílio no âmbito dos tribunais estaduais e federais, quando ocorre o encerramento da convocação, os processos em poder do convocado serão conclusos ao desembargador ou juiz de segundo grau substituído, ressalvados aqueles em que haja lançado o relatório ou que tenham sido incluídos em pauta de julgamento. Esse "lançar relatório" não alcança os recursos posteriores ao término da convocação de um mesmo processo. O juiz substituto não é desembargador e atua interinamente, de forma que não fica vinculado ao processo que lhe é distribuído no exercício da substituição” (STJ. Terceira Turma. REsp 1560576/ES. Rel. Min. João Otávio de Noronha. Julgado em 02.08.2016. DJe 23/08/2016. Destaques apostos.).
+Por fim, cumpre consignar que na Consulta n.o 0016457-32.2020.8.11.0000, a Presidência do Tribunal de Justiça assentou que “(...) levada à efeito a aposentadoria de Membro da Corte, o Juiz Convocado para assumir as funções judicantes até o preenchimento da vaga não atrairá a prevenção para julgamento de feitos que guardam vinculação com outros anteriormente distribuídos ao desembargador aposentado” (sic, negritado).
+Diante disso, compreendo que não restou caracterizada a minha prevenção para processar e julgar o presente habeas corpus na condição de relatora.
+Ante o exposto, determino a remessa dos autos ao desembargador originariamente sorteado relator da vertente ação constitucional.
+Cumpra-se com urgência.
+Cuiabá, 08 de julho de 2020.
+Glenda Moreira Borges
+Relatora convocada
