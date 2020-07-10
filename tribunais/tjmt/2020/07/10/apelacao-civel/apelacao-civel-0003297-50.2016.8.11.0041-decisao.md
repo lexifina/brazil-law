@@ -1,0 +1,39 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE -PRESIDÊNCIA
+Recurso Especial na Apelação Cível n. 0003297-50.2016.8.11.0041
+RECORRENTE(s): ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S/A,
+RECORRIDA: TALITA PEDROSO DELGADO OLIVEIRA
+Vistos.
+Trata-se de Recurso Especial interposto por ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S. A. com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 32609455):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO REVISIONAL CC INDENIZAÇÃO POR DANOS MORAIS - FORNECIMENTO DE ENERGIA ELÉTRICA – NULIDADE DA SENTENÇA – EXTRA PETITA – AFASTADA - NEGATIVA DE CONSUMO AFERIDO – TARIFA SOCIAL - ERRO DE CADASTRAMENTO - FALHA NA PRESTAÇÃO DE SERVIÇOS – VALIDADE DA COBRANÇA – AFASTADA – NEGATIVAÇÃO INDEVIDA – DANOS MORAIS - CONFIGURADOS – MAJORAÇÃO – PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE – POSSIBILIDADE - CORREÇÃO MONETÁRIA/SÚMULA No 362/STJ - JUROS DE MORA/SÚMULA No 54/STJ - PREQUESTIONAMENTO – INADMISSIBILIDADE - SENTENÇA REFORMADA – RECURSO DE ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S/A– DESPROVIDO – RECURSO DA AUTORA - PROVIDO. A sentença não se mostra extra petita quando o pedido é julgado em consonância com a causa de pedir. Configurado o ilícito no erro de cadastramento de consumidor de baixa renda na tarifa social e cobrança ilegal de serviço de natureza essencial, no desperdício de tempo dispensado pelo consumidor para a solução de problemas gerados por má prestação de serviço, consubstanciado o dano moral. O Dano Moral por inscrição irregular em cadastros de inadimplentes se configura in re ipsa, isto é, prescinde de prova (STJ REsp n. 1.059.663/MS), pois o dano moral advém do próprio fato, a responsabilidade resulta do agente causador, dispensando a comprovação da extensão dos danos, sendo estes evidenciados pelas circunstâncias do fato (STJ AgRg no Ag 1365711/RS). A indenização por dano moral deve ser fixada em montante que não onere em demasia o ofensor, atenda à finalidade para a qual foi concedida, compensando o sofrimento da vítima e desencorajando a outra parte quanto aos outros procedimentos de igual natureza. É perfeitamente possível a majoração do valor fixado a título de indenização por danos morais, quando inobservados os princípios da razoabilidade e proporcionalidade. Os juros de mora devem incidir a partir do evento danoso, nos termos da Súmulas no 54/STJ e a correção monetária do valor da indenização do dano moral, desde a data do arbitramento (Súmula 362/STJ). A exigência de prequestionamento para a interposição de recurso especial ou extraordinário deve ser cumprida pela parte e não pelo órgão julgador. (TJMT, RAC 0003297-50.2016.8.11.0041, DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 04/02/2020)
+Os Embargos de Declaração foram acolhidos, conforme acórdão id 41698465, in verbis:
+“EMBARGOS DE DECLARAÇÃO – ACÓRDÃO PROFERIDO EM RECURSO DE APELAÇÃO – AÇÃO REVISIONAL CC INDENIZAÇÃO POR DANOS MORAIS – OMISSÃO – OCORRÊNCIA – VÍCIO SANADO - ACÓRDÃO MANTIDO – EMBARGOS ACOLHIDOS. O artigo 1.022 do Código de Processo Civil dispõe que os embargos de declaração se destinam a excluir do julgado eventual omissão, contradição ou obscuridade. Restando comprovada a ausência de manifestação sobre parte dos pedidos realizados pelo embargante, imperioso se faz suprir tal omissão. (TJMT, RED 0003297-50.2016.8.11.0041, DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 05/05/2020)
+A parte Recorrente alega violação aos artigos 141 e 492, ambos do CPC, uma vez que “(...) a Recorrente alegou inexistência de ato ilícito e legalidade e exigibilidade do débito impugnado em razão da ausência de recadastramento”.
+Sustenta que: “acórdão “IGNOROU a tese recursal da Recorrente que demonstrou que o juízo de piso extrapolou os limites dos pedidos da petição inicial, e condenou a Recorrente a revisão das faturas referentes dos meses de 05/2015 e 06/2015”, sendo que não houve pedido na exordial para tanto.
+Recurso tempestivo (46953486)
+O pedido de efeito suspensivo foi indeferido conforme decisão de ID 47625983.
+Contrarrazões no ID 48755965.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo 141 e 492 do CPC, está amparada na assertiva de que ocorreu julgamento extra petita pelo juízo de primeiro grau uma vez que a Recorrida não formulou o pedido de revisão de conta referente ao mês 06/2015 e que, houve má valoração das provas existentes nos autos que comprovam a excludente de responsabilidade civil.
+No entanto, verifica-se que o presenta caso não se trata de má valoração de provas e sim é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA JULGADA PROCEDENTE NA ORIGEM. 1. JULGAMENTO EXTRA PETITA DEVIDAMENTE RECONHECIDO PELO TRIBUNAL DE ORIGEM, CONSIDERANDO A NÃO OBSERVÂNCIA AO PRINCÍPIO DA CONGRUÊNCIA PELO JUÍZO PROLATOR DA SENTENÇA RESCINDENDA. MODIFICAÇÃO DO ACÓRDÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.2. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA NO ACÓRDÃO RECORRIDO. QUESTÃO NÃO ANALISADA PELO TRIBUNAL LOCAL. SÚMULA 211/STJ. 3. POSSIBILIDADE DE REVISÃO DE ASTREINTES EM QUALQUER FASE PROCESSUAL, INCLUSIVE EM AÇÃO RESCISÓRIA. FALTA DE INTERESSE RECURSAL, TENDO EM VISTA O JULGAMENTO DE IMPROCEDÊNCIA DA AÇÃO ORIGINÁRIA, EM JUÍZO RESCISÓRIO.4. AGRAVO DESPROVIDO.
+1. Da análise do acórdão recorrido, constata-se que o Tribunal de origem reconheceu, após amplo reexame do conjunto fático-probatório dos autos, o apontado julgamento extra petita na sentença rescindenda, não sendo possível, dessa forma, modificar o decisum impugnado, tendo em vista o óbice da Súmula 7/STJ.
+2. (...). 4. Agravo interno desprovido.(AgInt no REsp 1409260/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/05/2020, DJe 26/05/2020)” (g.n.) “contrario sensu”
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. FORNECIMENTO DE ENERGIA ELÉTRICA. CORTE INDEVIDO. DANO MORAL CONFIGURADO. REVISÃO DO QUANTUM INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, amparado no acervo probatório, decidiu que restou configurado o dano moral decorrente do indevido corte no fornecimento de energia elétrica, de maneira que rever tal conclusão demandaria, necessariamente, o reexame da matéria fática dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. (...).3. Agravo interno não provido.(AgInt no AREsp 1528267/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/06/2020, DJe 18/06/2020) “. (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 09 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+x
