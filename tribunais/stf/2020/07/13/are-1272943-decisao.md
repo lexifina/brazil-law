@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. 1. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Não há falar em negativa de prestação jurisdicional, porquanto o Tribunal Regional se manifestou em relação às questões suscitadas, embora contrariamente ao interesse do reclamado, configurando-se efetiva a prestação jurisdicional. Intactos, pois, os artigos 93, IX, da Constituição Federal, 489 do CPC/2015 e 832 da CLT.
+    2. INCOMPETÊNCIA MATERIAL DESTA JUSTIÇA ESPECIALIZADA. Extrai-se do acórdão recorrido que a reclamante ingressou no quadro do Município em 30/10/1981, sem concurso público, estando, portanto, submetida ao regime celetista. Dessa forma, a competência material para processar e julgar a presente demanda pertence a esta Especializada, nos termos do art. 114, I, da Constituição Federal, consoante restou decidido pelo Tribunal a quo. Intacto o art. 114, I, da CF/88.
+     3. PRESCRIÇÃO. DEPÓSITOS DO FGTS. O Regional rejeitou a prescrição bienal e consignou a aplicação do prazo prescricional trintenário às parcelas do FGTS. No que diz respeito à prescrição quinquenal, o Supremo Tribunal Federal declarou a inconstitucionalidade do prazo prescricional trintenário do FGTS, porém modulou os efeitos do referido entendimento, resultando, no âmbito desta Corte, na reformulação da Súmula nº 362/TST, incidindo à hipótese o item II do mencionado verbete, o qual dispõe que, “para os casos em que o prazo prescricional já estava em curso em 13.11.2014, aplica-se o prazo prescricional que se consumar primeiro: trinta anos, contados do termo inicial, ou cinco anos, a partir de 13.11.2014”, não havendo, portanto, prescrição a ser reconhecida.
+    4. FGTS. RECOLHIMENTOS. Conforme o delineamento fático promovido pelo Regional, insuscetível de reexame nesta fase processual, a teor da Súmula nº 126/TST, a reclamante foi admitida antes do advento da Constituição de 1988, sem se submeter a concurso público. Em 1990, foi instituída legislação municipal destinada a estabelecer regime jurídico estatutário no âmbito do reclamado. Entretanto, a instituição de regime jurídico único para os servidores municipais não tem o condão de resultar na conversão automática do regime celetista para o estatutário, em face dos comandos insculpidos no art. 37, II, da CF, razão pela qual o vínculo da reclamante permanece regido pela CLT, fazendo jus aos depósitos de FGTS.
+    Agravo de instrumento conhecido e não provido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 19 do ADCT; 7º, incisos III e XXIX; 37, inciso II; 39; 93, inciso X; 114, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de julho de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
