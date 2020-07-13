@@ -1,0 +1,20 @@
+Vistos etc.
+    Aplicada a sistemática da repercussão geral e devolvido o recurso à origem, considerado o RE 704.292-RG, retornam os autos a esta Suprema Corte, observada pelo Tribunal de origem a distinção do precedente em relação à hipótese dos autos nos seguintes termos:
+    “Os autos retornaram a esta Corte para 'ns de aplicação do disposto nos artigos 1036 a 1040 do CPC - Tema 540 - STF (Tese: É inconstitucional, por ofensa ao princípio da legalidade tributária, lei que delega aos conselhos de 'scalização de pro'ssões regulamentadas a competência de 'xar ou majorar, sem parâmetro legal, o valor das contribuições de interesse das categorias pro'ssionais e econômicas, usualmente cobradas sob o título de anuidades, vedada, ademais, a atualização desse valor pelos conselhos em percentual superior aos índices legalmente previstos).
+    O objeto em discussão no processo em tela diz com a pretensão acerca da isenção aos optantes do SIMPLES quando se está diante de pagamento das anuidades, considerando tratar-se de tributo instituído pela UNIÃO, e não pelos Conselhos.
+    Diante do contexto, s. m. j. a questão tratada no presente autuado gira em torno do alcance da isenção pretendida aos substituídos e não à inconstitucionalidade de lei que delega aos conselhos de 'scalização a 'xar e/ou majorar, sem parâmetro legal, o valor das contribuições devidas.”
+    Aparelhado o recurso na afronta ao art. 149 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    Passo ao exame do recurso.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido:
+    “MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ISENÇÃO DA CONTRIBUIÇÃO SINDICAL PATRONAL PARA AS EMPRESAS INSCRITAS NO ‘SIMPLES’. IMPUGNAÇÃO DO § 4º DO ARTIGO 3º DA LEI Nº 9.317, DE 05.12.96, E DO § 6º DO ARTIGO 3º DA INSTRUÇÃO NORMATIVA SRF Nº 9, DE 10.02.99. PRELIMINAR DE CONHECIMENTO. I - PRELIMINAR. 1. Quando instrução normativa baixada por autoridades fazendárias regulamenta diretamente normas legais, e não constitucionais, e, assim, só por via oblíqua atinge a Constituição, este Tribunal entende que se trata de ilegalidade, não sujeita ao controle abstrato de constitucionalidade. Precedentes. 2. Ação direta não conhecida nesta parte. II - MÉRITO. 1. A criação de imunidade tributária é matéria típica do texto constitucional enquanto a de isenção é versada na lei ordinária; não há, pois, invasão da área reservada à emenda constitucional quando a lei ordinária cria isenção. 2. O Poder Público tem legitimidade para isentar contribuições por ele instituídas, nos limites das suas atribuições (CF, artigo 149). 3. A tutela concedida às empresas de pequeno porte (artigo 170, IX) sobreleva à autonomia e à liberdade sindical de empregados e empregadores protegidas pela Constituição (art. 8º, I). Não fere o princípio da isonomia a norma constitucional que concede tratamento favorecido às empresas de pequeno porte. 4. Ação direta conhecida em parte, e nesta parte indeferida a liminar por ausência de relevância da argüição de inconstitucionalidade e de conveniência da suspensão cautelar da norma impugnada” (ADI 2006-MC, Rel. Min. Maurício Correa, Tribunal Pleno, DJ 24.9.1999).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de julho de 2020.
+Ministra Rosa Weber
+Relatora
