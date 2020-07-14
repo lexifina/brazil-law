@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Gilberto Martins (via Defensória Pública da União), contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da lavra da Ministra Laurita Vaz, que negou provimento ao agravo regimental no HC 506.700/SC.
+    No curso da execução penal, o Recorrente teve reconhecido, pelo Juízo das Execuções Criminais da Comarca de São José/SC, o direito a remição de 39 dias de pena em razão da aprovação parcial no Exame Nacional para Certificação de Competências de Jovens Adultos – ENCCEJA/2017.
+    Inconformada, a Defesa manejou agravo em execução, ao qual negado provimento pelo Tribunal de Justiça de Santa Catarina.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da Ministra Laurita Vaz, denegou a ordem no HC 506.700/SC. Na sequência, interposto, sem sucesso agravo regimental, improvido que foi pela Sexta Turma daquela Corte Superior.
+    No presente recurso ordinário, a Defesa alega, em síntese, ter direito a redução de pena maior do que a concedida. Alega utilização incorreta da base de cálculo para a remição e desatendimento à Recomendação 44/2013 do Conselho Nacional de Justiça. Requer, em medida liminar, seja ‘obstado’ o acórdão recorrido. No mérito, requer a reforma do acórdão para ‘utilizar a correta base de cálculo para remição da pena e, assim, diminuir a reprimenda do recorrente em quantum de dias maior que aquele que foi estabelecido pelo juízo das execuções’.
+     Apresentadas contrarrazões pelo não provimento do recurso (eventos 2 e 3).
+    É o relatório.
+    Decido.
+    Extraio do acórdão recorrido:
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) – ENSINO FUNDAMENTAL. RECOMENDAÇÃO CNJ N.º 44/2013. BASE DE CÁLCULO. ART. 4.º DA RESOLUÇÃO N.º 03/2010 DO CONSELHO NACIONAL DE EDUCAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Em caso de certificação do ensino fundamental pelo ENCCEJA, o Juiz, para fins de remição, deverá considerar 50% de 1.600 (um mil e seiscentas) horas, que é a carga horária definida legalmente para o ensino fundamental, consoante o disposto no art. 1.º, inciso IV, da Recomendação n.º 44/2013, do Conselho Nacional de Justiça, e no art. 4.º, inciso II, da Resolução n.º 03/2010 do Conselho Nacional de Educação, ou seja, 800 (oitocentas) horas.
+    2. Na hipótese, as instâncias ordinárias consideraram como base de cálculo o parâmetro de 50% da carga horária de 1.600 horas (800 horas), com a divisão pelas 5 áreas de conhecimento, que consistiria em 66 (sessenta e seis) dias remidos, sendo que cada área corresponde a 13 (treze) dias de remição.
+    3. Agravo regimental desprovido.
+    O acórdão recorrido ratificou as decisões das instâncias anteriores para reconhecer que a base de cálculo da remição de pena em função da aprovação no Exame Nacional de Certificação de Competências para Jovens e Adultos (ENCCJA), nível ensino fundamental, é de 50% sobre 1.600 horas, ou seja, 800 horas.
+    A solução conjuga o artigo 126, § 1º, da LEP, que autoriza a remição de 1 dia de pena a cada 12 horas de frequência escolar, com a Recomendação 44/2013 do CNJ, a qual, por sua vez, remete à Resolução 03/2010, do Conselho Nacional de Educação. Orientam, tais normas, o Juízo da Execução, a considerar ‘como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino (...), isto é, 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio’.
+    No caso, o Recorrente foi aprovado no ENCCEJA, nível de ensino fundamental. A fortiori, ‘[g]arantido ao apenado de remir sua pena pelo estudo, tendo como base 50% da carga horária definida, e sendo ela de 1.600 horas, conclui-se que a base de cálculo é a carga de 800 horas. Precedente desta Corte: HC 173.960, Rel. Min. Cármen Lúcia, DJe 16.12.2019’ (RHC 173.208, Rel. Min. Gilmar Mendes). Nesse sentido diversos precedentes da Corte: HC 187.001, Rel. Min. Carmem Lúcia, RHC n. 173.20, Rel. Min. Gilmar Mendes; 174.894, Rel. Min. Roberto Barroso.
+    Portanto, estando o ato coator parametrizado com a jurisprudência desta Suprema Corte, não há ilegalidade a ser reparada no tocante ao cálculo de remição da pena aplicada ao Recorrente.
+    Nego provimento ao recurso.
+    Publique-se.
+    Brasília, 14 de julho de 2020.
+Ministra Rosa Weber
+Relatora
