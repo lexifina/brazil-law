@@ -1,0 +1,12 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1016506-90.2019
+REPRESENTANTE: RAFAEL DE OLIVEIRA COTRIM DIAS.
+AGRAVADO: BANCO BRADESCO S.A.
+Vistos.
+Aguarde-se a realização da Audiência de Conciliação agendada para o dia 20.07.2020.
+Após, conclusos.
+Às providências necessárias.
+Desembargador DIRCEU DOS SANTOS
+Relator
