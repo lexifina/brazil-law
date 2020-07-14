@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes assim retratou o caso:
+    O Juízo da Vara Plantão da Comarca de São Paulo/SP, em audiência de custódia, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 4 de dezembro de 2019, ante a suposta prática do delito previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Concluiu indispensável a custódia para garantir a ordem pública, reportando-se à natureza e quantidade dos entorpecentes apreendidos – 16 porções de maconha (51,1 gramas), 23 de cocaína (15,7 gramas) e 52 pedras de crack (13,9 gramas), além de R$ 268,50 em dinheiro –, à ausência de endereço fixo, à existência de investigação em curso alusiva ao cometimento de roubo e aos registros de atos infracionais, um deles análogo a latrocínio.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 568.901/SP, inadmitido pelo Relator.
+    O impetrante sustenta insubsistentes os fundamentos da decisão que implicou a prisão preventiva, dizendo-a lastreada na gravidade abstrata da imputação. Articula com a possibilidade de aplicação do artigo 33, § 4º, da Lei de Drogas, a resultar em sanção menos gravosa que a custódia cautelar. Aponta o excesso de prazo da prisão preventiva, a perdurar por mais de 8 meses. Cita precedentes do Supremo nos quais reconhecido o excesso de prazo. Sublinha favoráveis as condições pessoais – primariedade, residência fixa, bons antecedentes e trabalho lícito.
+    Requer, no campo precário e efêmero, a revogação da custódia e, sucessivamente, a substituição por medidas cautelares versadas no artigo 319 do Código de Processo Penal, sem especificá-las. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou ter o Juízo da Décima Sexta Vara Criminal da Comarca de São Paulo, no qual passou a tramitar o processo-crime nº 1528902-20.2019.8.26.0228, condenado, em 13 de julho último, o paciente a 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, em virtude da prática da infração definida no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006, e negado o direito de recorrer em liberdade, reiterando a necessidade da preventiva.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, considerada a natureza e quantidade dos entorpecentes e dinheiro apreendidos – 16 porções de maconha (51,1 gramas), 23 de cocaína (15,7 gramas), 52 pedras de crack (13,9 gramas), além de R$ 268,50 –, indicam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A sentença, formalizada em 13 de julho de 2020, por meio da qual o Juízo deixou de reconhecer o direito de recorrer em liberdade, assentando a permanência dos motivos ensejadores da prisão, revela não configurado excesso de prazo. O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da custódia, fixando o lapso de 90 dias, com a possibilidade de prorrogação, mediante pronunciamento fundamentado. Apresentada motivação suficiente à manutenção, fica afastado constrangimento ilegal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
