@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 1000320-97.2018.8.11.0041
+APELANTE: CAB CUIABA S/A - CONCESSIONARIA DE SERVICOS PUBLICOS DE AGUA E ESGOTO
+APELADO: EDUARDO FRANCISCO DE ASSIS MAGALHAES
+Manifesto minha suspeição para atuar no feito e incidentes posteriores (art. 144 do CPC).
+Anote-se e redistribua-se.
+Cuiabá, 15 de julho de 2020.
+Des. Guiomar Teodoro Borges
