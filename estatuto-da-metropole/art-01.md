@@ -2,4 +2,5 @@ Art. 1º Esta Lei, denominada Estatuto da Metrópole, estabelece diretrizes gera
 § 1º Além das regiões metropolitanas e das aglomerações urbanas, as disposições desta Lei aplicam-se, no que couber:
 I - às microrregiões instituídas pelos Estados com fundamento em funções públicas de interesse comum com características predominantemente urbanas;
 II - (VETADO).
+III - às unidades regionais de saneamento básico definidas pela Lei nº 11.445, de 5 de janeiro de 2007.
 § 2º Na aplicação das disposições desta Lei, serão observadas as normas gerais de direito urbanístico estabelecidas na Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade).
