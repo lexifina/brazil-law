@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que, em sede de Embargos à Execução, julgou legítima a aplicação de multa pelo Ministério Público.
+    Opostos Embargos de Declaração, foram rejeitados (fl. 181, Vol. 5).
+    No apelo extremo (fl. 227, Vol. 5), interposto com amparo no art. 102, III, “a”, “c” e “d”, da Constituição Federal, a parte recorrente sustenta que houve violação aos artigos 93, IX; 127; e 129, da Constituição Federal; bem como que o acórdão recorrido julgou válido diversos dispositivos de normas locais contestados em face da Constituição Federal e Lei Federal. Assevera que a aplicação de multa pelo Ministério Público do Estado de Minas Gerais, como se fosse o PROCON, é incompatível com a destinação constitucional do órgão, não encontrando amparo nas funções que a Constituição Federal lhe atribuiu.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta CORTE no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Além disso, o Tribunal de origem solucionou a controvérsia nos termos da seguinte ementa (Vol. 5, fl. 141):
+    “EMENTA: APELAÇÃO – EMBARGOS À EXECUÇÃO - APLICAÇÃO DE MULTA – MINISTÉRIO PÚBLICO – LEGITIMIDADE – AUSÊNCIA DE ILEGALIDADE OU NULIDADE– MULTA ABUSIVA OU DESPROPORCIONAL – INEXISTÊNCIA -
+    1 - Nos termos do inciso I, do art. 82 da Lei 8.078/90, o Ministério Público é legitimado na defesa dos interesses e direitos dos consumidores.
+    2 - A imposição de penalidades encontra-se dentro das atribuições dos Procons e do Ministério Público, podendo ser imposta através de procedimento administrativo próprio. A atuação do Senacom é questão diversa à atuação do Ministério Público, não havendo que se falar em cobrança em bis in idem.
+    3 - As informações devem ser dadas ao consumidor de forma prévia e plena, não bastando que estejam disponibilizadas na internet”.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    No mesmo sentido, veja-se o RE 1.228.737/MG, de minha relatoria, DJe de 20/9/2019, já transitado em julgado.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 16 de julho de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
