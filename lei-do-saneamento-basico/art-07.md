@@ -1,4 +1,4 @@
 Art. 7º Para os efeitos desta Lei, o serviço público de limpeza urbana e de manejo de resíduos sólidos urbanos é composto pelas seguintes atividades:
-I - de coleta, transbordo e transporte dos resíduos relacionados na alínea c do inciso I do caput do art. 3º desta Lei;
-II - de triagem para fins de reúso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados na alínea c do inciso I do caput do art. 3º desta Lei;
-III - de varrição, capina e poda de árvores em vias e logradouros públicos e outros eventuais serviços pertinentes à limpeza pública urbana.
+I - de coleta, de transbordo e de transporte dos resíduos relacionados na alínea "c" do inciso I do caput do art. 3º desta Lei;
+II - de triagem, para fins de reutilização ou reciclagem, de tratamento, inclusive por compostagem, e de destinação final dos resíduos relacionados na alínea "c" do inciso I do caput do art. 3º desta Lei; e
+III - de varrição de logradouros públicos, de limpeza de dispositivos de drenagem de águas pluviais, de limpeza de córregos e outros serviços, tais como poda, capina, raspagem e roçada, e de outros eventuais serviços de limpeza urbana, bem como de coleta, de acondicionamento e de destinação final ambientalmente adequada dos resíduos sólidos provenientes dessas atividades.

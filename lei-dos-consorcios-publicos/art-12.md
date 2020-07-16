@@ -1,3 +1,2 @@
 Art. 12. A alteração ou a extinção de contrato de consórcio público dependerá de instrumento aprovado pela assembléia geral, ratificado mediante lei por todos os entes consorciados.
-§ 1º Os bens, direitos, encargos e obrigações decorrentes da gestão associada de serviços públicos custeados por tarifas ou outra espécie de preço público serão atribuídos aos titulares dos respectivos serviços.
 § 2º Até que haja decisão que indique os responsáveis por cada obrigação, os entes consorciados responderão solidariamente pelas obrigações remanescentes, garantindo o direito de regresso em face dos entes beneficiados ou dos que deram causa à obrigação.
