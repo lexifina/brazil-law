@@ -1,0 +1,74 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1002599-44.2016.8.11.0003
+RECORRENTE: MTSUL CONSTRUÇÕES LTDA.
+RECORRIDA: TRANSPORTADORA BRASIL CENTRAL LTDA
+Vistos, etc.
+Trata-se de Recurso Especial (id 49118482) interposto por MTSUL CONSTRUÇÕES LTDA. com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado assim ementado (id 40966469):
+“APELAÇÃO CÍVEL - ACIDENTE DE TRÂNSITO - AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS C.C LUCROS CESSANTES – VEÍCULOS DE GRANDE PORTE - COLISÃO NA PARTE LATERAL DO REBOQUE DA AUTORA - MOTORISTA DE CARRETA QUE NÃO OBSERVOU O DEVER DE CUIDADO AO EFETUAR MANOBRA E INVADIU À PISTA DE ROLAMENTO POR ONDE CIRCULAVA O VEÍCULO DA AUTORA - CULPA DO CONDUTOR DA CARRETA CONFIGURADA - DEVIDA A INDENIZAÇÃO PELOS GASTOS HAVIDOS COM O CONSERTO DO REBOQUE – INDENIZAÇÃO PELA PERDA DO PRODUTO – SOJA SAQUEADA POR TERCEIROS – RECURSO DESPROVIDO.
+Age com culpa aquele que realiza manobra imprudente e invade a pista de rolamento do veículo que vem na direção contrária. Uma vez evidenciada a culpa do condutor do caminhão da empresa-ré pelo acidente, é devida a indenização pelos danos materiais, referentes às despesas havidas pela autora com o conserto do Reboque, bem como com a perda dos produtos que foram perdidos com o acidente”. (TJMT – Quarta Câmara de Direito Privado – Apelação Cível n. 1002599-44.2016.8.11.0003, Relator: Des NILZA MARIA POSSAS DE CARVALHO, j. em 28/04/2020).
+Opostos Embargos de Declaração (id 42347963), estes foram rejeitados no acórdão de id 45384960.
+O presente recurso foi interposto contra o aresto da Quarta Câmara de Direito Privado deste Tribunal, em sede de Apelação, o qual manteve a sentença proferida pelo MM Juiz de Direito da 1a Vara Cível da Comarca de Rondonópolis/MT, nos autos da Ação de Reparação por Danos Materiais no 1002599-44.2016.8.11.0003, movida por TRANSPORTADORA BRASIL CENTRAL LTDA., que julgou parcialmente procedentes os pedidos constantes na inicial, para condenar a empresa ora Recorrente, ao pagamento da importância de R$ 55.140,84 (cinquenta e cinco mil, cento e quarenta reais e oitenta e quatro centavos), a título de dano material, e, por corolário natural, julgou improcedente o pedido de reconvenção proposto pela ré-reconvinte (id 13565453).
+A Recorrente alega violação aos artigos 186, 927, 944 e 945 do Código Civil, além de divergência jurisprudencial, ao argumento de que “(...) no dia 09/05/2016, o motorista da Recorrente, Sr. Darci Polipenco Nogueira, conduziu o veículo: Caminhão Mercedes Bens, Actros 2646LS 6x4, cor branca, ano e modelo 2011, Placa OAR -5557/MT, com reboque Placa OAQ - 8685/MT, carregado com 02 (duas) máquinas: 01 (uma) Escavadeira e 01 (um) Motoniveladora Caterpillar, sendo que por volta das 15h00 chegou na cidade de Trairão (PA), onde parou em uma borracharia para trocar pneus furados; que seguiu viagem as 16h00 e por volta das 17h00, em uma curva distante daquela cidade, aproximadamente 15km, surgiu uma outra carreta em sentido contrário, a qual vinha invadindo a pista contrária não tendo como desviar totalmente do veículo da Recorrida , vindo a colidir com no primeiro e segundo reboque”. (id
+Assevera que são inverídicas “(...) as alegações da Recorrida que a responsabilidade pelo acidente foi do motorista da Recorrente, inclusive, sobre a fantasiosa afirmação que o mesmo apresentava estado de embriagues, o que levou o r. Juízo de 1o e 2o grau a erro quando proferiram suas decisões”. (id 49118482 - p. 9)
+Argumenta que “(...) outro ponto que merece ressalva são as informações inverídicas contidas no Boletim de Ocorrência, pois não retratou a realidade dos fatos, inclusive, com a fantasiosa alegação de embriagues do motorista da Recorrente”. (id 49118482 - p. 10)
+Afirma que “(...) não restou demonstrada a ação exclusiva do motorista da Recorrente para a ocorrência do acidente, pelo contrário, a prova oral produzida resta dividida e não existem motivos para desconsiderar a prova da testemunha da Recorrente”. (id 49118482 - p. 16)
+Aduz afronta ao artigo 1.022, II, do CPC, porquanto “(...) a r. decisão foi omissa quanto ao próprio depoimento do 2o SGT/PM João Ezequiel da Silva no referido Boletim de Ocorrência (...)”. (id 49118482 - p. 11)
+Recurso tempestivo (id 49187984).
+Contrarrazões no id 50289458.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação ao artigo 1.022, II, do CPC
+A partir da suposta ofensa ao artigo 1.022, II, do CPC, a parte recorrente alega que “(...) a r. decisão foi omissa quanto ao próprio depoimento do 2o SGT/PM João Ezequiel da Silva no referido Boletim de Ocorrência (...)”. (id 49118482 - p. 11)
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora se manifestou em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Em que pese todo o deduzido pela embargante, não trouxe elementos que evidenciem vício de omissão, contradição, obscuridade ou erro material, pois os fatos trazidos referem-se, claramente, ao mérito do seu apelo, o que já foi analisado quando da prolação do acórdão.
+Na sessão de julgamento, a Câmara julgadora ao examinar as provas constantes no caderno processual, concluiu que ‘o motorista da apelante não observou o dever de cuidado ao realizar a manobra (curva) e adentrou na pista de rolamento em que trafegava o veículo da autora a uma distância segura, a fim de evitar a colisão’, destacou-se que ‘uma vez evidenciada a culpa do condutor do caminhão da empresa-ré pelo acidente, é devida a indenização pelos danos materiais, referentes às despesas havidas pela autora com o conserto do Reboque, bem como com a perda dos produtos que foram perdidos com o acidente’, bem como concluiu que “merece manutenção o julgamento de primeiro grau, que imputou à ré/reconvinte exclusivamente a culpa pela ocorrência do sinistro, mantendo a improcedência do pleito indenizatório contido na ação de reconvenção’.” (id 42875986 - p. 1)
+Ademais, é firme o entendimento do Superior Tribunal de Justiça no sentido de que “o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão” (EDcl no AgRg nos EREsp 1483155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+A propósito:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO INDENIZATÓRIA. FORNECIMENTO DE ENERGIA ELÉTRICA. MANUTENÇÃO DE CABOS SUBMARINOS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). INEXISTÊNCIA. ALEGAÇÃO DE DEFEITO NA PRESTAÇÃO DO SERVIÇO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. EXISTÊNCIA DE FUNDAMENTAÇÃO SUFICIENTE E NÃO REBATIDA. SÚMULAS N. 283 E 284 DO STF. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+(...)
+II - No que trata da alegada violação dos arts. 489, § 1o, IV, e 1.022, I, do CPC/2015, sem razão o recorrente a esse respeito, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, não obstante tenha decidido contrariamente à sua pretensão. Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+III - Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto. Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015.
+(...)
+X - Agravo interno improvido”. (AgInt no AREsp 1551771/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/04/2020, DJe 24/04/2020).
+Diante desse quadro, não há evidência de violação ao artigo 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 186, 927, 944 e 945 do CPC, está amparada na assertiva de que são inverídicas “(...) as alegações da Recorrida que a responsabilidade pelo acidente foi do motorista da Recorrente, inclusive, sobre a fantasiosa afirmação que o mesmo apresentava estado de embriagues, o que levou o r. Juízo de 1o e 2o grau a erro quando proferiram suas decisões”. (id 49118482 - p. 9)
+Argumenta que “(...) outro ponto que merece ressalva são as informações inverídicas contidas no Boletim de Ocorrência, pois não retratou a realidade dos fatos, inclusive, com a fantasiosa alegação de embriagues do motorista da Recorrente”. (id 49118482 - p. 10)
+Afirma que “(...) não restou demonstrada a ação exclusiva do motorista da Recorrente para a ocorrência do acidente, pelo contrário, a prova oral produzida resta dividida e não existem motivos para desconsiderar a prova da testemunha da Recorrente”. (id 49118482 - p. 16)
+No entanto, constou do aresto ora combatido
+“Narra a petição inicial que, em 09/05/2016, por volta das 17h00min, o motorista da empresa autora trafegava com veículo “Volvo/FH-460, cor branca, ano/modelo 13/13, placa ONR-9565, reboques placas ONA-7946 e ONA-8186, quando ao passar pela Agrovila Nova Esperança município localizado no Estado do Pará/MT, na faixa de rolamento à direita, subindo em uma curva acentuada, quando a carreta, de propriedade da empresa-ré, conduzida pelo Sro. Darci Polipenco Nogueira, pela faixa da esquerda, adentrou à pista da direita e colidiu com os reboques do caminhão, que estava carregado com soja em grão, vindo a mercadoria a ser saqueada por terceiros não identificados.
+Em contestação, a ré não nega ocorrência do acidente, apenas argumenta que a colisão ocorreu por culpa exclusiva do motorista da autora, pois, estava a carreta trafegando pela faixa correta da via, em uma curva, quando o motorista da empresa/autora invadiu a pista contrária. Contudo, não logrou êxito em desviar do caminhão da empresa autora, vindo a colidir no primeiro e no segundo reboque.
+Verifica-se, portanto, que a controvérsia instaurada nos autos versa sobre a culpa pelo embate.
+As provas produzidas nos autos acerca da dinâmica do acidente consistiram na juntada do boletim de ocorrência e na oitiva das testemunhas arroladas pelas partes.
+(...)
+Sendo assim, forçoso concluir que no caso em tela, o motorista da apelante não observou o dever de cuidado ao realizar a manobra (curva) e adentrou na pista de rolamento em que trafegava o veículo da autora a uma distância segura, a fim de evitar a colisão”. (id 34669962 - p. 1-3)
+Logo, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. REEXAME DE PROVAS. SÚMULA No 7/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA No 283/STF. ART. 81 DO CPC/2015. MULTA. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ).
+2. Na hipótese, rever as conclusões do aresto impugnado acerca da ilegitimidade passiva, da prova testemunhal, da culpa exclusiva ou concorrente da vítima, do valor dos danos morais e da sucumbência recíproca encontra o óbice da Súmula no 7/STJ.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula no 283/STF.
+4. No caso concreto, não se verifica abuso no direito de recorrer a autorizar a imposição de multa.
+5. Agravo interno não provido”. (AgInt no AREsp 1519035/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/05/2020, DJe 28/05/2020). (g.n.)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 15 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
