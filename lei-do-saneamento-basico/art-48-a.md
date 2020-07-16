@@ -1,0 +1,1 @@
+Art. 48-A. Em programas habitacionais públicos federais ou subsidiados com recursos públicos federais, o sistema de esgotamento sanitário deverá ser interligado à rede existente, ressalvadas as hipóteses do § 4º do art. 11-B desta Lei.

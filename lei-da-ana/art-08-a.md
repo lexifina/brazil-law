@@ -1,0 +1,1 @@
+Art. 8º-A. A ANA poderá criar mecanismos de credenciamento e descredenciamento de técnicos, de empresas especializadas, de consultores independentes e de auditores externos para obter, analisar e atestar informações ou dados necessários ao desempenho de suas atividades.

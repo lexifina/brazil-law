@@ -1,0 +1,1 @@
+Art. 25-A. A ANA instituirá normas de referência para a regulação da prestação dos serviços públicos de saneamento básico por seus titulares e suas entidades reguladoras e fiscalizadoras, observada a legislação federal pertinente.

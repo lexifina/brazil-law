@@ -1,0 +1,1 @@
+Art. 8º-B. No caso de prestação regionalizada dos serviços de saneamento, as responsabilidades administrativa, civil e penal são exclusivamente aplicadas aos titulares dos serviços públicos de saneamento, nos termos do art. 8º desta Lei.

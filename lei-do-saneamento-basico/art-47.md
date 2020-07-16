@@ -1,4 +1,4 @@
-Art. 47. O controle social dos serviços públicos de saneamento básico poderá incluir a participação de órgãos colegiados de caráter consultivo, estaduais, do Distrito Federal e municipais, assegurada a representação:
+Art. 47. O controle social dos serviços públicos de saneamento básico poderá incluir a participação de órgãos colegiados de caráter consultivo, nacional, estaduais, distrital e municipais, em especial o Conselho Nacional de Recursos Hídricos, nos termos da Lei nº 9.433, de 8 de janeiro de 1997, assegurada a representação:
 I - dos titulares dos serviços;
 II - de órgãos governamentais relacionados ao setor de saneamento básico;
 III - dos prestadores de serviços públicos de saneamento básico;

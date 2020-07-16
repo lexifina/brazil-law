@@ -12,5 +12,6 @@ VI - o procedimento para o levantamento, cadastro e avaliação dos bens revers�
 § 3º É nula a cláusula de contrato de programa que atribuir ao contratado o exercício dos poderes de planejamento, regulação e fiscalização dos serviços por ele próprio prestados.
 § 4º O contrato de programa continuará vigente mesmo quando extinto o consórcio público ou o convênio de cooperação que autorizou a gestão associada de serviços públicos.
 § 5º Mediante previsão do contrato de consórcio público, ou de convênio de cooperação, o contrato de programa poderá ser celebrado por entidades de direito público ou privado que integrem a administração indireta de qualquer dos entes da Federação consorciados ou conveniados.
-§ 6º O contrato celebrado na forma prevista no § 5º deste artigo será automaticamente extinto no caso de o contratado não mais integrar a administração indireta do ente da Federação que autorizou a gestão associada de serviços públicos por meio de consórcio público ou de convênio de cooperação.
+§ 6º (Revogado).
 § 7º Excluem-se do previsto no caput deste artigo as obrigações cujo descumprimento não acarrete qualquer ônus, inclusive financeiro, a ente da Federação ou a consórcio público.
+§ 8º Os contratos de prestação de serviços públicos de saneamento básico deverão observar o art. 175 da Constituição Federal, vedada a formalização de novos contratos de programa para esse fim.

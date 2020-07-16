@@ -3,3 +3,4 @@ Art. 42. Os valores investidos em bens reversíveis pelos prestadores constituir
 § 2º Os investimentos realizados, os valores amortizados, a depreciação e os respectivos saldos serão anualmente auditados e certificados pela entidade reguladora.
 § 3º Os créditos decorrentes de investimentos devidamente certificados poderão constituir garantia de empréstimos aos delegatários, destinados exclusivamente a investimentos nos sistemas de saneamento objeto do respectivo contrato.
 § 4º (VETADO).
+§ 5º A transferência de serviços de um prestador para outro será condicionada, em qualquer hipótese, à indenização dos investimentos vinculados a bens reversíveis ainda não amortizados ou depreciados, nos termos da Lei nº 8.987, de 13 de fevereiro de 1995, facultado ao titular atribuir ao prestador que assumirá o serviço a responsabilidade por seu pagamento.
