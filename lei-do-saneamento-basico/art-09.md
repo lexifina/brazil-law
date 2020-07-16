@@ -1,8 +1,9 @@
 Art. 9º O titular dos serviços formulará a respectiva política pública de saneamento básico, devendo, para tanto:
-I - elaborar os planos de saneamento básico, nos termos desta Lei;
-II - prestar diretamente ou autorizar a delegação dos serviços e definir o ente responsável pela sua regulação e fiscalização, bem como os procedimentos de sua atuação;
-III - adotar parâmetros para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;
-IV - fixar os direitos e os deveres dos usuários;
-V - estabelecer mecanismos de controle social, nos termos do inciso IV do caput do art. 3º desta Lei;
-VI - estabelecer sistema de informações sobre os serviços, articulado com o Sistema Nacional de Informações em Saneamento;
-VII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nos casos e condições previstos em lei e nos documentos contratuais.
+I - elaborar os planos de saneamento básico, nos termos desta Lei, bem como estabelecer metas e indicadores de desempenho e mecanismos de aferição de resultados, a serem obrigatoriamente observados na execução dos serviços prestados de forma direta ou por concessão;
+II - prestar diretamente os serviços, ou conceder a prestação deles, e definir, em ambos os casos, a entidade responsável pela regulação e fiscalização da prestação dos serviços públicos de saneamento básico;
+III - definir os parâmetros a serem adotados para a garantia do atendimento essencial à saúde pública, inclusive quanto ao volume mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;
+IV - estabelecer os direitos e os deveres dos usuários;
+V - estabelecer os mecanismos e os procedimentos de controle social, observado o disposto no inciso IV do caput do art. 3º desta Lei;
+VI - implementar sistema de informações sobre os serviços públicos de saneamento básico, articulado com o Sistema Nacional de Informações em Saneamento Básico (Sinisa), o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir) e o Sistema Nacional de Gerenciamento de Recursos Hídricos (Singreh), observadas a metodologia e a periodicidade estabelecidas pelo Ministério do Desenvolvimento Regional; e
+VII - intervir e retomar a operação dos serviços delegados, por indicação da entidade reguladora, nas hipóteses e nas condições previstas na legislação e nos contratos.
+Parágrafo único. No exercício das atividades a que se refere o caput deste artigo, o titular poderá receber cooperação técnica do respectivo Estado e basear-se em estudos fornecidos pelos prestadores dos serviços.
