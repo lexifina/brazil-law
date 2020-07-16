@@ -1,0 +1,50 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1014792-61.2020.8.11.0000 - COMARCA DE ALTO GARÇAS
+IMPETRANTE (S): RUBENS VERA FUZARO JUNIOR – DEF. PÚBLICO
+PACIENTE (S): FERNANDA GABRIELA DE ALMEIDA LIMA
+Vistos,
+Habeas Corpus impetrado em favor de FERNANDA GABRIELA DE ALMEIDA LIMA contra ato comissivo do Juízo da Vara Única da Comarca de Alto Garças, nos autos ação penal (Código 62598), que indeferiu pedido de prisão domiciliar pelo cometimento, em tese, de tráfico de drogas interestadual – arts. 33 e 40, V, ambos da Lei no 11.343/2006 – (Sistema Primus).
+A impetrante sustenta que a paciente é mãe de uma criança de 2 (dois) anos de idade e está gestante, motivo pelo qual faria jus à prisão domiciliar, conforme acórdão proferido pelo c. STF, no julgamento do HC 143.641/SP.
+Requer a concessão da ordem liminarmente para que seja convertida a prisão preventiva em domiciliar (ID 50312959), com documentos (ID 50312962/ID 50312992).
+Relatos.
+Em 8.6.2019, o Juízo singular converteu o flagrante em prisão preventiva “após a acusada ser detida transportando 17,190kg de entorpecente” - maconha - (Código 61953).
+Em 12.6.2019, converteu a custódia preventiva em domiciliar, com vinculação de medidas cautelares, mediante a seguinte fundamentação:
+“No caso em comento, a investigada comprovou ser mãe de Hemylan Fernanda de Almeida Barbosa, nascida em 20/04/2018, contando atualmente com 01 (um) ano e 01 (um) mês de idade.
+Ademais, constatou-se tratar-se de pessoa primária, flagrada por delito praticado sem emprego de violência ou grave ameaça ou contra seus descendentes, não havendo situação excepcional, ao menos em juízo perfunctório de delibação não exauriente, que justifique a manutenção da prisão preventiva, restam preenchidos os requisitos para a substituição da custódia cautelar da acusada pela domiciliar, nos termos do art. 318, inciso V, do Código de Processo Penal. [...]
+Nesta esteira, ante o novo quadro fático trazido, a hipótese concreta dos autos indica ser suficiente ao indispensável acautelamento da ordem pública e da persecução penal, a conversão da prisão preventiva em prisão domiciliar, mormente considerando-se (i) os antecedentes criminais da acusada; e (ii) o regular atendimento do requisito mínimo previsto no art. 318, parágrafo único, do Código de Processo Penal.
+Pelo exposto, SUBSTITUO a PRISÃO PREVENTIVA anteriormente decretada em desfavor da acusada FERNANDA GABRIELA DE ALMEIDA LIMA por PRISÃO DOMICILIAR com as seguintes condições:
+• A investigada DEVERÁ utilizar MONITORAÇÃO ELETRÔNICA, atendendo a todo e qualquer chamado/sinal, emitido pela Unidade Gestora de Monitoração Eletrônica, respondendo a seus contatos e cumprindo as orientações, além de comparecer sempre que convocado para reparos, programação e demais necessidades a critério da Unidade Gestora ligada à SEJUDH;
+• ABSTER-SE de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça;
+• INFORMAR imediatamente à Unidade Gestora de Monitoração Eletrônica se detectar falhas no equipamento, bem como recarregar a tornozeleira de forma correta e zelar por sua integridade;
+• Recolhimento domiciliar noturno a partir das 18h até às 06h do dia seguinte e nos dias de folga, podendo sair da residência exclusivamente para o exercício de atividade laborativa, devidamente comprovada;
+• Comparecimento mensal em juízo para justificar suas atividades;
+• Comparecimento a todos os atos processuais;
+• Proibição de alterar seu endereço sem comunicação prévia ao Juízo. [...]” (Angela Maria Janczeski Goes, juiza de Direito – Código 61953)
+Em 28.5.2020, “revogou” a prisão domiciliar e decretou a preventiva, nestes termos:
+“Primeiramente, cumpre mencionar que nos autos de cód. 61953, à ref. 22, foi substituída a prisão preventiva por prisão domiciliar, condicionada ao monitoramento eletrônico, com determinação de apresentação da acusada ao Juízo de seu domicílio, no prazo de 72 (setenta e duas) horas.
+Todavia, à ref. 41 daqueles autos, adveio informação de que a tornozeleira eletrônica instalada perdeu comunicação após o dia 09/07/2019, ou seja, em menos de 15 (quinze) dias da ativação do aparelho ( ref. 40), sem apresentação de qualquer justificativa pela acusada.
+Vê-se, ainda, à ref. 49, que não foi possível a intimação da denunciada no endereço informado, para que se apresentasse ao juízo de seu domicílio, a fim de justificar suas atividades e realizar a atualização do cadastro na Central de Monitoramento.
+Do cotejo dos autos, observa-se que a denunciada violou as condições estabelecidas para permanecer em prisão domiciliar, demonstrando falta de disciplina e de comprometimento com a lei e com as determinações deste Juízo.
+Sendo assim, as medidas cautelares aplicadas se revelaram insuficientes e inadequadas ao caso concreto, consubstanciando fundamento para a decretação da custódia cautelar. [...]
+Pelo exposto, considerando as informações de violação das medidas cautelares, em consonância com o parecer do Ministério Público, REVOGO a medida cautelar de prisão domiciliar e DECRETO a PRISÃO PREVENTIVA da acusada FERNANDA GABRIELA DE ALMEIDA LIMA, com fulcro no art. 282, §§ 4o e 5o, e art. 312, parágrafo único, ambos do Código de Processo Penal, e no art. 146-D da LEP. [...]” (Angela Maria Janczeski Goes, juíza de Direito – Código 62598)
+Em 29.6.2020, indeferiu pedido de prisão domiciliar por entender que “não restou comprovado nos autos que não possa ter atendimento/acompanhamento médico no interior do ergástulo público; [...] a substituição não alcançou o escopo legal, haja vista que em período inferior a 01 (um) mês violou as condições estabelecidas, em total menosprezo à Justiça.” (Angela Maria Janczeski Goes, juíza de Direito – Código 62598)
+Pois bem.
+A paciente comprovou ser mãe de Hemylan Fernanda de Almeida Barbosa, nascida em 20.4.2018 [dois anos de idade], e atualmente está grávida, conforme Teste Laboratorial (ID 50312987/ID 50312989).
+Após o advento da Lei no 13.769/2018, a substituição da custódia preventiva por domiciliar foi assegurada às mulheres gestantes e/ou mães de crianças, exceto em casos de crimes praticados com violência, grave ameaça à pessoa ou contra seus filhos (CPP, art. 318-A).
+O c. STF, no julgamento do Habeas Corpus Coletivo no 143.641/SP, determinou a conversão da prisão preventiva por domiciliar – sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP – a todas as mulheres presas, gestantes, puérperas ou mães de crianças e deficientes.
+Todavia, o entendimento adotado não autoriza a conversão imediata/automática da custódia preventiva em domiciliar para todas as presas que estão grávidas e/ou tenham filhos menores, visto que “estabelece alguns critérios e, inclusive, possibilita o juiz a excepcionar a regra” (TJMT, HC no 1002987-82.2018.8.11.0000 - Relator: Des. Orlando de Almeida Perri - 26.4.2018).
+No caso, a segregação da paciente está justificada na garantia da ordem pública, consubstanciada no transporte interestadual de aproximadamente 17kg (dezessete quilos) de maconha; no descumprimento das “condições estabelecidas para permanecer em prisão domiciliar” [rompimento de tornozeleira eletrônica menos de 1 (um) mês após a instalação]; bem como na reiteração delitiva superveniente, pois a paciente foi presa em flagrante no dia 13.05.2020 transportando 7.300kg (sete quilos e trezentos gramas) da mesma substância entorpecente - maconha - (Código 623681/Comarca de Cuiabá).
+A considerável quantidade de maconha apreendida [aproximadamente 17kg], transportada entre Estados da Federação, em ônibus coletivo, justifica a constrição cautelar, conforme posição jurisprudencial do c. STJ e deste e. Tribunal (STJ, HC 581125/PR – Relator: Min. Joel Ilan Paciornik – 29.6.2020; TJMT, Enunciado Criminal 25).
+Não bastasse, a reiteração delitiva específica autoriza, em si, a segregação cautelar para garantia da ordem pública (STJ, HC no 550.211/SP – Relator: Min. Antonio Saldanha Palheiro – 17.3.2020).
+Nessa vertente, anote-se o Enunciado Criminal 6 deste e. Tribunal:
+“O risco de reiteração delitiva, fator concreto que justifica a manutenção da custódia cautelar para a garantia da ordem pública, pode ser deduzido da existência de inquéritos policiais e de ações penais por infrações dolosas em curso, sem qualquer afronta ao princípio da presunção de inocência.” (www.tjmt.jus.br)
+O direito à prisão domiciliar deve ser aferido mediante ponderação entre o risco social advindo da conversão da custódia preventiva e as razões humanitárias em prol da proteção integral do direito das crianças e das grávidas (TJMT, HC N.U 1007226-95.2019.8.11.0000 - Primeira Câmara Criminal - 2.8.2019).
+Em caso análogo, esta e. Câmara decidiu:
+“Se as circunstâncias do caso concreto conduzirem à presunção de que a concessão de prisão domiciliar à paciente representa, indiscutivelmente, risco de reiteração delitiva, impõe-se manter a sua custódia preventiva, sobretudo porque preenchidos seus pressupostos autorizadores. Apresenta-se impertinente o pedido de prisão domiciliar baseado no argumento vago de que a presença materna no lar é imprescindível. [...]” (HC N.U 1016586-54.2019.8.11.0000 - Relator: Des. Orlando de Almeida Perri - 4.12.2019)
+Logo, a paciente não faz jus à prisão domiciliar, ao menos em análise perfunctória.
+Por fim, ao avaliar a aplicabilidade das medidas cautelares alternativas (CPP, art.282. § 6o), não se verifica, em sede liminar, que seriam suficientes para preservar a ordem pública da reprodução de fatos criminosos diante da reiteração delitiva específica supracitada (Código 623681/Comarca de Cuiabá), notadamente por incorrer em conduta ilícita menos de 1 (um) ano após a concessão de prisão domiciliar nesta ação penal (STJ, HC no 367.118/RS - Relator: Min. Jorge Mussi - 14.3.2017).
+Com essas considerações, INDEFERE-SE o pedido liminar.
+Outrossim, COMUNIQUE-SE o Juízo singular sobre esta impetração, facultadas informações, no prazo de até 5 (cinco) dias.
+Cumpra-se.
+Cuiabá, 15 de julho de 2020.
+Des. MARCOS MACHADO
