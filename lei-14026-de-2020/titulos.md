@@ -1,0 +1,3 @@
+Dispõe sobre a criação da Agência Nacional de Águas e Saneamento Básico (ANA), entidade federal de implementação da Política Nacional de Recursos Hídricos, integrante do Sistema Nacional de Gerenciamento de Recursos Hídricos (Singreh) e responsável pela instituição de normas de referência para a regulação dos serviços públicos de saneamento básico.
+Dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas e Saneamento Básico (ANA) e dá outras providências.
+Estabelece as diretrizes nacionais para o saneamento básico; cria o Comitê Interministerial de Saneamento Básico; altera as Leis n os 6.766, de 19 de dezembro de 1979, 8.666, de 21 de junho de 1993, e 8.987, de 13 de fevereiro de 1995; e revoga a Lei nº 6.528, de 11 de maio de 1978.
