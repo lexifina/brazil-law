@@ -17,7 +17,7 @@ XV - descrição das formas e dos limites da participação do poder público lo
 XVI - meios a serem utilizados para o controle e a fiscalização, no âmbito local, da implementação e operacionalização dos planos de gerenciamento de resíduos sólidos de que trata o art. 20 e dos sistemas de logística reversa previstos no art. 33;
 XVII - ações preventivas e corretivas a serem praticadas, incluindo programa de monitoramento;
 XVIII - identificação dos passivos ambientais relacionados aos resíduos sólidos, incluindo áreas contaminadas, e respectivas medidas saneadoras;
-XIX - periodicidade de sua revisão, observado prioritariamente o período de vigência do plano plurianual municipal.
+XIX - periodicidade de sua revisão, observado o período máximo de 10 (dez) anos.
 § 1º O plano municipal de gestão integrada de resíduos sólidos pode estar inserido no plano de saneamento básico previsto no art. 19 da Lei nº 11.445, de 2007, respeitado o conteúdo mínimo previsto nos incisos do caput e observado o disposto no § 2º, todos deste artigo.
 § 2º Para Municípios com menos de 20.000 (vinte mil) habitantes, o plano municipal de gestão integrada de resíduos sólidos terá conteúdo simplificado, na forma do regulamento.
 § 3º O disposto no § 2º não se aplica a Municípios:
