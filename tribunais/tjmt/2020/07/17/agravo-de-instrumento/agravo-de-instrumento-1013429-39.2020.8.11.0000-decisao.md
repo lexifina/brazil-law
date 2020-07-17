@@ -1,0 +1,23 @@
+RAI No 1013429-39.2020.811.0000
+VISTOS...
+Agravo de instrumento, com pedido de efeito suspensivo, interposto pela Agemed Saúde S/A, em face da decisão proferida nos autos da Ação de Obrigação de Fazer, proposta por Gilza de Assis Garcia, que determinou a realização do procedimento cirúrgico via hemodinâmica denominado Implante Transcateter de Prótese Valvar Aórtica (TAVI), devendo arcar com todos os custos que se fizerem necessários ao procedimento, no prazo de 05 (cinco) dias, sob pena de multa diária no valor de R$ 10.000,00 (dez mil reais).
+Nas razões recursais, sustenta a agravante que o contrato com a agravada fora rescindido em fevereiro/2020 e, portanto, sem a existência de qualquer vínculo contratual, requer a concessão do efeito suspensivo e a revogação da medida liminar.
+Por fim, pugna pelo deferimento da justiça gratuita, diante da hipossuficiência econômica, ante a liquidação extrajudicial determinada pela ANS.
+É o que merece registro.
+Decido.
+Compulsando os autos, em fase de cognição sumária, não verifico a existência dos requisitos para o acolhimento do efeito suspensivo pretendido.
+Isso porque, apesar da rescisão contratual entre as partes ter ocorrido em fevereiro/2020 em decorrência da liquidação extrajudicial determinada pela ANS, restou estabelecido através das Resoluções Operacional nos. 2.483/2019, 2.502/2020 e 2.535/2020, a alienação da carteira de beneficiários, concedendo, inicialmente o prazo de 60 dias e posteriormente, prorrogando para até 03/07/2020, para que os beneficiários promovam a portabilidade especial e, portanto, até essa data deve permanecer com suas obrigações contratuais.
+Aliás, nesse sentido vejamos:
+“RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO DE OBRIGAÇÃO DE FAZER - TUTELA DE URGÊNCIA DEFERIDA – RESOLUÇÃO UNILATERAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS MÉDICO-HOSPITALARES (PLANO DE SAÚDE EMPRESARIAL) POR DESEQUILÍBRIO CONTRATUAL – SINISTRALIDADE ATUAL DE 388,86% - ALEGADO CUMPRIMENTO DADOS REQUISITOS DO ART.17 DA RESOLUÇÃO NORMATIVA No 195/2009 DA ANS – RESOLUÇÃO EM RELAÇÃO A BENEFICIÁRIO EM GRAVE ESTADO DE SAÚDE – IMPOSSIBILIDADE - RESOLUÇÃO APENAS QUANTO AOS DEMAIS – PRAZO DE 30 (TRINTA) DIAS PARA A MIGRAÇÃO PARA OUTRO PLANO – RECURSO PARCIALMENTE PROVIDO.
+“O plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009). Nada obstante, no caso de usuário em estado de saúde grave, independentemente do regime de contratação do plano de saúde (coletivo ou individual), deve-se aguardar a conclusão do tratamento médico garantidor da sobrevivência e/ou incolumidade física para se pôr fim à avença.” (STJ - AgInt no AREsp 1.433.637/SP).
+Apesar de ser garantido à operadora do plano de saúde o direito à resolução unilateral da avença quando preenchidos os requisitos normativos aplicáveis à espécie, conveniente que se conceda aos beneficiários do plano rescindendo um prazo mínimo necessário para a migração para outro plano ou operadora, em homenagem aos princípios constitucionais da razoabilidade e da dignidade da pessoa humana.” (N.U 1015325-54.2019.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, MARILSEN ANDRADE ADDARIO, Segunda Câmara de Direito Privado, Julgado em 05/02/2020, Publicado no DJE 12/02/2020)
+Na hipótese, verifica-se que a agravada é portadora de disfunção de bioprótese em posição aórtica e ante o grave risco de morte e complicações, para intervenção cirúrgica aberta, a indicação médica é de realizar o implante transcateter de prótese valvar aórtica – TAVI (Id no 3229798 – processo originário)
+Sendo assim, evidente que a autora, ora agravada, possui prejuízos de difícil reparação, inclusive com risco de morte, caso a decisão recorrida não seja observada.
+Outrossim, a agravante não demonstrou o prejuízo de difícil ou incerta reparação que exija o deferimento do efeito suspensivo pretendido neste momento, porque em caso de improcedência do pedido veiculado na demanda originária, possui mecanismos adequados para busca de eventual prejuízo financeiro que venha a suportar em razão do tratamento oferecido a ora agravada.
+Isso posto, indefiro o efeito suspensivo.
+Defiro o pedido do benefício de justiça gratuita, diante dos documentos juntados no Id 49423479.
+Comunique-se ao Juízo a quo, solicitando-lhe informações.
+Em seguida, intime-se a agravada para, querendo e no prazo legal, apresentar contrarrazões.
+Cuiabá, 13 de julho de 2020.
+José Zuquim Nogueira
+Desembargador Relator
