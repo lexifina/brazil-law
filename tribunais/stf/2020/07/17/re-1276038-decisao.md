@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (Vol. 5, fl. 27):
+    “EMENTA: APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. SENTENÇA QUE CONCEDEU A SEGURANÇA REQUESTADA, DETERMINANDO QUE A AUTORIDADE COATORA SE ABSTIVESSE DE EXIGIR O DIFERENCIAL DE ALÍQUOTA SOBRE O CAFÉ CRU. REGULAMENTO DO ICMS, EM CONJUNTO COM O CONVÊNIO N.° 128/94, OS QUAIS REGULAM A DIMINUIÇÃO DA ALÍQUOTA DOS PRODUTOS QUE INTEGRAM A CESTA BÁSICA, DENTRE ELES O CAFÉ TORRADO MOÍDO OU SOLÚVEL. CONDUTA IMPUGNADA QUE FAVORECE EMPRESAS QUE DESEMPENHAM ATIVIDADE DE TORRAÇÃO E MOAGEM DE CAFÉ EM OUTROS ESTADOS DA FEDERAÇÃO EM DETRIMENTO DE EMPRESAS QUE REALIZAM A MESMA ATIVIDADE NO ESTADO DE ALAGOAS. POSSIBILIDADE DE EXTENSÃO DO BENEFÍCIO AO CAFÉ CRU, EM DECORRÊNCIA DA FINALIDADE DA NORMA E DA APLICAÇÃO DO PRINCÍPIO DA ISONOMIA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE”.
+    Opostos Embargos de Declaração, foram acolhidos sem efeitos infringentes, tão somente para afastar a alegação de ofensa ao princípio da separação dos Poderes (fl. 23, Vol. 6).
+    No apelo extremo (fl. 16, Vol. 7), interposto com amparo no art. 102, III, “a” e “c”, da Constituição Federal, a parte recorrente sustenta que o acórdão recorrido violou os artigos 2°; 5°, caput; e 150, II, da CF/1988. Alega, em síntese, que, ao estender ao café cru a isenção conferida ao café torrado, houve violação ao princípio da separação dos Poderes, bem como da isonomia.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Além disso, foram os seguintes os fundamentos do acórdão recorrido para decidir a controvérsia (Vol. 5, fls. 30-31):
+    “13. Pois bem. Inicialmente, cumpre-me transcrever o dispositivo constante no Decreto n° 35.245/1991 (RICMS) que concedeu ao café torrado o beneficio de redução da base de cálculo.
+    Confira-se, in verbis:
+    Regulamento do ICMS - Anexo 11:
+    20 - Nas operações internas e de importação com as mercadorias abaixo relacionadas, redução da base de cálculo em 58,82% (cinqüenta e oito inteiros e oitenta e dois centésimos por cento). (Convênio ICMS 128/94):(NR)
+    [..]
+    IV - café torrado, moído ou solúvel;
+    14. O beneficio em comento foi concedido em decorrência do disposto no Convênio ICMS n.° 128/94, cuja cláusula primeira se encontra redigida da seguinte forma:
+    Cláusula primeira: Ficam os Estados e o Distrito Federal autorizados a estabelecer carga tributária mínima de 7% (sete por cento) do ICMS nas saídas internas de mercadorias que compõem a cesta básica.
+    15. Tem-se, desse modo, que, ao conceder a benesse fiscal em questão, buscou-se diminuir a carga tributária dos produtos que integram a cesta básica, e, por via de consequência, que o preço de tais produtos restasse mais acessível à população.
+    […]
+    19. Dito isso, tem-se que diminuir a alíquota do café torrado sem reduzir, também, a alíquota de sua matéria prima, qual seja, o café cru, esvaziaria o sentido da norma tributária em análise, pois implicaria, ainda que indiretamente, no aumento do produto ao qual o beneficio é destinado (café torrado)”.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ainda, para se chegar à conclusão diversa da exarada no acórdão recorrido, seria necessária a análise dos fatos e provas constantes dos autos, o que é inviável nessa seara recursal. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) do STF.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 17 de julho de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
