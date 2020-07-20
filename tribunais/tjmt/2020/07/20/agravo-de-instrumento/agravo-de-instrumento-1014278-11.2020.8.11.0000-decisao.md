@@ -1,0 +1,21 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por SIPCAM NICHINO BRASIL S/A, com o fito de suspender a decisão que, nos autos da Ação Declaratória de Extinção de Obrigação c/c Consignação em Pagamento de no 1003244-25.2020.811.0037, ajuizada por SÉRGIO LUIZ MONTANHER, deferiu o pedido de tutela de urgência e determinou o imediato levantamento do penhor cedular referente à Cédula de Produto Rural no 026/2019, assim como impôs a agravante a obrigação de se abster do protesto da duplicata no 2473, com vencimento para 30/08/2020.
+Para tanto, a agravante alega que, ao contrário do entendimento do magistrado singular, os requisitos para o deferimento da tutela de urgência não foram suficientemente demonstrados, sobretudo porque jamais autorizou a substituição do volume remanescente de 24.000 kg de soja da CPR em questão pela duplicata mercantil de no 2473, a qual o autor sequer acostou aos autos com o suposto endosso da corré Indiana Agricomércio e Exportação de Cereais Eireli.
+Alega que é legítimo o seu direito de manter o penhor cedular referente ao saldo em aberto da CPR 026/2019, acrescidos das correções previstas no referido título, vencido em 30/04/2020, já que não autorizou o agravado e a corré mencionada a negociarem a CPR de sua titularidade.
+Sustenta, ainda, que o agravado não garantiu o juízo, de forma que o levantamento do penhor cedular sem a garantia por meio do valor correspondente ao volume de soja em aberto poderá lhe gerar danos irreparáveis.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Apesar do esforço da agravante, por ora, não há nada que convença da liminar pleiteada.
+É que, apesar da ausência da duplicata mercantil no 2374 com o suposto endosso da corré Indiana Agricomércio, os e-mails e as conversas por meio de aplicativo entre o preposto da agravante e o filho do agravado (id. 49332959 – Pág. 20 e ss e 47 e ss) evidenciam as tratativas realizadas entre as partes no sentido de que a CPR seria baixada pela agravante, diante da substituição deste título por aquele, havendo, inclusive, afirmação positiva do funcionário da agravante de que a pretendida baixa já havia sido efetivada, o que corrobora a probabilidade do direito do agravado.
+O perigo de dano, igualmente, restou evidenciado, mormente porque a existência da restrição imposta pelo penhor cedular, inclusive sobre os valores já pagos pelo requerido (300.000 kg soja), inviabilizará o plantio de nova safra.
+Outrossim, a medida pode ser revertida a qualquer tempo, inclusive quando da análise do mérito do presente agravo, quando, então, a agravante poderá proceder com a averbação desejada.
+Diante desse quadro, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
