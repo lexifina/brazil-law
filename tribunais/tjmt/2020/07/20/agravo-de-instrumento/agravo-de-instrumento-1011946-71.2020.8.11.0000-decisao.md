@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1011946-71.2020.8.11.0000 - CLASSE 202 - CNJ - TANGARÁ DA SERRA
+Agravante : BANCO BRADESCO FINANCIAMENTOS S.A.
+Agravado : MICHEL NASCIMENTO
+Número do Protocolo : 1011946-71.2020.8.11.0000
+Recurso de AGRAVO DE INSTRUMENTO interposto por BANCO BRADESCO FINANCIAMENTOS S.A. contra a r. decisão proferida pelo MM. Juiz de Direito da 1a Vara Cível da Comarca de Tangará da Serra/MT, que nos autos da ação de “Busca e Apreensão” (Número Único 0003963-67.2020.8.11.0055 – Código 336336), ajuizada pelo agravante contra MICHEL NASCIMENTO, indeferiu o pleito de análise em plantão extraordinário da liminar e de expedição de mandado de busca e apreensão do veículo alienado fiduciariamente, por entender que não restou objetivamente comprovada a urgência da medida, nos termos do art. 5o da Portaria-Conjunta no 249/2020 do TJMT e do art. 4o da Resolução no 313/2020 do CNJ, “postergando, então, a análise e cumprimento, se for o caso, da medida liminar para quando do retorno das atividades normais (daquela) unidade judiciária” (cf. ID 45307479).
+O agravante sustenta que a análise do pedido liminar e a consequente expedição de mandado de busca e apreensão em regime de plantão se fazem necessárias na hipótese dos autos, nos termos dos incisos II e V da Resolução no 313/2020 do CNJ, ressaltando que a suspensão de alguns serviços por conta da pandemia de Covid-19 não impede a análise dos pedidos liminares.
+Alega, ainda, que o bem cuja apreensão é pretendida “se trata de um automóvel que constantemente está em movimento nas rodovias, tornando muito difícil sua apreensão (e que) a localização do bem garantia da ação é um grande passo para a parte autora que vem tentando recuperar seu crédito há meses”, além do que “a parte autora fora informada que o réu pretende mudar a localização do bem, o que trará prejuízos ao Banco” (cf. ID 45307466 - Pág. 3).
+Pede, pois, a reforma da decisão agravada, para que seja analisada e deferida a expedição de mandado de busca e apreensão do veículo dado em garantia fiduciária, em regime de plantão, nos termos da Resolução no 313/2020 do CNJ; desde logo, requer a antecipação da pretensão recursal no mesmo sentido (cf. ID 45307466).
+É a suma.
+D E C I D O
+Sem delongas, a concessão da antecipação dos efeitos da tutela recursal exige “elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo” (CPC, art. 300), ou seja, não se opera automaticamente só porque a parte quer e requer, exigindo fundamentos relevantes apoiados em prova idônea e, ainda, a demonstração de que o diferimento da análise do pleito recursal possa tornar inútil a pretensão almejada se mais tarde concedida.
+No caso, não enxergo necessidade de imediato pronunciamento jurisdicional sobre o tema recursal e, muito menos, que a manutenção da decisão agravada poderá acarretar danos irreparáveis ao agravante, ou, então, que, caso mantida até ulterior julgamento da questão, caracterizará risco de perecimento fatal ao direito pleiteado, até mesmo porque, conforme destacado na decisão agravada, não há qualquer prova de que o réu/agravado pretenda ocultar o veículo, mesmo porque este foi localizado e não consta que se encontre em local diverso do endereço constante do contrato e da petição inicial.
+Pelo exposto, não se observando perigo de dano ou o risco ao resultado útil do processo, recebo o recurso nos termos do art. 1.019 do CPC/2015, mas INDEFIRO o pedido de antecipação da pretensão recursal (CPC/2015, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá, 20 de julho de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
