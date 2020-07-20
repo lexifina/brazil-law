@@ -1,0 +1,49 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial em Apelação Cível n. 1020357-48.2018.8.11.0041
+RECORRENTE: UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO
+RECORRIDOS: EDINEIA APARECIDA DA SILVA BUCAIR E OUTRO
+Vistos, etc.
+Trata-se de Recurso Especial interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra acórdão da QUARTA CÂMARA DE DIREITO PRIVADO (ID 46727493):
+“APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MORAIS - PRELIMINAR - CERCEAMENTO DE DEFESA - REJEITADA - PLANO DE SAÚDE - NEGATIVA DE FORNECIMENTO DE MEDICAMENTO DE USO OFF-LABEL – INDICAÇÃO MÉDICA - RECUSA INDEVIDA – CLÁUSULA CONTRATUAL ABUSIVA – COBERTURA DEVIDA – DANO MORAL – CONFIGURADO – VALOR INDENIZATÓRIO ADEQUADO – RECURSO DESPROVIDO.
+Não há falar em cerceamento de defesa se a prova requerida se revela desnecessária à solução da controvérsia, máxime quando os demais elementos do processo se mostraram suficientes para a formação de juízo seguro sobre os fatos discutidos na lide.
+Os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não podem limitar os tratamentos a serem realizados, inclusive os equipamentos e medicamentos necessários à realização dos procedimentos.
+As cláusulas contratuais relativas à cobertura nos contratos de assistência médica e hospitalar (plano de saúde) devem ser interpretadas de maneira mais favorável ao paciente, em homenagem ao princípio da dignidade da pessoa humana e do direito constitucional à saúde.
+A recusa indevida de realização de procedimento e/ou fornecimento de medicamento por parte da operadora do plano de saúde não configura apenas mero aborrecimento por inadimplemento contratual, mas sim dano moral.
+Mostra-se razoável o valor arbitrado a título de danos morais se levada em conta tanto a capacidade econômica do ofensor quanto as condições do ofendido, além da observância aos princípios da proporcionalidade e razoabilidade.” (N.U. 1020357-48.2018.8.11.0041, DES. GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 17/06/2020).
+Alega violação ao artigo 10, I e 35-F da Lei 9.656/98, artigo 4o, III, da Lei 9.961/00, artigos 51, IV, §1o, II e 54, §4o, do CDC, artigos 7 o, 355 e 369 do CPC e artigos 186, 188, I, 421, 422 e 927 do CC.
+Recurso tempestivo (ID 49935039).
+Contrarrazões (ID 50628969).
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+A Recorrente defende a legalidade da negativa de cobertura de tratamento experimental (off label), porquanto o medicamento “Stivarga - REGORAFINIB”, não possuem registro na ANVISA para o fim que pretende a Recorrida o que os qualifica como medicamentos experimentais, que possuem expressa proibição legal de fornecimento em consonância com as normas técnicas reguladas pela Agência Nacional de Saúde Suplementar - ANS.
+No acórdão impugnado ficou consignado que:
+“Dessa forma, não se pode aceitar como justificativa para a recusa do tratamento o fundamento de que há cláusula contratual expressa de exclusão ou que este não se encontra previsto no rol de Resolução do Conselho Federal de Medicina ou da Agência Nacional da Saúde. Não se pode alijar o consumidor das inovações da medicina em razão do desconhecimento ou da inoperância do órgão público responsável pela regulamentação da matéria.
+Ademais, as cláusulas contratuais relativas à cobertura nos contratos de assistência médica e hospitalar (plano de saúde) devem ser interpretadas de maneira mais favorável ao paciente, em homenagem ao princípio da dignidade da pessoa humana e do direito constitucional à saúde.(...)
+Assim, verificada a indicação médica para o uso do medicamento em questão (Id. 41980468 - P. 2), não há que se falar em ausência de cobertura ou de previsão em resoluções para o fornecimento do medicamento.” (ID 46727493)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que, conforme se extrai da ementa do julgado abaixo:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.(...)
+3. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato. Precedentes.(...).” (AgInt no REsp 1849149/SP, Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 01/04/2020).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta ao artigo 10, I e 35-F da Lei 9.656/98, artigo 4o, III, da Lei 9.961/00, artigos 51, IV, §1o, II e 54, §4o, do CDC e artigos 421 e 422 do CC, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais, o que afasta o exame de matéria fático-probatória, conforme dispõe a sua Súmula 7.
+A suposta violação aos artigos 186, 188 e 927 do CC está amparada na alegada ausência os requisitos autorizadores da reparação civil, uma vez que ao negar autorização de cobertura de fornecimento de tratamento experimental, a Recorrente agiu em observância à Lei n. 9.656/98, regulamentações da ANS e nas cláusulas contratuais pactuadas entre as partes.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE CUSTEIO. COMPROVAÇÃO. DANO MORAL. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVA. VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ.
+1. Para prevalecer a pretensão recursal em sentido contrário à conclusão do tribunal de origem, que reconheceu a negativa de custeio, seria necessário revisar o conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7/STJ que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional. (...).” (AgInt no AREsp 1297893/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/10/2018, DJe 08/10/2018).
+Quanto a suposta violação aos artigos 7o, 355, I e 369 do CPC está amparada na alegada ocorrência de cerceamento de defesa, em razão do julgamento antecipado da lide, sem oportunizar a produção da prova pericial requerida é necessário o exame de fatos e provas, o que atrai, consequentemente, o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. POSSIBILIDADE. DÉBITO. COMPROVAÇÃO. DOCUMENTOS HÁBEIS. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA No 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. (...) 2. Sendo o nosso sistema processual civil orientado pelo princípio do livre convencimento motivado, ao magistrado é permitido formar a sua convicção em qualquer elemento de prova disponível nos autos bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento, de forma que a intervenção desta Corte quanto a tal valoração encontra óbice na Súmula no 7/STJ. 3. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, revolve a causa sem a produção da prova oral requerida pela parte em virtude da suficiência dos documentos dos autos. 4. A prova hábil a instruir a ação monitória deve demonstrar a existência da obrigação através de documento escrito e suficiente que permita o juízo de probabilidade do direito afirmado pelo autor. Precedentes. 5. Rever o entendimento do tribunal de origem, para aferir que os documentos juntados aos autos são suficientes para a instrução da ação monitória, demandaria a incursão nas circunstâncias fático-probatórias dos autos, o que é inviável em recurso especial diante do óbice da Súmula no 7/STJ. 6. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. 7. Agravo interno não provido.” (AgInt no AREsp 1188742/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018).
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 20 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XI
