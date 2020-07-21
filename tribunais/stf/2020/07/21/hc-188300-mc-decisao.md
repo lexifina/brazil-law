@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “’HABEAS CORPUS’ SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE EVIDENCIADA. INTEGRANTE DE FACÇÃO CRIMINOSA. CIRCUNSTÂNCIAS DO DELITO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE ‘REFORMATIO IN PEJUS’ PELO TRIBUNAL ‘A QUO’. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ‘HABEAS CORPUS’ NÃO CONHECIDO.
+    1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal – STF e do próprio Superior Tribunal de Justiça – STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+    2. O Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal – CPP.
+    3. As instâncias ordinárias entenderam que restou demonstrada a periculosidade concreta do paciente, evidenciada, especialmente, pelo fato de integrar associação criminosa responsável por intenso comércio de drogas, sendo um dos responsáveis por cumprir as determinações dadas pelo líder do grupo, que se encontra custodiado. Tais circunstâncias, somadas ao fato de ter sido apreendida, quando da prisão de um dos integrantes do bando, 66,80g de cocaína, 25,50g de ‘crack’ e 237,50g de maconha, demonstram risco ao meio social e a imprescindibilidade da custódia a fim de garantir a ordem pública.
+    4. Destaca-se, ainda, a necessidade da prisão preventiva como forma de interromper ou reduzir a atividade do grupo criminoso, enfraquecendo a atuação da facção.
+    5. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+    6. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+    7. Somente se verifica a existência de ‘reformatio in pejus’ quando, em recurso exclusivo da defesa, o Tribunal promove o agravamento da situação do acusado, o que não se verificou na hipótese dos autos, na qual, o Tribunal de origem não inovou nos fundamentos utilizados para justificar a decretação da prisão preventiva, tendo mantido a segregação ante as circunstâncias do delito.
+    8. ‘Habeas corpus’ não conhecido.”
+    (HC 549.771/RS, Rel. Min. JOEL ILAN PACIORNIK – grifei)
+    Busca-se, em sede cautelar, seja assegurado ao paciente o direito de estar em liberdade.
+    O exame dos fundamentos em que se apoia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida pela parte impetrante.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar.
+    2. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 21 de julho de 2020.
+Ministro CELSO DE MELLO
+Relator
