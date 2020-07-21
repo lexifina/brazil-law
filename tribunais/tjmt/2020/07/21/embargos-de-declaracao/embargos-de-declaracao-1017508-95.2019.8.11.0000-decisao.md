@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+EMBARGOS DE DECLARAÇÃO No 1017508-95.2019
+EMBARGANTE: ELIAS SOARES DOS SANTOS.
+EMBARGADO: AMAURI ZENI.
+Vistos
+Aguarde-se o transcurso do prazo de 60 (sessenta) dias (id. 46712456) ou até que sobrevenha manifestação das partes.
+Após, voltem conclusos.
+DES. DIRCEU DOS SANTOS
+RELATOR
