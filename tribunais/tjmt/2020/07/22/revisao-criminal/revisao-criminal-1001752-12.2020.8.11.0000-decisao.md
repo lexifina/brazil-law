@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA REVISÃO CRIMINAL N. 1001752-12.2020.8.11.0000
+RECORRENTE: JANDERSON DOS SANTOS LOPES
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 50405465) interposto por JANDERSON DOS SANTOS LOPES, com fundamento no art. 105, III, “a”, da Constituição Federal, contra acórdão da Turma de Câmaras Criminais Reunidas deste Sodalício, assim ementado (Id. 43669483):
+“REVISÃO CRIMINAL – TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO – PARECER DA PGJ PELA EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO – ADMISSÃO DA REVISIONAL – PRETENDIDA ANULAÇÃO DA SENTENÇA PROFERIDA – ALEGADA NULIDADE NO INDEFERIMENTO DE PERÍCIA DE VOZ E NA OITIVA DE TESTEMUNHA – IMPERTINÊNCIA – REDISCUSSÃO DE TESES JÁ ENFRENTADAS PELO JUÍZO SENTENCIANTE E NA FASE RECURSAL – INEXISTÊNCIA DE NOVOS ELEMENTOS PROBATÓRIOS A AUTORIZAR A CASSAÇÃO DO ÉDITO CONDENATÓRIO – IMPOSSIBILIDADE DE UTILIZAR REVISÃO CRIMINAL COMO SUCEDÂNEO RECURSAL – AÇÃO JULGADA IMPROCEDENTE, EM CONSONÂNCIA COM O PARECER MINISTERIAL. Admite-se a revisão criminal quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena. A imprestabilidade da ação para rediscutir questões debatidas e decididas, inclusive em sede recursal, é temática a ser enfrentada no mérito da revisional, pois é nesta fase que será analisada a tese defensiva e a presença de algum dos requisitos listados no artigo 621 do Código de Processo Penal. A revisão criminal não pode ser utilizada para rediscutir teses amplamente debatidas no curso da ação penal, inclusive na fase recursal, como apenas mais um meio de impugnação a serviço da defesa, sem que os fundamentos do pedido encontre amparo em novos elementos de prova, em erro quanto à existência ou ausência de determinado documento ou na manifesta colidência com a lei ou com a prova dos autos.” (RevCrim 1001752-12.2020.8.11.0000, DES. ORLANDO DE ALMEIDA PERRI, TURMA DE CÂMARAS CRIMINAIS REUNIDAS, Julgado em 02/07/2020)
+Alega violação, além de divergência jurisprudencial: (i) aos arts. 184 e 386, VII, ambos do CPP, diante da dispensa, sem prévia manifestação da Defesa, da realização da perícia de voz inicialmente deferida, a ensejar a absolvição por insuficiência de provas e (ii) ao art. 564, IV, do CPP, ao argumento de cerceamento de defesa diante do indeferimento da oitiva da testemunha Francisco Soares Lacerda.
+Recurso tempestivo (Id. 50636490).
+Contrarrazões – Id. 51018477.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ E 284 DO STF. DECISÃO MANTIDA. (...) 2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF. (...) 5. Agravo regimental não provido.” (AgRg no AREsp 828.593/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2016, DJe 18/04/2016) (destaquei)
+“PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NA QUESITAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INCIDÊNCIA DA AGRAVANTE POR TER SIDO O CRIME PRATICADO CONTRA CRIANÇA E DA QUALIFICADORA DA UTILIZAÇÃO DE RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DA VÍTIMA. AUSÊNCIA DE BIS IN IDEM. 1. Se, nas razões do recurso especial, a parte recorrente não infirma os fundamentos do acórdão recorrido, tem aplicação, por analogia, o Enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes. 2. Enquanto a agravante prevista art. 61, II, "h", do Código Penal é objetiva e incide em razão de ter sido praticado o crime contra criança, a qualificadora de que cuida o artigo 121, IV, do Código Penal envolve considerações específicas do caso concreto, para verificação acerca da presença de recurso que dificulte ou torne impossível a defesa da vítima, não havendo falar em bis in idem. 3. Agravo regimental improvido.” (AgRg no REsp 1634727/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017) (destaquei)
+In casu, a despeito de alegar ofensa aos arts. 184, 386, VII e 564, IV, todos do CPP, além de divergência jurisprudencial, verifica-se que o Recorrente se limitou a reproduzir, de forma praticamente literal, as razões contidas na Revisão Criminal, ignorando por completo os fundamentos consignados no acórdão recorrido para a rejeição das teses apresentadas.
+Dessa forma, considerando que as razões recursais não infirmaram os fundamentos do aresto, impossibilitando a exata compreensão da matéria apresentada, resta obstada a admissão do recurso, nos termos do enunciado sumular acima indicado.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 21 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
