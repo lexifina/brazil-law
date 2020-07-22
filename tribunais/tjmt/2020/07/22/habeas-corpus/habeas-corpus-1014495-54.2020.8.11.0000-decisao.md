@@ -1,0 +1,32 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1014495-54.2020.8.11.0000 - COMARCA DE PRIMAVERA DO LESTE
+IMPETRANTE: DR. JOAO BATISTA CAMARGO DA SILVA
+PACIENTE: JULIANA TIAGO DE BARROS
+Vistos,
+Habeas Corpus impetrado em favor de JULIANA TIAGO DE BARROS contra ato comissivo do Juízo da Vara Criminal da Comarca de Primavera do Leste, no incidente processual (no 1003757-90.2020.8.11.0037), que indeferiu a prisão domiciliar, em tese, de tráfico de drogas e associação ao tráfico - art. 33, caput, c/c art. 35 todos da Lei no 11.343/2006 - (Sistema Primus).
+A impetrante sustenta que “a custódia poderia ser convertida em prisão domiciliar, visto que a paciente é mãe de duas crianças, menores de 12 (doze) anos de idade, cujo genitor encontra-se segregado”.
+Requer a concessão da ordem liminarmente para que seja concedida a prisão domiciliar à paciente (ID 49790998), com documentos (ID 49795953/ID 49800952).
+Relatos.
+No dia 3.7.2020, o Juízo da Vara Criminal da Comarca de Primavera do Leste converteu o flagrante em prisão preventiva com a seguinte fundamentação:
+“[...]Por outro lado, em análise ao periculum libertatis, entendo que o elemento variável exigido pela lei para a conversão das prisões dos autuados em preventiva também se encontra presente no caso em comento, em especial a garantia da ordem pública, tendo em vista a gravidade concreta da conduta delitiva supostamente perpetrada por eles, vez que foram surpreendidos transportando grande quantidade de substância entorpecente, bem como o modus operandi, o qual visava sua distribuição, venda e por consequência o atingimento de grande quantidade de pessoas.
+Outrossim, verifica-se que a forma de acondicionamento em tabletes e a quantidade da substância entorpecente apreendida são fatores que indicam a dedicação à traficância, autorizando a decretação da prisão preventiva para a garantia da ordem pública.
+[...] Como se não bastasse, não se pode olvidar que a liberdade dos autuados certamente acarretará um sentimento de impunidade, o que gerará descrédito das instituições constituídas e irá encorajar ainda mais aqueles que não sentem respeito algum pela Justiça, merecendo, por isso, uma resposta firme e eficaz para conter a criminalidade crescente na cidade e região.
+[...] Vale registrar, ainda, que prisão cautelar dos autuados justifica-se igualmente para a aplicação da lei penal, vez que por meio de seus interrogatórios perante a autoridade policial extrai-se que não possuem residência com o distrito da culpa, bem como não consta nos autos qualquer comprovante de que exercem atividade licita.
+Além disso, importante ressaltar, também, que o caso em questão não comporta a aplicação das medidas cautelares previstas no art. 319 do CPP, porquanto seriam ineficazes e inadequadas para a garantia da ordem pública, sobretudo diante da grande quantidade de droga apreendida em poder dos autuados, bem como diante da possibilidade de voltar a delinquir.
+Ante o exposto, nos termos do art. 310 do CPP e seguintes, atento à prova da existência do crime e aos indícios suficientes de autoria, converto as prisões em flagrante dos autuados JULIANA TIAGO DE BARROS e HERCULES CHAVES LEITE em prisão preventiva para a garantia da ordem pública e para a aplicação da lei penal.” (Alexandre Delicato Pampado, juiz de Direito – ID 49790999).
+Em 20.7.2020, indeferiu prisão domiciliar, in verbis:
+“Como se sabe, o benefício almejado é uma faculdade judicial, a qual deve ser deferida quando demonstrada a dependência de pessoa menor de idade da presença dos pais.
+Ocorre, que no presente caso não vislumbro que a acusada preencha tal exigência, vez que embora possua filhos menores de idade, não há nos autos qualquer comprovação de que seja imprescindível aos cuidados dos infantes.
+Além do mais, a 2a turma do STF concedeu tal pedido em HC coletivo impetrado em favor de todas as presas provisórias do país que sejam gestantes ou mães de crianças e deficientes sob sua guarda e nos autos não há qualquer documento apto a demonstrar que os menores encontram-se efetivamente sob a guarda da autuada.
+Cabe ressaltar ainda, que a medida substitutiva ora requerida não se mostra adequada ao caso, pois conforme se infere dos autos, as investigações preliminares dão conta que a acusada foi presa em flagrante delito por estar, em tese, cometendo o tráfico de drogas juntamente com seu convivente, sendo presa nesta comarca transportando aproximadamente 20Kg de cocaína, levando a crer que em custódia domiciliar, muito provavelmente continuará a traficar.
+Desta feita, diante do não preenchimento dos requisitos exigidos para a concessão de tal benesse, o indeferimento do pedido de prisão domiciliar é medida que se impõe.” (Alexandre Delicato Pampado, juiz de Direito – incidente processual no 1003757-90.2020.8.11.0037- www.pje.tjmt.jus.br).
+Pois bem.
+A paciente comprovou ser mãe das crianças Yasmim Gabrielly Tiago Zocal de 5 (cinco) anos e Eduardo Henrique Tiago Zocal de 12 (doze) anos (ID 49800950).
+Após o advento da Lei no 13.769/2018, a substituição da custódia preventiva por domiciliar foi assegurada às mães de crianças, exceto em casos de crimes praticados com violência, grave ameaça à pessoa ou contra seus filhos (CPP, art. 318-A).
+Sopesada a idade dos filhos da paciente, sua primariedade (www.tjmt.jus.br e http://siap.tjmt.jus.br), o endereço certo [rua universitário III, quadra 03, lote 06, bairro residencial Universitário III, Cáceres-MT – ID 50256975] e o fato do genitor encontrar-se segregado cautelarmente, impõe-se a prevalência dos princípios da proteção integral e do melhor interesse da criança (CF, art. 227), a justificar a concessão da prisão domiciliar (STJ, RHC 113.045/SC - Rel. Ministro - 1o.7.2019, TJMT, HC N.U 1013901-74.2019.8.11.0000 – Relator: Des. Gilberto Giraldelli – Terceira Câmara Criminal – 14.10.2019).
+Com essas considerações, DEFERE-SE o pedido liminar para converter a prisão preventiva da paciente em prisão domiciliar, a qual deverá permanecer recolhida 24 (vinte e quatro) horas por dia, não podendo sair de sua moradia [rua universitário III, quadra 03, lote 06, bairro residencial Universitário III, Cáceres-MT] sem autorização judicial, sob pena de revogação (CPP, art. 318, V).
+Outrossim, OFICIE-SE ao Juízo singular para cumprimento da decisão, facultadas informações, no prazo de 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 21 de julho de 2020.
+Des. MARCOS MACHADO
