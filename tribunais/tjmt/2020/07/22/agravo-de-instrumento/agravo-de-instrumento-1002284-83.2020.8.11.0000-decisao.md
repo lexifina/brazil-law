@@ -1,0 +1,44 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE INSTRUMENTO N. 1002284-83.2020.8.11.0000
+RECORRENTES: JUARES DOMINGOS DOS SANTOS E OUTROS
+RECORRIDO: LEONIR CHAVES
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 48757995) interposto por JUARES DOMINGOS DOS SANTOS, PEDRO BONIFÁCIO e MARINETE FERNANDES DOS SANTOS BONIFÁCIO, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra acórdão da Quarta Câmara de Direito Privado deste Sodalício, assim ementado (Id. 38145997):
+“RECURSO DE AGRAVO DE INSTRUMENTO – EMBARGOS À EXECUÇÃO – PEDIDO DE EFEITO SUSPENSIVO INDEFERIDO REQUISITOS DA TUTELA JUDICIAL INDEMONSTRADOS –DECISÃO MANTIDA – RECURSO DESPROVIDO.1. O § 1o do art. 919 do Código de Processo Civil exige, para a atribuição de efeito suspensivo aos Embargos, a demonstração dos requisitos da tutela provisória de urgência, sendo eles a probabilidade do direito (fumus boni iuris), o perigo de dano e o risco ao resultado útil do processo (periculum in mora), bem como a existência de garantia pela penhora, depósito ou caução suficiente.2. No caso, desde o exame sumário do presente recurso não se vislumbrou o preenchimento dos requisitos exigidos para a atribuição de efeito suspensivo, tendo em conta que a agravante não logrou demonstrar a probabilidade do direito deduzido nos embargos à execução.” (AI 1002284-83.2020.8.11.0000, DESA. SERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 29/04/2020).
+Os Embargos de Declaração de Id. 42222987 opostos contra o aresto foram rejeitados (Id. 43243994).
+Alegam: (i) violação e divergência jurisprudencial acerca do art. 919, §1°, do CPC, ao argumento de que restaram preenchidos os requisitos legais para o deferimento do pedido de efeito suspensivo aos Embargos à Execução e (ii) violação ao art. 1.022 do CPC, sob a assertiva de omissão na análise do tema, notadamente diante da garantia do Juízo da execução.
+Recurso tempestivo (Id. 48866980).
+Contrarrazões – Id. 51172954.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Violação do art. 1.022 do CPC. Não ocorrência.
+Os Recorrentes defendem a ofensa ao art. 1.022 do CPC suscitando a omissão acerca da existência garantia do Juízo executório, uma vez que o título exequendo é uma escritura pública de confissão de dívida com garantia hipotecária, de modo que os requisitos para a suspensão pleiteada estariam atendidos.
+No entanto, a questão foi expressamente abordada pelo acórdão recorrido, como se observa da transcrição dos seguintes trechos:
+“Nas razões recursais, o embargante aduz que o acórdão é omisso, porquanto, a execução está garantida por penhora de bem dado em garantia hipotecária, bem como comprovou que a celebração de acordo de pagamento parcial da dívida que tem origem na prática de agiotagem, restando demonstrado o preenchimentos dos requisitos para a concessão do efeito suspensivo aos embargos à execução (ID 42222987)
+(...)
+No respectivo caso, em que pese a irresignação do embargante, razão não lhe assiste.
+Isso porque, o voto condutor do aresto foi pontual ao manifestar-se acerca das questões levantadas no processo, dando-lhes o devido fundamento.
+Com efeito, como consignado no decisum, apesar da urgência alegada, não se verifica, a princípio, prova capaz de sustentar a ineficácia do título que aparelha a ação de execução, não bastando para tanto, a simples alegação da prática de agiotagem, cuja comprovação, aliás, demanda dilação probatória.
+Da mesma forma, concluiu-se que os agravantes não lograram demonstrar a probabilidade do direito deduzido nos embargos à execução, razão pela qual se mostra acertada a decisão que deixou de atribuir efeito suspensivo aos Embargos à Execução.” (Ids. 43243992, p. 1, e 43243993, p. 1)
+Portanto, nota-se que o órgão fracionário analisou a matéria trazida nos autos, não havendo evidências de violação ao art. 1.022 do CPC.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, a suposta violação ao art. 919, §1°, do CPC, fundada na tese de que estão presentes os pressupostos para a concessão do efeito suspensivo aos Embargos à Execução, exige o exame do conjunto fático-probatório dos autos, o que atrai o óbice sumular acima mencionado.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE. 1. Não há negativa de prestação jurisdicional quando o acórdão recorrido julga de modo claro, coerente e fundamentado a controvérsia, mesmo quando não faz referência expressa a todos os argumentos e artigos indicados nas razões do recurso. 2. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 739-A do CPC/73 (art. 919, § 1o, do NCPC). 2.1 O Tribunal de origem, soberano na análise das provas, concluiu pela impossibilidade de se suspender a execução, de forma que a revisão do seu entendimento na via especial está obstada pela Súmula 7 desta Corte. 3. Agravo interno desprovido.” (AgInt no AREsp 1068492/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/03/2020, DJe 25/03/2020) (destaquei)
+“PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. REVISÃO. SÚMULA 7/STJ. 1. O art. 919, § 1o, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos Embargos à Execução quando presentes, cumulativamente, os seguintes requisitos: a) requerimento do embargante; b) relevância da argumentação; c) risco de dano grave de difícil ou incerta reparação; e d) garantia do juízo. 2. No caso dos autos, a Corte a quo entendeu que "apesar de sustentar a presença de todos os requisitos mencionados, não vislumbro no feito o perigo de dano apontado, que deve ser claro, manifesto e evidente para a concessão do efeito pretendido" (fl. 411, e-STJ). 3. A revisão dos fundamentos do acórdão recorrido, a fim de acolher a tese da recorrente de que os requisitos necessários à concessão de efeito suspensivo aos Embargos à Execução estariam preenchidos nos autos, exige reexame de matéria fático-probatória, o que é inviável em Recurso Especial, nos termos da Súmula 7/STJ. 4. Recurso Especial não conhecido.” (REsp 1731508/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/04/2018, DJe 24/05/2018) (destaquei)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ, senão vejamos:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA. (...) 2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura. 3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’. 4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto. 5. Recurso Especial não conhecido.” (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 21 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
