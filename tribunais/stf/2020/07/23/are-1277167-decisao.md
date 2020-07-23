@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO DE INSTRUMENTO – IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA – REJEIÇÃO – ALEGAÇÃO DE EXCESSO NA EXECUÇÃO – VANTAGENS PESSOAIS – VERBAS DE CARÁTER TRANSITÓRIO – TETO CONSTITUCIONAL – DESPESAS PROCESSUAIS – VALOR DEVIDO APURADO EM CONFORMIDADE COM A ORIENTAÇÃO DESTA CORTE. Impugnação ao cumprimento de sentença. A jurisprudência deste Tribunal orienta que a base de cálculo para liquidação das indenizações por licença prêmio não gozada deve corresponder à verba que faria jus o servidor se em atividade estivesse. Do mesmo modo, o limite remuneratório constitucional não se aplica ao caso, por se tratar de parcela de natureza indenizatória prevista em lei, conforme preceitua o parágrafo 11º, do artigo 37, da Constituição da República. Autor que adiantou o pagamento de custas e taxa judiciária, sendo seu pedido acolhido em sede recursal, com inversão dos ônus sucumbenciais. Manutenção da decisão. Negado provimento ao recurso.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, inciso XI; 40, § 7º e 8º; da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+    Ademais, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 1223164 segundo a sistemática da repercussão geral (Tema nº 1089), decidiu que: não há repercussão geral (questão infraconstitucional) - Analisada Preliminar de Repercussão Geral.
+    Ante o exposto, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e, quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de julho de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
