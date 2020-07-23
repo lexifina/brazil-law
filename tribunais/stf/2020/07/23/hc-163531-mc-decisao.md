@@ -1,0 +1,23 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+HABEAS CORPUS – PREJUÍZO PARCIAL.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Quarta Vara Criminal da Comarca de Aracaju/SE, nos autos da medida cautelar nº 201420490757, determinou a prisão preventiva dos pacientes Fábio Antônio Dezan, ocorrida em 17 de setembro de 2014, Deivit Roberto Dezan e Marciano Alves Fernandes, efetivadas no dia 3 dezembro de 2014, considerado o suposto cometimento dos delitos previstos no artigo 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), combinado com o 40, inciso V (causa de aumento de pena relativa à interestadualidade), da Lei nº 11.343/2006; 1º (lavagem de dinheiro) da Lei nº 9.613/1998; e 288 (associação criminosa) do Código Penal. Destacou conteúdo de interceptações telefônicas, no que revelada a atuação na remessa de 90 quilos de crack para Aracaju/SE, posteriormente apreendidos. Concluiu indispensável a custódia para garantir a ordem pública, aludindo ao envolvimento em grupo criminoso responsável por movimentar grandes carregamentos de drogas.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 435.669/SE, impetrado em favor do paciente Marciano Alves Fernandes. O Relator inadmitiu-o.
+    O impetrante alega excesso de prazo das prisões, dizendo-o decorrente da morosidade da instrução processual. Aponta inobservado o princípio da duração razoável do processo.
+    Requer, no campo precário e efêmero, o afastamento da custódia. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 22 de julho de 2020, revelou a condenação do paciente Marciano, no processo-crime nº 201820400126, em 3 de agosto de 2018, a 17 anos, 3 meses e 15 dias de reclusão, no regime inicial de cumprimento fechado, e ao pagamento de 1.646 dias-multa. O Juízo deixou de reconhecer o direito de recorrer em liberdade, reafirmando a necessidade da prisão preventiva. A defesa interpôs apelação, desprovida. O Presidente inadmitiu recurso especial. Protocolado agravo, foi encaminhado ao Superior Tribunal de Justiça no dia 27 de agosto de 2019. No sítio desse Tribunal, não consta haver sido o processo distribuído.
+    Considerada sentença proferida no processo-crime de nº 201520400879, Deivit foi condenado a 21 anos e 7 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 2.026 dias-multa, e Fábio a 18 anos, 3 meses e 18 dias de reclusão, em regime inicial fechado, e pagamento de 1.772 dias multa. O Juízo assentou permanecerem os motivos que ensejaram as custódias. Apelação interposta pela defesa foi desprovida. No Superior Tribunal de Justiça, o agravo em recurso especial nº 1.613.793/SE não foi conhecido pelo Presidente, vindo a ocorrer o trânsito em julgado da decisão em 17 de março de 2020.
+    2. Retifiquem a autuação para fazer constar, como coator, o Relator do habeas corpus nº 435.669/SE, do Superior Tribunal de Justiça.
+    Ante a notícia acerca da preclusão maior do título condenatório formalizado contra Deivit e Fábio, tem-se o prejuízo parcial do habeas, no que voltado ao afastamento das custódias provisórias desses pacientes.
+    O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, mediante ato fundamentado.
+    Apresentada motivação suficiente à manutenção da prisão, desde que levado em conta o lapso de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal.
+    O paciente Marciano Alves Fernandes está preso, sem culpa formada, desde 3 dezembro de 2014, tendo sido a prisão mantida na sentença, proferida em 3 de agosto de 2018. Uma vez não constatado ato posterior sobre a indispensabilidade da medida, formalizado nos últimos 90 dias, tem-se desrespeitada a previsão legal, surgindo o excesso de prazo.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente Marciano Alves Fernandes não esteja custodiado por motivo diverso da prisão preventiva retratada nos autos da medida cautelar nº 201420490757, mantida na sentença proferida no processo nº 201820400126, da Quarta Vara Criminal da Comarca de Aracaju/SE. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 23 de julho 2020.
+Ministro MARCO AURÉLIO
+Relator
