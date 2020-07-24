@@ -1,0 +1,16 @@
+DECISÃO
+MANDADO DE SEGURANÇA – CONSELHO NACIONAL DE JUSTIÇA – ATO DE CONTEÚDO NEGATIVO – SEGUIMENTO – NEGATIVA.
+    1. A assessora Isabela Leão Monteiro prestou as seguintes informações:
+    Enésio Ferreira da Silva impugna decisão do Conselho Nacional de Justiça, proferida no procedimento de controle administrativo nº 0005487-77.2020.2.00.0000, alusivo a concurso público de provimento de serventia extrajudicial do Estado do Maranhão – Edital nº 001/2016.
+    Segundo narra, em processo relativo a ação ajuizada por outra candidata, foi formalizado pronunciamento no sentido de tornar nula a questão nº 4 do certame – agravo de instrumento nº 0806607-79.2019.8.10.0000, relatora desembargadora Anildes de Jesus Bernardes Chaves Cruz, do Tribunal de Justiça do Maranhão.
+    Afirma haver buscado, perante a comissão organizadora, a extensão dos efeitos do ato judicial, o que foi negado. Diz formulado pedido de providências no Conselho Nacional de Justiça o qual, por meio de decisão proferida pela conselheira Flávia Pessoa, resultou na conversão em procedimento de controle administrativo e no arquivamento liminar.
+    Sustenta inobservados os princípios da isonomia e razoabilidade.
+    Requer, no campo precário e efêmero, a anulação do pronunciamento visando assegurar a eficácia contra todos da decisão do Tribunal de Justiça do Estado do Maranhão, bem como a suspensão da audiência de escolha de serventias, ou anulação, caso realizada, designada para os dias 22, 23 e 24 de julho. Postula atribuição de pontuação relativa à questão anulada e reclassificação no concurso.
+    2. A partir de critérios de Direito estrito, compete ao Supremo processar e julgar mandados de segurança impetrados contra atos das autoridades e órgãos citados no artigo 102, inciso I, alíneas “d” e “r”, da Constituição Federal. Considerada essa premissa, o pronunciamento mediante o qual determinado arquivamento de procedimento administrativo, de cunho negativo, não enseja a atuação do Tribunal. O exame da ação mandamental, nessa situação, implica a revisão de decisão proferida pela instância submetida a controle do Conselho – no caso o Tribunal de Justiça do Maranhão.
+    Observem os precedentes em que fixada a orientação. No mandado de segurança nº 26.749, o ministro Sepúlveda Pertence concluiu que surge a competência constitucional do Supremo apenas quando o Conselho Nacional de Justiça é o responsável pela alegada lesão ou ameaça a direito, o que não se verifica se a decisão não substituiu ou endossou ato anterior. O entendimento foi pacificado pelo Plenário, em 9 de junho de 2011, no julgamento do agravo no mandado de segurança nº 27.712, relator ministro Celso de Mello. Na ocasião, fez ver Sua Excelência:
+    O pronunciamento do Conselho Nacional de Justiça que consubstancie recusa de intervir em determinado procedimento ou, então, que envolva mero reconhecimento de sua incompetência ou, ainda, que nada determine, que nada imponha, que nada avoque, que nada aplique, que nada ordene, que nada invalide, que nada desconstitua não faz instaurar, para efeito de controle jurisdicional, a competência originária do Supremo Tribunal Federal.
+    3. Nego seguimento ao mandado de segurança, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo.
+    4. Publiquem.
+Brasília, 24 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
