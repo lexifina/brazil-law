@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0009316-48.2019.8.11.0015
+RECORRENTE: FABIO SANTANA CHAVES
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 50893473) interposto por FABIO SANTANA CHAVES, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Terceira Câmara Criminal deste Sodalício, assim ementado (Id. 34165461):
+“APELAÇÃO CRIMINAL – FURTO QUALIFICADO – ROMPIMENTO DE OBSTÁCULO – SENTENÇA CONDENATÓRIA – RECURSO DEFENSIVO – 1. ABSOLVIÇÃO – FURTO DE USO – INEXISTÊNCIA DE PROVA INEQUÍVOCA ACERCA DA INTENÇÃO DE DEVOLVER O OBJETO FURTADO – ANIMUS FURANDI EVIDENCIADO - IMPROCEDÊNCIA – 2. ROMPIMENTO DE OBSTÁCULO – AFASTAMENTO – PRESCINDIBILIDADE DE PROVA TÉCNICA – COMPROVAÇÃO POR OUTROS MEIOS – DECLARAÇÕES DA VÍTIMA E AUTO DE CONSTATAÇÃO INSTRUÍDO COM FOTOGRAFIAS – IMPROCEDÊNCIA. 3. SUBSTITUIÇÃO DA PENA POR RESTRITIVAS DE DIREITOS – IMPERTINÊNCIA – REQUISITOS PREVISTOS NO ART. 44, DO CP – INEXISTÊNCIA - RECURSO DESPROVIDO EM CONSONÂNCIA COM O PARECER MINISTERIAL.1. Se o objeto subtraído é encontrado em poder do agente, que além de não comprovar inequivocamente a intenção de uso momentâneo, afirma que o abandonaria após sua utilização, é inviável o acolhimento da tese de furto de uso. Aliás, de acordo com os ensinamentos de Luiz Regis Prado “Há necessidade de que o agente efetue a devolução da res, justamente pela ausência do animus sibi habendi; logo, se a coisa é abandonada ou devolvida involuntariamente (...), a hipótese é de furto propriamente dito”. (PRADO, Luiz Regis. Curso de direito penal brasileiro. 13a. ed. rev., atual. e ampl. São Paulo: RT, 2014, p. 885); 2. Para o reconhecimento da qualificadora do rompimento de obstáculo nos delitos de furto, é dispensável a elaboração de laudo pericial do local do crime, desde que haja outras provas amealhadas ao caderno processual, idôneas para tal fim, como as declarações extrajudiciais e judiciais da vítima, em harmonia com o auto de constatação, instruído com fotografias do local arrombado; 3. Não estão atendidos os requisitos necessários para substituição da pena privativa de liberdade por restritivas de direitos (art. 44, I, do CP), se o réu foi condenado a pena superior a 4 anos.” (Ap 0009316-48.2019.8.11.0015, DES. RONDON BASSIL DOWER FILHO, TERCEIRA CÂMARA CRIMINAL, Julgado em 10/06/2020)
+Alega violação ao art. 155, § 4o, I, do CP, bem como aos arts. 158, 159 e 171, todos do CPP, ao argumento de imprescindibilidade da realização de perícia oficial para a incidência da qualificadora do rompimento de obstáculo.
+Recurso tempestivo (Id. 50991954).
+Contrarrazões – Id. 50604999.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ. Súmula 83 do STJ.
+Como preconiza a Súmula 83 do STJ, “(...) não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, defende o Recorrente a imprescindibilidade da realização de perícia oficial para a incidência da qualificadora do rompimento de obstáculo nos crimes que deixam vestígios, sendo descabido falar na substituição dessa prova tarifada.
+No acórdão impugnado ficou consignado que:
+“No caso em apreço, a configuração da qualificadora restou hábil e suficientemente comprovada por meio das declarações extrajudiciais e judiciais da vítima (Id. 31053976 e 31056044), que, em harmonia com o auto de constatação instruído com fotografias do local (Id. 31051540), apontou que o furto foi cometido após o arrombamento do armário onde se encontrava a chave da motocicleta furtada.” (Id. 34219965)
+Observa-se, pois, que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que é válido o reconhecimento da qualificadora de rompimento de obstáculo quando amparada não apenas na prova testemunhal e confissão do acusado, mas também em exame pericial indireto.
+A propósito:
+“AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. FURTO QUALIFICADO. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 158 E 171, AMBOS DO CPP. DESTRUIÇÃO OU ROMPIMENTO DE OBSTÁCULO À SUBTRAÇÃO DA COISA. CRIME QUE DEIXA VESTÍGIO. LEVANTAMENTO FOTOGRÁFICO QUE SUPRE A ELABORAÇÃO DE PERÍCIA DIRETA. REGULARIDADE CONSTATADA. PRECEDENTES. 1. Ao contrário do alegado pelo agravante, pela leitura do combatido aresto, extrai-se dos autos que, à fl. 166, consta a juntada de levantamento fotográfico, bem como, à fl. 173, a declaração do Inspetor de Polícia de que houve o arrombamento para a prática do delito. 2. O combatido aresto não comporta reparos, haja vista estar em consonância com a jurisprudência desta Corte Superior, porquanto, no caso, a presença da circunstância qualificadora do rompimento de obstáculo não foi baseada tão somente na prova testemunhal colhida nos autos ou na confissão do acusado, mas também no exame pericial realizado de forma indireta, por meio de fotografias do local do crime e elaborado laudo por peritos oficiais, o que é admitido pela jurisprudência como prova idônea, não havendo, portanto, ilegalidade a ser reconhecida (AgRg no HC n. 503.569/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/9/2019). 3. A ausência de perícia no local dos fatos não impede, no caso, a incidência da qualificadora do rompimento de obstáculo, uma vez que foi realizada perícia indireta, além do mais as fotografias e filmagens juntadas aos autos comprovam o modus operandi da ação (AgRg no REsp n. 1.715.910/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 25/6/2018). 4. Agravo regimental improvido.” (AgRg no REsp 1823838/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/03/2020, DJe 16/03/2020) (destaquei)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta violação ao art. 155, § 4o, I, do CP, e aos arts. 158, 159 e 171, todos do CPP, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ, o que impede o seguimento do recurso.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 24 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
