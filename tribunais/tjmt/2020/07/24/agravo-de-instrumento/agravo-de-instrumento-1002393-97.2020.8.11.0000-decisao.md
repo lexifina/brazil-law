@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1002393-97.2020
+AGRAVANTE: MARCELO ANTONIO BORGES.
+AGRAVADOS: JOEL HADDAD E FAGUNDES E OUTROS.
+Vistos.
+Considerando o teor da certidão negativa, de Id. 46502048, intime-se o recorrente para fornecer novo endereço de ambos os agravados.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+RELATOR
