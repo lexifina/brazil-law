@@ -1,0 +1,16 @@
+Petição/STF nº 55.864/2020
+DECISÃO
+PROCESSO SUBJETIVO – INTERVENÇÃO DE TERCEIRO – ADMISSÃO.
+    1. O assessor David Laerte Vieira prestou as seguintes informações:
+    O extraordinário foi interposto contra acórdão por meio do qual a Segunda Turma do Tribunal Regional Federal da 4ª Região assentou a constitucionalidade da exigência de multa, decorrente do atraso na apresentação da Declaração de Débitos e Créditos Tributários Federais – DCTF, na forma prevista no artigo 7º, inciso II, da Lei nº 10.426/2002. Concluiu ser legítima a sanção mediante a incidência de percentual de 2%, por mês-calendário ou fração, limitado a 20%, sobre os valores dos tributos não declarados, ainda que previamente recolhidos, ante a natureza extrafiscal, voltada a prevenir o não cumprimento da obrigação acessória. Consignou que “a aplicação de um percentual sobre o valor de tributos e contribuições apurados no período, que aumenta segundo a variável tempo, é a forma que melhor traduz a finalidade da sanção imposta”.
+    Em 11 de dezembro de 2015, o Tribunal, por maioria, reconheceu a repercussão geral da matéria, em acórdão assim ementado:
+    DECLARAÇÃO DE DÉBITOS E CRÉDITOS TRIBUTÁRIOS FEDERAIS – OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA – MORA – MULTA – BASE: VALOR DOS TRIBUTOS – ARTIGOS 145, § 1º, E 150, INCISO IV, DA CARTA DA REPÚBLICA – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da constitucionalidade de dispositivo legal a autorizar a exigência de multa por ausência ou atraso na entrega de Declaração de Débitos e Créditos Tributários Federais – DCTF, apurada mediante percentual a incidir, mês a mês, sobre os valores dos tributos a serem informados.
+    Associação Brasileira de Supermercados – ABRAS, por meio de petição subscrita por advogada regularmente credenciada, busca a admissão como terceira. Assevera possuir representatividade judicial e extrajudicial dos interesses de empresas privadas supermercadistas. Afirma congregar as 27 associações estaduais e distrital do segmento, assim como 85 mil estabelecimentos, contribuintes de tributos nas três esferas de Governo. Diz ser parte considerável das controvérsias administrativas e judiciais a relativa à imposição de multas isoladas. Discorre sobre o tema de fundo. Apresenta documentos constitutivos e procuração.
+    Consulta ao sítio do Supremo revelou a liberação do processo, em 6 de junho de 2019, para inclusão na pauta dirigida do Pleno.
+    O processo é eletrônico e está concluso.
+    2. A controvérsia possui repercussão ímpar, versando a constitucionalidade de dispositivo legal a autorizar multa por ausência ou atraso na entrega de Declaração de Débitos e Créditos Tributários Federais, mediante percentual a incidir, mês a mês, sobre os valores dos tributos a serem informados, ante possível violação aos princípios constitucionais da vedação ao confisco, capacidade contributiva, razoabilidade e proporcionalidade. Está-se diante de questão de interesse dos associados da entidade requerente, sob o ângulo da representatividade.
+    3. Admito a Associação Brasileira de Supermercados – ABRAS como terceira interessada no processo, recebendo-o no estágio em que se encontra.
+    4. Publiquem.
+Brasília, 24 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
