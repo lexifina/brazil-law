@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 59 – DECISÃO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Outdoor Importação e Exportação Ltda. assevera haver o Juízo da Vara do Trabalho de Indaiatuba/SP, no processo nº 0011634-55.2016.5.15.0077, olvidado o decidido, pelo ministro Gilmar Mendes, na medida cautelar na ação declaratória de constitucionalidade nº 59.
+    Segundo narra, figura em processo trabalhista formalizado por José Vanderlei da Silva, cujo pedido foi declarado parcialmente procedente, estipulada correção monetária dos valores devidos a partir da Tabela Única para Atualização e Conversão de Débitos Trabalhistas e do verbete nº 381 da Súmula do Tribunal Superior do Trabalho. Interposto recurso ordinário, no qual pretendida a observância do Índice de Preços ao Consumidor Amplo Especial – IPCA-E, a definição do fator de atualização acabou diferida para a fase de execução. Com o trânsito em julgado, sobreveio execução. Postulada a incidência da Taxa Referencial, para fins de recomposição do crédito, ou a suspensão do processo na origem, não houve êxito, surgindo o alegado descompasso.
+    Sustenta desrespeitado o paradigma, no que determinada a suspensão de todas as demandas a envolverem o disposto nos artigos 879, § 7º, 899, § 4º, da Consolidação das Leis do Trabalho e 39, cabeça, § 1º, da Lei nº 8177/1991, nos quais estipulada a correção de créditos com base na Taxa Referencial – TR. Discorre sobre dificuldades financeiras enfrentadas.
+    Requer, no campo precário e efêmero, sejam suspensos o ato impugnado e a execução. Pretende, no mérito, a cassação do pronunciamento atacado e a confirmação da medida acauteladora.
+    2. O Relator das ações declaratórias de constitucionalidade nº 58 e 59 deferiu, em 27 de junho de 2020, medida de urgência para determinar “a suspensão do julgamento de todos os processos em curso na Justiça do Trabalho” que versem a observância dos artigos 879, § 7º, e 899, § 4º, da Consolidação das Leis do Trabalho, na redação da Lei nº 13.467/2017, bem assim do 39, cabeça e § 1º, da Lei nº 8.177/1991. Os preceitos dispõem sobre atualização de créditos trabalhistas.
+    Da análise das peças, constata-se que, embora formada coisa julgada envolvendo o título executivo surgido ao término do processo de conhecimento, a definição do índice de correção monetária do crédito foi diferida para a fase da execução, tendo em conta discussão judicial alusiva à questão. Cumpria ao Juízo, em atendimento ao decidido no paradigma, proceder à suspensão da demanda.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, o curso do processo nº 0011634-55.2016.5.15.0077 no Juízo da Vara do Trabalho de Indaiatuba/SP.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-geral da República.
+    5. Publiquem.
+Brasília, 27 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
