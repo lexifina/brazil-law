@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98218, de 29 de junho de 2020
+Assunto: Classificação de Mercadorias
+Código NCM: 8414.10.00
+Mercadoria: Bomba de sucção a vácuo, com motor elétrico incorporado, própria para extração de leite do seio de mulheres lactantes - contendo corpo em polipropileno, almofada de silicone massageadora, garrafa de 125 ml para coleta e armazenamento do leite, tampa roscada com bico de silicone e tampa de proteção para ser acoplada, posteriormente, à garrafa, que poderá ser utilizada como mamadeira -, acondicionada em embalagem para venda a retalho em conjunto com fonte AC/DC, com tensão de entrada de 100-240 V, manual de instruções, impresso contendo informações sobre assistência técnica e quatro absorventes descartáveis para seios, denominada comercialmente de "extrator elétrico de leite materno".
+Dispositivos Legais: RGI 1 (texto da posição 84.14), RGI 3 b) e RGI 6 (texto da subposição 8414.10.00) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.218-2020.pdf]
