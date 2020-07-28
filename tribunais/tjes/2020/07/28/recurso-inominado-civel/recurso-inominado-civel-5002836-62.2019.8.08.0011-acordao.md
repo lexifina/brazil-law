@@ -1,0 +1,34 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002836-62.2019.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: IRACI TEIXEIRA
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+EMENTA: JUIZADO ESPECIAL CÍVEL. EMBARGOS DE DECLARAÇÃO EM FACE DE DECISÃO MONOCRÁTICA QUE CONHECEU E DEU PARCIAL PROVIMENTO AO RECURSO INOMINADO OUTRORA INTERPOSTO. ALEGAÇÃO DE VÍCIO DE OMISSÃO. REDISCUSSÃO DA MATÉRIA, POIS SE ENFRENTOU AS RAZÕES E CONTRARRAZÕES RECURSAIS, SENDO RECONHECIDO COMO DEVIDO O DÉBITO NO VALOR DE R$ 5.634,74, IMPUTADO À AUTORA POR MEIO DE TOI, VEZ QUE AS PROVAS CARREADAS AOS AUTOS APONTAM PARA A AUSÊNCIA DE COMPROVAÇÃO PELA PARTE AUTORA DE QUE TENHA CIENTIFICADO A CONCESSIONÁRIA ACERCA DE POSSÍVEL IRREGULARIDADE NO MEDIDOR. HÁ EVIDÊNCIAS NOS AUTOS, NOTADAMENTE POR FOTOGRAFIAS JUNTADAS NA CONTESTAÇÃO E MENCIONADAS EM SEDE DO RECURSO INOMINADO DE QUE HOUVE ADULTERAÇÃO DO MEDIDOR DE ENERGIA COM FIXAÇÃO DE CONDUTOR ELÉTRICO CONECTADO COM OS FIOS DE ENTRADA E SAÍDA DO BORNE DO MEDIDOR FAZENDO COM QUE A ENERGIA CONSUMIDA NA FASE B NÃO FOSSE REGISTRADA NA SUA TOTALIDADE (DOC. ID 425198). DIANTE DA VALIDAÇÃO DO PROCEDIMENTO PARA VERIFICAÇÃO DA IRREGULARIDADE, OBSERVA-SE QUE A FORMA COMO FOI REALIZADA A COBRANÇA SE DEU EM CONFORMIDADE COM AS DISPOSIÇÕES DO MARCO REGULATÓRIO TEMÁTICO (ID 444055). AUSÊNCIA DE CORTE NO FORNECIMENTO DE ENERGIA POR INADIMPLEMENTO NÃO HAVENDO VIOLAÇÃO DO IRDR 1.412.433/RS – STJ – JULGADO EM 25/04/2018, NO QUAL FOI FIRMADA A TESE OBJETO DO TEMA 699.. REALIZAÇÃO DA VISTORIA ACOMPANHADA DE OCUPANTE DO IMÓVEL O QUAL SE RECUSOU A ASSINAR O TERMO (ID 425199 – PAG. 2/3). VIA ELEITA INADEQUADA. EMBARGOS DE DECLARAÇÃO QUE NÃO POSSUEM QUALQUER PROPÓSITO DE SUPRIR OS VÍCIOS QUE LHE SÃO PERMITIDOS ATACAR. RECURSO CONHECIDO E IMPROVIDO. SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. 1. Na forma preconizada pelo artigo 1.022 do Código de Processo Civil, a oposição de Embargos de Declaração é cabível quando a sentença ou acórdão restarem eivados dos vícios de omissão, contradição ou obscuridade. 2. Na hipótese vertente dos autos, em que pese a alegação de suposta omissão, verifica-se que a mesma é inexistente, na medida em que a Decisão Monocrática objurgada combateu fundamentadamente as razões e contrarrazões recursais outrora apresentadas. 3. O objetivo da parte embargante, em verdade, é rediscutir matéria amplamente debatida na Decisão Monocrática vergastada, extrapolando os propósitos a que se destinam o Recurso de Embargos de Declaração. 4. Recurso Conhecido e Improvido. 5. Sem custas processuais e honorários advocatícios. É como voto.
+
+KAREN HELENA RODRIGUES FURNO
+
+JUÍZA LEIGA
+
+Acolho na íntegra o projeto redigido pela MM. Juíza Leiga e o adoto como razões da minha manifestação. É como voto.
+
+DR. GRÉCIO NOGUEIRA GRÉGIO
+
+JUIZ DE DIREITO - RELATOR
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+A unanimidade, conhecer e nao acolher os Embargos de Declaracao, nos termos do voto do Relator.
