@@ -1,0 +1,19 @@
+DECISÃO
+    Trata-se de tempestivo agravo regimental contra decisão da Presidência do Supremo Tribunal Federal, na qual se determinou a devolução dos autos ao Tribunal de origem por ter sido submetida à sistemática da repercussão geral a questão trazida no recurso extraordinário (Tema nº 247).
+    Requer “o provimento deste Agravo Interno, com o sobrestamento do Recurso Extraordinário interposto pela Agravante nesta superior instância, de maneira a se assegurar que a repercussão geral do tema 247 efetivamente repercuta no caso concreto da Agravante”.
+    Examinados os autos, decido.
+    Não merece prosperar o pedido da agravante.
+    Pelo Código de Processo Civil vigente desde 18/3/16, disciplinou-se o sistema processual da repercussão geral, em harmonia com o entendimento do Supremo Tribunal Federal.
+    Submetido o recurso paradigma ao Plenário Virtual, o Supremo Tribunal pode: a) recusá-lo por ausência de repercussão geral e devolver os demais recursos aos Tribunais de origem, que a eles deverão negar seguimento (art. 1.030, inc. I, al. a, do Código de Processo Civil); b) reconhecer a existência da repercussão geral e devolver os demais recursos aos Tribunais de origem, para serem sobrestados e aguardarem o julgamento de mérito pelo Supremo Tribunal Federal (art. 1.030, inc. III, do Código de Processo Civil); ou c) reconhecer a repercussão geral e julgar o mérito do recurso, devolvendo os demais recursos aos Tribunais de origem, que a eles negarão seguimento ou exercerão juízo de retratação, conforme o caso (art. 1.030, incs. I, al. a, e II, do Código de Processo Civil).
+    As possibilidades descritas compõem a sistemática da repercussão geral.
+    Nessa linha, a jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da irrecorribilidade do ato (decisão ou despacho) de devolução dos autos aos Tribunais de origem para os fins previstos na legislação processual e referentes ao instituto da repercussão. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO INTERPOSTO CONTRA DESPACHO PELO QUAL SE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 874.816/RS-AgR-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe 8/11/16).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EX-EMPREGADO DA FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA. BASE DE CÁLCULO. SALÁRIO MÍNIMO. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA 256. RE 603.451. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM. IRRECORRIBILIDADE. PRECEDENTES. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE nº 904.576/SP-AgR-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe 26/10/16).
+    Ademais, o Código é claro em determinar que o sobrestamento deve se dar diretamente no Tribunal de origem.
+    Anote-se, por fim, que, tal como reconhecido pela própria parte peticionante, a questão objeto do apelo extremo enquadra-se perfeitamente no Tema 247 de repercussão geral.
+    Ante o exposto, indefiro o pedido de sobrestamento nesta Suprema Corte e, nada havendo a prover quanto às alegações da peticionária, mantenho a decisão de devolução dos autos à origem pela sistemática da repercussão geral (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de julho de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
