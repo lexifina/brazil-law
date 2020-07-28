@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União Federal contra acórdão que, proferido pela 3º Turma Recursal dos Juizados Especiais Federais de Pernambuco, está assim ementado:
+    “CONSTITUCIONAL ADMINISTRATIVO. LICENÇA PRÊMIO INDENIZADA ADMINISTRATIVAMENTE. RECURSO DA UNIÃO (PRU). BASE DE CÁLCULO. DEVIDA A INCLUSÃO DO VALOR RELATIVO AO ABONO DE PERMANÊNCIA, AO AUXÍLIO-ALIMENTAÇÃO E AO AUXÍLIO-SAÚDE. FUNDAMENTAÇÃO ‘PER RELATIONEM’. RECURSO DA FAZENDA NACIONAL. VERBA DE NATUREZA INDENIZATÓRIA. SEM INCIDÊNCIA DE IMPOSTO DE RENDA E DE CONTRIBUIÇÃO PREVIDENCIÁRIA (PSS). RECURSOS INOMINADOS IMPROVIDOS.” (grifei)
+    A parte ora recorrente, ao deduzir o apelo extremo em questão sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, pois a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 674.781-AgR/MG, Rel. Min. GILMAR MENDES – ARE 1.024.956-AgR/SC, Rel. Min. ROSA WEBER – ARE 1.254.640/PE, Rel. Min. MARCO AURÉLIO – ARE 1.267.229/PE, Rel. Min. DIAS TOFFOLI, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE LICENÇA-PRÊMIO EM PECÚNIA. BASE DE CÁLCULO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 816.457-AgR/SP, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Licença-prêmio. Conversão em pecúnia. Base de cálculo. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional.
+    2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.”
+    (ARE 1.197.660-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 28 de julho de 2020.
+Ministro CELSO DE MELLO
+Relator
