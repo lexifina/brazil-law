@@ -1,0 +1,38 @@
+Decisão: Trata-se dois agravos, cujos objetos são as decisões que inadmitiram recursos extraordinários interpostos contra acórdãos do Tribunal Regional Federal da Quarta Região e do Superior Tribunal de Justiça, assim respectivamente ementados (eDOC 7, p. 336-337; eDOC 8, p. 122-123):
+    DIREITO PENAL E PROCESSUAL PENAL. CRIMES AMBIENTAIS. OFERECIMENTO DE TRANSAÇÃO PENAL NA JUSTIÇA DO ESTADO. PRECLUSÃO SOMENTE DO RÉU BENEFICIADO. MANUTENÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. PRESCRIÇÃO. INOCORRÊNCIA. VIOLAÇÃO AO PRINCÍPIO ACUSATÓRIO. NÃO DEMONSTRAÇÃO. ARTIGOS 46, 48, 56 E 60, TODOS DA LEI Nº 9.605/98. AUTORIA, MATERIALIDADE E DOLO. ABSOLVIÇÃO DO RÉU QUE NÃO EXERCE A ADMINISTRAÇÃO DA EMPRESA.
+    1. Uma vez homologada a transação penal, ainda que por juízo incompetente, operam-se os efeitos da coisa julgada apenas em relação ao beneficiário da transação, mantendo-se a competência da Justiça Federal para julgamento do feito.
+    2. É entendimento assente neste Tribunal que, para o cálculo da prescrição referente à pessoa jurídica deve ser aplicado o artigo 109, parágrafo único, do Código Penal, aplicam-se às penas restritivas de direitos o mesmo prazo prescricional das penas privativas de liberdade.
+    3. O Ministério Público Federal incluiu as empresas no polo passivo da demanda por entender presentes as condições para tal, e não por determinação do magistrado, que apenas ofertou ao órgão ministerial a possibilidade de aditar ou não a denúncia, como entendesse melhor. Inocorrência de violação ao princípio acusatório.
+    4. O sujeito ativo dos delitos cometidos no âmbito de uma pessoa jurídica é, em regra, o seu administrador: a pessoa que detém o poder de gerência, o comando, o domínio sobre a prática ou não da conduta delituosa.
+    5. Devidamente comprovados a materialidade, autoria e dolo dos crimes dos artigos 46, 48, 56 e 60 da Lei nº 9.605/98, deve ser mantida a sentença em relação aos acusados, salvo o réu IVAN LAURO RAUBER, ao qual impõe-se a absolvição, nos termos do artigo 386, IV, do Código de Processo Penal, provendo-se parcialmente o recurso no ponto.
+    6. Apelação criminal parcialmente provida.
+    AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. CRIMES AMBIENTAIS. COMPETÊNCIA DA JUSTIÇA ESTADUAL EM RAZÃO DA MATÉRIA. INOVAÇÃO EM SEDE ESPECIAL. IMPOSSIBILIDADE. PRORROGAÇÃO DE COMPETÊNCIA DO JUÍZO ESTADUAL. TRANSAÇÃO PENAL ANTERIORMENTE HOMOLOGADA EM RELAÇÃO À CORRÉ. IMPOSSIBILIDADE. NATUREZA ABSOLUTA DA COMPETÊNCIA FEDERAL. AGRAVO IMPROVIDO.
+    1. Nos termos do entendimento consolidado nesta Corte, não é admissível a inovação de teses recursais na via especial, de forma que a análise da temática pelas instâncias de origem é requisito necessário para o conhecimento da questão, ante a necessidade de prequestionamento, nos termos da Súmula n. 282/STF.
+    2. A existência de transação penal homologada pela Justiça Estadual em relação a um dos agentes, somente a ele beneficia, não tendo o condão de perpetuar a competência para a análise dos mesmos fatos em relação aos corréus.
+    3. A competência constitucional atribuída à Justiça Federal não pode ser prorrogada à Justiça Estadual, ante a sua natureza absoluta.
+    4. A possível existência de conexão não determina a reunião de processos no caso, eis que já ultimada a extinção da punibilidade naquele feito em que houve a transação penal quando proposta a denúncia no outro. Inteligência da Súmula n. 235 deste Superior Tribunal de Justiça: "A conexão não determina a reunião dos processos, se um deles já foi julgado."
+    PRAZO PRESCRICIONAL. PESSOA JURÍDICA. LACUNA DA LEI DE CRIMES AMBIENTAIS. APLICAÇÃO SUBSIDIÁRIA DO ART. 109 DO CÓDIGO PENAL. ILEGALIDADE NÃO VERIFICADA.
+    Na omissão da Lei n. 9.605/98, os prazos de prescrição aplicáveis aos delitos cometidos por pessoas jurídicas são os dispostos no artigo 109 do Código Penal.
+    NULIDADE. VIOLAÇÃO AO SISTEMA ACUSATÓRIO. INCLUSÃO DE CORRÉUS NA DENÚNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.
+    1. A Corte Regional afastou a nulidade apontada pela defesa, ressaltando a inocorrência de imposição por parte do magistrado singular, que apenas provocou o órgão ministerial a fim de alertá-lo com relação à eventual necessidade de inclusão das pessoas jurídicas no polo passivo da demanda, diante dos fatos narrados na inicial acusatória.
+    2. É entendimento desta Corte Superior que a simples antecipação de procedimento previsto nos artigos 383 ou 384 do Código de Processo Penal, não implica em nulidade da ação penal e afronta ao princípio acusatório, ainda mais quando a defesa foi devidamente intimada das decisões impugnadas, bem como do respectivo aditamento para se manifestar nos autos.
+    3. "Não é nula a peça acusatória que contém a compreensão do órgão acusador quanto à prática criminosa, por ser o Ministério Público o titular exclusivo da opinio delicti, independentemente da manifestação anterior do juízo a respeito dos fatos." (RHC 120379 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 23/06/2015, PROCESSO ELETRÔNICO DJe-183 DIVULG 15-09-2015 PUBLIC 16-09-2015).
+    APELO NOBRE FULCRADO NA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. COTEJO ANALÍTICO. NECESSIDADE. INSURGÊNCIA NÃO CONHECIDA.
+    1. Para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, sendo necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+    2. Agravo a que se nega provimento.
+    Não foram opostos embargos de declaração do acórdão do TRF4, ao passo que os aclaratórios opostos no STJ foram rejeitados (eDOC 8, p. 153).
+    Ambos os recursos extraordinários foram interpostos com base no art. 102, III, “a”, do permissivo constitucional.
+    No primeiro apelo extremo, aponta-se ofensa aos arts. 109, I, e 129, I, da Constituição Federal. Busca-se, em suma, a anulação do feito por incompetência da Justiça Federal e por violação ao sistema acusatório.
+    No segundo extraordinário, alega-se ofensa aos art. 5º, XXXIX, da Lei Maior. Sustenta-se violação ao princípio da legalidade decorrente da imposição de pena privativa de liberdade a pessoa jurídica.
+    O TRF4 inadmitiu o recurso extraordinário com aplicação das Súmulas 279 e 284/STF (eDOC 7, pp. 429-431), ao passo que o STJ negou seguimento ao apelo extremo por preclusão da matéria, bem como por configurar ofensa reflexa ao Texto Constitucional (eDOC 8, p. 187-193).
+    É o relatório. Decido.
+    Os recursos interpostos não merecem prosperar.
+    Com efeito, observo que, em nenhum deles, o recorrente não se desincumbiu do ônus de fundamentar suficientemente a existência de repercussão geral na matéria por ele suscitada.
+    A demonstração de repercussão geral é pressuposto de admissibilidade do recurso extraordinário. Trata-se de requisito formal exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF (AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007), o que ocorre no presente caso.
+    Todavia, alegações vagas e genéricas acerca da transcendência subjetiva da demanda, como é o caso, não cumprem o requisito legal, à luz da função de Corte Constitucional desempenhada pelo Supremo Tribunal Federal.
+    3. Ante o exposto, e nego seguimento aos recursos, nos termos do art. 21, § 1º, RISTF,
+    Publique-se.
+    Brasília, 28 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
