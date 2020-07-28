@@ -1,0 +1,34 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000984-14.2017.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ELECTROLUX DO BRASIL S/A e outros
+RECORRIDO: GILMAR PASSOS
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. EMBARGOS DECLARATÓRIOS MOVIDOS EM RAZÃO DE SUPOSTA CONTRADIÇÃO NO JULGAMENTO. MERO ERRO MATERIAL. ACÓRDÃO PERFEITO HAVENDO TÃO SOMENTE DISSONÂNCIA NA PARTE DISPOSITIVA. MANUTENÇÃO DA SENTENÇA COM A MINORAÇÃO DO QUANTUM INDENIZATÓRIO. ADEQUAÇÃO DO ACÓRDÃO O QUAL PASSA A VIGORAR COM A SEGUINTE REDAÇÃO EM SUA PARTE DISPOSITIVA: “Por unanimidade de votos, CONHECER do recurso E DAR-LHE PARCIAL PROVIMENTO, nos termos do voto do relator.” EMBARGOS CONHECIDOS E PROVIDOS APENAS PARA ADEQUAR A REDAÇÃO DO DISPOSITIVO DO ACÓRDÃO EM REFERÊNCIA, MANTENDO-SE INALTERADOS OS DEMAIS TERMOS. SEM CUSTAS E HONORÁRIOS.
+
+KAREN HELENA RODRIGUES FURNO
+
+JUÍZA LEIGA
+
+Acolho na íntegra o projeto redigido pela MM. Juíza Leiga e o adoto como razões da minha manifestação. É como voto.
+
+DR. GRÉCIO NOGUEIRA GRÉGIO
+
+JUIZ DE DIREITO - RELATOR
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e acolher parcialmente os Embargos de Declaração, nos termos do voto do Relator.
