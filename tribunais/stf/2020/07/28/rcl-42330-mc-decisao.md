@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 58 – DECISÃO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    G4 Automotive Veículos Ltda. assevera haver o Juízo da Primeira Vara do Trabalho de Cabo Frio/RJ, no processo nº 0011291-88.2015.5.01.0431, olvidado o decidido, pelo ministro Gilmar Mendes, na medida cautelar na ação declaratória de constitucionalidade nº 58.
+    Segundo narra, figura em processo formalizado por Cristiano Carvalho Berto, cujo pedido foi declarado parcialmente procedente, estipulada correção monetária dos valores devidos nos termos do artigo 459, § 1º, da Consolidação das Leis Trabalhistas e do verbete nº 381 da Súmula do Tribunal Superior do Trabalho. Interposto recurso adesivo, naõ foi conhecido em virtude da ausência de recolhimento, na forma correta, do depósito pertinente. Sobreveio agravo, ao qual foi negado provimento. Embargos declaratórios acabaram providos apenas para esclarecimentos. Inadmitido recurso de revista, não houve êxito em subsequente agravo de instrumento. Sucedeu execução provisória. Postulada a incidência da Taxa Referencial para fins de recomposição do crédito, ou, ante o decidido na medida cautelar no processo objetivo evocado, a suspensão na origem, não se obteve sucesso, surgindo o alegado descompasso.
+    Sustenta desrespeitado o paradigma, no que determinada a suspensão de todas as demandas a envolverem o disposto nos artigos 879, § 7º, 899, § 4º, da Consolidação das Leis do Trabalho e 39, cabeça e § 1º, da Lei nº 8.177/1991, a estipularem a correção de créditos com base na Taxa Referencial. Discorre sobre dificuldades financeiras enfrentadas.
+    Requer, no campo precário e efêmero, sejam suspensos o ato impugnado e a execução. Busca, no mérito, a cassação do pronunciamento atacado e a confirmação da medida acauteladora.
+    2. O Relator das ações declaratórias de constitucionalidade nº 58 e 59 deferiu, em 27 de junho de 2020, medida de urgência para determinar “a suspensão do julgamento de todos os processos em curso na Justiça do Trabalho” que versem a observância dos artigos 879, § 7º, e 899, § 4º, da Consolidação das Leis do Trabalho, na redação da Lei nº 13.467/2017, bem assim do 39, cabeça e § 1º, da Lei nº 8.177/1991. Os preceitos dispõem sobre atualização de créditos trabalhistas.
+    Da análise das peças constata-se negado pedido formulado na execução provisória, alusivo à suspensão do processo, exigindo-se formalização de embargos à execução ou impugnação das contas como formas de atacar a decisão homologatória dos cálculos. Cumpria ao Juízo, em atendimento ao proclamado no paradigma, proceder à suspensão da demanda.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, o curso do processo nº 0011291-88.2015.5.01.0431 no Juízo da Primeira Vara do Trabalho de Cabo Frio/RJ.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-geral da República.
+    5. Publiquem.
+Brasília, 28 de julho de 2020.
+Ministro MARCO AURÉLIO
+Relator
