@@ -1,0 +1,81 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0001788-90.2015.8.11.0018
+RECORRENTES: ELETROMAR MÓVEIS E ELETRODOMÉSTICOS LTDA E METALÚRGICA TRAPP LTDA.
+RECORRIDO: MUNICÍPIO DE JUARA/MT
+Vistos, etc.
+Trata-se de Recurso Especial (id 43852479) interposto por ELETROMAR MÓVEIS E ELETRODOMÉSTICOS LTDA, E METALÚRGICA TRAPP LTDA. com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público e Coletivo assim ementado (id 40529493):
+“RECURSO DE APELAÇÃO – AÇÃO ANULATÓRIA – MULTA – PROCON – INCOMPETÊNCIA – NÃO CONFIGURADA – INTELIGÊNCIA DO DECRETO No 2.181/97 – CULPA EXCLUSIVA DO CONSUMIDOR – COMPROVAÇÃO MEDIANTE LAUDO TÉCNICO APRESENTADO SEM ASSINATURA DO PROFISSIONAL RESPONSÁVEL E SEM OBSERVÂNCIA DO CONTRADITÓRIO E AMPLA DEFESA – IMPOSSIBILIDADE – NULIDADE DA DECISÃO ADMINISTRATIVA – NÃO CONSTATADA – VALOR DA MULTA APLICADA COM RAZOABILIDADE E PROPORCIONALIDADE – RECURSO DESPROVIDO.
+O Decreto n. 2.181/97 estabelece, no inciso X do art. 3o c/c inciso III do art. 4o, que caberá ao PROCON, estadual ou municipal, no âmbito de sua competência, fiscalizar e aplicar as sanções administrativas previstas na Lei n. 8.078/90.
+A perícia realizada sem a devida assinatura do técnico responsável, produzida sem que fosse observado os princípios do contraditório e ampla defesa e não ratificada em juízo, não se mostra hábil a comprovar a culpa exclusiva do consumidor.
+Não há que se falar em nulidade da decisão administrativa que ensejou a aplicação da multa pelo Procon, por ter observado os procedimentos legais, respeitado o contraditório e a ampla defesa e ter sido devidamente fundamentada.
+A sanção (multa) aplicada deve ser suficiente para coibir a conduta lesiva por parte da prestadora do serviço, ou seja, além de sua natureza sancionatória, deve desestimular, pelo menos sob o prisma econômico, a repetição da prática tida por ilegal. Observados esses critérios no caso concreto, afasta-se a pretensa desproporcionalidade da penalidade cominada”. (TJMT – Segunda Câmara de Direito Público e Coletivo – Apelação Cível n. 0001788-90.2015.8.11.0018, Relator: Des MARIA APARECIDA RIBEIRO, j. em 10/03/2020).
+O presente recurso foi interposto contra o aresto da Segunda Câmara de Direito Público e Coletivo deste Tribunal, que, em sede de Apelação, interposta por ELETROMAR MÓVEIS E ELETRODOMÉSTICOS LTDA E OUTROS, manteve a sentença proferida pelo Juízo da Primeira Vara da Comarca de Juara/MT que, nos autos da Ação de Anulação de Multa Administrativa n. 0001788-90.2015.8.11.0018 (Código 71038), ajuizado em desfavor do MUNICÍPIO DE JUARA, julgou improcedente o pedido inicial, declarando extinto o processo com resolução do mérito, nos termos do art. 487, I, do CPC.
+As Recorrentes alegam que ajuizaram “(...) ação de anulação de multa administrativa em face do recorrido objetivando ver anuladas multas expedidas pelo Procon, representado pelo município réu. As multas ora combatidas foram oriundas de reclamações apresentadas por consumidoras, haja vista a compra de equipamentos junto às recorrentes , produtos estes que teria m apresentado vício s, cujo reparo foi excluído da garantia (processo s administrativo s no 164/2013 e 348/2013)”. (id 43852479 - p. 2)
+Arguem violação ao artigo 18 do Decreto n. 2.181/97, e aos artigos 105 e 106 do Código de Defesa do Consumidor, além de divergência jurisprudencial, ao argumento de que “ainda que seja facultado ao consumidor formular reclamação perante o Procon, as atribuições do referido órgão municipal limitam-se a apurar e fiscalizar supostas ofensas aos direitos consumeristas, não se podendo obrigar o atendimento ao pedido formulado pelo consumidor, conforme ocorreu no caso vertente, pois esta é uma competência do Poder Judiciário”. (id 43852479 - p. 4)
+Suscitam afronta aos artigos 2o, e 50 da Lei n. 9.784/99, porquanto “(...) a análise dos autos do processo administrativo n. 265.213/04, revela de forma clara e evidente que não se encontram reunidos pressupostos mínimos que autorizem a executividade do ato administrativo praticado. Isso porque em ambas as decisões do processo administrativo referido não houve integral cumprimento do dever legal de motivar a multa aplicada pela Administração Pública, na forma exigida pelo artigo 93 da Constituição Federal e artigo 20 da Lei n.0 9.784/99”. (id 43852479 - p. 8)
+Argumentam que “o critério utilizado pelo recorrido não individualiza o comportamento do suposto violador dos direitos do consumidor e em que medida ele se afasta ou não da generalidade dos casos. Sem um parâmetro adequado, torna -se falha a multa aplicada. Assim, não se tendo noção sobre o valor mínimo, é o evidente que não se pode entender como se chegou à pena -base de R$ 8.333,33, e, tampouco, ao valor da penalidade pretendida”. (id 43852479 - p. 11)
+Recurso tempestivo (id 43883476).
+Sem contrarrazões, conforme id 51537976-TJ.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, os Recorrentes alegam que “(...) o PROCON, representado pelo Município de Juara/MT, ora recorrido, ao proceder à análise de negócio jurídico, ultrapassou os limites impostos rigidamente pelo art. 18 do Decreto acima, bem como das atribuições que lhe deferem o Código de Defesa do Consumidor, maculando o ato administrativo da pecha de ilegalidade”. (id 43852479 - p. 5)
+No acórdão impugnado ficou consignado que “(...) o PROCON é um órgão integrante do Sistema Nacional de Defesa do Consumidor, criado pelo Decreto no 2.181/97, possuindo competência para lavrar autos de infração visando à proteção dos interesses dos consumidores. Com efeito, o referido Decreto no 2.181/97 estabelece, no inciso X do art. 3o c/c inciso III do art. 4o, que caberá ao PROCON, estadual ou municipal, no âmbito de sua competência, fiscalizar e aplicar as sanções administrativas previstas na Lei n. 8.078/90, não restado dúvidas acerca de sua competência para aplicação de multas”. (id 40529493 - p. 3)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. OFENSA À DECRETO REGULAMENTAR. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA (POR ANALOGIA) DA SÚMULA N. 518/STJ. APLICAÇÃO DE MULTA ADMINISTRATIVA PELO PROCON. LEGITIMIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+IV - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a sanção administrativa, prevista no art. 57 do Código de Defesa do Consumidor, funda-se no poder de polícia que o PROCON detém para aplicar multas relacionadas à transgressão dos preceitos da Lei n. 8.078/1990, independentemente da reclamação ter sido realizada por um único consumidor.
+V - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula n. 83/STJ.
+(...)
+VIII - Agravo Interno improvido”. (AgInt no REsp 1664584/GO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 18 do Decreto n. 2.181/97, e aos artigos 105 e 106 do Código de Defesa do Consumidor, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 2o, e 50 da Lei n. 9.784/99, está amparada na assertiva de que “(...) em ambas as decisões do processo administrativo referido não houve integral cumprimento do dever legal de motivar a multa aplicada pela Administração Pública, na forma exigida pelo artigo 93 da Constituição Federal e artigo 20 da Lei n.0 9.784/99”.
+Argumenta que “o critério utilizado pelo recorrido não individualiza o comportamento do suposto violador dos direitos do consumidor e em que medida ele se afasta ou não da generalidade dos casos. Sem um parâmetro adequado, torna -se falha a multa aplicada. Assim, não se tendo noção sobre o valor mínimo, é o evidente que não se pode entender como se chegou à pena -base de R$ 8.333,33, e, tampouco, ao valor da penalidade pretendida”.
+No entanto, constou do aresto impugnado, verbis:
+“Outrossim, com relação à nulidade da decisão administrativa, tem-se que o procedimento que ensejou a aplicação da multa aplicada pelo PROCON foi realizado dentro dos procedimentos legais, respeitando o contraditório e a ampla defesa, sendo certo que a apelante foi intimada de todos os atos processuais ali praticados.
+Além disso, tal ato administrativo foi devidamente fundamentado, havendo a subsunção da conduta lesiva ao consumidor, o que afasta qualquer nulidade.
+Por fim, no que tange ao valor da multa, a recorrente alega que é exorbitante. Sem razão, visto que a multa administrativa foi fixada dentro dos parâmetros legais, em razão da gravidade das infrações dispostas no auto de infração e, ainda, com observância da condição econômica do fornecedor, de modo que não se evidencia irrazoabilidade no valor fixado administrativamente.
+(...)
+Além disso, a sanção aplicada deve ser suficiente para coibir a conduta lesiva por parte da empresa. Em outras palavras, além de sua natureza sancionatória, a multa deve desestimular, pelo menos sob o prisma econômico, a repetição da prática tida por ilegal”. (id 40529493 - p. 3-4)
+Logo, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. PROCON. AUTO DE INFRAÇÃO. NULIDADE. SÚMULAS 7 DO STJ E 280 DO STF. APLICAÇÃO. VALOR DA MULTA. CONCURSO DE INFRAÇÕES E REINCIDÊNCIA. MAJORAÇÃO. CRITÉRIOS ESTABELECIDOS EM PORTARIA. EXAME. IMPOSSIBILIDADE.
+1. ‘Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça’ (Enunciado Administrativo n. 2).
+2. Hipótese em que o Tribunal de origem não vislumbrou nenhuma ilegalidade no procedimento administrativo, concluindo que a disponibilização de ingressos de meia-entrada para estudantes no limite de 30% configura prática abusiva, além de reconhecer a existência de falhas na prestação dos serviços, amparando-se na Lei Estadual n. 7.844/1992 e no Decreto Estadual n. 35.606/1992.
+3. A revisão do entendimento do aresto hostilizado, no tocante à legalidade da sanção aplicada, esbarra nos óbices das Súmulas 7 do STJ e 280 do STF.
+4. No que tange à proporcionalidade da multa arbitrada, verifica-se que eventual afronta aos arts. 56 e 57 do CDC seria meramente reflexa, porquanto as instâncias ordinárias aplicaram a regra do concurso de infrações prevista na Portaria do Procon n. 26/06, cuja interpretação escapa à competência do STJ por configurar ato infralegal, além de considerar a agravante da reincidência na dosimetria da pena, cuja revisão demanda o exame do contexto fático-probatório.
+5. Agravo interno desprovido”. (AgInt no AREsp 1424692/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/09/2019, DJe 26/09/2019)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 24 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
