@@ -1,0 +1,62 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial n. 1019047-96.2019.811.0000 - PJE
+Recorrente: BANCO DO BRASIL S.A.
+Recorrido: CLOVIS JOSE MINOZZO
+Vistos, etc.
+Trata-se de Recurso Especial interposto pelo BANCO DO BRASIL S.A., com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Privado, assim ementado (ID. 43938462):
+“AGRAVO DE INSTRUMENTO – AÇÃO CONDENATÓRIA – PRETENSÃO DE RESSARCIMENTO DE DIFERENÇA DA CORREÇÃO MONETÁRIA APLICADA EM CÉDULAS RURAIS NO MÊS DE MARÇO/1990 – REALIZAÇÃO DE PERÍCIA CONTÁBIL NOS EXTRATOS DAS CONTAS VINCULADAS ÀS OPERAÇÕES – REJEIÇÃO DA IMPUGNAÇÃO E HOMOLOGAÇÃO DO LAUDO – FUNDAMENTAÇÃO SUFICIENTE PARA A REJEIÇÃO DA IMPUGNAÇÃO – AUSÊNCIA DE INDICAÇÃO E DEMONSTRAÇÃO DO ERRO DE METODOLOGIA DO CÁLCULO ELABORADO PELO PERITO – DECISÃO MANTIDA – RECURSO DESPROVIDO. 1. “A jurisprudência do STJ orienta que não há nulidade do julgamento se a fundamentação, embora concisa, for suficiente para a solução da demanda” (STJ – 3a Turma – REsp 1589352/PR – Rel. Ministra NANCY ANDRIGHI – j. 02/04/2019, DJe 04/04/2019). 2. A simples repetição de críticas ao laudo pericial contidas no parecer do assistente técnico da parte, sem qualquer comprovação de erro da metodologia empregada, enseja ratificação da conclusão decisória de homologação do cálculo tecnicamente acertado e condizente com diretrizes traçadas por decisões anteriores. (TJMT – Agravo de Instrumento no 1019047-96.2019.811.0000, DES. JOÃO FERREIRA FILHO, Primeira Câmara de Direito Privado, Julgado em 27/05/2020).
+O Recorrente alega violação aos artigos 371, 379 e 489, §1o, incisos III e IV, todos do CPC, ao argumento de que o Órgão Fracionário não promoveu a prestação jurisdicional ao negar provimento ao agravo de instrumento interposto, incorrendo em negativa de prestação jurisdicional, pois deixou de enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, razão pela qual requer que o acórdão recorrido deve ser declarado nulo, para que se determine que a Corte Estadual prolate nova decisão que contemple, de forma fundamentada, as questões suscitadas na impugnação ao laudo pericial.
+Recurso tempestivo (ID. 47947143).
+A parte Recorrida não ofertou contrarrazões, conforme certidão (ID. 51537971).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso. Por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Com essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Violação aos artigos 371, 379 e 489, §1o, incisos III e IV, todos do CPC. Ausência de fundamentação no julgado.
+O Recorrente alega violação aos artigos 371, 379 e 489, §1o, incisos III e IV, todos do CPC, ao fundamento de que o acórdão recorrido deixou de enfrentar todos os argumentos deduzidos no processo, uma vez que não apreciou a impugnação aos cálculos colacionados pelo Banco Recorrente, levando o julgador a proferir decisão de forma equivocada e sem fundamentação.
+Pois bem, o julgador não está obrigado a apreciar todos os argumentos invocados pelas partes no processo, mas sim, analisar o núcleo central das questões colocadas em debate e relevantes para a decisão, observado o contraditório e o devido processo legal.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora se manifestou repetidamente sobre todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada, senão vejamos:
+“Embora o Banco/agravante não tenha trazido aos autos todas as informações a respeito do desenrolar da perícia, em consulta ao sítio eletrônico do eg. Tribunal de Justiça foi constatado que o laudo pericial foi apresentado no ano de 2015 (cf. fls. 260/302 dos autos de origem), e que em razão de sucessivas impugnações de ambas as partes, foram apresentados laudos complementares (cf. fls. 317/347 e fls. 423/426 dos autos de origem), sendo que em 03/08/2018 foi proferida decisão determinando novos esclarecimentos pelo Sr. Perito, com os seguintes fundamentos:
+“No tocante ao pedido de suspensão do trâmite processual por conta do Resp n. 1.438.263/SP, no aludido recurso fora determinada “a suspensão de todos os processos em fase de liquidação/cumprimento de sentença, nos quais não tenha recebido solução definitiva a questão da legitimidade ativa de não associado para execução de sentença coletiva”.
+A propósito:
+(...)
+Assim, não versa sobre a hipótese tratada nos autos, pois não se trata de liquidação ou execução de sentença.
+Ainda, depara-se com a desafetação do aludido recurso, conforme o seguinte julgado:
+(...)
+Logo, INDEFIRO o pedido de suspensão do trâmite processual (fls. 395/396).
+Por outro lado, a parte autora, às fls. 420/422 e às fls. 439/444-verso, pede a realização de nova perícia ou, no mínimo, a substituição do perito, por conta das omissões e inexatidões, com a devolução dos honorários periciais e aplicação de multa, além da comunicação ao Conselho Regional de Contabilidade.
+O Banco demandado, por sua vez, às fls. 438/438-verso, pede a dilação do prazo para se manifestar sobre o laudo complementar de fls. 423/426.
+Realmente, da decisão de fls. 411/414 restou que:
+“Assim, se se fará a atualização até os dias atuais, que se faça conforme a jurisprudência hodierna: juros de mora de 1% desde a citação e correção monetária pelo INPC desde o respectivo desembolso.
+Por outro lado, também devem constar do cálculo pericial todos os valores pagos a maior, ou seja: se houve pagamento a maior no “quantum” atinente aos juros e correção monetária, oriundos da cobrança a maior das parcelas, estes também devem integrar o cálculo, seguindo as balizas anteriores. ”
+A parte autora, em resumo, assinala que o cálculo não observou a ordem judicial, destacando a letargia para que se apresente o laudo definitivo.
+Acerca do equívoco do laudo pericial, é questão meritória e que, para tanto, imprescindível a oitiva do perito. Agora, acerca da letargia, não há o que se falar na medida em que, intimado em 07.04.2017 (fl. 417-verso), o perito somente se dignou em apresentar o laudo em 19.06.2018.
+Ocorre que, no momento, a complementação já se encontra incrustada nos autos. Assim, é preciso inquirir o perito mais uma vez sobre as irresignações, no entanto, assegurando que o faça em tempo exíguo.
+Posto isso, INTIME-SE o perito para que, no prazo peremptório de 15 dias, manifeste sobre a irresignação apresentada às fls. 432/436-verso e 439/444-verso, esclarecendo, de forma específica e minudente, no que se diferencia o seu cálculo em relação ao que fora apresentado pela parte autora às fls. 434-verso/436-verso e, por via de consequência, no que estaria equivocado o cálculo de fls. 434-verso/436-verso, sempre tendo por base a decisão de fls. 411/414, além de rebater precisamente a suscitação de omissão e inexatidões na elaboração da perícia. Se transcorrer “in albis” tal prazo ou apresentar laudo sem resposta conclusiva, o perito estará imediatamente destituído do “múnus”, com a devolução dos honorários periciais já depositados e recebidos (fls. 253 e 316), sem prejuízo de adoção de demais penalidades.
+Após, apresentada complementação do perito, INTIMEM-SE as partes para, no prazo de 15 dias, manifestarem nos autos.
+Por conseguinte, está prejudicado o pedido de fls. 438/438-verso.
+ÀS PROVIDÊNCIAS.”
+Apresentado, por fim, o laudo complementar de fls. 466/497, o autor manifestou concordância, enquanto que o Banco/réu apresentou a petição de fls. 564/564vo, limitando-se a juntar parecer do seu assistente técnico (cf. fls. 565/566vo), com “divergências na metodologia dos cálculos realizados”, requerendo “que o Sr. Perito respond(esse) os questionamentos no laudo ora juntado, bem como realiz(asse) novos cálculos como apontado” no parecer técnico, onde o seu assistente afirmava que “os índices de atualização utilizados pelo I. Perito encontram-se excessivos e em desconformidade com as determinações judiciais”; que “o Perito não demonstra de forma clara os percentuais e a metodologia utilizada para os cálculos”; que “a apuração dos juros consiste em adotar o percentual de 1,0% a.m. desde a data da citação (10/11/2011)”, e que “não há no que se falar em diferenças de IRP e juros pagos, uma vez que os referidos valores já estão inclusos da controversas apuradas de NCz$ 825.621,75, NCz$ 935.704,65 e NCz$ 519.901,31, que foram devidamente atualizados pelos índices disponibilizados pelo Banco Central do Brasil - BACEN” (sic – cf. ID 31157977 - Pág. 4/6).
+Em seguida foi proferida a decisão agravada, rejeitando a impugnação do Banco/réu/agravante e homologando o laudo, com os seguintes fundamentos:
+“Em que pese a irresignação de fls. 565/566-verso, a verdade é que, não obstante a parte impugnante defender a inexistência de ‘diferença de IRP e juros pagos’, uma vez que tais valores ‘já estão inclusos da controversas apuradas de NCz$ 825.621,75, NCz$ 935.704,65 e NCz$ 519.901,31’, nada se vê nesse sentido, passando ao largo qualquer comprovação de tal alegação.
+Aqui não há que se falar em preclusão, haja vista que a parte impugnante não se insurge quanto ao pagamento de valores a maior, mas, sim, a sua inexistência, o que, como acima apontado, não restou devidamente comprovado nos autos.
+Por fim, vale dizer que não se depara com qualquer irregularidade a ser sanada.
+Por todo o exposto, INDEFIRO a impugnação de fls. 565/566-verso e, via de consequência, uma vez que a parte exequente apresentou sua anuência (fls. 557/560), HOMOLOGO o laudo pericial de fls. 468/497.
+Logo, INTIMEM-SE as partes para, no prazo de 15 dias, pugnarem o que entenderem de direito.”
+Ora, não há falar em ausência de fundamentação na decisão agravada. Ainda que de forma concisa, o MM. Juiz rejeitou a impugnação apresentada pelo Banco/réu/agravante porque este não comprovou a alegação de inexistência de “diferença de IRP e juros pagos” e de que “tais valores (já estariam) inclusos da controversas apuradas de NCz$ 825.621,75, NCz$ 935.704,65 e NCz$ 519.901,31”, havendo, pois, fundamentação satisfatória da conclusão decisória.
+Outrossim, a “jurisprudência do STJ orienta que não há nulidade do julgamento se a fundamentação, embora concisa, for suficiente para a solução da demanda” (STJ – 3a Turma – REsp 1589352/PR – Rel. Ministra NANCY ANDRIGHI – j. 02/04/2019, DJe 04/04/2019).
+O Banco/agravante insiste em que “deveria ter sido analisado a impugnação do Banco do Brasil, antes da homologação de qualquer cálculo nos autos, eis que até o presente momento é desconhecido nos autos se a parte autora possui capacidade ativa para ingressar em Juízo, dentre diversas questões prejudiciais lançadas na impugnação” (cf. ID 28281529 - Pág. 7), contudo, sequer houve propriamente uma impugnação, tampouco arguição a respeito de “questões prejudiciais”, já que o Banco/agravante se limitou a juntar o parecer de seu assistente técnico e a pleitear a realização de novos cálculos em conformidade com os cálculos elaborados no parecer então juntado, sem, no entanto, comprovar a existência de efetiva irregularidade nas contas do Sr. Perito.
+Assim, realmente não há qualquer reparo a ser feito na decisão agravada, mesmo porque, conforme constou de decisão proferida nos idos de 2016, “a estipulação da correção monetária e juros de mora e, inclusive, o seu marco inicial, é questão a ser solvida no mérito (da ação de origem), porém, com a cognição própria ao momento, mostra-se viável estabelecer alguns parâmetros para que a evolução da dívida se dê até os dias atuais”.
+A simples repetição de críticas ao laudo pericial contidas no parecer do assistente técnico da parte, sem qualquer comprovação de erro da metodologia empregada, enseja ratificação da conclusão decisória de homologação do cálculo tecnicamente acertado e condizente com diretrizes traçadas por decisões anteriores. ”
+Diante desse quadro, não há evidência de violação ao artigo supracitado, que conduz à inadmissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 27 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVII
