@@ -1,0 +1,79 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial n. 1001302-82.2016.811.0041
+RECORRENTE: LUZIMAR FERREIRA
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de Recurso Especial interposto por LUZIMAR FERREIRA com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo, assim ementado (ID. 1687959):
+“CONSTITUCIONAL E ADMINISTRATIVO – APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – URV – SENTENÇA PELA IMPROCEDÊNCIA – PRESCRIÇÃO – NÃO OCORRÊNCIA – INCIDÊNCIA DA SÚMULA 85 DO STJ – DEFASAGEM REMUNERATÓRIA DECORRENTE DA CONVERSÃO ERRÔNEA E PERCENTUAL DEVIDO – SENTENÇA ILÍQUIDA – IMPRESCINDIBILIDADE DE SUA LIQUIDAÇÃO – TERMO AD QUEM – DATA EM QUE OCORREU A REESTRUTURAÇÃO DA CARREIRA DOS SERVIDORES – CORREÇÃO MONETÁRIA – INPC, ATÉ 30/06/2009 – APÓS, TR – HONORÁRIOS ADVOCATÍCIOS – FIXADOS PELO JUÍZO DE EXECUÇÃO – SENTENÇA ILÍQUIDA – RECURSO PROVIDO – PEDIDO INICIAL JULGADO PROCEDENTE, EM PARTE.
+Reconhecidas as diferenças remuneratórias decorrentes da conversão da moeda, a prescrição atinge tão somente as parcelas vencidas até os 5 (cinco) anos que antecederam a data da propositura da ação (Súmula 85 do STJ), por ser a referida relação jurídica de trato sucessivo, que se renova mês a mês.
+O Superior Tribunal de Justiça firmou entendimento de que é obrigatória a observância, pelos Estados e Municípios, dos critérios previstos na Lei Federal no 8.880/1994, para a conversão, em URV, dos vencimentos de seus servidores, mesmo os dos empossados após o advento da referida Lei (STJ, Ag 1.124.660/MG, Rel. Min. Maria Thereza de Assis Moura, DJe de 22.10.2010)
+O valor da alegada diferença remuneratória é somente devido ao servidor público, quando, na liquidação da sentença, for constatada a errônea conversão de cruzeiros reais em URV e o respectivo índice.
+O término da incorporação do índice obtido em cada caso, na remuneração, deve ocorrer no momento em que a carreira do servidor passa por uma reestruturação, porquanto não há direito à percepção ad aeternum de parcela de remuneração por servidor público.
+Em relação ao regime de atualização monetária, incidente sobre as condenações judiciais da Fazenda Pública, deve-se utilizar o INPC, até 30 de junho de 2009, e, após, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Os juros moratórios devem ser fixados a partir da citação, com os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, conforme a redação do art. 1o-F da Lei no 9.494/1997, com redação dada pela Lei no 11.960/2009.
+Considerando a necessidade de ser apurado, na liquidação da sentença, o valor devido, e se devido, da defasagem remuneratória pleiteada, os honorários advocatícios serão definidos no juízo de execução, nos termos previstos no artigo 85, § 4o, inciso II, do CPC. (Apelação Cível no 1001302-82.2016.811.0041, DES. MARCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 19/03/2018). ”
+Recurso tempestivo (ID. 2153966).
+Sem contrarrazões.
+A Recorrente alega violação ao artigo 1o-F da Lei n. 9.494/97, com redação dada pela Lei n. 11.960/09, além de divergência jurisprudencial, ao argumento de que a modulação dos efeitos da declaração de inconstitucionalidade parcial do art. 1o-F da lei n. 9.494/97, com redação dada pela Lei n. 11.960/2009, remete exclusivamente ao regime especial de pagamento de precatórios expedidos ou pagos até 25/03/2015, de modo que a referida modulação não se aplica aos processos em curso.
+Requer o provimento do recurso para que a correção monetária seja calculada com base no INPC até o advento da Lei n. 11/960/2009 (29/06/2009), e após pelo IPCA.
+ID. 2532068, foi determinado o sobrestamento do trâmite processual deste recurso, para aguardar o julgamento do REsp n. 1495146/MG, 1492221/PR e 1495144/RS (Tema 905), por se tratar de matéria repetitiva.
+Na decisão proferida no ID. 27614011, com fundamento no art. 1.030, II, do CPC, determinou-se o retorno dos autos à Câmara de origem para que se procedesse a eventual juízo de retratação, em razão da aparente desconformidade do aresto com o entendimento do Superior Tribunal de Justiça firmado nos paradigmas REsp’s 1495146/MG, 1492221/PR e 1495144/RS, julgados ante a sistemática de precedentes qualificados (Tema 905/STJ).
+Em cumprimento à referida determinação, o órgão fracionário, prolatou nova decisão (ID. 40206982). Confira-se a ementa:
+“JUÍZO DE RETRATAÇÃO – RECURSO DE APELAÇÃO COM REEXAME NECESSÁRIO – AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO – CONVERSÃO DE CRUZEIRO REAL PARA URV – DEFASAGEM REMUNERATÓRIA DECORRENTE DA CONVERSÃO ERRÔNEA E PERCENTUAL DEVIDO – SENTENÇA ILÍQUIDA – IMPRESCINDIBILIDADE DE SUA LIQUIDAÇÃO – CORREÇÃO MONETÁRIA E JUROS – OBSERVÂNCIA DO ENTENDIMENTO ESPOSADO NO TEMA No 905/STJ RECURSO, EM PARTE, PROVIDO.
+Em relação ao regime de atualização monetária, em vista das decisões proferidas nas ADIs ns. 4.357 e 4.425, no RE n. 870.947/SE (Tema n. 810) e no REsp n. 1.495.146/MG (Tema n. 905), deve-se utilizar o Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E).
+Quanto aos juros moratórios, a partir da citação válida, na ordem de 1% (um por cento), capitalizados de forma simples até julho de 2001; de agosto de 2001 a junho de 2009, incidente o percentual de 0,5% (meio por cento), e a partir de julho de 2009, os índices da remuneração oficial da caderneta de poupança. (Juízo de Retratação n. 1001302-82.2016.811.0041, Des. Marcio Vidal, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 18/05/2020)”.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos – Tema 905
+Do não sobrestamento do feito
+Saliente-se, de início, que os Embargos de Declaração opostos no RE 870.947/SE (Tema 810), processado perante a sistemática de precedentes qualificados, já foram julgados, ocasião em que foram rejeitados, concluindo-se pelo afastamento da pretendida modulação de efeitos da decisão anteriormente proferida, mantendo-se incólume o acórdão de mérito proferido no indigitado paradigma.
+Desse modo, em virtude da ausência de alteração do aresto meritório, já publicado, conclui-se pela possibilidade de os Tribunais aplicarem desde já as teses firmadas pelos Tribunais Superiores.
+Aliás, esse foi o entendimento da Ministra MARIA THEREZA DE ASSIS MOURA, quando do juízo de admissibilidade do Recurso Extraordinário interposto contra o aresto proferido no paradigma REsp 1.492.221 – PR (Tema 905/STJ). Com efeito, constou da decisão, in verbis:
+“É certo que, na decisão de fls. 2139/2147, atribuí efeito suspensivo ao presente Recurso Extraordinário até a publicação do acórdão dos aclaratórios.
+Observo, porém, que os quatro embargos de declaração opostos pela Confederação Nacional dos Servidores Públicos (CNSP) conjuntamente com a Associação Nacional dos Servidores do Poder Judiciário (ANSJ), pelo Estado do Pará, pelo Estado do Acre (e outros) e pelo INSS, foram rejeitados, sem que houvesse a modulação de efeitos da decisão anteriormente proferida, em julgamento havido na sessão do Supremo Tribunal Federal de 03/10/2019 (ata publicada em 18/10/2019).
+Em consequência, o acórdão de mérito manteve-se hígido, o que já autoriza os Tribunais do País a aplicarem a tese posta, tal qual decidiu o STF, no Plenário e nas Turmas”.
+Da perda do objeto
+In casu, discute-se a aplicabilidade do art. 1o-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora.
+Consoante relatado, ao julgar a Apelação Cível n. 1001302-82.2016.811.0041 em juízo de retratação, a Câmara de origem prolatou novo acórdão, reformando o posicionamento anteriormente adotado para consignar, litteris:
+“Ressalta-se que o STJ, por ocasião do julgamento do REsp n. 1.495.146/MG, submetido ao regime representativo de controvérsia/repetitivo, sob o Tema n. 905, encerrado em 22/02/2018, sinalizou o não cabimento, nos feitos pendentes de julgamento, da modulação dos efeitos da declaração de inconstitucionalidade em análise, visto que a dinâmica serviu, apenas, aos precatórios expedidos ou pagos até 25/03/2015, para preservação e estabilidade da coisa julgada.
+O referido julgado do STJ apontou, ainda, a impossibilidade de fixação apriorística da taxa de correção monetária, diante do que formulou uma subdivisão, conforme a natureza da condenação, e indicou os índices que, atualmente, refletem a correção monetária ocorrida em cada momento econômico. É o que se extrai da ementa do aludido Recurso Repetitivo. Veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART.
+1o-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A INDÉBITO TRIBUTÁRIO.
+" TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1o-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+1.1 Impossibilidade de fixação apriorística da taxa de correção monetária.
+No presente julgamento, o estabelecimento de índices que devem ser aplicados a título de correção monetária não implica pré-fixação (ou fixação apriorística) de taxa de atualização monetária. Do contrário, a decisão baseia-se em índices que, atualmente, refletem a correção monetária ocorrida no período correspondente. Nesse contexto, em relação às situações futuras, a aplicação dos índices em comento, sobretudo o INPC e o IPCA-E, é legítima enquanto tais índices sejam capazes de captar o fenômeno inflacionário.
+1.2 Não cabimento de modulação dos efeitos da decisão.
+A modulação dos efeitos da decisão que declarou inconstitucional a atualização monetária dos débitos da Fazenda Pública, com base no índice oficial de remuneração da caderneta de poupança, no âmbito do Supremo Tribunal Federal, objetivou reconhecer a validade dos precatórios expedidos ou pagos até 25 de março de 2015, impedindo, desse modo, a rediscussão do débito baseada na aplicação de índices diversos. Assim, mostra-se descabida a modulação em relação aos casos em que não ocorreu expedição ou pagamento de precatório.
+2. Juros de mora: o art. 1o-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral.
+As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos.
+As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+3.1.2 Condenações judiciais referentes a desapropriações diretas e indiretas.
+No âmbito das condenações judiciais referentes a desapropriações diretas e indiretas existem regras específicas, no que concerne aos juros moratórios e compensatórios, razão pela qual não se justifica a incidência do art. 1o-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), nem para compensação da mora nem para remuneração do capital.
+3.2 Condenações judiciais de natureza previdenciária.
+As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art.
+1o-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+3.3 Condenações judiciais de natureza tributária.
+A correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às utilizadas na cobrança de tributo pago em atraso. Não havendo disposição legal específica, os juros de mora são calculados à taxa de 1% ao mês (art. 161, § 1o, do CTN). Observada a regra isonômica e havendo previsão na legislação da entidade tributante, é legítima a utilização da taxa Selic, sendo vedada sua cumulação com quaisquer outros índices.
+4. Preservação da coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto.
+" SOLUÇÃO DO CASO CONCRETO.
+5. Em se tratando de dívida de natureza tributária, não é possível a incidência do art. 1o-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009) - nem para atualização monetária nem para compesação da mora -, razão pela qual não se justifica a reforma do acórdão recorrido.
+6. Recurso especial não provido. Acórdão sujeito ao regime previsto no art. 1.036 e seguintes do CPC/2015, c/c o art. 256-N e seguintes do RISTJ. (REsp 1495146/MG - Rel. Ministro Mauro Campbell Marques - Primeira Seção - Julgado em 22/02/2018 - DJe 02/03/2018).
+No caso vertente, por se tratar de condenação da Fazenda Pública, a reconhecer, ao servidor/empregado público, o direito à percepção de verbas salariais, nos termos do julgado do Tribunal Cidadão, a atualização dos créditos deverá obedecer aos seguintes critérios:
+a) relativamente à correção monetária, utiliza-se o Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E), porque a parte recorrente faz jus ao recebimento dos valores advindos da conversão da moeda em URV, caso existentes, correspondentes ao posterior a 29/01/2009;
+b) no tocante aos juros moratórios, deverá ser observado o percentual de 1% ao mês (capitalização simples) até julho de 2001; de 0,5% ao mês entre agosto de 2001 e junho de 2009; e a partir de julho de 2009, os índices da remuneração oficial da caderneta de poupança. ”
+Desse modo, em análise à pretensão recursal, observa-se que se operou a perda superveniente do objeto do presente Recurso Especial, uma vez que houve a retratação do acórdão e a parte Recorrente, apesar de intimada, não interpuseram novo recurso, tampouco ratificou os termos daquele já interposto.
+Ante o exposto, julgo prejudicado o presente recurso, por perda superveniente do interesse recursal, com fundamento no art. 932, inciso III, do CPC.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVII
