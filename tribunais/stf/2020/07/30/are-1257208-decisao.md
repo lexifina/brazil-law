@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 10, pp. 19-21):
+    “APELAÇÃO CRIME. IMPUTAÇÃO AO ART. 316 DO CP. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA E DO ASSISTENTE DE ACUSAÇÃO.
+    1) PLEITO DA DEFESA:
+    A) PRELIMINAR DE NULIDADE. EXCLUSÃO DA GRAVAÇÃO AMBIENTAL E DAS DEMAIS PROVAS PROVENIENTES DESTA. TESE DEFENSIVA QUE SE FUNDA NO DISPOSTO NO ART. 157 DO CPP. DESPROVIMENTO. A GRAVAÇÃO AMBIENTAL REALIZADA POR UM DOS INTERLOCUTORES NÃO NECESSITA DE AUTORIZAÇÃO JUDICIAL. PRECEDENTES DA CORTE SUPERIOR.
+    B) PEDIDO DE ABSOLVIÇÃO. INVIABILIDADE. AUTORIA E MATERIALIDADE DEMONSTRADAS. PALAVRA DA VÍTIMA QUE TEM MAIOR RELEVÂNCIA NESTA ESPÉCIE DE DELITO. ALEGAÇÃO DO RÉU CONFLITANTE COM OS DEMAIS ELEMENTOS DE PROVA. CONDUTA QUE SE ADEQUA AO TIPO PENAL DE CONCUSSÃO.
+    2) RECURSO DO ASSISTENTE DE ACUSACÃO: CONHECIMENTO DO RECURSO, LEGITIMIDADE PARA RECORRER EM CARÁTER SUPLETIVO. PRECEDENTES DA CORTE SUPERIOR.
+    A) PEDIDO DE EXASPERAÇÃO DA PENA EM OBSERVÂNCIA A CULPABILIDADE. ART. 59 DO CÓDIGO PENAL. TESE ACOLHIDA. CULPABILIDADE ACENTUADA. SERVIDOR DO QUADRO DA POLÍCIA CIVIL COM DEVER DE COMBATER DELITOS, UTILIZAÇÃO DA FUNÇÃO PÚBLICA PARA PRATICÁ-LOS. MAIOR REPROVABILIDADE DA CONDUTA.
+    B) AUMENTO NOS DIAS-MULTA. CONSEQUENCIA DA ALTERAÇÃO NA DOSIMETRIA DA PENA. DIAS-MULTA GUARDA CONSONÂNCIA COM A PENA PRIVATIVA DE LIBERDADE FIXADA.
+    C) PEDIDO DE AUMENTO NO VALOR FIXADO PARA OS DIAS-MULTA. INVIABILIDADE. MAGISTRADO QUE OBSERVOU O PATAMAR LEGAL DE ACORDO COM A SITUAÇÃO ECONÔMICA DO ACUSADO. MANUTENÇÃO DA FIXAÇÃO DE 1/30 DO SALÁRIO MÍNIMO. RECURSO NÃO ACOLHIDO NESTE ASPECTO.
+    1) RECURSO DA DEFESA CONHECIDO E NÃO PROVIDO.
+    2) RECURSO DO ASSISTENTE DE ACUSAÇÃO CONHECIDO E PARCIALMENTE PROVIDO, A FIM DE INCIDIR CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL NA FASE DO ART. 59 CP.
+    3) DE OFÍCIO, FIXAÇÃO DAS CONDIÇÕES DO REGIME ABERTO AO RÉU.“
+    Os embargos de declaração foram rejeitados (eDOC 10, p. 80).
+    No recurso extraordinário (eDOC 10, pp. 91-97), interposto com fundamento no art. 102, III, a, do permissivo constitucional. Sustenta-se, em suma, que o acórdão recorrido violou o princípio da individualização da pena ao valorar negativamente a culpabilidade com base em circunstância intrínseca ao tipo penal.
+    Na origem, o apelo extremo foi inadmitido com a aplicação da Súmula 284 do STF (eDOC 10, pp. 133-136).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifico que o recorrente não indicou quais dispositivos constitucionais teriam sido violados pelo acórdão recorrido, o que atrai a incidência da Súmula 284 do STF.
+    Nesse sentido: ARE 1.089.292, Rel. Min. MARCO AURÉLIO, DJe 03.04.2018; ARE 893.469, Rel. Min. ROBERTO BARROSO, DJe 24.08.2017.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
