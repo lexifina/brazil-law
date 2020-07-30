@@ -1,0 +1,29 @@
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de antecipação dos efeitos da tutela recursal interposto por MAURO JUNIOR MACHADO contra decisão proferida pelo Juízo da Quinta Vara da Especializada da Fazenda Pública da Comarca de Cuiabá/MT, que, nos autos do Mandado de Segurança n. 1028812-31.2020.8.11.0041, impetrado em desfavor do ESTADO DE MATO GROSSO, indeferiu a liminar pleiteada ante a ausência de fumus boni iuris.
+A parte agravante aduz, em síntese, que restou amplamente demonstrado, totalmente abusiva e ilegal a apreensão de mercadorias como meio coercitivo para obter o pagamento de multa supostamente devidas e não foi verificado na decisão administrativa que já havia sido impugnado o crédito tributário constituído.
+Alega, também, que o periculum in mora evidencia-se uma vez que já foi lavrado o Termo de Verificação Fiscal, o crédito tributário foi constituído e lançado, não havendo necessidade de apreensão da mercadoria que está armazenada no Posto Fiscal Flávio Gomes, sendo que no local não existe depósito específico para armazenamento, acarretando no perecimento da mercadoria, que pode ser danificada devido a luz solar e calor do Estado de Mato Grosso, pois trata-se de batons e equipamentos de maquiagem, que irão derreter e dissolver-se, acarretando em dano irreparável ou de difícil reparação.
+Pautado nesses argumentos, requer a concessão da antecipação da tutela recursal para que seja deferida a nomeação de fiel depositário, tendo em vista que foi cumprida a exceção suscitada na decisão administrativa da autoridade coatora que não verificou a distribuição da impugnação do crédito tributário, não agindo com a cautela necessária, de igual modo com espeque no artigo no 13, incisos I e II da Portaria no 58/2018-SEFAZ/MT (id. 51083479).
+É o relatório.
+Decido.
+A decisão recorrida tem natureza interlocutória, logo, atacável via recurso de agravo de instrumento, razão pela qual o conheço, notadamente por se enquadrar nas hipóteses previstas no art. 1.015, do CPC/2015.
+Nos termos do art. 995, parágrafo único, do CPC/2015, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator se, da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+In casu, o agravante fundamentou sua pretensão debatendo, em síntese, que a apreensão de mercadorias como meio coercitivo para pagamento de multa supostamente devida mostra-se totalmente ilegal e abusiva.
+Salienta, ainda, que a decisão administrativa que indeferiu sua nomeação como fiel depositário não observou que o crédito tributário constituído já havia sido impugnado, em atendimento ao art. 13, incisos I e II, da Portaria n. 58/2018-SEFAZ/MT.
+No entanto, nessa análise perfunctória dos autos, entende-se que não assiste razão à agravante.
+Isso porque inexiste ilegalidade na apreensão realizada, uma vez que ocorreu para cessar infração material instantânea de efeitos permanentes e impedir que tais mercadorias circulassem livremente, de forma irregular, neste Estado, por se tratar de “Mercadorias acobertadas por documento fiscal inidôneo”, consoante consta do Termo de Verificação Fiscal objeto da ação principal (id. 51083493).
+Sobre a aplicabilidade da Súmula n. 323 do Supremo Tribunal Federal, a Seção de Direito Público deste Tribunal, em sede de incidente de resolução de demandas repetitivas, fixou a seguinte tese:
+“[...] Desde que estritamente relacionada à operação fiscalizada e sem a intenção de cobrança de valores pretéritos, inexiste ilegalidade na apreensão de mercadoria que visa coibir infração material de caráter continuado, seja: a) por ausência de documentação fiscal; b) por estar a mercadoria desacompanhada do recolhimento do diferencial de alíquota quando o destinatário for contribuinte do ICMS; c) pelo não recolhimento do ICMS em razão do regime especial a que esteja submetido o contribuinte, conforme legislação estadual.
+Anote-se que o conteúdo da Súmula 323 do STF foi apenas o parâmetro dos fundamentos, o ponto referencial do tema da discussão, não sendo tese a ser discutida ou fixada neste IRDR, pela lógica de se tratar de assunto sumulado. Por isto, deixo de manifestar a título de fixação”. (IRDR No 1012269-81.2017.8.11.0000).
+O Tribunal de Justiça do Estado de Mato Grosso, aliás, tem assim decidido em casos semelhantes:
+APELAÇÃO — MANDADO DE SEGURANÇA — APREENSÃO DE MERCADORIA — POSSIBILIDADE — AUSÊNCIA DE NOTA FISCAL A ACOBERTAR A OPERAÇÃO — INFRAÇÃO MATERIAL INSTANTÂNEA DE EFEITOS PERMANENTES.
+Inexiste ilegalidade na apreensão que visa cessar infração material instantânea de efeitos permanentes, consubstanciada no transporte de mercadorias desacompanhadas de nota fiscal a acobertar a operação. Recurso provido.
+(N.U 0504476-93.2015.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, LUIZ CARLOS DA COSTA, Segunda Câmara de Direito Público e Coletivo, Julgado em 10/12/2019, Publicado no DJE 17/12/2019).
+Desse modo, ao menos nessa fase de cognição sumária, por não estar demonstrada a presença dos requisitos necessários para a concessão do efeito suspensivo/ativo, o indeferimento do pleito é medida que se impõe.
+Assim, faz-se imprescindível o regular processamento do agravo de instrumento interposto, com a consequente juntada das contrarrazões recursais, a fim de se obter elementos capazes de realizar uma análise mais detalhada das irresignações contidas neste recurso.
+Ante o exposto, não concedo o efeito suspensivo/ativo vindicado.
+Dê-se ciência da presente decisão ao juiz de piso, para a adoção das medidas eventualmente cabíveis.
+Intime-se a parte agravada para, querendo, apresentar contrarrazões, no prazo máximo de 15 (quinze) dias, nos termos do art. 1.019, inciso II, do Código de Processo Civil.
+Após, vista à douta Procuradoria-Geral de Justiça.
+Intimem-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Relatora
