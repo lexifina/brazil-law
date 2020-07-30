@@ -1,0 +1,42 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5001220-29.2018.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TAM LINHAS AEREAS S/A.
+RECORRIDO: HEDIMARA MATTIUZZI PEDRINI
+RELATOR(A
+):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado (Enunciado 92 do FONAJE).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EEMENTA: RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIREITO DO CONSUMIDOR. AQUISIÇÃO DE PASSAGEM AÉREA DE ORLANDO/EUA PARA VITÓRIA/ES. ATRASO DE VOO. PROBLEMAS MECÂNICOS COM A AERONAVE. PROBLEMAS NO SISTEMA DE VENTILAÇÃO. AVIÃO COM MAU CHEIRO. CHEGADA PROGRAMADA PARA 20H20MIN QUE SÓ EFETIVAMENTE OCORREU ÀS 02H. ATRASO DE MAIS DE CINCO HORAS. COMPANHIA QUE NÃO FORNECEU ALIMENTAÇÃO E ACOMODAÇÃO ADEQUADA AOS PASSAGEIROS. CASO FORTUITO NÃO CONFIGURADO. FALHA NA PRESTAÇÃO DE SERVIÇOS. DANO MORAL COMPROVADO, PORÉM FIXADO EM MONTANTE DESPROPORCIONAL. VALOR REDUZIDO DE R$ 20.000,00 (VINTE MIL REAIS) PARA R$ 6.000,00 (SEIS MIL REAIS). RECURSO DA REQUERIDA CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA PARCIALMENTE REFORMADA.
+
+GABRIEL BRIDE
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. SALOMÃO A. Z. SPENCER ELESBON – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+A unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
