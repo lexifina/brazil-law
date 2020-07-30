@@ -1,0 +1,35 @@
+Decisão: Trata-se de reclamação com pedido de medida liminar, ajuizada por Maciel Lucas Alves da Silva, contra decisão da 11ª Companhia da Polícia Militar de Meio Ambiente de Minas Gerais, nos autos do Processo Administrativo 687303/2020, por suposta violação à Súmula Vinculante 21.
+    Na peça inicial, o reclamante narra que, lavrado o Auto de Infração 186516/2019, interpôs recurso administrativo o qual não foi conhecido pela autoridade reclamada por ausência de recolhimento de taxa de expediente.
+    Diante disso, sustenta que a “decisão fora prolatada de forma irregular, pois confrontou o posicionamento consolidado por este Tribunal, que veda a exigência de dinheiro para admissibilidade de recurso administrativo” (eDOC 1, p. 3).
+    Requer assim a concessão de liminar para suspender os efeitos do ato reclamado e, ao final, sua cassação.
+    Citado, o Estado de Minas Gerais apresentou contestação requerendo a improcedência da reclamação, consoante eDOC 13.
+    A autoridade reclamada deixou de prestar as informações requisitadas. (eDOC 19)
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementada:
+    “Reclamação. Arguida ofensa à Súmula Vinculante nº 21 não verificada. Falta de aderência estrita do objeto do ato reclamado ao conteúdo do verbete da Súmula.” (eDOC 21)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A reclamação, tal como prevista no art. 102, I, “l”, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante. (CF/88, art. 103-A, § 3º)
+    A decisão deste Tribunal com efeito vinculante que, segundo a reclamante, teria sido descumprida é a Súmula Vinculante 21, cuja redação é a seguinte: “É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo”.
+    No caso, a autoridade reclamada deixou de conhecer do recurso administrativo interposto, em razão da ausência de recolhimento da taxa de expediente. Transcrevo, pois, trecho dessa decisão:
+    “Comunicamos que a defesa administrativa apresentada nos autos do processo administrativo supramencionado não foi conhecida, nos termos do inciso V do art. 60 do Decreto nº 47.383/2018, tendo em vista ter sido apresentada sem o comprovante de recolhimento integral da taxa de expediente prevista no item 7.30 da tabela A, que se refere o art. 92 da Lei nº 6.763, de 26 de dezembro de 1975, quando o crédito estadual não tributário for igual ou superior a 1.661 Ufemgs.
+    Em razão do não conhecimento da defesa administrativa as penalidades se tornaram definitivas, razão pela qual estamos encaminhando o Documento de Arrecadação Estadual-DAE para que seja pago o valor da multa imposta. Caso haja previsão de Emolumentos de Reposição de Pesca, o(a) Senhor(a) também receberá o DAE para pagamento desse valor.” (eDOC 8)
+    Da leitura da decisão, verifica-se que a autoridade reclamada limitou-se a exigir o preparo do recurso administrativo interposto, não havendo, pois, a imposição de depósito ou arrolamento prévios de dinheiro ou bens, na forma combatida pela Súmula Vinculante 21.
+    Ora, a exigência de recolhimento de taxas ou emolumentos para a interposição de recurso administrativo é matéria que não possui aderência estrita com o entendimento consubstanciado na Súmula Vinculante 21, fato que acarreta a inadmissibilidade da ação, por ausência de pressuposto de cabimento necessário.
+    Nesse sentido, cito a seguintes decisões monocráticas: Rcl 36.581, Rel. Min. Ricardo Lewandowski, DJe 4.9.2019 e Rcl 17.542 , Rel. Min. Roberto Barroso, DJe 02.5.2014, esta com a seguinte ementa:
+    “RECLAMAÇÃO. SÚMULA VINCULANTE Nº 21. RECURSO ADMINISTRATIVO. PREPARO. 1. A Súmula Vinculante nº 21 não garante a gratuidade dos recursos administrativos, mas apenas veda a exigência de prévio depósito ou arrolamento de bens como condição para a admissibilidade da impugnação. 2. Reclamação a que se nega seguimento”.
+    Cumpre registrar que esta Corte já firmou orientação no sentido de que os atos reclamados, nos casos em que se sustenta desrespeito à autoridade da decisão do Supremo Tribunal Federal, devem se ajustar, com exatidão e pertinência, aos julgamentos proferidos por esta Corte indicados como paradigma.
+    Nesse sentido, trago os seguintes precedentes deste Tribunal:
+    “Agravo regimental na reclamação. Súmula Vinculante nº 21. Ausência de identidade de temas entre o ato reclamado e o paradigma. Utilização da reclamação constitucional como sucedâneo recursal. Agravo regimental não provido. 1. Há necessidade de aderência estrita do objeto do ato reclamado ao conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes para que seja admitida a reclamatória constitucional. 2. Agravo regimental não provido”. (Rcl 26.148 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 17.10.2018)
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE O CONTEÚDO DO ATO RECLAMADO E O DA SÚMULA VINCULANTE 21. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. PRETENSÃO DE REDISCUTIR QUESTÕES JÁ DECIDIDAS. EMBARGOS DE DECLARAÇÃO REJEITADOS”. (Rcl 21.189 AgR-ED, Rel. Min. Teori Zavascki, Segunda Turma, DJe 8.10.2015)
+    Saliente-se ainda o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. 1. O CPC/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). Requisito não cumprido, na espécie. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime”. (Rcl 32306-AgR, Rel. Min. Roberto Barroso, Primeira Turma, Dje 6.2.2019)
+    “RECLAMAÇÃO REPERCUSSÃO GERAL ACÓRDÃO OBSERVÂNCIA INSTÂNCIAS ORDINÁRIAS ESGOTAMENTO AUSÊNCIA. A parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela estar condicionada a admissibilidade da reclamação, visando a observância de acórdão alusivo a extraordinário submetido ao regime da repercussão geral, ao esgotamento prévio das instâncias ordinárias”. (Rcl 28577-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 16.10.2018)
+    Desse modo, inadmissível esta reclamação.
+    Ante o exposto, nego seguimento à reclamação e julgo prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 30 de julho de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
