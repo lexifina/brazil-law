@@ -1,0 +1,17 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1002228-50.2020.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DA CAPITAL
+AGRAVANTE: SOLANGE EVA DE OLIVEIRA;
+AGRAVADO: MUNICÍPIO DE CUIABÁ.
+Vistos etc.
+Agravo de instrumento interposto por Solange Eva de Oliveira contra a decisão que, em mandado de segurança impetrado contra ato do Diretor de Recursos Humanos da Secretaria de Educação do Município de Cuiabá e da Coordenadora de Gestão de Pessoas, indeferiu a liminar.
+Assegura que “participou do último concurso público da prefeitura de Cuiabá/MT, Edital no 2/PMC/2019, concorrendo e obtendo a sua aprovação para o cargo de TDI-Técnico em Desenvolvimento Infantil (30h Anexo III do Edital), aprovada em trecentésimo trigésimo quarto (334o) lugar.”.
+Assevera que, “após ter apresentado a documentação exigida para a posse nos cargos de Professor e Técnico em Desenvolvimento Infantil, através do Despacho no 111/2020 em que cita o Parecer no 00006/PGM/PAAL/2020, determinam, sob pena de cancelamento da posse e nomeação que a impetrante teria que optar por um dos cargos sob alegação de impossibilidade de acumulação de cargos públicos de Professor com o cargo de Técnico em Desenvolvimento Infantil.”.
+Afiança que “os documentos demonstram a compatibilidade dos cargos, da carga horária 25 horas semanais o cargo de professor e 30 horas semanais do cargo de TDI, assim como a prova e demonstração de que a retribuição devida ao servidor pelo exercício dos dois cargos respeita o teto geral das remunerações (CF, art. 37, XI)”.
+Pontua que, “no tocante à conceituação dos cargos considerados técnico ou cientifico ainda não existe uma previsão legal expressa, sendo, portanto, a sua conceituação uma incógnita, o que por vezes causa grandes divergências doutrinárias e jurisprudenciais.”.
+Sustenta que, “no caso dos autos, dúvidas não restam de que a função e o cargo de Técnico em Desenvolvimento Infantil possui natureza de cargo técnico, eis que assim se caracteriza em decorrência de suas atribuições e das exigências do edital que precedeu o cargo.”. Além disso, “o cargo de Técnico e, Desenvolvimento Infantil do Município de Cuiabá está perfeitamente enquadrado no rol de cargos técnicos segundo Decreto Estadual no 1.282/1992 do Estado de Mato Grosso.”.
+Contrarrazões (Id. 49232475), a alegar que “não foi possível localizar, junto à instância de primeiro grau, o processo que gerou e que deu base ao recurso de agravo de instrumento”, razão pela qual requer “seja julgado prejudicado o recurso de agravo de instrumento” .
+A Procuradoria-Geral de Justiça, no parecer do doutor Marcelo Ferra de Carvalho (Id. 38870985) aduz que, “em consulta ao Sistema PJE, obteve os mesmos resultados que o Município de Cuiabá, em relação à existência do mandado de segurança de segurança impetrado por Solange Eva de Oliveira”, motivo pelo qual, “manifesta, inicialmente, pela solicitação de informações ao Juízo da 5a Vara Especializada da Fazenda Pública da Comarca de Cuiabá, para que informe sobre a existência do processo em primeira instância e, em caso positivo, qual o motivo, caso seja do seu conhecimento, da impossibilidade de consulta do processo no Sistema PJE.”.
+Dessa forma, intimem-se a agravante para, no prazo de cinco (5) dias, manifestar sobre as contrarrazões apresentadas pelo Município de Cuiabá, bem como acerca do parecer da Procuradoria-Geral de Justiça.
+Às providências.
+Cuiabá, 30 de julho de 2020.
+Des. Luiz Carlos da Costa
+Relator
