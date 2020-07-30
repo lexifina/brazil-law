@@ -1,0 +1,22 @@
+Vistos etc.
+    Trata-se de petição por meio da qual a Deputada Federal Natália Bastos Bonavides noticia a prática, em tese, dos crimes de concussão, advocacia administrativa e corrupção ativa (artigos 316, 321 e 333 do Código Penal, respectivamente), pelo Presidente da República Jair Messias Bolsonaro. Suscita, além disso, a suspeição do Procurador-Geral da República Augusto Aras para atuar no feito.
+    O Ministério Público Federal, em manifestação da lavra do Vice-Procurador-Geral da República Humberto Jacques de Medeiros, requereu o arquivamento do feito, por ausência de justa causa para a instauração de investigação criminal. Transcrevo o teor da manifestação ministerial, no que diz com a formação da opinio delicti pelo titular da ação penal:
+    (…)
+    10. O exame das declarações proferidas pelo noticiado evidencia inexistir justa causa para a instauração de procedimento investigativo preliminar ou de inquérito criminal.
+    11. Na ocasião apontada na Notícia Crime, o Presidente da República limitou-se a elucubrar sobre possível indicação para o cargo de Ministro do STF.
+    12. A ação do noticiado carece das elementares necessárias à configuração dos crimes apontados pela representante.
+    13. É inexistente a finalidade de determinar o Procurador-Geral da República a praticar qualquer tipo de ato de ofício, sequer aventado na fala apontada na representação. Também não se observa o patrocínio de interesse privado perante a Administração Pública.
+    14. Na realidade, o Presidente apenas exarou seu entendimento de que o atual incumbente do cargo de Procurador-Geral da República poderia bem desempenhar o cargo de Ministro do STF, em nítida manifestação de pensamento acobertada pela liberdade de expressão, sem qualquer conotação indevida.
+    15. Ainda que o Procurador-Geral da República tenha manifestado desconforto com a hipótese, essa posição tem cunho unicamente político-institucional, descaracterizada a prática de infração penal na espécie.
+    16. É da própria natureza do exercício do cargo de Presidente da República submeter a escrutínio público as ações de governo.
+    17. Considerando-se que compete ao Presidente nomear, após aprovação do Senado Federal, os Ministros do STF, tem-se que inexiste ilegalidade na proposição de debate público acerca dessa atribuição funcional, ainda que dela decorra reação institucional, como ocorreu na espécie.
+    18. Em face do exposto, o VICE-PROCURADOR-GERAL DA REPÚBLICA manifesta-se pela extinção da presente Petição, por ter esgotado seu objeto.
+    É o relatório. Decido.
+    Como regra, a jurisprudência desta Suprema Corte reputa inviável a recusa a pedido de arquivamento de inquérito ou de peças de informação deduzido pela Procuradoria-Geral da República, quando ancorado na ausência de elementos suficientes à persecução penal (Inq 4.134/DF, Rel. Min. Celso de Mello, DJe 13.06.2018; Inq 4.178/PE, Rel. Min. Cármen Lúcia, DJe 10.02.2016; Inq 3.563/PR, Rel. Min. Luiz Fux, DJe 07.03.2014; Pet 5.566/RJ, de minha relatoria, DJE 05.08.2015; Inq 4.087/MG, Rel. Min. Teori Zavaski, DJe 01.02.2017; Inq 4.532/RJ, Rel. Min. Gilmar Mendes, DJe 26.10.2017; Inq 4.620/SP, Rel. Min. Roberto Barroso, DJe 20.04.2018; Inq 4.410/DF, Rel. Min. Dias Toffoli, DJe 13.09.2018; Pet 7.786/DF, Rel. Min. Edson Fachin, DJe 07.02.2019; e Inq 4.452/DF, de minha relatoria, DJe 18.02.2019).
+    Na linha desta jurisprudência ordinária, apenas em duas situações caberia ao Supremo Tribunal Federal a apreciação do mérito do pedido de arquivamento, a saber, quando fundado na atipicidade da conduta ou na extinção da punibilidade do agente, hipóteses em relação às quais se operam os efeitos da coisa julgada material (Inquérito 1.604, Rel. Min. Sepúlveda Pertence, Pleno, DJ 13.12.2002).
+    No caso concreto, tendo a PGR concluído “inexistir justa causa para a instauração de procedimento investigativo preliminar ou de inquérito criminal”, e ausente qualquer excepcionalidade que justifique a intervenção judicial sobre a formação da opinio delicti, o arquivamento do feito é medida que se impõe.
+    Ante o exposto, forte nos artigos 21, XV, e 231, § 4º, do RISTF, e artigo 3º, I, da Lei 8.038/1990, acolho o pedido de arquivamento em relação aos fatos descritos na notícia crime, com as ressalvas do artigo 18 do Código de Processo Penal.
+    Publique-se. Intimem-se. Preclusa a presente decisão, arquivem-se os autos.
+    Brasília, 30 de julho de 2020.
+Ministra Rosa Weber
+Relatora
