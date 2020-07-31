@@ -1,0 +1,15 @@
+Vistos etc.
+Trata-se de Agravo de Instrumento interposto por COTEMINAS S.A. contra a decisão interlocutória proferida nos autos da Ação de Cumprimento de Sentença Arbitral no 1000716-91.2018.8.11.0003, onde figura como parte contrária COOPERSERRA-COOPERATIVA DOS PRODUTORES RURAIS DA SERRA, perante a Quarta Vara Cível da Comarca de Rodnodnópolis/MT, que tendo sido autorizada a penhora do faturamento da empresa agravada, mediante atuação de administradora nomeada pelo Juízo, fixou os honorários provisórios para a administradora no percentual inicial de 1% do valor da dívida exequenda (R$ 362.577,61), a serem adiantados pela exequente.
+Em resumo, alega o agravante que o Código de Processo Civil não dispõe acerca da remuneração do administrador-depositário, de modo que deverá ser aplicado o princípio da causalidade, segundo o qual a parte que deu causa ao ato processual deve se responsabilizar pelas despesas daí decorrentes.
+Aduz que não se pode aplicar o artigo 95 do CPC, já que na execução, o exequente que pleiteia a penhora sobre o faturamento do executado não pretende provar um direito, apenas a satisfação da execução, e que honorários de administrador não se enquadram no conceito de despesas previsto no artigo 82, do CPC, consoante o previsto no artigo 84, do CPC.
+Relata que só foi forçada a requerer a penhora sobre percentual do faturamento da Coopeserra em razão da inexistência de bens livres e desembaraçados para constrição, e que as despesas com os honorários do administrador sejam descontadas do que for apurado durante o período de constrição, ou diretamente custeado pelo próprio Executado.
+Assevera que os administradores judiciais nomeados para referido trabalho costumam requerer a fixação do valor a ser cobrado consoante o trabalho a ser desempenhado e não apenas o valor do débito da empresa.
+Anota que o valor definido pela r. decisão agravada com base no valor da causa, no importe de R$ 362.577,61, para a análise de documentos contábeis da cooperativa e apresentação de um parecer com “plano de penhora”, considerando o fluxo de caixa, está totalmente divorciado dos valores comumente estipulados.
+Pede pelo provimento do recurso e reforma da decisão a quo, para fins de determinar que o pagamento dos honorários à il. Administradora depositária incumbe exclusivamente à Agravada ou, subsidiariamente, pela fixação dos honorários do administrador em montante não superior a R$ 20.000,00 (vinte mil reais).
+Síntese necessária.
+Inexistindo pedido de liminar, em análise preliminar e não preclusiva da questão, reputam-se presentes os requisitos elencados nos artigos 1.015, § único, e artigo 1.017, inciso I, ambos do Novo Código de Processo Civil, necessários para conhecimento do agravo na forma instrumental.
+Assim sendo, determino a intimação da parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de praxe, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
