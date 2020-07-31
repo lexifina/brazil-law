@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (eDOC 2, p. 150-151):
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. COMUNICADO DE INSCRIÇÃO EM DÍVIDA ATIVA. ICMS. OPERAÇÃO INTERESTADUAL. CONSUMIDOR FINAL NÃO CONTRIBUINTE DO TRIBUTO. DIFERENCIAL DE ALÍQUOTA. CONVÊNIO Nº 52/1991. REDUÇÃO. BASE DE CÁLCULO. PRODUTOS INDUSTRIALIZADOS. APLICABILIDADE. EC 87/2015. COMPATIBILIDADE. SENTENÇA DE PROCEDÊNCIA CONFIRMADA.
+    1. A Emenda Constitucional nº 87/2015 conferiu significativa alteração na sistemática de recolhimento de ICMS quando a operação envolve duas unidades da federação e o destinatário da mercadoria ou do serviço é consumidor final não contribuinte do tributo. Anteriormente ao seu advento, somente o Estado de origem (produtor) recolhia o imposto, com base em alíquota interna, nada cabendo à unidade de federação destinatária. De acordo com a nova ordem constitucional, o contribuinte passou a recolher no Estado de origem a alíquota interestadual, fixada pelo Senado Federal, e o Estado de destino passou a fazer jus à diferença entre a tarifa interestadual e a interna da unidade de federação destinatária, o chamado DIFAL.
+    2. Contudo, a nova ordem constitucional não obsta a aplicação dos convênios celebrados anteriormente no âmbito do Conselho Nacional de Política Fazendária – CONFAZ que concedem isenções, incentivos e benefícios fiscais em relação ao ICMS.
+    3. Perfeitamente cabível o abatimento da redução da base de cálculo na apuração do diferencial de tarifa (DIFAL) a ser recolhido aos cofres do Distrito Federal, nos termos do Convênio ICMS 52/91 (CONFAZ), medida compatível com as disposições inseridas na Constituição Federal com a edição da EC 87/2015.
+    4. Mantém-se a sentença que concedeu a segurança e determinou à autoridade impetrada que proceda ao cancelamento dos valores previstos em ‘Comunicado de Inscrição em Dívida Ativa” uma vez verificado que os valores apurados e recolhidos pelo impetrante (apelado) a título de diferencial de alíquota (DIFAL) encontram-se em conformidade com a legislação em vigor.’”
+    De plano, verifica-se que a presente controvérsia se encontra afetada à sistemática da repercussão geral no bojo do Tema 1.093, cujo recurso-paradigma é o ARE-RG 1.237.351, de relatoria do Ministro Marco Aurélio, assim ementado:
+    “ICMS – DIFERENCIAL DE ALÍQUOTA – EMENDA CONSTITUCIONAL Nº 87/2015 – ARTIGO 155, § 2º, INCISOS VII e VIII, DA CONSTITUIÇÃO FEDERAL – REGULAMENTAÇÃO – LEI COMPLEMENTAR – EXTRAORDINÁRIO – ADEQUAÇÃO – REPERCUSSÃO GERAL – CONFIGURAÇÃO.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 31 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
