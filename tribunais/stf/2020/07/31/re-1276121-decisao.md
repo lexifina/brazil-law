@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 2, p. 103-105):
+    “"PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. FUNDEF. COMPLEMENTAÇÃO DOS REPASSES FEITOS AO MUNICÍPIO, PELA UNIÃO, NOS MOLDES DA LEI N.° 9424/96. QUANTIFICAÇÃO. DEFINIÇÃO DO VALOR MÍNIMO ANUAL POR ALUNO (VMAA). ATO DO PRESIDENTE DA REPÚBLICA. DISCRICIONARIEDADE MITIGADA PELA LEI DE REGÊNCIA. SINDICABILIDADE JUDICIAL. RECURSO REPETITIVO.
+    1. As regras do Código Civil não se aplicam às relações jurídicas submetidas ao Direito Administrativo, de modo que, in casu, não se aplica a prescrição trienal, mas sim o prazo de cinco anos previsto no art. 1º do Decreto nº 20.910/32;
+    2. A verificação da eventual necessidade de complementação das verbas do FUNDEF, a ser feita pela União em prol dos estados e municípios, depende do valor mínimo anual por aluno (VMAA), que a Lei nº 9424/96 impõe seja determinado pelo Presidente da República, respeitando-se determinado piso que ela estabelece;
+    3. Embora o ato administrativo discutido na hipótese dos autos seja discricionário (o que limitaria a sua sindicabilidade), é certo que o espaço deliberativo dado ao Presidente da República não é absoluto, senão que se limita quantitativamente àquele referido patamar mínimo, e daí a censura judicial a que se submete;
+    4. A norma sub examen (Lei nº 9424/96, Art. 6º, § 1º) dispunha que o valor mínimo anual por aluno 'nunca sera inferior à razão entre a previsão de receita total para o fundo e a matrícula total do ensino fundamental no ano anterior, acrescida do total estimado de novas matrículas, observado o disposto no Art. 2º, § 1º, incisos I e II';
+    5. Para o Presidente da República, a partir da analise de que os fundos são estaduais, seria possível a determinação de 27 médias (uma para cada estado mais o distrito federal), com a consequente escolha da menor, daí determinando-se o VMAA;
+    6. A interpretação referida no item anterior, todavia, data maxima venia, agride as mais comezinhas regras de hermenêutica: a) gramatical, porquanto se forem feitas médias estaduais nunca a razão sera total, como quer expressamente a lei; b) lógico-sistematica, haja vista que, uma vez escolhida a menor média estadual, jamais a União complementara qualquer quantia que seja, de modo a esvaziar o comando inserto na norma debatida;
+    e c) constitucional, dado que o poder público central estará se furtando a envidar esforços para atingir um dos objetivos fundamentais da República Federativa do Brasil, que é o de erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais (CF, Art. 3º, III);
+    7. Condenada a União a pagar ao município autor as diferenças derivadas do piso mínimo agora nacionalmente aferido, é de ser respeitada a prescrição quinquenal, nos termos da legislação de regência;
+    8. Precedente do STJ em sede de recurso repetitivo, em sentido idêntico (REsp nº 1.101.015/BA);
+    9. Apelação e remessa oficial improvidas" (fls. 236/238e).”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da permissivo constitucional, aponta-se ofensa ao artigo 97 da Constituição Federal, bem como ao artigo 60 do ADCT.
+    Nas razões recursais argumenta-se, preliminarmente, pela extinção do processo, em razão da prescrição prevista no art. 206, § 3º, V, do CC. No mais, discute-se, em síntese, o cálculo do VMNA para fins de repasse ao FUNDEF e o regime de atualização monetária e juros moratórios incidentes sobre condenações judiciais da Fazenda Pública. Ao final, requer, ainda, que vedada eventual expedição de precatório em desacordo com a vinculação da verba, obstando-se a retenção de honorários advocatícios contratuais.
+    O recurso foi inadmitido em parte, com fundamento no art. 1.040, I, do CPC (Tema 810) e no art. 1.030, I, a e b, do CPC (Tema 422), e admitido em relação às demais alegações. (eDOC 3, p. 53-55)
+    É o relatório. Decido.
+    Passo ao exame da parte admitida do recurso. A irresignação não merece prosperar.
+    Ressalte-se, inicialmente, a impossibilidade do exame de alegada violação a dispositivos infraconstitucionais (206, § 3º, V, do CC), pois em sede extraordinária somente se permite a veiculação de matéria constitucional.
+    Quanto ao pedido de vinculação da verba relacionada aos precatórios que serão expedidos em razão do provimento obtido pelo autor da ação, verifico que essa questão não foi objeto de debate no acórdão recorrido e tampouco foram opostos embargos de declaração visando sanar possível omissão nesse ponto. Falta-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF), tornando inviável o apelo extremo também nesse ponto.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de julho de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
