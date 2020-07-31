@@ -1,0 +1,9 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - EMBARGOS DE DECLARAÇÃO CÍVEL (1689) 0001747-29.2010.8.11.0009
+EMBARGANTE: ESTADO DE MATO GROSSO
+EMBARGADO: TRANSPORTES SATELITE LTDA - ME, MARCIO RODRIGO WIEGERT, WANCLEY ANTUNES GONCALVES, NELMO JOSE WIEGERT, GUSTAVO JOSE WIEGERT, ADRIANE GONCALVES ANTUNES
+Vistos etc.
+Em face de acordão id.42422994, encaminhem-se os presentes Embargos de Declaração ao Gabinete da Câmara Temporária de Direito Público e Coletivo, para as providências cabíveis.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
