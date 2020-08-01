@@ -1,0 +1,85 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial n. 0000305-92.2015.8.11.0028
+Recorrente : JOHNY WALTER RIBEIRO DE OLIVEIRA
+Recorrido : DURVAL PONTES e outros
+Vistos, etc.
+Trata-se de Recurso Especial interposto por JOHNY WALTER RIBEIRO DE OLIVEIRA, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão proferido pela Quarta Câmara de Direito Privado, conforme acórdão lançado no id 35990498:
+“APELAÇÃO CÍVEL – EMBARGOS DE TERCEIRO – REVOGAÇÃO DA MULTA - NULIDADE DA DECISÃO – CERCEAMENTO DE DEFESA - PRECLUSÃO – PRELIMINARES NÃO CONHECIDAS – CUMPRIMENTO DE SENTENÇA PROLATADA EM INTERDITO PROIBITÓRIO – REINTEGRAÇÃO DE POSSE COM ARRESTO DE SEMOVENTES - PROPRIEDADE NÃO COMPROVADA – RECURSO ADESIVO - RECONVENÇÃO – ILEGITIMIDADE ATIVA – ARGUIÇÃO AFASTADA - INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – NÃO CARACTERIZAÇÃO - DECISUM MANTIDO – RECURSOS NÃO PROVIDOS.
+Não se conhece de arguições amparadas em matérias analisadas e decididas na origem, sobre as quais já se operou a preclusão.
+Deve ser rejeitado o argumento de ilegitimidade recursal do Espólio pelo encerramento do Inventário quando não evidenciada e nem comprovada.
+Ausente a prova da propriedade dos semoventes arrestados em cumprimento de diligência de reintegração de posse de área rural, impõe-se a improcedência dos Embargos de Terceiro que visam a sua devolução, assim como do pedido formulado em Reconvenção pelo uso indevido do pasto.” (N.U. 0000305-92.2015.8.11.0028, Des. RUBENS DE OLIVEIRA SANTOS FILHO, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 04/03/2020).
+Os Embargos de Declaração foram rejeitados (id 45135470).
+Alega violação aos artigos 7o, 8o, 10o, 77 §2°, 371, 373, §1°, 489, §1o, 494, I e II, 1.009, § 1o, 1.022, I e II, 1.015, do CPC, ao argumento de contradição e omissão, tendo em vista que o aresto vergastado “não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador”.
+Adiante, aduz que as nulidades apresentadas no apelo não são afetadas pelo instituto da preclusão, posto se tratarem de matéria de ordem pública, podendo ser conhecida a qualquer tempo.
+Recurso tempestivo (id 48538992).
+Contrarrazões (id 51684490),
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da violação aos artigos 1.022 e 489, II, do CPC
+A controvérsia processual reside no desprovimento do apelo interposto pela parte Recorrente contra a sentença de primeiro grau que julgou improcedente os Embargos de Terceiros ajuizados em razão do aresto deferido nos autos da Ação de Reintegração de Posse promovida pelos Recorridos.
+Compulsando detidamente as razões recursais, denota-se que a parte Recorrente menciona violação aos artigos 1.022 e 489, II, do CPC, alegando que o aresto sufragado incorreu em contradição e omissão, uma vez que “não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador”.
+Pois bem, os Embargos de Declaração se prestam somente para sanar omissão, obscuridade, contradição ou erro material, eventualmente, contidos no julgado.
+Das alegações carreadas no recurso revela-se nítida a intenção da parte Recorrente não é sanar quaisquer vícios contidos no aresto sufragado, mas apenas rever o julgado que lhe foi desfavorável, o que não é possível através dos aclaratórios.
+A propósito:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. CONCURSO PÚBLICO. INSCRIÇÃO INDEFERIDA. DECRETO 6.944/2009. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO FUNDAMENTADO NO EDITAL E NO ACERVO FÁTICO DA CAUSA. IMPOSSIBILIDADE DE REVISÃO, NESTA CORTE. SÚMULAS 5 E 7/STJ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de ação indenizatória ao fundamento de que o autor, ora recorrente, teve sua inscrição indeferida, para o concurso público para o cargo de "Agente Técnico de Formação de Nível Superior 1- Função de Extensionista Rural/Ciência Agrárias N. S", sob o argumento de "não pagamento da taxa de inscrição dentro do prazo limite", fato que lhe causou perda de uma chance e dano à moral, requerendo a procedência do pedido para condenar os réus nas indenizações devidas.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008; REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017; REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017.
+V. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que o Decreto 6.944/2009 não foi apreciado, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+VI. Em relação ao cerne do inconformismo recursal, verifica-se que a pretensão recursal esbarra, inarredavelmente, nos óbices das Súmulas 5 e 7 do STJ. Precedentes.
+VII. Agravo interno improvido. (AgInt nos EDcl no AREsp 1561763/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/05/2020, DJe 01/06/2020) (g.n)
+Dito isso, a ausência de apontamento específico sobre eventual vício cometido no acórdão revela inconformismo da parte Recorrente e, portanto, inexiste violação aos artigos 489 e 1.022, do CPC.
+Decisão em conformidade com o STJ e do reexame das provas (Súmulas 7 e 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+Infere-se das razões recursais, que a parte Recorrente pretende a reforma do acórdão diante da suposta violação aos artigos 7o, 8o, 10o, 77 §2°, 371, 373, §1°, 489, §1o, 494, I e II, 1.009, § 1o e 1.015, do CPC, alegando que a nulidade do aresto que rejeitou as preliminares de nulidade da decisão e cerceamento de defesa em razão da preclusão da matéria, bem como não reconheceu a sua titularidade sobre os animais.
+Por sua vez, o aresto vergastado assentou que a suposta nulidade praticada pelo juízo de primeiro grau não foi atacada oportunamente pela parte, tendo sido atingida pela preclusão. Ainda, fundamentou que não restou comprovada a titularidade do Embargante sobre os animais arrestados.
+Em relação à nulidade da decisão do juízo de primeiro grau, o aresto assim dispôs, vejamos: (id 35994451):
+“No despacho saneador de 23-4-2019, o juízo a quo condenou a depositária à multa de 10% sobre o valor da causa (§2o do art. 77 do CPC). Em 9-5-2019, reviu a condenação e a revogou com amparo no fato de ela ter apresentado prestação de contas.
+Conforme certidão com Id n. 27148479, o decisum foi enviado para publicação em 10-5-2019, com previsão de disponibilização em 13-5-2019.
+Em 14-5-2019, o apelante indicou as provas que pretendia produzir e arrolou suas testemunhas. Em seguida opôs Embargos de Declaração, rejeitados em 23-5-2019, decisum disponibilizado em 27-5-2019, e sobreveio a audiência de instrução e julgamento.
+Desse modo, o apelante não se insurgiu contra a decisão de ref. 78, e, portanto, incide a preclusão.
+Assim, não conheço desta preliminar.”
+No que diz respeito à alegação de cerceamento de defesa, ficou assim decidido:
+“O apelante consigna que teve cerceada a sua defesa pois ficou impedido de fazer a perícia no gado porque foi alienado pela depositária judicial no decorrer do processo.
+Contudo, ao se manifestar sobre esse fato, ele argumentou que o exame comprovaria que a marca constante no gado era sua, e, diante da impossibilidade de realizá-lo, pleiteou a inversão e a redistribuição do ônus probatório, nos termos do artigo 373, §1o do CPC/2015.
+Dentre outras providências, postulou a condenação da depositária à multa de 20% sobre o valor da causa, e que fosse intimada para a devida prestação de contas (Id n. 27147497). Foi então determinado (Id n. 27148474) que ela se manifestasse; na sequência foi imposta multa de 10% (Id 27148475), depois revogada sob a justificativa de que a prestação de contas satisfez o juízo (Id 27148478). O apelante não recorreu de nenhuma dessas decisões, e os Embargos Declaratórios foram rejeitados (Id 27147506), tornando-se preclusa a arguição.
+Desse modo, não conheço da preliminar”
+Por fim, em relação a titularidade dos animais restou assentado que:
+“(...) a sentença destacou que nos Embargos de Terceiro que Durval opôs aos apelados alegou que o gado lhe pertenceria, não havendo convergência nem mesmo entre o que eles dizem sobre a propriedade dessas reses.
+Ressaltou ainda a certidão do oficial de justiça de que o arresto incidiu sobre 20 cabeças de 12 a 15 meses, 88 de 18 a 20meses, e 30 de 24 a 30 meses, cujo ato tem presunção de veracidade, embora o apelante tente desqualificar esse trabalho.
+No tocante às marcas, destacou que JW também são iniciais do pai do apelante; que havia reses sem nenhuma marca e outras sobrepostas, e concluiu não haver prova de que o gado era de propriedade do apelante.
+Realmente, pela documentação anexada ao processo, depoimentos colhidos na audiência de instrução e julgamento, declarações do próprio apelante e do litisdenunciado e arrendador, Durval Pontes, não há prova que autorize a modificação da sentença recorrida, proferida nos Embargos de Terceiro.
+Primeiro, é incontroverso que a área supostamente arrendada era litigiosa. Segundo, o fato de o Interdito Proibitório ter sido ajuizado em data posterior àquela constante no Contrato de Arrendamento que ele celebrou com Durval Pontes não altera o resultado do decisum. Isso porque, no depoimento pessoal de Durval ficou claro que ele tinha ciência plena do litígio entre Jaci Guimarães, a empresa ALCOPAN e seu sócio Silvio Zulli, tanto é que ele próprio declara que foi um dos fundadores da Cooperativa, que ela não deu certo e a passou para frente, que usou parte de suas terras para quitar dívidas dessa Cooperativa, e parte arrendou para a ALCOPAN, e que Jaci Guimarães obteve em juízo a restituição desta última.
+Na verdade, toda a prova produzida conflui para a improcedência dos Embargos de Terceiro do apelante.”
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa dos julgados abaixo:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL. JULGAMENTO MONOCRÁTICO.CONFIRMAÇÃO PELO COLEGIADO. MATÉRIA DE ORDEM PÚBLICA. DECISÃO ANTERIOR. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA.
+1. A decisão monocrática que nega seguimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, IV, do CPC/2015 e 255, § 4o, II, do RISTJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+2. Consoante jurisprudência desta Corte, ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada.
+3. Agravo interno a que se nega provimento.” (AgInt no AREsp 1648881/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. DESOBEDIÊNCIA AO DISPOSTO NOS ARTS. 76, § 2o, E 932, PARÁGRAFO ÚNICO, AMBOS DO NCPC. REPRESENTAÇÃO PROCESSUAL NÃO REGULARIZADA. PRECLUSÃO. ARGUIÇÃO DA NULIDADE SOMENTE APÓS RESULTADO DESFAVORÁVEL NO PROCESSO. CONFIGURAÇÃO DE NULIDADE DE ALGIBEIRA. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ PROCESSUAL. NULIDADE ABSOLUTA NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo no 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Conforme o disposto nos arts. 76, § 2o, I, e 932, parágrafo único, ambos do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+3. O Superior Tribunal de Justiça considera inexistente o recurso no qual o advogado subscritor não possui procuração ou substabelecimento nos autos, consoante a aplicação da Súmula no 115 desta Corte.
+4. Esta Corte de Justiça, em diversas oportunidades, tem exarado a compreensão de que a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável e quando óbvia a ciência do referido vício muito anteriormente à arguição, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça inclusive nas hipóteses de nulidade absoluta (REsp 1.714.163/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 24/9/2019, DJe 26/9/2019).
+5. Agravo interno não provido.” (AgInt no AREsp 1561078/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 7o, 8o, 10o, 77 §2°, 371, 373, §1°, 489, §1o, 494, I e II, 1.009, § 1o e 1.015, do CPC, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Não bastasse ainda a aplicação do disposto na Súmula 83 do STJ, a questão suscitada pela Recorrente enseja, também, o reexame do quadro fático-probatório dos autos, reclamando a aplicação da Súmula 7 do Colendo Superior Tribunal de Justiça, conforme se extrai da ementa abaixo:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PENHORA DE SEMOVENTES. TUTELA DE URGÊNCIA. FALTA DOS REQUISITOS LEGAIS. SÚMULA 735/STF. PEDIDO DE SUSPENSÃO DA MEDIDA CONSTRITIVA. INDEFERIMENTO. AUSÊNCIA DE PROVA DO DOMÍNIO OU POSSE EXERCIDA SOBRE OS ANIMAIS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem confirmou a decisão que, nos autos de embargos de terceiro, indeferiu o pedido de tutela de urgência para sustar a penhora de semoventes, por entender que a parte ora agravante não juntou aos autos prova suficiente do seu domínio ou posse sobre os animais e que a situação demanda dilação probatória, não se verificando, portanto, os requisitos necessários para suspender os efeitos da medida constritiva. A modificação de tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.” (AgInt no AREsp 1572901/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe 25/03/2020)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 30 de julho de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XII
