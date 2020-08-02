@@ -1,0 +1,49 @@
+AGRAVO DE INSTRUMENTO n.o 1014843-72.2020.8.11.0000
+AGRAVANTE: MINISTÉRIO PUBLICO DE MATO GROSSO
+AGRAVADO: MUNICÍPIO DE CUIABÁ
+VISTO
+1. Trata-se de agravo de instrumento interposto pelo Ministério Público do Estado de Mato Grosso em desfavor do Município de Cuiabá, em que pretende a antecipação da pretensão recursal, em razão de tutela de urgência negada pelo juízo da Vara Especializada em Ação Civil Pública e Ação Popular na Ação Civil Pública n.o 1020019-06.2020.8.11.0041.
+Na origem, e no que importa ao recurso, o Ministério Público do Estado de Mato Grosso instaurou Inquérito Civil sob o SIMP no 000307-002/2017, com o objetivo de apurar a “discriminação contra a categoria da enfermagem que atua nas unidades de atenção básica do Município de Cuiabá, notadamente aquelas que funcionam de acordo com os preceitos da estratégia de saúde da família”.
+Aduz que a Lei Complementar Municipal no 430/2017 assegura a diversos tipos de profissionais da saúde o pagamento do “prêmio saúde”, porém estabelece unicamente aos servidores da enfermagem requisitos para o recebimento dessa verba remuneratória, a saber atendimento de metas e serviços.
+Aduz ausência de isonomia nas unidades de saúde da família em Cuiabá, primeiramente na exigência de atendimento de metas e serviços pela equipe de saúde das diferentes unidades de Estratégia de Saúde da Família que são atribuídas unicamente à categoria da enfermagem, na medida em que as mesmas dependem da atuação de outros profissionais da equipe como os médicos ou dentistas.
+E segundo, aduz que a Portaria no 040/2017, da Secretaria Municipal de Saúde regulamentou o “prêmio saúde” para todos os servidores, menos aos profissionais da enfermagem, os quais são remetidos à referida lei complementar.
+Acrescenta, que ao contrário dos demais profissionais da saúde, os da enfermagem da atenção básica “passaram a não ter ainda direitos ao adicional em caso de férias ou licenças por motivo de saúde, e que após nova portaria da Secretaria Municipal de Saúde, estabelecida em fevereiro de 2019, onde foi renovada a concessão do prêmio saúde aos servidores, reafirmou ainda o tratamento juridicamente diferenciado em prejuízo aos profissionais da enfermagem.
+Argumenta que a “discriminação, ou a quebra de isonomia, acarreta uma desigualdade em uma equipe de saúde pública que foi pensada para atuar de forma igualitária, prejudicando portanto a eficácia e eficiência dos trabalhos oferecidos ao público”.
+Ao analisar o pedido de tutela de urgência foi prolatada a seguinte decisão:
+“(...)Destarte, muito embora seja vedado o deferimento de tutela liminar contra a Fazenda Pública que esgote, de pronto, o objeto da demanda, o afastamento desta vedação pode ocorrer em caráter excepcional, a fim de resguardar bens e direitos de maior relevância, como, por exemplo, o direito à vida, em risco iminente de violação.
+Entretanto, esse não é o caso dos autos.
+Com efeito, entendo que a hipótese ora em análise subsume-se à vedação de concessão de medida liminar que esgote no todo ou em parte o objeto da ação. E, ao menos pelo conjunto probatório existente em sede de cognição sumária, in casu, não restou demonstrada situação de excepcionalidade apta a afastar a incidência da referida norma.
+Isso porque o pedido de mérito tem exata correspondência com o de tutela de urgência, na medida em que o representante do Parquet pugna que seja “julgada procedente a pretensão ora deduzida, prolatando-se sentença que estabeleça de forma definitiva e contínua os pedidos descritos no requerimento de concessão de tutela de urgência”. Logo, eventual decisão concessiva de tutela antecipada esgotaria o objeto da ação.
+Ademais, é certo que, in casu, o pedido antecipatório de pagar aos profissionais da enfermagem os valores integrais de seus “prêmios saúde” encontra óbice no art. 7o, § 2o, da Lei no 12.016/2009, que trata das hipóteses em que não é cabível a antecipação da tutela em desfavor da Fazenda Pública.
+De fato, o pretendido pagamento importa em “equiparação de servidores públicos” e/ou “concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza”, com consequente aumento na remuneração dos profissionais da enfermagem, razão pela qual incabível a antecipação dos efeitos da tutela.
+(...)
+Outrossim, no caso dos autos, além das vedações anteriormente referidas, incabível a concessão da tutela antecipada requerida porque resta ausente, ainda, a presença do requisito do perigo de dano.
+Ocorre que, como é cediço, a concessão de tutela provisória de urgência reclama a coexistência de dois requisitos - a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo (art. 300, caput, do CPC) -, sendo que o não implemento de apenas um deles já é óbice ao seu deferimento.
+Destarte, muito embora os direitos indicados na petição inicial sejam merecedores de proteção pelo Estado, é possível se vislumbrar a consolidação de uma situação fática pelo decurso do tempo, o que afasta o perigo de dano e desaconselha a intervenção do Poder Judiciário nessa seara inaugural, sendo imprescindível assegurar amplo contraditório e dilação probatória.
+Na hipótese, a julgar o tempo transcorrido desde a sanção da Lei Complementar Municipal no 430/2017, que conta com expressa previsão em seu art. 4o sobre “o alcance de metas e à avaliação de produtividade” para os profissionais de enfermagem, mostra-se desarrazoado o deferimento de tutela de urgência.
+Nesse sentido, a antecipação dos efeitos da tutela é instituto jurídico que tem por fim a efetividade da jurisdição, nos casos em que existentes provas da probabilidade do direito alegado, perigo de dano ou risco ao resultado útil do processo, medida, portanto, restrita aos casos de urgência, nos quais se faz necessária para que o direito tutelado se exerça imediatamente, sob pena de ineficácia da prestação jurisdicional, o que não se verifica no presente caso.
+À vista do exposto, uma vez ausente os requisitos do art. 300 do Código de Processo Civil, assim como incidente as vedações do art. 1o da Lei no 8.437/92 e do art. 7o, § 2o, da Lei no 12.016/2009, INDEFIRO, por ora, o pedido de tutela provisória de urgência, sem prejuízo de sua reapreciação, acaso restem posteriormente demonstrados os pressupostos legais. (...)”.
+É o relato.
+DECIDO.
+2. Cinge-se a presente controvérsia em aferir o acerto da decisão de primeiro grau que indeferiu o pedido de tutela de urgência pleiteado pelo agravante, consistente dentre outras medidas a imediata suspensão de “tratamento prejudicial aos profissionais de enfermagem que atuem nas equipes de atenção básica, pagando a eles os valores INTEGRAIS de seus “prêmios saúde” da mesma forma que é feito com os servidores comissionados de gestão e demais integrantes das equipes multiprofissionais das mesmas unidades de saúde”
+Logo, a questão resume-se em saber se é o caso de conceder, liminarmente, a antecipação de tutela da pretensão recursal, consoante a norma procedimental do artigo 1.019, inciso I, do Código de Processo Civil.
+A antecipação de tutela da pretensão recursal somente será concedida nos casos em que houver probabilidade de provimento do recurso ou houver risco de dano grave ou de difícil reparação, por aplicação analógica ao artigo 1.012, parágrafo 4o do CPC.
+Todavia, a satisfação provisória da pretensão autoral deve ser, ainda, reversível.
+Da análise dos documentos constantes dos autos eletrônicos, verifico que, neste momento processual, inviável se vislumbrar a plausibilidade das razões do recorrente, considerando, sobretudo, a impossibilidade de concessão da liminar pleiteada, em razão de expressa vedação contida no art. 7o da Lei no 12.016/2009, que assim dispõe em seus §§ 2o e 5o:
+Dispõe a Lei no 12.016/2009:
+“Art. 7 Ao despachar a inicial, o juiz ordenará:
+(...)
+§ 2 Não será concedida medida liminar que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza.
+(...)
+§ 5 As vedações relacionadas com a concessão de liminares previstas neste artigo se estendem à tutela antecipada a que se referem osarts. 273e461 da Lei n 5.869, de 11 janeiro de 1973 - Código de Processo Civil.”
+Como se vê, é legalmente vedado ao Poder Judiciário a concessão em caráter liminar quando a matéria versar sobre pagamento de vencimentos e vantagens pecuniárias.
+In casu, o agravante busca o pagamento do integral do “Prêmio- Saúde" o que encontra óbice no ordenamento jurídico, seja porque implicaria na concessão de extensão de vantagem, seja porque se trata de medida satisfativa e irreversível.
+Ademais, salienta-se que, ainda que possível a concessão da tutela de urgência na hipótese versada, não se vislumbra, a priori, a existência de risco de lesão grave em razão do indeferimento da medida, uma vez que o agravante pleiteia o pagamento de “Premio- Saúde", que possui caráter de complementação da verba salarial, de modo que a percepção dos vencimentos ordinários dos favorecidos continua ocorrendo normalmente, motivo pelo qual não se constata nenhum prejuízo em decorrência da decisão objurgada.
+Outrossim além da medida liminar requerida implicar em óbice legal, tenho somente poderá ser concedida apenas por meio de sentença de mérito, com cognição plena e exauriente.
+Razão pela qual, não estou convencida, nesta fase de cognição sumária, da probabilidade de provimento do recurso e da possibilidade de ocorrer risco de dano grave ou difícil reparação.
+3. Ante o exposto, indefiro o efeito suspensivo pleiteado.
+4. Intime-se a parte agravada para contraminutar o agravo, facultando-lhe juntar a documentação que entender necessária para o julgamento do agravo.
+5. Após, encaminhem-se os autos à Procuradoria-Geral de Justiça.
+Intime-se e cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Relatora
