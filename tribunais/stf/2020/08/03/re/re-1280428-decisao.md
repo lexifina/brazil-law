@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “PENAL. PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. AUTORIA E MATERIALIDADE COMPROVADAS. DOSIMETRIA. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FUNDAMENTAÇÃO INIDÔNEA. CONCURSO DE PESSOAS. AFASTAMENTO. IMPOSSIBILIDADE. PROVIMENTO PARCIAL.
+    1. A circunstância judicial da culpabilidade, considerada como a reprovação social que o crime e o autor do fato merecem, relacionando-se à censurabilidade da conduta e à intensidade do dolo do agente, deve ser apreciada negativamente somente quando se revelar além daquela ínsita ao tipo penal.
+    2. Inviável o afastamento da causa especial de aumento de pena relativa ao concurso de pessoas, quando comprovado que o réu praticou o crime em companhia de um comparsa, ainda que não identificado.
+    3. Recurso conhecido e parcialmente provido”.
+    O recurso busca fundamento no art. 102, III, b, da Constituição Federal. A parte recorrente alega que “a norma prevista na Lei nº 13.654/2018 não possui o vício de inconstitucionalidade formal que o v. acórdão (utilizando da arguição de inconstitucionalidade do TJDFT) alega ter”.
+    O recurso merece ser provido. A jurisprudência desta Corte é no sentido de que o caso ora em análise versa sobre temática “interna corporis, mais precisamente sobre normas regimentais intrínsecas ao âmbito de atuação de cada uma das respectivas Casas Legislativas. Imunes estão, portanto, do crivo judicial, pois não concernentes ao processo legislativo estatuído na CONSTITUIÇÃO FEDERAL, o que permitiria ao Poder Judiciário revisar os todos os atos praticados pelo Parlamento com base em seus próprios normativos; ocorre que esse expediente é repelido pela jurisprudência desta CORTE (MS 2588-AgR, Rel. Min. MENEZES DE DIREITO, DJe de 8/5/2009; MS 23388, Rel. Min. NÉRI DA SILVEIRA, PLENO, DJ de20/4/2001; ARE 1219094, Rel. Min. CÁRMEN LÚCIA, DJe de 6/8/2019)” (RE 1.261.502, Rel. Min. Alexandre de Moraes).
+    No mesmo sentido, cito o RE 1.257.182 e o RE 1.250.041-AgR, ambos da relatoria do Min. Luiz Fux, este último assim ementado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. PENAL E PROCESSUAL PENAL. CRIME DE ROUBO MAJORADO. ARTIGO 157, § 2º, I, DO CÓDIGO PENAL (REDAÇÃO ANTERIOR À LEI 13.654/2018). ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, XL, E 58, § 2º, I, DA CONSTITUIÇÃO FEDERAL. OCORRÊNCIA. IMPUGNAÇÃO DE ACÓRDÃO QUE JULGOU INCONSTITUCIONAL DISPOSITIVO DE LEI, MEDIANTE INTERPRETAÇÃO DE DISPOSITIVOS REGIMENTAIS DA CASA LEGISLATIVA. ATO INTERNA CORPORIS NÃO SUJEITO AO CONTROLE JUDICIAL. VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DE PODERES. RECURSO PROVIDO.”
+    Diante do exposto, com base no art. no art. 21, § 2º, do RI/STF, dou provimento ao recurso para cassar o acórdão recorrido, a fim de que o Juízo de origem redimensione a dosimetria penal imposta, à luz da Lei nº 13.654/2018.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
