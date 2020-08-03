@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo que tem por objeto decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 3, p. 125):
+    “AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO. I - O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior. II - Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil. III - Agravo legal desprovido.”
+    Os embargos de declaração opostos foram rejeitados. (eDOC 3, p. 139)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 8º, III; e 5º, XXI e XXXV, da Constituição Federal.
+    Nas razões recursais, aduz-se, que, “o acórdão recorrido visa limitar erroneamente os efeitos da sentença a ser proferida na presente ação coletiva apenas aos filiados do Sindicato. E mais, uma sentença que só alcançasse os filiados que moram na base territorial do sindicato recorrente, motivo pelo qual entendeu que o processo deveria ser remetido a Comarca do interior.” (eDOC 4, p. 63)
+    Sustenta-se, ainda, que “Não reconhecer a legitimidade extraordinária do Sindicato para defender os interesses de toda a categoria, da sua base territorial - ainda que a base alcance mais de um Estado, porquanto não os representa apenas NA sua base territorial - é negar a ele e a seus associados o acesso à Justiça.” (eDOC 4, p. 64)
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso extraordinário, por entender que incide à espécie os óbices das súmulas 282 e 284 do STF. (eDOC 4, p. 82)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, a admissibilidade dos recursos às instâncias especiais é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo nem sequer tem preenchidos os pressupostos processuais.
+    Com efeito, as razões do agravo estão dissociadas da decisão agravada. O agravante deixou de impugnar especificamente o fundamento de que “Aplica-se à espécie, por extensão, o entendimento consolidado na Súmula nº 282 do STF ("E inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada)”. Também deixa-se de impugnar a aplicação da súmula 284 do STF.(eDOC 4, p. 83)
+    O recurso, portanto, não ataca, de forma específica, os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF. Nesse sentido, confiram-se as ementas dos seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.” (ARE 665.255-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22.5.2013).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 287 DO STF.” (AI 805.701-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 23.4.2012).
+    Ainda sobre o tema, cito os seguintes precedentes: ARE 813.138-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.12.2014; ARE 832.532-AgR, Segunda Turma, DJe 11.11.2014.
+    Ante o exposto, não conheço do presente agravo, nos termos do art. 932, IV, “a”, do CPC, c/c o art. 21, §1º, do RISTF.
+     Deixo de aplicar o art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 03 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
