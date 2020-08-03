@@ -1,0 +1,63 @@
+Trata-se de recurso extraordinário interposto contra acórdão de cuja ementa destaca-se:
+
+    “RECURSO INOMINADO. DIREITO CONSTITUCIONAL. GUARDA MUNICIPAL DE FORTALEZA. ADICIONAL NOTURNO. ALTERAÇÃO DE BASE DE CÁLCULO APÓS A LC 218/2016. PERÍODO ANTERIOR PAGO COM BASE NO VENCIMENTO DO SERVIDOR. IMPOSSIBILIDADE DE VINCULAÇÃO DO CÁLCULO DE ACRÉSCIMO PECUNIÁRIO COM BASE NA REMUNERAÇÃO GLOBAL DO SERVIDOR PÚBLICO. ARTIGO 37, INCISO XIV, DA CF/88. ENTENDIMENTO FIXADO PELO STF EM REGIME DE REPERCUSSÃO GERAL: RE 563.708-RG. PROCEDÊNCIA. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA” (pág. 1 do documento eletrônico 4).
+
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 5°, XXXVI; 7°, IX; 39, § 3°; 93, IX; e 97 da mesma Carta.
+
+    Alega-se que o Juízo de origem, sem a necessária declaração de inconstitucionalidade, afastou a aplicação da Lei Complementar 38/2007 e da Lei 6.794/1990, ambas do Município de Fortaleza, que estabeleciam a incidência do adicional noturno sobre a remuneração do servidor.
+
+    Ademais, afirma-se que, em conformidade com a Constituição Federal, as referidas leis locais asseguraram a remuneração do trabalho noturno em montante superior ao do trabalho diurno.
+
+    A pretensão recursal não merece acolhida.
+
+    Os Ministros deste Tribunal, no julgamento do AI 791.292-QO-RG/PE (Tema 339), de relatoria do Ministro Gilmar Mendes, reconheceram a repercussão geral e reafirmaram a jurisprudência desta Corte no sentido de que a exigência do art. 93, IX, da Constituição não impõe que a decisão seja exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Nesse sentido, transcrevo a ementa do referido precedente:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+
+    Ademais, não prospera a alegada ofensa ao art. 97 da Constituição Federal, visto que a jurisprudência desta Corte é no sentido de que o princípio da reserva de plenário não se aplica no âmbito dos juizados especiais. Nesse sentido, destaco o ARE 868.457-RG/SC (Tema 805), de relatoria do Ministro Teori Zavascki, cuja ementa segue transcrita:
+
+    “PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO (ART. 97 DA CF/88). ALEGAÇÃO MANIFESTAMENTE IMPROCEDENTE. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EFEITOS FINANCEIROS RETROATIVOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+
+    1. O princípio da reserva de plenário não se aplica no âmbito dos juizados de pequenas causas (art. 24, X, da Constituição Federal) e dos juizados especiais em geral (art. 98, I, da CF/88), que, pela configuração atribuída pelo legislador, não funcionam, na esfera recursal, sob o regime de plenário ou de órgão especial.
+
+    2. A manifesta improcedência da alegação de ofensa ao art. 97 da Carta Magna pela Turma Recursal de Juizados Especiais demonstra a ausência da repercussão geral da matéria, ensejando a incidência do art. 543-A do CPC.
+
+    3. É de natureza infraconstitucional a controvérsia relativa à legitimidade da retroação dos efeitos financeiros da revisão de benefício previdenciário, nas hipóteses em que o segurado preencheu, na data de entrada do requerimento administrativo, os requisitos para a concessão de prestação mais vantajosa.
+
+    4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+
+    5. Ausência de repercussão geral das questões suscitadas, nos termos do art. 543-A do CPC” (grifei).
+
+    Além disso, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, notadamente quanto à base de cálculo do adicional noturno em discussão nestes autos, seria necessário o reexame das normas locais aplicáveis ao caso (Lei 6.794/1990 e Leis Complementares 38/2007 e 218/2016, todas do Município de Fortaleza), o que é vedado pela Súmula 280/STF. Nesse sentido, cito julgados de ambas as Turmas desta Corte:
+
+    “Ementa: Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Servidor público. Policial. Base de cálculo das horas extras e adicional noturno. Discussão. Ausência de repercussão geral. Precedentes.
+
+    1. Embargos de declaração recebidos como agravo regimental.
+
+    2. O Plenário da Corte, no exame do RE nº 728.428/SC-RG, Relator o Ministro Ricardo Lewandowski, concluiu que não possui repercussão geral a questão relativa à ‘base de cálculo das horas extras e do adicional noturno prestados por policial civil do Estado de Santa Catarina’, dado o caráter infraconstitucional da matéria.
+
+    3. Agravo regimental não provido” (ARE 814.826-ED/SC, Rel. Min. Dias Toffoli, Primeira Turma).
+
+    “Ementa: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. POLICIAL CIVIL. HORAS EXTRAS E ADICIONAL NOTURNO: BASE DE CÁLCULO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 819.869-ED/SC, Rel. Min. Cármen Lúcia, Segunda Turma).
+
+    Outrossim, ao apreciar controvérsia análoga, este Tribunal rejeitou a repercussão geral da matéria nos seguintes termos:
+
+    “Ementa: ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. BASE DE CÁLCULO DAS HORAS EXTRAS. LEIS 266/2004 E 6.843/1986 DO ESTADO DE SANTA CATARINA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (RE 728.428/SC, de minha relatoria, Tema 654).
+
+    Por fim, o Juízo de origem não dissentiu da jurisprudência desta Corte, conforme se verifica no julgamento do RE 563.708-RG/MS (Tema 24 da Repercussão Geral), da relatoria da Ministra Cármen Lúcia:
+
+    “Ementa: RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO”.
+
+    No mesmo sentido, cito o RE 907.731-AgR/MG, da relatoria do Ministro Celso de Mello, cuja ementa segue reproduzida:
+
+    “RECURSO EXTRAORDINÁRIO – SERVIDOR DO MUNICÍPIO DE VIÇOSA/MG – BASE DE CÁLCULO DE ADICIONAL REMUNERATÓRIO – EFEITO CASCATA – VEDAÇÃO – INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO, DESDE QUE OBSERVADA A IRREDUTIBILIDADE DE VENCIMENTOS – LEI MUNICIPAL Nº 801/91 – REPERCUSSÃO GERAL DA MATÉRIA QUE O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL RECONHECEU NO JULGAMENTO DO RE 563.708/MS – AGRAVO INTERNO IMPROVIDO”.
+
+     Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 3 de agosto de 2020.
+
+Ministro Ricardo Lewandowski
+
+Relator
