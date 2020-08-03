@@ -1,0 +1,26 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Dosimetria da pena. Regime inicial. Substituição da reprimenda privativa de liberdade. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que denegou o HC 583.486, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no art. 33, caput, da Lei 11.343/06.
+    3. Concluída a instrução criminal, o paciente foi absolvido, com fundamento no art. 386, VII, do Código de Processo Penal.
+    4. Da sentença absolutória, o Ministério Público interpôs apelação. O Tribunal de Justiça do Estado do Mato Grosso do Sul deu provimento à apelação para condenar o paciente à pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 33, § 4º, da Lei 11.343/06.
+    5. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Ministro Antonio Saldanha Palheiro denegou a ordem.
+    6. Neste habeas corpus, a parte impetrante sustenta: (i) a aplicabilidade da minorante prevista no art. 33, § 4º, no patamar máximo de 2/3; (ii) a possibilidade da fixação de regime inicial mais brando e da substituição da pena privativa de liberdade por outra pena restritiva de direitos.
+    7. A defesa requer a concessão da ordem a fim de reduzir a pena imposta ao acionante. Cumulativamente, pleiteia a fixação do regime inicial aberto e a conversão da pena privativa de liberdade.
+    8. Decido.
+    9. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    10. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    11. Não é o caso de concessão da ordem de ofício.
+    12. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    13. Na hipótese dos autos, o Tribunal estadual aplicou a minorante do art. 33, § 4º, da Lei de Drogas, no patamar de 1/4, com respaldo em dados objetivos da causa. De modo que o acolhimento da pretensão defensiva, nesse ponto, demandaria o revolvimento de matéria fática.
+    14. Quanto ao regime inicial de cumprimento de pena, observo que o paciente foi condenado à pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto. Sendo assim, a imposição do regime inicial intermediário está alinhada com o entendimento do STF no sentido de que o “artigo 33, § 2º, alínea b, do Código Penal determina que ‘o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto” (HC 117.774, Rel. Min. Luiz Fux).
+    15. Quanto ao mais, deixo consignado que o caso atrai a orientação jurisprudencial do STF no sentido da impossibilidade de substituição da pena fixada em patamar superior a 4 anos de reclusão, nos termos do art. 44, I, do Código Penal (HCs 118.602 e 119.811, Rel. Min. Teori Zavascki; HC 121.543, Rel. Min. Luiz Fux; HC 118.717, Rel. Min. Ricardo Lewandowski).
+    16. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
