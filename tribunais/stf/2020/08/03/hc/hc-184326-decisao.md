@@ -1,0 +1,33 @@
+DECISÃO:
+Ementa: Penal. Habeas Corpus. Posse de arma de fogo municiada, com numeração raspada. Natureza hedionda do delito. Ausência de ilegalidade ou abuso de poder.
+    1. Trata-se de habeas corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Joel Ilan Paciornik, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO RESTRITO. CRIME HEDIONDO. LEI N. 13.497/2017 QUE ALTERA A LEI N. 8.072/1990. ART. 16, CAPUT E INCISOS ABRANGIDOS PELA ALTERAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A pretensão recursal não encontra amparo nesta Corte, que já se manifestou no sentido de que ‘da leitura do art. 1º, parágrafo único, da Lei dos Crimes Hediondos, não há qualquer menção à restrição de sua aplicação apenas à conduta delitiva prevista no caput do art. 16 da Lei n. 10.826/2003, o que leva à conclusão de que a alteração legislativa visou abarcar todas as condutas previstas no referido tipo penal, inclusive as equiparadas descritas em seu parágrafo único’ (AREsp 1.534.951/RS, Rel. Ministro JORGE MUSSI, DJe 24/10/2019).
+    2. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 anos de reclusão, em regime inicial aberto, pelo crime previsto no art. 16, parágrafo único, IV da Lei 10.826/03. A pena privativa de liberdade foi substituída por duas penas restritivas de direito.
+    3. O Tribunal de Justiça do Estado de Rondônia negou provimento à apelação do Ministério Público.
+    4. Na sequência, o Ministério Público interpôs recurso especial. O Relator do Resp 1.806.651, Ministro Joel Ilan Paciornik, deu provimento ao recurso para reconhecer “a hediondez do crime a que foi condeno ora recorrido”. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta violação ao princípio da legalidade. Afirma que “apenas a cabeça do artigo 16 da Lei 10.826/2003 passou a integrar a Lei 8.072/90...” Isso porque, “quisesse o legislador também alcançar os incisos previstos no parágrafo único do artigo 16 do Estatuo do Desarmamento, a sistematização normativa, própria da Lei dos Crimes Hediondos, demandaria referência taxativa ao parágrafo único e, ainda, aos incisos do artigo, o que não se observa”.
+    6. Prossegue a defesa para alegar que “a inovação então operada pela Lei 13.497/2017 – quando assentou que se considera hediondo o crime de posse ou porte ilegal de arma de fogo de uso restrito, previsto no art. 16 da Lei 10.826, de 22 de dezembro de 2003’ - não pode ser traduzida em desfavor do Paciente, pois implicaria analogia mais gravosa (in malam partem)”.
+    7. A Defensoria Pública da União requer a concessão da ordem “para afastar a hediondez da conduta do Paciente”.
+    8. O Ministério Público Federal manifesta-se pelo não conhecimento da impetração.
+    9. Decido.
+    10. O habeas corpus não deve ser concedido, tendo em vista que não há nenhuma teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    11. O acórdão impugnado está em conformidade com a orientação firmada pela Primeira Turma do Supremo Tribunal Federal, no julgamento do RHC 181.485-AgR, de minha relatoria, no sentido de que “o caráter hediondo do crime de posse ilegal de arma de fogo abrange todo o dispositivo, incluído aí o seu parágrafo único”. Transcrevo a ementa do referido julgado:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. ART. 16, DA LEI 10.826/2003. CARÁTER HEDIONDO. AUSÊNCIA DE DISTINÇÃO ENTRE O CAPUT E SEUS INCISOS.
+    1. Ao dispôr que, ‘nas mesmas penas incorrem quem’ (art. 16, parágrafo único, da Lei 10.826/03), a lei não fez distinção entre o caput e seus incisos.
+    2. Tal como consta do parecer ministerial, ‘a referida norma não discriminou expressamente que apenas a conduta prevista no caput do art. 16 do Estatuto do Desarmamento seria hedionda, sendo assim, entende-se que o caráter hediondo do crime de posse ilegal de arma de fogo abrange todo o dispositivo, incluído aí o seu parágrafo único’.
+    3. Agravo regimental desprovido.”
+    12. No mesmo sentido, veja-se o seguinte trecho do parecer do Ministério Público Federal:
+    “[...]
+    9. A irresignação não merece prosperar.
+    10. No caso sob exame, verifica-se que o paciente foi condenado porque pela prática do delito previsto no art. 16, parágrafo único, inciso IV, da Lei nº 10.826/03 porque ‘possuía, no interior do veículo Fiat Strada, placa NDR 3282, um revólver com o número de série parcialmente raspado, municiado, dentro de uma bolsa feminina marrom no porta-luvas’ (fl. 03). O crime foi cometido após a entrada em vigor da Lei nº 13.497/2017, que alterou a Lei nº 8.072/1990 para incluir o referido dispositivo - art. 16 da Lei nº 10.826/03 - como crime hediondo.
+    11. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça entende que ‘ao ser qualificado como hediondo o art. 16 da Lei n. 10.826/2003, também as condutas equiparadas, e assim previstas no mesmo artigo, devem receber igual tratamento’. Assim, uma vez praticado ‘o crime equiparado do parágrafo único do art. 16 da Lei n. 10.826/2003 após a publicação da Lei n. 13.497/2017, que inseriu a qualificação de hediondez, incide esse tratamento mais gravoso ao fato do processo’ (HC 526.916/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 08/10/2019).
+    12. Lado outro, ainda que o maior perigo causado pela posse ou pelo porte de uma arma de uso restrito não tenha nenhuma relação com o ato de suprimir marca, numeração ou sinal de identificação de arma de fogo, tanto que esta conduta pode ser cometida em armas de uso permitido, a conduta perpetrada pelo paciente se enquadra em figura equiparada ao caput do art. 16, da Lei nº 10.826/2003, por expressa disposição legal, incorrendo nas mesmas penas justamente porque considerada de igual gravidade.
+    13. Dessa forma, como bem asseverou a nobre Subprocuradora-Geral da República quando da resposta ao agravo regimental interposto pela Defesa, ‘adotando-se uma interpretação sistêmica teleológica das normas em voga, resta configurado o entendimento de aplicação extensiva da hediondez do porte de arma de fogo de uso restrito à situação de suprimir ou alterar marca, numeração ou qualquer sinal de identificação de arma de fogo ou artefato. Situação esta a qual o recorrente teve reconhecida pelo Tribunal de origem’ (fl. 244).
+    [...]”.
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
