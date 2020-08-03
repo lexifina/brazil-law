@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 4ª Turma Recursal do Paraná que deu provimento ao recurso inominado e condenou o INSS a revisar o benefício da parte autora “mediante a consideração, no cálculo da RMI, dos salários-de-contribuição referentes a todo o período contributivo (regra permanente prevista no art. 29, I e II, da Lei n. 8.213/91) e não apenas daqueles vertidos a partir de 07/1994 (regra de transição contida no art. 3º da Lei n. 9.876/99)” (eDOC 9, p. 2).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 2º, 5º, caput, 97, 195, §§ 4º e 5º, e 201 da Constituição Federal.
+    Nas razões do recurso, sustenta-se que existe “uma única regra que é aplicável a todos os segurados (sejam eles filiados ao RGPS antes ou após a vigência da Lei 9.876/99): para o cálculo do salário-de-benefício, somente serão computados os salários-decontribuição a partir de julho de 1994. Sob essa perspectiva, a regra é universal e concretiza o princípio da isonomia!” (eDOC 13, p. 6).
+    Aduz-se, ainda, que, “a partir do momento em que o legislador opta, com base em estudos minuciosos, pela reestruturação do sistema previdenciário e estabelece um limite temporal para fins de cálculo dos benefícios, simplesmente afastá-lo para garantir um benefício mais vantajoso atenta, sem sombra de dúvidas, contra as pilastras de sustentação do equilíbrio financeiro e atuarial do RGPS.” (eDOC 13, p. 8).
+    O juízo de origem admitiu o recurso extraordinário (eDOC 17).
+    É o relatório. Decido.
+    O Supremo Tribunal Federal, ao analisar o RE 639856, da relatoria do Ministro Gilmar Mendes, DJe 11.12.2012, no qual se discute a incidência do fator previdenciário (Lei 9.876/99) ou das regras de transição trazidas pela EC 20/98 nos benefícios previdenciários concedidos a segurados filiados ao Regime Geral até 16/12/1998, Tema 616, reconheceu a existência de repercussão geral da questão constitucional suscitada. O acórdão restou assim ementado:
+     “Constitucional. 2. Previdenciário. Aposentadoria proporcional por tempo de contribuição. Fórmula de cálculo do salário de benefício. 3. Benefícios concedidos a segurados filiados ao Regime Geral até 12.12.1998. 4. Controvérsia. Incidência do fator previdenciário (Lei 9.876/99) ou das regras de transição trazidas pela EC 20/98. 5. Cômputo de tempo posterior à Lei 9.876, de 26.11.99. 6. Relevância da questão constitucional. Repercussão geral reconhecida.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 03 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
