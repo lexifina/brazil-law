@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1966, de 13 de julho de 2020
+Altera a Instrução Normativa RFB nº 952, de 2 de julho de 2009, que dispõe sobre a fiscalização, o despacho e o controle aduaneiros de bens em Zonas de Processamento de Exportação (ZPE).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no § 2º do art. 2º da Lei nº 11.508, de 20 de julho de 2007, no § 6º do art. 13 e nos arts. 531 e 541 do Decreto nº 6.759, de 5 de fevereiro de 2009, e nos arts. 2º a 4º e 13 do Decreto nº 6.814, de 6 de abril de 2009, resolve:
