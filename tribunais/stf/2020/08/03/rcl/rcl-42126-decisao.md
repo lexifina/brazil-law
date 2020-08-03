@@ -1,0 +1,34 @@
+Decisão
+    Trata-se de Reclamação, com pedido de liminar, contra decisão proferida pelo Juízo da 1ª Vara Federal da Seção Judiciária de Curitiba, que teria desrespeitado o conteúdo da Súmula 666 do SUPREMO TRIBUNAL FEDERAL.
+    Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (fl. 2):
+    A FEDERAÇÃO DOS SERVIDORES PÚBLICOS DO ESTADO DO PIAUÍ – FESPPI ingressou com uma Reclamação Trabalhista em face ao ora Reclamante na 105ª VARA DA JUSTIÇA DO TRABALHO DE PIRIPIRI– PIAUÍ, autuada sob o Nº de Processo nº: 0000011-75.2017.5.22.0105. Conforme documentação em anexo.
+    Infelizmente, a FEDERAÇÃO DOS SERVIDORES PÚBLICOS DO ESTADO DO PIAUÍ – FESPPI ingressa tal demanda baseada em argumentos contrários ao que reza a SÚMULA Nº 666 deste Honroso Supremo Tribunal Federal e por meras conjecturas, ocorrendo em graves prejuízos ao Ora Reclamante atingindo também todos os seus servidores Municipais.
+    Ademais, é nítida a grave violação a Legislação pacificada uma vez que desde 2013 existe a lei que rege os servidores do Município de Boqueirão do Piauí, que são regidos pelo regime Estatutário. O que afasta a competência da justiça especializada Trabalhista e torna ilegítima a constrição do Reclamante para pagamento de valores a serem repassados a FEDERAÇÃO DOS SERVIDORES PÚBLICOS DO ESTADO DO PIAUÍ – FESPPI.
+    No caso em apreço, a parte impugnada está a cobrar o repasse pelo Município reclamado dos valores referentes às Contribuições Sindicais dos servidores públicos integrantes das categorias econômicas cujo esses servidores já possuem o sindicato que lhes assistem devidamente.
+    (...)
+    A CLT ao exigir o pagamento das contribuições sindicais, o faz com relação aos "empregados" - estes regidos pelo regime celetista - e não com relação aos servidores públicos, que são regidos pelo regime estatutário.
+    Observando ao fato que o Município Reclamante possui seu regime estatutário, conforme já demonstrado. Portanto, conclui-se que a FEDERAÇÃO DOS SERVIDORES PÚBLICOS DO ESTADO DO PIAUÍ - FESPPI, não atende aos requisitos legais dispostos na Súmula Nº 666. Sendo assim, não faz jus a nenhum de seus pleitos determinados via sentença em sede recursal.
+    Requer, ao final, requer o julgamento da presente RECLAMAÇÃO CONSTITUCIONAL para que seja cassada a decisão proferida no Acórdão nos autos da Ação que executa o ora Reclamante dado a presente afronta a norma constitucional baseada na SÚMULA Nº666 do STF bem como o deferimento da medida liminar requerida para determinar a suspensão da execução trabalhista no Processo Nº 0000011- 75.2017.5.22.0105 até final julgamento da presente Reclamação, para assim, garantir a proteção ao interesse coletivo (fl. 16).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade
+    No caso, o pedido é manifestamente incabível. Conforme informação constante no sítio eletrônico do Tribunal Regional do Trabalho da 22ª Região, o acórdão a que se refere à presente reclamação (processo 0000011-75.2017.5.22.0105) transitou em julgado em 23/11/2018, encontrando-se o processo na fase executória. Portanto, trata-se de matéria já revestida pelo manto da coisa julgada.
+    Ainda se assim não fosse a Súmula 666 do SUPREMO, invocada como parâmetro pela parte reclamante, é destituída de caráter vinculante, portanto, não autoriza o ajuizamento da reclamação. Nessa linha:
+    EMENTA Embargos de declaração em reclamação. Conversão em agravo regimental. Perfil constitucional da reclamação. Paradigma destituído de efeito vinculante. Recurso não provido. 1. Segundo a jurisprudência da Suprema Corte, não se admite a oposição de embargos declaratórios contra decisão monocrática. Embargos recebidos como agravo regimental, nos termos dos precedentes. 2. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 3. Decisão judicial que desrespeita enunciado de súmula do STF sem efeito vinculante não dá ensejo ao ajuizamento de reclamação constitucional, pois não há obrigatoriedade de seu acatamento vertical pelos tribunais e juízos. 4. Impossibilidade do uso da reclamação como meio de saltar graus jurisdicionais. 5. Agravo regimental não provido. (Rcl 8217 ED, Relator Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 6/2/2013)
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 3 de agosto de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
