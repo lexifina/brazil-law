@@ -1,0 +1,12 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No: 1006625-55.2020
+AGRAVANTE: PEROLA DISTRIBUICAO E LOGISTICA LTDA.
+AGRAVADOS: ANCORA RECUPERADORA DE CRÉDITOS E ATIVOS LTDA e Outros.
+Vistos etc.
+Conclusão equivocada.
+Cumprida a última determinação exarada (id. 49818484), e não havendo nada requerido, arquive-se.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+Relator
