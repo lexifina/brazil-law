@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto em face de acórdão da 3ª Turma Recursal do Estado do Rio Grande do Sul, que, por unanimidade, deu provimento a recurso, concedendo aposentadoria por idade híbrida. Veja-se trecho pertinente do acórdão recorrido:
+    “[…]
+    Concluindo, o benefício do art. 48,§3º, da Lei 8.213/91, é devido aos trabalhadores que: (a) completarem 65 anos de idade, se homem, e 60 anos, se mulher; (b) cumprirem a carência legal exigida, para o que se permite somar tempo de serviço urbano e rural, ainda que remoto.
+    De acordo com a atual interpretação da matéria, portanto, não é imprescindível que o requerente esteja desempenhando atividade rural quando preenche o requisito etário e não se exige que o labor rural tenha sido exercido no período imediatamente anterior ao implemento da idade, ou seja, é possível aproveitar o tempo rural exercido a qualquer tempo, sem a exigência da 'nota de contemporaneidade' mencionada no precedente da TRU da 4ª Região.
+    No caso dos autos, o magistrado a quo reconheceu a atividade rural em regime de economia familiar no intervalo de 03/05/1958 a 22/11/1969, e não há insurgência da autarquia.
+    Tendo completado 60 anos de idade no ano de 2006, a requerente deve comprovar a existência de 150 meses de carência, conforme a tabela progressiva do art. 142 da Lei nº 8.213/91. Observa-se que até a DER, em 16/03/15, foram apurados pelo INSS somente 96 meses de carência (1 - PROCADM6, fl. 35). Com a soma do tempo de atividade rural de 03/05/1958 a 22/11/1969 (138 meses), a autora totaliza mais de 180 meses de carência e faz jus à aposentadoria por idade híbrida desde a DER.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 97; 195, § 5º e 201 da CF.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido fundamentou sua decisão na legislação infraconstitucional pertinente, bem como no material fático-probatório dos autos, cujo reexame é inviável nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Veja-se, nessa linha, o seguinte precedente, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA DE TRABALHADOR RURAL. CUMPRIMENTO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.079.183-AgR, Ministra Presidente).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+       Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
