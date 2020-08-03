@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado, no relevante:
+    “APELAÇÃO CÍVEL. CONTRATO ADMINISTRATIVO. Inadimplemento. (...) 4. Honorários advocatícios - Fixação exacerbada - Inobservância do artigo 20, § 4°, do Código de Processo Civil - Redução devida (...)”. (eDOC 15, p. 71)
+    Opostos embargos de declaração, foram rejeitados. (eDOC 15, p. 96)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, caput; e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que o juízo a quo não teria sanado omissão e contradição do acórdão, mesmo após a oposição de embargos de declaração. (eDOC 15, p. 155)
+    No mérito, afirma-se que violaria a igualdade entre as partes litigantes a fixação de honorários de sucumbência contra a recorrida (Fazenda Pública) abaixo de 10% do valor da causa, patamar mínimo em que seria condenada a parte recorrente. (eDOC 15, p. 161)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    Ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Saliento, ainda, que esta Corte reconheceu a repercussão geral dessa questão constitucional no tema 339, nos seguintes termos:
+    Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010)
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o conjunto probatório constante dos autos, consignou o valor da verba honorária que seria equitativo para o caso. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Quanto à verba honorária, merece acolhida a irresignação da Municipalidade, pois em razão do vultoso montante devido (R$ 17.143.326,53 em novembro de 2007 - fls. 3622), a condenação ao pagamento de 10% sobre este valor não se mostra equânime.
+    Assim é que, nos termos do artigo 20, § 4°, do Código de Processo Civil, observada a natureza da causa, o grau de complexidade e o trabalho dos causídicos, bem como a fim de recompensar dignamente a atividade profissional realizada, fixo a verba honorária em R$ 685.000,00 (seiscentos e oitenta e cinco mil reais)“. (eDOC 15, p. 77)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário contra acórdão do STJ. Análise de questão decidida em segundo grau. Impossibilidade. Recurso especial. Análise dos pressupostos de admissibilidade. Ausência de repercussão geral. Honorários advocatícios. Fixação. Legislação infraconstitucional. Precedentes. (...) 3. A questão relativa à fixação, na origem, de honorários advocatícios é de índole infraconstitucional, exaurindo-se no âmbito da legislação processual, para cujo exame não se presta o recurso extraordinário, uma vez que a ofensa ao texto constitucional, se houvesse, seria indireta ou reflexa. 4. Agravo regimental não provido”. (ARE 755.830 AgR, rel. Dias Toffoli, Primeira Turma, DJe 4.12.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário e Processo Civil. Fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. Incidência do Enunciado 279 da Súmula do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento”. (ARE 706879 AgR, de minha relatoria, DJe 06.06.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
