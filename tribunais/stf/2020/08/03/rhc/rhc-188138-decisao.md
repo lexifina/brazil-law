@@ -1,0 +1,28 @@
+DECISÃO:
+Ementa: Processual penal. Recurso ordinário em habeas corpus. Revisão criminal. Supressão de instância. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. INADMISSIBILIDADE. RAZÕES QUE NÃO INFIRMARAM UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. Agravo regimental não conhecido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 4 anos, 9 meses e 5 dias de reclusão, em regime inicial semiaberto, pela prática, por duas vezes, do crime previsto no art. 155, § 4º, II e IV, uma delas c/c o art. 14, II, do Código Penal, em continuidade delitiva.
+    3. Irresignada, a defesa interpôs apelação. O Tribunal estadual deu parcial provimento ao recurso para redimensionar a pena para 3 anos, 7 meses e 16 dias de reclusão, em regime inicial semiaberto, mantida, no mais, a sentença condenatória, tendo o acórdão transitado em julgado para as partes.
+    4. Ainda inconformada, a defesa ajuizou revisão criminal. O TJ/SP deu parcial provimento à ação para “absolver o peticionário da tentativa de furto duplamente qualificado, nos termos do art. 386, inciso III, c.c. o 621, inciso I, ambos do Código de Processo Penal, e, por consequência, redimensionar sua pena para 03 (três) anos, 01 (um) mês e 10 (dez) dias de reclusão e 15 (quinze) dias-multa, como incurso no artigo 155, § 4º, incisos II e IV, do Código Penal”.
+    5. Na sequência, sobreveio a impetração de habeas corpus no Superior Tribunal de Justiça. O Ministro Sebastião Reis Júnior, ao analisar o HC 544.643, indeferiu liminarmente o writ. Interposto agravo regimental, o recurso não foi conhecido.
+    6. Neste recurso ordinário, a defesa  sustenta a “ilegalidade da dosimetria da pena, consistente na imposição indevida de elevação do piso da reprimenda, regime semiaberto e não substituição da pena privativa em restritiva de direitos”.
+    7. Decido.
+    8. O recurso não deve ser provido.
+    9. Inicialmente, verifico que o acórdão proferido pelo Superior Tribunal de Justiça não apreciou as teses ora alegadas pelo paciente, tendo em vista que “o agravante não impugnou o fundamento primário da decisão agravada, qual seja: a impossibilidade de rescisão dos acórdãos exarados no julgamento da apelação e revisão criminal, ante a preclusão temporal verificada”, o que impede o imediato exame das matérias pelo Supremo Tribunal Federal, sob pena de supressão de instância.
+    10. Não bastasse, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático e probatório, não sendo possível em habeas corpus a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. E mais: o Supremo Tribunal Federal (STF) já decidiu que a existência de circunstâncias judiciais desfavoráveis justifica a fixação da pena-base em patamar acima do mínimo legal (RHC 117.806, Redator p/o acórdão o Ministro Edson Fachin; HC 124.250, Rel. Min. Teori Zavascki; HC 122.344, Relª. Minª. Rosa Weber).
+    12. No ponto, transcrevo as seguintes passagens do voto condutor do acórdão que julgou a revisão criminal:
+    “[...]
+    Quanto ao pedido de fixação da pena-base no mínimo legal, melhor sorte não assiste à douta Defesa.
+    De proêmio, consigno que, por expressa disposição legal, operações dosimétricas somente podem ser alteradas em sede de revisão criminal quando houver manifesta ilegalidade, não verificada na espécie.
+    No caso sub judice, restou demonstrada a maior reprovabilidade da conduta do peticionário, ante as circunstâncias e conseqüências do crime (a ré experimentou considerável prejuízo econômico e os agentes aproveitaram-se de sua vulnerabilidade decorrente da idade e do fato de ser pessoa com queixas de saúde) e, ainda, à segunda qualificadora do crime de furto, valorada como circunstância de exasperação, afigurando-se correta a fixação da pena-base acima do mínimo legal, como bem fundamentado, aliás, na respeitável sentença (fls. 162/165 e 177/178) e no venerando acórdão (fls. 236/248), notadamente com o ajuste operado pela douta Turma julgadora, que reduziu para um terço tal majoração.
+    [...]”.
+    13.  Ainda: reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, na hipótese de que se cuida, o regime inicial semiaberto foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente se se considerar a existência de circunstância judicial negativa sopesada na primeira fase.
+    14.  Da mesma forma, as instâncias precedentes concluíram que a conversão da reprimenda, no caso, não se mostra recomendável em razão de circunstância judicial julgada desfavorável.
+    15. De modo que não verifico situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    16. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
