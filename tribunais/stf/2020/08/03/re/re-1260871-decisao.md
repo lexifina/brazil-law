@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “PROCESSO CIVIL. RECURSO DE APELAÇÃO E REEXAME NECESSÁRIO. ESTÁGIO REMUNERADO SOB A ÉGIDE DO DECRETO MUNICIPAL N. 6.149/2002. PERMANÊNCIA NO ESTÁGIO APÓS CONCLUSÃO DO CURSO SUPERIOR. ILEGALIDADE. DIREITO À DIFERENÇA SALARIAL ENTRE O VALOR DA BOLSA E O VALOR DO CARGO EFETIVO. IMPOSSIBILIDADE DE PAGAMENTO DO SEGURO DESEMPREGO E DO FGTS. REFORMA PARCIAL DA SENTENÇA. RECURSO DE APELAÇÃO CONHECIDO E IMPROVIDO. RECURSO NECESSÁRIO. CONHECIDO E PARCIALMENTE PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 37, II, da CF.
+    A Procuradoria-Geral da República manifestou-se pela negativa de seguimento ao recurso extraordinário.
+    O recurso deve ser provido. Isso porque, no caso, o Tribunal de Justiça do Estado do Amazonas divergiu da jurisprudência firmada pelo Plenário do Supremo Tribunal Federal (STF), no julgamento do RE 705.140-RG, Rel. Min. Teori Zavascki, no sentido de que as contratações de pessoal pela Administração Pública sem a devida observância de prévia aprovação em concurso público não geram efeitos jurídicos válidos, a não ser o direito dos contratados à percepção dos salários referentes ao período trabalhado e ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço. Este o teor da ementa do acórdão:
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 - REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS.
+    3. Recurso extraordinário desprovido.”
+    Quanto à questão relativa à diferença salarial de estagiário e servidor, o acórdão recorrido não está alinhado à jurisprudência do STF, que veda o aumento de benefícios por parte do Judiciário, com base no principio da isonomia, na equiparação salarial ou a pretexto da revisão geral anual. Tal entendimento restou pacificado no julgamento do RE 592.317-RG, sob a relatoria do Ministro Gilmar Mendes, e consolidou-se com a edição da Súmula Vinculante 37:
+    “Não cabe ao poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.”
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário do Município. Ficam invertidos os ônus sucumbenciais, ressalvada eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
