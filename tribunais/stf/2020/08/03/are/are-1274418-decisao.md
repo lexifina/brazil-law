@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA E DESCONSTITUIÇÃO DE RELAÇÃO JURÍDICA - CONPREVI - CARTEIRA DE PREVIDÊNCIA COMPLEMENTAR DOS ESCRIVÃES, NOTÁRIOS E REGISTRADORES - NÃO OCORRÊNCIA DA INÉPCIA DA PETIÇÃO INICIAL - PRESCRIÇÃO - NÃO RECONHECIDA - TESE DO STF QUE NÃO SE APLICA AO CASO - PARCELAS PAGAS COMPULSORIAMENTE - FILIAÇÃO OBRIGATÓRIA IMPOSTA POR LEI ESTADUAL - INCONSTITUCIONALIDADE CARÁTER COMPLEMENTAR E FACULTATIVO DA PREVIDÊNCIA PRIVADA - LIVRE DIREITO DE ASSOCIAÇÃO - QUESTÃO JÁ APRECIADA PELO STF - IMPOSSIBILIDADE DE DESCONTO DE 30% DO VALOR DEVIDO A TÍTULO DE ENCARGOS ADMINISTRATIVOS E IMPOSTO NA FONTE - HONORÁRIOS ADVOCATÍCIOS - MANUTENÇÃO - PERCENTUAL CONDIZENTE COM O ART. 20, §3°, DO CPC - RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, XX, XXXVI; e 202 da CF.
+    O recurso é inadmissível, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal no sentido de que a adesão a regime de previdência privada, de caráter complementar, é facultativa. Nessa linha, vejam-se o RE 600.392-ED, Rel. Min. Ricardo Lewandowski; o RE 482.207-AgR, Rel. Min. Eros Grau; o AI 839.848-ED, Rel. Min. Luiz Fux; o ARE 1.131.789, Rel. Min. Gilmar Mendes; e o RE 772.675-AgR, Relª. Minª. Rosa Weber.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
