@@ -1,0 +1,28 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL -AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA - SERVIDORA DO MUNICÍPIO DE CARMÓPOLIS DE MINAS - ESTABILIDADE FINANCEIRA EM CARGO COMISSIONADO - PRETENSÃO DE NULIDADE DO ATO CONCESSIVO DO BENEFÍCIO, E RESSARCIMENTO DOS VALORES CORRESPONDENTES - SERVIDORES MUNICIPAIS NÃO ALCANÇADOS PELA EMENDA À CONSTITUIÇÃO ESTADUAL N° 57/2003 - INEXISTÊNCIA DE VEDAÇÃO LEGAL À CONCESSAO DO BENEFÍCIO- AUTONOMIA DO ENTE MUNICIPAL - JURISPRUDÊNCIA CONSOLIDADA DO COLENDO SUPREMO TRIBUNAL FEDERAL - AUSÊNCIA DE ILICITUDE NA CONCESSÃO DO BENEFÍCIO DA ESTABILIDADE FINANCEIRA - CONDUTA ÍMPROBA NÃO DEMONSTRADA - VULNERAÇÃO DOS PRINCÍPIOS ADMINISTRATIVOS E DO DANO AO ERÁRIO NÃO VERIFICADOS - RECURSO PROVIDO - SENTENÇA REFORMADA.
+    1- A revogação do instituto da estabilidade financeira, no âmbito estadual, por força da Emenda à Constituição Estadual n° 57/2003, não alcançou a esfera municipal, posto que o Município detém autonomia para organizar o serviço público e o seu pessoal, podendo estabelecer direitos, encargos ou vantagens para o servidor municipal, não vedados por dispositivo legal, pois é livre para aplicar suas rendas e organizar seus serviços. Jurisprudência consolidada do col. Supremo Tribunal Federal.
+    2- Ausência de ilicitude no ato que concedeu o beneficio da estabilidade financeira à servidora.
+    3- Ausência de vulneração dos princípios da Administração Pública ou de dano ao erário. Improbidade não demonstrada.
+    4- Recurso de apelação provido. Sentença reformada, para julgar improcedente o pedido inicial” (pág. 74 do documento eletrônico 2).
+    Os embargos de declaração que se seguiram foram rejeitados (págs. 106-109 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação dos arts. 29, caput; 35, IV; e 37, caput, V, da mesma Carta.
+    O Ministério Público do Estado de Minas Gerais – MPMG sustenta, em síntese, que a Emenda 57/2003 feita à Constituição daquele Estado acabou com o instituto do “apostilamento”, tendo total aplicação aos municípios mineiros.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para dissentir da conclusão adotada pelo Tribunal de origem e verificar a procedência dos argumentos consignados no apelo extremo, seria necessária a interpretação da legislação infraconstitucional pertinente (Emenda 57/2003 à Constituição do Estado de Minas Gerais), sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, menciono os seguintes precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ESTABILIDADE FINANCEIRA. CONSTITUCIONALIDADE. NORMA ESTADUAL ESPECÍFICA REGULADORA DE REAJUSTE DE VANTAGEM PESSOAL INCORPORADA. CONTROVÉRSIA INFRACONSTITUCIONAL. PRECEDENTES.
+    O Supremo Tribunal Federal, após reconhecida a repercussão geral da matéria no RE 563.965-RG, sob a relatoria da Ministra Cármen Lúcia, reafirmou a jurisprudência da Corte no sentido da constitucionalidade do instituto da estabilidade financeira. Ficou ressalvada a possibilidade de alteração dos critérios de reajustes da vantagem pessoal incorporada, tendo em conta a inexistência de direito adquirido a regime jurídico, desde que assegurada a irredutibilidade remuneratória.
+    No caso, o Superior Tribunal de Justiça assentou que não houve expressa revogação do regime legal de reajuste da vantagem pessoal incorporada. Tal conclusão se sustenta na interpretação conferida à Lei Complementar estadual nº 68/1992, cujo exame é inviável em recurso extraordinário (Súmula 280/STF). Precedentes.
+    Agravo regimental a que se nega provimento” (ARE 765.015-AgR, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. INSTITUTO DA ESTABILIDADE FINANCEIRA. CONSTITUCIONALIDAE. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI 94/1979. DECRETO 12.812/1994. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280. DO STF.
+    1. Esta Corte já afirmou a constitucionalidade do instituto da Estabilidade Provisória. Precedentes.
+    2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame da legislação local aplicável à espécie. Incidência da Súmula 280 do STF.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC” (ARE 923.112-AgR, Rel. Min. Edson Fachin, Segunda Turma).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REVISÃO DE PROVENTOS. INCORPORAÇÃO DE VANTAGEM. LEI MUNICIPAL 94/1979. EXAME DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. PRECEDENTES. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 25.7.2003.
+    O Tribunal a quo dirimiu a lide com espeque em interpretação de legislação local – Lei Municipal 94/1979, incide, na espécie, o óbice da Súmula 280/STF : “Por ofensa a direito local não cabe recurso extraordinário”. Precedentes.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário.
+    Agravo regimental conhecido e não provido” (RE 585.359-AgR, Rel. Min. Rosa Weber, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 3 de agosto de 2020.
+Ministro Ricardo Lewandowski
+Relator
