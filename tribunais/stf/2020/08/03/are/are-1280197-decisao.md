@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - ART. 121, § 2º, IV, DO CP C/C ART. 29, CAPUT, AMBOS DO CÓDIGO PENAL E DUAS VEZES NAS PENAS DO ARTIGO 121, § 2°, INCISO IV, NA FORMA DO ARTIGO 14, INCISO II, C/C 29, CAPUT, TODOS DO CÓDIGO PENAL (EM RELAÇÃO A DUAS VÍTIMAS).
+    - PRELIMINAR DE NULIDADE -VIOLAÇÃO DA SÚMULA 14 DO STF - CERCEAMENTO DO DIREITO DE DEFESA - NÃO OCORRÊNCIA - PRELIMINAR REJEITADA - MÉRITO - DECISÃO DO CONSELHO DE SENTENÇA AMPLAMENTE AMPARADA PELO CONJUNTO PROBATÓRIO - SOBERANIA DOS VEREDICTOS - INTANGIBILIDADE - FIXAÇÃO DAS PENAS-BASE NO MÍNIMO LEGAL - IMPOSSIBILIDADE - CONTINUIDADE DELITIVA - INOCORRÊNCIA - DECOTE DA QUALIFICADORA - INVIABILIDADE - DETRAÇÃO - NÃO IRÁ ALTERAR O REGIME IMPOSTO - DIREITO DE RECORRER EM LIBERDADE - MATÉRIAS PREQUESTIONADAS - RECURSO IMPROVIDO.
+    1.ª Preliminar - Nulidade do julgamento - Violação da Súmula n° 14 do STF - cerceamento do direito de defesa:
+    ‘Após analisar detidamente os autos, verifica-se que não merece prosperar o argumento defensivo.
+    Primeiramente, forçoso mencionar que a matéria preliminar explorada pela defesa já foi devidamente debatida e superada em algumas oportunidades no presente autos, conforme despacho de fl. 840, e ata de julgamento de fls. 882/886.
+    Verifica-se que o Apelante requer a juntada aos autos, bem como o amplo acesso, do resultado a interceptação telefônica deferida no processo. Todavia, conforme já devidamente informado e fundamentado pela MM. Juíza, após a análise detida dos autos principais e do procedimento de interceptação telefônica em apenso, restou verificado que na presente ação penal não há utilização de prova proveniente de interceptação telefônica, conforme pode ser inclusive constatado pela própria defesa no decorrer da persecução penal do presente processo.
+    2) Preliminar rejeitada.
+    3) Mérito: Havendo o Conselho de Sentença optado por uma das versões debatidas em plenário e estando ela demonstrada nos elementos de prova constantes dos autos, não há falar-se em nulidade do julgamento por decisão manifestamente contrária à prova dos autos, sob pena de ofensa. ao princípio constitucional da soberania dos veredictos, consagrado no art. 5.°, XXXVIII, ‘c’, da Constituição da República.
+    No tocante ao pedido de reconhecimento da continuidade delitiva, disposto no art. 71, parágrafo único, do CP, entendo que não estão presentes os seus requisitos. Além disso, depreende-se das provas carreadas aos autos que os réus agiram com desígnios autônomos, ou seja, com animus de ceifar a vida das vítimas ou ao menos com dolo eventual, o que, é claro, afasta a aplicação do crime continuado. Foram inúmeros os disparos desferidos pelos agentes contra as vítimas.
+    Da mesma forma, de forma escorreita o Colendo Tribunal do Júri acolheu por maioria (4x0) a circunstância da qualificadora ‘recurso que dificultou a defesa da vítima’ - fls. 892/895, eis que restou comprovado nos autos que as vítimas foram pegas de surpresa, perseguidas no quintal da casa, sendo disparados inúmeros tiros.
+    No tocante ao pedido de realização do instituto da detração, deixo de aplicá-lo, eis que não irá alterar o regime inicial imposto, qual seja o fechado.
+    Quanto ao direito de recorrer em liberdade, tenho que melhor sorte não o socorre.
+    Consoante posicionamento pacífico da jurisprudência, não se concede o direito de recorrer em liberdade a acusados que permaneceram presos durante toda a instrução do processo, pois a manutenção na prisão constitui-se em um dos efeitos da respectiva condenação (STJ, HC n° 174.506/AM, Rel. Min. GILSON DIPP, Quinta Turma, DJ 4.4.2011).
+    Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, caput, XXXV e XXXVIII, a, da CF. Sustenta que, ”ao indeferir o requerimento de disponibilização do resultado da interceptação e quebra do sigilo telefônico e de qualquer outro documento referido no artigo 6° da Lei 9.296/1996, foi contrariado o artigo 5°, inc. XXXVIII, alínea a, da Constituição da República”.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[…]
+    A mera alegação de nulidade por parte da defesa não é suficiente para se decretar a anulação do ato processual fustigado, sendo necessária a comprovação do efetivo prejuízo para o réu, nos termos do artigo 563, do Código de Processo Penal, o que não ocorreu no caso em comento.
+    Pelo que se infere dos autos, embora tenha sido deferido a quebra de sigilo e interceptação telefônica (em anexo, tombada sob o n° IP 102/04 - RG 15469), não consta do procedimento qualquer tipo de diligência efetivada ou degravações e ainda que houvesse, as mesmas não foram utilizadas como elemento de prova nos presentes autos que viessem a influenciar a decisão soberana do Colendo Tribunal do Júri, não havendo, assim, que se falar em cerceamento de defesa.
+    [...]”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
