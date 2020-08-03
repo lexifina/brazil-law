@@ -1,0 +1,26 @@
+DECISÃO:
+Ementa: Penal. Habeas Corpus. Tráfico de drogas. Regime inicial. Superação da Súmula 691/STF. Ordem concedida de ofício.
+1. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+2. Paciente (primário e de bons antecedentes) condenado a 5 anos de reclusão, em regime fechado, pelo tráfico de quantidade pouco expressiva de drogas. Hipótese em que o regime inicial mais severo contraria a orientação jurisprudencial do Supremo Tribunal Federal.
+3. Habeas corpus a que se nega seguimento. Ordem concedida de ofício para fixar, desde logo, o regime semiaberto.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 592.016, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, pelo crime previsto no art. 33, caput, da Lei 11.343/06.
+    3. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento à apelação da defesa para “reconhecer a atenuante da confissão, sem reflexo no montante final de sua reprimenda, e para determinar que o veículo VW/GOL Special, de placas CSB-0258, apreendido por ocasião da prisão em flagrante, seja liberado e restituído ao mesmo apelante”.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 592.016, Ministro Reynaldo Soares da Fonseca, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a imposição de regime inicial mais gravoso, destacando ser pequena a quantidade da droga apreendida em poder do paciente (134 g de cocaína).
+    6. Prossegue a narrativa para ressaltar que, “embora se vislumbre os requisitos preenchidos do artigo 33, § 4°, da lei de Drogas, o que se pleiteia liminarmente é ver o constrangimento ilegal iminente sofrido pelo paciente, o qual o regime inicial de cumprimento como FECHADO”.
+    7. A defesa requer a concessão da ordem a fim de que “SEJA APLICADO REGIME INICIAL DE CUMPRIMENTO DE PENA SEMIABERTO AO PACIENTE, ou subsidiariamente, requer a aplicação da figura do trafico privilegiado ao paciente, com abrandamento de seu regime prisional”.
+    8. Decido.
+    9. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+    10. Sem prejuízo desse encaminhamento, passo a examinar a possibilidade de concessão da ordem de ofício.
+    11. O paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, pelo tráfico de 134g de cocaína. Na primeira fase da dosimetria, a pena-base foi fixada no mínimo legal (5 anos), o que significa dizer que todas as circunstâncias judiciais foram favoráveis ao sentenciado, nos termos do art. 59 do Código Penal.
+    12. Ocorre que esta Corte tem uma jurisprudência consolidada, no sentido de que “[a] imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719 do STF). Além disso, o Plenário do Supremo Tribunal Federal, ao analisar o HC 111.840, de Relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do art. 2º, § 1º, da Lei nº 8.072/1990, com a redação dada pela Lei nº 11.464/2007. Sendo assim, ficou superada a obrigatoriedade de início do cumprimento da pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    13. Sendo assim, em se tratando de réu primário e de bons antecedentes, surpreendido com quantidade pouco relevante de droga, não há como deixar de reconhecer a ilegalidade no estabelecimento de regime prisional (fechado) mais severo que o legalmente permitido, nos termos do art. 33, § 3º, do Código Penal. O regime prisional intermediário se me afigura, no caso, resposta estatal necessária e suficiente para reprovação e prevenção do crime (art. 59 do CP).
+    14. Quanto ao mais, a via processualmente restrita do habeas corpus não se mostra adequada para o redimensionamento do quantum de redução da pena, na terceira fase da dosimetria (art. 33, § 4º, da Lei de Drogas).
+    15. Com efeito, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    16. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus. Contudo, concedo a ordem de ofício para fixar, desde logo, o regime inicial semiaberto.
+    Comunique-se, com urgência.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
