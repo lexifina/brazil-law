@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus impetrado por Icaro Batista Nunes e outro, em favor de Plínio Gomes de Lima, contra decisão monocrática proferida pelo Presidente do STJ, nos autos do HC 591.073/SP.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de PLINIO GOMES DE LIMA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA.
+    O paciente foi preso em flagrante delito, em 14/05/2020, pela prática, em tese, dos delitos previstos nos arts. 180 e 311 do Código Penal, tendo sua prisão sido convertida em provisória.
+    O impetrante requer a concessão da ordem liminar para que seja revogada a prisão preventiva do paciente, com a imediata expedição do alvará de soltura, devido à carência de fundamentação idônea da decisão hostilizada, à ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP, à existência de circunstâncias pessoais favoráveis ao acusado, bem como à situação de risco decorrente da pandemia do Coronavírus (Covid-19), em obediência à Recomendação n. 62/2020 do CNJ. Pugna pela aplicação das medidas alternativas ao cárcere, nos termos do art. 319 do CPP”. (eDOC 13)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, a defesa afirma que “a pessoa que tentou fuga, quando da abordagem policial, foi tão somente o corréu MARCELO CRISTIANO DE OLIVEIRA, de modo que este fundamento poderia e deveria ser invocado somente em desfavor dele (doc. 10 – depoimentos dos policiais).”
+    Pontua que “o Juízo de Piso foi completamente desproporcional em sua decisão, uma vez que converteu a prisão flagrancial em preventiva de todos os averiguados, não fazendo nenhuma distinção entre o Paciente primário e o corréu reincidente (doc. 07 – folha de antecedentes do corréu).”
+    Requer, “observada a Recomendação nº 62/2020 do Conselho Nacional de Justiça e diante (i) de se tratar de delito tipificado sem violência ou grave ameaça à pessoa; (ii) de o Paciente ser pai de criança impúbere, primário e com ótimo antecedentes; (iii) de o Paciente estar recluso em unidade prisional, local com evidente aglomeração de pessoas; (iv) de o Paciente não poder ser penalizado pelo regime de funcionamento atípico imposto pelo Tribunal de Justiça de São Paulo, que, apesar de necessário ao combate ao novo coronavírus, acresce morosidade ao trâmite do processo de origem, (v) por se tratar de Paciente, presumidamente inocente, que aguarda julgamento, requer lhe seja concedida liberdade processual, sem o prejuízo da atribuição de outra(s) medida(s) cautelar(es) diversa(s) da prisão, desde que compatíveis com o funcionamento atípico e trabalho remoto dos fóruns, ou, ainda, seja-lhe franqueada a oportunidade de cumprimento da prisão provisória em sede domiciliar, ao menos até a normalização da conjuntura pandêmica atualmente em curso, sendo ordenada a expedição e o cumprimento do competente alvará de soltura ao final.”
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia aqui posta não foi apreciado pelo colegiado do Tribunal de Justiça nem do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    O impetrante frisa que, ao paciente, não deveria ter sido dispensado tratamento idêntico ao corréu reincidente que empreendeu fuga.
+    Na espécie, ainda que analisado o caso isolado do paciente, não vislumbro manifesta ilegalidade em sua prisão. Isso porque ele, segundo os autos, preso com mais dois corréus, conduzia veículo objeto de roubo, com a placa de identificação adulterada.
+    Muito embora o paciente seja primário, reputo prudente aguardar o pronunciamento colegiado do Tribunal de Justiça e do Superior Tribunal de Justiça.
+    Quanto à alegação de pandemia, o Plenário do STF na ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar por ele concedida, nos termos do voto do Ministro Alexandre de Moraes.
+    Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça, como já foi feita pelo Juízo de primeiro grau.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 3 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
