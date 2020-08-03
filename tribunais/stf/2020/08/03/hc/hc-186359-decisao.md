@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus impetrado por João Gabriel de Barros Freire e outro, em favor de Renata Pileggi, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do EDcl no AgRg nos EDcl no RECURSO ESPECIAL Nº 1.646.760.
+    Consta dos autos que, no primeiro grau, a paciente “foi condenada à pena privativa de liberdade de 2 anos, 4 meses de reclusão, bem como ao pagamento de 11 dias-multa, no valor mínimo legal, pela prática do delito tipificado no art. 337-A do Código Penal (fls. 559/585).”
+    Em sede de apelação, a paciente “foi absolvida em relação ao delito descrito no art. 337-A, I e III, do Código Penal, pois o acórdão a quo considerou que a omissão na entrega das GFIPs não configura a omissão fraudulenta descrita no norma penal [...] (fl. 650).”
+    No recurso especial movido pela acusação, o Superior Tribunal de Justiça cassou o acórdão absolutório e restabeleceu a condenação imposta pelo Juízo de primeiro grau.
+    Neste writ, a defesa requer o restabelecimento da absolvição.
+    A PGR opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Para melhor compreensão da controvérsia, observe-se o teor da decisão proferida nos autos do recurso especial:
+    Nessa ordem de idéias, ainda que a recorrida tivesse descumprido a obrigação tributária de entregar a declaração ao fisco, teria incidido no crime em questão, na modalidade omissão, que se consuma independente da prestação de informações falsas, conduta tipificada em separado, na segunda parte do referido tipo penal.
+    Se o lançamento do tributo se dá, como na hipótese em pauta, por declaração, a apresentação dessa declaração - no caso, a GFIP - é absolutamente fundamental para a constituição do crédito tributário. Ao omitir esta declaração, evidentemente está o contribuinte, dolosamente, por omissão, obstando a constituição do crédito e, por conseqüência, sonegando tributo.
+    Com efeito, ao não apresentar ao fisco a declaração tributária devida, o contribuinte incide na conduta omissiva prevista no tipo penal. Frise-se que com tal omissão, o objetivo, vale dizer, o dolo do contribuinte é de subtrair do fisco o próprio conhecimento do tributo devido.
+    Outro não é o entendimento deste Superior Tribunal, ou seja, os crimes de sonegação fiscal e apropriação indébita previdenciária prescindem de dolo específico, sendo suficiente, para a sua caracterização, a presença do dolo genérico consistente na omissão voluntária do recolhimento, no prazo legal, dos valores devidos (AgRg no AREsp n. 469.137/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2017).
+    [...]
+    Diante disso, em razão da redução de contribuição social previdenciária, de forma livre e consciente, mediante a omissão de documentos previstos na legislação previdenciária, entendo que merece cassação o acórdão a quo e, em acréscimo, fixo a superação da questão de ordem ofertada às fls. 710/715.
+    Sendo repetidamente decidida a matéria debatida, conforme os precedentes citados e o parecer favorável do órgão ministerial (fls. 703/706), o presente recurso comporta pronta solução, nos moldes do art. 34 do RISTJ e o disposto na Súmula 568/STJ, com o fim de se agilizar a prestação jurisdicional.
+    O entendimento firmado pelo Superior Tribunal de Justiça não diverge da jurisprudência deste Supremo Tribunal Federal, que também é firme no sentido de que “para a configuração do delito de apropriação indébita previdenciária não é necessário um fim específico, ou seja, o animus rem sibi habendi” (HC 84.589, Relator o Ministro Carlos Velloso, DJ 10.12.2004), verbis:
+    EMENTA: PROCESSUAL PENAL. HABEAS CORPUS. QUESTÃO NOVA. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. DOLO ESPECÍFICO. ANIMUS REM SIBI HABENDI. RETROATIVIDADE DA LEI MAIS BENÉFICA. ART. 5º, XL, DA CF/88. I. – Por conter questões novas, não apreciadas pelo Superior Tribunal de Justiça, o habeas corpus não pode ser conhecido, sob pena de supressão de instância. II. – O exame da alegação de inexistência de dolo específico implicaria o revolvimento do conjunto fático-probatório, o que não se admite nos estreitos limites do habeas corpus. III. - Para a configuração do delito de apropriação indébita previdenciária, não é necessário um fim específico, ou seja, o animus rem sibi habendi, exigido para o crime de apropriação indébita simples. IV. – Tendo sido aplicada aos pacientes pena próxima à mínima cominada ao delito, não há que se falar em aplicação retroativa da lei nova que, transmudando a base legal de imputação para o Código Penal, apenas alterou a pena máxima do tipo. V. – H.C. conhecido, em parte, e, nessa parte, indeferido.
+    No mesmo sentido o RHC 86.072, Rel. Min. Eros Grau, DJ 28.10.2005; HC 84.021, Rel. Min. Celso de Mello, DJ 14.5.2004; HC 86.478, Rel. Min. Cármen Lúcia, DJ 7.12.2006; HC 113.418, Rel. Min. Luiz Fux, DJ 17.10.2013.
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 3 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
