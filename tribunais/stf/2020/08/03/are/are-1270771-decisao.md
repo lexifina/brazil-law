@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “Mandado de Segurança. Realização de exames médicos periódicos. Instrução Normativa nº 09/2017-SEGPLAN. Lei nº 19.145/2015. Legitimidade ativa Sindicato. I.- Os sindicatos têm legitimidade processual para atuar na defesa de todos e quaisquer direitos subjetivos individuais e coletivos dos integrantes da categoria por ele representada, independente da condição de filiado ou de autorização expressa. II – A imposição aos substituídos pelo impetrante, de se submeterem a exames médicos periódicos em condições desassociadas dos princípios constitucionais, atribuindo à eventual recusa do servidor, a tipificação de falta grave, em afronta aos princípios e à legislação aplicável, não se mostra razoável, razão pela qual a concessão da segurança é medida que se impõe. Segurança Concedida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da CF.
+    O recurso extraordinário é inadmissível.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+    O Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que falar em ofensa ao art. 97 da CF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
