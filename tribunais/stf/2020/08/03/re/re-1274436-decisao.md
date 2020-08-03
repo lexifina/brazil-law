@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO NEGATIVO. RESP 564.354/SE. REPRESENTATIVO DE CONTROVÉRSIA. READEQUAÇÃO DA RENDA MENSAL. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. NÃO LIMITAÇÃO SALÁRIO DE BENEFÍCIO. MANUTENÇÃO DO V. ACÓRDÃO.
+    1. O julgado representativo de controvérsia RE n° 564.354/SE firmou que é possível a readequação da renda mensal aos limites fixados pelos tetos estabelecidos pelas Emendas Constitucionais n°s 20/98 e 41/2003.
+    2. Espancada a questão, a E. Corte Suprema, sempre por meio de decisões monocráticas, tem afirmado que o precedente firmado não estabeleceu limitação temporal à aplicação da tese, razão pela qual os benefícios previdenciários implantados anteriormente à promulgação da CF/88 não estariam excluídos, ocorre que em momento algum o C. STF afirmou ser inconstitucional, à luz da CF anterior, a sistemática de apuração do salário-de-beneficio à época vigente.
+    3. No regime constitucional anterior, o salário-de-beneficio era apurado segundo a somatória de duas parcelas, conforme o disposto no Art. 23 do Decreto n° 89.312/84. Aplicar o precedente do STF sobre o ‘teto’ à sistemática anterior significaria declarar a inconstitucionalidade do artigo 23 do decreto n° 89.312/84, sem que o STF o tenha feito no precedente e sem que a parte o tenha sequer pedido.
+    4. A almejada desconsideração ‘dos tetos’, portanto, implicaria no absoluto desrespeito da sistemática prevista à época, com a criação judicial de regras próprias, situação que, nem de longe, foi abordada por julgado algum do C. STF.
+    5. Considerando que o beneficio foi concedido anteriormente a CF/88, a parte autora não faz jus à readequação da renda mensal aos limites fixados pelos tetos estabelecidos pelas Emendas Constitucionais n°s 20/98 e 41/2003.
+    6. Juízo de retratação negativo para manter o v. acórdão”.
+     O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 14 da EC 20/1998 e ao art. 5º da EC 41/2003.
+    O recurso extraordinário não merece acolhida.
+    O Supremo Tribunal Federal, no julgamento do RE 564.354, Relª. Minª. Cármen Lúcia, sob a sistemática da repercussão geral, entendeu ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários-de-contribuição que foram utilizados para os cálculos iniciais. O mencionado entendimento, contudo, não aproveita à pretensão, uma vez que restou assentado no acórdão recorrido que o benefício previdenciário não foi limitado ao teto no momento de sua concessão.
+    Logo, a solução da controvérsia pressupõe a aferição se houve ou não limitação ao teto no momento da concessão do benefício, de modo que, necessariamente, exigir-se-ia a análise da legislação infraconstitucional aplicada e o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
