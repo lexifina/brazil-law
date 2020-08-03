@@ -1,0 +1,24 @@
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. AÇÃO JULGADA PROCEDENTE. ALEGADA OBSCURIDADE NA DECISÃO EMBARGADA. INOCORRÊNCIA. AUSÊNCIA DE NULIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    DECISÃO: Trata-se de embargos de declaração opostos por Artebrilho Multserviços LTDA contra decisão monocrática de minha lavra, pela qual julguei procedente a reclamação proposta, em decisum assim ementado:
+    “RECLAMAÇÃO. CONSTITUCIONAL. EXECUÇÃO. PENHORA DE VERBAS MUNICIPAIS PARA SATISFAÇÃO DE CRÉDITO CONTRATUAL. ALEGAÇÃO DE AFRONTA À AUTORIDADE DAS DECISÕES DO SUPREMO TRIBUNAL FEDERAL PROFERIDAS NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL 275 E 387. OCORRÊNCIA. SUBMISSÃO DO MUNICÍPIO AO REGIME CONSTITUCIONAL DE PAGAMENTOS POR PRECATÓRIO. CONFIRMAÇÃO DA MEDIDA LIMINAR. RECLAMAÇÃO QUE SE JULGA PROCEDENTE”.
+    Em breve síntese, o embargante alega a ocorrência de obscuridade e dúvida no decisum embargado quanto aos efeitos do agravo regimental interposto em face da decisão liminar.
+    Aduz que “o agravo interno manejado pela embargante debateu, estritamente, os fundamentos que balizaram a decisão liminar, sem o condão de enfrentar o mérito proposto na peça de ingresso”.
+    Sustenta, ainda, que o julgamento de mérito teria ocorrido antes do término do prazo concedido à embargante para apresentar contestação, em violação aos princípios do contraditório e ampla defesa.
+    Pugna, por fim, pela procedência dos presentes embargos, “com a declaração de nulidade da decisão proferida e a consequente reabertura de prazo para oferta da contestação”.
+    Em homenagem ao princípio da celeridade da processual, desnecessária a manifestação da parte beneficiária da decisão reclamada. Dispensa-se, outrossim, a manifestação da Procuradoria-Geral da República, nos termos do art. 52, parágrafo único do RISTF.
+    É o relatório. DECIDO.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1.024, § 2º, do CPC, in verbis:
+    “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou omissão e para corrigir erro material, consoante dispõe o artigo 1.022 do CPC. De fato, necessário salientar que a omissão apta a atrair a incidência dos embargos de declaração só se manifesta quando há tópico juridicamente relevante no pedido que não tenha sido apreciado. Sobre o conceito de omissão, relevante citar Pontes de Miranda (Comentários ao Código de Processo Civil, Tomo VII, 3ª ed. Rio de Janeiro, Forense, 2002, p. 322), para quem “a omissão supõe que algo tenha estado na petição, ou na contestação, ou em embargos, ou em qualquer ato de declaração de conhecimento ou de vontade, a que o juiz tinha de dar solução, e tenha deixado de atender” (grifei).
+    In casu, entendo não haver qualquer omissão, tampouco contradição, obscuridade ou erro material na decisão embargada que, a par de não ter partido de premissas equivocadas, apreciou as questões suscitadas na reclamação de maneira clara e coerente, em consonância com a jurisprudência pertinente.
+    No caso ora em apreço, o contraditório foi plenamente exercido através da interposição de agravo regimental em face da decisão que deferiu a tutela provisória de urgência.
+    Com efeito, o artigo 277 do CPC estabelece que, quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
+    Neste sentido, não se vislumbra a ocorrência de nulidade pelo fato de a embargante não ter apresentado contestação, uma vez que na razões do agravo apresentou todos os argumentos para sua defesa.
+    Cumpre destacar, no que diz respeito à caracterização de nulidades processuais, posição firme desta Corte no sentido de que a nulidade alegada, para ser reconhecida, deve ensejar efetivo e comprovado prejuízo, o qual não pode ser presumido, a fim de se evitar um excessivo formalismo em prejuízo da adequada prestação jurisdicional. Trata-se de aplicação do princípio pas de nullité sans grief, cuja essência exige a demonstração de danos concretos à parte que suscita a nulidade - o que não se verifica in casu, uma vez que à embargante foi oportunizado o contraditório através da interposição de agravo contra a decisão liminar.
+    Destarte, não há que se falar em potencial prejuízo ao embargante e, consectariamente, em nulidade, motivo pelo qual não prospera o seu argumento.
+    Ex positis, DESPROVEJO os presentes embargos de declaração, nos termos dos artigos 932, VIII, do CPC e 161, parágrafo único, do RISTF.
+    Publique-se.
+    Brasília, 03 de agosto de 2020.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
