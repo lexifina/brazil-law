@@ -1,0 +1,9 @@
+DESPACHO:
+    1. Trata-se de ação direta de inconstitucionalidade, em que se discute a constitucionalidade do recebimento de honorários advocatícios pelos Procuradores do Estado do Piauí.
+    2.  Pediram ingresso no processo, na qualidade de amici curiae, as seguintes entidades: (i) Conselho Federal da Ordem dos Advogados do Brasil; (ii) Associação Nacional dos Procuradores dos Estados e do Distrito Federal – ANAPE; (iii) Associação Nacional dos Procuradores Municipais – ANPM; e (iv) os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, Sergipe, Tocantins, e o Distrito Federal.
+    3. Tendo em vista que o pedido de ingresso foi realizado antes da liberação do processo para inclusão em pauta (ADI 4.071 AgR e ADI 2.435 AgR), bem como considerando os critérios de representatividade, pertinência temática, abrangência e equilíbrio na sustentação de teses contrapostas, defiro o ingresso de todas as entidades acima elencadas.
+    4. Diante do exposto, defiro o ingresso no processo, na qualidade de amicus curiae, das seguintes entidades: (i) Conselho Federal da Ordem dos Advogados do Brasil; (ii) Associação Nacional dos Procuradores dos Estados e do Distrito Federal – ANAPE; (iii) Associação Nacional dos Procuradores Municipais – ANPM; e (iv) os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, Sergipe, Tocantins, e o Distrito Federal.
+    Publique-se. Intime-se.
+Brasília, 03 de agosto de 2020.
+Ministro Luís Roberto Barroso
+Relator
