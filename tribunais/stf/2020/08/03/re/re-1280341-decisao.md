@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário contra acórdão da Terceira Turma Recursal do Rio Grande do Sul que, ao reconhecer direito de revisão de benefício previdenciário, aplicou a tese firmada pelo Superior Tribunal de Justiça – Tema 999, cuja redação é a seguinte:
+    “Aplica-se a regra definitiva prevista no art. 29, I e II da Lei 8.213/1991, na apuração do salário de benefício, quando mais favorável do que a regra de transição contida no art. 3º da Lei 9.876/1999, aos segurados que ingressaram no Regime Geral da Previdência Social até o dia anterior à publicação da Lei 9.876/1999.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput; 97; 195, §§ 4º e 5º; e 201, todos da CF/1988, bem como ao art. 26 da EC 103/2019. Em síntese, requer a reforma do acórdão recorrido de modo a afastar a aplicação da opção descrita na Tese 999/STJ e julgar improcedente o pedido formulado pelo segurado da previdência social, mantendo o ato de concessão do benefício pela regra do art. 3º da Lei nº 9.876/1999 (regra de transição).
+    Decido.
+    O recurso não merece prosperar, tendo em vista que a solução da controvérsia demanda necessariamente a análise de legislação infraconstitucional pertinente e o reexame de matéria fática (Súmula 279/STF), providências inviáveis em recurso extraordinário. Confiram-se, nesse sentido, os seguintes precedentes, que tratam de idêntica questão: RE 1.265.551, Rel. Min. Alexandre de Moraes; RE 1.265.678, Relª. Minª Cármen Lúcia; RE 1.266.119, Rel. Min. Luiz Fux.
+    Ademais, não procede a alegada violação ao art. 97 da CF/1988. Nos termos da jurisprudência do STF não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Na hipótese, a Turma de origem apenas decidiu pela aplicação ao caso de tese definida pelo Superior Tribunal de Justiça.
+    A peça recursal não aponta, de forma clara e concreta, as razões pelas quais seria cabível a interposição do recurso extraordinário pelo art. 102, III, b, da Constituição, o que atrai a incidência da Súmula 284/STF (“É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
