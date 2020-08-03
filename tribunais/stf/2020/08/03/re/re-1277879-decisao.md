@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “JUÍZO DE RETRATAÇÃO OU MANUTENÇÃO DO JULGADO - ICMS - Ação declaratória de inexistência de relação jurídica - Importação de equipamentos para compor ativo fixo sem recolhimento prévio do ICMS - Operação realizada após a EC 33/01 - Inaplicabilidade da Súmula 660 do STF -Possibilidade de exigência do ICMS por ,ocasião do despacho aduaneiro - Sentença de julgou improcedente o pedido - Reforma em Segunda Instância - Recurso Extraordinário - Retorno dos autos nos termos do art. 543-B, § 3°, do CPC, para eventual adequação ou manutenção do acórdão, tendo em vista o julgamento do RE n° 439.796/RS - Modificação do acórdão anterior para julgar improcedente a ação.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 146, II; e 155, XII, § 2º , i, todos da CF. Sustenta, em essência, a impossibilidade de incidência de ICMS - importação com base na Lei 11.001/2001, sob o fundamento de que a lei local foi editada anteriormente à Lei Complementar geral. Pugna pela revogação liminar do acórdão recorrido nos termos do art. 543-B do CPC/73.
+    A pretensão recursal não merece prosperar.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o RE 1.221.330, fixou a seguinte tese: "I - Após a Emenda Constitucional 33/2001, é constitucional a incidência de ICMS sobre operações de importação efetuadas por pessoa, física ou jurídica, que não se dedica habitualmente ao comércio ou à prestação de serviços, devendo tal tributação estar prevista em lei complementar federal. II - As leis estaduais editadas após a EC 33/2001 e antes da entrada em vigor da Lei Complementar 114/2002, com o propósito de impor o ICMS sobre a referida operação, são válidas, mas produzem efeitos somente a partir da vigência da LC 114/2002".
+    No caso do Estado de São Paulo, a lei local foi editada após a EC 33/2001, mas antes da LC 114/2002, de modo que a produção de seus efeitos se dá a partir da vigência da lei complementar geral.
+    O acórdão recorrido, ao admitir a incidência do tributo, está alinhado com a orientação desta Corte.
+    Quanto à interposição do recurso pela alínea c, cabe ressaltar que o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Constituição. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Prejudicado o pedido de tutela provisória.
+    Publique-se.
+          Brasília, 3 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
