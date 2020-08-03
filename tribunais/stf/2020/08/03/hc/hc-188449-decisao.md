@@ -1,0 +1,44 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Homicídio qualificado e associação criminosa. Prisão preventiva. Excesso de prazo. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que denegou a ordem de HC 559.911, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso temporariamente, em 28.02.2018, pela suposta prática dos crimes previsto no art. 121, § 2º, I, III e IV, e no art. 288 do Código Penal.
+    3. Após a conversão da prisão temporária em prisão preventiva, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Ceará. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça (STJ). O Relator do HC 559.911, Ministro Nefi Cordeiro, denegou a ordem, “com a recomendação de celeridade no julgamento da ação penal n. 0000034-72.2018.8.06.0075”.
+    4. Neste habeas corpus, a parte impetrante sustenta excesso de prazo para a conclusão da instrução criminal e requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia preventiva por outra medida cautelar.
+    5. O Ministro Dias Toffoli, no exercício da Presidência do Supremo Tribunal Federal (STF), durante o período do recesso forense, solicitou informações ao Juízo da 1ª Vara da Comarca de Eusébio/CE “a respeito da observância da Recomendação nº 62 do CNJ e do suposto excesso de prazo”.
+    6. Na sequência, por meio da Petição n. 59426/2020, a parte impetrante sustenta que:
+    “(...) ao prestar as informações, o Juízo da 1º Vara da Comarca do Eusébio-CE parece ter cometido alguns equívocos, conforme se demonstrará.
+    O Juízo de origem num primeiro momento alega que existe um dos réus foragidos, o que dificultaria o prosseguimento normal do feito, o que de plano não poderia servir de justificativa, pois existem vários institutos que possibilitaria o seguimento natural do processo a fim de assegurar o Devido Processo Legal aos réus que se encontram preso.
+    No entanto, tal alegativa não condiz com a realidade, visto que foi ofertado um despacho em fls. 322 do processo principal no qual o juiz despacha ter tido conhecimento de que o réu (...) se encontrava preso em outro estado da Federação, cabendo a este Juízo diante de tal conhecimento, agir de pronto.
+    (...)
+    Impende dessa forma, afirmar que não deve prosperar a justificativa da demora da instrução processual em face da existência de haver um réu foragido. Ademais, a demora da instrução é motivada pela acusação e não pela defesa, tendo em vista documento em anexo, referente ao Termo de Audiência ocorrida no dia 09/05/2019, no qual o representante do MP insistiu na oitiva da testemunha de acusação (...), por meio de condução coercitiva.
+    Ora, no despacho de fls. 309 e 310 do processo principal, o juízo de origem afirma que a audiência designada para o dia 26/03/2020, não fora realizada por conta da pandemia que atravessa o mundo, encontrando suspenso o processo. Nesse sentido, contraditória a justificativa ao afirmar o Juízo de origem que aguarda devolução da carta precatória a ser proferida pela 4º Vara do Júri de Fortaleza-CE, ante já ter conhecimento da inexistência da audiência designada.
+    Afirma ainda o Juízo da 1º Vara da Comarca do Eusébio-CE, que somente após o retorno das atividades do Judiciário designará nova data para a oitiva da testemunha de acusação.
+    (....)
+    Diante das informações, requer o deferimento de todos os pedidos contidos na inicial”.
+    7. Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    9. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    10.  Não é o caso de concessão da ordem de ofício.
+    11. A orientação jurisprudencial do STF é no sentido de que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    12. Na hipótese de que se trata, o STJ não divergiu desse entendimento ao assentar que, “ainda que o paciente esteja preso desde 28/2/2018, verifica-se que a custódia cautelar não se revela desproporcional, tendo em vista que se trata de ação com particularidades que alongaram naturalmente o seu curso processual. Desse modo, constata-se que a marcha processual apresenta-se razoável, embora esteja pendente de encerramento da instrução criminal e julgamento”. Transcrevo, nesse sentido, as seguintes passagens da decisão da Corte Superior:
+    “(...)
+    Conforme informações processuais prestadas pelo juízo de origem, o paciente teve a prisão temporária cumprida em 28/2/2018 com conversão para prisão preventiva no dia 9/3/2018 (fl. 50), e oferecimento da denúncia no dia 9/3/2018 sendo recebida no mesmo dia (fl. 55).
+    Citado, apresentou resposta à acusação em 18/4/2018, consoante consulta processual no site do Tribunal a quo.
+    Foi designada audiência de instrução inicialmente para o dia 18/12/2018 a qual não foi realizada a pedido do advogado do paciente com comunicação na véspera da audiência (fl. 56).
+    Redesignada a audiência para o dia 26/3/2019 na qual foram ouvidas 2 testemunhas de acusação e marcada a continuação para 29/4/2019 e, novamente remarcada a pedido da defesa para 9/5/2019.
+    Atualmente, aguarda-se a realização de audiência datada para o dia 26/3/2020 para inquirição de testemunha da acusação, ressaltando-se a conclusão da instrução após este ato (fl. 57).
+    Posto isso, verifica-se que a ação penal conta com 3 acusados, com procuradores distintos, sendo um deles foragido e citado via edital, além da necessidade de realização de diligências, expedição de cartas precatórias e redesignações de audiências por pedido dos advogados, como asseverou o Tribunal a quo (fl. 62).
+    Na espécie, ainda que o paciente esteja preso desde 28/2/2018, verifica-se que a custódia cautelar não se revela desproporcional, tendo em vista que se trata de ação com particularidades que alongaram naturalmente o seu curso processual.
+    Desse modo, constata-se que a marcha processual apresenta-se razoável, embora esteja pendente de encerramento da instrução criminal e julgamento.
+    Não constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+    (...)”.
+    13. Não bastasse isso, dou especial relevância à informação prestada pelo Juízo de origem no sentido de que “[o] ora paciente tem uma vasta folha criminal e confessou fazer parte de uma organização criminosa (...). Quanto a demora na conclusão da instrução deve-se ao fato de serem três denunciados, estando um foragido, tendo sido citado através de edital, além da necessidade de expedição de carta precatória para outra Comarca. Vale ressaltar que a primeira audiência foi adiada a pedido do advogado do ora paciente”.
+    14. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 03 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
