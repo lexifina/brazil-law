@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência dos pedidos de recebimento dos depósitos do Fundo de Garantia do Tempo de Serviço – FGTS, considerado o vínculo estatutário de caráter efetivo com o Estado de Minas Gerais. No extraordinário, a recorrente alega violados os artigos 1º, inciso III, 5º, inciso X, 7º, inciso III, 37, cabeça, inciso IX, e § 2º, e 39, § 3º, da Constituição Federal. Insiste no direito ao recolhimento pretendido. Alude a precedentes do Supremo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos :
+    A Lei Complementar Estadual n° 100/07, que efetivou vários servidores da área da educação em Minas Gerais sem a observância da exigência de aprovação em concurso público, foi objeto de Ação Direta de Inconstitucionalidade, tendo o Supremo Tribunal Federal, na ADI 4876, declarado a inconstitucionalidade do artigo 7º, da referida Lei Complementar Estadual.
+    A controvérsia cinge-se a perquirir se a Recorrente, integrada aos quadros da Administração por força da Lei Complementar Estadual n° 100/2007, posteriormente declarada inconstitucional pelo STF, faz jus ao recebimento de FGTS.
+    O Supremo Tribunal Federal, no julgamento dos Recursos Extraordinários nº. 596.478/RR1 e nº 705.1402, bem como da ADI nº. 3.127/DF3, entendeu pela constitucionalidade do art. 19-A da Lei nº. 8.036/90, que estabelece ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário.
+    Entretanto, não se apresenta possível invocá-los como paradigmas para que seja declarado o direito da Recorrente ao recebimento do FGTS. Isso porque a servidora, por força da norma estadual (art. 7º, da Lei Complementar Estadual nº 100/2007) passou a ser titular de cargo efetivo, ou seja, exercia função pública em caráter permanente e não a título precário, sendo certo que a declaração de inconstitucionalidade da referida lei pelo Supremo Tribunal Federal não implicou a transformação do vínculo existente entre a Recorrente e o Poder Público.
+    Diante desses elementos, não há falar-se em direito ao FGTS, pois, como cediço, referida verba trabalhista não se encontra no rol de direitos constitucionalmente assegurados aos servidores públicos sujeitos ao regime estatutário, mas apenas aos servidores celetistas (empregados públicos) e, na esteira do entendimento firmado pelo Supremo Tribunal Federal, aos servidores temporários, cujos contratos tenham sido declarados nulos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 4 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
