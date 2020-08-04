@@ -1,0 +1,14 @@
+DECISÃO
+ACORDO DE NÃO PERSECUÇÃO – PROCURADORIA-GERAL DA REPÚBLICA – REQUERIMENTO – HOMOLOGAÇÃO – INADEQUAÇÃO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    Vossa Excelência, no dia 20 de fevereiro de 2019, declinou da competência para a primeira instância da Justiça Eleitoral do Rio Grande do Sul, assentando que o delito imputado, apesar de supostamente cometido quando o investigado exercia mandato de Deputado Federal, não está relacionado ao cargo então ocupado de Ministro Chefe da Casa Civil da Presidência da República do Brasil. Ressaltou que, encontrando-se Onyx Dornelles Lorenzoni licenciado do cargo gerador da prerrogativa, cessa esta última.
+    Onyx Lorenzoni interpôs agravo interno, postulando a reconsideração do pronunciamento. Afirma ser caso de manter a investigação neste Tribunal. Diz não estar em jogo relação entre o crime praticado e o cargo de caráter precário exercido, no momento, mas entre aquele e o gerador da prerrogativa – Deputado Federal –, do qual permanece detentor.
+    O julgamento do recurso teve início no dia 26 de novembro de 2019, na Primeira Turma, sendo interrompido, após o voto de Vossa Excelência, ante pedido de vista do ministro Alexandre de Moraes, que, no dia 23 de março último, procedeu à devolução do processo.
+    O Procurador-Geral da República, mediante o protocolo/STF nº 59.610/2020, encaminha termo de acordo de não persecução penal, formalizado entre o Ministério Público Federal e Onyx Lorenzoni, considerados os fatos objeto desta petição. Requer seja homologado, aludindo ao artigo 28-A do Código de Processo Penal. Aduz dispensável a realização de audiência prevista no § 4º do dispositivo, uma vez constar no ajuste a confissão do investigado.
+    Esta petição, distribuída a Vossa Excelência em 14 de dezembro de 2018, é originária do acordo de colaboração premiada, homologado pelo ministro Luiz Edson Fachin, no âmbito do qual os delatores Joesley Batista, Ricardo Saud e Demilton Antônio de Castro prestaram declarações e apresentaram documentos reveladores da prática de repasses de quantias ilícitas a agentes políticos, entre os quais o deputado federal Onyx Lorenzoni, por meio de doações eleitorais não contabilizadas, nos valores de R$ 100.000,00, no dia 30 de agosto de 2012, e R$ 200.000,00, em 12 de setembro de 2014.
+    Consulta ao sítio do Supremo revelou a inclusão do incidente, no dia 25 de junho de 2020, na pauta da Sessão Virtual da Primeira Turma, publicada em 29 seguinte, com retomada do exame designado para ocorrer entre 7 e 14 de agosto próximo.
+    2. Descabe acolher o requerido pelo Procurador-Geral da República, no que a homologação do acordo de não persecução pressupõe atuação de Órgão judicante competente. Há de aguardar-se a conclusão do julgamento do agravo. Até aqui, prevalece a decisão mediante a qual assentada a incompetência do Supremo.
+    3. Publiquem.
+ Brasília, 4 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
