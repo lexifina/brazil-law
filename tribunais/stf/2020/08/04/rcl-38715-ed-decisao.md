@@ -1,0 +1,33 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que julgou procedente a reclamação, nos termos da jurisprudência da Corte. Eis um trecho desse julgado:
+    “No caso, me parece que o Tribunal de origem, ao considerar ilícita a terceirização, afastou a aplicação do § 1º do art. 25 da Lei 8.987/95, que tem a seguinte redação:
+    “§1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados”.
+    Nesses termos, verifico que a autoridade reclamada conferiu interpretação que resulta no esvaziamento da eficácia do citado dispositivo, sem declaração de sua inconstitucionalidade, por meio de seu órgão fracionário. Assim, vislumbra-se a violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10 do STF, que assim dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Ademais, cumpre registrar que, recentemente, esta Corte, ao apreciar a ADPF 324 e o RE-RG 958.252, Rel. Min. Luiz Fux, tema 725 da sistemática da repercussão geral, reconheceu a inconstitucionalidade do critério de distinção entre atividade-meio e atividade-fim para fins de definição da licitude ou ilicitude da terceirização, afastando a incidência da interpretação conferida pelo TST à Súmula 331 daquele Tribunal.
+    Desse modo, entendo que, ao afastar a aplicação da norma do art. 25, § 1º, da Lei 8.987/1995, o Tribunal reclamado viola a autoridade da Súmula Vinculante 10.” (eDOC 48)
+    O embargante aduz, em síntese, a omissão quanto à ocorrência do trânsito em julgado da decisão reclamada. A esse propósito, sustenta o seguinte:
+    “Último recurso interposto pela Reclamada foi agravo de instrumento, o qual não foi admitido por deserção, em 27-11-2013, fls. 446 dos autos principais, nº 680-27.2011.5.03.0022.
+    A reclamada não manejou o recurso adequado para impugnar decisão desta Corte Superior, que seria o agravo interno ou recurso extraordinário, havendo, portanto, o trânsito em julgado.
+    A reclamada AEC CENTRO DE CONTATO S.A, aquiesceu com a decisão proferida pelo TST, não se insurgir mediante agravo interno ou recurso extraordinário, de modo que não pode agora pretender a retratação da decisão ou sua até mesmo sua cassação do acórdão por meio da Reclamação Constitucional.” (eDOC 50)
+    Intimada, a parte embargada apresentou contrarrazões pedindo a rejeição dos embargos opostos. Afirma que “não há na decisão nenhuma ambiguidade, omissão, obscuridade ou mesmo contradição que faculte a interposição dos Embargos de Declaração. As razões expostas pela embargante não indicam ponto obscuro ou omisso, tampouco existe contradição a ser sanada.” (eDOC 53)
+    Decido.
+    Assiste razão à parte embargante.
+    Após detida análise dos autos, verifica-se que, de acordo com as informações prestadas pela autoridade reclamada (eDOC 46), os autos do processo nº 0000680-27.2011.5.03.0022, foram remetidos ao Tribunal Superior do Trabalho, para julgamento de Agravo de Instrumento em Recurso de Revista. Em 27.11.2011, foi publicado acórdão da lavra do Exmo. Ministro Fernando Eizo Ono, que, não conheceu o recurso da AeC, tendo conhecido apenas o apelo da reclamada Claro S.A., mas negado provimento.
+    Da decisão de não conhecimento de seu recurso perante o TST, a reclamante não apresentou qualquer recurso, quedando-se inerte até a propositura da presente reclamação.
+    Tendo em vista que a presente reclamação somente foi ajuizada no dia 23.12.2019, ou seja, após a ocorrência do trânsito em julgado do ato judicial que se busca impugnar, incide na hipótese o teor da Súmula 734, a saber:
+    “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    Nos mesmos termos, registro que o Código de Processo Civil de 2015, confirmando essa jurisprudência, estabeleceu a inadmissibilidade da reclamação após o trânsito em julgado da decisão impugnada, nos seguintes termos:
+     “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+     (…)
+     § 5º É inadmissível a reclamação:
+     I – proposta após o trânsito em julgado da decisão reclamada”.
+    Desse modo, é inviável a reclamação, uma vez que a decisão impugnada transitou em julgado para a parte reclamante.
+    Cito, a propósito, precedentes de ambas as Turmas:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO CONSTITUCIONAL. RECLAMAÇÃO MANEJADA PARA DISCUTIR ATO JUDICIAL JÁ ACOBERTADO PELA COISA JULGADA. ART. 988, 5º, I, DO CPC/2015. SÚMULA 734/STF. RAZÕES RECURSAIS QUE APENAS REPETEM, IPSIS LITTERIS, OS ARGUMENTOS TRAZIDOS EM SEDE DE EMBARGOS. AGRAVO NÃO CONHECIDO. 1. Incabível reclamação constitucional ajuizada para discutir ato decisório que já tenha transitado em julgado e acobertado pela coisa julgada, a teor do art. 988, 5º, I, do CPC/2015. Aplicação da Súmula 734 do STF. 2. Razões recursais de Agravo Regimental que repetem, ipsis litteris, os argumentos já afastados em sede de embargos declaratórios, a demonstrar total ausência de aptidão para infirmar decisão monocrática. 3. A jurisprudência desta Corte é firme no sentido de que, nos casos em que as razões do recurso não impugnam os fundamentos da decisão agravada ou deles estejam dissociadas, não resta preenchido o requisito de regularidade formal disposto no artigo 317, 1º, do RISTF e no artigo 1.021, §1º, do CPC/2015. 4. Agravo regimental não conhecido”. (Rcl 25.311 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 6.6.2018)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. SÚMULA 734 DO STF. NÃO CABIMENTO DE RECLAMAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO. 1. A Reclamação que ataca decisão em processo já transitado em julgado esbarra no óbice do art. 988, § 5º, I, do CPC e da Súmula 734/STF. 2. Agravo regimental a que se nega provimento, com aplicação de multa, fixada em R$ 1.000,00 (mil reais), observado o disposto no art. 1.021, § 5º, do CPC”. (Rcl 25.476 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 22.8.2018)
+    Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para negar seguimento à reclamação (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 4 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
