@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Art. 349-A do Código Penal. Tráfico de drogas. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 577.924, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que, em 16.03.2020, o paciente foi preso em flagrante pela suposta prática dos crimes previstos nos arts. 349-A do CP e 33, c/c o art. 40, III, ambos da Lei 11.343/2006 – "uma porção de MACONHA, pesando cerca de 1,74g, 2 (dois) aparelhos celulares, 5 (cinco) carregadores de celulares, 5 (cinco) fones de ouvido, um cabo USB e um chip da operadora Claro, além de 3 (três) pacotes de tabaco”. A prisão foi convertida em preventiva.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Rondônia. Denegada a ordem, sobreveio impetração de HC no Superior Tribunal de Justiça (HC 577.924). O Relator, Min. Rogerio Schietti Cruz, indeferiu o pedido de liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ilegalidade da segregação cautelar por ausência de justa causa, afirmando “não [ser] suficiente para a segregação cautelar, enquanto medida excepcional, fundamentar-se na gravidade abstrata do crime pelo qual o ora paciente foi preso”.
+    5. Prossegue a impetração para alegar que a “demora na prestação jurisdicional causará irreversível prejuízo ao paciente com a ameaça de contrair Covid-19 em situação de flagrante ilegalidade, porquanto sua prisão é desprovida de fundamentação idônea, contrariando a Recomendação 62/2020 do Conselho Nacional de Justiça que, em seu art. 4º, inciso III, dispõe sobre ‘a máxima excepcionalidade de novas ordens de prisão preventiva, observado o protocolo das autoridades sanitárias’”. Além disso, ressalta “a probabilidade concreta do paciente [...], mesmo condenado na ação penal cognitiva, tenha sua pena reduzida em até 2/3 por força do § 4º do artigo 33 da lei de drogas (tráfico privilegiado) […]. Sem perder de vista, ainda, a ínfima quantidade de droga apreendida (1,74g de maconha)”.
+    6. A defesa requer a concessão da ordem a fim de que “o paciente responda ao processo em liberdade ou, alternativamente, tenha a prisão preventiva substituída por medidas cautelares diversas”.
+    7. Decido.
+    8. O Supremo Tribunal Federal (STF) assentou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 04 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
