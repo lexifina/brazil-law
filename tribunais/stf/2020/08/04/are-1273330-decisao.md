@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, que consignou o seguinte (eDOC 11, p. 3):
+    “No caso em exame, por se tratar de imposto de renda relativo ao ano-base 2011, constato que o fato gerador ficto ocorreu em 31.12.2011, quando, em tese, nasceu a obrigação tributária. Considerando que se trata de IRPF/2011, pode-se afirmar que o lançamento desse crédito já poderia ser efetuado a partir de 2012.
+    Na sequência, em data não precisada nos autos, houve de fato o lançamento do crédito, que, não tendo sido pago, restou inscrito em dívida ativa.
+    Nos termos do art. 173 do CTN, o prazo de cinco anos para o Fisco constituir (=lançar) o crédito conta-se "do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado". No caso concreto, portanto, o prazo quinquenal conta-se, em tese, de 01.01.2013, encerrando-se em 01.01.2018.
+    Como a autora foi notificada do lançamento em 28.3.2016, constata-se que a sentença estava correta ao afirmar que a constituição do crédito foi efetuada bem antes de esgotado o prazo decadencial.”
+    No recurso extraordinário, interposto com base art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, LV, da Constituição Federal e ao princípio da legalidade.
+    Nas razões recursais, sustenta a falta de notificação referente ao lançamento do ano de 2012, bem como a ocorrência da decadência. Nesse sentido, assevera que “Conforme já relatado, a CDA 00.1.18.019487-76 que deu origem a inscrição em dívida ativa, está eivada de nulidades, primeiro porque a notificação do lançamento n.º 2013/311762782761659, foi feito pelos Correios onde um terceiro que não a contribuinte recebeu a notificação, impedindo-a de tomar conhecimento e assim apresentar o contraditório na esfera administrativa, segundo porque o lançamento 2015/066686861822385 foi liquidado em sua totalidade via DARF e o lançamento n.º 2014/048605030483812 foi parcelado, suspendendo a exigibilidade do crédito tributário.” (eDOC 15, p. 16)
+    O Tribunal de origem inadmitiu o recurso em virtude o caráter infraconstitucional da controvérsia (eDOC 19).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Como se depreende dos fundamentos colacionados no acórdão a quo, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação infraconstitucional de regência da matéria, bem como o reexame do conjunto fático-probatório dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a ausência de ofensa direta ao texto constitucional e a incidência da Súmula 279 do STF.
+    Confira-se com a seguinte ementa:
+    “Agravo regimental no agravo de instrumento. Ausência de pressupostos de cabimento do recurso. Violação restrita à legislação infraconstitucional. Precedentes. 1. Recurso extraordinário interposto com fundamento na letra a do permissivo constitucional que não aponta violação a qualquer norma da Constituição Federal. Aplicação da jurisprudência do Supremo Tribunal, firme no sentido de que as hipóteses de cabimento de recurso extraordinário, nos exatos termos do art. 102, da Constituição Federal, são restritas a normas constitucionais. 2. Alegações quanto a extinção do crédito tributário, pela decadência, à luz do Código Tributário Nacional, norma infraconstitucional, não ensejam a abertura da via extrema. 3. Agravo regimental não provido.” (AI 614904 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 10.10.11 - Grifei)
+    Nessa mesma linha, verifica-se que a alegada violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a Súmula 636 do STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil e art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
