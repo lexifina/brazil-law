@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, p. 361-362):
+    “AÇÃO ORDINÁRIA. DIREITO TRIBUTÁRIO. PIS E COFINS. LEIS 10.637/02 E 10833/2003. INCLUSIVE EM SUAS PRÉVIAS VEICULAÇÕES PELAS MP 66/02 E MP 135/03. CONSTITUCIONALIDADE. INCIDÊNCIA.
+    1. O ordenamento advindo da Lei 10.637/02 e decorrência da Medida Provisória - MP 66/02 encontra respaldo constitucional na medida que sendo contribuições já consagradas/autorizadas em sua edição pela original redação do Texto Supremo, art. 195 e 239 - aqui para os que litigam em torno do PIS - não se sustenta o desejado ataque ao comparativo ditame emanado do art. 246, Lei Maior, a disciplinar objetivamente figuras diversas, máxime por não ter a EC 20/98 "criado/inventado" qualquer novo tributo, na esfera aqui em discussão.
+    2. A edição de prévia MP, com sua posterior conversão em lei, atende ao postulado da estrita legalidade tributária, inciso I, do art. 150, da Carta Magna, raciocínio aplicável às Medidas e Leis em tela.
+    3. Tendo sido a tributação aplicada a um todo uniforme e categorizado de contribuinte, não há que se cogitar da vulneração do principio da isonomia, na forma do inciso II daquele mesmo art. 150, tampouco há ofensa ao principio da capacidade contributiva, § 1º, do art. 145, da mesma Carta Política, pois equânime/objetivamente sopesada a tributação em comento.
+    4. Inviável a alegação de "imposição" de lei complementar, § 4º, art. 195, CF, pois as referidas contribuições são oriundas da original redação da Lei Maior, por seu mesmo art. 195 e por seu art. 239, postulado que se aplica aos debates que alcancem ao PIS e a legitimidade da sua cobrança. Precedentes.
+    5. A MP nº 66/02, convertida na Lei nº 10.637/02, e a MP nº 135/03, convertida na Lei nº 10.833/03, dispuseram sobre a não-cumulatividade do PIS e da COFINS mediante o seu recolhimento por substituição tributária. Estabeleceram, ainda, constituir seu fato gerador e base de cálculo, "o faturamento mensal, assim entendido o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil".
+    6. Legítima a incidência das exações no período posterior à vigência e eficácia das Leis n.º 10637/02 e n.º 10.833/2003, porquanto editadas em consonância com a nova redação dada ao artigo 195, inciso I, alínea b, da CF/88 pela EC n.º 20/98. Precedentes.
+    7. Apelação da União Federal e remessa oficial providas.”
+    Os embargos declaratórios foram desprovidos (eDOC 1, p. 383).
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º, 5º, caput, e 195, I, b, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que:
+    Assim, se faturamento compreende venda de mercadorias e prestação de serviços, matéria esta já definida por esta C. Corte, o acórdão claramente violou o artigo 195, 1, b, da Constituição, uma vez que permitiu a incidência sobre base majorada, ultrapassando, pois, o conceito constitucional de faturamento.
+    A violação ao artigo 2° da Constituição é igualmente clara, pois o acórdão alterou o conceito de faturamento ao permitir a incidência das Contribuições sobre a totalidade das receitas, grandeza esta infinitamente maior que a venda de mercadorias e prestação de serviços, o que, por consequência, viola a segurança jurídica (artigo 5°, caput, da Constituição), legalidade, dentre os princípios constitucionais.
+    Desta forma, não restam dúvidas de que não poderá subsistir o v. acórdão recorrido, que reconheceu a legitimidade da base de cálculo tal como delineada pelas Leis n°510.637/02 e 10.833/03, já que ela (base) não confirma a grandeza do critério material eleito, pois, ao invés de definir o conceito de (aturamento como aquele decorrente da venda de bens e/ou serviços, extrapolou tal conceito incluindo também receitas outras, o que não se pode conceber.” (eDOC 2, p. 3-4)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inviável a pretensão apresentada pelo recorrente, no seguinte sentido:
+    “Diante do exposto, requer-se o conhecimento e provimento do presente Recurso Extraordinário para que seja reconhecida, a inconstitucionalidade da ampliação conceituai da base de cálculo do:PIS e da COFINS, decorrentes das alterações legais promovidas pelas Leis n°5 10.637/02 e 10.833/03, uma vez que violadoras do artigo 195, I, "b", da Constituição Federal, excluindo-se, consequentemente, a parcela incidente sobre as receitas que não correspondam à venda de bens e/ou serviços.” (DOC. 3, p. 283)
+    Conforme se observa, a generalidade da alegações, sem identificar especificamente quais as rubricas estariam sendo ilegitimamente consideradas como base de cálculo da contribuição para o PIS e da COFINS, impedem a exata compreensão da controvérsia proposta, o que inviabiliza a sua análise, nos termos da Súmula 284 do STF.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+    Deixo de majorar os honorários, nos termos do artigo 85, § 11, do CPC, tendo em vista a ausência de fixação nas instâncias ordinárias.
+    Publique-se.
+    Brasília, 4 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
