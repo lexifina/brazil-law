@@ -1,0 +1,30 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 1023406-97.2018.8.11.0041
+Recorrente: ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S. A.
+Recorrido: UNIMED SEGUROS PATRIMONIAIS S. A.
+Vistos.
+Trata-se de Recurso Especial interposto por ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S. A. (id 52679486) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela TERCEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 42856460):
+“APELAÇÃO CÍVEL – AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS – SEGURADORA CONTRA CONCESSIONÁRIA DE ENERGIA ELÉTRICA – DESCARGA ELÉTRICA, OSCILAÇÃO E CURTO-CIRCUITO – FALHA NA PRESTAÇÃO DO SERVIÇO EVIDENCIADA – APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR – RESPONSABILIDADE OBJETIVA – PAGAMENTO REFERENTE A PERDA DE EQUIPAMENTOS ELETRÔNICOS – COMPROVAÇÃO POR LAUDO TÉCNICO E NOTAS FISCAIS – SUB-ROGAÇÃO – POSSIBILIDADE – DESNECESSIDADE DE ABERTURA DE PROCEDIMENTO NA ESFERA ADMINISTRATIVA – OBRIGAÇÃO DE INDENIZAR EVIDENCIADA – SENTENÇA MANTIDA – RECURSO CONHECIDO E DESPROVIDO. A responsabilidade das concessionárias de energia elétrica é objetiva, ou seja, independe de culpa, bastando a comprovação do prejuízo e do nexo de causalidade entre a ação (comissiva ou omissiva) e o dano. Aplica-se o CDC nos casos em que a seguradora é considerada consumidora por sub-rogação, exercendo direitos, privilégios e garantias do seu segurado/consumidor. A seguradora tem o direito de buscar os valores que desembolsou, via Ação Regressiva contra o causador do ato ilícito, nos limites da sub-rogação. O exaurimento da via administrativa é prescindível para o ajuizamento de ação regressiva contra a concessionária de energia, uma vez que não há embasamento jurídico que obrigue a seguradora ao prévio pedido na esfera administrativa para, somente depois, ingressar com a ação judicial, conforme inteligência do princípio constitucional do livre acesso ao Poder Judiciário, insculpido no art. 5o, XXXV, da Constituição Federal.” (TJMT, RAC 1023406-97.2018.8.11.0041, DES. DIRCEU DOS SANTOS, TERCEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 13/05/2020)
+Os Embargos de Declaração id 44237457 foram rejeitados, conforme acórdão id 49635486.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo ante suposta violação ao artigo 188, I do CC, uma vez que “o caso em tela revela que as condenações impostas pelo Acórdão não correspondem com a legalidade, uma vez que o Tribunal local má valorou as provas dos autos as quais demonstraram de forma incontroversa que os danos materiais reclamados pela Recorrida foram causados por DESCARGAS ATMOSFÉRICAS”
+Assevera que deve ser concedido o efeito suspensivo “considerando a probabilidade de provimento do recurso e a relevância da fundamentação, bem como os prejuízos de uma eventual execução provisória ante o vultuoso valor da condenação fixada nos autos, conforme demonstrado nas razões recursais abaixo, o que implica na existência de risco de dano grave, requer a Vossa Excelência a concessão do efeito suspensivo ao recurso especial".
+Recurso tempestivo e preparado, conforme certidões id 52763961 e 52779481.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que não apontou qual seria o perigo da demora no caso concreto, o que resulta na impossibilidade de deferimento do efeito postulado.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+E ainda, o presente recurso busca o reconhecimento de que não houve falha na prestação do serviço, conforme provas dos autos, sendo que “as condenações impostas pelo Acórdão não correspondem com a legalidade, uma vez que o Tribunal local má valorou as provas dos autos as quais demonstraram de forma incontroversa que os danos materiais reclamados pela Recorrida foram causados por DESCARGAS ATMOSFÉRICAS.” Entretanto, para comprovar tais alegações, há a necessidade de análise do conjunto fático-probatório, atraindo a incidência da Súmula n. 07 do STJ.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 04 de agosto de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
