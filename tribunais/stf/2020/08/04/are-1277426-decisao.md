@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão que inadmitiu recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (eDOC 8, p. 2):
+    “APELAÇÃO MANDADO DE SEGURANÇA ITBI Cessão de direitos Discussão acerca do fato gerador do referido imposto Ocorrência apenas com a transferência efetiva da propriedade ou do domínio útil através do registro no Cartório de Registro de Imóveis competente Situação esta não verificada na hipótese sub judice Vastos precedentes Sentença mantida Recursos desprovidos.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao art. 156, III, do texto constitucional.
+    Nas razões recursais, sustenta-se a plena incidência do ITBI na hipótese de cessão de direitos a aquisição de bens imóveis ou direitos reais sobre imóveis, alegando ser esta a hipótese dos autos.
+    O Tribunal de origem inadmitiu o recurso extraordinário por ausência de ofensa ao posicionamento do STF sobre o tema (eDOC 14).
+    É o relatório. Decido.
+    A pretensão recursal não merece prosperar.
+    De plano, verifica-se que o acórdão recorrido não destoa da jurisprudência pacífica do STF, segundo a qual a transmissão do imóvel somente ocorre com a transferência efetiva da propriedade no cartório de registro de imóveis, este o momento de consumação do fato gerador do ITBI.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS. FATO GERADOR. PROMESSA DE COMPRA E VENDA. IMPOSSIBILIDADE. A obrigação tributária surge a partir da verificação de ocorrência da situação fática prevista na legislação tributária, a qual, no caso dos autos, deriva da transmissão da propriedade imóvel. Nos termos da legislação civil, a transferência do domínio sobre o bem torna-se eficaz a partir do registro. Assim, pretender a cobrança do ITBI sobre a celebração de contrato de promessa de compra e venda implica considerar constituído o crédito antes da ocorrência do fato imponível. Agravo regimental a que se nega provimento.” (ARE 805859 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 09.03.2015 - Grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS ITBI. FATO GERADOR: REGISTRO DA TRANSFERÊNCIA EFETIVA DA PROPRIEDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 798241 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 14.04.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. DEVIDO PROCESSO LEGAL. ITBI. FATO GERADOR. PROMESSA DE COMPRA E VENDA. 1. A jurisprudência do STF se consolidou no sentido de que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral. Precedente: RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013. 2. A transferência do domínio sobre o bem torna-se eficaz a partir do registro público, momento em que incide o Imposto Sobre Transferência de Bens Imóveis (ITBI), de acordo com a jurisprudência do Supremo Tribunal Federal. Logo, a promessa de compra e venda não representa fato gerador idôneo para propiciar o surgimento de obrigação tributária. 3. Agravo regimental a que se nega provimento.” (ARE 807255 AgR, de minha relatoria, Primeira Turma, DJe 03.11.2015 - Grifei).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, por tratar-se de mandado de segurança na origem (art. 25 da Lei 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+    Brasília, 4 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
