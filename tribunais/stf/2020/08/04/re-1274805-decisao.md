@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LOCAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado do Mato Grosso do Sul, concedendo a segurança, consignou a nulidade de decreto que implicou a retificação de ato de aposentadoria. No extraordinário, o recorrente aponta violação dos artigos 37, inciso II, e 40, § 1º, inciso III, da Constituição Federal e 2º da Emenda Constitucional nº 41/2003. Sustenta a inconstitucionalidade de aposentadoria concedida em carreira diversa do cargo efetivo, dizendo contrariado o princípio do concurso público. Alude ao disposto no verbete nº 685 da Súmula do Supremo.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do recorrente, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal. Incabível o recurso no particular.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Transcrevo, inicialmente, o dispositivo legal no qual a impetrante embasa a sua pretensão, que é o art. 3° do Decreto n. 7.775/1994, que dispõe sobre a remuneração dos Professores cedidos à Fundação Universidade Estadual de Mato Grosso do Sul:
+    “Art. 3° – O servidor que permanecer cedido a UEMS, nos termos deste Decreto, por período consecutivo, igual ou superior a 36 (trinta e seis) meses, terá como base para cálculo do respectivo provento a remuneração do cargo que esteja exercendo ao requerer a aposentadoria, considerada a titulação e o regime de trabalho que haja cumprido nesse período.”
+    A análise dos autos revela que a impetrante foi cedida à Universidade Estadual de Mato Grosso do Sul – UEMS em 15/10/2001 (f. 354/356), quando ainda estava em vigor o Decreto n. 7.775/1994.
+    Isto porque, somente em fevereiro de 2003, foi editado o Decreto n° 11.120/2003, que vedou, com efeitos a contar de 1° de fevereiro de 2003, a cessão de servidores do Grupo Profissionais da Educação Básica, integrantes da Tabela de Pessoal da Secretaria de Estado de Educação, para desempenhar funções de magistério na Fundação Universidade Estadual de Mato Grosso do Sul – UEMS.
+    Nos termos do § único do art. 1° do Decreto n° 11.120/2003, os servidores que já estavam cedidos, como é o caso da impetrante, foram autorizados a permanecer na UEMS, sob o regime do Decreto n. 7.775/1994, desde que atendidos alguns requisitos.
+    Confira o teor do art. 1° do Decreto 11.120/2003:
+    “Art. 1° Fica vedada a cessão de servidores do Grupo Profissionais da Educação Básica, integrantes da Tabela de Pessoal da Secretaria de Estado de Educação, para desempenhar funções de magistério na Fundação Universidade de Mato Grosso do Sul – UEMS, na forma das disposições do Decreto n° 7.775, de 12 de maio de 1994.
+    Parágrafo único. Os servidores do Grupo Profissionais da Educação Básica cedidos até a data referida no caput, ficam autorizados a permanecer na UEMS sob o regime do Decreto n° 7.775, de 1994, desde que atendidos, cumulativamente, os seguintes requisitos:
+    I – manifestação expressa do Reitor da UEMS demonstrando o seu interesse na continuidade da cedência;
+    II – autorização do Secretário de Estado de Educação.”
+    Como se observa, os servidores cedidos para a UEMS até 20/02/2003, que satisfizeram os requisitos dos inc. I e II do parágrafo único do art. 1° do Decreto n. 11.120/2003, permaneceram sob o regime do Decreto n. 7.775/94.
+    Assim sendo, a aposentadoria da impetrante deve ser concedida nos moldes do art. 3° do referido decreto que estabelece que o servidor que permanecer cedido por período igual ou superior a 36 (trinta e seis) meses, “terá como base para cálculo do respectivo provento a remuneração do cargo que esteja exercendo ao requerer a aposentadoria, considerada a titulação e o regime de trabalho que haja cumprido nesse período.”
+    No momento em que requereu a aposentadoria, a impetrante contava com mais de 36 (trinta e seis) meses de serviço ininterruptos junto à UEMS, exercendo o cargo de professora de Ensino Superior, função Docente, classe A, nível III, cargo este em que deverá ocorrer a sua aposentadoria, já que nos termos do art. 3° do Decreto 7.775/94, deve no momento da aposentadoria deve ser considerada a titulação e o regime de trabalho, cumprido no período.
+    Deste modo, conclui-se pela ilegalidade do Decreto “P” n. 4.159/2009, que concedeu a aposentadoria da impetrante no cargo de Professor, classe E, nível III, devendo prevalecer o Decreto “P” n. 2.066/2009, publicado no DO/MS n. 7.463/2009, que concedeu a aposentadoria como professora de Ensino Superior.
+    Pelo exposto, contra o parecer, concedo a segurança e declaro a nulidade do Decreto “P” n. 4.159/2009, publicado no DO/MS n. 7.574/2009, revigorando os efeitos do Decreto “P” n. 2.066/2009, publicado no DO/MS n. 7.463/2009, que concedeu a aposentadoria da impetrante no cargo de professora de Ensino Superior.
+    Somente pela análise do quadro fático e da legislação local seria dado decidir de forma diversa, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 4 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
