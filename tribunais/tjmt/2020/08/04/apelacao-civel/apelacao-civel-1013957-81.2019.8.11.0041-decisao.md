@@ -1,0 +1,66 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1013957-81.2019.8.11.0041
+RECORRENTE: ZANETE FERREIRA CARDINAL FILHO
+RECORRIDO: BANCO DO BRASIL S.A.
+Vistos, etc.
+Trata-se de Recurso Especial (id 47842985) interposto por ZANETE FERREIRA CARDINAL FILHO com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado assim ementado (id 37254484):
+“APELAÇÃO CÍVEL – AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO C/C CONSIGNAÇÃO EM PAGAMENTO - JULGAMENTO ANTECIPADO DA LIDE – INOCORRÊNCIA – QUESTÃO EXCLUSIVAMENTE DE DIREITO – DESNECESSIDADE DE DILAÇÃO PROBATÓRIO - COMPROVAÇÃO DA EXISTÊNCIA DE RELAÇÃO JURÍDICA – DÍVIDA EXISTENTE – INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO PELA INSTITUIÇÃO FINANCEIRA – EXISTÊNCIA DE PAGAMENTO EM DUPLICIDADE DOS BOLETOS PELA PARTE E NÃO COBRANÇA EFETUADA EM DUPLICIDADE - INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO PELA INSTITUIÇÃO FINANCEIRA – NULIDADE DA RENEGOCIAÇÃO DE DÍVIDA – INEXISTÊNCIA DE VÍCIO – PEDIDO DE NULIDADE DO ITEM 4 E 11 DO COMPROMISSO DE PAGAMENTO EXTRAJUDICIAL – ILEGALIDADE NÃO EVIDENCIADA - JUROS MORATÓRIOS E MULTA CONTRATUAL – LEGALIDADE DA COBRANÇA – ENCARGOS MORATÓRIOS MANTIDOS - REVISIONAL DE CONTRATO – ADMISSIBILIDADE – RESTABELECIMENTO DO EQUILÍBRIO FINANCEIRO ENTRE AS PARTES – NÃO AFASTAMENTO DA MORA E SEUS EFEITOS – POSSIBILIDADE DE INSCRIÇÃO DO NOME DO DEVEDOR NOS ÓRGÃOS RESTRITIVOS DE CRÉDITO - VIABILIDADE - RESTITUIÇÃO DOS VALORES COBRADOS INDEVIDAMENTE - INEXISTÊNCIA DE PAGAMENTOS EFETUADOS A MAIOR - CONSIGNAÇÃO EM PAGAMENTO – NÃO DEMONSTRAÇÃO DOS REQUISITOS PREVISTOS NO ART. 539 DO CPC – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+O julgamento antecipado da lide não acarreta o cerceamento do direito de defesa quando a dilação probatória se mostra desnecessária em virtude da matéria discutida nos autos ser predominantemente de direito, havendo elementos bastantes nos autos para formação da convicção do julgador.
+Comprovando a parte ré a existência da relação jurídica, mediante a juntada de documentos que demonstram a contratação dos serviços bancários pelo consumidor, tendo sido os valores creditados em sua conta corrente, e ausente, por outro lado, a demonstração da falha na prestação do serviço pelo banco, não há como lhe atribuir responsabilidade civil ou isentar o devedor do pagamento das obrigações assumidas.
+É possível a revisão de cláusulas pactuadas quando demonstrada a onerosidade excessiva ao consumidor, admitindo-se a relativização do princípio pacta sunt servanda a fim de estabelecer o equilíbrio contratual.
+O manejo de ação revisional prescinde de requisitos e visa manter o equilíbrio contratual, em respeito ao princípio da conservação dos contratos, não causando ofensa ao ato jurídico perfeito.
+Se os encargos moratórios contratados são os permitidos pela lei, os encargos devem ser mantidos.
+A mera propositura da Ação Revisional não elide a mora, tornando impossível imunizar a parte apelante de ter o seu nome inscrito no cadastro de inadimplentes, existindo inadimplemento de prestações devidas, sendo matéria inclusive sumulada pelo STJ: ‘A simples propositura da ação de Revisão de Contrato não inibe a caracterização da mora do Autor’ (Súmula no 380).
+Por consequência lógica, não há que se falar em devolução dos valores pagos a maior, já que inexiste ilegalidade nas cláusulas pactuadas ou nos valores adimplidos.
+A consignação em pagamento objetiva a liberação do devedor dos ônus da mora, com a extinção da obrigação pelo depósito efetuado no curso da demanda, nos termos do artigo 539 do CPC/15 e dos artigos 334 e 335 do CC . Por outro lado, inexistindo comprovação dos requisitos elencados no art. 539 do CPC, não há como acolher referido pleito”. (TJMT – Primeira Câmara de Direito Privado – Apelação Cível n. 1013957-81.2019.8.11.0041, Relator: Des NILZA MARIA POSSAS DE CARVALHO, j. em 03/03/2020).
+Opostos Embargos de Declaração (id 41607479), estes foram rejeitados no acórdão de id 44581952.
+O presente recurso foi interposto contra aresto que, em sede de Apelação, interposta por ZANETE FER REIRA CARDINAL FILHO, manteve a sentença proferida nos autos de Ação de Revisão de Contrato c/c Repetição de Indébito no 1013957-81.2019.8.11.0041, da 2a Vara Especializada em Direito Bancário de Cuiabá/MT, ajuizada contra o BANCO DO BRASIL S.A., que julgou improcedente o pedido, permanecendo a contratação firmada pelas partes, por entender de acordo com a lei e efetivados na forma avençada entre as partes, condenando o requerente nas custas e honorários advocatícios, fixados em 10% o valor da causa, atualizado a partir do ajuizamento da ação. (id no 20318041).
+O Recorrente alega violação aos artigos 489 e 1.022 do Código de Processo Civil, além de divergência jurisprudencial, pois “(...) a decisão proferida pelo Tribunal de Justiça de Mato Grosso confirmou sentença do juízo a quo que eivada de contradição na interpretação da matéria de fundo, reportando erro do Recorrente pelo pagamento em duplicidade da parcela 23/37, não encarando a ocorrência do novo contrato de adesão, em que o Recorrente se viu forçado a assinar, elevando o valor da dívida consideravelmente sendo de fato a matéria de fundo cujo se viu necessitado buscar a tutela jurisdicional, inobservado pelo Tribunal ‘a quo’.” (id 47842985 - p. 9)
+Assevera que “(...) buscou a tutela jurisdicional, a fim de ver revisados os contratos que tiveram origem Cheque Ouro, Cartão Ourocard Platinum MA e BB Crédito Renovação, para tanto fora requerida aplicação do Código de Defesa do Consumidor e via de consequência a inversão do ônus da prova, sendo apontado desde a exordial a necessidade de produção de prova pericial afim de comprovar a abusividade perpetrada nos contratos de adesão firmados, sendo certo que a prova pericial requerida, no caso em tela, não é prova inútil, impertinente, tão pouco protelatória, conforme fora fundamentado”. (id 47842985 - p. 10)
+Argumenta que “(...) a fundamentação do decisum, deixa claro que a tutela efetivamente pretendida por este requerente foi inobservada, o órgão julgador não apreciou as teses apresentadas por este Recorrente, inclusive as apontadas como omissas e contraditórias nas razões recursais, em manifesto ato de violação aos artigos 489 e 1.022 do CPC, assim a decisão supramencionada contraria norma e garantia constitucional, seja ante ao princípio da eficiência, acobertado pelo artigo 37 (CF de 1988), seja em razão das próprias garantias inerentes ao due process of law (art. 5o, incisos LIV e LV, da Magna Carta), seja, por fim, como consequência lógica e natural do adequado, preciso, técnico e amplo acesso à justiça (art. 5o, inciso XXXV, da CF de 1988)”. (id 47842985 - p. 10)
+Suscita, ainda afronta aos artigos 9o, 10, 355, I, 369, 373, II, e 1.025 do Código de Processo Civil.
+Recurso tempestivo (id 48006978).
+Contrarrazões no id 52471462.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489 e 1.022, II, do CPC
+A partir da suposta ofensa aos artigos 489 e 1.022, II, do CPC, a Recorrente alega que a fundamentação do decisum deixa claro que a tutela efetivamente pretendida foi inobservada, pois o órgão julgador não apreciou as teses apresentadas por este Recorrente, quais sejam a revisão dos contratos que tiveram origem Cheque Ouro, Cartão Ourocard Platinum MA e BB Crédito Renovação, com aplicação do Código de Defesa do Consumidor, e via de consequência a inversão do ônus da prova, sendo apontado desde a exordial a necessidade de produção de prova pericial a fim de comprovar a abusividade perpetrada nos contratos de adesão firmados, sendo certo que perícia requerida, no caso em tela, não é prova inútil, impertinente.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora se manifestou expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Quanto a revisão dos encargos contratuais, é cediço a possibilidade do Poder Judiciário relativizar o princípio pacta sunt servanda e, consequentemente, revisar e anular cláusulas abusivas e leoninas decorrentes de contratos de adesão formulados pelas instituições financeiras é tema pacífico na jurisprudência pátria. (...)
+De se lembrar que, nas relações de consumo, a pretensão de revisar cláusulas contratuais não se subsume ao disposto no artigo 478 do Código Civil, mas sim ao artigo 6o, V do Código de Defesa do Consumidor.
+Com efeito, ao se estar diante da hipótese do art. 6o, V do CDC, ou seja, de contrato que merece modificação em razão de alegada abusividade contemporânea à contratação, possível a sua revisão.
+(...)
+Desse modo, para justificar a revisão de um contrato submetido às normas de proteção ao consumidor, mostra-se suficiente a demonstração da abusividade das cláusulas, com o consequente desequilíbrio entre as partes.
+Não há que se falar, por outro lado, em requisitos para a interposição de ação revisional de contrato, quanto mais ofensa ao ato jurídico perfeito, seja pelo reconhecimento do caráter relativo do pacta sunt servanda, seja pela previsão expressa no Código de Defesa do Consumidor, conforme acima citado. (TJMT – RAC no 51220/2009, Des. Rel. Carlos Alberto Alves da Rocha, 5a Câmara Cível).
+No caso, insurge o apelante sobre os encargos moratórios, mais especificamente quanto aos juros moratórios e multa contratual.
+Quanto aos juros moratórios, deve se lembrar que sua incidência independe de previsão contratual expressa, por se tratar de consectário legal.
+Com efeito, os juros moratórios visam recompensar o credor pela inadimplência do devedor e, por essa razão, sua incidência decorre automaticamente da lei - artigo 395 do Código Civil.
+O mesmo ocorre com a multa contratual, que em função da aplicabilidade do Código de Defesa do Consumidor às instituições financeiras (Súmula 297 do STJ), sua incidência se impõe.
+In casu, não havendo qualquer abusividade nos encargos pactuados, devem ser mantidos na forma avençada.
+(...)
+In casu, por consequência lógica, não há que se falar em devolução dos valores pagos a maior, já que não restou comprovado que o Apelante pagou valores maiores que os devidos.
+Por fim, quanto ao pleito de consignação em pagamento e do afastamento da restrição cadastral, entendo que a decisão recorrida encontra-se em consonância com a jurisprudência consolidada dos c. STF e STJ, não se verificando qualquer fato devidamente comprovado que desequilibrasse a relação contratual.
+Ressalte-se, ainda, que a mera propositura da Ação Revisional não elide a mora, tornando impossível imunizar a parte apelante de ter o seu nome inscrito no cadastro de inadimplentes, existindo inadimplemento de prestações devidas, sendo matéria inclusive sumulada pelo STJ: ‘A simples propositura da ação de Revisão de Contrato não inibe a caracterização da mora do Autor’ (Súmula no 380)”. (id 31823958 - p. 9)
+Diante desse quadro, não há evidência de violação aos artigos 489 e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM REPARAÇÃO POR DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DA LEI FEDERAL E DEMONSTRAÇÃO DE SUA VIOLAÇÃO. ENUNCIADO N. 284 DA SÚMULA DO STF. AGRAVO INTERNO IMPROVIDO.
+1. No tocante ao pedido de indenização securitária por invalidez e à condenação pelos danos morais, as razões do inconformismo não permitem identificar de que forma se deu a violação à lei federal, pois o recorrente não apontou quais dispositivos teriam sido ofendidos ou tiveram a interpretação divergente pela jurisprudência.
+Incide, à espécie, o óbice da Súmula 284 do STF.
+2. Agravo interno a que se nega provimento”. (STJ AgInt no AREsp 1308915/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/02/2019, DJe 21/02/2019).
+Dessa forma, quanto à alegação de ofensa aos artigos 9o, 10, 355, I, 369, 373, II, e 1.025 do CPC, conclui-se pela inadmissão do recurso, porquanto o Recorrente limitou-se a citar os dispositivos legais supostamente violados, sem, no entanto, ter demonstrado de forma precisa e concreta a contrariedade alegada e como esta teria ocorrido, impossibilitando, consequentemente, a exata compreensão da matéria apresentada.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 03 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
