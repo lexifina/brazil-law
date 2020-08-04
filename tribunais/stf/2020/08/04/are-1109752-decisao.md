@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO – DESPROVIMENTO.
+    1. Extraio o seguinte trecho do acórdão recorrido:
+    A sentença merece ser confirmada por seus próprios fundamentos, porquanto em consonância com a legislação de regência e com a jurisprudência deste Tribunal. Transcrevo:
+    [...]
+    2. FUNDAMENTAÇÃO
+    A embargante alega a existência de diversas irregularidades no processo administrativo, que o tornariam nulo, assim como as CDA's dele originadas. Aponta ter havido cerceamento de sua defesa, pois: a.1) o prazo recursal foi de apenas 5 dias, inferior ao previsto na legislação que regula o processo administrativo fiscal; a.2) houve exigência de depósito prévio como pressuposto de admissibilidade do processo administrativo, reconhecido como inconstitucional pelo STF; a.3) não foi observado o disposto na Resolução nº 258/94 do Conselho Federal de Farmácia quanto à montagem do processo administrativo.
+    Não é possível reconhecer a alegação de que não foi observado o devido processo legal no que tange à formação do processo administrativo, já que não foi carreada ao feito qualquer prova acerca do procedimento, resta inviabilizada uma visão integral sobre quais documentos foram produzidos ou deixaram de ser na esfera administrativa, impossibilitando assim o reconhecimento da nulidade pretendida. Destaque-se que é ônus da parte fazer prova de suas alegações (CPC, art. 333, I). Cabe ao embargante juntar aos autos os elementos de provas que entenda como necessários a desconstituir o título executivo, inclusive, se for o caso, a cópia do respectivo procedimento administrativo (TRF4, AG 2005.04.01.022519-3, 2ª T., Rel. Marga Inge Barth Tessler, DJ 28/09/2005).
+    Da mesma forma, tenho que tampouco pode ser reconhecido cerceamento de defesa tanto no que tange ao prazo para interposição de recurso, porque o âmbito de aplicação do processo administrativo fiscal regulamentado pelo Decreto nº 70.235/72 se restringe aos créditos tributários da União (art. 1º, caput). No âmbito da exequente, com fundamento no art. 6º, g, da Lei nº 3.280/73, o processo administrativo é regulado pela Resolução nº 258/1994, do Conselho Federal de Farmácia (TRF da 4ª Região, AC nº 2000.70.00.010370-8, 4ª T., Rel. Juiz Jairo Schafer, D.E. de 19/02/08), que prevê os prazos de 5 dias para oferecimento de defesa à autuação (art. 9º) e de 10 dias para recorrer contra a decisão que reconhecer a existência de infração (art. 15).
+     No tocante à exigência de depósito administrativo para recurso, cuja inconstitucionalidade foi objeto da Súmula Vinculante nº 21 do Supremo Tribunal Federal, não há prova de que houve tal cobrança, não podendo ser reconhecido cerceamento de defesa.
+    […]
+    A exigência de depósito prévio para a apresentação de recurso administrativo não se mostra legítima, o que restou reconhecido pela edição da Súmula Vinculante nº 21: É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo. Entretanto, essa inexigibilidade em nada beneficia a embargante, pois não consta no processo administrativo que tivesse havido recurso, ou que ao recurso interposto tenha sido negado seguimento por falta de depósito prévio.
+    […]
+    No extraordinário, a recorrente aponta violado o artigo 5º, inciso LV, da Constituição Federal. Sublinha a nulidade do procedimento administrativo de constituição do crédito tributário, no que, segundo sustenta, condicionado a interposição de recurso ao depósito prévio da multa aplicada.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo, desprovendo-o.
+    4. Publiquem.
+Brasília, 4 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
