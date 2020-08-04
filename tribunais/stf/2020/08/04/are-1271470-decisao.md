@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 2, p. 88):
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO DAS TAXAS DE ADMINISTRAÇÃO DE CARTÕES DE CRÉDITO E/OU DÉBITO. CUSTO OPERACIONAL. IMPOSSIBILIDADE. JURISPRUDÊNCIA SERENA DESTA CORTE. (01)
+    1. As bases de cálculo da contribuição para o PIS e a COFINS, seja o "faturamento" (receita bruta operacional), para as empresas sob o regime cumulativo, seja a "receita bruta", para as submetidas às Leis n° 10.637/2002 e n° 10.833/2003, sob o regime não -cumulativo, distinguem-se do conceito de "receita líquida" auferida pelas empresas. Em ambas as hipóteses, a base de cálculo resulta das negociações envolvendo venda de mercadorias/serviços, fato gerador das imposições, que não ignora o custo da "taxa" no preço dos negócios entabulados com os consumidores. Precedentes.
+    2. A receita bruta de vendas auferida pela contribuinte inclui as taxas e comissões pagas às administradoras de cartão de crédito, na exata dicção do art. 1°, § 1°, Leis n° 10.637/2002 e 10.833/2003. Entendimento diverso exige interpretação ampla e conceitos legais de modo favorável à parte impetrante, contrariando a primeira leitura dos comandos normativos, o que malfere a tipicidade e a estrita legalidade tributárias (art. 111 c/c art. 108 do CTN).
+    3. A jurisprudência desta Corte, de modo sereno, entende que "a taxa de administração de cartão de crédito ou débito é custo operacional que o estabelecimento comercial paga à administradora, não estando inclusa nas exceções legais que permitem subtrair verbas da base de cálculo da COFINS e do PIS." Nesse sentido: AC 0051262-57.2010.4.01.3400 / DF, Rel. DESEMBARGADOR FEDERAL REYNALDO FONSECA, SÉTIMA TURMA, Re-DJF1 p.654 de 22/08/2014, dentre inúmeros outros precedentes.
+    4. Apelação não provida.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 110).
+    De plano, verifica-se que a controvérsia cinge-se ao Tema 1.024 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 1094811 RG, de relatoria do Ministro Marco Aurélio, DJe 18.3.2019, assim ementado:
+    PIS – COFINS – BASE DE CÁLCULO – COMÉRCIO – VENDAS – CARTÕES DE CRÉDITO E DÉBITO – ADMINISTRADORA – VALOR RETIDO – RECEITA OU FATURAMENTO – INCLUSÃO ADMITIDA NA ORIGEM – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – CONFIGURADA. Possui repercussão geral controvérsia alusiva à inclusão dos valores retidos por administradoras de cartões na base de cálculo das contribuições ao Programa de Integração Social – PIS e da Contribuição para o Financiamento da Seguridade Social – COFINS, devidas por empresa.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 4 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
