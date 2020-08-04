@@ -1,0 +1,61 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo Interno na Apelação n. 1035611-95.2017.8.11.0041
+RECORRENTES: JURUENA PARTICIPAÇÕES E INVESTIMENTOS S.A. E OUTROS
+RECORRIDA: JOAÇABA HYDRO SERVICE MONSTAGENS LTDA - EPP
+Vistos, etc.
+Trata-se de Recurso Especial (id 49243999) interposto por JURUENA PARTICIPAÇÕES E INVESTIMENTOS S.A. E OUTROS com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado assim ementado (id 34574453):
+“AGRAVO INTERNO EM AGRAVO INTERNO – AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE CONTRATO – EXTINÇÃO EM RAZÃO DO NÃO PAGAMENTO DO PREPARO (CUSTAS JUDICIAIS) – ART. 290 E 485, IV, AMBOS DO CPC/15) – INTERPOSIÇÃO DE RECURSO DE APELAÇÃO – IMPROVIMENTO E POSTERIOR RETRATAÇÃO/RECONSIDERAÇÃO EM AGRAVO INTERNO – DECISÃO MONOCRÁTICA – SENTENÇA ANULADA – DECISÃO FUNDAMENTADA – ALEGAÇÃO DE DESNECESSIDADE DE INTIMAÇÃO PESSOAL DA PARTE – DESCABIMENTO – RELAÇÃO PROCESSUAL FORMADA (TRIANGULARIZAÇÃO) - IMPOSSIBILIDADE DE CANCELAMENTO DA DISTRIBUIÇÃO – NECESSIDADE DE INTIMAÇÃO DA PARTE AUTORA PARA RECOLHIMENTO DAS CUSTAS COMPLEMENTARES – RECURSO DESPROVIDO.
+Afigura-se incabível o cancelamento da distribuição pelo não recolhimento de custas quando o processo já se encontra em fase avançada. Nesta hipótese, o feito deve ser extinto em razão do abandono da causa pelo não recolhimento das custas, o que exige a intimação pessoal da parte, nos termos do art. 485, § 1o, do CPC.
+Deve ser mantida a decisão monocrática que, em juízo de retratação, reconsiderou da decisão proferida anteriormente, para dar provimento ao recurso de apelação interposto pela empresa agravada/apelante e, por consequência, anular a sentença de extinção dos autos nos termos do art. 290 e 485, IV, do CPC/15, uma vez que foi proferida com amparo na legislação de regência – art. 485, § 1o, do CPC/15 - e na jurisprudência do STJ e deste tribunal”. (TJMT – Segunda Câmara de Direito Privada – Apelação Cível n. 1035611-95.2017.8.11.0041, Relatora: Desa MARILSEN ANDRADE ADDARIO, j. em 19/02/2020).
+Opostos Embargos de Declaração (id 36002649), estes foram rejeitados no acórdão de id 34577509.
+O presente recurso foi interposto contra o aresto que, em sede de Agravo Interno, interposto por JURUEMA PARTICIPAÇÕES E INVESTIMENTOS S/A, PARECIS ENERGIA S/A e RONDON ENERGIA S/A, em juízo de retratação, reconsiderou do decisum proferido no id 5985971, para dar provimento à Apelação n. 1035611-95.2017.8.11.0041 (id 5066956) e, por consequência, anular a sentença proferida no id 5066950, determinando o retorno dos autos à Comarca de origem para o regular prosseguimento.
+Os Recorrentes alegam violação ao artigo 489 § 1o, IV, do Código de Processo Civil, porquanto “ao analisar o v. acórdão, não é possível extrair os critérios que foram utilizados para manter a reforma da sentença singular, pois o acórdão não expõe nenhuma das peculiaridades do caso concreto no convencimento da câmara sobre a arguição incitada pela Recorrente, em relação à desnecessidade de intimação pessoal para pagamento das custas processuais, eis que tal providência não é obrigatória, bastando apenas a regular intimação do advogado constituído nos autos. Registre-se que a intimação do advogado para recolhimento das custas foi feita por duas vezes e não houve qualquer manifestação, após decorrido o prazo foi apresentado um pedido de justiça gratuita ou parcelamento de custas, totalmente extemporâneo”. (id 49243999 - p. 7)
+Assevera que “adentrando-se ao fundamento da extinção do feito sem resolução do mérito com fulcro no art. 485, inciso IV do NCPC, cumpre salientar que a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, configuram-se como requisitos legais intrinsecamente instrumentais que existem para se verificar a existência, validade e eficácia da relação jurídico processual. E, diante do caso concreto, não recolhidas as custas iniciais no prazo legal, há de ser cancelada a distribuição, consoante previsão do art. 290 do CPC”. (id 49243999 - p. 8)
+Assevera que “a determinação foi cumprida, pois, o patrono da autora/recorrida foi intimado especificamente para promover o andamento do processo, sob pena de extinção, via DJe e não o fez, portanto, ausentes os pressupostos de desenvolvimento válido e regular do processo, e sua extinção sem resolução de mérito, tudo em conformidade com o art. 485, IV do CPC, com direito aos honorários advocatícios”. (id 49243999 - p. 9)
+Argumenta que “o art. 485, § 1o, do CPC, a intimação pessoal da parte para, no prazo de 48 (quarenta e oito) horas, suprir a falta arrolada, refere-se tão somente às situações abrangidas pelos incisos II e III do citado dispositivo, o que não se confunde com o caso concreto, no qual o autor, intimado, deixou de recolher as custas, dando ensejo ao cancelamento da distribuição”. (id 49243999 - p. 9)
+Recurso tempestivo (id 49276468).
+Contrarrazões no id 52423489.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação ao artigo 489, § 1o, IV, do CPC
+A partir da suposta ofensa ao artigo 489, § 1o, IV, do CPC, os Recorrentes alegam que “ao analisar o v. acórdão, não é possível extrair os critérios que foram utilizados para manter a reforma da sentença singular, pois o acórdão não expõe nenhuma das peculiaridades do caso concreto no convencimento da câmara sobre a arguição incitada pela Recorrente, em relação à desnecessidade de intimação pessoal para pagamento das custas processuais, eis que tal providência não é obrigatória, bastando apenas a regular intimação do advogado constituído nos autos”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora se manifestou expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Com efeito, descabe falar-se em extinção dos autos originários - ação ordinária – com amparo no artigo 485, inciso III, do CPC/15, ou seja, por ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, posto que restou claro que à espécie, já houve a angularização processual, inclusive com o pagamento das custas iniciais em comarca de outra unidade da federação e, portanto, o feito somente poderia ser extinto com fundamento nos artigos 485 e 487, ambos do CPC/15 (art. 267 e 269 CPC/73), ou seja, após a intimação pessoal da parte para o recolhimento das custas.
+(...)
+Ademais, mostra-se totalmente equivocada a alegação da agravante de que não há necessidade de os autos retornarem à Comarca de origem para apreciação do pedido de parcelamento ou de gratuita de justiça da agravada, porquanto tais pedidos já foram apreciados e indeferidos na decisão monocrática proferida por este Tribunal, consoante ID no 5985971.
+Isto porque, basta uma singela leitura dos autos, em especial o ID no 19699973, para se constatar que a referida decisão (ID no 5985971) foi revogada pela ora recorrida, senão vejamos: (...)
+Por fim, despropositada também a alegação da agravante de que o pedido de justiça gratuita ou parcelamento das custas processuais da agravada é extemporâneo, visto que, como é cediço este pode ser formulado em qualquer momento processual, inclusive na fase de execução (at. 99, caput, CPC/15)”. (id 34574453 - p. 12-13)
+Diante desse quadro, não há evidência de violação ao artigo 489, § 1o, IV, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, os Recorrentes argumentam que a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, configuram-se como requisitos legais intrinsecamente instrumentais que existem para se verificar a existência, validade e eficácia da relação jurídico processual. E, diante do caso concreto, não recolhidas as custas iniciais no prazo legal, há de ser cancelada a distribuição, consoante previsão do art. 290 do CPC.
+Conforme já mencionado acima, no acórdão impugnado ficou consignado que “(...) descabe falar-se em extinção dos autos originários - ação ordinária – com amparo no artigo 485, inciso III, do CPC/15, ou seja, por ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, posto que restou claro que à espécie, já houve a angularização processual, inclusive com o pagamento das custas iniciais em comarca de outra unidade da federação e, portanto, o feito somente poderia ser extinto com fundamento nos artigos 485 e 487, ambos do CPC/15 (art. 267 e 269 CPC/73), ou seja, após a intimação pessoal da parte para o recolhimento das custas”.
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DO RECOLHIMENTO DAS CUSTAS INICIAIS. CANCELAMENTO DA DISTRIBUIÇÃO. IMPOSSIBILIDADE. RELAÇÃO PROCESSUAL ESTABELECIDA. PROCESSO EM FASE AVANÇADA. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência firmada por esta Corte, não se admite o cancelamento da distribuição do feito, nos termos do art. 257 do CPC/1973, quando a relação jurídica processual já estiver estabelecida e encontrar-se em fase avançada. Precedentes.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, a Súmula 83 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido”. (AgInt no AREsp 1461693/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 290 e 485, IV, do Código de Processo Civil, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 03 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
