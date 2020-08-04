@@ -1,0 +1,21 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no AgRg no HC 572.176/RO, no âmbito do Superior Tribunal de Justiça, assim ementado (eDOC 4, pp. 40-41):
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. TRAMITAÇÃO REGULAR. COVID-19. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Cuida-se de caso em que o paciente/agravante estaria envolvido com tráfico de drogas e associação para essa finalidade, relatando-se a apreensão de quantidade exorbitante de drogas (mais de 16 Kg de cocaína).
+    2. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+    3. Na espécie, observa-se que o Magistrado de primeiro grau tem empregado esforços para a condução célere do feito, não se podendo falar em atraso injustificado ou morosidade irrazoável na tramitação. Embora o paciente/agravante esteja encarcerado há 10 meses, verifica-se que o processo conta com dois réus e exigiu a realização de perícia técnica sobre os celulares apreendidos, inclusive com pedido defensivo de adiamento de audiência para análise do laudo de degravação emitido, não se ignorando, por fim, a necessidade de redesignação de audiência relacionada à suspensão dos trabalhos presenciais ante as medidas adotadas para evitar a disseminação do novo coronavírus.
+    4. De todo modo, o processo já se encontra em fase de apresentação das alegações finais, o que indica a proximidade da sentença.
+    5. Agravo regimental a que se nega provimento.”
+    Narra o impetrante que: a) o paciente encontra-se preso preventivamente há mais de um ano, pela suposta prática dos crimes previstos nos art. 33 e 35 da Lei 11.343/2006, sem que tenha sido encerrada a instrução criminal, configurando excesso de prazo para a formação da culpa; b) não se pode atribuir à defesa qualquer responsabilidade na demora da prestação jurisdicional, uma vez que fora a acusação quem insistiu pela produção da prova pericial de degravação de dados e de imagens dos celulares apreendidos; c) houve redesignação da audiência para o interrogatório por quatro vezes, em razão da ausência de juntada aos autos do referido laudo pericial, por ineficiência estatal.
+    À vista dos argumentos, pugna, liminarmente, pela revogação da prisão preventiva, mormente em face do alastramento das infecções pelo COVID-19 nos presídios do país. No mérito, pede a confirmação da liminar.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na situação aventada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Solicitem-se informações ao Juízo da causa, especialmente acerca do histórico do andamento processual, inclusive com indicação de elementos que evidenciem eventual complexidade da causa, a justificar o alongar da marcha processual, e se há previsão para o deslinde da ação penal.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 4 de agosto de 2020..
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
