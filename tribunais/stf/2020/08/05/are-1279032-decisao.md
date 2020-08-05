@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. TRIBUTÁRIO. ESTABELECIMENTO COMERCIAL. REGISTRO ESPECIAL. LICENÇA. COBRANÇA DE TRIBUTO. EXIGÊNCIA DO FISCO. DECRETO-LEI Nº 1.593/1977. CONDIÇÃO PARA FUNCIONAMENTO. INEXIGIBILIDADE. MEIO COERCITIVO. IMPOSSIBILIDADE. DESPROVIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 170 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão recorrido:
+    “TRIBUTÁRIO. CONSTITUCIONAL. REGISTRO ESPECIAL PARA INDUSTRIALIZAÇÃO E COMERCIALIZAÇÃO DE BÉBIDAS ALCOÓLICAS. EXIGÊNCIAS DO FISCO. AUSÊNCIA DE PREVISÃO LEGAL. FORMA INDIRETA DE COBRANÇA DE TRIBUTO. IMPOSSIBILIDADE.
+    - O Decreto -Lei 1593/77 não confere ao Ministro da Fazenda poderes para fazer qualquer exigência para o deferimento do registro especial previsto naquela norma, notadamente a de condicioná-lo à quitação de tributos em atraso.
+    - É uníssono o entendimento dos nossos tribunais de ser inadmissível a utilização, pela autoridade administrativa, de meios coercitivos indiretos para a satisfação de créditos de natureza fiscal, dispondo o fisco de meios legais para compelir o contribuinte ao adimplemento de suas obrigações tributárias, inclusive a inscrição dos débitos na Dívida Ativa e a execução pela via judiciária.
+    - As sanções de cunho político já foram repelidas pelo STF, por meio das Súmulas 70, 323 e 547, que, em síntese, têm por ilícitos os procedimentos coercitivos, alheios ao processo legal, para obrigar ao pagamento de tributos.
+    - In casu, não pode a autoridade fiscal negar-se a deferir pedido de registro especial para industrialização e comercialização de bebidas alcoólicas, indispensável ao exercício da atividade do sujeito passivo, por motivo da existência de débito tributário deste, sem que isso represente ofensa ao direito constitucional garantidor do livre exercício de qualquer atividade econômica (CF/88, art. 170, parágrafo único).
+    - Precedentes do STJ e desta Corte.
+    - Apelação e remessa obrigatória não providas.”
+     O Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado demandaria a análise da legislação infraconstitucional aplicável, e da moldura fática delineada no acórdão recorrido, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Precedentes:
+    “EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SÚMULA 323/STF. CONSONÂNCIA COM O ACORDÃO RECORRIDO. 1. O acórdão recorrido não divergiu do entendimento jurisprudencial firmado por esta CORTE SUPREMA no sentido de inadmitir a apreensão de mercadorias como meio coercitivo para pagamento de tributos, nos termos da Súmula 323/STF (É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos). 2. Agravo Interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem” (RE 1065090-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 27.6.2018).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. NECESSIDADE DE RECOLHIMENTO DE ISS-QN PARA LIBERAÇÃO DE ‘HABITE-SE’ DE IMÓVEL. SANÇÃO POLÍTICA. IMPOSSIBILIDADE DO USO DE MEIOS COERCITIVOS PARA COMPELIR AO PAGAMENTO DE TRIBUTOS. PRECEDENTES. NATUREZA JURÍDICA DO ‘HABITESE’: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1181820-AgR-terceiro, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 25.11.2019).
+    “Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. IPI. Registro especial de engarrafador. 4. Constitui meio indireto de cobrança de tributo, condenado pela jurisprudência desta Corte, a negativa de registro fiscal indispensável ao funcionamento do estabelecimento, fundamentada em débito de sócio com exigibilidade suspensa. 5. Desnecessidade de observância do art. 97 da Constituição Federal. Precedentes. 6. Negado provimento ao agravo regimental, sem majoração de honorários” (RE 994.586-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 05.9.2019).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 5 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
