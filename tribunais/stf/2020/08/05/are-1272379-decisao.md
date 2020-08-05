@@ -1,0 +1,17 @@
+SERVIDOR PÚBLICO ESTADUAL. EMPRÉSTIMO CONSIGNADO. LIMITAÇÃO DOS DESCONTOS PREVISTA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA Nº 280/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDIÁRIO QUE NÃO MERECE TRÂNSITO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 1º, III, 6º, 21, VIII, 22, VII, e 59 da Lei Maior
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor municipal. Empréstimo consignado. Limitação dos descontos. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1186297 AgR, Relator(a): Min. Dias Toffoli (Presidente), Tribunal Pleno, julgado em 06.5.2019, PROCESSO ELETRÔNICO DJe-114 DIVULG 29.5.2019 PUBLIC 30.5.2019).
+    “Empréstimo. Consignação em folha de pagamento autorizada pelo mutuário, no limite de 30% de sua remuneração. Alegação de violação aos arts. 1º, III (dignidade da pessoa humana) e 7º, X (proteção do salário), ambos da Constituição Federal, em face da ausência de interesse do recorrente no prosseguimento dos descontos em folha. Inexistência de repercussão geral, tendo em vista que a questão não ultrapassa os interesses subjetivos da causa” (RE 584536 RG, Relator(a): Min. Ellen Gracie, julgado em 04.12.2008, DJe-035 DIVULG 19.02.2009 PUBLIC 20.02.2009 EMENT VOL-02349-08 PP-01665).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
