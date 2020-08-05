@@ -1,0 +1,44 @@
+DECISÃO
+MANDADO DE SEGURANÇA – CONSELHO NACIONAL DE JUSTIÇA – PROCESSO ADMINISTRATIVO DISCIPLINAR – MAGISTRADO – SESSÃO DE JULGAMENTO – DECISÃO INDIVIDUAL – LIMINAR – INDEFERIMENTO.
+    1. A assessora Isabela Leão Monteiro assim retratou o caso:
+    Washington Gutemberg Pires Ribeiro, Juiz do Tribunal Regional do Trabalho da 5ª Região, insurge-se contra pronunciamentos do conselheiro Marcos Vinícius Jardim Rodrigues, no processo administrativo disciplinar nº 0008118-28.2019.2.00.0000, por meio dos quais afastados alegação de irregularidade na 68ª sessão de julgamento, preliminar de inépcia da portaria instauradora, apreciação colegiada da arguida nulidade da primeira prorrogação do processo e pedido de desmembramento.
+    Assevera que, mediante ato publicado no Diário da Justiça, o ministro Dias Toffoli foi indicado presidente da 68ª Sessão Ordinária Virtual do Conselho – 25 de junho a 1º de julho de 2020 –, na qual pautada a segunda prorrogação do procedimento disciplinar. Anota alterada a presidência no curso da Sessão, após lançada, em 26 de junho último, suspeição declarada em data anterior. Aponta circunstância a demandar a retirada de pauta e inclusão em sessão extraordinária, presidida pelo ministro Luiz Fux, o qual não proferiu voto. Informa não haver, na proclamação do resultado do julgamento, registro alusivo à suspeição. Diz ter requerido, ao Conselheiro Relator, elucidação do quadro, no que ratificados dados transcritos em certidão da Secretaria Processual. Destaca olvidado o direito de informação.
+    Impugnando análise individual do Conselheiro Relator, sustenta a competência do Colegiado para examinar questão prejudicial à segunda prorrogação – nulidade da primeira –, bem assim preliminar de inépcia da portaria instauradora. Ressalta necessária ordem para desmembramento do processo disciplinar.
+    Sob o ângulo do risco, menciona tumulto no julgamento do procedimento administrativo e danos à imagem. Requer, no campo precário e efêmero, suspensão dos pronunciamentos questionados e da instrução do processo administrativo até serem finalizadas as providências. No mérito, busca a nulidade dos atos ditos ilegais.
+    Este mandado de segurança foi distribuído a Vossa Excelência por prevenção, tendo em vista o de nº 37.131, formalizado contra deliberação do Conselho referendando dilação do período de afastamento cautelar do impetrante. Naquela ação mandamental, Vossa Excelência, em 18 de maio último, implementou medida acauteladora para viabilizar o retorno ao cargo.
+    Tramita a impetração de nº 37.123, visando a anulação da Portaria nº 7/2019, instauradora do procedimento administrativo disciplinar, quanto à imputação veiculada no item II, havendo Vossa Excelência indeferido a tutela de urgência.
+    O impetrante protocolou o mandado de segurança nº 37.144, insurgindo-se contra a instauração e prorrogação do processo disciplinar. Vossa Excelência não acolheu pedido de liminar.
+    2. Improcede a alegação de irregularidades na 68ª Sessão Ordinária. O Conselheiro Relator, em decisão de 27 de julho de 2020, explicitou a substituição do Ministro Presidente nos termos regimentais:
+    Verifica-se, pois, que foram pautados 36 (trinta e seis) processos para julgamento na 68ª Sessão Virtual, dos quais três eram os PADs n. 0003355-47.2020.2.00.000, n. 0003353-77.2020.2.00.0000 e n. 0008118-28.2019.2.00.0000, nos quais o Ministro Dias Toffoli declarou-se suspeito.
+    Neste feito, diante da declaração de suspeição do Ministro Presidente, o Vice-Presidente, Ministro Luiz Fux o substituiu, nos termos dos artigos 5º e 23, I, do Regimento Interno do CNJ, in verbis:
+    Art. 5º O Conselho será presidido pelo Presidente do Supremo Tribunal Federal e, nas suas ausências e impedimentos, pelo Vice-Presidente do Supremo Tribunal Federal.
+    [...]
+    Art. 23. Os Conselheiros serão substituídos em suas eventuais ausências e impedimentos:
+    I - o Presidente do Conselho, pelo Vice-Presidente do Supremo Tribunal Federal;
+    Cumpre esclarecer que, conforme a certidão da Secretaria Processual, a “sessão virtual teve início às doze horas do dia 25 de junho de 2020 e término às vinte e três horas e cinquenta e nove minutos do dia 1º de julho de 2020”.
+    Nota-se, claramente, que, diante de seu autodeclarado impedimento, o Presidente do CNJ não atuou nos elencados PADs, transmitindo, nos particulares feitos, a presidência da sessão ao Ministro Vice-Presidente que presidiu, portanto, os julgamentos, conforme estabelece a previsão regimental supra.
+    Nesse sentido, o Vice-Presidente presidiu e julgou somente os três PADs e o Presidente oficiou nos outros trinta e três processos remanescentes da pauta.
+    Como se tratava de sessão virtual, sem a presença física e sem deslocamento dos julgadores, que teve a duração de sete dias, não houve qualquer empecilho para que acontecesse a substituição do Ministro Presidente pelo Vice-Presidente e, assim, considerando que o Ministro Luiz Fux, Vice Presidente do CNJ, presidiu e participou dos citados julgamentos, não há que se falar na nulidade trazida à baila.
+    Decerto, não havendo óbice à substituição do Presidente Dias Toffoli pelo Vice-Presidente, o Ministro Luiz Fux, naquela sessão em que ocorreram os julgamentos, não haveria necessidade de remanejamento dos PADs para data diversa.
+    A veiculação da pauta de julgamentos no Diário da Justiça limitou-se a tornar pública a relação de processos a serem apreciados, não consignando a quem caberia dirigir a Sessão.
+    No que se refere à análise da questão prejudicial relativa à nulidade da primeira prorrogação do procedimento disciplinar, o tema foi enfrentado quando do indeferimento de medida acauteladora no mandado de segurança nº 37.144. Na oportunidade, fiz ver:
+    A superação do lapso de 140 dias não enseja a nulidade do procedimento, uma vez reconhecida a necessidade de dilação, em observância ao artigo 14, § 9º, da Resolução CNJ nº 135/2011, a prever uniformização de normas relativas ao procedimento administrativo disciplinar aplicável aos magistrados.
+    Quanto à preliminar da inépcia da portaria de instauração do processo, o Conselheiro Relator fez ver:
+    Já no que se refere à preliminar de inépcia da Portaria de instauração do PAD, cabe, inicialmente, ressaltar que o ato administrativo inaugural passou pelo crivo de todos os Conselheiros, aprovado pelo Plenário do CNJ, no mesmo julgamento em que foi instaurado o PAD, cujos fatos foram devidamente narrados no ato administrativo impugnado, como também no voto condutor proferido pelo e. Ministro Corregedor. Além disso, os magistrados têm plena ciência dos fatos investigados, desde o exórdio das investigações, quando foram intimados para apresentarem defesa no procedimento preliminar que culminou na instauração do presente PAD, de modo que não há se falar em prejuízo para defesa. Dessa forma, não havendo o alegado cerceamento, a preliminar deve ser afastada.
+    Em decisão proferida no mandado de segurança nº 37.123, assentei:
+    Inexiste ofensa ao devido processo legal, considerados o contraditório e a ampla defesa, a partir do acórdão prolatado pelo Plenário do Órgão de controle na reclamação disciplinar nº 0010541-92.2018.2.00.0000, da qual resultou a instauração do procedimento, presentes a motivação, tendo em conta relação, do ato impugnado e a delimitação adequada dos fatos versados no item II da Portaria – enquadrados, em tese, como transgressão aos artigos 35, incisos I e VIII, 56, inciso II, da Lei Complementar nº 35/1979, 4º, 15, 16 e 37 do Código de Ética da Magistratura.
+    No tocante ao desmembramento, mostra-se pertinente o artigo 25 do Regimento Interno do Conselho, a versar as atribuições do relator:
+    Art. 25. São atribuições do Relator:
+    I - ordenar e dirigir o processo, determinando as providências e diligências necessárias a seu andamento e instrução, fixando prazos para os respectivos atendimentos;
+    [...]
+    IV - decidir os incidentes que não dependerem de pronunciamento do Plenário, bem como fazer executar as diligências necessárias ao julgamento do processo;
+    [...]
+    VIII - conduzir e orientar a instrução do processo, realizar atos ou diligências tidas por necessárias, inclusive pelo Plenário, bem como delegar competência a magistrado para colher provas consideradas indispensáveis;
+    Presente atuação nos limites do que previsto – direção do processo, decisão acerca de incidentes e condução da instrução –, inexiste vício no disciplinar.
+    3. Indefiro a medida acauteladora.
+    Ouçam o impetrado, observado o artigo 7º, inciso I, da Lei nº 12.016/2009. Deem ciência à Advocacia-Geral da União, na forma do artigo 7º, inciso II, do mesmo diploma legal.
+    Com as manifestações, colham o parecer da Procuradoria-Geral da República, nos termos do artigo 12 da citada Lei.
+    4. Publiquem.
+Brasília, 5 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
