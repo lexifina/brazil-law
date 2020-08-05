@@ -1,0 +1,21 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por CONDOMÍNIO CIVIL PANTANAL SHOPPING e COUNTRY SHOPPING S/A, com o fito de suspender a decisão que, nos autos da Ação Cautelar de no 1026770-09.2020.811.0041, manejada por JOSIEL BATISTA, determinou a suspensão da exigibilidade dos pagamentos do aluguel mínimo e do fundo de promoção e propaganda, no período em que o primeiro agravante permaneceu fechado (21/03/2020 a 10/06/2020), em virtude da pandemia do novo coronavírus.
+Para tanto, os agravantes alegam que a decisão recorrida autorizou verdadeira moratória, o que não é permitido no ordenamento jurídico, causando desequilíbrio na relação contratual, na medida em que fez recair apenas sobre uma das partes os prejuízos provocados por fato alheio à vontade dos contratantes.
+Ponderam que, ainda no mês de março procederam a ajustes no contrato, visando reequilibrar as obrigações contratuais, com a concessão de descontos que variaram de 40% a 60% referentes ao aluguel, ao condomínio e ao fundo de promoção e propaganda, todos vinculados ao adimplemento, concedendo, ainda, por mera liberalidade, a isenção do pagamento do aluguel em relação às obrigações vencidas em 05/05/2020 e 05/06/2020.
+Aduzem que, apesar da suspensão das atividades, o valor arrecadado com o fundo de promoção e propaganda serve para custear as despesas administrativas e de eventos já realizados, cujos pagamentos foram parcelados, além de impulsionar as ações de marketing institucional, que continuam a ser veiculadas.
+Salientam que deve prevalecer a distribuição equitativa dos ônus e que, ao caso, não se aplica a exceção do contrato não cumprido, já que o fechamento das portas do shopping se deu por ordem do Poder Público (Fato do Príncipe), o que também esvazia qualquer alegação de fortuito ou de força maior.
+Por fim, aduzem que o agravado não comprovou que está impossibilitado de adimplir com suas obrigações, já que não trouxe aos autos qualquer documento comprobatório da sua real situação financeira.
+Pugnam pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Nas palavras de Luiz Guilherme Marinoni:
+“4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora)”. (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Apesar do esforço dos agravantes, por ora, não há nada que convença da liminar pleiteada.
+É que, além de ser notória a crise causada pela pandemia do novo coronavírus, a decisão agravada apenas suspendeu o pagamento de verbas extraordinárias, isso, ainda, por um período específico, inclusive, já superado, o que, aliado à manutenção da obrigação de pagamento da taxa condominial, a qual, sim, seria imprescindível para a manutenção e conservação da estrutura do empreendimento, esvazia qualquer alegação de urgência.
+Diante desse quadro, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
