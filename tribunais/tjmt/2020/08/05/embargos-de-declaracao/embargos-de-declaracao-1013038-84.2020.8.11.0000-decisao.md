@@ -1,0 +1,22 @@
+Vistos etc.,
+Trata-se de Recurso de Embargos de Declaração interposto por Maria Selma de Oliveira Borges, com o fito de reformar a decisão por mim proferida que entendeu que a hipótese dos autos não se amolda ao §1o, do artigo 229, do Regimento Interno deste Tribunal de Justiça, razão pela qual os autos deveriam ser remetidos ao Juízo da 4a Vara Cível da Comarca de Cuiabá, no qual tramitou a ação principal no. 0008258-68.2015.8.11.0041 (ID 50025952).
+Irresignada, a embargante aduz que a decisão carece de fundamentação, no que tange a decisão do acordão prolatado não estar abarcado pela coisa julgada, uma vez que ainda resta pendente de julgamento de recurso de embargos de declaração passível de recurso a instancia superior, sendo, portanto, nula.
+Sustenta que, os autores das ações incidentais de falsidade têm a prerrogativa de requerer a suspensão dos autos principais, em razão da suscitação arguida, pelo fato da decisão não estar abarcada pelo trânsito em julgado.
+Por fim, pugna pela concessão de efeitos infringentes dos embargos, com a consequente reforma da decisão para suspender os autos principais até o julgamento da ação incidental de falsidade (ID 52223970).
+Sem contrarrazões.
+Sendo isto o que basta relatar, sigo aos fundamentos e, ao final, decido:
+O recurso de embargos de declaração é a ferramenta processual ofertada às partes para impugnar decisão judicial contraditória, obscura ou omissa (artigo 1.022 do CPC), no sentido de aclará-la, integrá-la a realidade dos autos, evitando que pontos nucleares ao deslinde da lide restem negligenciados.
+Na hipótese, a embargante aduz que a decisão carece de fundamentação, sendo, portanto, nula.
+Contudo, razão não assiste à embargante, uma vez que a decisão foi pontual ao manifestar-se acerca das questões levantadas no processo, dando-lhes o devido fundamento.
+Com efeito, a decisão vergastada foi expressa em destacar que, conforme se observa dos andamentos processuais retirados do PJe, o recurso de apelação paradigma foi julgado em 28/05/2020 (estando pendente de julgamento apenas os embargos declaratórios opostos do acórdão proferido), ou seja, anteriormente à distribuição da presente demanda, que somente foi ajuizada em 18/06/2020.
+Por outros termos, quando protocolizada esta ação declaratória incidental, a causa principal, isto é, o recurso de referência, já havia sido julgado, o que inviabiliza a aplicabilidade do excerto normativo acima destacado, uma vez que prejudicada a suspensividade da causa principal, repisa-se, ante o julgamento já realizado.
+Desse modo, evidente que a hipótese dos autos não se amolda ao §1o do artigo 229 do Regimento Interno deste Tribunal de Justiça, devendo, portanto, a ação tramitar em primeiro grau de jurisdição.
+Nesse contexto, resta evidente que a decisão não padece de qualquer vício que comporte o provimento deste recurso.
+Portanto, infere-se que a pretensão da embargante se limita à reforma do julgado por puro inconformismo, e não por haver no conteúdo decisório algum dos vícios elencados no artigo 1.022 do Código de Processo Civil.
+Todavia, o recurso de embargos de declaração não é meio legítimo para buscar alteração da decisão, senão quando presente algum dos vícios listados no referido artigo, o que não se visualiza na hipótese dos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO – OMISSÃO - INEXISTENTE – ACÓRDÃO PROFERIDO COM CLAREZA E DE ACORDO COM OS FATOS E PROVAS CONSTANTES NOS AUTOS - PREQUESTIONAMENTO – EMBARGOS DESPROVIDOS. 1. É cediço que a finalidade dos embargos declaratórios restringe-se a suprir as omissões, contradições, obscuridades que, por ventura, possam existir, não podendo servir de modo algum para correção ou apreciação de prova ou qualquer outra discussão que extrapole a finalidade destes. 2. [...]. (TJMT - ED, 86644/2013, DES. JOSÉ ZUQUIM NOGUEIRA, QUARTA CÂMARA CÍVEL, Data do Julgamento 19/11/2013, Data da publicação no DJE 27/11/2013).
+Oportuno salientar que, nos termos de jurisprudência pacífica do STJ, “o magistrado não é obrigado a responder todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados” (REsp 684.311/RS, Rel. Min. Castro Meira, DJ 18.4.2006).
+Dessa maneira, não havendo quaisquer vícios previstos no artigo 1.022 do Código de Processo Civil a ser sanado, o recurso ora em análise apresenta-se como impróprio para alterar a decisão atacada, de tal sorte que o não provimento do recurso é medida que se impõe.
+Pelo exposto, REJEITO estes embargos.
+Cumpra-se.
