@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Oitava Vara Criminal da Comarca de Goiânia/GO converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 20 de fevereiro de 2019, ante a suposta prática do crime previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Concluiu indispensável a custódia para garantir a ordem pública, reportando-se aos dados alusivos ao flagrante, considerada apreensão de substâncias destinadas à fabricação de entorpecente – 60 comprimidos de cor branca, armazenados em 4 cartelas (0,7 gramas); 47 comprimidos de cor branca, em 4 cartelas (0,71 gramas); 12 comprimidos de cor branca, em embalagem única (0,71 gramas); 1 porção de substância sólida, de cor branca, em pó, contendo a inscrição “cafeína 1kg”; 1 porção de substância sólida, de cor branca, em pó, contendo clorobenzorex, apta a causar dependência física e psíquica, e cafeína – e à gravidade do crime.
+    Condenou-o, no processo nº 23781-24.2019.809.0175, a 9 anos de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 1.200 dias-multa, em virtude do cometimento dos crimes versados nos artigos 33, cabeça e § 1º (tráfico de drogas), e 35 (associação para o tráfico) da Lei nº 11.343/2006. Indeferiu o direito de recorrer em liberdade, ressaltando permanecerem os motivos que ensejaram a prisão preventiva.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 125.456, desprovido pelo Relator.
+    O impetrante sustenta sem fundamentação a manutenção, na sentença, da custódia preventiva. Assinala inobservado o princípio constitucional da não culpabilidade, reportando-se ao decidido, pelo Pleno, nas ações declaratórias de constitucionalidade nº 43, 44 e 54. Aludindo à crise sanitária decorrente do novo coronavírus, aponta viável a observância da prisão domiciliar. Diz integrar o paciente grupo de risco, no que portador de asma e bronquite. Menciona a Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Requer, no campo precário e efêmero, a revogação da prisão preventiva e, sucessivamente, o recolhimento domiciliar. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou pendente de exame apelação interposta pela defesa.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, considerada a apreensão de substâncias destinadas à fabricação de entorpecentes – 60 comprimidos de cor branca, armazenados em 4 cartelas (0,7 gramas); 47 comprimidos de cor branca, em 4 cartelas (0,71 gramas); 12 comprimidos de cor branca, em embalagem única (0,71 gramas); 1 porção de substância sólida, de cor branca, em pó, contendo a inscrição “cafeína 1kg”; 1 porção de substância sólida, de cor branca, em pó, contendo clorobenzorex, apta a causar dependência física e psíquica, e cafeína –, indicam em jogo a preservação da ordem pública. O Juízo, na sentença, ressaltou persistirem os motivos que levaram à custódia preventiva. Sem prejuízo do princípio constitucional da não culpabilidade, a prisão mostrou-se viável, ante a periculosidade, ao menos sinalizada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A custódia do paciente, mantida na sentença, observado o artigo 387, § 1º, do Código de Processo Penal, reveste-se de natureza cautelar, não surgindo relevante o alegado acerca do julgamento, pelo Pleno, das ações declaratórias de constitucionalidade nº 43, 44 e 54.
+    A pandemia de covid-19 é insuficiente a levar ao acolhimento da providência pretendida. Embora apontado apresentar o paciente doença preexistente, não há notícia acerca da impossibilidade de receber, na unidade prisional, tratamento médico adequado.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
