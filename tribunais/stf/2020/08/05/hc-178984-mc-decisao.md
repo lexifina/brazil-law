@@ -1,0 +1,17 @@
+DECISÃO
+EXECUÇÃO PENAL – REGIME PROGRESSÃO – DATA-BASE.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Vara de Execuções Penais da Comarca de Assis/SP, no processo de execução nº 1.034.787, deferiu a progressão do paciente ao regime aberto, viabilizando o cumprimento da pena em albergue domiciliar até o surgimento de estabelecimento prisional adequado. Ressaltou que, embora tivesse alcançado o direito ao semiaberto em 13 de outubro de 2011, permaneceu no fechado, aguardando vaga para remoção ao intermediário. Destacou atendido o requisito temporal ao aberto no dia 28 de janeiro de 2013, bem assim o bom comportamento carcerário. Realçou não poder o reeducando sofrer prejuízo decorrente da morosidade da prestação jurisdicional a que não deu causa. Concluiu não se tratar de progressão por salto, uma vez deferida anteriormente a progressão ao semiaberto.
+    A Sétima Câmara Criminal do Tribunal de Justiça proveu o agravo em execução nº 1.034.787, interposto pelo Ministério Público, determinando o retorno ao intermediário. Assentou configurada progressão com queima de etapas, no que não cumprida, no regime semiaberto, a fração de 1/6 necessária ao aberto. Levou em conta, como data-base para progressão, a do efetivo ingresso do reeducando no regime anterior. Salientou a inexistência do exame criminológico, afirmando-o adequado ao acolhimento do pedido de progressão. Aludiu à gravidade do crime – homicídio qualificado – e à ausência de elementos seguros à análise do mérito do paciente. Determinou ao Juízo, após o implemento do requisito objetivo, que realizasse o exame.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 548.005/SP, inadmitido pelo Relator.
+    O impetrante sustenta cumprido, em 28 de janeiro de 2013, o lapso temporal suficiente à passagem ao regime aberto. Afirma desnecessário o exame criminológico, dizendo-o incompatível com a atual situação do paciente, uma vez reintegrado à sociedade. Aponta exercer ocupação lícita formal.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, busca seja restabelecida a decisão proferida pelo Juízo da Vara de Execuções da Comarca de Assis/SP.
+    2. O Tribunal de Justiça, ao prover agravo em execução formalizado pelo Ministério Público, assentou não preenchido o requisito objetivo, considerando, como data-base alusiva à progressão, o momento do efetivo ingresso do reeducando no regime anterior. Tem-se a insubsistência das premissas lançadas. Na execução da pena, o marco referente ao benefício consiste na data em que atendidos os requisitos versados no artigo 112 da Lei de Execuções Penais, e não a do implemento do regime menos gravoso. Descabe deixar de levar em conta, em prejuízo do reeducando, período no qual permaneceu cumprindo pena em regime mais rigoroso.
+    No tocante ao requisito subjetivo, o Tribunal de Justiça apontou a ausência de dados para definir o merecimento do paciente à progressão, tendo como indispensável a realização do exame criminológico.
+    3. Defiro a liminar, não nos termos pretendidos, mas para que o Juízo considere, no tocante à observância do requisito objetivo, a data em que atendido o lapso de 1/6 versado no artigo 112 da Lei de Execuções Penais, considerado o processo de execução nº 1.034.787, da Vara de Execuções da Comarca de Assis/SP.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
