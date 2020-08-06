@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DO TETO PREVISTO NAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. BENEFÍCIOS ANTERIORES. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA AO ATO JURÍDICO PERFEITO E AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. APLICAÇÃO RESTRITA AOS BENEFÍCIOS CUJO SALÁRIO DE BENEFÍCIO SOFREU LIMITAÇÃO DO TETO DA ÉPOCA. BENEFÍCIO NÃO LIMITADO AO MAIOR VALOR TETO. IMPROVIMENTO DA APELAÇÃO”. (eDOC 1, p. 232)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 14 da Emenda Constitucional 20/1998, ao art. 5º da Emenda Constitucional 41/2003 e ao art. 58 do Ato das Disposições Constitucionais Transitórias.
+    Nas razões recursais, alega-se que a tese fixada pelo Supremo Tribunal Federal no tema 76 da sistemática da repercussão geral reconhece o direito à revisão a todos os segurados que tenham tido seus salários de benefício limitados por um teto, independentemente de haver sido o maior valor teto ou o menor valor teto. (eDOC 1, p. 248)
+    A Presidência do Supremo Tribunal Federal determinou, inicialmente, a remessa dos autos à origem para que se cumprisse o disposto no art. 1.030, I e II, do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 930, cujo paradigma é o RE-RG 937.795. (eDOC 3)
+    A Vice-Presidência do Tribunal de origem devolveu os autos à Turma julgadora, para juízo de retratação, nos termos do art. 1.030, II, do CPC. (eDOC 6, p. 3)
+    Esta manteve sua decisão, em acórdão assim ementado:
+    “PROCESSUAL CIVIL. DEVOLUÇÃO DOS AUTOS À TURMA JULGADORA PARA JUÍZO DE RETRATAÇÃO. RE 937.595/SP (Tema 930) e RE 564.354/SE (Tema 76). ADEQUAÇÃO AOS TETOS DAS EC 20/1998 E 41/2003. DISTINGUISING. APELAÇÃO IMPROVIDA”. (eDOC 6, p. 24)
+    Deste acórdão, a parte interpôs novo recurso extraordinário (eDOC 6, p. 34), e posteriormente novo agravo da nova decisão que o inadmitiu. (eDOC 6, p. 63)
+    A Presidência desta Corte então determinou a distribuição do recurso. (eDOC 8)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, torno sem efeito a vinculação dos presentes autos ao tema 930 da sistemática da repercussão geral constante do eDOC 3, pois a questão, do modo como trazida no recurso extraordinário, é diversa da matéria tratada no citado paradigma.
+    Isso porque, no caso dos autos, o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto 83.080/1979) e o conjunto probatório constante dos autos, consignou que o valor da renda mensal inicial do recorrente não teria sido limitado à época de sua concessão. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No presente caso, porém, não merece censura a sentença. De fato, observa-se que o benefício da parte autora foi concedido anteriormente à Constituição Federal de 1988 (DIB em 31/03/1983 - ident. 3099833), tendo a contadoria do juízo informado que os tetos fixados nas ECs 20/98 e 71/2003 não lhe causaram prejuízo, conforme se infere do seguinte parecer (...)”. (eDOC 1, p. 229)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE RMI. APLICAÇÃO DOS NOVOS TETOS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO”. (RE 930.380 ED-AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 7.5.2019)
+“Agravo regimental no recurso extraordinário com agravo. Previdenciário. Benefício. Revisão. RE nº 564.354/SE-RG. Inaplicabilidade. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A Corte de origem, a partir da análise do conjunto fático-probatório dos autos, concluiu que o ora agravante jamais teve o valor de seu benefício reduzido em razão da aplicação de limitador previdenciário. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido”. (ARE 828.256 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 28.4.2015)
+    Por fim, deixo de conhecer o segundo recurso extraordinário de Wilson Farias da Mota Sá Leitão, pois diante da ausência de retratação do tribunal de origem, mantém-se o acórdão originalmente recorrido, já impugnado pelo presente recurso extraordinário.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF), e tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 1, p. 232), observados os limites previstos nos §§ 2º e 3º do referido dispositivo e as disposições relativas à gratuidade de justiça.
+    Publique-se.
+    Brasília, 6 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
