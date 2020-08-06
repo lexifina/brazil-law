@@ -1,0 +1,52 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1010143-66.2016.8.11.0041
+RECORRENTE: ESTADO DE MATO GROSSO
+RECORRIDO: ELISIANO PEREIRA
+Vistos, etc.
+Trata-se de Recurso Especial (id 48837005) interposto pelo ESTADO DE MATO GROSSO com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra a decisão monocrática da Primeira Câmara de Direito Público e Coletivo assim ementada (id 27389960):
+“APELAÇÃO CÍVEL E REMESSA NECESSÁRIA – AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO ESTADUAL – CONVERSÃO DA MOEDA DE CRUZEIRO REAL EM URV – PRESCRIÇÃO – PREJUDICIAL DE MÉRITO AFASTADA – SERVIDOR DO EXECUTIVO – DIREITO AO ACRÉSCIMO DA DIFERENÇA DECORRENTE DA CONVERSÃO DE VENCIMENTOS PARA URV – EXISTÊNCIA DE EFETIVA DEFASAGEM NA REMUNERAÇÃO E NO PERCENTUAL – CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS – AFASTAMENTO DOS ÍNDICES ARBITRADOS – FIXAÇÃO NO MOMENTO DO JULGAMENTO DO IRDR TEMA 810, EM LIQUIDAÇÃO DE SENTENÇA – HONORÁRIOS ADOVACATÍCIOS – FIXAÇÃO NO MOMENTO DA LIQUIDAÇÃO DA SENTENÇA – PATAMAR QUE DEVE RESPEITAR OS LIMITES LEGAIS – ARTIGO 85, §§ 3o E 4o, DO CÓDIGO DE PROCESSO CIVIL – RECURSO PARCIALMENTE PROVIDO – SENTENÇA PARCIALMENTE RETIFICADA.
+Tratando-se de parcelas de trato sucessivo, que se renova mês a mês, ocorre a prescrição apenas das prestações referentes ao quinquênio anterior à propositura da ação, conforme orientação consolidada na Súmula no 85 do c. Superior Tribunal de Justiça.
+Os tribunais Superiores já pacificaram entendimento de que os servidores públicos federais, estaduais ou municipais – inclusive do Poder Executivo – têm direito ao acréscimo da diferença decorrente da conversão de seus vencimentos para a Unidade Real de Valor – URV, nos moldes previstos na Lei no 8.880/94, levando-se em conta a data do efetivo pagamento. (Ag 126295/2015, DESA. MARIA APARECIDA RIBEIRO, TERCEIRA CÂMARA CÍVEL, Julgado em 12/12/2016, Publicado no DJE 16/12/2016).
+Há de se afastar os índices apontados pelo Magistrado Singular no momento da fixação da correção monetária e juros moratórios, e determinar que os referidos sejam estipulados na liquidação de sentença, e devem se amoldar aos critérios apontados pelo Supremo Tribunal Federal, no julgamento do Recurso Repetitivo de tema no 810.
+Em razão da iliquidez da Sentença, os honorários advocatícios devem ser arbitrados no momento da liquidação do referido ato, a observar os parâmetros estipulados no artigo 85, §§ 3o e 4o, do Código de Processo Civil”. (TJMT – Primeira Câmara de Direito Público e Coletivo – Apelação Cível n. 1009681-92.2017.8.11.0003, Relator: Des. MARCIO APARECIDO GUEDES, j. em 04/12/2019).
+Opostos Embargos de Declaração id 28793957, estes foram rejeitados no acórdão de id 48614463.
+O Recorrente alega violação aos artigos 189 do Código Civil, e 1o do Decreto n. 20.190/32, ao argumento de que as ações de cobrança da diferença resultante da conversão da moeda em URV estão prescritas, porquanto foram ajuizadas após 05 (cinco) anos da edição das leis de regência de carreiras dos servidores.
+Recurso tempestivo (id 48954470).
+Sem contrarrazões (id 52318474).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, o Recorrente sustenta que as ações de cobrança da diferença resultante da conversão da moeda em URV estão prescritas, porquanto foram ajuizadas após 05 (cinco) anos da edição das leis de regência das carreiras dos servidores.
+No acórdão impugnado ficou consignado, in verbis:
+“No caso específico, o Estado de Mato Grosso não demonstrou que a reestruturação da carreira tenha efetivamente alterado a estrutura de remuneração dos servidores municipais, ou seja, de que tenha ido além de eventual tentativa de acompanhar a inflação, o que era ônus seu.
+(...)
+Assim, a considerar que a presente ação foi proposta em 24-11-2017, ocorrerá tão somente a prescrição das parcelas vencidas antes do lustro que antecede a propositura deste feito”. (id 23472468 - p. 1-2)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ de que não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, conforme se extrai da ementa do julgado abaixo:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE 11,98%. CONVERSÃO DE VENCIMENTOS. URV. APLICAÇÃO DA LEI 8.880/94. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. HONORÁRIOS. INVERSÃO AUTOMÁTICA DOS ÔNUS SUCUMBENCIAIS.
+1. Consoante jurisprudência firmada no Superior Tribunal de Justiça, nas hipóteses de pedido de diferenças salariais originadas da conversão de cruzeiros reais para URV, não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, por incidência do disposto na Súmula 85/STJ. 2. No caso emprega-se o prazo prescricional previsto no Decreto 20.910/1932. No entanto, por se tratar de relação jurídica de trato sucessivo, só estarão prescritas as prestações vencidas antes dos cinco anos anteriores à propositura da ação.
+Nesse sentido direciona-se a Súmula 85 do STJ. Portanto, não se aplica a prescrição do fundo de direito nas alterações salariais oriundas da conversão de Cruzeiro Real para Unidade Real de Valor -URV.
+3. O Superior Tribunal de Justiça entende que o provimento de recurso interposto tem o condão de inverter de modo automático os honorários anteriormente fixados.
+4. Agravo Interno não provido”. (AgInt no REsp 1576470/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 1o do Decreto n. 20.910/32 e 189 do Código Civil, bem como ao art. 22 da Lei n. 8.880/94, visto que os entendimentos expostos no acórdão recorrido encontram-se em sintonia com as orientações sedimentadas no STJ.
+Por fim, consigne-se que, embora a Súmula n. 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 05 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
