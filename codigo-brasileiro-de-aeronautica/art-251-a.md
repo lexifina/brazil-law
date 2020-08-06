@@ -1,0 +1,1 @@
+Art. 251-A. A indenização por dano extrapatrimonial em decorrência de falha na execução do contrato de transporte fica condicionada à demonstração da efetiva ocorrência do prejuízo e de sua extensão pelo passageiro ou pelo expedidor ou destinatário de carga.
