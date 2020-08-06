@@ -1,0 +1,15 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Homicídio duplamente qualificado. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 599.951, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, preso preventivamente, foi pronunciado como incurso nas penas do art. 121, § 2º, I e IV, combinado com o art. 29, do Código Penal.
+    3. Contra a prisão cautelar, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro. Denegada a ordem, sobreveio impetração de HC no Superior Tribunal de Justiça (HC 599.951). O Relator, Ministro Ribeiro Dantas, indeferiu o pedido de liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que o “paciente encontra-se segregado por prisão cautelar há mais de 3 (três) anos nos autos da ação penal sem que haja culpa formada numa autêntica execução antecipada de pena, em afronta ao consagrado Princípio da Presunção de Inocência”. Aponta “afronta ao parágrafo único do artigo 316, incluído pela Lei 13964/2019”, bem como ressalta que “não mais subsistem os requisitos mínimos para a manutenção da prisão preventiva decretada no ano de 2009 acerca de fato ocorrido no ano de 2008, em ação penal onde todas as testemunhas já foram ouvidas [...]”; e que “não foi justificada concreta e adequadamente em que medida a liberdade do paciente poderia comprometer a ordem pública ou a sociedade, ou, ainda, a aplicação da lei penal, bem como a insuficiência das medidas previstas no art. 319 do Código de Processo Penal”.
+    5. A defesa requer a concessão da ordem, “assegurando ao paciente o Direito de responder os termos da ação penal em liberdade”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. O caso de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a imediata revogação da custódia cautelar. Isso porque, para além de verificar que a hipótese é de crime grave (homicídio duplamente qualificado); observo a informação de que “o paciente permaneceu foragido por aproximadamente 08 (oito) anos” (edoc. 2, p. 5). A recomendar que se aguarde o pronunciamento definitivo do Superior Tribunal de Justiça, à vista das informações que forem prestadas pelo Juízo de origem.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 06 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
