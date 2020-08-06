@@ -1,0 +1,2 @@
+Autoriza a extinção de créditos tributários apurados na forma do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), mediante celebração de transação resolutiva de litígio; e prorroga o prazo para enquadramento no Simples Nacional em todo o território brasileiro, no ano de 2020, para microempresas e empresas de pequeno porte em início de atividade.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
