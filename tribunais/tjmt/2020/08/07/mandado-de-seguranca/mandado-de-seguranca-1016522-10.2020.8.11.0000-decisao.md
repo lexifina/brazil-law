@@ -1,0 +1,13 @@
+MANDADO DE SEGURANÇA n.o 1016522-10.2020.8.11.0000
+IMPETRANTE: BRUNO WENDEL DE OLIVEIRA DEL BARCO, CRISTHIAN LORHAN FERREIRA BORGES, ROBERTO COELHO DE LIMA, YARA CORREA DOS SANTOS, FERNANDA LEONEL MACHADO, HERNANDES DA SILVA MAGALHAES
+IMPETRADO: DIRETOR PRESIDENTE DA MATOGROSSO PREVIDENCIA -MTPREV, EXCELENTÍSSIMO SECRETÁRIO DE ESTADO DE GESTÃO
+Visto, em plantão.
+1. Trata-se de recurso de mandado de segurança, com pedido de efeito suspensivo, impetrado por Bruno Wendel de Oliveira Del Barco e outros contra o ato coator, atribuído ao Secretário de Estado de Planejamento e Gestão de Mato Grosso e ao Diretor Presidente do MTPREV, consubstanciado na aplicação, na sua folha de pagamento do percentual de 14% (quatorze por cento), a partir de 01 de junho de 2020, a título de desconto previdenciário.
+Entretanto, após a análise da situação concreta, verifica-se que a matéria versada no presente recurso escapa à competência do Plantão Judiciário, não fazendo parte das exceções do disposto no inciso “f” do art. 1o, da Resolução n. 71/2009-CNJ, textualmente, “(...)que não possa ser realizado no horário normal de expediente ou de caso em que da demora possa resultar risco de grave prejuízo ou de difícil reparação”, podendo, portanto, o exame do pedido de liminar aguardar a retomada do expediente, sem que isso cause prejuízo.
+Consigno, ainda, que o Plantão Judiciário visa atender medidas urgentes e que tenham ocorrido no seu funcionamento, de modo a assegurar a continuidade da prestação jurisdicional devida aos cidadãos que dela possam necessitar, e que não possam aguardar a retomada do expediente normal sem manifesto prejuízo à parte interessada, nos termos do art. 1o, § 1o, da Resolução no 006/2009/TRIBUNAL PLENO, todavia, não pode ser considerado como uma extensão do expediente forense normal e apreciar todas as pretensões sem fundamento de lesão grave e de difícil reparação, sob pena de ferir o princípio do juízo natural.
+Diante do exposto, inexistente, pois, qualquer situação de risco efetivo de perecimento definitivo e irrecuperável de qualquer direito ou interesse precioso dos impetrantes, eis que a situação aqui exposta, conforme já dito, apresenta-se bem distanciada de qualquer das hipóteses que autorizam a intervenção do plantonista, podendo o pleito aguardar tranquilamente a distribuição regular e a atuação natural do relator a ser designado na forma regimental.
+Assim, devolvo os autos à secretaria, a fim de que, no expediente regular, seja encaminhado com os autos ao Departamento Judiciário Auxiliar para distribuição na forma regimental.
+Cumpra-se, anotando-se o necessário.
+Cuiabá, 07 de agosto de 2020.
+Desembargadora Maria Aparecida Ribeiro
+Plantonista
