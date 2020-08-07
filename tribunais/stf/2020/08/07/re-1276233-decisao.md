@@ -1,0 +1,16 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado do Piauí contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “AGRAVO.
+    SOCIEDADE DE ECONOMIA MISTA. EMGERPI. PRIVILÉGIO. FAZENDA PÚBLICA. REGIME DE PRECATÓRIO. INAPLICABILIDADE. NÃO PROVIMENTO.
+    A Constituição Federal não garantiu às empresas públicas e sociedades de economia mista prestadoras de serviço público os privilégios concedidos à Fazenda Pública, sendo necessário, portanto, previsão legal específica nesse sentido.
+    Não há registro de que a Lei Complementar Estadual 83/2007 – instituidora da EMGERPI – tenha estabelecido que a ela fossem aplicadas tais prerrogativas. Nesse contexto, eventual irresignação dessa empresa, na fase de execução, exige a garantia do juízo, consoante dispõe o artigo 884 da CLT.
+    Desse modo, o reclamado não se beneficia da execução mediante precatório, pois se trata de uma sociedade de economia mista, submetida, portanto, ao regime próprio das empresas privadas, nos termos do artigo 173, § 1º, II, da Constituição Federal. Precedentes.
+    Agravo a que se nega provimento.” (grifei)
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a ADPF 387/PI, Rel. Min. GILMAR MENDES, fixou entendimento que torna acolhível a pretensão deduzida pela parte ora recorrente:
+    “Arguição de descumprimento de preceito fundamental. 2. Ato lesivo fundado em decisões de primeiro e de segundo graus do Tribunal Regional do Trabalho da 22ª Região que determinaram bloqueio, penhora e liberação de valores oriundos da conta única do Estado do Piauí, para pagamento de verbas trabalhistas de empregados da Empresa de Gestão de Recursos do Estado do Piauí S/A (EMGERPI). 3. Conversão da análise do pedido de medida cautelar em julgamento de mérito. Ação devidamente instruída. Possibilidade. Precedentes. 4. É aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Precedentes. 5. Ofensa aos princípios constitucionais do sistema financeiro e orçamentário, em especial ao da legalidade orçamentária (art. 167, VI, da CF), aos princípios da independência e da harmonia entre os Poderes (art. 2º da CF) e ao regime constitucional dos precatórios (art. 100 da CF). 6. Arguição de descumprimento de preceito fundamental julgada procedente.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    Publique-se.
+    Brasília, 07 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
