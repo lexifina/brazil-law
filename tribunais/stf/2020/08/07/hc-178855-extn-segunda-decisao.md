@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de pedido de extensão de ordem concedida nos autos em epígrafe (eDOC 5), formulada por Jonathan Lopes Martins Moreira (Pet. STF 76284/2019). O requerente sustenta, em síntese, a similitude entre sua situação fática e aquela do paciente. Para tanto assentou: “Excelentíssimo Ministro Gilmar Mendes, podemos observar que a decisão que converteu a prisão em flagrante em preventiva realmente restou carente de fundamentação, conforme exposto na decisão transcrita.
+    Percebemos também que a decisão foi utilizada para a manutenção da custódia cautelar de todos os denunciados, inclusive a de Jonathan Lopes Martins Moreira, desta maneira, tendo em vista não se tratar de condições subjetivas a ordem deve ser estendida aos demais interessados.
+     Como se sabe, a eficácia extensiva das decisões benéficas - que tem fundamento normativo no art. 580 do CPP - permite a extensão de tais decisões, quando proferidas em sede recursal, se fundadas "em motivos que não sejam de caráter exclusivamente pessoal", como ocorre no caso em apreço”. (…) EM CARÁTER LIMINAR: O deferimento do presente writ e a revogação da prisão decretada, com fulcro no art. 5º, inc. LXV da Constituição da República Federativa do Brasil e artigo 580 do Código de Processo Penal, com a expedição imediata de ALVARÁ DE SOLTURA, na finalidade de responder o processo em liberdade.
+    EM DECISÃO DEFINITIVA DE MÉRITO: A CONCESSÃO DA ORDEM DE HABEAS CORPUS para garantir o direito de ir e vir do Paciente, nos termos dos artigos 5º, incisos LIV, LVII, LXV, LXVI e LXVIII da Constituição da República Federativa do Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001.
+    O documento pode ser acessado pelo endereço http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-CEE7-105E-569F e senha 4EF6-81D6-0EF5-FF0D HC 178855 EXTN-SEGUNDA-MC / MG Brasil c/c art. 7º, item 5 e art. 8º, item 1 do Pacto São José da Costa Rica – Dec. 678/92 c/c artigos 647 e 648, incisos II e IV do Código de Processo Penal, reconhecendo-se a ilegalidade da custódia e determinando-se o RELAXAMENTO DA PRISÃO com a expedição imediata de ALVARÁ DE SOLTURA.
+    Subsidiariamente, caso os Eméritos Julgadores não entendam no sentido do relaxamento de prisão, a LIBERDADE PROVISÓRIA, por ausência dos requisitos descritos no art. 312 do Código de Processo Penal”. (eDOC 14)
+    É o breve relatório.
+    Passo a decidir. Preliminarmente, assevero que muito embora o requerente figure na mesma ação penal que o paciente (Proc. 0084047-04.2019.8.13.0518), em trâmite na 1ª Vara Criminal e de Execuções Penais da Comarca de Poços de Caldas/MG, a situação fática não guarda similitude.
+    Isso porque o paciente Victor Hugo da Silva é primário e sem antecedentes criminais, enquanto que o requerente possui condenação pelos delitos de tráfico de drogas e associação para o tráfico (eDOC 15).
+     Ademais, a extensão da decisão de liminar, com fundamento no art. 580 do CPP, no caso de concurso de agentes, somente é possível se fundado em motivos que não sejam de caráter exclusivamente pessoal, o que não ocorre na espécie.
+    Dessa forma, tenho que a situação do requerente da extensão não é similar àquela do paciente, conforme dispõe o artigo 580 do CPP.
+    Ante o exposto, indefiro o presente pedido de extensão de liminar.
+    Publique-se.
+    Brasília, 7 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
