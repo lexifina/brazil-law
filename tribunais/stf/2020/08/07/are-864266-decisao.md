@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. DÉCIMO TERCEIRO SALÁRIO. VALETRANSPORTE 1. A teor da Súmula 207 do STF, o décimo terceiro salário possui natureza salarial, o que, aliás, não se transmuta pelo fato de ser pago quando da extinção do contrato de trabalho, uma vez que tem por base o número de meses efetivamente trabalhados. 2. Não há incidência de contribuição previdenciária sobre as verbas pagas a título de vale-transporte, face ao caráter não salarial do benefício. Precedentes do STF e do STJ”. (eDOC 1, p. 204)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 93, IX; 2º; 5º, XXXV, XXXVI , LIV e LV; 150, I; 195, I, alínea a e § 5º; e 201, § 3º, § 4º e § 11, do texto constitucional.
+    Nas razões recursais, sustenta-se a inexistência de relação jurídico-tributária entre a parte recorrente e o Fisco que legitime a exigência das contribuições sociais previdenciárias patronais incidentes sobre o valor pago aos seus empregados a título de décimo terceiro salário. Argumenta-se a inconstitucionalidade da incidência de contribuição previdenciária sobre a gratificação natalina.
+    Inicialmente, determinei a devolução dos autos ao TRF da 2ª Região, para que se cumprisse o disposto no art. 543-B do CPC/1975 (atual art. 1.036 do CPC de 2015), uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelos temas 163 e 339 da sistemática da repercussão geral, cujos paradigmas são, respectivamente, o RE-RG 593.068; e o AI-QO-RG 791.292 (eDOC 3)
+    Encaminhados os autos, o Tribunal de origem devolveu o processo ao STF, por considerar que a questão debatida não se amolda ao paradigma indicado (eDOC 7).
+    É o relatório.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Decido.
+    A irresignação não merece prosperar.
+    Na hipótese, a parte recorrente sustenta a não incidência da contribuição previdenciária sobre os valores pagos a título de décimo terceiro salário.
+    Entretanto, o entendimento desta Corte é no sentido de ser legítima a incidência da contribuição previdenciária sobre citada verba, nos termos da Súmula 688 deste Supremo Tribunal Federal, segunda a qual “É legítima a incidência da contribuição previdenciária sobre o 13º salário”.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. INCIDÊNCIA SOBRE DÉCIMO TERCEIRO SALÁRIO. SÚMULA N. 688 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.243.584 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 20.3.2020)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. DÉCIMO-TERCEIRO. POSSIBILIDADE. SÚMULA 688. INCIDÊNCIA. 1. É entendimento sumulado nesta Corte a possibilidade de incidência da contribuição previdenciária sobre o décimo-terceiro. Aplicação da Súmula 688 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Incabível a aplicação do disposto no art. 85, § 11, do CPC (Súmula 512 do STF)”. (ARE 1.081.699 AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe 27.3.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. INCIDÊNCIA. DÉCIMO TERCEIRO SALÁRIO. POSSIBILIDADE. SÚMULA Nº 688 DO STF. VALORES PAGOS A TÍTULO DE FÉRIAS GOZADAS. NATUREZA JURÍDICA DAS PARCELAS PAGAS AOS EMPREGADOS. ALCANCE DA EXPRESSÃO “FOLHA DE SALÁRIOS”. MATÉRIA QUE AGUARDA EXAME SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 20. RE 565.160. AGRAVO REGIMENTAL DESPROVIDO. REITERADA A DEVOLUÇÃO DO FEITO À ORIGEM QUANTO À QUESTÃO SUBMETIDA À SISTEMÁTICA DA REPERCUSSÃO GERAL (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF)”. (RE 938.150 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 25.4.2016)
+    Ante o exposto, torno sem efeito a devolução constante no eDOC 4 e nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
