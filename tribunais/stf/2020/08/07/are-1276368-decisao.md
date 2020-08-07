@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. PENSÃO POR MORTE. FILHA SOLTEIRA, MAIOR DE 21 ANOS. LEI 3.373/58. ACÓRDÃO Nº 2.780/2016-TCU. DEPENDÊNCIA ECONÔMICA. REQUISITO NÃO PREVISTO NA LEGISLAÇÃO VIGENTE À ÉPOCA DO ÓBITO DO INSTITUIDOR. PRECEDENTES. APELAÇÃO E REMESSA IMPROVIDAS.
+    1. Apelação e remessa em face de sentença que concedeu a segurança, confirmando os termos da liminar, para determinar que a requerida se abstenha de proceder ao cancelamento da pensão por morte percebida pela impetrante, deferida sob a égide da Lei 3.373/1958.
+    2. A Lei nº 3.373/58, em vigor à época do óbito do instituidor do benefício, dispunha que somente a investidura em cargo público permanente teria o condão de suspender o recebimento de pensão civil por filha solteira maior de 21 anos.
+    3. Considerando que a impetrante apresentou à Administração documentação comprovando que mantém o estado civil de solteira, tem-se que a mera circunstância de manter vínculo com sociedade empresarial não pode ensejar a perda da pensão civil por ela recebida, à míngua, sobretudo, de dispositivo legal que imponha essa providência.
+    4. Descabida, pois, a conduta administrativa no sentido de suprimir o benefício percebido pela recorrida, sob a alegação de que passou a inexistir a dependência econômica frente ao instituidor, quando a lei vigente à época do óbito não previa tal requisito.
+    5. Precedentes desta Corte Regional.
+    6. Apelação e remessa oficial desprovidas.” (grifei)
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, pois a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 877.530-AgR/DF, Rel. Min. ROSA WEBER – ARE 1.135.278-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.138.129/PE, Rel. Min. ALEXANDRE DE MORAES – ARE 1.158.308- -AgR/PE, Rel. Min. MARCO AURÉLIO – ARE 1.188.141/PE, Rel. Min. LUIZ FUX – ARE 1.202.642-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.240.145-ED-AgR/RJ, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Pensão por morte. Filha solteira maior de 21 anos. Requisitos necessários à percepção do benefício. Preenchimento. Discussão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. É inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame do conjunto fático- -probatório da causa (Súmula nº 279/STF).
+    2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.”
+    (ARE 1.205.821-AgR/RJ, Rel. Min. DIAS TOFFOLI - grifei)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 07 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
