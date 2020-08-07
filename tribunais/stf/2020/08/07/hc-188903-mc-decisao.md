@@ -1,0 +1,20 @@
+DECISÃO: O exame da presente causa evidencia a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto deste “writ” constitucional.
+    É que, ao prestar as informações que lhe foram solicitadas, o Juízo da 2ª Vara Penal da comarca de Castanhal/PA noticiou o que se segue:
+    “X. Em 29 de julho último, esta autoridade judiciária teve ciência da decisão do ETJ/PA, a qual concedeu o pedido de liminar no remédio heroico nº 0807640-59.2020.8.14.0000 e substituiu a prisão preventiva por domiciliar, com monitoramento eletrônico pelo período de três meses.
+    Na mesma data, esta autoridade judiciária cumpriu a ‘decisum’ e expediu alvará de soltura.”
+    A existência dessa informação oficial assume relevo processual indiscutível na presente causa. E a razão é uma só: precisamente porque constante de documento subscrito por agente estatal, essa informação deve prevalecer, pois, como se sabe, as declarações emanadas de servidores públicos gozam, quanto ao seu conteúdo, da presunção de veracidade, consoante assinala o magistério da doutrina (CELSO ANTÔNIO BANDEIRA DE MELLO, “Curso de Direito Administrativo”, p. 373, item n. 59, 13ª ed., 2001, Malheiros; MARIA SYLVIA ZANELLA DI PIETRO, “Direito Administrativo”, p. 182/184, item n. 7.6.1, 20ª ed., 2007, Atlas; DIOGENES GASPARINI, “Direito Administrativo”, p. 63, item n. 7.1, 1989, Saraiva; JOSÉ CRETELLA JÚNIOR, “Direito Administrativo Brasileiro”, p. 54, item n. 43, 1999, Forense; JOSÉ DOS SANTOS CARVALHO FILHO, “Manual de Direito Administrativo”, p. 116, item n. 2, 12ª ed., 2005, Lumen Juris).
+    Esse entendimento – que põe em evidência o atributo de veracidade inerente aos atos emanados do Poder Público e de seus agentes – é perfilhado, igualmente, pela jurisprudência do Supremo Tribunal Federal (RTJ 86/212 – RTJ 133/1235-1236 – RTJ 161/572-573, v.g.), notadamente quando tais declarações compuserem e instruírem as informações prestadas pela própria autoridade apontada como coatora:
+    “– As informações prestadas em mandado de segurança pela autoridade apontada como coatora gozam da presunção  ‘juris tantum’ de veracidade.”
+    (MS 20.882/DF, Rel. Min. CELSO DE MELLO)
+    Com efeito, a ocorrência do fato ora noticiado, como anteriormente referido, assume relevo processual, eis que faz instaurar, na espécie, situação de prejudicialidade, apta a gerar a extinção deste processo de “habeas corpus”, em face da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que tal orientação encontra apoio na jurisprudência do Supremo Tribunal Federal (RTJ 132/1185, Rel. Min. OCTAVIO GALLOTTI – HC 55.437/ES, Rel. Min. MOREIRA ALVES – HC 58.903/MG, Rel. Min. CUNHA PEIXOTO – HC 64.424/RJ, Rel. Min. NÉRI DA SILVEIRA – HC 69.236/PR, Rel. Min. PAULO BROSSARD – HC 74.107/SP, Rel. Min. MAURÍCIO CORRÊA – HC 74.457/RN, Rel. Min. NÉRI DA SILVEIRA – HC 80.448/RN, Rel. Min. SEPÚLVEDA PERTENCE – HC 84.077/BA, Rel. Min. GILMAR MENDES – RHC 82.345/RJ, Rel. Min. MAURÍCIO CORRÊA, v.g.), cabendo destacar, entre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em análise:
+    “Superados os motivos de direito ou de fato que configuravam situação de injusto constrangimento à liberdade de locomoção física do paciente, e afastada, em consequência,  a possibilidade de ofensa ao seu ‘status libertatis’, reputa-se prejudicado o ‘habeas corpus’ impetrado em seu favor. Precedentes.”
+    (RTJ 141/502, Rel. Min. CELSO DE MELLO)
+    “– A superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo.”
+    (RHC 83.799-AgR/CE, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e tendo em consideração as razões expostas, julgo  prejudicado o presente “habeas corpus”, inviabilizando-se, em consequência, a apreciação do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 07 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
