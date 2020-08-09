@@ -1,0 +1,20 @@
+Visto.
+Na petição de id. 51295483, o agravante, afirmando que, atualmente, a posse do imóvel rural denominado “Antiga Tapera do Pau a Pique” pertence à União Federal, pleiteia a remessa destes autos à Justiça Federal da Subseção Judiciária de Cáceres.
+Salienta que, conforme decisão proferida nos autos do Recurso de Agravo de Instrumento de no 1013406-11.2020.4.01.0000, em trâmite perante o Tribunal Regional Federal da Primeira Região, foi deferida a antecipação de tutel para que a União fosse imitida na posse do imóvel rural em que o ora agravante litiga com os ora agravados nos autos da Ação de Manutenção de Posse de no 13980-93.2009.811.0041.
+Manifestação dos ora agravados (i. 51476454).
+É o que basta relatar.
+De pronto indefiro o pedido retro.
+A um porque, se já decidido anteriormente pela própria Justiça Federal a sua incompetência para processar e julgar a Ação de Manutenção de Posse de no 13980-93.2009.811.0041, evidentemente, também, que nenhuma competência há da justiça especializada para a análise deste requerimento, o qual somente objetiva a concessão de efeito suspensivo ao recurso de apelação interposto pelo agravante na supramencionada ação possessória.
+A propósito, vejamos o excerto da sentença proferida na Ação de Manutenção de Posse de no 13980-93.2009.811.0041 (id. 21278475 – pág. 13):
+“Às fls. 826/827, o Juízo da 1a Vara Federal da Subseção Judiciária de Cáceres-MT, reconheceu a inexistência de interesse jurídico do INCRA ou da União para atuar nesta ação, mantendo a competência a Justiça Estadual.”
+E, a dois, porque na própria decisão proferida nos Autos do Recurso de Agravo de Instrumento de no 1013406-11.2020.4.01.0000, em trâmite perante o Tribunal Regional Federal da Primeira Região, restou decidido que:
+“Consoante já frisado na Decisão de fls. 254/255, este feito versa sobre ação declaratória de nulidade de título de domínio que, reflexamente, atingirá o direito de propriedade do imóvel sub judice.
+O pedido liminar, por sua vez, de imissão na posse é a via adequada para quem adquire a propriedade por meio de título registrado possa investir-se na posse pela primeira vez.
+É sabido que os direitos de posse e propriedade são autônomos, distintos, muito embora possam estar concentrados e exercidos no mesmo titular. Nesse sentido, o enunciado 79 da jornada de direito civil do Conselho da Justiça Federal: A exceptio proprietatis, como defesa oponível às ações possessórias típicas, foi abolida pelo Código Civil de 2002, que estabeleceu a absoluta separação entre os juízos possessório e petitório.
+Logo, a posse buscada nesta ação pressupõe ser o requerente proprietário do bem.
+Por outro lado, as ações possessórias, tal qual a em trâmite na Vara Agrária da Justiça Estadual do Mato Grosso, tem natureza pessoal e, portanto, a competência para sua apreciação leva em consideração as pessoas envolvidas no litígio. Na situação apresentada, foi proferida sentença pelo Juízo competente quanto à posse, ou seja, quanto a quem deva de fato exercer algum(s) dos poderes inerentes à propriedade.
+Qualquer insurgência deve ser levada àquele juízo, através da vias recursais próprias – dentro da organização judiciária segundo a Constituição Federal e as normas processuais aplicáveis. Isso porque apenas nos casos de competência em razão da matéria ou das pessoas, nos termos do artigo 109 da Constituição Federal, é que seriam aptos a levar à apreciação da Justiça Federal
+Segundo a jurisprudência pacificada pelo e. Tribunal Regional Federal da 1.o Região, a União não tem interesse jurídico nas ações possessórias quando interferem no feito com base em alegações de domínio, uma vez que nas possessórias se restringe apenas a discutir a posse, não se afigurando cabível a sua intervenção com base em objeto distinto, qual seja, a propriedade.” (Grifo nosso).
+Portanto, tendo em conta que o pedido do agravante, a fim de que este requerimento seja remetido à Justiça Federal, não tem qualquer respaldo jurídico, indefiro o pedido, como dito em linhas acima.
+Publique-se e intimem-se.
+Cumpra-se.
