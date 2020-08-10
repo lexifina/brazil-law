@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de São Paulo, modificando em parte o entendimento do Juízo, julgou procedente o pedido de indenização por extravio de bagagem, afastando a prescrição. No extraordinário, o recorrente alega a violação dos artigos 5º, § 2º, e 178 da Constituição Federal. Sustenta a incidência do prazo prescricional bienal previsto na Convenção de Montreal. Afirma a existência de nulidade em razão da aplicação do Código de Defesa do Consumidor.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    Ainda que se admitisse a aplicação da convenção de Varsóvia/Montreal, a prescrição bienal não estaria consumada. Vejamos:
+    O procedimento administrativo para localização da bagagem foi aberto no dia 17.06.2015 ( data do extravio) encerrado pela empresa aérea em 26.11.2015 ( data do depósito do valor de R$ 5.866,89 referente aos danos materiais (pág.81). A ação foi ajuizada em 30.10.2017, ou seja, dentro do prazo bienal.
+    Ainda que considerada a aplicação da convenção, o prazo prescricional de 2 anos seria afastado com aplicação da acta nata.
+    Explico. Nem sempre aquele que toma conhecimento da violação de seu direito está dentro do prazo de pretensão previstos nos artigos 205 e 206 do Código Civil, art. 27 do CDC ou do prazo bienal da Convenção, situação esta que transgride diretamente os princípios basilares desse mesmo diploma legal, a saber: eticidade, socialidade e boa-fé.
+    Isso porque, por meio dessa teoria, o reconhecimento da pretensão de ajuizar a ação só pode ter sua exigibilidade fulminada pela prescrição caso a parte lesada tenha tomado efetivo conhecimento do fato.
+    Neste sentido, Flávio Tartuce afirma que a tese da actio nata com viés subjetivo é mais justa diante do princípio da boa-fé, especialmente com a valorização da informação derivada desse regramento (TARTUCE, Flávio, Op. Cit., 2015, p. 469).
+    Cristiano Chaves e Nelson Rosenvald vão na mesma esteira, ponderando que:
+    [...] a tese da actio nata, reconhecida jurisprudencialmente, melhor orienta a questão. Efetivamente, o início da fluência do prazo prescricional deve decorrer não da violação, em si, de um direito subjetivo, mas, sim, do conhecimento da violação ou lesão ao direito subjetivo pelo respectivo titular: Com isso, a boa-fé é prestigiada de modo mais vigoroso, obstando que o titular seja prejudicado por não ter tido conhecimento da lesão que lhe foi imposta. Até porque, e isso não se põe em dúvida, é absolutamente possível afrontar o direito subjetivo de alguém sem que o titular tenha imediato conhecimento [...] (FARIAS, Cristiano Chaves; ROSENVALD, Nelson. Curso de direito civil. Parte Geral e LINDB, Volume I, 13ª ed. São Paulo: Atlas, 2015. p. 622).
+    A bagagem foi extraviada em 17.06.2015 e o fim do procedimento para sua localização se deu apenas em 26.11.2015 (pág.81), após a autora ter tomado pleno e total conhecimento do efetivo prejuízo sofrido (pág.29/31), conforme bem destacado pela autora na pág.346 (CR da Autora) e admitido pela empresa ré, conforme pág.365 ( CR da ré).
+    Por esse motivo, a adoção da teoria da actio nata, além de vislumbrar os princípios da eticidade, socialidade e boa-fé, se mostra, de igual forma, mais adaptada a realidade social, pois, por meio do seu bom emprego, ainda que fosse aplicada a convenção de Montreal/Varsóvia, não se permitiria que a autora fosse penitenciada por uma inércia a que não deu ensejo (demora para a efetiva localização da bagagem e seu ressarcimento material).
+    Divergir do acórdão recorrido no tocante à prescrição demandaria o reexame do quadro fático. As razões do extraordinário partem de pressupostos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, somente pela análise da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 10 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
