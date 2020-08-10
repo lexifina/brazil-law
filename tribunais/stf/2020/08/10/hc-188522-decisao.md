@@ -1,0 +1,35 @@
+Habeas corpus. Execução penal. Renovação de permanência de integrante de facção criminosa em regime disciplinar diferenciado no sistema prisional federal. Não se conhece de habeas corpus impetrado contra decisão monocrática, indeferitória de writ, do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Ato apontado coator parametrizado com a jurisprudência do Supremo Tribunal Federal no sentido de que não se conhece de habeas corpus impetrado contra indeferimento de liminar em outro writ. Ratio da Súmula 691/STF.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Daniel Perpetuo Macedo em favor de Valdeci Francisco Costa, contra decisão monocrática da lavra da Ministra Laurita Vaz, que indeferiu liminarmente o HC 591.574/DF (evento 8).
+    No curso da execução penal, o paciente, integrante de facção criminosa, foi incluído em regime disciplinar diferenciado no sistema prisional federal. O Juízo Federal da 7ª Vara Federal Criminal da Seção Judiciária do Estado de Rondônia, ao apreciar pedido de renovação da permanência do apenado em estabelecimento penal federal, solicitou o encaminhamento de documentação complementar junto ao juízo competente do Estado de São Paulo.
+    Extraio do ato dito coator:
+    “(...).
+    O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na Instância de origem, sob pena de indevida supressão de instância.
+    É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (AgRg no HC 446.100/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 21/05/2018; e AgRg no HC 444.105/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 21/05/2018).
+    A despeito de tal óbice processual, tem-se entendido, que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado – tarefa a ser desempenhada caso a caso.
+    Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, suprimindo a competência da Inferior, subvertendo a regular ordem do processo.
+    No caso, não houve, na decisão impugnada, ilegalidade patente que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal – cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça. Destaco do decisum o seguinte trecho (fls. 22-23):
+    ‘Com efeito, no caso, cuida-se de preso que, em princípio, foi regularmente incluído em Regime Disciplinar Diferenciado - RDD em presídio de Segurança Máxima Federal, tratando-se de preso que integra a facção criminosa PCC - Primeiro Comando da Capital. Agora, cuida-se dos trâmites necessários para a eventual manutenção do paciente no referido regime ou seu retorno ao Estado de São Paulo.
+    Verifico que o Juiz Federal Corregedor da Penitenciária Federal em Porto Velho solicitou ao Juízo de origem o encaminhamento da documentação complementar necessária para a manutenção do paciente no sistema penitenciário federal em Rondônia, não havendo, conforme já dito, qualquer discussão sobre eventual concessão de liberdade ao paciente:
+    [...]
+    Assim sendo, não vislumbro situação de urgência (periculum in mora) a autorizar a concessão da liminar pleiteada.
+    Pelo exposto, INDEFIRO a liminar.
+    Colham-se as informações da autoridade impetrada (prazo: 5 dias).
+    Após, à PRR/1ª Região para parecer’.
+    Desse modo, é inviável que esta Corte Superior se antecipe ao Tribunal estadual no exame da matéria.
+    Diante do que registrado acima – em que não se observa, ao menos primo ictu oculi, nenhuma teratologia –, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n. 691/STF, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+    Assim, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+    Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial”.
+    No presente writ, o Impetrante pugna, preliminarmente, pelo afastamento da Súmula 691/STF. Alega, em síntese, que o magistrado federal não poderia ter solicitado ao juízo estadual a documentação complementar necessária para análise do pedido de renovação da permanência do paciente. Aponta a indevida renovação de permanência do paciente em estabelecimento prisional federal. Requer, na medida liminar e no mérito, o retorno imediato do paciente ao sistema prisional do Estado de São Paulo.
+    É o relatório.
+    Decido.
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte para indeferir liminarmente a impetração. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal Regional Federal, o qual indeferira liminar em habeas corpus impetrado naquela Corte.
+    Ao rejeitar o pedido liminar, o Tribunal Regional Federal não reputou presentes requisitos autorizadores para a imediata transferência do paciente de estabelecimento prisional federal para Penitenciária estadual, reservando a definição da matéria ao pronunciamento do colegiado.
+    Da decisão singular, a Defesa impetrou habeas corpus originário no Superior Tribunal de Justiça e, ante a negativa de seguimento, novo writ, desta feita neste Supremo Tribunal Federal. Constato, pois, não esgotada a jurisdição da Corte Superior, na medida em que o ato impugnado é decisão monocrática extintiva do writ, e não o resultado de julgamento colegiado.
+    Cumpriria à Defesa, pretendendo a reforma da decisão monocrática, ter aviado agravo regimental para que a questão fosse apreciada pelo órgão colegiado do STJ (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito do Tribunal Regional Federal; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
