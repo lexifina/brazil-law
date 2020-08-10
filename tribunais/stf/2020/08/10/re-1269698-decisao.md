@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à possibilidade de compensação dos valores recebidos a maior em decorrência de antecipação de tutela. No extraordinário, a recorrente alega violados os artigos 37 e 101, § 1º, da Constituição Federal. Afirma a prescrição da pretensão e a impossibilidade de repetição de verbas alimentares.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Extraio o seguinte trecho do acórdão recorrido:
+    Infere-se dos autos que: (a) a Administração não continuou efetuando o pagamento por erro, mas, sim, em virtude da demora do Judiciário na definição do termo final do pagamento da gratificação em paridade com os servidores da ativa (a despeito da existência de provocações anteriores do INCRA, tal definição só ocorreu em setembro de 2011 – OUT5 do evento 1 dos autos originários); (b) não se cuida de condenar o servidor à restituição de valores recebidos de boa-fé, de desconto de valores indevidamente recebidos no contracheque do servidor, ou seja, não se trata da necessidade de preservação de valores revestidos de caráter alimentar; (c) trata-se de compensação dos valores pagos a maior que o devido, no âmbito da liquidação do quantum debeatur, observado o limite do crédito do demandante, o que é permitido por lei (art. 368 do Código Civil); (d) no curso do processo em que proferida a decisão ora execução, quando instado a se manifestar acerca do termo final da liminar, o magistrado a quo dispôs expressamente acerca da possibilidade de compensação de eventuais valores pagos a maior: Em suma, de janeiro/2006 em diante, o INCRA está dispensado do pagamento de valores em decorrência do provimento liminar, sem prejuízo de eventuais atrasados e de compensação de eventuais valores pagos a maior, após a vigência da regulamentação referida – (OUT5 do evento 1 dos autos originários).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, somente pela análise da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 10 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
