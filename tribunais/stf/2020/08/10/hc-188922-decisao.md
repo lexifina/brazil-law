@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processual Penal. Habeas Corpus. Tráfico de drogas. Porte ilegal de munições. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 593.539, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que, em 01.05.2020, o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, c/c o art. 61, II, "j", da Lei 11.343/06 e no art. 16, caput, da Lei 10.826/03. Em 02.05.2020, a prisão foi convertida em prisão domiciliar. Em seguida, no ato do recebimento da denúncia, o Juízo de origem revogou a prisão domiciliar e concedeu a liberdade provisória ao paciente, “mediante as seguintes medidas cautelares, nos termos do art. 319 do CPP: I) comparecimento mensal em Juízo (a ser iniciado após a regularização do expediente forense); II) proibição de frequentar bares, boates e similiares; III) proibição de se ausentar da Comarca por mais de dez dias sem prévia comunicação ao Juízo”. Em 12.06.2020, foi revogada a decisão que concedeu a liberdade provisória e decretada a custódia cautelar do paciente.
+    3. Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio impetração de HC no Superior Tribunal de Justiça (HC 593.539). A Presidência da Corte Superior indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante afirma que, “a despeito da inexistência de qualquer pedido ministerial, em 15/06/2020, o r. juízo de origem decretou – DE OFÍCIO – a prisão preventiva do PACIENTE, em completa inobservância ao disposto no artigo 311 do Código de Processo Penal”.
+    5. A defesa requer a concessão da ordem a fim de “tornar insubsistente o édito prisional proferido de ofício, restabelecendo-se a liberdade do PACIENTE”.
+    6. Decido.
+    7.  Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. Além disso, as alegações da defesa não foram decididas pelas instâncias de origem (TJ/SP e STJ), o que impede o imediato exame da matéria pelo Supremo Tribunal Federal, sob pena de dupla supressão de instâncias.
+    10. As peças que instruem o processo não evidenciam ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
