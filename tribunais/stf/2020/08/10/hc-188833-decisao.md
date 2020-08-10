@@ -1,0 +1,15 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Pedido de prisão domiciliar. Deficiência na instrução. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, no qual o Superior Tribunal de Justiça é apontado como autoridade coatora.
+    2. Extrai-se dos autos que o Juízo da execução indeferiu o pedido de prisão domiciliar formulado em favor do paciente. Contra a decisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, sobreveio impetração de HC no Superior Tribunal de Justiça (HC 583.144). O Relator, Min. Nefi Cordeiro, indeferiu liminarmente o writ.
+    3. Neste habeas corpus, a parte impetrante aponta a situação de risco decorrente da pandemia do Coronavírus (Covid-19) e faz referência à Recomendação nº 62 do CNJ, destacando que o paciente “tem doença descrita como sendo do grupo de risco” e que os crimes a ele imputados não envolvem violência ou grave ameaça. Ademais, sustenta a ausência dos requisitos autorizadores para a custódia preventiva, ressaltando que “o paciente tem endereço certo e conhecido, não havendo nada a indicar que irá se furtar à aplicação da Lei Penal”.
+    4. A defesa requer a concessão da ordem a fim de “determinar a aplicação da prisão domiciliar”. Subsidiariamente, pleiteia “a prisão preventiva seja afastada mediante a imposição de uma ou mais medidas diversas da prisão, nos termos do ‘art. 319 do CPP’”.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. Inicialmente, registro que a petição inicial do habeas corpus não foi instruída com cópia do acórdão do Tribunal estadual e do Superior Tribunal de Justiça. Circunstância essa que atrai a orientação jurisprudencial do Supremo Tribunal Federal (STF) no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    8. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Isso porque, ao prestar informações a este Tribunal, o Juízo da Vara de Execuções Criminais da Comarca de Contagem/MG deixou consignado que, “nos autos de execução penal, EM MOMENTO ALGUM, juntou algum documento relativo ao estado de saúde ou sequer afirmou que o mesmo sofresse de alguma doença”. Ademais, assentou que “desde o início da pandemia, [...] realizou mutirão interno para verificar os casos de risco e colocação em prisão domiciliar”. Nessas condições, não tenho como saltar várias instâncias para infirmar os fundamentos adotados pelo magistrado da origem quanto à impossibilidade da prisão domiciliar, na concreta situação dos autos.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+           Relator
