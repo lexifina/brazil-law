@@ -1,0 +1,41 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Arthur Aparecido Pitaro, em favor de Jiltheglabem Andrade Santos, contra decisão proferida pelo Ministro Reynado Soares da Fonseca do Superior Tribunal de Justiça (STJ), que indeferiu a liminar no HC n. 596.912/SP.
+    Consta dos autos que o paciente foi preso cautelarmente pela suposta prática do delito descrito no art. 157, § 3º, do CP.
+    Irresignada, a defesa impetrou habeas corpus no TJSP postulando, em suma, a revogação da constrição cautelar.
+    A ordem foi denegada nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS. PRISÃO TEMPORÁRIA. Paciente investigado pela prática do delito tipificado no artigo 157, §3º, parte final, c/c. o 29, caput ambos do Código Penal. Decisão que determina a prisão temporária do paciente. Manutenção. Decreto de custódia plenamente justificado. Presença das hipóteses do artigo 1º, incisos I e III, alínea “a”, da Lei nº 7.960/89. Decisão de custódia bem lançada para preservar a correta apuração dos fatos e das graves imputações. ORDEM DENEGADA”. (eDOC 2, p. 135)
+    Daí a impetração de novo writ no STJ, que indeferiu o pedido liminar, pendente o julgamento do mérito. (eDOC 3)
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza o argumento no sentido de que o imputado sofre constrangimento ilegal em razão da carência de fundamentação concreta do decreto cautelar, reputando ausentes os requisitos autorizadores da medida.
+    É o relatório.
+    Passo a decidir.
+    Preliminarmente, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ. Conforme jurisprudência: HC (QO) 76.347/MS, Rel. Min. Moreira Alves, Primeira Turma, unânime, DJ 8.5.1998; HC 79.238/RS, Rel. Min. Moreira Alves, Primeira Turma, unânime, DJ 6.8.1999; HC 79.776/RS, Rel. Min. Moreira Alves, Primeira Turma, unânime, DJ 3.3.2000; HC 79.775/AP, Rel. Min. Maurício Corrêa, Segunda Turma, maioria, DJ 17.3.2000; e HC 79.748/RJ, Rel. Min. Celso de Mello, Segunda Turma, maioria, DJ 23.6.2000. E mais recentemente: HC-AgR 129.907/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, unânime, DJe 13.10.2015; HC-AgR 132.185/SP, por mim relatado, Segunda Turma, unânime, DJe 9.3.2016; HC 133.158/DF, Rel. Min. Dias Toffoli, DJe 11.3.2016; e HC 133.287/DF, Rel. Min. Luiz Fux, DJe 7.3.2016.
+    Essa conclusão está representada na Súmula 691 do STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    É bem verdade que o rigor na aplicação de tal entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais, em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, Primeira Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; HC 88.229/SE, Rel. Min. Marco Aurélio, Redator para acórdão Min. Ricardo Lewandowski, Primeira Turma, maioria, DJ 23.2.2007; HC 129.554/SP, Primeira Turma, unânime, Rel. Min. Rosa Weber, DJe 14.10.2015; e HC 129.872/SP, Segunda Turma, unânime, de minha relatoria, DJe 29.9.2015; e a seguinte decisão monocrática: MC-HC 85.826/SP).
+    Na hipótese dos autos, não vislumbro nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula 691 do STF.
+    Isso porque a prisão do acusado está lastreada na gravidade concreta do delito.
+    Cito, a propósito, trechos do acórdão proferido pelo STJ:
+    “É consabido que a liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+    Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+    O decreto prisional foi lavrado nos seguintes termos (e-STJ fls. 134/136):
+    ‘Depreende-se dos autos de origem que o paciente, juntamente com seu irmão, estão sendo investigados por suposto envolvimento no artigo 157, §3º, parte final, do Código Penal, tendo como vítima Aparecido Siqueira. A autoridade policial representou pela prisão temporária dos suspeitos, pedido deferido pelo juízo a quo em 20 de março de 2020.
+    Conforme apurado nos autos, o paciente e seu irmão Jilmedice Andrade Santos, teriam, em tese, subtraído cabeças de gado da vítima, avaliadas em R$ 26.900 (vinte e seis mil e novecentos), após rendê-lo e amarrá-lo em uma árvore, onde acabou falecendo.
+    Posteriormente, constatou-se que as cabeças de gado subtraídas foram vendidas para Antônio César Carretero e Mário Antonio Guizilini, tendo como vendedor uma pessoa alcunhada “Jil”. As negociações da venda foram realizadas por intermédio de Angela Maria Ramos, companheira de Jilmedice, mediante utilização de fotografias tiradas por JILTHEGLOBEM, apelidado por “Tetê”.
+    Testemunhas afirmaram que avistaram, em data próxima a morte da vítima, um dos investigados tocando uma parte do gado da vítima, durante a madrugada sob chuva, em atitude incomum e suspeita. Além disso, o acusado e seu irmão são conhecidos na região por envolvimento com subtração de gado.
+    Nesse sentido, a r. decisão não se apresenta teratológica, mas suficientemente fundamentada, apontando a autoridade de forma clara os motivos ensejadores da prisão temporária, tomando por base os indícios de autoria e materialidade do delito.
+    Com efeito, há prova da materialidade do crime de latrocínio e indícios de autoria, sendo necessária a prisão provisória para a conclusão da investigação e do inquérito policial, nos termos do art. 1º, incisos I e III, alínea “a”, da Lei n. 7.960/1989:
+    (…)
+    O paciente está sendo investigado pela prática de latrocínio, crime gravíssimo havendo fortes suspeitas de sua participação.
+    As circunstâncias e gravidade do caso recomendam a segregação nos termos da decisão impetrada, a fim de que se proceda à correta apuração dos fatos e das imputações sem o risco de interferência no curso da investigação.
+    Considera-se, inclusive, notícias de que o paciente teria agredido uma das testemunhas.
+    Importante consignar que o mandado de prisão expedido em desfavor do paciente e de seu irmão não foi cumprido, pois os investigados encontram-se atualmente em local incerto e não sabido.
+    A decisão, portanto, não é teratológica nem manifestamente ilegal não havendo, em consequência, constrangimento ilegal a ser afastado’.
+    Não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos e das informações a serem prestadas pela origem, para se aferir a existência de constrangimento ilegal.
+    Em princípio, parece que a segregação cautelar se justifica por conveniência da instrução criminal: o paciente permanece foragido, nos termos da decisão de indeferimento do pedido de revogação prisão temporária.
+    Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus.
+    Ante o exposto, indefiro o pedido liminar”. (eDOC 3)
+    Assim, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, e salvo melhor juízo na apreciação de eventual impetração de novo pedido de habeas corpus a ser distribuído nos termos da competência constitucional desta Corte (CF, artigo 102), deve-se aplicar a Súmula 691 do STF.
+    Ante o exposto, o nego seguimento ao habeas copus.
+    Publique-se.
+    Brasília, 10 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
