@@ -1,0 +1,36 @@
+Trata-se de reclamação proposta pelo Estado do Espírito Santo com pedido liminar contra decisão proferida pela 3ª Câmara Cível do Tribunal de Justiça local, nos autos do Agravo de Instrumento 00136683-03.2007.8.08.0024, por suposto desrespeito ao enunciado da Súmula Vinculante 10.
+    O reclamante informa que, na origem, o Sindicato das Empresas Particulares de Ensino do Estado do Espírito Santo – Sinepe/ES ajuizou ação declaratória de inexistência de relação jurídica cumulada com obrigação de não fazer em face do Estado e do Procon/ES, na qual “sustenta a inconstitucionalidade da Lei 11.144/2020, que dispõe sobre a redução proporcional das mensalidades da rede privada de ensino durante a pandemia da COVID-19” (pág. 2 da inicial).
+    Noticia que, após o indeferimento do pedido de concessão da liminar pelo Juízo de primeiro grau, foi concedido efeito suspensivo ativo ao agravo de instrumento interposto, “a fim de impedir que as modificações contratuais impetradas pela Lei Estadual n. 11.144/220 surtam efeitos aos associados do agravante, inclusive as sanções disciplinadas pela novel legislação” (pág. 272 do documento eletrônico 2).
+    É justamente contra essa decisão que se insurge o reclamante, apontando que, em suma, a eficácia do ato normativo foi suspensa monocraticamente, “com fundamento todos baseado na INCONSTITUCIONALIDADE DA LEI 11.144/2020” (pág. 10 da inicial), sem a sua declaração formal de nulidade, “o que viola o disposto no artigo 97 da Constituição Federal e na Súmula Vinculante nº 10” (pág. 11 da inicial).
+    Afirma ainda, que, a decisão atacada
+    “[...] altera do status quo vigente e ameaça decisão do STF em controle concentrado de constitucionalidade.
+    É fato notório que foram ajuizadas diversas ADIns tratando da mesma matéria, qual seja, da possibilidade de leis estaduais concederem descontos em mensalidades escolares.
+    A matéria ainda não é pacífica e está sob a análise do STF as ADI n° 6.423-CE, ADI n° 6.435-MA e ADI n° 6445-PA .
+    Em 5 de junho de 2020 foi ajuizada perante o Egrégio Supremo Tribunal Federal, a Ação Direta de Inconstitucionalidade n° 6.448-RJ, distribuída ao Excelentíssimo Senhor Ministro Ricardo Lewandowski, impugnando-se a Lei fluminense n° 8.864/2020, que possui a mesma questão jurídica” (pág. 13 da inicial).
+    Por isso, entende que “[...] há a necessidade de garantir a observância da decisão do STF no controle concentrado de constitucionalidade, assegurando uniformidade de entendimento sobre a matéria, na orientação que será adotada por essa Corte Suprema” (pág. 14 da inicial).
+    Ao discorrer sobre a necessidade da concessão de efeito suspensivo, assinala que, “considerando que a questão ainda está indefinida, recomenda-se que a situação jurídica seja mantida até o pronunciamento do STF sobre a matéria, fazendo prevalecer o Princípio de Presunção de Constitucionalidade das normas” (pág. 15 da inicial).
+    Por isso, requer a suspensão da decisão atacada. Ao final, pede a procedência da reclamação para cassar “a decisão proferida no Agravo de Instrumento que afastou a aplicação da lei ordinária estadual nº 11.144/2020” (pág. 16 da inicial).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, constato, de plano, a manifesta inadmissibilidade desta reclamação.
+    Na espécie, o reclamante pretende garantir a aplicação do verbete da Súmula Vinculante 10, que possui o seguinte teor:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    No entanto, como ressaltado pelo Ministro Luís Roberto Barroso, ao julgar a Rcl 16.920/DF, “a jurisprudência do Supremo Tribunal Federal se firmou no sentido de que a reserva de plenário (CF/88, art. 97; Súmula Vinculante nº 10) não é violada por decisão monocrática, proferida em sede cautelar, pelo relator de um processo”. Nesse sentido, transcrevo as seguintes ementas:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DECISÃO MONOCRÁTICA QUE INDEFERE MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. ALEGAÇÃO DE CONTRARIEDADE À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+    1. Indeferimento de medida cautelar não afasta a incidência ou declara a inconstitucionalidade de lei ou ato normativo.
+    2. Decisão proferida em sede cautelar: desnecessidade de aplicação da cláusula de reserva de plenário estabelecida no art. 97 da Constituição da República” (Rcl 10.864-AgR/AP, Rel. Min. Cármen Lúcia; grifei).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DECISÃO CAUTELAR MONOCRÁTICA QUE AFASTA A APLICAÇÃO DA LEI N. 9.452/2009 E CONCEDE EFEITO SUSPENSIVO AOS RECURSOS ORDINÁRIOS. ALEGAÇÃO DE CONTRARIEDADE À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL.
+    1. Decisão proferida em sede cautelar: desnecessidade de aplicação da cláusula de reserva de plenário estabelecida no art. 97 da Constituição da República.
+    2. Agravo regimental ao qual se nega provimento” (Rcl 8.848-AgR/CE, Rel. Min. Cármen Lúcia; grifei).
+    “Agravo regimental em reclamação. Paradigma extraído de ações de caráter subjetivo. Ausência de requisitos. Perfil constitucional da reclamação. Decisão cautelar. Ausência de violação da Súmula Vinculante nº 10. Agravo regimental não provido.
+    1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    2. Inadmissibilidade do uso da reclamação por alegada ofensa à autoridade do STF e à eficácia de decisão proferida em processo de índole subjetiva quando a parte reclamante não figurar como sujeito processual nos casos concretos versados no paradigma, pois não há obrigatoriedade de seu acatamento vertical por tribunais e juízos.
+    3. Decisão reclamada proferida em sede de decisão cautelar, a qual não tem o condão de declarar a inconstitucionalidade de norma, inserido-se a atuação monocrática do relator no poder geral de cautela inerente ao ato de julgar. Ausência de violação da Súmula Vinculante nº 10.
+    4. Agravo regimental não provido” (Rcl 15.220-AgR/MS, Rel. Min. Dias Toffoli; grifei).
+    Nessa linha, são os seguintes julgados: Rcl 29.550/MG, Rel. Dias Toffoli; Rcl 25.700/PB, de minha relatoria; e Rcl 20.124/SP, Rel. MIn. Teori Zavascki.
+    Ademais, observo que a simples tramitação de diversas ADIs, nas quais sejam discutidas a constitucionalidade de leis estaduais análogas à Lei 11.144/2020, do Estado do Espírito Santo, não autoriza, apenas por isso, o ajuizamento da reclamação constitucional, já que não estaria configurada a usurpação de competência desta Suprema Corte.
+    Ressalto, por fim, que a jurisprudência deste Tribunal é firme no sentido de que a reclamação não pode ser utilizada como sucedâneo de recurso ou de ação rescisória.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 10 de agosto de 2020.
+Ministro Ricardo Lewandowski
+Relator
