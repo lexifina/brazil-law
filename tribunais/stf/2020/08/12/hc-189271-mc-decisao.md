@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – AFASTAMENTO – COVID-19 – RELEVÂNCIA – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Federal da Subseção Judiciária de Ponta Porã/MS, no processo nº 0002486-04.2016.4.03.6005, determinou a prisão preventiva do paciente, ocorrida em 22 de setembro de 2018, ante a prática dos crimes previstos nos artigos 333 (corrupção ativa) e 334-A (contrabando) do Código Penal e 2º (integração a organização criminosa) da Lei nº 12.850/2013. Aludiu a conteúdo de interceptações telefônicas, por meio do qual evidenciado o envolvimento em organização criminosa especializada no contrabando de cigarros. Assentou demonstrado o esquema ilícito, ressaltando tratar-se de grupo com diversos integrantes, bem articulado, com participação de policiais rodoviários federais e atuação mediante divisão de tarefas e uso de armamento de grosso calibre. Destacou a proeminência do paciente, no que seria responsável por realizar a interlocução com agentes públicos. Concluiu indispensável a custódia para garantir a ordem pública, considerada a necessidade de cessar as atividades da organização criminosa, a instrução processual e a aplicação da lei penal, tendo em vista a atuação do grupo no Paraguai.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 590.910. O Relator indeferiu o pedido de liminar.
+    O impetrante sustenta ausente contemporaneidade a legitimar a manutenção da prisão preventiva. Diz que o paciente, observada a medida acauteladora implementada no habeas corpus nº 178.839, está em liberdade desde 11 de dezembro de 2020. Sublinha inexistir fato novo a respaldá-la. Aduz não praticado o crime mediante violência ou grave ameaça. Afirma não atribuído ao paciente papel de liderança na organização. Aponta adequado o afastamento, em razão da crise de saúde pública que assola o País. Menciona a Recomendação nº 62/2020 do Conselho Nacional de Justiça. Frisa as condições pessoais – primariedade, bons antecedentes, trabalho lícito e residência fixa.
+    Requer, no campo precário e efêmero, a revogação e, sucessivamente, a aplicação de cautelar diversa. No mérito, busca a confirmação da providência.
+    Em 5 de dezembro de 2019, Vossa Excelência, no habeas de nº 178.839, afastou a custódia do paciente e de corréus, observado o excesso de prazo. A Primeira Turma, em 18 de fevereiro de 2020, inadmitiu a impetração, tornando insubsistente a liminar implementada. Não consta informação de haver sido o paciente, após o pronunciamento do Colegiado, custodiado.
+    2. A atualidade da prisão, a sinalizar risco concreto à ordem pública, deve ser aferida em razão da permanência, ou não, do contexto fático a respaldá-la. O Juízo, ao determiná-la, reportando-se a conteúdo de interceptações telefônicas, destacou a proeminência do paciente em organização criminosa, uma vez responsável por realizar a interlocução com agentes públicos. Teve-a necessária para cessar as atividades do grupo, ainda operante, voltado ao contrabando de cigarros, possuidor de armas de grosso calibre e com divisões de tarefas entre os agentes. Considerados os fundamentos, mostra-se inviável concluir pela ausência de contemporaneidade.
+    A crise sanitária decorrente da pandemia de covid-19 é insuficiente a levar ao acolhimento da providência pretendida. Não há notícia de o paciente encontrar-se acometido de qualquer doença preexistente que possa se agravar a partir do contágio.
+    3. Indefiro a liminar.
+    4. O curso desta impetração não prejudica o habeas corpus nº 590.910, em tramitação no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao Relator, ministro Sebastião Reis Júnior.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 12 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
