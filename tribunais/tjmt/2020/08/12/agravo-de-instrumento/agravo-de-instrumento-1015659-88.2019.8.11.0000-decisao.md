@@ -1,0 +1,71 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NOS AUTOS DE AGRAVO DE INSTRUMENTO N. 1015659-88.2019.8.11.0000.
+RECORRENTE: LUIZ CARLOS ALECIO.
+RECORRIDA: ELIVETE PAULA ROEDER.
+Vistos, etc.
+Trata-se de Recurso Especial interposto por LUIZ CARLOS ALECIO, com fundamento no art. 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Terceira Câmara de Direito Privado, assim ementado (id. 34744489-TJ):
+“AGRAVO DE INSTRUMENTO – EXCEÇÃO DE PRÉ-EXECUTIVIDADE – TÍTULO EXECUTIVO EXTRAJUDICIAL – DILIGÊNCIAS PRATICADAS PELA PARTE INTERESSADA – NECESSIDADE DE INTIMAÇÃO PESSOAL DOS EXEQUENTES – ABANDONO NÃO VERIFICADO – PRESCRIÇÃO INTERCORRENTE NÃO EVIDENCIADA – RECURSO CONHECIDO E DESPROVIDO.
+Se o credor é diligente no sentido de impulsionar os autos, não há que se falar em prescrição da pretensão porque o prazo prescricional permanece interrompido desde o despacho que ordena a citação da parte ré.
+Vigora na jurisprudência o entendimento de que para o reconhecimento da prescrição intercorrente (em razão de inércia da parte interessada), deve ser realizada a prévia intimação pessoal da parte para dar prosseguimento ao feito, o que não ocorreu nos autos. (N.U. 1015659-88.2019.8.11.0000, DES. DIRCEU DOS SANTOS, TERCEIRA CÂMARA DE DIREITO PRIVADO, julgado em 19/02/20)”.
+O recurso de Embargos de Declaração foi rejeitado (id. 47454977-TJ).
+O Recorrente alega violação aos artigos 7o, 436, 636, 921, III, 924, IV, 1.022 e 1.056, do CPC, uma vez que para o reconhecimento da prescrição intercorrente não é necessária a intimação anterior do exequente para dar andamento ao processo.
+Recurso tempestivo (id. 50280981-TJ).
+Contrarrazões no id. 52816483-TJ.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Da decisão em conformidade com o entendimento do STJ. Súmula 83 do STJ
+A Súmula 83 do STJ preconiza que “Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a Recorrente alega violação aos artigos 921, III, 924, IV, e 1.056, do CPC, uma vez que para o reconhecimento da prescrição intercorrente não é necessária a intimação anterior do exequente para dar andamento ao processo.
+No acórdão impugnado ficou consignado que:
+“Da análise dos autos afere-se que a execução aviada pelos recorridos está aparelhada em instrumento particular de reconhecimento de dívida e notas promissórias, vencidos em 1996.
+Conforme bem ilustrou o juízo a quo, houve a interposição de Embargos de Terceiro pelo Banco do Brasil S/A, os quais obtiveram deferimento liminar para “suspender a execução”.
+A sentença proferida nos Embargos de Terceiro transitou em julgado em 27.02.2016 e, somente em 16.02.2018 foi determinada, nos autos da execução, a baixa da penhora dos imóveis hipotecados em favor do Banco do Brasil S. A.
+Em 14.05.2018, os herdeiros do exequente pleitearam a substituição processual, diante do falecimento deste, pedido deferido em 22.10.2018.
+Logo, verifica-se que os credores foram diligentes no sentido de impulsionar os autos, não havendo que se falar em prescrição da pretensão porque o prazo prescricional permanece interrompido desde o despacho que ordena a citação da parte ré.
+Ocorre a prescrição intercorrente apenas se o processo permanecer sem andamento em razão de fato que possa ser atribuído ao exequente, que deixa de diligenciar no sentido de fazer o processo prosseguir normalmente, permitindo o escoamento de prazo previsto em lei e descumprindo determinação judicial, após a sua intimação pessoal. Assim é o posicionamento jurisprudencial:
+“AGRAVO INTERNO. AGRAVO DE INSTRUMENTO IMPROVIDO MEDIANTE DECISÃO MONOCRÁTICA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE. IMPOSSIBILIDADE. O AJUIZAMENTO DOS EMBARGOS NÃO FORAM DESAPENSADOS DA EXECUÇÃO, CONFORME PREVÊ O ART. 914, § 1o, DO CPC/15. NECESSIDADE DE INTIMAÇÃO PESSOAL DO EXEQUENTE. A PRESCRIÇÃO INTERCORRENTE CONFIGURA-SE NAS HIPÓTESES DE INÉRCIA DO FEITO POR DESÍDIA DO EXEQUENTE, QUE, APÓS INTIMAÇÃO PESSOAL PARA DAR PROSSEGUIMENTO AO FEITO, PERMANECEU INERTE. PRECEDENTES STJ. NEGADO PROVIMENTO.” (TJRS, RAIN n. 70071582548, 15a Câm. Cív., Rel. Des. Otávio Augusto de Freitas Barcellos, j. 14.12.2016)
+Destaca-se que o entendimento do STJ é firme no sentido de ser necessária a intimação pessoal do credor para ter início o prazo da prescrição intercorrente, confira:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. AUSÊNCIA DE BENS PENHORÁVEIS. ARQUIVAMENTO ADMINISTRATIVO. SUSPENSÃO. ART. 791, III, DO CPC/1973. PRESCRIÇÃO INTERCORRENTE. NECESSIDADE DE INTIMAÇÃO PRÉVIA. DECISÃO MANTIDA. 1. Consoante a jurisprudência desta Corte, não flui o prazo da prescrição intercorrente no período em que o processo de execução fica suspenso por ausência de bens penhoráveis. Ademais, a prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte. 2. No caso concreto, não poderia ser decretada a prescrição intercorrente sem prévia intimação do credor. 3. Agravo interno a que se nega provimento.” (AgInt no REsp 1588412/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 26/04/2018)
+“PROCESSUAL CIVIL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO PESSOAL. NECESSIDADE. DISSÍDIO NOTÓRIO. MITIGAÇÃO DAS EXIGÊNCIAS DO ART. 541 DO CPC... 2. Para o reconhecimento da prescrição intercorrente, é necessária a intimação pessoal da parte. Precedentes. 3. Agravo regimental desprovido.” (AgRg no REsp 1280841/MG, 3a Turma, Rel. Min. João Otávio De Noronha, j. 17.03.2015) “AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - EXECUÇÃO - PRESCRIÇÃO INTERCORRENTE - DECISÃO MONOCRÁTICA QUE AFASTOU A EXTINÇÃO DA EXECUÇÃO ANTE A AUSÊNCIA DE INTIMAÇÃO DA PARTE CREDOR PARA IMPULSIONAR O FEITO. INSURGÊNCIA DO EXECUTADO. 1. De acordo com precedentes do STJ, a prescrição intercorrente só poderá ser reconhecida no processo executivo se, após a intimação pessoal da parte exequente para dar andamento ao feito, a mesma permanece inerte. Precedentes. 2. Conforme orientação pacífica desta Corte, é necessária a intimação pessoal do autor da execução para o reconhecimento da prescrição intercorrente. Precedentes...”. (AgRg no AREsp 131359/GO, 4a Turma, Rel. Min. Marco Buzzi, j. 20.11.2014) - negritei
+Compulsando os autos, constata-se que os agravados/exequentes não foram pessoalmente intimados para dar prosseguimento ao feito, impedindo o reconhecimento da prescrição intercorrente.”
+Inviável, portanto, a modificação do julgado na ausência de vício sanável.
+Como visto, foram analisadas todas as questões pertinentes ao caso de forma clara, adequada e fundamentada, não havendo qualquer omissão ou contradição a justificar o acolhimento deste recurso. E, tendo sido a controvérsia suficientemente enfrentada, não se prestam os presentes embargos de declaração para rediscussão da matéria.
+Ademais, o acórdão embargado é cristalino ao consolidar que os agravados/exequentes não foram pessoalmente intimados para dar prosseguimento ao feito, impedindo o reconhecimento da prescrição intercorrente.”
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR-EXEQUENTE POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO. INTIMAÇÃO NECESSIDADE. PRINCÍPIO DO CONTRADITÓRIO OBSERVADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE.
+1. Ação de execução de título extrajudicial.
+2. Com ressalva do entendimento diverso da relatora, conforme consolidado pela 2a Seção do STJ no IAC no REsp 1.604.412/SC, incide a prescrição intercorrente, nos processos regidos pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado.
+3. Em respeito ao princípio do contraditório, deve o juiz, antes de pronunciar a prescrição intercorrente, intimar o credor-exequente a fim de que possa opor algum fato impeditivo à incidência da prescrição, o que foi observado na hipótese.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A divergência entre julgados do mesmo Tribunal não enseja recurso especial.
+6. Agravo interno não provido. (AgInt no AREsp 1677873/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/05/2020, DJe 28/05/2020)”.
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 921, III, 924, IV, e 1.056, do CPC, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”, conforme disposto no Enunciado no 16 da Reunião dos Vice-Presidentes de Tribunais de Justiça do Brasil:
+“É aplicável a Súmula 83 do STJ ao recurso especial interposto com fundamento na alínea ‘a’ do inciso III do art. 105 da Constituição Federal”.
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do Recurso Especial é necessário que as razões recursais sejam redigidas com fundamentações precisas, com identificação exata do suposto dispositivo legal violado, a controvérsia correspondente, bem como das circunstâncias de como ocorreu a afronta legal, conforme prevê a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. JULGAMENTO POR MAIORIA. ART. 942 DO CPC/2015. NÃO INCIDÊNCIA. ALEGAÇÃO DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. ALIENAÇÃO DA MARCA DA EMPRESA EXECUTADA. FRAUDE À EXECUÇÃO RECONHECIDA. MÁ-FÉ DA ADQUIRENTE (SÚMULA 375/STJ). REEXAME DE MATÉRIA FÁTICA (SÚMULA 7/STJ). PRESCRIÇÃO TRIENAL. ART. 206, § 3o, IV, DO CC/2002. NÃO INCIDÊNCIA. OBRIGAÇÃO DECORRENTE DE CONDENAÇÃO EM AÇÃO ACIDENTÁRIA. RECURSO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(...)
+7. Agravo interno a que se nega provimento”. (AgInt no AREsp 1233242/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 24/09/2018). (g.n.)
+Assim, embora tenha alegado violação ao artigo 1.022, do CPC, o Recorrente não apontou de forma específica e individualizada a contradição/omissão, ou erro material do acórdão, tampouco por que seria relevante a discussão da matéria para o deslinde da causa, caracterizando deficiência na fundamentação recursal e impondo a aplicação da Súmula 284/STF, o que conduz à inadmissão do recurso neste ponto.
+Da ausência de prequestionamento. Súmulas 282 e 356 do STF
+Com o objetivo de evitar a supressão de instância, nos termos do art. 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282 do STF.
+Consigne-se, ainda, que caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos embargos de declaração com a indicação precisa do ponto supostamente omisso, em aplicação analógica da Súmula 356/STF.
+A propósito:
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA 356/STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF. NÃO-CONHECIMENTO DO RECURSO PELA ALÍNEA A. DISSÍDIO PRETORIANO PREJUDICADO. 1. (...). 2. Não ocorre ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos presentes autos. 3. A matéria pertinente aos arts. 12, 37, 43, 46, 186, 402, 404, 940 e 944 do CC/02 não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF. 4. (...). 6. Agravo regimental a que se nega provimento”. (EDcl no AgRg nos EDcl nos EDcl no AREsp 484.728/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/02/2015, DJe 03/03/2015).
+Dessa forma, quanto a suposta violação aos artigos 7o, 436 e 636, do CPC, a parte Recorrente defende que a inclusão de novo documento, sem intimar a parte para proceder sua impugnação, configura clara ofensa aos artigos supracitados, aptos a ensejar a anulação dos julgados e da própria execução.
+No entanto, verifica-se que a citada questão não foi decidida pelo acórdão impugnado, e, tampouco nos embargos de declaração para prequestionar a matéria, situação que obsta o seu reexame pelo Superior Tribunal de Justiça e impede a admissão do recurso, por aplicação das Súmulas 282 e 356 do STF.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 12 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VIII
