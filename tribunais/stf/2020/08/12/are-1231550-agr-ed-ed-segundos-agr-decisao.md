@@ -1,0 +1,13 @@
+Vistos etc.
+    Referente às Petições/STF nºs 59.549 e 61.137/2020:
+    Trata-se de petição denominada de agravo interno manejado contra despacho pelo qual indeferido o pedido de destaque dos autos para que sejam incluídos em pauta de julgamento presencial (Petição/STF 59.549/2020), bem como pedido de intimação “do Ministério Público do Estado de Minas Gerais para responder ao agravo regimental (CPC/15, art. 1.021, § 2.º) e, posteriormente, a inclusão do feito em pauta para julgamento” (Petição/STF nº 61.137/2020).
+    Decido.
+    Na esteira da jurisprudência desta Suprema Corte, os despachos sem conteúdo decisório, tal como o que indefere pedido de destaque de processos já incluídos na pauta de julgamento, não são passíveis de impugnação, nos termos do disposto no art. 1.001 do Código de Processo Civil, razão pela qual o recurso contra ele interposto é incabível. Nesse sentido:
+    “HABEAS CORPUS ATO JUDICIAL QUE DETERMINA O ARQUIVAMENTO DOS AUTOS RECURSO DE AGRAVO INTERPOSTO CONTRA DESPACHO DE MERO EXPEDIENTE IRRECORRIBILIDADE AGRAVO NÃO CONHECIDO. - Os despachos de mero expediente como aqueles que ordenam o arquivamento de autos, por não se revestirem de qualquer conteúdo decisório, não são passíveis de impugnação mediante recurso (CPC, art. 162, § 3º, c/c o art. 504). Precedentes” (HC 109317 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 01.8.2014).
+    “Agravo regimental no recurso extraordinário. Recurso contra despacho sem conteúdo decisório. Cabimento. Impossibilidade. Precedentes. 1. Não cabe agravo regimental contra despacho de mero expediente, despido de conteúdo decisório, por se tratar de simples ato procedimental. 2. Agravo regimental não provido” (RE 630492 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 01.8.2013).
+    “RECURSO. Agravo Regimental. Mandado de Segurança. Despacho que não reconhece a existência de prevenção. Ato de mero expediente. Falta de lesividade. Ato processual insuscetível de causar gravame às partes. Incidência do art. 504 do CPC. Agravo regimental não conhecido. É inadmissível agravo regimental contra despacho que não reconhece a existência de prevenção” (MS 28847 AgR, Rel. Min. Cézar Peluso (Presidente), Tribunal Pleno, DJe 05.12.2011).
+    Ante o exposto, não conheço dos pedidos formulados nas petições em referência. Cumpra-se, independente de publicação deste, a determinação de imediata certificação do trânsito em julgado para o embargante e de baixa dos autos à origem, nos termos definidos no acórdão proferido pela Primeira Turma desta Suprema Corte na Sessão Virtual de 26.6.2020 a 4.8.2020.
+    Publique-se.
+    Brasília, 12 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
