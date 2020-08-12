@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 105):
+    “Agravo de instrumento interposto contra decisão que em execução por título extrajudicial indeferiu o pedido de desbloqueio on line sobre os valores encontrados em conta-corrente da codevedora - Inconformismo dela firme nas teses de que as quantias bloqueadas na Caixa Econômica Federal são impenhoráveis porque (1) o montante de R$ 62.379,27 depositado na sua conta-corrente nº 6054-6 é proveniente de proventos da sua aposentadoria; e, (2) os valores bloqueados na conta nº 17.586-0 também são impenhoráveis nos termos do art. 649, X, do CPC - Conhecimento parcial e não acolhimento - Não conhecimento do pleito de desbloqueio dos valores constantes na conta nº 17.586-0, sob pena de supressão de um grau de jurisdição - Codevedora que não movimenta seus vencimentos, mantendo-os como reserva de capital na conta-corrente nº 6054-6 da Caixa Econômica Federal - Ausência de demonstração da finalidade alimentícia da verba penhorada Recurso - conhecido em parte e nela não provido.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 119).
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos arts. 1ª, III e 7º, X, da Constituição da República. Nas razões recursais, sustenta-se, em suma, que a decisão que manteve o bloqueio e a penhora sobre todos os valores de aposentadoria da ora recorrente, fere a proteção constitucional ao salário, direito fundamental, indispensável a própria dignidade da pessoa humana (eDOC 1, p. 129-141).
+    A Presidência da Seção de Direito Privado do TJSP não admitiu o recurso extraordinário por detectar ausência da alegada vulneração aos dispositivos arrolados e a incidência do óbice da súmula 279 do STF (eDOC 1. p. 176-177).
+    É o relatório. Decido.
+    Verifico que o Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial 786.193/SP, interposto simultaneamente ao presente recurso, para “limitar a constrição de valores da parte recorrente a 40 (quarenta) salários mínimos, observando o parâmetro fixado à época da decisão que deferiu a penhora” (eDOC 2, p. 61). Essa decisão transitou em julgado em 25.05.2020 (eDOC 2, p. 64).
+    Ante o exposto, julgo prejudicado o presente recurso por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 12 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
