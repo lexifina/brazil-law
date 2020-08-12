@@ -1,0 +1,28 @@
+RAI 101675.43.2020.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento com pedido de efeito suspensivo interposto por BRADESCO SAUDE S/A., em face da r. decisão proferida pelo juízo da 8a Vara Cível da Comarca de Cuiabá, que nos autos da ação de obrigação de fazer com pedido de Tutela Antecipada cc Indenização por Danos Morais n. 1031385-42.2020.8.11.0041, deferiu a tutela antecipada de urgência para que o réu cumpra com o contrato de prestação de serviços médicos e hospitalares firmado com a autora e autorize/custeie todo o tratamento de saúde que a mesma necessita para o combate da doença neoplasia maligna dos brônquios e pulmões, composto por exames, consultas, medicamentos, dentre outros procedimentos que, futuramente, venham ser solicitados por médico especialista, em especial ao medicamento denominado de “osimertinibe”, nome comercial TAGRISSO Comprimidos, no prazo de 24 horas, sob pena de multa diária de R$ 5.000,00 (cinco mil reais) em caso de descumprimento da decisão.
+Sustenta a agravante que, ‘tal decisão agravada merece reforma, vez que esta agiu conforme o contrato de firmado entre as partes, assim como não restou comprovado os requisitos norteadores da medida (art. 300 CPC), destacando-se que o magistrado a quo apenas se limitou as informações prestadas, tão somente, pela agravada, sem ao menos possibilitar o devido contraditório a agravante para elucidar as informações em comento.’.
+Argumenta que cumpriu integralmente com a medida liminar proferida nos autos, dentro dos moldes em que foi determinada, não há que se falar em incidência de multa por descumprimento da ordem judicial.
+Aduz que, ‘o pedido para o fornecimento do medicamento Osimertinibe - “TAGRISSO” foi negado, por estar em desacordo com as Diretrizes de Utilização da ANS, bem como as disposições da própria Agência Reguladora (ANS); além disso, o fármaco postulado pela agravada também não possui cobertura para uso domiciliar, conforme o dispõe o próprio contrato entabulado entre as partes.’.
+Assevera ainda o agravante que, sua irresignação encontra-se encampada através da legislação pertinente, da Resolução Normativa que atualiza o Rol de Procedimentos e Eventos em Saúde, bem como, nas Condições Contratuais, restando patente, portanto, que a pretensão autoral está em completo desacordo com a realidade contratual estabelecida entre as partes.
+Alega que, o presente caso não se configura como situação emergencial ou de urgência, posto que não há documentação nesse sentido; desta forma, não há se falar em obrigatoriedade de atendimento, conforme disposto no artigo 35-C, I e II da Lei no 9.656/98.
+Por fim, alega que a decisum agravada deve ser reformada para que a multa aplicada seja excluída ou, caso assim não se entenda, que a mesma seja consideravelmente reduzida, bem como seja determinada limitação razoável à sua aplicação, respeitado o artigo 412, do código civil.
+Requer a concessão de efeito suspensivo ao presente agravo, eis que restou cabalmente demonstrado pela agravante o preenchimento de todos os requisitos impostos pela lei; bem como que seja dado provimento ao agravo de instrumento, para revogar a decisão agravada, eximindo-a de qualquer penalidade imposta, pelos argumentos acima despendidos.
+É o relatório.
+DECIDO
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, para a concessão do efeito ativo pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. ”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Pois bem. É incontestável a relevância das argumentações do Agravante, todavia, para fins de apreciação preliminar, há que se ater aos termos e fundamentação adotada pela decisão interlocutória combatida.
+Com esses apontamentos, em sede de cognição sumária, julgo pertinente a manutenção da decisão agravada.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO, pois, o efeito almejado, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o juízo a quo, facultando-lhe prestar informações.
+Intime-se a parte Agravada, na forma do art. 1.019, II do NCPC, para que responda no prazo legal.
+Após, remetam-se os autos à Douta Procuradoria Geral de Justiça, para manifestação.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
