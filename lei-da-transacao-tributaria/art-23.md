@@ -1,2 +1,4 @@
 Art. 23. Observados os princípios da racionalidade, da economicidade e da eficiência, ato do Ministro de Estado da Economia regulamentará:
+I - o contencioso administrativo fiscal de pequeno valor, assim considerado aquele cujo lançamento fiscal ou controvérsia não supere 60 (sessenta) salários mínimos;
 II - a adoção de métodos alternativos de solução de litígio, inclusive transação, envolvendo processos de pequeno valor.
+Parágrafo único. No contencioso administrativo de pequeno valor, observados o contraditório, a ampla defesa e a vinculação aos entendimentos do Conselho Administrativo de Recursos Fiscais, o julgamento será realizado em última instância por órgão colegiado da Delegacia da Receita Federal do Brasil de Julgamento da Secretaria Especial da Receita Federal do Brasil, aplicado o disposto no Decreto nº 70.235, de 6 de março de 1972, apenas subsidiariamente.
