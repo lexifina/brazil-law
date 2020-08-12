@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL JULGADA – MATÉRIA IDÊNTICA – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça Militar do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de remessa do processo ao Tribunal do Júri. No extraordinário, o recorrente aponta violado o artigo 129, inciso I, da Constituição Federal. Ressaltando a titularidade da ação pena pública pelo Ministério Público, afirma a impossibilidade de decisão de arquivamento do inquérito contrária à opinião do representante ministerial.
+    2. Colho o seguinte trecho do acórdão recorrido:
+    POLICIAL MILITAR – RECURSO EM SENTIDO ESTRITO – INTERPOSIÇÃO PELO MINISTÉRIO PÚBLICO CONTRA DECISÃO DO JUIZ DE DIREITO QUE INDEFERIU O PEDIDO PARA ENCAMINHAMENTO DO FEITO À VARA DO JÚRI – EXAME EFETUADO PELA JUSTIÇA MILITAR QUE RECONHECEU INEXISTIR CRIME MILITAR DOLOSO COMETIDO CONTRA A VIDA DE CIVIL – RECURSO QUE NÃO COMPORTA PROVIMENTO. DECISÃO POR MAIORIA DE VOTOS. A Justiça Militar é competente para efetuar a análise prévia do cometimento de crime apurado pela polícia judiciária militar. Legislação que prevê o encaminhamento dos autos à Vara do Júri apenas quando do reconhecimento da existência de crime militar doloso praticado contra a vida de civil. Exame efetuado que verificou a existência de excludente do dever legal. Legítima defesa e estrito cumprimento do dever legal. O controle externo exercido pelo Ministério Público sobre a atividade policial não é afetado pela referida decisão.
+    O acórdão recorrido está em harmonia com a jurisprudência do Supremo. O Pleno, no recurso extraordinário nº 593.443, relator ministro Ricardo Lewandowski, assentou não violar a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e não transgredir o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri decisão judicial de rejeição de denúncia, impronúncia de réu, absolvição sumária ou trancamento de ação penal por falta de justa causa. Na ocasião, votei vencido.
+    3. Ante o precedente, ressalvada a óptica pessoal, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 12 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
