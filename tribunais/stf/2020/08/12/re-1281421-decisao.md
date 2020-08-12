@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –REPERCUSSÃO GERAL JULGADA – MATÉRIA IDÊNTICA – PROVIMENTO PARCIAL.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à forma de cálculo da revisão do débito. No extraordinário, o recorrente alega violação dos artigos 2º, 5º, incisos XXXIV, XXXV, LIV, LV, 37, 60, § 4º, incisos III e IV, 93, inciso IX, e 100, parágrafos 5º e 12, da Constituição Federal e 78 do Ato das Disposições Constitucionais Transitórias. Afirma a negativa de prestação jurisdicional decorrente de omissão no acórdão pertinente aos declaratórios. Aponta a inconstitucionalidade do regime de parcelamento de precatórios. Sustenta incidirem juros moratórios entre a realização dos cálculos e a inscrição do precatório. Alude a precedentes do Supremo.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Eis a síntese do pronunciamento recorrido:
+    AGRAVO DE INSTRUMENTO. PRECATÓRIO. PARCELAMENTO. ART. 78 DO ADCT. JUROS MORATÓRIOS. JURISPRUDÊNCIA DO STF. PERÍODO ENTRE A CONTA E A EXPEDIÇÃO DA REQUISIÇÃO.
+    1. De acordo com a jurisprudência dominante do Supremo Tribunal Federal (RE 590.751/AC, DJe 04-04-2011), não incidem juros moratórios sobre o valor do precatório, após a sua expedição, ainda que sujeito a parcelamento na forma do art. 78 do ADCT, desde que tempestivamente adimplidas as parcelas.
+    2. Observado o prazo constitucional de pagamento, não incidem juros moratórios entre a data da elaboração da conta e a expedição do precatório.
+    No tocante à incidência de juros moratórios no período de pagamento das parcelas de precatório, a decisão impugnada está em harmonia com o entendimento deste Tribunal. O Supremo, no julgamento do recurso extraordinário nº 590.751/SP, da relatoria do ministro Ricardo Lewandowski, concluiu pela não incidência de juros no pagamento de precatórios, quando realizado no prazo previsto no artigo 78 do Ato das Disposições Transitórias da Carta Federal, acrescido pela Emenda Constitucional nº 30/2000.
+    No mais, em relação aos juros de mora no período entre a data de elaboração dos cálculos e a da expedição do precatório, a decisão está em dissonância com a jurisprudência do Supremo. O Tribunal, no julgamento do recurso extraordinário nº 579.431/RE, de minha relatoria, concluiu pela incidência de juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+    3. Ante o quadro, dou parcial provimento ao extraordinário para determinar a incidência de juros de mora no período entre a data de elaboração dos cálculos e a expedição do precatório.
+    4. Publiquem.
+Brasília, 12 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
