@@ -1,0 +1,24 @@
+DECISÃO:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Tráfico de drogas. Dosimetria da pena. Fatos e provas. Jurisprudência do Supremo tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINAIS COMPROVADA. ALTERAÇÃO DO ENTENDIMENTO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+    1. A aplicação do disposto no § 4º do art. 33 da Lei de Drogas pressupõe que o agente, dentre outros requisitos, não se dedique a atividades criminosas nem integre organização criminosa. Constatados elementos de convicção que indiquem a dedicação a atividades delitivas ou integração à organização criminosa, inviável a aplicação do fator redutor. A alteração de tal entendimento esbarra na necessidade de revolvimento fático-probatório, o que não se admite na via do habeas corpus.
+    2. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 33 da Lei 11.343/2006. Inconformada, a defesa interpôs recurso de apelação, desprovido pelo Tribunal estadual.
+    3. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 561.850, Min. Nefi Cordeiro, indeferiu a liminar e, posteriormente, denegou a ordem. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa sustenta que, de uma “simples leitura a sentença e acordão anexos, verifica-se que a negativa do redutor previsto no art. 33, § 4º, da lei de drogas, não tem qualquer fundamento concreto, apenas recai sobre a gravidade em abstrato do delito e QUANTIDADE DA DROGA APREENDIDA, que foi considerada na primeira fase da dosimetria, gerando o BIS IN IDEM”. Com essa argumentação requer a aplicação do “REDUTOR DO TRÁFICO PRIVILEGIADO, BEM COMO FIXAR O REGIME ABERTO”.
+    5. Decido.
+    6. O recurso não merece ser provido.
+    7. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    8. E mais: a jurisprudência do Supremo Tribunal Federal (STF é firme no sentido de que natureza e a quantidade da droga apreendida justificam a fixação da pena-base em patamar acima do mínimo legal (HC 122.299 e 126.055, Rel. Min. Dias Toffoli; HC 118.389, Rel. Min. Teori Zavascki).
+    9. As instâncias de origem afastaram a aplicação da minorante do art. 33, § 4º, da Lei nº 11.343/2006 com base em dados objetivos da causa. Dou especial relevância às seguintes passagens do voto condutor do acórdão proferido pelo Superior Tribunal de Justiça:
+    “[...]
+    (…) percebe-se que as instâncias ordinárias, para afastar a minorante § 4º do art. 33 da Lei de Tóxicos valoraram além da quantidade de drogas, outros elementos dos autos, na espécie, o fato de que as condições de armazenamento, bem como a circunstancia da qual decorreu o armazenamento das drogas, decorrente de contato direto com terceiros e obtenção de remuneração, entendo que há nos autos evidente comprovação de que o acusado faz parte de organização criminosa, destacando, ainda, que Foi apreendida considerável quantidade de porções de cocaína, prontas para a comercialização, além da mesma droga a granel.
+    Esta Corte Superior entende que, para afastar a benesse com suporte na dedicação à atividades criminosas, é preciso, além da quantidade de drogas, aliar elementos concretos suficientes o bastante que permitam a conclusão de que o agente se dedica a atividades criminosas e/ou integra organização criminosa, conforme se verifica no caso dos autos, sob pena de indevido bis in idem.
+    […].” (Grifo acrescentado)
+    10. De modo que não é possível, na via processualmente restrita do habeas corpus, reexaminar o material probatório da ação penal para, eventualmente, concluir-se em sentido diverso.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 12 de agosto de 2020.
+Ministro LUÍS ROERTO BARRROSO
+Relator
