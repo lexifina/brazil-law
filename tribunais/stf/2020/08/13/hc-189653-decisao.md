@@ -1,0 +1,26 @@
+DECISÃO:
+Ementa: Processual Penal. Habeas Corpus. Tráfico de drogas. Condenação transitada em julgado. Pedido de desclassificação. Regime inicial. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 600.086, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado às pena de 6 anos, 9 meses e 20 dias de reclusão e de 4 anos e 1 mês de reclusão, pelos crimes previstos nos arts. 33 e 35 da Lei 11.343/06, respectivamente. O magistrado fixou o regime fechado para o início do cumprimento das penas privativas de liberdade.
+    3. O Tribunal de Justiça do Estado de São Paulo deu provimento à apelação da defesa, a fim de absolver o paciente da prática do crime previsto no art. 35 da Lei 11.343/06.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 600.086, Ministro Sebastião Reis Júnior, indeferiu liminarmente o writ.
+    5. Neste habeas corpus, a parte impetrante afirma que “o Paciente foi preso em flagrante delito, na data de 24/02/2017, assim já cumpriu 03 (três) anos, 05 (cinco) meses, portanto, abaixo de 04 (quarto) anos, cabível o regime menos rigoroso, para cumprir o restante da pena”.
+    6. Prossegue a narrativa para sustentar que, “[p]ela pequena quantidade de drogas, deveria ser aplicado o artigo 28, da Lei Federal 11.343/2006, pois, seria um mero usuário”.
+    7. A defesa requer a concessão da ordem a fim de que seja concedido o “[l]ivramento Condicional e ou Regime Aberto”. Cumulativamente, pleiteia a revogação da prisão do acionante.
+    8. Decido.
+    9. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    10. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    11. Não é o caso de concessão da ordem de ofício.
+    12. A orientação jurisprudencial do STF é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. Em consulta à página oficial do Tribunal de Justiça do Estado de São Paulo na internet, verifico que a condenação transitou em julgado em 31.10.2018.
+    13. Além disso, o entendimento do STF é no sentido de que “o pleito de desclassificação de crime não tem lugar na estreita via do habeas corpus por demandar aprofundado exame do conjunto fático-probatório da causa, e não mera revaloração” (RHC 120.417, Rel. Min. Ricardo Lewandowski).
+    14. Quanto ao mais, reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, no caso, o regime fechado foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente em razão da quantidade e variedade da droga apreendida (112 g de cocaína, 65 g de crack e 135 g de maconha), assim como em razão da reincidência do paciente. Sendo assim, não verifico situação de teratologia ou ilegalidade flagrante que justifique o acolhimento da pretensão defensiva.
+    15. Por fim, dou especial relevância ao fundamento adotado pelo STJ, no sentido de que “os pedidos de benefícios como livramento e progressão devem ser postulados, inicialmente, junto ao Juízo da Execução”.
+    16. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 13 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
