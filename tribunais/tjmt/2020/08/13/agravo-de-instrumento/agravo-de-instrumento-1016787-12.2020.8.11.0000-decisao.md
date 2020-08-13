@@ -1,0 +1,14 @@
+Vistos, etc.
+Agravo de Instrumento interposto por CELSO FERNANDES ALENCASTRO, contra decisão proferida nos autos da Ação de Busca e Apreensão convertida em Ação de Execução Forçada n. 1003171-46.2017.8.11.0041, da 2a Vara Especializada em Direito Bancário da Comarca de Cuiabá que não acolheu a exceção de pré-executividade, por falta de embasamento legal, mantido nos Embargos de Declaração.
+O agravante defende ausência de constituição em mora do devedor; que a ação de busca e apreensão foi distribuída em total desconformidade com a legislação vigente; sem esgotar os meios legais, a agravada apresentou protesto do título após o ajuizamento da ação. Portanto, ineficaz para comprovar a mora. Requer que a ação seja julgada extinta sem resolução do mérito, por manifesta falta dos pressupostos processuais para regular processamento da demanda.
+Adiante, alega a impossibilidade de conversão da ação de busca e apreensão devida a vício insanável, que é a ausência de constituição em mora do devedor.
+No tópico adiante 2.2. Princípio da cartulidade – da necessidade do depósito do contrato original, defende que é imprescindível, para conversão que seja juntado o original do título, nos termos do artigo 29 §1o., da Lei 10931/2004 e art. 798, I, A do CPC/2015.
+Almeja aplicação do efeito translativo/extinção de ofício e/ou monocrática por falta de pressupostos processuais, com aplicação do §6o., do artigo 3o., do Decreto-Lei 911/69 e fixação dos honorários de sucumbência.
+Ao final requer:
+“Seja acolhida a prejudicial de mérito, para APLICAR EFEITO TRANSLATIVO e determinar de OFÍCIO a extinção do processo n. 1003171- 46.2017.8.11.0041, que tramita perante o Juízo da 2a Vara Especializada em Direito Bancário da comarca de Cuiabá/MT, sem resolução do mérito, porquanto é manifesta a falta dos pressupostos da ação, seja pela ausência em constituição em mora do devedor ou pela ausência de título executivo, face a inobservância ao princípio da cartularidade, pois, em assim agindo, estarão Vossas Excelências, como é de costume nessa corte, distribuindo a mais lídima e cristalina JUSTIÇA!
+Em não sendo de ofício reconhecido aplicado efeito translativo e determinada a extinção dos autos, REQUER seja revogada a tutela de urgência, determinando que a agravada restitua no prazo de 48h00min o veículo MARCA VOLKSWAGEN, MODELO AMAROK CD 4X4, ANO 2013, PLACA OBR-6008, RENAVAN 542711990, COR BRANCA ao agravante, E/OU alternativamente, caso o mesmo tenha sido vendido/alienado à terceiro, seja ressarcido o seu valor corrigido, pela avaliação da tabela fipe, desde a data de sua apreensão, sob pena de multa diária de R$ 500,00 (quinhentos reais);”.
+É o relatório do necessário.
+Não havendo pedido liminar, intime-se o Banco para apresentar contrarrazões.
+Após, conclusos para o mérito.
+Des. Sebastião Barbosa Farias
+Relator
