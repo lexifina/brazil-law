@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes prestou as seguintes informações:
+    O Juízo da Segunda Vara da Comarca de Novo Horizonte/SP, no processo nº 1501112-42.2019.8.26.0396, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 12 de setembro de 2019, ante a suposta prática do crime previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Aludiu à quantidade e natureza dos entorpecentes encontrados – 4 porções de maconha (26 gramas) e 1 de cocaína (6 gramas). Realçou tratar-se de reincidente específico. Concluiu indispensável a custódia para garantir a ordem pública e a aplicação da lei penal.
+    No Superior Tribunal de Justiça, o Presidente inadmitiu o habeas corpus nº 580.672/SP. Formalizado agravo interno, a Quinta Turma desproveu-o.
+    O impetrante aponta a insubsistência dos fundamentos da decisão por meio da qual determinada a prisão preventiva, afirmando-os genéricos. Assinala inobservados os artigos 312 e 313 do Código de Processo Penal. Diz pequena a quantidade de droga apreendida. Salienta as condições pessoais – trabalho lícito e residência fixa. Argumenta inexistir situação reveladora de violência ou grave ameaça a pessoa. Refere-se à pandemia ocasionada pelo novo coronavírus, a justificar o afastamento da custódia. Menciona a Recomendação nº 62/2020 do Conselho Nacional de Justiça. Frisa configurado excesso de prazo da prisão, a perdurar por 11 meses.
+    Requer, no campo precário e efêmero, o afastamento e, sucessivamente, a imposição de cautelar diversa. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou proferida, em 21 de maio de 2020, sentença mediante a qual condenado o paciente a 7 anos de reclusão, em regime inicial fechado, e ao pagamento de 700 dias-multa, em virtude do cometimento do crime do artigo 33, cabeça, da Lei nº 11.343/2006. O Juízo não reconheceu o direito de recorrer em liberdade, ressaltando permanecerem os motivos que levaram à prisão. Embargos declaratórios foram desprovidos.
+    Este habeas foi distribuído por prevenção, considerado o de nº 182.614, impetrado em favor do paciente, voltado ao afastamento da custódia preventiva. A Primeira Turma indeferiu a ordem, nos termos do voto de Vossa Excelência.
+    2. A prisão em flagrante, a gradação do tráfico de drogas, tendo em vista a quantidade e natureza dos entorpecentes encontrados – 4 porções de maconha (26 gramas) e 1 de cocaína (6 gramas) – e o fato de tratar-se de reincidente específico indicam em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentados os atos atacados. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A crise sanitária ocasionada pelo novo coronavírus é insuficiente a levar ao acolhimento da providência pretendida. Não há notícia de o paciente encontrar-se acometido de qualquer doença preexistente que possa se agravar a partir do contágio.
+    A sentença, formalizada em 21 de maio de 2020, por meio da qual o Juízo deixou de reconhecer o direito de recorrer em liberdade, assentando a permanência dos motivos que levaram à prisão, revela não configurado excesso de prazo. O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da custódia, fixando o lapso de 90 dias, com possibilidade de prorrogação, mediante pronunciamento fundamentado. Apresentada motivação suficiente à manutenção da medida, fica afastado constrangimento ilegal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 13 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
