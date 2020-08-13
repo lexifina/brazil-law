@@ -1,0 +1,30 @@
+Decisão: Trata-se de pedido de extensão formulado em favor de Carlos Augusto Brandão (eDOC 51), objetivando o deferimento do pedido liminar, nos mesmos termos concedidos a Alexandre Baldy de Santanna Braga, nos autos da Medida Cautelar na Rcl n. 42.622/RJ.
+    Foi expedido mandado de prisão temporária, em face do requerente, pelo Juízo da 7ª Vara Federal Criminal do Rio de Janeiro, no bojo da Operação Dardanários.
+    As investigações que ensejaram a decretação da sua prisão cautelar tiveram origem, principalmente, nos desdobramentos da Operação SOS, que apurou fraudes ocorridas na Secretaria de Saúde do Rio de Janeiro durante a gestão do ex-Governador Sérgio Cabral.
+    Segundo o MPF, o requerente integra esquema criminoso liderado por Alexandre Baldy para o recebimento de vantagens ilícitas.
+    O órgão acusatório relata que atos ilícitos foram praticados no âmbito da Junta Comercial do Estado de Goiás, sob a presidência de Rafael Lousa, aliado político do reclamante. De acordo com o MPF, os delatores Ricardo Brasil e Edson Giorno se vincularam a empresa Vertude, após se desligarem da OS Pró-Saúde, no final de 2014, e obtiveram por meio do requerente facilitações na contratação de sua empresa pela JUCEG, com violações à Lei de licitações. O esquema fraudulento teria se estendido para além do ano de 2016, tendo o requerente recebido propina por sua atuação. Confira-se a narrativa:
+    (…) os colaboradores afirmaram que, no primeiro semestre de 2016, com o início do mencionado contrato, Alexandre Calore, funcionário da Vertude, foi abordado por dois servidores da JUCEG, GUTO e IZIDIO, os quais solicitaram pagamentos mensais para não atrapalharem o andamento do serviço.
+    De acordo com documento acostado pelo MPF, IZÍDIO FERREIRA DOS SANTOS JÚNIOR trabalhava na Junta Comercial e foi designado por RAFAEL LOUSA para gerir o contrato com a Vertude. Já GUTO vem a ser o funcionário CARLOS AUGUSTO BRANDÃO, que também trabalhava na JUCEG, à época dos fatos.
+    Nessa toada, os colaboradores assinalaram que iniciaram pagamento mensal de R$ 5.000,00 (cinco mil reais) a IZÍDIO e GUTO, bem como uma porcentagem mensal a RAFAEL. (eDOC 10, p. 8)
+    Com base nesses fatos, o MPF pediu a prisão temporária do requerente. A autoridade judiciária deferiu o pleito formulado, fundamentando ser imprescindível a custódia às investigações, bem como por existirem fundadas razões (autoria e materialidade) da prática do delito de organização criminosa, nos termos do artigo 1º, incisos I e III, alínea l, da Lei nº 7.960/89. (eDOC 10)
+    O requerente alega que, no caso, trata-se de uma condução coercitiva travestida de prisão temporária, que visa obrigá-lo a contribuir com investigação de fatos ocorridos no passado distante.
+    Defende a ausência dos requisitos legais autorizadores da custódia temporária do peticionário imposta como forma de driblar a utilização da condução coercitiva para interrogatório, medida proibida por pelo Supremo Tribunal Federal nos autos das ADPFs 395 e 444.
+    Nesse contexto, requer, em sede liminar, o reconhecimento da ilegalidade da prisão e a extensão dos efeitos da liminar concedida benefícios concedidos na reclamação para suspender a prisão temporária decretada em seu desfavor.
+    É o breve relatório. Decido.
+    Colhe-se da redação do art. 580 do Código de Processo Penal: No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+    No caso, entendo ser cabível a extensão dos efeitos da decisão proferida, uma vez que a liminar que beneficiou o reclamante não se fundou em motivos de caráter exclusivamente pessoal.
+    Analisando o decreto prisional, verifica-se que os fundamentos utilizados foram os mesmos para a decretação da prisão do reclamado Alexandre Baldy e o requerente. Confira-se:
+    “Nessa toada, constato que a prisão temporária é medida suficiente, no momento, para todos os requeridos, tendo em vista a necessidade de aprofundar as investigações e a obter elementos de informação a fim de confirmar a autoria e materialidade dos delitos”. (eDOC 10, p. 12)
+    Na ADPF 444-DF, de minha relatoria, Tribunal Pleno, julgada juntamente com a ADPF 395, o Supremo Tribunal Federal declarou que a condução coercitiva de réu ou investigado para interrogatório, constante do artigo 260 do Código de Processo Penal (CPP), não foi recepcionada pela Constituição de 1988.
+    Do julgado se extrai a conclusão de que realizar o interrogatório não é uma finalidade legítima para a prisão preventiva ou temporária.
+    No caso dos autos, o Juízo da 7ª Vara entendeu como suficiente a prisão temporária. Além dos argumentos relacionados à gravidade dos fatos, o magistrado citou a imprescindibilidade da prisão temporária para que fossem ouvidos os investigados pela autoridade policial sem possibilidade de prévio acerto de versões com outros integrantes. Nesse sentido, transcrevo com exatidão o trecho da decisão reclamada:
+    “Ademais, a imprescindibilidade da medida para a investigação é evidente, assegurando, dentre outros efeitos, que os envolvidos sejam ouvidos pela autoridade policial sem possibilidade de prévio acerto de versões com outros integrantes da ORCRIM ou mediante pressão por parte das pessoas mais influentes do grupo”. (eDOC 10, p. 13)
+    Do excerto se extrai a conclusão de que o decreto de prisão temporária expedido em desfavor do requerente é contrário ao julgado do Supremo Tribunal Federal na ADPF 444-DF.
+    Com esses fundamentos, e verificando a existência de idêntica situação de fato entre o requerente e o reclamante, defiro o pedido de extensão para suspender a ordem de prisão temporária decretada em seu desfavor.
+    Expeça-se o contramandado de prisão. Comunique-se com urgência.
+    Em seguida, abra-se vista dos autos à PGR.
+    Publique-se.
+    Brasília, 13 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
