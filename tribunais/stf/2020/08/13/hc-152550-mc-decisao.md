@@ -1,0 +1,20 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – PREJUÍZO PARCIAL.
+PENA – CAUSA DE DIMINUIÇÃO – PERCENTUAL – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Aparecida de Goiânia/GO, no processo nº 158277-02.2016.8.09.0011, condenou o paciente a 4 anos e 7 meses de reclusão, em regime inicial fechado de cumprimento, e ao pagamento de 425 dias-multa, ante a prática do crime previsto no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Na dosimetria, impôs a pena-base em 6 anos, observado o piso de 5 a o teto de 15 anos. Assentou desfavoráveis as circunstâncias judiciais relativas à culpabilidade, conduta social, motivos e consequências do crime. Fez incidir, em 6 meses, a atenuante da confissão. Levou em conta, no patamar de 1/6, a causa de diminuição versada no § 4º do mencionado dispositivo, aludindo à natureza e à quantidade de substância apreendida – 12 quilos de cocaína.
+    A Quinta Turma da Primeira Câmara Criminal do Tribunal de Justiça deu parcial provimento à apelação formalizada pela defesa, para afastar a consideração negativa das circunstâncias judiciais, estabelecendo a pena-base no mínimo previsto para o tipo. Redimensionou a sanção, fixando-a em 4 anos e 2 meses de reclusão, e pagamento de 416 dias-multa. Determinou, destacando o decidido pelo Supremo no habeas corpus nº 126.292, a expedição de mandado de prisão para início da execução da pena. Embargos de declaração não foram acolhidos.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 427.121/GO. O Relator indeferiu a ordem.
+    Os impetrantes destacam violado o artigo 387, § 2º, do Código de Processo Penal, dizendo não levado em conta o período de custódia provisória. Afirmam viável a observância da causa de diminuição no teto legal. Aduzem que, reduzida a pena, são cabíveis o regime mais brando e a substituição por restritiva de direitos. Realçam desrespeitado o princípio constitucional da não culpabilidade, tendo em vista a imposição antecipada do cumprimento da pena, ausente a preclusão maior do título condenatório.
+    Requerem, no campo precário e efêmero, seja afastada execução provisória da pena; a incidência, na fração máxima, da causa de diminuição e a consideração do período de custódia provisória, observando-se, por consequência, regime inicial mais brando. No mérito, pretendem a confirmação das providências.
+    Consulta ao sítio do Superior Tribunal de Justiça revelou que o Relator, ministro Rogério Schietti Cruz, no habeas de nº 427.121/GO, acolheu pedido de reconsideração e deferiu a ordem, para fixar o regime semiaberto, observado o período que permaneceu preso preventivamente – 6 meses e 22 dias.
+    Mediante o Ofício nº 241/2018-GAB, o Juízo da Segunda Vara Criminal de Aparecida de Goiânia informou o trânsito em julgado do título condenatório, em 20 de abril de 2018, com expedição de guia de recolhimento definitivo em 6 de junho seguinte.
+    2. Ante a notícia acerca da preclusão maior do título condenatório, bem assim do deferimento da ordem no habeas corpus nº 427.121/GO, fixado o regime semiaberto, tem-se o prejuízo parcial do habeas, no que voltado ao afastamento da execução provisória da pena e à consideração do período que permaneceu preso preventivamente.
+    A teor do artigo 33, § 4º, da Lei nº 11.343/2006, mostra-se cabível a redução da sanção, no patamar de 1/6 a 2/3, quando o agente é primário, com bons antecedentes e não se dedica a atividades delituosas nem participa de organização criminosa. O preceito não indica os dados a serem levados em conta para fins de definição do percentual aplicável. De regra, a pena é estabelecida sob o ângulo do justo ou injusto, não se podendo generalizar o instituto da ilegalidade.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 13 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
