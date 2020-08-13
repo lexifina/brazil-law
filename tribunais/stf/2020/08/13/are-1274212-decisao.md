@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário sob os seguintes fundamentos: i) incidência da Súmula 282/STF; ii) impossibilidade de reexame de legislação infraconstitucional, e iii) incidência do Tema 660 da Repercussão Geral (págs. 162-167 do documento eletrônico 16).
+    O agravo não merece acolhida, dado que a recorrente deixou de atacar os fundamentos da decisão agravada referentes à incidência do Tema 660, bem como a impossibilidade de reexame de legislação infraconstitucional.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma – grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    No mesmo sentido, cito, anda, os seguintes precedentes: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; e ARE 752.372-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários anteriormente fixados pelo juízo de origem em relação a ora recorrente, observados os limites legais.
+    Publique-se.
+    Brasília, 13 de agosto de 2020.
+Ministro Ricardo Lewandowski
+Relator
