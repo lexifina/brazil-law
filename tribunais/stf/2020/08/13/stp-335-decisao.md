@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Trata-se de pedido de suspensão de tutela provisória, apresentado pelo Município de Pirambu/SE, contra decisão proferida pelo Tribunal Regional Federal da 5ª Região, nos autos da Ação Cautelar nº 0806178- 86.2019.4.05.0000, que manteve decisão do Juízo de origem, que rejeitou homologação à proposta de acordo apresentada pelas partes.
+    Aduziu o requerente que esse acordo foi entabulado entre os municípios litigantes e contou com a devida autorização legislativa de ambas as câmaras municipais.
+    E a decisão atacada acarreta grave lesão à ordem econômica de ambos os municípios, que se encontram privados dos recursos referentes a essa disputa.
+    Defendeu, assim, os termos do acordo a que chegaram as partes e postulou a imediata suspensão dos efeitos da decisão regional atacada, para que esse acordo seja prontamente homologado.
+    O pedido liminar de suspensão foi indeferido pelo então Presidente em exercício, Ministro Luiz Fux, por meio de decisão que restou assim ementada:
+     TUTELA PROVISÓRIA NA SUSPENSÃO DE TUTELA PROVISÓRIA. MATÉRIA CONSTITUCIONAL. LITÍGIO ENTRE MUNICÍPIOS. RECEITAS ORIGINÁRIAS. ACORDO JUDICIAL NÃO HOMOLOGADO. AUSÊNCIA DE COMPROVAÇÃO DO PERIGO DE GRAVE DANO À ORDEM E À ECONOMIA PÚBLICAS. PRECEDENTES. LIMINAR INDEFERIDA.
+    Seguiu-se a interposição de agravo regimental, em que o autor da contracautela insiste no acolhimento de seu pedido, reiterando inexistir litígio, entre as partes, na ação original e que, em virtude disso, não há que se falar na prolação de decisão de mérito, senão de simples homologação do acordo a que lá chegaram os litigantes.
+    Por fim, o parecer da douta Procuradoria-Geral da República, contrariamente ao deferimento da pretendida suspensão, restou assim ementado:
+    SUSPENSÃO DE TUTELA PROVISÓRIA. CONSTITUCIONAL. LIMITES TERRITORIAIS DE MUNICÍPIOS SERGIPANOS. DISTRIBUIÇÃO DE ROYALTIES DE PETRÓLEO E GÁS NATURAL. ESTAÇÃO ROBALO. PETROBRÁS. ACORDO EXTRAJUDICIAL NÃO HOMOLOGADO. SUSPENSÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. NÃO CONHECIMENTO RISCO DE DANO INVERSO. INDEFERIMENTO DA CONTRACAUTELA, PREJUDICADO O AGRAVO INTERNO.
+    1. Não é cabível pedido de suspensão formulado em face de decisão proferida por Tribunal Regional Federal em pedido de Tutela Cautelar Antecedente visando a atribuir efeitos imediatos a acordo extrajudicial não homologado judicialmente, por ser a via suspensiva inadequada para avaliar o acerto ou desacerto da decisão objurgada, o que exige aprofundada análise do mérito.
+    2. Há risco de dano inverso quando a contracautela é potencialmente irreversível pela futura inviabilidade da devolução de expressivos valores pelo município requerente a quem de direito na ação originária.
+    — Parecer pelo não conhecimento do pedido, ou, caso superado o óbice processual, pelo seu indeferimento, prejudicado o agravo interno.
+    É o relatório.
+    Decido:
+    Destaco, inicialmente que a suspensão de liminar é medida excepcionalíssima e que os requisitos para a sua concessão devem ser interpretados estritamente.
+    A interferência mínima do Supremo Tribunal Federal se justifica pela necessária preservação da jurisdição que ainda será prestada pelo juízo, considerado o mérito da demanda subjacente e toda a pirâmide recursal prevista pelo ordenamento jurídico pátrio.
+    Compreende-se, assim, que o pleito de suspensão de segurança é medida de contracautela que visa assegurar o resultado útil e a eficácia do recurso que vier a ser interposto. Nesse sentido é o acórdão proferido no Agravo Regimental em Suspensão de Segurança nº 846-3/DF, Rel. Min. Sepúlveda Pertence, DJ de 8/11/1996, in verbis:
+    “I – Suspensão de segurança: natureza cautelar e pressuposto de viabilidade do recurso cabível contra a decisão concessiva da ordem.
+    A suspensão de segurança, concedida liminar ou definitivamente, é contracautela que visa à salvaguarda da eficácia plena do recurso que contra ela se possa manifestar, quando a execução imediata da decisão, posto que provisória, sujeita a riscos graves de lesão a interesses públicos privilegiados – a ordem, a saúde, a segurança e a economia pública: sendo medida cautelar, não há regra nem princípio segundo os quais a suspensão da segurança devesse dispensar o pressuposto do fumus boni juris que, no particular, se substantiva na probabilidade de que mediante o futuro provimento do recurso venha prevalecer a resistência oposta pela entidade estatal à pretensão do impetrante.”
+    Observa-se, no presente caso, que o que pretende o requerente é, pela via da suspensão de liminar nesta Suprema Corte, obter a concessão de provimento judicial que já lhe foi negado, em duas instâncias da Justiça Federal.
+    Tem-se, destarte, que a pretensão ora deduzida não se subsume às hipóteses elencadas na legislação que disciplina o instituto da suspensão, porquanto a decisão impugnada não constitui concessão de liminar, de segurança ou de antecipação de tutela contrária ao interesse público, tampouco podendo ser assim considerada a anterior decisão proferida pelo Juízo de origem.
+    O que ocorreu, na hipótese ora em análise, foi a rejeição da homologação de termo de acordo apresentado ao Juízo, com a imediata prolação de sentença, o que ensejou a apresentação, à Corte regional competente para apreciar futuro recurso de apelação, de pedido de tutela provisória antecedente, igualmente rejeitado.
+    Objetiva o requerente, em verdade, dotar o presente processo de nítido efeito ativo e, ademais, de caráter recursal e, assim, per saltum, ver revista decisão que entende contrária a seus interesses, o que não se mostra possível.
+    Nesse sentido, os seguintes precedentes:
+          “AGRAVO REGIMENTAL NA SUSPENSÃO DE SEGURANÇA. MANDADO DE SEGURANÇA. LIMINAR INDEFERIDA. PEDIDO DE EFEITO ATIVO NA SUSPENSÃO. AUSÊNCIA DE DECISÃO A SER SUSPENSA. INADMISSIBILIDADE DO PEDIDO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (SS 5.190-Agr/MG, Tribunal Pleno, Relª Minª Cármen Lúcia, DJe de 14/3/18).
+    “1. O instituto da suspensão de segurança deve ser manejado segundo os requisitos previstos na lei de regência e não para a concessão de efeito ativo (...)” (SS nº 5.102, Tribunal Pleno, de minha relatoria, DJe de 4/12/19).
+    O Supremo Tribunal Federal firmou igualmente jurisprudência no sentido de não se admitir a utilização de suspensão de liminar como sucedâneo de outros instrumentos processuais previstos na legislação.
+    Conclui-se, portanto, que a pretensão do requerente foge ao escopo da suspensão de liminar, uma vez que se trata, como dito, de pedido de concessão de efeito ativo, dotado de nítida pretensão recursal. Sobre o tema, anotem-se os seguintes precedentes: SL nº 798/RS, Rel. Min. Ricardo Lewandowski, DJe de 25/11/14; SL nº 56-AgR/DF, Relª. Minª. Ellen Gracie, DJ de 23/6/06; SS nº 2.900/DF, Rel. Min. Nelson Jobim, DJ de 24/3/06; SS nº 1.299, Rel. Min. Celso de Mello, DJ de 30/4/99; SS nº 2.184, Rel. Min. Maurício Corrêa, DJ de 14/11/03; STA nº 840/DF-AgR, de minha relatoria, DJe de 18/10/18 e SL nº 1.121/PR-AgR, Relª. Minª. Cármen Lúcia, DJe de 18/4/18.
+    Ausentes, assim, os requisitos legais aptos ao trâmite do pedido, impõe-se o indeferimento desta suspensão.
+    Ante o exposto, nego seguimento ao pedido (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a análise do agravo interposto nos autos.
+    Publique-se.
+    Brasília, 13 de agosto de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
