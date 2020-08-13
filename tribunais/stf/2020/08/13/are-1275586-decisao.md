@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) o acordão recorrido estaria em conformidade com o RE 631.240/MG, da relatoria do Ministro Roberto Barroso (Tese 350 da Repercussão Geral); (ii) o acórdão recorrido teria decidido a causa com base em interpretação e aplicação de legislação infraconstitucional, caracterizando ofensa indireta à Constituição Federal; e (iii) incidência da Súmula 279 do STF (documento eletrônico 10).
+    O agravo não merece acolhida.
+    Isso porque o Instituto Nacional do Seguro Social - INSS, nas razões do agravo, não impugnou os fundamentos da decisão agravada pertinentes à aplicação do Tema 350 da Repercussão Geral, em especial o entendimento de que “a exigência de prévio requerimento não se confunde com o exaurimento das vias administrativas”, o que atrai a aplicação da Súmula 287 do STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma; grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma; grifei).
+    No mesmo sentido, cito os seguintes precedentes: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; e ARE 752.372-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 5% (cinco por cento) os honorários anteriormente fixados pelo Juízo de origem, observados os limites legais.
+    Publique-se.
+    Brasília, 13 de agosto de 2020.
+Ministro Ricardo Lewandowski
+Relator
