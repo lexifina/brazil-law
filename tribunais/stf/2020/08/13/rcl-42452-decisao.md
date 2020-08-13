@@ -1,0 +1,23 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada em face de decisão do Tribunal de Justiça do Estado de São Paulo (autos nº 1048465-05.2016.8.26.0053), que manteve, em agravo, decisão que negara seguimento a recurso extraordinário com base na sistemática da repercussão geral. Transcrevo a ementa do ato reclamado:
+    “AGRAVO INTERNO. Decisão monocrática que negou seguimento ao recurso extraordinário.
+    - A controvérsia relativa a procedimentos, critérios e requisitos para a restituição de imposto ou contribuição pago a maior no regime de substituição tributária progressiva é matéria idêntica à examinada pela Suprema Corte, no leading case, ARE nº 1.222.648/SP, Tema n. 1060/STF.
+    - A questão referente à possibilidade de restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) pago a mais no regime de substituição tributária para frente, quando a base de cálculo efetiva da operação for inferior à presumida, é idêntica à examinada pela Suprema Corte no leading case, RE n. 593.849/MG, Tema n. 201/STF.
+    Nega-se provimento ao recurso.”
+    2.  Na presente reclamação, a empresa autora insurge-se contra esta decisão, sustentando a sua divergência do posicionamento firmado pelo STF no julgamento do RE 593.689-RG (tema 201 da repercussão geral), ao impor a submissão do contribuinte a prévio procedimento verificador dos créditos a serem lançados, previsto em legislação local, obstando o pronto lançamento na escrita fiscal. Sustenta que faz jus ao imediato ressarcimento do imposto recolhido à maior, tendo em vista que “o STF não condicionou o lançamento dos créditos escriturais a qualquer procedimento de fiscalização prévia” (doc.1, p. 8).
+    3. É o relatório. Decido.
+    4. Dispenso as informações, a manifestação da Procuradoria-Geral da República, e a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    5. Cumprido o requisito previsto no art. 988, § 5º, II, do CPC/2015 - esgotamento das instâncias ordinárias para ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral. Isto porque o presente feito foi ajuizado em face de acórdão proferido em agravo interno em recurso extraordinário (conforme art. 1.030, I, a, do CPC/15).
+    6. Passo à análise do mérito.
+    7. Não vislumbro a aplicação errônea da tese firmada no Tema 201 da repercussão geral (RE 593.689, rel. Min. Edson Fachin), o qual trata de matéria específica que efetivamente se identifica à trazida nesses autos, qual seja, a “restituição da diferença de ICMS pago a mais no regime de substituição tributária”. Em verdade, o órgão reclamado reconheceu o entendimento firmado no precedente de repercussão geral, mas, quanto à restituição, afirmou ser indevida a pretensão de ressarcimento imediato, sem o prévio trâmite administrativo de conferência de créditos previsto na legislação infraconstitucional, matéria não tratada no referido paradigma. Não admitiu, assim, o recurso extraordinário, com fundamento na ausência de ofensa direta ao texto constitucional, por entender que a discussão referente aos procedimentos, critérios e requisitos para se postular a restituição do valor de imposto ou contribuição recolhido a maior demandaria a análise da legislação infraconstitucional, o que é inviável na via extraordinária.
+    8. Como destacou a decisão reclamada, o Plenário do Supremo Tribunal Federal, ao apreciar o ARE 1.222.648, Rel. Min. Dias Toffoli (Tema 1060), reconheceu a inexistência de repercussão geral da questão, entendendo que a matéria discutida naquele paradigma não possui índole constitucional. Confira-se a ementa do julgado:
+    “Recurso extraordinário com agravo. Tributário. Art. 150, § 7º, CF. Impostos e contribuições. ICMS. Regime de substituição tributária para a frente. Base de cálculo inferior à presumida. Procedimentos, critérios e requisitos para a restituição. Legislação infraconstitucional. Ausência de repercussão geral.
+    1. É infraconstitucional a controvérsia fundada na interpretação de legislação infraconstitucional relativa a procedimentos, critérios e requisitos para a restituição de imposto ou contribuição em regime de substituição tributária para a frente.
+    2. Ausência de repercussão geral.”
+    9. Na mesma linha, confira-se a decisão monocrática proferida na Rcl 35.950-ED, Rel. Min. Gilmar Mendes.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada.
+    11. Em caso de interposição de recurso, deve a parte reclamante atribuir valor a causa.
+    Publique-se.
+          Brasília, 13 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
