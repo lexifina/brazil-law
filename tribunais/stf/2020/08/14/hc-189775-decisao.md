@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Tentativa de homicídio qualificado. Alegação de nulidade. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que denegou a ordem de HC 582.788, do Superior Tribunal de Justiça.
+    2. A parte impetrante sustenta a nulidade do ato apontado como coator, ante “a ausência de intimação do Impetrante para realizar sustentação oral conforme requerido em sua peça original”. Afirma que “[o] Impetrante ingressou com Habeas Corpus Liberatório (HC 582788), com pedido de Liminar, em favor de (...), em 25/05/2020, informando em seus pedidos finais a intenção de realizar sustentação oral, bem como acompanhar o julgamento do processo de forma presencial”. Ocorre que, “[e]m que pese ter formalizado o pedido de sustentação oral, o Nobre Julgador não se atentou quanto ao pleito requerido, assim, o presente Habeas Corpus foi posto para julgamento em 03/08/2020, sem que fosse oportunizado ao Impetrante a sua intimação de pauta e possibilitado a sustentação oral”.
+    3. A defesa requer a concessão da ordem a fim de anular a decisão do STJ, determinando que seja “pautada nova data para julgamento do HC 582788, perante a 6ª Turma do Superior Tribunal de Justiça, bem como a expedição da devida intimação de pauta para que possibilite a realização de sustentação oral”.
+    4. Decido.
+    5. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    6. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    7.  Não é o caso de concessão da ordem de ofício.
+    8. As alegações da defesa não foram sequer submetidas à apreciação do STJ. Fato que impede o imediato exame da matéria pelo STF, sob pena de supressão de instância.
+    9. Ainda que assim não fosse, a orientação jurisprudencial do STF é no sentido de que inexiste violação ao princípio da colegialidade na utilização, pelo Ministro relator, das faculdades previstas nos arts. 38 da Lei nº 8.038/1990 (atualmente revogado pela Lei nº 13.105/2015) e no art. 21, § 1º, do RI/STF (MS 28097-AgR, Rel. Min. Celso de Mello; RHC 119.231-AgR, Rel.ª Min.ª Cármen Lúcia; HC 118.438, Rel. Min. Teori Zavascki).
+    10. Na hipótese de que se trata, o Relator do HC 582.788, Ministro Nefi Cordeiro, denegou a ordem. De modo que, em razão do julgamento monocrático da impetração formalizada no STJ, não há falar em intimação da defesa para sustentar oralmente suas razões.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 14 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
