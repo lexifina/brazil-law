@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “RAZÕES RECURSAIS QUE NÃO DEMONSTRAM O DESACERTO DA SENTENÇA. RECURSO DO RÉU CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS (ARTS. 46 DA LEI Nº 9.099/95 E 40 DO RITR/SJRJ).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, § 5º, da CF.
+    A pretensão recursal não merece prosperar. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    O acórdão recorrido não diverge do entendimento desta Corte, no sentido de que a imprescritibilidade a que se refere o art. 37, § 5º, da CF diz respeito a ações de ressarcimento de danos ao erário decorrentes de atos praticados por qualquer agente, servidor ou não, tipificados como ilícitos de improbidade administrativa ou como ilícitos penais (RE 669.069, Rel. Min. Teori Zavascki - Tema 666).
+    No caso, a sentença confirmada pela Turma Recursal concluiu pela imprescritibilidade da repetição, porquanto o valor a ressarcir ao erário não teve origem em ilício civil, mas, sim, advém de concessão fraudulenta de benefício previdenciário. Assim, restou consignado:
+    “No caso em apreço, segundo consta do processo administrativo nº 37367.001528/2007-31 (fls. 304/306), o autor recebeu, de forma fraudulenta, o benefício de aposentadoria por tempo de serviço (NB 42/136.588.004-1), já que foi inserido no CNIS vínculo empregatício fictício.
+    Sendo assim, considerando que a origem do débito em cobrança pelo INSS não é meramente civil, mas gera evidente prejuízo aos cofres públicos em razão da concessão fraudulenta de benefício previdenciário a partir de vínculo empregatício inexistente, deve haver o ressarcimento ao erário, nos termos do art. 37, § 5º, da CF.”
+     Evidentemente, para dissentir da conclusão do Tribunal de origem, seria necessário o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 14 de agosto de 2020
+Ministro LUÍS ROBERTO BARROSO
+Relator
