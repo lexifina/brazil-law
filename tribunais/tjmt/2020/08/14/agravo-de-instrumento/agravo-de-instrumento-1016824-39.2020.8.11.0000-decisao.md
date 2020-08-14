@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1016824-39.2020.8.11.0000
+AGRAVANTE: COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS OURO VERDE DE MATO GROSSO - SICREDI OURO VERDE MT
+Recurso sem pedido de efeitos.
+Intime-se os agravados para apresentarem contraminuta, no prazo.
+Cuiabá, 14 de agosto de 2020.
+Des. Guiomar Teodoro Borges
+Relator
