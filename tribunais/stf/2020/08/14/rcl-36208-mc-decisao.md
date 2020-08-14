@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 49 DA SÚMULA – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Vetor Locação Eireli – ME afirma haver o Município de Rio Branco/AC, no procedimento administrativo nº 42.220/2018, olvidado o teor do verbete vinculante nº 49 da Súmula do Supremo.
+    Segundo narra, promoveu alteração no contrato social visando a inclusão, no objeto, de comércio varejista de combustíveis e lubrificantes. Protocolado pedido de emissão de certidão de viabilidade para uso e ocupação do solo, foi indeferido pela Secretaria Municipal, ato ratificado pela Prefeita, ante apontado conflito com o versado na Lei municipal nº 1.542/2005, no que exigido distanciamento mínimo de 1.200 metros entre dois postos de abastecimento. Eis o teor do preceito:
+    Art. 3º - A autorização para a construção de postos de abastecimento de combustível e serviços será concedida pela Secretaria Municipal da Cidade, ouvida a Gerência de Meio Ambiente, ou outros órgãos que as substituírem com a mesma competência, observadas as seguintes condições:
+    [...]
+    III - a menor distância, medida a partir do ponto de estocagem será de 1.200m (mil e duzentos metros) de raio do posto de abastecimento e serviços mais próximo, já existente, em razão do adensamento de estocagem de combustível no subsolo e risco potencial;
+    Sustenta violado o paradigma uma vez limitada a concorrência com base na legislação municipal, no que impedida, a pretexto de garantir-se a segurança, a instalação de posto de revenda de combustíveis, levando em conta a distância geográfica entre empreendimentos do mesmo ramo.
+    Sob o ângulo do risco, alude aos prejuízos sofridos.
+    Requer, no campo precário e efêmero, a suspensão do ato impugnado e o afastamento do óbice versado na Lei local atinente ao distanciamento mínimo entre estabelecimentos comerciais. Pretende, no mérito, a confirmação da providência e a cassação do pronunciamento atacado.
+    O Município de Rio Branco assevera inadequado o implemento da liminar ante a irreversibilidade da medida. Conforme argumenta, uma vez concedida a licença, ficarão permitidas a construção e a instalação do empreendimento. Evoca a Lei nº 8.078/1990, considerada a Política Nacional das Relações de Consumo e o disposto no artigo 170 da Constituição Federal. Diz respaldado o ato reclamado no princípio da razoabilidade, bem assim na saúde e segurança públicas, proteção ambiental e defesa do consumidor.
+    2. Relativamente à arguida irreversibilidade do pedido de medida acauteladora, ante acolhimento, cumpre frisar a precariedade do pronunciamento, a permitir eventual revogação caso, uma vez aparelhado o processo, venha a ser formado convencimento no sentido da inadequação da pretensão veiculada.
+    Da análise das peças, conclui-se que, formalizado requerimento voltado à expedição de certidão de viabilidade para uso e ocupação do solo, com a finalidade de instalação de posto de abastecimento, acabou indeferido considerada a proximidade com outro empreendimento da mesma natureza. Observou-se vedação contida no artigo 3º, inciso III, da Lei nº 1.542/2005, do Município de Rio Branco. Impediu-se, com base em normal local, a exploração de comércio do mesmo ramo em certa região, a resultar em contrariedade ao verbete vinculante nº 59, cujo teor é o seguinte:
+    Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área.
+    O enunciado encerra entendimento, em tese e vinculante, no sentido da invalidade de norma local voltada a restringir a abertura de comércio de idêntica atividade tendo em conta o critério geográfico. No paradigma, não há – certo ou errado, não cabe, nesta via, perquirir – previsão de ressalva, inclusive no tocante à possível necessidade de tutelar-se a segurança de munícipes.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, o ato impugnado, formalizado no procedimento administrativo nº 42.220/2018, e determinar seja reapreciado o pedido de expedição de certidão de viabilidade para uso e ocupação do solo independentemente do previsto no artigo 3º, inciso III, da Lei municipal nº 1.542/2005.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
