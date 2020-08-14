@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 20/1998 E FALECIDO APÓS O ADVENTO DA EMENDA CONSTITUCIONAL 41/2003. DIREITO DA PENSIONISTA À PARIDADE MAS NÃO À INTEGRALIDADE. ENTENDIMENTO FIRMADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 603.580. TEMA 396 DA REPERCUSSÃO GERAL. RECURSO PARCIALMENTE PROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO CUMULADA COM COBRANÇA DAS DIFERENÇAS EM ATRASO. SERVIDOR APOSENTADO FALECIDO NA VIGÊNCIA DA EC 41/2003. PRINCÍPIO TEMPUS REGIT ACTUM. RECURSO AO QUAL SE NEGOU SEGUIMENTO, NA FORMA DO ART. 557 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO. IMPROVIMENTO.
+    I – Garante o artigo 7º da Emenda Constitucional nº 41, de 19/12/2003, a revisão dos benefícios dos pensionistas sempre que houver modificação da remuneração dos servidores em atividade, estendendo inclusive aqueles os benefícios e vantagens concedidos a estes;
+    II – O instituidor da pensão faleceu quando em vigor a EC 41/2003 que alterou o texto constitucional, notadamente no que dispunha o seu artigo 40, § 8º, extinguindo a paridade entre servidores ativos e pensionistas, prevendo, ainda, em seu artigo 3º as regras de transição referente à integralidade, extinção essa que, se atingida a pensionista estaria, de forma oblíqua, atingindo o direito adquirido pelo servidor, aposentado anteriormente a sua vigência;
+    III – Improvimento ao agravo interno.” (Doc. 8)
+    Os embargos de declaração opostos foram desprovidos (Doc. 11).
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, § 7º, I, e § 8º, da Constituição Federal. Alega, em síntese, que, com o advento da Emenda Constitucional 41/2003, “não existe direito adquirido da autora à integralidade nem à paridade, havendo o benefício de ser calculado e reajustado consoante a dicção dos parágrafos 7º, I, e 8º do art. 40 da Lei Maior, devendo-se tomar em consideração o valor da aposentadoria do ex-servidor ao tempo do óbito, e aplicar a equação prevista no § 7º da CF (teto do regime geral da previdência social, mais 70% do que exceder), acrescida de reajustes previstos da lei” (Doc. 13).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de ofensa reflexa à Constituição Federal e que encontraria óbice na Súmula 286 do STF (Doc. 16).
+    O Superior Tribunal de Justiça deu parcial provimento ao recurso especial para determinar novo julgamento dos embargos de declaração pelo Tribunal de Justiça do Estado do Rio de Janeiro (Doc. 20).
+    Em novo julgamento, o Tribunal de origem deu parcial provimento aos embargos de declaração apenas para fixar índice para reajuste anual do benefício previdenciário (Doc. 22).
+    Encaminhados os autos ao Supremo Tribunal Federal, determinei a devolução do feito ao Tribunal de origem para aplicação da sistemática da repercussão geral – Tema 396 (Doc. 27).
+    O órgão julgador do Tribunal de origem, em juízo negativo de retratação, manteve o acórdão recorrido (Doc. 29, p. 4-11).
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso, sob o entendimento de que “o acórdão houve por bem reconhecer que a pensionista faz jus à integralidade, bem como à paridade, razão pela qual aparenta estar em divergência com entendimento firmado pelo STF no paradigma” (Doc. 29, p 13-16).
+    É o relatório. DECIDO.
+    O recurso merece prosperar parcialmente.
+    In casu, o Tribunal de origem consignou que o instituidor do benefício se aposentou antes da Emenda Constitucional 20/1998 e faleceu após o advento da Emenda Constitucional 41/2003, reconhecendo à parte ora recorrida o direito à paridade e à integralidade do benefício previdenciário.
+    Nada obstante, o Plenário desta Suprema Corte, ao apreciar o RE 603.580, Rel. Min. Ricardo Lewandowski, Tema 396 da Repercussão Geral, fixou a seguinte tese: “Os pensionistas de servidor falecido posteriormente à EC nº 41/2003 têm direito à paridade com servidores em atividade (EC nº 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC nº 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I)”. Por oportuno, trago à colação a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO.
+    I – O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor.
+    II – Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade.
+    III – Recurso extraordinário a que se dá parcial provimento.”
+     Ex positis, DOU PARCIAL PROVIMENTO ao recurso extraordinário, com fundamento no disposto no artigo 932, V, do CPC/2015, apenas para afastar o direito da parte ora recorrida à integralidade do benefício previdenciário, ficando garantido o seu direito à paridade. Reconheço a ocorrência de sucumbência recíproca e determino a compensação dos honorários advocatícios.
+    Publique-se.
+    Brasília, 14 de agosto de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
