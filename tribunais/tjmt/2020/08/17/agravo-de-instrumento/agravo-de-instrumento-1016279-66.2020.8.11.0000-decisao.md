@@ -1,0 +1,18 @@
+AI no 1016279-66.2020.8.11.0033
+VISTOS...
+Recurso de agravo de instrumento aviado por Roni Kler Wichoski e Rodrigo Emerson Wichoski, objetivando reforma da decisão que indeferiu o pedido de tutela de urgência, consistente na suspensão da ordem judicial de reintegração de posse imposta ao imóvel sob matrícula n. 305 do CRI de São José do Rio Claro, nos autos da ação de embargos de terceiro promovida em face de Roberto Valdecir Brianti, Elia Garcia Brianti, João Sidnei Cervantes, Rosângela Freire Munhoz Cervantes, Adilson Cervantes e Espólio de Adelina Freire Cervantes.
+Para tal desiderato sustentam que são proprietários e possuidores de boa-fé de um lote de terras, sendo que estão na posse do imóvel desde 2009 na condição de arrendatários até 2011, quando adquiriram por meio do instrumento particular de venda e compra, motivo pelo qual vindicam o cancelamento da constrição judicial – reintegração de posse - advinda do processo cód. 9041 - no 811 -39.2004.811.0033.
+Aduzem que quando adquiriram o imóvel não havia nada que legalmente impedia a concretização do negócio e que desconheciam qualquer litígio envolvendo o bem, tanto que realizaram investimentos, além do plantio de milho pendente de colheita, o que justifica a manutenção na posse, sob pena de irreparável prejuízo.
+Defendem que estão presentes os requisitos previstos nos art. 674 e 678 do CPC, de maneira que deve ser concedida a tutela de urgência pretendida.
+O indeferimento da liminar se impõe.
+Destaque-se que o fundamento utilizado na decisão revela a constatação de um fato que afasta a suposta probabilidade do direito dos agravantes e autoriza o indeferimento da antecipação de tutela.
+É que, a melhor posse do bem litigioso foi reconhecida, na sentença e no acórdão proferido pela Terceira Câmara de Direito Privado que a confirmou (Id. 53726462), em favor dos agravados Roberto Valdecir Brianti e sua esposa Elia Garcia Brianti e não dos agravados João Sidnei Cervantes, Rosângela Freire Munhoz Cervantes, Adilson Cervantes e Espólio de Adelina Freire Cervantes, com quem os recorrentes firmaram o contrato de arrendamento e de compra e venda do referido imóvel (Id. 34069036 e 34069245 dos autos de origem).
+Nesse contexto, considerando que na ação principal já foi apreciado e decidido por acórdão que os agravados João Sidnei Cervantes, Rosângela Freire Munhoz Cervantes, Adilson Cervantes e Espólio de Adelina Freire Cervantes não detinham a posse anterior do imóvel, a probabilidade do direito dos embargantes desaparece e justifica a não concessão da proteção judicial perquirida.
+Ressalte-se que a ação principal ainda não transitou em julgado tendo em vista a interposição de recurso especial por parte dos agravados Roberto Valdecir Brianti e sua esposa Elia Garcia Brianti que se insurgem apenas quanto ao termo inicial do pedido de indenização pelos danos decorrentes do esbulho, não havendo notícias de qualquer insurgência por parte dos demais agravados contra o referido acórdão.
+Ressalte-se, ademais, que quando a ação principal, ajuizada em 2004, ainda estava em trâmite na comarca de origem veio a notícia aos autos de que os autores (naquela ação) haviam alienado o imóvel para terceiros, identificados como sendo os ora agravantes, o que põe em dúvida a afirmação de que eles desconheciam a situação litigiosa do bem e que foram surpreendidos com a notícia somente quando do cumprimento do mandado de reintegração de posse (Id. 53726459), bem como afasta a urgência que justifica a concessão da liminar.
+Isso posto, indefiro o pedido de efeito ativo.
+Comunique-se o juízo de primeiro grau.
+Intimem-se para apresentar contrarrazões.
+Cuiabá, 14 de agosto de 2020.
+José Zuquim Nogueira
+Desembargador Relator
