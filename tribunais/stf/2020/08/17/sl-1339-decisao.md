@@ -1,0 +1,27 @@
+DECISÃO:
+    Vistos.
+    Trata-se de pedido de suspensão de segurança, ajuizado pelo estado de São Paulo, tendo por objeto decisão proferida nos autos do Agravo de Instrumento nº 2097492-60.2020.8.26.0000, em trâmite no Tribunal de Justiça paulista, em que determinada a suspensão dos efeitos dos artigos 30 e 31, da Lei Complementar nº 1.354/20, para os associados da entidade autoras da ação, no que tange ao aumento e à progressividade das alíquotas de contribuição previdenciária.
+    Segundo narrado pelo requerente, tal decisão teria sido proferida nos autos de uma ação coletiva, podendo acarretar grave efeito negativo para suas combalidas finanças públicas, destacando, ainda, seu potencial efeito multiplicador.
+    Ademais, a matéria de fundo em discussão nos autos originais também é tema de repercussão geral, ainda pendente de decisão definitiva, nesta Suprema Corte, nos autos do ARE nº 875.958/GO, defendendo, por fim, a perfeita legalidade e constitucionalidade do sistema de alíquotas progressivas implementado pela referida legislação.
+    Por decisão datada de 9 de junho de 2020, foi deferida a pretendida cautelar.
+    As entidades autoras da demanda interpuseram agravo regimental, em que aduziram inexistir comprovação do alegado risco à ordem econômica, tampouco do mencionado déficit atuarial da previdência pública estadual paulista. Reiteraram a ilegalidade dos dispositivos dessa reforma previdenciária local, atacados na ação originária e asseveraram não ser possível a implementação desse aumento de alíquota de contribuição, sem a apresentação de minucioso estudo atuarial a secundá-lo.
+    O parecer da douta Procuradoria-Geral da República, pela concessão da contracautela, restou assim ementado:
+    SUSPENSÃO DE LIMINAR. CONSTITUCIONAL. PREVIDENCIÁRIO. SERVIDORES PÚBLICOS ESTADUAIS. INATIVOS E PENSIONISTAS. CONTRIBUIÇÃO PREVIDENCIÁRIA. MAJORAÇÃO. LIMINAR DEFERIDA. RISCO DE GRAVE LESÃO À ECONOMIA E À ORDEM PÚBLICAS. CONFIGURAÇÃO. PARECER PELO DEFERIMENTO DO PEDIDO. AGRAVO INTERNO PREJUDICADO.
+    1. É cabível pedido de suspensão da liminar em face de decisão mediante a qual se suspendeu os efeitos dos artigos 30 e 31, da Lei Complementar Estadual nº 1.354/2020, determinando-se que o Estado de São Paulo se abstivesse de implementar o aumento e a progressividade das alíquotas de contribuição previdenciária, bem como de ampliar a base de cálculo de contribuições sobre as aposentadorias e pensões dos filiados às entidades autoras.
+    2. Importa em grave risco de lesão à ordem e à economia públicas a decisão em ação coletiva que incidentalmente suspende para os filiados dos sindicatos autores os efeitos de dispositivos das normas estaduais que adequaram o regime estadual de previdência à reforma da previdência promovida pela LC 103/2019, aumentando as alíquotas de contribuição previdenciária nos limites da Constituição Federal, quando há situação de grave deficit financeiro no regime previdenciário dos servidores públicos estaduais.
+    – Parecer pelo deferimento da contracautela, prejudicado o agravo interno.
+    É o relatório.
+    Decido:
+    A presente contracautela tem por objeto decisão proferida pelo Tribunal de Justiça paulista e que suspendeu, liminarmente, a vigência de artigos constantes da reforma previdenciária levada a cabo no regime previdenciário público no âmbito do estado de São Paulo, por entender incabível a majoração de alíquota da contribuição, legalmente implementada.
+    Conforme ressaltei, quando da concessão da medida cautelar, nestes autos, a matéria atinente a essa discussão de fundo, levada a cabo na origem, já teve a repercussão geral reconhecida por este STF, com imposição de ordem de suspensão de todos os processos em trâmite no território nacional e que cuidem desse tema, nos autos do ARE nº 875.958-RG/GO.
+    E, ainda, que no bojo daquele autos, Sua Excelência, o relator, Min. Luis Roberto Barroso, determinou a suspensão do trâmite de todos os processos que discutem igual temática.
+    Assim, não poderia a Corte de origem ter determinado a suspensão da vigência das normas que elevaram as alíquotas de contribuição previdenciária no âmbito do estado de São Paulo, ainda mais de maneira cautelar.
+    Releva salientar, ainda, que diversas ações foram ajuizadas em face do trâmite dessa alteração legislativa, bem como do próprio resultado dessa reforma previdenciária, tendo sido suspensos os efeitos de todas as decisões cautelares deferidas nesses diversos processos.
+    Em atenção à insurgência deduzida pelos autores da demanda ajuizada na origem, reitero que o requerente instruiu a exordial desta contracautela com documentos que demonstram a existência de grave risco à ordem econômica, representado pela decisão atacada, sendo certo, ainda, que no estreito âmbito de uma ação, como a presente, não se analisa o mérito dessa demanda subjacente.
+    Mais conveniente, assim, a suspensão dos efeitos dessa decisão regional, para que seja mantida a vigência das aludidas normas legais.
+    Ante o exposto, confirmo a decisão liminar e defiro o pedido de contracautela a fim de sustar os efeitos da decisão do Tribunal de Justiça do estado de São Paulo, nos autos do Agravo de Instrumento nº 2097492-60.2020.8.26.0000, até o respectivo trânsito em julgado da ação a que se refere, prejudicado o agravo regimental interposto nos autos.
+    Publique-se.
+    Brasília, 17 de agosto de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
