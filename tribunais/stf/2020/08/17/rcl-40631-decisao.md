@@ -1,0 +1,28 @@
+RECLAMAÇÃO CONSTITUCIONAL. REGIME DE PRECATÓRIOS. ALEGAÇÃO DE VIOLAÇÃO DO QUE DECIDIDO NAS ADPF’S 387, 437 E 530, NO RECURSO EXTRAORDINÁRIO 599.628-RG E NA ADI 1.642. PERDA SUPERVENIENTE DE OBJETO. RECLAMAÇÃO PREJUDICADA.
+    Vistos, etc.
+    1. Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Empresa de Assistência Técnica e Extensão Rural do Estado do Rio de Janeiro (EMATER/RJ), com fundamento nos arts. 102, I, “l”, da Constituição Federal, 988, II e III, do Código de Processo Civil, e 156 a 162 do Regimento Interno do Supremo Tribunal Federal (RISTF), contra decisão proferida pelo Juízo da 4ª Vara do Trabalho de Niterói/RJ, nos autos do processo nº 0100006-46.2019.5.01.0244, que teria afrontado o quanto decidido por esta Suprema Corte nos julgamentos das Arguições de Descumprimento de Preceito Fundamental 387, 437 e 530, do Recurso Extraordinário 599.628, Tema nº 253 da Repercussão Geral, e da Ação Direta de Inconstitucionalidade 1.642.
+    2. A reclamante narra que a autoridade reclamada homologou os cálculos efetuados pela contadoria e determinou a realização do pagamento em 48 horas e, caso inadimplida a obrigação, a inclusão de seu nome no Banco Nacional de Devedores Trabalhistas.
+    Defende a sua sujeição ao regime de execução por precatórios, ao argumento de que esta Suprema Corte, ao julgamento dos paradigmas mencionados, decidiu que as pessoas jurídicas de direito privado integrantes da Administração Indireta que prestem serviço público essencial, de natureza não concorrencial, e que não visem à obtenção de lucro terão os privilégios da Fazenda Pública no pagamento de suas dívidas e a impenhorabilidade de seus bens.
+    Sustenta que, embora constituída sob a forma de empresa pública, não exerce atividade econômica, não almeja lucros, nem possui natureza concorrencial. Logo, “o rito de pagamento por meio de precatórios deve ser reconhecido para todas as dívidas de responsabilidade do ente público, bem como não pode haver constrição indevida em seus bens afetos ao serviço públicos”.
+    Em abono de sua tese, colaciona precedentes desta Suprema Corte, segundo os quais determinada a submissão de sua condenação judicial ao regime constitucional dos precatórios.
+    3. Deferi a medida liminar para determinar a suspensão dos efeitos da decisão reclamada (evento 41).
+    4. A autoridade reclamada prestou informações (evento 44).
+    5. Citado, o beneficiário do ato reclamado apresentou concorda em receber seu crédito sob o regime de precatório e requer a homologação da procedência da presente reclamação.
+    É o relatório.
+    Decido.
+    1. Em consulta ao andamento processual perante o sítio eletrônico do Tribunal Regional do Trabalho da Primeira Região, verifico que o Juízo reclamado proferiu a seguinte decisão, de maneira a aplicar o regime de Fazenda Pública à ora reclamante:
+    “ Este juízo vinha adotando posição clássica no sentido de que a execução de pessoas jurídicas de direito privado integrantes da Administração Indireta deveria se dar conforme os ditâmes do direito privado. Devendo estas serem submetidas ao regime de execução comum das empresas controladas pelo setor privado, matéria já decidida pelo STF em sede de repercussão geral (RE-RG 599.628, Rel. Min. Ayres Britto, DJe. 25.5.2011). E essa vinha sendo a forma em que este processo vinha sendo conduzido.
+    Entretanto, o STF, após ser conduzido a novas análises acerca da questão, especialmente em confronto aos temas tratados nas ações de ARGUIÇÃO DE DESCUMPRIMENTO DEPRECEITO FUNDAMENTAL – ADPF – 387, 437 e 530, vem recém se posicionando no sentido de estender o regime de precatórios às empresas públicas e sociedade de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial, ainda que sejam estas pessoas jurídicas de direito privado.
+    Nesse sentido, este Juízo vem achando por bem seguir o mesmo entendimento do STF em relação à EMATER-RIO. Ressalte-se que as ADPFs 437 e 530, mais específicas à hipótese,ainda não foram decididas de forma definitiva, havendo apenas liminar deferida.
+    No entanto, a ADPF nº 387, cujo trânsito em julgado foi registrado na data de 08.11.2017, decidiu que deveria ser observado o regime de Fazenda Pública para as empresas públicas e sociedades de economia mista prestadoras de serviços públicos essenciais em regime de monopólio, devendo suas dívidas serem executadas pela sistemática de precatórios judiciais, ou seja, pessoas jurídicas de direito privado integrantes da Administração Indireta que prestem serviço público essencial, de natureza não concorrencial e que não visem à obtenção de lucro,terão os privilégios da Fazenda Pública no pagamento de suas dívidas e impenhorabilidade de seus bens.
+    [...]
+    Assim, este Juízo altera o seu entendimento, para ficar em uníssono à jurisprudência da Suprema Corte, como pacificado na ADPF 387.
+    Deverá ser estendido à EMPRESA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL DOESTADO DO RIO DE JANEIRO – EMATER as prerrogativas das pessoas jurídicas de direito público, inclusive observando-se os juros próprios, assim como a expedição de precatório/requisição de pequeno valor.
+    Portanto, determino o encaminhamento dos autos à Contadoria para recálculo dos juros,observando-se a prerrogativa de Fazenda Pública, devendo, após, ser expedido RPV/Precatório referente ao crédito encontrado.
+    [...] ”
+    2. Diante da reforma da decisão reclamada na origem, evidente a perda de objeto do presente feito.
+    3. Ante o exposto, forte no art. 21, IX, do RISTF, casso a liminar anteriormente concedida e julgo prejudicada a reclamação, por perda superveniente de objeto.
+    Intimem-se. Publique-se.
+    Brasília, 17 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
