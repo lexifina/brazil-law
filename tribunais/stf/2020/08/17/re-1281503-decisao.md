@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal do Estado do Rio Grande do Sul que, por unanimidade, em juízo de retratação, deu parcial provimento ao recurso da parte autora, para condenar o INSS a conceder o benefício de aposentadoria por idade híbrida. Veja-se trecho pertinente do acórdão recorrido:
+    “[...]
+    No acórdão de Evento 37, esta 2ª Turma Recursal manteve a sentença que reputou não comprovado o suposto exercício de labor rural em regime de economia familiar no período de 01/01/2010 a 20/01/2015 e, embora o tenha reconhecido para o período de 11/07/1981 a 30/10/1990, negou a possibilidade de concessão de aposentadoria por idade híbrida com a adição desse último período, dado seu caráter remoto.
+    Tendo em vista que o óbice quanto à possibilidade de contagem de tempo rural remoto para fins de carência restou superado no julgamento do Tema 1007 pelo STJ, tenho que é caso de, com efeito, modificar o acórdão em sede de juízo de retratação.
+    Na via administrativa, observo que o INSS reconheceu que a autora 5002887-81.2015.4.04.7117 710010730142 .V3 havia recolhido 166 contribuições para fins de carência até a DER (20/01/2015 - Evento 1 - PROCADM3, p. 54), quando já havia cumprido o requisito etário. Nessas circunstâncias, considerando que o tempo de labor rural reputado comprovado é suficiente para completar os meses restantes para o preenchimento do requisito carência, forçoso reconhecer o direito da autora ao benefício de aposentadoria por idade híbrida desde a DER. Assim, o voto é por, em sede de juízo de retração, dar parcial provimento ao recurso da parte autora, para condenar o INSS a conceder aposentadoria por idade híbrida em seu favor, a contar de 20/01/2015.
+     […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 97; 195, § 5º, e 201 da CF.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido fundamentou sua decisão na legislação infraconstitucional pertinente, bem como no material fático-probatório dos autos, cujo reexame é inviável nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Veja-se, nessa linha, o seguinte precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Atividade rural. Contagem para fins de aposentadoria. Requisitos. Matéria infraconstitucional. Prova do trabalho rural. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para o reexame da legislação infraconstitucional nem dos fatos ou das provas constantes dos autos. Incidência da Súmula nº 279/STF.
+    2. Agravo regimental não provido.
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1.205.572 AgR, Rel. Min. Dias Toffoli (Presidente).
+    Ademais, não procede a alegada violação ao art. 97 da CF/1988. Nos termos da jurisprudência do STF, não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Na hipótese, a Turma de origem apenas decidiu pela aplicação ao caso de tese definida pelo Superior Tribunal de Justiça.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 17 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
