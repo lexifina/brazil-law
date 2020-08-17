@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere presente agravo foi interposto por Telefônica Brasil S.A. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “SENTENÇA – NULIDADE – CERCEAMENTO DE DEFESA PELA NECESSIDADE DE DILAÇÃO PROBATÓRIA – INOCORRÊNCIA – MATÉRIA PRELIMINAR REJEITADA
+    APELAÇÃO CÍVEL – INSTALAÇÃO DE ANTENA DE ESTAÇÃO DE RÁDIO-BASE IRREGULAR, SEM AS DETERMINAÇÕES IMPOSTAS PELA LEI MUNICIPAL N° 2.544/04 – DESCABIMENTO – INCIDE NA ESPÉCIE O PRINCÍPIO DA PRECAUÇÃO, DIANTE DOS EFEITOS DA RADIAÇÃO PRODUZIDOS PELA TELEFONIA CELULAR – PRINCÍPIO QUE PERMEIA TODA A ATUAÇÃO JURISDICIONAL DE URGÊNCIA – APELOS DESPROVIDOS
+    Rejeitada a matéria preliminar, nega-se provimento ao apelo.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 22, IV, 24, §§ 1º, 2º e 4º, e 30, I e VIII, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a ADI 3.110/SP, Rel. Min. EDSON FACHIN, fixou entendimento que torna acolhível a pretensão deduzida pela parte ora recorrente:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE.  LEI ESTADUAL 10.995/2001 DE SÃO PAULO. INSTALAÇÃO DE ANTENAS TRANSMISSORAS DE TELEFONIA CELULAR. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE TELECOMUNICAÇÕES. NORMA ESTADUAL EDITADA NO ÂMBITO DA COMPETÊNCIA ESTADUAL DE PROTEÇÃO À SAÚDE. LEI FEDERAL QUE CLARAMENTE REGULAMENTA A MATÉRIA. INCONSTITUCIONALIDADE. PROCEDÊNCIA DA AÇÃO DIRETA.
+    1. Nos casos em que a dúvida sobre a competência legislativa recai sobre norma que abrange mais de um tema, deve o intérprete acolher interpretação que não tolha a competência que detêm os entes menores para dispor sobre determinada matéria (‘presumption against preemption’).
+    2. Porque o federalismo é um instrumento de descentralização política que visa realizar direitos fundamentais, se a lei federal ou estadual claramente indicar, de forma necessária, adequada e razoável, que os efeitos de sua aplicação excluem o poder de complementação que detêm os entes menores (‘clear statement rule’), é possível afastar a presunção de que, no âmbito regional, determinado tema deve ser disciplinado pelo ente maior.
+    3. A União, no exercício de suas competências (art. 21, XI e art. 22, IV CRFB), editou a Lei 9.472/1997, que, de forma nítida, atribui à Anatel a definição de limites para a tolerância da radiação emitida por antenas transmissoras.
+    4. A União, por meio da Lei 11.934, fixou limites proporcionalmente adequados à exposição humana a campos elétricos, magnéticos e eletromagnéticos. Precedente.
+    5. Dessa forma, a presunção de que gozam os entes menores para, nos assuntos de interesse comum e concorrente, legislarem sobre seus respectivos interesses (‘presumption against preemption’) foi nitidamente afastada por norma federal expressa (‘clear statement rule’)
+    6. É inconstitucional a Lei n. 10.995/2001 do Estado de São Paulo, pois, a pretexto de proteger a saúde da população, disciplinando a instalação de antenas transmissoras de telefonia celular, adentrou na esfera de competência privativa da União.
+    7. Ação direta julgada procedente.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar que o Tribunal “a quo” observe a orientação jurisprudencial em referência e prossiga no julgamento da causa, como entender de direito.
+    Publique-se.
+    Brasília, 17 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
