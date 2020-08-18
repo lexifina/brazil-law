@@ -1,0 +1,15 @@
+DECISÃO
+    A Presidência do Supremo Tribunal Federal determinou a devolução dos autos ao Tribunal de origem por terem sido submetidas à sistemática da repercussão geral as questões trazidas no presente recurso (Tema n. 852).
+    Os autos retornaram a esta Corte por ter o Tribunal a quo suscitado óbice a ser aplicado no caso em tela.
+    Examinados os autos, decido.
+    Verifico a existência de óbice jurídico intransponível ao processamento deste recurso: o caso é de incidência dos enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Anoto que a jurisprudência desta Corte é no sentido de que, mesmo em se tratando de matéria de ordem pública, é necessário seu exame nas instâncias de origem para que se viabilize o recurso extraordinário, o que não ocorreu no caso em tela. Assim, esse ponto carece do necessário prequestionamento. Nesse sentido:
+    “TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IPC DE JUNHO DE 1987. URP DE FEVEREIRO DE 1989. LIMITAÇÃO À DATA-BASE SUBSEQÜENTE. TÍTULO EXEQÜENDO. ART. 114 DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA. SÚMULAS STF 282 E 356. 1. Ausência de prequestionamento do dispositivo constitucional tido como violado, porque não abordado pelo acórdão recorrido e, embora suscitado nos embargos de declaração a ele opostos, não foi apontado oportunamente na ocasião em que foram apresentadas as contra-razões ao recurso ordinário. Súmulas STF 282 e 356. 2. Exigência do cumprimento desse requisito recursal, ainda que a questão suscitada seja de ordem pública. Precedentes. 3. Agravo regimental improvido” (RE nº 567.165/MS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 22/11/10);
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foi suscitada nos embargos de declaração opostos, o que não viabiliza o extraordinário por ausência do necessário prequestionamento. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, ainda que a questão verse sobre matéria de ordem pública, é necessário o prequestionamento” (AI nº 733.846/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/6/09).
+    Pelo exposto, torno sem efeito o despacho de devolução dos autos à origem e nego seguimento ao presente recurso (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, em 10% (dez por cento) do valor arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
