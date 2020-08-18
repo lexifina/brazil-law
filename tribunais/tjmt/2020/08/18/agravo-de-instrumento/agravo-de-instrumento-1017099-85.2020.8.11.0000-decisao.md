@@ -1,0 +1,22 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1017099-85.2020.8.11.0000 - CLASSE 202 - CNJ - CAPITAL
+Agravante : MÁRIO HENRIQUE RIBEIRO
+Agravado : ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.
+Número do Protocolo : 1017099-85.2020.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por MÁRIO HENRIQUE RIBEIRO contra a r. decisão proferida pelo MM. Juiz de Direito da 3a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação “Declaratória de Inexistência de Débito c/c Indenização por Danos Morais” (Proc. no 1031423-54.2020.8.11.0041), ajuizada pelo agravante contra ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A., indeferiu pedido de antecipação da tutela formulado para ordenar à ré que se abstivesse de suspender o fornecimento de energia elétrica à residência do autor e de inscrever seu nome nos cadastros de proteção ao crédito em razão do inadimplemento das faturas dos meses de fevereiro e março de 2020, por entender ausente prova satisfatória da probabilidade do direito alegado (cf. doc. Num. 54227483 - Pág. 1/5).
+O agravante insiste em que “há muitos anos é titular dessa unidade consumidora e as suas faturas de energia elétrica sempre vinham com valores aproximados de R$ 200,00”, até que, em fevereiro de 2020, “recebeu uma cobrança no valor de R$ 852,49”, mesmo se tratando de residência onde “só moram duas pessoas” e onde não houve “alteração da rotina de consumo”.
+Sustenta que “pediu vistoria no seu relógio medidor, e até o momento a agravada não foi realizar a vistoria, tampouco fez um termo de ocorrência e inspeção (TOI), para averiguar se há alguma irregularidade ou danos em seu relógio”.
+Afirma que é “óbvio que há irregularidade no consumo da energia elétrica do agravante” e que a Concessionária/ré “está sendo negligente, imprudente e omissa, não realizando uma vistoria no relógio medidor da unidade consumidora no 6/268633-5”.
+Dizendo que a prova satisfatória da probabilidade do direito alegado reside na “discrepância existente entre os valores das faturas atuais e das pretéritas”, e que “há dúvidas razoáveis sobre a exatidão dos valores cobrados”, pede reforma da decisão agravada, para que seja deferido o pedido de antecipação da tutela para ordenar à ré suspenda as cobranças das faturas dos meses de fevereiro e março de 2020 e se abstenha de suspender o fornecimento de energia elétrica e de negativar o nome do autor/agravante, bem como para compeli-la à “instalação de novo medidor” na unidade consumidora do autor.
+É a suma.
+D E C I D O
+Sem delongas, a r. decisão agravada indeferiu o pedido de antecipação da tutela por não verificar prova satisfatória da probabilidade do direito alegado, ou seja, por não visualizar qualquer elemento de convicção acerca da afirmada discrepância/irregularidade das faturas emitidas nos meses de fevereiro e março de 2020, mas, a despeito disso, o recorrente se insurge do pronunciamento de Primeiro Grau sem trazer absolutamente nada de inédito, insistindo no discurso retórico de que seu consumo de energia elétrica não aumentou, e que não há justificativa plausível para tamanha elevação no valor cobrado nas faturas daqueles meses.
+Sucede, porém, que, com efeito, não há nada nos autos que respalde as alegações autorais, nem em Primeiro e nem em Segundo Grau; ainda que se adotasse como premissa fática absoluta, de certeza divina, todos os fatos mencionados nas razões recursais, e.g., a inexistência de aumento de consumo em residência habitada por duas pessoas que passaram a maior parte do tempo longe dela, ainda assim não se poderia admitir a presença de prova satisfatória e suficiente da probabilidade do direito alegado.
+Não há, repita-se, nenhum indicativo de desacerto na medição do consumo, nem nada robusto suficiente que autorize ou justifique o acolhimento da pretensão autoral, especialmente neste momento de albor processual.
+Pelo exposto, recebo o recurso nos termos do art. 1.019 do CPC/2015, mas INDEFIRO o pedido de antecipação da pretensão recursal (CPC/2015, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a agravada, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá, 18 de agosto de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
