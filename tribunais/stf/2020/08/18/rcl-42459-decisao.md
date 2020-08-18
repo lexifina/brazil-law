@@ -1,0 +1,28 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada em face de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido nos Autos nº 1029709-02.2018.8.26.0562, que manteve a negativa de seguimento a recurso extraordinário, nos termos do art. 1.030, I, a, do CPC. Esta a ementa do julgado reclamado:
+    “AGRAVO INTERNO - Decisão monocrática que negou seguimento ao recurso extraordinário em razão da ausência de Repercussão Geral.
+    - A possibilidade de incorporação do Adicional de Local de Exercício (ALE) aos vencimentos dos policiais militares do Estado de São Paulo, é matéria idêntica à examinada pela Suprema Corte, no leading case RE n. 731.333/SP - TEMA 750.
+    Agravo desprovido.”
+    2. O reclamante sustenta usurpação da competência do STF e má aplicação de tema da repercussão geral, sob a assertiva de que a discussão tratada no RE 731.333, paradigma do Tema 750, resumiu-se na interpretação e aplicação da Lei Complementar nº 689/92 e da Constituição do Estado de São Paulo, ao passo que as teses suscitadas no seu recurso extraordinário tratam de violação aos princípios da coisa julgada, da irredutibilidade de vencimentos, da legalidade e da moralidade pública, matérias, portanto, de índole constitucional.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    5. Na presente reclamação, alega-se usurpação da competência desta Corte. Sustenta-se que a decisão reclamada subtrai a competência da Suprema Corte, “pois se nega seguimento a Recurso Extraordinário que NÃO VERSA SOBE MATÉRIA IDÊNTICA À DO TEMA Nº 750-STF”.
+    6.  De início, anoto que compete aos órgãos jurisdicionais de origem o exame preliminar da viabilidade de recurso extraordinário. Nos termos do art. 1.030, § 2º, do CPC/2015, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral. Nesse sentido, veja-se a ementa da Rcl 32405-AgR, julgada sob a relatoria da Ministra Rosa Weber:
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO CONSTITUCIONAL. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. CABIMENTO DO AGRAVO INTERNO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA.
+    A reclamação versa alegada usurpação da competência desta Suprema Corte por decisão denegatória do seguimento de recurso extraordinário em que se discute requisito de admissibilidade de recuso de revista previsto no art. 896, § 1º, A, I, da CLT por inexistente repercussão geral (Tema 181). Contra decisão em que negado seguimento a recurso extraordinário com fundamento na sistemática da repercussão geral cabível agravo interno a teor do art. 1.030, § 2º, do CPC/2015. Usurpação da competência desta Suprema Corte não demonstrada.
+     Agravo regimental conhecido e desprovido.”
+    7.  Observe-se que esta sistemática de impugnação das decisões que aplicam precedente da repercussão geral já vigia no regime processual do CPC/73, desde o julgamento pelo STF da Questão de Ordem no AI 760.358-QO, Rel. Min. Gilmar Mendes, em 19.11.2009, data a partir da qual não mais se admite a conversão de recurso diverso em agravo interno.
+    8.  Assim, não há que se falar em usurpação da competência do STF, tendo em vista que foi observado o sistema da repercussão geral, com a apreciação do agravo interno pelo órgão de origem.
+    9. Ademais, não vislumbro equívoco do órgão reclamado ao fazer incidir ao caso os efeitos da ausência de repercussão geral com base no Tema 750: a “questão do direito à incorporação da vantagem pecuniária denominada ‘Adicional de Local de Exercício – ALE’ ao vencimento dos policiais militares de São Paulo tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009”. Isso porque o acórdão recorrido analisou a controvérsia com base na legislação do Estado de São Paulo e em questões fáticas.
+    10. Observo, ainda, que o recurso extraordinário ao qual a parte visa a dar trâmite encontra óbice também em outros temas da repercussão geral e Súmulas desta Corte, quais sejam:
+    a) Súmula 280: por “ofensa a direito local não cabe recurso extraordinário”;
+    b) Súmula Vinculante 37: não “cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento da isonomia;
+     c) Tema 339: o “art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas”; e
+    d) Tema 660: a “questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009”.
+    11. Assim, ainda que se afirmasse eventual equívoco do ato reclamado, o recurso extraordinário não lograria êxito. É dizer, falta interesse processual à parte reclamante.
+    12. Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada.
+    13. Em caso de interposição de recurso, deve a parte reclamante atribuir valor a causa.
+          Publique-se.
+          Brasília, 18 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
