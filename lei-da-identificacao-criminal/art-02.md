@@ -1,6 +1,5 @@
 Art. 2º A identificação civil é atestada por qualquer dos seguintes documentos:
 I - carteira de identidade;
-II - carteira de trabalho;
 III - carteira profissional;
 IV - passaporte;
 V - carteira de identificação funcional;

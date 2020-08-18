@@ -1,3 +1,1 @@
-Art. 25. O empregador que infringir os dispositivos desta Lei estará sujeito a multas de 400 (quatrocentos) a 40.000 (quarenta mil) BTN, segundo a natureza da infração, sua extensão e intenção do infrator, a serem aplicadas em dobro, no caso de reincidência, oposição à fiscalização ou desacato à autoridade.
-§ 1º Serão competentes para impor as penalidades as Delegacias Regionais do Trabalho, nos termos do Título VII da Consolidação das Leis do Trabalho (CLT).
-§ 2º Além das penalidades administrativas já referidas, os responsáveis por meios fraudulentos na habilitação ou na percepção do seguro-desemprego serão punidos civil e criminalmente, nos termos desta Lei.
+Art. 25. As infrações às disposições desta Lei pelo empregador acarretam a aplicação da multa prevista no inciso I do caput do art. 634-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
