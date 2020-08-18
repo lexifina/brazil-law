@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA EM SUBSTITUIÇÃO À FOLHA DE SALÁRIOS. EC 42/03 E LEI N. 12.546/11. BASE DE CÁLCULO.
+    O contribuinte não tem o direito de excluir o PIS/COFINS da base de cálculo da contribuição previdenciária sobre a receita bruta – CPRB instituída pela Lei nº 12.546, de 2011.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos  na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Decreto- -lei nº 1.598/77 e Leis nºs 12.546/2011 e 12.973/2014), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, sustentou as suas conclusões em interpretação de legislação infraconstitucional:
+    “A Lei 12.546/11 implementou a política de desoneração da folha de pagamentos para diversos setores da economia, substituindo a contribuição previdenciária patronal sobre a folha de salários dos empregados e avulsos e a incidente sobre a remuneração paga ao contribuinte individual que lhe presta serviços, previstas nos incisos I e III do art. 22, da Lei 8.212/91, por uma contribuição sobre a receita bruta.
+    Assim, a impetrante, nos termos do art. 8º, ‘caput’, da Lei 12.546/11, utilizou-se da faculdade outorgada pela lei e passou a contribuir com um percentual sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previdenciárias previstas no art. 22, I e III, da Lei 8.212/91.
+    O conceito legal de receita bruta, na redação original do ‘caput’ do art. 12 do DL 1.598/77, compreendia o produto da venda de bens e o preço dos serviços prestados, sendo a receita líquida a receita bruta diminuída dos impostos incidentes sobre vendas, tal como previa o § 1º do mesmo preceito legal.
+    A Lei 12.973/14 alterou o conceito legal de receita bruta, previsto no art. 12 do DL 1.598/77:
+    …...................................................................................................
+    A alteração normativa, no entanto, não trouxe nenhuma novidade em relação à contribuição substitutiva. A materialidade continuou sendo a receita bruta, compreendendo as receitas da atividade ou objeto principal da pessoa jurídica (inciso IV do ‘caput’), incluindo-se os tributos sobre ela incidentes (§ 5º), enquanto a receita líquida é a receita bruta diminuída dos tributos sobre ela incidentes (inciso III do § 1º).
+    …...................................................................................................
+    Não existe fundamento legal para que sejam apuradas as contribuições ao PIS/COFINS sobre a receita bruta e depois venham a ser deduzidas da mesma receita bruta para que então seja apurada a base de cálculo da contribuição substitutiva.
+    Logo, impõe-se reconhecer que tais tributos integram a base de cálculo da CPRB, uma vez que fazem parte da composição da receita bruta, não havendo previsão legal ou precedentes consolidados em sentido contrário.”
+    Impõe-se assinalar, por oportuno, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 1.269.702/RS, Rel. Min. ROBERTO BARROSO – RE 1.278.336/RS, Rel. Min. EDSON FACHIN, v.g.).
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, não  conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
