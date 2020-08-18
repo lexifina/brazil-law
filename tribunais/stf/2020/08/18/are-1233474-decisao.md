@@ -1,0 +1,20 @@
+DECISÃO: O presente agravo foi interposto contra decisão que negou trânsito ao apelo extremo deduzido nestes autos, no qual sustentou que o acórdão, confirmado em sede de juízo de retratação pela 1ª Turma Cível e Criminal do Colégio Recursal de São Carlos/SP, teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (RE 437.971-AgR/BA, Rel. Min. CÁRMEN LÚCIA – RE 501.953-AgR/DF, Rel. Min. DIAS TOFFOLI, v.g.):
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SUBSTITUÍDO PROCESSUAL. LEGITIMIDADE PARA EXECUÇÃO DE TÍTULO JUDICIAL FORMADO EM MANDADO DE SEGURANÇA COLETIVO. POSSIBILIDADE. TEMA 848. ALEGADA SEMELHANÇA. INEXISTÊNCIA.
+    1. O Supremo Tribunal Federal, com fundamento no art. 5º, LXX, ‘b’, da Constituição, reconhece legitimidade ativa a associações para a impetração de mandado de segurança coletivo em defesa dos interesses de seus associados, independentemente de expressa autorização ou da relação nominal desses.
+    2. A matéria discutida nestes autos não se assemelha à controvérsia do ARE 901.963-RG, tendo em vista que no Tema 848 a controvérsia não era caso de mandado de segurança coletivo, e sim de ação civil pública.
+    3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    4. Agravo interno a que se nega provimento.”
+    (RE 1.146.736-AgR/CE, Rel. Min. ROBERTO BARROSO – grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. MANDADO DE SEGURANÇA COLETIVO. ASSOCIAÇÃO. LEGITIMIDADE ATIVA. DESNECESSIDADE DE AUTORIZAÇÃO EXPRESSA DOS ASSOCIADOS E FILIAÇÃO ANTERIOR À PROPOSITURA DA AÇÃO. PRECEDENTES. INOVAÇÃO RECURSAL: IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 1.250.123-AgR/PB, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Convém ressaltar, ainda, que o entendimento exposto na presente decisão tem sido observado em sucessivas decisões proferidas no âmbito desta Suprema Corte (ARE 1.228.411/SP, Rel. Min. GILMAR MENDES – ARE 1.234.160/SP, Rel. Min. ROBERTO BARROSO – ARE 1.234.859/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.235.440/SP, Rel. Min. LUIZ FUX – ARE 1.236.641/SP, Rel. Min. EDSON FACHIN – ARE 1.238.602/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.238.638/SP, Rel. Min. ROSA WEBER – ARE 1.239.004/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.239.087/SP, Rel. Min. MARCO AURÉLIO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se, no ponto, à orientação jurisprudencial que esta Suprema Corte firmou quanto à análise da matéria em referência.
+    Cabe observar, de outro lado, que o órgão judiciário de origem homologou acordo celebrado entre as partes no tocante à observância dos índices de juros e de correção monetária (evento 21).
+    Com efeito, tendo em vista tal decisão, que foi favorável, em parte, à pretensão jurídica deduzida pela parte ora recorrente, resulta sem objeto, neste específico ponto, o recurso extraordinário deduzido nestes autos.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento, em parte, ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”), e, de outro lado, no tocante à observância dos índices de juros e de correção monetária, julgo prejudicado o apelo extremo (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada  nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
