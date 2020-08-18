@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles assim retratou o habeas corpus:
+    O Juízo da Auditoria Militar da Comarca de Campo Grande/MS determinou a prisão preventiva da paciente, ocorrida em 12 de junho de 2018, e de outras 7 pessoas, ante o suposto cometimento dos crimes previstos nos artigos 308, § 1º (corrupção passiva com causa de aumento em razão de dever funcional), do Código Penal Militar e 2º (integrar organização criminosa) da Lei nº 12.850/2013. Aludindo a dados obtidos mediante buscas e apreensões, a depoimentos de testemunhas, a informações contidas em celulares, ressaltou haver indícios de participação em organização criminosa, integrada por policiais militares, voltada ao contrabando de cigarros. Destacou ter exercido a função de Comandante do Terceiro Grupamento da Polícia Militar de Japorã/MS, surgindo vínculo com o grupo a partir de apreensão de cigarros na qual encontradas, com o batedor da carga, anotações com referências a nomes e valores recebidos a título de vantagem indevida. Concluiu imperiosa a custódia para garantir a ordem pública, considerada a necessidade de interromper as atividades da organização, e viabilizar a instrução processual, levando em conta o risco de interferência na produção de provas.
+    Sobreveio condenação, pelo Conselho Permanente de Justiça, no processo nº 0021240-08.2018.8.12.0001, a 12 anos, 3 meses e 6 dias de reclusão, em regime inicial de cumprimento fechado, em virtude da prática dos crimes versados nos artigos 308, § 1º (corrupção passiva com causa de aumento relacionada a infração a dever funcional), do Código Penal Militar, por 7 vezes, em continuidade delitiva, e 2º (integrar organização criminosa) da Lei nº 12.850/2013. Não foi reconhecido o direito de recorrer solta.
+    No Superior Tribunal de Justiça, a Relatora inadmitiu o habeas corpus nº 551.194/MS.
+    A impetrante afirma configurada execução provisória da pena. Realça pendente apelação interposta pela defesa. Diz inobservado o decidido, pelo Pleno, na ação declaratória de constitucionalidade nº 43. Sublinha o excesso de prazo da prisão preventiva, a persistir desde 12 de junho de 2018.
+    Requer, no campo precário e efêmero, o afastamento. Busca, alfim, a confirmação da providência.
+    Vossa Excelência, em 27 de agosto de 2019, no habeas de nº 172.982, originário do mesmo processo-crime e voltado contra a custódia preventiva da paciente, deferiu a liminar para, considerado o excesso de prazo, afastar a prisão. A Primeira Turma, em 8 de outubro seguinte, no julgamento de mérito, por maioria e nos termos do voto do ministro Alexandre de Moraes, inadmitiu a impetração e tornou insubsistente a medida de urgência.
+    Consulta ao sítio do Tribunal de Justiça revelou haver o Juízo, em 10 de junho de 2020, reiterado a necessidade da custódia preventiva, assentando-a indispensável à garantia da ordem pública e da disciplina militar.
+    2. A prisão da paciente, uma vez lastreada na necessidade de garantir a ordem pública e preservar a disciplina militar, reveste-se de natureza cautelar. Não há falar em inobservância do decidido, pelo Pleno, na ação declaratória de constitucionalidade nº 43, sob a minha relatoria.
+    A decisão mediante a qual o Juízo, em 10 de junho de 2020, reiterou a necessidade da custódia provisória afasta o excesso de prazo. O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da prisão preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, por meio de ato fundamentado. Apresentada motivação suficiente à manutenção da custódia, fica afastado constrangimento ilegal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 18 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
