@@ -1,0 +1,35 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO CÍVEL (198) 0007523-69.2014.8.11.0041
+APELANTE: INSTITUTO DE ASSISTENCIA A SAUDE DOS SERVIDORES DO ESTADO DE MATO GROSSO
+APELADO: GRACIA PATERNEZ PEREIRA
+Vistos etc.
+Trata-se de Recurso de Apelação Cível interposto INSTITUTO DE ASSISTÊNCIA A SAÚDE DOS SERVIDORES DO ESTADO DE MATO GROSSO contra sentença proferida PELO Juízo da 2a Vara Especializada da Fazenda Pública de Cuiabá, nos autos Obrigação de fazer n. 7523-69.2014.811.0041, determinando o fornecimento do medicamento de referência “XELODA”, princípio ativo “Capecitabina”, de modo continuativo, além do pagamento de R$ 15.000,00 quinze mil reais), a título de compensação pelos danos morais sofridos
+Sem condenação em custas e honorários sucumbenciais.
+A Autarquia recorre tão somente do capítulo da sentença, relativo à fixação dos danos morais, ao argumento de que não restaram demonstrados os requistos ensejadores ao seu reconhecimento.
+Ao final, requer o provimento do recurso, para que seja afastada a condenação aos danos morais.
+As contrarrazões foram apresentadas, sede em que a parte adversa pugna pelo improvimento do recurso (id.n.o 3919822).
+É o relatório.
+Decido.
+O recurso tem como fim precípuo a reforma da sentença, que fixou os danos morais no montante de R$ 15.000,00.
+Para melhor deslinde da causa, mister se faz um retrocesso dos fatos.
+Consta dos autos, que em 17/2/2014, GRACIA PATERNEZ PEREIRA, ingressou com Ação de Obrigação de Fazer pleiteando o custeio do tratamento indicado, especificamente de Quimioterapia com a utilização do medicamento Xeloda, bem como a condenação em danos morais no montante de 100 salários mínimos.
+No dia 18/2/2014, foi deferida a liminar para que fosse ofertado o tratamento nos moldes pleiteado.
+Em 16/7/2015, foi proferida sentença, julgando procedente os pedidos, bem como houve condenação ao pagamento de R$ 15.000,00, a título de danos morais.
+Nesse norte, o INSTITUTO DE ASSISTÊNCIA A SAÚDE DOS SERVIDORES DO ESTADO DE MATO GROSSO, ataca tão somente o capítulo da sentença relativo aos danos morais, requerendo a sua exclusão, ante a ausência de comprovação.
+Inicialmente, insta salientar que as operadoras de plano de saúde na modalidade de autogestão ou fechadas não oferecem serviços no mercado; não exercem empresa com o intuito de lucro e, portanto, não se lhes aplica o conceito de fornecedor estabelecido no artigo 3o, § 2o, do Código de Defesa do Consumidor, razão pela qual as disposições dessa legislação não têm incidência nessa espécie de contrato, aos quais, pelas mesmas razões, não se aplica a Súmula 469/STJ, conforme entendimento da Segunda Seção.
+Confira-se:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC. 1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários. 2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro. 3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo. 4. Recurso especial não provido. (RECURSO ESPECIAL No 1.285.483 - PB, Segunda Seção, Relator Ministro Luis Felipe Salomão, DJ 16.8.2016).
+Assim, é assente, que o contrato de plano de saúde (autogestão), pode limitar as doenças a serem cobertas, não lhe sendo permitido, todavia, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura, nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA. 1. Ação de obrigação de fazer combinada com indenização por danos materiais e compensação por danos morais. 2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração. 3. O plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. O fato do procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, tendo em vista que se trata de rol meramente exemplificativo. 4. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ. 5. Agravo interno no recurso especial desprovido. (AgInt no AREsp 1345913 / PR, Terceira Turma, Relatora Ministra Nancy Andrigui, DJ 27.2.2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. NEGATIVA INDEVIDA. SÚMULA N. 83/STJ. DANO MORAL. OCORRÊNCIA. VALOR. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO. 1. A jurisprudência desta Corte firmou o entendimento no sentido de que é abusiva a negativa de cobertura, pelo plano de saúde, a algum tipo de procedimento, medicamento ou material necessário para assegurar o tratamento de doenças previstas no contrato. 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ). 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1275885 / DF, Quarta Turma, Relatora Ministra Maria Isabel Gallotti, DJ 2.4.2019).
+Vislumbro, dos autos, que em resposta ao requerimento administrativo o Médico Auditor Dr. Marcelo Sepulveda Magalhães Faria CRM 3.418, consignou que: “Assim, para o solicitado não há cobertura contratual”. (id.n.o3919785).
+Assim, me parece legítima a recusa, notadamente, porque a parte autora não carreou aos autos o contrato para a verificação, ônus que lhe cabia (art.373,I, do CPC).
+Além disso, a jurisprudência do Superior Tribunal de Justiça, firmada no sentido de que o descumprimento contratual por parte da operadora de saúde, que culmina em negativa ilegítima de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente. Precedente:AgInt nos EDcl no REsp 1835933/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/02/2020, DJe 03/03/2020).
+Outrossim, não há nos autos, prova/ demonstração que a negativa, tenha agravado o seu estado de saúde, fato esse, próprio da gravidade da doença que a acomete.
+Desse modo, não há que se falar em danos morais.
+Com essas considerações DOU PROVIMENTO ao recurso, tão somente para excluir a condenação em danos morais.
+Intimem-se.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
