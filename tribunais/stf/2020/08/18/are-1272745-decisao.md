@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Pernambuco, está assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. USUFRUIÇÃO DE CRÉDITO PRESUMIDO PARA AQUISIÇÃO DE EQUIPAMENTO EMISSOR DE CUPOM FISCAL PRODUZIDO DENTRO DO ESTADO DE PERNAMBUCO. INCONSTITUCIONALIDADE DO DECRETO ESTADUAL N° 14.876/91. É VEDADA DIFERENÇA TRIBUTÁRIA ENTRE BENS E SERVIÇOS DE QUALQUER NATUREZA EM RAZÃO DE SUA PROCEDÊNCIA, ART. 152 DA CF/88. RECURSO DE AGRAVO IMPROVIDO À UNANIMIDADE.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 152 da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Convênio ICMS nº 125/95), o que torna incognoscível o apelo extremo.
+    Cabe enfatizar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Decreto estadual nº 14.876/91), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional e em interpretação de direito local:
+    “O cerne da controvérsia consiste na análise acerca da possibilidade de limitar-se, através de Decreto, a usufruição de crédito presumido, limitando-o à aquisição de equipamento emissor de cupom fiscal, produzido dentro do Estado de Pernambuco, sendo prescindível a existência de requerimento junto à SEFAZ.
+    Explico.
+    Para melhor elucidação da contenda transcrevo as disposições do Convênio ICMS n° 125/95 e Decreto Estadual n° 14.876/91:
+    …...................................................................................................
+    Infere-se, pois, estar a condição de aquisição de ECF restrita a equipamentos provenientes do Estado de Pernambuco em desalinho com a disposição do art. 152 da CF, sendo, portanto, nulo os autos de infrações emitidos neste mister.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
