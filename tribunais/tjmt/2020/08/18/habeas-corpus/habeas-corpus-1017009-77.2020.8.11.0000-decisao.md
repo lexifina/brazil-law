@@ -1,0 +1,33 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1017009-77.2020.8.11.0000 - COMARCA DE JACIARA
+IMPETRANTE(S): VINÍCIUS WILLIAM ISHY FUZARO - DEF. PÚBLICO
+PACIENTE(S): CLEISON VERICIMO DOS SANTOS
+DECISÃO INTERLOCUTÓRIA
+Vistos,
+Habeas Corpus impetrado em favor de CLEISON VERICIMO DOS SANTOS contra ato comissivo do Juízo da 3a Vara Criminal da Comarca de Jaciara, nos autos de ação penal (Código 137770), que manteve a prisão preventiva pelo cometimento, em tese, de homicídio qualificado pelo motivo fútil e emprego de recurso que dificultou a defesa do ofendido - art. 121, § 2o, II e IV, do CP – (Sistema Primus).
+O impetrante sustenta: 1) a decisão constritiva não estaria fundamentada em pressupostos da custódia cautelar; 2) aplicabilidade da Recomendação n. 62/2020 do CNJ em virtude da propagação do novo coronavírus no interior da Cadeira Pública de Jaciara “e estado de saúde instável do paciente pela necessidade de uma cirurgia ortopédica”.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade processual ao paciente ou substituída a prisão preventiva por medidas cautelares alternativas (ID 54092542), com documentos (ID 54092543/ID 54092543).
+Relatos.
+Em 26.11.2019, o Juízo singular decretou a prisão preventiva do paciente nos seguintes termos:
+“[...] Verifica-se pelos documentos apresentados, que existe uma linha de investigação que demonstram fortes indícios de que os representados foram os autores do homicídio qualificado contra a vítima José Marcos Gomes dos Santos, especialmente porque um dos investigados (Cleison Viricimo dos Santos) perdeu o aparelho celular no local do crime, o qual, mediante autorização judicial, foi periciado pela Autoridade Policial.
+É dos autos, que a perícia realizada no aparelho celular, revelou que minutos antes do crime, o investigado CLEISON VIRICIMO DOS SANTOS encaminhou uma mensagem de áudio para o investigado LUCAS TAVARES BARBOSA dizendo: "ou, ó aqui véi, troca as castanhas, tá ligado? Troca as castanhas, coloca tudo nova, deixa repicada não mano véi, que eu não vou num trem com bala repicada não" (sic) (...) "Tem 03 ai ó, do dia que eu vi tem 03 repicadas, tá ligado? Tem castanha nova aí pô, troca pelas novas, coloca tudo novo pô" (sic).
+No relatório n. 687/2019, os Policiais Civis relatam que o diálogo indica que o investigado LUCAS deveria substituir as munições velhas da arma de fogo, por novas, já que o investigado CLEISON não praticaria o crime de homicídio com munições repicadas. Relatam ainda, que o investigado LUCAS TAVARES BARBOSA teria motivo para ceifar a vítima da vítima, uma vez que esta, dias antes ao crime, desferiu "um tapa" no rosto de sua genitora Maria Luiza Tavares Filha Nogueira Barbosa. Por fim, a autoridade policial destaca que ambos os investigados integram a facção criminosa denominada ‘Comando Vermelho’, sendo o representado CLEISON muito conhecido no meio policial.
+No presente caso, após análise da representação policial, bem como os termos de declarações e depoimentos colhidos, entendo que se encontram presentes os requisitos autorizadores para o decreto da prisão preventiva. [...]
+Tal fato está a reclamar providência do Estado suficiente para salvaguardar os seus interesses maiores, que é a paz social ou a ordem pública, onde a "status libertatis" termina por ceder ante o interesse maior da coletividade, justamente o caso em tela.
+Verifica-se que o crime imputado aos representados demonstra uma personalidade violenta, certamente capaz de colocar em risco a ordem pública. [...]
+Posto isso, com fulcro nos artigos 311 e 312, ambos do Código de Processo Penal, acolho a representação levada a efeito pela Autoridade Policial e em consonância com o parecer ministerial, o faço para DECRETAR A PRISÃO PREVENTIVA de CLEISON VIRICIMO DOS SANTOS e LUCAS TAVARES BARBOSA. [...]” (Ednei Ferreira dos Santos, juiz de Direito – ID 54092543)
+Em 20.7.2020, pronunciou o paciente por homicídio qualificado pelo motivo fútil e emprego de recurso que dificultou a defesa do ofendido, bem como manteve a custódia preventiva por entender que “persistem os motivos ensejadores da prisão preventiva e nesta condição permaneceram durante toda a instrução criminal” (Ednei Ferreira dos Santos, juiz de Direito - Sistema Primus - Código 136114).
+Pois bem.
+A prisão preventiva está fundamentada na garantia da ordem pública, consubstanciada na gravidade do crime, visto que o paciente e o coindiciado Lucas Tavares Barbosa teriam matado a vítima José Marcos Gomes dos Santos com 3 (três) disparos de arma de fogo, em via pública, por desentendimento ocorrido “dias antes”.
+O c. STJ firmou entendimento no sentido de que a periculosidade social do agente, extraída da forma de execução do homicídio, justifica a segregação preventiva, “sendo despiciendo qualquer outro elemento ou fator externo àquela atividade” (HC n. 296.381/SP – Relator: Min. Marco Aurélio Bellizze – 4.9.2014). No mesmo sentido: STJ, RHC 121.501/RJ – Relator: Min. Reynaldo Soares da Fonseca – 19.12.2019.
+Logo, o ato constritivo mostra-se suficientemente motivado.
+Quanto à flexibilização da custódia devido à pandemia de COVID-19, o paciente tem 23 (vinte e três) anos de idade e a impetração não está instruída com qualquer documento comprobatório sobre seu estado de saúde ou acerca da preexistência de doença/comorbidade, a demonstrar que se encontra no denominado grupo de risco.
+A propagação do novo coronavírus no interior da Cadeia Pública de Jaciara não autoriza, por si só, a soltura do paciente, notadamente por ser imprescindível a audição do Juízo singular sobre as medidas concretas adotadas pelo Poder Público direcionadas à prevenção/combate da doença no interior da unidade prisional em que se encontra preso (STF, HC 186051/SP – Relator: Min. Ricardo Lewandowski – 8.6.2020).
+Sendo assim, mostra-se impertinente a outorga de liberdade processual com base na Recomendação 62/2020 do CNJ, ao menos em sede liminar.
+Por fim, avaliada a possibilidade de aplicação de medidas cautelares alternativas, não se verifica, em análise perfunctória, que seriam suficientes para preservar a ordem pública ao se considerar que o paciente e o coindiciado Lucas Tavares Barbosa estão sendo investigados por envolvimento na facção criminosa “Comando Vermelho”, segundo relatório subscrito pelos investigadores de Polícia Hágatha N. O. dos Santos, Jacson R. Abrahão e Jaime da Silva (TJMT, HC N.U 1010389-49.2020.8.11.0000 - Primeira Câmara Criminal - 30.6.2020).
+Com essas considerações, INDEFERE-SE o pedido liminar.
+Outrossim, COMUNIQUE-SE o Juízo singular sobre esta impetração, facultadas informações, no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 18 de agosto de 2020.
+Des. MARCOS MACHADO
