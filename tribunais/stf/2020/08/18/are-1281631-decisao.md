@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. DIREITO TRIBUTÁRIO. BENEFÍCIO FISCAL. ISENÇÃO. REVOGAÇÃO. PRINCÍPIOS DA ANTERIORIDADE GERAL E NONAGESIMAL. ART. 150, III, “B” e “C”, CF/1988. OBSERVÂNCIA. PRECEDENTES. DESPROVIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 150, III, “b” e “c”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão recorrido:
+    “APELAÇÃO E REEXAME NECESSÁRIO. ICMS. Writ ajuizado buscando a suspensão dos efeitos do Decreto Estadual nº 64.213/2019, assegurando à impetrante a apropriação dos créditos relativos a ICMS dos produtos agropecuários, restabelecendo o regramento normativo anterior à vigência do referido Decreto. Princípios da anterioridade anual e nonagesimal. Aplicabilidade. Direito líquido e certo demonstrado. Precedentes. Recurso não provido. Reexame necessário não acolhido.”
+    O Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria a análise prévia da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho precedentes:
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – DECRETOS Nº 39.596 E Nº 39.697, DE 1999, DO ESTADO DO RIO GRANDE DO SUL – REVOGAÇÃO DE BENEFÍCIO FISCAL – PRINCÍPIO DA ANTERIORIDADE – DEVER DE OBSERVÂNCIA – PRECEDENTES. Promovido aumento indireto do Imposto Sobre Circulação de Mercadorias e Serviços – ICMS por meio da revogação de benefício fiscal, surge o dever de observância ao princípio da anterioridade, geral e nonagesimal, constante das alíneas ‘b’ e ‘c’ do inciso III do artigo 150, da Carta. Precedente – Medida Cautelar na Ação Direta de Inconstitucionalidade nº 2.325/DF, de minha relatoria, julgada em 23 de setembro de 2004” (RE 564.225-AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 18.11.2014).
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – DECRETOS Nº 39.596 E Nº 39.697, DE 1999, DO ESTADO DO RIO GRANDE DO SUL – REVOGAÇÃO DE BENEFÍCIO FISCAL – PRINCÍPIO DA ANTERIORIDADE – DEVER DE OBSERVÂNCIA – PRECEDENTES. Promovido aumento indireto do Imposto Sobre Circulação de Mercadorias e Serviços – ICMS por meio da revogação de benefício fiscal, surge o dever de observância ao princípio da anterioridade, geral e nonagesimal, constante das alíneas ‘b’ e ‘c’ do inciso III do artigo 150, da Carta. Precedente – Medida Cautelar na Ação Direta de Inconstitucionalidade nº 2.325/DF, de minha relatoria, julgada em 23 de setembro de 2004” (ARE 1242084-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 17.6.2020).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
