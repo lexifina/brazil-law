@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. REGIME DE DESONERAÇÃO DA FOLHA. LEI Nº 13.670/2018. ANO CALENDÁRIO. IRRETRATABILIDADE. ANTERIORIDADE NONAGESIMAL.
+    Não há qualquer óbice, durante o ano calendário, à revogação do regime de desoneração da folha, pela Lei nº 13.670/2018, e na retomada da sistemática de apuração anterior, desde que observadas a anterioridade nonagesimal e a irretroatividade, como garantia da segurança jurídica do contribuinte.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 12.546/2011 e 13.670/2018), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, no julgamento da apelação, apoiou as suas conclusões em dispositivos de ordem meramente legal:
+    “A Lei nº 12.546/2011 possibilitou a algumas atividades econômicas a substituição da tributação sobre a folha de salários mediante a instituição de nova contribuição sobre a receita bruta das empresas, nos seguintes termos:
+    …...................................................................................................
+    Já a Lei nº 13.670/2018, com efeitos a partir de 01/09/2018, alterou dispositivos da Lei nº 12.546/2011, excluindo da opção pela contribuição substitutiva algumas atividades econômicas, dentre as quais a da empresa impetrante, que deverá retomar o pagamento das contribuições previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 24 de julho de 1991. A Lei nº 12.546/2011 passou a ter a seguinte redação:
+    …...................................................................................................
+    Alega a impetrante que possui direito adquirido a manter-se no recolhimento da contribuição contributiva até o final do ano de 2018, uma vez que sua opção seria irretratável para todo o ano calendário, nos termos do art. 9º, § 13, da Lei nº 12.546/2011.
+    Todavia, é de ver-se que a irretratabilidade se opera caso mantido o mesmo contexto fático e jurídico. Havendo, por outro lado, alteração legislativa que não mais admite determinada forma de tributação escolhida pelo contribuinte, deixa a irretratabilidade de surtir os efeitos pretendidos.
+    …...................................................................................................
+    Outrossim, não há qualquer dispositivo na norma revogada (Lei 12.546/11) a salvaguardar o alegado direito do contribuinte a permanecer no regime de desoneração da folha durante todo o ano-calendário, até porque pacificado o entendimento de que não existe direito adquirido a regime tributário.”
+    Convém assinalar, nesse contexto, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 1.250.721/RS, Rel. Min. LUIZ FUX – RE 1.252.303/RS, Rel. Min. ROBERTO BARROSO – RE 1.255.180/RS, Rel. Min. ALEXANDRE DE MORAES – RE 1.260.041/SC, Rel. Min. EDSON FACHIN – RE 1.269.752/RS, Rel. Min. GILMAR MENDES, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SUBSTITUIÇÃO DA BASE DE CÁLCULO. ALTERAÇÕES NA LEI N. 12.546/2011 PROMOVIDAS PELA LEI N. 13.670/2018. ALEGAÇÃO DE DIREITO ADQUIRIDO E OFENSA AO PRINCÍPIO DA ANTERIORIDADE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 1.238.409-AgR/RN, Rel. Min. CARMÉN LÚCIA)
+    Sendo assim, e tendo em consideração as razões expostas, não  conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
