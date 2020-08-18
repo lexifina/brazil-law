@@ -1,0 +1,1 @@
+Art. 637-A. Instituído o conselho na forma prevista no § 2º do art. 635, caberá pedido de uniformização de jurisprudência no prazo de quinze dias, contado da data de ciência do acórdão ao interessado, de decisão que der à lei interpretação divergente daquela que lhe tenha dado outra câmara, turma ou órgão similar.

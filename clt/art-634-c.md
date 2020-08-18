@@ -1,0 +1,1 @@
+Art. 634-C. Sobre os valores das multas aplicadas não recolhidos no prazo legal incidirão juros e multa de mora nas formas previstas no art. 13 da Lei nº 9.065, de 20 de junho de 1995, e no art. 84 da Lei nº 8.981, de 20 de janeiro de 1995.

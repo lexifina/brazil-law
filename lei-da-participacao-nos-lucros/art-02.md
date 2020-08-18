@@ -1,5 +1,5 @@
 Art. 2º A participação nos lucros ou resultados será objeto de negociação entre a empresa e seus empregados, mediante um dos procedimentos a seguir descritos, escolhidos pelas partes de comum acordo:
-I - comissão paritária escolhida pelas partes, integrada, também, por um representante indicado pelo sindicato da respectiva categoria;
+I - comissão paritária escolhida pelas partes;
 II - convenção ou acordo coletivo.
 § 1º Dos instrumentos decorrentes da negociação deverão constar regras claras e objetivas quanto à fixação dos direitos substantivos da participação e das regras adjetivas, inclusive mecanismos de aferição das informações pertinentes ao cumprimento do acordado, periodicidade da distribuição, período de vigência e prazos para revisão do acordo, podendo ser considerados, entre outros, os seguintes critérios e condições:
 I - índices de produtividade, qualidade ou lucratividade da empresa;
@@ -20,6 +20,7 @@ II - não se aplicam as metas referentes à saúde e segurança no trabalho.
 I - adotar os procedimentos de negociação estabelecidos nos incisos I e II do caput deste artigo, simultaneamente; e
 II - estabelecer múltiplos programas de participação nos lucros ou nos resultados, observada a periodicidade estabelecida pelo § 2º do art. 3º desta Lei.
 § 6º Na fixação dos direitos substantivos e das regras adjetivas, inclusive no que se refere à fixação dos valores e à utilização exclusiva de metas individuais, a autonomia da vontade das partes contratantes será respeitada e prevalecerá em face do interesse de terceiros.
+II - com antecedência de, no mínimo, noventa dias da data do pagamento da parcela única ou da parcela final, caso haja pagamento de antecipação.
 § 7º Consideram-se previamente estabelecidas as regras fixadas em instrumento assinado:
 I - anteriormente ao pagamento da antecipação, quando prevista; e
 II - com antecedência de, no mínimo, 90 (noventa) dias da data do pagamento da parcela única ou da parcela final, caso haja pagamento de antecipação.

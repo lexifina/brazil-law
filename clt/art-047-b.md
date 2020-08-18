@@ -1,0 +1,1 @@
+Art. 47-B. Sendo identificada pelo Auditor Fiscal do Trabalho a existência de empregado não registrado, presumir-se-á configurada a relação de emprego pelo prazo mínimo de três meses em relação à data de constatação da irregularidade, exceto quando houver elementos suficientes para determinar a data de início das atividades.
