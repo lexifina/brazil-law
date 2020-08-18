@@ -1,0 +1,21 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de juízo de retratação pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Apelação. Mandado de Segurança. Taxa de fiscalização de ocupação do solo urbano (Lei Municipal 3.229/97). Exercício de 2001. Desistência do recurso. Homologação. Inteligência do artigo 501 do Código de Processo Civil.
+    Reexame necessário da sentença. Taxa de fiscalização de ocupação do solo urbano (artigo 1º da Lei Municipal 3.229/97, com a redação dada pela Lei Municipal 3.290/98). Admissibilidade da exação. Atividade fiscalizatória. Exercício de poder de polícia. Inteligência do artigo 78 do Código Tributário Nacional. Precedentes da corte. Segurança denegada.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Leis municipais nºs 3.229/97 e 3.290/98), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em interpretação de direito local:
+    “De reconhecer, portanto, nada obstar a cobrança de taxa de polícia de concessionárias de serviço público de energia elétrica. Tal tributo não incide sobre operações relativas a energia elétrica, antes tem por fim cobrir custos administrativos decorrentes de atividade fiscalizatória.
+    A hipótese não é de imunidade (artigo 155, § 3º, da Constituição Federal).' A cobrança da taxa de fiscalização de ocupação do solo urbano, no caso vertente, afigura-se legítima. Se não, vejamos. Reza o artigo 11 da Lei Municipal 3.229/97, com a redação dada pela Lei Municipal 3.290/98:
+    …...................................................................................................
+    Do dispositivo que se acaba de transcrever extrai-se que a taxa em comento tem como fato gerador o exercício do poder de polícia (artigo 78 do Código Tributário Nacional). O município, para assegurar a observância de suas posturas, fiscaliza equipamentos instalados em vias públicas, dentre os quais postes de distribuição de energia elétrica. (…).”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 18 de agosto de 2020.
+Ministro CELSO DE MELLO
+Relator
