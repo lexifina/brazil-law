@@ -1,1 +1,0 @@
-Art. 9º Nas atividades em que não for possível, em virtude das exigências técnicas das empresas, a suspensão do trabalho, nos dias feriados civis e religiosos, a remuneração será paga em dobro, salvo se o empregador determinar outro dia de folga.
