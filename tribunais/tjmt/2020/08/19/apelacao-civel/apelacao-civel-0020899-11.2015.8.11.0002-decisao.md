@@ -1,0 +1,39 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0020899-11.2015.8.11.0040
+1a Recorrente: NOBRE SEGURADORA DO BRASIL S. A.
+2o Recorrente: HOSPITAL BENEFICENTE SANTA HELENA
+Recorridos: LUIS GONZAGA DE ANUNCIAÇÃO e SANDRA MARA DE OLIVEIRA
+Vistos.
+Trata-se de Recurso Especial interposto por NOBRE SEGURADORA DO BRASIL S. A. (id 43146981) e HOSPITAL BENEFICENTE SANTA HELENA (id 53187994) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 40966473):
+“APELAÇÕES CÍVEIS – AÇÃO DE INDENIZAÇÃO POR DANOS MORAL, MATERIAL E PENSÃO POR MORTE – ERRO MÉDICO – FALHA NA PRESTAÇÃO SERVIÇO HOSPITALAR – RESPONSABILIDADE OBJETIVA – CDC – SEGURADORA – LIQUIDAÇÃO EXTRAJUDICIAL – SUSPENSÃO DO PROCESSO – NÃO ACOLHIMENTO – PROVA PERICIAL – NEXO CAUSAL E DANOS – COMPROVADOS – VALOR DA INDENIZAÇÃO DANO MORAL – MANTIDO – DANO MATERIAL – COMPROVADO – FILHO NATIMORTO - PENSIONAMENTO – DEVIDO – DEPENDÊNCIA ECONÔMICA PRESUMIDA – PRECEDENTES STJ – RESPONSABILIDADE SOLIDÁRIA DA SEGURADORA – LIMITE DA APÓLICE - HONORÁRIOS SUCUMBENCIAIS IMPOSTOS À SEGURADORA – AFASTADO – SENTENÇA REFORMADA EM PARTE – RECURSO DA SEGURADORA CONHECIDO EM PARTE E PROVIDO PARCIALMENTE – RECURSO DO HOSPITAL DESPROVIDO – RECURSO DOS AUTORES PROVIDO. A decretação da liquidação extrajudicial de entidades financeiras não tem o condão de inibir de forma absoluta o direito de ação contra a massa liquidanda, mormente quando se tratar de ação de conhecimento, a qual pela própria natureza busca apenas o reconhecimento do direito do autor, ainda que importe em condenação. A farta documentação comprova a falha na prestação de serviço pelo hospital, o que agravou a condição da paciente e levou ao óbito do filho, motivo pelo qual nos termos do art. 14 do CDC, responde objetivamente o hospital. O dano moral é evidente e inegável a ocorrência, que é in re ipsa, porquanto decorrente do próprio fato, em virtude da falha no serviço de saúde prestado pelo Hospital Beneficente Santa Helena, que acarretou o óbito da filha dos autores, portanto não há argumentos cabíveis para afastar tal condenação, uma vez que a perda de um ente querido, uma filha, causa dor imensurável. O valor da indenização, a fixação deve atender aos fins a que se presta a indenização, considerados a condição econômica da vítima e do ofensor, o grau de culpa, a extensão do dano, a finalidade da sanção reparatória e os princípios da proporcionalidade e da razoabilidade. O dano material restou provado por meio de nota fiscal. O nascituro dentro do nosso ordenamento jurídico, é detentor de direitos e deveres desde a concepção. O pensionamento é devido, pois dependência econômica se presume, no caso de família de baixa renda. “ (TJMT, RAC 0020899-11.2015.8.11.0040, DESA. NILZA MARIA POSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 28/04/2020)
+Os Embargos de Declaração id 42338457 foram rejeitados, conforme aresto id 49842987.
+O recurso interposto por HOSPITAL BENEFICENTE SANTA HELENA não possui pedido de Justiça Gratuita ou efeito suspensivo, motivo pelo qual, após as contrarrazões, deverá retornar concluso para análise da admissibilidade.
+A parte Recorrente (NOBRE SEGURADORA DO BRASIL S. A. - id 43146981) apresentou seu recurso especial postulando, inicialmente, pela concessão da justiça gratuita, uma vez que afirma não possuir condições para adimplir com as custas processuais e honorários advocatícios.
+Afirma que o acórdão afrontou os artigos 98 e 99, § 2o, ambos do CPC, uma vez que restou demonstrada a necessidade de concessão do benefício da gratuidade da justiça.
+E ainda, afirma que o artigo 8o do CPC e 944 do CC restaram afrontados, uma vez que a verba indenizatória foi fixada de forma desproporcional no importe de R$ 100.000,00 (cem mil reais).
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...)No caso, conforme se constata na decisão ora recorrida, o Douto Julgador não concedeu o benefício da justiça gratuita à PARTE RECORRENTE, o que importará grave lesão à massa liquidanda, até porque esta Seguradora Recorrente não tem possibilidade de arcar com as custas e honorários decorrentes do processo, bem como qualquer taxa judiciária decorrente do exercício legal de sua ampla defesa constitucionalmente garantida.
+Destarte, impossibilitada de dispor de seus ativos, qualquer imputação processual em pecúnia à massa liquidanda fere frontalmente aos princípios do devido processo legal, contraditório e ampla defesa, princípio da boa-fé processual, dentre outros, uma vez que impor um requisito inatingível impende em obstrução indireta do acesso à justiça.
+Neste sentido, Nobre Julgador, imaginemos que o Juízo a quo determine que a Seguradora proceda com o recolhimento de custas processuais, sob pena de arcar com as penalidades administrativas e processuais previstas em lei. Neste caso hipotético, como esta companhia seguradora deveria atuar processualmente? Deveria se abster do pagamento e sofrer as penalidades e preclusões legais? Ou efetuar o pagamento, violando a ordem legal de credores da massa liquidanda, privilegiando despesas processuais a encargos trabalhistas, por exemplo?
+Ademais, Nobre Desembargador, é cediço que o pagamento da referida despesa processual no decorrer da tramitação do recurso seria considerado ato incompatível com a vontade de recorrer, ensejando a inadmissibilidade do recurso por incidência do verbete da preclusão lógica.”
+Recurso tempestivo e com pedido de justiça gratuita, conforme certidões id 53864961 e 53945965.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, em especial a probabilidade do direito, uma vez que a Justiça Gratuita restou indeferida no id 25682478 (27/11/2019), antes do julgamento meritório, sem qualquer recurso apresentado pela parte Recorrente.
+Após, sem apresentar qualquer recurso contra a decisão que indeferiu a Justiça Gratuita, houve o pagamento do preparo recursal, concordando com o indeferimento da Justiça Gratuita (id 26914452).
+Ou seja, houve preclusão em relação ao direito de recorrer no tocante a Justiça Gratuita, uma vez que a decisão que indeferiu o benefício não foi recorrida, o que afasta a probabilidade do direito invocado, impossibilitando a concessão do efeito suspensivo.
+E ainda, o STJ é firme no sentido de que o deferimento da Justiça Gratuita possui efeitos ex nunc, sem retroagir.
+Por fim, importante consignar que não houve manifestação do acórdão sobre a Justiça Gratuita, restando ausente o prequestionamento sobre a matéria, motivo pelo qual não há falar em admissibilidade positiva no tocante aos artigos 98 e 99 do CPC.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência ante a ausência de fundamentação para tanto, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 17 de agosto de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
