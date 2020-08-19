@@ -1,0 +1,9 @@
+DECISÃO:
+    1. Petição nº 65.799/2020: a UNAFISCO NACIONAL requer o aditamento da petição inicial para inserir no rol de pedidos: (i) a repristinação das regras de transição inscritas na Emenda Constitucional nº 47/2005 e (ii) a declaração de inconstitucionalidade do art. 35, III e IV, da Emenda Constitucional nº 103/2019. Destaca que tal espécie de aditamento vem sendo admitida pela jurisprudência do Supremo Tribunal Federal, por dispensar a requisição de novas informações aos órgãos dos quais emanou o ato impugnado e por não prejudicar o cerne da ação. Lembra, ainda, que o pedido de declaração de inconstitucionalidade do art. 35, III e IV, da EC nº 103/2019 já havia sido formulado pela Associação Nacional das Defensoras e Defensores Públicos - ANADEP na ADI 6.254, que deverá ser julgada em conjunto com a presente.
+    2. Defiro o pleito ora veiculado pela requerente, com base no art. 329 do CPC. De fato, esta Corte autoriza o aditamento do pedido em ação direta quando tenha o objetivo de incluir normas que fazem parte do mesmo complexo normativo em que estão inseridas aquelas impugnadas desde a propositura da demanda. Exige, apenas, que seja comum a todas elas o fundamento jurídico invocado. Nesse sentido: ADI 5.267-AgR, Rel. Min. Luiz Fux, j. em 23.08.2019.
+    3. Na hipótese vertente, a requerente já havia questionado a constitucionalidade da revogação de regras de transição previstas em reformas anteriores (EC nº 41/2003 e EC nº 47/2005), à luz dos princípios da segurança jurídica – em que está inserida a proteção a expectativas de direito – e da boa-fé objetiva. Assim, o pedido de aditamento não inova a causa de pedir exposta na petição inicial.
+    4. Retornem os autos à Procuradoria-Geral da República para emissão de parecer sobre o mérito desta ação.
+    Publique-se. Intimem-se.
+          Brasília, 19 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
