@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Cuida-se de pedido de suspensão de liminar, ajuizado pela União, em face de decisão proferida pelo Ministro relator, nos autos do Mandado de Segurança nº 36.375, em trâmite nesta Suprema Corte e pela qual lhe foi determinado que
+    “providencie a abertura de linha de crédito especial, com o início do pagamento das parcelas mensais no prazo máximo de 30 dias, observados os índices, os critérios de atualização e a forma de cálculo do valor de cada parcela previstos no artigo 101, § 4º, do Ato das Disposições Constitucionais Transitórias”
+    Segundo consta dos autos, referido mandamus foi impetrado pelo estado do Maranhão, calcado em suposta omissão do Presidente da República, quanto à edição dos atos necessários à disponibilização da linha de crédito especial prevista no § 4º do artigo 101 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, com a redação dada pela Emenda Constitucional nº 99/17.
+    Aduziu que a decisão ora atacada representa grave lesão à ordem jurídica e administrativa, além de ser dotada de potencial efeito multiplicador, defendendo a competência do STF para apreciação da presente contracautela.
+    Ademais, referida decisão violou a ordem pública, em sua acepção jurídico-administrativa, ao desconsiderar as normas constitucionais pertinentes ao orçamento público, além de ter violado o princípio da separação dos poderes.
+    Insurgiu-se, também, contra o mérito da decisão atacada, defendendo que a norma do art. 101, § 4º, do ADCT, seja interpretado de forma sistemática e em consonância com as demais normas constitucionais pertinentes, para concluir que a liberação de recursos em questão apenas poderia ser efetivada após equacionadas as questões orçamentárias e financeiras atreladas à medida.
+    Acrescentou que a decisão atacada, ao estabelecer que a Constituição Federal possuiria todos os elementos para a concessão dessa linha de crédito e que seriam prescindíveis novas leis autorizadoras, usurpou a competência do Congresso Nacional para dispor sobre a matéria, além de que seria necessário o esgotamento dos outros instrumentos previstos, para que se pudesse recorrer à linha de crédito em questão.
+    Salientou que, em caso análogo, em demanda proposta pelo estado da Bahia, o Ministro Roberto Barroso indeferiu o pedido de cautelar, havendo, também decisão de igual teor, proferida pelo Ministro Celso de Mello.
+    Reiterou que o risco do efeito multiplicador da medida também se mostra suficiente para justificar a suspensão de seus efeitos, já existindo outras duas ações, além do aludido mandado de segurança, sobre o tema, nesta Suprema Corte.
+    Referiu-se à existência de nota técnica emitida pela Secretaria do Tesouro Nacional, dando conta da possibilidade de que a União sofra um ônus da ordem de 99 bilhões de reais, em caso da abertura de igual linha especial de crédito aos demais entes federados, podendo até mesmo prejudicar o cumprimento da regra prescrita no inc. III, do art. 167, da Constituição Federal.
+    Assim, dado o grave risco de que essa decisão acarrete agravamento da situação fiscal da União, postulou a pronta suspensão de seus efeitos.
+    Manifestou-se nos autos, a seguir, o estado do Maranhão, defendendo a manutenção da decisão atacada.
+    É o relatório.
+    Decido:
+    A admissibilidade da contracautela pressupõe a demonstração de que o ato questionado possa vir a causar grave lesão à ordem, à saúde, à segurança ou à economia públicas, sempre presente a natureza constitucional da controvérsia em discussão nos autos originais.
+    No presente caso, tem-se que a União se insurge contra decisão monocrática proferida pelo eminente Ministro Marco Aurélio, nos autos do MS nº 36.375, que lhe impôs ordem de providenciar abertura de crédito especial, nos termos do artigo 101, § 4º, do ADCT da Constituição Federal de 1988.
+    Releva salientar que referida decisão foi objeto de embargos de declaração, rejeitados, bem como de pleitos de atribuição de efeito suspensivo, igualmente refutados e, por fim, de agravos regimentais, ainda pendentes de apreciação.
+    O presente pedido de suspensão, dessa forma, revela-se sucedâneo dos recursos interpostos, sem sucesso, nos autos originais (alguns dos quais ainda sequer julgados), o que se mostra inadmissível. Nesse sentido foram as decisões proferidas nas SL’s nsº 14/MG, Rel. Min. Maurício Corrêa, DJ de 3/10/03; 80/SP, Rel. Min. Nelson Jobim, DJ de 19/10/05 e SS’s nºs 3.319/SC, 3.320/SC e 3.321/SC, Relª Minª Elen Gracie, DJ de 24/8/07, dentre tantos outras.
+    No que concerne aos alegados riscos de lesão à ordem pública e econômica, tem-se que a nota técnica elaborada pela Secretaria do Tesouro Nacional, mencionando uma cifra de quase 100 bilhões de reais a ser suportada pela União, não se presta à pretendida comprovação de possível ônus a ser-lhe imposto, pois pressuporia, para sua efetivação, que todos os entes da Federação se voltassem contra a União, na busca de igual abertura de crédito, o que está longe de corresponder à realidade.
+    Da mesma maneira, o alegado efeito multiplicador da decisão nem de longe se vislumbra, na hipótese ora em análise, pois apenas alguns poucos casos semelhantes deram entrada nesta Suprema Corte, acerca do mesmo tema e, em nenhum deles foi implementada a almejada cautelar.
+    Assim, considerando-se que pedidos de suspensão, como o presente, possuem caráter excepcional e não servem como sucedâneo recursal, ou seja, não devem ser manejados em substituição aos recursos próprios, taxativamente previstos na legislação processual para impugnar decisões judiciais, tenho que a presente suspensão não merece acolhimento.
+    Ausentes assim, os requisitos autorizadores do ajuizamento do presente pedido de suspensão, impõe-se sua rejeição.
+    Ante o exposto, nego seguimento ao pedido, prejudicada a análise da pretendida liminar.
+    Publique-se.
+    Brasília, 19 de agosto de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
