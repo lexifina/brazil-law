@@ -1,0 +1,45 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1001652-57.2020.8.11.0000
+Recorrente: HILDEBRANDO JOSÉ PAIS DOS SANTOS
+Recorrido: PAJE TRANSPORTES LTDA - ME
+Vistos.
+Trata-se de Recurso Especial interposto por HILDEBRANDO JOSÉ PAIS DOS SANTOS (id 54286480) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela QUARTA CÂMARA DE DIREITO PRIVADO assim ementado (id 50474973):
+“AGRAVO DE INSTRUMENTO – EMBARGOS DE TERCEIRO – CONSTRIÇÃO JUDICIAL DE MÁQUINA AGRÍCOLA – PLEITO LIMINAR DE MANUTENÇÃO/REINTEGRAÇÃO NA POSSE INDEFERIDO – PEDIDO EXPRESSO DE REALIZAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO – CERCEAMENTO DE DEFESA CARACTERIZADO – DECISÃO CASSADA – RECURSO PROVIDO. Se à parte não foi dada a oportunidade de demonstrar ao julgador como se deu a compra e venda da máquina, que constitui o esteio de sua pretensão de reintegração de posse, é certo que não pôde exercer a ampla defesa, logo resta caracterizado o cerceamento de defesa que enseja a cassação da decisão agravada.” (TJMT, RAI 1001652-57.2020.8.11.0000, DES. GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 15/07/2020)
+Os Embargos de Declaração id 51295478 foram rejeitados, conforme acórdão id 53216465.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo, sustentando que o acórdão deve ser reformado ante a afronta ao artigo 677 do CPC, uma vez que é desnecessária a realização de audiência de justificação prévia para a análise e rejeição da liminar postulada em Primeiro Grau ante a ausência de prova sumária da posse do bem pelo Recorrido.
+Afirma que “na análise da liminar pleiteada nos Embargos de Terceiro, o MM. Magistrado de Primeiro Grau foi devidamente convencido pelos documentos juntados pelo próprio Recorrido em sua exordial de que a máquina retroescavadeira não foi objeto de compra, e, desse modo, decidiu pelo indeferimento da liminar sem a realização da audiência de justificação prévia, haja vista a inutilidade da sua execução.”
+Em relação ao efeito suspensivo, diz que:
+“(...)Para que se concedam os efeitos mencionados, é necessário que estejam presentes os requisitos necessários para a concessão dos efeitos da tutela de urgência (art. 300 do CPC).
+No presente caso, estão presentes a probabilidade do direito e o perigo de dano.
+A probabilidade do direito se vislumbra pelo fato de que a fundamentação é suficiente para, em caráter liminar, conferir certeza sobre o êxito das razões recursais frente a matéria impugnada neste Recurso Especial. Resta evidenciado que o Recorrido não possui a posse, propriedade e tampouco o domínio sobre a máquina retroescavadeira.
+Pelo contrário, os elementos dos autos demonstram de forma inequívoca que o objeto é de propriedade do Executado Juares Domingos dos Santos.
+Denota-se que não há nos autos sequer indícios acerca da alienação do bem ou de que é proprietário e possuidor do bem que sofreu a constrição judicial.
+Nesse norte, resta devidamente comprovado que a Recorrida não preenche os requisitos para a concessão da liminar em reintegração de posse previsto no art. 677, “caput” e § 1° do CPC.
+(...)
+O perigo de lesão grave ou de difícil reparação, caso não seja suspensa a decisão recorrida, se revela pela comprovação dos elementos fáticos trazidos aos autos, onde se demonstra que o Executado Juares Domingos dos Santos é o real possuidor e proprietário da Máquina Retroescavadeira.
+A incidência do risco de dano se ampara na imprescindibilidade da concessão da liminar para que o Recorrente seja mantido na posse do objeto, isto é, sem a prática de novos atos por parte do Recorrido e do Executado no intuito de turbar, retirar ou mesmo ameaçar o exercício do direito possessório.
+Além disso, o objeto será utilizado pelos Recorrentes para a prestação dos serviços da empresa, o que demonstra, mais uma vez, o risco de dano inerente à decisão agravada prolatada em desfavor do Recorrente.
+Soma-se, também, que o Recorrente sofreu verdadeiro esbulho possessório judicial, ao passo que o Recorrido logrou êxito em induzir o Magistrado singular ao erro, com fincas em tomar posse da Máquina Retroescavadeira a qual não nunca lhe pertenceu.
+Assim, demonstrados os requisitos autorizadores, é necessário que se imponha, liminarmente, a este Recurso Especial, efeito suspensivo, com a finalidade de ser reconhecido os pedidos formulados pelo Recorrente para que seja determinada a suspensão da decisão, determinando-se que seja mantido em favor do Recorrente a posse da Máquina Retroescavadeira, até o julgamento de mérito deste Recurso Especial, em razão da demonstração cabal da probabilidade de seu direito e o perigo de dano ao resultado útil do processo”
+Recurso tempestivo e preparado, conforme certidões id 54303992 e 54336996.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que, embora tenha mencionado o suposto perigo da demora e a probabilidade do direito, ainda não existe decisão de mérito em Primeiro Grau.
+No voto proferido no id 36762491, o douto Desembargador Relator assim delimitou a controvérsia:
+“DECISÃO AGRAVADA (ID 32748981): indeferiu o pedido de liminar para ser reintegrado e mantido na posse do bem móvel do tipo retroescavadeira, modelo 416-E, marca CATERPILLAR, ano 2010.”.
+Ou seja, a decisão recorrida é precária, atraindo a aplicação da Súmula n. 735 do STF, por analogia, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+Ainda que assim não fosse, para fins de análise da presença dos requisitos autorizadores da concessão da tutela de urgência (probabilidade do direito e perigo da demora), existe a necessidade de análise do conjunto fático-probatório dos autos, atraindo o óbice previsto na Súmula n. 07 do STJ, conforme aresto:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AMBIENTAL. AÇÃO CIVIL PÚBLICA. TUTELA ANTECIPADA. PLANTAÇÃO DE EUCALIPTOS. RISCO AOS RECURSOS HÍDRICOS. SUSPENSÃO DO PLANTIO. RECURSO ESPECIAL CONTRA DECISÃO QUE DEFERE LIMINAR. SÚMULA 735/STF. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INDEFERIMENTO. ELEMENTOS QUE AUTORIZAM A CONCESSÃO DA TUTELA ANTECIPADA. REEXAME. IMPOSSIBILIDADE. ÓBICE IMPOSTO PELA SÚMULA 7/STJ. 1. Trata-se, na origem, de agravo interposto por Suzano Papel e Celulose S/A contra decisão que, em Ação Civil Pública ajuizada pelo Ministério Público do Estado do Espírito Santo, deferiu liminar determinando a paralisação dos projetos de plantio de eucalipto no Município de Montanha-ES. Segundo consta, apurou-se que a referida plantação traria riscos aos recursos hídricos. Além disso, constataram-se diversas irregularidades nos estudos de impacto ambiental realizados pela agravante. 2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, em regra, descabe Recurso Especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do Recurso Especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais relativos ao mérito da causa. 3. Ademais, a tese contida no Recurso Especial busca rever os fundamentos utilizados pelo acórdão recorrido para deferir a antecipação dos efeitos da tutela. Todavia, o exame da presença dos pressupostos autorizadores à concessão da antecipação de tutela exige reexame do conjunto fático-probatório, o que é vedado em Recurso Especial em face da Súmula 7/STJ. 4. Agravo Interno não provido.”(STJ, AgInt no AREsp 1602281/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2020, DJe 26/05/2020) – destaquei.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 19 de agosto de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
