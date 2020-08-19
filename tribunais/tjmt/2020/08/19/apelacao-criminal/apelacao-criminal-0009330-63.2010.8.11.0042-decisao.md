@@ -1,0 +1,49 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0009330-63.2010.8.11.0042
+RECORRENTE: HENRIQUE DA SILVA CRUZ
+RECORRIDOS: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 53313482) interposto por HENRIQUE DA SILVA CRUZ, com fundamento no art. 105, III, “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Penal deste Sodalício, assim ementado (Id. 42252482):
+“APELAÇÃO CRIMINAL – SENTENÇA CONDENATÓRIA – ART. 157, §2o, INCISOS I E II, DO CP – IRRESIGNAÇÃO DEFENSIVA – REQUER A DESCLASSIFICAÇÃO DO CRIME CONSUMADO PARA TENTATIVA DE ROUBO – TESE REJEITADA – PROVA – SÚMULA 582 STJ – O CRIME SE CONSUMA NO MOMENTO EM QUE O AGENTE SUBTRAI O BEM DO OFENDIDO – APLICAÇÃO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA – IMPROCEDÊNCIA – IDENTIDADE DE INFRAÇÃO OBJETIVA DE DESÍGNIO IDÊNTICO – READEQUAÇÃO DA PENA – INOCORRÊNCIA – EXASPERAÇÃO JUSTA, PROPORCIONAL E SUFICIENTE – SENTENÇA MANTIDA – RECURSO DESPROVIDO. Não há de se falar em desclassificação para crime de tentativa, pois o delito de roubo se aperfeiçoa quando, cessado o meio de intimidação da vítima, a violência ou a grave ameaça, há a inversão da posse, ainda que por pouco tempo, sendo prescindível a qualidade de “mansa e pacífica”. Quanto ao pedido de participação de menor importância, analisando detidamente os autos, não há que se falar em participação de menor importância, uma vez que o apelante efetivamente ingressou no iter criminis de forma ativa, ao aderir a conduta dos corréus no delito. O quantum fixado pelo juiz sentenciante está proporcional, e devidamente fundamentada conforme art. 93, inc. IX, da CF.” (Ap 0009330-63.2010.8.11.0042, DES. RUI RAMOS RIBEIRO, SEGUNDA CÂMARA CRIMINAL, Julgado em 13/05/2020)
+Os Embargos de Declaração de Id. 44172967 opostos contra o aresto foram rejeitados (Id. 50397982).
+Alega violação: (i) aos arts. 14, II e 157, ambos do CP, bem como aos arts. 155 e 386, VII, do CPP, ao argumento de que necessidade de desclassificação do crime de roubo para a sua forma tentado e (ii) aos arts. 619 do CPP e 489, §1°, do CPC, sob a assertiva de que não foram apreciados, à luz da prova dos autos, as razões do apelo capazes de infirmar a conclusão adotada pelo julgador e desclassificar crime para a modalidade tentada.
+Recurso tempestivo (Id. 53318998).
+Contrarrazões - Id. 54063999.
+É o relatório.
+Decido.
+Violação dos arts. 619 do CPP e 489, §1°, do CPC. Não ocorrência.
+O Recorrente defende a ofensa aos arts. 619 do CPP e 489, §1°, e incisos, do CPC, suscitando que não houve o enfrentamento, à luz da prova dos autos, dos argumentos constantes no recurso de Apelação capazes de infirmar a conclusão adotada pelo julgador e desclassificar o crime de roubo para a modalidade tentada.
+No entanto, a questão foi expressamente abordada pelo acórdão recorrido, que declinou os motivos de fato e de direito que amparam a conclusão adotada, como se observa da transcrição dos seguintes trechos:
+“Como cediço, muito se discutiu acerca do momento consumativo dos crimes de furto e roubo, com digressões oportunamente fundamentadas por diversas teorias, cuja principal dissensão era quanto à questão da posse mansa e pacífica da res furtiva.
+Todavia, atualmente, a mencionada divergência vem sendo cada vez mais apaziguada, construindo a doutrina e a jurisprudência o entendimento segundo o qual tais crimes se consumam simplesmente com a inversão da posse dos bens da vítima, ainda que posteriormente sejam restituídos e mesmo que o agente do delito venha a ser preso logo após o fato.
+Quanto ao tema, assim expõe Júlio Fabbrini Mirabete:
+“O crime de roubo somente se consuma, como no furto, com a inversão da posse, ou seja, nos termos da jurisprudência francamente predominante, se o agente tem a posse mais ou menos tranquila da coisa, ainda que por breve momento, fora da esfera de vigilância da vítima.” (“Código penal interpretado”, 5. ed., São Paulo: Atlas, 2005, p. 1.325)
+Acerca do assunto, o Superior Tribunal de Justiça já firmou entendimento no julgamento do Recurso Especial Repetitivo 1.499.050/RJ, pela Terceira Seção, no sentido de “que deve ser adotada a teoria da apprehensio ou amotio no que se referre à consumação do delito de roubo, que ocorre no momento em que o agente se torna possuidor da res furtiva, ainda que a posse não seja de forma mansa e pacífica, não sendo necessário que o objeto subtraído saia da esfera de vigilância da vítima." (”Esp 1704976/SP,Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/09/2018, DJe 26/09/2018)
+Nesse sentido, o STJ pacificou o referido entendimento através da edição do enunciado da Súmula 582, in verbis:
+“Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada,sendo prescindível a posse mansa e pacífica ou desvigiada. ”
+Levando-se em conta tal raciocínio, o qual é plenamente aplicado ao caso sub judice, o roubo se consumou logo que os agentes, após o emprego de violência ou grave ameaça, retiraram os objetos materiais da esfera de disponibilidade da vítima (posse física e psíquica), sendo irrelevante se chegaram a ter a posse tranquila ou não da res furtiva.
+Oportuno consignar que a recuperação da coisa alheia móvel subtraída em nada afeta o momento consumativo do roubo, que se aperfeiçoa quando, cessado o meio de intimidação da vítima, a violência ou a grave ameaça, há a inversão da posse, ainda que por pouco tempo, sendo prescindível a qualidade de “mansa e pacífica”.
+Denota-se que houve a inversão da posse, ainda que momentânea, ou seja, no momento da subtração, antes da chegada dos policiais militares, por um breve momento, houve a posse exclusiva da coisa mediante o emprego de grave ameaça. Dentro deste contexto, não resta dúvida sobre a ocorrência da consumação do delito, sendo impossível sua desclassificação para tentativa. “ (Id. 42252479)
+A mesma matéria foi objeto de pronunciamento explícito em sede de aclaratórios, senão vejamos:
+“Pela simples leitura do acórdão combatido se verifica que o pleito absolutório e a pretensão sucessiva de desclassificação do crime de roubo consumado para tentativa, bem como aplicação da participação de menor importância e readequação da pena tiveram espaço na discussão plenária e foram afastados por decisão unânime dos componentes desta Câmara, conforme se depreende da leitura da ementa do acórdão embargado: (Id. 42252482)
+“APELAÇÃO CRIMINAL – SENTENÇA CONDENATÓRIA – ART. 157, §2o, INCISOS I E II, DO CP – IRRESIGNAÇÃO DEFENSIVA – REQUER A DESCLASSIFICAÇÃO DO CRIME CONSUMADO PARA TENTATIVA DE ROUBO – TESE REJEITADA – PROVA – SÚMULA 582 STJ – O CRIME SE CONSUMA NO MOMENTO EM QUE O AGENTE SUBTRAI O BEM DO OFENDIDO – APLICAÇÃO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA – IMPROCEDÊNCIA – IDENTIDADE DE INFRAÇÃO OBJETIVA DE DESÍGNIO IDÊNTICO – READEQUAÇÃO DA PENA – INOCORRÊNCIA – EXASPERAÇÃO JUSTA, PROPORCIONAL E SUFICIENTE – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+Não há de se falar em desclassificação para crime de tentativa, pois o delito de roubo se aperfeiçoa quando, cessado o meio de intimidação da vítima, a violência ou a grave ameaça, há a inversão da posse, ainda que por pouco tempo, sendo prescindível a qualidade de “mansa e pacífica”.
+Quanto ao pedido de participação de menor importância, analisando detidamente os autos, não há que se falar em participação de menor importância, uma vez que o apelante efetivamente ingressou no iter criminis de forma ativa, ao aderir a conduta dos corréus no delito.
+O quantum fixado pelo juiz sentenciante está proporcional, e devidamente fundamentada conforme art. 93, inc. IX, da CF.”
+Do cenário exposto, não se verifica qualquer omissão, contradições ou obscuridades a ser sanado, sendo certo que a irresignação alicerça-se, em verdade, na insatisfação do embargante quanto ao deslinde do processo, pretendendo com a oposição do recurso tão somente rediscutir a matéria posta nos autos. “ (Id. 50397981)
+Portanto, nota-se que o órgão fracionário analisou a questão trazida nos autos, não havendo evidências de violação aos arts. 619 do CPP e 489, §1°, do CPC.
+Sistemática de recursos repetitivos. Tema 916.
+Ao apontar violação aos arts. 14, II e 157, ambos do CP, bem como aos arts. 155 e 386, VII, do CPP, defende o Recorrente a necessidade de desclassificação do crime de roubo para a sua modalidade tentada, haja vista que abordado enquanto tentava empreender fuga, não consumando do delito por circunstâncias alheias à sua vontade.
+A questão abordada encontra-se afetada pela sistemática dos recursos repetitivos, sendo necessária a sua aplicação no caso.
+Com efeito, no julgamento dos recursos paradigmas (REsp 1499050/RJ e 1483810/RJ, Tema 916) o Superior Tribunal de Justiça concluiu que: “Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.”
+Assim, ao analisar o acórdão recorrido a partir dos trechos acima indicados, observa-se que este se encontra em conformidade com a orientação do STJ, pois, em relação a questão ora em exame, ambos os Tribunais entenderam que, para a consumação do crime de roubo, basta a inversão da posse do bem, ainda que momentânea.
+Ante o exposto, com fundamento no art. 1.030, I, “b”, do CPC, e em face da conformidade do acórdão impugnado com o julgamento do recurso paradigma (Tema 918), nego seguimento ao Recurso Especial diante da sistemática de precedentes.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 18 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
