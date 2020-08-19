@@ -1,0 +1,21 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL. PENAL. DEFICIÊNCIA DE INSTRUÇÃO. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO. ENCAMINHAMENTO DA PETIÇÃO À DEFENSORIA PÚBLICA.
+Relatório
+    1. Habeas corpus impetrado por Márcio Pontes de Souza, custodiado no Complexo Penitenciário da Papuda - DF, em benefício próprio.
+    2. O impetrante alega que outro detento, de nome Yago de Vasconcelos Moreira Cruvinel, apesar de reincidente, teria sido beneficiado com nova contagem de pena para fins de progressão de regime – de 3/5 para 2/5 -, requerendo a extensão a sua situação e a de outros custodiados reincidentes, com base no “direito à igualdade”.
+    Requereu assistência judiciária gratuita, por encontrar-se preso e não possuir recursos financeiros.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A presente ação está deficientemente instruída, desacompanhada de documentos, em especial do ato coator e eventuais decisões que teriam sido proferidas pelo Juízo da Execução Penal, a impossibilitar a compreensão ou o exame do pedido.
+    Sem dados passíveis de serem minimamente analisados para a ciência plena do caso, de eventuais incidentes havidos e possíveis consequências, o presente habeas corpus não pode ter seguimento por carecer dos requisitos necessários ao válido processamento.
+    Confiram-se, por exemplo, os seguintes julgados:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DO WRIT. DEFICIÊNCIA. JURISPRUDÊNCIA DO SUPREMO TREBUNAL FEDERAL. 1. A orientação jurisprudencial desta Corte é no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski). 2. Agravo regimental a que se nega provimento” (HC n. 182.064 – AgR, Relator o Ministro Roberto Barroso, DJe 15.7.2020).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ESTELIONATO. TRANCAMENTO DA AÇÃO PENAL. INSTRUÇÃO DEFICIENTE DO WRIT. INVIABILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus, quando não instruídos os autos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes. 2. Agravo regimental conhecido e não provido” (HC n. 177.712 – AgR, Relatora a Ministra Rosa Weber, DJe 6.3.2020).
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PETIÇÃO INEPTA. DEFICIÊNCIA DE INSTRUÇÃO AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 163.114 – AgR, de minha relatoria, DJe 26.9.2019).
+    “HABEAS CORPUS. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO MONOCRÁTICA. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. INSTRUÇÃO DEFICIENTE DO WRIT. INOBSERVÂNCIA DE PRESSUPOSTO INDISPENSÁVEL AO SEU CONHECIMENTO. PRECEDENTES. DECISUM FUNDADO NA REITERADA JURISPRUDÊNCIA DESTA CORTE. AGRAVO DESPROVIDO. (…) II - Decisão fundada na reiterada jurisprudência desta Suprema Corte sobre a matéria, no sentido de que no habeas corpus, assim como no mandado de segurança, hão de ser apresentadas provas pré-constituídas do constrangimento ilegal imposto ao paciente. Não cabe ao magistrado proceder à regular instrução do processo, a não ser que, da leitura da documentação juntada com a impetração, resulte dúvida fundada, a justificar a realização de diligência Precedentes. III - Agravo regimental desprovido” (HC n. 138.443-ED, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 11.4.2017).
+    4. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Intime-se o impetrante/paciente desta decisão e dê-se-lhe ciência de ter direito constitucional a um advogado público, se não puder pagar um de sua livre escolha sem comprometimento de suas condições materiais.
+    Intime-se o Defensor-Geral do do Distrito Federal da presente decisão, enviando a ele cópia da peça inicial do presente habeas corpus, para as providências cabíveis.
+    Publique-se.
+    Brasília, 19 de agosto de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
