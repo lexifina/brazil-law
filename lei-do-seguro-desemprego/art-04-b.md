@@ -1,1 +1,0 @@
-Art. 4-B. Sobre os valores pagos ao beneficiário do seguro-desemprego será descontada a respectiva contribuição previdenciária e o período será computado para efeito de concessão de benefícios previdenciários.
