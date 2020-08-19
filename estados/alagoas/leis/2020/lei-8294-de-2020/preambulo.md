@@ -1,0 +1,5 @@
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR
+
+LEI Nº 8.294, DE 18 DE AGOSTO DE 2020.
+
+ALTERA A LEI ESTADUAL Nº 7.158, DE 17 DE JUNHO DE 2010. O GOVERNADOR DO ESTADO DE ALAGOAS, Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
