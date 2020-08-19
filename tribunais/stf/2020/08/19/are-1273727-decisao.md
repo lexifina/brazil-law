@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    EMBARGOS À EXECUÇÃO FISCAL. ICMS NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. PIS. COFINS. NÃOCUMULATIVIDADE. LEIS Nº 10.637/2002 E 10.833/2003. RESTRIÇÕES AO APROVEITAMENTO DE CRÉDITOS. ABRANGÊNCIA DO TERMO 'INSUMOS'. IN/SRF Nº 247/2002. IN/SRF Nº 404/2004. TAXA SELIC. ENCARGO LEGAL.
+    1. Nos embargos à execução, incumbe ao embargante demonstrar que as verbas questionadas serviram de base de cálculo dos tributos que estão sendo cobrados, não bastando alegação de violação de direito em tese.
+    2. A nova sistemática de tributação não-cumulativa do PIS e da COFINS, prevista nas Leis nº 10.637/2002 e 10.833/2003, confere ao sujeito passivo do tributo o aproveitamento de determinados créditos previstos na legislação, excluídos os contribuintes sujeitos à tributação pelo lucro presumido.
+    3. O conceito de insumo, para fins de creditamento no regime não cumulativo das contribuições PIS e COFINS, abrange os elementos que se relacionam diretamente à atividade da empresa, com restrições.
+    4. A IN/SRF nº 247/2002 e a IN/SRF nº 404/2004 não ampliam o conteúdo legal, apenas reforçam o modo legalmente previsto de aproveitamento dos créditos no sistema não cumulativo do PIS e da COFINS, de modo que não incorrem em vícios de ilegalidade ou de inconstitucionalidade.
+    5. É legítima a correção monetária do débito e a cobrança de juros pela taxa SELIC.
+    6. É legal e constitucional a cobrança do encargo de 20%, conforme já decidido pela Corte Especial deste Tribunal.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37; 145, inciso II; 150, incisos I e IV; 151, inciso I, 153, inciso IV, § 3º; 195, inciso I e § 12, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, nas razões de seu recurso extraordinário, a parte recorrente deixou de impugnar fundamento autônomo e suficiente, por si só, à manutenção do acórdão recorrido, consistente na ausência de comprovação de que.as verbas questionadas serviram de base de cálculo dos tributos que estão sendo cobrados.
+    Desse modo, incide na espécie o enunciado da Súmula 283/STF, que dispõe, in verbis: “É inadmissível o recurso extraordinário [...] quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido, citem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É deficiente a fundamentação do agravo regimental cujas razões não atacam todos os fundamentos suficientes da decisão agravada. Incidência da Súmula 283/STF. II – Agravo regimental a que se nega provimento” (ARE nº 1.173.331/RJ–AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 31/5/19).
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 23, I, 145, §§ 1º E 2º, 150, I E IV, 156, § 1º, E 182 DA CONSTITUIÇÃO DA REPÚBLICA. IPTU. PROGRESSIVIDADE. MATÉRIA PRECLUSA. QUESTÃO NÃO ATACADA NO APELO EXTREMO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULAS 283 E 284/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Razões do recurso extraordinário que não atacam os fundamentos do acórdão recorrido. Aplicação da Súmula nº 284/STF. 2. A jurisprudência desta Suprema Corte não admite recurso extraordinário contra acórdão que contém fundamento infraconstitucional suficiente e este se torna imodificável. Aplicação da Súmula 283/STF: ’É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles’. Precedentes. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo interno conhecido e não provido‘ (RE nº 880.247/PE–AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 20/5/19).
+    No mesmo sentido: ARE nº 1.075.688/SP-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 22/11/17) e RE nº 601.550/PR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 20/5/19.
+    Além do mais, a questão atinente ao conceito de insumo tal como previsto nas IN/SRF nº 247/2002 e a IN/SRF nº 404/2004, não ultrapassa a esfera da legalidade. A afronta ao texto constitucional, se ocorresse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária.
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de agosto de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
