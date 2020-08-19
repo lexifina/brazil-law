@@ -1,1 +1,0 @@
-Art. 12-A. Fica autorizado o armazenamento, em meio eletrônico, óptico ou equivalente, de quaisquer documentos relativos a deveres e obrigações trabalhistas, incluídos aqueles relativos a normas regulamentadoras de saúde e segurança no trabalho, compostos por dados ou por imagens, nos termos do disposto na Lei nº 12.682, de 9 de julho de 2012.
