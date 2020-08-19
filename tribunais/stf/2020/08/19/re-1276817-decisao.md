@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. IMPORTAÇÃO DE BENS. NÃO CONTRIBUINTE. INCIDÊNCIA APÓS EC 33/2001. EFICÁCIA DA LEI ESTADUAL 11.001/2001 APÓS LC 114/2002. POSSIBILIDADE DE COBRANÇA. RECURSO EXTRAORDINÁRIO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “MANDADO DE SEGURANÇA - ICMS -Tributo exigido quando do desembaraço aduaneiro de veículo importado por pessoa física não contribuinte habitual - O OE do TJSP reconheceu a inconstitucionalidade do art. 1°. VII, da Lei 11.001/01 – Lei Paulista editada antes da lei complementar federal, violando o art. 146, III, a, da CF - Inadmissibilidade da tributação Concessão da ordem mantida - Recurso de apelação e reexame necessário, desprovidos.” (Doc. 19, p. 13)
+    Nas razões do apelo extremo, a União sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 24, § 3º e § 4° e 155, II, § 2°, IX, "a", da Constituição Federal. Articula, em síntese, que a Lei 11.001 de São Paulo foi declarada válida e eficaz pelo Supremo Tribunal Federal, não sendo incompatível com a superveniente norma federal LC 114/2002.
+    É o relatório. DECIDO.
+    O recurso extraordinário merece prosperar.
+    Ab initio, impende ressaltar que a controvérsia sub examine consiste em estabelecer se a Lei Estadual 11.001/2001 de São Paulo, editada após a EC 33/2001 e antes da LC 114/2002, é constitucional e produz efeitos.
+    Ficou estabelecido, por entendimento majoritário desta Corte, que a Lei 11.001/2001 do Estado de São Paulo, editada durante a vigência da EC 33/2001, é constitucional e, a partir da vigência da Lei Complementar 114/2002, começou a produzir efeitos, sendo, desta forma, aplicável a partir do ano de 2002.
+    Como bem salientou o eminente Ministro Gilmar Mendes em caso análogo ao discutido, “A questão resolve-se no plano da eficácia. Vale dizer, no período após a EC e anterior à Lei Complementar Federal, não haveria inconstitucionalidade, mas tão só ineficácia da legislação estadual até 17.12.2002 (vigência da Lei Complementar 114/02), de sorte que seriam insubsistentes créditos tributários advindos de fatos geradores anteriores a tal marco”. (RE 917.950-AgR/SP, Rel. Min. TEORI ZAVASCKI, Rel. para acórdão Min. GILMAR MENDES, Segunda Turma, DJe de 11/6/2018)
+    Consectariamente, não há que se falar em inconstitucionalidade da Lei 11.001, mas de mera postergação da produção de efeitos a partir da vigência da LC 114/2002.
+    Nesse sentido ficou estabelecido o entendimento plenário desta Suprema Corte no julgamento virtual do agravo interno no RE 1.221.330, finalizado em 15/6/2020, no qual ficaram definidas as seguintes teses apresentadas pelo ilustre Ministro Alexandre de Moraes:
+    “I - Após a Emenda Constitucional 33/2001, é constitucional a incidência de ICMS sobre operações de importação efetuadas por pessoa, física ou jurídica, que não se dedica habitualmente ao comércio ou à prestação de serviços, devendo tal tributação estar prevista em lei complementar federal.
+    II – As leis estaduais editadas após a EC 33/2001 e antes da entrada em vigor da Lei Complementar 114/2002, com o propósito de impor o ICMS sobre a referida operação, são válidas, mas produzem efeitos somente a partir da vigência da LC 114/2002..”
+    Nessa mesma lógica trago os seguintes julgados: RE 1206653/ SP, Rel. Min. CÁRMEN LÚCIA, DJe. 21/08/2019; RE 1212180/SP, DJe. 12/6/2019 e RE 1158379/SP, DJe. 11/12/2018, ambos de relatoria da Min. ROSA WEBER; RE 1.063.250/SP, DJe de 2/2/2018 e RE 1.097.569/SP, DJe de 1º/2/2018, ambos de relatoria do Min. DIAS TOFFOLI; e ARE 933.069/SP, Rel. Min. ROSA WEBER, DJe de 29/11/2017.
+    Assim, tendo em vista que o veículo automotivo adquirido pela parte (David Leonardo Ciasca dos Santos) entrou no país após a entrada em vigor da LC 114/2002, é aplicável a Lei estadual 11.001/2001 de São Paulo ao caso.
+    Ex positis, DOU PROVIMENTO ao recurso extraordinário interposto, com fundamento no disposto no artigo 932, V, do CPC/2015, para denegar a segurança. Sem condenação em honorários (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 19 de agosto de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
