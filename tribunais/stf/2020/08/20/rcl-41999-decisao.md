@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação, com pedido liminar, apresentada pela Defensoria Pública do Estado de Mato Grosso em face de ato do Município de Mirassol D’Oeste/MT, que, ante a edição do Decreto Municipal nº 3.751 estabelecendo o toque de recolher no âmbito do Município, teria violado o decidido na ADI nº 6.341.
+    A parte reclamante informa que diante da pandemia mundial ocasionada pelo Covid-19, o Chefe do Poder Executivo local, após reunião com o comitê de enfrentamento ao coronavírus, editou o Decreto nº 3.751 que estabeleceu o toque de recolher, no período de 29.06.2020 a 12.07.2020, com medida de combate ao vírus.
+    Esclarece que em 29.06.2020 encaminhou ao Chefe do Executivo municipal ofício com recomendação de revogação do artigo 1º, parágrafo único, e artigo 2º, §2º, ambos do referido decreto, solicitando resposta no prazo de 2 (dois) dias. O Município quedou-se silente.
+    Afirma violado o entendimento da ADI 6.341 porquanto no citado paradigma “restou sufragado o entendimento de que as medidas de restrição devem ser precedidas de recomendação técnica e fundamentada do respectivo órgão de vigilância sanitária ou equivalente” (eDoc 1, p. 4), o que não aconteceu no caso concreto.
+    Nesse contexto, requer, liminarmente, a suspensão do Decreto Municipal nº 3.751/2020 e, no mérito pleiteia a procedência da ação para cassar os artigos 1º, parágrafo único e 2º, § 2º do citado ato normativo.
+    É, em síntese, o relatório. Decido.
+    A reclamação, instituto jurídico de natureza constitucional, deve ser aferida nos estritos limites das normas de regência (art. 102, I, l, e art. 103-A, § 3º, da CF).
+    No caso, a parte reclamante sustenta que a autoridade reclamada, ao editar decreto municipal determinando o toque de recolher no âmbito municipal, teria violado a decisão proferida nos autos da ADI 6.341.
+    Nesse julgamento, conforme se extrai da ata de julgamento:
+    “O Tribunal, por maioria, concedeu parcialmente a cautelar para i) suspender parcialmente, sem redução de texto, o disposto no art. 3º, VI, b, e §§ 6º e 7º, II, a fim de excluir estados e municípios da necessidade de autorização ou observância ao ente federal; e ii) conferir interpretação conforme aos referidos dispositivos no sentido de que as medidas neles previstas devem ser precedidas de recomendação técnica e fundamentada, devendo ainda ser resguardada a locomoção dos produtos e serviços essenciais definidos por decreto da respectiva autoridade federativa, sempre respeitadas as definições no âmbito da competência constitucional de cada ente federativo, nos termos do voto do Ministro Alexandre de Moraes, Redator para o acórdão, vencidos o Ministro Marco Aurélio (Relator), que trazia a referendo o indeferimento da medida liminar, e, em parte, os Ministros Edson Fachin e Rosa Weber, que deferiam parcialmente a medida cautelar para conferir interpretação conforme ao inciso II do § 7º do art. 3º da Lei nº 13.979/2020. Afirmou suspeição o Ministro Roberto Barroso, ausente justificadamente. Presidência do Ministro Dias Toffoli. Plenário, 06.05.2020 (Sessão realizada inteiramente por videoconferência - Resolução 672/2020/STF).”
+    Ao que se lê, na petição inicial e no Decreto Municipal nº 3.751 de 25 de junho de 2020, a vigência do ato chegaria a termo no dia 12.07.2020.
+    Esses autos foram encaminhados à Presidência desta Corte em 03.07.2020 que considerou não se tratar de caso que justificasse a atuação da Presidência no recesso judiciário.
+    Os autos somente foram encaminhados ao meu gabinete em 31.07.2020, quando já encerrado o prazo de vigência do Decreto ora combatido nesta ação.
+    Diante disso, julgo prejudicada a presente reclamação, por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 20 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
