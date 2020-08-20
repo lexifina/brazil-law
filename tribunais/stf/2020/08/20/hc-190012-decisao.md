@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Execução penal. Habeas corpus. Falta grave. PAD. Alegação de nulidade. Princípio da ampla defesa e contraditório. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 603.565, do Superior Tribunal de Justiça.
+    2. A parte impetrante narra que o paciente foi transferido para o “Conjunto Penal de Serrinha no dia 15/04/2020” e desde então tem seus direitos e garantias fundamentais desrespeitados. Alega que, apesar de a defesa técnica estar habilitada há mais de 1 ano nos autos do processo de Execução Penal, “incontestavelmente é escamoteada a todo momento do processo”.
+    3. Prossegue a impetração para pontuar que houve afronta aos princípios da ampla defesa e contraditório, tendo em vista que, em Procedimento Administrativo Disciplinar – PAD, “foi nomeado defensor da unidade prisional para o Interno, ora Paciente, apesar deste possuir advogado constituído”; ressaltando que a “situação é agravada em razão de a decisão do PAD culminar com a aplicação de sanção disciplinar ao Reeducando de natureza GRAVE, com anotação de MÁ CONDUTA, por 12 meses a partir o início do cumprimento da sanção, tudo isso sem que sua defesa técnica constituída pudesse atuar”.
+    4. A defesa requer a “nulidade do Procedimento Administrativo Disciplinar – PAD nº Proc. Disc 004.04/2020, do Conjunto Penal de Vitória da Conquista/BA, com o consequente retorno do Paciente para cumprimento de pena no regime semiaberto, no Conjunto Penal Nilton Gonçalves, em Vitória da Conquista/BA, assim como a nulidade da decisão liminar proferida pela autoridade coatora, tendo em vista a carência de fundamentação e ausência de distinguishing para não aplicar a súmula nº 533 do STJ invocada pelo Paciente, como bem determina o art. 315, §2º, VI c/c art. 564, V, ambos do Código de Processo Penal”.
+    5. Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    7. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    8. Não é caso de concessão da ordem de ofício.
+    9. As alegações da defesa não foram sequer analisadas pelas instâncias de origem (TJ/BA e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+    10. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 20 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
