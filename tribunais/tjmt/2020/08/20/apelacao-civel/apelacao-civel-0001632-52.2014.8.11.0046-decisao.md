@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0001632-52.2014.8.11.0046
+Recorrente: AGROPECUÁRIA VALE DO JURUENA LTDA - ME
+Recorrido: WALDIR FRANCISCO GUERRA e OUTROS
+Vistos.
+Trata-se de Recurso Especial interposto por AGROPECUÁRIA VALE DO JURUENA LTDA - ME (id 53920495) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 51102467):
+“APELAÇÃO CÍVEL – CAUTELAR INOMINADA – JULGAMENTO DE PROCEDÊNCIA – VIABILIDADE – PREENCHIMENTO DOS REQUISITOS DOS ARTIGOS 813 e 814 DO CPC/1973 – MEDIDA CONSTRITIVA – APLICABILIDADE DOS ARTIGOS 822 E 823, AMBOS DO CPC/1973 – DESCABIMENTO DE UTILIZAÇÃO DO ARTIGO 798 DO CPC/9173 – BUSCA DA GARANTIA DO RESULTADO ÚTIL DO PROCESSO PRINCIPAL – CONFIGURAÇÃO DE LITIGÂNCIA DE MÁ-FÉ – ALTERAÇÃO DA VERDADE DOS FATOS – EXIGIBILIDADE DA CAUÇÃO – MERA FACULDADE DO JULGADOR – MANUTENÇÃO DA SENTENÇA – APELO DESPROVIDO. Mostra-se escorreito o julgamento de procedência da cautelar quando presentes os requisitos dos artigos 813 e 814, ambos do CPC/1973, notadamente quando há risco quanto ao resultado útil do processo, cabendo, assim, as constrições dos artigos 822 e 823, também do CPC/1973, ressaltando-se que a caução não é necessariamente obrigatória, ficando ao alvedrio do julgador, com base nas circunstâncias de fato e de direito sopesar a obrigatoriedade da apresentação. Impõe-se a aplicação da multa por litigância de má-fé quando a parte altera a verdade dos fatos, buscando por meios escusos, a satisfação de seus interesses.” (TJMT, RAC 0001632-52.2014.8.11.0046, DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 14/07/2020)
+Não foram apresentados Embargos de Declaração.
+A parte Recorrente apresentou seu recurso especial sustentando que o acórdão afrontou os artigos 798, 804, 813, 814, 822 e 823, todos do CPC/1973, além do artigo 80, II e 355, I, ambos do CPC/2015.
+Diz que o artigo 355, I do CPC restou violado no momento em que o acórdão rejeitou a alegação de cerceamento de defesa, uma vez que o julgamento antecipado da lide impossibilitou a produção de provas pela parte Recorrente, ressaltando que a cautelar incidental é acessória à ação principal, sendo necessária a dilação probatória.
+Aponta que o acórdão afrontou os artigos 798, 822 e 823 do CPC/73, uma vez que “as regras de ordem processual se aplicam aos processos em curso, contudo, respeitando os atos processuais praticados no curso da demanda, conforme dispõe o art. 14 do NCPC”. Dessa forma, diz a parte Recorrente que devem ser observados os dispositivos elencados no CPC/73, conforme requerido no Apelo.
+Afirma que restaram violados os artigos 813 e 814 do CPC/73, uma vez que “inexiste em favor das partes adversas título líquido, certo e vencido para justificar o “arresto” de vultosa quantia visando uma futura “penhora”; também não se identifica qualquer das hipóteses previstas no art. 813 do para autorizar o cabimento da medida cautelar de arresto.”
+Verbera que houve violação ao artigo 804 do CPC/73, uma vez que o Magistrado condutor do feito não exigiu que a parte Recorrida preste caução nos autos, ainda mais ante o expressivo valor no importe de R$ 12.079.425,00 (doze milhões, setenta e nove mil, quatrocentos e vinte e cinco reais).
+Diz em suas razões que o acórdão violou o disposto no artigo 80, II do CPC, uma vez que inexiste alteração da verdade dos fatos, salientando que a matéria vem sendo discutida nos Agravos n. 59065/2012 e 76282/2014.
+Ao final, a parte Recorrente assevera que “não procedem os fundamentos jurídicos lançados na decisão recorrida para caracterizar a presente dos pressupostos legais: fumus boni iuris e periculum in mora, especialmente quando se baseia/transcreve a decisão proferida nos autos do agravo de instrumento n.o 76282/2014, pois, efetivamente, a intimação do representante legal da Fazenda Planorte S/A. ocorreu após a realização do depósito, conforme consta do mandado de cumprimento da medida liminar o horários da intimação, o que fato incontroverso. Destarte, inexistem os requisitos legais para a procedência da lide cautelar.”
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...)3-. No caso vertente, verifica-se que os requisitos autorizadores da concessão do efeito suspensivo se fazem presentes, haja vista que a exorbitância do valor que os Recorrentes deverão depositar em juízo, no prazo de 15 (quinze) dias – R$ 12.079.425.00 -. Assim, a imediata execução da decisão recorrida surtirá efeitos de risco de dano grave e de difícil reparação aos Recorrentes, notadamente no caso de provimento, ao final, deste recurso.
+4-. Ademais, tendo em vista a grave situação econômica e sanitária causada pela pandemia da COVID-19 - que é fato notório – e inclusive a quarentena decretada em decorrência da epidemia, que acabou por interromper bruscamente a atividade econômica nacional, causou, por conta da crise, aos Recorrentes medidas de restrição e isolamento social, afetando, inclusive, as atividades da empresa Agravante.
+5-. Acrescenta-se ainda, que os Recorridos, ante a ausência do efeito suspensivo ao presente recurso, com poderão pedir o cumprimento provisório da decisão recorrida e, inclusive, requerer o levantamento desta exorbitante importância, haja vista a desnecessidade de prestação de caução, conforme se constata da leitura da sentença e do próprio acórdão recorrido.
+6-. Desse modo, está devidamente comprovada a existência de perigo da demora e o risco de dano grave de difícil reparação aos Recorrentes, bem como, a probabilidade do direito, portanto, tornando necessário que seja concedido o efeito suspensivo ao Recurso Especial.”
+Recurso tempestivo e isento de preparo, conforme certidões id 54223987 e 54247486.
+É o relatório.
+Decido.
+Estabelece o Art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que o perigo da demora resta aparente ante a ordem para depósito da quantia de R$ 12.079.425,00 (doze milhões, setenta e nove mil, quatrocentos e vinte e cinco reais), no prazo de 15 (quinze) dias, conforme previsto na decisão id 33079450.
+E ainda, em relação a probabilidade do direito constata-se que a discussão vem sendo travada desde o ano de 2012, com resultados favoráveis para ambas as partes, conforme leitura dos Agravos de Instrumento n. 59065/2012 e 76282/2014, o que implica em maior cautela no cumprimento da medida discutida nos autos, sendo medida apta a evitar maiores prejuízos a suspensão dos efeitos do acórdão recorrido até eventual manifestação do STJ.
+Dessa forma, por entender que se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do Art. 995, parágrafo único, do CPC, defiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Intimem-se.
+Cuiabá, 18 de agosto de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
