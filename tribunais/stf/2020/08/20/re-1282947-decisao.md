@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Geais, assim ementado:
+    “AÇÃO DE COBRANÇA DE FGTS – PEDIDO JULGADO PROCEDENTE EM PARTE – OS CONTRATOS FIRMADOS NÃO PADECEM DE NULIDADE CONCERNENTE AO TEMPO DE VIGÊNCIA, SENDO INDEVIDO, PORTANTO, O PERCEBIMENTO DE FGTS – SENTENÇA REFORMADA – RECURSO DO ESTADO DE MINAS GERAIS PROVIDO E RECURSO DE ELIZABETH QUERINO GOMES DA SILVA NÃO PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º; 37, II e IX, e 39, § 3º, da CF.
+     O recurso extraordinário não deve ser provido.
+     O Supremo Tribunal Federal (STF), no julgamento de mérito do RE 658.026-RG, sob a sistemática da repercussão geral, assentou, entre outros pontos, que o “conteúdo jurídico do art. 37, inciso IX, da Constituição Federal pode ser resumido, ratificando-se, dessa forma, o entendimento da Corte Suprema de que, para que se considere válida a contratação temporária, é preciso que: a) os casos excepcionais estejam previstos em lei; b) o prazo de contratação seja predeterminado; c) a necessidade seja temporária; d) o interesse público seja excepcional; e) a necessidade de contratação seja indispensável, sendo vedada a contratação para os serviços ordinários permanentes do Estado, e que devam estar sob o espectro das contingências normais da Administração” (Tema 612).
+     O STF, ao apreciar o RE 765.320-RG, também sob a sistemática da repercussão geral, reafirmou sua jurisprudência no sentido de que a contratação por tempo determinado para atendimento de necessidade temporária de excepcional interesse público realizada em desconformidade com os preceitos do art. 37, IX, da CF não gera quaisquer efeitos jurídicos válidos quantos aos servidores contratados, com exceção do direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei nº 8.036/1990, ao levantamento dos depósitos efetuados no FGTS (Tema 916).
+     Na hipótese, contudo, o Tribunal de origem não reconheceu a nulidade da contratação temporária em análise nestes autos, o que afasta a incidência do art. 19-A da Lei nº 8.036/1990, nos termos da jurisprudência do STF.
+     Ademais, dissentir da referida conclusão, implica, necessariamente, a análise da legislação infraconstitucional aplicada ao caso e o reexame dos fatos, do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável, no ponto, o processamento do recurso extraordinário.
+     Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+     Publique-se.
+                Brasília, 20 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
