@@ -1,0 +1,16 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1047924-20.2019.8.11.0041
+Vistos etc.
+No Recurso de Apelação, o Advogado Marcos Aurélio da Silva, pugna pela concessão dos benefícios da justiça gratuita e por esse motivo não efetuou o pagamento do preparo recursal.
+Em atenção ao que determina o artigo 99, § 2.o, do CPC, o Apelante foi intimado para apresentar documentos para comprovar a necessidade do benefício.
+Cumprindo a determinação, juntou comprovante de despesas com cartão de crédito, cartão de loja e supermercado, despesa com a OAB e declaração de imposto de renda.
+Pois bem. A concessão da gratuidade em grau de recurso pressupõe que a parte não pode pagar o preparo recursal sem prejuízo do seu sustento próprio ou de sua família.
+Na hipótese, o Recorrente pleiteia os benefícios da assistência judiciária gratuita; todavia, os documentos que juntou aos autos não demonstram que não reúne condições de pagar o valor de R$ 375,89 (trezentos e setenta e cinco reais e oitenta e nove centavos). (fonte: http://www.tjmt.jus.br/INTRANET.ARQ/downloads/Corregedoria/Custas%20do%20Judici%C3%A1rio/Provimento_N%C2%B0112018-CGJ.pdf).
+Aliás, o Superior Tribunal de Justiça tem firme entendimento no sentido de que a demonstração da real condição financeira da parte Requerente do benefício da gratuidade é indispensável, vez que a afirmação de miserabilidade tem presunção relativa e, para ilustrar, transcrevo o seguinte aresto:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PEDIDO DE PARCELAMENTO DE CUSTAS. ART. 98, § 6o, DO CPC/2015. REVISÃO DAS CONDIÇÕES FINANCEIRAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. O CPC/2015 buscou prevenir a utilização indiscriminada/ desarrazoada da benesse da justiça gratuita, ao dispor, no art. 98, parágrafos 5.o e 6.o, que a gratuidade poderá ser concedida em relação a algum ou a todos os atos processuais, ou consistir na redução percentual ou parcelamento de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento. 2. A firme jurisprudência desta Corte orienta que a afirmação de pobreza, para fins de obtenção da gratuidade de justiça, goza de presunção relativa de veracidade. Por isso, por ocasião da análise do pedido, o magistrado deverá investigar a real condição econômico-financeira do requerente, devendo, em caso de indício de haver suficiência de recursos para fazer frente às despesas, determinar seja demonstrada a hipossuficiência (ainda que parcial, caso se pretenda apenas o parcelamento). 3. No caso, afirmado no acórdão recorrido que a parte não demonstrou insuficiência financeira capaz de justificar a concessão do benefício do parcelamento das custas, a pretensão recursal em sentido contrário encontra óbice na Súmula 7/STJ, porquanto demandaria reexame das provas, providência vedada em sede de recurso especial. 4. Agravo interno não provido. (STJ. AgInt no AREsp 1450370/SP. Relator Ministro Luis Felipe Salomão. 4.a Turma. Julgado em 25/06/2019. Publicado em 28/06/2019). (sem destaque no original)
+Portanto, indefiro o pedido de assistência gratuita.
+Nos termos do artigo 99, § 7.o, do CPC, intime-se o Apelante para, no prazo de 05 (cinco) dias efetuar o pagamento do preparo, sob pena de deserção.
+Após, à conclusão.
+Cumpra-se.
+Cuiabá-MT, 20 de agosto de 2019.
+Des.a Clarice Claudino da Silva
+Relatora
