@@ -1,0 +1,27 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1016895-41.2020.8.11.0000 - CLASSE 202 - CNJ - JACIARA
+Agravante : CLAUDENIR ALVES DOS SANTOS
+Agravado : LORI LANGNER BINELLO e outros
+Número do Protocolo : 1016895-41.2020.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por CLAUDENIR ALVES DOS SANTOS contra a r. decisão proferida pela MMa. Juíza de Direito da 1a Vara Cível da Comarca de Jaciara/MT, que nos autos da ação de “Reintegração de Posse c/c Nunciação de Obra Nova” (Proc. no 1001770-03.2020.8.11.0010), ajuizada contra o agravante por LORI LANGNER BINELLO e outros, deferiu pedido de reintegração liminar dos autores/agravados da posse do imóvel descrito como Lote no 23, Quadra 140 do Loteamento de Jaciara/MT, matriculado sob o no 6.490 junto ao SRI da Comarca de Jaciara/MT, por entender satisfatoriamente demonstrado o preenchimento dos requisitos do art. 559 do CPC, pontuando que as provas dos autos revelam que os autores/agravados “são legítimos proprietários” do imóvel, tendo adquirido sua posse “com a assinatura do contrato de compra e venda e registro do imóvel, nos termos do artigo 1.204 do CC”, estando o esbulho demonstrado pelo Boletim de Ocorrência lavrado pelos autores em 01/06/2020 e também pelo Laudo de Constatação realizado por ordem do Juízo (cf. doc. Num. 35160450 - Pág. 1/4 dos autos originários).
+O agravante reconhece que o Boletim de Ocorrência e o Laudo de Constatação mencionados pela decisão agravada realmente demonstram que ele ocupa o imóvel objeto da lide, mas não demonstram, de forma alguma, o exercício de posse prévia dos autores/agravantes sobre o bem.
+Expõe que, na verdade, embora Valdir Miguel Binello, falecido esposo da agravada Lori e pai dos demais recorrentes, tenha adquirido o Lote no 23, por erro, desde 1993, sua família e ele exerceram posse sobre o Lote no 22, localizado exatamente ao lado daquele.
+Aduz que, por outro lado, seus pais Aldenir Faustino Alves e Arilda Terezinha dos Santos, que ali residiam desde 1989, sendo os primeiros moradores daquela localidade, o transferiram a posse do Lote no 23.
+Pontua que, nos idos de 2008, seus pais inclusive pretenderam usucapir aquele lote, mas, ao ajuizarem a ação de Usucapião (Proc. no 2400-96.2008.811.0010), indicaram o lote ao lado, qual seja, o Lote no 24, porque todos os ali residentes sempre acreditaram que a residência de Valdir e Lori tinha sido edificada sobre o Lote no 23.
+Afirma que, com o falecimento de Valdir, seus herdeiros “constataram que o lote onde está a edificada a residência da agravada Lori não é o lote adquirido documentalmente (Lote no 23), mas sim o Lote no 22”, e agora buscam retira-lo daquele imóvel para “ficar com os dois lotes”.
+Argumenta que “a própria declaração que fundamentou a r. decisão” confirma que tanto seus pais, quanto os agravados, “tinham dúvida (sobre a precisa) localização do Lote no 23”.
+Exibindo diversos fotografias e explicando que a agravada Lori reside no Lote no 22, imediatamente ao lado do imóvel objeto da lide, e enfatizando que não houve demonstração satisfatória da posse prévia do bem pelos autores/agravados, pede reforma da decisão agravada, para que seja indeferido o pedido de reintegração liminar de posse, mas, de imediato, a concessão de efeito suspensivo ao recurso (cf. doc. Num. 53904969 - Pág. 19/30).
+É a suma.
+D E C I D O
+Sem delongas, verifica-se que a r. decisão agravada admitiu como demonstração satisfatória do exercício de posse sobre o imóvel a simples exibição do instrumento do contrato de compra e venda e do registro do imóvel, fazendo expressa referência ao disposto no art. 1.204 do CC (“Adquire-se a posse desde o momento em que se torna possível o exercício, em nome próprio, de qualquer dos poderes inerentes à propriedade”).
+Sucede, porém, que, como bem assinalado pelo agravante, e de forma bastante pormenorizada, a simples redação do aludido artigo de lei comumente não revela a realidade fática subjacente aos pedidos de reintegração de posse.
+Existem, por exemplo, várias formas de perda da posse, inclusive de maneiras ilegítimas, e não se pode dizer, necessariamente, que a simples aquisição do bem e registro perante o SRI competente seja suficiente para demonstração do exercício de posse sobre o imóvel previamente ao esbulho noticiado na petição inicial da ação de reintegração de posse.
+Ao que tudo indica, e como se vê dos documentos e fotografias apresentados pelo agravante, há fundada dúvida sobre quem exerce posse sobre a base física do Lote no 23, e há quanto tempo, sendo temerário, pois, deferir desde pronto medida reintegratória.
+Pelo exposto, havendo demonstração satisfatória da probabilidade do direito alegado pelo réu/agravado, recebo o recurso nos termos do art. 1.019 do CPC/2015, e DEFIRO o pedido de concessão de efeito suspensivo ao recurso (CPC/2015, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intimem-se os agravados, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias, e comunique-se à MMa. Juíza da causa, apenas para fins de conhecimento.
+Defiro o pedido de assistência judiciária gratuita.
+Expeça-se o necessário.
+Cuiabá, 20 de agosto de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
