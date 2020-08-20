@@ -1,0 +1,29 @@
+Despacho:
+    Vistos.
+    Trata-se de pedido de suspensão de liminar, ajuizado por Roni Luiz Pereira da Silva, contra decisão proferida pelo Tribunal de Justiça do estado do Rio de Janeiro, nos autos da ação penal nº 0065813-42.2018.8.19.0000, que determinou seu afastamento do exercício do cargo de vereador, para o qual fora regularmente eleito, e que já perdura por um ano e nove meses.
+    Aduziu que em 14/11/18, foi oferecida denúncia contra si, e outros corréus, tendo sido decretada sua prisão preventiva, bem como o afastamento do cargo de vereador.
+    Em 6/2/19, quando do recebimento da denúncia, sua prisão foi revogada, mas mantido seu afastamento do cargo, medida que ainda perdura, mesmo depois da apresentação de pedido de revogação, que apresentou em 4/12/19, mas que sequer foi apreciado.
+     Acrescentou que fora também afastado cautelarmente do exercício do mandato, por decisão do Juízo Eleitoral da origem, posteriormente revogada pelo próprio Juízo e que teve contra si decretada a cassação do diploma, mas que tal decisão foi suspensa pelo TSE; assim, a medida ora combatida é a única a mantê-lo afastado do cargo.
+    Defendeu o cabimento deste pedido de suspensão, bem como sua legitimidade para apresentá-lo e a competência do STF para sua apreciação, aduzindo estar em discussão o princípio da soberania popular.
+     Discorreu, a seguir, sobre os fatos relacionados a essa ação penal, e aos fundamentos para a concessão dessa ordem de afastamento, para aduzir que não subsistem tais razões e que, na prática, isso equivale a uma execução antecipada de futura condenação.
+     Salientou que a duração excessiva dessa medida cautelar acaba por subverter, ao invés de assegurar, a ordem pública no âmbito do município de Silva Jardim, gerando, ainda, grave lesão à ordem pública e à segurança jurídica (eis que contrária à soberania popular e à presunção de inocência), envolvendo tema de inequívoco quilate constitucional e sobre a qual, apesar de instado, não voltou a se manifestar o Desembargador Relator da ação penal em que proferida a ordem atacada.
+    Destacou, por fim, a existência de precedentes, desta Suprema Corte, a amparar a pretensão ora deduzida, postulando, assim, a pronta suspensão dos efeitos da decisão regional atacada.
+    É o relatório.
+    Decido:
+    A possibilidade de suspensão, pelo Presidente do Supremo Tribunal Federal, de execução de decisões concessivas de segurança, de liminar e de antecipação dos efeitos de tutela contra o Poder Público somente se admite quando presentes, simultaneamente, os seguintes requisitos: a) as decisões a serem suspensas sejam proferidas em única ou última instância pelos tribunais locais ou federais; b) tenham potencialidade para causar grave lesão à ordem, à saúde, à segurança ou à economia públicas; c) a controvérsia tenha índole constitucional (STA nº 729-AgR/SC, Rel. Min. Ricardo Lewandowski, Plenário, DJe de 23/6/15; STA nº 152-AgR/PE, Relª Minª Ellen Gracie, Plenário, DJ de 11/4/08 e SL nº 32-AgR/PE, Rel. Min. Maurício Corrêa, Plenário, DJ de 30/4/04).
+    Os requisitos encontram-se expressos no Regimento Interno desta Corte, em harmonia com as previsões legais atinentes à matéria. Vide o art. 297, caput, do RISTF:
+    “Art. 297. Pode o Presidente, a requerimento do Procurador-Geral, ou da pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, suspender, em despacho fundamentado, a execução de liminar, ou da decisão concessiva de mandado de segurança, proferida em única ou última instância, pelos tribunais locais ou federais.
+    A presente contracautela tem por objeto medida cautelar cujo cumprimento foi imposto ao requerente, por ocasião do oferecimento de denúncia, contra ele e outros corréus e mantida, quando do recebimento da denúncia, destacando-se, ainda, que, sua prisão preventiva, que havia sido decretada naquele primeiro momento, foi posteriormente revogada.
+    Não se mostra ocioso ressaltar que o requerente, desde que lhe foi imposto o cumprimento dessa medida, apresentou pleito suspensivo, junto ao STJ, com vistas a suspender-lhe os efeitos (SLS nº 2.360), mas não obteve êxito.
+    E que, igualmente, outros afastamentos do exercício do cargo de vereador lhe foram impostos, em autos diversos, mas posteriormente revogados, remanescendo apenas, com esse teor, a ordem contra a qual se volta a presente suspensão.
+    Ante esse quadro, não parece caracterizado o requisito de grave violação à ordem pública, representado pela decisão regional atacada, até porque, graves são as imputações contra ele assacadas no âmbito dessa ação penal.
+    Ademais, ao fundamentar sua pretensão também nos postulados do devido processo legal, da ampla defesa e da presunção de inocência, resta evidenciada a apresentação de pretensão de caráter particular, dissociada do fim excepcional a que se volta o instituto da contracautela.
+    Outrossim, esses argumentos revelam o uso do pedido de contracautela como inadmissível sucedâneo de recurso ou de ação própria à discussão do iter procedimental na ação penal subjacente, algo inadmissível.
+    No sentido do não cabimento da via da suspensão como sucedâneo recursal, vide SL nº 14/MG, Rel. Min. Maurício Corrêa, DJ de 3/10/03; SL nº 80/SP, Rel. Min. Nelson Jobim, DJ de 19/10/05; SS nºs 3.319/SC, 3.320/SC e 3.321/SC, Rel. Min. Ellen Gracie, DJ de 24/8/07.
+    Ausentes, assim, os requisitos legais aptos ao trâmite do pedido, impõe-se a pronta rejeição desta suspensão.
+    Ante o exposto, nego seguimento ao pedido (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada, por conseguinte, a análise da medida liminar postulada.
+    Publique-se.
+    Brasília, 20 de agosto de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
