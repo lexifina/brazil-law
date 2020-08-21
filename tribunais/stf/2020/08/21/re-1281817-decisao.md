@@ -1,0 +1,27 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. IMPETRANTE QUE PERCEBE TRÊS PROVENTOS DE APOSENTADORIA. DETERMINAÇÃO DA PREVI-RIO PELA DESVINCULAÇÃO DE UM DOS PROVENTOS DE INATIVIDADE QUASE QUINZE ANOS APÓS O DEFERIMENTO DO ÚLTIMO ATO DE APOSENTAÇÃO. O EXAME DE FUNDO DO CONFLITO DENOTA A OCORRÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO DA IMPETRANTE. O PODER-DEVER DE ANULAR OS ATOS ADMINISTRATIVOS CONSIDERADOS ILEGAIS, NÃO OBSTANTE SEJA COROLÁRIO DO PRINCÍPIO DA AUTOTUTELA, SE SUBMETE AO PRAZO QUINQUENAL DE DECADÊNCIA PARA O SEU EXERCÍCIO, CONFORME RESULTA DO ARTIGO 53 DA LEI ESTADUAL 5.427/09, LAPSO TEMPORAL QUE O PODER PÚBLICO NÃO LOGROU OBSERVAR NA HIPÓTESE VERTENTE. APLICAÇÃO AO CASO DOS PRINCÍPIOS DA DIGNIDADE DA PESSOA HUMANA, DA BOA-FÉ DO ADMINISTRADO E DA SEGURANÇA JURÍDICA. CONCESSÃO DA SEGURANÇA, PARA DECLARAR A NULIDADE DO ATO QUE DECLAROU ILEGÍTIMO O ACÚMULO DAS APOSENTADORIAS E DETERMINOU QUE A IMPETRANTE OPTASSE POR DESVINCULAR UM DOS SEUS PROVENTOS. RECURSO CONHECIDO E PROVIDO” (pág. 1 do documento eletrônico 6).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 37, XVI, e 40, § 6°, da mesma Carta, sob o argumento de que é vedada a acumulação de proventos de três cargos públicos.
+    Ademais, alega-se que “não é possível a oposição do direito adquirido pelo decurso de longo tempo quando se trata de manifesta contrariedade à Constituição Federal” (pág. 11 do documento eletrônico 11).
+    A pretensão recursal merece acolhida.
+    O Tribunal de origem, a despeito de reconhecer a inconstitucionalidade da acumulação de proventos de aposentadoria de três cargos públicos pela impetrante, julgou que a Administração Pública não pode anular esse ato, tendo em vista a ocorrência de decadência.
+    Esse entendimento, todavia, está em dissonância com a jurisprudência desta Corte firmada no sentido de que a revisão de atos flagrantemente inconstitucionais não está sujeita a prazo decadencial. Com essa orientação, cito julgados de ambas as Turmas deste Tribunal:
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Decadência. Anulação de ato inconstitucional. Súmula nº 473/STF. Servidor público. Cargos públicos. Acumulação. Licitude. Discussão. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. A jurisprudência da Corte consolidou entendimento no sentido da possibilidade de a Administração Pública corrigir seus atos quando eivados de inconstitucionalidade, sem que isso importe em ofensa aos princípios da segurança jurídica e do direito adquirido. Precedentes.
+    2. Não se presta o recurso extraordinário para o reexame do conjunto fático-probatório da causa, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF.
+    3. Agravo regimental não provido.
+    4. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei nº 12.016/09)” (ARE 985.614-AgR/PE, Rel. Min. Dias Toffoli, Segunda Turma – grifei).
+    “Ementa: CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ACÓRDÃO DO CONSELHO NACIONAL DE JUSTIÇA. CONCURSO PÚBLICO. SERVENTIA JUDICIAL. ANULAÇÃO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INOCORRÊNCIA. DECADÊNCIA ADMINISTRATIVA. INAPLICABILIDADE. ORDEM DENEGADA.
+    1. Não procede a arguição de nulidade formulada pela impetrante, fundada em suposta ausência de notificação para integrar o PCA em questão, haja vista a sua absoluta ciência do procedimento administrativo, seja na qualidade titular interina do cargo de Escrivão do Cível da Comarca de Fazenda Rio Grande/PR, seja na qualidade de postulante ao referido cargo.
+    2. A orientação jurisprudencial desta SUPREMA CORTE firmou-se no sentido de que o prazo decadencial previsto no art. 54 da Lei 9.784/99 não alcança situações flagrantemente inconstitucionais, sob pena de subversão das determinações insertas na Constituição Federal.
+    3. Ordem denegada” (MS 30.294/DF, Relator para o acórdão o Ministro Alexandre de Moraes, Primeira Turma – grifei).
+    “Ementa: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. SERVENTIA JUDICIAL. VACÂNCIA OCORRIDA APÓS 5/10/1988. DIREITO LÍQUIDO E CERTO INEXISTENTE. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 317, § 1º, DO RISTF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A agravante não refutou todos os fundamentos da decisão agravada, o que atrai a incidência do art. 317, § 1º, do RISTF. Precedentes.
+    II - O exame de ato manifestamente inconstitucional não está sujeito ao prazo previsto no art. 54 da Lei 9.784/1999. Precedentes.
+    III – Agravo regimental a que se nega provimento” (MS 30.031-AgR/DF, de minha relatoria, Segunda Turma – grifei).
+    Por fim, destaco da ementa de recente precedente do Plenário desta Corte (RE 817.338-RG/DF, de relatoria do Ministro Dias Toffoli – Tema 839 da Repercussão Geral):
+    “As situações flagrantemente inconstitucionais não devem ser consolidadas pelo transcurso do prazo decadencial previsto no art. 54 da Lei nº 9.784/99, sob pena de subversão dos princípios, das regras e dos preceitos previstos na Constituição Federal de 1988. Precedentes”.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento. Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 21 de agosto de 2020.
+Ministro Ricardo Lewandowski
+Relator
