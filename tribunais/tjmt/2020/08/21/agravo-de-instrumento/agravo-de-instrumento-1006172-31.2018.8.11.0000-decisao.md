@@ -1,0 +1,34 @@
+Egrégia Câmara:
+Trata-se de Recurso de Agravo de Instrumento interposto por Telefônica Brasil S.A., em desfavor da decisão interlocutória prolatada pelo juízo 4a Vara Especializada da Fazenda Pública da Comarca de Cuiabá, que nos autos da Ação Anulatória de Débito Fiscal com Pedido de Tutela de Provisória de Urgência no único 1000757-41.2018.8.11.0041, proposta contra o Estado de Mato Grosso, indeferiu o provimento antecipatório vindicado para o fim de suspender a exigibilidade da CDA no 2017490943, bem como, para que a ré se abstenha de executar o débito e incluir o nome da requerente em cadastros de inadimplentes, além de negar-lhe certidões com efeitos negativos (ID 2491797).
+A Agravante narra que demonstrou os requisitos necessários para o deferimento da tutela de urgência, porquanto, além de ilegal a exigência para compensação de créditos prevista no artigo 25, § 6o, da Lei do Estado de Mato Grosso no 7.098, de 30 de dezembro de 1998, também é inconstitucional.
+Alega que, “atualmente tramita perante o c. STF a Ação Direta de Inconstitucionalidade (ADI) no 4.623, pendente de julgamento, na qual a Confederação Nacional das Indústrias (CNI) contesta justamente o parágrafo 6o do art. 25 da Lei no 7.098/1998 do Estado de Mato Grosso, no bojo da qual já foram proferidos pareceres favoráveis pela Procuradoria Geral da República e pela Advocacia-Geral da União (pareceres e movimentação processual atualizada da ADI no 4.623/MT– doc. no 05), a pugnar pela inconstitucionalidade do aludido dispositivo.”.
+Com essas considerações, pugna pela concessão da tutela de urgência a fim de que seja deferido o efeito suspensivo e, no mérito, pelo provimento do recurso interposto com a reforma da decisão agravada (ID 2306962).
+A Relatoria indeferiu o efeito suspensivo almejado (ID 2606646).
+O Estado de Mato Grosso apresentou contraminuta, pleiteando desprovimento do recurso interposto (ID 2694767).
+A Procuradoria-Geral de Justiça se manifestou no sentido de inexistirem motivos legais que exijam a intervenção ministerial para prosseguimento do feito, declinando assim das atribuições, devolvendo os autos para o seu regular prosseguimento (ID 3138329).
+É o relatório.
+Após, vieram os autos para julgamento.
+É a síntese do necessário.
+Decido.
+A redação dada ao artigo 932 do Código de Processo Civil, cujo objetivo maior é a celeridade da prestação jurisdicional, permite que o Relator não conheça do recurso inadmissível, prejudicado, ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Por sua vez, o art. 51, XV, primeira parte do RITJMT, dispõe que, compete ao Relator julgar pedido “que haja perdido o seu objeto”.
+No caso dos autos, o recurso perdeu o seu objeto, tendo em vista que o Supremo Tribunal Federal, por meio do julgamento da ADI 4.623, decidiu pela inconstitucionalidade da vedação legal à tomada de créditos do ICMS-DIFAL sobre a aquisição de bens destinados ao ativo imobilizado, prevista no § 6o, do artigo 25, da Lei Estadual no 7.098/1998, do Estado de Mato Grosso, transcreve-se trecho do julgado:
+“O Tribunal, por maioria, julgou procedente o pedido formulado na ação direta para declarar a inconstitucionalidade do § 6o do art. 25 da Lei no 7.098, de 30.12.1998, do Estado de Mato Grosso, nos termos do voto da Relatora, vencidos os Ministros Marco Aurélio e Rosa Weber, que assentavam a perda de objeto da ação. Falou, pela requerente, a Dra. Tatiana Junger de Carvalho Abdounur. Impedido o Ministro Roberto Barroso. Plenário, Sessão Virtual de 5.6.2020 a 15.6.2020”.
+Deste modo, é de se reconhecer a ocorrência de perda superveniente de objeto do recurso em exame, porquanto a rescisão do contrato de concorrência solucionou a questão discutida no presente agravo, cuja análise, inexoravelmente, encontra-se prejudicada.
+Nesse sentido, confiram-se os ensinamentos de Bernardo Pimentel Souza, verbis:
+“O requisito de admissibilidade do interesse recursal está consubstanciado na exigência de que o recurso seja útil e necessário ao legitimado. O recurso é útil se, em tese, puder trazer alguma vantagem sob o ponto de vista prático ao legitimado. É necessário se for a única via processual hábil à obtenção, no mesmo processo, do benefício prático almejado pelo legitimado (...) Ausente a utilidade ou a necessidade, o recurso deve sofrer prejuízo negativo de admissibilidade, como bem revela o parágrafo único do artigo 577 do Código de Processo Penal, com aplicação analógica em prol do direito processual civil: ‘Não se admitirá, entretanto, recurso da parte que não tiver interesse na reforma ou modificação da decisão.’” (SOUZA, Bernardo Pimentel. Introdução aos Recursos Cíveis e à Ação Rescisória. 4. ed. atual., São Paulo: Saraiva, 2007, p. 50.). Grifo nosso.
+E também nessa mesma linha de entendimento, Fredie Didier Jr. e Leonardo José Carneiro da Cunha, verbis:
+“O exame do interesse recursal segue a metodologia do exame do interesse de agir (condição da ação). Para que o recurso seja admissível, é preciso que haja utilidade – o recorrente deve esperar, em tese do julgamento do recurso, situação mais vantajosa, do ponto de vista prático, do que aquela em que o haja posto a decisão impugnada – e necessidade – que lhe seja preciso usar as vias recursais para alcançar este objetivo.”
+Diante desse ponto, de relevo o artigo 493 do CPC:
+Art. 493. Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão.
+A propósito:
+AGRAVO DE INSTRUMENTO – LIMINAR CONCEDIDA EM AÇÃO CIVIL PÚBLICA – PRETENSÃO DE REVOGAÇÃO – PROCESSO SENTENCIADO – ACORDO HOMOLOGADO – EXTINÇÃO COM RESOLUÇÃO DO MÉRITO – AUSÊNCIA DE INTERESSE JURÍDICO – PERDA DO OBJJETO – INTELIGÊNCIA DO ARTIGO 1018, §1o DO CPC – AGRAVO PREJUDICADO.
+Inexiste interesse jurídico no provimento jurisdicional final se sobreveio sentença homologatória de acordo celebrado entre as partes (termo de ajustamento de conduta), julgando extinto o processo com resolução do mérito, sendo imperiosa a decretação de perda do objeto, restando o agravo prejudicado, nos moldes do artigo 1018, § 1o do CPC.
+(N.U 1000481-84.2018.8.11.9005, TURMA RECURSAL, LUCIA PERUFFO, Turma Recursal Única, Julgado em 22/03/2019, Publicado no DJE 25/03/2019).
+Dessa forma, restou caracterizada a perda superveniente do objeto, que prejudica a análise do recurso.
+Ante o exposto, tendo em vista a ocorrência de fato que impede a apreciação de mérito deste recurso, ante a perda do objeto, não conheço do presente Agravo de Instrumento por estar manifestamente prejudicado, nos termos do art. 932, III, do Código de Processo Civil c/c art. 51, VII do RITJMT.
+Se transcorrido in albis o prazo recursal, arquivem-se, com as cautelas de estilo.
+P.I.C.
+Cuiabá, 21 de agosto de 2020.
+Marcio Aparecido Guedes
+Relator
