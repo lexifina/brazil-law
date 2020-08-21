@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 96, de 17 de agosto de 2020
+Assunto: Contribuições Sociais Previdenciárias
+COOPERADO FILIADO A COOPERATIVA DE TRABALHO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ALÍQUOTA DE 20%. TERMO INICIAL. ADI RFB Nº 5, DE 2015. RECOLHIMENTO MENOR QUE O DEVIDO. COMPLEMENTAÇÃO. OBRIGATORIEDADE.
+A alíquota de 20% (vinte por cento) em relação à contribuição a cargo do cooperado que presta serviço a empresa, por intermédio de cooperativa de trabalho, é aplicável a partir da data da publicação do Ato Declaratório Interpretativo (ADI) RFB nº 5, de 25 de maio de 2015, que ocorreu em 26 de maio de 2015.
+A cooperativa de trabalho é obrigada a descontar e recolher a contribuição a cargo do cooperado, contribuinte individual, no montante de 20% (vinte por cento) sobre a remuneração, o que, inobstante, não exime este de comprovar o desconto no montante previsto na legislação, por meio de documento a ser expedido pela cooperativa nos termos do inciso V do art. 47 da IN RFB nº 971, de 2009.
+A partir de 26 de maio de 2015, a contribuição a cargo do cooperado filiado a cooperativa de trabalho que tenha sido recolhida com o percentual de 11% (onze por cento) deve ser complementada em valor equivalente à diferença entre o efetivamente pago e o devido em face da aplicação de alíquota de 20% sobre o salário de contribuição da competência, acrescido de multa e juros de mora.
+Dispositivos Legais: Lei nº 5.172, de 1966, Código Tributário Nacional (CTN), art. 150; Lei nº 8.212, de 1991, art. 21, caput, art. 22, inciso IV, art. 30, §§ 4º e 5º e art. 35; Lei nº 10.666, de 2003, art. 4º, §1º; Decreto nº 3.048, de 1999, art. 9º, §15, inciso IV, art. 216, inciso XII; IN RFB nº 971, de 2009, art. 47, inciso V, art. 65, inciso II, alínea "a", item 3; IN RFB nº 1867, de 2019; Ato Declaratório Interpretativo RFB nº 5, de 2015; Ato Declaratório Interpretativo RFB nº 1, de 2017.
+MORA. EFEITO DA CONSULTA FISCAL. APLICAÇÃO DE JUROS E MULTA.
+A consulta não impede a aplicação de juros e multa de mora sobre valores complementares devidos em razão de recolhimento a menor das contribuições cujo termo final do prazo para recolhimento tenha ocorrido antes da data em que foi protocolada.
+Dispositivos Legais: Lei nº 5.172, de 1966, Código Tributário Nacional (CTN), art. 161, §2º; Decreto nº 7.574, de 29 de setembro de 2011, art. 90; Instrução Normativa RFB nº 1.396, 16 de setembro de 2013, art. 10.
+.
+[arquivo anexo: SC Cosit nº 96-2020.pdf]
