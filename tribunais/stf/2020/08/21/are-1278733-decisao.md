@@ -1,0 +1,27 @@
+DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. REQUISITOS. COMPROVAÇÃO. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, 5º, 195, § 5º, e 201 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Quanto à alegada violação do art. 2º da Lei Fundamental, a jurisprudência do Supremo Tribunal Federal é no sentido de que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido, cito o RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 26.4.2012, e o ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 09.9.2012, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas Súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.”
+    Colhe-se do acórdão recorrido:
+    “[...]
+    Trata-se de recurso interposto pelo INSS em face de sentença que julgou procedente o pedido de aposentadoria por idade.
+    Em seu recurso, o INSS se limitou a sustentar que é inconcebível o cômputo do período de benefício por incapacidade como carência, tendo em conta que no período não há contribuição do segurado ou exercício de atividade rural, mas tão somente percepção de benefício pago pela autarquia previdenciária.
+    Porém, entendo que não assiste razão ao recorrente.
+    O tempo de gozo de auxílio-doença ou de aposentadoria por invalidez só será contabilizado como tempo de serviço/contribuição quando intercalado com períodos de atividade remunerada, nos termos do art. 55, inciso II, da Lei nº 8.213/2013, o qual passo a transcrever: [...]
+    Destaco, ainda, a previsão do artigo 60 do Decreto 3.048/99: [...]
+    Assim, com fulcro na legislação a ser aplicada ao caso dos autos, tenho que o período em que a parte autora percebeu auxílio-doença deve ser computado para fins de carência do benefício de aposentadoria por idade.”
+    Desse modo, compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria a análise prévia da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. APOSENTADORIA POR IDADE. PREENCHIMENTO DOS REQUISITOS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1091511 AgR, Relator(a): Cármen Lúcia (Presidente), Tribunal Pleno, julgado em 25.5.2018, PROCESSO ELETRÔNICO DJe-111 DIVULG 05.6.2018 PUBLIC 06.6.2018).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REQUISITOS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E NOVA APRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. Hipótese em que para dissentir do entendimento do Tribunal de origem seriam necessários nova apreciação do material probatório constantes dos autos (Súmula 279/STF) e a análise da legislação infraconstitucional pertinente. Precedentes. Agravo regimental a que se nega provimento” (ARE 770399 AgR, Relator(a): Roberto Barroso, Primeira Turma, julgado em 24.6.2014, PROCESSO ELETRÔNICO DJe-156 DIVULG 13.8.2014 PUBLIC 14.8.2014).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
