@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 1007065-13.2018.8.11.0003.
+APELANTES: ANTONIO DANIEL RODRIGUES E OUTRO.
+APELADOS: WALYSTON PEREIRA BATISTA.
+Vistos.
+Em observância ao disposto no artigo 67, V, “e”, do RI-TJMT, remetam-se os autos à douta Procuradoria Geral de Justiça.
+Às providências.
+Des. DIRCEU DOS SANTOS
+Relator
