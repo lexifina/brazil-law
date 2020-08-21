@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. DIREITO PROCESSUAL CIVIL. PRESSUPOSTO RECURSAL. REQUISITO. PRELIMINAR DE REPERCUSSÃO GERAL. DEMONSTRAÇÃO. AUSÊNCIA. DESPROVIMENTO.
+    Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Adriane Maria Siqueira. Aparelhado o recurso na afronta ao art. 5º, XXXV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Verifico ausente, no recurso extraordinário interposto de acórdão cuja publicação se deu na vigência do CPC/2015, demonstração da existência de repercussão geral da questão constitucional suscitada. O preenchimento desse requisito demanda a demonstração da relevância da matéria constitucional do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo (art. 1.035, §§ 1º e 2º, do CPC/2015).
+    A jurisprudência desta Corte é firme no sentido de que a ausência da demonstração acarreta a inadmissibilidade do recurso extraordinário. Nesse sentido, cito o RE 569.476-AgR/SC, Rel. Min. Ellen Gracie, Tribunal Pleno, unânime, DJE de 25.4.2008, cujo acórdão está assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL SUSCITADA. PRELIMINAR FORMAL E FUNDAMENTADA. NECESSIDADE DE DEMONSTRAÇÃO. ART. 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar sobre a repercussão geral na petição de recurso extraordinário, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes. A ausência dessa preliminar na petição de interposição permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c , e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal). Cuida-se de novo requisito de admissibilidade que se traduz em verdadeiro ônus conferido ao recorrente pelo legislador, instituído com o objetivo de tornar mais célere a prestação jurisdicional almejada. O simples fato de haver outros recursos extraordinários sobrestados, aguardando a conclusão do julgamento de ação direta de inconstitucionalidade, não exime o recorrente de demonstrar o cabimento do recurso interposto. Agravo regimental desprovido.”
+    Ressalto que a ausência da demonstração de repercussão geral nas razões do recurso extraordinário não pode ser suprida por meio de posterior veiculação nas razões do agravo, alcançada pelo manto da preclusão consumativa.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
