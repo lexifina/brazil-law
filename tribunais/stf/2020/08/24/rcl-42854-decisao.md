@@ -1,0 +1,41 @@
+Decisão: Trata-se de reclamação constitucional com pedido de liminar, ajuizada por Plug Propaganda & Marketing Ltda – EPP, em face de decisão do Juízo da 2ª Vara dos Feitos da Fazenda Pública da Comarca de Teresina, proferida nos autos do Processo 0816388-42.2017.8.18.0140.
+    Na petição inicial, a reclamante alega, em síntese, que autoridade reclamada teria descumprido a orientação firmada por esta Corte no RE-RG (Tema 28), paradigma da repercussão geral.
+     Sustenta que “[a] decisão objeto desta Reclamação determinou a exclusão de precatório de valor incontroverso”, impedindo dessa forma a “satisfação imediata do título judicial que não comporta alteração (valor incontroverso), colocando-se na mesma vala daquela que continua sob exame do judiciário”. (eDOC 1, p. 7)
+    Requer assim a concessão de liminar para suspender o ato reclamado e, ao final, sua cassação.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo reúne condições de julgamento (art. 52, parágrafo único, RISTF).
+    Decido.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (§3º, art. 103-A, do texto constitucional).
+    Nesse sentido, o Código de Processo Civil de 2015 estabelece o rol das hipóteses de cabimento da reclamação, nos termos a seguir transcrito:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016)”
+    O § 4º do mesmo artigo prevê que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem.
+    Verifica-se, ainda, nos termos do § 5º, que a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando presentes os seguintes pressupostos necessários e cumulativos, quais sejam: o esgotamento da instância de origem, com a interposição de agravo interno da decisão monocrática que sobresta o feito, inadmite liminarmente o recurso da competência do STF ou julga-o prejudicado; e a plausibilidade na tese de erronia na aplicação do entendimento do Supremo Tribunal Federal firmado na repercussão geral pelo Juízo a quo, a indicar teratologia da decisão reclamada.
+    Na hipótese dos autos, a parte reclamante busca a cassação da decisão de primeiro grau que, em juízo de retratação por ocasião de interposição de agravo de instrumento, revogou a determinação de expedição de precatório. Transcrevo pois trecho do julgado:
+    “O presente procedimento se refere a liquidação de sentença por arbitramento de processo originário nº 0015485-16.2012.8.18.0140, tendo como parte autora Plug Propaganda & Marketing Ltda e parte ré Município de Teresina.
+    6. Fixado o valor da condenação na decisão Id9469230 e Id9547237, a parte autora vem aos autos requere a expedição de precatório do valor incontroverso ( id10480633), o que foi autorizado pela decisão judicial Id10483466.
+    7. No entanto, consoante observado pela Municipalidade o procedimento foi equivocado.
+    8. Com efeito, não houve sequer a instauração do cumprimento de sentença apto a autorizar a expedição da parte incontroversa, pois, de fato, somente houve a fixação do quantum debeatur.
+    9. Nesse sentido:
+    10. EMENTA: AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - EXPEDIÇÃO DE PRECATÓRIO DA PARTE INCONTROVERSA - IMPOSSIBILIDADE - INAPLICABILIDADE DO ART. 535, § 4º, DO CPC/15 - RECURSO DESPROVIDO. O pagamento da parte incontroversa mediante expedição de precatório é inviável na fase de liquidação de sentença, não se tratando, ainda, de "cumprimento de sentença que reconheça a exigibilidade de obrigação de pagar quantia certa pela Fazenda Pública" para fins de aplicação do disposto no art. 535, § 4°, do CPC/15. (TJMG Agravo de Instrumento 1.0000.19.080543-2/001; Relator(a) Des.(a) Peixoto Henriques; Órgão Julgador: 7ª CÂMARA CÍVEL; Data de Julgamento 10/12/0019 ).
+    11. Assim, verifica-se a ocorrência de erro in procedendo pela expedição prematura do precatório, antes mesmo do início do cumprimento de sentença propriamente dito.
+    10. Ante o exposto, em juízo de retratação oportunizado pela informação do agravo de instrumento, determino a revogação da decisão Id 10483466”. (eDOC 10, pp. 2-3)
+    Nesses termos, ainda seria cabível a interposição de outros recursos contra a decisão reclamada, para provocar o Juízo a quo a rever a aplicação do entendimento firmado no paradigma indicado ao caso concreto.
+    Dessa forma, tendo em vista que não houve o esgotamento das instâncias ordinárias, incabível a presente reclamação.
+    Com efeito, a reclamação não pode ser empregada como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, contornando o iter legalmente previsto para a impugnação das decisões judiciais.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. ALEGADA AFRONTA AO QUANTO DECIDIDO NO RE 760.931-RG. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. Não esgotadas as instâncias ordinárias, incabível a invocação de recurso extraordinário com repercussão geral reconhecida, consoante o art. 988, § 5º, II, do CPC. 2. A reclamação constitucional é ação vocacionada para a tutela específica da competência e autoridade das decisões proferidas por este Supremo Tribunal Federal, pelo que não consubstancia sucedâneo recursal ou ação rescisória. 3. Agravo interno a que se nega provimento, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação. (Rcl 38889 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 13.5.2020)
+    “RECLAMAÇÃO – ALEGADO DESRESPEITO À AUTORIDADE DE DECISÃO QUE O SUPREMO TRIBUNAL FEDERAL PROFERIU NO JULGAMENTO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA – NECESSIDADE DE PRÉVIO E EFETIVO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS – INADEQUAÇÃO, NO CASO, DA UTILIZAÇÃO DA RECLAMAÇÃO, QUE, ADEMAIS, NÃO SE QUALIFICA COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – INCOGNOSCIBILIDADE DO INSTRUMENTO RECLAMATÓRIO RECONHECIDA PELA DECISÃO AGRAVADA – RECURSO DE AGRAVO IMPROVIDO. (Rcl 40252 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 20.8.2020)
+    Desse modo, inadmissível esta reclamação.
+    Finalmente, registre-se que o Código de Processo Civil de 2015 determina a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321, do CPC/2015, é ônus da parte reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a parte reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante o exposto, nego seguimento à reclamação e julgo prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 24 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
