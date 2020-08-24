@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – INEXISTÊNCIA – MATÉRIA IDÊNTICA – SEGUIMENTO – NEGATIVA.
+    1. Eis a síntese do acórdão recorrido:
+    TRIBUTÁRIO. PRESCRIÇÃO. COMPENSAÇÃO/REPETIÇÃO INDÉBITO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. VALE-TRANSPORTE. NÃO INCIDÊNCIA. HORAS EXTRAS. INCIDÊNCIA. COMPENSAÇÃO. TAXA SELIC. APELAÇÃO DA UNIÃO NÃO PROVIDA. APELAÇÃO DA EMPRESA E REEXAME NECESSÁRIO PARCIALMENTE PROVIDO.
+    1. O Supremo Tribunal Federal, em 04.8.2011, concluiu o julgamento de mérito do RE 566.621/RS, em repercussão geral, afastando parcialmente a jurisprudência do STJ fixada no REsp 1.002.932/SP (repetitivo). Com o novel entendimento do Pretório Excelso, que deve nortear todos os julgados doravante acerca da matéria, "vencida a vacatio legis de 120 dias, é válida a aplicação do prazo de cinco anos às ações ajuizadas a partir de então, restando inconstitucional apenas sua aplicação às ações ajuizadas anteriormente a esta data". (STF, RE 566621/RS: Rel. Min. Ellen Gracie, julgado em 04/08/2011).
+    2. É válida a aplicação do novo prazo de 5 (cinco) anos às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9.6.2005, afastando-se, nestes casos, a aplicação da consagrada tese dos "cinco mais cinco".
+    3. O STF firmou o entendimento no sentido da inconstitucionalidade da incidência de contribuição previdenciária sobre o valor pago em espécie sobre o vale-transporte do trabalhador, vez que o beneficio ostentar caráter indenizatório. (STF- RE 478,410/SP, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 10.03.2010, DJe 14.05.2010). Precedente: (STJ - ED-REsp 816.829 – 1ª S, - Rel. Min. Castro Meira - DJe 25.03.2011).
+    4. O C. STF já reconheceu que não incide a contribuição previdenciária sobre aviso-prévio indenizado.
+    5. A contribuição previdenciária incide sobre o total das remunerações pagas aos empregados a título de hora-extra, por possuírem caráter salarial.
+    6. No que concerne ao direito de compensação dos valores indevidamente recolhidos, entendo que o art. 170 do Código Tributário Nacional e o art. 66 da Lei nº 8.383/91, não deixam dúvidas quanto à possibilidade de sua efetivação. Aplicabilidade do art. 74 da Lei nº 9.430/96, com redação dada pela Lei 10.637, de 30 de dezembro de 2002.
+    7. Direito à compensação após o trânsito em julgado da decisão, conforme dispõe o artigo 170-A do CTN.
+    8. Aplicação da taxa SELlC, sem acumulação com qualquer outro índice de correção monetária, dado que já compreende atualização e juros de mora.
+    9. Inaplicabilidade da limitação de compensação ao percentual de 30% (trinta por cento), uma vez que a demanda foi proposta em fevereiro de 2011, após a modificação implementada pela Lei 11.941/09 que revogou a limitação prevista no art. 89, parágrafo 30, Lei 8.212/91.
+    10. Apelação da União não provida. Reexame Necessário e apelação da empresa parcialmente provida.
+    No extraordinário, as recorrentes afirmam ofensa aos artigos 150, inciso I e 195, inciso I, alínea “a”, da Constituição Federal. Sustentam não incidir contribuição previdenciária sobre os valores pagos a título de horas extras, destacando o caráter indenizatório da verba.
+    2. O Supremo, no denominado Plenário Virtual, no exame recurso extraordinário com agravo nº 1.260.750/RJ, consignando a natureza infraconstitucional da matéria, não reconheceu a repercussão maior do tema relativo à definição individualizada da natureza jurídica de verbas percebidas pelo empregado, bem como de sua respectiva habitualidade, para fins de incidência da contribuição previdenciária a cargo do empregado sobre a folha de salários e demais rendimentos conforme o artigo 22, inciso I, da Lei nº 8.212/1991.
+    3. Nego seguimento ao recurso extraordinário interposto por MOURA DUBEUX ENGENHARIA S/A e outros.
+    4. Publiquem.
+Brasília, 24 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
