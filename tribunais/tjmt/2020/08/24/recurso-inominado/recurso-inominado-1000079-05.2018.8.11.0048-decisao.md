@@ -1,0 +1,31 @@
+Recurso Inominado: 1000079-05.2018.8.11.0048
+Origem: JUIZADO ESPECIAL CÍVEL E CRIMINAL DE JUSCIMEIRA
+Recorrente: OI MÓVEL S/A
+Recorrida: MARCOLINA NETA DE PAULA
+Juíza Relatora: LAMISSE RODER FEGURI ALVES CORRÊA
+EMENTA:
+RECURSO INOMINADO. DECISÃO INTERLOCUTÓRIA. IRRECORRIBILIDADE DAS DECISÕES INTERLOCUTÓRIAS NO ÂMBITO DOS JUIZADOS ESPECIAIS CÍVEIS. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+1. Nos Juizados Especiais somente se admite a interposição de recurso inominado contra sentença, nos termos do art. 41 da Lei n.o 9.099/95.
+2. Analisando detidamente aos autos é possível verificar a inexistência de decisão terminativa (sentença) que justifique o manejo do presente recurso inominado.
+3. Recurso a que se nega o seguimento monocraticamente, nos termos do art. 932, III, do CPC.
+DECISÃO MONOCRÁTICA
+Vistos, etc.
+Dispensado o relatório, atendido o disposto no art. 38 da Lei n.o 9.099/95.
+Trata-se de recurso de inominado interposto contra a decisão interlocutória proferida pelo Juízo a quo, que não acolheu o pedido de extinção da execução em razão da novação do crédito decorrente da aprovação do Plano de Recuperação Judicial pela Assembleia Geral de Credores nos autos da recuperação judicial de no. 0203711-65.2016.8.19.0001 em trâmite no Juízo da 7a Vara Empresarial da Comarca do Rio de Janeiro/RJ, determinando o prosseguimento da demanda.
+Sucede que a decisão atacada não teve o efeito de extinguir o processo, razão pela qual deve ser entendida como decisão interlocutória (não é terminativa), irrecorrível no âmbito dos Juizados Especiais Cíveis.
+Neste contexto, importa salientar que o pronunciamento judicial a respeito dos embargos de declaração possui a mesma natureza daquele que foi objeto de aclaratórios, tendo em vista a sua finalidade de integrar ou complementar a decisum anterior com o fim de aperfeiçoar a prestação jurisdicional.
+Nesse sentido, importantes são as lições do ilustre doutrinador Fredie Didier Jr., litteris:
+“Não custa repetir que o ato judicial que decide os embargos de declaração ostenta a mesma natureza daquele que foi objeto de aclaratórios. Assim, opostos os embargos, por exemplo, de uma sentença, eles serão decididos por nova sentença. Na verdade, as duas sentenças devem ser somadas, perfazendo-se uma só, justamente porque os embargos têm, como se viu, aquele efeito de integrar ou complementar o julgado anterior.”
+Acrescenta:
+“Os embargos contêm o chamado efeito integrativo, objetivando integrar, complementar, aperfeiçoar a decisão embargada, com vistas a exaurir a prestação jurisdicional que se encontra inacabada, imperfeita ou incompleta.”
+Destarte, tendo sido opostos embargos de declaração contra a decisum proferida no ID 28321045, o ato judicial que o decidiu possui natureza interlocutória.
+Na sistemática dos Juizados Especiais inexiste previsão de interposição de recurso inominado contra decisão interlocutória, uma vez que o artigo 42 da Lei 9.099/95 prevê a recorribilidade tão somente de sentenças.
+A propósito, acerca da irrecorribilidade das decisões interlocutórias no âmbito dos juizados especiais, averbem-se os seguintes precedentes do STF e dos Tribunais Pátrios, mutatis mutandis:
+“RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5o, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5o, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento. (RE 576847, Relator(a): Min. EROS GRAU, Tribunal Pleno, julgado em 20/05/2009, REPERCUSSÃO GERAL - MÉRITO DJe-148 DIVULG 06-08-2009 PUBLIC 07-08-2009 RTJ VOL-00211- PP-00558 EMENT VOL-02368-10 PP-02068 LEXSTF v. 31, n. 368, 2009, p. 310-314).”
+“JUIZADOS ESPECIAIS. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. RECURSO INOMINADO INTERPOSTO CONTRA DECISÃO QUE REJEITA A IMPUGNAÇÃO OFERECIDA COM AMPARO NO § 1.o DO ART. 475-J DO CPC. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE, NA HIPÓTESE, INDEVIDA. RECURSO NÃO CONHECIDO. 1. SE O PROCESSO NÃO TRAMITA NOS JUIZADOS ESPECIAIS, O RECURSO CABÍVEL CONTRA DECISÃO INTERLOCUTÓRIA QUE REJEITA A IMPUGNAÇÃO OFERECIDA COM AMPARO NO § 1o DO ART. 475-J DO CPC, DESDE QUE NÃO IMPORTE EM EXTINÇÃO DA EXECUÇÃO, É O AGRAVO DE INSTRUMENTO, CONFORME REGRA EXPRESSA DO § 3o DO ART. 475-M DO MESMO DIPLOMA NORMATIVO. 2. NO ÂMBITO DOS JUIZADOS ESPECIAIS, O SISTEMA RECURSAL DA LEI N. 9.099 PREVÊ E ADMITE APENAS O RECURSO INOMINADO CONTRA AS SENTENÇAS E OS EMBARGOS DE DECLARAÇÃO CONTRA AS SENTENÇAS E OS ACÓRDÃOS , EM ABSOLUTA ADEQUAÇÃO AO DESIDERATO DE FORNECER AOS JURISDICIONADOS UMA JUSTIÇA CÉLERE. A DESPEITO DO TEOR DO ART. 52 DA LEI N. 9.099/95, QUE ADMITE A APLICAÇÃO SUBSIDIÁRIA DO CPC, NÃO HÁ NA LEI EM REFERÊNCIA PREVISÃO DE RECURSO CONTRA DECISÕES INTERLOCUTÓRIAS OU QUALQUER OUTRO MEIO DE IMPUGNAÇÃO. (Processo: ACJ 382771420038070001 DF 0038277-14.2003.807.0001. Relator(a): SANDRA REVES VASQUES TONUSSI. Julgamento: 22/06/2010. Órgão Julgador: PRIMEIRA TURMA RECURSAL DOS JUIZADOS ESPECIAIS CÍVEIS E CRIMINAIS DO DF. Publicação: 12/07/2010, DJ-e Pág. 263.).”
+Posto isso, NÃO CONHEÇO do presente recurso inominado, por lhe faltar requisito de admissibilidade e por ausência de previsão legal.
+Condeno o Recorrente OI MÓVEL S/A ao pagamento das custas processuais e honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor do crédito exequendo.
+Registro ainda que, em caso de agravo interno manifestamente infundado ou improcedente, será aplicada a multa do artigo 1.021, § 4.o do CPC.
+Preclusa a via recursal, devolva-se o feito à comarca de origem.
+LAMISSE RODER FEGURI ALVES CORRÊA
+JUÍZA DE DIREITO - RELATORA
