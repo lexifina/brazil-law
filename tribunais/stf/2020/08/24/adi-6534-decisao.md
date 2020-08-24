@@ -1,0 +1,21 @@
+Despacho:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada pelo Partido dos Trabalhadores – PT contra os arts. 1º, II, a, e 2º, I, da Medida Provisória nº 19, de 28 de julho de 2020, editada pelo Governador do Estado de Tocantins, que majoram a alíquota da contribuição previdenciária devida ao Regime Próprio de Previdência Social – RPPS de 11% para 14%, a partir do primeiro dia do quarto mês subsequente ao da data de publicação do ato normativo. Confira-se a íntegra dos dispositivos impugnados:
+    “Art. 1º As contribuições previdenciárias destinadas ao custeio do Regime Próprio de Previdência Social dos Servidores Públicos do Estado do Tocantins - RPPS-TO:
+    (...)
+    II - obedecem aos seguintes percentuais de alíquota:
+    a) 14% dos segurados ativos, inativos e pensionistas;
+    Art. 2º Esta Medida Provisória entra em vigor:
+    I - a partir do primeiro dia do quarto mês subsequente ao da data de publicação, em relação ao disposto na alínea “a” do inciso II do art. 1º;”.
+    2. O requerente narra que, em 03.12.2019, o Ministério da Economia expediu a Portaria nº 1.348, estabelecendo prazo até 31.07.2020 para os Estados, Distrito Federal e Municípios comprovarem a vigência de lei que evidencie a adequação das alíquotas de contribuição ordinária devida ao RPPS ao disposto no art. 9º, § 4º, da Emenda Constitucional nº 103/2019, aos arts. 2º e 3º da Lei nº 9.717/1998 e ao art. 5º, inciso XIV, da Portaria MPS nº 204/2008.
+    3. Alega que o ato normativo questionado apresentaria os seguintes vícios: (i) inconstitucionalidade formal, pois a matéria nele disciplinada deveria ser objeto de lei complementar, nos termos dos arts. 40, §§ 20 e 22, X, e 62, § 1º, III, da Constituição; e (ii) violação ao art. 62, caput, da CF/1988, por não ter sido preenchido o requisito da urgência.
+    4. Quanto ao primeiro ponto, aduz que a Emenda Constitucional nº 103/2019, ao alterar o art. 40 da CF/1988, reservou ao legislador complementar a definição da base de cálculo e das alíquotas das contribuições, observados os parâmetros de lei complementar federal. Destaca, ainda, que os Estados e Municípios têm discricionariedade para decidir acerca do melhor modelo de contribuição direcionada aos seus regimes próprios, não se tratando de mera reprodução de determinação constitucional. E, na sua visão, tal discricionariedade deveria ser exercida no âmbito do Poder Legislativo. Aponta, também, que, enquanto a lei complementar deve ser aprovada por maioria absoluta, a conversão de medida provisória obedece ao processo legislativo de lei ordinária, aprovada por maioria simples.
+    5. Em relação ao segundo aspecto, sustenta que a Emenda Constitucional nº 103/2019, que instituiu a nova Reforma da Previdência, concedeu o prazo de dois anos para os entes federados adequarem os seus regimes de previdência. Informa que a Portaria nº 1.348/2019, do Ministério da Economia, que fixou prazo mais exíguo, já foi impugnada por meio da ADPF 716. Afirma não ter sido demonstrado qualquer prejuízo imediato às contas do Estado para que fosse editada a medida provisória. Salienta, por fim, que o Supremo Tribunal Federal já declarou a inconstitucionalidade de medida provisória que não atendeu aos pressupostos de relevância e urgência (ADI 4.717).
+    6. Ressalta que a majoração da alíquota da contribuição produzirá efeitos a partir de novembro deste ano, razão pela qual estaria presente o periculum in mora.
+    7. Requer, assim, a concessão de medida cautelar, para suspender a eficácia dos arts. 1º, II, a, e 2º, I, da Medida Provisória nº 19, de 28 de julho de 2020 e, no mérito, a declaração de inconstitucionalidade desses mesmos dispositivos.
+    8. É o breve relatório.
+    9. Considerando a relevância da matéria e o seu especial significado para a ordem social e a segurança jurídica, adoto o procedimento estabelecido pelo art. 12 da Lei nº 9.868/1999.
+    9. Determino, assim, as seguintes providências: (i) solicitem-se informações ao Excelentíssimo Senhor Governador do Estado de Tocantins; (ii) em seguida, abra-se vista ao Advogado-Geral da União e, sucessivamente, ao Procurador-Geral da República, para manifestação no prazo de 5 (cinco) dias.
+    Publique-se. Intimem-se.
+    Brasília, 24 de agosto de 2020.
+Ministro Luís Roberto Barroso
+Relator
