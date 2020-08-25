@@ -1,0 +1,45 @@
+Decisão: Trata-se de reclamação constitucional proposta por Supermix Concreto S/A contra ato do Tribunal de Justiça do Estado de São Paulo. (eDOC 1)
+    Na petição inicial, a parte reclamante sustenta que o juízo reclamado aplicou incorretamente o decidido por esta Corte no RE-RG 603.497 (Tema 247), paradigma da repercussão geral, nos autos do Processo 1024009-33.2015.8.26.0309.
+    Sustenta que, não obstante o pedido da parte reclamante, naqueles autos, estar em consonância com o entendimento firmado por esta Corte no referido paradigma, o tribunal reclamado rejeitou seu recurso de apelação, contra o qual foi interposto recurso extraordinário.
+    Argumente que, em vez de realizar a retratação, conforme determina o art. 1.030, II, do CPC/15, o Presidente negou-lhe seguimento nos termos do art. 1.030, inciso I, alínea “b” do CPC/2015.
+    Alega que, nesse paradigma, esta Corte reconheceu o direito dos prestadores de serviço de deduzir da base de cálculo do ISSQN os valores relativos aos materiais empregados na prestação do serviço, de forma ampla e irrestrita. Aduz que o STF não afirmou haver qualquer exceção à reconhecida possibilidade de dedução de materiais da base de cálculo do ISSQN do valor dos materiais na prestação de serviços de construção civil (que inclui os de concretagem).
+    Requer a suspensão do curso do processo da decisão reclamada, em razão da afronta ao entendimento firmado no citado paradigma da repercussão geral, com a remessa dos autos aos tribunais superiores.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l”, da CF/88). Nesse sentido, o Código de Processo Civil de 2015 estabelece o rol das hipóteses de cabimento da reclamação, nos termos a seguir transcrito:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016)”. (Grifou-se)
+    O § 4º do mesmo artigo prevê que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem. Verifica-se, ainda, nos termos do §5º, que a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando esgotadas as instâncias ordinárias.
+    No caso dos autos, não obstante a parte reclamante ter exaurido as instâncias ordinárias, não vislumbro a aplicação errônea da tese firmada por esta Corte no âmbito da repercussão geral. Observo que a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal, visto que o acórdão reclamado está de acordo com o decidido no julgamento do RE-RG 603.497 (Tema 247), no âmbito da repercussão geral.
+    Com efeito, a controvérsia nesse paradigma tratou da incidência do ISS sobre materiais empregados na construção civil. Na oportunidade julgamento do mérito do referido paradigma, esta Corte assentou o entendimento no sentido da recepção do art. 9º, § 2º, b, do Decreto-Lei 406/1968 pela Constituição Federal de 1988, cujo teor transcrevo:
+    Art 9º A base de cálculo do imposto é o preço do serviço.
+    (…)
+    § 2º Na prestação dos serviços a que se referem os itens 19 e 20 da lista anexa o imposto será calculado sobre o preço deduzido das parcelas correspondentes: (Redação dada pelo Decreto-Lei nº 834, de 1969)
+    (…)
+    b) ao valor das subempreitadas já tributadas pelo imposto. (Redação dada pelo Decreto-Lei nº 834, de 1969
+    Entretanto, quanto ao alcance específico desse dispositivo, assentou não haver entendimento firmado pelo Supremo Tribunal Federal, haja vista se tratar de questão infraconstitucional.
+    Na ocasião, quanto a esse ponto, consignou que, na hipótese do citado paradigma em que se impugnou precedente do Superior Tribunal de Justiça, considerada a superveniência do art. 7º, § 2º, I, da LC 116/2003, aquela Corte Superior, sem negar a premissa da recepção do mencionado dispositivo legal, restringiu-se a delimitar a interpretação dos referidos preceitos infraconstitucionais, para concluir pela ausência, na espécie, dos requisitos para a dedução, da base de cálculo do Imposto sobre Serviços de Qualquer Natureza (ISSQN), de materiais utilizados no fornecimento de concreto, por empreitada, para construção civil.
+    Transcrevo, a propósito, a ementa desse julgado:
+    “TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. DEFINIÇÃO DA BASE DE CÁLCULO. DEDUÇÃO DOS GASTOS COM MATERIAIS EMPREGADOS NA CONSTRUÇÃO CIVIL. RECEPÇÃO DO ART. 9º, § 2º, b, DO DECRETO-LEI 406/1968 PELA CONSTITUIÇÃO DE 1988. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL”. (RE 603.497 RG, Rel. ELLEN GRACIE, Tribunal Pleno, julgado em 4.2.2010, REPERCUSSÃO GERAL - MÉRITO DJe 7.5.2010)
+    No caso em análise, o Tribunal reclamado assentou que a matéria tratada nos autos é idêntica a do referido precedente, consignado que o acórdão recorrido encontra-se em consonância com o paradigma julgado pela Suprema Corte.
+    Nesses termos, assentou que a hipótese dos autos trataria de exceção legal, ao fundamento de que, na hipótese, é a própria prestadora que produz os materiais no local da obra. Assim, nesse contexto, afirmou “ser lógica a dedução de que as matérias utilizadas fazem, intrinsicamente, parte do núcleo objeto da tributação, compondo de forma inerente o exercício da atividade contratada; ou seja, é serviço”. O tribunal reclamado, asseverou ainda o seguinte:
+    “Assim, para obter a dedução pretendida é necessária a comprovação de que (I) os materiais, apesar de produzidos pelo próprio prestador do serviço, não o são no local da atividade sujeita ao ISSQN e nem especificamente para ela, podendo ser comercializados independentemente da execução/contratação de um determinado serviço e, consequentemente, devendo estar sujeitos ao ICMS; ou, (II) os materiais foram adquiridos, a título oneroso, de um terceiro produtor/fornecedor”. (eDOC 14, p.6)
+    Transcrevo, a propósito, a ementa do julgamento que manteve a negativa de seguimento ao recurso extraordinário:
+    “AGRAVO INTERNO Decisão monocrática que negou seguimento ao recurso extraordinário. A questão referente à possibilidade de dedução na base de cálculo do ISS dos valores referentes aos gastos com materiais empregados na construção civil é matéria idêntica à tratada no leading case RE N. 603.497/MG, Tema n. 247/STF. Demais questões rebatidas que não se encontram submetidas à sistemática de recursos repetitivos impugnação por recurso próprio. Nega-se provimento ao recurso”. (eDOC 14, p. 3)
+    Desse modo, não se vislumbra, na espécie, contrariedade à tese firmada por este Tribunal em recurso afetado pela sistemática da repercussão geral.
+    Nesses termos, saliento o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+    Confiram-se, a propósito, os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009”.
+    Assim, inadmissível esta reclamação, tendo em vista a utilização desta via processual como sucedâneo recursal.
+    Finalmente, registre-se que o Código de Processo Civil de 2015 determina a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321, do CPC/2015, é ônus da parte reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a parte reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante o exposto, julgo prejudicado o pedido liminar e nego seguimento à reclamação (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 25 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
