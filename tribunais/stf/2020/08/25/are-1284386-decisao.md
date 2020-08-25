@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INAPLICABILIDADE. MINORANTE. TRÁFICO PRIVILEGIADO. DEDICAÇÃO. ATIVIDADE CRIMINOSA. ANÁLISE. SÚMULA 7/STJ. REGIME INICIAL FECHADO. QUANTIDADE E NATUREZA DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. AGRAVO DESPROVIDO.
+    1. O art. 33, § 4º, da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+    2. Reconhecido pelas instâncias ordinárias que o réu se dedica à atividade criminosa, considerados os elementos dos autos e a quantidade de entorpecente apreendido, é inviável aplicar a figura do tráfico privilegiado. Nesse contexto, desconstituir tal entendimento demanda o revolvimento do conjunto fático-probatório dos autos, providência vedada em recurso especial ut Súmula 7/STJ.
+    3. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado.
+    4. Na espécie, a gravidade concreta do crime, evidenciada pelas circunstâncias do delito, pela quantidade, natureza e diversidade dos entorpecentes, aliado à localização de vasta quantia em dinheiro e anotações indicativas da contabilidade do tráfico, justifica a imposição do regime inicial mais gravoso. 5. Agravo desprovido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XLVI e XLVII, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    O art. 33, § 4º, da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+    Assim, reconhecido pelas instâncias ordinárias que o ora agravante se dedica à atividade criminosa, com fundamento na quantidade e na variedade de drogas apreendidas (dezesseis tijolos e onze porções de maconha, com peso aproximado de quatorze quilos, e um tablete de cocaína com peso superior a um quilo), na localização de vasta quantia em dinheiro e anotações indicativas da contabilidade do tráfico, e nas demais circunstâncias da apreensão e prisão em flagrante, é inviável aplicar a figura do tráfico privilegiado.
+    Nesse contexto, desconstituir esse entendimento demanda o revolvimento do conjunto fático-probatório dos autos, providência vedada em recurso especial ut Súmula 7/STJ.
+    (...)
+    No tocante à fixação do regime inicial mais gravoso para o cumprimento da pena, verifica-se que o aresto impugnado alinha-se à jurisprudência desta Corte no sentido de que a natureza e quantidade dos entorpecentes apreendidos constituem critério suficiente para o estabelecimento de regime mais gravoso de cumprimento da pena.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de agosto de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
