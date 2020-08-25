@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO INTERNO. DIREITO PÚBLICO NÃO ESPECIFICADO. PEDIDO DE PRODUÇÃO ANTECIPADA DE PROVAS’. HONORÁRIOS PERICIAIS. ADIANTAMENTO PELO MINISTÉRIO PÚBLICO. IMPOSSIBILIDADE.
+    1. O art. 18 da Lei nº 7.347/85, que disciplina a ação civil pública, isenta os legitimados ativos de arcar com o pagamento de custas e despesas processuais, entre estas os honorários periciais.
+    2. Referida isenção justifica-se ‘porquanto se tem em conta a natureza pública ou social dos direitos e interesses em debate e para os quais se procura obter a tutela’.
+    3. Nesse caso, o pagamento deverá ser repassado à Fazenda Pública a que o Ministério Público estiver vinculado, consoante orientação do Eg. Superior Tribunal de Justiça. Entendimento da jurisprudência dominante desta Corte e do STJ.
+    4. A parte, nas razões de agravo, não trouxe qualquer argumentação nova e capaz de mudar o entendimento acerca do caso em tela.
+    AGRAVO INTERNO DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da CF e a Súmula Vinculante 10.
+    O recurso extraordinário é inadmissível. Isso porque incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    O Tribunal de origem atribuiu o adiantamento de honorários periciais à Fazenda Pública a que o Ministério Público estiver vinculado, de acordo com a Lei nº 7.347/1985. Para divergir desse entendimento, seria imprescindível a análise da legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual.
+    Por fim, não há que se falar em violação ao art. 97 da Constituição Federal, uma vez que a jurisprudência do STF é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nesse sentido, veja-se o seguinte precedente:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO ESTADUAL. ADIANTAMENTO DE PAGAMENTO DE HONORÁRIOS PERICIAIS. ÔNUS IMPOSTO AO ENTE FEDERATIVO AO QUAL O PARQUET ESTÁ VINCULADO. INCIDÊNCIA DA REGRA ESPECIAL DO ARTIGO 18 DA LEI 7.347/1985. ARTIGO 91 DO CÓDIGO DE PROCESSO CIVIL DE 2015. REGRA GERAL. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÃO DE VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. ARTIGO 97 DA CONSTITUIÇÃO DA REPÚBLICA. INOCORRÊNCIA. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO DESPROVIDO.” (ARE 1.265.522-AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+                Brasília, 25 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
