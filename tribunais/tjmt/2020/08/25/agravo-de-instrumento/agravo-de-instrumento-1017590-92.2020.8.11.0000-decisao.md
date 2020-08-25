@@ -1,0 +1,16 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por SEGURADORA LÍDER, com o fito de suspender a decisão que, nos autos da Ação de Cobrança de no 1005329-06.2019.8.11.0041, proposta por SOLANGE DE ALMEIDA NICOLA, determinou-lhe o pagamento dos honorários periciais.
+Para tanto, a agravante afirma que, cabendo à agravada a prova dos fatos constitutivos de seu direito, não há o menor sentindo em lhe atribuir com exclusividade o ônus do pagamento da verba honorária.
+Salienta que é incabível ao caso a redistribuição dinâmica do ônus da prova, pugnando que o pagamento dos honorários periciais seja efetuado ao final da lide pela parte que for sucumbente, notadamente pelo Estado em caso de improcedência da ação, já que a parte autora é beneficiária da justiça gratuita.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, verifica-se da decisão recorrida que o magistrado singular afastou expressamente a aplicação da teoria da carga dinâmica das provas, uma vez que ausente a hipossuficiência técnica e/ou probatória das partes que autorizaria a aplicação do instituto previsto no § 1o do art. 373 do CPC, assinalando, todavia, que as despesas decorrentes da perícia deveriam ser custeadas pela requerida, ora agravante, que teria postulado a produção de prova pericial médica.
+Ocorre que da análise da petição inicial apresentada pela autora, ora agravada, na origem, bem como da contestação da requerida, constata-se que a prova pericial foi pleiteada à unanimidade, de modo que os honorários do perito devem ser custeados na forma do artigo 95 do CPC, cabendo a ambas as partes o custeio da perícia por elas requerida.
+Outrossim, o § 3o do mesmo artigo legal é claro ao estabelecer que o ônus do pagamento da perícia, quando atribuído ao beneficiário da gratuidade judiciária, deverá ser custeado com recursos do Poder Público.
+Dessa feita, afigura-se necessária e devida a concessão em parte da liminar pretendida para suspender a determinação do pagamento integral da perícia médica pela agravante.
+Ante o exposto, CONCEDO PARCIALMENTE a liminar para suspender os efeitos da decisão que determinou o pagamento da integralidade dos honorários periciais pela demandada, ora agravante.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
