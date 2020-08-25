@@ -1,0 +1,1 @@
+Art. 5º-A. Os contratos celebrados entre a concessionária e terceiros, inclusive os que tenham por objeto a exploração das instalações portuárias, serão regidos pelas normas de direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros e o poder concedente, sem prejuízo das atividades regulatória e fiscalizatória da Antaq.

@@ -4,7 +4,7 @@ II - estação de transbordo de carga;
 III - instalação portuária pública de pequeno porte;
 IV - instalação portuária de turismo;
 V - (VETADO).
-§ 1º A autorização será formalizada por meio de contrato de adesão, que conterá as cláusulas essenciais previstas no caput do art. 5º, com exceção daquelas previstas em seus incisos IV e VIII.
+§ 1º A autorização será formalizada por meio de contrato de adesão, que conterá as cláusulas essenciais previstas no caput do art. 5º-C desta Lei, com exceção da cláusula prevista em seu inciso III.
 § 2º A autorização de instalação portuária terá prazo de até 25 (vinte e cinco) anos, prorrogável por períodos sucessivos, desde que:
 I - a atividade portuária seja mantida; e
 II - o autorizatário promova os investimentos necessários para a expansão e modernização das instalações portuárias, na forma do regulamento.

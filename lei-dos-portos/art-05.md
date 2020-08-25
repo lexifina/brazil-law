@@ -1,4 +1,4 @@
-Art. 5º São essenciais aos contratos de concessão e arrendamento as cláusulas relativas:
+Art. 5º São essenciais aos contratos de concessão as cláusulas relativas:
 I - ao objeto, à área e ao prazo;
 II - ao modo, forma e condições da exploração do porto organizado ou instalação portuária;
 III - aos critérios, indicadores, fórmulas e parâmetros definidores da qualidade da atividade prestada, assim como às metas e prazos para o alcance de determinados níveis de serviço;

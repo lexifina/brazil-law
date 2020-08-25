@@ -1,11 +1,15 @@
 CAPÍTULO I
 DEFINIÇÕES E OBJETIVOS
 CAPÍTULO II
-DA EXPLORAÇÃO DOS PORTOS E INSTALAÇÕES PORTUÁRIAS
+DA CONCESSÃO DE PORTO ORGANIZADO, DO ARRENDAMENTO E DO USO TEMPORÁRIO DE INSTALAÇÃO PORTUÁRI
 Seção I
 Da Concessão de Porto Organizado e do Arrendamento de Instalação Portuária
 Subseção I
 Da Concessão de Porto Organizado
+Subseção II
+Do Arrendamento de Instalação Portuária
+Subseção III
+Do Uso Temporário e das Licitações
 Seção II
 Da Autorização de Instalações Portuárias
 Seção III
