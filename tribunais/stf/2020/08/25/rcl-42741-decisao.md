@@ -1,0 +1,21 @@
+Decisão: Trata-se de reclamação constitucional com pedido de medida liminar, proposta por  Luis Eduardo da Costa, contra decisão proferida pelo Presidente do STF, Ministro Dias Toffoli, nos autos do ARE 1.246.401.
+    O reclamante sustenta, em síntese, que a decisão reclamada equivocou-se ao aplicar ao caso o tema 567 da repercussão geral. Defende que a matéria tratada no recurso guardaria relação com o tema 22.
+    Requer assim a concessão de liminar para que suspenso os efeitos do acórdão reclamado e, ao final, sua cassação.
+    É o breve relatório.
+    Decido.
+    Inicialmente, defiro o pedido de assistência judiciária gratuita, nos termos da Lei n. 1.060/1950.
+    Destaco que a reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    No caso, verifico que se trata de reclamação com o intuito de cassar decisão proferida por Ministro desta Corte.
+    Com efeito, o STF firmou orientação no sentido de que a reclamação não é o meio processual adequado para impugnar decisões da própria Corte. Nesse sentido, cito os seguintes julgados:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF. 1. Reclamação em que se impugna acórdão do TST que já foi objeto de análise por esta Corte, em agravo em recurso extraordinário. 2. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal. 3. Agravo interno a que se nega provimento”. (Rcl 32896 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, DJe 12.6.2019).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. IMPUGNAÇÃO DE ATO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DO RELATOR PARA DECIDIR MONOCRATICAMENTE AÇÃO SOB SUA RELATORIA. 1. A reclamação constitucional é o instrumento adequado para impedir a usurpação da competência do Supremo Tribunal Federal e para garantir a autoridade de suas decisões e súmulas vinculantes (art. 102, I, “l”e art. 103-A, § 3º, da CF). 2. A reclamação não é via processual adequada para impugnar decisão dos Ministros desta Corte. Precedentes: Rcl nº 4.591-AgR, Rel. Min. Joaquim Barbosa, DJe de 4/12/2009; Rcl nº 4.174-AgR, Rel. Min. Ayres Britto, DJe de 6/3/2009; Rcl 8.301- AgR, Rel. Min. Cármen Lúcia, Plenário, DJe 9/10/2009. 3. In casu, trata-se de reclamação proposta contra ato do Ministro Ricardo Lewandowski, que negou seguimento ao Agravo de Instrumento nº 764.909 e, posteriormente, não conheceu dos sucessivos agravos regimentais interpostos. 4. O Relator, nos termos do art. 21, § 1º, do RISTF, ostenta a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal. 5. Agravo regimental a que se nega provimento”. (Rcl 9.945-Agr. Rel. Min. Luiz Fux, Primeira Turma, DJe de 21.05.2013)
+    Assim, inadmissível a presente reclamação.
+    Finalmente, registre-se que o Código de Processo Civil estabelece determinação de citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321 do CPC, é ônus da reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, §4º, do Código de Processo Civil.
+    Ante o exposto, nego seguimento à reclamação e julgo prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 25 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
