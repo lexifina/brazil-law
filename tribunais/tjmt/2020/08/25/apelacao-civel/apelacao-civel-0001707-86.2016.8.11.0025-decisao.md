@@ -1,0 +1,53 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial na Apelação Cível n. 0001707-86.2016.8.11.0025
+RECORRENTE: GENERALI BRASIL SEGUROS S.A
+RECORRIDOS: MARCILEY LUIZA GALVAO E OUTROS
+Vistos, etc.
+Trata-se de Recurso Especial interposto por GENERALI BRASIL SEGUROS S.A com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Terceira Câmara de Direito Privado assim ementado (ID 34747470):
+“APELAÇÕES CÍVEIS – AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE ACIDENTE DE TRÂNSITO – DINÂMICA DO ACIDENTE QUE EVIDENCIA A RESPONSABILIDADE DO MOTORISTA DEMANDADO PELA COLISÃO – INVASÃO DE VIA PREFERENCIAL – ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA E CULPA CONCORRENTE NÃO COMPROVADAS – DEVER DE INDENIZAR CONFIGURADO – DANO MATERIAL EMERGENTE E LUCROS CESSANTES COMPROVADOS - APURAÇÃO DO QUANTUM EM SEDE DE LIQUIDAÇÃO DE SENTENÇA – DANO MORAL DECORRENTE DA FRUSTRAÇÃO DE EXPECTATIVA – VALOR MANTIDO – ÔNUS SUCUMBENCIAL – READEQUAÇÃO NECESSÁRIA PARA AFASTAR A SUCUMBÊNCIA RECÍPROCA – BASE DE FIXAÇÃO DOS HONORÁRIOS – MODIFICAÇÃO PARA PERCENTUAL SOBRE O VALOR DA CONDENAÇÃO – 1o APELO PARCIALMENTE PROVIDO, 2o APELO DESPROVIDO E 3o APELO PARCIALMENTE PROVIDO. Age com imprudência o condutor de veículo que, ao fazer conversão à esquerda em rodovia, não se certificou de que poderia executá-la sem perigo para os demais veículos que o seguiam, dando causa ao acidente e prejuízos à vítima. Presentes o ato ilícito, o dano, o nexo de causalidade e a culpa, pressupostos formadores da responsabilidade civil, inafastável se mostra a obrigação de indenizar. Dano material é o prejuízo financeiro efetivo sofrido pela vítima, física ou jurídica, que reduz o seu patrimônio. Emergente é o que o lesado efetivamente perdeu. Cessante é o que o lesado razoavelmente deixou de ganhar. Ficando provado o dano material, mas não sendo possível verificar o seu valor, a apuração desse valor deve ser feita mediante liquidação (CPC, art. 509). A apuração dos lucros cessantes deve ser com base na média do faturamento dos meses que antecederam o sinistro, abatendo-se a taxa de manutenção de 40% do valor bruto auferido, referente ao percentual previsto na legislação do Imposto de Renda (INSRF 156/01), que diz a respeito dos custos operacionais do caminhão. O dano moral tem como fato frustração da legítima expectativa dos autores em receber o valor do seguro do veículo sinistrado, uma vez que a seguradora já havia liberado a retirada do veículo por guincho e sua entrada na oficina autorizada para realizar os consertos e, sem justificativa plausível, decidiu refluir da posição inicialmente adotada e negar pagamento ao sinistro, estimulando a segurada a se comportar do mesmo modo, o que desborda do aborrecimento, da irritação, do dissabor do cotidiano. A indenização por dano moral deve ser fixada em montante que não onere em demasia o ofensor, mas, por outro lado, atenda à finalidade para a qual foi concedida, compensando o sofrimento da vítima e desencorajando a outra parte quanto aos outros procedimentos de igual natureza. Ao julgar a condenação em valor abaixo do requerido em inicial, não há que se falar em sucumbência recíproca, uma vez que a parte autora obteve o que há de mais importante da lide, seu próprio provimento, ainda que em montante menor, tal que a sucumbência deve ser arcada exclusivamente pela parte ré (Súmula no 3126 do STJ). Em se tratando de demanda que há condenação, descabe a fixação da verba honorária com base no proveito econômico obtido. (TJMT – TERCEIRA CÂMARA DE DIREITO PRIVADO – RAC n. 0001707-86.2016.8.11.0025, Relator: Des DIRCEU DOS SANTOS, j. em 19/02/2020).
+Opostos Embargos de Declaração estes foram rejeitados conforme decisão de ID 42849451.
+A Recorrente alega violação aos artigos 402 do CC; 373, I, e 1.022 do CPC, além de divergência jurisprudencial, ao argumento de que: "a parte recorrida não comprovou quanto deixou razoavelmente de auferir no período do sinistro, sendo certo que não faz jus ao pedido de lucros cessantes".
+Assevera que foi oportunizado a autora ora recorrida produzir as provas que constituem seu direito durante a instrução, para a comprovação da ocorrência dos danos materiais, o que não foi feito.
+Recurso tempestivo (ID 48584973).
+Contrarrazões (ID 51455492)
+Sem contrarrazões por MARTELLI TRANSPORTES LTDA., conforme ID 54844974.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC .
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do Recurso Especial é necessário que as razões recursais sejam redigidas com fundamentações precisas, com identificação exata do suposto dispositivo legal violado, a controvérsia correspondente, bem como das circunstâncias de como ocorreu a afronta legal, conforme prevê a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. JULGAMENTO POR MAIORIA. ART. 942 DO CPC/2015. NÃO INCIDÊNCIA. ALEGAÇÃO DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. ALIENAÇÃO DA MARCA DA EMPRESA EXECUTADA. FRAUDE À EXECUÇÃO RECONHECIDA. MÁ-FÉ DA ADQUIRENTE (SÚMULA 375/STJ). REEXAME DE MATÉRIA FÁTICA (SÚMULA 7/STJ). PRESCRIÇÃO TRIENAL. ART. 206, § 3o, IV, DO CC/2002. NÃO INCIDÊNCIA. OBRIGAÇÃO DECORRENTE DE CONDENAÇÃO EM AÇÃO ACIDENTÁRIA. RECURSO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(...)
+7. Agravo interno a que se nega provimento”. (AgInt no AREsp 1233242/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 24/09/2018). (g.n.)
+Assim, embora tenha alegado violação ao artigo 1.022, do CPC, a Recorrente não apontou de forma específica e individualizada a omissão/contradição do acórdão, tampouco por que seria relevante a discussão da matéria para o deslinde da causa, caracterizando deficiência na fundamentação recursal e impondo a aplicação da Súmula 284/STF, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A Recorrente alega violação aos artigos 402 do CC e 373, I, do CPC ao argumento de que: “ (...) a parte recorrida não comprovou quanto deixou razoavelmente de auferir no período do sinistro, sendo certo que não faz jus ao pedido de lucros cessantes.
+Assevera que foi oportunizado à recorrida produzir as provas que constituem seu direito durante a instrução, para a comprovação da ocorrência dos danos materiais, o que não foi feito.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE ACIDENTE DE TRÂNSITO.CULPA CONCORRENTE CARACTERIZADA. SÚMULA 7 DO STJ. DANO MATERIAL.LUCROS CESSANTES. PROMOÇÕES NA CARREIRA. IMPOSSIBILIDADE. SÚMULA 83 DO STJ.
+1. A convicção a que chegou o acórdão acerca da configuração de culpa concorrente da vítima decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal, para reconhecer a culpa exclusiva da vítima, demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+2. Ademais, o STJ possui precedentes no sentido de que "improcede a pretensão relativa à inclusão de promoções futuras na carreira quando da apuração do valor da pensão, em face da eventualidade do fato e não se enquadrar no conceito jurídico de 'lucros cessantes'".
+3. Agravo interno não provido.(AgInt no AREsp 1295388/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 18/09/2018)” (g.n.).
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 25 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+x
