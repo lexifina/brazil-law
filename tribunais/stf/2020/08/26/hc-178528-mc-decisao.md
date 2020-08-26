@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSO-CRIME – TRANCAMENTO – RELEVÂNCIA – AUSÊNCIA.
+DEPOIMENTO – ANULAÇÃO – RELEVÂNCIA – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes assim retratou o habeas corpus:
+    O Juízo da Vara Única da Comarca de Garuva/SC, no processo nº 0000090-45.2013.8.24.0119, pronunciou a paciente e o corréu, ante a suposta prática do crime previsto no artigo 121, § 2º, incisos I e IV (homicídio qualificado por motivo torpe e mediante promessa de recompensa e emboscada), do Código Penal. Ressaltou demonstrados materialidade e indícios de autoria, aludindo a boletim de ocorrência, relatório de investigação preliminar, laudos de exame cadavérico, de busca e recuperação de evidências digitais e de exame do local da prática criminosa. Realçou o teor das declarações prestadas pelas testemunhas Jardel Persike, Rosa Persike, Adalberto Duarte Hesse, Anderson Osni Mahl, Elisandra Santiago Mahl, Anirio Luiz Muraro e Izidoro Michalack. Sublinhou existirem versões conflitantes sobre os fatos. Concluiu incabível análise aprofundada das provas na etapa processual, remetendo o caso à apreciação do Conselho de Sentença.
+    A Terceira Câmara Criminal do Tribunal de Justiça desproveu recurso em sentido estrito, consignando caracterizar a pronúncia juízo de admissibilidade da acusação. Salientou que, havendo duas versões acerca dos fatos, considerados os interrogatórios, depoimentos e dados colhidos por meio de quebra de sigilo, cabe ao Tribunal Popular o julgamento.
+     Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 529.406/SC. O Relator indeferiu a ordem.
+    O impetrante sustenta ausentes indícios de autoria. Assenta a fragilidade do conjunto probatório, alegando estar a sentença lastreada, tão somente, no depoimento da testemunha Adalberto Duarte Hesse. Aduz suspeição e parcialidade no mencionado depoimento, destacando trechos, segundo aponta, contraditórios e direcionados ao julgamento contra a paciente.
+    Requer, no campo precário e efêmero, o trancamento do processo-crime e a invalidação do depoimento da testemunha Adalberto Duarte Hesse. No mérito, busca a confirmação das providências.
+    2. O trancamento de processo-crime situa-se no âmbito da excepcionalidade. É indispensável a demonstração de ilegalidade manifesta, sem a qual surge imprópria a providência pretendida.
+    Na pronúncia, o Juízo assentou sinalizados, ante o contexto probatório, materialidade e indícios de autoria, aludindo a boletim de ocorrência, relatório de investigação preliminar, laudos de exame cadavérico, de busca e recuperação de evidências digitais e de exame em local, bem assim aos depoimentos coletados na fase policial, os quais foram renovados em Juízo. Destacou existirem versões conflitantes sobre os fatos, a justificar a admissibilidade da acusação e submissão do mérito ao Conselho de Sentença, ou seja, reservou a este último, Juiz natural da causa, a valoração definitiva das provas. Ao apreciar o recurso em sentido estrito, o Tribunal de Justiça veio a chancelar tal entendimento. O quadro evidencia valoração de todo o acervo probatório, não apenas das declarações da testemunha Adalberto Duarte Hesse.
+    Não há vício de procedimento no tocante à tomada de depoimento da referida testemunha, sob o crivo do contraditório, na primeira fase do procedimento, tampouco notícia de ter a defesa formulado a arguição a que alude o artigo 214 do Código de Processo Penal. Eventuais lacunas e contradições no conteúdo das declarações, em cotejo com os demais dados do processo, devem ser submetidas, pela defesa, em plenário, à apreciação de juízes leigos.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 26 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
