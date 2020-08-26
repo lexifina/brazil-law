@@ -1,0 +1,52 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE INSTRUMENTO N. 1007871-86.2020.8.11.0000
+RECORRENTE(S): BANCO DO BRASIL S/A
+RECORRIDO(S): SOLAR CONTABILIDADE E PROCESSAMENTO DE DADOS
+Vistos, etc.
+Trata-se de Recurso Especial (id. 51334972) interposto por BANCO DO BRASIL S/A, com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Quarta Câmara de Direito Privado, assim ementado (id. 48972456):
+“RECURSO DE AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA – REDUÇÃO DAS ASTRIENTES – IMPOSSIBILIDADE – MATÉRIA PRECLUSA – LITIGÂNCIA DE MÁ-FÉ CONFIGURADA – DECISÃO MANTIDA – RECURSO NÃO PROVIDO
+Embora a questão atinente ao valor da multa cominatória, quando verificado o excesso do saldo contabilizado, possa ser posteriormente revolvida, a matéria em exame, no caso em tela, encontra fundado obstáculo no instituto da preclusão.” (TJMT. AGRAVO DE INSTRUMENTO N. 1007871-86.2020.8.11.0000. RELATORA DESA. SERLY MARCONDES ALVES. QUARTA CÂMARA DE DIREITO PRIVADO. Julgado em 01/07/2020. Publicado em 07/07/2020).
+Não foram opostos Embargos de Declaração.
+O Recorrente alega, além de divergência jurisprudencial, violação aos artigos 537 do Código de Processo Civil e 884 do Código Civil, em que defende a necessidade de nova redução do valor das astreintes, já minorado para R$ 100.000,00 (cem mil reais) em decisão transitada em julgado, proferida por ocasião do julgamento de Agravo de Instrumento anteriormente proposto. Argumenta que, in casu, o montante ainda seria exorbitante, consubstanciando enriquecimento ilícito da parte adversa, e que o acolhimento da pretensão recursal acima não configuraria ofensa ao princípio da coisa julgada.
+Ademais, aponta ofensa ao artigo 412 do Código Civil, sob a assertiva de que o valor das astreintes não pode exceder o montante da obrigação principal.
+Por fim, alega, que “o banco recorrente age com baseado nos princípios da lealdade processual e da boa-fé, de modo que deve ser afastada a condenação ao pagamento de multa por litigância de má-fé” (id. 51334972 – p. 12).
+Recurso tempestivo (id. 52013490) e devidamente preparado (id. 52044972).
+Contrarrazões no id. 53617481.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso. Por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Com essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, o Recorrente alega, além de divergência jurisprudencial, violação aos artigos 537 do Código de Processo Civil e 884 do Código Civil, em que defende a necessidade de nova redução do valor das astreintes, já minorado para R$ 100.000,00 (cem mil reais) em decisão transitada em julgado, pois, in casu, o montante ainda seria exorbitante, consubstanciando enriquecimento ilícito da parte adversa. E acrescenta que o acolhimento da pretensão recursal acima não configuraria ofensa ao princípio da coisa julgada.
+Quanto à matéria, consignou-se no acórdão impugnado (id. 48972462):
+“Primeiramente, importa assinalar que, embora a questão atinente ao valor da multa cominatória, quando verificado o excesso do saldo contabilizado, possa ser posteriormente revolvida, a matéria em exame, no caso em tela, encontra fundado obstáculo no instituto da preclusão.
+É que, em decisão anterior, mais precisamente, datada de 20.03.2019, o Juízo de origem enfrentou a mesma irresignação da parte executada, tendo reduzido o valor das astreintes, então apuradas no valor de R$ 1.409.038,81 (um milhão quatrocentos e nove mil trinta e oito reais e oitenta e um centavos), para o montante de R$ 100.000,00 (cem mil reais).
+Dessa decisão, o agravante manejou um primeiro recurso de agravo de instrumento, o qual foi desprovido por unanimidade, para manter-se a multa aplicada no patamar, agora, novamente questionado. (...)
+Desse modo, dada a patente preclusão da matéria, não há qualquer margem para retomar aqui qualquer discussão acerca da redução da multa aplicada ao agravante.” (g.n.)
+Observa-se, portanto, que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, conforme se extrai do julgado abaixo:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE ASTREINTES. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO DO VALOR FIXADO. PRECLUSÃO CONSUMATIVA. IMPOSSIBILIDADE. 1. Execução de astreintes. 2. A matéria referente aos honorários da execução das astreintes já foi analisada pelo STJ no RESP 1.162.258/GO, que reconheceu a preclusão consumativa acerca da matéria pela falta de recurso de BUNGE FERTILIZANTES S/A. 3. A jurisprudência do STJ é no sentido de que, ainda que a questão seja de ordem pública, é imperioso o reconhecimento da preclusão consumativa, se esta tiver sido objeto de decisão anterior definitivamente julgada (AgRg no AREsp 264.238/RJ, 4a Turma, DJe de 18/12/2015), o que impede nova apreciação do tema pelo princípio da inalterabilidade da decisão judicial (arts. 493, 494 e 507 do CPC/15). 4. Agravo interno provido para restabelecer os honorários em 10% do valor da execução.” (AgInt nos EDcl no AREsp 1167255/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020) (g.n.)
+Por fim, consigne-se que, embora a Súmula n. 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“(...) SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. APLICAÇÃO DA SÚMULA 284/STF POR FALTA DE INDICAÇÃO DOS ARTIGOS TIDOS POR VULNERADOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. (...) 4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes. (...)” (AgInt no REsp 1840089/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020) (g.n.)
+Ausência de prequestionamento (Súmulas 282 e 356 do STF)
+Com o objetivo de evitar a supressão de Instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282/STF, segundo a qual “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Ainda, caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada é imprescindível que sejam opostos Embargos de Declaração com a indicação precisa do ponto supostamente omisso, em aplicação da Súmula 356/STF, a qual prevê que “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+A propósito:
+“TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA. INDIVISIBILIDADE DO IMÓVEL. FALTA DE PREQUESTIONAMENTO. REEXAME DE PROVAS DOS AUTOS. SÚMULAS 282 E 356 DO STF E 7 DO STJ. 1. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal. (...)”. (AgInt no REsp 1760106/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/12/2018, DJe 18/12/2018).
+Nesse contexto, o Recorrente alega, além de divergência jurisprudencial, violação ao artigo 412 do Código Civil, ao argumento de que o valor das astreintes não poderia exceder o montante da obrigação principal.
+Contudo, a referida matéria não foi apreciada por este Tribunal, tampouco foram opostos Embargos de Declaração para prequestionar a matéria, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso.
+Necessidade de identificação do dispositivo legal violado (Súmula 284/STF)
+Sem a identificação precisa do dispositivo legal supostamente violado ou objeto de dissídio jurisprudencial fica prejudicada a análise da controvérsia, o que caracteriza deficiência de fundamentação e atrai, por analogia, a aplicação da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL – AÇÃO DE COBRANÇA – SEGURO DE VIDA – DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ. 1. O conhecimento do recurso especial pelas alíneas ‘a’ e ‘c’ do permissivo constitucional exige a indicação de qual ou quais os dispositivos de lei que supostamente teriam sido violados ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula 284 do STF. Precedentes. (...)” (AgInt no AREsp 1220109/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018). (g.n.)
+In casu, embora sustente que “o banco recorrente age baseado nos princípios da lealdade processual e da boa-fé, de modo que deve ser afastada a condenação ao pagamento de multa por litigância de má-fé” (id. 51334972 – p. 12), não demonstrou de forma específica e individualizada os dispositivos de Lei Federal violados ou que tiveram interpretação divergente de outros Tribunais, o que, por consequência, impede a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 25 de agosto de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVIII
