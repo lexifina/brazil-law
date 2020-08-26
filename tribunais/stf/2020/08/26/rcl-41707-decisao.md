@@ -1,0 +1,51 @@
+Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada em face de acórdão proferido pelo Tribunal Superior do Trabalho que, dada a irrecorribilidade da decisão que nega a transcendência ao agravo de instrumento em recurso de revista, negou-lhe provimento.
+    Articula com usurpação de competência desta Corte porquanto no RE 760.931, paradigma do Tema 246 da repercussão geral, foi debatida questão que transcende os interesses subjetivos da causa no que diz respeito a aspectos relevantes do ponto de vista econômico, político, social e e também jurídico já reconhecido pelo Supremo Tribunal Federal.
+    Alega-se, também, a violação do que decidido na ADC 16.
+    Nesse contexto requer liminarmente a suspensão do ato reclamado e, no mérito, seja julgada procedente esta ação.
+    Dispenso a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RI/STF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I,l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A matéria também veio disciplinada pelo Novo Código de Processo Civil, que, no art. 988, prevê as hipóteses de seu cabimento, in verbis:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação:
+    I – proposta após o trânsito em julgado da decisão reclamada;
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+    Observo que a decisão reclamada consignou (eDOC 8, p. 3):
+    “Assim, não se justifica a atuação desta Corte Superior, visto que não foram observados os requisitos processuais previstos no art. 896, § 1º-A e incisos, da CLT. Não se trata de questão nova nesta Corte Superior, e a decisão recorreda está em consonância com a jurisprudência pacífica do TST, independentes das questões jurídicas suscitadas no Apelo Revisional (transcendência política). Também não se constata tese jurídica inédita no âmbito desta Corte Superior (transcendência jurídica), nem eventual condenação exorbitante ou insignificante (transcendência econômica).
+    Diante do exposto, nos termos dos arts. 896-A, §§ 1º e 5º, da CLT e 188, X, do RITST, denego seguimento ao Agravo de Instrumento.”
+    Como se vê, em princípio, a decisão reclamada não trata da matéria objeto da tese e implicaria a extinção por falta de aderência estrita, uma vez que a análise dos requisitos recursais refere-se ao exercício de competência própria do Tribunal Reclamado (Rcl 33.04-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 12.06.2019; Rcl 32.648-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 31.05.2019).
+    No entanto, a fim de preservar a uniformidade da jurisdição constitucional, entendo necessário verificar se o objeto do recurso inadmitido ofende a tese fixada pelo STF.
+    Não é, porém, o caso.
+    No julgamento do mérito do RE 760.931 (paradigma do Tema 246 da repercussão geral) fixou-se a seguinte tese: “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.”
+    No julgamento dos Embargos de Declaração, um dos quais interposto pela União, para o qual restei relator, rejeitou-se a imputação do ônus da prova.
+    Ao julgar a ADC 16, a jurisprudência do Supremo Tribunal Federal conclui:
+    “RESPONSABILIDADE CONTRATUAL. Subsidiária. Contrato com a administração pública. Inadimplência negocial do outro contraente. Transferência consequente e automática dos seus encargos trabalhistas, fiscais e comerciais, resultantes da execução do contrato, à administração. Impossibilidade jurídica. Consequência proibida pelo art., 71, § 1º, da Lei federal nº 8.666/93. Constitucionalidade reconhecida dessa norma. Ação direta de constitucionalidade julgada, nesse sentido, procedente. Voto vencido. É constitucional a norma inscrita no art. 71, § 1º, da Lei federal nº 8.666, de 26 de junho de 1993, com a redação dada pela Lei nº 9.032, de 1995.”
+    Por sua vez, o acórdão proferido pelo Tribunal Regional do Trabalho da 15ª Região, quando da análise do Recurso Ordinário, conclui pela responsabilidade subsidiária do Município reclamante, pois considerou ilícita a terceirização porquanto transferiu à empresa particular a prestação de serviços essencialmente de sua competência, consoante consta dos fundamentos do voto do relator na Corte Regional (eDoc 11):
+    “É incontroverso que o Município reclamado firmou convênio com o empregador da reclamante, Instituto Incorpore, a quem repassados "o gerenciamento e execução das atividades e serviços de saúde em urgência e emergência a serem desenvolvidos em unidades de saúde do Município" (Id. 62e64b4).
+    A reclamante atuou como enfermeira em Unidade Básica de Saúde municipal.
+    (…)
+    Também a meu ver, aludido convênio implicou a terceirização ilícita de atividades públicas essenciais ao recorrente, em violação à obrigatoriedade da realização de concurso público, razão pela qual não se poderia afastar a responsabilidade da Municipalidade, que agiu com culpa no repasse dos serviços.
+    Evidente que não se nega a possibilidade de haver regular celebração de parcerias para a prestação de serviços complementares nos setores públicos, mas tais medidas devem sempre ter caráter adicional. Não pode o ente público, através desse tipo de instrumento, transferir a terceiros serviços ordinários cuja prestação lhe seja inerente.
+    Tampouco se pode admitir que o ente público, ou qualquer outro tomador, se beneficie da prestação dos serviços de empregados irregularmente terceirizados, sem se responsabilizar por danos que lhe sejam causados.
+    Se assim é, logicamente inadmissível que o ente público, na condição de tomador de serviços, se beneficie do labor prestado via terceirização irregular de mão de obra visando sem se responsabilizar por eventual direito trabalhista não satisfeito pela terceirizada.
+    Evidenciada a ilicitude na terceirização de serviços públicos essenciais, o caso comportaria, na visão pessoal desse Relator, o reconhecimento da responsabilidade solidária da Municipalidade, independentemente dos documentos juntados aos autos na tentativa de comprovar a fiscalização pelo ente público.”
+    Observe-se que não houve, na espécie, transferência automática de responsabilidade. A ilicitude concreta da contratação fundamentou a imputação da responsabilidade.
+    Nesses termos, do cotejo entre o ato reclamado e o parâmetro de controle verifica-se, também, a ausência de relação de pertinência estrita, requisito indispensável para o cabimento de reclamação. Confira-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL. TEMA 246 DA REPERCUSSÃO GERAL. AUSÊNCIA DE ADERÊNCIA ESTRITA. AGRAVO DESPROVIDO. 1. Quando do julgamento do RE 760.931, Rel. Min. Luiz Fux, DJe 11.09.2017, não se fixou regra sobre a distribuição do ônus probatório nas ações que debatem a responsabilidade subsidiária da Administração Pública em decorrência da culpa in vigilando nos contratos de terceirização. Não destoa desse entendimento acórdão que, ante as peculiaridades do caso concreto, impõe à Administração a prova de diligência. 2. Agravo regimental a que se nega provimento.” (Rcl 35.907-AgR, de minha relatoria, Segunda Turma, DJe 19.12.2019)
+    “CONSTITUCIONAL, ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. ALEGADA VIOLAÇÃO AO QUE DECIDIDO NA ADI 6.121 MC. INOCORRÊNCIA. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE O ATO IMPUGNADO E O PARADIGMA INVOCADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O parâmetro pautado na ADI 6.121 MC, Rel. Min. MARCO AURÉLIO não serve ao cotejo com o presente caso. 2. Desse modo, não há a estrita aderência entre o ato impugnado e o paradigma de confronto invocado, condição essencial para a interposição da via reclamatória. 3. Recurso de agravo a que se nega provimento.” (Rcl 36.688-AgR, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 07.11.2019)
+    Ainda nesse sentido: Rcl 7.082 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.12.2014; Rcl 11.463 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.2.2015; Rcl 12.851 AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe 26.3.2015, entre outros.
+    Ante o exposto, com fulcro no art. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 26 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
