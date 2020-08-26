@@ -1,0 +1,64 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial interposto na Apelação Cível n. 1016136-90.2016.811.0041 - PJE
+Recorrente: MINISTÉRIO PÚBLICO DE MATO GROSSO
+Recorrido: DETRAN/MT – DEPARTAMENTO ESTADUAL DE TRÂNSITO
+Interessado: MANOEL CORRÊA
+Vistos, etc.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DE MATO GROSSO, com fundamento no art. 105, inciso III, alínea “a”, da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Público e Coletivo, assim ementado (ID. 4813660):
+“REMESSA NECESSÁRIA – MANDADO DE SEGURANÇA – DETRAN – CONDICIONAMENTO DO LICENCIAMENTO DE VEÍCULO AO PRÉVIO PAGAMENTO DE MULTAS POR INFRAÇÃO DE TRÂNSITO – IMPOSSIBILIDADE DE DEMONSTRAÇÃO PELA VIA ELEITA – ATO ADMINISTRATIVO – PRESUNÇÃO DE LEGITIMIDADE - PRECEDENTES DO STF – CONSTITUCIONALIDADE DO ART. 131, PARÁGRAFO SEGUNDO DO CTB – SENTENÇA RETIFICADA INTEGRALMENTE.
+1. Não é possível aferir irregularidade das autuações, em especial quanto às notificações legais das multas exigidas, descabendo dilação probatória para isso na via mandamental, prevalecendo a exigência do pagamento das multas para permitir o licenciamento do veículo.
+2. Os atos administrativos goram de presunção de legitimidade e veracidade, decorrentes do princípio da estrita legalidade, inerente à Administração Pública, motivo pelo qual se transfere o ônus da prova a quem os impugna.
+3. Sentença retificada in totum. (TJMT – Apelação Cível No 1016136-90.2016.811.0041, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, DESA. MARIA EROTIDES KNEIP, Primeira Câmara de Direito Público e Coletivo, Julgado em 02/09/2019).
+Os Embargos de Declaração foram rejeitados (ID. 43890450).
+O Recorrente alega violação aos artigos 489, §1o, inciso IV, e 1.022, inciso II, do Código de Processo Civil e 1o da Lei n. 12.016/09, aduzindo a impossibilidade de vinculação/condicionamento do pedido de licenciamento do veículo sem a exigência de pagamento de multas de trânsito.
+Recurso tempestivo (ID. 47817970).
+A parte Recorrida não ofertou contrarrazões, conforme certidão (ID. 54528993).
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do Recurso Especial é necessário que as razões recursais sejam redigidas com fundamentações precisas, com identificação exata do suposto dispositivo legal violado, a controvérsia correspondente, bem como das circunstâncias de como ocorreu a afronta legal, conforme prevê a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. JULGAMENTO POR MAIORIA. ART. 942 DO CPC/2015. NÃO INCIDÊNCIA. ALEGAÇÃO DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. ALIENAÇÃO DA MARCA DA EMPRESA EXECUTADA. FRAUDE À EXECUÇÃO RECONHECIDA. MÁ-FÉ DA ADQUIRENTE (SÚMULA 375/STJ). REEXAME DE MATÉRIA FÁTICA (SÚMULA 7/STJ). PRESCRIÇÃO TRIENAL. ART. 206, § 3o, IV, DO CC/2002. NÃO INCIDÊNCIA. OBRIGAÇÃO DECORRENTE DE CONDENAÇÃO EM AÇÃO ACIDENTÁRIA. RECURSO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(...) 7. Agravo interno a que se nega provimento”. (AgInt no AREsp 1233242/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 24/09/2018). (g.n.)
+Assim, embora tenha alegado violação aos artigos 489, §1o, inciso IV, e 1.022, inciso II, do Código de Processo Civil, o Recorrente não apontou de forma específica e individualizada a omissão do acórdão, caracterizando deficiência na fundamentação recursal e impondo a aplicação da Súmula 284/STF, o que conduz à inadmissão do recurso neste ponto.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, o Recorrente alega a impossibilidade de vinculação/condicionamento do pedido de licenciamento do veículo sem a exigência de pagamento de multas de trânsito.
+No acórdão impugnado ficou consignado que:
+“Nesse norte, considerando-se que o Impetrante não logrou minimamente demonstrar que padecem de mácula as multas de trânsito que lhe foram imputadas, e, nesse diapasão, sendo inolvidável o fato de que os atos administrativos gozam de presunção de legalidade, plausível a exigência da quitação dessas multas para fins do almejado licenciamento.
+Os atos administrativos gozam de presunção de legitimidade e veracidade, decorrentes do princípio da estrita legalidade, inerentes à Administração Pública, motivo pelo qual se transfere o ônus da prova a quem os impugna.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANÁLISE DE LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. VALIDAÇÃO DE ATO DE GOVERNO LOCAL, EM DETRIMENTO DE LEI FEDERAL. NÃO OCORRÊNCIA. AÇÃO ORDINÁRIA VISANDO A ANULAÇÃO DE MULTAS DECORRENTES DAS LIMITAÇÕES IMPOSTAS PELAS REGRAS DO RODÍZIO MUNICIPAL E DA ZONA MÁXIMA DE RESTRIÇÃO DE CIRCULAÇÃO. REVISÃO DO CONJUNTO PROBATÓRIO E INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7/STJ E 280/STF. [...]
+Outrossim, o Código de Trânsito Brasileiro, em seu artigo 29, VIII, estipula que 'os veículos prestadores de serviços de utilidade pública, quando em atendimento na via, gozam de livre parada e estacionamento no local da prestação de serviço, desde que devidamente sinalizados, devendo estar identificado na forma estabelecida pelo Contran'. Além disso, a Resolução no 268/2008 do Contran estipula que os veículos destinados à manutenção e reparo na rede elétrica são considerados 'de utilidade pública'. Contudo, a autora se limitou a afirmar que, em todas as ocasiões em que foi multada, se encontrava prestando serviços de manutenção ou emergenciais, na sua atividade fim. Note-se que a requerente não indicou elementos a demonstrar que seus veículos estavam prestando serviços dessa natureza, não se desincumbindo, portanto, do seu ônus probatório. Ademais, de rigor lembrar que os atos administrativos gozam de presunção de legitimidade e veracidade, decorrentes do princípio da estrita legalidade, inerente à Administração Pública, motivo pelo qual se transfere o ônus da prova a quem os impugna.(...) Em suma, a autora não demonstrou os fatos constitutivos do direito alegado, deixando de afastar a presunção de legalidade e veracidade das autuações, motivo pelo qual sua pretensão não pode ser acolhida' (fls. 178744/178747)." 4. Nesse caso, não há como alterar o entendimento do Tribunal de origem, que consignou não estar comprovado que a parte recorrente estava exercendo prestação de serviços essenciais "de manutenção ou emergenciais, na sua atividade fim" nos locais e horários em que foi autuada a respeito do descumprimento do rodízio municipal de veículos na capital paulista, sem que se proceda a nova análise do conjunto probatório dos autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice em sua Súmula 7, cuja incidência é induvidosa no caso sob exame.5. [...]6. Recurso Especial não conhecido.(REsp 1734496/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2018, DJe 16/11/2018) .
+Destarte, lícita a atuação da administração em condicionar a expedição do Certificado de Licenciamento ao pagamento de tributos, encargos e multas de trânsito e ambientais vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas, segundo o art. 131, § 2o, do Código de Trânsito Brasileiro e desde que tenha havido regular notificação do infrator, o que in casu não restou demonstrado.
+Cabe ressaltar, que a insubsistência das multas implica dilação no campo probatório, matéria de fato, que não se coaduna com a via estreita do mandado de segurança. A exigibilidade das multas deve ser objeto de prova e contraditório amplo em adequado processo de conhecimento, razão pela qual não há que se falar em nulidade das autuações na situação ora tratada.
+Assim, não sendo possível aferir da irregularidade das autuações, em especial no que respeita ao cumprimento da lei quanto às notificações legais das multas exigidas, descabendo dilação probatória para isso na via mandamental, prevalece a exigência do pagamento das multas para permitir o licenciamento do veículo.
+Portanto, inexistindo direito líquido e certo a ser amparado pela via mandamental, notadamente, porque não foi possível aferir a irregularidade da aplicação das multas de trânsito, por meio da via eleita..”
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. LICENCIAMENTO DE VEÍCULO. NOTIFICAÇÃO DA AUTUAÇÃO. AFERIÇÃO DA EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. REEXAME DE MATÉRIA FÁTICA. IRREGULAR NOTIFICAÇÃO. SÚMULA 127/STJ.
+1. Aferir a existência ou não de direito líquido e certo à concessão da segurança demanda exceder os fundamentos colacionados no acórdão combatido, com a incursão no conteúdo fático-probatório dos autos, o que implica reexame de provas - inviável em recurso especial, nos termos do enunciado 7 da Súmula desta Corte de Justiça.
+2. O entendimento pacífico do Superior Tribunal de Justiça é no sentido de que é ilegal, como condição para o licenciamento do veículo, a exigência do pagamento de multa imposta sem prévia notificação ao infrator para defender-se em processo administrativo.
+Não havendo a prévia e regular notificação ao infrator, para fins de defesa, tem garantido o direito de renovar licenciamento de veículo com multas pendentes de pagamento. Aplicação do enunciado 127 da Súmula do STJ: "É ilegal condicionar a renovação da licença de veículo ao pagamento de multa, da qual o infrator não foi notificado".
+Agravo regimental improvido.” (AgRg no Ag 1378215/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/03/2011, DJe 04/04/2011)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta ao artigo 1o da Lei n. 12.016/09, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...) 4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 25 de agosto de 2020.
+Des. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVII
