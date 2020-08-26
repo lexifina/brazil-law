@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0003702-54.2017.8.11.0008
+Recorrente: BANCO DO BRASIL S. A.
+Recorrido: AUGUSTO ALMICCI
+Vistos.
+Trata-se de Recurso Especial interposto por BANCO DO BRASIL S. A. (id 54678457) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PRIVADO assim ementado (id 52708967):
+“RECURSO DE APELAÇÃO CÍVEL – JUSTIÇA GRATUITA - COBRANÇA DE EXPURGOS INFLACIONÁRIOS – AÇÃO CIVIL PÚBLICA AJUIZADA - NÃO ASSOCIADO – EFEITO ‘ERGA OMNES’ – LEGITIMIDADE ATIVA – IMPOSSIBILIDADE DE CONTINUAÇÃO DO JULGAMENTO - § 1o. ART. 103, DO CPC – DETERMINAÇÃO PARA QUE, AFASTADA A ILEGITIMIDADE O FEITO RETORNE AO JUÍZO PARA REGULAR ANDAMENTO. Recurso conhecido e provido. (1) – Comprovados os requisitos legais, a questão pertinente à justiça gratuita, esquecida de apreciação em primeiro grau, na extensão do § 1o, do artigo 1.013, do CPC, pode ser apreciada em grau recursal. Não se apega à forma e sim a substância para a análise da questão, podendo ser requerida dentro dos autos, na inicial ou incidentalmente e, desde que comprovados os requisitos legais, exigindo o CPC tão somente insuficiência de recursos e consolidando presunção de sinceridade (art. 98 e seu § 3o), comprovados tais requisitos, de rigor impõe a gratuidade da prestação jurisdicional. Se, mais tarde, restar comprovada a intenção de lesar o erário, deve ser aplicada a multa de até um décuplo do valor, consoante o estabelecido no parágrafo único, art. 100 do CPC) ao ‘improbus litigator’. (2) – A sentença que exclui o autor da demanda que pretende o recebimento de expurgos inflacionários, caderneta de poupança, por não estar associado ao IDEC não se trata de sentença de mérito, equívoco consertado em grau recursal, tratando-se de aspecto que diz respeito as condições, interesse de agir e legitimidade. (3) – A rigor do parágrafo único, do artigo 1o, do estatuto –‘ A missão do IDEC é a defesa dos consumidores, na sua acepção mais ampla, representando-os nas relações jurídicas de qualquer espécie, inclusive com as instituições financeiras e com o Poder Público. Portanto, não se falando em defesa de seus associados, a rigor dos incisos II e III, do artigo 82, do CPC, a ACP ajuizada produz efeitos ‘erga omnes’, podendo executá-la os associados ou não associados. Precedentes do STJ. (4) – Não sendo possível a aplicação do § 1o, do artigo 1.013 do CPC, acolhida o interesse e legitimidade do apelante, de rigor se apresenta anular a sentença e determinar o seu retorno ao juízo de primeiro grau para o regular andamento e decisão em relação aos demais pontos controvertidos existentes.” (TJMT, RAC 0003702-54.2017.8.11.0008, DES. SEBASTIÃO DE MORAES FILHO, SEGUNDA CÂMARA DE DIREITO PRIVADO, Julgado em 31/07/2020)
+Não foram apresentados Embargos de Declaração.
+A parte Recorrente apresentou seu recurso especial sustentando que o acórdão violou os “artigos 240, 485, inc. VI e 783 todos do CPC, além dos artigos 95, 97 e 98, da Lei n. 8.078/90, e em dissídio jurisprudencial, tem por objetivo o reconhecimento de irregularidades que cercam o referido cumprimento de sentença fundado em sentença condenatória proferida em ação civil pública.”.
+Aponta que há afronta aos artigos 17, 485, VI, 1.035 e 1.036, todos do CPC, uma vez que há a necessidade de a parte comprovar sua filiação ao IDEC para fins de execução de sentença da ação civil pública proposta.
+Afirma que existe ordem de suspensão das matérias que tratam de expurgos inflacionários, motivo pelo qual o processo deve ser sobrestado.
+Aduz que a sentença executada não abrange a jurisdição além do Distrito Federal, motivo pelo qual carece de liquidez, certeza e exigibilidade.
+Diz que há a necessidade de liquidação da sentença, motivo pelo qual não pode continuar a execução, sob pena de afronta aos artigos 95 e 97 do CDC e artigo 509, § 2o, do CPC.
+Alega que o termo inicial para a incidência de juros de mora é aquele da citação do banco no cumprimento individual de sentença, sendo que o acórdão afrontou o disposto no artigo 240 do CPC.
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...)Assim, vê-se que a suspensão da ação executiva fundada em título irregular é medida que se faz necessária, em face da possibilidade de acolhimento do REsp ora interposto, que poderá implicar na extinção da ação.
+Ressalte-se, a fim de justificar o periculum in mora, que a não concessão do efeito suspensivo terá como conseqüência a necessidade de se oferecer bens à penhora, haja vista o prosseguimento do feito pelo Juízo de primeiro grau de jurisdição, o que poderá acarretar dano grave e de difícil reparação ao ora Recorrente.”
+Recurso tempestivo e preparado, conforme certidões id 54994963 e 54944966.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que, embora tenha fundamentado o perigo da demora em relação ao eventual início da execução, onde deveria ofertar bens para garantia, verifica-se que inexistem indícios de tal alegação.
+Não há comprovação de que uma eventual execução provisória tenha sido postulada, bem como verifica-se que o presente feito ainda discute os critérios de atualização e liquidação dos valores, motivo pelo qual resta afastado o eventual perigo da demora.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+E ainda, as alegações expostas pelo Banco Recorrente já foram tratadas nos Temas 515, 685, 723, 724 e outros, inexistindo ordem de suspensão da matéria.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência ante a ausência de fundamentação para tanto, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Intimem-se.
+Cuiabá, 26 de agosto de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
