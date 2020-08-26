@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto por Mariana de Jesus, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 577.700/ES.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARIANA DE JESUS contra decisão de Desembargador do Tribunal de Justiça do Estado do Espírito Santo, Relator do HC n. 0009969-45.2020.8.080.0000, que indeferiu a tutela de urgência lá impetrada e manteve a prisão cautelar da paciente pela suposta prática do delito tipificado no art. 121, § 2º, do Código Penal.
+    A impetrante alega que a paciente deve ser colocada em prisão domiciliar, uma vez que sendo soropositiva para HIV, integra o grupo de risco suscetível a contaminação pelo novo coronavírus.
+    Afirma também que não há fundamento concreto para a prisão cautelar, sobretudo na hipótese em que a paciente é primária e possui residência fixa.
+    Destaca, por fim, que deve ser considerada "a informação de que a paciente espera audiência de instrução e julgamento a quase 2 anos e ainda não foi nem ao menos pronunciada e teve sua audiência em 23.4.2020, suspensa pelo TJES devido a suspensão dos prazos pela pandemia do Covid 19".
+    Requer, em liminar e no mérito, a superação do enunciado sumular n. 691/STF para que a paciente seja colocada em regime domiciliar. (eDOC 1, p. 59)
+    No STJ, o habeas corpus foi indeferido liminarmente. Interposto agravo regimental, negou-se-lhe provimento. (eDOC 1, p. 87)
+    Nesta Corte, a recorrente insiste no pedido de revogação da prisão preventiva, em virtude da pandemia.
+    É o relatório.
+    Decido.
+    Para melhor compreensão da controvérsia, observe-se o teor do acórdão impugnado:
+    “No caso, a Corte de origem indeferiu o pleito liminar por não verificar, em um primeiro exame, o alegado constrangimento ilegal que justifique a antecipação do mérito, nos seguintes termos:
+    "[...] Nestes termos, considerando a interpretação dada pelo Supremo Tribunal Federal à atual situação e a possibilidade de adoção de medidas de esvaziamento do sistema carcerário, bem como o próprio texto da Recomendação, entendo que se enquadram nos grupos de riscos, mas da necessidade de reavaliação dos requisitos da segregação cautelar, o que passo a fazer.
+    Extrai-se que a paciente responde a ação penal na qual foi decretada a prisão preventiva, juntamente com outro corréu, pela prática do crime de homicídio qualificado.
+    Em consulta aos sistemas desta Corte verifiquei que ela possui condenação definitiva anterior, nos autos do processo 0040298-41.2015.8.08.0024 pela prática de crime previsto no artigo 157, § 2º, II, do Código Penal, constando, ainda, no polo passivo da ação penal 0038983-46.2013.8.08.0024, pela prática de crime de mesma natureza.
+    Por tais elementos, entendo que ainda estão presentes os requisitos necessários à manutenção da prisão preventiva, não vislumbrando, ao menos por ora, fundamento suficiente que me faça revogar a medida.
+    Cumpre salientar, que a Recomendação 62 do Conselho Nacional de Justiça prevê, no tocante à possibilidade de conversão da prisão preventiva em domiciliar àqueles que atualmente se encontram recolhidos ao regime fechado, a "colocação em prisão domiciliar de pessoa presa com diagnóstico suspeito ou confirmado de Covid-19 mediante relatório da equipe de saúde", na ausência de espaço de isolamento adequado no estabelecimento penal", conforme artigo 5º, IV. Nestes termos, indefiro o pedido liminar".
+    Segundo se infere, em princípio, a prisão cautelar está justificada na garantia da ordem pública, haja vista a reiterada conduta delitiva da agente. Destacou-se, ainda, os termos da Recomendação n. 62 do CNJ, "à possibilidade de conversão da prisão preventiva em domiciliar àqueles que atualmente se encontram recolhidos ao regime fechado, a "colocação em prisão domiciliar de pessoa presa com diagnóstico suspeito ou confirmado de Covid-19 mediante relatório da equipe de saúde", na ausência de espaço de isolamento adequado no estabelecimento penal". Portanto, não se verifica, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem”. (eDOC 1, p. 87-88)
+    Conforme se vê, o paciente “possui condenação definitiva anterior, nos autos do processo 0040298-41.2015.8.08.0024 pela prática de crime previsto no artigo 157, § 2º, II, do Código Penal, constando, ainda, no polo passivo da ação penal 0038983-46.2013.8.08.0024, pela prática de crime de mesma natureza”, a evidenciar risco concreto de reiteração delitiva.
+    A esse respeito, esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito e na possibilidade concreta de reiteração delitiva, de modo que não há constrangimento ilegal a autorizar a concessão da ordem. Precedentes: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli; HC 175.086, de minha relatoria, DJe 10.9.2019; e HC 181.056, assim ementado:
+    “Agravo regimental em habeas corpus. 2. Prisão preventiva. Revogação. Paciente reincidente. Impossibilidade. Jurisprudência consolidada no sentido de ser idônea a custódia cautelar decretada para resguardo da ordem pública considerada a gravidade concreta do crime e a possibilidade de reiteração delitiva. Medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social. 3. Agravo regimental desprovido.” (AgR no HC 181.056, de minha relatoria, Segunda Turma, 7.4.2020)
+    Quanto à pandemia, o Plenário do STF na ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar por ele concedida, nos termos do voto do Ministro Alexandre de Moraes.
+    Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça, como já foi feita pelo Tribunal de Justiça.
+    Ante o exposto, desprovejo o recurso ordinário.
+    Publique-se.
+    Brasília, 26 de agosto de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
