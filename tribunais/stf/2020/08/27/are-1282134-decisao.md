@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO PROPOSTA PELO SINTSEP. ILEGITIMIDADE DA PARTE EXEQUENTE. VEDAÇÃO DECORRENTE DO PRINCÍPIO DA UNICIDADE SINDICAL. PRECEDENTES DESTA CORTE. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO. I. A controvérsia se resume a definir se a agravante possui legitimidade para executar individualmente o título judicial formado nos autos da ação coletiva n. 37.012/2009, proposta pelo SINTSEP (Sindicato dos trabalhadores no serviço público do estado do Maranhão), em que foi reconhecido o direito a implantação da diferença de 21,7% ( vinte e um vírgula sete por cento) Sobre a remuneração dos servidores integrantes da categoria beneficiada. II. Com pulsando os autos, depreende-se que a agravante é professora da rede pública estadual e representada por outro sindicato, o SINPROESEMMA (Sindicato dos trabalhadores da educação básica das redes públicas estadual e municipais do estado do Maranhão). III. O argumento de preclusão da matéria, em razão de ter sido agitada pelo Estado do Maranhão, nas contrarrazões, deve ser afastada, porque, sendo pertinente e pacífica, pode o Tribunal promover juízo exaustivo e vertical do caso concreto. IV. Deve ser improvido o agravo interno quando os seus argumentos são incapazes de modificar a decisão agravada. V. Agravo interno conhecido e não provido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput e 8º, II e III, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Confiram-se, ainda, em casos análogos ao presente, os seguintes julgados: ARE nº 1.272.351/MA, Rel. Min. Cármen Lúcia, DJe de 15/7/2020; RE nº 1.242.040, Rel. Min. Gilmar Mendes, DJe de 17/2/2020; RE nº 577.906-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 16/5/16; e AI nº 765.950-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 5/11/14.
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 27 de agosto de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
