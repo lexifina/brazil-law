@@ -1,0 +1,1 @@
+Art. 60-A. Os critérios de distribuição da complementação da União e dos fundos a que se refere o inciso I do caput do art. 212-A da Constituição Federal serão revistos em seu sexto ano de vigência e, a partir dessa primeira revisão, periodicamente, a cada 10 (dez) anos.
