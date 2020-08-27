@@ -12,7 +12,7 @@ II - para os exercícios posteriores, ao valor do limite referente ao exercício
 § 4º As despesas primárias autorizadas na lei orçamentária anual sujeitas aos limites de que trata este artigo não poderão exceder os valores máximos demonstrados nos termos do § 3º deste artigo.
 § 5º É vedada a abertura de crédito suplementar ou especial que amplie o montante total autorizado de despesa primária sujeita aos limites de que trata este artigo.
 § 6º Não se incluem na base de cálculo e nos limites estabelecidos neste artigo:
-I - transferências constitucionais estabelecidas no § 1º do art. 20, no inciso III do parágrafo único do art. 146, no § 5º do art. 153, no art. 157, nos incisos I e II do art. 158, no art. 159 e no § 6º do art. 212, as despesas referentes ao inciso XIV do caput do art. 21, todos da Constituição Federal, e as complementações de que tratam os incisos V e VII do caput do art. 60, deste Ato das Disposições Constitucionais Transitórias;
+I - transferências constitucionais estabelecidas no § 1º do art. 20, no inciso III do parágrafo único do art. 146, no § 5º do art. 153, no art. 157, nos incisos I e II do caput do art. 158, no art. 159 e no § 6º do art. 212, as despesas referentes ao inciso XIV do caput do art. 21 e as complementações de que tratam os incisos IV e V do caput do art. 212-A, todos da Constituição Federal;
 II - créditos extraordinários a que se refere o § 3º do art. 167 da Constituição Federal;
 III - despesas não recorrentes da Justiça Eleitoral com a realização de eleições; e
 IV - despesas com aumento de capital de empresas estatais não dependentes.
