@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. DIREITO ADMINISTRATIVO. PROCESSO LEGISLATIVO. LEI MUNICIPAL. INICIATIVA DA CÂMARA MUNICIPAL. VÍCIO DE INICIATIVA. INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA LEGISLATIVA. PODER EXECUTIVO. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Câmara Municipal do Rio de Janeiro e Outro(a/s). Aparelhado o recurso na afronta aos arts. 2º, 61, § 1º, II, e 84, VI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Transcrevo o inteiro teor da ementa do acórdão recorrido:
+    “DIRETA DE INCONSTITUCIONALIDADE. LEI Nº 5.994/2015. MUNICÍPIO DO RIO DE JANEIRO. MATÉRIA DE INICIATIVA DO CHEFE DO EXECUTIVO. PROCEDÊNCIA DO PEDIDO. VOTO VENCIDO.
+    A Lei nº 5.994/2015, do Município do Rio de Janeiro, ‘Estabelece diretrizes para Programa Pedagógico Hospitalar destinado às crianças e adolescentes hospitalizados, no âmbito do Município’.
+    A legislação questionada viola o texto da Constituição Estadual ao impor a ingerência de um Poder sobre o outro, de forma que deve ser declarada inconstitucional por violação aos arts. 7º e 112, §1º, inciso II ‘d’ e 145, VI, todos da Constituição Estadual.
+    Diante de todo esse quadro, sem dúvida procede a presente Direta de Inconstitucionalidade, uma vez que evidente se mostram os vícios atribuídos à norma em questão e que lhe retira a validade.”
+    Consta entre as razões do acórdão recorrido que a lei em questão deixou de indicar a “fonte de custeio dos gastos para sua implementação [...]”.
+    As razões do recurso não se mostram aptas a infirmar tal fundamento, ensejando o entendimento jurisprudencial vertido vertido nas Súmulas nºs 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ainda que não se ressentisse o recurso quanto aos óbices apontados, melhor sorte não colheria, porquanto o Tribunal de origem não divergiu do entendimento firmado no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria a análise prévia da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nºs 279 e 280/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho precedentes:
+    “PROCESSO LEGISLATIVO – INICIATIVA. Ao Chefe do Executivo local compete a iniciativa de projetos de lei concernente a atribuições de órgãos da Administração Pública. Precedentes: ação direta de inconstitucionalidade nº 2.329, relatora ministra Cármen Lúcia, Pleno, acórdão veiculado no Diário da Justiça de 25 de junho de 2010; agravo regimental no recurso extraordinário nº 653.041, relator ministro Luiz Edson Fachin, Primeira Turma, acórdão publicado no Diário da Justiça de 9 de agosto de 2016” (ARE 1077116-AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 28.4.2020).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSO LEGISLATIVO. ADMINISTRATIVO. INCONSTITUCIONALIDADE FORMAL. LEI MUNICIPAL. MATÉRIA DE COMPETÊNCIA EXCLUSIVA DO CHEFE DO PODER EXECUTIVO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Esta Corte possui entendimento firmado no sentido de que há inconstitucionalidade formal em lei de iniciativa parlamentar que disponha sobre atribuições ou estabeleça obrigações a órgãos públicos, pois, nestes casos, cuida-se de matéria da competência exclusiva do Chefe do Poder Executivo. II – Agravo regimental a que se nega provimento” (RE 1254886-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 13.8.2020).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de agosto de 2020.
+Ministra Rosa Weber
+Relatora
