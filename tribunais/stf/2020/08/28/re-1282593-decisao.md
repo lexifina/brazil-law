@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — REPERCUSSÃO GERAL JULGADA — CORREÇÃO MONETÁRIA — SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de concessão de licença-prêmio. No extraordinário, o recorrente aponta violado o artigo 100, § 12, da Constituição Federal. Afirma a validade da aplicação da Taxa Referencial – TR como índice de correção monetária do débito antes da expedição do precatório.
+    2. Colho o seguinte trecho do acórdão recorrido:
+    Quanto à aplicação da Lei 11.960/09, faz-se de rigor afastar o pleito recursal da Fazenda, pois deve preponderar, no caso, a aplicação do Tema nº 810 do STF. Todavia, apesar de o apelo não prosperar nesse quesito, a r. sentença merece reparo no tocante ao termo inicial da correção monetária, sem que isso incorra em reformatio in pejus, visto que se trata de matéria eminentemente processual e de ordem pública, podendo ser corrigida a qualquer tempo.
+    Como se vislumbra na r. sentença, não houve a aplicação da modulação prospectiva dos efeitos da inconstitucionalidade reconhecida nas ADIs nº 4.357 e 4.425, pois, a despeito da modulação, o julgador a quo determinou a incidência do IPCA-E para todo o período discutido.
+    Assim, em relação aos juros e correção monetária, deve ser observada a questão pacificada pelo Egrégio Supremo Tribunal Federal, no julgamento do RE 870.947/SE, Tema nº 810, julgado em 20.09.2017, Tribunal Pleno, Min. Rel. LUIZ FUX, segundo o qual, a correção monetária das condenações impostas à Fazenda, oriundas de crédito não tributário, deve observar o IPCA-E (após 25.03.2015), enquanto os juros de mora devem incidir a partir da citação, consoante a sistemática do art. 1º-F, da Lei 9.494/1997, com redação dada pelo art. 5º da Lei nº 11.960/09, observando, para tanto, a modulação prospectiva dos seus efeitos pela ADI nº 4.357 também julgada pelo Pretório Excelso, cujos dizeres determinaram a incidência do índice de caderneta de poupança (para correção monetária) até 25.03.2015.
+    De modo que, com relação à correção monetária, a r. sentença merece ser corrigida de ofício, diante da inobservância da modulação dos efeitos da ADI nº 4.357.
+    A decisão recorrida está em harmonia com a jurisprudência do Supremo. No julgamento do recurso extraordinário nº 870.947, sob a sistemática da repercussão geral – Tema 810 – assentou o Tribunal, sem modulação de efeitos, que o artigo 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 28 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
