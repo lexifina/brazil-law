@@ -1,0 +1,34 @@
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento interposto por BEM ESTAR E SAUDE COMERCIO DE COLCHOES LTDA em face de decisão prolatada pelo juízo da Quarta Vara Especializada em Direito Bancário, que nos autos n.o 1006954-75.2019.8.11.0041 – Ação Revisional de Cláusulas Contratuais c/c Dano Moral – indeferiu o pedido de gratuidade de justiça.
+Inconformada em suas razões, a Agravante alega em síntese, que referida decisão não merece prosperar, tento em vista impossibilitar totalmente o acesso à justiça a Agravante, cerceando desta forma seus direitos, não restando outra alternativa, a não ser se socorrer da corte superior para dirimir o impasse, e o faz nos termos que passa a dispor.
+Alega que firmou 08 (oito) Contratos de Abertura De Crédito Fixo junto a instituição bancária Banco do Brasil S.A e por conta dos elevados e ilegais encargos e taxas contratuais, não acobertados pela legislação, a Agravante deixou de pagar as parcelas, pois, os elevados e ilegais encargos do contrato estão locupletando o contrato, enriquecendo o banco e acabou por esgotar suas finanças, não restando outra opção a não ser buscar a justiça para dirimir a presente lide.
+Assevera que no momento de distribuição da ação revisional, lhe foi deferido o direito de parcelamento ao final do processo, que, naquele momento, pareceu uma forma viável para a parte, pois a mesma acreditava piamente que iria conseguir manter seus negócios e ao final, como sempre o fez, iria cumprir com suas obrigações financeiras.
+No entanto, que a renda/faturamento mensal/anual da empresa foi apresentando baixa/queda, vindo posteriormente a literalmente zerar suas receitas/renda/faturamento, não podendo mais arcar com nenhuma despesa.
+Assim, que não possuindo mais condições financeiras de arcar com custas, honorários e taxas processuais, não restou outra opção a Agravante não ser requerer novamente a justiça gratuita, qual foi indeferida pelo juízo, sob argumentos, com data vênia, inconsistentes o que impossibilita a presente demanda de ter seu prosseguimento processual adequado quanto a perícia técnica.
+Destaca que é uma empresa pequena, que nem mesmo tem funcionários e que devido à crise financeira do país e do Estado de Mato Grosso nos últimos anos, o que se agravou ainda mais com a pandemia COVID-19 neste ano, a venda da requerente se tornou impossível, não restando outra opção a mesma, a não ser fechar as portas de seu estabelecimento comercial, motivo pelo qual, claramente não detém condições financeiras de arcar com qualquer valor.
+Discorre sobre o direito e razões do pedido de reforma.
+Ainda, que apesar de o juiz afirma ser dever da parte que requereu a perícia o pagamento, no entanto, com todo respeito, esquece mais uma que a Requerente, ora Agravante, não possui condições financeiras de arcar com nenhum valor, colocando-a em uma situação difícil, pois, a perícia contábil é de extrema importância ao processo.
+Ressaltar também, que a referida prova servirá de auxílio para o magistrado a quo ao sentenciar e sem este documento/prova apresentado por um perito técnico, como o julgador sentenciará a presente demanda coesamente, conforme determina os artigos 6o, 07o,10 e 11 do CPC?
+Alega que apesar de o juízo entender que a decisão que determinou a perícia, ter passado irrecorrida, que referidos argumentos não podem prosperar, uma vez que contraria o entendimento do Superior Tribunal de Justiça que sedimentou entendimento no sentido que a gratuidade da justiça pode ser requerida a qualquer momento.
+Desta feita, que tendo a Agravante alegado e provado estado de necessidade financeira, não tendo ainda sido realizado nenhum trabalho pelo perito contábil indicado pelo juízo a quo, pugna pela reforma da decisão interlocutória, para que seja determinado os benefícios da gratuidade judiciária, pois evidenciada está a insuficiência de recursos para arcar com as custas processuais e demais encargos oriundos do processo, bem como a realização de perícia contábil judicial de forma gratuita, nos termos do CPC.
+Discorre sobre a necessidade de deferimento do efeito ativo.
+Requer seja deferido o efeito ativo ao presente agravo de instrumento para suspender os efeitos da decisão interlocutória, determinando o prosseguimento do feito sem o recolhimento das custas e despesas processuais.
+Seja dado provimento ao presente recurso a fim de reformar a r. Decisão agravada, deferindo a gratuidade da justiça a todo processo, qual seja, taxa, custas e demais honorários da presente demanda, nos termos dos requerimentos formulados pelo Agravante na declaração de pobreza firmada e demais documentos juntadas aos autos, e pelos motivos expostos nos corpo deste recurso.
+Deixa de recolher custas recursais, considerando não ter condições de arcar com as custas processuais, nos moldes da declaração de pobreza firmada e demais documentos juntados aos autos, requerendo, desde já, benefício da gratuidade de justiça.
+Em despacho (Id.no 50370454), foi concedido ao Agravante o prazo de 05 (cinco) dias para comprovar a hipossuficiência financeira.
+DECIDO.
+Inicialmente, em face dos documentos juntados, DEFIRO a Assistência Judiciária Gratuita recursal.
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância na fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos artigos 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando o juiz sua decisão (...)”.
+Pois bem.
+De acordo com os argumentos apresentados pelo Agravante, em sede de cognição sumária, identifico como relevantes os fundamentos e o perigo da lesão irreparável, a ensejar a concessão do pretendido efeito.
+Isso porque, pelos documentos que instruem o presente, bem como pela atual situação financeira causada pela pandemia provocada pelo COVID-19, onde todo comércio.
+Ante o exposto, DEFIRO o pedido, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o Juízo singular acerca desta decisão.
+Intime-se a parte Agravada, na forma do art. 1.019, II, para que responda no prazo legal.
+Cumpra-se.
+Cuiabá/MT, 28 de agosto de 2020
+Des. Sebastião Barbosa Farias
+Relator
