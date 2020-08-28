@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A Turma Recursal, alterando o entendimento do Juízo, julgou procedente o pedido de concessão de benefício previdenciário, consideradas as premissas fáticas. No extraordinário, o recorrente aponta a violação dos artigos 2º, 97, 195, § 5º, e 201 da Constituição Federal. Insiste na inviabilidade da aposentadoria por idade híbrida, nos termos da Lei nº 8.213/91. Diz contrariado o princípio da separação dos Poderes. Entende inobservada a cláusula de reserva de Plenário.
+    2. Quanto à evocação do artigo 97 da Lei Maior, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    Colho os seguinte trechos do acórdão recorrido:
+    Quanto ao mérito, verifico que a lide já restou bem solucionada em sentença, nos seguintes termos:
+    A natureza do último labor exercido pelo segurado não influencia na concessão do benefício de aposentadoria híbrida. Até porque essa é destinada aos trabalhadores rurais que transitaram para as lides urbanas, ou para os que de lides urbanas passaram para as lides rurais. Nesse sentido o Superior Tribunal de Justiça: (REsp 1407613-RS, Rel. Ministro Herman Benjamin, segunda turma, julg. 14-10-2014) .
+    O Tribunal Regional Federal da 4ª Região sumulou o entendimento, tendo em vista reiteradas decisões no mesmo sentido:
+    SÚMULA 103: 'A concessão da aposentadoria híbrida ou mista, prevista no art. 48, §3º, da Lei nº 8.213/91, não está condicionada ao desempenho de atividade rurícola pelo segurado no momento imediatamente anterior ao requerimento administrativo, sendo, pois, irrelevante a natureza do trabalho exercido neste período'.
+    Outrossim, na aposentadoria por idade híbrida é incabível a exigência legal de indenização das contribuições relativas ao período laborado na condição de segurado especial, seja anterior ou posterior à Lei de Benefícios. Oportuno lembrar que tal exigência é prevista no artigo 55, §2° da Lei n° 8.213/91 para fins de concessão de aposentadoria por tempo de serviço, não havendo que se confundir uma espécie de jubilação (aposentadoria por idade) com a outra (aposentadoria por tempo de contribuição).
+    Superado este ponto, registro que a aposentadoria por idade híbrida prevista no § 3º do art. 48 da Lei de Benefícios pode ser considerada uma subespécie da aposentadoria por idade urbana, em virtude de que não se exige o desempenho de atividade imediatamente anterior à DER, ainda que de forma descontínua.
+    Por fim, caso o segurado faça jus à aposentadoria híbrida, nos termos do art. 48, §4°, da Lei n° 8.213/91, será considerado como salário-de-contribuição mensal do período como segurado especial o limite mínimo de salário-decontribuição da Previdência Social, ou seja, o valor do salário mínimo.
+    Desse modo, os períodos de trabalho como segurado especial podem ser considerados para fins de aposentadoria por idade híbrida, independente do efetivo pagamento de contribuições e também podem ser computados para carência em qualquer momento que tenha ocorrido o labor, na linha do entendimento do TRF4 e do STJ.
+    (...)
+    Do Direito ao benefício
+    De acordo com o Resumo de Documentos para Cálculo de Tempo de Contribuição (E30 - PROCADM2 - fl.52), a parte autora conta com reconhecimento administrativo de 13 anos e 08 dias e 147 meses de carência em contribuições.
+    Somando tais contribuições com o período de atividade rural reconhecido nesta ação, que corresponde a 96 meses, 07 anos, 10 meses e 24 dias, a parte autora contava na DER, com mais de 180 contribuições e 20 anos, 11 meses e 02 dias.
+    Considerando que na DER a autora estava com 64 anos, faz jus à concessão do benefício pleiteado.
+    A sentença não merece reparos. A decisão proferida pelo STJ no julgamento do Tema 1007 tem força vinculante e, salvo futura manifestação do STF em sentido contrário, não viola qualquer norma constitucional. Assim, reputo acertada a decisão que, nos termos da orientação do STJ, determinou o cômputo de tempo de labor rural remoto como carência para fins de concessão de aposentadoria por híbrida, independentemente do tipo de labor exercido quando do implemento do requisito etário ou da DER.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 28 de agosto de 2020.
+Ministro MARCO AURÉLIO
+Relator
