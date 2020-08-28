@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 17, p. 256):
+    “EMENTA: APELAÇÕES CRIMINAIS - RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR - RECURSOS DEFENSIVOS - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADES E AUTORIAS DEVIDAMENTE COMPROVADAS - RECONHECIMENTO DA TENTATIVA NA RECEPTAÇÃO - DESCABIMENTO - AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA EM RELAÇÃO A UM DOS ACUSADOS, ALTERAÇÃO DE REGIME E SUBSTITUIÇÃO DA PENA CORPORAL POR PENAS RESTRITIVAS DE DIREITOS - NECESSIDADE - RESTITUIÇÃO DE BENS E VALORES APREENDIDOS - INADMISSIBILIDADE - ISENÇÃO DAS CUSTAS PROCESSUAIS - INVIABILIDADE - RECURSO MINISTERIAL - RECONHECIMENTO DA QUALIFICADORA DO §1 0 DO ART. 180 DO CÓDIGO PENAL - IMPOSSIBILIDADE - FIXAÇÃO DO REGIME INICIAL FEÇHADO A UM DOS RÉUS - CABIMENTO.
+    1. Restando devidamente comprovadas, diante do vasto e harmonioso conjunto probatório colhido nos autos, a materialidade e a autoria dos delitos de receptação e adulteração de sinal identificador de veículo automotor, imperiosa a manutenção das condenações firmadas em primeira instância, por seus próprios fundamentos.
+    2. Os depoimentos de policiais como testemunhas gozam de presunção iuris tantum de veracidade, portanto, prevalecem até prova em contrário.
+    3. Inexistindo dúvidas acerca da inversâo da posse do bem produto de crime, não há como acolher o pleito de reconhecimento da tentativa no delito de receptação.
+    4. Constatado que um dos réus não registra condenação com trânsito em julgado para as partes por fato anterior ao que está em análise, de rigor o decote da agravante da reincidência. Por outro lado, diante do quantum de pena aplicado e da análise favorável das circunstâncias judiciais previstas no art. 59 do Código Penal, é cabivel a fixação do regime inicial àberto e a substituição da reprimenda corporal por penas restritivas de direitos, nos termos do ad. 33, §2 0, "c", e ad. 44, ambos do Código Penal.
+    5. Demonstrado nos autos que parte dos bens apreendidos foi utilizada na prática do crime de adulteração de sinal identificador de veículo automotor e que a defesa não trouxe aos autos a menor prova acerca da origem licita do dinheiro apreendido, correta a determinação do seu perdimento em favor da União, a teor do que prevê o ad. 91, inciso II, alíneas "a" e "b", do Código Penal.
+    6. Incabivel a análise do pedido de isenção das custas processuais, por se tratar de matéria afeta ao Juízo da Execução.
+    7. Inexistindo nos autos provas contundentes de que a transação envolvendo o produto de crime se deu no exercício de atividade comercial ou industrial ou que os réus exercem tal atividade de forma habitual, não há que se falar em reconhecimento da qualificadora prevista no §1 °do ad. 180 do Código Penal.
+    8. Tratando-se de acusado podador de maus antecedentes e multirreincidente, de rigor a fixação do regime fechado para o cumprimento inicial da pena, nos exatos termos do ad. 33, §2 0 e 30, do Código Penal.”
+    Os embargos de declaração foram rejeitados (eDOC 17, p. 305).
+    No recurso extraordinário (eDOC 17, p. 348-356), aponta-se ofensa aos arts. 1º, III, e 5º, XV, LIV, LV, LVII e LXIV, da Constituição Federal. Alega-se, em suma, que não há nos autos prova suficiente da materialidade delitiva a sustentar a condenação.
+    A Terceira Vice-Presidência do TJMG inadmitiu o extraordinário por não ter sido apontado o permissivo constitucional em que se ampara o recurso, por não haver demonstração da repercussão geral das matérias alegadas, e em razão da incidência da Súmula 279/STF (eDOC 17, p. 450-453).
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer preenche os pressupostos processuais.
+    De plano, verifica-se que a inadmissão do extraordinário fundou-se na omissão do permissivo constitucional em que se fundamentou a interposição, na ausência de demonstração da repercussão geral da matéria, e na Súmula 279 desta Corte. Ressalto, no entanto, que o agravante deixou de impugnar esses fundamentos.
+    O agravo, portanto, não ataca os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF.
+    Ante o exposto, não conheço do agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 28 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
