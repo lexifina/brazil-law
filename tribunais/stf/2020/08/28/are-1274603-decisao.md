@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. ASSOCIAÇÃO DOS PROCURADORES DO ESTADO DO RIO GRANDE DO SUL. PARCELAMENTO DA GRATIFICAÇÃO NATALINA DE 2017. LEI ESTADUAL Nº 15.052/2017.
+    1. Diante da existência de norma legal expressa (art. 35, parágrafo único, da Constituição do Estado do Rio Grande do Sul) que estabelece que “O pagamento da gratificação natalina, também denominada décimo terceiro salário, será efetuado até o dia 20 de dezembro”, não há discricionariedade possível de parte do Administrador quanto a cumprir ou não a lei, salvo efetiva impossibilidade material.
+    2. No entanto, considerando a superveniência da Lei Estadual nº 15.052/2017 que instituiu o pagamento de indenização em caso de inadimplemento da gratificação natalina de 2017, o que indicou a possível incapacidade financeira do ente público estadual em adimplir integral e pontualmente o 13º salário de seus servidores, bem como assegurou a esses mesmos servidores a percepção de indenização pelo atraso no pagamento da mesma gratificação, como forma de compensação de eventuais prejuízos, não há falar-se em ilegalidade ou abuso de poder que amparariam a presente impetração.
+    3. Sentença procedente na origem.
+    APELAÇÃO PROVIDA, POR MAIORIA, NOS TERMOS DO ART. 942, DO CPC/2015.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte sustenta a ocorrência de violação aos arts. 1º, III; 7º, VIII; 37; 39, § 3º, da CF.
+    O recurso não deve ser provido.
+    Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação do Estado do Rio Grande do Sul (Lei 15.052/2017 e Constituição do Estado do Rio Grande do Sul), o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido, confira-se a ementa do ARE 1.130.766-AgR, sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MANDADO DE SEGURANÇA COLETIVO. SERVIDORES PÚBLICOS ESTADUAIS. PARCELAMENTO DE REMUNERAÇÃO. IMPOSSIBILIDADE. ARTIGO 35, CAPUT E PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO DO ESTADO DO RIO GRANDE DO SUL. CONSTITUCIONALIDADE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 657. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 28 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
