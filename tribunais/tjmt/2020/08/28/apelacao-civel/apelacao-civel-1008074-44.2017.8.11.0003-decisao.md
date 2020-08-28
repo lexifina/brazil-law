@@ -1,0 +1,44 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) 1008074-44.2017.8.11.0003 - COMARCA DE RONDONÓPOLIS
+APELANTE: MILHONORTE- COMÉRCIO, IMPORTAÇÃO, EXPORTAÇÃO E AGROPECUÁRIA LTDA. - EPP
+APELADO: ROGÉRIO BERWANGER
+DECISÃO MONOCRÁTICA
+Trata-se de recurso de apelação cível interposto por MILHONORTE – COMÉRCIO, IMPORTAÇÃO, EXPORTAÇÃO E AGROPECUÁRIA LTDA. – EPP, contra a sentença proferida pelo Juízo da 4a Vara Cível da Comarca de Rondonópolis/MT, que julgou improcedentes os pedidos dos Embargos à Execução no 1008074-44.2017.8.11.0003, opostos nos autos da Ação de Execução n.o 1001188-29.2017.8.11.0003, ajuizada por ROGÉRIO BERWANGER, condenando o apelante ao pagamento de custas processuais e honorários advocatícios fixados em 10% (dez por cento) sobre o valor da causa.
+A apelante aduz que o contrato original é requisito imprescindível à propositura da ação, motivo pelo que a execução fundada apenas no termo aditivo torna a dívida ilíquida e inexigível.
+Sustenta que é necessária a apresentação do contrato inicial para verificar a evolução do débito, e a incidência dos encargos, a fim de constatar eventual prática de abusividade na cobrança, o que tornaria nulo o título, uma vez que imprescindível a limitação dos abusos pelo judiciário.
+Afirma que “não é possível ao apelante aferir discrepâncias no valor exequendo, elaborando uma planilha evolutiva para extirpar o excesso de execução, ou demonstrar que o aditivo incorporou valores desproporcionais em relação à obrigação do principal”.
+Nesses termos, postula pela extinção da ação de execução com base no art. 485, I, c/c o art. 803 do CPC, por ausência de documento essencial.
+Requer a concessão de efeito suspensivo ao recurso, uma vez que a execução está fase expropriatória, o que poderá ocasionar risco de dano.
+Por fim, pugna pelo provimento recursal, para reformar a sentença, com a consequente procedência dos embargos à execução e extinção da execução.
+Em contrarrazões o apelado se manifesta pelo desprovimento do recurso.
+Recebido o recurso, foi atribuído o efeito suspensivo liminarmente.
+Vieram os autos conclusos.
+É o relatório.
+Decide-se.
+A hipótese dos autos cuida especialmente sobre os requisitos da execução, matéria cuja análise não demanda maiores controvérsias, visto que pacíficas no ordenamento jurídico. À vista disso, e, considerando, ainda, o entendimento adotado pelo Superior Tribunal de Justiça reverberado na Súmula 568, no sentido de viabilizar o julgamento monocrático de processos que possuem tema com posicionamento consolidado, como é o caso ora em análise, é que se adota essa técnica.
+A fim de corroborar com essa possibilidade, colaciona-se jurisprudência no sentido de validar a adoção de Julgamento Singular por Tribunal Estadual, visto a possibilidade de insurgência por meio de agravo regimental que poderá submeter a análise da matéria a Colegiado, caso haja discordância deste, veja-se:
+“OBSERVÂNCIA DO ART. 206, XXXVI, DO RITJRS E DA SÚMULA 568 DO E. STJ. REJEIÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO NO RESP No 1.336.026/PE - REPRESENTATIVO DE CONTROVÉRSIA - TEMA 880. MODULAÇÃO DOS EFEITOS. SUPERIOR TRIBUNAL DE JUSTIÇA. Preliminar I Cabível o julgamento na forma monocrática, amparado no art. 206, XXXVI do RITJRS, e na Súmula n° 568, do e. STJ. Além do mais, a posição do e. STJ, no sentido da superação do prejuízo alegado, em razão da submissão ao julgamento colegiado. Mérito. [...] Preliminar rejeitada. Agravo interno desprovido.” (TJRS, Agravo no 70078943164, Terceira Câmara Cível, Relator: Eduardo Delgado, Julgado em 29/11/2018). (Grifos acrescidos).
+Assim, seguindo a orientação da Corte Superior de Justiça é que se adota o julgamento monocrático deste recurso.
+Trata-se de recurso de apelação cível interposto por MILHONORTE – COMÉRCIO, IMPORTAÇÃO, EXPORTAÇÃO E AGROPECUÁRIA LTDA. – EPP, contra a sentença proferida pelo Juízo da 4a Vara Cível da Comarca de Rondonópolis/MT, que julgou improcedentes os pedidos dos Embargos à Execução no 1008074-44.2017.8.11.0003, opostos nos autos da Ação de Execução n.o 1001188-29.2017.8.11.0003, ajuizada por ROGÉRIO BERWANGER, condenando o apelante ao pagamento de custas processuais e honorários advocatícios fixados em 10% (dez por cento) sobre o valor da causa.
+Extrai-se dos autos que as partes celebraram contrato de compra e venda de milho, o qual foi aditado no ano de 2016, cujo aditamento avençou que o apelante realizaria o pagamento da dívida de R$ 103.932,00 (cento e três mil, novecentos e trinta dois reais) na data de 03/05/2016, sobre o qual incidiria apenas juros de 1% (um por cento) ao mês, sem o acréscimo de nenhum outro encargo ou multa, também foi ofertado um imóvel comercial para garantir o negócio. Ante o inadimplemento contratual foi ajuizada a Ação de Execução n.o 1001188-29.2017.8.11.0003.
+Contra essa ação foram opostos embargos à execução, em que foi alegada a ausência dos requisitos para a propositura da ação executiva. Contudo, os embargos foram rejeitados, ensejando a insurgência nesta instância.
+Superado o breve introito fático, passo à análise do mérito recursal.
+O apelante se insurge contra a execução do termo aditivo, sem a apresentação do contrato original, que tornaria o crédito ilíquido e inexigível.
+Sobre o tema, o art. 803 do Código de Processo Civil prevê as hipóteses em que o processo de execução será considerado nulo, nos seguintes termos:
+“Art. 803. É nula a execução se:
+I - o título executivo extrajudicial não corresponder a obrigação certa, líquida e exigível".
+Nesse contexto, HUMBERTO THEODORO JR. tratando do assunto elucida que:
+"Não basta, por isso, que o credor seja portador de um título executivo (uma sentença ou uma escritura pública, por exemplo). Tem ele, para ser admitido a executar, de exibir título que represente obrigação certa, líquida e exigível (art. 586). [...]” (In: Curso de direito Processual Civil: processo de execução e cumprimento da sentença, processo cautelar e tutela de urgência. vol. II. 49. ed. rev., e atual., Rio de Janeiro: Forense, 2014, versão digital).
+Todavia, no caso ora analisado, em que pese a alegação de iliquidez e inexigibilidade da dívida, vislumbra-se que o termo aditivo apresentado pelo próprio apelante demonstra que fora reconhecido o saldo devedor, bem como a forma de adimplemento dessa dívida, cuja formalidade atendeu às prescrições legais, visto que acompanhada da assinatura de ambas as parte e de duas testemunhas.
+Além disso, consta os encargos de atualização fixados em 1% (um por cento) ao mês, conforme estabelece a legislação pátria, de modo que não há nulidade na execução, uma vez que demonstrada a exigibilidade do título extrajudicial.
+À propósito:
+“CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR ASSINADO POR DUAS TESTEMUNHAS. EXECUTIVIDADE RECONHECIDA. SÚMULA 7/STJ. DECRETO N. 22.626/1933. LIMITAÇÃO DE JUROS. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REGIMENTAL NÃO PROVIDO.
+1. No caso, o Tribunal de origem firmou que a execução fora lastreada com elementos aptos a demonstrar a certeza, liquidez e exigibilidade da dívida. Incidência, no ponto, da Súmula 7STJ. [...] 3. Agravo regimental não provido.” (STJ, AgRg no AREsp 739.458/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2016, DJe 11/02/2016)
+“APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. EMBARGOS À EXECUÇÃO. DEMANDA APARELHADA COM TÍTULO EXECUTIVO EXTRAJUDICIAL. TERMO ADITIVO CONTRATUAL ASSINADO PELO DEVEDOR E POR DUAS TESTEMUNHAS. EXEGESE DO ART. 585, II, DO CÓDIGO DE PROCESSO CIVIL. O Termo Aditivo Contratual, documento particular, devidamente assinado pelo devedor e por duas testemunhas, constitui título extrajudicial com eficácia executiva, nos termos do art. 585, II, do Código de Processo Civil. NEGARAM PROVIMENTO. UNÂNIME.” (TJRS, Apelação Cível, No 70057728594, Décima Oitava Câmara Cível, Relator: Pedro Celso Dal Pra, Julgado em: 27-02-2014)
+Quanto à alegação de que a ausência do contrato original inviabilizaria a verificação de eventual abusividade embutida na renovação do contrato, vislumbra-se dos autos que em momento algum o apelante constatou essa prática, visto que até a propositura da execução não havia se insurgido contra essa renovação, nem questionado a dívida. Caso constatasse a existência de prejuízo ou abusividade, o apelante teria questionado em outra oportunidade, mas não o fez, não pode agora neste momento vir usar essa matéria como escusa ao pagamento da dívida. Sequer aponta quais seriam as abusividades, portanto tal alegação não merece prosperar.
+Ante o exposto, DESPROVEJO O RECURSO, em consequência revogo o efeito suspensivo concedido, para manter incólume a sentença vergastada.
+Publique-se.
+Intime-se.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
