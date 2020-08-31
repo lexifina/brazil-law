@@ -1,0 +1,20 @@
+Decisão: Trata-se de embargos de divergência opostos em face de acórdão da Segunda Turma desta Corte, assim ementado (eDOC 98):
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso. 2. Os embargantes buscam indevidamente a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes. 3. Embargos de declaração rejeitados.”
+    O respectivo agravo regimental foi julgado nos seguintes termos (eDOC 90):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. REINTEGRA. REVOGAÇÃO DE BENEFÍCIO FISCAL. ANTERIORIDADE GERAL E NONAGESIMAL. 1. A alteração no programa fiscal REINTEGRA, por acarretar indiretamente a majoração de tributos, deve respeitar os princípios da anterioridade geral e nonagesimal. Precedentes. 2. Agravo regimental a que se nega provimento, com previsão de aplicação de multa.”
+    Nas razões recursais, alega-se divergência de entendimento entre as Turmas no tocante à incidência da anterioridade geral ou de exercício ao caso.
+    Nessa esteira, argumenta-se que “o acórdão embargado da 2ª Turma entendeu, a partir de interpretação de julgamentos proferidos pelo Supremo Tribunal Federal que, deve ser aplicada a regra da anterioridade anual/geral aos Decretos que reduziram o percentual utilizado para calcular o benefício referente ao REINTEGRA” ao passo que “o aresto paradigma da 1ª Turma (AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.245.252/RS), analisando a mesma questão sobre a redução de percentual do REINTEGRA aplicou ao caso a anterioridade nonagesimal ou mitigada, afastando a aplicação da anterioridade geral.” (eDOC 100, p. 3)
+    A parte embargada, em contrarrazões, defende a manutenção do acórdão recorrido. Nesse sentido, sustenta que a jurisprudência de ambas as Turma da Corte “já está consolidado no sentido de que as alterações de alíquota do benefício do REINTEGRA devem observância não só ao princípio da anterioridade nonagesimal, mas também à anterioridade geral ou anual.” (eDOC 105, p. 8)
+    É o relatório. Decido.
+    De acordo com os artigos 546, II, CPC/1973 e 1.043, I e III, CPC/2015, assim como do art. 330 do RISTF, os embargos de divergência são cabíveis quando o acórdão de uma das Turmas do STF diverge de acórdão de outra Turma ou do Plenário.
+    Exige-se, para a admissão, a identidade de bases fáticas entre o acórdão proferido e aquele invocado como paradigma da divergência.
+    No caso dos autos, cotejando-se o acórdão embargado com o paradigma apontado, há aparente dissenso jurisprudencial no tocante à observância do princípio da anterioridade geral na hipótese de revogação de benefício fiscal que acarrete majoração indireta de tributos, como é o caso do REINTEGRA.
+    Confira-se, a esse respeito, a ementa do julgado citado pela embargante:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA. LEI 13.043/2014. DECRETOS 8.415/2015 E 9.393/2018. REDUÇÃO DO PERCENTUAL DE APROVEITAMENTO DE CRÉDITOS. MAJORAÇÃO DE TRIBUTO. RELAÇÃO DIRETA COM O RECOLHIMENTO DA COFINS E DA CONTRIBUIÇÃO PARA O PIS. INAPLICABILIDADE DA ANTERIORIDADE GERAL (ANUAL OU DE EXERCÍCIO). ARTIGOS 150, III, B, E 195, § 6º, DA CONSTITUIÇÃO.AGRAVO INTERNO DESPROVIDO.” (ARE 1245252 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 26.05.20)
+    Ante o exposto, nos termos do art. 335, § 1º, RISTF, admito os embargos de divergência.
+    À Presidência para a redistribuição deste recurso a um dos Ministros integrantes da Primeira Turma, nos termos dos arts. 76 e 335, §3º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
