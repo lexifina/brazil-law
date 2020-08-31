@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 1, p. 245):
+    “MANDADO DE SEGURANÇA COLETIVO. ASSOCIAÇÃO. INEXISTÊNIA DE INTERESSE DOS ASSOCIADOS. ILEGITIMIDADE AD CAUSAM. Não dispõe a entidade associativa de legitimidade para impetrar mandado de segurança coletivo quando ausente o interesse dos seus membros ou associados.”
+    Os embargos de declaração foram desprovidos (eDOC 1, p. 288).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 5º, incisos II, XXXV e LXX, “b” e art. 97 da Constituição Federal.
+    Nas razões recursais aponta, inicialmente, a ausência de prestação jurisdicional e alega que o acórdão impugnado afastou a incidência do art. 1º, caput, e art. 21 parágrafo único e incisos da Lei 12.016/2009, sem a observância da reserva de plenário.
+    No mérito, busca demonstrar a existência de “interesse processual da Recorrente porque há utilidade o provimento jurisdicional a ser proferido, existindo, por resultado, legitimidade ativa da demandante não havendo que se falar em ausência de interesse dos membros ou associados da demandante.” (eDOC 3, p. 84)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, destaca-se excerto da decisão recorrida (eDOC 1, p. 243-244):
+    “Consoante se pode depreender, a Constituição Federal confere à associação legalmente constituída e em funcionamento há pelo menos um ano (caso da impetrante) legitimidade - por substituição processual - para impetrar mandado de segurança coletivo desde que na defesa dos interesses de seus membros ou associados.
+    Importante esclarecer, ainda, que, de acordo com a Súmula n° 629 do STF, 'a impetração de mandado de segurança coletivo por entidade de classe em favor dos associados independe da autorização destes'.
+    Nesse mesmo sentido o disposto no art. 21 da Lei n° 12.016/09, in verbis:
+    […]
+    Por outro lado, pelo que se extrai dos documentos trazidos aos autos (ata de fundação, relação dos sócios fundadores, estatuto e ata de assembleia extraordinária realizada em 09-08-2014 - evento 1 - INF2), a associação impetrante conta apenas 06 (seis) membros/associados, sendo todos pessoas físicas residentes em Brasília/DF.
+    Ocorre que o presente mandado de segurança coletivo (1) foi impetrado contra o Delegado da Receita Federal do Brasil em Caxias do Sul/RS, cuja competência territorial não abarca Brasília/DF; e (2) impugna a base de cálculo do PIS e da COFINS, contribuições sociais típicas de pessoas jurídicas.
+    Daí que falta aos membros/associados da impetrante interesse processual, uma vez que de nenhuma utilidade lhes será eventual ordem dirigida ao Delegado da Receita Federal do Brasil em Caxias do Sul/RS, para que esse tome exclua da base de cálculo do PIS e da COFINS o valor atinente ao ICMS e ao ISS. E, por assim ser, não se cogita de estar a associação impetrante aqui atuando 'na defesa dos interesses de seus membros ou associados.”
+    Nesse contexto, eventual divergência ao entendimento adotado pelo juízo a quo, no tocante à existência de interesse dos membros ou associados da recorrente demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confira-se, a propósito, o seguinte precedente:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA COLETIVO. ASSOCIAÇÃO. INEXISTÊNCIA DE INTERESSE DOS ASSOCIADOS. ILEGITIMIDADE AD CAUSAM. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. PRECEDENTES. MULTA PREVISTA NO § 4º DO ARTIGO 1.021 DO CPC/2015. APLICABILIDADE. INADMISSIBILIDADE OU IMPROCEDÊNCIA MANIFESTA. OBSERVÂNCIA DO LIMITE PREVISTO EM LEI. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE EMBARGANTE. MANIFESTO INTUITO PROTELATÓRIO. APLICAÇÃO DA MULTA DO ARTIGO 1.026, § 2º, DO CPC/2015. EMBARGOS DE DECLARAÇÃO DESPROVIDOS. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO.” (RE 1089785 ED-AgR-ED, Rel. Min. LUIZ FUX, Primeira Turma, DJe 20.09.19)
+    De outra banda, observa-se que o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Por fim, verifico que o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma legal à luz da jurisprudência sobre a matéria.
+    Com efeito, a jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.4.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.5.2015.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a, do CPC c/c o art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
