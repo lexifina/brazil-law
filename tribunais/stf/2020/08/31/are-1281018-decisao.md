@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI Nº 3.951/2019, DO MUNICÍPIO DE SAPUCAIA DO SUL. PRELIMINAR DE ILEGITIMIDADE ATIVA. SUPERADA. ARGUIÇÃO DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO. REJEITADA. MÉRITO. INCONSTITUCIONALIDADE MATERIAL NÃO VERIFICADA. VIOLAÇÃO DO PRINCÍPIO DA NÃO VINCULAÇÃO DE RECEITAS DE IMPOSTOS. LEI MERAMENTE AUTORIZATIVA. ART. 167, IV E §4º, DA CF/88. ART. 154, IV E § 5º, DA CE/89.
+    I - Lei Municipal nº 3.951/2019, do Município de Sapucaia do Sul, que autoriza o Poder Executivo a contratar operação de crédito com a Caixa Econômica Federal. Autoriza, como forma de pagamento da operação de crédito, a utilização de receita tributária municipal, inclusive, quota-parte de repasse de ICMS e do Fundo de Participação dos Municípios.
+    II - Apresentada preliminar de ilegitimidade ativa. Superada. Questão já enfrentada nos autos dos Embargos de Declaração nº 70081993446.
+    III – Arguição de impossibilidade jurídica do pedido. Rejeitada. A lei autorizativa não é completamente despida de conteúdo normativo, especialmente quando dirige autorização para a Administração Pública, uma vez que, com sustentáculo no princípio legalidade, o gestor público só pode atuar conforme a lei impõe ou autoriza. Se a lei meramente autorizativa contém permissão de conduta que vai de encontro ao texto constitucional, essa poderá ser objeto de controle de constitucionalidade.
+    IV - A Lei Municipal nº 3.951/2019 não oferece as receitas dos repasses como garantia vinculada ao contrato de crédito, mas, sim autoriza a Municipalidade a utilizar esses valores para amortizar a dívida. O que a CF/88 e a CE/89 vedam é a vinculação, ou seja, a imposição de destinação específica, obrigatória e pré-ordenada para a receita futura. A Lei em comento apenas autoriza o Executivo Municipal a utilizar a receita. Não vincula, não afeta, não obriga, não impõe. Ausente inconstitucionalidade material.
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE. UNÂNIME.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 103, VIII, da CF. Sustenta a ilegitimidade ativa de órgão partidário municipal para propositura de ADI.
+    O recurso não deve ser provido.
+    O Tribunal a quo, entre os óbices que justificaram a inadmissão do recurso extraordinário, fundamentou que não haveria interesse recursal, porquanto o recurso extraordinário interposto versa sobre questão preliminar (ilegitimidade ativa) e o mérito da ADI foi julgado improcedente em favor do agravante. Assim restou fundamentado:
+    “3. Interesse recursal
+    O Órgão Julgador julgou “IMPROCEDENTE A AÇÃO DIRETA DE INCONSTITUCIONALIDADE". Portanto, sendo o Recorrente a parte Requerida na ação, ausente qualquer interesse recursal.
+    Daí que não é de ser admitido o recurso extraordinário que versa sobre questão preliminar do processo, quando o mérito foi julgado em seu favor.”
+    Por sua vez, no agravo em recurso extraordinário apresentado, o agravante arguiu que “o Interesse de Agir está devidamente demonstrado através da repercussão geral da matéria em questão”. Ou seja, nada sustentou quanto ao fato de a ADI já ter tido o mérito julgado em seu favor, sendo este o real motivo da inadmissão recursal.
+    Constata-se, assim, que o agravo não debateu especificamente a razão de inadmissão do recurso extraordinário, limitando-se a reiterar suposta existência de repercussão geral da matéria, sem infirmar a correção da decisão agravada. Nessas condições, aplicam-se as Súmulas 283 e 287/STF.
+    Ademais, cabe pontuar que o acórdão recorrido reconheceu a legitimidade ativa para propositura da ADI com base no art. 95, § 2º, V, da Constituição do Estado do Rio Grande do Sul, de modo que para dissentir do entendimento firmado, seria necessário analisar ofensa a direito local, o que o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 31 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
