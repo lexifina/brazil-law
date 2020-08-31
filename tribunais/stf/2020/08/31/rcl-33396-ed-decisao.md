@@ -1,0 +1,11 @@
+DECISÃO:
+    1. Trata-se de embargos de declaração opostos contra decisão monocrática pela qual reconsiderei decisão anterior, para julgar prejudicada a presente reclamação, e o subsequente agravo interno, por não mais subsistir a decisão cautelar indicada como paradigma, já que esta Corte concluiu o julgamento de mérito da ADC 48 em 16.04.2020.
+    2. A parte embargante aponta omissão, “tendo em vista que a embargante ainda não possui acesso ao acórdão do julgamento da ADC 48, e por isso, desconhece a amplitude de casos que serão abarcados pela decisão, bem como seus exatos termos”. Alega cerceamento do direito de defesa, pois, “ao desconhecer o alcance da decisão, o jurisdicionado não tem condições de agir processualmente, ingressando com recursos ou ações possíveis no sentido de ver aplicadas as próprias diretrizes do quanto definido no julgamento da ADC 48”. Pede, assim, “a reconsideração da decisão embargada, para que seja julgado o agravo interposto e determinada a suspensão requerida até a publicação do acórdão da ADC 48”.
+    3. É o relatório. Decido.
+    4. Nos termos do art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial com a finalidade de suprir omissão, esclarecer obscuridade ou eliminar contradição.
+    5. Na decisão embargada, está claro que, julgado o mérito da ADC 48, fica superada a decisão cautelar indicada como paradigma. De todo modo, observo que, na época em que proferida a decisão embargada (30.04.2020), já tinha sido revogada a liminar deferida neste autos (doc. 41), que havia determinado a suspensão dos efeitos da decisão reclamada e da tramitação do processo nº 0001283-21.2012.5.04.0028. Deste modo, não se encontrado sobrestado o feito, a decisão embargada em nada alterou a situação do processo de origem, que estava em regular andamento. Ainda, verifico que o acórdão resultante do julgamento do mérito da ADC 48 foi publicado logo em seguida, em 19.05.2020. Portanto, não demonstrado o alegado prejuízo ao exercício da defesa.
+    6. Diante do exposto, acolho os embargos para prestar esclarecimentos, sem, contudo, alterar a parte dispositiva da decisão embargada.
+    Publique-se.
+    Brasília, 31 de agosto de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
