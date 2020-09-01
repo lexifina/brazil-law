@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1017602-09.2020.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pela ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A., em virtude da decisão proferida pelo Juiz da 4.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Revisão de Contrato e Faturas por Conta de Caso Fortuito ou Força Maior e Pedido de Tutela Antecipada ajuizada por HOUSE YELLOW CASA NOTURNA BAR E RESTAURANTE LTDA. – EPP – VALLEY PUB, deferiu em parte a medida pleiteada e determinou que a Requerida/Agravante proceda à cobrança da fatura com base na leitura do medidor (consumo efetivo) enquanto perdurar o fechamento das casas noturnas, em razão da pandemia do "Covid19".
+Inconformada, a Recorrente alega que não ficaram demonstrados os requisitos para concessão da tutela de urgência.
+Ressalta que cada consumidor do Grupo A, tal como a Agravada, firma contrato para que a distribuidora disponibilize determinada quantidade de potência máxima que ele poderá demandar da rede, pagando um valor fixo por essa disponibilidade.
+Aduz que contratação de demanda, portanto, possui caráter de cobrança fixa, e diz respeito aos investimentos previamente aportados pela distribuidora para disponibilizar a infraestrutura necessária ao consumidor, o que inclui, mas não se limita, a investimentos em ativos, gastos com pessoal e sistemas para operação e manutenção da rede.
+Assevera que nesse tipo de contrato, a demanda contratada se presta a cobrir não a eletricidade em si, mas os custos relacionados à rede disponibilizada no ponto de entrega, independentemente do consumo verificado.
+Alega que eventual suspensão do contrato ou redução do valor fixo pactuado, importará em prejuízo financeiro significativo à concessionária, na medida em que antecipou investimentos para viabilizar o fornecimento de energia de alta potência, no entanto deixará de receber a contraprestação devida pelo tempo previamente pactuado, tendo que suportar todo custo para manutenção da estrutura sem o devido provisionamento.
+Sustenta a inaplicabilidade da teoria da imprevisão e da onerosidade excessiva na hipótese.
+Forte nesses argumentos, pugna pela a concessão do efeito suspensivo, a fim de que seja suspensa a decisão que determinou a cobrança da fatura com base na leitura do medidor (consumo efetivo) enquanto perdurar o fechamento das casas noturnas, em razão da pandemia do "Covid19".
+No mérito, requer o provimento do agravo.
+É o relatório. Decido.
+O Recurso comporta recebimento como Agravo de Instrumento, pois se enquadra na hipótese do artigo 1.015, inciso I, do CPC, bem como foi instruído com os documentos necessários para sua análise e conhecimento.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise dos autos, não entrevejo a confluência dos requisitos para concessão do pedido liminar, isso porque, há fortes indícios de desequilíbrio contratual, com onerosidade excessiva à contratante/Agravada, o que autoriza a concessão de tutela de redução/readequação provisória das prestações previstas no contrato, nos moldes dos arts. 478 e seguintes do Código Civil, até porque é basicamente indiscutível que a pandemia mundial e as suas consequências configuram circunstância imprevista e inevitável, amoldando-se perfeitamente no conceito de força maior, cuja superveniência interfere incisivamente nos relações jurídicas.
+É evidente a imprevisibilidade do fato dessa magnitude na época da celebração do contrato de fornecimento de energia em que se comprometeu a adquirir determinada quantidade de energia por mês, independentemente do consumo efetivamente verificado, bem como das consequências que vêm provocando, cabendo, a priori, observar a teoria da imprevisão, nos termos do art. 317 do Código Civil, sopesando os valores sociais em conflito.
+Assim, neste juízo de cognição sumária, não vislumbro a probabilidade do direito invocado pela empresa Agravante, bem como a irreversibilidade dos efeitos práticos da decisão agravada, até porque o periculum in mora demonstrado, neste caso, é inverso.
+Outrossim, uma vez não demonstrado o risco a que está exposta a Agravante de ver seu direito perecer ou de sofrer prejuízo irreversível caso não seja desde logo reformada a decisão, entendo que nada obsta que se mantenha o status atual até o exame do mérito recursal.
+Dessa forma, ausentes os requisitos necessários para concessão da liminar recursal, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz singular.
+Intimem-se a parte Agravada para, querendo, apresentar resposta no prazo legal.
+Cumpra-se.
+Cuiabá, 01 de setembro de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
