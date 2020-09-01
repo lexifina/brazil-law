@@ -1,2 +1,0 @@
-Art. 74-R. A instituição depositária pode formular pedido de cancelamento do registro do programa de BDR, desde que cumpra os procedimentos fixados para esse fim pela entidade administradora de mercados organizados de valores mobiliários.
-Parágrafo único. O pedido deve ser encaminhado à SIN e será automaticamente concedido, se instruído com os documentos que evidenciem o cumprimento do disposto no caput.
