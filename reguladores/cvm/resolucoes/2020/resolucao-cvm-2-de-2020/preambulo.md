@@ -1,0 +1,3 @@
+Resolução CVM nº 2, de 2020
+Revoga atos normativos e outros atos sem caráter normativo, como parte do processo de revisão e a consolidação dos atos normativos, conforme disposto no Decreto nº 10.139, de 28 de novembro de 2019, e altera a Instrução CVM nº 607, de 17 de junho de 2019.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 5 de agosto de 2020, com fundamento no disposto nos arts. 8º, I, da Lei nº 6.385, de 7 de dezembro de 1976, e no art. 5º do Decreto nº 10.139, de 28 de novembro de 2019, RESOLVEU baixar a seguinte Resolução:
