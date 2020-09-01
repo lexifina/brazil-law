@@ -1,0 +1,2 @@
+Art. 74-C. O administrador do fundo de índice cujas cotas sirvam de lastro para a emissão de BDR não responde pela prestação das informações previstas nesta Instrução, porém o programa de BDR não pode ser realizado sem sua concordância expressa.
+Parágrafo único. A instituição depositária deve celebrar com o administrador do fundo contrato que assegure a disponibilização das informações que devem ser divulgadas nos termos desta Instrução.

@@ -1,0 +1,1 @@
+Art. 74-S. A instituição depositária e o diretor responsável por ela indicado respondem perante a CVM por irregularidades relacionadas ao programa e à prestação contínua de informações sobre os BDR, nos termos desta Instrução.

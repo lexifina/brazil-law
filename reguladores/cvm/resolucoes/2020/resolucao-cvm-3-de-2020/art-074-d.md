@@ -1,0 +1,1 @@
+Art. 74-D. Os fundos cujas cotas sirvam de lastro para a emissão de BDR e seus respectivos índices de referência devem observar os critérios e as vedações previstas nos §§ 2º e seguintes do art. 2º desta Instrução.

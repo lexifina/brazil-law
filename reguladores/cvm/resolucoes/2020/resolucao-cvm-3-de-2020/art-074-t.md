@@ -1,0 +1,1 @@
+Art. 74-T. Nos casos em que vier a exercer o direito de voto das cotas dos fundos de índice que sirvam de lastro para programas de BDR, a instituição depositária deve fazê-lo na forma instruída pelos titulares de BDR sempre que os contratos relativos ao programa permitam, ou no melhor interesse dos titulares de BDR, quando tais contratos impeçam o voto por eles instruído.” (NR)
