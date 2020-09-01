@@ -1,3 +1,38 @@
+Art. 4º Ficam revogados os incisos I, III, XVIII, XIX, XX e XXI e a alínea “b” do inciso XXV, todos do art. 39 da Instrução CVM nº 359, de 22 de janeiro de 2002.
+Art. 5º O art. 1º da Instrução CVM nº 471, de 8 de agosto de 2008, passa a vigorar com a seguinte redação:
+“Art. 1º
+§ 2º Pedidos de registro da primeira oferta pública de distribuição de ações, certificados de depósito de ação, ou BDR lastreados em ações, relacionados aos emissores mencionados nos incisos I e III, não podem ser feitos por meio do procedimento simplificado.
+§ 3º Para os efeitos do § 2º, serão equiparados a ações e BDR lastreados em ações quaisquer valores mobiliários que confiram ao titular o direito de adquirir ações ou BDR lastreados em ações, em conseqüência da sua conversão ou do exercício dos direitos que lhes são inerentes, desde que emitidos pelo emissor dos valores mobiliários subjacentes.” (NR)
+Art. 6º Os arts. 13 e 15 da Instrução CVM nº 476, de 16 de janeiro de 2009, passam a vigorar com a seguinte redação:
+“Art. 13
+I – de negociações com ações, bônus de subscrição, certificados de depósito de ações e certificados de depósito de valores mobiliários lastreados em ações, no âmbito de programa de BDR Patrocinado Nível I, Nível II e Nível III; e
+” (NR)
+“Art. 15
+§ 6º O disposto nos §§ 3º, 4º e 5º também abrange os bônus de subscrição, as debêntures conversíveis ou permutáveis por ações, os certificados de depósito desses valores mobiliários e de ações e os certificados de depósito de valores mobiliários lastreados em ações, no âmbito de programa de BDR Patrocinado.
+” (NR)
+Art. 7º Os arts. 7º e 32 da Instrução CVM nº 480, de 7 de dezembro de 2009, passam a vigorar com a seguinte redação:
+“Art. 7º
+I – emissores estrangeiros cujos valores mobiliários sejam lastro para programas de certificados de depósito de valores mobiliários – BDR Nível I, patrocinados ou não;
+” (NR)
+“Art. 32.
+I – aos emissores de valores mobiliários que lastreiam certificados de depósito de valores mobiliários – BDR, o disposto no Anexo 32 – I;
+” (NR)
+Art. 8º A Instrução CVM nº 480, de 7 de dezembro de 2009, passa a vigorar acrescida do seguinte art. 48-A:
+“Art. 48-A. O cancelamento do registro de emissor estrangeiro que patrocine programa de certificados de depósito de valores mobiliários – BDR Nível II ou Nível III depende do cumprimento pelo emissor dos requisitos para o cancelamento do programa de BDR previstos na regulamentação específica.” (NR)
+Art. 9º O Anexo 32-I à Instrução CVM nº 480, de 7 de dezembro de 2009, passa a vigorar na forma do Anexo A a esta Resolução.
+Art. 10. O art. 115 da Instrução CVM nº 555, de 17 de dezembro de 2014, passa a vigorar com a seguinte redação:
+“Art. 115..
+§ 1º
+d) certificados de depósito de ações - BDR, classificados como nível II e III.
+§ 3º O rol de ativos do inciso I do § 1º inclui os BDR lastreados em ações classificados como nível I, desde que o fundo use, em seu nome, a designação “Ações – BDR Nível I”
+§ 4º O disposto no § 2º não se aplica aos BDR lastreados em ações classificados como nível I, exceto para fundos que atendam aos requisitos do § 3º deste artigo.
+” (NR)
+Art. 11. Fica revogado o parágrafo único do art. 48 da Instrução CVM nº 480, de 7 de dezembro de 2009.
+Art. 12. Esta Resolução entra em vigor em 1º de setembro de 2020.
+Assinado eletronicamente por
+MARCELO BARBOSA
+Presidente
+Anexo A à Resolução CVM nº 3, de 11 DE AGOSTO de 2020
 ANEXO 32 – I
 Regras Específicas para Emissores de Ações ou Valores Mobiliários Representativos de Dívida que Lastreiem Certificados de Depósito de Valores Mobiliários – BDR
 Art. 1º Os certificados de depósito de valores mobiliários – BDR podem ter como lastro:
