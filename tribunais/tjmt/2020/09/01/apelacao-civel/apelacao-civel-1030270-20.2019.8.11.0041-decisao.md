@@ -1,0 +1,29 @@
+VISTOS...
+Recurso de apelação cível aviado por Cleiton Aparecido da Silva, contra sentença proferida nos autos da Ação de Cobrança do Seguro Obrigatório DPVAT, movida em face da Porto Seguro Companhia de Seguros Gerais, em que o juízo a quo julgou parcialmente procedente os pedidos inicias para condenar a seguradora ao pagamento de R$ 675,00 (seiscentos e setenta e cinco reais), referente à indenização do seguro DPVAT, devendo, ainda, este valor ser acrescido de juros de 1% (um por cento) ao mês a partir da citação e correção monetária pelo INPC a partir da data da ocorrência do sinistro.
+Condenou, ainda, a requerida ao pagamento das custas processuais e honorários advocatícios fixados em 10% (dez por cento) sobre o valor da condenação, nos termos do artigo 85, §8o do Código de Processo Civil.
+Para tal desiderato, o apelante requer a condenação ao pagamento de indenização por danos morais no valor de R$15.000,00 (quinze mil reais), alegando que o ato ilícito está consubstanciado no fato de a seguradora, ora apelada, ter recusado o pedido de recebimento administrativo do seguro obrigatório.
+Almeja, a majoração da verba honorária para o valor de R$2.000,00 (dois mil reais), sob o fundamento de que o montante arbitrado pelo magistrado se mostra irrisório e torna desvalorizado o exercício da profissão. Ao final, requer a condenação da apelada em litigância de má fé.
+As contrarrazões foram apresentadas no ID. 54787452, pugnando pelo seu desprovimento.
+É o que merece registro.
+Decido.
+A questão trazida a debate refere-se a indenização de seguro obrigatório DPVAT. Acerca do tema, o Superior Tribunal de Justiça firmou entendimento sob a sistemática de Recursos Repetitivos (REsp 1483620 / SC , REsp 1418347 / MG, REsp 1388030 / MG , REsp 1303038 / RS, REsp 1357813 / RJ, REsp 1246432 / RS, REsp 1098365 / PR e REsp 1120615 / PR) e aprovou Súmulas abrangendo diversos aspectos da indenização securitária obrigatória, de modo que é possível decidir o caso monocraticamente, com base no Verbete Sumular 568 do STJ.
+Pois bem.
+A parte apelante busca a reforma parcial da sentença, para a condenação da Seguradora/apelada ao pagamento de indenização por danos morais em razão da recusa ao pedido de requerimento administrativo, o que viola o disposto no art. 5o, §2o, da Lei no 6.194/74, criando embaraços e aumentando os percalços ao recebimento da indenização securitária.
+Esses são os motivos pelos quais o apelante insiste que a Segurada/apelada praticou ato ilícito; contudo, atento às particularidades do caso concreto, sopesadas a conduta da Seguradora, a pretensão indenizatória almejada pelo autor/apelante não encontra respaldo legal ou doutrinário, porquanto, não se constata que de fato houve ofensa ao direito da personalidade do indivíduo, pois, a recusa da Seguradora não é capaz de demonstrar que foram atingidos e feridos os direitos personalíssimos do autor, a justificar a condenação da Seguradora ao pagamento de indenização por danos morais.
+O art. 186 do CC estabelece que:
+“Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito”.
+A configuração da responsabilidade civil decorrente de ato ilícito depende da comprovação do dano experimentado, do nexo causal entre a ação ou omissão do agente, do dano sofrido e da culpa.
+Logo, não assiste razão ao apelante visto que os argumentos despendidos tiveram como base, tão somente a demora do cumprimento obrigacional pela apelada, sem menção ou demonstração de qualquer fato extraordinário que tenha ofendido o direito à personalidade, honra ou a dignidade do apelante.
+No tocante ao arbitramento da verba honorária, sabe-se que, ao fixar os honorários sucumbenciais, o magistrado não está atrelado aos patamares estipulados pelo art. 85 do CPC, quais sejam, entre o mínimo de dez por cento (10%) e o máximo de vinte por cento (20%) sobre o valor da condenação.
+Isso porque a teor do §8o do artigo 85, nas causas em que não houver condenação em valores ou este for inestimável ou de pequena monta, os honorários podem ser arbitrados por meio de análise equitativa do magistrado, desde que respeitados os parâmetros estabelecidos no §2o do mesmo dispositivo legal.
+Por essa razão, entendo que a verba honorária merece ser majorada para R$ 1.200,00 (um e duzentos mil reais), em observância aos princípios da razoabilidade e da proporcionalidade, e está de acordo com o entendimento desta Câmara de Direito Privado, in verbis:
+“APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO –DPVAT – VERBA HONORÁRIA SUCUMBENCIAL – VALOR ÍNFIMO –MAJORAÇÃO – OBSERVÂNCIA DOS DITAMES DAS ALÍNEAS DOS §§ 2o E 8o DO ART. 85 DO CPC – SENTENÇA MODIFICADA NO PONTO – RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Quando fixados em quantia irrisória, torna-se necessária a majoração dos honorários advocatícios para o valor suficiente a remunerar o trabalho dos advogados, com o fito de não tornar aviltante o exercício da profissão.
+(N.U 1025108-78.2018.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, DIRCEU DOS SANTOS, Terceira Câmara de Direito Privado, Julgado em 08/07/2020, Publicado no DJE 15/07/2020) (destaquei)
+Outrossim, não merece prosperar a irresignação do apelante quanto ao pedido de condenação em litigância de má-fé à apelada, uma vez que não visualizei nos autos a prática, por parte deste, de quaisquer das hipóteses previstas no artigo 80 do CPC.
+Com essas considerações, dou parcial provimento ao recurso, para majorar o valor dos honorários advocatícios para R$ 1.200,00 (um mil e duzentos reais), nos termos do artigo 85, § 8o do CPC.
+Transcorrido in albis o prazo recursal, certifique-se o trânsito em julgado, e, em seguida, baixem os autos à comarca de origem, com as cautelas de praxe.
+P.I.C.
+Cuiabá, 30 de agosto de 2020.
+José Zuquim Nogueira
+Desembargador Relator
