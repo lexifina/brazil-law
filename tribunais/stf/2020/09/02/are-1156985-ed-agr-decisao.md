@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo regimental interposto contra decisão que rejeitou os embargos de declaração opostos em face do desprovimento do agravo em recurso extraordinário sob os seguintes fundamentos: i) não há violação ao princípio da separação dos poderes; ii) o deslinde da controvérsia requer a análise de legislação infraconstitucional; e iii) incidência da Súmula 636 desta Corte (eDOC 10).
+    Reitera-se, nas razões recursais, que o acórdão recorrido violou o princípio da isonomia, da autonomia municipal e, por fim, da razoabilidade.
+    Aduz-se, ainda, por meio da Petição 50.743/2020, que, nos autos do RE 1.237.867, foi reconhecida a repercussão geral da questão debatida nestes autos, qual seja, a redução de jornada sem diminuição de salário de servidora mãe de criança portadora de autismo (eDOC 15).
+    A parte agravada, devidamente intimada, não apresentou contrarrazões (eDOC 14).
+    Após detida análise, reconsidero a decisão anterior e passo a um novo exame do recurso.
+    Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão da 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 164):
+    “SERVIDORA PÚBLICA MUNICIPAL. São Paulo. Pretensão à redução da jornada de trabalho para acompanhamento de filho autista. Ausência de previsão na legislação municipal. Julgamento à luz da proteção especial à pessoa com deficiência. Convenção sobre os direitos das pessoas com deficiência. Status de norma constitucional, com a capacidade de derrogar normas com ela conflitantes. Direito já reconhecido aos servidores públicos da União. Interpretação sistemática do ordenamento que autoriza a concessão da medida. Ação julgada improcedente. Sentença reformada. Recurso provido.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 199-208).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 2º; 5º, caput, I e II; e 30, I , da Constituição Federal.
+    Nas razões do recurso, sustenta-se, em suma, que o “acórdão impugnado, ao conceder a servidor redução da jornada de trabalho sem redução salarial sem base em lei, baseando-se em aplicação analógica com o art. 98 da Lei 8.112/90 e por pretensa interpretação sistemática de tratado e até de PEC (!), cometeu grave e direta violação ao princípio da legalidade” (eDOC 3, p. 214); a ocorrência “de intervenção não autorizada do Judiciário sobre a Administração” (eDOC 3, p. 215); e que “o acórdão recorrido vai contra a isonomia ao conceder a certos servidores públicos, de maneira casuística, um benefício extraordinário.” (eDOC 3, p. 216).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando a incidência à espécie do óbice da Súmula 636 do STF (eDOC 3, p. 226/227).
+    É o relatório. Decido.
+    Verifica-se que, ao apreciar o RE 1.237.867 RG, de relatoria do Min. Ricardo Lewandowski, o Plenário Virtual, em julgamento encerrado em 8.8.2020, reconheceu a existência de repercussão geral da questão constitucional suscitada nestes autos, Tema 1.097, referente à possibilidade de redução da carga horária de servidor público que tenha filho ou dependente portador de deficiência quando inexistente previsão legal de tal benefício. Colhe-se da manifestação do Relator:
+    “Nesse ponto, bem analisados os autos, entendo haver repercussão geral do tema constitucional versado no recurso.
+    Com efeito, a causa extrapola os interesses das partes envolvidas, haja vista que a questão central dos autos (possibilidade de redução da jornada de trabalho do servidor público que tenha filho ou dependente portador de deficiência, com fundamento na Convenção Sobre os Direitos das Pessoas com Deficiência) alcança os órgãos e entidades da Administração Pública de todos os estados da federação e municípios que não tenham legislação específica cuidando do tema.
+    Presente, ainda, a relevância da causa do ponto de vista jurídico, uma vez que seu deslinde permitirá uniformizar o entendimento do Poder Judiciário, reforçando sua coerência interna, evitando que situações de fato semelhantes tenham desenlaces opostos. Tem-se, ainda, presente a relevância do ponto de vista social, haja vista o induvidoso interesse de crianças portadoras de necessidades especiais.
+    Do mesmo modo, encontram-se presentes reflexos econômicos e administrativos advindos de decisões sobre o tema, a justificar uma análise verticalizada da questão pelo Supremo Tribunal Federal.
+    Isso posto, manifesto-me pela existência de repercussão geral.
+    Ante o exposto, reconsidero a decisão agravada e determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 02 de setembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
