@@ -1,0 +1,23 @@
+Ref. Petições nºs 36.153/20 e 55.983/2020.
+    Decisão:
+    Instituto Brasileiro de Direito Previdenciário – IBDP e Fernando Roberto Gomes Beraldo requerem o ingresso no feito na qualidade de amici curiae.
+    Decido.
+    Embora o Código de Processo Civil tenha trazido a previsão, em seu art. 138, caput, da possibilidade de atuação da pessoa natural ou jurídica como amicus curiae, referida intervenção no processo não prescinde da satisfação dos requisitos até então definidos no Regimento Interno do Supremo Tribunal Federal, como aliás, prevê o art. 1.038 do mesmo estatuto processual.
+    Dispõe o artigo 1.038 do Código de Processo Civil que o Relator poderá “solicitar ou admitir manifestação de pessoas, órgãos ou entidades com interesse na controvérsia, considerando a relevância da matéria e consoante dispuser o regimento interno.”
+    Acerca desse tema, extrai-se do voto do Ministro Celso de Mello, relator da ADI nº 3.045/DF, o seguinte trecho que bem aborda a questão:
+    (...) a intervenção do amicus curiae, para legitimar-se, deve apoiar-se em razões que tornem desejável e útil a sua atuação processual na causa, em ordem a proporcionar meios que viabilizem uma adequada resolução do litígio constitucional.
+    No caso dos autos, na forma autorizada pelo caput do art. 323 do Regimento Interno do Supremo Tribunal Federal, o presente recurso extraordinário foi submetido à apreciação do Plenário da Corte. Na ocasião, à unanimidade dos Ministros reputou constitucional a controvérsia relativa à “Competência para processar e julgar demandas sobre complementação de aposentadoria instituída por lei, cuja responsabilidade pelo pagamento recaia diretamente sobre a Administração Pública direta ou indireta”, e no mérito, por maioria, concluiu-se por reafirmar a jurisprudência pacifica na Corte, que restou consolidada na seguinte tese: Compete à Justiça comum processar e julgar causas sobre complementação de aposentadoria instituída por lei cujo pagamento seja, originariamente ou por sucessão, da responsabilidade da Administração Pública direta ou indireta, por derivar essa responsabilidade de relação jurídico-administrativa.
+    Dessa forma, ultimado o julgamento de mérito do recurso, considero ausentes as razões que poderiam tornar desejável e útil a atuação dos requerentes na resolução do caso concreto.
+    Anoto, ainda, que é assente o entendimento neste STF de que pleitos de ingresso como amicus curiae devem ser formulados antes da inclusão em pauta do feito. Nesse sentido:
+    “Registro que o processo foi apreciado pelo Plenário Virtual, em votação finalizada em 23.2.2017, e encontra-se em fase de apreciação de embargos de declaração.
+    É neste contexto em que o pedido de admissão como amicus curiae foi interposto, motivo pelo qual entendo ser intempestivo. Não vislumbro, ademais, hipótese de excepcionalidade apta a justificar seu deferimento.
+    Ressalto, todavia, que o indeferimento do pedido de intervenção não obsta a que os interessados apresentem memoriais aos Ministros desta Corte e que os dados por eles apresentados sejam considerados no julgamento da causa.
+    Ante o exposto, indefiro o pedido de intervenção como amicus curiae.” (ARE nº 1.018.459/PR, Relator o Ministro Gilmar Mendes, DJe de 5/8/2020).
+    “2. O recurso teve o seu mérito analisado por esta Corte em Plenário Virtual, na forma do art. 323-A do RI/STF, com julgamento concluído em 02.09.2016, tendo sido reafirmada a jurisprudência do Tribunal por oito votos a dois, com uma abstenção. O acórdão foi publicado em 11.10.2016. Assim, não há mais oportunidade para ingresso de amici curiae, o que, nos termos da jurisprudência deste Tribunal, deve ocorrer até a inclusão do feito em pauta (ADI 2.435, Rel. Min. Cármen Lúcia). Memoriais devem ser distribuídos e questões de ordem suscitadas antes ou durante o julgamento, não depois de sua conclusão.” (ARE nº 909.437/RJ, Relator o Ministro Roberto Barroso, DJe de 14/2/17).
+    Ressalte-se que o processo encontra-se na fase de exame dos embargos de declaração opostos contra o acórdão do Plenário, sendo certo, também, que o indeferimento do pedido de intervenção não obsta a que os interessados apresentem memoriais aos Ministros do Tribunal e que os dados por eles apresentados sejam considerados no julgamento da causa.
+    Ante o exposto, nos termos do artigo 323, § 3º, do Regimento Interno do Supremo Tribunal Federal, indefiro os pedidos de ingresso como amici curie, mas recebo as petições como memoriais.
+    Publique-se.
+    Brasília, 2 de setembro de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
