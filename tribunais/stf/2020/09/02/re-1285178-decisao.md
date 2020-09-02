@@ -1,0 +1,15 @@
+DECISÃO:
+    Preliminarmente, defiro o pedido de gratuidade de justiça formulado pelo recorrente, nos termos do art. 98, §5º c/c 99, §3º do Código de Processo Civil, tão somente neste grau de jurisdição.
+    Trata-se de recurso extraordinário interposto com fundamento na alínea "a" do permissivo constitucional.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso X, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    Agravo regimental no recurso extraordinário com agravo. Direito  Tributário. IPTU. Valor venal. Legislação  infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria  infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE nº 1.179.647-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 24/4/19)
+    Ademais, o caso é de incidência dos enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IPC DE JUNHO DE 1987. URP DE FEVEREIRO DE 1989. LIMITAÇÃO À DATA-BASE SUBSEQÜENTE. TÍTULO EXEQÜENDO. ART. 114 DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA. SÚMULAS STF 282 E 356. 1. Ausência de prequestionamento do dispositivo constitucional tido como violado, porque não abordado pelo acórdão recorrido e, embora suscitado nos embargos de declaração a ele opostos, não foi apontado oportunamente na ocasião em que foram apresentadas as contra-razões ao recurso ordinário. Súmulas STF 282 e 356. 2. Exigência do cumprimento desse requisito recursal, ainda que a questão suscitada seja de ordem pública. Precedentes. 3. Agravo regimental improvido (RE nº 567.165/MS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 22/11/10);
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de setembro de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
