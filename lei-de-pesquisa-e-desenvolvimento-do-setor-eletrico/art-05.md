@@ -5,4 +5,5 @@ b) 20% (vinte por cento) serão destinados ao Programa Nacional de Conservação
 II - no mínimo 30% (trinta por cento) dos recursos referidos nos incisos I, II e III do art. 4º desta Lei serão destinados a projetos desenvolvidos por instituições de pesquisa sediadas nas regiões Norte, Nordeste e Centro-Oeste, incluindo as respectivas áreas das Superintendências Regionais;
 III - as instituições de pesquisa e desenvolvimento receptoras de recursos deverão ser nacionais e reconhecidas pelo Ministério da Ciência e Tecnologia - MCT;
 IV - as instituições de ensino superior deverão ser credenciadas junto ao Ministério da Educação - MEC.
-Parágrafo único. Os investimentos em eficiência energética previstos no art. 1º desta Lei deverão priorizar iniciativas e produtos da indústria nacional, conforme regulamentação a ser definida pela Aneel.
+§ 1º Os investimentos em eficiência energética de que trata o art. 1º deverão priorizar iniciativas e produtos da indústria nacional, conforme regulamento a ser editado pela Aneel.
+§ 2º A aplicação dos recursos em projetos de pesquisa e desenvolvimento e para a eficiência energética, de que tratam o art. 1º ao art. 3º, deverá estar orientada à busca do uso consciente e racional dos recursos energéticos e à modicidade tarifária quando os recursos forem destinados à Conta de Desenvolvimento Energético - CDE.
