@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    PENAL E PROCESSO PENAL. APELAÇÃO. TRÁFICO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. CABIMENTO.
+    01. Vê-se que o julgador deixou de aplicar a minorante por entender que a grande quantidade de droga, aliada ao fato de que o apelante recebeu a droga de terceiro para entregar a um custodiado indica colaboração à criminalidade organizada.
+    02. Ocorre que o cenário em que ocorreu o delito é típico de pessoa que realiza a função de mula do tráfico e não está comprometida habitualmente com atividades criminosas, levando em consideração que o réu é primário, não possui maus antecedentes, além de que não há evidências concretas de que ele integre organização criminosa ou se dedique a atividades criminosas, razão pela qual faz jus à minorante.
+    03. Neste contexto, reconheço a minorante e diminuo a sanção antes aplicada (05 anos de reclusão) em 1/6, tendo em vista a expressiva quantidade de droga (500g de maconha), perfazendo 04 (quatro) anos e 02 (dois) meses de reclusão.
+    04. Mantenho o aumento da pena em 1/6 pela presença da majorante prevista no art. 40, III da Lei de Drogas, ficando a pena definitiva do agente redimensionada do montante de 05 (cinco) anos e 10 (dez) meses de reclusão para 04 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão a ser cumprida em regime inicial semiaberto, nos termos do art. 33, § 2º, 'b' do Código Penal. Diminui-se também a pena de multa para o patamar de 410 (quatrocentos e dez) dias-multa, à razão de 1/30 do salário-mínimo vigente ao tempo dos fatos.
+    05. Por fim, incabível a substituição da pena privativa de liberdade por restritivas de direito, haja vista o disposto no art. 44, I do CPB.
+    06. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XLVI, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Adentrando ao mérito do recurso, vê-se que o julgador deixou de aplicar a minorante por entender que a grande quantidade de droga, aliada ao fato de que o apelante recebeu a droga de terceiro para entregar a um custodiado indica colaboração à criminalidade organizada.
+    Ocorre que o cenário em que ocorreu o delito é típico de pessoa que realiza a função de mula do tráfico e não está comprometida habitualmente com atividades criminosas, levando em consideração que o réu é primário, não possui maus antecedentes, além de que não há evidências concretas de que ele integre organização criminosa ou se dedique a atividades criminosas, razão pela qual faz jus à minorante.
+    Neste contexto, reconheço a minorante e diminuo a sanção antes aplicada (05 anos de reclusão) em 1/6, tendo em vista a expressiva quantidade de droga (500g de maconha), perfazendo 04 (quatro) anos e 02 (dois) meses de reclusão.
+    Mantenho o aumento da pena em 1/6 pela presença da majorante prevista no art. 40, III da Lei de Drogas, totalizando 04 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão.
+    Portanto, fica a pena definitiva do agente redimensionada do montante de 05 (cinco) anos e 10 (dez) meses de reclusão para 04 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão a ser cumprida em regime inicial semiaberto, nos termos do art. 33, § 2º, 'b' do Código Penal. Diminui-se também a pena de multa para o patamar de 410 (quatrocentos e dez) dias-multa, à razão de 1/30 do salário-mínimo vigente ao tempo dos fatos.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de setembro de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
