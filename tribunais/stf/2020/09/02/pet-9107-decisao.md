@@ -1,0 +1,19 @@
+Decisão: Trata-se Petição apresentada por Carlos Alexandre Klomfahs, apontando como requerido o Tribunal de Justiça do Estado de São Paulo.
+    Em síntese, relata que as decisões dos Juízes do TJSP que deferem a reintegração de posse sem qualquer tipo de apoio à população desalojada violam o Princípio da Dignidade da Pessoa Humana.
+    Acrescenta que “as decisões de magistrados do Tribunal de Justiça do Estado de São Paulo que vem violando a dignidade da pessoa humana, inclusive de idosos, crianças e pessoas com deficiências, em plena pandemia internacional, deferindo em reintegração de posse de pessoas já debilitadas pelo desemprego, pela fome e pela falta de moradia, em razão da doença internacional da COVID-19, com uso da força policial, sem a presença do Ministério Público ou Defensor Público, sem plano de alocação das pessoas desabrigadas, sem a presença do Conselho Tutelar e sem apoio de secretaria de assistência social, para os devidos fins de registro e colocação prioritária em programas de habitação.  (eDOC 1, p. 14).
+    Pleiteia que “seja determinado a todos os magistrados do país a proibição temporária de reintegração de posse sem antes submeter o caso ao Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc) Social, a conciliação e a mediação para, no mínimo, oferecer garantias de sobrevivência às pessoas sem moradia; ou sem intimação prévia, sem intervenção do Ministério Público e Defensoria Pública, quando presentes pessoas (crianças, idosos, pessoas com deficiência) em situação de extrema vulnerabilidade, pela decretação da OMS de Emergência de Saúde Pública de Importância Internacional (ESPII).”(eDOC 1, p. 2)
+    Requer, portanto, a realização de audiência pública virtual com os presidentes dos Tribunais de Justiça, objetivando a proibição temporária de reintegração de posse sem antes submeter os casos ao Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc) Social. (eDOC 1).
+    É o relatório.
+    Decido.
+    Conforme se verifica do teor da “Petição Constitucional”, objetiva o cidadão a proibição de reintegração de posse sem que haja prévia audiência de conciliação, a ser realizada com o Centro Judiciário de Solução de Conflitos e Cidadania/SP.
+    Ou seja, trata-se, em verdade, de ação de caráter objetivo, apresentada por pessoa natural. Ausente, portanto, a legitimidade ativa ad causam para a propositura.
+    Em situações análogas, o Supremo Tribunal Federal tem admitido que o Relator, monocraticamente, negue seguimento às ações propostas por ausência de legitimidade do cidadão para ingressar com ação de caráter objetivo. Nesse sentido, cita-se, por exemplo, a ADI 5.957-AgR e a ADI 5.721, de Relatoria do Ministro Roberto Barroso.
+    Outrossim, de acordo com art. 102, I, “n”, da Constituição Federal, compete ao STF processar e julgar, originariamente, “a ação em que todos os membros da magistratura sejam direta ou indiretamente interessados, e aquela em que mais da metade dos membros do tribunal de origem estejam impedidos ou sejam direta ou indiretamente interessados”.
+    No caso, não se verifica a hipótese constitucionalmente consagrada no referido texto constitucional, qual seja, a de que “todos os membros da magistratura” teriam interesse no processamento da Petição em exame, considerando que a interpelação aponta para as decisões de magistrados do Tribunal de Justiça do Estado de São Paulo.
+    Ante o exposto, diante da ilegitimidade ativa ad causam do requerente e da ausência de competência desta Corte para análise da interpelação, com fundamento no artigo 21, § 1º, do RISTF, não conheço da presente petição.
+    Com a preclusão desta decisão, arquivem-se os presentes autos.
+    Publique-se. Intimem-se.
+    Brasília, 2 de setembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
