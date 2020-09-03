@@ -1,0 +1,25 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1018424-95.2020.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por WESLEY ZAPATEIRO em virtude da decisão proferida pelo juiz da 2.a Vara da Comarca de Jaciara que, nos autos da Ação de Manutenção de Posse ajuizada em face de GILBERTO DE ALMEIDA PEREIRA, indeferiu a medida liminar pleiteada.
+Inconformada, a Agravante requer a reformada da decisão objurgada, sob o argumento de que esta vai de encontro ao entendimento pacificado do Superior Tribunal de Justiça e do Tribunal de Justiça do Estado de Mato Grosso.
+Aduz que os contratos que possuem cláusulas resolutória expressa, é imprescindível a prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda para que seja consumada a resolução do contrato, diante da necessidade de observância do princípio da boa-fé objetiva.
+Ressalta que “comprovou o preenchimento dos requisitos objetivos do art. 561 do CPC para o processamento em via especial, e para que fosse mantido na posse veículo objeto da lide”.
+Alega que o contrato firmado entre as partes, no qual já pagou R$ 40.000,00 (quarenta mil reais), bem como o desembolso de R$ 23.799,08 (vinte e três mil setecentos e noventa e nove reais) com manutenção do veículo, somados aos valores pagos a título de juros, comprovam de maneira inequívoca a sua posse sobre o bem móvel objeto do contrato.
+Por fim, aduz que ao caso se aplica a teoria do adimplemento substancial, a qual veda a extinção do negócio jurídico pelo simples fato do descumprimento, se este restringir-se a obrigações de pequena importância dentro do contrato a ser analisado.
+Forte nesses argumentos, pugna pela concessão do efeito ativo, a fim de que seja mantido na posse do veículo utilitário automotor (caminhão) VOLVO/FM 12380 6X4T, tipo Cavalo Trator, ano de fabricação 2000, Chassi 9BVA4B5DOYE671762, Placa CLU – 6733, Cor Branca, Categoria Aluguel, Renavan no 00735505756.
+Eis o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois se enquadra na hipótese do artigo 1.015, inciso I, do CPC, bem como foi instruído com os documentos necessários para sua análise e conhecimento.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Diante de tais premissas, é patente que ao afirmar que há necessidade de agregar o efeito suspensivo/ativo, incumbe à parte demonstrar de forma clara e segura em que consiste a probabilidade do direito alegado e, também, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Da análise dos autos, não entrevejo a confluência dos requisitos ensejadores da concessão do pedido liminar, isso porque, neste juízo de cognição sumária, não se vislumbra os requisitos do art. 561 do CPC, pois não há falar em turbação, já que na cláusula 6.a do contrato firmado entre as partes está expresso que diante da inadimplência é direito do Vendedor/Agravado reaver o bem.
+Ademais, em relação ao adimplemento substancial, a jurisprudência firmou entendimento no sentido de que é necessário que o devedor comprove o pagamento de valor igual ou superior a 90% (noventa por cento) do valor contratado para que seja plausível invocar a teoria do adimplemento substancial e obstar a rescisão contratual, o que não ficou demonstrado no caso, eis que o Agravante pagou apenas os R$ 40.000,00 (quarenta mil reais) de entrada, restando um saldo devedor de R$ 42.000,00 (quarenta e dois mil reais), o que afasta a probabilidade do direito invocado.
+Do mesmo modo, também, não visualizo o risco de dano grave ou de difícil reparação, eis que para justificar o deferimento do pleito liminar não basta a aparente situação de prejuízo, mas é imprescindível a comprovação do perigo de que este prejuízo se torne irreversível ou de improvável recomposição caso a medida seja concedida apenas na fase de julgamento do mérito recursal, o que efetivamente não foi observado pelo Agravante.
+Em outras palavras, tenho que a espera pelo regular processamento deste Recurso não acarretará lesão ao direito do Agravante, motivo pelo qual, não vejo óbice para que se aguarde o processamento regular do Agravo.
+Dessa forma, ausentes os requisitos necessários para concessão da liminar recursal, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz singular.
+Intimem-se a parte Agravada para, querendo, apresentar resposta no prazo legal.
+Cumpra-se.
+Cuiabá, 03 de setembro de 2020.
+Desa. Clarice Claudino da Silva
+Relatora
