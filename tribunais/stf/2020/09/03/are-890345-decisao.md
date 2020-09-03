@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Apelação cível. Ação de cobrança. Fiscal de Rendas Estadual. Pleito direcionado em face da Fazenda Pública no sentido de perceber o montante de trinta por cento (30%) sobre o valor recolhido a titulo de multa decorrente de três (03) autos de infrações lavrados no exercido de atividade laborativa, com fulcro no artigo 50, alínea "b" da Lei Estadual no 1.650/90. Sentença de primeiro grau que julgou improcedente o pedido inicial por considerar a inconstitucionalidade da mencionada norma. Ponte controvertido da presente demanda que reside na apreciação da constitucionalidade do beneficio instituído em favor de servidores públicos. Lei objeto de revogação posterior. Produção de efeitos em relação aos atos praticados durante o período de vigência. órgão Especial que, instado a se manifestar com relação à prejudicial de inconstitucionalidade, pela segunda vez, concluiu pela incompatibilidade do dispositivo legal com a Carta Magna. Pedido de cobrança carecedor de embasamento jurídico válido. Honorários sucumbenciais que, O contudo, merecem redução de 5.000,00 (cinco mil reais) para 2.500,00 (dois mil e quinhentos reais), consideradas as peculiaridades da causa. Apelo parcialmente provido nesse sentido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput; 37, X, da CF. Sustenta, em essência, a constitucionalidade da Lei estadual n° 1.650/1990, que estabelecia um percentual devido ao auditor fiscal sobre as multas tributárias aplicadas aos contribuintes.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “O recorrente, em suas razões, não indicou o artigo da Constituição da República considerado violado. Tal deficiência atrai a aplicação da Súmula n° 284 do STF, o que inviabiliza a admissão do presente. Nesse sentido, confira-se:
+    […]
+    À conta de tal fundamento, DEIXO DE ADMITIR o recurso extraordinário interposto.”
+    O Supremo Tribunal Federal reconheceu a repercussão geral alusiva à matéria no RE 835.291 (Tema 934), em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ADMINISTRATIVO. AUDITORES FISCAIS. ADICIONAL DE PRODUTIVIDADE FISCAL. MULTAS. PARTICIPAÇÃO NOS VALORES ARRECADADOS. PROIBIÇÃO DE VINCULAÇÃO DE RECEITAS DE IMPOSTOS A ORGÃO, FUNDO OU DESPESA. QUESTÃO CONSTITUCIONAL QUE ULTRAPASSA OS INTERESSES DAS PARTES. RELEVÂNCIA JURÍDICA, SOCIAL E ECÔNOMICA. I - Possui repercussão geral a controvérsia referente ao exame da constitucionalidade de norma que vincula parte da arrecadação de multas tributárias para o pagamento de auditores fiscais. II - Repercussão geral reconhecida.” (RE 835291 RG, Rel. Min. Ricardo Lewandowski, Tribunal Pleno)
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática de repercussão geral.
+    Publique-se.
+     Brasília, 03 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
