@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A Turma Recursal, alterando o entendimento do Juízo, julgou procedente o pedido de concessão de benefício previdenciário, consideradas as premissas fáticas. No extraordinário, o recorrente aponta a violação dos artigos 2º, 97, 195, § 5º, e 201 da Constituição Federal. Insiste na inviabilidade da aposentadoria por idade híbrida, nos termos da Lei nº 8.213/91. Diz contrariado o princípio da separação dos Poderes. Entende inobservada a cláusula de reserva de Plenário.
+    2. Quanto à evocação do artigo 97 da Lei Maior, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    Colho os seguinte trechos do acórdão recorrido:
+    Com efeito, em atenção à tese assentada em 04.09.2019, para fins de concessão de aposentadoria por idade híbrida, o tempo de serviço rural anterior ao advento da Lei nº 8.213/1991 pode ser computado como tempo de carência:
+    1) ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3º da Lei nº 8.213/1991;
+    2) seja qual for a predominância do labor misto exercido no período de carência;
+    3) seja qual for o tipo de trabalho (rural ou urbano) exercido no momento do implemento do requisito etário ou do requerimento administrativo.
+    Assim sendo, o tempo de serviço rural, que é anterior ao advento da Lei nº 8.213/1991, pode ser computado como tempo de carência para fins de concessão da pretendida aposentadoria por idade híbrida.
+    No caso, o período de tempo de serviço rural remoto, compreendido entre 21/07/1965 e 13/03/1967, foi reconhecido na sentença ora recorrida, exceto para fins de contagem como tempo de carência, também tendo sido reconhecido pela sentença, inclusive para fins de carência, o período de 01/01/2016 a 31/07/2016.
+    Destarte, considerando que, por ter nascido em 21/07/1953, a autora completou o requisito etário previsto no caput do art. 48 da Lei nº 8.213/1991 em 2013 (60 anos), bem como preencheu o requisito de carência mínima de exigido pelo art. 142 deste mesmo diploma legal em relação ao ano do implemento do requisito etário (2013 – 180 meses), já que pode acrescentar/agregar como tempo de carência a totalidade do tempo de serviço rural reconhecido judicialmente (21/07/1965 a 13/03/1967 e 01/01/2016 a 31/07/2016 – 28 meses) ao tempo de serviço e de carência já reconhecido administrativamente (períodos de 1973 a 2016 ou 163 meses) (evento 15 – PROCADM3 - fls. 2/3), totalizando 191 meses computáveis para fins de carência da aposentadoria por idade híbrida de que cuida o § 3º do já citado art. 48 da Lei nº 8.213/1991, com a redação dada pela Lei nº 11.718/2008, o voto é no sentido de conceder aposentadoria por idade híbrida a contar da DER em 05/01/2018, observada a prescrição qüinqüenal, dando provimento ao recurso da parte autora.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 3 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
