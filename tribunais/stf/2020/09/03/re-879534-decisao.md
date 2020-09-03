@@ -1,0 +1,19 @@
+Despacho:
+    Vistos.
+    A Presidência da Corte determinou a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral (Tema n. 69).
+    Os autos retornaram a esta Corte com despacho da Vice-Presidência do Tribunal a quo, do qual transcrevo o seguinte trecho:
+    “Quanto à matéria debatida, ao apreciar o Tema 69 da Repercussão Geral, o Supremo Tribunal Federal assentou o entendimento no sentido de que o ICMS não deve integrar a base de cálculo para a incidência do PIS e da COFINS.
+    Todavia, o acórdão recorrido limitou os efeitos da presente ação até 31.12.2014, na medida em que a partir de 01.01.2015 passou a viger a Lei nº 12.973/2014, que alterou o quadro normativo da matéria e não foi analisada expressamente pelo STF.
+    Neste contexto, entendo correta a admissão do recurso para que o STF possa analisar a (in)correção da limitação temporal dos efeitos da aplicação da tese firmada no Tema 69 da repercussão geral. Aliás, em recentes decisões liminares, analisando recursos semelhantes ao proposto pela parte, a Corte Suprema manifestou-se no sentido de que "o órgão reclamado limitou temporalmente os efeitos da aplicação da tese firmada no tema 69 da repercussão geral, mediante superação do juízo constitucional realizado pelo Supremo Tribunal Federal, com base na interpretação de normas infraconstitucionais que já vigiam à época do julgado paradigma".
+    Assim, em observância aos princípios da celeridade e da economia processual, e face à ineficácia de eventual remessa dos autos à turma julgadora para retratação com base no tema referido, o recurso merece prosseguir, tendo em conta o devido prequestionamento da matéria relativa aos dispositivos supostamente contrariados. Além disso, encontram-se preenchidos os demais requisitos de admissibilidade.”
+    Examinados os autos, verifico que o Supremo Tribunal submeteu as questões trazidas no presente processo à sistemática da repercussão geral (Recurso Extraordinário n. 574.706, Tema nº 69): repercussão geral reconhecida e mérito julgado.
+    É certo que o Plenário da Suprema Corte já assentou que a publicação do acórdão de mérito de tema com repercussão geral reconhecida autoriza o julgamento imediato de causas que versem sobre a mesma matéria. Vide:
+    “(...)
+    REPERCUSSÃO GERAL – ACÓRDÃO – PUBLICAÇÃO – EFEITOS – ARTIGO 1.040 DO CÓDIGO DE PROCESSO CIVIL. A sistemática prevista no artigo 1.040 do Código de Processo Civil sinaliza, a partir da publicação do acórdão paradigma, a observância do entendimento do Plenário, formalizado sob o ângulo da repercussão geral” (RE nº 579.431/RS-ED, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJe de 22/6/18).
+    Entretanto, foram opostos embargos de declaração no referido paradigma da repercussão geral, ainda pendentes de julgamento, nos quais se suscita, dentre outros pontos, a modulação dos efeitos do acórdão de mérito. É certo, também, que há várias decisões, inclusive da própria relatora do leading case da repercussão geral, determinando o sobrestamento de recursos extraordinários que tratam do mencionado tema até o julgamento dos referidos embargos declaratórios (Dentre outros: RE nº 1.238.731/SC, Relatora a Ministra Cármen Lúcia, DJe de 24/10/2019; RE nº 1.233.440/RS, Relator o Ministro Celso de Mello, DJe de 17/10/2019; RE nº 1.238.092/RS, Relator o Ministro Roberto Barroso, DJe de 28/10/2019; e RE nº 1.240.949/SC, Relator o Ministro Ricardo Lewandowski , DJe de 28/10/2019).
+    Pelo exposto, mantenho a devolução destes autos ao Tribunal de origem para que, após a conclusão do julgamento dos embargos de declaração no RE nº 574.706/PR, sejam observados os procedimentos previstos nos incs. I e II do art. 1.030 do Código de Processo Civil (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de setembro de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
