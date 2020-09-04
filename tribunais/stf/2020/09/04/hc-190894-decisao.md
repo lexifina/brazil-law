@@ -1,0 +1,33 @@
+Decisão: Trata-se de habeas corpus impetrado por João Pedro de Oliveira Masson, em favor de Eder Rafael Martins, contra decisão monocrática proferida por Ministro do STJ, nos autos do HC 607.886/SP.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDER RAFAEL MARTINS, apontando como autoridade coatora Desembargadora do Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2187857- 63.2020.8.26.0000.
+    Noticiam os autos que o paciente foi preso em flagrante em 12.07.2020 por ter, supostamente, cometido delitos previstos na Lei n. 11.343/2006, tendo a custódia sido convertida em preventiva.
+    Inconformada, a defesa impetrou prévio writ na origem, que foi liminarmente indeferido por ter pedido idêntico ao de outro habeas corpus já em trâmite na Corte local.
+    Nesta via, sustenta o impetrante a ausência de fundamentação idônea para justificar o decreto de segregação cautelar do paciente, destacando que a medida estaria embasada na gravidade abstrata do delito, reputando não atendidos os requisitos autorizadores da preventiva, previstos no art. 312 do Código de Processo Penal.
+    Argumenta que o boletim de ocorrência não apresentaria qualquer indício de autoria, que o paciente negou a prática dos crimes e que não teria sido flagrado cometendo qualquer um dos verbos núcleos do tipo previsto no art. 33, caput, da Lei de Drogas.
+    Alega que, embora o habeas corpus impetrado na origem tenha sido julgado prejudicado, o outro writ em tramitação no Tribunal estadual estaria concluso para decisão há mais de 14 dias, causando prejuízo ao paciente, que se encontra segregado sem qualquer indício aparente de ser o autor do delito investigado.
+    Realça as condições pessoais favoráveis do acusado, que teria cooperado com a autoridade policial, possuiria residência fixa no distrito da culpa, família estruturada e trabalho idôneo, destacando, ainda, que o delito em tese praticado não teria sido cometido com violência ou grave ameaça, predicados que lhe garantiriam o direito de responder à ação penal em liberdade.
+    Aduz que não teria sido demonstrado, com base em elementos concretos, como a liberdade do paciente poderia oferecer risco à ordem pública, à conveniência da instrução criminal ou à aplicação da lei penal.
+    Assevera a excepcionalidade da medida extrema, enfatizando que o acusado faria jus à substituição da preventiva por medidas cautelares descritas no art. 319 do Código de Processo Penal.
+    Por fim, reforça a necessidade do acolhimento da presente pretensão, diante da Recomendação n. 62 do Conselho Nacional de Justiça, que visa à redução dos riscos de disseminação do novo coronavírus (COVID-19).
+    Requer, liminarmente e no mérito, a concessão da ordem constitucional para que seja revogada a prisão preventiva do paciente, expedindo-se alvará de soltura em seu favor a fim de que possa responder ao processo em liberdade”. (eDOC 8)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observe-se o teor do decreto prisional:
+    “Policiais militares em patrulhamento averiguando denúncia sobre tráficos de drogas abordaram um indivíduo chamado Gabriel em frente sua residência que empreendeu fuga em uma motocicleta após avistar a guarnição. Durante a ação, os agentes visualizaram o Indiciado jogar no chão um “kit” contendo substância constatada posteriormente como cocaína. No imóvel, estavam mais duas pessoas, Elisângela e Eder, onde após buscas foi encontrada mais desse entorpecente. Verifico que Eder e Elisangela registram antecedentes criminais, inclusive, pelo mesmo delito tipificado”. (eDOC 6)
+    Conforme se vê, colhe-se dos autos que “Eder e Elisangela registram antecedentes criminais, inclusive, pelo mesmo delito tipificado”, a evidenciar risco concreto de reiteração delitiva.
+    A esse respeito, esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito e na possibilidade concreta de reiteração delitiva, de modo que não há constrangimento ilegal a autorizar a concessão da ordem. Precedentes: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli; HC 175.086, de minha relatoria, DJe 10.9.2019; e HC 181.056, assim ementado:
+    “Agravo regimental em habeas corpus. 2. Prisão preventiva. Revogação. Paciente reincidente. Impossibilidade. Jurisprudência consolidada no sentido de ser idônea a custódia cautelar decretada para resguardo da ordem pública considerada a gravidade concreta do crime e a possibilidade de reiteração delitiva. Medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social. 3. Agravo regimental desprovido.” (AgR no HC 181.056, de minha relatoria, Segunda Turma, 7.4.2020)
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 4 de setembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
