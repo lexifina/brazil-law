@@ -1,0 +1,12 @@
+GABINETE DO DES. PAULO DA CUNHA
+RECURSO DE APELAÇÃO CRIMINAL 0003836-39.2019.8.11.0064 - CLASSE 417 – COMARCA DE RONDONÓPOLIS.
+APELANTES: DAYANE SOUZA DE OLIVEIRA
+DOUGLAS PEREIRA DOS SANTOS
+APELADO: MINISTÉRIO PÚBLICO
+Vistos.
+À Douta Procuradoria-Geral de Justiça.
+Após, voltem-me os autos conclusos.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Desembargador PAULO DA CUNHA
+Relator
