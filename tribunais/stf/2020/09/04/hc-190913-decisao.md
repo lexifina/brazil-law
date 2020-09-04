@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pela Ministra LAURITA VAZ, do Superior Tribunal de Justiça, no HC 609.055/GO.
+    Consta dos autos, em síntese, que o paciente (nascido em 20/10/1993) foi preso em flagrante, convertido em prisão preventiva, pela prática do crime de tráfico de drogas (arts. 33 da Lei 11.343/2006), em razão da apreensão do total de 1,522kg de maconha e 55 comprimidos inteiros e 8 comprimidos fragmentados de ecstasy, avaliados em R$ 13.551,00.
+    Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de Goiás, que denegou a ordem.
+    Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, que indeferiu a medida acauteladora, nos termos seguintes:
+    A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido e do perigo na demora. Este pode até ser admitido; aquela, ao revés, não se evidencia estreme de dúvidas, mormente porque o Tribunal de origem consignou que "a audiência de instrução e julgamento foi reagendada para o dia 15 de outubro de 2020, data que já se aproxima, face a situação de calamidade pública que acometeu todo o país, em razão da pandemia causada pelo COVID-19, situação perfeitamente justificável, à luz da razoabilidade" (fl. 11), o que afasta, ao menos em análise prévia, a existência de desídia na condução do feito.
+    Como se sabe, a orientação consolidada do Superior Tribunal de Justiça é no sentido de que "[a] questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC 398.067/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+    Assim, o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável neste juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+    Ante o exposto, INDEFIRO o pedido liminar.
+    Nesta ação, a impetrante alega, em suma, a ausência dos pressupostos autorizadores da prisão cautelar. Enfatiza que o paciente se encontra segregado […] desde o dia 14/11/2019, por suposta infração ao art. 33 da lei 11.343/06, portanto, há duzentos e oitenta e três (290) dias, sendo que a instrução criminal sequer se iniciou.
+    Requer, assim, a concessão da ordem, para que seja revogado o decreto prisional, ainda que mediante a imposição de medidas cautelares diversas.
+    É o relatório. Decido.
+    Nos termos da Súmula 691/STF, não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus voltado contra decisão proferida por relator que indefere o pedido de liminar em impetração requerida a tribunal superior, sob pena de indevida supressão de instância. O rigor na aplicação desse enunciado tem sido abrandado por julgados desta CORTE somente em caso de manifesto constrangimento ilegal, prontamente identificável (HC 138.946, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 128.740, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ROSA WEBER, Primeira Turma, DJe de 24/10/2016; HC 138.945- AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 7/3/2017).
+    Na espécie, entretanto, não se constata a presença de flagrante ilegalidade apta a justificar a intervenção antecipada da SUPREMA CORTE.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 4 de setembro de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
