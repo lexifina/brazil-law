@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO CÍVEL. PROFESSOR ESTADUAL. PISO NACIONAL. LEI Nº 11.738/2008. CONSTITUCIONALDIADE RECONHECIDA PELA SUPREMA CORTE. LEI ESTADUAL 5539/2009. PRETENSÃO DE PAGAMENTO PROPORCIONAL À JORNADA DE TRABALHO. CABIMENTO. PROCEDÊNCIA QUE SE MANTÉM.
+    (...)
+    8. Em sede de embargos de declaração, a Corte Máxima modulou os efeitos da declaração de constitucionalidade, ressaltando que o pagamento do piso do magistério como vencimento básico inicial da carreira passaria a ser aplicável a partir de 27/04/2011, data do julgamento da demanda.
+    9. Nesse diapasão, somente os profissionais que, a partir de 27/04/2011, percebessem valores inferiores ao piso legalmente fixado seriam beneficiados com as disposições legais, não havendo qualquer repercussão para os demais professores que, naquela data, já auferiam vencimentos básicos superiores ao estabelecido na lei em comento.
+    (...)
+    11. A Lei Estadual nº 5.539/2009, no artigo 3º, estabeleceu que o vencimento base dos cargos guardará o interstício de 12% entre referências, motivo pelo qual deverá a parte ré adequar o vencimento base da autora, de acordo com sua carga horária, com base no piso salarial nacional e aplicando esse diploma legal.
+    12. Noutro giro, registre-se que a aludida lei utiliza-se da carga horária de 40 (quarenta horas) semanais como parâmetro para a fixação do piso salarial, devendo aqueles servidores que exercem jornada de trabalho inferior receber os vencimentos de forma proporcional, nos termos do § 3º, artigo 2º, da mesma legislação.
+    13. Assim, a parte autora comprovou o fato constitutivo do seu direito, ônus que lhe incumbia, na forma do inciso I, do artigo 373 do Código de Processo Civil. Precedente do STJ.
+    (...)"
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º; 60, § 4º, inciso I; 151, inciso III; 206, inciso VIII, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    Confira-se, ainda, em caso análogo ao presente, o seguinte julgado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROFESSOR DA REDE PÚBLICA ESTADUAL. EDUCAÇÃO BÁSICA. LEI FEDERAL 11.738/2008. PISO SALARIAL. CONSTITUCIONALIDADE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 4.167. REFLEXOS NA CARREIRA. ESCALONAMENTO, VANTAGENS E GRATIFICAÇÕES. LEI COMPLEMENTAR 115/1998 E LEI 5.580/1998 DO ESTADO DO ESPÍRITO SANTO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. PENDÊNCIA DE RECURSO ESPECIAL. AUSÊNCIA DE CONDIÇÕES DE ADMISSIBILIDADE DO APELO EXTREMO. DESNECESSÁRIO O SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.262.639-AgR/ES, Primeira Turma, Rel. Min. Luiz Fux, DJe de 5/8/2020).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 4 de setembro de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
