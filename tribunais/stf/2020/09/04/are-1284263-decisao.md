@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    RECURSO DE REVISTA REGIDO PELA LEI 13.015/2014. SOCIEDADE DE ECONOMIA MISTA. DISPENSA IMOTIVADA DO RECLAMANTE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR PREVISTO EM NORMA INTERNA DA RECLAMADA. AUSÊNCIA DE TRATAMENTO ISONÔMICO. É pacífico no âmbito desta Corte o entendimento de que a demissão de empregados da Administração Indireta não pressupõe nenhum tipo de procedimento prévio, tampouco exige anterior motivação, uma vez que tais entidades, quanto às relações trabalhistas, sujeitam-se às normas de direito privado, nos termos do art. 173, § 1.º, II, da Constituição Federal. Nesse sentido, aliás, dispõe da Orientação Jurisprudencial 247, I, da SBDI-1 do TST. Tal entendimento restou mantido mesmo depois do julgamento do RE-589.998/PI pela Suprema Corte, uma vez que a tese com repercussão geral ali firmada limitou-se a atingir os empregados da Empresa Brasileira de Correios e Telégrafos – ECT. No caso dos autos, no entanto, extrai-se do acórdão recorrido que a preposta da reclamada havia confirmado que as dispensas dos empregados eram precedidas de procedimento administrativo disciplinar, situação não constatada com o reclamante. Diante da delimitação fática registrada, revela-se patente a ausência de tratamento isonômico da empresa reclamada para com o autor. Assim, correta a decisão do Tribunal Regional que determinou a reintegração do reclamante no emprego e o pagamento da remuneração correspondente ao período de afastamento. Recurso de revista não conhecido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 173, §1º, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Confira-se, ainda, em caso análogo ao presente, o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRABALHISTA. DISPENSA IMOTIVADA. DECRETO ESTADUAL N. 21.325/1991. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.083.263-AgR, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 22/8/18).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de setembro de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
