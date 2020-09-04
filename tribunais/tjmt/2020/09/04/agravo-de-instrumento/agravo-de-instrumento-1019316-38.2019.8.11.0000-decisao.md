@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1019316-38.2019
+AGRAVANTE: MONTREAL LOGISTICA E TRANSPORTE RODOVIÁRIO LTDA EPP.
+AGRAVADA: RENASCER COMÉRCIO E REPRESENTAÇÕES LTDA.
+Vistos.
+Manifeste-se, a recorrente, sobre o teor da certidão de Id. 50881967. Informado o novo endereço, providencie, a Secretaria, nova intimação da parte agravada.
+Às providências.
+DES. DIRCEU DOS SANTOS
+Relator
