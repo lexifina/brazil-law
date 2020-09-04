@@ -1,0 +1,37 @@
+Trata-se de reclamação constitucional proposta por Eriberto da Nascimento Leite contra decisão proferida pelo Juízo da 23ª Vara do Juizado Especial Federal da 1ª Região da Seção Judiciária do Distrito Federal, nos autos do Processo 1037252- 73.2019.4.01.3400, que teria desrespeitado a autoridade do decidido por esta Corte na ADI 5.090-MC/DF, de relatoria do Ministro Roberto Barroso.
+    O reclamante narra o seguinte:
+    “[o] processo em epígrafe trata AÇÃO REVISIONAL DO FGTS DECLARATÓRIA DE NOVO ÍNDICE DE CORREÇÃO E CONDENATÓRIA DE PAGAMENTO DE VALORES, proposta em face de CAIXA ECONÔMICA FEDERAL, bem que o autor, ora Reclamante, busca a substituição do índice de correção monetária aplicado à sua conta vinculada do FGTS (Taxa Referencial - TR) pelo ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR - INPC ou pelo Índice de Preços ao Consumidor Amplo - IPCA, com o pagamento das diferenças decorrentes da alteração.
+     Ciente da tramitação da Ação Direta de Inconstitucionalidade nº 5.090 e da decisão do relator, Ministro LUÍS ROBERTO BARROSO, a despeito do deferimento de cautelar para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal, o reclamante formulou pedido, conforme prova exordial anexa (doc. 5), requerendo, após a distribuição, a suspensão do processo até que o Colendo STF decida sobre o mérito da ADI.
+    Ocorre que surpreendentemente, mesmo declarando veementemente estar ciente da ADI e da decisão que determinou a suspensão dos processos que versavam sobre a matéria, o juízo recorrido, para a total perplexidade do autor, descumpriu a ordem emanada pela suprema corte, conforme claramente se infere do seguinte trecho da decisão impugnada, cujo inteiro teor segue colacionado (doc. 6):
+    ‘Dispensado o relatório, nos termos do art. 38 da Lei nº. 9.099/95.
+    Não obstante a decisão proferida pelo Supremo Tribunal Federal na ADI 5090/DF, que determinou a suspensão de todas as ações que versam sobre a correção dos depósitos nas contas vinculadas ao FGTS pela taxa referencial (TR), considerando a grande quantidade de processos recentemente distribuídos relativos a essa matéria e a possibilidade de suspensão da ação pelo relator da Turma Recursal após interposição de eventual recurso, procedo ao julgamento da lide.
+    No mérito, nenhuma razão assiste à parte autora.’
+    Desconsiderando a ordem do STF, a juíza proferiu sentença com resolução do mérito, julgando improcedente os pedidos do autor, ora reclamante, conforme dispositivo colacionado abaixo:
+    ‘Em face do exposto, JULGO LIMINARMENTE IMPROCEDENTE O PEDIDO, extinguindo o feito com resolução de seu mérito, nos termos dos art. 332, inciso II, do Novo Código de Processo Civil.
+    Sem custas e sem honorários, nos termos do art. 55 da Lei nº. 9.099/95, aplicável à matéria por força do art. 1º. da Lei nº. 10.259/01.
+    Transitada em julgado, intime-se a parte ré (art. 332, § 2º., do NCPC) e arquivem-se os autos. Interposto recurso inominado, cite-se a parte recorrida para apresentar resposta no prazo de 30 (trinta) dias e, decorrido o prazo, remetam-se os autos à Turma Recursal, independentemente de juízo de admissibilidade.
+    Publique-se. Registre-se. Intimem-se.
+    CRISTIANE PEDERZOLLI RENTZSCH
+    Juíza Federal da 23ª vara da SJDF’.” (págs. 3-5 da inicial; grifos no original).
+    Nesse contexto, sustenta que,
+    “[...] este Colendo Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade 5.090, cujo relator é o Ministro LUÍS ROBERTO BARROSO, proferiu decisão monocrática na data de 06/09/2019 deferindo cautelar para determinar a suspensão de todos os processos judiciais que versem sobre a matéria (revisão de FGTS, com aplicação de novo índice em detrimento da TR), até julgamento do mérito pelo Supremo Tribunal Federal (doc. 7).
+    Essa decisão, por óbvio, vincula todo o Poder Judiciário, de modo que sua inobservância representa clara violação a uma determinação constitucional, desafiando reclamação com vistas a manutenção da competência da suprema corte.” (pág. 5 da inicial; grifos no original).
+    Ao final, requer:
+    “1) que seja declarada nula a sentença de mérito proferida pelo juízo reclamado, restabelecendo-se a suspensão do processo originário, até o julgamento do mérito da ADI nº 5.090 pelo Supremo Tribunal Federal, conforme decisão monocrática cautelar proferida pelo Ministro relator LUIZ ROBERTO BARROSO;
+    […]
+    4) ao final, que seja julgada totalmente procedente a presente Reclamação, para se garantir a autoridade de decisão deste Egrégio Tribunal, cassando-se a sentença proferida pelo juízo reclamado.” (págs. 6 e 7 da inicial).
+    A beneficiária do ato reclamando apresentou contestação, pugnando pela improcedência da presente reclamação (documento eletrônico 12).
+    A Procuradoria-Geral da República manifestou-se pela improcedência da reclamação (documento eletrônico 19).
+    A autoridade reclamada não prestou informações (documento eletrônico 17).
+    É o relatório. Decido.
+    Inicialmente, destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil.
+    No caso dos autos, conforme relatado, o reclamante insurge-se contra decisão proferida pelo Juízo da 23ª Vara do Juizado Especial Federal da 1ª Região da Seção Judiciária do Distrito Federal, nos autos do Processo 1037252- 73.2019.4.01.3400, que teria desrespeitado a autoridade do que decidido em 6/9/2019, no julgamento da medida cautelar na ADI 5.090/DF, de relatoria do Ministro Roberto Barroso, in verbis:
+    “Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal”.
+    Como se vê, no referido decisum, foi deferida a medida cautelar para suspender o trâmite de todos os processos que versem sobre a incidência da TR como índice de correção monetária dos depósitos de FGTS.
+    Sustenta ainda, que, além da aplicação indevida da TR, a tramitação ordinária do processo viola o decidido pelo STF na ADI 5.090-MC, pois o andamento da ação deveria estar suspenso.
+    Entendo que o Juízo reclamado contraria a decisão proferida na ADI 5.090-MC/DF, de forma que subsiste a necessidade de suspensão do processo na origem.
+    Isso posto, julgo procedente a reclamação para determinar a suspensão do Processo 1037252- 73.2019.4.01.3400, em trâmite na 23ª Vara do Juizado Especial Federal da 1ª Região da Seção Judiciária do Distrito Federal, até o pronunciamento definitivo desta Corte na ADI 5.090-MC/DF.
+    Publique-se.
+    Brasília, 4 de setembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
