@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1010967-12.2020.8.11.0000
+AGRAVANTE: NATALY EDUARDA LOPES ADAMS.
+AGRAVADO: FRANCILEI DE LIMA.
+Vistos.
+Cumpra-se a determinação lançada na decisão de Id. 45028482, remetendo-se os autos à d. Procuradoria de Justiça.
+Após, volte-me concluso.
+Des. DIRCEU DOS SANTOS
+Relator
