@@ -1,0 +1,42 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1038963-90.2019.8.11.0041
+Vistos etc.
+Trata-se de Recurso de Apelação interposto por ELLEN CAROLINE SANTOS SILVA em virtude da sentença proferida pelo Juiz da 3.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Cobrança de Seguro Obrigatório c/c Danos Morais ajuizada em desfavor da PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, julgou parcialmente procedente o pedido inicial e condenou a Recorrida ao pagamento da indenização securitária em R$ 3.375,00 (três mil trezentos e setenta e cinco reais), acrescidos de correção monetária pelo a partir da data do acidente (20/11/2018) e juros de mora de 1% ao mês desde a citação.
+Ao final, condenou a Seguradora ao pagamento das custas e honorários advocatícios que arbitrou em 10% (dez por cento) sob o valor da condenação.
+Em suas razões, a Recorrente alega que a verba honorária foi fixada em quantia ínfima e, por isso, deve ser arbitrada por apreciação equitativa, nos termos do § 8.o do artigo 85 do CPC/15.
+No mais, sustenta ser devida a incidência da correção monetária a partir da data em que entrou em vigor a medida provisória no 340/2006, a qual alterou o valor da indenização e fixou em até R$ 13.500,00, ou seja, dia 29/12/2006.
+Forte nesses argumentos, pugna pela reforma do decisum nesses pontos insurgidos.
+Contrarrazões apresentadas no ID. 55222035.
+É o relatório.
+DECIDO.
+As questões trazidas a debate referem-se à indenização de seguro obrigatório DPVAT. Acerca do tema, o Superior Tribunal de Justiça firmou entendimento sob a sistemática de Recursos Repetitivos (REsp 1483620 / SC, REsp 1418347 / MG, REsp 1388030 / MG, REsp 1303038 / RS, REsp 1357813 / RJ, REsp 1246432 / RS, REsp 1098365 / PR e REsp 1120615 / PR) e aprovou Súmulas abrangendo diversos aspectos da indenização securitária obrigatória, de modo que é possível decidir monocraticamente, com base no Verbete Sumular 568 do STJ.
+Consoante relatado, o Julgador monocrático calculou os honorários advocatícios com base no proveito econômico obtido pela Requerente. Entretanto, levando em consideração o montante da condenação (R$ 3.375,00) e o percentual fixado a título de verba honorária em 10% (dez por cento) sob o valor da condenação, conclui-se que não agiu com o costumeiro acerto, posto que a situação pede o arbitramento por equidade, como forma de preservar a justa remuneração pelo trabalho prestado.
+Como é cediço, quando o proveito econômico for irrisório, o artigo 85, § 8. o do CPC/15 determina que os honorários devem ser arbitrados consoante o § 2.o do artigo 85, verbis:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(...)
+§ 2o - Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido, ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos;
+I- o grau de zelo do profissional;
+II- o lugar da prestação do serviço;
+III- a natureza e a importância da causa;
+IV- o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. (sem grifo no original)
+Assim, mostra-se devida a modificação dos honorários advocatícios, eis que fixados com base no dispositivo que torna a quantia ínfima.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça, quando do julgamento do REsp 443.746/RS, verbis: “Os honorários advocatícios devem se pautar pela razoabilidade de seu valor, daí por que devem guardar autêntica relação com os valores em discussão”.
+Ademais,somado a isso está a apreciação equitativa da verba honorária, a qual deve “traduzir-se num valor que não fira a chamada lógica do razoável (...), pois em nome da equidade não se pode baratear a sucumbência nem elevá-la a patamares pinaculares”. (STJ, REsp. 147.346/PR - sem grifo no original).
+Por isso, considerando que a ação é de cobrança, em tramitação desde 2019, o trabalho desenvolvido pelo causídico ao distribuir a demanda, comparecer à audiência de conciliação, acompanhar o feito, bem como a condenação em indenizar a vítima no valor R$ 3.375,00 (três mil trezentos e setenta e cinco reais), infere-se que a quantia de R$ 1.200,00 (um mil e duzentos reais), melhor se amolda ao caso em apreço.
+De outro norte, é assente o entendimento de que a correção monetária em seguro obrigatório DPVAT começa a fluir a partir do evento danoso, conforme Verbete Sumular 580 do STJ.
+Nesse sentido também é o entendimento adotado por esta Câmara, verbis:
+APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA DE SEGURO DPVAT – PRESCRIÇÃO – INOCORRENCIA – SÚMULA 573 E 278 SO STJ – SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+(...) A correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7o do art. 5o da Lei no 6.194/1974, redação dada pela Lei no 11.482/2007, incide desde a data do evento danoso. STJ. 2a Seção. Aprovada em 14/09/2016, DJe 19/09/2016. (Súmula 580 – STJ). Os juros de mora na indenização do seguro DPVAT fluem a partir da citação. ( Súmula 426 – STJ) (TJ MT. Recurso de Apelação Cível n.o 54654/2012. Rel. Dr. Marcio Aparecido Guedes. 2.a Câmara de Direito Privado. Julgado em 25/07/2018. Publicado no DJE em 30/07/2018- sem grifo no original).
+EMBARGOS DE DECLARAÇÃO – RECURSO DE APELAÇÃO – AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT) – ACIDENTE DE TRÂNSITO COM MORTE OCORRIDO EM 1989 - OMISSÃO CONFIGURADA – BASE DE CÁLCULO DA INDENIZAÇÃO – SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO SINISTRO – LEI No. 6.194/74 – PRECEDENTES – INAPLICAÇÃO DA MP No. 340/2006, QUE FIXOU O TETO INDENIZATÓRIO EM R$ 13.500,00 - CORREÇÃO MONETÁRIA DA DATA DO SINISTRO - EFEITO MODIFICATIVO - EMBARGOS ACOLHIDOS.
+1. Encontra-se pacificado no Superior Tribunal de Justiça que o valor da indenização decorrente do seguro obrigatório (DPVAT) deve ser apurado com base no valor do salário mínimo vigente na data do evento danoso, monetariamente atualizado até o efetivo pagamento.2. Ao contrário do consignado no acórdão embargado, deve ser afastada a prévia conversão da moeda feita pelo MM. juízo de piso e, por consequência, ser determinado que a condenação se dê no valor de 40 salários mínimos, vigente à época do sinistro, com correção monetária também da data do sinistro (Súmula 43 do STJ), e juros de 1% ao mês desde a citação (STJ, AgRg no AREsp 46.024, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/02/2012, e Súmula 426), cujo montante deverá ser apurado em sede de liquidação de sentença, mantendo-se os demais termos da decisão.3.Embargos acolhidos. (TJMT. Embargos de Declaração n.o 150899/2017. Rel. Des. Sebastião de Moraes Filho. 2.a Câmara de Direito Privado. Julgado em 16/05/2018. Publicado no DJE em 25/05/2018 – sem grifo no original).
+Em relação aos juros de mora, estes devem fluir a partir da citação, conforme estabelece a Súmula 426 STJ: “Os juros de mora na indenização do seguro DPVAT fluem a partir da citação”.
+Esse é o entendimento jurisprudencial:
+DIREITO CIVIL. AÇÃO DE COBRANÇA. SEGURO DPVAT. MORTE. COMPROVAÇÃO. BOLETIM DE OCORRÊNCIA. CERTIDÃO DE ÓBITO. NEXO DE CAUSALIDADE COMPROVADO. JUROS DE MORA A PARTIR DA CITAÇÃO.SÚMULA 426 DO STJ. SENTENÇA PARCIALMENTE REFORMADA.
+1- O seguro DPVAT é regulamentado pela Lei no 6.194/1974, prevendo em seu art. 5o normas sobre o direito à indenização do seguro DPVAT. O pagamento da indenização será efetuado mediante simples prova do acidente e do dano decorrente, independentemente da existência de culpa, haja ou não resseguro. 2- Nos termos da Súmula no 426 do colendo Superior Tribunal de Justiça, "os juros de mora na indenização do seguro DPVAT fluem a partir da citação. 3- Recurso parcialmente provido.” (TJ-DF 20150111163584 0034201-24.2015.8.07.0001, Relator: JOSAPHA FRANCISCO DOS SANTOS, Data de Julgamento: 30/11/2016, 5a TURMA CÍVEL, Data de Publicação: Publicado no DJE : 31/01/2017 . Pág.: 638/665)
+No caso, o Juiz singular determinou a incidência dos juros e da correção monetária conforme entendimento majoritário, de modo que não há falar em reforma da sentença nesse ponto.
+Com essas considerações, dou parcial provimento ao Apelo e ajusto a verba honorária para R$ 1.200,00 (um mil e duzentos reais).
+Deixo de fixar os honorários advocatícios, porque de acordo com o STJ, “não cabe a condenação ao pagamento de honorários advocatícios recursais de sucumbência no caso de parcial provimento ao recurso”. (STJ. AgInt no AREsp 1451789/MS. Rel. Ministro Marco Aurélio Bellizze. 3.a Turma. Julgado em 19/08/2019. DJE 22/08/2019).
+Intimem-se.
+Cumpra-se.
+Cuiabá, 05 de setembro de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
