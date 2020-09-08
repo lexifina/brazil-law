@@ -1,0 +1,22 @@
+Decisão:
+    Cuida-se de suspensão de liminar ajuizada pela Fundação Universidade Federal de Mato Grosso (FUFMT) com o objetivo de sustar decisão proferida na Recuperação Judicial nº 102702-77.2019.8.11.0041, cujos efeitos foram mantidos após julgamento do Agravo de Instrumento nº 1009469-75.2020.8.11.0000, em trâmite no Tribunal de Justiça do Estado do Mato Grosso (TJMT), tendo determinado o
+    “bloqueio ‘on line’ (BACENJUD) de verba pública existente nas contas da FUMT para pagamento de crédito da Recuperanda [MJB VIGILÂNCIA E SEGURANÇA LTDA] (notas fiscais referentes a serviços prestados para a FUFMT) no montante de R$ 726.847,63 (setecentos e vinte e seis mil, oitocentos e quarenta e sete reais e sessenta e três centavos)”.
+    A FUFMT aduz que as decisões vergastadas “avançam sobre o patrimônio público sem a indispensável sistemática constitucional do regime de precatórios (artigo 100 da Constituição da República Federativa do Brasil)”, além de violarem o postulado da impenhorabilidade dos bens públicos.
+    Pondera que, administrativamente, foi instaurado processo para apuração de infrações cometidas pela empresa contratada para lhe prestar serviços “que afetam diretamente o an e o quantum debeatur”, do que origina “o direito de retenção da UFMT contra a [MJB VIGILÂNCIA E SEGURANÇA LTDA]”.
+    Sustenta ainda, que o juízo da recuperação judicial é absolutamente incompetente para solucionar eventual controvérsia entre a empresa prestadora de serviços e a Universidade Federal do Mato Grosso relativamente à execução do contrato administrativo entre si firmado, ante a disciplina do art. 109, I, da Constituição Federal.
+    A requerente defende que as decisões objurgadas constituem grave violação à ordem e à economia, razão pela qual postula o deferimento do pedido liminar e, ao final, a procedência da contracautela para suspender “[a ordem de] bloqueio do importe de R$ 726.847,63 (setecentos e vinte e seis mil, oitocentos e quarenta e sete reais e sessenta e três centavos) e [… a] exigência de demonstração do pagamento de notas fiscais no prazo de 05 (cinco) dias, sob pena de segunda constrição judicial.”
+    É o relatório. Decido.
+    Em juízo provisório, entendo que há plausibilidade na tese de violação à competência da Justiça Federal para analisar eventual inadimplemento pela FUFMT do contrato de prestação de serviço firmado com a MJB VIGILÂNCIA E SEGURANÇA LTDA., tendo em vista o disposto no art. 109, I, da Constituição Federal, verbis:
+    “Art. 109. Aos juízes federais compete processar e julgar:
+    I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;”
+    Entendo, ainda, que a ordem objurgada determina o bloqueio de verbas da Fundação Universidade Federal de Mato Grosso (FUFMT) a fim de viabilizar o pagamento de parcelas de contrato administrativo firmado com empresa contratada para prestar serviços à Universidade Federal de Mato Grosso, desconsiderando disciplina legal e contratual que orienta a execução do contrato e eventuais medidas possíveis de serem adotadas na execução do contrato para salvaguarda do interesse público.
+    Nessa medida, a meu ver, há verossimilhança na alegação de que as decisões objurgadas constituem grave lesão à ordem pública, além de identificar o risco em se aguardar decisão definitiva nesta contracautela, ante a constrição de recursos da Universidade Federal do Mato Grosso, impedindo sua gestão e aplicação em interesses público primários.
+    Por essa razão, defiro o pedido cautelar para suspender a eficácia da ordem de bloqueio on line de R$ 726.847,63 (setecentos e vinte e seis mil, oitocentos e quarenta e sete reais e sessenta e três centavos) nas contas da Fundação Universidade Federal de Mato Grosso, bem como eventuais constrições em decorrência da ausência de comprovação pela autarquia de adimplemento de notas fiscais expedidas pela MJB VIGILÂNCIA E SEGURANÇA LTDA. exaradas no curso da Recuperação Judicial nº 102702-77.2019.8.11.0041 e do Agravo de Instrumento nº 1009469-75.2020.8.11.0000.
+    Comunique-se com urgência.
+    Notifiquem-se os interessados para, querendo, se manifestarem nos autos.
+    Após, abra-se vista à douta Procuradoria-Geral da República.
+    Publique-se. Int..
+    Brasília, 8 de setembro de 2020.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
