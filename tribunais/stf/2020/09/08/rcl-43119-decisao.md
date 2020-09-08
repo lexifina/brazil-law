@@ -1,0 +1,21 @@
+Decisão: Trata-se de Reclamação, com pedido liminar, ajuizada em face de decisão proferida pelo Tribunal Regional do Trabalho da 3ª Região, que, ao indeferir o pedido de suspensão do Processo nº 0000544-80.2013.5.03.0015 teria desrespeitado a decisão proferida no processo líder do Tema 1046 da repercussão geral.
+    Afirma-se tratar de controvérsia referente à validade de norma coletiva que limita ou restringe direitos não assegurados constitucionalmente, sendo certo que o entendimento desta Corte é pela necessidade de suspensão nacional dos processos que envolvem a temática independente da fase processual em que se encontrem as demandas.
+    Com amparo nesses argumentos, pleiteia a concessão de medida liminar para suspender a decisão reclamada; no mérito, requer a procedência da ação com a finalidade da manutenção e preservação da competência do Supremo, ante acórdão a ser proferido no julgamento do RE 1.121.633.
+    Dispenso o pedido de informações, bem como remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RI/STF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    Inicialmente, consigno que a reclamação se caracteriza como uma demanda de fundamentação vinculada, vale dizer, cabível somente quando se fizer presente alguma das hipóteses para ela estritamente previstas.
+    Partindo de construção jurisprudencial a instrumento com expresso assento constitucional, trata-se de ação vocacionada, precipuamente, a duas diferentes finalidades.
+    De um lado, visa a reclamação à (i) tutela da autoridade das decisões proferidas por esta Corte e das súmulas vinculantes por ela editadas. De outro, à (ii) proteção do importante rol de competências atribuídas ao Supremo Tribunal Federal. É o que se vê nos artigos 102, I, l, e 103-A, §3º, da Constituição da República.
+    A presente reclamação cinge-se à primeira hipótese, sustentando a reclamante que a decisão prolatada pelo Justiça do Trabalho descumpre decisão proferida no julgamento do ARE 1.121.633.
+    Extrai-se da documentação que acompanhou a inicial que, não obstante o Ministro Gilmar Mendes tenha determinado a suspensão dos processos em todo território nacional, a autoridade apontada como reclamada, ao analisar o pedido de suspensão outrora apresentado na origem, assim decidiu (eDoc 8, p. 4):
+    “Trata-se a presente de execução definitiva de título judicial transitado em julgado em 21/08/2017 (cf. certidão à fl. 79).
+    De fato, o Exmo. Ministro do STF, Gilmar Mendes, nos autos do Recurso Extraordinário com Agravo nº 1.121.633 Goiás, reconheceu repercussão geral da questão discutida nestes autos relacionada ao tema 1046: "Validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente" e determinou "a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, nos termos do artigo 1.035 §5º, do CPC, uma vez que o plenário virtual do STF reconheceu a repercussão geral do tema".
+    Ocorre que, referida decisão monocrática da lavra do Exmo. Ministro do STF, Gilmar Mendes, foi publicada tão somente em 01/08/2019, ou seja, após o trânsito em julgado da decisão proferida nos presentes autos.
+    Portanto, assim como o Juízo de origem, tenho por indevida a suspensão da presente execução, pois o título judicial que lhe deu origem transitou em julgado antes da decisão de suspensão processual proferida pelo Exmo. Ministro do STF, Gilmar Mendes, nos autos do Recurso Extraordinário com Agravo nº 1.121.633/GO. ”
+    Assim, não há a possibilidade, em sede de reclamação, de determinar a ordem de suspensão, uma vez que os autos já se encontram em fase de execução. O sobrestamento do feito nesta fase, violaria a coisa julgada e distancia-se dos parâmetros estabelecidos para a aplicação da decisão paradigma. A eventual inexibilidade do título é questão que, em si, demanda o devido esgotamento da instância.
+    Ante o exposto, com fulcro nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação, ficando prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 8 de setembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
