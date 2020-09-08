@@ -1,0 +1,22 @@
+Habeas corpus. Tráfico de drogas. Prisão preventiva. Não se conhece de habeas corpus contra indeferimento de liminar em outro habeas corpus requerido a Tribunal Superior. Súmula nº 691/STF. Manifesta ilegalidade e teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Wagner Paulo da Costa Francisco e outros em favor de Klebert de Sousa Pereira, contra decisão monocrática da lavra do Ministro Felix Fischer, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 600.104/SP (evento 4).
+    O paciente foi condenado à pena de 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006) (evento 2, fls. 116-129). O magistrado de primeiro grau negou o direito de o paciente recorrer em liberdade.
+    Extraio do ato dito coator:
+    “O col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado.
+    Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+    Compulsando os autos, denota-se que o pedido liminar se confunde com o próprio mérito da impetração, não restando configurada, de plano, flagrante ilegalidade, a ensejar o deferimento da medida de urgência.
+    Assim, nos limites da cognição in limine, ausentes os indícios para a configuração do fumus boni iuris, a quaestio deverá ser apreciada, após uma verificação mais detalhada dos dados constantes dos autos.
+    Denego, pois, a liminar.”
+    No presente writ, os Impetrantes pugnam, preliminarmente, pelo afastamento da Súmula nº 691/STF. Sustentam a necessidade de reapreciação da constrição cautelar, nos termos do art. 316, parágrafo único, do CPP. Requerem, na medida liminar e no mérito, a suspensão da execução da pena até o julgamento final da presente impetração.
+    É o relatório.
+    Decido.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 154.149-AgR/DF, Rel. Min. Dias Toffoli, 2ª Turma, DJe 28.5.2019; HC 155.878-AgR/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 10.4.2019; HC 169.068-AgR/PI, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 08.5.2019; e HC 153.411/SP, Rel. p/ acórdão Min. Roberto Barroso, 1ª Turma, DJe 26.4.2019.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete, pois, de acordo com o ato dito coator, ‘Compulsando os autos, denota-se que o pedido liminar se confunde com o próprio mérito da impetração, não restando configurada, de plano, flagrante ilegalidade, a ensejar o deferimento da medida de urgência. Assim, nos limites da cognição in limine, ausentes os indícios para a configuração do fumus boni iuris, a quaestio deverá ser apreciada, após uma verificação mais detalhada dos dados constantes dos autos’.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ªTurma,DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de setembro de 2020.
+Ministra Rosa Weber
+Relatora
