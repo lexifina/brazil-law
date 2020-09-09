@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à impossibilidade de inscrição em dívida ativa de débito decorrente de pagamento indevido do Instituto Nacional do Seguro Social, em especial por ser anterior à vigência da lei autorizadora da cobrança via execução fiscal. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 97 da Constituição Federal, dizendo haver ofensa ao enunciado nº 10 da Súmula Vinculante do Supremo. Alega ter o Colegiado de origem declarado a inconstitucionalidade do artigo 115, § 3º, da Lei nº 8.213/91, ao afastar a respectiva incidência no caso concreto. Afirma a existência de autorização legal para a inscrição do débito na dívida ativa, com a edição da medida provisória nº 780/2017, convertida na Lei nº 13.494/17.
+    2. De início, quanto à evocação do artigo 97 da Lei Maior, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    Eis a síntese da decisão recorrida:
+    PREVIDENCIÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉEXECUTIVIDADE. EXIGIBILIDADE DO DÉBITO. PAGAMENTO INDEVIDO. INSCRIÇÃO EM DÍVIDA ATIVA. IMPOSSIBILIDADE. CRÉDITO CONSTITUÍDO ANTES DA VIGÊNCIA DA LEI QUE AUTORIZOU A COBRANÇA VIA EXECUÇÃO FISCAL. A previsão do artigo 115, §3º, da Lei 8.213/91, incluído pela Lei nº 13.494/2017, aplica-se apenas aos créditos constituídos na sua vigência, incidindo à espécie o Tema STJ nº 598: À míngua de lei expressa, a inscrição em dívida ativa não é a forma de cobrança adequada para os valores indevidamente recebidos a título de benefício previdenciário previstos no art. 115, II, da Lei n. 8.213/91 que devem submeter-se a ação de cobrança por enriquecimento ilícito para apuração da responsabilidade civil.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência, a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Somente pela análise do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
