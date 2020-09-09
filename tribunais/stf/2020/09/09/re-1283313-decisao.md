@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de concessão de benefício previdenciário, consideradas as premissas fáticas. No extraordinário, o recorrente aponta a violação dos artigos 2º, 97, 195, § 5º, e 20 da Constituição Federal. Insiste na inviabilidade da aposentadoria por idade híbrida, nos termos da Lei nº 8.213/91, bem como ante a ausência de fonte de custeio prévia. Diz contrariado o princípio da separação dos Poderes. Entende inobservada a cláusula de reserva de Plenário.
+    2. Quanto à evocação do artigo 97 da Lei Maior, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    Colho os seguinte trechos do acórdão recorrido:
+    No que se refere ao período de labor rural reconhecido (05/08/1970 a 31/12/1981) a documentação apresentada (Certidão do INCRA referente ao mesmo imóvel de 13,5 hectares, em nome de Geraldino Antonio Moraes, correspondente ao período de 1971 a 1992 - Evento 10, PROCADM2, Página 9; Ficha de sócio do Sindicato dos Trabalhadores Rurais de Giruá, em nome de Geraldino Antônio de Morais, que se associou em 05/08/1970 (Evento 10, PROCADM2, Páginas 10/11) foi corroborada pela prova testemunhal (Evento 23, RESJUSTADMIN1, Página 4, 7 e 10), razão pela qual mantenho o reconhecimento da condição de segurado especial no referido período.
+    […]
+    Entendo que o período rural remoto, para fins de aposentadoria por idade, pode ser computado como carência independentemente do lapso temporal decorrido entre a última competência laborada nas lidas rurais e o início do labor urbano.
+     Nesse sentido, em que pese as atividades rurícolas desenvolvidas pela autora sejam remotas e descontínuas e que tal descontinuidade supera o intervalo de 36 meses até o início das atividades urbanas (entre 05/08/1970 a 31/12/1981), eles devem ser computados como carência para fins de concessão de aposentadoria por idade híbrida.
+    Assim sendo, tenho que o período urbano reconhecido pelo INSS (06 anos, 02 meses e 07 dias) e o período rural reconhecido pela sentença (05/08/1970 a 31/12/1981 - 11 anos, 04 meses e 26 dias) superam os 180 meses de carência, suficientes à concessão do benefício postulado, razão pela
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário. Considerada a fixação no acórdão dos honorários advocatícios em 10%, fixo os honorários recursais no patamar de 5%, nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 9 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
