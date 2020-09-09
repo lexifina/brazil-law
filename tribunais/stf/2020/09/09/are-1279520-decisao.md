@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    ICMS. Diferença de alíquota (DIFAL) Operações de venda de mercadoria a consumidor final não contribuinte localizado fora do Estado de São Paulo em que a retirada do produto ocorreu por fretes contratados por conta e risco do destinatário Direito líquido e certo não manifesto. Segurança denegada em 1º grau Decisão mantida em 2ª instância. RECURSO DESPROVIDO.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 155, § 2º, incisos VII e VIII, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    No caso, em síntese, a impetrante pretende desconstituir parte da autuação (AIIM nº 4.105.619-0) porque teria deixado de pagar o ICMS a título de apuração de ICMS Diferencial de Alíquota em operações que o Fisco entendeu como erroneamente não caracterizadas pela EC nº 87/2015.
+    A impetrante defende que se trata de operações interestaduais de venda de mercadoria a consumidor final não contribuinte localizado fora do Estado de São Paulo em que a retirada do produto ocorreu por fretes contratados por conta e risco do destinatário.
+    Com efeito, a autuação fiscal está embasada em legislação estadual e não é possível verificar, de pronto, a alegada ilegalidade e inconstitucional.
+    Mister consignar que o direito líquido e certo “é o que se apresenta manifesto na sua existência, delimitando na sua extensão e apto a ser exercitado no momento da impetração. Por outras palavras, o direito invocado, para ser amparável por mandado de segurança, há de vir expresso em norma legal e trazer em si todos os requisitos e condições de sua aplicação ao impetrante: se sua existência for duvidosa; se sua extensão ainda não estiver delimitada; se seu exercício depender de situações e fatos ainda indeterminados, não rende ensejo à segurança, embora possa ser defendido por outros meios judiciais.
+    (...) Em última análise, direito líquido e certo é direito comprovado de plano. Se depender de comprovação posterior, não é líquido nem certo, para fins de segurança.” (Hely Lopes Meirelles, in Mandado de Segurança, 30ª edição, Ed. Malheiros, pág. 38).
+    Sob esse aspecto, no caso concreto, não se verificou a prova pré-constituída necessária para o manejo da via mandamental.
+    (...)
+    De todo modo, o deslinde da controvérsia demanda dilação probatória, o que, no entanto, é incompatível com a via mandamental.
+    Saliente-se, ademais, que o ato administrativo goza de presunção de legitimidade e veracidade, cabendo a parte interessada demonstrar, de plano, a situação jurídica que lhe confere direito líquido e certo, o que não há no presente.
+    Assim, o caso era mesmo de denegação da segurança.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas.
+    Confiram-se, em casos semelhantes, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. ICMS. Diferencial de alíquota. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.192.860-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 9/9/19).
+    “DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 2º E 155, § 2º, III, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que foge à competência jurisdicional extraordinária desta Corte Suprema, nos termos do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (RE nº 1.244.330-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 12/5/2020).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 9 de setembro de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
