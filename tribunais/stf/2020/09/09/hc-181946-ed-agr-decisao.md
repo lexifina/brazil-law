@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de Agravo Regimental interposto contra acórdão proferido pela Primeira Turma desta CORTE, cuja ementa é a seguinte:
+    EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. INEXISTÊNCIA DOS VÍCIOS DO ART. 619 DO CÓDIGO DE PROCESSO PENAL.
+    1. Não merecem acolhida os Embargos de Declaração quando o acórdão recorrido não padece de ambiguidade, obscuridade, contradição ou omissão.
+    2. Embargos de Declaração rejeitados.
+    Neste recurso, busca a defesa o provimento do Agravo, a fim de que seja mantida a liminar cassada, que, por fim, reste definitivamente concedida a ordem de habeas corpus e no mérito mantida, em favor de RAFAEL SANTELLO MAZUCHELLI, para que possa aguardar o Trânsito em Julgado em liberdade, manifestando compromisso de cumprir todos os requisitos essenciais para sua reintegração social, tudo isso nos termos da melhor e mais abalizada doutrina e remansosa jurisprudência das Cortes de Justiça do Brasil.
+    É o relatório. Decido.
+    O presente recurso, por ser manifestamente incabível, não merece ser conhecido.
+    Nos termos do art. 317 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte. Logo, somente decisões monocráticas poderão ser impugnadas por meio do referido recurso.
+    Registre-se que a jurisprudência desta CORTE consolidou-se no sentido de que a interposição de Agravo Regimental contra acórdão proferido pelo Plenário ou por uma de suas Turmas, como ocorre na espécie, caracteriza erro grosseiro, o que impede sua conversão em embargos declaratórios. Precedentes: ARE 680977 AgR-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 9/11/2017; Pet 5161 AgR-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 10/8/2017; ARE 901450 AgR-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 17/3/2016:
+    JULGAMENTO COLEGIADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL – INTERPOSIÇÃO, CONTRA O ACÓRDÃO, DE “AGRAVO REGIMENTAL” – INADMISSIBILIDADE – ERRO GROSSEIRO – CONSEQUENTE INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL – RECURSO DE AGRAVO NÃO CONHECIDO. – Não se revela admissível “agravo regimental” contra acórdão emanado de órgão colegiado (Turma ou Plenário) do Supremo Tribunal Federal. Precedentes. – Inaplicabilidade, ao caso, por tratar-se de erro grosseiro, do postulado da fungibilidade recursal. Precedentes. Doutrina.
+    (ARE 926113 AgR-EDv-AgR-AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 10/11/2016)
+    Diante do exposto, por ser manifestamente inadmissível, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NÃO CONHEÇO DO RECURSO.
+    À Secretaria para certificação do trânsito em julgado e baixa imediata dos autos.
+    Publique-se.
+    Brasília, 9 de setembro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
