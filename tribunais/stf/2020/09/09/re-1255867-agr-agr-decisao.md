@@ -1,0 +1,26 @@
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. AGRAVO INTERPOSTO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. AGRAVO INTERNO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo interno interposto por Pedro Vitor dos Santos contra acórdão assim ementado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE DE POLÍCIA CIVIL. ADICIONAIS DE INSALUBRIDADE, PERICULOSIDADE E PENOSIDADE. CUMULAÇÃO. LEIS 1.041/2002 E 2.165/2009 DO ESTADO DE RONDÔNIA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE AGRAVANTE. MANIFESTO INTUITO PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO INTERNO DESPROVIDO.” (Doc. 41)
+    É o relatório. DECIDO.
+    O recurso interposto é manifestamente inadmissível.
+    Com efeito, o agravo regimental é uma espécie recursal cabível apenas contra decisão monocrática. Trata-se, na verdade, de recurso que tem como escopo assegurar o princípio da colegialidade recursal, ou seja, garantir que a decisão do Relator, o qual age sempre por delegação do colegiado, poderá ser revista pelo órgão que integra. Jamais, portanto, caberá o recurso em tela contra acórdão do Plenário ou de Turma. A propósito, confira-se a redação do artigo 317 do RISTF:
+    “Art. 317. Ressalvadas as exceções previstas neste Regimento, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte.”
+    Ocorre que, no caso em tela, a decisão recorrida foi proferida pela Primeira Turma do Supremo Tribunal Federal, razão pela qual o recurso é incabível, à vista de cometimento de erro grosseiro. Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REQUISITOS. ARTIGOS 1.043, III, E 1.044 DO CPC/2015. ARTIGOS 330 E 331 DO RISTF. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. JULGAMENTO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO DE AGRAVO REGIMENTAL CONTRA DECISÃO COLEGIADA. ERRO GROSSEIRO. INADMISSIBILIDADE MANIFESTA. APLICAÇÃO DE MULTA. ARTIGO 1.021, § 4º, CPC/2015. AGRAVO REGIMENTAL NÃO CONHECIDO.” (ARE 951.611-AgR-EDv-AgR, Rel. Min. Luiz Fux, Plenário, DJe de 21/11/2019, grifei)
+    “Agravo regimental no agravo regimental no recurso extraordinário com agravo. Agravo regimental contra acórdão. Impossibilidade. Precedentes.
+    1. Segundo o pacífico entendimento do Supremo Tribunal Federal, não cabe agravo regimental contra julgado prolatado por órgão colegiado (art. 317 do RISTF).
+    2. Não há falar em conversão do agravo regimental em embargos de declaração, pois a interposição do referido recurso caracteriza erro grosseiro.
+    3. Agravo regimental do qual não se conhece, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.143.205-AgR-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 15/2/2019, grifei)
+    “DIREITO PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. AGRAVO CONTRA ACÓRDÃO QUE REJEITOU AGRAVO REGIMENTAL. INVIABILIDADE. AGRAVO MANIFESTAMENTE INCABÍVEL. CARÁTER PROCRASTINATÓRIO. REITERAÇÃO. ABUSO DO DIREITO DE RECORRER. NÃO CONHECIMENTO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A jurisprudência desta Suprema Corte é firme no sentido do não cabimento de agravo regimental contra decisão colegiada e da impossibilidade de sua conversão em embargos de declaração, ante a configuração de erro grosseiro.
+    2. Agravo interno não conhecido.” (ARE 1.190.090-AgR-segundo, Rel. Min. Rosa Weber, Primeira Turma, DJe de 23/10/2019, grifei)
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INCABÍVEL O AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO COLEGIADA. PRECEDENTE. AGRAVO REGIMENTAL NÃO CONHECIDO.” (ARE 1.189.894-AgR-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 22/10/2019, grifei)
+    Ressalto que compete ao Relator negar seguimento a pedidos e recursos manifestamente inadmissíveis (artigo 932, III, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF).
+    Versando casos análogos, confiram-se as seguintes decisões monocráticas: ARE 1.225.855-AgR-ED-EDv-AgR-AgR, Rel. Min. Alexandre de Moraes, DJe de 1º/6/2020; ARE 1.197.952-AgR-AgR, Rel. Min. Marco Aurélio, DJe de 13/2/2020; ARE 1.115.074-AgR-ED-AgR, Rel. Min. Gilmar Mendes, DJe de 25/10/2018; ARE 1.062.477-AgR-AgR, Rel. Min. Cármen Lúcia, DJe de 5/2/2018; e ARE 874779 AgR-AgR, Rel. Min. Dias Toffoli, DJe de 3/8/2015.
+    Ex positis, NÃO CONHEÇO do presente agravo, com fundamento no artigo 932, III, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 9 de setembro de 2020.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
