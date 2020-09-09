@@ -1,0 +1,34 @@
+Habeas corpus contra decisão monocrática de indeferimento liminar de writ em Tribunal Superior. Prisão preventiva. Crimes receptação, posse de drogas para uso pessoal e posse de arma de fogo. Não se conhece de habeas corpus impetrado contra decisão monocrática, indeferitória de writ, do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Ratio da Súmula 691/STF. Substituição do ato dito coator. Writ prejudicado.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Antônio Carlos Ferreira Filho em favor de Claiton Rosa de Souza e Ermeson Carneiro Araújo, contra decisão monocrática da lavra do Ministro João Otávio de Noronha, Presidente do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 595.505/GO (evento 4).
+    Os pacientes foram presos em flagrante, convertido o título em prisão preventiva, pela suposta prática dos crimes de receptação, posse de drogas para consumo pessoal e posse de arma de fogo (art. 180, caput, do CP; art. 28 da Lei 11.343/2006 e art. 12 da Lei 10.826/2003 ).
+    Extraio do ato dito coator:
+    “(...).
+    A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+    A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+    (…).
+    Confira-se também a Súmula n. 691 do STF:
+    (…).
+    No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+    Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+      Cientifique-se o Ministério Público Federal.”
+    No presente writ, o Impetrante pugna, preliminarmente, pelo afastamento da Súmula nº 691/STF. Alega, em síntese, excesso de prazo para a conclusão do inquérito, presos os pacientes desde 17.4.2020. Assevera fundamentação inidônea para a prisão preventiva. Ressalta a existência de circunstâncias favoráveis. Defende a ilicitude das provas. Aponta a pandemia do novo coronavírus e a Recomendação 62/2020 do CNJ. Requer, na medida liminar e no mérito, a revogação da prisões preventiva e, subsidiariamente, a substituição da prisões por medidas cautelares diversas.
+    Informações prestadas pelo Juízo da 3ª Vara Criminal da Comarca de Caldas Novas/GO no sentido de que as prisões dos Pacientes atenderam à Resolução 62 do CNJ (evento 12).
+    É o relatório.
+    Decido.
+    Como se observa, o Superior Tribunal de Justiça alicerçou-se no entendimento sumulado por esta Suprema Corte para indeferir liminarmente a impetração. Aduziu que o writ se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, o qual indeferira liminar em habeas corpus impetrado na Corte Estadual.
+    Ao rejeitar o pedido liminar, o Tribunal de Justiça não reputou presentes requisitos autorizadores do imediato trancamento da ação penal, reservando a definição da matéria ao pronunciamento do colegiado.
+    Da decisão singular, a Defesa impetrou habeas corpus originário no Superior Tribunal de Justiça e, ante a negativa de seguimento, novo writ, desta feita neste Supremo Tribunal Federal. Constato, pois, não esgotada a jurisdição da Corte Superior, na medida em que o ato impugnado é decisão monocrática extintiva do writ, e não o resultado de julgamento colegiado.
+    Cumpriria à Defesa, pretendendo a reforma da decisão monocrática, ter aviado agravo regimental para que a questão fosse apreciada pelo órgão colegiado do STJ (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Logo, dar trânsito ao writ significaria duplicar a tramitação da ação constitucional, sub judice no âmbito da Corte Estadual; apreciá-lo no mérito implicaria suprimir instâncias de julgamento, em inobservância às regras do devido processo legal e do juiz natural.
+    Paralelamente, o writ está prejudicado.
+    Em 18.08.2020 houve superveniente julgamento colegiado pelo não provimento do agravo regimental interposto no Superior Tribunal de Justiça. A superveniência de decisão colegiada desafia nova impetração, acarretando, por conseguinte, a perda de objeto do presente writ, manejado contra decisão monocrática. Precedentes: HC 117.448/ES, Red. p/acórdão Min. Roberto Barroso; HC 111.426/PE, Red. p/acórdão Min. Luiz Fux; HC 103.570/SP, acórdão de minha redação; HC 117.747-AgR/SP, Rel. Min. Cármen Lúcia; e HC 115.314/SP, Rel. Min. Dias Toffoli.
+    Por outro lado, inexistente ‘situação anômala que compromete a efetividade do processo” ou “desprezo estatal pela liberdade do cidadão’ (HC 142.177/RS, Rel. Min. Celso de Mello), presos os Pacientes desde 17.4.2020, sem que divisada, de plano como a presente via exige, heterodoxia na atividade da polícia judiciária na condução do inquérito.
+    Anoto, por fim, que “o pedido de soltura com fundamento na atual pandemia de Covid-19, que acomete diversos países e também o Brasil, não comporta conhecimento originário pelo Supremo Tribunal Federal, conforme decidido, pelo Plenário desta Corte, no recente julgamento da ADPF 347-TPI-MC-Ref (Rel. Min. Marco Aurélio), oportunidade em que foi negado referendo à decisão do ministro Relator, mantendo na esfera de competência dos juízes da execução a análise da situação de cada preso” (HC 184.886/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe. 16.6.2020).  Não há comprovação de que os Pacientes registram comorbidades integrativas ao grupo de risco do novo Coronavírus, ou de negligência de medidas mitigadoras/preventivas quanto à disseminação do vírus por parte do estabelecimento prisional.
+    Em situações tais, a Recomendação 62 do CNJ não sinaliza para a imediata revogação ou substituição das prisões cautelares e das prisões-pena, apenas concita os magistrados a adotarem ações contra a disseminação da pandemia do novo Coronavírus, sem prescindir, contudo, da análise individualizada -, ou seja, em cima de casos concretos - sobre situações particularizadas de prisão provisória ou de execução penal (artigo 4º).
+    Nesse espectro, [a] crise sanitária decorrente do novo coronavírus é insuficiente a autorizar o recolhimento em domicílio (HC 183.140/SP, Rel. Min. Marco Aurélio, 1ª Turma, unânime, j. 15.6.2020); a referida Resolução não recomenda a automática conversão da prisão preventiva em domiciliar. Devem ser tidos em conta, entre outros fatores, a situação pessoal do preso, o crime de que é acusado, a situação do estabelecimento prisional etc. (Ext 1.270, Rel. Min. Roberto Barroso, decisão monocrática, DJe 29.5.2020).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de setembro de 2020.
+Ministra Rosa Weber
+Relatora
