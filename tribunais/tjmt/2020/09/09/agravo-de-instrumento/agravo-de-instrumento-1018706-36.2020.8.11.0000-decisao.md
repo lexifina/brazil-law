@@ -1,0 +1,23 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por UNIMED CUIABÁ – COOPERATIVA DE TRABALHO MÉDICO, com o fito de suspender a decisão que, nos autos da Ação Declaratória de Nulidade de Cláusula Contratual c/c Obrigação de Fazer de no 1002892-42.2020.8.11.0013, ajuizada por CARLOS GOMES DE ANDRADE, representado por sua genitora ROSA GOMES DE ANDRADE, deferiu o pedido de tutela de urgência para determinar que a agravante custeie imediatamente e de forma integral, sob pena de multa diária no valor de R$ 100,00 (cem reais), todo o tratamento do agravado e a sua internação até ulterior deliberação médica, na clínica Resgatando Vidas, localizada no município de Pontes e Lacerda/MT.
+Para tanto, a agravante alega que está sendo compelida a prestar o tratamento involuntário para dependente químico em clínica de regime fechado, não credenciada à sua rede, sem, contudo, coexistir previsão contratual ou legal.
+Pondera que não pode custear o tratamento na clínica escolhida pelo agravado, sobretudo diante da existência de cláusula no contrato de prestação de serviços dispondo que os locais de atendimento se restringem àqueles pertencentes à rede credenciada, de modo que eventual assistência deverá observar a referida cláusula, vez que o contrato não possui cobertura ampla e irrestrita.
+Salienta que inexiste negativa em autorizar a cobertura do tratamento vindicado, todavia, ele deverá ser realizado em estabelecimento que esteja dentro da sua área de atuação.
+Argumenta que não há nos autos qualquer prescrição para internação em clínica de desintoxicação, ou ainda, qualquer declaração médica de que o quadro clínico do agravado é de urgência ou emergência, a ensejar o deferimento da tutela pleiteada.
+Relata que o perigo de irreversibilidade da decisão é evidente, na medida em que o agravado é beneficiário da justiça gratuita, o que impõe a necessidade de prestação de caução real ou fidejussória.
+Assim, diante do risco de sofrer lesão grave e de difícil reparação pelos efeitos da decisão hostilizada, pede providência liminar para suspender a eficácia da decisão de base.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+“Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo”. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Apesar do esforço da agravante, por ora, não há nada que convença da liminar pleiteada.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois estão presentes os requisitos autorizadores da tutela jurisdicional deferida em favor do agravado, notadamente a probabilidade do direito invocado.
+Com efeito, não obstante a agravante mencionar em suas razões recursais o nome de várias clínicas credenciadas à sua rede e aptas a oferecer o tratamento requerido pelo agravado, constata-se que todas elas estão localizadas em outros estados da federação, quais sejam Mato Grosso do Sul, Goiás e São Paulo.
+Ocorre que a o artigo 2o da Resolução 259 da ANS dispõe que:
+“Art. 2o A operadora deverá garantir o acesso do beneficiário aos serviços e procedimentos definidos no Rol de Procedimentos e Eventos em Saúde da ANS para atendimento integral das coberturas previstas nos arts. 10, 10-A e 12 da Lei n° 9.656, de 3 de junho de 1998, no município onde o beneficiário os demandar, desde que seja integrante da área geográfica de abrangência e da área de atuação do produto”.
+Assim, não demonstrando a operadora de saúde que o município de Pontes e Lacerda/MT, onde o agravado está internado, não é integrante da área geográfica de abrangência e da área de atuação do produto, devem ser mantidos os efeitos da decisão objurgada.
+Ademais, não demonstrada a plausibilidade do direito alegado, desnecessária a análise do pedido sob a ótica do periculum in mora.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
