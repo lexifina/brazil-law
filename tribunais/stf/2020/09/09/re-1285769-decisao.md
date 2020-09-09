@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal de Jurisdição Exclusiva de Belo Horizonte, Betim e Contagem/MG, assim ementado:
+    “RECURSO INOMINADO – DETERMINADA A COBERTURA DE PROCEDIMENTO MÉDICO – COBERTURA MÍNIMA OBRIGATÓRIA – ROL DA ANS – RECURSO CONHECIDO E NÃO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que a solução da controvérsia demandaria a análise da legislação infraconstitucional aplicada ao caso, uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), bem como o reexame das cláusulas do contrato firmado entre as partes demandantes (Súmula 454/STF), procedimentos inviáveis em recurso extraordinário. Veja-se, nesse sentido, a ementa do RE 640.404-AgR-Segundo, Rel.ª Min.ª Rosa Weber:
+    “DIREITO CIVIL E CONSUMIDOR. PLANO DE SAÚDE. COBERTURA DE DESPESAS COM TRATAMENTO MÉDICO. INTERPRETAÇÃO DE CONTRATO. ÓBICE DA SÚMULA 454/STF. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 24.6.2010.
+    As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. A pretensão do recorrente de obter decisão em sentido diverso encontra óbice na Súmula 454/STF: ‘Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário’.
+    A matéria tratada nos autos não traz identidade com a do RE 578.801-RG, Rel. Min. Cármen Lúcia, razão pela qual não incide a sistemática do art. 543-B do CPC. Na hipótese, não houve aplicação da Lei 9.656/98 a contrato celebrado antes da sua vigência, mas sim, do Código de Defesa do Consumidor, de forma que a suposta ofensa ao preceito constitucional indicado nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional que fundamentou o acórdão da origem, bem como do prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Agravo regimental conhecido e não provido.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 09 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
