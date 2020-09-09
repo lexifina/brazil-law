@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. ANULATÓRIA DE DÉBITO FISCAL. PREJUDICIAL DA EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE. INOCORRÊNCIA. ART. 38 DA LEF E 151 DO CTN. RESPONSABILIDADE SOLIDÁRIA DO TITULAR DA FIRMA INDIVIDUAL E DOS SÓCIOS DAS EMPRESAS POR COTAS DE RESPONSABILIDADE LIMITADA. INCONSTITUCIONALIDADE DO ART. 13 DA LEI 8.620/1993. RECURSO IMPROVIDO.
+    1. As hipóteses de suspensão da exigibilidade do crédito tributário encontram-se taxativamente arroladas no art. 151, do CTN. O mero ajuizamento de ação anulatória desacompanhado de depósito judicial do montante integral, acrescido de todos os consectários do débito excutido não é causa de suspensão da exigibilidade.
+    2. Inexistente nos autos prova do depósito do montante integral nos autos da ação anulatória n° 200361000145132, não subsiste qualquer óbice ao ajuizamento do executivo fiscal, nos termos do art. 38 da LEF.
+    3. A certidão de dívida ativa goza de presunção de liquidez e certeza, nos termos do disposto no art. 3° da Lei n° 6.830/80, não ilidida pelo contribuinte, sendo insuficiente para tanto a alegação de que pende de julgamento definitivo ação anulatória do débito fiscal objeto dos presentes embargos.
+    4. O Supremo Tribunal Federal, no julgamento do RE 562.276 -PR, declarou a inconstitucionalidade formal e material do artigo 13 da Lei n. 8.620/1993 (hoje revogado pela Lei n. 11.941/2009), que estabelecia a responsabilidade solidária do titular da firma individual e dos sócios das empresas por cotas de responsabilidade limitada pelos débitos junto à Seguridade Social.
+    5. Com esse novo quadro normativo e jurisprudencial, não há mais como se concluir pela responsabilidade solidária dos sócios com base no artigo 124, inciso II do CTN - Código Tributário Nacional, ficando, portanto, a responsabilidade restrita às hipóteses do artigo 135, inciso III, do referido Código, ou seja, apenas dos sócios diretores, gerentes ou representantes da pessoa jurídica, quando praticarem atos com excesso de poderes, ou infração à lei, contrato social ou estatutos.
+    6. A simples inclusão dos nomes dos sócios na CDA, porque feita com base em dispositivo legal declarado inconstitucional pelo Supremo Tribunal Federal, não basta para justificar o redirecionamento da execução fiscal para a pessoa dos sócios.
+    7. No caso, a União não logrou demonstrar que os representantes legais da embargante incorreram em quaisquer das hipóteses previstas no art. 135, III do CTN. Descartada ainda a hipótese de dissolução irregular na espécie, é de ser mantido o reconhecimento da ilegitimidade ad causam para a execução, nos termos em que lançada a sentença recorrida.
+    7. Preliminar da embargante não conhecida. Apelações improvidas.
+    Opostos os embargos de declaração, foram acolhidos.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 146, inciso II; 150, inciso VI, alínea "c"; 195, § 7°, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto proferido em sede de embargos de declaração a seguinte fundamentação:
+    "(...)
+    No mais, possível o exame de matérias de ordem pública, desde que não demandem dilação probatória. Nesse sentido, embora a imunidade tributária se insira nesse rol, seu reconhecimento depende da demonstração do preenchimento dos requisitos constitucionais e legais para seu gozo, inexistente nos autos."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. Imunidade tributária. Requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF) e a análise da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.194.895/SP-AgR, Tribunal Pleno, Rel. Min. DiasToffoli, DJe de 17/6/19).
+    No mesmo sentido: ARE nº 1.080.147/PR-AgR, Tribunal Pleno, Rel. Min. DiasToffoli, DJe de 12/4/18; ARE nº 1.138.024/SE-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 13/11/18 e ARE nº 931.557/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 19/10/17.
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 9 de setembro de 2020.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
