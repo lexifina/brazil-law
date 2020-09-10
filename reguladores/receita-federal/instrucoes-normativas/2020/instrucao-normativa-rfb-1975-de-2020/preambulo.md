@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1975, de 8 de setembro de 2020
+Revoga dispositivos da Instrução Normativa RFB nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à Previdência Social e as destinadas a outras entidades ou fundos, administradas pela Secretaria Especial da Receita Federal do Brasil (RFB).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o trânsito em julgado da Ação Direta de Inconstitucionalidade nº 4.735/DF, resolve:
