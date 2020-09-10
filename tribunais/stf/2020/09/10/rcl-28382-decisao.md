@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA DO SUPREMO – DESRESPEITO – RECLAMAÇÃO – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto assim revelou as balizas do caso:
+    A União afirma haver a Primeira Turma do Tribunal Regional Federal da 1ª Região, no processo nº 0001656- 24.2009.4.01.3100/AP, inobservado o teor do verbete vinculante nº 37 da Súmula do Supremo.
+    Segundo narra, Ranolfo Rodrigues de Almeida e outros, todos servidores públicos federais, ajuizaram contra si ação na qual pretendem ver reconhecida a incorporação, aos próprios vencimentos, do percentual de 13,23%, bem assim o pagamento de parcelas vencidas, por entenderem que a vantagem pecuniária individual versada na Lei nº 10.698/2003 consistiu em dissimulada revisão geral anual, a valer para qualquer servidor, ante a inadequação de concessão de aumentos em percentuais diferenciados. Realça a improcedência do pedido em primeira instância, tendo o entendimento sido reformado em sede de apelação, surgindo daí o alegado desrespeito. Interpostos recursos especial e extraordinário, aguarda-se o juízo de admissibilidade.
+    Sustenta violado o paradigma, pois fundamentado o ato reclamado, mesmo indiretamente, no princípio da isonomia e na suposta ofensa ao artigo 37, inciso X, da Constituição Federal, para determinar-se a incorporação do percentual aos vencimentos dos ora interessados. Assevera que o Judiciário não poderia imiscuir-se na função legislativa e conceder aumento a servidores públicos. Transcreve trecho da decisão impugnada. Evoca jurisprudência.
+    Requereu, no campo precário e efêmero, a suspensão do ato atacado. Busca, alfim, a cassação do acórdão impugnado.
+    Em 28 de setembro de 2017, Vossa Excelência deferiu o pleito de medida acauteladora e determinou o aparelhamento do processo visando o julgamento definitivo.
+    Os interessados não apresentaram manifestação.
+    O Tribunal reclamado, nas informações, esclarece o histórico processual do caso.
+    Vossa Excelência, em 10 de abril de 2019, revogou a medida acauteladora implementada e negou seguimento à reclamação. Uma vez declarada a falta de repercussão geral da matéria, no recurso extraordinário com agravo nº 800.721 – Tema nº 719 –, assentou impróprio permitir a glosa da decisão impugnada na via da reclamação.
+    Formalizado agravo interno pela União, Vossa Excelência, em 9 de junho de 2020, reconsiderou a decisão e determinou a sequência do processo, considerada a configuração de tema constitucional em nova submissão da controvérsia ao Plenário Virtual.
+    2. Tenho como pertinentes as mesmas razões veiculadas ao deferir a medida de urgência. O Plenário Virtual, na sessão de 29 de agosto de 2019, superando óptica anterior, reconheceu configurada questão constitucional no recurso extraordinário com agravo nº 1.208.032 – Tema nº 1.061. Tendo em vista o reajuste de 13,23%, assentou a impossibilidade de aumento de vencimentos de servidor, na via judicial, com respaldo em isonomia, sob pena de contrariedade ao verbete vinculante nº 37. A ementa ficou assim confeccionada:
+    Recurso extraordinário com agravo. Constitucional e Administrativo. Instituição de Vantagem Pecuniária Individual (VPI). Lei nº 10.698/03. Direito ao reajuste de 13,23%. Orientação de ausência de repercussão geral firmada no julgamento do ARE nº 800.721-RG/PE (Tema nº 719). Exame do mérito da controvérsia em sede de reclamação. Súmula Vinculante nº 37 do Supremo Tribunal Federal. Revisão do Tema nº 719. Repercussão geral reconhecida. Reafirmação da jurisprudência consolidada no STF. Concessão de reajuste pelo Poder Judiciário com base no princípio de isonomia. Impossibilidade.
+    (Recurso extraordinário com agravo nº 1.208.032, relator Ministro Presidente, Diário da Justiça eletrônico de 26 de setembro de 2019 .)
+    3. Julgo procedente o pedido formulado na reclamação para cassar o acórdão da Primeira Turma do Tribunal Regional Federal da 1ª Região no processo nº 0001656- 24.2009.4.01.3100/AP.
+    4. Publiquem.
+Brasília, 10 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
