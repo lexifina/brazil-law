@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por VERA REGINA BERTÉ DOS SANTOS, com o fito de reformar a decisão que, nos autos dos Embargos à Execução de no 1001701-53.2020.811.0015, opostos em face de GO AGRO FERTILIZANTES COMÉRCIO DE INSUMOS AGRÍCOLAS LTDA, não atribuiu efeito suspensivo ao processo executivo.
+Para tanto, a agravante alega que, embora o Juízo monocrático tenha recebido os Embargos, deixou de atribuir-lhe efeito suspensivo, mesmo com a evidente demonstração do preenchimento dos requisitos inerentes à tutela jurisdicional pretendida.
+Argumenta que a Cédula de Produto Rural foi emitida em garantia do fiel cumprimento de um contrato de compra e venda que não foi adimplido pela compradora originária (D. R. F. Comercial Agrícola) e endossada para terceiros, a ora agravada, a qual busca submeter a agravante ao pagamento do título sem a devida contraprestação (entrega dos insumos agrícolas).
+Sustenta, ainda, que a dívida está garantida pelo imóvel denominado “Fazenda Sete Irmãos”, com 2.024,60ha, localizado no município de Novo Horizonte do Norte/MT, com matrícula de no 6.949 do CRI de Porto dos Gaúchos/MT e que o prosseguimento da execução pode culminar em grave prejuízo, já que o juízo de base fixou multa diária de R$ 2.500,00 (dois mil e quinhentos reais) para o caso de atraso na entrega das sacas de soja, residindo aí o periculum in mora.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+“Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo”. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Nesse passo, o § 1o do artigo 919 do Código de Processo Civil exige para a atribuição de efeito suspensivo aos Embargos, a demonstração dos requisitos da tutela provisória de urgência, sendo eles a probabilidade do direito (fumus boni iuris), o perigo de dano e o risco ao resultado útil do processo (periculum in mora), bem como a existência de garantia pela penhora, depósito ou caução suficiente.
+Dessa feita, diante da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, por mais que a agravante insista no contrário, a Cédula de Produto Rural que embasa a execução é título de crédito literal e autônomo, que tem garantida a sua circulabilidade através de endosso, como no caso concreto, sendo inoportuna a discussão da causa debendi.
+Além disso, verifica-se que a execução não está garantida por caução idônea à satisfação do débito, na medida em que o bem ofertado como garantia não foi recepcionado pelo juízo singular, pois a embargante/agravante não trouxe aos autos a matrícula atualizada do imóvel e a sua avaliação imobiliária.
+Assim, sendo cumulativos os requisitos e ausente ao menos um deles, ao menos por ora, não há falar-se em reforma da decisão de base.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
