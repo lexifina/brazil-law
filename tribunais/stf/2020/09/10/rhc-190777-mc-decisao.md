@@ -1,0 +1,20 @@
+DECISÃO
+CAUTELAR – FUNDAMENTOS – INSUBSISTÊNCIA.
+CAUTELAR – PRAZO – EXCESSO.
+RECURSO EM HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Edvaldo Ramos Nobre Filho prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Jaraguá do Sul/SC, no processo nº 0000661-61.2019.8.24.0036, determinou a prisão preventiva do recorrente, ocorrida em 13 de fevereiro de 2019, ante o cometimento dos crimes dos artigos 333 (corrupção ativa) do Código Penal, e 2º, § 4º, inciso II (integrar organização criminosa com envolvimento de servidor público), da Lei nº 12.850/2013. Destacou revelado, a teor de conversas telefônicas interceptadas e documentos, o pagamento sistemático de vantagem indevida, pelo centro de formação de condutores do qual era sócio, a agente público encarregado de realizar exame de direção. Salientou contato com corréu custodiado em unidade prisional na qual exercia função de agente penitenciário. Fez ver o risco de reiteração criminosa, tendo como evidenciada, em diálogo telefônico, promessa de não revistar visitantes de pessoa custodiada no Presídio de Jaraguá do Sul. Concluiu imperiosa a prisão para garantir a ordem pública e a instrução processual.
+    Em 26 de fevereiro seguinte, o Tribunal de Justiça, ao deferir ordem em habeas corpus, substituiu a prisão por monitoramento eletrônico, comparecimento periódico em Juízo, recolhimento domiciliar no período noturno e em finais de semana, proibição de ausentar-se da Comarca por mais de 7 dias sem prévia autorização judicial, de se aproximar das partes e testemunhas, e comparecimento a todos os atos do processo. Ressaltou não demonstrado risco concreto de reiteração criminosa e ausente proibição de comunicação com pessoas, revelando-se suficiente as cautelares alternativas para resguardar a ordem pública e instrução processual.
+    O Juízo afastou o monitoramento eletrônico, mantendo as demais medidas.
+    No Superior Tribunal de Justiça, a Relatora indeferiu, no habeas corpus nº 574.076/SC, a ordem. A Sexta Turma negou provimento a agravo.
+    O recorrente afirma desnecessária a cautelar referente ao recolhimento domiciliar, ausente fundamentação idônea. Aponta o excesso de prazo da medida, a perdurar por mais de 1 ano e 5 meses. Aduz inviabilizada a assistência à filha, deficiente auditiva. Realça não implementada em relação a corréu.
+    Requer, no campo precário e efêmero, o afastamento. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou que o Juízo, em 7 de agosto de 2020, não acolheu pedido de revogação das medidas alternativas, ressaltando permanecerem os motivos que as ensejaram.
+    2. A análise dos atos mediante os quais determinada e mantida a observância das cautelares diversas indica haver sido considerada a imputação. As medidas alternativas não cabem como efeito automático da prática de determinado crime. Cumpria, verificada a inadequação da prisão preventiva, justificar, de forma fundamentada, o atendimento de requisitos. Prevalece o princípio constitucional da não culpabilidade. Surge a insubsistência das premissas lançadas.
+    Sem que se tenha formada a culpa, a medida perdura desde 26 de fevereiro de 2019, ou seja, há 1 ano, 6 meses e 14 dias. À semelhança da cautelar mais gravosa, isto é, a prisão preventiva, as providências mais brandas também devem balizar-se no tempo.
+    3. Defiro a liminar, para afastar a medida cautelar alusiva ao recolhimento domiciliar no período noturno e finais de semana, referente ao processo nº 0000661-61.2019.8.24.0036, do Juízo da Primeira Vara Criminal da Comarca de Jaraguá do Sul/SC. Advirtam o recorrente da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 10 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
