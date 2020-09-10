@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL Embargos à Execução de Título Judicial Precatório Insuficiência de depósito - Excesso executado.
+    Atualização do débito Lei n.º 11.960/09 Inaplicabilidade - Trânsito em julgado da ação Inviabilidade de discussão da matéria para se aplicar diplomas editados após o trânsito em julgado da ação de conhecimento, e após a liquidação do valor executado O cálculo deve observar o tanto quanto estatuído no título executivo judicial, com a aplicação da lei vigente à época do trânsito em julgado, nos termos do princípio tempus regit actum. Imutabilidade da coisa julgada (art. 5.º, inciso XXXVI, da Constituição Federal).
+    Súmula Vinculante n.º 17 Inaplicabilidade Ofensa à coisa julgada, bem como constatação de pagamento fora do prazo estabelecido pelo § 5.º do art. 100 da Constituição Federal Juros devidos.
+    Parcelas pagas em valor superior a 1/8 da dívida - Compensação nas parcelas subsequentes Impossibilidade Parcelas que devem ser deduzidas do saldo devido.
+    Cálculos escorreitos - Sentença mantida Recurso desprovido.“
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 5º, da CF e ao art. 33 do ADCT.
+    O recurso não merece provimento. Isso porque o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que afasta a incidência de juros moratórios aos pagamentos feitos dentro do prazo constitucional. Nessa linha, veja-se a ementa do RE 591.085-QO-RG, Rel. Min. Ricardo Lewandowski:
+    “CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II - Julgamento de mérito conforme precedentes. III - Recurso provido”.
+    Esse posicionamento ensejou a edição da Súmula Vinculante 17, assim transcrita: “Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre precatórios que nele sejam pagos”.
+    Vale destacar, ainda, a orientação jurisprudencial desta Corte no sentido que incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (Tema 96).
+    No caso dos autos, ao julgar a controvérsia, o Tribunal de Justiça do Estado de São Paulo demonstrou que foram aplicados juros de mora até 05/10/1988. Ou seja, somente na fase de realização dos cálculos. Veja-se trecho pertinente do acórdão recorrido:
+    “[...]
+    Às fls. 99, esclarece o contador judicial acerca dos critérios adotados na elaboração dos cálculos por ele apresentados, salientando que foram elaborados nos termos da r. sentença proferida nos autos principais (cópia não trazida a estes autos). O valor derivado que o juízo adotou como correto decorreu da aplicação de ‘juros de mora computados de forma integral sobre o item indenização/principal, bem como honorários advocatícios sobre estes, até 05/10/88. Após a referida data, os juros fluíram somente nos períodos de inadimplência, e honorários sobre esta parcela de juros’, e sem a compensação do saldo devedor dos depósitos das três primeiras parcelas, nas 4ª e 5ª parcelas. Asseverou o técnico que ambos os cálculos, judicial e da Fazenda, encontram-se corretos, sendo a matéria estritamente de direito.
+    A parcial procedência merece ser mantida.
+    [...]”.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 10 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
