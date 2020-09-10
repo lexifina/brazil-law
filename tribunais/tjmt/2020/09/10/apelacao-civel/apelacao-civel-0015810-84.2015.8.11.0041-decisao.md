@@ -1,0 +1,101 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial n. 0015810-84.2015.8.11.0041
+Recorrente : LUIS ALBERTO DONIN
+Recorrido : ALLIANZ SEGUROS S/A
+Vistos, etc.
+Trata-se de Recurso Especial interposto por LUIS ALBERTO DONIN, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Terceira Câmara de Direito Privado, assim ementado (id 44440466):
+"APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA C/C DANOS MORAIS – SEGURO DE VEÍCULO – PRELIMINAR – NULIDADE DA SENTENÇA – EXTRA PETITA – INOCORRÊNCIA – MÉRITO – CONDUÇÃO DO VEÍCULO POR MENOR INABILITADO E COM VESTÍGIOS DE EMBRIAGUEZ – AGRAVAMENTO DO RISCO – AUSÊNCIA DE CONSENTIMENTO NÃO DEMONSTRADA – CAUSA DE EXCLUSÃO DO PAGAMENTO DO PRÊMIO – VIABILIDADE – RECURSO DESPROVIDO.
+Não ocorre julgamento extra petita se o Magistrado decide questão que é reflexa ao pedido na exordial.
+Verificada a existência na apólice de seguro cláusula contratual clara e inteligível no sentido de que não haveria cobertura para sinistros quando o automóvel for dirigido, conduzido ou manobrado por pessoa que não possua habilitação legal para conduzi-lo, bem como comprovado por meio de Boletim de Ocorrência que o acidente que acarretou a perda total do veículo era conduzido por menor de idade e inabilitado, e com vestígios de embriaguez, deve ser mantida a negativa da indenização securitária respectiva, até mesmo porque não demonstrada a ausência de consentimento pelo segurado. (N.U 0015810-84.2015.8.11.0041, DESA. ANTONIA SIQUEIRA GONCALVES, Terceira Câmara de Direito Privado, Julgado em 27/05/2020).
+Os Embargos de Declaração opostos por CARNES BOI BRANCO LTDA foram rejeitados (id 51501970).
+Alega violação aos artigos 141, 373 II e 492, do CPC, 6o. VIII, do CDC e 768, do CC, além de divergência jurisprudencial, ao argumento de que “as Decisões de primeira e segunda instância, extrapolaram os limites da lide, onde os citados dispositivos tidos como violados estabelecem que a lide deve ser resolvida nos limites em que foi proposta, vedando-se ao juiz deixar de condenar a parte demandada por razões que extrapolaram o limite da lide proposta”.
+Ainda, aduz que “a lide foi fixada nos termos da negativa, qual seja, agravamento de risco em razão do condutor se encontrar sob os efeitos de álcool, sendo estes os fatos entregues ao judiciário para que fosse aplicado o Direito”, entretanto, a “sentença não pode extrapolar o pedido do autor, pois resta claro que a causa de pedir e o pedido é quem fixam os limites da lide. Ora, todos os fatos, provas e pedidos contidos na petição inicial, foram alinhavados nos exatos termos da fundamentação contida na negativa oposta”.
+Em seguida, menciona que “prova alguma carreou aos autos para demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito do recorrente, no que tange a suposta embriaguez do condutor do veículo segurado e que tal embriaguez tenha sido a causa do acidente, a decisão se pautou em meras suposições” e que “meras alegações de vestígios de que o condutor estava sob efeito de álcool não pode ser justificativa bastante para escorar a negativa de pagamento da indenização prevista em apólice de seguro de automóvel”.
+Adiante, ainda pontua que “meras alegações de vestígios de que o condutor estava sob efeito de álcool não pode ser justificativa bastante para escorar a negativa de pagamento da indenização prevista em apólice de seguro de automóvel” argumentando que “a recorrida não apresentou provas - ônus que lhe foi imputado (Fls. 182) - de que o recorrente tenha entregue o veículo deliberadamente a pessoa inabilitada e nem tampouco de que a ausência da habilitação fora a causa direta do acidente”.
+Caminhando para o final, aponta que “é pacífico no Superior Tribunal de Justiça que a ausência de habilitação para dirigir não configura, por si só, o agravamento intencional do risco por parte do segurado, apto a afastar a obrigação de indenizar da seguradora”.
+Ao final, pugna para que “seja dado provimento ao presente recurso especial, antes as evidentes afrontas aos mencionados dispositivos de leis federal, inclusive a preliminar suscitada, devidamente demonstrados nas razões recursais”.
+Recurso tempestivo (id 53885459).
+Contrarrazões (id 56299459).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Cláusulas contratuais (Súmulas 5 e 7 do STJ)
+Conforme o art. 105, III, da CF, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais e, consequentemente, não é possível o exame de matéria fático-probatória, o que inclui a interpretação de cláusulas contratuais, conforme prelecionam as Súmulas 5 e 7 do STJ.
+Em síntese, a controvérsia processual reside no desprovimento do apelo interposto contra a sentença de primeiro grau que “julgou improcedentes os pedidos da inicial, em que se almejava o pagamento da cobertura securitária referente ao valor do veículo PICK UP L-200 TRITON, CB DUPLA, 4X4, ano 2008/2008, placa JAS-0208, além de indenização por danos morais e outros. Por fim, ainda o condenou ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da causa, na forma do art. 85, §2o, CPC”.
+A suposta ofensa aos artigos 141, 373 II e 492, do CPC, 6o. VIII, do CDC e 768, do CC, está amparada na assertiva de que “é pacífico no Superior Tribunal de Justiça que a ausência de habilitação para dirigir não configura, por si só, o agravamento intencional do risco por parte do segurado, apto a afastar a obrigação de indenizar da seguradora”, bem como de que “meras alegações de vestígios de que o condutor estava sob efeito de álcool não pode ser justificativa bastante para escorar a negativa de pagamento da indenização prevista em apólice de seguro de automóvel” argumentando que “a recorrida não apresentou provas - ônus que lhe foi imputado (Fls. 182) - de que o recorrente tenha entregue o veículo deliberadamente a pessoa inabilitada e nem tampouco de que a ausência da habilitação fora a causa direta do acidente”.
+A colenda câmara, no entanto, não reconheceu que a Recorrida tenha agido com dolo, uma vez que havia uma parada programada para ocorre, vejamos (id 44440467):
+“Na presente hipótese, é fato incontroverso nos autos que o sobrinho do apelante, menor de idade e desprovido de habilitação para dirigir, conduzia o veículo segurado no momento infortúnio, fato este é que confirmado tanto pelo Boletim do Acidente de Trânsito elaborado pela Polícia Rodoviária Federal (Id 36056475 – Pág. 4), como pela oitiva do sobrinho do autor perante o Juízo, que não somente ratificou que possuía apenas 17 (dezessete) anos de idade na data do acidente como também que não possuía habilitação de trânsito.
+Por outro lado, em que pese as alegações do recorrente, tem-se que restou demonstrado que o sinistro decorreu da imperícia do condutor inabilitado e da violação ao dever de vigilância do segurado, que, conforme alegado na própria peça exordial, deixou o veículo sinistrado na residência do seu irmão e pai do causador do sinistro, subentendendo-se que a chave estava no local, razão pela qual agiu com acerto a seguradora ao negar o pagamento da indenização.
+Importante esclarecer, conforme entendimento consolidado pela jurisprudência, que a ausência de habilitação do condutor para dirigir veículo não configura, por si só, o agravamento do risco do contrato de seguro veicular, sendo que a falta de habilitação deste caracterizará o agravamento do risco contratado se esta for a causa determinante do sinistro, mormente quando o segurado viola seu dever de guarda e vigilância do automóvel, deixando de evitar que o condutor não habilitado dirija o veículo objeto do contrato, como sói a espécie dos autos.
+Isso porque, pelo que dos autos consta, o sinistro ocorreu por volta das 18h08min de um domingo, dia 26 de janeiro de 2014, quando o veículo segurado era conduzido pelo sobrinho do segurado, à época com 17 (dezessete) anos de idade, sem habilitação para dirigir, e em local com boa visibilidade, que, embora nublado, a via estava seca.
+Além disso, pertinente registrar que, de acordo com o Boletim de Ocorrência acostado no Id 36056964 – págs. 4 a 13, o veículo segurado, no momento do sinistro, encontrava-se com excesso de ocupantes (06), bem ainda que havia vestígios de que os mesmos ingeriram bebida alcóolica, tanto que na descrição dos relatos há expressa menção de que todos estavam retornando de uma festa na região.
+Sopesando-se tais circunstâncias, mormente o fato de que havia visibilidade, o tempo, apesar de nublado, estava bom, a via não padecia de qualquer irregularidade e o condutor do veículo não possuía habilitação, conclui-se que o acidente se deu em decorrência da imperícia do condutor, que perdeu o controle do veículo, muito provavelmente pelo desconhecimento das regras básicas de trânsito, o que levou ao capotamento do veículo segurado.
+Diante desse contexto, ficou caracterizado o agravamento do risco contratado, o que faz afastar o dever de indenizar, tal como decidido pelo Juízo a quo, tendo por base cláusula de exclusão de risco estipulado no contrato no item 5.1.3, especificamente nas alíneas “d” e “e”, ipsis litteris:
+“5. Perda de Direitos
+5.1. Além dos casos previstos em lei, a Seguradora ficará isenta de qualquer obrigação decorrente deste contrato se:
+[...]
+5.1.3. Se o veículo segurado:
+[...]
+d) Estiver sendo dirigido por pessoa que não possua habilitação legal e apropriada para conduzi-lo, bem como por pessoa com o direito de dirigir suspenso, cassado ou vencido há mais de trinta duas, nos termos da legislação nacional.
+e) Estiver sendo dirigido por uma pessoa que esteja sob a ação de álcool, de drogas ou entorpecentes de uso fortuito, ocasional ou habitual, na ocorrência no sinistro e comprovado pela Seguradora o nexo de causalidade entre o estado de embriaguez ou de efeito de efeito de drogas do condutor do veículo e o evento que provocou os danos. Esta hipótese de perda de direitos aplica-se em qualquer situação, abrangendo não só os atos praticados diretamente pelo segurado, mas também os praticados por toda e qualquer pessoa que estiver dirigindo o veículo, com ou sem consentimento.” (Ids 36056959 e 36056960).
+In casu, em que pese o contrato em testilha ter sido analisado sob a égide do Código de Defesa do Consumidor, não há como considerar a cláusula de exclusão de riscos abusiva, uma vez que esta foi redigida de forma nítida e com clareza ao consumidor, em coadunação ao artigo 6o, inciso III do Código de Defesa do Consumidor. Senão vejamos:
+“Art. 6o São direitos básicos do consumidor:
+[...]
+III – a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço, bem como sobre os riscos que apresentem;”
+Corroborando com esse entendimento, cumpre-me destacar a liturgia do caput do artigo 757 do Código Civil[1], o qual dispõe que a seguradora obrigar-se-á apenas pelos riscos predeterminados, ou então, riscos assumidos, de sorte que sua interpretação possibilita a eleição de riscos sobre os quais recairá a cobertura securitária, bem como a exclusão daqueles que não pretende garantir.
+Dessa feita, não há como acolher o pedido de condenação da demandada ao pagamento da cobertura securitária em face do sinistro que ocorreu com o automóvel segurado, porquanto legítima, no caso dos autos, a negativa de cobertura, mormente porque o veículo sinistrado, no momento do acidente, estava sendo conduzido por pessoa não habilitada e com vestígios de embriaguez, e, dessa forma, configurou-se o risco sobre o qual a seguradora não está obrigada a responder, a teor da pactuação do item 5 do Contrato de Seguro, ao passo que o depoimento do apelante e seu sobrinho não servem como meio de prova para demonstrar que a condução do veículo por menor foi, de fato, sem o consentimento do recorrente.
+Assim, a meu sentir, in casu, entendo que agiu com acerto o Juízo a quo ao reconhecer a ausência de responsabilidade da seguradora, face a existência de cláusula de previsão de perda do direito à indenização quando o veículo estiver sendo dirigido por menor e/ou não-habilitado.”.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“DECISÃO
+1. Cuida-se de agravo interposto por ANDRE GIOVANI FAVA e OUTRA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SEGURO FACULTATIVO DE VEÍCULO. AUTOMOTOR CONDUZIDO POR MENOR DE IDADE E SEM HABILITAÇÃO NO MOMENTO DO ACIDENTE. ALEGAÇÃO DE DESCONHECIMENTO DO FATO PELOS PAIS E PELO SEGURADO. INFRAÇÃO CONTRATUAL. CONFIGURAÇÃO. INDENIZAÇÃO INDEVIDA. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 768 do Código Civil.
+Alega, em síntese, que não há falar em má-fé do segurado, ora recorrente, já que nunca emprestou o bem a terceiro, nem autorizou o uso pelo seu filho.
+E continua:
+22. Com efeito, em caso de sinistro provocado por terceiro sem habilitação na direção do veículo, a perda da cobertura contratada somente se justifica se o próprio segurado tiver agravado intencionalmente a situação de risco, v.g., facilitando a entrega voluntária do carro à pessoa sem habilitação, [...].
+[...].
+25. A corrente moderna jurisprudencial, em casos análogos ao presente, manifestou-se no sentido de que não configura agravamento do risco o fato de terceiro sem habilitação (ainda que filho ou outro parente) apoderar-se das chaves do veículo sem autorização do segurado.
+No mais, pugna pela fixação de danos morais.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal de origem reconheceu a infração contratual, assim consignando:
+Consta da sentença de improcedência que o condutor era menor de idade e não possuía habilitação para dirigir, sendo indevida a indenização por existir cláusula contratual prevendo a não cobertura do seguro em caso de condução de veículo por pessoas não habilitadas (cláusula 16a).
+O contrato de seguro foi firmado entre a autora Fabio Silva Pinturas Prediais e Ind. e a ré, tendo por objeto o veículo Chevrolet S10 Pickup Executive 2.4, placa ETB 3211.
+Relatam os autores na inicial que, no dia 19/05/2013, o menor Túlio Silva pegou as chaves do veículo segurado sem conhecimento dos pais e, mesmo sem habilitação, conduziu o automotor, causando o acidente que acarretou a perda total do bem. Pleiteiam indenização de R$ 57.494,80, correspondente ao valor de mercado do bem segundo a tabela Fipe.
+É certo que se aplica ao caso a Lei n° 8.078/90 - Código de Defesa do Consumidor -, por se tratar de relação de consumo, razão pela qual as cláusulas contratuais devem ser interpretadas de maneira mais favorável ao consumidor, nos termos do artigo 47 da legislação citada.
+Contudo, a existência de limitações e hipóteses de perda de direitos não implica no reconhecimento de abusividade.
+Dispõe o artigo 757 do Código Civil que "pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados."
+Na hipótese dos autos, o pacto firmado entre as partes contratantes prevê a perda de direitos se o veículo segurado estiver sendo dirigido por pessoa que não possua habilitação legal e apropriada para conduzi-lo, com ou sem o consentimento do segurado, situação que afasta a aplicação do artigo 768 do CC.
+[...].
+É incontroverso que, no momento do acidente, o veículo segurado era conduzido por um menor de idade, o que exclui, por si só, o pagamento da indenização prevista na apólice para o caso de perda total do veículo.
+Portanto, a negativa da indenização está amparada no contrato que previa a perda de direitos se o veículo segurado estiver sendo dirigido por pessoa que não possua habilitação.
+Os autores alegam que o filho estava na direção do veículo sem o conhecimento ou consentimento do pai, sócio da empresa segurada, contudo, as partes livremente contrataram a ausência de cobertura se o veículo segurado estiver sendo dirigido por pessoa que não possua habilitação legal e apropriada para conduzi-lo, com ou sem o consentimento do segurado, situação que afasta a aplicação do artigo 768 do CC.
+Ademais, o pai deve manter vigilância eficiente sobre o menor, e, no caso, violou dever de cuidado ao deixar as chaves ao alcance do adolescente, sendo responsável pelos atos de seu filho, não podendo transferir o prejuízo à seguradora, que não contou com essa possibilidade para calcular o risco ou mesmo para aceitar a contratação da apólice.
+[...].
+Com efeito, na hipótese específica dos autos, com base no conjunto probatório e nas cláusulas contratuais, o Tribunal local reconheceu a agravamento do risco. Nesse contexto, alterar tais conclusões para passar a afirmar inexistir agravamento do risco requer nova análise de contrato e de conjunto fático-probatório, atividades não realizáveis nesta via processual. Incidência das Súmulas n. 5/STJ e 7/STJ.
+3. Ademais, "fere a boa-fé objetiva a pretensão do segurado ao recebimento de indenização securitária em caso de sinistro causado por condutor com menos de 25 anos de idade, se, no contrato de seguro, há cláusula expressa de exclusão da cobertura para essa situação". (REsp 1284475/MG, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 06/05/2014, DJe 29/05/2014) 4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
+Brasília (DF), 17 de agosto de 2018.
+Ministro Luis Felipe Salomão
+Relator
+(Ministro LUIS FELIPE SALOMÃO, 21/08/2018) (g.n)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 10 de setembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XII
