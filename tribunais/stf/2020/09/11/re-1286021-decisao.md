@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 5ª Turma Recursal do Rio Grande do Sul, que, por unanimidade, negou provimento a recurso da parte ré. Veja-se trecho pertinente do acórdão recorrido:
+    “Cumpre ressaltar que o fato de o inciso I, do Art. 102 da Lei Nº 8.112/1990 estar expressamente excluído do §2º do Art. 2º da Lei Nº 12.855/2013, ao contrário dos outros incisos do mesmo dispositivo, confirma a intenção legislativa de manter o pagamento da indenização de localidade específica durante o período de férias dos servidores beneficiados por tal indenização. Interpretar as vedações do §2º do Art. 2º da Lei Nº 12.855/2013 como um rol exemplificativo tornaria inútil a especificidade da redação das exclusões, tendo em vista que a simples menção genérica ao Art. 102 da Lei 8.112/1990 bastaria para excepcionar todos os afastamentos previstos no dispositivo supracitado.
+    Por fim, não há que se falar em concessão de aumento de vencimentos pela via judicial. A decisão recorrida apenas reconheceu o direito às indenizações financeiras decorrentes do exercício da função em localidade estratégica nos períodos de férias do servidor tal como estabelecido na legislação de regência, o que não implica acréscimo de vencimentos em si, tampouco afronta aos art. 167 e 169 da CF/88, bem assim à Súmula Vinculante 37.
+    Desse modo, neste aspecto, a sentença é de ser confirmada pelos seus próprios fundamentos, nos termos do artigo 46 da Lei 9.099/1995, combinado com artigo 1º da Lei 10.259/2001, complementados pelas razões acima expostas.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º; 37; 61, § 1º, II, a; e 167, todos da CF.
+    O recurso não deve ser provido, tendo em vista que, para dissentir da conclusão do Tribunal de origem, seria necessária a análise do material fático-probatório dos autos, assim como da legislação infraconstitucional pertinente (Lei 12.855/2013), o que não é possível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+     Publique-se.
+                Brasília, 11 de setembro de 2020.
+Ministro LUÍS RROBERTO BARROSO
+Relator
