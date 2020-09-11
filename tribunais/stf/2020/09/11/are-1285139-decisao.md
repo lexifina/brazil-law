@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO – Execução individual de sentença proferida em ação de rito ordinário – Direito dos associados da Associação dos Cabos e Soldados da Polícia Militar do Estado de São Paulo ao recebimento da GAP – Questão da autorização assemblear que já foi decidida no processo originário – Inaplicabilidade do Recurso Extraordinário nº 573.232-1/SC – Embargos julgados procedentes na 1ª instância – Sentença reformada – Recurso provido” (pág. 2 do documento eletrônico 9).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5°, XXI, da mesma Carta, sob o argumento de que
+     “[...] o recorrido não consta da relação de associados que autorizaram a propositura da ação coletiva.
+    Dessa forma, a presente execução não atende o requisito constitucional estabelecido expressamente pela própria Magna Carta e pelo entendimento consolidado por essa Corte em sede de julgamento de repercussão geral, consistente na autorização expressa do associado quando do ajuizamento da ação, razão pela qual o v. acórdão deve ser reformado para se reconhecer a ilegitimidade do ora Recorrido” (pág. 9 do documento eletrônico 15).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, em julgamento de embargos à execução, concluiu pela impossibilidade de revisão da discussão sobre a legitimidade, tendo em vista que essa questão já fora dirimida na decisão exequenda.
+    O recorrente, contudo, não impugnou esse fundamento, suficiente para a manutenção do acórdão recorrido, o que atrai a incidência da Súmula 283 desta Corte. Com essa orientação, destaco julgados de ambas as Turmas deste Tribunal:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES ESTADUAIS. PROGRAMA DE DEMISSÃO VOLUNTÁRIA. LEI ESTADUAL Nº 4.051/1987. SÚMULAS 279, 280 E 283 DO STF.
+    1. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Precedentes.
+    2. Para se chegar à conclusão diversa daquela a que chegou o juízo a quo, seria necessário o reexame de fatos e provas e o da legislação local aplicável à espécie, possibilidade obstada pelas Súmulas 279 e 280 do STF.
+    3. Agravo regimental a que se nega provimento” (ARE 800.097-AgR/PI, Rel. Min. Edson Fachin, Primeira Turma – grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA PROVIMENTO (RE 696.966-AgR/DF, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    Além disso, para divergir do acórdão recorrido e apurar a procedência dos argumentos consignados no recurso extraordinário, notadamente quanto à existência, ou não, de autorização do exequente para a propositura de ação coletiva, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do Supremo Tribunal Federal. Nessa linha, destaco o RE 1.207.148-AgR/DF, de relatoria do Ministro Celso de Mello, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – PRECEDENTES – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com apoio no art. 85, § 11, do Código de Processo Civil, majoro os honorários em 20% (vinte por cento) do total da verba fixada a esse título, observados os limites legais.
+    Publique-se.
+    Brasília, 11 de setembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
