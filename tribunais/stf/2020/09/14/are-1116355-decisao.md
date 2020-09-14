@@ -1,0 +1,46 @@
+DECISÃO
+REPERCUSSÃO GERAL INADMITIDA –
+AÇÃO CIVIL PÚBLICA – SENTENÇA GENÉRICA – EXECUÇÃO INDIVIDUAL – LEGITIMIDADE ATIVA – MATÉRIA INFRACONSTITUCIONAL – AGRAVO – DESPROVIMENTO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Tribunal de Justiça do Estado de São Paulo, alterando o entendimento do Juízo, julgou parcialmente procedente a impugnação ao cumprimento individual de sentença decorrente de ação civil pública, na qual condenada a instituição financeira a ressarcir aos clientes as diferenças relativas à remuneração das cadernetas de poupança no tocante à primeira quinzena do mês de janeiro de 1989. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, incisos II, XXI, XXXV, e XXXVI, LIV e LV, da Constituição Federal. Afirma abranger a sentença em ação civil pública proposta por entidade associativa apenas os associados ao tempo do ajuizamento da demanda, com expressa autorização dos substituídos. Aponta a inviabilidade de utilização dos índices previstos no Código Civil para revisão de débito alusivo a remuneração de poupança, sustentando a existência de legislação específica e o ato jurídico perfeito. Requer a fixação dos juros da mora a partir da citação na liquidação. Diz indevida a fixação de honorários advocatícios no cumprimento individual de ação coletiva.
+    2. Colho o seguinte trecho da decisão individual confirmada pelo Tribunal de origem:
+    A pretensão da poupadora de receber os expurgos inflacionários originários dos planos econômicos pode ser classificada como exemplo dos interesses individuais homogêneos, os quais são definidos por Hugo Nigro Mazzilli como:
+    [...]
+    Ao regular os efeitos da coisa julgada nas ações coletivas para a defesa dos aludidos interesses, o inciso III, do artigo 103 do Código de Defesa do Consumidor dispõe:
+    [...]
+    A credora é titular da pretensão deduzida em juízo, qual seja receber o saldo da conta-poupança, mantida junto à ré, referente ao mês de janeiro do ano de 1989.
+    Assim, por se tratar da execução individual, o foro competente pode ser tanto o do domicílio da exequente, quanto a localidade onde foi processada a ação condenatória, de modo que constitui faculdade da parte a escolha onde promoverá tal fase processual.
+    [...]
+    É certo que a eficácia da r. Decisão não se restringe à área da comarca ou do Estado em que foi proferida, vez que o principal objetivo da ação civil pública é evitar a multiplicidade de ações decorrentes do mesmo fato.
+    [...]
+    No tocante aos juros da mora, o artigo 405 do Código Civil Brasileiro dispõe:
+    [...]
+    Assim, a devedora incidiu em mora na data da sua citação na ação civil pública, razão pela qual a percepção dos juros moratórios oriundos da diferença da correção monetária da caderneta de poupança, referente ao mês de janeiro do ano de 1989, é devida à recorrida desde então.
+    Referido encargo aplica-se no percentual de 0,5% (meio por cento) ao mês até 10 de janeiro de 2003, início da vigência do Estatuto Substancial Civil, e, a partir desta data, calcula-se no percentual de 1% (um por cento) ao mês, conforme disposto no artigo 406 do mencionado diploma legal C.C. O artigo 161 do Código Tributário Nacional.
+    A correção monetária da dívida não constitui um “plus” ou penalidade à devedora, mas tão-somente reposição do real valor da moeda, corrigido pela inflação.
+    A Tabela Prática do Tribunal de Justiça do Estado de São paulo foi criada para promover a segurança jurídica através da uniformização dos fatores de atualização, sendo que tal tabela contempla os expurgos inflacionários e a correção monetária de acordo com índices oficiais.
+    Desse modo, são aplicáveis durante todo o período os aludidos índices para a correção monetária do valor da dívida, por serem mais adequados e refletirem a verdadeira inflação, bem como as alíquotas mais adequadas à época.
+    [...]
+    Aliás, a mencionada Tabela prevê expressamente a aplicação do percentual inflacionário de 10,14% para o mês de fevereiro do ano de 1989, razão pela qual tal índice foi observado, ainda que implicitamente.
+    [...]
+    Não merece prosperar o alegado equívoco cometido na elaboração do cálculo da diferença da correção monetária, devida no mês de janeiro de 1989.
+    Isto porque os valores a serem pagos correspondem à diferença entre o índice creditado, à época, pelo banco (22,35%) e aquele realmente devido no correspondente período (42,72%), em estrita observância ao que foi determinado pelo Supremo Tribunal Federal, nos autos da ação coletiva.
+    Nos termos do artigo 652-A, do Código de Processo Civil, aplicável ao caso por força do artigo 475-R, que estabelece a aplicação subsidiária ao cumprimento da sentença das normas que regem o processo de execução de título extrajudicial:
+    [...]
+    É certo que regularmente intimada para pagar o débito, nos termos do artigo 475-J do Estatuto Adjetivo Civil, a instituição financeira se limitou a depositar o montante exequendo, para garantia do Juízo.
+    Portanto, consoante entendimento da supracitada Corte, os honorários advocatícios são devidos, eis que não houve pagamento voluntário do débito.
+    Ademais, a verba honorária advocatícia, arbitrada na demanda coletiva, não pode ser aproveitada pela poupadora, que não participou da ação civil pública ajuizada pelo IDEC, razão pela qual é de rigor a exclusão da correspondente quantia, que constou indevidamente da planilha do débito de fls. 19, elaborada pela credora.
+    Por outro lado, os juros remuneratórios ficam excluídos do montante exequendo, eis que não foram previstos no dispositivo da r. Sentença proferida pela 12ª Vara Cível da Comarca de Brasília e mantida pelo Egrégio Tribunal de Justiça do Distrito Federal.
+    [...]
+    Tal matéria restou pacificada no julgamento do recurso especial nº 1.392.245/DF, nos moldes do artigo 543-C do Código de Processo Civil, conforme se depreende do seguinte excerto:
+    [...]
+    Entretanto, como a agravante aduziu que o aludido encargo é devido, ao menos no que tange ao mês de fevereiro de 1989, para evitar a prolação de decisão ultra petita, sua incidência fica adstrita a este período.
+    [...]
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o Supremo, ao julgar o recurso extraordinário com agravo nº 901.936, concluiu pela ausência de repercussão geral do tema relativo à legitimidade ativa para execução individual de sentença condenatória genérica proferida em ação civil pública ajuizada por associação, considerados os efeitos da coisa julgada. Confiram com a seguinte ementa:
+    PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO DE SENTENÇA CONDENATÓRIA GENÉRICA PROFERIDA EM AÇÃO CIVIL PÚBLICA AJUIZADA POR ASSOCIAÇÃO. LEGITIMIDADE ATIVA. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A presente demanda consiste em execução individual de sentença proferida em ação civil pública. O recurso extraordinário suscita a ilegitimidade ativa dos exequentes, ao argumento de que não deram autorização individual e específica à associação autora da demanda coletiva para os representarem no processo de conhecimento, tampouco demonstraram sua condição de associados. Alega-se ofensa ao art. 5º, XXI e XXXVI, da Constituição, bem como ao precedente do Plenário do Supremo Tribunal Federal formado no julgamento do RE 573.232/SC. 2. Ocorre que, conforme atestaram as instâncias ordinárias, no dispositivo da sentença condenatória genérica proferida no processo de conhecimento desta ação civil pública, constou expressamente sua aplicabilidade a todos os poupadores do Estado de Santa Catarina. Assim, o fundamento da legitimidade ativa para a execução, no caso, dispensa exame sobre a necessidade de autorização das associações para a representação de seus associados. Em verdade, o que está em jogo é questão sobre limites da coisa julgada, matéria de natureza infraconstitucional cuja repercussão geral, inclusive, já foi rejeitada por esta Corte em outra oportunidade (ARE 748.371-RG, Rel. Min. GILMAR MENDES, DJe de 1º/8/2013). 3. Outrossim, ao tratar dos limites subjetivos de sentença condenatória genérica proferida nos autos de ação civil pública ajuizada por associação, o Tribunal de origem valeu-se de disposições da Lei 7.347/85 e do Código de Defesa do Consumidor, cujo exame é inviável em recurso extraordinário. 4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 5. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC. (Recurso extraordinário com agravo nº 901963/RG, relatado no Pleno pelo ministro Teori Zavascki, acórdão publicado no Diário de Justiça de 16 de setembro de 2015).
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 14 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
