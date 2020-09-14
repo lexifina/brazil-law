@@ -1,0 +1,21 @@
+DECISÃO
+AÇÃO RESCISÓRIA – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. Adoto, como relatório, as informações prestadas pela assessora Isabela Leão Monteiro:
+    Marlene Tiecher Jager busca rescindir acórdão, formalizado pela Segunda Turma do Supremo no agravo regimental em mandado de segurança nº 29.674, relator ministro Teori Zavascki, por meio do qual reconhecida a ilegitimidade do provimento de serventia extrajudicial sem concurso público. Evoca o artigo 966, incisos V e VII, do Código de Processo Civil.
+    Narra haver tomado posse, em 1978, após aprovação em certame, no cargo de Oficial Distrital de São Pedro de Butiá/RS. Publicado, em 1993, o Edital de Vacância para Remoção, diz ter concorrido às vagas disponibilizadas, sendo contemplada com a de Tabeliã na Comarca de Guarani das Missões. Menciona a remoção, observados os critérios da legislação estadual.
+    Noticia haver o Conselho Nacional de Justiça, ao publicar a Resolução nº 80/2009, declarado a vacância de cartórios de notas e registros. Sublinha que, no pedido de providências nº 0000384-41.2010.2.00.0000, o Corregedor Nacional de Justiça tornou pública a relação provisória em todas as unidades da Federação, sendo disponibilizada, em julho de 2010, lista geral, incluído o Cartório por si ocupado. Irresignada, impetrou mandado de segurança, no qual reconhecida a legitimidade do ato tido como coator, levando em conta precedentes deste Tribunal.
+    Aponta ofensa ao artigo 236, § 3º, da Constituição Federal, argumentando possuir eficácia limitada, no que regulamentado somente em 1994, pela Lei nº 8.935, de 18 de novembro daquele ano. Sublinha contrariedade ao artigo 16 do diploma, a versar o preenchimento de vagas mediante remoção. Assinala violado o artigo 54 da Lei nº 9.784/1999, uma vez desrespeitado o prazo revisional de 5 anos. Articula com erro de fato, considerada citação, no acórdão rescindendo, de jurisprudência referente a permuta, impertinente na espécie.
+    Requereu, no campo precário e efêmero, enquanto pendente o tema de fundo desta rescisória, o afastamento dos efeitos do acórdão formalizado, em sede de agravo interno, no mandado de segurança. Postula, alfim, a desconstituição.
+    Vossa Excelência deixou de implementar a tutela antecipada, salientando reiteradas decisões do Supremo, inclusive do Plenário, em relação às quais adotou óptica diversa.
+    A União, em contestação, sustenta o não cabimento da ação, utilizada como sucedâneo recursal. Diz da ausência de violação a norma jurídica e de controvérsia jurisprudencial, observado o entendimento do Tribunal quanto à necessidade de realização de concurso público para investidura dos titulares de cartório extrajudicial. Assevera inexistente erro de fato no tocante à jurisprudência colacionada no ato, e sim rejeição dos argumentos suscitados pela impetrante.
+    A ré informou não ter provas a produzir, e a autora não se manifestou.
+    Em razões finais, a União reiterou a contestação. A autora permaneceu inerte.
+    A Procuradoria-Geral da República opina pela improcedência do pedido.
+    2. O tema de fundo está em harmonia, considerada a decisão rescindenda, com reiterados pronunciamentos do Supremo. Assim o é levando em conta a autoaplicabilidade do artigo 236 da Constituição Federal, a exigir concurso público para provimento de cartório de notas e de registro, e a impertinência do artigo 54 da Lei nº 9.784/1999, no que prevê o prazo de cinco anos para a Administração Pública tornar insubsistente ato formalizado.
+    Sob o ângulo do erro de fato, surge a impropriedade da evocação, a partir de ter-se mencionado, na decisão proferida, precedentes que não guardam adequação com a espécie. O erro de fato pressupõe contenha o pronunciamento admissão de circunstância inexistente ou considere ausente situação efetivamente ocorrida.
+    Em síntese, esta ação de impugnação autônoma somente serve à sobrecarga da máquina judiciária, emperrando-a ainda mais.
+    3. Nego seguimento à ação rescisória. Condeno a autora nas despesas processuais, arbitrando honorários advocatícios, em favor da União, nos termos do artigo 85, § 8º, do Código de Processo Civil, no valor de R$ 5.000,00.
+    4. Publiquem.
+Brasília – residência –, 14 de setembro de 2020, às 14h35.
+Ministro MARCO AURÉLIO
+Relator
