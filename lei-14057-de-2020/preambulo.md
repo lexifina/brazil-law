@@ -1,0 +1,2 @@
+Disciplina o acordo com credores para pagamento com desconto de precatórios federais e o acordo terminativo de litígio contra a Fazenda Pública e dispõe sobre a destinação dos recursos deles oriundos para o combate à Covid-19, durante a vigência do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera a Lei nº 7.689, de 15 de dezembro de 1988, e a Lei nº 8.212, de 24 de julho de 1991.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
