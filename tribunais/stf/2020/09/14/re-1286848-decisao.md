@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal do Estado do Amapá, que negou provimento a recurso da parte ré. Veja-se trecho pertinente do acórdão recorrido:
+    “Trata-se de Recurso Inominado interposto pelo Município de Macapá em face de sentença que julgou procedente pedido inicial consistente no reconhecimento do direito da parte autora ao recebimento de seus vencimentos no valor do piso nacional, com sua respectiva implementação no vencimento básico da parte autora e na condenação para pagar os valores retroativos referentes às diferenças entre os valores pagos e valor do piso nacional unificado pela Lei Federal nº 12.994/2014 com as modificações da Lei Federal nº 13.708/2018, até a efetiva implementação.
+    Em síntese, alega a parte recorrente que a Lei nº 11.350/2006, alterada pela Lei nº 12.994/14, não se aplica a parte autora porque regulamenta os servidores que estiveram sob o regime celetista, sendo estatutários os seus servidores, e que a procedência da ação irá acarretar aumento da remuneração da parte autora.
+    Não há controvérsia quanto à procedência do pedido da parte autora. A Turma Recursal, a propósito, já se pronunciou a respeito em demandas idênticas no sentido de que a Lei Federal nº 12.994/2014, que alterou a Lei nº 11.350/06, fixou o piso salarial dos agentes comunitários de saúde e agentes de combates a endemias que deve ser observado pela União, pelos Estados, pelo Distrito Federal e pelos Municípios, conforme se observa dos julgados abaixo colacionados.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte sustenta a ocorrência de violação aos arts. 30, I e V; 37, X e XIII; 61, § 1º, II, a; art. 165, I a III, §§ 2º e 6º e 169, § 1º, I e II, todos da CF.
+    O recurso não deve ser provido.
+    Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional pertinente (Lei 15.052/2017 e 12.994/2014), o que é incabível em recurso extraordinário, Nesse sentido, em casos análogos ao destes autos, cito o RE 1.286.518, Relª. Minª. Rosa Weber; o ARE 1.276.373, Rel. Min. Alexandre de Moraes; o RE 1.276.117, Rel. Min. Luiz Fux; e o ARE 1251354-AgR, Rel. Min. Dias Toffoli, Presidente, Tribunal Pleno.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 14 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
