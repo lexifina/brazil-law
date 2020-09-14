@@ -1,0 +1,9 @@
+LEI N. 5.248, DE 14 DE SETEMBRO DE 2020.
+
+DISPÕE sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+CAPÍTULO I DISPOSIÇÕES PRELIMINARES
