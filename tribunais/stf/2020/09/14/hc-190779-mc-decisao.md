@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO ESPECIAL – TEMPESTIVIDADE – RELEVÂNCIA – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Caio Salles prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Balneário Camboriú/SC, no processo nº 0000777-39.2014.8.24.0005, condenou o paciente a 6 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto, e 14 dias-multa, ante a prática do crime versado no artigo 157, § 2º, incisos I e II (roubo com causas de aumento alusivas ao emprego de arma e concurso de agentes), do Código Penal.
+    A Quinta Câmara Criminal do Tribunal de Justiça proveu parcialmente apelação interposta pela defesa, redimensionando a pena em 5 anos e 4 meses de reclusão. Com embargos declaratórios, não se alcançou êxito. A Segunda Vice-Presidência inadmitiu recurso especial.
+    No Superior Tribunal de Justiça, o Presidente desproveu o agravo nº 1.527.523/SC, assentando a intempestividade do especial. Ressaltou que, publicado o acórdão impugnado em 13 de dezembro de 2018, a manifestação do inconformismo ocorreu em 17 de janeiro seguinte. Teve como inaplicável, a processos criminais, a suspensão dos prazos prevista no artigo 220 do Código de Processo Civil, considerado o artigo 798 do Código de Processo Penal, norma específica. A Quinta Turma negou provimento a agravo interno. Declarou inexistir, quando da interposição do recurso, comprovação da suspensão de prazos. Com embargos de declaração, não se obteve êxito.
+    Os impetrantes sustentam a tempestividade do recurso especial. Articulam com as Resoluções nº 29/2018 do Tribunal de Justiça do Estado de Santa Catarina e 244/2016 do Conselho Nacional de Justiça, a versarem a suspensão dos prazos processuais no período compreendido entre 20 de dezembro e 20 de janeiro. Ressaltam comprovada a suspensão do lapso, no Tribunal de Justiça, ante a menção, no ato por meio do qual a Segunda Vice-Presidência inadmitiu o especial, à Resolução nº 29/2018.
+    Requerem, no campo precário e efêmero, a suspensão dos efeitos do título condenatório. Buscam, alfim, seja determinado ao Superior Tribunal de Justiça que proceda à análise de mérito do agravo em recurso especial, afastado o óbice referente à formalização fora do prazo.
+    2. Publicado o acórdão mediante o qual desprovidos os embargos de declaração protocolados contra o pronunciamento decorrente da apelação em 13 de dezembro de 2018, iniciou-se o prazo recursal de 15 dias corridos no dia 14, encerrando-se em 28 seguinte. A superveniência do recesso no Tribunal de Justiça, a perdurar de 20 de dezembro a 4 de janeiro, teve, como único efeito, a prorrogação do último dia para o útil subsequente, isto é, o reinício dos trabalhos forenses, ocorrido em 7 de janeiro de 2019, segunda-feira – artigo 1º, inciso I, da Resolução nº 29/2018 do Tribunal de Justiça. A interposição do recurso deu-se em 17 de janeiro, revelando-se intempestiva.
+    A suspensão dos prazos entre 20 de dezembro e 20 de janeiro, a teor do artigo 1º, inciso II, da referida Resolução, não se aplica aos processos criminais, tendo em vista que o artigo 798, § 3º, do Código de Processo Penal, norma especial a regular a matéria em jogo, estabelece a contagem contínua dos prazos processuais.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
