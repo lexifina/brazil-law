@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela BRADESCO SAÚDE S. A., com o fito de suspender a decisão que, nos autos da Ação de Obrigação de Fazer de no 1040200-28.2020.8.11.0041, ajuizada por MÔNICA CAETANO DE LIMA FERREIRA, deferiu o pedido de tutela de urgência e determinou que, no prazo de 48 (quarenta e oito) horas e sob pena de multa diária no valor de R$ 5.000,00 (cinco mil reais) limitada a 30 (trinta) dias, a agravante autorize, custeie e disponibilize o tratamento ocular quimioterápico com antiangiogênico, com aplicação de injeção intravitrea Eylia em ambos os olhos da autora, ora agravante.
+Para tanto, a agravante alega estar sendo compelida a prestar o tratamento indicado por profissional médico, sem, contudo, coexistir previsão contratual para o custeio ou qualquer obrigatoriedade emanada da Agência Nacional de Saúde Suplementar – ANS.
+Salienta que o tratamento ocular quimioterápico solicitado pela agravante não consta na Diretriz de Utilização no 74, que lista todos os procedimentos de cobertura obrigatória para referido tratamento, de modo que a sua recusa está amparada na legislação que rege a matéria e no contrato firmado entre as partes.
+Argumenta que o tratamento em questão não envolve urgência ou emergência, a ensejar o deferimento da tutela requerida.
+Pondera que o exíguo prazo para cumprimento da obrigação lhe trará graves consequências e que a multa arbitrada de forma desproporcional e desarrazoada deve ser revogada ou adequada, sob pena de enriquecimento ilícito da parte demandada.
+Assim, diante do risco de sofrer lesão grave e de difícil reparação pelos efeitos da decisão hostilizada, pede providência liminar para suspender a eficácia da decisão de base.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Apesar do esforço da agravante, por ora, não há nada que convença da liminar pleiteada.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois estão presentes os requisitos autorizadores da tutela jurisdicional, dispostos no artigo 300 do Código de Processo Civil, quais sejam, a probabilidade do direito invocado e a urgência que o caso requer, consubstanciados na patologia da agravada e na necessidade de imediato tratamento, conforme laudo médico (id. 37377973).
+Pelo que se extrai dos autos, a agravada foi diagnosticada com degeneração oftalmológica, com necessidade de tratamento por meio de injeção intravitrea com antiangiogênico, sob risco de cegueira irreversível.
+Assim, é possível concluir, desde logo, que a negativa do tratamento prescrito por profissional médico habilitado colocaria em risco a saúde da agravada, o que revela a adequação da decisão que compeliu a operadora de plano de saúde, ora agravante, a autorizar o tratamento e medicação indicadas.
+Ademais, a questão atinente à redução do valor da multa diária poderá ser enfrentada por ocasião do mérito do presente recurso, sem que, durante esse interregno, a parte sofra qualquer prejuízo.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
