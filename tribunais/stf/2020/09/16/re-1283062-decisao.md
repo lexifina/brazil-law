@@ -1,0 +1,29 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pela Turma Recursal de Jurisdição Exclusiva de Belo Horizonte, Betim e Contagem que, em sede de recuso inominado, reformou a sentença para julgar improcedente o pedido inicial.
+    Eis trecho destacado do acordão recorrido (Vol. 10, fls. 5):
+    “Peço venia para divergir do d. voto da relatora que manteve a r. sentença no sentido de determinar ao Estado que promova o recorrido em virtude de sua titulação.
+    Com efeito, o recorrido fez concurso público para ingresso no nível I da carreira, cujos vencimentos tinham previsão orçamentária específica para acudir ao pagamento.
+    A previsão de reposicionamento – o que significa dizer que a medida destina-se a quem já esteja no exercício das funções do cargo – tem como objetivo o incentivo ao aprimoramento técnico, sob pena de subversão da carreira e das normas do edital.
+    À conta de tais fundamentos, VOTO PELO PROVIMENTO DO RECURSO, para julgar improcedentes os pedidos iniciais.”
+    Os Embargos Declaratórios foram rejeitados (Vol. 16, fl. 4).
+    No Recurso Extraordinário (Vol. 19), interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta violação aos artigos 5º, LV, XXXV e LIV; e 93, IX, da Constituição Federal, defendendo, em síntese, a ausência de fundamentação do acórdão recorrido.
+    Ao sustentar a repercussão geral da questão constitucional, estes são os argumentos da parte relativos ao caso concreto (Vol. 19, fl. 8):
+    “A manutenção do acórdão recorrido importa em grave afronta aos princípios da isonomia e da segurança jurídica, haja vista que deixa de aplicar precedente de caráter vinculante firmado pelo Tribunal de Justiça de Minas Gerias em Incidente de Uniformização de Jurisprudência.
+    A relevância da questão debatida nos autos é ainda mais notória em razão da instauração de Incidente de Resolução de Demandas Repetitivas em que se discute a validade de norma estadual que prevê o posicionamento inicial do servidor em carreira de acordo com a escolaridade ostentada, exatamente o que se discute nos presentes autos.
+    Assim como o Recorrente, inúmeros servidores estaduais encontram-se na mesma situação de não terem sido posicionados no nível previsto em lei para sua escolaridade, de modo que resta cumprido o disposto no art. 1.035, § 1º, do Código de Processo Civil.
+    Ademais, já tendo sido admitido IRDR sobre a mesma matéria, presume-se a Repercussão Geral do tema, conforme art. 987, § 1º, do Código de Processo Civil.”
+    É o relatório. Decido.
+    Introduzido pela Emenda 54, de 1º de julho de 2020, o § 1º do art. 326 do Regimento Interno do Supremo Tribunal Federal estabelece que “poderá o relator negar repercussão geral com eficácia apenas para o caso concreto”.
+    O presente Recurso Extraordinário foi interposto por servidor público, em demanda visando ao reposicionamento em nível III na carreira de Especialista em Políticas e Gestão da Saúde, com publicação retroativa a Março de 2016, em decorrência de possuir título de pós graduação latu sensu antes de sua nomeação para o cargo.
+    .
+    Pois bem: os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR- segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    No presente caso, a parte recorrente não apresentou elementos concretos, indicativos da presença de repercussão geral.
+    De todo modo, da análise dos autos, verifica-se que a questão controvertida não extrapola os limites da causa e o interesse subjetivo das partes envolvidas. Trata-se de tema específico, de efeito restrito e aplicação limitada.
+    Diante do exposto, com base no art. 326, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    ADVIRTAM-SE AMBAS AS PARTES de que, decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 16 de setembro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente.
