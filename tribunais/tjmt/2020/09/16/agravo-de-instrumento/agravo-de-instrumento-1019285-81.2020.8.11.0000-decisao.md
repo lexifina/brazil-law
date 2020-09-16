@@ -1,0 +1,31 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+RECURSO DE AGRAVO DE INSTRUMENTO N. 1019285-81.2020.8.11.0000
+AGRAVANTE(S): TIAGO SÁ CARNEIRO
+AGRAVADO(AS): ESTADO DE MATO GROSSO, DEPARTAMENTO ESTADUAL DE TRÂNSITO DE MATO GROSSO – DETRAN-MT – e CLÁUDIO MENEGUETTI SEGA
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento, com pedido liminar, interposto por Tiago Sá Carneiro, contra a decisão, proferida pelo Juízo da Sexta Vara Cível da Comarca de Lucas do Rio Verde-MT que indeferiu o pedido de tutela provisória de urgência, formulado na Ação de Obrigação de Fazer c/c Declaratória de Inexistência de Propriedade e de Débitos Tributários e Não Tributários n. 1003145-31.2020.811.0045 (id. 57447999, págs. 138/140).
+O Recorrente pretende a reforma da decisão recorrida, alegando que alienou o veículo FORD/CARGO – placas KAM 1433 –, de sua propriedade para o Recorrido Cláudio Meneguetti Sega, em junho de 2010, passando-lhe uma procuração para que procedesse à transferência junto ao DETRAN/MT.
+Salienta que a transferência não foi efetivada por Cláudio Meneguetti, até a presente data, bem assim não foram pagos o IPVA e as multas, o que motivou a propositura da ação de base, visando à imediata transferência do automóvel para o nome do real proprietário e à proibição de inclusão de seu nome, pelo DETRAN/ SEFAZ, nos registros desabonadores de crédito.
+Aduz que a procuração por ele outorgada a Cláudio Meneguetti Sega, por instrumento público para alienação fiduciária, em nome deste, junto ao DETRAN/MT, comprovam a comercialização do veículo.
+Argumenta que a concessão da tutela provisória de urgência não exige prova inequívoca, mas apenas a plausibilidade da pretensão.
+Afirma que a demora da prestação jurisdicional pode acarretar-lhe sérios danos, já que continua responsável por débitos e multas incidentes sobre o veículo do qual não é mais proprietário, podendo haver a inscrição de seu nome em dívida ativa, além de que, a qualquer momento, o veículo pode-se envolver em acidente, recaindo sobre ele a responsabilidade cível e criminal.
+Ao final, pugna pela concessão da tutela recursal, para que seja determinada a imediata transferência do veículo ao Agravado Cláudio Meneguetti Sega, bem assim que o Estado do Mato Grosso (SEFAZ) abstenha-se da cobrança dos débitos do veículo, proibindo, inclusive, a anotação de seu nome nos registros negativos de crédito, até o final do julgamento definitivo deste Recurso.
+É o relatório. Decido.
+Como explicitado no relatório, trata-se de Recurso de Agravo de Instrumento, interposto por Tiago Sá Carneiro, contra a decisão, proferida pelo Juízo da Sexta Vara Cível da Comarca de Lucas do Rio Verde/MT que indeferiu o pedido de tutela provisória de urgência, formulado na Ação de Obrigação de Fazer c/c Declaratória de Inexistência de Propriedade e de Débitos Tributários e Não Tributários n. 1003145-31.2020.811.0045.
+A questão resume-se em saber se é o caso de conceder, liminarmente, a antecipação da tutela da pretensão recursal, consoante a norma procedimental do artigo 1.019, inciso I, do Código de Processo Civil (Lei 13.105/2015).
+A antecipação da tutela da pretensão recursal somente será concedida nos casos em que houver probabilidade de provimento do recurso ou houver risco de dano grave ou de difícil reparação, por aplicação analógica do artigo 1.012, parágrafo 4o.
+Da análise dos argumentos esposados pelo Recorrente e dos documentos que instruem o presente Recurso, entendo que o requisito da probabilidade de provimento NÃO foi preenchido, já que a procuração outorgada ao Recorrido Cláudio Meneguetti Sega (id. 57447999, pág. 23) não comprova, efetivamente, a venda do veículo, mas apenas confere poderes para que possa vendê-lo ou transferi-lo a qualquer pessoa. Veja-se:
+(...) A quem confere os mais amplos e gerais poderes para o fim especial de vender ou transferir o veículo: Espécie/Tipo: CAR/CAMINHÃO/CARROC AB – Marca/Modelo: FORD/CARGO 1317 – Placa: KAM- 1433 – Chassi: 9BFXCE2U37BB84862 – Cod. Renavam: 911615377, (que o outorgante declara ser de sua propriedade), podendo para tanto receber, firmar recibo, da quitação; representá-lo perante DETRAN, CONTRAN, CIRETRAN, DNER, Inspetoria de Trânsito, Delegacias de Roubos e Furtos de Veículos ou em qualquer outro órgão do trânsito que se fizer necessário; assinar termos de transferências e quaisquer outros documentos que forem exigidos; podendo ainda pagar taxas; exigir quitação; juntar, requerer e retirar segunda via de DUT, IPVA, certidões e certificados; promover emplacamentos, licenciamentos, liberações, vistorias; comunicar acidentes; promover registros de ocorrência; requerer e tomar ciência de laudos periciais; praticando enfim todos os atos necessários para o fiel desempenho deste mandato, inclusive substabelecer com ou sem reserva de poderes.
+Vê-se, portanto, que a procuração outorgada a Cláudio Meneguetti Sega, diferentemente do sustentado pelo Recorrente, não indica a ocorrência de venda, apenas dá poderes para que possa vender e(ou) transferir o veículo.
+Da mesma forma, a alienação do veículo ao Banco Santander S/A, em nome de Cláudio Meneguetti Sega, não é prova de que, de fato, ocorreu a venda, porque o registro pode ter ocorrido por diversos fatores, inclusive, para o levantamento de dinheiro.
+Enfatizo que a ninguém não é lícito desconhecer as regras jurídicas, notadamente, na hipótese de habilitado a conduzir veículo pelo órgão estadual, pois, quando faz o exame, tem que ter o conhecimento das regras específicas do Código de Trânsito Brasileiro. E, neste sistema jurídico, há regra clara pela qual, quando houver a transferência do veículo motorizado, o alienante tem o dever de comunicar o órgão estatal a sua venda.
+O Agravante, ao deixar de fazer a comunicação de venda, assumiu o risco de o veículo continuar transitando em seu nome.
+Nessa esteira, a não concessão do pleito de antecipação da tutela recursal é medida impositiva.
+Ante o exposto, NÃO CONCEDO o pedido de antecipação da tutela recursal formulado.
+Intimem-se os Agravados para contraminutar o Agravo, no prazo legal.
+Após, encaminhem-se os autos à Procuradoria-Geral de Justiça.
+Ultimadas as providências, voltem-me os autos para julgamento.
+Intime-se e cumpra-se.
+Cuiabá/MT, 16 de setembro de 2020.
+Des. Márcio VIDAL,
+Relator.
