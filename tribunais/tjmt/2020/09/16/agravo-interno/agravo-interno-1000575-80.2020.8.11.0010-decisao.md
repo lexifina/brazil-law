@@ -1,0 +1,20 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO INTERNO 1000575-80.2020.8.11.0010
+AGRAVANTE: ITELVINO GENTIL STEFANELLO
+AGRAVADA: AGP AGROPECUÁRIA LTDA
+Vistos etc
+Trata-se de agravo interno interposto por ITELVINO GENTIL STEFANELLO contra de concessão de efeito suspensivo ao recurso de apelação de AGP AGROPECUÁRIA LTDA (agravada), em face de sentença de parcial procedência dos embargos à execução opostos pela ora agravada, apenas para reconhecer o excesso da execução, afastando-se a incidência de juros e correção monetária sobre a dívida (nada impedindo a incidência em caso de futura conversão da execução para entrega de coisa cerca em execução por quantia certa) e limitando a multa da cláusula penal à 10% (dez por cento) sobre o valor inadimplido. Na sentença, foi revogado o efeito suspensivo concedido nos embargos à execução.
+O agravante assevera que a execução e os atos de expropriações futuros são consequências naturais da confessa inadimplência da agravada, o que não seria razão para a suspensão sequer de embargos à execução, tampouco deveria ser para o deferimento do efeito suspensivo aqui combatido; afirma que “essa “espera”, por menor que seja, se torna ainda mais perversa, na medida em que além de ser um senhor de avançada idade, cujo crédito pleiteado se apresenta como as economias amealhadas em uma vida, conta com esses valores para saldar o débito contraído na aquisição de uma propriedade rural adquirida após a venda de sua propriedade inadimplida, algo que está lhe prejudicado sobremaneira”.
+Comenta que a execução em Primeira Instância estava apenas com prazo para a agravada/executada se manifestar sobre os cálculos apresentados pelo exequente/agravante, quando do seu pedido de conversão; aduz a inexistência de relevante fundamentação na petição da agravada, sendo certo também que a tese de pagamento de dívida e de que seria apenas uma “anuente” (principais trazidas nos embargos e apelação), ou são totalmente destituídas de provas, ou, já foram reconhecidas como sem cabimento no julgamento do Agravo de Instrumento n.o 1006426-33.2020.8.11.0000.
+Requer neste momento, a antecipação de tutela provisória recursal, para permitir o prosseguimento da execução, ou, o prosseguimento da execução, suspendendo apenas os atos expropriatórios. Ao final, pugna pelo juízo de retratação ou submetê-lo à apreciação desta Colenda Primeira Câmara de Direito Privado (id 57084982).
+É a síntese do necessário.
+Decido.
+Direto ao ponto, os argumentos apresentados pelo agravante revelam a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, previstos no artigo 300, caput do CPC. Tais argumentos, revelam que, ao contrário da decisão de concessão do efeito suspensivo ao apelo, a petição da ora agravada é desprovida de fundamentos relevantes.
+Isso porque, não é pertinente a suspensão da ação de execução que poderá acarretar em prejuízos ao credor pela espera no recebimento de seu crédito se mantida a sentença. Ademais, o processo em Primeira Instância não está na fase de expropriação, mas de prazo para a agravada/executada se manifestar sobre os cálculos apresentados pelo exequente/agravante.
+Além disso, neste momento processual, não há relevância nos argumentos da ora agravada, já que a alegação de pagamento de dívida e de que seria apenas uma “anuente”, já foram analisadas no julgamento do Agravo de Instrumento n.o 1006426-33.2020.8.11.0000.
+Portanto, nessa fase de cognição sumária, vislumbro a probabilidade de provimento do recurso e perigo de dano ou o risco ao resultado útil do processo a ensejar na concessão do efeito ativo ao agravo interno.
+Com essas considerações, em razão da presença dos requisitos previstos no artigo 300, caput do CPC, defiro a tutela recursal de urgência para suspender a decisão de concessão do efeito suspensivo ao apelo e determinar o prosseguimento da execução em Primeira Instância.
+Intime-se a agravada para apresentar as contrarrazões.
+Cuiabá, 16 de setembro de 2020
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
