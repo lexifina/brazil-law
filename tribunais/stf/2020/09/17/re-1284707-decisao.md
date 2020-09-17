@@ -1,0 +1,29 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO INOMINADO. MAGISTÉRIO ESTADUAL. CONTRATO TEMPORÁRIO. PRETENSÃO DE NULIDADE DO CONTRATO DE TRABALHO, E EM DECORRÊNCIA O RECONHECIMENTO DE VÍNCULO TRABALHISTA. FGTS.
+    Com efeito, examinando a documentação acostada aos autos, verifica-se que a parte autora possui vínculo temporário com o Estado do Rio Grande do Sul, oriundo de contratação temporária para o exercício de funções do magistério, nos termos do art. 37, IX, da Constituição Federal e da Lei nº 10.376/95.
+    Licitamente, a contratação temporária de agentes públicos deve ser vista a partir dos princípios que regem a atividade administrativa, art. 37 da CF. Tais servidores temporários não ocupam cargo público, mas exercem função administrativa.
+    Portanto, tal contratação deve ser vista de forma diferenciada em comparação aos agentes públicos que ingressaram no quadro através de concurso público, não detendo, por sucessiva, as garantias dos vínculos que têm a Administração Pública e os servidores públicos, titulares de cargo de provimento efetivo.
+    No caso em tela, contudo, o contrato emergencial teve diversas alterações conforme documentos juntados, perdurando por 10 anos, o que configura desvirtuamento da contratação de caráter emergencial.
+    Ademais, enseja a nulidade da contratação temporária, de modo que se estendem a esta os direitos sociais previstos no art. 7º da Constituição Federal.
+    Assim, diante ao reconhecimento da nulidade da contratação temporária, é devido o depósito do FGTS na conta do trabalhador.
+    SENTENÇA REFORMADA.
+    RECURSO INOMINADO PROVIDO” (pág. 1 do documento eletrônico 9; grifado no original).
+    Os embargos de declaração que se seguiram foram parcialmente acolhidos “para reconhecer a prescrição dos depósitos fundiários anteriores a cinco anos do ajuizamento da ação, nos termos do art. 1º do Decreto nº 20.910/32” (documento eletrônico 13).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se violação dos arts. 7º, III; 37, II e IX, e § 2º, da mesma Carta.
+    Após a interposição do apelo extremo, a 1ª Vice-Presidência da Seção de Direito Público do Tribunal de Justiça do Estado do Rio Grande do Sul, com base no julgamento do ARE 709.212/DF (Tema 608 da Repercussão Geral) pelo Supremo Tribunal Federal, devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.030, II, do Código de Processo Civil. Todavia, a decisão foi mantida e o recurso extraordinário foi admitido e remetido a este Tribunal (documento eletrônico 25).
+    É o relatório necessário. Decido.
+    A pretensão recursal merece acolhida.
+    Esta Corte, ao julgar o ARE 709.212/DF (Tema 608 da Repercussão Geral), da relatoria do Ministro Gilmar Mendes, firmou tese no sentido de que o prazo prescricional para cobrança de valores não depositados no FGTS é quinquenal, conforme previsto no art. 7°, XXIX, da Constituição, superando entendimento anterior sobre prescrição trintenária. Por oportuno, trago à colação a ementa desse julgado:
+    “Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento”.
+     Observe-se, no entanto, que este Tribunal modulou os efeitos da referida decisão, como bem assentando no voto do Ministro Gilmar Mendes, nos seguintes termos:
+     “A modulação que se propõe consiste em atribuir à presente decisão efeitos ex nunc (prospectivos). Dessa forma, para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão.
+    Assim se, na presente data, já tenham transcorrido 27 anos do prazo prescricional, bastarão mais 3 anos para que se opere a prescrição, com base na jurisprudência desta Corte até então vigente. Por outro lado, se na data desta decisão tiverem decorrido 23 anos do prazo prescricional, ao caso se aplicará o novo prazo de 5 anos, a contar da data do presente julgamento” (grifei).
+    Importante frisar que essa modulação também deve ser aplicada para as ações ainda não ajuizadas em 13/11/2014, data do julgamento ARE 709.212/DF, conforme restou consignado por ocasião dos debates, in verbis:
+    “O SENHOR MINISTRO MARCO AURÉLIO – É a modulação. Apenas para afastar uma dúvida: a modulação alcança ações não ajuizadas. Não, só as ajuizadas?
+    O SENHOR MINISTRO GILMAR MENDES (RELATOR) - Também as não ajuizadas.”
+    No caso dos autos, em 13/11/2014 já havia decorrido em torno de 12 anos desde o início da contratação temporária da recorrente para o exercício de funções de magistério, de modo que, nos termos da modulação de efeitos estabelecida pela decisão paradigma, deve-se aplicar a prescrição quinquenal e não a prescrição trintenária, visto que o marco temporal de 5 anos, contados a partir de 13/11/2014, seria atingido antes do prazo de 30 anos, contados do termo inicial da prescrição.
+    Isso posto, considerando que o acórdão recorrido diverge desse entendimento, dou provimento ao recurso nos termos da fundamentação acima.
+    Publique-se.
+    Brasília, 17 de setembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
