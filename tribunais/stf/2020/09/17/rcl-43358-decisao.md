@@ -1,0 +1,28 @@
+Trata-se de reclamação com pedido de liminar proposta pelo Ministério Público do Estado do Rio de Janeiro, na qual alega usurpação de competência do Supremo Tribunal Federal - STF.
+    O reclamante sustenta, em síntese, que
+    “[o] recurso extraordinário cujo seguimento foi negado pela decisão reclamada, busca a condenação do Estado do Rio de Janeiro em dano moral coletivo, em razão da falta ou insuficiência das condições legais de encarceramento. Trata-se de responsabilidade decorrente de relação de direito público, fundamentada no art. 37, § 6º, da CRFB, que consagra a teoria do risco administrativo.
+    Não há, portanto, aderência ao tema invocado na decisão agravada pois, repita-se, a discussão do recurso extraordinário interposto pelo Ministério Público nos autos nº 0404949-77.2012.8.19.0001 é de direito público de natureza coletiva, envolvendo a responsabilidade civil do Estado de indenizar os danos morais decorrentes de sua omissão na prestação de atendimento médico adequado nos presídios fluminenses.
+    Nesse cenário, a aplicação dos efeitos da ausência da repercussão geral pela decisão reclamada, com fundamento no Tema nº 880, em hipótese absolutamente diversa daquela analisada por este Tribunal Superior, afronta a autoridade de suas decisões, a demonstrar o cabimento da reclamação.
+    Ademais, a aplicação dos efeitos da ausência de repercussão geral em hipótese não analisada no tema nº 880 usurpa a competência deste Tribunal Superior, a quem compete, com exclusividade, analisar a repercussão geral do recurso extraordinário, na forma do art. 1.035, § 2º, do CPC” (págs. 5-6 do documento eletrônico 1).
+    Ao final, requer
+    “[S]eja conhecida a presente reclamação, posto que presentes seus pressupostos de admissibilidade;
+    (ii) A suspensão da decisão reclamada, na forma do artigo 989, inciso II do CPC, na forma requerida acima;
+    (iii) A notificação da autoridade reclamada, eminente Presidente do E. Tribunal de Justiça do Estado do Rio de Janeiro para prestar informações, na forma do art. 989, I, do CPC;
+    (iv) A citação do Estado do Rio de Janeiro, beneficiário da decisão reclamada, para apresentar contestação, na forma do art. 989, III, do CPC;
+    (v) A intimação da Procuradoria-Geral da República, para a emissão de parecer;
+    (vi) A procedência da presente reclamação, para cassar a decisão proferida pelo Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro nos autos do agravo interno em recurso extraordinário nº 0404949-77.2012.8.19.0001, determinando que outra seja proferida, em atenção ao entendimento firmado pelo STF no RE nº 580.252/MS, paradigma do tema nº 365 da repercussão geral.
+    […]” (págs. 24-25 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Anoto, inicialmente, que a “[reclamação] não é recurso e não se destina a examinar o ato impugnado com vistas a repudiá-lo por alguma invalidade processual-formal ou corrigi-lo por erros em face da lei ou da jurisprudência” (Rcl 3.800-AgR/PR, Rel. Min. Ellen Gracie, Tribunal Pleno). A ementa do referido leading case é a seguinte:
+    “CONSTITUCIONAL. ART. 102, I, l, DA CF. RECLAMAÇÃO. PRESSUPOSTOS DE ADMISSIBILIDADE. ART. 13 DA LEI 8.038/90. PROCESSUAL CIVIL. ART. 542, § 3°, DO CPC. RETENÇÃO DO RECURSO EXTRAORDINÁRIO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. IMPOSSIBILIDADE DE PROVIMENTO DE NATUREZA RECURSAL EM SEDE DE RECLAMAÇÃO. 1. A pretensão de afastamento da decisão que fez incidir o teor do § 3º, do art. 542 do CPC, escapa aos pressupostos previstos na alínea l do inciso I do artigo 102 da Constituição, reproduzidos no art. 13 da Lei 8.038, de 28 de maio de 1990. 2. Reclamação não é recurso e não se destina a examinar o ato impugnado com vistas a repudiá-lo por alguma invalidade processual-formal ou corrigi-lo por erros em face da lei ou da jurisprudência. 3. Usurpação de competência desta Corte não configurada”.
+    Registre-se, também, que
+    “[não] cabe recurso de agravo ou reclamação contra decisão com que o órgão de origem, fundado em entendimento firmado em regime de repercussão geral, não admite recurso extraordinário” (Rcl 28.735-ED-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma).
+    Feitos esses registros, transcrevo, por oportuno, a ementa que sintetiza o teor da decisão reclamada:
+    “Agravo Interno interposto com fulcro nos artigos 1.021 e 1.030, §2º, do CPC, em face da decisão da 3ª Vice-Presidência que negou seguimento ao recurso extraordinário com base no Tema nº 880 do STF. Ação Civil Pública – Combate à tuberculose nas unidades prisionais do Município do Rio de Janeiro - Pretensão de indenização por danos morais coletivos – Acórdão afastando o dever de indenizar – Recurso Extraordinário – Negativa de seguimento – Correta aplicação do Tema nº 880 ‘Ausência de repercussão geral nas causas em que discuta o direito ou não à indenização por dano moral decorrente de responsabilidade civil extracontratual, por demandar a reanálise do quadro fático-probatório e de legislação infraconstitucional’ - Manutenção da decisão agravada.
+    – Recurso conhecido e não provido” (pág. 1 do documento eletrônico 13).
+    Conforme se verifica, a decisão de inadmissibilidade do recurso extraordinário está fundada em entendimento firmado por esta Suprema Corte em regime de repercussão geral, o que, como visto, inviabiliza o conhecimento deste incidente processual.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o pleito cautelar.
+    Publique-se.
+    Brasília, 17 de setembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
