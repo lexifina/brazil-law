@@ -1,0 +1,34 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Extraordinário interposto nos autos da
+APELAÇÃO CÍVEL n. 0008541-04.2009.8.11.0041
+Recorrente: ESTADO DE MATO GROSSO
+Recorrido: HELOISA REGINA MONTEIRO DA SILVA
+Vistos.
+Trata-se de Recurso Extraordinário interposto pelo ESTADO DE MATO GROSSO (id 56496000) com fundamento no art. 102, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO assim ementado (id 53365959):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS – PLANO DE SAÚDE DOS SERVIDORES PÚBLICOS DO ESTADO DE MATO GROSSO - MT SAÚDE – FALHA NA PRESTAÇÃO DE SERVIÇO DE SAÚDE – NEGATIVA DE COBERTURA PARA A REALIZAÇÃO DE CIRURGIA DE RECONSTRUÇÃO MAMÁRIA – CIRURGIA COM CARÁTER FUNCIONAL - INDICAÇÃO MÉDICA DO PROCEDIMENTO – CONTINUAÇÃO DO TRATAMENTO – COBERTURA PELO PLANO DE SAÚDE – DANO MORAL CONFIGURADO - RECURSO NÃO PROVIDO. É firme na doutrina e jurisprudência que o Código de Defesa do Consumidor incide nas relações contratuais mantidas junto a empresas operadoras de planos de saúde Na hipótese dos autos, a cirurgia de reconstrução de mama e os materiais indicados não são desnecessários ou de caráter estético, tratando-se de complementação/manutenção de tratamento iniciado e coberto pelo plano, cujos custos devem ser integralmente arcados pelo plano de saúde. “Havendo expressa indicação médica, alusiva à necessidade da cirurgia reparadora, decorrente do quadro de obesidade mórbida da consumidora, não pode prevalecer a negativa de custeio da intervenção cirúrgica indicada - mamoplastia, inclusive com a colocação de próteses de silicone -, sob a alegação de estar abarcada por previsão contratual excludente ("de cobertura de tratamentos clínicos ou cirúrgicos, e próteses, meramente para fins estéticos"); pois, na hipótese, o referido procedimento deixa de ser meramente estético para constituir-se como terapêutico e indispensável. (...) (REsp 1442236/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA). A indenização por danos morais tem finalidade compensatória e didático-pedagógica, devendo ser fixada levando-se em consideração o sofrimento ocasionado à vítima, sua função de inibição da conduta ilícita e o nível econômico das partes, sempre obedecendo ao princípio da proporcionalidade e às peculiaridades do caso concreto.” (TJMT, RAC 0008541-04.2009.8.11.0041, DR. MARCIO APARECIDO GUEDES, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 05/08/2020)
+Não foram apresentados Embargos de Declaração.
+A parte Recorrente apresentou seu recurso extraordinário sustentando que “a decisão recorrida violou a jurisprudência do Supremo Tribunal Federal acerca da responsabilidade subjetiva nos casos de omissão, pois a conduta questionada da recorrente foi omissiva e não comissiva para gerar a aludida responsabilidade objetiva”.
+Aponta a existência de repercussão geral no caso em tela, uma vez que seria “inequívoca a relevância econômica, política, social e jurídica da questão, relativa ao tema responsabilidade civil por atos omissivos das pessoas jurídicas de direito público, tema que envolve milhares de processos”.
+Assevera que o acórdão contrariou os artigos 2o e 37, § 6o, ambos da Constituição Federal, uma vez que “o caso em análise não se amolda ao clássico entendimento do STF segundo o qual “os aprovados dentro do número de vagas têm direito subjetivo à nomeação” (Recurso Extraordinário 837.311). Isso porque há uma peculiaridade que o distingue dos casos que embasaram aquele entendimento: o estado de calamidade financeira, reforçada pela crise do Covid-19, tratando-se, portanto, de distinguishing.”
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...)Requer-se o seu regular recebimento e processamento, com a posterior remessa dos autos ao Supremo Tribunal Federal. Pede-se, ademais, a concessão de efeito suspensivo ao presente recurso.”
+Recurso tempestivo, conforme certidão id 57482481.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que não trouxe qualquer fundamento relacionado ao perigo da demora ou a probabilidade do direito, limitando-se a postular pelo recebimento do recurso com o efeito suspensivo.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+No caso em tela, nem mesmo restou mencionado qualquer argumento relacionado ao perigo da demora, o que afasta, de plano, eventual concessão do efeito suspensivo.
+E ainda, a parte Recorrente afirmou que o caso não se enquadra na jurisprudência relacionada aos concursos, mas a matéria discutida nos autos é sobre indenização por danos morais e materiais, não possuindo qualquer relação com concurso público, incidindo no óbice das Súmulas 283 e 284 do STF.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência ante a ausência de fundamentação para tanto, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 17 de setembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
