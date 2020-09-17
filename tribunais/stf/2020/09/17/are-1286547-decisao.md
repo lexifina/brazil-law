@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. AÇÃO ANULATÓRIA. TRANSPORTE DE MERCADORIAS DESACOMPANHADAS DE NOTA FISCAL IDÔNEA. INFRAÇÃO MATERIAL QUALIFICADA. SENTENÇA REFORMADA. PRELIMINAR CONTRARRECURSAL DE INTEMPESTIVIDADE ACOLHIDA.
+    1. Preliminar contrarrecursal de intempestividade. Embora se admita embargos declaratórios sucessivos, necessário que o segundo recurso aponte erro, obscuridade, contradição ou omissão da decisão imediatamente anterior e não da decisão que já foi objeto do primeiro recurso. É intempestivo o recurso de apelação interposto fora do prazo de quinze dias estabelecido no artigo 1.003, § 59, do CPC, o que ocorre na hipótese dos autos, considerando que a interrupção do prazo para interposição do recurso de apelação se deu somente com os embargos de declaração inicialmente opostos pela empresa autora.
+    2. Hipótese em que a mercadoria foi transportada sem documento fiscal idôneo (Nota Fiscal Eletrônica cancelada), restando configurada infração material qualificada, nos termos dos arts. 7°, I, e 8°, I, "d", da Lei n° 6.537/73.
+    3. Embora a aceitação do DANFE como documento apto a acompanhar o trânsito das mercadorias, nos termos do Ajuste SINIEF 07/05 do CONFAZ e da Secretaria Geral da Receita Federal do Brasil, imprescindível que a Nota Fiscal Eletrônica esteja autorizada durante o trâmite, para que aquele possua validade jurídica, o que não se verifica no caso dos autos.
+    4. Nos termos do art. 8°, inc. II, da Lei n° 8.820/89, a responsabilidade passa a ser solidária às pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal.
+    5. Sentença reformada. Ônus de sucumbência redimensionados.
+    PRELIMINAR CONTRARRECURSAL ACOLHIDA. RECURSO DA AUTORA NÃO CONHECIDO. RECURSO DO RÉU PROVIDO."
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5°, XXXV, LIV e LV e 146, III, "a" e "b", da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o(s) dispositivo(s) apontado(s) como violado(s) carece(m) do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da(s) referida(s) norma(s). Ademais, a matéria apresentada nos embargos de declaração não supre o requisito do prequestionamento quando ficar caracterizada a inovação recursal. Incidem na espécie as Súmulas 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli (Presidente), DJe de 18/12/19).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PRETENSÃO DE FILIAÇÃO À ENTIDADE SINDICAL PATRONAL. EXISTÊNCIA DE ESTABELECIMENTO EMPRESARIAL NA BASE TERRITORIAL DO SINDICATO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.210.606/SP - AgR, Primeira Turma, Rel.  Min. Luiz Fux, DJe de 13/09/19).
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 17 de setembro de 2020.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
