@@ -1,0 +1,38 @@
+RECURSO DE EMBARGOS DE DECLARAÇÃO N.o 1016184-36.2020.8.11.0000
+Vistos etc.
+Cuida-se de Recursos de Embargos de Declaração opostos por Everton de Mello (Id. 54547976) e, também, GE Healthcare do Brasil Comércio e Serviços para equipamentos Médicos Hospitalares Ltda (Id. 54666474) em virtude da decisão que deferiu em parte o pedido de tutela de urgência recursal formulado pela empresa no recurso de agravo de instrumento apresentado.
+Everton de Mello alega que o decisum é contraditório, vez que o prazo (60 dias úteis) concedido à Embargada para a entrega do equipamento extrapola o trintídio previsto no art. 18 do Código de Defesa do Consumidor.
+Assim, requer o provimento dos Aclaratórios para determinar que a Embargada substitua o equipamento defeituoso no prazo legal de 30 (trinta) dias.
+Contrarrazões sob o ID. 57141992.
+GE Healthcare do Brasil Comércio e Serviços para Equipamentos Médicos Hospitalares Ltda, por seu turno, sustenta a contradição da decisão quanto ao prazo assinalado para a entrega do equipamento.
+Afirma que já solicitou a importação do aparelho, no entanto, em razão de ser fabricado no exterior e importado sob encomenda, sem olvidar todos os trâmites aduaneiros, burocracias e logísticas de transporte, dificilmente estará disponível para entrega no prazo estabelecido (60 dias úteis).
+Assim, pugna pelo provimento destes Embargos de Declaração a fim de que lhe seja concedido o prazo de 90 (noventa) dias para a entrega do equipamento. De modo alternativo, pede que seja permitida a entrega, em até 30 (trinta) dias úteis, do equipamento de demonstração que se encontra disponível no País.
+Contrarrazões sob o ID. 57083996.
+Eis o relatório. DECIDO.
+De acordo com a regra estabelecida no artigo 1.024, § 2.o do Código de Processo Civil, este Recurso deve ser julgado monocraticamente, pois foi oposto contra decisão unipessoal desta Relatora.
+Extrai-se dos autos que GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MÉDICOS - HOSPITALARES LTDA. interpôs recurso de agravo de instrumento em virtude da decisão lançada pelo Juiz da 1.a Vara Cível da Comarca de Rondonópolis que, nos autos da Tutela Antecipada Inaudita Altera Parte para Substituição de Produto Defeituoso Requerida em Caráter Antecedente n.o 1012213-34.2020.8.11.0003, movida por EVERTON DE MELLO, deferiu parcialmente o pedido de antecipação da tutela provisória de caráter antecedente para determinar que a empresa Agravante entregue e instale um novo aparelho de ultrassom “Voluson Signature”, modelo Voluson S10, com os mesmos acessórios do adquirido pelo Agravado, no prazo de 10 (dez) dias úteis, sob pena de aplicação de astreintes no importe de R$ 3.000,00 (três reais) por dia, limitando-se à importância de R$ 70.000,00 (setenta mil reais).
+Em suas razões, a Recorrente alegou que não ficaram demonstrados os requisitos para concessão da tutela de urgência.
+Ressaltou que não há probabilidade do direito alegado pelo Autor/Agravado, eis que não há qualquer problema no aparelho em discussão; o que realmente acontece é um problema na rede elétrica do local onde o equipamento está instalado e que é de total responsabilidade do Agravado.
+Aduziu que o Recorrido não permitiu a visita técnica que demonstraria que os problemas são decorrentes do local e não do equipamento.
+Afirmou que de nada adiantará que a Agravante substitua o aparelho reclamado por um novo se a rede elétrica do local onde será instalado estiver com problemas.
+Ao final, pugnou pela concessão do efeito suspensivo. Alternativamente, pleiteou pela dilação do prazo para entrega do equipamento em 90 (noventa) dias úteis.
+Esta Relatora deferiu em parte o pleito liminar, tão somente para ampliar o prazo de entrega do equipamento para 60 (sessenta) dias úteis o que deu azo à oposição destes Embargos de Declaração por ambas as partes, ao argumento de que há vício de contradição a ser sanado.
+O artigo 1.022 do diploma processual civil, define que o Recurso de Embargos de Declaração é oponível para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Nesse prisma, considera-se contraditória a decisão que traz proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação de outra.
+Everton de Mello requer o provimento dos Aclaratórios para determinar que a Embargada substitua o equipamento defeituoso no prazo legal de 30 (trinta) dias, consoante estabelecido no art. 18 do Código de Defesa do Consumidor.
+De outro lado, GE Healthcare do Brasil Comércio e Serviços para Equipamentos Médicos Hospitalares Ltda, requer o provimento destes Embargos de Declaração a fim de que lhe seja concedido o prazo de 90 (noventa) dias para a entrega do equipamento. De modo alternativo, pede que seja permitida a entrega, em até 30 (trinta) dias úteis, do equipamento de demonstração que se encontra disponível no País.
+As insurgências, todavia, não merecem prosperar pois, no caso concreto, sequer houve pronunciamento a respeito da aplicabilidade, ou não, das regras do Código de Defesa do Consumidor à lide.
+Registra-se, além disso, que a incidência das normas consumeristas não compõe o teor da decisão singular.
+O debate recursal se restringiu apenas à fase de cognição sumária, ou seja, ao exame dos elementos (probabilidade do direito invocado e perigo de dano ou risco ao resultado útil do processo) indispensáveis para a concessão da tutela de urgência pretendida pela empresa GE Healthcare.
+Em que pesem às ilações da empresa Embargante/Embargada (GE Healthcare) no sentido que o problema está na rede elétrica do Recorrido e não no aparelho, as provas coligidas ao caderno processual demonstraram que mesmo após a instalação de um circuito exclusivo e independente para a tomada de alimentação do equipamento, o vício do produto se manteve.
+Ademais, não foi evidenciado pela empresa o risco de ver seu direito perecer ou de sofrer prejuízo irreversível, caso não seja desde logo reformada a decisão a quo.
+Assim, em juízo de cognição superficial, constatou-se a existência de obrigação da empresa Embargante/Embargada em fornecer um novo aparelho de ultrassom “Voluson Signature”, modelo Voluson S10, ao Embargado.
+Com efeito, considerando a afirmação da empresa Recorrente de que o aparelho não é produzido em grande escala, firmei o entendimento, em cognição preambular, de que o prazo concedido pelo Juiz a quo (10 dias úteis) é desarrazoado para o cumprimento da obrigação e, de outro lado, tem-se por extenso demais o prazo postulado pela Embargante (90 dias úteis).
+Nessa linha de raciocínio, foi fixado o prazo de 60 (sessenta) dias úteis para a entrega do equipamento à parte adversa, período mais sensato e coerente diante das peculiaridades do caso concreto.
+Diante dos fundamentos delineados na decisão unipessoal, dessume-se que não há proposições inconciliáveis entre si. O que se percebe, de maneira cristalina, é a irresignação dos Embargantes quanto ao resultado obtido na fase inicial do Instrumental, isso porque, ao invés de 90 (noventa) dias úteis, esta Relatora determinou a entrega do equipamento em 60 (sessenta) dias úteis.
+Nesse prisma e, sem maiores delongas, dessume-se que o caso em tela não se trata de vício de contradição, mas sim, do inconformismo de ambos aos Embargantes acerca do prazo fixado por esta Relatora na decisão liminar.
+Diante do exposto, considerando que não há qualquer vício a ser sanado, rejeito os Embargos de Declaração opostos nos IDs. 54547976 e 54666474.
+Publique-se. Intime-se.
+Cuiabá, 17 de setembro de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
