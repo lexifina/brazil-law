@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. REQUISITOS LEGAIS. TERMO INICIAL DO BENEFÍCIO.
+    Da análise dos arts. 42 e 59 da Lei n° 8.213/91, conclui-se que são requisitos para a concessão dos benefícios por incapacidade: (a) a qualidade de segurado do requerente; (b) o cumprimento da carência de 12 contribuições mensais; (c) a superveniência de moléstia incapacitante para o desenvolvimento de atividade laboral que lhe garanta a subsistência; e (d) o caráter permanente da incapacidade (para a aposentadoria por invalidez) ou temporário (para o auxílio-doença). Comprovada a existência de incapacidade permanente para o trabalho, é inafastável o reconhecimento do direito do(a) autor(a) à concessão de aposentadoria por invalidez.
+    Em se tratando de segurado especial, não tendo sido determinado no laudo médico pericial o momento de início da incapacidade laboral, é de se adotar como termo inicial do benefício de aposentadoria por invalidez a data do requerimento administrativo e, na ausência deste, a data do ajuizamento da ação. Inteligência do art. 43, § 1°, alínea b, da Lei n° 8.213/91” (pág. 11 do documento eletrônico 10).
+    Os embargos de declaração que se seguiram foram parcialmente providos apenas para fins de prequestionamento (documento eletrônico 17).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se violação dos arts. 2º e 5º, XXXV, LIV e LV, da mesma Carta.
+    O Instituto Nacional do Seguro Social – INSS requer, em síntese, a reforma do acórdão recorrido
+    “[...] para reconhecer a impropriedade do conhecimento de mérito da pretensão da parte recorrida à concessão de beneficio previdenciário, ante a notória falta de prévio requerimento administrativo [...]” (pág. 19 do documento eletrônico 25).
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais tidos por violados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    Efetivamente, a matéria constitucional foi trazida aos autos somente nos embargos declaratórios, o que não é o bastante para suprir o requisito do prequestionamento, nos termos da Súmula 356 desta Corte. Inviável, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. IMPUGNAÇÃO DE CÁLCULOS. 1. Inexistência de contrariedade ao art. 93, inc. IX, da Constituição da República. 2. Ausência de prequestionamento da matéria constitucional suscitada. Questões arguidas pela primeira vez em embargos de declaração: Súmula n. 282 do Supremo Tribunal Federal. 3. Alegada contrariedade aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal. Limites objetivos da coisa julgada. Necessidade de análise de matéria infraconstitucional: ofensa constitucional indireta. Precedentes. 4. Agravo regimental ao qual se nega provimento” (ARE 665.211-AgR/BA, Rel. Min. Cármen Lúcia; grifei).
+    De fato, na apelação, o Instituto Nacional do Seguro Social – INSS se dedicou a desconstituir a sentença, no sentido de fixar-se como data de início do benefício o dia do exame que levou o perito à concluir pela incapacidade total e permanente da recorrida.
+    No entanto, a tese que move o recurso extraordinário, no sentido da necessidade de prévio requerimento administrativo como condição de acesso ao Poder Judiciário, somente foi suscitada por ocasião dos embargos de declaração.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro os honorários em 10% (dez por cento) do total da verba fixada a esse título, observados os limites legais.
+    Publique-se.
+    Brasília, 17 de setembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
