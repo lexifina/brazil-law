@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 1000990-17.2016.8.11.0006
+Recorrente: JOSÉ FERNANDO LEITE
+Recorrido: ANTONIO RODRIGUES JUNIOR e GILSON DE OLIVEIRA RODRIGUES
+Vistos.
+Trata-se de Recurso Especial interposto por JOSÉ FERNANDO LEITE (id 59580968) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PRIVADO assim ementado (id 43912990):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO MONITÓRIA - EMBARGOS MONITÓRIOS – CHEQUES PRESCRITOS - PROCEDÊNCIA DOS EMBARGOS – PRELIMINAR – INTEMPESTIVIDADE DOS EMBARGOS MONITÓRIOS – NÃO APLICAÇÃO – TEORIA DA CIÊNCIA INEQUÍVOCA - ARTIGOS 700, 701 E 702, TODOS, DO CPC/15 - REJEIÇÃO - MÉRITO - PROCURAÇÃO EM QUE CONSTA PODERES OUTORGADOS PELO REQUERIDO AO SEU SOBRINHO, O QUAL ASSINOU OS CHEQUES – ASSUNÇÃO DOS RISCOS PELOS CHEQUES EMITIDOS POR MANDATÁRIO DAQUELE QUE CONFERE PODERES PARA TANTO A OUTREM - CHEQUE PRESCRITO - POSSIBILIDADE - CAUSA DEBENDI - COMPROVAÇÃO - DESNECESSIDADE – RECURSO PROVIDO. Diante do que estabelecem os artigos 700 e 701 do CPC/15 (antigo 1.102a, 1.102b e 1.102c do CPC/73), o prazo para eventuais embargos monitórios inicia-se da juntada do mandado de pagamento que constituir de pleno direito o título executivo judicial, se não apresentados embargos no prazo de 15 dias, conforme estabelece o artigo 702 do mês do diploma legal, portanto, não se aplicando a teoria da ciência inequívoca e do princípio da instrumentalidade. A responsabilidade pelo pagamento do valor consignado no cheque perante o portador é do emitente. No caso, a responsabilidade pelo pagamento do cheque emitido por mandatário com poderes especiais é do mandante. Se há nos autos procuração em que o demandado constituiu seu sobrinho como seu procurador, o qual assinou os cheques e ausente comprovação de qualquer fato modificativo, impeditivo ou extintivo do direito do autor, prevalece a presunção legal da legitimidade do título cambiário A jurisprudência do STJ é assente em admitir como prova hábil à comprovação do crédito vindicado em ação monitória cheque emitido pelo réu, cuja prescrição tornou impeditiva a sua cobrança pela via executiva, sendo, inclusive, desnecessário que o autor/credor comprove a causa debendi que originou o documento.-.” (TJMT, RAC 1000990-17.2016.8.11.0006, DESA. MARILSEN ANDRADE ADDÁRIO, SEGUNDA CÂMARA DE DIREITO PRIVADO, Julgado em 05/08/2020)
+Os Embargos de Declaração id 45271959 foram rejeitados, conforme acórdão id 53454486.
+A parte Recorrente apresentou seu recurso especial sustentando que o acórdão deve ser reformado, uma vez que afrontou os artigos 372, 373, 662 e parágrafo único, todos do CPC, uma vez que “a prova que não foi valorada corretamente é a Procuração de outorga poderes ao mandatário, na medida em que em referido documento não consta poderes para fazer negócios, ou mesmo firmar contratos de parceria pecuária. Portanto o simples fato de haver a procuração para emissão de cheque (ponto nodal do acórdão recorrido), não havia poderes outorgados para a negociação que gerou os cheques. Assim, a interpretação que foi dado ao documento (procuração) não é a correta, não é justa, não está certa.”
+Aponta a existência de dissídio jurisprudencial que seria apto a admissão positiva do recurso especial.
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...)Tendo em vista a iminência de início da execução, o que pode gerar prejuízos de difícil reparação, requer-se de Vossa Excelência a concessão de efeito suspensivo ao presente recurso, suspendendo o processo até ulterior decisão.”
+Recurso tempestivo, conforme certidão id 5685547.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que não comprovou o perigo da demora ou a probabilidade do direito, limitando-se a postular pelo recebimento do recurso com o efeito suspensivo.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+Note-se que o simples pedido para que o recurso seja recebido no efeito suspensivo não é capaz de atribuir o aludido efeito, havendo a necessidade de comprovar o perigo da demora e a probabilidade do direito.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência ante a ausência de fundamentação para tanto, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto, inclusive em relação à possível deserção ante o descumprimento da ordem de recolhimento do preparo na forma dobrada, conforme certidão id 57408978.
+Publique-se. Intimem-se.
+Cuiabá, 17 de setembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
