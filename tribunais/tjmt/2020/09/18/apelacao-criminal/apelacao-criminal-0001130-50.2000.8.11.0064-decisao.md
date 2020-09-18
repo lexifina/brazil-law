@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CRIMINAL N. 0001130-50.2000.8.11.0064
+RECORRENTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: ARNALDO PAZ SILVA
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 50366981) interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Segunda Câmara Criminal deste Sodalício, assim ementado (Id. 40366027):
+“APELAÇÃO CRIMINAL – TRIBUNAL DO JÚRI – TENTATIVA DE HOMICÍDIO SIMPLES – CONDENAÇÃO – IRRESIGNAÇÃO DEFENSIVA COM ARRIMO NO ARTIGO 593, INCISO III, ‘C’ DO CPP – PRETENDIDA REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL – PARCIAL PERTINÊNCIA – MAIORIA DAS CIRCUNSTÂNCIAS JUDICIAIS SOPESADAS EM DESFAVOR DO APELANTE SEM A CORRETA FUNDAMENTAÇÃO – ALMEJADA REDUÇÃO MÁXIMA DA REPRIMENDA EM RAZÃO DA FIGURA DA TENTATIVA – IMPERTINÊNCIA – VÍTIMA ATINGIDA POR DOIS DISPAROS DE ARMA DE FOGO – ITER CRIMINIS CONSIDERAVELMENTE PERCORRIDO – APELO PARCIALMENTE PROVIDO. Se de um lado a presença de circunstâncias judiciais desfavoráveis impede a fixação da pena-base no seu mínimo legal, também o rigor excessivo deve ser extirpado, mormente quando a realidade dos autos não nos permite considerar desfavoráveis a culpabilidade, tendo em vista que a premeditação levada a efeito pelo sentenciante não se amolda ao caso, e tão pouco a personalidade do indivíduo, pois esta se afigura uma atividade complexa, que demanda estudo psicológico aprofundado e que deve ser relegada a profissionais especializados na matéria, não podendo o julgador valer-se tão somente das manobras do agente para se esquivar dos chamamentos da justiça, para sopesar aludida circunstância judicial em seu desfavor. Considerando que o apelante agiu com nítida intenção de ceifar a vida da vítima, efetuando dois disparos de arma de fogo que a atingiram em regiões sensíveis do corpo humano, não há como considerar que a conduta foi diminuta, razão pela qual a fração mínima referente à figura da tentativa (art. 14, II, CP) é a única que se amolda ao caso.” (Ap. 0001130-50.2000.8.11.0064, DES. PEDRO SAKAMOTO, SEGUNDA CÂMARA CRIMINAL, Julgado em 01/07/2020)
+Alega violação ao art. 59 do CP, ao argumento de que: (i) a premeditação do delito pode ser utilizada para fundamentar a culpabilidade negativa e (ii) a valoração negativa da personalidade pode prescindir de laudos técnicos de especialistas.
+Recurso tempestivo (Id. 50367979).
+Ausente contrarrazões, consoante certidão de Id. 57717954.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ E 284 DO STF. DECISÃO MANTIDA. (...) 2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF. (...) 5. Agravo regimental não provido.” (AgRg no AREsp 828.593/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2016, DJe 18/04/2016) (destaquei)
+“PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NA QUESITAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INCIDÊNCIA DA AGRAVANTE POR TER SIDO O CRIME PRATICADO CONTRA CRIANÇA E DA QUALIFICADORA DA UTILIZAÇÃO DE RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DA VÍTIMA. AUSÊNCIA DE BIS IN IDEM. 1. Se, nas razões do recurso especial, a parte recorrente não infirma os fundamentos do acórdão recorrido, tem aplicação, por analogia, o Enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes. 2. Enquanto a agravante prevista art. 61, II, "h", do Código Penal é objetiva e incide em razão de ter sido praticado o crime contra criança, a qualificadora de que cuida o artigo 121, IV, do Código Penal envolve considerações específicas do caso concreto, para verificação acerca da presença de recurso que dificulte ou torne impossível a defesa da vítima, não havendo falar em bis in idem. 3. Agravo regimental improvido.” (AgRg no REsp 1634727/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017) (destaquei)
+In casu, a câmara julgadora, quando da análise da pena-base, afastou a valoração negativa da culpabilidade e da personalidade do agente, consignando, respectivamente, a ausência de premeditação diante do curto espaço de tempo entre a briga e o disparo na vítima e a confusão realizada pelo julgador singular com aspectos que poderiam ser levados a efeito como a conduta social.
+Contudo, ao apontar ofensa ao art. 59 do CP, defende o Recorrente que a premeditação do delito pode ser utilizada para fundamentar a culpabilidade negativa e que a valoração negativa da personalidade pode prescindir de laudos técnicos de especialistas.
+Dessa forma, considerando que as razões recursais não infirmaram especificamente os fundamentos do aresto, impossibilitando a exata compreensão da matéria apresentada, resta obstada a admissão do recurso, nos termos do enunciado sumular acima indicado.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá, 18 de setembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
