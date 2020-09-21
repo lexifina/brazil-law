@@ -1,0 +1,35 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+EMBARGOS DE DECLARAÇÃO opostos no
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0007455-30.2011.8.11.0040
+Recorrente: HELIX SEMENTES LTDA
+Recorrido: RODRIGO MARCHIORO
+Vistos.
+Trata-se de Embargos de Declaração id 55886974 opostos nos autos do Recurso Especial interposto por HELIX SEMENTES LTDA, uma vez que o efeito suspensivo postulado nas razões recursais restou indeferido ante a ausência de fundamentação sobre o perigo da demora ou a probabilidade do direito, conforme decisão id 54609461.
+Contra tal decisão a parte Recorrente apresentou os aclaratórios, asseverando que “(...)verifica-se claramente contradição e erro material, uma vez que nas razões apresentadas no recurso especial a Recorrente apresenta o cotejo e decisões paradigmas firmes no sentido da tese apresentada, haja vista como já exaustivamente exposto nos presentes autos, a total impossibilidade de execução da Cédula de Produto Rural emitida pelo Recorrido juntamente com as duplicatas da empresa Demeis e Demeis Ltda., uma vez que o procedimento jurídico, uma vez que o artigo preconiza o artigo 780 do Código de Processo Civil (573/CPC de 1973), abaixo inserido:”
+Afirma que “(...) a probabilidade do direito está estampada, e, em caso de seguimento e eventual execução da decisão ainda não transitada em julgado, a Recorrente experimentará poderá experimentar a excussão de numerário de suas contas.”
+Ao final, já em seu requerimento, sustenta que “(...)Ante o exposto requer o acolhimento dos presentes embargos para, após análise de que efetivamente é pertinente a concessão da tutela, vez que latente o risco de dano de difícil e grave reparação caso haja cumprimento provisório de sentença, sendo certo que existe plausibilidade do direito alegado, o que está estampado e amplamente exposto em cotejo realizado com a decisão paradigma apresentada.”
+Não houve manifestação da parte Embargada, conforme certidão emitida pelo sistema PJE em 16/09/2020.
+É O RELATÓRIO.
+DECIDO.
+As hipóteses que possibilitam a interposição dos Embargos de Declaração estão previstas no artigo 1.022 do CPC, somente sendo admissível quando houver na decisão recorrida omissão, contradição, obscuridade ou erro material.
+Ao proferir a decisão id 54609461, restou assim fundamentado:
+“(...)In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que não comprovou o perigo da demora ou a probabilidade do direito, limitando-se a postular pelo recebimento do recurso com o efeito suspensivo.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:”
+Ou seja, não houve qualquer menção nas razões do Recurso Especial sobre os requisitos para a concessão do efeito suspensivo, motivo pelo qual este restou indeferido.
+Já nas razões dos Embargos de Declaração, a parte Recorrente pugna pelo reconhecimento da probabilidade do direito, explicitando suas razões para tanto, bem como aponta o suposto risco de dano de difícil e grave reparação caso haja o cumprimento provisório de sentença.
+Ocorre que nem mesmo tais assertivas constaram nas razões do recurso especial, motivo pelo qual não é possível, após a análise do efeito suspensivo, tentar trazer novas fundamentações para modificar o que já restou decidido, inexistindo omissão, contradição, obscuridade ou erro na decisão recorrida.
+Ainda que assim não fosse, a existência de cumprimento provisório de sentença não é capaz de possibilitar o deferimento do efeito suspensivo, conforme aresto:
+“DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. RECURSO ESPECIAL. EFEITO SUSPENSIVO CONCEDIDO PELO TRIBUNAL DE ORIGEM. FUMUS BONI IURIS E PERICULUM IN MORA. REQUISITOS NÃO EVIDENCIADOS. 1. Para que haja a concessão de efeito suspensivo a recurso especial, é necessário que sejam demonstrados os requisitos do fumus boni iuris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. Hipótese dos autos em que, contudo, referidos requisitos não se encontram evidenciados, ante a reduzida possibilidade de acolhimento da insurgência recursal, aliado à inexistência de perigo na demora na apreciação do pleito. 3. A execução provisória do julgado, por si só, não constitui, isoladamente, a urgência da prestação jurisdicional exigida para a concessão de efeito suspensivo ao recurso especial, haja vista que esse procedimento possui mecanismos próprios para evitar prejuízos às partes, conforme as rígidas regras dos arts. 520 e 521 do CPC/15. 4. Agravo interno não provido.” (STJ, AgInt no TP 2.752/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020) – destaquei.
+Dessa forma, observa-se que a parte busca rediscutir matéria já decidida em busca de reformar o conteúdo, o que é vedado por meio dos Embargos de Declaração, conforme arestos:
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. 1. O acórdão embargado assentou: a) a presente controvérsia diz respeito à interpretação da regra contida no art. 1o do Decreto 20.910/1932; b) a jurisprudência do STJ pacificou-se no sentido de que, nas relações de trato sucessivo, a regra é a prescrição quinquenal de parcelas, ressalvada a hipótese em que a Administração houver negado o próprio direito reclamado. Súmula 85/STJ; c) o STJ assentou o entendimento de que é devida a majoração de honorários sucumbenciais, nos termos do art. 85, § 11, do CPC/2015, quando presentes os seguintes requisitos de forma simultânea: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso; e d) no caso dos autos, contudo, a Apelação do INSS foi parcialmente provida, o que impede a aplicação do referido dispositivo legal. 2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado. 3. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, mesmo que para viabilizar a interposição de Recurso Extraordinário. 4. Embargos de Declaração rejeitados.” (STJ, EDcl no REsp 1856693/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 29/06/2020, DJe 21/08/2020) – destaquei.
+Isto posto, ante a inexistência de vícios previstos no artigo 1.022 do CPC, REJEITO os presentes aclaratórios.
+Após o término do prazo para oposição de novos aclaratórios, retornem os autos conclusos para admissibilidade do recurso especial.
+Publique-se. Intimem-se.
+Cuiabá, 21 de setembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
