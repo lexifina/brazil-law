@@ -1,0 +1,37 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+MANDADO DE SEGURANÇA No 1004298-11.2018
+IMPETRANTE:
+AGROPECUÁRIA CALUPA LTDA E OUTROS.
+IMPETRADOS:
+JUIZ DE DIREITO DA VARA ÚNICA DA COMARCA
+Vistos, etc.
+Trata-se de Mandado de Segurança, impetrado pela Agropecuária Calupa Ltda e Outros, contra ato supostamente ilegal praticado pelo Exmo. Sr. Dr. Juiz de Direito da Vara Única da Comarca de Querência, que nos autos da Ação Cautelar de Produção Antecipada de Provas no 93.46.2014.811.0080 (código 32791), interposta por Adelmar Pinheiro da Silva, proferiu sentença, julgando procedente o pedido formulado na inicial, para homologar a prova pericial produzida, consistente na vistoria ad perpetuam rei memoriam em área rural e avaliação dos danos causados em razão de infração a cláusula contratual e da infração ambiental/legal de natureza grave, para que surta seus efeitos jurídicos e legais efeitos.
+Aduzem, em síntese, que figuram como réus na Ação Cautelar de Produção Antecipada de Provas movida por Adelmar Pinheiro da Silva, cuja liminar foi deferida em 5-2-2014, para determinar a produção da prova pericial vindicada em 14-2-2014, tendo a decisão consignado expressamente que os réus indicassem, no prazo de 5 (cinco) dias, assistente técnico e formulassem quesitos.
+Asseveram que, a carta de citação e intimação expedida aos ora Impetrantes somente foi recebida pelo correio em 13-2-2014, ou seja, em menos de 24 (vinte e quatro) horas antes da data designada para a realização da prova pericial, impossibilitando o direito de nomear assistente e formular quesitos no prazo conferido por lei.
+Sustentam que restou consignado em sede de contestação que foram observadas as formalidades legais quanto à realização da prova pericial, tendo sido cerceado o direito dos ora Impetrantes à nomeação de assistente técnico e o de formular quesitos.
+Ressaltam que diante dos esclarecimentos solicitados pelas partes, a própria perita nomeada pelo juízo informou que para responder aos questionamentos propostos seria necessário realizar nova vistoria in loco e a realização de diversas diligências; todavia o Magistrado Singular teria proferido julgamento antecipado da ação, ressaltando que procedimentos inúteis só postergam ainda mais o pronunciamento jurisdicional, ocasião em que julgou procedente o pedido formulado para homologar a prova produzida naqueles autos.
+Alegam que a autoridade impetrada jamais poderia homologar uma prova pericial produzida ao arrepio do contraditório e da ampla defesa, aviltando, entre outras, as normas dispostas no artigo 5o, LIV e LV, da Constituição Federal.
+Por essas razões, pugnam pela concessão de liminar para que seja determinada à Autoridade Impetrada que se abstenha de entregar os autos da ação cautelar de produção antecipada de provas a qualquer pessoa antes do julgamento definitivo do presente mandamus e, no mérito, a fim de que seja concedida em definitivo a segurança, para cassar a sentença que homologou a prova produzida naquele processo, determinando-se a repetição da perícia ou, no mínimo, a sua complementação, de forma a se garantir a efetividade do contraditório e da ampla defesa.
+Os documentos foram juntados eletronicamente.
+A i. Desa. Relatora, à época, por intermédio da decisão constante no ID 2066901, indeferiu a petição inicial e julgou extinto o presente mandado de segurança, com fundamento no art. 6o, §5o, c/c/ art. 10, ambos da Lei 12.016/2009 e art. 485, I, do CPC.
+Os embargos de declaração opostos pela Impetrante foram acolhidos para reformar a mencionada decisão monocrática, sendo a liminar concedida “para suspender a sentença proferida pelo Magistrado singular, nos autos da Ação Cautelar, até o julgamento do mérito deste writ.
+O Impetrado prestou informações em 19.9.2018 (ID 3462090), ressaltando que a sentença proferida havia transitado em julgados em 2/5/2018 conforme certificado pelo Gestor Judiciário, bem como consta termo de entrega dos autos à parte autora, com todos os documentos e mídias que se encontravam nos autos (ID 3462090).
+A Procuradoria de Justiça do Estado de Mato Grosso, manifestou-se no sentido de ser julgado prejudicado o mandamus pela perda do seu objeto e, por consequência, pela denegação da ordem.
+Após, vieram os autos para julgamento.
+É o que merece registro.
+Decido.
+A redação dada ao artigo 932 do Código de Processo Civil, cujo objetivo maior é a celeridade da prestação jurisdicional, permite que o Relator não conheça do recurso inadmissível, prejudicado, ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Por sua vez, o art. 51, XV, primeira parte do RITJMT, dispõe que, compete ao Relator julgar pedido “que haja perdido o seu objeto”.
+In casu, estou julgando prejudicado o recurso por perda do objeto.
+Infere-se dos autos que, obstante tenha sido impetrado o mandado de segurança em 18.04.2018, de se ver que a liminar só foi concedida em 14.09.2018, tendo a autoridade impetrada prestado as informações de estilo em 19.09.2018, das quais se extrai:
+em 04 de abril de 2018, este Juízo homologou a prova produzida nos autos de ação cautelar de produção antecipada de prova, para que surta seus jurídicos e legais efeitos.
+E ainda:
+Por oportuno, ressalto ainda que, a sentença proferida nos autos de código n.o 32791 havia transitado em julgado em 02/05/2018, conforme certificado pelo Gestor Judiciário, bem como consta termo de entrega dos autos à parte autora, com todos os documentos e mídias que se encontravam juntados.” (Id. 3462090 – Pág. 6)
+A propósito, como bem destacou a Procuradoria-Geral de Justiça:
+Penso que em razão de fato superveniente, entrega da prova realizada à parte autora naqueles autos, houve o esvaziamento do interesse processual. Por outro lado, com o trânsito em julgado da sentença, a via mandamental tornou-se inadequada para a desconstituição desta. Veja-se: 210000001798 – MANDADO DE SEGURANÇA – PERDA DO OBJETO – FALTA DE INTERESSE PROCESSUAL – FATO SUPERVENIENTE – ART. 267, VI, DO CÓDIGO DE PROCESSO CIVIL – ART. 6o, § 5o DA LEI 12.016/2009 – DENEGAÇÃO DA SEGURANÇA – Sobrevindo, durante o curso do processo, fato que ocasione a perda do objeto do writ, consubstanciada na falta de interesse processual (art. 267, VI, do CPC), impõe-se a denegação do mandado de segurança, nos termos do § 5o, do art. 6o, da Lei no 12.016/2009. (TREES – MS 1965-94.2014.6.08.0000 – (247) – Rel. Juiz Danilo de Araújo Carneiro – DJe 30.10.2014 – p. 8)” “118000085778 – AGRAVO REGIMENTAL – MANDADO DE SEGURANÇA – INDEFERIMENTO DA PETIÇÃO INICIAL – INADEQUAÇÃO DA VIA ELEITA – A pretensão de fundo apresentada no presente "writ" é a desconstituição da coisa julgada, pois, somente desta forma, poder - Se-ia modificar a base de cálculo para a apuração do crédito exequendo, haja vista que diverge dos termos fixados no acordo homologado judicialmente, o que revela a inadequação da via eleita, uma vez que, para tanto, existe ação própria prevista em Lei. Agravo conhecido e não provido. (TRT 07a R. – MS 0080064-84.2017.5.07.0000 – Rel. Francisco Tarcisio Guedes Lima Verde Junior – DJe 08.06.2017 – p. 18)”. [Destaquei].
+Ante o exposto, conheço do mandado de segurança e declaro a perda do objeto e, por consequência, extingo sem resolução de mérito, por ausência de interesse processual, nos termos do artigo 485, VI do CPC.
+Se transcorrido in albis o prazo recursal, arquivem-se, com as cautelas de estilo.
+P.I.C.
+Cuiabá, 21 de setembro de 2020.
+Marcio Aparecido Guedes
+Relator
