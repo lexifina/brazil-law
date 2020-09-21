@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — REPERCUSSÃO GERAL JULGADA — SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado do Ceará concedeu parcialmente a ordem em mandado de segurança para afastar a eficácia de ato de redução de aposentadoria até a manifestação do impetrante em processo administrativo. No extraordinário, o recorrente aponta violados os artigos 103-A, cabeça e § 3º, da Constituição Federal. Afirma contrariado o verbete vinculante nº 3 da Súmula do Supremo. Sustenta desnecessária a observância do contraditório e da ampla defesa em relação à apreciação da legalidade de concessão inicial de aposentadoria, reforma e pensão. Afirma se tratar de ato complexo, a depender de registro no Tribunal de Contas. Entende inconstitucional a vinculação de proventos a piso salarial fixado em salários mínimos estabelecida pelo Decreto estadual nº 16.732/1984. Alude ao verbete vinculante nº 4 da Súmula do Supremo.
+    2. Eis a síntese do acórdão recorrido:
+    CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO APOSENTADO. RETIFICAÇÃO DE ATO DE APOSENTADORIA. PODER DE AUTOTUTELA. REDUÇÃO DE PROVENTOS. NECESSIDADE DE INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO, COM OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. ILEGALIDADE CONFIGURADA. PRECEDENTES DO STF, DO STJ E DESTA CORTE. SEGURANÇA PARCIALMENTE CONCEDIDA.
+    1.Sem embargo do direito da Administração Pública rever seus atos tidos por ilegais ou irregulares (poder de autotutela), a garantia constitucional ao contraditório e à ampla defesa deve ser observada, mormente quando se trata de ato administrativo com consequente redução patrimonial nos proventos percebidos pelo servidor.
+    2.“O Plenário do Supremo Tribunal Federal entendeu ser necessária a prévia instauração de procedimento administrativo, assegurados o contraditório e a ampla defesa, sempre que a Administração, exercendo seu poder de autotutela, anula atos administrativos que repercutem na esfera de interesse do administrado (RE 594.296- RG, Rel. Min. Dias Toffoli).” (STF – RE 946481 AgR/PR, Relator o Ministro Roberto Barroso, Primeira Turma, julgado em 18/11/2016, Dje 02/12/2016).
+    3.Segurança, parcialmente, concedida, confirmando a medida liminar anteriormente deferida, restando prejudicada a análise dos embargos de declaração interpostos pelo Estado do Ceará em sede de Agravo Interno.
+    A decisão recorrida está em consonância com a jurisprudência do Supremo. No recurso extraordinário nº 594.296, Pleno, relator o ministro Dias Toffoli, julgado sob a sistemática da repercussão geral, assentou o Tribunal a necessidade de instauração de procedimento administrativo destinado a revogar ou declarar a nulidade de ato administrativo com efeitos concretos. Confiram com a seguinte ementa, publicada no Diário da Justiça de 13 de fevereiro de 2012:
+    RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.
+    Descabe analisar o tema de fundo – possibilidade de vinculação ao salário mínimo –, considerada a existência de vício procedimental prévio.
+    3. Ante o precedente, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 21 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
