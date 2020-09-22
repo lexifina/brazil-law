@@ -1,0 +1,26 @@
+Vistos, etc.
+Agravo de instrumento interposto por ARESTIDES RAIMUNDO DA SILVA SANTANA contra decisão proferida nos autos Ação de Imissão na Posse com Pedido de Tutela de Urgência no 1005916-48.2019.8.11.0002 da 2a Vara Cível da Comarca de Várzea Grande que concedeu a tutela de urgência para imitir o autor na posse do imóvel, determinando-se a expedição de mandado de imissão na posse provisória, determinando que a parte ré (ora agravante) desocupe o imóvel em discussão no prazo de 15 (quinze) dias, sob pena de desocupação coercitiva.
+Informa inicialmente que foi concedida Justiça Gratuita na 1a Instância.
+Explica o agravante que o imóvel em questão se encontra em litígio junto a Justiça Federal, nos autos da Ação Anulatória n. o 1000247-62.2020.4.01.3600, que tramita Junto à 8a Vara Federal-MT.
+Sobre o processo elucida que, embora sentenciado, está em fase recursal, podendo a anulatória vir a ser julgada procedente, portanto, haveria uma decisão diametralmente contrária à decisão ora agravada.
+Pontua que a Anulatória foi proposta bem antes da possessória, caracterizando evidente conexão entre as mesmas e a prevenção da Justiça Federal; aliás, na Anulatória foi deferida liminar.
+Continua: “Excelência Verifica-se que a presente lide possessória manejada pelo Agravado (arrematante) em face da parte Agravante, guarde SIMILITUDE DE OBJETO com a Ação Anulatória que tramita junto à 3a Vara Federal da Seção Judiciária do Estado de Mato Grosso em razão deste terribilíssimo e eficaz fato, a presente ação reivindicatória deve ser SOBRESTADA até o julgamento final da Ação Anulatória, pela Justiça Federal/MT, QUE se encontra face Recursal (TRF1) para que se evite decisões conflitantes entre a Justiça Estadual e a Justiça Federal. Tal providência se justifica em razão do artigo 313, inciso IV, alínea “a” do CPC/2015,”. (id. 57999950).
+Nestes termos, almeja o sobrestamento da ação até o julgamento final da Ação Anulatória, pela Justiça Federal, para que se evite decisões conflitantes, pois, há nítida prejudicialidade externa.
+Ainda, defende que, diante da Pandemia, há emergencial cautela da saúde pública, na qual a recomendação preventiva é o recolhimento domiciliar.
+Em sede de liminar, requer a concessão do efeito suspensivo.
+É o relatório do necessário.
+DECIDO.
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando o juiz sua decisão (...)”.
+Pois bem. Pelos documentos acostados aos autos, identifico “prima facie”, as presenças daqueles requisitos, principalmente quanto ao perigo de dano.
+Isso porque embora, a princípio, não identifique prevenção ou causa de suspensão externa, já que o processo na Justiça Federal se encontra sentenciado, há que ponderar que, em face da pandemia causada pelo COVID-19, mostra-se razoável sobrepor os direitos fundamentais à moradia e a saúde, também a fim de evitar propagação, suspendendo, por ora, a ordem de despejo.
+A propósito:
+“RECURSO DE AGRAVO DE INSTRUMENTO - AÇÃO DE DESPEJO POR DENÚNCIA VAZIA – LOCAÇÃO NÃO RESIDENCIAL - LIMINAR CONCEDIDA – PRESENÇA DOS REQUISITOS LEGAIS - ARTIGO 59, §1o, INCISO VIII, DA LEI DO INQUILINATO - DIREITO DE PREFERÊNCIA – AÇÃO PRÓPRIA – DESOCUPAÇÃO VOLUNTÁRIA – PRAZO ESTENDIDO PARA 60 DIAS - CALAMIDADE PÚBLICA – NOVO CORONAVIRUS – RECURSO DESPROVIDO. Em se tratando de liminar em ação de despejo por denúncia vazia, para sua concessão, devem ser preenchidos os requisitos do artigo 59, § 1o, inciso VIII, da Lei do Inquilinato. O direito de preferência pela aquisição do imóvel pelo locatário poderá ser exercido na forma do art. 33 da Lei de Locação, o qual deverá ser discutido em ação própria, todavia, não ilide o direito a liminar de despejo. Ainda que o recurso locatário seja desprovido, é possível estender o prazo da desocupação voluntária, principalmente em casos de calamidade pública, como no caso de Cuiabá em que a pandemia do COVID-19 encontra-se no seu ápice, onde as autoridades recomendaram o distanciamento social.” (N.U 1011698-08.2020.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, MARILSEN ANDRADE ADDARIO, Segunda Câmara de Direito Privado, Julgado em 05/08/2020, Publicado no DJE 08/08/2020) destaquei
+Ante todo exposto, ausentes requisitos necessários para a sua concessão, DEFIRO o efeito almejado, sem prejuízo de uma reanálise quando do mérito.
+Intime-se a parte Agravada, na forma do art. 1.019, II, para que responda no prazo legal.
+Comunique-se ao MM. Juiz da causa.
+Expeça-se o necessário.
+Dr. Alexandre Elias Filho
+Relator, em substituição legal
