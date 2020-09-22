@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1014251-28.220
+AGRAVANTE: UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO.
+AGRAVADO: M. P. A. representado pelo seu genitor PATRYCK DE ARAÚJO AYALA.
+Vistos.
+Em cumprimento ao disposto no artigo 178 do CPC, colha-se o parecer da d. Procuradoria Geral de Justiça.
+Às providências.
+DES. DIRCEU DOS SANTOS
+Relator
