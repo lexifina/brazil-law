@@ -1,0 +1,23 @@
+DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROJETO DE LEI RELATIVO À EQUIPARAÇÃO DE VENCIMENTOS. OMISSÃO DO ESTADO NO ENVIO AO PODER LEGISLATIVO. PERDA DE UMA CHANCE. REPARAÇÃO. INDENIZAÇÃO PELO TEMPO DA MORA. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. RAZÕES DISSOCIADAS. SÚMULA 284/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na afronta aos arts. 37, X, XIII, e 96, II, “b”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Transcrevo, no que interessa, a ementa do acórdão recorrido:
+    “Recurso inominado – Servidora Pública Estadual – (...) - Pretensão de envio de projeto de lei com vistas à equiparação dos vencimentos dos cargos de Assistente Judiciário com o de Assistente Jurídico amparada na Resolução nº 219/216 do CNJ, art. 39, § 1º, da Constituição Federal e art. 129, § 1º, da Constituição Estadual – Súmula Vinculante 37 do STF não aplicável, pois não foi determinado o aumento de vencimento – Omissão do Estado no envio do projeto acarreta o direito à indenização pela aplicação da teoria da perda de uma chance – Valor fixado adequadamente – Recurso improvido.”
+    Pretende a parte recorrente a revisão do julgado ao argumento de que “a r. decisão vinculou e equiparou os vencimentos de cargos em comissão distintos, sem previsão em lei específica”.
+    Entretanto, está no voto condutor do acórdão recorrido que “não foi determinado pelo MM. Juiz o aumento dos vencimentos da servidora e nem a equiparação dos cargos, mas apenas reconhecido que houve uma omissão no envio de projeto de lei para tratar desse assunto e que em razão disso a autora faz jus ao recebimento de indenização por conta dos prejuízos sofridos”.
+    Aplicável, na espécie, o entendimento jurisprudencial vertido vertido na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ainda que não se ressentisse o recurso quanto ao pressuposto, melhor sorte não colheria, porquanto compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria a análise prévia da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 279/STF.
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho precedentes:
+    “EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. DIRETOR DE SERVIÇO APOSENTADO. PRETENSÃO DE EQUIPARAÇÃO AO CARGO DE DIRETOR DE DIVISÃO. LEIS COMPLEMENTARES 980/2005 E 1.111/2010 DO ESTADO DE SÃO PAULO. AGRAVO INTERNO QUE NÃO ATACA TODOS OS FUNDAMENTOS SUFICIENTES À MANUTENÇÃO DA DECISÃO AGRAVADA. SÚMULA 283 DO STF. INCIDÊNCIA. AGRAVO INTERNO NÃO CONHECIDO” (ARE 1116451-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.6.2018).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidora pública estadual inativa. Paridade de vencimentos e proventos. Lei Complementar Estadual 980/2005 e 1.111/2010. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Súmula 280 do STF. Precedentes. 5. Incidência do tema 439 do regime da repercussão geral. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento. Verba honorária majorada em mais 10%” (ARE 1203808-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.10.2019).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de setembro de 2020.
+Ministra Rosa Weber
+Relatora
