@@ -1,0 +1,33 @@
+Decisão
+    Trata-se de Reclamação proposta contra decisão proferida pelo Tribunal Superior do Trabalho, que teria violado o decidido por esta CORTE no julgamento do Tema 899, RE 636.886, Rel. Min. ALEXANDRE DE MORAES.
+    Na inicial, a parte autora apresenta as seguintes alegações de fato e de direito (fls. 2/3):
+    Trata-se, na origem, de ação anulatória de ato administrativo com pedido de tutela cautelar de urgência antecipada em que o ora reclamante requer a suspensão imediata dos efeitos do acórdão nº 13059/2019, TCU – 2ª Câmara, nos autos da Tomada de Contas Especial nº 023.489/2017-0, até o trânsito em julgado da ação, bem como que o Tribunal de Contas da União se abstenha de incluir, até o trânsito em julgado, o nome do reclamante no rol dos agentes públicos que tiveram contas rejeitadas.
+    Isso porque, não obstante o lapso temporal de quase 7 (sete) anos transcorridos entre a ocorrência do fato e a primeira notificação do ora reclamante pelo c. Tribunal de Contas da União, esse deixou de reconhecer a flagrante ocorrência de decadência e/ou prescrição da pretensão punitiva para a imposição de multa e da pretensão ressarcitória para imputação de débito.
+    (...)
+    Assim, o ora reclamante buscou o Judiciário a fim de que, em sede liminar, fosse suspensa a referida decisão do c. TCU que julgou irregulares as contas apresentadas, bem como fosse determinada que procedesse a exclusão de seu nome da relação de responsáveis por contas julgadas irregulares. Por fim, requereu a anulação do acórdão proferido pelo c. TCU.
+    Em afronta à autoridade da decisão ora invocada como paradigma, o RE nº 636.886/AL, conforme se demonstrará adiante, a medida liminar requerida foi indeferida, em razão de ter a autoridade reclamada entendido não haver demonstração da probabilidade do direito e o perigo de dano, o que, definitivamente, não merece prosperar.
+    Em absoluta afronta à autoridade da decisão desse c. Supremo, o RE nº 636.886/AL, constante no acórdão paradigma que será transcrito adiante, o ato reclamado indeferiu a tutela pleiteada sem levar em conta a comprovada prescrição e os graves prejuízos que o reclamante sofrerá com a medida, em afronta aos direitos fundamentais supracitados (art. 37, § 5º, da Constituição da República).
+    Ao final, requer a concessão de medida liminar para suspender os efeitos do processo e, no mérito, o deferimento do pedido inicial formulado nesta reclamação para assegurar a autoridade da decisão proferida por esse c. STF nos autos do RE 636.886/AL, suspendendo-se, em definitivo, os efeitos do acórdão nº 13059/2019, TCU – 2ª Câmara, nos autos da Tomada de Contas Especial nº 023.489/2017-0, de modo a se adequar, assim, a decisão reclamada ao paradigma ora invocado. (fl. 19).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem os arts. 102, I, "l", e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    No caso, a presente reclamação é manifestamente incabível. O ato impugnado refere-se à decisão monocrática do Juízo da 22ª Vara Federal Cível do DF, que indeferiu o pedido de tutela provisória de urgência, pelo qual o ora reclamante pretendia suspender os efeitos do Acórdão nº 13059/2019 – TCU – 2ª Câmara, emitido no TC 023.489/2017-0, até o trânsito em julgado da presente ação (doc. 9).
+    Com efeito, a decisão reclamada, mencionada acima, é passível de ser impugnada por meio de recursos ordinários. Dessa forma, é evidente que não houve o pleno exaurimento das instâncias recursais na origem, o que inviabiliza o ajuizamento desta ação.
+    Conforme prescreve o art. 988, § 5º, inciso II, do CPC, o esgotamento dos meios recursais a quo é pressuposto para o cabimento da Reclamação, quando tem por fundamento a exigência de respeito a precedente julgado por esta SUPREMA CORTE, em regime de Repercussão Geral (Rcl 23.476-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 18/8/2016; Rcl 25.446, Rel. Min. MARCO AURÉLIO, DJe de 1º/3/2017; Rcl 25.523, Rel. Min. DIAS TOFFOLI, DJe de 14/2/2017; Rcl 23.337,Rel. Min. ROSA WEBER, DJe de 25/11/2016).
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já se pronunciou, por diversas vezes, no sentido de que a reclamação constitucional não deve ser utilizada como sucedâneo recursal ou atalho processual para postular diretamente no STF a observação de precedente vinculante estabelecido sob a sistemática da Repercussão Geral, por não ser substitutivo de recurso ou de ação rescisória (Rcl 31.486 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 19/11/2018, DJe de 26/11/2018; (Rcl 16.038 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 30/10/2014).
+    Diante do exposto, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 22 de setembro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
