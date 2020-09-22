@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. REGIME DE DESONERAÇÃO DA FOLHA. LEI Nº 13.670/2018. ANO CALENDÁRIO. IRRETRATABILIDADE. ANTERIORIDADE NONAGESIMAL. Não há qualquer óbice, durante o ano calendário, à revogação do regime de desoneração da folha, pela Lei nº 13.670/2018, e na retomada da sistemática de apuração anterior, desde que observadas a anterioridade nonagesimal e a irretroatividade, como garantia da segurança jurídica do contribuinte.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da CF. Sustenta, em essência, que “o acórdão recorrido negou vigência ao disposto no art. 5º, XXXVI da CF, ao manter a decisão que entendeu pela legalidade do art. 12 da Lei 13.670/2018, a qual revogou a Lei 12.546/2011, extinguindo a partir de 1º de setembro de 2018 o recolhimento da Contribuição previdenciária sobre a Receita Bruta”.
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir das conclusões adotadas demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese, a saber, a Lei nº 12.546/2011 e a Lei nº 13.670/2018, providência vedada nesta via processual. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. Confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SUBSTITUIÇÃO DA BASE DE CÁLCULO. ALTERAÇÕES NA LEI N. 12.546/2011 PROMOVIDAS PELA LEI N. 13.670/2018. ALEGAÇÃO DE DIREITO ADQUIRIDO E OFENSA AO PRINCÍPIO DA ANTERIORIDADE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 1.238.409 AgR, Relª. Minª Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 22 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
