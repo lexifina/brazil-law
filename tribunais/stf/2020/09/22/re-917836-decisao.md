@@ -1,0 +1,16 @@
+Despacho:
+    Inicialmente o feito tramitou como ARE 715.714. Determinado o seu sobrestamento, até o julgamento do Tema 487 da repercussão geral, o Tribunal de origem devolveu os autos, tendo em vista o não enquadramento do caso concreto ao paradigma apontado, como se vê do seguinte trecho da decisão
+    a "multa fiscal foi imposta com fundamento no art. 51, I, da Lei Estadual n. 10.297/96, que visa punir o não recolhimento do tributo apurado pelo próprio contribuinte e declarado em GIA" (fI. 193). Vale dizer: a aplicação da multa ocorreu por descumprimento de obrigação principal (recolhimento do tributo)”.
+    Ao reanalisar o caso, o Ministro Relator Luiz Fux, negou seguimento ao recurso extraordinário, sob o fundamento de que a análise do efeito confiscatório, na hipótese dos autos, envolveria o revolvimento de fatos e provas. Posteriormente Sua Excelência reconsiderou a decisão para dar provimento ao agravo e converter o feito no presente RE nº 917.836.
+    Pois bem. De regra, as multas tributárias são graduadas de acordo com a intensidade da conduta enquadrada na lei como ilícita e as violações constitucionais ao art. 150, IV, da Constituição Federal, se existentes, costumam estar ligadas às circunstâncias específicas de cada caso, nem sempre bem retratadas, o que levou a jurisprudência da Corte a se firmar no sentido da incidência do enunciado da Súmula 279/STF.
+    Todavia, mais recentemente, a Corte tem procurado objetivar a discussão ao reconhecer repercussão geral ao tema atinente aos limites da multa fiscal, tendo em vista a vedação de confisco de que trata o art. 150, IV, da Constituição em vários paradigmas. Nessa perspectiva é que o Tribunal entendeu como razoável a multa moratória de 20% do valor do tributo prevista na legislação federal, como se vê do julgamento do RE nº 582.461/SP, Plenário, Rel. Min. Gilmar Mendes, DJe de 18/8/11.
+    Nos autos do RE nº 882.461/MG, agora de minha relatoria, a Corte examinará o Tema nº 816, consistente nos limites para a fixação da multa fiscal moratória, tendo em vista a vedação constitucional ao efeito confiscatório.
+    No RE nº 736.090/SC, também de minha relatoria, o Tema nº 863, será discutido e trata da questão relativa aos limites da multa fiscal qualificada em razão de sonegação, fraude ou conluio, tendo em vista a vedação constitucional ao efeito confiscatório.
+    Anote-se também que no RE nº 640.452/RO, Tema nº 487, Rel. Min. Roberto Barroso, o Plenário discutirá se a multa por descumprimento de obrigação acessória decorrente de dever instrumental, aplicada em valor variável entre 5% a 40%, relacionado à operação que não gerou crédito tributário (multa isolada) possui, ou não, caráter confiscatório.
+    Dessa forma, entendo caber ao Tribunal de origem, soberano na análise dos fatos e das provas, fazer o enquadramento do caso concreto aos paradigmas da repercussão, a partir das balizas a serem traçadas pela Corte.
+    Diante do exposto, determino a devolução dos autos ao Tribunal de origem para que seja aplicada a sistemática da repercussão geral quanto à matéria referente à multa moratória questionada (Tema 816).
+    Publique-se.
+    Brasília, 22 de setembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
