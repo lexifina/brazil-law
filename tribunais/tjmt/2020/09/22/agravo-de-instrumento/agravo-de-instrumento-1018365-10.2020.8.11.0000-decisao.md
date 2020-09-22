@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1018365-10.2020.8.11.0000
+Vistos etc.
+Trata-se de Agravo de Instrumento interposto pelo Banco do Brasil S.A. em virtude da decisão proferida pelo Juízo da 3.a Vara Cível da Comarca de Primavera do Leste que, nos autos da Ação de Habilitação/Liquidação/Cumprimento de Sentença n.o 0007939-83.2013.811.0037, ajuizada pelo Espólio de Joao Osmar dos Santos Crespani, rejeitou a impugnação apresentada e determinou o prosseguimento da exeecução, encaminhando os autos à Contadoria Judicial para o cálculo.
+Inconformado, o Agravante sustenta, em síntese:
+(i) a necessidade de suspensão da presente demanda - tema 1075 do stf;
+(ii) o excesso de execução;
+(iii) a ilegitimidade ativa do Agravado, pois este não apresentou autorização expressa da associação que ajuizou a ação civil pública para a execução individual da sentença, ficando impossibilitado de ajuizar a demanda, conforme entendimento firmado pelo próprio Supremo Tribunal Federal, em sede de repercussão geral;
+(iv) a ausência de título que legitime a execução, uma vez que a sentença condenatória foi prolatada pelo Juízo da 12a Vara Cível da Capital Federal, no julgamento da Ação Civil Pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor – IDEC, de modo que, nos termos do art. 16 da Lei 7.347/85 (Lei da Ação Civil Pública – LACP), a coisa julgada restringe-se aos limites da competência territorial do órgão prolator da decisão.
+Forte nesses argumentos, pugna pela concessão do efeito suspensivo. No mérito, requer o provimento do recurso a fim de que seja julgado procedente o pedido formulado na impugnação ao cumprimento de sentença.
+Eis o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa no artigo 1.015, parágrafo único, do CPC, bem como foi instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do novo CPC.
+Como é cediço, o artigo 1.019, inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Na hipótese sob exame, neste juízo de cognição incompleta, não vislumbro a perfeita confluência de tais pressupostos, posto que não há nos autos elementos que comprovem que o prosseguimento da execução causará danos graves ou de incerta reparação.
+Com efeito, o Recorrente não demonstrou, com base em fatos ou razões concretas, a urgência ou perigo de lesão grave e de difícil ou incerta reparação capaz de se justificar a atribuição do efeito suspensivo; apenas requereu de forma genérica tal efeito.
+De igual modo, observa-se que o Agravante não demonstrou a plausibilidade do direito alegado, uma vez que não ficou demonstrado o excesso de execução alegado, eis que o laudo pericial acostado aos autos utilizou de índices, aparentemente, corretos para elaboração do cálculo.
+Quanto à ilegitimidade ativa do exequente, no acórdão proferido pelo Superior Tribunal de Justiça no julgamento do RESp 1.391.198/RS, representativo da controvérsia, foi firmado o entendimento que os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do IDEC, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública.
+Da mesma forma, ficou definido no julgamento dos TEMAS 723 e 724 (REsp 1391198/RS – transitado em julgado em 10/08/2015) que: A sentença proferida pelo Juízo da 12a Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva no 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal.
+Assim, os poupadores ou seus sucessores têm legitimidade ativa - também por força da coisa julgada -, independentemente de fazer parte ou não dos quadros associativos do IDEC, para ajuizar o cumprimento individual da sentença coletiva proferida na Ação Civil Pública no 1998.01.1.016798-9, que tramitou na 12a Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+Posto isso, ausentes os requisitos necessários para a concessão da medida liminar, indefiro o efeito suspensivo.
+Comunique-se ao Juiz singular.
+Intime-se a parte Agravada para, querendo, apresentar resposta no prazo legal.
+Cumpra-se.
+Cuiabá, 22 de setembro de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
