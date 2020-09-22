@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Reajuste de salário de servidor público do Estado de São Paulo – Imprescindibilidade de lei específica de iniciativa do Poder Executivo – Sentença de improcedência mantida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação aos arts. 5º, II, V, XXXV, LIV, LV; 37, X; 93, IX; e 142, § 3º, IV, todos da CF.
+    O recurso não merece provimento. O acórdão recorrido não divergiu da jurisprudência do Supremo Tribunal Federal (STF), que, no julgamento do RE 905.357-RG, admitido sob a sistemática da repercussão geral, firmou entendimento no sentido de que a revisão geral anual da remuneração dos servidores públicos deve estar prevista na Lei de Diretrizes Orçamentárias com correspondente dotação orçamentária na Lei Orçamentária do respectivo ano. A seguinte tese foi fixada: “A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias.”
+    Ademais, não merece acolhimento o pedido de sobrestamento do feito até o trânsito em julgado do RE 565.089-RG, Tema 19, cuja tese restou assim fixada: “O não encaminhamento de projeto de lei de revisão anual dos vencimentos dos servidores públicos, previsto no inciso X do art. 37 da CF/1988, não gera direito subjetivo a indenização. Deve o Poder Executivo, no entanto, pronunciar-se de forma fundamentada acerca das razões pelas quais não propôs a revisão”.
+    A orientação jurisprudencial desta Corte é no sentido de que, existindo precedente firmado pelo Plenário do STF, autoriza-se o julgamento imediato de processos sobre o mesmo tema, independentemente do trânsito em julgado do paradigma. Nessa linha, vejam-se os seguintes precedentes: ARE 1.126.142-AgR, Rel. Min. Alexandre de Moraes; e RE 984.413-AgR-ED-ED, Relª. Minª. Cármen Lúcia.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+Brasília, 22 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
