@@ -1,0 +1,16 @@
+Art. 24-C - Assegurado o direito de opção, é vedada a percepção cumulativa de pensões, ressalvado o disposto no art. 24 da Emenda à Constituição da República nº 103, de 12 de novembro de 2019.".
+Art. 9º - O art. 28 da Lei Complementar nº 64, de 2002, passa a vigorar com a seguinte redação, e ficam acrescentados à Subseção II da Seção III do Capítulo I da mesma lei complementar os seguintes arts. 28-A e 28-B:
+"Art. 28 - A alíquota de contribuição mensal dos segurados ativos e aposentados e dos pensionistas, a que se refere o art. 3º, será progressiva e incidirá sobre a remuneração de contribuição, sobre os proventos e sobre o valor das pensões, de acordo com os seguintes parâmetros:
+I - até R$1.500,00 (mil e quinhentos reais), 11% (onze por cento);
+II - de R$1.500,01 (mil e quinhentos reais e um centavo) até R$2.500,00 (dois mil e quinhentos reais), 12% (doze por cento);
+III - de R$2.500,01 (dois mil e quinhentos reais e um centavo) até R$3.500,00 (três mil e quinhentos reais), 13% (treze por cento);
+IV - de R$3.500,01 (três mil e quinhentos reais e um centavo) até R$4.500,00 (quatro mil e quinhentos reais), 14% (quatorze por cento);
+V - de R$4.500,01 (quatro mil e quinhentos reais e um centavo) até R$5.500,00 (cinco mil e quinhentos reais), 15% (quinze por cento);
+VI - de R$5.500,01 (cinco mil e quinhentos reais e um centavo) até R$6.101,06 (seis mil cento e um reais e seis centavos), 15,5% (quinze vírgula cinco por cento);
+VII - acima de R$6.101,06 (seis mil cento e um reais e seis centavos), 16% (dezesseis por cento).
+§ 1º - Incidirá alíquota de contribuição do segurado aposentado ou pensionista sobre os proventos e sobre o valor das pensões que supere três salários mínimos.
+§ 2º - O Estado não poderá estabelecer alíquota inferior à da contribuição dos servidores da União, exceto se demonstrado que o respectivo RPPS não possui déficit atuarial a ser equacionado, hipótese em que a alíquota não poderá ser inferior às alíquotas aplicáveis ao RGPS.
+§ 3º - A alíquota será aplicada de forma progressiva sobre a base de contribuição do servidor, ativo e aposentado, e do pensionista, incidindo cada alíquota sobre a faixa de valores compreendida nos respectivos limites.
+§ 4º - A alíquota de contribuição patronal será equivalente ao dobro da alíquota de contribuição prevista no caput para os segurados de que tratam os incisos I, II, III e V do caput do art. 3º.
+§ 5º - Os valores previstos nos incisos do caput serão reajustados na mesma data e com o mesmo índice em que se der o reajuste dos benefícios do RGPS.
+§ 6º - Quando o beneficiário, na forma da lei, for portador de doença incapacitante, a alíquota de contribuição mensal incidirá apenas sobre as parcelas de proventos de aposentadoria e de pensão que superem o dobro do limite máximo estabelecido para os benefícios do RGPS de que trata o art. 201 da Constituição da República.

@@ -1,0 +1,4 @@
+Art. 44-B - Será sujeito à inscrição em dívida ativa, para os fins do disposto no art. 44-A, em conjunto ou separadamente, o terceiro beneficiado que sabia ou deveria saber da origem do benefício pago indevidamente em razão de fraude, dolo ou coação, observado o devido processo legal em âmbito administrativo.".
+Art. 12 - O art. 45 e o caput do art. 57 da Lei Complementar nº 64, de 2002, passam a vigorar com a seguinte redação:
+"Art. 45 - O servidor aposentado por incapacidade permanente para o trabalho deverá, quando convocado pela respectiva unidade previdenciária, submeter-se a avaliação da junta médica do órgão pericial competente para que seja verificada a continuidade ou não das condições que ensejaram a concessão da aposentadoria, nos termos de regulamento.
+Parágrafo único - O servidor aposentado que não atender à convocação de que trata o caput terá o benefício suspenso, nos termos de regulamento.
