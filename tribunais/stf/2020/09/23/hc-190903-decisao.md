@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Guilherme Luiz Sarain, apontando como autoridade coatora a Ministra Laurita Vaz, do Superior Tribunal de Justiça, que conheceu e deu provimento ao REsp nº 1.855.037/SP.
+    O impetrante sustenta que o “encaminhamento do Inquérito Policial Militar à Justiça Comum, sem que a Justiça Militar decida sobre a existência ou não de crime doloso contra a vida de civil, viola a norma do artigo 82, § 2º, do Código de Processo Penal Militar”.
+    Requer, liminarmente, seja determinado o arquivamento do inquérito policial militar, sem remessa ao Tribunal do Júri, por ser a Justiça Especializada competente para julgar o feito diante do reconhecimento de excludente de ilicitude.
+    É o relatório.
+    Decido.
+    Ressalto, inicialmente, que a impetração volta-se contra decisão singular proferida nos autos do REsp nº 1.855.037/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    De qualquer modo, registro que o ato monocrático apontado como coator apresenta a seguinte ementa:
+    “RECURSO ESPECIAL. DIREITO PENAL MILITAR E PROCESSO PENAL MILITAR. CRIME DOLOSO CONTRA A VIDA DE CIVIL. RECONHECIMENTO DE SUPOSTAS EXCLUDENTES DE ILICITUDE. ARQUIVAMENTO DO INQUÉRITO. COMPETÊNCIA DO TRIBUNAL DO JÚRI. RECUROS ESPECIAL CONHECIDO E PROVIDO.”
+    Nesse contexto, o entendimento da Ministra Relatora no Superior Tribunal de Justiça está de acordo com a jurisprudência desta Corte, segundo a qual compete à vara do Tribunal do Júri decidir sobre eventual excludente de ilicitude em crimes dolosos contra a vida de civil praticado por militar. Vide:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CRIME DOLOSO CONTRA A VIDA DE CIVIL PRATICADO POR POLICIAL MILITAR. COMPETÊNCIA DO TRIBUNAL DO JÚRI. SISTEMA CONSTITUCIONAL ACUSATÓRIO. MINISTÉRIO PÚBLICO E PRIVATIVIDADE DA PROMOÇÃO DA AÇÃO PENAL PÚBLICA (CF, ART. 129, I). IMPOSSIBILIDADE DE ARQUIVAMENTO DE INVESTIGAÇÃO POR MAGISTRADO SEM VISTA DOS AUTOS AO PARQUET.
+    1. A competência constitucional do Tribunal do Júri, nos crimes dolosos contra a vida de civil praticado por militar, prevista no art. 125, § 4º, da Constituição Federal, possui caráter especial em relação à competência da Justiça castrense, de modo que, em tais hipóteses, caberá ao Juízo Militar encaminhar os autos do inquérito policial militar à Justiça comum, nos termos do art. 82, § 2º, do Código de Processo Penal Militar, Juízo este competente para, no exercício da sua Jurisdição, apreciar eventual existência de causa excludente de ilicitude.
+    2. O Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento da ADI 4.693/BA, de minha relatoria, assentou, por unanimidade, que “o sistema acusatório consagra constitucionalmente a titularidade privativa da ação penal ao Ministério Público (CF, art. 129, I), a quem compete decidir pelo oferecimento de denúncia ou solicitação de arquivamento do inquérito ou peças de informação, sendo dever do Poder Judiciário exercer a ‘atividade de supervisão judicial’ (STF, Pet. 3.825/MT, Rel. Min. GILMAR MENDES), fazendo cessar toda e qualquer ilegal coação por parte do Estado-acusador (HC 106.124, Rel. Min. CELSO DE MELLO, Segunda Turma, julgado em 22/11/2011, DJe de 10/9/2013)”.
+    3. Agravo Interno a que se nega provimento.” (RE nº 1.279.828/SP-ED, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 18/9/20).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CRIMES DOLOSOS CONTRA A VIDA DE CIVIL PRATICADO POR POLICIAL MILITAR. COMPETÊNCIA DO TRIBUNAL DO JÚRI. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A competência constitucional do Tribunal do Júri, nos crimes dolosos contra a vida de civil praticado por militar, prevista no art. 125, § 4º, da Constituição Federal, possui caráter especial em relação à competência da Justiça castrense, de modo que, em tais hipóteses, caberá ao Juízo Militar encaminhar os autos do inquérito policial militar à Justiça comum, nos termos do art. 82, § 2º, do Código de Processo Penal Militar, Juízo este competente para, no exercício da sua Jurisdição, apreciar eventual existência de causa excludente de ilicitude.
+    2. Agravo Regimental a que se nega provimento.” (RE nº 1.262.542/SP-AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 20/7/20).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de setembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
