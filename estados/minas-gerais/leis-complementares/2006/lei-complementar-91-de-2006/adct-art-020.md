@@ -1,0 +1,1 @@
+Art. 20 - O Governador do Estado encaminhará à Assembleia Legislativa, no prazo de trezentos e sessenta e cinco dias contados da data de publicação desta lei complementar, se necessário, os projetos de lei para a adaptação ao disposto nesta Lei Complementar dos fundos estaduais do Poder Executivo em operação.

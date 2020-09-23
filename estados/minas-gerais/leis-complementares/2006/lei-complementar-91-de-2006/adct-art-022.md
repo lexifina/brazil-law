@@ -1,0 +1,1 @@
+Art. 22 - A lei que instituir o fundo indicará a autoridade competente para promover a alienação de bens recebidos em pagamento e a transferência dos valores obtidos para o patrimônio do fundo, na hipótese de o agente financeiro não ser integrante da administração pública estadual.
