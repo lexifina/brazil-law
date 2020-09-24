@@ -1,0 +1,44 @@
+Decisão: Trata-se de habeas corpus impetrado por Christian Ary da Cruz Barbosa, em favor de André Felipe Nascimento Santos, contra decisão monocrática proferida por Ministro do STJ, nos autos do HC 610.050/SE.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ANDRE FELIPE NASCIMENTO SANTOS, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Sergipe.
+    Depreende-se dos autos que o ora paciente foi preso temporariamente e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de homicídio qualificado, tipificado no art. 121, § 2º, do CP.
+    Irresignada, a defesa impetrou dois habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava o relaxamento ou a revogação da prisão preventiva, ou sua substituição por domiciliar. O eg. Tribunal de origem, à unanimidade, denegou as ordens, em v. acórdãos assim ementados (fls. 101 e 123):
+    […]
+    Daí o presente mandamus, no qual alega o impetrante que o paciente estaria sofrendo constrangimento ilegal em razão do excesso de prazo para a formação da culpa, bem como da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar, reforçando que suas condições pessoais lhe seriam favoráveis, reputando como suficientes e adequadas outras medidas cautelares menos gravosas.
+    Aduz, ainda, que a prisão preventiva deve ser revogada, em razão da possibilidade de contágio pelo novo coronavírus em local com aglomeração pessoas, ainda mais porque participa do grupo de risco, na medida em que possui asma alérgica.
+    Requer, ao final, o relaxamento ou a revogação da prisão preventiva, ou, subsidiariamente, sua substituição por medidas cautelares diversas, dentre aquelas previstas no art. 319 do Código de Processo Penal ou prisão domiciliar.
+    A liminar foi indeferida às fls. 129-130 e 142-143 e as informações foram prestadas às fls. 133-137.
+    Na origem, a ação penal nº 00024245920198250072 está em fase instrutória, com designação de audiência de instrução e julgamento para o dia 7/10/2020, conforme informações prestadas (fl. 135)”. (eDOC 2, p. 161)
+    No STJ, o habeas corpus não foi conhecido.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observe-se o teor do ato impugnado:
+    “No que pertine à alegada ausência de fundamentação do decreto prisional, verifico que os acórdãos hostilizados não analisaram a controvérsia, por serem reiteração de pedido anterior, cujo inteiro teor do acórdão não foi juntado aos autos. Por conseguinte, o exame da alegação implicaria indevida supressão de instância.
+    […]
+    No que tange ao alegado excesso de prazo para a formação da culpa, ressalta-se que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos.
+    […]
+    Colhe-se do v. acórdão vergastado, no que pertine ao trâmite da ação penal originária, verbis (fls. 105-106):
+    "Ultrapassado esse ponto, no que tange o argumento deexcesso prazal, temos que os prazos para a finalização dos atos processuais não são absolutos, podendo ser flexibilizados em decorrência das peculiaridades que envolvam o caso concreto, respeitando-se, para tanto, os limites da razoabilidade, sem que isso implique constrangimento ilegal.
+    Este, aliás, é o escólio de renomados doutrinadores pátrios, ratificado por iterativo entendimento da Corte Cidadá, verbis: [...]
+    In casu, após consulta ao Sistema de Controle Processual dessa Egrégia Corte de Justiça, constatamos que o Juízo de origem vem conduzindo o feito subjacente de forma diligente, em atenção ao princípio da duração razoável do processo, inexistindo motivos que embasem a alegada morosidade.
+    Há que se destacar, ainda, que se trata de processo complexo, com pluralidade de Réus (cinco), patrocinados por causídicos distintos, o que por si só justifica uma maior duração do feito até seu desfecho final.
+    Registre-se, ainda, que audiência instrutória somente não fora designada em virtude das medidas preventivas de contágio pelo COVID-19, implementadas pela Portaria GP1 Normativa n° 12/2020, que suspendeu, provisoriamente, as atividades presenciais no âmbito do Poder Judiciário Estadual.
+    Assim, considerando que a Autoridade apontada coatora tem empreendido todos os esforços possíveis para garantir a celeridade processual, para nós, inexiste irrazoabilidade prazal na demanda penal em apreço que justifique a liberação do Paciente"
+    Da leitura dos excertos transcritos, verifica-se que, apesar do atraso na instrução criminal, ele se justifica, notadamente em razão das peculiaridades da causa, que investiga grave crime de homicídio qualificado, com pluralidade de réus (5), com advogados distintos, conforme consignado pelas instâncias originárias, sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+    Ademais, verifica-se que o adiamento da audiência de instrução foi determinado em razão da pandemia do novo coronavírus, atendendo a recomendações do eg. Tribunal de origem e do Conselho Nacional de Justiça, no intuito de preservar a saúde dos próprios réus da ação penal originária.
+    Assim, faz-se necessário asseverar que o feito estaria seguindo seu trâmite regular, não se tendo qualquer notícia de fato que evidencie atraso injustificado ou desídia atribuível ao Poder Judiciário”. (eDOC 2, p. 171)
+    A jurisprudência desta Corte é firme no entendimento de que a configuração do excesso de prazo a justificar a revogação da prisão não se verifica a partir, tão somente, do requisito temporal. É preciso apurar se há circunstâncias que exigem uma elasticidade da marcha processual, a exemplo do número de réus, o que verifico no presente caso. Cito recentes precedentes: HC 170.778, DJe 3.5.2019; RHC 170.836, DJe 10.5.2019; HC 171.205, DJe 16.5.2019; HC 154.645, DJe 17.5.2019; HC 171.072, DJe 20.5.2019, todos de minha relatoria.
+    Ademais, afirmei, no HC 158.279: “o período de cinco anos de prisão cautelar pode estar justificado em um processo e, em outro, não. Cito precedentes: RHC 140.840, Rel. Min. Luix Fuz, DJe 3.3.2017; e HC 132.172, de minha relatoria, DJe 11.2.2016.”
+    Por fim, “a ação penal nº 00024245920198250072 está em fase instrutória, com designação de audiência de instrução e julgamento para o dia 7/10/2020, conforme informações prestadas”, razão por que não há nenhuma providência a ser adotada.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 24 de setembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
