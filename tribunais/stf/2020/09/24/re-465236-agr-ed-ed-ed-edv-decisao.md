@@ -1,0 +1,15 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA – JURISPRUDÊNCIA CONSOLIDADA – SEGUIMENTO – NEGATIVA.
+     1. Os embargos de divergência voltam-se a impugnar decisão mediante a qual a Segunda Turma desproveu agravo regimental, com a seguinte ementa:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE A CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS. ICMS. SERVIÇOS DE TRANSPORTE INTERMUNICIPAL OU INTERESTADUAL. CUMULATIVIDADE. REGIME OPCIONAL DE APURAÇÃO DO VALOR DEVIDO. VANTAGEM CONSISTENTE NA REDUÇÃO DA BASE DE CÁLCULO. CONTRAPARTIDA EVIDENCIADA PELA PROIBIÇÃO DO REGISTRO DE CRÉDITOS. IMPOSSIBILIDADE DA MANUTENÇÃO DO BENEFÍCIO SEM A PERMANÊNCIA DA CONTRAPARTIDA. ESTORNO APENAS PROPORCIONAL DOS CRÉDITOS. IMPOSSIBILIDADE.
+    1. Segundo orientação firmada pelo Supremo Tribunal Federal, as figuras da redução da base de cálculo e da isenção parcial se equiparam. Portanto, ausente autorização específica, pode a autoridade fiscal proibir o registro de créditos de ICMS proporcional ao valor exonerado (art. 155, § 2º, II, b da Constituição).
+    2. Situação peculiar. Regime alternativo e opcional para apuração do tributo. Concessão de benefício condicionada ao não registro de créditos. Pretensão voltada à permanência do benefício, cumulado ao direito de registro de créditos proporcionais ao valor cobrado. Impossibilidade. Tratando-se de regime alternativo e facultativo de apuração do valor devido, não é possível manter o benefício sem a contrapartida esperada pelas autoridades fiscais, sob pena de extensão indevida do incentivo. Agravo regimental ao qual se nega provimento.
+    O recorrente articula com a existência de discrepância entre a decisão e os acórdãos formalizados pela Primeira Turma nos embargos de declaração no recurso extraordinário nº 174.478, relator o ministro Cezar Peluso, e no agravo regimental no recurso extraordinário nº 459.490, relator o ministro Ricardo Lewandowski, publicados, respectivamente, no Diário da Justiça de 30 de maio de 2008 e de 14 de maio de 2010.
+    2. Conforme o artigo 332 do Regimento Interno, não cabem embargos de divergência nas situações em que a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada.
+    O pronunciamento recorrido está em consonância com o entendimento do Tribunal. No recurso extraordinário nº 477.323, de minha relatoria, acórdão publicado em 9 de fevereiro de 2015, o Plenário assentou a constitucionalidade da vedação a creditamento do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, ante a adoção de regime especial facultativo pelo contribuinte. Eis a ementa:
+    IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – BASE DE INCIDÊNCIA REDUZIDA – SISTEMA OPCIONAL. Sendo opcional o sistema a envolver base do tributo reduzida, não se tem violência ao princípio da não cumulatividade no que considerado o crédito de forma proporcional.
+    3. Ante o quadro, nego seguimento ao recurso.
+    4. Publiquem.
+Brasília, 24 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
