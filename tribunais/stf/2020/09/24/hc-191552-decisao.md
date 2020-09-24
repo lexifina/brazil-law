@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus impetrado por Fábio Rogério Donadon Costa, em favor de Sidnei Ferreira da Silva, contra decisão monocrática proferida pelo Presidente do STJ, nos autos do HC 612.920/SP.
+    Colho da decisão impugnada:
+    “Consta nos autos que o paciente foi preso em flagrante no dia 11/09/2020, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/06. A prisão em flagrante foi convertida em preventiva.
+    Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o tribunal local, visando a soltura do paciente.
+    Requer a concessão da ordem, liminarmente, para que o paciente seja colocado em liberdade, alegando para tanto a insuficiência de fundamentação idônea da decisão hostilizada, a ausência dos requisitos ensejadores da medida extrema e a violação aos princípios da presunção de inocência, proporcionalidade, cautelaridade e da excepcionalidade.
+    Subsidiariamente, pugna pela substituição da prisão por medidas cautelares diversas, elencadas no art. 319 do CPP”. (eDOC 3)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, a defesa reitera o pedido formulado naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Tribunal de Justiça nem pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação colegiada das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observe-se o teor da decisão que converteu em preventiva a prisão em flagrante:
+    “No dia 11 de setembro de 2020, SIDNEI FERREIRA DA SILVA, qualificado às fls. 07, foi preso em flagrante por ter sido surpreendido, guardando e mantendo em depósito duas porções de cocaína, com massa líquida de seis gramas, estando o flagrante formalmente em ordem.
+    […]
+    Em seus depoimentos, os policiais civis esclareceram que havia denúncias contra o indiciado, apontando a prática da comercialização da droga. Em reforço, tem-se o depoimento de Jordana Fernandes de Andrade, que de forma clara afirma que seu companheiro Anderson Luís Gusmão compra entorpecentes do autuado. No mais, apesar de sua negativa, os policiais foram assertivos em dizer que duas porções de cocaína foram apreendidas na posse do indiciado, bem como o valor de R$ 4.700,00 (quatro mil e setecentos reais). Ressalta-se que o montante encontrado em poder do indiciado é incompatível com sua renda lícita, o que se constata facilmente pelos holerites carreados à fl. 101, indicando que a comercialização espúria era exercida em caráter de complementação de renda. Ademais, o fato de o autuado possuir trabalho lícito não o impede de exercer a traficância, como, de fato, sói acontecer.
+    Os elementos carreados aos autos não permitem, em análise perfunctória, a desclassificação do delito para o de posse para consumo próprio, haja vista as prévias denúncias que apontam a comercialização pelo increpado, somadas a confirmação desse fato por Jordana e pelas mensagens contidas no aparelho celular (fls. 51/52). Ademais, junto com o autuado, na residência que utilizava para a mercancia espúria – segundo as denúncias que ensejaram a diligência policial –, foram encontrados petrechos típicos do comércio ilícito, tais como balança de precisão, saco plástico – em cor idêntica ao que embalava a droga encontrada consigo –, bem como fita crepe, tesoura e grande quantidade de dinheiro (provavelmente fruto das negociações ilícitas), consoante auto de apreensão e exibição de fls. 13/14. Com isso, resta afastada a possibilidade de desclassificação do delito de tráfico para o de posse de drogas para consumo pessoal (art. 28, da LD).
+    […]
+    Ademais, o autuado possui condenações por tráfico de entorpecentes e associação para o tráfico (autos de nº 0002860-91.2009.8.26.0637 e nº 0005255-46.2015.8.26.0637; fls. 59/61), ou seja, REINCIDENTE ESPECÍFICO, restando evidente que, em liberdade, o autuado voltará a delinquir, uma vez que seu envolvimento com a mercancia espúria não é eventual ou meramente ocasional. (eDOC 3)
+    O impetrante se apega à baixa quantidade da substância apreendida para fundamentar seu pedido.
+    Segundo os autos, foi apreendida baixa quantidade em razão exatamente do suposto comércio, já que, com o paciente, teria sido apreendida a quantia de R$ 4.700,00, além de balança de precisão e outros acessórios utilizados para a prática do tráfico de drogas.
+    Desse modo, não é possível, no caso concreto, avaliar a quantidade apreendida isoladamente, porquanto os elementos colhidos nos autos demonstram que ela parece estar associada à baixa de estoque e não à traficância de pequena monta, como quer fazer crer a defesa.
+    Ademais, o paciente “possui condenações por tráfico de entorpecentes e associação para o tráfico (autos de nº 0002860-91.2009.8.26.0637 e nº 0005255-46.2015.8.26.0637; fls. 59/61), ou seja, REINCIDENTE ESPECÍFICO”, a indicar indícios de reiteração delitiva.
+    A esse respeito, esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito e na possibilidade concreta de reiteração delitiva, de modo que não há constrangimento ilegal a autorizar a concessão da ordem. Precedentes: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli; HC 175.086, de minha relatoria, DJe 10.9.2019)
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se. Comunique-se ao Juízo de primeiro grau.
+    Brasília, 24 de setembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
