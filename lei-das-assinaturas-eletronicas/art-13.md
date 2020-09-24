@@ -1,0 +1,2 @@
+Art. 13. Os receituários de medicamentos sujeitos a controle especial e os atestados médicos em meio eletrônico, previstos em ato do Ministério da Saúde, somente serão válidos quando subscritos com assinatura eletrônica qualificada do profissional de saúde.
+Parágrafo único. As exigências de nível mínimo de assinatura eletrônica previstas no caput deste artigo e no art. 14 desta Lei não se aplicam aos atos internos do ambiente hospitalar.
