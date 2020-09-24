@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro assentou a incompetência da Justiça do Trabalho para o julgamento de lide a versar o recolhimento de contribuições sindicais. No extraordinário cujo trânsito pretende alcançar, a recorrente alega a violação do artigo 114, incisos I, III e IX, da Constituição Federal. Diz estar em jogo questões atinentes a entidade de representação sindical e empregadores, aludindo à competência da Justiça Especializada, na forma da Emenda Constitucional nº 45/2004.
+    2. Eis a síntese da decisão recorrida:
+    2. Inicialmente, não há que se falar em incompetência da Justiça Estadual para o julgamento da presente demanda, eis que não se trata de controvérsia acerca da representatividade de categoria profissional ou relação trabalhista, tendo a lide como escopo apenas a demonstração do recolhimento de contribuições sindicais, afastando, portanto, a competência da Justiça do Trabalho.
+    [...]
+    8. Com efeito, a questão única a ser discutida na primeira fase do procedimento é a existência ou não do dever de prestar contas por parte da empresa ré dos valores descontados na folha de pagamento de seus empregados a título de contribuição sindical.
+    9. É certo que o empregador tem o dever de prestar contas dos referidos valores ao sindicato ao qual seus empregados estão associados. Tal obrigação decorre de lei (art. 545 da CLT) e dos acordos coletivos de fls. 63/111 (Cláusulas 35ª (fls. 75), 31ª e 32ª (fls. 104)), que evidenciam que a empresa ré efetuaria os descontos das contribuições em tela (ajuda educativa, contribuição assistencial, contribuição confederativa e mensalidade sindical) de seus empregados representados pelo sindicato autor.
+    10. Da análise dos autos, verifica-se que as contas apresentadas pela empresa ré não supriram a pretensão autoral, eis que não restou comprovado o recolhimento da contribuição sindical do ano de 2012, bem como das mensalidades e ajuda educativa a partir do mês de outubro de 2011, não tendo sido preenchidos, ainda, os requisitos expressamente previstos no art. 917 do Código de Processo Civil, in verbis:
+      “As contas, assim do autor como do réu, serão apresentadas em forma mercantil, especificando-se as receitas e a aplicação das despesas, bem como o respectivo saldo; e serão instruídas com os documentos justificativos.”
+    O Colegiado de origem deixou clara a distinção entre a temática da representatividade de categoria profissional ou relação trabalhista e do recolhimento de contribuições sindicais, no que afastada a competência da Justiça do Trabalho, indicando inclusive o dispositivo e cláusulas pertinentes. Somente pela análise do quadro fático e da legislação de regência seria dado decidir de forma diferente, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.800,00 (mil e oitocentos reais), fixo os honorários recursais no patamar de R$ 900,00 (novecentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 24 de setembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
