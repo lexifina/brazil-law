@@ -1,0 +1,32 @@
+AGRAVO DE INSTRUMENTO No 1019736-09.2020.8.11.0000
+AGRAVANTE:- D3S LOCACAO DE EQUIPAMENTOS DE RASTREAMENTO LTDA - ME
+AGRAVADA:- TELEFONICA BRASIL S.A.
+Agravo de Instrumento n. 1019736-09.2020.8.11.0000 de decisão da 6a Vara Cível da Comarca de Cuiabá que, em Ação Declaratória de Nulidade de Cobrança c/c Revisão de Valores, Indenização por Danos Morais, revogou a tutela provisória de urgência para o fim de manter, como devido, o valor da fatura do mês de novembro/2019, de R$ 5.386,25 (cinco mil, trezentos e oitenta e seis reais e vinte e cinco centavos), bem como determinar à ré que se abstenha de negativar o nome da autora nos órgãos de proteção ao crédito por conta dos valores ora discutidos, além de proibi-la de suspender os serviços de telefonia, até o julgamento do mérito da ação, sob pena de multa diária, que ora fixo no importe de R$ 1.000,00 (mil reais), limitada a 60 (sessenta) dias.
+A agravante alega que ajuizou o feito em maio de 2020, e pleiteou a medida tendo em vista a discrepante divergência entre as faturas telefônicas referentes ao contrato 2114706979, bem como a inserção de serviços que não foram requeridos pela Agravante, sendo eles o pacote “M2M SMART CENTER PACOTE 20MB” no valor de R$ 48.728,50 (quarenta e oito mil setecentos e vinte e oito reais e cinquenta centavos) e “PACOTE M2M GESTÃO BÁSICA” no valor de R$ 17.827,50 (dezessete mil oitocentos e vinte e sete reais e cinquenta centavos) , requerendo como tutela de urgência a não suspensão dos serviços, tendo em vista que um recall nos veículos com o chips instalados trariam um custo operacional imenso para a empresa, bem como a manutenção das contas no patamar de R$ 5.386,25 (cinco mil trezentos e oitenta e seis reais e vinte e cinco centavos), até que fosse discutida a presente lide, pela patente desproporcionalidade com as faturas posteriores, ressaltando ainda o fato das mesmas encontrarem-se contestadas administrativamente.
+Aduz que em 3-9-2020 recebeu notificação da agravada informando a resilição unilateral do contrato discutido nos autos, o que lhe trará grande prejuízo porque utiliza o serviço para o rastreamento de veículos.
+Diz que devido a pandemia decorrente da Covid-19, está tentando cumprir seus compromissos, porém não tem recursos para pagar as contas de janeiro a maio de 2020 de uma só vez.
+Afirma que depositou o referente ao mês de julho e agosto, e continuará com relação às prestações subsequentes,
+Pontua que sua atividade exige agilidade e cautelas visto que existem diversos veículos que possuem os chips da agravada nos rastreadores o que geraria custo operacional para a troca o que é inviável neste período de pandemia.
+Pugna pelo efeito suspensivo.
+É o relatório.
+A agravante ajuizou o feito onde discute os valores das cobranças dos serviços prestados pela agravada.
+A tutela de urgência foi deferida nos seguintes termos:
+(...)
+Os documentos trazidos com a peça primeira demonstram a relação jurídica entre as partes há bastante tempo, bem como a discrepância entre os valores cobrados, a partir do mês de novembro/2019, que foram majorados, sequencialmente, de R$ 5.386,25 (cinco mil, trezentos e oitenta e seis reais e vinte e cinco centavos) para R$ 66.558,99 (sessenta e seis mil e quinhentos e cinquenta e oito reais e noventa e nove centavos).
+Melhor explicando, os documentos trazidos com a inicial comprovam a cobrança de faturas emitidas com valores absurdamente superiores ao histórico de consumo, sem justificativa plausível, pelo que se nota numa análise de preâmbulo, talvez por inclusão de serviços não contratados pela empresa autora, conforme afirmado por esta, residindo, nisso, a probabilidade do direito.
+O perigo da demora também resta evidenciado, na medida em que a ausência de pagamento dos valores apontados como indevidos poderá ensejar a negativação do nome da autora nos órgãos de proteção ao crédito, acarretando-lhe prejuízos de toda ordem provocados pelo próprio ato de negativação.
+Também não há risco de irreversibilidade dos efeitos da decisão, uma vez que nada obsta que a parte ré seja ressarcida ao final do processo, caso seja vencedora na ação.
+Logo, mostra-se prudente o acolhimento do pleito liminar para o fim de manter, como devido, o valor cobrado na fatura do mês de novembro de 2019, de R$ 5.386,25 (cinco mil, trezentos e oitenta e seis reais e vinte e cinco centavos), que deverá ser pago, mensalmente, a partir desta decisão, até o julgamento do mérito. (Id 33515954 dos autos em primeiro grau)
+Depois foi noticiado o descumprimento desse decisum, visto que a agravante deixou de efetuar os depósitos subsequentes da quantia que entende devida.
+Intimada, ela consignou o equivalente a uma prestação, sendo então proferida a decisão atacada, assim fundamentada:
+(...)
+Consoante se observa da decisão anterior, foi determinada à parte autora que adimplisse todas as faturas discutidas neste processo, que, por óbvio, referem-se às faturas de janeiro a abril do ano em curso, mais as faturas subsequentes, no valor incontroverso de R$ 5.386,25 (cinco mil, trezentos e oitenta e seis reais e vinte e cinco centavos), sob pena de revogação da liminar.
+Contudo, foi depositado em juízo o valor de R$ 5.386,25 que corresponde a apenas uma fatura, numa clara demonstração de descumprimento ao ordenado na última decisão e de aproveitamento da presente demanda judicial para deixar de pagar até mesmo o que reputa incontroverso, o que retira da parte autora a razão que lhe conferiu ao menos a probabilidade do direito necessária ao deferimento da tutela provisória de urgência, impondo-se a revogação da medida, o que ora faço, ficando prejudicada a segunda parte do pedido formulado pela parte ré. (Id 37671500 dos autos em primeiro grau)
+Sem adentrar no mérito das razões recursais, é evidente o dano iminente à agravante, visto que ela atua no ramo de rastreamento de veículo por meio de chip de telemetria que é fornecido pela agravada, e a suspensão da medida anteriormente concedida poderá lhe trazer prejuízo.
+Por outro lado ela tem interesse no pagamento das prestações, o que demonstra a boa-fé.
+Importante registrar que o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta, será imediatamente incluído em pauta para julgamento.
+Posto isso, defiro, por ora, o efeito suspensivo.
+Intime-se a parte adversa para oferecer resposta em 15 dias.
+Cuiabá, 23 de setembro de 2020.
+Des. Rubens de Oliveira Santos Filho
+Relator
