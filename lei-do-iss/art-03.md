@@ -23,8 +23,19 @@ XXI - da feira, exposição, congresso ou congênere a que se referir o planejam
 XXII - do porto, aeroporto, ferroporto, terminal rodoviário, ferroviário ou metroviário, no caso dos serviços descritos pelo item 20 da lista anexa.
 XXIII - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;
 XXIV - do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;
-XXV - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09.
+XXV - do domicílio do tomador do serviço do subitem 15.09.
 § 1º No caso dos serviços a que se refere o subitem 3.04 da lista anexa, considera-se ocorrido o fato gerador e devido o imposto em cada Município em cujo território haja extensão de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza, objetos de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não.
 § 2º No caso dos serviços a que se refere o subitem 22.01 da lista anexa, considera-se ocorrido o fato gerador e devido o imposto em cada Município em cujo território haja extensão de rodovia explorada.
 § 3º Considera-se ocorrido o fato gerador do imposto no local do estabelecimento prestador nos serviços executados em águas marítimas, excetuados os serviços descritos no subitem 20.01.
 § 4º § 4º Na hipótese de descumprimento do disposto no caput ou no § 1º, ambos do art. 8º-A desta Lei Complementar, o imposto será devido no local do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado.
+§ 5º Ressalvadas as exceções e especificações estabelecidas nos §§ 6º a 12 deste artigo, considera-se tomador dos serviços referidos nos incisos XXIII, XXIV e XXV do caput deste artigo o contratante do serviço e, no caso de negócio jurídico que envolva estipulação em favor de unidade da pessoa jurídica contratante, a unidade em favor da qual o serviço foi estipulado, sendo irrelevantes para caracterizá-la as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas.
+§ 6º No caso dos serviços de planos de saúde ou de medicina e congêneres, referidos nos subitens 4.22 e 4.23 da lista de serviços anexa a esta Lei Complementar, o tomador do serviço é a pessoa física beneficiária vinculada à operadora por meio de convênio ou contrato de plano de saúde individual, familiar, coletivo empresarial ou coletivo por adesão.
+§ 7º Nos casos em que houver dependentes vinculados ao titular do plano, será considerado apenas o domicílio do titular para fins do disposto no § 6º deste artigo.
+§ 8º No caso dos serviços de administração de cartão de crédito ou débito e congêneres, referidos no subitem 15.01 da lista de serviços anexa a esta Lei Complementar, prestados diretamente aos portadores de cartões de crédito ou débito e congêneres, o tomador é o primeiro titular do cartão.
+§ 9º O local do estabelecimento credenciado é considerado o domicílio do tomador dos demais serviços referidos no subitem 15.01 da lista de serviços anexa a esta Lei Complementar relativos às transferências realizadas por meio de cartão de crédito ou débito, ou a eles conexos, que sejam prestados ao tomador, direta ou indiretamente, por:
+I - bandeiras;
+II - credenciadoras; ou
+III - emissoras de cartões de crédito e débito.
+§ 10. No caso dos serviços de administração de carteira de valores mobiliários e dos serviços de administração e gestão de fundos e clubes de investimento, referidos no subitem 15.01 da lista de serviços anexa a esta Lei Complementar, o tomador é o cotista.
+§ 11. No caso dos serviços de administração de consórcios, o tomador de serviço é o consorciado.
+§ 12. No caso dos serviços de arrendamento mercantil, o tomador do serviço é o arrendatário, pessoa física ou a unidade beneficiária da pessoa jurídica, domiciliado no País, e, no caso de arrendatário não domiciliado no País, o tomador é o beneficiário do serviço no País.
