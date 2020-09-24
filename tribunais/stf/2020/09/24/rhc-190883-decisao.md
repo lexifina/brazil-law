@@ -1,0 +1,27 @@
+Decisão: Trata-se de Recurso Ordinário em habeas corpus interposto por Fabio Rogerio Donadon Costa, em favor de Jeferson Henrique Severiano da Costa, contra decisão monocrática proferia por Ministro do Superior Tribunal de Justiça, nos autos do HC 610.442/SP.
+    Colho da decisão impugnada:
+    Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+    Habeas Corpus - Tráfico de entorpecentes e associação para o tráfico - Prisão em flagrante convertida em preventiva - Violação de domicílio - Pedido de liberdade - Descabimento - Drogas apreendidas no interior de domicílio - Crime permanente - Regularidade da prisão em flagrante, nos termos do art. 5º, XI, da CF - Decisão devidamente fundamentada - A gravidade concreta da conduta e a quantidade de entorpecente apreendido em poder do paciente, justificam a necessidade da prisão cautelar - Insuficiência das medidas cautelares diversas da prisão ante a reincidência - Presentes os requisitos dos artigos 312, e 313, I e II, ambos do Código de Processo Penal -Constrangimento ilegal não evidenciado - Ordem denegada.
+    Alega, em síntese, que a prisão em flagrante do paciente que ensejou a prisão em flagrante é totalmente ilegal, uma vez que houve invasão de domicílio por parte dos policiais não evidenciada situação de flagrante e nada de ilícito foi encontrado em poder do Paciente (fl. 7). Entende ser Patente, assim, a ilegalidade da entrada dos policiais na residência do Paciente, sem prévio mandado judicial e sem autorização do morador. De consequência, devem ser reconhecidas como ilícitas as provas obtidas em tais buscas, assim como as delas derivadas (fl. 22).
+    Requer, liminarmente e no mérito, a concessão da ordem, para reconhecer a nulidade das provas de tráfico de entorpecentes obtidas nas buscas na residência do Paciente, bem como de todas as que delas derivaram, e, por conseguinte, absolver o paciente, com fulcro no art. 397 do CPP alternativamente art. 386, II, do CPP (fl. 26).
+    É o relatório. (em consulta ao sítio do STJ)
+    No STJ, o pedido liminar writ foi indeferido, pendente o julgamento do mérito. (em consulta ao sítio do STJ)
+    Nesta Corte, a defesa sustenta inidônea a fundamentação da prisão preventiva do paciente, porquanto lastreada na gravidade abstrata do delito, além de ausentes os requisitos autorizadores previstos no art. 312 do CPP. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, ocupação lícita e residência fixa.
+    Requer, liminarmente e no mérito, a revogação da custódia cautelar, expedindo-se alvará de soltura em favor do paciente e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    Alega, ainda, que com o avanço da contaminação do COVID-19, a manutenção da prisão do réu viola os direitos humanos e pede-se a decretação da prisão domiciliar.
+    Este é o segundo habeas corpus impetrado em favor do paciente.
+    RHC prevento a mim em razão do HC 185.719.
+    Decido.
+    De início, verifico que o pedido se esbarra na Súmula 691 desta Corte, razão por que dele não posso conhecer: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    É bem verdade que o rigor na aplicação da Súmula 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Na hipótese dos autos, não vislumbro nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula 691 do STF.
+    Isso porque, por meio do presente writ, a defesa pretende o reconhecimento de nulidade das provas obtidas e derivadas a partir do ingresso de força miliciana na residência do acusado, controvérsia que demanda um revolvimento fático-probatório não comportado pela estreita via de cognição do habeas corpus.
+    Quanto à questão relacionada a pandemia do coronavírus, o Plenário do STF na ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar quanto à matéria de fundo, nos termos do voto do Ministro Alexandre de Moraes. Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça. Ademais, não restou devidamente comprovado nos autos de que o réu, de fato, faça parte do grupo de risco para COVID-19.
+    Assim, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, aguarde-se, pois, o julgamento do mérito no STJ.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Intime-se.
+    Brasília, 24 de setembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
