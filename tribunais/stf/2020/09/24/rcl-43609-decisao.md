@@ -1,0 +1,13 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada pela empresa V S B Impermeabilizações EIRELI-EPP contra decisão da 6ª Turma do Tribunal Regional Federal da 3ª Região proferida em execução fiscal (autos nº 5025903-63.2019.4.03.0000), na qual a ora reclamante pleiteava o reconhecimento de irregularidades em CDAs, especialmente no que concerne à inclusão indevida do ICMS na base de cálculo do PIS, da COFINS, do IRPJ e da CSLL.
+    2. Na presente reclamação, a autora alega afronta à tese firmada no julgamento do RE 574.706 (Tema 69 da repercussão geral). Requer, assim, a cassação da decisão impugnada, determinando-se a exclusão do ICMS da base de cálculo do PIS e da COFINS.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, a manifestação da Procuradoria-Geral da República, e a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    5. O Código de Processo Civil de 2015, na linha das suas demais inovações relativas à evolução legislativa do sistema de precedentes, previu a possibilidade de ajuizamento da reclamação para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, ou de acórdão proferido em julgamento de recursos extraordinários repetitivos. Todavia, para tanto, deveriam ser “esgotadas as instâncias ordinárias” (art. 988, § 5º, II, do CPC/2015).
+    6. O Supremo Tribunal Federal firmou entendimento no sentido de que a correta interpretação do dispositivo exige o percurso de todo o iter processual, ultimado na interposição e julgamento de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015. Ou seja, é imprescindível que a parte tenha interposto todos os recursos cabíveis, até a última via processual que lhe é aberta. Nesse sentido, veja-se a Rcl 24.686-ED-AgR, Rel. Min. Teori Zavascki.
+    7. No caso, em consulta ao andamento do processo de origem, no sítio eletrônico do Tribunal Regional Federal da 3ª Região, verifico que o requisito não foi cumprido, uma vez que sequer foi interposto recurso extraordinário. A presente reclamação foi ajuizada após a rejeição de embargos declaratórios em agravo de instrumento interposto contra decisão que rejeitou a exceção de pré-executividade (doc. 6).
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada. Em caso de interposição de recurso, deve a parte reclamante atribuir valor à causa.
+     Publique-se.
+       Brasília, 24 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
