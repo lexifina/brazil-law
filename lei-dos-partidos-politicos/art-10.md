@@ -2,4 +2,4 @@ Art. 10. As alterações programáticas ou estatutárias, após registradas no O
 § 1º. O Partido comunica à Justiça Eleitoral a constituição de seus órgãos de direção e os nomes dos respectivos integrantes, bem como as alterações que forem promovidas, para anotação:
 I - no Tribunal Superior Eleitoral, dos integrantes dos órgãos de âmbito nacional;
 II - nos Tribunais Regionais Eleitorais, dos integrantes dos órgãos de âmbito estadual, municipal ou zonal.
-§ 2º Os registros de atas e demais documentos de órgãos de direção nacional, estadual, distrital e municipal devem ser realizados no cartório do Registro Civil de Pessoas Jurídicas da circunscrição do respectivo diretório partidário.
+§ 2º Após o recebimento da comunicação de constituição dos órgãos de direção regionais e municipais, definitivos ou provisórios, o Tribunal Superior Eleitoral, na condição de unidade cadastradora, deverá proceder à inscrição, ao restabelecimento e à alteração de dados cadastrais e da situação cadastral perante o CNPJ na Secretaria Especial da Receita Federal do Brasil.
