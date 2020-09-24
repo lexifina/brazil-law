@@ -1,0 +1,1 @@
+Art. 17. O disposto nesta Lei não estabelece obrigação aos órgãos e entidades da administração direta, indireta, autárquica e fundacional dos Poderes e órgãos constitucionalmente autônomos dos entes federativos de disponibilizarem mecanismos de comunicação eletrônica em todas as hipóteses de interação com pessoas naturais ou jurídicas.
