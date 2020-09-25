@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. ANISTIADO POLÍTICO. RECONHECIMENTO ATRAVÉS DA PORTARIA Nº 542/04. PAGAMENTO DE VALORES RECONHECIDOS COMO DEVIDOS PELA PRÓPRIA ADMINISTRAÇÃO E NÃO PAGOS. CABIMENTO. REFORMA DA SENTENÇA. PROCEDÊNCIA DO PEDIDO.
+    1. Caso em que se pretende o pagamento de valores retroativos, referentes ao reconhecimento da condição de anistiado político, nos termos da Portaria nº 542/04, do Ministro da Justiça, publicada no DOU em 10/02/2004, no valor de valor de R$ 201.177,76 (duzentos e um mil, cento e setenta e sete reais e setenta e seis centavos). O juiz singular indeferiu o pedido, ao argumento de que os efeitos da aludida Portaria teriam sido suspensos, em face da instauração de procedimento de revisão de benefícios de anistia, descritos na Portaria 134/2011;
+    2. Considerando que a Portaria Interministerial nº 134/2011 apenas criou grupo de trabalho de caráter opinativo, com a finalidade de examinar as anistias concedidas, não tendo o condão de desconstituí-las, continua em plena vigência a condição de anistiado do autor, reconhecida na Portaria nº 542/04, bem assim o direito ao pagamento dos valores em atraso entre o período de 10/10/1997 a 22/01/2004, conforme expressamente previsto na mesma Portaria;
+    3. Apelação provida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 2º; 5º, XXXVI e LIV e 37, caput, da CF.
+    O recurso não merece ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal (STF), que, ao julgar o RE 553.710-RG, Rel. Min. Dias Toffoli, em que foi reconhecida a repercussão geral da controvérsia aqui debatida, fixou as seguintes teses:
+    “i) Reconhecido o direito à anistia política, a falta de cumprimento de requisição ou determinação de providências por parte da União, por intermédio do órgão competente, no prazo previsto nos arts. 12, § 4º, e 18, caput e parágrafo único, da Lei nº 10.599/02, caracteriza ilegalidade e violação de direito líquido e certo.
+    ii) Havendo rubricas no orçamento destinadas ao pagamento das indenizações devidas aos anistiados políticos e não demonstrada a ausência de disponibilidade de caixa, a União há de promover o pagamento do valor ao anistiado no prazo de 60 dias.
+    iii) Na ausência ou na insuficiência de disponibilidade orçamentária no exercício em curso, cumpre à União promover sua previsão no projeto de lei orçamentária imediatamente seguinte.”
+    Quanto à alegada violação ao art. 5º, LIV, da CF, o Plenário do STF decidiu pela inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Por fim, ressalto que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Portarias 542/2004 e 134/2011), de modo que, para dissentir da conclusão adotada, seria necessária a interpretação de normas infraconstitucionais, o que não se admite na via extraordinária.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 25 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
