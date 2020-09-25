@@ -1,0 +1,50 @@
+DECISÃO
+    Trata-se de Agravo Interno interposto em face de decisão em que, ressalvando o meu entendimento pessoal, dei provimento ao Recurso Extraordinário, para consignar a necessidade de observância da anterioridade geral e nonagesimal, na hipótese de redução da alíquota de incentivo do REINTEGRA, ao fundamento de que a Primeira Turma do SUPREMO TRIBUNAL FEDERAL, no RE 1.257.528 AgR (Rel. Min. MARCO AURÉLIO, julgado em 16/6/2020), considerou aplicável também, nesses casos, a anterioridade geral, prevista na alínea “a” do art. 195 da Constituição Federal.
+    No Agravo, a parte agravante sustenta, em síntese, que (a) não há jurisprudência consolidada na CORTE SUPREMA sobre a matéria; e (b) existem diversos acórdãos, de ambas as Turmas, no sentido da inaplicabilidade da anterioridade geral nas situações de redução do benefício do REINTEGRA.
+    É o relatório. Decido.
+    Merece reconsideração a decisão agravada.
+    A propósito da matéria sob exame, em um primeiro momento, posicionei-me no sentido de que a redução das alíquotas de incentivo fiscal, por se tratar de aumento indireto de tributo, deve observar exclusivamente a alínea “c” do inciso III do artigo 150 da CF/1988, que prevê a anterioridade nonagesimal.
+    Nesse sentido, confira-se o RE 1.0400.84 AgR-ED, DJe de 14/2/2018.
+    Como essa posição, posteriormente, não prevaleceu na Primeira Turma, curvei-me ao entendimento do Colegiado, que considerou aplicável também a anterioridade geral, prevista na alínea “a” da referida norma constitucional, e passei a adotar essa orientação, como se pode constatar da decisão que prolatei no ARE 1.279.401, DJe de 18/8/2020.
+    Entretanto, em recentíssimo julgamento ainda não concluído, pelo PLENÁRIO desta CORTE, do RE 564.225 AgR-ED-AgR, estabeleceu-se um novo quadro.
+    Na oportunidade, foram proferidos dez votos:
+    a) 5 votos foram no sentido de que só se aplica a anterioridade nonagesimal, pois não há consenso no SUPREMO sobre a aplicação da anterioridade geral nos casos de redução ou supressão de incentivo fiscal;
+    b) 3 votos entenderam que, em tese, cabem ambas as formas de anterioridade - mas a aplicação das duas, só de uma ou de nenhuma dependerá do tributo objeto do benefício fiscal; e
+    c) 2 votos seguem na linha do item b, diferindo apenas na conclusão - e já registrando que unicamente a anterioridade nonagesimal se aplica no caso do incentivo REINTEGRA, aqui analisado.
+    Com relação à posição que consta do item “b” acima, veja-se elucidativo trecho do voto do Ilustre Min DIAS TOFFOLI, proferido no julgamento do Plenário:
+    “O texto constitucional é bem claro. Como regra, ambas as espécies de anterioridade, a geral e a nonagesimal, se aplicam à instituição ou à majoração de tributos.
+    Contudo, há casos em que apenas uma das anterioridades será aplicável e há casos em que nenhuma delas se aplicará.
+    Essas situações estão expressas no § 1º de seu art. 150 e também em outras passagens da Constituição.
+    Sobre o assunto, vide o art. 155, § 4º, IV, c; o art. 177, § 4º, I, b; e o art. 195, § 6º, da Carta Federal. Nesse sentido, ao imposto de renda e à fixação das bases de cálculo do IPVA e do IPTU só se aplica a anterioridade geral. Ao IPI, ao restabelecimento das alíquotas do ICMS sobre combustíveis e lubrificantes monofásico, ao restabelecimento da alíquota da CIDE sobre combustíveis por ato do Poder Executivo e às contribuições sociais destinadas à seguridade social aplica-se apenas a anterioridade nonagesimal. Já ao imposto de importação, ao imposto de exportação, ao imposto extraordinário de guerra, ao IOF e ao empréstimo compulsório em razão de guerra ou de calamidade pública não se aplica nenhuma das anterioridades.
+    Ora, se a majoração direta dos tributos deve observar essa lógica, com mais razão a redução ou a supressão de benefícios ou incentivos fiscais que provoquem majoração indireta de tributos devem seguir o mesmo raciocínio.
+    Devem-se respeitar, na aplicação das espécies de anterioridade, a regra e também as exceções expressamente previstas no próprio texto constitucional.
+    Assim, por exemplo, se há uma redução de benefício fiscal relativo a uma contribuição social destinada à Seguridade Social (COFINS, PIS, CSLL e as contribuições previdenciárias), essa medida pode surtir efeitos respeitando-se apenas a anterioridade nonagesimal, tendo em vista o teor do art. 195, § 6o, da Constituição Federal.
+    Não há, nessa hipótese, qualquer necessidade de se cumprir a regra da anterioridade geral. O texto constitucional é expresso e claro ao excepcionar a criação e a majoração dessas espécies tributárias do quanto disposto no art. 150, III, b da Constituição.
+    Cito, nessa direção, o caso da redução do benefício fiscal concernente ao Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA), redução essa que se submete tão somente à anterioridade nonagesimal. Explico:
+    No exame do RE no 1.081.041/SC-AgR, de minha relatoria, ficou consignado em meu voto que o legislador, por meio do REINTEGRA (instituído pela Lei 12.546/11), reconhece a existência de “um resíduo tributário na cadeia produtiva destinada à exportação, e ressarce, parcial ou integralmente, ao contribuinte tal resíduo”.
+    Nesse sentido, se estabeleceu a possibilidade de a pessoa jurídica exportadora de determinados bens apurar crédito, mediante a aplicação de percentual (de acordo com a Lei no 13.043/14, pode ele variar entre 0,1% e 3%), fixado pelo Poder Executivo, sobre a receita auferida com a exportação de tais bens para o exterior.
+    Importante destacar que, conforme a lei, uma parte do crédito assim apurado é devolvida a título de contribuição ao PIS/Pasep e a outra, a título de COFINS (art. 2º, § 11, da Lei no 12.546/11; e art. 25, § 5º, da Lei no 13.043/14).
+    Disso se percebe que o benefício fiscal concernente ao REINTEGRA diz respeito tão somente a essas contribuições, que são destinadas à seguridade social, não tendo qualquer conexão com qualquer outro tributo.
+    Assim, fica claro que, ao se reduzir a alíquota utilizada para efeito de apuração do referido crédito, o que há é a redução dos valores a serem devolvidos a título de contribuição ao PIS/Pasep e a título de COFINS.
+    O resultado disso, portanto, é o aumento indireto das cargas dessas específicas exações.
+    E, como as contribuições sociais destinadas à seguridade social submetem-se apenas à anterioridade nonagesimal (art. 195, § 6º, da Constituição Federal), a redução do benefício fiscal relativo ao REINTEGRA também deve se submeter somente a essa espécie de anterioridade.
+    Não há que se falar, destarte, na necessidade de cumprimento da anterioridade geral nessa hipótese.”
+    Citem-se, ainda, as considerações do Eminente Ministro ROBERTO BARROSO, no mesmo julgamento:
+    “3. O princípio da anterioridade busca assegurar a previsibilidade da relação fiscal ao não permitir que o sujeito passivo seja surpreendido com um aumento súbito do encargo, o que inviabilizaria qualquer tipo de planejamento financeiro. O prévio conhecimento da carga tributária tem como fundamento a segurança jurídica, conforme já reconhecido por esta Corte, ao reconhecer a necessidade de respeito à anterioridade anual e a noventena, diante do aumento indireto de tributo, como a revogação de benefício fiscal que tenha reduzido a base de cálculo de determinada exação.
+    4. Ausência de qualquer dos vícios do art. 1.022 do CPC, isso porque o acórdão embargado consignou que ambas as Turmas desta Corte estabelecem que se aplica o princípio da anterioridade tributária anual e da noventena, a depender das disposições constitucionais acerca de cada tributo, nas hipóteses de redução ou de supressão de benefícios ou de incentivos fiscais, haja vista que tais situações configuram majoração indireta da carga tributária.”
+    Diante do cenário acima descrito, conquanto ainda falte um voto para a conclusão do julgamento, já é possível afirmar que a orientação do PLENÁRIO da SUPREMA CORTE, se aplicada ao REINTEGRA, redunda na observância apenas da anterioridade nonagesimal.
+    Vejamos:
+    (i) 5 votos foram no sentido de que, nos casos de redução ou supressão de incentivo fiscal, aplica-se somente a anterioridade nonagesimal;
+    (ii) outros 5 votos, embora com conclusões diferentes para o caso concreto então analisado, concluíram que depende do tributo objeto do benefício fiscal a aplicação, ou não, do princípio da anterioridade – e, caso incidente, também a modalidade dessa garantia varia segundo a exação enfocada no incentivo fiscal.
+    Na linha do que defendido pelo Ministro DIAS TOFFOLI, o REINTEGRA é um programa de incentivo fiscal que reduz a incidência do PIS e da COFINS, aos quais é aplicável unicamente a anterioridade nonagesimal.
+    Assim, conclui-se que o acórdão do Tribunal de origem encontra-se em consonância com o entendimento desta CORTE, razão pela qual deve ser mantido.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem
+    Publique-se.
+    Brasília, 28 de setembro de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
