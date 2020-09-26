@@ -1,0 +1,28 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1019317-86.2020.8.11.0000
+AGRAVANTE: DIOGO MARCELO DELBEN FERREIRA DE LIMA
+AGRAVADO: OI S.A.
+Agravo de Instrumento interposto por Diogo Marcelo Delben Ferreira de Lima, de decisão que no Cumprimento de Sentença promovido pela OI S.A, no bojo da Ação de Cobrança, deferiu o pedido de Desconsideração da personalidade jurídica da empresa SÓ Celular Ltda-ME, para incluir seus sócios no polo passivo do presente cumprimento de sentença, já devidamente citados, bem assim determinou a intimação da agravada para indicar bens à penhora.
+Assegura que a agravada e exequente OI BRASIL TELECOM incluiu o ora agravante no polo passivo da demanda para responder pelo débito de R$ 152.790,00, sob pena de responder com seu patrimônio pessoal. Contudo, referida peça é inócua e inepta por a agravada pretende a desconsideração da personalidade jurídica da “Casa do Carburador”, empresa da qual nunca foi sócio.
+Questiona a validade da decisão agravada, porque sem julgar o Incidente de Desconsideração da Personalidade Jurídica interposto pela agravada, incluiu o agravante no polo passivo do cumprimento de sentença e deferiu penhora de bens.
+Afirma que a decisão recorrida cerceou seu direito de defesa e contraditório, porquanto deixou de observar o procedimento e rito próprios do Incidente de Desconsideração da Personalidade Jurídica.
+Assevera que tão logo iniciado o Incidente de Desconsideração da Personalidade Jurídica na origem, tempestivamente apresentou defesa e reconvenção. Contudo, nenhuma das peças foi objeto de análise pelo Juiz Singular.
+Assegura sua ilegitimidade passiva para figurar no cumprimento de sentença, porquanto não responde nem pela empresa FONEMAT LTDA ou CASA DO CARBURADOR LTDA.
+Sustenta que na data da propositura da lide e suposta constituição dos débitos pretendidos entre 1996 a 2002 (objeto da Execução), o ora agravante DIOGO MARCELO DELBEN FERREIRA DE LIMA, nascido em 14/12/1985 tinha 11 (onze anos de Idade).
+Requer seja anulada a decisão de fl. 786, porquanto o incidente apresentado pela agravada, além de não ter observado o procedimento adequado, não foi devidamente julgado pelo Juiz de origem, porquanto não há decisão motivada acerca do preenchimento ou não dos requisitos à pretendida desconsideração. De modo que seu direito de defesa foi cerceado e violado o princípio do contraditório.
+De forma subsidiária, requer seja reconhecida a inépcia do incidente de desconsideração proposto pela Agravada, bem assim a ilegitimidade passiva do agravante para que seja determinada a baixa do registro nestes autos do nome do agravante, porque não responde pelas empresas FONEMAT LTDA E CASA DO CARBURADOR LTDA. Por fim, no mérito, requer seja julgado improcedente o incidente manejado pela agravada frente a ausência de provas de ocorrência de desvio de finalidade ou confusão patrimonial, como exige o artigo 50 do Código Civil.
+Em sede de antecipação de tutela, requer a suspensão dos efeitos da decisão recorrida que deferiu pedido da agravada de constrição de valores e bens em nome do agravante. Postula, igualmente a concessão do benefício da justiça gratuita.
+É o necessário relato.
+Decido.
+Busca o agravante Diogo Marcelo Delben Ferreira de Lima, a suspensão dos efeitos da decisão que no cumprimento de sentença movido pela OI S.A., deferiu o pedido de desconsideração da personalidade jurídica da empresa Só Celular Ltda-ME (ID 57466480) para incluir seus sócios no polo passivo do presente cumprimento de sentença, já devidamente citados, bem assim determinou a intimação da agravada para indicar bens à penhora.
+De início, em razão dos holerites juntados pelo ora agravante (ID 58738475, 58738476 e 58738477), que comprovam ser professor da rede pública de ensino, concede-se o benefício da justiça gratuita, apenas para o presente recurso.
+Sabe-se que para a concessão do efeito suspensivo ao Agravo, com a finalidade de suspender a eficácia da decisão agravada, há de se perquirir, conforme dispõe regra do parágrafo único do art. 995 do Novo CPC, se presentes os elementos próprios que lhe autorizam, vale dizer, o risco de dano grave ou de difícil ou impossível reparação (perigo de demora) e a probabilidade de provimento do recurso (fumaça do bom direito).
+Registra-se, bem a propósito, a par dos argumentos de ilegitimidade passiva do recorrente, da análise sumária dos documentos que instruíram o Incidente na origem, ajuizado pela agravada no ano de 2017, especialmente da Quinta Alteração Contratual da empresa FONEMAT LTDA (ID 57472969 – fl. 573-574), bem assim da cópia da Declaração de Enquadramento – Microempresa Sociedade Empresária da executada Só Celular Ltda (ID 57472969 – fl. 575), observa-se que o ora recorrente, emancipado, figura como sócio das referidas empresas, o que, neste primeiro momento compromete o argumento de ilegitimidade passiva.
+Ademais, ainda que se questione a falta de apreciação motivada acerca da sua defesa oposta no incidente, na origem, não se verifica perigo de dano grave que decorra do aguardo da solução do mérito deste recurso pela análise do Colegiado, mesmo porque o Cumprimento de Sentença, agora com a inclusão de pessoas físicas no polo passivo, está em sua fase inicial e o fato da decisão singular ter possibilitado a penhora em caso de não pagamento, por si só, não é suficiente para impor a concessão de efeito suspensivo ao recurso, mesmo porque apenas efetividade à regra própria à espécie (art. 523 e sgts, do novo CPC).
+Posto isso, indefere-se o efeito suspensivo postulado.
+Intime-se a agravada para apresentar contraminuta.
+Cuiabá, 25 de setembro de 2020.
+Des. Guiomar Teodoro Borges
+Relator
