@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 1ª Turma Recursal do Rio Grande do Sul, que deu provimento ao recurso inominado da parte autora, para conceder a aposentadoria por idade híbrida a contar da DER, em 02.01.2017 (eDOC 19, p. 3).
+    Os embargos de declaração foram rejeitados (eDOC 23).
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa aos artigos 2º, 195, § 5°, e 201 da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 27, p. 6):
+    “(...) o acórdão recorrido, ao decidir por estender o referido benefício também aos trabalhadores urbanos, com fundamento na isonomia e na equivalência entre urbanos e rurais, e a despeito de contribuições vertidas ao sistema, acabou por violar o princípio da prévia fonte de custeio (art. 195, § 5º, da CF/88)
+    (...)
+    Nesse sentido, não se pode esquecer, que a extensão de benefícios fora das hipóteses legais, como no caso dos autos, por consequência sem prévia fonte de custeio, põe severamente em risco o equilíbrio financeiro e atuarial do sistema previdenciário, acarretando violação ao artigo 201 da Constituição.”
+    A Presidência das Turmas Recursais do Rio Grande do Sul admitiu o extraordinário (eDOC 31).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o voto condutor do acórdão recorrido assim asseverou (eDOC 19, p. 2/3):
+    “Na sessão de julgamento realizada em 14/08/2019, cujo acórdão foi publicado em 04/09/2019, a Corte Superior apreciou a questão, firmando a seguinte tese: "O tempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8.213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3o. da Lei 8.213/1991, seja qual for a predominância do labor misto exercido no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo"
+    (...)
+    No caso dos autos, a parte autora completou 60 anos de idade em 2016 e requereu o benefício de aposentadoria por idade híbrida em 02/01/2017.
+    Nos termos do Resumo de Documentos para Cálculo do Tempo de Contribuição, a parte autora possui 38 contribuições previdenciárias (evento 6 - PROCADM3, f. 11). Ademais, na sentença foi reconhecido o tempo de serviço de 01/08/2013 a 30/11/2013, inclusive para efeito de carência (evento 28 - SENT1), e a autarquia reconheceu o tempo de serviço rural de 01/01/1985 a 31/12/1996 e de 01/01/2002 a 31/12/2006 na via administrativa (Evento 1 - CTEMPSERV4), porém deixou, indevidamente, de computá-lo para fins de concessão do benefício.
+    (...)
+    Nesse contexto, somando-se o tempo de serviço rural em regime de economia familiar reconhecido administrativamente, a parte autora perfaz mais de 180 meses computáveis para efeito de carência, o que é suficiente para a concessão do benefício de Aposentadoria por Idade Híbrida.
+    Assim, voto por, em juízo de retratação, dar provimento ao recurso da parte autora para o fim de condenar o INSS a conceder o benefício de aposentadoria por idade híbrida a contar da DER, em 02/01/2017.”
+    Na espécie, depreende-se dos fundamentos do acórdão recorrido que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Federal 8.213/1991) e por meio do exame de fatos e provas.
+    Desse modo, o entendimento a respeito dos critérios de concessão do benefício de aposentadoria do trabalhador rural revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Além disso, há a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA DE TRABALHADOR RURAL. CUMPRIMENTO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.079.183-AgR, Ministra Presidente, Tribunal Pleno, DJe 12.4.2018).
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria de trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE 674.431-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.6.2013).
+    Ademais, constata-se que, quando do julgamento do ARE 821.296- RG, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 17.10.2014 (Tema 766 da sistemática da repercussão geral), esta Corte fixou a ausência de repercussão geral da verificação dos requisitos legais necessários para concessão de benefício previdenciário, visto demandar esta controvérsia a análise de normas infraconstitucionais, bem como de fatos e provas. O acórdão restou assim ementado:
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral.”
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil.
+    Deixo de aplicar o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 28 de setembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
