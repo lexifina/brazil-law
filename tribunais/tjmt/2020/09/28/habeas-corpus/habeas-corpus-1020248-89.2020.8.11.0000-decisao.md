@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+GABINETE DA DESA. ANTÔNIA SIQUEIRA GONÇALVES
+HABEAS CORPUS N. 1020248-89.2020.8.11.0000
+IMPETRANTE: FRANCIVELTON PEREIRA CAMPOS
+IMPETRADO: EXMO. SR. DR. JUIZ DE DIREITO DA 3a VARA CRIMINAL DE VARZEA GRANDE/MT – DR. MOACIR ROGÉRIO TORTATO
+PACIENTE: JEFFERSON RODRIGO NASCIMENTO CASTILHO
+Vistos em plantão.
+Diante do encerramento do plantão, determino a urgente distribuição na forma regimental.
+Cumpra-se.
+Cuiabá, 28 de setembro de 2020.
+Antônia Siqueira Gonçalves
+Desembargadora Plantonista
