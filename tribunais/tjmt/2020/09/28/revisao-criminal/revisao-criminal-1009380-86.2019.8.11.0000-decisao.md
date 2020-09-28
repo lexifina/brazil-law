@@ -1,0 +1,37 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA REVISÃO CRIMINAL N. 1009380-86.2019.8.11.0000
+RECORRENTE: SÉRGIO MACHNIC
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 57067989), interposto por SÉRGIO MACHNIC, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Turma de Câmaras Criminais Reunidas deste Sodalício, assim ementado (Id. 17155487):
+“REVISÃO CRIMINAL – RECEPTAÇÃO – CONDENAÇÃO DEFINITIVA – PRETENDIDA RESCISÃO – AUSÊNCIA DE FORMULAÇÃO DE PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO – ALEGADA NULIDADE – INOCORRÊNCIA – PRECLUSÃO TEMPORAL – ART. 571, II, DO CPP – NULIDADE DE ALGIBEIRA – AÇÃO REVISIONAL IMPROCEDENTE. A prerrogativa de eventual formulação e de aceitação da suspensão condicional do processo penal, à luz do art. 89 da Lei Federal n. 9.099/95, fica a cargo do réu, que, não a exercendo até a fase de alegações finais, preclui de seu direito de requerê-la, os termos do art. 571, II, do CPP, não podendo simplesmente aguardar o desfecho da ação penal para, somente depois de ver-se condenado, sacar da algibeira a propalada nulidade com o fito de anular a ação penal. Ação revisional improcedente.” (RevCrim. 1009380-86.2019.8.11.0000, DES. JUVENAL PEREIRA DA SILVA, TURMA DE CÂMARAS CRIMINAIS REUNIDAS, Julgado em 20/08/2020)
+Alega violação: (i) ao art. 89 da Lei n. 9.099/95, ao argumento de que não respondia a outros processos criminais, ocorrendo , não sendo, ainda, o caso de invocar a ocorrência da nulidade de algibeira, seja por inexistir nenhum benefício à Defesa, seja por se tratar de nulidade absoluta alegável a qualquer tempo; (ii) ao art. 180 do CP, sob a assertiva de ausência de comprovação de que tinha conhecimento acerca de origem ilícita do veículo adquirido, a ensejar a desclassificação do crime de receptação para sua modalidade culposa e (iii) ao art. 65, III, “b”, do CP, diante da desconsideração, quando da dosimetria penal, de sua postura colaborativa com o esclarecimento dos fatos.
+Recurso tempestivo (Id. 57083020).
+Contrarrazões – Id. 58274491.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, a suposta violação ao art. 89 da Lei n. 9.099/95, fundada na tese de erro acerca de sua primariedade, a ensejar o preenchimento de todos os requisitos legais para o benefício da suspensão condicional do processo, exige o exame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado.
+A propósito:
+“PENAL E PROCESSUAL. SUSPENSÃO CONDICIONAL DO PROCESSO. REQUISITOS. AUSÊNCIA. SÚMULA 7 DO STJ. Consoante entendimento desta Corte, a suspensão condicional do processo não é direito subjetivo do acusado, mas sim um poder-dever do Ministério Público, titular da ação penal, a quem cabe, com exclusividade, analisar a possibilidade de aplicação do referido instituto, desde que o faça de forma fundamentada. Hipótese em que a negativa da suspensão condicional do processo está amparada na ausência dos requisitos previstos no art. 77, II, do Código Penal, referidos pelo art. 89 da Lei n. 9.099/1995, sendo certo que, para a eventual desconstituição da conclusão das instâncias ordinárias, seria necessária a incursão no conjunto probatório dos autos, o que é vedado pela Súmula 7 do STJ. Agravo regimental desprovido.” (AgRg no AREsp 607.902/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 10/12/2015, DJe 17/02/2016) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise das referidas questões pelo STJ, o que obsta a admissão recursal no ponto.
+Ausência de prequestionamento. Súmulas 282 e 356 do STF.
+Com o objetivo de evitar a supressão de instância, nos termos do art. 105, III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que o tema tenha sido decidido em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282 do STF.
+Consigne-se, ainda, caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada, é imprescindível que nas razões dos Embargos de Declaração haja a indicação precisa do ponto supostamente omisso, em aplicação analógica da Súmula 356/STF.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. NEGATIVA DE VIGÊNCIA AO ART. 381, III, DO CÓDIGO DE PROCESSO PENAL, C/C ART. 489, §1o, II, III E IV, DO CÓDIGO DE PROCESSO CIVIL, E AO ART. 42 DA LEI N. 11.343/2006. NULIDADE DO ACÓRDÃO RECORRIDO. NÃO ENFRENTAMENTO DE TODAS AS TESES DA DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. 1. A pretensão defensiva, em sede de apelação, resumiu-se ao pleito absolutório. O Tribunal a quo, ao confirmar a condenação, no que concerne à dosimetria, limitou-se a afirmar que a pena foi criteriosamente dosada, não merecendo qualquer reparo. 2. "Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal." (AgRg no AREsp 1383387/MS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 11/12/2018, DJe 19/12/2018) 3. Por outro lado, entendendo a defesa que o Tribunal deixou de se manifestar sobre tese relevante arguida nas razões da apelação, deveriam ter sido opostos embargos de declaração, alegando a suposta ofensa ao art. 381, III, do Código de Processo Penal, viabilizando, assim, o prequestionamento da matéria. 4. Incidência das Súmulas n. 282 e 356 do STF. 5. Agravo regimental a que se nega provimento.” (AgRg no AREsp 1467346/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/06/2019, DJe 14/06/2019) (destaquei)
+Na espécie, defende o Recorrente a ofensa aos arts. 65, III, “b” e 180, ambos do CP, ao argumento, respectivamente, de necessidade de consideração de sua colaboração para fins de dosimetria penal e de desclassificação do crime de receptação para sua modalidade culposa.
+Todavia, verifica-se que as questões suscitadas não foram abordadas no acórdão impugnado situação que obsta o seu reexame pelo Superior Tribunal de Justiça e impede a admissão do recurso.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de setembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
