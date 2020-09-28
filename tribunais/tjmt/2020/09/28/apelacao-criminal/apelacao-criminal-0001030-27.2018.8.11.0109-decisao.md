@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+APELAÇÃO CRIMINAL (417) 0001030-27.2018.8.11.0109
+APELANTE: ELIAS DOS SANTOS BAIA
+APELADO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos etc.
+À Douta Procuradoria-Geral de Justiça, para parecer.
+Após, voltem-me conclusos.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Desembargador PAULO DA CUNHA,
+Relator.
