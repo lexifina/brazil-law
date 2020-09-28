@@ -1,0 +1,98 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial n. 0024062-47.2013.8.11.0041
+Recorrente : MUNICIPIO DE CUIABÁ
+Recorrido : GLOBAL VILLAGE TELECOM S/A
+Vistos, etc.
+Trata-se de Recurso Extraordinário interposto pelo MUNICIPIO DE CUIABÁ, com fundamento no artigo 102, III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo, conforme a ementa id 29316994:
+“REMESSA NECESSÁRIA COM RECURSO DE APELAÇÃO CÍVEL – AÇÃO MONITÓRIA CONTRA FAZENDA PÚBLICA – POSSIBILIDADE – NULIDADE DA SENTENÇA - VIOLAÇÃO AO CONTRADITÓRIO – REJEIÇÃO – ALEGAÇÃO DE AUSÊNCIA DE COMPROVAÇÃO DA PRESTAÇÃO DOS SERVIÇOS – INOCORRÊNCIA - CONTRATOS DE PRESTAÇÃO DE SERVIÇOS TELEFÔNICOS E AS RESPECTIVAS FATURAS - DOCUMENTOS IDONÊOS QUE COMPROVAM A EXISTÊNCIA DA DÍVIDA – HONORÁRIOS ADVOCATÍCIOS SOBRE O VALOR DA CONDENAÇÃO – JUROS DE MORA E CORREÇÃO MONETÁRIA – OBSERVAÇÃO DO QUE FOI DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO TEMA 810/STF – RECURSO PARCIALMENTE PROVIDO - SENTENÇA PARCIALMENTE RETIFICADA.
+1- Não há cerceamento de defesa se não restou demonstrado o efetivo prejuízo que a falta de manifestação sobre os documentos juntados na impugnação aos embargos do devedor pode causar à defesa da parte.
+2- Nos termos do entendimento do STJ, a prova hábil a instruir a ação monitória, isto é, apta a ensejar a determinação da expedição do mandado monitório – a que alude os artigos 1.102-A do CPC/1.973 e 700 do CPC/2.015 –, precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessária prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor.
+3- Estando a dívida demonstrada pelo contrato de prestação de serviços, constitui o referido pacto, prova escrita apta à propositura da ação monitória.
+4- No presente caso, os contratos de prestação de serviços, bem como os respectivos aditivos, além das respectivas faturas, demonstram idoneidade e atestam a probabilidade do direito da Autora, quanto o recebimento da dívida em questão.
+5- Nos termos do artigo 85, § 2o, do CPC, a verba honorária somente pode ser fixada com fulcro no valor da causa quando o valor da condenação ou do proveito econômico não for mensurável.
+6- Quanto a atualização do débito, referente aos juros e a correção monetária, os índices deverão ser fixados quando da liquidação da sentença, observado o que vier a ser decidido pelo Supremo Tribunal Federal no julgamento do tema no 810.” (N.U 0024062-47.2013.8.11.0041, DES. HELENA MARIA BEZERRA RAMOS, Primeira Câmara de Direito Público e Coletivo, Julgado em 17/02/2020, Publicado no DJE 21/02/2020).
+Os Embargos de Declaração foram rejeitados (id 45119471).
+A Recorrente alega ofensa ao artigo 5o, LV, da Constituição Federal, ao argumento de que se trata de “de ação monitória ajuizada em face desta municipalidade, tendo o recorrido acostado diversas faturas, que vão desde maio/2008 a junho de 2011, totalizando o montante de R$ 2.531.823,35 (dois milhões e quinhentos e trinta e um mil e oitocentos e vinte e três reais e trinta e cinco centavos), valores já atualizados, visando que esta municipalidade efetuasse o pagamento do suposto débito ou fosse convertido em mandado executivo, além do pagamento de honorários advocatícios”.
+Suscita que o aresto vergastado deixou de reconhecer que “(...) com a apresentação da documentação em sede de impugnação, não foi garantido ao Município o direito ao contraditório”.
+Ao final, pugna pelo provimento do recurso para que seja reconhecida “a violação ao direito ao contraditório e de ampla defesa, devendo ser garantida réplica ao Município a respeito da ata de reunião anexada em sede de impugnação, culminando na anulação da sentença de primeiro grau”.
+Recurso tempestivo (id 55322986).
+Contrarrazões (id 58164955).
+É o relatório.
+Decido.
+Da sistemática de repercussão geral (Tema 660)
+A aventada violação ao art. 5o, LV, da Constituição Federal, está amparada na assertiva de que teria havido afronta “(...) em razão de não ter ficado comprovado a efetiva prestação de serviços pela empresa após o término da vigência do contrato, havendo apenas a mera anexação de documentos produzidos unilateralmente, sem nenhum atesto da Administração Pública ainda que fosse exigido contratualmente a assinatura do setor competente, motivo pelo qual resta evidente que a ata de reunião fora utilizada como fundamento para condenação do Município de Cuiabá”.
+Entretanto, no julgamento do recurso Leading Case ARE 748371 RG/MT (Tema 660) o Supremo Tribunal Federal reconheceu a inexistência de repercussão geral desta matéria, conforme se observa da ementa abaixo transcrita:
+“Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”. (STF ARE 748371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013).
+Ante o exposto, com fundamento no art. 1.030, I, “a”, do CPC, em face do reconhecimento da inexistência de repercussão geral da matéria pelo Supremo Tribunal Federal, manifestado no paradigma ARE 748371 RG/MT (Tema 660), é o caso de negativa de seguimento ao Recurso Extraordinário pela sistemática de precedentes.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de setembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial n. 0024062-47.2013.8.11.0041
+Recorrente : MUNICIPIO DE CUIABÁ
+Recorrido : GLOBAL VILLAGE TELECOM S/A
+Vistos, etc.
+Trata-se de Recurso Especial interposto pelo MUNICIPIO DE CUIABÁ, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo, conforme a ementa id 29316994:
+“REMESSA NECESSÁRIA COM RECURSO DE APELAÇÃO CÍVEL – AÇÃO MONITÓRIA CONTRA FAZENDA PÚBLICA – POSSIBILIDADE – NULIDADE DA SENTENÇA - VIOLAÇÃO AO CONTRADITÓRIO – REJEIÇÃO – ALEGAÇÃO DE AUSÊNCIA DE COMPROVAÇÃO DA PRESTAÇÃO DOS SERVIÇOS – INOCORRÊNCIA - CONTRATOS DE PRESTAÇÃO DE SERVIÇOS TELEFÔNICOS E AS RESPECTIVAS FATURAS - DOCUMENTOS IDONÊOS QUE COMPROVAM A EXISTÊNCIA DA DÍVIDA – HONORÁRIOS ADVOCATÍCIOS SOBRE O VALOR DA CONDENAÇÃO – JUROS DE MORA E CORREÇÃO MONETÁRIA – OBSERVAÇÃO DO QUE FOI DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO TEMA 810/STF – RECURSO PARCIALMENTE PROVIDO - SENTENÇA PARCIALMENTE RETIFICADA.
+1- Não há cerceamento de defesa se não restou demonstrado o efetivo prejuízo que a falta de manifestação sobre os documentos juntados na impugnação aos embargos do devedor pode causar à defesa da parte.
+2- Nos termos do entendimento do STJ, a prova hábil a instruir a ação monitória, isto é, apta a ensejar a determinação da expedição do mandado monitório – a que alude os artigos 1.102-A do CPC/1.973 e 700 do CPC/2.015 –, precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessária prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor.
+3- Estando a dívida demonstrada pelo contrato de prestação de serviços, constitui o referido pacto, prova escrita apta à propositura da ação monitória.
+4- No presente caso, os contratos de prestação de serviços, bem como os respectivos aditivos, além das respectivas faturas, demonstram idoneidade e atestam a probabilidade do direito da Autora, quanto o recebimento da dívida em questão.
+5- Nos termos do artigo 85, § 2o, do CPC, a verba honorária somente pode ser fixada com fulcro no valor da causa quando o valor da condenação ou do proveito econômico não for mensurável.
+6- Quanto a atualização do débito, referente aos juros e a correção monetária, os índices deverão ser fixados quando da liquidação da sentença, observado o que vier a ser decidido pelo Supremo Tribunal Federal no julgamento do tema no 810.” (N.U 0024062-47.2013.8.11.0041, DES. HELENA MARIA BEZERRA RAMOS, Primeira Câmara de Direito Público e Coletivo, Julgado em 17/02/2020, Publicado no DJE 21/02/2020).
+Os Embargos de Declaração foram rejeitados (id 45119471).
+A parte Recorrente sustenta a violação do art. 437, §1o, do CPC, ao argumento de que se trata de “de ação monitória ajuizada em face desta municipalidade, tendo o recorrido acostado diversas faturas, que vão desde maio/2008 a junho de 2011, totalizando o montante de R$ 2.531.823,35 (dois milhões e quinhentos e trinta e um mil e oitocentos e vinte e três reais e trinta e cinco centavos), valores já atualizados, visando que esta municipalidade efetuasse o pagamento do suposto débito ou fosse convertido em mandado executivo, além do pagamento de honorários advocatícios”.
+Aduz, ainda, que “a recorrida apresentou impugnação a contestação desta municipalidade, tendo acostado aos autos uma ata de reunião datada de maio de 2013, com apenas assinatura de seus prepostos e aparentemente de um suposto servidor desta municipalidade, como se fosse confissão de dívida” e “sem que fosse possibilitado o contraditório, o processo não mais retornou a esta municipalidade, tendo o douto magistrado proferido sentença” que “julgou procedente a ação, condenando o Município de Cuiabá no montante de R$ 2.510.815,87”.
+Relata que interposto o apelo a colenda câmara retificou parcialmente a sentença somente quanto aos honorários advocatícios, rejeitando a preliminar fundado na inexistência de demonstração do efetivo prejuízo e, ainda, entendeu que a dívida estava demonstrada pelo contrato de prestação de serviços, aditivos e faturas, mesmo o contrato tendo findado em 2008 e as faturas emitidas posteriormente.
+Assim, o aresto vergastado infringiu o art. 437, §1o, do CPC, fundado na premissa de que a decisão foi fundamentada em documento juntado aos autos sem o crivo do contraditório e configurou, portanto, decisão surpresa.
+Recurso tempestivo (id 55322986).
+Contrarrazões (id 58164953).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com a jurisprudência pacífica. Súmula 83, do STJ.
+In casu, a controvérsia reside no provimento parcial do apelo interposto pela municipalidade contra a sentença de primeiro grau que “rejeitou os embargos monitórios ajuizados pela Fazenda Municipal e julgou procedente os pedidos iniciais para condenar o Apelante ao pagamento de R$ 2.510.815,87 (dois milhões quinhentos e dez mil oitocentos e quinze reais oitenta e sete centavos), a ser acrescido de juros da caderneta de poupança e correção monetária pelo IPCA-E a partir da citação”.
+Pois bem, a Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+O aresto vergastado manteve incólume a decisão de primeiro grau que manteve a obrigação do município ao pagamento dos serviços prestados pela Recorrida, rejeitando, ainda, a preliminar de cerceamento de defesa por ausência da comprovação de prejuízo efetivo, vejamos (id 34511467):
+“Inicialmente, quanto a ausência de comprovação da efetiva prestação do serviço, não assiste razão ao Recorrente, uma vez que, estando a dívida demonstrada pelo contrato de prestação de serviços, constitui o referido pacto, prova escrita apta à propositura da ação monitória.
+A propósito:
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSO CIVIL. AÇÃO MONITÓRIA CONTRA A FAZENDA PÚBLICA. DIVIDA CONSUBSTANCIADA CONTRATO. ALEGAÇÃO DO MUNICÍPIO DE QUE O SERVIÇOS NÃO FORAM PRESTADOS INTEGRALMENTE. AUSÊNCIA DE DEMONSTRAÇÃO. MANUTENÇÃO DA SENTENÇA. IMPROVIMENTO DO REEXAME NECESSÁRIO. PREJUDICADO O APELO VOLUNTÁRIO.DECISÃO UNÂNIME. 1. É legítima a cobrança de dívida em face da Fazenda Pública, por meio de ação monitória. 2. A dívida está demonstrada pelo contrato de prestação de serviços, de forma que constitui o referido pacto, prova escrita apta à propositura da ação monitória, e tendo os embargos monitórios natureza jurídica de defesa, subsiste a distribuição do ônus probatório prevista no caderno processual, razão pela qual cabe ao embargante/apelante a prova de fato impeditivo, modificativo ou extintivo do direito do embargado. 3. Improvimento do reexame necessário e prejudicado o apelo voluntário. 4. Decisão unânime. (TJ-PE - APL: 5207556 PE, Relator: Honório Gomes do Rêgo Filho, Data de Julgamento: 12/12/2019, 1a Câmara Regional de Caruaru - 2a Turma, Data de Publicação: 17/12/2019). [Destaquei]
+Outrossim, as faturas acostadas também comprovam a efetivação dos serviços prestados, de modo que, ainda que os contratos possuam prazo final em setembro de 2008, as mencionadas faturas demonstram que os serviços continuaram a ser prestados até 2011, período este que o Recorrente não foi capaz de desconstituir.
+Nesse sentido:
+CIVIL. REVISÃO DE FATURA. UTILIZAÇÃO DE SERVIÇOS DE FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. COMPROVAÇÃO DA PRESTAÇÃO DO SERVIÇO. PAGAMENTO DEVIDO. 1. Demonstrada a efetiva prestação dos serviços pela concessionária sem a respectiva contraprestação, e deixando o consumidor de demonstrar quaisquer elementos hábeis a impugnar a dívida, ou seu valor, impõe-se o pagamento do débito, porquanto não se desincumbiu o autor do ônus do artigo 333, I, do CPC. 2. Recurso não provido. (TJ-DF - APC: 20100110086870, Relator: CRUZ MACEDO, Data de Julgamento: 29/04/2015, 4a Turma Cível, Data de Publicação: Publicado no DJE : 14/05/2015 . Pág.: 143). [Destaquei]
+Imperioso aduzir que a ata de reunião, embora realizada posteriormente aos fatos, corrobora com o contrato de prestação de serviço, bem como com as faturas acostadas, além de que, nos termos do entendimento jurisprudencial, não existe preclusão na juntada de documentos com impugnação aos embargos. Veja-se:
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - Mensalidades inadimplidas por aluno - Ação monitória - Sentença de procedência - Apelação do embargante - Preliminar de carência de ação afastada - Juntada de documentos com a impugnação aos embargos monitórios - Preclusão temporal inexistente - Artigo 397 do Código de Processo Civil - Frequência às aulas não negada pelo embargante - Histórico escolar que comprova a frequência - Impugnações genéricas ao contrato e aos valores cobrados - Rejeição - Atualização monetária aplicável a partir de cada vencimento - Recurso desprovido. (TJ-SP - APL: 40000553420138260451 SP 4000055-34.2013.8.26.0451, Relator: Carlos Henrique Miguel Trevisan, Data de Julgamento: 29/10/2014, 29a Câmara de Direito Privado, Data de Publicação: 29/10/2014). [Destaquei]
+(...)
+Ante o exposto, REJEITO a preliminar de nulidade da sentença. No mérito, DOU PARCIAL PROVIMENTO ao recurso de apelação interposto pelo Município de Cuiabá, apenas para determinar que a verba honorária incida sobre o valor da condenação.
+Em sede de remessa necessária, RETIFICO, EM PARTE, o ato sentencial para determinar que a atualização do débito, referente aos juros e a correção monetária, os índices deverão ser fixados quando da liquidação da sentença, observado o que vier a ser decidido pelo Supremo Tribunal Federal no julgamento do tema no 810.”
+Dito isso, observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. NULIDADE PROCESSUAL. AUSÊNCIA DE PREJUÍZO. APRESENTAÇÃO DE MEMORIAIS. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Nos termos da jurisprudência desta Corte Superior, "o reconhecimento da nulidade processual exige a efetiva demonstração de efetivo prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief)" (AgInt no AREsp 1310558/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019).
+3. Segundo precedentes do STJ, "a apresentação de memoriais não é ato substancial e intrínseco à defesa, motivo pelo qual o indeferimento da retirada do processo de pauta para julgamento, para ensejar a sua apresentação, não acarreta cerceamento de defesa" (RMS 15.674/MG, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 25/03/2003, DJ 22/04/2003, p. 196).
+4. Agravo interno a que se nega provimento.” (AgInt no REsp 1835494/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020). (g.n)
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 4o, incisos I, III e VI, 6o, incisos V e VIII, 32, 39, 46, 51 e 54, §3o, do CDC, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ, pelo que, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de setembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XII
