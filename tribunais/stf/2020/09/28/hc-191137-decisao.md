@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado por Ian Andeson Staffa Maluf de Souza, em favor de Leandro Rodrigues dos Santos, contra decisão monocrática proferida por Ministro do STJ, nos autos do HC 604.678/PR.
+    Colho da decisão impugnada:
+    “LEANDRO RODRIGUES DOS SANTOS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 1295116-5.
+    Neste writ, a defesa busca a reforma da pena-base do paciente, ao argumento de que não foi observada a proporcionalidade na sua exasperação. Assevera que as instâncias ordinárias deveriam ter utilizado o índice de aumento de 1/8 para cada circunstância valorada negativamente.
+    O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, subsidiariamente, pela denegação da ordem (fls. 40-45). (www.stj.jus.br)
+    No STJ, o habeas corpus não foi conhecido.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Trata-se de substitutivo de revisão criminal.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observe-se o teor do ato impugnado:
+    “Verifico, inicialmente que o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado do Paraná transitado em julgado em 15/9/2015 (fl. 21). Cerca de cinco anos após o trânsito em julgado da condenação, a defesa impetrou este mandamus, que é, portanto, substitutivo de revisão criminal.
+    Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+    O óbice acima referido só pode ser superado quando ao menos uma das hipóteses previstas no art. 621 do CPP estiver demonstrada de plano, o que não é o caso.
+    Não verifico flagrante ilegalidade na fixação da pena-base em 20 anos de reclusão – 8 anos acima do mínimo legal – pela valoração negativa dos motivos, das circunstâncias e das consequências do delito.
+    Com efeito, a jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+    Portanto, a individualização da reprimenda está sujeita à revisão no habeas corpus nas hipóteses de flagrante ilegalidade ou de teratologia, quando não observados os parâmetros legais estabelecidos no CP ou o princípio da proporcionalidade”. (www.stj.jus.br)
+    Como se vê, a pena-base foi elevada em 8 anos, em razão da desvaloração dos motivos, circunstâncias e consequências do delito, nos seguintes termos:
+    “d) os motivos foram considerados fúteis pelo conselho de sentença, em decorrência da discussão relacionada a um DVD. Diante disso, aumento sua reprimenda em um ano de reclusão;
+    e) no tocante às circunstâncias, que se referem ao modo de execução do crime, pesam em seu desfavor tanto a prática do crime por meio que impossibilitou ou dificultou a defesa da vítima quanto o meio cruel. Ambas foram consideradas presentes pelo Conselho de Sentença. Considerando, porém, que já utilizado o meio que impossibilitou a defesa para a qualificação da conduta, alterando a pena em abstrato, cumpre considerar somente o meio cruel, sob pena de bis in idem. Considerando, portanto, a execução através de meio cruel, e todo o sofrimento da vítima, tal qual decidida pelo Conselho de Sentença, aumento-lhe a reprimenda em um ano de reclusão.
+    f) com relação às consequências, foram gravíssimas, para muito além da morte da vítima, pois foram deixadas órfãs de mãe duas crianças, ambas em tenra idade, e tendo a mais velha presenciado a execução do delito. E agora os dois crescerão sem a mãe, o que por óbvio lhes trará muito sofrimento por toda a vida, tendo parte de cada um deles morrido junto neste dia, razão pela qual exaspero a pena do réu em seis anos de reclusão;” (eDOC 4)
+    O impetrante quer que seja aplicado o critério meramente matemático para a exacerbação da pena-base.
+    A Segunda Turma desta Corte, em recente acórdão, entendeu que nem sempre será possível a aplicação do critério puramente matemático, sobretudo quando uma das circunstâncias for acentuadamente desvalorada, como é o caso dos autos, verbis:
+    “Agravo regimental no habeas corpus. 2. Ausente o debate na decisão agravada, deve a parte opor os competentes embargos de declaração. Agravo regimental não se presta a discutir matéria de maneira inaugural. 3. É possível, excepcionalmente, o desprezo ao critério puramente matemático na fixação da pena-base, quando apenas uma circunstância judicial for demasiadamente desvalorada. 4.Agravo parcialmente conhecido e, nessa parte, improvido”. (AgR no HC 180.662, de minha relatoria, Segunda Turma, DJe 16.4.2020)
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 28 de setembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
