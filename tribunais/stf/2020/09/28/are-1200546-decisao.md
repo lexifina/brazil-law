@@ -1,0 +1,18 @@
+Despacho: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Turma Recursal da Seção Judiciária do Estado do Rio Grande do Norte. Destaco o seguinte trecho da ementa (eDOC 20):
+    “EMENTA: PREVIDENCIÁRIO. BENEFÍCIO DIVERSO DA APOSENTADORIA POR INVALIDEZ. ADICIONAL DE 25%. POSSIBILIDADE. RECURSO PROVIDO.”
+    Os embargos de declaração foram desprovidos. (eDOC 23)
+    No recurso extraordinário, interposto com base no art. 102, III, a e b, do permissivo constitucional, aponta-se ofensa aos artigos 2º; 5º, caput, XXXVI; 194, III; 195, § 5º; 201, caput e § 1º; e 203, V, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “o art. 45 da Lei nº 8.213/91 prevê o pagamento de um adicional de 25% apenas no caso de aposentadoria por invalidez e quando o beneficiário necessitar da assistência permanente de outra pessoa, não merecendo guarida a pretensão de sua aplicação para as demais espécies de benefícios previdenciários.” (eDOC 40, p. 17)
+    Aduz-se, ainda, que “A restrição prevista na cabeça do art. 45 da Lei n. 8.213/91 se faz alicerçada com devida razoabilidade. Com efeito, não há igualdade entre a situação do segurado que desempenhando atividade laborativa se depara com a contingência da incapacidade e a situação do aposentado que tempos após obter sua aposentadoria por idade, tempo de serviço ou contribuição, vem a ficar doente ou sofrer acidente. Diversas as bases fáticas, o legislador não está obrigado a tratá-los de forma idêntica.” (eDOC 40, p. 17/18)
+    O Juízo de origem inadmitiu o recurso assentando a inexistência de ofensa direta à Carta da República (eDOC 41).
+    Em 03.02.2020, determinei o sobrestamento do processo até o julgamento final do RE 1.215.714 (eDOC 47). Tendo em vista que a questão ora controvertida foi incluída no rito da sistemática da repercussão geral, levanto o sobrestamento do feito.
+    É o relatório. Decido.
+    Verifica-se que esta Corte, ao analisar o RE-RG 1.221.446, da relatoria do Min. Luiz Fux, DJe 1º.09.2020 (Tema 1095), manisfestou-se pela existência da repercussão geral da matéria referente à Constitucionalidade da extensão do adicional de 25% (vinte e cinco por cento), previsto no artigo 45 da Lei 8.213/1991, aos segurados do Regime Geral de Previdência Social que comprovarem a invalidez e a necessidade de assistência permanente de outra pessoa, independentemente da espécie de aposentadoria. Na oportunidade, a ementa foi assim redigida:
+    “RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. DENOMINADO AUXÍLIO-ACOMPANHANTE. ADICIONAL DE 25% (VINTE E CINCO POR CENTO) PREVISTO NO ARTIGO 45 DA LEI 8.213/1991 PARA OS SEGURADOS APOSENTADOS POR INVALIDEZ. NECESSIDADE DE ASSISTÊNCIA PERMANENTE DE TERCEIRO. CONTROVÉRSIA QUANTO À EXTENSÃO A OUTRAS ESPÉCIES DE APOSENTADORIA DO REGIME GERAL DA PREVIDÊNCIA SOCIAL. PRINCÍPIOS DA DIGNIDADE DA PESSOA HUMANA E DA ISONOMIA. GARANTIA DOS DIREITOS SOCIAIS. CONVENÇÃO INTERNACIONAL SOBRE OS DIREITOS DAS PESSOAS COM DEFICIÊNCIA. CONTRAPOSIÇÃO AOS LIMITES DE ATUAÇÃO DO PODER JUDICIÁRIO. SÚMULA VINCULANTE 37. PRINCÍPIO DA RESERVA LEGAL E NECESSIDADE DE PRÉVIA FONTE DE CUSTEIO. AGRAVO REGIMENTAL NA PETIÇÃO 8.002. CONCESSÃO DE EFEITO SUSPENSIVO A TODOS OS PROCESSOS, INDIVIDUAIS OU COLETIVOS, EM QUALQUER FASE E EM TODO O TERRITÓRIO NACIONAL QUE VERSEM SOBRE O TEMA. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL.”
+    MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de setembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
