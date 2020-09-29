@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NOS AUTOS DE AGRAVO DE INSTRUMENTO N. 1018081-36.2019.8.110000.
+RECORRENTE: BORDA & MOURA SOCIEDADE DE ADVOGADOS.
+RECORRIDO: ANTONINHO CASALI.
+Vistos, etc.
+À Secretaria Auxiliar da Vice-Presidência, para certificar acerca da petição de id. 57692472-TJ.
+Após, à conclusão.
+Cumpra-se.
+Cuiabá/MT, 29 de setembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VIII
