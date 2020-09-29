@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Tiago Leite Lombardi contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. DIREITO PÚBLICO NÃO ESPECIFICADO. TÉCNICO EM OPTOMETRIA. De acordo com os arts. 13 e 14 do Decreto nº 24.492/34, é vedado ao optometrista a indicação de uso de lentes de grau. A Portaria nº 397/02 do Ministério do Trabalho e Emprego não ampara o exercício de diagnóstico de ametropias e prescrição de óculos e lentes, pois tem fins meramente descritivos e não se sobrepõe ao decreto.” (grifei)
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a ADPF 131/DF, Rel. Min. GILMAR MENDES, fixou entendimento que torna inacolhível a pretensão deduzida pela parte ora recorrente, como se verifica da certidão de julgamento:
+    “O Tribunal, por maioria, julgou improcedente a arguição de descumprimento de preceito fundamental para: 1) declarar a recepção dos arts. 38, 39 e 41 do Decreto nº 20.931/32 e dos arts. 13 e 14 do Decreto nº 24.492/34; e 2) realizar apelo ao legislador federal para apreciar o tema, tendo em conta a formação superior reconhecida pelo Estado aos tecnólogos e bacharéis em optometria, nos termos do voto do Relator, vencidos os Ministros Marco Aurélio, Edson Fachin, Roberto Barroso e Celso de Mello. Falaram: pelo interessado Conselho Brasileiro de Oftalmologia – CBO, o Dr. Gabriel Ramalho Lacombe; e, pelo interessado Conselho Federal de Medicina – CFM, o Dr. José Alejandro Bullon Silva. Plenário, Sessão Virtual de 19.6.2020 a 26.6.2020.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 29 de setembro de 2020.
+Ministro CELSO DE MELLO
+Relator
