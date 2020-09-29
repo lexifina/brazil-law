@@ -1,0 +1,43 @@
+Pedido de reconsideração. Instrução deficiente. Superação. Crimes de receptação e condução de veículo automotor com capacidade psicomotora alterada. A superveniência de decisão definitiva corresponde a novo ato coator a desafiar ação própria. Habeas corpus prejudicado. Precedentes.
+    Vistos etc.
+    Referente à Petição STF 71.424/2020.
+    Em 02.9.2020, a Defesa formulou pedido de reconsideração da decisão em que neguei seguimento ao habeas corpus, forte na instrução deficiente do writ (HC 103.240-AgR/RS, Rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011). Para tanto, a Defesa, por intermédio da referida petição, instrui o feito com os documentos necessários à apreciação do writ, notadamente com a cópia da decisão exarada pelo Tribunal de Justiça do Distrito Federal e Territórios (evento 23).
+    Superado o referido óbice e no exercício de juízo de retratação, reconsidero a decisão em que neguei seguimento ao habeas corpus pela deficiência na instrução, prosseguindo em sua análise.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Fábio Alves Leandro e outro(a/s) em favor de Eduardo Rodrigues de Moraes, contra decisão monocrática da lavra do Ministro João Otávio De Noronha, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 593.670/DF (evento 17).
+    O paciente foi preso preventivamente pela suposta prática dos crimes de receptação e condução de veículo automotor com capacidade psicomotora alterada, previstos nos arts. 180, caput, do CP e 306, § 1º, I, da Lei nº 9.503/1997.
+    Extraio do ato dito coator:
+    “(...).
+    A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+    A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+    (...)
+    Confira-se também a Súmula n. 691 do STF:
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    No caso, não visualizo, em análise sumária, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto o relator salientou, ainda que em juízo prévio, o seguinte (fls. 30-31):
+    Com efeito, o exame da pertinência dos fundamentos da prisão preventiva já foi objeto de impetração anterior, materializada no HC 0718074-94.2020.8.07.0000, de minha Relatoria, distribuído em 22/06/2020, tendo sido o pedido liminar indeferido. Atualmente, o feito aguarda apenas a manifestação da Douta Procuradoria de Justiça, para, em seguida, ser levado em mesa para julgamento de mérito.
+    Assim sendo, com relação à pretensão de reexame dos fundamentos da prisão preventiva, o presente writ constitui mera reiteração de pedido, hipótese típica de litispendência, que obsta seu conhecimento.
+    No que tange à pleiteada aplicação da Recomendação CNJ n. 62/2020, o julgador igualmente apresentou motivação justificadora do indeferimento liminar, salientando (fl. 31):
+    Já no que refere ao pedido de reavaliação ou substituição da prisão preventiva em razão da pandemia da Covid-19, os impetrantes não demonstraram ter sido a questão submetida ao exame prévio e necessário do juízo impetrado, o que inviabiliza seu conhecimento pelo Tribunal, sob pena de indevida per saltum supressão de instância.
+    De todo modo, ainda que superada a barreira do conhecimento, não há qualquer comprovação nos autos de que o paciente integra grupo de risco ou ostente condição peculiar de saúde, ainda que transitória, que recomende as medida pleiteadas.
+      Saliente-se, no ponto, que o Centro de Detenção Provisória possui, em sua estrutura, um Núcleo de Saúde composto por consultórios médico e odontológico, além de enfermaria, sendo a equipe constituída por médicos, enfermeiros, técnicos de enfermagem, dentistas, psicólogos e assistentes sociais, de modo que o interno recebe atendimento no próprio Presídio, podendo vir a ser deslocado para hospitais públicos e postos de saúde, se necessário.
+    Destarte, conheço parcialmente do habeas corpus tão somente com relação ao pedido de reavaliação da e, nessa parte, o pedido liminar. (Destaques nossos)
+    Não há, assim, vício no julgado apto a justificar a superação do entendimento sumular.
+    Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.”
+    No presente writ, o Impetrante assevera inidônea a fundamentação do decreto prisional, porquanto lastreada na gravidade abstrata do delito, ausentes seus requisitos autorizadores, além de utilizar como argumento suposta situação de foragido do Paciente. Aponta a pandemia da Covid-19 e a Recomendação 62/2020 do Conselho Nacional de Justiça. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de cautelares alternativas ou, ainda, a conversão da prisão preventiva em prisão domiciliar.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Tribunal de Justiça do Distrito Federal e Territórios, verifico que, em 13.8.2020, sobreveio julgamento de mérito do HC 0719869-38.2020.8.07.0000, pela denegação da ordem:
+    “HABEAS CORPUS. RECEPTAÇÃO E EMBRIAGUEZ AO VOLANTE. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDOS. NÃO CONHECIMENTO. PANDEMIA. COVID-19. ORDEM DENEGADA.
+    1. Não se conhece de habeas corpus quando se trata de mera reiteração de pedidos anteriores, nos termos do art. 66, inciso IX, do RITJDFT.
+    2. A simples menção à pandemia do novo coronavírus (COVID-19), por si só, sem qualquer prova pré-constituída relacionada ao quadro atual de saúde do paciente, não autoriza a concessão de ordem de soltura.
+    3. Ordem parcialmente conhecida e denegada.”
+    A superveniência de decisão exarada pela Corte Estadual passou a constituir novo título, a desafiar nova impetração no Superior Tribunal de Justiça. Em tal hipótese, a jurisprudência desta Suprema Corte orienta no sentido do prejuízo da impetração (“a superveniência do julgamento do mérito do habeas corpus impetrado no tribunal de segundo grau prejudica a análise da impetração” - HC 123.431/RJ, Rel. p/ acórdão Min. Roberto Barroso, 1ª Turma, DJe 06.02.2015).
+    Anoto que “o pedido de soltura com fundamento na atual pandemia de Covid-19, que acomete diversos países e também o Brasil, não comporta conhecimento originário pelo Supremo Tribunal Federal, conforme decidido, pelo Plenário desta Corte, no recente julgamento da ADPF 347-TPI-MC-Ref (Rel. Min. Marco Aurélio), oportunidade em que foi negado referendo à decisão do ministro Relator, mantendo na esfera de competência dos juízes da execução a análise da situação de cada preso” (HC 184.886/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe. 16.6.2020).
+    Ademais, não alegado ou comprovado que o Paciente se enquadra em grupo de risco do novo coronavírus.
+    Em situações tais, a Recomendação 62 do CNJ não sinaliza para a imediata revogação ou substituição das prisões cautelares e das prisões-pena, apenas concita os magistrados a adotarem ações contra a disseminação da pandemia do novo coronavírus, sem prescindir, contudo, da análise individualizada, ou seja, em cima de casos concretos - sobre situações particularizadas de prisão provisória ou de execução penal (art. 4º).
+    Nesse espectro, “[a] crise sanitária decorrente do novo coronavírus é insuficiente a autorizar o recolhimento em domicílio (HC 183.140/SP, Rel. Min. Marco Aurélio, 1ª Turma, unânime, j. 15.6.2020); a referida Resolução não recomenda a automática conversão da prisão preventiva em domiciliar. Devem ser tidos em conta, entre outros fatores, a situação pessoal do preso, o crime de que é acusado, a situação do estabelecimento prisional etc”. (Ext 1.270, Rel. Min. Roberto Barroso, decisão monocrática, DJe 29.5.2020).
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise da matéria pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, julgo prejudicado o presente habeas corpus (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 29 de setembro de 2020.
+Ministra Rosa Weber
+Relatora
