@@ -1,3 +1,4 @@
 Art. 7º As barragens serão classificadas pelos agentes fiscalizadores, por categoria de risco, por dano potencial associado e pelo seu volume, com base em critérios gerais estabelecidos pelo Conselho Nacional de Recursos Hídricos (CNRH).
-§ 1º A classificação por categoria de risco em alto, médio ou baixo será feita em função das características técnicas, do estado de conservação do empreendimento e do atendimento ao Plano de Segurança da Barragem.
+§ 1º A classificação por categoria de risco em alto, médio ou baixo será feita em função das características técnicas, dos métodos construtivos, do estado de conservação e da idade do empreendimento e do atendimento ao Plano de Segurança da Barragem, bem como de outros critérios definidos pelo órgão fiscalizador.
 § 2º A classificação por categoria de dano potencial associado à barragem em alto, médio ou baixo será feita em função do potencial de perdas de vidas humanas e dos impactos econômicos, sociais e ambientais decorrentes da ruptura da barragem.
+§ 3º O órgão fiscalizador deverá exigir do empreendedor a adoção de medidas que levem à redução da categoria de risco da barragem.
