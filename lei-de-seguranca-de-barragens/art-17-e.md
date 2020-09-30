@@ -1,0 +1,1 @@
+Art. 17-E. O valor das multas de que trata este Capítulo deve ser fixado por regulamento e atualizado periodicamente, com base nos índices estabelecidos na legislação pertinente, observado o mínimo de R$ 2.000,00 (dois mil reais) e o máximo de R$ 1.000.000.000,00 (um bilhão de reais).

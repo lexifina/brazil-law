@@ -1,6 +1,6 @@
 Art. 4º São fundamentos da Política Nacional de Segurança de Barragens (PNSB):
-I - a segurança de uma barragem deve ser considerada nas suas fases de planejamento, projeto, construção, primeiro enchimento e primeiro vertimento, operação, desativação e de usos futuros;
-II - a população deve ser informada e estimulada a participar, direta ou indiretamente, das ações preventivas e emergenciais;
-III - o empreendedor é o responsável legal pela segurança da barragem, cabendo-lhe o desenvolvimento de ações para garanti-la;
-IV - a promoção de mecanismos de participação e controle social;
-V - a segurança de uma barragem influi diretamente na sua sustentabilidade e no alcance de seus potenciais efeitos sociais e ambientais.
+I - a segurança da barragem, consideradas as fases de planejamento, projeto, construção, primeiro enchimento e primeiro vertimento, operação, desativação, descaracterização e usos futuros;
+II - a informação e o estímulo à participação direta ou indireta da população nas ações preventivas e emergenciais, incluídos a elaboração e a implantação do Plano de Ação de Emergência (PAE) e o acesso ao seu conteúdo, ressalvadas as informações de caráter pessoal;
+III - a responsabilidade legal do empreendedor pela segurança da barragem, pelos danos decorrentes de seu rompimento, vazamento ou mau funcionamento e, independentemente da existência de culpa, pela reparação desses danos;
+IV - a transparência de informações, a participação e o controle social;
+V - a segurança da barragem como instrumento de alcance da sustentabilidade socioambiental.

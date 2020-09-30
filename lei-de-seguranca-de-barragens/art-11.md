@@ -1,1 +1,4 @@
-Art. 11. O órgão fiscalizador poderá determinar a elaboração de PAE em função da categoria de risco e do dano potencial associado à barragem, devendo exigi-lo sempre para a barragem classificada como de dano potencial associado alto.
+Art. 11. A elaboração do PAE é obrigatória para todas as barragens classificadas como de:
+I - médio e alto dano potencial associado; ou
+II - alto risco, a critério do órgão fiscalizador.
+Parágrafo único. Independentemente da classificação quanto ao dano potencial associado e ao risco, a elaboração do PAE é obrigatória para todas as barragens destinadas à acumulação ou à disposição de rejeitos de mineração.
