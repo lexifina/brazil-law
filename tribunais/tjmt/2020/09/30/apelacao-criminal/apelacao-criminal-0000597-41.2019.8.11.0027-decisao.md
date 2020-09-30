@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+APELAÇÃO CRIMINAL (417) 0000597-41.2019.8.11.0027
+APELANTE: EULANIA RODRIGUES DA SILVA
+APELADO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos etc.
+À Douta Procuradoria-Geral de Justiça, para parecer.
+Após, voltem-me conclusos.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Desembargador PAULO DA CUNHA,
+Relator.
