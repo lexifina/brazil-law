@@ -1,0 +1,5 @@
+Art. 17-A. Sem prejuízo das cominações na esfera penal e da obrigação de, independentemente da existência de culpa, reparar os danos causados, considera-se infração administrativa o descumprimento pelo empreendedor das obrigações estabelecidas nesta Lei, em seu regulamento ou em instruções dela decorrentes emitidas pelas autoridades competentes.
+§ 1º São autoridades competentes para lavrar auto de infração e instaurar processo administrativo os servidores dos órgãos fiscalizadores e das autoridades competentes do Sisnama.
+§ 2º Qualquer pessoa, ao constatar infração administrativa, pode dirigir representação à autoridade competente, para fins do exercício do seu poder de polícia.
+§ 3º A autoridade competente que tiver conhecimento de infração administrativa é obrigada a promover a sua apuração imediata, mediante processo administrativo próprio, sob pena de corresponsabilidade.
+§ 4º As infrações de que trata este artigo são apuradas em processo administrativo próprio, assegurado o direito a ampla defesa e ao contraditório.

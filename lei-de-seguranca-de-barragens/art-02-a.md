@@ -1,0 +1,4 @@
+Art. 2º-A. Fica proibida a construção ou o alteamento de barragem de mineração pelo método a montante.
+§ 1º Entende-se por alteamento a montante a metodologia construtiva de barragem em que os diques de contenção se apoiam sobre o próprio rejeito ou sedimento previamente lançado e depositado.
+§ 2º O empreendedor deve concluir a descaracterização da barragem construída ou alteada pelo método a montante até 25 de fevereiro de 2022, considerada a solução técnica exigida pela entidade que regula e fiscaliza a atividade minerária e pela autoridade licenciadora do Sistema Nacional do Meio Ambiente (Sisnama).
+§ 3º A entidade que regula e fiscaliza a atividade minerária pode prorrogar o prazo previsto no § 2º deste artigo em razão da inviabilidade técnica para a execução da descaracterização da barragem no período previsto, desde que a decisão, para cada estrutura, seja referendada pela autoridade licenciadora do Sisnama.

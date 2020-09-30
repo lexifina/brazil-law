@@ -1,0 +1,1 @@
+Art. 18-B. Os órgãos fiscalizadores devem criar sistema de credenciamento de pessoas físicas e jurídicas habilitadas a atestar a segurança da barragem, incluída a certificação, na forma do regulamento.
