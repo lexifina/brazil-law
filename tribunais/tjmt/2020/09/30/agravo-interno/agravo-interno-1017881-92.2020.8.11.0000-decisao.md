@@ -1,0 +1,7 @@
+Vistos.
+Trata-se de Agravo Interno em face de decisão monocrática que revogou o deferimento liminar em sede recursal, ou seja, que manteve a decisão do Juízo “a quo”, que indeferiu o pedido liminar “inaudita alterar pars” formulado por JOAQUIM PEREIRA DA SILVA, ora Agravante, no sentido de determinar a suspensão do processo n. 1000627-38.2019.8.11.0034 – Ação de Reintegração de Posse, tendo como autora: COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS VALE DO CERRADO – SICREDI VALE DO CERRADO, cujo objeto é o imóvel rural Fazenda São Joaquim, atualmente denominado Estância São Joaquim, matrícula n. 11.863 do RGI de Dom Aquino/MT.
+Insta salientar que, inicialmente, foi deferido o pleito liminar recursal, tendo como fundamento a condição do Agravante, Sr. Joaquim Pereira da Silva, como terceiro possuidor do imóvel (ressaltando a sua não participação nos demais processos que envolvem o imóvel) e também em razão das benfeitorias realizadas; sua condição de idoso, e a utilização do imóvel como moradia e para prover o seu sustento.
+Posteriormente, houve reconsideração da decisão monocrática, mantendo na íntegra a decisão exarada pelo juízo “a quo”.
+Todavia, levando em consideração a condição de pessoa idosa e em grupo de risco para o COVID-19, além da situação das queimadas, que impedem o agravante de realizar a desocupação imediata do imóvel, DEFIRO, em caráter excepcional, a suspensão dos efeitos da decisão do agravo interno, para melhor análise.
+Cumpra-se e comunique-se.
+Após, voltem-me conclusos.
