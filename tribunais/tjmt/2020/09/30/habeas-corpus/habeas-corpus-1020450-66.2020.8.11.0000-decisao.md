@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+GABINETE DA DESA. ANTÔNIA SIQUEIRA GONÇALVES
+HABEAS CORPUS N. 1020450-66.2020.8.11.0000
+IMPETRANTE: DOMINGOS SAVIO FERREIRA DA COSTA
+IMPETRADO: EXMO. SR. DR. JUIZ DE DIREITO DA 12a VARA CRIMINAL DA COMARCA DE CUIABÁ-MT, DR. FLÁVIO MIRAGLIA FERNANDES
+PACIENTE: HERMES DOMINGOS DE OLIVEIRA
+Vistos em plantão.
+Diante do encerramento do plantão, determino a urgente distribuição na forma regimental.
+Cumpra-se.
+Cuiabá, 28 de setembro de 2020.
+Antônia Siqueira Gonçalves
+Desembargadora Plantonista
