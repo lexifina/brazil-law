@@ -4,3 +4,4 @@ Art. 10. Deverá ser realizada Revisão Periódica de Segurança de Barragem com
 I - o exame de toda a documentação da barragem, em particular dos relatórios de inspeção;
 II - o exame dos procedimentos de manutenção e operação adotados pelo empreendedor;
 III - a análise comparativa do desempenho da barragem em relação às revisões efetuadas anteriormente.
+§ 3º O órgão fiscalizador deverá estabelecer prazo para que o empreendedor cumpra as ações previstas na Revisão Periódica de Segurança de Barragem.

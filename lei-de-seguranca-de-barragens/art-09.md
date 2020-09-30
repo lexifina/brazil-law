@@ -2,3 +2,4 @@ Art. 9º As inspeções de segurança regular e especial terão a sua periodicid
 § 1º A inspeção de segurança regular será efetuada pela própria equipe de segurança da barragem, devendo o relatório resultante estar disponível ao órgão fiscalizador e à sociedade civil.
 § 2º A inspeção de segurança especial será elaborada, conforme orientação do órgão fiscalizador, por equipe multidisciplinar de especialistas, em função da categoria de risco e do dano potencial associado à barragem, nas fases de construção, operação e desativação, devendo considerar as alterações das condições a montante e a jusante da barragem.
 § 3º Os relatórios resultantes das inspeções de segurança devem indicar as ações a serem adotadas pelo empreendedor para a manutenção da segurança da barragem.
+§ 4º O órgão fiscalizador deverá estabelecer prazo para que o empreendedor cumpra as ações previstas nos relatórios de inspeção de segurança.
