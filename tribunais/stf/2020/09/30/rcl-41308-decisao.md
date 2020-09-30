@@ -1,0 +1,25 @@
+Trata-se de reclamação com pedido de liminar proposta pela Companhia de Águas e Esgotos de Rondônia (Caerd) contra decisão proferida pelo Juiz da 2ª Vara do Trabalho de Porto Velho/RO nos autos do Processo 0000370-60.2020.5.14.0002, por suposto desrespeito ao que decidido por esta Suprema Corte no julgamento da ADPF 556/RN.
+    A reclamante sustenta, em síntese, que a decisão reclamada, ao entender que o regime de precatórios seria inaplicável à Caerd, violou a autoridade do que decidido pelo Supremo Tribunal Federal (STF) no aludido julgamento.
+    Deferi parcialmente o pedido de liminar (documento eletrônico 13).
+    As informações foram devidamente prestadas (documento eletrônico 16).
+    Em contestação, o beneficiário da decisão reclamada defendeu, sucessivamente, o não conhecimento da reclamação, a reunião de processos por conexão e a improcedência do pedido (documento eletrônico 18).
+    A Procuradoria-Geral da República opinou pelo não conhecimento da reclamação e, subsidiariamente, pela procedência do pedido (documento eletrônico 25).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, vê-se que a pretensão merece parcial acolhida.
+    Primeiro, analiso as alegações da contestação relativas ao não conhecimento da reclamação e à reunião de processos por conexão.
+    Neste caso, não se aplica o requisito do esgotamento das instâncias ordinárias, porque o paradigma indicado não foi um recurso julgado segundo a sistemática da repercussão geral.
+    Ademais, apesar de ter ajuizado diversas reclamações defendendo tese jurídica idêntica, em todos eles, tanto o pedido quanto a causa de pedir são diferentes, razão pela qual é descabida a alegação de existência de conexão.
+    Passo ao mérito.
+    Na espécie, aponta-se violação do acórdão proferido pelo STF no julgamento da ADPF 556/RN, assim ementado:
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. CONSTITUCIONAL. ADMINISTRATIVO. FINANCEIRO. DECISÕES JUDICIAIS DE BLOQUEIO, PENHORA, ARESTO E SEQUESTRO DE RECURSOS PÚBLICOS DA COMPANHIA DE ÁGUAS E ESGOTOS DO RIO GRANDE DO NORTE – CAERN. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO ESSENCIAL. APLICABILIDADE DO REGIME DE PRECATÓRIOS. PRECEDENTES. INDEPENDÊNCIA ENTRE OS PODERES. LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO PARCIALMENTE CONHECIDA E, NESTA PARTE, JULGADA PROCEDENTE. 1. Não autoriza análise de ato questionado por arguição de descumprimento de preceito fundamental quando se cuidar de ofensa reflexa a preceitos fundamentais. Precedentes. 2. A Companhia de Águas e Esgotos do Rio Grande do Norte – CAERN é sociedade de economia mista, prestadora de serviço público em regime não concorrencial e sem intuito primário de lucro: aplicação do regime de precatórios (art. 100 da Constituição da República). Precedentes. 3. Decisões judiciais de bloqueio, penhora, aresto e outras formas de constrição do patrimônio público de empresa estatal prestadora de serviço público em regime não concorrencial: ofensa à legalidade orçamentária (inc. VI do art. 167 da Constituição), à separação funcional de poderes (art. 2º da Constituição) e à continuidade da prestação dos serviços públicos (art. 175 da Constituição). Precedentes. 4. Arguição parcialmente conhecida e, nesta parte, julgada procedente para determinar a suspensão das decisões judiciais que promoveram constrições patrimoniais por bloqueio, penhora, arresto, sequestro e determinar a sujeição ao regime de precatórios à Companhia de Água e Esgoto do Rio Grande do Norte – CAERN” (ADPF 556/RN, Rel. Min. Cármen Lúcia, Tribunal Pleno).
+    A decisão reclamada, por sua vez, indeferiu pedido de aplicação do regime de precatórios em favor da reclamante (pág. 56 do documento eletrônico 3).
+    No entanto, consta dos autos que a reclamante é empresa pública que “tem por finalidade operar, conservar, explorar, ampliar, manter e melhorar os serviços públicos de águas e esgotos sanitários nas comunidades cujos sistemas estejam sob sua responsabilidade” (pág. 2 do documento eletrônico 4).
+    Assim, constato haver consonância entre a tese defendida pela reclamante e a decisão proferida na ADPF 556/RN, na qual determinou-se a sujeição ao regime de precatórios à Companhia de Água e Esgoto do Rio Grande do Norte (Caern).
+    Verifico, ainda, que em reclamações semelhantes, ajuizadas pela mesma reclamante, os Ministros desta Corte vêm julgando parcialmente procedentes os pedidos. Nesse sentido, confiram-se as seguintes decisões: Rcl 41.543/RO, Rel. Min. Luiz Fux; Rcl 42.731/RO, Rel. Min. Alexandre de Moraes; Rcl 41.318/RO, Rel. Min. Celso de Mello.
+    Por fim, registro a impossibilidade de acolhimento de pedido genérico, ante a natureza subjetiva da reclamação.
+    Isso posto, julgo parcialmente procedente o pedido para cassar o ato reclamado e determinar que outro seja proferido com a efetiva observância ao entendimento firmado no julgamento da ADPF 556/RN (art. 161, parágrafo único, do RISTF).
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão ao Juízo da 2ª Vara do Trabalho de Porto Velho/RO.
+    Publique-se.
+    Brasília, 30 de setembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
