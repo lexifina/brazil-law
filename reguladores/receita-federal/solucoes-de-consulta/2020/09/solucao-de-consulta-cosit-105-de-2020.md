@@ -1,0 +1,15 @@
+Solução de Consulta Cosit nº 105, de 28 de setembro de 2020
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins-IMPORTAÇÃO
+Na importação por conta e ordem de terceiros de bens destinados à revenda, a importadora por conta e ordem equipara-se a estabelecimento industrial quanto ao fato gerador relativo aos produtos que dele saírem e, por conseguinte, deve recolher o IPI interno.
+Existe ainda para a importadora por conta e ordem de terceiros a possibilidade de recuperar, a título de crédito, o valor relativo ao IPI vinculado à importação.
+Este último, portanto, não integra o custo de aquisição da mercadoria, e, por conseguinte, também não integra a base de cálculo de creditamento da Cofins-Importação pelo adquirente (encomendante), sendo, ainda, vedado o aproveitamento dos créditos da referida contribuição pela importadora por conta e ordem.
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), arts. 46, I e II, e 51, I a III; Lei nº 10.833, de 2003, art. 3º; Lei nº 10.865, de 2004, arts. 15, 17 e 18; Decreto nº 7.212, de 2010 (Regulamento do IPI), arts. 9º, I e IX; § 2º; 24, I e III; 35, I e II, 190 e 226, V; Instrução Normativa RFB nº 1.861, de 2018; Parecer Normativo Cosit/RFB nº 1, de 31 de março de 2017; Parecer PGFN/CRJ/nº 492, de 2011.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 30, DE 29 DE JANEIRO DE 2014, PUBLICADA NO DOU DE 10 DE FEVEREIRO DE 2014, E À SOLUÇÃO DE CONSULTA COSIT Nº 579, DE 20 DE DEZEMBRO DE 2017, PUBLICADA NO DOU DE 28 DE DEZEMBRO DE 2017.
+Assunto: Contribuição para o PIS/Pasep-IMPORTAÇÃO
+Na importação por conta e ordem de terceiros de bens destinados à revenda, a importadora por conta e ordem equipara-se a estabelecimento industrial quanto ao fato gerador relativo aos produtos que dele saírem e, por conseguinte, deve recolher o IPI interno.
+Existe ainda para a importadora por conta e ordem de terceiros a possibilidade de recuperar, a título de crédito, o valor relativo ao IPI vinculado à importação.
+Este último, portanto, não integra o custo de aquisição da mercadoria, e, por conseguinte, também não integra a base de cálculo de creditamento da Contribuição para o PIS/Pasep-Importação pelo adquirente (encomendante), sendo, ainda, vedado o aproveitamento dos créditos da referida contribuição pela importadora por conta e ordem.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 30, DE 29 DE JANEIRO DE 2014, PUBLICADA NO DOU DE 10 DE FEVEREIRO DE 2014, E À SOLUÇÃO DE CONSULTA COSIT Nº 579, DE 20 DE DEZEMBRO DE 2017, PUBLICADA NO DOU DE 28 DE DEZEMBRO DE 2017.
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), arts. 46, I e II, e 51, I a III; Lei nº 10.637, de 2002, art. 3º; Lei nº 10.865, de 2004, arts. 15, 17 e 18; Decreto nº 7.212, de 2010 (Regulamento do IPI), arts. 9º, I e IX; § 2º; 24, I e III; 35, I e II, 190 e 226, V; Instrução Normativa RFB nº 1.861, de 2018; Parecer Normativo Cosit/RFB nº 1, de 31 de março de 2017; Parecer PGFN/CRJ/nº 492, de 2011.
+.
+[arquivo anexo: SC Cosit nº 105-2020.pdf]
