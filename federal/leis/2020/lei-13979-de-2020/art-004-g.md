@@ -1,0 +1,5 @@
+Art. 4º-G. Nos casos de licitação na modalidade pregão, eletrônico ou presencial, cujo objeto seja a aquisição ou contratação de bens, serviços e insumos necessários ao enfrentamento da emergência de saúde pública de importância internacional de que trata esta Lei, os prazos dos procedimentos licitatórios serão reduzidos pela metade. (“Caput” do artigo acrescido pela Medida Provisória nº 926, de 20/3/2020, convertida e com redação dada pela Lei nº 14.035, de 11/8/2020)
+§ 1º Quando o prazo original de que trata o caput deste artigo for número ímpar, este será arredondado para o número inteiro antecedente.
+§ 2º Os recursos dos procedimentos licitatórios somente terão efeito devolutivo.
+§ 3º Fica dispensada a realização de audiência pública a que se refere o art. 39 da Lei nº 8.666, de 21 de junho de 1993, para as licitações de que trata o caput deste artigo.
+§ 4º As licitações de que trata o caput deste artigo realizadas por meio de sistema de registro de preços serão consideradas compras nacionais e observarão o disposto em regulamento editado pelo Poder Executivo federal, observado o prazo estabelecido no § 6º do art. 4º desta Lei.

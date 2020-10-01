@@ -1,0 +1,1 @@
+Art. 3º-E. É garantido o atendimento preferencial em estabelecimentos de saúde aos profissionais de saúde e aos profissionais da segurança pública, integrantes dos órgãos previstos no art. 144 da Constituição Federal, diagnosticados com a Covid-19, respeitados os protocolos nacionais de atendimento médico.

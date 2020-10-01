@@ -1,0 +1,1 @@
+Art. 4º-C. Para a aquisição ou contratação de bens, serviços, inclusive de engenharia, e insumos necessários ao enfrentamento da emergência de saúde pública de que trata esta Lei, não será exigida a elaboração de estudos preliminares quando se tratar de bens e de serviços comuns.

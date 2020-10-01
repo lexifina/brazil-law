@@ -1,0 +1,1 @@
+Art. 3º-F. É obrigatório o uso de máscaras de proteção individual nos estabelecimentos prisionais e nos estabelecimentos de cumprimento de medidas socioeducativas, observado o disposto no caput do art. 3º-B desta Lei.

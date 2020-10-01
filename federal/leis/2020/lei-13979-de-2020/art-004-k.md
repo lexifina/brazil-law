@@ -1,0 +1,2 @@
+Art. 4º-K. Os órgãos de controle interno e externo priorizarão a análise e a manifestação quanto à legalidade, à legitimidade e à economicidade das despesas decorrentes dos contratos ou das aquisições realizadas com fundamento nesta Lei.
+Parágrafo único. Os tribunais de contas devem atuar para aumentar a segurança jurídica na aplicação das normas desta Lei, inclusive por meio de respostas a consultas.

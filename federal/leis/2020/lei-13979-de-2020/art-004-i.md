@@ -1,0 +1,1 @@
+Art. 4º-I. Para os contratos decorrentes dos procedimentos previstos nesta Lei, a administração pública poderá prever que os contratados fiquem obrigados a aceitar, nas mesmas condições contratuais, acréscimos ou supressões ao objeto contratado de até 50% (cinquenta por cento) do valor inicial atualizado do contrato.

@@ -1,0 +1,1 @@
+Art. 3º-C. As multas previstas no § 1º do art. 3º-A e no § 1º do art. 3º-B desta Lei somente serão aplicadas na ausência de normas estaduais ou municipais que estabeleçam multa com hipótese de incidência igual ou semelhante.

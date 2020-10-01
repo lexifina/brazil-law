@@ -1,0 +1,1 @@
+Art. 4º-A. A aquisição ou contratação de bens e serviços, inclusive de engenharia, a que se refere o caput do art. 4º desta Lei, não se restringe a equipamentos novos, desde que o fornecedor se responsabilize pelas plenas condições de uso e de funcionamento do objeto contratado.

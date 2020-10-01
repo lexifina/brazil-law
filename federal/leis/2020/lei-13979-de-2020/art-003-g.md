@@ -1,0 +1,2 @@
+Art. 3º-G. As concessionárias e empresas de transporte público deverão atuar em colaboração com o poder público na fiscalização do cumprimento das normas de utilização obrigatória de máscaras de proteção individual, podendo inclusive vedar, nos terminais e meios de transporte por elas operados, a entrada de passageiros em desacordo com as normas estabelecidas pelo respectivo poder concedente.
+Parágrafo único. O poder público concedente regulamentará o disposto neste artigo, inclusive em relação ao estabelecimento de multas pelo seu descumprimento.

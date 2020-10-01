@@ -1,0 +1,3 @@
+Art. 6º-A. Para a concessão de suprimento de fundos e por item de despesa, e para as aquisições e as contratações a que se refere o caput do art. 4º desta Lei, quando a movimentação for realizada por meio de Cartão de Pagamento do Governo, ficam estabelecidos os seguintes limites: (“Caput” do artigo acrescido pela Medida Provisória nº 926, de 20/3/2020, convertida e com redação dada pela Lei nº 14.035, de 11/8/2020)
+I - na execução de serviços de engenharia, o valor estabelecido na alínea "a" do inciso I do caput do art. 23 da Lei nº 8.666, de 21 de junho de 1993; e
+II - nas compras em geral e em outros serviços, o valor estabelecido na alínea "a" do inciso II do caput do art. 23 da Lei nº 8.666, de 21 de junho de 1993.

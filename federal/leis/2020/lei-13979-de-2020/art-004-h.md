@@ -1,0 +1,1 @@
+Art. 4º-H. Os contratos regidos por esta Lei terão prazo de duração de até 6 (seis) meses e poderão ser prorrogados por períodos sucessivos, enquanto vigorar o Decreto Legislativo nº 6, de 20 de março de 2020, respeitados os prazos pactuados.

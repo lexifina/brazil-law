@@ -1,0 +1,4 @@
+Art. 5º-A Enquanto perdurar o estado de emergência de saúde internacional decorrente do coronavírus responsável pelo surto de 2019:
+I - os prazos processuais, a apreciação de matérias, o atendimento às partes e a concessão de medidas protetivas que tenham relação com atos de violência doméstica e familiar cometidos contra mulheres, crianças, adolescentes, pessoas idosas e pessoas com deficiência serão mantidos, sem suspensão;
+II - o registro da ocorrência de violência doméstica e familiar contra a mulher e de crimes cometidos contra criança, adolescente, pessoa idosa ou pessoa com deficiência poderá ser realizado por meio eletrônico ou por meio de número de telefone de emergência designado para tal fim pelos órgãos de segurança pública;
+Parágrafo único. Os processos de que trata o inciso I do caput deste artigo serão considerados de natureza urgente.
