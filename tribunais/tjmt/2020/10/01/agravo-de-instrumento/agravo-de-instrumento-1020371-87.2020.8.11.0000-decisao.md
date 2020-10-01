@@ -1,0 +1,20 @@
+RAI No 1020371.87.2020.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento interposto por APARECIDA ELIAS DE SOUZA, em face da r. decisão proferida pelo juízo da 9a Vara Cível de Cuiabá, que nos autos da Ação Revisional n. 1043272-23.2020.8.11.0041, movido em desfavor de BANCO DO BRASIL S/A, indeferiu os benefícios da assistência judiciaria gratuita, determinando a intimação da autora para, no prazo de 15 (quinze) dias, proceder ao recolhimento das custas processuais devidas, sob pena sob pena de indeferimento da inicial, nos termos 321 do CPC.
+Sustenta que, não tem condições de arcar com as custas processuais sem prejuízo do próprio sustento.
+Argumenta que, ‘na decisão que indeferiu a gratuidade de justiça, alegou-se, que a Autora possui um veículo em seu nome, porém, este automóvel na realidade pertence ao filho da Autora, inclusive a autora nunca dirigiu e nem mesmo possui Carteira nacional de Habilitação (CNH); ainda, dizer que o salário recebido pela Agravante é incompatível com o benefício pretendido, pode se dizer que esta decisão fere o princípio da isonomia, da razoabilidade descritas no art. 5o, XXXIV alínea “a” e LXXIV da Constituição Federal, que assegura o direito de acesso à justiça gratuita aos que comprovem a insuficiência de recursos e a defesa de seus direitos independentemente do pagamento de taxas.’.
+Afirma por fim que a Agravante é pessoa idosa com 62 (sessenta e dois) anos, possui muitos gastos mensais como, ENERGIA, ÁGUA, MEDICAMENTOS, TELEFONE E, ALIMENTAÇÃO, que são essências para sua sobrevivência e da sua família, como pode ser constado no holerite referente ao mês de agosto a Agravante recebeu apenas o valor de R$ 2.653,60, sendo no final do mês a sua conta bancaria quase zerada (extratos em anexo).
+Requer a concessão liminar em antecipação de tutela, a gratuidade de justiça para que a Autora possa buscar no estado Juiz, o reconhecimento de abuso contratual bancário, bem como, declaração de seu direito; acolher, o presente recurso, sendo este recebido, conhecido e provido, para que a respeitável decisão do juízo a quo, seja reformada, concedendo assim, os benefícios da justiça gratuita à Agravante; subsidiariamente, caso não seja acolhido o pedido do benefícios da justiça gratuita, requer seja deferido o parcelamento das custas em até 06 (seis) parcelas, nos termos do artigo 98, §6o, do CPC c/c art. 468, § 7o, do Provimento n. 41/2016-CGJ.
+É o relatório.
+DECIDO.
+Nesse contexto, identifico a presença dos pressupostos autorizadores para deferir o efeito suspensivo, especialmente em decorrência da possibilidade de indeferimento da inicial, o que caracteriza o risco de dano grave previsto no parágrafo único do art. 995 do Código de Processo Civil.
+Por outro lado, desde já, esclareço ao Agravante que a concessão do benefício da justiça gratuita está condicionada à efetiva comprovação de que a parte não possui condição financeira de arcar com as custas advindas do processo, em harmonia com o disposto no inciso LXXIV, art. 5o da Constituição Federal, a dizer, “o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos”. (destaquei)
+Desta feita, da análise dos documentos juntados aos autos (declaração de hipossuficiência; holerite; extrato bancário), verifico que a Agravante obteve êxito na demonstração de sua incapacidade momentânea financeira, motivo pelo qual defiro a gratuidade recursal.
+Ante o exposto, DEFIRO a medida vindicada e concedo o efeito suspensivo, para, suspender os efeitos da decisão agravada, até o julgamento do mérito deste recurso.
+Comunique-se ao Juiz da causa, facultando-lhe prestar informações.
+Intime-se o Agravado, para, querendo apresentar contrarrazões.
+Após, remetam-se os autos a Douta Procuradoria Geral de Justiça para, caso queira, se manifestar acerca da questão debatida nestes autos, nos termos do art. 75 da Lei 10.741/2003 (Estatuto do Idoso), tendo em vista ser a recorrente pessoa idosa.
+Cumpra-se.
+Cuiabá,
+Alexandre Elias Filho
+(Relator em Substituição Legal)
