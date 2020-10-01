@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça o Estado do Maranhão, assim ementado (eDOC 31):
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA PROMOVIDA PELO SINDICATO. NECESSÁRIA CONDIÇÃO DE ASSOCIADO. NÃO VERIFICADO. ILEGITIMIDADE ATIVA DO EXEQUENTE.
+    1. Execução individual de sentença proferida em ação coletiva promovida pelo Sindicato dos Profissionais do Ensino Público Municipal de São Luís.
+    2. Precedente do Supremo Tribunal Federal no RE 612.043/PR no qual fora fixada a seguinte tese jurídica: A eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa dos interesses dos associados, somente alcança os filiados, residentes no âmbito da jurisdição do órgão julgador, que o sejam em momento anterior ou até a data da propositura da demanda, constantes de relação juntada à inicial do processo de conhecimento.
+    3. Não restam dúvidas que o Sindicato, autor da ação coletiva, na qual foi proferida sentença que se busca execução, é uma associação civil, que atuou como substituta processual dos filiados, na forma do art. 5º, XXI e art. 8º, III, ambos da Constituição da República e nessa medida, conforme entendimento esposado no Recurso Extraordinário com repercussão geral, necessária se faz a comprovação da parte apelante, para que possa se beneficiar da coisa julgada, demonstre sua filiação ao SINDEDUCAÇÃO em momento anterior ou até a data da propositura da demanda.
+    4. Agravo Interno conhecido e não provido.”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa ao artigo 8º, III, da Constituição da República.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    No julgamento do RE-RG 883.642, de relatoria do Ministro Presidente Ricardo Lewandowski, Dje de 26.6.2015, esta Corte entendeu pela existência de repercussão geral do Tema 823 e reafirmou a jurisprudência no sentido da ampla legitimidade das entidades sindicais de atuar como substituto processual nas ações em que atuam na defesa dos direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive na liquidação e nas execuções dos créditos reconhecidos, independentemente de autorização ou especificação dos substituídos. O acórdão restou assim ementado:
+    “Ementa: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. I – Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 1° de outubro de 2020.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
