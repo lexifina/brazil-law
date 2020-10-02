@@ -1,0 +1,37 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1010583-49.2020.8.11.0000
+Recorrente: BANCO J. SAFRA S. A.
+Recorrido: MIGUELITO PEREIRA DE ALMEIDA
+Vistos.
+Trata-se de Recurso Especial interposto por BANCO J. SAFRA S. A. (id 59456490) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela TERCEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 52552480):
+“AGRAVO INTERNO - AGRAVO DE INSTRUMENTO NÃO CONHECIDO – RECOLHIMENTO DO PREPARO A DESTEMPO – OPORTUNIZADA REGULARIZAÇÃO PARA RECOLHIMENTO EM DOBRO – ART. 1007, §4o, DO CPC – NÃO ATENDIMENTO PELA PARTE – PRECLUSÃO CONSUMATIVA - DESERÇÃO CONFIGURADA –RECURSO DESPROVIDO. A regularização do preparo, em razão da aplicação do disposto no art. 1.007, § 4o, do CPC, deve ocorrer na primeira manifestação do recorrente, após a determinação, sob pena de não conhecimento do recurso. Estando devidamente fundamentada a decisão e não havendo novos elementos nos autos, capazes de modificar o entendimento do relator, a manutenção da decisão proferida é a medida justa para o caso concreto.” (TJMT, RAI 1010583-49.2020.8.11.0000, DES. JOSÉ ZUQUIM NOGUEIRA, TERCEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 29/07/2020)
+Os Embargos de Declaração id 53779488 foram rejeitados, conforme acórdão id 55991980.
+A parte Recorrente aduz que o acórdão afrontou o disposto no artigo 3o, § 1o do Decreto-Lei n. 911/69, uma vez que foi impedido de retirar o veículo da Comarca sem a autorização do Magistrado e de alienar o bem, ainda que comprovado o inadimplemento e a constituição em mora.
+Aponta a existência de dissídio jurisprudencial que seria apto a admitir positivamente o recurso.
+Ao final, afirma que “para surpresa do autor tal recurso não fora conhecido a r. decisão entendeu que não houve o devido preparo do recurso, contudo como será demonstrado houve o pagamento do devido preparo, conforme guia de comprovante juntados no ID: 43388990 e certificado conforme certidão de ID: 44301992”, afrontando o disposto no artigo 932, III do CPC, salientando que o “(...) recorrente distribuiu o agravo na data de 18/05/2020 e juntou aos autos o devido comprovante de pagamento na data de 21/05/2020, ou seja, dentro do prazo determinado pela Portaria 844/2018, assim, mais uma vez, fica demonstrado que o agravo de instrumento manejado teve seu devido preparo recolhido em tempo hábil e de acordo com as determinações do CPC e da 844/2018 do próprio Tribunal de Justiça do Estado de Mato Grosso”.
+Especificamente em relação ao efeito suspensivo, diz que:
+“(...)Vossas Excelências, ao presente recurso especial deve ser deferido o efeito suspensivo. A decisão proferida pelo magistrado “a quo” fará com que o devedor, ora recorrido, fique em vantagem, mesmo que não tenha adimplido a sua dívida por inteiro. Como pode se ver do entendimento do Eg. TJRS, ementa abaixo transcrita, o fato determinante para a apuração do efeito suspensivo é a possibilidade de ocorrer dano de difícil reparação.
+Ementa: AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. EMBARGOS À EXECUÇÃO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO. O que determina a atribuição do efeito suspensivo é a possibilidade de ocorrer dano de difícil reparação. No caso concreto, o embargante afirma a existência de excesso no cálculo do valor executado, o que constitui causa legítima para a atribuição de efeito suspensivo aos embargos à execução, havendo perigo de dano grave, de difícil ou incerta reparação ao Ente Público se houver pagamento além do devido. Assim sendo, implementados os requisitos previstos no artigo 739-A, § 1o, do Código de Processo Civil, há que ser deferido o efeito suspensivo aos embargos. AGRAVO DE INSTRUMENTO PROVIDO. (Agravo de Instrumento No 70064083090, Vigésima Quinta Câmara Cível, Tribunal de Justiça do RS, Relator: Angela Maria Silveira, Julgado em 23/06/2015).
+Como se pode perceber da natureza do contrato objeto da presente lide, uma vez indeferido o pedido de efeito suspensivo, há certa possibilidade de ocorrer dano de difícil reparação para com o agravante/ autor da ação. Nobres ministros, com a devida data vênia, a Colenda Câmara não pode permanecer inerte a decisão proferida, que não levou em consideração a legislação em vigor, e nem mesmo as decisões proferidas pelos Tribunais.
+Postula-se, assim, com base nas razões expendidas, pela concessão de efeito suspensivo ao presente Recurso Especial, tornando-se ineficaz a determinação do juízo “a quo” até o pronunciamento definitivo desta Colenda Câmara. (...)”
+Recurso tempestivo e preparado, conforme certidões id 59540478 e 59535496.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez ao fundamentar o perigo da demora, alegou que “(...)Como se pode perceber da natureza do contrato objeto da presente lide, uma vez indeferido o pedido de efeito suspensivo, há certa possibilidade de ocorrer dano de difícil reparação para com o agravante/ autor da ação.”
+Entretanto, não aponta qual seria o dano sofrido, o que afasta o perigo da demora.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+Por fim, cumpre esclarecer que não houve qualquer menção quanto à probabilidade do direito, impossibilitando a concessão do efeito postulado.
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência ante a ausência de fundamentação para tanto, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Intimem-se.
+Cuiabá, 1o de outubro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
