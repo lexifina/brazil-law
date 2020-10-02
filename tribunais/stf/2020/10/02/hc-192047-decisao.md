@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Alan Viana da Silva, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no agravo regimental no REsp nº 1.688.506/SE, Relator o Ministro Ribeiro Dantas.
+    Sustenta o impetrante, em suma, que a precariedade do conjunto probatório dos autos que teria comprovado a finalidade de traficância imputada ao paciente.
+    Defende, assim a desclassificação do delito, que, na sua visão, não exige o reexame das provas dos autos, o que afasta a incidência da Súmula 7/STJ, levada à cabo pelo Superior para negar o recurso defensivo.
+    Afirma, ainda, que “a questão é eminentemente jurídica, sendo que o debate gira em torno da correta aplicação da lei e dos princípios que regem o direito penal ao caso concreto.”
+    Em reforço, prossegue:
+    “No caso dos autos, o paciente foi encontrado com pequena quantidade de entorpecente, sem qualquer outro apetrecho que indicasse o envolvimento com o tráfico, tais como dinheiro, celulares ou balança de precisão. Nada nos autos é capaz de efetivamente indicar que o paciente estivesse embalando ou fracionando a droga ou, ainda, estabelecendo contato com outros usuários. No entanto, o juízo sentenciante, acompanhado pelo TJ/SE e pelo STJ, entendeu que tal situação seria suficiente para configurar o crime de tráfico. Tal conclusão fundamentou-se, basicamente, na quantidade de droga apreendida (que foi de apenas 20g de maconha).”
+    E mais adiante conclui:
+    “Dessa forma frente ao montante apreendido (menos de 200g) fica patente a possibilidade de desclassificação do delito em tela ao quanto positivado no art. 28 da Lei 11.343/2006, sendo que a forma de acondicionamento denota claramente a condição de uso da droga apreendida.
+    Requer o impetrante, liminarmente, a concessão da ordem para “desclassificar, de imediato, a conduta imputada para o tipo previsto pelo art. 28 da Lei 11.343/2006.”
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto ora impugnado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE ENTORPECENTES. PLEITO DE DESCLASSIFICAÇÃO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO NOS TERMOS DOS ARTS. 1.029, § 1º, DO CPC E 255, § 1º, DO RISTJ. AGRAVO NÃO PROVIDO.
+    1. No que tange ao pleito de desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, pontuou que, conforme provas produzidas nos autos, foram apreendidas 10 (dez) trouxas de maconha, as quais teriam sido jogadas pelo agravante em sua residência, ao ser flagrado pelo policial militar em atitude suspeita ao lado de outros indivíduos, os quais, ao serem abordados, tentaram fugir.
+    2. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela desclassificação da conduta do agravante para uso de drogas, seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado na via especial, conforme o teor da Súmula 7/STJ.
+    3. Nos termos do disposto no art. 1.029, § 1º, do CPC e no art. 255, § 1º, do RISTJ, caberia ao recorrente a realização do devido cotejo analítico para demonstrar a similitude fática entre os julgados confrontados, mediante a transcrição dos "trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados", requisito não cumprido na hipótese dos autos.
+    4. Agravo regimental não provido.”
+    Pelo que há no julgado proferido pela Quinta Turma não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia, mormente se levado em conta que deixou de analisar o tema posto à apreciação por demandar reexame vedado na via recursal eleita.
+    De fato, as instâncias ordinárias, soberanas na análise da prova, concluíram pelo cometimento do crime descrito no artigo 33 da Lei de Drogas (tráfico de drogas). Logo, para se chegar à conclusão diversa, ou proceder-se à desclassificação, tal como pretende a defesa, indispensável seria o reexame de fatos e provas, que o habeas corpus não comporta.
+    A esse respeito:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS PARA CONDENAÇÃO. DESCONSTITUIÇÃO DA CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+    I - A jurisprudência pacífica do Supremo Tribunal Federal não admite o uso do habeas corpus como sucedâneo de revisão criminal. Precedentes.
+    II – Ademais, a leitura atenta dos autos bem demonstra que a condenação foi embasada em prova judicialmente colhida, ficando evidente a pretensão de reexame de sentença transitada em julgado.
+    III – Agravo regimental a que nega provimento” (HC nº 137.059/RJ-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 25/10/16);
+    “PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES (ARTS. 33 E 35 DA LEI N. 11.343/2006). INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE NO RITO ESTREITO DO WRIT.
+    1. O habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição. Precedentes: HC 105.022/DF, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 09/05/2011; HC 102.926/MS, Rel. Min. Luiz Fux, 1ª Turma, DJe de 10/05/2011; HC 101.588/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe de 01/06/2010; HC 100.234/SP, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe de 01/02/2011; HC 90.922, Rel. Min. Cezar Peluso, 2ª Turma, DJe de 18/12/2009; RHC 84.901, Rel. Min. Cezar Peluso, 2ª Turma, DJe de 07/08/2009.
+    2. In casu, a convicção do Juiz a respeito da autoria e materialidade dos crimes imputados ao paciente encontra respaldo no auto de apreensão da droga, no auto de constatação provisória de substâncias entorpecentes, na prova oral e nas interceptações telefônicas que o revelaram líder da associação criminosa, exercendo essa função de dentro do estabelecimento prisional, através de telefone celular.
+    3. Deveras, a denúncia acolhida na sentença demonstrou que as escutas telefônicas judicialmente autorizadas apontaram o paciente como o chefe da organização criminosa, sendo certo que mesmo recluso exercia rígido comando na societas sceleris por intermédio de sua esposa e dos demais envolvidos, ficando estabelecido o liame entre ele e os fatos imputados.
+    4. Ordem denegada” (HC nº 108.790/ES, Primeira Turma, Relator o Ministro Luiz Fux, DJe 23/5/12 – grifos nossos).
+    “RECURSO EM HABEAS CORPUS – REVISÃO CRIMINAL – ÓBICE – INEXISTÊNCIA. O habeas corpus não sofre qualquer obstáculo, muito menos o decorrente de ter-se, em tese, a possibilidade de impugnação, mediante revisão criminal, do título condenatório.
+    TRÁFICO DE DROGAS – DESCLASSIFICAÇÃO – ARTIGO 28 DA LEI Nº 11.343/2006. A demonstração, a partir de balizas fáticas, da finalidade de mercancia do entorpecente inviabiliza a desclassificação da conduta para o tipo previsto no artigo 28 da Lei nº 11.343/2006.
+    PENA – CUMPRIMENTO – REGIME. O regime de cumprimento é definido ante o patamar alusivo à condenação e as circunstâncias judiciais – artigo 33, parágrafos 2º e 3º, do Código Penal. (RHC nº 170.283/SP, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 15/5/2020).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 2 de outubro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
