@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1979, de 30 de setembro de 2020
+Altera a Instrução Normativa RFB nº 1.966, de 13 de julho de 2020, para prorrogar o prazo para adequação da área alfandegada de Zonas de Processamento de Exportação (ZPE).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no § 2º do art. 2º da Lei nº 11.508, de 20 de julho de 2007, no § 6º do art. 13 e nos arts. 531 e 541 do Decreto nº 6.759, de 5 de fevereiro de 2009, e nos arts. 2º a 4º e 13 do Decreto nº 6.814, de 6 de abril de 2009, resolve:
