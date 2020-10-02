@@ -1,0 +1,25 @@
+DECISÃO: Reconsidero a decisão agravada, restando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo a examinar, desse modo, o apelo extremo deduzido pela União.
+    O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “PROCESSUAL CIVIL. TRIBUTÁRIO. REINTEGRA. PERCENTUAL 2%. AFASTAR DECRETO 9.393/2018. APELAÇÃO PROVIDA.
+    – Ao analisar, no âmbito do REINTEGRA, a redução do percentual incidente sobre as receitas de exportação para apuração do crédito perpetrada pelos Decretos nº. 8.415/15 e 8.543/15, o C. STF entendeu que corresponde à majoração indireta do imposto e, por isso, sujeita-se ao princípio da anterioridade (RE 964.850 AgR).
+    – Na hipótese, considerando que, nos termos do decreto 9.393/18, o crédito reembolsável foi reduzido para apenas 0,1%, trata-se, em verdade, de majoração dos tributos incidentes sobre a cadeia produtiva. E, sob esta perspectiva, é inovação legislativa que deve obedecer ao princípio da anterioridade, nos exatos termos do julgado acima referido. Jurisprudência dessa Corte.
+    – Ainda, em relação ao princípio da segurança jurídica, outra alternativa não resta senão manter o benefício tal como concedido, como forma de assegurar a estabilidade das relações jurídicas.
+    – Em relação aos valores indevidamente recolhidos a tal título, autorizada a compensação, nos termos em que disciplina o art. 74 da Lei 9.430/96, com alterações da Lei 10.637/2002, devendo ainda, ser observado o disposto no art. 170-A do CTN.
+    – Apelação provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 1.099.076-AgR-AgR-segundo/RS, Rel. Min. DIAS TOFFOLI, fixou entendimento que torna acolhível, em parte, a pretensão deduzida pela parte ora recorrente:
+    “Dois agravos regimentais no recurso extraordinário. Tributário. REINTEGRA. Decreto nº 8.415/15. Princípio da Anterioridade Nonagesimal. Aplicação. Anterioridade geral. Inaplicabilidade.
+    1. O entendimento desta Corte vem se firmando no sentido de que não só a majoração direta de tributos atrai a aplicação da anterioridade nonagesimal, mas também a majoração indireta decorrente de revogação de benefícios fiscais.
+    2. A alteração dos coeficientes de redução de alíquota pelo Poder Executivo perpetrada pelo Decreto nº 8.415/15  não se submete à regra da anterioridade geral, por força de disposição expressa do art. 195, § 6º, da Constituição,  o qual excepciona as contribuições sociais destinadas à Seguridade Social do disposto no art. 150, III, ‘b’,  da Constituição Federal.
+    3. Negativa de provimento aos agravos regimentais. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem (Súmula 512/STF).” (grifei)
+    Impende destacar, por relevante, ante a inquestionável procedência de suas observações e em situação idêntica à que se verifica nestes autos, o seguinte trecho da decisão do eminente Ministro LUIZ FUX, proferida no RE 1.259.822/RS:
+    “É certo que esta Suprema Corte já sedimentou o entendimento de que a norma que majora tributo, ainda que indiretamente, na forma de alteração ou revogação de benefício fiscal, deve observar as limitações ao poder de tributar, especialmente o princípio da anterioridade.
+    Nesse contexto, é assente na jurisprudência do Tribunal que a redução da alíquota do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA) deve obedecer ao princípio da anterioridade nonagesimal, pois configura aumento indireto de tributo.
+    No entanto, o mesmo raciocínio não se aplica ao princípio da anterioridade geral (anual ou de exercício).  É que, no caso do benefício em questão, a devolução do  crédito apurado tem relação direta com a COFINS e com a contribuição para o PIS (artigo 22, § 5º, da Lei 13.043/2014), tributos que não se sujeitam à anterioridade prevista no artigo 150, III, ‘b’, da Constituição, conforme prevê o artigo 195, § 6º, da mesma Carta.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge, em parte da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    Publique-se.
+    Brasília, 02 de outubro de 2020.
+Ministro CELSO DE MELLO
+Relator
