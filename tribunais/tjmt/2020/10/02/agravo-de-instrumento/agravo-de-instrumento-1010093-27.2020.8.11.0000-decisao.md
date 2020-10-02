@@ -1,0 +1,24 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+AGRAVO DE INSTRUMENTO No 1010093-27.2020.8.11.0000
+AGRAVANTE (S): ESTADO DE MATO GROSSO
+AGRAVADO (S): M D NORTE COMERCIO DE CEREAIS LTDA
+Vistos, etc.
+Trata-se de pedido de reconsideração formulado pelo Agravado, M D Norte Comercio de Cereais LTDA., da decisão proferida por esta Relatora, que, nos autos do Agravo de Instrumento interposto pelo Estado de Mato Grosso, concedeu o efeito suspensivo vindicado.
+Aduz o Agravado que, o Ato Coator praticado foi a antecipação do vencimento do PRODEIC para 31-12-2019 por força do art. 16, §3o da Lei Complementar Estadual 631/2019.
+Alega que, é falsa a premissa de revogação do PRODEIC por inconstitucionalidade do Decreto Estadual no 1.432/2003 e da Lei Estadual no 7.958/2003. e o parecer do MP é categórico em reconhecer que não há ADIN contra a lei estadual 7.958/2003 e não houve prova de descumprimento das condições onerosa fixadas no acordo do PRODEIC, portanto, é descabido o desenquadramento antecipado pois a lei complementar 631/2019 não pode retroagir seus efeitos à celebração do acordo em 2013.
+Esclarece que viola o art. 5o, XXXVI da CF/1988 (e também o art. 6o do Decreto-lei 4.657/1942) aplicar efeitos retroativos da Lei Complementar Estadual 631/2019 ao ato jurídico perfeito do PRODEIC da Agravada celebrado em 2013.
+Assim, na forma do parecer do MP id 47140488 a imediata revogação da liminar de efeito suspensivo id 42385451, considerando o prejuízo irreparável que está sendo causado à Agravada que teve toda a sua atividade empresarial paralisada pelo Agravante em função da decisão id 42385451.
+Antes de analisar o pedido, determinei a intimação do Agravante para se manifestar, o que foi devidamente atendido junto ao Id. 55825987, manifestando pelo indeferimento do pedido, ao argumento que a empresa está com o cadastro ativo e sua inclusão no regime especial apenas impõe que a emissão dos documentos fiscais seja realizada na agência fazendária do domicílio fiscal do contribuinte, ficando assegurado o pleno funcionamento do estabelecimento.
+Pois bem.
+Inicialmente, ressalta-se que o presente recurso de agravo de instrumento foi interposto pelo Estado de Mato Grosso, contra a decisão proferida pela 5a Vara Especializada da Fazenda Pública da Comarca de Cuiabá, que, nos autos do mandado de segurança no 1004180-38.2020.811.0041, impetrado por M D Norte Comercio de Cereais LTDA, deferiu a liminar almejada, determinando que à autoridade Impetrada que restabeleça a vigência do PRODEIC firmado com a Impetrante pelo prazo integral, descrito na cláusula quarta do Termo de Acordo celebrado, bem como que seja restabelecido o regime de apuração mensal do ICMS, previsto no art. 132, §1o do RICMS/MT, até ulterior decisão de mérito.
+O efeito suspensivo foi concedido por esta Relatora ao entendimento que (...) em princípio, inexiste ato ilegal a amparar o direito líquido e certo da Agravada, uma vez que a autoridade coatora apenas cumpriu o que prevê a Lei Complementar do Estado de Mato Grosso no 631, de 31 de julho de 2019, que reinstituiu as isenções, incentivos e benefícios fiscais pelo período de 8 de agosto de 2017 a 31 de dezembro de 2019, e modificou o prazo de validade daqueles que estariam vigentes.
+Nesse mesmo sentido, o RAI no 1005020-74.2020.8.11.0000, cujo Relator é o eminente Des. Luiz Carlos da Costa.
+Sendo assim, ao meu ver, não restou demonstrado qualquer razão para modificação da decisão proferida, a qual deve ser combatida pelo recurso próprio, sendo o indeferimento do pedido medida impositiva.
+No tocante a alegação de que o Recorrente bloqueou o sistema SINTEGRA da Impetrante (Doc. 01); suspendeu o PRODEIC da Agravada e o regime de apuração mensal do art. 132 do RICMS dele decorrente (Doc. 02); e, o mais grave de tudo, suspendeu a inscrição estadual da Impetrante bloqueando o acesso da Impetrante ao portal de emissão de Notas Fiscais eletrônicas para comercialização de seus produtos (Doc. 03), imperioso consignar que, não se desconhece a ilegalidade da suspensão da emissão de nota fiscal, consoante constante no despacho de Id. 54853489, todavia, o referido pedido não pode ser apreciado por esta Relatora.
+Isso porque, a uma, não é objeto do mandado de segurança de origem e o presente recurso deve se limitar apenas aos limites da decisão agravada; a duas, porquanto não foi levado a conhecimento do Magistrado de Primeiro Grau, o que configuraria supressão de instância; a três, pois não foi dado qualquer decisão nesse sentido por esta Relatora, permitindo a reconsideração dessa parte do pedido.
+Portanto, os argumentos apresentados pela Agravada não são suficientes para modificação da decisão proferida.
+Assim, indefiro o pedido de reconsideração formulado.
+Intimem-se as partes.
+Cuiabá, 2 de outubro de 2020.
+Desa. Helena Maria Bezerra Ramos
+Relatora
