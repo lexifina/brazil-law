@@ -1,0 +1,24 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO
+REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ACÓRDÃO PARADIGMA PROFERIDO PELA MESMA TURMA PROLATORA DA DECISÃO EMBARGADA. INEXISTÊNCIA DE DIVERSIDADE ORGÂNICA. PRECEDENTES. EMBARGOS DE DIVERGÊNCIA NÃO ADMITIDOS.
+Relatório
+    1. Em sessão virtual de 8.5.2020 a 14.5.2020, a Segunda Turma deste Supremo Tribunal rejeitou os embargos de declaração no agravo regimental no recurso extraordinário com agravo opostos por Márcia Dutra Fernandes, com a seguinte fundamentação:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS” (e-doc. 51).
+    2. Publicado esse acórdão no DJe de 16.6.2020, Márcia Dutra Fernandes opõe, em 6.7.2020, tempestivamente, embargos de divergência (e-doc. 54).
+    3. A embargante aponta como paradigma de dissídio jurisprudencial o acórdão do Mandado de Segurança n. 34.677-ED-ED, Relator o Ministro Edson Fachin, prolatado pela Segunda Turma.
+    Argumenta que “o litígio trata de questão idêntica à debatida no Mandado de Segurança Coletivo nº 34.677/DF, que tramita perante este STF, da relatoria do Ministro Edson Fachin, o qual concedeu a liminar pleiteada, posteriormente confirmada pelo Colegiado da 2ª Turma deste Tribunal, conforme acórdão juntado com o recurso extraordinário” (fls. 2-3, e-doc. 53).
+    Pede “que admita este recurso de embargos de divergência, conforme fundamentação e, no mérito, dê provimento ao mesmo, para reformar a decisão de inadmissibilidade do agravo em recurso extraordinário e, consequentemente, admita o recurso extraordinário interposto e, no mérito deste, conceda a segurança pretendida, julgando-se procedente o pedido formulado na inicial, para restabelecer em definitivo a pensão recebida pela Embargante em razão da morte do Pai, recebida há mais 40 (quarenta) anos, que é sua única fonte de renda” (fl. 23, e-doc. 53).
+    4. Em contrarrazões, a embargada pede “que os presentes embargos não sejam conhecidos ante a ausência de preenchimento dos seus pressupostos de cabimento” (fl. 7, e-doc. 57).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à embargante.
+    6. Os embargos de divergência são cabíveis contra decisão de Turma deste Supremo Tribunal, em recurso extraordinário ou em agravo de instrumento, divergente de julgado da outra Turma ou do Plenário (art. 330 do Regimento Interno do Supremo Tribunal Federal e art. 1.043 do Código de Processo Civil).
+    7. O acórdão apontado como paradigma foi proferido no julgamento do Mandado de Segurança n. 34.677, Relator o Ministro Edson Fachin, pela Segunda Turma, sendo incabíveis os presentes embargos de divergência, pois opostos contra acórdão da mesma Turma prolatora da decisão embargada, sem que tenha ocorrido alteração substancial nesse Colegiado. Assim, por exemplo:
+    “AGRAVO REGIMENTAL - EMBARGOS DE DIVERGÊNCIA - PRESSUPOSTO DE ADMISSIBILIDADE - NÃO ATENDIMENTO. A teor do artigo 330 do Regimento Interno do Supremo, pronunciamento formalizado pela mesma Turma que prolatou decisão embargada não serve como paradigma para a comprovação da alegada divergência, quando ausente substancial alteração da composição do Colegiado” (ARE n. 881.783-AgR-EDv-AgR, Relator o Ministro Marco Aurélio, Plenário, DJe 1º.2.2019).
+    “EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. REQUISITOS. ARTS. 1.043, III, E 1.044 DO CPC/2015. ARTS. 330 E 331 DO RISTF. CONFRONTO ESTABELECIDO EM FACE DE ACÓRDÃO PROFERIDO PELA MESMA TURMA PROLATORA DA DECISÃO EMBARGADA. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. CONSTITUCIONAL. EXERCÍCIO DE ADVOCACIA PÚBLICA CONCOMITANTEMENTE À ADVOCACIA PRIVADA. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDO” (ARE n. 850.918-AgR-ED-EDv-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 15.8.2018).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA. RECURSO FUNDADO EM PARADIGMA DA MESMA TURMA: INEXISTÊNCIA DE DIVERSIDADE ORGÂNICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 711.508-AgR-EDv-ED, de minha relatoria, Plenário, DJe 10.2.2014).
+    Nada há a prover quanto às alegações da embargante.
+    8. Pelo exposto, não admito os embargos de divergência (§ 1º do art. 21 e § 1º do art. 335 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de outubro de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
