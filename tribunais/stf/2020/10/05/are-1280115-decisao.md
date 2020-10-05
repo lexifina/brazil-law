@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 8, p. 1):
+    APELAÇÃO. AÇÃO POPULAR EM FACE DO PRESIDENTE DA REPÚBLICA. PEDIDO QUE VISA A OBTER O CUMPRIMENTO DE OBRIGAÇÃO DE NÃO FAZER. INADEQUAÇÃO DA VIA ELEITA, POR AUSÊNCIA DE LESIVIDADE AO PATRIMÔNIO PÚBLICO OU À MORALIDADE ADMINISTRATIVA. ATOS EM TESE IMORAIS QUE AFETEM APENAS INTERESSES E PATRIMÔNIOS PRIVADOS NÃO ENCONTRAM NA AÇÃO POPULAR O INSTRUMENTO ADEQUADO À SUA DEFESA. SENTENÇA INDEFERITÓRIA DA PETIÇÃO INICIAL MANTIDA. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com fundamento no art. 102, III,  a  , do permissivo constitucional, aponta-se ofensa ao art. 5º, LXXIII, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que o demandado vale-se do prestígio do cargo público que ocupa para promoção pessoal e eleitoral, atingindo a moralidade administrativa e justificando o cabimento da presente ação popular
+    O Tribunal de origem inadmitiu o recurso extraordinário por entender que incide no caso o óbice das Súmulas 283 e 284 do STF (eDOC 16).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da ação direta de inconstitucionalidade, asseverou que (eDOC 8, p. 5):
+    “Em caso semelhante, no qual foi proposta ação popular objetivando "determinar ao réu (atual Presidente da República) que se abstenha de utilizar em suas lives semanais a expressão "Brasil Acima de Tudo, Deus Acima de Todos", este Tribunal confirmou a sentença que extinguiu o processo sem resolução do mérito, por inadequação da via eleita, pois "...o pedido da presente ação popular não visa a anular ato lesivo ao meio ambiente, patrimônio histórico e cultural, mas obter o cumprimento de obrigação de não fazer, ou seja, abstenção do Presidente da República ao uso de expressão em suas lives. Ou seja, não se presta a presente ação popular para invalidação de atos estatais ou de particulares (Lei 4717/65, art. 1º e art. 5º, LXXIII da Constituição), sendo inviável veiculação de pedido imediato de condenação em obrigação de não fazer mediante ação popular." (Remessa Necessária Cível nº 5010367- 34.2019.4.04.7000/PR; Relator: Desembargador Federal Cândido Alfredo Silva Leal Junior; Data da Decisão: 10/07/2019; 4ª Turma).”
+    Nas razões do recurso extraordinário, o fundamento a respeito da inadequação da via eleita para cumprimento de obrigação de não fazer, não foi impugnado pela parte agravante, o que atrai o óbice da Súmula 283 do STF,  verbis  :  “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Confiram-se, a propósito, os seguintes precedentes:
+    CONSTITUCIONAL. PREVIDENCIÁRIO. QUESTÃO CONSTITUCIONAL NÃO DECIDIDA. AGRAVO REGIMENTAL: FUNDAMENTO SUFICIENTE. SÚMUL 283. I. - Ausência do necessário prequestionamento de questões constitucionais. Incidência da Súmula 282-STF. II. - A decisão recorrida baseia-se em mais de um fundamento suficiente, e o recurso não ataca todos eles. Incidência da Súmula 283 -STF. III. - Agravo não provido. (AI 406152 AgR, Rel. Min. CARLOS VELLOSO, Segunda Turma, DJ 14.02.2003).
+    AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. FUNDAMENTO INATACADO (SÚMULA 283). - SUBSISTENTES OS ARGUMENTOS DO DESPACHO AGRAVADO, NO TOCANTE AO PROPOSITO RECURSAL DE REEXAME DA PROVA (SÚMULA 279), E DE RESTAR INATACADO FUNDAMENTO SUFICIENTE DO ACÓRDÃO (SÚMULA 283) DESCABE PROVAR O AGRAVO PARA CONFERIR VIABILIDADE AO EXTRAORDINÁRIO. - AGRAVO REGIMENTAL IMPROVIDO. (AI 103711 AgR, Rel. Min. RAFAEL MAYER, Primeira Turma, DJ 20.09.1985).
+    Ante o exposto, nego provimento ao recurso, nos termos do artigo 932, IV, a, do Código de Processo Civil.
+    Publique-se. Intime-se.
+    Brasília, 05 de outubro de 2020
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
