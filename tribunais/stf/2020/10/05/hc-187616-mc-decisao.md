@@ -1,0 +1,24 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+NULIDADE – RITO PROCESSUAL – INTERROGATÓRIO – PROCESSO-CRIME – SUSPENSÃO – RELEVÂNCIA DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Bodocó/PE, no processo nº 001382-03.2011.8.17.0290, determinou a prisão preventiva do paciente, ocorrida em 3 de março de 2020, considerados os crimes dos artigos 159, § 1º (extorsão mediante sequestro), e 288 (formação de quadrilha) do Código Penal e 16 (porte ilegal de arma de uso restrito) da Lei nº 10.826/2003. Ressaltou o conteúdo de investigações a indicarem a integração a facção especializada em assaltos a bancos. Destacou a apreensão de armas de grosso calibre em poder do grupo criminoso. Concluiu necessária a custódia para garantir a ordem pública e a aplicação da lei penal, referindo-se ao risco de fuga.
+    Em audiência realizada em 6 de agosto de 2019, afastou a arguição de nulidade da citação por edital, assentando encontrar-se foragido à época. Realçou as diligências de tentativa de citação, frisando a existência de ordem de serviço com a finalidade de identificar o endereço do paciente. Aludindo ao artigo 222, § 1º, do Código de Processo Penal, concluiu inexistir prejuízo à defesa na inquirição da vítima e de testemunhas, por carta precatória, após o interrogatório do paciente.
+    No Superior Tribunal de Justiça, a Sexta Turma inadmitiu o habeas corpus nº 574.885.
+    O impetrante sustenta a insubsistência dos fundamentos do ato que implicou a prisão preventiva, dizendo-o lastreado na gravidade abstrata do crime. Aponta a nulidade da citação por edital sem que esgotadas as diligências para a pessoal. Sublinha violado o artigo 400 do Código de Processo Penal, afirmando ocorrido o interrogatório do paciente antes do cumprimento da carta precatória voltada à tomada de depoimentos da vítima e testemunhas.
+     Requer, no campo precário e efêmero, o afastamento da custódia provisória e a suspensão, até o desfecho desta impetração, do processo-crime. No mérito, pretende a anulação, desde a citação, dos atos processuais. Sucessivamente, postula a nulidade do interrogatório, determinando-se a renovação.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 24 de setembro de 2020, revelou que o processo-crime está na fase de apresentação de alegações finais.
+    2. O Juízo, ao determinar a prisão, aludiu ao conteúdo de investigações policiais, salientando a integração do paciente a grupo criminoso voltado à prática de assaltos a bancos e à apreensão de armas de grosso calibre. O quadro indica em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o pronunciamento atacado. A inversão da ordem do processo-crime — no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender — foi justificada, atendendo-se ao figurino legal.
+    No tocante ao vício na citação editalícia, o Juízo, na audiência, afastou a ocorrência da nulidade, assentando encontrar-se o paciente foragido à época e mandado de prisão pendente de cumprimento. Realçou o esgotamento de diligências para citação, destacando ordem de serviço para identificar o endereço do paciente.
+    Quanto ao interrogatório, percebam a ordem jurídico-constitucional. No rol das garantias, mais precisamente no inciso LV do artigo 5º da Carta de 1988, está assegurado aos litigantes, em processo judicial ou administrativo, e aos acusados, em geral, o contraditório e a ampla defesa, com os meios e recursos a ela inerentes. A teor do artigo 400 do Código de Processo Penal, cumpre observar a ordem de tomada de depoimentos de testemunhas e acusado, em processo-crime submetido ao rito comum:
+          […]
+    Art. 400. Na audiência de instrução e julgamento, a ser realizada no prazo máximo de 60 (sessenta) dias, proceder-se-á à tomada de declarações do ofendido, à inquirição das testemunhas arroladas pela acusação e pela defesa, nesta ordem, ressalvado o disposto no art. 222 deste Código, bem como aos esclarecimentos dos peritos, às acareações e ao reconhecimento de pessoas e coisas, interrogando-se, em seguida, o acusado.
+    […]
+    A realização do interrogatório do acusado ocorreu em momento anterior a resposta de carta precatória, voltada à inquirição da vítima e de testemunhas, inobservando-se o figurino legal. Considerado o artigo 400 do Código de Processo Penal, tem-se transgressão ao contraditório e à ampla defesa.
+    3. Defiro a liminar, para suspender, até o exame final desta impetração, o processo-crime nº 001382-03.2011.8.17.0290, da Vara Única da Comarca de Bodocó/PE.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de outubro de 2020.
+Ministro MARCO AURÉLIO
+Relator
