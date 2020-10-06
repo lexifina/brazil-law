@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ANULATÓRIA DE DÉBITO FISCAL. ICMS. PRESTAÇÃO DE SERVIÇOS AUTOMOTIVOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OMISSÃO NÃO ALEGADA. MATÉRIA CONSTITUCIONAL. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Toda a argumentação recursal pode ser sintetizada na seguinte tese: no CPC/1973, "havendo embargos, devem ser arbitrados honorários na execução", pois a jurisprudência do STJ assim determinaria (fl. 138, e-STJ.
+2. A Corte Especial do STJ, no julgamento do REsp 1.520.710/SC, Rel. Ministro Mauro Campbell Marques, julgado em 18/12/2018, - ou seja, mais de um ano após a decisão de minha relatoria indicada (fl. 138, e-STJ) - e sob o rito dos recursos repetitivos, dirimiu a controvérsia relativa à possibilidade de cumulação da verba de honorários fixada nos Embargos à Execução com aquela arbitrada na própria execução contra a Fazenda Pública, vedada sua compensação.
+3. A jurisprudência do STJ, portanto, não determina que haja arbitramento na Execução, como quer a agravante. Reitera-se, portanto, a incidência da Súmula 83/STJ.
+4. Conforme decidido anteriormente, o acórdão questionado salientou que o juízo singular, ao determinar a citação do INSS no cumprimento de sentença, sob a égide do CPC/1973, expressou que "os honorários advocatícios da execução seriam fixados caso fossem opostos embargos" (fls. 53-54, e-STJ), o que pode ser razoavelmente interpretado como aviso de arbitramento conjunto futuro entre os Embargos e o cumprimento de sentença.
+5. Tal interpretação se fortalece ao se constatar que foi o que efetivamente ocorreu (fl. 55, e-STJ), apesar de a Agravante aduzir que "não houve em nenhum momento a indicação de cumulação de verbas" (fl. 139, e-STJ). Após a expedição do precatório devido, houve pedido de requisição de valor complementar, já na vigência do CPC/2015, sendo indeferido o pleito de novo arbitramento de honorários haja vista que já tinha sido fixada a verba nos Embargos à Execução (fls. 54-55, e-STJ).
+6. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática que negou provimento ao Recurso Especial da parte ora agravante (fls. 127-129, e-STJ).
+A insurgente requer a reforma da decisão anterior, alegando a inaplicação da Súmula 83/STJ (fls. 133-142, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ANULATÓRIA DE DÉBITO FISCAL. ICMS. PRESTAÇÃO DE SERVIÇOS AUTOMOTIVOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OMISSÃO NÃO ALEGADA. MATÉRIA CONSTITUCIONAL. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Toda a argumentação recursal pode ser sintetizada na seguinte tese: no CPC/1973, "havendo embargos, devem ser arbitrados honorários na execução", pois a jurisprudência do STJ assim determinaria (fl. 138, e-STJ.
+2. A Corte Especial do STJ, no julgamento do REsp 1.520.710/SC, Rel. Ministro Mauro Campbell Marques, julgado em 18/12/2018, - ou seja, mais de um ano após a decisão de minha relatoria indicada (fl. 138, e-STJ) - e sob o rito dos recursos repetitivos, dirimiu a controvérsia relativa à possibilidade de cumulação da verba de honorários fixada nos Embargos à Execução com aquela arbitrada na própria execução contra a Fazenda Pública, vedada sua compensação.
+3. A jurisprudência do STJ, portanto, não determina que haja arbitramento na Execução, como quer a agravante. Reitera-se, portanto, a incidência da Súmula 83/STJ.
+4. Conforme decidido anteriormente, o acórdão questionado salientou que o juízo singular, ao determinar a citação do INSS no cumprimento de sentença, sob a égide do CPC/1973, expressou que "os honorários advocatícios da execução seriam fixados caso fossem opostos embargos" (fls. 53-54, e-STJ), o que pode ser razoavelmente interpretado como aviso de arbitramento conjunto futuro entre os Embargos e o cumprimento de sentença.
+5. Tal interpretação se fortalece ao se constatar que foi o que efetivamente ocorreu (fl. 55, e-STJ), apesar de a Agravante aduzir que "não houve em nenhum momento a indicação de cumulação de verbas" (fl. 139, e-STJ). Após a expedição do precatório devido, houve pedido de requisição de valor complementar, já na vigência do CPC/2015, sendo indeferido o pleito de novo arbitramento de honorários haja vista que já tinha sido fixada a verba nos Embargos à Execução (fls. 54-55, e-STJ).
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram a este Gabinete em 11.9.2020.
+O Agravo Interno não prospera.
+Toda a argumentação recursal pode ser sintetizada na seguinte tese: no CPC/1973, "havendo embargos, devem ser arbitrados honorários na execução", pois a jurisprudência do STJ assim determinaria (fl. 138, e-STJ).
+Sem razão a parte agravante.
+A Corte Especial do STJ, no julgamento do REsp 1.520.710/SC - ou seja, mais de um ano após a decisão de minha relatoria indicada (fl. 138, e-STJ) e sob o Rito dos Recursos Repetitivos -, dirimiu a controvérsia relativa à possibilidade de cumulação da verba de honorários fixada nos Embargos à Execução com aquela arbitrada na própria Execução contra a Fazenda Pública, vedada sua compensação.
+Colaciona-se a ementa do referido julgado (grifos acrescidos):
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO N. 8/2008 DO STJ. ENUNCIADO ADMINISTRATIVO N. 2/STJ. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CONCOMITÂNCIA DE EMBARGOS À EXECUÇÃO. AUTONOMIA RELATIVA DAS AÇÕES. ARBITRAMENTO DE HONORÁRIOS EM CADA UMA DELAS. POSSIBILIDADE. COMPENSAÇÃO DAS VERBAS HONORÁRIAS. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+TESES JURÍDICAS FIXADAS SOB VIGÊNCIA DO CPC/1973.
+2. Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973.
+3. Inexistência de reciprocidade das obrigações ou de bilateralidade de créditos: ausência dos pressupostos do instituto da compensação (art. 368 do Código Civil). Impossibilidade de se compensarem os honorários fixados em embargos à execução com aqueles fixados na própria ação de execução.
+SOLUÇÃO DO CASO CONCRETO
+4. Possibilidade de cumulação da verba honorária fixada nos embargos à execução com a arbitrada na própria execução contra a Fazenda Pública, vedada a compensação entre ambas.
+5. Recurso especial provido. Acórdão sujeito ao regime previsto no art. 543-C do CPC/1973 c/c o art. 256-N do RISTJ.
+(REsp 1.520.710/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 18/12/2018, REPDJe 02/04/2019, DJe 27/02/2019)
+Como visto, a jurisprudência do STJ não determina que haja necessário arbitramento na Execução, como quer a agravante. Reitera-se, portanto, a incidência da Súmula 83/STJ.
+Conforme decidido anteriormente, o acórdão questionado salientou que o juízo singular, ao determinar a citação do INSS no cumprimento de sentença, sob a égide do CPC/1973, expressou que "os honorários advocatícios da execução seriam fixados caso fossem opostos embargos" (fls. 53-54, e-STJ), o que pode ser razoavelmente interpretado como aviso de arbitramento conjunto futuro entre os Embargos e o cumprimento de sentença,
+Tal interpretação se fortalece ao se constatar que foi o que efetivamente ocorreu (fl. 55, e-STJ), apesar de a agravante aduzir que "não houve em nenhum momento a indicação de cumulação de verbas" (fl. 139, e-STJ).
+Após a expedição do precatório devido, houve pedido de requisição de valor complementar, já na vigência do CPC/2015, sendo indeferido o pleito de novo arbitramento de honorários, haja vista que já tinha sido fixada a verba nos Embargos à Execução.
+Observe-se excerto do acórdão (fls. 54-55, e-STJ, grifos acrescidos):
+O entendimento jurisprudencial, no que diz respeito aos honorários advocatícios, na vigência do CPC de 1973, possibilitava a cumulação da verba honorária fixada na execução com aquela fixada nos embargos, podendo, inclusive, ser feita a condenação de forma conjunta, haja vista ambas as ações versarem sobre o valor do débito exequendo.
+(..) Desta forma, é incabível, em execução complementar, a nova condenação do INSS em honorários advocatícios, tendo em vista que a verba honorária foi devidamente fixada nos embargos à execução nº 2006.71.11.003480-1, cujo trânsito em julgado ocorreu em 31/03/2011 (..). A questão, portanto, encontra-se preclusa.
+Desta feita, diante da fixação cumulada dos honorários, correto o entendimento do Tribunal a quo no caso concreto, atraindo-se a Súmula 83/STJ.
+Diante do exposto, nego provimento ao Agravo Interno.
+Por derradeiro, convém advertir que ajuizar recurso protelatório ensejará reconhecimento de litigância de má-fé e aplicação das multas previstas no art. 81 e no art. 1.026, §§ 2º e 3º, do CPC/2015.
+É como voto.
