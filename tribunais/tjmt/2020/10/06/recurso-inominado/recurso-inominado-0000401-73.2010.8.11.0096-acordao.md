@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+TURMA RECURSAL ÚNICA
+
+Número Único
+:
+
+0000401-73.2010.8.11.0096
+Classe:
+
+RECURSO INOMINADO (460)
+Assunto:
+
+[Obrigação de Fazer / Não Fazer, Fornecimento de Medicamentos]
+Relator:
+Des(a).
+LAMISSE RODER FEGURI ALVES CORREA
+
+Turma Julgadora:
+
+[DES(A). LAMISSE RODER FEGURI ALVES CORREA, DES(A). ANTONIO VELOSO PELEJA JUNIOR, DES(A). GONCALO ANTUNES DE BARROS NETO]
+
+Parte(s):
+
+[MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO (RECORRIDO), SUELI ALVES DA GAMA (REPRESENTANTE/NOTICIANTE), ESTADO DE MATO GROSSO - CNPJ: 03.507.415/0001-44 (RECORRENTE), MUNICIPIO DE ITAUBA - CNPJ: 03.238.961/0001-27 (RECORRENTE), MUNICIPIO DE ITAUBA - CNPJ: 03.238.961/0001-27 (REPRESENTANTE), MINISTÉRIO PUBLICO DO ESTADO DE MATO GROSSO (CUSTOS LEGIS), MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO - CNPJ: 03.507.415/0018-92 (CUSTOS LEGIS), MPEMT - ITAÚBA (RECORRIDO), MPEMT - CUIABÁ - JUIZADO ESPECIAL (CUSTOS LEGIS)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a TURMA RECURSAL ÚNICA do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+LAMISSE RODER FEGURI ALVES CORREA, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE, CONHECEU DO RECURSO E DEU-LHE PROVIMENTO. O representante do Ministério Público Dr. Theodosio Ferreira de Freitas: Ratificou o parecer oralmente, manifestando pelo parcial provimento do recurso.
+
+Data da sessão:
+Cuiabá-MT, 06/10/2020
