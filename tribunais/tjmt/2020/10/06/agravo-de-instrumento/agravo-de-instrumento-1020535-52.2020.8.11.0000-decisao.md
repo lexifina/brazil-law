@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pela UNIMED CUIABÁ – COOPERATIVA DE TRABALHO MÉDICO, com o fito de suspender a decisão que, nos autos da Ação de Obrigação de Fazer de no 1045357-79.2020.8.11.0041, ajuizada por MARY CALIX NACHIF, deferiu o pedido liminar de tutela de urgência antecipada e determinou o fornecimento de tratamento domiciliar (home care) e demais serviços médicos, necessários à manutenção da saúde do demandante, sob pena de multa coercitiva.
+Para tanto, a agravante aduz que não foram preenchidos os requisitos autorizadores da tutela jurisdicional concedida na origem, notadamente pela falta de laudo médico que apontasse o quadro clínico de urgência e emergência que exija pronta providência em favor da agravada.
+Alega que o tratamento domiciliar home care constitui mera liberalidade da própria operadora de plano de saúde e não obrigação legal.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, por mais que insista a agravante, da análise cuidadosa das alegações do presente recurso, não se observa a presença dos requisitos legais para a concessão da liminar de efeito suspensivo.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois estão presentes os requisitos autorizadores da tutela jurisdicional, dispostos no artigo 300 do Código de Processo Civil, em especial o grau de probabilidade do direito invocado, consubstanciado na patologia da autora, ora agravada, que depende de cuidados domiciliares permanentes, conforme relatório médico apresentado no id no 38974644.
+O relatório médico em questão detalha o periclitante estado da saúde da agravada, sendo necessário cuidados por meio de serviço de atenção domiciliar, envolvendo equipe multidisciplinar, por tempo indeterminado, com atuação de profissionais tecnicamente qualificados.
+Dessa feita, é possível concluir, desde logo, que a negativa do tratamento prescrito por profissional médico habilitado colocaria em risco a saúde da agravada, o que torna escorreita a decisão que compeliu a operadora de plano de saúde, ora agravante, a autorizar e custear o serviço de home care.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
