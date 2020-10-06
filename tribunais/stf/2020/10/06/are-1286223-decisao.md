@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de São Paulo (eDOC 7, p.2):
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Lei n. 11.866, de 11 de fevereiro de 2019, do Município de Sorocaba, que “dispõe sobre o chamamento de contemplados por futuros programas habitacionais entregues pelo Município de Sorocaba seja feito através de ‘AR’ pelos Correios.”
+    INOCORRÊNCIA DE VÍCIO FORMAL DE INICIATIVA – A utilização de aviso de recebimento (AR) nas correspondências destinadas ao chamamento de contemplados a todas as etapas de futuros programas habitacionais entregues pelo Município de Sorocaba é questão ligada à organização e à gestão dos serviços públicos – Hipótese em que não se contempla assunto de caráter amplo e geral, que deveria ser regulamentado por lei formal, senão competência material do Chefe do Executivo, que poderia ser objeto de decreto.
+    USURPAÇÃO DE COMPETÊNCIA MATERIAL DO CHEFE DO PODER EXECUTIVO – Legislador que invadiu a esfera destinada à gestão municipal, a chamada reserva da administração, editando lei em situação que deveria ter sido definida diretamente pelo Chefe do Poder Executivo, ofendendo, dessa forma, o princípio da separação dos poderes – Desrespeito aos artigos 5º, 24, § 2º, 2 e 47, incisos II, XIV e XIX, a, da Constituição Estadual.
+    Ação procedente.
+    Os embargos de declaração foram desprovidos (eDOC 25).
+    No recurso extraordinário, com fundamento no art. 102, III,  a  , do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXIII, 37, caput, 61, § 1º, “e” e 84, II, VI, “a” e XXVII, todos da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a lei questionada não trata da organização e funcionamento da administração municipal, mas apenas prestigia o direito à informação e os princípios da publicidade e eficiência no âmbito local.
+    A Presidência do Tribunal de Justiça inadmitiu o recurso extraordinário ante a ausência de arguição de repercussão geral da matéria recorrida conforme determina o art. 1.035, § 2°, do CPC e em virtude da incidência dos óbices das Súmulas 279, 280 e 284 do STF (eDOC 13).
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da ação direta de inconstitucionalidade, asseverou que (eDOC 7, p. 8-9):
+    “À luz dos dispositivos constitucionais invocados, a lei impugnada é mesmo inconstitucional.
+    O legislador municipal invadiu a esfera destinada à gestão municipal, a chamada reserva da administração, editando lei em situação que deveria ter sido definida diretamente pelo Chefe do Poder Executivo, ofendendo, dessa forma, o princípio da separação dos poderes.
+    (...)
+    A utilização de aviso de recebimento (AR) nas correspondências destinadas ao chamamento de contemplados a todas as etapas de futuros programas habitacionais entregues pelo município de Sorocaba é questão ligada à organização e à gestão dos serviços públicos. (...).”
+    Eis o teor da Lei nº 11.866, do Município de Sorocaba , que foi objeto da impugnação no Tribunal local:
+    Art. 1º - Que o chamamento de contemplados a todas as etapas de futuros programas habitacionais entregues pelo município de Sorocaba seja feito através de "AR" pelos Correios.
+ Art. 2º - As despesas com a execução da presente Lei correrão por conta de verba orçamentária própria.
+    Art. 3º -Esta Lei entra em vigor na data de sua publicação.
+    Observa-se que o entendimento adotado pelo Tribunal de origem está em dissonância com a jurisprudência desta Corte.
+    O Supremo Tribunal Federal quando do julgamento do ARE-RG 878.911, Relator Ministro Gilmar Mendes,  DJ  e de 11.10.2016 (Tema 917), reconheceu a existência de repercussão geral da matéria e, ao julgar o mérito, reafirmou a jurisprudência dominante sobre a matéria, fixando a seguinte tese:
+    Não usurpa competência privativa do Chefe do Poder Executivo lei que, embora crie despesa para a Administração, não trata da sua estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores públicos (art. 61, § 1º, II, "a", "c" e "e", da Constituição Federal).
+    Não há falar em reserva da iniciativa parlamentar para além das hipóteses taxativamente previstas no texto da Constituição da República Federativa ou Estaduais, por força do princípio da simetria. Os diplomas legais que não criam ou alteram a estrutura ou a atribuição de órgãos da Administração Pública, nem tratam do regime jurídico de servidores públicos, não usurpam a iniciativa do Chefe do Poder Executivo.
+    Assim, ao contrário do disposto no acórdão recorrido, não há ingerência do legislador em assunto inserido na competência privativa do Chefe do Executivo.
+    Acerca do alcance da competência legislativa municipal, destaco trecho da decisão proferida no RE 1.221.929, Rel. Min. Luiz Fux, Dje 05.08.2019:
+    Ora,  in casu  , a lei que institui a atividade de seminários e palestras preventivas de combate ao tráfico de pessoas e erradicação do trabalho escravo nas escolas da rede municipal de ensino do Rio de Janeiro , como bem assentado pelo Tribunal de origem, não importa na alteração de estrutura ou atribuição de órgão do Poder Executivo Municipal, seja da Secretaria de Educação, seja de qualquer outra. Tampouco trata de remuneração ou regime jurídico de servidores municipais. Muito menos se diga que a legislação importou em definir currículo escolar. Ela não criou, suprimiu ou modificou conteúdo de disciplinas escolares.
+    Em tais circunstâncias, o entendimento adotado pelo acórdão recorrido está em harmonia com a tese assentada no julgamento do ARE 878.911, rel. min. Gilmar Mendes, Tema 917 de Repercussão Geral, DJe de 11/10/2016, no sentido de que não usurpa competência privativa do Chefe do Poder Executivo lei que, embora crie despesa para a Administração, não trata da sua estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores públicos (art. 61, § 1º, II, a, c e e, da Constituição Federal) .
+    Demais disso, sobreleva notar, a legislação sub examine ostenta natureza eminentemente educativa, cujo mister é difundir informações a determinado grupo de vulneráveis sobre tema que lhes é sensível, passando ao largo de qualquer intuito de organização interna da Administração (...).
+    Por fim, destaco ainda que, conforme o entendimento reafirmado no Tema 917 da repercussão geral, ainda que a lei questionada implique despesa para a Administração Pública, essa por si só não configura razão para a sua inconstitucionalidade. A criação de gasto público não afasta, necessariamente, a iniciativa do Poder Legislativo de qualquer esfera.
+    Ante o exposto, dou provimento ao recurso extraordinário para julgar improcedente a ação direta de inconstitucionalidade estadual, nos termos dos artigos 932, V, b, do CPC, por estar o acórdão recorrido em confronto com entendimento do Plenário desta Suprema Corte.
+    Publique-se.
+    Brasília, 6 de outubro de 2020.
+    Ministro  Edson Fachin
+    Relator
