@@ -1,0 +1,20 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. LEGITIMIDADE DE PENSIONISTA. INCIDÊNCIA SOBRE PERCENTUAL DE 28,86%. JUROS DE MORA.
+    A alegação de ilegitimidade ativa para o processo de conhecimento é defesa em sede de embargos à execução fundada em sentença, tendo em vista que se encontra ao abrigo da coisa julgada. Precedentes.
+    O percentual de 3,17% remonta a janeiro de 1995, enquanto o reajuste de 28,86% foi estendido aos servidores civis em janeiro de 1993 (Medida Provisória nº 1.704/98). Nessa linha, o cálculo da parcela do percentual de 3,17% deve considerar o correto valor dos vencimentos em janeiro de 1995, o qual já havia sofrido a aplicação do índice de 28,86%.
+    Os juros de mora são devidos em conformidade com o disposto no título exequendo, não havendo falar na sua exclusão no período entre a data do trânsito em julgado da sentença condenatória e a data da propositura da execução.
+    Não incidem juros moratórios entre a data da conta de liquidação e a data da expedição da requisição de pagamento, entretanto, havendo oposição de embargos à execução, inarredável que o lapso temporal entre a elaboração do cálculo e a inscrição do débito em ordem de pagamento aumenta significativamente. Daí que, até que transite em julgado a decisão proferida em embargos do devedor, o período de tempo transcorrido gerou, indubitavelmente, mora no cumprimento da obrigação, não podendo sofrer o credor prejuízo por este atraso no pagamento do débito, que deve ser acrescido dos respectivos juros.” (grifei)
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXI, e 100, §§ 1º e 5º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo, no tocante à ilegitimidade da exequente, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende destacar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (ARE 962.390/PR, Rel. Min. ROSA WEBER – ARE 1.165.275/RJ, Rel. Min. ALEXANDRE DE MORAES – RE 937.278/RS, Rel. Min. LUIZ FUX – RE 994.051/PR, Rel. Min. EDSON FACHIN – RE 1.207.148-AgR/DF, Rel. Min. CELSO DE MELLO, v.g.).
+    Impõe-se observar, de outro lado, a propósito da incidência, ou não, “de juros moratórios no período transcorrido entre a elaboração da conta original até a respectiva homologação”, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 579.431/RS, Rel. Min. MARCO AURÉLIO, nele fixando tese assim consubstanciada:
+    “Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.” (grifei)
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 07 de outubro de 2020.
+Ministro CELSO DE MELLO
+Relator
