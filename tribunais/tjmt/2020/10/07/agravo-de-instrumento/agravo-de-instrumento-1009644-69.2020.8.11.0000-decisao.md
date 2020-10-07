@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1009644-69.2020.8.11.0000
+Recorrente: ANTONIO CARLOS IENERICH e OUTROS
+Recorrido: BANCO DO BRASIL S. A.
+Vistos, etc.
+Trata-se de Recurso Especial interposto por ANTONIO CARLOS IENERICH e OUTROS (id 55200488) com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PRIVADO, assim ementado (id 52605993):
+“RECURSO DE AGRAVO DE INSTRUMENTO – RECUPERAÇÃO JUDICIAL – PRODUTOR RURAL – EMPRESÁRIO INDIVIDUAL – AUSÊNCIA DE UNIFORMIZAÇÃO DA JURISPRUDENCIA – REDAÇÃO EXPRESSA DO ARTIGO 51 DA LEI No 11.101/2005 - DESCUMPRIMENTO DO ARTIGO 48, CAPUT, DA LEI DE RECUPERAÇÃO JUDICIAL - REGISTRO PÚBLICO DE EMPRESA EFETUADO ALGUNS DIAS ANTES DO PEDIDO DE RECUPERAÇÃO JUDICIAL - BIÊNIO LEGAL NÃO COMPROVADO – NATUREZA CONSTITUTIVA DA INSCRIÇÃO PARA O EMPRESÁRIO RURAL – ENUNCIADO 202/CJF - EXIGÊNCIA CONTIDA NO ART. 971 DO CÓDIGO CIVIL – FORMAÇÃO DE LITISCONSORTE ATIVO UNITÁRIO – PESSOAS FÍSICAS E JURÍDICAS – IMPOSSIBILIDADE - DIREITOS E OBRIGAÇÕES DISTINTAS – OFENSA AO ARTIGO 113 DO CPC/15 – EMPRESA QUE NÃO POSSUI NENHUMA ATIVIDADE OPERACIONAL – NÃO SUJEITA À RECUPERAÇÃO JUDICIAL – ARTIGO 47 DA LEI No 11.101/2005 - RECURSO PROVIDO. Até que sobrevenha a uniformização de entendimento no STJ, impõe-se a aplicação, ipsis literis, do artigo 51, inciso V, da Lei no. 11.101/05, o qual estabelece que a recuperação judicial somente poderá ser utilizada por quem for empresário ou sociedade empresária, e regularmente inscrito no Registro Público de Empresas ou Junta Comercial para o caso do empresário se pessoa física há mais de 02 (dois) anos. O artigo 971 do Código Civil faculta ao empresário, cuja atividade rural constitua sua principal profissão, requerer o Registro Público de Empresas Mercantis, situação em que, depois de inscrito, ficará equiparado, para todos os fins, ao empresário sujeito a registro, sendo a natureza dessa inscrição constitutiva. Inteligência do Enunciado 202 do Conselho de Justiça Federal, aprovado na III Jornada de Direito Civil. Para postular a Recuperação Judicial, a Lei 11.101/2005 exige do devedor (artigo 1o) a comprovação do exercício de atividade empresarial de forma regular nos dois anos anteriores ao pedido, cujo prazo se demonstra com a juntada de certidão expedida pela Junta Comercial no caso do empresário individual, seja ele rural ou não rural (artigos. 48 e 51 da LREF). Caso dos autos em que a empresária efetuou seu registro dois dias antes do pedido de recuperação judicial, faltando-lhe, pois, o requisito temporal legal para o acolhimento de seu pedido recuperacional. Não há que se falar em formação de litisconsorte ativo unitário se a comunhão de direitos e obrigações não têm origem comum, bem como as relações jurídicas dos produtores rurais e das empresas jurídicas são distintas, logo, não atendendo o disposto no artigo 113 e seguintes do CPC/15. A empresa que busca o soerguimento, contudo, não possui nenhuma atividade operacional, não faz jus à recuperação judicial, uma vez que não atinge o objetivo do artigo 47 da Lei no 11.101/2005, já que não haverá o necessário fomento e muito menos existirão empregos para serem mantidos.-“ (TJMT – Segunda Câmara de Direito Privado – RAI n. 1009644-69.2020.811.0000, Relator: Desa MARILSEN ANDRADE ADDÁRIO, Julgado em 29/07/2020).
+Não foram apresentados Embargos de Declaração.
+Afirma a parte Recorrente que o acórdão deve ser reformado ante a suposta afronta aos artigos 48 e 51, V, ambos da Lei n. 11.101/05 e artigos 970 e 971, ambos do Código Civil, uma vez que é regular a atividade empresarial do produtor rural independentemente do registro na junta comercial, sendo que tal registro possui efeitos ex tunc, retroagindo desde o início da atividade rural, mostrando-se irrelevante o registro na junta comercial por 02 (dois) anos antes da propositura da recuperação judicial, devendo comprovar tal prazo como produtor rural por qualquer meio de prova.
+Aponta a existência de dissídio jurisprudencial apto a admitir o recurso ao Superior Tribunal de Justiça, apontando como acórdão paradigma o REsp n. 1.800.032/MT, dentre outros julgados.
+Recurso tempestivo e preparado, conforme certidões id 56399454 e 56558971.
+Indeferido o efeito suspensivo na decisão de id 56722484.
+Contrarrazões - id 59919976.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos.
+A Câmara julgadora, quando do julgamento do instrumental, entendeu que, embora o exercício da atividade empresária possa ser comprovado por diversas formas, a inscrição regular na Junta Comercial há mais de 02 (dois) anos é condição necessária para o produtor rural pleitear a sua recuperação judicial, visto tratar-se de ato constitutivo, e não meramente declaratório.
+Nesse contexto, ao apontar violação aos arts. 48 e 51, V, ambos da Lei n. 11.101/05 e 970 e 971, ambos do Código Civil, defendem os Recorrentes que a regularidade da atividade empresarial do produtor rural independentemente do registro na Junta Comercial, o qual possui efeitos ex tunc, retroagindo desde o início da atividade rural, mostrando-se irrelevante o registro na Junta Comercial por 02 (dois) anos antes da propositura da recuperação judicial, prazo este que pode ser comprovado por qualquer meio de prova.
+Diante do quadro apresentado, observa-se que houve o devido prequestionamento da matéria acima mencionada, o que impede a incidência das Súmulas 211 do STJ, 282 e 356 do STF. Além do mais, a matéria não se reporta ao conjunto fático-probatório dos autos (não aplicação da Súmula 7 do STJ), e nem mesmo incide no caso concreto outra súmula impeditiva, circunstâncias que viabilizam o prosseguimento do recurso.
+Aliás, como salientado anteriormente, esta Vice-Presidência afetou pela sistemática de recursos repetitivos aludida discussão, que havia sido convertida na controvérsia n. 29 do STJ, mas que se encontra desafetada no momento, ante a rejeição tácita por parte do Ministro Relator no âmbito do Superior Tribunal de Justiça.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso pela aduzida afronta legal.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 06 de outubro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
