@@ -1,0 +1,34 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+EMBARGOS DE DECLARAÇÃO No 1016484-95.2020
+EMBARGANTE: JOESTER EMANUELLITA MOHN DE ABREU.
+EMBARGADO: IZONILDES PIO DA SILVA.
+EMENTA – EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO – TUTELA DE URGÊNCIA INCIDENTAL QUE DETERMINA A PENHORA E VALORES NO ROSTO DOS AUTOS DE PROCESSO TRABALHISTA – PRETENSÃO RECURSAL QUE QUESTIONA A VALIDADE DO TÍTULO E A IMPENHORABILIDADE DA VERBA SALARIAL – INSURGÊNCIAS NÃO FORAM OBJETO DE APRECIAÇÃO NA DECISÃO AGRAVADA – IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTE TRIBUNAL SOBRE TAIS QUESTÕES, SOB PENA DE SUPRESSÃO DE UM GRAU DE JURISDIÇÃO – RECURSO NÃO CONHECIDO – AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC – IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA – EMBARGOS REJEITADOS.
+O artigo 1.022 do Código de Processo Civil dispõe que os embargos de declaração têm a finalidade de expungir do julgado eventual omissão, contradição ou obscuridade, além de possibilitar a correção de erro material, não se destinando à rediscussão das teses adotadas na decisão, como pretende a parte embargante.
+DECISÃO MONOCRÁTICA
+Trata-se de embargos de declaração opostos por JOESTER EMANUELLITA MOHN DE ABREU contra a decisão monocrática deste Relator que não conheceu do agravo de instrumento interposto por ele próprio, cuja ementa seguiu vazada nos seguintes termos:
+“E M E N T A – DECISÃO MONOCRÁTICA – AGRAVO DE INSTRUMENTO – EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – TUTELA DE URGÊNCIA INCIDENTAL QUE DETERMINA A PENHORA E VALORES NO ROSTO DOS AUTOS DE PROCESSO TRABALHISTA – PRETENSÃO RECURSAL QUE QUESTIONA A VALIDADE DO TÍTULO E A IMPENHORABILIDADE A VERBA SALARIAL – INSURGÊNCIAS NÃO FORAM OBJETO DE APRECIAÇÃO NA DECISÃO AGRAVADA – IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTE TRIBUNAL SOBRE TAIS QUESTÕES, SOB PENA DE SUPRESSÃO DE UM GRAU DE JURISDIÇÃO – RECURSO NÃO CONHECIDO.” (ID. 54955478).
+Em suas razões, de Id. 54996477, o embargante aponta a ocorrência de vício de omissão no decisum, pois no seu entender este magistrado “em nada se pronunciou quanto a ausência de “periculum in mora” também impugnada no agravo não conhecido”.
+Forte neste argumento, pede o acolhimento dos aclaratórios, com aplicação de efeito infringente, para modificar o decisum e prover o agravo por ele interposto.
+Manifestação da parte embargada, no Id. 56116961, pelo desprovimento do recurso.
+Eis os relatos necessários.
+Fundamento e DECIDO.
+Os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, omissão ou contradição, não sendo viável a sua oposição com o escopo único de prequestionamento ou reapreciação da matéria, salvo nos casos em que, havendo a presença de quaisquer dos vícios apontados, sua correção leve à modificação da decisão embargada. Admite-se, ainda, a oposição de aclaratórios para correção de erro material (art. 1.022 do CPC).
+Pela análise das razões apresentadas nos embargos de declaração, tem-se que a parte recorrente entendeu perfeitamente o desfecho dado ao recurso e apenas reagita questão já superada, por não se conformar com o resultado obtido.
+No julgado embargado, restou bem consignado que o agravo de instrumento é um recurso secundum eventum litis, ou seja, tem a sua matéria de análise restrita ao acerto ou desacerto técnico da decisão recorrida, não podendo extrapolar para a matéria de fundo, sob pena de supressão de instância.
+No caso, os argumentos apresentados nas razões recursais para questionar a legalidade do título executivo e, consequentemente determinar o levantamento da penhora realizada no rosto dos autos de ação trabalhista, não foram objeto da decisão agravada. Aliás, tal pretensão sequer foi submetida à análise do Juízo de primeiro grau.
+Assim, o exame dos temas expostos neste recurso diretamente pelo Tribunal implicará em inadmissível decisão supressiva de primeiro grau, impossibilitando a devida discussão no âmbito próprio.
+Ora, em se tratando de agravo de instrumento, somente a decisão agravada é devolvida ao conhecimento desta Corte e, no caso, não foi apresentada qualquer assertiva quanto aos seus fundamentos.
+Sendo assim, nem mesmo as matérias que envolvam temática de ordem pública (que não sejam objeto da decisão agravada), há de ser conhecidas, diante da limitação da devolutividade da temática recursal. Tal prática, inclusive, é repudiada pelo nosso ordenamento jurídico. Senão vejamos:
+“AGRAVO. CUMPRIMENTO DE SENTENÇA. DETERMINAÇÃO DE PRACEAMENTO. AUSÊNCIA DE INTIMAÇÃO DA AVALIAÇÃO E PENHORA DO IMÓVEL. MATÉRIA AINDA NÃO APRECIADA EM PRIMEIRO GRAU. FALTA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO NESSE ASPECTO. Considerando que os temas pertinentes a eventuais nulidades por falta de intimação na avaliação e penhora não foram ainda objeto de decisão em primeiro grau, inexiste gravame ensejador de manejo de recurso, razão pela qual não é de ser conhecido nessa parte, sob pena de supressão de um grau de jurisdição.” (TJSP. RAI no 2222973-43.2014.8.26.0000, 31a Câmara de Direito Privado, Rel. Des. ADILSON DE ARAÚJO, J. em: 17.03.2015).
+“RECURSO DE AGRAVO DE INSTRUMENTO - AÇÃO DE REPARAÇÃO DE DANOS - PRELIMINARES - ILEGITIMIDADE PASSIVA - MATÉRIA AINDA NÃO APRECIADA PELO JUÍZO A QUO - SUPRESSÃO DE INSTÂNCIA - NÃO CONHECIMENTO. A questão que ainda não foi apreciada pelo julgador singular não pode ser analisada originariamente no Tribunal, sob pena de supressão de instância e ofensa ao princípio do duplo grau de jurisdição [...]”. (TJMT. RAI no 19.454/2011, 2a Câmara Cível, Rela. Desa. Maria Helena Gargaglione Póvoas, J. em: 06.07.2011).
+“AGRAVO REGIMENTAL – MATÉRIA NÃO APRECIADA NA DECISÃO ALVEJADA– SUPRESSÃO DE INSTÂNCIA - ART. 557, CPC – SEGUIMENTO NEGADO – AGRAVO DESPROVIDO. Nega-se seguimento ao recurso de agravo de instrumento quando a matéria recorrida não foi apreciada pelo juízo de primeiro grau, sob pena de suprimir instância jurisdicional.” (TJMT. RAR no 132345/2015. 5a Câmara Cível. Rel. Des. Carlos Alberto Alves da Rocha, J. em: 14.10.2015).
+Portanto, em razão de tais fundamentos, não vejo no julgado qualquer vício a ser sanado e, nesta hipótese, o recurso deve ser rejeitado, pois a matéria foi apreciada na oportunidade do acórdão recorrido, permitindo à parte, se assim desejar, a interposição futura de recurso dirigido às Cortes Excepcionais de Justiça.
+Há de ser considerado, ainda, que o prequestionamento, para eventual interposição de recursos aos Tribunais Superiores, só é viável quando o acórdão padece de vícios a que se refere o art. 1.022 do CPC, o que não se verifica na espécie.
+Advirto a parte embargante que a reiteração da tese aqui tratada ensejará a aplicação da sanção descrita no art. 1.026, § 2o, do CPC.
+Dispositivo.
+Ante ao exposto, REJEITO os embargos de declaração.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+RELATOR
