@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1035771-23.2017.8.11.0041
+RECORRENTE: COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS OURO VERDE DE MATO GROSSO - SICREDI OURO VERDE MT
+RECORRIDO: HECOSERVICE CONSTRUÇÕES E SANEAMENTO LIMITADA
+Vistos, etc.
+Certifique-se se houve contrarrazões em face do Recuso Especial de id 56037454.
+Cumpra-se.
+Cuiabá/MT, 06 de outubro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
