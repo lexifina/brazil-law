@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios confirmou o entendimento do Juízo quanto à nulidade da pena administrativa de apreensão de veículo. No extraordinário, o recorrente aponta violados os artigos 30, incisos I e V, e 32, §1º, da Constituição Federal. Afirma a competência do Distrito Federal para legislar sobre transporte local. Discorrendo sobre o artigo 28 da Lei distrital nº 239/92, sustenta caracterizar fraude a atividade de transporte de passageiros em qualquer tipo de veículo. Alude às consequências econômicas e sociais da questão em jogo.
+    2. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. AÇÃO ANULATÓRRIA DE ATO ADMINISTRATIVO. AUTO DE INFRAÇÃO. TRANSPORTE REMUNERADO DE PASSAGEIROS NÃO AUTORIZADO. CONSTITUCIONALIDADE DA LEI N° 239/92, ALTERADA PELO LEI N° 953/95. VEÍCULO DE PASSEIO. MULTA. APREENSÃO. INAPLICABILIDADE. ARTIGO 28 DA LEI N° 239/92, ALTERADA PELO N° 953/95. PREVISÃO DA CONDUTA NO ARTIGO 231, INCISO VIII, CÓDIGO DE TRÂNSITO BRASILEIRO.
+    – A Lei Distrital n° 239/92, alterada pela Lei n° 953/95, ao regulamentar o sistema de transporte público coletivo do DF, não extrapolou sua competência. Agiu tão comente dentro da competência legislativa que lhe era reservada pelo art. 30, V, interpretado conjuntamente com o art. 32, § 1°, ambos da Constituição Federal.
+    – O veículo multado e apreendido pelos agentes do DETRAN e do DFTRANS, por ser considerado um veículo de passeio, não possui as características exigíveis para fraudar a operação de transporte coletivo, fazendo-se passar por permissionário do Serviço de Transporte Público Alternativo do DF. Inaplicável, portanto, a norma insculpida no artigo 28 da Lei Distrital n° 239/92, alterada pela Lei n° 953/95.
+    – A conduta de transportar pessoas de forma remunerada e não autorizada por veículos desse jaez não configura fraude administrativa, na forma como estabelece a referida Lei Distrital, mas mera infração de trânsito, nos moldes estabelecidos no artigo 231, inciso VIII, do Código de Trânsito Brasileiro, que prevê tão somente a retenção do veículo no local da infração para a aplicação da multa.
+    – Não há que se falar em aplicação do artigo 270, §4°, do Código de Trânsito Brasileiro, se possível a regularização da infração com o desembarque dos passageiros supostamente transportados irregularmente no veículo de passeio, nos moldes do § 1° daquele mesmo preceptivo legal, e com a consequente liberação do veículo.
+    – Recurso desprovido. Unânime.
+    Descabe aplicar ao processo o entendimento firmado pelo Supremo no julgamento, sob a sistemática da repercussão geral, no recurso extraordinário nº 661.702, em que assentada a constitucionalidade de previsão normativa local voltada a coibir fraude considerado o serviço público de transporte coletivo. O Tribunal de origem reconheceu a constitucionalidade do artigo 28 da Lei distrital nº 239/92, afastando sua incidência a partir das características do veículo. Divergir desse entendimento demandaria o reexame de matéria fática e legal, o que é vedado em sede extraordinária.
+    3. Ante o exposto, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 8 de outubro de 2020.
+Ministro MARCO AURÉLIO
+Relator
