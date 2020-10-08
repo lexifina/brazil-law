@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Wanderley Gomes de Rezende, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no agravo regimental no AREsp nº 1.683.178/MG, Relator o Ministro Joel Ilan Paciornik.
+    A impetrante alega, em síntese, estarem presentes os requisitos necessários à aplicação do postulado da insignificância. Aduz, para tanto, que, “não foi encontrada nenhuma arma de fogo na residência do recorrente, tão somente duas munições”.
+    Logo, o paciente “foi condenado por possuir ínfima quantidade de munição, desacompanhada de arma de fogo”.
+    Na sua visão, “conduta perpetrada se mostra atípica, haja vista a absoluta falta de possibilidade de lesão ou de perigo de lesão ao bem jurídico tutelado, qual seja, a incolumidade pública.”
+    Defende, ainda, que
+    “Diante da reincidência que pesa sobre o agravante e que foi o fundamento principal da r. decisão, a defesa destaca que o princípio da insignificância não se deve ser analisado com base critérios subjetivos e sim objetivos, que significa afirmar que a análise consiste em verificar se o fato tem ou não relevância para o Direito Penal, sob o prisma da fragmentariedade e da intervenção mínima.
+    As circunstâncias de ordem subjetiva, como a reincidência e/ou maus antecedentes, não impedem o reconhecimento do fato como bagatelar, sob pena de se implementar, no âmbito da caracterização do crime, o Direito Penal do Autor.
+    Assim, a reiteração delitiva não é hábil a afastar a incidência do princípio da insignificância, pois se julga o fato delitivo em si e não o seu agente.”
+    Requer, liminarmente, a concessão da ordem para absolver o paciente,
+    “ante a atipicidade material, da i acusação de posse irregular de munição de uso permitido, em virtude da insignificância de sua conduta;
+    2. Subsidiariamente, caso não se entenda pela aplicação do princípio da insignificância ao caso concreto, que seja ao menos aplicado o regime ABERTO em favor do paciente (...)”
+    É o relatório.
+    Decido.
+    Transcrevo a ementa do julgado questionado:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÃO DE ARMA DE FOGO DE USO PERMITIDO. ART. 12 DA LEI N. 10.826/2003. DUAS MUNIÇÕES DESACOMPANHADAS DE ARMAMENTO. RÉU REINCIDENTE. TIPICIDADE FORMAL E MATERIAL. PERIGO À INCOLUMIDADE PÚBLICA EVIDENCIADO. REPROVABILIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+    1. No caso, tem-se a impossibilidade de aplicação do princípio da bagatela, pois o recorrente é reincidente e possui maus antecedentes, não havendo como se reconhecer o reduzido grau de reprovabilidade da conduta, a atrair a aplicação do referido princípio, em consonância com a orientação jurisprudencial desta Corte. 2. Agravo regimental desprovido.” (eDoc. 2)
+    O julgado proferido pela Quinta Turma não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Com efeito, como bem assentou o Superior Tribunal de Justiça, não se mostra possível acatar a tese de irrelevância material da conduta praticada pelo paciente, pois ele reincidente e possui maus antecedentes, o que indica, portanto, contumácia delitiva.
+    Fica, portanto, obstada a aplicação do princípio da insignificância, na linha da tranquila jurisprudência da Corte (HC nº 102.088/RS, Primeira Turma, Relatora a Ministra Cármen Lúcia DJe de 21/5/10; HC nº 107.138/RS, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 30/5/11; RHC nº 112.870/DF, Primeira Turma, de minha relatoria, DJe de 27/8/12; HC nº 117.083/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/3/14).
+    Anote-se, ainda, que o Tribunal Pleno, ao denegar o HC nº 123.108/MG, o HC nº 123.533/SP e o HC nº 123.734/MG (sob a relatoria do Ministro Roberto Barroso), consolidou o entendimento já existente no sentido de que a habitualidade delitiva específica ou a reincidência, obstam a aplicação do princípio da insignificância (DJe de 1º/2/16).
+    Destaco, ainda, recentes julgados da Corte:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO-APLICAÇÃO. CONTUMÁCIA DELITIVA. PRECEDENTES. 1. O entendimento do Supremo Tribunal Federal é firme no sentido de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação; (iii) grau reduzido de reprovabilidade do comportamento; (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede, em regra, a aplicação do princípio. 2. Na hipótese, embora se trate de paciente denunciada pela prática do furto de produtos avaliados em R$ 40,00, os autos dão conta da reincidência da acionante, bem como de maus antecedentes. De modo que não se mostra possível a adoção do princípio da insignificância, à luz da jurisprudência desta Corte. 3. Agravo regimental a que se nega provimento.” (HC nº 187.886-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 23/9/20)
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERÂNCIA DELITIVA.
+    1. A orientação firmada pelo Plenário do SUPREMO TRIBUNAL FEDERAL é no sentido de que a aferição da insignificância da conduta como requisito negativo da tipicidade, em crimes contra o patrimônio, envolve um juízo amplo, ‘que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados’ (HC 123.533, Relator Min. ROBERTO BARROSO, Tribunal Pleno, DJe de 18/2/2016).
+    2. Busca-se, desse modo, evitar que ações típicas de pequena significação passem a ser consideradas penalmente lícitas e imunes a qualquer espécie de repressão estatal, perdendo-se de vista as relevantes consequências jurídicas e sociais desse fato decorrentes.
+    3. A aplicação do princípio da insignificância não depende apenas da magnitude do resultado da conduta. Essa ideia se reforça pelo fato de já haver previsão na legislação penal da possibilidade de mensuração da gravidade da ação, o que, embora sem excluir a tipicidade da conduta, pode desembocar em significativo abrandamento da pena ou até mesmo na mitigação da persecução penal.
+    4. Não há como afastar o elevado nível de reprovabilidade na conduta, notadamente por se tratar de agente que, além de já ter sido condenado, em primeira instância, pelo crime de roubo, ostenta maus antecedentes por envolvimento em crimes contra o patrimônio. Em consequência, tampouco cabe falar em manifesta atipicidade a justificar a extinção prematura da ação penal.
+    5. Nego provimento ao agravo regimental.” (HC nº 142.374-AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe 12/4/18).
+    Ante o exposto, nos termos do art. 192, caput, do Regimento Interno da Corte, denego a ordem de habeas corpus.
+    Publique-se.
+    Brasília, 8 de outubro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
