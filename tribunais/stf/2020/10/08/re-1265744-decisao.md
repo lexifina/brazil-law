@@ -1,0 +1,26 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pela Quarta Turma de Recursos dos Juizados Especiais Cíveis de Criciúma/SC, está assim ementado:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. POLICIAL MILITAR DA RESERVA. AÇÃO DECLARATÓRIA DE COBRANÇA DE ABONO DE PERMANÊNCIA NÃO AUFERIDO. SENTENÇA DE PROCEDÊNCIA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a ADO 28/SP, Rel. Min. CÁRMEN LÚCIA, fixou entendimento que torna acolhível a pretensão deduzida pela parte ora recorrente:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. APOSENTADORIA ESPECIAL PARA POLICIAIS FEMININAS CIVIS E MILITARES. ART. 40, § 1º E § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AÇÃO JULGADA IMPROCEDENTE.
+    1. Inexistência de omissão inconstitucional relativa à aposentadoria especial das servidoras da Polícia Militar. A Lei Complementar n. 144/2014, norma geral editada pela União nos termos do art. 24, § 4º, da Constituição da República, é aplicável às servidoras da Polícia Civil do Estado de São Paulo. Precedentes.
+    2. O art. 42, § 1º, da Constituição da República preceitua: a) o regime previdenciário próprio dos militares, a ser instituído por lei específica estadual; b) não contempla a aplicação de normas relativas aos servidores públicos civis para os militares, ressalvada a norma do art. 40, § 9º, pela qual se reconhece que ‘o tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente para efeito de disponibilidade’. Inaplicabilidade do art. 40, §§ 1º e 4º, da Constituição da República, para os policiais militares. Precedentes.
+    3. Ação direta de inconstitucionalidade por omissão julgada improcedente.” (grifei)
+    Impende ressaltar, por oportuno, ante a inquestionável procedência de suas observações, a seguinte passagem do voto proferido pela eminente Ministra CÁRMEN LÚCIA, por ocasião do referido julgamento:
+    “16. Ao comentar essas normas, José Afonso da Silva esclarece:
+    ‘A Emenda Constitucional 18/1998 modificou a Seção III do Capítulo VII do Título III da Constituição, que compreende apenas o art. 42. Determinou que a rubrica da Seção, que era ‘Dos Servidores Públicos Militares’, passasse a ser ‘Dos Militares dos Estados, do Distrito Federal e dos Territórios’. (…) A intenção confessada foi a de tirar dos militares o conceito de ‘servidores públicos’ que a Constituição lhes dava, visando com isso a fugir ao vínculo com os servidores civis, que esta lhes  impunha.
+    Sua organização e seu regime jurídico [dos militares], desde a forma de investidura até as formas de inatividade, diferem fundamentalmente do regime dos servidores civis. (…)
+    Este artigo relaciona-se com o art. 144, V, §§ 5º e 6º, que têm a Polícia Militar e os Corpos de Bombeiros Militar como forças públicas destinadas à execução dos serviços de segurança pública’ (SILVA, José Afonso. Comentário Contextual à Constituição. São Paulo: Malheiros, 2008, p. 377-378).” (grifei)
+    Cumpre assinalar, finalmente, no que concerne à própria controvérsia suscitada nestes autos, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 1.217.388-AgR/SC, Rel. Min. CELSO DE MELLO – RE 1.218.701-AgR/SC, Rel. Min. GILMAR MENDES – RE 1.225.239/SC, Rel. Min. ROBERTO BARROSO, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. POLICIAL MILITAR. ABONO DE PERMANÊNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – O regime a que submetem os militares não se confunde com aquele aplicável aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios.
+    II – Não se aplica ao militar o abono de permanência devido aos servidores públicos civis.
+    III – Agravo regimental a que se nega provimento.”
+    (ARE 1.058.688-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a julgar improcedente  a pretensão deduzida por Julio Cesar Silvestre, ora recorrido, invertidos os ônus sucumbenciais.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 08 de outubro de 2020.
+Ministro CELSO DE MELLO
+Relator
