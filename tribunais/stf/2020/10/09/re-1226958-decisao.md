@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. ACÓRDÃO EM DISSONÂNCIA COM o·~ RE N.º 574.706/PR, JULGADO EM SEDE DE REPERCUSSÃO GERAL. ADEQUAÇÃO. APELAÇÃO IMPROVIDA.
+    1. O Supremo Tribunal Federal, em recurso representativo da controvérsia (RE 574.706/PR) firmou entendimento de que `O valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base de cálculo dessas contribuições (PIS e COFINS), que são destinadas ao financiamento da seguridade social’.
+    2. Tendo o acórdão anteriormente proferido firmado, em relação ao PIS e COFINS, entendimento diametralmente diverso, necessária se faz sua adequação, nos termos do art. 1040, inc. II, do Código de Processo Civil.
+    3. Aplica-se a Lei 118/2005, que estabeleceu o prazo prescricional para compensação de repetição de indébito (RE 566.621/RS).
+    4. Apelação improvida” (pág. 86 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa ao art. 195, I, b, da mesma Carta. Para tanto, sustenta-se que a
+    “[...] a decisão merece ser reformada quando consignou que a tese firmada pelo Supremo Tribunal Federal, no julgamento do RE 574. 706/PR é: ‘valor arrecadado a título de ICMS não se incorpora, ao patrimônio do contribuinte e dessa forma, não pode integrar a base de cálculo destas contribuições (PIS e COFINS), que são destinadas ao financiamento da seguridade social’, quando, na verdade, trata-se de tese diversa daquela publicada pelo Órgão Julgador.
+    A tese fixada pelo Plenário - o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS - não determina que apenas o ICMS arrecadado deva ser excluído da base de cálculo das referidas contribuições, e, sim, o ICMS destacado nas notas fiscais” (pág. 84 do documento eletrônico 3).
+    Bem examinados os autos, verifico que o Tribunal de origem aplicou a tese firmada no Tema 69 da Repercussão Geral (RE 574.706-RG/PR), sob o fundamento de que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte, de modo que não pode integrar a base de cálculo do PIS e da COFINS.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 574.706-RG/PR (Tema 69 da Repercussão Geral), de relatoria da Ministra Cármen Lúcia, fixou tese no sentido de que o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS. Dessa decisão foram opostos embargos de declaração buscando a modulação dos efeitos do julgado paradigma, bem como o esclarecimento de outros pontos, tais como qual ICMS deve ser excluído da base de cálculo do PIS e da COFINS, se o destacado ou o recolhido.
+    Assim, como há pendência de questão relevante para a solução da causa, mostra-se adequado o retorno dos autos à origem para aguardar a conclusão definitiva do citado julgamento. Com esse mesmo entendimento, indico as seguintes decisões, entre outras: RE 1.210.335-TPI/SC, Rel. Min. Roberto Barroso; RE 1.230.123/SC, Rel. Min. Gilmar Mendes; RE 1.222.467/SC, Rel. Min. Cármen Lúcia; RE 1.232.994/PR, Rel. Min. Celso de Mello; e RE 1.211.396/SC, de minha relatoria.
+    Isso posto, determino a devolução destes autos à origem a fim de que seja observado o disposto nos arts. 1.039, 1.040 e 1041 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 9 de outubro de 2020.
+Ministro Ricardo Lewandowski
+Relator
