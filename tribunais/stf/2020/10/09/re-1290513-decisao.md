@@ -1,0 +1,34 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado (Doc. 7):
+    “AÇÃO RESCISÓRIA — ACÓRDÃO DA TERCEIRA CÂMARA CÍVEL EM CONFORMIDADE COM ENTENDIMENTO DA PRIMEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA À ÉPOCA DO JULGAMENTO — SUPERVENIÊNCIA DE DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM SENTIDO CONTRÁRIO, EM SEDE DE REPERCUSSÃO GERAL — NÃO APLICAÇÃO — VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI, (EM SENTIDO LATO) — ARTIGO 14, § 4º, DA LEI Nº 212.016, DE 7 DE AGOSTO DE 2009, E ARTIGO 100, DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL — NÃO CONSTATAÇÃO.”
+    No apelo extremo (Doc. 10), interposto com amparo no art. 102, III, "a", o recorrente alega violação ao art. 100 da Constituição Federal, sustentando, em síntese, que todos os débitos da Fazenda Pública devem ser pagos por precatórios. Aduz, ainda, que o entendimento firmado no acórdão recorrido diverge do Tema 831, da repercussão geral.
+    É o relatório. Decido.
+    Cuida-se de matéria eminentemente constitucional, devidamente prequestionada na instância de origem. Assim, preenchidos todos os pressupostos de admissibilidade do apelo extremo, passo a análise do mérito.
+    Assiste razão ao recorrente.
+    No caso, foram os seguintes os fundamentos do acórdão recorrido para decidir a controvérsia (Doc. 7, fls. 5-15):
+    “O dispositivo acoimado de ser violado é o art. 14, § 4º da Lei nº 12.016, de 7 de agosto de 2009, e o artigo 100, da Constituição da República Federativa do Brasil.
+    É esta a ementa do acórdão rescindendo:
+    […]
+    Nele, portanto, está bem explicitado que o pagamento de diferenças pecuniárias entre a data da impetração do mandado de. segurança e a decisão de mérito não está sujeito ao regime de precatórios, em conformidade com o entendimento da Primeira Seção do Superior Tribunal de Justiça, do ano de 2013, que é taxativa no sentido de que "o pagamento dos vencimentos e demais vantagens pecuniárias devidos ao servidor público, atinentes ao interstício de tempo compreendido entre a data da decisão concessiva da segurança e a data do efetivo cumprimento, é feito mediante inclusão em folha suplementar de pagamento, não se aplicando o regime do precatório, na forma prescrita no art. 100, caput, da Constituição Federal c.c. o art. 730 do Código de Processo Civil. Precedentes: AgRg no REsp 1.200.890/BA, Rel. Min. Herman Benjamin, Segunda Turma, Die de 04/02/2011; AgRg nos EDcl no Ag 814.919/GO, 5.9Turma, Rel. Min. Jorge Mussi, ale de 13/09/2010" (STJ, Primeira Seção, AgRg nos EDcl no MS 17499/D.F, relator Ministro Mauro Campbell Marques, publicado no Diário da Justiça Eletrônico em 18 de abril de 2013).
+    Já a superação desse entendimento decorreu do julgamento do RE 889173/MS (tema 831), em repercussão geral, ocorrido em 7 de agosto de 2015, no qual o Supremo Tribunal Federal decidiu em acórdão assim ementado:
+    […]
+    Entretanto, é necessário registrar que a Terceira Câmara Cível julgou o reexame com apelação, autos nº 38817/2013, em 29 de julho de 2014, e o acórdão rescindendo transitou em julgado no dia 4 de setembro de 2014 (fls. 278, volume 11); logo, antecede o entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral (Tema 831), em julgamento ocorrido na data de 7 de agosto de 2015.
+    […]
+    Portanto, a superveniência de decisão do Supremo Tribunal Federal em sentido contrário ao acórdão rescindendo, ainda, que em sede de repercussão geral, não autoriza a rescisão de acórdão transitado em julgado, com fundamento em violação a literal disposição de lei, visto que a decisão da terceira Câmara Cível prolatada em 2014 está em consonância com entendimento da Primeira Seção do Superior Tribunal de Justiça, ano de 2013.”
+    Sobre a matéria, o Plenário desta CORTE, no julgamento do RE 889.173-RG (Rel. Min. LUIZ FUX, Tema 831), fixou a seguinte tese:
+    “O pagamento dos valores devidos pela Fazenda Pública entre a data da impetração do mandado de segurança e a efetiva implementação da ordem concessiva deve observar o regime de precatórios previsto no artigo 100 da Constituição Federal.”
+    O precedente paradigma encontra-se assim ementado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL. MANDADO DE SEGURANÇA. VALORES DEVIDOS ENTRE A DATA DA IMPETRAÇÃO E A IMPLEMENTAÇÃO DA ORDEM CONCESSIVA. SUBMISSÃO AO REGIME DE PRECATÓRIOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.”
+    Verifica-se, portanto, que, ao afastar o regime de precatório na hipótese dos autos, o Tribunal de origem divergiu desse entendimento. No mesmo sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL CIVIL. DECISÃO CONCESSIVA DE MANDADO DE SEGURANÇA. DÉBITO DA FAZENDA PÚBLICA. PAGAMENTO MEDIANTE O REGIME DE PRECATÓRIOS. AGRAVO A QUE SE NEGA PROVIMENTO. I – Conforme jurisprudência desta Corte, é necessária a expedição de precatório para fins de pagamento de débitos da Fazenda Pública decorrente de sentença concessiva de mandado de segurança. II – Agravo regimental a que se nega provimento.” (RE 657.674-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 30/5/2014)
+    “DIREITO PROCESSUAL CIVIL. DÉBITOS DA FAZENDA PÚBLICA. DECISÃO CONCESSIVA DE MANDADO DE SEGURANÇA. PAGAMENTO SUBMETIDO AO REGIME DE PRECATÓRIO. A jurisprudência desta Corte é firme no sentido de que os débitos da Fazenda Pública oriundos de decisão concessiva de mandado de segurança devem ser pagos pelo regime de precatório. Precedentes. Agravo regimental conhecido e não provido.” (ARE 639.219-AgR, ROSA WEBER, Primeira Turma, DJe DE 1º/10/2012)
+    “PRECATÓRIO. Determinação de pagamento imediato. Inadmissibilidade. Grave dano à ordem e economia públicas. Ordem cronológica. Observância obrigatória. Suspensão de segurança deferida. Agravo regimental improvido. Há risco de grave lesão à ordem e à economia públicas na decisão judicial que determina imediato pagamento de precatórios de valores elevados, sem obediência à ordem cronológica.” (SS 4090-AgR, Rel. Min. CEZAR PELUSO, Tribunal Pleno, DJe de 14/3/2011).
+    Diante do exposto, nos termos do art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, para julgar procedente a Ação Rescisória, de modo a que se observe o regime dos precatórios. Invertidos os ônus sucumbenciais.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 9 de outubro de 2020.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
