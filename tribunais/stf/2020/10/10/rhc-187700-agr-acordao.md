@@ -1,0 +1,618 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+10/10/2020
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 187.700 S ÃO
+PAULO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. CELSO DE MELLO
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: ISTVAN MERCHENTHALER
+: ALBERTO ZACHARIAS TORON E OUTRO(A/S)
+
+E M E N T A: RECURSO ORDINÁRIO EM “HABEAS CORPUS” –
+RÉU CONDENADO A PENA RECLUSIVA INFERIOR A 08 (OITO)
+ANOS – ESTIPULAÇÃO DE CUMPRIMENTO DE PENA EM REGIME
+INICIAL FECHADO – POSSIBILIDADE – NECESSIDADE, CONTUDO,
+DE
+TAL
+FIXAÇÃO
+INICIAL
+RESULTAR
+DE
+DECISÃO
+ADEQUADAMENTE FUNDAMENTADA (SÚMULA 719/STF) –
+INEXISTÊNCIA, NO CASO, DE QUALQUER FUNDAMENTAÇÃO
+JUSTIFICADORA
+DA
+CONCRETA
+NECESSIDADE
+DE
+O
+SENTENCIADO INICIAR O CUMPRIMENTO DA PENA EM REGIME
+FECHADO – CONFIGURAÇÃO, AINDA, DE “REFORMATIO IN PEJUS”
+NO JULGAMENTO DO “HABEAS CORPUS” IMPETRADO PERANTE
+O E. SUPERIOR TRIBUNAL DE JUSTIÇA – AGRAVAMENTO DO
+“STATUS POENALIS” DO RECORRIDO, AO SUPRIR-SE, “A
+POSTERIORI”, A AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO
+DA APELAÇÃO – PRECEDENTES – RECURSO DE AGRAVO
+IMPROVIDO.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros
+do Supremo Tribunal Federal, em Sessão Virtual da Segunda Turma,
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BEBA-9681-DF88-7BF3 e senha 9425-8EF2-6E05-B819
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+RHC 187700 AGR / SP
+na conformidade da ata de julgamentos, por unanimidade de votos, em
+negar provimento ao recurso de agravo, nos termos do voto do Relator.
+Brasília, Sessão Virtual de 02 a 09 de outubro de 2020.
+CELSO DE MELLO – RELATOR
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BEBA-9681-DF88-7BF3 e senha 9425-8EF2-6E05-B819
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+10/10/2020
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 187.700 S ÃO
+PAULO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. CELSO DE MELLO
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: ISTVAN MERCHENTHALER
+: ALBERTO ZACHARIAS TORON E OUTRO(A/S)
+
+RE LAT Ó RI O
+
+O SENHOR MINISTRO CELSO DE MELLO – (Relator): Trata-se
+de recurso de agravo, tempestivamente interposto pelo Ministério
+Público Federal, contra decisão que, por mim proferida, deu parcial
+provimento ao recurso ordinário.
+Inconformada com esse ato decisório, a parte agravante interpôs
+este recurso de agravo, postulando o provimento desta espécie recursal.
+Por não me convencer das razões expostas pela parte recorrente,
+submeto à apreciação desta colenda Segunda Turma o presente recurso de
+agravo.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0709-FDE9-3124-CB51 e senha B0D7-BACE-2914-3DCB
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+10/10/2020
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 187.700 S ÃO
+PAULO
+
+VOTO
+
+O SENHOR MINISTRO CELSO DE MELLO – (Relator): Entendo
+não assistir razão à parte agravante, eis que a decisão ora recorrida
+ajusta-se, com integral fidelidade, à orientação jurisprudencial que esta
+Suprema Corte firmou na matéria em análise.
+Tal como tive o ensejo de assinalar ao proferir o ato decisório recorrido,
+constata-se, pela análise do acórdão emanado do E. Tribunal Regional
+Federal da 3ª Região, que simplesmente não há, nele, nenhuma motivação
+justificadora da concreta necessidade de o ora agravado iniciar o
+cumprimento da pena em regime fechado, pois ausente qualquer
+fundamentação própria a legitimar a imposição de regime de execução
+da pena mais gravoso do que aquele decorrente da regra inscrita no
+art. 33, § 2º, “b”, do Código Penal.
+Na espécie destes autos, a decisão proferida, em sede de apelação,
+pela E. Corte regional, mesmo diante da pena de 05 (cinco) anos e
+04 (quatro) meses de reclusão imposta ao sentenciado – posteriormente
+reduzida pelo E. Superior Tribunal de Justiça para 04 (quatro) anos
+e 10 (dez) meses –, optou pelo regime prisional fechado na fase inicial
+de execução da sanção penal, fazendo-o, no ponto, em acórdão assim
+fundamentado:
+“Na primeira fase, atento às diretrizes do artigo 59 do
+Código Penal para a individualização da reprimenda,
+observo que pesam contra o réu a gravidade e as consequências
+nefastas do delito, diante da natureza da droga, bem como o motivo
+de lucro fácil e a grande quantidade de entorpecente.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+RHC 187700 AGR / SP
+
+No entanto, militam a seu favor a primariedade e a
+ausência de notícias de antecedentes, bem como de conduta
+social reprovável, pelo que fixo-lhe a pena-base em um ano acima
+do mínimo legal, ou seja, quatro anos de reclusão.
+Na segunda fase, não verifico a presença de circunstâncias
+agravantes ou atenuantes, razão pela qual a pena permanece no
+mesmo patamar.
+Na terceira fase, por não haver dúvidas quanto à
+internacionalidade do tráfico, já que a droga estava em
+vias de exportação, incide a causa de aumento derivada da
+internacionalidade do tráfico (art. 18, I), que aplico em 1/3,
+resultando na pena privativa de liberdade definitiva de
+5 (cinco) anos e 4 (quatro) meses de reclusão, que deverá ser
+cumprida em regime inicial fechado. Com base nos mesmos
+critérios, fixo a pena de multa em 88 (oitenta e oito) dias-multa,
+no valor de 1/30 do salário mínimo vigente à época dos fatos.”
+(grifei)
+
+Cumpre ter presente que o Supremo Tribunal Federal tem
+entendido que o fato de o sentenciado haver sofrido condenação
+a pena igual ou inferior a 08 (oito) anos de reclusão não lhe confere,
+só por si, o direito público subjetivo à obtenção de regime prisional
+menos gravoso (RTJ 148/490-491, Rel. Min. SYDNEY SANCHES,
+v.g.).
+É que o preceito inscrito no art. 33, § 2º, “b”, do Código Penal
+não obriga o magistrado sentenciante, mesmo tratando-se de réu primário
+e sujeito a pena não superior a oito anos de prisão, a fixar, desde logo,
+o regime penal semiaberto.
+Como se sabe, a norma legal em questão permite ao juiz impor
+ao sentenciado regime penal mais severo, desde que o faça, no entanto,
+em decisão suficientemente motivada (RTJ 141/545 – RTJ 151/212, v.g.).
+Assim, a opção pelo regime menos gravoso constitui mera faculdade legal
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+RHC 187700 AGR / SP
+reconhecida ao magistrado, consoante salientado pela jurisprudência
+do Supremo Tribunal Federal:
+“(…) O direito positivo brasileiro permite ao juiz impor ao
+sentenciado regime penal mais severo, desde que o faça em decisão
+suficientemente motivada (…).”
+(RTJ 154/103, Rel. Min. CELSO DE MELLO)
+“O cumprimento em regime mais brando (…) não é
+decorrência automática da duração da pena, mas simples
+faculdade do juiz, que pode e deve evitá-lo, quando não
+satisfeitos os pressupostos estabelecidos no ‘caput’ do art. 59 do
+Código Penal.”
+(HC 66.950/RO, Rel. Min. OCTAVIO GALLOTTI – grifei)
+
+Convém enfatizar, por necessário, que o Poder Judiciário –
+em face do que prescreve o art. 33, § 3º, do Código Penal – deve justificar,
+de modo adequado e satisfatório, a imposição do regime inicial fechado,
+quando cabível, em tese, como no caso, a aplicação de regime penal
+menos gravoso.
+Impende ressaltar, neste ponto, por oportuno, que, em sessão
+realizada em 24/09/2003, o Plenário desta Corte aprovou os
+Enunciados nº 718 e nº 719 da Súmula de sua jurisprudência
+predominante, que assim dispõem, respectivamente:
+“A opinião do julgador sobre a gravidade em abstrato do
+crime não constitui motivação idônea para a imposição de regime
+mais severo do que o permitido segundo a pena aplicada.” (grifei)
+“A imposição do regime de cumprimento mais severo do que
+a pena aplicada permitir exige motivação idônea.” (grifei)
+
+No caso, contudo, como precedentemente se registrou, não houve,
+no acórdão proferido pelo E. Tribunal Regional Federal da 3ª Região,
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+RHC 187700 AGR / SP
+motivação apta a justificar a adoção do regime inicial fechado para
+cumprimento da pena imposta ao ora recorrido.
+Pertinente, em suma, em situações como a de que ora se cuida,
+a advertência feita pelo magistério jurisprudencial desta Suprema Corte:
+“’HABEAS CORPUS’. REGIME DE CUMPRIMENTO
+DA PENA. SÚMULA Nº 718 DO STF (‘A OPINIÃO DO
+JULGADOR SOBRE A GRAVIDADE EM ABSTRATO DO
+CRIME NÃO CONSTITUI MOTIVAÇÃO IDÔNEA PARA A
+IMPOSIÇÃO DE REGIME MAIS SEVERO DO QUE O
+PERMITIDO
+SEGUNDO
+A
+PENA
+APLICADA’).
+SÚMULA Nº 719 DO STF (‘A IMPOSIÇÃO DO REGIME
+DE CUMPRIMENTO MAIS SEVERO DO QUE A PENA
+APLICADA PERMITIR EXIGE MOTIVAÇÃO IDÔNEA’).
+Fixada a pena em seu mínimo legal, inferior a 8 (oito) anos,
+não sendo caso de reincidência, e reconhecidos, tanto pela
+sentença como pelo acórdão do Tribunal estadual, os bons
+antecedentes e a primariedade do réu, não há falar em adoção
+do regime inicial fechado para o cumprimento da pena sob o
+argumento de que a referida modalidade de crime vem causando
+grande comoção social, restando, assim, evidente a ofensa ao
+art. 33, § 2º, ‘b’, e § 3º c/c art. 59 do Código Penal. Incidência
+das Súmulas 718 e 719 do STF.
+Ordem concedida.”
+(HC 83.605/SP, Rel. Min. ELLEN GRACIE – grifei)
+“– Revela-se inadmissível, na hipótese de condenação
+a pena não superior a 08 (oito) anos de reclusão, impor ao
+sentenciado, em caráter inicial, o regime penal fechado, com
+base, unicamente, na gravidade objetiva do delito
+cometido, especialmente se se tratar de réu que ostente bons
+antecedentes e que seja comprovadamente primário.
+– O discurso judicial que se apoia, exclusivamente, no
+reconhecimento da gravidade objetiva do crime – e que se cinge,
+para efeito de exacerbação punitiva, a tópicos sentenciais meramente
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+RHC 187700 AGR / SP
+retóricos, eivados de pura generalidade, destituídos de qualquer
+fundamentação substancial e reveladores de linguagem típica dos
+partidários do ‘direito penal simbólico’ ou, até mesmo, do ‘direito
+penal do inimigo’ – culmina por infringir os princípios liberais
+consagrados pela ordem democrática na qual se estrutura o Estado
+de Direito, expondo, com esse comportamento (em tudo colidente
+com os parâmetros delineados na Súmula 719/STF), uma visão
+autoritária e nulificadora do regime das liberdades públicas
+em nosso País. Precedentes.”
+(HC 85.531/SP, Rel. Min. CELSO DE MELLO)
+“‘Habeas corpus’. 2. Tráfico ilícito de entorpecentes. Paciente
+condenado à pena de um ano e oito meses de reclusão. Regime inicial
+fechado. 3. Pedido de fixação de regime aberto para início do cumprimento
+da pena. Possibilidade. Paciente que cumpre os requisitos previstos
+no art. 33, § 2º, ‘c’, do Código Penal. 4. A jurisprudência do STF
+consolidou o entendimento segundo o qual a hediondez ou a gravidade
+abstrata do delito não obriga, por si só, o regime prisional
+mais gravoso, pois o juízo, em atenção aos princípios constitucionais
+da individualização da pena e da obrigatoriedade de fundamentação
+das decisões judiciais, deve motivar o regime imposto observando
+a singularidade do caso concreto. Aplicação das Súmulas 718 e 719.
+5. Substituição da pena privativa de liberdade por restritiva de
+direitos. Possibilidade. Precedente do Plenário (HC nº 97.256/RS).
+6. Necessidade de análise dos requisitos dispostos no art. 44 do CP.
+7. Superação da Súmula 691. Manifesto constrangimento ilegal.
+8. Ordem concedida de ofício para fixar o regime aberto de início
+do cumprimento da pena e determinar a substituição da pena privativa
+de liberdade por duas restritivas de direitos, a serem estabelecidas pelo
+Juízo das Execuções Criminais.”
+(HC 133.028/SP, Rel. Min. GILMAR MENDES – grifei)
+“’Habeas corpus’. Penal. Roubo (CP, art. 157, § 1º).
+Condenação. Pena de 4 (quatro) anos e 8 (oito) meses de
+reclusão em regime fechado. Impetração dirigida contra
+decisão monocrática do Relator da causa no Superior Tribunal
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+RHC 187700 AGR / SP
+de Justiça. Decisão não submetida ao crivo do colegiado.
+Ausência de interposição de agravo interno. Não exaurimento
+da instância antecedente. Precedentes. Não conhecimento do
+‘writ’. Ilegalidade flagrante configurada. Pena-base majorada
+em decorrência de maus antecedentes. Impossibilidade.
+Condenações extintas há mais de 5 (cinco) anos. Incidência
+do disposto no inciso I do art. 64 do Código Penal. Fixação
+da pena-base no mínimo legal. Ausência de circunstâncias
+judiciais desfavoráveis. Fixação do regime prisional aberto
+(CP, art. 33, § 2º, alínea ‘a’). Ordem concedida de ofício.
+…...................................................................................................
+3. O regime fechado foi alicerçado i) na presença de
+circunstância judicial desfavorável ao paciente, vale dizer, os maus
+antecedentes, afastados por conta da incidência do art. 64, inciso I,
+do Código Penal, e ii) na opinião do julgador a respeito da
+gravidade em abstrato do delito. Logo, ele não mais se sustenta,
+pois, segundo a pacífica jurisprudência da Corte, afigura-se
+inadmissível, por contrastar com as Súmulas nºs 718 e 719
+do Supremo Tribunal Federal, a fixação do regime inicial
+mais gravoso com base na mera opinião do julgador sobre a
+gravidade em abstrato do crime. Precedentes.
+4. ‘Writ’ extinto.
+5. Ordem concedida de ofício para se fixar a pena-base do
+paciente no mínimo legal, bem como para estabelecer o regime inicial
+aberto, nos termos do art. 33, § 2º, alínea ‘a’, do Código Penal.”
+(HC 137.173/SP, Rel. Min. DIAS TOFFOLI – grifei)
+“RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’.
+TRÁFICO DE DROGAS. DOSIMETRIA. CIRCUNSTÂNCIAS
+JUDICIAIS FAVORÁVEIS. PENA-BASE FIXADA NO
+MÍNIMO LEGAL. REGIME INICIAL DE CUMPRIMENTO
+DE PENA MAIS GRAVOSO. INADEQUAÇÃO. RECURSO
+ORDINÁRIO PROVIDO.
+…...................................................................................................
+2. A determinação do regime inicial de cumprimento
+da pena deve levar em conta dois fatores: (a) o ‘quantum’
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+RHC 187700 AGR / SP
+da reprimenda imposta (CP, art. 33, § 2º); e (b) as condições
+pessoais do condenado estabelecidas na primeira etapa da
+dosimetria (CP, art. 59 c/c art. 33, § 3º).
+3. Inviável regime inicial prisional mais gravoso que
+o ‘quantum’ da pena aplicada com base na gravidade em
+abstrato do delito, mormente quando presentes todas circunstâncias
+judiciais favoráveis. Súmulas 718 e 719 do Supremo Tribunal
+Federal.
+4. Recurso ordinário provido para a imposição do regime
+inicial de cumprimento de pena semiaberto.”
+(RHC 128.094/SC, Rel. Min. TEORI ZAVASCKI – grifei)
+
+Tenho para mim, de outro lado, que a decisão emanada do
+E. Superior Tribunal de Justiça, não obstante tenha mantido o regime
+inicial fixado pelo E. Tribunal Regional Federal da 3ª Região, ao inovar
+no que concerne aos fundamentos justificadores da necessidade de o
+ora agravado iniciar o cumprimento da pena em regime mais severo,
+acabou por piorar-lhe a situação jurídico-penal, uma vez que a Corte
+Regional não justificou a imposição, a esse mesmo réu, ora recorrido,
+de regime prisional mais gravoso, sendo processualmente vedado àquela
+Alta Corte judiciária suprir, “a posteriori”, a ausência de fundamentação
+por ela constatada quanto ao julgamento da apelação, tal como se observa
+do seguinte fragmento do voto condutor do acórdão impugnado nesta
+sede recursal:
+“Esta Corte, no julgamento do AREsp 274.110/SP, manteve
+a aferição desfavorável da quantidade de droga (20,270 kg de cocaína),
+para justificar o aumento da pena-base.
+Sobre o tema, vale anotar que a definição do modo inicial de
+cumprimento de pena, necessário à prevenção e à reparação da
+infração penal, será feita pelo julgador, conforme as diretrizes do
+art. 33 do Código Penal, e, na hipótese de condenado por crime de
+tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006.
+Dessa forma, embora a pena definitiva tenha sido
+estabelecida em patamar inferior a 8 anos e o paciente
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+RHC 187700 AGR / SP
+seja primário, o regime fechado é o adequado ao cumprimento
+da pena reclusiva, diante da valoração negativa da quantidade
+das drogas (20,270kg) – na primeira etapa da dosimetria,
+a teor do art. 33, §§ 2º e 3º, ‘a’, do CP.” (grifei)
+
+Não se pode desconhecer, no ponto, que os princípios que vedam
+a “reformatio in pejus” impedem que o Tribunal – qualquer Tribunal –,
+julgando além ou fora da postulação, venha, no âmbito de recurso exclusivo
+da Defesa ou de ação autônoma de impugnação, a agravar o “status poenalis”
+de qualquer réu.
+Esse entendimento, vale destacar, tem o beneplácito da jurisprudência
+firmada pelo Supremo Tribunal Federal em casos similares ao do presente
+“habeas corpus” (HC 111.674/ES, Rel. Min. TEORI ZAVASCKI –
+HC 117.155/MT, Rel. Min. LUIZ FUX – HC 121.907/AM, Rel. Min. DIAS
+TOFFOLI, v.g.), como se vê, p. ex., de precedentes desta Corte Suprema
+consubstanciados em acórdãos assim ementados:
+“PROCESSO PENAL. ‘HABEAS CORPUS’. FURTO
+CONSUMADO E TENTADO, EM CONTINUIDADE
+DELITIVA.
+‘NON
+REFORMATIO
+IN
+PEJUS’.
+SUBSTITUIÇÃO, PELO TRIBUNAL DE JUSTIÇA, DOS
+FUNDAMENTOS ASSENTADOS PELO JUÍZO PARA
+FIXAR A PENA-BASE ACIMA DO MÍNIMO LEGAL.
+IMPOSSIBILIDADE DE RESTABELECIMENTO PELO STJ,
+EM SEDE DE ‘HABEAS CORPUS’. ACÓRDÃO EM
+QUE
+AFASTADA
+A
+ÚNICA
+CIRCUNSTÂNCIA
+CONSIDERADA DESFAVORÁVEL PELO TJ/RS. IMPERIOSA
+A FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL.
+REFORMA PREJUDICIAL CONFIGURADA. CONCESSÃO
+DA ORDEM.
+1. O ‘habeas corpus’, assim como os recursos da
+defesa, sujeita-se ao princípio do ‘non reformatio in pejus’,
+mostrando-se pertinente a aplicação analógica do artigo 617
+do CPP, ‘in verbis’: ‘O Tribunal, câmara ou turma atenderá nas
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+RHC 187700 AGR / SP
+suas decisões ao disposto nos arts. 383, 386 e 387, no que for
+aplicável, não podendo, porém, ser agravada a pena, quando somente
+o réu houver apelado da sentença’.
+2. No caso ‘sub judice’, afastado pelo STJ o único
+fundamento utilizado pelo Tribunal de Justiça para fixar a
+pena-base acima do mínimo legal, cabível tão somente fixá-la
+no patamar mínimo, sob pena de, em verdade, impor
+reprimenda superior à fixada em sede de apelação, em
+manifesta ‘reformatio in pejus’. Precedente: HC 100724/SC,
+rel. Min. Joaquim Barbosa, 2ª Turma, DJ de 1/8/2011.
+3. Descabe, em ‘habeas corpus’ impetrado na Instância
+Superior, restabelecer os motivos lançados pelo Juízo para
+fixar a pena-base acima do mínimo legal, porquanto estes não
+subsistem ante a substituição por outros declinados no julgamento
+da apelação, sendo certo que, ‘uma vez julgado o recurso, não mais
+existirá a decisão recorrida, mas apenas a do tribunal’ (MARINONI
+e ARENHART ‘in’ Processo de Conhecimento, 7ª ed., São Paulo:
+RT, 2008, p. 526).
+4. Em recurso exclusivo da defesa, não pode o Tribunal
+complementar a sentença para acrescentar fatos que possam
+repercutir negativamente no âmbito da dosimetria da pena.
+Precedentes: HC 108562/MG, rel. Min. Cármen Lúcia, 1ª Turma,
+DJ de 14/9/2011; HC 105768/MG, rel. Min. Cármen Lúcia,
+1ª Turma, DJ de 1/6/2011; HC 98307/MG, rel. Min. Ricardo
+Lewandowski, 1ª Turma, DJ de 23/4/2010; HC 99925/RR, rel. Min.
+Ricardo Lewandowski, 1ª Turma, DJ de 26/3/2010.
+5. ‘In casu’, o STJ, em sede de ‘habeas corpus’, restabeleceu
+os fundamentos utilizados pelo juízo para fixar a pena-base
+acima do mínimo legal, considerando desfavoráveis a culpabilidade
+e as circunstâncias, fundamentos estranhos aos lançados no acórdão
+do TJ/RS, em nítida ‘reformatio in pejus’.
+6. Ordem CONCEDIDA para fixar a pena-base no mínimo
+legal.”
+(HC 101.380/RS, Rel. Min. LUIZ FUX – grifei)
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+RHC 187700 AGR / SP
+“’Habeas corpus’. Substitutivo de recurso ordinário
+constitucional. Inadmissibilidade. Precedente. Condenação
+transitada em julgado. Manejo do ‘writ’ como sucedâneo de
+revisão criminal. Objetivo. Redimensionar a pena. Descabimento.
+Precedentes. Presença, contudo, de ilegalidade flagrante. Óbices
+processuais superados. Tráfico de drogas. Artigo 33, ‘caput’,
+da Lei nº 11.343/06. Paciente primária e de bons antecedentes.
+Ausência de prova de que se dedique a atividades criminosas ou
+de que integre organização criminosa. Artigo 33, § 4º, da Lei de
+Drogas. Incidência afastada com base em ilações ou conjecturas.
+Inadmissibilidade.
+Precedentes.
+Regime
+inicial
+fechado.
+Imposição, na sentença, com amparo no art. 2º, § 1º, da
+Lei nº 8.072/90. Manutenção, pelo tribunal local, com base
+na mera opinião do julgador sobre a gravidade do crime.
+Súmulas nºs 718 e 719 do Supremo Tribunal Federal.
+Deficiência de motivação. Suprimento, pelo Superior Tribunal
+de Justiça, em sede de ‘habeas corpus’, com fundamentos
+inovadores. Inadmissibilidade. Precedentes. Constrangimento
+ilegal manifesto. Ordem concedida.
+…..................................................................................................
+5. É vedada, em ‘habeas corpus’, a utilização de
+fundamentos inovadores, para suprir vício de motivação
+das instâncias antecedentes ou justificar a adoção do regime
+prisional mais gravoso, sob pena de ‘reformatio in pejus’.
+Precedentes.
+6. Na sentença, ao se condenar a paciente, por tráfico de
+drogas, a pena inferior a 8 (oito) anos, se fixou o regime
+inicial fechado com base no art. 2º, § 1º, da Lei nº 8.072/90,
+cuja inconstitucionalidade foi reconhecida pelo Supremo
+Tribunal Federal. Precedente.
+7. O Tribunal local, para manter o regime mais gravoso,
+amparou-se em mera opinião do julgador sobre a gravidade
+em abstrato do crime, o que contraria as Súmulas nºs 718 e 719 do
+Supremo Tribunal Federal.
+8. Diante desse quadro, não poderia o Superior Tribunal
+de Justiça, em ‘habeas corpus’, invocar a natureza e a
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+RHC 187700 AGR / SP
+variedade de drogas apreendidas para justificar a imposição
+do regime mais gravoso.
+9. Ordem concedida, para o fim de, reconhecida a incidência
+da causa de diminuição de pena prevista no art. 33, § 4º, da
+Lei nº 11.343/06, determinar ao juízo das execuções criminais
+que fixe o ‘quantum’ de redução pertinente na espécie e, nos
+termos do art. 33, §§ 2º e 3º, do Código Penal e do art. 42 da
+Lei nº 11.343/06, o regime prisional condizente.”
+(HC 122.626/SP, Rel. Min. DIAS TOFFOLI – grifei)
+
+Sendo assim, e pelas razões expostas, nego provimento ao presente
+recurso de agravo, mantendo, por seus próprios fundamentos, a decisão
+recorrida.
+É o meu voto.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8D16-0E7B-F915-2900 e senha 0E3B-1C76-B40D-9D23
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/10/2020
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 187.700
+PROCED. : SÃO PAULO
+RELATOR : MIN. CELSO DE MELLO
+AGTE.(S) : MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+AGDO.(A/S) : ISTVAN MERCHENTHALER
+ADV.(A/S) : ALBERTO ZACHARIAS TORON (40063/DF, 65371/SP) E
+OUTRO(A/S)
+Decisão: A Turma, por unanimidade, negou provimento ao recurso
+de agravo, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 2.10.2020 a 9.10.2020.
+Composição: Ministros Gilmar Mendes (Presidente), Celso de
+Mello, Ricardo Lewandowski, Cármen Lúcia e Edson Fachin.
+Maria Clara Viotti Beck
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1016-8A38-E677-ABB6 e senha 8406-B04E-D667-6333
