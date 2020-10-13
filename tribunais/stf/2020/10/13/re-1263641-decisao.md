@@ -1,0 +1,17 @@
+Petições/STF nº 84.085/2020
+DECISÃO
+PROCESSO SUBJETIVO – TERCEIRO – INADMISSÃO.
+    1. A assessora Adriane da Rocha Callado Henriques prestou as seguintes informações:
+    Marcos Alessandro Zampieri interpôs recurso extraordinário, com base na alínea “a” do inciso III do artigo 102 da Constituição Federal, contra acórdão por meio do qual a Quarta Turma do Tribunal Regional Federal da 4ª Região assentou não conflitar, com o princípio do livre exercício da profissão, a exigência de caução, para a atividade de leiloeiro, conforme previsto no Decreto nº 21.981/1932.
+    Em 31 de julho de 2020, Vossa Excelência indicou este recurso como novo paradigma do Tema nº 455 da sistemática da repercussão geral – em virtude da extinção, sem julgamento de mérito, do processo revelador do extraordinário de nº 611.585 –, determinando o traslado de cópia do acórdão por meio do qual reconhecida a repercussão maior. Eis a ementa:
+    LEILOEIRO – EXERCÍCIO PROFISSIONAL – CAUÇÃO – DECRETO Nº 21.981/32 – COMPATIBILIDADE COM A CONSTITUIÇÃO FEDERAL DECLARADA NA ORIGEM – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da compatibilidade entre o Decreto nº 21.981/32, que prevê a exigência de prestação de fiança em dinheiro ou apólices da dívida pública federal, após a habilitação do leiloeiro, e o artigo 5º, inciso XIII, da Carta Política.
+    Associação dos Leiloeiros Público do Estado de São Paulo – ALEOESP, mediante petição subscrita por advogada credenciada, busca a admissão no processo como interessada.
+    Afirma possuir representatividade, ressaltando ser entidade sindical com o objetivo de fortalecer e buscar o reconhecimento da categoria dos leiloeiros, bem como promover valores éticos e morais alusiva à profissão em defesa do Estado Democrático de Direito. Sustenta a pertinência da intervenção, ante a excepcionalidade em que o processo foi incluído em pauta virtual. Salienta o possível impacto do pronunciamento final do Supremo, uma vez que a decisão poderá resultar em alterações na sistemática da atividade profissional defendida. Busca, com fundamento no inciso II do artigo 4º da Resolução nº 642/2019 do Tribunal, a retirada do processo da lista de julgamentos virtuais ocorridos de 2 a 9 de outubro de 2020, objetivando a apreciação da matéria constitucional em sessão presencial, para melhor análise da controvérsia.
+    2. Há certa flexibilidade quanto ao momento do ingresso de interessados, tendo em conta a relevância dos temas discutidos nos recursos com repercussão geral. Ocorre que o exame do extraordinário foi concluído. Sob o ângulo da conveniência da intervenção, surge suplantada a fase apropriada. O quadro revela, presente a organicidade do Direito, inoportuno o requerimento formulado.
+    Ademais, conforme o disposto no inciso II do artigo 4º da Resolução nº 642/2019 do Supremo, não serão examinados, em ambiente virtual, listas ou processos com pedido de destaque feito por qualquer das partes, desde que requerido até 48 horas antes do início da sessão e deferido pelo Relator.
+    O processo foi inserido na pauta da Sessão Virtual do Pleno com início à zero hora de 2 de outubro de 2020. O pedido de destaque foi formalizado às 18 horas, 56 minutos e 24 segundos de 8 de outubro seguinte, portanto fora do prazo.
+    3. Indefiro os pedidos. Devolvam as peças à requerente.
+    4. Publiquem.
+Brasília, 13 de outubro de 2020.
+Ministro MARCO AURÉLIO
+Relator
