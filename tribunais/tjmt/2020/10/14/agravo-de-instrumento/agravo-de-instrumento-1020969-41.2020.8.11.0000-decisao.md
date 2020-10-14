@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1020969-41.2020.8.11.0000
+AGRAVANTE: AGROPECUARIA VIA FERTIL LTDA - ME
+AGRAVADO: AGRIPAR COMERCIO E REPRESENTACAO DE DEFENSIVOS LTDA
+Cuida-se de Agravo de Instrumento interposto por Agropecuária Via Fertil Produtos Agropecuários de decisão que na Ação de Execução de título extrajudicial que lhe move Agripar Comércio E Representação de Defensivos Ltda., e tem como interessada decorrente de sua condição de titular e credora dos produtos penhorados a empresa Dow Agrosciences Sementes & Biotecnologia Brasil Ltda, deferiu pedido de reserva de 30% do valor executado que recai sobre soja arrestada, em favor do advogado da agravada (Agripar) a título de honorários contratuais e de sucumbência.
+Sustenta que por meio de petição protocolada em 20-02-2020, em nome da Agripar, o seu patrono Dr. Rafael Soares Martinazzo, procurou salvaguardar os seus direitos ao argumento de que é titular de 30% (trinta) por cento do crédito perseguido nos autos do Processo no 666-56.2015.811.0078 – Código 81059, em curso na Vara Única da Comarca de Sapezal/MT.
+Aduz que a pretensão da AGRIPAR para defender em nome próprio, direito alheio de seu patrono evidencia o tamanho da aventura jurídica patrocinada pela Agravada, em violação expressa ao artigo 18 do CPC.
+Assegura que não há decisão judicial transitada em julgado que tenha fixado honorários de sucumbência em favor do patrono da agravada Agripar, caso em que não pode pedir a ressalva de um direito que sequer existe.
+Justifica que a tese de que o patrono da Agravada AGRIPAR tem direito à reserva dos honorários contratados no percentual de 20% é absurda, porquanto sequer encontra amparo no próprio contrato de honorários advocatícios juntado pelo patrono da Agravada Dr. Rafael Soares Martinazzo.
+Aduz que de acordo com a cláusula 2a do Contrato de Honorários, a verba honorária convencionada (ou contratada) somente seria devida ao final do processo ou em caso de eventual acordo, o que também não existe no caso em exame.
+Assevera que o patrono tem – quando muito – apenas uma expectativa de direito de receber os honorários, jamais um direito consolidado ao recebimento, além de que as sacas de soja arrestadas pertencem à empresa interessada Dow Agrosciences e não mais à AGRIPAR.
+Afirma que a decisão recorrida atropela decisão proferida pelo juízo da 26a Vara Cível da Comarca de São Paulo/SP, que determinou que “nenhuma pessoa pode fazer negócio envolvendo as sacas de soja arrestadas” sem a prévia ciência e anuência da credora Dow Agrosciences Sementes & Biotecnologia Brasil Ltda., sob pena de crime de desobediência e de multa cominatória de R$ 1.000.000,00.
+Reclama que a recorrente Agropecuária Via Fértil Ltda., na condição de fiel depositária do produto “soja em grãos”, está no meio de um tiroteio de ordens judiciais conflitantes: o Juízo de Sapezal, determinando a reserva de 30% do produto para pagamento do advogado Dr. Rafael Soares Martinazzo, ao passo que a ordem de São Paulo é taxativa em “proibir o depositário de efetuar qualquer pagamento, sem a prévia ciência e anuência da credora DOW”, sob pena de pagar uma multa de R$1.000.000,00.
+Aduz que o Juízo da Comarca de Sapezal não tem competência e nem jurisdição para revogar e/ou alterar uma decisão de outro Estado, muito menos de tornar parcialmente sem efeito uma decisão do Juízo da Comarca de São Paulo/SP.
+Defende a necessidade de atribuir efeito suspensivo ao recurso, porque o Juízo singular não se atentou para o fato de ouvir a credora do produto Dow Agrosciences, já que a decisão oriunda da 26a Vara Cível da Comarca de São Paulo é incisiva em determinar que não se pode decretar qualquer medida “sem a prévia ciência e anuência da credora DOW”.
+Requer sejam suspensos os efeitos da r. decisão agravada, até apreciação pelo mérito da vertente pretensão.
+No mérito, postula a reforma em razão do disposto no artigo 18 do CPC, bem assim porque não há condenação em Honorários Sucumbenciais, mas mera expectativa, além de que a soja penhorada nos autos da medida cautelar de arresto não mais pertence a AGRIPAR, mas sim a DOW, por força da decisão concedida pelo Juízo Paulista que, enquanto vigorar, não pode a decisão recorrida determinar a reserva de 30% do produto “soja em grãos” em favor do advogado, que sequer é parte no processo.
+É o necessário relato.
+Decido.
+Busca a empresa agravante a suspensão da decisão que deferiu pedido de reserva de 30% (trinta por cento), a título de honorários advocatícios, formulado pela agravada Agripar Comércio E Representação de Defensivos Ltda, em favor de seu advogado, Dr. Rafael Soares Martinazzo.
+Nos termos do artigo 995 do Novo CPC, concede-se o efeito suspensivo postulado em agravo, se presentes os elementos próprios que lhe autorizam, vale dizer, o risco de dano grave ou de difícil ou impossível reparação (perigo de demora) e a probabilidade de provimento do recurso (fumaça do bom direito), que, em que pese as alegações, não se verificam presentes.
+Não se verifica perigo de dano grave que decorra do aguardo da solução do mérito deste recurso pela análise do Colegiado.
+Muito embora a recorrente questione a legitimidade da exequente agravada Agripar para postular a reserva de percentual de honorários em favor de seu patrono, certo é que se trata apenas de medida assecuratória em que não há propriamente ordem de liberação/levantamento de qualquer valor, apenas, frisa-se, reserva de percentual de valores.
+Lado outro, não se visualiza, assim de pronto, que a decisão recorrida, na parte que determinou a intimação do fiel depositário da agravante para, no prazo de quinze dias, deposite em juízo o valor objeto do arresto das 25.500 sacas de soja, esteja em descompasso ou mesmo usurpe competência do Juízo da 26a Vara Cível da Comarca de São Paulo, porquanto, frisa-se, apenas determinou que o objeto proveniente do arresto seja depositado em juízo.
+Assim, até que a questão seja mais bem esclarecida, o que se dará com o cotejo das teses de ambas as partes pela apreciação do mérito pelo Colegiado, mantém-se seus efeitos, inclusive porque o presente recurso tem trâmite marcado pela celeridade processual.
+Posto isso, nega-se a concessão do efeito suspensivo postulado.
+Intime-se a agravada para apresentar contraminuta, no prazo, bem assim dê-se ciência à terceira interessada Dow Agrosciences Sementes e Biotecnologia Brasil Ltda, para requerer o que entender de direito.
+Cuiabá, 11 de outubro de 2020.
+Des. Guiomar Teodoro Borges
+Relator
