@@ -1,0 +1,1 @@
+Artigo 9°-B - A Companhia Paulista de Securitização - CPSEC - poderá ser contratada por entidades da Administração Direta e Indireta do Estado de São Paulo para estruturar e implementar operações de securitização de interesse da Administração, ficando autorizada a, nestes casos, firmar instrumentos jurídicos específicos, observadas as autorizações necessárias. (NR)
