@@ -1,0 +1,1 @@
+Art. 2º (VETADO).
