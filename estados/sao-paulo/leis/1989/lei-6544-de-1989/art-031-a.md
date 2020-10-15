@@ -1,0 +1,3 @@
+Artigo 31-A - Para a finalidade específica de aquisição de bens, a Administração Centralizada manterá Cadastro Geral de Fornecedores, na forma a ser disciplinada em regulamento. (NR)
+§ 1.º - O pedido de inscrição no Cadastro de que trata este artigo poderá ser entregue em qualquer órgão da Administração, que realize licitações, devendo ser encaminhado ao órgão competente para julgamento. (NR)
+§ 2.º - O órgão competente para proceder ao julgamento do pedido de inscrição, bem como para expedir o certificado de registro cadastral, poderá delegar essa atribuição a órgãos da Administração, que realizem licitações. (NR)
