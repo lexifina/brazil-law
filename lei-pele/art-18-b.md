@@ -1,0 +1,4 @@
+Art. 18-B. Os dirigentes das entidades do Sistema Nacional do Desporto, independentemente da forma jurídica adotada, têm seus bens particulares sujeitos ao disposto no art. 50 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).
+§ 1º Para os fins do disposto nesta Lei, dirigente é aquele que exerce, de fato ou de direito, poder de decisão na gestão da entidade, incluídos seus administradores.
+§ 2º Os dirigentes de entidades desportivas respondem solidária e ilimitadamente pelos atos ilícitos praticados e pelos atos de gestão irregular ou temerária ou contrários ao previsto no contrato social ou estatuto.
+§ 3º O dirigente será responsabilizado solidariamente quando tiver conhecimento do não cumprimento dos deveres estatutários ou contratuais por seu antecessor ou pelo administrador competente e não comunicar o fato ao órgão estatutário competente.

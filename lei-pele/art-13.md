@@ -6,4 +6,5 @@ III - as entidades nacionais de administração do desporto;
 IV - as entidades regionais de administração do desporto;
 V - as ligas regionais e nacionais;
 VI - as entidades de prática desportiva filiadas ou não àquelas referidas nos incisos anteriores.
-VII - a Confederação Brasileira de Clubes.
+VII - o Comitê Brasileiro de Clubes (CBC); e
+VIII - o Comitê Brasileiro de Clubes Paralímpicos (CBCP).
