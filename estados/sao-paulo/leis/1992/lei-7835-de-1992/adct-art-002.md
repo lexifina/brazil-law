@@ -1,0 +1,43 @@
+Artigo 2.º - Não se aplicam as disposições desta lei às concessões e permissões outorgadas anteriormente à sua vigência. (NR)
+- Artigo 2.º com redação dada pela Lei nº 9.056, de 29/12/1994.
+Palácio dos Bandeirantes, 8 de maio de 1992.
+LUIZ ANTONIO FLEURY FILHO
+Manuel Alceu Affonso Ferreira
+Secretário da Justiça e da Defesa da Cidadania
+Frederico Mathias Mazzucchelli
+Secretário da Fazenda
+José Antonio Barros Munhoz
+Secretário de Agricultura e Abastecimento
+José Fernando da Costa Boucinhas
+Secretário de Energia e Saneamento
+Wagner Gonçalves Rossi
+Secretário da Infra-Estrutura Viária
+Fernando Gomes de Morais
+Secretário da Educação
+Nader Wafae
+Secretário da Saúde
+Pedro Franco de Campos
+Secretário da Segurança Pública
+Antonio Adolpho Lobbe Neto
+Secretário do Trabalho e da Promoção Social
+Adilson Monteiro Alves
+Secretário da Cultura
+Luiz Carlos Delben Leite
+Secretário da Ciência, Tecnologia e Desenvolvimento Econômico
+Valdemar Corauci Sobrinho
+Secretário de Esportes e Turismo
+Miguel Tebar Barrionuevo
+Secretário da Administração e Modernização do Serviço Público
+Eduardo Maia de Castro Ferraz
+Secretário de Planejamento e Gestão
+Cláudio Ferraz de Alvarenga
+Secretário do Governo
+Alaor Caffeé Alves
+Secretário do Meio Ambiente
+José Machado de Campos Filho
+Secretário da Habitação
+Alda Marco Antonio
+Secretária do Menor
+Aloysio Nunes Ferreira Filho
+Secretário dos Transportes Metropolitanos
+Publicada na Assessoria Técnico-Legislativa, aos 8 de maio de 1992.
