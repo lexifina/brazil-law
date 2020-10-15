@@ -1,0 +1,108 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO RECURSO DE APELAÇÃO CÍVEL N. 1032618-79.2017.8.11.0041
+RECORRENTE(S): ESPÓLIO DE MARIA DE FATIMA REZENDE DE LACERDA
+RECORRIDO(S): UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO
+Vistos, etc.
+Trata-se de Recurso Especial (id. 56299453) interposto pelo ESPÓLIO DE MARIA DE FATIMA REZENDE DE LACERDA, com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Segunda Câmara de Direito Privado, assim ementado (id. 43483492):
+“APELAÇÃO CÍVEL – SUBSTITUIÇÃO DO POLO ATIVO – MERA ADEQUAÇÃO – ARTIGO 110 DO CPC – FORNECIMENTO DE MEDICAMENTOS IMPORTADOS – AUSÊNCIA DE REGISTRO NA ANVISA – NÃO OBRIGAÇÃO DO PLANO DE SAÚDE – ASTREINTES POR DESOBEDIÊNCIA DA LIMINAR – INCABÍVEL NO CASO – SENTENÇA DE IMPROCEDÊNCIA – POSSIBILIDADE DE MAJORAÇÃO, MINORAÇÃO, EXCLUSÃO. Recurso conhecido e desprovido.
+(1) – A rigor do artigo 110 do CPC, falecida a parte no decorrer da ação, esta deve ser substituída pelo espólio ou, extraordinariamente, pelos seus sucessores, tratando-se de mera adequação, sem pretensão resistida da outra parte.
+(2) A atual jurisprudência do Colendo Superior Tribunal de Justiça orienta no sentido da inexistência de dever legal da empresa do plano de saúde em proceder ao fornecimento de medicamento importado, sem registro na ANVISA, sob pena de tal pratica ser tipificada como infração de natureza sanitária, conforme o art. 66 da Lei 6.280/76. Tal situação se amolda ainda mais quando há previsão legal a respeito, aplicando-se, no caso, a regra de que o contrato faz lei entre as partes.
+(3) – A questão pertinente as astreintes podem ser revistas a qualquer tempo. Embora não tendo o plano de saúde cumprindo a liminar, se o fizesse estaria em desacordo com o artigo 66 da Lei 6.280/76 e em se tratando de importação, longo tempo de espera, julgado o mérito improcedente, não tem razão, em face deste aspecto, de rigor é a exclusão desta penalidade. Se, pode majorar se, pode reduzir, conseqüentemente, pode excluir. Não há o que se falar em cobrança das astreintes.” (TJMT. RECURSO DE APELAÇÃO CÍVEL N. 1032618-79.2017.8.11.0041. RELATOR DES. SEBASTIÃO DE MORAES FILHO. SEGUNDA CÂMARA DE DIREITO PRIVADO. Julgado em 20/05/2020. Publicado em 26/05/2020).
+Os Embargos de Declaração de id. 44622976, opostos pela parte Recorrente, foram rejeitados (id. 53542961).
+O Recorrente alega violação aos artigos 1.022, inc. II e III, 1.013, caput, § 1o, ambos do Código de Processo Civil, ao argumento de que a cláusula que desonerava a cobertura do tratamento importado e sem registro na ANVISA não foi objeto das razões recursais e, em razão da sua indevida análise pelo Tribunal de origem, veio a resultar no erro do rejulgamento do mérito, causando a reformatio in pejus em desfavor do Recorrente.
+Aduz violação aos artigos 47 e 51, inc. IV, §1o, inc. I, do Código de Defesa do Consumidor e divergência jurisprudencial, que reside no fato de que o plano de saúde não é autorizado a limitar os meios curativos do paciente, ocorrendo abusividade na cláusula contratual que dispensa obrigação de fornecer medicamento importado e sem registra na ANVISA.
+Alega omissão quanto ao pedido de restituição das quantias gastas com o tratamento, violando ao art. 943, do Código Civil e art. 1.022, inc. II e art. 489, §1o, ambos do Código de Processo Civil.
+Recurso tempestivo (id. 56848482) e devidamente preparado (id. 56857978).
+Contrarrazões no id. 58714460.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso. Por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Com essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+Suposta violação aos artigos art. 1.013, caput e §1o e art. 1.022, inc. III e 489, §1o ambos do Código De Processo Civil.
+A partir da suposta ofensa aos artigos 1.022, II e 489, §1o, incisos IV e VI, do Código de Processo Civil, alegam, os Recorrentes, que o acórdão seria omisso em razão de suposta ausência de pronunciamento expresso quanto a exigência de pagamento da multa cominatória fixada in limine.
+Entretanto, a análise do acórdão evidencia que o órgão fracionário deste Tribunal apreciou os pontos mencionados pelo Recorrente, inexistindo a suposta omissão ou falta de fundamentação, senão vejamos (id. 52640993):
+“Em sequência, deve ser obedecido no caso que o contrato faz lei entre as partes. Neste contexto, o fornecimento do medicamento IBRANCE (PALBOCICLIB) 125mg, prescrito pelo assistente médico, pelo qual foi pago o valor de R$ 50.686,07 e mais R$ 14.755,25 pelo imposto de importação, não esta acobertado pelo contrato. Compulsando os autos, ID 39071633, temos o contrato formalizado entre as partes e a cláusula VII, é clara:
+Não existe cobertura:
+'F. Tratamentos ilícitos e antiéticos, assim definidos o aspecto médico, ou não reconhecidos pelas autoridades competentes.
+G – Fornecimento de medicamentos importados não nacionalizados. (grifei).'
+Dessa forma, no caso concreto, verifica-se a existência de cláusula de excludente quando a importação de medicamentos, bem como se vê que tal produto não está registrado na ANVISA.
+Como posicionou o STJ: ‘A atual jurisprudência desta Corte Superior orienta no sentido da inexistência de dever legal da empresa do plano de saúde em proceder ao fornecimento de medicamento importado, sem registro na ANVISA, sob pena de tal pratica ser tipificada como infração de natureza sanitária, conforme o art. 66 da Lei 6.280/76’. (ementa parcial, AGINT NO RESP 1687997-SP. Relator MINISTRO LÁZARO MAGALHÃES, julgado em 15/06/2018)’.
+No que tange a pretensão de cobrança das astreintes, embora exista uma liminar, esta situação não transita em julgado, pode ser vista e revista a qualquer momento e, inclusive, quando da prolação da sentença.
+Ora, se a ação, em relação ao seu mérito, é julgada improcedente em todos os seus termos, à possibilidade de redução do valor e até sua exclusão, não faz sentido que, saindo vencedora em relação ao mérito da ação, seja compelida ao pagamento da multa por descumprimento daquela liminar.
+Portanto, em que pesem os argumentos, não há razão para cobrança da astreintes.
+Quanto o bastante. No caso, os argumentos acima fazem com a pretensão meritória recursal soçobra.
+E, a questão de substituição do pólo ativo da lide é questão que não se trata de pretensão resistida, apenas adequação à norma legal, não se falando, portando, sequer em conhecimento parcial da pretensão recursal.
+Apenas deve ser registrado, no caso em apreço, que se trata de sentença de mérito e não de extinção do feito sem apreciação deste, ficando aqui o último e necessário registro. Ora, se a ação, em relação ao seu mérito, é julgada improcedente em todos os seus termos, à possibilidade de redução do valor e até sua exclusão, não faz sentido que, saindo vencedora em relação ao mérito da ação, seja compelida ao pagamento da multa por descumprimento daquela liminar.
+Apenas deve ser registrado, no caso em apreço, que se trata de sentença de mérito e não de extinção do feito sem apreciação deste, ficando aqui o último e necessário registro.,” (destaquei)
+Observa-se, portanto, que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, no sentido de exclusão, no contrato, de fornecimento de medicamentos importação, bem como registrado na ANVISA, desobriga o fornecimento do medicamento pelo plano de saúde.
+A propósito :
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO IMPORTADO. REGISTRO ANVISA. AUSÊNCIA. CUSTEIO OBRIGATÓRIO. AFASTAMENTO. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4o, DO NCPC.
+AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo no 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA. 3. Deve ser reconhecido o dever de cobertura a partir do efetivo registro do medicamento.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4o, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5o daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.” (AgInt no AgInt no AREsp 1202340/ SP, Rel. Ministro Ministro MAURO RIBEIRO, terceira turma, julgado em 12/08/2019, DJe 14/08/2019) (g.n.)
+Igual entendimento é alegado ao artigo 1.022 CDC, em que aponta que, tendo em vista autonomia da multa, essa seria devida. Ainda que julgada improcedente a ação.
+Quanto ao ponto o acordão consignou: “não faz sentido que, saindo vencedora em relação ao mérito da ação, seja compelida ao pagamento da multa por descumprimento daquela liminar” (id. 52640993.)
+Portanto o entendimento está em conformidade com STJ, senão vejamos:
+“CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MANUTENÇÃO. EX-EMPREGADO. IMPOSSIBILIDADE. AUSÊNCIA DE CONTRIBUIÇÃO. "ASTREINTES". AÇÃO JULGADA IMPROCEDENTE .PERDA DOS EFEITOS. DECISÃO MANTIDA.
+1. O STJ firmou o entendimento de que o direito à manutenção no plano de saúde empresarial do ex-empregado, demitido ou aposentado, está condicionado à existência de contribuição do beneficiário para o prêmio mensal, não se aplicando aos casos em que o custeio tenha sido integralmente pago pelo empregador. Precedentes.
+2. "As astreintes fixadas em antecipação de tutela ficam pendentes de condição resolutiva, qual seja, a procedência do pedido principal. Logo, se improcedente o pleito formulado na ação, a multa cominatória perde efeito retroativamente" (AgRg no REsp n. 1.362.266/AL, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 3/9/2015, DJe 10/9/2015).
+3. Agravo interno a que se nega provimento." (AgRg no AREsp 1140983/MS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 08/2/2018, DJe 21/2/2018). (destaquei)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos art. 1.013, caput e §1o e art. 1.022, inc. III e 489, §1o ambos do código de processo civil, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+O Recorrente alega também violação ao artigo 943 do Código Civil e 1022 CDC, ao argumento de que o acórdão seria omisso em razão de suposta ausência de pronunciamento expresso quanto a restituição de todos os valores despendidos com o medicamento, passível de transmissão aos sucessores de Maria de Fátima Rezende de Lacerda.
+Do mesmo modo o acordão se manifestou expressamente inclusive expondo os valores pagos e que se pretendiam obter na restituição.
+Vejamos a abordagem quanto à matéria, no acórdão impugnado (id. 52640993):
+“Em seqüência, deve ser obedecido no caso que o contrato faz lei entre as partes. Neste contexto, o fornecimento do medicamento IBRANCE (PALBOCICLIB) 125mg, prescrito pelo assistente médico, pelo qual foi pago o valor de R$ 50.686,07 e mais R$ 14.755,25 pelo imposto de importação, não esta acobertado pelo contrato. Compulsando os autos, ID 39071633, temos o contrato formalizado entre as partes e a cláusula VII, é clara:
+Não existe cobertura:
+'F. Tratamentos ilícitos e antiéticos, assim definidos o aspecto médico, ou não reconhecidos pelas autoridades competentes.
+G – Fornecimento de medicamentos importados não nacionalizados. (grifei).'
+Conforme o julgado abaixo:
+“AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. MEDICAMENTO IMPORTADO. AUSÊNCIA DE REGISTRO NA ANVISA. NÃO OBRIGATORIEDADE DE CUSTEIO. LICENÇA POSTERIOR. DOENÇA COBERTA. ASSISTÊNCIA FARMACÊUTICA DEVIDA. REEMBOLSO. LIMITAÇÃO.
+1. É legítima a recusa da operadora de plano de saúde em custear medicação importada não nacionalizada, ou seja, sem registro vigente na ANVISA (art. 10, I e V, da Lei no 9.656/1998; Recomendação no 31/2010 do CNJ e dos Enunciados no 6 e 26 da I Jornada de Direito da Saúde). Após o ato registral, todavia, a operadora de plano de saúde não pode recusar o tratamento com o fármaco indicado pelo médico assistente. Precedentes.
+2. Agravo interno a que se nega provimento..” (AgInt no REsp 1696562 / SP, Rel. Ministra MARIA ISABEL GALLOTTI, quarta turma, julgado em 22/05/2018, DJe 01/06/2018) (g.n.)
+Por fim, consigne-se que, embora a Súmula n. 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+““(...) SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. APLICAÇÃO DA SÚMULA 284/STF POR FALTA DE INDICAÇÃO DOS ARTIGOS TIDOS POR VULNERADOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. (...) 4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes. (...)” (AgInt no REsp 1840089/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020). (destaquei)
+Reexame de matéria fática. Súmulas 5 e 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das Leis Federais, não sendo possível, pois, o exame de matéria fático-probatória, o que inclui a interpretação de cláusulas contratuais, ex vi Súmulas 5 e 7/STJ.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS. HOSPITAL DE ALTO CUSTO, REEMBOLSO. LIMITES DO CONTRATO. EXCLUSÃO. REDE CREDENCIADA. DEFICIÊNCIA DE INFORMAÇÃO. SÚMULAS 5 E 7 DO STJ. 1. Não é cabível, em recurso especial, a reinterpretação de cláusulas contratuais nem o reexame de matéria fático-probatória. Incidência das Súmulas 5 e 7/STJ. 2. Agravo interno a que se dá provimento.” (AgInt no AREsp 1182798/ES, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/11/2019, DJe 11/12/2019)
+Alega de violação ao artigo 47 art. 51, inc. IV e §1o, inc. II, do Código de Defesa do Consumidor argumento que o plano de saúde não é autorizado a limitar os meios curativos do paciente, sob pena de ofensa ao direito à vida e à dignidade da pessoa humana, que sobrepõem o contrato entabulado entre as partes na esfera privada.
+Quanto ao ponto, registra o acórdão impugnado (id. 52640993):
+“(...) Não existe cobertura:
+'F. Tratamentos ilícitos e antiéticos, assim definidos o aspecto médico, ou não reconhecidos pelas autoridades competentes.
+G – Fornecimento de medicamentos importados não nacionalizados. (grifei).'
+Dessa forma, no caso concreto, verifica-se a existência de cláusula de excludente quando a importação de medicamentos, bem como se vê que tal produto não está registrado na ANVISA.
+Como posicionou o STJ: ‘A atual jurisprudência desta Corte Superior orienta no sentido da inexistência de dever legal da empresa do plano de saúde em proceder ao fornecimento de medicamento importado, sem registro na ANVISA, sob pena de tal pratica ser tipificada como infração de natureza sanitária, conforme o art. 66 da Lei 6.280/76’. (ementa parcial, AGINT NO RESP 1687997-SP. Relator MINISTRO LÁZARO MAGALHÃES, julgado em 15/06/2018)’.” (g.n.)
+Desse modo, rever a conclusão firmada no acórdão no quanto a previsão contratual, que tange à justa negativa e aos requisitos autorizadores do fornecimento de medicamentos importados dependeria do revolvimento dos fatos e provas dos autos e cláusulas contratuais, atraindo o óbice sumular acima mencionado, conforme preleciona o STJ, senão vejamos:
+Rever quanto a justa negativa
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. O acolhimento da pretensão recursal no que toca ao cerceamento de defesa decorrente do julgamento antecipado da lide demandaria revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+2. O aresto hostilizado está em conformidade com a jurisprudência desta Corte, segundo a qual é indevida a recusa pela operadora de plano de saúde, da cobertura financeira do tratamento médico do beneficiário, ainda que admitida a possibilidade de previsão de cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão).
+2.1. Revela-se abusivo o preceito do contrato de plano de saúde excludente do custeio tratamento consistente no uso off label de medicamento, o qual era imprescindível à conservação da vida e saúde da beneficiária do plano de saúde. Incidência das Súmulas 7 e 83 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 1072354 / MS, Rel. Ministro MARCO BUZZE, QUARTA TURMA, julgado em 09/09/2019, DJe 12/09/2019)”
+Do mesmo modo , infirmar a conclusão do Tribunal de Origem quanto obrigação de ressarcimento integral das despesas demandaria o reexame dos fatos e provas dos autos, atraindo o óbice da Súmula 7 do STJ, senão vejamos:
+“DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA À COBERTURA DE TRATAMENTO QUIMIOTERÁPICO. PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FORÇA OBRIGATÓRIA DO CONTRATO. BOA FÉ OBJETIVA. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. FORNECIMENTO. IMPOSSIBILIDADE. 1. Ação de obrigação de fazer ajuizada em 31.10.2013. Recurso especial atribuído ao gabinete em 25.08.2016. Julgamento: CPC/73.
+2. A questão posta a desate nestes autos, consiste em aferir se é abusiva cláusula contratual de plano de saúde, que restringe o fornecimento de medicamento importado sem registro na ANVISA.
+3. Ausente o vício do art. 535, II do CPC/73, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente e dos dispositivos legais indicados como violados, apesar da interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Na hipótese, além do contrato firmado entre as partes, a Lei
+9.656/98 autoriza, expressamente, a possibilidade de exclusão do plano-referência o "fornecimento de medicamentos importados não nacionalizados".
+6. A manutenção da higidez do setor de suplementação privada de assistência à saúde, do qual a recorrente faz parte, depende do equilíbrio econômico financeiro decorrente da flexibilização das coberturas assistenciais oferecidas que envolvem a gestão dos custos dos contratos de planos de saúde.
+7. Determinar judicialmente o fornecimento de fármacos importados, sem o devido registro no órgão fiscalizador competente, implica em negar vigência ao art. 12 da Lei 6.360/76.
+8. Recurso especial conhecido parcialmente, e nessa parte, provido..” (REsp 1641896 / SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2017, DJe 22/03/2017) (g.n.)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” do artigo 105, III da Constituição Federal, diante da aplicação do verbete sumular 7 do STJ, senão vejamos:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA. (...) 3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’. 4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto. 5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 13 de outubro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XX
