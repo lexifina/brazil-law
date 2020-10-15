@@ -1,0 +1,15 @@
+Art. 18-C. Consideram-se atos de gestão irregular ou temerária praticados pelo dirigente aqueles que revelem desvio de finalidade na direção da entidade ou que gerem risco excessivo e irresponsável para seu patrimônio, tais como:
+I - aplicar créditos ou bens sociais em proveito próprio ou de terceiros;
+II - obter, para si ou para outrem, vantagem a que não faz jus e de que resulte ou possa resultar prejuízo para a entidade desportiva;
+III - celebrar contrato com empresa da qual o dirigente, seu cônjuge ou companheiro, ou parente, em linha reta, colateral ou por afinidade, até o terceiro grau, sejam sócios ou administradores, exceto no caso de contratos de patrocínio ou doação em benefício da entidade desportiva;
+IV - receber qualquer pagamento, doação ou outra forma de repasse de recursos oriundos de terceiros que, no prazo de até 1 (um) ano, antes ou depois do repasse, tenham celebrado contrato com a entidade desportiva profissional;
+V - antecipar ou comprometer receitas em desconformidade com o previsto em lei;
+VI - não divulgar de forma transparente informações de gestão aos associados;
+VII - deixar de prestar contas de recursos públicos recebidos.
+§ 1º Em qualquer hipótese, o dirigente não será responsabilizado quando:
+I - não tiver agido com culpa grave ou dolo; ou.
+II - comprovar que agiu de boa-fé e que as medidas realizadas visavam a evitar prejuízo maior à entidade.
+§ 2º Para os fins do disposto no inciso IV do caput deste artigo, também será considerado ato de gestão irregular ou temerária o recebimento de qualquer pagamento, doação ou outra forma de repasse de recursos por:
+I - cônjuge ou companheiro do dirigente;
+II - parente do dirigente, em linha reta, colateral ou por afinidade, até o terceiro grau; e.
+III - empresa ou sociedade civil da qual o dirigente, seu cônjuge ou companheiro, ou parente, em linha reta, colateral ou por afinidade, até o terceiro grau, sejam sócios ou administradores.
