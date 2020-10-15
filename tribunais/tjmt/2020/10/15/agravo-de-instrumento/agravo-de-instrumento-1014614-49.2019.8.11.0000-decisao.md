@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Extraordinário em Agravo de Instrumento n. 1014614-49.2019.8.11.0000
+RECORRENTE: APPARÍCIO PARTICIPAÇÕES LTDA
+RECORRIDO: MUNICÍPIO DE BARRA DO GARÇAS
+Vistos, etc.
+Trata-se de Recurso Extraordinário interposto por APPARÍCIO PARTICIPAÇÕES LTDA com fundamento no art. 102, III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público e Coletivo assim ementado (ID 46733968):
+“AGRAVO DE INSTRUMENTO – MANDADO DE SEGURANÇA – PRETENSÃO DE ABSTENCÃO DE APLICACAO DE LEI MUNICIAL – INCIDÊNCIA DO IMPOSTO DE TRANSMISSÃO DE BENS IMÓVEIS INCORPORADOS AO PATRIMONIO DE PESSOA JURIDICA – COBRANÇA SOBRE VALOR QUE EXCEDE CAPITAL SOCIAL – TEMA DE REPERCUSSÃO GERAL – VIOLAÇÃO À CONSTITUIÇAO FEDERAL E AO CÓDIGO TRIBUTÁRIO NACIONAL – NÃO VERIFICADA – FATO GERADOR DO ITBI – REGISTRO DA TRANSFERÊNCIA DA PROPRIEDADE E NÃO DA ALTERACAO DO CONTRATO SOCIAL – LIMINAR INDEFERIDA – DECISÃO MANTIDA – RECURSO DESPROVIDO. O Imposto de Transmissao de Bens Imóveis não incide sobre a incorporação ao patrimônio de pessoa jurídica, para fins de integralização do capital social. A Constituicao Federal e o Código Tributário Nacional não estabelecem a imunidade tributária na hipótese em que o valor do bem para incorporação excede o limite do capital social a ser integralizado ou da cota do sócio respectivo. O fato gerador do ITBI deve ser compreendido como o registro da transmissão da propriedade do bem imóvel no cartório competente, não havendo como se considerar como fato gerador, a data de alteração do contrato social. (TJMT – Segunda Câmara de Direito Público e Coletivo – RAI n. 1014614-49.2019.8.11.0000, Relator: MARIO ROBERTO KONO DE OLIVEIRA, j. em 16/06/2020).
+A Recorrente alega violação ao artigo 156, I, da CF, ao argumento de que: “A leitura do mencionado dispositivo Constitucional revela que não deve incidir ITBI quando a transmissão do bem imóvel se der para incorporação ao patrimônio de pessoa jurídica em pagamento de capital nela subscrito.
+Assevera que: “a referida imunidade constitucional, que é uma das formas de limitação material ao poder que tem o município de tributar, deve ser interpretada e aplicada de forma ampla, sob pena de ofensa ao mencionado dispositivo constitucional, bem como ao princípio da legalidade tributária, que também é uma espécie de limitação - agora formal - ao poder de tributar”.
+Recurso tempestivo (ID 53105960).
+Sem contrarrazões (ID 59596979).
+É o relatório.
+Decido.
+Sistemática de repercussão geral
+A Recorrente alega que não deve incidir ITBI quando a transmissão do bem imóvel se der para incorporação ao patrimônio de pessoa jurídica em pagamento de capital nela subscrito, sustentando violação ao artigo 156, I, da CF.
+No julgamento do recurso Leading Case (RE 796376, Tema 796) o Supremo Tribunal Federal entendeu que: “a imunidade em relação ITBI, prevista no inciso I do § 2o do art. 156 da Constituição Federal, não alcança o valor dos bens que exceder o limite do capital social a ser integralizado”.
+Confira-se:
+EMENTA. CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO DE TRANSMISSÃO DE BENS IMÓVEIS - ITBI. IMUNIDADE PREVISTA NO ART. 156, § 2o, I DA CONSTITUIÇÃO. APLICABILIDADE ATÉ O LIMITE DO CAPITAL SOCIAL A SER INTEGRALIZADO. RECURSO EXTRAORDINÁRIO IMPROVIDO. 1. A Constituição de 1988 imunizou a integralização do capital por meio de bens imóveis, não incidindo o ITBI sobre o valor do bem dado em pagamento do capital subscrito pelo sócio ou acionista da pessoa jurídica (art. 156, § 2o,). 2. A norma não imuniza qualquer incorporação de bens ou direitos ao patrimônio da pessoa jurídica, mas exclusivamente o pagamento, em bens ou direitos, que o sócio faz para integralização do capital social subscrito. Portanto, sobre a diferença do valor dos bens imóveis que superar o capital subscrito a ser integralizado, incidirá a tributação pelo ITBI. 3. Recurso Extraordinário a que se nega provimento. Tema 796, fixada a seguinte tese de repercussão geral: “A imunidade em relação ao ITBI, prevista no inciso I do § 2o do art. 156 da Constituição Federal, não alcança o valor dos bens que exceder o limite do capital social a ser integralizado".(RE 796376, Órgão julgador: Tribunal Pleno, Relator: Min. MARCO AURÉLIO, julgado 05/08/2020, publicado 25/08/2020".
+Adentrando ao caso concreto, verifica-se que o órgão fracionário deste Tribunal decidiu:
+“(...) Entretanto, a Constituicao Federal e o Código Tributário Nacional não estabelecem a imunidade tributária na hipótese em que o valor do bem para incorporação excede o limite do capital social a ser integralizado ou da cota do sócio respectivo
+(..) Insurge-se ainda o Agravante, ao fundamento de que, a Lei Complementar Municipal no 245 entrou em vigor em 01/01/2019, ao passo que a alteração do contrato social para a incorporação de bens imóveis ao patrimônio da pessoa jurídica, para fins de integração do capital social, fora promovida em agosto de 2018, não havendo se falar em aplicação da lei de forma retroativa. Em consonância aos precedentes do Superior Tribunal de Justiça, o fato gerador do ITBI ocorre no momento da transferência da propriedade imobiliária, mediante registro no cartório competente. Posto isso, considerando que o Recorrente não promoveu atos para fins de registro no ofício competente da transmissão da propriedade de bem imóvel, não há como considerar como fato gerador, a data de alteração do contrato social.
+Ademais, registre-se que o alcance da imunidade tributária do ITBI, sobre imóveis incorporados ao patrimônio de pessoa jurídica, quando o valor total dos bens excederem o limite do capital social a ser integralizado, trata-se de matéria com repercussão geral reconhecida”.
+Assim, observa-se que o aresto recorrido se encontra em conformidade com a orientação do STF, pois, para este caso, ambos os Tribunais entenderam que a imunidade em relação ITBI, prevista no inciso I do § 2o do art. 156 da Constituição Federal, não alcança o valor dos bens que exceder o limite do capital social a ser integralizado.
+Ante o exposto, com fundamento no art. 1.030, I, “b”, do CPC, e em face da conformidade do acórdão impugnado com o julgamento do recurso paradigma (Tema 796), nego seguimento ao Recurso Extraordinário diante da sistemática de repercussão geral.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 13 de outubro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+x
