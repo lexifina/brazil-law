@@ -1,0 +1,17 @@
+DECISÃO:
+    1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO EMBARGOS À EXECUÇÃO APRESENTADOS PELA FESP ALEGAÇÃO DE EXCESSO DE EXECUÇÃO EM VIRTUDE DA NÃO OBSERVÂNCIA DA LEI 11.960/2009 CONDENAÇÃO DA EMBARGANTE, NO PROCESSO DE CONHECIMENTO, AO PAGAMENTO DE QUANTIA DEVIDA A TÍTULO DE SEXTA-PARTE, CORRIGIDA MONETARIAMENTE E ACRESCIDA DE JUROS DE MORA A CONTAR DA CITAÇÃO SENTENÇA DE PROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO.
+    1. FIXAÇÃO DOS PARÂMETROS PARA CÁLCULO DE JUROS DE MORA E CORREÇÃO MONETÁRIA NA FASE DE CONHECIMENTO Decisão deste e. Tribunal determinando a aplicação da Lei 11.960/2009 a partir de 30/06/2009 Trânsito em julgado.
+    2. DA COISA JULGADA A coisa julgada material é a imutabilidade dos efeitos substanciais da sentença de mérito em prol da coisa julgada, não há que se cogitar da modificação dos parâmetros fixados na fase de conhecimento.
+    Sentença de procedência mantida, por outros fundamentos. Recurso de apelação desprovido”.
+    2.  O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da CF e ao entendimento firmado pelo Supremo Tribunal Federal (STF) no Tema 810.
+    3.  O recurso deve ser provido. O Supremo Tribunal Federal (STF), nos autos do RE 870.947-RG, Rel. Min. Luiz Fux, reconheceu a existência de repercussão geral da controvérsia, no Tema 810, ocasião em que se fixou a tese de que “o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina”.
+    4.  Ademais, o STF, no julgamento dos embargos de declaração opostos no RE 870.947-RG, decidiu por não modular os efeitos da decisão proferida. Veja-se trecho pertinente da ementa do referido paradigma:
+    “6. Há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate. Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma.
+    7. As razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional”.
+    5.  A propósito da existência de coisa julgada quanto ao índice de correção monetária, esta Corte tem afirmado que tal entendimento afronta o que decidido no julgamento do RE 870.947-RG. Veja-se, nesse sentido, a Rcl 40.157, Rel. Min. Alexandre de Moraes, e a Rcl 39.189, Rel. Min. Gilmar Mendes.
+    6.  Diante do exposto, com base no art. 932, V, do CPC/2015, e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário.
+       Publique-se.
+          Brasília, 16 de outubro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
