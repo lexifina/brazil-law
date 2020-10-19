@@ -1,0 +1,27 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1002018-96.2020.8.11.0000
+Recorrente: RUBIA ARGENTADEON e OUTROS
+Recorrido: BANCO DA AMAZONIA S. A.
+Vistos.
+Trata-se de Recurso Especial interposto por RUBIA ARGENTADEON e OUTROS (id 61635088) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 58584961):
+“RECURSO DE AGRAVO DE INSTRUMENTO – EMBARGOS A EXECUÇÃO – PESSOA JURÍDICA E AVALISTAS – CONTRATO FIRMADO PARA FOMENTO DA ATIVIDADE EXERCIDA - DECISÃO QUE INDEFERIU O EFEITO SUSPENSIVO A EXECUÇÃO POR AUSÊNCIA DOS REQUISITOS DA TUTELA PROVISÓRIA – ARTIGO 919, §1o DO CPC – INDEFERIU DE IGUAL FORMA APLICAÇÃO DO CDC E INVERSÃO DO ÔNUS DA PROVA – IMPOSSIBILIDADE DE MITIGAÇÃO DA TEORIA FINALISTA – AUSÊNCIA DE ELEMENTOS QUE DEMOSTREM A HIPOSSUFICIÊNCIA DA PESSOA JURÍDICA – GARANTIDOR QUE NÃO SE ENQUADRA NO CONCEITO DE CONSUMIDOR - DECISÃO MANTIDA – RECURSO DESPROVIDO. É possível a concessão de efeito suspensivo aos embargos à execução se presentes as circunstâncias descritas no § 1o do art. 919, do CPC: "§ 1o. O juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.". Pelo que se extrai da referida norma, todos os elementos citados devem estar presentes, para que se atribua efeito suspensivo aos embargos. Portanto, a excepcional concessão do efeito suspensivo aos embargos à execução está condicionada à verificação da probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Extrai-se que a obtenção de crédito pelos Agravantes, foi para o fim de incrementar e fomentar a atividade por ela exercida, de modo que se poderia determinar de plano a aplicação da teoria finalista - a qual exclui do conceito de consumidor quem adquire produto ou serviço para inseri-los na cadeia produtiva. Dessa forma, conforme posicionamento do STJ, a teoria finalista mitigada, segundo a qual a proteção especial oferecida pela legislação consumerista deve ser restringida “aos consumidores não-profissionais, pessoas físicas ou jurídicas, ou àqueles que, embora profissionais, não visem lucro ao adquirir ou utilizar determinado bem ou serviço ou, ainda, se apresentem como flagrantemente vulneráveis numa determinada relação ”. (STJ, Ministro Jorge Scartezzini, ReEsp. 541.867/BA). No caso, impossível a mitigação da teoria finalista, posto que não houve comprovação de hipossuficiência da pessoa jurídica. Também não é possível manter a aplicabilidade do Código de Defesa do Consumidor em relação às pessoas físicas agravantes. Isso porque se constata que figuraram na condição de avalistas da pessoa jurídica contratante, de modo que não travaram relação de consumo com o banco, posto não serem destinatárias de crédito fornecido.” (TJMT, RAI 1002018-96.2020.2020.8.11.0000, DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 22/09/2020)
+Não foram apresentados Embargos de Declaração.
+A parte Recorrente apresentou seu recurso especial sustentando que o acórdão deve ser reformado ante a suposta afronta “(...)ao previsto no inciso XI do art. 1.015 do CPC, de que trata da aplicação do código de defesa do consumidor nos termos da os artigos 2o, 3o, 6o, 17o, 29o e 52o da Lei 8.078/90, bem como a Súmula 297 do Superior Tribunal de Justiça – STJ, da inversão do ônus da prova contida no art. 373, § 1o, DO CPC, do pedido de efeito suspensivo aos Embargos à Execução contido no Art. 919. § 1o”
+Aduz que houve negativa de vigência aos artigos 2o, 3o, 6o, 17o, 29o e 52o da Lei 8.078/90, bem como a Súmula 297 do Superior Tribunal de Justiça – STJ, uma vez que os contratos discutidos nos autos são de adesão, devendo as cláusulas serem interpretadas em favor de quem aderiu, pugnando pela aplicação do CDC ao caso concreto.
+Afirma que o aresto afrontou o disposto no artigo 373, § 1o do CPC, uma vez que “(...)os Recorrentes não possuem porque não lhes foram entregues, cópia do contrato de abertura da conta corrente em epígrafe, e todos os demais pactos a ela vinculados, posteriormente realizados, bem como de contratos quitados (cujo pagamento, por certo, contribuiu para gerar o montante de saldo, que o recorrido entende como devedor!)”
+Pugna pelo reconhecimento da ocorrência de afronta ao artigo 919, § 1o do CPC, uma vez que ofertaram bens à penhora suficientes para garantir a execução, devendo ser atribuído o efeito suspensivo aos Embargos à Execução.
+Aponta a existência de dissídio jurisprudencial que seria apto a admitir positivamente o recurso.
+Recurso tempestivo e preparado, conforme certidões id 61762964 e 61877465.
+É o relatório.
+Decido.
+Embora a parte Recorrente pugne pela admissão e provimento do presente recurso especial para que seja deferida a tutela de urgência em Primeiro Grau, concedendo o efeito suspensivo aos Embargos à Execução, não há pedido de efeito suspensivo ao recurso especial na peça id 61635088.
+Assim, intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 16 de outubro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
