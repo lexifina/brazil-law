@@ -1,0 +1,36 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1000691-98.2020.8.11.0006
+Vistos etc.
+Cuida-se de Recurso de Apelação Cível interposto pelo BANCO BRADESCO FINANCIAMENTOS S.A., em virtude da sentença proferida pelo Juiz da 3a Vara Cível da Comarca de Cáceres que, nos autos da Ação de Busca e Apreensão ajuizada em desfavor de NATANAEL ALVES DA SILVA, indeferiu o pedido inicial e julgou extinto o processo sem resolução do mérito, nos termos do artigo 321, parágrafo único c/c 485, I, ambos do CPC/15.
+Inconformado, o Recorrente aduz que não houve intimação pessoal do autor para impulsionar o feito, no prazo de 48hs, tampouco intimação de seu patrono, via imprensa oficial para tanto.
+Assim, pugna pela tutela antecipada recursal, e, no mérito, pleiteia anulação da sentença.
+É o relatório do necessário. Decido.
+De acordo com o artigo 299, parágrafo único do CPC, no que tange aos recursos, é possível requerer tutela provisória ao órgão jurisdicional competente para apreciar o mérito.
+Portanto, não há dúvidas quanto ao cabimento da tutela provisória em grau recursal, de modo que a lei processual disciplina a antecipação de tutela para diversas espécies recursais.
+Nesse contexto, quanto ao Recurso de Apelação, o artigo 1.012, § 4.o, do CPC, aponta como requisitos para a tutela provisória recursal destinada à suspensão da eficácia da sentença a demonstração da probabilidade de provimento do recurso ou se, sendo relevante a fundamentação, houver risco de dano grave ou de difícil reparação.
+Na hipótese, o Apelante almeja antecipação de tutela recursal, a fim de que a sentença seja cassada até o julgamento do mérito do Recurso, em razão da probabilidade do provimento recursal, uma vez que a extinção sem julgamento do mérito pelo juízo a quo infringiu a regra disposta nos artigos 272, §2o c/c 485, III, ambos do Código de Processo Civil, que exige a prévia intimação pessoal da parte autora e a comunicação oficial do patrono, no prazo de 5 (cinco) dias, para dar andamento ao processo, antes de se determinar a extinção da ação.
+Consta do caderno eletrônico que o BANCO BRADESCO FINANCIAMENTOS S.A. ajuizou Ação de Busca e Apreensão em desfavor de NATANAEL ALVES DA SILVA.
+O Juiz singular ao analisar os termos da inicial, determinou ao Apelante, nos termos do artigo 321, do CPC, emendasse a inicial (ID 60592536), a fim de que adequasse a planilha do cálculo da dívida, para em seguida recolher as custas iniciais, bem como esclarecer a notificação para fins de constituição em mora do devedor.
+O Apelante requereu a juntada do comprovante de recolhimento das custas processuais e retificou a planilha do débito, esclarecendo a mora do devedor (ID 60592538 e 6052542).
+No entanto, o Juízo singular determinou nova emenda a inicial, no prazo de 15 (quinze) dias, uma vez que o Apelante tão somente apontou ter havido mudança do endereço do devedor constante do contrato – de acordo com a atualização cadastral no sistema da instituição bancária –, sem contudo apresentar documentação (ou novos esclarecimentos) sobre o meio pelo qual o endereço foi atualizado, a justificar a notificação da mora apresentada no ID. 29675733.
+Não obstante a decisão supra, o Apelante reafirmou que após a assinatura do contrato, o devedor “veio a se mudar e atualizou seu cadastro junto ao banco” (ID 60592546).
+Em contrapartida, o Juízo a quo esclareceu que a Notificação Extrajudicial é condição essencial à propositura da ação, sendo que o recebimento da correspondência firmada por pessoa estranha, só terá validade se restar cabalmente demonstrado que o devedor efetivamente atualizou seu endereço, pelo que concedeu prazo de 5 (cinco) dias para que o Apelante esclarecesse e demonstrasse o meio pelo qual obteve o endereço atualizado do Réu (ID 60592547).
+Diante da nova decisão, o Apelante pleiteou em 18/5/2020 (ID 60592549) ao magistrado prazo de 45 (quarenta e cinco) dias, porém, fora-lhe deferido, em 20/5/2020, “dilação do prazo de 15 dias, sob pena de extinção” (ID 60593950).
+Tal decisão foi devidamente publicada no Diário de Justiça Eletrônico (DJe n. 10739/2020), disponibilizado em 22/5/2020, em sua página 1238.
+Posteriormente foi certificado que a Instituição Financeira deixou de retificar a inicial conforme determinado (ID. 60593951).
+Desta forma, o Juiz singular indeferiu o pedido inicial e julgou extinto o processo sem resolução do mérito, nos termos do artigo 321, parágrafo único c/c 485, I, ambos do CPC/15, o que deu azo a este Apelo.
+De acordo com o artigo 320 do CPC, a petição inicial será instruída com os documentos indispensáveis à propositura da ação.
+Como é cediço, a falta de documento indispensável a amparar ou refutar a pretensão deduzida, é a extinção do processo sem apreciação do mérito, nos termos do artigo 321, parágrafo único c/c o artigo 485, I, do CPC.
+Na hipótese, o Juízo a quo oportunizou ao Recorrente, por duas vezes, emendar a petição inicial, em atendimento ao que determina o artigo 321, caput, do CPC, sob pena de extinção.
+Sem embargo, os advogados do Apelante intimados acerca da dilação do prazo, por 15 (quinze) dias, a fim de que esclarecessem e demonstrassem a regularidade da notificação do devedor em endereço diverso do constante no contrato de alienação fiduciária (DJe n. 10739/2020), disponibilizado em 22/5/2020 (p. 1238), mantiveram-se inertes.
+Quanto à necessidade de intimação pessoal da parte autora, a situação somente é cabível nos casos de abandono da causa, ou demora na concretização da citação da parte devedora, conforme julgados colacionados pelo Apelante.
+In casu, a situação é diversa e circunscreve à inépcia da inicial, consoante já destacado quando da não concessão da tutela provisória recursal (STJ, AgInt no REsp 1419086/SP, DJe de 16/5/2018), verbis:
+EMENTA PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RITO ORDINÁRIO. EMENDA À INICIAL. PRAZO NÃO CUMPRIDO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. INTIMAÇÃO PESSOAL DA PARTE. DESNECESSIDADE. 1. O Superior Tribunal de Justiça tem entendimento firme no sentido de que é desnecessária a intimação pessoal da parte prevista no art. 267, § 1o, do CPC/1973, quando o processo é extinto sem julgamento do mérito, em virtude de não ter sido promovida a emenda da petição inicial. Precedentes: REsp 802.055/DF, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 20/3/2006; AgRg no AgRg nos EDcl no REsp 723.432/RJ, Rel. Ministro Luiz Fux, Primeira Turma , DJe 5/5/2008; REsp 1.200.671/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJe 24/9/2010; REsp 1.074.668/MG, Rel. Ministra Eliana Calmon, Segunda Turma , DJe 27/11/2008. 2. Agravo interno não provido. (AgIn no REsp n. 1.419.086-SP, 1a Turma, Rel. Min. Benedito Gonçalves, j. 8/5/2018, Dje de 16/5/2018).
+Logo, intimada a parte autora por meio de seus causídicos, para os fins de emenda à inicial (em mais de uma oportunidade), despicienda a intimação pessoal.
+Incabível, pois, o atendimento da pretensão da tutela recursal de evidência, no caso.
+Assim, levando em consideração os fundamentos esposados, indefiro a tutela provisória recursal.
+Intime-se o Apelante.
+Decorrido o prazo recursal, retornem para lançar relatório.
+Cumpra-se.
+Cuiabá, 19 de outubro de 2020.
+Desa. Clarice Claudino da Silva
+Relatora
