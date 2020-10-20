@@ -1,0 +1,23 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+AGRAVO INTERNO No 1016580-13.2020
+AGRAVANTE: QUALITY COMERCIAL DE PRODUTOS MÉDICOS HOSPITALARES LTDA.
+AGRAVADA: IMPORTADORA E EXPORTADORA JARDIM CUIABÁ LTDA - ME
+Vistos.
+Trata-se de agravo interno interposto por QUALITY COMERCIAL DE PRODUTOS MÉDICOS HOSPITALARES LTDA. contra a decisão monocrática deste Relator que deferiu a liminar recursal para suspender os efeitos do decisum a quo, proferido nos autos da Execução de Título Extrajudicial no 1041085-13.2018.8.11.0041.
+Nas razões do recurso, de Id. 57634487, defende o desacerto da decisão agravada porquanto “não há respaldo legal, no seu todo, do deferimento da liminar ora concedida, visto que resta inequívoco flagrante de “conflito de decisão”, com a decisão proferida no Agravo de Instrumento no. 1014384-07.2019.8.11.000.
+Sustenta que a decisão do r. Juízo Singular (doc. 003) se pautou em 02 (duas) partes, sendo a 1a parte da decisão a quo que reconheceu a materialidade da sucessão patrimonial entre as empresas Hospital Jardim Cuiabá Ltda e Importadora E Exportadora Jardim Cuiabá Ltda, e a 2a parte da decisão que deferiu a antecipação de tutela formulada pela parte exequente, determinando o arresto cautelar para indisponibilidade das cotas sociais, dos sócios Arilson Costa de Arruda e Fares Hamed Abouzeid Fares, junto a empresa Importadora E Exportadora Jardim Cuiabá Ltda, até o limite da presente execução, bem como determinou que a empresa Unimed Cuiabá, fosse oficiada para que efetuar o depósito judicial de 30% (trinta por cento) sobre o faturamento de produção mensal da empresa Importadora E Exportadora Jardim Cuiabá Ltda, também até o limite da presente execução.
+Assevera que decisão monocrática do r. Relator, ora agravada, ficou embasada unicamente na decisão do RAI 1014384-07.2019.8.11.0000 proferida por esta c. 3a Câmara, oportunidade em que foi reconhecida que a empresa arrendante, ao se reintegrar na posse do imóvel e móveis arrendados por força de decisão judicial em outro processo, deve ser responsabilizada pelo pagamento dos débitos advindos da atividade empresarial.
+Sob tais fundamentos, em resumo, busca a retratação da decisão agravada para afastar o risco de decisões conflitantes, especificamente quanto a responsabilidade da empresa arrendante/agravada pelo pagamento dos débitos advindos da atividade empresarial. Sucessivamente, pugna pela submissão do julgamento ao Colegiado.
+A contraminuta juntada, no Id. 61359971, pela manutenção da liminar recursal.
+É a síntese do necessário.
+Fundamento e DECIDO.
+Revendo as acepções legais que regem a matéria, bem como em atenção às razões expendidas no recurso, identifico que realmente houve o equívoco na suspensividade total deferida na liminar do agravo de instrumento, outrora analisada.
+Da leitura da decisão a quo, nota-se que realmente foram analisadas duas situações distintas, sendo uma por reconhecer a sucessão empresarial e outra no sentido da antecipação da tutela formulada pela parte exequente, quanto o arresto cautelar, para satisfação de seu crédito.
+E neste particular, em matéria semelhante, quando do julgamento do Recurso De Agravo de Instrumento no 1014384-07.2019, esta c. câmara se posicionou no sentido de que “a empresa recorrente Importadora e Exportadora Jardim Cuiabá Ltda., ao se reintegrar na posse do imóvel e móveis arrendados, a fim de dar continuidade à gestão da atividade hospitalar a partir de 20/04/2018, estando o Hospital Jardim Cuiabá Ltda./agravado e seus sócios impedidos de praticar quaisquer atos de administração, gerenciamento, representação ou qualquer outro ato inerente à atividade comercial objeto da avença entre as empresas recorrentes (por força do comando judicial), deve ser responsabilizada pelo pagamento dos débitos advindos da atividade empresarial até então exercitada pelo HJC”.
+Portanto, sendo a matéria atinente a responsabilidade da empresa arrendante/agravada pelo pagamento dos débitos advindos da atividade empresarial sido amplamente discutida e assentada nesta c Câmara em oportunidade pretérita, na forma do § 2o do art. 1.021 do CPC, sem tecer maiores considerações, EXERÇO O JUÍZO DE RETRATAÇÃO para melhor adequação de precedente e, por conseguinte, REVOGO, em parte, a decisão de Id. 54956962, e suspendo os efeitos da decisão a quo relacionadas apenas ao reconhecimento da sucessão empresarial, mantendo, no mais, os atos constritivos de arresto cautelar, que visam garantir o recebimento dos débitos executados.
+Intimem-se. Comunique-se o juízo a quo.
+Após, retornem os autos conclusos para julgamento de mérito do agravo de instrumento.
+Desembargador DIRCEU DOS SANTOS
+RELATOR
