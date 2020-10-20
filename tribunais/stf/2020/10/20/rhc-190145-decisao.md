@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Frank William de Moraes Leal Horácio, contra decisão monocrática do Ministro Nefi Cordeiro, do Superior Tribunal de Justiça, que denegou a ordem no HC nº 583.042/ES.
+    Segundo se infere dos autos, o recorrente está preso preventivamente
+    “no presídio militar do Quartel do Comando Geral da Polícia Militar do Estado do Espírito Santo desde o dia 13 de setembro de 2019, por força de decreto prisional exarado pelo juízo da 1ª Vara Criminal da Comarca de Vitória, Espírito Santo, nos autos da ação penal nº 0019973- 06.2019.8.08.0024. ”
+    Sucede que, na sua visa, o local não atende ao comando preconizado no art. 7º, V da Lei 8.906/94.
+    Requer, liminarmente, o provimento do recurso, para que seja colocado em sala de estado maior ou, na sua ausência, em prisão domiciliar.
+    Examinados os autos, decido.
+    O recurso sequer merece que dele se conheça, uma vez que se volta, pelo que se depreende dos autos, contra decisão singular proferida pelo relator no bojo do HC nº 583.042/ES.
+    Consoante pacífica jurisprudência do Supremo Tribunal Federal, “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11).
+    Segundo preconizado pela eminente relatora naquele julgado, “tratando-se de decisão monocrática, contra ela não poderia ser interposto o Recurso Ordinário em Habeas Corpus, porque o art. 102, II, a, da Constituição da República, condiciona a sua apresentação às situações em que se teve um pronunciamento colegiado”.
+    Perfilhando esse entendimento, destaco:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. RECURSO INTEMPESTIVO. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. AUSÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO” (RHC nº 121.834/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 6/11/14);
+    “Agravo regimental no recurso ordinário em habeas corpus. Argumentos insuficientes para modificar a decisão ora agravada. Recurso ordinário manejado contra decisão monocrática proferida em sede de habeas corpus impetrado ao Superior Tribunal de Justiça. Não cabimento. Precedentes. Violação do princípio da colegialidade suscitada de forma inovadora no agravo regimental. Impossibilidade. Precedentes. Regimental não provido” (RHC nº 121.999-AgR/SP, Primeira Turma, de minha relatoria, DJe de 27/8/14);
+    “Penal e processual penal. Recurso ordinário em habeas corpus. Atentado violento ao pudor contra vulnerável menor de 4 anos de idade (CP, art. 214, c/c art. 224, a). Falsa declaração de pobreza. ilegitimidade do Ministério Público para propor ação penal pública condicionada. Tema não suscitado no Tribunal local. Writ não conhecido, monocraticamente, no STJ. Não interposição de agravo regimental. Jurisdição não exaurida no âmbito do Tribunal a quo. Inobservância do princípio da colegialidade (artigo 102, inciso II, alínea a, da Constituição Federal). Supressão de instância. Pretensão de habeas corpus, de ofício. Reexame de fatos e provas. Inviabilidade” (RHC nº 11.935/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13).
+    Registre-se, ademais, que “a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Corte” (HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14).
+    Perfilhando esse entendimento, destaco, da Primeira Turma, o RHC nº 111.395/DF, Relator o Ministro Luiz Fux, DJe de 30/9/13; e o HC nº 101.407/PR, de minha relatoria, DJe de 19/3/14.
+    De qualquer modo, é importante registrar que o Ministro Nefi Cordeiro, ao denegar a ordem no HC nº 583.042/ES, consignou que
+    “a decisão impugnada destacou que o paciente está numa cela separada dos presos comuns, e entendeu que o documento em questão não aponta condições insalubres ou indignas para a custódia cautelar do Paciente, tampouco a impossibilidade de adaptação do local para garantir os direitos dos advogados que ali se encontram. Aliás, os impetrantes sequer desincumbiram do ônus de comprovar tais pontos.
+    Verifica-se, pois, que, de acordo com as instâncias ordinárias, a sala na qual a custódia preventiva está sendo cumprida é compatível com o que preceitua a legislação pertinente, com instalações condignas e separado dos demais detentos.”
+    É firme a jurisprudência da Corte no sentido de que, “[a]nte a comprovação de compatibilidade da unidade na qual recolhido o paciente com as prerrogativas do Estatuto da Advocacia, tem-se atendido o que previsto no artigo 7º, inciso V, da Lei nº 8.906/1994.” (HC nº 170.211, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 24/3/20)
+    Perfilhando esse entendimento:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE AMEAÇA E DESACATO. CONTRAVENÇÃO PENAL DE VIAS DE FATO. TRANCAMENTO DE AÇÃO PENAL.
+    1. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que ‘o recolhimento de advogado em local que, embora não configure Sala de estado maior, possua instalações condignas, não viola a autoridade do que decidido na ADI 1.127/DF’ (Rcl 16.011, Rel. Min. Luiz Fux).
+    2. O entendimento do STF é no sentido de que ‘não há falar em cerceamento ao direito de defesa quando o magistrado, de forma fundamentada, lastreado nos elementos de convicção existentes nos autos, indefere pedido de diligência probatória que repute impertinente, desnecessária ou protelatória, não sendo possível se afirmar o acerto ou desacerto dessa decisão nesta via processual’ (HC 106.734, Rel. Min. Ricardo Lewandowski).
+    3. O trancamento da ação penal, por meio do habeas corpus, só é possível quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa (HC 103.891, Redator para o acórdão o Min. Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min. Ilmar Galvão; HC 118.066-AgR, Relª. Minª. Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux). No caso de que se trata, inexiste razão para a superação dessa orientação restritiva
+    4. Agravo regimental a que se nega provimento.” (HC nº 157.003, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 9/11/18)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+    Publique-se.
+    Brasília, 20 de outubro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
