@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, no julgamento dos Embargos de Declaração no Agravo Regimental no Agravo em Recurso Especial 1.630.006/DF, submetido à relatoria do Ministro REYNALDO SOARES DA FONSECA.
+    Consta dos autos que o paciente foi condenado à pena de 3 anos anos de detenção, em regime inicial aberto, pela prática do crime previsto no art. 89 da Lei 8.666/1993.
+    Chegou-se ao Superior Tribunal de Justiça por meio de Agravo em Recurso Especial, conhecido parcialmente para negar provimento ao Recurso Especial, em decisão mantida pelo colegiado ao negar provimento ao subsequente Agravo Regimental. Contra esse julgado, ainda foram opostos Embargos de Declaração, rejeitados.
+    Nesta ação, o impetrante alega, em suma: (a) tanto o Agravo Regimental como os Embargos Declaratórios [julgados pelo STJ] foram colocados diretamente em mesa para julgamento sem a prévia inclusão do feito em pauta, circunstância de flagrante nulidade, eis que acarretou a supressão de garantias constitucionais asseguradas ao Paciente; e (b) o artigo 184-C, II, do RISTJ, determina que, após a inclusão do processo para julgamento na sessão virtual, a pauta correspondente deve ser publicada no Diário de Justiça Eletrônico.
+    Requer a defesa, ao final, a concessão da ordem, para reconhecer e declarar a nulidade dos acórdãos relativos aos julgamentos do Agravo Regimental e dos Embargos de Declaração, a fim de que sejam realizados novos julgamentos mediante a respectiva publicação da pauta do Diário da Justiça eletrônico, com antecedência de cinco dias úteis da data fixada para início do julgamento, conforme prevê o Regimento Interno do Superior Tribunal de Justiça.
+    É o relatório. Decido.
+    Além de não se indicar precisamente o alegado constrangimento ilegal ao direito de ir e vir do paciente, não houve, pelo que se depreende, pronunciamento específico do Superior Tribunal de Justiça a respeito da matéria veiculada nesta impetração. Conforme entendimento externado no julgamento do HC 93.304/DF, no âmbito do Habeas Corpus é indispensável que a autoridade reputada coatora tenha tido a oportunidade de se manifestar sobre o pedido objeto da impetração, sob pena nem mesmo se poder falar em coação. Leia-se a ementa do julgado:
+    (…) 1. Embora o habeas corpus não esteja sujeito ao requisito do prequestionamento, a impetração deve observar as regras de competência previstas no ordenamento jurídico-constitucional. Observância ao princípio do devido processo legal, vedada a supressão de instância.
+    2. Para que haja, efetivamente, uma autoridade coatora, é necessário que essa autoridade tenha tido a oportunidade de se manifestar sobre o pedido formulado pelo impetrante. Do contrário, não é possível falar em coação.
+    3. A desnecessidade de prequestionamento, portanto, não autoriza a supressão de instância. Apenas garante que o writ será conhecido se o pedido formulado pelo impetrante tiver sido indeferido pelo órgão competente, independentemente dos fundamentos utilizados na decisão apontada como coatora.
+    4. No caso, a alegação de nulidade do julgamento, por deficiência de defesa técnica, não foi sequer mencionada nas razões de apelação do recorrente, não sendo possível falar em ato coator do Tribunal de Justiça nesta matéria.
+    5. Recurso ordinário desprovido.
+    (RHC 93.304, Relator Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 19/12/2008)
+    Além disso, o Supremo Tribunal Federal já se pronunciou pela legitimidade constitucional da regra que define as hipóteses de desnecessidade de prévia inclusão em pauta de Habeas Corpus, Agravo Regimental e Embargos de Declaração, conforme ementa:
+    EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMBARGOS ACOLHIDOS PARA PRESTAR ESCLARECIMENTOS, SEM MODIFICAÇÃO DA DECISÃO EMBARGADA.
+    I - A jurisprudência da Corte é no sentido de que revestem-se de plena legitimidade constitucional as regras constantes do Regimento Interno do Supremo Tribunal Federal (RISTF) que não permitem sustentação oral em determinados processos (art. 131, § 2°) e que definem as hipóteses de desnecessidade de prévia inclusão em pauta de certos feitos (art. 83, § 1°, III). Precedentes.
+    II – Embargos de declaração acolhidos para prestar esclarecimentos, sem modificação da decisão embargada (RE 1018956 AgR-ED-ED, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 7/12/2018).
+    Por fim, registre-se que o julgamento ora impugnado, ao que tudo indica, foi realizado por videoconferência; a significar, portanto, indevida a invocação de regra regimental que disciplina a realização de julgamentos em ambiente virtual.
+    Diante do exposto, com base no artigo 21, §1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 21 de outubro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
