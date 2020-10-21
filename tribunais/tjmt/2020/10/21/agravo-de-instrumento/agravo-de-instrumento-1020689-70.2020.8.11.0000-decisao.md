@@ -1,0 +1,33 @@
+Trata-se de Recurso de Agravo de Instrumento interposto por MARIA LÚCIA ROCHA em face de decisão proferida pelo juízo da Primeira Vara Cível da Comarca de Rondonópolis que nos autos n.o 1018855-23.2020.8.11.0003 – Código 11636875 – Ação de Revisional de Débito Bancário c/c Obrigação de Fazer e Danos Morais - indeferiu a tutela provisória de urgência, a fim de que os réus se abstenham de realizar quaisquer descontos na conta bancária da autora que ultrapassem o percentual de 35%, somados os descontos com os débitos em conta.
+Inconformada em suas razões alega em síntese, que busca amparo judicial para ter sua dignidade restabelecida ante a existência de descontos abusivos em seu benefício previdenciário, que é de apenas um salário mínimo, R$ 1.045,00 (um mil e quarenta e cinco reais).
+Sustenta que os abusos patrocinados pelas Rés já consumiram, em determinado mês, até mesmo 100% (cem por cento) do pagamento da Recorrente, o que fez com que a ela fosse obrigada a adquirir mútuos para prover alimento para ela e sua família, haja vista que ela é quem subsidia a sua sobrevivência e de cinco familiares.
+Consigna, que não nega que tenha adquirido alguns mútuos com as Recorridas, contudo, que é analfabeta e não sabe dizer ao certo quais empréstimos contratou, tendo em vista que toda vez que se dirigia à filial da Recorrida, para fazer a prova de vida necessária para o seu benefício previdenciário, os prepostos do Banco Bradesco S.A. lhe fazia registrar sua digital em vários papéis, os quais, ela desconhecia o seu real conteúdo.
+Assim, que, com pandemia de Covid -19, o amento do valor da sexta básica , no segundo semestre do ano de 2020, considerou imprescindível postular pelo amparo judicial para ter seus contratos de mútuos revistos de forma que as Recorridas não efetuassem descontos superiores a 35% (trinta e cinco por cento) de seu benefício, haja vista que se respeitado esse limite a Recorrente aproveitaria o valor de R$ 679,25 (seiscentos e setenta e nove reais e vinte e cinco centavos).
+Assevera que para não ter sua dignidade afetada até o deslinde processual, postulou a tutela de urgência e de evidência para que os Recorridos não efetuassem descontos superiores aos 35% do benefício mencionado, contudo, a respeitada decisão do juízo a quo indeferiu tal pedido, bem como, não consignou limite para o desconto em folha e em conta patrocinados pelas Recorridas, fato que claramente deixa a Recorrente fragilidade diante do abuso de direito das mesmas, como, por exemplo, quando aconteceram os supramencionados descontos, com destaque ao ocorrido na data de 28/12/2018 , que, por sua vez, consumiu 100% do pagamento da pensão conforme se infere do extrato bancário.
+Discorre sobre pretensão da antecipação recursal, da inversão do ônus da prova e tutela de urgência de evidência.
+Requer o conhecimento e o provimento do presente recurso.
+Que seja deferida a inversão do ônus da prova, por ser analfabeta e não possuir acesso aos contratos celebrados.
+Requer a concessão da tutela de urgência ou de evidência para que as Partes Recorridas limitem se ao desconto de 35% sobre o mesmo (cumulados o desconto em folha com o débito diretos em conta), sob pena de astreintes;
+Em não sendo deferido o pedido anterior, que seja deferido por Vossas Excelências um outro percentual que sirva de limite para os referidos descontos, sob pena de astreintes.
+DECIDO.
+Para a concessão do efeito pleiteado liminarmente neste Recurso de Agravo de Instrumento com fundamento na tutela provisória de evidência faz-se necessária a presença dos pressupostos, quais sejam a demonstração de uma das hipóteses do art. 311 do CPC:
+Art. 311. A tutela da evidência será concedida, independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo, quando:
+I - ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte;
+II - as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante;
+III - se tratar de pedido reipersecutório fundado em prova documental adequada do contrato de depósito, caso em que será decretada a ordem de entrega do objeto custodiado, sob cominação de multa;
+IV - a petição inicial for instruída com prova documental suficiente dos fatos constitutivos do direito do autor, a que o réu não oponha prova capaz de gerar dúvida razoável.
+Parágrafo único. Nas hipóteses dos incisos II e III, o juiz poderá decidir liminarmente.
+Por sua vez, para a concessão da medida pleiteada na modalidade de tutela provisória de urgência, é preciso a comprovação dos pressupostos autorizadores da medida de urgência, quais sejam a probabilidade do direito e o perigo de dano ou resultado útil ao processo, nos termos dos arts. 294 c/c 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando o juiz sua decisão (...)”.
+Pois bem.
+Nesse aspecto, em sede de cognição sumária, não identifico a presença dos pressupostos autorizadores para a concessão da tutela de evidência.
+Da mesma forma, não se mostra possível a antecipação de tutela com fundamento no art. 300 do CPC, eis que não verifico nos autos elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+A Agravante sustenta que busca amparo judicial para ter sua dignidade restabelecida ante a existência de descontos abusivos em seu benefício previdenciário, que é de apenas um salário mínimo, R$ 1.045,00 (um mil e quarenta e cinco reais), no entanto não traz aos autos extrato de seu benefício, demonstrando de forma clara os descontos que estão sendo realizados, traz apenas planilhas produzidas unilateralmente, e vários “prints” de extratos bancários incompletos sem indicação de ano.
+Posto isso, INDEFIRO a medida vindicada ficando, assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o Agravado, na forma do art. 1.019, II do NCPC, para que responda no prazo legal.
+Cumpra-se.
+Cuiabá, 21 de outubro de 2020.
+Alexandre Elias Filho
+Relator Substituto.
