@@ -1,0 +1,61 @@
+AGRAVANTE(S):
+REMA AUTO CAR COMERCIAL LTDA - EPP
+AGRAVADO(S):
+ESTADO DE MATO GROSSO
+Protocolo: 1021095-91.2020.8.11.0000
+LIMINAR
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por REMA AUTO CAR COMERCIAL LTDA - EPP contra decisão proferida pelo Juízo da 3a Vara Especializada da Fazenda Pública da Comarca de Cuiabá-MT, que nos autos da Ação Anulatória de Crédito Tributário c/ pedido de Tutela Antecipada n. 0018206-34.2015.8.11.0041, indeferiu a tutela de urgência pleiteada para suspender a exigibilidade dos créditos tributários, formalizados e intrumentalizados pelos Documentos de Arrecadação sob n. 999.02.242.081/54; 999.02.509.822/10; 999.02.523.036/70; 999.03.059.069/43; 999.03.113.415/37 e 999.06.256.520/20, os quais somam a importância de R$ 536.870.27 (quinhentos e trinta e seis mil, oitocentos e setenta reais e vinte e sete centavos).
+Aduz que a recorrente é importadora de autopeças via Porto Seco e possui incentivo fiscal concedido pelo Estado de Mato Grosso, na qual realiza o pagamento de 13% (treze por cento) para as mercadorias circuladas dentro no Estado de Mato Grosso e 2% (dois pontos percentuais) para as mercadorias circuladas em outras unidades da federação, conforme disposto na resolução Condeprodemat n. 005/2005.
+Sustenta que no ano de 2014 o Estado de Mato Grosso desconsiderou o benefício fiscal da agravante e realizou o lançamento em seu sistema de conta corrente fiscal de crédito de ICMS da Recorrente com alíquotas de 10 % e 8%, formalizados pelos Documentos de Arrecadação sob n. 999.02.242.081/54; 999.02.509.822/10; 999.02.523.036/70; 999.03.059.069/43; 999.03.113.415/37 e 999.06.256.520/20, no valor total de R$ 536.870.27 (Quinhentos e trinta e seis mil, oitocentos e setenta reais e vinte e sete centavos).
+Argumenta que em abril de 2015 ajuizou a ação originária onde requereu a concessão do benefício da justiça gratuita e o deferimento da tutela de urgência para suspender a exigibilidade do crédito tributário com fulcro no artigo 151, inciso V, do Código Tributário Nacional.
+Assegura que diante do indeferimento da justiça gratuita em primeiro e segundo grau, recolheu as custas iniciais em dezembro de 2016.
+Assevera que a tutela de urgência foi analisada somente em 04 de julho de 2018, sendo indeferida sob o fundamento de ausência de perigo na demora, uma vez que a parte autor não requereu qualquer pedido de diligencia depois de recolhida as custas iniciais.
+Argui que contra essa decisão foi oposto embargos de declaração em 14/06/2018, o qual foi analisado e rejeitado somente em setembro de 2020.
+Narra que demonstrou nos autos a ilegalidade dos lançamentos tributários questionados, bem como que os tributos com as alíquotas referentes ao benefício fiscal já haviam sido recolhidos.
+Pontua que apesar de demonstrado a plausibilidade do direito pleiteado da inicial, a tutela de urgência foi indeferida em razão de suposta inercia do autor.
+Narra que a demora na análise da tutela de urgência não se deu por inércia da parte autor e sim pela morosidade do Poder Judiciário, motivo pelo qual, a Agravante não pode ser responsabilizada.
+Afirma que estão presentes os requisitos para deferir a suspensão do crédito sem a exigência de depósito do montante impugnado (art. 151, inciso V, do CTN).
+Com base nestes fundamentos, pugna pelo deferimento da tutela antecipada recursal para determinar a suspensão da exigibilidade do crédito tributário objeto da demanda sem a necessidade de deposito integral. Ao final requer que seja dado pelo provimento ao recurso, para deferir a tutela de urgência pleiteada na exordial.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo ao Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, ambos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Passo a análise dos requisitos da probabilidade do direito e do fundado receio de dano grave e de difícil reparação. Vejamos.
+Pretende a Agravante a suspensão da exigibilidade dos créditos de ICMS, lançados pelos Documentos de Arrecadação sob n. 999.02.242.081/54; 999.02.509.822/10; 999.02.523.036/70; 999.03.059.069/43; 999.03.113.415/37 e 999.06.256.520/20, os quais somam a importância de R$ 536.870.27 (quinhentos e trinta e seis mil, oitocentos e setenta reais e vinte e sete centavos), sem a necessidade do deposito integral do valor da dívida impugnada.
+Sobre o assunto, sabe-se que de acordo com o artigo 151, incisos “II” e “V” do Código Tributário Nacional, é possível a suspensão do crédito tributário mediante realização do depósito integral do montante impugnado e/ou por meio de “concessão de medida liminar ou de tutela antecipada” nas ações ordinárias ou mandamentais.
+Vejamos o disposto no Código Tributário Nacional:
+“Art. 151. Suspendem a exigibilidade do crédito tributário:
+I - moratória;
+II - o depósito do seu montante integral;
+III - as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo;
+IV - a concessão de medida liminar em mandado de segurança;
+V – a concessão de medida liminar ou de tutela antecipada, em outras espécies de ação judicial; (Incluído pela Lcp no 104, de 2001);
+VI – o parcelamento”.
+Extrai-se do citado dispositivo legal que o depósito do montante integral da dívida impugnada e a concessão de tutela de urgência são modalidades distintas para a suspensão do crédito tributário.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça, como cito:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. ART. 151, II E V, DO CTN. HIPÓTESES INDEPENDENTES DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. RECURSO PROVIDO. [...] 2. As hipóteses de suspensão de exigibilidade do crédito tributário previstas nos incisos II e V do art. 151 do CTN são independentes, pelo que a suspensão da exigibilidade do crédito tributário pode ser reconhecida com a simples presença da situação constante do último inciso, independentemente da existência ou não do depósito integral em dinheiro. Precedentes: AgInt no REsp 1.447.738/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/5/2017; AgRg no AREsp 449.806/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/10/2014; e AgRg no REsp 1.121.313/RS, Rel. Ministra Denise Arruda, Primeira Turma, DJe 9/12/2009. 3. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação. 4. Recurso Especial provido”. (STJ - REsp 1809674/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2019, DJe 10/09/2019)
+Nessa vertente, vejamos a lição do Professor Eduardo de Moraes Sabbag na obra Manual de Direito Tributário:
+“[...] As tutelas de urgências poderão ser concedidas, desde que haja elemento que demonstrem o fumus boni iuris (probabilidade do direito vindicado) e o periculum in mora (perigo de dano ou o risco ao resultado útil do processo) [...] A suspensão do crédito tributário, por meio de tutela concedida em ação judicial, consta expressamente no rol dos incisos do art. 151 do CTN, o que equivale dizer que a extinta “medida cautelar” foi substituída pela atual tutela antecipada antecedente – um tipo de tutela de urgência que pode ser considerada a causa suspensiva da exigibilidade do crédito tributário. [...]”. (SABBAG, Eduardo de Moraes. Manual de Direito Tributário – 11 ed. São Paulo: Saraiva Educação, 2019, p. 1076-1077)
+Diferente não é o ensinamento extraído da obra “Código Tributário Nacional Comentado” de Coordenação do doutrinador Vladimir Passos de Freitas, in verbis:
+“Concessão de liminar em mandado de segurança. Até janeiro de 2001, esse era o único provimento judicial relacionado com causa suspensiva da exigibilidade do crédito tributário. Em razão disso, multiplicaram-se decisões nos tribunais, até mesmo no Superior Tribunal de Justiça, negando o poder de cautela geral do juiz para suspender a exigibilidade do crédito tributário, ainda que houvesse o perigo da demora e o direito se revelasse plausível. Felizmente, a situação veio a ser corrigida pela Lei Complementar 104, de 10/01/2001, que incluiu o inciso V no art. 151, prevendo expressamente que suspende a exigibilidade do crédito tributário, também concessão de medida liminar ou tutela antecipada, em outras espécies de ação judicial”. (FREITAS, Vladimir Passos. Código Tributário Nacional Comentado: doutrina e jurisprudência, artigo por artigo, inclusive ICMS e ISS. 5a Ed. Editora Revista dos Tribunais, 2011, p. 778)
+No entanto, a suspensão do crédito tributário com fulcro no inciso “V” do artigo 151 do Código Tributário Nacional somente é possível se ficar demonstrado na ação a presença dos requisitos necessários para a concessão da tutela de urgência (probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo) previsto art. 300 e seguintes, do Código de Processo Civil.
+Pois bem. Da análise dos autos, em especial do documento de Id. 61101038 - Pág. 22-23, verifica-se que em março de 2008 foi deferido o beneficio fiscal para importação de produtos processados em recinto de Porto Seco instalado em território mato-grossense
+No entanto, observa-se dos documentos de Id. 61101041 que os benefícios fiscais em que a Agravante era enquadrada foi afastado após a realização de procedimento de auditoria fiscal, sendo lavrados os Documentos de Arrecadação n. 999.02.242.081/54, 999.02.509.822/10, 999.02.523.036/70, 999.03.059.069/43, 999.03.113.415/37 e 999.06.256.520/20.
+Ocorre que a Agravante não colacionou aos autos cópia dos procedimentos admirativos que ensejaram no afastamento do benefício fiscal, de modo que, não se mostra possível nesse momento processual verificar a existência de possível irregularidade nos lançamentos impugnados.
+Assim, não se verifica a presença do requisito da probabilidade do direito pleiteado na inicial.
+Outrossim, uma vez que, os documentos apresentados aos autos, relativos aos créditos impugnados, foram emitidos no ano de 2014, não é possível nesse momento cognitivo verificar em que estado se encontra a dívida, ou seja, não é possível aferir se o crédito está inscrito no sistema de conta corrente fiscal da SEFAZ-MT, na divida ativa, no cartório de protesto, cadastro de restrição de crédito, se possui execução fiscal ajuizada, se está com a exigibilidade suspensa ou até mesmo se já foi extinto.
+Além disso, não fora colacionado qualquer documento que demonstre que o crédito objeto da demanda, esteja impedindo a recorrente de emitir certidão de regularidade fiscal e/ou de exercer sua atividade econômica.
+Por esses motivos, não visualizo, também, a presença do perigo de dano ou o risco ao resultado útil do processo caso não seja deferia a tutela de urgência.
+Assim, os indícios se firmam no sentido de que não seria possível a suspensão da exigibilidade do crédito tributário com fulcro no art. 151, V, do Código Tributário Nacional, motivo pelo qual, não se mostram presentes os requisitos necessários para o deferimento da tutela antecipada recursal.
+Ante o exposto, indefiro a tutela antecipada recursal vindicada.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se o Agravado, para querendo, apresentar resposta no prazo legal.
+Após, encaminhe os autos à Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
