@@ -1,0 +1,41 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+RECURSO DE AGRAVO DE INSTRUMENTO No. 1020834-29.2020.8.11.0000
+AGRAVANTE: MUNICIPIO DE CANARANA
+AGRAVADO: BANCO BRADESCO S.A
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pelo Município de Canarana em face da decisão proferida pelo Juízo da 1a Vara Cível da referida Comarca, nos autos da Execução Fiscal no 1000427.80.2018.8.11.0029, ajuizada em desfavor de Banco Bradesco S.A, que determinou a suspensão do feito até o julgamento do recurso interposto nos autos dos embargos à execução n.o 1000172- 88.2019.8.11.0029.
+Alega que não há previsão de concessão de efeito suspensivo com base em requerimento direto ao juiz da causa, de modo que o ato praticado pelo i. Magistrado de primeiro grau está em desacordo com as regras do Processo Civil.
+Defende que não houve garantia da execução, portanto, não poderia ter concedido efeito suspensivo à ação executiva, uma vez que os embargos foram julgados improcedentes.
+Dessa forma, por entender que estão presentes os requisitos, requer a concessão do efeito suspensivo e, no mérito, seja cassada a decisão interlocutória ora vergastada, determinando ao i. Juiz “a quo” que determine o prosseguimento da ação de execução, para que a Fazenda Pública indique os bens a serem penhorados, nos termos da Lei no 6.830/80.
+É o que merece registro.
+Decido
+Para a concessão de medida liminar em sede de Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores, quais sejam, a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos 1.019, I, c/c 995, parágrafo único, do Código de Processo Civil.
+Após a análise da situação concreta emergente dos autos e dos documentos instruidores do agravo, verifica-se a probabilidade do direito do Recorrente, a ensejar o deferimento da medida.
+Extrai-se dos autos que o Recorrente ajuizou a ação de execução de origem, em face do Agravado, objetivando o recebimento do valor de R$ 1.580.441,96 (um milhão, quinhentos e oitenta mil, quatrocentos e quarenta e um reais, e, noventa e seis centavos), representada pela inclusa Certidão de Dívida Ativa no 00505041090/2018 referente ao Imposto Sobre Serviços de Qualquer Natureza – ISSQN.
+Após a citação, a Recorrida apresentou a apólice de seguro garantia no 043592018000107750000575000000, no valor de R$ R$ 2.296.975,67 (dois milhões, duzentos e noventa e seis mil, novecentos e setenta e cinco reais e sessenta e sete centavos) e validade até 27-12-2023 (Id. 17418202) e, após, apresentado embargos à execução, os quais foram recebidos sem efeito suspensivo.
+Os embargos foram julgados improcedentes pelo Magistrado de Primeiro Grau, cuja sentença foi objeto de recurso de apelação, distribuído sob o no 1000172- 88.2019.8.11.0029, o qual se encontra pendente de julgamento por este Sodalício.
+Em virtude disso, a Agravante pugnou nos autos da execução, pela suspensão do feito, ate julgamento do recurso, o que foi deferido pelo Juízo a quo.
+Nos termos do artigo 919, § 1o, do CPC/15, para a atribuição de efeito suspensivo aos embargos à execução, não basta a existência de garantia integral, devendo haver também requerimento expresso da parte embargante, com a demonstração de que se encontram devidamente preenchidos os requisitos que autorizam a concessão da tutela provisória (art. 300 do CPC/15), Veja-se:
+Art. 919. Os embargos à execução não terão efeito suspensivo.
+§ 1o O juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes. [Destaquei]
+Dessa forma, verifica-se que aos embargos à execução interpostos não foi atribuído efeito suspensivo, uma vez que, em sua exordial, a embargante não o requereu, tendo tampouco demonstrado o preenchimento dos requisitos necessários para a concessão da tutela provisória, não sendo viável a suspensão da execução fiscal até o julgamento dos embargos do devedor, configurando a probabilidade do direito do Agravante.
+Nesse sentido é o entendimento do STJ:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO RECEBIDOS SEM EFEITO SUSPENSIVO. SEGURO-GARANTIA. LIQUIDAÇÃO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULAS 283 E 284 DO STF. SÚMULA 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. O Tribunal de piso não determinou a execução em sentido estrito da garantia ofertada (ou seja, o levantamento dos valores assegurados em prol do exequente), apenas autorizou seu depósito judicial, sem existir risco de irreversibilidade da medida, sobretudo porque o pagamento definitivo condiciona-se ao trânsito em julgado dos Embargos, como expressamente detalhou (fls. 92-95, e-STJ).
+(...)
+5. O acórdão recorrido está consonância com a jurisprudência do STJ no sentido de que, em regra, não há vedação na utilização de seguro-garantia para garantir a Execução Fiscal, e seu oferecimento não suspende a exigibilidade da ação nem do crédito tributário perseguido. Precedentes do STJ.
+6. O STJ considera possível a liquidação da carta de fiança, porém ressalva que o levantamento do depósito realizado pelo garantidor fica condicionado ao trânsito em julgado, nos termos do art. 32, § 2°, da LEF. Incidência da Súmula 83/STJ. Precedentes do STJ. 7. Rever os movimentos processuais dos autos contrariamente ao que foi consignado pela Corte de piso requer revolvimento do conjunto fático-probatório, inadmissível ante a Súmula 7/STJ.
+8. Agravo Interno não provido.
+(AgInt no AREsp 1646379/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2020, DJe 01/10/2020). [Destaquei]
+E, ainda:
+AGRAVO DE INSTRUMENTO. LEILÃO. SUSPENSÃO DA EXECUÇÃO FISCAL ATÉ O JULGAMENTO DOS EMBARGOS. EFEITO SUSPENSIVO. REQUISITOS. 1. Nos termos do art. 919, § 1o, do CPC/15 o juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes. 2. Embora a execução encontre-se integralmente garantida, não foi atribuído efeito suspensivo aos embargos interpostos, uma vez que, em sua exordial, a embargante não o requereu, tendo tampouco demonstrado o preenchimento dos requisitos necessários para a concessão da tutela provisória, razão pela qual não há que se falar em suspensão do executivo fiscal. (TRF-4 - AG: 50222194020184040000 5022219-40.2018.4.04.0000, Relator: LUÍS ALBERTO D'AZEVEDO AURVALLE, Data de Julgamento: 15/08/2018, QUARTA TURMA). [Destaquei]
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. SUSPENSÃO DA EXECUÇÃO FISCAL ATÉ O JULGAMENTO DOS EMBARGOS DO DEVEDOR. PARÂMETROS DO EFEITO SUSPENSIVO DA RESPOSTA DO EXECUTADO. NECESSIDADE DE GARANTIA INTEGRAL. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO DESPROVIDO. I. A suspensão da execução fiscal até o julgamento dos embargos do devedor equivale ao próprio efeito suspensivo da resposta do executado e observará os parâmetros previstos a ele. II. Um dos requisitos corresponde à garantia integral do Juízo (artigo 739-A, § 1o, do CPC de 73), o que não ocorre nos autos de origem. (...) (TRF-3 - AI: 00059853720144030000 SP, Relator: DESEMBARGADOR FEDERAL ANTONIO CEDENHO, Data de Julgamento: 03/05/2017, TERCEIRA TURMA, Data de Publicação: e-DJF3 Judicial 1 DATA:12/05/2017). [Destaquei]
+Além disso, conforme dispõe o artigo 1012, § 1o, III, do CPC/15, o recurso de apelação interposto contra sentença que julga improcedentes os embargos do executado não detêm efeito suspensivo automático, o que ocasiona a possibilidade de continuidade normal de todos os atos expropriatórios da ação executiva principal.
+De igual modo, resta demonstrado o perigo de dano, ante a necessidade de o ente público satisfazer seus créditos.
+Ante o exposto, CONCEDO o efeito suspensivo vindicado.
+Comunique-se sobre esta decisão o Juízo do feito, requisitando-lhe informações.
+Intime-se o Agravado para, querendo, apresentar resposta no prazo legal.
+Desnecessária manifestação da Procuradoria-Geral de Justiça, consoante Súmula 189 do STJ.
+Cuiabá/MT, 22 de outubro de 2020.
+Desa. Helena Maria Bezerra Ramos
+Relatora
