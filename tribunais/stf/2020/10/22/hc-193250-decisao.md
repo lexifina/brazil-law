@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no Habeas Corpus 616.947/SP, submetido à relatoria do Ministro RIBEIRO DANTAS.
+    Consta dos autos, em síntese, que o paciente (nascido em 22/2/1974) cumpre pena de 10 anos, 2 meses e 12 dias de reclusão, em regime semiaberto, pela prática dos crimes de tráfico de drogas (art. 33 c/c art. 40, I, da Lei 11.343/2006), receptação (art. 180, caput, do Código Penal) e posse ou porte ilegal de arma de fogo de uso restrito (art. 16, caput, da Lei 10.826/2003).
+    Invocando a pandemia decorrente da Covid-19, a defesa formulou pedido de prisão domiciliar perante o Juízo das Execuções Penais, que o indeferiu (Doc. 2, fls. 46-50).
+    Inconformada, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (Doc. 2, fl. 71), conforme ementa:
+    Habeas Corpus. em Execução Penal. Pedido de prisão virtude da pandemia do Covid-19. Indeferimento fundamentado pela autoridade impetrada. Paciente com penas a cumprir até 2027. Ausência de ilegalidade ou abuso de poder a ser reconhecido. Adoção de medidas de controle pela autoridade impetrada. Ordem denegada.
+     Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, indeferida pelo Ministro Relator (Doc. 2, fls. 81-85). Essa decisão foi mantida pela Quinta Turma ao negar provimento ao subsequente Agravo Regimental. Eis a ementa do julgado (Doc. 2, fl. 98):
+    PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PLEITO DE PRISÃO DOMICILIAR. PANDEMIA. COVID-19. GRUPO DE RISCO. HIPERTENSO. SITUAÇÃO DE VULNERABILIDADE NÃO DEMONSTRADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Na hipótese, as instâncias ordinárias ressaltaram que, em que pese a alegação do agravante de ser hipertenso, a defesa não logrou êxito em comprovar que o tratamento de saúde oferecido no estabelecimento prisional seria ineficiente.
+    2. Não houve, portanto, demonstração nos autos de que o agravante se encontraria em situação de vulnerabilidade que pudesse ensejar, de forma excepcional, a concessão do pedido com amparo na Resolução n. 62 do CNJ, não fazendo jus, portanto, à prisão domiciliar. Precedentes.
+    3. Noutro giro, para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+    4. Agravo regimental não provido.
+    Nesta ação, o impetrante sustenta, em suma: (a) o paciente encontra-se preso com trânsito em julgado, embora faça parte do grupo de risco do surto do Covid-19, uma vez que possui hipertensão; e (b) o paciente se encontra em estabelecimento prisional (Penitenciária de Araraquara) que já possui casos confirmados de contaminados com a Covid-19.
+    Requer, assim, a concessão da ordem, para que a pena seja cumprida em regime domiciliar.
+    É o relatório. Decido.
+    Não se desconhece a edição da Recomendação nº 62, do Conselho Nacional de Justiça, que recomenda aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo.
+    Isso não significa, todavia, hipótese automática de soltura ou concessão de outro benefício. Caberá ao julgador, como em todo ato restritivo de direitos, proceder ao exame da matéria à luz das particularidades do caso concreto. E, na espécie, o Juízo de origem consignou que (a) o sentenciado vem recebendo, na unidade prisional onde se encontra, atendimento médico e/ou cuidados necessários; e (b) o sentenciado igualmente não comprovou segundo lhe incumbia, que atualmente há risco concreto, no presídio onde se encontra. O STJ, por sua vez, registrou: o paciente cumpre pena com término de cumprimento previsto para 2027, não havendo qualquer comprovação de que não recebe os cuidados médicos necessários no presídio.
+    Dessa forma, a análise das questões fáticas suscitadas pela defesa, de forma a infirmar o entendimento das instâncias ordinárias, demandaria o reexame do conjunto probatório, providência incompatível com esta via processual (cf. HC 127287, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 136.622-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/2/2017; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/2/2017; HC 135.956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 28/11/2016; HC 134.445- AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 27/9/2016).
+    Em conclusão, não há constrangimento ilegal a ser sanado.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 22 de outubro de 2020.
+Ministro Alexandre de Moraes
+Relator
+                 Documento assinado digitalmente
