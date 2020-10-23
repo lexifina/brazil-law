@@ -1,0 +1,22 @@
+DECISÃO
+MANDADO DE SEGURANÇA – TRIBUNAL DE CONTAS DA UNIÃO – TOMADA DE CONTAS ESPECIAL – PRESCRIÇÃO – OCORRÊNCIA – LIMINAR – DEFERIMENTO.
+1. Eis as balizas reveladas pela assessora Isabela Leão Monteiro:
+    Antônio Cristóvão de Oliveira, ex-Secretário de Saúde do Município de Marechal Thaumaturgo/AC, insurge-se contra o acórdão nº 5.406/2020 do Tribunal de Contas da União, por meio do qual declaradas irregulares as contas relativas aos exercícios 2007 e 2008, sendo condenado ao pagamento de valores ao Fundo Nacional de Saúde.
+    Evoca os Temas nº 666, 897 e 899 da repercussão geral, afirmando prescrita a pretensão de ressarcimento, uma vez que o ilícito, conforme articula, é civil e não revela ato doloso de improbidade administrativa. Frisa quinquenal o prazo de prescrição, nos termos da Lei nº 9.873/1999. Diz decorridos os dez anos previstos no artigo 6º, inciso I, da Instrução Normativa nº 71/2012 do Órgão de Contas.
+    Requer, no campo precário e efêmero, sejam suspensos os efeitos do ato impugnado e, no mérito, declarada a prescrição.
+    O Órgão de controle esclarece realizada, pelo Departamento Nacional de Auditoria do Sistema Único de Saúde, auditoria na Prefeitura Municipal de Marechal Thaumaturgo, em razão da ausência de comprovantes da correta aplicação de recursos nos anos de 2007 e 2008. Ressalta que o impetrante foi informado em 9 de fevereiro de 2010. Noticia a autuação, em 20 de novembro de 2017, da tomada de contas nº 032.605/2017-0. Menciona a revelia do impetrante, citado em 15 de outubro de 2019. Assinala o desfecho do procedimento em 19 de maio último, resultando no acórdão atacado.
+    Sublinha imprescritível a pretensão de ressarcimento ao erário. Discorre sobre a impertinência da tese alusiva ao Tema nº 899 da repercussão maior, no que a tomada de contas antecedeu ao acórdão formalizado no processo piloto – recurso extraordinário nº 636.886, relator ministro Alexandre de Moraes –, publicado em 26 de junho de 2020. Articula com a irretroatividade de mudança de entendimento do Supremo. Ressalta adotada a tese para casos de processo de execução e não conhecimento. Menciona, como causas interruptivas da prescrição, previstas na Lei nº 9.873/1999, a realização de auditoria, a comunicação do resultado, a proposição de compensação de dano, a intimação ante instauração de tomada de contas especial, a autuação no Tribunal de Contas, a citação e a formalização do pronunciamento impugnado.
+    2. O Plenário, no julgamento do extraordinário de nº 636.886, fixou a tese da prescritibilidade da pretensão de ressarcimento ao erário fundada em decisões formalizadas no campo do controle externo.
+    A irregularidade assentada pelo Órgão de controle refere-se aos exercícios financeiros de 2007 e 2008. A citação para responder ao processo administrativo que implicou a determinação de ressarcimento – tomada de contas especial nº 032.605/2017-0 – ocorreu em 15 de outubro de 2019.
+    Passados onze anos, não cabe impor punição. Inadmissível – considerada a Carta que se disse cidadã, a trazer ares democráticos ao direito administrativo – atuação irrestrita do Tribunal de Contas da União visando recompor o erário. Implicaria reconhecer ao Estado poder insuplantável, obrigando o cidadão a guardar documentos, indefinidamente, para defender-se.
+    Atentem para a incidência da Lei nº 9.873/1999, quanto à atuação do Órgão de Contas, conforme proclamado pela Primeira Turma ao apreciar o mandado de segurança nº 32.201, relator ministro Luís Roberto Barroso, com acórdão publicado no Diário da Justiça eletrônico de 7 de agosto de 2017.
+    A dilação legal foi ultrapassada mesmo levada em conta a data da primeira notificação do impetrante, interruptiva da prescrição, pelo Departamento Nacional de Auditoria do Sistema Único de Saúde, em 9 de fevereiro de 2010.
+    Não se concebe que o Poder Público, na seara patrimonial, cruze os braços, permanecendo autorizado a agir a qualquer momento. Deve o Tribunal de Contas da União observar o prazo de cinco anos.
+    Frise-se que o Órgão deixou de aplicar multa aos responsáveis, considerada a prescrição.
+    3. Defiro a liminar, suspendendo, quanto ao impetrante, os efeitos da deliberação nº 5.406/2020, formalizada no processo de tomada de contas especial nº 032.605/2017-0.
+    4. Deem ciência à Advocacia-Geral da União.
+    5. Após, colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 23 de outubro de 2020.
+Ministro MARCO AURÉLIO
+Relator
