@@ -1,0 +1,18 @@
+Por meio da Petição 89.203/2020-STF, os agravantes requerem, “nos termos do art. 4º, II, da Resolução 642/2019, com redação da pela Resolução 669/2020, […] a retirada dos autos do julgamento em ambiente virtual de listas (Incluído na Lista 299-2020.RL)”, para que sejam julgados “pela via presencial (telepresencial), na medida em que pretende o defensor dativo proceder a eventuais esclarecimentos de questões relevantes sobre a matéria objeto do recurso ordinário em habeas corpus” (pág. 1 do doc. eletrônico 23).
+    Nos mais, reiteram os argumentos já veiculados na petição inicial e no agravo regimental interposto (págs. 1-2 do doc. eletrônico 23).
+    Decido.
+    A Resolução 642/2019 desta Suprema Corte assim dispõe sobre o pedido de destaque:
+    “Art. 4º Não serão julgados em ambiente virtual as listas ou os processos com pedido de destaque feito:
+    I - por qualquer ministro;
+    II - por qualquer das partes, desde que requerido até 48 (quarenta e oito) horas antes do início da sessão e deferido pelo relator” (grifei).
+    Como se vê, o pedido de destaque feito pelas partes, com base no inciso II, não produz efeitos automaticamente, visto que submetido a deferimento ou indeferimento pelo relator.
+    Quando as listas eram julgadas presencialmente, o destaque tinha como objetivo dar conhecimento mais detalhado aos demais Ministros sobre o recurso em apreciação.
+    No julgamento em ambiente virtual, o voto do relator, assim como a decisão recorrida e a integralidade do processo, ficam à disposição de todos os Ministros, no próprio ambiente virtual. Nesse quadro, no qual está garantido o direito à ampla defesa, apenas excepcionalmente justifica-se o destaque de processo, quando existirem razões substanciais, devidamente demonstradas no pedido de destaque e acolhidas pelo relator.
+    Todavia, a referida exceção não se aplica na espécie, ante a ausência de complexidade na análise da causa.
+    Nesse sentido, registro os seguintes julgados de ambas as Turmas e do Plenário do STF: HC 175.461 AgR-ED/PR, de relatoria do Ministro Gilmar Mendes, Segunda Turma; HC 166.127 AgR/DF, de minha relatoria, Segunda Turma; ARE 941.595 AgR-segundo/SP, de relatoria do Ministro Celso de Mello, Segunda Turma; HC 138.413 AgR/SP, de relatoria do Ministro Roberto Barroso, Primeira Turma; RHC 141.044 AgR/TO, de relatoria da Ministra Rosa Weber, Primeira Turma; e ADI 5.542 ED/RS, de relatoria do Ministro Roberto Barroso, Plenário, este assim ementado, na parte em questão:
+    “DIREITO CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CRIAÇÃO DE CARGO EM COMISSÃO. REQUISITOS CONSTITUCIONAIS PARA CRIAÇÃO DE CARGO EM COMISSÃO. ARTS. 1º E 3º A 9º DA LEI Nº 14.415/2014, DO ESTADO DO RIO GRANDE DO SUL. SUSTENTAÇÃO ORAL (ART. 4º DA RESOLUÇÃO nº 642/2019 DO STF). AUSÊNCIA DE NULIDADE. PRECEDENTES. […] 3. Alegação de nulidade do acórdão, em razão de não se ter realizado sustentação oral na forma do art. 4º da Resolução nº 642/2019 do STF. Embora esse dispositivo preveja a possibilidade de pedidos de destaque e de sustentação oral pelas partes ou requerentes, ele não é de atendimento necessário e incondicional. No caso, dadas as características da presente ação direta, a medida não teria contribuído para a sua célere solução, não havendo que se falar em nulidade. Aplicabilidade dos postulados da instrumentalidade e da razoável duração do processo (art. 5º, LXXVIII, da CF), Precedentes: ADI 4.826, Rel. Min. Luis Roberto Barroso; ADI 3.308 e ADI 3.998, Rel. Min. Gilmar Mendes. 4. Embargos de declaração a que se nega provimento”.
+    Isso posto, indefiro o pedido.
+    Publique-se.
+    Brasília, 23 de outubro de 2020.
+Ministro Ricardo Lewandowski
+Relator
