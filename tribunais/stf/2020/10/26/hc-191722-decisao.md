@@ -1,0 +1,45 @@
+Habeas corpus. Tráfico de Drogas. Não se conhece de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça. Precedentes. Regime prisional de cumprimento da pena. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Ronaldo Camilo e Elichielli Gabrielli Perilis em favor de Anderson Silva Lima, contra decisão monocrática do Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça, que concedeu, de ofício, a ordem no HC 613.547/PR.
+    O paciente foi condenado à pena de 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006). Pela via do ato dito coator, teve a pena reduzida para 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, mantido o regime inicial fechado.
+    Extraio do ato coator referido:
+    “(...)
+    No presente writ, a defesa sustenta, em breve síntese, que o paciente estaria sofrendo constrangimento ilegal em razão da fixação do regime fechado para o início de cumprimento da reprimenda, apesar de o paciente ser primário e a reprimenda ser inferior a 8 anos. Por isso, requer, inclusive liminarmente, a fixação do regime semiaberto.
+    É o relatório.
+    Decido.
+    No caso em tela, estes foram os fundamentos lançados pelo Juízo de piso acerca da dosimetria e do regime inicial fixado (e-STJ fls. 63/66):
+          (…)
+          Já o Tribunal de origem manteve a dosimetria realizada em primeira instância, destacando a impossibilidade "de abrandamento do regime de cumprimento da expiação, uma vez que corretamente imposto na forma inicial fechada, com esteio no art. 33, § 2º, alínea 'b', e § 3º, do Estatuto Repressivo" (e-STJ fl. 42).
+          Pois bem.
+          Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+          É o caso dos autos, no que concerne à negativação da vetorial circunstâncias do crime, não obstante a defesa não tenha se insurgido especificamente em relação a este ponto.
+          De fato, consoante dispõe o art. 42 da Lei n. 11.343/2006, ‘o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente’.
+          Não constitui demasia enfatizar, no particular, que, ‘como se trata de crime contra a saúde pública, quanto mais nociva a substância ou quanto maior a quantidade de droga apreendida, maior será o juízo de censura a recair sobre a conduta delituosa. De fato, não se pode equiparar a conduta daquele indivíduo que é flagrado trazendo consigo um quilograma de maconha com a daquele que é preso com um quilograma de cocaína, já que esta droga tem um caráter viciante e destrutivo bem mais elevado que aquela’ (LIMA. Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: editora Juspodivm. 2015, p. 808).
+    A jurisprudência desta Casa é pacífica nesse sentido, senão vejamos:
+    (…)
+    No entanto, na hipótese, as instâncias ordinárias consideraram como desfavorável a circunstância relativa à natureza do entorpecente apreendido, e tal exasperação, a meu ver, mostrou-se desproporcional, sobretudo em razão da quantidade de droga apreendida – 3g (três gramas) de cocaína, a qual não se revela expressiva o suficiente a justificar a negativação da referida vetorial. Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria, em relação às circunstâncias do delito, deve ser afastado. Ilustrativamente:
+    (…)
+    Passo, assim, à nova dosimetria da pena do paciente.
+      Na primeira fase, mantém-se a negativação pelos antecedentes do paciente, fixando-se a pena-base em 6 anos e 3 meses de reclusão, mais pagamento de 600 dias-multa.
+    Na segunda fase, ante a confissão espontânea, mantém-se a redução operada pelas instâncias ordinárias, retornando a pena ao quantum de 5 anos de reclusão, mais 500 dias-multa.
+    Na terceira etapa, em razão da ausência de causas de aumento ou de diminuição de pena, consolida-se a pena do paciente em 5 anos de reclusão e 500 dias-multa.
+    Regime
+    Como é cediço, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+      Da análise dos excertos acima colacionados, verifica-se que as instâncias ordinárias, não obstante a primariedade do paciente e o quantum de pena estabelecido, fixaram o regime mais gravoso considerando a existência de circunstâncias judiciais desfavoráveis.  Nesse sentido, não há nenhuma ilegalidade na fixação do regime fechado para o início de cumprimento da reprimenda, ex vi do disposto no art. 33, §§2º e 3º, do Código Penal.
+    No mesmo sentido:
+    (…)
+    Ante o exposto, concedo a ordem de ofício para redimensionar a pena do paciente para 5 anos de reclusão, mais pagamento de 500 dias-multa, mantidos os demais termos da condenação.”
+    No presente writ, os Impetrantes argumentam, em síntese, indevida a fixação de regime inicial fechado em razão do paciente ser primário e a pena a ele imposta inferior a 8 (oito) anos. Apontam a possibilidade de cumprimento da pena em regime mais brando. Requerem, em medida liminar e no mérito, a fixação do regime inicial semiaberto de cumprimento da pena.
+    É o relatório.
+    Decido.
+    Registro a existência de óbice ao conhecimento do presente habeas corpus, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é mera decisão monocrática e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Por outro lado, a fixação do regime inicial de cumprimento da pena não está condicionada somente ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais do art. 59 do Código Penal, conforme remissão do artigo 33, § 3º, do mesmo diploma legal: “A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código”.
+    O magistrado de primeiro grau fixou o regime inicial fechado tendo em vista “o montante da reprimenda aplicada e o restante a ser cumprido (CPP, art. 387, § 2º), a gravidade do delito (equiparado a hediondo) e as circunstâncias judiciais (duas desfavoráveis)”.
+    Após a fixação do regime inicial fechado pelo magistrado de primeiro grau, a Corte Estadual ratificou o regime inicial estabelecido ao fundamento de que “corretamente imposto na forma inicial fechada, com esteio no art. 33, § 2º, alínea “b”, e § 3º, do Estatuto Repressivo”.
+    Por seu turno, o Superior Tribunal de Justiça manteve o regime inicial fechado, enfatizando que “as instâncias ordinárias, não obstante a primariedade do paciente e o quantum de pena estabelecido, fixaram o regime mais gravoso considerando a existência de circunstâncias judiciais desfavoráveis. Nesse sentido, não há nenhuma ilegalidade na fixação do regime fechado para o início de cumprimento da reprimenda, ex vi do disposto no art. 33, §§2º e 3º, do Código Penal”.
+    Não obstante o preenchimento do requisito objetivo previsto no art. 33, § 2º, b, do Código Penal – primariedade e pena superior a 04 (quatro) anos e inferior a 08 (oito) anos – para o cumprimento da pena em regime semiaberto, há fundamentos idôneos adotados pelas instâncias anteriores, a justificar a imposição do regime fechado, como a gravidade concreta do delito. Nesse prisma, “A gravidade concreta da conduta legitima a fixação de regime inicial mais gravoso para cumprimento de pena.” (HC 167.986-AgR/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 08.5.2019); e a “fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada. Desde que o faça em decisão lastreada nas particularidades do caso, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do § 2º do art. 33 do Código Penal. Inteligência da Súmula 719/STF” (HC 144.805-AgR/SP, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 16.10.2017).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2020.
+Ministra Rosa Weber
+Relatora
