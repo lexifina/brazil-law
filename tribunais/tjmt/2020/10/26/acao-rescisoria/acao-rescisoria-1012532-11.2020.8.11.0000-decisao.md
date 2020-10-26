@@ -1,0 +1,10 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+AÇÃO RESCISÓRIA No 1012532-11.2020.8.11.0000.
+AUTORA: YASMIN DIAS FERNANDES JAMBERS.
+RÉU: ANTONIO TAVARES.
+Vistos.
+Cumpra-se a determinação lançada na decisão de Id. 49126995, quanto à remessa dos autos à d. Procuradoria de Justiça.
+Des. DIRCEU DOS SANTOS
+Relator
