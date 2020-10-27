@@ -1,0 +1,25 @@
+Trata-se de habeas corpus impetrado pela Defensoria Pública da União em favor de José Agostinho Ribeiro contra decisão proferida pelos Ministros integrantes da Quinta Turma do Superior Tribunal de Justiça que negaram provimento ao AgRg no AREsp 1.742.507/SP (documento eletrônico 3).
+    A impetrante alega, em síntese, que
+    “[...] o art. 5º, XLVII, ‘b’ da CF/88 veda expressamente a pena de caráter perpétuo. Com tal garantia constitucional, fica proibido que as consequências decorrentes da prática de um crime possam perdurar por toda a existência do agente, da mesma forma os efeitos da condenação não podem ser perpétuos. Exatamente por isso, o art. 64, I, do CP declarou expressamente que a maior consequência de uma incidência criminal - afora a própria punibilidade em concreto - não perdurará perpetuamente.
+    Se a condição de delinquente desaparece após o decurso do período depurador, nenhum sentido em se considerar o fato passado possa fundamentar por toda a vida do indivíduo a condição de portador de maus antecedentes” (pág. 3 do documento eletrônico 1).
+    Ao final, requer:
+    “a) sejam observadas as prerrogativas desta Instituição Defensória de receber intimação pessoal e de contagem em dobro de todos os seus prazos, em conformidade com o artigo 44, incisos I e VI, da Lei Complementar 80/1994;
+    b) sejam os autos remetidos ao Ministério Público para emissão de parecer e requeridas as informações da autoridade coatora caso se entenda necessário;
+    c) ao final, seja concedida a ordem em Habeas Corpus, uma vez reconhecido que o período depurador alcança também os maus antecedentes, para estabelecer a pena base do paciente, na primeira fase da dosimetria, no seu mínimo legal, uma vez que não existem circunstâncias negativas a serem consideradas, com a consequente adequação do regime inicial de cumprimento de pena.
+    Nesta oportunidade fica requerida a intimação pessoal do Defensor Público-Geral Federal para acompanhamento do feito, notadamente para a sessão de julgamento deste habeas, oportunidade onde a ampla defesa poderá se realizar por meio da sustentação oral” (pág. 6 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Destaco, inicialmente, que, embora o presente writ tenha sido impetrado em substituição a recurso extraordinário, não oponho óbice ao seu conhecimento, na linha do que tem decidido a Segunda Turma deste Supremo Tribunal. Nesse sentido, cito os seguintes precedentes: HC 126.791-ED/RJ, HC 126.614/SP e HC 126.808-AgR/PA, todos da relatoria do Ministro Dias Toffoli.
+    Anote-se, também, que o art. 192, caput, do Regimento Interno do Supremo Tribunal Federal faculta ao Relator denegar ou conceder a ordem de habeas corpus, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Por esses motivos, passo ao exame do mérito desta impetração.
+    No julgamento do RE 593.818-RG/SC, o Plenário desta Suprema Corte fixou tese no sentido de que “[não] se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal”. E embora tenha sido voto vencido naquela assentada, acolho-a, em respeito ao princípio da colegialidade.
+    Feitos esses registros, transcrevo agora, por oportuno, a ementa do acórdão que sintetiza o teor da decisão ora combatida:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PENA-BASE. CONDENAÇÕES PRETÉRITAS. MAUS ANTECEDENTES. CARACTERIZAÇÃO. DOCUMENTO FALSO. ESTELIONATO. PRINCÍPIO DA CONSUNÇÃO. APLICAÇÃO. DESCABIMENTO. AGRAVO DESPROVIDO.
+    1. Nos termos da jurisprudência deste Sodalício, ‘o ordenamento jurídico pátrio adota, quanto aos maus antecedentes, o sistema da perpetuidade, e não da temporariedade, como no caso da reincidência. Assim, é de se manter o entendimento pacificado por este Sodalício de que, mesmo ultrapassado o prazo depurador, as condenações anteriores podem ser consideradas como maus antecedentes’ (AgRg no REsp n. 1.604.407/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 12/8/2016)’ (AgRg no AREsp 1431415/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 4/8/2020, DJe 10/8/2020).
+    2. As instâncias de origem concluíram que o uso de documento falso não teve sua potencialidade lesiva exaurida com o delito de estelionato, negando a aplicação do princípio da consunção, de modo que para se chegar a conclusão diversa necessário seria necessário o reexame do conjunto fático-probatório, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula n. 7 deste Superior Tribunal de Justiça.
+    3. Agravo regimental desprovido” (pág. 62 do documento eletrônico 3).
+    Conforme se verifica, o decisum impugnado harmoniza-se com a referida orientação jurisprudencial fixada por esta Suprema Corte quanto ao tema em questão.
+    Isso posto, denego a ordem (art. 192, caput, do RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2020.
+Ministro Ricardo Lewandowski
+Relator
