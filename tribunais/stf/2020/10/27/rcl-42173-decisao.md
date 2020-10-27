@@ -1,0 +1,36 @@
+Decisão: Trata-se de reclamação com pedido de medida liminar, proposta por CEMIG Distribuição S.A. e outros, contra decisão proferida pelo Juízo da 2ª Vara do Trabalho de Belo Horizonte/MG, nos autos do Processo 0010585-38.2019.503.0002.
+    Na petição inicial, a reclamante sustenta, em síntese, que o Juízo reclamado teria descumprido a orientação firmada por esta Corte no ARE-RG 1.121.633 (tema 1046), no qual determinou-se o sobrestamento de todos os processos pendentes, individuais e coletivos, que versem sobre a validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente.
+    Narra que foi condenada ao pagamento do adicional de periculosidade em desconformidade ao previsto em acordo coletivo firmado. Relata, ainda, que “em função da irrecorribilidade imediata das decisões interlocutórias, determinou o TST o retorno dos autos ao TRT3 para a análise dos pedidos relativos à complementação de aposentadoria, NÃO TENDO HAVIDO TRÂNSITO EM JULGADO DA MATÉRIA MERITÓRIA, objeto do tema de repercussão geral, o que se ressalta por cautela, pois que o TST decidira apenas sobre a competência da Justiça do Trabalho para análise das parcelas FORLUZ”. (eDOC 1, p. 6)
+    Diante disso, assevera que “[a] causa de pedir e pedidos provam inexoravelmente que o processo em questão debate da validade de norma coletiva que limita ou restringe direito não assegurado constitucionalmente”. (eDOC 1, p. 7)
+    Requer assim a concessão de liminar para suspender os efeitos da decisão reclamada e, ao final, a cassação do ato reclamado.
+    A autoridade reclamada prestou informações (eDOC 21).
+    Citado, o Sindicato Intermunicipal dos Trabalhadores na Indústria Energética de Minas Gerais apresentou contestação requerendo a improcedência da reclamação, consoante eDOC 22.
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À AUTORIDADE DA DECISÃO PROFERIDA NO ARE 1.121.633 (TEMA 1.046). IMPOSSIBILIDADE DE SE UTILIZAR A RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AUSÊNCIA DE ADERÊNCIA ESTRITA. NÃO CONHECIMENTO”. (eDOC 29)
+    É o relatório.
+    Decido.
+    Inicialmente, registre-se que a reclamação, tal como prevista no art. 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º). Confira-se:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…)”.
+    No caso, verifico que o Magistrado de origem indeferiu a suspensão do trâmite processual na forma determinada no ARE-RG 1.121.633/GO (tema 1046), paradigma da repercussão geral, consoante decisão de seguinte teor:
+    “Observe-se tratar-se de execução provisória, extraída do processo principal número: 01713-10-2014-503-0002, que se encontra aguardando julgamento de Embargos de Declaração (opostos contra a decisão de AIRR), conforme se vê pela papeleta de consulta processual de ID: cfed75e, realizada no sítio do TST.
+    Considerando que não existe determinação de sobrestamento nos autos principais, que se encontram, como constou acima, no TST, por ora não há falar em sobrestamento da execução provisória”. (eDOC 13)
+    Para melhor compreensão, destaco trecho da ementa do acórdão proferido pelo Tribunal Regional do Trabalho da 3ª Região, proferido nos autos principais (Processo 0001713-10.2014.5.03.0002):
+    “ADICIONAL DE PERICULOSIDADE. ELETRICITÁRIOS. BASE DE CÁLCULO. AJUSTE EM INSTRUMENTO NORMATIVO. INVALIDADE. Embora a Constituição Federal assegure a validade dos acordos e convenções coletivas de trabalho (artigo 7º, XXVI), a base de cálculo do adicional de periculosidade não pode ser reduzida por norma coletiva, porque a referida parcela é garantida por normas de ordem pública (artigo 7º, XXIII, da CF c/c o artigo 1º, da Lei n. 7.369/85), tratando-se, pois, de direito de indisponibilidade absoluta. Desse modo, durante o período de vigência da Lei nº 7.369/85, o adicional de periculosidade devido aos empregados que exercem atividade no setor de energia elétrica deve ser calculado sobre o salário contratual, o que engloba o salário-base e as demais parcelas de natureza salarial recebidas, nos termos da Súmula nº 191, do TST”. (eDOC 10, p. 1)
+    Pois bem.
+    Ressalto que, em 3.5.2019, o STF, por unanimidade, reconheceu a existência de repercussão geral da questão constitucional suscitada e, no mérito, não reafirmou a jurisprudência dominante sobre a matéria, que será submetida a posterior julgamento no Plenário físico (tema 1.046), conforme se verifica da ementa a seguir transcrita:
+    “Recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Validade de norma coletiva que limita ou restringe direito trabalhista. Matéria constitucional. Revisão da tese firmada nos temas 357 e 762. 4. Repercussão geral reconhecida”. (ARE 1121633 RG, de minha relatoria, DJe 23.5.2019)
+    Destaco que, nos autos do ARE-RG 1.121633/GO, determinei a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão em trâmite no território nacional, nos termos do art. 1035, §5º, do CPC, uma vez que o plenário virtual do STF reconheceu a repercussão geral do tema.
+    Na hipótese de que tratam os autos, a reclamante objetiva impedir a tramitação de execução de decisão condenatória transitada em julgado após o despacho de sobrestamento no referido paradigma.
+    No ponto, saliento que o Juízo reclamado informou que “[n]o processo principal, a decisão que não admitiu o recurso extraordinário interposto contra o acórdão no Recurso de Revista (TST-ED-ED-ARR-1713-10.2014.5.03.0002) transitou em julgado em 26/02/2020, e os autos principais foram devolvidos ao Tribunal Regional em 16/03/2020”. (eDOC 21, p. 4)
+    Dessa forma, tendo em vista o descompasso entre o ato reclamado e a orientação firmada pelo STF no âmbito da repercussão geral, o caso é de procedência da reclamação.
+    Nesse sentido, cito as seguintes decisões: Rcl 38.075, Rel. Min. Alexandre de Moraes, DJe 26.11.2019; Rcl 37.932, Rel. Min. Cármen Lúcia, DJe 20.2.2020; Rcl 36.592, Rel. Min. Luiz Fux, DJe 19.3.2020; Rcl 38.389, de minha relatoria, DJe 4.5.2020 e Rcl 40.630, Rel. Min. Roberto Barroso, DJe 15.9.2020.
+    Ante o exposto, julgo procedente a reclamação para cassar a ato reclamado e determinar o sobrestamento do Processo 0010585- 38.2019.503.0002, até ulterior pronunciamento desta Corte nos autos do ARE-RG 1.121.633.
+    Publique-se.
+    Brasília, 27 de outubro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
