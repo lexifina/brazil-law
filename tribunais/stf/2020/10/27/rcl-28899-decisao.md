@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA DO SUPREMO – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA PARCIAL.
+    1. O assessor Vinícius Machado Calixto assim revelou as balizas do caso:
+    O Município de Mogi Guaçu assevera haver o Tribunal Regional do Trabalho da 15ª Região, no recurso ordinário nº 0001173-13.2014.5.15.0071, inobservado o teor do verbete vinculante nº 37 da Súmula do Supremo.
+    Narra que, em 2009 e 2011, firmou acordo coletivo com o Sindicato dos Servidores e Trabalhadores Ligados aos Serviços Públicos Municipais de Mogi Guaçu e Região – SINDIÇU, cujas cláusulas foram objeto das Leis Complementares locais nº 1.000/2009 e 1.121/2011. Conforme ressalta, por meio dessa legislação, houve a incorporação, aos salários dos servidores, de abonos em valores fixos.
+    Salienta que, em 2014, o interessado, Geraldo Revelim Filho, ajuizou ação visando o recebimento de diferenças salariais decorrentes da incorporação das parcelas, dizendo que, uma vez estipuladas em valores fixos, implicaram a adoção de diferentes índices para cada carreira do funcionalismo local. Sublinha a procedência do pedido em primeira instância, entendimento confirmado pelo Tribunal reclamado. Interposto recurso de revista, foi inadmitido, estando pendente de apreciação agravo de instrumento.
+    Sustenta contrariado o paradigma, assinalando que, na via judicial, foram majorados vencimentos de servidor público com fundamento no princípio da isonomia. Evoca jurisprudência.
+    Sob o ângulo do risco, menciona o impacto financeiro gerado ante a obrigação de reajustamento dos salários do funcionalismo local, em prejuízo dos serviços públicos por si prestados.
+    Requereu, no campo precário e efêmero, a suspensão do ato impugnado e a extensão da providência, por motivo de economia processual, a todos os processos nos quais versada idêntica questão, inclusive relativamente aos precatórios e requisições de pagamento expedidos. Postula a cassação do pronunciamento atacado, também no tocante às demais demandas a envolverem a mesma problemática.
+    Em 10 de novembro de 2017, a então presidente, ministra Cármen Lúcia, não acolheu o pedido de redistribuição da reclamação ao ministro Ricardo Lewandowski, relator da medida de nº 26.771.
+    Vossa Excelência, em 16 de novembro de 2017, deferiu parcialmente a liminar, para determinar a suspensão da eficácia do acórdão impugnado.
+    Geraldo Revelin Filho, em contestação, aponta ausente identidade entre o ato reclamado e o paradigma, porquanto não teria havido fundamentação atinente ao princípio da isonomia. Realça conduta ilícita do Município ao proceder a revisão geral anual dos vencimentos dos servidores públicos, implicando na adoção de índices distintos.
+    O Tribunal reclamado, nas informações, esclarece o histórico processual e os fundamentos adotados no pronunciamento atacado.
+    O Ministério Público Federal opina pela procedência do pedido.
+    2. Tenho como pertinentes as mesmas razões veiculadas ao deferir a liminar. O Órgão reclamado valeu-se do princípio isonômico, ainda que de forma implícita, ao afirmar apropriada a incorporação dos percentuais aos vencimentos do interessado. A despeito do definido na legislação local, assinalou descabida a utilização de índices diferenciados para fins de revisão geral anual da remuneração de servidores públicos, resultado da absorção indistinta, pelo funcionalismo municipal, de abonos concedidos em valores fixos. Incorreu, assim, em desrespeito ao enunciado vinculante nº 37, porquanto aumentados vencimentos, sem respaldo em lei, na via judicial, objetivando corrigir o descompasso verificado.
+    Tendo em vista os limites subjetivos da reclamação, mostra-se inadequado estender o entendimento a todos os casos a envolverem problemática idêntica à versada na inicial. A eficácia do pronunciamento somente alcança as partes que integram a relação processual formada na demanda originária.
+    3. Julgo parcialmente procedente o pedido formulado nesta reclamação, para cassar o acórdão do Tribunal Regional do Trabalho da 15ª Região no recurso ordinário nº 0001173-13.2014.5.15.0071.
+    4. Publiquem.
+Brasília, 27 de outubro de 2020.
+Ministro MARCO AURÉLIO
+Relator
