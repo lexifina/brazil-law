@@ -1,0 +1,7 @@
+DECISÃO MONOCRÁTICA
+Homologo o acordo entabulado entre as partes para que surtam seus efeitos legais e jurídicos, com fundamento no art. 932, I combinado com o art. 487, III, “b”, do Código de Processo Civil e, consequentemente, julgo prejudicado os embargos de declaração opostos por perda do objeto.
+Intimem-se. Cumpra-se.
+Proceda-se a baixa dos autos à origem.
+Cuiabá (MT), data registrada no sistema.
+Juiz Antônio Veloso Peleja Júnior
+Relator
