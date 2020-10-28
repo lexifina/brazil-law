@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0005380-73.2018.8.11.0007
+RECORRENTES: EDSON BARBOZA DE SENA E JACIARA DA ROSA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 61492961) interposto por EDSON BARBOZA DE SENA e JACIARA DA ROSA, com fundamento no art. 105, III, “a”, da Constituição Federal, contra acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 47743454):
+“APELAÇÃO CRIMINAL – DIREITO PENAL – TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/06) – ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (ART. 35, CAPUT, DA LEI 11.343/06) – RECURSO DEFENSIVO – PRELIMINAR DE NULIDADE – INVASÃO DE DOMICÍLIO – INOCORRÊNCIA – FUNDADA SUSPEITA – COMPORTAMENTO DO APELANTE – AO AVISTAR VIATURA FUGIU – PRELIMINAR REJEITADA – MÉRITO RECURSAL – PLEITO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO PRÓPRIO DO CRIME DE TRÁFICO DE ENTORPECENTES – IMPOSSIBILIDADE – ACERVO PROBATÓRIO AMPLO – QUANTIDADE E NOCIVIDADE DOS ENTORPECENTES – DEPOIMENTOS DOS AGENTES POLICIAIS – HARMONIA COM AS DEMAIS PROVAS – PEDIDO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS – POSSIBILIDADE – AUSÊNCIA DE CONJUNTO PROBATÓRIO SUFICIENTE – INEXISTÊNCIA DE VÍNCULO PERMANENTE E ORGANIZADO – APELANTES ABSOLVIDOS DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS – DOSIMETRIA DA PENA – APELANTE EDSON – READEQUAÇÃO DA PENA BASE – NA SEGUNDA FASE – FRAÇÃO DA AGRAVANTE REDIMENSIONADA – PRECEDENTE DO STJ – AUSÊNCIA DE ELEMENTOS CONCRETOS PARA INCIDIR REPRESSÃO MAIOR – PENA FINAL REDIMENSIONADA – APELANTE JACIARA – APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO – POSSIBILIDADE – REQUISITOS OBJETIVOS PREENCHIDOS – FRAÇÃO APLICADA NO MÁXIMO LEGAL – PENA REDIMENSIONADA – APELO PARCIALMENTE PROVIDO – COM PARCIAL CONCORDÂNCIA COM O PARECER MINISTERIAL. 1. Não há nulidade na ação policial, pois fundada no comportamento suspeito dos apelantes e nas denúncias anônimas recebidas pela guarnição. 2. Havendo harmonia entre as afirmações dos agentes policiais e os demais elementos probatórios dos autos, não há razões para afastar o édito condenatório, uma vez a prova consistente no testemunho de policiais diretamente envolvidos nas diligências que deflagraram a prisão do acusado é de reconhecida idoneidade e tem forte valor probante para o amparo de um decreto condenatório. 3. As provas acostadas aos autos não são suficientes para sustentar a condenação pelo crime de associação para o tráfico, isso porque, ainda que o casal tenha praticado os atos em conjunto, não constam nos autos provas suficientes de que havia entre os apelantes vínculo permanente e estável e nem mesmo divisão de tarefa. 4. Não há óbice ao reconhecimento da minorante à apelante, ensejando a diminuição da pena em 2/3 (dois terços), tendo em vista tratar-se de réu primário e não haver provas de que a mesma se dedica às atividades criminosas, nem integre organização criminosa.” (Ap 0005380-73.2018.8.11.0007, DES. PAULO DA CUNHA, PRIMEIRA CÂMARA CRIMINAL, Julgado em 21/07/2020)
+Os Embargos de Declaração de Id. 53577450 opostos contra o aresto foram rejeitados (Id. 54104469).
+Alegam violação ao art. 157, caput e §1, ambos do CPP, ao argumento de ilicitude da prova colhida pelos policiais militares em sede de prisão em flagrante decorrente de invasão de domicílio amparada unicamente em denúncias anônimas.
+Recurso tempestivo (Id. 61619967).
+Contrarrazões – Id. 63831969.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ. Súmula 83 do STJ.
+Como preconiza a Súmula 83 do STJ, “(...) não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, defendem os Recorrentes a ilicitude das provas obtidas e da prisão em flagrante visto que decorrentes de indevida invasão de seu domicílio, amparada unicamente em denúncias anônimas.
+No acórdão impugnado ficou consignado que:
+“No caso dos autos, observo que os Policiais Militares, em posse de informações anônimas sobre o funcionamento de ponto de venda de drogas, diligenciaram até o local, momento em que o apelante Edson, saindo da residência, avistou a viatura policial e empreendeu-se em fuga, comportamento extremante suspeito.
+Diante de tais fatos, os agentes policiais decidiram adentrar a residência, dada a evidente suspeita do comportamento do apelante, onde encontraram a apelante Jaciara e os entorpecentes.
+Assim, tenho que não há nulidade na ação policial, pois fundada no comportamento suspeito dos apelantes e nas denúncias anônimas recebidas pela guarnição.
+Nesse sentido já se manifestou o Superior Tribunal de Justiça, in verbis:
+“(...) Considerando a natureza permanente do delito de tráfico e estando devidamente registrada a justa causa para ensejar o ingresso dos agentes de polícia no domicílio do réu, como acima destacado, concluo que não se identifica a manifesta ilegalidade sustentada pela defesa. (...)” (HC 446.102/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019)” (Id. 47743453)
+Observa-se, pois, que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que é dispensável o mandado de busca e apreensão quando se trata de flagrante de crime permanente, podendo-se realizar a prisão sem que se fale em ilicitude das provas obtidas na presença de fundada razão para a ação policial.
+A propósito:
+“AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. CRIME DE NATUREZA PERMANENTE. FUNDADA RAZÃO. DESNECESSIDADE DE MANDADO DE BUSCA E APREENSÃO OU DA AUTORIZAÇÃO DO MORADOR PARA O INGRESSO NA RESIDÊNCIA. COAÇÃO ILEGAL INEXISTENTE. 1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes. 2. É dispensável o mandado de busca e apreensão quando se trata de flagrante de crime permanente, podendo-se realizar a prisão sem que se fale em ilicitude das provas obtidas na presença de fundada razão para a ação policial, como ocorre na espécie. Doutrina. Precedentes do STJ e do STF. 3. No caso dos autos, tendo os policiais ingressado na residência do paciente porque adotou atitude suspeita e empreendeu fuga para o interior do imóvel ao avistar a guarnição, não há que se falar em necessidade de prévio mandado de busca e apreensão, tampouco em nulidade da prova obtida. Precedentes. 4. Agravo regimental desprovido.” (AgRg no HC 581.374/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020) (destaquei)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta violação aos arts. 157, caput e §1° ambos do CPP, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ, o que impede o seguimento do recurso.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 28 de outubro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
