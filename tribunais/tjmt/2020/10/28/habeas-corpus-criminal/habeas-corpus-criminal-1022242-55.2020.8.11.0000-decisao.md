@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+HABEAS CORPUS CRIMINAL (307) 1022242-55.2020.8.11.0000
+PACIENTE: MICHAEL BRUNO SILVA BATISTA
+IMPETRADO: JUÍZO DA 12a VARA CRIMINAL DA COMARCA DE CUIABÁ
+Vistos etc.
+Ante a equivocada distribuição do feito [ID 63925478], proceda-se à redistribuição, na forma regimental.
+Cumpra-se, com urgência.
+Cuiabá, data da assinatura digital.
+Desembargador PAULO DA CUNHA
