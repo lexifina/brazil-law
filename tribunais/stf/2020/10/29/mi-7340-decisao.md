@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de mandado de injunção em face de omissão legislativa atribuída ao Presidente da República e ao Presidente do Congresso Nacional, relativamente à ausência de legislação complementar que regulamente a aposentadoria especial dos servidores públicos prevista no artigo 40, § 4º, III, da Constituição Federal.
+    Na inicial, a parte autora apresenta as seguintes alegações de fato e de direito (fls. 4/5):
+    Trata-se de direito de Ação Constitucional à disposição de qualquer pessoa física que se sinta prejudicada pela falta de norma regulamentadora, sem a qual resulte inviabilizado o exercício de seus direitos, liberdades e garantias constitucionais.
+    O Impetrante é servidor público do Serviço Autônomo de Água e Esgoto de Cerquilho (S.A.A.E.C.), Autarquia Municipal, que é Pessoa Jurídica de Direito Público, criada por meio de Lei Municipal, com CNPJ 50.797.752/0001-01, situada à Rua Augusto Dorighello, n° 320, bairro Jardim Esplanada, município de Cerquilho/SP, cujo CEP: 18.520-000.
+    (…)
+    Diante da situação apresentada, o Impetrante por meio de seu Procurador, protocolizou pedido de fornecimento do LTCAT E PPP; bem como o pedido de APOSENTADORIA ESPECIAL sob n° 136/2019, junto à Autarquia Municipal, na qual esta última alegou em sua resposta: a) “em que pese a inexistência de legislação municipal que regulamente o benefício da aposentadoria especial”; b) “esta autarquia irá elaborar, com base em laudo técnico, o Perfil Profissiográfico Previdenciário – PPP do servidor e tão logo o documento esteja concluído todo o processo será encaminhado à Prefeitura de Cerquilho, órgão com competência para análise e deferimento ou indeferimento do benefício requerido”
+    Com todo respeito e acatamento, Senhor Ministro, diante da resposta experimentada, nota-se que a Autarquia informa que irá elaborar o PPP, porém não diz quando, referencia também a palavra “tão logo”, já o que toca o LTCAT o documento nada menciona.
+    (…)
+    Inconformado, já na posse dos documentos retro, o Impetrante vem à presença de Vossa Excelência, suplicar seja suprida a omissão legislativa e requerer a concessão da aposentadoria especial, uma vez que a Constituição Federal lhe garante este direito e que os Policiais Federais já usufruem deste benefício em razão da existência de lei especial, desta maneira, por analogia, requer a aplicação desta lei especial ao seu caso.
+    Ao final, requer concessão da ordem, com o reconhecimento da mora legislativa e deferimento da injunção para determinar prazo razoável para que as Impetradas promovam a edição da norma regulamentadora; Caso não seja suprida a mora legislativa no prazo determinado, seja ordenada a aplicação da Lei destinada aos Policiais Federais de forma análoga, para que o Impetrante possa gozar do direito pleiteado (fls. 6/7).
+    É o relatório. Decido.
+    Nos termos do art. 102, I, q, do texto constitucional, compete ao Supremo Tribunal Federal processar e julgar, originalmente, o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, da Mesa de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal.
+    No caso, o impetrante, na qualidade de servidor público municipal, fundamenta seu pleito em omissão relativa ao artigo 40, § 4º, III da Constituição Federal, pois alega que exerceu atividades laborais em condições de insalubridade e de periculosidade (fl. 4).
+    Ocorre, porém, que o art. 40, §§ 4º-A, 4º-B e 4º-C , da Carta da República, incluído pela Emenda Constitucional 103/2019, determina que cada ente federativo deverá estabelecer, por meio de leis complementares, condições diferenciadas para aposentadoria de seus servidores, o que caracteriza a inviabilidade do presente mandado de injunção, dada a manifesta incompetência desta CORTE para exame do pedido. Nessa linha: MI 4245 AgR-AgR, Relator LUIZ FUX, Tribunal Pleno, julgado em 27/04/2020, DJe de 22/6/2020.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, evidenciada a incompetência desta CORTE, NÃO CONHEÇO DO PEDIDO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 29 de outubro de 2020.
+                Ministro Alexandre de Moraes
+                            Relator
+                Documento assinado digitalmente
