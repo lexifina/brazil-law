@@ -1,0 +1,26 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE EMBARGOS DE DECLARAÇÃO No 1038743-92.2019.8.11.0041 (interposto nos autos do Recurso de Apelação Cível autuado sob mesmo número - CLASSE 198 - CNJ - CAPITAL)
+Embargante : LORLAM FIGUEIREDO FERREIRA
+Embargada : PORTO SEGURO CIA DE SEGUROS GERAIS S.A.
+Número do Protocolo : 1038743-92.2019.8.11.0041
+Recurso de EMBARGOS DE DECLARAÇÃO interposto por LORLAM FIGUEIREDO FERREIRA contra decisão proferida nos autos do Agravo Interno no 1038743-92.2019.8.11.0041,que majorou os honorários sucumbenciais em R$200,00, mantendo inalterada o restante da sentença, que, nos autos da ação de “Cobrança de Seguro Obrigatório” (Número Único 1038743-92.2019.8.11.0041 – 4a Vara Cível da Capital),julgou o pedido parcialmente procedente para condenar a Seguradora/embargada ao pagamento de R$ 1.687,50a título de indenização por seguro obrigatório, acrescido dos encargos legais, em razão da invalidez permanente do autor/embargante, vítima de acidente de trânsito, e estabeleceu que cada parte pagaria ao seu advogado o valor dos honorários respectivos, o que havia sido fixado em R$ 700,00(cf. Id no46569962).
+O embargante aponta omissão no acórdão embargado, alegando “falta de apreciação do pedido relacionado à impossibilidade de compensação dos honorários, nos termos do artigo 85, § 14.”;afirmaque o §14 do artigo 85 do CPC estabelece que os “honorários constituem direito do advogado e têm natureza alimentar, sendo vedada a compensação em caso de sucumbência parcial”, o que não deve ser confundido com sucumbência recíproca, aplicada ao autor, com apoio no artigo 86 do CPC; alega que a parte vencida é que deve arcar com o pagamento da verba honorária ao advogado contrário, se este for vencedor da demanda, nos termos do artigo 85 do CPC.
+Assim, pugna pelo acolhimento dos declaratórios, prequestionando, na mesma oportunidade, os fundamentos legais que amparam o acórdão embargado(cf. ID no57996998).
+Nas contrarrazões de Id. no62890502, a embargada refuta os argumentos recursais e pugna pela rejeição dos embargos.
+É o relatório.
+D E C I D O
+Oeg. STJ já decidiu que os “embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.” (Segunda Seção - EDcl no AgInt nos EAREsp 969978/MS Embargos de Declaração no Agravo Interno nos Embargos de Divergência em Agravo em Recurso Especial 2016/0220161-6 – Ministra NANCY ANDRIGHI – Julgado em 13.12.2017 – DJe do dia 15.12.2017).
+Na hipótese, o Embargante sustenta que a decisão se omitiu, haja vist que deixou de se manifestar sobre a impossibilidade da compensação dos honorários advocatícios, consoante dispõe o § 14 do CPC/15. Pugna, assim, pelo afastamento da compensação.
+Após nova análise, constata-se que os vertentes declaratórios devem ser acolhidos, pois, com efeito, o Juiz a quo estipulou o pagamento dos honorários advocatícios sob a forma de compensação, o que é vedado pelo atual Código de Processo Civil, consoante artigo 85, § 14 do CPC, verbis:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 14. Os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial.
+Nesse sentido tem sido o entendimento desta Corte, conforme:
+EMBARGOS DE DECLARAÇÃO – AÇÃO DE COBRANÇA – SEGURO OBRIGATÓRIO DPVAT – COMPENSAÇÃO DE HONORÁRIOS – IMPOSSIBILIDADE – OMISSÃO EVIDENCIADA – HONORÁRIOS ARBITRADOS DE FORMA RECÍPROCA – EMBARGOS ACOLHIDOS. Os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial (art. 85, §14), como se verifica na espécie, uma vez que apenas parte dos pedidos do autor foram acolhidos, o que acarreta na sucumbência recíproca, ex vi do art. 86 do CPC. (TJMT. Recurso de Embargos de Declaração n.o 1016220-86.2019.8.11.0041. Rela. Des.a Antônia Siqueira Gonçalves. 3.a Câmara de Direito Privado. Julgado em 09/09/2020. Publicado no DJE 14/09/2020 – sem grifo no original).
+Assim, como esse ponto específico foi incisivamente questionado pelo embargante nas razões do apelo, e como realmente não houve pronunciamento sobre o mesmo, restou, pois, configurado o vício da omissão, que deve ser agora suprido para que, providos os aclaratórios com efeitos infringentes, seja mantida a fórmula da sucumbência recíproca, na proporção de 50% (cinquenta por cento) para o autor e 50% (cinquenta por cento) para a réu, mas sem a compensação adrede determinada, restando, inclusive, suspensa a exigibilidade da parte autora em face da concessão da justiça gratuita, na forma do artigo 98, § 3o do CPC.
+Diante do exposto, acolho os embargos de declaração, para afastar a compensação da verba honorária, na forma da fundamentação supra.
+Custas pelo apelado/embargado.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 29 de outubro de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
