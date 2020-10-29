@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Goiás confirmou o entendimento do Juízo quanto à procedência do pedido de pagamento de diferenças de vencimento. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 37, inciso X, e 169, § 1º, inciso I, da Constituição Federal. Afirma a discricionariedade do Poder Público em conceder o reajuste anual de forma parcelada. Discorre sobre a necessidade de previsão orçamentária para a concessão da revisão. Alude ao entendimento firmado no recurso extraordinário nº 905.357/RO.
+    2. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C COBRANÇA. PARCELAMENTO DE REVISÃO ANUAL. SUSPENSÃO NÃO RECONHECIDA. INTERESSE DE AGIR. PRESCRIÇÃO AFASTADA. DIFERENÇAS ADVINDAS. AUSÊNCIA DE CORREÇÃO MONETÁRIA NO ATO DO PAGAMENTO. CORREÇÃO MONETÁRIA E JUROS DE MORA ALTERADOS.
+    1. No Recurso Extraordinário nº 905357 (Tema nº 864), o Supremo Tribunal Federal debate a existência de previsão legal para a data base do funcionalismo público, discutindo-a apenas sob o ponto de vista da presciência na Lei de Diretrizes Orçamentárias e da falta de correspondência na Lei Orçamentária Anual. Diferentemente, na ação de origem os servidores alardeiam a completa inexistência de ato normativo, instituidor ou orçamentário, a autorizar a revisão geral anual. Fácil dessumir a distinção entre as causas de pedir e, consequentemente, a insubmissão deste processo à ordem de suspensão extraída do Recurso Extraordinário nº 905357 (tema nº 864), Supremo Tribunal Federal.
+    2. O parcelamento dos reajustes, relativos à revisão geral anual de servidores públicos estaduais, sem o implemento da correção monetária, no ato do pagamento, não atende ao propósito do artigo 37, inciso X, da Constituição Federal, na medida em que não se permite a recomposição da perda salarial.
+    3. Aplicando-se o decidido pelo excelso Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 870947, com repercussão geral, tratando-se de condenação contra a Fazenda Pública, de ordem não tributária, a correção monetária deverá incidir, desde quando a verba deveria ter sido paga (súmula nº 43 do colendo Superior Tribunal de Justiça), com base no Índice de Preços ao Consumidor Amplo Especial (IPCA-E) e os juros de mora terão incidência, a contar da citação (artigo 405 do Código Civil), em percentual equivalente ao dos juros aplicados à caderneta de poupança (artigo 1º-F da Lei Federal nº 9.494/1997).
+    APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+    O tema difere daquele tratado no recurso extraordinário nº 905.357/RO, porquanto não se trata de mero pedido de revisão geral de remuneração, quando deixou o ente federativo de atuar na elaboração da norma necessária. No caso em julgamento, há a legislação concessiva, tratando-se de pedido relativo à antecipação das parcelas.
+    Assentou o Tribunal de Justiça a existência de norma específica concessiva do reajuste anual de modo parcelado. Decidir de forma contrária ao entendimento do Colegiado de origem dependeria da análise da legislação de regência, o que é defeso em sede extraordinária.
+    3. Conheço do agravo, desprovendo-o.
+    4. Publiquem.
+Brasília, 29 de outubro de 2020.
+Ministro MARCO AURÉLIO
+Relator
