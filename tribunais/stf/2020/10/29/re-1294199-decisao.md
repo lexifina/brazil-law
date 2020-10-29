@@ -1,0 +1,30 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “FESP – Embargos de Declaração – Insistência nos pedidos já analisados e não concedidos – Inexistência das hipóteses previstas no art. 1.022 do Código de Processo Civil – Rejeição.” (documento eletrônico 14).
+    Os embargos de declaração que se seguiram foram rejeitados (documento eletrônico 14).
+    Neste RE, fundamentado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação art. 93, IX, da mesma Carta, além de ofensa ao art. 167 do Código Tributário Nacional e da Súmula 188 do Superior Tribunal de Justiça - STJ.
+    Bem examinados os autos, verifico que a pretensão recursal merece acolhimento.
+    O Tribunal de Justiça do Estado de São Paulo - TJSP, com base no art. 252 do Regimento Interno do órgão, ratificou a decisão prolatada pelo juízo de primeiro grau, que, em relação ao termo inicial de contagem dos juros moratórios, assim decidiu:
+    “Assim, conforme entendimento pacificado pelo Supremo Tribunal Federal: ´Enquanto não editada a lei a que se refere o § 21 do art. 40 da CF/1988, vigem os diplomas estaduais que regem a matéria, que só serão suspensos se, e no que, forem contrários à lei complementar nacional (CF, art. 24, § 3º e § 4º).´ (SS nº 3.679-AgRg,rel.Min. Gilmar Mendes, j. 04/02/2010).
+    Nessa esteira, observa-se nos autos que a requerida apresentou laudo pericial (fls. 22) comprovando que a requerente obteve o diagnóstico de neoplasia maligna (CID C64.9), assim como o atestando pelo documento de fls. 20, juntado pela autora.
+    Dessa forma, incontestável que a requerente faz jus as isenções tributárias previstas no rol do artigo 6º, inciso XIV, da Lei nº 7.713/88 e no rol do art. 4º, §§ 1º e 2º.
+    [...]
+    Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação ajuizada por MARIA APARECIDA PEREIRA RODRIGUES em face da SÃO PAULO PREVIDÊNCIA SPPREV, para o fim de condenar a requerida a restituir os valores indevidamente descontados, a partir da data do laudo pericial oficial, em 24/01/2019 (fls. 22), observada a prescrição quinquenal, corrigidas monetariamente, pela Tabela Prática do Tribunal de Justiça para Débitos Relativos às Fazendas Públicas modulada pela ADI 4357, e acrescidas de juros moratórios nos termos do artigo 1º-F da Lei 9.494/07, a partir da citação, apurando-se o valor do débito em fase de liquidação de sentença, e extinto o processo, com resolução do mérito, nos termos do art. 487, I, do CPC. “ (págs. 3 e 4 do documento eletrônico 6, grifei).
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que, nas hipóteses de restituição de contribuição previdenciária, os juros de mora incidem após o trânsito da sentença que determina a restituição do tributo. Cito, na mesma linha, os seguintes precedentes desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PERCENTUAL DOS JUROS MORATÓRIOS NA REPETIÇÃO DE INDÉBITO. TERMO INICIAL.
+    Os juros de mora, na repetição de débito tributário, são de 1% ao mês. O termo inicial da fluência dá-se na data do trânsito em julgado da decisão (art. 167, parágrafo único, do CTN). Precedentes.” (AI 648.816 AgR/MG, Rel. Min. Eros Grau).
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RESTITUIÇÃO. JUROS DE MORA. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. INCIDÊNCIA. ALEGADA OFENSA AOS ARTS. 5º, II, XXXV, LIV E LV, E 93, IX, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF.
+    II - O Tribunal entende não ser cabível a interposição de RE por contrariedade princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    III - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário.
+    IV - Não há contrariedade ao art. 93, IX, da CF quando o acórdão recorrido encontra-se suficientemente fundamentado.
+    V - Os juros de mora incidem após o trânsito em julgado da sentença que determina a restituição do tributo, estando as contribuições previdenciárias abrangidas pelo comando do art. 167, parágrafo único, do CTN. Precedentes.
+    VI - Agravo regimental improvido.” (AI 704.539 AgR/RS, de minha relatoria)
+    Por oportuno, destaco trecho do julgamento do RE 598.681-AgR, da relatoria no Ministro Edson Fachin, no qual é discutida questão análoga a dos presentes autos:
+    “No entanto, ao contrário do abono de permanência previsto na EC 41/2003, cuja natureza remuneratória foi reconhecida pelo Superior Tribunal de Justiça (REsp 1.192.556, julgado como representativo da controvérsia), durante o período de vigência da EC 20/98 o valor correspondente à contribuição previdenciária do servidor público que já preenchia os requisitos legais para a obtenção da aposentadoria integral não se revestia de natureza remuneratória ou indenizatória, mas, sim, de imunidade tributária.
+    O servidor público que permanecesse em atividade após o implemento dos requisitos para a obtenção da aposentadoria integral era imune à cobrança da contribuição previdenciária. Nesse contexto, em se tratando de imunidade que não foi observada, o valor correspondente à sua repetição tem a mesma natureza jurídica do tributo e, como tal, a incidência dos juros moratórios sobre o indébito a ser repetido sujeita-se ao artigo 167, parágrafo único, do CTN, cuja aplicabilidade foi consolidada na Súmula 188, do Superior Tribunal de Justiça:
+    ‘Os juros moratórios, na repetição do indébito tributário, são devidos a partir do trânsito em julgado da sentença.’” (grifei)
+    Isso posto, dou provimento ao recurso extraordinário para determinar que os juros moratórios sobre o indébito incidam após o trânsito em julgado da sentença.
+    Publique-se.
+    Brasília, 29 de outubro de 2020.
+                Ministro Ricardo Lewandowski
+                            Relator
