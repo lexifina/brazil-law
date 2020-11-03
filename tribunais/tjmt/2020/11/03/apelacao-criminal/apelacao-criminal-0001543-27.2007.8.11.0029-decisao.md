@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+APELAÇÃO CRIMINAL (417) 0001543-27.2007.8.11.0029
+APELANTE: SEBASTIÃO PEREIRA DA SILVA
+APELADO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos etc.
+À Douta Procuradoria-Geral de Justiça, para parecer.
+Após, voltem-me conclusos.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Desembargador PAULO DA CUNHA,
+Relator.
