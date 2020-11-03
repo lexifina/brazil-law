@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    João Marcelo Gomes assevera haver a Oitava Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, no processo nº 1017596-54.2019.8.26.0053, inobservado o assentado no julgamento das ações diretas de inconstitucionalidade nº 3.713, 4.720, 2.501, 2.667 e 3.757.
+    Narra participação em concurso para ingresso na carreira de procurador do Estado de São Paulo, tendo sido aprovado na fase eliminatória e classificado dentro do número de vagas previstas no Edital. Afirma que, após a etapa de títulos, acabou figurando fora do quadro geral de aprovados. Realça não admitido, para efeito de classificação, certificado de conclusão de pós-graduação emitido pela Faculdade Dom Bosco, embora observadas as normas contidas nas Resoluções nº 1/2001 e 1/2007 da Câmara de Educação Superior do Conselho Nacional de Educação. Esclarece não computado, para fins de pontuação, o número de horas-aula, mas apenas a duração do curso, superior a dois anos.
+    Frisa a competência privativa da União para estabelecer diretrizes e bases da educação. Tem como impertinente a rejeição do diploma apresentado, a revelar suplantada, pela banca examinadora, legislação federal, surgindo o descompasso.
+    Requer, no campo precário e efêmero, seja determinada a atribuição de pontuação ao título. Pretende, no mérito, a confirmação da providência.
+    Por meio da petição/STF nº 84.982/2020, o reclamante insiste no acolhimento do pedido de liminar.
+    2. Ao apreciar a ação direta de inconstitucionalidade nº 3.713, o Pleno declarou inválida a Lei nº 12.248/2016 do Estado de São Paulo, na qual disciplinada cobrança alusiva à confecção, emissão e registro de diplomas de conclusão de curso superior. Na de nº 5.168, assentou o descompasso da Lei nº 7.613/2014 do Estado de Alagoas, a dispor sobre internalização de títulos acadêmicos de mestrado e doutorado expedidos por instituições estrangeiras. A de nº 2.501 envolvia preceitos do Ato das Disposições Constitucionais Transitórias da Carta do Estado de Minas Gerais, prevendo criação e extinção de instituições de ensino.
+    Ao deferir a medida cautelar na ação direta de inconstitucionalidade nº 2.667, o Colegiado suspendeu a eficácia de norma do Distrito Federal por meio da qual versada emissão de certificado de conclusão de ensino médio a estudante da terceira série que, independentemente do número de aulas frequentadas, lograsse aprovação em vestibular. No tocante à ação direta de nº 3.757, o Tribunal conferiu interpretação conforme à Lei nº 14.808/2005 do Estado do Paraná, na qual disciplinado o direito de instalação e participação, no âmbito de instituições de ensino superior, de centros e diretórios acadêmicos.
+    A espécie não guarda relação com os precedentes. Está alicerçada na transcendência dos motivos determinantes, e não considerada a inobservância das partes dispositivas dos acórdãos. Reiterados são os precedentes do Supremo no sentido de inadmitir-se, como premissa para pedido formulado em reclamação, o efeito transcendente.
+    O manuseio da reclamação é excepcional. Pressupõe usurpação da competência deste Tribunal ou desrespeito a decisão por si proferida. Não cabe utilizá-la como sucedâneo recursal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 3 de novembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
