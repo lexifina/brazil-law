@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0001930-84.2015.8.11.0086
+RECORRENTE: VILMAR CORREA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 62449535), interposto por VILMAR CORREA, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Segunda Câmara Criminal deste Sodalício, assim ementado (Id. 49149475):
+“APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO PELA SURPRESA – CONDENAÇÃO – IRRESIGNAÇÃO DEFENSIVA – REDUÇÃO DA PENA BASILAR AO MÍNIMO LEGAL – IMPOSSIBILIDADE – CIRCUNSTÂNCIA JUDICIAL DA CULPABILIDADE NEGATIVADA COM FUNDAMENTO IDÔNEO – APELANTE QUE PREMEDITOU O CRIME – RECONHECIMENTO DA ATENUANTE DE CONFISSÃO ESPONTÂNEA – CONFISSÃO QUALIFICADA – ALEGAÇÃO DE LEGÍTIMA DEFESA – ART. 65, III, "D", DO CP – VIABILIDADE, CONFORME PRECEDENTES DO STJ – REDIMENSIONAMENTO QUE SE IMPÕE – RECURSO PARCIALMENTE PROVIDO. Na esteira do entendimento adotado no Enunciado n. 49 da Turma de Câmaras Criminais Reunidas deste Tribunal de Justiça: “A premeditação constitui fundamento idôneo para a majoração da pena -base em decorrência da maior culpabilidade da ação delituosa”. A confissão espontânea deve ser reconhecida, ainda que parcial ou qualificada, quando a manifestação do acusado for utilizada como fundamento para sua condenação.” (Ap. 0001930-84.2015.8.11.0086, DES. PEDRO SAKAMOTO, SEGUNDA CÂMARA CRIMINAL, Julgado em 02/09/2020).
+Alega violação ao art. 68 do CP, ao argumento de desproporcionalidade na aplicação do redutor referente à confissão espontânea na fração de apenas 1/8 (um oitavo).
+Recurso tempestivo (Id. 62876139).
+Contrarrazões – Id. 64230967.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ.
+Nos termos do art. 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+In casu, ao apontar a violação ao art. 68 CP, defende o Recorrente a desproporcionalidade na aplicação do redutor referente à confissão espontânea na fração de apenas 1/8 (um oitavo)..
+Todavia, conquanto pretenda rever a conclusão do acórdão impugnado acerca da correta pena intermediária a ser aplicada ao caso concreto, a análise desta questão exige o exame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado.
+A propósito:
+“RECURSO ESPECIAL. PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. QUEBRA DE SIGILO FISCAL. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 8o DA LEI N. 8.021/90 E 6o DA LC N. 105/2001; 41 DO CPP; 156 E 386, VII, AMBOS DO CPP, E 1o, I, DA LEI N. 8.137/1990; 49, 59 E 68, TODOS DO CP; 66 DO CP; E 147 DA LEP. QUEBRA DO SIGILO BANCÁRIO PELA ADMINISTRAÇÃO TRIBUTÁRIA. AUSÊNCIA DE AUTORIZAÇÃO JUDICIAL. POSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA PELO STF. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. DENÚNCIA QUE PREENCHE OS REQUISITOS DO ART. 41 DO CPP. SUPORTE NO CONTEXTO FÁTICO-PROBATÓRIO. ALTERAÇÃO. INADMISSIBILIDADE. SÚMULA 7/STJ. TESE SUPERADA PELA PROLAÇÃO DA SENTENÇA CONDENATÓRIA. JURISPRUDÊNCIA DO STJ. TESE DE FRAGILIDADE PROBATÓRIA APTA A SUSTENTAR A CONDENAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. NECESSIDADE DE EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. PLEITO DE REDUÇÃO DA PENA-BASE. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. FUNDAMENTO CONCRETO. MAUS ANTECEDENTES DO RECORRENTE. ALEGAÇÃO DE CARÊNCIA DE PROPORCIONALIDADE E DE RAZOABILIDADE. DISCRICIONARIEDADE DO JUÍZO. PRECEDENTES. RESTABELECIMENTO DA ATENUANTE GENÉRICA. INADMISSIBILIDADE. SÚMULA 7/STJ. PLEITO DE SUSPENSÃO DA EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITOS. PROVIMENTO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM DIVERGENTE DA ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE DE JUSTIÇA. ERESP N. 1.619.087/SC, TERCEIRA SEÇÃO, DJE 24/8/2017. PRECEDENTES. (...) 12. A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal (AgRg no REsp n. 1.449.193/CE, Ministro Felix Fischer, Quinta Turma, DJe 26/2/2018). (...)” (REsp 1797992/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/05/2019, DJe 24/05/2019) (destaquei)
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FRAÇÃO DE REDUÇÃO PELO RECONHECIMENTO DA CONFISSÃO. DISCRICIONARIEDADE VINCULADA DO JULGADOR. REDUTOR DO ART. 33, § 4o, DA LEI 11.343/2006 APLICADO PELO TRIBUNAL A QUO NA FRAÇÃO DE 1/6. CONTRIBUIÇÃO COM ORGANIZAÇÃO CRIMINOSA. REVISÃO. SÚMULA 7/STJ. REGIME INICIAL FECHADO. MOTIVAÇÃO IDÔNEA. QUANTIDADE DA DROGA. ART. 312 DO CPP. REQUISITOS. RÉU ESTRANGEIRO. PRISÃO PARA A GARANTIA DE ORDEM PÚBLICA E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. AGRAVO IMPROVIDO. (...) 4. A escolha da fração de redução se mostra condizente com os parâmetros da razoabilidade e da proporcionalidade e encontra justificativa nas peculiaridades da ação criminosa. Maiores considerações a respeito, para o fim de reduzir ou aumentar a fração da benesse, encontra óbice na Súmula 7 desta Corte.” (...)” (AgRg no AREsp 451.319/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2016, DJe 12/08/2016) (destaquei)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal no ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 03 de novembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
