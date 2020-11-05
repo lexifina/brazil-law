@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado assim retratou a reclamação:
+    Marcos Paulo de Oliveira Luciano afirma haver o Delegado de Polícia da Delegacia de Repressão às Ações Criminosas Organizadas – Draco, no procedimento nº 405-00216/2020 (processo nº 0173150-19.2020.8.19.0001), inobservado o decidido no julgamento das arguições de descumprimento de preceito fundamental nº 395 e 444.
+    Narra que foi conduzido, de forma coercitiva, em 1º de setembro de 2020, para prestar esclarecimentos no âmbito de procedimento sigiloso, após efetuadas busca e apreensão na residência, determinadas no processo nº 0173150-19.2020.8.19.0001. Requerida, pela autoridade policial, a prisão temporária, o pedido foi indeferido. Assevera não atribuída à Delegacia a investigação. Sublinha exposição indevida na mídia.
+    Requer, no campo precário e efêmero, seja determinado que a autoridade se abstenha de implementar conduções coercitivas e cesse as investigações, até o desfecho desta medida. Pretende, no mérito, a confirmação das providências e a declaração de ilegalidade das conduções realizadas, com anulação de todos os atos delas decorrentes. Busca o deslocamento do inquérito da Delegacia especializada para outra, com atribuição para investigar os fatos.
+    A autoridade reclamada, nas informações, esclarece atuar com respaldo em pronunciamento judicial. Nega coerção, afirmando ter o envolvido concordado em comparecer à delegacia. Diz ausente o emprego de força ou algemas. Reproduz o teor do mandado de intimação, o qual não se confunde com o de condução. Frisa a atribuição para a investigação.
+    Por meio da petição/STF nº 89.519/2020, o reclamante insiste na contrariedade ao assentado nos processos objetivos. Destaca haver sido levado, em viatura policial, contra a vontade própria e do advogado constituído, não permitido o deslocamento em veículo particular, sendo simulada prisão perante a imprensa. Reitera o pedido de implemento de medida acauteladora.
+    2. Nas arguições de descumprimento de preceito fundamental nº 395 e 444, o Supremo declarou não recepcionada, pela Constituição Federal, a expressão “para o interrogatório” constante do artigo 260 do Código de Processo Penal. Proclamou a incompatibilidade, com a Lei Maior, da chamada condução coercitiva, para interrogatório, de investigados ou réus, sob pena de responsabilidade disciplinar, civil e penal do agente ou autoridade e de ilicitude das provas obtidas, sem prejuízo da responsabilidade civil do Estado.
+    Da análise das peças, especialmente as informações apresentadas pela autoridade reclamada, conclui-se ausente condução forçada do envolvido, o qual, conforme revelado, compareceu de forma espontânea. Confiram trecho da manifestação do Delegado de Polícia:
+    […]
+    No relatório de diligência que segue acostado à presente, foi consignado, de maneira clarividente, que o intimado foi na viatura após sua concordância e de seu patrono, que inclusive só não foi junto porque não queria deixar seu veículo na região. Isso foi feito justamente para dar celeridade e evitar que a imprensa pudesse fazer filmagens ao redor da delegacia, já que àquela altura os meios de comunicação sabiam da diligência e, como é sabido, os profissionais ficam à espera na porta da unidade policial.
+    [...]
+    Considerado o rito próprio da reclamação, é inviável o revolvimento das balizas fáticas delineadas, devendo a parte veicular, na via adequada, eventual irresignação direcionada a questionar a veracidade do que declarado pela autoridade policial.
+    No tocante ao pedido voltado ao reconhecimento da falta de atribuição, para condução da investigação, da Delegacia de Repressão às Ações Criminosas Organizadas, não guarda pertinência com o decidido nas arguições de descumprimento de preceito fundamental nº 395 e 444, no que ausente identidade material.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 5 de novembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
