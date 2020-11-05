@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de Agravo Interno interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DE SANTA CATARINA – IPREV em face de decisão proferida em Agravo em Recurso Extraordinário, ocasião em que neguei seguimento ao recurso com fundamento na ausência de repercussão geral no caso concreto.
+    No Agravo, a parte agravante sustenta, em síntese, que demonstrou a repercussão geral da matéria. Ressalta, ainda, que “a repercussão geral da matéria também é evidente diante do deferimento da medida cautelar na ADI 4.582, que concedeu medida acauteladora para restringir aplicabilidade do preceito contido no artigo 15 da Lei nº 10.887/2004, com a redação que lhe foi atribuída pela Lei nº 11.784, de 22 de setembro de 2008, aos servidores ativos e inativos bem como aos pensionistas da União” (fl. 3, Vol. 34). Defende “a impossibilidade de incidência das regras de reajustamento do servidor público estadual com fundamento no índice estabelecido pela Lei 10.884/2004, porque suspensa a sua aplicabilidade por decisão dessa Suprema Corte pendente de julgamento de mérito, não sendo o caso de reajuste do benefício com fundamento no índice de reajuste do Regime Geral de Previdência Social em razão da existência de regime próprio na legislação local” (fl. 3, Vol. 34).
+    É o relatório. Decido.
+    Merece reconsideração a decisão agravada.
+    O Recurso Extraordinário suscita questão eminentemente constitucional, devidamente prequestionada nas instâncias de origem, razão pela qual reexamino o mérito.
+    In casu, discute-se a possibilidade de benefício previdenciário concedido a servidor público estadual ser reajustado com base em índices de correção monetária federal, conforme prevê o artigo 15 da Lei 10.887/2004, com a redação dada pela Lei 11.784/2008. Veja-se o teor da norma:
+    “Art. 15. Os proventos de aposentadoria e as pensões de que tratam os arts. 1º e 2º desta Lei serão reajustados, a partir de janeiro de 2008, na mesma data e índice em que se der o reajuste dos benefícios do regime geral de previdência social, ressalvados os beneficiados pela garantia de paridade de revisão de proventos de aposentadoria e pensões de acordo com a legislação vigente. (Redação dada pela Lei nº 11.784, de 2008)”.
+    Julgado improcedente o pedido em primeiro grau de jurisdição, o Tribunal de origem reformou a sentença utilizando como fundamento acórdão proferido por esta CORTE no RE 376.846, Rel. Min. CARLOS VELLOSO, Tribunal Pleno, DJ. 24/9/2003.
+    Ocorre que, posteriormente, no julgamento da ADI 4582-MC, de relatoria do Min. MARCO AURÉLIO, DJe de 9/2/2012, o Plenário desta SUPREMA CORTE concedeu medida acautelatória para restringir os efeitos do artigo 15 da Lei 10.887/2004, com alteração promovida pela Lei 11.784, de 22 de setembro de 2008, aos servidores públicos e pensionistas da União. Veja-se ementa do precedente:
+    “PROVENTOS – SERVIDORES ESTADUAIS – REVISÃO. “Surge relevante pedido de concessão de medida acauteladora no que ato emanado da União veio a disciplinar a forma de manutenção do poder aquisitivo de proventos e pensões alusivos a servidor do Estado”.
+    Logo, merece reforma o acórdão recorrido. No mesmo sentido, cito o seguinte precedente:
+    “Ementa: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES PÚBLICOS APOSENTADOS APÓS A EC 41/2003. REAJUSTE DE PROVENTOS. ART. 40, § 8º, DA LEI Nº 10.887/2004. APLICAÇÃO DOS ÍNDICES DO REGIME GERAL. ADI 4.582-MC. INCIDÊNCIA RESTRITA AOS SERVIDORES FEDERAIS.
+    1. O Plenário do Supremo Tribunal Federal concedeu medida cautelar na ADI 4.582 para suspender a aplicação do art. 15 da Lei 10.887/2004, com redação dada pela Lei nº 11.724/2008, aos reajustes de benefícios concedidos pelos Estados-membros e Municípios.
+    2. Nos termos da Súmula Vinculante 42, é inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”. (ARE 989.594-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe. 4/10/2017).
+    Vejam-se, ainda, as seguintes decisões monocráticas: ARE 1.278.973, Rel. Min. MARCO AURÉLIO, DJe de 18/8/2020; e RE 1.192.275, Rel. Min. RICARDO LEWANDOWSKI, DJe de 2/7/2020.
+    Registre-se, por oportuno, que nos termos da Súmula Vinculante 42 “é inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária”.
+    Diante do exposto, RECONSIDERO a decisão agravada  e, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, CONHEÇO DO AGRAVO PARA DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO do IPREV, de modo a restabelecer a sentença.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 5 de novembro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
