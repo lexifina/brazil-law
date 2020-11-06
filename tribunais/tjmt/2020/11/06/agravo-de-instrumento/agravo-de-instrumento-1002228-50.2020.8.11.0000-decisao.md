@@ -1,0 +1,10 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1002228-50.2020.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DA CAPITAL
+AGRAVANTE: SOLANGE EVA DE OLIVEIRA;
+AGRAVADO: MUNICÍPIO DE CUIABÁ.
+Vistos etc.
+Cumpram-se o despacho (Id. 57990473).
+Às providências.
+Após, conclusos.
+Cuiabá, 6 de novembro de 2020.
+Des. Luiz Carlos da Costa
+Relator
