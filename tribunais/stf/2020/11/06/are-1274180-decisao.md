@@ -1,0 +1,38 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. TERCEIRIZAÇÃO. O TRT de origem decidiu conforme os itens II e V da Súmula 331 do TST. No que tange à isonomia, a decisão está em sintonia com a OJ 383 da SBDI-I do TST. No mais, não é possível aplicar as alterações promovida pela Lei 13.429/17, pois vigora no ordenamento jurídico brasileiro o princípio da irretroatividade da lei, segundo o qual uma lei nova não pode retroceder, considerando situações já consolidadas na vigência da lei anterior, conforme dispõe os artigos 5º, XXXVI, da CF/1988 e 6º, da Lei de Introdução às Normas do Direito Brasileiro. Não merece reparos a decisão. Agravo não provido”. (eDOC 47, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II; 37, caput, II e § 2º; e art. 173 do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, ser lícita a terceirização de atividades-fim da empresa tomadora do serviço. (eDOC 57, p. 3)
+    Em contrarrazões, sustenta-se que a reforma do acórdão dependeria do revolvimento da matéria fático-probatória. (eDOC 71)
+    A Vice-Presidência do Tribunal de origem negou seguimento ao recurso pelo óbice da Súmula 281 do STF, visto que a recorrente teria interposto contra o mesmo acórdão, simultaneamente, o presente recurso extraordinário e embargos à SDI. (eDOC 75)
+    É o relatório.
+    Decido.
+    Observados os requisitos de admissibilidade do agravo, passo à análise do recurso extraordinário.
+    Assiste razão ao juízo agravado, no sentido de que o princípio da unirrecorribilidade impede o conhecimento do extraordinário, interposto concomitantemente aos embargos a outro órgão do Tribunal recorrido.
+    Creio, todavia, que particularidades do caso recomendam a desconsideração desse vício processual, a partir da faculdade sanativa concedida a esta Corte pelo parágrafo terceiro do artigo 1.029 do Código de Processo Civil:
+    “O Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave”.
+    Efetivamente, a controvérsia recursal vem sendo conhecida por esta Corte em sede de reclamação contra acórdãos e atos em juízo de admissibilidade do TST que mantém a sucumbência de prestadores e tomadores de mão-de-obra demandados por terceirização ilícita, por contrariedade à Súmula Vinculante 10 e ao acórdão da ADPF 324.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA. TERCEIRIZAÇÃO DE SERVIÇOS PARA CONSECUÇÃO DE ATIVIDADE-FIM. DECLARAÇÃO DE ILICITUDE. ARTIGO 25, PARÁGRAFO 1º, DA LEI 8.987/1995. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10 E À AUTORIDADE DA DECISÃO DO PLENÁRIO DO STF NA ADPF 324. OCORRÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO”. (Rcl 40.091 AgR-AgR, rel. Luiz Fux, Primeira Turma, DJe 8.9.2020)
+    “Agravo regimental na reclamação. 2. Direito do Trabalho. 3. Reclamação. Ação voltada à proteção de toda a ordem constitucional. 4. Decisão reclamada que se fundamenta em norma posteriormente declarada inconstitucional pelo Supremo Tribunal Federal, com efeitos sobre decisões não transitadas em julgado. Inviabilidade de seu futuro cumprimento. Observância dos princípios da celeridade e da economia processual. 5. Terceirização da atividade-fim. Serviço bancário. 6. O reconhecimento de vínculo trabalhista com o tomador dos serviços, por aplicação da Súmula 331 do TST, viola a decisão vinculante tomada por esta Corte na ADPF 324. 7. Negado provimento ao agravo regimental”. (Rcl 38.384 AgR, de minha relatoria, Segunda Turma, DJe 26.8.2020)
+    Logo, penso não atender ao princípio da economia processual deixar de conhecer do recurso extraordinário, quando a recorrente ainda poderia provocar a análise da Suprema Corte pela utilização de outro remédio processual.
+    Adentrando o mérito do recurso extraordinário, constato assistir razão à recorrente.
+    No julgamento da citada ação direta (ADPF 324) este Tribunal reconheceu a inconstitucionalidade do critério de distinção entre atividade-meio e atividade-fim para fins de definição da licitude ou ilicitude da terceirização, afastando a incidência da interpretação conferida pelo TST a sua Súmula 331, e estabeleceu as seguintes teses:
+    “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada.
+    2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+    O Tribunal de origem deixou de conhecer do recurso de revista por se encontrar o acórdão recorrido em consonância com a jurisprudência do TST, quanto à ilicitude da contratação de empresas para realização de serviços concernentes à atividade-fim da instituição bancária. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O TRT de origem decidiu em sintonia com os itens II e V da Súmula 331 do TST (terceirização ilícita e responsabilidade subsidiária da CEF).
+    A decisão está em sintonia com a OJ 383 da SBDI-I do TST quanto ao tema isonomia com empregados da Caixa Econômica Federal (tomadora dos serviços), in verbis: (...)”. (eDOC 47, p. 3)
+    O acórdão do Tribunal do Trabalho da 3ª Região, mantido pelo acórdão recorrido, assim retrata a controvérsia processual:
+    “O preposto, naqueles autos, declarou que ‘a reclamante só atendia contrato da Plansul com a Caixa Econômica Federal; que a reclamante era do setor ativo e esporadicamente poderia atender no receptivo; que fazia ofertas de cartões de crédito e seguros’. fl. 492.
+     Em que pesem as alegações das reclamadas, predomina nesta Turma o entendimento de que a prestação de serviços da espécie admitida traduz-se em terceirização de atividade-fim.
+    Assim, para a maioria, a reclamante exercia atividade tipicamente bancária.
+    Superada a questão da ilicitude da terceirização, a responsabilidade solidária das reclamadas encontra respaldo no disposto nos artigos 927 e 942 do Código Civil, em face da fraude perpetrada, devendo, portanto, ser mantida. Assinalo, a propósito, que o §1 do artigo 71 da Lei 8.666/93 não se aplica ao caso vertente, uma vez que a hipótese não é de mero descumprimento do contrato pela terceirizada, mas de terceirização ilícita, patrocinada pela tomadora.
+    Na terceirização ilícita têm os terceirizados direito à isonomia salarial com os empregados da tomadora, nos termos da OJ 383 da SDI-1 do TST. A CEF é o principal agente de tal violação, já que dela a iniciativa de terceirizar.
+    É evidente que não remanesceram empregados da tomadora de serviços exercendo as mesmas funções da reclamante exatamente porque a CEF manobrou no sentido de terceirizar toda a atividade, obstando maliciosamente, assim, o preenchimento do requisito da igualdade de funções, previsto na OJ mencionada alhures”. (eDOC 22, p. 3)
+    Patente, dessa forma, que a decisão recorrida está em direta contrariedade à jurisprudência desta Corte, firmada na ADPF 324.
+    Ante o exposto, dou provimento ao recurso extraordinário (art. 932, V, b, do CPC, c/c art. 21, §1º, do RISTF) para reformar o acórdão recorrido e julgar improcedentes os pedidos autorais.
+    Publique-se.
+    Brasília, 6 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
