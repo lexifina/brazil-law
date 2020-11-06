@@ -1,0 +1,41 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 1005055-64.2016.8.11.0003
+Recorrente: DISMOBRAS IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO DE MÓVEIS E ELETRODOMÉSTICOS S. A.
+Recorrido: EUGENY VIRGEM ESPINDOLI MEIRELES
+Vistos.
+Trata-se de Recurso Especial interposto por DISMOBRAS IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO DE MÓVEIS E ELETRODOMÉSTICOS S. A. (id 57568481) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela QUARTA CÂMARA DE DIREITO PRIVADO assim ementado (id 53212455):
+“APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS – MAJORAÇÃO DO VALOR INDENIZATÓRIO - CABIMENTO – JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA – RESPONSABILIDADE CONTRATUAL – CITAÇÃO E ARBITRAMENTO - SENTENÇA REFORMADA – RECURSO PROVIDO. 1. Em relação à compensação por danos extrapatrimoniais, deve o Juiz se ater ao grau de culpa do ofensor, ao nível socioeconômico da parte autora e, por fim, ao porte econômico do réu, sempre com apreço pelos critérios da razoabilidade e proporcionalidade. 2. Se tratando de responsabilidade civil de natureza contratual, a indenização por danos morais deve ser corrigida a partir do arbitramento e acrescida de juros moratórios desde a citação.” (TJMT, RAI 1005055-64.2016.8.11.0003, Desa. SERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 05/08/2020)
+Os Embargos de Declaração id 54181463 e id 54287460 foram rejeitados, conforme acórdão id 56509465.
+No id 57318453 foram apresentados novos aclaratórios que restaram rejeitados, conforme acórdão id 59719482.
+A parte Recorrente apresentou seu recurso especial sustentando que o acórdão merece ser reformado, uma vez que teria afrontado o disposto nos artigos 884 e 944 do Código Civil ao majorar o dano moral para R$ 10.000,00 (dez mil reais), “sobrepujando os princípios constitucionais implícitos da proporcionalidade e da razoabilidade.”
+Postula ainda pela concessão da Justiça Gratuita, apontando que não possui condições de arcar com as custas e despesas processuais em razão de encontrar-se em recuperação judicial.
+Especificamente sobre o efeito suspensivo, assevera que:
+“(...)Desta forma, há previsão legal para atribuição de efeito suspensivo ao presente Recurso Especial desde que preenchidas alguma das duas hipóteses legais, quais sejam: a) demonstração da probabilidade de provimento do recurso; ou b) existência de riscode dano grave ou de difícil reparação.
+Na espécie, mostram-se presentes os dois requisitos ensejadores da atribuição de efeito suspensivo ao presente recurso. Confira- se. Em primeiro lugar, é extremamente alta a probabilidade de provimento recursal, em que pese foi efetivamente demonstrado o caucionamento do valor e ausência de risco de prejuízo à parte contrária.
+Em segundo lugar, o risco de dano grave ou de difícil reparação se mostra evidente, na medida em que, caso seja mantida incólume o acórdão recorrido, o que se admite apenas a título argumentativo, poderá ocorrer dano permanente à empresa, uma vez que os protestos estão ativos e causando inúmeros transtornos para a atividade econômica da empresa, que já se encontra em Recuperação Judicial.
+Por derradeiro, mostra-se possível e extremamente necessária a concessão excepcional da antecipação dos efeitos da tutela recursal ao presente Recurso Especial, a fim de que os protestos sejam suspensos até que se julgue o presente recurso.”
+Recurso tempestivo e postula pela concessão da Justiça Gratuita, conforme certidões id 64445985 e 64662950.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que apontou o perigo de dano ao argumento da existência de protestos ativos que estariam causando transtornos para a atividade econômica da empresa.
+Entretanto, o caso em discussão não trata de protestos, mas sim se indenização por dano moral decorrente de vício do produto.
+Ou seja, o fundamento utilizado pela parte Recorrente é diverso da realidade dos autos.
+Além disso, o STJ já pacificou o entendimento de que é necessário analisar o conjunto fático-probatório para a concessão do benefício da justiça gratuita que foi postulado, atraindo o óbice da Súmula n. 07, conforme aresto:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PRESUNÇÃO RELATIVA DA NECESSIDADE FINANCEIRA. ESTADO DE HIPOSSUFICIÊNCIA. REEXAME DE ACERVO PROBATÓRIO. SÚMULA 7 DO STJ. 1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir entre decisão contrária aos interesses da parte e ausência de prestação jurisdicional. 2. O Superior Tribunal de Justiça já decidiu que o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado. 3. Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar o estado de hipossuficiência para a concessão da assistência judiciária, como sustentado neste recurso, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável no apelo extremo, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 4. Agravo interno a que se nega provimento.” (STJ, AgInt no REsp 1464705/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/04/2020, DJe 28/04/2020) – destaquei.
+Assim, ausente a probabilidade do direito ante a incidência da Súmula n. 07 no caso concreto, não há falar em concessão do efeito suspensivo
+Note-se que o recurso postula pela concessão da Justiça Gratuita baseou-se na premissa de que a empresa se encontra em recuperação judicial.
+Entretanto, resta pacificado que o fato de estar em processo recuperacional não autoriza a concessão da Justiça Gratuita, conforme aresto:
+“EMBARGOS DE DECLARAÇÃO - AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - JUSTIÇA GRATUITA INDEFERIDA - DECLARAÇÃO DE HIPOSSUFICIÊNCIA - PRESUNÇÃO RELATIVA - INCAPACIDADE FINANCEIRA NÃO DEMONSTRADA – OMISSÃO - NÃO OCORRÊNCIA– JULGAMENTO DE ACORDO COM A RECENTE JURISPRUDÊNCIA DO STJ SOBRE O TEMA – RECUPERAÇÃO JUDICIAL – MOTIVO QUE POR SI SÓ NÃO CONFERE O DIREITO À JUSTIÇA GRATUITA - PREQUESTIONAMENTO – INVIABILIDADE – PRETENSÃO DE REDISCUTIR A CAUSA – RECURSO NÃO PROVIDO. Nega-se provimento aos Embargos de Declaração opostos com o único propósito de rediscutir o mérito da lide e alterar o resultado do julgamento, pois não evidenciado nenhum dos vícios elencados no artigo 1.022 do CPC.” (TJMT, N.U 1002494-37.2020.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, RUBENS DE OLIVEIRA SANTOS FILHO, Quarta Câmara de Direito Privado, Julgado em 16/09/2020, Publicado no DJE 21/09/2020) – destaquei.
+Isto posto, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do Art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado, bem como indefiro o pedido de Justiça Gratuita.
+Intime-se a parte adversa para recolher as custas recursais, no prazo de 05 (cinco) dias, sob pena de deserção, e ainda, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 06 de novembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
