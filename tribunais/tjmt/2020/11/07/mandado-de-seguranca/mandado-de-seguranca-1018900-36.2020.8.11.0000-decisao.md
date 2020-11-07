@@ -1,0 +1,27 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO — MANDADO DE SEGURANÇA No 1018900-36.2020.8.11.0000 — CLASSE 120 — CNJ — CÍVEL — COMARCA DA CAPITAL
+IMPETRANTE: ORTOTRAUMA ORTOPEDIA E TRAUMATOLOGIA S.S. LTDA.;
+IMPETRADOS: Secretário de Estado de Saúde de Mato Grosso, Secretário Adjunto de Aquisições Governamentais e Pregoeiro do Pregão Eletrônico no 17, de 15 de maio de 2020, DA SECRETARIA DE ESTADO DE SAÚDE;
+LITISCONSORTE PASSIVO NECESSÁRIO: NEOMED ATENDIMENTO HOSPITALAR EIRELI.
+Vistos etc.
+Mandado de segurança impetrado por Ortotrauma Ortopedia e Traumatologia S.S. Ltda. contra ato do Secretário de Estado de Saúde de Mato Grosso, do Secretário Adjunto de Aquisições Governamentais, bem como do Pregoeiro do Pregão Eletrônico no 17, de 15 de maio de 2020, da Secretaria de Estado de Saúde, com pedido de liminar.
+Assegura que, em 4 de junho de 2020, a empresa Neomed Atendimento Hospitalar Eireli – ME foi declarada vencedora do lote no 8 do processo licitatório regido pelo Edital de Pregão Eletrônico no 17, de 15 de maio de 2020, da Secretaria de Estado de Saúde de Mato Grosso, razão pela qual interpôs recurso administrativo pelos seguintes fundamentos: “A) Inexiquibilidade do contrato; B) Irregular enquadramento em EPP; C) Irregularidade nos documentos de habilitação”. Todavia, restou indeferido.
+Assevera que a empresa Neomed Atendimento Hospitalar Eireli – ME não é optante pelo Simples Nacional, bem como não se enquadra na condição de empresa de pequeno porte. Também, apresentou proposta inexequível e documentos contábeis irregulares que impossibilitavam a sua habilitação no certame.
+Deferido o pedido de emenda da inicial (Id. 58189012).
+Manifestação do litisconsorte passivo necessário (Id. 59908480).
+Informações preliminares do Pregoeiro do Pregão Eletrônico no 17, de 15 de maio de 2020, da Secretaria de Estado de Saúde de Mato Grosso (Id. 62400492).
+Manifestação do Estado de Mato Grosso (Id. 62423457).
+É o relatório.
+De início, anoto que, os atos administrativos praticados pelo Secretário Adjunto de Aquisições Governamentais e pelo Pregoeiro do Pregão Eletrônico no 17, de 15 de maio de 2020, da Secretaria de Estado de Saúde de Mato Grosso, não se submetem, em ação originária, ao controle jurisdicional do Tribunal, mas de Juízo de Primeira Instância.
+Quanto à alegação de litispendência com o mandado de segurança, autos no 1018525-35.2020.8.11.0000, anoto que, na data de 9 de outubro de 2020, naqueles autos proferi decisão no sentido de indeferir a segurança, em razão da existência de litispendência com o presente mandamus.
+No caso, a análise da existência de fraude, em tese, no processo licitatório regido pelo Edital de Pregão Eletrônico no 17, de 15 de maio de 2020, da Secretaria de Estado de Saúde, está a demandar dilação probatória, mormente, porque, o fundamento da impetração senta praça no fato de que, há documentos contábeis irregulares apresentados pela vencedora do certame.
+Incabível, portanto, o mandado de segurança, visto que este tem como único escopo proteger direito líquido e certo, consoante está no artigo 5o, LXIX, da Constituição da República Federativa do Brasil, com exigência de prova pré-constituída, não passível de impugnação ou de controvérsia.
+[...] – Refoge, aos estreitos limites da ação mandamental, o exame de fatos despojados da necessária liquidez, não se revelando possível a instauração, no âmbito do processo de mandado de segurança, de fase incidental de dilação probatória. Precedentes.
+– A noção de direito líquido e certo se ajusta, em seu específico sentido jurídico-processual, ao conceito de situação decorrente de fato incontestável e inequívoco, suscetível de imediata demonstração mediante prova literal pré-constituída. Precedentes. (STF, Tribunal Pleno, MS 23190 AgR/RJ, relator Ministro Celso de Mello, publicado no Diário da Justiça Eletrônico em 9 de fevereiro de 2015).
+Por se tratar de mandado de segurança, há a necessidade de existência de prova pré-constituída, visto que “o pressuposto do mandado de segurança, portanto, é a ausência de dúvida quanto à situação de fato, que deve ser provada documentalmente. Qualquer incerteza sobre os fatos decreta o descabimento da reparação da lesão através do mandado, devendo a parte pleitear seus direitos através de ação que comporte a dilação probatória. Daí dizer-se que o mandado de segurança é um processo sumário documental, isto é, um processo rápido, concentrado, fundado em prova documental. No caso de não ser possível a apreciação do pedido por haver dúvida quanto à matéria de fato, por outro lado, pode o interessado propor a demanda adequada, não ocorrendo contra ele o fenômeno da coisa julgada” (GRECO FILHO, Vicente. Direito Processual Civil Brasileiro. 13a ed., São Paulo: Saraiva, 1999, vol. 3, p. 308).
+Em conclusão, à míngua de prova pré-constituída, não há direito líquido e certo a ser amparado pelo mandado de segurança, a impor o indeferimento da ordem.
+Essas, as razões por que: i) indefiro a segurança em relação ao Secretário Adjunto de Aquisições Governamentais e ao Pregoeiro do Pregão Eletrônico no 17, de 15 de maio de 2020, da Secretaria de Estado de Saúde de Mato Grosso, nos termos dos artigos 6o, § 5o, e 10 da Lei de Regência, e dos artigos 51, XIV e 161, § 1o, do RITJ/MT; e ii) indefiro a segurança em relação ao Secretário de Estado de Saúde de Mato Grosso, com fundamento no artigo 10 da Lei de Regência, nos artigos 51, XIV, e 161, § 1o, do RITJ/MT.
+Intimem-se.
+Às providências.
+Cuiabá, 6 de novembro de 2020.
+Des. Luiz Carlos da Costa
+Relator
