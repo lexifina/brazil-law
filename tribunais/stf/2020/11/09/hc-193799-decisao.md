@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado por Maruzan Alves de Macedo, em favor de Fabiana Aparecida Carnevalli, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 609.102/MG.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Fabiana Aparecida Carnevalli, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais – que negou provimento à apelação interposta pela paciente (fls. 20/25), mantendo sentença prolatada pelo Juízo de Direito da Vara Criminal da comarca de Frutal/MG, que a condenou a 6 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, e ao pagamento de 16 dias-multa, pela prática do crime de roubo circunstanciado (fls. 48/56 – Ação Penal n. 1307147-98.2009.8.13.0271) –, e alegando-se constrangimento ilegal consistente em:
+    ‘a. condenação pelo crime de roubo circunstanciado, argumentando que a condenação foi lastreada em depoimento isolado prestado por policial na fase inquisitorial e em juízo, porém não corroborado por outros elementos de provas na instrução processual (fl. 5);
+    b. regime inicial imposto, aduzindo que a pena fora fixada próximo ao patamar mínimo, revela-se um contrassenso impor-se o regime mais gravoso em virtude de proposições não cogitadas na primeira fase da dosimetria, por inexistência de motivos para sua majoração (fl. 13); e
+    c. dosimetria da pena, na terceira fase, em relação ao quantum de majoração, assentando que o estabelecimento de fração acima da mínima legal, na terceira fase da dosimetria, deu-se, na espécie, tão só pela incidência de três majorantes – emprego de arma, concurso de agentes e da restrição da liberdade das vítimas –, com base no critério matemático (fl. 16)’.
+    Postula-se, então, a concessão liminar da ordem para que a paciente seja absolvida ou, subsidiariamente, o redimensionamento da pena imposta e a alteração do regime inicial”.
+    No STJ, a ordem foi parcialmente concedida “apenas para redimensionar a pena imposta para 5 anos e 4 meses de reclusão e 13 dias-multa, da Ação Penal n. 1307147-98.2009.8.13.0271, da Vara Criminal da comarca de Frutal/MG.”
+    Nesta Corte, a defesa insiste no pedido de fixação do regime semiaberto.
+    É o relatório.
+    Decido.
+    Para melhor compreensão da controvérsia, observem-se trechos do acórdão da apelação:
+    “[...]
+    Narra a denúncia que, no dia 03 de abril de 2009, por volta das 03h40min, na Rua João Januário, nº 211, casa, Centro, em Planura, a denunciada, agindo com unidade de desígnios e previamente ajustada com três indivíduos não identificados ("Carlos Fernando da Silva", "Luiz Fernando" e "Cigano"), subtraiu, para proveito comum, mediante grave ameaça consistente no emprego de revólveres, os bens descritos no auto de apreensão de fls. 91/92 e no laudo de avaliação de fls. 90/92, pertencentes às vítimas J.F.F. e M.T.A..
+    Segundo consta, por ocasião dos fatos, três indivíduos ingressaram clandestinamente na residência dos ofendidos, mediante o arrombamento da fechadura da cozinha, e, de posse de revólveres, anunciaram o assalto. Na sequência, os autores, valendo-se de lençóis, imobilizaram e amordaçaram as vítimas, subtraindo diversos objetos, dentre eles, que também foi utilizado para a fuga, o veículo VW/Gol, cor cinza, placas DIV-4392, Planura/MG.
+    Descreve, ainda, que acionada a polícia militar, esta saiu em rastreamento próximo ao trevo de acesso à cidade de Planura, quando avistou o alinhavado veículo realizando o contorno do trevo da rodovia BR-364, sentido MG 427. Após perderem o contato visual com o móvel objeto e instrumento do crime, se depararam com o carro GM, modelo Astra, placas GYZ-7957, conduzido pela denunciada.
+    Informa a exordial, ademais, que dentro de um critério funcional de tarefas, a denunciada veio na direção do automóvel mencionado da cidade de Conceição das Alagoas para o município de Planura, local do assalto, em companhia de seu namorado Carlos Fernando. Ao chegar à cidade e se encontrar com mais dois indivíduos, com esses planejou o delito, sendo que a função da denunciada consistiu no auxílio quanto ao momento da fuga, bem como na vigilância da parte externa da residência contra a chegada da polícia, enquanto os três comparsas levaram a cabo a subtração dos bens no interior da morada das vítimas.
+    […]
+    Lado outro, diante do quantum de pena aplicado, bem como da existência de circunstância judicial desfavorável à ré, imperiosa a manutenção do regime inicial fechado, nos termos do art. 33, §§2º e 3º, do Código Penal. Ademais, ausentes os requisitos previstos no art. 44 do Código Penal, não há que se cogitar em substituição da reprimenda corporal por penas restritivas de direitos”. (eDOC 2)
+    Ao apreciar o habeas corpus, registrou o STJ:
+    “Ao que se tem, quanto ao regime inicial, para essa Corte Superior, se fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito (Enunciado n. 440 da Súmula do STJ, Terceira Seção, DJe 13/5/2010).
+    A interpretação do referido enunciado em sentido inverso conduz ao entendimento de que, se a pena-base é fixada acima do mínimo legal, como no caso em análise, é cabível a imposição de regime inicial mais rigoroso de cumprimento da pena.
+    Então, considerando a exasperação da pena-base e a reprimenda privativa de liberdade definitiva imposta (5 anos e 4 meses de reclusão), tem-se que não se vislumbra ilegalidade na fixação do regime inicial fechado”. (eDOC 6)
+    O impetrante impugna o fundamento e diz que o regime inicial fechado foi fixado apenas em razão da gravidade abstrata do delito.
+    Não tem razão.
+    Segundo consta dos autos, a paciente teria praticado roubo em concurso de agentes, porquanto teria prestado auxílio no transporte dos roubadores, que arrombaram uma residência e anunciaram o assalto aos moradores, verbis:
+    “Segundo consta, por ocasião dos fatos, três indivíduos ingressaram clandestinamente na residência dos ofendidos, mediante o arrombamento da fechadura da cozinha, e, de posse de revólveres, anunciaram o assalto. Na sequência, os autores, valendo-se de lençóis, imobilizaram e amordaçaram as vítimas, subtraindo diversos objetos, dentre eles, que também foi utilizado para a fuga, o veículo VW/Gol, cor cinza, placas DIV-4392, Planura/MG”. (eDOC 2)
+    A violência, portanto, foi concreta e demasiadamente desvalorada, razão por que, presente circunstância judicial negativa, não há ilegalidade na fixação de regime mais gravoso. Precedente:
+    “Agravo regimental no recurso ordinário em habeas corpus. 2. Roubo majorado. Continuidade delitiva. Fixação de regime inicial mais gravoso. 3. Pedido de abrandamento de regime. Impossibilidade. 4. Agravo improvido”. (AgR no RHC 165.883, de minha relatoria, DJe 3.9.2019)
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 9 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
