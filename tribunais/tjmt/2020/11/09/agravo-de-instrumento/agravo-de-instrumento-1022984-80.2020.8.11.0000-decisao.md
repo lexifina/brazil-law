@@ -1,0 +1,16 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por JOSE LINO SERRA FILHO E OUTRO(S), com o fito de suspender a decisão que, nos autos da Ação de Reintegração de Posse proposta por JOAO CARLOS ANTONOW E OUTRO(S), deferiu o pleito liminar para conferir aos agravados a posse da área objeto do litígio e do contrato de arrendamento firmado entre as partes.
+Para tanto, os agravantes sustentam que são legítimos proprietários da de uma área de 59,6108 hectares, denominada de lote 572, localizado na Linha 27, da comunidade São Sebastião, em Guarantã do Norte-MT, razão pela qual, diante da inadimplência contratual dos agravados tanto com o cronograma de pagamentos quanto com a cláusula que vedava o subarrendamento, assistia-lhes o direito de cerca-la e de reavê-la de quem quer que a possuísse.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, envolvem a decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como bem dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, ao menos em cognição sumária, não há nada que convença da liminar recursal.
+É que, mesmo no caso de inadimplência, seja com os pagamentos, seja com o subarrendamento, os agravantes não poderiam intentar contra a posse outorgada aos agravados e, por conta própria e ao arrepio do devido processo legal, cercar a área e impedir-lhes o acesso, ainda mais antes do vencimento do prazo de arrendamento.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO – AÇÃO DE MANUTENÇÃO/REINTEGRAÇÃO DE POSSE – Arrendamento Rural - Comprovado o preenchimento dos requisitos hábeis a autorizar o deferimento da liminar - Arts. 927/929 do CPC – Audiência de justificação prévia – Esbulho efetivado há menos de ano e dia – Contrato de arrendamento rural em plena vigência – Verossimilhança das alegações dos arrendatários/agravados - Decisão mantida – RECURSO DESPROVIDO. (TJSP; Agravo de Instrumento 2073315-08.2015.8.26.0000; Relator (a): Ana Catarina Strauch; Órgão Julgador: 27a Câmara de Direito Privado; Foro de Franca - 5a. Vara Cível; Data do Julgamento: 19/05/2015; Data de Registro: 28/05/2015)
+Assim, se não ambos, falece aos agravantes pelo menos um dos pressupostos da liminar pretendida.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
