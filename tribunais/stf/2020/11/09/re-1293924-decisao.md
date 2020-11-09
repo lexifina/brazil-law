@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Turma Recursal de Belo Horizonte – Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 11, p. 1):
+    “EMENTA: ADMINISTRATIVO – SERVIDOR APOSENTADO – PEDIDO DE PROVENTOS INTEGRAIS E PARIDADE – ART. 3º DA EC 47/05 – IMPOSSIBILIDADE – JORNADA DE 40 HORAS INCORPORADA NO CÁLCULO DOS PROVENTOS – SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS”
+    No recurso extraordinário, com fundamento no art. 102, III, a, c e d, do permissivo constitucional, aponta-se ofensa ao art. 37 da Constituição federal, bem como ao art. 3º da Emenda Constitucional 47/2005.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 15, p. 6):
+     “É de se destacar que ao contrário das demais regras de transição previstas nas Emendas Constitucionais 20/98 e 41/03, as disposições do Artigo 3º da Emenda Constitucional 47/2005 não remetem à Lei a definição do que considera última remuneração, determinando tão somente a aposentadoria com proventos integrais. Logo, a base dos proventos da servidora tem que ser sua última remuneração.
+    (...)
+    Nunca é demais ressaltar, conforme exposto alhures, que a servidora laborou por vários anos em seu cargo público na Prefeitura de Belo Horizonte, em jornada de 40 horas semanais, contribuindo assim para a previdência, com base em vencimentos da jornada de 40 horas.”
+    Verifica-se que o Supremo Tribunal Federal, ao analisar o RE 590.260-RG, Relator Ministro Ricardo Lewandowski, DJe de 13.10.2009 (Tema 139), reconheceu a existência de repercussão geral da controvérsia em debate. Na oportunidade, o acórdão restou assim ementado:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO. I - Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição). II - Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005. III - Recurso extraordinário parcialmente provido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto nos arts. 1.036 e 1.040 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 09 de novembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
