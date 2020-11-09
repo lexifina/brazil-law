@@ -1,0 +1,25 @@
+Trata-se de Recurso de Agravo de Instrumento interposto por BANCO DO BRASIL SA em face de decisão prolatada pelo juízo da Quarta Vara Especializada em Direito Bancário, que nos auto n.o 0000275-33.2006.8.11.0041 – Código 230805 – Cumprimento de Sentença – indeferiu os pedidos de busca e apreensão da carteira nacional de habilitação e do passaporte, além de bloqueio dos cartões de crédito em nome dos executados.
+Inconformado, em suas razões o Agravante alega em síntese, que após longa busca de bens de propriedade dos Agravados, não logrou êxito em obter o pagamento do débito, e consequentemente a quitação.
+Desta feita, visando satisfazer o débito executado, utilizando-se do art. 139 do CPC solicitou a suspensão da CNH, passaportes e o bloqueio de cartões de crédito dos Agravados, para assegurar cumprimento da ordem judicial e consequentemente o pagamento da dívida.
+Sustenta que, com a vigência do Novo do Código de Processo Civil, ocorreram mudanças aptas a auxiliar o credor na satisfação do seu crédito, e dentre as mudanças, o art. 139 do referido código prevê os poderes e deveres do juiz.
+Ainda, que a partir de tal referido comando legal o juiz poderá e deverá, esgotando os meios tradicionais de satisfação do crédito, adotar medidas que reconheçam e imponham o cumprimento da obrigação de qualquer natureza.
+Consigna que não pode o devedor contumaz, sujeito passivo de diversas execuções, utilizar de subterfúgios tecnológicos e ilícitos para esconder seu patrimônio, e frustrar seus credores.
+Discorre sobre a concessão do efeito suspensivo e ativo.
+Para tanto, que faz necessária a concessão do efeito suspensivo ao presente recurso pelo fato do Agravante desconhecer bens de propriedade dos Agravados.
+Além da suspensão dos efeitos de decisão agravada, pretende que lhe seja concedido o efeito suspensivo ativo, a fim de que seja deferido liminarmente o pleito do Agravante, qual seja, a suspensão das Carteiras Nacionais de Habilitação, passaportes e cartões de crédito dos Agravados.
+Requer seja concedido o efeito suspensivo pleiteado, a fim de que se suspendam os efeitos da decisão agravada, bem como o efeito ativo pretendido, para que seja a suspensa as Carteiras Nacionais de Habilitação, passaportes e cartões de crédito dos Agravados.
+No mérito, a reforma da decisão agravada a fim de que seja deferida a suspensão das Carteiras Nacionais de Habilitação, passaportes e cartões de crédito dos Agravados.
+É o relatório.
+Decido.
+Para concessão do efeito suspensivo/ativo ao recurso de agravo de instrumento, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do Novo Diploma Processual; e ainda os requisitos contidos no parágrafo único, artigo 995, do mesmo codex.
+Para a concessão então, constitui ônus de quem a postula demonstrar os requisitos que lhe são próprios, ou seja, a probabilidade do direito e o perigo que resulta, se reservado seu exame apenas para o final.
+No caso, em que pese se verificar a probabilidade do direto do banco-agravante de receber o que lhe é devido, não se verifica que os Agravados estejam ocultado eventual patrimônio e sim que, aparentemente, não possui bens para saldar a dívida executada.
+O pedido de suspensão de CNH, passaporte e cartões de crédito, se acolhido, serviria mais como um meio de punição pela sua insuficiência patrimonial do que propriamente coerção de alguém sem bens, desvirtuando a finalidade objetiva da norma.
+Sobre a matéria, Fredie Didier Jr., Leonardo Carneiro Cunha, Paula Sarno Braga e Rafael Alexandria de Oliveira destacam:
+(...) entendemos que não são possíveis, em princípio, medidas executivas consistentes na retenção da Carteira Nacional de Habilitação (CNH) ou de passaporte, ou ainda o cancelamento de cartões de crédito do executado, como forma de pressioná-lo ao pagamento integral de dívida pecuniária. Essas não são medidas adequadas ao atingimento do fim almejado (o pagamento de quantia) não há, propriamente, uma relação meio/fim entre tais medidas e o objetivo buscado, uma vez que a retenção de documentos pessoais ou a restrição de crédito do executado não geram, por consequência direta, o pagamento da quantia devida ao exequente. Tais medidas soam mais como forma de punição do devedor, não como forma de compeli-lo ao cumprimento da ordem judicial e as cláusulas gerais executivas não autorizam a utilização de meios sancionatórios pelo magistrado, mas apenas de meios de coerção indireta e sub-rogatórios. (in Curso de Direito Processual Civil: 7a edição, Salvador: Editora JusPodivm, 2017).
+De qualquer forma não se vislumbra dano iminente que exija o deferimento da medida neste momento.
+Com essas considerações, INDEFIRO A TUTELA VINDICADA.
+Intimem-se a parte Agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Cumpra-se.
+Alexandre Elias Filho
+Relator Substituto.
