@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário ajuizado pela TAC TRANSPORTES E ARMAZENS GERAIS LTDA em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 11, p. 618):
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO ART. 201, § 4º, DO DECRETO N. 3.048/99 E PORTARIA MPAS N. 1.135/01. AFRONTA AO PRINCÍPIO DA LEGALIDADE. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+    I – Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o CPC/2015.
+    II – O art. 201, § 4º, do Decreto n. 3.048/99 e a Portaria MPAS n. 1.135/01 não afrontam o princípio da legalidade, pois foram editados apenas para esclarecer no que consiste a remuneração do trabalhador autônomo sobre a qual deverá incidir a contribuição previdenciária, nos termos do art. 22, III, da Lei n. 8.212/91, ressalvando tão somente sua não incidência no prazo nonagesimal. Precedentes.
+    III – Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+    IV – Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+    V – Agravo interno improvido.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação ao art. 150, I, do Texto Constitucional.
+    Nas razões recursais, sustenta a inconstitucionalidade da Portaria MPAS 1.135/2001 e do Decreto 4.032/2001, no que alteraram a apuração da base de cálculo da contribuição previdenciária sobre a remuneração paga ou creditada a transportador autônomo pelo frete, carreto ou transporte de passageiros.
+    É o relatório.
+    A pretensão recursal merece prosperar.
+    O acórdão recorrido divergiu da jurisprudência desta Suprema Corte, segundo a qual é inconstitucional a fixação do aspecto material da hipótese de incidência de contribuição social por meio de ato infralegal.
+    Confiram-se os seguintes precedentes, que trataram da mesma questão analisada nos autos:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. TRANSPORTADORES AUTÔNOMOS. BASE DE CÁLCULO FIXADA POR PORTARIA. INCONSTITUCIONALIDADE. RMS 25.476/DF. DELIMITAÇÃO DAS PARCELAS ABRANGIDAS PELO JUÍZO DA EXECUÇÃO. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, é inconstitucional de fixação de base de cálculo de contribuição social por meio de portaria. Declaração pelo Pleno da inconstitucionalidade da Portaria nº 1.135/2001 no RMS 25.476/DF. 2. A apreciação da temática concernente à contagem do prazo prescricional para a repetição do indébito, bem como o conjunto de parcelas abrangidas pela restituição do indébito, terão lugar por ocasião da execução da decisão, respeitado o decidido no precedente do RE 566.621-RG e a legislação de regência (Lei nº 12.016/2009). 3. Agravo regimental a que se nega provimento.”
+(RE 894.605-AgR-ED-AgR, de relatoria do Min. Roberto Barroso, Primeira Turma, DJe 06.04.2016)
+    “TRIBUTO – BASE DE INCIDÊNCIA – PRINCÍPIO DA LEGALIDADE ESTRITA. A fixação da base de incidência da contribuição social alusiva ao frete submete-se ao princípio da legalidade. CONTRIBUIÇÃO SOCIAL – FRETE – BASE DE INCIDÊNCIA – PORTARIA – MAJORAÇÃO. Surge conflitante com a Carta da República majorar mediante portaria a base de incidência da contribuição social relativa ao frete. MANDADO DE SEGURANÇA – BALIZAS. No julgamento de processo subjetivo, deve-se observar o pedido formalizado.”
+(RMS 2.5476, relator para o acórdão Min. Marco Aurélio, Tribunal Pleno, DJe 26.05.2014)
+    Ante o exposto, nos termos do art. 21, § 2º, do RISTF, conheço do agravo e dou provimento ao recurso extraordinário, para restabelecer o acórdão proferido pelo Tribunal Regional da 4ª Região (eDOC 11, p. 466).
+    Após, retornem os autos conclusos para análise e julgamento do recurso extraordinário interposto pela União em face desse mesmo acórdão do TRF da 4ª Região (eDOC. 11, p. 505-510).
+    Publique-se.
+    Brasília, 11 de novembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
