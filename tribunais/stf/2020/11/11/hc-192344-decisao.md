@@ -1,0 +1,43 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Jeferson Gonçalves e outro, em favor de Marcos Renan Rufino Molina, contra decisão monocrática proferida pelo Ministro Humberto Martins STJ, nos autos do HC 614.663/PR
+    Colho da decisão impugnada:
+    “Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARCOS RENAN RUFINO MOLINA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+    Consta dos autos que o paciente foi preso preventivamente em 26/07/2020, pela prática, em tese, dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/06.
+    Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o tribunal local, visando a soltura do paciente.
+    Requer a concessão da ordem, liminarmente, para que o paciente seja colocado em liberdade, mediante a fixação de medidas alternativas ao cárcere, alegando para tanto a existência de condições pessoais favoráveis ao acusado, insuficiência de fundamentação do decreto prisional, bem como a ofensa ao princípios da proporcionalidade e razoabilidade”. (eDOC 10)
+    No STJ, o habeas corpus foi indeferido liminarmente.
+    Nesta Corte, a defesa reitera os pedidos naquele Tribunal, especialmente que não há motivo para a prisão preventiva e que os fundamentos do decreto prisional são inidôneos.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça e do Tribunal de Justiça do Paraná, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    É que, ausente pronunciamento colegiado naqueles Tribunais, não há esgotamento da instância. Sem o esgotamento das instâncias, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que é o caso dos autos.
+    Na espécie, o paciente foi preso preventivamente em 26.06.2020 pela prática, em tese, do delito capitulado no art. 33 da Lei 11.343/06, dadas as conversas encontradas no celular de Thiago Rufato Benzerra. (eDOC 11)
+    O réu é primário, sem processos em andamento ou quaisquer registros criminais.
+    Observe-se o teor do ato impugnado:
+    “O crime é seguramente grave. A cocaína, além de ser altamente lesiva, possui alto poder de dependência, fazendo com que os usuários, na obsessão em adquirir entorpecentes com valor bastante expressivo (frisa-se: nesta comarca, cada porção de 0,1 g é vendida a aproximadamente R$ 50,00), acabem praticando crimes patrimoniais para subsidiar o vício.
+    Vale salientar, nesse sentido, que o crime de tráfico de drogas inegavelmente o mote da grande maioria dos crimes perpetrados atualmente nesta Comarca, bem como em demais cidades do Estado, sendo medida necessária, adequada e recomendada, para o caso concreto, a prisão cautelar, para acautelamento da ordem pública, que, evidentemente, resta severamente abalada.
+    Nessa esteira de raciocínio, convém sublinhar que se acompanha nesta Vara Judicial, que cumula as competências da Vara Criminal e Infãncia e Juventude, o crescente número de adultos e adolescentes fortemente comprometidos com o vício de substância entorpecente.
+    Portanto, justificada a prisão cautelar do requerente como garantia da ordem pública, haja vista a gravidade do crime a ele imputado”. (eDOC 9, p. 7)
+    Reitero que a jurisprudência do Supremo Tribunal Federal se consolidou no sentido de que a liberdade de um indivíduo suspeito da prática de infração penal somente pode sofrer restrições se houver decisão judicial devidamente fundamentada, amparada em fatos concretos e não apenas em hipóteses ou conjecturas, na gravidade do crime ou em razão de seu caráter hediondo. Nesse sentido, os seguintes julgados: HC 84.662/BA, Rel. Min. Eros Grau, 1ª Turma, unânime, DJ 22.10.2004; HC 86.175/SP, Rel. Min. Eros Grau, 2ª Turma, unânime, DJ 10.11.2006; HC 88.448/RJ, de minha relatoria, 2ª Turma, por empate na votação, DJ 9.3.2007; HC 101.244/MG, Rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 8.4.2010.
+    Portanto, ainda que a análise em sede de habeas corpus tenha cognição limitada nos termos assentados neste STF, se, a partir dos elementos já produzidos e juntados aos autos do remédio colateral, restar evidente a incongruência ou a inconsistência da motivação judicial, deve-se resguardar os direitos violados com a concessão da ordem (de modo semelhante: GIACOMOLLI, Nereu J. Devido processo penal. 2014. p. 399).
+    Outrossim, sobretudo em face do decidido pela Segunda Turma, em 10.10.2017 e 18.12.2017, ao apreciar os HCs 143.247/RJ, 146.666/RJ e 147.192/RJ e 156.730/DJ (DJe 7.2.2018, 10.4.2018, 23.2.2018 e 29.6.2018, respectivamente), em que se entendeu pela concessão da ordem para substituir as prisões preventivas por medidas cautelares diversas da prisão, também verifico, no caso, a ocorrência de constrangimento ilegal suficiente para conceder o presente writ, na forma do artigo 319 do CPP.
+    Neste caso concreto, penso que é imprópria a decretação da prisão preventiva de investigado primário e sem outros processos em andamento com base única e exclusivamente na traficância, sem que se aponte a vinculação do paciente com organização criminosa ou qualquer outro fator que ameace efetivamente a ordem pública.
+    Ademais, em uma análise preliminar, não se afasta potencial aplicação do redutor de tráfico privilegiado, o que caracterizaria a desproporcionalidade da restrição cautelar.
+    Da leitura do decreto prisional, vê-se que a prisão está fundamentada apenas na gravidade abstrata do delito de tráfico de drogas. Sobre isso:
+    “Agravo regimental no habeas corpus. 2. Recurso da PGR. 3. Prisão preventiva decretada única e exclusivamente com base na quantidade da droga. Agravado primário. Ausente indício de pertencimento à organização criminosa. Impossibilidade. 4. Agravo improvido”. (AgR no HC 183.320, de minha relatoria, Segunda Turma, DJe 3.6.2020)
+    Ademais, em comparação aos demais coautores dos fatos narrados (eDoc 7), verifica-se a participação colateral do paciente deste habeas corpus, vinculado ao grupo somente por mensagens de whatsapp obtidas.
+    Por fim, no que se refere à pandemia do novo coronavírus, observo que não foram juntadas as autos quaisquer provas de que o paciente encontra-se no grupo de risco para a doença.
+    O Plenário do STF na ADPF 347, de relatoria do Ministro Marco Aurélio, negou referendo à medida liminar quanto à matéria de fundo, nos termos do voto do Ministro Alexandre de Moraes.
+    Dessa forma, a análise deverá ser feita caso a caso segundo a Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+    Ante o exposto, concedo a ordem a fim de revogar a prisão decretada em desfavor do paciente Marcos Renan Rufino Molina, se por outro motivo não estiver preso. Em substituição, determino a imposição das seguintes medidas cautelares diversas da prisão, na forma do art. 319 do CPP:
+    a) comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz de origem, para informar e justificar atividades (inciso I);
+    b) recolhimento domiciliar noturno, das 20h às 6h; e
+    c) proibição de se ausentar da comarca sem autorização do Juízo de primeiro grau.
+    Publique-se.
+    Comunique-se com urgência.
+    Brasília, 11 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
