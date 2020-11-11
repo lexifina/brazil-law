@@ -1,0 +1,26 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+PJE - MANDADO DE SEGURANÇA CÍVEL (120) 1022818-48.2020.8.11.0000
+IMPETRANTE: SALVER CONSTRUTORA E INCORPORADORA LTDA
+IMPETRADO: SECRETÁRIO DE ESTADO DE SAÚDE
+Vistos etc.
+Trata-se de Mandado de Segurança interposto por SALVER CONSTRUTORA E INCORPORADORA LTDA em face de ato acoimado coator atribuído ao EXMO. SECRETÁRIO DE ESTADO DE SAÚDE, tendo como litisconsorte o Consórcio LC Cuiabá, representadas pela Lotufo Engenharia e Construções Ltda.
+Sustenta a Impetrante que apresentou proposta mais vantajosa na Concorrência Pública n. 02/2020, tendo sido desclassificada pelo Impetrado por erros isolados no preenchimento/digitação na planilha de composição de seus preços unitários. Aponta que aludidos erros foram apontados pela licitante que apresentou proposta R$ 1.000.000,00 (um milhão de reais) mais onerosa.
+Sublinha a existência de previsão editalícia quanto à impossibilidade de desclassificação por mero erro no preenchimento da planilha, não tendo sido oportunizado à Impetrante a correção de erros, sem alteração dos preços unitários.
+Destaca que a Concorrência Pública n. 002/2020 foi lançada pela SES, visando a retomada da construção do Hospital Central de Alta Complexidade, em regime de empreitada por preço unitário, sendo sua proposta classificada em 1o lugar, pelo valor de R$ 91.999.999,99 (noventa e um milhões, novecentos e noventa e nove mil e noventa e nove centavos de real), seguida das propostas da LC CUIABÁ (R$ 92.920.748,17) e CONSÓRCIO HOSPITAL CUIABÁ (R$ 93.260.499,81).
+Alude que, após a interposição dos recursos administrativos interpostos pelo 2o e 3o colocados, apontando várias inconsistências, apresentou suas contrarrazões, sendo dado parcial provimento aos recursos, desclassificando o Impetrante.
+Ressalta que a análise feita pelo Impetrado diverge das normas editalícias e da Lei n. 8.666/93, podendo resultar em prejuízo ao erário na ordem de mais de um milhão de reais.
+Aponta que as divergências entre a planilha orçamentária sintética e a de composição unitária, diversamente do entendido, poderiam ser considerados pela Administração os valores da planilha de composição dos preços unitários, nos termos do item 11.5 do Edital, ou ainda que lhe fosse possibilitada a correção de aludidos erros na planilha sintética (item 11.3 e 11.4), apresentando entendimento de que a Impetrante não poderia corrigir qualquer inconsistência, posto que majoraria o valor oferecido, o que somente poderia ser aferido após o ajuste por si efetuado, nos termos do item 11.4.
+Indica a violação ao princípio da competitividade e da vantojosidade na licitação pública.
+Ressalta que, ainda que o ajuste promovesse a majoração de R$ 109.928,84, ainda assim seria R$ 810.000,00 (oitocentos e dez mil reais) mais vantajosa que a proposta apresentada pelo segundo colocado.
+Quanto à divergência de valores para os mesmos materiais e mão-de-obra e composições de serviços distintos (item 11.13 do Edital), aponta que não foi demonstrado de que forma tais cotações distintas afetariam o julgamento das propostas, revelando-se como motivo insubsistente e incompatível com as disposições do Edital e da lei de regência, não sendo cabível a imposição aos licitantes da adoção de custos idênticos para componentes de diferentes serviços.
+Rechaça, ainda, o argumento de jogo de planilha, devendo o Impetrado ter-lhe concedido prazo para adequação da planilha de composição dos custos unitários (item 11.4).
+Com relação à não apresentação da composição 97629, referente ao item 5.2 (violando o item 11.1.6 do Edital), indica que houve mero erro de digitação, sendo esta descrita como 97529, ao invés de 97629, sem ensejar qualquer prejuízo para a indicação do preço unitário, tendo sido apresentada na Planilha de Composição de Custos Unitários da Impetrante, o que foi objeto de arguição em contrarrazões, de forma que sua desclassificação sob esse item afronta aos itens 11.3 e 11.3.4 do Edital.
+Já quanto à não apresentação da escala salarial (descumprimento do item 11.1.6 do Edital), destaca que apresentou a Escala Salarial de Mão de Obra, conforme requerido no Edital, e que foi desconsiderada na sua desclassificação - embora se confunda com a Composição dos Encargos Sociais – que não foi exigida como documento autônomo, conforme item 11.1.6 do Edital, alegando que seguiu estritamente o roteiro/modelo oferecido.
+Quanto à inobservância do Edital por parte da autoridade coatora e violação generalizada aos princípios da competitividade e razoabilidade, destaca o excesso de formalismo e restrição caráter competitivo do certame, citando julgados em reforço à sua tese, ressaltando a necessidade de aplicação do art. 43, § 3o da Lei n. 8.666/93.
+Requer a concessão da liminar para determinar a classificação da sua proposta. Subsidiariamente, vindica que seja possibilitado à Impetrante a correção dos equívocos, sem alteração na planilha ou, ainda, que seja suspenso o certame e seus atos subsequentes (id. 65116454).
+É o relato do necessário.
+Em que pese a robustez do alegado, entendo como imprescindível a vinda de informações da autoridade acoimada coatora, no prazo de cinco dias. Intime-se.
+Decorrido o prazo, certifique-se e conclusos.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
