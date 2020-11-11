@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Mato Grosso do Sul, reformando o entendimento do Juízo, denegou a ordem, assentando a legalidade de resolução da Câmara Municipal de Água Clara quanto à nulidade de eleição da Mesa Diretora. No extraordinário cujo trânsito busca alcançar, alega violados os artigos 2º, 5º, incisos XXXV e XXXVI, e 37 da Constituição Federal. Discorre sobre o tema de fundo, afirmando a licitude da sessão na qual eleito Presidente. Alude à existência de desvio de finalidade.
+    2. Eis os fundamentos do acórdão recorrido:
+    No dia 1º de janeiro de 2017 foram eleitos os membros da Mesa Diretora da Câmara de Vereadores, referente ao primeiro biênio. Após, em 13 de março de 2017, a Câmara Municipal de Água Clara realizou eleições para definição de sua mesa diretora, para próximo biênio (2019/2020), conforme art. 12 do Regimento Interno e Resolução n. 001/2017 (p. 29). Na oportunidade, houve eleição do impetrante como Presidente. Não obstante, tal eleição foi anulada pela Câmara, a fim de cumprir o disposto no art. 31, §3º, da Lei Orgânica do Município. O entendimento da ora recorrente foi de que a norma estabelece como data da eleição, o primeiro dia após o término do mandato da Mesa Diretora anterior.
+    (…)
+    Por outro lado, o Regimento Interno, no art. 12, § 2°, dispõe que a data da eleição para o segundo biênio será definida por projeto de resolução de iniciativa da Mesa Diretora, até a penúltima sessão do primeiro biênio que se finda.
+    Logo, há duas normas regulamentando a matéria.
+    Apesar de existir certa divergência quanto à natureza jurídica do Regimento Interno, a jurisprudência tem se firmado no sentido de considerá-la Lei. A própria Constituição reconhece poder autonormativo das Casas Legislativas (art. 51, III). Neste contexto, aplicável o princípio da especialidade, de modo a observar os parâmetros, para fixação da data da eleição da Mesa Diretora no 2º biênio, estabelecidos no Regimento Interno da Câmara Municipal de Água Clara-MS. Esta norma não possui disposição contrária à Lei Orgânica Municipal, mas específica ou mais detalhada. São complementares as orientações da Lei Orgânica Municipal, ao estabelecer a eleição para o segundo biênio nos mesmos moldes da realizada no início da legislatura, e do Regimento Interno, que prevê a definição da data até o final de 2018.
+    Importante ressalvar, apesar de os regimentos versarem sobre questões relacionadas à atividade interna do legislativo, é possível a atuação do judiciário para controle da regularidade da tramitação e forma das matérias neles contidas.
+    Ademais, cumpre atentar-se ao significado da palavra sessão. O art. 29 da Lei Orgânica Municipal, seguindo preceito constitucional, prevê a sessão legislativa anual (art. 29, §1º) e as sessões ordinárias e extraordinárias, realizadas diariamente ou conforme necessidade (art. 29, §4º).
+    A conclusão que mais se coaduna com a finalidade das eleições na Mesa Diretora da Câmara Municipal é a de que a eleição deve refletir a esfera política do momento em que realizada. Portanto, a penúltima sessão a que o Regimento se refere é aquela do ano de 2018, período do término do primeiro biênio.
+    Ainda, mediante interpretação sistemática das normas, em conformidade com a Constituição Federal, a data das eleições da Mesa Diretora do segundo biênio (2019/2010) da legislatura pode ser fixada mediante Resolução, desde que observado o período inicial do terceiro ano da legislatura. Este é o momento em que os eleitores poderão analisar quais dos Vereadores se mostram aptos para, naquele momento, compor a Mesa.
+    Neste sentido, inclusive é a disposição contida no Regimento Interno da Câmara dos Deputados:
+    Art. 5º Na segunda sessão preparatória da primeira sessão legislativa de cada legislatura, no dia 1º de fevereiro, sempre que possível sob a direção da Mesa da sessão anterior, realizar-se-á a eleição do Presidente, dos demais membros da Mesa e dos Suplentes dos Secretários, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente. (“Caput” do artigo com redação dada pela Resolução nº 19, de 2012)
+    § 1º Não se considera recondução a eleição para o mesmo cargo em legislaturas diferentes, ainda que sucessivas.
+    § 2º Enquanto não for escolhido o Presidente, não se procederá à apuração para os demais cargos.
+    Art. 6º No terceiro ano de cada legislatura, em data e hora previamente designadas pelo Presidente da Câmara dos Deputados, antes de inaugurada a sessão legislativa e sob a direção da Mesa da sessão anterior, realizar-se-á a eleição do Presidente, dos demais membros da Mesa e dos Suplentes dos Secretários.
+     § 1º (Revogado).
+    § 2º (Revogado).
+    § 3º Enquanto não for eleito o novo Presidente, dirigirá os trabalhos da Câmara dos Deputados a Mesa da sessão legislativa anterior. (Artigo com redação dada pela Resolução nº 19, de 2012)
+    Diante do evidenciado, foi regular a conduta da Câmara Municipal, ao anular as eleições realizadas em contrariedade à finalidade da norma e ao ordenamento jurídico. E, se o impetrante foi eleito mediante procedimento irregular, não há direito líquido e certo a posse como Presidente da Câmara.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. Jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    No mais, a conclusão adotada fez-se alicerçada em interpretação conferida à legislação local, não ensejando acesso ao Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de novembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
