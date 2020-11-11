@@ -1,0 +1,4 @@
+Visto.
+Diante da decisão emanada do Supremo Tribunal Federal, que, inadmitindo o agravo em recurso extraordinário, sinalizou que o recurso cabível contra o juízo negativo de admissibilidade exercido pela Vice-Presidência deste Tribunal de Justiça seria o agravo interno (art. 1.030, §2o do CPC), foi determinado o encaminhamento destes autos à 4a Câmara de Direito Privado para o regular prosseguimento do feito.
+Pois bem, tendo em vista que é do Órgão Especial deste Sodalício a competência para o processamento e julgamento de agravo interno interposto contra decisão da Vice-Presidência, tomada com fundamento em tese firmada pelo Pretório Excelso sob o regime de repercussão geral (art. 15, II, “l” do RITJMT), encaminhem-se os autos ao juízo competente, considerando, ainda, o pedido “sucessivo” deduzido no id. 25654462, p. 1.
+Cumpra-se.
