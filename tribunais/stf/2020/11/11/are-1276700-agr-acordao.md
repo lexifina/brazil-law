@@ -1,0 +1,278 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 7
+
+11/11/2020
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.700
+SERGIPE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: MUNICIPIO DE ITABAIANA
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+ITABAIANA
+: GENICE MENDONCA ALMEIDA FELIX
+: FELIPE EMANUEL OLIVEIRA VIEIRA
+
+DE
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. SERVIDOR MUNICIPAL.
+APOSENTADORIA NO REGIME GERAL DA PREVIDÊNCIA
+SOCIAL (RGPS). PEDIDO DE PARIDADE. LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS.
+REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+1. Não se presta o recurso extraordinário para a análise de matéria
+infraconstitucional, tampouco para o reexame dos fatos e das provas
+constantes dos autos (Súmula nº 279/STF).
+2. Agravo regimental não provido, com imposição de multa de 5%
+(cinco por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC),
+caso seja unânime a votação.
+3. Honorários advocatícios majorados ao máximo legal em desfavor
+da parte recorrente, caso as instâncias de origem os tenham fixado, nos
+termos do artigo 85, § 11, do Código de Processo Civil, observados os
+limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.
+ACÓRDÃO
+O Plenário do Supremo Tribunal Federal, na conformidade da ata de
+julgamento virtual de 30/10 a 10/11/2020, por maioria, negou provimento
+ao agravo, com imposição de multa de 5% (cinco por cento) do valor
+atualizado da causa (artigo 1.021, § 4º, do CPC) e majoração de
+honorários advocatícios ao máximo legal em desfavor da parte recorrente,
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E18F-FF45-39F5-0898 e senha C4EF-8BC9-1F2F-E32F
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 7
+
+ARE 1276700 AGR / SE
+caso as instâncias de origem os tenham fixado (artigo 85, § 11, do CPC),
+observados os limites dos §§ 2º e 3º e a eventual concessão de justiça
+gratuita, nos termos do voto do Relator, Ministro Luiz Fux (Presidente),
+vencido parcialmente o Ministro Marco Aurélio, que divergia do Relator
+apenas no tocante à majoração da verba honorária.
+Brasília, 11 de novembro de 2020.
+Ministro LUIZ FUX – PRESIDENTE
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E18F-FF45-39F5-0898 e senha C4EF-8BC9-1F2F-E32F
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 7
+
+11/11/2020
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.700
+SERGIPE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: MUNICIPIO DE ITABAIANA
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+ITABAIANA
+: GENICE MENDONCA ALMEIDA FELIX
+: FELIPE EMANUEL OLIVEIRA VIEIRA
+
+DE
+
+RELATÓRIO
+O SENHOR MINISTRO LUIZ FUX (PRESIDENTE):
+Trata-se de tempestivo agravo regimental contra decisão mediante a
+qual neguei seguimento ao recurso, sob os fundamentos de aplicação da
+sistemática da repercussão geral na origem, ausência de ofensa
+constitucional direta e de incidência da Súmula nº 279 do Supremo
+Tribunal Federal.
+Sustenta a parte agravante, em síntese, a inexistência dos óbices
+apontados.
+Deixei de intimar a parte agravada para, querendo, apresentar
+contrarrazões, em observância ao postulado da celeridade processual e
+por não vislumbrar prejuízo ao contraditório.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3DDD-E481-1F32-BCBB e senha EF52-BF86-BC45-8A90
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 4 de 7
+
+11/11/2020
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.700
+SERGIPE
+VOTO
+O SENHOR MINISTRO LUIZ FUX (PRESIDENTE):
+Não merece prosperar a irresignação.
+Conforme assentado na decisão agravada, o acolhimento da
+pretensão recursal exigiria a análise da legislação infraconstitucional, bem
+como o reexame do conjunto fático-probatório da causa (Súmula nº
+279/STF), providências incabíveis em recurso extraordinário. Nesse
+sentido:
+“Agravo regimental no recurso extraordinário com agravo.
+Administrativo. Servidor público municipal. Aposentadoria.
+Regime Próprio de Previdência. Garantia da paridade. Revisão
+dos proventos. Índices aplicados ao Regime Geral de
+Previdência
+Social.
+Impossibilidade.
+Legislação
+infraconstitucional. Reexame. Súmulas 280 e 636/STF.
+Precedentes. 1. O critério para o reajuste dos proventos de
+aposentadoria deve ser aquele previsto na legislação ordinária
+do ente ao qual vinculado o servidor público, observado,
+igualmente, o regime jurídico ao qual o referido servidor está
+submetido 2. Inadmissível, em recurso extraordinário, a análise
+da legislação infraconstitucional. Incidência da Súmula nº
+636/STF. 3. Nos termos da Súmula Vinculante nº 42, é
+inconstitucional a vinculação do reajuste de vencimentos de
+servidores estaduais ou municipais a índices federais de
+correção monetária. 4. Agravo regimental não provido.” (ARE
+775538 AgR, Segunda Turma, Relator: Min. Dias Toffoli, Dje de
+10/08/2017)
+“Agravo regimental no recurso extraordinário com agravo.
+Direito Administrativo e Previdenciário. Servidor estadual.
+Previdência
+complementar.
+Adesão.
+Legislação
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1113-F9EE-2F49-C93E e senha C3B3-59B6-9841-4D69
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 7
+
+ARE 1276700 AGR / SE
+infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame.
+Impossibilidade. Precedentes. 1. Inadmissível, em recurso
+extraordinário, a análise da legislação infraconstitucional, bem
+como do conjunto fático-probatório dos autos. Incidência das
+Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido,
+com imposição de multa de 1% (um por cento) do valor
+atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia
+fixação de honorários advocatícios pelas instâncias de origem,
+seu valor monetário será majorado em 10% (dez por cento) em
+desfavor da parte recorrente, nos termos do art. 85, § 11, do
+Código de Processo Civil, observados os limites dos §§ 2º e 3º
+do referido artigo e a eventual concessão de justiça gratuita”
+(ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Rel. Min. Dias
+Toffoli (Presidente), DJe de 18/09/2019).
+“Recurso extraordinário: descabimento: questão decidida
+à luz de legislação infraconstitucional e da análise de fatos e
+provas, ausente o prequestionamento dos dispositivos
+constitucionais tidos por violados (Súmulas 282 e 279); alegada
+ofensa que, se ocorresse, seria reflexa ou indireta: incidência,
+mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR,
+Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/2005).
+
+Ex positis, por ser manifestamente improcedente, NEGO PROVIMENTO
+ao agravo interno e condeno a parte agravante ao pagamento de multa de
+5% (cinco por cento) do valor atualizado da causa, consoante disposto no
+art. 1.021, § 4º, do Código de Processo Civil, caso seja unânime a votação.
+Majoro os honorários advocatícios ao máximo legal em desfavor da parte
+recorrente, caso as instâncias de origem os tenham fixado, nos termos do
+artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§
+2º e 3º e a eventual concessão de justiça gratuita.
+É como voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1113-F9EE-2F49-C93E e senha C3B3-59B6-9841-4D69
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 6 de 7
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.700
+SERGIPE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: MUNICIPIO DE ITABAIANA
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+ITABAIANA
+: GENICE MENDONCA ALMEIDA FELIX
+: FELIPE EMANUEL OLIVEIRA VIEIRA
+
+DE
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO – Os honorários
+acrescidos, ante recurso interposto, pressupõem atividade da parte
+contrária. Se esta não apresenta contrarrazões ao agravo, descabe majorálos. Divirjo parcialmente do Relator, para afastar o aumento
+implementado.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DD07-56AE-1173-52F8 e senha 0252-7503-7975-7207
+
+Supremo Tribunal Federal
+Extrato de Ata - 11/11/2020
+
+Inteiro Teor do Acórdão - Página 7 de 7
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.700
+PROCED. : SERGIPE
+RELATOR : MINISTRO PRESIDENTE
+AGTE.(S) : MUNICIPIO DE ITABAIANA
+ADV.(A/S) : PROCURADOR-GERAL DO MUNICÍPIO DE ITABAIANA
+AGDO.(A/S) : GENICE MENDONCA ALMEIDA FELIX
+ADV.(A/S) : FELIPE EMANUEL OLIVEIRA VIEIRA (3080-A/AP, 5497/SE)
+Decisão: O Tribunal, por maioria, negou provimento ao agravo,
+com imposição de multa de 5% (cinco por cento) do valor atualizado
+da causa (artigo 1.021, § 4º, do CPC) e majoração de honorários
+advocatícios ao máximo legal em desfavor da parte recorrente, caso
+as instâncias de origem os tenham fixado (artigo 85, § 11, do
+CPC), observados os limites dos §§ 2º e 3º e a eventual concessão
+de justiça gratuita, nos termos do voto do Relator, Ministro Luiz
+Fux (Presidente), vencido parcialmente o Ministro Marco Aurélio,
+que divergia do Relator apenas no tocante à majoração da verba
+honorária. Plenário, Sessão Virtual de 30.10.2020 a 10.11.2020.
+Composição: Ministros Luiz Fux (Presidente), Marco Aurélio,
+Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli,
+Rosa Weber, Roberto Barroso, Edson Fachin e Alexandre de Moraes.
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 748D-F2A9-59E7-AE44 e senha 4E37-D6ED-9446-4DC6
