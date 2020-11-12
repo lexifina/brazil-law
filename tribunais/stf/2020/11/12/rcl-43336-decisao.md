@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de tutela de urgência, ajuizada por Klm Cia Real Holandesa de Aviação contra decisão do Colégio Recursal de São José do Rio Preto/SP, nos autos do Processo nº 1024908-64.2019.8.26.0576, que teria desrespeitado a tese firmada no RE nº 636.331/RJ (Tema 210 RG), bem como o entendimento firmado no ARE nº 766.618/SP, julgado pelo STF na mesma assentada do representativo da controvérsia de repercussão geral.
+    A reclamante relata que, nos autos de referência, é demandada em ação indenizatória relativa a fatos alegadamente ocorridos em transporte aéreo internacional de passageiro por si operado, tendo suscitado a prescrição da pretensão, nos termos do art. 35 da Convenção de Montreal, “[pois a ação] foi ajuizada três anos e nove dias após a ocorrência dos fatos”.
+    Afirma que,
+    “[não obstante a] extemporaneidade da distribuição, a ação foi julgada parcialmente procedente para condenar a Reclamante ao pagamento de indenização por danos morais, tendo tal decisão sido confirmada, em sede de recurso, pelos Juízes do Colendo Colégio Recursal da Comarca de São José do Rio Preto/SP.”
+    Informa que o recurso extraordinário interposto com fundamento no Tema 210 da repercussão geral foi inadmitido pelo órgão a quo, o que eu ensejo à interposição de agravo.
+    Klm Cia Real Holandesa de Aviação aduz que
+    “a Presidência da Turma Recursal de São José do Rio Preto ignorou completamente a ordem exarada por esta Corte Suprema [“para que o AREsp interposto por esta Reclamante fosse apreciado e julgado por Agravo Interno”], e de forma unilateral e arbitrária decidiu pela certificação do trânsito em julgado e remessa dos autos à Vara de Origem, sem sequer apreciar as razões recursais apresentadas”.
+    Alega que, diante da negativa de apreciação do recurso pela instância ordinária, a presente reclamação é o instrumento adequado “para que seja apreciada e determinada a aplicação do artigo 35 da Convenção de Montreal aos autos de nº 1024908-64.2019.8.26.0576”, em observância à tese firmada pelo STF nos representativos do Tema 210 de repercussão geral (RE nº 636.331/RJ e ARE nº 766.618/SP).
+    Requer que seja deferido o pedido liminar para suspender os efeitos da decisão reclamada e o trâmite do Processo nº 1024908-64.2019.8.26.0576, presente o periculum in mora ante a iminência de ser compelida a cumprir a decisão proferida em desacordo com a autoridade do STF.
+    Requer, ao final, que a reclamação seja julgada procedente para determinar a observância do art. 35 da Convenção de Montreal, afastando-se a regra de prescrição quinquenal instituía pelo Código de Defesa do Consumidor.
+    A parte reclamante emendou a inicial, atribuindo à causa o valor de “R$ 20.000,00 (vinte mil reais), conforme valor atribuído à causa no processo de origem de nº 1024908-64.2019.8.26.0576”.
+    Instada a prestar informações, a autoridade reclamada informou que
+    “foi certificado o trânsito em julgado sem ter sido negado o processamento do agravo interposto tendo em vista erro grosseiro, já que havia sido aplicado o tema 210 na decisão denegatória do recurso extraordinário.”
+    É o relatório. Decido.
+    Inicialmente, consigno que a anotação de “erro grosseiro” para não conhecer do recurso interposto na origem e certificar o trânsito em julgado é contratidória com a atuação da própria autoridade reclamada - que havia remetido o recurso ao Supremo Tribunal Federal -, razão pela qual afasto o óbice ao conhecimento da presente reclamação com esse fundamento.
+    Ao negar provimento ao recurso inominado, o Colégio Recursal de São José dos Campos assentou que, no Processo nº 1024908-64.2019.8.26.0576,
+    “não [haveria que se] falar em prevalência das Convenções de Varsóvia e Montreal sobre o Código de Defesa do Consumidor, pois, ao contrário do que foi tratado nos precedentes [do STF submetidos à sistemática da repercussão geral], a questão [ ] submetida a julgamento não se refere a responsabilização material da companhia pelo extravio temporário de bagagem de passageiro em voo internacional (RE 636.331), tampouco sobre regras de prazo prescricional (ARE nº 766.618).
+    Entretanto, de petição apresentada por Daniel Canhanda Brianti e Débora Motta Lemos Branti (beneficiários da decisão reclamada) no Processo nº 1024908-64.2019.8.26.0576, extrai-se que a pretensão indenizatória exsurge de fatos relacionados com “atraso na entrega da bagagem” (eDoc. 9, p. 1).
+    Ademais, do recurso inominado interposto por Klm Cia Real Holandesa de Aviação contra sua condenação (eDoc. 9, pp. 13 a 29), verifico que foram suscitadas razões concernentes à prescrição da pretensão indenizatória, in verbis:
+    “II.2 – REPERCUSSÃO GERAL NO STF – PRELIMINAR DE MÉRITO – DA PRESCRIÇÃO – ART. 35 DO DECRETO LEI Nº 5.910/06 (CONVENÇÃO DE MONTREAL)
+    Antes de adentrarmos nas razões de mérito, a Recorrente demonstrará por qual razão a pretensão deduzida nestes autos está irremediavelmente prescrita.
+    Ab initio, vale esclareer que a chegada dos Autores ao seu destino final se deu em 08/06/2016, e a distribuição da presente demanda se deu em 17/06/2019, ou seja, o lapso temporal entre a suposta falha na prestação do serviço e a interposição da presente demanda foi maior que 2 (dois) anos.
+    Neste sentido, o Nobre Julgador a quo entendeu que o prazo prescricional aplicável ao caso era o preceituado no Código de Defesa do Consumidor, in verbis:
+    ‘Por primeiro, afasto a alegação de prescrição. Entre as partes há incontestável relação de consumo, pelo que são aplicáveis as regras estabelecidas no Código de Defesa do Consumidor. Assim, conforme disposição do artigo 27, o prazo prescricional para reparação de danos causados pelo fato do serviço é de cinco anos. Daí porque não há que se falar em prescrição.’
+    Entretanto, o Supremo Tribunal Federal julgou o tema 210, em repercussão geral, pacificando o entendimento sobre a prevalência das normas e tratados internacionais, em especial as Convenções de Varsóvia e de Montreal, sobre, especialmente, a legislação consumerista em matéria de normas de transporte e limites de indenização.”
+    Destaco, outrossim, que, diferentemente do que foi afirmado na decisão reclamada, a circunstância de a controvérsia envolver indenização por dano moral – e não material – em relação jurídica de transporte aéreo internacional de passageiro não constitui razão de distinguishing para fins de aplicação do Tema 210 de repercussão geral, uma vez que o próprio ARE nº 766.618/SP teve esse elemento como moldura fático-jurídica subjacente ao debate.
+    Em juízo de delibação, entendo que, no caso, há recusa da autoridade reclamada em concretizar a tese de repercussão geral firmada pelo STF no ARE nº 766.618/SP, conforme consta da ementa do julgada:
+    “[...] 3. Tese afirmada em sede de repercussão geral: “Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor’” (Rel. Min. Roberto Barroso, Plenário, DJe de 13/11/2017).
+    Ante o exposto, defiro o pedido liminar para suspender os efeitos da decisão reclamada.
+    Citem-se os beneficiários da decisão condenatória proferida no Processo nº 1024908-64.2019.8.26.0576.
+    Publique-se. Int..
+    Brasília, 12 de novembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
