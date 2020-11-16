@@ -1,0 +1,45 @@
+Decisão: Trata-se de reclamação constitucional com pedido de medida liminar, ajuizada pelo Instituto de Previdência do Município de Jacareí, contra ato do Presidente do Colégio Recursal de São José dos Campos, proferido nos autos do Processo 1008207-12.2016.8.26.0292.
+    Na petição inicial, a parte reclamante sustenta, em síntese, que o Juízo reclamado teria descumprido a orientação firmada por esta Corte no ARE-RG 1.215.727 (tema 1.057), paradigma da repercussão geral, porquanto aplicado equivocadamente.
+    Afirma que “segundo o entendimento do Supremo Tribunal Federal, embora as atividades exercidas pelos guardas municipais envolvam riscos, como ocorre em diversas outras categorias, esta condição não confere à categoria o direito subjetivo constitucional à aposentadoria especial”. (eDOC 1, p. 7)
+    Nesses termos, assevera que “a tese analisada pelo STF, sob a sistemática de repercussão geral, trata de situação idêntica à dos presentes autos, de forma que a da aposentadoria pretendida pelo servidor beneficiado com a decisão reclamada não se mostra possível, devendo a decisão proferida pelo Colégio Recursal de São José dos Campos ser reformada e o Tema nº 1057 aplicado, como medida de direito”. (eDOC 1, pp. 8-9)
+    Requer assim a concessão de liminar para determinar a suspensão do processo na origem. No mérito, pugna pela cassação do ato reclamado.
+    A autoridade reclamada prestou informações (eDOC 19).
+    Citado, o beneficiário Antônio Carlos Fernandes, deixou de apresentar contestação, consoante eDOC 16.
+    A Procuradoria-Geral da República manifestou-se pela improcedência da reclamação. (eDOC 22)
+    É o relatório.
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, l, e 103-A, § 3º da CF/88). Nesse sentido, o Código de Processo Civil de 2015 também regulamentou a matéria e assentou as seguintes hipóteses de cabimento da reclamação:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…)”.
+    O § 4º do mesmo artigo esclarece que as hipóteses dos incisos III e IV “compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem”.
+    Verifica-se, também, nos termos do § 5º, que é inadmissível reclamação “proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida”, exceto quando comprovado o esgotamento das instâncias ordinárias, com a devida interposição e julgamento do agravo interno, previsto no art. 1.030, § 2º, do CPC, e a demonstração da teratologia da decisão.
+    Nesses termos, a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando presentes os seguintes pressupostos necessários e cumulativos: o esgotamento da instância de origem, com a interposição de agravo interno da decisão monocrática que sobresta o feito, inadmite liminarmente o recurso da competência do STF ou julga-o prejudicado; e a plausibilidade na tese de erronia na aplicação do entendimento do Supremo Tribunal Federal firmado na repercussão geral pelo Juízo a quo, a indicar teratologia da decisão reclamada.
+    Na hipótese dos autos, a parte reclamante busca a cassação de decisão de turma recursal que, dando parcial provimento ao recurso inominado, manteve o reconhecimento da aposentadoria especial do ora beneficiário – guarda civil municipal. Eis a ementa desse julgado:
+    “APOSENTADORIA ESPECIAL – GUARDA CIVIL MUNICIPAL – PRETENSÃO DE RECONHECIMENTO DA APOSENTADORIA ESPECIAL, A TEOR DO DISPOSTO NO ART. 57, DA LEI N.º 8.213/91 – AUTOR QUE NÃO PREENCHE OS REQUISITOS PARA OBTENÇÃO À PARIDADE – ADICIONAL INSALUBRE RECEBIDO PELO RECORRIDO – DESNECESSÁRIA PROVA PERICIAL – ABONO DE PERMANÊNCIA – PAGAMENTO A SER EFETUADO PELO ÓRGÃO EMPREGADOR – ILEGITIMIDADE DO INSTITUTO DE PREVIDÊNCIA RECONHECIDO. SENTENÇA PARCIALMENTE REFORMADA – RECURSO PROVIDO EM PARTE”. (eDOC 7, p. 44)
+    Interposto recurso extraordinário, o Juízo a quo inadmitiu o apelo com fundamento no art. 1.030, I, “a” do CPC, por entender que seriam aplicáveis ao caso os temas 433, 587, 800 e 848 da sistemática da repercussão geral. Foi interposto agravo interno em face da referida decisão, o qual teve o provimento negado, de modo que restou demonstrado o esgotamento das instâncias ordinárias a dar ensejo ao cabimento da presente reclamação. (eDOC 8, pp. 18-20 e p. 39)
+    Pois bem.
+    Inicialmente cumpre destacar que a matéria de fundo tratada nos presentes autos não guarda relação com os paradigmas indicados pelo Tribunal de origem ao realizar o juízo de admissibilidade do recurso extraordinário.
+    Ademais, há que se levar em consideração que a reclamação constitucional se destina a assegurar não só a competência e a autoridade de decisões específicas e bem delimitadas do Supremo Tribunal Federal, mas também constitui-se como ação voltada à proteção da toda a ordem constitucional.
+    No caso dos autos, a turma recursal assentou a existência de direito à aposentadoria especial à guarda civil municipal, nos seguintes termos:
+    “É dos autos que o autor, guarda civil municipal, conta com mais de vinte e cinco anos de efetivo exercício em sua atividade.
+    Inicialmente, não há se falar em falta de comprovação da constatação da atividade de risco e especial do recorrido. Trata-se de circunstância comprovada no caso em apreço, conforme inclusive se verifica em seu Perfil Profissiográfico Previdenciário (fls. 51/56).
+    Tal documento é emitido pelo INSS e abrange a vida funcional do recorrido. E nem se argumente tratar-se de atividade não comprovada, eis que, se referido documento foi elaborado a partir de órgão da Administração Pública, como mencionado alhures, é prova suficiente dos fatos nele descritos.
+    Ante tal consideração, atestada a atividade especial em que labora o autor por mais de vinte e cinco anos, de se concluir que possui direito à aposentadoria especial, nos termos do artigo 40, § 4.º, incisos II e III, da Constituição Federal, c/c artigo 57, da Lei Complementar 8.213/91.
+    Não há que se falar em inaplicabilidade de referida norma, como pretende a instituição previdenciária, pois inércia do Poder Legislativo municipal não pode afastar o direito a que faz jus o servidor.
+    Conforme já pacificado em casos desta natureza, a pretensão tem fundamento na Lei Federal nº 8.213/91 em razão da ausência de lei complementar, de iniciativa do chefe do Poder Executivo, que regulamente o art. 40, § 4.º, da Constituição Federal.
+    (…)
+    Neste passo, passível de concessão a aposentadoria especial ao autor, nos moldes em que previstos no artigo 57, da Lei 8.213/91, ou seja, pela média aritmética simples das maiores remunerações, sem paridade e integralidade, utilizadas como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado”. (eDOC 7, pp. 45-47) (Grifei)
+    Quanto à matéria, destaco que o Plenário do Supremo Tribunal Federal, no julgamento do ARE-RG 1.215.727 (tema 1.057), paradigma da repercussão geral, reafirmou a jurisprudência dominante sobre a matéria para assentar a seguinte tese vinculante: “Os guardas civis não possuem direito constitucional à aposentadoria especial por exercício de atividade de risco prevista no artigo 40, §4º, inciso II, da Constituição Federal”.
+    Transcrevo, pois, a ementa desse julgado:
+    “Recurso extraordinário com agravo. Direito Administrativo. Guarda civil municipal. Aposentadoria especial. Risco da atividade. Impossibilidade. Ausência de legislação específica. Periculosidade não inerente à atividade. Ausência de omissão inconstitucional. Existência de repercussão geral. Reafirmação da jurisprudência da Corte sobre o tema”. (DJe 25.9.2019)
+    Dessa forma, tendo em vista o descompasso entre o ato reclamado e a orientação firmada pelo STF no âmbito da repercussão geral (tema 1057), o caso é de procedência da reclamação.
+    Nesse sentido, cito os seguintes precedentes monocráticos: Rcl 39.412-MC, Rel. Min. Luiz Fux, DJe 12.3.2020; ARE 1.285.604, Rel. Min. Cármen Lúcia, DJe 10.9.2020 e RE 1.285.442, Rel. Min. Ricardo Lewandowski, DJe 18.9.2020.
+    Ante o exposto, julgo procedente a reclamação para cassar o ato reclamado e determinar que outro seja proferido levando em consideração o entendimento firmado por esta Corte no tema 1.057, da sistemática da repercussão geral (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
