@@ -1,0 +1,39 @@
+APELAÇÃO CÍVEL N.o 1029643-50.2018.8.11.0041
+Vistos etc.
+Cuida-se de Recurso de Apelação interposto pela empresa SEGURADORA LÍDER DO CONSÓRCIO DPVAT S/A em razão da sentença proferida pela Juíza da 11a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Cobrança de Seguro Obrigatório (DPVAT) ajuizada por WENDER SILVA ARAÚJO, julgou parcialmente procedente o pedido inicial e condenou a empresa Apelante ao pagamento de R$ 4.725,00 (quatro mil, setecentos e vinte e cinco reais) a título de indenização securitária.
+A Recorrente também foi condenada ao pagamento das custas e honorários advocatícios, estes no valor de R$ 1.500,00 (um mil e quinhentos reais), nos termos do artigo 85, §8o, do Código de Processo Civil.
+A Seguradora alega, em preliminar, a falta de citação.
+No mérito, aduz que o laudo médico apresentado pelo Apelado é imprestável, uma vez que não está devidamente preenchido com informações e dados pessoais do Autor/Recorrido.
+Prossegue, asseverando que a Juíza deixou de observar o pagamento administrativo da indenização securitária, além de aplicar erroneamente os parâmetros legais para o cálculo da condenação.
+Outrossim, a Apelante se insurge quanto à verba honorária, sob a tese de que o Apelado sucumbiu na maior parte do pedido. Subsidiariamente, requer a redistribuição na forma do caput, do artigo 86, do Código de Processo Civil (sucumbência recíproca).
+Por derradeiro, vindica a aplicação da regra geral acerca dos honorários advocatícios, fixados no artigo 85, §2o do CPC.
+Devidamente intimado para contrarrazoar, o Apelado deixou transcorrer in albis (ID. 62799500).
+É o relatório. DECIDO.
+As questões trazidas a debate referem-se à indenização de seguro obrigatório DPVAT. Acerca do tema, o Superior Tribunal de Justiça firmou entendimento sob a sistemática de Recursos Repetitivos (REsp 1483620 / SC , REsp 1418347 / MG, REsp 1388030 / MG , REsp 1303038 / RS, REsp 1357813 / RJ, REsp 1246432 / RS, REsp 1098365 / PR e REsp 1120615 / PR, e recentemente no REsp. 1.827.315) e aprovou Súmulas abrangendo diversos aspectos da indenização securitária obrigatória, de modo que é possível decidir monocraticamente, com base no Verbete Sumular 568 do STJ.
+Em preliminar, a Apelante afirma que não foi devidamente citada, o que a impossibilitou de exercer o direito à ampla defesa.
+Sem embargo, consta do caderno processual que uma vez determinada a citação da Recorrente e designada audiência de conciliação (ID. 62799475), foi certificado o envio da Carta de Citação e Intimação eletrônica, nos termos do artigo 246, V, CPC (ID. 62799477 e 62799478) e o transcurso do prazo para defesa (ID. 62799486).
+Em seguida, na audiência de conciliação, as partes se fizeram representadas (ID 62799480).
+A Apelante busca sustentar a inexistência do ato citatório, sob a perspectiva equivocada de que não foi juntada a procuração outorgada aos advogados da empresa, sendo juntado apenas substabelecimento e carta de preposição.
+Tal argumento não subsiste, haja vista que o ato judicial (audiência de conciliação) se deu na presença do representante da empresa Apelante (preposto) e acompanhado de 2 (dois) advogados, fato que, por si só, confere a representação adequada à solenidade, nos termos do artigo 334, §9o, do CPC. Assim, sem maiores delongas rejeito a preliminar.
+No mérito, a Apelante assevera que o Laudo Médico não é suficiente para quantificar a lesão sofrida pelo Apelado, uma vez que foi preenchido de forma incorreta.
+O fato do primeiro laudo médico deixar de indicar pormenores dos dados pessoais do Apelado (Data de Nascimento, Idade, Número de Identidade e CPF), aponta ao menos que Autor deu entrada, em estado grave, no Hospital São Benedito na data do acidente (ID. 62799463), sendo tais dados devidamente preenchidos, após a urgência que o caso requeria, nos documentos do Prontuário n. 7878 (ID. 62799458), de Solicitação junto ao SUS para Uso de Prótese (ID. 62799464), dentre outras documentações, solicitações e avaliações médicas (ID. 62799470, 62799471, 62799472 e 62799480). Portanto, a irresignação recursal não comporta acolhida neste ponto.
+No que se refere ao pagamento da indenização securitária fixada em sentença (R$ 4.725,00), a Apelante assevera que o Apelado omitiu o recebimento de R$ 2.531,75v na via adaministrativa. Contudo, não há nos autos qualquer prova do alegado, tampouco nesta via recursal.
+Logo, também não merece acolhida.
+Quanto ao cálculo efetuado pela Juíza singular, observa-se que está em sintonia com aquele apresentado pela Apelante em suas razões recursais (ID. 62799495 – p. 11). Desta forma, inexiste interesse recursal neste ponto.
+Por fim, no que se refere à distribuição do ônus sucumbencial (custas e honorários advocatícios), o artigo 86, parágrafo único, do Código de Processo Civil consagra que “se um litigante sucumbir em parte mínima do pedido, o outro responderá por inteiro, pelas despesas e honorários”.
+Na hipótese, o Autor da demanda formulou unicamente o pedido de recebimento de indenização do seguro obrigatório correspondente a 40 (quarenta) salários-mínimos, e foi reconhecido o direito ao percebimento de R$ 4.725,00 (quatro mil, setecentos e vinte e cinco reais).
+Esta Corte, com suporte no Verbete sumular 326, do Superior Tribunal de Justiça, tem entendimento consolidado no sentido de que a condenação em quantia abaixo do pleiteado pela parte não caracteriza sucumbência recíproca.
+Nesse sentido colaciono o seguinte precedente:
+APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA DO SEGURO OBRIGATÓRIO – DPVAT – AUSÊNCIA DE SUCUMBÊNCIA RECÍPROCA – HONORÁRIOS SUCUMBENCIAIS DEVIDOS – VALOR MANTIDO – QUANTUM ADEQUADO AOS PARÂMETROS IMPOSTOS PELO ART. 85 DO CPC E PRECEDENTES DO TJ/MT – RECURSO CONHECIDO E DESPROVIDO.
+O fato da parte autora não ter alcançado o quantum efetivamente pleiteado no momento do ajuizamento da inicial, não implica sucumbência recíproca. Devem ser mantidos os honorários advocatícios arbitrados em consonância com os critérios impostos pelo art. 85 do CPC, em valor suficiente a remunerar o trabalho dos advogados, com o fito de não tornar aviltante o exercício da profissão. (TJMT. Recurso de Apelação Cível n.o 1036859-96.2017.8.11.0041. Rel. Des. Dirceu dos Santos. 3.a Câmara de Direito Privado. Julgado em 18/12/2019. Publicado no DJE 19/12/2019 – sem grifo no original).
+Na mesma toada, cito os apelos: n.o 1032078-31.2017.8.11.0041, 3.a Câmara de Direito Privado, DJE 27/06/2019; n.o 0039578-05.2016.8.11.0041, 4.a Câmara de Direito Privado, DJe de 01/02/2019;
+Assim, imperioso que o ônus sucumbencial seja mantido conforme estipulado na sentença vergastada, para que a Seguradora arque integralmente com o seu pagamento.
+No que tange aos honorários advocatícios, o artigo 85, § 8.o, do CPC estatui que, quando o proveito econômico for irrisório, a verba honorária deve ser calculada conforme o disposto nos incisos do § 2.o, do artigo 85, do mesmo Diploma Legal.
+Na hipótese, a Juíza singular fixou os honorários advocatícios consoante a regra subsidiária estabelecida no artigo 85, § 8.o, do CPC, pois, do contrário, se estipulado em percentual da condenação (R$ 4.725,00), ainda que no patamar máximo (20%), a verba seria irrisória.
+Para esses casos, aplica-se a apreciação equitativa que deve “traduzir-se num valor que não fira a chamada lógica do razoável (...), pois em nome da equidade não se pode baratear a sucumbência nem elevá-la a patamares pinaculares”. (STJ, REsp. 147.346/PR).
+Desse modo, irretocável a sentença ao arbitrar a verba no valor de R$ 1.500,00 (um mil e quinhentos reais), de acordo com os parâmetros fixados nos incisos do §2o, do artigo 85, do CPC, sob pena de aviltar o trabalho do profissional.
+Com essas considerações, nego provimento ao Apelo e deixo de fixar os honorários advocatícios em sede recursal, posto que não houve trabalho adicional do patrono do Apelado nesta Instância.
+Publique-se. Intime-se.
+Cuiabá, 16 de novembro de 2020.
+Des.a Clarice Claudino da Silva
+Relatora
