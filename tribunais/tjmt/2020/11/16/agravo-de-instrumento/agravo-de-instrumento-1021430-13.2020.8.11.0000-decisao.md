@@ -1,0 +1,53 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1021430-13.2020.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DE CÁCERES
+AGRAVANTE: EDSON DE JESUS GONÇALVES;
+AGRAVADO: MUNICÍPIO DE CÁCERES.
+Vistos etc.
+Agravo de instrumento interposto por Edson de Jesus Gonçalves contra a decisão que, em ação de execução fiscal proposta pelo Município de Cáceres, rejeitou a exceção de pré-executividade.
+Assegura que “na certidão, e também na petição inicial, não existe qualquer documento ou individualização da pessoa física, não sendo nada razoável crer que fora gerado um cadastro imobiliário sem que tenha havido identificação do RG ou CPF do contribuinte”.
+Assevera que a “citação editalícia está eivada de nulidade, pois é pacífico o entendimento de que a citação por edital é a última opção dentre as modalidades de comunicação, só devendo ser utilizada quando infrutíferos todos os demais meios de encontrar a parte requerida”.
+Afiança que “não tendo o agravado promovido a correta individualização do agravante, isso inviabilizou que buscas fossem efetuadas em cadastros de órgãos públicos ou concessionárias de serviço público”.
+Requer o provimento do recurso para “reconhecer a ausência de individualização do polo passivo e, consequentemente, extinguir o processo sem resolução do mérito com fundamento no art. 485, inciso IV, do Código de Processo Civil” e “declarar a nulidade da citação por edital e todos os demais atos processuais decorrentes, uma vez que não foram esgotados os meios de localização do executado, em desconformidade com o que ensina o inciso II e § 3o do artigo 256 do CPC e o enunciado da Súmula 414, do STJ”.
+Não há pedido de efeito suspensivo.
+Contrarrazões (Id. 65821992).
+Dispensável a intimação da Procuradoria-Geral de Justiça.
+É o relatório.
+Eis, no ponto de interesse, o teor da decisão:
+[...] Da análise dos autos, verifica-se a presença dos requisitos necessários ao regular processamento do feito, não se vislumbrando a falta de pressuposto de constituição e de desenvolvimento válido e regular do processo a justificar a extinção do processo.
+Ademais, a CDA, tal como foi elaborada, atende aos requisitos estabelecidos no art. 202 do Código Tributário Nacional.
+Conforme depreendido, observa-se na CDA em questão, o nome do devedor, bem como endereço indicado, mesmo que restando infrutífera as tentativas de citação e/ou intimação.
+[...]
+Com relação a nulidade da citação por edital, o executado não foi localizado mediante carta (id. 18240281) e oficial de justiça (id. 21536795), sendo possível a citação deste via edital, quando infrutíferos os meios já mencionados.
+[...]
+Isto posto e por tudo o que mais consta, decido:
+a) Rejeitar a exceção de pré-executividade, pelas razões já expostas;
+b) Intime-se o exequente para que, no prazo de 5 (cinco) dias, indique bens do devedor passíveis
+de penhora, sob pena de suspensão de execução, nos termos do art. 40 da LEF;
+c) Com o cumprimento da determinação ou transcurso do prazo, voltem os autos conclusos;
+d) Cumpra-se. [...]. (Id. 61818491, fls. 41/46).
+Execução Fiscal de crédito tributário, no montante de R$ 7.094,32: sete mil noventa e quatro reais e trinta e dois centavos, decorrente do não recolhimento de Imposto sobre a Propriedade Territorial e Urbana – IPTU (certidão de dívida ativa no 15453/2018, Id. 61818491, fls. 3), em que a inicial foi protocolada em 31 de agosto de 2018 (Id. 61818491, fls. 5) e o despacho ordenatório de citação proferido na data de 13 de novembro do mesmo ano (Id. 61818491, fls. 6/7).
+Em 11 de fevereiro de 2019 foi realizada a primeira tentativa de citação do agravante pelo correio, que restou infrutífera (Id. 61818491).
+Após, na data de 9 de julho de 2019, ocorreu a segunda tentativa de citação do agravante, agora por oficial de justiça, que também restou ineficaz, consoante certidão:
+[...] Certifico e dou fé, em cumprimento ao Mandado de Citação - Execução Fiscal, expedido pela MM.a Juíza de Direito da 4a Vara desta cidade e Comarca que devolvo o mandado sem o seu cabal cumprimento uma vez que não foi possível Citar o Sr. Edson de Jesus Gonçalves, pois me dirigi na Av. Talhamares n. 600 e fui informada pelo Sr. Vitorino que existia um comércio de aroeira do outro lado da rua cujo proprietário chama-se Edson, que mudou-se a muitos meses e não soube dizer onde ele está residindo. Diante do exposto, devolvo o mandado para que a parte autora indique novo endereço e possíveis bens à penhora. O referido é verdade. [...]. (Id. 61818491, fls. 14).
+Por conseguinte, “considerando os termos da diligência negativa”, a técnica judiciária, por impulso oficial, determinou a expedição de Edital de Citação (Id. 61818491, fls. 18).
+Anoto que, o endereço constante na certidão de dívida ativa (Id. 61818491, fls. 3), está completo.
+Cabível, portanto, a citação do agravante por edital, nos termos do artigo 8o, III e IV, da Lei no 6.830, de 22 de setembro de 1980, visto que restou sem êxito a citação pelo correio e por oficial de justiça
+[...] É pacífica a jurisprudência do STJ no sentido de que, na execução fiscal, só é cabível a citação por edital quando sem êxito as outras modalidades de citação previstas no art. 8o da Lei 6.830/1980 (Súmula 414/STJ). Precedentes: REsp 13.87.844/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 17/8/2015, AgRg nos EDcl no AREsp 459.256/MG, Rel. Min. Humberto Martins, Segunda Turma, DJe 2/4/2014, AgRg no REsp 1.307.558/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/5/2013. [...]. (STJ, Segunda Turma, REsp 1726919/RJ, relator Ministro Herman Benjamin, publicado no Diário da Justiça Eletrônico em 21 de novembro de 2018).
+No que se refere a alegação de “ausência de individualização do polo passivo” (Id. 61818489, fls. 11), vez que não foi indicado o Cadastro de Pessoa Física – CPF do executado, o Superior Tribunal de Justiça, em sede de recurso repetitivo, firmou entendimento sobre a desnecessidade de indicação de Registro Geral – RG, Cadastro de Pessoa Física – CPF ou Cadastro Nacional de Pessoa Jurídica – CNPJ nas ações de execuções fiscais, vejamos:
+[...] PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL SUBMETIDO AO RITO DOS REPETITIVOS (ART. 543-C DO CPC). DISSÍDIO PRETORIANO NÃO CARACTERIZADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL DECLARATÓRIA NÃO EVIDENCIADA. INCOMPETÊNCIA DO STJ PARA REVISÃO DE MATÉRIA CONSTITUCIONAL NA VIA RECURSAL ESPECIAL. EXECUÇÃO FISCAL. EXIGÊNCIA DE INDICAÇÃO DO CPF/RG DO EXECUTADO NA PETIÇÃO INICIAL. DESNECESSIDADE. REQUISITOS NÃO PREVISTOS NA LEI No 6.830/80 (LEI DE EXECUÇÃO FISCAL). PREVISÃO EXISTENTE NA LEI No 11.419/06 (LEI DE INFORMATIZAÇÃO DO PROCESSO JUDICIAL). PREVALÊNCIA DA LEI ESPECIAL (LEI No 6.830/80). NOME E ENDEREÇO DO EXECUTADO SUFICIENTES À REALIZAÇÃO DO ATO CITATÓRIO. FIXAÇÃO DA TESE, EM REPETITIVO, DA DISPENSABILIDADE DA INDICAÇÃO DO CPF E/OU RG DO DEVEDOR (PESSOA FÍSICA) NAS AÇÕES DE EXECUÇÃO FISCAL. RECURSO DO FISCO PROVIDO.
+[...]
+3. Nas instâncias ordinárias, decidiu-se pelo indeferimento da petição inicial de ação de execução fiscal movida pelo município de Manaus-AM, sob o argumento da falta de indicação, pelo exequente, do número do CPF da pessoa física executada.
+4. Tal exigência, contudo, não se acha prevista na legislação especial que rege o procedimento executivo fiscal, a saber, a Lei no 6.830/80, cujo art. 6o, ao elencar os requisitos da petição inicial, não prevê o fornecimento do CPF da parte executada, providência, diga-se, também não contemplada no art. 282, II, do CPC.
+5. A previsão de que a petição inicial de qualquer ação judicial contenha o CPF ou o CNPJ do réu encontra suporte, unicamente, no art. 15 da Lei no 11.419/06, que disciplina a informatização dos processos judiciais, cuidando-se, nessa perspectiva, de norma de caráter geral.
+6. Portanto, e sem que se esteja a questionar a utilidade da indicação do CPF da pessoa física executada já na peça inaugural, certo é que não se pode cogitar de seu indeferimento com base em exigência não consignada na legislação específica (Lei no 6.830/80-LEF), tanto mais quando o nome e endereço da parte executada, trazidos com a inicial, possibilitem, em tese, a efetivação do ato citatório.
+7. Em caso assemelhado, também decidido em sede de repetitivo, a 1a Seção o STJ concluiu por afastar a exigência de que a exordial da execução se fizesse acompanhar, também, da planilha discriminativa de cálculos, isto porque ‘A petição inicial da execução fiscal apresenta seus requisitos essenciais próprios e especiais que não podem ser exacerbados a pretexto da aplicação do Código de Processo Civil, o qual, por conviver com a lex specialis, somente se aplica subsidiariamente’ (REsp 1.138.202/ES, Rel. Min. Luiz Fux, DJe 01/02/2010).
+8. Outrossim, a existência de atos normativos do Conselho Nacional de Justiça (Resoluções 46/07 e 121/10) e de verbete do Tribunal local (Súmula 02/TJAM), prevendo a indicação do CPF/CNPJ dos litigantes já no pórtico das ações em geral, não se prestam, só por si, a legitimar o indeferimento da petição inicial em ações de execução fiscal, sem prejuízo da vinda desses dados cadastrais em momento posterior.
+9. Tese fixada para o fins do art. 543-C do CPC: ‘Em ações de execução fiscal, descabe indeferir a petição inicial sob o argumento da falta de indicação do CPF e/ou RG da parte executada (pessoa física), visto tratar-se de requisito não previsto no art. 6o da Lei no 6.830/80 (LEF), cujo diploma, por sua especialidade, ostenta primazia sobre a legislação de cunho geral, como ocorre frente à exigência contida no art. 15 da Lei no 11.419/06’.
+10. Recurso especial do fisco municipal parcialmente conhecido e, nessa extensão, provido para, no caso concreto, determinar-se o regular prosseguimento da execução fiscal. [...]. (STJ, Primeira Seção, REsp 1450819/AM, relator Ministro Sérgio Kukina, publicado no Diário da Justiça Eletrônico em 12 de dezembro de 2014) [Sem negrito no original]
+Por sua vez, o referido entendimento, resultou na edição do verbete no 558 da Súmula da Jurisprudência Predominante no Superior Tribunal de Justiça: “Em ações de execução fiscal, a petição inicial não pode ser indeferida sob o argumento da falta de indicação do CPF e/ou RG ou CNPJ da parte executada”.
+Em conclusão, o recurso é contrário a Súmula da Jurisprudência Predominante no Superior Tribunal de Justiça, a autorizar decisão unipessoal do relator.
+Essas, as razões por que, com fundamento no artigo 932, IV, a, do Código de Processo Civil, e artigo 51, I-C, a, do RITJ/MT, nego provimento ao recurso
+Intimem-se.
+Às providências.
+Cuiabá, 16 de novembro de 2020.
+Des. Luiz Carlos da Costa
+Relator
