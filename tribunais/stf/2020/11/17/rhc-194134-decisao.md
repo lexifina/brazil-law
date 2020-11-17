@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Fabiana da Silva, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 585481/SC, Relatora a Ministra Laurita Vaz.
+    Alega a defesa do recorrente que ele obteve aprovação em 1 área de conhecimento do Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) relativo ao ensino fundamental, motivo pelo qual faria jus à remição de 26 (vinte e seis) dias de sua pena, nos termos da Recomendação n. 44/2013 do CNJ, e não de somente 13 (treze) dias.
+    Diz aplicável a Lei nº 9394/96 – de diretrizes e bases da educação – afirmando que em conjugação com a Recomendação n. 44/2013 permite chegar-se ao resultado pretendido:
+    A Lei que estabelece as diretrizes e bases da educação nacional nos informa que a carga horária mínima anual será de 800 horas para o ensino fundamental.
+    É o que dispõe o art. 21, caput e inciso I, da Lei nº 9.394/96, in verbis:
+    ‘Art. 24. A educação básica, nos níveis fundamental e médio, será organizada de acordo com as seguintes regras comuns:
+    I - a carga horária mínima anual será de oitocentas horas para o ensino fundamental e para o ensino médio, distribuídas por um mínimo de duzentos dias de efetivo trabalho escolar, excluído o tempo reservado aos
+    exames finais, quando houver; (destaquei)
+    Como se sabe o ensino fundamental se divide em: 5 anos iniciais (Esse período é constituído do 1º ao 5° ano) e 4 anos finais (compreende do 6º ao 9º ano).
+    Matematicamente temos: 800 horas x 4 anos = 3.200 horas.
+    (...)
+    A Lei nº 9.394/96 estabelece qual é, em seu inciso I, do art. 24, isto é, 800 horas por ano. Se são 4 anos para terminar, então multiplicamos 800 x 4 = 3.200 horas. Reduzindo em 50% temos 1.600 horas.
+    Na sua visão, a norma do CNJ assegura ao apenado aprovado no ENCCEJA o direito à remição de pena de 50% da carga horária definida legalmente para o ensino fundamental (1.600 horas de um total de 3.200 horas).
+     Requer-se, liminarmente, o provimento do recurso para que seja assegurado ao recorrente o direito à remição de 26 (vinte e seis) dias de sua pena, em razão de sua aprovação no ENCCEJA. E, no mérito, a confirmação da medida.
+    É o relatório.
+    Decido.
+    Transcrevo o teor do aresto questionado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) ENSINO FUNDAMENTAL. RECOMENDAÇÃO CNJ N. 44/2013. BASE DE CÁLCULO. ART. 4.º DA RESOLUÇÃO N. 03/2010 DO CONSELHO NACIONAL DE EDUCAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Em caso de certificação do ensino fundamental pelo Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), o Juízo da Execução Penal, para fins de remição da pena, deverá considerar 50% (cinquenta por cento) de 1.600 (mil e seiscentas) horas, que é a carga horária definida para o ensino fundamental na Educação de Jovens e Adultos – EJA, consoante o disposto na Recomendação n. 44 do Conselho Nacional de Justiça e no art. 4.º, inciso II, da Resolução n. 03/2010 do Conselho Nacional de Educação.
+    2. No caso, o Juízo das Execuções Criminais, referendado pelo Tribunal de origem, adotou a compreensão de que o parâmetro de 50% (cinquenta por cento) da carga horária definida legalmente para o ensino fundamental (previsto na Recomendação n. 44, de 26/11/2013, do Conselho Nacional de Justiça) corresponde a 800 (oitocentas) horas, o que resulta no direito à 66 (sessenta e seis) dias de remição da pena em caso de aprovação total no ENCCEJA – Ensino Fundamental e, consequentemente, 13 (treze) dias de remição pela aprovação em cada uma das 5 (cinco) áreas de conhecimento, com o acréscimo de 1/3 (um terço) em caso de conclusão da referida etapa, nos termos do art. 126, § 5.º, da Lei de Execução Penal, o que está em harmonia com a jurisprudência desta Corte Superior de Justiça.
+    3. Agravo regimental desprovido”(doc. 3, e-STJ fl. 183).
+    O julgado proferido pelo Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Com efeito, consoante apontado pela Ministra Laurita Vaz em seu voto,
+    “No caso, o Juízo das Execuções Criminais, referendado pelo Tribunal de origem, adotou a compreensão de que o parâmetro de 50% (cinquenta por cento) da carga horária definida legalmente para o ensino fundamental (previsto na Recomendação n. 44, de 26/11/2013, do Conselho Nacional de Justiça) corresponde a 800 (oitocentas) horas, o que resulta no direito à 66 (sessenta e seis) dias de remição da pena em caso de aprovação total no ENCCEJA – Ensino Fundamental e, consequentemente, 13 (treze) dias de remição pela aprovação em cada uma das 5 (cinco) áreas de conhecimento, com o acréscimo de 1/3 (um terço) em caso de conclusão da referida etapa, nos termos do art. 126, § 5.º, da Lei de Execução Penal, o que está em harmonia com a jurisprudência desta Corte Superior de Justiça” (doc. 3, e-STJ fl. 187/188).
+    Tem-se, portanto, que o STJ negou o pleito defensivo com base nas disposições expressas da Recomendação nº 44/2013 do Conselho Nacional de Justiça, que estabelece que o Juízo da Execução deverá considerar, para fins de remição por estudo realizado pelo apenado, a incidência do percentual de 50% sobre a carga horária de 1.600h para o ensino fundamental e 1.200h para o ensino médio, nos termos do que preconizado pelo art. 4º, II, III e parágrafo único da Resolução nº 03/2010 do Conselho Nacional de Educação.
+    Nesse sentido, como bem indicou o Ministro Roberto Barroso, ao referendar julgado do STJ sobre o tema,
+    “’a recomendação do Conselho Nacional de Justiça faz referência à carga horária estabelecida na Resolução n. 03/2010, do Conselho Nacional de Educação – CNE, única norma a dispor sobre a duração de cursos de ensino fundamental e médio para jovens e adultos. […] Apesar da combativa defesa, não é o Conselho Nacional de Justiça, mas a Resolução n. 3/2010 do CNE que institui 'Diretrizes Operacionais para a Educação de Jovens e Adultos nos aspectos relativos à duração dos cursos e idade mínima para ingresso nos cursos de EJA'. […] Ao maior de 18 anos de idade a conclusão dos cursos ocorre em período muito mais exíguo, consoante as regras específicas da Resolução n. 03/2010, do CNE. (...)’.” (RHC nº 174.894, DJe de 27/9/20).
+    No mesmo sentido, destaco as seguintes decisões monocráticas: RHC nº 173.960, Relator a Ministra Cármen Lúcia, DJe de 18/12/19; RHC 187.679, Relatora a Ministra Rosa Weber, DJe de 5/8/20; HC nº 190.806, Relator o Ministro Ricardo Lewandwoski, DJe de 8/9/20; e HC nº 191.281, Relator o Ministro Gilmar Mendes, DJe de 21/9/20, entre outros.
+    Nessa conformidade, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário em habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de novembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
