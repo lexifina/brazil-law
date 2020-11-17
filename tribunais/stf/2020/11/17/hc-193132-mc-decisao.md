@@ -1,0 +1,18 @@
+Decisão: Trata-se de habeas corpus proposto em favor de Delúbio Soares de Castro (e.Doc. 1) contra acórdão proferido no âmbito do Superior Tribunal de Justiça que negou provimento ao Agravo Regimental nos EDcl nos EDcl no RHC 120.590/PR.
+    Narra a defesa constituída, em síntese, que o Superior Tribunal de Justiça reconheceu a incompetência absoluta do Juízo da 13ª Vara Federal de Curitiba/PR para processar e julgar a Ação Penal 5052995-43.2016.4.04.7000/PR instaurada em face do paciente, sem determinar, todavia, a anulação de todos os atos decisórios nela prolatados.
+    Sustenta não ser razoável a convalidação de medidas cautelares penais invasivas determinadas há 16 (dezesseis) anos, ainda que haja a ratificação dos respectivos atos e decisões pelo Juízo Eleitoral de Campinas/SP, destinatário daquele feito.
+    Defende, desse modo, o reconhecimento da ilicitude das provas produzidas pelo Juízo absolutamente incompetente, com a ordem de desentranhamento dos autos.
+    Alude ao perigo de advento de sentença penal condenatória em desfavor do recorrente com esteio em “elementos e provas produzidas e colhidas por Juízo não era competente para tal ato ou com participação de Ministério Público e Polícia Judiciária não ostentavam atribuição para tanto” para, então, requerer “seja deferida medida liminar antecipatória da tutela recursal, para suspender o curso da persecução penal perante o Juízo para o qual remetido o feito enquanto tramita o presente Habeas Corpus” (e.Doc. 1, fl. 5).
+    Por intermédio da petição 93.488/STF protocolada em 5.11.2020 (e.Doc. 6), a defesa constituída requer seja declarada extinta a punibilidade do paciente, com extensão aos demais codenunciados.
+    É o relatório. Decido.
+    2. Principio assinalando, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos, a saber: (i) a existência de plausibilidade jurídica (fumus boni juris); (ii) a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora). Sem que concorram esses requisitos, essenciais e cumulativos, não se legitima a concessão do provimento cautelar.
+    Num juízo de cognição sumária, próprio desta específica fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar, sobretudo porque assente na jurisprudência do Supremo Tribunal Federal “a possibilidade de ratificação de atos instrutórios – e até mesmo de atos decisórios – pela autoridade competente” (RE 73.0579, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 30.6.2017).
+    Ao lado disso, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se impõe quando a situação demonstrada nos autos representa manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirma.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente recurso ordinário em habeas corpus, indefiro a liminar.
+    Solicitem-se informações ao Juízo Eleitoral de Campinas/SP destinatário da Ação Penal n. 5052995-43.2016.4.04.7000/PR, em especial acerca das medidas adotadas após o recebimento do feito, nos moldes do que determinado pelo Superior Tribunal de Justiça no RHC 120.590/PR, no prazo de até 10 (dez) dias.
+    Após, dê-se vista à Procuradoria-Geral da República para manifestação pelo mesmo lapso temporal.
+    Publique-se. Intime-se.
+    Brasília, 17 de novembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
