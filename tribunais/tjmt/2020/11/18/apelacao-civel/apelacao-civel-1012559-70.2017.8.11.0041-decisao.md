@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 1012559-70.2017.8.11.0041
+Recorrente: ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S. A.
+Recorrido: DUILIO NAVES JUNQUEIRA JUNIOR
+Vistos.
+Trata-se de Recurso Especial interposto por ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S. A. (id 63864968) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PRIVADO assim ementado (id 55389018):
+“AGRAVO INTERNO – RECURSO DE APELAÇÃO – AÇÃO DE REPETIÇÃO DE INDÉBITO – FORNECIMENTO DE ENERGIA ELÉTRICA - AUMENTO SUBSTANCIAL DAS FATURAS - CONSUMO FATURADO MUITO ACIMA DA MÉDIA - AUSÊNCIA DE DEMONSTRAÇÃO DA REGULARIDADE DO MEDIDOR - REPETIÇÃO DE INDÉBITO POSSIBILIDADE - DECISÃO MONOCRÁTICA MANTIDA – RECURSO DESPROVIDO. 1- Revela-se indevido o aumento substancial dos valores das faturas de energia elétrica, muito acima do consumo médio e incompatível com a situação fática retratada, notadamente se não demonstrado pela concessionária a ausência de irregularidade no medidor. 2 – Em relação à repetição do indébito, o art. 42, parágrafo único, do Código de Defesa do Consumidor dispõe que: O consumidor cobrado em quantia indevida tem direito à repetição do indébito, por valor igual ao dobro do que pagou em excesso, acrescido de correção monetária e juros legais, salvo hipótese de engano justificável. 3- Enfim, havendo provas de que o Recorrido efetuou pagamento a maior, impõe-se à Concessionária a obrigação de restituir em dobro o valor pago indevidamente, a ser apurado em liquidação de sentença, conforme determinado na sentença, a fim de evitar o enriquecimento ilícito, Id. 47301068. 4 -Logo, observa-se que o decisum foi proferido pautando-se em orientações do Superior Tribunal de Justiça, jurisprudência de outros Tribunais e na lei, e por isso não merece reparos.” (TJMT, RAC 1012559-70.2017.8.11.0041, DESa. CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, Julgado em 26/08/2020)
+Os Embargos de Declaração id 56751492 foram rejeitados, conforme decisão id 59816480.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo para o fim de suspender a eficácia do acórdão ante suposta violação ao artigo 206, § 5o, I e 405, ambos do Código Civil, além do artigo 42 do CDC, uma vez que deve ser reconhecida a prescrição ao caso concreto, uma vez que foram declarados como excessivos e abusivos os valores cobrados nas faturas de energia elétrica do período de abril de 2011 a março de 2016.
+Aduz que “(...)o Tribunal local ao manter as condenações impostas pela sentença de origem em desfavor Recorrente, mantendo a atualização da condenação com incidência de juros de 1% (um por cento) ao mês, e correção pelo índice INPC, ambos a partir do desembolso, viola recente interpretação dada pelo STJ ao artigo 406 do Código Civil, ao julgar o Recurso Especial número 1.846.819 – PR.”
+Afirma que “o Tribunal local má valorou as provas dos autos não se atentando aos requisitos das normas setoriais aplicáveis vigentes, bem como aos prazos de incorporação de rede de energia elétrica, e a forma de ressarcimento.”
+Assevera que deve ser concedido o efeito suspensivo “tendo em vista a existência de flagrante violações aos dispositivos federais invocados, inclusive tendo o Acórdão recorrido corroborado a cobrança de débitos prescritos, o que tornam o valor da condenação em importe vultuoso, e, considerando a probabilidade de provimento do recurso e a relevância da fundamentação, conforme demonstrado nas razões recursais abaixo, o que implica na existência de risco de dano grave, requer a Vossa Excelência a concessão do efeito suspensivo ao recurso especial.”
+Recurso tempestivo e preparado, conforme certidões id 65927951 e 66293991.
+É o relatório.
+Decido.
+Estabelece o art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente não demonstrou os requisitos autorizadores da concessão do efeito suspensivo, uma vez que deixou de apontar o eventual perigo da demora ou a probabilidade do direito, limitando-se a postular o recebimento do recurso com efeito suspensivo.
+Note-se que não há qualquer indício de que eventual execução provisória tenha sido proposta, ainda que tal argumento não sirva para possibilitar a concessão do efeito suspensivo.
+Importante ressaltar que, ausente o perigo da demora, ainda que seja demonstrada a probabilidade do direito, não há falar em concessão do efeito suspensivo, conforme aresto:
+“PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS. 1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional. 2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente. 3. Agravo interno não provido.” (STJ, AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016) - destaquei
+Dessa forma, por entender que não se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do art. 995, parágrafo único, do CPC, indefiro o pedido de efeito suspensivo pleiteado.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Publique-se. Intimem-se.
+Cuiabá, 17 de novembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
