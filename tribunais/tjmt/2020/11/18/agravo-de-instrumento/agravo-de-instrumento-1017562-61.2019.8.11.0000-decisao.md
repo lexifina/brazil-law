@@ -1,0 +1,32 @@
+AGRAVO DE INSTRUMENTO: 1017562-61.2019.8.11.0000 (PJE) Feito na Origem 1003807-34.2019.8.11.0011 (PJE)
+AGRAVANTE: ELIO FERNANDES BUGARI
+AGRAVADOS: ESTADO DE MATO GROSSO
+JUIZ RELATOR: DR. MARCELO SEBASTIÃO PRADO DE MORAES
+DECISÃO MONOCRÁTICA
+EMENTA
+AGRAVO DE INSTRUMENTO – FAZENDA PÚBLICA – DECISÃO QUE DETERMINOU O DECLÍNIO DE COMPETÊNCIA PARA A 1° VARA ESPECIALIZADA DA FAZENDA PÚBLICA DE VÁRZEA GRANDE (TJ-MT/OE N° 09/2019) – AUSÊNCIA DE DEFERIMENTO OU INDEFERIMENTO DE MEDIDA CAUTELAR/ANTECIPATÓRIA – NÃO CABIMENTO – INTELIGÊNCIA DA LEI 12.153/2009, ARTS. 3° E 4° - AUSÊNCIA DE PREVISÃO LEGAL – NÃO CONHECIMENTO.
+Não se conhece de Agravo de Instrumento interposto contra decisão que não defere ou indefere medida cautelar/antecipatória, pois a Lei no 12.153/2009, em seus art. 3o e 4o, prevê a interposição de recurso somente nessas hipoteses.
+Agravo de instrumento não conhecido.
+Vistos, etc.
+O agravante ajuizou a ação no 1003807-34.2019.8.11.0011, em curso na 1a Vara Especializada da Fazenda Pública de Várzea Grande onde pleiteia medicamentos de prestação continuada.
+O Magistrado de primeira instância, proferiu o seguinte despacho, o qual é objeto do presente agravo:
+Vistos.
+Ante o teor da Resolução 09/2019- OE e Portaria 29/2019-CM deste Tribunal de Justiça de Mato Grosso, que alterou a competência da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, a qual passou a ser especializada para processar e julgar, em caráter de exclusividade, todos os feitos relativos à saúde pública em que figurar como parte o Estado de Mato Grosso, mesmo aqueles que já estão em fase de cumprimento de sentença, desde que envolva prestação continuada, DECLINO da competência e DETERMINO a remessa do presente feito à referida Vara Especializada para a continuidade dos atos processuais.
+Pleiteia, em Agravo de Instrumento, a concessão do efeito suspensivo da decisão do Juízo “a quo”, por entender pela inconstitucionalidade da Resolução n° 09/2019 TJ-MT/OE, que culminou no declínio de competência da ação principal para a 1° Vara Especializada da Fazenda Pública de Várzea Grande.
+Entretanto, das decisões judiciais, diversas da sentença, proferidas no Juizado Especial da Fazenda Pública, somente é cabível recurso nos casos em que for deferida providências cautelares ou antecipatórias, para evitar dano de difícil ou de incerta reparação, nos termos do disposto no art. 3o e 4o da Lei no 12.153/2009, in verbis:
+Art. 3o O juiz poderá, de ofício ou a requerimento das partes, deferir quaisquer providências cautelares e antecipatórias no curso do processo, para evitar dano de difícil ou de incerta reparação.
+Art. 4o Exceto nos casos do art. 3o, somente será admitido recurso contra a sentença.
+Deste modo, os recursos cabíveis no Juizado Especial da Fazenda Pública são: Embargos de Declaração e Recurso Inominado, sendo este último contra a sentença, e contra decisão que deferir medida cautelar. Eis o que diz a jurisprudência a respeito desse tema:
+AGRAVO DE INSTRUMENTO - JUIZADO ESPECIAL DA FAZENDA PÚBLICA – CABIMENTO APENAS CONTRA DECISÃO QUE CONCEDA PEDIDO DE NATUREZA LIMINAR – LEITURA CONJUNTA DOS ARTS. 3o E 4o DA LEI 12.153/2009 - PROCESSO QUE SEGUIU O RITO DO JUIZADO ESPECIAL - AUSÊNCIA DE IMPUGNAÇÃO DO AUTOR QUANTO AO PROCEDIMENTO ADOTADO - PRECEDENTES - RECURSO NÃO CONHECIDO. "O agravo de instrumento é cabível unicamente contra decisão que deferir providência cautelar e antecipatória no curso do processo, para evitar dano de difícil ou incerta reparação, conforme previsto no art. 4o da Lei 12.153/09 (...)" (TJSC - 6a Turma de Recursos - Processo n. 2012.600218-6, de Videira - Rel. Juiz Jaime Machado Junior - j. em 16.04.2012). "Da interpretação conjunta dos dois dispositivos retira-se que (1) é possível a antecipação de tutela ou deferimento de cautelar no Juizado Especial da Fazenda Pública (2) como regra, só é admissível recorrer da sentença (3) excepcionalmente é possível recorrer de despacho interlocutório, mas isso tão-somente contra a decisão que antecipa a tutela ou que defere liminar" (TJSC, Agravo de Instrumento n. 2013.501528-8, de Joinville, rel. Juiz Cesar Otavio Scirea Tesseroli, j. 05-08-2013).
+AGRAVO DE INSTRUMENTO. TERCEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. RECURSO CONTRA DESPACHO QUE MANTEVE A DECISÃO DE INDEFERIMENTO DA LIMINAR. DECISÃO INTERLOCUTÓRIA SEM CARÁTER CAUTELAR. AUSÊNCIA DE PREVISÃO LEGAL NO SISTEMA DOS JUIZADOS ESPECIAIS. NÃO CABIMENTO DA IRRESIGNAÇÃO. DECISÃO QUE INDEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA JÁ AGRAVADA. 1. A Lei no 12.153/2009, que trata do Juizado Especial da Fazenda Pública, estabelece em seus arts. 3o e 4o ser possível a interposição de recurso contra decisões interlocutórias, que deferem ou indeferem providências cautelares e antecipatórias, durante o curso do processo, a fim de evitar dano de difícil ou incerta reparação. [...]. (TJ-RS. 3a Turma Recursal da Fazenda Pública. AI: 71008343139 RS, Relator: Alan Tadeu Soares Delabary Junior, J. 11/02/2019, DJ. 16/04/2019).
+A Turma Recursal Federal de São Paulo, editou o Enunciado no 21, que dispõe: “Somente caberá recurso contra decisão interlocutória concessiva de medida cautelar (art. 4o c.c. art. 5o da Lei 10.259/2001)”. E as Turmas Recursais Federais do Rio de Janeiro consolidaram entendimento estampado no Enunciado no 3, com o seguinte teor: “Somente caberá recurso de decisão do deferimento ou indeferimento de liminar”.
+A decisão objeto do presente Agravo de Instrumento não deferiu qualquer providência cautelar ou antecipatória, apenas determinou que fosse redistribuída ação para juízo competente em razão do determinado por Resolução do TJMT/OE n° 09/2019.
+Desta forma, como a Lei no 12.153/2009 não prevê a possibilidade de interposição de recurso contra decisão diversa daquela que defere ou indefere providências cautelares ou antecipatórias, entendo que a decisão agravada não pode ser combatida por meio de Agravo de Instrumento.
+Desta feita, não se observa o recurso correto, sendo que, é caso de não conhecimento do mesmo.
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ISTO POSTO, diante dos esclarecimentos acima, em razão da ausência de previsão na Lei 12.153/2009, monocraticamente, NÃO CONHEÇO DO AGRAVO DE INSTRUMENTO, nos termos do art. 932, III do CPC.
+Transitado em julgado, ao arquivo.
+Sem custas processuais e honorários advocatícios.
+Marcelo Sebastião Prado de Moraes
+Juiz de Direito - Relator
