@@ -1,0 +1,53 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO RECURSO DE APELAÇÃO CÍVEL N. 0050841-05.2014.8.11.0041
+RECORRENTE(S): ESTADO DE MATO GROSSO
+RECORRIDO(S): LANDER DA SILVA DUARTE
+Vistos, etc.
+Trata-se de Recurso Especial (id. 57689493) interposto pelo ESTADO DE MATO GROSSO, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Público e Coletivo, assim ementado (id. 42424488):
+“RECURSO DE APELAÇÃO. AÇÃO DE INDENIZAÇÃO. DEMORA NA REALIZAÇÃO DE CIRURGIA DE URGENCIA. MORTE DA GENITORA SEM O PROCEDIMENTO DEFERIDO JUDICIALMENTE. PRELIMINARES: 1. INTEMPESTIVIDADE DA APELAÇÃO – INOCORRENCIA. 2. DESCUMPRIMENTO NA REGULARIDADE DA FORMA ESTABELECIDA NO ARTIGO 1.010 DO CPC – REJEITADA. 3. INOBSERVANCIA DO PRINCIPIO DA DIALETICIDADE – REJEITADA. MÉRITO. RESPONSABILIDADE CIVIL DO ESTADO POR OMISSÃO – RESPONSABILIDADE SUBJETIVA CARACTERIZADA. PERDA DA CHANCE. DANOS MORAIS MANTIDOS. INDICES TEMA 810/STF. HONORÁRIOS DE SUCUMBENCIA SOBRE VALOR DA CONDENAÇÃO – CABIMENTO. LITIGANCIA DE MÁ FÉ AFASTADA. APELO PROVIDO EM PARTE. SENTENÇA PARCIALMENTE RETIFICADA.
+1. O artigo 183, caput e § 1o do CPC/15 confere prerrogativas à Fazenda Pública, em todas as esferas federal, estadual ou municipal do prazo de forma dobrada, cujo início do prazo se dá com a intimação pessoal, por meio de carga, remessa ou meio eletrônico. A Procuradoria Geral do Estado recebeu o processo em carga em 25/07/2018 (ID Num. 4292049) e a apelação foi protocolada em 07/08/2018 (ID Num. 4292050), portanto atende ao prazo estabelecido.
+2. Inexiste óbice ao conhecimento do recurso, por descumprimento à exigência do artigo 1.010 , inciso I, do CPC/2015 quando, embora não venham qualificadas na apelação, as partes estejam devidamente identificadas na petição inicial.
+3. Rejeito a arguição de inobservância do princípio da dialeticidade, pois o recorrente trouxe os pontos de fato e de direito pelos quais entende que a decisão está errada, bem como o pedido de nova decisão. Não pode o apelante negligenciar no dever de prestação de serviços de saúde, sob a alegação de falta de recursos orçamentários, pois a proteção ao direito à vida se sobrepõe a interesses de cunho patrimonial.
+4. A responsabilidade subjetiva, decorrente de ato omissivo do Poder Público por falta ou falha do serviço, restou caracterizada na perda ou redução da chance de cura de sobrevida da paciente, que faleceu sem receber o tratamento adequado, inobstante deferimento via determinação judicial.
+5. A perda de um ente querido sem receber o tratamento necessário é fato que causa severo abalo de ordem moral, independente do evento morte.
+6. Os índices para atualização do débito serão fixados na liquidação da sentença, observado o que for decidido pelo Supremo Tribunal Federal no julgamento do Tema 810/STF.
+7. Quanto a litigância de má-fé, a situação não se amolda em nenhuma das hipóteses elencadas no art. 80 do CPC, motivo pelo qual a pretensão é descabida.
+8. Cabe reforma sobre os honorários de sucumbência, uma vez foram fixados em 10% (dez por cento) sobre o valor da causa, enquanto deveriam ter sido fixados sobre o valor da condenação, a teor do artigo 85, § 2°, §3°, inciso I do CPC/2015.” (TJMT. RECURSO DE APELAÇÃO CÍVEL N. 0050841-05.2014.8.11.0041. RELATOR DR. GILBERTO LOPES BUSSIKI. PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO. Julgado em 13/05/2020. Publicado em 21/05/2020).
+Os Embargos de Declaração de id. 45008967, opostos pela parte Recorrente, foram rejeitados (id. 53658452).
+Alega violação ao artigo 944, parágrafo único, do Código Civil. Argumenta que a morte da genitora do Recorrido não teria resultado de falha no atendimento médico ou de omissão do Estado, mas de causa autônoma e suficiente para a produção do resultado danoso. Salienta, ainda, que o valor de R$ 50.000,00 (cinquenta mil reais), fixado a título de indenização por danos morais, seria exorbitante.
+Recurso tempestivo (id. 59272963) e dispensado do preparo nos termos do artigo 1007, §1o do CPC.
+Sem contrarrazões, conforme id. 64163468.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso. Por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Com essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das Leis Federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AUSÊNCIA DE REPASSE DE VALORES LEVANTADOS POR CAUSÍDICO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. (...) (AgInt nos EDcl no AREsp 1473022/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+No caso dos autos, ao apontar contrariedade ao artigo 944 do Código Civil, o Recorrente alega que a morte da genitora do Recorrido não teria resultado de falha no atendimento médico ou de omissão do Estado, mas de causa autônoma e suficiente para a produção do resultado danoso. Salienta, ainda, que o valor de R$ 50.000,00 (cinquenta mil reais), fixado a título de indenização por danos morais, seria exorbitante.
+Quanto aos pontos, o órgão fracionário deste Tribunal concluiu (id. 42424490):
+“In casu, restou demonstrado o nexo de causalidade entre a conduta omissiva do Estado de Mato Grosso, de natureza culposa, e o dano que foi causado à parte demandante, a ensejar o dever de indenizar, devido a morte da genitora da parte apelada sem realizar o procedimento garantido por ordem judicial.
+Da decisão liminar deferida na ação n° 0500672-77.2014.8.11.0001 extrai-se que o tratamento indicado à paciente era imprescindível, devido risco de morte oriundo da doença coronária que a acometia.
+A liminar foi deferida, porém não cumprida a ordem judicial.
+(...)
+Encontra-se devidamente comprovada responsabilidade civil do Estado de Mato Grosso em indenizar o filho da falecida, por sua omissão, no dever constitucional de prestar o efetivo atendimento para garantir o direito constitucional à saúde, considerando a gravidade do quadro de saúde da vitimada, e a perda ou redução da chance de cura de sobrevida por conta da não entrega do procedimento, advindo a culpa no descaso do apelante intimado a cumprir determinação judicial.
+(...)
+Os danos morais, in casu, são evidentes e decorrem diretamente do evento danoso. Não há dúvidas de que o fato atingiu o patrimônio imaterial do autor/apelado, sendo inconteste o abalo moral sofrido em razão da falta da realização do procedimento, que resultaria em um desfecho menos danoso à sua integridade físico/psíquica, por culpa inquestionável do ente Estatal.” (g.n.)
+No que tange ao quantum indenizatório, apregoou (id. 42424490):
+“No que diz respeito ao valor da condenação, à vista da inexistência de parâmetros legais, o julgador deve observar os princípios da proporcionalidade e razoabilidade. Igualmente, deve atentar para a natureza jurídica da indenização, que deve constituir uma pena ao causador do dano e, concomitantemente, compensação ao lesado, além de cumprir seu cunho pedagógico sem caracterizar enriquecimento ilícito.
+O valor de R$ 50.000,00 (cinquenta mil reais) fixado a título de danos morais mostra-se condizente com a dor da perda do ente querido, sem que este obtivesse o medicamento que poderia amenizar o sofrimento ou prolongar a vida.” (g.n.)
+Assim, infirmar a conclusão do Tribunal de Origem em relação à presença dos elementos ensejadores da responsabilidade civil, bem como quanto ao valor da indenização, demandaria o reexame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL – AÇÃO CONDENATÓRIA – DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO APENAS PARA MODIFICAR O TERMO INICIAL DOS OUROS DE MORA. INSURGÊNCIA DA PARTE DEMANDADA. (...) 2. Observa-se que o Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu pela presença dos requisitos ensejadores da responsabilidade civil da ora agravante. A alteração de tal entendimento, como pretendida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ. 3. A revisão por esta Corte do montante fixado pelas Instâncias ordinárias a título de dano moral, exige que o valor tenha sido arbitrado de forma irrisória ou exorbitante, circunstância que não se verifica no caso concreto. A condenação cooperativa por dano moral em R$ 200.000,00 (duzentos mil reais), tendo em vista a omissão no atendimento que resultou em óbito do paciente, não se encontra fora dos padrões de razoabilidade e proporcionalidade. 4. Agravo interno desprovido.” (AgInt no AREsp 1311795/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020) (g.n.)
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. DANOS MORAIS. EXISTÊNCIA OU VALOR DA INDENIZAÇÃO. ANÁLISE. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. ÔNUS PROBATÓRIO. VERIFICAÇÃO. SÚMULA 7/STJ. (...) 2. Em relação aos danos morais, a pretensão não pode ser conhecida, porquanto a revisão do entendimento da Corte de origem, no tocante à existência de tais danos, bem como ao valor da indenização, demandaria o revolvimento do acervo fático-probatório acostados aos autos, o que é vedado pela Súmula 7/STJ. (...) (AgInt no AREsp 1529089/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/06/2020, DJe 04/06/2020) (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 18 de novembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVIII
