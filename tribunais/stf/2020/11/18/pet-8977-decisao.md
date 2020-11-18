@@ -1,0 +1,40 @@
+Decisão: Trata-se de representação formulada pelo Senador Otto Roberto Mendonça de Alencar em face do Presidente da República Jair Messias Bolsonaro, por meio da qual o requerente pugna pela instauração de inquérito.
+    De acordo com a peça inicial, o requerente teve conhecimento de diálogos mantidos entre o Presidente da República e o ex-Ministro da Justiça Sérgio Moro, constantes em relatório investigativo, por meio dos quais o Presidente teria encaminhado conteúdo notoriamente falso.
+    O conteúdo falso seria uma mensagem compartilhada através de redes sociais e aplicativos de mensagens, na qual há uma inverídica vinculação do requerente e de seu descendente, o Deputado Federal Otto Roberto Mendonça Alencar Filho, com a empresa INTS, que seria responsável por administrar o Hospital Espanhol em Salvador, na Bahia.
+    Consta da referida mensagem que o Hospital Espanhol teria sido reativado pelo Governador da Bahia, Rui Costa, com a “entrega” gratuita para o INTS, de propriedade de Otto Alencar Filho, sem a realização da devida licitação.
+    A narrativa prossegue afirmando que as refeições do Hospital seriam fornecidas pela empresa do Senador Ângelo Coronel a preço seis vezes mais caro que o normal.
+    Registra, ainda, supostas declarações do Secretário de Saúde da Bahia, Sr. Fábio Dantas, que teria afirmado a existência de um orçamento de R$ 230 milhões de reais para a realização de despesas com o Covid, o que seria efetivamente utilizado para supostamente beneficiar o requerente e os demais políticos mencionados (eDOC 1, p. 3).
+    O requerente afirma que essa “Fake News” compartilhada pelo Presidente da República constituiria ato atentatório à sua honra e imagem, o que tornaria imprescindível a apuração dos fatos.
+    Aduz o postulante que a referida informação seria notoriamente inverídica, tendo sido desmentida publicamente em inúmeras oportunidades, conforme reportagens que indica na petição inicial.
+    Alega que a mensagem compartilhada seria anônima e descabida e que o estatuto social do INTS, juntado aos autos, demonstraria a ausência de qualquer vínculo do requerente ou de seu filho com a referida empresa.
+    Portanto, o compartilhamento da referida mensagem constituiria, em tese, o crime de difamação. Acrescenta, ainda, que a coleta e a divulgação dessas mensagens que estavam armazenadas no celular do ex-Ministro Sérgio Moro não possui qualquer vinculação com o Inquérito 4831, que apura a possível interferência do Presidente da República na Polícia Federal.
+    Por conseguinte, defende que a publicização de tais fatos, em contrariedade às determinações proferidas pelo Exmo. Sr. Ministro Celso de Mello nos autos do referido inquérito, estaria a indicar a prática do crime do art. 28 da Lei de Abuso de Autoridade, que se refere à divulgação de “gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado” (eDOC 1, p. 11).
+    Por todos esses motivos, requer: a) o compartilhamento do relatório das mensagens armazenadas no celular do ex-Ministro Sérgio Moro e outras provas conexas; b) a instauração de novo inquérito contra o Presidente da República, com o sorteio de novo Relator, tendo em vista a ausência de correlação com os fatos investigados no INQ 4813.
+    Em 18 de junho de 2020, o Relator do INQ 4813, Ministro Celso de Mello, encaminhou a petição e os documentos apresentados à Presidência, sugerindo a autuação na classe “Petição”, com a livre distribuição entre os membros desta Corte.
+    Em 24 de junho de 2020, a Presidência acolheu a sugestão do ilustre Relator. Os autos foram encaminhados a este gabinete.
+    É o relatório. Decido.
+    No caso em análise, verifica-se que não compete a esta Corte processar a notitia criminis apresentada pelo requerente.
+    Com efeito, a redação do art. 230-B, do RISTF, prevê expressamente que compete à Procuradoria-Geral da República (PGR) a iniciativa para processar e investigar notícias de crimes envolvendo autoridades com prerrogativa de foro, como ocorre no caso em análise:
+    Art. 230-B. O Tribunal não processará comunicação de crime, encaminhando-a à Procuradoria-Geral da República.
+    De acordo com Daniel Marchionatti, “Os Tribunais não devem processar notitia criminis, mas devem requisitar a instauração de inquérito policial, caso constatem fatos aparentemente criminosos em sua atividade” (MARCHIONATTI, Daniel. Processo Penal Contra Autoridades. Rio de Janeiro: Forense, 2019. p. 196).
+    A diferença, segundo o autor, é que no segundo caso, “o crime é constatado pelo Tribunal em sua atuação institucional – processos ou atividade administrativa” (MARCHIONATTI, Daniel. Processo Penal Contra Autoridades. Rio de Janeiro: Forense, 2019. p. 196).
+    Na situação objeto de análise, observo que não se trata de requisição de instauração de inquérito em virtude de crimes constatados a partir da atuação institucional do Tribunal, tanto que o Exmo. Sr. Ministro Celso de Mello, Relator do INQ 4831, não adotou qualquer providência em relação aos fatos narrados pelo requerente.
+    Por esse motivo, entendo que deve o requerente adotar as providências que entenda cabíveis perante as autoridades competentes, não sendo possível a tramitação da notícia-crime por intermédio desta Corte.
+    Ressalte-se que o enunciado nº 741 da Súmula do STF, citado pelo representante, não é suficiente para fins de acolhimento do requerimento formulado.
+    Isso porque a opção pela representação criminal deve ser formulada perante a autoridade policial ou o Ministério Público, e não em face do órgão judicial eventualmente responsável pelo julgamento do representado.
+    Registre-se que embora a tramitação de notitia criminis não seja permitida, a parte final do art. 230-B do RISTF possibilita o encaminhamento da comunicação à Procuradoria-Geral da República, para as providências que esse órgão entender pertinentes.
+    Contudo, nos casos em que esse encaminhamento possa gerar repercussões políticas indevidas, ou seja, a criação de “factoides políticos” de que o STF estaria “processando” autoridades, a jurisprudência do Tribunal estabelece o não encaminhamento das informações, inclusive como forma de se resguardar institucionalmente a Corte.
+    Tem-se, nessa linha, o precedente firmado a partir do acórdão proferido pelo Plenário nos autos da PET 2805, Rel. Min. Nelson Jobim, julgado em 13.11.2002.
+    Com efeito, nesse julgamento o Tribunal optou por não conhecer da notitia criminis apresentada, com a determinação de arquivamento dos autos.
+    Compreendo que idêntico raciocínio deve ser aplicado ao presente caso, tendo em vista as indevidas repercussões políticas do pedido que não encontra amparo no Regimento Interno desta Corte e também por considerar que não foram apresentados indícios mínimos que sequer sugiram a comunicação do fato à PGR.
+    A alegada ofensa à honra do requerente ocorreu através de compartilhamento de mensagens em caráter privado entre o Presidente da República e o ex-Ministro Sérgio Moro.
+    Destarte, não se vislumbra, sequer em tese, a intenção de divulgar a terceiros fatos ofensivos à honra do postulante. Também inexiste qualquer indício concreto que o Presidente da República soubesse que se tratava de notícia falsa ou que tenha sido o responsável pela redação da mensagem considerada ofensiva.
+    Ademais, não é possível concluir, a priori, que as mensagens não estejam relacionadas com os fatos apurados no INQ 4813 e que tenham sido indevidamente publicadas para constranger o requerente.
+    Acresça-se, ainda, que o requerente não figura como investigado ou acusado nos autos do mencionado inquérito, razão pela qual não se vislumbra a possibilidade de cometimento do crime do art. 28 da Lei 13.869/2019.
+    Dispositivo
+    Ante o exposto, não conheço do pedido formulado e determino o arquivamento dos presentes autos, com base no art. 230-B do RISTF.
+    Publique-se. Intimem-se.
+    Brasília, 18 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
