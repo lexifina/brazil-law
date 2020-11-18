@@ -1,0 +1,32 @@
+DECISÃO:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Tráfico de drogas. Dosimetria da pena. Privilégio. Fatos e provas. Jurisprudência do Supremo tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO. GRANDE QUANTIDADE DE ENTORPECENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME FECHADO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Segundo o entendimento firmado neste Tribunal Superior, a natureza e a quantidade da droga apreendida constituem elementos aptos a justificar não só o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 como também a imposição de regime mais gravoso do que aquele previsto para o quantum da pena imposta.
+    2. No caso, não se vislumbra ilegalidade na dosimetria da pena, tendo em vista que a Corte de origem baseou-se em fundamentação idônea, lastreada na natureza e na grande quantidade da droga apreendida – mais de 4kg (quatro quilos) de cocaína – para afastar a suscitada minorante e fixar o regime mais gravoso.
+    3. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 33 da Lei 11.343/2006. Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso.
+    3. Na sequência, o paciente impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 600.299, Min. Antonio Saldanha Palheiro, indeferiu a liminar e, posteriormente, denegou a ordem. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário a defesa sustenta que, “em que pese todo o tirocínio e aguçado senso de justiça dos eminentes Ministros que compõem a Colenda Sexta Turma do Egrégio Superior Tribunal de Justiça, data maxima venia, se equivocaram sobremaneira ao desprover o agravo regimental interposto, eis que é patente a ilegalidade perpetrada contra o recorrente, na medida em que, o afastamento da benesse legal prevista no § 4º, do artigo 33, da Lei de Drogas, se deu somente em razão da natureza e quantidade das drogas apreendidas”.
+    5. A defesa requer “que seja aplicada a causa especial de diminuição de pena, prevista no § 4º, do artigo 33, da Lei 11.343/06, ao recorrente, por ser esta a medida da mais pura e lídima Justiça”.
+    6. Decido.
+    7. O recurso não merece ser provido.
+    8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    9. As instâncias anteriores afastaram a aplicação da minorante do art. 33, § 4º, da Lei nº 11.343/2006 com base em dados objetivos da causa. Vejam-se as seguintes passagens do voto condutor do acórdão proferido pelo STJ:
+    “[...]
+    Conforme consignei no decisum ora agravado, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+    Segundo o entendimento firmado neste Tribunal Superior, a natureza e a quantidade da droga apreendida constituem elementos aptos a justificar não só o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 como também a imposição de regime mais gravoso do que aquele que a pena comporta.
+    […]
+    Constatei, portanto, não haver ilegalidade na dosimetria da pena, tendo em vista que a Corte de origem decidiu em conformidade com a jurisprudência deste Tribunal Superior, baseando-se em fundamentação idônea – lastreada na natureza e na grande quantidade da droga apreendida – para afastar a minorante prevista no art. 33, caput, da Lei n. 11.343/2006.
+    […].”
+    10. Não é possível, na via processualmente restrita do habeas corpus, reexaminar o material probatório da ação penal para, eventualmente, concluir-se em sentido diverso. Nessa linha, vejam-se o RHC 150.179-AgR, Rel. Min. Gilmar Mendes; e o HC 183.617-AgR, Rel. Min. Alexandre de Moares, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE REDUÇÃO DE PENA (ART. 33, § 4º, DA LEI 11.343/2006). NÃO INCIDÊNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. APREENSÃO DE ACENTUADA QUANTIDADE DE DROGA. ANÁLISE DE FATOS E PROVAS. INADEQUAÇÃO DA VIA PROCESSUAL.
+    1 . A jurisprudência do SUPREMO TRIBUNAL FEDERAL chancela o afastamento da causa de diminuição (art. 33, § 4º, da Lei 11.343/2006) quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do acusado, b) o concurso eventual de pessoas, e c) a quantidade de droga.
+    2. Os elementos colhidos sob o crivo do contraditório indicaram a dedicação do acusado a atividades criminosas. O registro de apreensão de 45kg da substância entorpecente conhecida como ‘maconha’ - distribuídos em 36 tabletes, acondicionados no interior das portas traseiras, banco traseiro e encosto dos bancos dianteiros de veículo a tanto adredemente preparado - destoa de quadro de traficância eventual ou de menor gravidade, circunstâncias às quais a minorante em questão é vocacionada.
+    3. Por outro lado, para afastar a conclusão implementada pelas instâncias antecedentes, tal como já afirmou o STJ, seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. Precedentes.
+    4. Agravo regimental a que se nega provimento.”
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 18 de novembro de 2020.
+Ministro LUÍS ROBERTO BARRROSO
+Relator
