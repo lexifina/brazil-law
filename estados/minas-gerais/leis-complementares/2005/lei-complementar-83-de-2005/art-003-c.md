@@ -1,0 +1,1 @@
+Art. 3°-C - A Chefia de Gabinete da Advocacia-Geral do Estado será exercida privativamente por Procurador do Estado designado pelo Governador para a função, mediante indicação do Advogado-Geral do Estado.

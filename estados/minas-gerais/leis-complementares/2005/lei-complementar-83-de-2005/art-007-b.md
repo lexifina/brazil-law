@@ -1,0 +1,1 @@
+Art. 7º - B - A Consultoria Jurídica da AGE exerce a supervisão técnica das unidades jurídicas das Secretarias de Estado e dos órgãos das administrações direta e indireta que exerçam a advocacia consultiva do Estado.

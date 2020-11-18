@@ -1,0 +1,1 @@
+Art. 7º - A - As Procuradorias das autarquias e fundações da administração indireta do Poder Executivo são unidades setoriais de execução da AGE, à qual se subordinam tecnicamente, e integram a estrutura administrativa das referidas entidades.
