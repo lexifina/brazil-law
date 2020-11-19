@@ -1,0 +1,8 @@
+DESPACHO:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de liminar, proposta pela Associação Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil – ANTC, que tem por objeto os arts. 8º, § 3º; 10; 13, III, a, IV, a; 15; 16; 17, parágrafo único; 18; 19, parágrafo único; 20, III e IV; todos da Lei nº 4.743/2018, na redação dada pela Lei nº 5.053/2019, ambas do Estado do Amazonas. Os dispositivos impugnados, em síntese, regulam o Plano de Cargos, Carreiras e Remunerações e consolidam as normas de pessoal do Tribunal de Contas do Estado do Amazonas.
+    2. A questão submetida à apreciação desta Corte é de inequívoca relevância, bem como possui especial significado para a ordem social e a segurança jurídica. Isto porque a presente ação direta envolve a análise da compatibilidade dos dispositivos impugnados, v.g., com os arts. 37, II, 39, § 1º, I, II e III, 40, § 2º, e 71, II e IV, da CF, além de outras normas constitucionais relacionadas, notadamente os princípios da igualdade e da moralidade, assim como a Súmula Vinculante nº 43 do STF.
+    3. Em face da presença dos requisitos legais, aplico o rito abreviado do art. 12 da Lei n° 9.868/1999, de modo a permitir a célere e definitiva resolução da questão. Assim, determino as seguintes providências: (i) solicitem-se informações ao Governador e à Assembleia Legislativa do Estado do Amazonas, no prazo de dez dias; (ii) em seguida, encaminhem-se os autos, sucessivamente, ao Advogado-Geral da União e ao Procurador-Geral da República, para manifestação, no prazo de cinco dias.
+          Intimem-se. Publique-se
+          Brasília, 19 de novembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
