@@ -1,0 +1,5 @@
+# Lei nº 5.312, de 19 de novembro de 2020, do Estado do Amazonas
+
+DISPÕE QUE MATERNIDADES, CASAS DE PARTO E ESTABELECIMENTOS HOSPITALARES CONGÊNERES, DA REDE PÚBLICA E PRIVADA DO ESTADO DO AMAZONAS DEVEM PERMITIR A PRESENÇA DE PARTEIRAS DURANTE TODO O PERÍODO DE TRABALHO DE PARTO, PARTO E PÓS-PARTO IMEDIATO, SEMPRE QUE SOLICITADOS PELAS PARTURIENTES.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/11112>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2020/11112/5312.pdf>
