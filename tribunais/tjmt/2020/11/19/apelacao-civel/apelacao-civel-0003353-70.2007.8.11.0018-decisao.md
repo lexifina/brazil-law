@@ -1,0 +1,34 @@
+Recurso Especial interposto nos autos da
+APELAÇÃO CÍVEL n. 0003353-70.2007.8.11.0018
+Recorrente: VALDIR VASSOLER
+Recorrida: JURANDYR BARROS DE CARVALHO FILHO
+Vistos.
+Trata-se de Recurso Especial interposto por VALDIR VASSOLER (id 60539453) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela SEGUNDA CÂMARA DE DIREITO PRIVADO assim ementado (id 47196454):
+“RECURSO DE APELAÇÃO CIVEL – AÇÃO DE REINTEGRAÇÃO DE POSSE – INVASÃO DE GADO NA PROPRIEDADE VIZINHA – AÇÃO JULGADA IMPROCEDENTE E PEDIDO CONTRAPOSTO PROCEDENTE – ESBULHO POSSESSÓRIO – REQUISITOS ARTIGO 561 DO CPC/15 - PRESENTES – PEDIDO CONTRAPOSTO – PROVAS DOS GASTOS COM AS RESES (PRODUÇÃO) – COMPROVAÇÃO – PERDAS E DANOS - AMBAS PARTES – PROVA PERICIAL – CONCLUSIVA - VALOR ENCONTRADO - PERÍODO EM QUE SEMOVENTES PERMANCERAM NA FAZENDA – REPRODUÇÃO (TAXA DE NATALIDADE, MORTALIDADE E IDADE DE COMERCIALIZAÇÃO DOS MACHOS|) – CUSTO DE PRODUÇÃO NO PERÍODO – GASTOS COM AS RESES (VACINAS OBRIGATÓRIAS, VERMÍFUGOS, MEDICAMENTOS DIVERSOS, SAL, SAL MINERAL, GASTOS PASTAGEM E MÃO DE OBRA) – COMPENSAÇÃO - ABATIMENTO DOS VALORES – RECURSO PROVIDO EM PARTE. Se o gado, em face de rompimento de cerca, adentra da propriedade vizinha e o seu proprietário se nega a devolvê-lo voluntariamente, caracterizado está o esbulho, este decorrente da privação dos semoventes por parte do autor da demanda, desta forma, possível a utilização da ação de reintegração de posse, cuja procedência se impõe quando presentes os requisitos do artigo 561 do CPC/15. É cabível as perdas e danos referente as crias, no período em que os semoventes esbulhados permaneceram na área, levando em consideração a taxa de natalidade, de mortalidade e da comercialização dos machos, conforme demostrado em prova pericial realizadas nos autos. Por outro lado, demonstrado os gastos com os semoventes no mesmo período, cabe acolhimento do pedido contraposto para que o autor seja condenado ao pagamento de tais gastos, como: vacinas obrigatórias, vermífugos, medicamentos diversos, sal, sal mineral, gastos pastagem e mão de obra, conforme demonstrado na prova pericial juntadas aos autos. Tendo a perícia técnica apurado o valor que o autor poderia ganhar com as crias dos semoventes, bem como os gastos do réu para manutenção das reses, basta realizar a compensação das perdas e danos de um e do outro, sendo a diferença pago por aquele em que foi apurado um valor menor, a título de perdas e danos.-” (TJMT, RAC 0003353-70.2007.8.11.0018, DESA. MARILSEN ANDRADE ADDARIO, SEGUNDA CÂMARA DE DIREITO PRIVADO, Julgado em 22/04/2020)
+Os Embargos de Declaração id 47248983 foram rejeitados, sendo que os aclaratórios id 48660495 foram acolhidos, conforme acórdão id 57983005, in verbis:
+“EMBARGOS DE DECLARAÇÃO – ACÓRDÃO PROFERIDO EM RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE REINTEGRAÇÃO DE POSSE - SEMOVENTES – EMBARGOS DO APELADO - CONTRADIÇÃO E OMISSÃO – INOCORRÊNCIA - PRETENSÃO DE REANÁLISE DO MÉRITO – IMPOSSIBILIDADE – PREQUESTIONAMENTO DA MATÉRIA – ARTIGO 1.025 DO CPC/15 – EMBARGOS DO APELANTE – OMISSÃO – OCORRÊNCIA – DIVERGÊNCIA ENTRE O VOTO ORAL E O ESCRITO - HONORÁRIOS ADVOCATÍCIOS RECURSAIS – JULGAMENTO REGISTRADO ORALMENTE PREVALECE CASO O TEOR NÃO COINCIDA COM O ACORDÃO – ARTIGO 104, § 5o, DO REGIMENTO INTERNO DO TJMT - EMBARGOS DO APELADO REJEITADOS – EMBARGOS DO APELANTE ACOLHIDOS. Devem ser rejeitados os embargos de declaração, quando ausentes a contradição e a omissão apontadas pelo embargante e se pretende rediscutir matéria já apreciada. Por força do disposto no artigo 1.025 do CPC/15, considerar-se-á prequestionada a matéria nos autos, ainda que rejeitados os embargos de declaração, caso o tribunal superior entenda existentes os vícios que justifiquem a oposição dos embargos declaratórios. Devem ser providos os embargos de declaração, quando presente a omissão apontada pelo embargante, a fim de sanar o vício para que prevaleça a condenação dos honorários advocatícios fixados oralmente. O registro do julgamento oral em meio magnético prevalecerá, caso o respectivo teor não venha a coincidir com o do acórdão. Inteligência artigo 104, § 5o, do RITJMT.-“
+A parte Recorrente apresentou seu recurso especial sustentando que o acórdão teria violado o disposto nos artigos 489 e 1.022 do CPC, uma vez que teria deixado de prestar a efetiva prestação jurisdicional.
+E ainda, aduz que houve afronta ao artigo 242 e 1.214 do Código Civil, pois seria indevida a condenação ao pagamento de frutos em hipótese de incontroversa boa-fé do requerido, ora Recorrente.
+Aponta a existência de dissídio jurisprudencial apto a admitir positivamente o recurso.
+Recurso tempestivo e preparado, conforme certidões id 61282476 e 61386083.
+O efeito suspensivo restou indeferido no id 63137555, uma vez que não demonstrado o perigo da demora.
+As contrarrazões foram apresentadas, conforme certidão constante do id 64766451.
+É o relatório.
+Decido.
+Sistemática de Recursos Repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Suposta violação aos artigos 489 e 1.022, ambos do CPC, bem como artigos 242 e 1.214 do Código Civil.
+Pressupostos recursais satisfeitos.
+Assevera a parte Recorrente que o acórdão negou vigência ao art. 489 e art. 1022 do CPC, bem como art. 242 e 1.214 do Código Civil, pois seria indevida a condenação ao pagamento de frutos em hipótese de incontroversa boa-fé do requerido, ora Recorrente.
+Nota-se que a controvérsia está delimitada em definir ser devida ou não a condenação ao pagamento de frutos em hipótese de incontroversa boa-fé do requerido, ora Recorrente.
+Tem-se também como demonstrado a suposta violação ao artigo 489 do CPC, a omissão na análise da tese trazida em suas razões constante dos autos.
+Observa-se que houve o devido prequestionamento da matéria acima mencionada no acórdão, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF.
+Além disso, a tese recursal não pretende alterar o quadro fático já reconhecido pelo acórdão, mas rever a moldura legal que lhe foi dada (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso pela aduzida afronta legal.
+Em interpretação conjunta do artigo 1.034, parágrafo único, do CPC, e à Súmula 292/STF, fica dispensado o exame dos demais dispositivos supostamente violados.
+Publique-se.
+Intimem-se.
+Cuiabá, 19 de novembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
