@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “CONSTITUCIONAL. PENSÃO POR MORTE DE SERVIDOR PÚBLICO CIVIL. MENOR DE 21 ANOS. ROL DE DEPENDENTES PREVISTOS NA LEI 8.112/90. SITUAÇÃO NÃO ALTERADA PELA LEI 9.717/98.
+    1. O art. 217, II, a, da Lei nº 8.112/90, inclui, como beneficiários de pensão temporária por morte de servidor público civil federal, ‘os filhos, ou enteados, até 21 (vinte e um) anos de idade, ou, se inválidos, enquanto durar a invalidez’.
+    2. Esta egrégia Corte tem considerado que o art. 5º da Lei 9.717/98, ao vedar aos Regimes Próprios de Previdência Social dos servidores públicos a concessão de benefícios distintos daqueles previstos no Regime Geral da Previdência Social, não alterou o rol de dependentes e beneficiários dos segurados dos regimes próprios, inexistindo óbice a que o mesmo seja concedido em RPPS.
+    3. Juros moratórios calculados com base no índice oficial aplicado à caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/97, com redação da Lei 11.960/09. Correção monetária calculada com base no IPCA, índice que melhor reflete a inflação acumulada do período. Precedente persuasivo: REsp 1.270.439.
+    4. Apelação provida” (págs. 137-138 do documento eletrônico 1).
+    Os embargos de declaração que se seguiram foram rejeitados (págs. 164-165 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 97 e 227 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem, ao analisar o caso concreto, não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição, visto que apenas interpretou a legislação infraconstitucional aplicável à espécie.
+    Ressalte-se que esta Corte possui entendimento firmado no sentido de que, para caracterizar violação da cláusula de reserva de plenário, é necessário que o órgão fracionário fundamente-se na incompatibilidade entre a norma legal e a Constituição Federal, o que não ocorreu no caso. Nessa trilha, destaco o ARE 1.196.776-AgR/RS, da relatoria do Ministro Roberto Barroso, cuja ementa transcrevo a seguir:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ART. 97 DA CF/88 E SÚMULA VINCULANTE 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES. OFENSA AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. DESCABIMENTO.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    2. Inexiste repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa e do devido processo legal, quando dependente da prévia análise da legislação infraconstitucional (ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes – Tema 660).
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”.
+    Além disso, verifico que o acórdão recorrido está em harmonia com a jurisprudência desta Corte, que consolidou o entendimento segundo o qual o art. 5° da Lei 9.717/1998 não revogou categorias de beneficiários de pensão por morte do regime próprio de previdência dos servidores públicos federais. Com essa orientação, cito julgados de ambas as Turmas do Supremo:
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. PODERES DO RELATOR. TRIBUNAL DE CONTAS DA UNIÃO. ATO DE CONCESSÃO DE PENSÃO. MENOR SOB GUARDA. RECUSA DE REGISTRO.
+    1. O art. 205 do Regimento Interno desta Casa, na redação conferida pela Emenda Regimental nº 28/2009, expressamente autoriza o Relator a julgar monocraticamente o mandado de segurança quando a matéria em debate for objeto de jurisprudência consolidada do Supremo Tribunal Federal.
+    2. A jurisprudência desta Suprema Corte consolidou-se no sentido de que o art. 5º da Lei 9.717/98 não teve o condão de derrogar categorias de beneficiários de pensão por morte do regime próprio de previdência dos servidores públicos federais, de molde a delimitá-las ao mesmo rol previsto para o regime geral. Agravo regimental conhecido e não provido" (MS 32.914-AgR/DF, Rel. Ministra Rosa Weber, Primeira Turma – grifei)”.
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. PENSÃO TEMPORÁRIA. PESSOA DESIGNADA. BISNETO DE SERVIDOR DA UNIVERSIDADE FEDERAL DA PARAÍBA. ART. 217, INC. II, AL. D, DA LEI N. 8.112/1990. NEGATIVA DE REGISTRO. LEI N. 9.717/1998, ART. 5º: PRETENSO EFEITO DERROGATÓRIO NOS REGIMES PRÓPRIOS DE PREVIDÊNCIA SOCIAL: INOCORRÊNCIA. PRECEDENTES. DEPENDÊNCIA ECONÔMICA AFASTADA ADMINISTRATIVAMENTE. MATÉRIA A EXIGIR AMPLA DILAÇÃO PROBATÓRIA: INVIABILIDADE. MANDADO DE SEGURANÇA DENEGADO" (MS 32.958/DF, Rel. Min. Cármen Lúcia, Segunda Turma - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 19 de novembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
