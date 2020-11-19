@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS ASSEMBLEIA LEGISLATIVA ESTADUAL GABINETE DA PRESIDÊNCIA
+
+LEI Nº 8.346, DE 18 DE NOVEMBRO DE 2020. Autor: Deputado Francisco Tenório.
+
+CONSIDERA DE UTILIDADE PÚBLICA A ONG DIVINA CARIDADE.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do art. 89 da Constituição Estadual, promulga a seguinte Lei:
