@@ -1,0 +1,43 @@
+Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública da União, em favor de Leandro Santos Rodrigues, contra acórdão da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental no AREsp 1.654.903/SE.
+    Colho de decisão anteriormente impugnada:
+    “LEANDRO SANTOS RODRIGUES agrava de decisão que inadmitiu seu recurso especial fundado no art. 105, III, ‘a’ e ‘c’, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Sergipe na Apelação Criminal n. 201900331614.
+    Nas razões do recurso especial, a defesa apontou violação do art. 33, § 2º, ‘c’, do Código Penal, além de dissídio jurisprudencial, sob o argumento de que embora o agravante seja reincidente é cabível o regime aberto, pois ‘o contexto do fato não [demonstra] a necessidade de um regime de cumprimento mais severo’ (fl. 201).
+    Requer o provimento do recurso para o estabelecimento do regime mais brando.
+    O recurso especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+    O Ministério Público Federal opinou pelo não provimento do reclamo (fls. 265-266).” (eDOC 2, p. 34)
+    No STJ o AREsp foi conhecido para negar provimento ao recurso especial, o que motivou a interposição de agravo regimental. Confira-se a ementa do julgado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FIXAÇÃO DE REGIME INICIAL ABERTO. IMPOSSIBILIDADE. RÉU REINCIDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Os requisitos para a imposição do regime aberto constam no art. 33, § 2º, "c", e § 3º, do Código Penal; são eles: ausência de reincidência, condenação por período igual ou inferior a 4 anos e inexistência de circunstâncias judiciais desfavoráveis. Na hipótese, sendo o agravante reincidente e havendo sido a pena fixada em 1 mês de detenção, o regime inicial semiaberto é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "c", do Código Penal.
+    2. Agravo regimental não provido.” (eDOC 2, p. 51)
+    Daí a presente impetração (eDOC 1).
+    Nesta Corte a defesa afirma que que “o STF passou a entender recentemente, à luz do princípio da proporcionalidade, pela possibilidade de adoção do regime prisional aberto aos reincidentes condenados a pena igual ou inferior a quatro anos, ainda que desfavoráveis as circunstâncias judiciais, se houver a aplicação de uma pena ínfima e quando o contexto do fato não necessitar de um regime de cumprimento mais severo” (p. 3).
+    Nesse sentido, pugna, liminarmente e no mérito, pela concessão da ordem para que seja deferido ao paciente o direito de cumprir sua pena em regime aberto.
+    É o relatório.
+    Passo a decidir.
+    Sobre o tema, o eminente Relator do AREsp no STJ consignou o seguinte:
+    “Extrai-se dos autos que o agravante foi condenado, em primeiro grau, a 1 mês de detenção e 11 dias-multa, em regime semiaberto, pela prática do delito previsto no art. 180, § 3º do Código Penal. O regime intermediário foi fixado na sentença, ‘considerando a reincidência do réu’ (fl. 122).
+    A Corte estadual confirmou os termos do decisum monocrático e destacou: ‘[...] apesar da pena não exceder 04 (quatro) anos, por ser o réu/apelante reincidente, torna-se inaplicável a adoção do regime aberto, razão pela qual mantenho o cumprimento da pena em regime semiaberto’ (fl. 184).
+    Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o magistrado deverá observar: a) a quantidade da reprimenda aplicada; b) a primariedade do réu e a c) existência de circunstâncias judiciais desfavoráveis. Além dessas vetoriais, admite-se a imposição de regime prisional mais gravoso desde que apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+    Com efeito, o regime aberto, a teor do art. 33, § 2°, do CP, é reservado ao ‘condenado não reincidente’. De acordo com o entendimento sedimentado por meio da Súmula n. 269 do STJ, ‘é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais’, situação ocorrida na hipótese.
+    Ilustrativamente: ‘Malgrado a pena-base tenha sido fixada no mínimo legal, em vista da favorabilidade das circunstâncias judiciais, com reprimenda final estabelecida em patamar inferior a 4 anos de detenção, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, nos termos do art. 33, § 2º c, do Código Penal’ (AgRg no HC n. 549.500/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/2/2020).
+    Assim, não verifico a violação apontada pela defesa, pois impossível a concessão do regime aberto, este destinado aos condenados não reincidentes.” (eDOC 2, p. 35 – 36, grifei)
+    No juízo condenatório, por sua vez, ficou assentado:
+    “Isto posto, JULGO PARCIALMENTE PROCEDENTE o pedido formulado na denúncia para CONDENAR LEANDRO SANTOS RODRIGUES, qualificado nos autos, como incurso nas sanções do crime capitulado no artigo 180, § 3º, do Código Penal.
+    Passo, doravante, à dosimetria da pena, a teor do art. 68 do Código Penal.
+    Analisadas as diretrizes do artigo 59 do Código Penal, quanto à culpabilidade, denota-se que o réu agiu com dolo normal à espécie, nada tendo a se valorar; à época do fato, o réu tinha contra si condenação penal transitada em julgado (processo n° 201420400999), o que configura maus antecedentes. Deixo de valorá-la nesta fase, todavia, por configurar igualmente reincidência, deixando para considerar na fase seguinte, evitando assim o bis in idem criminais; poucos elementos foram coletados a respeito de sua conduta social, razão pela qual deixo de valorá-la; não há nos autos elementos suficientes à aferição da personalidade do agente; o motivo para o seu comportamento delituoso é inerente ao tipo penal; as circunstâncias encontram-se detalhadas nos autos, mas não há nada que extrapole o tipo penal; as consequências do crime são próprias do tipo, nada tendo a se valorar, sob pena de se incorrer em bis in idem; não há registro de que a vítima contribuiu para o cometimento do delito.
+    Assim, analisadas as circunstâncias judicias e não sendo nenhuma delas desfavorável ao réu, fixo-lhe a pena base em 01 (um) mês de detenção e 10 (dez) dias-multa.
+    Presentes a circunstância atenuante previstas pelo art. 65, inciso III, ‘d’, do Código Penal (confissão). Deixo de atenuar a pena, entretanto, em razão de havê-la fixado no patamar mínimo legal previsto, obedecendo, de tal forma, o quanto determinado pela Súmula 231, do STJ.
+    Incide a circunstância agravante prevista pelo art. 61, I, do Código Penal (reincidência - processo nº 201420400999, trânsito em 21/09/2018), razão pela qual agravo a pena em 05 (cinco) dias de detenção e 01 (um) dia-multa, alcançando uma pena de 01 (um) mês de detenção e 11(onze) dias-multa.
+    Não se verificam causas gerais ou especiais de diminuição ou aumento de pena, resultando a pena definitiva em 01 (um) mês de detenção e 11 (onze) dias-multa, estes no valor unitário de 1/30 (um trigésimo) do salário-mínimo vigente ao tempo do fato, considerando a situação econômica do réu.
+    IV - DO REGIME DE CUMPRIMENTO INICIAL DA PENA E DA DETRAÇÃO:
+    Considerando a reincidência do réu, fixo o regime semi-aberto para cumprimento inicial da pena, a teor do art. 33, § 2º, ‘b’ e 3°, do Código Penal.
+    Saliento, porém, que eventual detração da pena deverá ser aperfeiçoada em momento oportuno, pelo Juízo da Execução Penal (art. 66, III, ‘c’, LEP).” (eDOC 5, p. 22, grifei)
+    Como de sabença, o art. 33, § 2º, alínea “c”, do Código Penal, estabelece que o condenado não reincidente, nos casos em que a pena fixada seja igual ou inferior a 4 anos, poderá, desde o início, cumpri-la em regime aberto. Nessas hipóteses, nada impede que o juízo de origem fixe regime mais gravoso, desde que haja motivação idônea para tanto.
+    Ocorre que, na espécie, o paciente é reincidente, conforme amplamente ponderado nas instâncias anteriores. Nessa toada, muito embora a reprimenda cominada tenha sido pouco expressiva, o entendimento até então repisado não se revela ilegal, tampouco contrário à jurisprudência desta Corte.
+    Reputo adequada a fundamentação empregada na aplicação de regime de cumprimento de pena, uma constatada a reincidência do paciente e as circunstâncias fáticas do caso concreto, inexistindo constrangimento ilegal a ser reparado na via estreita do habeas corpus.
+    Ante o exposto, com fundamento no art. 192, “caput”, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 23 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
