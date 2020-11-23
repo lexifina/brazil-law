@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSO-CRIME – SUSPENSÃO – RELEVÂNCIA – AUSÊNCIA.
+RECURSO ORDINÁRIO EM HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+     O Ministério Público do Estado de São Paulo, considerado o inquérito policial n° 0013793-90.2012.8.26.0032, denunciou o recorrente, técnico de segurança do trabalho, ante o crime do artigo 121, parágrafos 3º e 4º (homicídio culposo com causa de aumento de pena alusiva à inobservância de regra técnica de profissão, arte ou ofício), do Código Penal. Narrou haver atuado descumprindo as regras técnicas de ofício, previstas na Lei n° 6.514/1977 e na Portaria nº 3.214/1978, do Ministério de Estado do Trabalho, observada a execução de obras e serviços de duplicação, pavimentação de marginais e melhorias em trechos da Rodovia SP-463. Ressaltou ter concorrido, culposamente, para desmoronamento de parte de talude resultante de escavação. Descreveu soterramento e morte, por asfixia provocada por sufocação indireta, de Duvirgem Marin da Silva, funcionário da empresa Aurimix, que trabalhava em vala para instalação de tubos de concreto. Salientou ter o recorrente, contratado da empresa Ellenco Construções Ltda., assumido o dever jurídico de zelar pela segurança do trabalho dos operários da empresa subcontratada Aurimix. Destacou o acompanhamento, na data do fato, de execução dos serviços desenvolvidos pelos trabalhadores.
+    O Juízo da Primeira Vara Criminal da Comarca de Araçatuba/SP, em 21 de março de 2016, recebeu a peça acusatória – processo nº 0013793-90.2012.8.26.0032.
+    No Superior Tribunal de Justiça, a Sexta Turma indeferiu a ordem no habeas corpus nº 510.593/RJ.
+    O recorrente sustenta inexistir justa causa a viabilizar o prosseguimento da ação penal. Diz atípica a conduta imputada. Alega não haver nexo de causalidade entre a própria atuação e o desmoronamento, frisando ausente, no Direito Penal, responsabilização objetiva. Sublinha prevista, em contrato firmado entre as empresas Ellenco Construções Ltda. e Aurimix, isenção de responsabilidade da primeira quanto a danos causados por empregados da segunda.
+    Requer, no campo precário e efêmero, a suspensão do processo-crime, até o julgamento final da impetração. No mérito, busca o trancamento.
+    2. O Ministério Público do Estado de São Paulo, na peça acusatória, narrou haver o recorrente, na qualidade de funcionário da empresa Ellenco Construções Ltda., assumido o dever jurídico de zelar pela segurança do trabalho dos operários da empresa subcontratada Aurimix, considerada execução de obras e serviços de duplicação, pavimentação de marginais e melhorias em trechos da Rodovia SP-463. Referiu-se à inobservância de regras técnicas previstas na Lei nº 6.514/1977 e na Portaria nº 3.214/78, do Ministério de Estado do Trabalho. Frisou haver concorrido, culposamente, para desmoronamento que resultou na morte de funcionário da empresa Aurimix. Destacou o acompanhamento, na data do fato, de execução dos serviços desenvolvidos pelos trabalhadores no local do acidente.
+    A suspensão de processo-crime situa-se no âmbito da excepcionalidade. É indispensável a demonstração de ilegalidade manifesta, sem a qual surge imprópria a providência pretendida. Considerados os elementos de informação a respaldarem o teor da imputação, tem-se configurada justa causa necessária a viabilizar a ação penal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 23 de novembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
