@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1993, de 20 de novembro de 2020
+Altera a Instrução Normativa RFB nº 1.717, de 17 de julho de 2017, que dispõe sobre normas sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 23 da Lei nº 13.988, de 14 de abril de 2020, e nos arts. 47 a 51 e 58 da Portaria ME nº 340, de 8 de outubro de 2020, resolve:
