@@ -1,0 +1,41 @@
+Decisão
+    Trata-se de Reclamação contra decisão proferida pelo Juízo da 3ª Vara do Trabalho de Olinda, que teria desrespeitado a autoridade desta CORTE, ao deixar de sobrestar o processo, conforme determinação proferida nos autos das Ações Declaratórias de Constitucionalidade 58 e 59 (Rel. Min. GILMAR MENDES).
+    Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (fls. 2/):
+    Foi proposta contra a UNIVERSO EMPREENDIMENTOS LTDA ora peticionaria, reclamação trabalhista de autoria do Sr. LEONARDO VALENTE DE ALMEIDA RIBEIRO que tramita perante á 3ª Vara do Trabalho de Olinda-PE, Processo nº 0001447-56.2016.5.06.0103, onde o mesmo busca uma série de direitos em decorrência do seu vínculo empregatício que manteve contra a ora peticionaria em contrato de trabalho que transcorreu no período de 02.05.2014 a 02.11.25.
+    Tendo o processo sido contestado, instruído e percorrido várias instâncias, foi julgado procedente em parte, tendo a sentença transitado em julgado em 15 de junho de 2020 e hoje se encontra em execução, com a empresa já tendo sido regulamente citada no dia 11.11.2020 para pagar o valor de R$ R$ 88.003,44 no prazo de 48 (quarenta e oito) horas.
+    Dentro do prazo legal (48 horas), a empresa requereu ao Exmo. Sr. Juiz Titular da 3ª Vara do Trabalho da Cidade Olinda, a SUSPENSÃO DA EXECUÇÃO com base na decisão proferida em 29 de junho de 2020 pelo Excelso Pretório, nos autos das ADC nºs 58 e 59, da lavra do Exmo. Sr. Dr. Ministro Gilmar Mendes, nas quais se discutem “se os valores devidos deverão ser corrigidos pela Taxa de Referencia (TR) ou pelo Índice Nacional de Preços ao Consumidor (IPCA-E)”, ficando, assim sobrestada a execução até o julgamento do mérito das Ações.
+    Com efeito, o Exmo. Sr. Dr. Ministro Gilmar Mendes deferiu a liminar e determinou a suspensão de todos os processos em curso na Justiça do Trabalho, que envolvam discussão sobre índice que correção a ser aplicado nos débitos trabalhistas.
+    A controvérsia gira em torno da aplicação da Taxa Referencial - TR ou do Índice Nacional de Preços ao Consumidor Amplo – IPCA.
+    (...)
+    Em decisão publicada no D.J.PE do dia 17.11.2020, o Exmo. Dr. Roberto de Freire Bastos, Juiz titular da 3ª Vara do Trabalho de Olinda-PE, INDEFERIU O PEDIDO DE SUSPENSÃO DA EXECUÇÃO, requerido pela UNIVERSO EMPREENDIMENTOS LTDA
+    (...)
+    Essa decisão afronta a liminar proferida nas mencionadas Ações nº 58 e 59 desta Excelsa Corte, que determina a suspensão das execuções em âmbito nacional até a decisão final das referidas ADC.
+    Ao final, requer a a suspensão e o sobrestamento da execução, até o julgamento do mérito, do processo nº 0001447-56.2016.5.06.0103, em total obediência a decisão deste Supremo Tribunal Federal, sendo notificada a 3ª Vara de Olinda-PE para a suspensão imediata e por ser de direito e de legítima justiça. (fl. 5).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Inicialmente, registro que a presente Reclamação foi protocolada nesta CORTE, em 20/11/2020. Desse modo, é inaplicável, ao caso sob exame, o art. 988, § 5º, inciso I, do CPC, assimilação, pelo novo código processual, de antigo entendimento do STF, enunciado na Súmula 734 (Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal), uma vez que, segundo informações obtidas no sítio eletrônico do Tribunal Regional do Trabalho da 6ª Região, os autos, nos quais foi proferido o ato ora impugnado, encontram-se conclusos para despacho.
+    O parâmetro de confronto invocado é o decidido nos autos das ADC 58 e 59 (Rel. Min. GILMAR MENDES), em que se deferiu, em decisão publicada em 1º/7/2020, medida cautelar para determinar a suspensão do julgamento de todos os processos em curso no âmbito da Justiça do Trabalho que envolvam a aplicação dos artigos arts. 879, §7, e 899, § 4º, da CLT, com a redação dada pela Lei nº 13.467/2017, e o art. 39, caput e § 1º, da Lei 8.177/91. A título de explicitação, tais dispositivos, tratam da correção monetária a ser aplicada nas sentenças exequendas no âmbito da Justiça Trabalhista.
+    Na presente hipótese, não assiste razão à parte reclamante, uma vez que não se constata, ao teor do ato reclamado, nenhuma ofensa aos parâmetros de controle invocados.
+    Instado a se manifestar sobre o ponto, o Juízo reclamado indeferiu o pedido de suspensão do processo, pelos seguintes fundamentos (doc. 9, fl. 2):
+    Indefiro o pedido de suspensão da execução constante da petição retro, em observância ao Princípio da Celeridade Processual, frisando que numa futura liberação de valores ao autor será liberado apenas o valor principal, sem as correções, as quais só serão apuradas após o julgamento no STF (grifo nosso).
+    Irrepreensível, portanto, a decisão do Juízo ora impugnado. Isso porque, o Ministro Relator, em decisão publicada em 6/7/2020, delimitou o alcance da decisão de suspensão nacional dos processos proferida nas referidas Ações Diretas e estabeleceu que: a medida cautelar deferida na decisão agravada não impede o regular andamento de processos judiciais, tampouco a produção de atos de execução, adjudicação e transferência patrimonial no que diz respeito à parcela do valor das condenações que se afigura incontroversa pela aplicação de qualquer dos dois índices de correção. (grifo nosso).
+    Nessas circunstâncias, em que o ato impugnado determinou a continuidade do processo executório, somente em relação ao montante principal, ou seja, valor incontroverso, não há qualquer desrespeito ao decidido nos paradigmas indicados. É, portanto, inviável a presente reclamação.
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Por fim, alerto à parte reclamante que uma eventual interposição de recurso está condicionada à regularização de sua representação processual.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 24 de novembro de 2020.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
