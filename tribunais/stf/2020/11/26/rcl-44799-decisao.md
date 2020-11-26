@@ -1,0 +1,38 @@
+RECLAMAÇÃO CONSTITUCIONAL. AGRAVO EM RECURSO EXTRAORDINÁRIO. ART. 1.042 DO CPC. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. SEGUIMENTO NEGADO.
+    Vistos etc.
+    1. Trata-se de Reclamação proposta por Ivan de Oliveira Baptista, com fundamento no art. 988, inciso I, do Código de Processo Civil e no art. 102, I, “l”, da Constituição da República, contra decisão da Corte Especial do Superior Tribunal de Justiça nos autos do Agravo em RE no RE no Agravo Interno no Agravo em Recurso Especial n° 1.560.955, à alegação de usurpação de competência desta Suprema Corte, em razão do não encaminhamento de agravo em recurso extraordinário para este Supremo Tribunal Federal.
+    O reclamante reporta não admitido seu recurso extraordinário no âmbito do Superior Tribunal de Justiça. Contra essa decisão, noticia interposto agravo do art. 1.042 do CPC, o qual não foi conhecido pela Corte reclamada.
+    Alega ser da competência do Supremo Tribunal Federal o julgamento de agravo interposto contra a inadmissão de recurso extraordinário, cabendo ao juízo de origem apenas a remessa do recurso a esta Corte.
+    Requer seja julgada procedente a presente reclamação a fim de garantir a competência deste STF para o julgamento do agravo em recurso extraordinário.
+    2. Deixo de citar a parte beneficiária do ato judicial reclamado, em razão da manifesta improcedência do pedido. Igualmente, dispenso a intimação da autoridade reclamada para prestar informações, bem como do Procurador-Geral da República para ofertar parecer, por tratar a demanda de matéria repetitiva.
+    É o relatório.
+    Decido.
+    1. Defiro o benefício da justiça gratuita ao reclamante. À luz dos arts. 98 e 99, §§ 2º e 3º, do Código de Processo Civil, o direito das pessoas físicas à gratuidade de justiça se dá mediante simples afirmação da insuficiência de recursos para pagar as custas e as despesas do processo, sem prejuízo do sustento próprio ou de sua família.
+    A dicção do Código de Processo Civil abraçou a jurisprudência firmada por esta Suprema Corte segundo a qual, observado o cenário processual, há presunção de veracidade da alegação de insuficiência de recursos das pessoas físicas, bastando-lhes a mera declaração da ausência de condições econômicas para arcar com os gastos do processo judicial para obtenção do benefício, ressalvada, todavia, eventual responsabilidade civil e criminal pela inverdade das alegações. Precedentes: Rcl 31713 AgR-ED-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 10.6.2019; RE 245.646-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 13.02.2009.
+    2. Ao exame dos autos, verifico que a autoridade reclamada não conheceu do agravo em recurso especial manejado pelo reclamante, ao entendimento de que não houve impugnação específica de todos os fundamentos da decisão denegatória de admissibilidade do apelo, em especial, a aplicação da Sumula 284/STF, tendo em vista falta de indicação do dispositivo legal tido por violado.
+    Manejado recurso extraordinário, a Corte Superior de Justiça negou-lhe seguimento, à consideração de que incide, na hipótese, o entendimento firmado no julgamento do (i) RE 598.365 RG/MG, Tema 181 da Repercussão Geral, segundo o qual a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral"; e do (ii) RE 956.302/GO, Tema 895, também julgado sob o regime de repercussão geral, no qual acolhida a tese de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral"
+    3. Na sequência, a Corte reclamada não conheceu do agravo em recurso extraordinário interposto pelo reclamante para questionar a aplicação do entendimento firmado nos Temas 895 e 181/STF, considerado o erro grosseiro na interposição do agravo do art. 1.042 do CPC, em substituição do agravo do art. 1.030, §2° do CPC, consoante se denota da decisão objeto da reclamação:
+    “(...)
+    Insiste o agravante que seu recurso extraordinário tem repercussão geral e que merece ser alçado ao Supremo Tribunal Federal.
+    Aduz que os Temas 895 e 181/STF não se aplicam ao caso em análise, sob o argumento de que houve violação direta à Constituição Federal, consubstanciada na ofensa aos seus arts. 5º, inciso XXXV, e 37, inciso II, e assevera que todos os pressupostos exigidos para a admissão do recurso extraordinário encontram-se preenchidos.
+    Foram apresentadas as contrarrazões (e- STJ fls. 1.261-1271).
+    É o relatório.
+    (...)
+    Nos termos do art. 1.030, § 2º, do Código de Processo Civil, contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral, cabe agravo interno e não agravo em recurso extraordinário para o Supremo Tribunal Federal.
+    (…)
+    Ademais, pacificou-se nos Tribunais Superiores o entendimento de que a interposição do recurso incorreto contra a decisão que nega seguimento ao recurso extraordinário configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade. Nessa esteira tem decidido esta Corte Superior de Justiça:
+    (...)
+    Por fim, tratando-se de recurso manifestamente incabível, não há suspensão ou interrupção do prazo para a interposição de novas insurgências.
+    Ante o exposto, não se conhece do agravo em recurso extraordinário.
+    Certifique-se o trânsito em julgado da decisão que negou seguimento ao recurso extraordinário, com a consequente baixa dos autos.
+    (...)”
+    4. Com relação à modalidade recursal cabível em face de decisões tomadas por vice-presidente de Tribunais, no juízo de admissibilidade de recurso extraordinário com fundamento em precedente de repercussão geral, cabem alguns esclarecimentos.
+    5. No julgamento da Questão de Ordem no AI 760.358, bem como nas Reclamações 7.569 e 7.547, este Pretório Excelso firmou a orientação de que incabível o agravo de instrumento previsto no art. 544 do CPC/73 contra decisão que, considerada a negativa de repercussão geral firmada no âmbito desta Suprema Corte, indefere o processamento do apelo extremo. Contra decisão desse teor reputa-se admissível apenas agravo interno no âmbito do próprio Tribunal a quo.
+    6. O CPC/2015, por sua vez, passou a prever, no art. 1.030, § 2º, o cabimento do agravo interno na hipótese em que negado seguimento a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral.
+    7. Já o art. 1.042 do CPC/2015 excetua, das hipóteses de cabimento do agravo dirigido a esta Suprema Corte, aquele interposto contra decisão do presidente ou do vice-presidente do tribunal recorrido que não admite o apelo extremo, quando fundada, a inadmissão, na aplicação de entendimento firmado em regime de repercussão geral.
+    8. Nessa perspectiva, o ato decisório reclamado está em conformidade com a sistemática recursal estabelecida no Código de Processo Civil de 2015, no sentido de não ser cabível a interposição do agravo em recurso extraordinário, quando o Tribunal a quo aplica o instituto da repercussão geral, não havendo, portanto, que se falar em usurpação da competência desta Suprema Corte no caso em exame.
+    9. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 26 de novembro de 2020.
+Ministra Rosa Weber
+Relatora
