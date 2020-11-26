@@ -1,0 +1,17 @@
+Decisão: Trata-se de Petição nº 97.018/2020 (eDOC 86) formulada em 12.11.2020 (eDOC 92) pelo ora Embargante, na qual se manifesta pela impossibilidade de execução antecipada do julgado.
+    Sustenta o Peticionário que os requerimentos do Partido Social Cristão/PSC – Diretório Municipal de Sousa/PB, na petição de assistência simples (eDOC 76) e do Ministério Público do Estado da Paraíba, nas contrarrazões ao recurso (eDOC 84), de certificação do trânsito em julgado e de baixa dos autos, independentemente da respectiva publicação, não merecem prosperar, “pois ainda há Recurso Extraordinário sobrestado na origem por tese que teve repercussão geral reconhecida. Além disso, há outros argumentos que sequer foram analisados quando do exame da admissibilidade” (eDOC 86, p. 3), referindo-se ao Tema 576, cujo paradigma é o ARE 683.235-RG. Para tanto, junta aos autos documentos e andamento processual (eDOCs 87 a 91).
+    É o relatório.
+    Com efeito, na hipótese em análise, em que pese a existência de recurso extraordinário sobrestado na origem, em face do reconhecimento da existência da repercussão geral da questão constitucional nele discutida (Tema 576), tal decisão não influenciará no desfecho do julgamento a ser proferido nestes autos nos embargos de declaração no agravo regimental nos embargos de divergência.
+    No caso, foi negado provimento ao apelo extremo, tendo em vista a preclusão da matéria constitucional suscitada no recurso interposto contra o acórdão do Superior Tribunal de Justiça, amparado na jurisprudência desta Corte que possui entendimento pacificado no sentido de que somente se revela admissível o extraordinário em face de acórdão prolatado em recurso especial se a questão constitucional objeto do último recurso for diversa da resolvida pela instância ordinária, o que não ocorre nestes autos.
+    Registro que tal decisão foi confirmada pelos acórdãos proferidos pela Segunda Turma desta Corte.
+    Por outro lado, o Plenário desta Suprema Corte, ao analisar o ARE 683.235-RG, de relatoria do Ministro Teori Zavascki, convertido no RE 976.566-RG, de relatoria do Min. Alexandre de Moraes (Tema 576), reconheceu a repercussão geral da questão versada nos presentes autos, referente à possibilidade de processamento e julgamento de prefeitos por atos de improbidade administrativa, com fundamento na Lei 8.429/1992. No mérito, fixou a seguinte tese:
+    “TESE DE REPERCUSÃO GERAL: ‘O processo e julgamento de prefeito municipal por crime de responsabilidade (Decreto-lei 201/67) não impede sua responsabilização por atos de improbidade administrativa previstos na Lei 8.429/1992, em virtude da autonomia das instâncias’” (RE 976.566-RG, Rel. Min. Alexandre de Moraes, Plenário, DJe 26.09.2019)
+    Com efeito, a competência para a aplicação da sistemática da repercussão geral é dos tribunais de origem, sob pena de se inutilizar o próprio instituto da repercussão.
+    Assim, considerando que o STF já decidiu definitivamente sobre a matéria suscitada, caberá ao Tribunal de Justiça do Estado da Paraíba proceder a novo juízo de admissibilidade, observando o entendimento do STF já fixado em repercussão geral.
+    Ressalto, por fim, que eventual discordância com a decisão do Tribunal de origem deverá ser impugnada no momento oportuno pelos meios cabíveis, inclusive quanto a eventual pretensão de execução provisória do julgado.
+    Ante o exposto, indefiro o pedido.
+    Publique-se.
+    Brasília, 26 de novembro de 2020
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
