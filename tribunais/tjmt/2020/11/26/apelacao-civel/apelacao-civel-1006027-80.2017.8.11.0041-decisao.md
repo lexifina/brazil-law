@@ -1,0 +1,80 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1006027-80.2017.8.11.0041
+RECORRENTE: ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S/A
+RECORRIDO: TÓKIO MARINE SEGURADORA S.A.
+Vistos, etc.
+Trata-se de Recurso Especial (id 63791997) interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S/A com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado assim ementado (id 59941472):
+“APELAÇÃO CÍVEL – AÇÃO DE RESSARCIMENTO – CONCESSIONÁRIA DE ENERGIA ELÉTRICA – PRELIMINAR DE INADMISSIBILIDADE DO RECURSO REJEITADA – PRELIMINAR DE CERCEAMENTO DE DEFESAREJEITADA – DANIFICAÇÃO DE EQUIPAMENTOS ELETROELETRÔNICOS – FALHA NA PRESTAÇÃO DO SERVIÇO – DANOS MATERIAIS RESSARCIDOS POR SEGURADORA – AÇÃO REGRESSIVA CONTRA A CONCESSIONÁRIA DE ENERGIA ELÉTRICA PARA OBTER O RESSARCIMENTO DO VALOR INDENIZATÓRIO PAGO AO SEGURADO – POSSIBILIDADE – INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR – RESPONSABILIDADE OBJETIVA – DANOS COMPROVADOS - SUB-ROGAÇÃO – SÚMULA 188 DO STF – CONDENAÇÃO DA CONCESSIONÁRIA – JUROS DE MORA E CORREÇÃO MONETÁRIA– INCIDÊNCIA A PARTIR DO EFETIVO DESEMBOLSO DA INDENIZAÇÃO SECURITÁRIA – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+1. Apontada satisfatoriamente a razão da irresignação pela parte recorrente, deve ser rejeitada a preliminar de inadmissibilidade do recurso por suposta ausência de combate aos fundamentos da sentença.
+2. Não há falar em cerceamento de defesa, já que o magistrado é o destinatário da prova, competindo a ele exercer juízo acerca da imprescindibilidade das provas pleiteadas, nos termos do art. 370 do CPC.
+3. Não há exigência de que seja esgotada a via administrativa para só então, o segurado iniciar a abertura do sinistro junto a seguradora.
+4. A responsabilidade das concessionárias de energia elétrica é objetiva, ou seja, independe de culpa, bastando a comprovação do prejuízo e do nexo de causalidade entre a ação (comissiva ou omissiva) e o dano.
+5. Aplica-se o CDC nos casos em que a seguradora é considerada consumidora por sub-rogação, exercendo direitos, privilégios e garantias do seu segurado/consumidor (REsp No 1.321.739 – SP).
+6. A seguradora pode buscar os valores que desembolsou, por via de ação regressiva contra o causador do ato ilícito, nos limites da sub-rogação.
+7. Se a Seguradora junta laudos técnicos confeccionados pelo beneficiário, os quais atestam como causa dos danos nos aparelhos eletroeletrônicos, a ocorrência de oscilações na tensão da rede elétrica em sua unidade consumidora, e a Concessionária nada positiva nos autos para excluir ou atenuar a eficácia probatória dos elementos ofertados, deve ser mantida a sentença de procedência do pedido de ressarcimento regressivo fundado na liquidação do contrato de seguro.
+8. Em ação regressiva ajuizada pela seguradora contra o causador do sinistro, considera-se como termo inicial da correção monetária e dos juros de mora, a data do desembolso. Precedentes do STJ”. (N.U 1006027-80.2017.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, JOAO FERREIRA FILHO, Primeira Câmara de Direito Privado, Julgado em 29/09/2020, Publicado no DJE 05/10/2020).
+O presente recurso foi interposto contra o aresto que, em sede de Apelação proposta pela ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., manteve a sentença prolatada pelo MM. Juiz de Direito da 3a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação de “Ressarcimento” (Número Único 1006027-80.2017.8.11.0041), ajuizada contra a apelante por TOKIO MARINE SEGURADORA S.A., julgou procedente o pedido para condenar a ré/apelante ao pagamento de R$ 10.360,00, acrescidos de juros legais de 1% ao mês e correção monetária pelo INPC desde o desembolso, a título de ressarcimento do valor indenizatório pego pela Seguradora ao segurado Condomínio Edifício Amethyst, em razão de danificação de equipamentos/componentes dos elevadores instalados na unidade consumidora segurada por causa de oscilações da tensão na rede elétrica. A sentença ainda impôs à ré/apelante o pagamento das custas processuais e honorários advocatícios, estes fixados em 15% sobre o valor da condenação (id 54352998 e id 54353009).
+A Recorrente alega inobservância dos artigos 204 e 210, parágrafo único, II, da Resolução Normativa n. 414/2010, da ANEEL, ao argumento de que “(...) para a responsabilização da concessionária, imprescindível a comprovação do nexo de causalidade, razão pela qual cabe ao usuário apresentar o equipamento danificado para análise através dos técnicos da Recorrente (...)”.
+A Recorrente alega violação aos artigos 186, 393 e 927, do Código Civil; porquanto a Constituição Federal de 1988 não adotou a teoria do risco integral, admitindo-se, portanto, causas excludentes da responsabilidade, não tendo sido oportunizado o contraditório ou a ampla defesa, ao lhe ser tolhido o direito que lhe é assegurado pela Resolução Normativa n.414/2010 da Agência Nacional de Energia Elétrica, para averiguação pericial dos equipamentos supostamente danificados, com vistas à precisa análise do objeto ensejador de sua responsabilização civil, a fim de constatação do dano, sua causa e nexo de causalidade entre tais elementos.
+Argui contrariedade aos artigos 373, I do Código de Processo Civil; e 6o, VII, do Código de Defesa do Consumidor, ao argumento de que “(...) flagrante é a violação aos dispositivos processuais relativos à distribuição do ônus da prova, eis que a decisão recorrida olvida o fato de que a recorrida não ocupa posição vulnerável ou hipossuficiente na relação discutida nos autos, sendo, portanto, inamissível desonerá-la de seu ônus probante, vez que possui capacidade econômica e técnica capaz de subsidiar a atividade probatória”.
+Recurso tempestivo (id 64031954).
+Contrarrazões no id 67650473.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 186, 393 e 927, do Código Civil; e artigos 204 e 210, parágrafo único, II, da Resolução Normativa n. 414/2010, da ANEEL, está amparada na assertiva de que teria havido cerceamento de defesa em razão do indeferimento de prova pericial dos equipamentos supostamente danificados, com vistas à precisa análise do objeto ensejador de sua responsabilização civil.
+No entanto, decidiu-se no aresto ora impugnado que “não há falar em cerceamento de defesa, já que o magistrado é o destinatário da prova, competindo a ele exercer juízo acerca da imprescindibilidade das provas pleiteadas, nos termos do art. 370 do CPC; no caso dos autos, a prova pericial pretendida pela Concessionária consistia na análise do local e do s equipamentos apontados na inicial como danificados, sendo que eventual perícia seria inócua , na medida em que os fatos ocorreram no ano de 2016 e os equipamentos queimados com a oscilação já foram substituídos pelo segurado”. (id 59941472 - p. 4)
+Logo, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO APENAS PARA MODIFICAR O TERMO INICIAL DOS OUROS DE MORA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Cabe ao juiz, como destinatário final das provas, avaliar e deferir a produção probatória que considerar necessária à formação do seu convencimento, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias sem que implique em cerceamento de defesa.
+2. Observa-se que o Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu pela presença dos requisitos ensejadores da responsabilidade civil da ora agravante. A alteração de tal entendimento, como pretendida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. A revisão por esta Corte do montante fixado pelas Instâncias ordinárias a título de dano moral, exige que o valor tenha sido arbitrado de forma irrisória ou exorbitante, circunstância que não se verifica no caso concreto. A condenação cooperativa por dano moral em R$ 200.000,00 (duzentos mil reais), tendo em vista a omissão no atendimento que resultou em óbito do paciente, não se encontra fora dos padrões de razoabilidade e proporcionalidade.
+4. Agravo interno desprovido”. (AgInt no AREsp 1311795/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020).
+Por outro lado, a Recorrente afirma, ainda, que “(...) para configuração da responsabilidade civil da Recorrente que, no presente caso, mostra -se subjetiva, é indispensável a caracterização do elemento da culpa, nos termos do art. 186 e 927 do Código Civil”. (id 57197497 - p. 8)
+Neste ponto, igualmente é necessário o exame das provas dos autos, pois restou consignado no acórdão recorrido, in verbis:
+“Na espécie, verifica-se que acompanharam a peça inicial os Contratos dos Seguros, Avisos dos Sinistros, Laudos Técnicos e Relatórios de Vistorias com fotos, Orçamentos e os comprovantes de pagamentos aos segurados (Id n o 49741078 e 49741088).
+Sendo assim, tais documentos corroboram com a tese trazida na exordial, quanto aos danos ocorridos nos bens nas empresas dos segurados da apelada. Ademais, os laudos técnicos foram elaborados por empresas capacitadas e indicam que a queima dos equipamentos se deram em virtude da sobrecarga de energia elétrica e, portanto, merecem serem considerados válidos”. (id 54206986 –p. 6)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a Recorrente alega que a Recorrida não ocupa posição vulnerável ou hipossuficiente na relação discutida nos autos, de modo que não há falar em inversão do ônus da prova, pois possui capacidade econômica e técnica capaz de subsidiar a atividade probatória.
+Quanto a esse ponto, ficou decidido no acórdão objurgado ficou que a Seguradora, ora Recorrida, na condição de sub-rogada, é considerada consumidora, visto que adquirente de todos os direitos do segurado no que diz respeito àquele que provocou o dano. (59941472 - p. 5)
+Salientou-se, ainda, no aresto recorrido que a sub-rogação consiste na transferência dos direitos do credor para o terceiro que resgatar a obrigação, ficando este como novo credor, e desaparece o vínculo jurídico do antecessor, conforme o artigo 786 do Código Civil. (59941472 - p. 6)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA DAR PROVIMENTO AO APELO EXTREMO MANEJADO PELA SEGURADORA. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Esta Corte Superior firmou posicionamento no sentido de que, ao pagar a indenização ao segurado, a seguradora sub-roga-se nos direitos daquele, conferindo-lhe, inclusive, o prazo prescricional aplicável à relação originária. Precedentes.
+2. Agravo interno desprovido”. (AgInt no AREsp 1305024/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/04/2019, DJe 05/04/2019).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 373, I do CPC; e 6o, VII, do CPC, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 25 de novembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+VII
