@@ -1,0 +1,24 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – PRECEDENTE – PLENO – RESSALVA DE ENTENDIMENTO PESSOAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo do Tribunal do Júri de Brasília, no processo nº 0724716-17.2019.8.07.0001, converteu em preventiva a prisão temporária do paciente, ocorrida em 1º de agosto de 2019, ante o crime do artigo 121, § 2º, incisos II e IV (homicídio qualificado por motivo fútil e recurso que dificultou a defesa da vítima), do Código Penal. Assentou materialidade e indícios de autoria, ressaltando depoimento de testemunhas. Destacou a tentativa de fuga quando do cumprimento do mandado de prisão temporária. Concluiu indispensável a custódia para garantir a ordem pública e a aplicação da lei penal.
+    Em 12 de maio de 2020, pronunciou-o. Indeferiu pedido de revogação da prisão, realçando permanecerem os motivos que a ensejaram.
+    No Superior Tribunal de Justiça, o Relator desproveu o recurso em habeas corpus nº 131.851/DF. A Quinta Turma negou provimento a agravo interno.
+    Os impetrantes sustentam a insubsistência dos fundamentos do ato que implicou a custódia, dizendo-o lastreado na gravidade abstrata do crime. Apontam violado o artigo 316, parágrafo único, do Código de Processo Penal, ausente decisão, nos últimos 90 dias, sobre a necessidade de manutenção da prisão preventiva.
+    Requerem, no campo precário e efêmero, o afastamento. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça do Distrito Federal e dos Territórios, em 26 de novembro de 2020, revelou haver a Terceira Turma Criminal desprovido recurso em sentido estrito formalizado pela defesa.
+    2. A análise do pronunciamento por meio do qual determinada a prisão preventiva revela haver sido considerada a imputação. Inexiste a custódia automática, observado o crime supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, ante o princípio constitucional da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A materialidade do crime e os indícios de autoria são elementos neutros, insuficientes a respaldarem o argumento relacionado à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor, devendo a prisão basear-se no artigo 312 do Código de Processo Penal. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. Fora isso, é a suposição do excepcional, do extravagante, o que não a justifica. A problemática atinente à fuga tem solução no artigo 366 do diploma legal. Ainda que, citado por edital, o acusado não constitua defesa técnica, as consequências são a suspensão do processo e do prazo prescricional. Tem-se a insubsistência das premissas lançadas.
+    O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação, por meio de ato fundamentado.
+    Apresentada motivação suficiente à manutenção da medida, desde que observado o período de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal. Eis o teor do dispositivo:
+    […]
+    Parágrafo único. Decretada a prisão preventiva, deverá o órgão emissor da decisão revisar a necessidade de sua manutenção a cada 90 (noventa) dias, mediante decisão fundamentada, de ofício, sob pena de tornar a prisão ilegal.
+    […]
+    Nada obstante versar a norma a ilegalidade da custódia ausente pronunciamento judicial considerados os 90 dias, o Pleno, em 15 de outubro de 2020, ao apreciar a suspensão de liminar nº 1.395, firmou entendimento segundo o qual a inobservância do prazo não implica revogação automática da prisão preventiva, devendo o Juízo competente ser instado a manifestar-se sobre a manutenção, ou não, da medida. Fiquei vencido. Ante a decisão, ressalvada óptica pessoal em sentido diverso, descabe afastar, no campo precário e efêmero, a custódia. Deixo para tornar efetiva a compreensão sobre o tema por ocasião do julgamento em colegiado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja preso por motivo diverso da custódia preventiva, formalizada no processo nº 0724716-17.2019.8.07.0001, do Tribunal do Júri de Brasília. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 26 de novembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
