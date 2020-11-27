@@ -1,0 +1,24 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL N. 0005660-15.2016.8.11.0007
+RECORRENTE: ASIEL BEZERRA DE ARAÚJO
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 65923958), com pedido de efeito suspensivo, interposto por ASIEL BEZERRA DE ARAÚJO, com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Público e Coletivo deste Sodalício, assim ementado (Id. 57537979):
+“TRIBUTÁRIO E PROCESSUAL CIVIL – EMBARGOS DE TERCEIRO – FRAUDE À EXECUÇÃO FISCAL – ALIENAÇÃO ANTERIOR À ALTERAÇÃO DO ART. 185 DO CTN REALIZADA PELA LC 118/2005 – VÍCIO CONFIGURADO – PRESUNÇÃO ABSOLUTA DE NULIDADE – NECESSIDADE DE COMPROVAÇÃO APENAS DA CITAÇÃO VÁLIDA DO DEVEDOR – TESE FIRMADA NO TEMA 290 DO STJ – AVERBAÇÃO DA PENHORA EM DATA ULTERIOR À COMPRA DO BEM IMÓVEL – IRRELEVÂNCIA – INAPLICABILIDADE DA SÚMULA 375 DO STJ – INVERSÃO DO ÔNUS DE SUCUMBÊNCIA – HONORÁRIOS MAJORADOS – SENTENÇA REFORMADA – RECURSO PROVIDO. No julgamento do REsp 1.141.990/PR, submetido ao rito dos recursos repetitivos (art. 543-C do CPC/1973), o STJ além de declarar a inaplicabilidade da Súmula 375, firmou entendimento de que: “b) a alienação engendrada até 08.06.2005 exige que tenha havido prévia citação no processo judicial para caracterizar a fraude de execução; se o ato translativo foi praticado a partir de 09.06.2005, data de início da vigência da Lei Complementar n.o 118/2005, basta a efetivação da inscrição em dívida ativa para a configuração da figura da fraude"; (REsp No 1876311/RS, Rel. Ministro HERMAN BENJAMIN, DECISÃO MONOCRÁTICA – DJe de 31/08/2020). Segundo o Tema no 290, há presunção absoluta de fraude à execução quando a alienação de bens é efetivada após a devida citação do devedor - art. 185 do CTN (redação anterior a 2005), sendo desnecessária, portanto, a discussão acerca da boa-fé ou não do adquirente. Assim, não se aplica ao caso o enunciado da Súmula no 375 do STJ. Da mesma forma, em respeito ao princípio da especialidade, não há como aproveitar o disposto no art. 792, II, do CPC. Como a alienação do bem imóvel se deu quase 02 (dois) anos após a citação válida do devedor, é de se reconhecer a fraude à execução em detrimento da Fazenda Pública Estadual. Sentença Reformada. Recurso Provido.” (Ap. 0005660-15.2016.8.11.0007, DR. MARCIO APARECIDO GUEDES, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 07/10/2020)
+Alega violação ao art. 792, §§2° e 3°, do CPC, ao argumento de que o imóvel foi transferido em 01/11/1996, em data anterior ao registro da penhora e à edição da Lei Complementar n. 118/2005, e de que comprovou sua aquisição de boa-fé.
+Requer, ainda, a atribuição de efeito suspensivo ao recurso, nos termos do art. 1.029, §5°, do CPC, “tendo em vista que, conforme demonstrado, imediatamente a recorrida levará o imóvel penhorado à praça, sendo que existe ainda tramitando os Embargos de Terceiro, que está em fase de recurso de apelação neste E. Tribunal de Justiça (autos de origem 5661-97.2016.811.007-código 145023- 6o Vara Cível desta comarca de Alta Floresta) . Ressalta ainda, que existem outros processos de execução fiscal, com trânsito em julgado, proposto pela União, que consideraram o recorrente possuidor de boa fé. Ainda não pairam dúvidas, portanto, da eminente possibilidade de que o recorrente e sua família fiquem sem abrigo na hipótese de o imóvel residencial ser efetivamente leiloado”. (Id. 65923958)
+É a síntese.
+Decido.
+Nos termos do art. 995, parágrafo único, c/c art. 1.029, § 5o, do CPC, “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) dano grave de difícil ou impossível reparação.
+In casu, em uma análise sumária do feito, verifica-se que o exame da suposta violação ao art. 792, §§2° e 3° do CPC, fundada na tese de que o imóvel foi adquirido de boa-fé e de que sua transferência ocorreu em data anterior ao registro da penhora e à edição da Lei Complementar n. 118/2005, exige o revolvimento do conjunto fático-probatório dos autos, providência vedada em sede de Recurso Especial, fato que atesta contra a probabilidade de provimento do recurso.
+Dessa forma, por entender que não se encontram presentes os requisitos previstos no art. 995, parágrafo único do CPC, indefiro o pedido de atribuição de efeito suspensivo ao recurso.
+Intimem-se o Parquet para, querendo, apresentar contrarrazões ao recurso, no prazo legal.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 25 de novembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
