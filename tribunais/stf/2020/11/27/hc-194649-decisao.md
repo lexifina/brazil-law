@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Luis Felipe Alves Faria, apontando como autoridade coatora o Ministro Humberto Martins, Presidente do Superior Tribunal de Justiça, que indeferiu liminarmente o HC nº 628.144/SP.
+    Consta nos autos ter sido o paciente preso em flagrante pela prática do crime de tráfico (art. 33, caput, da Lei 11343/06) por manter em depósito 13 (treze) porções de crack, pesando 1,3 gramas, e 01 (uma) porção de maconha, pesando 2,2 gramas, além de R$ 410,65 (quatrocentos e dez reais e sessenta e cinco centavos).
+    A prisão em flagrante foi convertida em prisão preventiva posteriormente.
+    A defesa afirma encontrar-se o paciente submetido a constrangimento ilegal, na medida em que o decreto prisional seria desprovido de fundamentação idônea, apta a justificar a sua necessidade.
+    Nesse sentido argumenta que a quantidade de drogas apreendida é “ínfima”.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva do paciente, fixando-se medidas cautelares diversas da prisão.
+    Examinados os autos, decido.
+    Não se trata, na espécie, de decisão indeferindo pretensão liminar, mas de decisão segundo a qual o eminente Ministro Humberto Martins indeferiu liminarmente a inicial do HC nº 628.144/SP, uma vez que questionava decisão indeferitória de liminar no Tribunal de Justiça de São Paulo.
+    Logo, as questões submetidas à discussão do Superior Tribunal Justiça e reiteradas neste habeas corpus não teriam sido objeto de análise definitiva por parte daquele Tribunal de Justiça estadual. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inegável dupla supressão de instância, não admissível.
+    Segundo a pacífica jurisprudência da Corte,
+    “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão de Relator que, em HC requerido a Tribunal Superior, indefere liminarmente o pedido com supedâneo na Súmula 691 desta Corte. Essa circunstância impede o exame da matéria por este Tribunal, sob pena de se incorrer em dupla supressão de instância, com evidente extravasamento dos limites da competência descritos no art. 102 da Carta Magna” (HC nº 117.761/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/10/13).
+    Perfilhando esse entendimento: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ademais, vale registrar que a impetração volta-se contra decisão singular proferida nos autos do HC nº 628.144/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Por fim, anoto, para fins de registro, que, ao justificar a conversão da prisão em flagrante em prisão preventiva do paciente, consignou o Juízo de Direito da Vara Única da Comarca de Morro Agudo/SP que
+    “[s]egundo os agentes, durante operação de combate ao tráfico de entorpecentes nesta comarca, a autoridade policial cumpridora do mandado de busca e apreensão expedido nos autos 1500545-43.2020.8.26.0374, deste juízo, para o qual houve necessidade de arrombamento do portal residencial, localizou os entorpecentes e a quantia de dinheiro descritos no auto de exibição e apreensão que instrui nestes autos, em porções individualizadas, situação comum ao comércio ilegal de entorpecentes, tudo convergindo para a existência de indícios veementes de materialidade, subsumindo o caso às hipóteses previstas no art. 302, do CPP. Foram observadas, ainda, todas as formalidades previstas no art. 304 e seguintes do CPP, sobretudo a entrega das notas de culpa.
+    Nota-se, ainda, que o atuado é reincidente específico, já tendo sido condenado em duas outras oportunidades pelo crime de tráfico de drogas, bem como pelo crime de posse de arma de fogo, este último, no ano de 2019 (fls. 92/93).
+    Desse modo, a prisão preventiva do autuado se justifica para a garantia da ordem pública, uma vez que devidamente evidenciado que se ele se dedica a atividades criminosas.
+    Ante o exposto, lastreado no art. 312, “caput”, e no art. 313, inciso I, ambos do CPP, CONVERTO a prisão em flagrante de LUIS FELIPE ALVES FARIA em PRISÃO PREVENTIVA, expedindo-se os correspondentes mandados de prisão. ” (doc. 3 – grifos nossos)
+    Vê-se, portanto, que a conversão e a manutenção da prisão está amparada na reincidência específica do paciente em crimes de tráfico de drogas e de posse de arma de fogo, ainda que a quantidade de droga apreendida não impressione.
+    Com efeito, a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva, mesmo mesmo que a quantidade de droga apreendida não seja expressiva (v.g. HC nº 178.128/SP, Relator o Ministro Roberto Barroso, DJe de 20/11/19).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de novembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
