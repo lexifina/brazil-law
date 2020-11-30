@@ -1,0 +1,54 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1000998-02.2018.8.11.0013
+Vistos etc.
+Cuida-se de Recurso de Apelação interposto por SEGURADORA LÍDER DOS CONSÓRCIOS DO SEGURO DPVAT S.A. em face da sentença proferida pelo Juiz da 1.a Vara Cível da Comarca de Pontes e Lacerda, que julgou procedente o pedido formulado por S. V. S. G., representada por sua genitora e, também Autora, Thainá Almeida Silva, na Ação de Cobrança de Seguro DPVAT.
+O Julgador singular condenou a Apelante ao pagamento de R$ 13.500,00 (treze mil e quinhentos reais) acrescidos de juros legais de 1% (um por cento) ao mês e correção monetária de acordo com o INPC, contados a partir da data da citação.
+E, ainda, ao pagamento dos honorários advocatícios fixados em 10% (dez por cento) do valor atualizado da causa, nos termos do art. 85, § 2.o do CPC.
+Em suas razões recursais, a Apelante alega que o óbito do Sr. Elieby Beserra Garrio não foi em decorrência de acidente de trânsito, mas de acidente envolvendo maquinário agrícola (trator), o que afasta a cobertura securitária.
+Defende, com isso, a falta de comprovação do nexo causal entre a lesão apontada e a morte noticiada.
+Sob esses argumentos, pugna pela improcedência dos pedidos e, na oportunidade, prequestiona a matéria.
+Contrarrazões sob o ID. 60872993.
+A douta Procuradoria Geral de Justiça manifestou-se pelo desprovimento de recurso (Id. 66190472).
+Eis o relatório necessário. DECIDO.
+As questões trazidas a debate referem-se à indenização de seguro obrigatório DPVAT. Acerca do tema, o Superior Tribunal de Justiça firmou entendimento sob a sistemática de Recursos Repetitivos (REsp 1483620/SC , REsp 1418347/MG, REsp 1388030/MG , REsp 1303038/RS, REsp 1357813/RJ, REsp 1246432/RS, REsp 1098365/PR e REsp 1120615/PR) e aprovou Súmulas abrangendo diversos aspectos da indenização securitária obrigatória, de modo que é possível decidir monocraticamente, com base no Verbete Sumular 568 do STJ.
+Ressai do caderno processual que S. V. S. G., representada por sua genitora e, também Autora, Thainá Almeida Silva, ajuizaram Ação de Cobrança de Seguro Obrigatório (DPVAT) em desfavor da Seguradora Líder dos Consórcios do Seguro DPVAT S.A., alegando que o Sr. Elieby Beserra Garrio (pai e esposo das Autoras) foi vítima de acidente com veículo automotor, em 10/11/2017, que resultou na sua morte.
+Depois de realizada a audiência de instrução e julgamento (ID. 60872971), o Juiz da causa julgou procedente o pedido inicial e condenou a Seguradora ao pagamento de R$ 13.500,00 (treze mil e quinhentos reais) a título de indenização securitária.
+Além disso, condenou a Ré ao pagamento de honorários advocatícios, os quais foram fixados em 10% (dez por cento) do valor atualizado da causa (Id. 60872973).
+Inconformada, a Seguradora interpôs este Apelo, alegando que o sinistro decorreu de acidente envolvendo maquinário agrícola (trator) que não possui os registros obrigatórios que lhe garantiriam a cobertura do Seguro DPVAT.
+Frisa, por derradeiro, a ausência de nexo causal entre o acidente e a morte do Sr. Elieby Beserra Garrio (pai e esposo das Apeladas).
+Como é cediço, coube à Lei 6.194/74, posteriormente alterada pelas Leis 8.441/92, 11.482/2007 e 11.945/2009, regulamentar o seguro obrigatório dos danos pessoais causados por veículos automotores de via terrestre.
+O seguro DPVAT, desse modo, comporta "danos pessoais causados por veículos automotores de vias terrestres e por embarcações, ou por sua carga, a pessoas transportadas ou não" (alínea l do art. 20 do Decreto-lei n. 73/1996, com redação dada pela Lei n. 8.374/91).
+Da leitura desse dispositivo, conclui-se que, para que seja possível a indenização securitária, tratando-se de seguro obrigatório - DPVAT, é imprescindível que o veículo automotor seja o elemento ativo causador do dano, esteja ele parado ou em movimento.
+No caso concreto, ao que se extrai do Boletim de Ocorrência de Id. 60868478, o gerente da fazenda onde o de cujus trabalhava narrou à autoridade policial a ocorrência de acidente envolvendo dois tratores na área rural.
+Consta ainda no documento que os policiais e a equipe da Politec foram até o local e, após perícia, constataram que o Sr. Elieby Beserra Garrio foi prensado entre os dois tratores, verbis:
+Compareceu nesta delegacia o senhor Rodolfo Willi Ipsen, gerente da Fazenda Eunice, informando sobre um acidente envolvendo dois tratores dentro da fazenda, vitimando fatalmente o funcionário Elieby Beserra Garrio. Deslocamos para o referido local, junto com a equipe da Politec, que realizou a pericia no local, conforme relato do tratorista, Rodrigo Martins dos Santos, quando estavam cortando uma árvore na fazenda, com auxílio de uma pá carregadeira, de marca/modelo CASE W20E Turbo, quando a vítima Elieby Beserra Garrio, que tinha parado outro trator marca/modelo MASSEY Ferguson 275, cor vermelho, em uma descida, percebeu que o trator estava descendo, possivelmente por não ter acionado o freio de mão corretamente, tentou atravessar na frente para entrar na cabine em movimento para tentar frenar antes que colidisse contra a pá carregadeira, momento em que foi prensado entre os dois tratores, devido a gravidade dos ferimentos ocasionou óbito no local.”
+É inconteste, nesse panorama, o envolvimento de dois tratores no acidente que tirou a vida do Sr. Elieby Beserra Garrio.
+Com efeito, ao que extrai do art. 96 do Código de transito Brasileiro, o trator se enquadra como um veículo de tração, verbis:
+Art. 96. Os veículos classificam-se em:
+e) de tração:
+1 - caminhão-trator;
+2 - trator de rodas;
+3 - trator de esteiras;
+4 - trator misto;
+Nessa circunstância, sem perder de vista as informações que constam no Boletim de Ocorrência, a Certidão de Óbito de Id. 60868476, bem como o depoimento da Apelada em audiência reiterando o infortúnio, não pairam dúvidas sobre o nexo de causalidadade entre a morte do Sr. Elieby Beserra Garrio e o acidente noticiado.
+A propósito, já decidiu o Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DPVAT. ACIDENTE DE TRABALHO. CARACTERIZADO COMO ACIDENTE DE TRÂNSITO. INFORTÚNIO CAUSADO POR TRATOR ESTACIONADO, EM FUNCIONAMENTO. INDENIZAÇÃO DEVIDA. NÃO PROVIMENTO.
+1. A caracterização do infortúnio como acidente de trabalho não impede, necessariamente, que esse também seja considerado como um acidente causado por veículo automotor e, portanto, coberto pelo, DPVAT.
+2. A situação de o automotor de circulação terrestre não estar se deslocando não desnatura a indenização do DPVAT, visto que o fato de o veículo de via terrestre ter participação ativa no acidente, que provocou danos pessoais, cobertos pela modalidade securitária, é o bastante para o seu recebimento.
+3. Agravo interno a que se nega provimento. (STJ. AgInt no AREsp 1261194/RS. Relatora Ministra Maria Isabel Gallotti. 4.a Turma. Julgado em 28/03/2019. Publicado em 02/04/2019). (sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. SEGURO DPVAT. RESPONSABILIDADE CIVIL OBJETIVA. REQUISITOS. ACIDENTE DE TRÂNSITO, DANO PESSOAL E NEXO CAUSAL. TRATOR. CAUSA DETERMINANTE NO INFORTÚNIO. PARTICIPAÇÃO ATIVA. INVALIDEZ PERMANENTE. CARACTERIZAÇÃO.
+1. O seguro DPVAT possui a natureza de seguro obrigatório de responsabilidade civil, de cunho eminentemente social, criado pela Lei no 6.197/1974 para indenizar os beneficiários ou as vítimas de acidentes, incluído o responsável pelo infortúnio, envolvendo veículo automotor terrestre (urbano, rodoviário e agrícola) ou a carga transportada, e que sofreram dano pessoal, independentemente de culpa ou da identificação do causador do dano.
+2. Se o veículo de via terrestre, em funcionamento, teve participação ativa no acidente, a provocar danos pessoais graves em usuário, não consistindo em mera concausa passiva, existe a hipótese de incidência do seguro DPVAT. No caso, o trator foi a razão determinante da invalidez permanente do autor, sendo evidente a relação de causalidade (nexo causal).
+3. Agravo interno não provido. (STJ. AgInt no REsp 1575062/MT. Relator Ministro Ricardo Villas Bôas Cueva. 3.a Turma. Julgado em 15/09/2016. Publicado em 30/09/2016). (sem destaque no original)
+No mesmo sentido, é a jurisprudência deste Tribunal:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT) – SINISTRO ENVOLVENDO TRATOR – COBERTURA DO SEGURO – MANUTENÇÃO DA SENTENÇA – RECURSO DESPROVIDO. O “trator rural” é veículo automotor e, assim, insere-se nas disposições da Lei 6.194/74. Portanto, as seguradoras têm o dever de indenizar os danos causados por este tipo de veículo, independentemente de estar ou não licenciado. (TJMT. Apelação Cível n.o 10256604320188110041. Relator Des. Jose Zuquim Nogueira. Julgado em 18/12/2019. Publicado em 22/01/2020). (sem destaque no original)
+APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA - DPVAT – ACIDENTE COM MAQUINÁRIO AGRÍCOLA/TRATOR – VEÍCULO AUTOMOTOR – INDENIZAÇÃO DE SEGURO OBRIGATÓRIO DPVAT – DEVIDA – SENTENÇA MANTIDA – RECURSO DESPROVIDO. Estabelece o art. 96 do Código de Trânsito Nacional que "classificam-se como veículos automotores de tração, o caminhão-trator, o trator de rodas, o trator de esteira e o trator misto”.
+O seguro DPVAT possui a natureza de seguro obrigatório de responsabilidade civil, de cunho eminentemente social, criado pela Lei no 6.197/1974 para indenizar os beneficiários ou as vítimas de acidentes, incluído o responsável pelo infortúnio, envolvendo veículo automotor terrestre (urbano, rodoviário e agrícola) ou a carga transportada, e que sofreram danos pessoais, independentemente de culpa ou da identificação do causador do dano (STJ REsp 1544353/SP). A caracterização do infortúnio como acidente do trabalho não afasta a cobertura de DPVAT e os veículos agrícolas estão cobertos pelo seguro previsto na Lei 6.194/74 (STJ REsp no 1342178/MT). (TJMT. Apelação n.o 10011177320188110041. Relator Des. Sebastiao Barbosa Farias. Julgado em 18/12/2018. Publicado em 22/01/2019). (sem destaque no original)
+Assim, indubitável que o Sr. Elieby Beserra Garrio foi vítima de um acidente pessoal com veículo automotor de tração, e que resultou a sua morte.
+Diante disso, não há falar em ausência de prova do nexo causal e do dever de indenizar, razão pela qual a sentença vergastada não merece reparos.
+Por último, entendo prequestionada a matéria que foi objeto de análise e decisão, sendo despicienda a referência expressa a dispositivo de lei (prequestionamento explícito), bastando que a questão jurídica tenha sido efetivamente decidida (prequestionamento implícito).
+Com essas considerações, nego provimento ao Apelo e mantenho intacta a sentença hostilizada.
+Nos termos do art. 85, 11.o do CPC, majoro os honorários advocatícios para 15% (quinze por cento) do valor atualizado da causa.
+Publique-se. Intime-se.
+Cuiabá, 30 de novembro de 2.020.
+Des.a Clarice Claudino da Silva
+Relatora
