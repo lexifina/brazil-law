@@ -1,0 +1,25 @@
+Trata-se de reclamação proposta por Geraldo Leitão Advogados Associados contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região (TRF4) nos autos do Processo 5009329-35.2019.4.04.0000, por suposto desrespeito à Súmula Vinculante 47.
+    O reclamante sustenta, em síntese, que o indeferimento do seu pedido de reserva e levantamento de honorários advocatícios contratuais violou o enunciado sumular acima referido.
+    É o relatório necessário. Decido.
+    Inicialmente, consigno que deixo de requisitar informações e de enviar o feito à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida.
+    Na espécie, sustenta-se a existência de afronta à Súmula Vinculante 47, abaixo transcrita:
+    “Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.”
+    O acórdão reclamado, por sua vez, foi assim ementado:
+    “TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. RESERVA E DESTAQUE DOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS.
+    1. A reserva dos honorários contratuais só pode ser efetuada enquanto a verba estiver disponível; isto é, antes da realização de penhora no rosto dos autos.
+    2. Ainda que se reconheça a natureza alimentar dos honorários advocatícios - inclusive os contratuais -, isso não implica reconhecer, automaticamente, que eles possuem preferência em relação aos créditos tributários, inserindo-os no conceito de créditos decorrentes da legislação do trabalho ou do acidente de trabalho, conforme previsto no artigo 186 do Código Tributário Nacional.” (pág. 160 do documento eletrônico 12)
+    Como se vê, o aresto reclamado, ao fundar-se na existência de prévia penhora no rosto dos autos e na preferência do crédito tributário, prevista pelo art. 186 do Código Tributário Nacional, cuidou de matéria estranha à tratada pela Súmula Vinculante 47, a qual cingiu-se à questão da autonomia e da natureza alimentar dos honorários advocatícios sucumbenciais, com o fim de possibilitar o fracionamento da execução contra a Fazenda Pública.
+    Assim, a reclamação é incabível, por evidente ausência de estrita aderência entre a decisão reclamada e o parâmetro de controle invocado.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 47 DESTE SUPREMO TRIBUNAL FEDERAL. PENHORA. RESERVA DOS HONORÁRIOS CONTRATUAIS. ORDEM DE PREFERÊNCIA. AUSÊNCIA DE IDENTIDADE MATERIAL ENTRE A MATÉRIA POSTA NA DECISÃO RECLAMADA E OS PRECEDENTES DOS QUAIS SE ORIGINOU A SÚMULA VINCULANTE APONTADA COMO PARADIGMA. USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO: IMPOSSIBILIDADE. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Rcl 31.786-AgR, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Confiram-se, ainda, as seguintes decisões monocráticas: Rcl 30.833/SP, Rel. Min. Luiz Fux e Rcl 27.651/SP, Rel. Min. Gilmar Mendes.
+    Ademais, a notória falta de pertinência estrita também ocorre por outro motivo. Ainda que uma leitura apressada da Súmula Vinculante 47 possa levar a interpretação diversa, a jurisprudência de ambas as Turmas desta Corte é absolutamente pacífica em afirmar que a Súmula Vinculante 47 não abrange os honorários advocatícios contratuais. Veja-se:
+    “AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO PROCESSUAL CIVIL. SÚMULA VINCULANTE 47. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AUSÊNCIA DE ADERÊNCIA ESTRITA. 1. A Súmula Vinculante 47 não alcança o debate relativo ao fracionamento de execução contra a Fazenda Pública para pagamento, separado do montante principal, de créditos decorrentes de honorários advocatícios contratuais. Precedentes. 2. Agravo interno a que se nega provimento.” (Rcl 41.400-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL E TRIBUTÁRIO. SÚMULA VINCULANTE 47. HONORÁRIOS CONTRATUAIS. EXPEDIÇÃO DE RPV EM SEPARADO. IMPOSSIBILIDADE. 1. A Súmula Vinculante 47 do STF não autoriza a expedição de requisição de pequeno valor em separado para adimplemento de honorários contratuais avençados entre jurisdicionado e causídico. 2. Agravo regimental a que se nega provimento.” (Rcl 27.880-AgR/RS, Rel. Min. Edson Fachin, Segunda Turma).
+    O que pretende o reclamante, em última análise, é fazer uso do instrumento processual da reclamação como sucedâneo recursal, finalidade essa que se revela estranha à sua destinação constitucional (Rcl 4.381-AgR/RJ, Rel. Min. Celso de Mello, Tribunal Pleno).
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2020.
+Ministro Ricardo Lewandowski
+Relator
