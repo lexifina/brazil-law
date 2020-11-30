@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto pela União contra acórdão assim ementado:
+    “APELAÇÃO EM MANDADO DE SEGURANÇA. REEXAME NECESSÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO. TERÇO CONSTITUCIONAL DE FERIAS. IMPORTÂNCIA PAGA NOS 15 DIAS ANTERIORES A CONCESSÃO DO AUXÍLIO-DOENÇA. CARÁTER INDENIZATÓRIO. AFASTAMENTO DA TRIBUTAÇÃO. HORA EXTRA E ADICIONAL. COMPENSAÇÃO LIMITADA A DÉBITOS DE TRIBUTOS DA MESMA ESPÉCIE E DESTINAÇÃO CONSTITUCIONAL.
+    1. O caráter indenizatório do aviso prévio indenizado, do terço constitucional de férias e da importância paga nos 15 (quinze) dias anteriores à concessão do auxílio-doença afasta a incidência de contribuição previdenciária.
+    2. A hora extra e o respectivo adicional têm natureza jurídica salarial, razão pela qual integram a base de cálculo de contribuição previdenciária.
+    3. Compensação dos valores recolhidos indevidamente, observado o artigo 170-A, do Código Tributário Nacional e limitada a débitos de tributos da mesma espécie e destinação constitucional.
+    4. Apelações e remessa oficial parcialmente providas.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 97; 195, I, a; 201, § 11, da CF. Sustenta, em essência, que a contribuição previdenciária incide sobre verbas de natureza remuneratórias, notadamente o terço de férias, o aviso prévio indenizado e os primeiros quinze dias do auxílio acidente.
+    A pretensão recursal não merece prosperar. Em relação ao aviso prévio indenizado, esta Corte já se manifestou sobre a ausência de repercussão geral, no ARE 745.901-RG, Rel. Min. Teori Zavascki (Tema 759).
+    Quanto ao pagamento feito ao empregado nos primeiros quinze dias de afastamento, o Plenário do STF se manifestou pela ausência de repercussão geral, no RE 611505 RG, de relatoria do Min. Edson Fachin (Tema 482). Destaco que os embargos de declaração opostos pela União já foram apreciados e rejeitados.
+    No tocante à incidência de contribuição previdenciária sobre o terço constitucional de férias, cumpre registrar que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 1.072.485 RG, de relatoria do Ministro Edson Fachin, reconheceu a repercussão geral da matéria em exame (Tema 985).
+    Com relação à alegada violação ao art. 97 da CF, a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, Rel. Min. Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”.
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que falar em ofensa ao art. 97 da CF.
+    Diante do exposto:
+    (i) quanto à incidência de contribuição previdenciária patronal sobre os valores pagos a título de terço constitucional de férias, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral;
+    (ii) quanto às demais questões, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso da União. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 30 de novembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
