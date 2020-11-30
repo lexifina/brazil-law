@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus impetrado por Pedro Aurélio Rosa de Farias, em favor de Alexandro Avelar Franco da Rosa, contra acórdão acórdão proferido pelo Superior Tribunal de Justiça, nos autos do AREsp 1.629.949/MG.
+    Colho da decisão impugnada:
+    “Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 317 do Código Penal (corrupção passiva), à pena de 03 (três) anos de reclusão, em regime inicial semiaberto, e ao pagamento de 40 (quarenta) dias-multa, além da perda do cargo público.
+    Irresignada, a defesa interpôs recurso de apelação, que restou desprovido, porém, de ofício, foi abrandado o regime prisional e substituída a pena privativa de liberdade por restritiva de direitos.
+    O acórdão restou assim ementado:
+    ‘APELAÇÃO CRIMINAL - CORRUPÇÃO PASSIVA - AUTORIA E MATERIALIDADE EVIDENCIADAS - RECURSO CONHECIDO E NÃO PROVIDO. Deve ser caracterizada como criminosa a conduta de delegado de polícia que solicita e diretamente recebe, para si, no exercício da função, dinheiro em espécie para libertar preso recém conduzido pela Polícia Militar, cometendo, deste modo, o crime de corrupção passiva’.
+    Opostos embargos de declaração, restaram rejeitados.
+    Em sede de recurso especial, a defesa aponta violação ao disposto nos arts. 352, 354, 370, 402, 564, 619, todos do Código de Processo Penal e ao art. 69 do Provimento n. 355/2018 da CGJ-TJMG. Sustenta a negativa de prestação jurisdicional, pois persiste a omissão do acórdão recorrido, mesmo após o julgamento dos embargos de declaração. Aduz, ainda, nulidade processual por ausência de intimação dos defensores para acompanhar audiência designada para o interrogatório do corréu”. (www.stj.jus.br)
+    No STJ, o recurso especial não foi provido. Interposto agravo regimental, negou-se-lhe provimento.
+    Nesta Corte, a defesa requer, em extensa petição de 66 (sessenta e seis) laudas, a absolvição do paciente ou a decretação de nulidade do processo.
+    É o relatório.
+    Passo a decidir.
+    Para melhor compreensão da controvérsia, observem-se trechos do ato impugnado:
+    “O Tribunal de origem concluiu que, devidamente intimados, os advogados do agravante não compareceram a audiência para interrogatório do correu e sequer justificaram a ausência. Ademais, restou assentado que o agravante não foi localizado no endereço fornecido nos autos, sendo necessária a nomeação de defensor dativo para representá-lo no ato designado. Cito trechos do acórdão recorrido (fls. 1083/1084 e 1111):
+    ‘Como primeiro tópico, o apelante suscitou preliminar de nulidade do processo, ao argumento de que a retratação do corréu Ronaldo João de Oliveira fora colhida sem a presença do apelante e de seus Defensores, em flagrante desrespeito ao contraditório.
+    Ora, os advogados do apelante foram devidamente intimados pelo DJe (f. 601), deixando de comparecer à audiência e sequer justificaram a ausência.
+    Com relação ao recorrente, fora tentada a sua intimação pessoal, no endereço por ele fornecido nos autos.
+    Contudo, conforme certificado pelo Oficial de Justiça à f. 611, o apelante mudara-se sem deixar notícias, omitindo-se em atualizar o seu endereço no feito, ônus que lhe cabia.
+    Na referida audiência, realizada para os fins do art. 199, do CPP, consoante se infere à f. 613, foi nomeado Defensor Dativo para atuar em prol do apelante.
+    Por fim, não foi apontado pela d. Defesa qualquer prejuízo advindo de tal ato, valendo, nesta quadra, o brocardo pas de nullité sans grief.
+    Logo, o pedido de nulidade não tem o menor cabimento. (...)
+    Ora, os experientes e renomados advogados já atuavam em prol do embargante desde o início do processo, seguindo passa o passo o desenrolar do procedimento penal. Assim sendo, óbvio que sabiam eles que a audiência não seria admonitória, mas para ouvir o corréu Ronaldo João de Oliveira.
+    Ademais, se alguma dúvida pairasse, deveria a defesa técnica diligenciar junto à Secretaria do Juízo, colhendo informação acerca do objetivo da audiência. Bastaria um simples telefonema, sendo, pois, por demais óbvia.
+    Por fim, o cerne da audiência em comento versou sobre um ato personalíssimo, qual seja, a tomada de declarações do corréu Ronaldo João de Oliveira e, deste modo, a presença ou não do embargante e de seus defensores não poderia acarretar em outro resultado, até porque incognoscível que a parte embargante pudesse fazer com que o corréu mudasse suas declarações, moldando-as da forma que melhor lhe conviesse.
+    De mais a mais, a d. Defesa permanece não apontando, objetivamente, qualquer prejuízo advindo de tal ato, valendo, nesta quadra, o brocardo pas de nullité sans grief.
+    Inicialmente, "Conforme a jurisprudência deste Sodalício, cabe ao réu manter seu endereço atualizado junto ao Juízo processante, de modo que não cabe à defesa alegar nulidade que ela própria deu causa" (AgRg no AREsp 1478061/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/08/2019, DJe 02/09/2019). Ademais, não se verifica a arguida nulidade na intimação, tendo em vista que o acórdão recorrido atesta que os advogados foram cientificados quanto à designação da audiência para interrogatório do corréu”. (www.stj.jus.br)
+    Como se vê, a defesa do paciente foi intimada da audiência em que seria ouvido o corréu Ronaldo João de Oliveira, mas a ela não compareceu e não apresentou qualquer justificativa, motivo por que não pode se beneficiar de suposta nulidade, que, conforme consta dos autos, não ocorreu. Isso porque, ausente a defesa do paciente, foi nomeado defensor dativo para acompanhar o interrogatório do corréu. Nesse sentido, cito precedente:
+    “Agravo regimental no habeas corpus. 2. Alegação de nulidade por oferecimento de sursis antes de ofertada a resposta à acusação. Inocorrência. 3. Defesa que, intimada e presente na audiência, deixou de responder à acusação e aceitou a proposta. 4. Nulidade não aproveita a quem lhe der causa. 5. Agravo improvido”. (AgR no HC 172.715, de minha relatoria, Segunda Turma, DJe 3.9.2019)
+    Ademais, a matéria relacionada à incapacidade civil não foi debatida no ato impugnado, de modo que a apreciação nesta Corte resultaria em supressão de instância, inadmitida pela jurisprudência do Tribunal.
+    De todo modo, a decisão que reconheceu a incapacidade civil do paciente não tem qualquer impacto na sentença condenatória, porquanto não se assentou que, ao tempo da ação, o paciente era, nos termos do artigo 26 do Código Penal, “inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.” (eDOCs 11-12 )
+    Aliás, quando perguntado ao perito se o paciente era inteiramente incapaz de entender o caráter ilícito do fato, o expert se esquivou e apenas respondeu que ele “tem problemas mentais a partir de 2012, conforme documentos anexados”, sem responder objetivamente à pergunta nem registrar se, no dia e hora do cometimento do crime, o paciente ostentaria tal incapacidade.
+    Mais à frente, o próprio perito afirma que a incapacidade do paciente não é inteira, tal como exige o Código Penal, mas alta (de 50 a 95%), de modo que não é verdadeira a afirmação de que ele era inteiramente incapaz de entender o caráter ilícito do ato de, como delegado de polícia, solicitar R$ 600,00 de um preso em flagrante para proceder à sua soltura.
+    Ante o exposto, conheço parcialmente do habeas corpus e, na parte conhecida, denego a ordem. (art. 192, caput c/c art. 21, § 1º, RISTF)
+    Publique-se. Comunique-se ao Juízo de primeiro grau.
+    Brasília, 30 de novembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
