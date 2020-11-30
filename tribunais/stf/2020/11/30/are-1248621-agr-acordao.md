@@ -1,0 +1,1128 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 24
+
+30/11/2020
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.248.621 ACRE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. EDSON FACHIN
+: MARIA RAIMUNDA DE SOUZA
+: DOUGLLAS JONATHAN SANTIAGO DE SOUZA
+: ESTADO DO ACRE
+: PROCURADOR-GERAL DO ESTADO DO ACRE
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 21.08.2020.
+DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL.
+PROFESSORA ADMITIDA ANTES DA CF/88. PLANO DE CARGOS E
+SALÁRIOS. REENQUADRAMENTO. AUSÊNCIA DE CONCURSO
+PÚBLICO. ART. 37, II, DA CF. IMPOSSIBILIDADE. ADI 3.609.
+INCABÍVEL INVOCAR, NO CASO, O PRINCÍPIO DA SEGURANÇA
+JURÍDICA. PRECEDENTES. ALEGADA INCIDÊNCIA DAS SÚMULAS
+279
+E
+280
+DO
+STF.
+INAPLICABILIDADE.
+RECURSO
+EXTRAORDINÁRIO
+DO
+ESTADO
+DO
+ACRE
+PROVIDO.
+PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE
+RECURSAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido, ao prover o recurso inominado da Recorrida,
+com base no princípio da segurança jurídica, está em divergência com a
+orientação firmada pelo Plenário desta Corte, no julgamento da ADI
+3.609, de relatoria do Min. Dias Toffoli, no sentido de que, nos termos do
+art. 37, II, da CF, a efetividade é prerrogativa dos servidores que
+acessaram os cargos públicos mediante aprovação em concurso público
+de provas ou de provas e títulos.
+2. No caso concreto, foi conferido direito ao reenquadramento
+funcional à servidora pública estadual contratada antes da CF/88
+(08.05.1986), sem concurso público, o que ofende o art. 37, II, da CF. Não
+cabe, portanto, invocar, na hipótese, o instituto da segurança jurídica.
+Precedentes.
+3. Não incidem, portanto, na hipótese dos autos, os óbices das
+Súmulas 279 e 280 do STF.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8630-6E43-1B68-9724 e senha 16AA-C5B3-8849-0093
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 24
+
+ARE 1248621 AGR / AC
+4. Agravo regimental a que se nega provimento. Inaplicável o art.
+85, § 11, do CPC, tendo em vista que não houve prévia fixação de
+honorários na origem.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de 20 a
+27 de novembro de 2020, sob a Presidência do Senhor Ministro Gilmar
+Mendes, na conformidade da ata de julgamento e das notas taquigráficas,
+por unanimidade de votos, em negar provimento ao agravo regimental e
+deixar de aplicar o art. 85, § 11, do CPC, tendo em vista que não houve
+prévia fixação de honorários na origem, nos termos do voto do Relator.
+Brasília, 30 de novembro de 2020.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8630-6E43-1B68-9724 e senha 16AA-C5B3-8849-0093
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 24
+
+30/11/2020
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.248.621 ACRE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. EDSON FACHIN
+: MARIA RAIMUNDA DE SOUZA
+: DOUGLLAS JONATHAN SANTIAGO DE SOUZA
+: ESTADO DO ACRE
+: PROCURADOR-GERAL DO ESTADO DO ACRE
+RELATÓRIO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se
+de agravo regimental (eDOC 24) interposto em 21.08.2020 (eDOC 25) em
+face de decisão monocrática em que dei provimento ao recurso do Estado
+do Acre, ora Agravado, nos seguintes termos (eDOC 22):
+“Trata-se de agravo cujo objeto é a decisão que inadmitiu
+recurso extraordinário interposto em face de acórdão do
+Tribunal de Justiça do Estado do Acre, assim ementado (eDOC
+6, p. 1):
+‘RECURSO INOMINADO. CONSTITUCIONAL E
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL.
+PROGRESSÃO FUNCIONAL. PROFESSOR ADMITIDO
+ANTES DA CONSTITUIÇÃO FEDERAL DE 1988.
+SERVIDOR QUE FOI INSERIDO NO PLANO DE
+CARGOS E SALÁRIOS DA EDUCAÇÃO, RECEBENDO
+MOVIMENTAÇÕES HORIZONTAIS E VERTICAIS
+DURANTE A CARREIRA. BENEFÍCIOS RESERVADOS
+AOS SERVIDORES QUE ACESSARAM OS CARGOS
+MEDIANTE CONCURSO PÚBLICO. PREVALÊNCIA DO
+PRINCÍPIO DA SEGURANÇA JURÍDICA, SOB O
+ASPECTO DE PROTEÇÃO À CONFIANÇA DAS
+PESSOAS QUANTO ÀS CONDUTAS DO ESTADO.
+DIREITO À PROGRESSÃO QUE SE IMPÕE. RECURSO
+CONHECIDO E PROVIDO.’
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 24
+
+ARE 1248621 AGR / AC
+
+Os embargos de declaração opostos foram rejeitados.
+(eDOC 8)
+No recurso extraordinário, com fundamento no art. 102,
+III, “a”, do permissivo constitucional, alega-se violação ao
+artigo 37, II, da Constituição Federal.
+Nas razões recursais, sustenta-se, em suma, que “(...) o (a)
+recorrido (a) ingressou no quadro orgânico-funcional do Estado do
+Acre sem prestar concurso público e, mesmo obtendo diversas
+vantagens do Plano de Cargos, Carreira e Remuneração – PCCR ao
+longo da vida funcional, por força de Parecer que orientou a
+Administração Pública Estadual acerca da decisão proferida por esse
+Pretório Excelso na ADI nº 3.609-AC, deixou de gozar dos mesmos
+direitos conferidos aos servidores públicos concursados.” (eDOC 9,
+pp. 10/11).
+Aduz-se, também, que “jamais o judiciário poderia ter
+concedido a vantagem requerida, sem o necessário atributo da
+efetividade (o qual não foi afirmado nem negado segundo o acórdão
+que apreciou os embargos declaratórios), o (a) recorrida não pode se
+arvorar do PCCR específico dos Professores e buscar a concessão de
+mais vantagens, especialmente um novo reenquadramento, sob pena
+de expressa afronta ao art. 37,II, da Constituição Federal (servidor(a)
+não aprovado(a) em concurso público) e, sobretudo, de desrespeito ao
+acórdão prolatado na ADI nº 3.609-AC pelo STF.” (eDOC 9, p.11)
+O TJ/AC inadmitiu o recurso, ante o óbice das súmulas
+282 e 356 do STF. (eDOC 12)
+É o relatório. Decido.
+A irresignação merece prosperar.
+O Tribunal de origem, quando do julgamento do recurso
+inominado, asseverou que: (eDOC 6)
+‘(...)
+No tocante ao reenquadramento, a despeito dos arts. 282 e
+seguintes da Lei Complementar n. 39/93, bem como da
+jurisprudência do Supremo Tribunal Federal, as provas
+denotam que a autora não apenas foi inserida na carreira do
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 24
+
+ARE 1248621 AGR / AC
+magistério, mas sofreu movimentações horizontais e verticais,
+que somente seriam reservadas aos servidores efetivos, ou seja,
+àqueles que acessaram os cargos públicos por força de concurso
+público. (...).
+Como se verá adiante, assentou a jurisprudência local que
+essa conduta estatal, a pretexto do controle de
+constitucionalidade exercido na ADI n. 3.609, em obstar a
+aplicação das disposições de Lei Complementar Estadual, não se
+apresenta compatível como princípio da segurança jurídica, sob
+o aspecto subjetivo de proteção à confiança das pessoas no
+pertinente aos atos, procedimentos e condutas do Estado.
+(...).’
+Sendo essas as razões de decidir do Tribunal de origem,
+observo que a controvérsia ora em análise foi examinada pelo
+Supremo Tribunal Federal no julgamento da ADI 3.609, da
+relatoria do Ministro Dias Toffoli, e que restou assim ementada:
+‘Ação direta de inconstitucionalidade. EC nº 38/2005 do
+Estado do Acre. Efetivação de servidores públicos providos sem
+concurso público até 31 de dezembro de 1994. Violação do art.
+37, II, CF. Precedentes. 1. Por força do art. 37, inciso II, da CF, a
+investidura em cargo ou emprego públicos depende da prévia
+aprovação em concurso público, sendo inextensível a exceção
+prevista no art. 19 do ADCT. Precedentes: ADI nº 498, Rel.
+Min. Carlos Velloso, DJ de 9/8/96; ADI nº 208, Rel. Min.
+Moreira Alves, DJ de 19/12/02; ADI nº 100, Rel. Min. Ellen
+Gracie, DJ de 1/10/04; ADI nº 88, Rel. Min. Moreira Alves, DJ
+de 8/9/2000; ADI nº 1.350/RO, Rel. Min. Celso de Mello, DJ de
+1/12/06; ADI nº 289, Rel. Min. Sepúlveda Pertence, DJ de
+16/3/07, entre outros. 2. Modulação dos efeitos da declaração de
+inconstitucionalidade, nos termos do art. 27 da Lei nº 9.868/99,
+para se darem efeitos prospectivos à decisão, de modo que
+somente produza seus efeitos a partir de doze meses, contados da
+data da publicação da ata do julgamento, tempo hábil para a
+realização de concurso público, a nomeação e a posse de novos
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 24
+
+ARE 1248621 AGR / AC
+servidores, evitando-se, assim, prejuízo à prestação de serviços
+públicos essenciais à população. 3. Ação direta de
+inconstitucionalidade julgada procedente.’
+O ponto controvertido nestes autos, qual seja, o status
+jurídico dos servidores que ingressaram nos quadros da
+Administração sem concurso público – se efetivos ou não - foi
+especificamente abordado na ação direta, in verbis:
+“No caso presente, analisando-se a norma impugnada,
+verifica-se que a sua inconstitucionalidade é patente, porque,
+desde a promulgação da Constituição de 1988, por força de seu
+art. 37, inciso II, a investidura em cargo ou emprego público
+depende da prévia aprovação em concurso público. Ressalte-se
+que a orientação deste Tribunal, no sentido de não ser
+complacente em relação à regra do concurso público, encontra-se
+sedimentada no voto proferido pelo Ministro Celso de Mello no
+julgamento da ADI nº 1.350/RO, nos seguintes termos:
+(...)
+Verifica-se, ademais, que a norma impugnada ampliou
+incontestavelmente o conteúdo do art. 19 do ADCT da
+Constituição Federal, que garantiu, tão somente, a estabilidade
+excepcional – não a efetivação – dos servidores da administração
+direta, autárquica e das fundações públicas, o que não inclui os
+empregados das empresas públicas e sociedades de economia
+mista. Note-se que, apesar de não haverem ingressado na
+Administração Pública mediante concurso público, os servidores
+estabilizados com base no art. 19 do ADCT da Constituição
+Federal possuem apenas o direito de permanecer na função para
+as quais foram admitidos, somente vindo a adquirir efetividade
+no cargo quando se submeterem a certame público, conforme
+destacado no seu § 1º (“[o] tempo de serviço dos servidores
+referidos neste artigo será contado como título quando se
+submeterem a concurso para fins de efetivação, na forma da
+lei”).
+(...).”
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 24
+
+ARE 1248621 AGR / AC
+
+O acórdão recorrido, portanto, divergiu do entendimento
+desta Corte, na medida em que conferiu direito ao
+reenquadramento funcional – direito reservado aos servidores
+efetivos -, à servidor contratado sem concurso público, ao passo
+que a jurisprudência desta Corte é firme no sentido de que a
+efetividade é prerrogativa dos servidores que acessaram os
+cargos públicos mediante concurso público.
+Nesse sentido, os recentes julgados:
+‘Ementa: AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR
+PÚBLICO. ESTABILIDADE EXCEPCIONAL. ART. 19 DO
+ADCT. VANTAGENS INERENTES AO CARGO EFETIVO.
+IMPOSSIBILIDADE DE OBTENÇÃO. PRECEDENTES.
+AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO.
+I - O Supremo Tribunal Federal firmou entendimento no
+sentido de que a estabilidade excepcional prevista no art. 19 do
+ADCT alcança servidores estaduais, mas difere da efetividade,
+para a qual é imprescindível a aprovação em concurso público.
+II - A jurisprudência desta Corte é pacífica no sentido de
+que os servidores públicos beneficiados pelo art. 19 do Ato das
+Disposições Constitucionais Transitórias - ADCT teriam direito
+à estabilidade, não se lhes conferindo as vantagens privativas
+dos ocupantes de cargo efetivo, para o qual se exige concurso
+público. III - Agravo regimental ao qual se nega provimento.’
+(ARE 1238618 AgR, Relator(a): Min. RICARDO
+LEWANDOWSKI, Segunda Turma, julgado em 21/02/2020,
+PROCESSO ELETRÔNICO DJe-044 DIVULG 03-03-2020
+PUBLIC 04-03-2020)
+‘E M E N T A: RECURSO EXTRAORDINÁRIO COM
+AGRAVO – SERVIDOR PÚBLICO – INVESTIDURA EM
+CARGO
+DE
+PROVIMENTO
+EFETIVO
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 24
+
+ARE 1248621 AGR / AC
+INDEPENDENTEMENTE DE PRÉVIA APROVAÇÃO EM
+CONCURSO
+PÚBLICO
+–
+IMPOSSIBILIDADE
+–
+TRANSGRESSÃO AO DISPOSTO NO ART. 37, II, DA
+CONSTITUIÇÃO DA REPÚBLICA – INEXISTÊNCIA DE
+DIREITO À ESTABILIDADE – DECISÃO QUE SE AJUSTA
+À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO
+TRIBUNAL
+FEDERAL
+–
+CONSEQUENTE
+INVIABILIDADE DO RECURSO QUE A IMPUGNA –
+SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO
+SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA
+RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO,
+NO CASO, ANTE A INADMISSIBILIDADE DE
+CONDENAÇÃO EM VERBA HONORÁRIA, POR
+TRATAR-SE DE PROCESSO DE MANDADO DE
+SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009,
+ART. 25) – AGRAVO INTERNO IMPROVIDO.’
+(ARE 1234740 AgR, Relator(a): Min. CELSO DE
+MELLO, Segunda Turma, julgado em 04/05/2020, PROCESSO
+ELETRÔNICO DJe-122 DIVULG 15-05-2020 PUBLIC 18-052020)
+Ante o exposto, dou provimento ao recurso, a fim de
+reformar o acórdão recorrido e julgar improcedente a pretensão
+do autor, nos termos do art. 21, § 2º, do RISTF
+Deixo de aplicar o art. 85, § 11, do CPC, tendo em vista
+que não houve prévia fixação de honorários na origem”.
+
+Sustenta-se, nas razões do presente recurso, em síntese, que a
+decisão agravada merece reforma, pois não foi observada a incidência, na
+hipótese, das Súmulas 279 e 280 do STF.
+Para tanto, relata-se que foi deferido o enquadramento na instância
+de origem, tendo em vista que “os servidores contratados antes da
+Constituição Federal de 1988, sem o crivo do concurso público, continuariam
+sem estabilidade e efetividade, porém lhes seriam preservados, em atenção à
+SEGURANÇA JURÍDICA, os beneplácitos da Legislação local que lhes
+garantiam, promoções, reenquadramentos, gozo de férias, 13º Salário,
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 24
+
+ARE 1248621 AGR / AC
+licenças prêmios, abono de permanência, entre outras situações prevista
+em Leis ordinárias e Complementares que tivessem ou fossem
+promulgadas pelo Estado do Acre” (eDOC 24, p. 5-6) .
+Alega-se afronta ao instituto da segurança jurídica, pois há mais de
+17 anos a Agravante vinha recebendo os benefícios do plano de carreira,
+mesmo reconhecendo-se que ela não era concursada.
+Ao final, alega-se que a jurisprudência (RE 604.519-AgR/CE e RE
+163.715/PA), utilizada na decisão agravada, não guarda relação com o
+caso dos autos, eis que nos julgados apontados (eDOC 24, p. 7):
+“os servidores não tiveram os benefícios dos planos de
+carreira pela legislação local, estavam por pleitear a
+equivalência com o servidores concursados, situação que difere
+e muito do caso concreto do Estado do Acre, vez que a
+agravante por mais de 17 anos recebeu os beneplácitos dos
+planos vigentes no Estado do Acre, tendo sido enquadrada na
+condição de servidora pública, quando da promulgação da LCE
+39/93 (Estatuto dos Servidores Públicos do Estado do Acre),
+legislação que possui mais de 26 anos e após o julgamento da
+ADIn 3.609 o agravado resolveu alterar a situação consolidada,
+sem mesmo ter sido decidido no julgamento da ADIn a posição
+tomada pelo Estado”.
+
+O Estado do Acre, ora Agravado, apresentou manifestação,
+pugnando pela manutenção da decisão recorrida e pela não incidência
+das Súmulas 279 e 280 do STF, considerando que “a questão discutida no
+caso em tela refere-se à impossibilidade de se conferir à servidora pública não
+concursada – admitida antes da promulgação da Constituição Federal vigente e
+não detentora de estabilidade excepcional (matérias consignadas no acórdão
+recorrido) – os mesmos direitos dos servidores públicos concursados, dentre eles o
+direito de enquadramento em Plano de Cargos, Carreiras e Salários, sob pena de
+afronta direta à norma expressa contida no artigo 37, inciso II, da Constituição
+Federal” (eDOC 28, p. 11).
+É o relatório.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D2F5-93B6-D8BD-7AD8 e senha A272-913F-056C-9A5A
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 10 de 24
+
+30/11/2020
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.248.621 ACRE
+VOTO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): As razões
+recursais são insuficientes para infirmar a conclusão da decisão agravada.
+De início, registro que não cabe invocar, na hipótese, o instituto da
+segurança jurídica ou a incidência, na hipótese, das Súmulas 279 e 280 do
+STF, temas suscitados no presente agravo regimental (eDOC 26, p. 4) e
+nas contrarrazões ao recurso extraordinário (eDOC 11, p. 6-7), uma vez
+que se trata de ofensa direta ao art. 37, II, da Constituição Federal e o ato
+inconstitucional não pode gerar direitos. Nesse sentido, confiram-se os
+seguintes julgados desta Corte, em casos assemelhados:
+“SERVIDOR
+PÚBLICO.
+DETRAN/PARÁ.
+REDISTRIBUIÇÃO PARA A ASSEMBLÉIA LEGISLATIVA.
+REVOGAÇÃO
+DO
+ATO
+QUE
+PROMOVERA
+O
+ENQUADRAMENTO.
+DIREITO
+ADQUIRIDO.
+RECONHECIMENTO PELO ACÓRDÃO RECORRIDO.
+ALEGADA
+CONTRARIEDADE
+AO
+PRINCÍPIO
+CONSTITUCIONAL DA EXIGÊNCIA DO CONCURSO
+PÚBLICO PARA INGRESSO EM CARREIRA. SÚMULA 473. A
+situação jurídica em foco, obviamente não se encontra
+abrangida pela garantia do direito adquirido estabelecido no
+texto constitucional. Ao exigir, no art. 37, II, que o ingresso em
+carreira só se fará mediante concurso público de provas ou de
+provas e títulos, o legislador constituinte baniu das formas de
+investidura admitidas, a redistribuição e a transferência.
+Legítima a atuação da Administração Pública, nos termos da
+Súmula 473, que, uma vez verificada a violação à norma da
+Constituição Federal no ato de redistribuição efetuado, cuidou
+logo de anulá-lo, sem que esse procedimento tenha importado
+em afronta a direito adquirido. Recurso extraordinário
+conhecido e provido para indeferir o mandado de segurança”
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 11 de 24
+
+ARE 1248621 AGR / AC
+(RE 163.712, Rel. Min. Ilmar Galvão, Primeira Turma, DJ
+06.09.1996).
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. SERVIDOR PÚBLICO. DESVIO DE
+FUNÇÃO. DIREITO ADQUIRIDO À PERCEPÇÃO DE
+VENCIMENTOS DE CARGO SUPERIOR. NÃO EXISTÊNCIA.
+AFRONTA AO ARTIGO 37, INCISO II, DA CB/88. A
+Constituição do Brasil não admite o enquadramento, sem
+concurso público, de servidor em cargo diverso daquele que é
+titular. Não há direito adquirido à incorporação de vencimentos
+de cargo exercido de maneira irregular, em afronta às
+exigências contidas no artigo 37, inciso II, da Constituição de
+1988. Precedentes da Corte. Agravo regimental não provido”
+(RE 311.371-AgR, Rel. Min. Eros Grau, Primeira Turma, DJe
+15.04.2005).
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO.
+ADMINISTRATIVO.
+ASCENSÃO
+FUNCIONAL. INCONSTITUCIONALIDADE. OFENSA À
+REGRA DO CONCURSO PÚBLICO. PRECEDENTES.
+SEGURANÇA JURÍDICA E BOA-FÉ. INAPLICABILIDADE AO
+CASO. PLEITO QUE REVELA A PRETENSÃO DE
+CONSTITUIR NOVA SITUAÇÃO JURÍDICA E NÃO A
+PRESERVAÇÃO DE UMA POSIÇÃO CONSOLIDADA.
+AGRAVO IMPROVIDO. I – A jurisprudência do Supremo
+Tribunal Federal firmou-se no sentido de que a promoção do
+servidor por ascensão funcional constitui forma de provimento
+derivado incompatível com a determinação prevista no art. 37,
+II, da Constituição de que os cargos públicos devem ser
+providos por concurso. II – Inviável a invocação dos princípios
+da segurança jurídica e da boa-fé no caso em que se pretende
+o reconhecimento de uma nova posição jurídica incompatível
+com a Constituição e não a preservação de uma situação
+concreta sedimentada. III – Agravo regimental improvido”
+(grifei) (RE 602.264-AgR, Rel. Min. Ricardo Lewandowski,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 12 de 24
+
+ARE 1248621 AGR / AC
+Segunda Turma, DJe 31.05.2013).
+
+Com efeito, a sentença, a qual foi reformada pela Turma Recursal,
+assim se fundamentou (eDOC 3, p. 1-4):
+“(...) Alega que é servidora pública aposentada e que,
+quando ativa, ocupava o cargo de professora, sendo admitida
+no serviço público sem concurso público em 08 de maio de
+1986. Afirma que, ingressou como professora Classe Especial,
+referência 18, 40 horas, em regime de trabalho regulado pela
+CLT, tendo as suas promoções reguladas pela LCE n. 14 de 18
+de novembro de 1987. Após, com a promulgação da LCE nº
+39/93 de 29 de dezembro de 1993, teve seu regime de trabalho
+regulado pelo Estatuto dos Servidores Públicos Civis do Estado
+do Acre, deixando assim de ser celetista.
+Suscita que, possuía no momento da aposentadoria 30
+anos de tempo de serviço e 50 anos de idade, uma vez que
+nasceu em 14.06.1966, possui o direito de figurar na referência J
+(10), da Classe I, porém o Reclamado, como se evidencia da
+portaria que concedeu a aposentadoria para a Reclamante, não
+realizou o reenquadramento, deixando-a ainda na referência C
+(3) Classe I.
+(....)
+Como visto, a decisão administrativa não merece qualquer
+modificação, pois a parte autora ingressou no serviço público
+sem concurso, sendo que a modulação dos efeitos quanto à ADI
+3609 fixou como limite temporal a data de 19/02/2015, não
+havendo que se falar em nulidade do parecer vinculativo de fls.
+132/178 posto que fulcrado no posicionamento do Supremo
+Tribunal Federal quanto à matéria”.
+
+Já a Turma Recursal de origem, com apoio no princípio da segurança
+jurídica, afastou tal entendimento, nos seguintes termos (eDOC 6, p. 2):
+“No tocante ao reenquadramento, a despeito dos arts. 282
+e seguintes da Lei Complementar n. 39/93, bem como da
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 13 de 24
+
+ARE 1248621 AGR / AC
+jurisprudência do Supremo Tribunal Federal, as provas
+denotam que a autora não apenas foi inserida na carreira do
+magistério, como sofreu movimentações horizontais e
+verticais, que somente seriam reservadas aos servidores
+efetivos, ou seja, àqueles que acessaram os cargos públicos
+por força de concurso público. É dizer, em momento muito
+anterior à Emenda n. 38/2005 à Constituição do Estado do
+Acre, o Estado do Acre inseriu a autora no plano de cargos,
+carreiras e remuneração da Educação.
+Como se verá adiante, a jurisprudência local assentou que
+essa conduta estatal, a pretexto do controle de
+constitucionalidade exercido na ADI 3.609, em obstar a
+aplicação das disposições de Lei Complementar Estadual, não
+se apresenta compatível com o princípio da segurança
+jurídica, sob o aspecto subjetivo de proteção à confiança das
+pessoas no que pertine aos atos, procedimentos e condutas do
+Estado” (grifei).
+
+Verifica-se que, na hipótese, a Recorrente sequer está amparada pelo
+art. 19 do ADCT, eis que foi contratada em 08.05.1986, em desacordo com
+a norma transitória que exige pelo menos de 5 (cinco anos) de exercício
+continuados na data da promulgação da CF/88.
+Além disso, mesmo que a Agravada tivesse cumprido tal requisito,
+não mereceria prosperar o recurso. Veja-se, a respeito:
+“(...) 4. O próprio "caput" do art. 19 do A.D.C.T. apenas
+conferiu estabilidade no serviço público, e não enquadramento
+em cargos, e, ainda assim, para os que se encontravam em
+exercício na data da promulgação da Constituição (5.10.1988)
+‘há pelo menos cinco anos continuados’, não sendo esse o caso
+dos impetrantes, recorridos, todos admitidos no período de
+1984 a 1988. 5. Ademais, o par. 1º do art. 19 deixou claro que
+‘para fins de efetivação’ os servidores referidos no ‘caput’
+haveriam de se submeter a concurso. 6. E o par. 2. ainda
+aduziu que o disposto no artigo ‘não se aplica aos ocupantes de
+cargos, funções e empregos de confianca’, que seria, em princípio, a
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 14 de 24
+
+ARE 1248621 AGR / AC
+situação dos recorridos. 7. Precedentes. 8. R.E. conhecido e
+provido, para denegação da segurança, cassada a liminar” (RE
+190.364), Rel. Min. Sydney Sanches, Primeira Turma, DJ
+01.03.1996).
+
+Conforme afirmado na decisão agravada, a controvérsia dos
+presentes autos foi examinada pelo Supremo Tribunal Federal no
+julgamento da ADI 3.609, da relatoria do Ministro Dias Toffoli, DJe
+30.10.2014, e restou assim ementada:
+“Ação direta de inconstitucionalidade. EC nº 38/2005 do
+Estado do Acre. Efetivação de servidores públicos providos sem
+concurso público até 31 de dezembro de 1994. Violação do art.
+37, II, CF. Precedentes. 1. Por força do art. 37, inciso II, da CF, a
+investidura em cargo ou emprego públicos depende da prévia
+aprovação em concurso público, sendo inextensível a exceção
+prevista no art. 19 do ADCT. Precedentes: ADI nº 498, Rel. Min.
+Carlos Velloso, DJ de 9/8/96; ADI nº 208, Rel. Min. Moreira
+Alves, DJ de 19/12/02; ADI nº 100, Rel. Min. Ellen Gracie, DJ de
+1/10/04; ADI nº 88, Rel. Min. Moreira Alves, DJ de 8/9/2000; ADI
+nº 1.350/RO, Rel. Min. Celso de Mello, DJ de 1/12/06; ADI nº
+289, Rel. Min. Sepúlveda Pertence, DJ de 16/3/07, entre outros. 2.
+Modulação dos efeitos da declaração de inconstitucionalidade,
+nos termos do art. 27 da Lei nº 9.868/99, para se darem efeitos
+prospectivos à decisão, de modo que somente produza seus
+efeitos a partir de doze meses, contados da data da publicação
+da ata do julgamento, tempo hábil para a realização de
+concurso público, a nomeação e a posse de novos servidores,
+evitando-se, assim, prejuízo à prestação de serviços públicos
+essenciais à população. 3. Ação direta de inconstitucionalidade
+julgada procedente.”
+
+O ponto controvertido nestes autos, qual seja, o status jurídico dos
+servidores que ingressaram nos quadros da Administração Pública sem
+concurso público – se efetivos ou não - foi especificamente abordado na
+ação direta, in verbis:
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 15 de 24
+
+ARE 1248621 AGR / AC
+
+“No caso presente, analisando-se a norma impugnada,
+verifica-se que a sua inconstitucionalidade é patente, porque,
+desde a promulgação da Constituição de 1988, por força de seu
+art. 37, inciso II, a investidura em cargo ou emprego público
+depende da prévia aprovação em concurso público. Ressalte-se
+que a orientação deste Tribunal, no sentido de não ser
+complacente em relação à regra do concurso público, encontrase sedimentada no voto proferido pelo Ministro Celso de Mello
+no julgamento da ADI nº 1.350/RO, nos seguintes termos:
+(...)
+Verifica-se, ademais, que a norma impugnada ampliou
+incontestavelmente o conteúdo do art. 19 do ADCT da
+Constituição Federal, que garantiu, tão somente, a estabilidade
+excepcional – não a efetivação – dos servidores da
+administração direta, autárquica e das fundações públicas, o
+que não inclui os empregados das empresas públicas e
+sociedades de economia mista.
+Note-se que, apesar de não haverem ingressado na
+Administração Pública mediante concurso público, os
+servidores estabilizados com base no art. 19 do ADCT da
+Constituição Federal possuem apenas o direito de permanecer
+na função para as quais foram admitidos, somente vindo a
+adquirir efetividade no cargo quando se submeterem a certame
+público, conforme destacado no seu § 1º (‘[o] tempo de serviço
+dos servidores referidos neste artigo será contado como título
+quando se submeterem a concurso para fins de efetivação, na
+forma da lei’).
+Além disso, a norma constitucional somente beneficiou
+aqueles que contavam com cinco anos de serviço à época da
+promulgação da Constituição, enquanto o dispositivo ora
+atacado efetivou todos os que ingressaram no serviço público
+estadual até 31 de dezembro de 1994” (grifei).
+
+Confira-se, ainda, a ementa do RE 167.635, Rel. Min. Maurício
+Corrêa, Segunda Turma, DJ 17.02.1997:
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 16 de 24
+
+ARE 1248621 AGR / AC
+
+“(...) 1.3. O preceito constitucional inserto no art. 37, II, não
+permite o “aproveitamento”, uma vez que, nesse caso, há
+igualmente o ingresso em outra carreira, sem o concurso
+público exigido. Precedente.
+2.Efetividade e estabilidade. Não há que confundir
+efetividade com estabilidade. Aquela é atributo do cargo,
+designando o funcionário desde o instante da nomeação; a
+estabilidade é aderência, é integração no serviço público, depois
+de preenchidas determinadas condições fixadas em lei, e
+adquirida pelo decurso de tempo.
+3. Estabilidade: artigos 41 da Constituição Federal e 19 do
+ADCT. A vigente Constituição estipulou duas modalidades de
+estabilidade no serviço público: a primeira, prevista no art. 41, é
+pressuposto inarredável à efetividade. A nomeação em caráter
+efetivo constitui-se em condição primordial para a aquisição da
+estabilidade, que é conferida ao funcionário público investido
+em cargo, para o qual foi nomeado em virtude de concurso
+público. A segunda, prevista no art. 19 do ADCT, é um favor
+constitucional conferido àquele servidor admitido sem
+concurso público há pelo menos cinco anos antes da
+promulgação da Constituição. Preenchidas as condições
+insertas no preceito transitório, o servidor é estável, mas não é
+efetivo, e possui somente o direito de permanência no serviço
+público no cargo em que fora admitido, todavia sem
+incorporação na carreira, não tendo direito a progressão
+funcional nela, ou a desfrutar de benefícios que sejam
+privativos de seus integrantes.
+3.1. O servidor que preenchera as condições exigidas pelo
+art. 19 do ADCT-CF/88 é estável no cargo para o qual fora
+contratado pela Administração Pública, mas não é efetivo. Não
+é titular do cargo que ocupa, não integra a carreira e goza
+apenas de uma estabilidade especial no serviço público, que
+não se confunde com aquela estabilidade regular disciplinada
+pelo art. 41 da Constituição Federal. Não tem direito a
+efetivação, a não ser que se submeta a concurso público,
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 17 de 24
+
+ARE 1248621 AGR / AC
+quando, aprovado e nomeado, fará jus à contagem do tempo de
+serviço prestado no período de estabilidade excepcional, como
+título.
+4. Servidor estável “ex vi” do art. 19 do ADCT,
+redistribuído para Assembleia Legislativa e efetivado na
+carreira por ato da Mesa Legislativa. Anulação. Ilegalidade e
+existência de direito adquirido. Alegação improcedente.
+Súmula 473/STF.
+4.1. O ato de “redistribuição” ou “enquadramento”, assim
+como o de “transferência” ou “aproveitamento”, que propiciou
+o ingresso do servidor na carreira, sem concurso público,
+quando esse era excepcionalmente estável no cargo para o qual
+fora contratado inicialmente (art. 19, ADCT), é nulo, por
+inobservância ao art. 37, II, da Constituição Federal. Legítimo é
+o ato administrativo que declarou a nulidade da Resolução da
+Mesa da Assembleia Legislativa, que efetivou o agente público,
+pois a Administração pode anular seus próprios atos, quando
+eivados de vícios que os tornem ilegais, porque deles não se
+originam direitos (Súmula 473). A Constituição Federal não
+permite o ingresso em cargo público - sem concurso”.
+
+Dessa forma, o acórdão recorrido, ao reformar a sentença, amparado
+no princípio da segurança jurídica, divergiu do entendimento desta
+Corte, na medida em que conferiu direito ao reenquadramento funcional
+– direito reservado aos servidores efetivos -, a servidor contratado sem
+concurso público, ao passo que a jurisprudência desta Corte é firme no
+sentido de que a efetividade é prerrogativa dos servidores que acessaram
+os cargos públicos mediante concurso público.
+Nesse sentido, foram apontados na decisão ora agravada, recentes
+julgados desta Corte:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR
+PÚBLICO. ESTABILIDADE EXCEPCIONAL. ART. 19 DO
+ADCT. VANTAGENS INERENTES AO CARGO EFETIVO.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 18 de 24
+
+ARE 1248621 AGR / AC
+IMPOSSIBILIDADE
+DE
+OBTENÇÃO.
+PRECEDENTES.
+AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+I - O Supremo Tribunal Federal firmou entendimento no
+sentido de que a estabilidade excepcional prevista no art. 19
+doADCT alcança servidores estaduais, mas difere da
+efetividade, para a qual é imprescindível a aprovação em
+concurso público.
+II - A jurisprudência desta Corte é pacífica no sentido de
+que os servidores públicos beneficiados pelo art. 19 do Ato das
+Disposições Constitucionais Transitórias - ADCT teriam direito
+à estabilidade, não se lhes conferindo as vantagens privativas
+dos ocupantes de cargo efetivo, para o qual se exige concurso
+público. III - Agravo regimental ao qual se nega provimento.”
+(ARE 1.238.618-AgR, Rel. Min. Ricardo Lewandowski, Segunda
+Turma, DJe 04.03.2020)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO –
+SERVIDOR PÚBLICO – INVESTIDURA EM CARGO DE
+PROVIMENTO EFETIVO INDEPENDENTEMENTE DE
+PRÉVIA APROVAÇÃO EM CONCURSO PÚBLICO –
+IMPOSSIBILIDADE – TRANSGRESSÃO AO DISPOSTO NO
+ART. 37, II, DA CONSTITUIÇÃO DA REPÚBLICA –
+INEXISTÊNCIA DE DIREITO À ESTABILIDADE – DECISÃO
+QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO
+SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE
+INVIABILIDADE DO RECURSO QUE A IMPUGNA –
+SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE
+À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL
+(CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE
+A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA
+HONORÁRIA, POR TRATAR-SE DE PROCESSO DE
+MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI Nº
+12.016/2009, ART. 25) – AGRAVO INTERNO IMPROVIDO.”
+(ARE 1.234.740-AgR, Rel. Min. Celso de Mello, Segunda Turma,
+DJe 18.05.2020)
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 19 de 24
+
+ARE 1248621 AGR / AC
+Extraio, ainda, da decisão monocrática exarada no RE 1.246.937, de
+relatoria da Min. Cármen Lúcia, DJe 13.05.2020, em caso análogo ao ora
+em exame, os seguintes fragmentos:
+“(...)Agravo nos autos principais contra inadmissão de
+recurso extraordinário interposto com base na al. a do inc. III do
+art. 102 da Constituição da República contra o seguinte julgado
+do Tribunal de Justiça do Acre:
+“CONSTITUCIONAL
+E
+ADMINISTRATIVO.
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO.
+INGRESSO SEM CONCURSO PÚBLICO. ATRIBUTO DA
+EFETIVIDADE. AUSÊNCIA. MOVIMENTAÇÃO NA
+CARREIRA.
+NOVO
+PCCR.
+ENQUADRAMENTO.
+RECUSA. ILEGALIDADE. SEGURANÇA JURÍDICA.
+TRANSGRESSÃO. ORDEM CONCEDIDA. 1. Os cargos
+ocupados por servidores que ingressaram sem prévio concurso
+público antes da Constituição Federal se ressentem do atributo
+da efetividade, caso em que os exercentes carecem de direito à
+movimentação na respectiva carreira. 2. Ainda assim, se o
+servidor obtém ao longo de todo o período de atividade
+progressão e promoção no exercício do cargo, o ato de recusa
+quanto ao seu enquadramento em novo plano de cargos e
+remuneração é manifestamente ilegal, porquanto enuncia
+manifesta afronta ao princípio da segurança jurídica. 3.
+Segurança concedida” (fl. 1, e-doc. 9).
+(...)
+4. Razão jurídica assiste ao agravante.
+(...)
+A decisão recorrida contraria o inc. II do art. 37 da
+Constituição da República ao conceder-se o direito a novo
+enquadramento à servidora que não goza de efetividade, pois
+ingressara sem concurso público.
+(...)
+6. Em 5.2.2014, por unanimidade, o Plenário deste
+Supremo Tribunal julgou procedente o mérito da Ação Direta
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 20 de 24
+
+ARE 1248621 AGR / AC
+de Inconstitucionalidade n. 3.609, do Acre, ainda pendente o
+julgamento de embargos declaratórios, para reconhecer a
+inconstitucionalidade da emenda à Constituição daquele
+Estado, pela qual seriam efetivados os servidores sem concurso
+público ingressos até 31.12.1994. Confira-se a ementa do
+julgado:
+(...)
+Houve modulação dos efeitos da decisão apenas para dar
+tempo hábil ao Acre de realizar concurso público e substituir
+todos os não concursados. A modulação não se prestou a trazer
+aparência de constitucionalidade durante o prazo concedido,
+como pode ser conferido no esclarecimento no voto do Ministro
+Teori Zavaski:
+(...)
+A modulação para concessão de prazo hábil para
+adequação e realização de concurso público já havia sido feita
+em outra ação, a Ação Direta de Inconstitucionalidade n. 4.125,
+do Tocantins, de minha relatoria (DJe 1º.3.2011).
+7. Este Supremo Tribunal tem afastado afronta ao inc. II do
+art. 37 da Constituição da República, em especial quanto à
+restrição da efetividade, conferida exclusivamente aos
+aprovados em concurso público. A efetividade não foi
+constitucionalmente admitida nem aos servidores agraciados
+com a estabilidade excepcional do art. 19 do Ato das
+Disposições Constitucionais Transitórias da Constituição da
+República de 1988. Assim, por exemplo:
+(...).
+Confiram-se também, por exemplo, decisões proferidas no
+ARE n. 1.259.447, Relator o Ministro Ricardo Lewandowski (DJe
+4.5.2020), e no ARE n. 1.234.740, Relator o Ministro Celso de
+Mello (DJe 4.12.2019).
+O entendimento exposto no acórdão recorrido divergiu
+dessa orientação jurisprudencial continuamente reafirmada.
+8. Pelo exposto, dou provimento ao recurso extraordinário
+com agravo para denegar o mandado de segurança (...)”.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 21 de 24
+
+ARE 1248621 AGR / AC
+Além destes precedentes, vejam-se a respeito da questão relativa ao
+reenquadramento de servidor público ou à progressão vertical ou
+horizontal, sem a realização de concurso público, após a CF/88, os
+seguintes julgados:
+“CONSTITUCIONAL.
+MAGISTÉRIO
+SUPERIOR.
+ACESSO. IMPOSSSIBILIDADE. EXIGÊNCIA DE CONCURSO
+PÚBLICO. PRECEDENTES. Resolução nº 21, de 22 de
+dezembro de 1988, do Conselho Universitário da Universidade
+do Amazonas - FUA, que aprova as normas de progressão
+vertical e horizontal dos docentes da carreira do Magistério
+Superior da Universidade daquele Estado. Hipótese de
+incompatibilidade com o artigo 37, II, da Constituição Federal,
+que exige concurso público para o provimento dos diversos
+cargos da carreira. Recurso não conhecido” (grifei) (RE 234.009,
+Redator para o acórdão Min. Maurício Corrêa, Segunda Turma,
+DJ 20.10.2000).
+“Agravo regimental no recurso extraordinário com agravo.
+Administrativo.
+Servidor
+público.
+Pretensão
+de
+reenquadramento em cargo diverso exercido com desvio de
+função. Impossibilidade. Concurso público. Necessidade.
+Precedentes. 1. A jurisprudência da Corte é no sentido da
+necessidade de prévia aprovação em concurso público para a
+investidura em cargo ou emprego público, sendo essa a regra
+mesmo no regime constitucional pretérito. 2. Agravo regimental
+não provido” (ARE 802.713-AgR, Rel. Min. Dias Toffoli,
+Primeira Turma, DJe 08.10.2014).
+“Agravo regimental em recurso extraordinário com
+agravo. 2. Administrativo. Servidor Público Estadual.
+Reenquadramento de cargo sem concurso público.
+Impossibilidade 3. Inteligência do artigo 37, II, da Constituição
+Federal e do Enunciado 685 da súmula do STF. Precedentes. 4.
+Agravo regimental a que se nega provimento” (ARE 772.134AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 22 de 24
+
+ARE 1248621 AGR / AC
+26.03.2014).
+
+Nesse mesmo sentido, aponto, ainda, as ementas das ADI 3442 e da
+ADI 5817:
+“Ação Direta de Inconstitucionalidade. 2. Arts. 68, 69 e 70
+da Lei nº 8.269/2004, do Estado de Mato Grosso, que permitem
+o provimento de cargos efetivos por meio de reenquadramento.
+3. Violação ao artigo 37, II, da Constituição da República, que
+dispõe sobre a exigência de concurso público para a investidura
+em cargo ou emprego público. 4. Ação Direta de
+Inconstitucionalidade julgada procedente” (ADI 3442, Rel. Min.
+Gilmar Mendes, Plenário, DJe 07.12.2007).
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+DIREITO ADMINISTRATIVO. SERVIDORES PÚBLICOS. LEI
+COMPLEMENTAR N. 1.260/15 DO ESTADO DE SÃO PAULO.
+TRANSFORMAÇÃO E EXTINÇÃO DO CARGO DE AGENTE
+ADMINISTRATIVO
+JUDICIÁRIO
+EM
+ESCREVENTE
+TÉCNICO
+JUDICIÁRIO.
+PROVIMENTO
+DERIVADO.
+IMPOSSIBILIDADE. OFENSA AO ARTIGO 37, II, DA
+CONSTITUIÇÃO
+FEDERAL
+–
+NECESSIDADE
+DE
+OBSERVÂNCIA DA EXIGÊNCIA DE CONCURSO PÚBLICO.
+VIOLAÇÃO
+DO
+PRINCÍPIO
+DA
+IGUALDADE.
+JURISPRUDÊNCIA CONSOLIDADA DESTE SUPREMO
+TRIBUNAL
+FEDERAL
+QUE
+IMPEDE
+ASCENSÃO,
+TRANSFERÊNCIA, ENQUADRAMENTO, MUDANÇA OU
+TRANSFORMAÇÃO EM OUTRO CARGO. SÚMULA
+VINCULANTE Nº 43 DESTA CORTE. PROCEDÊNCIA. 1.
+Alegação de inconstitucionalidade material da Lei
+Complementar 1.260/15 do Estado de São Paulo, que dispõe
+sobre a transformação e extinção do cargo de Agente
+Administrativo Judiciário em Escrevente Técnico Judiciário,
+ambos do Tribunal de Justiça do Estado de São Paulo. Uma vez
+aprovado em concurso e investido no cargo de Agente
+Administrativo Judiciário é vedado ao servidor galgar outro
+cargo – o de Escrevente Técnico Judiciário – sem a realização de
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 23 de 24
+
+ARE 1248621 AGR / AC
+prévio concurso público. Situação caracterizadora de
+transposição ou reenquadramento de cargos sem concurso
+público. A Lei Complementar 1.260/15 do Estado de São Paulo
+realizou provimento derivado. Inconstitucionalidade por
+afronta à exigência da prévia aprovação em concurso público
+para investidura em cargo público (art. 37, II, da Lei Maior) e ao
+princípio da igualdade (art. 5º, caput, da Constituição da
+República). Incidência da jurisprudência consolidada deste
+Supremo Tribunal Federal e da Súmula Vinculante nº 43. 2.
+Pedido da ação direta julgado procedente” (ADI 5817, Rel. Min.
+Rosa Weber, Plenário, 12.05.2020).
+
+Assim, não há reparos a fazer na decisão ora impugnada.
+Ante o exposto, nego provimento ao presente agravo regimental.
+Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve
+prévia fixação de honorários na origem.
+É como voto.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 383F-601B-3D97-152F e senha E035-8663-EB57-5F97
+
+Supremo Tribunal Federal
+Extrato de Ata - 30/11/2020
+
+Inteiro Teor do Acórdão - Página 24 de 24
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.248.621
+PROCED. : ACRE
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : MARIA RAIMUNDA DE SOUZA
+ADV.(A/S) : DOUGLLAS JONATHAN SANTIAGO DE SOUZA (3132/AC)
+AGDO.(A/S) : ESTADO DO ACRE
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DO ACRE
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental e deixou de aplicar o art. 85, § 11, do CPC, tendo em
+vista que não houve prévia fixação de honorários na origem, nos
+termos do voto do Relator. Segunda Turma, Sessão Virtual de
+20.11.2020 a 27.11.2020.
+Composição: Ministros Gilmar Mendes (Presidente),
+Lewandowski, Cármen Lúcia, Edson Fachin e Nunes Marques.
+
+Ricardo
+
+Maria Clara Viotti Beck
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1038-450B-1031-22E3 e senha EAE9-6C6E-741B-E62D
