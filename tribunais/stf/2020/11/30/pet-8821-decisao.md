@@ -1,0 +1,23 @@
+Petição. Notitia criminis. Formalização do conhecimento provocado do titular da ação penal. Arquivamento interno pela PGR. RISTF, Art. 230-B. Extinção do feito.
+    Vistos etc.
+    Trata-se de Petição por meio da qual Carlos Alberto Guedes da Silva Junior noticia a prática, em tese, do crime de advocacia administrativa (CP, artigo 321) pelo Presidente da República Jair Messias Bolsonaro.
+    O Ministério Público Federal, em manifestação da lavra do Vice-Procurador-Geral da República Humberto Jacques de Medeiros, informou que a notícia de fato foi objeto de arquivamento interno no âmbito da PGR, nos autos do procedimento administrativo 1.00.000.011535/2020-11, aos seguintes fundamentos:
+    “(...) 6. O relato dos requerentes e os elementos informativos apresentados não trazem dados concretos capazes de indicar a prática da conduta relatada. Os representantes limitam-se a juntar recortes de notícias de jornais a respeito do ato que configuraria o ilícito penal por eles apontado.
+    7. A inexistência de documentação mínima a embasar a narrativa constitui, por si só, óbice ao prosseguimento do feito no âmbito do Ministério Público Federal.
+    8. Ainda que esse óbice pudesse ser superado, os fatos narrados não justificam a atuação do Ministério Público Federal.
+    9. O delito de advocacia administrativa prevê, como conduta criminosa, o ato de um servidor público defender interesses particulares junto ao órgão da administração pública onde exerce suas funções.
+    10. Essa atuação, naturalmente, não se confunde, sob pena de se criminalizar a política e os grupos de pressão, com a atividade do parlamentar que propõe ao presidente da República adoção de normas visando atender os interesses de uma parcela significativa de seu eleitorado.
+    - III -
+    11. O quadro impõe o arquivamento de ambas as notícias de fato, levando em consideração, por analogia, o que dispõe o art. 105, inciso I, da Portaria PGR/MPF nº 40, de 24 de abril de 2020. Promovo-o.
+    12. Deem ciência desta decisão aos interessados. Informe-nos, nos termos do parágrafo único do dispositivo citado, acerca da possibilidade de protocolar, em até dez dias, contados a partir do dia imediatamente posterior ao envio da comunicação, pedido de reconsideração, acompanhado das respectivas razões.
+    13. Encerrado o prazo mencionado no item anterior sem que tenha sido apresentado o requerimento de alteração da resolução tomada, movimentem o expediente para o setor responsável pelo preenchimento do Termo de Avaliação e Destinação de Autos, referido no § 3º do art. 4º da Portaria PGR/MPF nº 184, de 21 de março de 2016. Formalizado, providenciem a conclusão.
+    É o relatório. Decido.
+    O Regimento Interno deste Supremo Tribunal Federal condicionou a instauração e o arquivamento de inquérito à autorização judicial, excepcionando desse procedimento as notitiae criminis. Nesse sentido, em seu artigo 230-B dispôs que “o Tribunal não processará comunicação de crime, encaminhando-a à Procuradoria-Geral da República”.
+    No caso, o alegado crime é processado mediante ação penal pública incondicionada, sendo abundantes os precedentes no sentido de que o cidadão, nesta condição, “é parte ilegítima para a formulação de pedido para a apuração de crimes de ação penal pública incondicionada” perante o Supremo Tribunal Federal. Cito, a título exemplificativo: Inquérito 149, Rel. Min. Rafael Mayer, Pleno, DJ 27.10.1983; Petição 1.104/AgR-ED, Rel. Min. Sydney Sanches, Pleno, DJ 23.5.2003; Petição 1.954/DF, Rel. Min. Maurício Corrêa, Pleno, DJ 1º.8.2003; Petição 2.805/AgR, Rel. Min. Nelson Jobim, Pleno, DJ 27.2.2004; e Petição 2.998/AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 6.11.2006 e, mais recentemente, Petição 8825/AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 06.7.2020.
+    Assim, o processamento de comunicações de crime no âmbito desta Suprema Corte deve limitar-se à simples formalização do conhecimento provocado do titular da ação penal a respeito da indicação da prática de fato criminoso por autoridade com foro perante a Suprema Corte.
+    Tendo o titular da ação penal formado sua opinião sobre o suposto delito e concluído pela inexistência de elementos que justifiquem sequer a instauração de investigação formal, não há qualquer providência a ser adotada na seara judicial, na linha da compreensão plenária firmada por ocasião do julgamento da Petição nº 8806 AgR, Rel. Min. Celso de Mello, DJe 27.10.2020.
+    Ante o exposto, tendo o procedimento cumprido sua finalidade de levar a notícia da prática delitiva ao conhecimento do dominus litis, julgo extinto o feito, forte nos artigos 21, IX e § 1º c.c. art. 230-B do RISTF.
+    Intime-se. Arquive-se.
+    Brasília, 30 de novembro de 2020.
+Ministra Rosa Weber
+Relatora
