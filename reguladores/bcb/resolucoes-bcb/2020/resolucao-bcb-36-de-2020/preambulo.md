@@ -1,0 +1,5 @@
+Resolução Nº 36
+RESOLUÇÃO BCB Nº 36, DE 4 de NOVEMBRO de 2020
+Altera a Circular nº 3.953, de 10 de julho de 2019, que institui a identificação padronizada de operações de crédito na remessa de informações ao Sistema de Informações de Créditos (SCR), de que trata a Resolução nº 4.571, de 26 de maio de 2017, e em todos os registros que identifiquem operações de crédito, realizados em entidades autorizadas a exercer as atividades de registro ou de depósito centralizado de ativos financeiros e valores mobiliários.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 4 de novembro de 2020, com base nos arts. 10, inciso IX, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, nos arts. 22, inciso II, 26, § 4º, e 28, inciso II, da Lei nº 12.810, de 15 de maio de 2013, no art. 9º, incisos II e VIII, da Lei nº 12.865, de 9 de outubro de 2013, no art. 106 da Lei nº 13.097, de 19 de janeiro de 2015, e tendo em vista as Resoluções ns. 4.088, de 24 de maio de 2012, e 4.571, de 26 de maio de 2017, e as Circulares ns. 3.743, de 8 de janeiro de 2015, e 3.870, de 19 de dezembro de 2017,
+R E S O L V E :
