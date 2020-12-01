@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Regime inicial. Superação da súmula 691/STF. Ordem concedida de ofício.
+1. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+2. Hipótese de paciente (primária e de bons antecedentes), condenada a 4 anos, 10 meses e 10 dias de reclusão, no regime fechado, pelo crime de tráfico privilegiado.
+3. Situação concreta em que o regime prisional semiaberto se me afigura resposta estatal necessária e suficiente para reprovação e prevenção do crime (art. 59 do CP).
+4. Habeas corpus a que se nega seguimento. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 581.228/SP, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que a paciente, presa preventivamente, foi condenada, em primeira instância, à pena de 5 anos e 10 meses, em regime inicial fechado, pela prática do crime previsto no art. 33, caput, c.c. o art. 40, inciso III, da Lei 11.343/2006 (295g de cocaína); negado o direito de recorrer em liberdade. Irresignada, a defesa interpôs recurso de apelação. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso para “aplicar o redutor do § 4°, do art. 33, da Lei 11.343/06, e reduzir a pena a quatro (4) anos, dez (10) meses e dez (10) dias de reclusão [...]”.
+    3. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ilegalidade do regime fechado para início de cumprimento de pena do crime de tráfico privilegiado. Ressalta que a paciente, presa desde a audiência de custódia, “é primária, possui bons antecedentes e possui trabalho honesto”.
+    4. Considerando o regime semiaberto como o correto, destaca que “a paciente já estaria em regime aberto, pois, já houve o lapso temporal de progressão, tanto que a mesma já passou do regime fechado para o semiaberto”.
+    5. A defesa requer “seja modificado regime inicial de pena da Paciente para o semiaberto, gerando assim, consequentemente, sua transferência para o aberto”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+    8. Não bastasse, a orientação do STF é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. No caso, os autos dão conta que a condenação transitou em julgado em 17.09.2020 (doc. 6, p. 27).
+    9. Sem prejuízo desse encaminhamento, tenho que a ordem deve ser concedida de ofício.
+    10. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF).
+    11. Na hipótese de que se cuida, verifico que a paciente foi condenada à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial fechado, por tráfico privilegiado. Na primeira fase da dosimetria, a pena-base foi fixada no mínimo legal (5 anos), o que significa dizer que todas as circunstâncias judiciais foram favoráveis à sentenciada, nos termos do art. 59 do Código Penal. Na segunda fase, não houve a incidência de agravantes ou atenuantes. Já na terceira fase, o Tribunal estadual reconheceu que a paciente fazia jus ao redutor do § 4°, do art. 33, da Lei 11.343/06, em 1/6, “por ser primária e não existir prova de seu envolvimento com organização criminosa”. Na sequência, a pena foi elevada em 1/6, ante a incidência da causa de aumento do art. 40, inc. III, da Lei de Drogas, totalizando-se em 4 anos, 10 meses e 10 dias de reclusão.
+    12. Nessas condições, em se tratando de paciente primária e de bons antecedentes, condenada a 4 anos, 10 meses e 10 dias de reclusão pelo crime de tráfico privilegiado, não há como deixar de reconhecer a ilegalidade no estabelecimento do regime prisional fechado, atento aos termos do art. 33, § 3º, do Código Penal. O regime prisional intermediário se me afigura, no caso, resposta estatal necessária e suficiente para reprovação e prevenção do crime (art. 59 do CP).
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus. Contudo, concedo a ordem de ofício para fixar o regime semiaberto para o início do cumprimento da pena.
+    Comunique-se, com urgência.
+    Publique-se.
+          Brasília, 1º de dezembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
