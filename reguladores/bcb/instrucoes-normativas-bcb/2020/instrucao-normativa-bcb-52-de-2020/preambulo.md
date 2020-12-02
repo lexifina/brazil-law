@@ -1,0 +1,4 @@
+Carta Circular Crédito INSTRUÇÃO NORMATIVA BCB Nº 52, DE 1º DE DEZEMBRO DE 2020
+Altera a redação das Cartas Circulares nº 3.850 e 3.853, ambas de 19 de dezembro de 2017, que detalham rubricas contábeis a serem utilizadas na apuração do Patrimônio de Referência Simplificado (PRS5) e no cálculo da parcela dos ativos ponderados pelo risco na forma simplificada (RWAS5) no que se refere ao risco de crédito, respectivamente.
+O Chefe do Departamento de Regulação Prudencial e Cambial (Dereg), no uso das atribuições que lhe conferem os art. 23, inciso I, alínea “a”, e art. 118, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 108.150, de 27 de agosto de 2020, e tendo em vista o disposto no art. 11, parágrafo único, da Resolução nº 4.606, de 19 de outubro de 2017, e na Circular nº 3.862, de 7 de dezembro de 2017,
+R E S O L V E :
