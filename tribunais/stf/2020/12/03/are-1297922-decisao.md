@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APOSENTADORIA ESPECIAL — Professora Estadual — Recalculo da aposentadoria proporcional — Quadro do Magistério — Redução de 05 anos no tempo de contribuição — Cálculo dos proventos do magistério proporcional aos 25 anos Admissibilidade - Inteligência do art. 40, III, b e § 5°, da CF - Sentença de improcedência — Recurso provido - É assegurado ao professor o direito de aposentar-se com proventos proporcionais aos 25 anos de exercício da função de magistério, na forma do art. 40, III, b, da CF188. Precedentes do STF e desta Corte.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 40, § 1º, III, e § 5º, da Constituição Federal.
+    O recurso é inadmissível, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal (STF) no sentido de que a aposentadoria proporcional do professor público, em funções exclusivas de magistério, tem como base de cálculo dos proventos o tempo exigido para a aposentadoria com proventos integrais dos professores. Nesse sentido, vejam-se o ARE 902.865-AgR, Rel. Min. Dias Toffoli, e o ARE 738.222-AgR, Min. Rel. Luiz Fux.
+    E mais: o Plenário do STF, ao apreciar o mérito do RE 870.947-RG, Rel. Min. Luiz Fux, sob a sistemática da repercussão geral (Tema 810), decidiu pela inconstitucionalidade do art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, na parte em que disciplinou a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança. Veja a redação da tese:
+    “[...]
+    2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.”
+    Ao rejeitar todos os embargos de declaração opostos, o STF decidiu não modular os efeitos da mencionada decisão.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 03 de dezembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+Relator
