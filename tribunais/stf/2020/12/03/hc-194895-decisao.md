@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Marcos Rodrigo Sifonte, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 626.573/SP, Relator o Ministro Reynaldo Soares da Fonseca.
+    Sustenta a impetrante, em apertada síntese, a existência de constrangimento ilegal, eis que houve excessivo rigor na dosimetria da pena.
+    Aduz que deve ser afastada “a valoração negativa da vetorial da quantidade/natureza das drogas apreendidas, reduzindo-se, proporcionalmente, a pena-base.”
+    Refere que
+    “a presença de duas circunstâncias judiciais desfavoráveis e estabelecido o consagrado parâmetro de aumento de 1/8 (um oitavo) para cada circunstância desfavorável (pacífico no Tribunal da Cidadania), evidente divisa teratologia manifesta no cálculo da sanção a justificar a concessão da ordem para readequar a fração de 1/3 aplicada na basilar para ¼.”
+    Sustenta, ainda, que deveria ser feita a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+    Requer, liminarmente, a concessão da ordem para reduzir o quantum de aumento da pena aplicado.
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto questionado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. MAUS ANTECEDENTES E EXPRESSIVA QUANTIDADE E NATUREZA ESPECIALMENTE DELETÉRIA DO ENTORPECENTE APREENDIDO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+    – A legislação brasileira não prevê um percentual fixo para o aumento da pena-base em razão do reconhecimento das circunstâncias judiciais desfavoráveis, tampouco em razão de circunstância agravante ou atenuante, cabendo ao julgador, dentro do seu livre convencimento motivado, sopesar as circunstâncias do caso concreto e quantificar a pena, observados os princípios da proporcionalidade e da razoabilidade.
+    – Ademais, em se tratando de crime de tráfico de drogas, como ocorre in casu, o juízo, ao fixar a pena, deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+    – A pena-base do paciente foi exasperada em 1/3, em virtude do desvalor conferido aos seus maus antecedentes – na fração usual de aumento de 1/6, nos termos da jurisprudência desta Corte de Justiça –, e às circunstâncias do delito, consubstanciada na expressiva quantidade e natureza especialmente deletéria do entorpecente apreendido – 300,440 gramas de cocaína (e-STJ, fl. 349) –, fundamentação idônea e que se encontra em consonância ao já mencionado art. 42 da Lei n. 11.343/2006 e à jurisprudência também pacificada desta Corte Superior Precedentes.
+    – Nesse contexto, não foi constatada nenhuma ilegalidade a ser sanada na exasperação da pena-base sob os fundamentos apresentados e, inclusive, no patamar operado, os quais estão dentro dos parâmetros mínimos estabelecidos por esta Corte superior, que adota a fração usual de 1/6 para cada circunstância judicial desfavorável.
+    – Agravo regimental não provido.”
+    É inegável, como referido pelo STJ, que as instâncias ordinárias apresentaram fundamentos idôneos, aptos a justificar a exasperação da pena no percentual aplicado, atendendo não só aos requisitos legais como também os princípios da individualização da pena e da proporcionalidade.
+    Com efeito, é pacífica a jurisprudência desta Corte no sentido de que “a via estreita do habeas corpus não permite que se proceda à ponderação e o reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória” (HC nº 100.371/CE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/5/10; HC nº 121.569/SP, Primeira Turma, de minha relatoria, DJe de 16/5/14).
+    É certo, ainda, que “[a]s circunstâncias judiciais elencadas no artigo 59 do Código Penal, quando desfavoráveis, autorizam a fixação da pena-base em patamar acima do mínimo legal, bem como fixação do regime prisional fechado mais gravoso.” (HC nº 140.816-AgR/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 20/6/17).
+    Anote-se, por fim, que por não ter sido apreciada pelo STJ a questão da compensação da agravante da reincidência com a atenuante da confissão espontânea, sua análise, de forma originária, neste writ, configuraria inadmissível supressão de instância. Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Com essas considerações, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 3 de dezembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
