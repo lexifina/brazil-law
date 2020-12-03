@@ -1,0 +1,21 @@
+EMBARGOS DE DECLARAÇÃO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ILEGITIMIDADE ATIVA AD CAUSAM. ART. 4º, CAPUT, DA LEI Nº 9.868/1999. NEGATIVA DE SEGUIMENTO. CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. AUSÊNCIA. REJEIÇÃO. Ausente contradição, omissão ou obscuridade justificadora da oposição de embargos declaratórios, a evidenciar o caráter meramente infringente da insurgência. Rejeição.
+    Vistos etc.
+    1. Contra a decisão pela qual, forte nos arts. 485, VI, do CPC, 4º, caput, da Lei nº 9.868/1999 e 21, § 1º, do RISTF, neguei seguimento à ação direta de inconstitucionalidade por ilegitimidade ativa ad causam, opõe embargos de declaração a autora.
+    Com fulcro nos arts. 489, § 1º, IV, e 1.022 do CPC, reputa omissa a decisão embargada quanto ao argumento apresentado na inicial para justificar a pertinência temática entre as normas impugnadas e o interesse da categoria por ela representada, bem como quanto ao fundamento para a decisão monocrática.
+    Requer o acolhimento dos declaratórios, com efeitos infringentes, a fim de que, sanados os vícios apontados, seja reconhecida a sua legitimidade ativa.
+    É o relatório.
+    Decido.
+    2. Os embargos de declaração são tempestivos e regular a representação processual.
+    3. Nos termos do art. 1.022, I e II, do CPC, cabem embargos de declaração para esclarecer obscuridade, eliminar contradição ou suprir omissão acaso existentes na decisão judicial. E o art. 26 da Lei nº 9.868/1999 expressamente ressalva os embargos de declaração da cláusula geral de não recorribilidade das decisões proferidas pelo Supremo Tribunal Federal do exercício da tutela abstrata de constitucionalidade das leis.
+    4. Da leitura dos fundamentos da decisão embargada, constato não se ressentir o julgado do vício que se lhe imputa, devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes – consideradas aquelas assertivas recursais capazes de, em tese, infirmar a conclusão do julgador – ao deslinde da controvérsia.
+    Ao contrário do que afirma o embargante, a decisão embargada a tese defendida na exordial como justificadora da pertinência temática entre as normas impugnadas e o interesse da categoria por ela representada foi expressamente enfrentada na decisão embargada.
+    O ponto tido por omisso pelo embargante consubstancia, de fato, a adoção de tese contrária àquela por ele defendida, expressamente assentado, no acórdão embargado, que o ato normativo impugnado não veicula conteúdo diretamente ligado aos interesses funcionais das categorias representadas pela entidade autora, uma vez que as normas regentes de regime de previdência de magistrados não expressam interesse específico e próprio de outras categorias profissionais, insuscetíveis de caracterizar, desse modo, o necessário vínculo de afinidade temática entre o objeto da demanda e os objetivos institucionais da confederação sindical autora.
+    Afastado, assim, o interesse direto e de caráter corporativo das categorias representadas pela autora, salienta a decisão que “o liame mediato, indireto, não satisfaz o requisito da pertinência temática”.
+    5. De outra parte, cumpre registrar que, ao disciplinador o processo e julgamento da ação direta de inconstitucionalidade, o art. 4º, caput, da Lei nº 9.868/1999 autoriza expressamente o relator a negar seguimento ao processo em hipótese como a presente. Tratando-se de matéria de ordem pública, insuscetível de preclusão (art. 278, parágrafo único, do CPC), compete ao juízo conhecer da condição da ação relativa à legitimatio em qualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado (art. 485, VI e § 3º, do CPC).
+    6. Não se prestam os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que ostentam e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    7. Ausente contradição, obscuridade ou omissão na decisão embargada, evidencia-se tão somente o inconformismo da parte com a decisão que lhe foi desfavorável.
+    8. Ante o exposto, não configurada qualquer das hipóteses do art. 1.022 do CPC, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 03 de dezembro de 2020.
+Ministra Rosa Weber
+Relatora
