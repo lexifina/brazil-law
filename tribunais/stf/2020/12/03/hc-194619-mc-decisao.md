@@ -1,0 +1,21 @@
+DECISÃO
+ASSOCIAÇÃO PARA O TRÁFICO – ABSOLVIÇÃO – INADEQUAÇÃO.
+PENA – CAUSA DE DIMINUIÇÃO – ATIVIDADES CRIMINOSAS – DEDICAÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006.
+PENA – CUMPRIMENTO – REGIME – ARTIGO 33, PARÁGRAFOS 2º E 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina assim retratou o habeas corpus:
+    O Juízo da Primeira Vara da Comarca de Avaré/SP, no processo nº 0005308-02.2017.8.26.0073, condenou o paciente a 1 ano e 8 meses de reclusão, no regime fechado, e 166 dias-multa, ante o crime do artigo 33 (tráfico de drogas) da Lei nº 11.343/2006. Absolveu-o quanto ao crime de associação para o tráfico.
+    A Quarta Câmara de Direito Criminal do Tribunal de Justiça proveu apelação interposta pelo Ministério Público, condenando-o a 8 anos de reclusão, no regime fechado, considerados os crimes mencionados. Destacou a natureza e a quantidade dos entorpecentes apreendidos – 1 pedra de crack (41,5 gramas), 1 porção de cocaína (12,5 gramas) e 1 tijolo de maconha (352,6 gramas) –, além de balança de precisão, faca com resquícios de maconha, lâmina de barbear com vestígios de cocaína, 5 eppendorfs com resquícios de cocaína, 1 colher com restos de crack, 24 bexigas, 1 rolo de fita adesiva, 1 rolo de papel PVC e 1 rolo de saco plástico. No tocante ao crime de associação para o tráfico, ressaltou haver o paciente confessado manter em depósito, em associação ao corréu Douglas, grande quantidade de substâncias ilícitas e utensílios para embalá-las, salientando incabível a absolvição. Levando em conta o piso de 3 e o teto de 10 anos, estabeleceu a pena-base no mínimo legal, tornando-a definitiva. Em relação ao tráfico, fixou a pena-base, observado o mínimo de 5 e o máximo de 15 anos, em 5 anos e 10 meses, em razão da elevada culpabilidade ante a variedade de drogas encontradas. Reconheceu a atenuante da confissão, na fração de 10 meses. Afastou a causa de diminuição do § 4º do artigo 33 da Lei de regência, considerada a gradação do tráfico, a indicar a dedicação à atividade criminosa.
+    No Superior Tribunal de Justiça, o Relator inadmitiu o habeas corpus nº 620.338/SP.
+    A impetrante sustenta configurada ilegalidade na condenação por associação para o tráfico, dizendo não comprovado o vínculo, de maneira estável, entre o paciente e corréu. Afirma possível o reconhecimento do direito à causa de diminuição. Aponta cabível o regime intermediário.
+    Requer, no campo precário e efêmero, a absolvição considerado o crime de associação, a observância da causa de diminuição do § 4º e a colocação do paciente no regime semiaberto. No mérito, busca a confirmação das providências.
+    Consulta ao sítio do Tribunal de Justiça, em 3 de novembro de 2020, revelou o trânsito em julgado do título condenatório.
+    2. O Tribunal de Justiça destacou comprovada a prática do crime de associação para o tráfico de drogas. Reportou-se a depoimento do paciente, no que confessou ter em depósito, associado com corréu, substâncias ilícitas. Realçou a apreensão de 1 pedra de crack (41,5 gramas), 1 porção de cocaína (12,5 gramas) e 1 tijolo de maconha (352,6 gramas), além de balança de precisão, faca com resquícios de maconha, lâmina de barbear com vestígios de cocaína, 5 eppendorfs com resquícios de cocaína, 1 colher com restos de crack, 24 bexigas, 1 rolo de fita adesiva, 1 rolo de papel PVC, 1 rolo de saco plástico, a evidenciar a materialidade do crime.
+    A teor do artigo 33, § 4º, da Lei nº 11.343/2006, é adequada a redução da pena, na fração de 1/6 a 2/3, quando o agente é primário, possui bons antecedentes, não se dedica a atividades ilícitas nem participa de grupo criminoso. O Tribunal de Justiça assentou a dedicação a atividades ilícitas, considerada a gradação do tráfico.
+    O regime de cumprimento da pena é norteado, nos termos do artigo 33, parágrafos 2º e 3º, do Código Penal, pelo patamar da condenação e as circunstâncias judiciais. Ante a pena imposta – 8 anos de reclusão – e a valoração negativa de circunstância judicial, mostrou-se cabível o fechado.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
