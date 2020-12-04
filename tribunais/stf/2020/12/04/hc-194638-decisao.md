@@ -1,0 +1,41 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM FACE DE ATO JURISDICIONAL DO SUPREMO TRIBUNAL FEDERAL. WRIT MANIFESTAMENTE INCABÍVEL. SÚMULA Nº 606 DO STF. PRECEDENTES. INADMISSIBILIDADE.
+    DECISÃO: Trata-se de habeas corpus que reputa como autoridade coatora a Segunda Turma do Supremo Tribunal Federal.
+    A defesa relata que o Min. Relator Ricardo Lewandowski, nos termos do art. 192, caput, c/c art. 312, ambos do RISTF, negou provimento ao recurso ordinário em habeas corpus nº 187.715, interposto pelos ora pacientes.
+    Contra referida decisão foi interposto agravo regimental, ao qual a Segunda Turma do Supremo Tribunal Federal negou seguimento, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. REITERAÇÃO DOS ARGUMENTOS CONSTANTES NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. IMPOSSIBILIDADE DE SE PROCEDER À PONDERAÇÃO E AO REEXAME DAS CIRCUNSTÂNCIAS JUDICIAIS REFERIDAS NO ARTIGO 59 DO CÓDIGO PENAL, CONSIDERADAS NA SENTENÇA CONDENATÓRIA. CONTROLE DA LEGALIDADE DOS CRITÉRIOS UTILIZADOS E CORREÇÃO DE EVENTUAIS ARBITRARIEDADES: DESCOMEDIMENTOS QUE NÃO SE VERIFICAM NA ESPÉCIE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+    I - O presente recurso mostra-se inviável, pois contém apenas a reiteração dos argumentos de defesa anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões decisórias por mim proferidas.
+    II - A decisão ora atacada não merece reforma ou qualquer correção, pois os seus fundamentos harmonizam-se estritamente com a jurisprudência desta Suprema Corte que orienta a matéria em questão.
+    III – A via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória.
+    IV - Far-se-ia possível, nesta oportunidade, “[...] apenas o controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 129920-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma), todavia, não se verificam descomedimentos na espécie.
+    V – Agravo ao qual se nega provimento.”
+    Os embargos de declaração opostos pelos ora pacientes foram rejeitados, em acórdão assim ementado:
+    “EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DOS REQUISITOS DE CABIMENTO. EMBARGOS REJEITADOS.
+    I - Nos termos do art. 337 do Regimento Interno do Supremo Tribunal Federal, cabem embargos de declaração, quando houver no
+    acórdão obscuridade, dúvida, contradição ou omissão que devam ser sanadas.
+    II - Na espécie, não se verifica a presença de qualquer dessas hipóteses.
+    III – Embargos rejeitados.”
+    Na presente impetração, a defesa sustenta, em suma, a possibilidade de revisão da dosimetria da pena de ofício quando se revelar manifesta a ilegalidade. Aduz que, “em qualquer dos cenários, o direito socorre aos pacientes, para que ainda que não fosse concedida a ordem de habeas corpus por entender o Ministro que a via eleita não era a melhor adequada, poderia conceder a ordem de ofício ante a ilegalidade que aflige os pacientes”.
+    Alega a inexistência de individualização da pena, em ofensa ao art. 5º, XLVI, da Constituição Federal.
+    Defende a ausência de fundamentação do acórdão proferido pelo TRE/RJ, em violação ao art. 93, IX, da Constituição Federal. Assinala a existência de contradição quanto à manutenção da condenação dos pacientes em comparação com as condenações de outros corréus. Ainda, aponta que o acórdão proferido pelo TRE/RJ carece de fundamentação no tocante à fixação do quantum de dias-multa.
+     Ao final, formula os pedidos nos seguintes termos:
+    “Conforme exaustivamente esposado nos tópicos deste Recurso Ordinário Constitucional, o acórdão vergastado proferido em sede de Embargos de Declaração no Agravo Regimental no Recurso Ordinário em Habeas Corpus n° 187.715 merece reforma.
+    Por todo o exposto requerem seja cassado o acórdão recorrido, bem como a sentença proferida pelo E. Tribunal Regional Eleitoral, que os condenaram a pena manifestamente ilegal, contrariando os arts. 5°, XLVI e 93, IX, ambos da CRFB, com a consequente concessão de ofício da ordem de habeas corpus para seja reduzida a pena aplicada nos moldes do fundamentado.
+    Por fim, requer a intimação do Agravado para, querendo, se manifestar, nos termos do artigo 1021, § 2º do CPC.”
+    É o relatório. Decido.
+    Ab initio, consigno que, sem embargo do julgamento proferido nos autos do Habeas Corpus nº 130.620, ficou ressalvada, naquela oportunidade, minha posição no sentido do não cabimento de habeas corpus contra decisão proferida por Ministro ou órgão colegiado do Supremo Tribunal Federal.
+    Deveras, o Supremo Tribunal Federal, por ocasião do julgamento do Habeas Corpus nº 92.324/SP, redator para o acórdão o Ministro Ricardo Lewandowski, DJe de 7/5/2010, decidiu ser incabível habeas corpus contra ato jurisdicional dele próprio. No mesmo sentido: HC 86.548/SP, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 19/12/08; HC 108.095/RJ, Rel. Min. Gilmar Mendes, DJe de 29/04/2011; HC 106.654/RJ, Rel. Min. Joaquim Barbosa, DJe de 1º/2/2011; HC 106.054/MG, Rel. Min. Gilmar Mendes, DJe de 17/11/2010; HC 105.499/SP, Rel. Min. Dias Toffoli, DJe de 23/9/2010.
+    Nesse sentido, a impetração revela-se manifestamente incabível, consoante o enunciando da Súmula nº 606 do STF, in verbis:
+    NÃO CABE HABEAS CORPUS ORIGINÁRIO PARA O TRIBUNAL PLENO DE DECISÃO DE TURMA, OU DO PLENÁRIO, PROFERIDA EM HABEAS CORPUS OU NO RESPECTIVO RECURSO.
+    Cumpre ressaltar que a jurisprudência desta Corte é explícita no sentido do não cabimento do habeas corpus originário contra decisão de Relator, Turma ou Pleno em qualquer processo. Nesse sentido: HC 91.207/RJ, Red. p/ acórdão Min. Eros Grau, Pleno, DJe de 5/3/2010; HC 100.397/MG, Red. p/ acórdão Min. Cármen Lúcia, Pleno, DJe de 1º/7/2010; HC 100.738/RJ, Red. p/ acórdão Min. Cármen Lúcia, Pleno, DJe de 1º/7/2010; HC 104.843-AgR/BA, Rel. Min. Ayres Britto, Pleno, DJe de 2/12/2011, valendo transcrever a ementa do HC 105.959, Tribunal Pleno, relator para o acórdão, Min. Edson Fachin, DJe de 15/6/2016, in verbis:
+    HABEAS CORPUS. DIREITO PROCESSUAL PENAL. IMPETRAÇÃO CONTRA ATO DE MINISTRO RELATOR DO SUPREMO TRIBUNAL FEDERAL. DESCABIMENTO. NÃO CONHECIMENTO. 1. Não cabe pedido de habeas corpus originário para o Tribunal Pleno contra ato de ministro ou outro órgão fracionário da Corte. 2. Writ não conhecido.
+    No mesmo sentido, cabe referir decisão recentemente proferida pelo Tribunal Pleno, em julgamento virtual finalizado em 8/5/2020, nos autos do Agravo Regimental em Habeas Corpus nº 181.667, de relatoria da Ministra Rosa Weber, in verbis:
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA ATO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO. JURISPRUDÊNCIA CONSOLIDADA. APLICAÇÃO ANALÓGICA DA SÚMULA Nº 606/STF.
+    1. Manifesto o descabimento deste habeas corpus, enquanto se volta contra ato de Ministro desta Casa. Consabido que sedimentada a jurisprudência deste STF no sentido, nas palavras de seu eminente Ministro Decano, da inadmissibilidade de habeas corpus, quando impetrado contra decisões emanadas dos órgãos colegiados desta Suprema Corte (Plenário ou Turmas) ou de quaisquer de seus juízes, inclusive quando proferidas em sede de procedimentos penais de competência originária do Supremo Tribunal Federal (HC 109021 AGr/SP, Pleno, Rel. Min. Celso de Mello, 18.12.2013).
+    2. Assentada tal diretriz, na aplicação analógica do enunciado da Súmula nº 606/STF: não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso. 3. Agravo regimental conhecido e não provido.
+    Por fim, não se verifica na hipótese excepcionalidade que permita a concessão da ordem de ofício, haja vista não se vislumbrar teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder.
+    Ex positis, nego seguimento ao presente habeas corpus (art. 13, incs. V, alínea c, c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de dezembro de 2020.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
