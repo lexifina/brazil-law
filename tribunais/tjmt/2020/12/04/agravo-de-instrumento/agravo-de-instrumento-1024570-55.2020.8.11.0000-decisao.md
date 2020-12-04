@@ -1,0 +1,29 @@
+Trata-se de Recuso de Agravo de Instrumento interposto por ITAU UNIBANCO ADMINSTRADORA DE CONSÓRCIO em face de decisão prolatada pelo juízo da Quarta Vara Especializada em Direito Bancário, que nos autos n.o 105618-60.2020.8.11.0041 – Ação de Busca e Apreensão – “II – Indefiro o pedido de ID 43397555, tendo em vista que a decisão de ID 42444981 restou irrecorrida. III – Intime-se novamente o requerente para cumprir com o determinado na decisão de ID 42444981, sanando a irregularidade, acostando aos autos a notificação (via postal, com aviso de recebimento) de forma correta no endereço completo indicado no contrato firmado entre as partes ou instrumento de protesto, consoante ID 42418403, no prazo de 15 (quinze) dias, sob pena de extinção e arquivamento, por se tratar de requisito para a propositura da presente demanda.”
+Inconformado, em suas razões o Agravante alega em síntese, que foi juntado aos autos notificação enviada para o endereço do cliente, em razão boa-fé do Banco, na tentativa de obter uma notificação positiva, apesar de a mora já estar constituída anteriormente.
+Assevera que a legislação de regência acrescentou uma formalidade legal para a documentação da mora, dispondo que a mesma "poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+No entanto, que o problema surge quando, a exemplo da hipótese dos autos, em que a carta com aviso de recebimento foi devolvida com a informação de que seu destinatário ausente na tentativa de entrega.
+Assevera que, na espécie, a falha na comunicação da agravada, a impedir o aperfeiçoamento do ato, deve ser imputada exclusivamente ao recorrido, na medida em que a recorrente, credora, adotou o comportamento que lhe era esperado, no sentido de enviar a notificação ao endereço do devedor indicado no contrato.
+Consigna que se o endereço se encontra desatualizado, ou, como no caso, se tratar de endereço onde o devedor não possa ser encontrado, a frustração da notificação resulta, tão somente, da desídia deste, cuja conduta não se mostra cooperativa para o fiel cumprimento das recíprocas obrigações convencionadas.
+Ainda, que o texto legal confere validade a carta recebida por terceiro.
+Alega que em recente decisão e por unanimidade, a 3a Turma de Direito Civil declarou a validade de notificações encaminhas ao endereço constante no contrato para a constituição em mora, independentemente do resultado.
+Que o fundamento da validade consiste na impossibilidade de atribuir ao credor a desídia do devedor que deixou de informar qualquer alteração de domicílio indicado. Assim, a comunicação frustrada entre as partes, não pode prejudicar o Credor, que cumpriu com o requisito legal, em nome do Princípio da probidade e boa -fé.
+Sustenta que a instituição financeira procedeu com a notificação da parte ré no endereço constante no Contrato de Financiamento, sendo que a referida notificação retornou com a informação de “Ausente”, conforme indicado pela empresa de Correios, no Aviso de Recebimento.
+Discorre sobre a alienação fiduciária e a mora do devedor, sobre a regular comprovação da mora, notificação cartorária e quebra da boa-fé objetiva do devedor; bem como a necessidade de respeito às orientações dos Tribunais Superiores.
+Discorre também, sobre a concessão do efeito suspensivo.
+Requer, a aplicação de efeito ativo ao presente agravo de instrumento, suspendendo a decisão de primeiro grau, pugnando para que seja concedida a medida liminar e expedido o mandado de Busca e Apreensão;
+Requer, ainda mais, que, após a concessão do efeito suspensivo, seja determinada a intimação da parte agravada para responder ao presente recurso. Por fim, após prestadas as informações de estilo pelo Juízo a quo, pugna o agravante pelo provimento ao recurso, devendo ser confirmada a constitucionalidade do art. 3o, §§ 1o e 2o do DL 911/69, por imperativo de Justiça!
+É o relatório.
+DECIDO.
+Para o deferimento do efeito suspensivo através do Recurso de Agravo de Instrumento, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 995, do Novo Diploma Processual.
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Em sede de cognição sumária, não visualizo, prima facie, a presença dos pressupostos autorizadores para deferir o efeito pleiteado.
+Em que pese não ser prescindível a assinatura do próprio devedor/destinatário no aviso de recebimento da carta registrada; o que se verifica, é que embora enviada no endereço do devedor, ela não foi entregue, tendo em vista que retornou pelo motivo “ausente”.
+Diante do exposto, INDEFIRO o pleito dos Agravantes, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se os Agravados, na forma do art. 1.019, II do NCPC, para que respondam no prazo legal.
+Cumpra-se.
+Cuiabá, 03 dezembro de 2020.
+Alexandre Elias Filho.
+Relator Substituto
