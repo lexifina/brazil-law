@@ -1,0 +1,23 @@
+DECISÃO
+SERVIDORES – REGISTROS – NOTAS – PROTESTO – APROVEITAMENTO – JUDICIÁRIO – ATO DO CONSELHO NACIONAL DE JUSTIÇA – MANDADO DE SEGURANÇA – LIMINAR – INDEFERIMENTO.
+    1. A assessora Isabela Leão Monteiro assim retratou a ação mandamental:
+    Sindicato dos Servidores dos Serviços Auxiliares do Poder Judiciário insurge-se contra acórdão do Conselho Nacional de Justiça, formalizado no pedido de providências nº 0009127-93.2017.2.00.0000, por meio do qual cassada a Resolução CM nº 1/2017, do Conselho da Magistratura do Tribunal de Justiça da Bahia, e determinada a reformulação do aproveitamento, na carreira de analista judiciário, com atribuição e remuneração compatíveis com os cargos anteriormente ocupados, de oficiais e suboficiais de registro, tabeliães e subtabeliães de protesto e notas.
+    Aponta nulidade, no que não notificados os servidores interessados. Diz da incompetência do Conselho para exercer o controle de constitucionalidade de ato normativo. Afirma inobservada a autonomia do Tribunal de Justiça. Assevera ausente desrespeito à regra do concurso público, referindo-se aos artigos 41, § 3º, da Constituição Federal e 41, inciso XXV, da estadual. Sustenta a compatibilidade de vencimentos e atribuições considerados os cargos extintos e o de oficial de justiça avaliador.
+    Sob o ângulo do risco, alude à continuidade da prestação do serviço público, a ser prejudicada se houver realocação dos servidores.
+    Requer, no campo precário e efêmero, a suspensão dos efeitos do ato, autorizando-se o Tribunal de Justiça a aproveitar, na carreira de oficial de justiça avaliador, os servidores cujos cargos foram declarados extintos. Busca a anulação, com o restabelecimento da Resolução CM nº 1/2017.
+    Este mandado de segurança foi distribuído a Vossa Excelência por prevenção ao de nº 37.566, formalizado pelo Sindicato dos Servidores do Poder Judiciário do Estado da Bahia em face do mesmo pronunciamento.
+    2. Eis a Resolução CM nº 1/2017, a versar declaração de desnecessidade de cargo e aproveitamento do servidor:
+    Art. 1º. Fica declarada, na forma do art.41, § 3º da Constituição Federal, e dos artigos 37 e 38 da Lei 6.677, de 26 de setembro de 1994, a desnecessidade dos cargos de Oficial de Registros Públicos, Suboficial de Registros Públicos, Tabelião de Notas, Subtabelião de Notas, Tabelião de Protestos e Subtabelião de Protestos, a partir da efetiva assunção dos respectivos delegatários.
+    Art. 2º. Os servidores que atualmente ocupam os cargos mencionados no art. 1º, ficam imediatamente aproveitados nos cargos de Escrivão de entrância inicial, Subescrivão e Oficial de Justiça Avaliador, integrantes da carreira de Analista Judiciário, com atribuições e vencimentos compatíveis, sem prejuízo das vantagens incorporadas.
+    O Conselho, inexistente equivalência dos cargos declarados desnecessários com os de oficial de justiça avaliador, glosou o ato.
+    Não há nulidade, porquanto a determinação foi no sentido de o Tribunal de Justiça reformular o aproveitamento e observar o entendimento firmado. O contraditório há de ser garantido na origem.
+    Compete ao Conselho Nacional de Justiça, ao exercer o controle da atuação administrativa do Poder Judiciário, colocar em segundo plano ato normativo para, assim, observar a Constituição Federal.
+    Em relação ao aproveitamento de servidor em carreira diversa daquela na qual ingressou mediante concurso público, o Supremo assentou necessária a correspondência de grau de escolaridade, atribuições e remuneração. Precedentes: ação direta de inconstitucionalidade nº 2.335, Pleno, relator originário ministro Maurício Corrêa, redator do acórdão ministro Gilmar Mendes, publicado no Diário da Justiça de 19 de dezembro de 2003, e recurso extraordinário com agravo nº 656.166, Primeira Turma, relatora ministra Cármen Lúcia, com acórdão veiculado no Diário da Justiça de 14 de dezembro de 2011.
+    As atribuições dos cargos de oficial e suboficial de registro, tabelião e subtabelião de protesto e notas, especificadas nos artigos 6º e 7º da Lei nº 8.935/1994, não guardam similitude com as de oficial de justiça avaliador, previstas na Lei estadual nº 11.170/2008, a envolverem “execução de mandados e atos processuais de natureza externa, na forma da legislação processual civil, penal, trabalhista e demais leis especiais”.
+    3. Indefiro a medida acauteladora.
+    4. Ouçam o impetrado e deem ciência à Advocacia-Geral da União – artigo 7º, incisos I e II, da Lei nº 12.016/2009.
+    5. Após, colham parecer da Procuradoria-Geral da República – artigo 12 do mesmo diploma legal.
+    6. Publiquem.
+Brasília, 4 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
