@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus interposto por Valdinei do Carmo Barros, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 578.041/ ES, Relator o Ministro Joel Ilan Paciornik (e-doc 1 fl. 63).
+    Alega a defesa ter sido o recorrente preso preventivamente ante a suposta prática da infração descrita no artigo 155 do CP.
+    Sustenta, em suma, tratar-se de ato desprovido de fundamentação idônea, porquanto lastreado na gravidade abstrata do crime.
+    Aponta existir excesso de prazo, porque “ a segregação provisória do recorrente perdura desde o dia 27 de julho de 2019, ou seja, há cerca de 11 (meses) meses”.
+    Reporta-se à Recomendação nº 62/2020, assinalando o risco de maior contaminação em local com aglomeração de pessoas, como nos presídios.
+    Requer, ao final, o seguinte:
+    “1. em caráter liminar, (1.1) para relaxar de imediato a prisão imposta ao recorrente, até o julgamento final deste recurso, ou, não sendo esse o entendimento em sede de juízo monocrático, (1.2) para determinar (ou até mesmo recomendar), ainda in limine litis, que o Juízo processante imprima a necessária celeridade ao julgamento do paciente e, ao final;
+    2. em caráter definitivo, para relaxar a prisão do recorrente pelo excesso de prazo no seu julgamento, garantindo o Pretório Excelso que VALDINEI DO CARMO BARROS responda o processo em liberdade”.
+    É o relatório.
+    Decido.
+    Transcrevo o teor do aresto questionado:
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL – STF. CONSTRANGIMENTO ILEGAL INEXISTENTE. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A presente impetração fora ajuizada contra decisão que indeferiu pleito de liminar. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal – STF, o que inviabiliza o conhecimento do writ. O referido enunciado sumular somente pode ser superado em hipóteses de flagrante constrangimento ilegal, o que não se verifica nos presentes autos.
+    2. Agravo regimental desprovido (doc 1, e-STJ fl. 63).
+    Pelo que há no acórdão proferido, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso, sendo certo, ademais, que a questão posta à apreciação da Corte não foi analisada pelo Superior Tribunal de Justiça. Portanto, sua análise, de forma originária, por esta Corte, configura inadmissível supressão de instância.
+    Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07.
+    De qualquer modo, anoto que, no tocante a ausência de fundamentos da decisão mediante a qual imposta a preventiva, o Tribunal de Justiça confirmou a medida apontando risco de reiteração criminosa, lastreado em elementos concretos:
+    “Diante disso, entende-se que a prisão preventiva pauta-se na necessidade de assegurar a ordem pública (artigo 312 do Código de Processo Penal), tendo em vista o risco de reiteração delitiva. De fato, os antecedentes criminais do Paciente demonstram que a prisão preventiva é a única medida capaz de acautelar a ordem pública, pois solto sempre esteve envolvido com crimes diversos.
+    Quanto ao perigo gerado pelo estado de liberdade do investigado, entendo que este persiste para a garantia da ordem pública, tendo em vista que, consoante supramencionado, a quantidade de processo que responde, supõem a prática contumaz de crimes contra o patrimônio, e possibilidade de reiteração.
+    (...)
+    Apesar disso, e de o delito imputado ao acusado ser punido com pena máxima de 04 (quatro) anos, a decretação da prisão preventiva do Paciente pode ser – e está – motivada na sua extensa ficha criminal.
+    Em pesquisas realizadas nos sistemas judiciais foram encontrados registros criminais do indiciado, sendo 02 (duas) condenações definitivas por furto, quais sejam, 0020095-25.2015.8.08.0035 e 0019870-15.2009.8.08.0035, e responde por uma (01) ação penal por roubo majorado, 0005481-73.2019.8.08.0035.
+    Diante disso, entende-se que a prisão preventiva pauta-se na necessidade de assegurar a ordem pública (artigo 312 do Código de Processo Penal), tendo em vista o risco de reiteração delitiva. De fato, os antecedentes criminais do Paciente demonstram que a prisão preventiva é a única medida capaz de acautelar a ordem pública, pois solto sempre esteve envolvido com crimes diversos” (doc. e-STJ fl. 25).
+    Este Supremo Tribunal já assentou que “a consideração da existência de alguns inquéritos e ações penais (…) não tem o objetivo de afirmar a presença de maus antecedentes criminais do paciente, mas sim de corroborar a necessidade de se garantir a ordem pública, devido à conveniência de se evitar a reiteração delitiva (HC 95.324/ES, rel. min. Ellen Gracie, DJe 14.11.2008). Assim como, “a jurisprudência do Supremo Tribunal Federal sedimentada no sentido de que primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não afastam a possibilidade da prisão preventiva” (HC 130346, Rel. Gilmar Mendes, Segunda Turma, DJe 14/3/2016).
+    Quanto ao alegado risco de contaminação do recorrente pelo COVID-19, que a defesa não logrou êxito em demonstrar que as instâncias antecedentes tenham descumprido a Recomendação nº 62 do CNJ.
+    No tocante ao excesso de prazo na formação de culpa, anoto que a decisão atacada reconheceu a inexistência de desídia do Poder Judiciário na condução do processo. A esse respeito consignou-se:
+    “Acerca da alegação de excesso de prazo da prisão cautelar, e com os recursos que ora disponho, pude constatar que o rito processual tem sido regularmente observado, não havendo nenhum ato por parte daquele Juízo que tenha obstaculizado o seu processamento, estando tramitando da forma mais célere possível, razão pela qual, em consonância com o princípio da razoabilidade, não há que se falar em constrangimento ilegal por excesso de prazo na manutenção da custódia cautelar do Paciente.
+    Ademais, saliento que os prazos para encerramento da instrução processual não podem resultar de mera soma aritmética, mas de uma análise realizada à luz do princípio da razoabilidade, levando em conta as peculiaridades do caso concreto, de modo a evitar o retardo abusivo e injustificado”.
+    Nessa conformidade, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso em habeas corpus, ficando, por consequência, prejudicado o pedido de liminar. Todavia, concedo a ordem de ofício para que o Juízo processante reavalie a necessidade da preventiva imposta ao paciente, no processo nº 0016633-79.2019.8.08.0048, nos termos do art. 316 do CPP.
+    Publique-se.
+    Brasília, 4 de dezembro de 2020.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
