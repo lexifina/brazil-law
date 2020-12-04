@@ -1,0 +1,35 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) 1019944-90.2020.8.11.0000 - COMARCA DA CAPITAL
+AGRAVANTE: CONDOMINIO VISTAS RESIDENCE
+AGRAVADO: C. A. T. - CONSTRUTORA E INCORPORADORA LTDA - ME
+Vistos etc.
+Trata-se de recurso de agravo de instrumento, com pedido de efeito suspensivo, interposto por CONDOMÍNIO VISTAS RESIDENCE C.A.T, contra a decisão proferida pelo Juízo da 11a Vara Cível da Comarca de Cuiabá, nos autos da Ação de Declaratória de Inexigibilidade de Débito c/c Preceito Cominatório e Tutela de Urgência n.o 1034386-35.8.11.0041, proposta por CONSTRUTORA E INCORPORADORA LTDA-ME., que deferiu medida liminar autorizando o depósito judicial referente à taxa condominial do mês de agosto de 2020, bem como para determinar que a agravante emita certidão negativa de débito e finalize os procedimentos referentes à expedição de termo de recebimento da segunda etapa, com as ressalvas necessárias.
+O agravante assevera que a Magistrada a quo não poderia ter concedido a liminar, uma vez que a Construtora, ora agravada, não finalizou as obras das áreas comuns do Condomínio, assim não poderia expedir o referido termo de recebimento da obra. Sustenta que apesar de haver habite-se expedido pela prefeitura, foram constatadas irregularidades nas obras pelos Bombeiros, por isso foi necessária a realização de reparos, os quais não foram finalizados e ainda causam risco à segurança dos condôminos.
+Alega que a cláusula da Assembleia Geral de Instalação do Condomínio – que determina que a taxa condominial somente será paga após a conclusão da 2a fase da obra –, é nula, uma vez que desde a entrega da 1a fase do empreendimento a maior parte da área de lazer e áreas comum do Condomínio já estavam prontas, por isso tem a agravada tem o dever de recolher a taxa a partir de dezembro de 2017, ou ao menos a partir de julho de 2020, uma vez que a entrega e recebimentos dos projetos da obra ocorreram em 22/07/2020.
+Destaca que foi aprovada na Assembleia Geral Extraordinária da Constituição do Condomínio, a possibilidade da cobrança da referida taxa antecipadamente, sendo estabelecido que a agravada pagaria as despesas referentes ao período de 20/12/2017 a 19/01/2018, cujo vencimento seria 20/01/2018. Da mesma forma, seria responsável pelas despesas do período de 20/01/2018 a 19/02/2018, com o vencimento, também, em 20/01/2018, porquanto ficou estabelecido em ata que o pagamento seria antecipado às despesas.
+Argumenta que os requisitos para a concessão do efeito suspensivo à decisão agravada foram preenchidos, diante da probabilidade do direito e do risco de dano, pois necessita do recebimento das taxas condominiais. Nesses termos, deveria ser restabelecida a possibilidade da cobrança da taxa condominial referente ao mês de julho/2020, bem como deixar de emitir o termo de recebimento das obras com ressalvas.
+Ao final, pugna pelo deferimento do efeito suspensivo à decisão, e, no mérito, pelo provimento do recurso, para que a decisão seja cassada.
+Apresentada contestação pela agravante em primeiro grau, a Magistrada a quo emitiu nova decisão, mantendo a suspensão da cobrança da taxa de julho/2020; reconheceu que as taxas condominiais devem ser recolhidas de forma antecipada como previsto na constituição do condomínio, por isso determinou a realização do depósito judicial pela agravada. Entretanto, deixou de se manifestar sobre o pedido feito pela agravante de não emissão da declaração de inexistência de débitos da agravada, a fim de aguardar o cumprimento dos depósitos para o trato do tema.
+Diante dessa nova decisão, esta Relatoria determinou a intimação da agravante para se manifestar sobre eventual perda do objeto do recurso.
+Em resposta, afirma que não há perda do objeto, pois ainda visa a possibilidade de cobrança da parcela do mês de julho, bem como a suspensão da emissão do termo de entrega da obra com ressalvas. Reitera o pedido da concessão do efeito suspensivo.
+É o relatório.
+Decido.
+Registra-se que o Recurso de Agravo de Instrumento, previsto no Código de Processo Civil em seu art. 1.015, restringe-se às hipóteses legais ali elencadas, no caso ora em análise, constata-se que este se insere na redação do inc. I do aludido dispositivo, in verbis:
+“Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+I - tutelas provisórias; [...].” (Destaca-se).
+Desse modo, admissível o instrumento.
+De início o agravante busca a suspensão dos efeitos da decisão proferida em primeiro grau, nos termos do artigo 1.019 do CPC.
+Tal preceito permite a atribuição de efeito suspensivo (vide inciso I, art. 1.019, CPC), contudo, necessária a demonstração de que a decisão combatida fora emitida a contrario sensu do que estabelece o art. 300 do CPC.
+Destarte, em sede de cognição sumária, razão não assiste ao agravante.
+Pois bem. Verifica-se que há controvérsia sobre a regularidade da cobrança da taxa condominial referente ao mês de julho de 2020, posto que conforme bem consignado na primeira decisão emitida pelo Juízo de origem, há dissenso da agravante ao não querer emitir termo de entrega da obra, mas buscar o pagamento das taxas condominiais.
+Em que pese alegar que há nulidade na previsão da ata de instalação do condomínio, a qual impossibilita a cobrança das taxas condominiais antes da finalização das obras da segunda etapa, esse documento legal é aparentemente válido, portanto, há probabilidade do direito da agravada, hábil a permitir a suspensão de taxa em desacordo com essa norma. De modo que a discussão sobre a eventual irregularidade/nulidade não permite, ao menos nesta fase de cognição sumária, o afastamento da suspensão da cobrança, em tese, ilegal.
+Diante disso, neste momento, também mostra-se escorreita a determinação da emissão de declaração de inexistência da dívida, sendo certo que essa medida poderá ser modificada pelo próprio Juízo, visto que postergou a análise do pedido.
+Por fim, quanto à determinação de expedição do termo de entrega da obra com ressalvas, tem-se que essa medida é adequada ao caso, ora analisado, vez que proporcional e razoável. Isso porque, pelo histórico das controvérsias travadas pelas partes, que são, inclusive, objeto de demanda anterior (Autos n.o ), percebe-se que ambas as parte tem agido com resistência em relação à outra, o que gera entraves e prejuízos aos próprios condôminos que são os principais interessados na resolução das controvérsias, visto que são eles que diretamente suportam os prejuízos causados pela desavença.
+Posto isso, entende-se que a Magistrada mediou a situação de forma harmônica, porquanto não mantem o embaraço da finalização do trabalho, mas não deixa de manter responsabilidade sobre a agravada de adequar as irregularidades da construção, as quais em sua maioria já estão sendo discutidas no primeiro processo, já citado.
+Portanto, entende-se, a priori, que a medida liminar deferida deve ser mantida, ao menos até o julgamento do mérito deste recurso.
+Ante o exposto, INDEFIRO O EFEITO SUSPENSIVO VINDICADO.
+Publique-se.
+Intimem-se.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
