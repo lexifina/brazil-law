@@ -1,0 +1,23 @@
+Habeas corpus. Crime de roubo circunstanciado. Não se conhece, em regra, de habeas corpus empregado como sucedâneo de recurso ou revisão criminal. Supressão de instância. Nulidade. Ato coator parametrizado com a jurisprudência desta Corte. Supressão de instância. Inexistência de teratologia, flagrante ilegalidade ou frontal contrariedade à jurisprudência desta Suprema Corte. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus impetrado por Wagner Paulo da Costa Francisco e outro(s) em favor de Klebert de Sousa Pereira, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 525.027/SP.
+    O paciente foi condenado à pena de 06 (seis) anos e 05 (cinco) meses de reclusão, em regime inicial fechado, pela prática do crime de roubo qualificado (art. 157, § 2º, I e II, do Código Penal).
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO (ART. 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL). ABSOLVIÇÃO. INSUFICIÊNCIA PROBATÓRIA. PRETENSÃO QUE DEMANDA O REEXAME DE FATOS E PROVAS. PROVIDÊNCIA INVIÁVEL NA VIA ELEITA. RECONHECIMENTO FOTOGRÁFICO SUPOSTAMENTE EM DESACORDO COM O ART. 226 DO CPP. IRREGULARIDADE. DOSIMETRIA QUE NÃO MERECE REPAROS. REGIME PRISIONAL FUNDAMENTADO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+    1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou de desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+    2. Não há que se falar em condenação baseada, apenas, na palavra da vítima, uma vez que o Tribunal de origem, soberano na análise das provas, consignou que os depoimentos prestados em juízo mostraram-se firmes e harmônicos, em integral consonância com a denúncia, ao passo que a versão apresentada pelas defesas se mostrou frágil e unilateral, sem qualquer apoio no conjunto probatório carreado aos autos.
+    3. A jurisprudência deste Tribunal Superior admite a possibilidade de reconhecimento do acusado por meio fotográfico, ainda que não observadas a totalidade das formalidades contidas no art. 226 do Código de Processo Penal (HC n. 477.128/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 5/9/2019, DJe 12/9/2019).
+    4. Na hipótese, tanto a fixação da pena quanto do regime inicial de cumprimento de pena foram devidamente fundamentados pelas instâncias ordinárias e amparada em peculiaridades do caso concreto, inexistindo, no ponto, o constrangimento ilegal.”
+    No presente writ, os Impetrantes alegam nulidade do conjunto probatório, porquanto lastreado na palavra da vítima e no inadequado reconhecimento fotográfico realizado apenas na fase inquisitorial. Sustentam ausência de prova de autoria. Requerem, em medida liminar e no mérito, a suspensão da execução da pena, com a expedição do competente alvará de soltura em favor do paciente, até o julgamento final da presente impetração.
+    Em 19.12.2019, indeferi a liminar.
+    O Ministério Público Federal, no parecer da lavra do Subprocurador-Geral da República Juliano Baiocchi Villa-Verde de Carvalho, opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, 2ª Turma, j. 06.3.2018).
+    Observo que, ao negar provimento ao agravo regimental no HC 525.027/SP, o Superior Tribunal de Justiça deixou de analisar a tese defensiva de nulidade processual pertinente ao reconhecimento pessoal do paciente, assim o ato dito coator está parametrizado com a jurisprudência desta Corte que entende inviável a análise originária do tema, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Inexistente, pois, manifesta ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de dezembro de 2020.
+Ministra Rosa Weber
+Relatora
