@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à ausência de prescrição do direito de requerer expedição de nova requisição de pequeno valor, anteriormente cancelada em razão do artigo 2º da Lei nº 13.463/2017. No extraordinário, a recorrente aponta violados os artigos 2º, 5º, inciso XXXVI, 37, cabeça, 167, 169, § 1º, incisos I e II, da Constituição Federal. Sustenta contrariado o princípio da legalidade estrita. Defende a impossibilidade do pagamento de verbas remuneratórias, relativas a exercícios anteriores, sem sua inclusão no orçamento federal.
+    2. Eis o acórdão recorrido:
+    AGRAVO DE INSTRUMENTO. CANCELAMENTO DE RPV. AUSÊNCIA DE LEVANTAMENTO DOS VALORES DEPOSITADOS. PEDIDO DE EXPEDIÇÃO DE NOVO OFÍCIO REQUISITÓRIO. POSSIBILIDADE. INOCORRÊNCIA DE PRESCRIÇÃO. MANUTENÇÃO DA DECISÃO. AGRAVO DA UNIÃO DESPROVIDO.
+    1. Trata-se de agravo de instrumento interposto contra decisão proferida pelo MM. Juiz Federal do JEF que, em sede de cumprimento de sentença, indeferiu pedido de não prosseguimento da execução.
+    2. Nos autos principais, se discute a possibilidade da “elaboração de novo ofício requisitório, com valor correspondente ao devolvido, em benefício do credor”, após o depósito de RPV/Precatório e o não levantamento dos valores pelo credor, com consequente retorno do numerário ao Tesouro Nacional.
+    3. Alega-se no agravo a prescrição da execução, o que impediria a expedição de nova RPV, em substituição à anterior não recebida pela parte-credora.
+    4. Indeferido o efeito suspensivo ao agravo
+    5. Contrarrazões na linha do desprovimento do recurso.
+    6. A decisão agravada está motivada sob o entendimento de que “Quanto à alegação de prescrição, deve-se salientar que, com o depósito dos valores da RPV ou do precatório em favor do exequente/autor, os valores passam a integrar o patrimônio jurídico deste último, ficando os valores a sua disposição, não se podendo se falar em prescrição do direito de saque destes valores. Da mesma forma, não se pode falar em prescrição do direito de cobrança dos valores devidos na ação, posto que estes já foram quitados com o depósito do montante da RPV ou do precatório. Porém, com o cancelamento da RPV ou do precatório em função do art. 2º da Lei n.º 13.463/2017, quando os valores não tenham sido levantados no prazo de dois anos, com o consequente retorno do numerário à Conta Única do Tesouro Nacional, surge o direito do autor/exequente de requerer a expedido de novo RPV ou precatório (art. 3º da Lei n.º 13.463/2017) para a satisfação de seu crédito, passando, a partir do cancelamento, a correr o prazo prescricional para que o demandante/exequente requeira a expedição de novo RPV ou precatório para a satisfação do crédito objeto do título judicial. No presente caso, não decorreram mais de cinco anos entre o cancelamento da RPV e o requerimento de expedição de nova requisição de pagamento, não tendo o direito da parte autora sido atingido pela prescrição” (grifamos).
+    7. De fato, a Lei 13.463/2017 tem dispositivo expresso regulamento a hipótese fática em questão: “Art. 3º. Cancelado o precatório ou a RPV, poderá ser expedido novo ofício requisitório, a requerimento do credor. Parágrafo único. O novo precatório ou a nova RPV conservará a ordem cronológica do requisitório anterior e a remuneração correspondente a todo o período” (grifei).
+    8. Portanto, a lei não prevê a prescrição do direito à pretensão de expedição de novo ofício requisitório, donde se conclui a imprescritibilidade do direito.
+    9. Neste sentido, há precedente desta Turma Recursal: Processo nº 10. 0500294-17.2018.4.05.9820.
+    11. Assim, é o caso de negar provimento ao recurso do Ente Público.
+    12. Súmula do julgamento: A Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba, reunida em sessão de julgamento ocorrida na data constante da aba “Sessões Recursais” destes autos virtuais, por unanimidade de votos, NEGOU PROVIMENTO ao agravo do Ente Público, nos termos expostos no voto do Juiz-relator.
+    A decisão impugnada revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 4 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
