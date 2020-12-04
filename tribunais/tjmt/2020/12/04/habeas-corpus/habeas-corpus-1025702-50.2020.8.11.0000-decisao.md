@@ -1,0 +1,27 @@
+HABEAS CORPUS N. 1025702-50.2020.811.0000 – COMARCA DE BARRA DO BUGRES
+IMPETRANTE: IVO MARCELO SPINOLA DA ROSA
+PACIENTE: JONAS MANOEL DE SOUZA
+VISTOS,
+Cuida-se do terceiro habeas corpus com pedido de liminar impetrado em favor de JONAS MANOEL DE SOUZA, contra decisão prolatada pelo Juízo da 3a Vara Criminal da Comarca de Barra do Bugres, que decretou a regressão de regime do apenado, do semiaberto para o fechado.
+Assim como nas ações mandamentais anteriores, assevera que o paciente cumpre pena de 5 [cinco] anos e 4 [quatro] meses de reclusão pelo crime de corrupção passiva [art. 317, caput, do CP] e que, em razão da pandemia, não foi realizada a audiência admonitória, tendo sido ele intimado das condições fixadas pelo juízo para cumprimento da reprimenda por mandado, em 13/03/2020.
+Aduz que é portador de “doença circulatória grave”, razão pela qual requereu fosse dispensado do uso da tornozeleira eletrônica, uma vez que usa “meia elástica de média compressão, que revestem desde o pé até a altura final das coxas” em decorrência das varizes que possui, nos membros inferiores.
+Verbera que “se o paciente não utilizar a meia de compressão, este poderá vir a desenvolver trombose TVP ou trombose pulmonar”.
+Esclarece que, a despeito da juntada de “laudos médicos” no executivo de pena, após manifestação desfavorável do Ministério Público, o pedido para não utilização da tornozeleira eletrônica foi indeferido e a regressão de regime foi decretada pelo juízo singular.
+Informa que interpôs agravo em execução, com pedido de efeito suspensivo, em 19/11/2020, que até a presente data sequer foi recebido pelo juízo singular.
+Sustenta que é ilegal a regressão de regime sem que tenha havido a audiência de justificação, nos moldes do art. 118, § 2o, da LEP, razão pela qual almeja a concessão liminar da ordem, para que o reeducando permaneça no regime semiaberto.
+É a síntese do necessário.
+DECIDO.
+Assim como já mencionei nas decisões prolatadas nos HC’s anteriores, mais uma vez ressalto que a jurisprudência dos tribunais superiores restringe a utilização do habeas corpus nos casos em que o ato acoimado de ilegal é passível de impugnação pela via recursal própria, ressalvando apenas a possibilidade de concessão da ordem, de ofício, quando há flagrante ilegalidade.
+Nesse sentido:
+[...] O Supremo Tribunal Federal, por sua Primeira Turma e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. [...] (STJ, AgRg no HC 446.612/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/09/2018, DJe 18/09/2018).
+No presente caso, a impetração volta-se contra constrangimento ilegal supostamente ocasionado pelo juízo da execução penal, que, a teor do que estabelece o art. 197 da LEP, deve ser impugnada por meio de agravo – recurso este que já foi interposto no juízo de origem.
+No entanto, decorridos 15 [quinze] dias desde a interposição do mencionado agravo, até a presente data – conforme constatei em pesquisa realizada no SEEU – o magistrado sequer recebeu o recurso, tampouco designou audiência de justificação, de modo que, a princípio, ao menos em sede de cognição sumária, neste caso concreto, visualizo constrangimento ilegal decorrente do atraso na marcha processual, que autoriza a suspensão da regressão cautelar do regime, mediante o cumprimento de cautelares diversas.
+A despeito das recomendações médicas prescreverem ao reeducando o uso de “meia de média compressão” para tratamento das varizes que possui, não há, nas receitas e laudos médicos, uma linha sequer atestando que o uso da tornozeleira eletrônica impede o uso das sobreditas meias, até porque, como é notório, tal equipamento é colocado no membro inferior do reeducando de modo que não seja possível retirá-lo, mas não se tem notícia que ele o impeça de calçar meias, de qualquer natureza, tampouco que traga prejuízo à saúde do seu detentor.
+Diante disso, DEFIRO PARCIALMENTE A LIMINAR e condiciono a expedição do alvará de soltura à prévia instalação da tornozoleira eletrônica no reeducando, que deverá, ainda, cumprir as demais condições anteriormente estabelecidas pelo juízo da execução penal, para que permaneça no regime semiaberto, até que se realize a audiência de justificação e seja decidido, em definitivo, o pedido de regressão de regime de JONAS formulado pelo Ministério Público.
+Delego ao juízo de origem a responsabilidade pela expedição do alvará de soltura em favor do paciente JONAS MANOEL DE SOUZA, salvo se por outro motivo estiver preso, após a prévia instalação da tornozeleira eletrônica, advertindo-o expressamente sobre as medidas cautelares impostas, as quais deverão constar do mandado, e sobre a possibilidade de decreto de nova prisão, em caso de descumprimento delas, desde que devidamente fundamentada em dados concretos extraídos dos autos.
+Desde já fica o juízo de origem autorizado a revogar, a substituir ou a acrescentar outras medidas cautelares, desde que não prejudique a situação processual do réu, salvo se surgirem elementos ou circunstâncias supervenientes hábeis a autorizar a imposição de medidas mais drásticas.
+Intime-se. Publique-se. Cumpra-se.
+Após, colha-se a manifestação da Procuradoria de Justiça.
+Cuiabá, 4 de dezembro de 2020.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator.
