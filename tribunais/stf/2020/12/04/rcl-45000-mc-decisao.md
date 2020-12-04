@@ -1,0 +1,27 @@
+DECISÃO
+    Trata-se re reclamação, com pedido de medida liminar, contra decisão proferida pela autoridade reclamada que converteu a prisão em flagrante do paciente, ora reclamante, em prisão preventiva, acolhendo prévia manifestação, nesse sentido, do Ministério Público.
+    Alega a parte reclamante que tal decisão teria violado preceitos fundamentais, quais sejam: “dignidade da pessoa humana (art. 1º-III); proibição de tortura e de tratamento desumano ou degradante (art. 5º-III); vedação de sanções cruéis (art. 5ºXLVII-e); exigência de cumprimento depena em estabelecimentos distintos, de acordo com natureza do crime, idade e sexo do apenado (art. 5º-XLVIII) e direito à integridade física e moral de presos (art. 5º-XLIX);”
+    Busca-se, em síntese, a liberdade do reclamante.
+    Tal o contexto, reputo inadmissível este pleito reclamatório.
+    É que as hipóteses de cabimento da reclamação encontram-se previstas em rol taxativo constante do art. 988 do CPC, assim redigido:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.”
+    Do exame dos presentes autos, é possível concluir que o reclamante sequer indicou uma hipótese de cabimento que venho de expor, apenas argumentando que a decisão impugnada teria violado preceitos fundamentais, o que, por isso mesmo, torna inviável o conhecimento da presente reclamação, nos termos da jurisprudência desta Suprema Corte (Rcl 42.530-AgR/MG, Ministro Gilmar Mendes; Rcl 5.027-AgR/PB, Ministra Cármen Lúcia; Rcl 39.311-AgR/SP, Ministro Ricardo Lewandowski; Rcl 6.563-AgR/SP, Ministro Roberto Barroso).
+    Portanto, com os fundamentos que venho de referir, fica inviável dar seguimento a esta reclamação em razão da ausência de hipótese de seu cabimento.
+    Ademais, é firme a orientação jurisprudencial deste Supremo Tribunal Federal no sentido de desautorizar a utilização da reclamação como sucedâneo de recursos. Ou seja, a decisão ora reclamada deve ser impugnada pelo reclamante através das vias ordinárias e não se utilizando da via reclamatória como instrumento para viabilizar uma indevida supressão de instâncias (Rcl 43.302/RJ, Ricardo Lewandowski, Rcl 42.046-AgR/SP, Ministra Rosa Weber; Rcl 40.331-AgR/GO, Edson Fachin).
+    Todavia, mesmo quando inadmissível a reclamação, este Supremo Tribunal Federal entende ser possível, excepcionalmente, a concessão da ordem de habeas corpus de ofício, desde que caracterizada, no caso, situação de flagrante ilegalidade (Rcl 21.649-AgR/SP, Ministro Dias Toffoli; Rcl 26.360-AgR/MS, Ministro Ricardo Lewandowski).
+    Entendo, porém, que não há flagrante ilegalidade na decisão proferida pelo Juízo reclamado, no ponto em que converteu, após prévio requerimento do Ministério Público, a prisão em flagrante do paciente, ora reclamante, em prisão preventiva.
+    Isso porque, como já decidiu este Supremo Tribunal Federal (HC 188.888/MG, Ministro Celso de Mello), o que se veda é a conversão de ofício pelo magistrado da prisão em flagrante em prisão preventiva, ou seja, sem o prévio requerimento da autoridade policial ou anterior manifestação do Ministério Público. Nesses casos, entendeu esta Suprema Corte que seria possível a concessão, de ofício, da ordem de habeas corpus, invalidando a referida conversão automática efetuada pela autoridade judicial.
+    Ocorre, porém, como já devidamente demonstrado nos autos que, no caso em exame, antes do ato reclamado, houve expresso requerimento do Ministério Público no sentido da necessidade da conversão da prisão do paciente, ora reclamante, em prisão preventiva, o que afasta a ocorrência, no caso, de flagrante ilegalidade que ensejaria a concessão do habeas corpus de ofício.
+     Finalmente, melhor sorte não socorre a parte reclamante no que toca à pretendida substituição da pena privativa de liberdade que lhe foi imposta por prisão domiciliar, com fundamento na Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Em decorrência da circunstância de pandemia provocada pelo novo coronavírus (COVID-19), o Conselho Nacional de Justiça editou a Recomendação nº 62/2020 com o objetivo de reduzir os riscos de disseminação do vírus à população privada de liberdade.
+    No caso em espécie, não vislumbro demonstradas pelo reclamante a existência de diagnóstico suspeito ou confirmado de infecção pelo novo coronavírus ou a impossibilidade seu atendimento médico na respectiva unidade prisional aptas a merecerem o alcance da Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Nesse mesmo sentido encontra-se consolidado o entendimento jurisprudencial desta Suprema Corte, conforme ilustram, em casos fronteiriços, os seguintes acórdãos: HC 188.716-AgR/SP, Ministro Celso de Mello; HC 189.421-ED/SP, Ministro Alexandre de Moraes; HC 189.752/SP, Ministro Marco Aurélio, HC 191.080-AgR/SP, Ministra Cármen Lúcia.
+    Em face do exposto, não conheço desta reclamação.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 04 de dezembro de 2020.
+Ministro NUNES MARQUES
+Relator
