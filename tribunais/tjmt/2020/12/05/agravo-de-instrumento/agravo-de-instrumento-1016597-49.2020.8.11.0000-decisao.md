@@ -1,0 +1,86 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Recurso Especial em Agravo de Instrumento n. 1016597-49.2020.8.11.0000
+RECORRENTE : MARTA DE ARAUJO RODRIGUES
+RECORRIDO : J F FERRAMENTAS LTDA
+Vistos, etc.
+Trata-se de Recurso Especial (ID 63343452), com pedido de efeito suspensivo, interposto por MARTA DE ARAUJO RODRIGUES, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra acórdão da Quarta Câmara de Direito Privado (ID 56432990):
+“AGRAVO – INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA – DESPACHO QUE ORDENA ESPECIFICAÇÃO DE PROVAS – MERO EXPEDIENTE – DESPACHO NÃO AGRAVÁVEL – ALEGAÇÃO DE VICIOS DE CITAÇÃO QUE AINDA SERÃO OBJETO DE ANÁLISE EM DECISÃO SANEADORA OU PELA DECISÃO QUE RESOLVERÁ O MÉRITO DO INCIDENTE DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA – QUESTÕES AINDA NÃO RESOLVIDAS NA ORIGEM – APLICAÇÃO DE MULTA POR CARÁTER PROTELATÓRIO DECORRENTE DA OPOSIÇÃO DE DOIS EMBARGOS DE DECLARAÇÃO SOBRE OS MESMOS ASSUNTOS – POSSIBILIDADE DA APLICAÇÃO DA REFERIDA MULTA – AGRAVO DESPROVIDO – DECISÃO MANTIDA.
+Não se revela agravável o despacho que ordenou a especificação de provas, ainda que tenha sido integrado pela decisão que rejeitou Embargos de Declaração, mas que não resolveu as alegações da parte, de vícios de citação, mas que consignou que serão objeto de análise quando da prolação de decisão saneadora ou da que resolverá o Incidente da Desconsideração da Personalidade Jurídica.
+É de ser mantida a multa de 2% descrita pela regra do art. 1.026 do CPC em razão do caráter protelatório verificado pelo Juízo de origem na oposição de dois Embargos de Declaração com nítida intenção de rediscutir assunto já esclarecido anteriormente e não de demonstrar existência dos vícios descritos pela regra do art. 1.022 do CPC.” (N.U 1016597-49.2020.8.11.0000, AGRAVO DE INSTRUMENTO, DES. GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 02/09/2020)
+Os Embargos de Declaração (ID 57172486), foram rejeitados conforme ementa de ID 59699988.
+Alega violação aos artigos 242, §1o, 485, inciso IV, §3o, 1.015, incisos IV e IX, 1.022 e 1.026, §2o, todos do Código de Processo Civil, aduzindo a necessidade de que seja reconhecida a irregularidade de citação da sociedade estrangeira TEL3 na pessoa de MARTA, bem como afastar a condenação ao pagamento de multa por litigância de má-fé.
+Recurso tempestivo (ID 63524981) e preparado (ID 63545994).
+Contrarrazões juntadas conforme ID 67618985.
+Pedido de efeito suspensivo indeferido (ID 64214469).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. DIREITO À IMAGEM. MATÉRIA CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. CONJUNTO FÁTICO-PROBATÓRIO. REANÁLISE. SÚMULA No 7/STJ. DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI. SÚMULA No 284/STF.
+1. [...]4. Acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula no 7/STJ.
+5. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido como violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula no 284/STF.
+6. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula no 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+7. Agravo interno não provido.” (AgInt no AREsp 1518371/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/05/2020, DJe 15/05/2020) (g.n.)
+In casu, embora tenha alegado ofensa ao artigo 1.015, incisos IV e IX, do Código de Processo Civil, não se demonstrou de forma precisa, concreta e específica como ocorreu a violação, impossibilitando, consequentemente, a exata compreensão da matéria apresentada, o que faz incidir a Súmula 284/STF, o que obsta a admissão do recurso neste ponto.
+Suposta violação ao artigo 1.022 do CPC
+A partir da suposta ofensa ao artigo 1.022, do Código de Processo Civil, alega que o órgão fracionário deste Tribunal foi omisso uma vez que não analisou as teses (i) o reconhecimento do aperfeiçoamento da angularização processual pela decisão agravada e, consequentemente, da regularidade de citação de TEL3 na pessoa de MARTA; e (ii) o risco de prosseguimento da ação de origem, sem que seja sanado o vício de citação, que maculará os atos posteriores praticados de irreparável nulidade.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“[...] Em que pese a decisão de origem ter consignado que a citação se aperfeiçoou, RESERVOU A ANÁLISE DA VALIDADE OU NÃO DA CITAÇÃO PARA MOMENTO POSTERIOR, OU SEJA, NA DECISÃO SANEADORA OU NA QUE RSOLVERÁ O MÉRITO DO INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.
+E este fato foi sim mencionado pelo v. acórdão embargado.
+Veja o fragmento do v. acórdão embargado:
+“As alegações postas nas razões deste Agravo revelam a insurgência da aqui agravante, Marta de Araujo Rodrigues, com o despacho que determinou a especificação de provas, que foi integrado pela decisão que rejeitou Embargos de Declaração opostos pela aqui agravante.
+Vê-se que após as citações e apresentação de defesa, a magistrada de origem determinou a especificação de provas, cujo despacho foi objeto de dois Embargos de Declaração.
+Veja-se o fragmento do despacho que determinou a especificação de provas e que deu origem aos dois Embargos de Declaração:
+[...] Referido despacho foi integrado pela decisão que rejeitou os primeiros Embargos de Declaração, SEM NADA RESOLVER SOBRE O ALEGADO VÍCIO DA CITAÇÃO, porquanto embora tenha a magistrada de origem feito o esclarecimento de que a citação da aqui agravante não se deu na condição de parte, mas de procuradora (advogada) da empresa Tel 3 S/A., RESERVOU, ENTRETANTO, A DECISÃO SOBRE O EVENTUAL VÍCIO DA CITAÇÃO PARA MOMENTO POSTERIOR, OU SEJA, PARA A PROLAÇÃO DE SANEADOR OU POR OCASIÃO DA DECISÃO QUE RESOLVERÁ o Incidente de Desconsideração da Personalidade Jurídica oposto por JF Ferramentas Ltda. em face de Austin Engenharia Ltda..
+Veja o fragmento da decisão integrativa do despacho de especificação de provas, que rejeitou os primeiros Embargos de Declaração opostos pela aqui agravante e que consignou que as questões preliminares seriam resolvidas na decisão saneadora ou naquela que resolver o Incidente de Desconsideração de Personalidade Jurídica:
+“Vistos etc.
+MARTA DE ARAÚJO RODRIGUES ingressou com EMBARGOS DE DECLARAÇÃO da decisão proferida à fls. 63, alegando a existência de omissão no julgado.
+AS QUESTÕES PRELIMINARES ADUZIDAS PELAS PARTES SÃO OBJETO DE ENFRENTAMENTO POR OCASIÃO DO SANEADOR OU POR OCASIÃO DA PROLAÇÃO DE SENTENÇA, sendo certo que a intimação das partes para a especificação de provas é em respeito ao princípio do contraditório.” (grifo próprio).
+Quanto ao alegado “risco de prosseguimento da ação de origem, sem que seja sanado o vício de citação, que maculará os atos posteriores praticados de irreparável nulidade” é questão que sequer comporta análise em sede de Agravo de Instrumento, máxime por se tratar de entendimento da parte que não foi resolvido pela decisão impugnada.
+[...] Além do que, se a citação for invalidada, como a agravante, aqui embargante de declaração, pretende que seja, será consequência natural que os atos posteriores e inerentes a referida citação sejam revistos. Entretanto, tal fato somente poderá ocorrer após o juízo de origem pronunciar efetivamente sobre a validade ou não da citação, o que ainda não ocorreu, porquanto a análise foi reservada para momento posterior, vale dizer, para quando da prolação de despacho saneador ou para a decisão que resolverá o Incidente de Desconsideração da Personalidade Jurídica como afirmado pelo prolator de origem.
+Oportuno consignar que o Agravo de Instrumento atacou despacho de expediente que determinou a especificação de provas e que nada resolveu, notadamente sobre a validade ou não da citação da agravante, aqui embargante de declaração.
+Veja o fragmento do v. acórdão embargado:
+“Assim, por se tratar a especificação de provas, de despacho de impulso, que nada resolveu, em especial quanto ao alegado vício da citação, não pode ser objeto de Agravo de Instrumento.” (ID 59699987 – p.5/6)
+Diante desse quadro, não há evidência de violação ao artigo 1.022 do CPC, o que conduz à inadmissão do recurso, neste ponto.
+Reexame de matéria fática. Súmula 7 do STJ.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das Leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A partir da suposta violação aos artigos 242, §1o, 485, inciso IV, §3o, ambos do CPC, o Recorrente defende necessidade de que seja reconhecida a irregularidade de citação da sociedade estrangeira TEL3 na pessoa de MARTA.
+Neste ponto, consignou-se no aresto recorrido que:
+“[...] As alegações postas nas razões deste Agravo revelam a insurgência da aqui agravante, Marta de Araujo Rodrigues, com o despacho que determinou a especificação de provas, que foi integrado pela decisão que rejeitou Embargos de Declaração opostos pela aqui agravante.
+Vê-se que após as citações e apresentação de defesa, a magistrada de origem determinou a especificação de provas, cujo despacho foi objeto de dois Embargos de Declaração.
+Veja-se o fragmento do despacho que determinou a especificação de provas e que deu origem aos dois Embargos de Declaração:
+[...] Logo, vê-se que não se trata de decisão interlocutória, mas de despacho,
+a ordem de especificação de provas.
+Referido despacho foi integrado pela decisão que rejeitou os primeiros Embargos de Declaração, sem nada resolver sobre o alegado vício da citação, porquanto embora tenha a magistrada de origem feito o esclarecimento de que a citação da aqui agravante não se deu na condição de parte, mas de procuradora (advogada) da empresa Tel 3 S/A., reservou, entretanto, a decisão sobre o eventual vício da citação para momento posterior, ou seja, para a prolação de saneador ou por ocasião da decisão que resolverá o Incidente de Desconsideração da Personalidade Jurídica oposto por JF Ferramentas Ltda. em face de Austin Engenharia Ltda..
+Veja o fragmento da decisão integrativa do despacho de especificação de provas, que rejeitou os primeiros Embargos de Declaração opostos pela aqui agravante e que consignou que as questões preliminares seriam resolvidas na decisão saneadora ou naquela que resolver o Incidente de Desconsideração de Personalidade Jurídica:” (ID 56432983 – p.5/6)
+Logo, para rever o entendimento firmado pela Câmara sobre esse ponto, é necessário o exame de fatos e provas, o que atrai o óbice sumular acima mencionado.
+Ademais, o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, de que, o que impõe a incidência da Súmula 83 do STJ, a qual preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+Confira-se:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. "De acordo com o entendimento desta Corte, que adota a teoria da aparência, considera-se válida a citação postal, desde que comprovada, por meio do aviso de recebimento, a sua entrega na sede ou filial da empresa a uma pessoa que não recusa a qualidade de funcionário. Precedentes" (AgRg no AREsp 163.210/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/02/2014, DJe 24/02/2014).
+2. Na hipótese, o Tribunal de origem, com base nos elementos acostados aos autos, considerou válida a citação, haja vista a aplicação da teoria da aparência. Para rever tais conclusões, seria necessário o revolvimento da matéria fático-probatória constante dos autos, providência vedada nos termos do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.” (AgInt no AREsp 976.554/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe 27/11/2019) (g.n.)
+Igual entendimento é aplicado à alegada afronta ao artigo 1.026, §2o, do CPC, em que a parte Recorrente busca dirimir se, no caso concreto, os Embargos de Declaração opostos caracterizam-se como protelatórios, pois também é imprescindível o reexame das provas produzidas nos autos. Confira-se:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONHECIMENTO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DE LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO. RECURSO ESPECIAL. FUNDAMENTAÇÃO VINCULADA. IMPUGNAÇÃO INSUFICIENTE. SÚMULAS NoS 283 E 284, AMBAS DO STF. EMBARGOS DE DECLARAÇÃO. EFEITO SUSPENSIVO. EXCEPCIONALIDADE. MULTA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA No 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. [...] 2. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+3. [...] 4. Os embargos de declaração não possuem efeito suspensivo, podendo ser conferido de forma excepcional, ante a necessária demonstração da probabilidade de provimento do recurso ou, caso relevante a fundamentação, exista risco de dano grave ou de difícil reparação, nos termos do § 1o do art. 1.026 do NCPC. Precedentes.
+5. O acórdão vergastado assentou que a oposição dos segundos embargos de declaração, reprisando argumentação dos primeiros, evidenciava o caráter protelatório do recurso integrativo. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula no 7 do STJ.
+6. Agravo interno não provido.” (AgInt no REsp 1842550/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 14/08/2020) (g.n.)
+Por fim, consigne-se que, embora a Súmula n. 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO. (...) 6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes. 7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos. 8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, além de estar de acordo com a jurisprudência da corte superior, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 02 de dezembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+IX
